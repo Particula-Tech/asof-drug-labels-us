@@ -1,33 +1,33 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Antacids, Sucralfate, Multivitamins and other products containing Multivalent Cations
+## 7.1 Antacids, Sucralfate, Multivitamins and Other Products Containing Multivalent Cations
 
-Quinolones form chelates with alkaline earth and transition metal cations.
-Oral administration of quinolones with antacids containing aluminum or magnesium, with sucralfate, with metal cations such as iron, or with multivitamins containing iron or zinc, or with formulations containing divalent and trivalent cations such as VIDEX®(didanosine) chewable/buffered tablets or the pediatric powder for oral solution, may substantially interfere with the absorption of quinolones, resulting in systemic concentrations considerably lower than desired.
+Fluoroquinolones, including moxifloxacin, form chelates with alkaline earth and transition metal cations.
+Oral administration of moxifloxacin with antacids containing aluminum or magnesium, with sucralfate, with metal cations such as iron, or with multivitamins containing iron or zinc, or with formulations containing divalent and trivalent cations such as didanosine buffered tablets for oral suspension or the pediatric powder for oral solution, may substantially interfere with the absorption of moxifloxacin, resulting in systemic concentrations considerably lower than desired.
 Therefore, moxifloxacin should be taken at least 4 hours before or 8 hours after these agents.
-[see Dosage and Administration (2.2), Pharmacokinetics (12.3), and Patient Counseling Information (17).]
+[See Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]
 
 ## 7.2 Warfarin
 
-Quinolones, including moxifloxacin, have been reported to enhance the anticoagulant effects of warfarin or its derivatives in the patient population.
+Fluoroquinolones, including moxifloxacin, have been reported to enhance the anticoagulant effects of warfarin or its derivatives in the patient population.
 In addition, infectious disease and its accompanying inflammatory process, age, and general status of the patient are risk factors for increased anticoagulant activity.
-Therefore the prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests should be closely monitored if a quinolone is administered concomitantly with warfarin or its derivatives.
-[see Adverse Reactions (6.2, 6.3), Pharmacokinetics (12.3), and Patient Counseling Information (17).]
+Therefore the prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests should be closely monitored if moxifloxacin is administered concomitantly with warfarin or its derivatives.
+[See Adverse Reactions (6.2) and Clinical Pharmacology (12.3)].
 
 ## 7.3 Antidiabetic Agents
 
-Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with fluoroquinolones and an antidiabetic agent.
+Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with fluoroquinolones, including moxifloxacin, and an antidiabetic agent.
 Therefore, careful monitoring of blood glucose is recommended when these agents are co-administered.
 If a hypoglycemic reaction occurs, moxifloxacin should be discontinued and appropriate therapy should be initiated immediately.
-[See Warnings and Precautions (5.10); Adverse Reactions (6.2), Patient Counseling Information (17).]
+[See Warnings and Precautions (5.11) and Adverse Reactions (6.1)]
 
-## 7.4 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
+## 7.4 Nonsteroidal Anti-Inflammatory Drugs
 
-Although not observed with moxifloxacin in preclinical and clinical trials, the concomitant administration of a nonsteroidal anti-inflammatory drug with a quinolone may increase the risks of CNS stimulation and convulsions [see Warnings and Precautions (5.6), and Patient Counseling Information (17)].
+The concomitant administration of a nonsteroidal anti-inflammatory drug (NSAID) with a fluoroquinolone, including moxifloxacin, may increase the risks of CNS stimulation and convulsions [see Warnings and Precautions (5.4)].
 
 ## 7.5 Drugs that Prolong QT
 
 There is limited information available on the potential for a pharmacodynamic interaction in humans between moxifloxacin and other drugs that prolong the QTc interval of the electrocardiogram.
 Sotalol, a Class III antiarrhythmic, has been shown to further increase the QTc interval when combined with high doses of intravenous (IV) moxifloxacin in dogs.
 Therefore, moxifloxacin should be avoided with Class IA and Class III antiarrhythmics.
-[see Warnings and Precautions, (5.3), Nonclinical Toxicology (13.2), and Patient Counseling Information (17).]
+[See Warnings and Precautions (5.6), and Nonclinical Toxicology (13.2)].

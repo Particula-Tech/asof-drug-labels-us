@@ -1,47 +1,67 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide
+Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
-Antibacterial Resistance
+Serious Adverse Reactions Advise patients to stop taking moxifloxacin if they experience an adverse reaction and to call their healthcare provider for advice on completing the full course of treatment with another antibacterial drug.
 
-Antibacterial drugs including moxifloxacin should only be used to treat bacterial infections.
+Inform patients of the following serious adverse reactions that have been associated with moxifloxacin or other fluoroquinolone use:
+
+• Disabling and potentially irreversible serious adverse reactions that may occur together: Inform patients that disabling and potentially irreversible serious adverse reactions, including tendinitis and tendon rupture, peripheral neuropathies, and central nervous system effects, have been associated with use of moxifloxacin and may occur together in the same patient.
+Inform patients to stop taking moxifloxacin immediately if they experience an adverse reaction and to call their healthcare provider.
+
+• Tendinitis and Tendon Rupture: Instruct patients to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue moxifloxacin treatment.
+Symptoms may be irreversible.
+The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
+
+• Peripheral Neuropathies: Inform patients that peripheral neuropathies have been associated with moxifloxacin use, symptoms may occur soon after initiation of therapy and may be irreversible.
+If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, immediately discontinue moxifloxacin and tell them to contact their physician.
+
+• Central nervous system effects (for example, convulsions, dizziness, lightheadedness, increased intracranial pressure): Inform patients that convulsions have been reported in patients receiving fluoroquinolones, including moxifloxacin.
+Instruct patients to notify their physician before taking this drug if they have a history of convulsions.
+Inform patients that they should know how they react to moxifloxacin before they operate an automobile or machinery or engage in other activities requiring mental alertness and coordination.
+Instruct patients to notify their physician if persistent headache with or without blurred vision occurs.
+
+• Exacerbation of Myasthenia Gravis: Instruct patients to inform their physician of any history of myasthenia gravis.
+Instruct patients to notify their physician if they experience any symptoms of muscle weakness, including respiratory difficulties.
+
+• Hypersensitivity Reactions: Inform patients that moxifloxacin can cause hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (for example, swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
+
+•Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking moxifloxacin.
+Instruct patients to inform their physician if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
+
+• Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, instruct patients to contact their physician as soon as possible.
+
+• Prolongation of the QT Interval: Instruct patients to inform their physician of any personal or family history of QT prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
+Instruct patients to notify their physician if they have any symptoms of prolongation of the QT interval, including prolonged heart palpitations or a loss of consciousness.
+
+• Photosensitivity/Phototoxicity: Inform patients that photosensitivity/phototoxicity has been reported in patients receiving fluoroquinolones.
+Inform patients to minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
+If patients need to be outdoors while using quinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
+If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
+
+• Blood Glucose Disturbances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue moxifloxacin and consult a physician.
+
+Antibacterial Resistance Inform patients that antibacterial drugs including moxifloxacin should only be used to treat bacterial infections.
 They do not treat viral infections (for example, the common cold).
 When moxifloxacin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by moxifloxacin or other antibacterial drugs in the future.
 
-Administration With Food, Fluids, and Drug Products Containing Multivalent Cations Patients should be informed that moxifloxacin hydrochloride tablets may be taken with or without food.
-Patients should be advised to drink fluids liberally.
+Administration With Food, Fluids, and Drug Products Containing Multivalent Cations Inform patients that moxifloxacin hydrochloride tablets may be taken with or without food.
+Advise patients drink fluids liberally.
 
-Moxifloxacin hydrochloride tablets should be taken at least 4 hours before or 8 hours after multivitamins (containing iron or zinc), antacids (containing magnesium or aluminum), sucralfate, or VIDEX® (didanosine) chewable/buffered tablets or the pediatric powder for oral solution.
+Inform patients that moxifloxacin hydrochloride tablets should be taken at least 4 hours before or 8 hours after multivitamins (containing iron or zinc), antacids (containing magnesium or aluminum), sucralfate, or didanosine buffered tablets for oral suspension or the pediatric powder for oral solution.
 
-Serious and Potentially Serious Adverse Reactions
+Plague Studies Inform patients given moxifloxacin for plague that efficacy studies could not be conducted in humans for feasibility reasons.
+Therefore, approval for plague was based on efficacy studies conducted in animals.
 
-To assure safe and effective use of moxifloxacin, patients should be informed of the following serious adverse reactions that have been associated with moxifloxacin and other fluoroquinolone use:
+Rx only
 
-- Tendon Disorders: Patients should contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue moxifloxacin treatment.
-  The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
-- Exacerbation of Myasthenia Gravis: fluoroquinolones like moxifloxacin may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
-  Patients should call their healthcare provider right away if they have any worsening muscle weakness or breathing problems.
-- Prolongation of the QT interval: Moxifloxacin may produce changes in the electrocardiogram (QTc interval prolongation).
-  Moxifloxacin should be avoided in patients receiving Class IA (for example quinidine, procainamide) or Class III (for example amiodarone, sotalol) antiarrhythmic agents.
-  Moxifloxacin may add to the QTc prolonging effects of other drugs such as cisapride, erythromycin, antipsychotics, and tricyclic antidepressants.
-  The patients should inform their physician of any personal or family history of QTc prolongation or proarrhythmic conditions such as recent hypokalemia, significant bradycardia, and acute myocardial ischemia.
-  Patients should contact their physician if they experience palpitations or fainting spells while taking moxifloxacin.
-- Hypersensitivity Reactions: Patients should be advised that moxifloxacin may be associated with hypersensitivity reactions, including anaphylactic reactions, even following a single dose.
-  Patients should discontinue moxifloxacin at the first sign of a skin rash or other signs of an allergic reaction.
-- Convulsions: Convulsions have been reported in patients receiving quinolones, and they should notify their physician before taking moxifloxacin if there is a history of this condition.
-  Patients should also inform their physician if they are taking NSAIDs concurrently with moxifloxacin.
-- Neurologic Adverse Effects (for example, dizziness, lightheadedness): Moxifloxacin may cause dizziness, lightheadedness and vision disorder therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
-- Psychotic Reaction: Psychotic reactions sometimes resulting in self-injurious behavior have been reported in patients receiving quinolones.
-  Patients should notify their physician if they have a history of psychiatric illness before taking moxifloxacin.
-- Peripheral Neuropathies: Patients should be informed that peripheral neuropathy has been associated with moxifloxacin use.
-  Symptoms may occur soon after initiation of therapy and may be irreversible.
-  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, patients should immediately discontinue moxifloxacin and contact their physician.
-- Blood Glucose Disturbances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue moxifloxacin and consult a physician
-- Photosensitivity/Phototoxicity: Patients should be informed that photosensitivity/phototoxicity has been reported in patients receiving quinolones.
-  Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
-  If patients need to be outdoors while using quinolones, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
-  If a sunburn-like reaction or skin eruption occurs, patients should contact their physician.
-- Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
-  Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
-  If this occurs, patients should contact their physician as soon as possible
+Manufactured by:
+
+Dr. Reddy’s Laboratories Limited
+
+Bachupally – 500 090 INDIA
+
+Revised: 0816
