@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-HydrOXYzinePamoate Capsules, USP, for oral administration, are available as
+HydrOXYzine Pamoate Capsules, USP, for oral administration, are available as
 
 25 mg
 
@@ -32,8 +32,6 @@ Dispense contents in a tight, light-resistant container as defined in the USP, w
 
 KEEP TIGHTLY CLOSED.
 
-KEEP THIS AND ALL MEDICATION OUT OF THE REACH OF CHILDREN.
-
 To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 25 mg
@@ -58,9 +56,16 @@ Epic Pharma, LLC
 
 Laurelton, NY 11413
 
-46114010 / OS7127
+46114010
 
 Rev.
-March 2016
+October 2016
 
-MF0674REV03/16
+MF0674REV10/16
+
+OS7127
+
+Rev.
+October 2016
+
+MF0674REV10/16

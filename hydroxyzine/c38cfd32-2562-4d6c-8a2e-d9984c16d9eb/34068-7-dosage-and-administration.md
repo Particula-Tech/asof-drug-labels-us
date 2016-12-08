@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE
 
 For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: in adults, 50 mg to 100 mg q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50 mg to 100 mg daily in divided doses.
 
