@@ -63,7 +63,7 @@ Table 4: Recommended Starting and Maintenance Doses for Adult Patients with Impa
 | Creatinine Clearance (mL/min) | Dose |
 | --- | --- |
 | > 50 | See Usual Dosage. |
-| 30 to 50 | 250 to 500 mg every12 hours |
+| 30 to 50 | 250 to 500 mg every 12 hours |
 | 5 to 29 | 250 to 500 mg every 18 hours |
 | Patients on hemodialysis or Peritoneal dialysis | 250 to 500 mg every 24 hours (after dialysis) |
 

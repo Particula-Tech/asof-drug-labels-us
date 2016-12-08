@@ -159,7 +159,7 @@ Especially tell your healthcare provider if you take:
     - duloxetine
   - products that contain caffeine
     - probenecid (Probalan®, Col-probenecid®)
-      - Certain medicines may keep ciprofloxacin tablets from working correctly.
+      - certain medicines may keep ciprofloxacin tablets from working correctly.
         Take ciprofloxacin tablets either 2 hours before or 6 hours after taking these medicines, vitamins, or supplements:
         - an antacid, multivitamin, or other medicine or supplements that has magnesium, calcium, aluminum, iron, or zinc
         - sucralfate (Carafate®)
