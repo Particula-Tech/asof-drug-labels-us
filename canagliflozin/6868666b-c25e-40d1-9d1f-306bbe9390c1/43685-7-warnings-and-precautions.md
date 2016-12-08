@@ -86,7 +86,7 @@ Patients with hypovolemia may be more susceptible to these changes.
 Renal function abnormalities can occur after initiating INVOKAMET [see Adverse Reactions (6.1)].
 Renal function should be evaluated prior to initiation of INVOKAMET and monitored periodically thereafter.
 Dosage adjustment and more frequent renal function monitoring are recommended in patients with an eGFR below 60 mL/min/1.73 m2.
-INVOKAMET is contraindicated in patients with an eGFR below 45 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), Use in Specific Populations (8.6)].
+INVOKAMET is contraindicated in patients with an eGFR below 45 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
 
 ## 5.5 Hyperkalemia
 

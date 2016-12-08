@@ -7,7 +7,7 @@ Advise the patient to read the FDA-Approved Patient Labeling (Medication Guide).
   Once a patient is stabilized on INVOKAMET, gastrointestinal symptoms, which are common during initiation of metformin, are unlikely to recur.
   Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
 - Instruct patients to keep INVOKAMET in the original bottle to protect from moisture.
-  Do not put INVOKAMET in pill boxes or pill organizers.
+  Advise patients that storage in a pill box or pill organizer is allowed for up to 30 days.
 - Counsel patients against excessive alcohol intake while receiving INVOKAMET.
 - Inform patients about importance of regular testing of renal function and hematological parameters while receiving INVOKAMET.
 - Advise patients to seek medical advice promptly during periods of stress such as fever, trauma, infection, or surgery, as medication requirements may change.
@@ -34,7 +34,7 @@ Advise the patient to read the FDA-Approved Patient Labeling (Medication Guide).
 - Bone Fracture: Inform patients that bone fractures have been reported in patients taking canagliflozin.
   Provide them with information on factors that may contribute to fracture risk.
 - Laboratory Tests: Inform patients that they will test positive for glucose in their urine while on INVOKAMET [see Drug Interactions (7.2)].
-- Pregnancy: Advise pregnant women, and females of reproductive potential of the potential risk to a fetus with treatment with INVOKAMET [see use in Specific Populations (8.1)].
+- Pregnancy: Advise pregnant women, and females of reproductive potential of the potential risk to a fetus with treatment with INVOKAMET [see Use in Specific Populations (8.1)].
   Instruct females of reproductive potential to report pregnancies to their physicians as soon as possible.
 - Lactation: Advise women that breastfeeding is not recommended during treatment with INVOKAMET [see Use in Specific Populations (8.2)].
 - Inform females that treatment with INVOKAMET may result in ovulation in some premenopausal anovulatory women which may lead to unintended pregnancy [see Use in Specific Populations (8.3)].

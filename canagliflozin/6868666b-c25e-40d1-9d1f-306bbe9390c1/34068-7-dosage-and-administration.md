@@ -14,7 +14,7 @@
 ## 2.2 Recommended Dosage for Patients with Renal Impairment
 
 - Assess renal function before initiating INVOKAMET and periodically thereafter.
-- INVOKAMET is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 45 mL/min/1.73 m2 [see Contraindications (4), Warnings and Precautions (5.1, 5.3)].
+- INVOKAMET is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 45 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.1, 5.3)].
 - Limit the dose of the canagliflozin component to 50 mg twice daily in patients with moderate renal impairment with an eGFR of 45 to less than 60 mL/min/1.73 m2.
 
 ## 2.3 Concomitant Use with UDP-Glucuronosyl Transferase (UGT) Enzyme Inducers

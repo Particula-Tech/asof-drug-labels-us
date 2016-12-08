@@ -28,3 +28,4 @@ Keep out of reach of children.
 
 Store at 68–77°F (20–25°C); excursions permitted between 59°F and 86°F (15°C and 30°C) [see USP Controlled Room Temperature].
 Store in the original container.
+Storage in a pill box or pill organizer is allowed for up to 30 days.
