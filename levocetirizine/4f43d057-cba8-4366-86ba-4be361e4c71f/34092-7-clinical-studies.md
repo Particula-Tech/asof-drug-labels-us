@@ -26,7 +26,7 @@ Table 4: Mean Reflective Total Symptom ScoreTotal symptom score is the sum of in
 | Seasonal Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
 | Levocetirizine Dihydrochloride 2.5 mg | 116 | 7.83 | 4.27 | 0.91 | (0.37, 1.45) | 0.001 |
 | Levocetirizine Dihydrochloride 5 mg | 115 | 7.45 | 4.06 | 1.11 | (0.57, 1.65) | < 0.001 |
-| Levocetirizine Dihydrochloride10 mg | 118 | 7.15 | 3.57 | 1.61 | (1.07, 2.15) | < 0.001 |
+| Levocetirizine Dihydrochloride 10 mg | 118 | 7.15 | 3.57 | 1.61 | (1.07, 2.15) | < 0.001 |
 | Placebo | 118 | 7.94 | 5.17 |  |  |  |
 | Perennial Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
 | Levocetirizine Dihydrochloride 2.5 mg | 133 | 7.14 | 4.12 | 1.17 | (0.71, 1.63) | < 0.001 |
