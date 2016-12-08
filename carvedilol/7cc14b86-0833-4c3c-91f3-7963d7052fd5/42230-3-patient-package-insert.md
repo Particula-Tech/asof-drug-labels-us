@@ -38,7 +38,7 @@ Tell your doctor about all of your medical conditions, including if you:
 
 - have asthma or other lung problems (such as bronchitis or emphysema).
 - have problems with blood flow in your feet and legs (peripheral vascular disease).
-  Carvedilol tablets can make some of your symptoms worse..
+  Carvedilol tablets can make some of your symptoms worse.
 - have diabetes.
 - have thyroid problems.
 - have a condition called pheochromocytoma.
