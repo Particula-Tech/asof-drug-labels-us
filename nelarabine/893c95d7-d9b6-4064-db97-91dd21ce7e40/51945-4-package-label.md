@@ -21,5 +21,5 @@ Made in England
 
 ©2015, the GSK group of companies.
 
-- 10000000131765 Rev.
-  2/15
+1. 10000000131765 Rev.
+   2/15
