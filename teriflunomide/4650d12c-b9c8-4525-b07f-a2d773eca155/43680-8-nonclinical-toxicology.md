@@ -5,7 +5,7 @@
 Carcinogenesis
 
 No evidence of carcinogenicity was observed in lifetime carcinogenicity bioassays in mouse and rat.
-In mouse, teriflunomide was administered orally at doses up to 12 mg/kg/day for up to 95–104 weeks; plasma teriflunomide exposures (AUC) at the highest dose tested are approximately 3 times that in humans at the maximum recommended human dose (MRHD, 14 mg /day).
+In mouse, teriflunomide was administered orally at doses up to 12 mg/kg/day for up to 95–104 weeks; plasma teriflunomide exposures (AUC) at the highest dose tested are approximately 3 times that in humans at the maximum recommended human dose (MRHD, 14 mg/day).
 In rat, teriflunomide was administered orally at doses up to 4 mg/kg/day for up to 97–104 weeks; plasma teriflunomide AUCs at the highest doses tested are less than that in humans at the MRHD.
 
 Mutagenesis

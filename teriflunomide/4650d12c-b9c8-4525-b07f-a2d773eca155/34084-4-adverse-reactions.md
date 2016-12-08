@@ -35,7 +35,7 @@ Adverse Reactions in Pooled Placebo-Controlled Studies in Patients with Relapsin
 | Neutropenia | 4% | 6% | 2% |
 | Hypertension | 3% | 4% | 2% |
 
-Cardiovascular deaths
+Cardiovascular Deaths
 
 Four cardiovascular deaths, including three sudden deaths, and one myocardial infarction in a patient with a history of hyperlipidemia and hypertension were reported among approximately 2600 patients exposed to AUBAGIO in the premarketing database.
 These cardiovascular deaths occurred during uncontrolled extension studies, one to nine years after initiation of treatment.
@@ -53,9 +53,9 @@ Hypophosphatemia
 In clinical trials, 18% of AUBAGIO-treated patients had hypophosphatemia with serum phosphorus levels of at least 0.6 mmol/L, compared to 7% of placebo-treated patients; 4% of AUBAGIO-treated patients had hypophosphatemia with serum phosphorus levels at least 0.3 mmol/L but less than 0.6 mmol/L, compared to 0.8% of placebo-treated patients.
 No patient in any treatment group had a serum phosphorus below 0.3 mmol/L.
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of AUBAGIO.
+The following adverse reactions have been identified during postapproval use of AUBAGIO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Hypersensitivity reactions, some of which were severe, such as anaphylaxis and angioedema [see Warnings and Precautions (5.5)]

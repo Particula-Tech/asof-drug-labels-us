@@ -1,6 +1,6 @@
 # WARNING: HEPATOTOXICITY and RISK OF TERATOGENICITY
 
-## Hepatotoxicity
+- Hepatotoxicity
 
 Severe liver injury including fatal liver failure has been reported in patients treated with leflunomide, which is indicated for rheumatoid arthritis.
 A similar risk would be expected for teriflunomide because recommended doses of teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide.
@@ -11,9 +11,10 @@ If drug induced liver injury is suspected, discontinue AUBAGIO and start an acce
 AUBAGIO is contraindicated in patients with severe hepatic impairment [see Contraindications (4)].
 Patients with pre-existing liver disease may be at increased risk of developing elevated serum transaminases when taking AUBAGIO.
 
-## Risk of Teratogenicity
+- Risk of Teratogenicity
 
-Based on animal data, AUBAGIO may cause major birth defects if used during pregnancy.
-Pregnancy must be excluded before starting AUBAGIO.
-AUBAGIO is contraindicated in pregnant women or women of childbearing potential who are not using reliable contraception.
-Pregnancy must be avoided during AUBAGIO treatment or prior to the completion of an accelerated elimination procedure after AUBAGIO treatment [see Contraindications (4), Warnings and Precautions (5.2), and Use in Specific Populations (8.1)].
+AUBAGIO is contraindicated for use in pregnant women and in women of reproductive potential who are not using effective contraception because of the potential for fetal harm.
+Teratogenicity and embryolethality occurred in animals at plasma teriflunomide exposures lower than that in humans.
+Exclude pregnancy before the start of treatment with AUBAGIO in females of reproductive potential.
+Advise females of reproductive potential to use effective contraception during AUBAGIO treatment and during an accelerated drug elimination procedure after AUBAGIO treatment.
+Stop AUBAGIO and use an accelerated drug elimination procedure if the patient becomes pregnant [see Contraindications (4), Warnings and Precautions (5.2, 5.3), Use in Specific Populations (8.1), and Clinical Pharmacology (12.3)].

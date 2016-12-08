@@ -21,28 +21,22 @@ AUBAGIO-induced liver injury in this patient could not be ruled out.
 Obtain serum transaminase and bilirubin levels within 6 months before initiation of AUBAGIO therapy.
 Monitor ALT levels at least monthly for six months after starting AUBAGIO.
 Consider additional monitoring when AUBAGIO is given with other potentially hepatotoxic drugs.
+
 Consider discontinuing AUBAGIO if serum transaminase increase (greater than three times the ULN) is confirmed.
 Monitor serum transaminase and bilirubin on AUBAGIO therapy, particularly in patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
 If liver injury is suspected to be AUBAGIO-induced, discontinue AUBAGIO and start an accelerated elimination procedure [see Warnings and Precautions (5.3)] and monitor liver tests weekly until normalized.
 If AUBAGIO-induced liver injury is unlikely because some other probable cause has been found, resumption of AUBAGIO therapy may be considered.
 
-## 5.2 Use in Women of Childbearing Potential
+## 5.2 Teratogenicity
 
-There are no adequate and well-controlled studies evaluating AUBAGIO in pregnant women.
-However, based on animal studies, teriflunomide may increase the risk of teratogenic effects or fetal death when administered to a pregnant woman [see Contraindications (4)].
+AUBAGIO may cause fetal harm when administered to a pregnant woman.
+Teratogenicity and embryo-fetal lethality occurred in animal reproduction studies in multiple animal species at plasma teriflunomide exposures similar to or lower than that in humans at the maximum human recommended dose (MHRD) of 14 mg/day [see Use in Specific Populations (8.1)].
 
-Women of childbearing potential must not be started on AUBAGIO until pregnancy is excluded and it has been confirmed that they are using reliable contraception.
-Before starting treatment with AUBAGIO, patients must be fully counseled on the potential for serious risk to the fetus.
-The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must notify the physician immediately for pregnancy testing and, if positive, the physician and patient must discuss the risk to the fetus.
-It is possible that rapidly lowering the plasma concentration of teriflunomide by instituting an accelerated elimination procedure may decrease the risk to the fetus from AUBAGIO [see Warnings and Precautions (5.3)].
-
-Upon discontinuing AUBAGIO, it is recommended that all women of childbearing potential undergo an accelerated elimination procedure.
-Women receiving AUBAGIO treatment who wish to become pregnant must discontinue AUBAGIO and undergo an accelerated elimination procedure, which includes verification of teriflunomide plasma concentrations less than 0.02 mg/L (0.02 mcg/mL).
-Human plasma concentrations of teriflunomide less than 0.02 mg/L (0.02 mcg/mL) are expected to have minimal risk [see Contraindications (4), Warnings and Precautions (5.3) and Use in Specific Populations (8.1)].
+AUBAGIO is contraindicated for use in pregnant women and females of reproductive potential not using effective contraception [see Contraindications (4) and Warnings and Precautions (5.3)].
 
 ## 5.3 Procedure for Accelerated Elimination of Teriflunomide
 
-Teriflunomide is eliminated slowly from the plasma.
+Teriflunomide is eliminated slowly from the plasma [see Clinical Pharmacology (12.3)].
 Without an accelerated elimination procedure, it takes on average 8 months to reach plasma concentrations less than 0.02 mg/L, although because of individual variations in drug clearance it may take as long as 2 years.
 An accelerated elimination procedure could be used at any time after discontinuation of AUBAGIO.
 Elimination can be accelerated by either of the following procedures:
@@ -61,9 +55,9 @@ Use of the accelerated elimination procedure may potentially result in return of
 
 Bone Marrow Effects
 
-A mean decrease in white blood cell (WBC) count of approximately 15% (mainly neutrophils and lymphocytes) and in platelet count of approximately 10% was observed in placebo-controlled trials with 7 mg and 14 mg of AUBAGIO compared to baseline.
+A mean decrease compared to baseline in white blood cell (WBC) count of approximately 15% (mainly neutrophils and lymphocytes) and in platelet count of approximately 10% was observed in placebo-controlled trials with 7 mg and 14 mg of AUBAGIO.
 The decrease in mean WBC count occurred during the first 6 weeks and WBC count remained low during treatment.
-In placebo-controlled studies, neutrophil count < 1.5×109/L was observed in 12% and 16% of patients receiving AUBAGIO 7 mg and 14 mg, respectively, compared with 7% of patients receiving placebo; lymphocyte count <0.8×109/L was observed in 10% and 12% of patients receiving AUBAGIO 7 mg and 14 mg, respectively, compared with 6% of patients receiving placebo.
+In placebo-controlled studies, neutrophil count <1.5×109/L was observed in 12% and 16% of patients receiving AUBAGIO 7 mg and 14 mg, respectively, compared with 7% of patients receiving placebo; lymphocyte count <0.8× 109/L was observed in 10% and 12% of patients receiving AUBAGIO 7 mg and 14 mg, respectively, compared with 6% of patients receiving placebo.
 No cases of serious pancytopenia were reported in premarketing clinical trials of AUBAGIO but rare cases of pancytopenia and agranulocytosis have been reported in the postmarketing setting with leflunomide.
 A similar risk would be expected for AUBAGIO [see Clinical Pharmacology (12.3)].
 Cases of thrombocytopenia with AUBAGIO, including rare cases with platelet counts less than 50,000/mm3, have been reported in the postmarketing setting.
@@ -81,8 +75,9 @@ AUBAGIO is not recommended for patients with severe immunodeficiency, bone marro
 Medications like AUBAGIO that have immunosuppression potential may cause patients to be more susceptible to infections, including opportunistic infections.
 
 In placebo-controlled studies of AUBAGIO, no overall increase in the risk of serious infections was observed with AUBAGIO 7 mg (2.2%) or 14 mg (2.7%) compared to placebo (2.2%).
+
 However, one fatal case of klebsiella pneumonia sepsis occurred in a patient taking AUBAGIO 14 mg for 1.7 years.
-Fatal infections have been reported in the post-marketing setting in patients receiving leflunomide, especially Pneumocystis jiroveci pneumonia and aspergillosis.
+Fatal infections have been reported in the postmarketing setting in patients receiving leflunomide, especially Pneumocystis jiroveci pneumonia and aspergillosis.
 Most of the reports were confounded by concomitant immunosuppressant therapy and/or comorbid illness which, in addition to rheumatoid disease, may predispose patients to infection.
 In clinical studies with AUBAGIO, cytomegalovirus hepatitis reactivation has been observed.
 
@@ -106,7 +101,6 @@ No apparent increase in the incidence of malignancies and lymphoproliferative di
 ## 5.5 Hypersensitivity and Serious Skin Reactions
 
 AUBAGIO can cause anaphylaxis and severe allergic reactions [see Contraindications (4)].
-
 Signs and symptoms have included dyspnea, urticaria, and angioedema including lips, eyes, throat, and tongue.
 
 Cases of serious skin reactions, including cases of Stevens-Johnson syndrome (SJS) and a fatal case of toxic epidermal necrolysis (TEN), have been reported with AUBAGIO.
@@ -150,7 +144,7 @@ If discontinuation of the drug is necessary, consider initiation of an accelerat
 
 ## 5.9 Concomitant Use with Immunosuppressive or Immunomodulating Therapies
 
-Co-administration with antineoplastic, or immunosuppressive therapies used for treatment of multiple sclerosis has not been evaluated.
+Coadministration with antineoplastic, or immunosuppressive therapies used for treatment of multiple sclerosis has not been evaluated.
 Safety studies in which AUBAGIO was concomitantly administered with other immune modulating therapies for up to one year (interferon beta, glatiramer acetate) did not reveal any specific safety concerns.
 The long term safety of these combinations in the treatment of multiple sclerosis has not been established.
 

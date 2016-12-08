@@ -22,7 +22,7 @@ The estimated AUC accumulation ratio is approximately 30 after repeated doses of
 
 Absorption
 
-Median time to reach maximum plasma concentrations is between 1 to 4 hours post-dose following oral administration of teriflunomide.
+Median time to reach maximum plasma concentrations is between 1 to 4 hours post dose following oral administration of teriflunomide.
 
 Food does not have a clinically relevant effect on teriflunomide pharmacokinetics.
 
@@ -50,11 +50,11 @@ Teriflunomide is not metabolized by Cytochrome P450 or flavin monoamine oxidase 
 
 The Potential Effect of AUBAGIO on Other Drugs
 
-- CYP2C8 Substrates There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo.
+- CYP2C8 Substrates There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively) following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo.
   The magnitude of interaction could be higher at the recommended repaglinide dose [see Drug Interactions (7)].
 - CYP1A2 Substrates Repeated doses of teriflunomide decreased mean Cmax and AUC of caffeine by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo [see Drug Interactions (7)].
 - OAT3 Substrates There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo [see Drug Interactions (7)].
-- BCRP and OATP1B1/1B3 Substrates There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3) [see Drug Interactions (7)].
+- BCRP and OATP1B1/1B3 Substrates There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively) following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3) [see Drug Interactions (7)].
 - Oral Contraceptives There was an increase in mean ethinylestradiol Cmax and AUC0–24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0–24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide [see Drug Interactions (7)].
 - Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), and metoprolol (a CYP2D6 substrate).
 
