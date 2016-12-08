@@ -64,6 +64,11 @@ The use of alcohol with this drug should be avoided due to possible additive eff
 
 Chlorpromazine may counteract the antihypertensive effect of guanethidine and related compounds.
 
+## Falls
+
+Chlorpromazine may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
 ## Pregnancy
 
 ### NON-TERATOGENIC EFFECTS
@@ -100,7 +105,7 @@ Possible risk factors for leukopenia/neutropenia include preexisting low white b
 Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue Chlorpromazine Hydrochloride Injection USP at the first sign of a decline in WBC in the absence of other causative factors.
 
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue Chlorpromazine Hydrochloride Injection USP and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue Chlorpromazine Hydrochloride Injection, USP and have their WBC followed until recovery.
 
 ## General
 

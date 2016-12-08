@@ -11,10 +11,10 @@ Chlorpromazine Hydrochloride Injection, USP 25 mg/mL is available in the followi
 Protect from light, or discoloration may occur.
 Slight yellowing will not alter potency.
 Discard if markedly discolored.
-Store at 20°-25°C (68°-77°F), excursions permitted to 15°-30°C (59°-86°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F), excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 Protect from freezing.
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 For Product Inquiry call 1-877-845-0689.
 
@@ -23,10 +23,10 @@ Estrada do Rio da Mό, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORT
 
 Distributed by:
 
-WEST-WARD PHARMACEUTICALS Eatontown, NJ 07724 USA
+WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
 
-Revised January 2012
+Revised November 2016
 
-462-637-00
+462-637-02
 
-PIN295-WES/1
+PIN295-WES/3

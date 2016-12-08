@@ -68,7 +68,7 @@ IM: 25 mg (1 mL) tid or qid until patient can take oral therapy.
 
 ### TETANUS
 
-IM:25 to 50 mg (1-2 mL) given 3 or 4 times daily, usually in conjunction with barbiturates.
+IM: 25 to 50 mg (1-2 mL) given 3 or 4 times daily, usually in conjunction with barbiturates.
 Total doses and frequency of administration must be determined by the patient’s response, starting with low doses and increasing gradually.
 IV: 25 to 50 mg (1-2 mL).
 Dilute to at least 1 mg per mL and administer at a rate of 1 mg per minute.
@@ -90,7 +90,7 @@ IM: 1/4 mg/lb body weight q6-8h, prn.
 As with outpatients, start with low doses and increase dosage gradually.
 In severe behavior disorders, higher dosages (50-100 mg daily, and in older children, 200 mg daily or more) may be necessary.
 There is little evidence that behavior improvement in severely disturbed mentally retarded patients is further enhanced by doses beyond 500 mg per day.
-Maximum IM Dosage: Patients up to 5 years (or 50 lbs.), not over 40 mg/day;5-12 years (or 50-100 lbs.), not over 75 mg/day except in unmanageable cases.
+Maximum IM Dosage: Patients up to 5 years (or 50 lbs.), not over 40 mg/day; 5-12 years (or 50-100 lbs.), not over 75 mg/day except in unmanageable cases.
 
 ### NAUSEA AND VOMITING
 
