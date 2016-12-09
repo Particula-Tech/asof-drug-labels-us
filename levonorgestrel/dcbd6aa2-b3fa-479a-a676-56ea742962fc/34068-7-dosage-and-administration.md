@@ -6,7 +6,7 @@ This rate decreases progressively to half that value after 5 years.
 
 Mirena must be removed by the end of the fifth year and can be replaced at the time of removal with a new Mirena if continued contraceptive protection is desired.
 
-Mirena is supplied within an inserter in a sterile package (see Figure 1Figure 1) that must not be opened until required for insertion [see Description (11.2)].
+Mirena is supplied within an inserter in a sterile package (see Figure 1) that must not be opened until required for insertion [see Description (11.2)].
 Do not use if the seal of the sterile package is broken or appears compromised.
 Use strict aseptic techniques throughout the insertion procedure [see Warnings and Precautions (5.3)].
 
@@ -74,14 +74,14 @@ Ensure use of aseptic technique throughout the entire procedure.
 
 #### Step 1–Opening of the package
 
-- •Open the package (Figure 1Figure 1).
+- •Open the package (Figure 1).
   The contents of the package are sterile.
 
 - •Using sterile gloves lift the handle of the sterile inserter and remove from the sterile package.
 
 #### Step 2–Load Mirena into the insertion tube
 
-- •Push the slider forward as far as possible in the direction of the arrow thereby moving the insertion tube over the Mirena T-body to load Mirena into the insertion tube (Figure 2Figure 2).
+- •Push the slider forward as far as possible in the direction of the arrow thereby moving the insertion tube over the Mirena T-body to load Mirena into the insertion tube (Figure 2).
   The tips of the arms will meet to form a rounded end that extends slightly beyond the insertion tube.
 
 - •Maintain forward pressure with your thumb or forefinger on the slider.
@@ -90,34 +90,34 @@ Ensure use of aseptic technique throughout the entire procedure.
 
 #### Step 3–Setting the flange
 
-- •Holding the slider in this forward position, set the upper edge of the flange to correspond to the uterine depth (in centimeters) measured during sounding (Figure 3Figure 3).
+- •Holding the slider in this forward position, set the upper edge of the flange to correspond to the uterine depth (in centimeters) measured during sounding (Figure 3).
 
 #### Step 4–Mirena is now ready to be inserted
 
 - •Continue holding the slider in this forward position.
-  Advance the inserter through the cervix until the flange is approximately 1.5–2 cm from the cervix and then pause (Figure 4Figure 4).
+  Advance the inserter through the cervix until the flange is approximately 1.5–2 cm from the cervix and then pause (Figure 4).
 
 Do not force the inserter.
 If necessary, dilate the cervical canal.
 
 #### Step 5–Open the arms
 
-While holding the inserter steady, move the slider down to the mark to release the arms of Mirena (Figure 5Figure 5).
+While holding the inserter steady, move the slider down to the mark to release the arms of Mirena (Figure 5).
 Wait 10 seconds for the horizontal arms to open completely.
 
 #### Step 6–Advance to fundal position
 
 - •Advance the inserter gently towards the fundus of the uterus until the flange touches the cervix.
   If you encounter fundal resistance do not continue to advance.
-  Mirena is now in the fundal position (Figure 6Figure 6).
+  Mirena is now in the fundal position (Figure 6).
   Fundal positioning of Mirena is important to prevent expulsion.
 
 #### Step 7–Release Mirena and withdraw the inserter
 
-- •Holding the entire inserter firmly in place, release Mirena by moving the slider all the way down (Figure 7Figure 7).
+- •Holding the entire inserter firmly in place, release Mirena by moving the slider all the way down (Figure 7).
 
 - •Continue to hold the slider all the way down while you slowly and gently withdraw the inserter from the uterus.
-- •Using a sharp, curved scissor, cut the threads perpendicular, leaving about 3 cm visible outside of the cervix [cutting threads at an angle may leave sharp ends (Figure 8Figure 8)].
+- •Using a sharp, curved scissor, cut the threads perpendicular, leaving about 3 cm visible outside of the cervix [cutting threads at an angle may leave sharp ends (Figure 8)].
   Do not apply tension or pull on the threads when cutting to prevent displacing Mirena.
 
 Mirena insertion is now complete.
@@ -159,7 +159,7 @@ Keep a copy of the Consent Form with lot number for your records.
 ### Removal Procedure
 
 - •Remove Mirena by applying gentle traction on the threads with forceps.
-  (Figure 9Figure 9).
+  (Figure 9).
 
 - •If the threads are not visible, determine location of Mirena by ultrasound [see Warnings and Precautions (5.10)].
 - •If Mirena is found to be in the uterine cavity on ultrasound exam, it may be removed using a narrow forceps, such as an alligator forceps.

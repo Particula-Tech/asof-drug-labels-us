@@ -19,7 +19,7 @@ The components of Mirena, including its packaging, are not manufactured using na
 ## 11.2 Inserter
 
 Mirena is packaged sterile within an inserter.
-The inserter (Figure 11Figure), which is used for insertion of Mirena into the uterine cavity, consists of a symmetric two-sided body and slider that are integrated with flange, lock, pre-bent insertion tube and plunger.
+The inserter (Figure 11), which is used for insertion of Mirena into the uterine cavity, consists of a symmetric two-sided body and slider that are integrated with flange, lock, pre-bent insertion tube and plunger.
 The outer diameter of the insertion tube is 4.4 mm.
 The vertical stem of Mirena is loaded in the insertion tube at the tip of the inserter.
 The arms are pre-aligned in the horizontal position.
