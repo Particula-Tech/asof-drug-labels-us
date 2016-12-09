@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA090999"
+  ],
+  "inn": "aprepitant",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-2321-06",
+    "0781-2321-51",
+    "0781-2322-46",
+    "0781-2322-68",
+    "0781-2323-68",
+    "0781-4063-36"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "aprepitant",
+      "name": "Aprepitant"
+    },
+    {
+      "form": "KIT",
+      "generic": "aprepitant",
+      "name": "Aprepitant"
+    }
+  ],
+  "setid": "f58b8944-93ee-4be1-a238-cc0061ddd93a",
+  "source": "dailymed"
+}
