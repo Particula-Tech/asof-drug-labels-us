@@ -4,12 +4,12 @@
    Fluconazole has been associated with rare cases of serious hepatic toxicity, including fatalities primarily in patients with serious underlying medical conditions.
    In cases of fluconazole-associated hepatotoxicity, no obvious relationship to total daily dose, duration of therapy, sex, or age of the patient has been observed.
    Fluconazole hepatotoxicity has usually, but not always, been reversible on discontinuation of therapy.
-   Patients who develop abnormal liver function tests during Fluconazole Injection, USP therapy should be monitored for the development of more severe hepatic injury.
-   Fluconazole Injection, USP should be discontinued if clinical signs and symptoms consistent with liver disease develop that may be attributable to fluconazole.
+   Patients who develop abnormal liver function tests during Fluconazole in Sodium Chloride Injection, USP therapy should be monitored for the development of more severe hepatic injury.
+   Fluconazole in Sodium Chloride Injection, USP should be discontinued if clinical signs and symptoms consistent with liver disease develop that may be attributable to fluconazole.
 2. 2.Anaphylaxis: In rare cases, anaphylaxis has been reported.
 3. 3.Dermatologic: Exfoliative skin disorders during treatment with fluconazole have been reported.
    Fatal outcomes have been reported in patients with serious underlying diseases.
-   Patients with deep seated fungal infections who develop rashes during treatment with Fluconazole Injection, USP should be monitored closely and the drug discontinued if lesions progress.
+   Patients with deep seated fungal infections who develop rashes during treatment with Fluconazole in Sodium Chloride Injection, USP should be monitored closely and the drug discontinued if lesions progress.
    Fluconazole should be discontinued in patients treated for superficial fungal infection who develop a rash that may be attributed to fluconazole.
 4. 4.Use in Pregnancy: There are no adequate and well-controlled studies of fluconazole in pregnant women.
    Available human data do not suggest an increased risk of congenital anomalies following a single maternal dose of 150 mg.
@@ -25,7 +25,7 @@ Some azoles, including fluconazole, have been associated with prolongation of th
 During post-marketing surveillance, there have been rare cases of QT prolongation and torsade de pointes in patients taking fluconazole.
 Most of these reports involved seriously ill patients with multiple confounding risk factors, such as structural heart disease, electrolyte abnormalities, and concomitant medications that may have been contributory.
 
-Fluconazole Injection, USP should be administered with caution to patients with these potentially proarrhythmic conditions.
+Fluconazole in Sodium Chloride Injection, USP should be administered with caution to patients with these potentially proarrhythmic conditions.
 
 Concomitant use of fluconazole and erythromycin has the potential to increase the risk of cardiotoxicity (prolonged QT interval, torsade de pointes) and consequently sudden heart death.
 This combination should be avoided.
@@ -254,7 +254,7 @@ These effects are consistent with the inhibition of estrogen synthesis in rats a
 ## Nursing Mothers
 
 Fluconazole is secreted in human milk at concentrations similar to maternal plasma concentrations.
-Caution should be exercised when Fluconazole Injection, USP is administered to a nursing woman.
+Caution should be exercised when Fluconazole in Sodium Chloride Injection, USP is administered to a nursing woman.
 
 ## Pediatric Use
 

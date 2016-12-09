@@ -1,4 +1,4 @@
-# Directions for IV Use of Fluconazole Injection, USP in INTRAVIA Plastic Containers
+# Directions for Intravenous Use of Fluconazole in Sodium Chloride Injection, USP in INTRAVIA Plastic Containers
 
 Do not remove unit from overwrap until ready for use.
 The overwrap is a moisture barrier.
@@ -31,10 +31,10 @@ Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Printed in USA
 
-07-19-73-133
+07-19-77-391
 
 Rev.
-June 2014
+August 2016
 
 Baxter and Intravia are registered trademarks of Baxter International Inc.
 

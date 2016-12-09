@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Fluconazole Injection, USP is generally well tolerated.
+Fluconazole in Sodium Chloride Injection, USP is generally well tolerated.
 
 In some patients, particularly those with serious underlying diseases such as AIDS and cancer, changes in renal and hematological function test results and hepatic abnormalities have been observed during treatment with fluconazole and comparative agents, but the clinical significance and relationship to treatment is uncertain.
 

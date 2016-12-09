@@ -43,7 +43,7 @@ About 11% of the dose is excreted in the urine as metabolites.
 
 The pharmacokinetics of fluconazole are markedly affected by reduction in renal function.
 There is an inverse relationship between the elimination half-life and creatinine clearance.
-The dose of Fluconazole Injection, USP may need to be reduced in patients with impaired renal function.
+The dose of Fluconazole in Sodium Chloride Injection, USP may need to be reduced in patients with impaired renal function.
 (See DOSAGE AND ADMINISTRATION.)
 A 3-hour hemodialysis session decreases plasma concentrations by approximately 50%.
 
@@ -201,18 +201,18 @@ Fluconazole significantly increased the QTc interval in subjects receiving cisap
 Midazolam The effect of fluconazole on the pharmacokinetics and pharmacodynamics of midazolam was examined in a randomized, cross-over study in 12 volunteers.
 In the study, subjects ingested placebo or 400 mg fluconazole on Day 1 followed by 200 mg daily from Day 2 to Day 6.
 In addition, a 7.5 mg dose of midazolam was orally ingested on the first day, 0.05 mg/kg was administered intravenously on the fourth day, and 7.5 mg orally on the sixth day.
-Fluconazole reduced the clearance of IV midazolam by 51%.
+Fluconazole reduced the clearance of intravenous midazolam by 51%.
 On the first day of dosing, fluconazole increased the midazolam AUC and Cmax by 259% and 150%, respectively.
 On the sixth day of dosing, fluconazole increased the midazolam AUC and Cmax by 259% and 74%, respectively.
 The psychomotor effects of midazolam were significantly increased after oral administration of midazolam but not significantly affected following intravenous midazolam.
 
 A second randomized, double-dummy, placebo-controlled, cross over study in three phases was performed to determine the effect of route of administration of fluconazole on the interaction between fluconazole and midazolam.
-In each phase the subjects were given oral fluconazole 400 mg and intravenous saline; oral placebo and intravenous fluconazole 400 mg; and oral placebo and IV saline.
+In each phase the subjects were given oral fluconazole 400 mg and intravenous saline; oral placebo and intravenous fluconazole 400 mg; and oral placebo and intravenous saline.
 An oral dose of 7.5 mg of midazolam was ingested after fluconazole/placebo.
-The AUC and Cmax of midazolam were significantly higher after oral than IV administration of fluconazole.
+The AUC and Cmax of midazolam were significantly higher after oral than intravenous administration of fluconazole.
 Oral fluconazole increased the midazolam AUC and Cmax by 272% and 129%, respectively.
-IV fluconazole increased the midazolam AUC and Cmax by 244% and 79%, respectively.
-Both oral and IV fluconazole increased the pharmacodynamic effects of midazolam.
+Intravenous fluconazole increased the midazolam AUC and Cmax by 244% and 79%, respectively.
+Both oral and intravenous fluconazole increased the pharmacodynamic effects of midazolam.
 (See PRECAUTIONS.)
 
 Azithromycin An open-label, randomized, three-way crossover study in 18 healthy subjects assessed the effect of a single 800 mg oral dose of fluconazole on the pharmacokinetics of a single 1200 mg oral dose of azithromycin as well as the effects of azithromycin on the pharmacokinetics of fluconazole.
