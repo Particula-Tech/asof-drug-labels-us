@@ -2,7 +2,7 @@
 
 GLUCOTROL XL (glipizide) Extended Release Tablets are supplied as 2.5 mg, 5 mg, and 10 mg round, biconvex tablets and imprinted with black ink as follows:
 
-Table ##.
+Table 2.
 GLUCOTROL XL Tablet Presentations
 
 | Tablet Strength | Tablet Color/Shape | Tablet Markings | Package Size | NDC Code |
