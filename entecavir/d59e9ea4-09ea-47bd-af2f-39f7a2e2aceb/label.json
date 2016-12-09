@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA206872"
+  ],
+  "inn": "entecavir",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-425-02",
+    "69097-426-02",
+    "69097-426-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "entecavir",
+      "name": "ENTECAVIR"
+    }
+  ],
+  "setid": "d59e9ea4-09ea-47bd-af2f-39f7a2e2aceb",
+  "source": "dailymed"
+}
