@@ -47,6 +47,11 @@ There is no general agreement about specific pharmacological treatment regimens 
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
 The patient should be carefully monitored, since recurrences of NMS have been reported.
 
+## Falls:
+
+COMPRO® Prochlorperazine Suppositories USP, may cause somnolence, postural hypotension, motor sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
 ## General:
 
 Patients with bone marrow depression or who have previously demonstrated a hypersensitivity reaction (e.g., blood dyscrasias, jaundice) with a phenothiazine should not receive any phenothiazine, including prochlorperazine, unless in the judgement of the physician the potential benefits of treatment outweigh the possible hazards.
