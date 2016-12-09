@@ -16,3 +16,8 @@ Bottles of 500: NDC 65162-537-50
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 Dispense in tight, light-resistant container as defined in the USP.
+
+Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+
+Rev.
+09-2015-00
