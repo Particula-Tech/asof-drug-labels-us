@@ -87,6 +87,9 @@ Limit the dose of simvastatin in patients on Verapamil to 10 mg daily.
 Limit the daily dose of lovastatin to 40 mg.
 Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as Verapamil may increase the plasma concentration of these drugs.
 
+Ivabradine: Concurrent use of verapamil increases exposre to Ivabradine and may exacerbate bradycardia and conductions disturbances.
+Avoid concomitant use of Ivabradine and verapamil.
+
 Pregnancy: Pregnancy Category C. Reproduction studies have been performed in rabbits and rats at oral Verapamil doses up to 1.5 (15 mg/kg/day) and 6 (60 mg/kg/day) times the human oral daily dose, respectively, and have revealed no evidence of teratogenicity.
 In the rat, however, this multiple of the human dose was embryocidal and retarded fetal growth and development, probably because of adverse maternal effects reflected in reduced weight gains of the dams.
 This oral dose has also been shown to cause hypotension in rats.
