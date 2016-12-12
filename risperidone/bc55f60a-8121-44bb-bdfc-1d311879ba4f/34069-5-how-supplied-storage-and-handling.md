@@ -7,7 +7,7 @@ The minimum calibrated volume is 0.25 mL, while the maximum calibrated volume is
 
 ## 16.2 Storage and Handling
 
-Risperidone oral solution, USP 1 mg/mL should be stored at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Risperidone oral solution, USP 1 mg/mL should be stored at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Protect from light and freezing.
 
 Keep out of reach of children.

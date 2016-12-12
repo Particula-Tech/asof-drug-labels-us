@@ -38,14 +38,12 @@ Inform patients and caregivers about the risk of tardive dyskinesia [see Warning
 
 Rx Only
 
-Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
-
-Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-01-2015-01
+03-2016-03
 
-Risperidone Oral Solution, USP
+Risperidone Oral Solution
 
 PHARMACIST:
 
@@ -55,7 +53,7 @@ USING YOUR RISPERIDONE DISPENSING-PIPETTE AND BOTTLE
 
 NDC 65162-673-84 30mL
 
-Risperidone Oral Solution, USP
+Risperidone Oral Solution
 
 1mg/mL
 
@@ -75,12 +73,10 @@ IMPORTANT: Please read these instructions before using risperidone oral solution
 
 DOSAGE: For information about the use of risperidone, please see accompanying Package Insert.
 
-STORAGE: Store bottle at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+STORAGE: Store bottle at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Keep away from children; avoid freezing and protect from light.
 
-Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
-
-Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-01-2015-01
+03-2016-03
