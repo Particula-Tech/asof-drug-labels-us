@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Proper Use of Lorazepam Oral Concentrate USP:
+Proper Use of Lorazepam Oral Concentrate:
 
 Lorazepam Oral Concentrateis a concentrated oral solution as compared to standard oral liquid medications.
 It is recommended that Lorazepam Oral Concentratebe mixed with liquid or semi-solid food such as water, juices, soda or soda-like beverages, applesauce and puddings.
@@ -17,8 +17,7 @@ Lorazepam is administered orally.
 For optimal results, dose, frequency of administration, and duration of therapy should be individualized according to patient response.
 
 The usual range is 2 mg/day to 6 mg/day given in divided doses, the largest dose being taken before bedtime, but the daily dosage may vary from 1 mg/day to 10 mg/day.
-
-For anxiety, most patients require an initial dose of 2 mg/day to 3 mg/day given b.i.d. or t.i.d.
+For anxiety, most patients require an initial dose of 2 mg/day to 3 mg/day given twice daily or three times daily.
 
 For insomnia due to anxiety or transient situational stress, a single daily dose of 2 mg to 4 mg may be given, usually at bedtime.
 

@@ -18,13 +18,13 @@ Addiction-prone individuals (such as drug addicts or alcoholics) should be under
 
 In general, benzodiazepines should be prescribed for short periods only (e.g.
 2 to 4 weeks).
-Extension of the treatment period should not take place with-out reevaluation of the need for continued therapy.
+Extension of the treatment period should not take place without reevaluation of the need for continued therapy.
 Continuous long-term use of product is not recommended.
 Withdrawal symptoms (e.g. rebound insomnia) can appear following cessation of recommended doses after as little as one week of therapy.
 
 Abrupt discontinuation of product should be avoided and a gradual dosage-tapering schedule followed after extended therapy.
 Abrupt termination of treatment may be accompanied by withdrawal symptoms.
-Symptoms reported following discontinuation of benzodiazepines include headache, anxiety, tension, depression, insomnia, restlessness, confusion, irritability, sweating, rebound phenomena, dysphoria, dizziness, derealization, depersonalization, hyperacusis, numbness/tingling of extremities, hypersensitivity to light, noise, and physical contact/perceptual changes, involuntary movements, nausea, vomiting, diarrhea, loss of appetite, hallucinations/delirium, convulsions/seizures, tremor, abdominal cramps, myalgia, agitation, pal-pitations, tachycardia, panic attacks, vertigo, hyperreflexia, short-term memory loss, and hyperthermia.
+Symptoms reported following discontinuation of benzodiazepines include headache, anxiety, tension, depression, insomnia, restlessness, confusion, irritability, sweating, rebound phenomena, dysphoria, dizziness, derealization, depersonalization, hyperacusis, numbness/tingling of extremities, hypersensitivity to light, noise, and physical contact/perceptual changes, involuntary movements, nausea, vomiting, diarrhea, loss of appetite, hallucinations/delirium, convulsions/seizures, tremor, abdominal cramps, myalgia, agitation, palpitations, tachycardia, panic attacks, vertigo, hyperreflexia, short-term memory loss, and hyperthermia.
 Convulsions/seizures may be more common in patients with pre-existing seizure disorders or who are taking other drugs that lower the convulsive threshold such as antidepressants.
 
 There is evidence that tolerance develops to the sedative effects of benzodiazepines.
@@ -87,7 +87,7 @@ Administration of theophylline or aminophylline may reduce the sedative effects 
 Carcinogenesis and Mutagenesis
 
 No evidence of carcinogenic potential emerged in rats during an 18-month study with lorazepam.
-No studies regarding mutagenesis have been per-formed.
+No studies regarding mutagenesis have been performed.
 
 Pregnancy
 

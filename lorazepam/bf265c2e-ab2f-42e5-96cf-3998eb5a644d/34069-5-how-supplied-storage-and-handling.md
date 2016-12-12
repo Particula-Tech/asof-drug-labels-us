@@ -18,4 +18,4 @@ Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
 
 Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
 
-Revised: 12-2015-00
+Revised: 04-2016-01
