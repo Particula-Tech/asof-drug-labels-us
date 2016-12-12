@@ -1,9 +1,28 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Inform patients that the most frequently occurring adverse reactions in US clinical trials for adults are headache, diarrhea, nausea, abdominal pain, vomiting, flatulence, dizziness, and arthralgia.
+Adverse Reactions
 
-Patients should be instructed to inform their healthcare provider if they develop any unusual symptom, or if any known symptom persists or worsens.
-Patients should be instructed to inform their healthcare provider of any other medications they are currently taking, including over-the-counter medications, as well as allergies to any medications.
+Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
+
+- Hypersensitivity and Severe Skin Reactions [see Warnings and Precautions (5.2)]
+- Injection Site Reactions [see Warnings and Precautions (5.3)]
+- Potential for Exacerbation of Zinc Deficiency [see Warnings and Precautions (5.4)]
+- Acute Interstitial Nephritis [see Warnings and Precautions (5.5)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.6)]
+- Bone Fracture [see Warnings and Precautions (5.7)]
+- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.8)]
+- Hepatic Effects [see Warnings and Precautions (5.9)]
+- Hypomagnesemia [see Warnings and Precautions (5.10)]
+
+Drug Interactions
+
+Instruct patients to inform their healthcare provider of any other medications they are currently taking, including over-the-counter medications.
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
+
+under license from Takeda GmbH D78467 Konstanz, Germany
+
+PremierProRx® is a registered trademark of Premier, Inc., used under license.
+
+LAB-0661-4.0

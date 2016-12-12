@@ -27,7 +27,7 @@ Study 1 was a multicenter, double-blind, placebo-controlled, study of the pharma
 Patients with GERD and a history of erosive esophagitis (n=78, 20–67 years; 39 females; 7 Black, 19 Hispanic, 52 White) were randomized to receive either 40 mg intravenous pantoprazole, 40 mg oral pantoprazole, or placebo once daily for 7 days.
 Following an overnight fast, test medication was administered and patients were given a light meal within 15 minutes.
 MAO and BAO were determined 24 hours following the last day of study medication.
-MAO was estimated from a 1 hour continuous collection of gastric contents following subcutaneous injection of 6.0 μg/kg of pentagastrin to stimulate acid secretion.
+MAO was estimated from a 1 hour continuous collection of gastric contents following subcutaneous injection of 6.0 µg/kg of pentagastrin to stimulate acid secretion.
 This study demonstrated that, after treatment for 7 days, patients treated with PROTONIX I.V. for Injection had a significantly lower MAO and BAO than those treated with placebo (p<0.001), and results were comparable to those of patients treated with oral PROTONIX (see Table 4).
 
 Table 4: ANTISECRETORY EFFECTS (mEq/h) OF INITIAL TREATMENT WITH 40 mg PROTONIX I.V. for INJECTION AND 40 mg ORAL PROTONIX IN GERD PATIENTS WITH A HISTORY OF EROSIVE ESOPHAGITIS
