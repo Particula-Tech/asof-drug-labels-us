@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA050751"
+  ],
+  "inn": "doxycycline",
+  "labeler": "Den-Mat Holdings, LLC",
+  "package_ndcs": [
+    "59883-100-01",
+    "59883-100-02",
+    "59883-100-06",
+    "59883-101-01",
+    "59883-102-01"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "doxycycline hyclate",
+      "name": "ATRIDOX"
+    }
+  ],
+  "setid": "2550dbc0-8bdd-4bca-81d5-eec77ee6fbd5",
+  "source": "dailymed"
+}
