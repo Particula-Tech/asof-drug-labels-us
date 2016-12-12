@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA202595"
+  ],
+  "inn": "oseltamivir",
+  "labeler": "Alvogen Inc.",
+  "package_ndcs": [
+    "47781-468-13",
+    "47781-469-13",
+    "47781-470-13"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "oseltamivir phosphate",
+      "name": "Oseltamivir Phosphate"
+    }
+  ],
+  "setid": "809f859e-0852-80d3-1a67-da87ed399c15",
+  "source": "dailymed"
+}
