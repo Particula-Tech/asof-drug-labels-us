@@ -28,7 +28,7 @@ Bottles of 100 NDC 53746-117-01
 
 Storage
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container.
 
@@ -39,4 +39,4 @@ DEA Order Form Required.
 Manufactured by: Amneal Pharmaceuticals of NY Hauppauge, NY 11788
 
 Rev.
-08-2015-02
+06-2016-03
