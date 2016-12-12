@@ -37,5 +37,5 @@ Made in Germany
 
 JALYN is a trademark of the GSK group of companies.
 
-A414415 Rev.
-7/14
+1. A414415 Rev.
+   7/14
