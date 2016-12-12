@@ -19,20 +19,17 @@ Doses of 20 to 80 mg of PROTONIX I.V. for Injection substantially reduced the 24
 Complete suppression of PSAO was achieved with 80 mg within approximately 2 hours and no further significant suppression was seen with 120 mg.
 The duration of action of PROTONIX I.V. for Injection was 24 hours.
 
-Table 2: Gastric Acid Output (mEq/hr, Mean ± SD) and Percent Inhibitiona (Mean ± SD) of Pentagastrin-Stimulated Acid Output Over 24 Hours Following a Single Dose of PROTONIX I.V. for Injectionb in Healthy Subjects
+Table 2: Gastric Acid Output (mEq/hr, Mean ± SD) and Percent InhibitionCompared to individual subject baseline prior to treatment with PROTONIX I.V. for Injection.
+NA = not applicable.
+(Mean ± SD) of Pentagastrin-Stimulated Acid Output Over 24 Hours Following a Single Dose of PROTONIX I.V. for InjectionInhibition of gastric acid output and the percent inhibition of stimulated acid output in response to PROTONIX I.V. for Injection may be higher after repeated doses. in Healthy Subjects
 
-|  | ------2 hours------ |  | ------4 hours------ |  | ------12 hours------ |  | ------24 hours------ |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Treatment Dose | Acid Output | % Inhibition | Acid Output | % Inhibition | Acid Output | % Inhibition | Acid Output | % Inhibition |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | ------2 hours------ |  | ------4 hours------ |  | ------12 hours------ |  | ------24 hours------ |  |
 | 0 mg (Placebo, n=4) | 39 ± 21 | NA | 26 ± 14 | NA | 32 ± 20 | NA | 38 ± 24 | NA |
-| 20 mg (n=4-6) | 13 ± 18 | 47 ± 27 | 6 ± 8 | 83 ± 21 | 20 ± 20 | 54 ± 44 | 30 ± 23 | 45 ± 43 |
+| 20 mg (n=4–6) | 13 ± 18 | 47 ± 27 | 6 ± 8 | 83 ± 21 | 20 ± 20 | 54 ± 44 | 30 ± 23 | 45 ± 43 |
 | 40 mg (n=8) | 5 ± 5 | 82 ± 11 | 4 ± 4 | 90 ± 11 | 11 ± 10 | 81 ± 13 | 16 ± 12 | 52 ± 36 |
 | 80 mg (n=8) | 0.1 ± 0.2 | 96 ± 6 | 0.3 ± 0.4 | 99 ± 1 | 2 ± 2 | 90 ± 7 | 7 ± 4 | 63 ± 18 |
-
-a: Compared to individual subject baseline prior to treatment with PROTONIX I.V. for Injection.
-NA = not applicable.
-
-b: Inhibition of gastric acid output and the percent inhibition of stimulated acid output in response to PROTONIX I.V. for Injection may be higher after repeated doses.
 
 In one study of gastric pH in healthy subjects, pantoprazole was administered orally (40 mg enteric coated tablets) or intravenously (40 mg) once daily for 5 days and pH was measured for 24 hours following the fifth dose.
 The outcome measure was median percent of time that pH was ≥ 4 and the results were similar for intravenous and oral medications; however, the clinical significance of this parameter is unknown.
@@ -41,7 +38,7 @@ Serum Gastrin Effects
 
 Serum gastrin concentrations were assessed in two placebo-controlled studies.
 
-In a 5-day study of oral pantoprazole with 40 and 60 mg doses in healthy subjects, following the last dose on day 5, median 24-hour serum gastrin concentrations were elevated by 3-4 fold compared to placebo in both 40 and 60 mg dose groups.
+In a 5-day study of oral pantoprazole with 40 and 60 mg doses in healthy subjects, following the last dose on day 5, median 24-hour serum gastrin concentrations were elevated by 3–4 fold compared to placebo in both 40 and 60 mg dose groups.
 However, by 24 hours following the last dose, median serum gastrin concentrations for both groups returned to normal levels.
 
 In another placebo-controlled, 7-day study of 40 mg intravenous or oral pantoprazole in patients with GERD and a history of erosive esophagitis, the mean serum gastrin concentration increased approximately 50% from baseline and as compared with placebo, but remained within the normal range.
@@ -64,11 +61,11 @@ Pantoprazole peak serum concentration (Cmax) and area under the serum concentrat
 Pantoprazole does not accumulate and its pharmacokinetics are unaltered with multiple daily dosing.
 Following the administration of PROTONIX I.V. for Injection, the serum concentration of pantoprazole declines biexponentially with a terminal elimination half-life of approximately one hour.
 In CYP2C19 extensive metabolizers [see Clinical Pharmacology (12.5)] with normal liver function receiving a 40 mg dose of PROTONIX I.V. for Injection by constant rate over 15 minutes, the peak concentration (Cmax) is 5.52 ±1.42 mcg/mL and the total area under the plasma concentration versus time curve (AUC) is 5.4 ±1.5 mcg∙ hr/mL.
-The total clearance is 7.6-14.0 L/h.
+The total clearance is 7.6–14.0 L/h.
 
 Distribution
 
-The apparent volume of distribution of pantoprazole is approximately 11.0-23.6 L, distributing mainly in extracellular fluid.
+The apparent volume of distribution of pantoprazole is approximately 11.0–23.6 L, distributing mainly in extracellular fluid.
 The serum protein binding of pantoprazole is about 98%, primarily to albumin.
 
 Metabolism
@@ -77,7 +74,7 @@ Pantoprazole is extensively metabolized in the liver through the cytochrome P450
 Pantoprazole metabolism is independent of the route of administration (intravenous or oral).
 The main metabolic pathway is demethylation, by CYP2C19, with subsequent sulfation; other metabolic pathways include oxidation by CYP3A4.
 There is no evidence that any of the pantoprazole metabolites have significant pharmacologic activity.
-CYP2C19 displays a known genetic polymorphism due to its deficiency in some sub-populations (e.g., 3% of Caucasians and African-Americans and 17-23% of Asians).
+CYP2C19 displays a known genetic polymorphism due to its deficiency in some sub-populations (e.g., 3% of Caucasians and African-Americans and 17–23% of Asians).
 Although these sub-populations of slow pantoprazole metabolizers have elimination half-life values from 3.5 to 10.0 hours, they still have minimal accumulation (≤ 23%) with once daily dosing.
 
 Excretion
@@ -104,7 +101,7 @@ No dosage adjustment is necessary in patients with renal impairment or in patien
 Hepatic Impairment
 
 In patients with mild to severe hepatic impairment (Child-Pugh A to C cirrhosis), maximum pantoprazole concentrations increased only slightly (1.5-fold) relative to healthy subjects when pantoprazole was administered orally.
-Although serum half-life values increased to 7-9 hours and AUC values increased by 5- to 7-fold in hepatic-impaired patients, these increases were no greater than those observed in CYP2C19 poor metabolizers, where no dosage adjustment is warranted.
+Although serum half-life values increased to 7–9 hours and AUC values increased by 5- to 7-fold in hepatic-impaired patients, these increases were no greater than those observed in CYP2C19 poor metabolizers, where no dosage adjustment is warranted.
 These pharmacokinetic changes in hepatic-impaired patients result in minimal drug accumulation following once-daily, multiple-dose administration.
 No dosage adjustment is needed in patients with mild to severe hepatic impairment.
 Doses higher than 40 mg/day have not been studied in hepatically impaired patients.
