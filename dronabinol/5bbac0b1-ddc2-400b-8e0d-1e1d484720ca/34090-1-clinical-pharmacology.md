@@ -21,12 +21,12 @@ An initial tachycardia induced by dronabinol was replaced successively by normal
 A decrease in supine blood pressure, made worse by standing, was also observed initially.
 These volunteers developed tolerance to the cardiovascular and subjective adverse CNS effects of dronabinol within 12 days of treatment initiation.
 
-Tachyphylaxis and tolerance do not, however, appear to develop to the appetite stimulant effect of MARINOL Capsules.
-In studies involving patients with Acquired Immune Deficiency Syndrome (AIDS), the appetite stimulant effect of MARINOL Capsules has been sustained for up to five months in clinical trials, at dosages ranging from 2.5 mg/day to 20 mg/day.
+Tachyphylaxis and tolerance do not, however, appear to develop to the appetite stimulant effect of MARINOL capsules.
+In studies involving patients with Acquired Immune Deficiency Syndrome (AIDS), the appetite stimulant effect of MARINOL capsules has been sustained for up to five months in clinical trials, at dosages ranging from 2.5 mg/day to 20 mg/day.
 
 ## Pharmacokinetics
 
-Absorption and Distribution: MARINOL Capsules is almost completely absorbed (90 to 95%) after single oral doses.
+Absorption and Distribution: MARINOL capsules is almost completely absorbed (90 to 95%) after single oral doses.
 Due to the combined effects of first pass hepatic metabolism and high lipid solubility, only 10 to 20% of the administered dose reaches the systemic circulation.
 Dronabinol has a large apparent volume of distribution, approximately 10 L/kg, because of its lipid solubility.
 The plasma protein binding of dronabinol and its metabolites is approximately 97%.
@@ -58,31 +58,31 @@ Less than 5% of an oral dose is recovered unchanged in the feces.
 
 Following single dose administration, low levels of dronabinol metabolites have been detected for more than 5 weeks in the urine and feces.
 
-In a study of MARINOL Capsules involving AIDS patients, urinary cannabinoid/creatinine concentration ratios were studied bi-weekly over a six week period.
+In a study of MARINOL capsules involving AIDS patients, urinary cannabinoid/creatinine concentration ratios were studied bi-weekly over a six week period.
 The urinary cannabinoid/creatinine ratio was closely correlated with dose.
 No increase in the cannabinoid/creatinine ratio was observed after the first two weeks of treatment, indicating that steady-state cannabinoid levels had been reached.
 This conclusion is consistent with predictions based on the observed terminal half-life of dronabinol.
 
-Special Populations: The pharmacokinetic profile of MARINOL Capsules has not been investigated in either pediatric or geriatric patients.
+Special Populations: The pharmacokinetic profile of MARINOL capsules has not been investigated in either pediatric or geriatric patients.
 
 ## Clinical Trials
 
-Appetite Stimulation: The appetite stimulant effect of MARINOL Capsules in the treatment of AIDS-related anorexia associated with weight loss was studied in a randomized, double-blind, placebo-controlled study involving 139 patients.
-The initial dosage of MARINOL Capsules in all patients was 5 mg/day, administered in doses of 2.5 mg one hour before lunch and one hour before supper.
-In pilot studies, early morning administration of MARINOL Capsules appeared to have been associated with an increased frequency of adverse experiences, as compared to dosing later in the day.
-The effect of MARINOL Capsules on appetite, weight, mood, and nausea was measured at scheduled intervals during the six-week treatment period.
+Appetite Stimulation: The appetite stimulant effect of MARINOL capsules in the treatment of AIDS-related anorexia associated with weight loss was studied in a randomized, double-blind, placebo-controlled study involving 139 patients.
+The initial dosage of MARINOL capsules in all patients was 5 mg/day, administered in doses of 2.5 mg one hour before lunch and one hour before supper.
+In pilot studies, early morning administration of MARINOL capsules appeared to have been associated with an increased frequency of adverse experiences, as compared to dosing later in the day.
+The effect of MARINOL capsules on appetite, weight, mood, and nausea was measured at scheduled intervals during the six-week treatment period.
 Side effects (feeling high, dizziness, confusion, somnolence) occurred in 13 of 72 patients (18%) at this dosage level and the dosage was reduced to 2.5 mg/day, administered as a single dose at supper or bedtime.
 
 Of the 112 patients that completed at least 2 visits in the randomized, double-blind, placebo-controlled study, 99 patients had appetite data at 4-weeks (50 received MARINOL and 49 received placebo) and 91 patients had appetite data at 6-weeks (46 received MARINOL and 45 received placebo).
-A statistically significant difference between MARINOL Capsules and placebo was seen in appetite as measured by the visual analog scale at weeks 4 and 6 (see figure).
+A statistically significant difference between MARINOL capsules and placebo was seen in appetite as measured by the visual analog scale at weeks 4 and 6 (see figure).
 Trends toward improved body weight and mood, and decreases in nausea were also seen.
 
-After completing the 6-week study, patients were allowed to continue treatment with MARINOL Capsules in an open-label study, in which there was a sustained improvement in appetite.
+After completing the 6-week study, patients were allowed to continue treatment with MARINOL capsules in an open-label study, in which there was a sustained improvement in appetite.
 
-Antiemetic: MARINOL Capsules treatment of chemotherapy-induced emesis was evaluated in 454 patients with cancer, who received a total of 750 courses of treatment of various malignancies.
-The antiemetic efficacy of MARINOL Capsules was greatest in patients receiving cytotoxic therapy with MOPP for Hodgkin's and non-Hodgkin's lymphomas.
-MARINOL Capsules dosages ranged from 2.5 mg/day to 40 mg/day, administered in equally divided doses every four to six hours (four times daily).
-As indicated in the following table, escalating the MARINOL Capsules dose above 7 mg/m2 increased the frequency of adverse experiences, with no additional antiemetic benefit.
+Antiemetic: MARINOL capsules treatment of chemotherapy-induced emesis was evaluated in 454 patients with cancer, who received a total of 750 courses of treatment of various malignancies.
+The antiemetic efficacy of MARINOL capsules was greatest in patients receiving cytotoxic therapy with MOPP for Hodgkin's and non-Hodgkin's lymphomas.
+MARINOL capsules dosages ranged from 2.5 mg/day to 40 mg/day, administered in equally divided doses every four to six hours (four times daily).
+As indicated in the following table, escalating the MARINOL capsules dose above 7 mg/m2 increased the frequency of adverse experiences, with no additional antiemetic benefit.
 
 MARINOL Capsules Dose: Response Frequency and Adverse Experiences*(N = 750 treatment courses)
 
@@ -93,4 +93,4 @@ MARINOL Capsules Dose: Response Frequency and Adverse Experiences*(N = 750 treat
 | >7 mg/m2 | 33 | 31 | 36 | 13 | 58 | 28 |
 | *Nondysphoric events consisted of drowsiness, tachycardia, etc. |  |  |  |  |  |  |
 
-Combination antiemetic therapy with MARINOL Capsules and a phenothiazine (prochlorperazine) may result in synergistic or additive antiemetic effects and attenuate the toxicities associated with each of the agents.
+Combination antiemetic therapy with MARINOL capsules and a phenothiazine (prochlorperazine) may result in synergistic or additive antiemetic effects and attenuate the toxicities associated with each of the agents.

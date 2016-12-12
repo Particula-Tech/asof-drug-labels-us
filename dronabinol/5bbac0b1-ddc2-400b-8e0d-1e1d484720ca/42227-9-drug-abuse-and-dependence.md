@@ -1,13 +1,13 @@
 # DRUG ABUSE AND DEPENDENCE
 
-MARINOL Capsules is one of the psychoactive compounds present in cannabis, and is abusable and controlled [Schedule III (CIII)] under the Controlled Substances Act.
+MARINOL capsules is one of the psychoactive compounds present in cannabis, and is abusable and controlled [Schedule III (CIII)] under the Controlled Substances Act.
 Both psychological and physiological dependence have been noted in healthy individuals receiving dronabinol, but addiction is uncommon and has only been seen after prolonged high dose administration.
 
 Chronic abuse of cannabis has been associated with decrements in motivation, cognition, judgement, and perception.
 The etiology of these impairments is unknown, but may be associated with the complex process of addiction rather than an isolated effect of the drug.
-No such decrements in psychological, social or neurological status have been associated with the administration of MARINOL Capsules for therapeutic purposes.
+No such decrements in psychological, social or neurological status have been associated with the administration of MARINOL capsules for therapeutic purposes.
 
-In an open-label study in patients with AIDS who received MARINOL Capsules for up to five months, no abuse, diversion or systematic change in personality or social functioning were observed despite the inclusion of a substantial number of patients with a past history of drug abuse.
+In an open-label study in patients with AIDS who received MARINOL capsules for up to five months, no abuse, diversion or systematic change in personality or social functioning were observed despite the inclusion of a substantial number of patients with a past history of drug abuse.
 
 An abstinence syndrome has been reported after the abrupt discontinuation of dronabinol in volunteers receiving dosages of 210 mg/day for 12 to 16 consecutive days.
 Within 12 hours after discontinuation, these volunteers manifested symptoms such as irritability, insomnia, and restlessness.

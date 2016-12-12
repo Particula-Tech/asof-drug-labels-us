@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-MARINOL Capsules (dronabinol solution in sesame oil in soft gelatin capsules)
+MARINOL® (dronabinol capsules, USP)
 
 2.5 mg white capsules (Identified UM).
 NDC 0051-0021-21 (Bottle of 60 capsules).
@@ -15,6 +15,6 @@ Manufactured by: Banner Pharmacaps, Inc. High Point, NC 27265
 
 For: AbbVie Inc. North Chicago, IL 60064, U.S.A.
 
-46628-02 August, 2015
+1248A00 06/16 June, 2016
 
-© 2015 AbbVie Inc.
+© 2016 AbbVie Inc.

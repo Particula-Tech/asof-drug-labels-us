@@ -1,14 +1,14 @@
 # ADVERSE REACTIONS
 
-Adverse experiences information summarized in the tables below was derived from well-controlled clinical trials conducted in the US and US territories involving 474 patients exposed to MARINOL Capsules.
+Adverse experiences information summarized in the tables below was derived from well-controlled clinical trials conducted in the US and US territories involving 474 patients exposed to MARINOL capsules.
 Studies of AIDS-related weight loss included 157 patients receiving dronabinol at a dose of 2.5 mg twice daily and 67 receiving placebo.
 Studies of different durations were combined by considering the first occurrence of events during the first 28 days.
 Studies of nausea and vomiting related to cancer chemotherapy included 317 patients receiving dronabinol and 68 receiving placebo.
 
-A cannabinoid dose-related “high” (easy laughing, elation and heightened awareness) has been reported by patients receiving MARINOL Capsules in both the antiemetic (24%) and the lower dose appetite stimulant clinical trials (8%).
+A cannabinoid dose-related “high” (easy laughing, elation and heightened awareness) has been reported by patients receiving MARINOL capsules in both the antiemetic (24%) and the lower dose appetite stimulant clinical trials (8%).
 (See Clinical Trials.)
 
-The most frequently reported adverse experiences in patients with AIDS during placebo-controlled clinical trials involved the CNS and were reported by 33% of patients receiving MARINOL Capsules.
+The most frequently reported adverse experiences in patients with AIDS during placebo-controlled clinical trials involved the CNS and were reported by 33% of patients receiving MARINOL capsules.
 About 25% of patients reported a minor CNS adverse event during the first 2 weeks and about 4% reported such an event each week for the next 6 weeks thereafter.
 
 ## PROBABLY CAUSALLY RELATED: Incidence greater than 1%.
@@ -30,14 +30,14 @@ Event rates derived from clinical trials in AIDS-related anorexia (N=157) and ch
 
 ## CAUSAL RELATIONSHIP UNKNOWN: Incidence less than 1%.
 
-The clinical significance of the association of these events with MARINOL Capsules treatment is unknown, but they are reported as alerting information for the clinician.
+The clinical significance of the association of these events with MARINOL capsules treatment is unknown, but they are reported as alerting information for the clinician.
 
 | Body as a whole: Chills, headache, malaise. Digestive: Anorexia, hepatic enzyme elevation. Respiratory: Cough, rhinitis, sinusitis. Skin and Appendages: Sweating. |
 | --- |
 
 ## Postmarketing Experience
 
-Seizure and seizure-like activity have been reported in patients receiving MARINOL Capsules during marketed use of the drug and in clinical trials.
+Seizure and seizure-like activity have been reported in patients receiving MARINOL capsules during marketed use of the drug and in clinical trials.
 (See PRECAUTIONSandOVERDOSAGE.)
 Reports of fatigue have also been received.
-A causal relationship between MARINOL Capsules and these events has not been established.
+A causal relationship between MARINOL capsules and these events has not been established.

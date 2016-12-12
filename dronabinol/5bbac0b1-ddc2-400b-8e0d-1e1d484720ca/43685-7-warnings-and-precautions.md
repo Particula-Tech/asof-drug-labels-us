@@ -1,41 +1,41 @@
 # WARNINGS
 
-Patients receiving treatment with MARINOL Capsules should be specifically warned not to drive, operate machinery, or engage in any hazardous activity until it is established that they are able to tolerate the drug and to perform such tasks safely.
+Patients receiving treatment with MARINOL capsules should be specifically warned not to drive, operate machinery, or engage in any hazardous activity until it is established that they are able to tolerate the drug and to perform such tasks safely.
 
 # PRECAUTIONS
 
-General: The risk/benefit ratio of MARINOL Capsules use should be carefully evaluated in patients with the following medical conditions because of individual variation in response and tolerance to the effects of MARINOL Capsules.
+General: The risk/benefit ratio of MARINOL capsules use should be carefully evaluated in patients with the following medical conditions because of individual variation in response and tolerance to the effects of MARINOL capsules.
 
-Seizure and seizure-like activity have been reported in patients receiving MARINOL Capsules during marketed use of the drug and in clinical trials.
+Seizure and seizure-like activity have been reported in patients receiving MARINOL capsules during marketed use of the drug and in clinical trials.
 (See ADVERSE REACTIONS and OVERDOSAGE.)
-MARINOL Capsules should be used with caution in patients with a history of seizure disorder because MARINOL Capsules may lower the seizure threshold.
-A causal relationship between MARINOL Capsules and these events has not been established.
-MARINOL Capsules should be discontinued immediately in patients who develop seizures and medical attention should be sought immediately.
+MARINOL capsules should be used with caution in patients with a history of seizure disorder because MARINOL capsules may lower the seizure threshold.
+A causal relationship between MARINOL capsules and these events has not been established.
+MARINOL capsules should be discontinued immediately in patients who develop seizures and medical attention should be sought immediately.
 
-MARINOL Capsules should be used with caution in patients with cardiac disorders because of occasional hypotension, possible hypertension, syncope, or tachycardia.
+MARINOL capsules should be used with caution in patients with cardiac disorders because of occasional hypotension, possible hypertension, syncope, or tachycardia.
 (See CLINICAL PHARMACOLOGY.)
 
-MARINOL Capsules should be used with caution in patients with a history of substance abuse, including alcohol abuse or dependence, because they may be more prone to abuse MARINOL Capsules as well.
+MARINOL capsules should be used with caution in patients with a history of substance abuse, including alcohol abuse or dependence, because they may be more prone to abuse MARINOL capsules as well.
 Multiple substance abuse is common and marijuana, which contains the same active compound, is a frequently abused substance.
 
-MARINOL Capsules should be used with caution and careful psychiatric monitoring in patients with mania, depression, or schizophrenia because MARINOL Capsules may exacerbate these illnesses.
+MARINOL capsules should be used with caution and careful psychiatric monitoring in patients with mania, depression, or schizophrenia because MARINOL capsules may exacerbate these illnesses.
 
-MARINOL Capsules should be used with caution in patients receiving concomitant therapy with sedatives, hypnotics or other psychoactive drugs because of the potential for additive or synergistic CNS effects.
+MARINOL capsules should be used with caution in patients receiving concomitant therapy with sedatives, hypnotics or other psychoactive drugs because of the potential for additive or synergistic CNS effects.
 
-MARINOL Capsules should be used with caution in elderly patients because they may be more sensitive to the neurological, psychoactive, and postural hypotensive effects of the drug.
+MARINOL capsules should be used with caution in elderly patients because they may be more sensitive to the neurological, psychoactive, and postural hypotensive effects of the drug.
 (See INDIVIDUALIZATION OF DOSAGES.)
 
-MARINOL Capsules should be used with caution in pregnant patients, nursing mothers, or pediatric patients because it has not been studied in these patient populations.
+MARINOL capsules should be used with caution in pregnant patients, nursing mothers, or pediatric patients because it has not been studied in these patient populations.
 
-Information for Patients: Patients receiving treatment with MARINOL Capsules should be alerted to the potential for additive central nervous system depression if MARINOL Capsules is used concomitantly with alcohol or other CNS depressants such as benzodiazepines and barbiturates.
+Information for Patients: Patients receiving treatment with MARINOL capsules should be alerted to the potential for additive central nervous system depression if MARINOL capsules is used concomitantly with alcohol or other CNS depressants such as benzodiazepines and barbiturates.
 
-Patients receiving treatment with MARINOL Capsules should be specifically warned not to drive, operate machinery, or engage in any hazardous activity until it is established that they are able to tolerate the drug and to perform such tasks safely.
+Patients receiving treatment with MARINOL capsules should be specifically warned not to drive, operate machinery, or engage in any hazardous activity until it is established that they are able to tolerate the drug and to perform such tasks safely.
 
-Patients using MARINOL Capsules should be advised of possible changes in mood and other adverse behavioral effects of the drug so as to avoid panic in the event of such manifestations.
-Patients should remain under the supervision of a responsible adult during initial use of MARINOL Capsules and following dosage adjustments.
+Patients using MARINOL capsules should be advised of possible changes in mood and other adverse behavioral effects of the drug so as to avoid panic in the event of such manifestations.
+Patients should remain under the supervision of a responsible adult during initial use of MARINOL capsules and following dosage adjustments.
 
-Drug Interactions: In studies involving patients with AIDS and/or cancer, MARINOL Capsules has been co-administered with a variety of medications (e.g., cytotoxic agents, anti-infective agents, sedatives, or opioid analgesics) without resulting in any clinically significant drug/drug interactions.
-Although no drug/drug interactions were discovered during the clinical trials of MARINOL Capsules, cannabinoids may interact with other medications through both metabolic and pharmacodynamic mechanisms.
+Drug Interactions: In studies involving patients with AIDS and/or cancer, MARINOL capsules has been co-administered with a variety of medications (e.g., cytotoxic agents, anti-infective agents, sedatives, or opioid analgesics) without resulting in any clinically significant drug/drug interactions.
+Although no drug/drug interactions were discovered during the clinical trials of MARINOL capsules, cannabinoids may interact with other medications through both metabolic and pharmacodynamic mechanisms.
 Dronabinol is highly protein bound to plasma proteins, and therefore, might displace other protein-bound drugs.
 Although this displacement has not been confirmed in vivo, practitioners should monitor patients for a change in dosage requirements when administering dronabinol to patients receiving other highly protein-bound drugs.
 Published reports of drug/drug interactions involving cannabinoids are summarized in the following table.
@@ -70,8 +70,8 @@ Such effects were dose dependent and less apparent at lower doses which produced
 There are no adequate and well-controlled studies in pregnant women.
 Dronabinol should be used only if the potential benefit justifies the potential risk to the fetus.
 
-Nursing Mothers: Use of MARINOL Capsules is not recommended in nursing mothers since, in addition to the secretion of HIV virus in breast milk, dronabinol is concentrated in and secreted in human breast milk and is absorbed by the nursing baby.
+Nursing Mothers: Use of MARINOL capsules is not recommended in nursing mothers since, in addition to the secretion of HIV virus in breast milk, dronabinol is concentrated in and secreted in human breast milk and is absorbed by the nursing baby.
 
-Geriatric Use: Clinical studies of MARINOL Capsules in AIDS and cancer patients did not include the sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Geriatric Use: Clinical studies of MARINOL capsules in AIDS and cancer patients did not include the sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious usually starting at the low end of the dosing range, reflecting the greater frequency of falls, decreased hepatic, renal, or cardiac function, increased sensitivity to psychoactive effects and of concomitant disease or other drug therapy.

@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-MARINOL® (dronabinol) Capsules 2.5 mg, 5 mg, 10 mg for use in the loss of appetite associated with weight loss in patients with AIDS.
+MARINOL® (dronabinol capsules, USP) 2.5 mg, 5 mg, 10 mg for use in the loss of appetite associated with weight loss in patients with AIDS.
 
 IMPORTANT
 
@@ -8,17 +8,17 @@ YOUR DOCTOR HAS PRESCRIBED THIS DRUG FOR YOUR USE ONLY.
 DO NOT LET ANYONE ELSE USE IT.
 
 KEEP THIS MEDICINE OUT OF THE REACH OF CHILDREN AND PETS.
-If a child puts a capsule in his or her mouth or swallows MARINOL® Capsules, take the medicine away from the child and contact a poison control center immediately, or contact a doctor immediately.
+If a child puts a capsule in his or her mouth or swallows MARINOL® capsules, take the medicine away from the child and contact a poison control center immediately, or contact a doctor immediately.
 
-Do not drive a car or operate machinery until you know how MARINOL Capsules affects you.
-While taking MARINOL Capsules, do not drink alcohol, smoke marijuana, or take other drugs that have an effect on the central nervous system (such as sedatives or hypnotics).
-Unless advised by your doctor, do not use MARINOL Capsules if you are pregnant or nursing.
+Do not drive a car or operate machinery until you know how MARINOL capsules affects you.
+While taking MARINOL capsules, do not drink alcohol, smoke marijuana, or take other drugs that have an effect on the central nervous system (such as sedatives or hypnotics).
+Unless advised by your doctor, do not use MARINOL capsules if you are pregnant or nursing.
 
-INTRODUCTION This leaflet provides a summary of information about MARINOL Capsules.
+INTRODUCTION This leaflet provides a summary of information about MARINOL capsules.
 Please read it and keep it with your medicines in case you need to look at it again.
 Ask your doctor, nurse, or pharmacist if you have any questions.
 
-MARINOL Capsules contains man-made dronabinol (THC).
+MARINOL capsules contains man-made dronabinol (THC).
 Dronabinol also occurs naturally, and has been extracted from Cannabis sativa L. (marijuana).
 
 PRECAUTIONS Be sure to tell your doctor if you:
@@ -32,22 +32,22 @@ PRECAUTIONS Be sure to tell your doctor if you:
 - have allergies to drugs
 - are pregnant or nursing, or become pregnant
 
-If you become pregnant while taking MARINOL Capsules, stop using it until you have talked to your doctor.
+If you become pregnant while taking MARINOL capsules, stop using it until you have talked to your doctor.
 
-MARINOL Capsules should be used with caution in children because it has not been studied in children.
+MARINOL capsules should be used with caution in children because it has not been studied in children.
 
-MARINOL Capsules should be used with caution in elderly patients because they may be more sensitive to the neurological, psychoactive, and postural hypotensive effects of the drug.
+MARINOL capsules should be used with caution in elderly patients because they may be more sensitive to the neurological, psychoactive, and postural hypotensive effects of the drug.
 
-MARINOL Capsules can dangerously interact with alcohol and with other drugs that have an effect on the central nervous system (such as Valium, Librium, Xanax, Seconal, Nembutal, or Phenobarbital).
+MARINOL capsules can dangerously interact with alcohol and with other drugs that have an effect on the central nervous system (such as Valium, Librium, Xanax, Seconal, Nembutal, or Phenobarbital).
 
-Do not drive or operate machinery until you are sure how MARINOL Capsules affects you and you are able to perform safely.
+Do not drive or operate machinery until you are sure how MARINOL capsules affects you and you are able to perform safely.
 
-You may experience changes in mood or have other effects when first taking MARINOL Capsules.
-Be sure that there is a responsible person nearby when you first take MARINOL Capsules or when there is an adjustment in your dose.
+You may experience changes in mood or have other effects when first taking MARINOL capsules.
+Be sure that there is a responsible person nearby when you first take MARINOL capsules or when there is an adjustment in your dose.
 
 Tell your doctor if you are taking any other prescription or nonprescription medicines.
 
-Do not smoke marijuana while using MARINOL Capsules.
+Do not smoke marijuana while using MARINOL capsules.
 This can cause an overdose.
 
 INFORMATION ABOUT USING MARINOL CAPSULES
@@ -67,22 +67,22 @@ A loss of appetite may occur at various times during illness associated with HIV
 It often leads to the selection of an inadequate diet.
 Because a poor nutrient intake can result in weight loss and malnutrition, it’s important to learn to recognize and handle a temporary loss of your appetite.
 
-Your doctor may prescribe an appetite stimulant such as MARINOL Capsules.
-MARINOL Capsules should be taken exactly as directed by your doctor, and indicated on the prescription label.
-You will most likely start therapy by taking one white capsule (2.5 mg) of MARINOL Capsules twice daily, before lunch and supper.
-Your doctor may adjust your MARINOL Capsules dosage if needed to maximize its effect or to decrease any side effects.
+Your doctor may prescribe an appetite stimulant such as MARINOL capsules.
+MARINOL capsules should be taken exactly as directed by your doctor, and indicated on the prescription label.
+You will most likely start therapy by taking one white capsule (2.5 mg) of MARINOL capsules twice daily, before lunch and supper.
+Your doctor may adjust your MARINOL capsules dosage if needed to maximize its effect or to decrease any side effects.
 
 If you miss a dose, take it as soon as you remember.
 However, if it is almost time for your next dose, skip the missed dose and go back to your regular dosing schedule.
 Do not double your dose.
-MARINOL Capsules must be swallowed whole to work effectively.
+MARINOL capsules must be swallowed whole to work effectively.
 Do not crush or chew the capsules.
 
-It is important not to take sedatives, hypnotics, other mind altering substances, or alcohol, while taking MARINOL Capsules without notifying your health care givers (physician, pharmacists and nurses).
-Do not drive or attempt other activities requiring full alertness while taking MARINOL Capsules.
+It is important not to take sedatives, hypnotics, other mind altering substances, or alcohol, while taking MARINOL capsules without notifying your health care givers (physician, pharmacists and nurses).
+Do not drive or attempt other activities requiring full alertness while taking MARINOL capsules.
 Your doctor will advise when you may resume these activities.
 
-Your doctor and pharmacist should be made aware of any other prescription medications or over-the-counter products you may be taking, as they could affect the way you respond to MARINOL Capsules.
+Your doctor and pharmacist should be made aware of any other prescription medications or over-the-counter products you may be taking, as they could affect the way you respond to MARINOL capsules.
 
 Remember to keep this and all other medication out of the reach of children.
 
@@ -146,22 +146,22 @@ You may also request a referral to a registered dietitian who can provide indivi
 When to Eat “Nutritious” meals can be eaten three times a day, but frequent, small snacks or meals can help you consume the calories and protein you need without feeling full from a large meal.
 Eat when you feel hungry, using modern technology, including your microwave, to quickly prepare a nutritious snack or meal.
 
-Storage Instructions The best place to store MARINOL Capsules is in a cool place (46-59°F; 8-15°C) or in the refrigerator.
+Storage Instructions The best place to store MARINOL capsules is in a cool place (46-59°F; 8-15°C) or in the refrigerator.
 Be careful that the capsules don’t freeze.
-Heat or moisture may cause your MARINOL Capsules to break down or stick together, so keep your medicine away from heat and direct light, and potentially damp places like in the bathroom or near the kitchen sink.
+Heat or moisture may cause your MARINOL capsules to break down or stick together, so keep your medicine away from heat and direct light, and potentially damp places like in the bathroom or near the kitchen sink.
 
-If You Are Taking Medicines MARINOL Capsules use may change the effect of other medicines.
+If You Are Taking Medicines MARINOL capsules use may change the effect of other medicines.
 It is important to tell your doctor about all the medicines you are taking including all non-prescription medication.
 
-What to Watch For (Adverse Effects) You should not smoke marijuana while using MARINOL Capsules.
-It is possible to get too much dronabinol (an overdose), especially if you use MARINOL Capsules and smoke marijuana at the same time.
+What to Watch For (Adverse Effects) You should not smoke marijuana while using MARINOL capsules.
+It is possible to get too much dronabinol (an overdose), especially if you use MARINOL capsules and smoke marijuana at the same time.
 Signs of a mild overdose would include drowsiness, euphoria, heightened sensory awareness, altered time perception, red eyes, dry mouth and rapid heart rate (tachycardia).
 Moderate overdosage would produce memory problems, depersonalization, mood alteration, urinary retention, and constipation.
 Severe overdosage would lead to decreased motor coordination, lethargy, slurred speech, and dizziness when standing up too fast (postural hypotension).
 
 An overdose might cause you to faint.
 
-If You Have Problems in the First Few Days When you first use MARINOL Capsules your body is more sensitive and you may experience dizziness, confusion, sleepiness, or a high feeling.
+If You Have Problems in the First Few Days When you first use MARINOL capsules your body is more sensitive and you may experience dizziness, confusion, sleepiness, or a high feeling.
 These symptoms usually go away in 1 to 3 days with continued dosage.
 If these symptoms are troublesome or persist, notify your doctor at once.
 Your doctor may then reduce the dose to one capsule before supper, or later in the evening, or even at bedtime.
@@ -172,6 +172,6 @@ Manufactured by: Banner Pharmacaps, Inc. High Point, NC 27265
 
 For: AbbVie Inc. North Chicago, IL 60064, U.S.A.
 
-46627-01 February, 2013
+1248A00-P 06/16 June, 2016
 
-© 2013 AbbVie Inc.
+© 2016 AbbVie Inc.
