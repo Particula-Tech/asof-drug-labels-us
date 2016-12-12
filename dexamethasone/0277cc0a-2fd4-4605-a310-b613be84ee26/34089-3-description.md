@@ -1,5 +1,7 @@
 # DESCRIPTION
 
+Dexamethasone sodium phosphate injection, USP is a water-soluble inorganic ester of dexamethasone which produces a rapid response even when injected intramuscularly.
+
 Dexamethasone sodium phosphate, a synthetic adrenocortical steroid, is a white or slightly yellow crystalline powder.
 It is freely soluble in water and is exceedingly hygroscopic.
 The molecular weight is 516.41.

@@ -1,9 +1,10 @@
-# INDICATIONS AND USAGE
+# INDICATIONS
 
-## A. By Intravenous or Intramuscular Injection When Oral Therapy is not Feasible:
+A. Intravenous or intramuscular administration.
+When oral therapy is not feasible and the strength, dosage form, and route of administration of the drug reasonably lend the preparation to the treatment of the condition, those products labeled for intravenous or intramuscular use are indicated as follows:
 
 1.
-ENDOCRINE DISORDERS
+Endocrine disorders
 
 Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy, mineralocorticoid supplementation is of particular importance)
 
@@ -20,7 +21,7 @@ Nonsuppurative thyroiditis
 Hypercalcemia associated with cancer
 
 2.
-RHEUMATIC DISORDERS
+Rheumatic disorders
 
 As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in:
 
@@ -43,7 +44,7 @@ Psoriatic arthritis
 Ankylosing spondylitis
 
 3.
-COLLAGEN DISEASES
+Collagen diseases
 
 During an exacerbation or as maintenance therapy in selected cases of:
 
@@ -52,11 +53,11 @@ Systemic lupus erythematosus
 Acute rheumatic carditis
 
 4.
-DERMATOLOGIC DISEASES
+Dermatologic diseases
 
 Pemphigus
 
-Severe erythema multiforme (Stevens-Johnson syndrome)
+Severe erythema multiforme (Stevens-Johnson Syndrome)
 
 Exfoliative dermatitis
 
@@ -69,7 +70,7 @@ Severe psoriasis
 Mycosis fungoides
 
 5.
-ALLERGIC STATES
+Allergic states
 
 Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in:
 
@@ -90,7 +91,7 @@ Urticarial transfusion reactions
 Acute noninfectious laryngeal edema (epinephrine is the drug of first choice)
 
 6.
-OPHTHALMIC DISEASES
+Ophthalmic diseases
 
 Severe acute and chronic allergic and inflammatory processes involving the eye, such as:
 
@@ -110,38 +111,38 @@ Anterior segment inflammation
 
 Allergic conjunctivitis
 
-Keratitis
-
 Allergic corneal marginal ulcers
 
+Keratitis
+
 7.
-GASTROINTESTINAL DISEASES
+Gastrointestinal diseases
 
 To tide the patient over a critical period of the disease in:
 
-Ulcerative colitis (Systemic therapy)
+Ulcerative colitis (systemic therapy)
 
-Regional enteritis (Systemic therapy)
+Regional enteritis (systemic therapy)
 
 8.
-RESPIRATORY DISEASES
+Respiratory diseases
 
-Symptomatic sarcoidosis
+Symptomatic Sarcoidosis
 
 Berylliosis
 
-Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy
+Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate anti-tuberculosis chemotherapy
 
 Loeffler's syndrome not manageable by other means
 
 Aspiration pneumonitis
 
 9.
-HEMATOLOGIC DISORDERS
+Hematologic disorders
 
 Acquired (autoimmune) hemolytic anemia
 
-Idiopathic thrombocytopenic purpura in adults (IV only; IM administration is contraindicated)
+Idiopathic thrombocytopenic purpura in adults (I.V. only; I.M. administration is contraindicated)
 
 Secondary thrombocytopenia in adults
 
@@ -150,7 +151,7 @@ Erythroblastopenia (RBC anemia)
 Congenital (erythroid) hypoplastic anemia
 
 10.
-NEOPLASTIC DISEASES
+Neoplastic diseases
 
 For palliative management of:
 
@@ -159,27 +160,27 @@ Leukemias and lymphomas in adults
 Acute leukemia of childhood
 
 11.
-EDEMATOUS STATES
+Edematous states
 
-To induce diuresis or remission of proteinuria in the nephrotic syndrome, without uremia, of the idiopathic type, or that due to lupus erythematosus
+To induce diuresis or remission of proteinuria in the nephrotic syndrome, without uremia, of the idiopathic type or that due to lupus erythematosus
 
 12.
-MISCELLANEOUS
+Nervous system
 
-Tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy
+Acute exacerbations of multiple sclerosis
+
+13.
+Miscellaneous
+
+Tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate anti-tuberculosis chemotherapy
 
 Trichinosis with neurologic or myocardial involvement
 
-13.
-DIAGNOSTIC TESTING OF ADRENOCORTICAL HYPERFUNCTION
+Diagnostic testing of adrenocortical hyperfunction
 
-14.
-CEREBRAL EDEMA associated with primary or metastatic brain tumor, craniotomy or head injury.
-Use in cerebral edema is not a substitute for careful neurosurgical evaluation and definitive management such as neurosurgery or other specific therapy.
+Cerebral edema of diverse etiologies in conjunction with adequate neurological evaluation and management.
 
-## B. By Intra-Articular or Soft Tissue Injection
-
-As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in:
+B. Intra-articular or soft tissue administration.When the strength and dosage form of the drug lend the preparation to the treatment of the condition, those products labeled for intra-articular or soft tissue administration are indicated as adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in:
 
 Synovitis of osteoarthritis
 
@@ -195,7 +196,7 @@ Acute nonspecific tenosynovitis
 
 Post-traumatic osteoarthritis
 
-## C. By Intralesional Injection
+C. Intralesional administration.When the strength and dosage form of the drug lend the preparation to the treatment of the condition, those products labeled for intralesional administration are indicated for:
 
 Keloids
 
@@ -207,4 +208,4 @@ Necrobiosis lipoidica diabeticorum
 
 Alopecia areata
 
-May also be useful in cystic tumors of an aponeurosis or tendon (ganglia).
+They also may be useful in cystic tumors of an aponeurosis tendon (ganglia).

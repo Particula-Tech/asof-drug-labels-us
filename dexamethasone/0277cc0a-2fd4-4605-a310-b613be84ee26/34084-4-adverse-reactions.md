@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-## Fluid and Electrolyte Disturbances
+Fluid and electrolyte disturbances:
 
 Sodium retention
 
@@ -14,7 +14,7 @@ Hypokalemic alkalosis
 
 Hypertension
 
-## Musculoskeletal
+Musculoskeletal:
 
 Muscle weakness
 
@@ -30,13 +30,9 @@ Aseptic necrosis of femoral and humeral heads
 
 Pathologic fracture of long bones
 
-Tendon rupture
-
-## Gastrointestinal
+Gastrointestinal:
 
 Peptic ulcer with possible subsequent perforation and hemorrhage
-
-Perforation of the small and large bowel, particularly in patients with inflammatory bowel disease
 
 Pancreatitis
 
@@ -44,25 +40,21 @@ Abdominal distention
 
 Ulcerative esophagitis
 
-## Dermatologic
+Dermatological:
 
 Impaired wound healing
 
-Thin, fragile skin
+Thin fragile skin
 
-Petechiae and ecchymoses
-
-Erythema
+Facial erythema
 
 Increased sweating
 
 May suppress reactions to skin tests
 
-Burning or tingling, especially in the perineal area (after IV injection)
+Petechiae and ecchymoses
 
-Other cutaneous reactions, such as allergic dermatitis, urticaria, angioneurotic edema
-
-## Neurologic
+Neurological:
 
 Convulsions
 
@@ -72,27 +64,7 @@ Vertigo
 
 Headache
 
-Psychic disturbances
-
-## Endocrine
-
-Menstrual irregularities
-
-Development of cushingoid state
-
-Suppression of growth in children
-
-Secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery or illness
-
-Decreased carbohydrate tolerance
-
-Manifestations of latent diabetes mellitus
-
-Increased requirements for insulin or oral hypoglycemic agents in diabetics
-
-Hirsutism
-
-## Ophthalmic
+Ophthalmic:
 
 Posterior subcapsular cataracts
 
@@ -100,35 +72,27 @@ Increased intraocular pressure
 
 Glaucoma
 
-Exophthalmos
+Endocrine:
 
-## Metabolic
+Menstrual irregularities
+
+Development of cushingoid state
+
+Suppression of growth in children
+
+Secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery, or illness
+
+Decreased carbohydrate tolerance
+
+Manifestations of latent diabetes mellitus
+
+Increased requirements for insulin or oral hypoglycemic agents in diabetics
+
+Metabolic:
 
 Negative nitrogen balance due to protein catabolism
 
-## Cardiovascular
-
-Myocardial rupture following recent myocardial infarction (see WARNINGS)
-
-## Other
-
-Anaphylactoid or hypersensitivity reactions
-
-Thromboembolism
-
-Weight gain
-
-Increased appetite
-
-Nausea
-
-Malaise
-
-Hiccups
-
-The following additional adverse reactions are related to parenteral corticosteroid therapy:
-
-Rare instances of blindness associated with intralesional therapy around the face and head
+Miscellaneous:
 
 Hyperpigmentation or hypopigmentation
 
@@ -136,6 +100,8 @@ Subcutaneous and cutaneous atrophy
 
 Sterile abscess
 
-Postinjection flare (following intra-articular use)
+Postinjection flare following intra-articular use
 
 Charcot-like arthropathy
+
+Itching, burning, tingling in the ano-genital region
