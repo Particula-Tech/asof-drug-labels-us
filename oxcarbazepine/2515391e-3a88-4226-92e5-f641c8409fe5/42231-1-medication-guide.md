@@ -223,9 +223,7 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
-
-Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-02-2015-01
+12-2015-02
