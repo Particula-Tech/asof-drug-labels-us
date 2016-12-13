@@ -20,8 +20,8 @@ Made in Canada
 
 ©2015, the GSK group of companies
 
-- 10000000136385 Rev.
-  8/15
+1. 10000000136385 Rev.
+   8/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -59,5 +59,5 @@ Made in Canada
 
 Epivir-HBV is a registered trademark
 
-- A124352 Rev.
-  4/14
+1. A124352 Rev.
+   4/14
