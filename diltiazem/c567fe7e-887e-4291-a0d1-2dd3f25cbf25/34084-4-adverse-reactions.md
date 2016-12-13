@@ -22,7 +22,7 @@ MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED HYPERTENSION TRIAL
 | palpitations | 0 (0) | 2 (1) | 1 (2) |
 | nervousness | 0 (0) | 3 (2) | 0 (0) |
 
-MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED ANGINA TRIALS
+MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED ANGINA TRIALSAdverse events occurring in treated patients at 2% or more than placebo-treated patients.
 
 | Adverse Events (COSTART Term) | n=50 # pts (%) | Up to 360 mg n=158 # pts (%) | 540 mg n=49 # pts (%) |
 | --- | --- | --- | --- |
@@ -63,3 +63,5 @@ In addition, the following postmarketing events have been reported infrequently 
 In addition, events such as myocardial infarction have been observed which are not readily distinguishable from the natural history of the disease in these patients.
 A number of well-documented cases of generalized rash, characterized as leukocytoclastic vasculitis, have been reported.
 However, a definitive cause and effect relationship between these events and diltiazem hydrochloride therapy is yet to be established.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

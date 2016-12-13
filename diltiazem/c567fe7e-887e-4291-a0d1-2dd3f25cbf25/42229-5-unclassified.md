@@ -1,23 +1,16 @@
 USP Drug Release Test 6
 
-LB0104-00 Rev.
-06/2014
+Rx only
 
-Rx Only
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807, USA
 
-Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, Manitoba Canada R5G 1Z7
+By: Valeant Pharmaceuticals International, Inc. Steinbach, Manitoba R5G 1Z7 Canada
 
-For:
+Tiazac is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-Valeant Pharmaceuticals North America LLC
+©Valeant Pharmaceuticals North America LLC
 
-Bridgewater, NJ 08807, USA
-
-Made in Canada
+[Part #]
 
 Rev.
-06/2014
-
-9405000
-
-LB0104-00
+11/2016
