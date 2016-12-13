@@ -1,6 +1,8 @@
 # WARNINGS
 
-See WARNING box.
+See BOXED WARNING.
+
+## Clostridium difficile Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN PEDIATRIC (Clindamycin Palmitate HCL), and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -13,17 +15,19 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## Hypersensitivity
+## Anaphylactic and Severe Hypersensitivity Reactions
 
-Severe hypersensitivity reactions, including severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and Stevens-Johnson syndrome (SJS), some with fatal outcome, have been reported.
-In case of such an event, treatment should be permanently discontinued.
+Anaphylactic shock and anaphylactic reactions have been reported (see ADVERSE REACTIONS).
+
+Severe hypersensitivity reactions, including severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and Stevens-Johnson syndrome (SJS), some with fatal outcome, have been reported (see ADVERSE REACTIONS).
+
+In case of such an anaphylactic or severe hypersensitivity reaction, discontinue treatment permanently and institute appropriate therapy.
 
 A careful inquiry should be made concerning previous sensitivities to drugs and other allergens.
 
-SERIOUS ANAPHYLACTOID OR ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
-OXYGEN AND INTRAVENOUS CORTICOSTEROIDS SHOULD ALSO BE ADMINISTERED AS INDICATED.
+## Usage in Meningitis
 
-Usage in Meningitis: Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.
+Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.
 
 # PRECAUTIONS
 
@@ -80,19 +84,15 @@ Both tests were negative.
 
 Fertility studies in rats treated orally with up to 300 mg/kg/day (approximately 1.6 times the highest recommended adult human oral dose based on mg/m2) revealed no effects on fertility or mating ability.
 
-In oral embryo fetal development studies in rats and subcutaneous embryo fetal development studies in rats and rabbits, no developmental toxicity was observed except at doses that produced maternal toxicity.
-
 ## Pregnancy: Teratogenic Effects
 
 ### Pregnancy Category B
 
-Oral and subcutaneous reproductive toxicity studies in rats and rabbits revealed no evidence of impaired fertility or harm to the fetus due to clindamycin, except at doses that caused maternal toxicity.
-Animal reproduction studies are not always predictive of human response.
-
-In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters, has not been associated with an increased frequency of congenital abnormalities.
-
 Clindamycin should be used during the first trimester of pregnancy only if clearly needed.
 There are no adequate and well-controlled studies in pregnant women during the first trimester of pregnancy.
+Because animal reproduction studies are not always predictive of the human response, this drug should be used during pregnancy only if clearly needed.
+
+Reproduction studies performed in rats and mice using oral doses of clindamycin up to 600 mg/kg/day (3.2 and 1.6 times the highest recommended adult human dose based on mg/m2, respectively) or subcutaneous doses of clindamycin up to 250 mg/kg/day (1.3 and 0.7 times the highest recommended adult human dose based on mg/m2, respectively) revealed no evidence of teratogenicity.
 
 ## Nursing Mothers
 
@@ -101,7 +101,7 @@ Because of the potential for serious adverse reactions in nursing infants, clind
 
 ## Pediatric Use
 
-When CLEOCIN HCl is administered to the pediatric population (birth to 16 years), appropriate monitoring of organ system functions is desirable.
+When CLEOCIN PEDIATRIC is administered to the pediatric population (birth to 16 years), appropriate monitoring of organ system functions is desirable.
 
 ## Geriatric Use
 

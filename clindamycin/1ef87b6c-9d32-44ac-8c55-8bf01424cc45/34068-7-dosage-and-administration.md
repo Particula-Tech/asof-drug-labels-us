@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-If significant diarrhea occurs during therapy, this antibiotic should be discontinued (see WARNING box).
+If significant diarrhea occurs during therapy, this antibiotic should be discontinued (see BOXED WARNING).
 
 Concomitant administration of food does not adversely affect the absorption of clindamycin palmitate HCl contained in CLEOCIN PEDIATRIC Flavored Granules.
 
