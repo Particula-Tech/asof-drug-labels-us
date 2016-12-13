@@ -22,7 +22,7 @@ In those patients who received 5 mg or more per day of cetirizine as compared to
 Table 1.
 Adverse Experiences Reported in Pediatric Patients Aged 6 to 11 Years in Placebo-Controlled United States Cetirizine Hydrochloride Trials (5 or 10 mg Dose) Which Occurred at a Frequency of ≥ 2% in Either the 5-mg or the 10-mg Cetirizine Hydrochloride Group, and More Frequently Than in the Placebo Group
 
-| Adverse Experience | Placebo (N=309) | 5 mg (N=161) | 10 mg (N=215) |
+| Adverse Experiences | Placebo (N=309) | 5 mg (N=161) | 10 mg (N=215) |
 | --- | --- | --- | --- |
 |  |  | Cetirizine hydrochloride |  |
 | Headache | 12.3% | 11% | 14% |
@@ -76,4 +76,4 @@ Hepatitis with significant transaminase elevation and elevated bilirubin in asso
 
 ## Post-Marketing Experience
 
-In the post-marketing period, the following additional rare, but potentially severe adverse events have been reported: aggressive reaction, anaphylaxis, cholestasis, convulsions, glomerulonephritis, hallucinations, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, suicidal ideation, suicide and thrombocytopenia.
+In the post-marketing period, the following additional rare, but potentially severe adverse events have been reported: acute generalized exanthematous pustulosis (AGEP), aggressive reaction, anaphylaxis, cholestasis, convulsions, glomerulonephritis, hallucinations, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, suicidal ideation, suicide and thrombocytopenia.
