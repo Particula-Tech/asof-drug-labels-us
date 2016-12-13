@@ -5,8 +5,7 @@
 In a 104 week carcinogenicity study, rats were given doses up to 46 mg/kg/day of the carrier and up to 1.23 mg/kg/day of insulin, by nose-only inhalation.
 No increased incidence of tumors was observed at systemic exposures equivalent to the insulin at a maximum daily AFREZZA dose of 99 mg based on a comparison of relative body surface areas across species.
 
-In a 26 week carcinogenicity study, transgenic mice (Tg-ras-H2) given doses up to 75 mg/kg/day of carrier and up to 5 mg/kg/day of AFREZZA.
-No increased incidence of tumors was observed.
+No increased incidence of tumors was observed in a 26 week carcinogenicity study in transgenic mice (Tg-ras-H2) given doses up to 75 mg/kg/day of carrier and up to 5 mg/kg/day of AFREZZA.
 
 AFREZZA was not genotoxic in Ames bacterial mutagenicity assay and in the chromosome aberration assay, using human peripheral lymphocytes with or without metabolic activation.
 The carrier alone was not genotoxic in the in vivo mouse micronucleus assay.

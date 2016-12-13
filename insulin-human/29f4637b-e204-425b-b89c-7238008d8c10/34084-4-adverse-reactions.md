@@ -21,8 +21,7 @@ In the overall population, 1874 were exposed to AFREZZA for 6 months and 724 for
 AFREZZA was studied in placebo and active-controlled trials (n = 3 and n = 10, respectively).
 
 The mean age of the population was 50.2 years and 20 patients were older than 75 years of age.
-50.8% of the population were men; 82.6% were White, 1.8% were Asian, and 4.9% were Black or African American.
-9.7% were Hispanic.
+50.8% of the population were men; 82.6% were White, 1.8% were Asian, 4.9% were Black or African American and 9.7% were Hispanic.
 At baseline, the type 1 diabetes population had diabetes for an average of 16.6 years and had a mean HbA1c of 8.3%, and the type 2 diabetes population had diabetes for an average of 10.7 years and had a mean HbA1c of 8.8%.
 At baseline, 33.4% of the population reported peripheral neuropathy, 32.0% reported retinopathy and 19.6% had a history of cardiovascular disease.
 
@@ -34,7 +33,7 @@ Common Adverse Reactions in Patients with Type 2 Diabetes Mellitus (excluding Hy
 
 |  | (n = 290) | (n = 1991) | (n=1363) |
 | --- | --- | --- | --- |
-|  | PlaceboCarrier particle without insulin was used as placebo [see Description (11)]. | AFREZZA | Non-placebo comparators |
+|  | PlaceboCarrier particle without insulin was used as placebo | AFREZZA | Non-placebo comparators |
 | Cough | 19.7% | 25.6% | 5.4% |
 | Throat pain or irritation | 3.8% | 4.4% | 0.9% |
 | Headache | 2.8% | 3.1% | 1.8% |

@@ -51,8 +51,7 @@ The observed changes in FEV1 were similar in patients with type 1 and type 2 dia
 Assess pulmonary function (e.g., spirometry) at baseline, after the first 6 months of therapy, and annually thereafter, even in the absence of pulmonary symptoms.
 In patients who have a decline of ≥ 20% in FEV1 from baseline, consider discontinuing AFREZZA.
 Consider more frequent monitoring of pulmonary function in patients with pulmonary symptoms such as wheezing, bronchospasm, breathing difficulties, or persistent or recurring cough.
-If symptoms persist, discontinue AFREZZA.
-[see Adverse Reactions (6)].
+If symptoms persist, discontinue AFREZZA [see Adverse Reactions (6)].
 
 ## 5.5 Lung Cancer
 

@@ -21,6 +21,7 @@ AFREZZA is available in the following configurations:
 - NDC 47918-882-36, AFREZZA (insulin human) Inhalation Powder: 90 cartridges; 30 – 4 unit cartridges and 60 − 8 unit cartridges and 2 inhalers
 - NDC 47918-894-63, AFREZZA (insulin human) Inhalation Powder: 90 cartridges; 60 – 8 unit cartridges and 30 - 12 unit cartridges and 2 inhalers
 - NDC 47918-880-18, AFREZZA (insulin human) Inhalation Powder: 180 cartridges; 90 – 4 unit cartridges and 90 - 8 unit cartridges and 2 inhalers (Titration Pack)
+- NDC 47918-902-18, AFREZZA (insulin human) Inhalation Powder; 180 cartridges; 60 – 4 unit cartridges, 60 – 8 unit cartridges and 60 – 12 unit cartridges and 2 inhalers (Titration Pack)
 
 Storage
 
@@ -36,7 +37,7 @@ In Use: Room Temperature Storage 25ºC (77ºF), excursions permitted 15–30ºC 
 | --- | --- |
 | Opened Strips | Must be used within 3 days |
 
-Do not put a blister card or strip back into the refrigerator after being stored at room temperature
+Do not put a blister card or strip back into the refrigerator after being stored at room temperature.
 
 Inhaler Storage:
 
