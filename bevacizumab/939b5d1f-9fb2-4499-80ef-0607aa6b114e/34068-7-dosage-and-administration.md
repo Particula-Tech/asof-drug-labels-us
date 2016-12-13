@@ -42,6 +42,11 @@ Platinum-Resistant Recurrent Epithelial Ovarian, Fallopian Tube or Primary Perit
 
 The recommended dose is 10mg/kg every 2 weeks in combination with one of the following intravenous chemotherapy regimens: paclitaxel, pegylated liposomal doxorubicin, or topotecan (weekly); or 15 mg/kg every 3 weeks in combination with topotecan (every 3 weeks).
 
+Platinum-Sensitive Recurrent Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
+
+The recommended dose is 15 mg/kg every 3 weeks when administered in combination with carboplatin and paclitaxel for 6 cycles and up to 8 cycles, followed by continued use of Avastin 15 mg/kg every 3 weeks as a single agent until disease progression.
+Alternatively, 15 mg/kg every 3 weeks when administrated in combination with carboplatin and gemcitabine for 6 cycles and up to 10 cycles, followed by continued use of Avastin 15 mg/kg every 3 weeks as a single agent until disease progression.
+
 ## 2.3 Preparation for Administration
 
 Use appropriate aseptic technique.

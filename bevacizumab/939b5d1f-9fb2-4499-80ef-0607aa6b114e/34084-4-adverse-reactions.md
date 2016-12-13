@@ -23,10 +23,10 @@ Across all studies, Avastin was discontinued in 8.4 to 21% of patients because o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data below reflect exposure to Avastin in 4996 patients with CRC, non-squamous NSCLC, glioblastoma, mRCC, or cervical cancer or platinum-resistant recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer including controlled (Studies 1, 2, 4, 5, 8 9 and 10) or uncontrolled, single arm trials (Study 6) treated at the recommended dose and schedule for a median of 6 to 23 doses of Avastin.
+The data below reflect exposure to Avastin in more than 5500 patients with CRC, non-squamous NSCLC, glioblastoma, mRCC, cervical cancer, platinum-resistant or platinum-sensitive recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer, including controlled (Studies 1, 2, 4, 5, 8, 9, 10, 11, and 12) or uncontrolled, single arm trials (Study 6) treated at the recommended dose and schedule for a median of 6 to 23 doses of Avastin.
 [See Clinical Studies (14).]
 The population was aged 18-89 years (median 60 years), 42% male and 86% White.
-The population included 2184 first- and second-line mCRC patients who received a median of 10 doses of Avastin, 480 first-line metastatic NSCLC patients who received a median of 8 doses of Avastin, 163 glioblastoma patients who received a median of 9 doses of Avastin, 337 mRCC patients who received a median of 16 doses of Avastin, 218 cervical cancer patients who received a median of 6 doses of Avastin and 179 platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer patients who received a median of 6 doses of Avastin.
+The population included 2184 first- and second-line mCRC patients who received a median of 10 doses of Avastin, 480 first-line metastatic NSCLC patients who received a median of 8 doses of Avastin, 163 glioblastoma patients who received a median of 9 doses of Avastin, 337 mRCC patients who received a median of 16 doses of Avastin, 218 cervical cancer patients who received a median of 6 doses of Avastin, 179 platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer patients who received a median of 6 doses of Avastin, and 572 platinum-sensitive recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer patients who received a median of between 12 and 16 doses of Avastin.
 These data also reflect exposure to Avastin in 363 patients with metastatic breast cancer (MBC) who received a median of 9.5 doses of Avastin, 1338 adjuvant CRC patients, including 669 female patients, who received a median of 23 doses of Avastin, and 403 previously untreated patients with diffuse large B-cell lymphoma (DLBCL) who received a median of 8 doses of Avastin.
 Avastin is not approved for use in MBC, adjuvant CRC, or DLBCL.
 
@@ -223,7 +223,7 @@ The incidence of Grade 3–5 events in these 163 patients were bleeding/hemorrha
 Metastatic Renal Cell Carcinoma (mRCC)
 
 All grade adverse events were collected in Study 8.
-Grade 3–5 adverse events occurring at a higher incidence (≥ 2%) in 337 patients receiving interferon alfa (IFN-α) plus Avastin compared to 304 patients receiving IFN-α plus placebo arm were fatigue (13% vs. 8%), asthenia (10% vs. 7%), proteinuria (7% vs. 0%), hypertension (6% vs. 1%; including hypertension and hypertensive crisis), and hemorrhage (3% vs. 0.3%; including epistaxis, small intestinal hemorrhage, aneurysm ruptured, gastric ulcer hemorrhage, gingival bleeding, haemoptysis, hemorrhage intracranial, large intestinal hemorrhage, respiratory tract hemorrhage, and traumatic hematoma).
+Grade 3–5 adverse events occurring at a higher incidence (≥ 2%) in 337 patients receiving interferon alfa (IFN-α) plus Avastin compared to 304 patients receiving IFN-α plus placebo arm were fatigue (13% vs. 8%), asthenia (10% vs. 7%), proteinuria (7% vs. 0%), hypertension (6% vs. 1%; including hypertension and hypertensive crisis), and hemorrhage (3% vs. 0.3%; including epistaxis, small intestinal hemorrhage, aneurysm ruptured, gastric ulcer hemorrhage, gingival bleeding, hemoptysis, hemorrhage intracranial, large intestinal hemorrhage, respiratory tract hemorrhage, and traumatic hematoma).
 
 Grade 1–5 adverse events occurring at a higher incidence (≥ 5%) in patients receiving IFN-α plus Avastin compared to the IFN-α plus placebo arm are presented in Table 3.
 
@@ -336,6 +336,114 @@ Table 5 Grade 2–4 Adverse Events Occurring at Higher Incidence [≥ 5%] in Che
 Grade 3–4 adverse events occurring at a higher incidence (≥ 2%) in 179 patients receiving Avastin plus chemotherapy compared to 181 patients receiving chemotherapy alone were hypertension (6.7% vs. 1.1%) and palmar-plantar erythrodysaesthesia syndrome (4.5% vs. 1.7%).
 
 There were no Grade 5 events occurring at a higher incidence (≥ 2%) in patients receiving Avastin plus chemotherapy compared to patients receiving chemotherapy alone.
+
+Platinum-sensitive recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer in combination with carboplatin and gemcitabine, followed by Avastin as a single agent
+
+Adverse events occuring in a randomized, double-blinded study (Study 11) of chemotherapy compared to Avastin plus chemotherapy are presented in Table 6.
+
+Table 6 Grade 1–5 Adverse Events in Study 11 (Occurring at Higher Incidence [≥ 5%] in Chemo + Avastin vs. Chemo + Placebo)
+
+| System Organ Class Preferred Term | Carboplatin + Gemcitabine + Placebo (n=233) | Carboplatin + Gemcitabine + Bevacizumab (n=247) |
+| --- | --- | --- |
+| Blood and Lymphatic System Disorders |  |  |
+| Thrombocytopenia | 51% | 58% |
+| Gastrointestinal Disorders |  |  |
+| Diarrhea | 29% | 38% |
+| Gingival Bleeding | 0% | 7% |
+| Hemorrhoids | 3% | 8% |
+| Nausea | 66% | 72% |
+| Stomatitis | 7% | 15% |
+| General Disorders and Administration Site Conditions |  |  |
+| Fatigue | 75% | 82% |
+| Mucosal Inflammation | 10% | 15% |
+| Infections and Infestations |  |  |
+| Sinusitis | 9% | 15% |
+| Injury, Poisoning and Procedural Complications |  |  |
+| Contusion | 9% | 17% |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Arthralgia | 19% | 28% |
+| Back Pain | 13% | 21% |
+| Nervous System Disorders |  |  |
+| Dizziness | 17% | 23% |
+| Headache | 30% | 49% |
+| Psychiatric Disorders |  |  |
+| Insomnia | 15% | 21% |
+| Renal and Urinary Disorders |  |  |
+| Proteinuria | 3% | 20% |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Cough | 18% | 26% |
+| Dysphonia | 3% | 13% |
+| Dyspnea | 24% | 30% |
+| Epistaxis | 14% | 55% |
+| Oropharyngeal Pain | 10% | 16% |
+| Rhinorrhea | 4% | 10% |
+| Sinus Congestion | 2% | 8% |
+| Vascular Disorders |  |  |
+| Hypertension | 9% | 42% |
+
+Grade 3 or 4 adverse events occurring at a higher incidence (≥ 2%) in 247 patients treated with Avastin plus chemotherapy compared to 233 patients treated with placebo plus chemotherapy were thrombocytopenia (40.1% vs. 33.9%), nausea (4.5% vs. 1.3%), fatigue (6.5% vs. 4.3%), headache (3.6% vs. 0.9%), proteinuria (9.7% vs. 0.4%), dyspnea (4.5% vs. 1.7%), epistaxis (4.9% vs. 0.4%), and hypertension (17.0% vs. 0.9%).
+Grade ≥ 3 Anemia (16.2% vs. 18.9%) and decreased white blood cell count (1.6% vs. 4.3%) occurred with a ≥ 2% higher frequency in the chemotherapy alone arm compared to the Avastin plus chemotherapy arm.
+There were no Grade 5 adverse events occurring at a higher incidence (≥ 2%) for the Avastin plus chemotherapy arm compared to the placebo plus chemotherapy arm.
+
+Platinum-sensitive recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer in combination with carboplatin and paclitaxel, followed by Avastin as a single agent
+
+Adverse events occurring in a randomized, open-label study, Study 12, of chemotherapy compared to Avastin plus chemotherapy, are presented in Table 7.
+
+Table 7 Grade 1–5 Adverse Events in Study 12 (Occurring at Higher Incidence [≥ 5%] in Chemo + Avastin vs. Chemo Alone)
+
+|  | (n=332) | (n=325) |
+| --- | --- | --- |
+| System Organ Class Preferred Term | Carboplatin + Paclitaxel | Carboplatin + Paclitaxel + Bevacizumab |
+| Gastrointestinal disorders |  |  |
+| Diarrhea | 32% | 39% |
+| Abdominal pain | 28% | 33% |
+| Vomiting | 25% | 33% |
+| Stomatitis | 16% | 33% |
+| Metabolism and nutrition disorders |  |  |
+| Decreased appetite | 25% | 35% |
+| Hyperglycemia | 24% | 31% |
+| Hypomagnesemia | 17% | 27% |
+| Hyponatremia | 6% | 17% |
+| Hypoalbuminaemia | 6% | 11% |
+| Hypocalcemia | 5% | 12% |
+| Hyperkalemia | 3% | 9% |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Arthralgia | 30% | 45% |
+| Myalgia | 18% | 29% |
+| Pain in extremity | 14% | 25% |
+| Back pain | 10% | 17% |
+| Muscular weakness | 8% | 13% |
+| Neck pain | 0% | 9% |
+| Respiratory, thoracic and Mediastinal disorders |  |  |
+| Dyspnea | 25% | 30% |
+| Cough | 17% | 30% |
+| Epistaxis | 2% | 33% |
+| Rhinitis allergic | 4% | 17% |
+| Nasal mucosal disorder | 3% | 14% |
+| Nervous system disorders |  |  |
+| Headache | 20% | 38% |
+| Dizziness | 8% | 13% |
+| Dysarthria | 2% | 14% |
+| Investigations |  |  |
+| Aspartate aminotransferase increased | 9% | 15% |
+| Weight decreased | 4% | 15% |
+| Blood creatinine increased | 5% | 13% |
+| Skin and subcutaneous tissue Disorders |  |  |
+| Exfoliative rash | 16% | 23% |
+| Nail disorder | 2% | 10% |
+| Dry skin | 2% | 7% |
+| Vascular disorders |  |  |
+| Hypertension | 3% | 42% |
+| Renal and urinary disorders |  |  |
+| Proteinuria | 1% | 17% |
+| General disorders and administration Site conditions |  |  |
+| Chest pain | 2% | 8% |
+| Infections and infestations |  |  |
+| Sinusitis | 2% | 7% |
+
+Grade 3 or 4 adverse events occurring at a higher incidence (≥ 2%) in 325 patients treated with Avastin plus chemotherapy compared to 332 patients treated with chemotherapy alone were hypertension (11.1% vs. 0.6%), fatigue (7.7% vs. 2.7%), febrile neutropenia (6.2% vs. 2.7%), proteinuria (8% vs. 0%), abdominal pain (5.8% vs. 0.9%), hyponatremia (3.7% vs. 0.9%), headache (3.1% vs. 0.9%), and pain in extremity (3.4% vs. 0%).
+No Grade ≥ 3 adverse events occurred with a ≥ 2% higher frequency in the chemotherapy alone arm compared to the Avastin plus chemotherapy arm.
+There were no Grade 5 adverse events occurring at a higher incidence (≥ 2%) in the Avastin plus chemotherapy arm compared to the chemotherapy alone arm.
 
 ## 6.2 Immunogenicity
 
