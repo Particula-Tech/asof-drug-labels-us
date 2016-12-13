@@ -64,6 +64,9 @@ Digitalis: Administration of CARDIZEM with digoxin in 24 healthy male subjects i
 Another investigator found no increase in digoxin levels in 12 patients with coronary artery disease.
 Monitor digoxin levels when initiating, adjusting, and discontinuing CARDIZEM therapy to avoid possible over- or under-digitalization (see WARNINGS).
 
+Ivabradine: Concurrent use of diltiazem increases exposure to ivabradine and may exacerbate bradycardia and conduction disturbances.
+Avoid concomitant use of ivabradine and diltiazem.
+
 Quinidine: Diltiazem significantly increases the AUC(0-∞) of quinidine by 51%, T1/2 by 36%, and decreases its CLoral by 33%.
 Monitor for quinidine adverse effects and adjust the dose accordingly.
 

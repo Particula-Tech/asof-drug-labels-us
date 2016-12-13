@@ -4,7 +4,7 @@ Serious adverse reactions have been rare in studies carried out to date, but it 
 
 The following table presents the most common adverse reactions reported in placebo-controlled angina and hypertension trials in patients receiving CARDIZEM CD up to 360 mg with rates in placebo patients shown for comparison.
 
-| Adverse Reactions | CARDIZEM CD (n=607) | Placebo (n=301) |
+| Adverse Reactions | Cardizem CD (n=607) | Placebo (n=301) |
 | --- | --- | --- |
 | CARDIZEM CD Capsule Placebo-Controlled Angina and Hypertension Trials Combined |  |  |
 | Headache | 5.4% | 5.0% |

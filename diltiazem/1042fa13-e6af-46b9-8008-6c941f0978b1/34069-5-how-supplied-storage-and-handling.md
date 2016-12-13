@@ -24,9 +24,7 @@ Valeant Pharmaceuticals International, Inc.
 
 Steinbach, MB R5G 1Z7 Canada
 
+[Part #]
+
 Rev.
-06/2016
-
-9474001
-
-20001389
+11/2016
