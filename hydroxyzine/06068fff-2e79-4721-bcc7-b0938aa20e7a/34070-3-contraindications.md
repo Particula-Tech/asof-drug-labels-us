@@ -7,3 +7,5 @@ Until such data are available, hydroxyzine is contraindicated in early pregnancy
 Hydroxyzine is contraindicated in patients with a prolonged QT interval.
 
 Hydroxyzine pamoate is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication.
+
+Hydroxyzine is contraindicated in patients with known hypersensitivity to hydroxyzine products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetirizine hydrochloride.

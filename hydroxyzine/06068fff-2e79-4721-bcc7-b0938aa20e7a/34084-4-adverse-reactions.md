@@ -4,7 +4,7 @@ Side effects reported with the administration of hydroxyzine pamoate are usually
 
 ## Skin and Appendages
 
-Oral hydroxyzine hydrochloride is associated with fixed drug eruptions in postmarketing reports.
+Oral hydroxyzine hydrochloride is associated with Acute Generalized Exanthematous Pustulosis (AGEP) and fixed drug eruptions in postmarketing reports.
 
 ## Anticholinergic
 

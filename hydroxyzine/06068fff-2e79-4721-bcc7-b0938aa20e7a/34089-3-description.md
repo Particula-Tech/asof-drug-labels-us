@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Hydroxyzine pamoate, USP is designated chemically as 1-(p-chlorobenzhydryl) 4-[2-(2-hydroxyethoxy) ethyl] diethylenediamine salt of 1,1'-methylene bis (2 hydroxy-3-naphthalene carboxylic acid).
+Hydroxyzine pamoate, USP is designated chemically as 1-(p-chlorobenzhydryl) 4-[2-(2-hydroxyethoxy) ethyl] diethylenediamine salt of 1,1′-methylene bis (2 hydroxy-3-naphthalene carboxylic acid).
 It has the following structural formula:
 
 C21H27ClN2O2•C23H16O6 M.W.

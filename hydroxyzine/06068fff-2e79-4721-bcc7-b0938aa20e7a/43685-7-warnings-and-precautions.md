@@ -7,7 +7,7 @@ Since many drugs are so excreted, hydroxyzine should not be given to nursing mot
 
 # PRECAUTIONS
 
-THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS, AND BARBITURATES.
+THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES.
 Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine, their dosage should be reduced.
 Since drowsiness may occur with use of the drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine pamoate.
 Patients should be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effect of alcohol may be increased.
@@ -20,6 +20,13 @@ Therefore, hydroxyzine should be used with caution in patients with risk factors
 
 Caution is recommended during the concomitant use of drugs known to prolong the QT interval.
 These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol).
+
+## Acute Generalized Exanthematous Pustulosis (AGEP)
+
+Hydroxyzine may rarely cause acute generalized exanthematous pustulosis (AGEP), a serious skin reaction characterized by fever and numerous small, superficial, non-follicular, sterile pustules, arising within large areas of edematous erythema.
+Inform patients about the signs of AGEP, and discontinue hydroxyzine at the first appearance of a skin rash, worsening of pre-existing skin reactions which hydroxyzine may be used to treat, or any other sign of hypersensitivity.
+If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered.
+Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity.
 
 ## Geriatric Use
 

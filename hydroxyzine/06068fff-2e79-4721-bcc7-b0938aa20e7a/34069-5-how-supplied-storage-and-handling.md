@@ -12,9 +12,9 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-C 3/2016
+D 11/2016
