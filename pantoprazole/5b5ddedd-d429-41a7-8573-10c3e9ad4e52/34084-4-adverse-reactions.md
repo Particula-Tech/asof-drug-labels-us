@@ -1,10 +1,22 @@
 # 6 ADVERSE REACTIONS
 
-Worldwide, approximately 80,500 patients have been treated with pantoprazole in clinical trials involving various dosages and duration of treatment.
+The following serious adverse reactions are described below and elsewhere in labeling:
+
+- Hypersensitivity and Severe Skin Reactions [see Warnings and Precautions (5.2)]
+- Injection Site Reactions [see Warnings and Precautions (5.3)]
+- Potential for Exacerbation of Zinc Deficiency [see Warnings and Precautions (5.4)]
+- Acute Interstitial Nephritis [see Warnings and Precautions (5.5)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.6)]
+- Bone Fracture [see Warnings and Precautions (5.7)]
+- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.8)]
+- Hepatic Effects [see Warnings and Precautions (5.9)]
+- Hypomagnesemia [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+Worldwide, approximately 80,500 patients have been treated with pantoprazole in clinical trials involving various dosages and duration of treatment.
 
 Gastroesophageal Reflux Disease (GERD)
 
@@ -58,11 +70,11 @@ These adverse reactions are listed below by body system:
 
 General Disorders and Administration Conditions: asthenia, fatigue, malaise
 
-Immune System Disorders: anaphylaxis (including anaphylactic shock)
+Immune System Disorders: anaphylaxis (including anaphylactic shock), systemic lupus erythematosus
 
 Investigations: weight changes
 
-Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN), and angioedema (Quincke's edema)
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN), angioedema (Quincke's edema) and cutaneous lupus erythematosus
 
 Musculoskeletal Disorders: rhabdomyolysis, bone fracture
 
@@ -74,7 +86,7 @@ Psychiatric Disorder: hallucinations, confusion, insomnia, somnolence
 
 Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia
 
-Infections and Infestations: Clostridium difficile associated diarrhea
+Infections and Infestations: Clostridium difficile-associated diarrhea
 
 Hematologic: pancytopenia, agranulocytosis
 

@@ -36,7 +36,7 @@ Both the reconstituted solution and the admixed solution do not need to be prote
 
 PROTONIX I.V. for Injection admixtures should be administered intravenously over a period of approximately 15 minutes at a rate of approximately 7 mL/min.
 
-Two Minute Infusion
+#### Two Minute Infusion
 
 PROTONIX I.V. for Injection should be reconstituted with 10 mL of 0.9% Sodium Chloride Injection, USP, to a final concentration of approximately 4 mg/mL.
 The reconstituted solution may be stored for up to 24 hours at room temperature prior to intravenous infusion and does not need to be protected from light.
