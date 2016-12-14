@@ -7,7 +7,7 @@ In domestic placebo-controlled angina trials, the incidence of adverse reactions
 The following represent occurrences observed in clinical studies of angina patients.
 In many cases, the relationship to CARDIZEM has not been established.
 The most common occurrences from these studies, as well as their frequency of presentation, are edema (2.4%), headache (2.1%), nausea (1.9%), dizziness (1.5%), rash (1.3%), and asthenia (1.2%).
-In addition, the following events were reported infrequently (less than 1%):
+In addition, the following events were reported infrequently (less than 1 %):
 
 Cardiovascular: Angina, arrhythmia, AV block (first-degree), AV block (second- or third-degree – see WARNINGS, Cardiac Conduction), bradycardia, bundle branch block, congestive heart failure, ECG abnormality, flushing, hypotension, palpitations, syncope, tachycardia, ventricular extrasystoles
 

@@ -12,5 +12,5 @@ Each green, oblong tablet is engraved with CARDIZEM on one side and 90 mg on the
 CARDIZEM 120-mg scored tablets are supplied in bottles of 100 (NDC 0187-0792-47).
 Each light yellow, capsule-shaped tablet is engraved with CARDIZEM on one side and 120 mg on the other.
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Avoid excessive humidity.
