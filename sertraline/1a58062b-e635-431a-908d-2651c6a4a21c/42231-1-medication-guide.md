@@ -146,6 +146,7 @@ Ask if you are not sure.
 Before starting SERTRALINE HYDROCHLORIDE, tell your healthcare provider if you:
 
 - Are taking certain drugs such as:
+  - Amphetamines
   - Medicines used to treat migraine headaches such as:
     - triptans
   - Medicines used to treat mood, anxiety, psychotic or thought disorders, such as:
@@ -281,6 +282,6 @@ Inactive ingredients
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-LAB-0541-6.0
+LAB-0541-7.0
 
-May 2014
+October 2016

@@ -1,5 +1,5 @@
 Rx only
 
-LAB-0340-26.0
+LAB-0340-28.0
 
-August 2014
+November 2016
