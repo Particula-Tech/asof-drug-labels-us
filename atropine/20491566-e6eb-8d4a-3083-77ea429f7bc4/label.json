@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208151"
+  ],
+  "inn": "atropine",
+  "labeler": "Alcon Laboratories, Inc.",
+  "package_ndcs": [
+    "0065-0303-15",
+    "0065-0303-55"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "atropine sulfate",
+      "name": "Isopto Atropine"
+    }
+  ],
+  "setid": "20491566-e6eb-8d4a-3083-77ea429f7bc4",
+  "source": "dailymed"
+}

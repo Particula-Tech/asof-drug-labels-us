@@ -1,0 +1,9 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1
+
+In individuals from three (3) months of age or greater, 1 drop topically to the cul-de-sac of the conjunctiva, forty minutes prior to the intended maximal dilation time.
+
+## 2.2
+
+In individuals 3 years of age or greater, doses may be repeated up to twice daily as needed.
