@@ -17,10 +17,8 @@ Elevated intraocular pressure is a major risk factor in the pathogenesis of glau
 The higher the level of intraocular pressure, the greater the likelihood of glaucomatous visual field loss and optic nerve damage.
 
 The onset of reduction in intraocular pressure following administration of TIMOPTIC (timolol maleate ophthalmic solution) can usually be detected within one-half hour after a single dose.
-The maximum effect usually occurs in one to two hours and significant lowering of intraocular pressure can be maintained for periods as long as 24 hours with a single dose.
-Repeated observations over a period of one year indicate that the intraocular pressure-lowering effect of TIMOPTIC (timolol maleate ophthalmic
-
-solution) is well maintained.
+The maximum effect usually occurs in one to two hours, and significant lowering of intraocular pressure can be maintained for periods as long as 24 hours with a single dose.
+Repeated observations over a period of one year indicate that the intraocular pressure-lowering effect of TIMOPTIC (timolol maleate ophthalmic solution) is well maintained.
 
 The precise mechanism of the ocular hypotensive action of TIMOPTIC (timolol maleate ophthalmic solution) is not clearly established at this time.
 Tonography and fluorophotometry studies in man suggest that its predominant action may be related to reduced aqueous formation.
@@ -33,7 +31,7 @@ The mean peak plasma concentration following morning dosing was 0.46 ng/mL and f
 
 Clinical Studies
 
-In controlled multiclinic studies in patients with untreated intraocular pressures of 22 mmHg or greater, TIMOPTIC (timolol maleate ophthalmic solution) 0.25 percent or 0.5 percent administered twice a day produced a greater reduction in intraocular pressure than 1, 2, 3, or 4 percent pilocarpine solution administered four times a day or 0.5, 1, or 2 percent epinephrine hydrochloride solution administered twice a day.
+In controlled multiclinic studies in patients with untreated intraocular pressures of 22 mmHg or greater, TIMOPTIC (timolol maleate ophthalmic solution) 0.25 or 0.5% administered twice a day produced a greater reduction in intraocular pressure than 1, 2, 3, or 4% pilocarpine solution administered four times a day or 0.5, 1, or 2% epinephrine hydrochloride solution administered twice a day.
 
 In these studies, TIMOPTIC (timolol maleate ophthalmic solution) was generally well tolerated and produced fewer and less severe side effects than either pilocarpine or epinephrine.
 A slight reduction of resting heart rate in some patients receiving TIMOPTIC (timolol maleate ophthalmic solution) (mean reduction 2.9 beats/minute standard deviation 10.2) was observed.

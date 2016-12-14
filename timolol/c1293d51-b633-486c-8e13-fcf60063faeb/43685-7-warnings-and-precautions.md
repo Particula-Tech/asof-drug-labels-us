@@ -9,12 +9,12 @@ Cardiac Failure
 
 Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition by beta-adrenergic receptor blockade may precipitate more severe failure.
 
-In Patients Without a History of Cardiac Failure continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
+In Patients without a History of Cardiac Failure continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
 At the first sign or symptom of cardiac failure, Preservative-free TIMOPTIC in OCUDOSE should be discontinued.
 
 Obstructive Pulmonary Disease
 
-Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which TIMOPTIC in OCUDOSE is contraindicated [see CONTRAINDICATIONS]) should, in general, not receive beta-blockers, including Preservative-free TIMOPTIC in OCUDOSE.
+Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which TIMOPTIC in OCUDOSE is contraindicated (see CONTRAINDICATIONS)) should, in general, not receive beta-blockers, including Preservative-free TIMOPTIC in OCUDOSE.
 
 Major Surgery
 
@@ -43,7 +43,7 @@ Patients suspected of developing thyrotoxicosis should be managed carefully to a
 Because of potential effects of beta-adrenergic blocking agents on blood pressure and pulse, these agents should be used with caution in patients with cerebrovascular insufficiency.
 If signs or symptoms suggesting reduced cerebral blood flow develop following initiation of therapy with Preservative-free TIMOPTIC in OCUDOSE, alternative therapy should be considered.
 
-Choroidal detachment after filtration procedures has been reported with the administration of aqueous suppressant therapy (e.g. timolol).
+Choroidal detachment after filtration procedures has been reported with the administration of aqueous suppressant therapy (e.g., timolol).
 
 Angle-closure glaucoma: In patients with angle-closure glaucoma, the immediate objective of treatment is to reopen the angle.
 This requires constricting the pupil.
@@ -53,19 +53,18 @@ TIMOPTIC in OCUDOSE should not be used alone in the treatment of angle-closure g
 Anaphylaxis: While taking beta-blockers, patients with a history of atopy or a history of severe anaphylactic reactions to a variety of allergens may be more reactive to repeated accidental, diagnostic, or therapeutic challenge with such allergens.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat anaphylactic reactions.
 
-Muscle Weakness: Beta-adrenergic blockade has been reported to potentiate muscle weakness consistent with certain myasthenic symptoms (e.g., diplopia, ptosis, and generalized weakness).
+Muscle weakness: Beta-adrenergic blockade has been reported to potentiate muscle weakness consistent with certain myasthenic symptoms (e.g., diplopia, ptosis, and generalized weakness).
 Timolol has been reported rarely to increase muscle weakness in some patients with myasthenia gravis or myasthenic symptoms.
 
 ## Information for Patients
 
 Patients should be instructed about the use of Preservative-free TIMOPTIC in OCUDOSE.
 
-Since sterility cannot be maintained after the individual unit is opened, patients should be instructed to use the product immediately after opening, and to discard the individual unit and any remaining contents immediately after use.
+Since sterility cannot be maintained after the individual unit is opened, patients should be instructed to use the product immediately after opening and to discard the individual unit and any remaining contents immediately after use.
 
-Patients with bronchial asthma, a history of bronchial asthma, severe chronic obstructive pulmonary disease, sinus bradycardia, second or third degree atrioventricular block, or cardiac failure should be advised not to take this product.
-(See CONTRAINDICATIONS.)
+Patients with bronchial asthma, a history of bronchial asthma, severe chronic obstructive pulmonary disease, sinus bradycardia, second or third degree atrioventricular block, or cardiac failure should be advised not to take this product (See CONTRAINDICATIONS.)
 
-## DrugInteractions
+## Drug Interactions
 
 Although TIMOPTIC (timolol maleate ophthalmic solution) used alone has little or no effect on pupil size, mydriasis resulting from concomitant therapy with TIMOPTIC (timolol maleate ophthalmic solution) and epinephrine has been reported occasionally.
 
@@ -75,7 +74,7 @@ The concomitant use of two topical beta-adrenergic blocking agents is not recomm
 Calcium antagonists: Caution should be used in the coadministration of beta-adrenergic blocking agents, such as Preservative-free TIMOPTIC in OCUDOSE, and oral or intravenous calcium antagonists, because of possible atrioventricular conduction disturbances, left ventricular failure, and hypotension.
 In patients with impaired cardiac function, coadministration should be avoided.
 
-Catecholamine-depleting drugs: Close observation of the patient is recommended when a beta blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.
+Catecholamine-depleting drugs: Close observation of the patient is recommended when a beta-blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.
 
 Digitalis and calcium antagonists: The concomitant use of beta-adrenergic blocking agents with digitalis and calcium antagonists may have additive effects in prolonging atrioventricular conduction time.
 
@@ -88,7 +87,7 @@ Injectable epinephrine: (See PRECAUTIONS, General, Anaphylaxis)
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In a two-year oral study of timolol maleate administered orally to rats, there was a statistically significant increase in the incidence of adrenal pheochromocytomas in male rats administered 300 mg/kg/day (approximately 42,000 times the systemic exposure following the maximum recommended human ophthalmic dose).
+In a two-year study of timolol maleate administered orally to rats, there was a statistically significant increase in the incidence of adrenal pheochromocytomas in male rats administered 300 mg/kg/day (approximately 42,000 times the systemic exposure following the maximum recommended human ophthalmic dose).
 Similar differences were not observed in rats administered oral doses equivalent to approximately 14,000 times the maximum recommended human ophthalmic dose.
 
 In a lifetime oral study in mice, there were statistically significant increases in the incidence of benign and malignant pulmonary tumors, benign uterine polyps and mammary adenocarcinomas in female mice at 500 mg/kg/day (approximately 71,000 times the systemic exposure following the maximum recommended human ophthalmic dose), but not at 5 or 50 mg/kg/day (approximately 700 or 7,000 times, respectively, the systemic exposure following the maximum recommended human ophthalmic dose).
@@ -107,9 +106,9 @@ Reproduction and fertility studies in rats demonstrated no adverse effect on mal
 
 ## Pregnancy:
 
-Teratogenic Effects — Pregnancy Category C. Teratogenicity studies with timolol in mice, rats and rabbits at oral doses up to 50 mg/kg/day (7,000 times the systemic exposure following the maximum recommended human ophthalmic dose) demonstrated no evidence of fetal malformations.
+Teratogenic Effects: Teratogenicity studies with timolol in mice, rats and rabbits at oral doses up to 50 mg/kg/day (7,000 times the systemic exposure following the maximum recommended human ophthalmic dose) demonstrated no evidence of fetal malformations.
 Although delayed fetal ossification was observed at this dose in rats, there were no adverse effects on postnatal development of offspring.
-Doses of 1000 mg/kg/day (142,000 times the systemic exposure following the maximum recommended human ophthalmic dose) were maternotoxic in mice and resulted in an increased number of fetal resorptions.
+Doses of 1,000 mg/kg/day (142,000 times the systemic exposure following the maximum recommended human ophthalmic dose) were maternotoxic in mice and resulted in an increased number of fetal resorptions.
 Increased fetal resorptions were also seen in rabbits at doses of 14,000 times the systemic exposure following the maximum recommended human ophthalmic dose, in this case without apparent maternotoxicity.
 
 There are no adequate and well-controlled studies in pregnant women.
@@ -122,7 +121,9 @@ Because of the potential for serious adverse reactions from timolol in nursing i
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness of timolol maleate ophthalmic solution have been established when administered in pediatric patients aged 2 years and older.
+Use of timolol maleate ophthalmic solution in these children is supported by evidence from adequate and well-controlled studies in children and adults.
+Safety and efficacy in pediatric patients below the age of 2 years have not been established.
 
 ## Geriatric Use
 
