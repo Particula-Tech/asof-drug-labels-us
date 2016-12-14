@@ -89,14 +89,14 @@ Table 12: % Patients Healed
 | Week 4 | 45(p < 0.01) Omeprazole versus placebo. | 39 | 7 |
 | Week 8 | 75 | 74 | 14 |
 
-In this study, the 40-mg dose was not superior to the 20-mg dose of omeprazole in the percentage healing rate.
+In this study, the 40 mg dose was not superior to the 20 mg dose of omeprazole in the percentage healing rate.
 Other controlled clinical trials have also shown that omeprazole is effective in severe GERD.
 In comparisons with histamine H2-receptor antagonists in patients with erosive esophagitis, grade 2 or above, omeprazole in a dose of 20 mg was significantly more effective than the active controls.
 Complete daytime and nighttime heartburn relief occurred significantly faster (p < 0.01) in patients treated with omeprazole than in those taking placebo or histamine H2-receptor antagonists.
 
 In this and five other controlled GERD studies, significantly more patients taking 20 mg omeprazole (84%) reported complete relief of GERD symptoms than patients receiving placebo (12%).
 
-## 14.4 Long Term Maintenance Treatment of Erosive Esophagitis
+## 14.4 Long-Term Maintenance Treatment of Erosive Esophagitis
 
 In a U.S. double-blind, randomized, multicenter, placebo controlled study; two dose regimens of omeprazole were studied in patients with endoscopically confirmed healed esophagitis.
 Results to determine maintenance of healing of erosive esophagitis are shown in Table 13.
@@ -121,7 +121,7 @@ In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance
 ## 14.5 Reduction of Risk of Upper Gastrointestinal Bleeding in Critically Ill Patients
 
 A double-blind, multicenter, randomized, non-inferiority clinical trial was conducted to compare ZEGERID Oral Suspension 40 mg/1680 mg and I.V. cimetidine for the reduction of risk of upper gastrointestinal (GI) bleeding in critically ill patients (mean APACHE II score = 23.7).
-The primary endpoint was significant upper GI bleeding defined as bright red blood which did not clear after adjustment of the nasogastric tube and a 5 to 10 minute lavage, or persistent Gastroccult positive coffee grounds for 8 consecutive hours which did not clear with 100 cc lavage.
+The primary endpoint was significant upper GI bleeding defined as bright red blood which did not clear after adjustment of the nasogastric tube and a 5 to 10 minute lavage, or persistent Gastroccult® positive coffee grounds for 8 consecutive hours which did not clear with 100 cc lavage.
 ZEGERID Oral Suspension 40 mg/1680 mg (two doses administered 6 to 8 hours apart on the first day via orogastric or nasogastric tube, followed by 40 mg q.d. thereafter) was compared to continuous I.V. cimetidine (300 mg bolus, and 50 to 100 mg/hr continuously thereafter) for up to 14 days (mean = 6.8 days).
 A total of 359 patients were studied, age range 16 to 91 (mean = 56 yrs), 58.5% were males, and 64% were Caucasians.
 The results of the study showed that ZEGERID was non-inferior to I.V. cimetidine, 10/181 (5.5%) patients in the cimetidine group vs. 7/178 (3.9%) patients in the ZEGERID group experienced clinically significant upper GI bleeding.

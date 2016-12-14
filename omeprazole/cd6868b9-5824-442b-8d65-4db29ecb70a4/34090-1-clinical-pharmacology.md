@@ -23,7 +23,7 @@ Table 5: Effect of ZEGERID Oral Suspension on Intragastric pH, Day 7
 | Parameter | 40 mg/1680 mg(n = 24) | 20 mg/1680 mg(n = 28) |
 | % Decrease from Baseline for Integrated Gastric Acidity (mmol•hr/L) | 84% | 82% |
 | Coefficient of variation | 20% | 24% |
-| % Time Gastric pH > 4*(Hours)* | 77%(18.6 h) | 51%(12.2 h) |
+| % Time Gastric pH > 4P < 0.05 20 mg vs. 40 mg(Hours) | 77%(18.6 h) | 51%(12.2 h) |
 | Coefficient of variation | 27% | 43% |
 | Median pH | 5.2 | 4.2 |
 | Coefficient of variation | 17% | 37% |
@@ -35,7 +35,7 @@ The antisecretory effect lasts longer than would be expected from the very short
 
 Enterochromaffin-like (ECL) Cell Effects
 
-In 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [See Nonclinical Toxicology (13.1)].
+In 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Nonclinical Toxicology (13.1)].
 Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
 Human gastric biopsy specimens have been obtained from more than 3000 patients treated with omeprazole in long-term clinical trials.
 The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
@@ -116,14 +116,14 @@ In another study, 72 healthy subjects were given the same doses of clopidogrel a
 
 Concomitant Use with Mycophenolate Mofetil
 
-Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
+Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a crossover study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
 
 Special Populations
 
 Geriatric
 
 The elimination rate of omeprazole was somewhat decreased in the elderly, and bioavailability was increased.
-Omeprazole was 76% bioavailable when a single 40-mg oral dose of omeprazole (buffered solution) was administered to healthy elderly subjects, versus 58% in young subjects given the same dose.
+Omeprazole was 76% bioavailable when a single 40 mg oral dose of omeprazole (buffered solution) was administered to healthy elderly subjects, versus 58% in young subjects given the same dose.
 Nearly 70% of the dose was recovered in urine as metabolites of omeprazole and no unchanged drug was detected.
 The plasma clearance of omeprazole was 250 mL/min (about half that of young subjects) and its plasma half-life averaged one hour, similar to that of young healthy subjects.
 
@@ -149,5 +149,5 @@ No dose reduction is necessary in patients with renal impairment.
 
 Asian Population
 
-In pharmacokinetic studies of single 20-mg omeprazole doses, an increase in AUC of approximately four-fold was noted in Asian subjects compared to Caucasians.
+In pharmacokinetic studies of single 20 mg omeprazole doses, an increase in AUC of approximately four-fold was noted in Asian subjects compared to Caucasians.
 Dose adjustment, particularly where maintenance of healing of erosive esophagitis is indicated, for Asian subjects should be considered.

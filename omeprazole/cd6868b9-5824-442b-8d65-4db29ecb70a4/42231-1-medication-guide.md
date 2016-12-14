@@ -1,8 +1,8 @@
 # Medication Guide
 
-ZEGERID® (ze ger id)
+ZEGERID (ze ger id)
 
-(omeprazole / sodium bicarbonate)
+(omeprazole/sodium bicarbonate)
 
 Powder for Oral Suspension and Capsules
 
@@ -17,6 +17,9 @@ Talk with your doctor.
 
 ZEGERID can cause serious side effects, including:
 
+- •A type of kidney problem (acute interstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including ZEGERID, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with ZEGERID.
+  Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - •ZEGERID contains sodium bicarbonate.
   Tell your doctor if you are on a sodium restricted diet or if you have Bartter’s Syndrome (a rare kidney disorder).
 - Tell your doctor right away if you have confusion, shaking hands, dizziness, muscle twitching, nausea, vomiting, and numbness or tingling in the face, arms, or legs.
@@ -25,9 +28,13 @@ ZEGERID can cause serious side effects, including:
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
 - Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
 - •Bone fractures.
-  People who take multiple daily doses of proton pump inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
+  People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
   You should take ZEGERID exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
   Talk to your doctor about your risk of bone fracture if you take ZEGERID.
+- •Certain types of lupus erythematosus.
+  Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
+  Some people who take PPI medicines, including ZEGERID, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
+  Call your doctor right away if you have new or worsening joint paint or a rash on your cheeks or arms that gets worse in the sun.
 
 ZEGERID can have other serious side effects.
 See “What are the possible side effects of ZEGERID?”
@@ -56,7 +63,7 @@ Who should not take ZEGERID?
 
 Do not take ZEGERID if you:
 
-- •are allergic to omeprazole or any of the other ingredients in ZEGERID.
+- •are allergic to omeprazole or any of the ingredients in ZEGERID.
   See the end of this Medication Guide for a complete list of ingredients in ZEGERID.
 - •are allergic to any other proton pump inhibitor (PPI) medicine.
 
@@ -85,7 +92,7 @@ Especially tell your doctor if you take:
 
 - •Mycophenolate mofetil (Cellcept)
 - •diazepam (Valium)
-- •warfarin (Coumadin Jantoven)
+- •warfarin (Coumadin, Jantoven)
 - •phenytoin (Dilantin)
 - •cyclosporine (Gengraf, Neoral, Sandimmune)
 - •disulfiram (Antabuse)
@@ -142,17 +149,13 @@ What are the possible side effects of ZEGERID?
 ZEGERID may cause serious side effects, including:
 
 - •See “What is the most important information I should know about ZEGERID?”
-- •Chronic (lasting a long time) inflammation of the stomach lining (Atrophic Gastritis).
-  Taking ZEGERID for a long period of time may increase the risk of inflammation to your stomach lining.
-  You may or may not have symptoms.
-  Tell your doctor if you have stomach pain, nausea, vomiting, or weight loss.
 - •Vitamin B-12 deficiency.
   ZEGERID reduces the amount of acid in your stomach.
   Stomach acid is needed to absorb vitamin B-12 properly.
   Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on ZEGERID for a long time (more than 3 years).
 - •Low magnesium levels in your body.
   This problem can be serious.
-  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
   You may or may not have symptoms of low magnesium.
   Tell your doctor right away if you develop any of these symptoms:
@@ -201,9 +204,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ZEGERID?
 
-- •Store ZEGERID at room temperature between 59 °F to 86 °F (15 °C to 30 °C).
+- •Store ZEGERID at room temperature between 15° to 30°C (59° to 86°F).
 - •Keep ZEGERID Capsules in a tightly closed container.
-- •Keep ZEGERID in a dry place and out of the light.
+- •Keep ZEGERID in a dry place and out of light.
 
 Keep ZEGERID and all medicines out of the reach of children.
 
@@ -218,7 +221,7 @@ This Medication Guide summarizes the most important information about ZEGERID.
 If you would like more information, talk to your doctor.
 You can also ask your doctor or pharmacist for information about ZEGERID that is written for healthcare professionals.
 
-For more information, go to www.Salix.com or 1-800-508-0024.
+For more information, go to www.Salix.com or 1-800-321-4576.
 
 What are the ingredients in ZEGERID?
 
@@ -243,17 +246,15 @@ Giving ZEGERID Powder for Oral Suspension through a nasogastric tube (NG tube) o
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Zegerid® Capsules and Powder for Oral Suspension are
+ZEGERID® Capsules and Powder for Oral Suspension are
 
 Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-ZEGERID® is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Zegerid is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
 ©Valeant Pharmaceuticals North America LLC
 
 Rev.
-06/2016
+10/2016
 
-9524000
-
-- 2000007980
+- New p/n

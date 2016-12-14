@@ -1,27 +1,19 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Concomitant Gastric Malignancy
+## 5.1 Presence of Gastric Malignancy
 
-Symptomatic response to therapy with omeprazole does not preclude the presence of gastric malignancy.
+In adults, symptomatic response to therapy with ZEGERID does not preclude the presence of gastric malignancy.
+Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a PPI.
+In older patients, also consider an endoscopy.
 
-## 5.2 Atrophic Gastritis
-
-Atrophic gastritis has been noted occasionally in gastric corpus biopsies from patients treated long-term with omeprazole.
-
-## 5.3 Acute Interstitial Nephritis
+## 5.2 Acute Interstitial Nephritis
 
 Acute interstitial nephritis has been observed in patients taking PPIs including ZEGERID.
 Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
 Discontinue ZEGERID if acute interstitial nephritis develops.
-[See Contraindications (4)].
+[See Contraindications (4).]
 
-## 5.4 Cyanocobalamin (vitamin B-12) Deficiency
-
-Daily treatment with any acid-suppressing medications over a long period of time (e.g., longer than 3 years) may lead to malabsorption of cyanocobalamin (vitamin B-12) caused by hypo- or achlorhydria.
-Rare reports of cyanocobalamin deficiency occurring with acid-suppressing therapy have been reported in the literature.
-This diagnosis should be considered if clinical symptoms consistent with cyanocobalamin deficiency are observed.
-
-## 5.5 Buffer Content
+## 5.3 Buffer Content
 
 Each ZEGERID Capsule contains 1100 mg (13 mEq) of sodium bicarbonate.
 The total content of sodium in each capsule is 304 mg.
@@ -35,13 +27,41 @@ Long-term administration of bicarbonate with calcium or milk can cause milk-alka
 
 Chronic use of sodium bicarbonate may lead to systemic alkalosis and increased sodium intake can produce edema and weight increase.
 
-## 5.6 Clostridium difficile Associated Diarrhea
+## 5.4 Clostridium difficile-Associated Diarrhea
 
-Published observational studies suggest that PPI therapy like ZEGERID may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
+Published observational studies suggest that PPI therapy like ZEGERID may be associated with an increased risk of Clostridium difficile-associated diarrhea, especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve.
-[See Adverse Reactions (6.2)]
+[See Adverse Reactions (6.2).]
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
+
+## 5.5 Bone Fracture
+
+Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
+The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
+Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
+Patients at risk for osteoporosis-related fractures should be managed according to the established treatment guidelines.
+[See Dosage and Administration (2) and Adverse Reactions (6.2).]
+
+## 5.6 Cutaneous and Systemic Lupus Erythematosus
+
+Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have been reported in patients taking PPIs, including omeprazole.
+These events have occurred as both new onset and an exacerbation of existing autoimmune disease.
+The majority of PPI-induced lupus erythematous cases were CLE.
+
+The most common form of CLE reported in patients treated with PPIs was subacute CLE (SCLE) and occurred within weeks to years after continuous drug therapy in patients ranging from infants to the elderly.
+Generally, histological findings were observed without organ involvement.
+
+Systemic lupus erythematosus (SLE) is less commonly reported than CLE in patients receiving PPIs.
+PPI associated SLE is usually milder than non-drug induced SLE.
+Onset of SLE typically occurred within days to years after initiating treatment in patients ranging from young adults to the elderly.
+The majority of patients presented with rash; however, arthralgia and cytopenia were also reported.
+
+Avoid administration of PPIs for longer than medically indicated.
+If signs or symptoms consistent with CLE or SLE are noted in patients receiving ZEGERID, discontinue the drug and refer the patient to the appropriate specialist for evaluation.
+Most patients improve with discontinuation of the PPI alone in 4 to 12 weeks.
+Serological testing (e.g.
+ANA) may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
 
 ## 5.7 Interaction with Clopidogrel
 
@@ -50,29 +70,27 @@ Clopidogrel is a prodrug.
 Inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
 The metabolism of clopidogrel to its active metabolite can be impaired by use with concomitant medications, such as omeprazole, that interfere with CYP2C19 activity.
 Concomitant use of clopidogrel with 80 mg omeprazole reduces the pharmacological activity of clopidogrel, even when administered 12 hours apart.
-When using ZEGERID, consider alternative anti-platelet therapy.
-[See Drug Interactions (7.5) and Pharmacokinetics (12.3)]
+When using ZEGERID, consider alternative antiplatelet therapy.
+[See Drug Interactions (7.5) and Clinical Pharmacology (12.3).]
 
-## 5.8 Bone Fracture
+## 5.8 Cyanocobalamin (Vitamin B-12) Deficiency
 
-Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
-The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
-Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to the established treatment guidelines.
-[See Dosage and Administration (2) and Adverse Reactions (6.2)]
+Daily treatment with any acid-suppressing medications over a long period of time (e.g., longer than 3 years) may lead to malabsorption of cyanocobalamin (vitamin B-12) caused by hypo- or achlorhydria.
+Rare reports of cyanocobalamin deficiency occurring with acid-suppressing therapy have been reported in the literature.
+This diagnosis should be considered if clinical symptoms consistent with cyanocobalamin deficiency are observed.
 
 ## 5.9 Hypomagnesemia
 
-Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs. for at least three months, in most cases after a year of therapy.
+Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, in most cases after a year of therapy.
 Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 
-For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
-[See Adverse Reactions (6.2)]
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), healthcare professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
+[See Adverse Reactions (6.2).]
 
 ## 5.10 Concomitant Use of ZEGERID with St John’s Wort or Rifampin
 
-Drugs which induce CYP2C19 OR CYP34A (such as St John’s Wort or rifampin) can substantially decrease omeprazole concentrations [See Drug Interactions (7.2)].
+Drugs which induce CYP2C19 OR CYP34A (such as St John’s Wort or rifampin) can substantially decrease omeprazole concentrations [see Drug Interactions (7.2)].
 Avoid concomitant use of ZEGERID with St John’s Wort or rifampin.
 
 ## 5.11 Interactions with Investigations for Neuroendocrine Tumors
@@ -80,11 +98,11 @@ Avoid concomitant use of ZEGERID with St John’s Wort or rifampin.
 Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 Providers should temporarily stop omeprazole treatment before assessing CgA levels and consider repeating the test if initial CgA levels are high.
-If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary.
-[See Pharmacodynamics (12.2)].
+If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary.
+[See Pharmacodynamics (12.2).]
 
 ## 5.12 Concomitant Use of ZEGERID with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
 In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients.
-[See Drug Interactions (7.8)].
+[See Drug Interactions (7.8).]

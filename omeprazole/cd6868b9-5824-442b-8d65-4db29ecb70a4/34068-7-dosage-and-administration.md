@@ -10,14 +10,14 @@ Since both the 20 mg and 40 mg capsules contain the same amount of sodium bicarb
 
 ZEGERID should be taken on an empty stomach at least one hour before a meal.
 
-For patients receiving continuous Nasogastric (NG) /Orogastric (OG) tube feeding, enteral feeding should be suspended approximately 3 hours before and 1 hour after administration of ZEGERID Powder for Oral Suspension.
+For patients receiving continuous Nasogastric (NG)/Orogastric (OG) tube feeding, enteral feeding should be suspended approximately 3 hours before and 1 hour after administration of ZEGERID Powder for Oral Suspension.
 
 Table 1: Recommended Doses of ZEGERID by Indication for Adults 18 Years and Older
 
 | Indication | Recommended Dose | Frequency |
 | --- | --- | --- |
-| Short-Term Treatment of Active Duodenal Ulcer | 20 mg | Once daily for 4 weeksMost patients heal within 4 weeks. Some patients may require an additional 4 weeks of therapy. [See Clinical Studies (14.1)]For additional information, [See Indications and Usage (1)] |
-| Benign Gastric Ulcer | 40 mg | Once daily for 4-8 weeksControlled studies do not extend beyond 12 months. [See Clinical Studies (14)] |
+| Short-Term Treatment of Active Duodenal Ulcer | 20 mg | Once daily for 4 weeksMost patients heal within 4 weeks. Some patients may require an additional 4 weeks of therapy. [See Clinical Studies (14.1).]For additional information, [see Indications and Usage (1)] |
+| Benign Gastric Ulcer | 40 mg | Once daily for 4-8 weeksControlled studies do not extend beyond 12 months. [See Clinical Studies (14).] |
 | Gastroesophageal Reflux Disease (GERD) |  |  |
 | Symptomatic GERD (with no esophageal erosions) | 20 mg | Once daily for up to 4 weeks |
 | Erosive Esophagitis | 20 mg | Once daily for 4-8 weeks |
@@ -29,7 +29,7 @@ Special Populations
 Hepatic Insufficiency
 
 Consider dose reduction, particularly for maintenance of healing of erosive esophagitis.
-[See Clinical Pharmacology (12.3)]
+[See Clinical Pharmacology (12.3).]
 
 Administration of Capsules
 

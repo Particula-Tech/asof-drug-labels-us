@@ -1,9 +1,35 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+Adverse Reactions
+
+Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
+
+- •Hypersensitivity Reactions [see Contraindications (4)]
+- •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.4)]
+- •Bone Fracture [see Warnings and Precautions (5.5)]
+- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
+- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.8)]
+- •Hypomagnesemia [see Warnings and Precautions (5.9)]
+
+Sodium content
+
+Patients on a sodium-restricted diet or patients at risk of developing congestive heart failure (CHF) should be informed of the sodium content of ZEGERID Capsules (304 mg per capsule) and ZEGERID Powder (460 mg per packet).
+Patients should be informed that chronic use of sodium bicarbonate may cause problems and increased sodium intake can cause swelling and weight gain.
+If this occurs, they should contact their healthcare provider.
+[See Warnings and Precautions (5.3).]
+
+Drug Interactions
+
+Advise patients to report to their healthcare provider if they start treatment with clopidogrel, St. John’s Wort or rifampin, or, if they take high-dose methotrexate.
+[see Warnings and Precautions (5.7, 5.10, 5.12)].
+
+Administration
 
 Instruct patients that ZEGERID should be taken on an empty stomach at least one hour prior to a meal.
-[See Dosage and Administration (2)]
+[See Dosage and Administration (2).]
 
 Instruct patients in Directions for Use as follows:
 
@@ -20,52 +46,23 @@ ZEGERID is available either as 40 mg or 20 mg capsules with 1100 mg sodium bicar
 ZEGERID is also available either as 40 mg or 20 mg single-dose packets of powder for oral suspension with 1680 mg sodium bicarbonate.
 
 Patients should be instructed not to substitute ZEGERID Capsules or Suspension for other ZEGERID dosage forms because different dosage forms contain different amounts of sodium bicarbonate and magnesium hydroxide.
-[See Dosage and Administration (2)]
+[See Dosage and Administration (2).]
 
 Patients should be advised that since both the 20 mg and 40 mg oral suspension packets contain the same amount of sodium bicarbonate (1680 mg), two packets of 20 mg are not equivalent to one packet of ZEGERID 40 mg; therefore, two 20 mg packets of ZEGERID should not be substituted for one packet of ZEGERID 40 mg.
 Conversely ½ of a 40 mg packet should not be substituted for one 20 mg packet.
-[See Dosage and Administration (2)]
+[See Dosage and Administration (2).]
 
 Patients should be advised that since both the 20 mg and 40 mg capsules contain the same amount of sodium bicarbonate (1100 mg), two capsules of 20 mg are not equivalent to one capsule of ZEGERID 40 mg; therefore, two 20 mg capsules of ZEGERID should not be substituted for one capsule of ZEGERID 40 mg.
-[See Dosage and Administration (2)]
+[See Dosage and Administration (2).]
 
-Patients should be advised that this drug is not approved for use in patients less than 18 years of age.
-[See Pediatric Use (8.4)]
-
-Patients on a sodium-restricted diet or patients at risk of developing congestive heart failure (CHF) should be informed of the sodium content of ZEGERID Capsules (304 mg per capsule) and ZEGERID Powder (460 mg per packet).
-Patients should be informed that chronic use of sodium bicarbonate may cause problems and increased sodium intake can cause swelling and weight gain.
-If this occurs, they should contact their healthcare provider.
-[See Warnings and Precautions (5.3)]
-
-Patients should be informed that the most frequent adverse reactions associated with ZEGERID include headache, abdominal pain, nausea, diarrhea, vomiting and flatulence.
-[See Adverse Reactions (6)]
-
-Pregnant women should be advised that a harmful effect of ZEGERID on the fetus can not be ruled out and that the drug should be used with caution during pregnancy.
-[See Pregnancy (8.1)]
-
-Patients should be advised to use this drug with caution if they are regularly taking calcium supplements.
-[See Warnings and Precautions (5.3)]
-
-Advise patients to immediately report and seek care for diarrhea that does not improve.
-This may be a sign of Clostridium difficile associated diarrhea.
-[See Warnings and Precautions (5.6)]
-
-Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures and tetany as these may be signs of hypomagnesemia.
-[See Warnings and Precautions (5.9)].
+Please see www.salix.com for patent information.
 
 ZEGERID® Capsules and Powder for Oral Suspension are
 
 Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Please see www.salix.com for patent information
+Zegerid is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-Zegerid is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+©Valeant Pharmaceuticals North America LLC
 
-All other product/brand names are trademarks of their respective owners.
-
-© Valeant Pharmaceuticals North America LLC
-
-Rev.
-06/2016
-
-1. 9524000 2000007980
+New p/n

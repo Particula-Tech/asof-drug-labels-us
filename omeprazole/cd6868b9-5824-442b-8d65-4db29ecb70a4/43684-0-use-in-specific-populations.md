@@ -67,7 +67,7 @@ Juvenile Animal Data
 
 In a juvenile rat toxicity study, esomeprazole was administered with both magnesium and strontium salts at oral doses about 34 to 68 times a daily human dose of 40 mg on a body surface area basis.
 Increases in death were seen at the high dose, and at all doses of esomeprazole, there were decreases in body weight, body weight gain, femur weight and femur length, and decreases in overall growth.
-[See Nonclinical Toxicology (13.2)]
+[See Nonclinical Toxicology (13.2).]
 
 ## 8.5 Geriatric Use
 
@@ -79,19 +79,19 @@ Pharmacokinetic studies with buffered omeprazole have shown the elimination rate
 The plasma clearance of omeprazole was 250 mL/min (about half that of young subjects).
 The plasma half-life averaged one hour, about twice that in nonelderly, healthy subjects taking ZEGERID.
 However, no dosage adjustment is necessary in the elderly.
-[See Clinical Pharmacology (12.3)]
+[See Clinical Pharmacology (12.3).]
 
 ## 8.6 Hepatic Impairment
 
 Consider dose reduction, particularly for maintenance of healing of erosive esophagitis.
-[See Clinical Pharmacology (12.3)]
+[See Clinical Pharmacology (12.3).]
 
 ## 8.7 Renal Impairment
 
 No dose reduction is necessary.
-[See Clinical Pharmacology (12.3)]
+[See Clinical Pharmacology (12.3).]
 
 ## 8.8 Asian Population
 
 Recommend dose reduction, particularly for maintenance of healing of erosive esophagitis.
-[See Clinical Pharmacology (12.3)]
+[See Clinical Pharmacology (12.3).]

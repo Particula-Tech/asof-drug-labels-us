@@ -21,7 +21,7 @@ A 26-week p53 (+/-) transgenic mouse carcinogenicity study was not positive.
 Omeprazole was positive for clastogenic effects in an in vitro human lymphocyte chromosomal aberration assay, in one of two in vivo mouse micronucleus tests, and in an in vivo bone marrow cell chromosomal aberration assay.
 Omeprazole was negative in the in vitro Ames Test, an in vitro mouse lymphoma cell forward mutation assay and an in vivo rat liver DNA damage assay.
 
-In 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [See Warnings and Precautions (5)].
+In 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Warnings and Precautions (5)].
 Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
 
 Omeprazole at oral doses up to 138 mg/kg/day (about 33.6 times the human dose of 40 mg/day on a body surface area basis) was found to have no effect on the fertility and general reproductive performance in rats.

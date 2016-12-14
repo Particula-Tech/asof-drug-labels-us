@@ -1,5 +1,14 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described below and elsewhere in labeling:
+
+- •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.4)]
+- •Bone Fracture [see Warnings and Precautions (5.5)]
+- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
+- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.8)]
+- •Hypomagnesemia [see Warnings and Precautions (5.9)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
@@ -7,7 +16,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 In the U.S. clinical trial population of 465 patients, the adverse reactions summarized in Table 2 were reported to occur in 1% or more of patients on therapy with omeprazole.
 Numbers in parentheses indicate percentages of the adverse reactions considered by investigators as possibly, probably or definitely related to the drug.
 
-Table 2: Adverse Reactions Occurring In 1% or More of Patients on Omeprazole Therapy
+Table 2: Adverse Reactions Occurring in 1% or More of Patients on Omeprazole Therapy
 
 |  | Omeprazole(n = 465) | Placebo(n = 64) | Ranitidine(n = 195) |
 | --- | --- | --- | --- |
@@ -26,7 +35,7 @@ Table 2: Adverse Reactions Occurring In 1% or More of Patients on Omeprazole The
 
 Table 3 summarizes the adverse reactions that occurred in 1% or more of omeprazole-treated patients from international double-blind, and open-label clinical trials in which 2,631 patients and subjects received omeprazole.
 
-Table 3: Incidence of Adverse Reactions ≥1 % Causal Relationship not Assessed
+Table 3: Incidence of Adverse Reactions ≥1% Causal Relationship not Assessed
 
 |  | Omeprazole (n = 2631) | Placebo(n = 120) |
 | --- | --- | --- |
@@ -44,9 +53,9 @@ Table 3: Incidence of Adverse Reactions ≥1 % Causal Relationship not Assessed
 | Headache | 2.9 | 2.5 |
 
 A controlled clinical trial was conducted in 359 critically ill patients, comparing ZEGERID 40 mg/1680 mg suspension once daily to I.V. cimetidine 1200 mg/day for up to 14 days.
-The incidence and total number of AEs experienced by ≥ 3% of patients in either group are presented in Table 4 by body system and preferred term.
+The incidence and total number of AEs experienced by ≥3% of patients in either group are presented in Table 4 by body system and preferred term.
 
-Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥ 3%) Adverse Events by Body System and Preferred Term
+Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥3%) Adverse Events by Body System and Preferred Term
 
 |  | ZEGERID®(N=178) | Cimetidine(N=181) |
 | --- | --- | --- |
@@ -80,15 +89,15 @@ Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥ 3%
 | Liver Function Tests NOS Abnormal | 3 (1.7) | 6 (3.3) |
 | METABOLISM AND NUTRITION DISORDERS |  |  |
 | Fluid Overload | 9 (5.1) | 14 (7.7) |
-| Hyperglycaemia NOS | 19 (10.7) | 21 (11.6) |
-| Hyperkalaemia | 4 (2.2) | 6 (3.3) |
-| Hypernatraemia | 3 (1.7) | 9 (5.0) |
-| Hypocalcaemia | 11 (6.2) | 10 (5.5) |
-| Hypoglycaemia NOS | 6 (3.4) | 8 (4.4) |
-| Hypokalaemia | 22 (12.4) | 24 (13.3) |
-| Hypomagnesaemia | 18 (10.1) | 18 (9.9) |
-| Hyponatraemia | 7 (3.9) | 5 (2.8) |
-| Hypophosphataemia | 11 (6.2) | 7 (3.9) |
+| Hyperglycemia NOS | 19 (10.7) | 21 (11.6) |
+| Hyperkalemia | 4 (2.2) | 6 (3.3) |
+| Hypernatremia | 3 (1.7) | 9 (5.0) |
+| Hypocalcemia | 11 (6.2) | 10 (5.5) |
+| Hypoglycemia NOS | 6 (3.4) | 8 (4.4) |
+| Hypokalemia | 22 (12.4) | 24 (13.3) |
+| Hypomagnesemia | 18 (10.1) | 18 (9.9) |
+| Hyponatremia | 7 (3.9) | 5 (2.8) |
+| Hypophosphatemia | 11 (6.2) | 7 (3.9) |
 | PSYCHIATRIC DISORDERS |  |  |
 | Agitation | 6 (3.4) | 16 (8.8) |
 | RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS |  |  |
@@ -108,9 +117,9 @@ NOS = Not otherwise specified.
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of omeprazole.
-Because these reactions are voluntarily reported from a population of uncertain size, it is not always possible to reliably estimate their actual frequency or establish a causal relationship to drug exposure.
+Because these reactions are voluntarily reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole: Hypersensitivity reactions, including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria (see also Skin below), fever, pain, fatigue, malaise.
+Body as a Whole: Hypersensitivity reactions, including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria (see also Skin below), fever, pain, fatigue, malaise, systemic lupus erythematosus.
 
 Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitation, elevated blood pressure, and peripheral edema.
 
@@ -123,7 +132,7 @@ This finding is believed to be a manifestation of the underlying condition, whic
 Hepatic: Mild and, rarely, marked elevations of liver function tests [ALT (SGPT), AST (SGOT), ᵞ-glutamyl transpeptidase, alkaline phosphatase, and bilirubin (jaundice)].
 In rare instances, overt liver disease has occurred, including hepatocellular, cholestatic, or mixed hepatitis, liver necrosis (some fatal), hepatic failure (some fatal), and hepatic encephalopathy.
 
-Infections and Infestations: Clostridium difficile associated diarrhea.
+Infections and Infestations: Clostridium difficile-associated diarrhea.
 
 Metabolism and Nutritional Disorders: Hyponatremia, hypoglycemia, hypomagnesemia, and weight gain.
 
@@ -133,7 +142,7 @@ Nervous System/Psychiatric: Psychic disturbances including depression, agitation
 
 Respiratory: Epistaxis, pharyngeal pain.
 
-Skin: Severe generalized skin reactions including toxic epidermal necrolysis (TEN; some fatal), Stevens-Johnson syndrome, and erythema multiforme (some severe); purpura and/or petechiae (some with rechallenge); skin inflammation, urticaria, angioedema, pruritus, photosensitivity, alopecia, dry skin, and hyperhidrosis.
+Skin: Severe generalized skin reactions including toxic epidermal necrolysis (TEN; some fatal), Stevens-Johnson syndrome, cutaneous lupus erythematosus and erythema multiforme (some severe); purpura and/or petechiae (some with rechallenge); skin inflammation, urticaria, angioedema, pruritus, photosensitivity, alopecia, dry skin, and hyperhidrosis.
 
 Special Senses: Tinnitus, taste perversion.
 
@@ -141,7 +150,7 @@ Ocular: Blurred vision, ocular irritation, dry eye syndrome, optic atrophy, ante
 
 Urogenital: Interstitial nephritis (some with positive rechallenge), urinary tract infection, microscopic pyuria, urinary frequency, elevated serum creatinine, proteinuria, hematuria, glycosuria, testicular pain, and gynecomastia.
 
-Hematologic: Rare instances of pancytopenia, agranulocytosis (some fatal), thrombocytopenia, neutropenia, leukopenia, anemia, leucocytosis, and hemolytic anemia have been reported.
+Hematologic: Rare instances of pancytopenia, agranulocytosis (some fatal), thrombocytopenia, neutropenia, leukopenia, anemia, leukocytosis, and hemolytic anemia have been reported.
 
 The incidence of clinical adverse experiences in patients greater than 65 years of age was similar to that in patients 65 years of age or less.
 
