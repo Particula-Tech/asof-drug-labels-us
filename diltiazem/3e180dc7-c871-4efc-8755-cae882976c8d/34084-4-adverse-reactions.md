@@ -5,7 +5,7 @@ The following adverse reactions are described in greater detail, in other sectio
 - •Bradycardia and AV block [see Warnings and Precautions (5.1)]
 - •Heart failure [see Warnings and Precautions (5.2)]
 - •Acute hepatic injury [see Warnings and Precautions (5.3)]
-- •Severe Skin reactions [see Warnings and Precautions (5.4)]
+- •Severe skin reactions [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -25,13 +25,13 @@ The most frequent adverse effects experienced by CARDIZEM LA-treated patients we
 
 In addition, the following events have been reported infrequently (less than 1%) in angina or hypertension trials:
 
-Cardiovascular: Angina, bundle branch block, palpitations, syncope, tachycardia, ventricular extrasystoles [see Warnings and Precautions (5.1, 5.2, 5.3)].
+Cardiovascular: Angina, bundle branch block, palpitations, syncope, tachycardia, ventricular extrasystoles [see Warnings and Precautions (5.1, 5.2)].
 
 Nervous System: Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tinnitus, tremor.
 
 Gastrointestinal: Anorexia, constipation, diarrhea, dry mouth, dysgeusia, dyspepsia, thirst, vomiting, weight increase.
 
-Dermatological: Petechiae, photosensitivity, pruritus, urticarial [see Warnings and Precautions (5.5)].
+Dermatological: Petechiae, photosensitivity, pruritus, urticaria [see Warnings and Precautions(5.4)].
 
 Other: Amblyopia, CPK increase, dyspnea, epistaxis, eye irritation, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, nocturia, osteoarticular pain, polyuria, sexual difficulties.
 

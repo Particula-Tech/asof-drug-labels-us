@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Take Cardizem LA once a day at approximately the same time.
+Take CARDIZEM LA once a day at approximately the same time.
 Do not chew or crush the tablet.
 
 ## 2.1 Hypertension

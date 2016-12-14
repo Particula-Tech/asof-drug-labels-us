@@ -22,4 +22,4 @@ Such elevations were usually transient and frequently resolved even with continu
 
 ## 5.4 Severe Skin Reactions
 
-Stevens-Johnson syndrome, toxic epidermal necrolusis, erythema multiforme and/or exfoliative dermatitis have been reported.
+Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme and/or exfoliative dermatitis have been reported.

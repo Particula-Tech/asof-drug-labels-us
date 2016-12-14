@@ -22,7 +22,7 @@ Diltiazem does not appear to be removed by peritoneal or hemodialysis.
 Limited data suggest that plasmapheresis or charcoal hemoperfusion may hasten diltiazem elimination following overdose.
 Based on the known pharmacological effects of diltiazem and/or reported clinical experiences, the following measures may be considered:
 
-Bradycardia:Administer atropine (0.60 to 1.0 mg).
+Bradycardia: Administer atropine (0.60 to 1.0 mg).
 If there is no response to vagal blockage, administer isoproterenol cautiously.
 
 High-degree AV Block: Treat as for bradycardia above.

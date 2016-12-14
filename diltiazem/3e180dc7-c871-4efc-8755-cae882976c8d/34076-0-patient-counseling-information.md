@@ -9,21 +9,9 @@ Advise patients:
 
 Cardizem® is a registered trademark of Valeant Pharmaceuticals North America LLC.
 
-Manufactured in Canada by:
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Valeant Pharmaceuticals International, Inc.
-
-Steinbach, MB R5G 1Z7 Canada
-
-Distributed by:
-
-Valeant Pharmaceuticals North America LLC
-
-Bridgewater, NJ 08807 USA
+By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
 
 Rev.
-04/15
-
-20000918
-
-9457000
+11/2016
