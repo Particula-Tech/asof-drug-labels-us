@@ -114,6 +114,7 @@ Ask if you are not sure.
 Before starting ZOLOFT, tell your healthcare provider if you:
 
 - Are taking certain drugs such as:
+  - Amphetamines
   - Medicines used to treat migraine headaches such as:
     - triptans
   - Medicines used to treat mood, anxiety, psychotic or thought disorders, such as:
@@ -252,6 +253,6 @@ Inactive ingredients
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-LAB-0540-4.0
+LAB-0540-5.0
 
-May 2014
+October 2016
