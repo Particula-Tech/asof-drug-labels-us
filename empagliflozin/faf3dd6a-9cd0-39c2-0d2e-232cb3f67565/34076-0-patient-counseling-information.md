@@ -15,7 +15,7 @@ Advise patients not to double their next dose.
 
 Inform patients that the most common adverse reactions associated with the use of JARDIANCE are urinary tract infections and mycotic genital infections.
 
-Inform female patients of child bearing age that the use of JARDIANCE during pregnancy has not been studied in humans, and that JARDIANCE should only be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Inform female patients of reproductive potential that the use of JARDIANCE during pregnancy has not been studied in humans, and that JARDIANCE should only be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Based on animal data, JARDIANCE may cause fetal harm in the second and third trimesters.
 Instruct patients to report pregnancies to their physicians as soon as possible.
 
@@ -29,6 +29,9 @@ Ketoacidosis Inform patients that ketoacidosis is a serious life-threatening con
 Cases of ketoacidosis have been reported during use of JARDIANCE.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
 If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue JARDIANCE and seek medical advice immediately [see Warnings and Precautions (5.2)].
+
+Acute Kidney Injury Inform patients that acute kidney injury has been reported during use of JARDIANCE.
+Advise patients to seek medical advice immediately if they have reduced oral intake (such as due to acute illness or fasting) or increased fluid losses (such as due to vomiting, diarrhea, or excessive heat exposure), as it may be appropriate to temporarily discontinue JARDIANCE use in those settings [see Warnings and Precautions (5.3)].
 
 Serious Urinary Tract Infections Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.

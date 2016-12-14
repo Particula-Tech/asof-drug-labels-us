@@ -24,12 +24,21 @@ In some but not all cases, factors predisposing to ketoacidosis such as insulin 
 Before initiating JARDIANCE, consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
 In patients treated with JARDIANCE consider monitoring for ketoacidosis and temporarily discontinuing JARDIANCE in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
 
-## 5.3 Impairment in Renal Function
+## 5.3 Acute Kidney Injury and Impairment in Renal Function
 
-JARDIANCE increases serum creatinine and decreases eGFR [see Adverse Reactions (6.1)].
-The risk of impaired renal function with JARDIANCE is increased in elderly patients and patients with moderate renal impairment.
-More frequent monitoring of renal function is recommended in these patients [see Use in Specific Populations (8.5, 8.6)].
-Renal function should be evaluated prior to initiating JARDIANCE and periodically thereafter.
+JARDIANCE causes intravascular volume contraction [see Warnings and Precautions (5.1)] and can cause renal impairment [see Adverse Reactions (6.1)].
+There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving SGLT2 inhibitors, including JARDIANCE; some reports involved patients younger than 65 years of age.
+
+Before initiating JARDIANCE, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
+Consider temporarily discontinuing JARDIANCE in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
+If acute kidney injury occurs, discontinue JARDIANCE promptly and institute treatment.
+
+JARDIANCE increases serum creatinine and decreases eGFR.
+Patients with hypovolemia may be more susceptible to these changes.
+Renal function abnormalities can occur after initiating JARDIANCE [see Adverse Reactions (6.1)].
+Renal function should be evaluated prior to initiation of JARDIANCE and monitored periodically thereafter.
+More frequent renal function monitoring is recommended in patients with an eGFR below 60 mL/min/1.73 m2.
+Use of JARDIANCE is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Use in Specific Populations (8.6)].
 
 ## 5.4 Urosepsis and Pyelonephritis
 
@@ -53,7 +62,3 @@ Monitor and treat as appropriate.
 
 Increases in LDL-C can occur with JARDIANCE [see Adverse Reactions (6.1)].
 Monitor and treat as appropriate.
-
-## 5.8 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JARDIANCE or any other antidiabetic drug.
