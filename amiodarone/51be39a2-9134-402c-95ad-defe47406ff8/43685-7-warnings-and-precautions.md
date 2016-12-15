@@ -232,7 +232,7 @@ Avoid concomitant use of drugs that prolong the QT interval.
 
 #### Drugs lowering heart rate or causing automaticity or conduction disorders
 
-Concomitant use of drugs with depressant effects on the sinus and AV node (e.g., digoxin, beta blockers, verapamil, diltiazem, clonidine) can potentiate the electrophysiologic and hemodynamic effects of amiodarone, resulting in bradycardia, sinus arrest, and AV block.
+Concomitant use of drugs with depressant effects on the sinus and AV node (e.g., digoxin, beta blockers, verapamil, diltiazem, ivabradine, clonidine) can potentiate the electrophysiologic and hemodynamic effects of amiodarone, resulting in bradycardia, sinus arrest, and AV block.
 Monitor heart rate in patients on amiodarone and concomitant drugs that slow heart rate.
 
 ### Pharmocokinetic interactions

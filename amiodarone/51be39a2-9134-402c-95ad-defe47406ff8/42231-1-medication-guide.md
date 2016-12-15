@@ -106,10 +106,8 @@ See "What is the most important information I should know about Cordarone?"
 
 The most common side effects of Cordarone include:
 
-- nausea
-- constipation
-- vomiting
-- loss of appetite.
+| nauseavomiting | constipationloss of appetite. |
+| --- | --- |
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
