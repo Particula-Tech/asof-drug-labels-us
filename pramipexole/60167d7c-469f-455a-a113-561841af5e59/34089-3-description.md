@@ -6,9 +6,9 @@ Its empirical formula is C10 H17 N3 S 2HCl H2O, and its molecular weight is 302.
 
 The structural formula is:
 
-Pramipexole dihydrochloride, USP is a white to off-white powder substance.
+Pramipexole dihydrochloride monohydrate, USP is a white to off-white powder substance.
 Melting occurs in the range of 296°C to 301°C, with decomposition.
-Pramipexole dihydrochloride, USP is more than 20% soluble in water, about 8% in methanol, about 0.5% in ethanol, and practically insoluble in dichloromethane.
+Pramipexole dihydrochloride monohydrate, USP is more than 20% soluble in water, about 8% in methanol, about 0.5% in ethanol, and practically insoluble in dichloromethane.
 
 Pramipexole dihydrochloride tablets, for oral administration, contain 0.125 mg, 0.25 mg, 0.5 mg, 0.75 mg, 1 mg, or 1.5 mg of pramipexole dihydrochloride monohydrate.
 Inactive ingredients consist of colloidal silicon dioxide, corn starch, ferric oxide red (0.25, 0.5 and 1 mg tablets), ferric oxide yellow (0.25 and 0.75 mg tablets), magnesium stearate, mannitol, povidone K-30 and pregelatinized maize starch.

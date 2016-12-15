@@ -48,11 +48,15 @@ Manufactured by:
 TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
 Mehsana, INDIA.
 
+Or
+
+TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
+
 For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8055146 Revised June 2015
+8059290 Revised April 2016
 
 PATIENT INFORMATION
 
@@ -148,7 +152,8 @@ What are the possible side effects of pramipexole dihydrochloride tablets?
 
 Pramipexole dihydrochloride tablets may cause serious side effects, including:
 
-• falling asleep during normal daily activities. pramipexole dihydrochloride tablets may cause you to fall asleep while you are doing daily activities such as driving, talking with other people, or eating.
+• falling asleep during normal daily activities.
+Pramipexole dihydrochloride tablets may cause you to fall asleep while you are doing daily activities such as driving, talking with other people, or eating.
 
 o Some people taking the medicine in pramipexole dihydrochloride tablets have had car accidents because they fell asleep while driving.
 
@@ -241,8 +246,12 @@ Manufactured by:
 TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
 Mehsana, INDIA.
 
+Or
+
+TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
+
 For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8055146 Revised June 2015
+8059290 Revised April 2016

@@ -2,16 +2,16 @@
 
 ## 5.1 Falling Asleep During Activities of Daily Living and Somnolence
 
-Patients treated with pramipexole dihydrochloride tablets have reported falling asleep while engaged in activities of daily living, including the operation of motor vehicles which sometimes resulted in accidents.
+Patients treated with pramipexole have reported falling asleep while engaged in activities of daily living, including the operation of motor vehicles which sometimes resulted in accidents.
 Although many of these patients reported somnolence while on pramipexole dihydrochloride tablets, some perceived that they had no warning signs (sleep attack) such as excessive drowsiness, and believed that they were alert immediately prior to the event.
 Some of these events had been reported as late as one year after the initiation of treatment.
 
-Somnolence is a common occurrence in patients receiving pramipexole dihydrochloride tablets at doses above 1.5 mg/day (0.5 mg three times a day) for Parkinson's disease.
+Somnolence is a common occurrence in patients receiving pramipexole at doses above 1.5 mg/day (0.5 mg three times a day) for Parkinson's disease.
 It has been reported that falling asleep while engaged in activities of daily living usually occurs in a setting of pre-existing somnolence, although patients may not give such a history.
 For this reason, prescribers should reassess patients for drowsiness or sleepiness, especially since some of the events occur well after the start of treatment.
 Prescribers should also be aware that patients may not acknowledge drowsiness or sleepiness until directly questioned about drowsiness or sleepiness during specific activities.
 
-Before initiating treatment with pramipexole dihydrochloride tablets, advise patients of the potential to develop drowsiness and specifically asked about factors that may increase the risk for somnolence with pramipexole dihydrochloride tablets such as the use of concomitant sedating medications or alcohol, the presence of sleep disorders, and concomitant medications that increase pramipexole plasma levels (e.g., cimetidine) [see Clinical Pharmacology (12.3)].
+Before initiating treatment with pramipexole dihydrochloride tablets, advise patients of the potential to develop drowsiness and specifically ask about factors that may increase the risk for somnolence with pramipexole dihydrochloride tablets such as the use of concomitant sedating medications or alcohol, the presence of sleep disorders, and concomitant medications that increase pramipexole plasma levels (e.g., cimetidine) [see Clinical Pharmacology (12.3)].
 If a patient develops significant daytime sleepiness or episodes of falling asleep during activities that require active participation (e.g., conversations, eating, etc.), pramipexole dihydrochloride tablets should ordinarily be discontinued.
 If a decision is made to continue pramipexole dihydrochloride tablets, advise patients not to drive and to avoid other potentially dangerous activities that might result in harm if the patients become somnolent.
 While dose reduction reduces the degree of somnolence, there is insufficient information to establish that dose reduction will eliminate episodes of falling asleep while engaged in activities of daily living.

@@ -79,14 +79,14 @@ Advanced Parkinson's Disease
 In the four double-blind, placebo-controlled trials of patients with advanced Parkinson's disease, the most common adverse reactions (>5%) that were numerically more frequent in the group treated with pramipexole dihydrochloride tablets and concomitant levodopa were postural (orthostatic) hypotension, dyskinesia, extrapyramidal syndrome, insomnia, dizziness, hallucinations, accidental injury, dream abnormalities, confusion, constipation, asthenia, somnolence, dystonia, gait abnormality, hypertonia, dry mouth, amnesia, and urinary frequency.
 
 Approximately 12% of 260 patients with advanced Parkinson's disease who received pramipexole dihydrochloride tablets and concomitant levodopa in the double-blind, placebo-controlled trials discontinued treatment due to adverse reactions compared with 16% of 264 patients who received placebo and concomitant levodopa.
-The reactions most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [2.7% on pramipexole dihydrochloride tablets vs 0.4% on placebo]; dyskinesia [1.9% on pramipexole dihydrochloride tablets vs 0.8% on placebo] and cardiovascular system (postural [orthostatic] hypotension [2.3% on pramipexole dihydrochloride tablets vs 1.1% on placebo]).
+The reactions most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [2.7% on pramipexole dihydrochloride tablets vs 0.4% on placebo]; dyskinesia [1.9% on pramipexole dihydrochloride tablets vs 0.8% on placebo]) and cardiovascular system (postural [orthostatic] hypotension [2.3% on pramipexole dihydrochloride tablets vs 1.1% on placebo]).
 
 Adverse-reaction Incidence in Controlled Clinical Studies in Advanced Parkinson's Disease: Table 5 lists adverse reactions that occurred in the double-blind, placebo-controlled studies in advanced Parkinson's disease that were reported by ≥1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
 In these studies, pramipexole dihydrochloride tablets or placebo was administered to patients who were also receiving concomitant levodopa.
 
-Table 5 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride in Advanced Parkinson's Disease
+Table 5 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride Tablets in Advanced Parkinson's Disease
 
-| Body System/ Adverse Event | Pramipexole Dihydrochloride (N=260) % | Placebo(N=264) % |
+| Body System/ Adverse Event | Pramipexole Dihydrochloride Tablets (N=260) % | Placebo(N=264) % |
 | --- | --- | --- |
 | Nervous System |  |  |
 | Dyskinesia | 47 | 31 |
@@ -154,5 +154,5 @@ During the development of pramipexole dihydrochloride tablets, no systematic abn
 
 In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of pramipexole dihydrochloride tablets, primarily in Parkinson's disease patients.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: cardiac failure, inappropriate antidiuretic hormone secretion (SIADH), syncope, vomiting, and weight increase.
+Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole dihydrochloride tablets.
+Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: cardiac failure, inappropriate antidiuretic hormone secretion (SIADH), skin reactions (including erythema, rash, pruritus, urticaria), syncope, vomiting, and weight increase.

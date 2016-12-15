@@ -14,7 +14,7 @@ The relevance of D3 receptor binding in Parkinson's disease is unknown.
 
 The effect of pramipexole on the QT interval of the ECG was investigated in a clinical study in 60 healthy male and female volunteers.
 All subjects initiated treatment with 0.375 mg extended release pramipexole tablets administered once daily, and were up-titrated every 3 days to 2.25 mg and 4.5 mg daily, a faster rate of titration than recommended in the label.
-No dose- or exposure-related effect on mean QT intervals was observed; however the study did not have a valid assessment of assay sensitivity.
+No dose- or exposure-related effect on mean QT intervals was observed; however, the study did not have a valid assessment of assay sensitivity.
 The effect of pramipexole on QTc intervals at higher exposures achieved either due to drug interactions (e.g., with cimetidine), renal impairment, or at higher doses has not been systematically evaluated.
 
 Although mean values remained within normal reference ranges throughout the study, supine systolic blood pressure (SBP), diastolic blood pressure (DBP), and pulse rate for subjects treated with pramipexole generally increased during the rapid up-titration phase, by 10 mmHg, 7 mmHg, and 10 bpm higher than placebo, respectively.
