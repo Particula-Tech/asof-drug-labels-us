@@ -18,7 +18,7 @@ Dose-Response in Patients with Primary Hypercholesterolemia (Adjusted Mean % Cha
 
 Active-controlled study with atorvastatin (NK-104-301): LIVALO was compared with the HMG-CoA reductase inhibitor atorvastatin in a randomized, multicenter, double-blind, double-dummy, active-controlled, non-inferiority Phase 3 study of 817 patients with primary hyperlipidemia or mixed dyslipidemia.
 Patients entered a 6- to 8-week wash-out/dietary lead-in period and then were randomized to a 12-week treatment with either LIVALO or atorvastatin (Table 5).
-Non-inferiority of pitavastatin to a given dose of atorvastatin was considered to be demonstrated if the lower bound of the 95% CI for the mean treatment difference was greater than 6% for the mean percent change in LDL-C.
+Non-inferiority of pitavastatin to a given dose of atorvastatin was considered to be demonstrated if the lower bound of the 95% CI for the mean treatment difference was greater than -6% for the mean percent change in LDL-C.
 
 Lipid results are shown in Table 5.
 For the percent change from baseline to endpoint in LDL-C, LIVALO was non-inferior to atorvastatin for the two pairwise comparisons: LIVALO 2 mg vs. atorvastatin 10 mg and LIVALO 4 mg vs. atorvastatin 20 mg.
@@ -37,7 +37,7 @@ Response by Dose of LIVALO and Atorvastatin in Patients with Primary Hyperlipide
 
 Active-controlled study with simvastatin (NK-104-302): LIVALO was compared with the HMG-CoA reductase inhibitor simvastatin in a randomized, multicenter, double-blind, double-dummy, active-controlled, non-inferiority Phase 3 study of 843 patients with primary hyperlipidemia or mixed dyslipidemia.
 Patients entered a 6- to 8-week wash-out/dietary lead-in period and then were randomized to a 12 week treatment with either LIVALO or simvastatin (Table 6).
-Non-inferiority of pitavastatin to a given dose of simvastatin was considered to be demonstrated if the lower bound of the 95% CI for the mean treatment difference was greater than 6% for the mean percent change in LDL-C.
+Non-inferiority of pitavastatin to a given dose of simvastatin was considered to be demonstrated if the lower bound of the 95% CI for the mean treatment difference was greater than -6% for the mean percent change in LDL-C.
 
 Lipid results are shown in Table 6.
 For the percent change from baseline to endpoint in LDL-C, LIVALO was non-inferior to simvastatin for the two pairwise comparisons: LIVALO 2 mg vs. simvastatin 20 mg and LIVALO 4 mg vs. simvastatin 40 mg.

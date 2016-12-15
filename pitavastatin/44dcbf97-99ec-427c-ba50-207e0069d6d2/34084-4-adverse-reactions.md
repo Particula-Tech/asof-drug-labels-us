@@ -38,12 +38,19 @@ The most common adverse reactions that led to treatment discontinuation were: el
 
 Hypersensitivity reactions including rash, pruritus, and urticaria have been reported with LIVALO.
 
+In a double-blind, randomized, controlled, 52-week trial, 252 HIV-infected patients with dyslipidemia were treated with either LIVALO 4mg once daily (n=126) or another statin (n=126).
+All patients were taking antiretroviral therapy (excluding darunavir) and had HIV-1 RNA less than 200 copies/mL and CD4 count greater than 200 cell/µL for at least 3 months prior to randomization.
+The safety profile of LIVALO was generally consistent with that observed in the clinical trials described above.
+One patient (0.8%) treated with LIVALO had a peak creatine phosphokinase value exceeding 10 times the upper limit of normal (10x ULN), which resolved spontaneously.
+Four patients (3%) treated with LIVALO had at least one ALT value exceeding 3x but less than 5x ULN, none of which led to drug discontinuation.
+Virologic failure was reported for four patients (3%) treated with LIVALO, defined as a confirmed measurement of HIV-1 RNA exceeding 200 copies/mL that was also more than a 2-fold increase from baseline.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of LIVALO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions associated with LIVALO therapy reported since market introduction, regardless of causality assessment, include the following: abdominal discomfort, abdominal pain, dyspepsia, nausea, asthenia, fatigue, malaise, hepatitis, jaundice, fatal and non-fatal hepatic failure, dizziness, hypoesthesia, insomnia, depression, interstitial lung disease, erectile dysfunction and muscle spasms.
+Adverse reactions associated with LIVALO therapy reported since market introduction, regardless of causality assessment, include the following: abdominal discomfort, abdominal pain, dyspepsia, nausea, asthenia, fatigue, malaise, hepatitis, jaundice, fatal and non-fatal hepatic failure, dizziness, hypoesthesia, insomnia, depression, interstitial lung disease, erectile dysfunction, muscle spasms and peripheral neuropathy.
 
 There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 These cognitive issues have been reported for all statins.

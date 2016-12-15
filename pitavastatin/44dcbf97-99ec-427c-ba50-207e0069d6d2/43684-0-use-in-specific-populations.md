@@ -2,18 +2,25 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic effects: Pregnancy Category X
+Risk Summary LIVALO is contraindicated for use in pregnant women since safety in pregnant women has not been established and there is no apparent benefit to therapy with LIVALO during pregnancy.
+Because HMG-CoA reductase inhibitors decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, LIVALO may cause fetal harm when administered to pregnant women.
+LIVALO should be discontinued as soon as pregnancy is recognized [see Contraindications (4).
+Limited published data on the use of LIVALO are insufficient to determine a drug-associated risk of major congenital malformations or miscarriage.
+In animal reproduction studies, no embryo-fetal toxicity or congenital malformations were observed when pregnant rats and rabbits were orally administered pitavastatin during organogenesis at exposures which were 22 and 4 times, respectively, the maximum recommended human dose (MRHD) [see Data].
 
-LIVALO is contraindicated in women who are or may become pregnant.
-Serum cholesterol and TG increase during normal pregnancy, and cholesterol products are essential for fetal development.
-Atherosclerosis is a chronic process and discontinuation of lipid-lowering drugs during pregnancy should have little impact on long-term outcomes of primary hyperlipidemia therapy [see Contraindications (4)].
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+Adverse outcomes in pregnancy occur regardless of the health of the mother or the use of medications.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-There are no adequate and well-controlled studies of LIVALO in pregnant women, although, there have been rare reports of congenital anomalies following intrauterine exposure to HMG-CoA reductase inhibitors.
+### Data
+
+Human Data Limited published data on LIVALO have not reported a drug-associated risk of major congenital malformations or miscarriage.
+Rare reports of congenital anomalies have been received following intrauterine exposure to HMG-CoA reductase inhibitors.
 In a review of about 100 prospectively followed pregnancies in women exposed to other HMG-CoA reductase inhibitors, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed the rate expected in the general population.
-However, this study was only able to exclude a three-to-four-fold increased risk of congenital anomalies over background incidence.
-In 89% of these cases, drug treatment started before pregnancy and stopped during the first trimester when pregnancy was identified.
+The number of cases is adequate to exclude a greater than or equal to a 3- to 4-fold increase in congenital anomalies over background incidence.
+In 89% of the prospectively followed pregnancies, drug treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified.
 
-Reproductive toxicity studies have shown that pitavastatin crosses the placenta in rats and is found in fetal tissues at ≤36% of maternal plasma concentrations following a single dose of 1 mg/kg/day during gestation.
+Animal Data Reproductive toxicity studies have shown that pitavastatin crosses the placenta in rats and is found in fetal tissues at ≤36% of maternal plasma concentrations following a single dose of 1 mg/kg/day during gestation.
 
 Embryo-fetal developmental studies were conducted in pregnant rats treated with 3, 10, 30 mg/kg/day pitavastatin by oral gavage during organogenesis.
 No adverse effects were observed at 3 mg/kg/day, systemic exposures 22 times human systemic exposure at 4 mg/day based on AUC.
@@ -23,14 +30,17 @@ Maternal toxicity consisting of reduced body weight and abortion was observed at
 
 In perinatal/postnatal studies in pregnant rats given oral gavage doses of pitavastatin at 0.1, 0.3, 1, 3, 10, 30 mg/kg/day from organogenesis through weaning, maternal toxicity consisting of mortality at ≥0.3 mg/kg/day and impaired lactation at all doses contributed to the decreased survival of neonates in all dose groups (0.1 mg/kg/day represents approximately 1 time human systemic exposure at 4 mg/day dose based on AUC).
 
-LIVALO may cause fetal harm when administered to a pregnant woman.
-If the patient becomes pregnant while taking LIVALO, the patient should be apprised of the potential risks to the fetus and the lack of known clinical benefit with continued use during pregnancy.
+## 8.2 Lactation
 
-## 8.3 Nursing Mothers
+Risk Summary LIVALO is contraindicated during breastfeeding [see Contraindications (4)].
+There is no available information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+However, it has been shown that another drug in this class passes into human milk.
+Because of the potential for serious adverse reactions in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with LIVALO.
 
-It is not known whether pitavastatin is excreted in human milk, however, it has been shown that a small amount of another drug in this class passes into human milk.
-Rat studies have shown that pitavastatin is excreted into breast milk.
-Because another drug in this class passes into human milk and HMG-CoA reductase inhibitors have a potential to cause serious adverse reactions in nursing infants, women who require LIVALO treatment should be advised not to nurse their infants or to discontinue LIVALO [see Contraindications (4)].
+## 8.3 Females and Males of Reproductive Potential
+
+Contraception Females LIVALO may cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment with LIVALO.
 
 ## 8.4 Pediatric Use
 
