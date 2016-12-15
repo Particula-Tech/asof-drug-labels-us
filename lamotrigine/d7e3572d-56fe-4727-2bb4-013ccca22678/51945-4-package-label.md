@@ -36,8 +36,8 @@ Made in India
 
 Rx only
 
-- 10000000131787 Rev.
-  2/15
+1. 10000000131787 Rev.
+   2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -51,9 +51,9 @@ TABLETS
 
 150 mg
 
-60 Tablets
-
 CAUTION: Verify Product Dispensed
+
+60 Tablets
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -77,8 +77,8 @@ Made in India
 
 Rx only
 
-- 10000000131788 Rev.
-  2/15
+1. 10000000143541 Rev.
+   9/16
 
 PRINCIPAL DISPLAY PANEL
 
@@ -118,8 +118,8 @@ Made in India
 
 Rx only
 
-- 10000000131789 Rev.
-  2/15
+1. 10000000131789 Rev.
+   2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -161,8 +161,8 @@ Made in India
 
 ©2015, the GSK group of companies
 
-- 10000000132067 Rev.
-  2/15
+1. 10000000132067 Rev.
+   2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -208,8 +208,8 @@ Made in India
 
 ©2015, the GSK group of companies
 
-- 10000000132066 Rev.
-  2/15
+1. 10000000132066 Rev.
+   2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -255,8 +255,8 @@ Made in India
 
 ©2015, the GSK group of companies
 
-- 10000000132065 Rev.
-  2/15
+1. 10000000132065 Rev.
+   2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -296,8 +296,8 @@ Made in India
 
 Rx only
 
-- 10000000131783 Rev.
-  2/15
+1. 10000000131783 Rev.
+   2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -337,8 +337,8 @@ Made in India
 
 Rx only
 
-- 10000000131781 Rev.
-  2/15
+1. 10000000131781 Rev.
+   2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -378,8 +378,8 @@ Made in India
 
 Rx only
 
-- 10000000131782 Rev.
-  2/15
+1. 10000000131782 Rev.
+   2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -411,8 +411,8 @@ Made in India
 
 ©2015, the GSK group of companies
 
-- 10000000132456 Rev.
-  2/15
+1. 10000000132456 Rev.
+   2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -444,8 +444,8 @@ Made in India
 
 ©2015, the GSK group of companies
 
-- 10000000132458 Rev.
-  2/15
+1. 10000000132458 Rev.
+   2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -477,8 +477,8 @@ Made in India
 
 ©2015, the GSK group of companies
 
-- 10000000132457 Rev.
-  2/15
+1. 10000000132457 Rev.
+   2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -510,8 +510,8 @@ Made in India
 
 ©2015, the GSK group of companies
 
-- 10000000132455 Rev.
-  2/15
+1. 10000000132455 Rev.
+   2/15
 
 PRINCIPAL DISPLAY PANEL
 

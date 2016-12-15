@@ -8,7 +8,7 @@ LAMICTAL ODT® (lamotrigine) orally disintegrating tablets
 
 What is the most important information I should know about LAMICTAL?
 
-- •LAMICTAL may cause a serious skin rash that may cause you to be hospitalized or even cause death.
+1. 1.LAMICTAL may cause a serious skin rash that may cause you to be hospitalized or even cause death.
 
 There is no way to tell if a mild rash will become more serious.
 A serious skin rash can happen at any time during your treatment with LAMICTAL, but is more likely to happen within the first 2 to 8 weeks of treatment.
@@ -30,32 +30,32 @@ Call your healthcare provider right away if you have any of the following:
 These symptoms may be the first signs of a serious skin reaction.
 A healthcare provider should examine you to decide if you should continue taking LAMICTAL.
 
-- •Other serious reactions, including serious blood problems or liver problems.
-  LAMICTAL can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
-  You may or may not have a rash with these types of reactions.
-  Call your healthcare provider right away if you have any of these symptoms:
-- •fever
-- •frequent infections
-- •severe muscle pain
-- •swelling of your face, eyes, lips, or tongue
-- •swollen lymph glands
-- •unusual bruising or bleeding
-- •weakness, fatigue
-- •yellowing of your skin or the white part of your eyes
-- •Like other antiepileptic drugs,LAMICTAL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-- Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
-- •thoughts about suicide or dying
-- •attempt to commit suicide
-- •new or worse depression
-- •new or worse anxiety
-- •feeling agitated or restless
-- •panic attacks
-- •trouble sleeping (insomnia)
-- •new or worse irritability
-- •acting aggressive, being angry, or violent
-- •acting on dangerous impulses
-- •an extreme increase in activity and talking (mania)
-- •other unusual changes in behavior or mood
+1. 1.Other serious reactions, including serious blood problems or liver problems.
+   LAMICTAL can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
+   You may or may not have a rash with these types of reactions.
+   Call your healthcare provider right away if you have any of these symptoms:
+2. 2.fever
+3. 3.frequent infections
+4. 4.severe muscle pain
+5. 5.swelling of your face, eyes, lips, or tongue
+6. 6.swollen lymph glands
+7. 7.unusual bruising or bleeding
+8. 8.weakness, fatigue
+9. 9.yellowing of your skin or the white part of your eyes
+10. 10.Like other antiepileptic drugs, LAMICTAL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+11. Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+12. 11.thoughts about suicide or dying
+13. 12.attempt to commit suicide
+14. 13.new or worse depression
+15. 14.new or worse anxiety
+16. 15.feeling agitated or restless
+17. 16.panic attacks
+18. 17.trouble sleeping (insomnia)
+19. 18.new or worse irritability
+20. 19.acting aggressive, being angry, or violent
+21. 20.acting on dangerous impulses
+22. 21.an extreme increase in activity and talking (mania)
+23. 22.other unusual changes in behavior or mood
 
 Do not stop LAMICTAL without first talking to a healthcare provider.
 
@@ -91,7 +91,7 @@ For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of LAMICTAL?”
 
-- •People prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL.
+1. 1.People prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL.
 
 Taking the wrong medication can cause serious health problems.
 When your healthcare provider gives you a prescription for LAMICTAL:
@@ -251,7 +251,7 @@ This Medication Guide summarizes the most important information about LAMICTAL.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about LAMICTAL that is written for healthcare professionals.
 
-For more information, go to www.lamictal.com or call 1-888-825-5249.
+For more information, call 1-888-825-5249.
 
 What are the ingredients in LAMICTAL?
 
@@ -285,9 +285,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2015, the GSK group of companies.
+©2016 the GSK group of companies.
 All rights reserved.
 
-May 2015
+December 2016
 
-LMT:14MG
+LMT:15MG
