@@ -5,7 +5,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
 - Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)]
 - Abnormal thinking and behavior changes, and complex behaviors [see Warnings and Precautions (5.4)]
-- Withdrawal effects [see Warnings and Precautions (5.7)]
+- Withdrawal effects [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -222,3 +222,10 @@ Rare: conjunctivitis, corneal ulceration, lacrimation abnormal, parosmia, photop
 Urogenital system: Frequent: urinary tract infection.
 Infrequent: cystitis, urinary incontinence.
 Rare: acute renal failure, dysuria, micturition frequency, nocturia, polyuria, pyelonephritis, renal pain, urinary retention.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of AMBIEN CR.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Liver and biliary system: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2×ULN, alkaline phosphatase ≥2×ULN, transaminase ≥5×ULN).

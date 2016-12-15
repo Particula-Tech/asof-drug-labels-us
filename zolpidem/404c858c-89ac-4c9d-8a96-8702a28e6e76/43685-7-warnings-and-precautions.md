@@ -65,12 +65,18 @@ Since sedative-hypnotics have the capacity to depress respiratory drive, precaut
 Post-marketing reports of respiratory insufficiency in patients receiving 10 mg of zolpidem tartrate, most of whom had pre-existing respiratory impairment, have been reported.
 The risk of respiratory depression should be considered prior to prescribing AMBIEN CR in patients with respiratory impairment including sleep apnea and myasthenia gravis.
 
-## 5.7 Withdrawal Effects
+## 5.7 Precipitation of Hepatic Encephalopathy
+
+GABA agonists such as zolpidem tartrate have been associated with precipitation of hepatic encephalopathy in patients with hepatic insufficiency.
+In addition, patients with hepatic insufficiency do not clear zolpidem tartrate as rapidly as patients with normal hepatic function.
+Avoid AMBIEN CR use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+
+## 5.8 Withdrawal Effects
 
 There have been reports of withdrawal signs and symptoms following the rapid dose decrease or abrupt discontinuation of zolpidem.
 Monitor patients for tolerance, abuse, and dependence [see Drug Abuse and Dependence (9.2) and (9.3)].
 
-## 5.8 Severe Injuries
+## 5.9 Severe Injuries
 
 Zolpidem can cause drowsiness and a decreased level of consciousness, which may lead to falls and consequently to severe injuries.
 Severe injuries such as hip fractures and intracranial hemorrhage have been reported.
