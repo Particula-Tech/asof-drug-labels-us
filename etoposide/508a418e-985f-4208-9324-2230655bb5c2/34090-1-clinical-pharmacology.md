@@ -4,18 +4,18 @@ Etoposide has been shown to cause metaphase arrest in chick fibroblasts.
 Its main effect, however, appears to be at the G2 portion of the cell cycle in mammalian cells.
 Two different dose dependent responses are seen.
 At high concentrations (10 mcg/mL or more), lysis of cells entering mitosis is observed.
-At low concentrations (0.3 to 10 mcg/mL), cells are inhibited from entering prophase.
+At low concentrations (0.3 mcg/mL to 10 mcg/mL), cells are inhibited from entering prophase.
 It does not interfere with microtubular assembly.
 The predominant macromolecular effect of etoposide appears to be the induction of DNA strand breaks by an interaction with DNA topoisomerase II or the formation of free radicals.
 
 ## Pharmacokinetics
 
 On intravenous administration, the disposition of etoposide is best described as a biphasic process with a distribution half-life of about 1.5 hours and terminal elimination half-life ranging from 4 to 11 hours.
-Total body clearance values range from 33 to 48 mL/min or 16 to 36 mL/min/m2 and, like the terminal elimination half-life, are independent of dose over a range 100 to 600 mg/m2.
+Total body clearance values range from 33 mL/min to 48 mL/min or 16 mL/min/m2 to 36 mL/min/m2 and, like the terminal elimination half-life, are independent of dose over a range 100 mg/m2 to 600 mg/m2.
 Over the same dose range, the areas under the plasma concentration vs. time curves (AUC) and the maximum plasma concentration (Cmax) values increase linearly with dose.
 Etoposide does not accumulate in the plasma following daily administration of 100 mg/m2 for 4 to 5 days.
 
-The mean volumes of distribution at steady-state fall in the range of 18 to 29 liters or 7 to 17 L/m2.
+The mean volumes of distribution at steady-state fall in the range of 18 to 29 liters or 7 L/m2 to 17 L/m2.
 Etoposide enters the CSF poorly.
 Although it is detectable in CSF and intracerebral tumors, the concentrations are lower than in extracerebral tumors and in plasma.
 Etoposide concentrations are higher in normal lung than in lung metastases and are similar in primary tumors and normal tissues of the myometrium.
@@ -27,10 +27,10 @@ Etoposide binding ratio correlates directly with serum albumin in patients with 
 The unbound fraction of etoposide significantly correlated with bilirubin in a population of cancer patients.
 Data have suggested a significant inverse correlation between serum albumin concentration and free fraction of etoposide (see PRECAUTIONS).
 
-After intravenous administration of 14C-etoposide (100 to 124 mg/m2), mean recovery of radioactivity in the urine was 56% of the dose at 120 hours, 45% of which was excreted as etoposide; fecal recovery of radioactivity was 44% of the dose at 120 hours.
+After intravenous administration of 14C-etoposide (100 mg/m2 to 124 mg/m2), mean recovery of radioactivity in the urine was 56% of the dose at 120 hours, 45% of which was excreted as etoposide; fecal recovery of radioactivity was 44% of the dose at 120 hours.
 
 In children, approximately 55% of the dose is excreted in the urine as etoposide in 24 hours.
-The mean renal clearance of etoposide is 7 to 10 mL/min/m2 or about 35% of the total body clearance over a dose range of 80 to 600 mg/m2.
+The mean renal clearance of etoposide is 7 mL/min/m2 to 10 mL/min/m2 or about 35% of the total body clearance over a dose range of 80 mg/m2 to 600 mg/m2.
 Etoposide, therefore, is cleared by both renal and nonrenal processes, i.e., metabolism and biliary excretion.
 The effect of renal disease on plasma etoposide clearance is not known.
 

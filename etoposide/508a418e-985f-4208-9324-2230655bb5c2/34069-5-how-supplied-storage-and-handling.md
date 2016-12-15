@@ -2,7 +2,7 @@
 
 Etoposide Capsules, USP are available containing 50 mg of etoposide, USP.
 
-The 50 mg capsule is an opaque dark pink soft gelatin capsule printed with E50 in black ink.
+The 50 mg capsule is an opaque dark pink, soft gelatin capsule printed with E50 in black ink.
 They are available as follows:
 
 NDC 0378-3266-94 20 Capsules - Unit Dose

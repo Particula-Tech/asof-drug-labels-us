@@ -27,7 +27,6 @@
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured by: R.P.
-Scherer GmbH & Co. KG D-69412 Eberbach/Baden Germany
+Manufactured by: Catalent Germany Eberbach GmbH D-69412 Eberbach/Baden Germany
 
-REVISED JULY 2013 ETOP:R2
+REVISED: 4/2016 ETOP:R3

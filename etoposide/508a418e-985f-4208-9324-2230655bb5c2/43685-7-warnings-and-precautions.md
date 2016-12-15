@@ -11,7 +11,7 @@ The occurrence of a platelet count below 50,000/mm3 or an absolute neutrophil co
 Etoposide can cause fetal harm when administered to a pregnant woman.
 Etoposide has been shown to be teratogenic in mice and rats.
 
-In rats, an intravenous etoposide dose of 0.4 mg/kg/day (about 1/20th of the human dose on a mg/m2 basis) during organogenesis caused maternal toxicity, embryotoxicity, and teratogenicity (skeletal abnormalities, exencephaly, encephalocele and anophthalmia); higher doses of 1.2 and 3.6 mg/kg/day (about 1/7th and 1/2 of human dose on a mg/m2 basis) resulted in 90% and 100% embryonic resorptions.
+In rats, an intravenous etoposide dose of 0.4 mg/kg/day (about 1/20th of the human dose on a mg/m2 basis) during organogenesis caused maternal toxicity, embryotoxicity, and teratogenicity (skeletal abnormalities, exencephaly, encephalocele and anophthalmia); higher doses of 1.2 mg/kg/day and 3.6 mg/kg/day (about 1/7th and 1/2 of human dose on a mg/m2 basis) resulted in 90% and 100% embryonic resorptions.
 In mice, a single 1.0 mg/kg (1/16th of human dose on a mg/m2 basis) dose of etoposide administered intraperitoneally on days 6, 7 or 8 of gestation caused embryotoxicity, cranial abnormalities, and major skeletal malformations.
 An I.P. dose of 1.5 mg/kg (about 1/10th of human dose on a mg/m2 basis) on day 7 of gestation caused an increase in the incidence of intrauterine death and fetal malformations and a significant decrease in the average fetal body weight.
 
@@ -67,7 +67,9 @@ Irreversible testicular atrophy was present in rats treated with etoposide intra
 
 ## Pregnancy
 
-### Pregnancy Category D
+### Teratogenic Effects
+
+#### Pregnancy Category D
 
 (see WARNINGS).
 
