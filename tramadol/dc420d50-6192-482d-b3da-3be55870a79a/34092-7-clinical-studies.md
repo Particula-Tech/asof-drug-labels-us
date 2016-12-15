@@ -1,6 +1,6 @@
 # CLINICAL STUDIES
 
-Tramadol hydrochloride was studied in four 12-week, randomized, double-blind, controlled studies in patients with moderate to severe pain due to osteoarthritis.
+Tramadol hydrochloride extended-release tablets were studied in four 12-week, randomized, double-blind, controlled studies in patients with moderate to severe pain due to osteoarthritis.
 Efficacy was demonstrated in one double-blind, placebo-controlled, randomized withdrawal design study.
 In this study, patients who experienced a reduction of pain and were able to tolerate tramadol hydrochloride extended-release tablets during an open-label titration period, were then randomized to tramadol hydrochloride extended-release tablets or to placebo for 12 weeks.
 Sixty-five percent of patients were able to successfully titrate onto tramadol hydrochloride extended-release tablets.

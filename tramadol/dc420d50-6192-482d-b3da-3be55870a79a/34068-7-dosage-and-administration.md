@@ -1,46 +1,55 @@
 # DOSAGE AND ADMINISTRATION
 
-Tramadol hydrochloride extended-release tablets should be taken once a day.
-The tablets should be swallowed whole with liquid and not split, chewed, dissolved or crushed.
-Tramadol hydrochloride extended-release tablets produce a continuous release of active ingredient over 24 hours: a repeat dosage within 24 hours is not recommended.
+Important Dosage and Administration Instructions
 
-Patients Not Currently on Tramadol Immediate-Release Products:
+Tramadol hydrochloride extended-release tablets should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
-Treatment with tramadol hydrochloride extended-release tablets should be initiated at a dose of 100 mg/day.
-Daily doses should be titrated by 100 mg/day increments every 2 to 3 days (i.e., start 200 mg/day on day 3 or 4 of therapy) to achieve a balance between adequate pain control and tolerability for the individual patient.
-For patients requiring the 300 mg daily dose, titration should take at least 4 days (i.e.
-300 mg/day on day 5).
-The usual daily dose is 200 or 300 mg.
-The daily dose and titration should be individualized for each patient.
-Therapy should be continued with the lowest effective dose.
-Tramadol hydrochloride extended-release tablets should not be administered at a dose exceeding 300 mg per day.
+- Do not use tramadol hydrochloride extended-release tablets concomitantly with other tramadol products [see WARNINGS].
+- Do not administer tramadol hydrochloride extended-release tablets at a dose exceeding 300 mg per day.
+- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see WARNINGS].
+- Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see WARNINGS]
+- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with tramadol hydrochloride extended-release tablets and adjust the dosage accordingly [see WARNINGS].
+- Instruct patients to swallow tramadol hydrochloride extended-release tablets whole [see Patient Counseling Information (17)], and to take it with liquid.
+  Crushing, chewing, splitting, or dissolving tramadol hydrochloride extended-release tablets will result in uncontrolled delivery of tramadol and can lead to overdose or death [see WARNINGS].
+- Tramadol hydrochloride extended-release tablets may be taken without regard to food, it is recommended that it be taken in a consistent manner [see CLINICAL PHARMACOLOGY].
 
-Clinical experience suggests that signs and symptoms of withdrawal may be reduced by tapering medication when discontinuing tramadol therapy.
+Initial Dosage
 
-Patients Currently on Tramadol Immediate-Release Products:
+Patients Not Currently on a Tramadol Product
 
-For patients maintained on tramadol immediate-release (IR) products, the 24-hour tramadol IR dose should be calculated and the patient should be initiated on a total daily dose of tramadol hydrochloride extended-release tablets rounded down to the next lowest 100 mg increment.
+The initial dose of tramadol hydrochloride extended-release tablets is 100 mg once daily.
+
+Patients Currently on Tramadol IR Products
+
+Calculate the 24-hour tramadol IR dose and initiate a total daily dose of tramadol hydrochloride extended-release tablets rounded down to the next lower 100 mg increment.
 The dose may subsequently be individualized according to patient need.
+
 Due to limitations in flexibility of dose selection with tramadol hydrochloride extended-release tablets, some patients maintained on tramadol IR products may not be able to convert to tramadol hydrochloride extended-release tablets.
-Tramadol hydrochloride extended-release tablets should not be administered at a dose exceeding 300 mg per day.
-Do not use tramadol hydrochloride extended-release tablets with other tramadol products.
-(see WARNINGS).
 
-## Individualization of Dose
+Conversion from Other Opioids to tramadol hydrochloride extended-release tablets
 
-Good pain management practice dictates that analgesic dose be individualized according to patient need using the lowest beneficial dose.
-Studies with tramadol products in adults have shown that starting at the lowest possible dose and titrating upward will result in fewer discontinuations and increased tolerability.
+Discontinue all other around-the-clock opioid drugs when tramadol hydrochloride extended-release tablets therapy is initiated.
+There are no established conversion ratios for conversion from other opioids to tramadol hydrochloride extended-release tablets defined by clinical trials.
+Initiate dosing using tramadol hydrochloride extended-release tablets 100 mg once a day.
 
-## Renal and Hepatic Disease
+Titration and Maintenance of Therapy
 
-Tramadol hydrochloride extended-release tablets should not be used in patients with:
+Individually titrate tramadol hydrochloride extended-release tablets by 100 mg every five days to a dose that provides adequate analgesia and minimizes adverse reactions.
+The maximum daily dose of tramadol hydrochloride extended-release tablets is 300 mg per day.
 
-- Creatinine clearance less than 30 mL/min,
-- Hepatic impairment.
+Continually reevaluate patients receiving tramadol hydrochloride extended-release tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see WARNINGS].
+Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
+During chronic therapy, periodically reassess the continued need for the use of opioid analgesics.
 
-(See WARNINGS, Use in Renal and Hepatic Disease).
+Patients who experience breakthrough pain may require a dosage adjustment of tramadol hydrochloride extended-release tablets, or may need rescue medication with an appropriate dose of an immediate-release analgesic.
 
-## Geriatric patients (65 years of age and older)
+If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the tramadol hydrochloride extended-release tablets dosage.
 
-In general, dose selection for patients over 65 years of age who may have decreased hepatic or renal function, or other concomitant diseases, should be initiated cautiously, usually starting at the low end of the dosing range.
-Tramadol hydrochloride extended-release tablets should be administered with greater caution at the lowest effective dose in patients over 75 years, due to the potential for greater frequency of adverse events in this population.
+If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
+Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
+
+Discontinuation of tramadol hydrochloride extended-release tablets
+
+When a patient no longer requires therapy with tramadol hydrochloride extended-release tablets, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
+If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both..
+Do not abruptly discontinue tramadol hydrochloride extended-release tablets [see WARNINGS, DRUG ABUSE AND DEPEDENCE].
