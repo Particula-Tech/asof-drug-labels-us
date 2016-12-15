@@ -16,8 +16,7 @@ Hepatic toxicity: Hyperbilirubinemia, hepatic cholestasis, increases in liver en
 Hepatitis, including autoimmune hepatitis, and liver failure have been reported.
 (See PRECAUTIONS.)
 
-Skin: Alopecia, erythema nodosum, hyperpigmentation of nails, pruritus, toxic epidermal necrolysis, and vasculitis.
-Maculopapular and erythematous rashes.
+Skin: Alopecia, erythema nodosum, hyperpigmentation of nails, pruritus, toxic epidermal necrolysis, vasculitis, maculopapular rash and erythematou rash.
 Exfoliative dermatitis has been reported.
 Fixed drug eruptions have been reported.
 Lesions occurring on the glans penis have caused balanitis.
@@ -52,7 +51,7 @@ Cases of abnormal thyroid function have been reported.
 
 Tooth discoloration in children less than 8 years of age (see WARNINGS) and also, in adults has been reported.
 
-Oral cavity discoloration (including tongue, lip, and gum) have been reported.
+Oral cavity discoloration (including tongue, lip, and gum) has been reported.
 
 Tinnitus and decreased hearing have been reported in patients on MINOCIN.
 
@@ -65,7 +64,7 @@ Fever and lymphadenopathy may be present.
 
 Lupus-like syndrome consisting of positive antinuclear antibody; arthralgia, arthritis, joint stiffness, or joint swelling; and one or more of the following: fever, myalgia, hepatitis, rash, and vasculitis.
 
-Serum sickness-like syndrome consisting of fever; urticaria or rash; and arthralgia, arthritis, joint stiffness, or joint swelling.
+Serum sickness-like syndrome consisting of fever; urticaria or rash; and arthralgia, arthritis, joint stiffness, or joint swelling and lymphadenopathy.
 Eosinophilia may be present.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

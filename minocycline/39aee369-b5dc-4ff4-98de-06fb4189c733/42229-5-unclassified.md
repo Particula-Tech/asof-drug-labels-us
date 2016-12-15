@@ -8,7 +8,7 @@ The tetracyclines are primarily bacteriostatic and are thought to exert their an
 The tetracyclines, including minocycline, have a similar antimicrobial spectrum of activity against a wide range of gram-positive and gram-negative organisms.
 Cross-resistance of these organisms to tetracycline is common.
 
-List of Microorganisms
+Antimicrobial Activity
 
 Minocycline has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
 
@@ -28,7 +28,7 @@ Actinomyces species Borrelia recurrentis Chlamydophila psittaci Chlamydia tracho
 
 # Susceptibility Test Methods
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drugs used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug for treatment.
 
 Dilution techniques:
@@ -42,8 +42,7 @@ Diffusion techniques:
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized method2,3.
-This procedure uses paper disks impregnated with 30 μg tetracycline (class disk) or 30 μg minocycline to test the susceptibility of microorganisms to minocycline.
+The zone size should be determined using a standardized method.2,3 This procedure uses paper disks impregnated with 30 μg tetracycline (class disk) or 30 μg minocycline to test the susceptibility of microorganisms to minocycline.
 The disk diffusion interpretive criteria are provided in Table 1.
 
 Table 1: Susceptibility Test Interpretive Criteria for Minocycline and Tetracycline
@@ -51,7 +50,7 @@ Table 1: Susceptibility Test Interpretive Criteria for Minocycline and Tetracycl
 | Species | Minimal Inhibitory Concentration(mcg/mL) |  |  | Zone Diameter(mm) |  |  | Agar Dilution(mcg/mL) |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | S | I | R | S | I | R | S | I | R |
-| EnterobacteriaceaeOrganisms that are susceptible to tetracycline are also considered susceptible to minocycline. However some organisms that are intermediate or resistant to tetracycline may be susceptible to minocycline. |  |  |  |  |  |  |  |  |  |
+| EnterobacteriaceaeOrganisms that are susceptible to tetracycline are also considered susceptible to minocycline. However, some organisms that are intermediate or resistant to tetracycline may be susceptible to minocycline. |  |  |  |  |  |  |  |  |  |
 | Minocycline | ≤ 4 | 8 | ≥16 | ≥16 | 13 - 15 | ≤12 |  |  |  |
 | Tetracycline | ≤ 4 | 8 | ≥16 | ≥15 | 12 - 14 | ≤11 |  |  |  |
 | Acinetobacter |  |  |  |  |  |  |  |  |  |
@@ -59,7 +58,7 @@ Table 1: Susceptibility Test Interpretive Criteria for Minocycline and Tetracycl
 | Tetracycline | ≤4 | 8 | ≥16 | ≥15 | 12 - 14 | ≤11 |  |  |  |
 | Haemophilus influenzae |  |  |  |  |  |  |  |  |  |
 | Tetracycline | ≤2 | 4 | ≥8 | ≥29 | 26 - 28 | ≤25 |  |  |  |
-| Streptococcus pneumoniae’ |  |  |  |  |  |  |  |  |  |
+| Streptococcus pneumoniae |  |  |  |  |  |  |  |  |  |
 | Tetracycline | ≤1 | 2 | ≥4 | ≥28 | 25 - 27 | ≤24 |  |  |  |
 | Staphylococcus aureus |  |  |  |  |  |  |  |  |  |
 | Minocycline | ≤4 | 8 | ≥16 | ≥19 | 15 - 18 | ≤14 |  |  |  |
@@ -76,11 +75,11 @@ Table 1: Susceptibility Test Interpretive Criteria for Minocycline and Tetracycl
 | Yersinia pestis |  |  |  |  |  |  |  |  |  |
 | Tetracycline | ≤4 | 8 | ≥16 |  |  |  |  |  |  |
 
-A report of “Susceptible” indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of “Resistant” indicates that the antimicrobial drug is not likely to inhibit growth of the microorganism, if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the microorganism, if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 Quality Control
 

@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-MINOCIN® Pellet-Filled Capsules are supplied as capsules containing minocycline hydrochloride equivalent to 50 mg, 75 mg and 100 mg minocycline.
+MINOCIN Pellet-Filled Capsules are supplied as capsules containing minocycline hydrochloride equivalent to 50 mg, 75 mg and 100 mg minocycline.
 
 100 mg, two-piece, hard-shell capsule with an opaque light green cap and a transparent green body, printed in white ink with "Onset" over "M0100" on one half and "Onset" over "100 mg" on the other half.
 Each capsule contains pellets of minocycline HCl equivalent to 100 mg of minocycline, supplied as follows:

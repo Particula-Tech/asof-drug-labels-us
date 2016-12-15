@@ -1,6 +1,6 @@
 # Pregnancy
 
-Teratogenic Effects: Pregnancy Category D. (See WARNINGS.)
+Risk Summary
 
 All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
 There are no adequate and well-controlled studies on the use of minocycline in pregnant women.

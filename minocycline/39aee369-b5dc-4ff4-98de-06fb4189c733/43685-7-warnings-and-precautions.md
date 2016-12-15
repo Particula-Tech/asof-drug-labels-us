@@ -2,7 +2,7 @@
 
 Tooth Development
 
-Minocin, like other tetracycline-class antibiotics, can cause fetal harm when administered to a pregnant woman.
+MINOCIN, like other tetracycline-class antibiotics, can cause fetal harm when administered to a pregnant woman.
 If any tetracycline is used during pregnancy or if the patient becomes pregnant while taking these drugs, the patient should be apprised of the potential hazard to the fetus.
 The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy, and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).
 
@@ -28,7 +28,7 @@ If this syndrome is recognized, the drug should be discontinued immediately.
 
 Antianabolic Action
 
-The anti-anabolic action of the tetracyclines may cause an increase in BUN.
+The antianabolic action of the tetracyclines may cause an increase in BUN.
 While this is not a problem in those with normal renal function, in patients with significantly impaired function, higher serum levels of tetracycline may lead to azotemia, hyperphosphatemia, and acidosis.
 Under such conditions, monitoring of creatinine and BUN is recommended, and the total daily dosage should not exceed 200 mg in 24 hours.
 (See DOSAGE AND ADMINISTRATION.)
@@ -47,7 +47,7 @@ These symptoms may disappear during therapy and usually disappear rapidly when t
 
 Clostridium difficile Associated Diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including MINOCIN®, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including MINOCIN, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -60,10 +60,10 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Intracranial Hypertension
 
-Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including Minocin.
+Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including MINOCIN.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
 Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
-Concomitant use of isotretinoin and Minocin should be avoided because isotretinoin is also known to cause pseudotumor cerebri.
+Concomitant use of isotretinoin and MINOCIN should be avoided because isotretinoin is also known to cause pseudotumor cerebri.
 
 Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists.
 If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted.

@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-MINOCIN® Pellet-Filled Capsules are indicated in the treatment of the following infections due to susceptible strains of the designated microorganisms:
+MINOCIN Pellet-Filled Capsules are indicated in the treatment of the following infections due to susceptible strains of the designated microorganisms:
 
 Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsialpox and tick fevers caused by rickettsiae.
 Respiratory tract infections caused by Mycoplasma pneumoniae.
@@ -28,7 +28,7 @@ Acinetobacter species.
 Respiratory tract infections caused by Haemophilus influenzae.
 Respiratory tract and urinary tract infections caused by Klebsiella species.
 
-MINOCIN® Pellet-Filled Capsules are indicated for the treatment of infections caused by the following gram-positive microorganisms when bacteriologic testing indicates appropriate susceptibility to the drug:
+MINOCIN Pellet-Filled Capsules are indicated for the treatment of infections caused by the following gram-positive microorganisms when bacteriologic testing indicates appropriate susceptibility to the drug:
 
 Upper respiratory tract infections caused by Streptococcus pneumoniae.
 Skin and skin structure infections caused by Staphylococcus aureus.

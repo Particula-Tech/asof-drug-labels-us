@@ -3,7 +3,7 @@
 THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF MINOCYCLINE DIFFERS FROM THAT OF THE OTHER TETRACYCLINES.
 EXCEEDING THE RECOMMENDED DOSAGE MAY RESULT IN AN INCREASED INCIDENCE OF SIDE EFFECTS.
 
-MINOCIN® Pellet-Filled Capsules may be taken with or without food (See CLINICAL PHARMACOLOGY.)
+MINOCIN Pellet-Filled Capsules may be taken with or without food (See CLINICAL PHARMACOLOGY.)
 
 Ingestion of adequate amounts of fluids along with capsule and tablet forms of drugs in the tetracycline-class is recommended to reduce the risk of esophageal irritation and ulceration.
 The pellet-filled capsules should be swallowed whole.
@@ -14,7 +14,7 @@ Usual pediatric dose: 4 mg/kg initially followed by 2 mg/kg every 12 hours, not 
 
 Adults
 
-The usual dosage of MINOCIN® Pellet-Filled Capsules is 200 mg initially followed by 100 mg every 12 hours.
+The usual dosage of MINOCIN Pellet-Filled Capsules is 200 mg initially followed by 100 mg every 12 hours.
 Alternatively, if more frequent doses are preferred, two or four 50 mg pellet-filled capsules may be given initially followed by one 50 mg capsule 4 times daily.
 
 Uncomplicated gonococcal infections other than urethritis and anorectal infections in men: 200 mg initially, followed by 100 mg every 12 hours for a minimum of 4 days, with post-therapy cultures within 2 to 3 days.
@@ -35,5 +35,5 @@ Ingestion of adequate amounts of fluids along with capsule and tablet forms of d
 The pharmacokinetics of minocycline in patients with renal impairment (CLCR <80 mL/min) have not been fully characterized.
 Current data are insufficient to determine if a dosage adjustment is warranted.
 The total daily dosage should not exceed 200 mg in 24 hours.
-However, due to the anti-anabolic effect of tetracyclines, BUN and creatinine should be monitored.
+However, due to the antianabolic effect of tetracyclines, BUN and creatinine should be monitored.
 (See WARNINGS.)
