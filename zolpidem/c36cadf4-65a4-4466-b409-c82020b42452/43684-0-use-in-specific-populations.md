@@ -62,3 +62,8 @@ Given the higher blood levels of zolpidem tartrate in women compared to men at a
 
 In geriatric patients, clearance of zolpidem is similar in men and women.
 The recommended dose of AMBIEN in geriatric patients is 5 mg regardless of gender.
+
+## 8.7 Hepatic Impairment
+
+The recommended dose of AMBIEN in patients with mild to moderate hepatic impairment is 5 mg once daily immediately before bedtime.
+Avoid AMBIEN use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Warnings and Precautions (5.7), Clinical Pharmacology (12.3)].
