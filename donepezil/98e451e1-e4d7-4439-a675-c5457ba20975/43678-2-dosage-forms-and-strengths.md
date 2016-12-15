@@ -1,4 +1,4 @@
-# 3DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 ARICEPT is supplied as film-coated, round tablets containing 5 mg, 10 mg, or 23 mg of donepezil hydrochloride.
 

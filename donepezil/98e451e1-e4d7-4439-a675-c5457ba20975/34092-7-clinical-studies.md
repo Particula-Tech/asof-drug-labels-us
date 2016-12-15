@@ -1,4 +1,4 @@
-# 14CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Mild to Moderate Alzheimer’s Disease
 

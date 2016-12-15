@@ -1,4 +1,4 @@
-# 16HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ## 16.1 ARICEPT Tablets
 
@@ -9,14 +9,13 @@ The strength, in mg (5), is debossed on one side and ARICEPT is debossed on the 
 
 - Bottles of 30 (NDC# 62856-245-30)
 - Bottles of 90 (NDC# 62856-245-90)
-- Bottles of 1000 (NDC# 62856-245-11)
 - Unit Dose Blister Package 100 (10x10) (NDC# 62856-245-41)
 
 The 10 mg tablets are yellow.
 The strength, in mg (10), is debossed on one side and ARICEPT is debossed on the other side.
 
-- Bottles of 30 (NDC# 62856-246-30) Bottles of 90 (NDC# 62856-246-90)
-- Bottles of 1000 (NDC# 62856-246-11)
+- Bottles of 30 (NDC# 62856-246-30)
+- Bottles of 90 (NDC# 62856-246-90)
 - Unit Dose Blister Package 100 (10x10) (NDC# 62856-246-41)
 
 The 23 mg tablets are reddish in color.

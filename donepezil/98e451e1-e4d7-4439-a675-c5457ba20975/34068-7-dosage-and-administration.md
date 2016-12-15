@@ -1,4 +1,4 @@
-# 2DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Dosing in Mild to Moderate Alzheimer’s Disease
 

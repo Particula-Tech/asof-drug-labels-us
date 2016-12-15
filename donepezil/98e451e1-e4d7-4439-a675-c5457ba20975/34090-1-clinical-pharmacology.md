@@ -1,4 +1,4 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -38,7 +38,7 @@ Renal Disease In a study of 11 patients with moderate to severe renal impairment
 
 Age No formal pharmacokinetic study was conducted to examine age-related differences in the pharmacokinetics of ARICEPT.
 Population pharmacokinetic analysis suggested that the clearance of donepezil in patients decreases with increasing age.
-When compared with 65-year old, subjects, 90-year old subjects have a 17% decrease in clearance, while 40-year old subjects have a 33% increase in clearance.
+When compared with 65-year old subjects, 90-year old subjects have a 17% decrease in clearance, while 40-year old subjects have a 33% increase in clearance.
 The effect of age on donepezil clearance may not be clinically significant.
 
 Gender and Race No specific pharmacokinetic study was conducted to investigate the effects of gender and race on the disposition of ARICEPT.

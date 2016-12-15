@@ -1,4 +1,4 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
@@ -178,7 +178,7 @@ In this study, there were no important differences in the type of adverse reacti
 | Weight Loss | 5 | 3 |
 | Headache | 4 | 3 |
 | Insomnia | 3 | 2 |
-| Urinary incontinence | 3 | 1 |
+| Urinary Incontinence | 3 | 1 |
 | Asthenia | 2 | 1 |
 | Contusion | 2 | 0 |
 | Fatigue | 2 | 1 |
@@ -186,7 +186,7 @@ In this study, there were no important differences in the type of adverse reacti
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use ARICEPT.
+The following adverse reactions have been identified during post-approval use of ARICEPT.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Abdominal pain, agitation, aggression, cholecystitis, confusion, convulsions, hallucinations, heart block (all types), hemolytic anemia, hepatitis, hyponatremia, neuroleptic malignant syndrome, pancreatitis, rash, rhabdomyolysis, QTc prolongation, and torsade de pointes.

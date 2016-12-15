@@ -165,10 +165,10 @@ Inactive ingredients:
 - ARICEPT ODT 5 mg and 10 mg tablets: carrageenan, mannitol, colloidal silicon dioxide, and polyvinyl alcohol.
   The 10 mg tablet contains yellow iron oxide (synthetic) as a coloring agent.
 
-ARICEPT® is a registered trademark used by Eisai Inc. under license from Eisai R&D Management Co., Ltd
+ARICEPT® is a registered trademark used by Eisai Inc. under license from Eisai R&D Management Co., Ltd.
 
-Distributed by Eisai Inc., Woodcliff Lake, NJ 07677 Marketed by Pfizer Inc, New York, NY 10017
+Distributed by Eisai Inc., Woodcliff Lake, NJ 07677
 
 Rx Only
 
-© 2015 Eisai Inc.
+© 2016 Eisai Inc.
