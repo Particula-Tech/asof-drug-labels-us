@@ -7,7 +7,7 @@ Tablets must be swallowed whole and must not be chewed, crushed, or divided.
 
 Rash
 
-There are suggestions, yet to be proven, that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of LAMICTAL XR with valproate, (2) exceeding the recommended initial dose of lamictal XR, or (3) exceeding the recommended dose escalation for lamictal XR.
+There are suggestions, yet to be proven, that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of LAMICTAL XR with valproate, (2) exceeding the recommended initial dose of LAMICTAL XR, or (3) exceeding the recommended dose escalation for LAMICTAL XR.
 However, cases have occurred in the absence of these factors [see Boxed Warning].
 Therefore, it is important that the dosing recommendations be followed closely.
 

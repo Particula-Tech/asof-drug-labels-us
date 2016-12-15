@@ -243,8 +243,8 @@ CAUTION: Verify Product Dispensed
 
 ©2015, the GSK group of companies
 
-- 10000000131958 Rev.
-  1/15
+1. 10000000131958 Rev.
+   1/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -290,8 +290,8 @@ CAUTION: Verify Product Dispensed
 
 ©2015, the GSK group of companies
 
-- 10000000131957 Rev.
-  1/15
+1. 10000000131957 Rev.
+   1/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -337,8 +337,8 @@ CAUTION: Verify Product Dispensed
 
 ©2015, the GSK group of companies
 
-- 10000000131959 Rev.
-  1/15
+1. 10000000131959 Rev.
+   1/15
 
 PRINCIPAL DISPLAY PANEL
 

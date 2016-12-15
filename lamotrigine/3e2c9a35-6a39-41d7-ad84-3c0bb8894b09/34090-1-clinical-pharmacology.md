@@ -64,7 +64,7 @@ Steady-State Bioavailability of LAMICTAL XR Relative to Immediate-Release Lamotr
 | Valproate | 0.94 (0.81, 1.08) | 0.88 (0.75, 1.03) | 0.99 (0.88, 1.10) |
 | Antiepileptic drugs other than enzyme-inducing antiepileptic drugsa or valproate | 1.00 (0.88, 1.14) | 0.89 (0.78, 1.03) | 1.14 (1.03, 1.25) |
 
-- a Enzyme-inducing antiepileptic drugs include carbamazepine, phenytoin, phenobarbital, and primidone.
+1. a Enzyme-inducing antiepileptic drugs include carbamazepine, phenytoin, phenobarbital, and primidone.
 
 Dose Proportionality
 
@@ -172,8 +172,9 @@ Summary of Drug Interactions with Lamotrigine
 - fCompared with historical controls.
 - gNot administered, but an active metabolite of carbamazepine.
 - hNot administered, but an active metabolite of oxcarbazepine.
-- i Not administered, but an active metabolite of risperidone.
-- jSlight increase, not expected to be clinically meaningful.
+
+1. i Not administered, but an active metabolite of risperidone.
+2. jSlight increase, not expected to be clinically meaningful.
 
 ↔ = No significant effect.
 

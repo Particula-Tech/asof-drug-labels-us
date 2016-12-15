@@ -9,8 +9,8 @@ If you have questions about LAMICTAL XR, ask your healthcare provider or pharmac
 
 What is the most important information I should know about LAMICTAL XR?
 
-- 1.
-  LAMICTAL XR may cause a serious skin rash that may cause you to be hospitalized or even cause death.
+1. 1.
+   LAMICTAL XR may cause a serious skin rash that may cause you to be hospitalized or even cause death.
 
 There is no way to tell if a mild rash will become more serious.
 A serious skin rash can happen at any time during your treatment with LAMICTAL XR, but is more likely to happen within the first 2 to 8 weeks of treatment.
@@ -33,21 +33,21 @@ Call your healthcare provider right away if you have any of the following:
 These symptoms may be the first signs of a serious skin reaction.
 A healthcare provider should examine you to decide if you should continue taking LAMICTAL XR.
 
-- 2.
-  Other serious reactions, including serious blood problems or liver problems.
-  LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
-  You may or may not have a rash with these types of reactions.
-  Call your healthcare provider right away if you have any of these symptoms:
-- •fever
-- •frequent infections
-- •severe muscle pain
-- •swelling of your face, eyes, lips, or tongue
-- •swollen lymph glands
-- •unusual bruising or bleeding
-- •weakness, fatigue
-- •yellowing of your skin or the white part of your eyes
-- 3.
-  Like other antiepileptic drugs, LAMICTAL XR may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+1. 2.
+   Other serious reactions, including serious blood problems or liver problems.
+   LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
+   You may or may not have a rash with these types of reactions.
+   Call your healthcare provider right away if you have any of these symptoms:
+2. •fever
+3. •frequent infections
+4. •severe muscle pain
+5. •swelling of your face, eyes, lips, or tongue
+6. •swollen lymph glands
+7. •unusual bruising or bleeding
+8. •weakness, fatigue
+9. •yellowing of your skin or the white part of your eyes
+10. 3.
+    Like other antiepileptic drugs, LAMICTAL XR may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -99,8 +99,8 @@ For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of LAMICTAL XR?”
 
-- 5.
-  Patients prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL XR.
+1. 5.
+   Patients prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL XR.
 
 Taking the wrong medication can cause serious health problems.
 When your healthcare provider gives you a prescription for LAMICTAL XR:
@@ -204,9 +204,7 @@ Common side effects of LAMICTAL XR include:
 
 Other common side effects that have been reported with another form of LAMICTAL include headache, sleepiness, blurred vision, runny nose, and rash.
 
-Tell your healthcare provider about any side effe
-
-ct that bothers you or that does not go away.
+Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of LAMICTAL XR.
 For more information, ask your healthcare provider or pharmacist.
@@ -233,7 +231,7 @@ This Medication Guide summarizes the most important information about LAMICTAL X
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about LAMICTAL XR that is written for healthcare professionals.
 
-For more information, go to www.lamictalxr.com or call 1-888-825-5249.
+For more information, call 1-888-825-5249.
 
 What are the ingredients in LAMICTAL XR?
 
@@ -252,9 +250,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2015, the GSK group of companies.
+©2016 the GSK group of companies.
 All rights reserved.
 
-March 2015
+December 2016
 
-LXR:15MG
+LXR:16MG
