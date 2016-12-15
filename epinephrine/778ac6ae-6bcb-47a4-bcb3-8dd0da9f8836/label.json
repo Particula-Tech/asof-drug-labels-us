@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA019430"
+  ],
+  "inn": "epinephrine",
+  "labeler": "Mylan Specialty L.P.",
+  "package_ndcs": [
+    "49502-101-01",
+    "49502-101-02",
+    "49502-102-01",
+    "49502-102-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine",
+      "name": "Epinephrine"
+    }
+  ],
+  "setid": "778ac6ae-6bcb-47a4-bcb3-8dd0da9f8836",
+  "source": "dailymed"
+}
