@@ -8,8 +8,4 @@ No specific antidote for omeprazole overdosage is known.
 Omeprazole is extensively protein bound and is, therefore, not readily dialyzable.
 In the event of overdosage, treatment should be symptomatic and supportive.
 
-As with the management of any overdose, the possibility of multiple drug ingestion should be considered.
-For current information on treatment of any drug overdose, contact a Poison Control Center at 1-800-222-1222.
-
-Single oral doses of omeprazole at 1350, 1339, and 1200 mg/kg were lethal to mice, rats, and dogs, respectively.
-Animals given these doses showed sedation, ptosis, tremors, convulsions, and decreased activity, body temperature, and respiratory rate and increased depth of respiration.
+If over-exposure occurs, call your Poison Control Center at 1-800-222-1222 for current information on the management of poisoning or overdosage.

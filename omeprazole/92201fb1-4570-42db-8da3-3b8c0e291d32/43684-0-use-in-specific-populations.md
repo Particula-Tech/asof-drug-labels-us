@@ -2,22 +2,19 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category C
-
-Pregnancy Category C
-
-#### Risk Summary
-
 Risk Summary
 
 There are no adequate and well-controlled studies with Omeprazole Delayed-Release Capsules in pregnant women.
 Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use.
+Reproduction studies in rats and rabbits resulted in dose-dependent embryo-lethality at omeprazole doses that were approximately 3.4 to 34 times an oral human dose of 40 mg (based on a body surface area for a 60 kg person).
 
-Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole magnesium in rats and rabbits with doses about 68 times and 42 times, respectively, an oral human dose of 40 mg (based on a body surface area basis foe a 60 kg person).
-However, changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 34 times an oral human dose of 40 mg (see Animal Data).
-Because of the observed effect at high doses of esomeprazole magnesium on developing bone in rat studies, Omeprazole Delayed-Release Capsules should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole (an enantiomer of omeprazole) magnesium in rats and rabbits during organogenesis with doses about 68 times and 42 times, respectively, an oral human dose of 40 mg esomeprazole or 40 mg omeprazole (based on body surface area for a 60 kg person).
+However, changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 34 times an oral human dose of 40 mg esomeprazole or 40 mg omeprazole [see Data].
 
-#### Human Data
+The estimated background risks of major birth defects and miscarriage for the indicated population are unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Data
 
 Human Data
 
@@ -39,46 +36,69 @@ Rates of spontaneous and elective abortions, preterm deliveries, gestational age
 
 Several studies have reported no apparent adverse short-term effects on the infant when single dose oral or intravenous omeprazole was administered to over 200 pregnant women as premedication for cesarean section under general anesthesia.
 
-#### Animal Data
-
 Animal Data
 
-Reproductive studies conducted with omeprazole in rats at oral doses up to 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at doses up to 69 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis) did not disclose any evidence for a teratogenic potential of omeprazole.
-In rabbits, omeprazole in a dose range of 6.9 to 69.1 mg/kg/day (about 3.4 to 34 times an oral human dose of 40 mg on a body surface area basis) produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy disruptions.
-In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138.0 mg/kg/day (about 3.4 to 34 times an oral human doses of 40 mg on a body surface area basis).
+Omeprazole
 
-Reproduction studies have been performed with esomeprazole magnesium in rats at oral doses up to 280 mg/kg/day (about 68 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at oral doses up to 86 mg/kg/day (about 42 times an oral human dose of 40 mg on a body surface area basis) and have revealed no evidence of impaired fertility or harm to the fetus due to esomeprazole magnesium.
+Reproductive studies conducted with omeprazole in rats at oral doses up to 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at doses up to 69.1 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis) during organogenesis did not disclose any evidence for a teratogenic potential of omeprazole.
+In rabbits, omeprazole in a dose range of 6.9 to 69.1 mg/kg/day (about 3.4 to 34 times an oral human dose of 40 mg on a body surface area basis) administered during organogenesis produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy disruptions.
+In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138.0 mg/kg/day (about 3.4 to 34 times an oral human doses of 40 mg on a body surface area basis), administered prior to mating through the lactation period.
 
-A pre- and postnatal developmental toxicity study in rats with additional endpoints to evaluate bone development was performed with esomeprazole magnesium at oral doses of 14 to 280 mg/kg/day (about 3.4 to 68 times an oral human dose of 40 mg on a body surface area basis).
-Neonatal/early postnatal (birth to weaning) survival was decreased at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis).
-Body weight and body weight gain were reduced and neurobehavioral or general developmental delays in the immediate post-weaning timeframe were evident at doses equal to or greater than 69 mg/kg/day (about 17 times an oral human dose of 40 mg on a body surface area basis).
-In addition, decreased femur length, width and thickness of cortical bone, decreased thickness of the tibial growth plate and minimal to mild bone marrow hypocellularity were noted at doses equal to or greater than 14 mg/kg/day (about 3.4 times an oral human dose of 40 mg on a body surface area basis).
-Physeal dysplasia in the femur was observed in offspring of rats treated with oral doses of esomeprazole magnesium at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis).
+Esomeprazole
 
-Effects on maternal bone were observed in pregnant and lactating rats in the pre- and postnatal toxicity study when esomeprazole magnesium was administered at oral doses of 14 to 280 mg/kg/day (about 3.4 to 68 times an oral human dose of 40 mg on a body surface area basis).
-When rats were dosed from gestational day 7 through weaning on postnatal day 21, a statistically significant decrease in maternal femur weight of up to 14% (as compared to placebo treatment) was observed at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis).
+The data described below was generated from studies using esomeprazole, an enantiomer of omeprazole.
+The animal to human dose multiples are based on the assumption of equal systemic exposure to esomeprazole in humans following oral administration of either 40 mg esomeprazole or 40 mg omeprazole.
+
+No effects on embryo-fetal development were observed in reproduction studies with esomeprazole magnesium in rats at oral doses up to 280 mg/kg/day (about 68 times an oral human dose of 40 mg on a body surface area basis) or in rabbits at oral doses up to 86 mg/kg/day (about 42 times an oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis) administered during organogenesis.
+
+A pre- and postnatal developmental toxicity study in rats with additional endpoints to evaluate bone development was performed with esomeprazole magnesium at oral doses of 14 to 280 mg/kg/day (about 3.4 to 68 times an oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis).
+Neonatal/early postnatal (birth to weaning) survival was decreased at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis).
+Body weight and body weight gain were reduced and neurobehavioral or general developmental delays in the immediate post-weaning timeframe were evident at doses equal to or greater than 69 mg/kg/day (about 17 times an oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis).
+In addition, decreased femur length, width and thickness of cortical bone, decreased thickness of the tibial growth plate and minimal to mild bone marrow hypocellularity were noted at doses equal to or greater than 14 mg/kg/day (about 3.4 times an oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis).
+Physeal dysplasia in the femur was observed in offspring of rats treated with oral doses of esomeprazole magnesium at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis).
+
+Effects on maternal bone were observed in pregnant and lactating rats in the pre- and postnatal toxicity study when esomeprazole magnesium was administered at oral doses of 14 to 280 mg/kg/day (about 3.4 to 68 times an oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis).
+When rats were dosed from gestational day 7 through weaning on postnatal day 21, a statistically significant decrease in maternal femur weight of up to 14% (as compared to placebo treatment) was observed at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis.)
 
 A pre- and postnatal development study in rats with esomeprazole strontium (using equimolar doses compared to esomeprazole magnesium study) produced similar results in dams and pups as described above.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Omeprazole is present in human milk.
-Omeprazole concentrations were measured in breast milk of a woman following oral administration of 20 mg.
-The peak concentration of omeprazole in breast milk was less than 7% of the peak serum concentration.
-This concentration would correspond to 0.004 mg of omeprazole in 200 mL of milk.
-Caution should be exercised when Omeprazole Delayed-Release Capsules is administered to a nursing woman.
+Risk Summary
+
+Limited data suggest omeprazole may be present in human milk.
+There is no information on the effects of omeprazole on the breastfed infant or on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Omeprazole Delayed-Release Capsules and any potential adverse effects on the breastfed infant from Omeprazole Delayed-Release Capsules or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Use of Omeprazole Delayed-Release Capsules in pediatric and adolescent patients 2 to 16 years of age for the treatment of GERD and maintenance of healing of erosive esophagitis is supported by a) extrapolation of results from adequate and well-controlled studies that supported the approval of Omeprazole Delayed-Release Capsules for adults, and b) safety and pharmacokinetic studies performed in pediatric and adolescent patients.
-[see Clinical Pharmacology, Pharmacokinetics, Pediatric for pharmacokinetic information (12.3) and Dosage and Administration (2), Adverse Reactions (6.1) and Clinical Studies (14.6)].
-The safety and effectiveness of Omeprazole Delayed-Release Capsules for the treatment of GERD in patients < 1 year of age have not been established.
-The safety and effectiveness of Omeprazole Delayed-Release Capsules for other pediatric uses have not been established.
+The safety and effectiveness of Omeprazole Delayed-Release Capsules have been established in pediatric patients 1 to 16 years for the treatment of symptomatic GERD, treatment of EE due to acid-mediated GERD, and maintenance of healing of EE due to acid-mediated GERD.
+Use of Omeprazole Delayed-Release Capsules in this age group is supported by adequate and well-controlled studies in adults and uncontrolled safety, efficacy and pharmacokinetic studies performed in pediatric and adolescent patients [see Clinical Pharmacology (12.3), Clinical Studies (14.8)].
+
+The safety and effectiveness of Omeprazole Delayed-Release Capsules in pediatric patients < 1 year of age have not been established (8.4).
+
+In the pediatric population, adverse reactions of the respiratory system were frequently reported in the entire (1 year to 16 year) age group.
+Fever was frequently reported in the 1 to <2 year age group, and accidental injuries were frequently reported in the 2 to 16 year age group [see Adverse Reactions (6.1)].
+
+The safety and effectiveness of Omeprazole Delayed-Release Capsules have not been established in:
+
+- patients less than 1 year of age for any indication.
+- pediatric patients for:
+  - Treatment of active duodenal ulcer
+  - H. pylori eradication to reduce the risk of duodenal ulcer recurrence
+  - Treatment of active benign gastric ulcer
+  - Pathological hypersecretory conditions
+- patients less than 1 month of age for any indication
 
 Juvenile Animal Data
 
-In a juvenile rat toxicity study, esomeprazole was administered with both magnesium and strontium salts at oral doses about 34 to 68 times a daily human dose of 40 mg based on body surface area.
-Increases in death were seen at the high dose, and at all doses of esomeprazole, there were decreases in body weight, body weight gain, femur weight and femur length, and decreases in overall growth [see Nonclinical Toxicology (13.2)].
+Esomeprazole, an enantiomer of omeprazole, was shown to decrease body weight, body weight gain, femur weight, femur length, and overall growth at oral doses about 34 to 68 times a daily human dose of 40 mg esomeprazole or 40 mg omeprazole based on body surface area in a juvenile rat toxicity study.
+The animal to human dose multiples are based on the assumption of equal systemic exposure to esomeprazole in humans following oral administration of either 40 mg esomeprazole or 40 mg omeprazole.
+
+A 28-day toxicity study with a 14-day recovery phase was conducted in juvenile rats with esomeprazole magnesium at doses of 70 to 280 mg/kg/day (about 17 to 68 times a daily oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis).
+An increase in the number of deaths at the high dose of 280 mg/kg/day was observed when juvenile rats were administered esomeprazole magnesium from postnatal day 7 through postnatal day 35.
+In addition, doses equal to or greater than 140 mg/kg/day (about 34 times a daily oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis), produced treatment-related decreases in body weight (approximately 14%) and body weight gain, decreases in femur weight and femur length, and affected overall growth.
+Comparable findings described above have also been observed in this study with another esomeprazole salt, esomeprazole strontium, at equimolar doses of esomeprazole.
 
 ## 8.5 Geriatric Use
 
@@ -92,12 +112,10 @@ However, no dosage adjustment is necessary in the elderly [see Clinical Pharmaco
 
 ## 8.6 Hepatic Impairment
 
-Consider dose reduction, particularly for maintenance of healing of erosive esophagitis [see Clinical Pharmacology (12.3)].
+In patients with hepatic impairment (Child-Pugh Class A, B, or C) exposure to omeprazole substantially increased compared to healthy subjects.
+Dosage reduction of Omeprazole Delayed-Release Capsules to 10 mg once daily is recommended for patients with hepatic impairment for maintenance of healing of EE [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].
 
-## 8.7 Renal Impairment
+## 8.7 Asian Population
 
-No dosage reduction is necessary [see Clinical Pharmacology (12.3)].
-
-## 8.8 Asian Population
-
-Consider dose reduction, particularly for maintenance of healing of erosive esophagitis [see Clinical Pharmacology (12.3)].
+In studies of healthy subjects, Asians had approximately a four-fold higher exposure than Caucasians.
+Dosage reduction of Omeprazole Delayed-Release Capsules to 10 mg once daily is recommended for Asian patients for maintenance of healing of EE [see Dosage and Administration (2.1), Clinical Pharmacology (12.5)].

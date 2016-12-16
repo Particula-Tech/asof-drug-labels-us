@@ -7,64 +7,61 @@ Patients should be informed that the Omeprazole Delayed-Release Capsule should b
 
 For patients unable to swallow an intact capsule, alternative administration options are available [see Dosage and Administration (2.8)].
 
-## 2.1 Short-Term Treatment of Active Duodenal Ulcer
+## 2.1 Recommended Adult Dosage Regimen by Indication
 
-The recommended adult oral dose of Omeprazole Delayed-Release Capsules is 20 mg once daily.
-Most patients heal within four weeks.
-Some patients may require an additional four weeks of therapy.
+Table 1 shows the recommended dosage of Omeprazole Delayed-Release Capsules in adult patients by indication.
 
-## 2.2 H. pylori Eradication for the Reduction of the Risk of Duodenal Ulcer Recurrence
+Table 1: Recommended Dosage Regimen of Omeprazole Delayed-Release Capsules in Adults by Indication
 
-Triple Therapy (Omeprazole Delayed-Release Capsules/clarithromycin/amoxicillin) — The recommended adult oral regimen is Omeprazole Delayed-Release Capsules 20 mg plus clarithromycin 500 mg plus amoxicillin 1000 mg each given twice daily for 10 days.
-In patients with an ulcer present at the time of initiation of therapy, an additional 18 days of Omeprazole Delayed-Release Capsules 20 mg once daily is recommended for ulcer healing and symptom relief.
+| Indication | Dosage of Omeprazole Delayed-Release Capsules | Treatment Duration |
+| --- | --- | --- |
+| Treatment of Active Duodenal Ulcer | 20 mg once daily | 4 weeks1 |
+| Helicobacter pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence | Triple TherapyOmeprazole Delayed-Release Capsules 20 mgAmoxicillin 1000 mgClarithromycin 500 mg Take all three drugs twice daily | 10 days In patients with an ulcer present at the time of initiation of therapy, continue Omeprazole Delayed-Release Capsules 20 mg once daily for an additional 18 days for ulcer healing and symptom relief. |
+|  | Dual Therapy Omeprazole Delayed-Release Capsules 40 mg once daily Clarithromycin 500 mg three times daily | 14 days In patients with an ulcer present at the time of initiation of therapy, an additional 14 days of Omeprazole Delayed-Release Capsules 20 mg once daily is recommended for ulcer healing and symptom relief. |
+| Active Benign Gastric Ulcer | 40 mg once daily | 4 to 8 weeks |
+| Treatment of Symptomatic GERD | 20 mg once daily | Up to 4 weeks |
+| Maintenance of Healing of EE due to Acid-Mediated GERD | 20 mg once daily | 4 to 8 weeks2 |
+| Pathological Hypersecretory Conditions | 20 mg once daily3 | Controlled studies do not extend beyond 12 months. |
+| 1. Most patients heal within 4 weeks; some patients may require an additional 4 weeks of therapy to achieve healing.2. The efficacy of Omeprazole Delayed-Release Capsules used for longer than 8 weeks in patients with EE has not been established. If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given. If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of Omeprazole Delayed-Release Capsules may be considered.3. Dosage reduction to 10 mg once daily is recommended for patients with hepatic impairment (Child-Pugh Class A, B or C) and Asian patients when used for the maintenance of healing of EE [see Use in Specific Populations (8.6, 8.7) and Clinical Pharmacology (12.3, 12.5)]. |  |  |
 
-Dual Therapy (Omeprazole Delayed-Release Capsules /clarithromycin) — The recommended adult oral regimen is Omeprazole Delayed-Release Capsules 40 mg once daily plus clarithromycin 500 mg three times daily for 14 days.
-In patients with an ulcer present at the time of initiation of therapy, an additional 14 days of Omeprazole Delayed-Release Capsules 20 mg once daily is recommended for ulcer healing and symptom relief.
+## 2.2 Recommended Pediatric Dosage Regimen by Indication
 
-## 2.3 Gastric Ulcer
+Table 2 shows the recommended dosage of Omeprazole Delayed-Release Capsules in pediatric patients by indication.
 
-The recommended adult oral dose is 40 mg once daily for 4-8 weeks.
+Table 2: Recommended Dosage Regimen of Omeprazole Delayed-Release Capsules in Pediatric Patients by Indication
 
-## 2.4 Gastroesophageal Reflux Disease (GERD)
+| Indication | Omeprazole Delayed-Release Capsules Dosage Regimen and Duration |  |  |
+| --- | --- | --- | --- |
+| Patient Age | Weight-Based Dose (mg) | Regimen and Duration |  |
+| Treatment of Symptomatic GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg | Once daily for up to 4 weeks |
+| 10 to less than 20 kg: 10 mg |  |  |  |
+| 20 kg and greater: 20 mg |  |  |  |
+| Treatment of EE due to Acid-Mediated GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg | Once daily for 4 to 8 weeks1 |
+| 10 to less than 20 kg: 10 mg |  |  |  |
+| 20 kg and greater: 20 mg |  |  |  |
+| Maintenance of Healing of EE due to Acid-Mediated GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg | Once daily. Controlled studies do not extend beyond 12 months |
+| 10 to less than 20 kg: 10 mg |  |  |  |
+| 20 kg and greater: 20 mg |  |  |  |
+| 1. The efficacy of Omeprazole Delayed-Release Capsules used for longer than 8 weeks in patients with EE has not been established. If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given. If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of Omeprazole Delayed-Release Capsules may be considered. |  |  |  |
 
-The recommended adult oral dose for the treatment of patients with symptomatic GERD and no esophageal lesions is 20 mg daily for up to 4 weeks.
-The recommended adult oral dose for the treatment of patients with erosive esophagitis and accompanying symptoms due to GERD is 20 mg daily for 4 to 8 weeks.
+## 2.3 Administration Instructions
 
-## 2.5 Maintenance of Healing of Erosive Esophagitis
+- Take Omeprazole Delayed-Release Capsules before meals.
+- Antacids may be used concomitantly with Omeprazole Delayed-Release Capsules.
+- Missed doses: If a dose is missed, administer as soon as possible.
+  However, if the next scheduled dose is due, do not take the missed dose, and take the next dose on time.
+  Do not take two doses at one time to make up for a missed dose.
 
-The recommended adult oral dose is 20 mg daily.
-Controlled studies do not extend beyond 12 months [see Clinical Studies (14.4)].
+Omeprazole Delayed-Release Capsules
 
-## 2.6 Pathological Hypersecretory Conditions
+- Swallow Omeprazole Delayed-Release Capsules whole; do not chew.
+- For patients unable to swallow an intact capsule, Omeprazole Delayed-Release Capsules can be opened and administered as follows:
 
-The dosage of Omeprazole Delayed-Release Capsules in patients with pathological hypersecretory conditions varies with the individual patient.
-The recommended adult oral starting dose is 60 mg once daily.
-Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated.
-Doses up to 120 mg three times daily have been administered.
-Daily dosages of greater than 80 mg should be administered in divided doses.
-Some patients with Zollinger-Ellison syndrome have been treated continuously with Omeprazole Delayed-Release Capsules for more than 5 years.
-
-## 2.7 Pediatric Patients
-
-For the treatment of GERD and maintenance of healing of erosive esophagitis, the recommended daily dose for pediatric patients 2 to 16 years of age is as follows:
-
-| Patient Weight | Omeprazole Daily Dose |
-| --- | --- |
-| 10 < 20 kg | 10 mg |
-| ≥ 20 kg | 20 mg |
-
-On a per kg basis, the doses of omeprazole required to heal erosive esophagitis in pediatric patients are greater than those for adults.
-
-Alternative administrative options can be used for pediatric patients unable to swallow an intact capsule [see Dosage and Administration (2.8)].
-
-## 2.8 Alternative Administration Options
-
-Omeprazole Delayed-Release Capsule is available as a delayed-release capsule.
-
-For patients who have difficulty swallowing capsules, the contents of an Omeprazole Delayed-Release Capsule can be added to applesauce.
-One tablespoon of applesauce should be added to an empty bowl and the capsule should be opened.
-All of the microtablets inside the capsule should be carefully emptied on the applesauce.
-The microtablets should be mixed with the applesauce and then swallowed immediately with a glass of cool water to ensure complete swallowing of the microtablets.
-The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
-The microtablets should not be chewed or crushed.
-The microtablets/applesauce mixture should not be stored for future use.
+1. Place one tablespoon of applesauce into a clean container (e.g., empty bowl).
+   The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
+2. Open the capsule.
+3. Carefully empty all of the microtablets inside the capsule on the applesauce.
+4. Mix the microtablets with the applesauce.
+5. Swallow applesauce and microtablets immediately with a glass of cool water to ensure complete swallowing of the pellets.
+   Do not chew or crush the microtablets.
+   Do not save the applesauce and microtablets for future use.
