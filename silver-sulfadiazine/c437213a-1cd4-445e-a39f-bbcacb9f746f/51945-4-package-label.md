@@ -8,38 +8,42 @@ SILVADENE® CREAM 1% (silver sulfadiazine)
 
 FOR TOPICAL USE ONLY.
 
-DOSAGE AND USE See accompanying prescribing information.
+Avoid contact with the eye.
+
+DOSAGE AND USE
+
+See accompanying prescribing information.
 
 KEEP OUT OF REACH OF CHILDREN
 
-Store at controlled room temperature 59°–86°F (15°–30°C).
-
-Rx only
+Store at Controlled Room Temperature 20° to 25° (68° to 77°F).
 
 Pfizer Injectables
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 20 gram Tube Carton
 
-NDC 61570-131-20
-
 SILVADENE® CREAM 1% (silver sulfadiazine)
+
+NDC 61570-131-20
 
 20 grams
 
-Rx only
-
 Pfizer Injectables
 
-# PRINCIPAL DISPLAY PANEL - 50 g Jar Label
+Rx only
 
-NDC 61570-131-50
+# PRINCIPAL DISPLAY PANEL - 50 gram Jar Label
 
 SILVADENE® CREAM 1% (silver sulfadiazine)
 
+NDC 61570-131-50
+
 50 grams
 
-FOR TOPICAL USE ONLY
-
-Rx only
+FOR TOPICAL USE ONLY Avoid contact with the eye.
 
 Pfizer Injectables
+
+Rx only
