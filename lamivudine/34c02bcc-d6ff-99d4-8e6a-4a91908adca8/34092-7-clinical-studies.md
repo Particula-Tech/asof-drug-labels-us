@@ -5,12 +5,12 @@ Information from trials with clinical endpoints or a combination of CD4+ cell co
 
 ## 14.1 Adult Subjects
 
-Clinical Endpoint Trial NUCB3007 (CAESAR) was a multi-center, double-blind, placebo-controlled trial comparing continued current therapy (zidovudine alone [62% of subjects] or zidovudine with didanosine or zalcitabine [38% of subjects]) to the addition of lamivudine or lamivudine plus an investigational non-nucleoside reverse transcriptase inhibitor (NNRTI), randomized 1:2:1.
+Clinical Endpoint Trial NUCB3007 (CAESAR) was a multicenter, double-blind, placebo-controlled trial comparing continued current therapy (zidovudine alone [62% of subjects] or zidovudine with didanosine or zalcitabine [38% of subjects]) to the addition of lamivudine or lamivudine plus an investigational non-nucleoside reverse transcriptase inhibitor (NNRTI), randomized 1:2:1.
 A total of 1,816 HIV-1-infected adults with 25 to 250 CD4+ cells per mm3 (median = 122 cells per mm3) at baseline were enrolled: median age was 36 years, 87% were male, 84% were nucleoside-experienced, and 16% were therapy-naive.
 The median duration on trial was 12 months.
-Results are summarized in Table 8.
+Results are summarized in Table 9.
 
-Table 8.
+Table 9.
 Number of Subjects (%) with at Least One HIV-1 Disease Progression Event or Death
 
 | Endpoint | Current Therapy(n = 460) | Lamivudine plusCurrent Therapy(n = 896) | Lamivudineplus anNNRTIa plus CurrentTherapy(n = 460) |
@@ -24,18 +24,18 @@ Surrogate Endpoint Trials Dual Nucleoside Analogue Trials Principal clinical tri
 These trials demonstrated the antiviral effect of lamivudine in a 2-drug combination.
 More recent uses of lamivudine in treatment of HIV-1 infection incorporate it into multiple-drug regimens containing at least 3 antiretroviral drugs for enhanced viral suppression.
 
-Dose Regimen Comparison Surrogate Endpoint Trials in Therapy-naive Adults EPV20001 was a multi-center, double-blind, controlled trial in which subjects were randomized 1:1 to receive lamivudine 300 mg once daily or lamivudine 150 mg twice daily, in combination with zidovudine 300 mg twice daily and efavirenz 600 mg once daily.
+Dose Regimen Comparison Surrogate Endpoint Trials in Therapy- Naive Adults EPV20001 was a multicenter, double-blind, controlled trial in which subjects were randomized 1:1 to receive lamivudine 300 mg once daily or lamivudine 150 mg twice daily, in combination with zidovudine 300 mg twice daily and efavirenz 600 mg once daily.
 A total of 554 antiretroviral treatment-naive HIV-1-infected adults enrolled: male (79%), white (50%), median age of 35 years, baseline CD4+ cell counts of 69 to 1,089 cells per mm3 (median = 362 cells per mm3), and median baseline plasma HIV-1 RNA of 4.66 log10 copies per mL.
-Outcomes of treatment through 48 weeks are summarized in Figure 1 and Table 9.
+Outcomes of treatment through 48 weeks are summarized in Figure 1 and Table 10.
 
 Figure 1.
-Virologic Response through Week 48, EPV20001ab (Intent-to-Treat)
+Virologic Response through Week 48, EPV20001a,b (Intent-to-Treat)
 
 aRoche AMPLICOR HIV-1 MONITOR.
 
 bResponders at each visit are subjects who had achieved and maintained HIV-1 RNA less than 400 copies per mL without discontinuation by that visit.
 
-Table 9.
+Table 10.
 Outcomes of Randomized Treatment through 48 Weeks (Intent-to-Treat)
 
 | Outcome | Lamivudine 300 mgOnce Dailyplus RETROVIRplus Efavirenz(n = 278) | Lamivudine150 mgTwice Dailyplus RETROVIRplus Efavirenz(n = 276) |
@@ -62,14 +62,14 @@ In intent-to-treat analyses of 48-week data, the proportions of subjects with HI
 
 ## 14.2 Pediatric Subjects
 
-Clinical Endpoint Trial ACTG300 was a multi-center, randomized, double-blind trial that provided for comparison of lamivudine plus RETROVIR (zidovudine) with didanosine monotherapy.
+Clinical Endpoint Trial ACTG300 was a multicenter, randomized, double-blind trial that provided for comparison of lamivudine plus RETROVIR (zidovudine) with didanosine monotherapy.
 A total of 471 symptomatic, HIV-1-infected therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects were enrolled in these 2 treatment arms.
 The median age was 2.7 years (range: 6 weeks to 14 years), 58% were female, and 86% were non-white.
 The mean baseline CD4+ cell count was 868 cells per mm3 (mean: 1,060 cells per mm3 and range: 0 to 4,650 cells per mm3 for subjects aged less than or equal to 5 years; mean: 419 cells per mm3 and range: 0 to 1,555 cells per mm3 for subjects aged over 5 years) and the mean baseline plasma HIV-1 RNA was 5.0 log10 copies per mL.
 The median duration on trial was 10.1 months for the subjects receiving lamivudine tablets plus RETROVIR and 9.2 months for subjects receiving didanosine monotherapy.
-Results are summarized in Table 10.
+Results are summarized in Table 11.
 
-Table 10.
+Table 11.
 Number of Subjects (%) Reaching a Primary Clinical Endpoint (Disease Progression or Death)
 
 | Endpoint | Lamivudine plus RETROVIR(n = 236) | Didanosine(n = 235) |

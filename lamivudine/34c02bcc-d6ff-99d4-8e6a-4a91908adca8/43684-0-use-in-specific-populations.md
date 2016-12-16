@@ -32,7 +32,8 @@ Because of the potential for HIV-1 transmission mothers should be instructed not
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of lamivudine tablets in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older [see Dosage and Administration (2.2), Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+The safety and effectiveness of lamivudine tablets in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older.
+Lamivudine scored tablet is the preferred formulation for HIV-1-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate because pediatric subjects who received EPIVIR oral solution had lower rates of virologic suppression, lower plasma lamivudine exposure, and developed viral resistance more frequently than those receiving Lamivudine tablets in the ARROW trial [see Dosage and Administration (2.2), Warnings and Precautions (5.6), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 

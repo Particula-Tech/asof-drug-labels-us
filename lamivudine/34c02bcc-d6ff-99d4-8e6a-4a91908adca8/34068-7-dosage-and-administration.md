@@ -9,15 +9,15 @@
 
 The recommended dosage of EPIVIR oral solution in HIV-1-infected pediatric patients aged 3 months and older is 4 mg per kg taken orally twice daily (up to a maximum of 300 mg daily), administered in combination with other antiretroviral agents.
 
-Lamivudine is also available as a scored tablet for HIV-1-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate.
-Before prescribing lamivudine tablets, children should be assessed for the ability to swallow tablets.
-If a child is unable to reliably swallow lamivudine tablets, the oral solution formulation should be prescribed.
+Lamivudine scored tablet is the preferred formulation for HIV-1-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate.
+Before prescribing lamivudine scored tablets, pediatric patients should be assessed for the ability to swallow tablets.
+For patients unable to safely and reliably swallow lamivudine tablets, the oral solution formulation should be prescribed [see Warnings and Precautions (5.6)].
 The recommended oral dosage of lamivudine tablets for HIV-1-infected pediatric patients is presented in Table 1.
 
 Table 1.
-Dosing Recommendations for Lamivudine Tablets in Pediatric Patients
+Dosing Recommendations for Lamivudine Scored (150-mg) Tablets in Pediatric Patients
 
-| Weight (kg) | Twice-daily Dosing Regimen Using Scored 150-mg Tablet |  |  |
+| Weight (kg) | Twice-Daily Dosing Regimen Using Scored 150-mg Tablet |  |  |
 | --- | --- | --- | --- |
 | AM Dose | PM Dose | Total Daily Dose |  |
 | 14 to <20 | ½ tablet (75 mg) | ½ tablet (75 mg) | 150 mg |
@@ -38,9 +38,9 @@ Adjustment of Dosage of Lamivudine Tablets in Adults and Adolescents (Greater th
 | Creatinine Clearance (mL/min) | Recommended Dosage of Lamivudine |
 | --- | --- |
 | ≥50 | 150 mg twice daily or 300 mg once daily |
-| 30-49 | 150 mg once daily |
-| 15-29 | 150 mg first dose, then 100 mg once daily |
-| 5-14 | 150 mg first dose, then 50 mg once daily |
+| 30 - 49 | 150 mg once daily |
+| 15 - 29 | 150 mg first dose, then 100 mg once daily |
+| 5 - 14 | 150 mg first dose, then 50 mg once daily |
 | <5 | 50 mg first dose, then 25 mg once daily |
 
 No additional dosing of lamivudine is required after routine (4-hour) hemodialysis or peritoneal dialysis.

@@ -81,7 +81,7 @@ Lamivudine concentrations were generally similar in maternal, neonatal, and umbi
 
 Pediatric Patients The pharmacokinetics of lamivudine have been studied after either single or repeat doses of lamivudine in 210 pediatric subjects.
 Pediatric subjects receiving lamivudine oral solution according to the recommended dosage regimen achieved approximately 25% lower plasma concentrations of lamivudine compared with HIV-1-infected adults.
-Pediatric subjects receiving lamivudine oral tablets achieved plasma concentrations comparable to or slightly higher than - those observed in adults.
+Pediatric subjects receiving lamivudine oral tablets achieved plasma concentrations comparable to or slightly higher than those observed in adults.
 The absolute bioavailability of both lamivudine tablets and oral solution are lower in children than adults.
 The relative bioavailability of lamivudine oral solution is approximately 40% lower than tablets containing lamivudine in pediatric subjects despite no difference in adults.
 The mechanisms for the diminished absolute bioavailability of lamivudine and relative bioavailability of lamivudine solution are unknown.
@@ -92,7 +92,7 @@ At the dose of 8 mg per kg per day, CSF lamivudine concentrations in 8 subjects 
 
 Limited, uncontrolled pharmacokinetic and safety data are available from administration of lamivudine (and zidovudine) to 36 infants aged up to 1 week in 2 trials in South Africa.
 In these trials, lamivudine clearance was substantially reduced in 1-week-old neonates relative to pediatric subjects (aged over 3 months) studied previously.
-There is insufficient information to establish the time course of changes in clearance between the immediate neonatal period and the age-ranges over 3 months old [see Adverse Reactions (6.2)].
+There is insufficient information to establish the time course of changes in clearance between the immediate neonatal period and the age-ranges over 3 months old [see Adverse Reactions (6.1)].
 
 Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company’s EPIVIR® (lamivudine) tablets and oral solution.
 However, due to ViiV Healthcare Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
@@ -103,10 +103,10 @@ Gender There are no significant or clinically relevant gender differences in lam
 
 Race There are no significant or clinically relevant racial differences in lamivudine pharmacokinetics.
 
-Drug Interactions Interferon Alfa There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects [see Warnings and Precautions (5.4)].
+Drug Interactions Interferon Alfa There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects [see Warnings and Precautions (5.3)].
 
 Ribavirin In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
-However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see Warnings and Precautions (5.4)].
+However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see Warnings and Precautions (5.3)].
 
 Trimethoprim/Sulfamethoxazole Lamivudine and TMP/SMX were coadministered to 14 HIV-1-positive subjects in a single-center, open-label, randomized, crossover trial.
 Each subject received treatment with a single 300-mg dose of lamivudine and TMP 160 mg/SMX 800 mg once a day for 5 days with concomitant administration of lamivudine 300 mg with the fifth dose in a crossover design.
@@ -114,7 +114,7 @@ Coadministration of TMP/SMX with lamivudine resulted in an increase of 43% ± 23
 The pharmacokinetic properties of TMP and SMX were not altered by coadministration with lamivudine.
 There is no information regarding the effect on lamivudine pharmacokinetics of higher doses of TMP/SMX such as those used in treat PCP.
 
-Zidovudine No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV-1-infected adult subjects given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 h).
+Zidovudine No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV-1-infected adult subjects given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 hours).
 
 ## 12.4 Microbiology
 
@@ -125,18 +125,18 @@ The principal mode of action of 3TC-TP is inhibition of HIV-1 reverse transcript
 Antiviral Activity The antiviral activity of lamivudine against HIV-1 was assessed in a number of cell lines including monocytes and fresh human peripheral blood lymphocytes (PBMCs) using standard susceptibility assays.
 EC50 values were in the range of 0.003 to 15 microM (1 microM = 0.23 mcg per mL).
 The median EC50 values of lamivudine were 60 nM (range: 20 to 70 nM), 35 nM (range: 30 to 40 nM), 30 nM (range: 20 to 90 nM), 20 nM (range: 3 to 40 nM), 30 nM (range: 1 to 60 nM), 30 nM (range: 20 to 70 nM), 30 nM (range: 3 to 70 nM), and 30 nM (range: 20 to 90 nM) against HIV-1 clades A-G and group O viruses (n = 3 except n = 2 for clade B) respectively.
-The EC50 values against HIV-2 isolates (n = 4) from 0.003 to 0.120 microM in PBMCs.
+The EC50 values against HIV-2 isolates (n = 4) ranged from 0.003 to 0.120 microM in PBMCs.
 Lamivudine was not antagonistic to all tested anti-HIV agents.
 Ribavirin (50 microM) used in the treatment of chronic HCV infection decreased the anti-HIV-1 activity of lamivudine by 3.5-fold in MT-4 cells.
 
 Resistance Lamivudine-resistant variants of HIV-1 have been selected in cell culture.
-Genotypic analysis showed that the resistance was due to a specific amino acid substitution in the HIV-1 reverse transcriptase at codon 184 changing the methionine to either isoleucine or valine (M184V/I).
+Genotypic analysis showed that the resistance was due to a specific amino acid substitution in the HIV-1 reverse transcriptase at codon 184 changing the methionine to either valine or isoleucine (M184V/I).
 
 HIV-1 strains resistant to both lamivudine and zidovudine have been isolated from subjects.
 Susceptibility of clinical isolates to lamivudine and zidovudine was monitored in controlled clinical trials.
 In subjects receiving lamivudine monotherapy or combination therapy with lamivudine plus zidovudine, HIV-1 isolates from most subjects became phenotypically and genotypically resistant to lamivudine within 12 weeks.
 
-Genotypic and Phenotypic Analysis of On-therapy HIV-1 Isolates from Subjects with Virologic Failure Trial EPV20001 Fifty-three of 554 (10%) subjects enrolled in EPV20001 were identified as virological failures (plasma HIV-1 RNA level greater than or equal to 400 copies per mL) by Week 48.
+Genotypic and Phenotypic Analysis of On-Therapy HIV-1 Isolates from Subjects with Virologic Failure Trial EPV20001 Fifty-three of 554 (10%) subjects enrolled in EPV20001 were identified as virological failures (plasma HIV-1 RNA level greater than or equal to 400 copies per mL) by Week 48.
 Twenty-eight subjects were randomized to the lamivudine once-daily treatment group and 25 to the lamivudine twice-daily treatment group.
 The median baseline plasma HIV-1 RNA levels of subjects in the lamivudine once-daily group and lamivudine twice-daily group were 4.9 log10 copies per mL and 4.6 log10 copies per mL, respectively.
 
@@ -160,6 +160,10 @@ HIV-1 isolates from these 6 subjects were susceptible to zidovudine.
 
 Phenotypic analysis of on-therapy isolates from subjects (n = 4) receiving lamivudine twice daily showed that HIV-1 isolates from 1 subject exhibited a 45-fold decrease in susceptibility to lamivudine and a 4.5-fold decrease in susceptibility to zidovudine.
 
-Cross-resistance Cross-resistance has been observed among nucleoside reverse transcriptase inhibitors (NRTIs).
+Pediatrics Pediatric subjects receiving lamivudine oral solution concomitantly with other antiretroviral oral solutions (abacavir, nevirapine/efavirenz, or zidovudine) in ARROW developed viral resistance more frequently than those receiving tablets.
+At randomization to once-daily or twice-daily dosing of lamivudine plus abacavir, 13% of subjects who started on tablets and 32% of subjects who started on solution had resistance substitutions.
+The resistance profile observed in pediatrics is similar to that observed in adults in terms of the genotypic substitutions detected and relative frequency, with the most commonly detected substitutions at M184 (V or I) [see Clinical Studies (14.2)].
+
+Cross-Resistance Cross-resistance has been observed among nucleoside reverse transcriptase inhibitors (NRTIs).
 Lamivudine-resistant HIV-1 mutants were cross-resistant in cell culture to didanosine (ddI).
 Cross-resistance is also expected with abacavir and emtricitabine as these select M184V substitutions.
