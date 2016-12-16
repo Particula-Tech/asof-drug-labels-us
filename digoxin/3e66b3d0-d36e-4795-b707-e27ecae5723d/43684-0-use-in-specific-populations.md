@@ -38,7 +38,7 @@ Because elderly patients are more likely to have decreased renal function, care 
 ## 8.6 Renal Impairment
 
 The clearance of digoxin can be primarily correlated with the renal function as indicated by creatinine clearance.
-Tables 3 and 5 provide the usual daily maintenance dose requirements for digoxin based on creatinine clearance [see Dosage and Administration (2.3)].
+Table 3 and Table 5 provide the usual daily maintenance dose requirements for digoxin based on creatinine clearance [see Dosage and Administration (2.3)].
 
 Digoxin is primarily excreted by the kidneys; therefore, patients with impaired renal function require smaller than usual maintenance doses of digoxin [see Dosage and Administration (2.3)].
 Because of the prolonged elimination half-life, a longer period of time is required to achieve an initial or new steady-state serum concentration in patients with renal impairment than in patients with normal renal function.

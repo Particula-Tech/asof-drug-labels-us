@@ -24,7 +24,7 @@ Manufactured by Jubilant HollisterStier Kirkland, Canada H9H 4J4
 
 Distributed by Covis Pharmaceuticals, Inc. Cary, NC 27511 Made in Germany
 
-2012, Covis Pharmaceuticals, Inc.
+©2012, Covis Pharmaceuticals, Inc.
 
 # PRINCIPAL DISPLAY PANEL - PEDIATRIC
 
