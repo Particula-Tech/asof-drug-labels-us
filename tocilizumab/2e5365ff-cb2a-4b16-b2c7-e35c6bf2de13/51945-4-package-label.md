@@ -60,3 +60,31 @@ No Preservative
 Rx only
 
 Genentech
+
+# PRINCIPAL DISPLAY PANEL - 0.9 mL Syringe Box
+
+NDC 50242-138-01
+
+Actemra®
+
+(tocilizumab) Injection
+
+162 mg / 0.9 mL
+
+For Subcutaneous Injection Only
+
+Single Dose Prefilled Syringe - Discard Unused Portion
+
+Sterile
+
+ATTENTION PHARMACIST: Each patient is required to receive the enclosed Medication Guide.
+
+Refrigerate Immediately
+
+Rx only
+
+Each Prefilled Syringe Contains: 162 mg/0.9 mL
+
+Genentech
+
+10146668
