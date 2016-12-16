@@ -30,11 +30,11 @@ Because pioglitazone enhances the effects of circulating insulin (by decreasing 
 
 Alogliptin and Pioglitazone
 
-In a 26-week, randomized, active-controlled study, patients with type 2 diabetes received alogliptin 25 mg coadministered with pioglitazone 30 mg, alogliptin 12.5 mg coadministered with pioglitazone 30 mg, alogliptin 25 mg alone or pioglitazone 30 mg alone.
+In a 26 week, randomized, active-controlled study, patients with type 2 diabetes received alogliptin 25 mg coadministered with pioglitazone 30 mg, alogliptin 12.5 mg coadministered with pioglitazone 30 mg, alogliptin 25 mg alone or pioglitazone 30 mg alone.
 Patients who were randomized to alogliptin 25 mg with pioglitazone 30 mg achieved a 26.2% decrease in triglyceride levels from a mean baseline of 214.2 mg/dL compared to an 11.5% decrease for alogliptin alone and a 21.8% decrease for pioglitazone alone.
 In addition, a 14.4% increase in HDL cholesterol levels from a mean baseline of 43.2 mg/dL was also observed for alogliptin 25 mg with pioglitazone 30 mg compared to a 1.9% increase for alogliptin alone and a 13.2% increase for pioglitazone alone.
 The changes in measures of LDL cholesterol and total cholesterol were similar between alogliptin 25 mg with pioglitazone 30 mg versus alogliptin alone and pioglitazone alone.
-A similar pattern of lipid effects was observed in a 26-week, placebo-controlled factorial study.
+A similar pattern of lipid effects was observed in a 26 week, placebo-controlled factorial study.
 
 Alogliptin
 
@@ -42,7 +42,7 @@ Single-dose administration of alogliptin to healthy subjects resulted in a peak 
 The peak inhibition of DPP-4 exceeded 93% across doses of 12.5 mg to 800 mg.
 Inhibition of DPP-4 remained above 80% at 24 hours for doses greater than or equal to 25 mg.
 Peak and total exposure over 24 hours to active GLP-1 were three- to four-fold greater with alogliptin (at doses of 25 to 200 mg) than placebo.
-In a 16-week, double-blind, placebo-controlled study alogliptin 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an eight-hour period following a standardized meal.
+In a 16 week, double-blind, placebo-controlled study alogliptin 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an eight-hour period following a standardized meal.
 It is unclear how these findings relate to changes in overall glycemic control in patients with type 2 diabetes mellitus.
 In this study, alogliptin 25 mg demonstrated decreases in two-hour postprandial glucose compared to placebo (-30 mg/dL versus 17 mg/dL respectively).
 
@@ -59,13 +59,15 @@ Patients with lipid abnormalities were included in clinical trials with pioglita
 Overall, patients treated with pioglitazone had mean decreases in serum triglycerides, mean increases in HDL cholesterol and no consistent mean changes in LDL and total cholesterol.
 There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.11) and Adverse Reactions (6.1)].
 
-In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the pioglitazone 15 mg, 30 mg and 45 mg dose groups compared to a mean increase in the placebo group.
+In a 26 week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the pioglitazone 15 mg, 30 mg and 45 mg dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone than in the placebo-treated patients.
 There were no consistent differences for LDL and total cholesterol in patients treated with pioglitazone compared to placebo (Table 7).
 
-| Table 7. Lipids in a 26-Week, Placebo-Controlled, Monotherapy, Dose-Ranging Study |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 7.
+Lipids in a 26 Week, Placebo-Controlled, Monotherapy, Dose-Ranging Study
+
 |  | Placebo | Pioglitazone 15 mg Once Daily | Pioglitazone 30 mg Once Daily | Pioglitazone 45 mg Once Daily |
+| --- | --- | --- | --- | --- |
 | Triglycerides (mg/dL) | N=79 | N=79 | N=84 | N=77 |
 | Baseline (mean) | 263 | 284 | 261 | 260 |
 | Percent change from baseline (adjusted meanAdjusted for baseline, pooled center and pooled center by treatment interaction) | 4.8% | -9%p<0.05 versus placebo | -9.6% | -9.3% |
@@ -287,39 +289,43 @@ Effect of Other Drugs on the Pharmacokinetic Exposure of Alogliptin
 
 Pioglitazone
 
-| Table 8. Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Coadministered Drug |  |  |  |  |
-| Pioglitazone Dosage Regimen (mg)Daily for seven days unless otherwise noted | Name and Dose Regimens | Change in AUC% change (with/without coadministered drug and no change=0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively |  | Change in Cmax |  |
-| 45 mg (N=12) | WarfarinPioglitazone had no clinically significant effect on prothrombin time |  |  |  |  |
-| Daily loading then maintenance doses based PT and INR values Quick's Value=35 ± 5% | R-Warfarin | ↓3% | R-Warfarin | ↓2% |  |
-| S-Warfarin | ↓1% | S-Warfarin | ↑1% |  |  |
-| 45 mg (N=12) | Digoxin |  |  |  |  |
-| 0.200 mg twice daily (loading dose) then 0.250 mg daily (maintenance dose, 7 days) | ↑15% |  | ↑17% |  |  |
-| 45 mg daily for 21 days (N=35) | Oral Contraceptive |  |  |  |  |
-| [Ethinyl Estradiol (EE) 0.035 mg plus Norethindrone (NE) 1 mg] for 21 days | EE | ↓11% | EE | ↓13% |  |
-| NE | ↑3% | NE | ↓7% |  |  |
-| 45 mg (N=23) | Fexofenadine |  |  |  |  |
-| 60 mg twice daily for 7 days | ↑30% |  | ↑37% |  |  |
-| 45 mg (N=14) | Glipizide |  |  |  |  |
-| 5 mg daily for 7 days | ↓3% |  | ↓8% |  |  |
-| 45 mg daily for 8 days (N=16) | Metformin |  |  |  |  |
-| 1000 mg single dose on 8 days | ↓3% |  | ↓5% |  |  |
-| 45 mg (N=21) | Midazolam |  |  |  |  |
-| 7.5 mg single dose on day 15 | ↓26% |  | ↓26% |  |  |
-| 45 mg (N=24) | Ranitidine |  |  |  |  |
-| 150 mg twice daily for 7 days | ↑1% |  | ↓1% |  |  |
-| 45 mg daily for 4 days (N=24) | Nifedipine ER |  |  |  |  |
-| 30 mg daily for 4 days | ↓13% |  | ↓17% |  |  |
-| 45 mg (N=25) | Atorvastatin Ca |  |  |  |  |
-| 80 mg daily for 7 days | ↓14% |  | ↓23% |  |  |
-| 45 mg (N=22) | Theophylline |  |  |  |  |
-| 400 mg twice daily for 7 days | ↑2% |  | ↑5% |  |  |
+Table 8.
+Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs
 
-| Table 9. Effect of Coadministered Drugs on Pioglitazone Systemic Exposure |  |  |  |
+| Pioglitazone Dosage Regimen (mg)Daily for seven days unless otherwise noted | Name and Dose Regimens | Change in AUC% change (with/without coadministered drug and no change=0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively |  |  | Change in Cmax |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Coadministered Drug |  |  |  |  |  |  |
+| 45 mg (N=12) | WarfarinPioglitazone had no clinically significant effect on prothrombin time |  |  |  |  |  |  |
+| Daily loading then maintenance doses based PT and INR values Quick's Value=35 ± 5% | R-Warfarin |  | ↓3% | R-Warfarin |  | ↓2% |  |
+| S-Warfarin |  | ↓1% | S-Warfarin |  | ↑1% |  |  |
+| 45 mg (N=12) | Digoxin |  |  |  |  |  |  |
+| 0.200 mg twice daily (loading dose) then 0.250 mg daily (maintenance dose, 7 days) | ↑15% |  |  | ↑17% |  |  |  |
+| 45 mg daily for 21 days (N=35) | Oral Contraceptive |  |  |  |  |  |  |
+| [Ethinyl Estradiol (EE) 0.035 mg plus Norethindrone (NE) 1 mg] for 21 days | EE | ↓11% |  | EE | ↓13% |  |  |
+| NE | ↑3% |  | NE | ↓7% |  |  |  |
+| 45 mg (N=23) | Fexofenadine |  |  |  |  |  |  |
+| 60 mg twice daily for 7 days | ↑30% |  |  | ↑37% |  |  |  |
+| 45 mg (N=14) | Glipizide |  |  |  |  |  |  |
+| 5 mg daily for 7 days | ↓3% |  |  | ↓8% |  |  |  |
+| 45 mg daily for 8 days (N=16) | Metformin |  |  |  |  |  |  |
+| 1000 mg single dose on 8 days | ↓3% |  |  | ↓5% |  |  |  |
+| 45 mg (N=21) | Midazolam |  |  |  |  |  |  |
+| 7.5 mg single dose on day 15 | ↓26% |  |  | ↓26% |  |  |  |
+| 45 mg (N=24) | Ranitidine |  |  |  |  |  |  |
+| 150 mg twice daily for 7 days | ↑1% |  |  | ↓1% |  |  |  |
+| 45 mg daily for 4 days (N=24) | Nifedipine ER |  |  |  |  |  |  |
+| 30 mg daily for 4 days | ↓13% |  |  | ↓17% |  |  |  |
+| 45 mg (N=25) | Atorvastatin Ca |  |  |  |  |  |  |
+| 80 mg daily for 7 days | ↓14% |  |  | ↓23% |  |  |  |
+| 45 mg (N=22) | Theophylline |  |  |  |  |  |  |
+| 400 mg twice daily for 7 days | ↑2% |  |  | ↑5% |  |  |  |
+
+Table 9.
+Effect of Coadministered Drugs on Pioglitazone Systemic Exposure
+
+| Dose Regimen (mg)Daily for seven days unless otherwise noted | Change in AUCMean ratio (with/without coadministered drug and no change=one-fold) % change (with/without coadministered drug and no change=0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively | Change in Cmax |  |
 | --- | --- | --- | --- |
 | Coadministered Drug and Dosage Regimen | Pioglitazone |  |  |
-| Dose Regimen (mg)Daily for seven days unless otherwise noted | Change in AUCMean ratio (with/without coadministered drug and no change=one-fold) % change (with/without coadministered drug and no change=0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively | Change in Cmax |  |
 | Gemfibrozil 600 mg twice daily for 2 days (N=12) | 30 mg single dose | ↑3.4-foldThe half-life of pioglitazone increased from 6.5 hours to 15.1 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)] | ↑6% |
 | Ketoconazole 200 mg twice daily for 7 days (N=28) | 45 mg | ↑34% | ↑14% |
 | Rifampin 600 mg daily for 5 days (N=10) | 30 mg single dose | ↓54% | ↓5% |

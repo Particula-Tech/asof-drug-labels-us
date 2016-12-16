@@ -2,10 +2,12 @@
 
 The following serious adverse reactions are described below or elsewhere in the prescribing information:
 
-- •Congestive Heart Failure [see Warnings and Precautions (5.1)]
-- •Pancreatitis [see Warnings and Precautions (5.2)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
-- •Hepatic Effects [see Warnings and Precautions (5.4)]
+- Congestive Heart Failure [see Warnings and Precautions (5.1)]
+- Pancreatitis [see Warnings and Precautions (5.2)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
+- Hepatic Effects [see Warnings and Precautions (5.4)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.10)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -23,26 +25,28 @@ Overall discontinuation of therapy due to adverse reactions was 2.5% with OSENI 
 
 Adverse reactions reported in ≥4% of patients treated with OSENI and more frequently than in patients who received alogliptin, pioglitazone or placebo are summarized in Table 1.
 
-| Table 1. Adverse Reactions Reported in ≥4% of Patients Treated with OSENI and More Frequently than in Patients Receiving Either Alogliptin, Pioglitazone or Placebo |  |  |  |  |
+Table 1.
+Adverse Reactions Reported in ≥4% of Patients Treated with OSENI and More Frequently than in Patients Receiving Either Alogliptin, Pioglitazone or Placebo
+
+|  | N=1533 | N=446 | N=949 | N=153 |
 | --- | --- | --- | --- | --- |
 | Number of Patients (%) |  |  |  |  |
 |  | OSENIOSENI – includes data pooled for patients receiving alogliptin 25 mg and 12.5 mg combined with pioglitazone 15 mg, 30 mg and 45 mg | AlogliptinAlogliptin – includes data pooled for patients receiving alogliptin 25 mg and 12.5 mg | PioglitazonePioglitazone – includes data pooled for patients receiving pioglitazone 15 mg, 30 mg and 45 mg | Placebo |
-|  | N=1533 | N=446 | N=949 | N=153 |
 | Nasopharyngitis | 75 (4.9) | 21 (4.7) | 37 (3.9) | 6 (3.9) |
 | Back Pain | 64 (4.2) | 9 (2.0) | 32 (3.4) | 5 (3.3) |
 | Upper Respiratory Tract Infection | 63 (4.1) | 19 (4.3) | 26 (2.7) | 5 (3.3) |
 
 Alogliptin Add-On Therapy to a Thiazolidinedione
 
-In addition, in a 26-week, placebo-controlled, double-blind study, patients inadequately controlled on a thiazolidinedione alone or in combination with metformin or a sulfonylurea were treated with add-on alogliptin therapy or placebo; the adverse reactions reported in ≥5% of patients and more frequently than in patients who received placebo was influenza (alogliptin, 5.5%; placebo, 4.1%).
+In addition, in a 26 week, placebo-controlled, double-blind study, patients inadequately controlled on a thiazolidinedione alone or in combination with metformin or a sulfonylurea were treated with add-on alogliptin therapy or placebo; the adverse reactions reported in ≥5% of patients and more frequently than in patients who received placebo was influenza (alogliptin, 5.5%; placebo, 4.1%).
 
 Hypoglycemia
 
-In a 26-week, placebo-controlled factorial study with alogliptin in combination with pioglitazone on background therapy with metformin, the incidence of subjects reporting hypoglycemia was 0.8%, 0% and 3.8% for alogliptin 25 mg with pioglitazone 15 mg, 30 mg or 45 mg, respectively; 2.3% for alogliptin 25 mg; 4.7%, 0.8% and 0.8% for pioglitazone 15 mg, 30 mg or 45 mg, respectively; and 0.8% for placebo.
+In a 26 week, placebo-controlled factorial study with alogliptin in combination with pioglitazone on background therapy with metformin, the incidence of subjects reporting hypoglycemia was 0.8%, 0% and 3.8% for alogliptin 25 mg with pioglitazone 15 mg, 30 mg or 45 mg, respectively; 2.3% for alogliptin 25 mg; 4.7%, 0.8% and 0.8% for pioglitazone 15 mg, 30 mg or 45 mg, respectively; and 0.8% for placebo.
 
-In a 26-week, active-controlled, double-blind study with alogliptin alone, pioglitazone alone or alogliptin coadministered with pioglitazone in patients inadequately controlled on diet and exercise, the incidence of hypoglycemia was 3% on alogliptin 25 mg with pioglitazone 30 mg, 0.6% on alogliptin 25 mg and 1.8% on pioglitazone 30 mg.
+In a 26 week, active-controlled, double-blind study with alogliptin alone, pioglitazone alone or alogliptin coadministered with pioglitazone in patients inadequately controlled on diet and exercise, the incidence of hypoglycemia was 3% on alogliptin 25 mg with pioglitazone 30 mg, 0.6% on alogliptin 25 mg and 1.8% on pioglitazone 30 mg.
 
-In a 52-week, active-controlled, double-blind study of alogliptin as add-on therapy to the combination of pioglitazone 30 mg and metformin compared to the titration of pioglitazone 30 mg to 45 mg and metformin, the incidence of subjects reporting hypoglycemia was 4.5% in the alogliptin 25 mg with pioglitazone 30 mg and metformin group versus 1.5% in the pioglitazone 45 mg and metformin group.
+In a 52 week, active-controlled, double-blind study of alogliptin as add-on therapy to the combination of pioglitazone 30 mg and metformin compared to the titration of pioglitazone 30 mg to 45 mg and metformin, the incidence of subjects reporting hypoglycemia was 4.5% in the alogliptin 25 mg with pioglitazone 30 mg and metformin group versus 1.5% in the pioglitazone 45 mg and metformin group.
 
 Alogliptin
 
@@ -56,11 +60,13 @@ Overall discontinuation of therapy due to adverse reactions was 6.8% with alogli
 
 Adverse reactions reported in ≥4% of patients treated with alogliptin 25 mg and more frequently than in patients who received placebo are summarized in Table 2.
 
-| Table 2. Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin 25 mg and More Frequently Than in Patients Given Placebo in Pooled Studies |  |  |  |
+Table 2.
+Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin 25 mg and More Frequently Than in Patients Given Placebo in Pooled Studies
+
+|  | N=6447 | N=3469 | N=2257 |
 | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |
-|  | Alogliptin 25 mg | Placebo | Active Comparator |
-|  | N=6447 | N=3469 | N=2257 |
+| Alogliptin 25 mg | Placebo | Active Comparator |  |
 | Nasopharyngitis | 309 (4.8) | 152 (4.4) | 113 (5.0) |
 | Upper Respiratory Tract Infection | 287 (4.5) | 121 (3.5) | 113 (5.0) |
 | Headache | 278 (4.3) | 101 (2.9) | 121 (5.4) |
@@ -94,14 +100,16 @@ In these trials, over 6000 patients have been treated with pioglitazone for six 
 
 Common Adverse Reactions: 16- to 26-Week Monotherapy Trials
 
-A summary of the incidence and type of common adverse reactions reported in three pooled 16- to 26-week placebo-controlled monotherapy trials of pioglitazone is provided in Table 3.
+A summary of the incidence and type of common adverse reactions reported in three pooled 16 to 26 week placebo-controlled monotherapy trials of pioglitazone is provided in Table 3.
 Terms that are reported represent those that occurred at an incidence of >5% and more commonly in patients treated with pioglitazone than in patients who received placebo.
 None of these adverse reactions were related to pioglitazone dose.
 
-| Table 3. Three Pooled 16- to 26-Week Placebo-Controlled Clinical Trials of Pioglitazone Monotherapy: Adverse Reactions Reported at an Incidence >5% and More Commonly in Patients Treated with Pioglitazone than in Patients Treated with Placebo |  |  |
+Table 3.
+Three Pooled 16- to 26-Week Placebo-Controlled Clinical Trials of Pioglitazone Monotherapy: Adverse Reactions Reported at an Incidence >5% and More Commonly in Patients Treated with Pioglitazone than in Patients Treated with Placebo
+
+|  | Placebo N=259 | Pioglitazone N=606 |
 | --- | --- | --- |
 | % of Patients |  |  |
-|  | Placebo N=259 | Pioglitazone N=606 |
 | Upper Respiratory Tract Infection | 8.5 | 13.2 |
 | Headache | 6.9 | 9.1 |
 | Sinusitis | 4.6 | 6.3 |
@@ -110,16 +118,18 @@ None of these adverse reactions were related to pioglitazone dose.
 
 Congestive Heart Failure
 
-A summary of the incidence of adverse reactions related to congestive heart failure for the 16- to 24-week add-on to sulfonylurea trials, for the 16- to 24-week add-on to insulin trials, and for the 16- to 24-week add-on to metformin trials were (at least one congestive heart failure, 0.2% to 1.7%; hospitalized due to congestive heart failure, 0.2% to 0.9%).
+A summary of the incidence of adverse reactions related to congestive heart failure for the 16 to 24 week add-on to sulfonylurea trials, for the 16 to 24 week add-on to insulin trials, and for the 16 to 24 week add-on to metformin trials were (at least one congestive heart failure, 0.2% to 1.7%; hospitalized due to congestive heart failure, 0.2% to 0.9%).
 None of the reactions were fatal.
 
 Patients with type 2 diabetes and NYHA class II or early class III congestive heart failure were randomized to receive 24 weeks of double-blind treatment with either pioglitazone at daily doses of 30 mg to 45 mg (N=262) or glyburide at daily doses of 10 mg to 15 mg (N=256).
 A summary of the incidence of adverse reactions related to congestive heart failure reported in this study is provided in Table 4.
 
-| Table 4. Treatment-Emergent Adverse Reactions of Congestive Heart Failure (CHF) in Patients with NYHA Class II or III Congestive Heart Failure Treated with Pioglitazone or Glyburide |  |  |
+Table 4.
+Treatment-Emergent Adverse Reactions of Congestive Heart Failure (CHF) in Patients with NYHA Class II or III Congestive Heart Failure Treated with Pioglitazone or Glyburide
+
+| Pioglitazone N=262 | Glyburide N=256 |  |
 | --- | --- | --- |
 |  | Number (%) of Subjects |  |
-| Pioglitazone N=262 | Glyburide N=256 |  |
 | Death due to cardiovascular causes (adjudicated) | 5 (1.9%) | 6 (2.3%) |
 | Overnight hospitalization for worsening CHF (adjudicated) | 26 (9.9%) | 12 (4.7%) |
 | Emergency room visit for CHF (adjudicated) | 4 (1.5%) | 3 (1.2%) |
@@ -127,10 +137,12 @@ A summary of the incidence of adverse reactions related to congestive heart fail
 
 Congestive heart failure events leading to hospitalization that occurred during the PROactive trial are summarized in Table 5.
 
-| Table 5. Treatment-Emergent Adverse Reactions of Congestive Heart Failure (CHF) in PROactive Trial |  |  |
+Table 5.
+Treatment-Emergent Adverse Reactions of Congestive Heart Failure (CHF) in PROactive Trial
+
+| Placebo N=2633 | Pioglitazone N=2605 |  |
 | --- | --- | --- |
 |  | Number (%) of Patients |  |
-| Placebo N=2633 | Pioglitazone N=2605 |  |
 | At least one hospitalized congestive heart failure event | 108 (4.1%) | 149 (5.7%) |
 | Fatal | 22 (0.8%) | 25 (1%) |
 | Hospitalized, nonfatal | 86 (3.3%) | 124 (4.7%) |
@@ -149,19 +161,21 @@ A total of 514 (19.7%) patients treated with pioglitazone and 572 (21.7%) placeb
 Although there was no statistically significant difference between pioglitazone and placebo for the three-year incidence of a first event within this composite, there was no increase in mortality or in total macrovascular events with pioglitazone.
 The number of first occurrences and total individual events contributing to the primary composite endpoint is shown in Table 6.
 
-| Table 6. PROactive: Number of First and Total Events for Each Component Within the Cardiovascular Composite Endpoint |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cardiovascular Events | Placebo N=2633 |  | Pioglitazone N=2605 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| First Events n (%) | Total Events n | First Events n (%) | Total Events n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Any Event | 572 (21.7) | 900 | 514 (19.7) | 803 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| All-Cause Mortality | 122 (4.6) | 186 | 110 (4.2) | 177 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nonfatal Myocardial Infarction (MI) | 118 (4.5) | 157 | 105 (4) | 131 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Stroke | 96 (3.6) | 119 | 76 (2.9) | 92 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Acute Coronary Syndrome | 63 (2.4) | 78 | 42 (1.6) | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cardiac Intervention (CABG/PCI) | 101 (3.8) | 240 | 101 (3.9) | 195 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Major Leg Amputation | 15 (0.6) | 28 | 9 (0.3) | 28 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Leg Revascularization | 57 (2.2) | 92 | 71 (2.7) | 115 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| CABG=coronary artery bypass grafting; PCI=percutaneous intervention |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Table 6.
+PROactive: Number of First and Total Events for Each Component Within the Cardiovascular Composite Endpoint
+
+| First Events n (%) | Total Events n | First Events n (%) | Total Events n |  |
+| --- | --- | --- | --- | --- |
+| Cardiovascular Events | Placebo N=2633 |  | Pioglitazone N=2605 |  |
+| Any Event | 572 (21.7) | 900 | 514 (19.7) | 803 |
+| All-Cause Mortality | 122 (4.6) | 186 | 110 (4.2) | 177 |
+| Nonfatal Myocardial Infarction (MI) | 118 (4.5) | 157 | 105 (4) | 131 |
+| Stroke | 96 (3.6) | 119 | 76 (2.9) | 92 |
+| Acute Coronary Syndrome | 63 (2.4) | 78 | 42 (1.6) | 65 |
+| Cardiac Intervention (CABG/PCI) | 101 (3.8) | 240 | 101 (3.9) | 195 |
+| Major Leg Amputation | 15 (0.6) | 28 | 9 (0.3) | 28 |
+| Leg Revascularization | 57 (2.2) | 92 | 71 (2.7) | 115 |
+| CABG=coronary artery bypass grafting; PCI=percutaneous intervention |  |  |  |  |
 
 Weight Gain
 
@@ -182,21 +196,22 @@ None of the patients treated with pioglitazone in the pioglitazone controlled cl
 
 Hypoglycemia
 
-In the pioglitazone clinical trials, adverse reactions of hypoglycemia were reported based on clinical judgment of the investigators and did not require confirmation with fingerstick glucose testing.
-In the 16-week add-on to sulfonylurea trial, the incidence of reported hypoglycemia was 3.7% with pioglitazone 30 mg and 0.5% with placebo.
-In the 16-week add-on to insulin trial, the incidence of reported hypoglycemia was 7.9% with pioglitazone 15 mg, 15.4% with pioglitazone 30 mg and 4.8% with placebo.
-The incidence of reported hypoglycemia was higher with pioglitazone 45 mg compared to pioglitazone 30 mg in both the 24-week add-on to sulfonylurea trial (15.7% versus 13.4%) and in the 24-week add-on to insulin trial (47.8% versus 43.5%).
+In the pioglitazone clinical trials, adverse reactions of hypoglycemia were reported based on clinical judgment of the investigators and did not require confirmation with finger stick glucose testing.
+In the 16 week add-on to sulfonylurea trial, the incidence of reported hypoglycemia was 3.7% with pioglitazone 30 mg and 0.5% with placebo.
+In the 16 week add-on to insulin trial, the incidence of reported hypoglycemia was 7.9% with pioglitazone 15 mg, 15.4% with pioglitazone 30 mg and 4.8% with placebo.
+The incidence of reported hypoglycemia was higher with pioglitazone 45 mg compared to pioglitazone 30 mg in both the 24 week add-on to sulfonylurea trial (15.7% versus 13.4%) and in the 24 week add-on to insulin trial (47.8% versus 43.5%).
 Three patients in these four trials were hospitalized due to hypoglycemia.
-All three patients were receiving pioglitazone 30 mg (0.9%) in the 24-week add-on to insulin trial.
+All three patients were receiving pioglitazone 30 mg (0.9%) in the 24 week add-on to insulin trial.
 An additional 14 patients reported severe hypoglycemia (defined as causing considerable interference with patient's usual activities) that did not require hospitalization.
 These patients were receiving pioglitazone 45 mg in combination with sulfonylurea (N=2) or pioglitazone 30 mg or 45 mg in combination with insulin (N=12).
 
 Urinary Bladder Tumors
 
 Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
-In two 3-year trials in which pioglitazone was compared to placebo or glyburide, there were 16/3656 (0.44%) reports of bladder cancer in patients taking pioglitazone compared to 5/3679 (0.14%) in patients not taking pioglitazone.
-After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.16%) cases on pioglitazone and two (0.05%) cases on placebo.
-There are too few events of bladder cancer to establish causality.
+During the three year PROactive clinical trial, 14 patients out of 2605 (0.54%) randomized to pioglitazone and 5 out of 2633 (0.19%) randomized to placebo were diagnosed with bladder cancer.
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 6 (0.23%) cases on pioglitazone and two (0.08%) cases on placebo.
+After completion of the trial, a large subset of patients was observed for up to 10 additional years, with little additional exposure to pioglitazone.
+During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to pioglitazone or placebo (HR =1.00; 95% CI: 0.59-1.72) [see Warnings and Precautions (5.7)].
 
 ## 6.2 Laboratory Abnormalities
 
@@ -223,7 +238,7 @@ Alogliptin
 The following adverse reactions have been identified during the postmarketing use of alogliptin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia, acute pancreatitis, diarrhea, constipation, nausea and ileus [see Warnings and Precautions(5.2, 5.3, 5.4, 5.11)].
+Acute pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia and bullous pemphigoid, diarrhea, constipation, nausea and ileus [see Warnings and Precautions (5.2, 5.3, 5.4, 5.10, 5.11)].
 
 Pioglitazone
 

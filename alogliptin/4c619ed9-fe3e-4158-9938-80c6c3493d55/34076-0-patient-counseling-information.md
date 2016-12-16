@@ -23,13 +23,14 @@ Tell patients to promptly report any sign of macroscopic hematuria or other symp
 Inform patients that hypoglycemia can occur, particularly when an insulin secretagogue or insulin is used in combination with OSENI.
 Explain the risks, symptoms and appropriate management of hypoglycemia.
 
-Therapy with thiazolidinediones, including pioglitazone, which is one of the active components of OSENI, may result in ovulation in some premenopausal anovulatory women.
-As a result, these patients may be at an increased risk for pregnancy while taking OSENI.
-Therefore, adequate contraception should be recommended for all premenopausal women who are prescribed OSENI.
+Inform female patients that treatment with pioglitazone, like other thiazolidinediones, may result in an unintended pregnancy in some premenopausal anovulatory females due to its effect on ovulation [see Use in Specific Populations (8.3)].
 
 Inform patients that severe and disabling joint pain may occur with this class of drugs.
 The time to onset of symptoms can range from one day to years.
 Instruct patients to seek medical advice if severe joint pain occurs.
+
+Inform patients that bullous pemphigoid may occur with this class of drugs.
+Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.11)].
 
 Instruct patients to take OSENI only as prescribed daily.
 OSENI can be taken with or without meals.
@@ -40,4 +41,4 @@ Patients should be informed that the tablets must never be split.
 Instruct patients to read the Medication Guide before starting OSENI therapy and to reread each time the prescription is refilled.
 Instruct patients to inform their healthcare provider if an unusual symptom develops or if a symptom persists or worsens.
 
-Revised: April 2016 ALP008 R5
+ALP008 R7
