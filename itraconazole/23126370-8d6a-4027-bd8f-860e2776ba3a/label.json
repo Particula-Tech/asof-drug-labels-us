@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA206741"
+  ],
+  "inn": "itraconazole",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-204-10",
+    "62332-204-30",
+    "62332-204-71",
+    "62332-204-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "itraconazole",
+      "name": "ITRACONAZOLE"
+    }
+  ],
+  "setid": "23126370-8d6a-4027-bd8f-860e2776ba3a",
+  "source": "dailymed"
+}
