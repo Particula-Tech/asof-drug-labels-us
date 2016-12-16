@@ -101,20 +101,18 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by:
 
-Biogen Idec Inc.
-
-14 Cambridge Center
+Biogen Inc.
 
 Cambridge, MA 02142 USA
 
-©1996-2014 Biogen Idec..
+U.S. License # 1697©Biogen [1996-2015].
 All rights reserved.
 
 1-800-456-2255
 
-Revised: 08/2014
+Revised: 08/2015
 
-41610-01
+41610-02
 
 Instructions for Use
 
@@ -200,20 +198,20 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by:
 
-Biogen Idec Inc.
-
-14 Cambridge Center
+Biogen Inc.
 
 Cambridge, MA 02142 USA
 
-©1996-2014 Biogen Idec.
+U.S. License # 1697
+
+© Biogen [1996-2015].
 All rights reserved.
 
 1-800-456-2255
 
 Revised: 08/2014
 
-41611-01
+41611-02
 
 Instructions for Use
 
@@ -248,7 +246,7 @@ Identifying parts of the AVONEX prefilled syringe (See Figure A):
 
 Preparing the AVONEX injection:
 
-| Step 1: Hold the AVONEX prefilled syringe with the cap pointing down and with the 0.5 mL mark at eye level (See Figure A). Check the syringe: The syringe should not have any cracks or damage. Check that the cap is intact and has not been removed. The amount of liquid in the syringe should be at or very close to the 0.5 mL mark. AVONEX should look clear, colorless, and should not have any particles in it. Do not use the AVONEX prefilled syringe if: the syringe is cracked or damaged the solution is cloudy, colored, or has lumps or particles in it the cap has been removed or is not tightly attached or there is not enough liquid in the syringe Do not use that syringe. Get a new syringe. Contact MS ActiveSource at 1-800-456-2255. | (Figure A) |
+| Step 1: Hold the AVONEX prefilled syringe with the cap pointing down and with the 0.5 mL mark at eye level (See Figure A). Check the syringe: The syringe should not have any cracks or damage. Check that the cap is intact and has not been removed. The amount of liquid in the syringe should be at or very close to the 0.5 mL mark. AVONEX should look clear, colorless, and should not have any particles in it. Do not use the AVONEX prefilled syringe if: the syringe is cracked or damaged the solution is cloudy, colored, or has lumps or particles in it the cap has been removed or is not tightly attached or there is not enough liquid in the syringe Do not use that syringe. Get a new syringe. Contact MS ACTIVESOURCE at 1-800-456-2255. | (Figure A) |
 | --- | --- |
 | Step 2: With 1 hand, hold the AVONEX prefilled syringe right under the cap and with the cap pointing up (See Figure B). Make sure you are holding the AVONEX prefilled syringe by the ridged part, directly under the cap. | (Figure B) |
 | Step 3: With the other hand, grasp the cap and bend it at a 90º angle until the cap snaps off (See Figure C and Figure D). | (Figure C) (Figure D) |
@@ -278,8 +276,10 @@ Identifying the parts of AVOSTARTGRIP titration kit (See Figure G):
 
 Attaching the AVOSTARTGRIP device:
 
-| Step 6: Choose the right AVOSTARTGRIP titration device for your weekly dose. Week 1 Injection: Choose the white device to give ¼ dose (See Figure I). Week 2 Injection: Choose the yellow device to give ½ dose (See Figure J). Week 3 Injection: Choose the purple device to give ¾ dose (See Figure K). | (Figure I) (Figure J) (Figure K) |
+| Step 6: Choose the right AVOSTARTGRIP titration device for your weekly dose. Week 1 Injection: Choose the white device to give ¼ dose (See Figure I). | (Figure I) |
 | --- | --- |
+| Week 2 Injection: Choose the yellow device to give ½ dose (See Figure J). | (Figure J) |
+| Week 3 Injection: Choose the purple device to give ¾ dose (See Figure K). | (Figure K) |
 | Step 7: Put the right AVOSTARTGRIP device on a flat surface with the door open (See Figure L). | (Figure L) |
 | Step 8: Line up the AVONEX prefilled syringe over the AVOSTARTGRIP device with the plunger pointing to the left and the needle pointing to the right (See Figure M). | (Figure M) |
 | Step 9: Push the AVONEX prefilled syringe down into the AVOSTARTGRIP device until both ends “snap” into place (See Figure N). | (Figure N) |
@@ -297,12 +297,12 @@ Giving the AVONEX injection:
   Do not use the same injection site for each injection.
 - Do not inject into an area of the body where the skin is irritated, reddened, bruised, infected or scarred in any way.
 
-| Step 12: Choose an injection site and wipe the skin with an alcohol wipe (See Figures P and Q). Let the injection site dry before injecting the dose. Do not touch this area again before giving the injection. | (Figure P) (Figure Q) |
-| --- | --- |
-| Step 13: Pull the protective cover straight off the needle (See Figure R). Do not twist the cover off. | (Figure R) |
-| Step 14: With 1 hand, stretch the skin out around the injection site. With the other hand, hold the syringe like a pencil. Use a quick dart-like motion and insert the needle at a 90º angle, through the skin and into the muscle (See Figure S). Once the needle is in, let go of the skin. | (Figure S) |
-| Step 15: Make sure that you push the plunger all the way down until it touches the collar (See Figure T). | (Figure T) |
-| Step 16: Pull the needle out of the skin (See Figure U). Press down on the injection site with the gauze pad for a few seconds or rub gently in a circular motion. If you see blood after you press the injection site for a few seconds, wipe it off with gauze and apply an adhesive bandage. | (Figure U) |
+| Step 12: Choose an injection site and wipe the skin with an alcohol wipe (See Figures P and Q). Let the injection site dry before injecting the dose. Do not touch this area again before giving the injection. | (Figure P) | (Figure Q) |
+| --- | --- | --- |
+| Step 13: Pull the protective cover straight off the needle (See Figure R). Do not twist the cover off. | (Figure R) |  |
+| Step 14: With 1 hand, stretch the skin out around the injection site. With the other hand, hold the syringe like a pencil. Use a quick dart-like motion and insert the needle at a 90º angle, through the skin and into the muscle (See Figure S). Once the needle is in, let go of the skin. | (Figure S) |  |
+| Step 15: Make sure that you push the plunger all the way down until it touches the collar (See Figure T). | (Figure T) |  |
+| Step 16: Pull the needle out of the skin (See Figure U). Press down on the injection site with the gauze pad for a few seconds or rub gently in a circular motion. If you see blood after you press the injection site for a few seconds, wipe it off with gauze and apply an adhesive bandage. | (Figure U) |  |
 
 After the AVONEX injection:
 
@@ -326,21 +326,11 @@ General information about the safe and effective use of AVONEX
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for:
-
-Biogen Idec Inc.
-
-14 Cambridge Center
-
-Cambridge, MA 02142 USA
-
-©2012-2014 Biogen Idec Inc. All rights reserved.
-
+Revised 09/2016 Manufactured for: Biogen Inc. 250 Binney Street Cambridge, MA 02142 USA ©2012-2016 Biogen.
+All rights reserved.
 1-800-456-2255
 
-Revised: 08/2014
-
-I10073-04
+I11073-05
 
 Instructions for Use
 
@@ -439,19 +429,17 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by:
 
-Biogen Idec Inc.
-
-14 Cambridge Center
+Biogen Inc.
 
 Cambridge, MA 02142 USA
 
-©1996-2014 Biogen Idec.
+© Biogen [1996-2015].
 All rights reserved.
 
 1-800-456-2255
 
 MICRO PIN® is the trademark of B. Braun Medical Inc.
 
-Revised: 08/2014
+Revised: 08/2015
 
-41612-01
+41612-02

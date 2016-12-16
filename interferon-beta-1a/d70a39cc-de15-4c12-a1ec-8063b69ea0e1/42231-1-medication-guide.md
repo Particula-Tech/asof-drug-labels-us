@@ -203,14 +203,15 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by:
 
-Biogen Idec Inc.
-
-14 Cambridge Center
+Biogen Inc.
 
 Cambridge, MA 02142 USA
 
-©1996-2015 Biogen Idec Inc. All rights reserved.
+U.S. License #1697
+
+© Biogen [1996-2016].
+All rights reserved.
 
 1-800-456-2255
 
-Revised: 08/2014
+Revised: 03/2016

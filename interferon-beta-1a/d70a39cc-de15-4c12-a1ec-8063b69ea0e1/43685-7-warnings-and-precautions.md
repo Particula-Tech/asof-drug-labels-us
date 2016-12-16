@@ -18,7 +18,7 @@ Severe hepatic injury, including cases of hepatic failure, has been reported rar
 Asymptomatic elevation of hepatic transaminases has also been reported, and in some patients has recurred upon rechallenge with AVONEX.
 In some cases, these events have occurred in the presence of other drugs that have been associated with hepatic injury.
 The potential risk of AVONEX used in combination with known hepatotoxic drugs or other products (e.g., alcohol) should be considered prior to starting AVONEX, or before starting hepatotoxic drugs.
-Patients should be monitored for signs of hepatic injury [see Warnings and Precautions (5.8)].
+Patients should be monitored for signs of hepatic injury [see Warnings and Precautions (5.9)].
 
 ## 5.3 Anaphylaxis and Other Allergic-Reactions
 
@@ -60,7 +60,7 @@ If AVONEX-treated patients develop a new autoimmune disorder, consider stopping 
 
 ## 5.9 Laboratory Tests
 
-In addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, complete blood and differential white blood cell counts, platelet counts, and blood chemistries, including liver function tests, are recommended during AVONEX therapy [see Warnings and Precautions (5.2, 5.5, 5.7)].
+In addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, complete blood and differential white blood cell counts, platelet counts, and blood chemistries, including liver function tests, are recommended during AVONEX therapy [see Warnings and Precautions (5.2, 5.5, 5.8)].
 Patients with myelosuppression may require more intensive monitoring of complete blood cell counts, with differential and platelet counts.
 Thyroid function should be monitored periodically.
 If patients have or develop symptoms of thyroid dysfunction (hypo- or hyperthyroidism), thyroid function tests should be performed according to standard medical practice.

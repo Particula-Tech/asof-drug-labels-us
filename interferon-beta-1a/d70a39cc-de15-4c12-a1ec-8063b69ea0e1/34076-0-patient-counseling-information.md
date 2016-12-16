@@ -49,7 +49,7 @@ Advise patients of symptoms of worsening cardiac condition, and instruct patient
 Seizures
 
 Advise patients that seizures have been reported in patients using AVONEX.
-Instruct patients to report seizures immediately to their physician [see Warnings and Precautions (5.6)].
+Instruct patients to report seizures immediately to their physician [see Warnings and Precautions (5.7)].
 
 Flu-like Symptoms
 
@@ -58,13 +58,14 @@ Advise patients that starting with a lower dose than 30 micrograms and increasin
 
 Manufactured by:
 
-Biogen Idec Inc.
-
-14 Cambridge Center
+Biogen Inc.
 
 Cambridge, MA 02142 USA
 
-©1996-2015 Biogen Idec Inc. All rights reserved.
+U.S. License #1697
+
+© Biogen [1996-2016].
+All rights reserved.
 
 1-800-456-2255
 
