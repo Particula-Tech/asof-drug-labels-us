@@ -20,17 +20,18 @@ For each of the known and possible risk factors for metformin-associated lactic 
 Renal Impairment
 
 The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
-The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
+Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)]:
 
 - Before initiating KAZANO, obtain an eGFR.
-- KAZANO is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2.
+- KAZANO is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
 - KAZANO is not recommended in patients with an eGFR between 30 and 60 mL/min/1.73 m2 because these patients require a lower dosage of alogliptin than what is available in the fixed combination KAZANO product.
 - Obtain an eGFR at least annually in all patients taking KAZANO.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 
 Drug Interactions
 
-The concomitant use of KAZANO with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g. cationic drugs) [see Drug Interactions (7)].
+The concomitant use of KAZANO with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation [see Drug Interactions (7)].
 Therefore, consider more frequent monitoring of patients.
 
 Age 65 or Greater
@@ -70,7 +71,7 @@ Therefore, avoid use of KAZANO in patients with clinical or laboratory evidence 
 
 Acute pancreatitis has been reported in the postmarketing setting and in randomized clinical trials.
 In glycemic control trials in patients with type 2 diabetes, acute pancreatitis was reported in 6 (0.2%) patients treated with alogliptin 25 mg and 2 (<0.1%) patients treated with active comparators or placebo.
-In the EXAMINE trial (a cardiovascular outcomes trial of patients with type 2 diabetes and high cardiovascular (CV) risk), acute pancreatitis was reported in 10 (0.4%) of patients treated with alogliptin and in 7 (0.3%) of patients treated with placebo.
+In the EXAMINE trial (a cardiovascular outcomes trial of patients with type 2 diabetes and high cardiovascular (CV) risk), acute pancreatitis was reported in 10 (0.4%) patients treated with alogliptin and in 7 (0.3%) patients treated with placebo.
 
 It is unknown whether patients with a history of pancreatitis are at increased risk for pancreatitis while using KAZANO.
 
@@ -132,6 +133,13 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.9 Macrovascular Outcomes
+## 5.9 Bullous Pemphigoid
+
+Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
+In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of DPP-4 inhibitor.
+Tell patients to report development of blisters or erosions while receiving KAZANO.
+If bullous pemphigoid is suspected, KAZANO should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
+
+## 5.10 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with KAZANO or any other antidiabetic drug.

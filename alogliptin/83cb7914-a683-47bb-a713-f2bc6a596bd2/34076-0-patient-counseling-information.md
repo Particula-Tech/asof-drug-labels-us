@@ -18,12 +18,15 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 - Patients should be informed that postmarketing reports of liver injury, sometimes fatal, have been reported during use of alogliptin.
   If signs or symptoms of liver injury occur, patients should be instructed to discontinue KAZANO and seek medical advice promptly.
 - Patients should be informed about the importance of regular testing of renal function and hematological parameters when receiving treatment with KAZANO.
+- Instruct patients to inform their doctor that they are taking KAZANO prior to any surgical or radiological procedure, as temporary discontinuation of KAZANO may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
 - Patients should be counseled against excessive alcohol intake, either acute or chronic, while receiving KAZANO.
 - Inform patients that hypoglycemia can occur, particularly when an insulin secretagogue or insulin is used in combination with KAZANO.
   Explain the risks, symptoms and appropriate management of hypoglycemia.
 - Inform patients that severe and disabling joint pain may occur with this class of drugs.
   The time to onset of symptoms can range from one day to years.
   Instruct patients to seek medical advice if severe joint pain occurs.
+- Inform patients that bullous pemphigoid may occur with this class of drugs.
+  Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.10)].
 - Instruct patients to take KAZANO only as prescribed twice daily.
   KAZANO should be taken with food.
   If a dose is missed, advise patients not to double their next dose.
@@ -31,5 +34,3 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
 Instruct patients to read the Medication Guide before starting KAZANO therapy and to reread each time the prescription is refilled.
 Instruct patients to inform their healthcare provider if an unusual symptom develops or if a symptom persists or worsens.
-
-Revised: May 2016 ALM143P R6

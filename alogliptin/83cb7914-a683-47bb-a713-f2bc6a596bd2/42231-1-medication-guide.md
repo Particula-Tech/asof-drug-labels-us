@@ -11,34 +11,65 @@ KAZANO can cause serious side effects, including:
 
 - 1.Lactic Acidosis.
   Metformin, one of the medicines in KAZANO, can cause a rare but serious condition called lactic acidosis (a buildup of an acid in the blood) that can cause death.
-  Lactic acidosis is a medical emergency and must be treated in the hospital.Call your doctor right away if you have any of the following symptoms, which could be signs of lactic acidosis:Most people who have had lactic acidosis with metformin have other things that, combined with metformin, led to the lactic acidosis.
-  Tell your doctor if you have any of the following, because you have a higher chance for getting lactic acidosis with KAZANO if you:The best way to keep from having a problem with lactic acidosis from metformin is to tell your doctor if you have any of the problems listed above.
-  You doctor may decide to stop KAZANO for a while if you have any of these things.KAZANO can have other serious side effects.
-  See "What are the possible side effects of KAZANO?"
-  - you feel cold in your hands or feet
-  - you feel dizzy or lightheaded
-  - you have a slow or irregular heartbeat
-  - you feel very weak or tired
-  - you have unusual (not normal) muscle pain
-  - you have trouble breathing
-  - you feel sleepy or drowsy
-  - you have stomach pains, nausea or vomiting
-  - have severe kidney problems or your kidneys are affected by certain x-ray tests that use injectable dye
-  - have liver problems
-  - drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking
-  - get dehydrated (lose a large amount of body fluids).
-    This can happen if you are sick with a fever, vomiting, or diarrhea.
-    Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids
-  - have surgery
-  - have a heart attack, severe infection, or stroke
+  Lactic acidosis is a medical emergency and must be treated in the hospital.
+
+Call your doctor right away if you have any of the following symptoms, which could be signs of lactic acidosis:
+
+- you feel cold in your hands or feet
+- you feel dizzy or lightheaded
+- you have a slow or irregular heartbeat
+- you feel very weak or tired
+- you have unusual (not normal) muscle pain
+- you have trouble breathing
+- you feel sleepy or drowsy
+- you have stomach pains, nausea or vomiting
+
+Most people who have had lactic acidosis with metformin have other things that, combined with metformin, led to the lactic acidosis.
+Tell your doctor if you have any of the following, because you have a higher chance for getting lactic acidosis with KAZANO if you:
+
+- have severe kidney problems or your kidneys are affected by certain x-ray tests that use injectable dye
+- have liver problems
+- drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking
+- get dehydrated (lose a large amount of body fluids).
+  This can happen if you are sick with a fever, vomiting, or diarrhea.
+  Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids
+- have surgery
+- have a heart attack, severe infection, or stroke
+
+The best way to keep from having a problem with lactic acidosis from metformin is to tell your doctor if you have any of the problems listed above.
+You doctor may decide to stop KAZANO for a while if you have any of these things.
+
+KAZANO can have other serious side effects.
+See "What are the possible side effects of KAZANO?"
+
 - 2.Inflammation of the pancreas (pancreatitis).
   Alogliptin, one of the medicines in KAZANO, may cause pancreatitis, which may be severe.
   Certain medical conditions make you more likely to get pancreatitis.
-  Before you start taking KAZANO:Tell your doctor if you have ever had: pancreatitis kidney problems liver problems Stop taking KAZANO and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
-  The pain may be felt going from your abdomen through to your back.
-  The pain may happen with or without vomiting.
-  These may be symptoms of pancreatitis.
-- 3.Heart failure:Before you start taking KAZANO:Tell your healthcare provider if you have ever had heart failure or have problems with your kidneys.Contact your healthcare provider right away if you have any of the following symptoms: increasing shortness of breath or trouble breathing especially when lying down an unusually fast increase in weight swelling of feet, ankles, or legs These may be symptoms of heart failure.
+
+Before you start taking KAZANO:
+
+Tell your doctor if you have ever had:
+
+| pancreatitis | kidney problems | liver problems |
+| --- | --- | --- |
+
+Stop taking KAZANO and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
+The pain may be felt going from your abdomen through to your back.
+The pain may happen with or without vomiting.
+These may be symptoms of pancreatitis.
+
+- 3.Heart failure:
+
+Before you start taking KAZANO:
+
+Tell your healthcare provider if you have ever had heart failure or have problems with your kidneys.
+
+Contact your healthcare provider right away if you have any of the following symptoms:
+
+| increasing shortness of breath or trouble breathing especially when lying down | an unusually fast increase in weight | swelling of feet, ankles, or legs |
+| --- | --- | --- |
+
+These may be symptoms of heart failure.
 
 What is KAZANO?
 
@@ -64,7 +95,8 @@ Symptoms of a serious allergic reaction to KAZANO may include:
 
 | swelling of your face, lips, throat and other areas on your skinraised, red areas on your skin (hives) | difficulty with swallowing or breathingskin rash, itching, flaking or peeling |
 | --- | --- |
-| If you have any of these symptoms, stop taking KAZANO and contact your doctor or go to the nearest hospital emergency room right away. |  |
+
+If you have any of these symptoms, stop taking KAZANO and contact your doctor or go to the nearest hospital emergency room right away.
 
 What should I tell my doctor before and during treatment with KAZANO?
 
@@ -126,17 +158,34 @@ KAZANO can cause serious side effects, including:
 - Joint pain.
   Some people who take medicines called DPP-4 inhibitors, one of the medicines in KAZANO, may develop joint pain that can be severe.
   Call your doctor if you have severe joint pain.
-  The most common side effects of KAZANO include: cold-like symptoms (upper respiratory tract infection)increase in blood pressureurinary tract infection stuffy or runny nose and sore throatheadache diarrheaback pain Taking KAZANO with food can help lessen the common stomach side effects of metformin that usually happen at the beginning of treatment.
-  If you have unexplained stomach problems, tell your doctor.
-  Stomach problems that start later, during treatment, may be a sign of something more serious.Tell your doctor if you have any side effect that bothers you or that does not go away.These are not all the possible side effects of KAZANO.
-  For more information, ask your doctor or pharmacist.Call your doctor for medical advice about side effects.
-  You may report side effects to FDA at 1-800-FDA-1088.
+- Skin reaction.
+  Some people who take medicines called DPP-4 inhibitors, one of the medicines in KAZANO, may develop a skin reaction called bullous pemphigoid that can require treatment in a hospital.
+  Tell your doctor right away if you develop blisters or the breakdown of the outer layer of your skin (erosion).
+  Your doctor may tell you to stop taking KAZANO.
+
+The most common side effects of KAZANO include:
+
+| cold-like symptoms (upper respiratory tract infection)increase in blood pressureurinary tract infection | stuffy or runny nose and sore throatheadache | diarrheaback pain |
+| --- | --- | --- |
+
+Taking KAZANO with food can help lessen the common stomach side effects of metformin that usually happen at the beginning of treatment.
+If you have unexplained stomach problems, tell your doctor.
+Stomach problems that start later, during treatment, may be a sign of something more serious.
+
+Tell your doctor if you have any side effect that bothers you or that does not go away.
+
+These are not all the possible side effects of KAZANO.
+For more information, ask your doctor or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store KAZANO?
 
 - Store KAZANO at room temperature between 68°F to 77°F (20°C to 25°C).
 - Keep the container of KAZANO tightly closed.
-  Keep KAZANO and all medicines out of the reach of children.
+
+Keep KAZANO and all medicines out of the reach of children.
 
 General information about the safe and effective use of KAZANO
 
@@ -158,7 +207,7 @@ Active ingredients: alogliptin and metformin hydrochloride
 Inactive ingredients: mannitol, microcrystalline cellulose, povidone, crospovidone and magnesium stearate; the tablets are film-coated with hypromellose 2910, talc, titanium dioxide and ferric oxide yellow.
 
 Distributed by Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015.
-KAZANO and NESINA are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and are used under license by Takeda Pharmaceuticals America, Inc. ©2013 - 2016 Takeda Pharmaceuticals America, Inc. ALM143P R6
+KAZANO and NESINA are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and are used under license by Takeda Pharmaceuticals America, Inc. ©2013 - 2016 Takeda Pharmaceuticals America, Inc. ALM143 R9
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-5/2016
+12/2016

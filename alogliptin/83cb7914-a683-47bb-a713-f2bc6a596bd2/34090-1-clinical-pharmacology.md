@@ -30,7 +30,7 @@ Single-dose administration of alogliptin to healthy subjects resulted in a peak 
 The peak inhibition of DPP-4 exceeded 93% across doses of 12.5 mg to 800 mg.
 Inhibition of DPP-4 remained above 80% at 24 hours for doses greater than or equal to 25 mg.
 Peak and total exposure over 24 hours to active GLP-1 were three- to four-fold greater with alogliptin (at doses of 25 to 200 mg) than placebo.
-In a 16-week, double-blind, placebo-controlled study, alogliptin 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an eight-hour period following a standardized meal.
+In a 16 week, double-blind, placebo-controlled study, alogliptin 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an eight hour period following a standardized meal.
 It is unclear how these findings relate to changes in overall glycemic control in patients with type 2 diabetes mellitus.
 In this study, alogliptin 25 mg demonstrated decreases in two-hour postprandial glucose compared to placebo (-30 mg/dL versus 17 mg/dL, respectively).
 
@@ -111,14 +111,11 @@ Special Populations
 
 Renal Impairment
 
-Alogliptin and Metformin Hydrochloride
+Metformin Hydrochloride
 
-Use of KAZANO in patients with renal impairment increases the risk for lactic acidosis.
-Because KAZANO contains metformin, KAZANO is contraindicated in patients with severe renal impairment [see Contraindications (4) and Warnings and Precautions (5.1)].
+In patients with decreased renal function (based on measured creatine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4), Warnings and Precautions (5.1)].
 
 Hepatic Impairment
-
-KAZANO is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1, 5.5)].
 
 Alogliptin
 
@@ -197,7 +194,9 @@ Figure 1.
 Effect of Alogliptin on the Pharmacokinetic Exposure to Other Drugs
 
 *Warfarin was given once daily at a stable dose in the range of 1 mg to 10 mg.
-Alogliptin had no significant effect on the prothrombin time (PT) or International Normalized Ratio (INR). **Caffeine (1A2 substrate), tolbutamide (2C9 substrate), dextromethorphan (2D6 substrate), midazolam (3A4 substrate) and fexofenadine (P-gp substrate) were administered as a cocktail.
+Alogliptin had no significant effect on the prothrombin time (PT) or International Normalized Ratio (INR).
+
+**Caffeine (1A2 substrate), tolbutamide (2C9 substrate), dextromethorphan (2D6 substrate), midazolam (3A4 substrate) and fexofenadine (P-gp substrate) were administered as a cocktail.
 
 Effects of Other Drugs on the Pharmacokinetics of Alogliptin
 
