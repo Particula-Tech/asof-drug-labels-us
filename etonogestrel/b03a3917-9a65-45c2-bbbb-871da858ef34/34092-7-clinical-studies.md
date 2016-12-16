@@ -6,9 +6,9 @@ In clinical trials of up to 3 years duration that involved 923 subjects, 18-40 y
 
 Year 1: 10,866 cycles
 
-Year 2: 8581 cycles
+Year 2: 8,581 cycles
 
-Year 3: 3442 cycles
+Year 3: 3,442 cycles
 
 The clinical trials excluded women who:
 
