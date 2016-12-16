@@ -15,4 +15,4 @@ Librax is a trademark of Valeant Pharmaceuticals International, Inc. or its affi
 
 ©Valeant Pharmaceuticals North America LLC
 
-9548900-20001220 Revised: 08/2016
+9548900-20001220 Revised: 12/2016

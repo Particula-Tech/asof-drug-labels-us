@@ -1,8 +1,8 @@
 # Medication Guide
 
-LIBRAX (phonetic spelling)
+LIBRAX (lee braks)
 
-(chlordiazpoxide HCl and clidinium bromide) capsules
+(chlordiazepoxide HCl and clidinium bromide) capsules
 
 What is the most important information I should know about Librax?
 
@@ -119,10 +119,12 @@ Manufactured in Canada by: Valeant Pharmaceuticals International, Inc. Steinbach
 
 Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-[Trademark information]
+Librax is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-For more information, go to www.XXXX.com or call 1-XXX-XXX-XXXX
+©Valeant Pharmaceuticals North America LLC
 
-- This Medication Guide has been approved by the U.S. Food and Drug Administration
+For more information, go to www.valeant.com or contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576
 
-Issued: Month/Year
+This Medication Guide has been approved by the U.S. Food and Drug Administration
+
+Issued: 12/2016
