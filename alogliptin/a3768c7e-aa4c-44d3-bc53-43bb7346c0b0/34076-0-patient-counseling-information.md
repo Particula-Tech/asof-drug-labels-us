@@ -1,6 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
 Inform patients of the potential risks and benefits of NESINA.
 
 Patients should be informed that acute pancreatitis has been reported during use of NESINA.
@@ -24,8 +25,13 @@ Inform patients that severe and disabling joint pain may occur with this class o
 The time to onset of symptoms can range from one day to years.
 Instruct patients to seek medical advice if severe joint pain occurs.
 
+Inform patients that bullous pemphigoid may occur with this class of drugs.
+Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.7)].
+
 Instruct patients to take NESINA only as prescribed.
 If a dose is missed, advise patients not to double their next dose.
 
 Instruct patients to read the Medication Guide before starting NESINA therapy and to reread each time the prescription is refilled.
 Instruct patients to inform their healthcare provider if an unusual symptom develops or if a symptom persists or worsens.
+
+NES011 R7

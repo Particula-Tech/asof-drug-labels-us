@@ -3,7 +3,6 @@
 ## 2.1 Recommended Dosing
 
 The recommended dose of NESINA is 25 mg once daily.
-
 NESINA may be taken with or without food.
 
 ## 2.2 Patients with Renal Impairment

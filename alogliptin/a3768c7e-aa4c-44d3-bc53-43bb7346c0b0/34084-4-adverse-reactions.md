@@ -6,6 +6,8 @@ The following serious adverse reactions are described below or elsewhere in the 
 - Heart Failure [see Warnings and Precautions (5.2)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
 - Hepatic Effects [see Warnings and Precautions (5.4)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.6)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -23,10 +25,10 @@ Adverse reactions reported in ≥4% of patients treated with NESINA 25 mg and mo
 Table 1.
 Adverse Reactions Reported in ≥4% Patients Treated with NESINA 25 mg and More Frequently Than in Patients Given Placebo in Pooled Studies
 
-|  | N=6447 | N=3469 | N=2257 |
-| --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |
+| --- | --- | --- | --- |
 |  | NESINA 25 mg | Placebo | Active Comparator |
+|  | N=6447 | N=3469 | N=2257 |
 | Nasopharyngitis | 309 (4.8) | 152 (4.4) | 113 (5.0) |
 | Upper Respiratory Tract Infection | 287 (4.5) | 121 (3.5) | 113 (5.0) |
 | Headache | 278 (4.3) | 101 (2.9) | 121 (5.4) |
@@ -91,4 +93,4 @@ Worsening of chronic kidney disease stage was seen in 16.8% of patients treated 
 The following adverse reactions have been identified during the postmarketing use of NESINA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia, acute pancreatitis, diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.1, 5.2, 5.3, 5.5)].
+Acute pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia, bullous pemphigoid, and diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.1, 5.3, 5.4, 5.6, 5.7)].

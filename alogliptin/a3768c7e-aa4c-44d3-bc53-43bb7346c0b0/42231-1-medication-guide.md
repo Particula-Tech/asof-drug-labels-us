@@ -9,14 +9,14 @@ What is the most important information I should know about NESINA?
 
 Serious side effects can happen to people taking NESINA, including:
 
-- 1.Inflammation of the pancreas (pancreatitis): NESINA may cause pancreatitis which may be severe.
-  Certain medical conditions make you more likely to get pancreatitis.
-  Before you start taking NESINA: Tell your doctor if you have ever had: pancreatitis kidney problems liver problems Stop taking NESINA and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
-  The pain may be felt going from your abdomen through to your back.
-  The pain may happen with or without vomiting.
-  These may be symptoms of pancreatitis.
-- 2.Heart failure: Before you start taking NESINA: Tell your healthcare provider if you have ever had heart failure or have problems with your kidneys.
-  Contact your healthcare provider right away if you have any of the following symptoms: increasing shortness of breath or trouble breathing especially when lying down an unusually fast increase in weight swelling of feet, ankles, or legs These may be symptoms of heart failure.
+1. Inflammation of the pancreas (pancreatitis): NESINA may cause pancreatitis which may be severe.
+   Certain medical conditions make you more likely to get pancreatitis.
+   Before you start taking NESINA: Tell your doctor if you have ever had: pancreatitis kidney problems liver problems Stop taking NESINA and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
+   The pain may be felt going from your abdomen through to your back.
+   The pain may happen with or without vomiting.
+   These may be symptoms of pancreatitis.
+2. Heart failure: Before you start taking NESINA: Tell your healthcare provider if you have ever had heart failure or have problems with your kidneys.
+   Contact your healthcare provider right away if you have any of the following symptoms: increasing shortness of breath or trouble breathing especially when lying down an unusually fast increase in weight swelling of feet, ankles, or legs These may be symptoms of heart failure.
 
 What is NESINA?
 
@@ -79,7 +79,10 @@ NESINA can cause serious side effects, including:
 
 See "What is the most important information I should know about NESINA?"
 
-- Allergic (hypersensitivity) reactions such as: swelling of your face, lips, throat and other areas on your skinraised, red areas on your skin (hives) difficulty swallowing or breathingskin rash, itching, flaking or peeling If you have these symptoms, stop taking NESINA and contact your doctor right away.
+- Allergic (hypersensitivity) reactions such as: swelling of your face, lips, throat and other areas on your skinraised, red areas on your skin (hives) difficulty swallowing or breathingskin rash, itching, flaking or peeling
+
+If you have these symptoms, stop taking NESINA and contact your doctor right away.
+
 - Liver problems.
   Call your doctor right away if you have unexplained symptoms, such as: nausea or vomitingloss of appetite stomach paindark urine unusual or unexplained tirednessyellowing of your skin or the whites of your eyes
 - Low blood sugar (hypoglycemia).
@@ -90,6 +93,10 @@ See "What is the most important information I should know about NESINA?"
 - Joint pain.
   Some people who take medicines called DPP-4 inhibitors like NESINA, may develop joint pain that can be severe.
   Call your doctor if you have severe joint pain.
+- Skin reaction.
+  Some people who take medicines called DPP-4 inhibitors, like NESINA, may develop a skin reaction called bullous pemphigoid that can require treatment in a hospital.
+  Tell your doctor right away if you develop blisters or the breakdown of the outer layer of your skin (erosion).
+  Your doctor may tell you to stop taking NESINA.
 
 The most common side effects of NESINA include stuffy or runny nose and sore throat, headache, or cold-like symptoms (upper respiratory tract infection).
 
@@ -128,11 +135,7 @@ Inactive ingredients: mannitol, microcrystalline cellulose, hydroxypropyl cellul
 In addition, the film-coating contains the following inactive ingredients: hypromellose, titanium dioxide, ferric oxide (red or yellow) and polyethylene glycol and is marked with gray F1 printing ink
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015.
-NESINA is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and is used under license by Takeda Pharmaceuticals America, Inc.
-
-© 2013 - 2016 Takeda Pharmaceuticals America, Inc.
-
-NES011 R6
+NESINA is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and is used under license by Takeda Pharmaceuticals America, Inc. © 2013 - 2016 Takeda Pharmaceuticals America, Inc. NES011 R7
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-4/2016
+12/2016

@@ -15,10 +15,10 @@ NESINA had similar changes from baseline in serum lipids compared to placebo.
 ## 14.1 Patients with Inadequate Glycemic Control on Diet and Exercise
 
 A total of 1768 patients with type 2 diabetes participated in three double-blind studies to evaluate the efficacy and safety of NESINA in patients with inadequate glycemic control on diet and exercise.
-All three studies had a four-week, single-blind, placebo run-in period followed by a 26-week randomized treatment period.
-Patients who failed to meet prespecified hyperglycemic goals during the 26-week treatment periods received glycemic rescue therapy.
+All three studies had a four week, single-blind, placebo run-in period followed by a 26 week randomized treatment period.
+Patients who failed to meet prespecified hyperglycemic goals during the 26 week treatment periods received glycemic rescue therapy.
 
-In a 26-week, double-blind, placebo-controlled study, a total of 329 patients (mean baseline A1C = 8%) were randomized to receive NESINA 12.5 mg, NESINA 25 mg or placebo once daily.
+In a 26 week, double-blind, placebo-controlled study, a total of 329 patients (mean baseline A1C = 8%) were randomized to receive NESINA 12.5 mg, NESINA 25 mg or placebo once daily.
 Treatment with NESINA 25 mg resulted in statistically significant improvements from baseline in A1C and fasting plasma glucose (FPG) compared to placebo at Week 26 (Table 3).
 A total of 8% of patients receiving NESINA 25 mg and 30% of those receiving placebo required glycemic rescue therapy.
 
@@ -66,9 +66,9 @@ Glycemic Parameters at Week 26 in an Active-Controlled Study of NESINA, Pioglita
 | Difference from NESINA 25 mg (adjusted mean with 95% confidence interval) | ˗ | ˗ | -24 (-34, -15) |
 | Difference from pioglitazone 30 mg (adjusted mean with 95% confidence interval) | ˗ | ˗ | -13 (-22, -4) |
 
-In a 26-week, double-blind, placebo-controlled study, a total of 784 patients inadequately controlled on diet and exercise alone (mean baseline A1C = 8.4%) were randomized to one of seven treatment groups: placebo; metformin HCl 500 mg or metformin HCl 1000 mg twice daily; NESINA 12.5 mg twice daily; NESINA 25 mg daily; or NESINA 12.5 mg in combination with metformin HCl 500 mg or metformin HCl 1000 mg twice daily.
+In a 26 week, double-blind, placebo-controlled study, a total of 784 patients inadequately controlled on diet and exercise alone (mean baseline A1C = 8.4%) were randomized to one of seven treatment groups: placebo; metformin HCl 500 mg or metformin HCl 1000 mg twice daily; NESINA 12.5 mg twice daily; NESINA 25 mg daily; or NESINA 12.5 mg in combination with metformin HCl 500 mg or metformin HCl 1000 mg twice daily.
 Both coadministration treatment arms (NESINA 12.5 mg + metformin HCl 500 mg and NESINA 12.5 mg + metformin HCl 1000 mg) resulted in statistically significant improvements in A1C and FPG when compared with their respective individual alogliptin and metformin component regimens (Table 5).
-Coadministration treatment arms demonstrated improvements in two-hour postprandial glucose (PPG) compared to NESINA alone or metformin alone (Table 5).
+Coadministration treatment arms demonstrated improvements in two hour postprandial glucose (PPG) compared to NESINA alone or metformin alone (Table 5).
 A total of 12.3% of patients receiving NESINA 12.5 mg + metformin HCl 500 mg, 2.6% of patients receiving NESINA 12.5 mg + metformin HCl 1000 mg, 17.3% of patients receiving NESINA 12.5 mg, 22.9% of patients receiving metformin HCl 500 mg, 10.8% of patients receiving metformin HCl 1000 mg and 38.7% of patients receiving placebo required glycemic rescue.
 
 Improvements in A1C were not affected by gender, age, race or baseline BMI.
@@ -90,22 +90,23 @@ Glycemic Parameters at Week 26 for NESINA and Metformin Alone and in Combination
 | Change from baseline (adjusted mean) | 12 | -10 | -12 | -32 | -32 | -46 |
 | Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -20 (-33, -8) | -14 (-26, -2) |
 | Difference from NESINA (adjusted mean with 95% confidence interval) | - | - | - | - | -22 (-35, -10) | -36 (-49, -24) |
-| 2-Hour PPG (mg/dL)Intent-to-treat population using data available at Week 26 | N=26 | N=34 | N=28 | N=37 | N=31 | N=37 |
+| 2-Hour PPG (mg/dL) | N=26 | N=34 | N=28 | N=37 | N=31 | N=37 |
 | Baseline (mean) | 263 | 272 | 247 | 266 | 261 | 268 |
 | Change from baseline (adjusted mean) | -21 | -43 | -49 | -54 | -68 | -86 |
 | Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -19 (-49, 11) | -32 (-58, -5) |
 | Difference from NESINA (adjusted mean with 95% confidence interval) | - | - | - | - | -25 (-53, -3) | -43 (-70, -16) |
+| ¶ Intent-to-treat population using data available at Week 26 |  |  |  |  |  |  |
 
 ## 14.2 Combination Therapy
 
 Add-On Therapy to Metformin
 
-A total of 2081 patients with type 2 diabetes participated in two 26-week, double-blind, placebo-controlled studies to evaluate the efficacy and safety of NESINA as add-on therapy to metformin.
+A total of 2081 patients with type 2 diabetes participated in two 26 week, double-blind, placebo-controlled studies to evaluate the efficacy and safety of NESINA as add-on therapy to metformin.
 In both studies, patients were inadequately controlled on metformin at a dose of at least 1500 mg per day or at the maximum tolerated dose.
-All patients entered a four-week, single-blind placebo run-in period prior to randomization.
-Patients who failed to meet prespecified hyperglycemic goals during the 26-week treatment periods received glycemic rescue therapy.
+All patients entered a four week, single-blind placebo run-in period prior to randomization.
+Patients who failed to meet prespecified hyperglycemic goals during the 26 week treatment periods received glycemic rescue therapy.
 
-In the first 26-week, placebo-controlled study, a total of 527 patients already on metformin (mean baseline A1C = 8%) were randomized to receive NESINA 12.5 mg, NESINA 25 mg or placebo.
+In the first 26 week, placebo-controlled study, a total of 527 patients already on metformin (mean baseline A1C = 8%) were randomized to receive NESINA 12.5 mg, NESINA 25 mg or placebo.
 Patients were maintained on a stable dose of metformin (median dose = 1700 mg) during the treatment period.
 NESINA 25 mg in combination with metformin resulted in statistically significant improvements from baseline in A1C and FPG at Week 26, when compared to placebo (Table 6).
 A total of 8% of patients receiving NESINA 25 mg and 24% of patients receiving placebo required glycemic rescue.
@@ -129,7 +130,7 @@ Glycemic Parameters at Week 26 in a Placebo-Controlled Study of NESINA as Add-On
 | Change from baseline (adjusted mean) | -17 | 0 |
 | Difference from placebo (adjusted mean with 95% confidence interval) | -17 (-26, -9) | ˗ |
 
-In the second 26-week, double-blind, placebo-controlled study, a total of 1554 patients already on metformin (mean baseline A1C = 8.5%) were randomized to one of 12 double-blind treatment groups: placebo; 12.5 mg or 25 mg of NESINA alone; 15 mg, 30 mg or 45 mg of pioglitazone alone; or 12.5 mg or 25 mg of NESINA in combination with 15 mg, 30 mg or 45 mg of pioglitazone.
+In the second 26 week, double-blind, placebo-controlled study, a total of 1554 patients already on metformin (mean baseline A1C = 8.5%) were randomized to one of 12 double-blind treatment groups: placebo; 12.5 mg or 25 mg of NESINA alone; 15 mg, 30 mg or 45 mg of pioglitazone alone; or 12.5 mg or 25 mg of NESINA in combination with 15 mg, 30 mg or 45 mg of pioglitazone.
 Patients were maintained on a stable dose of metformin (median dose = 1700 mg) during the treatment period.
 Coadministration of NESINA and pioglitazone provided statistically significant improvements in A1C and FPG compared to placebo, to NESINA alone or to pioglitazone alone when added to background metformin therapy (Table 7, Figure 3).
 In addition, improvements from baseline A1C were comparable between NESINA alone and pioglitazone alone (15 mg, 30 mg and 45 mg) at Week 26.
@@ -156,12 +157,15 @@ Glycemic Parameters in a 26-Week Study of NESINA, Pioglitazone and NESINA in Com
 | Difference from pioglitazone (adjusted mean with 95% confidence interval) | - | - | - | - | - | -14 (-24, -5) | -13 (-23, -3) | -20 (-30, -11) |
 | Difference from NESINA (adjusted mean with 95% confidence interval) | - | - | - | - | - | -19 (-29, -10) | -23 (-33, -13) | -34 (-44, -24) |
 
+| Figure 3. Change from Baseline in A1C at Week 26 with NESINA and Pioglitazone Alone and NESINA in Combination with Pioglitazone When Added to Metformin |
+| --- |
+
 Add-On Therapy to a Thiazolidinedione
 
-In a 26-week, placebo-controlled study, a total of 493 patients inadequately controlled on a thiazolidinedione alone or in combination with metformin or a sulfonylurea (10 mg) (mean baseline A1C = 8%) were randomized to receive NESINA 12.5 mg, NESINA 25 mg or placebo.
+In a 26 week, placebo-controlled study, a total of 493 patients inadequately controlled on a thiazolidinedione alone or in combination with metformin or a sulfonylurea (10 mg) (mean baseline A1C = 8%) were randomized to receive NESINA 12.5 mg, NESINA 25 mg or placebo.
 Patients were maintained on a stable dose of pioglitazone (median dose = 30 mg) during the treatment period; those who were also previously treated on metformin (median dose = 2000 mg) or sulfonylurea (median dose = 10 mg) prior to randomization were maintained on the combination therapy during the treatment period.
 All patients entered into a four-week, single-blind placebo run-in period prior to randomization.
-Patients who failed to meet prespecified hyperglycemic goals during the 26-week treatment period received glycemic rescue therapy.
+Patients who failed to meet prespecified hyperglycemic goals during the 26 week treatment period received glycemic rescue therapy.
 
 The addition of NESINA 25 mg once daily to pioglitazone therapy resulted in statistically significant improvements from baseline in A1C and FPG at Week 26, compared to placebo (Table 8).
 A total of 9% of patients who were receiving NESINA 25 mg and 12% of patients receiving placebo required glycemic rescue.
@@ -173,7 +177,7 @@ Clinically meaningful reductions in A1C were observed with NESINA compared to pl
 The mean increase in body weight was similar between NESINA and placebo when given in combination with pioglitazone.
 
 Table 8.
-Glycemic Parameters in a 26-Week, Placebo-Controlled Study of NESINA as Add-On Therapy to PioglitazoneIntent-to-treat population using last observation on study
+Glycemic Parameters in a 26 Week, Placebo-Controlled Study of NESINA as Add-On Therapy to PioglitazoneIntent-to-treat population using last observation on study
 
 |  | NESINA 25 mg + Pioglitazone ± Metformin ± Sulfonylurea | Placebo + Pioglitazone ± Metformin ± Sulfonylurea |
 | --- | --- | --- |
@@ -189,9 +193,9 @@ Glycemic Parameters in a 26-Week, Placebo-Controlled Study of NESINA as Add-On T
 
 Add-on Combination Therapy with Pioglitazone and Metformin
 
-In a 52-week, active-comparator study, a total of 803 patients inadequately controlled (mean baseline A1C = 8.2%) on a current regimen of pioglitazone 30 mg and metformin at least 1500 mg per day or at the maximum tolerated dose were randomized to either receive the addition of NESINA 25 mg or the titration of pioglitazone 30 mg to 45 mg following a four-week, single-blind placebo run-in period.
+In a 52 week, active-comparator study, a total of 803 patients inadequately controlled (mean baseline A1C = 8.2%) on a current regimen of pioglitazone 30 mg and metformin at least 1500 mg per day or at the maximum tolerated dose were randomized to either receive the addition of NESINA 25 mg or the titration of pioglitazone 30 mg to 45 mg following a four-week, single-blind placebo run-in period.
 Patients were maintained on a stable dose of metformin (median dose = 1700 mg).
-Patients who failed to meet prespecified hyperglycemic goals during the 52-week treatment period received glycemic rescue therapy.
+Patients who failed to meet prespecified hyperglycemic goals during the 52 week treatment period received glycemic rescue therapy.
 
 In combination with pioglitazone and metformin, NESINA 25 mg was shown to be statistically superior in lowering A1C and FPG compared with the titration of pioglitazone from 30 mg to 45 mg at Week 26 and at Week 52 (Table 9; results shown only for Week 52).
 A total of 11% of patients in the NESINA 25 mg treatment group and 22% of patients in the pioglitazone up-titration group required glycemic rescue.
@@ -201,7 +205,7 @@ Improvements in A1C were not affected by gender, age, race or baseline BMI.
 The mean increase in body weight was similar in both treatment arms.
 
 Table 9.
-Glycemic Parameters in a 52-Week, Active-Controlled Study of NESINA as Add-On Combination Therapy to Metformin and PioglitazoneIntent-to-treat population using last observation on study
+Glycemic Parameters in a 52 Week, Active-Controlled Study of NESINA as Add-On Combination Therapy to Metformin and PioglitazoneIntent-to-treat population using last observation on study
 
 |  | NESINA 25 mg + Pioglitazone 30 mg + Metformin | Pioglitazone 45 mg + Metformin |
 | --- | --- | --- |
@@ -217,10 +221,10 @@ Glycemic Parameters in a 52-Week, Active-Controlled Study of NESINA as Add-On Co
 
 Add-On Therapy to a Sulfonylurea
 
-In a 26-week, placebo-controlled study, a total of 500 patients inadequately controlled on a sulfonylurea (mean baseline A1C = 8.1%) were randomized to receive NESINA 12.5 mg, NESINA 25 mg or placebo.
+In a 26 week, placebo-controlled study, a total of 500 patients inadequately controlled on a sulfonylurea (mean baseline A1C = 8.1%) were randomized to receive NESINA 12.5 mg, NESINA 25 mg or placebo.
 Patients were maintained on a stable dose of glyburide (median dose = 10 mg) during the treatment period.
-All patients entered into a four-week, single-blind, placebo run-in period prior to randomization.
-Patients who failed to meet prespecified hyperglycemic goals during the 26-week treatment period received glycemic rescue therapy.
+All patients entered into a four week, single-blind, placebo run-in period prior to randomization.
+Patients who failed to meet prespecified hyperglycemic goals during the 26 week treatment period received glycemic rescue therapy.
 
 The addition of NESINA 25 mg to glyburide therapy resulted in statistically significant improvements from baseline in A1C at Week 26 when compared to placebo (Table 10).
 Improvements in FPG observed with NESINA 25 mg were not statistically significant compared with placebo.
@@ -231,7 +235,7 @@ Improvements in A1C were not affected by gender, age, baseline BMI or baseline g
 The mean change in body weight was similar between NESINA and placebo when given in combination with glyburide.
 
 Table 10.
-Glycemic Parameters in a 26-Week, Placebo-Controlled Study of NESINA as Add-On Therapy to GlyburideIntent-to-treat population using last observation on study
+Glycemic Parameters in a 26 Week, Placebo-Controlled Study of NESINA as Add-On Therapy to GlyburideIntent-to-treat population using last observation on study
 
 |  | NESINA 25 mg + Glyburide | Placebo + Glyburide |
 | --- | --- | --- |
@@ -247,10 +251,10 @@ Glycemic Parameters in a 26-Week, Placebo-Controlled Study of NESINA as Add-On T
 
 Add-On Therapy to Insulin
 
-In a 26-week, placebo-controlled study, a total of 390 patients inadequately controlled on insulin alone (42%) or in combination with metformin (58%) (mean baseline A1C = 9.3%) were randomized to receive NESINA 12.5 mg, NESINA 25 mg or placebo.
+In a 26 week, placebo-controlled study, a total of 390 patients inadequately controlled on insulin alone (42%) or in combination with metformin (58%) (mean baseline A1C = 9.3%) were randomized to receive NESINA 12.5 mg, NESINA 25 mg or placebo.
 Patients were maintained on their insulin regimen (median dose = 55 IU) upon randomization and those previously treated with insulin in combination with metformin (median dose = 1700 mg) prior to randomization continued on the combination regimen during the treatment period.
 Patients entered the trial on short-, intermediate- or long-acting (basal) insulin or premixed insulin.
-Patients who failed to meet prespecified hyperglycemic goals during the 26-week treatment period received glycemic rescue therapy.
+Patients who failed to meet prespecified hyperglycemic goals during the 26 week treatment period received glycemic rescue therapy.
 
 The addition of NESINA 25 mg once daily to insulin therapy resulted in statistically significant improvements from baseline in A1C and FPG at Week 26, when compared to placebo (Table 11).
 A total of 20% of patients receiving NESINA 25 mg and 40% of those receiving placebo required glycemic rescue.
@@ -303,18 +307,21 @@ The upper bound of the confidence interval was 1.16 and excluded a risk margin l
 Table 12.
 Patients with MACE in EXAMINE
 
-| 305 (11.3) | 7.6 | 316 (11.8) | 7.9 | 0.96 (0.80, 1.16) |  |
-| --- | --- | --- | --- | --- | --- |
 | Composite of first event of CV death, nonfatal MI or nonfatal stroke (MACE) | NESINA |  | Placebo |  | Hazard Ratio |
+| --- | --- | --- | --- | --- | --- |
 | Number of Patients (%) | Rate per 100 PYPatient Years (PY) | Number of Patients (%) | Rate per 100 PY | (98% CI) |  |
 | N=2701 |  | N=2679 |  |  |  |
+| 305 (11.3) | 7.6 | 316 (11.8) | 7.9 | 0.96 (0.80, 1.16) |  |
 | CV Death | 89 (3.3) | 2.2 | 111 (4.1) | 2.8 |  |
 | Non-fatal MI | 187 (6.9) | 4.6 | 173 (6.5) | 4.3 |  |
 | Non-fatal stroke | 29 (1.1) | 0.7 | 32 (1.2) | 0.8 |  |
 
 The Kaplan-Meier based cumulative event probability is presented in Figure 4 for the time to first occurrence of the primary MACE composite endpoint by treatment arm.
 The curves for placebo and NESINA overlap throughout the duration of the study.
-The observed incidence of MACE was highest within the first 60 days after randomization in both treatment arms (14.8 MACE per 100 PY), decreased from day 60 to the end of the first year (8.4 per 100 PY) and was lowest after 1 year of follow-up (5.2 per 100 PY).
+The observed incidence of MACE was highest within the first 60 days after randomization in both treatment arms (14.8 MACE per 100 PY), decreased from day 60 to the end of the first year (8.4 per 100 PY) and was lowest after one year of follow-up (5.2 per 100 PY).
+
+| Figure 4. Observed Cumulative Rate of MACE in EXAMINE |
+| --- |
 
 The rate of all cause death was similar between treatment arms with 153 (3.6 per 100 PY) recorded among patients randomized to NESINA and 173 (4.1 per 100 PY) among patients randomized to placebo.
 A total of 112 deaths (2.9 per 100 PY) among patients on NESINA and 130 among patients on placebo (3.5 per 100 PY) were adjudicated as cardiovascular deaths.
