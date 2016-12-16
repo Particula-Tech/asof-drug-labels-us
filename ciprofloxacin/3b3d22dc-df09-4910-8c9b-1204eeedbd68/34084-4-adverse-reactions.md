@@ -1,32 +1,33 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
-- Tendon Effects [see Warnings and Precautions (5.1)]
-- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.2)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
-- Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.4)]
-- Hepatotoxicity [see Warnings and Precautions (5.5)]
-- Serious Adverse Reactions with Concomitant Theophylline [see Warnings andPrecautions (5.6)]
-- Central Nervous System Effects [see Warnings and Precautions (5.7)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.8)]
-- Peripheral Neuropathy [see Warnings and Precautions (5.9)]
-- Prolongation of the QT Interval [see Warnings and Precautions (5.10)]
-- Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.11)]
+- Disabling and Potentially Irreversible Serious Adverse Reactions [see Warnings and Precautions (5.1)]
+- Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.3)]
+- Central Nervous System Effects [see Warnings and Precautions (5.4)]
+- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
+- Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.6)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- Hepatotoxicity [see Warnings and Precautions (5.8)]
+- Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.9)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
+- Prolongation of the QT Interval [see Warnings and Precautions (5.11)]
+- Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.12)]
 - Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
 - Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
 
-## 6.1 Clinical Trials Experience
+## 6.1Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Adult Patients
 
-During clinical investigations with oral and parenteral Ciprofloxacin Tablets, USP 49,038 patients received courses of the drug.
+During clinical investigations with oral and parenteral ciprofloxacin 49,038 patients received courses of the drug.
 
 The most frequently reported adverse reactions, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1%), and rash (1%).
 
-Table 6: Medically Important Adverse Reactions That Occurred In less than 1% of Ciprofloxacin Patients:
+Table 6: Medically Important Adverse Reactions That Occurred In less than 1% of Ciprofloxacin Patients
 
 | System Organ Class | Adverse Reactions |
 | --- | --- |
@@ -42,7 +43,7 @@ Table 6: Medically Important Adverse Reactions That Occurred In less than 1% of 
 | Skin/Hypersensitivity | Anaphylactic Reactions including life-threatening anaphylactic shock Erythema Multiforme/Stevens-Johnson Syndrome Exfoliative Dermatitis Toxic Epidermal Necrolysis Pruritus Urticaria Photosensitivity/Phototoxicity reaction Flushing Fever Angioedema Erythema Nodosum Sweating |
 | Special Senses | Blurred Vision Disturbed Vision (chromatopsia and photopsia) Decreased Visual Acuity Diplopia Tinnitus Hearing Loss Bad Taste |
 
-In randomized, double-blind controlled clinical trials comparing Ciprofloxacin Tablets, USP [500 mg two times daily (BID)] to cefuroxime axetil (250 mg–500 mg BID) and to clarithromycin (500 mg BID) in patients with respiratory tract infections, Ciprofloxacin Tablets, USP demonstrated a CNS adverse reaction profile comparable to the control drugs.
+In randomized, double-blind controlled clinical trials comparing ciprofloxacin tablets [500 mg two times daily (BID)] to cefuroxime axetil (250 mg–500 mg BID) and to clarithromycin (500 mg BID) in patients with respiratory tract infections, ciprofloxacin tablets demonstrated a CNS adverse reaction profile comparable to the control drugs.
 
 Pediatric Patients
 
@@ -60,7 +61,7 @@ At the end of 1 year, the rate of these adverse reactions reported at any time d
 
 Table 7: Musculoskeletal Adverse Reactions1 as Assessed by the IPSC
 
-|  | Ciprofloxacin Tablets USP | Comparator |  |
+|  | Ciprofloxacin Tablets | Comparator |  |
 | --- | --- | --- | --- |
 | All Patients (within 6 weeks) | 31/335 (9.3%) | 21/349 (6%) |  |
 | 95% Confidence Interval2 | (-0.8%, +7.2%) |  |  |
@@ -76,7 +77,7 @@ Table 7: Musculoskeletal Adverse Reactions1 as Assessed by the IPSC
 2. The study was designed to demonstrate that the arthropathy rate for the ciprofloxacin group did not exceed that of the control group by more than + 6%.
    At both the 6 week and 1 year evaluations, the 95% confidence interval indicated that it could not be concluded that the ciprofloxacin group had findings comparable to the control group.
 
-The incidence rates of neurological adverse reactions within 6 weeks of treatment initiation were 3% (9/335) in the ciprofloxacin group versus 2% (7/349) in the comparator group and included dizziness, nervousness, insomnia, and somnolence.
+The incidence rates of neurological adverse reactions within 6 weeks of treatment initiation were 3% (9/335) in the ciprofloxacin tablets group versus 2% (7/349) in the comparator group and included dizziness, nervousness, insomnia, and somnolence.
 
 In this trial, the overall incidence rates of adverse reactions within 6 weeks of treatment initiation were 41% (138/335) in the ciprofloxacin group versus 31% (109/349) in the comparator group.
 The most frequent adverse reactions were gastrointestinal: 15% (50/335) of ciprofloxacin patients compared to 9% (31/349) of comparator patients.
@@ -87,18 +88,18 @@ Other adverse reactions that occurred in at least 1% of ciprofloxacin patients w
 Short-term safety data for ciprofloxacin was also collected in a randomized, double-blind clinical trial for the treatment of acute pulmonary exacerbations in cystic fibrosis patients (ages 5–17 years).
 Sixty seven patients received ciprofloxacin IV 10 mg/kg/dose every 8 hours for one week followed by ciprofloxacin tablets 20 mg/kg/dose every 12 hours to complete 10–21 days treatment and 62 patients received the combination of ceftazidime intravenous 50 mg/kg/dose every 8 hours and tobramycin intravenous 3 mg/kg/dose every8 hours for a total of 10–21 days.
 Periodic musculoskeletal assessments were conducted by treatment-blinded examiners.
-Patients were followed for an average of 23 days after completing treatment (range 0–93 days).
+Patients were followed for an average of 23 days after completing treatment (range 0– 93 days).
 Musculoskeletal adverse reactions were reported in 22% of the patients in the ciprofloxacin group and 21% in the comparison group.
 Decreased range of motion was reported in 12% of the subjects in the ciprofloxacin group and 16% in the comparison group.
 Arthralgia was reported in 10% of the patients in the ciprofloxacin group and 11% in the comparison group.
 Other adverse reactions were similar in nature and frequency between treatment arms.
-The efficacy of ciprofloxacin for the treatment of acute pulmonary exacerbations in pediatric cystic fibrosis patients has not been established.
+The efficacy of ciprofloxacin tablets for the treatment of acute pulmonary exacerbations in pediatric cystic fibrosis patients has not been established.
 
 In addition to the adverse reactions reported in pediatric patients in clinical trials, it should be expected that adverse reactions reported in adults during clinical trials or postmarketing experience may also occur in pediatric patients.
 
-## 6.2 Postmarketing Experience
+## 6.2Postmarketing Experience
 
-The following adverse reactions have been reported from worldwide marketing experience with fluoroquinolones, including ciprofloxacin.
+The following adverse reactions have been reported from worldwide marketing experience with fluoroquinolones, including ciprofloxacin tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 8).
 
 Table 8: Postmarketing Reports of Adverse Drug Reactions
@@ -118,9 +119,9 @@ Table 8: Postmarketing Reports of Adverse Drug Reactions
 | Skin/Hypersensitivity | Acute generalize exanthematous pustulosis (AGEP) Fixed eruption Serum sickness-like reaction |
 | Special Senses | Anosmia Hyperesthesia Hypesthesia Taste loss |
 
-## 6.3 Adverse Laboratory Changes
+## 6.3Adverse Laboratory Changes
 
-Changes in laboratory parameters while on ciprofloxacin are listed below:
+Changes in laboratory parameters while on ciprofloxacin tablets are listed below:
 
 Hepatic –Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
 
@@ -128,4 +129,4 @@ Hematologic–Eosinophilia, leukopenia, decreased blood platelets, elevated bloo
 
 Renal–Elevations of serum creatinine, BUN, crystalluria, cylindruria, and hematuria have been reported.
 
-Other changes occurring were: elevation of serum gamma glutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, and leukocytosis.
+Other changes occurring were: elevation of serum gammaglutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, and leukocytosis.

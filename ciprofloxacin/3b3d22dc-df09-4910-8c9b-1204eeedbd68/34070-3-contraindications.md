@@ -1,9 +1,9 @@
-# 4 CONTRAINDICATIONS
+# 4CONTRAINDICATIONS
 
-## 4.1 Hypersensitivity
+## 4.1Hypersensitivity
 
-Ciprofloxacin tablets, USP are contraindicated in persons with a history of hypersensitivity to ciprofloxacin, any member of the quinolone class of antibacterials, or any of the product components [see Warnings and Precautions (5.3)].
+Ciprofloxacin tablets are contraindicated in persons with a history of hypersensitivity to ciprofloxacin, any member of the quinolone class of antibacterials, or any of the product components [see Warnings and Precautions (5.7)].
 
-## 4.2 Tizanidine
+## 4.2Tizanidine
 
 Concomitant administration with tizanidine is contraindicated [see Drug Interactions (7)].
