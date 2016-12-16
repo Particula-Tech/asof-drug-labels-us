@@ -2,8 +2,8 @@
 
 Clinical Presentation
 
-Acute overdosage with BELBUCA is manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
-Marked mydriasis rather than miosis may be seen due to severe hypoxia in overdose situations.
+Acute overdosage with BELBUCA is manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
+Marked mydriasis rather than miosis may be seen due to severe hypoxia in overdose situations [see Clinical Pharmacology (12.2)].
 
 Treatment of Overdose
 
@@ -20,5 +20,5 @@ Because the duration of reversal would be expected to be less than the duration 
 Even in the face of improvement, continued medical monitoring is required for at least 24 hours because of the possibility of extended effects of buprenorphine.
 
 In an individual physically dependent on opioids, administration of an opioid receptor antagonist may precipitate an acute withdrawal.
-The severity of the withdrawal produced will depend on the degree of physical dependence and the dose of the antagonist administered.
-If a decision is made to treat serious respiratory depression in the physically dependent patient with an opioid antagonist, administration of the antagonist should be begun with care and by titration with smaller than usual doses of the antagonist.
+The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
+If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be begun with care and by titration with smaller than usual doses of the antagonist.

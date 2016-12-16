@@ -39,12 +39,12 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 For more information call Endo Pharmaceuticals at 1-800-462-3636.
 
-Marketed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
+Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
 BELBUCA is a trademark of Endo International plc or one of its affiliates.
 
 ©2015 Endo Pharmaceuticals Inc. All rights reserved.
 
-10/2015
+12/2016
 
-116116
+117832

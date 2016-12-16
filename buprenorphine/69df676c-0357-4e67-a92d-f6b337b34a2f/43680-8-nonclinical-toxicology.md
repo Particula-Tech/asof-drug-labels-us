@@ -5,7 +5,7 @@
 Carcinogenesis
 
 Carcinogenicity studies of buprenorphine were conducted in Sprague-Dawley rats and CD-1 mice.
-Buprenorphine was administered in the diet to rats at doses of 0.6, 5.5, and 56 mg/kg/day for 27 months (estimated exposure was approximately 3, 29, and 299 times the maximum recommended human dose (MRHD) of buccal Belbuca of 1.8 mg on a mg/m 2 basis, respectively).
+Buprenorphine was administered in the diet to rats at doses of 0.6, 5.5, and 56 mg/kg/day for 27 months (estimated exposure was approximately 3, 29, and 299 times the maximum recommended human dose (MRHD) of buccal BELBUCA of 1.8 mg on a mg/m2 basis, respectively).
 Statistically significant dose-related increases in testicular interstitial (Leydig’s) cell tumors occurred.
 In an 86-week study in CD-1 mice, buprenorphine was not carcinogenic at dietary doses up to 100 mg/kg/day (estimated exposure was approximately 267 times the MRHD).
 

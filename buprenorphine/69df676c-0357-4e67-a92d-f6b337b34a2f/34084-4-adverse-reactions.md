@@ -5,9 +5,11 @@ The following serious adverse reactions described elsewhere in the labeling incl
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- Interactions with other CNS Depressants [see Warnings and Precautions (5.4)]
+- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.4)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.6)]
 - QTc Prolongation [see Warnings and Precautions (5.7)]
 - Severe Hypotension [see Warnings and Precautions (5.8)]
+- Hepatotoxicity [see Warnings and Precautions (5.10)]
 - Anaphylactic/Allergic Reactions [see Warnings and Precautions (5.12)]
 - Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
 - Seizures [see Warnings and Precautions (5.14)]
@@ -96,3 +98,16 @@ Vascular disorders: hot flush, hypertension
 Least common (<1%) adverse reactions:
 
 Abdominal discomfort, acute sinusitis, dyspepsia, toothache, asthenia, chills, cellulitis, tooth abscess, excoriation, laceration, aspartate aminotransferase increased, blood pressure increased, blood testosterone decreased, electrocardiogram QT prolonged, liver function test abnormal, musculoskeletal pain, neck pain, hypoesthesia, lethargy, migraine, tremor, cough, dyspnea, nasal congestion, rhinorrhea
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of buprenorphine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis:Anaphylaxis has been reported with ingredients contained in BELBUCA.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
