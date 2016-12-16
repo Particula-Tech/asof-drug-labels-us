@@ -48,14 +48,14 @@ Of the adverse events listed in the table, bradycardia, diarrhea, asthenia, fati
 | edema (peripheral) | 3.8 | 3.7 | 3 |
 | a percentage of patients with event |  |  |  |
 
-The following is a comprehensive list of adverse experiences reported with bisoprolol fumarate in worldwide studies, or in postmarketing experience (in italics): Central Nervous System Dizziness, unsteadiness , vertigo, syncope , headache, paresthesia, hypoaesthesia, hyperesthesia, somnolence, sleep disturbances , anxiety/restlessness, decreased concentration/memory.
+The following is a comprehensive list of adverse experiences reported with bisoprolol fumarate in worldwide studies, or in postmarketing experience (in italics): Central Nervous System Dizziness, unsteadiness, vertigo, syncope, headache, paresthesia, hypoaesthesia, hyperesthesia, somnolence, sleep disturbances, anxiety/restlessness, decreased concentration/memory.
 Autonomic Nervous System Dry mouth.
 Cardiovascular Bradycardia, palpitations and other rhythm disturbances, cold extremities, claudication, hypotension, orthostatic hypotension, chest pain, congestive heart failure, dyspnea on exertion.
 Psychiatric Vivid dreams, insomnia, depression.
 Gastrointestinal Gastric/epigastric/abdominal pain, gastritis, dyspepsia, nausea, vomiting, diarrhea, constipation, peptic ulcer.
-Musculoskeletal Muscle/joint pain, arthralgia , back/neck pain, muscle cramps, twitching/tremor.
-Skin Rash, acne, eczema, psoriasis , skin irritation, pruritus, flushing, sweating, alopecia, dermatitis , angioedema, exfoliative dermatitis, cutaneous vasculitis.
-Special Senses Visual disturbances, ocular pain/pressure, abnormal lacrimation, tinnitus, decreased hearing , earache, taste abnormalities.
+Musculoskeletal Muscle/joint pain, arthralgia, back/neck pain, muscle cramps, twitching/tremor.
+Skin Rash, acne, eczema, psoriasis, skin irritation, pruritus, flushing, sweating, alopecia, dermatitis, angioedema, exfoliative dermatitis, cutaneous vasculitis.
+Special Senses Visual disturbances, ocular pain/pressure, abnormal lacrimation, tinnitus, decreased hearing, earache, taste abnormalities.
 Metabolic Gout.
 Respiratory Asthma/bronchospasm, bronchitis, coughing, dyspnea, pharyngitis, rhinitis, sinusitis, URI.
 Genitourinary Decreased libido/impotence, Peyronie‘s disease, cystitis, renal colic, polyuria.

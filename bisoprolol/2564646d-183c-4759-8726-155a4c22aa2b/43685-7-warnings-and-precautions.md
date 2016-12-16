@@ -23,14 +23,14 @@ A beta2 agonist (bronchodilator) should be made available.
 Major Surgery Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 Diabetes and Hypoglycemia Beta-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
 Nonselective beta-blockers may potentiate insulin-induced hypoglycemia and delay recovery of serum glucose levels.
-Because of its beta 1 -selectivity, this is less likely with bisoprolol fumarate.
+Because of its beta1-selectivity, this is less likely with bisoprolol fumarate.
 However, patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, should be cautioned about these possibilities and bisoprolol fumarate should be used with caution.
 Thyrotoxicosis Beta-adrenergic blockade may mask clinical signs of hyperthyroidism, such as tachycardia.
 Abrupt withdrawal of beta-blockade may be followed by an exacerbation of the symptoms of hyperthyroidism or may precipitate thyroid storm.
 
 # PRECAUTIONS
 
-Impaired Renal or Hepatic Function Use caution in adjusting the dose of bisoprolol fumarate in patients with renal or hepatic impairment (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION ).
+Impaired Renal or Hepatic Function Use caution in adjusting the dose of bisoprolol fumarate in patients with renal or hepatic impairment (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 Drug Interactions Bisoprolol fumarate should not be combined with other beta-blocking agents.
 Patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, should be closely monitored, because the added beta-adrenergic blocking action of bisoprolol fumarate may produce excessive reduction of sympathetic activity.
 In patients receiving concurrent therapy with clonidine, if therapy is to be discontinued, it is suggested that bisoprolol fumarate be discontinued for several days before the withdrawal of clonidine.

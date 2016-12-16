@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
-Bisoprolol fumarate is a beta 1 -selective (cardioselective) adrenoceptor blocking agent without significant membrane stabilizing activity or intrinsic sympathomimetic activity in its therapeutic dosage range.
-Cardioselectivity is not absolute, however, and at higher doses (≥20 mg) bisoprolol fumarate also inhibits beta 2 -adrenoceptors, chiefly located in the bronchial and vascular musculature; to retain selectivity it is therefore important to use the lowest effective dose.
+Bisoprolol fumarate is a beta1-selective (cardioselective) adrenoceptor blocking agent without significant membrane stabilizing activity or intrinsic sympathomimetic activity in its therapeutic dosage range.
+Cardioselectivity is not absolute, however, and at higher doses (≥20 mg) bisoprolol fumarate also inhibits beta2-adrenoceptors, chiefly located in the bronchial and vascular musculature; to retain selectivity it is therefore important to use the lowest effective dose.
 Pharmacokinetics and Metabolism The absolute bioavailability after a 10 mg oral dose of bisoprolol fumarate is about 80%.
 Absorption is not affected by the presence of food.
 The first pass metabolism of bisoprolol fumarate is about 20%.
@@ -28,11 +28,11 @@ In normal volunteers, bisoprolol fumarate therapy resulted in a reduction of exe
 The maximal effect occurred within 1 to 4 hours post-dosing.
 Effects persisted for 24 hours at doses equal to or greater than 5 mg.
 Electrophysiology studies in man have demonstrated that bisoprolol fumarate significantly decreases heart rate, increases sinus node recovery time, prolongs AV node refractory periods, and, with rapid atrial stimulation, prolongs AV nodal conduction.
-Beta 1 -selectivity of bisoprolol fumarate has been demonstrated in both animal and human studies.
-No effects at therapeutic doses on beta 2 -adrenoceptor density have been observed.
+Beta1-selectivity of bisoprolol fumarate has been demonstrated in both animal and human studies.
+No effects at therapeutic doses on beta2-adrenoceptor density have been observed.
 Pulmonary function studies have been conducted in healthy volunteers, asthmatics, and patients with chronic obstructive pulmonary disease (COPD).
 Doses of bisoprolol fumarate ranged from 5 to 60 mg, atenolol from 50 to 200 mg, metoprolol from 100 to 200 mg, and propranolol from 40 to 80 mg.
-In some studies, slight, asymptomatic increases in airways resistance (AWR) and decreases in forced expiratory volume (FEV 1 ) were observed with doses of bisoprolol fumarate 20 mg and higher, similar to the small increases in AWR also noted with the other cardioselective beta-blockers.
+In some studies, slight, asymptomatic increases in airways resistance (AWR) and decreases in forced expiratory volume (FEV1) were observed with doses of bisoprolol fumarate 20 mg and higher, similar to the small increases in AWR also noted with the other cardioselective beta-blockers.
 The changes induced by beta-blockade with all agents were reversed by bronchodilator therapy.
 Bisoprolol fumarate had minimal effect on serum lipids during antihypertensive studies.
 In U.S. placebo-controlled trials, changes in total cholesterol averaged +0.8% for bisoprolol fumarate-treated patients, and +0.7% for placebo.
@@ -49,16 +49,16 @@ Sitting Systolic/Diastolic Pressure (BP) and Heart Rate (HR) Mean Decrease (D) A
 | --- | --- | --- | --- | --- |
 | Study A |  | Bisoprolol Fumarate |  |  |
 | n= | 61 | 61 | 61 | 61 |
-| Total ΔBP (mm Hg) | 5.4/3.2 | 10.4/8 | 11.2/10.9 | 12.8/11.9 |
+| Total ?BP (mm Hg) | 5.4/3.2 | 10.4/8 | 11.2/10.9 | 12.8/11.9 |
 | Drug Effecta | - | 5/4.8 | 5.8/7.7 | 7.4/8.7 |
-| Total ΔHR (bpm) | 0.5 | 7.2 | 8.7 | 11.3 |
+| Total ?HR (bpm) | 0.5 | 7.2 | 8.7 | 11.3 |
 | Drug Effecta | - | 6.7 | 8.2 | 10.8 |
 | Study B |  | Bisoprolol Fumarate |  |  |
 |  | Placebo | 2.5 mg | 10 mg |  |
 | n= | 56 | 59 | 62 |  |
-| Total ΔBP (mm Hg) | 3/3.7 | 7.6/8.1 | 13.5/11.2 |  |
+| Total ?BP (mm Hg) | 3/3.7 | 7.6/8.1 | 13.5/11.2 |  |
 | Drug Effecta | - | 4.6/4.4 | 10.5/7.5 |  |
-| Total ΔHR (bpm) | 1.6 | 3.8 | 10.7 |  |
+| Total ?HR (bpm) | 1.6 | 3.8 | 10.7 |  |
 | Drug Effecta | - | 2.2 | 9.1 |  |
 | a Observed total change from baseline minus placebo. |  |  |  |  |
 
