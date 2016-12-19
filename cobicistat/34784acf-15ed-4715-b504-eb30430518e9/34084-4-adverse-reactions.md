@@ -6,13 +6,12 @@ The following adverse drug reactions are discussed in other sections of the labe
 - Severe Acute Exacerbations of Hepatitis B [see Boxed Warning and Warnings and Precautions (5.2)]
 - Immune Reconstitution Syndrome [see Warnings and Precautions (5.5)]
 - New Onset or Worsening Renal Impairment [see Warnings and Precautions (5.6)]
-- Bone Loss and Mineralization Defects [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clinical Trials in Treatment Naïve Adults
+Clinical Trials in Treatment-Naïve Adults
 
 The primary safety assessment of GENVOYA was based on Week 96 pooled data from 1733 subjects in two randomized, double-blind, active-controlled trials, Study 104 and Study 111, in antiretroviral treatment-naïve HIV-1 infected adult subjects.
 A total of 866 subjects received one tablet of GENVOYA once daily [see Clinical Studies (14.2)].
@@ -22,7 +21,7 @@ The proportion of subjects who discontinued treatment with GENVOYA or STRIBILD®
 Table 2 displays the frequency of adverse reactions (all Grades) greater than or equal to 5% in the GENVOYA group.
 
 Table 2 Adverse ReactionsFrequencies of adverse reactions are based on all adverse events attributed to study drugs by the investigator.
-(All Grades) Reported in ≥ 5% of HIV-1 Infected Treatment Naïve Adults Receiving GENVOYA in Studies 104 and 111 (Week 96 analysis)
+(All Grades) Reported in ≥ 5% of HIV-1 Infected Treatment-Naïve Adults Receiving GENVOYA in Studies 104 and 111 (Week 96 analysis)
 
 |  | GENVOYA N=866 | STRIBILD N=867 |
 | --- | --- | --- |
@@ -39,41 +38,35 @@ The majority of events presented in Table 2 occurred at severity Grade 1.
 Clinical Trials in Virologically Suppressed Adults
 
 The safety of GENVOYA in virologically-suppressed adults was based on Week 48 data from 959 subjects in a randomized, open-label, active-controlled trial (Study 109) in which virologically-suppressed subjects were switched from a TDF-containing combination regimen to GENVOYA.
-Overall, the safety profile of GENVOYA in subjects in this study was similar to that of treatment naïve subjects [see Clinical Studies (14.3)].
+Overall, the safety profile of GENVOYA in subjects in this study was similar to that of treatment-naïve subjects [see Clinical Studies (14.3)].
 
 Clinical Trials in Adult Subjects with Renal Impairment
 
-In an open-label trial (Study 112), 248 HIV-1 infected subjects with eGFR of 30 to 69 mL per minute (by Cockcroft-Gault method) were treated with GENVOYA for a median duration of 43 weeks.
-Of these subjects, 64% had previously been on a stable TDF-containing regimen.
-Among the 80 subjects with baseline eGFR less than 50 mL per minute receiving GENVOYA, two subjects developed worsening renal impairment and discontinued treatment.
-One subject with an eGFR over 50 mL per minute developed transient acute renal failure.
+In an open-label trial (Study 112), 248 HIV-1 infected subjects with eGFR of 30 to 69 mL per minute (by Cockcroft-Gault method) were treated with GENVOYA for a median duration of 108 weeks.
+Of these subjects, 65% had previously been on a stable TDF-containing regimen.
+A total of 5 subjects permanently discontinued GENVOYA due to the development of renal adverse events.
+Three of these five were among the 80 subjects with baseline eGFRs of < 50mL/min and two subjects were among the 162 subjects with baseline eGFRs of ≥ 50mL/min.
+One additional subject with baseline eGFR of ≥ 50mL/min developed acute renal failure.
+Following a brief interruption, GENVOYA was resumed and this subject's renal function returned to baseline.
+Overall, renally impaired subjects receiving GENVOYA in this study had a mean serum creatinine of 1.5 mg/dL at baseline and 1.4 mg/dL at Week 96.
 Otherwise, the safety profile of GENVOYA in subjects in this study was similar to that of subjects with normal renal function [see Clinical Studies (14.4)].
 
-Renal Laboratory Tests
+Renal Laboratory Tests and Renal Safety
 
-Treatment Naïve Adults:
+Treatment-Naïve Adults:
 
 Cobicistat (a component of GENVOYA) has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting glomerular filtration [see Clinical Pharmacology (12.2)].
 Increases in serum creatinine occurred by Week 2 of treatment and remained stable through 96 weeks.
 
-In two 96-week randomized, controlled trials in a total of 1733 treatment naïve adults with a median baseline eGFR of 115 mL per minute, mean serum creatinine increased by less than 0.1 mg per dL in the GENVOYA group and by 0.1 mg per dL in the STRIBILD group from baseline to Week 96.
-Median urine protein-to-creatinine ratio (UPCR) was 44 mg per gram at baseline and 42 mg per gram at Week 96 in the GENVOYA group.
-Median UPCR was 44 mg per gram at baseline and 54 mg per gram at Week 96 in those receiving STRIBILD.
+In two 96-week randomized, controlled trials in a total of 1733 treatment-naïve adults with a median baseline eGFR of 115 mL per minute, mean serum creatinine increased by less than 0.1 mg per dL in the GENVOYA group and by 0.1 mg per dL in the STRIBILD group from baseline to Week 96.
 
 Virologically Suppressed Adults:
 
 In a study of 1436 virologically-suppressed TDF-treated adults with a mean baseline eGFR of 112 mL per minute who were randomized to continue their treatment regimen or switch to GENVOYA, at Week 48 mean serum creatinine was similar to baseline for both those continuing baseline treatment and those switching to GENVOYA.
-Median UPCR was 61 mg per gram at baseline and 46 mg per gram at Week 48 in subjects switching to GENVOYA.
-In subjects remaining on their initial regimen, UPCR was 60 mg per gram at baseline and 63 mg per gram at Week 48.
-
-Adult Subjects with Renal Impairment:
-
-In a 24-week trial in 248 subjects with renal impairment (baseline eGFR 30 to 69 mL per minute) who received GENVOYA, mean serum creatinine was 1.5 mg per dL at both baseline and Week 24.
-Median UPCR was 161 mg per gram at baseline and 93 mg per gram at Week 24.
 
 Bone Mineral Density Effects
 
-Treatment Naïve Adults:
+Treatment-Naïve Adults:
 
 In the pooled analysis of Studies 104 and 111, bone mineral density (BMD) from baseline to Week 96 was assessed by dual-energy X-ray absorptiometry (DXA) to compare the bone safety of TAF to that of TDF when administered as GENVOYA or STRIBILD, respectively.
 Mean BMD decreased from baseline to Week 96 by −0.96% with GENVOYA compared to −2.79% with STRIBILD at the lumbar spine and −0.67% compared to −3.28% at the total hip.
@@ -87,6 +80,7 @@ In Study 109, TDF-treated subjects were randomized to continue their TDF-based r
 Mean BMD increased in subjects who switched to GENVOYA (1.86% lumbar spine, 1.95% total hip) and decreased slightly in subjects who continued their baseline regimen (−0.11% lumbar spine, −0.14% total hip).
 BMD declines of 5% or greater at the lumbar spine were experienced by 1% of GENVOYA subjects and 6% of subjects who continued their TDF-based regimen.
 BMD declines of 7% or greater at the femoral neck were experienced by 1% of GENVOYA subjects and 4% of subjects who continued their TDF-based regimen.
+The long-term clinical significance of these BMD changes is not known.
 
 Laboratory Abnormalities:
 
@@ -123,7 +117,7 @@ Table 4 Lipid Values, Mean Change from Baseline, Reported in Subjects Receiving 
 
 Clinical Trials in Pediatric Subjects:
 
-The safety of GENVOYA in HIV-1 infected, treatment naïve pediatric subjects aged 12 to less than 18 years was evaluated through 24 weeks in an open-label clinical trial (Study 106) [see Clinical Studies (14.5)].
+The safety of GENVOYA in HIV-1 infected, treatment-naïve pediatric subjects aged 12 to less than 18 years and weighing at least 35 kg (77 lbs) was evaluated through 24 weeks in an open-label clinical trial (Study 106) [see Clinical Studies (14.5)].
 The safety profile in 23 adolescent subjects who received treatment with GENVOYA was similar to that in adults.
 One 13 year old female subject developed unexplained uveitis while receiving GENVOYA that resolved and did not require discontinuation of GENVOYA.
 

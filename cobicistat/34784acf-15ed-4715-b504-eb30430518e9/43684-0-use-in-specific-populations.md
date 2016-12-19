@@ -11,7 +11,7 @@ Risk Summary
 
 There are insufficient human data on the use of GENVOYA during pregnancy to inform a drug-associated risk of birth defects and miscarriage.
 TAF use in women during pregnancy has not been evaluated; however, elvitegravir, cobicistat, and emtricitabine use during pregnancy has been evaluated in a limited number of women as reported to the APR.
-Available data from the APR show no birth defects reported for elvitegravir or cobicistat, and no difference in the risk of overall major birth defects for emtricitabine (2.4%) compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
+Available data from the APR through January 2016 show no birth defects reported for elvitegravir or cobicistat, and no difference in the risk of overall major birth defects for emtricitabine (2.2%) compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in the clinically recognized pregnancies in the U.S. general population is 15–20%.
 In animal studies, no adverse developmental effects were observed when the components of GENVOYA were administered separately during the period of organogenesis at exposures up to 23 and 0.2 times (rat and rabbits, respectively: elvitegravir), 1.6 and 3.8 times (rats and rabbits, respectively: cobicistat), 60 and 108 times (mice and rabbits, respectively; emtricitabine) and equal to and 53 times (rats and rabbits, respectively; TAF) the exposure at the recommended daily dosage of these components in GENVOYA [see Data].
@@ -22,12 +22,12 @@ Data
 
 Human Data
 
-Elvitegravir: Based on prospective reports from the APR through July 2015 of 49 exposures to elvitegravir-containing regimens during pregnancy resulting in live births (including 31 exposed in the first trimester), there have been no birth defects reported.
+Elvitegravir: Based on prospective reports from the APR through January 2016 of 73 exposures to elvitegravir-containing regimens during pregnancy resulting in live births (including 51 exposed in the first trimester), there have been no birth defects reported.
 
-Cobicistat: Based on prospective reports from the APR through July 2015 of 50 exposures to cobicistat-containing regimens during pregnancy resulting in live births (including 32 exposed in the first trimester), there have been no birth defects reported.
+Cobicistat: Based on prospective reports from the APR through January 2016 of 77 exposures to cobicistat-containing regimens during pregnancy resulting in live births (including 54 exposed in the first trimester), there have been no birth defects reported.
 
-Emtricitabine: Based on prospective reports to the APR through July 2015 of 2933 exposures to emtricitabine-containing regimens during pregnancy resulting in live births (including 1984 exposed in the first trimester and 949 exposed in the second/third trimester), there was no difference between FTC and overall birth defects compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 2.4% (95% CI: 1.7% to 3.1%) with first trimester exposure to FTC-containing regimens and 2.1% (95% CI: 1.3% to 3.2%) with the second/third trimester exposure to emtricitabine-containing regimens.
+Emtricitabine: Based on prospective reports to the APR through January 2016 of 3155 exposures to emtricitabine-containing regimens during pregnancy resulting in live births (including 2145 exposed in the first trimester and 1010 exposed in the second/third trimester), there was no difference between FTC and overall birth defects compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 2.2% (95% CI: 1.6% to 3.0%) with first trimester exposure to FTC-containing regimens and 2.1% (95% CI: 1.3% to 3.2%) with the second/third trimester exposure to emtricitabine-containing regimens.
 
 Animal Data
 
@@ -117,7 +117,7 @@ The pharmacokinetics, safety, and virologic and immunologic responses of GENVOYA
 
 GENVOYA is not recommended in patients with severe renal impairment (estimated creatinine clearance below 30 mL per minute).
 No dosage adjustment of GENVOYA is recommended in patients with estimated creatinine clearance greater than or equal to 30 mL per minute.
-The safety of GENVOYA has not been established in patients with estimated creatinine clearance that declines below 30 mL per minute [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+The safety of GENVOYA has not been established in patients with estimated creatinine clearance that declines below 30 mL per minute [see Dosage and Administration (2.3), Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

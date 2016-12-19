@@ -44,34 +44,15 @@ Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir prodrugs in both animal toxicology studies and human trials.
 In clinical trials of GENVOYA, there have been no cases of Fanconi syndrome or Proximal Renal Tubulopathy (PRT).
-In clinical trials of GENVOYA in treatment naïve subjects and in virologically suppressed subjects switched to GENVOYA with eGFRs greater than 50 mL per minute, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with GENVOYA.
-In a study of virologically suppressed subjects with baseline eGFRs between 30 and 69 mL per minute treated with GENVOYA for a median duration of 43 weeks, GENVOYA was permanently discontinued due to worsening renal function in two of 80 (3%) subjects with a baseline eGFR between 30 and 50 mL per minute [see Adverse Reactions (6.1)].
-GENVOYA is not recommended in patients with estimated creatinine clearance below 30 mL per minute because data in this population are insufficient.
+In clinical trials of GENVOYA in treatment-naïve subjects and in virologically suppressed subjects switched to GENVOYA with eGFRs greater than 50 mL per minute, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with GENVOYA.
+In a study of virologically suppressed subjects with baseline eGFRs between 30 and 69 mL per minute treated with GENVOYA for a median duration of 108 weeks, GENVOYA was permanently discontinued due to worsening renal function in three of 80 (4%) subjects with a baseline eGFR between 30 and 50 mL per minute and two of 162 (1%) with a baseline eGFR greater than or equal to 50 mL per minute [see Adverse Reactions (6.1)].
+GENVOYA is not recommended in patients with estimated creatinine clearance below 30 mL per minute.
 
 Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents including non-steroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
 
-Estimated creatinine clearance, urine glucose and urine protein should be assessed before initiating GENVOYA therapy and should be monitored during therapy in all patients.
-Serum phosphorus should be monitored in patients with chronic kidney disease because these patients are at greater risk of developing Fanconi syndrome on tenofovir prodrugs.
+It is recommended that serum creatinine, serum phosphorous, estimated creatinine clearance, urine glucose and urine protein be assessed before initiating GENVOYA and during therapy in all patients as clinically appropriate.
 Discontinue GENVOYA in patients who develop clinically significant decreases in renal function or evidence of Fanconi syndrome.
 
 Cobicistat, a component of GENVOYA, produces elevations of serum creatinine due to inhibition of tubular secretion of creatinine without affecting glomerular filtration [see Adverse Reactions (6.1)].
 The elevation is typically seen within 2 weeks of starting therapy and is reversible after discontinuation.
 Patients who experience a confirmed increase in serum creatinine of greater than 0.4 mg per dL from baseline should be closely monitored for renal safety.
-
-## 5.7 Bone Loss and Mineralization Defects
-
-Bone Mineral Density (BMD):
-
-In animal toxicology studies and human clinical trials, TAF and tenofovir have been associated with decreases in bone mineral density and increases in biochemical markers of bone metabolism suggestive of increased bone turnover.
-In clinical trials in HIV-1 infected treatment-naïve adults, a significant decline in bone mineral density was observed in 15% of subjects treated with GENVOYA [see Adverse Reactions (6.1)].
-The long-term clinical significance of these changes has not been established.
-
-Assessment of BMD should be considered for adults and pediatric patients treated with GENVOYA who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
-Calcium and vitamin D supplementation may be beneficial for all patients.
-If bone abnormalities are suspected then appropriate consultation should be obtained.
-
-Mineralization Defects:
-
-Cases of osteomalacia associated with proximal renal tubulopathy, manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with the use of TDF-containing products.
-Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy have occurred in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving products containing TDF [see Warnings and Precautions (5.6)].
-While not observed in clinical studies of GENVOYA, the risk of osteomalacia with GENVOYA is not known.

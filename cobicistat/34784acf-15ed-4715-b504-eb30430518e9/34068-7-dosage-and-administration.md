@@ -1,8 +1,10 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Testing Prior to Initiation of GENVOYA
+## 2.1 Testing Prior to Initiation and During Treatment with GENVOYA
 
 Prior to initiation of GENVOYA, patients should be tested for hepatitis B virus infection [see Warnings and Precautions (5.2)].
+
+It is recommended that serum creatinine, serum phosphorous, estimated creatinine clearance, urine glucose and urine protein should be assessed before initiating GENVOYA and during therapy in all patients as clinically appropriate [see Warnings and Precautions (5.6)].
 
 ## 2.2 Recommended Dosage
 

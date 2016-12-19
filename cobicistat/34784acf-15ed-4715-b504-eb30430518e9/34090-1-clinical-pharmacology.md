@@ -57,7 +57,7 @@ Table 6 Pharmacokinetic Properties of the Components of GENVOYA
 
 Table 7 Multiple Dose Pharmacokinetic Parameters of Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Alafenamide (TAF) and its Metabolite Tenofovir Following Oral Administration of GENVOYA with Food in HIV-Infected Adults
 
-| Parameter Mean (CV%) | ElvitegravirFrom Intensive PK analysis in Study 102, N=19 | Cobicistat | Emtricitabine | TAFFrom Population PK analysis in Studies 104 and 111, N=539 | TenofovirFrom Population PK analysis in Studies 104 and 111, N=841,In Studies 104 and 111, a 10 mg oral dose of TAF in GENVOYA resulted in greater than 90% lower concentrations of tenofovir in plasma as compared to a 300 mg oral dose of TDF in STRIBILD. |
+| Parameter Mean (CV%) | ElvitegravirFrom Intensive PK analysis in Study 102, N=19 | Cobicistat | Emtricitabine | TAFFrom Population PK analysis in Studies 104 and 111, N=539 | TenofovirFrom Population PK analysis in Studies 104 and 111, N=841 |
 | --- | --- | --- | --- | --- | --- |
 | Cmax (microgram per mL) | 2.1 (33.7) | 1.5 (28.4) | 2.1 (20.2) | 0.16 (51.1) | 0.02 (26.1) |
 | AUCtau (microgram∙hour per mL) | 22.8 (34.7) | 9.5 (33.9) | 11.7 (16.6) | 0.21 (71.8) | 0.29 (27.4) |

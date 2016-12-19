@@ -29,11 +29,6 @@ Renal Impairment
 Advise patients to avoid taking GENVOYA with concurrent or recent use of nephrotoxic agents.
 Renal impairment including cases of acute renal failure has been reported in association with the use of tenofovir prodrugs [see Warnings and Precautions (5.6)].
 
-Decrease in Bone Mineral Density
-
-Advise patients that decreases in bone mineral density have been observed with the use of GENVOYA.
-Assessment of bone mineral density (BMD) should be considered in patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss [see Warnings and Precautions (5.7)].
-
 Missed Dosage
 
 Inform patients that it is important to take GENVOYA on a regular dosing schedule with food and to avoid missing doses as it can result in development of resistance [see Dosage and Administration (2.2)].

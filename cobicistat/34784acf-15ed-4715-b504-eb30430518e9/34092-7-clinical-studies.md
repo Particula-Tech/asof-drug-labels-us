@@ -10,7 +10,7 @@ Table 12 Trials Conducted with GENVOYA in Subjects with HIV-1 Infection
 | --- | --- | --- | --- |
 | Study 104Randomized, double blind, active controlled trial. Study 111 | Treatment-naïve adults | GENVOYA (866) STRIBILD (867) | 96 |
 | Study 109Randomized, open label, active controlled trial. | Virologically-suppressedHIV-1 RNA less than 50 copies per mL. adults | GENVOYA (799) ATRIPLA® or TRUVADA®+atazanavir+cobicistat or ritonavir or STRIBILD (397) | 48 |
-| Study 112Open label trial. | Virologically-suppressed adults with renal impairmenteGFR of 30 to 69 mL per minute by Cockcroft-Gault method. | GENVOYA (242) | 24 |
+| Study 112Open label trial. | Virologically-suppressed adults with renal impairmenteGFR of 30 to 69 mL per minute by Cockcroft-Gault method. | GENVOYA (242) | 96 |
 | Study 106 | Treatment-naïve adolescents between the ages of 12 to less than 18 years | GENVOYA (23) | 24 |
 
 ## 14.2 Clinical Trial Results in HIV-1 Treatment-Naïve Subjects
@@ -69,18 +69,19 @@ In Study 109, the mean increase from baseline in CD4+ cell count at Week 48 was 
 ## 14.4 Clinical Trial Results in HIV-1 Infected Subjects with Renal Impairment
 
 In Study 112, the efficacy and safety of GENVOYA once daily were evaluated in an open-label clinical trial of 248 HIV-1 infected subjects with renal impairment (eGFR of 30 to 69 mL per minute by Cockcroft-Gault method).
-Of the 248 enrolled, 6 were treatment naïve and 242 were virologically suppressed (HIV-1 RNA less than 50 copies per mL) for at least 6 months before switching to GENVOYA [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Of the 248 enrolled, 6 were treatment-naïve and 242 were virologically suppressed (HIV-1 RNA less than 50 copies per mL) for at least 6 months before switching to GENVOYA [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 The mean age was 58 years (range 24–82), with 63 subjects (26%) who were 65 years of age or older.
 Seventy-nine percent were male, 63% were White, 18% were Black, and 14% were Asian.
 Thirteen percent of subjects identified as Hispanic/Latino.
 The mean baseline CD4+ cell count was 664 cells per mm3 (range 126–1813).
-At Week 24, 95% (230/242 virologically suppressed subjects) maintained HIV-1 RNA less than 50 copies per mL after switching to GENVOYA.
-Three subjects had virologic failure at Week 24.
+At Week 96, 88% (214/242 virologically suppressed subjects) maintained HIV-1 RNA less than 50 copies per mL after switching to GENVOYA.
+All six treatment-naïve subjects were virologically suppressed at Week 96.
+Five subjects among the entire study population had virologic failure at Week 96.
 
 ## 14.5 Clinical Trial Results in HIV-1 Treatment-Naïve Adolescent Subjects Aged 12 to Less than 18
 
-In Study 106, the efficacy, safety, and pharmacokinetics of GENVOYA were evaluated in an open-label trial in HIV-1 infected treatment-naïve adolescents aged 12 to less than 18 years.
+In Study 106, the efficacy, safety, and pharmacokinetics of GENVOYA were evaluated in an open-label trial in HIV-1 infected treatment-naïve adolescents aged 12 to less than 18 years weighing at least 35 kg (77 lbs).
 Twenty-three subjects treated with GENVOYA once daily for 24 weeks had a mean age of 14 years; 52% were male, 17% were Asian, and 83% were black.
 At baseline, mean plasma HIV-1 RNA was 4.8 log10 copies per mL (35% had baseline plasma HIV-1 RNA greater than 100,000 copies per mL), median CD4+ cell count was 456 cells per mm3 (range: 104 to 748), and median CD4+ percentage was 23% (range: 7% to 41%).
 
