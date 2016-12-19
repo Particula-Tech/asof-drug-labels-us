@@ -9,16 +9,16 @@ What is the most important information I should know about ATIVAN?
 - •ATIVAN is a benzodiazepine medicine.
   Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma and death.
 - •ATIVAN can make you sleepy or dizzy, and can slow your thinking and motor skills.
-  - oDo not drive, operate heavy machinery, or do other dangerous activities until you know how ATIVAN affects you.
-  - oDo not drink alcohol or take other drugs that may make you sleepy or dizzy while taking ATIVAN without first talking to your healthcare provider.
+  - •Do not drive, operate heavy machinery, or do other dangerous activities until you know how ATIVAN affects you.
+  - •Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking ATIVAN without first talking to your healthcare provider.
     When taken with alcohol or drugs that cause sleepiness or dizziness, ATIVAN may make your sleepiness or dizziness much worse.
 - •Do not take more ATIVAN than prescribed.
 
 What is ATIVAN?
 
 - •ATIVAN is a prescription medicine used:
-- oto treat anxiety disorders
-- ofor the short-term relief of the symptoms of anxiety or anxiety that can happen with symptoms of depression
+- •to treat anxiety disorders
+- •for the short-term relief of the symptoms of anxiety or anxiety that can happen with symptoms of depression
 - •ATIVAN is a federal controlled substance (C-IV) because it can be abused or lead to dependence.
   Keep ATIVAN in a safe place to prevent misuse and abuse.
   Selling or giving away ATIVAN may harm others, and is against the law.
@@ -115,6 +115,10 @@ Manufactured by: MEDA Manufacturing GmbH, Cologne, Germany 51063 For: Valeant Ph
 Ativan is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 For more information, call 1-800-321-4576.
 
-1. This Medication Guide has been approved by the U.S. Food and Drug Administration
+This Medication Guide has been approved by the U.S. Food and Drug Administration
+
+9508101
+
+70012151
 
 Issued: 9/16
