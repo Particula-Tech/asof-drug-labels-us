@@ -8,4 +8,4 @@ Dispense in a tight, light-resistant container.
 
 Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA
 
-Revised: 03/11
+Revised: 11/2016

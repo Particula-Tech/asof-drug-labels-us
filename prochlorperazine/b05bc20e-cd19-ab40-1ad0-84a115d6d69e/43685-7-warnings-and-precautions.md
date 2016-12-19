@@ -39,6 +39,9 @@ Prochlorperazine may impair mental and/or physical abilities, especially during 
 Therefore, caution patients about activities requiring alertness (e.g., operating vehicles or machinery).
 Phenothiazines may intensify or prolong the action of central nervous system depressants (e.g., alcohol, anesthetics, narcotics).
 
+Falls: Prochlorperazine Maleate Tablets may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
 Usage in Pregnancy: Safety for the use of prochlorperazine during pregnancy has not been established.
 Therefore, prochlorperazine is not recommended for use in pregnant patients except in cases of severe nausea and vomiting that are so serious and intractable that, in the judgment of the physician, drug intervention is required and potential benefits outweigh possible hazards.
 There have been reported instances of prolonged jaundice, extrapyramidal signs, hyperreflexia or hyporeflexia in newborn infants whose mothers received phenothiazines.
