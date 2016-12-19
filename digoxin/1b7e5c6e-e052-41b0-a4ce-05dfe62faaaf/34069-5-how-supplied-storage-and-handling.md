@@ -8,6 +8,5 @@ NDC 0054-0057-46: Bottle of 60 mL with a calibrated dropper
 
 Storage
 
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature.]
 Protect from light.

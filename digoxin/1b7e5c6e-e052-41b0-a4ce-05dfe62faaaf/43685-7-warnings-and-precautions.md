@@ -41,7 +41,6 @@ If appropriate care is not taken to reduce the dose of digoxin, such patients ar
 In patients with hypokalemia or hypomagnesemia, toxicity may occur at concentrations within therapeutic range because potassium or magnesium depletion sensitizes the myocardium to digoxin.
 Therefore, it is desirable to maintain normal serum potassium and magnesium concentrations in patients being treated with digoxin.
 Serum potassium levels should be carefully monitored when digoxin is given to patients at high risk of hypokalemia (e.g., those receiving diuretics, corticosteroids, or other drugs that commonly lead to potassium loss; those with gastrointestinal losses through diarrhea, vomiting, or nasogastric suction; or those with potassium-losing endocrinopathies or nephropathies).
-
 Digoxin toxicity is also more likely in the presence of hypomagnesemia.
 Hypomagnesemia is common in most of the same conditions in which hypokalemia appears.
 Most notably, it is commonly seen in alcoholics and in patients with diabetes mellitus or hypercalcemia.

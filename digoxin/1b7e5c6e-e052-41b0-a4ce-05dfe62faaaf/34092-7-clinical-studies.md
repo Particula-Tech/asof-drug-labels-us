@@ -13,7 +13,7 @@ The Digitalis Investigation Group (DIG) main trial was a 37-week, multicenter, r
 At randomization, 67% were NYHA class I or II, 71% had heart failure of ischemic etiology, 44% had been receiving digoxin, and most were receiving a concomitant ACE inhibitor (94%) and diuretics (82%).
 As in the smaller trials described above, patients who had been receiving open-label digoxin were withdrawn from this treatment before randomization.
 Randomization to digoxin was again associated with a significant reduction in the incidence of hospitalization, whether scored as number of hospitalizations for heart failure (relative risk 75%), risk of having at least one such hospitalization during the trial (RR 72%), or number of hospitalizations for any cause (RR 94%).
-On the other hand, randomization to digoxin had no apparent effect on mortality (RR 99%, with confidence limits of 91 to 107%).
+On the other hand, randomization to digoxin had no apparent effect on mortality (RR 99%, with confidence limits of 91% to 107%).
 
 ## 14.2 Atrial Fibrillation
 

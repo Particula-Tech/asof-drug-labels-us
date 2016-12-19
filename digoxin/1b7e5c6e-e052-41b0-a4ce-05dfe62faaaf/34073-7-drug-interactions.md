@@ -10,28 +10,27 @@ Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter 
 
 ## 7.2 Pharmacokinetic Drug Interactions on Serum Digoxin Levels in Adults
 
-| Digoxin concentrations increased greater than 50% |  |  |  |
+| Digoxin Concentrations Increased Greater than 50% |  |  |  |
 | --- | --- | --- | --- |
 |  | Digoxin Serum Concentration Increase | Digoxin AUC Increase | Recommendations |
 | Amiodarone | 70% | NA | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin dose by approximately 30% to 50% or by modifying the dosing frequency and continue monitoring. |
 | Captopril | 58% | 39% |  |
 | Clarithromycin | NA | 70% |  |
 | Dronedarone | NA | 150% |  |
-| Gentamicin | 129-212% | NA |  |
+| Gentamicin | 129 to 212% | NA |  |
 | Erythromycin | 100% | NA |  |
 | Itraconazole | 80% | NA |  |
 | Lapatinib | NA | 180% |  |
-| Nitrendipine | 57% | 15% |  |
-| Propafenone | NA | 60-270% |  |
+| Propafenone | NA | 60 to 270% |  |
 | Quinidine | 100% | NA |  |
 | Ranolazine | 50% | NA |  |
 | Ritonavir | NA | 86% |  |
 | Telaprevir | 50% | 85% |  |
 | Tetracycline | 100% | NA |  |
-| Verapamil | 50-75% | NA |  |
-| Digoxin concentrations increased less than 50% |  |  |  |
-| Atorvastatin | 22% | 15% |  |
-| Carvedilol | 16% | 14% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin dose by approximately 15% to 30% or by modifying the dosing frequency and continue monitoring. |
+| Verapamil | 50 to 75% | NA |  |
+| Digoxin Concentrations Increased Less than 50% |  |  |  |
+| Atorvastatin | 22% | 15% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin dose by approximately 15% to 30% or by modifying the dosing frequency and continue monitoring. |
+| Carvedilol | 16% | 14% |  |
 | Conivaptan | 33% | 43% |  |
 | Diltiazem | 20% | NA |  |
 | Indomethacin | 40% | NA |  |
@@ -42,13 +41,13 @@ Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter 
 | Rabeprazole | 29% | 19% |  |
 | Saquinavir | 27% | 49% |  |
 | Spironolactone | 25% | NA |  |
-| Telmisartan | 20-49% | NA |  |
+| Telmisartan | 20 to 49% | NA |  |
 | Ticagrelor | 31% | 28% |  |
 | Tolvaptan | 30% | 20% |  |
-| Trimethoprim | 22-28% | NA |  |
-| Digoxin concentrations increased, but magnitude is unclear |  |  |  |
+| Trimethoprim | 22 to 28% | NA |  |
+| Digoxin Concentrations Increased, but Magnitude is Unclear |  |  |  |
 | Alprazolam, Azithromycin, Cyclosporine, Diclofenac, Diphenoxylate, Epoprostenol, Esomeprazole, Ibuprofen, Ketoconazole, Lansoprazole, Metformin, Omeprazole |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. |
-| Digoxin concentrations decreased |  |  |  |
+| Digoxin Concentrations Decreased |  |  |  |
 | Acarbose, Activated Charcoal, Albuterol, Antacids, certain cancer chemotherapy or radiation therapy, Cholestyramine, Colestipol, Exenatide, Kaolin-pectin, Meals High in Bran, Metoclopramide, Miglitol, Neomycin, Penicillamine, Phenytoin, Rifampin, St. John’s Wort, Sucralfate, Sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20% to 40% as necessary. |
 
 NA – Not available/reported
@@ -57,7 +56,6 @@ NA – Not available/reported
 
 | Antiarrhythmics | Dofetilide | Concomitant administration with digoxin was associated with a higher rate of torsades de pointes. |
 | --- | --- | --- |
-| Moricizine | Reported to increase PR interval and QRS duration. There are reports of first degree atrioventricular block or bundle branch block developing with digitalis administration. The known effects of moricizine on calcium conductance may explain the effects on atrioventricular node conduction. |  |
 | Sotalol | Proarrhythmic events were more common in patients receiving sotalol and digoxin than on either alone; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in patients receiving digoxin. |  |
 | Parathyroid Hormone Analog | Teriparatide | Sporadic case reports have suggested that hypercalcemia may predispose patients to digitalis toxicity. Teriparatide transiently increases serum calcium. |
 | Thyroid Supplement | Thyroid | Treatment of hypothyroidism in patients taking digoxin may increase the dose requirements of digoxin. |
@@ -66,7 +64,8 @@ NA – Not available/reported
 | Dopamine |  |  |
 | Neuromuscular Blocking Agents | Succinylcholine | May cause sudden extrusion of potassium from muscle cells causing arrhythmias in patients taking digoxin. |
 | Supplements | Calcium | If administered rapidly by intravenous route, can produce serious arrhythmias in digitalized patients. |
-| Beta-adrenergic blockers and calcium channel blockers | Additive effects on AV node conduction can result in complete heart block. |  |
+| Beta-adrenergic Blockers and Calcium Channel Blockers | Additive effects on AV node conduction can result in complete heart block. |  |
+| Hyperpolarization-Activated Cyclic Nucleotide-Gated Channel Blocker | Ivabradine can increase the risk of bradycardia. |  |
 
 ## 7.4 Drug-Laboratory Test Interaction
 

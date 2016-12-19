@@ -23,11 +23,11 @@ The recommended approach is to
 
 Dose titration may be accomplished by either of two general approaches that differ in dosage and frequency of administration, but reach the same total amount of digoxin accumulated in the body.
 
-1. 1.If rapid titration is considered medically appropriate, administer a loading dose based upon projected peak digoxin body stores.
-   Maintenance dose can be calculated as a percentage of the loading dose.
-2. 2.More gradual titration may be obtained by beginning an appropriate maintenance dose, thus allowing digoxin body stores to accumulate slowly.
-   Steady-state serum digoxin concentrations will be achieved in approximately five half-lives of the drug for the individual patient.
-   Depending upon the patient’s renal function, this will take between 1 and 3 weeks.
+- •If rapid titration is considered medically appropriate, administer a loading dose based upon projected peak digoxin body stores.
+  Maintenance dose can be calculated as a percentage of the loading dose.
+- •More gradual titration may be obtained by beginning an appropriate maintenance dose, thus allowing digoxin body stores to accumulate slowly.
+  Steady-state serum digoxin concentrations will be achieved in approximately five half-lives of the drug for the individual patient.
+  Depending upon the patient’s renal function, this will take between 1 and 3 weeks.
 
 ## 2.2 Serum Digoxin Concentrations
 
@@ -53,18 +53,18 @@ Loading doses for each age group are given in Table 1 below.
 
 In pediatric patients, if a loading dose is needed, it can be administered with roughly half the total given as the first dose.
 Additional fractions of this planned total dose may be given at 4- to 8-hour intervals, with careful assessment of clinical response before each additional dose.
-If the patient’s clinical response necessitates a change from the calculated loading dose of digoxin, then calculation of the maintenance dose should be based upon the amount actually given as the loading dose [see Tables 1 and 2].
+If the patient’s clinical response necessitates a change from the calculated loading dose of digoxin, then calculation of the maintenance dose should be based upon the amount actually given as the loading dose [see Table 1 and 2].
 
 Table 1: Estimate the Loading Dose
 
 | Age | Oral Loading Dose, mcg/kg |
 | --- | --- |
-| Premature | 20 - 30 |
-| Full-Term | 25 - 35 |
-| 1 to 24 months | 35 - 60 |
-| 2 to 5 years | 30 - 45 |
-| 5 to 10 years | 20 - 35 |
-| Over 10 years | 10 - 15 |
+| Premature | 20 to 30 |
+| Full-Term | 25 to 35 |
+| 1 to 24 months | 35 to 60 |
+| 2 to 5 years | 30 to 45 |
+| 5 to 10 years | 20 to 35 |
+| Over 10 years | 10 to 15 |
 
 More gradual attainment of digoxin levels can also be accomplished by beginning an appropriate maintenance dose.
 The range of percentages provided in Table 2 (2.4 Estimate of Daily Maintenance Dose) can be used in calculating this dose for patients with normal renal function.
@@ -79,12 +79,12 @@ Table 2: Estimate of the Daily Maintenance Dose
 
 | Age | Daily Oral Maintenance Dose, mcg/kg/day | Dose Regimen, mcg/kg/dose |
 | --- | --- | --- |
-| Premature | 4.7 – 7.8 | 2.3 – 3.9 Twice daily |
-| Full-Term | 7.5 – 11.3 | 3.8 – 5.6 Twice daily |
-| 1 to 24 months | 11.3 – 18.8 | 5.6 – 9.4 Twice daily |
-| 2 to 5 years | 9.4 – 13.1 | 4.7 – 6.6 Twice daily |
-| 5 to 10 years | 5.6 – 11.3 | 2.8 – 5.6 Twice daily |
-| Over 10 years | 3.0 – 4.5 | 3.0 – 4.5 Once daily |
+| Premature | 4.7 to 7.8 | 2.3 to 3.9 Twice Daily |
+| Full-Term | 7.5 to 11.3 | 3.8 to 5.6 Twice Daily |
+| 1 to 24 months | 11.3 to 18.8 | 5.6 to 9.4 Twice Daily |
+| 2 to 5 years | 9.4 to 13.1 | 4.7 to 6.6 Twice Daily |
+| 5 to 10 years | 5.6 to 11.3 | 2.8 to 5.6 Twice Daily |
+| Over 10 years | 3.0 to 4.5 | 3.0 to 4.5 Once Daily |
 
 Dosage guidelines provided are based upon average patient response and substantial individual variation can be expected.
 Accordingly, dosage selection must be based upon clinical assessment and ultimately therapeutic drug level monitoring of the patient.
@@ -117,29 +117,27 @@ Table 3: Usual Maintenance DoseThe doses are rounded to whole numbers.Twice dail
 Once daily dosing is recommended for pediatric patients above 10 years of age and adults.
 Requirements (mcg) of Digoxin Based upon Age, Lean Body Weight and Renal Function
 
-| Corrected Ccr(mL/min per 70 kg)Ccr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area. For adults, if only serum creatinine concentrations (Scr) are available, a Ccr (corrected to 70 kg body weight) may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. Note: This equation cannot be used for estimating creatinine clearance in infants or pediatric patients. For pediatric patients, the modified Schwartz equation may be used as listed below. The formula was based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr. |  | Dose to be given Twice Daily |  |  |  |  |  |  | Dose to be given Once Daily |  |  |  |  |  |  | Number of Days Before Steady State Achieve |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | < 10 years of age |  |  |  |  |  |  | > 10 years of age and adults |  |  |  |  |  |  |  |  |
-|  | Lean Body Weight |  |  |  |  |  |  | Lean Body Weight |  |  |  |  |  |  |  |  |
-| kg | 5 | 10 | 20 | 30 | 40 | 50 | 60 | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |
-| lb | 11 | 22 | 44 | 66 | 88 | 110 | 132 | 88 | 110 | 132 | 154 | 176 | 198 | 220 |  |  |
-| 10 |  | 10 | 20 | 40 | 60 | 80 | 100 | 120 | 80 | 100 | 120 | 140 | 160 | 180 | 200 | 19 |
-| 20 |  | 11 | 23 | 45 | 68 | 90 | 113 | 135 | 90 | 113 | 135 | 158 | 180 | 203 | 225 | 16 |
-| 30 |  | 13 | 25 | 50 | 75 | 100 | 125 | 150 | 100 | 125 | 150 | 175 | 200 | 225 | 250 | 14 |
-| 40 |  | 14 | 28 | 55 | 83 | 110 | 138 | 165 | 110 | 138 | 165 | 193 | 220 | 248 | 275 | 13 |
-| 50 |  | 15 | 30 | 60 | 90 | 120 | 150 | 180 | 120 | 150 | 180 | 210 | 240 | 270 | 300 | 12 |
-| 60 |  | 16 | 33 | 65 | 98 | 130 | 163 | 195 | 130 | 163 | 195 | 228 | 260 | 293 | 325 | 11 |
-| 70 |  | 18 | 35 | 70 | 105 | 140 | 175 | 210 | 140 | 175 | 210 | 245 | 280 | 315 | 350 | 10 |
-| 80 |  | 19 | 38 | 75 | 113 | 150 | 188 | 225 | 150 | 188 | 225 | 263 | 300 | 338 | 375 | 9 |
-| 90 |  | 20 | 40 | 80 | 120 | 160 | 200 | 240 | 160 | 200 | 240 | 280 | 320 | 360 | 400 | 8 |
-| 100 |  | 21 | 43 | 85 | 128 | 170 | 213 | 255 | 170 | 213 | 255 | 298 | 340 | 383 | 425 | 7 |
+| Corrected Ccr (mL/min per 70 kg)Ccr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area. For adults, if only serum creatinine concentrations (Scr) are available, a Ccr (corrected to 70 kg body weight) may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. Note: This equation cannot be used for estimating creatinine clearance in infants or pediatric patients. For pediatric patients, the modified Schwartz equation may be used as listed below. The formula was based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr. | Dose to be Given Twice Daily< 10 Years of Age |  |  |  |  |  |  |  | Dose to be Given Once Daily> 10 Years of Age and Adults |  |  |  |  |  |  |  | Number of Days Before Steady State Achieve |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lean Body Weight |  |  |  |  |  |  |  | Lean Body Weight |  |  |  |  |  |  |  |  |  |
+| kglb | 511 | 1022 | 2044 | 3066 | 4088 | 50110 | 60132 |  | 4088 | 50110 | 60132 | 70154 | 80176 | 90198 | 100220 |  |  |
+| 10 |  | 10 | 20 | 40 | 60 | 80 | 100 | 120 |  | 80 | 100 | 120 | 140 | 160 | 180 | 200 | 19 |
+| 20 |  | 11 | 23 | 45 | 68 | 90 | 113 | 135 |  | 90 | 113 | 135 | 158 | 180 | 203 | 225 | 16 |
+| 30 |  | 13 | 25 | 50 | 75 | 100 | 125 | 150 |  | 100 | 125 | 150 | 175 | 200 | 225 | 250 | 14 |
+| 40 |  | 14 | 28 | 55 | 83 | 110 | 138 | 165 |  | 110 | 138 | 165 | 193 | 220 | 248 | 275 | 13 |
+| 50 |  | 15 | 30 | 60 | 90 | 120 | 150 | 180 |  | 120 | 150 | 180 | 210 | 240 | 270 | 300 | 12 |
+| 60 |  | 16 | 33 | 65 | 98 | 130 | 163 | 195 |  | 130 | 163 | 195 | 228 | 260 | 293 | 325 | 11 |
+| 70 |  | 18 | 35 | 70 | 105 | 140 | 175 | 210 |  | 140 | 175 | 210 | 245 | 280 | 315 | 350 | 10 |
+| 80 |  | 19 | 38 | 75 | 113 | 150 | 188 | 225 |  | 150 | 188 | 225 | 263 | 300 | 338 | 375 | 9 |
+| 90 |  | 20 | 40 | 80 | 120 | 160 | 200 | 240 |  | 160 | 200 | 240 | 280 | 320 | 360 | 400 | 8 |
+| 100 |  | 21 | 43 | 85 | 128 | 170 | 213 | 255 |  | 170 | 213 | 255 | 298 | 340 | 383 | 425 | 7 |
 
 Determination of the target dose in milliliters of Digoxin Oral Solution based on body weight is shown in Table 4.
 Provided is the volume required per dose, NOT per day.
 
-Table 4: Dose in Milliliters
+Table 4: Dosea in Milliliters
 
-| Target Dose in mcg/kg |  | Volume to be given in mL |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Volume to be Given in mLb |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 3 | 4 | 5 | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20 | 30 |  |  |
 | Weight in kg | 2 | 0.08b | 0.12b | 0.16b | 0.2 | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.6 | 0.7 | 0.8 | 1.2 |
@@ -159,7 +157,7 @@ Table 4: Dose in Milliliters
 | 20 | 0.8 | 1.2 | 1.6 | 2.0 | 2.4 | 3.2 | 4.0 | 4.8 | 5.6 | 6.4 | 7.2 | 8.0 | 12.0 |  |
 | 30 | 1.2 | 1.8 | 2.4 | 3.0 | 3.6 | 4.8 | 6.0 | 7.2 | 8.4 | 9.6 | 10.8 | 12.0 | 18.0 |  |
 | 40 | 1.6 | 2.4 | 3.2 | 4.0 | 4.8 | 6.4 | 8.0 | 9.6 | 11.2 | 12.8 | 14.4 | 16.0 | 24.0 |  |
-| 50 | 2.0 | 3.0 | 4.0 | 5.0 | 6.0 | 8.0 | 10.0 | 12.0 | 14.0 | 16.0 | 18.0 | 20.0 | 30.0 |  |
+| 50 | 2.0 | 3.0 | 4.0 | 5.0 | 6.0 | 8.0 | 10.0 | 12.0 | 14.0 | 16.0 | 18 | 20.0 | 30.0 |  |
 | 60 | 2.4 | 3.6 | 4.8 | 6.0 | 7.2 | 9.6 | 12.0 | 14.4 | 16.8 | 19.2 | 21.6 | 24.0 | 36.0 |  |
 | 70 | 2.8 | 4.2 | 5.6 | 7.0 | 8.4 | 11.2 | 14.0 | 16.8 | 19.6 | 22.4 | 25.2 | 28.0 | 42.0 |  |
 | 80 | 3.2 | 4.8 | 6.4 | 8.0 | 9.6 | 12.8 | 16.0 | 19.2 | 22.4 | 25.6 | 28.8 | 32.0 | 48.0 |  |

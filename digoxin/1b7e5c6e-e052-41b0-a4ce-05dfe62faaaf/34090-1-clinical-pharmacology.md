@@ -13,7 +13,7 @@ By inhibiting NaK–ATPase, digoxin
 - •increases (at higher concentrations) sympathetic outflow from the central nervous system (CNS) to both cardiac and peripheral sympathetic nerves; and
 - •allows (at higher concentrations) progressive efflux of intracellular potassium, with consequent increase in serum potassium levels.
 
-The cardiologic consequences of these direct and indirect effects are an increase in the force and velocity of myocardial systolic contraction (positive inotropic action), a slowing of the heart rate (negative chronotropic effect), decreased conduction velocity through the AV node, and a decrease in the degree of activation of the sympathetic nervous system and renin-angiotensin system (neurohormonal deactivating effect).
+The cardiologic consequences of these direct and indirect effects are an increase in the force and velocity of myocardial systolic contraction (positive inotropic action), a slowing of the heart rate (negative chronotropic effect), and decreased conduction velocity through the AV node, and a decrease in the degree of activation of the sympathetic nervous system and renin-angiotensin system (neurohormonal deactivating effect).
 
 ## 12.2 Pharmacodynamics
 
@@ -25,7 +25,7 @@ These hemodynamic effects are accompanied by an increase in the left ventricular
 Absorption
 
 Following oral administration, peak serum concentrations of digoxin occur at 30 to 90 minutes.
-In pediatric patients and in adult volunteers, absolute bioavailability of digoxin from the solution formulation is 70 to 85%, similar to that seen (in adults) with standard tablets (60 to 80%).
+In pediatric patients and in adult volunteers, absolute bioavailability of digoxin from the solution formulation is 70% to 85%, similar to that seen (in adults) with standard tablets (60% to 80%).
 When the solution is taken after meals, the peak serum concentrations increase by 20% and the total amount of digoxin absorbed increases by 43%, but the rate of digoxin absorption is unchanged.
 When taken with meals high in bran fiber, however, the amount absorbed from an oral dose may be reduced.
 Digoxin absorption may also be affected by various concomitant therapy modulating gastric pH and P-glycoprotein [see Drug Interactions (7)].
@@ -36,9 +36,9 @@ Table 5: Comparisons of the Systemic Availability and Equivalent Doses for Prepa
 
 | Product | Absolute Bioavailability | Equivalent Doses (mcg)For example, 125 mcg tablets equivalent to 125 mcg solution equivalent to 100 mcg capsules equivalent to 100 mcg injection/IV. Among Dosage Forms |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Tablets | 60-80% | 62.5 | 125 | 250 | 500 |
-| Solution | 70-85% | 62.5 | 125 | 250 | 500 |
-| Capsules | 90-100% | 50 | 100 | 200 | 400 |
+| Tablets | 60% to 80% | 62.5 | 125 | 250 | 500 |
+| Solution | 70% to 85% | 62.5 | 125 | 250 | 500 |
+| Capsules | 90% to 100% | 50 | 100 | 200 | 400 |
 | Injection/IV | 100% | 50 | 100 | 200 | 400 |
 
 In some patients, orally administered digoxin is converted to inactive reduction products (e.g., dihydrodigoxin) by colonic bacteria in the gut.
