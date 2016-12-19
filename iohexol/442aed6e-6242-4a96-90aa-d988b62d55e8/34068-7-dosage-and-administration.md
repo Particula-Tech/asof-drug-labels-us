@@ -31,14 +31,10 @@ The usual recommended total doses for use in lumbar, thoracic, cervical, and tot
 
 | Procedure | Formulations | Concentration (mgI/mL) | Volume (mL) | Dose (gI) |
 | --- | --- | --- | --- | --- |
-| Thoracic |  |  |  |  |
-| Myelography (via lumbar injection) | OMNIPAQUE 300 | 300 | 6-10 | 1.8-3.0 |
-| Cervical |  |  |  |  |
-| Myelography (via lumbar injection) | OMNIPAQUE 300 | 300 | 6-10 | 1.8-3.0 |
-| Cervical |  |  |  |  |
-| Myelography (via C1-2 injection | OMNIPAQUE 300 | 300 | 4-10 | 1.2-3.0 |
-| Total Columnar |  |  |  |  |
-| Myelography (via lumbar injection | OMNIPAQUE 300 | 300 | 6-10 | 1.8-3.0 |
+| Thoracic Myelography (via lumbar injection) | OMNIPAQUE 300 | 300 | 6-10 | 1.8-3.0 |
+| Cervical Myelography (via lumbar injection) | OMNIPAQUE 300 | 300 | 6-10 | 1.8-3.0 |
+| Cervical Myelography (via C1-2 injection | OMNIPAQUE 300 | 300 | 4-10 | 1.2-3.0 |
+| Total Columnar Myelography (via lumbar injection | OMNIPAQUE 300 | 300 | 6-10 | 1.8-3.0 |
 
 Refer to DIRECTIONS FOR PROPER USE OF OMNIPAQUE PHARMACY BULK PACKAGE section for instructions.
 

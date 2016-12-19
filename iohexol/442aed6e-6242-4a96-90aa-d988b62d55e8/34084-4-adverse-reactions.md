@@ -9,31 +9,21 @@ Headache is often accompanied by nausea and vomiting and tends to be more freque
 Transient alterations in vital signs may occur and their significance must be assessed on an individual basis.
 Those reactions reported in clinical studies with OMNIPAQUE are listed below in decreasing order of occurrence, based on clinical studies of 1531 patients.
 
-## Headaches
-
-The most frequently occurring adverse reaction following myelography has been headache, with an incidence of approximately 18%.
+Headaches: The most frequently occurring adverse reaction following myelography has been headache, with an incidence of approximately 18%.
 Headache may be caused by either a direct effect of the contrast medium or by CSF leakage at the dural puncture site.
 However, in managing the patient, it is considered more important to minimize intracranial entry of contrast medium by postural management than attempting to control possible CSF leakage (see PATIENT MANAGEMENT).
 
-## Pain
+Pain: Mild to moderate pain including backache, neckache and stiffness, and neuralgia occurred following injection with an incidence of about 8%.
 
-Mild to moderate pain including backache, neckache and stiffness, and neuralgia occurred following injection with an incidence of about 8%.
-
-## Nausea and Vomiting
-
-Nausea was reported with an incidence of about 6%, and vomiting about 3% (see PATIENT MANAGEMENT).
+Nausea and Vomiting: Nausea was reported with an incidence of about 6%, and vomiting about 3% (see PATIENT MANAGEMENT).
 Maintaining normal hydration is very important.
 The use of phenothiazine antinauseants is not recommended.
 (See WARNINGS—General.)
 Reassurance to the patient that the nausea will clear usually is all that is required.
 
-## Dizziness
+Dizziness: Transient dizziness was reported in about 2% of the patients.
 
-Transient dizziness was reported in about 2% of the patients.
-
-## Other Reactions
-
-Other reactions occurring with an individual incidence of less than 0.1% included: feeling of heaviness, hypotension, hypertonia, sensation of heat, sweating, vertigo, loss of appetite, drowsiness, hypertension, photophobia, tinnitus, neuralgia, paresthesia, difficulty in micturition, and neurological changes.
+Other Reactions: Other reactions occurring with an individual incidence of less than 0.1% included: feeling of heaviness, hypotension, hypertonia, sensation of heat, sweating, vertigo, loss of appetite, drowsiness, hypertension, photophobia, tinnitus, neuralgia, paresthesia, difficulty in micturition, and neurological changes.
 All were transient and mild with no clinical sequelae.
 
 ## General Adverse Reactions to Contrast Media
@@ -46,6 +36,7 @@ It was usually preceded by pronounced headaches, nausea and vomiting.
 Onset usually occurred about 12 to 18 hours postprocedure.
 Prominent features were meningismus, fever, sometimes with oculomotor signs and mental confusion.
 Lumbar puncture revealed a high white cell count, high protein content often with a low glucose level and with absence of organisms.
+
 The condition usually started to clear spontaneously about 10 hours after onset, with complete recovery over 2 to 3 days.
 
 Allergy or Idiosyncrasy: Chills, fever, profuse diaphoresis, pruritus, urticaria, nasal congestion, dyspnea, and a case of Guillain-Barré syndrome.
@@ -65,7 +56,6 @@ Rarely, persistent though transitory weakness in the leg or ocular muscles has b
 Peripheral neuropathies have been rare and transitory.
 They include sensory and/or motor or nerve root disturbances, myelitis, persistent leg muscle pain or weakness, 6th nerve palsy, or cauda equina syndrome.
 Muscle cramps, fasciculation or myoclonia, spinal convulsion, or spasticity is unusual and has responded promptly to a small intravenous dose of diazepam.
-
 In general, the reactions which are known to occur upon parenteral administration of iodinated contrast agents are possible with any nonionic agent.
 Approximately 95 percent of adverse reactions accompanying the use of water-soluble contrast agents are mild to moderate in degree.
 However, severe, life-threatening, anaphylactoid and fatal reactions, mostly of cardiovascular origin and central nervous system origin, have occurred.
@@ -107,7 +97,6 @@ Gastrointestinal System: Nausea (2%) and vomiting (0.7%).
 Others including diarrhea, dyspepsia, cramp, and dry mouth were reported, with an individual incidence of less than 0.1%.
 
 Skin and Appendages: Urticaria (0.3%), purpura (0.1%), abscess (0.1%), and pruritus (0.1%).
-
 Individual adverse reactions which occurred to a significantly greater extent for a specific procedure are listed under that indication.
 
 ## Pediatrics
@@ -178,15 +167,29 @@ Electrocardiographic and hemodynamic abnormalities occur less frequently with OM
 
 In controlled clinical trials involving 285 adult patients for various body cavity examinations using OMNIPAQUE 300 and 350, the following adverse reactions were reported.
 
-Cardiovascular System Incidence > 1%: None Incidence ≤ 1%: Hypertension
+Cardiovascular System
 
-Nervous System Incidence > 1%: Pain (26%) Incidence ≤ 1%: Headache, somnolence, fever, muscle weakness, burning, unwell feeling, tremors, lightheadedness, syncope
+- Incidence > 1%: None
+- Incidence ≤ 1%: Hypertension
 
-Respiratory System None
+Nervous System
 
-Gastrointestinal System Incidence > 1%: None Incidence ≤ 1%: Flatulence, diarrhea, nausea, vomiting, abdominal pressure
+- Incidence > 1%: Pain (26%)
+- Incidence ≤ 1%: Headache, somnolence, fever, muscle weakness, burning, unwell feeling, tremors, lightheadedness, syncope
 
-Skin and Appendages Incidence > 1%: Swelling (22%), heat (7%) Incidence ≤ 1%: Hematoma at injection site
+Respiratory System
+
+- None
+
+Gastrointestinal System
+
+- Incidence > 1%: None
+- Incidence ≤ 1%: Flatulence, diarrhea, nausea, vomiting, abdominal pressure
+
+Skin and Appendages
+
+- Incidence > 1%: Swelling (22%), heat (7%)
+- Incidence ≤ 1%: Hematoma at injection site
 
 The most frequent reactions, pain and swelling, were almost exclusively reported after arthrography and were generally related to the procedure rather than the contrast medium.
 Gastrointestinal reactions were almost exclusively reported after oral pass-thru examinations.

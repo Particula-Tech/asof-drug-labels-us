@@ -151,8 +151,8 @@ Ionic contrast media, when injected intravenously or intra-arterially, may promo
 Administration of radiopaque materials to patients known or suspected of having pheochromocytoma should be performed with extreme caution.
 If, in the opinion of the physician, the possible benefits of such procedures outweigh the considered risks, the procedures may be performed; however, the amount of radiopaque medium injected should be kept to an absolute minimum.
 The patient's blood pressure should be assessed throughout the procedure and measures for the treatment of hypertensive crisis should be readily available.
-Reports of thyroid storm following the use of iodinated, ionic radiopaque contrast media in patients with hyperthyroidism or with an autonomously functioning thyroid nodule suggest that this additional risk be evaluated in such patients before use of any contrast medium.
 
+Reports of thyroid storm following the use of iodinated, ionic radiopaque contrast media in patients with hyperthyroidism or with an autonomously functioning thyroid nodule suggest that this additional risk be evaluated in such patients before use of any contrast medium.
 Urography should be performed with caution in patients with severely impaired renal function and patients with combined renal and hepatic disease.
 
 # PRECAUTIONS—General

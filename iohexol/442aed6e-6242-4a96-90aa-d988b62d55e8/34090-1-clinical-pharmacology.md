@@ -8,6 +8,7 @@ The initial concentration and volume of the medium, in conjunction with appropri
 Following intrathecal injection in conventional radiography, OMNIPAQUE 300 will continue to provide good diagnostic contrast for at least 30 minutes.
 Slow diffusion of iohexol takes place throughout the CSF with subsequent absorption into the bloodstream.
 Once in the systemic circulation, iohexol displays little tendency to bind to serum or plasma proteins.
+
 At approximately 1 hour following injection, contrast of diagnostic quality will no longer be available for conventional myelography.
 If computerized tomographic (CT) myelography is to follow, consideration should be given to a delay of several hours to allow the degree of contrast to decrease.
 
@@ -76,7 +77,7 @@ In contrast enhanced computed tomographic body imaging (nonneural tissue), OMNIP
 Increase in x-ray absorption is related to blood flow, concentration of the contrast medium, and extraction of the contrast medium by interstitial tissue of tumors since no barrier exists.
 Contrast enhancement is thus due to the relative differences in extravascular diffusion between normal and abnormal tissue, quite different from that in the brain.
 
-# CLINICAL PHARMACOLOGY—Oral/Body Cavity Use
+# CLINICAL PHARMACOLOGY—OraI/Body Cavity Use
 
 For most body cavities, the injected iohexol is absorbed into the surrounding tissue and eliminated by the kidneys and bowel as previously described in SECTION II, CLINICAL PHARMACOLOGY—Intravascular.
 Examinations of the uterus (hysterosalpingography) and bladder (voiding cystourethrography) involve the almost immediate drainage of contrast medium from the cavity upon conclusion of the radiographic procedure.

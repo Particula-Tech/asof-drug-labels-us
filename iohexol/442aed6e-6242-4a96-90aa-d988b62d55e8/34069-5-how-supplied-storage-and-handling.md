@@ -1,14 +1,12 @@
 # HOW SUPPLIED
 
-OMNIPAQUE 300 500 mL in +PLUSPAK™ (polymer bottle), boxes of 10 Pharmacy Bulk Packages (NDC 0407-1413-68)
+OMNIPAQUE 300
 
-OMNIPAQUE 350 500 mL in +PLUSPAK™ (polymer bottle), boxes of 10 Pharmacy Bulk Packages (NDC 0407-1414-98)
+- 500 mL in +PLUSPAK™ (polymer bottle), boxes of 10 Pharmacy Bulk Packages (NDC 0407-1413-68)
 
-## FEDERAL GOVERNMENT CODES
+OMNIPAQUE 350
 
-OMNIPAQUE 300 500 mL in +PLUSPAK™ (polymer bottle), boxes of 10 Pharmacy Bulk Packages (NDC 0407-1413-94)
-
-OMNIPAQUE 350 500 mL in +PLUSPAK™ (polymer bottle), boxes of 10 Pharmacy Bulk Packages (NDC 0407-1414-25)
+- 500 mL in +PLUSPAK™ (polymer bottle), boxes of 10 Pharmacy Bulk Packages (NDC 0407-1414-98)
 
 Protect polymer bottles of OMNIPAQUE from strong daylight and direct exposure to sunlight.
 Do not freeze.
