@@ -32,7 +32,7 @@ While on a maintenance dose, the rates were 6% for patients on rivastigmine tart
 
 The most common adverse reactions leading to discontinuation, defined as those occurring in at least 2% of patients and at twice the incidence seen in placebo patients, are shown in Table 1.
 
-Table 1 Most Frequent Adverse Reactions Leading to Withdrawal from Clinical Trials during Titration and Maintenance in Patients Receiving 6 mg to 12 mg per day Rivastigmine Tartrate Using a Forced-Dose Titration
+Table 1: Most Frequent Adverse Reactions Leading to Withdrawal from Clinical Trials during Titration and Maintenance in Patients Receiving 6 mg to 12 mg per day Rivastigmine Tartrate Using a Forced-Dose Titration
 
 | Study Phase | Titration |  | Maintenance |  | Overall |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -52,7 +52,7 @@ In general, adverse reactions were less frequent later in the course of treatmen
 No systematic effect of race or age could be determined from the incidence of adverse reactions in the controlled studies.
 Nausea, vomiting and weight loss were more frequent in women than men.
 
-Table 2 Proportion of Adverse Reactions Observed with a Frequency of ≥2% and at a Rate Greater than Placebo in Clinical Trials
+Table 2: Proportion of Adverse Reactions Observed with a Frequency of ≥2% and at a Rate Greater than Placebo in Clinical Trials
 
 | Body System/Adverse Reaction | Rivastigmine Tartrate (6 to 12 mg/day) (n=1,189) | Placebo (n=868) |
 | --- | --- | --- |
@@ -111,7 +111,7 @@ Table 3 lists adverse reactions that occurred in at least 2% of patients in a si
 
 In general, adverse reactions were less frequent later in the course of treatment.
 
-Table 3 Proportion of Adverse Reactions Observed at a Frequency ≥2% and Occurring at Rate Greater than Placebo in Clinical Trials
+Table 3: Proportion of Adverse Reactions Observed at a Frequency ≥2% and Occurring at Rate Greater than Placebo in Clinical Trials
 
 |  | Active-Controlled Study | Placebo-Controlled Study |  |
 | --- | --- | --- | --- |
@@ -153,9 +153,12 @@ Table 3 Proportion of Adverse Reactions Observed at a Frequency ≥2% and Occurr
 
 The following adverse reactions have been identified during post approval use of rivastigmine tartrate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Cardiac Disorders: Tachycardia.
 
-Hepatobiliary Disorders: Hepatitis.
+Hepatobiliary Disorders: Abnormal liver function tests, hepatitis.
 
-Psychiatric Disorders: Aggression.
+Nervous System Disorders: seizure.
 
-Skin and Appendages: Stevens-Johnson syndrome, disseminated allergic dermatitis.
+Psychiatric Disorders: Aggression, nightmares.
+
+Skin and Subcutaneous Tissue Disorders: Allergic dermatitis, blister, disseminated allergic dermatitis, Stevens-Johnson syndrome, urticaria.

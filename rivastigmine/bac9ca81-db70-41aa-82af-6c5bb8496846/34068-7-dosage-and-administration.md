@@ -42,10 +42,18 @@ If dosing is interrupted for more than 3 days, treatment should be restarted wit
 
 ## 2.4 Dosing in Specific Populations
 
-Dosing Modifications in Patients with Renal Impairment Patients with moderate and severe renal impairment may be able to only tolerate lower doses.
-Dosing Modifications in Patients with Hepatic Impairment Patients with mild (Child-Pugh score 5 to 6) and moderate (Child-Pugh score 7 to 9) hepatic impairment may be able to only tolerate lower doses.
+Dosing Modifications in Patients with Renal Impairment
+
+Patients with moderate and severe renal impairment may be able to only tolerate lower doses.
+
+Dosing Modifications in Patients with Hepatic Impairment
+
+Patients with mild (Child-Pugh score 5 to 6) and moderate (Child-Pugh score 7 to 9) hepatic impairment may be able to only tolerate lower doses.
 No data are available on the use of rivastigmine in patients with severe hepatic impairment.
-Dosing Modifications in Patients with Low Body Weight Carefully titrate and monitor patients with low body weight (less than 50 kg) for toxicities (e.g., excessive nausea, vomiting), and consider reducing the dose if such toxicities develop.
+
+Dosing Modifications in Patients with Low Body Weight
+
+Carefully titrate and monitor patients with low body weight (less than 50 kg) for toxicities (e.g., excessive nausea, vomiting), and consider reducing the dose if such toxicities develop.
 
 ## 2.5 Important Administration Instructions
 
