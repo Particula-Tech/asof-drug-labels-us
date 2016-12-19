@@ -1,22 +1,23 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Most Serious and/or Most Frequently Observed Adverse Reactions
+The following important adverse reactions are also described elsewhere in the labeling:
 
-This list presents the most seriousb and/or most frequently observeda adverse reactions during treatment with somatropin:
+- •Increased mortality in patients with acute critical illness [see Warnings and Precautions (5.1)]
+- •Fatalities in children with Prader-Willi syndrome [see Warnings and Precautions (5.2)]
+- •Neoplasms [see Warnings and Precautions (5.3)]
+- •Glucose intolerance and diabetes mellitus [see Warnings and Precautions (5.4)]
+- •Intracranial hypertension [see Warnings and Precautions (5.5)]
+- •Severe hypersensitivity [see Warnings and Precautions (5.6)]
+- •Fluid retention [see Warnings and Precautions (5.7)]
+- •Hypoadrenalism [see Warnings and Precautions (5.8)]
+- •Hypothyroidism [see Warnings and Precautions (5.9)]
+- •Slipped capital femoral epiphysis in pediatric patients [see Warnings and Precautions (5.10)]
+- •Progression of preexisting scoliosis in pediatric patients [see Warnings and Precautions (5.11)]
+- •Otitis media and cardiovascular disorders in patients with Turner syndrome [see Warnings and Precautions (5.12)]
+- •Lipoatrophy [see Warnings and Precautions (5.14)]
+- •Pancreatitis [see Warnings and Precautions (5.16)]
 
-- •bSudden death in pediatric patients with Prader-Willi syndrome with risk factors including severe obesity, history of upper airway obstruction or sleep apnea and unidentified respiratory infection [see Contraindications (4.2) and Warnings and Precautions (5.2)]
-- •bIntracranial tumors, in particular meningiomas, in teenagers/young adults treated with radiation to the head as children for a first neoplasm and somatropin [see Contraindications (4.3) and Warnings and Precautions (5.3)]
-- •a,bGlucose intolerance including impaired glucose tolerance/impaired fasting glucose as well as overt diabetes mellitus [see Warnings and Precautions (5.4)]
-- •bIntracranial hypertension [see Warnings and Precautions (5.5)]
-- •bSignificant diabetic retinopathy [see Contraindications (4.4)]
-- •bSlipped capital femoral epiphysis in pediatric patients [see Warnings and Precautions (5.8)]
-- •bProgression of preexisting scoliosis in pediatric patients [see Warnings and Precautions (5.9)]
-- •aFluid retention manifested by edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias [see Warnings and Precautions (5.6)]
-- •aUnmasking of latent central hypothyroidism [see Warnings and Precautions (5.7)]
-- •aInjection site reactions/rashes and lipoatrophy (as well as rare generalized hypersensitivity reactions) [see Warnings and Precautions (5.12)]
-- •Pancreatitis [see Warnings and Precautions (5.14)]
-
-## 6.2 Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under varying conditions, adverse reaction rates observed during the clinical trials performed with one somatropin formulation cannot always be directly compared to the rates observed during the clinical trials performed with a second somatropin formulation, and may not reflect the adverse reaction rates observed in practice.
 
@@ -39,7 +40,7 @@ The mean serum IGF-I level was low at baseline and normalized during treatment.
 
 Clinical Trials in Children with Turner Syndrome
 
-In two clinical studies wherein children with Turner syndrome were treated until final height with various doses of Norditropin as described in Clinical Studies (14.2), the most frequently reported adverse events were common childhood diseases including influenza-like illness, otitis media, upper respiratory tract infection, otitis externa, gastroenteritis and eczema.
+In two clinical studies wherein children with Turner syndrome were treated until final height with various doses of Norditropin as described inClinical Studies (14.2), the most frequently reported adverse events were common childhood diseases including influenza-like illness, otitis media, upper respiratory tract infection, otitis externa, gastroenteritis and eczema.
 Otitis media adverse events in Study 1 were most frequent in the highest dose groups (86.4% in the 0.045-0.067-0.089 mg/kg/day group vs. 78.3% in the 0.045-0.067 mg/kg/day group vs. 69.6% in the 0.045 mg/kg/day group) suggesting a possible dose-response relationship.
 Of note, approximately 40-50% of these otitis media adverse events were designated as “serious” [see Warnings and Precautions (5.10)].
 No patients in either study developed clearcut overt diabetes mellitus; however, in Study 1, impaired fasting glucose at Month 48 was more frequent in patients in the 0.045-0.067 mg/kg/day group (n=4/18) compared with the 0.045 mg/kg/day group (n=1/20).
@@ -77,7 +78,7 @@ In both Study 1 and Study 2, there were no clear cut cases of new onset diabetes
 In Study 2, after treatment with either dose of Norditropin for 2 years, there were no children with consecutive fasting blood glucose levels between 100 and 126 mg/dL, or with fasting blood glucose levels > 126 mg/dL.
 Furthermore, mean hemoglobin A1c levels tended to decrease during long-term treatment in Study 1, and remained normal in Study 2.
 However, in Study 1, 4 children treated with 0.067 mg/kg/day of Norditropin and 2 children treated with 0.033 mg/kg/day of Norditropin shifted from normal fasting blood glucose levels at baseline to increased levels after 1 year of treatment (100 to 126 mg/dL or > 126 mg/dL).
-In addition, small increases in mean fasting blood glucose and insulin levels (within the normal reference range) after 1 and 2 years of Norditropin treatment appeared to be dose-dependent [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+In addition, small increases in mean fasting blood glucose and insulin levels (within the normal reference range) after 1 and 2 years of Norditropin treatment appeared to be dose-dependent [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
 
 In both Study 1 and Study 2, there was no acceleration of bone maturation.
 A dose-dependent increase in mean serum IGF-I SDS levels within the reference range (but including a substantial number of children with serum IGF-1 SDS > +2) was observed after both long-term (Study 1) and short-term (Study 2) Norditropin treatment.
@@ -88,13 +89,15 @@ Adverse events with an incidence of ≥5% occurring in patients with AO GHD duri
 Peripheral edema, other types of edema, arthralgia, myalgia, and paraesthesia were common in the Norditropin-treated patients, and reported much more frequently than in the placebo group.
 These types of adverse events are thought to be related to the fluid accumulating effects of somatropin.
 In general, these adverse events were mild and transient in nature.
-During the placebo-controlled portion of this study, approximately 5% of patients without preexisting diabetes mellitus treated with Norditropin were diagnosed with overt type 2 diabetes mellitus compared with none in the placebo group [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+During the placebo-controlled portion of this study, approximately 5% of patients without preexisting diabetes mellitus treated with Norditropin were diagnosed with overt type 2 diabetes mellitus compared with none in the placebo group [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
 Anti-GH antibodies were not detected.
 
 Of note, the doses of Norditropin employed during this study (completed in the mid 1990s) were substantially larger than those currently recommended by the Growth Hormone Research Society, and, more than likely, resulted in a greater than expected incidence of fluid retention- and glucose intolerance-related adverse events.
 A similar incidence and pattern of adverse events were observed during the other three placebo-controlled AO GHD trials and during the two placebo-controlled CO GHD trials.
 
-Table 1 - Adverse Reactions with ≥5% Overall Incidence in Adult Onset Growth Hormone Deficient Patients Treated with Norditropin During a Six Month Placebo-Controlled Clinical Trial
+Table 1 – Adverse Reactions with ≥5% Overall Incidence in Adult Onset Growth Hormone
+
+Deficient Patients Treated with Norditropin During a Six Month Placebo-Controlled Clinical Trial
 
 |  | Norditropin(N=53) |  | Placebo(N=52) |  |
 | --- | --- | --- | --- | --- |
@@ -129,16 +132,18 @@ In a very small number of patients treated with somatropin, when binding capacit
 In clinical trials, GHD pediatric patients receiving Norditropin for up to 12 months were tested for induction of antibodies, and 0/358 patients developed antibodies with binding capacities above 2 mg/L.
 Amongst these patients, 165 had previously been treated with other somatropin formulations, and 193 were previously untreated naive patients.
 
-## 6.3 Post-Marketing Experience
+## 6.2 Post-Marketing Experience
 
 Because these adverse events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 The adverse events reported during post-marketing surveillance do not differ from those listed/discussed above in Sections 6.1 and 6.2 in children and adults.
 
+Serious systemic hypersensitivity reactions including anaphylactic reactions and angioedema have been reported with postmarketing use of somatropin products [see Warnings and Precautions (5.6)].
+
 Leukemia has been reported in a small number of GH deficient children treated with somatropin, somatrem (methionylated rhGH) and GH of pituitary origin.
 It is uncertain whether these cases of leukemia are related to GH therapy, the pathology of GHD itself, or other associated treatments such as radiation therapy.
 On the basis of current evidence, experts have not been able to conclude that GH therapy per se was responsible for these cases of leukemia.
-The risk for children with GHD, if any, remains to be established [see Contraindications (4.3) and Warnings and Precautions (5.3)].
+The risk for children with GHD, if any, remains to be established [see Contraindications (4) and Warnings and Precautions (5.3)].
 
-The following additional adverse reactions have been observed during the appropriate use of somatropin: headaches (children and adults), gynecomastia (children), and pancreatitis (children and adults [see Warnings and Precautions (5.14)]).
+The following additional adverse reactions have been observed during the appropriate use of somatropin: headaches (children and adults), gynecomastia (children), and pancreatitis (children and adults [see Warnings and Precautions (5.16)]).
 
 New-onset type 2 diabetes mellitus has been reported.

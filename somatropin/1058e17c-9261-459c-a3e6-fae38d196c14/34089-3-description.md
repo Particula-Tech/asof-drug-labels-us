@@ -6,7 +6,7 @@ Norditropin contains the identical sequence of 191 amino acids constituting the 
 
 Norditropin is supplied as a sterile solution for subcutaneous injection in ready-to-administer prefilled pens with a volume of 1.5 mL or 3 mL.
 
-Each Norditropin Cartridge contains the following (see Table 2):
+Each Norditropin contains the following (see Table 2):
 
 Table 2
 

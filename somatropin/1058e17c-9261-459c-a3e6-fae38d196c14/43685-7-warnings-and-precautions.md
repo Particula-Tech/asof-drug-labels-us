@@ -2,7 +2,8 @@
 
 ## 5.1 Acute Critical Illness
 
-Increased mortality in patients with acute critical illness due to complications following open heart surgery, abdominal surgery or multiple accidental trauma, or those with acute respiratory failure has been reported after treatment with pharmacologic amounts of somatropin [see Contraindications (4.1)].
+Increased mortality in patients with acute critical illness due to complications following open heart surgery, abdominal surgery or multiple accidental trauma, or those with acute respiratory failure has been reported after treatment with pharmacologic amounts of somatropin [see Contraindications (4)].
+Two placebo-controlled clinical trials in non-growth hormone deficient adult patients (n=522) with these conditions in intensive care units revealed a significant increase in mortality (42% vs. 19%) among somatropin-treated patients (doses 5.3-8 mg/day) compared to those receiving placebo.
 The safety of continuing somatropin treatment in patients receiving replacement doses for approved indications who concurrently develop these illnesses has not been established.
 Therefore, the potential benefit of treatment continuation with somatropin in patients experiencing acute critical illnesses should be weighed against the potential risk.
 
@@ -12,14 +13,14 @@ There have been reports of fatalities after initiating therapy with somatropin i
 Male patients with one or more of these factors may be at greater risk than females.
 Patients with Prader-Willi syndrome should be evaluated for signs of upper airway obstruction and sleep apnea before initiation of treatment with somatropin.
 If, during treatment with somatropin, patients show signs of upper airway obstruction (including onset of or increased snoring) and/or new onset sleep apnea, treatment should be interrupted.
-All patients with Prader-Willi syndrome treated with somatropin should also have effective weight control and be monitored for signs of respiratory infection, which should be diagnosed as early as possible and treated aggressively [see Contraindications (4.2)].
+All patients with Prader-Willi syndrome treated with somatropin should also have effective weight control and be monitored for signs of respiratory infection, which should be diagnosed as early as possible and treated aggressively [see Contraindications (4)].
 Norditropin is not indicated for the treatment of pediatric patients who have growth failure due to genetically confirmed Prader-Willi syndrome.
 
 ## 5.3 Neoplasms
 
 In childhood cancer survivors who were treated with radiation to the brain/head for their first neoplasm and who developed subsequent GHD and were treated with somatropin, an increased risk of a second neoplasm has been reported.
 Intracranial tumors, in particular meningiomas, were the most common of these second neoplasms.
-In adults, it is unknown whether there is any relationship between somatropin replacement therapy and CNS tumor recurrence [see Contraindications (4.3)].
+In adults, it is unknown whether there is any relationship between somatropin replacement therapy and CNS tumor recurrence [see Contraindications (4)].
 Monitor all patients with a history of GHD secondary to an intracranial neoplasm routinely while on somatropin therapy for progression or recurrence of the tumor.
 
 Because children with certain rare genetic causes of short stature have an increased risk of developing malignancies, practitioners should thoroughly consider the risks and benefits of starting somatropin in these patients.
@@ -47,12 +48,22 @@ If papilledema is observed by funduscopy during somatropin treatment, treatment 
 If somatropin-induced IH is diagnosed, treatment with somatropin can be restarted at a lower dose after IH-associated signs and symptoms have resolved.
 Patients with Turner syndrome may be at increased risk for the development of IH.
 
-## 5.6 Fluid Retention
+## 5.6 Hypersensitivity
+
+Serious systemic hypersensitivity reactions including anaphylactic reactions and angioedema have been reported with postmarketing use of somatropin products.
+Patients and caregivers should be informed that such reactions are possible and that prompt medical attention should be sought if an allergic reaction occurs [see Contraindications (4)].
+
+## 5.7 Fluid Retention
 
 Fluid retention during somatropin replacement therapy in adults may frequently occur.
-Clinical manifestations of fluid retention are usually transient and dose dependent.
+Clinical manifestations of fluid retention (e.g. edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias) are usually transient and dose dependent.
 
-## 5.7 Hypothyroidism
+## 5.8 Hypoadrenalism
+
+Patients receiving somatropin therapy who have or are at risk for pituitary hormone deficiency(s) may be at risk for reduced serum cortisol levels and/or unmasking of central (secondary) hypoadrenalism.
+In addition, patients treated with glucocorticoid replacement for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses following initiation of somatropin treatment [see Section 7.1, 11-β Hydroxysteroid Dehydrogenase Type 1].
+
+## 5.9 Hypothyroidism
 
 Undiagnosed/untreated hypothyroidism may prevent an optimal response to somatropin, in particular, the growth response in children.
 Patients with Turner syndrome have an inherently increased risk of developing autoimmune thyroid disease and primary hypothyroidism.
@@ -61,12 +72,12 @@ Therefore, patients treated with somatropin should have periodic thyroid functio
 
 In patients with hypopituitarism (multiple hormone deficiencies), standard hormonal replacement therapy should be monitored closely when somatropin therapy is administered.
 
-## 5.8 Slipped Capital Femoral Epiphysis in Pediatric Patients
+## 5.10 Slipped Capital Femoral Epiphysis in Pediatric Patients
 
 Slipped capital femoral epiphysis may occur more frequently in patients with endocrine disorders (including GHD and Turner syndrome) or in patients undergoing rapid growth.
 Any pediatric patient with the onset of a limp or complaints of hip or knee pain during somatropin therapy should be carefully evaluated.
 
-## 5.9 Progression of Preexisting Scoliosis in Pediatric Patients
+## 5.11 Progression of Preexisting Scoliosis in Pediatric Patients
 
 Progression of scoliosis can occur in patients who experience rapid growth.
 Because somatropin increases growth rate, patients with a history of scoliosis who are treated with somatropin should be monitored for progression of scoliosis.
@@ -75,29 +86,26 @@ Skeletal abnormalities including scoliosis are commonly seen in untreated patien
 Scoliosis is also commonly seen in untreated patients with Prader-Willi syndrome.
 Physicians should be alert to these abnormalities, which may manifest during somatropin therapy.
 
-## 5.10 Otitis Media and Cardiovascular Disorders in Turner Syndrome
+## 5.12 Otitis Media and Cardiovascular Disorders in Turner Syndrome
 
 Patients with Turner syndrome should be evaluated carefully for otitis media and other ear disorders since these patients have an increased risk of ear and hearing disorders.
 Somatropin treatment may increase the occurrence of otitis media in patients with Turner syndrome.
 In addition, patients with Turner syndrome should be monitored closely for cardiovascular disorders (e.g., stroke, aortic aneurysm/dissection, hypertension) as these patients are also at risk for these conditions.
 
-## 5.11 Confirmation of Childhood Onset Adult GHD
+## 5.13 Confirmation of Childhood Onset Adult GHD
 
 Patients with epiphyseal closure who were treated with somatropin replacement therapy in childhood should be reevaluated according to the criteria in Indications and Usage (1.2) before continuation of somatropin therapy at the reduced dose level recommended for GH deficient adults.
 
-## 5.12 Local and Systemic Reactions
+## 5.14 Lipoatrophy
 
 When somatropin is administered subcutaneously at the same site over a long period of time, tissue atrophy may result.
 This can be avoided by rotating the injection site [see Dosage and Administration (2.3)].
 
-As with any protein, local or systemic allergic reactions may occur.
-Parents/Patients should be informed that such reactions are possible and that prompt medical attention should be sought if allergic reactions occur.
-
-## 5.13 Laboratory Tests
+## 5.15 Laboratory Tests
 
 Serum levels of inorganic phosphorus, alkaline phosphatase, parathyroid hormone (PTH) and IGF-I may increase after somatropin therapy.
 
-## 5.14 Pancreatitis
+## 5.16 Pancreatitis
 
 Cases of pancreatitis have been reported rarely in children and adults receiving somatropin treatment, with some evidence supporting a greater risk in children compared with adults.
 Published literature indicates that girls who have Turner syndrome may be at greater risk than other somatropin-treated children.

@@ -91,27 +91,3 @@ Rx only
 NDC 0169-7703-21
 
 List: 770321
-
-# PRINCIPAL DISPLAY PANEL - NORDITROPIN NORDIFLEX 30 MG/3 ML
-
-Norditropin NordiFlex®
-
-Somatropin (rDNA origin) injection
-
-30 mg/3 mL Prefilled Pen
-
-1x3 mL prefilled disposable pen
-
-Each 3 mL contains: 30 mg somatropin
-
-CONTAINS ONE
-
-NORDITROPIN NORDIFLEX® 30 mg/3 mL
-
-Single patient use only
-
-Rx only
-
-NDC 0169-7703-11
-
-LIST: 770311
