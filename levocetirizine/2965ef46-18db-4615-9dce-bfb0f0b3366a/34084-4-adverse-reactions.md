@@ -26,7 +26,15 @@ Somnolence with levocetirizine dihydrochloride showed dose ordering between test
 
 Table 1 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 12 years and older exposed to levocetirizine dihydrochloride 2.5 mg or 5 mg in eight placebo-controlled clinical trials and that were more common with levocetirizine dihydrochloride than placebo.
 
-Table 1 Adverse Reactions Reported in ≥2%* of Subjects Aged 12 Years and Older Exposed to Levocetirizinedihydrochloride 2.5 mg or 5 mg Once Daily in Placebo-Controlled Clinical Trials 1-6 Weeks in Duration
+Table 1 Adverse Reactions Reported in ≥ 2%* of Subjects Aged 12 Years and Older Exposed to Levocetirizine dihydrochloride 2.5 mg or 5 mg Once Daily in Placebo-Controlled Clinical Trials 1-6 Weeks in Duration
+
+| Adverse Reactions | Levocetirizine dihydrochloride 2.5 mg(n = 421) | Levocetirizine dihydrochloride 5 mg(n = 1070) | Placebo(n = 912) |
+| --- | --- | --- | --- |
+| Somnolence | 22 (5%) | 61 (6%) | 16 (2%) |
+| Nasopharyngitis | 25 (6%) | 40 (4%) | 28 (3%) |
+| Fatigue | 5 (1%) | 46 (4%) | 20 (2%) |
+| Dry Mouth | 12 (3%) | 26 (2%) | 11 (1%) |
+| Pharyngitis | 10 (2%) | 12 (1%) | 9 (1%) |
 
 *Rounded to the closest unit percentage
 
@@ -38,7 +46,14 @@ A total of 243 pediatric patients 6 to 12 years of age received levocetirizine d
 The mean age of the patients was 9.8 years, 79 (32%) were 6 to 8 years of age, and 50% were Caucasian.
 Table 2 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 6 to 12 years exposed to levocetirizine dihydrochloride 5 mg in placebo-controlled clinical trials and that were more common with levocetirizine dihydrochloride than placebo.
 
-Table 2 Adverse Reactions Reported in ≥2%* of Subjects Aged 6-12 Years Exposed to Levocetirizinedihydrochloride 5 mg Once Daily in Placebo-Controlled Clinical Trials 4 and 6 Weeks in Duration
+Table 2 Adverse Reactions Reported in ≥ 2%* of Subjects Aged 6-12 Years Exposed to Levocetirizine dihydrochloride 5 mg Once Daily in Placebo-Controlled Clinical Trials 4 and 6 Weeks in Duration
+
+| Adverse Reactions | Levocetirizine dihydrochloride 5 mg(n = 243) | Placebo(n = 240) |
+| --- | --- | --- |
+| Pyrexia | 10 (4%) | 5 (2%) |
+| Cough | 8 (3%) | 2 (<1%) |
+| Somnolence | 7 (3%) | 1 (<1%) |
+| Epistaxis | 6 (2%) | 1 (<1%) |
 
 *Rounded to the closest unit percentage
 
@@ -48,7 +63,14 @@ A total of 114 pediatric patients 1 to 5 years of age received levocetirizine di
 The mean age of the patients was 3.8 years, 32% were 1 to 2 years of age, 71% were Caucasian and 18% were Black.
 Table 3 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 1 to 5 years exposed to levocetirizine dihydrochloride 1.25 mg twice daily in the placebo-controlled safety trial and that were more common with levocetirizine dihydrochloride than placebo.
 
-Table 3 Adverse Reactions Reported in ≥2%* of Subjects Aged 1-5 Years Exposed to Levocetirizinedihydrochloride 1.25 mg Twice Daily in a 2-Week Placebo-Controlled Clinical Trial
+Table 3 Adverse Reactions Reported in ≥ 2%* of Subjects Aged 1-5 Years Exposed to Levocetirizine dihydrochloride 1.25 mg Twice Daily in a 2-Week Placebo-Controlled Clinical Trial
+
+| Adverse Reactions | Levocetirizine dihydrochloride 1.25 mg Twice Daily(n = 114) | Placebo(n = 59) |
+| --- | --- | --- |
+| Pyrexia | 5 (4%) | 1 (2%) |
+| Diarrhea | 4 (4%) | 2 (3%) |
+| Vomiting | 4 (4%) | 2 (3%) |
+| Otitis Media | 3 (3%) | 0 (0%) |
 
 *Rounded to the closest unit percentage
 

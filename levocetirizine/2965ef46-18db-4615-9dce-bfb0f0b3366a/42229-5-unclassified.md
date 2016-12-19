@@ -12,8 +12,6 @@ Allegan, MI 49010
 
 www.perrigo.com
 
-Rev 09-14
+Rev 02-15
 
-PI-5018-1
-
-4T800 RC J3
+PI-5018-1 4T800 RC J4

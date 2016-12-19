@@ -20,6 +20,20 @@ Results for two of these trials are shown in Table 4.
 
 Table 4 Mean Reflective Total Symptom Score* in Allergic Rhinitis Dose-Ranging Trials
 
+|  |  |  |  | Difference from Placebo |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Treatment | N | Baseline | On Treatment Adjusted Mean | Estimate | 95%Cl | p-value |
+| Seasonal Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
+| Levocetirizine dihydrochloride 2.5 mg | 116 | 7.83 | 4.27 | 0.91 | (0.37, 1.45) | 0.001 |
+| Levocetirizine dihydrochloride 5 mg | 115 | 7.45 | 4.06 | 1.11 | (0.57, 1.65) | <0.001 |
+| Levocetirizine dihydrochloride 10 mg | 118 | 7.15 | 3.57 | 1.61 | (1.07, 2.15) | <0.001 |
+| Placebo | 118 | 7.94 | 5.17 |  |  |  |
+| Perennial Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
+| Levocetirizine dihydrochloride 2.5 mg | 133 | 7.14 | 4.12 | 1.17 | (0.71, 1.63) | <0.001 |
+| Levocetirizine dihydrochloride 5 mg | 127 | 7.18 | 4.07 | 1.22 | (0.76, 1.69 | <0.001 |
+| Levocetirizine dihydrochloride 10 mg | 129 | 7.58 | 4.19 | 1.10 | (0.64, 1.57) | <0.001 |
+| Placebo | 128 | 7.22 | 5.29 |  |  |  |
+
 *Total symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0-3 categorical severity scale.
 
 One clinical trial was designed to evaluate the efficacy of levocetirizine dihydrochloride 5 mg once daily in the evening compared with placebo in patients with seasonal allergic rhinitis over a 2-week treatment period.
@@ -29,15 +43,30 @@ The results of the instantaneous total symptom score support efficacy at the end
 One clinical trial evaluated the efficacy of levocetirizine dihydrochloride 5 mg once daily in the evening compared to placebo in patients with perennial allergic rhinitis over a 6-week treatment period.
 Another trial conducted over a 6-month treatment period assessed efficacy at 4 weeks.
 Levocetirizine dihydrochloride 5 mg demonstrated a greater decrease from baseline in the reflective total symptom score than placebo and the difference from placebo was statistically significant.
+
 Results of one of these trials are shown in Table 5.
 
 Table 5 Mean Reflective Total Symptom Score* and Instantaneous Total Symptom Score in Allergic Rhinitis Trials
+
+|  |  |  |  | Difference from Placebo |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Treatment | N | Baseline | On Treatment Adjusted Mean | Estimate | 95%Cl | p-value |
+| Seasonal Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
+| Levocetirizine dihydrochloride 5 mg | 118 | 8.40 | 5.20 | 0.89 | (0.30, 1.47) | 0.003 |
+| Placebo | 117 | 8.50 | 6.09 |  |  |  |
+| Seasonal Allergic Rhinitis Trial – Instantaneous total symptom score |  |  |  |  |  |  |
+| Levocetirizine dihydrochloride 5 mg | 118 | 7.24 | 4.58 | 0.73 | (0.17, 1.28) | 0.011 |
+| Placebo | 117 | 7.48 | 5.30 |  |  |  |
+| Perennial Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
+| Levocetirizine dihydrochloride 5 mg | 150 | 7.69 | 3.93 | 1.17 | (0.70, 1.64) | <0.001 |
+| Placebo | 142 | 7.44 | 5.10 |  |  |  |
 
 *Total symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0-3 categorical severity scale.
 
 Onset of action was evaluated in two environmental exposure unit studies in allergic rhinitis patients with a single dose of levocetirizine dihydrochloride 2.5 or 5 mg.
 Levocetirizine dihydrochloride 5 mg was found to have an onset of action 1 hour after oral intake.
 Onset of action was also assessed from the daily recording of symptoms in the evening before dosing in the seasonal and perennial allergic rhinitis trials.
+
 In these trials, onset of effect was seen after 1 day of dosing.
 
 Pediatric Patients Less than 12 Years of Age
@@ -69,6 +98,18 @@ Duration of pruritus, number and size of wheals, and instantaneous pruritus seve
 The significant improvement in the instantaneous pruritus severity score over placebo confirmed end of dosing interval efficacy (see Table 6).
 
 Table 6 Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria Trials
+
+|  |  |  |  | Difference from Placebo |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Treatment | N | Baseline | On Treatment Adjusted Mean | Estimate | 95%Cl | p-value |
+| Dose-Ranging Trial – Reflective pruritus severity score |  |  |  |  |  |  |
+| Levocetirizine dihydrochloride 2.5 mg | 69 | 2.08 | 1.02 | 0.82 | (0.58, 1.06) | <0.001 |
+| Levocetirizine dihydrochloride 5 mg | 62 | 2.07 | 0.92 | 0.91 | (0.66, 1.16) | <0.001 |
+| Levocetirizine dihydrochloride 10 mg | 55 | 2.04 | 0.73 | 1.11 | (0.85, 1.37) | <0.001 |
+| Placebo | 60 | 2.25 | 1.84 |  |  |  |
+| Chronic Idiopathic Urticaria Trial – Reflective pruritus severity score |  |  |  |  |  |  |
+| Levocetirizine dihydrochloride 5 mg | 80 | 2.07 | 0.94 | 0.62 | (0.38, 0.86) | <0.001 |
+| Placebo | 82 | 2.06 | 1.56 |  |  |  |
 
 Pediatric Patients
 
