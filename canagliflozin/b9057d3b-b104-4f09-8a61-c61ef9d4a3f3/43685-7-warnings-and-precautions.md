@@ -38,7 +38,7 @@ Patients with hypovolemia may be more susceptible to these changes.
 Renal function abnormalities can occur after initiating INVOKANA [see Adverse Reactions (6.1)].
 Renal function should be evaluated prior to initiation of INVOKANA and monitored periodically thereafter.
 Dosage adjustment and more frequent renal function monitoring are recommended in patients with an eGFR below 60 mL/min/1.73 m2.
-Use of INVOKANA is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Use in Specific Populations (8.6)].
+Use of INVOKANA is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4) and Use in Specific Populations (8.6)].
 
 ## 5.4 Hyperkalemia
 
