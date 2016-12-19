@@ -7,10 +7,6 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 Rx Only
 
-Distributed by:
+Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-ANI Pharmaceuticals, Inc.
-
-Baudette, MN 56623
-
-PKG02037 Rev 08/15
+9904 Rev 10/16

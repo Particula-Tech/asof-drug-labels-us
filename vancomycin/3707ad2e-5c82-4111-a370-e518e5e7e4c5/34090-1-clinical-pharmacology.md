@@ -24,19 +24,19 @@ In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synt
 
 Mechanism of resistance
 
-- Staphylococcus aureus
-- S. aureus isolates with vancomycin minimal inhibitory concentrations (MICs) as high as 1024 mcg/mL have been reported.
-- The exact mechanism of this resistance is not clear but is believed to be due to cell wall thickening and potentially the transfer of genetic material.
-- Clostridium difficile
-- Isolates of C. difficile generally have vancomycin MICs of <1 mcg/mL, however vancomycin MICs ranging from 4 mcg/mL to 16 mcg/mL have been reported.
-  The mechanism which mediates C. difficile's decreased susceptibility to vancomycin has not been fully elucidated.
+1. Staphylococcus aureus
+2. S. aureus isolates with vancomycin minimal inhibitory concentrations (MICs) as high as 1024 mcg/mL have been reported.
+3. The exact mechanism of this resistance is not clear but is believed to be due to cell wall thickening and potentially the transfer of genetic material.
+4. Clostridium difficile
+5. Isolates of C. difficile generally have vancomycin MICs of <1 mcg/mL, however vancomycin MICs ranging from 4 mcg/mL to 16 mcg/mL have been reported.
+   The mechanism which mediates C. difficile's decreased susceptibility to vancomycin has not been fully elucidated.
 
 Vancomycin has been shown to be active against susceptible isolates of the following bacteria in clinical infections as described in the INDICATIONS AND USAGE section.
 
 Gram-positive bacteria
 
-- Staphylococcus aureus (including methicillin-resistant isolates) associated with enterocolitis.
+1. Staphylococcus aureus (including methicillin-resistant isolates) associated with enterocolitis.
 
 Anaerobic gram-positive bacteria
 
-- Clostridium difficile isolates associated with C. difficile associated diarrhea.
+1. Clostridium difficile isolates associated with C. difficile associated diarrhea.

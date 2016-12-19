@@ -1,1 +1,0 @@
-Vancomycin Hydrochloride Capsules USP
