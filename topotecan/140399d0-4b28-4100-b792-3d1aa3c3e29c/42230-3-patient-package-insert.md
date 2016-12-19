@@ -16,10 +16,10 @@ HYCAMTIN capsules affects your bone marrow and can cause a severe decrease in yo
 - •Your healthcare provider will tell you if your blood counts are too low before you begin treatment with HYCAMTIN.
 - •Your dose of HYCAMTIN may need to be changed or stopped until your blood counts recover enough after each cycle of treatment.
 - •Call your healthcare provider right away if you get any of the following signs of infection:
-  - fever (temperature of 100.5°F or greater)
-  - chills
-  - cough
-  - burning or pain on urination
+- fever (temperature of 100.5°F or greater)
+- chills
+- cough
+- burning or pain on urination
 - •Tell your healthcare provider about any abnormal bleeding or bruising.
 
 Diarrhea.
@@ -58,10 +58,10 @@ Before you take HYCAMTIN capsules, tell your healthcare provider if you:
 - •are pregnant or plan to become pregnant.
   HYCAMTIN capsules can harm your unborn baby.
   You should not become pregnant while you are taking HYCAMTIN capsules.
-  - Females who can become pregnant should use effective birth control (contraception) during treatment with HYCAMTIN and for 1 month after treatment.
-  - If you are a male and your female sexual partner is able to become pregnant, you should use effective birth control during treatment with HYCAMTIN and for 3 months after treatment.
-  - Talk to your healthcare provider about birth control options to prevent pregnancy while you are taking HYCAMTIN.
-  - Tell your healthcare provider right away if you or your female partner becomes pregnant while taking HYCAMTIN.
+- Females who can become pregnant should use effective birth control (contraception) during treatment with HYCAMTIN and for 1 month after treatment.
+- If you are a male and your female sexual partner is able to become pregnant, you should use effective birth control during treatment with HYCAMTIN and for 3 months after treatment.
+- Talk to your healthcare provider about birth control options to prevent pregnancy while you are taking HYCAMTIN.
+- Tell your healthcare provider right away if you or your female partner becomes pregnant while taking HYCAMTIN.
 - •are breastfeeding or plan to breastfeed.
   It is not known if HYCAMTIN passes into your breast milk.
   You and your healthcare provider should decide if you will take HYCAMTIN or breastfeed.
@@ -88,9 +88,9 @@ How should I take HYCAMTIN capsules?
 - •If any of the HYCAMTIN capsules are broken or leaking, do not touch them with your bare hands.
   Carefully throw away (dispose of) the capsules, and then wash your hands well with soap and water.
 - •If you get any of the contents of HYCAMTIN capsules on your skin or in your eyes, do the following:
-  - Wash the area of skin well with soap and water right away.
-  - Wash your eyes right away with gently flowing water for at least 15 minutes.
-  - Call your healthcare provider if you get a skin reaction or get HYCAMTIN in your eyes.
+- Wash the area of skin well with soap and water right away.
+- Wash your eyes right away with gently flowing water for at least 15 minutes.
+- Call your healthcare provider if you get a skin reaction or get HYCAMTIN in your eyes.
 - •If you take too much HYCAMTIN, call your healthcare provider right away.
 - •If you vomit after taking your HYCAMTIN, just take the next scheduled dose.
   Do not take another dose on the same day.
