@@ -5,10 +5,14 @@
 Bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
 Therefore, the potential exists for drug interactions between bupropion hydrochloride extended-release tablets (SR) and drugs that are inhibitors or inducers of CYP2B6.
 
-Inhibitors of CYP2B6: Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposure but decrease hydroxybupropion exposure.
+Inhibitors of CYP2B6
+
+Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposure but decrease hydroxybupropion exposure.
 Based on clinical response, dosage adjustment of bupropion hydrochloride extended-release tablets (SR) may be necessary when coadministered with CYP2B6 inhibitors (e.g., ticlopidine or clopidogrel) [see Clinical Pharmacology (12.3)].
 
-Inducers of CYP2B6: Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
+Inducers of CYP2B6
+
+Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
 Dosage increase of bupropion hydrochloride extended-release tablets (SR) may be necessary when coadministered with ritonavir, lopinavir, or efavirenz [see Clinical Pharmacology (12.3)] but should not exceed the maximum recommended dose.
 
 Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
@@ -16,7 +20,9 @@ If bupropion is used concomitantly with a CYP inducer, it may be necessary to in
 
 ## 7.2 Potential for Bupropion Hydrochloride Extended-Release Tablets (SR) to Affect Other Drugs
 
-Drugs Metabolized by CYP2D6: Bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
+Drugs Metabolized by CYP2D6
+
+Bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
 Therefore, coadministration of bupropion hydrochloride extended-release tablets (SR) with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6.
 Such drugs include certain antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone and flecainide).
 When used concomitantly with bupropion hydrochloride extended-release tablets (SR), it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.
@@ -24,10 +30,10 @@ When used concomitantly with bupropion hydrochloride extended-release tablets (S
 Drugs that require metabolic activation by CYP2D6 to be effective (e.g., tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
 Patients treated concomitantly with bupropion hydrochloride extended-release tablets (SR) and such drugs may require increased doses of the drug [see Clinical Pharmacology (12.3)].
 
-## 7.3 Drugs That Lower Seizure Threshold
+## 7.3 Drugs that Lower Seizure Threshold
 
 Use extreme caution when coadministering bupropion hydrochloride extended-release tablets (SR) with other drugs that lower seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).
-Use low initial doses and increase the dose gradually [see Contraindications (4) and Warnings and Precautions (5.3)].
+Use low initial doses and increase the dose gradually [see Contraindications (4), Warnings and Precautions (5.3)].
 
 ## 7.4 Dopaminergic Drugs (Levodopa and Amantadine)
 
@@ -37,7 +43,7 @@ Adverse reactions have included restlessness, agitation, tremor, ataxia, gait di
 It is presumed that the toxicity results from cumulative dopamine agonist effects.
 Use caution when administering bupropion hydrochloride extended-release tablets (SR) concomitantly with these drugs.
 
-## 7.5 Use With Alcohol
+## 7.5 Use with Alcohol
 
 In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with bupropion hydrochloride extended-release tablets (SR).
 The consumption of alcohol during treatment with bupropion hydrochloride extended-release tablets (SR) should be minimized or avoided.
@@ -48,7 +54,7 @@ Bupropion inhibits the reuptake of dopamine and norepinephrine.
 Concomitant use of MAOIs and bupropion is contraindicated because there is an increased risk of hypertensive reactions if bupropion is used concomitantly with MAOIs.
 Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine.
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of treatment with bupropion hydrochloride extended-release tablets (SR).
-Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride extended-release tablets (SR) before starting an MAOI antidepressant [see Dosage and Administration (2.4, 2.5) and Contraindications (4)].
+Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride extended-release tablets (SR) before starting an MAOI antidepressant [see Dosage and Administration (2.4, 2.5), Contraindications (4)].
 
 ## 7.7 Drug-Laboratory Test Interactions
 

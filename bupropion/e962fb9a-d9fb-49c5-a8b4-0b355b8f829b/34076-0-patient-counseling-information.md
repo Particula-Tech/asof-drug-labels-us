@@ -11,45 +11,69 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 
 Advise patients regarding the following issues and to alert their prescriber if these occur while taking bupropion hydrochloride extended-release tablets (SR).
 
-Suicidal Thoughts and Behaviors: Instruct patients, their families, and/or their caregivers to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
+Suicidal Thoughts and Behaviors
+
+Instruct patients, their families, and/or their caregivers to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Advise families and caregivers of patients to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient's prescriber or healthcare professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
-Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment: Although bupropion hydrochloride extended-release tablets (SR) are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
+Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
+
+Although bupropion hydrochloride extended-release tablets (SR) are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
 Advise patients, families and caregivers that quitting smoking, with or without ZYBAN®, may trigger nicotine withdrawal symptoms (e.g., including depression or agitation), or worsen pre-existing psychiatric illness.
 Some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking ZYBAN®.
 If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
 
-Severe Allergic Reactions: Educate patients on the symptoms of hypersensitivity and to discontinue bupropion hydrochloride extended-release tablets (SR) if they have a severe allergic reaction.
+Severe Allergic Reactions
 
-Seizure: Instruct patients to discontinue and not restart bupropion hydrochloride extended-release tablets (SR) if they experience a seizure while on treatment.
+Educate patients on the symptoms of hypersensitivity and to discontinue bupropion hydrochloride extended-release tablets (SR) if they have a severe allergic reaction.
+
+Seizure
+
+Instruct patients to discontinue and not restart bupropion hydrochloride extended-release tablets (SR) if they experience a seizure while on treatment.
 Advise patients that the excessive use or abrupt discontinuation of alcohol, benzodiazepines, antiepileptic drugs, or sedatives/hypnotics can increase the risk of seizure.
 Advise patients to minimize or avoid use of alcohol.
 
 As the dose is increased during initial titration to doses above 150 mg per day, instruct patients to take bupropion hydrochloride extended-release tablets (SR) in 2 divided doses, preferably with at least 8 hours between successive doses, to minimize the risk of seizures.
 
-Angle-Closure Glaucoma: Patients should be advised that taking bupropion hydrochloride extended-release tablets (SR) can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Angle-Closure Glaucoma
+
+Patients should be advised that taking bupropion hydrochloride extended-release tablets (SR) can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
 Pre-existing glaucoma is almost always open angle-glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.7)].
 
-Bupropion-Containing Products: Educate patients that bupropion hydrochloride extended-release tablets (SR) contain the same active ingredient (bupropion hydrochloride) found in ZYBAN®, which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (SR) should not be used in combination with ZYBAN® or any other medications that contain bupropion (such as WELLBUTRIN®, the immediate-release formulation, and WELLBUTRIN XL® or FORFIVO XL™, the extended-release formulations, and APLENZIN®, the extended-release formulation of bupropion hydrobromide).
+Bupropion-Containing Products
+
+Educate patients that bupropion hydrochloride extended-release tablets (SR) contain the same active ingredient (bupropion hydrochloride) found in ZYBAN®, which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (SR) should not be used in combination with ZYBAN® or any other medications that contain bupropion (such as WELLBUTRIN®, the immediate-release formulation, and WELLBUTRIN XL® or FORFIVO XL™, the extended-release formulations, and APLENZIN®, the extended-release formulation of bupropion hydrobromide).
 In addition, there are a number of generic bupropion HCl products for the immediate-, sustained-, and extended-release formulations.
 
-Potential for Cognitive and Motor Impairment: Advise patients that any CNS-active drug like bupropion hydrochloride extended-release tablets (SR) may impair their ability to perform tasks requiring judgment or motor and cognitive skills.
+Potential for Cognitive and Motor Impairment
+
+Advise patients that any CNS-active drug like bupropion hydrochloride extended-release tablets (SR) may impair their ability to perform tasks requiring judgment or motor and cognitive skills.
 Advise patients that until they are reasonably certain that bupropion hydrochloride extended-release tablets (SR) do not adversely affect their performance, they should refrain from driving an automobile or operating complex, hazardous machinery.
 Bupropion hydrochloride extended-release tablets (SR) may lead to decreased alcohol tolerance.
 
-Concomitant Medications: Counsel patients to notify their healthcare provider if they are taking or plan to take any prescription or over-the-counter drugs because bupropion hydrochloride extended-release tablets (SR) and other drugs may affect each other's metabolisms.
+Concomitant Medications
 
-Pregnancy: Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
+Counsel patients to notify their healthcare provider if they are taking or plan to take any prescription or over-the-counter drugs because bupropion hydrochloride extended-release tablets (SR) and other drugs may affect each other's metabolisms.
 
-Precautions for Nursing Mothers: Advise patients that bupropion hydrochloride extended-release tablets (SR) are present in human milk in small amounts.
+Pregnancy
 
-Storage Information: Instruct patients to store bupropion hydrochloride extended-release tablets (SR) at room temperature, between 20°C to 25°C (68°F to 77°F) and keep the tablets dry and out of the light.
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
 
-Administration Information: Instruct patients to swallow bupropion hydrochloride extended-release tablets (SR) whole so that the release rate is not altered.
+Precautions for Nursing Mothers
+
+Advise patients that bupropion hydrochloride extended-release tablets (SR) are present in human milk in small amounts.
+
+Storage Information
+
+Instruct patients to store bupropion hydrochloride extended-release tablets (SR) at room temperature, between 20°C to 25°C (68°F to 77°F) and keep the tablets dry and out of the light.
+
+Administration Information
+
+Instruct patients to swallow bupropion hydrochloride extended-release tablets (SR) whole so that the release rate is not altered.
 Do not chew, divide, or crush tablets; they are designed to slowly release drug in the body.
 When patients take more than 150 mg per day, instruct them to take bupropion hydrochloride extended-release tablets (SR) in 2 doses at least 8 hours apart, to minimize the risk of seizures.
 Instruct patients if they miss a dose, not to take an extra tablet to make up for the missed dose and to take the next tablet at the regular time because of the dose-related risk of seizure.

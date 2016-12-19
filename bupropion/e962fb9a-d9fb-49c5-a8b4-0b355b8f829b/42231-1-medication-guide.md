@@ -201,8 +201,8 @@ Bupropion hydrochloride extended-release tablets (SR) can cause serious side eff
 
 The most common side effects of bupropion hydrochloride extended-release tablets (SR) include:
 
-| HeadacheDry mouthNauseaTrouble sleeping | DizzinessSore throatConstipation |
-| --- | --- |
+| HeadacheDry mouthNauseaTrouble sleepingDizzinessSore throatConstipation |
+| --- |
 
 If you have nausea, take your medicine with food.
 If you have trouble sleeping, do not take your medicine too close to bedtime.
@@ -259,5 +259,5 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Dist. by: Impax Generics Hayward, CA 94544
 
-444-17 Rev.
-01/2016
+444-18 Rev.
+09/2016

@@ -2,8 +2,8 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning and Warnings and Precautions (5.1)]
-- Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Boxed Warning and Warnings and Precautions (5.2)]
+- Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning, Warnings and Precautions (5.1)]
+- Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Boxed Warning, Warnings and Precautions (5.2)]
 - Seizure [see Warnings and Precautions (5.3)]
 - Hypertension [see Warnings and Precautions (5.4)]
 - Activation of mania or hypomania [see Warnings and Precautions (5.5)]
@@ -15,7 +15,9 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Adverse Reactions Leading to Discontinuation of Treatment: In placebo-controlled clinical trials, 4%, 9%, and 11% of the placebo, 300-mg-per-day, and 400-mg-per-day groups, respectively, discontinued treatment due to adverse reactions.
+Adverse Reactions Leading to Discontinuation of Treatment
+
+In placebo-controlled clinical trials, 4%, 9%, and 11% of the placebo, 300-mg-per-day, and 400-mg-per-day groups, respectively, discontinued treatment due to adverse reactions.
 The specific adverse reactions leading to discontinuation in at least 1% of the 300-mg-per-day or 400-mg-per-day groups and at a rate at least twice the placebo rate are listed in Table 2.
 
 Table 2.
@@ -28,7 +30,9 @@ Treatment Discontinuations Due to Adverse Reactions in Placebo-Controlled Trials
 | Agitation | 0.3% | 0.3% | 1.8% |
 | Migraine | 0.3% | 0.0% | 1.8% |
 
-Commonly Observed Adverse Reactions: Adverse reactions from Table 3 occurring in at least 5% of subjects treated with bupropion hydrochloride extended-release tablets (SR) and at a rate at least twice the placebo rate are listed below for the 300- and 400-mg-per-day dose groups.
+Commonly Observed Adverse Reactions
+
+Adverse reactions from Table 3 occurring in at least 5% of subjects treated with bupropion hydrochloride extended-release tablets (SR) and at a rate at least twice the placebo rate are listed below for the 300- and 400-mg-per-day dose groups.
 
 Bupropion hydrochloride extended-release tablets (SR) 300 mg per day: Anorexia, dry mouth, rash, sweating, tinnitus, and tremor.
 
@@ -99,7 +103,9 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Vaginal hemorrhageIncidence based on the number of female subjects. | 0% | 2% |  |
 | Urinary tract infection | 1% | 0% |  |
 
-Other Adverse Reactions Observed During the Clinical Development of Bupropion: In addition to the adverse reactions noted above, the following adverse reactions have been reported in clinical trials with the sustained-release formulation of bupropion in depressed subjects and in nondepressed smokers, as well as in clinical trials with the immediate-release formulation of bupropion.
+Other Adverse Reactions Observed During the Clinical Development of Bupropion
+
+In addition to the adverse reactions noted above, the following adverse reactions have been reported in clinical trials with the sustained-release formulation of bupropion in depressed subjects and in nondepressed smokers, as well as in clinical trials with the immediate-release formulation of bupropion.
 
 Adverse reaction frequencies represent the proportion of subjects who experienced a treatment-emergent adverse reaction on at least one occasion in placebo-controlled trials for depression (n = 987) or smoking cessation (n = 1,013), or subjects who experienced an adverse reaction requiring discontinuation of treatment in an open-label surveillance trial with bupropion hydrochloride extended-release tablets (SR) (n = 3,100).
 All treatment-emergent adverse reactions are included except those listed in Table 3, those listed in other safety-related sections of the prescribing information, those subsumed under COSTART terms that are either overly general or excessively specific so as to be uninformative, those not reasonably associated with the use of the drug, and those that were not serious and occurred in fewer than 2 subjects.
@@ -131,7 +137,9 @@ Special Senses: Infrequent were accommodation abnormality and dry eye.
 
 Urogenital: Infrequent were impotence, polyuria, and prostate disorder.
 
-Changes in Body Weight: In placebo-controlled trials, subjects experienced weight gain or weight loss as shown in Table 4.
+Changes in Body Weight
+
+In placebo-controlled trials, subjects experienced weight gain or weight loss as shown in Table 4.
 
 Table 4.
 Incidence of Weight Gain and Weight Loss (≥5 lbs.) in Placebo-Controlled Trials
@@ -149,28 +157,52 @@ If weight loss is a major presenting sign of a patient's depressive illness, the
 The following adverse reactions have been identified during post-approval use of bupropion hydrochloride extended-release tablets (SR) and are not described elsewhere in the label.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body (General): Arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
+### Body (General)
+
+Arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
 These symptoms may resemble serum sickness [see Warnings and Precautions (5.8)].
 
-Cardiovascular: Complete atrioventricular block, extrasystoles, hypotension, hypertension (in some cases severe), phlebitis, and pulmonary embolism.
+### Cardiovascular
 
-Digestive: Colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, intestinal perforation, pancreatitis, and stomach ulcer.
+Complete atrioventricular block, extrasystoles, hypotension, hypertension (in some cases severe), phlebitis, and pulmonary embolism.
 
-Endocrine: Hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone.
+### Digestive
 
-Hemic and Lymphatic: Anemia, leukocytosis, leukopenia, lymphadenopathy, pancytopenia, and thrombocytopenia.
+Colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, intestinal perforation, pancreatitis, and stomach ulcer.
+
+### Endocrine
+
+Hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone.
+
+### Hemic and Lymphatic
+
+Anemia, leukocytosis, leukopenia, lymphadenopathy, pancytopenia, and thrombocytopenia.
 Altered PT and/or INR, infrequently associated with hemorrhagic or thrombotic complications, were observed when bupropion was coadministered with warfarin.
 
-Metabolic and Nutritional: Glycosuria.
+### Metabolic and Nutritional
 
-Musculoskeletal: Muscle rigidity/fever/rhabdomyolysis and muscle weakness.
+Glycosuria.
 
-Nervous System: Abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, completed suicide, delirium, delusions, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hallucinations, hypokinesia, increased libido, manic reaction, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
+### Musculoskeletal
 
-Respiratory: Pneumonia.
+Muscle rigidity/fever/rhabdomyolysis and muscle weakness.
 
-Skin: Alopecia, angioedema, exfoliative dermatitis, hirsutism, and Stevens-Johnson syndrome.
+### Nervous System
 
-Special Senses: Deafness, increased intraocular pressure, and mydriasis.
+Abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, completed suicide, delirium, delusions, dysarthria, euphoria, extrapyramidal syndrome (dyskinesia, dystonia, hypokinesia, parkinsonism), hallucinations, increased libido, manic reaction, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
 
-Urogenital: Abnormal ejaculation, cystitis, dyspareunia, dysuria, gynecomastia, menopause, painful erection, salpingitis, urinary incontinence, urinary retention, and vaginitis.
+### Respiratory
+
+Pneumonia.
+
+### Skin
+
+Alopecia, angioedema, exfoliative dermatitis, hirsutism, and Stevens-Johnson syndrome.
+
+### Special Senses
+
+Deafness, increased intraocular pressure, and mydriasis.
+
+### Urogenital
+
+Abnormal ejaculation, cystitis, dyspareunia, dysuria, gynecomastia, menopause, painful erection, salpingitis, urinary incontinence, urinary retention, and vaginitis.

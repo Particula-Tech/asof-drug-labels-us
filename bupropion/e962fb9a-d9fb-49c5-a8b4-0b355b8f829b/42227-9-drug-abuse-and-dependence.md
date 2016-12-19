@@ -6,7 +6,9 @@ Bupropion is not a controlled substance.
 
 ## 9.2 Abuse
 
-Humans: Controlled clinical trials conducted in normal volunteers, in subjects with a history of multiple drug abuse, and in depressed subjects showed some increase in motor activity and agitation/excitement, often typical of central stimulant activity.
+Humans
+
+Controlled clinical trials conducted in normal volunteers, in subjects with a history of multiple drug abuse, and in depressed subjects showed some increase in motor activity and agitation/excitement, often typical of central stimulant activity.
 
 In a population of individuals experienced with drugs of abuse, a single dose of 400 mg of bupropion produced mild amphetamine-like activity as compared with placebo on the Morphine-Benzedrine Subscale of the Addiction Research Center Inventories (ARCI) and a score greater than placebo but less than 15 mg of the Schedule II stimulant dextroamphetamine on the Liking Scale of the ARCI.
 These scales measure general feelings of euphoria and drug liking which are often associated with abuse potential.

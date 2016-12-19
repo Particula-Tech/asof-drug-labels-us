@@ -49,7 +49,7 @@ Prescriptions for bupropion hydrochloride extended-release tablets (SR) should b
 
 Bupropion hydrochloride extended-release tablets (SR) are not approved for smoking cessation treatment; however, ZYBAN® is approved for this use.
 Serious neuropsychiatric symptoms have been reported in patients taking bupropion for smoking cessation.
-These have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Boxed Warning and Adverse Reactions (6.2)].
+These have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Boxed Warning, Adverse Reactions (6.2)].
 Observe patients for the occurrence of neuropsychiatric reactions.
 Instruct patients to contact a healthcare professional if such reactions occur.
 
@@ -66,11 +66,13 @@ Discontinue bupropion hydrochloride extended-release tablets (SR) and do not res
 
 The risk of seizures is also related to patient factors, clinical situations, and concomitant medications that lower the seizure threshold.
 Consider these risks before initiating treatment with bupropion hydrochloride extended-release tablets (SR).
-Bupropion hydrochloride extended-release tablets (SR) are contraindicated in patients with a seizure disorder, current or prior diagnosis of anorexia nervosa or bulimia, or undergoing abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Contraindications (4) and Drug Interactions (7.3)].
+Bupropion hydrochloride extended-release tablets (SR) are contraindicated in patients with a seizure disorder, current or prior diagnosis of anorexia nervosa or bulimia, or undergoing abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Contraindications (4), Drug Interactions (7.3)].
 The following conditions can also increase the risk of seizure: severe head injury; arteriovenous malformation; CNS tumor or CNS infection; severe stroke; concomitant use of other medications that lower the seizure threshold (e.g., other bupropion products, antipsychotics, tricyclic antidepressants, theophylline, and systemic corticosteroids); metabolic disorders (e.g., hypoglycemia, hyponatremia, severe hepatic impairment, and hypoxia); use of illicit drugs (e.g., cocaine); or abuse or misuse of prescription drugs such as CNS stimulants.
 Additional predisposing conditions include diabetes mellitus treated with oral hypoglycemic drugs or insulin; use of anorectic drugs; and excessive use of alcohol, benzodiazepines, sedative/ hypnotics, or opiates.
 
-Incidence of Seizure With Bupropion Use: When bupropion hydrochloride extended-release tablets (SR) are dosed up to 300 mg per day, the incidence of seizure is approximately 0.1% (1/1,000) and increases to approximately 0.4% (4/1,000) at the maximum recommended dose of 400 mg per day.
+Incidence of Seizure with Bupropion Use
+
+When bupropion hydrochloride extended-release tablets (SR) are dosed up to 300 mg per day, the incidence of seizure is approximately 0.1% (1/1,000) and increases to approximately 0.4% (4/1,000) at the maximum recommended dose of 400 mg per day.
 
 The risk of seizure can be reduced if the dose of bupropion hydrochloride extended-release tablets (SR) does not exceed 400 mg per day, given as 200 mg twice daily, and the titration rate is gradual.
 

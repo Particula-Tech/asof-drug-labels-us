@@ -17,30 +17,30 @@ It is generally agreed that acute episodes of depression require several months 
 It is unknown whether the dose of bupropion hydrochloride extended-release tablets (SR) needed for maintenance treatment is identical to the dose that provided an initial response.
 Periodically reassess the need for maintenance treatment and the appropriate dose for such treatment.
 
-## 2.2 Dose Adjustment in Patients With Hepatic Impairment
+## 2.2 Dose Adjustment in Patients with Hepatic Impairment
 
 In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose of bupropion hydrochloride extended-release tablets (SR) is 100 mg per day or 150 mg every other day.
-In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
-## 2.3 Dose Adjustment in Patients With Renal Impairment
+## 2.3 Dose Adjustment in Patients with Renal Impairment
 
-Consider reducing the dose and/or frequency of bupropion hydrochloride extended-release tablets (SR) in patients with renal impairment (Glomerular Filtration Rate <90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Consider reducing the dose and/or frequency of bupropion hydrochloride extended-release tablets (SR) in patients with renal impairment (Glomerular Filtration Rate less than 90 mL per min) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-## 2.4 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
+## 2.4 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with bupropion hydrochloride extended-release tablets (SR).
-Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride extended-release tablets (SR) before starting an MAOI antidepressant [see Contraindications (4) and Drug Interactions (7.6)].
+Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride extended-release tablets (SR) before starting an MAOI antidepressant [see Contraindications (4), Drug Interactions (7.6)].
 
-## 2.5 Use of Bupropion Hydrochloride Extended-Release Tablets (SR) With Reversible MAOIs Such as Linezolid or Methylene Blue
+## 2.5 Use of Bupropion Hydrochloride Extended-Release Tablets (SR) with Reversible MAOIs such as Linezolid or Methylene Blue
 
 Do not start bupropion hydrochloride extended-release tablets (SR) in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue.
 Drug interactions can increase the risk of hypertensive reactions.
-In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered [see Contraindications (4) and Drug Interactions (7.6)].
+In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered [see Contraindications (4), Drug Interactions (7.6)].
 
 In some cases, a patient already receiving therapy with bupropion hydrochloride extended-release tablets (SR) may require urgent treatment with linezolid or intravenous methylene blue.
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of hypertensive reactions in a particular patient, bupropion hydrochloride extended-release tablets (SR) should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
 Therapy with bupropion hydrochloride extended-release tablets (SR) may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
 
-The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with bupropion hydrochloride extended-release tablets (SR) is unclear.
-The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4) and Drug Interactions (7.6)].
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg per kg with bupropion hydrochloride extended-release tablets (SR) is unclear.
+The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4), Drug Interactions (7.6)].
