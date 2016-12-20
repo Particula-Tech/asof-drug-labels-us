@@ -6,7 +6,7 @@ Rx only Keep out of reach ofchildren.
 Storage: Store at 4º-25ºC (39º-77ºF) Do not freeze.
 Protect from light by storing in carton.
 Mfg.
-By: Alcon® ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA Printed in USA © 2007, 2008 Alcon, Inc. 9003596-0408 LOT: EXP.:
+By: Alcon® ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA Printed in USA © 2007, 2008 Alcon, Inc. 9012682-1215 LOT: EXP.:
 
 NDC 0065-0543-01 Rx only Triesence® (triamcinolone acetonide injectable suspension) 40 mg/mL Preservative Free 40 mg/mL, Sterile, Single Use Store at 4°-25°C (39°-77°F) Do Not Freeze.
 Protect from light by storing in carton.
