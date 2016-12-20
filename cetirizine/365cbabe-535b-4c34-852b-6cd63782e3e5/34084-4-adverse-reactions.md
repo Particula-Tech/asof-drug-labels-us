@@ -79,4 +79,6 @@ Hepatitis with significant transaminase elevation and elevated bilirubin in asso
 
 ## Post-Marketing Experience
 
-In the post-marketing experience period, the following additional rare, but potentially severe adverse events have been reported: aggressive reaction, anaphylaxis, cholestasis, convulsions, glomerulonephritis, hallucinations, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, suicidal ideation, suicide and thrombocytopenia.
+In the post-marketing experience period, the following additional rare, but potentially severe adverse events have been reported: aggressive reaction, anaphylaxis, cholestasis, convulsions, glomerulonephritis, hallucinations, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, suicidal ideation, suicide, thrombocytopenia and acute generalized exanthematous pustulosis (AGEP).
+
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch..
