@@ -35,7 +35,7 @@ In controlled clinical trials, pioglitazone had an additive effect on glycemic c
 
 Patients with lipid abnormalities were included in clinical trials with pioglitazone.
 Overall, patients treated with pioglitazone had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.
-There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.12) and Adverse Reactions (6.1)].
+There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.11) and Adverse Reactions (6.1)].
 
 In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15 mg, 30 mg, and 45 mg pioglitazone dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone than in the placebo-treated patients.
@@ -232,7 +232,7 @@ Obese Patients
 
 The pharmacokinetics of glimepiride and its metabolites were measured in a single-dose study involving 28 patients with type 2 diabetes who either had normal body weight or were morbidly obese.
 While the Tmax, CL/F, and Vd/F of glimepiride in the morbidly obese patients were similar to those in the normal weight group, the morbidly obese had lower Cmax and AUC than those of normal body weight.
-The mean Cmax, AUC0-24, AUC0-∞ values of glimepiride in normal vs. morbidly obese patients were 547 ± 218 ng/mL vs. 410 ± 124 ng/mL, 3210 ± 1030 hours·ng/mL vs. 2820 ± 1110 hours·ng/mL and 4000 ± 1320 hours·ng/mL versus 3280 ± 1360 hours·ng/mL, respectively.
+The mean Cmax, AUC0-24, AUC0-∞ values of glimepiride in normal vs. morbidly obese patients were 547 ± 218 ng/mL vs. 410 ± 124 ng/mL, 3210 ± 1030 hours∙ng/mL vs. 2820 ± 1110 hours∙ng/mL and 4000 ± 1320 hours∙ng/mL versus 3280 ± 1360 hours∙ng/mL, respectively.
 
 Drug-Drug Interactions
 
@@ -247,7 +247,7 @@ Pioglitazone
 |  | Coadministered Drug |  |  |  |  |
 | Pioglitazone Dosage Regimen (mg)* | Name and Dose Regimens | Change in AUC† |  | Change in Cmax† |  |
 | 45 mg (N=12) | Warfarin‡ |  |  |  |  |
-| Daily loading then maintenance doses based PT and INR values Quick’s Value = 35 ± 5% | R-Warfarin | ↓3% | R-Warfarin | ↓2% |  |
+| Daily loading then maintenance doses based PT and INR values Quick's Value = 35 ± 5% | R-Warfarin | ↓3% | R-Warfarin | ↓2% |  |
 | S-Warfarin | ↓1% | S-Warfarin | ↑1% |  |  |
 | 45 mg (N=12) | Digoxin |  |  |  |  |
 | 0.250 mg twice daily (loading dose) then 0.250 mg daily (maintenance dose, 7 days) | ↑15% |  | ↑17% |  |  |

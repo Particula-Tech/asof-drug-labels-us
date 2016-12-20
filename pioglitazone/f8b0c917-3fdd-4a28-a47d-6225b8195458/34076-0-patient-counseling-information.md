@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Medication Guide).
+See FDA-approved patient labeling (Medication Guide).
 
 - •Inform patients that DUETACT is not recommended for patients with symptoms of heart failure.
 - •Inform patients that patients with severe heart failure (NYHA Class III or IV) cannot start DUETACT as the risks exceed the benefits in such patients.
@@ -12,15 +12,13 @@ See FDA-Approved Patient Labeling (Medication Guide).
   Combination therapy of DUETACT with other antihyperglycemic agents may also cause hypoglycemia.
 - •Patients who experience an unusually rapid increase in weight or edema or who develop shortness of breath or other symptoms of heart failure while on DUETACT should immediately report these symptoms to a physician.
 - •Tell patients to promptly stop taking DUETACT and seek immediate medical advice if there is unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or dark urine as these symptoms may be due to hepatotoxicity.
-- •Inform patients that therapy with a thiazolidinedione, including the active pioglitazone component of the DUETACT tablet, may result in ovulation in some premenopausal anovulatory women.
-  As a result, these patients may be at an increased risk for pregnancy while taking DUETACT.
-  Therefore, adequate contraception should be recommended for all premenopausal women who are prescribed DUETACT [see Use in Specific Populations (8.1)].
+- •Inform female patients that treatment with pioglitazone, like other thiazolidinediones may result in an unintended pregnancy in some premenopausal anovulatory females due to its effect on ovulation [see Use in Specific Populations (8.3)].
 - •Patients should be told to take a single dose of DUETACT once daily with the first main meal and instructed that any change in dosing should be made only if directed by their physician [see Dosage and Administration (2)].
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
 DUETACT is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
 
-© 2009-2015 Takeda Pharmaceuticals America, Inc.
+© 2009 - 2016 Takeda Pharmaceuticals America, Inc.
 
-DTA007 R13
+DTA007 R14

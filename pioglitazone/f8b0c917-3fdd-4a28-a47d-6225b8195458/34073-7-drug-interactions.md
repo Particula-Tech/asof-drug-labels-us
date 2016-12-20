@@ -29,7 +29,7 @@ The following are examples of medications that may reduce the glucose-lowering e
 When these medications are administered to a patient receiving DUETACT, monitor the patient closely for worsening glycemic control.
 When these medications are withdrawn from a patient receiving DUETACT, monitor the patient closely for hypoglycemia.
 
-Beta-blockers, clonidine, and reserpine may lead to either potentiation or weakening of DUETACT’s glucose-lowering effect.
+Beta-blockers, clonidine, and reserpine may lead to either potentiation or weakening of DUETACT's glucose-lowering effect.
 
 Both acute and chronic alcohol intake may potentiate or weaken the glucose-lowering action of DUETACT in an unpredictable fashion.
 

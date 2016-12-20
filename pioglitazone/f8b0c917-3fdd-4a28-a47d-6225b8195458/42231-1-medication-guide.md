@@ -22,7 +22,7 @@ Call your doctor right away if you have any of the following:
 - •unusual tiredness
 
 DUETACT can have other serious side effects.
-See “What are the possible side effects of DUETACT?”
+See "What are the possible side effects of DUETACT?"
 
 What is DUETACT?
 
@@ -39,7 +39,7 @@ DUETACT is not recommended for use in children.
 
 Who should not take DUETACT?
 
-See “What is the most important information I should know about DUETACT?”
+See "What is the most important information I should know about DUETACT?"
 
 Do not take DUETACT if you:
 
@@ -57,22 +57,21 @@ Before you take DUETACT, tell your doctor if you:
 
 - •have heart failure
 - •have kidney problems
-- •have type 1 (“juvenile”) diabetes or had diabetic ketoacidosis
+- •have type 1 ("juvenile") diabetes or had diabetic ketoacidosis
 - •have a type of diabetic eye disease that causes swelling in the back of the eye (macular edema)
 - •have liver problems
 - •have or have had cancer of the bladder
 - •are pregnant or plan to become pregnant.
   It is not known if DUETACT can harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant about the best way to control your blood glucose levels while pregnant
-- •are a premenopausal woman (before the “change of life”), who does not have periods regularly or at all.
+- •are a premenopausal woman (before the "change of life"), who does not have periods regularly or at all.
   DUETACT may increase your chance of becoming pregnant.
   Talk to your doctor about birth control choices while taking DUETACT.
   Tell your doctor right away if you become pregnant while taking DUETACT
 - •are breastfeeding or plan to breastfeed.
   It is not known if DUETACT passes into your milk and if it can harm your baby.
-  You should not take DUETACT if you breastfeed your baby.
   Talk to your doctor about the best way to control your blood glucose levels while breastfeeding
-- •have G6PD deficiency (an inherited condition where you don’t produce enough of the enzyme (G6PD).
+- •have G6PD deficiency (an inherited condition where you don't produce enough of the enzyme (G6PD).
   Taking glimepiride, one of the medicines in DUETACT, with this condition may cause your red blood cells to be destroyed too quickly (hemolytic anemia)
 
 Tell your doctor about all the medicines you take including prescription and over the counter medicines, vitamins, and herbal supplements.
@@ -107,7 +106,7 @@ What are the possible side effects of DUETACT?
 
 DUETACT may cause serious side effects including:
 
-- •See “What is the most important information I should know about DUETACT?”
+- •See "What is the most important information I should know about DUETACT?"
 - •low blood sugar (hypoglycemia).
   This can happen if you skip meals, if you also use another medicine that lowers blood sugar, or if you have certain medical problems.
   Lightheadedness, dizziness, shakiness, or hunger may happen if your blood sugar is too low.
@@ -188,10 +187,10 @@ Takeda Pharmaceuticals America, Inc.
 
 Deerfield, IL 60015
 
-Revised: March 2015
+Revised: December 2016
 
 DUETACT and ACTOS are registered trademarks of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America, Inc.
 
-© 2009 - 2015 Takeda Pharmaceuticals America, Inc.
+© 2009 - 2016 Takeda Pharmaceuticals America, Inc.
 
-DTA007 R13
+DTA007 R14

@@ -2,47 +2,73 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C.
+Risk Summary
 
-Pioglitazone
+Limited data with DUETACT or pioglitazone in pregnant women are not sufficient to determine a drug-associated risk for major birth defects or miscarriage.
+There are clinical considerations related to fetal and neonatal adverse reactions and drug discontinuation if glimepiride is used during pregnancy.
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
-There are no adequate and well-controlled studies of DUETACT in pregnant women.
-Animal studies show increased rates of postimplantation loss, delayed development, reduced fetal weights, and delayed parturition at doses 10 to 40 times the maximum recommended human dose.
-DUETACT should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+No adverse developmental effects were observed when pioglitazone was administered to pregnant rats and rabbits during organogenesis at exposures up to 5- and 35- times the 45 mg clinical dose, respectively, based on the body surface area.
+Administration of glimepiride to pregnant rats and rabbits during organogenesis induced maternal hypoglycemia and also increased fetal mortality at doses 50 (rats) and 0.1-times (rabbits) the 8 mg clinical dose, respectively, based on body surface area [see Data].
+
+The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20-25% in women with a HbA1c >10.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20% respectively.
 
 Clinical Considerations
 
-Abnormal blood glucose concentrations during pregnancy are associated with a higher incidence of congenital anomalies, as well as increased neonatal morbidity and mortality.
-Most experts recommend the use of insulin during pregnancy to maintain blood glucose concentrations as close to normal as possible for patients with diabetes.
+Disease-associated maternal and/or embryo/fetal risk
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, still birth and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
+
+Fetal/Neonatal Adverse Reaction
+
+Neonates of women with gestational diabetes, who are treated with sulfonylureas during pregnancy, may be at increased risk for neonatal intensive care unit admission, and may develop respiratory distress, hypoglycemia, birth injury, and be large for gestational age.
+Prolonged severe hypoglycemia, lasting 4-10 days, has been reported in neonates born to mothers receiving a sulfonylurea at the time of delivery and has been reported with the use of agents with a prolonged half-life.
+Observe newborns for symptoms of hypoglycemia and respiratory distress and manage accordingly.
+
+Dose adjustments during pregnancy and the postpartum period
+
+Due to reports of prolonged severe hypoglycemia in neonates born to mothers receiving a sulfonylurea at the time of delivery, DUETACT should be discontinued at least two weeks before expected delivery [see Fetal/Neonatal Adverse Reaction].
+
+Data
 
 Animal Data
 
-In animal reproductive studies, pregnant rats and rabbits received pioglitazone at doses up to approximately 17 (rat) and 40 (rabbit) times the maximum recommended human oral dose (MRHD) based on body surface area (mg/m2); no teratogenicity was observed.
-Increases in embryotoxicity (increased postimplantation losses, delayed development, reduced fetal weights, and delayed parturition) occurred in rats that received oral doses approximately 10 or more times the MRHD (mg/m2 basis).
-No functional or behavioral toxicity was observed in rat offspring.
-When pregnant rats received pioglitazone during late gestation and lactation, delayed postnatal development, attributed to decreased body weight, occurred in rat offspring at oral maternal doses approximately two or more times the MRHD (mg/m2 basis).
-In rabbits, embryotoxicity occurred at oral doses approximately 40 times the MRHD (mg/m2 basis).
+Pioglitazone and Glimepiride
+
+Animal reproduction studies were not conducted with the combined products in DUETACT.
+The following data are based on studies conducted with the individual components of DUETACT.
+
+Pioglitazone
+
+Pioglitazone administered to pregnant rats during organogenesis did not cause adverse developmental effects at a dose of 20 mg/kg (~5-times the 45 mg clinical dose), but delayed parturition and reduced embryofetal viability at 40 and 80 mg/kg, or ≥9-times the 45 mg clinical dose, by body surface area.
+In pregnant rabbits administered pioglitazone during organogenesis, no adverse developmental effects were observed at 80 mg/kg (~35-times the 45 mg clinical dose), but reduced embryofetal viability at 160 mg/kg, or ~69-times the 45 mg clinical dose, by body surface area.
+When pregnant rats received pioglitazone during late gestation and lactation, delayed postnatal development, attributed to decreased body weight occurred in offspring at maternal doses of 10 mg/kg and above or ≥2 times the 45 mg clinical dose, by body surface area.
 
 Glimepiride
 
-Teratogenic Effects
-
-In animal studies there was no increase in congenital anomalies, but an increase in fetal deaths occurred in rats and rabbits at glimepiride doses 50 times (rats) and 0.1 times (rabbits) the maximum recommended human dose (based on body surface area).
+Fetal deaths occurred in rats and rabbits administered glimepiride during the period of organogenesis at doses 50-times (rats) and 0.1-times (rabbits) the 8 mg clinical dose, based on body surface area.
 This fetotoxicity, observed only at doses inducing maternal hypoglycemia, is believed to be directly related to the pharmacologic (hypoglycemic) action of glimepiride and has been similarly noted with other sulfonylureas.
-DUETACT should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Because data suggest that abnormal blood glucose during pregnancy is associated with a higher incidence of congenital abnormalities, diabetes treatment during pregnancy should maintain blood glucose as close to normal as possible.
 
-Nonteratogenic Effects
+## 8.2 Lactation
 
-Prolonged severe hypoglycemia (4 to 10 days) has been reported in neonates born to mothers receiving a sulfonylurea at the time of delivery.
+Risk Summary
 
-## 8.3 Nursing Mothers
+There is no information regarding the presence of pioglitazone or glimepiride in human milk, the effects on the breastfed infant, or the effects on milk production.
+Pioglitazone and glimepiride are present in rat milk; however, due to species-specific differences in lactation physiology, animal data may not reliably predict drug levels in human milk [see Data].
 
-No studies have been conducted with the combined components of DUETACT.
-In studies performed with the individual components, pioglitazone was secreted in the milk of lactating rats and significant concentrations of glimepiride were present in the serum and breast milk of the dams and serum of the pups.
-It is not known whether pioglitazone or glimepiride are secreted in human milk.
-However, other sulfonylureas are excreted in human milk.
-Because many drugs are excreted in human milk, and because of the potential for DUETACT to cause serious adverse reactions in nursing infants, a decision should be made to discontinue nursing or discontinue DUETACT, taking into account the importance of DUETACT to the mother.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for DUETACT and any potential adverse effects on the breastfed infant from DUETACT or from the underlying maternal condition.
+
+Data
+
+During pre- and postnatal studies in rats, glimepiride was present in lactational milk and in serum of nursing rat pups.
+Offspring exposed to high levels of glimepiride during lactation developed skeletal abnormalities (shortening, thickening and bending of the humerus) during the postnatal period.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Discuss the potential for unintended pregnancy with premenopausal women as therapy with pioglitazone, like other thiazolidinediones, may result in ovulation in some anovulatory women.
 
 ## 8.4 Pediatric Use
 

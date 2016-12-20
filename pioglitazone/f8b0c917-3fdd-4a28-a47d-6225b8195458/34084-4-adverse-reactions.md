@@ -186,14 +186,14 @@ A summary of the frequency and types of edema adverse events occurring in clinic
 | Combined Therapy (16 to 24 weeks) | Sulfonylurea | 4 (2.1%) N=187 | 3 (1.6%) N=184 | 61 (11.3%) N=540 | 81 (23.1%) N=351 |
 | Metformin | 4 (2.5%) N=160 | N/A | 34 (5.9%) N=579 | 58 (13.9%) N=416 |  |
 | Insulin | 13 (7.0%) N=187 | 24 (12.6%) N=191 | 109 (20.5%) N=533 | 90 (26.1%) N=345 |  |
-| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.” |  |  |  |  |  |
+| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of "edema." |  |  |  |  |  |
 
 | Table 11. Adverse Events of Edema in Patients in the PROactive Trial |  |
 | --- | --- |
 | Number (%) of Patients |  |
 | Placebo N=2633 | Pioglitazone N=2605 |
 | 419 (15.9%) | 712 (27.3%) |
-| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.” |  |
+| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of "edema." |  |
 
 Hepatic Effects
 
@@ -213,15 +213,16 @@ The incidence of reported hypoglycemia was higher with pioglitazone 45 mg compar
 
 Three patients in these four trials were hospitalized due to hypoglycemia.
 All three patients were receiving pioglitazone 30 mg (0.9%) in the 24-week add-on to insulin trial.
-An additional 14 patients reported severe hypoglycemia (defined as causing considerable interference with patient’s usual activities) that did not require hospitalization.
+An additional 14 patients reported severe hypoglycemia (defined as causing considerable interference with patient's usual activities) that did not require hospitalization.
 These patients were receiving pioglitazone 45 mg in combination with sulfonylurea (N=2) or pioglitazone 30 mg or 45 mg in combination with insulin (N=12).
 
 Urinary Bladder Tumors
 
 Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
-In two 3-year trials in which pioglitazone was compared to placebo or glyburide, there were 16/3656 (0.44%) reports of bladder cancer in patients taking pioglitazone compared to 5/3679 (0.14%) in patients not taking pioglitazone.
-After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.16%) cases on pioglitazone and two (0.05%) cases on placebo.
-There are too few events of bladder cancer to establish causality.
+During the three year PROactive clinical trial, 14 patients out of 2605 (0.54%) randomized to pioglitazone and 5 out of 2633 (0.19%) randomized to placebo were diagnosed with bladder cancer.
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 6 (0.23%) cases on pioglitazone and two (0.08%) cases on placebo.
+After completion of the trial, a large subset of patients was observed for up to 10 additional years, with little additional exposure to pioglitazone.
+During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to pioglitazone or placebo (HR =1.00; 95% CI: 0.59-1.72) [see Warnings and Precautions (5.6)].
 
 Glimepiride
 
