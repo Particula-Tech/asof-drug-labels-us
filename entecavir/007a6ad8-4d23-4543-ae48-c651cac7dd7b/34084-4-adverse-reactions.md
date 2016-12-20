@@ -114,6 +114,10 @@ HIV/HBV Co-infected
 
 The safety profile of entecavir 1 mg (n=51) in HIV/HBV co-infected subjects enrolled in Study AI463038 was similar to that of placebo (n=17) through 24 weeks of blinded treatment and similar to that seen in non-HIV infected subjects [see Warnings and Precautions (5.2)].
 
+Liver Transplant Recipients
+
+Among 65 subjects receiving entecavir in an open-label, post-liver transplant trial [see Use in Specific Populations (8.8)], the frequency and nature of adverse events were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
+
 ## 6.2 Clinical Trial Experience in Pediatric Subjects
 
 Pediatric use information is approved for Bristol-Myers Squibb Company’s Baraclude® (entecavir) tablets.

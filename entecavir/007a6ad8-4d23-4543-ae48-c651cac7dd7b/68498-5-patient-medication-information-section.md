@@ -136,7 +136,6 @@ How should I store Entecavir Tablets?
 - Store entecavir tablets at room temperature, between 68° F to 77° F (20° C to 25° C).
 - Keep entecavir tablets in a tightly closed container.
   Protect from light.
-- Do not store entecavir tablets in a damp place such as a bathroom medicine cabinet or near the kitchen sink.
 - Safely throw away entecavir tablets that are out of date or no longer needed.
   Dispose of unused medicines through community take-back disposal programs when available or place entecavir tablets in an unrecognizable closed container in the household trash.
 
@@ -177,4 +176,4 @@ However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, t
 Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-11-2015-00
+08-2016-01

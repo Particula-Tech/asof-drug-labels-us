@@ -28,4 +28,4 @@ They should be informed that if they have HIV infection and are not receiving ef
 Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-11-2015-00
+08-2016-02
