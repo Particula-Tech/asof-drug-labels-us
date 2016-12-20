@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA205573"
+  ],
+  "inn": "itraconazole",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "65162-087-74"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "itraconazole",
+      "name": "Itraconazole"
+    }
+  ],
+  "setid": "43ded1aa-f825-40fe-aa9a-addd36a07f06",
+  "source": "dailymed"
+}
