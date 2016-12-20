@@ -2,30 +2,43 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C.
+Risk Summary
 
-There are no adequate and well-controlled studies of ACTOS in pregnant women.
-Animal studies show increased rates of post-implantation loss, delayed development, reduced fetal weights, and delayed parturition at doses 10 to 40 times the maximum recommended human dose.
-ACTOS should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Limited data with ACTOS in pregnant women are not sufficient to determine a drug-associated risk for major birth defects or miscarriage.
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
+
+In animal reproduction studies, no adverse developmental effects were observed when pioglitazone was administered to pregnant rats and rabbits during organogenesis at exposures up to 5- and 35-times the 45 mg clinical dose, respectively, based on body surface area [see Data].
+
+The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20-25% in women with a HbA1c >10.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 
-Abnormal blood glucose concentrations during pregnancy are associated with a higher incidence of congenital anomalies, as well as increased neonatal morbidity and mortality.
-Most experts recommend the use of insulin during pregnancy to maintain blood glucose concentrations as close to normal as possible for patients with diabetes.
+Disease-associated maternal and/or embryo/fetal risk
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, still birth and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
+
+Data
 
 Animal Data
 
-In animal reproductive studies, pregnant rats and rabbits received pioglitazone at doses up to approximately 17 (rat) and 40 (rabbit) times the maximum recommended human oral dose (MRHD) based on body surface area (mg/m2); no teratogenicity was observed.
-Increases in embryotoxicity (increased postimplantation losses, delayed development, reduced fetal weights, and delayed parturition) occurred in rats that received oral doses approximately 10 or more times the MRHD (mg/m2 basis).
-No functional or behavioral toxicity was observed in rat offspring.
-When pregnant rats received pioglitazone during late gestation and lactation, delayed postnatal development, attributed to decreased body weight, occurred in rat offspring at oral maternal doses approximately two or more times the MRHD (mg/m2 basis).
-In rabbits, embryotoxicity occurred at oral doses approximately 40 times the MRHD (mg/m2 basis).
+Pioglitazone administered to pregnant rats during organogenesis did not cause adverse developmental effects at a dose of 20 mg/kg (~5-times the 45 mg clinical dose), but delayed parturition and reduced embryofetal viability at 40 and 80 mg/kg, or ≥9-times the 45 mg clinical dose, by body surface area.
+In pregnant rabbits administered pioglitazone during organogenesis, no adverse developmental effects were observed at 80 mg/kg (~35-times the 45 mg clinical dose), but reduced embryofetal viability at 160 mg/kg, or ~69-times the 45 mg clinical dose, by body surface area.
+When pregnant rats received pioglitazone during late gestation and lactation, delayed postnatal development, attributed to decreased body weight, occurred in offspring at maternal doses of 10 mg/kg and above or ≥2 times the 45 mg clinical dose, by body surface area.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether ACTOS is secreted in human milk.
-Pioglitazone is secreted in the milk of lactating rats.
-Because many drugs are excreted in human milk, and because of the potential for ACTOS to cause serious adverse reactions in nursing infants, a decision should be made to discontinue nursing or discontinue ACTOS, taking into account the importance of ACTOS to the mother.
+Risk Summary
+
+There is no information regarding the presence of pioglitazone in human milk, the effects on the breastfed infant, or the effects on milk production.
+Pioglitazone is present in rat milk; however due to species-specific differences in lactation physiology, animal data may not reliably predict drug levels in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ACTOS and any potential adverse effects on the breastfed infant from ACTOS or from the underlying maternal condition.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Discuss the potential for unintended pregnancy with premenopausal women as therapy with ACTOS, like other thiazolidinediones, may result in ovulation in some anovulatory women.
 
 ## 8.4 Pediatric Use
 

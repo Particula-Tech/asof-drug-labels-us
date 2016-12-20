@@ -31,14 +31,23 @@ For patients with lesser elevations of serum ALT or bilirubin and with an altern
 ## 5.4 Urinary Bladder Tumors
 
 Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
-In two 3-year trials in which ACTOS was compared to placebo or glyburide, there were 16/3656 (0.44%) reports of bladder cancer in patients taking ACTOS compared to 5/3679 (0.14%) in patients not taking ACTOS.
-After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.16%) cases on ACTOS and two (0.05%) cases on placebo.
+In addition, during the three year PROactive clinical trial, 14 patients out of 2605 (0.54%) randomized to ACTOS and 5 out of 2633 (0.19%) randomized to placebo were diagnosed with bladder cancer.
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 6 (0.23%) cases on ACTOS and two (0.08%) cases on placebo.
+After completion of the trial, a large subset of patients was observed for up to 10 additional years, with little additional exposure to ACTOS.
+During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to ACTOS or placebo (HR =1.00; [95% CI: 0.59−1.72]).
 
-A five-year interim report of an ongoing 10-year observational cohort study found a non-significant increase in the risk for bladder cancer in subjects ever exposed to ACTOS, compared to subjects never exposed to ACTOS (HR 1.2 [95% CI 0.9 –1.5]).
-Compared to never exposure, a duration of ACTOS therapy longer than 12 months was associated with an increase in risk (HR 1.4 [95% CI 0.9 –2.1]), which reached statistical significance after more than 24 months of ACTOS use (HR 1.4 [95% CI 1.03 –2.0]).
-Interim results from this study suggested that taking ACTOS longer than 12 months increased the relative risk of developing bladder cancer in any given year by 40% which equates to an absolute increase of three cases in 10,000 (from approximately seven in 10,000 [without ACTOS] to approximately 10 in 10,000 [with ACTOS]).
+Findings regarding the risk of bladder cancer in patients exposed to ACTOS vary among observational studies; some did not find an increased risk of bladder cancer associated with ACTOS, while others did.
 
+A large prospective10-year observational cohort study conducted in the United States found no statistically significant increase in the risk of bladder cancer in diabetic patients ever exposed to ACTOS, compared to those never exposed to ACTOS (HR =1.06 [95% CI 0.89−1.26]).
+
+A retrospective cohort study conducted with data from the United Kingdom found a statistically significant association between ever exposure to ACTOS and bladder cancer (HR: 1.63; [95% CI: 1.22−2.19]).
+
+Associations between cumulative dose or cumulative duration of exposure to ACTOS and bladder cancer were not detected in some studies including the 10-year observational study in the U.S., but were in others.
+Inconsistent findings and limitations inherent in these and other studies preclude conclusive interpretations of the observational data.
+
+ACTOS may be associated with an increase in the risk of urinary bladder tumors.
 There are insufficient data to determine whether pioglitazone is a tumor promoter for urinary bladder tumors.
+
 Consequently, ACTOS should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with ACTOS should be considered in patients with a prior history of bladder cancer.
 
 ## 5.5 Edema
@@ -70,13 +79,6 @@ Some patients had improvement in their macular edema after discontinuation of th
 Patients with diabetes should have regular eye exams by an ophthalmologist according to current standards of care.
 Patients with diabetes who report any visual symptoms should be promptly referred to an ophthalmologist, regardless of the patient's underlying medications or other physical findings [see Adverse Reactions (6.1)].
 
-## 5.8 Ovulation
-
-Therapy with ACTOS, like other thiazolidinediones, may result in ovulation in some premenopausal anovulatory women.
-As a result, these patients may be at an increased risk for pregnancy while taking ACTOS [see Use in Specific Populations (8.1)].
-This effect has not been investigated in clinical trials, so the frequency of this occurrence is not known.
-Adequate contraception in all premenopausal women treated with ACTOS is recommended.
-
-## 5.9 Macrovascular Outcomes
+## 5.8 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOS or any other antidiabetic drug.

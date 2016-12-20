@@ -62,7 +62,7 @@ Before you take ACTOS, tell your doctor if you:
 - •have liver problems
 - •have or have had cancer of the bladder
 - •are pregnant or plan to become pregnant.
-  It is not known if ACTOS will harm your unborn baby.
+  It is not known if ACTOS can harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant about the best way to control your blood glucose levels while pregnant
 - •are a premenopausal woman (before the "change of life") who does not have periods regularly or at all.
   ACTOS may increase your chance of becoming pregnant.
@@ -70,7 +70,6 @@ Before you take ACTOS, tell your doctor if you:
   Tell your doctor right away if you become pregnant while taking ACTOS
 - •are breastfeeding or plan to breastfeed.
   It is not known if ACTOS passes into your milk and if it can harm your baby.
-  You should not take ACTOS if you breastfeed your baby.
   Talk to your doctor about the best way to control your blood glucose levels while breastfeeding
 
 Tell your doctor about all the medicines you take including prescription and over the counter medicines, vitamins, and herbal supplements.
@@ -180,10 +179,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-Revised: November 2013
+Revised: December 2016
 
 ACTOS is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
 
-© 2009-2013 Takeda Pharmaceuticals America, Inc.
+© 2009-2016 Takeda Pharmaceuticals America, Inc.
 
-ACT003 R20
+ACT003 R21

@@ -269,9 +269,10 @@ These patients were receiving ACTOS 45 mg in combination with sulfonylurea (n=2)
 Urinary Bladder Tumors
 
 Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
-In two 3-year trials in which ACTOS was compared to placebo or glyburide, there were 16/3656 (0.44%) reports of bladder cancer in patients taking ACTOS compared to 5/3679 (0.14%) in patients not taking ACTOS.
-After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.16%) cases on ACTOS and two (0.05%) cases on placebo.
-There are too few events of bladder cancer to establish causality.
+During the three year PROactive clinical trial, 14 patients out of 2605 (0.54%) randomized to ACTOS and 5 out of 2633 (0.19%) randomized to placebo were diagnosed with bladder cancer.
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 6 (0.23%) cases on ACTOS and two (0.08%) cases on placebo.
+After completion of the trial, a large subset of patients was observed for up to 10 additional years, with little additional exposure to ACTOS.
+During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to ACTOS or placebo (HR =1.00; 95% CI: 0.59-1.72) [see Warnings and Precautions (5.4)].
 
 Laboratory Abnormalities
 

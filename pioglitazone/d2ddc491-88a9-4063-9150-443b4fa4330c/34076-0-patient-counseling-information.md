@@ -11,14 +11,12 @@ See FDA-Approved Patient Labeling (Medication Guide).
   ACTOS can be taken with or without meals.
   If a dose is missed on one day, the dose should not be doubled the following day.
 - •When using combination therapy with insulin or other antidiabetic medications, the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development should be explained to patients and their family members.
-- •Inform patients that therapy with ACTOS, like other thiazolidinediones, may result in ovulation in some premenopausal anovulatory women.
-  As a result, these patients may be at an increased risk for pregnancy while taking ACTOS.
-  Therefore, adequate contraception should be recommended for all premenopausal women who are prescribed ACTOS.
+- •Inform female patients that treatment with ACTOS, like other thiazolidinediones, may result in an unintended pregnancy in some premenopausal anovulatory females due to its effect on ovulation [see Use in Specific Populations (8.3)].
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
 ACTOS is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
 
-©1999 - 2013 Takeda Pharmaceuticals America, Inc.
+©1999 - 2016 Takeda Pharmaceuticals America, Inc.
 
-ACT003 R20
+ACT003 R21
