@@ -1,16 +1,16 @@
 # 11 DESCRIPTION
 
-Saizen® is a human growth hormone produced by recombinant DNA technology.
-Saizen® has 191 amino acid residues and a molecular weight of 22,125 daltons.
+SAIZEN is a human growth hormone produced by recombinant DNA technology.
+SAIZEN has 191 amino acid residues and a molecular weight of 22,125 daltons.
 Its amino acid sequence and structure are identical to the dominant form of human pituitary growth hormone.
-Saizen® is produced by a mammalian cell line (mouse C127) that has been modified by the addition of the human growth hormone gene.
+SAIZEN is produced by a mammalian cell line (mouse C127) that has been modified by the addition of the human growth hormone gene.
 
-Saizen® is a sterile, non pyrogenic, white, lyophilized powder intended for subcutaneous injection after reconstitution with Bacteriostatic Water for Injection, USP (0.9% Benzyl Alcohol).
+SAIZEN is a sterile, non pyrogenic, white, lyophilized powder intended for subcutaneous injection after reconstitution with Bacteriostatic Water for Injection, USP (0.9% Benzyl Alcohol).
 The reconstituted solution has a pH of 6.5 to 8.5.
 
 Vials
 
-Saizen® is available in 5 mg and 8.8 mg vials.
+SAIZEN is available in 5 mg and 8.8 mg vials.
 The quantitative composition per vial is:
 
 5 mg vial:
@@ -29,7 +29,7 @@ The diluent is Bacteriostatic Water for Injection, USP containing 0.9% Benzyl Al
 
 click.easy® reconstitution device
 
-Saizen® is also available in the click.easy® reconstitution device.
+SAIZEN is also available in the click.easy® reconstitution device.
 The quantitative composition per vial contained in the click.easy® reconstitution device is:
 
 8.8 mg vial contained in the click.easy® device

@@ -2,22 +2,22 @@
 
 For subcutaneous injection.
 
-Saizen® therapy should be supervised by a physician who is experienced in the diagnosis and management of pediatric patients with growth hormone deficiency or adult patients with either childhood-onset or adult-onset growth hormone deficiency.
+SAIZEN therapy should be supervised by a physician who is experienced in the diagnosis and management of pediatric patients with growth hormone deficiency or adult patients with either childhoodonset or adult-onset growth hormone deficiency.
 
 ## 2.1 Pediatric Growth Hormone Deficiency (GHD)
 
-Saizen® dosage and administration schedule should be individualized for each patient.
+SAIZEN dosage and administration schedule should be individualized for each patient.
 The recommended weekly dosage is 0.18 mg/kg of body weight by subcutaneous injection.
 It should be divided into equal doses given either on 3 alternate days, 6 times per week or daily.
 
 Response to somatropin therapy in pediatric patients tends to decrease with time.
 However, in pediatric patients, the failure to increase growth rate, particularly during the first year of therapy, indicates the need for close assessment of compliance and evaluation for other causes of growth failure, such as hypothyroidism, undernutrition, advanced bone age and antibodies to recombinant human growth hormone.
 
-Treatment with Saizen® of growth failure due to growth hormone deficiency should be discontinued when the epiphyses are fused.
+Treatment with SAIZEN of growth failure due to growth hormone deficiency should be discontinued when the epiphyses are fused.
 
 ## 2.2 Adult Growth Hormone Deficiency (GHD)
 
-Either of two approaches to Saizen® dosing may be followed: a weight-based regimen or a non-weight-based regimen.
+Either of two approaches to SAIZEN dosing may be followed: a weight-based regimen or a non-weight-based regimen.
 
 Weight-based
 
@@ -42,16 +42,16 @@ Oral estrogen administration may increase the dose requirements in women.
 Vials
 
 To prevent possible contamination, wipe the rubber vial stopper with an antiseptic solution before puncturing it with the needle.
-It is recommended that Saizen® be administered using sterile, disposable syringes and needles.
+It is recommended that SAIZEN be administered using sterile, disposable syringes and needles.
 The syringes should be of small enough volume that the prescribed dose can be drawn from the vial with reasonable accuracy.
 
-After determining the appropriate patient dose, reconstitute each vial of Saizen® as follows: 5 mg vial with 1 to 3 mL of Bacteriostatic Water for Injection, USP (Benzyl Alcohol preserved); 8.8 mg vial with 2-3 mL of Bacteriostatic Water for Injection, USP (Benzyl Alcohol preserved).
+After determining the appropriate patient dose, reconstitute each vial of SAIZEN as follows: 5 mg vial with 1 to 3 mL of Bacteriostatic Water for Injection, USP (Benzyl Alcohol preserved); 8.8 mg vial with 2-3 mL of Bacteriostatic Water for Injection, USP (Benzyl Alcohol preserved).
 Approximately 10% mechanical loss can be associated with reconstitution and multidose administration.
 
-If sensitivity to the diluent occurs, Saizen® may be reconstituted with Sterile Water for Injection, USP.
-When Saizen® is reconstituted in this manner, the reconstituted solution should be used immediately and any unused solution should be discarded [see Warnings and Precautions (5.15)].
+If sensitivity to the diluent occurs, SAIZEN may be reconstituted with Sterile Water for Injection, USP.
+When SAIZEN is reconstituted in this manner, the reconstituted solution should be used immediately and any unused solution should be discarded [see Warnings and Precautions (5.15)].
 
-To reconstitute Saizen®, inject the diluent into the vial of Saizen® aiming the liquid against the glass vial wall.
+To reconstitute SAIZEN, inject the diluent into the vial of SAIZEN aiming the liquid against the glass vial wall.
 Swirl the vial with a GENTLE rotary motion until contents are dissolved completely.
 DO NOT SHAKE.
 Parenteral drug products should always be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
@@ -60,4 +60,6 @@ Use it only if it is clear and colorless.
 
 click.easy® cartridges
 
-For drug preparation instructions for Saizen® click.easy® cartridges, please refer to the instructions for use provided with click.easy® reconstitution device.
+For drug preparation instructions for SAIZEN click.easy® cartridges, please refer to the instructions for use provided with click.easy® reconstitution device.
+
+Injection sites should always be rotated to avoid lipoatrophy.

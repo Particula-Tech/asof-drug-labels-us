@@ -2,7 +2,8 @@
 
 ## 5.1 Acute Critical Illness
 
-Increased mortality in patients with acute critical illness due to complications following open heart surgery, abdominal surgery or multiple accidental trauma, or those with acute respiratory failure has been reported after treatment with pharmacologic amounts of somatropin [see Contraindications (4.1)].
+Increased mortality in patients with acute critical illness due to complications following open heart surgery, abdominal surgery or multiple accidental trauma, or those with acute respiratory failure has been reported after treatment with pharmacologic amounts of somatropin [see Contraindications (4)].
+Two placebo-controlled clinical trials in non-growth hormone deficient adult patients (n=522) with these conditions in intensive care units revealed a significant increase in mortality (42% vs. 19%) among somatropin-treated patients (doses 5.3-8 mg/day) compared to those receiving placebo.
 The safety of continuing somatropin treatment in patients receiving replacement doses for approved indications who concurrently develop these illnesses has not been established.
 Therefore, the potential benefit of treatment continuation with somatropin in patients having acute critical illnesses should be weighed against the potential risk.
 
@@ -12,14 +13,14 @@ There have been reports of fatalities after initiating therapy with somatropin i
 Male patients with one or more of these factors may be at greater risk than females.
 Patients with Prader-Willi syndrome should be evaluated for signs of upper airway obstruction and sleep apnea before initiation of treatment with somatropin.
 If, during treatment with somatropin, patients show signs of upper airway obstruction (including onset of or increased snoring) and/or new onset sleep apnea, treatment should be interrupted.
-All patients with Prader-Willi syndrome treated with somatropin should also have effective weight control and be monitored for signs of respiratory infection, which should be diagnosed as early as possible and treated aggressively [see Contraindications (4.2)].
-Saizen® is not indicated for the long term treatment of pediatric patients who have growth failure due to genetically confirmed Prader-Willi syndrome.
+All patients with Prader-Willi syndrome treated with somatropin should also have effective weight control and be monitored for signs of respiratory infection, which should be diagnosed as early as possible and treated aggressively [see Contraindications (4)].
+SAIZEN is not indicated for the long term treatment of pediatric patients who have growth failure due to genetically confirmed Prader-Willi syndrome.
 
 ## 5.3 Neoplasms
 
 In childhood cancer survivors who were treated with radiation to the brain/head for their first neoplasm and who developed subsequent GHD and were treated with somatropin, an increased risk of a second neoplasm has been reported.
 Intracranial tumors, in particular meningiomas, were the most common of these second neoplasms.
-In adults, it is unknown whether there is any relationship between somatropin replacement therapy and CNS tumor recurrence [see Contraindications (4.3)].
+In adults, it is unknown whether there is any relationship between somatropin replacement therapy and CNS tumor recurrence [see Contraindications (4)].
 Monitor all patients with a history of GHD secondary to an intracranial neoplasm routinely while on somatropin therapy for progression or recurrence of the tumor.
 
 Because children with certain rare genetic causes of short stature have an increased risk of developing malignancies, practitioners should thoroughly consider the risks and benefits of starting somatropin in these patients.
@@ -39,30 +40,40 @@ The doses of antihyperglycemic drugs (i.e., insulin or oral agents) may require 
 
 Intracranial hypertension (IH) with papilledema, visual changes, headache, nausea, and/or vomiting has been reported in a small number of patients treated with somatropin products.
 Symptoms usually occurred within the first eight (8) weeks after the initiation of somatropin therapy.
-In all reported cases, IH-associated signs and symptoms rapidly resolved after cessation of therapy or a reduction of the somatropin dose.
+In all reported cases, IHassociated signs and symptoms rapidly resolved after cessation of therapy or a reduction of the somatropin dose.
 Funduscopic examination should be performed routinely before initiating treatment with somatropin to exclude preexisting papilledema, and periodically during the course of somatropin therapy.
 If papilledema is observed by funduscopy during somatropin treatment, treatment should be stopped.
-If somatropin-induced IH is diagnosed, treatment with somatropin can be restarted at a lower dose after IH-associated signs and symptoms have resolved.
+If somatropin-induced IH is diagnosed, treatment with somatropin can be restarted at a lower dose after IHassociated signs and symptoms have resolved.
 Patients with Turner syndrome, chronic renal insufficiency, and Prader-Willi syndrome may be at increased risk for the development of IH.
 
-## 5.6 Fluid Retention
+## 5.6 Severe Hypersensitivity
+
+Serious systemic hypersensitivity reactions including anaphylactic reactions and angioedema have been reported with postmarketing use of somatropin products.
+Patients and caregivers should be informed that such reactions are possible and that prompt medical attention should be sought if an allergic reaction occurs [see Contraindications (4)].
+
+## 5.7 Fluid Retention
 
 Fluid retention during somatropin replacement therapy in adults may occur.
-Clinical manifestations of fluid retention are usually transient and dose dependent.
+Clinical manifestations of fluid retention (e.g. edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias) are usually transient and dose dependent.
 
-## 5.7 Hypothyroidism
+## 5.8 Hypoadrenalism
+
+Patients receiving somatropin therapy who have or are at risk for pituitary hormone deficiency(s) may be at risk for reduced serum cortisol levels and/or unmasking of central (secondary) hypoadrenalism.
+In addition, patients treated with glucocorticoid replacement for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses following initiation of somatropin treatment [see Section 7.1, 11-β Hydroxysteroid Dehydrogenase Type 1].
+
+## 5.9 Hypothyroidism
 
 Undiagnosed/untreated hypothyroidism may prevent an optimal response to somatropin, in particular, the growth response in children.
 Patients with Turner syndrome have an inherently increased risk of developing autoimmune thyroid disease and primary hypothyroidism.
 In patients with growth hormone deficiency, central (secondary) hypothyroidism may first become evident or worsen during somatropin treatment.
 Therefore, patients treated with somatropin should have periodic thyroid function tests and thyroid hormone replacement therapy should be initiated or appropriately adjusted when indicated.
 
-## 5.8 Slipped Capital Femoral Epiphysis in Pediatric Patients
+## 5.10 Slipped Capital Femoral Epiphysis in Pediatric Patients
 
 Slipped capital femoral epiphysis may occur more frequently in patients with endocrine disorders (including pediatric growth hormone deficiency and Turner syndrome) or in patients undergoing rapid growth.
 Any pediatric patient with the onset of a limp or complaints of hip or knee pain during somatropin therapy should be carefully evaluated.
 
-## 5.9 Progression of Preexisting Scoliosis in Pediatric Patients
+## 5.11 Progression of Preexisting Scoliosis in Pediatric Patients
 
 Progression of scoliosis can occur in patients who experience rapid growth.
 Because somatropin increases growth rate, patients with a history of scoliosis who are treated with somatropin should be monitored for progression of scoliosis.
@@ -71,34 +82,27 @@ Skeletal abnormalities including scoliosis are commonly seen in untreated Turner
 Scoliosis is also commonly seen in untreated patients with Prader-Willi syndrome.
 Physicians should be alert to these abnormalities, which may manifest during somatropin therapy.
 
-## 5.10 Reevaluation of Childhood Onset Adult GHD
+## 5.12 Reevaluation of Childhood Onset Adult GHD
 
 Patients with epiphyseal closure who were treated with somatropin replacement therapy in childhood should be reevaluated according to the criteria in INDICATIONS AND USAGE before continuation of somatropin therapy at the reduced dose level recommended for growth hormone deficient adults.
 Experience with prolonged treatment in adults is limited.
 
-## 5.11 Local and Systemic Reaction
+## 5.13 Lipoatrophy
 
 When somatropin is administered subcutaneously at the same site over a long period of time, tissue atrophy may result.
-This can be avoided by rotating the injection site.
+This can be avoided by rotating the injection site [see Dosage and Administration (2.3)].
 
-As for any protein, local or systemic allergic reactions may occur.
-Parents/Patient should be informed that such reactions are possible and that prompt medical attention should be sought if allergic reactions occur.
-
-## 5.12 Hypopituitarism
-
-Patients with hypopituitarism (multiple hormone deficiencies) should have their other hormonal replacement therapy closely monitored during somatropin treatment.
-
-## 5.13 Laboratory Tests
+## 5.14 Laboratory Tests
 
 Serum levels of inorganic phosphorus, alkaline phosphatase, parathyroid hormone (PTH), and IGF-1 may increase with somatropin therapy.
 
-## 5.14 Pancreatitis
+## 5.15 Pancreatitis
 
 Cases of pancreatitis have been reported rarely in children and adults receiving somatropin treatment, with some evidence supporting a greater risk in children compared with adults.
 Published literature indicates that girls who have Turner syndrome may be at greater risk than other somatropin-treated children.
 Pancreatitis should be considered in any somatropin–treated patient, especially a child, who develops persistent severe abdominal pain.
 
-## 5.15 Benzyl Alcohol
+## 5.16 Benzyl Alcohol
 
 Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
 The "gasping syndrome," (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth weight neonates.

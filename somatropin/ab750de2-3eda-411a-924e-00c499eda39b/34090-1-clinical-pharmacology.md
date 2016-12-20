@@ -9,10 +9,10 @@ Some of these pharmacodynamic effects are primarily mediated by IGF-1 produced i
 
 Tissue Growth
 
-Skeletal Growth: Saizen® stimulates skeletal growth in prepubertal children with pituitary growth hormone deficiency.
+Skeletal Growth: SAIZEN stimulates skeletal growth in prepubertal children with pituitary growth hormone deficiency.
 Skeletal growth is accomplished at the epiphyseal plates at the ends of long bone.
 Growth and metabolism of epiphyseal plate cells are directly stimulated by growth hormone and one of its mediators, insulin-like growth factor-1.
-Serum levels of insulin-like growth factor-1 (IGF-1) are low in children and adolescents who are growth hormone deficient, but increase during treatment with Saizen®.
+Serum levels of insulin-like growth factor-1 (IGF-1) are low in children and adolescents who are growth hormone deficient, but increase during treatment with SAIZEN.
 Linear growth continues until the growth plates fuse at the end of puberty.
 
 Cell Growth: Treatment with pituitary-derived human growth hormone results in an increase in both the number and the size of skeletal muscle cells.
@@ -28,16 +28,16 @@ Carbohydrate Metabolism
 
 Somatropin is a modulator of carbohydrate metabolism.
 Children with inadequate secretion of growth hormone sometimes experience fasting hypoglycemia that is improved by treatment with somatropin.
-Saizen® therapy may decrease glucose tolerance.
-Administration of Saizen® to normal adults and patients with growth hormone deficiency resulted in transient increases in mean serum fasting and postprandial insulin levels.
+SAIZEN therapy may decrease glucose tolerance.
+Administration of SAIZEN to normal adults and patients with growth hormone deficiency resulted in transient increases in mean serum fasting and postprandial insulin levels.
 However, glucose levels remained in the normal range.
 
 Lipid Metabolism
 
 Acute administration of somatropin to humans results in lipid mobilization.
-Nonesterified fatty acids increase in plasma within one hour of Saizen® administration.
+Nonesterified fatty acids increase in plasma within one hour of SAIZEN administration.
 In growth hormone deficient patients, long-term somatropin administration often decreases body fat.
-Mean cholesterol levels decreased in patients treated with Saizen®.
+Mean cholesterol levels decreased in patients treated with SAIZEN.
 The clinical significance of this decrease in cholesterol level is unknown.
 
 Mineral Metabolism
@@ -65,15 +65,15 @@ Excretion - The clearance (mean ±SD) of intravenously administered somatropin i
 Specific Populations
 
 Pediatric - The pharmacokinetics of somatropin is similar in children and adults.
-However, no pharmacokinetic studies of Saizen® have been conducted in pediatric patients.
+However, no pharmacokinetic studies of SAIZEN have been conducted in pediatric patients.
 
 Gender - No gender studies have been performed in children for somatropin.
 In adults, the clearance of somatropin in both men and women tends to be similar.
-However, no studies have been conducted to evaluate the effect of gender on pharmacokinetics of Saizen®.
+However, no studies have been conducted to evaluate the effect of gender on pharmacokinetics of SAIZEN.
 
-Race - No studies have been conducted to determine the effect of race on the pharmacokinetics of Saizen®.
+Race - No studies have been conducted to determine the effect of race on the pharmacokinetics of SAIZEN.
 
 Renal Impairment- Children and adults with chronic renal failure tend to have decreased somatropin clearance compared to those with normal renal function.
-However, no studies have been conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of Saizen®.
+However, no studies have been conducted to evaluate the effect of renal impairment on the pharmacokinetics of SAIZEN.
 
 Hepatic Impairment - A reduction in somatropin clearance has been noted in patients with hepatic dysfunction as compared with normal controls.
