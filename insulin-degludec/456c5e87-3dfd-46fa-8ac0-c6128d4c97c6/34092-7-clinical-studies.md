@@ -1,13 +1,13 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of TRESIBA administered once-daily either at the same time each day or at any time each day in patients with type 1 diabetes and used in combination with a mealtime insulin was evaluated in three randomized, open-label, treat-to-target, active-controlled, trials.
-The efficacy of TRESIBA administered once-daily either at the same time each day or at any time each day in patients with type 2 diabetes and used in combination with a mealtime insulin or in combination with common oral anti-diabetic agents was evaluated in six randomized, open-label, treat-to-target active-controlled trials.
+The efficacy of TRESIBA administered once-daily either at the same time each day or at any time each day in patients with type 1 diabetes and used in combination with a mealtime insulin was evaluated in three randomized, open-label, treat-to-target, active-controlled trials in adults and one randomized, open-label, treat-to-target, active-controlled trial in pediatric patients 1 year of age and older.
+The efficacy of TRESIBA administered once-daily either at the same time each day or at any time each day in adult patients with type 2 diabetes and used in combination with a mealtime insulin or in combination with common oral anti-diabetic agents was evaluated in six randomized, open-label, treat-to-target active-controlled trials.
 
-Patients treated with TRESIBA achieved levels of glycemic control similar to those achieved with LANTUS (insulin glargine 100 U/mL) and LEVEMIR (insulin detemir) and achieved statistically significant improvements compared to sitagliptin.
+Adult patients treated with TRESIBA achieved levels of glycemic control similar to those achieved with LANTUS (insulin glargine 100 units/mL) and LEVEMIR (insulin detemir) and achieved statistically significant improvements compared to sitagliptin.
 
 ## 14.1 Type 1 Diabetes – Adult
 
-TRESIBA Administered at the Same Time each Day in Combination with a Rapid-Acting Insulin Analog at Mealtimes
+TRESIBA Administered at the Same Time Each Day in Combination with a Rapid-Acting Insulin Analog at Mealtimes in Adult Patients
 
 Study A
 
@@ -42,7 +42,7 @@ The mean BMI was approximately 23.9 kg/m2.
 At week 26, the difference in HbA1c reduction from baseline between TRESIBA and insulin detemir was -0.09% with a 95% confidence interval of [-0.23%; 0.05%] and met the pre-specified non-inferiority margin (0.4%).
 See Table 6, Study B.
 
-TABLE 6: Results at Week 52 in a Trial Comparing TRESIBA to Insulin glargine U-100 (Study A) and Week 26 in a Trial Comparing TRESIBA to Insulin detemir (Study B) in Patients with Type 1 Diabetes Mellitus receiving Insulin aspart at Mealtimes
+TABLE 6: Results at Week 52 in a Trial Comparing TRESIBA to Insulin Glargine U-100 (Study A) and Week 26 in a Trial Comparing TRESIBA to Insulin Detemir (Study B) in Adult Patients with Type 1 Diabetes Mellitus Receiving Insulin Aspart at Mealtimes
 
 |  | Study A |  | Study B |  |
 | --- | --- | --- | --- | --- |
@@ -52,7 +52,7 @@ TABLE 6: Results at Week 52 in a Trial Comparing TRESIBA to Insulin glargine U-1
 | Baseline | 7.7 | 7.7 | 8.0 | 8.0 |
 | End of trial | 7.3 | 7.3 | 7.3 | 7.3 |
 | Adjusted mean change from baseline* | -0.36 | -0.34 | -0.71 | -0.61 |
-| Estimated treatment difference [95%CI]TRESIBA - Insulin glargine U-100 | -0.01 [-0.14;0.11] |  | -0.09 [-0.23;0.05] |  |
+| Estimated treatment difference [95%CI]TRESIBA - basal insulin U-100 | -0.01 [-0.14;0.11] |  | -0.09 [-0.23;0.05] |  |
 | Proportion Achieving HbA1c < 7% at Trial End | 39.8% | 42.7% | 41.1% | 37.3% |
 | FPG (mg/dL) |  |  |  |  |
 | Baseline | 165 | 174 | 178 | 171 |
@@ -71,13 +71,13 @@ TABLE 6: Results at Week 52 in a Trial Comparing TRESIBA to Insulin glargine U-1
 - In Study A, there were 14.8% of subjects in the TRESIBA and 11.5% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
 - In Study B, there were 6.3% of subjects in the TRESIBA and 9.8% Insulin detemir arms for whom data was missing at the time of the HbA1c measurement.
 
-Study C: TRESIBA Administered at the Same Time each Day or at Any Time each Day in Combination with a Rapid-Acting Insulin Analog at Mealtimes
+Study C: TRESIBA Administered at the Same Time Each Day or at Any Time Each Day in Combination with a Rapid-Acting Insulin Analog at Mealtimes in Adult Patients
 
 The efficacy of TRESIBA was evaluated in a 26-week randomized, open-label, multicenter trial in 493 patients with type 1 diabetes mellitus.
 Patients were randomized to TRESIBA injected once-daily at the same time each day (with the main evening meal), to TRESIBA injected once daily at any time each day or to insulin glargine U-100 injected once-daily according to the approved labeling.
 The any time each day TRESIBA arm was designed to simulate a worst-case scenario injection schedule of alternating short and long, once daily, dosing intervals (i.e., alternating intervals of 8 to 40 hours between doses).
 TRESIBA in this arm was dosed in the morning on Monday, Wednesday, and Friday and in the evening on Tuesday, Thursday, Saturday, and Sunday.
-Insulin aspart was administered before each meal in both treatment arms.
+Insulin aspart was administered before each meal in all treatment arms.
 
 The mean age of the trial population was 43.7 years and mean duration of diabetes was 18.5 years.
 57.6% were male.
@@ -89,7 +89,7 @@ The mean BMI was approximately 26.7 kg/m2.
 At week 26, the difference in HbA1c reduction from baseline between TRESIBA administered at alternating times and insulin glargine U-100 was 0.17% with a 95% confidence interval of [0.04%; 0.30%] and met the pre-specified non-inferiority margin (0.4%).
 See Table 7.
 
-Table 7: Results at Week 26 in a Trial Comparing TRESIBA Dosed Once Daily at the Same and at Alternating Times Each Day to Insulin glargine U-100 in Patients with Type 1 Diabetes Mellitus receiving Insulin aspart at mealtimes
+Table 7: Results at Week 26 in a Trial Comparing TRESIBA Dosed Once Daily at the Same and at Alternating Times Each Day to Insulin Glargine U-100 in Adult Patients with Type 1 Diabetes Mellitus Receiving Insulin Aspart at Mealtimes
 
 |  | TRESIBA at the same time each day + Insulin aspart | TRESIBA at alternating times + Insulin aspart | Insulin glargine U-100 + Insulin aspart |
 | --- | --- | --- | --- |
@@ -115,9 +115,52 @@ Table 7: Results at Week 26 in a Trial Comparing TRESIBA Dosed Once Daily at the
 
 In Study C, there were 15.8% and 15.9% of subjects in the TRESIBA (same time and alternating times respectively) and 7.9% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
 
-## 14.2 Type 2 Diabetes – Adult
+## 14.2 Type 1 Diabetes – Pediatric Patients 1 Year of Age and Older
 
-Study D: TRESIBA Administered at the Same Time each Day as an Add-on to Metformin with or without a DPP-4 inhibitor in Insulin Naïve Patients
+Study J:TRESIBA Administered at the Same Time Each Day in Combination with a Rapid-Acting Insulin Analog at Mealtimes in Pediatric Patients 1 Year of Age and Older
+
+The efficacy of TRESIBA was evaluated in a 26-week, randomized, open label, multicenter trial in 350 patients with type 1 diabetes mellitus (Study J). Patients were randomized to TRESIBA once-daily or insulin detemir once or twice-daily.
+Subjects on a twice-daily insulin detemir regimen were dosed at breakfast and in the evening either with the main evening meal or at bedtime.
+Insulin aspart was administered before each main meal in both treatment arms.
+At end of trial, 36% used insulin detemir once daily and 64% used insulin detemir twice daily.
+
+The mean age of the trial population was 10 years; 24% were ages 1-5 years; 39% were ages 6-11 years and 36% were ages 12-17 years.
+The mean duration of diabetes was 4 years.
+55.4% were male.
+74.6% were White, 2.9% Black or African American.
+2.9% were Hispanic.
+The mean z-score for body weight was 0.31.
+
+At week 26, the difference in HbA1c reduction from baseline between TRESIBA and insulin detemir was 0.15% with a 95% confidence interval of [-0.03%; 0.33%] and met the pre-specified non-inferiority margin (0.4%).
+See Table 8.
+
+Table 8: Results at Week 26 in a Trial Comparing TRESIBA to Insulin Detemir in Pediatric Patients 1 Year of Age and Older with Type 1 Diabetes Mellitus Receiving Insulin Aspart at Mealtimes
+
+|  | TRESIBA+ Insulin aspart | Insulin detemir + Insulin aspart |
+| --- | --- | --- |
+| N | 174 | 176 |
+| HbA1c (%) |  |  |
+| Baseline | 8.2 | 8.0 |
+| End of 26 weeks | 8.0 | 7.7 |
+| Adjusted mean change from baseline after 26 weeks ± | -0.19 | -0.34 |
+| Estimated treatment difference [95%CI]TRESIBA v. Insulin detemir | 0.15 [-0.03; 0.33] |  |
+| FPG (mg/dL) |  |  |
+| Baseline | 162 | 151 |
+| End of 26 weeks | 150 | 160 |
+| Adjusted mean change from baseline after 26 weeks | 52.0 | 59.6 |
+| Daily basal insulin dose |  |  |
+| Baseline mean | 15 U (0.37 U/kg) | 16 U (0.41 U/kg) |
+| Mean dose after 26 weeks | 16 U (0.37 U/kg) | 22 U (0.51 U/kg) |
+| Daily bolus insulin dose |  |  |
+| Baseline mean | 20 U (0.50 U/kg) | 20 U (0.52 U/kg) |
+| Mean dose after 26 weeks | 23 U (0.56 U/kg) | 22 U (0.57 U/kg) |
+
+1. ±The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with missing data imputed by multiple imputation carrying forward the baseline value and adding the error term, with treatment, region, sex, and age group as fixed factors, and baseline HbA1c as covariate.
+2. In Study J, there were 2.9% of subjects in TRESIBA and 6.3% Insulin detemir arms for whom data was missing at the 26-week HbA1c measurement.
+
+## 14.3 Type 2 Diabetes - Adult
+
+Study D: TRESIBA Administered at the Same Time Each Day as an Add-on to Metformin with or without a DPP-4 Inhibitor in Insulin Naïve Adult Patients
 
 The efficacy of TRESIBA was evaluated in a 52-week randomized, open-label, multicenter trial that enrolled 1030 insulin naïve patients with type 2 diabetes mellitus inadequately controlled on one or more oral antidiabetic agents (OADs).
 Patients were randomized to TRESIBA once-daily with the evening meal or insulin glargine U-100 once-daily according to the approved labeling.
@@ -130,34 +173,32 @@ The mean age of the trial population was 59.1 years and mean duration of diabete
 9.6% of patients had eGFR<60 mL/min/1.73m2.
 The mean BMI was approximately 31.1 kg/m2.
 
-At week 52, the difference in HbA1c reduction from baseline between TRESIBA and insulin glargine U-100 was 0.09% with a 95% confidence interval of [-0.04%; 0.22%] and met the pre-specified non-inferiority margin (0.4%); See Table 8.
+At week 52, the difference in HbA1c reduction from baseline between TRESIBA and insulin glargine U-100 was 0.09% with a 95% confidence interval of [-0.04%; 0.22%] and met the pre-specified non-inferiority margin (0.4%); See Table 9.
 
-Table 8: Results at Week 52 in a Trial Comparing TRESIBA to Insulin glargine U-100 in Patients with Type 2 Diabetes Mellitus on OAD(s)*
+Table 9: Results at Week 52 in a Trial Comparing TRESIBA to Insulin Glargine U-100in Adult Patients with Type 2 Diabetes Mellitus on OAD(s)*
 
-|  | TRESIBA + OAD(s)* | Insulin glargine U-100 + OAD(s)* |
-| --- | --- | --- |
-| N | 773 | 257 |
-| HbA1c (%) |  |  |
-| Baseline | 8.2 | 8.2 |
-| End of trial | 7.1 | 7.0 |
-| Adjusted mean change from baseline** | -1.06 | -1.15 |
-| Estimated treatment difference [95%CI]TRESIBA - Insulin glargine U-100 | 0.09 [-0.04;0.22] |  |
-| Proportion Achieving HbA1c < 7% at Trial End | 51.7% | 54.1% |
-| FPG (mg/dL) |  |  |
-| Baseline | 174 | 174 |
-| End of trial | 106 | 115 |
-| Adjusted mean change from baseline | -68.0 | -60.2 |
-| Daily insulin dose |  |  |
-| Baseline mean (starting dose) | 10 U | 10 U |
-| Mean dose after 52 weeks | 56 U | 58 U |
+|  | TRESIBA + OAD(s)* |  | Insulin glargine U-100 + OAD(s)* |
+| --- | --- | --- | --- |
+| N | 773 |  | 257 |
+| HbA1c (%) |  |  |  |
+| Baseline | 8.2 |  | 8.2 |
+| End of trial | 7.1 |  | 7.0 |
+| Adjusted mean change from baseline** | -1.06 |  | -1.15 |
+| Estimated treatment difference [95%CI]TRESIBA - Insulin glargine U-100 | 0.09 [-0.04;0.22] |  |  |
+| Proportion Achieving HbA1c < 7% at Trial End | 51.7% | 54.1% |  |
+| FPG (mg/dL) |  |  |  |
+| Baseline | 174 |  | 174 |
+| End of trial | 106 |  | 115 |
+| Adjusted mean change from baseline | -68.0 |  | -60.2 |
+| Daily insulin dose |  |  |  |
+| Baseline mean (starting dose) | 10 U |  | 10 U |
+| Mean dose after 52 weeks | 56 U |  | 58 U |
 
-*OAD: oral antidiabetic agent
+1. *OAD: oral antidiabetic agent
+2. **The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
+3. In Study D, there were 20.6% of subjects in the TRESIBA and 22.2% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
 
-**The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
-
-In Study D, there were 20.6% of subjects in the TRESIBA and 22.2% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
-
-Study E: TRESIBA U-200 Administered at the Same Time each Day as an Add-on to Metformin with or without a DPP-4 inhibitor in Insulin Naïve Patients
+Study E: TRESIBA U-200 Administered at the Same Time Each Day as an Add-on to Metformin with or without a DPP-4 Inhibitor in Insulin Naïve Adult Patients
 
 The efficacy of TRESIBA U-200 was evaluated in a 26-week randomized, open-label, multicenter trial in 457 insulin naïve patients with type 2 diabetes mellitus inadequately controlled on one or more oral antidiabetic agents (OADs) at baseline.
 Patients were randomized to TRESIBA U-200 once-daily with the evening meal or insulin glargine U-100 once-daily according to the approved labeling.
@@ -171,34 +212,32 @@ The mean age of the trial population was 57.5 years and mean duration of diabete
 The mean BMI was approximately 32.4 kg/m2.
 
 At week 26, the difference in HbA1c reduction from baseline between TRESIBA U-200 and insulin glargine U-100 was 0.04% with a 95% confidence interval of [-0.11%; 0.19%] and met the pre-specified non-inferiority margin (0.4%).
-See Table 9.
+See Table 10.
 
-Table 9: Results at Week 26 in a Trial Comparing TRESIBA U-200 to Insulin glargine U-100 in Patients with Type 2 Diabetes Mellitus on OAD(s)*
+Table 10: Results at Week 26 in a Trial Comparing TRESIBA U-200 to Insulin Glargine U-100 in Adult Patients with Type 2 Diabetes Mellitus on OAD(s)*
 
-|  | TRESIBA U-200 + Met ± DPP-4 | Insulin glargine U-100 + Met ± DPP-4 |
-| --- | --- | --- |
-| N | 228 | 229 |
-| HbA1c (%) |  |  |
-| Baseline | 8.3 | 8.2 |
-| End of trial | 7.0 | 6.9 |
-| Adjusted mean change from baseline** | -1.18 | -1.22 |
-| Estimated treatment difference [95%CI]TRESIBA - Insulin glargine U-100 | 0.04 [-0.11;0.19] |  |
-| Proportion Achieving HbA1c < 7% at Trial End | 52.2% | 55.9% |
-| FPG (mg/dL) |  |  |
-| Baseline | 172 | 174 |
-| End of trial | 106 | 113 |
-| Adjusted mean change from baseline | -71.1 | -63.5 |
-| Daily insulin dose |  |  |
-| Baseline mean | 10 U | 10 U |
-| Mean dose after 26 weeks | 59 U | 62 U |
+|  | TRESIBA U-200 + Met ± DPP-4 |  | Insulin glargine U-100 + Met ± DPP-4 |
+| --- | --- | --- | --- |
+| N | 228 |  | 229 |
+| HbA1c (%) |  |  |  |
+| Baseline | 8.3 |  | 8.2 |
+| End of trial | 7.0 |  | 6.9 |
+| Adjusted mean change from baseline** | -1.18 |  | -1.22 |
+| Estimated treatment difference [95%CI]TRESIBA - Insulin glargine U-100 | 0.04 [-0.11;0.19] |  |  |
+| Proportion Achieving HbA1c < 7% at Trial End | 52.2% | 55.9% |  |
+| FPG (mg/dL) |  |  |  |
+| Baseline | 172 |  | 174 |
+| End of trial | 106 |  | 113 |
+| Adjusted mean change from baseline | -71.1 |  | -63.5 |
+| Daily insulin dose |  |  |  |
+| Baseline mean | 10 U |  | 10 U |
+| Mean dose after 26 weeks | 59 U |  | 62 U |
 
-*OAD: oral antidiabetic agent
+1. *OAD: oral antidiabetic agent
+2. **The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
+3. In Study E, there were 12.3% of subjects in the TRESIBA and 12.7% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
 
-**The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
-
-In Study E, there were 12.3% of subjects in the TRESIBA and 12.7% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
-
-Study F: TRESIBA Administered at the Same Time each Day in Insulin Naïve Patients as an Add-on to One or More of the Following Oral Agents: Metformin, Sulfonylurea, Glinides or Alpha-Glucosidase inhibitors
+Study F: TRESIBA Administered at the Same Time Each Day in Insulin Naïve Adult Patients as an Add-on to One or More of the Following Oral Agents: Metformin, Sulfonylurea, Glinides or Alpha-Glucosidase Inhibitors
 
 The efficacy of TRESIBA was evaluated in a 26-week randomized, open-label, multicenter trial in Asia in 435 insulin naïve patients with type 2 diabetes mellitus inadequately controlled on one or more oral antidiabetic agents (OADs) at baseline.
 Patients were randomized to TRESIBA once-daily in the evening or insulin glargine U-100 once-daily according to the approved labeling.
@@ -211,9 +250,9 @@ All patients were Asian.
 The mean BMI was approximately 25.0 kg/m2.
 
 At week 26, the difference in HbA1c reduction from baseline between TRESIBA and insulin glargine U-100 was 0.11% with a 95% confidence interval of [-0.03%; 0.24%] and met the pre-specified non-inferiority margin (0.4%).
-See Table 10.
+See Table 11.
 
-Table 10: Results at Week 26 in a Trial Comparing TRESIBA to Insulin glargine U-100 in Patients with Type 2 Diabetes Mellitus on OAD(s)*
+Table 11: Results at Week 26 in a Trial Comparing TRESIBA to Insulin Glargine U-100 in Adult Patients with Type 2 Diabetes Mellitus on OAD(s)*
 
 |  | TRESIBA + OAD(s)* | Insulin glargine U-100 + OAD(s)* |
 | --- | --- | --- |
@@ -232,13 +271,11 @@ Table 10: Results at Week 26 in a Trial Comparing TRESIBA to Insulin glargine U-
 | Baseline mean (starting dose) | 9 U | 9 U |
 | Mean dose after 26 weeks | 19 U | 24 U |
 
-*OAD: oral antidiabetic agent
+1. *OAD: oral antidiabetic agent
+2. **The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
+3. In Study F, there were 10% of subjects in the TRESIBA and 6.8% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
 
-**The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
-
-In Study F, there were 10% of subjects in the TRESIBA and 6.8% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
-
-Study G: TRESIBA Administered at the Same Time each Day or Any Time each Day as an Add-on to One and up to Three of the Following Oral Agents: Metformin, Sulfonylurea or Glinides or Pioglitazone
+Study G: TRESIBA Administered at the Same Time Each Day or Any Time Each Day as an Add-on to One and up to Three of the Following Oral Agents: Metformin, Sulfonylurea or Glinides or Pioglitazone in Adult Patients
 
 The efficacy of TRESIBA was evaluated in a 26-week randomized, open-label, multicenter trial in 687 patients with type 2 diabetes mellitus inadequately controlled on basal insulin alone, oral antidiabetic agents (OADs) alone or both basal insulin and OAD.
 Patients were randomized to TRESIBA injected once-daily at the same time each day (with the main evening meal), to TRESIBA injected once daily at any time each day or to insulin glargine U-100 injected once-daily according to the approved labeling.
@@ -255,9 +292,9 @@ The mean BMI was approximately 29.6 kg/m2.
 
 At week 26, the difference in HbA1c reduction from baseline between TRESIBA at alternating times and insulin glargine U-100 was 0.04% with a 95% confidence interval of [-0.12%; 0.20%].
 This comparison met the pre-specified non-inferiority margin (0.4%).
-See Table 11.
+See Table 12.
 
-Table 11: Results at Week 26 in a Trial Comparing TRESIBA at same and alternating times to Insulin glargine U-100 in Patients with Type 2 Diabetes Mellitus on OAD(s)*
+Table 12: Results at Week 26 in a Trial Comparing TRESIBA at Same and Alternating Times to Insulin Glargine U-100 in Adult Patients with Type 2 Diabetes Mellitus on OAD(s)*
 
 |  | TRESIBA at the same time each day ± OAD(s)* | TRESIBA at alternating times ± OAD(s)* | Insulin glargine U-100 ± OAD(s)* |
 | --- | --- | --- | --- |
@@ -277,13 +314,11 @@ Table 11: Results at Week 26 in a Trial Comparing TRESIBA at same and alternatin
 | Baseline mean | 21 U | 19 U | 19 U |
 | Mean dose after 26 weeks | 45 U | 46 U | 44 U |
 
-*OAD: oral antidiabetic agent
+1. *OAD: oral antidiabetic agent
+2. **The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
+3. In Study G, there were 11.4% subjects for TRESIBA (both same time and alternating times) and 11.7% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
 
-**The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
-
-In Study G, there were 11.4% subjects for TRESIBA (both same time and alternating times) and 11.7% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
-
-Study H: TRESIBA Administered at the Same Time each Day in Combination with a Rapid-Acting Insulin Analog at Mealtimes
+Study H: TRESIBA Administered at the Same Time Each Day in Combination with a Rapid-Acting Insulin Analog at Mealtimes in Adult Patients
 
 The efficacy of TRESIBA was evaluated in a 52-week randomized, open-label, multicenter trial in 992 patients with type 2 diabetes mellitus inadequately controlled on premix insulin, bolus insulin alone, basal insulin alone, oral antidiabetic agents (OADs) alone or any combination thereof.
 Patients were randomized to TRESIBA once-daily with the main evening meal or insulin glargine U-100 once-daily according to the approved labeling.
@@ -298,9 +333,9 @@ The mean age of the trial population was 58.9 years and mean duration of diabete
 The mean BMI was approximately 32.2 kg/m2.
 
 At week 52, the difference in HbA1c reduction from baseline between TRESIBA and insulin glargine U-100 was 0.08% with a 95% confidence interval of [-0.05%; 0.21%] and met the pre-specified non-inferiority margin (0.4%).
-See Table 12.
+See Table 13.
 
-Table 12: Results at Week 52 in a Trial Comparing TRESIBA to Insulin glargine U-100 in Patients with Type 2 Diabetes Mellitus receiving Insulin aspart at mealtimes and OADs*
+Table 13: Results at Week 52 in a Trial Comparing TRESIBA to Insulin Glargine U-100 in Adult Patients with Type 2 Diabetes Mellitus Receiving Insulin Aspart at Mealtimes and OADs*
 
 |  | TRESIBA + Insulin aspart ± OAD(s)* | Insulin glargine U-100 + Insulin aspart ± OAD(s)* |
 | --- | --- | --- |
@@ -322,13 +357,11 @@ Table 12: Results at Week 52 in a Trial Comparing TRESIBA to Insulin glargine U-
 | Baseline mean | 33 U | 33 U |
 | Mean dose after 52 weeks | 70 U | 73 U |
 
-*OAD: oral antidiabetic agent
+1. *OAD: oral antidiabetic agent
+2. **The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
+3. In Study H, there were 16.1% of subjects in the TRESIBA and 14.5% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
 
-**The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
-
-In Study H, there were 16.1% of subjects in the TRESIBA and 14.5% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
-
-Study I: TRESIBA Administered at Any Time each Day as an Add-on to One or Two of the Following Oral Agents: Metformin, Sulfonylurea, or Pioglitazone
+Study I: TRESIBA Administered at Any Time Each Day as an Add-on to One or Two of the Following Oral Agents: Metformin, Sulfonylurea, or Pioglitazone in Adult Patients
 
 The efficacy of TRESIBA was evaluated in a 26-week randomized, open-label, multicenter trial in 447 patients with type 2 diabetes mellitus inadequately controlled on one or more oral antidiabetic agent (OADs) at baseline.
 Patients were randomized to TRESIBA once-daily at any time of day or sitagliptin once-daily according to the approved labeling.
@@ -342,9 +375,9 @@ The mean age of the trial population was 55.7 years and mean duration of diabete
 The mean BMI was approximately 30.4 kg/m2.
 
 At the end of 26 weeks, TRESIBA provided greater reduction in mean HbA1c compared to sitagliptin (p < 0.001).
-See Table 13.
+See Table 14.
 
-Table 13: Results at Week 26 in a Trial Comparing TRESIBA to Sitagliptin in Patients with Type 2 Diabetes Mellitus on OADs*
+Table 14: Results at Week 26 in a Trial Comparing TRESIBA to Sitagliptin in Adult Patients with Type 2 Diabetes Mellitus on OADs*
 
 |  | TRESIBA + OAD(s)* | Sitagliptin + OAD(s)* |
 | --- | --- | --- |
@@ -363,10 +396,7 @@ Table 13: Results at Week 26 in a Trial Comparing TRESIBA to Sitagliptin in Pati
 | Baseline mean | 10 U | N/A |
 | Mean dose after 26 weeks | 43 U | N/A |
 
-*OAD: oral antidiabetic agent
-
-**The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
-
-In Study I, there were 20.9% of subjects in the TRESIBA and 22.5% Sitagliptin arms for whom data was missing at the time of the HbA1c measurement.
-
-1p <0.001; 1-sided p-value evaluated at 2.5% level for superiority
+1. *OAD: oral antidiabetic agent
+2. **The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
+3. In Study I, there were 20.9% of subjects in the TRESIBA and 22.5% Sitagliptin arms for whom data was missing at the time of the HbA1c measurement.
+4. 1p <0.001; 1-sided p-value evaluated at 2.5% level for superiority

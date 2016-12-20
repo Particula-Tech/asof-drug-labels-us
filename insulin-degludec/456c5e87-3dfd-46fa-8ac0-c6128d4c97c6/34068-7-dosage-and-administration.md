@@ -15,12 +15,14 @@
 
 ## 2.2 General Dosing Instructions
 
-- •Inject TRESIBA subcutaneously once-daily at any time of day.
+- •In adults, inject TRESIBA subcutaneously once-daily at any time of day.
+- •In pediatric patients inject TRESIBA subcutaneously once-daily at the same time every day.
 - •Individualize and titrate the dose of TRESIBA based on the patient’s metabolic needs, blood glucose monitoring results, and glycemic control goal.
 - •The recommended days between dose increases is 3 to 4 days.
 - •Dose adjustments may be needed with changes in physical activity, changes in meal patterns (i.e., macronutrient content or timing of food intake), changes in renal or hepatic function or during acute illness to minimize the risk of hypoglycemia or hyperglycemia [see Warnings and Precautions (5.3)].
-- •Instruct patients who miss a dose of TRESIBA to inject their daily dose during waking hours upon discovering the missed dose.
+- •For adult patients, instruct patients who miss a dose of TRESIBA to inject their daily dose during waking hours upon discovering the missed dose.
   Instruct patients to ensure that at least 8 hours have elapsed between consecutive TRESIBA injections.
+- •For pediatric patients, instruct patients who miss a dose of TRESIBA to contact their healthcare provider for guidance and to monitor blood glucose levels more frequently until the next scheduled TRESIBA dose.
 - •DO NOT perform dose conversion when using the TRESIBA U-100 or U-200 FlexTouch pens.
   The dose window for both the TRESIBA U-100 and U-200 FlexTouch pens shows the number of insulin units to be delivered and NO conversion is needed.
 
@@ -38,6 +40,10 @@ The recommended starting dose of TRESIBA in insulin naïve patients with type 2 
 
 ## 2.4 Starting Dose in Patients Already on Insulin Therapy
 
-Type 1 and Type 2 Diabetes Mellitus:
+Adults withType 1 or Type 2 Diabetes Mellitus:
 
 Start TRESIBA at the same unit dose as the total daily long or intermediate-acting insulin unit dose.
+
+Pediatric Patients 1 Year of Age and Older with Type 1 or Type 2 Diabetes Mellitus:
+
+Start TRESIBA at 80% of the total daily long or intermediate-acting insulin unit dose to minimize the risk of hypoglycemia [see Warnings and Precautions (5.2)].

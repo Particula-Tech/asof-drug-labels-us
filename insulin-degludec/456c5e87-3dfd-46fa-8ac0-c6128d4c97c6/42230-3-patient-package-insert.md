@@ -7,11 +7,12 @@ You may give other people a serious infection, or get a serious infection from t
 
 What is TRESIBA?
 
-- •TRESIBA is a man-made insulin that is used to control high blood sugar in adults with diabetes mellitus.
+- •TRESIBA is a man-made insulin that is used to control high blood sugar in adults and children who are 1 year of age and older with diabetes mellitus.
 - •TRESIBA is not for people with diabetic ketoacidosis (increased ketones in the blood or urine).
+- •TRESIBA is not for children who need less than 5 units of TRESIBA each day.
+- •It is not known if TRESIBA is safe and effective in children under 1 year of age.
 - •TRESIBA is available in 2 concentrations: The 100 units/mL pen can be injected from 1 to 80 units in a single injection, in increments of 1 unit.
   The 200 units/mL pen can be injected from 2 to 160 units in a single injection, in increments of 2 units.
-- •It is not known if TRESIBA is safe and effective in children under 18 years of age.
 
 Who should not take TRESIBA?
 
@@ -37,9 +38,11 @@ How should I take TRESIBA?
 - •Know the type and strength of insulin you take.
   Do not change the type of insulin you take unless your healthcare provider tells you to.
   The amount of insulin and the best time for you to take your insulin may need to change if you take different types of insulin.
-- •If you miss or are delayed in taking your dose of TRESIBA:
-  - •Take your dose as soon as you remember then continue with your regular dosing schedule.
-  - •Make sure there are at least 8 hours between your doses.
+- •Adults: If you miss or are delayed in taking your dose of TRESIBA:
+  - oTake your dose as soon as you remember then continue with your regular dosing schedule.
+  - oMake sure there are at least 8 hours between your doses.
+- •If children miss a dose of TRESIBA:
+  - oCall the healthcare provider for information and instructions about checking blood sugar levels more often until the next scheduled dose of TRESIBA.
 - •Check your blood sugar levels.
   Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
 - •Do not reuse or share your needles with other people.
@@ -120,7 +123,7 @@ For more information, go to www.novonordisk-us.com or call 1-800-727-6500.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 09/2015
+Revised: 12/2016
 
 Instructions for Use
 
@@ -286,11 +289,11 @@ After your injection:
 - •Put your used TRESIBA FlexTouch Pen and needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - •made of a heavy-duty plastic
-  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-  - •upright and stable during use
-  - •leak-resistant
-  - •properly labeled to warn of hazardous waste inside the container
+  - made of a heavy-duty plastic
+  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+  - upright and stable during use
+  - leak-resistant
+  - properly labeled to warn of hazardous waste inside the container
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   Do not reuse or share needles or syringes with another person.
@@ -481,25 +484,25 @@ Step 15:
 - o Do not recap the needle.
   Recapping the needle can lead to needle stick injury.
 
-- •If you do not have a sharps container, carefully slip the needle into the outer needle cap (See Figure S). Safely remove the needle and throw it away as soon as you can.
+1. 1.If you do not have a sharps container, carefully slip the needle into the outer needle cap (See Figure S). Safely remove the needle and throw it away as soon as you can.
 
-- oDo not store the Pen with the needle attached.
-  Storing without the needle attached helps prevent leaking, blocking of the needle, and air from entering the Pen.
+1. 1.Do not store the Pen with the needle attached.
+   Storing without the needle attached helps prevent leaking, blocking of the needle, and air from entering the Pen.
 
 Step 16:
 
-- •Replace the Pen cap by pushing it straight on (See Figure T).
+1. 1.Replace the Pen cap by pushing it straight on (See Figure T).
 
 After your injection:
 
 - •Put your used TRESIBA FlexTouch Pen and needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - •made of a heavy-duty plastic
-  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-  - •upright and stable during use
-  - •leak-resistant
-  - •properly labeled to warn of hazardous waste inside the container
+  - made of a heavy-duty plastic
+  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+  - upright and stable during use
+  - leak-resistant
+  - properly labeled to warn of hazardous waste inside the container
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   Do not reuse or share needles or syringes with another person.
@@ -511,23 +514,23 @@ How should I store my TRESIBA FlexTouch Pen?
 
 Before use:
 
-- •Store unused TRESIBA FlexTouch Pens in the refrigerator at 36°F to 46°F (2°C to 8°C).
-- •Do not freeze TRESIBA.
-  Do not use TRESIBA if it has been frozen.
-- •Unused Pens may be used until the expiration date printed on the label, if kept in the refrigerator.
+1. 1.Store unused TRESIBA FlexTouch Pens in the refrigerator at 36°F to 46°F (2°C to 8°C).
+2. 2.Do not freeze TRESIBA.
+   Do not use TRESIBA if it has been frozen.
+3. 3.Unused Pens may be used until the expiration date printed on the label, if kept in the refrigerator.
 
 Pen in use:
 
-- •Store the Pen you are currently using at room temperature (below 86°F [30°C]) or in a refrigerator (36°F to 46°F [2°C to 8°C]).
-- •Keep TRESIBA away from heat or light.
-- •The TRESIBA FlexTouch Pen you are using should be thrown away after 56 days, even if it still has insulin left in it and the expiration date has not passed.
+1. 1.Store the Pen you are currently using at room temperature (below 86°F [30°C]) or in a refrigerator (36°F to 46°F [2°C to 8°C]).
+2. 2.Keep TRESIBA away from heat or light.
+3. 3.The TRESIBA FlexTouch Pen you are using should be thrown away after 56 days, even if it still has insulin left in it and the expiration date has not passed.
 
 General Information about the safe and effective use of TRESIBA.
 
-- •Keep TRESIBA FlexTouch Pens and needles out of the reach of children.
-- •Always use a new needle for each injection.
-- •Do not share TRESIBA FlexTouch Pens or needles with other people.
-  You may give other people a serious infection, or get a serious infection from them.
+1. 1.Keep TRESIBA FlexTouch Pens and needles out of the reach of children.
+2. 2.Always use a new needle for each injection.
+3. 3.Do not share TRESIBA FlexTouch Pens or needles with other people.
+   You may give other people a serious infection, or get a serious infection from them.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 

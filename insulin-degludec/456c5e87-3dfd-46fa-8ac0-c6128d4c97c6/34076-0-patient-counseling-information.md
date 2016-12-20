@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information and Instructions for Use)
+Advise the patient and/or caregiver to read the FDA-approved patient labeling (Patient Information and Instructions for Use)
 
 Never Share a TRESIBA FlexTouch Pen Between Patients
 
@@ -18,7 +18,7 @@ Advise patients that changes in insulin regimen can predispose to hyper- or hypo
 
 Advise patients that changes in insulin regimen should be made under close medical supervision [see Warnings and Precautions (5.2)].
 
-Medication errors
+Medication Errors
 
 Inform patients to always check the insulin label before each injection [see Warnings and Precautions (5.4)].
 TRESIBA FlexTouch pen is available in concentrations of 100 units/mL or 200 units/mL.
@@ -33,7 +33,7 @@ If so, the full dose will not be delivered (a possible under-dose may occur by a
 
 - •If 0 does not appear in the dose counter after continuously pressing the dose button, the patient may have used a blocked needle.
   In this case they would not have received any insulin – even though the dose counter has moved from the original dose that was set.
-- •If the patient did have a blocked or damaged needle, instruct them to change the needle as described in Step 15 of the Instructions for Use and repeat all steps in the IFU starting with a new needle and the section Preparing your TRESIBA FlexTouch Pen.
+- •If the patient did have a blocked or damaged needle, instruct them to change the needle as described in Step 15 of the Instructions for Use and repeat all steps in the IFU starting with a new needle and the Section Preparing your TRESIBA FlexTouch Pen.
   Make sure the patient selects the full dose needed.
 
 If patients routinely do not hold the needle under the skin as recommended, the patient may need to slightly increase the dialed insulin dose to achieve the patient’s glycemic targets.
@@ -63,9 +63,9 @@ Advise patients to inform their health care professional if they are pregnant or
 
 Rx Only
 
-Date of Issue: 06/2016
+Date of Issue: 12/2016
 
-Version: 3
+Version: 4
 
 Novo Nordisk®, TRESIBA®, FlexTouch®, LEVEMIR®, NOVOLOG®, NovoFine® and NovoTwist® are registered trademarks of Novo Nordisk A/S.
 

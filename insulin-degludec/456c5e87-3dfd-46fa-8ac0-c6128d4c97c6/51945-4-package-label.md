@@ -24,11 +24,11 @@ Recommended for use with NovoFine®, NovoFine® Plus or NovoTwist® disposable n
 
 Keep in a cold place until first use.
 
-Store at 36°F - 46°F (2°C - 8°C).
+Store at 36°F to 46°F (2°C to 8°C).
 
 Do not freeze.
 
-After first use, store between 36°F - 86°F (2°C - 30°C).
+After first use, store between 36°F to 86°F (2°C to 30°C).
 
 Protect from light.
 
@@ -58,10 +58,10 @@ Recommended for use with NovoFine®, NovoFine® Plus or NovoTwist® disposable n
 
 Keep in a cold place until first use.
 
-Store at 36°F - 46°F (2°C - 8°C).
+Store at 36°F to 46°F (2°C to 8°C).
 
 Do not freeze.
 
-After first use, store between 36°F - 86°F (2°C - 30°C).
+After first use, store between 36°F to 86°F (2°C to 30°C).
 
 Protect from light.
