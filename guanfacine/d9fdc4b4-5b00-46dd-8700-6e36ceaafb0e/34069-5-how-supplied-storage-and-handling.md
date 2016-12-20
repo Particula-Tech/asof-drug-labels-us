@@ -12,12 +12,12 @@ They are available as follows:
 
 Bottles of 30: NDC 65162-713-03 Bottles of 100: NDC 65162-713-10 Bottles of 500: NDC 65162-713-50
 
-Store at 20º to 25 ºC (68 ºF to 77 ºF) [See USP Controlled Room Temperature].
+Store at 20º to 25 ºC (68 ºF to 77 ºF) [see USP Controlled Room Temperature].
 Dispense in tight, light-resistant container.
 
-Manufactured by: Amneal Pharmaceuticals of NY Hauppauge, NY 11788
+Packaged with child-resistant closure.
 
-Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-08-2013
+11-2015-00
