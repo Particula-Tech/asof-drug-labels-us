@@ -2,9 +2,7 @@
 
 NDC 0527-1552-01
 
-Lannett
-
-BUTALBITAL, ASPIRIN, AND CAFFEINE CAPSULES
+Butalbital, Aspirin, and Caffeine Capsules
 
 CIII
 
@@ -13,3 +11,5 @@ CIII
 Rx Only
 
 100 CAPSULES
+
+Lannett
