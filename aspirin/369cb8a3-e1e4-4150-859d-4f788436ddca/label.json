@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA206392"
+  ],
+  "inn": "aspirin",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "65162-596-06"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "aspirin and extended-release dipyridamole",
+      "name": "Aspirin and Extended-Release Dipyridamole"
+    }
+  ],
+  "setid": "369cb8a3-e1e4-4150-859d-4f788436ddca",
+  "source": "dailymed"
+}
