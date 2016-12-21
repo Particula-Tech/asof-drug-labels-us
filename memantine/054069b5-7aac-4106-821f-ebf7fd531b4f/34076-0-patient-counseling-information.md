@@ -14,4 +14,4 @@ If a patient fails to take memantine HCl for several days, dosing should not be 
 Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-08-2015-03
+02-2016-04
