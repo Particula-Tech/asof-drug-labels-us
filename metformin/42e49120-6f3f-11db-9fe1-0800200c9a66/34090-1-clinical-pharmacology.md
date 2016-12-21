@@ -37,7 +37,7 @@ In controlled clinical trials, pioglitazone had an additive effect on glycemic c
 
 Patients with lipid abnormalities were included in clinical trials with pioglitazone.
 Overall, patients treated with pioglitazone had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.
-There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.11) and Adverse Reactions (6.1)].
+There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.10) and Adverse Reactions (6.1)].
 
 In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15-mg, 30-mg, and 45-mg pioglitazone dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone than in the placebo-treated patients.
@@ -152,7 +152,7 @@ Therefore, no dose adjustment in patients with renal impairment is required.
 
 Metformin hydrochloride
 
-In patients with decreased renal function (based on CLcr), the plasma and blood t1/2 of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in CLcr [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.2)].
+In patients with decreased renal function (based on eGFR), the plasma and blood t1/2 of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in eGFR [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.2)].
 
 Hepatic Impairment
 
@@ -278,7 +278,7 @@ Metformin hydrochloride
 | Ibuprofen | 400 mg | 850 mg | 1.05 | 1.07 |
 | Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5) and Drug Interactions (7)]. |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | 1.40 | 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution [see Warnings and Precautions (5) and Drug Interactions (7)]. |  |  |  |  |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5) and Drug Interactions (7)]. |  |  |  |  |
 | Topiramate | 100 mgAt steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h | 500 mg | 1.25 | 1.17 |
 
 | Table 20. Effect of Metformin on Coadministered Drug Systemic Exposure |  |  |  |  |

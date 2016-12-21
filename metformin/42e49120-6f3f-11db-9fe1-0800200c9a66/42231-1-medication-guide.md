@@ -34,9 +34,9 @@ ACTOPLUS MET can cause serious side effects, including:
 
 - o you feel dizzy or lightheaded
 
-- o you have a slow irregular heartbeat
+- o you have a slow or irregular heartbeat
 
-- o you feel weak or tired
+- o you feel very weak or tired
 
 - o you have unusual (not normal) muscle pain
 
@@ -104,16 +104,14 @@ Before you take ACTOPLUS MET, tell your doctor if you:
 - •have liver problems
 - •have or have had cancer of the bladder
 - •are pregnant or plan to become pregnant.
-  It is not known if ACTOPLUS MET will harm your unborn baby.
+  It is not known if ACTOPLUS MET can harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant about the best way to control your blood glucose levels while pregnant
 - •are a premenopausal woman (before the "change of life") who does not have periods regularly or at all.
   ACTOPLUS MET may increase your chance of becoming pregnant.
   Talk to your doctor about birth control choices while taking ACTOPLUS MET.
   Tell your doctor right away if you become pregnant while taking ACTOPLUS MET
 - •are breastfeeding or plan to breastfeed.
-  It is not known if ACTOPLUS MET passes into your breast milk.
-  You and your doctor should decide if you will take ACTOPLUS MET or breastfeed.
-  You should not do both.
+  It is not known if ACTOPLUS MET passes into your milk and if it can harm your baby.
   Talk to your doctor about the best way to control your blood glucose levels while breastfeeding
 
 Tell your doctor about all the medicines you take, including prescription and over the counter medicines, vitamins, and herbal supplements.
@@ -236,8 +234,8 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-Revised: May 2016
+Revised: December 2016
 
 © 2009 - 2016 Takeda Pharmaceuticals America, Inc.
 
-APM001 R13
+APM001 R14

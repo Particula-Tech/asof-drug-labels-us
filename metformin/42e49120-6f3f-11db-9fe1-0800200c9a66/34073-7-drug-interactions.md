@@ -14,9 +14,9 @@ Therefore, if an inducer of CYP2C8 is started or stopped during treatment with p
 
 Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently causes a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
 Concomitant use of these drugs with ACTOPLUS MET may increase the risk for lactic acidosis.
-Consider more frequent monitoring of these patients..
+Consider more frequent monitoring of these patients.
 
-## 7.4 Drugs That Reduce Metformin Clearance
+## 7.4 Drugs that Reduce Metformin Clearance
 
 Drugs that are eliminated by renal tubular secretion (e.g., cationic drugs such as cimetidine) have the potential for interaction with metformin by competing for common renal tubular transport systems, and may increase the accumulation of metformin and the risk for lactic acidosis [see Clinical Pharmacology (12.3)].
 Consider more frequent monitoring of these patients.
