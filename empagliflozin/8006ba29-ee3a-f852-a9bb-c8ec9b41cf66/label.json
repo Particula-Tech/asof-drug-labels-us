@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA208658"
+  ],
+  "inn": "empagliflozin",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0597-0280-36",
+    "0597-0280-73",
+    "0597-0280-90",
+    "0597-0290-20",
+    "0597-0290-59",
+    "0597-0290-74",
+    "0597-0295-61",
+    "0597-0295-78",
+    "0597-0295-88",
+    "0597-0300-20",
+    "0597-0300-45",
+    "0597-0300-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "empagliflozin, metformin hydrochloride",
+      "name": "SYNJARDY"
+    }
+  ],
+  "setid": "8006ba29-ee3a-f852-a9bb-c8ec9b41cf66",
+  "source": "dailymed"
+}
