@@ -17,9 +17,14 @@ The prescriber or health professional should instruct patients, their families, 
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 It should be noted that aripiprazole is not approved as a single agent for treatment of depression and has not been evaluated in pediatric major depressive disorder.
 
+Pathological Gambling and Other Compulsive Behaviors
+
+Advise patients and their caregivers of the possibility that they may experience compulsive urges to shop, intense urges to gamble, compulsive sexual urges, binge eating and/or other compulsive urges and the inability to control these urges while take aripiprazole.
+In some cases, but not all, the urges were reported to have stopped when the dose was reduced or stopped [see WARNINGS AND PRECAUTIONS, (5.8)].
+
 Interference with Cognitive and Motor Performance
 
-Because aripiprazole may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that aripiprazole therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.10)].
+Because aripiprazole may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that aripiprazole therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.12)].
 
 Nursing
 
@@ -31,7 +36,7 @@ Patients should be advised to inform their physicians if they are taking, or pla
 
 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see WARNINGS AND PRECAUTIONS (5.11)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see WARNINGS AND PRECAUTIONS (5.13)].
 
 Sugar Content
 
@@ -40,4 +45,4 @@ Patients should be advised that each mL of aripiprazole oral solution contains 4
 Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-02-2016-07
+11-2016-11

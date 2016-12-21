@@ -12,23 +12,23 @@ The following adverse reactions are discussed in more detail in other sections o
 
 - Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.4)]
 
-- Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.5)]
+- Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.6)]
 
-- Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.6)]
+- Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.7)]
 
-- Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.7)]
+- Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.8)]
 
-- Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.8)]
+- Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.9)]
 
-- Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.9)]
+- Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.10)]
 
-- Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.10)]
+- Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.11)]
 
-- Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.11)]
+- Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.12]
 
-- Suicide [see WARNINGS AND PRECAUTIONS (5.12)]
+- Suicide [see WARNINGS AND PRECAUTIONS (5.13)]
 
-- Dysphagia [see WARNINGS AND PRECAUTIONS (5.13)]
+- Dysphagia [see WARNINGS AND PRECAUTIONS (5.14)]
 
 The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
 

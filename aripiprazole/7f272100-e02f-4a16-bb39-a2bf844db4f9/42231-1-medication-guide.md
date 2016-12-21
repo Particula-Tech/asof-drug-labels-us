@@ -2,13 +2,9 @@
 
 Aripiprazole (AR-i-PIP-ra-zole) Oral Solution
 
-Read this Medication Guide before you start taking aripiprazole oral solution and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
+What is the most important information I should know aboutaripiprazole oral solution?
 
-What is the most important information I should know about aripiprazole oral solution?
-
-(For other side effects, also see “What are the possible side effects of aripiprazole oral solution?”).
+(For other side effects, also see “What are the possible side effects ofaripiprazole oral solution?”).
 
 Serious side effects may happen when you take aripiprazole oral solution, including:
 
@@ -17,8 +13,7 @@ Serious side effects may happen when you take aripiprazole oral solution, includ
 - Risk of suicidal thoughts or actions: Antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions:
 
 1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-   Some people may have a particularly high risk of having suicidal thoughts or actions.
+2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 
@@ -34,16 +29,16 @@ Call a healthcare provider right away if you or your family member has any of th
 
 - thoughts about suicide or dying
 - attempts to commit suicide
-- new or worse depression
-- new or worse anxiety
+- ·new or worse depression
+- ·new or worse anxiety
 - feeling very agitated or restless
 - panic attacks
 - trouble sleeping (insomnia)
-- new or worse irritability
+- ·new or worse irritability
 - acting aggressive, being angry, or violent
 - acting on dangerous impulses
 - an extreme increase in activity and talking (mania)
-- other unusual changes in behavior or mood
+- ·other unusual changes in behavior or mood
 
 What else do I need to know about antidepressant medicines?
 
@@ -61,9 +56,9 @@ What else do I need to know about antidepressant medicines?
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child’s healthcare provider for more information.
 
-What is aripiprazole oral solution?
+What isaripiprazole oral solution?
 
-- Aripiprazole Oral Solution is a prescription medicine used to treat:
+- AripiprazoleOral Solution is a prescription medicine used to treat:
 
 - Schizophrenia
 - manic or mixed episodes that happen with bipolar I disorder
@@ -78,14 +73,10 @@ It is not known if aripiprazole oral solution is safe or effective in children:
 - under 6 years of age with irritability associated with autistic disorder
 - under 6 years of age with Tourette’s disorder
 
-Who should not take aripiprazole oral solution?
-
-Do not take aripiprazole oral solution if you are allergic to aripiprazole or any of the ingredients in aripiprazole oral solution.
+Do not take aripiprazole oral solutionif you are allergic to aripiprazole or any of the ingredients in aripiprazole oral solution.
 See the end of this Medication Guide for a complete list of ingredients in aripiprazole oral solution.
 
-What should I tell my healthcare provider before taking aripiprazole oral solution?
-
-Before taking aripiprazole oral solution, tell your healthcare provider if you have or had:
+Before taking aripiprazole oral solution, tell your healthcare provider about all your medical conditions, includingif you have or had:
 
 - diabetes or high blood sugar in you or your family; your healthcare provider should check your blood sugar before you start aripiprazole oral solution and also during therapy.
 - seizures (convulsions).
@@ -109,7 +100,7 @@ Do not start or stop any medicines while taking aripiprazole oral solution witho
 Know the medicines you take.
 Keep a list of your medicines to show your healthcare provider and pharmacist when you get a new medicine.
 
-How should I take aripiprazole oral solution?
+How should I takearipiprazole oral solution?
 
 - Take aripiprazole oral solution exactly as your healthcare provider tells you to take it.
   Do not change the dose or stop taking aripiprazole oral solution yourself.
@@ -119,7 +110,7 @@ How should I take aripiprazole oral solution?
   Do not take two doses of aripiprazole oral solution at the same time.
 
 - If you take too much aripiprazole oral solution, call your healthcare provider or poison control center at 1-800-222-1222 right away, or go to the nearest hospital emergency room.
-  What should I avoid while taking aripiprazole oral solution?
+  What should I avoid while takingaripiprazole oral solution?
 - Do not drive, operate heavy machinery, or do other dangerous activities until you know how aripiprazole oral solution affects you.
   Aripiprazole oral solution may make you drowsy.
 - Avoid getting over-heated or dehydrated.
@@ -130,29 +121,27 @@ How should I take aripiprazole oral solution?
   Do not wear too much or heavy clothing.
 - Drink plenty of water.
 
-What are the possible side effects of aripiprazole oral solution?
+What are the possible side effects ofaripiprazole oral solution?
 
-Aripiprazole oral solution may cause serious side effects, including:
+Aripiprazole oral solutionmay cause serious side effects, including:
 
-- See “What is the most important information I should know about aripiprazole oral solution?”
+- See “What is the most important information I should know aboutaripiprazole oral solution?”
 - Stroke in elderly people (cerebrovascular problems) that can lead to death
 - Neuroleptic malignant syndrome (NMS).
   Tell your healthcare provider right away if you have some or all of the following symptoms: high fever, stiff muscles, confusion, sweating, changes in pulse, heart rate, and blood pressure.
   These may be symptoms of a rare and serious condition that can lead to death.
   Call your healthcare provider right away if you have any of these symptoms.
-
 - Uncontrolled body movements (tardive dyskinesia).
   Aripiprazole oral solution may cause movements that you cannot control in your face, tongue, or other body parts.
   Tardive dyskinesia may not go away, even if you stop receiving aripiprazole oral solution.
   Tardive dyskinesia may also start after you stop receiving aripiprazole oral solution.
 - Problems with your metabolism such as:
+  - High blood sugar (hyperglycemia) and diabetes.
+    Increases in blood sugar can happen in some people who take aripiprazole oral solution.
+    Extremely high blood sugar can lead to coma or death.
+    If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes), your healthcare provider should check your blood sugar before you start aripiprazole oral solution and during your treatment.
 
-- high blood sugar (hyperglycemia) and diabetes.
-  Increases in blood sugar can happen in some people who take aripiprazole oral solution.
-  Extremely high blood sugar can lead to coma or death.
-  If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes), your healthcare provider should check your blood sugar before you start aripiprazole oral solution and during your treatment.
-
-Call your healthcare provider if you have any of these symptoms of high blood sugar while receiving aripiprazole oral solution:
+Call your healthcare provider if you have any of these symptoms of high blood sugar while receivingaripiprazole oral solution:
 
 - feel very thirsty
 - need to urinate more than usual
@@ -161,21 +150,23 @@ Call your healthcare provider if you have any of these symptoms of high blood su
 - feel sick to your stomach
 - feel confused, or your breath smells fruity
 
-- increased fat levels (cholesterol and triglycerides) in your blood.
-
-- weight gain.
+- Increased fat levels (cholesterol and triglycerides) in your blood.
+- Weight gain.
   You and your healthcare provider should check your weight regularly.
 
+- Unusual urges.
+  Some people taking aripiprazole oral solution have had unusual urges, such as gambling, binge eating or eating that you cannot control (compulsive), compulsive shopping and sexual urges.
+  If you or your family members notice that you are having unusual urges or behaviors, talk to your healthcare provider.
 - Orthostatic hypotension (decreased blood pressure).
   Lightheadedness or fainting may happen when rising too quickly from a sitting or lying position.
 - Low white blood cell count
 - Seizures (convulsions)
-- problems with control of your body temperature especially when you exercise a lot or are in an area that is very hot.
+- Problems with control of your body temperature especially when you exercise a lot or are in an area that is very hot.
   It is important for you to drink water to avoid dehydration.
   See “What should I avoid while receiving aripiprazole oral solution?”
-- difficulty swallowing that can cause food or liquid to get into your lungs.
+- Difficulty swallowing that can cause food or liquid to get into your lungs.
 
-The most common side effects of aripiprazole oral solution in adults include:
+The most common side effects of aripiprazole oral solutionin adults include:
 
 - nausea
 - dizziness
@@ -189,9 +180,10 @@ The most common side effects of aripiprazole oral solution in adults include:
 - inner sense of restlessness/need to move (akathisia)
 - upper respiratory illness
 
-The most common side effects of aripiprazole oral solution in children include:
+The most common side effects of aripiprazole oral solutionin children include:
 
 - feeling sleepy
+
 - insomnia
 - headache
 - nausea
@@ -203,13 +195,10 @@ The most common side effects of aripiprazole oral solution in children include:
 - uncontrolled movement such as restlessness, tremor, muscle stiffness
 - increased saliva or drooling
 
-These are not all the possible side effects of aripiprazole oral solution.
-For more information, ask your healthcare provider or pharmacist.
-
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store aripiprazole oral solution?
+How should I storearipiprazole oral solution?
 
 - Store aripiprazole oral solution at room temperature, between 68°F to 77°F (20°C to 25°C).
 - Opened bottles of aripiprazole oral solution can be used for up to 6 months after opening, but not beyond the expiration date on the bottle.
@@ -222,25 +211,22 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use aripiprazole oral solution for a condition for which it was not prescribed.
 Do not give aripiprazole oral solution to other people, even if they have the same symptoms you have.
 It may harm them.
-
-This Medication Guide summarizes the most important information about aripiprazole oral solution.
-If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about aripiprazole oral solution that was written for healthcare professionals.
 
-For more information about aripiprazole oral solution visit www.amneal.com.
+What are the ingredients inaripiprazole oral solution?
 
-What are the ingredients in aripiprazole oral solution?
-
-Active ingredient: aripiprazole, USP
+Active ingredient: aripiprazole
 
 Inactive ingredients:
 
-Aripiprazole Oral Solution: edetate disodium, fructose (200 mg per mL), glycerin, malic acid, methylparaben, propylene glycol, propylparaben, purified water, sodium hydroxide and sucrose (400 mg per mL).
+AripiprazoleOral Solution: edetate disodium, fructose (200 mg per mL), glycerin, malic acid, methylparaben, propylene glycol, propylparaben, purified water, sodium hydroxide and sucrose (400 mg per mL).
 The oral solution is flavored with natural orange, cream and other natural and artificial flavors.
+
+For more information about aripiprazole oral solution visit www.amneal.com.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-02-2016-07
+10-2016-08
