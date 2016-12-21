@@ -100,7 +100,7 @@ However at 25 times the human dose, fetal malformations were not observed; the r
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-Non-teratogenic effects:
+Non-teratogenic effects
 
 Nitrofurantoin has been shown in one published transplacental carcinogenicity study to induce lung papillary adenomas in the F1 generation mice at doses 19 times the human dose on a mg/kg basis.
 The relationship of this finding to potential human carcinogenesis is presently unknown.
@@ -113,8 +113,8 @@ See Contraindications.
 Nursing Mothers
 
 Nitrofurantoin has been detected in human breast milk in trace amounts.
-Because of the potential for serious adverse reactions from nitrofurantoin in nursing infants under one month of age, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother (See CONTRAINDICATIONS).
+Because of the potential for serious adverse reactions from nitrofurantoin in nursing infants under one month of age, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother (see CONTRAINDICATIONS).
 
 Pediatric Use
 
-Safety and effectiveness of nitrofurantoin oral suspension in neonates below the age of one month have not been established (See CONTRAINDICATIONS).
+Safety and effectiveness of nitrofurantoin oral suspension in neonates below the age of one month have not been established (see CONTRAINDICATIONS).

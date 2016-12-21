@@ -6,5 +6,5 @@ Treatment of this type of patient carries an increased risk of toxicity because 
 Because of the possibility of hemolytic anemia due to immature erythrocyte enzyme systems (glutathione instability), the drug is contraindicated in pregnant patients at term (38-42 weeks gestation), during labor and delivery, or when the onset of labor is imminent.
 For the same reason, the drug is contraindicated in neonates under one month of age.
 
-Nitrofurantoin oral suspension, USP is contraindicated in patients with a previous history of cholestatic jaundice/hepatic dysfunction associated with nitrofurantoin.
-Nitrofurantoin oral suspension, USP is also contraindicated in those patients with known hypersensitivity to nitrofurantoin, USP.
+Nitrofurantoin oral suspension is contraindicated in patients with a previous history of cholestatic jaundice/hepatic dysfunction associated with nitrofurantoin.
+Nitrofurantoin oral suspension is also contraindicated in those patients with known hypersensitivity to nitrofurantoin.

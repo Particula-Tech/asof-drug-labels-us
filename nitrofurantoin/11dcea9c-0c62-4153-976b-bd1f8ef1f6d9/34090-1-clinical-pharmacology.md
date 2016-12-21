@@ -64,9 +64,9 @@ These reports should aid the physician in selecting an antibacterial drug produc
 
 Dilution Techniques
 
-Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MIC"s).
-These MIC"s provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MIC"s should be determined using a standardized test method1,3 (broth or agar).
+Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MIC's).
+These MIC's provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+The MIC's should be determined using a standardized test method1,3 (broth or agar).
 The MIC values should be interpreted according to the criteria in Table 1.
 
 Diffusion Techniques
@@ -87,11 +87,11 @@ Table 1: Susceptibility Interpretive Criteria for Nitrofurantoin
 
 S = susceptible, I = intermediate, R = resistant
 
-A report of &apos;Susceptible&apos; indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
-A report of &apos;Intermediate&apos; indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of "Susceptible" indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
+A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body site where the drug is physiologically concentrated.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of &apos;Resistant&apos; indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+A report of "Resistant" indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 Quality Control
 

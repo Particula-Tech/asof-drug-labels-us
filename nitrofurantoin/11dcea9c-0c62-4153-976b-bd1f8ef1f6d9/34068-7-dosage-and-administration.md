@@ -1,6 +1,6 @@
 # DOSAGE & ADMINISTRATION
 
-Nitrofurantoin oral suspension, USP should be given with food to improve drug absorption and, in some patients, tolerance.
+Nitrofurantoin oral suspension should be given with food to improve drug absorption and, in some patients, tolerance.
 
 Adults
 
@@ -11,7 +11,7 @@ Pediatric Patients
 5 to 7 mg/kg of body weight per 24 hours, given in four divided doses (contraindicated under one month of age).
 
 The following table is based on an average weight in each range receiving 5 to 6 mg/kg of body weight per 24 hours, given in four divided doses.
-It can be used to calculate an average dose of nitrofurantoinoral suspension, USP (25 mg/5 mL) for pediatric patients.
+It can be used to calculate an average dose of nitrofurantoin oral suspension (25 mg/5 mL) for pediatric patients.
 
 Table 3: Pediatric Dosing Table
 
