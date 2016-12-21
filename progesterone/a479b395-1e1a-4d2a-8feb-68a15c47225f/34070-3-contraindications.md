@@ -1,4 +1,4 @@
-# CONTRAINDICATIONS
+# CONTRAINDICATIONS:
 
 1.
 Current or past history of thrombophlebitis, thromboembolic disorders, or cerebral apoplexy.

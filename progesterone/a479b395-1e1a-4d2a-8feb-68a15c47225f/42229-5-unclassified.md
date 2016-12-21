@@ -1,6 +1,6 @@
 IN SESAME OIL
 
-FOR INTRAMUSCULAR USE ONLY
+For intramuscular use only.
 
 Rx only
 
@@ -109,6 +109,6 @@ Your doctor will provide instructions regarding the dose and manner in which the
 Follow your doctor’s instructions closely.
 If you have any questions about product administration, ask your doctor or health-care provider.
 
-45918E
+www.fresenius-kabi.us 45918F
 
-Revised: April 2013
+Revised: October 2016

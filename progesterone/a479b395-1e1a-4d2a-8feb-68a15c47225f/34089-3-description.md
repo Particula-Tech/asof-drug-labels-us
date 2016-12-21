@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Progesterone injection, a progestin, is a sterile solution of progesterone in a suitable vegetable oil available for intramuscular use.
 

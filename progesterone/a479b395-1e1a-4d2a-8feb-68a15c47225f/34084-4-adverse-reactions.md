@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 Breakthrough bleeding; spotting; change in menstrual flow; amenorrhea; edema; change in weight (increase or decrease); changes in cervical erosion and cervical secretions; cholestatic jaundice; breast tenderness and galactorrhea; pain, irritation, and/or redness at the injection area; skin sensitivity reactions consisting of urticaria, pruritus, edema and generalized rash; acne, alopecia and hirsutism; rash (allergic) with and without pruritus; anaphylactoid reactions; mental depression; pyrexia; insomnia; nausea; and somnolence.
 

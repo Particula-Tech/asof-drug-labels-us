@@ -1,14 +1,10 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY - Progesterone 10 mL Multiple Dose Vial Label
 
-NDC 63323-261-10
-
-260110
-
 Progesterone Injection, USP
 
-500 mg/10 mL (50 mg/mL)
+500 mg per 10 mL (50 mg per mL)
 
-FOR INTRAMUSCULAR USE ONLY
+For intramuscular use only.
 
 10 mL
 
@@ -18,16 +14,11 @@ Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Progesterone 10 mL Multiple Dose Vial Carton Panel
 
-NDC 63323-261-10
-
-260110
-
 Progesterone Injection, USP
 
-500 mg/10 mL (50 mg/mL)
+500 mg per 10 mL (50 mg per mL)
 
-FOR INTRAMUSCULAR USE ONLY
+For intramuscular use only.
+Rx only
 
 10 mL Multiple Dose Vial
-
-Rx only

@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 Progesterone is administered by intramuscular injection.
 It differs from other commonly used steroids in that it is irritating at the place of injection.

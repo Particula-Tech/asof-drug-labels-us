@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 The physician should be alert to the earliest manifestations of thrombotic disorders (thrombophlebitis, cerebrovascular disorders, pulmonary embolism, and retinal thrombosis).
 Should any of these occur or be suspected, the drug should be discontinued immediately.
@@ -6,7 +6,7 @@ Should any of these occur or be suspected, the drug should be discontinued immed
 Medication should be discontinued pending examination if there is a sudden partial or complete loss of vision, or if there is a sudden onset of proptosis, diplopia or migraine.
 If examination reveals papilledema or retinal vascular lesions, medication should be withdrawn.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 
@@ -29,7 +29,7 @@ A decrease in glucose tolerance has been observed in a small percentage of patie
 The mechanism of this decrease is obscure.
 For this reason, diabetic patients should be carefully observed while receiving such therapy.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Long-term intramuscular administration of Medroxyprogesterone acetate (MPA) has been shown to produce mammary tumors in beagle dogs.
 There is no evidence of a carcinogenic effect associated with the oral administration of MPA to rats and mice.
