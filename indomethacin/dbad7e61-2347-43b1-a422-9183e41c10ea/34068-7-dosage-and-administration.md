@@ -24,7 +24,7 @@ The following information is provided as background only and refers to immediate
 
 Suggested Dosage:
 
-The following recommendations on dosing pertain to immediate-release indomethacin capsules USP, and provide important information regarding the dosage and administration of indomethacin.
+The following recommendations on dosing pertain to immediate-release indomethacin capsules and provide important information regarding the dosage and administration of indomethacin.
 The prescriber should be aware of this information when considering and prescribing extended-release indomethacin.
 
 Indomethacin capsules 25 mg b.i.d. or t.i.d.

@@ -1,9 +1,9 @@
 # INDICATIONS AND USAGE
 
-Carefully consider the potential benefits and risks of indomethacin extended-release capsules, USP and other treatment options before deciding to use indomethacin extended-release capsules, USP.
+Carefully consider the potential benefits and risks of indomethacin extended-release capsules and other treatment options before deciding to use indomethacin extended-release capsules.
 Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals [see WARNINGS].
 
-Indomethacin extended-release capsules, USP have been found effective in active stages of the following:
+Indomethacin extended-release capsules have been found effective in active stages of the following:
 
 1.
 Moderate to severe rheumatoid arthritis including acute flares of chronic disease.
@@ -14,7 +14,7 @@ Moderate to severe osteoarthritis.
 4.
 Acute painful shoulder (bursitis and/or tendonitis).
 
-Indomethacin extended-release capsules, USP are not recommended for the treatment of acute gouty arthritis.
+Indomethacin extended-release capsules are not recommended for the treatment of acute gouty arthritis.
 
 Indomethacin may enable the reduction of steroid dosage in patients receiving steroids for the more severe forms of rheumatoid arthritis.
 In such instances the steroid dosage should be reduced slowly and the patients followed very closely for any possible adverse effects.

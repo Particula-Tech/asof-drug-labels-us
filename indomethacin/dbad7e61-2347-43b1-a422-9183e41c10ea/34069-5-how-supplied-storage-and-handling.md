@@ -8,11 +8,11 @@ Bottles of 30: NDC 65162-506-03 Bottles of 60: NDC 65162-506-06 Bottles of 90: N
 
 Rx only
 
-Storage: Store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
+Storage: Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature].
 Protect from moisture.
 Dispense contents in a tight, light-resistant container as defined in the USP with child-resistant closure, as required.
 
 Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-07-2015-00
+06-2016-01
