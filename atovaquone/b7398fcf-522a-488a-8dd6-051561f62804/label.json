@@ -3,7 +3,7 @@
     "ANDA202960"
   ],
   "inn": "atovaquone",
-  "labeler": "Amneal Pharmaceuticals of New York, LLC",
+  "labeler": "Amneal Pharmaceuticals LLC",
   "package_ndcs": [
     "65162-693-88"
   ],
@@ -11,7 +11,7 @@
     {
       "form": "SUSPENSION",
       "generic": "atovaquone",
-      "name": "Atovaquone"
+      "name": "ATOVAQUONE"
     }
   ],
   "setid": "b7398fcf-522a-488a-8dd6-051561f62804",
