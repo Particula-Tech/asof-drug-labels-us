@@ -1,15 +1,21 @@
 # HOW SUPPLIED
 
-Hydrocodone Bitartrate and Acetaminophen Tablets, USP 10 mg / 325 mg are supplied as white to off-white, scored, oblong biconvex tablets, debossed “IP 110” on obverse and bisected on the reverse.
+Hydrocodone Bitartrate and Acetaminophen Tablets, USP 10 mg/325 mg are supplied as white to off-white, scored, oblong biconvex tablets, debossed “IP 110” on obverse and bisected on the reverse.
 Each tablet contains 10 mg hydrocodone bitartrate and 325 mg acetaminophen.
+
 They are available as follows:
 
-Bottles of 100: NDC 53746-110-01 Bottles of 500: NDC 53746-110-05 Bottles of 1000: NDC 53746-110-10
+Bottles of 100: NDC 53746-110-01
 
-Storage: Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Bottles of 500: NDC 53746-110-05
 
-Dispense in a tight, light-resistant container with a child-resistant closure.
+Bottles of 1000: NDC 53746-110-10
 
-A Schedule CII Narcotic.
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
-DEA Order Form Required.
+Dispense in a tight, light-resistant container as defined in the USP with a child-resistant closure.
+
+Manufactured by: Amneal Pharmaceuticals of NY LLC Brookhaven, NY 11719
+
+Rev.
+12-2016-05

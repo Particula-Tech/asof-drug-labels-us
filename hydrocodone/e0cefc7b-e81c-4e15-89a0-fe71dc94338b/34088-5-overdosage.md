@@ -2,29 +2,39 @@
 
 Following an acute overdosage, toxicity may result from hydrocodone or acetaminophen.
 
-## Signs and Symptoms
+Clinical Presentation
 
-Hydrocodone: Serious overdose with hydrocodone is characterized by respiratory depression (a decrease in respiratory rate and/or tidal volume, Cheyne-Stokes respiration, cyanosis), extreme somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, and sometimes bradycardia and hypotension.
-In severe overdosage, apnea, circulatory collapse, cardiac arrest and death may occur.
+Acute overdosage with Hydrocodone Bitartrate and Acetaminophen Tablets can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
+Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
 
-Acetaminophen: In acetaminophen overdosage: dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect.
+Acetaminophen
+
+Dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect of acetaminophen overdosage.
 Renal tubular necrosis, hypoglycemic coma and coagulation defects may also occur.
 
 Early symptoms following a potentially hepatotoxic overdose may include: nausea, vomiting, diaphoresis and general malaise.
 Clinical and laboratory evidence of hepatic toxicity may not be apparent until 48 to 72 hours post-ingestion.
 
-Treatment
+Treatment of Overdose
 
-A single or multiple drug overdose with hydrocodone and acetaminophen is a potentially lethal polydrug overdose, and consultation with a regional poison control center is recommended.
+Hydrocodone
 
-Immediate treatment includes support of cardiorespiratory function and measures to reduce drug absorption.
-Oxygen, intravenous fluids, vasopressors, and other supportive measures should be employed as indicated.
-Assisted or controlled ventilation should also be considered.
+In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
+Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
+Cardiac arrest or arrhythmias will require advanced life-support techniques.
 
-For hydrocodone overdose, primary attention should be given to the reestablishment of adequate respiratory exchange through provision of a patent airway and the institution of assisted or controlled ventilation.
-The narcotic antagonist naloxone hydrochloride is a specific antidote against respiratory depression which may result from overdosage or unusual sensitivity to narcotics, including hydrocodone.
-Since the duration of action of hydrocodone may exceed that of the antagonist, the patient should be kept under continued surveillance, and repeated doses of the antagonist should be administered as needed to maintain adequate respiration.
-A narcotic antagonist should not be administered in the absence of clinically significant respiratory or cardiovascular depression.
+The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
+For clinically significant respiratory or circulatory depression secondary to Hydrocodone Bitartrate and Acetaminophen Tablets overdose, administer an opioid antagonist.
+Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to Hydrocodone Bitartrate and Acetaminophen Tablets overdose.
+
+Because the duration of opioid reversal is expected to be less than the duration of action of hydrocodone in Hydrocodone Bitartrate and Acetaminophen Tablets, carefully monitor the patient until spontaneous respiration is reliably reestablished.
+If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product’s prescribing information.
+
+In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
+The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
+If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be initiated with care and by titration with smaller than usual doses of the antagonist.
+
+Acetaminophen
 
 Gastric decontamination with activated charcoal should be administered just prior to N-acetylcysteine (NAC) to decrease systemic absorption if acetaminophen ingestion is known or suspected to have occurred within a few hours of presentation.
 Serum acetaminophen levels should be obtained immediately if the patient presents 4 hours or more after ingestion to assess potential risk of hepatotoxicity; acetaminophen levels drawn less than 4 hours post-ingestion may be misleading.
