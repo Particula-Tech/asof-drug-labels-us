@@ -1,12 +1,5 @@
 # 12 CLINICAL PHARMACOLOGY
 
-Patients with chronic kidney disease (CKD) retain phosphorus and can develop hyperphosphatemia.
-When the product of serum calcium and phosphorus concentrations (Ca × P) exceeds 55 mg2/dL2, there is an increased risk that ectopic calcification will occur.
-Hyperphosphatemia plays a role in the development of secondary hyperparathyroidism in renal insufficiency.
-
-Treatment of hyperphosphatemia includes reduction in dietary intake of phosphate, inhibition of intestinal phosphate absorption with phosphate binders, and removal of phosphate with dialysis.
-Sevelamer carbonate taken with meals has been shown to control serum phosphorus concentrations in patients with CKD who are on dialysis.
-
 ## 12.1 Mechanism of Action
 
 Renvela contains sevelamer carbonate, a non-absorbed phosphate binding crosslinked polymer, free of metal and calcium.
@@ -17,9 +10,7 @@ By binding phosphate in the gastrointestinal tract and decreasing absorption, se
 ## 12.2 Pharmacodynamics
 
 In addition to effects on serum phosphorus levels, sevelamer hydrochloride has been shown to bind bile acids in vitro and in vivo in experimental animal models.
-Bile acid binding by ion exchange resins is a well-established method of lowering blood cholesterol.
-Because sevelamer binds bile acids, it may interfere with normal fat absorption and thus may reduce absorption of fat soluble vitamins such as A, D and K. In clinical trials of sevelamer hydrochloride, both the mean total and LDL cholesterol declined by 15–31%.
-This effect is observed after 2 weeks.
+Because sevelamer binds bile acids, it may interfere with normal fat absorption and thus may reduce absorption of fat soluble vitamins such as A, D and K. In clinical trials of sevelamer hydrochloride, both the mean total and LDL cholesterol declined by 15–31%; the clinical significance of this finding, which was observed after 2 weeks is unclear.
 Triglycerides, HDL cholesterol and albumin did not change.
 
 ## 12.3 Pharmacokinetics
@@ -38,7 +29,7 @@ Co-administered single dose of 2.8 grams of sevelamer hydrochloride in fasted st
 
 Concomitant administration of sevelamer and mycophenolate mofetil in adult and pediatric patients decreased the mean MPA Cmax and AUC0–12h by 36% and 26% respectively.
 
-Sevelamer carbonate or sevelamer hydrochloride did not alter the pharmacokinetics of a single dose of enalapril, digoxin, iron, metoprolol and warfarin when co-administered.
+Sevelamer carbonate or sevelamer hydrochloride did not alter the pharmacokinetics of enalapril, digoxin, iron, metoprolol and warfarin when co-administered.
 
 During postmarketing experience, cases of increased thyroid stimulating hormone (TSH) levels have been reported in patients co-administered sevelamer hydrochloride and levothyroxine.
 Reduction in concentrations of cyclosporine and tacrolimus leading to dose increases has also been reported in transplant patients when co-administered with sevelamer hydrochloride without any clinical consequences (for example, graft rejection).

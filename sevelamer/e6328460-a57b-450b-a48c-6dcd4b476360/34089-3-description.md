@@ -9,6 +9,9 @@ Renvela (sevelamer carbonate) is known chemically as poly(allylamine-co-N,N'-dia
 Sevelamer carbonate is hygroscopic, but insoluble in water.
 The structure is represented in Figure 1.
 
+| Figure 1. Chemical Structure of Sevelamer Carbonate |
+| --- |
+
 a, b = number of primary amine groups a + b = 9 c = number of crosslinking groups c = 1 m = large number to indicate extended polymer network
 
 Renvela® Tablets: Each film-coated tablet of Renvela contains 800 mg of sevelamer carbonate on an anhydrous basis.

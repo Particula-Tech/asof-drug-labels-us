@@ -12,7 +12,3 @@ Sevelamer hydrochloride was not mutagenic in the Ames bacterial mutation assay.
 
 Sevelamer hydrochloride did not impair the fertility of male or female rats in a dietary administration study in which the females were treated from 14 days prior to mating through gestation and the males were treated for 28 days prior to mating.
 The highest dose in this study was 4.5 g/kg/day (human equivalent dose 3 times the maximum clinical trial dose of 13 g).
-
-## 13.2 Developmental Toxicity
-
-In pregnant rats given dietary doses of 0.5, 1.5 or 4.5 g/kg/day of sevelamer hydrochloride during organogenesis, reduced or irregular ossification of fetal bones, probably due to a reduced absorption of fat-soluble vitamin D, occurred in mid- and high-dose groups (human equivalent doses approximately equal to 3–4 times the maximum clinical trial dose of 13 g). In pregnant rabbits given oral doses of 100, 500 or 1000 mg/kg/day of sevelamer hydrochloride by gavage during organogenesis, an increase of early resorptions occurred in the high-dose group (human equivalent dose twice the maximum clinical trial dose).
