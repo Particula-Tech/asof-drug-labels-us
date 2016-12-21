@@ -15,11 +15,11 @@ Store at 20° to 25°C (68° to 77°F).
 
 DOLOPHINE (methadone hydrochloride USP) Tablets
 
-5 mg tablets are white, round, biconvex tablets, scored on one side and product identification “54 162” debossed on the other side.
+5 mg tablets are a white, round, biconvex tablet, scored on one side and product identification “54 162” debossed on the other side.
 
 NDC 0054-4218-25: Bottle of 100 Tablets
 
-The 10 mg tablets are white, round, biconvex tablets, scored on one side and product identification “54 549” debossed on the other side.
+The 10 mg tablets are a white, round, biconvex tablet, scored on one side and product identification “54 549” debossed on the other side.
 
 NDC 0054-4219-25: Bottle of 100 Tablets
 
