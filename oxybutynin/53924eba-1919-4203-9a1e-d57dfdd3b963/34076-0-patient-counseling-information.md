@@ -19,9 +19,7 @@ For more information call 1-877-835-5472 or visit www.amneal.com
 
 * Trademarks are the property of their respective owners.
 
-Manufactured by: Amneal Pharmaceuticals of NY Hauppauge, NY 11788
-
-Manufactured for: Amneal Pharmaceuticals Glasgow, KY 42141
+Manufactured for: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-03-2015-00
+10-2016-02

@@ -13,9 +13,9 @@ Bottles of 30: NDC 65162-372-03 Bottles of 90: NDC 65162-372-09 Bottles of 100: 
 Oxybutynin chloride extended-release tablets USP, 15 mg, are supplied as white, round, biconvex, coated tablets debossed with “A33” on one side and plain on the other side.
 They are available as follows:
 
-Bottles of 30: NDC 65162-373-03 Bottles of 90: NDC 65162-373-09 Bottles of 100: NDC 65162-373-10 Bottles of 250: NDC 65162-373-25
+Bottles of 30: NDC 65162-373-03 Bottles of 90: NDC 65162-373-09 Bottles of 100: NDC 65162-373-10 Bottles of 250: NDC 65162-373-25 Bottles of 500: NDC 65162-373-50
 
 ## 16.1 Storage
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Protect from moisture and humidity.

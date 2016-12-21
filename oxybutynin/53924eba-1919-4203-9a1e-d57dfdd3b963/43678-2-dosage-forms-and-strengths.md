@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Oxybutynin chloride extended-release tablets are available as 5, 10 and 15 mg tablets for oral use:
+Oxybutynin chloride extended-release tablets, USP are available as 5, 10 and 15 mg tablets for oral use:
 
 5 mg: Purple, round, biconvex, coated tablets debossed with “A31” on one side and plain on the other side.
 
