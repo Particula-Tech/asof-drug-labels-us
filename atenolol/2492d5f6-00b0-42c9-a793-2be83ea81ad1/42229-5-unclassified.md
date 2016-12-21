@@ -36,8 +36,6 @@ Manufactured by:
 
 Cadila Healthcare Ltd.
 
-Ahmedabad, India.
+India.
 
-Rev.: 09/11
-
-Revision Date: 09/22/2011
+Revision Date: 12/2016

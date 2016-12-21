@@ -30,7 +30,7 @@ For both orally and intravenously administered drug, the duration of action is d
 The effect on exercise tachycardia of a single 10 mg intravenous dose is largely dissipated by 12 hours, whereas beta-blocking activity of single oral doses of 50 mg and 100 mg is still evident beyond 24 hours following administration.
 However, as has been shown for all beta-blocking agents, the antihypertensive effect does not appear to be related to plasma level.
 
-In normal subjects, the beta1 selectivity of atenolol has been shown by its reduced ability to reverse the beta2-mediated vasodilating effect of isoproterenol as compared to equivalent beta-blocking doses of propranolol.
+In normal subjects, the beta1 selectivity of atenolol has been shown by its reduced ability to reverse the beta2-mediated vasodilating effect of isoproterenol as compared to equivalent betab-locking doses of propranolol.
 In asthmatic patients, a dose of atenolol producing a greater effect on resting heart rate than propranolol resulted in much less increase in airway resistance.
 In a placebo controlled comparison of approximately equipotent oral doses of several beta blockers, atenolol produced a significantly smaller decrease of FEV1 than nonselective beta blockers such as propranolol and, unlike those agents, did not inhibit bronchodilation in response to isoproterenol.
 

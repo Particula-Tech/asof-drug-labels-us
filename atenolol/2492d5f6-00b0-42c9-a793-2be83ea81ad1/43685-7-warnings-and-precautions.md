@@ -26,7 +26,7 @@ If dosage must be increased, dividing the dose should be considered in order to 
 
 ## Major Surgery
 
-Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 ## Diabetes and Hypoglycemia
 
