@@ -2,10 +2,10 @@
 
 ## 2.1 Adult Patients
 
-The recommended dose of meropenem for injection, USP (I.V.) is 500 mg given every 8 hours for skin and skin structure infections and 1 gram given every 8 hours for intra-abdominal infections.
+The recommended dose of meropenem for injection (I.V.) is 500 mg given every 8 hours for skin and skin structure infections and 1 gram given every 8 hours for intra-abdominal infections.
 When treating complicated skin and skin structure infections caused by P.aeruginosa, a dose of 1 gram every 8 hours is recommended.
 
-Meropenem for injection, USP (I.V.) should be administered by intravenous infusion over approximately 15 minutes to 30 minutes.
+Meropenem for injection (I.V.) should be administered by intravenous infusion over approximately 15 minutes to 30 minutes.
 Doses of 1 gram may also be administered as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
 
 ## 2.2 Use in Adult Patients with Renal Impairment
@@ -23,7 +23,7 @@ Weight (kg) x (140 - age)
 
 Females: 0.85 x above value
 
-Recommended Meropenem for Injection, USP (I.V.)
+Recommended Meropenem for Injection (I.V.)
 Dosage Schedule for Adult Patients with Renal Impairment
 
 | Creatinine Clearance (mL/min) | Dose (dependent on type of infection) | Dosing Interval |
@@ -39,14 +39,14 @@ There is inadequate information regarding the use of meropenem for injection, US
 
 Pediatric Patients 3 Months of Age and Older
 
-For pediatric patients 3 months of age and older, the meropenem for injection, USP (I.V.) dose is 10 mg/kg, 20 mg/kg or 40 mg/kg every 8 hours (maximum dose is 2 grams every 8 hours), depending on the type of infection (complicated skin and skin structure, intra-abdominal or meningitis).
-(See dosing table below.)
-Pediatric patients weighing over 50 kg should be administered meropenem for injection, USP (I.V.) at a dose of 500 mg every 8 hours for complicated skin and skin structure infections, 1 gram every 8 hours for intra-abdominal infections and 2 grams every 8 hours for meningitis.
-Meropenem for injection, USP (I.V.) should be given as intravenous infusion over approximately 15 minutes to 30 minutes or as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
+For pediatric patients 3 months of age and older, the meropenem for injection (I.V.) dose is 10 mg/kg, 20 mg/kg or 40 mg/kg every 8 hours (maximum dose is 2 grams every 8 hours), depending on the type of infection (complicated skin and skin structure, intra-abdominal or meningitis).
+See dosing table below.
+Pediatric patients weighing over 50 kg should be administered meropenem for injection (I.V.) at a dose of 500 mg every 8 hours for complicated skin and skin structure infections, 1 gram every 8 hours for intra-abdominal infections and 2 grams every 8 hours for meningitis.
+Meropenem for injection (I.V.) should be given as intravenous infusion over approximately 15 minutes to 30 minutes or as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
 
 There is limited safety data available to support the administration of a 40 mg/kg (up to a maximum of 2 grams) bolus dose.
 
-Recommended Meropenem for Injection, USP (I.V.)
+Recommended Meropenem for Injection (I.V.)
 Dosage Schedule for Pediatric Patients 3 Months of Age and Older with Normal Renal Function
 
 | Type of Infection | Dose (mg/kg) | Up to a Maximum Dose | Dosing Interval |
@@ -61,11 +61,11 @@ When treating complicated skin and skin structure infections caused by P. aerugi
 
 Pediatric Patients Less Than 3 Months of Age
 
-For pediatric patients (with normal renal function) less than 3 months of age, with intra-abdominal infections, the meropenem for injection, USP (I.V.) dose is based on gestational age (GA) and postnatal age (PNA).
-(See dosing table below).
-Meropenem for injection, USP (I.V.) should be given as intravenous infusion over 30 minutes.
+For pediatric patients (with normal renal function) less than 3 months of age, with intra-abdominal infections, the meropenem for injection (I.V.) dose is based on gestational age (GA) and postnatal age (PNA).
+See dosing table below.
+Meropenem for injection (I.V.) should be given as intravenous infusion over 30 minutes.
 
-Recommended Meropenem for Injection, USP (I.V.)
+Recommended Meropenem for Injection (I.V.)
 Dosage Schedule for Pediatric Patients Less than 3 Months of Age with Complicated Intra-Abdominal Infections and Normal Renal Function
 
 | Age Group | Dose (mg/kg) | Dose Interval |
@@ -98,23 +98,23 @@ WARNING: Do not use flexible container in series connections.
 
 ## 2.5 Compatibility
 
-Compatibility of meropenem for injection, USP (I.V.) with other drugs has not been established.
+Compatibility of meropenem for injection (I.V.) with other drugs has not been established.
 Meropenem for injection, USP (I.V.) should not be mixed with or physically added to solutions containing other drugs.
 
 ## 2.6 Stability and Storage
 
-Freshly prepared solutions of meropenem for injection, USP (I.V.) should be used.
-However, constituted solutions of meropenem for injection, USP (I.V.) maintain satisfactory potency under the conditions described below.
-Solutions of intravenous meropenem for injection, USP (I.V.) should not be frozen.
+Freshly prepared solutions of meropenem for injection (I.V.) should be used.
+However, constituted solutions of meropenem for injection (I.V.) maintain satisfactory potency under the conditions described below.
+Solutions of intravenous meropenem for injection (I.V.) should not be frozen.
 
 Intravenous Bolus Administration
 
-Meropenem for injection, USP (I.V.) vials constituted with sterile Water for Injection for bolus administration (up to 50 mg/mL of meropenem for injection, USP (I.V.)) may be stored for up to 3 hours at up to 25°C (77°F) or for 13 hours at up to 5°C (41°F).
+Meropenem for injection (I.V.) vials constituted with sterile Water for Injection for bolus administration (up to 50 mg/mL of meropenem for injection (I.V.) may be stored for up to 3 hours at up to 25°C (77°F) or for 13 hours at up to 5°C (41°F).
 
 Intravenous Infusion Administration
 
-Solutions prepared for infusion (meropenem for injection, USP (I.V.) concentrations ranging from 1 mg/mL to 20 mg/mL) constituted with Sodium Chloride Injection 0.9% may be stored for 1 hour at up to 25°C (77°F) or 15 hours at up to 5°C (41°F).
+Solutions prepared for infusion (meropenem for injection (I.V.) concentrations ranging from 1 mg/mL to 20 mg/mL) constituted with Sodium Chloride Injection 0.9% may be stored for 1 hour at up to 25°C (77°F) or 15 hours at up to 5°C (41°F).
 
-Solutions prepared for infusion (meropenem for injection, USP (I.V.) concentrations ranging from 1 mg/mL to 20 mg/mL) constituted with Dextrose Injection 5% should be used immediately.
+Solutions prepared for infusion (meropenem for injection (I.V.) concentrations ranging from 1 mg/mL to 20 mg/mL) constituted with Dextrose Injection 5% should be used immediately.
 
 NOTE: Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.

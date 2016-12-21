@@ -113,4 +113,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Worldwide post-marketing adverse reactions not otherwise listed in the Adverse Reactions section of this product label and reported as possibly, probably, or definitely drug related are listed within each body system in order of decreasing severity.
 Hematologic - agranulocytosis, neutropenia and leukopenia; a positive direct or indirect Coombs test and hemolytic anemia.
-Skin-toxic epidermal necrolysis, Stevens-Johnson Syndrome, angioedema and erythema multiforme.
+Skin-toxic epidermal necrolysis, Stevens-Johnson Syndrome, angioedema, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS syndrome) and erythema multiforme.

@@ -18,4 +18,4 @@ Manufactured for: Amneal Biosciences Bridgewater, NJ 08807
 Made in Taiwan
 
 Rev.
-05-2016-01
+08-2016-02

@@ -22,7 +22,7 @@ The plasma protein binding of meropenem is approximately 2%.
 Meropenem penetrates well into most body fluids and tissues including cerebrospinal fluid, achieving concentrations matching or exceeding those required to inhibit most susceptible bacteria.
 After a single intravenous dose of meropenem, the highest mean concentrations of meropenem were found in tissues and fluids at 1 hour (0.5 hours to 1.5 hours) after the start of infusion, except where indicated in the tissues and fluids listed in the table below.
 
-Table 1 Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported)
+Table 1: Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported)
 
 | Tissue | Intravenous Dose (gram) | Number of Samples | Mean [mcg/mL or mcg/(gram)]1 | Range [mcg/mL or mcg/(gram)] |
 | --- | --- | --- | --- | --- |
@@ -91,7 +91,7 @@ The elimination half-life for meropenem was approximately 1.5 hours in pediatric
 
 The pharmacokinetics of meropenem in patients less than 3 months of age receiving combination antibacterial drug therapy are given below.
 
-Table 2 Meropenem Pharmacokinetic Parameters in Patients Less Than 3 Months of Age*
+Table 2: Meropenem Pharmacokinetic Parameters in Patients Less Than 3 Months of Age*
 
 |  | GA less than 32 weeks PNA less than 2 weeks (20mg/kg every 12 hours) | GA less than 32 weeks PNA 2 weeks or older (20mg/kg every 8 hours) | GA 32 weeks or older PNA less than 2 weeks (20mg/kg every 8 hours) | GA 32 weeks or older PNA 2 weeks or older (30mg/kg every 8 hours) | Overall |
 | --- | --- | --- | --- | --- | --- |
@@ -138,7 +138,7 @@ In vitro tests show meropenem to act synergistically with aminoglycoside antibac
 
 Spectrum of Activity
 
-Meropenem has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section (1).
+Meropenem has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described [see INDICATIONS AND USAGE (1)].
 
 Gram-positive bacteria
 
@@ -168,7 +168,7 @@ Anaerobic bacteria
 
 Bacteroides distasonis Bacteroides ovatus Bacteroides uniformis Bacteroides ureolyticus Bacteroides vulgatus Clostridium difficile Clostridium perfringens Eubacterium lentum Fusobacterium species Prevotella bivia Prevotella intermedia Prevotella melaninogenica Porphyromonas asaccharolytica Propionibacterium acnes
 
-Susceptibility Test Methods:
+Susceptibility Test Methods
 
 When available, the clinical microbiology laboratory should provide cumulative results of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting the most effective antimicrobial.
@@ -193,7 +193,7 @@ Anaerobic Techniques:
 
 For anaerobic bacteria, the susceptibility to meropenem as MICs can be determined by a standardized test method.2,4 The MIC values obtained should be interpreted according to the criteria provided in Table 3.
 
-Table 3 Susceptibility Interpretive Criteria for Meropenem
+Table 3: Susceptibility Interpretive Criteria for Meropenem
 
 |  | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion (zone diameters in mm) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -209,7 +209,7 @@ Table 3 Susceptibility Interpretive Criteria for Meropenem
 S = Susceptible, I = Intermediate, R = Resistant No interpretative criteria have been established for testing enterococci.
 Susceptibility of staphylococci to meropenem may be deduced from testing penicillin and either cefoxitin or oxacillin.
 1.
-The interpretive criteria for P. aeruginosa are based upon the dosing of 1 gram every 8 hours.
+The interpretive criteria for P. aeruginosa are based upon the dosing of 1 g every 8 hours.
 2.
 The current absence of data on resistant isolates precludes defining any category other than “Susceptible”.
 If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing.
@@ -236,7 +236,7 @@ Quality Control
 Standardized susceptibility test procedures require the use of quality controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.
 Standard meropenem powder should provide the following range of values noted in Table 4.
 
-Table 4 Acceptable Quality Control Ranges for Meropenem
+Table 4: Acceptable Quality Control Ranges for Meropenem
 
 | QC Strain | Minimum Inhibitory Concentrations (MICs = mcg/mL) | Disk Diffusion (Zone diameters in mm) |
 | --- | --- | --- |
