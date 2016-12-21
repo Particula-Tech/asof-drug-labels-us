@@ -1,34 +1,29 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-DISKETS are for oral administration only.
-The preparation must not be injected.
-Methadone should be kept out of reach of children to prevent accidental ingestion.
-
 ## 5.1 Life-Threatening Respiratory Depression
 
-Respiratory depression is the primary risk of methadone.
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of methadone, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Respiratory depression from opioids is manifested by a reduced urge to breathe and a decreased rate of respiration, often associated with a “sighing” pattern of breathing (deep breaths separated by abnormally long pauses).
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
 
-While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of methadone, the risk is greatest during the initiation of therapy or following a dose increase.
+While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of DISKETS, the risk is greatest during the initiation of therapy or following a dose increase.
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak pharmacologic effect, especially during the initial dosing period.
-Closely monitor patients with respiratory depression when initiating therapy with methadone and following dose increases.
+Monitor patients closely for respiratory depression, when initiating therapy with DISKETS and following dose increases.
 
 Instruct patients against use by individuals other than the patient for whom methadone was prescribed and to keep methadone out of the reach of children, as such inappropriate use may result in fatal respiratory depression.
 
-To reduce the risk of respiratory depression, proper dosing and titration of methadone are essential [see Dosage and Administration (2.1)].
-Overestimating the methadone dose when converting patients from another opioid product can result in fatal overdose with the first dose.
-Respiratory depression has also been reported with use of methadone when used as recommended and not misused or abused.
+To reduce the risk of respiratory depression, proper dosing and titration of methadone are essential [see Dosage and Administration (2.3)].
+Overestimating the methadone dosage when initiating treatment can result in fatal overdose with the first dose.
 
 To further reduce the risk of respiratory depression, consider the following:
 
 - •Patients tolerant to other opioids may be incompletely tolerant to methadone.
-  Incomplete cross-tolerance is of particular concern for patients tolerant to other mu-opioid agonists who are being converted to treatment with methadone, thus making determination of dosing during opioid treatment conversion complex.
+  Incomplete cross-tolerance is of particular concern for patients tolerant to other mu-opioid agonists.
   Deaths have been reported during conversion from chronic, high-dose treatment with other opioid agonists.
-- •Proper dosing and titration are essential and methadone should be prescribed only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone.
-- •Methadone is contraindicated in patients with respiratory depression and in patients with conditions that increase the risk of life-threatening respiratory depression [see Contraindications (4)].
+  Follow induction directions closely to avoid inadvertent overdose [see Dosage and Administration (2.3)].
+- •Proper dosing and titration are essential and methadone should be overseen only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone.
 
 ## 5.2 Life-Threatening QT Prolongation
 
@@ -47,74 +42,123 @@ Evaluate patients developing QT prolongation while on DISKETS Dispersible Tablet
 Only initiate therapy with DISKETS Dispersible Tablets in patients for whom the anticipated benefit outweighs the risk of QT prolongation and development of dysrhythmias that have been reported with high doses of methadone.
 The use of methadone in patients already known to have a prolonged QT interval has not been systematically studied.
 
-## 5.3 Accidental Exposure
+## 5.3 Accidental Ingestion
 
-Accidental ingestion of DISKETS, especially in children, can result in a fatal overdose of methadone.
-DISKETS should be kept out of reach of children to prevent accidental ingestion.
+Accidental ingestion of even one dose of DISKETS Dispersible Tablets, especially by children, can result in respiratory depression and death due to an overdose.
+Keep DISKETS Dispersible Tablets out of reach of children to prevent accidental ingestion.
 
-## 5.4 Abuse Potential
+## 5.4 Misuse, Abuse, and Diversion of Opioids
 
-DISKETS contain methadone, an opioid agonist and a Schedule II controlled substance.
+DISKETS Dispersible Tablets contain methadone, an opioid agonist and a Schedule II controlled substance.
 Methadone can be abused in a manner similar to other opioid agonists, legal or illicit.
 Opioid agonists are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-## 5.5 Elderly, Cachectic, and Debilitated Patients
+## 5.5 Neonatal Opioid Withdrawal Syndrome
 
-Respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics due to poor fat stores, muscle wasting, or altered clearance compared to younger, healthier patients.
-Therefore, monitor such patients closely, particularly when initiating and titrating DISKETS and when DISKETS are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.1)].
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy, whether that use is medically-authorized or illicit.
+Unlike opioid withdrawal syndrome in adults, NOWS may be life-threatening if not recognized and treated in the neonate.
+Healthcare professionals should observe newborns for signs of NOWS and manage accordingly [see Use in Specific Populations (8.1)].
 
-## 5.6 Use in Patients with Chronic Pulmonary Disease
+Advise pregnant women receiving opioid addiction treatment with DISKETS of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1)].
+This risk must be balanced against the risk of untreated opioid addiction which often results in continued or relapsing illicit opioid use and is associated with poor pregnancy outcomes.
+Therefore, prescribers should discuss the importance and benefits of management of opioid addiction throughout pregnancy.
 
-Monitor patients with significant chronic obstructive pulmonary disease or cor pulmonale, and patients having a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression, particularly when initiating therapy and titrating with DISKETS, as in these patients, even usual therapeutic doses of methadone may decrease respiratory drive to the point of apnea [see Warnings and Precautions (5.1)].
+## 5.6 Risks of Concomitant Use of Cytochrome P450 3A4, 2B6, 2C19, 2C9, or 2D6 Inhibitors or Discontinuation of P450 3A4, 2B6, 2C19, or 2C9 Inducers
 
-## 5.7 Interactions with CNS Depressants and Illicit Drugs
+Concomitant use of DISKETS with CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors, may increase plasma concentrations of methadone, prolong opioid adverse reactions, and may cause potentially fatal respiratory depression, particularly when an inhibitor is added after a stable dose of DISKETS is achieved.
+Similarly, discontinuation of concomitant CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers in DISKETS-treated patients may increase methadone plasma concentrations resulting in fatal respiratory depression.
+Consider dosage reduction of DISKETS when using concomitant CYP3A4, CYP2B6, CYP2C19, CYP2C9 or CYP2D6 inhibitors or discontinuing CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers in methadone-treated patients, and follow patients closely at frequent intervals for signs and symptoms of respiratory depression and sedation [see Drug Interactions (7)].
 
-Hypotension, profound sedation, coma, or respiratory depression may result if methadone is used concomitantly with other CNS depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, other opioids).
-When considering the use of DISKETS in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient’s response, including the degree of tolerance that has developed to CNS depression.
+Addition of CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers or discontinuation of CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors in patients treated with DISKETS may decrease methadone plasma concentrations, reducing efficacy and may lead to opioid withdrawal symptoms in patients physically dependent on methadone.
+When using DISKETS with CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers or discontinuing CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors, follow patients for signs or symptoms of opioid withdrawal and consider increasing the DISKETS dosage as needed [see Drug Interactions (7)].
+
+## 5.7 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
+
+The use of DISKETS in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
+
+Patients with Chronic Pulmonary Disease
+
+DISKETS-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of DISKETS [see Warnings and Precautions (5.1)].
+
+Elderly, Cachectic, or Debilitated Patients
+
+Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.1)].
+
+Monitor such patients closely, particularly when initiating and titrating DISKETS and when DISKETS is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.8)].
+
+## 5.8 Risks Due to Concomitant Use with CNS Depressants and Illicit Drugs
+
+Profound sedation, respiratory depression, coma, and death may result if methadone is used concomitantly with other CNS depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, other opioids).
+When considering the use of DISKETS Dispersible Tablets in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient’s response, including the degree of tolerance that has developed to CNS depression.
 Additionally, consider the patient’s use, if any, of alcohol or illicit drugs that cause CNS depression.
-If methadone therapy is to be initiated in a patient taking a CNS depressant, start with a lower methadone dose than usual and monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant CNS depressant [see Drug Interactions (7.2)].
+If methadone therapy is to be initiated in a patient taking a CNS depressant, start with a lower methadone dose than usual and monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant CNS depressant [see Drug Interactions (7)].
 
 Deaths associated with illicit use of methadone have frequently involved concomitant benzodiazepine abuse.
 
-## 5.8 Hypotensive Effect
+## 5.9 Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
 
-Methadone may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
-There is an increased risk in patients whose ability to maintain normal blood pressure is compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) [see Drug Interactions (7.2)].
-Monitor these patients for signs of hypotension after initiating or titrating the dose of DISKETS.
+Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of DISKETS with serotonergic drugs.
+Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
+This may occur within the recommended dosage range.
 
-## 5.9 Use in Patients with Head Injury or Increased Intracranial Pressure
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination, rigidity), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+The onset of symptoms generally occurs within several hours to a few days of concomitant use, but may occur later than that.
+Discontinue DISKETS if serotonin syndrome is suspected.
 
-Monitor patients taking DISKETS who may be susceptible to the intracranial effects of CO2 retention (e.g. those with evidence of increased intracranial pressure or brain tumors) for signs of sedation and respiratory depression, particularly when initiating therapy with methadone.
-Methadone may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+## 5.10 Adrenal Insufficiency
+
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
+If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
+Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
+Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
+The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
+
+## 5.11 Severe Hypotension
+
+- Methadone may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+  There is an increased risk in patients whose ability to maintain normal blood pressure is compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) [see Drug Interactions (7)].
+  Monitor these patients for signs of hypotension after initiating or titrating the dosage of DISKETS Dispersible Tablets.
+  In patients with circulatory shock, DISKETS may cause vasodilation that can further reduce cardiac output and blood pressure.
+  Avoid the use of DISKETS is patients with circulatory shock.
+
+## 5.12 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+
+In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors).
+DISKETS may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with methadone.
 Opioids may also obscure the clinical course in a patient with a head injury.
 
 Avoid the use of methadone in patients with impaired consciousness or coma.
 
-## 5.10 Use in Patients with Gastrointestinal Conditions
+## 5.13 Risks of Use in Patients with Gastrointestinal Conditions
 
-DISKETS are contraindicated in patients with paralytic ileus.
-Avoid the use of DISKETS in patients with other gastrointestinal obstruction.
-
-Methadone may cause spasm of the sphincter of Oddi.
-Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+DISKETS Dispersible Tablets are contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
+The methadone in DISKETS may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in the serum amylase.
+Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
 
-## 5.11 Use in Patients with Convulsive or Seizure Disorders
+## 5.14 Increased Risks of Seizure in Patients with Seizure Disorders
 
-Methadone may aggravate convulsions in patients with convulsive disorders, and may induce or aggravate seizures in some clinical settings.
-Monitor patients with a history of seizure disorders for worsened seizure control during DISKETS therapy.
+Methadone may increase frequency of seizures in patients with seizure disorders, and increase the risks of seizures occurring in other clinical settings associated with seizures.
+Monitor patients with a history of seizure disorders for worsened seizure control during DISKETS Dispersible Tablets therapy.
 
-## 5.12 Avoidance of Withdrawal
+## 5.15 Withdrawal
 
-Avoid the use of partial agonists or mixed agonist/antagonist analgesics (i.e., buprenorphine, pentazocine, nalbuphine, and butorphanol) in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including methadone.
-In these patients, partial agonists or mixed agonists/antagonists analgesics may precipitate withdrawal symptoms [see Drug Interactions (7.4)].
+Avoid the use of mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist, including DISKETS Dispersible Tablets.
+In these patients, mixed agonists/antagonist and partial agonist analgesics may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
-When discontinuing DISKETS, gradually taper the dose [see Dosage and Administration (2.3, 2.4)].
-Do not abruptly discontinue DISKETS.
+When discontinuing DISKETS Dispersible Tablets, gradually taper the dosage [see Dosage and Administration (2.4, 2.5)].
+Do not abruptly discontinue DISKETS Dispersible Tablets [see Drug Abuse and Dependence (9.3)].
 
-## 5.13 Driving and Operating Machinery
+## 5.16 Risks of Driving and Operating Machinery
 
-Methadone may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
-Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of DISKETS and know how they will react to the medication.
+DISKETS Dispersible Tablets may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
+Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of DISKETS Dispersible Tablets and know how they will react to the medication [see Patient Counseling Information (17)].
+
+## 5.17 Laboratory Test Interactions
+
+False positive urine drug screens for methadone have been reported for several drugs including diphenhydramine, doxylamine, clomipramaine, chlorpromazine, thioridazine, quetiapine, and verapamil.

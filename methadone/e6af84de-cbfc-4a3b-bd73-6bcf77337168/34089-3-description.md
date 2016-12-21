@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Methadone hydrochloride is chemically described as 6-(dimethylamino)-4,4-diphenyl-3-heptanone hydrochloride.
-Methadone hydrochloride USP is a white, crystalline material that is water-soluble.
+Methadone hydrochloride USP is a fine white powder.
 Its molecular formula is C21H27NO•HCl and it has a molecular weight of 345.91.
 Methadone hydrochloride has a melting point of 235°C, and a pKa of 8.25 in water at 20°C.
 Its octanol/water partition coefficient at pH 7.4 is 117.
