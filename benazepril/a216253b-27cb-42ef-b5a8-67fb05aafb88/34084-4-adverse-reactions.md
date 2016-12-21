@@ -20,4 +20,4 @@ Hematologic: Thrombocytopenia and hemolytic anemia.
 Neurologic/Psychiatric: Anxiety, decreased libido, hypertonia, insomnia, nervousness, and paresthesia.
 Other: Fatigue, asthma, bronchitis, dyspnea, sinusitis, urinary tract infection, frequent urination, infection, arthritis, impotence, alopecia, arthralgia, myalgia, asthenia, sweating.
 
-Laboratory Abnormalities: Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes [see Warnings and Precautions (5)] have been reported, as have incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria.
+Laboratory Abnormalities: Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes [see Warnings and Precautions (5.6)] have been reported, as have incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria.

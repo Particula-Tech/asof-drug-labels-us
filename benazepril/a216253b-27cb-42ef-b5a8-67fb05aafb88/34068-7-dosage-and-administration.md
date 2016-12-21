@@ -14,7 +14,7 @@ PEDIATRIC PATIENTS 6 YEARS OF AGE AND OLDER The recommended starting dose for pe
 Titrate as needed to 0.6 mg/kg once per day.
 Doses above 0.6 mg/kg (or in excess of 40 mg daily) have not been studied in pediatric patients.
 
-Benazepril HCl tablets, USP is not recommended in pediatric patients less than 6 years of age or in pediatric patients with GFR less than 30 mL/min/1.73 m² [see Use in Specific Populations (8)].
+Benazepril HCl tablets, USP is not recommended in pediatric patients less than 6 years of age or in pediatric patients with GFR less than 30 mL/min/1.73 m² [see Use in Specific Populations (8.4)].
 
 ## 2.2 Dose Adjustment for Renal Impairment
 

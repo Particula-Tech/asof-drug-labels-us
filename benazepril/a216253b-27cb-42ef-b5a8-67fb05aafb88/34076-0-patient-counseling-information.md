@@ -20,4 +20,4 @@ Hypoglycemia: Tell diabetic patients treated with oral antidiabetic agents or in
 Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-07-2015-00
+10-2015-01
