@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+See FDA-Approved Patient Labeling (Patient Information).
+
 ## 17.1 Information for the Patient
 
 Physicians should discuss the following with their patients:
@@ -11,4 +13,4 @@ Physicians should discuss the following with their patients:
   If capsules are accidentally opened or damaged, rigorous precautions should be taken with the capsule contents to avoid inhalation or contact with the skin or mucous membranes.
 
 - The medication should be kept away from children and pets.Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807Rev.
-  10-2015-02
+  01-2016-03
