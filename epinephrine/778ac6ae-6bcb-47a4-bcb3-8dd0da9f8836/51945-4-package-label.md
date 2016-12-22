@@ -37,7 +37,7 @@ Manufactured for Mylan Specialty L.P., Morgantown, WV 26505 USA by Meridian Medi
 Copyright© 2016 Meridian Medical Technologies.
 All rights reserved.
 
-0001958 MS:10202:2C:R1
+0001970 MS:10202:2C:R2
 
 # PRINCIPAL DISPLAY PANEL – 0.15 mg
 
@@ -78,4 +78,4 @@ Manufactured for Mylan Specialty L.P., Morgantown, WV 26505 USA by Meridian Medi
 Copyright© 2016 Meridian Medical Technologies.
 All rights reserved.
 
-0001959 MS:10102:2C:R1
+0001971 MS:10102:2C:R2
