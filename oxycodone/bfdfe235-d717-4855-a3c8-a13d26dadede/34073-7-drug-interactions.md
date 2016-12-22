@@ -1,43 +1,39 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 CNS Depressants
+Table 4 includes clinically significant drug interactions with OXYCONTIN.
 
-The concomitant use of OXYCONTIN and other CNS depressants including sedatives, hypnotics, tranquilizers, general anesthetics, phenothiazines, other opioids, and alcohol can increase the risk of respiratory depression, profound sedation, coma, or death.
-Monitor patients receiving CNS depressants and OXYCONTIN for signs of respiratory depression, sedation, and hypotension.
+Table 4: Clinically Significant Drug Interactions with OXYCONTIN
 
-When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [see Dosage and Administration (2.6) and Warnings and Precautions (5.4)].
-
-## 7.2 Drugs Affecting Cytochrome P450 Isoenzymes
-
-Inhibitors of CYP3A4 and 2D6
-
-Because the CYP3A4 isoenzyme plays a major role in the metabolism of oxycodone, drugs that inhibit CYP3A4 activity may cause decreased clearance of oxycodone which could lead to an increase in oxycodone plasma concentrations and result in increased or prolonged opioid effects.
-These effects could be more pronounced with concomitant use of CYP2D6 and 3A4 inhibitors.
-If co-administration with OXYCONTIN is necessary, monitor patients for respiratory depression and sedation at frequent intervals and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)].
-
-Inducers of CYP3A4
-
-CYP450 3A4 inducers may induce the metabolism of oxycodone and, therefore, may cause increased clearance of the drug which could lead to a decrease in oxycodone plasma concentrations, lack of efficacy or, possibly, development of an abstinence syndrome in a patient who had developed physical dependence to oxycodone.
-If co-administration with OXYCONTIN is necessary, monitor for signs of opioid withdrawal and consider dose adjustments until stable drug effects are achieved.
-
-After stopping the treatment of a CYP3A4 inducer, as the effects of the inducer decline, the oxycodone plasma concentration will increase which could increase or prolong both the therapeutic and adverse effects, and may cause serious respiratory depression [see Clinical Pharmacology (12.3)].
-
-## 7.3 Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
-
-Mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) and partial agonist (buprenorphine) analgesics may reduce the analgesic effect of oxycodone or precipitate withdrawal symptoms.
-Avoid the use of mixed agonist/antagonist and partial agonist analgesics in patients receiving OXYCONTIN.
-
-## 7.4 Muscle Relaxants
-
-Oxycodone may enhance the neuromuscular blocking action of true skeletal muscle relaxants and produce an increased degree of respiratory depression.
-Monitor patients receiving muscle relaxants and OXYCONTIN for signs of respiratory depression that may be greater than otherwise expected.
-
-## 7.5 Diuretics
-
-Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
-Opioids may also lead to acute retention of urine by causing spasm of the sphincter of the bladder, particularly in men with enlarged prostates.
-
-## 7.6 Anticholinergics
-
-Anticholinergics or other medications with anticholinergic activity when used concurrently with opioid analgesics may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
-Monitor patients for signs of urinary retention or reduced gastric motility when OXYCONTIN is used concurrently with anticholinergic drugs.
+| Inhibitors of CYP3A4 and CYP2D6 |  |
+| --- | --- |
+| Clinical Impact: | The concomitant use of OXYCONTIN and CYP3A4 inhibitors can increase the plasma concentration of oxycodone, resulting in increased or prolonged opioid effects. These effects could be more pronounced with concomitant use of OXYCONTIN and CYP2D6 and CYP3A4 inhibitors, particularly when an inhibitor is added after a stable dose of OXYCONTIN is achieved [see Warnings and Precautions (5.4)]. After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the oxycodone plasma concentration will decrease [see Clinical Pharmacology (12.3)], resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to oxycodone. |
+| Intervention: | If concomitant use is necessary, consider dosage reduction of OXYCONTIN until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals. If a CYP3A4 inhibitor is discontinued, consider increasing the OXYCONTIN dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. |
+| Examples | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir) |
+| CYP3A4 Inducers |  |
+| Clinical Impact: | The concomitant use of OXYCONTIN and CYP3A4 inducers can decrease the plasma concentration of oxycodone [see Clinical Pharmacology (12.3)], resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to oxycodone [see Warnings and Precautions (5.4)]. After stopping a CYP3A4 inducer, as the effects of the inducer decline, the oxycodone plasma concentration will increase [see Clinical Pharmacology (12.3)], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression. |
+| Intervention: Examples: | If concomitant use is necessary, consider increasing the OXYCONTIN dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider OXYCONTIN dosage reduction and monitor for signs of respiratory depression. Rifampin, carbamazepine, phenytoin |
+| Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
+| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Dosage and Administration (2.6), Warnings and Precautions (5.5)]. |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Serotonergic Drugs |  |
+| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
+| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue OXYCONTIN if serotonin syndrome is suspected. |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.2)]. |
+| Intervention: | The use of OXYCONTIN is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
+| Examples: | phenelzine, tranylcypromine, linezolid |
+| Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
+| Clinical Impact: | May reduce the analgesic effect of OXYCONTIN and/or precipitate withdrawal symptoms. |
+| Intervention: | Avoid concomitant use. |
+| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
+| Muscle Relaxants |  |
+| Clinical Impact: | Oxycodone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of OXYCONTIN and/or the muscle relaxant as necessary. |
+| Diuretics |  |
+| Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
+| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
+| Anticholinergic Drugs |  |
+| Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
+| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when OXYCONTIN is used concomitantly with anticholinergic drugs. |

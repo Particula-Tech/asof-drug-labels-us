@@ -14,10 +14,6 @@ OXYCONTIN (oxycodone hydrochloride) extended-release tablets 60 mg are film-coat
 
 OXYCONTIN (oxycodone hydrochloride) extended-release tablets 80 mg are film-coated, round, green-colored, bi-convex tablets debossed with OP on one side and 80 on the other and are supplied as child-resistant closure, opaque plastic bottles of 100 (NDC 59011-480-10) and unit dose packaging with 10 individually numbered tablets per card; two cards per glue end carton (NDC 59011-480-20).
 
-Store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F).
+Store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 
 Dispense in tight, light-resistant container.
-
-CAUTION
-
-DEA FORM REQUIRED

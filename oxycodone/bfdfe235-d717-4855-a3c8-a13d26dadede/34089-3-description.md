@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-OXYCONTIN® (oxycodone hydrochloride) extended-release tablets is an opioid analgesic supplied in 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablets for oral administration.
+OXYCONTIN® (oxycodone hydrochloride) extended-release tablets is an opioid agonist supplied in 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablets for oral administration.
 The tablet strengths describe the amount of oxycodone per tablet as the hydrochloride salt.
 The structural formula for oxycodone hydrochloride is as follows:
 
