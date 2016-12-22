@@ -4,10 +4,12 @@ The following serious adverse reactions are described elsewhere in the labeling:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- QTc Prolongation [see Warnings and Precautions (5.7)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- Hypotensive Effects [see Warnings and Precautions (5.8)]
-- Interactions with Other CNS Depressants [see Warnings and Precautions (5.4)]
+- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.4)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.6)]
+- QTc Prolongation [see Warnings and Precautions (5.7)]
+- Severe Hypotension [see Warnings and Precautions (5.8)]
+- Hepatotoxicity [see Warnings and Precautions (5.10)]
 - Application Site Skin Reactions [see Warnings and Precautions (5.11)]
 - Anaphylactic/Allergic Reactions [see Warnings and Precautions (5.12)]
 - Gastrointestinal Effects [see Warnings and Precautions (5.15)]
@@ -83,7 +85,7 @@ The adverse reactions seen in controlled and open-label studies are presented be
 
 The most common adverse reactions (≥ 5%) reported by patients treated with BUTRANS in the clinical trials were nausea, headache, application site pruritus, dizziness, constipation, somnolence, vomiting, application site erythema, dry mouth, and application site rash.
 
-The common (≥ 1% to < 5%) adverse reactions reported by patients treated with BUTRANS in the clinical trials organized by MedDRA (Medical Dictionary for Regulatory Activities) System Organ Class were:
+The common(≥ 1% to < 5%) adverse reactions reported by patients treated with BUTRANS in the clinical trials organized by MedDRA (Medical Dictionary for Regulatory Activities) System Organ Class were:
 
 Gastrointestinal disorders: diarrhea, dyspepsia, and upper abdominal pain
 
@@ -110,3 +112,16 @@ Vascular disorders: hypertension
 Other less common adverse reactions, including those known to occur with opioid treatment, that were seen in < 1% of the patients in the BUTRANS trials include the following in alphabetical order:
 
 Abdominal distention, abdominal pain, accidental injury, affect lability, agitation, alanine aminotransferase increased, angina pectoris, angioedema, apathy, application site dermatitis, asthma aggravated, bradycardia, chills, confusional state, contact dermatitis, coordination abnormal, dehydration, depersonalization, depressed level of consciousness, depressed mood, disorientation, disturbance in attention, diverticulitis, drug hypersensitivity, drug withdrawal syndrome, dry eye, dry skin, dysarthria, dysgeusia, dysphagia, euphoric mood, face edema, flatulence, flushing, gait disturbance, hallucination, hiccups, hot flush, hyperventilation, hypotension, hypoventilation, ileus, insomnia, libido decreased, loss of consciousness, malaise, memory impairment, mental impairment, mental status changes, miosis, muscle weakness, nervousness, nightmare, orthostatic hypotension, palpitations, psychotic disorder, respiration abnormal, respiratory depression, respiratory distress, respiratory failure, restlessness, rhinitis, sedation, sexual dysfunction, syncope, tachycardia, tinnitus, urinary hesitation, urinary incontinence, urinary retention, urticaria, vasodilatation, vertigo, vision blurred, visual disturbance, weight decreased, and wheezing.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of buprenorphine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in BUTRANS.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

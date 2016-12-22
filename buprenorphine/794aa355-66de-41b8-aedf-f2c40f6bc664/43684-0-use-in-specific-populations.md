@@ -2,43 +2,62 @@
 
 ## 8.1 Pregnancy
 
+Risk Summary
+
+Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.3)].
+Available data with BUTRANS in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
+In animal reproduction studies, buprenorphine caused an increase in the number of stillborn offspring, reduced litter size, and reduced offspring growth in rats at maternal exposure levels that were approximately 10 times that of human subjects who received one BUTRANS 20 mcg/hour, the maximum recommended human dose (MRHD) [see Data].
+Based on animal data, advise pregnant women of the potential risk to a fetus.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
 Clinical Considerations
 
 Fetal/neonatal adverse reactions Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome, such as poor feeding, diarrhea, irritability, tremor, rigidity, and seizures, and manage accordingly [see Warnings and Precautions (5.3)].
+Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
+The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.3)].
 
-Teratogenic Effects - Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
-BUTRANS should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Labor and Delivery Opioids cross the placenta and may produce respiratory depression in neonates.
+An opioid antagonist such as naloxone must be available for reversal of opioid-induced respiratory depression in the neonate.
+BUTRANS is not recommended for use in women immediately prior to labor, when shorter acting analgesics or other analgesic techniques are more appropriate.
+Opioid analgesics, including BUTRANS, can prolong labor through actions that temporarily reduce the strength, duration, and frequency of uterine contractions.
+However, this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
 
-In animal studies, buprenorphine caused an increase in the number of stillborn offspring, reduced litter size, and reduced offspring growth in rats at maternal exposure levels that were approximately 10 times that of human subjects who received one BUTRANS 20 mcg/hour, the maximum recommended human dose (MRHD).
+Data
 
-Studies in rats and rabbits demonstrated no evidence of teratogenicity following BUTRANS or subcutaneous (SC) administration of buprenorphine during the period of major organogenesis.
-Rats were administered up to one BUTRANS 20 mcg/hour every 3 days (gestation days 6, 9, 12, & 15) or received daily SC buprenorphine up to 5 mg/kg (gestation days 6-17).
-Rabbits were administered four BUTRANS 20 mcg/hour every 3 days (gestation days 6, 9, 12, 15, 18, & 19) or received daily SC buprenorphine up to 5 mg/kg (gestation days 6-19).
+Animal Data
+
+Studies in rats and rabbits demonstrated no evidence of teratogenicity following BUTRANS or subcutaneous (SC) administration of buprenorphine during the period of organogenesis.
+Rats were administered up to one BUTRANS 20 mcg/hour every 3 days (Gestation Days 6, 9, 12, & 15) or received daily SC buprenorphine up to 5 mg/kg (Gestation Days 6 to 17).
+Rabbits were administered four BUTRANS 20 mcg/hour every 3 days (Gestation Days 6, 9, 12, 15, 18, and 19) or received daily SC buprenorphine up to 5 mg/kg (Gestation Days 6-19).
 No teratogenicity was observed at any dose.
 AUC values for buprenorphine with BUTRANS application and SC injection were approximately 110 and 140 times, respectively, that of human subjects who received the MRHD of one BUTRANS 20 mcg/hour.
 
-Non-Teratogenic Effects In a peri- and post-natal study conducted in pregnant and lactating rats, administration of buprenorphine either as BUTRANS or SC buprenorphine was associated with toxicity to offspring.
+In a pre- and post-natal study conducted in pregnant and lactating rats, administration of buprenorphine either as BUTRANS or SC buprenorphine was associated with toxicity to offspring.
 Buprenorphine was present in maternal milk.
-Pregnant rats were administered 1/4 of one BUTRANS 5 mcg/hour every 3 days or received daily SC buprenorphine at doses of 0.05, 0.5, or 5 mg/kg from gestation day 6 to lactation day 21 (weaning).
+Pregnant rats were administered 1/4 of one BUTRANS 5 mcg/hour every 3 days or received daily SC buprenorphine at doses of 0.05, 0.5, or 5 mg/kg from Gestation Day 6 to Lactation Day 21 (weaning).
 Administration of BUTRANS or SC buprenorphine at 0.5 or 5 mg/kg caused maternal toxicity and an increase in the number of stillborns, reduced litter size, and reduced offspring growth at maternal exposure levels that were approximately 10 times that of human subjects who received the MRHD of one BUTRANS 20 mcg/hour.
 Maternal toxicity was also observed at the no observed adverse effect level (NOAEL) for offspring.
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-Opioids cross the placenta and may produce respiratory depression in neonates.
-BUTRANS is not for use in women during and immediately prior to labor, when shorter acting analgesics or other analgesic techniques are more appropriate.
-Opioid analgesics can prolong labor through actions that temporarily reduce the strength, duration, and frequency of uterine contractions.
-However this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
+Risk Summary
 
-## 8.3 Nursing Mothers
+Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with BUTRANS.
 
-Buprenorphine is excreted in breast milk.
-The amount of buprenorphine received by the infant varies depending on the maternal plasma concentration, the amount of milk ingested by the infant, and the extent of first pass metabolism.
+Clinical Considerations
 
-Withdrawal symptoms can occur in breast-feeding infants when maternal administration of buprenorphine is stopped.
+Monitor infants exposed to BUTRANS through breast milk for excess sedation and respiratory depression.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of buprenorphine is stopped or when breast-feeding is stopped.
 
-Because of the potential for adverse reactions in nursing infants from BUTRANS, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Preclinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -55,6 +74,9 @@ In a single-dose study of healthy elderly and healthy young subjects treated wit
 In a separate dose-escalation safety study, the pharmacokinetics in the healthy elderly and hypertensive elderly subjects taking thiazide diuretics were similar to those in the healthy young adults.
 In the elderly groups evaluated, adverse event rates were similar to or lower than rates in healthy young adult subjects, except for constipation and urinary retention, which were more common in the elderly.
 Although specific dose adjustments on the basis of advanced age are not required for pharmacokinetic reasons, use caution in the elderly population to ensure safe use [see Clinical Pharmacology (12.3)].
+
+Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
+Titrate the dosage of BUTRANS slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.5)].
 
 ## 8.6 Hepatic Impairment
 

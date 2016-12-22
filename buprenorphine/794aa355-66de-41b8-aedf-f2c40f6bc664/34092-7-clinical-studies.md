@@ -33,7 +33,7 @@ Patients with adequate analgesia and tolerable adverse effects on BUTRANS 20 mcg
 Fifty-seven percent of the patients who entered the open-label titration period were able to titrate to and tolerate the adverse effects of BUTRANS 20 mcg/hour and were randomized into a 12-week double-blind treatment phase.
 Twelve percent of patients discontinued due to an adverse event and 21% discontinued due to lack of a therapeutic effect during the open-label titration period.
 
-During the double-blind period, patients were permitted to take ibuprofen (200 mg tablets) or acetaminophen (500 mg tablets) every 4 hours as needed for supplemental analgesia (up to 3200 mg of ibuprofen and 4 grams of acetaminophen daily).
+During the double-blind period, patientswere permitted to take ibuprofen (200 mg tablets) or acetaminophen (500 mg tablets) every 4 hours as needed for supplemental analgesia (up to 3200 mg of ibuprofen and 4 grams of acetaminophen daily).
 Sixty-seven percent of patients treated with BUTRANS 20 mcg/hour and 58% of patients treated with BUTRANS 5 mcg/hour completed the 12-week treatment.
 Of the 219 patients randomized to BUTRANS 20 mcg/hour, 11% discontinued due to lack of efficacy and 13% due to adverse events.
 Of the 221 patients randomized to BUTRANS 5 mcg/hour, 24% discontinued due to lack of efficacy and 6% due to adverse events.
