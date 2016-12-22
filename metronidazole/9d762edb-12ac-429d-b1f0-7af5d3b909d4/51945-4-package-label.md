@@ -10,9 +10,7 @@ Metronidazole Metronidazole Injection USP
 
 (5 mg / mL)
 
-100 mL Sterile single dose Container
-
-Each 100 mL contains 500 mg Metronidazole USP 790 mg Sodium Chloride USP 47.6 mg Dibasic Sodium Phosphate Dried USP 22.9 mg Citric Acid Anhydrous USP pH 5.5 (4.5 to 7.0) Osmolarity 310 mOsmol/L (calc) Usual Dosage See Insert Do not add supplementary medication Store in moisture barrier overwrap at room temperature (77°F or 25°C) Rx Only
+100 mL STERILE SINGLE DOSE CONTAINER EACH 100 mL CONTAINS 500 mg METRONIDAZOLE USP 790 mg SODIUM CHLORIDE USP 47.6 mg DIBASIC SODIUM PHOSPHATE DRIED USP 22.9 mg CITRIC ACID ANHYDROUS USP pH 5.5 (4.5 TO 7.0) OSMOLARITY 310 mOsmol/L (CALC) USUAL DOSAGE SEE INSERT DO NOT ADD SUPPLEMENTARY MEDICATION STORE IN MOISTURE BARRIER OVERWRAP AT ROOM TEMPERATURE (77°F OR 25°C) AND PROTECT FROM LIGHT DURING STORAGE RX ONLY
 
 Manufactured By Baxter Logo PREMIER Pro ™ Rx USA
 

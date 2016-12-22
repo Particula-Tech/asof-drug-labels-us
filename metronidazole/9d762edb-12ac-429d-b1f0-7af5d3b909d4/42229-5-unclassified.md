@@ -26,9 +26,9 @@ Do not add supplementary medication.
 
 ## Preparation for Administration
 
-- 1.Suspend container from eyelet support.
-- 2.Remove protector from outlet port at bottom of container.
-- 3.Attach administration set.
+- •Suspend container from eyelet support.
+- •Remove protector from outlet port at bottom of container.
+- •Attach administration set.
   Refer to complete directions accompanying set.
 
 Manufactured by: Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA PREMIERPro™Rx

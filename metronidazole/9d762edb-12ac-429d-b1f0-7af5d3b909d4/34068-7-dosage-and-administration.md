@@ -31,8 +31,8 @@ If the administration of metronidazole cannot be separated from a hemodialysis s
 
 For surgical prophylactic use, to prevent postoperative infection in contaminated or potentially contaminated colorectal surgery, the recommended dosage schedule for adults is:
 
-- a.15 mg/kg infused over 30 to 60 minutes and completed approximately one hour before surgery; followed by
-- b.7.5 mg/kg infused over 30 to 60 minutes at 6 and 12 hours after the initial dose.
+- •15 mg/kg infused over 30 to 60 minutes and completed approximately one hour before surgery; followed by
+- •7.5 mg/kg infused over 30 to 60 minutes at 6 and 12 hours after the initial dose.
 
 It is important that (1) administration of the initial preoperative dose be completed approximately one hour before surgery so that adequate drug levels are present in the serum and tissues at the time of initial incision, and (2) Metronidazole Injection, USP be administered, if necessary, at 6-hour intervals to maintain effective drug levels.
 Prophylactic use of Metronidazole Injection, USP should be limited to the day of surgery only, following the above guidelines.
