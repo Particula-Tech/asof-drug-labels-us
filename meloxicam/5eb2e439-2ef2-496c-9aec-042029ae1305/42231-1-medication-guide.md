@@ -1,135 +1,167 @@
-Medication Guide
+Medication Guide for Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
 
-for
+What is the most important information I should know about medicines called
 
-Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
+Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?
 
-(See the end of this Medication Guide for a list of prescription NSAID medicines).
+NSAIDs can cause serious side effects, including:
 
-What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
+- Increased risk of a heart attack or stroke that can lead to death.
+  This risk may happen early in treatment and may increase:
 
-NSAID medicines may increase the chance of a heart attack or stroke that can lead to death.
-This chance increases:
+o with increasing doses of NSAIDs
 
-- with longer use of NSAID medicines
-- in people who have heart disease
+o with longer use of NSAIDs
 
-NSAID medicines should never be used right before or after a heart surgery called a "coronary artery bypass graft (CABG)."
+Do not take NSAIDs right before or after a heart surgery called a "coronary artery
 
-NSAID medicines can cause ulcers and bleeding in the stomach and intestines at any time during treatment.
-Ulcers and bleeding:
+bypass graft (CABG)."
 
-- can happen without warning symptoms
-- may cause death
+Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider tells you to.
+You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack.
 
-The chance of a person getting an ulcer or bleeding increases with:
+Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines:
 
-- taking medicines called "corticosteroids" and "anticoagulants"
-- longer use
-- smoking
-- drinking alcohol
-- older age
-- having poor health
+o anytime during use
 
-NSAID medicines should only be used:
+o without warning symptoms
 
-- exactly as prescribed
-- at the lowest dose possible for your treatment
-- for the shortest time needed
+o that may cause death
 
-What are Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
+The risk of getting an ulcer or bleeding increases with:
 
-NSAID medicines are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as:
+o past history of stomach ulcers, or stomach or intestinal bleeding with use of
 
-- different types of arthritis
-- menstrual cramps and other types of short-term pain
+NSAIDs
 
-Who should not take a Non-Steroidal Anti-Inflammatory Drug (NSAID)?
+o taking medicines called "corticosteroids", "anticoagulants", "SSRIs", or "SNRIs"
 
-Do not take an NSAID medicine:
+o increasing doses of NSAIDs
 
-- if you had an asthma attack, hives, or other allergic reaction with aspirin orany other NSAID medicine
-- for pain right before or after heart bypass surgery
+o older age
 
-Tell your healthcare provider:
+o longer use of NSAIDs
 
-- about all of your medical conditions
-- about all of the medicines you take.
-  NSAIDs and some other medicines caninteract with each other and cause serious side effects.
-  Keep a list of yourmedicines to show to your healthcare provider and pharmacist
-- if you are pregnant.
-  NSAID medicines should not be used by pregnant womenlate in their pregnancy
-- if you are breastfeeding.
-  Talk to your doctor
+o poor health o smoking
 
-What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
+o advanced liver disease
 
-| Serious side effects include: | Other side effects include: |
-| --- | --- |
-| • heart attack | • stomach pain |
-| • stroke | • constipation |
-| • high blood pressure | • diarrhea |
-| • heart failure from body swelling (fluid retention) | • gas |
-| • kidney problems including kidney failure | • heartburn |
-| • bleeding and ulcers in the stomach and | • nausea |
-| • intestine | • vomiting |
-| • low red blood cells (anemia) | • dizziness |
-| • life-threatening skin reactions |  |
-| • life-threatening allergic reactions |  |
-| • liver problems including liver failure |  |
-| • asthma attacks in people who have asthma |  |
+o drinking alcohol
 
-Get emergency help right away if you have any of the following symptoms:
+o bleeding problems
 
-| • shortness of breath or trouble breathing | • slurred speech |
-| --- | --- |
-| • chest pain | • swelling of the face or throat |
-| • weakness in one part or side of your body |  |
+NSAIDs should only be used:
 
-Stop your NSAID medicine and call your healthcare provider right away if you have any of the following symptoms:
+o exactly as prescribed
 
-| • nausea • more tired or weaker than usual • itching • your skin or eyes look yellow • stomach pain • flu-like symptoms • vomit blood | • there is blood in your bowel movement or it is black and sticky like tar • unusual weight gain • skin rash or blisters with fever • swelling of the arms and legs, hands and feet |
-| --- | --- |
+o at the lowest dose possible for your treatment
 
-These are not all the side effects with NSAID medicines.
-Talk to your healthcare provider or pharmacist for more information about NSAID medicines.
+o for the shortest time needed
+
+What are NSAIDs?
+
+NSAIDs are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as different types of arthritis, menstrual cramps, and other types of short-term pain.
+
+Who should not take NSAIDs?
+
+Do not take NSAIDs:
+
+- if you have had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs.
+- right before or after heart bypass surgery.
+
+Before taking NSAIDs, tell your healthcare provider about all of your medical conditions, including if you:
+
+- have liver or kidney problems
+- have high blood pressure
+- have asthma
+- are pregnant or plan to become pregnant.
+  Talk to your healthcare provider if you are considering taking NSAIDs during pregnancy.
+  You should not take NSAIDs after 29 weeks of pregnancy.
+- are breastfeeding or plan to breast feed.
+
+Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
+
+NSAIDs and some other medicines can interact with each other and cause serious side effects.
+Do not start taking any new medicine without talking to your healthcare provider first.
+
+What are the possible side effects of NSAIDs?
+
+NSAIDs can cause serious side effects, including:
+
+See "What is the most important information I should know about medicines called
+
+Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?"
+
+- new or worse high blood pressure
+- heart failure
+- liver problems including liver failure
+- kidney problems including kidney failure
+- low red blood cells (anemia)
+- life-threatening skin reactions
+- life-threatening allergic reactions
+- Other side effects of NSAIDs include: stomach pain, constipation, diarrhea, gas,
+- heartburn, nausea, vomiting, and dizziness.
+
+Get emergency help right away if you get any of the following symptoms:
+
+shortness of breath or trouble breathing
+
+- slurred speech
+- chest pain
+- swelling of the face or throat
+- weakness in one part or side of your body
+
+Stop taking your NSAID and call your healthcare provider right away if you get any
+
+of the following symptoms:
+
+- nausea
+- vomit blood
+- more tired or weaker than usual
+- there is blood in your bowel movement or it is
+- diarrhea black and sticky like tar
+- itching
+- unusual weight gain
+- your skin or eyes look yellow
+- skin rash or blisters with fever
+- indigestion or stomach pain
+- swelling of the arms, legs, hands and feet
+- flu-like symptoms
+
+If you take too much of your NSAID, call your healthcare provider or get medical
+
+help right away.
+
+These are not all the possible side effects of NSAIDs.
+For more information, ask your
+
+healthcare provider or pharmacist about NSAIDs.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to
 
-Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs):
+FDA at 1-800-FDA-1088.
 
-Aspirin is an NSAID medicine but it does not increase the chance of a heartattack.
-Aspirin can cause bleeding in the brain, stomach, and intestines.Aspirin can also cause ulcers in the stomach and intestines.
+Other information about NSAIDs:
 
-Some of these NSAID medicines are sold in lower doses without aprescription (over-the-counter).
-Talk to your healthcare provider before usingover-the-counter NSAIDs for more than 10 days.
+- Aspirin is an NSAID but it does not increase the chance of a heart attack.
+  Aspirin can cause bleeding in the brain, stomach, and intestines.
+  Aspirin can also cause ulcers in the stomach and intestines.
+- Some NSAIDs are sold in lower doses without a prescription (over-the-counter).
+  Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
 
-NSAID medicines that need a prescription
-
-| Generic Name | Product Trademark(s) |
-| --- | --- |
-| Celecoxib | Celebrex |
-| Diclofenac | Cataflam, Voltaren, Arthrotec (combined with misoprostol) |
-| Diflunisal | Dolobid |
-| Etodolac | Lodine, Lodine XL |
-| Fenoprofen | Nalfon, Nalfon 200 |
-| Flurbiprofen | Ansaid |
-| Ibuprofen | Motrin, Tab-Profen, VicoprofenVicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke. (combined with hydrocodone), Combunox (combined with oxycodone) |
-| Indomethacin | Indocin, Indocin SR, Indo-Lemmon, Indomethagan |
-| Ketoprofen | Oruvail |
-| Ketorolac | Toradol |
-| Mefenamic Acid | Ponstel |
-| Meloxicam | Mobic |
-| Nabumetone | Relafen |
-| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naprosyn, Naprelan, PREVACID, NapraPAC (copackaged with lansoprazole) |
-| Oxaprozin | Daypro |
-| Piroxicam | Feldene |
-| Sulindac | Clinoril |
-| Tolmetin | Tolectin, Tolectin DS, Tolectin 600 |
-
-All registered trademarks in this document are the property of their respective owners.
+General information about the safe and effective use of NSAIDs Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use NSAIDs for a condition for which it was not prescribed.
+Do not give NSAIDs to other people, even if they have the same symptoms that you have.
+It may harm them.
+If you would like more information about NSAIDs, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
 
 Please address medical inquiries to, (MedicalAffairs@zydususa.com) Tel.: 1-877-993-8779.
 
-This Medication Guide has been approved by the US Food and Drug Administration.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+This product's label may have been updated.
+For current full prescribing information,
+
+please visit www.zydususa.com.

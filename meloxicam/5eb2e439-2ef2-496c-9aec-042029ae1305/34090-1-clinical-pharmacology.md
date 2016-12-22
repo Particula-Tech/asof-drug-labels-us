@@ -1,17 +1,20 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of meloxicam, like that of other NSAIDs, may be related to prostaglandin synthetase (cyclo-oxygenase) inhibition which is involved in the initial steps of the arachidonic acid cascade, resulting in the reduced formation of prostaglandins, thromboxanes and prostacylin.
-It is not completely understood how reduced synthesis of these compounds results in therapeutic efficacy.
+Meloxicam has analgesic, anti-inflammatory, and antipyretic properties.
 
-## 12.2 Pharmacodynamics
+The mechanism of action of meloxicam, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
 
-Meloxicam exhibits anti-inflammatory, analgesic, and antipyretic activities.
+Meloxicam is a potent inhibitor of prostaglandin synthesis in vitro.
+Meloxicam concentrations reached during therapy have produced in vivo effects.
+Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models.
+Prostaglandins are mediators of inflammation.
+Because meloxicam is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
 
 ## 12.3 Pharmacokinetics
 
-### Absorption
+Absorption
 
 The absolute bioavailability of meloxicam capsules was 89% following a single oral dose of 30 mg compared with 30 mg IV bolus injection.
 Following single intravenous doses, dose-proportional pharmacokinetics were shown in the range of 5 mg to 60 mg.
@@ -20,20 +23,27 @@ Mean Cmax was achieved within four to five hours after a 7.5 mg meloxicam tablet
 With multiple dosing, steady-state concentrations were reached by Day 5.
 A second meloxicam concentration peak occurs around 12 to 14 hours post-dose suggesting biliary recycling.
 
-Table 3Single Dose and Steady-State Pharmacokinetic Parameters for Oral 7.5 mg and 15 mg Meloxicam (Mean and % CV)The parameter values in the table are from various studies
+Meloxicam oral suspension doses of 7.5 mg/5 mL and 15 mg/10 mL have been found to be bioequivalent to meloxicam 7.5 mg and 15 mg capsules, respectively.
+Meloxicam capsules have been shown to be bioequivalent to meloxicam tablets.
 
-| Pharmacokinetic Parameters (% CV) |  | Steady State |  | Single Dose |  |
+Table 4Single Dose and Steady-State Pharmacokinetic Parameters for Oral 7.5 mg and 15 mg Meloxicam (Mean and % CV)1
+
+| Pharmacokinetic Parameters (% CV) | Steady State |  |  | Single Dose |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Healthy male adults (Fed)not under high fat conditions | Elderly males (Fed) | Elderly females (Fed) | Renal failure (Fasted) | Hepatic insufficiency (Fasted) |
-|  | 7.5 mgMeloxicam tabletstablets | 15 mg capsules | 15 mg capsules | 15 mg capsules | 15 mg capsules |
+|  | Healthy male adults (Fed)2 | Elderly males (Fed)2 | Elderly females (Fed)2 | Renal failure (Fasted) | Hepatic insufficiency (Fasted) |
+|  | 7.5 mg3tablets | 15 mg capsules | 15 mg capsules | 15 mg capsules | 15 mg capsules |
 | N | 18 | 5 | 8 | 12 | 12 |
 | Cmax [µg/mL] | 1.05 (20) | 2.3 (59) | 3.2 (24) | 0.59 (36) | 0.84 (29) |
 | tmax [h] | 4.9 (8) | 5 (12) | 6 (27) | 4 (65) | 10 (87) |
 | t½ [h] | 20.1 (29) | 21 (34) | 24 (34) | 18 (46) | 16 (29) |
 | CL/f {mL/min} | 8.8 (29) | 9.9 (76) | 5.1 (22) | 19 (43) | 11 (44) |
-| VzfVz/f =Dose/(AUC•Kel) [L] | 14.7(32) | 15 (42) | 10 (30) | 26 (44) | 14 (29) |
+| Vz/f4 [L] | 14.7(32) | 15 (42) | 10 (30) | 26 (44) | 14 (29) |
+| 1The parameter values in the table are from various studies |  |  |  |  |  |
+| 2not under high fat conditions |  |  |  |  |  |
+| 3Meloxicam tablets |  |  |  |  |  |
+| 4Vz/f=Dose/(AUC•Kel) |  |  |  |  |  |
 
-### Food and Antacid Effects
+Food and Antacid Effects
 
 Administration of meloxicam capsules following a high fat breakfast (75 g of fat) resulted in mean peak drug levels (i.e., Cmax) being increased by approximately 22% while the extent of absorption (AUC) was unchanged.
 The time to maximum concentration (Tmax) was achieved between 5 and 6 hours.
@@ -41,7 +51,7 @@ In comparison, neither the AUC nor the Cmax values for meloxicam suspension were
 No pharmacokinetic interaction was detected with concomitant administration of antacids.
 Based on these results, meloxicam can be administered without regard to timing of meals or concomitant administration of antacids.
 
-### Distribution
+Distribution
 
 The mean volume of distribution (Vss) of meloxicam is approximately 10 L. Meloxicam is ~99.4% bound to human plasma proteins (primarily albumin) within the therapeutic dose range.
 The fraction of protein binding is independent of drug concentration, over the clinically relevant concentration range, but decreases to ~99% in patients with renal disease.
@@ -52,19 +62,21 @@ Meloxicam concentrations in synovial fluid, after a single oral dose, range from
 The free fraction in synovial fluid is 2.5 times higher than in plasma, due to the lower albumin content in synovial fluid as compared to plasma.
 The significance of this penetration is unknown.
 
-### Metabolism
+Elimination
+
+Metabolism
 
 Meloxicam is extensively metabolized in the liver.
 Meloxicam metabolites include 5'-carboxy meloxicam (60% of dose), from P-450 mediated metabolism formed by oxidation of an intermediate metabolite 5'-hydroxymethyl meloxicam which is also excreted to a lesser extent (9% of dose).
 In vitro studies indicate that CYP2C9 (cytochrome P450 metabolizing enzyme) plays an important role in this metabolic pathway with a minor contribution of the CYP3A4 isozyme.
-Patients’ peroxidase activity is probably responsible for the other two metabolites which account for 16% and 4% of the administered dose, respectively.
+Patients' peroxidase activity is probably responsible for the other two metabolites which account for 16% and 4% of the administered dose, respectively.
 All the four metabolites are not known to have any in vivo pharmacological activity.
 
-### Excretion
+Excretion
 
 Meloxicam excretion is predominantly in the form of metabolites, and occurs to equal extents in the urine and feces.
 Only traces of the unchanged parent compound are excreted in the urine (0.2%) and feces (1.6%).
-The extent of the urinary excretion was confirmed for unlabeled multiple 7.5 mg doses: 0.5%, 6%, and 13% of the dose were found in urine in the form of meloxicam, and the 5'-hydroxymethyl and 5'-carboxy metabolites, respectively.
+The extent of the urinary excretion was confirmed for unlabeled multiple 7.5 mg doses: 0.5%, 6%, and 13% of the dose were found in urine in the form of meloxicam, and the 5'- hydroxymethyl and 5'-carboxy metabolites, respectively.
 There is significant biliary and/or enteral secretion of the drug.
 This was demonstrated when oral administration of cholestyramine following a single IV dose of meloxicam decreased the AUC of meloxicam by 50%.
 
@@ -72,7 +84,16 @@ The mean elimination half-life (t1/2) ranges from 15 hours to 20 hours.
 The elimination half-life is constant across dose levels indicating linear metabolism within the therapeutic dose range.
 Plasma clearance ranges from 7 to 9 mL/min.
 
-### Specific Populations
+Specific Populations
+
+Pediatric After single (0.25 mg/kg) dose administration and after achieving steady state (0.375 mg/kg/day), there was a general trend of approximately 30% lower exposure in younger patients (2 to 6 years old) as compared to the older patients (7 to 16 years old).
+The older patients had meloxicam exposures similar (single dose) or slightly reduced (steady state) to those in the adult patients, when using AUC values normalized to a dose of 0.25 mg/kg [see Dosage and Administration (2.4)].
+The meloxicam mean (SD) elimination half-life was 15.2 (10.1) and 13.0 hours (3.0) for the 2 to 6 year old patients, and 7 to 16 year old patients, respectively.
+
+In a covariate analysis, utilizing population pharmacokinetics body-weight, but not age, was the single predictive covariate for differences in the meloxicam apparent oral plasma clearance.
+The body-weight normalized apparent oral clearance values were adequate predictors of meloxicam exposure in pediatric patients.
+
+The pharmacokinetics of meloxicam in pediatric patients under 2 years of age have not been investigated.
 
 Geriatric
 
@@ -81,7 +102,7 @@ Elderly females (≥ 65 years of age) had a 47% higher AUCss and 32% higher Cmax
 Despite the increased total concentrations in the elderly females, the adverse event profile was comparable for both elderly patient populations.
 A smaller free fraction was found in elderly female patients in comparison to elderly male patients.
 
-Gender
+Sex
 
 Young females exhibited slightly lower plasma concentrations relative to young males.
 After single doses of 7.5 mg meloxicam, the mean elimination half-life was 19.5 hours for the female group as compared to 23.4 hours for the male group.
@@ -94,7 +115,7 @@ Hepatic Impairment
 Following a single 15 mg dose of meloxicam there was no marked difference in plasma concentrations in patients with mild (Child-Pugh Class I) or moderate (Child-Pugh Class II) hepatic impairment compared to healthy volunteers.
 Protein binding of meloxicam was not affected by hepatic impairment.
 No dosage adjustment is necessary in patients with mild to moderate hepatic impairment.
-Patients with severe hepatic impairment (Child-Pugh Class III) have not been adequately studied [see WARNINGS AND PRECAUTIONS (5.3) AND USE IN SPECIFIC POPULATIONS (8.6)].
+Patients with severe hepatic impairment (Child-Pugh Class III) have not been adequately studied [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
 
 Renal Impairment
 
@@ -103,20 +124,24 @@ Total drug plasma concentrations of meloxicam decreased and total clearance of m
 The higher meloxicam clearance in subjects with renal impairment may be due to increased fraction of unbound meloxicam which is available for hepatic metabolism and subsequent excretion.
 No dosage adjustment is necessary in patients with mild to moderate renal impairment.
 Patients with severe renal impairment have not been adequately studied.
-The use of meloxicam in subjects with severe renal impairment is not recommended [see WARNINGS AND PRECAUTIONS (5.6) AND USE IN SPECIFIC POPULATIONS (8.7)].
+The use of meloxicam in subjects with severe renal
+
+impairment is not recommended [see Dosage and Administration (2.5), Warnings and Precautions (5.6) and Use in Specific Populations (8.7)].
 
 Hemodialysis
 
 Following a single dose of meloxicam, the free Cmax plasma concentrations were higher in patients with renal failure on chronic hemodialysis (1% free fraction) in comparison to healthy volunteers (0.3% free fraction).
 Hemodialysis did not lower the total drug concentration in plasma; therefore, additional doses are not necessary after hemodialysis.
-Meloxicam is not dialyzable [see DOSAGE AND ADMINISTRATION (2.1), WARNINGS AND PRECAUTIONS (5.6) AND USE IN SPECIFIC POPULATIONS (8.7)].
+Meloxicam is not dialyzable [see Dosage and Administration (2.1), and Use in Specific Populations (8.7)].
 
-Drug Interactions
+Drug Interaction Studies
 
-Aspirin
+Aspirin:
 
+When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
 When meloxicam is administered with aspirin (1000 mg three times daily) to healthy volunteers, it tended to increase the AUC (10%) and Cmax (24%) of meloxicam.
-The clinical significance of this interaction is not known [see DRUG INTERACTIONS (7.2)].
+The clinical significance of this interaction is not known.
+See Table 3 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
 
 Cholestyramine
 
@@ -132,21 +157,22 @@ Concomitant administration of 200 mg cimetidine four times daily did not alter t
 Digoxin
 
 Meloxicam 15 mg once daily for 7 days did not alter the plasma concentration profile of digoxin after β-acetyldigoxin administration for 7 days at clinical doses.
+
 In vitro testing found no protein binding drug interaction between digoxin and meloxicam.
 
 Lithium
 
-In a study conducted in healthy subjects, mean pre-dose lithium concentration and AUC were increased by 21% in subjects receiving lithium doses ranging from 804 to 1072 mg twice daily with meloxicam 15 mg QD every day as compared to subjects receiving lithium alone [see DRUG INTERACTIONS (7.4)].
+In a study conducted in healthy subjects, mean pre-dose lithium concentration and AUC were increased by 21% in subjects receiving lithium doses ranging from 804 to 1072 mg twice daily with meloxicam 15 mg QD every day as compared to subjects receiving lithium alone [see Drug Interactions (7)].
 
 Methotrexate
 
 A study in 13 rheumatoid arthritis (RA) patients evaluated the effects of multiple doses of meloxicam on the pharmacokinetics of methotrexate taken once weekly.
 Meloxicam did not have a significant effect on the pharmacokinetics of single doses of methotrexate.
-In vitro, methotrexate did not displace meloxicam from its human serum binding sites [see DRUG INTERACTIONS (7.5)].
+In vitro, methotrexate did not displace meloxicam from its human serum binding sites [see Drug Interactions (7)].
 
 Warfarin
 
 The effect of meloxicam on the anticoagulant effect of warfarin was studied in a group of healthy subjects receiving daily doses of warfarin that produced an INR (International Normalized Ratio) between 1.2 and 1.8.
 In these subjects, meloxicam did not alter warfarin pharmacokinetics and the average anticoagulant effect of warfarin as determined by prothrombin time.
 However, one subject showed an increase in INR from 1.5 to 2.1.
-Caution should be used when administering meloxicam with warfarin since patients on warfarin may experience changes in INR and an increased risk of bleeding complications when a new medication is introduced [see DRUG INTERACTIONS (7.7)].
+Caution should be used when administering meloxicam with warfarin since patients on warfarin may experience changes in INR and an increased risk of bleeding complications when a new medication is introduced [see Drug Interactions (7)].
