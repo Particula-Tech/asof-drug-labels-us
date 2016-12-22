@@ -1,38 +1,44 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs Affecting Cytochrome P450 Isoenzymes
+Table 3 includes clinically significant drug interactions with HYSINGLA ER.
 
-Inhibitors of CYP3A4 Co-administration of HYSINGLA ER with ketoconazole, a strong CYP3A4 inhibitor, significantly increased the plasma concentrations of hydrocodone.
-Inhibition of CYP3A4 activity by inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), may prolong opioid effects.
-Caution is advised when initiating therapy with, currently taking, or discontinuing CYP3A4 inhibitors.
-Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)].
+Table 3: Clinically Significant Drug Interactions with HYSINGLA ER
 
-Inducers of CYP3A4 CYP3A4 inducers may induce the metabolism of hydrocodone and, therefore, may cause increased clearance of the drug which could lead to a decrease in hydrocodone plasma concentrations, lack of efficacy or, possibly, development of a withdrawal syndrome in a patient who had developed physical dependence to hydrocodone.
-If co-administration with HYSINGLA ER is necessary, monitor for signs of opioid withdrawal and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)].
-
-## 7.2 Central Nervous System Depressants
-
-The concomitant use of HYSINGLA ER with other CNS depressants including sedatives, hypnotics, tranquilizers, general anesthetics, phenothiazines, other opioids, and alcohol can increase the risk of respiratory depression, profound sedation, coma and death.
-Monitor patients receiving CNS depressants and HYSINGLA ER for signs of respiratory depression, sedation and hypotension.
-
-When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [see Warnings and Precautions (5.4)].
-
-## 7.3 Interactions with Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
-
-Mixed agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, and butorphanol) and partial agonist analgesics (buprenorphine) may reduce the analgesic effect of HYSINGLA ER or precipitate withdrawal symptoms in these patients.
-Avoid the use of mixed agonist/antagonist and partial agonist analgesics in patients receiving HYSINGLA ER.
-
-## 7.4 MAO Inhibitors
-
-HYSINGLA ER is not recommended for use in patients who have received MAO inhibitors within 14 days, because severe and unpredictable potentiation by MAO inhibitors has been reported with opioid analgesics.
-No specific interaction between hydrocodone and MAO inhibitors has been observed, but caution in the use of any opioid in patients taking this class of drugs is appropriate.
-
-## 7.5 Anticholinergics
-
-Anticholinergics or other drugs with anticholinergic activity when used concurrently with opioid analgesics may increase the risk of urinary retention or severe constipation, which may lead to paralytic ileus.
-Monitor patients for signs of urinary retention and constipation in addition to respiratory and central nervous system depression when HYSINGLA ER is used concurrently with anticholinergic drugs.
-
-## 7.6 Strong Laxatives
-
-Concomitant use of HYSINGLA ER with strong laxatives (e.g., lactulose), that rapidly increase gastrointestinal motility, may decrease hydrocodone absorption and result in decreased hydrocodone plasma levels.
-If HYSINGLA ER is used in these patients, closely monitor for the development of adverse events as well as changing analgesic requirements.
+| Inhibitors of CYP3A4 |  |
+| --- | --- |
+| Clinical Impact: | The concomitant use of HYSINGLA ER and CYP3A4 inhibitors can increase the plasma concentration of hydrocodone, resulting in increased or prolonged opioid effects. These effects could be more pronounced with concomitant use of HYSINGLA ER and CYP3A4 inhibitors, particularly when an inhibitor is added after a stable dose of HYSINGLA ER is achieved [see Warnings and Precautions (5.4)]. After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the hydrocodone plasma concentration will decrease [see Clinical Pharmacology (12.3)], resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to hydrocodone. |
+| Intervention: | If concomitant use is necessary, consider dosage reduction of HYSINGLA ER until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals. If a CYP3A4 inhibitor is discontinued, consider increasing the HYSINGLA ER dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. |
+| Examples | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir) |
+| CYP3A4 Inducers |  |
+| Clinical Impact: | The concomitant use of HYSINGLA ER and CYP3A4 inducers can decrease the plasma concentration of hydrocodone [see Clinical Pharmacology (12.3)], resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to hydrocodone [see Warnings and Precautions (5.4)]. After stopping a CYP3A4 inducer, as the effects of the inducer decline, the hydrocodone plasma concentration will increase [see Clinical Pharmacology (12.3)], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression. |
+| Intervention: | If concomitant use is necessary, consider increasing the HYSINGLA ER dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider HYSINGLA ER dosage reduction and monitor for signs of respiratory depression. |
+| Examples: | Rifampin, carbamazepine, phenytoin |
+| Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
+| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.5)]. |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Serotonergic Drugs |  |
+| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
+| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue HYSINGLA ER if serotonin syndrome is suspected. |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.2)]. |
+| Intervention: | The use of HYSINGLA ER is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
+| Examples: | Phenelzine, tranylcypromine, linezolid |
+| Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
+| Clinical Impact: | May reduce the analgesic effect of HYSINGLA ER and/or precipitate withdrawal symptoms. |
+| Intervention: | Avoid concomitant use. |
+| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
+| Muscle Relaxants |  |
+| Clinical Impact: | Hydrocodone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of HYSINGLA ER and/or the muscle relaxant as necessary. |
+| Diuretics |  |
+| Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
+| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
+| Anticholinergic Drugs |  |
+| Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
+| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when HYSINGLA ER is used concomitantly with anticholinergic drugs. |
+| Strong Laxatives |  |
+| Clinical Impact: | Concomitant use of HYSINGLA ER with strong laxatives that rapidly increase gastrointestinal motility, may decrease hydrocodone absorption and result in decreased hydrocodone plasma levels. |
+| Intervention: | If HYSINGLA ER is used in these patients, closely monitor for the development of adverse events as well as changing analgesic requirements. |
+| Example: | Lactulose |

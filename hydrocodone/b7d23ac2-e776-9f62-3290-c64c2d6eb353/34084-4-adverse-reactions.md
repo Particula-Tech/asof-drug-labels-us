@@ -5,9 +5,12 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- Interactions with Other CNS Depressants [see Warnings and Precautions (5.4)]
-- Hypotensive Effects [see Warnings and Precautions (5.8)]
-- Gastrointestinal Effects [see Warnings and Precautions (5.9, 5.10)]
+- Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.5)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
+- Severe Hypotension [see Warnings and Precautions (5.8)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.12)]
+- Seizures [see Warnings and Precautions (5.13)]
+- Withdrawal [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -58,3 +61,16 @@ The common (≥1% to <5%) adverse events reported by patients treated with HYSIN
 | Vascular disorders | hot flush, hypertension |
 
 Other less common adverse reactions that were seen in <1% of the patients in the HYSINGLA ER chronic pain clinical trials include the following in alphabetical order: abdominal discomfort, abdominal distention, agitation, asthenia, choking, confusional state, depressed mood, drug hypersensitivity, drug withdrawal syndrome, dysphagia, dyspnea, esophageal obstruction, flushing, hypogonadism, hypotension, hypoxia, irritability, libido decreased, malaise, mental impairment, mood altered, muscle twitching, edema, orthostatic hypotension, palpitations, presyncope, retching, syncope, thinking abnormal, thirst, tremor, and urinary retention.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of hydrocodone.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in HYSINGLA ER.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

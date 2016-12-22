@@ -2,49 +2,50 @@
 
 ## 12.1 Mechanism of Action
 
-Hydrocodone is a semi-synthetic opioid agonist with relative selectivity for the mu-opioid receptor, although it can interact with other opioid receptors at higher doses.
-Hydrocodone acts as an agonist binding to and activating opioid receptors in the brain and spinal cord, which are coupled to G-protein complexes and modulate synaptic transmission through adenylate cyclase.
-The pharmacological effects of hydrocodone including analgesia, euphoria, respiratory depression and physiological dependence are believed to be primarily mediated via μ opioid receptors.
+Hydrocodone is a full opioid agonist with relative selectivity for the mu-opioid receptor, although it can interact with other opioid receptors at higher doses.
+The principal therapeutic action of hydrocodone is analgesia.
+Like all full opioid agonists, there is no ceiling effect for analgesia with hydrocodone.
+Clinically, dosage is titrated to provide adequate analgesia and may be limited by adverse reactions, including respiratory and CNS depression.
+
+The precise mechanism of the analgesic action is unknown.
+However, specific CNS opioid receptors for endogenous compounds with opioid-like activity have been identified throughout the brain and spinal cord and are thought to play a role in the analgesic effects of this drug.
 
 ## 12.2 Pharmacodynamics
 
 Cardiac Electrophysiology QTc interval prolongation was studied in a double-blind, placebo- and positive-controlled 3-treatment parallel-group, dose-escalating study of HYSINGLA ER in 196 healthy subjects.
 QTc interval prolongation was observed following HYSINGLA ER 160 mg per day.
 The maximum mean (90% upper confidence bound) difference in the QTc interval between HYSINGLA ER and placebo (after baseline-correction) at steady state was 6 (9) milliseconds, 7 (10) milliseconds, and 10 (13) milliseconds at HYSINGLA ER doses of 80 mg, 120 mg and 160mg respectively.
-For clinical implications of the prolonged QTc interval, see Warnings and Precautions (5.14).
+For clinical implications of the prolonged QTc interval, see Warnings and Precautions (5.9).
 
-Central Nervous System The principal therapeutic action of hydrocodone is analgesia.
-In common with other opioids, hydrocodone causes respiratory depression, in part by a direct effect on the brainstem respiratory centers.
+Effects on the Central Nervous System Hydrocodone produces respiratory depression by direct action on brainstem respiratory centers.
 The respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.
-Opioids depress the cough reflex by direct effect on the cough center in the medulla.
 
 Hydrocodone causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origin may produce similar findings).
-Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [see Overdosage (10.1)].
-In addition to analgesia, the widely diverse effects of hydrocodone include drowsiness, changes in mood, decreased gastrointestinal motility, nausea, vomiting, and alterations of the endocrine and autonomic nervous system [see Clinical Pharmacology (12.2)].
+Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [see Overdosage (10)].
 
-Gastrointestinal Tract and Other Smooth Muscle Hydrocodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
+Effects on the Gastrointestinal Tract and Other Smooth Muscle Hydrocodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
-Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm resulting in constipation.
-Other opioid-induced effects may include a reduction in gastric, biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
 
-Cardiovascular System Hydrocodone may produce release of histamine with or without associated peripheral vasodilation.
-Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
+Effects on the Cardiovascular System Hydrocodone produces peripheral vasodilation, which may result in orthostatic hypotension or syncope Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 
-Endocrine System Opioids may influence the hypothalamic-pituitary-adrenal or -gonadal axes.
-Some changes that can be seen include an increase in serum prolactin, and decreases in plasma cortisol and testosterone.
-Clinical signs and symptoms may be manifest from these hormonal changes.
+Effects on the Endocrine System Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
+They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Immune System In vitro and animal studies indicate that opioids have a variety of effects on immune functions, depending on the context in which they are used.
+Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
+
+Effects on the Immune System Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
 The clinical significance of these findings is unknown.
+Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-Concentration/Exposure—Efficacy Relationships The minimum effective plasma concentration of hydrocodone for analgesia varies widely among patients, especially among patients who have been previously treated with agonist opioids.
-As a result, titrate the doses of individual patients to achieve a balance between therapeutic and adverse effects.
-The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, progression of disease, development of a new pain syndrome and/or potential development of analgesic tolerance.
+Concentration—Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 
-Concentration/Exposure—Adverse Experience Relationships There is a general relationship between increasing opioid plasma concentration and increasing frequency of adverse experiences such as nausea, vomiting, CNS effects, and respiratory depression.
-As with all opioids, the dose of HYSINGLA ER must be individualized [see Dosage and Administration (2.1, 2.2)].
-The effective analgesic dose for some patients will be too high to be tolerated by other patients.
+Concentration—Adverse Experience Relationships There is a relationship between increasing hydrocodone plasma concentration and increasing frequency of adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
 
 ## 12.3 Pharmacokinetics
 
@@ -52,10 +53,10 @@ Absorption HYSINGLA ER is a single-entity extended-release formulation of hydroc
 Peak plasma levels may occur in the range of 6 -30 hours after single dose HYSINGLA ER administration.
 
 Systemic exposure (AUC and Cmax) increased linearly with doses from 20 to 120 mg.
-Both Cmax and AUC increased slightly more than dose proportionally (Table 5).
+Both Cmax and AUC increased slightly more than dose proportionally (Table 6).
 The mean terminal half-life (t1/2) was similar for all HYSINGLA ER dose strengths ranging from 7 to 9 hours.
 
-Table 5 Mean (SD) Single-Dose Pharmacokinetic Parameters of HYSINGLA ER
+Table 6 Mean (SD) Single-Dose Pharmacokinetic Parameters of HYSINGLA ER
 
 | Dose Strength (mg) | AUCinf (ng•h/mL) | Cmax (ng/mL) | Tmax* (h) |
 | --- | --- | --- | --- |
@@ -66,8 +67,7 @@ Table 5 Mean (SD) Single-Dose Pharmacokinetic Parameters of HYSINGLA ER
 | 120 | 1787 (679) | 110 (44.1) | 14 (6, 30) |
 | * median (minimum, maximum) |  |  |  |
 
-As compared to an immediate-release hydrocodone combination product, HYSINGLA ER at the same daily dose results in similar bioavailability but with lower maximum concentrations at steady state.
-(Figure 3).
+As compared to an immediate-release hydrocodone combination product, HYSINGLA ER at the same daily dose results in similar bioavailability but with lower maximum concentrations at steady state (Figure 3).
 
 Figure 3.
 Mean Steady-State Plasma Hydrocodone Concentration Profile
@@ -76,9 +76,9 @@ Steady-state plasma hydrocodone concentrations were confirmed on day 3 of once-d
 The extent of accumulation of systemic exposure was 1.3 and 1.1 fold with respect to AUC and Cmax at steady-state.
 The mean terminal half-life (t1/2) at steady state was 7 hours.
 Median Tmax values were 14 hours (range: 12 to 24 hours) on both Day 1 and Day 5 following once daily administration of HYSINGLA ER for five days.
-Daily fluctuation in peak to trough plasma levels of hydrocodone were higher at 80 mg and 120 mg doses of HYSINGLA ER compared to 30 mg dose (Table 6).
+Daily fluctuation in peak to trough plasma levels of hydrocodone were higher at 80 mg and 120 mg doses of HYSINGLA ER compared to 30 mg dose (Table 7).
 
-Table 6 Mean (SD) Steady-State Hydrocodone Pharmacokinetics Parameters
+Table 7 Mean (SD) Steady-State Hydrocodone Pharmacokinetic Parameters
 
 | Regimen | AUC24,ss (ng•h/mL) | Cmax,ss (ng/mL) | Cmin,ss (ng/mL) | %Fluctuation* |
 | --- | --- | --- | --- | --- |
@@ -95,7 +95,7 @@ HYSINGLA ER may be administered without regard to meals.
 Distribution Following administration of HYSINGLA ER, the typical (70 kg adult) value of apparent volume of distribution (V/F) is 402 L, suggesting extensive tissue distribution.
 The extent of in vivo binding of hydrocodone to human plasma proteins was minimal with a mean % bound at 36%.
 
-Elimination Metabolism Hydrocodone exhibits a complex pattern of metabolism, including N-demethylation, O-demethylation, and 6-keto reduction to the corresponding 6-α- and 6-β-hydroxy metabolites.
+Elimination Metabolism Hydrocodone exhibits a complex pattern of metabolism, including N-demethylation, O-demethylation, and 6-keto reduction to the corresponding 6-α-and 6-β-hydroxy metabolites.
 CYP3A4 mediated N-demethylation to inactive norhydrocodone is the primary metabolic pathway of hydrocodone with a lower contribution from CYP2B6 and CYP2C19.
 The minor metabolite hydromorphone (<3% of the circulating parent hydrocodone) was mainly formed by CYP2D6 mediated O-demethylation with a smaller contribution by CYP2B6 and CYP2C19.
 Hydromorphone may contribute to the total analgesic effect of hydrocodone.
@@ -106,14 +106,14 @@ Renal clearance (CLr) of hydrocodone in healthy subjects was small (5.3 L/h) com
 Ninety-nine percent of the administered dose is eliminated within 72 hours.
 The mean terminal half-life (t1/2) was similar for all HYSINGLA ER dose strengths ranging from approximately 7 to 9 hours across the range of doses.
 
-Specific Populations Elderly (≥ 65 years) Following administration of 40 mg HYSINGLA ER, the pharmacokinetics of hydrocodone in healthy elderly subjects (65 to 77 years) are similar to the pharmacokinetics in healthy younger subjects (20 to 45 years).
+Specific Populations Age: Geriatric Patients Following administration of 40 mg HYSINGLA ER, the pharmacokinetics of hydrocodone in healthy elderly subjects (65 to 77 years) are similar to the pharmacokinetics in healthy younger subjects (20 to 45 years).
 There were no clinically meaningful increase in Cmax (16%) and AUC (15%) of hydrocodone in elderly as compared with younger adult subjects [see Use in Specific Populations (8.5)].
 
-Gender Systemic exposure of hydrocodone (Cmax and AUC) was similar between males and females.
+Sex Systemic exposure of hydrocodone (Cmax and AUC) was similar between males and females.
 
 Hepatic Impairment After a single dose of 20 mg HYSINGLA ER in subjects (8 each) with normal hepatic function, mild, moderate or severe hepatic impairment based on Child-Pugh classifications, mean hydrocodone Cmax values were 16, 15, 17, and 18 ng/mL, respectively.
 Mean hydrocodone AUC values were 342, 310, 390, and 415 ng.hr/mL for subjects with normal hepatic function, mild, moderate or severe hepatic impairment, respectively.
-Geometric mean hydrocodone Cmax values were -6%, 5%, and 5% and AUC values were -14%, 13%, and 4% in patients with mild, moderate or severe hepatic impairment, respectively, when compared with subjects with normal hepatic functions.
+Geometric mean hydrocodone Cmax values were -6%, 5%, and 5% and AUC values were -14%, 13%, and 4% in patients with mild, moderate or severe hepatic impairment, respectively, when compared with subjects with normal hepatic function.
 
 The mean in vivo plasma protein binding of hydrocodone across the groups was similar, ranging from 33% to 37% [see Use in Specific Populations (8.6)].
 
@@ -121,7 +121,7 @@ Renal Impairment After a single dose of 60 mg HYSINGLA ER in subjects (8 each) w
 Mean hydrocodone AUC values were 754, 942, 1222, 1220, and 932 ng.hr/mL for subjects with normal renal function, mild, moderate or severe renal impairment and ESRD with dialysis, respectively.
 Hydrocodone Cmax values were 14%, 23%, 11% and -13% and AUC values were 13%, 61%, 57% and 4% higher in patients with mild, moderate or severe renal impairment or end stage renal disease with dialysis, respectively [see Use in Specific Populations (8.7)].
 
-Drug Interaction Studies CYP3A4 Co-administration of HYSINGLA ER (20 mg single dose) and CYP3A4 inhibitor ketoconazole (200 mg BID for 6 days) increased mean hydrocodone AUC and Cmax by 135% and 78%, respectively [see Warnings and Precautions (5.11) and Drug Interactions (7.1)].
+Drug Interaction Studies CYP3A4 Co-administration of HYSINGLA ER (20 mg single dose) and CYP3A4 inhibitor ketoconazole (200 mg BID for 6 days) increased mean hydrocodone AUC and Cmax by 135% and 78%, respectively [see Warnings and Precautions (5.4) and Drug Interactions (7)].
 
 CYP2D6 The 90% confidence interval (CI) of the geometric means for hydrocodone AUCinf (98 to 115%), AUCt (98 to 115%), and Cmax (93 to 121%) values were within the range of 80 to 125% when a single dose of HYSINGLA ER 20 mg was co-administered with CYP2D6 inhibitor paroxetine (20 mg treatment each morning for 12 days).
 No differences in systemic exposure of hydrocodone were observed in the presence of paroxetine.

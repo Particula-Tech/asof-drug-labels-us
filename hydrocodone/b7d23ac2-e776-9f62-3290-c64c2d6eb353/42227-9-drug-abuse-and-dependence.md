@@ -2,41 +2,41 @@
 
 ## 9.1 Controlled Substance
 
-HYSINGLA ER contains hydrocodone bitartrate, a Schedule II controlled substance with a high potential for abuse similar to fentanyl, methadone, morphine, oxycodone, and oxymorphone.
-HYSINGLA ER can be abused and is subject to misuse, abuse, addiction and criminal diversion.
-The high drug content in the extended-release formulation adds to the risk of adverse outcomes from abuse and misuse.
+HYSINGLA ER contains hydrocodone bitartrate, a Schedule II controlled substance.
 
 ## 9.2 Abuse
 
-All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+HYSINGLA ER contains hydrocodone, a substance with a high potential for abuse similar to other opioids, including fentanyl, hydromorphone, methadone, morphine, oxycodone, oxymorphone, and tapentadol.
+HYSINGLA ER can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
-Drug abuse is the intentional non-therapeutic use of an over-the-counter or prescription drug, even once, for its rewarding psychological or physiological effects.
-Drug abuse includes, but is not limited to the following examples: the use of a prescription or over-the-counter drug to get “high,” or the use of steroids for performance enhancement and muscle build up.
+The high drug content in the extended-release formulation adds to the risk of adverse outcomes from abuse and misuse.
 
-Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and include: a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
+All patients treated with opioids require careful monitoring for signs of abuse and addiction because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 
-"Drug-seeking" behavior is very common to addicts and drug abusers.
-Drug seeking tactics include, but are not limited to, emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated claims of “loss” of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
-“Doctor shopping” (visiting multiple prescribers) to obtain additional prescriptions is common among drug abusers, people with untreated addiction, and criminals seeking drugs to sell.
+Prescription drug abuse is the intentional non-therapeutic use of a prescription drug, even once, for its rewarding psychological or physiological effects.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes: a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
+
+"Drug-seeking" behavior is very common in persons with substance use disorders.
+Drug seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
+“Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among drug abusers and people with untreated addiction.
 Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with poor pain control.
 
 Abuse and addiction are separate and distinct from physical dependence and tolerance.
-Physicians should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
+Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
 In addition, abuse of opioids can occur in the absence of true addiction.
 
-HYSINGLA ER can be diverted for non-medical use into illicit channels of distribution.
-Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by law, is strongly advised.
+HYSINGLA ER, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
+Risks Specific to Abuse of HYSINGLA ER HYSINGLA ER is for oral use only.
+Abuse of HYSINGLA ER poses a risk of overdose and death.
 Abuse may occur by taking intact tablets in quantities greater than prescribed or without legitimate purpose, by crushing and chewing or snorting the crushed formulation, or by injecting a solution made from the crushed formulation.
 The risk is increased with concurrent use of HYSINGLA ER with alcohol or other central nervous system depressants.
-
-Risks Specific to Abuse of HYSINGLA ER HYSINGLA ER is for oral use only.
-Abuse of HYSINGLA ER poses a risk of overdose and death..
 Taking cut, broken, chewed, crushed, or dissolved HYSINGLA ER increases the risk of overdose and death.
 
-With parenteral abuse, the inactive ingredients in HYSINGLA ER can result in death, local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
+With parenteral abuse, the inactive ingredients in HYSINGLA ER can result in local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis and valvular heart injury, embolism, and death.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases, such as hepatitis and HIV.
 
 Abuse Deterrence Studies HYSINGLA ER is formulated with physicochemical properties intended to make the tablet more difficult to manipulate for misuse and abuse, and maintains some extended release characteristics even if the tablet is physically compromised.
@@ -47,17 +47,17 @@ In Vitro Testing In vitro physical and chemical tablet manipulation studies were
 Results support that HYSINGLA ER resists crushing, breaking, and dissolution using a variety of tools and solvents and retains some extended-release properties despite manipulation.
 When subjected to an aqueous environment, HYSINGLA ER gradually forms a viscous hydrogel (i.e., a gelatinous mass) that resists passage through a hypodermic needle.
 
-Clinical Abuse Potential Studies Studies in Non-dependent Opioid Abusers Two randomized, double-blind, placebo and active-comparator studies in non-dependent opioid abusers were conducted to characterize the abuse potential of HYSINGLA ER following physical manipulation and administration via the intranasal and oral routes.
+Clinical Abuse Potential Studies Studies in Non-dependent Opioid Abusers: Two randomized, double-blind, placebo and active-comparator studies in non-dependent opioid abusers were conducted to characterize the abuse potential of HYSINGLA ER following physical manipulation and administration via the intranasal and oral routes.
 For both studies, drug liking was measured on a bipolar drug liking scale of 0 to 100 where 50 represents a neutral response of neither liking nor disliking, 0 represents maximum disliking, and 100 represents maximum liking.
 Response to whether the subject would take the study drug again was measured on a unipolar scale of 0 to 100 where 0 represents the strongest negative response (“definitely would not take drug again”) and 100 represents the strongest positive response (“definitely would take drug again”).
 
-Intranasal Abuse Potential Study In the intranasal abuse potential study, 31 subjects were dosed and 25 subjects completed the study.
+Intranasal Abuse Potential Study: In the intranasal abuse potential study, 31 subjects were dosed and 25 subjects completed the study.
 Treatments studied included intranasally administered tampered HYSINGLA ER 60 mg tablets, powdered hydrocodone bitartrate 60 mg, and placebo.
 Incomplete dosing due to granules falling from the subjects’ nostrils occurred in 82% (n = 23) of subjects receiving tampered HYSINGLA ER compared to no subjects with powdered hydrocodone or placebo.
 
-The intranasal administration of tampered HYSINGLA ER was associated with statistically significantly lower mean and median scores for drug liking and take drug again (P<0.001 for both), compared with powdered hydrocodone as summarized in Table 3.
+The intranasal administration of tampered HYSINGLA ER was associated with statistically significantly lower mean and median scores for drug liking and take drug again (P<0.001 for both), compared with powdered hydrocodone as summarized in Table 4.
 
-Table 3.
+Table 4.
 Summary of Maximum Scores (Emax) on Drug Liking and Take Drug Again VAS Following intranasal Administration of HYSINGLA ER and Hydrocodone Powder in Non-dependent Opioid Abusers
 
 | VAS Scale (100 point) | HYSINGLA ER Manipulated | Hydrocodone Powder |
@@ -80,12 +80,12 @@ Approximately 20% (n = 5) of subjects had no reduction in liking with tampered H
 
 Figure 1: Percent Reduction Profiles for Emax of Drug Liking VAS for Manipulated HYSINGLA ER vs. Hydrocodone Powder, N = 25 Following Intranasal Administration
 
-Oral Abuse Potential Study In the oral abuse potential study, 40 subjects were dosed and 35 subjects completed the study.
+Oral Abuse Potential Study: In the oral abuse potential study, 40 subjects were dosed and 35 subjects completed the study.
 Treatments studied included oral administrations of chewed HYSINGLA ER 60 mg tablets, intact HYSINGLA ER 60 mg tablets, 60 mg aqueous hydrocodone bitartrate solution, and placebo.
 
-The oral administration of chewed and intact HYSINGLA ER was associated with statistically lower mean and median scores on scales that measure drug liking and desire to take drug again (P<0.001), compared to hydrocodone solution as summarized in Table 4.
+The oral administration of chewed and intact HYSINGLA ER was associated with statistically lower mean and median scores on scales that measure drug liking and desire to take drug again (P<0.001), compared to hydrocodone solution as summarized in Table 5.
 
-Table 4.
+Table 5.
 Summary of Maximum Scores (Emax) on Drug Liking and Take Drug Again VAS Following Oral Administration of HYSINGLA ER and Hydrocodone Solution in Non-dependent Recreational Opioid Users
 
 | VAS Scale (100 point) | HYSINGLA ER |  | Hydrocodone Solution |
@@ -121,21 +121,19 @@ However, abuse of HYSINGLA ER by the intravenous, intranasal, and oral routes is
 Additional data, including epidemiological data, when available, may provide further information on the impact of HYSINGLA ER on the abuse liability of the drug.
 Accordingly, this section may be updated in the future as appropriate.
 
-HYSINGLA ER contains hydrocodone, an opioid agonist and Schedule II controlled substance with an abuse liability similar to other opioid agonists, legal or illicit, including fentanyl, hydromorphone, methadone, morphine, oxycodone, and oxymorphone.
-HYSINGLA ER can be abused and is subject to misuse, addiction, and criminal diversion [See Warnings and Precautions (5.1) and Drug Abuse and Dependence (9)].
-
 ## 9.3 Dependence
 
 Both tolerance and physical dependence can develop during chronic opioid therapy.
 Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
 Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
 
-Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dose reduction of a drug.
-Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity, e.g., naloxone, nalmefene, or mixed agonist/antagonist analgesics (pentazocine, butorphanol, nalbuphine).
+Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug.
+Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-HYSINGLA ER should be discontinued by a gradual downward titration [see Dosage and Administration (2.6)].
-If HYSINGLA ER is abruptly discontinued in a physically dependent patient, an abstinence syndrome may occur.
-Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, piloerection, myalgia, mydriasis, irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, increased blood pressure, respiratory rate, or heart rate.
+HYSINGLA ER should not be abruptly discontinued [see Dosage and Administration (2.6)].
+If HYSINGLA ER is abruptly discontinued in a physically dependent patient, a withdrawal syndrome may occur.
+Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
+Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, increased blood pressure, respiratory rate, or heart rate.
 
-Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms [see Warnings and Precautions (5.3) and Use in Specific Populations (8.3)].
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].

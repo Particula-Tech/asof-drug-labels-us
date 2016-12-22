@@ -1,8 +1,8 @@
 # 14 CLINICAL STUDIES
 
-The efficacy and safety of HYSINGLA ER was evaluated in a randomized double-blind, placebo-controlled, multi-center, 12-week clinical trial in both opioid-experienced and opioid-naïve patients with moderate to severe chronic low back pain.
-
 ## 14.1 Moderate to Severe Chronic Lower Back Pain Study
+
+The efficacy and safety of HYSINGLA ER was evaluated in a randomized double-blind, placebo-controlled, multi-center, 12-week clinical trial in both opioid-experienced and opioid-naïve patients with moderate to severe chronic low back pain.
 
 A total of 905 chronic low back pain patients (opioid naive and opioid-experienced) who were not responsive to their prior analgesic therapy entered an open-label conversion and dose- titration period for up to 45 days with HYSINGLA ER.
 Patients were dosed once daily with HYSINGLA ER (20 to 120 mg).
