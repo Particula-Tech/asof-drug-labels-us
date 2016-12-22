@@ -1,0 +1,17 @@
+PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0674-61
+
+HYCAMTIN®
+
+TOPOTECAN HYDROCHLORIDE
+
+FOR INJECTION
+
+For Intravenous Use
+
+1 x 4 mg Single-Dose Vial
+
+Rx only
+
+Novartis

@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020671"
+  ],
+  "inn": "topotecan",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0674-61"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "topotecan hydrochloride",
+      "name": "HYCAMTIN"
+    }
+  ],
+  "setid": "eeee060c-a9ec-423e-a374-8484009f8524",
+  "source": "dailymed"
+}
