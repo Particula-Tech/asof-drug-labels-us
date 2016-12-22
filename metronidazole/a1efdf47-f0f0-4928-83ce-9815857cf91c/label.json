@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205223"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-5920-05"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "metronidazole",
+      "name": "Nuvessa"
+    }
+  ],
+  "setid": "a1efdf47-f0f0-4928-83ce-9815857cf91c",
+  "source": "dailymed"
+}
