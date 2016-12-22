@@ -1,46 +1,39 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 CNS Depressants
+Table 1 includes clinically significant drug interactions with MS CONTIN.
 
-The concomitant use of MS CONTIN with other CNS depressants including sedatives, hypnotics, tranquilizers, general anesthetics, phenothiazines, other opioids, and alcohol can increase the risk of respiratory depression, profound sedation, coma, and death.
-Monitor patients receiving CNS depressants and MS CONTIN for signs of respiratory depression, sedation, and hypotension.
+Table 1: Clinically Significant Drug Interactions with MS CONTIN
 
-When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
-
-## 7.2 Interactions with Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
-
-Mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) and partial agonist (buprenorphine) analgesics may reduce the analgesic effect of MS CONTIN or precipitate withdrawal symptoms.
-Avoid the use of agonist/antagonist and partial agonist analgesics in patients receiving MS CONTIN.
-
-## 7.3 Muscle Relaxants
-
-Morphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
-Monitor patients receiving muscle relaxants and MS CONTIN for signs of respiratory depression that may be greater than otherwise expected.
-
-## 7.4 Monoamine Oxidase Inhibitors (MAOIs)
-
-The effects of morphine may be potentiated by MAOIs.
-Monitor patients on concurrent therapy with an MAOI and MS CONTIN for increased respiratory and central nervous system depression.
-MAOIs have been reported to potentiate the effects of morphine anxiety, confusion, and significant depression of respiration or coma.
-MS CONTIN should not be used in patients taking MAOIs or within 14 days of stopping such treatment.
-
-## 7.5 Cimetidine
-
-Cimetidine can potentiate morphine-induced respiratory depression.
-There is a report of confusion and severe respiratory depression when a patient undergoing hemodialysis was concurrently administered morphine and cimetidine.
-Monitor patients for respiratory depression when MS CONTIN and cimetidine are used concurrently.
-
-## 7.6 Diuretics
-
-Morphine can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
-Morphine may also lead to acute retention of urine by causing spasm of the sphincter of the bladder, particularly in men with enlarged prostates.
-
-## 7.7 Anticholinergics
-
-Anticholinergics or other medications with anticholinergic activity when used concurrently with opioid analgesics may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
-Monitor patients for signs of urinary retention or reduced gastric motility when MS CONTIN is used concurrently with anticholinergic drugs.
-
-## 7.8 P-Glycoprotein (PGP) Inhibitors
-
-PGP-inhibitors (e.g., quinidine) may increase the absorption/exposure of morphine sulfate by about two-fold.
-Therefore, monitor patients for signs of respiratory and central nervous system depression when MS CONTIN is used concurrently with PGP inhibitors.
+| Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
+| --- | --- |
+| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.4)]. |
+| Examples: | Benzodiazepines and other sedative hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Serotonergic Drugs |  |
+| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
+| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue MS CONTIN if serotonin syndrome is suspected. |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.6)]. |
+| Intervention: | Do not use MS CONTIN in patients taking MAOIs or within 14 days of stopping such treatment. |
+| Examples: | phenelzine, tranylcypromine, linezolid |
+| Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
+| Clinical Impact: | May reduce the analgesic effect of MS CONTIN and/or precipitate withdrawal symptoms. |
+| Intervention: | Avoid concomitant use. |
+| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
+| Muscle Relaxants |  |
+| Clinical Impact: | Morphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of MS CONTIN and/or the muscle relaxant as necessary. |
+| Cimetidine |  |
+| Clinical Impact: | The concomitant use of cimetidine can potentiate morphine effects and increase risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of MS CONTIN and/or cimetidine as necessary. |
+| Diuretics |  |
+| Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
+| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
+| Anticholinergic Drugs |  |
+| Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
+| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when MS CONTIN is used concomitantly with anticholinergic drugs. |
+| P-Glycoprotein (P-gp) Inhibitors |  |
+| Clinical Impact: | The concomitant use of PGP-inhibitors can increase the exposure to morphine by about two-fold and can increase risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of MS CONTIN and/or the PGP-inhibitor as necessary. |
+| Example: | Quinidine |
