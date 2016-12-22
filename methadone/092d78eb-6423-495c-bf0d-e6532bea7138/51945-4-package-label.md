@@ -1,10 +1,10 @@
-# PRINCIPAL DISPLAY PANEL – 200 mg/20 mL
+# PRINCIPAL DISPLAY PANEL – 20 mL
 
 NDC 67457-217-20 20 mL
 
 Methadone Hydrochloride Injection, USP CII
 
-200 mg/20 mL (10 mg/mL)
+200 mg/20 mL (10mg/mL)
 
 For Parenteral Use
 

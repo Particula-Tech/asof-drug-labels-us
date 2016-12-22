@@ -1,4 +1,9 @@
 # CONTRAINDICATIONS
 
-Methadone Hydrochloride Injection is contraindicated in patients with a known hypersensitivity to methadone hydrochloride or any other ingredient in Methadone Hydrochloride Injection.
-Methadone Hydrochloride Injection is contraindicated in any situation where opioids are contraindicated such as: patients with respiratory depression (in the absence of resuscitative equipment or in unmonitored settings), and in patients with acute bronchial asthma or hypercarbia.
+Methadone Hydrochloride Injection is contraindicated in patients with:
+
+- 
+  - •Significant respiratory depression
+  - •Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment
+  - •Known or suspected gastrointestinal obstruction, including paralytic ileus
+  - •Hypersensitivity to methadone hydrochloride (e.g. anaphylaxis) or any other ingredient in Methadone Hydrochloride Injection.
