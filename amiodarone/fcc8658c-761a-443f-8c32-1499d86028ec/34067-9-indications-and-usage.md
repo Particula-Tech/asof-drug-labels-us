@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Amiodarone injection is indicated for initiation of treatment and prophylaxis of frequently recurring ventricular fibrillation (VF) and hemodynamically unstable ventricular tachycardia (VT) in patients refractory to other therapy.
+Amiodarone hydrochloride injection is indicated for initiation of treatment and prophylaxis of frequently recurring ventricular fibrillation (VF) and hemodynamically unstable ventricular tachycardia (VT) in patients refractory to other therapy.
 Amiodarone also can be used to treat patients with VT/VF for whom oral amiodarone is indicated, but who are unable to take oral medication.
 During or after treatment with amiodarone, patients may be transferred to oral amiodarone therapy [see Dosage and Administration (2)].
 

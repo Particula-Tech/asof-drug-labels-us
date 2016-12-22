@@ -41,7 +41,7 @@ Amiodarone adsorbs to polyvinyl chloride (PVC) tubing, but all of the clinical e
 
 Amiodarone has been found to leach out plasticizers, including DEHP [di-(2-ethylhexyl)phthalate] from intravenous tubing (including PVC tubing).
 The degree of leaching increases when infusing amiodarone at higher concentrations and lower flow rates than provided in DOSAGE AND ADMINISTRATION.
-Polysorbate 80, a component of amiodarone injection, is also known to leach DEHP from PVC [see Description (11)].
+Polysorbate 80, a component of amiodarone hydrochloride injection, is also known to leach DEHP from PVC [see Description (11)].
 
 Amiodarone does not need to be protected from light during administration.
 

@@ -32,7 +32,7 @@ The safety and effectiveness of amiodarone in pediatric patients have not been e
 In a pediatric trial of 61 patients, aged 30 days to 15 years, hypotension (36%), bradycardia (20%), and AV block (15%) were common dose-related adverse reactions and were severe or life-threatening in some cases.
 Injection site reactions were seen in 5 (25%) of the 20 patients receiving intravenous amiodarone through a peripheral vein irrespective of dose regimen.
 
-Amiodarone injection contains the preservative benzyl alcohol [see Description (11)].
+Amiodarone hydrochloride injection contains the preservative benzyl alcohol [see Description (11)].
 There have been reports of fatal "gasping syndrome" in neonates (children less than one month of age) following the administration of intravenous solutions containing the preservative benzyl alcohol.
 Symptoms include a striking onset of gasping respiration, hypotension, bradycardia, and cardiovascular collapse.
 
