@@ -1,53 +1,65 @@
-PACKAGE LABEL PRINCIPAL DISPLAY PANEL - 240 mg Capsules: Box Label
+Principal Display Panel - 240 mg Capsules: Box Label
 
-NDC: 64406-006-02
+NDC 64406-006-02
 
-TECFIDERA®
+60 capsules
 
-(dimethyl fumarate)
-
-30-day bottle 240 mg capsules, quantity 60
-
-Manufactured by:
-
-Biogen Inc.
-
-Cambridge, MA 02142 USA
-
-US License #1697
-
-PACKAGE LABEL PRINCIPAL DISPLAY PANEL - 120 mg Capsules: Box Label
-
-NDC: 64406-005-01
-
-TECFIDERA®;
+Tecfidera®
 
 (dimethyl fumarate)
 
-7-day bottle 120 mg capsules, quantity 14
+delayed-release capsules
 
-Manufactured by:
+240 mg
 
-Biogen Inc.
+Dispense in original Package.
 
-Cambridge, MA 02142 USA
+Swallow capsule whole.
 
-US License #1697
+Rx only
 
-PACKAGE LABEL PRINCIPAL DISPLAY PANEL - Starter Pack: Box Label
+Principal Display Panel - 120 mg Capsules: Box Label
 
-NDC: 64406-007-03
+NDC 64406-005-01
 
-TECFIDERA®;
+14 capsules
+
+Tecfidera®
 
 (dimethyl fumarate)
 
-30-day Starter Pack: 120 mg capsules, quantity 14; 240 mg capsules, quantity 46
+delayed-release capsules
 
-Manufactured by:
+120 mg
 
-Biogen Inc.
+Dispense in original Package.
 
-Cambridge, MA 02142 USA
+Swallow capsule whole.
 
-US License #1697
+Rx only
+
+Principal Display Panel - Starter Pack: Box Label
+
+NDC 64406-007-03
+
+30-Day Starter Pack
+
+Tecfidera®
+
+(dimethyl fumarate)
+
+delayed-release capsules
+
+Package Contents:
+
+120 mg Starter Dose
+
+One bottle containing 14 capsules of 120 mg each
+
+240 mg Regular Dose
+
+One bottle containing 46 capsules of 240 mg each
+
+Dispense in Original Package.
+
+See back panel for dosage and administration instructions for use.
