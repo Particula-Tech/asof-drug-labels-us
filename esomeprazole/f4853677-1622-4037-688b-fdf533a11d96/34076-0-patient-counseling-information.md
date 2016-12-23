@@ -13,7 +13,9 @@ Advise patients to report to their healthcare provider if they experience any si
 - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
 - •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
 - •Hypomagnesemia [see Warnings and Precautions (5.8)]
-- Drug Interactions
+
+Drug Interactions
+
 - •Advise patients to let you know if they are taking, or begin taking, other medications, because NEXIUM can interfere with antiretroviral drugs and drugs that are affected by gastric pH changes [see Drug Interactions (7.1)].
 
 Administration

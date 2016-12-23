@@ -38,8 +38,9 @@ NEXIUM can cause serious side effects, including:
   Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
   Some people who take PPI medicines, including NEXIUM, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
   Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
-  NEXIUM can have other serious side effects.
-  See “What are the possible side effects of NEXIUM?”
+
+NEXIUM can have other serious side effects.
+See “What are the possible side effects of NEXIUM?”
 
 What is NEXIUM?
 
@@ -139,27 +140,28 @@ NEXIUM can cause serious side effects, including:
   If low magnesium levels happen, it is usually after a year of treatment.
 - You may or may not have symptoms of low magnesium.
   Tell your doctor right away if you have any of these symptoms:
-- •seizures
-- •dizziness
-- •abnormal or fast heart beat
-- •jitteriness
-- •jerking movements or shaking (tremors)
-- •muscle weakness
-- •spasms of the hands and feet
-- •cramps or muscle aches
-- •spasm of the voice box
+  1. ∘seizures
+  2. ∘dizziness
+  3. ∘abnormal or fast heart beat
+  4. ∘jitteriness
+  5. ∘jerking movements or shaking (tremors)
+  6. ∘muscle weakness
+  7. ∘spasms of the hands and feet
+  8. ∘cramps or muscle aches
+  9. ∘spasm of the voice box
 - Your doctor may check the level of magnesium in your body before you start taking NEXIUM or during treatment if you will be taking NEXIUM for a long period of time.
 
 The most common side effects with NEXIUM may include:
 
-- •headache
-- •diarrhea
-- •nausea
-- •gas
-- •abdominal pain
-- •constipation
-- •dry mouth
-- •drowsiness
+- 
+  - ∘headache
+  - ∘diarrhea
+  - ∘nausea
+  - ∘gas
+  - ∘abdominal pain
+  - ∘constipation
+  - ∘dry mouth
+  - ∘drowsiness
 
 Other side effects:
 

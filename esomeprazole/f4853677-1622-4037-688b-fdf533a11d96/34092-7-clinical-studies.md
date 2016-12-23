@@ -7,7 +7,7 @@ The healing rates at Weeks 4 and 8 were evaluated and are shown in the Table 9:
 
 Table 9: Erosive Esophagitis Healing Rate (Life-Table Analysis)
 
-| Study | No. of Patients | Treatment Groups | Week 4 | Week 8 | Significance Levellog-rank test vs. omeprazole 20 mg |
+| Study | No. of Patients | Treatment Groups | Week 4 | Week 8 | Significance Levellog-rank test vs. omeprazole 20 mg. |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 588 | NEXIUM 20 mg | 68.7% | 90.6% | N.S. |
 |  | 588 | Omeprazole 20 mg | 69.5% | 88.3% |  |
@@ -25,7 +25,7 @@ Table 10: Sustained ResolutionDefined as 7 consecutive days with no heartburn re
 
 |  |  |  | Cumulative PercentDefined as the cumulative proportion of patients who have reached the start of sustained resolution. with Sustained Resolution |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Study | No. of Patients | Treatment Groups | Day 14 | Day 28 | Significance Level log-rank test vs. omeprazole 20 mg. |
+| Study | No. of Patients | Treatment Groups | Day 14 | Day 28 | Significance Levellog-rank test vs. omeprazole 20 mg. |
 | 1 | 573 | NEXIUM 20 mg | 64.3% | 72.7% | N.S. |
 |  | 555 | Omeprazole 20 mg | 64.1% | 70.9% |  |
 | 2 | 621 | NEXIUM 40 mg | 64.8% | 74.2% | p <0.001 |
@@ -111,7 +111,7 @@ See Table 11.
 No additional benefit was seen with NEXIUM 40 mg over NEXIUM 20 mg.
 These studies did not demonstrate significant reduction in the development of NSAID-associated duodenal ulcer due to the low incidence.
 
-Table 11: Cumulative percentage of patients without gastric ulcers at 26 weeks:
+Table 11: Cumulative Percentage of Patients without Gastric Ulcers at 26 Weeks
 
 | Study | No. of Patients | Treatment Group | % of Patients Remaining Gastric Ulcer Free%= Life Table Estimate. Significant difference from placebo (p<0.01). |
 | --- | --- | --- | --- |

@@ -59,7 +59,7 @@ Absorption
 
 NEXIUM Delayed-Release Capsules and NEXIUM For Delayed-Release Oral Suspension contain a bioequivalent enteric-coated granule formulation of esomeprazole magnesium.
 Bioequivalency is based on a single dose (40 mg) study in 94 healthy male and female volunteers under fasting condition.
-After oral administration peak plasma levels (Cmax) occur at approximately 1.5 hours (Tmax).
+After oral administration, peak plasma levels (Cmax) occur at approximately 1.5 hours (Tmax).
 The Cmax increases proportionally when the dose is increased, and there is a three-fold increase in the area under the plasma concentration-time curve (AUC) from 20 to 40 mg.
 At repeated once-daily dosing with 40 mg, the systemic bioavailability is approximately 90% compared to 64% after a single dose of 40 mg.
 The mean exposure (AUC) to esomeprazole increases from 4.32 µmol*hr/L on Day 1 to 11.2 µmol*hr/L on Day 5 after 40 mg once daily dosing.
@@ -85,6 +85,8 @@ Esomeprazole is 97% bound to plasma proteins.
 Plasma protein binding is constant over the concentration range of 2 to 20 μmol/L.
 The apparent volume of distribution at steady state in healthy volunteers is approximately 16 L.
 
+Elimination
+
 Metabolism
 
 Esomeprazole is extensively metabolized in the liver by the cytochrome P450 (CYP) enzyme system.
@@ -102,7 +104,7 @@ The plasma elimination half-life of esomeprazole is approximately 1 to 1.5 hours
 Less than 1% of parent drug is excreted in the urine.
 Approximately 80% of an oral dose of esomeprazole is excreted as inactive metabolites in the urine, and the remainder is found as inactive metabolites in the feces.
 
-Pharmacokinetics: Combination Therapy with Antimicrobials
+Combination Therapy with Antimicrobials
 
 Esomeprazole magnesium 40 mg once daily was given in combination with clarithromycin 500 mg twice daily and amoxicillin 1000 mg twice daily for 7 days to 17 healthy male and female subjects.
 The mean steady state AUC and Cmax of esomeprazole increased by 70% and 18%, respectively during triple combination therapy compared to treatment with esomeprazole alone.
@@ -122,18 +124,20 @@ Concomitant Use with Mycophenolate Mofetil
 
 Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
 
-Special Populations
+Specific Populations
 
-Geriatric
+Age: Geriatric Population
 
 The AUC and Cmax values were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
 Dosage adjustment based on age is not necessary.
 
-Pediatric (1 to 11 month of age)
+Age: Pediatric Population
+
+1 to 11 Month of Age
 
 The pharmacokinetic parameters following repeated dose administration of 1.0 mg/kg esomeprazole in 1 to 11 month old infants are summarized in Table 5.
 
-Table 5: Summary of PK parameters in 1 month to < 1 year Olds with GERD Following 7/8 Days of Once-Daily Oral Esomeprazole Treatment
+Table 5: Summary of PK Parameters in 1 Month to < 1 Year Olds with GERD Following 7/8 Days of Once-Daily Oral Esomeprazole Treatment
 
 |  | 1 month to < 1 year |
 | --- | --- |
@@ -143,7 +147,7 @@ Table 5: Summary of PK parameters in 1 month to < 1 year Olds with GERD Followin
 | t½ (hours) (n=8) | 0.93 |
 | tmax (hours) (n=15)Median | 3.0 |
 
-Subsequent pharmacokinetic simulation analyses showed that a dosage regimen of 2.5 mg once-daily for pediatric patients with body weight 3-5 kg, 5.0 mg once-daily for >5 to 7.5 kg and 10 mg once-daily for >7.5 to 12 kg would achieve comparable steady-state plasma exposures (AUC) to that observed after 10 mg in 1 to 11 year olds, and 20 mg in 12 to 18 year-olds as well as adults.
+Subsequent pharmacokinetic simulation analyses showed that a dosage regimen of 2.5 mg once-daily for pediatric patients with body weight 3 to 5 kg, 5.0 mg once-daily for >5 to 7.5 kg and 10 mg once-daily for >7.5 to 12 kg would achieve comparable steady-state plasma exposures (AUC) to that observed after 10 mg in 1 to 11 year olds, and 20 mg in 12 to 18 year-olds as well as adults.
 
 1 to 11 Years of Age
 
@@ -191,10 +195,10 @@ Dosage adjustment based on gender is not necessary.
 
 Hepatic Insufficiency
 
-The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child Pugh A), moderate (Child Pugh Class B), and severe (Child Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
+The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child‑Pugh Class A), moderate (Child‑Pugh Class B), and severe (Child‑Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
 In patients with mild and moderate hepatic insufficiency, the AUCs were within the range that could be expected in patients with normal liver function.
 In patients with severe hepatic insufficiency the AUCs were 2 to 3 times higher than in the patients with normal liver function.
-No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2)].
+No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child‑Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child‑Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2)].
 
 Renal Insufficiency
 

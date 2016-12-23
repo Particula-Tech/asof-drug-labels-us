@@ -23,7 +23,7 @@ Table 1: Recommended Dosage Schedule for NEXIUM
 | weight < 20 kg | 10 mg | Once Daily for 8 Weeks |
 | weight ≥ 20 kg | 10 mg or 20 mg | Once Daily for 8 Weeks |
 | 1 month to < 1 year oldDoses over 1.33 mg/kg/day have not been studied. |  |  |
-| Erosive esophagitis due to acid-mediated GERD |  |  |
+| Erosive Esophagitis due to acid-mediated GERD |  |  |
 | weight 3 kg to 5 kg | 2.5 mg | Once Daily for up to 6 Weeks |
 | weight > 5 kg to 7.5 kg | 5 mg | Once Daily for up to 6 Weeks |
 | weight > 7.5 kg to 12 kg | 10 mg | Once Daily for up to 6 Weeks |
@@ -37,12 +37,12 @@ Table 1: Recommended Dosage Schedule for NEXIUM
 
 Please refer to amoxicillin and clarithromycin prescribing information for Contraindications, Warnings, and dosing in elderly and renally-impaired patients.
 
-Special Populations
+Specific Populations
 
 Hepatic Insufficiency
 
-In patients with mild to moderate liver impairment (Child Pugh Classes A and B), no dosage adjustment is necessary.
-For patients with severe liver impairment (Child Pugh Class C), a dose of 20 mg of NEXIUM should not be exceeded [see Clinical Pharmacology (12.3)].
+In patients with mild to moderate liver impairment (Child‑Pugh Classes A and B), no dosage adjustment is necessary.
+For patients with severe liver impairment (Child‑Pugh Class C), a dose of 20 mg of NEXIUM should not be exceeded [see Clinical Pharmacology (12.3)].
 
 Directions for use specific to the route and available methods of administration for each of these dosage forms are presented in Table 2.
 
