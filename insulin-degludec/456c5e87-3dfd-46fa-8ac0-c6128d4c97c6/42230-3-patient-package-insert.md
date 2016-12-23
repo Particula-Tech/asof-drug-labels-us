@@ -312,9 +312,9 @@ Before use:
 
 Pen in use:
 
-- •Store the Pen you are currently using at room temperature (below 86°F [30°C]) or in a refrigerator (36°F to 46°F [2°C to 8°C]).
+- •Store the Pen you are currently using in the refrigerator between 36°F to 46°F (2°C to 8°C) or keep at room temperature below 86°F (30°C).
 - •Keep TRESIBA away from heat or light.
-- •The TRESIBA FlexTouch Pen you are using should be thrown away after 56 days, even if it still has insulin left in it and the expiration date has not passed.
+- •The TRESIBA FlexTouch Pen you are using should be thrown away after 56 days if it is refrigerated or kept at room temperature, even if it still has insulin left in it and the expiration date has not passed.
 
 General Information about the safe and effective use of TRESIBA.
 
@@ -327,7 +327,7 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
 
-Revised: 06/2016
+Revised: 12/2016
 
 For more information go to www.TRESIBA.com
 
@@ -521,9 +521,9 @@ Before use:
 
 Pen in use:
 
-1. 1.Store the Pen you are currently using at room temperature (below 86°F [30°C]) or in a refrigerator (36°F to 46°F [2°C to 8°C]).
+1. 1.Store the Pen you are currently using in the refrigerator between 36°F to 46°F (2°C to 8°C) or keep at room temperature below 86°F (30°C).
 2. 2.Keep TRESIBA away from heat or light.
-3. 3.The TRESIBA FlexTouch Pen you are using should be thrown away after 56 days, even if it still has insulin left in it and the expiration date has not passed.
+3. 3.The TRESIBA FlexTouch Pen you are using should be thrown away after 56 days if it is refrigerated or kept at room temperature, even if it still has insulin left in it and the expiration date has not passed.
 
 General Information about the safe and effective use of TRESIBA.
 
@@ -540,7 +540,7 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: 06/2016
+Revised: 12/2016
 
 For more information go to www.TRESIBA.com
 
