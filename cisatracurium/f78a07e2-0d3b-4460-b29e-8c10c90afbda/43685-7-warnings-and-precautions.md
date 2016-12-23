@@ -102,7 +102,7 @@ The average infusion rate requirement may be decreased by as much as 30% to 40%.
 
 In clinical studies propofol had no effect on the duration of action or dosing requirements for cisatracurium.
 
-Other drugs which may enhance the neuromuscular blocking action of non-depolarizing agents such as cisatracurium include certain antibiotics (e.g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and sodium colistemethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine.
+Other drugs which may enhance the neuromuscular blocking action of non-depolarizing agents such as cisatracurium include certain antibiotics (e.g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and sodium colistimethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine.
 
 Resistance to the neuromuscular blocking action of non-depolarizing neuromuscular blocking agents has been demonstrated in patients chronically administered phenytoin or carbamazepine.
 While the effects of chronic phenytoin or carbamazepine therapy on the action of cisatracurium are unknown, slightly shorter durations of neuromuscular block may be anticipated and infusion rate requirements may be higher.

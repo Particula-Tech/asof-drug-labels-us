@@ -6,6 +6,6 @@ NOT FOR USE IN NEONATES
 
 CONTAINS BENZYL ALCOHOL
 
-Lake Zurich, IL 60047 www.fresenius-kabi.us 451248B
+Lake Zurich, IL 60047 www.fresenius-kabi.us 451248C
 
-Revised: October 2015
+Revised: April 2016
