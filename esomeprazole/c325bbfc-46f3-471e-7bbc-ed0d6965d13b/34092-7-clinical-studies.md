@@ -12,7 +12,7 @@ In these studies, after 10 days of once daily administration, the intravenous do
 
 There were no major changes in acid suppression when switching between intravenous and oral dosage forms.
 
-Table 6 Mean (SD) BAO and MAO measured 22-24 hours post-dose following once daily oral and intravenous administration of esomeprazole for 10 days in GERD patients with or without a history of erosive esophagitis
+Table 6: Mean (SD) BAO and MAO Measured 22-24 hours Post-Dose Following Once Daily Oral and Intravenous Administration of Esomeprazole for 10 days in GERD Patients with or without a History of Erosive Esophagitis
 
 |  |  |  | BAO in mmol H+/h |  | MAO in mmol H+/h |  |
 | --- | --- | --- | --- | --- | --- | --- |

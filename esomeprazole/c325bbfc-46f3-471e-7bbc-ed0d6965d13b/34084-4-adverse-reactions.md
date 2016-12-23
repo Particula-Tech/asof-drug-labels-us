@@ -24,7 +24,8 @@ The population was 18 to 77 years of age; 45% Male, 52% Caucasian, 17% Black, 3%
 Most patients received doses of either 20 or 40 mg either as an infusion or an injection.
 Adverse reactions occurring in ≥1% of patients treated with intravenous esomeprazole (n=359) in clinical trials are listed below:
 
-Table 2 Adverse reactions occurring at an incidence ≥1% in the NEXIUM I.V. group
+Table 2: Adverse Reactions Occurring at an Incidence ≥1% in the NEXIUM I.V.
+Group
 
 | Adverse Reactions | % of patients Esomeprazole Intravenous (n=359) |
 | --- | --- |
@@ -55,12 +56,12 @@ The population was 18 to 98 years old; 68% Male, 87% Caucasian, 1% Black, 7% Asi
 Following endoscopic hemostasis, patients received either 80 mg esomeprazole as an intravenous infusion over 30 minutes followed by a continuous infusion of 8 mg per hour or placebo for a total treatment duration of 72 hours.
 After the initial 72-hour period, all patients received oral proton pump inhibitor (PPI) for 27 days.
 
-Table 3 Incidence (%) of adverse reactions that occurred in greater than 1% of patients within 72 hours after start of treatmentIncidence ≥1% in the esomeprazole group and greater than placebo group safety population
+Table 3: Incidence (%) of Adverse Reactions that Occurred in Greater than 1% of Patients within 72 Hours After Start of TreatmentIncidence ≥1% in the esomeprazole group and greater than placebo group safety population
 
 |  | Number (%) of patients |  |
 | --- | --- | --- |
 |  | Esomeprazole(n=375) | Placebo(n=389) |
-| Duodenal ulcer haemorrhage | 16 (4.3%) | 16 (4.1%) |
+| Duodenal ulcer hemorrhage | 16 (4.3%) | 16 (4.1%) |
 | Injection site reactionInjection site reactions included erythema, swelling, inflammation, pruritus, phlebitis, thrombophlebitis and superficial phlebitis. | 16 (4.3%) | 2 (0.5%) |
 | Pyrexia | 13 (3.5%) | 11 (2.8%) |
 | Cough | 4 (1.1%) | 1 (0.3%) |

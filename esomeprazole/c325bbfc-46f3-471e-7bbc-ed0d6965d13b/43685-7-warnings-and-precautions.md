@@ -8,7 +8,7 @@ In older patients also consider an endoscopy.
 
 ## 5.2 Acute Interstitial Nephritis
 
-Acute interstitial nephritis has been observed in patients taking PPIs including NEXIUM I.V..
+Acute interstitial nephritis has been observed in patients taking PPIs including NEXIUM I.V.
 Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
 Discontinue NEXIUM I.V. if acute interstitial nephritis develops [see Contraindications (4)].
 
@@ -32,7 +32,7 @@ Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have 
 These events have occurred as both new onset and an exacerbation of existing autoimmune disease.
 The majority of PPI-induced lupus erythematosus cases were CLE.
 
-The most common form of CLE reported in patients treated with PPIs was subacute CLE (SCLE) and occurred within weeks to years after continuous drug therapy in patients ranging from infant to the elderly.
+The most common form of CLE reported in patients treated with PPIs was subacute CLE (SCLE) and occurred within weeks to years after continuous drug therapy in patients ranging from infants to the elderly.
 Generally, histological findings were observed without organ involvement.
 
 Systemic lupus erythematosus (SLE) is less commonly reported than CLE in patients receiving PPIs.
@@ -62,19 +62,19 @@ In most patients, treatment of hypomagnesemia required magnesium replacement and
 
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [seeAdverse Reactions (6.2)].
 
-## 5.8 Concomitant Use of NEXIUM with St. John’s Wort or Rifampin
+## 5.8 Interaction with St. John’s Wort or Rifampin
 
 Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s Wort or rifampin) can substantially decrease esomeprazole concentrations [seeDrug Interactions (7)].
 Avoid concomitant use of NEXIUM with St. John’s Wort or rifampin.
 
-## 5.9 Interactions with Investigations for Neuroendocrine Tumors
+## 5.9 Interactions with Diagnostic Investigations for Neuroendocrine Tumors
 
 Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 Healthcare providers should temporarily stop esomeprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
-If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [seeClinical Pharmacology (12.2)].
+If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [seeClinical Pharmacology (12.2)].
 
-## 5.10 Concomitant Use of NEXIUM with Methotrexate
+## 5.10 Interaction with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [seeDrug Interactions (7.3)].
+In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [seeDrug Interactions (7.3)].
