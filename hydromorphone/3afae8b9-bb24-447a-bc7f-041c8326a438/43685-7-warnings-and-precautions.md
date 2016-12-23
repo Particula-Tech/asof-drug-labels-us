@@ -1,170 +1,137 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-## Respiratory Depression
+## 5.1 Risk of Accidental Overdose and Death due to Medication Errors
 
-Respiratory depression is the chief hazard of DILAUDID ORAL LIQUID and DILAUDID TABLETS.
-Respiratory depression is more likely to occur in the elderly, in the debilitated, and in those suffering from conditions accompanied by hypoxia or hypercapnia when even moderate therapeutic doses may dangerously decrease pulmonary ventilation.
+Dosing errors can result in accidental overdose and death.
+Ensure that the dose is communicated clearly and dispensed accurately.
+A household teaspoon or tablespoon is not an adequate measuring device.
+Given the inexactitude of the household spoon measure and the possibility of using a tablespoon instead of a teaspoon, which could lead to overdosage, the enclosed measuring device should be used or a calibrated measuring device obtained from the pharmacist.
+Health care providers should recommend a calibrated device that can measure and deliver the prescribed dose accurately, and instruct caregivers to use extreme caution in measuring the dosage.
 
-DILAUDID ORAL LIQUID and DILAUDID TABLETS should be used with extreme caution in patients with chronic obstructive pulmonary disease or cor pulmonale, patients having a substantially decreased respiratory reserve, hypoxia, hypercapnia, or in patients with preexisting respiratory depression.
-In such patients even usual therapeutic doses of opioid analgesics may decrease respiratory drive while simultaneously increasing airway resistance to the point of apnea.
+## 5.2 Addiction, Abuse, and Misuse
 
-DILAUDID ORAL LIQUID and DILAUDID TABLETS contain hydromorphone, which is a potent Schedule II controlled opioid agonist.
-Schedule II opioid agonists, including morphine, oxymorphone, oxycodone, fentanyl, and methadone, have the highest potential for abuse and risk of producing respiratory depression.
-Alcohol, other opioids and central nervous system depressants (sedative-hypnotics) potentiate the respiratory depressant effects of hydromorphone, increasing the risk of respiratory depression that might result in death.
+DILAUDID Oral Solution and DILAUDID Tablets contain hydromorphone, a Schedule II controlled substance.
+As an opioid, DILAUDID exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
 
-## Misuse, Abuse, and Diversion of Opioids
+Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed DILAUDID Oral Solution or DILAUDID Tablets.
+Addiction can occur at recommended dosages and if the drug is misused or abused.
 
-Hydromorphone is an opioid agonist of the morphine-type.
-Such drugs are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
-DILAUDID can be abused in a manner similar to other opioid agonists, legal or illicit.
-This should be considered when prescribing or dispensing DILAUDID in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse, or diversion.
-Prescribers should monitor all patients receiving opioids for signs of abuse, misuse, and addiction.
-Furthermore, patients should be assessed for their potential for opioid abuse prior to being prescribed opioid therapy.
-Persons at increased risk for opioid abuse include those with a personal or family history of substance abuse (including drug or alcohol abuse) or mental illness (e.g., depression).
-Opioids may still be appropriate for use in these patients, however, they will require intensive monitoring for signs of abuse DILAUDID has been reported as being abused by crushing, chewing, snorting, or injecting the dissolved product.
-These practices pose a significant risk to the abuser that could result in overdose or death (see WARNINGS and DRUG ABUSE AND DEPENDENCE).
-Concerns about abuse, addiction, and diversion should not prevent the proper management of pain.
-Healthcare professionals should contact their State Professional Licensing Board or State Controlled Substances Authority for information on how to prevent and detect abuse or diversion of this product.
+Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing DILAUDID Oral Solution or DILAUDID Tablets, and monitor all patients receiving DILAUDID Oral Solution or DILAUDID Tablets for the development of these behaviors and conditions.
+Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+The potential for these risks should not, however, prevent the proper management of pain in any given patient.
+Patients at increased risk may be prescribed opioids such as DILAUDID Oral Solution or DILAUDID Tablets, but use in such patients necessitates intensive counseling about the risks and proper use of DILAUDID Oral Solution and DILAUDID Tablets along with intensive monitoring for signs of addiction, abuse, and misuse.
 
-## Interactions with Alcohol and Drugs of Abuse
+Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
+Consider these risks when prescribing or dispensing DILAUDID Oral Solution or DILAUDID Tablets.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-Hydromorphone may be expected to have additive effects when used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
+## 5.3 Life-Threatening Respiratory Depression
 
-## Neonatal Withdrawal Syndrome
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
+Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
-Infants born to mothers physically dependent on DILAUDID will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms (see DRUG ABUSE AND DEPENDENCE).
+While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of DILAUDID Oral Solution or DILAUDID Tablets, the risk is greatest during the initiation of therapy or following a dosage increase.
+Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy with and following dosage increases of DILAUDID Oral Solution or DILAUDID Tablets.
 
-## Head Injury and Increased Intracranial Pressure
+To reduce the risk of respiratory depression, proper dosing and titration of DILAUDID Oral Solution or DILAUDID Tablets are essential [see Dosage and Administration (2)].
+Overestimating the DILAUDID Oral Solution or DILAUDID Tablets dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
-The respiratory depressant effects of DILAUDID ORAL LIQUID and DILAUDID TABLETS with carbon dioxide retention and secondary elevation of cerebrospinal fluid pressure may be markedly exaggerated in the presence of head injury, other intracranial lesions, or preexisting increase in intracranial pressure.
-Opioid analgesics including DILAUDID ORAL LIQUID and DILAUDID TABLETS (hydromorphone hydrochloride) may produce effects on pupillary response and consciousness which can obscure the clinical course and neurologic signs of further increase in intracranial pressure in patients with head injuries.
+Accidental ingestion of even one dose of DILAUDID Oral Solution or DILAUDID Tablets, especially by children, can result in respiratory depression and death due to an overdose of hydromorphone.
 
-## Hypotensive Effect
+## 5.4 Neonatal Opioid Withdrawal Syndrome
 
-Opioid analgesics, including DILAUDID ORAL LIQUID and DILAUDID TABLETS, may cause severe hypotension in an individual whose ability to maintain blood pressure has already been compromised by a depleted blood volume, or a concurrent administration of drugs such as phenothiazines or general anesthetics (see PRECAUTIONS - Drug Interactions).
-Therefore, DILAUDID ORAL LIQUID and DILAUDID TABLETS should be administered with caution to patients in circulatory shock, since vasodilation produced by the drug may further reduce cardiac output and blood pressure.
+Prolonged use of DILAUDID Oral Solution or DILAUDID Tablets during pregnancy can result in withdrawal in the neonate.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
-## Sulfites
+## 5.5 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of DILAUDID Oral Solution and DILAUDID Tablets with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
+Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
+
+If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
+If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
+Follow patients closely for signs and symptoms of respiratory depression and sedation.
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when DILAUDID Oral Solution or DILAUDID Tablets are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)]
+
+## 5.6 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
+
+The use of DILAUDID Oral Solution or DILAUDID Tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
+
+Patients with Chronic Pulmonary Disease: DILAUDID Oral Solution- or DILAUDID Tablet-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of DILAUDID Oral Solution or DILAUDID Tablets [see Warnings and Precautions (5.3)].
+
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
+
+Monitor such patients closely, particularly when initiating and titrating DILAUDIDOral Solution or DILAUDID Tablets and when DILAUDID is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.3)].
+Alternatively, consider the use of non-opioid analgesics in these patients.
+
+## 5.7 Adrenal Insufficiency
+
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
+If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
+Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
+Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
+The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
+
+## 5.8 Severe Hypotension
+
+DILAUDID Oral Solution or DILAUDID Tablets may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) [see Drug Interactions (7)].
+Monitor these patients for signs of hypotension after initiating or titrating the dosage of DILAUDID Oral Solution or DILAUDID Tablets.
+In patients with circulatory shock, DILAUDID may cause vasodilation that can further reduce cardiac output and blood pressure.
+Avoid the use of DILAUDID Oral Solution or DILAUDID Tablets in patients with circulatory shock.
+
+## 5.9 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+
+In patients who may be susceptible to the intracranial effects of CO2retention (e.g., those with evidence of increased intracranial pressure or brain tumors), DILAUDID Oral Solution or DILAUDID Tablets may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with DILAUDID Oral Solution or DILAUDID Tablets.
+
+Opioids may also obscure the clinical course in a patient with a head injury.
+Avoid the use of DILAUDID in patients with impaired consciousness or coma.
+
+## 5.10 Risks of Use in Patients with Gastrointestinal Conditions
+
+DILAUDID Oral Solution or DILAUDID Tablets are contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
+
+The hydromorphone in DILAUDID Oral Solution or DILAUDID Tablets may cause spasm of the sphincter of Oddi.
+Opioids may cause increases in serum amylase.
+Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+## 5.11 Increased Risk of Seizures in Patients with Seizure Disorders
+
+The hydromorphone in DILAUDID Oral Solution or DILAUDID Tablets may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occuring in other clinical settings associated with seizures.
+Monitor patients with a history of seizure disorders for worsened seizure control during DILAUDID Oral Solution or DILAUDID Tablets therapy.
+
+## 5.12 Withdrawal
+
+Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including DILAUDID Oral Solution or DILAUDID Tablets.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
+
+When discontinuing DILAUDID Oral Solution or DILAUDID Tablets in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.6)].
+Do not abruptly discontinue DILAUDID Oral Solution or DILAUDID Tablets in these patients.
+[see Drug Abuse and Dependence (9.3)].
+
+## 5.13 Risks of Driving and Operating Machinery
+
+DILAUDID Oral Solution or DILAUDID Tablets may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
+Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of DILAUDID Oral Solution or DILAUDID Tablets and know how they will react to the medication.
+
+## 5.14 Sulfites
+
+DILAUDID Oral Solution and DILAUDID Tablets contain sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
-
-# PRECAUTIONS
-
-## Special Risk Patients
-
-DILAUDID ORAL LIQUID and DILAUDID TABLETS should be given with caution and the initial dose should be reduced in the elderly or debilitated and those with severe impairment of hepatic, pulmonary or renal functions; myxedema or hypothyroidism; adrenocortical insufficiency (e.g., Addison's Disease); CNS depression or coma; toxic psychoses; prostatic hypertrophy or urethral stricture; gall bladder disease; acute alcoholism; delirium tremens; kyphoscoliosis or following gastrointestinal surgery.
-
-The administration of opioid analgesics including DILAUDID ORAL LIQUID and DILAUDID TABLETS may obscure the diagnoses or clinical course in patients with acute abdominal conditions and may aggravate preexisting convulsions in patients with convulsive disorders.
-
-Reports of mild to severe seizures and myoclonus have been reported in severely compromised patients, administered high doses of parenteral hydromorphone, for cancer and severe pain.
-Opioid administration at very high doses is associated with seizures and myoclonus in a variety of diseases where pain control is the primary focus.
-
-## Use in Drug and Alcohol Dependent Patients
-
-DILAUDID should be used with caution in patients with alcoholism and other drug dependencies due to the increased frequency of opioid tolerance, dependence, and the risk of addiction observed in these patient populations.
-Abuse of DILAUDID in combination with other CNS depressant drugs can result in serious risk to the patient.
-
-Hydromorphone is an opioid with no approved use in the management of addictive disorders.
-
-## Use in Ambulatory Patients
-
-DILAUDID ORAL LIQUID and DILAUDID TABLETS may impair mental and/or physical ability required for the performance of potentially hazardous tasks (e.g. driving, operating machinery).
-Patients should be cautioned accordingly.
-DILAUDID may produce orthostatic hypotension in ambulatory patients.
-
-## Use in Biliary Tract Disease
-
-Opioid analgesics, including DILAUDID ORAL LIQUID and DILAUDID TABLETS, should also be used with caution in patients about to undergo surgery of the biliary tract since it may cause spasm of the sphincter of Oddi.
-
-## Tolerance and Physical Dependence
-
-Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
-Physical dependence is manifested by withdrawal symptoms after abrupt discontinuation of a drug or upon administration of an antagonist.
-Physical dependence and tolerance are not unusual during chronic opioid therapy.
-
-The opioid abstinence or withdrawal syndrome is characterized by some or all of the following: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, mydriasis.
-Other symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
-
-In general, opioids used regularly should not be abruptly discontinued.
-
-## Information for Patients/Caregivers
-
-Patients receiving DILAUDID (hydromorphone hydrochloride) ORAL LIQUID or DILAUDID TABLETS or their caregivers should be given the following information by the physician, nurse, or pharmacist:
-
-1. Patients should be aware that DILAUDID tablets contain hydromorphone, which is a morphine-like substance and which could cause severe adverse effects including respiratory depression and even death if not taken according to the prescriber’s directions.
-2. Patients should be advised to report pain and adverse experiences occurring during therapy.
-   Individualization of dosage is essential to make optimal use of this medication.
-3. Patients should be advised not to adjust the dose of DILAUDID without consulting the prescribing professional.
-4. Patients should be advised that DILAUDID may impair mental and/or physical ability required for the performance of potentially hazardous tasks (e.g., driving, operating heavy machinery).
-5. Patients should not combine DILAUDID with alcohol or other central nervous system depressants (sleep aids, tranquilizers) except by the orders of the prescribing physician, because dangerous additive effects may occur, resulting in serious injury or death.
-6. Women of childbearing potential who become, or are planning to become pregnant should be advised to consult their physician regarding the effects of analgesics and other drug use during pregnancy on themselves and their unborn child.
-7. Patients should be advised that DILAUDID is a potential drug of abuse.
-   They should protect it from theft, and it should never be given to anyone other than the individual for whom it was prescribed.
-8. Patients should be advised that if they have been receiving treatment with DILAUDID for more than a few weeks and cessation of therapy is indicated, it may be appropriate to taper the DILAUDID dose, rather than abruptly discontinue it, due to the risk of precipitating withdrawal symptoms.
-   Their physician can provide a dose schedule to accomplish a gradual discontinuation of the medication.
-9. Patients should be instructed to keep DILAUDID in a secure place out of the reach of children.
-   When DILAUDID is no longer needed, the unused tablets should be destroyed by flushing down the toilet.
-
-## Drug Interactions
-
-### Drug Interactions with Other CNS Depressants
-
-The concomitant use of other central nervous system depressants including sedatives or hypnotics, general anesthetics, phenothiazines, tranquilizers and alcohol may produce additive depressant effects.
-Respiratory depression, hypotension and profound sedation or coma may occur.
-When such combined therapy is contemplated, the dose of one or both agents should be reduced.
-DILAUDID should not be taken with alcohol.
-Opioid analgesics, including DILAUDID ORAL LIQUID and DILAUDID TABLETS, may enhance the action of neuromuscular blocking agents and produce an excessive degree of respiratory depression.
-
-### Interactions with Mixed Agonist/Antagonist Opioid Analgesics
-
-Agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, butorphanol, and buprenorphine) should be administered with caution to a patient who has received or is receiving a course of therapy with a pure opioid agonist analgesic such as hydromorphone.
-In this situation, mixed agonist/antagonist analgesics may reduce the analgesic effect of hydromorphone and/or may precipitate withdrawal symptoms in these patients.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-No carcinogenicity studies have been conducted in animals.
-
-Hydromorphone was not mutagenic in the in vitro Ames reverse mutation assay or the human lymphocyte chromosome aberration assay.
-Hydromorphone was not clastogenic in the in vivo mouse micronucleus assay.
-
-No effects on fertility, reproductive performance, or reproductive organ morphology were observed in male or female rats given oral doses up to 7 mg/kg/day, which is equivalent to the human dose of 2.5-10 mg every 3 to 6 hours for oral liquid, and 3-fold higher than the human dose of 2-4 mg every 4 to 6 hours for the tablet on a body surface area basis.
-
-## Pregnancy
-
-### Pregnancy Category C
-
-No effects on teratogenicity or embryotoxicity were observed in female rats given oral doses up to 7 mg/kg/day, which is approximately equivalent to the human dose of 2.5-10 mg every 3 to 6 hours for oral liquid, and 3-fold higher than the human dose of 2-4 mg every 4 to 6 hours for the tablet on a body surface area basis.
-Hydromorphone produced skull malformations (exencephaly and cranioschisis) in Syrian hamsters given oral doses up to 20 mg/kg during the peak of organogenesis (gestation days 8-9).
-The skull malformations were observed at doses approximately 2-fold higher the human dose of 2.5-10 mg every 3 to 6 hours for oral liquid, and 7-fold higher than the human dose of 2-4 mg every 4 to 6 hours for the tablet on a body surface area basis.
-There are no adequate and well-controlled studies of DILAUDID in pregnant women.
-
-Hydromorphone crosses the placenta, resulting in fetal exposure.
-DILAUDID ORAL LIQUID and DILAUDID TABLETS should be used in pregnant women only if the potential benefit justifies the potential risk to the fetus (see Labor and Delivery and DRUG ABUSE AND DEPENDENCE).
-
-### Nonteratogenic Effects
-
-Babies born to mothers who have been taking opioids regularly prior to delivery will be physically dependent.
-The withdrawal signs include irritability and excessive crying, tremors, hyperactive reflexes, increased respiratory rate, increased stools, sneezing, yawning, vomiting, and fever.
-The intensity of the syndrome does not always correlate with the duration of maternal opioid use or dose.
-There is no consensus on the best method of managing withdrawal.
-Approaches to the treatment of this syndrome have included supportive care and, when indicated, drugs such as paregoric or phenobarbital.
-
-## Labor and Delivery
-
-DILAUDID ORAL LIQUID and DILAUDID TABLETS are contraindicated in Labor and Delivery (see CONTRAINDICATIONS).
-
-## Nursing Mothers
-
-Low levels of opioid analgesics have been detected in human milk.
-As a general rule, nursing should not be undertaken while a patient is receiving DILAUDID ORAL LIQUID and DILAUDID TABLETS since it, and other drugs in this class, may be excreted in the milk.
-
-## Pediatric Use
-
-Safety and effectiveness in children have not been established.
-
-## Geriatric Use
-
-Clinical studies of DILAUDID did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (see INDIVIDUALIZATION OF DOSAGE and PRECAUTIONS).
+Use of DILAUDID Oral Solution and DILAUDID Tablets is contraindicated in patients with hypersensitivity to sulfite-containing medications.

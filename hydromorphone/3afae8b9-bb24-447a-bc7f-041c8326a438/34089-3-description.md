@@ -1,24 +1,25 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-DILAUDID (hydromorphone hydrochloride), a hydrogenated ketone of morphine, is an opioid analgesic.
+DILAUDID (hydromorphone hydrochloride), a hydrogenated ketone of morphine, is an opioid agonist.
 
-The chemical name of DILAUDID (hydromorphone hydrochloride) is 4,5α-epoxy-3-hydroxy-17-methylmorphinan-6-one hydrochloride.
-The structural formula is:
+DILAUDID Tablets are supplied in 2 mg, 4 mg, and 8 mg tablets for oral administration.
+The tablet strengths describe the amount of hydromorphone hydrochloride in each tablet.
 
-M.W.
-321.8
+DILAUDID Oral Solution is supplied as 5mg/ 5 mL (1 mg/mL) viscous liquid.
 
-Each 5 mL (1 teaspoon) of DILAUDID ORAL LIQUID contains 5 mg of hydromorphone hydrochloride.
-In addition, other ingredients include purified water, methylparaben, propylparaben, sucrose, and glycerin.
-DILAUDID ORAL LIQUID may contain traces of sodium metabisulfite.
+The chemical name is 4,5α-epoxy-3-hydroxy-17-methylmorphinan-6-one hydrochloride.
+The molecular Weight is 321.80.
+Its molecular formula is C17H19NO3·HCl, and it has the following chemical structure:
 
-Color Coded Tablets (for oral administration) contain:
+Hydromorphone hydrochloride is a white or almost white crystalline powder that is freely soluble in water, very slightly soluble in ethanol (96%), and practically insoluble in methylene chloride.
 
-2 mg hydromorphone hydrochloride (orange tablet) and D&C red #30 Lake dye, D&C yellow #10 Lake dye, lactose, and magnesium stearate.
-DILAUDID 2 mg TABLET may contain traces of sodium metabisulfite.
+The 2 mg, 4 mg, and 8 mg tablets contain the following inactive ingredients: lactose anhydrous and magnesium stearate.
+DILAUDID Tablets may also contain traces of sodium metabisulfite.
 
-4 mg hydromorphone hydrochloride (yellow tablet) and D&C yellow #10 Lake dye, lactose, and magnesium stearate.
-DILAUDID 4 mg TABLET may contain traces of sodium metabisulfite.
+The 2 mg tablets also contain D&C red #30 Lake dye, and D&C yellow #10 Lake dye.
 
-8 mg hydromorphone hydrochloride (white tablet) and lactose anhydrous, and magnesium stearate.
-DILAUDID 8 mg TABLET may contain traces of sodium metabisulfite.
+The 4 mg tablets also contain D&C yellow #10 Lake dye.
+
+Each 5 mL (1 teaspoon) of DILAUDID Oral Solution contains 5 mg of hydromorphone hydrochloride.
+The inactive ingredients are purified water, methylparaben, propylparaben, sucrose, and glycerin.
+DILAUDID Oral Solution may contain traces of sodium metabisulfite.
