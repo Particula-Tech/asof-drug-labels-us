@@ -136,7 +136,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-T2013-126 December 2013
+For Medication Guides, please visit www.pharma.us.novartis.com or call 1-800-507-2130.
+
+T2015-89 October 2015
 
 # MEDICATION GUIDE
 
