@@ -14,11 +14,17 @@
     "0456-1228-11",
     "0456-1228-30",
     "0456-1228-63",
-    "0456-1228-90"
+    "0456-1228-90",
+    "0456-1229-29"
   ],
   "products": [
     {
       "form": "CAPSULE",
+      "generic": "memantine hydrochloride and donepezil hydrochloride",
+      "name": "Namzaric"
+    },
+    {
+      "form": "KIT",
       "generic": "memantine hydrochloride and donepezil hydrochloride",
       "name": "Namzaric"
     }
