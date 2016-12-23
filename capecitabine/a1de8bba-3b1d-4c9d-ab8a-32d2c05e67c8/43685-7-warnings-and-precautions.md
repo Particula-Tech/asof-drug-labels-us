@@ -1,10 +1,5 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-General
-
-Patients receiving therapy with XELODA should be monitored by a physician experienced in the use of cancer chemotherapeutic agents.
-Most adverse reactions are reversible and do not need to result in discontinuation, although doses may need to be withheld or reduced [see Dosage and Administration (2.2)].
-
 ## 5.1 Coagulopathy
 
 Patients receiving concomitant capecitabine and oral coumarin-derivative anticoagulant therapy should have their anticoagulant response (INR or prothrombin time) monitored closely with great frequency and the anticoagulant dose should be adjusted accordingly [see Boxed Warning and Drug Interactions (7.1)].
@@ -16,8 +11,8 @@ Patients with severe diarrhea should be carefully monitored and given fluid and 
 In 875 patients with either metastatic breast or colorectal cancer who received XELODA monotherapy, the median time to first occurrence of grade 2 to 4 diarrhea was 34 days (range from 1 to 369 days).
 The median duration of grade 3 to 4 diarrhea was 5 days.
 National Cancer Institute of Canada (NCIC) grade 2 diarrhea is defined as an increase of 4 to 6 stools/day or nocturnal stools, grade 3 diarrhea as an increase of 7 to 9 stools/day or incontinence and malabsorption, and grade 4 diarrhea as an increase of ≥10 stools/day or grossly bloody diarrhea or the need for parenteral support.
-If grade 2, 3 or 4 diarrhea occurs, administration of XELODA should be immediately interrupted until the diarrhea resolves or decreases in intensity to grade 1 [see Dosage and Administration (2.2)].
-Standard antidiarrheal treatments (eg, loperamide) are recommended.
+If grade 2, 3 or 4 diarrhea occurs, administration of XELODA should be immediately interrupted until the diarrhea resolves or decreases in intensity to grade 1 [see Dosage and Administration (2.3)].
+Standard antidiarrheal treatments (e.g., loperamide) are recommended.
 
 Necrotizing enterocolitis (typhlitis) has been reported.
 
@@ -43,17 +38,19 @@ Patients with anorexia, asthenia, nausea, vomiting or diarrhea may rapidly becom
 Monitor patients when XELODA is administered to prevent and correct dehydration at the onset.
 If grade 2 (or higher) dehydration occurs, XELODA treatment should be immediately interrupted and the dehydration corrected.
 Treatment should not be restarted until the patient is rehydrated and any precipitating causes have been corrected or controlled.
-Dose modifications should be applied for the precipitating adverse event as necessary [see Dosage and Administration (2.2)].
+Dose modifications should be applied for the precipitating adverse event as necessary [see Dosage and Administration (2.3)].
 
-Patients with moderate renal impairment at baseline require dose reduction [see Dosage and Administration (2.3)].
+Patients with moderate renal impairment at baseline require dose reduction [see Dosage and Administration (2.4)].
 Patients with mild and moderate renal impairment at baseline should be carefully monitored for adverse reactions.
-Prompt interruption of therapy with subsequent dose adjustments is recommended if a patient develops a grade 2 to 4 adverse event as outlined in Table 2 [see Dosage and Administration (2.2), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
+Prompt interruption of therapy with subsequent dose adjustments is recommended if a patient develops a grade 2 to 4 adverse event as outlined in Table 2 [see Dosage and Administration (2.3), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
 
-## 5.6 Pregnancy
+## 5.6 Embryo-Fetal Toxicity
 
-XELODA may cause fetal harm when given to a pregnant woman.
-Capecitabine caused embryolethality and teratogenicity in mice and embryolethality in monkeys when administered during organogenesis.
-If this drug is used during pregnancy, or if a patient becomes pregnant while receiving XELODA, the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
+Based on findings from animal reproduction studies and its mechanism of action, XELODA may cause fetal harm when given to a pregnant woman [see Clinical Pharmacology (12.1)].
+Limited available data are not sufficient to inform use of XELODA in pregnant women.
+In animal reproduction studies, administration of capecitabine to pregnant animals during the period of organogenesis caused embryolethality and teratogenicity in mice and embryolethality in monkeys at 0.2 and 0.6 times the exposure (AUC) in patients receiving the recommended dose respectively [see Use in Specific Populations (8.1)].
+Apprise pregnant women of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception during treatment and for 6 months following the last dose of XELODA [see Use in Specific Populations (8.3)].
 
 ## 5.7 Mucocutaneous and Dermatologic Toxicity
 
@@ -65,8 +62,9 @@ Median time to onset was 79 days (range from 11 to 360 days) with a severity ran
 Grade 1 is characterized by any of the following: numbness, dysesthesia/paresthesia, tingling, painless swelling or erythema of the hands and/or feet and/or discomfort which does not disrupt normal activities.
 Grade 2 hand-and-foot syndrome is defined as painful erythema and swelling of the hands and/or feet and/or discomfort affecting the patient's activities of daily living.
 Grade 3 hand-and-foot syndrome is defined as moist desquamation, ulceration, blistering or severe pain of the hands and/or feet and/or severe discomfort that causes the patient to be unable to work or perform activities of daily living.
+Persistent or severe hand-and-foot syndrome (grade 2 and above) can eventually lead to loss of fingerprints which could impact patient identification.
 If grade 2 or 3 hand-and-foot syndrome occurs, administration of XELODA should be interrupted until the event resolves or decreases in intensity to grade 1.
-Following grade 3 hand-and-foot syndrome, subsequent doses of XELODA should be decreased [see Dosage and Administration (2.2)].
+Following grade 3 hand-and-foot syndrome, subsequent doses of XELODA should be decreased [see Dosage and Administration (2.3)].
 
 ## 5.8 Hyperbilirubinemia
 
@@ -83,7 +81,7 @@ Of the 136 colorectal cancer patients with grade 3 or 4 hyperbilirubinemia, 49 p
 
 In 251 patients with metastatic breast cancer who received a combination of XELODA and docetaxel, grade 3 (1.5 to 3 × ULN) hyperbilirubinemia occurred in 7% (n=17) and grade 4 (>3 × ULN) hyperbilirubinemia occurred in 2% (n=5).
 
-If drug-related grade 3 to 4 elevations in bilirubin occur, administration of XELODA should be immediately interrupted until the hyperbilirubinemia decreases to ≤3.0 × ULN [see recommended dose modifications under Dosage and Administration (2.2)].
+If drug-related grade 3 to 4 elevations in bilirubin occur, administration of XELODA should be immediately interrupted until the hyperbilirubinemia decreases to ≤3.0 × ULN [see recommended dose modifications under Dosage and Administration (2.3)].
 
 ## 5.9 Hematologic
 

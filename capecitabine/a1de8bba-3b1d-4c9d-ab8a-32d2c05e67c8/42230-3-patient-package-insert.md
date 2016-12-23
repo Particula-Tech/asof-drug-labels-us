@@ -53,8 +53,7 @@ Before you take XELODA, tell your doctor if you:
   Talk to your doctor about birth control choices that may be right for you during treatment with XELODA.
 - are breastfeeding or plan to breastfeed.
   It is not known if XELODA passes into your breast milk.
-  You and your doctor should decide if you will take XELODA or breastfeed.
-  You should not do both.
+  Do not breastfeed during treatment with XELODA.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 XELODA may affect the way other medicines work, and other medicines may affect the way XELODA works.
@@ -116,6 +115,7 @@ See "What is the most important information I should know about XELODA?".
   - XELODA can also cause "hand and foot syndrome."
     Hand and foot syndrome is common with XELODA and can cause you to have numbness and changes in sensation in your hands and feet, or cause redness, pain, swelling of your hands and feet.
     Stop taking XELODA and call your doctor right away if you have any of these symptoms and you are not able to do your usual activities.
+    Hand and foot syndrome can lead to loss of fingerprints which could impact your identification.
   - you may get sores in your mouth or on your tongue when taking XELODA.
     Stop taking XELODA and call your doctor if you get painful redness, swelling, or ulcers in your mouth and tongue, or if you are having problems eating.
     Tell your doctor if you have any side effect that bothers you or that does not go away.
@@ -172,3 +172,15 @@ Inactive ingredients: anhydrous lactose, croscarmellose sodium, hydroxypropyl me
 The peach or light peach film coating contains hydroxypropyl methylcellulose, talc, titanium dioxide, and synthetic yellow and red iron oxides.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Distributed by:
+
+Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
+
+Revised: DEC 2016
+
+XELODA® is a registered trademark of Hoffmann-La Roche, Inc.
+
+© 2016 Genentech, Inc. All rights reserved.
+
+Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

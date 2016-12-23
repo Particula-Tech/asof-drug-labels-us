@@ -1,10 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+## 2.1 Important Administration Instructions
+
 XELODA tablets should be swallowed whole with water within 30 minutes after a meal.
-Do not crush or cut XELODA tablets.
+XELODA is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1 If XELODA tablets must be cut or crushed, this should be done by a professional trained in safe handling of cytotoxic drugs using appropriate equipment and safety procedures.
 XELODA dose is calculated according to body surface area.
 
-## 2.1 Standard Starting Dose
+## 2.2 Standard Starting Dose
 
 Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastatic Breast Cancer)
 
@@ -33,7 +36,7 @@ In combination with docetaxel, the recommended dose of XELODA is 1250 mg/m2 twic
 Pre-medication, according to the docetaxel labeling, should be started prior to docetaxel administration for patients receiving the XELODA plus docetaxel combination.
 Table 1 displays the total daily dose of XELODA by body surface area and the number of tablets to be taken at each dose.
 
-## 2.2 Dose Management Guidelines
+## 2.3 Dose Management Guidelines
 
 General
 
@@ -81,7 +84,7 @@ Table 3 Docetaxel Dose Reduction Schedule in Combination with XELODA
 | 2nd appearance | Delay treatment until resolved to grade 0-1; Resume treatment at 55 mg/m2 of docetaxel. | Discontinue treatment with docetaxel | - |
 | 3rd appearance | Discontinue treatment with docetaxel | - | - |
 
-## 2.3 Adjustment of Starting Dose in Special Populations
+## 2.4 Adjustment of Starting Dose in Special Populations
 
 Renal Impairment
 

@@ -35,7 +35,7 @@ Table 10 Baseline Demographics
 | Other (n, %) | 4 (0.4) | 1 (0.1) |
 
 All patients with normal renal function or mild renal impairment began treatment at the full starting dose of 1250 mg/m2 orally twice daily.
-The starting dose was reduced in patients with moderate renal impairment (calculated creatinine clearance 30 to 50 mL/min) at baseline [see Dosage and Administration (2.3)].
+The starting dose was reduced in patients with moderate renal impairment (calculated creatinine clearance 30 to 50 mL/min) at baseline [see Dosage and Administration (2.4)].
 Subsequently, for all patients, doses were adjusted when needed according to toxicity.
 Dose management for XELODA included dose reductions, cycle delays and treatment interruptions (see Table 11).
 
@@ -65,8 +65,7 @@ Table 12 Efficacy of XELODA vs 5-FU/LV in Adjuvant Treatment of Colon CancerAppr
 | --- | --- | --- |
 | Median follow-up (months) | 83 | 83 |
 | 5-year Disease-free Survival Rates (%)Based on Kaplan-Meier estimates | 59.1 | 54.6 |
-| Hazard Ratio (XELODA/5-FU/LV) (95% C.I. for Hazard Ratio) | 0.88 (0.77 - 1.01) |  |
-| p-valueTest of superiority of XELODA vs 5-FU/LV (Wald chi-square test) | p = 0.068 |  |
+| Hazard Ratio (XELODA/5-FU/LV) (95% C.I. for Hazard Ratio) p-valueTest of superiority of XELODA vs 5-FU/LV (Wald chi-square test) | 0.88 (0.77 - 1.01) p = 0.068 |  |
 
 | Figure 1 Kaplan-Meier Estimates of Disease-Free Survival (All Randomized Population)XELODA has been demonstrated to be non-inferior to 5-FU/LV. |
 | --- |
