@@ -6,7 +6,7 @@ UCERIS (u SAIR us)
 
 extended release tablets
 
-What is UCERIS extended release tablets?
+What are UCERIS extended release tablets?
 
 UCERIS is a prescription corticosteroid medicine used to help get mild to moderate ulcerative colitis (UC) under control (induce remission).
 
@@ -31,8 +31,8 @@ Before you take UCERIS extended release tablets tell your healthcare provider if
 - •have or had tuberculosis
 - •have high blood pressure (hypertension)
 - •have decreased bone mineral density (osteoporosis)
-- •stomach ulcers
-- •any other medical condition
+- •have stomach ulcers
+- •have any other medical condition
 - •are pregnant or plan to become pregnant.
   It is not known if UCERIS extended release tablets will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
@@ -48,7 +48,7 @@ Keep a list of them to show your healthcare provider and pharmacist when you get
 
 How should I take UCERIS extended release tablets?
 
-- •Take UCERIS extended release tablets exactly as your healthcare provider tells you to take it.
+- •Take UCERIS extended release tablets exactly as your healthcare provider tells you to take them.
 - •Your healthcare provider will tell you how many UCERIS extended release tablets to take.
 - •Take UCERIS extended release tablets in the morning.
 - •Take UCERIS extended release tablets whole with water.
@@ -145,13 +145,13 @@ It may harm them.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about UCERIS that is written for health professionals.
 
-For more information go to www.UCERIS.com or call (1-888-778-0887).
+For more information go to www.UCERIS.com or call (1-800-508-0024).
 
 What are the ingredients in UCERIS extended release tablets?
 
 Active Ingredients: budesonide
 
-Inactive ingredients: stearic acid, lecithin, microcrystalline cellulose, hydroxypropylcellulose, lactose, silicon dioxide, magnesium stearate, methacrylic acid copolymer types A and B, talc, triethylcitrate, and titanium dioxide.
+Inactive ingredients: stearic acid, lecithin, microcrystalline cellulose, hydroxypropyl cellulose, lactose, silicon dioxide, magnesium stearate, methacrylic acid copolymer types A and B, talc, triethyl citrate, and titanium dioxide.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -163,10 +163,17 @@ Valeant Pharmaceuticals North America LLC
 
 Bridgewater, NJ 08807 USA
 
-By: Cosmo S.p.A., Milan, Italy
+By: Cosmo SpA Milan, 20020 Italy
 
-Made in Italy
+By license of Cosmo Technologies Ltd., Dublin, Ireland U.S. Patent Nos: 7,410,651; 7,431,943; 8,293,273; 8,784,888;
 
-Revised: June 2015
+8,895,064; 9,132,093; 9,192,581; 9,320,716; and RE43799
 
-9464200
+UCERIS is a trademark of Valeant Pharmaceuticals International, Inc.
+
+or its affiliates.
+
+©Valeant Pharmaceuticals North America LLC
+
+9464201 Rev.
+11/2016

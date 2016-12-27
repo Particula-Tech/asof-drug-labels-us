@@ -31,7 +31,7 @@ Replacement of systemic glucocorticosteroids with UCERIS tablets may unmask alle
 
 ## 5.4 Increased Systemic Glucocorticoid Susceptibility
 
-Reduced liver function affects the elimination of glucocorticosteroids, and increased systemic availability of oral budesonide has been demonstrated in patients with liver cirrhosis [See Use in Specific Populations (8.6)].
+Reduced liver function affects the elimination of glucocorticosteroids, and increased systemic availability of oral budesonide has been demonstrated in patients with liver cirrhosis [see Use in Specific Populations (8.6)].
 
 ## 5.5 Other Glucocorticosteroid Effects
 

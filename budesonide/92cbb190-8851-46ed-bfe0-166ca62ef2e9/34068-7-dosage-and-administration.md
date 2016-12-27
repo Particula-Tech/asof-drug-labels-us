@@ -9,4 +9,4 @@ UCERIS should be swallowed whole and not chewed, crushed or broken.
 
 If concomitant administration with ketoconazole, or any other CYP3A4 inhibitor, is indicated, patients should be closely monitored for increased signs and/or symptoms of hypercorticism.
 Avoid grapefruit juice, which is known to inhibit CYP3A4, when taking UCERIS.
-In these cases, discontinuation of UCERIS or the CYP3A4 inhibitor should be considered [See Drug Interactions (7) and Clinical Pharmacology (12.3)].
+In these cases, discontinuation of UCERIS or the CYP3A4 inhibitor should be considered [see Drug Interactions (7) and Clinical Pharmacology (12.3)].

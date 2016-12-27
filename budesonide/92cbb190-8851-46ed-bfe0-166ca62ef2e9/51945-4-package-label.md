@@ -4,7 +4,9 @@ PACKAGE LABEL – PRINCIPAL DISPLAY PANEL 9 mg
 
 NDC 68012-309-30
 
-Uceris ™
+Rx only
+
+UCERIS®
 
 (budesonide) extended release tablets
 
@@ -12,4 +14,6 @@ Uceris ™
 
 Swallow tablet whole, do not chew or break.
 
-30 Tablets|Rx Only
+30 Tablets
+
+Salix PHARMACEUTICALS

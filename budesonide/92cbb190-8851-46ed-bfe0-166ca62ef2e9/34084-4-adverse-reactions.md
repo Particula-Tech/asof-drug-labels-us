@@ -2,11 +2,11 @@
 
 Systemic glucocorticosteroid use may result in the following:
 
-- •Hypercorticism and Adrenal Suppression [See Warnings and Precautions (5.1)]
-- •Symptoms of steroid withdrawal in those patients transferring from Systemic Glucocorticosteroid Therapy [See Warnings and Precautions (5.2)]
-- •Immunosuppression [See Warnings and Precautions (5.3)]
-- •Increased Systemic Glucocorticosteroid Susceptibility [See Warnings and Precautions (5.4)]
-- •Other Glucocorticosteroid Effects [See Warnings and Precautions (5.5)]
+- •Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.1)]
+- •Symptoms of steroid withdrawal in those patients transferring from Systemic Glucocorticosteroid Therapy [see Warnings and Precautions (5.2)]
+- •Immunosuppression [see Warnings and Precautions (5.3)]
+- •Increased Systemic Glucocorticoid Susceptibility [see Warnings and Precautions (5.4)]
+- •Other Glucocorticosteroid Effects [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -26,22 +26,22 @@ Summary of Adverse Reactions in Two Placebo-Controlled Trials Experienced by at 
 | --- | --- | --- | --- |
 | Headache | 29 (11.4) | 37 (14.6) | 27 (10.5) |
 | Nausea | 13 (5.1) | 12 (4.7) | 11 (4.3) |
-| Decreased Blood Cortisol | 11 (4.3) | 6 (2.4) | 1 (0.4) |
-| Upper Abdominal Pain | 10 (3.9) | 8 (3.1) | 5 (1.9) |
+| Decreased blood cortisol | 11 (4.3) | 6 (2.4) | 1 (0.4) |
+| Upper abdominal pain | 10 (3.9) | 8 (3.1) | 5 (1.9) |
 | Fatigue | 8 (3.1) | 5 (2.0) | 5 (1.9) |
 | Flatulence | 6 (2.4) | 8 (3.1) | 5 (1.9) |
-| Abdominal Distension | 6 (2.4) | 4 (1.6) | 2 (0.8) |
+| Abdominal distension | 6 (2.4) | 4 (1.6) | 2 (0.8) |
 | Acne | 6 (2.4) | 2 (0.8) | 5 (1.9) |
-| Urinary Tract Infection | 5 (2.0) | 1 (0.4) | 1 (0.4) |
+| Urinary tract infection | 5 (2.0) | 1 (0.4) | 1 (0.4) |
 | Arthralgia | 5 (2.0) | 5 (2.0) | 4 (1.6) |
 | Constipation | 5 (2.0) | 1 (0.4) | 2 (0.8) |
 
 Of UCERIS 9 mg patients, a total of 15% discontinued treatment due to any adverse event (including adverse reactions) compared with 17% in the placebo group.
 
-Table 2 summarizes the percentages of patients reporting glucocorticoid related effects in the 2 placebo-controlled studies.
+Table 2 summarizes the percentages of patients reporting glucocorticoid- related effects in the 2 placebo-controlled studies.
 
 Table 2.
-Summary of Glucocorticoid Related Effects in Two Placebo-Controlled Trials (Studies 1 and 2)
+Summary of Glucocorticoid-Related Effects in Two Placebo-Controlled Trials (Studies 1 and 2)
 
 |  | UCERIS 9 mg (N = 255) n (%) | UCERIS 6 mg (N = 254) n (%) | Placebo (N = 258) n (%) |
 | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ Summary of Glucocorticoid Related Effects in Two Placebo-Controlled Trials (Stud
 | Striae rubrae | 0 | 0 | 2 (0.8) |
 | Flushing | 0 | 1 (0.4) | 3 (1.2) |
 
-No clinically significant differences were observed with respect to the overall percentages of patients with any glucocorticoid related effects between UCERIS and placebo after 8 weeks of induction therapy.
+No clinically significant differences were observed with respect to the overall percentages of patients with any glucocorticoid- related effects between UCERIS and placebo after 8 weeks of induction therapy.
 
 Study 3 was an open-label study evaluating UCERIS 9 mg once daily for 8 weeks in 60 patients who had previously completed an 8-week induction study (Study 1), but had not achieved remission.
 Among patients who took UCERIS 9 mg up to 16 weeks cumulatively across Study 1 and Study 3 combined, similar rates of adverse reactions and glucocorticoid-related effects were seen compared to those who took UCERIS 9 mg for 8 weeks in Study 1.
@@ -66,10 +66,10 @@ Patients who had previously completed 8 weeks of therapy in any induction study 
 In patients who took UCERIS 6 mg for up to 12 months, similar rates of adverse reactions were seen between placebo and UCERIS 6 mg.
 After up to 12 months of study treatment, 77% (27/35) of the patients in the UCERIS 6 mg and 74% (29/39) of the patients in the placebo treatment groups had normal bone density scans.
 
-In Study 4, the glucocorticoid related effects were similar in patients with up to 12 months of therapy with UCERIS 6 mg and placebo (Table 3).
+In Study 4, the glucocorticoid- related effects were similar in patients with up to 12 months of therapy with UCERIS 6 mg and placebo (Table 3).
 
 Table 3.
-Summary of Glucocorticoid Related Effects Over 12-month Treatment (Study 4)
+Summary of Glucocorticoid-Related Effects Over 12-Month Treatment (Study 4)
 
 |  | UCERIS 6 mg (N = 62) n (%) | Placebo (N = 61) n (%) |
 | --- | --- | --- |
