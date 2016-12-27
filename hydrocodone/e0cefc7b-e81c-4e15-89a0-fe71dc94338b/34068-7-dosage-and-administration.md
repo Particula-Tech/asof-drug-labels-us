@@ -12,7 +12,7 @@ Initial Dosage
 
 Initiating Treatment with Hydrocodone Bitartrate and Acetaminophen Tablets
 
-| 10 mg/325 mg | The usual adult dosage is one or two tablets every four to six hours as needed for pain. The total daily dosage should not exceed 6 tablets. |
+| 10 mg/325 mg | The usual adult dosage is one tablet every four to six hours as needed for pain. The total daily dosage should not exceed 6 tablets. |
 | --- | --- |
 
 Conversion from Other Opioids to Hydrocodone Bitartrate and Acetaminophen Tablets
