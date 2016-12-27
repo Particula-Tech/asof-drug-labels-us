@@ -1,5 +1,9 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-ULTRAM ER should not be administered to patients who have previously demonstrated hypersensitivity to tramadol, any other component of this product or opioids.
-ULTRAM ER is contraindicated in any situation where opioids are contraindicated, including acute intoxication with any of the following: alcohol, hypnotics, narcotics, centrally acting analgesics, opioids or psychotropic drugs.
-ULTRAM ER may worsen central nervous system and respiratory depression in these patients.
+ULTRAM ER is contraindicated in patients with:
+
+- •Significant respiratory depression [see Warnings and Precautions (5.2)]
+- •Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see Warnings and Precautions (5.10)]
+- •Known or suspected gastrointestinal obstruction, including paralytic ileus [see Warnings and Precautions (5.13)]
+- •Hypersensitivity to tramadol (e.g., anaphylaxis) [see Warnings and Precautions (5.14), Adverse Reactions (6.2)]
+- •Concurrent use of monoamine oxidase inhibitors (MAOIs) or use within the last 14 days [see Drug Interactions (7)].

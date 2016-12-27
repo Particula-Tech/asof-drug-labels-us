@@ -1,234 +1,187 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-## Seizure Risk
+## 5.1 Addiction, Abuse, and Misuse
+
+ULTRAM ER contains tramadol, a Schedule IV controlled substance.
+As an opioid, ULTRAM ER exposes users to the risks of addiction, abuse, and misuse.
+Because extended-release products such as ULTRAM ER deliver the opioid over an extended period of time, there is a greater risk for overdose and death due to the larger amount of tramadol present [see Drug Abuse and Dependence (9)].
+
+Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed ULTRAM ER.
+Addiction can occur at recommended dosages and if the drug is misused or abused.
+
+Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing ULTRAM ER, and monitor all patients receiving ULTRAM ER for the development of these behaviors and conditions.
+Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+The potential for these risks should not, however, prevent the proper management of pain in any given patient.
+Patients at increased risk may be prescribed opioids such as ULTRAM ER, but use in such patients necessitates intensive counseling about the risks and proper use of ULTRAM ER along with intensive monitoring for signs of addiction, abuse, and misuse.
+
+Abuse or misuse of ULTRAM ER by cutting, breaking, chewing, crushing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of tramadol and can result in overdose and death [see Overdosage (10)].
+
+Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
+Consider these risks when prescribing or dispensing ULTRAM ER.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+
+## 5.2 Life-Threatening Respiratory Depression
+
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
+Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+
+While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of ULTRAM ER, the risk is greatest during the initiation of therapy or following a dosage increase.
+Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy with and following dosage increases of ULTRAM ER.
+
+To reduce the risk of respiratory depression, proper dosing and titration of ULTRAM ER are essential [see Dosage and Administration (2)].
+Overestimating the ULTRAM ER dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
+
+Accidental ingestion of even one dose of ULTRAM ER, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
+
+## 5.3 Neonatal Opioid Withdrawal Syndrome
+
+Prolonged use of ULTRAM ER during pregnancy can result in withdrawal in the neonate.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
+
+## 5.4 Risks of Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
+
+The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors on levels of tramadol and M1 from ULTRAM ER are complex.
+Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with ULTRAM ER requires careful consideration of the effects on the parent drug, tramadol which is a weak serotonin and norepinephrine reuptake inhibitor and µ-opioid agonist, and the active metabolite, M1, which is more potent than tramadol in µ-opioid receptor binding [see Drug Interactions (7)].
+
+Risks of Concomitant Use or Discontinuation of Cytochrome P450 2D6 Inhibitors
+
+The concomitant use of ULTRAM ER with all cytochrome P450 2D6 inhibitors (e.g., amiodarone, quinidine) may result in an increase in tramadol plasma levels and a decrease in the levels of the active metabolite, M1.
+A decrease in M1 exposure in patients who have developed physical dependence to tramadol, may result in signs and symptoms of opioid withdrawal and reduced efficacy.
+The effect of increased tramadol levels may be an increased risk for serious adverse events including seizures and serotonin syndrome.
+
+Discontinuation of a concomitantly used cytochrome P450 2D6 inhibitor may result in a decrease in tramadol plasma levels and an increase in active metabolite M1 levels, which could increase or prolong adverse reactions related to opioid toxicity and may cause potentially fatal respiratory depression.
+
+Follow patients receiving ULTRAM ER and any CYP2D6 inhibitor for the risk of serious adverse events including seizures and serotonin syndrome, signs and symptoms that may reflect opioid toxicity, and opioid withdrawal when ULTRAM ER are used in conjunction with inhibitors of CYP2D6 [see Drug Interactions (7)].
+
+Cytochrome P450 3A4 Interaction
+
+The concomitant use of ULTRAM ER with cytochrome P450 3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir) or discontinuation of a cytochrome P450 3A4 inducer such as rifampin, carbamazepine, and phenytoin, may result in an increase in tramadol plasma concentrations, which could increase or prolong adverse reactions, increase the risk for serious adverse events including seizures and serotonin syndrome, and may cause potentially fatal respiratory depression.
+
+The concomitant use of ULTRAM ER with all cytochrome P450 3A4 inducers or discontinuation of a cytochrome P450 3A4 inhibitor may result in lower tramadol levels.
+This may be associated with a decrease in efficacy, and in some patients, may result in signs and symptoms of opioid withdrawal.
+
+Follow patients receiving ULTRAM ER and any CYP3A4 inhibitor or inducer for the risk for serious adverse events including seizures and serotonin syndrome, signs and symptoms that may reflect opioid toxicity and opioid withdrawal when ULTRAM ER are used in conjunction with inhibitors and inducers of CYP3A4 [see Drug Interactions (7)].
+
+## 5.5 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of ULTRAM ER with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
+Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
+
+If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
+If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
+Follow patients closely for signs and symptoms of respiratory depression and sedation.
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when ULTRAM ER is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
+
+## 5.6 Serotonin Syndrome Risk
+
+Cases of serotonin syndrome, a potentially life-threatening condition, have been reported with the use of tramadol, including ULTRAM ER, particularly during concomitant use with serotonergic drugs.
+Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
+This may occur within the recommended dosage range.
+
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination, rigidity), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+The onset of symptoms generally occurs within several hours to a few days of concomitant use, but may occur later than that.
+Discontinue ULTRAM ER if serotonin syndrome is suspected.
+
+## 5.7 Increased Risk of Seizures
 
 Seizures have been reported in patients receiving tramadol within the recommended dosage range.
 Spontaneous post-marketing reports indicate that seizure risk is increased with doses of tramadol above the recommended range.
-Concomitant use of tramadol increases the seizure risk in patients taking:
 
-- •Selective serotonin re-uptake inhibitors (SSRI antidepressants or anorectics),
-- •Tricyclic antidepressants (TCAs), and other tricyclic compounds (e.g., cyclobenzaprine, promethazine, etc.), or
-- •Other opioids.
+Concomitant use of tramadol increases the seizure risk in patients taking: [see Drug Interactions (7)].
 
-Administration of tramadol may enhance the seizure risk in patients taking:
-
-- •MAO inhibitors (see also WARNINGS, Use with MAO Inhibitors and Serotonin Re-uptake Inhibitors),
+- •Selective serotonin re-uptake inhibitors (SSRIs) and Serotonin-norepinephrine re-uptake inhibitors (SNRIs) antidepressants or anorectics,
+- •Tricyclic antidepressants (TCAs), and other tricyclic compounds (e.g., cyclobenzaprine, promethazine, etc.),
+- •Other opioids,
+- •MAO inhibitors [see Warnings and Precautions (5.9), Drug Interactions (7)]
 - •Neuroleptics, or
 - •Other drugs that reduce the seizure threshold.
 
-Risk of convulsions may also increase in patients with epilepsy, those with a history of seizures, or in patients with a recognized risk for seizure (such as head trauma, metabolic disorders, alcohol and drug withdrawal, CNS infections).
+Risk of seizures may also increase in patients with epilepsy, those with a history of seizures, or in patients with a recognized risk for seizure (such as head trauma, metabolic disorders, alcohol and drug withdrawal, CNS infections).
+
 In tramadol overdose, naloxone administration may increase the risk of seizure.
 
-## Suicide Risk
+## 5.8 Suicide Risk
 
 - •Do not prescribe ULTRAM ER for patients who are suicidal or addiction-prone.
-- •Prescribe ULTRAM ER with caution for patients taking tranquilizers or antidepressant drugs and patients who use alcohol in excess.
-- •Tell your patients not to exceed the recommended dose and to limit their intake of alcohol.
+  Consideration should be givento the use of non-narcotic analgesics in patients who are suicidal or depressed.[see Drug Abuse and Dependence (9.2)]
+- •Prescribe ULTRAM ER with caution for patients with a history of misuse and/or are currently taking CNS-active drugs including tranquilizers, or antidepressant drugs, or alcohol in excess, and patients who suffer from emotional disturbance or depression [see Drug Interactions (7)].
+- •Inform patients not to exceed the recommended dose and to limit their intake of alcohol [see Dosage and Administration (2.1), Warnings and Precautions (5.5, 5.6, 5.12)].
 
-## Serotonin Syndrome Risk
+## 5.9 Adrenal Insufficiency
 
-The development of a potentially life-threatening serotonin syndrome may occur with the use of tramadol products, including ULTRAM ER, particularly with concomitant use of serotonergic drugs such as SSRIs, SNRIs, TCAs, MAOIs, and triptans, with drugs which impair metabolism of serotonin (including MAOIs), and with drugs which impair metabolism of tramadol (CYP2D6 and CYP3A4 inhibitors).
-This may occur within the recommended dose (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
+If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
+Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
+Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
+The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-Serotonin syndrome may include mental-status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+## 5.10 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
-Tramadol products in excessive doses, either alone or in combination with other CNS depressants, including alcohol, are a major cause of drug-related deaths.
-Fatalities within the first hour of overdosage are not uncommon.
-Tramadol should not be taken in doses higher than those recommended by the physician.
-The judicious prescribing of tramadol is essential to the safe use of this drug.
-With patients who are depressed or suicidal, consideration should be given to the use of non-narcotic analgesics.
-Patients should be cautioned about the concomitant use of tramadol products and alcohol because of potentially serious CNS-additive effects of these agents.
-Because of its added depressant effects, tramadol should be prescribed with caution for those patients whose medical condition requires the concomitant administration of sedatives, tranquilizers, muscle relaxants, antidepressants, or other CNS-depressant drugs.
-Patients should be advised of the additive depressant effects of these combinations.
+The use of ULTRAM ER in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Many of the tramadol-related deaths have occurred in patients with previous histories of emotional disturbances or suicidal ideation or attempts as well as histories of misuse of tranquilizers, alcohol, and other CNS-active drugs.
-Some deaths have occurred as a consequence of the accidental ingestion of excessive quantities of tramadol alone or in combination with other drugs.
-Patients taking tramadol should be warned not to exceed the dose recommended by their physician.
+Patients with Chronic Pulmonary Disease: ULTRAM ER -treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of ULTRAM ER [see Warnings and Precautions (5.2)].
 
-## Anaphylactoid Reactions
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
-Serious and rarely fatal anaphylactoid reactions have been reported in patients receiving therapy with tramadol.
+Monitor such patients closely, particularly when initiating and titrating ULTRAM ER and when ULTRAM ER is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2, 5.5)].
+Alternatively, consider the use of non-opioid analgesics in these patients.
+
+## 5.11 Severe Hypotension
+
+ULTRAM ER may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
+Monitor these patients for signs of hypotension after initiating or titrating the dosage of ULTRAM ER.
+In patients with circulatory shock, ULTRAM ER may cause vasodilation that can further reduce cardiac output and blood pressure.
+Avoid the use of ULTRAM ER in patients with circulatory shock.
+
+## 5.12 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+
+In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), ULTRAM ER may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with ULTRAM ER.
+
+Opioids may also obscure the clinical course in a patient with a head injury.
+Avoid the use of ULTRAM ER in patients with impaired consciousness or coma.
+
+## 5.13 Risks of Use in Patients with Gastrointestinal Conditions
+
+ULTRAM ER is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
+
+The tramadol in ULTRAM ER may cause spasm of the sphincter of Oddi.
+Opioids may cause increases in serum amylase.
+Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+## 5.14 Anaphylaxis and Other Hypersensitivity Reactions
+
+Serious and rarely fatal hypersensitive reactions have been reported in patients receiving therapy with tramadol.
 When these events do occur it is often following the first dose.
-Other reported allergic reactions include pruritus, hives, bronchospasm, angioedema, toxic epidermal necrolysis and Stevens-Johnson syndrome.
-Patients with a history of anaphylactoid reactions to codeine and other opioids may be at increased risk and therefore should not receive ULTRAM ER (see CONTRAINDICATIONS).
+Other reported hypersensitivity reactions include pruritus, hives, bronchospasm, angioedema, toxic epidermal necrolysis and Stevens-Johnson syndrome.
+Patients with a history of hypersensitivity reactions to tramadol and other opioids may be at increased risk and therefore should not receive ULTRAM ER.
+If anaphylaxis or other hypersensitivity occurs, stop administration of ULTRAM ER immediately, discontinue ULTRAM ER permanently, and do not rechallenge with any formulation of tramadol.
+Advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction [see Patient Counseling Information (17)].
 
-## Respiratory Depression
+## 5.15 Withdrawal
 
-Administer ULTRAM ER cautiously in patients at risk for respiratory depression.
-In these patients alternative non-opioid analgesics should be considered.
-When large doses of tramadol are administered with anesthetic medications or alcohol, respiratory depression may result.
-Respiratory depression should be treated as an overdose.
-If naloxone is to be administered, use cautiously because it may precipitate seizures (see WARNINGS, Seizure Risk and OVERDOSAGE).
+Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including ULTRAM ER.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
-## Interaction With Central Nervous System (CNS) Depressants
+When discontinuing ULTRAM ER, gradually taper the dosage [see Dosage and Administration (2.4)].
+Do not abruptly discontinue ULTRAM ER [see Drug Abuse and Dependence (9.3)].
 
-ULTRAM ER should be used with caution and in reduced dosages when administered to patients receiving CNS depressants such as alcohol, opioids, anesthetic agents, narcotics, phenothiazines, tranquilizers or sedative hypnotics.
-ULTRAM ER increases the risk of CNS and respiratory depression in these patients.
+## 5.16 Risks of Driving and Operating Machinery
 
-Increased Intracranial Pressure or Head Trauma
-
-ULTRAM ER should be used with caution in patients with increased intracranial pressure or head injury.
-The respiratory depressant effects of opioids include carbon dioxide retention and secondary elevation of cerebrospinal fluid pressure, and may be markedly exaggerated in these patients.
-Additionally, pupillary changes (miosis) from tramadol may obscure the existence, extent, or course of intracranial pathology.
-Clinicians should also maintain a high index of suspicion for adverse drug reaction when evaluating altered mental status in these patients if they are receiving ULTRAM ER (see WARNINGS, Respiratory Depression).
-
-Use in Ambulatory Patients
-
-ULTRAM ER may impair the mental and or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery.
-The patient using this drug should be cautioned accordingly.
-
-Use With MAO Inhibitors and Serotonin Re-uptake Inhibitors
-
-Use ULTRAM ER with great caution in patients taking monoamine oxidase inhibitors.
-Animal studies have shown increased deaths with combined administration.
-Concomitant use of ULTRAM ER with MAO inhibitors or SSRIs increases the risk of adverse events, including seizure and serotonin syndrome.
-
-## Withdrawal
-
-Withdrawal symptoms may occur if ULTRAM ER is discontinued abruptly.
-These symptoms may include: anxiety, sweating, insomnia, rigors, pain, nausea, tremors, diarrhea, upper respiratory symptoms, piloerection, and rarely hallucinations.
-Clinical experience suggests that withdrawal symptoms may be reduced by tapering ULTRAM ER.
-
-Misuse, Abuse and Diversion of Opioids
-
-Tramadol is an opioid agonist of the morphine-type.
-Such drugs are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
-
-Tramadol can be abused in a manner similar to other opioid agonists, legal or illicit.
-This should be considered when prescribing or dispensing ULTRAM ER in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse, or diversion.
-
-ULTRAM ER could be abused by crushing, chewing, snorting, or injecting the dissolved product.
-These practices will result in the uncontrolled delivery of the opioid and pose a significant risk to the abuser that could result in overdose and death (see WARNINGS and DRUG ABUSE AND ADDICTION).
-
-Concerns about abuse, addiction, and diversion should not prevent the proper management of pain.
-The development of addiction to opioid analgesics in properly managed patients with pain has been reported to be rare.
-However, data are not available to establish the true incidence of addiction in chronic pain patients.
-
-Healthcare professionals should contact their State Professional Licensing Board or State Controlled Substances Authority for information on how to prevent and detect abuse or diversion of this product.
-
-Interactions with Alcohol and Drugs of Abuse
-
-Tramadol may be expected to have additive effects when used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
-
-# PRECAUTIONS
-
-## Acute Abdominal Condition
-
-The administration of ULTRAM ER may complicate the clinical assessment of patients with acute abdominal conditions.
-
-## Use in Renal and Hepatic Disease
-
-Impaired renal function results in a decreased rate and extent of excretion of tramadol and its active metabolite, M1.
-ULTRAM ER has not been studied in patients with severe renal impairment (CLcr < 30 mL/min).
-The limited availability of dose strengths and once daily dosing of ULTRAM ER do not permit the dosing flexibility required for safe use in patients with severe renal impairment.
-Therefore, ULTRAM ER should not be used in patients with severe renal impairment (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
-Metabolism of tramadol and M1 is reduced in patients with advanced cirrhosis of the liver.
-The pharmacokinetics of ULTRAM ER has not been studied in patients with severe hepatic impairment.
-The limited availability of dose strengths and once daily dosing of ULTRAM ER do not permit the dosing flexibility required for safe use in patients with severe hepatic impairment.
-Therefore, ULTRAM ER should not be used in patients with severe hepatic impairment (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
-
-## INFORMATION FOR PATIENTS
-
-- •Patients should be informed that ULTRAM ER is for oral use only and should be swallowed whole.
-  The tablets should not be chewed, crushed, or split.
-- •Patients should be informed that ULTRAM ER may cause seizures and/or serotonin syndrome with concomitant use of serotonergic agents (including SSRIs, SNRIs, and triptans) or drugs that significantly reduce the metabolic clearance of tramadol.
-- •Patients should be informed that ULTRAM ER may impair mental or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery.
-- •Patients should be informed that ULTRAM ER should not be taken with alcohol containing beverages.
-- •Patients should be informed that ULTRAM ER should be used with caution when taking medications such as tranquilizers, hypnotics or other opiate containing analgesics.
-- •Female patients should be instructed to inform the prescriber if they are pregnant, think they might become pregnant, or are trying to become pregnant (see PRECAUTIONS, Labor and Delivery).
-- •Patients should be educated regarding the single-dose and 24-hour dosing regimen, as exceeding these recommendations can result in respiratory depression, seizures or death.
-
-Use in Drug and Alcohol Addiction
-
-ULTRAM ER is an opioid with no approved use in the management of addictive disorders.
-Its proper usage in individuals with drug or alcohol dependence, either active or in remission, is for the management of pain requiring opioid analgesia.
-
-## Drug Interactions
-
-CYP2D6 and CYP3A4 Inhibitors: Concomitant administration of CYP2D6 and/or CYP3A4 inhibitors (see CLINICAL PHARMACOLOGY, Pharmacokinetics), such as quinidine, fluoxetine, paroxetine and amitriptyline (CYP2D6 inhibitors), and ketoconazole and erythromycin (CYP3A4 inhibitors), may reduce metabolic clearance of tramadol increasing the risk for serious adverse events including seizures and serotonin syndrome.
-
-Serotonergic Drugs: There have been postmarketing reports of serotonin syndrome with use of tramadol and SSRIs/SNRIs or MAOIs and α2-adrenergic blockers.
-Caution is advised when ULTRAM ER is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as SSRIs, MAOIs, triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, or St. John's Wort.
-If concomitant treatment of ULTRAM ER with a drug affecting the serotonergic neurotransmitter system is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome Risk).
-
-Triptans: Based on the mechanism of action of tramadol and the potential for serotonin syndrome, caution is advised when ULTRAM ER is coadministered with a triptan.
-If concomitant treatment of ULTRAM ER with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome Risk).
-
-Use With Carbamazepine
-
-Patients taking carbamazepine, a CYP3A4 inducer, may have a significantly reduced analgesic effect of tramadol.
-Because carbamazepine increases tramadol metabolism and because of the seizure risk associated with tramadol, concomitant administration of ULTRAM ER and carbamazepine is not recommended.
-
-Use With Quinidine
-
-Coadministration of quinidine with ULTRAM ER resulted in a 50-60% increase in tramadol exposure and a 50-60% decrease in M1 exposure (see CLINICAL PHARMACOLOGY, Drug Interactions).
-The clinical consequences of these findings are unknown.
-
-Use With Digoxin and Warfarin
-
-Post-marketing surveillance of tramadol has revealed rare reports of digoxin toxicity and alteration of warfarin effect, including elevation of prothrombin times.
-
-Potential for Other Drugs to Affect Tramadol
-
-In vitro drug interaction studies in human liver microsomes indicate that concomitant administration with inhibitors of CYP2D6 such as fluoxetine, paroxetine, and amitriptyline could result in some inhibition of the metabolism of tramadol.
-
-Administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or inducers, such as rifampin and St. John's Wort, with ULTRAM ER may affect the metabolism of tramadol leading to altered tramadol exposure.
-
-Potential for Tramadol to Affect Other Drugs
-
-In vitro drug interaction studies in human liver microsomes indicate that tramadol has no effect on quinidine metabolism.
-In vitro studies indicate that tramadol is unlikely to inhibit the CYP3A4-mediated metabolism of other drugs when administered concomitantly at therapeutic doses.
-Tramadol is a mild inducer of selected drug metabolism pathways measured in animals.
-
-## CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY
-
-No carcinogenic effect of tramadol was observed in p53(+/–)-heterozygous mice at oral doses up to 150 mg/kg/day (approximately 2-fold maximum daily human dose [MDHD] of 400 mg/day for a 60 kg adult based on body surface conversion) for 26 weeks and in rats at oral doses up to 75 mg/kg/day for males and 100 mg/kg/day for females (approximately 2-fold MDHD) for two years.
-However, the excessive decrease in body weight gain observed in the rat study might have reduced their sensitivity to any potential carcinogenic effect of the drug.
-
-Tramadol was not mutagenic in the following assays: a bacterial reverse mutation assay using Salmonella and E. coli, a mouse lymphoma assay (in the absence of metabolic activation), and a bone marrow micronucleus test in mice.
-Mutagenic results occurred in the presence of metabolic activation in the mouse lymphoma assay.
-Overall, the weight of evidence from these tests indicates that tramadol does not pose a genotoxic risk to humans.
-
-No effects on fertility were observed for tramadol at oral dose levels up to 50 mg/kg/day in male and female rats (approximately equivalent to MDHD).
-
-## Pregnancy
-
-Teratogenic Effects: Pregnancy Category C
-
-Tramadol was not teratogenic at oral dose levels up to 50 mg/kg/day (approximately equivalent to MDHD) in rats and 100 mg/kg (approximately 5-fold MDHD) in rabbits during organogenesis.
-However, embryo-fetal lethality, reductions in fetal weight and skeletal ossification, and increased supernumerary ribs were observed at a maternal toxic dose of 140 mg/kg in mice (approximately 2-fold MDHD), 80 mg/kg in rats (2-fold MDHD) or 300 mg/kg in rabbits (approximately 15-fold MDHD).
-
-Non-teratogenic Effects
-
-Tramadol caused a reduction in neonatal body weight and survival at an oral dose of 80 mg/kg (approximately 2-fold MDHD) when rats were treated during late gestation throughout lactation period.
-
-There are no adequate and well-controlled studies in pregnant women.
-ULTRAM ER should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Neonatal seizures, neonatal withdrawal syndrome, fetal death and still birth have been reported during post-marketing reports with tramadol HCl immediate-release products.
-
-Labor and Delivery
-
-ULTRAM ER should not be used in pregnant women prior to or during labor unless the potential benefits outweigh the risks.
-Safe use in pregnancy has not been established.
-Chronic use during pregnancy may lead to physical dependence and post-partum withdrawal symptoms in the newborn (see DRUG ABUSE AND ADDICTION).
-Tramadol has been shown to cross the placenta.
-The mean ratio of serum tramadol in the umbilical veins compared to maternal veins was 0.83 for 40 women treated with tramadol HCl during labor.
-
-The effect of ULTRAM ER, if any, on the later growth, development, and functional maturation of the child is unknown.
-
-## Nursing Mothers
-
-ULTRAM ER is not recommended for obstetrical preoperative medication or for post-delivery analgesia in nursing mothers because its safety in infants and newborns has not been studied.
-Following a single IV 100-mg dose of tramadol, the cumulative excretion in breast milk within sixteen hours postdose was 100 µg of tramadol (0.1% of the maternal dose) and 27 µg of M1.
-
-## Pediatric Use
-
-The safety and efficacy of ULTRAM ER in patients under 18 years of age have not been established.
-The use of ULTRAM ER in the pediatric population is not recommended.
-
-## Geriatric Use
-
-Nine-hundred-one elderly (65 years of age or older) subjects were exposed to ULTRAM ER in clinical trials.
-Of those subjects, 156 were 75 years of age and older.
-In general, higher incidence rates of adverse events were observed for patients older than 65 years of age compared with patients 65 years and younger, particularly for the following adverse events: constipation, fatigue, weakness, postural hypotension and dyspepsia.
-For this reason, ULTRAM ER should be used with great caution in patients older than 75 years of age (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+ULTRAM ER may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
+Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of ULTRAM ER and know how they will react to the medication [see Patient Counseling Information (17)].
