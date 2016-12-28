@@ -1,16 +1,16 @@
 # ADVERSE REACTIONS
 
-Serious adverse reactions have been rare in studies with Diltiazem hydrochloride extended-release capsules, as well as with other diltiazem formulations.
+Serious adverse reactions have been rare in studies with diltiazem hydrochloride extended-release capsules as well as with other diltiazem formulations.
 It should be recognized that patients with impaired ventricular function and cardiac conduction abnormalities have usually been excluded from these studies.
-A total of 256 hypertensives were treated for between 4 and 8 weeks; a total of 207 patients with chronic stable angina were treated for 3 weeks with doses of Diltiazem hydrochloride extended-release capsules ranging from 120 to 540 mg once daily.
+A total of 256 hypertensives were treated for between 4 and 8 weeks; a total of 207 patients with chronic stable angina were treated for 3 weeks with doses of diltiazem hydrochloride extended-release capsules ranging from 120 to 540 mg once daily.
 Two patients experienced first-degree AV block at the 540 mg dose.
-The following table presents the most common adverse reactions, whether or not drug-related, reported in placebo-controlled trials in patients receiving Diltiazem hydrochloride extended-release capsules up to 360 mg and up to 540 mg with rates in placebo patients shown for comparison.
+The following table presents the most common adverse reactions, whether or not drug-related, reported in placebo-controlled trials in patients receiving diltiazem hydrochloride extended-release capsules up to 360 mg and up to 540 mg with rates in placebo patients shown for comparison.
 
 MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED HYPERTENSION TRIALSAdverse events occurring in treated patients at 2% or more than placebo-treated patients.
 
-| Adverse Events (COSTART Term) | n=57 # pts (%) | Up to 360 mg n=149 # pts (%) | 480-540mg n=48 # pts (%) |
+| Adverse Events (COSTART Term) | n=57 # pts (%) | Up to 360 mg n=149 # pts (%) | 480-540 mg n=48 # pts (%) |
 | --- | --- | --- | --- |
-|  | Placebo | Diltiazem hydrochloride extended-release capsules |  |
+|  | Placebo | Diltiazem Hydrochloride Extended-Release Capsules |  |
 | edema, peripheral | 1 (2) | 8 (5) | 7 (15) |
 | dizziness | 4 (7) | 6 (4) | 2 (4) |
 | vasodilation | 1 (2) | 5 (3) | 1 (2) |
@@ -26,7 +26,7 @@ MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED ANGINA TRIALSAdver
 
 | Adverse Events (COSTART Term) | n=50 # pts (%) | Up to 360 mg n=158 # pts (%) | 540 mg n=49 # pts (%) |
 | --- | --- | --- | --- |
-|  | Placebo | Diltiazem hydrochloride extended-release capsules |  |
+|  | Placebo | Diltiazem Hydrochloride Extended-Release Capsules |  |
 | headache | 1 (2) | 13 (8) | 4 (8) |
 | edema, peripheral | 1 (2) | 3 (2) | 5 (10) |
 | pain | 1 (2) | 10 (6) | 3 (6) |
@@ -63,3 +63,5 @@ In addition, the following postmarketing events have been reported infrequently 
 In addition, events such as myocardial infarction have been observed which are not readily distinguishable from the natural history of the disease in these patients.
 A number of well-documented cases of generalized rash, characterized as leukocytoclastic vasculitis, have been reported.
 However, a definitive cause and effect relationship between these events and diltiazem hydrochloride therapy is yet to be established.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -1,27 +1,11 @@
-USP Drug Release Test 6
+Manufactured for: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807, USA
 
-LB0105-00 Rev.
-06/2014
+By: Valeant Pharmaceuticals International, Inc. Steinbach, Manitoba R5G 1Z7 Canada
 
-Rx Only
+©Valeant Pharmaceuticals North America LLC
 
-Rx Only.
+Revised: 09/2016
 
-Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, Manitoba R5G 1Z7, Canada
+9405701
 
-For:
-
-Oceanside Pharmaceuticals,
-
-a division of Valeant Pharmaceuticals North America LLC
-
-Bridgewater, NJ 08807, USA
-
-Made in Canada
-
-Rev.
-06/2014
-
-9405700
-
-LB0105-00
+20001591

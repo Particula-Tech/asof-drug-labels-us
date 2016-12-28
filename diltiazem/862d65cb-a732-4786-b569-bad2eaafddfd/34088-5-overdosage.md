@@ -6,10 +6,8 @@ The oral LD50 in dogs is considered to be in excess of 50 mg/kg, while lethality
 
 The toxic dose in man is not known.
 Due to extensive metabolism, blood levels after a standard dose of diltiazem can vary over tenfold, limiting the usefulness of blood levels in overdose cases.
-There have been 29 reports of diltiazem overdose in doses ranging from less than 1 gm to 10.8 gm.
-Sixteen of these reports involved multiple drug ingestions.
-Twenty-two reports indicated patients had recovered from diltiazem overdose ranging from less than 1 gm to 10.8 gm.
-There were seven reports with a fatal outcome; although the amount of diltiazem ingested was unknown, multiple drug ingestions were confirmed in six of the seven reports.
+There have been 29 reports of diltiazem overdose in doses ranging from less than 1 g to 10.8 g. Sixteen of these reports involved multiple drug ingestions.
+Twenty-two reports indicated patients had recovered from diltiazem overdose ranging from less than 1 g to 10.8 g. There were seven reports with a fatal outcome; although the amount of diltiazem ingested was unknown, multiple drug ingestions were confirmed in six of the seven reports.
 
 Events observed following diltiazem overdose included bradycardia, hypotension, heart block, and cardiac failure.
 Most reports of overdose described some supportive medical measure and/or drug treatment.
@@ -38,4 +36,4 @@ In a few reported cases, overdose with calcium channel blockers has been associa
 Due to extensive metabolism, plasma concentrations after a standard dose of diltiazem can vary over tenfold, which significantly limits their value in evaluation cases of overdosage.
 
 Charcoal hemoperfusion has been used successfully as an adjunct therapy to hasten drug elimination.
-Overdoses with as much as 10.8 gm of oral diltiazem have been successfully treated using appropriate supportive care.
+Overdoses with as much as 10.8 g of oral diltiazem have been successfully treated using appropriate supportive care.

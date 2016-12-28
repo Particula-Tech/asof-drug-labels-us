@@ -8,7 +8,7 @@ Hypertension: Diltiazem produces its antihypertensive effect primarily by relaxa
 The magnitude of blood pressure reduction is related to the degree of hypertension: thus hypertensive individuals experience an antihypertensive effect, whereas there is only a modest fall in blood pressure in normotensives.
 
 Angina: Diltiazem HCl has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
-This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal work loads.
+This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal workloads.
 
 Diltiazem has been shown to be a potent dilator of coronary arteries, both epicardial and subendocardial.
 Spontaneous and ergonovine-induced coronary artery spasms are inhibited by diltiazem.
@@ -24,13 +24,13 @@ Like other calcium channel antagonists, diltiazem decreases sinoatrial and atrio
 In the intact animal, prolongation of the AH interval can be seen at higher doses.
 
 In man, diltiazem prevents spontaneous and ergonovine-provoked coronary artery spasm.
-It causes a decrease in peripheral vascular resistance and a modest fall in blood pressure in normotensive individuals and, in exercise tolerance studies in patients with ischemic heart disease, reduces the heart rate-blood pressure product for any given work load.
+It causes a decrease in peripheral vascular resistance and a modest fall in blood pressure in normotensive individuals and, in exercise tolerance studies in patients with ischemic heart disease, reduces the heart rate-blood pressure product for any given workload.
 Studies to date, primarily in patients with good ventricular function, have not revealed evidence of a negative inotropic effect; cardiac output, ejection fraction, and left ventricular end-diastolic pressure have not been affected.
 Such data have no predictive value with respect to effects in patients with poor ventricular function, and increased heart failure has been reported in patients with preexisting impairment of ventricular function.
 There are as yet few data on the interaction of diltiazem and beta-blockers in patients with poor ventricular function.
 Resting heart rate is usually slightly reduced by diltiazem.
 
-Diltiazem hydrochloride extended-release capsules produces antihypertensive effects both in the supine and standing positions.
+Diltiazem hydrochloride extended-release capsules produce antihypertensive effects both in the supine and standing positions.
 Postural hypotension is infrequently noted upon suddenly assuming an upright position.
 No reflex tachycardia is associated with the chronic antihypertensive effects.
 
@@ -42,27 +42,27 @@ Diltiazem hydrochloride reduces the renal and peripheral effects of angiotensin 
 Hypertensive animal models respond to diltiazem with reductions in blood pressure and increased urinary output and natriuresis without a change in urinary sodium/potassium ratio.
 In man, transient natriuresis and kaliuresis have been reported, but only in high intravenous doses of 0.5 mg/kg of body weight.
 
-Diltiazem-associated prolongation of the AH interval is not more pronounced in patients with first degree heart block.
+Diltiazem-associated prolongation of the AH interval is not more pronounced in patients with first-degree heart block.
 In patients with sick sinus syndrome, diltiazem significantly prolongs sinus cycle length (up to 50% in some cases).
 Intravenous diltiazem in doses of 20 mg prolongs AH conduction time and AV node functional and effective refractory periods by approximately 20%.
 
-In two short term, double-blind, placebo-controlled studies in 256 hypertensive patients with doses up to 540 mg/day, diltiazem hydrochloride extended-release capsules showed a clinically unimportant but statistically significant, dose-related increase in PR interval (0.008 seconds).
+In two short-term, double-blind, placebo-controlled studies in 256 hypertensive patients with doses up to 540 mg/day, diltiazem hydrochloride extended-release capsules showed a clinically unimportant but statistically significant, dose-related increase in PR interval (0.008 seconds).
 There were no instances of greater than first-degree AV block in any of the clinical trials (see WARNINGS).
 
 Pharmacodynamics
 
-Hypertension: In short term, double blind, placebo-controlled clinical trials, diltiazem hydrochloride extended-release capsules demonstrated a dose-related antihypertensive response among patients with mild to moderate hypertension.
-In one parallel-group study of 198 patients, diltiazem hydrochloride extended-release capsules was given for four weeks.
+Hypertension: In short-term, double-blind, placebo-controlled clinical trials, diltiazem hydrochloride extended-release capsules demonstrated a dose-related antihypertensive response among patients with mild to moderate hypertension.
+In one parallel-group study of 198 patients diltiazem hydrochloride extended-release capsules were given for four weeks.
 The changes in diastolic blood pressure measured at trough (24 hours after the dose) for placebo, 90 mg, 180 mg, 360 mg and 540 mg were -5.4, -6.3, -6.2, -8.2, and -11.8 mm Hg, respectively.
 Supine diastolic blood pressure as well as standing diastolic and systolic blood pressures also showed statistically significant linear dose response effects.
 
 In another clinical trial that followed a dose-escalation design, diltiazem hydrochloride extended-release capsules also reduced blood pressure in a linear dose-related manner.
 Supine diastolic blood pressure measured following two-week intervals of treatment was reduced by -3.7 mm Hg with 120 mg/day versus -2.0 mm Hg with placebo, by -7.6 mm Hg after escalation to 240 mg/day versus -2.3 mm Hg with placebo, by -8.1 mm Hg after escalation to 360 mg/day versus -0.9 mm Hg with placebo, and by -10.8 mm Hg after escalation to 480/540 mg/day versus -2.2 mm Hg with placebo.
 
-Angina: In a double-blind parallel group placebo-controlled trial (approximately 50 patients/group, in patients with chronic stable angina), diltiazem hydrochloride extended-release capsules at doses of 120 to 540 mg/day increased exercise tolerance time.
+Angina: In a double-blind, parallel-group placebo-controlled trial (approximately 50 patients/group, in patients with chronic stable angina), diltiazem hydrochloride extended-release capsules at doses of 120 to 540 mg/day increased exercise tolerance time.
 At trough, 24 hours after dosing, exercise tolerance times using a Bruce exercise protocol, increased by 14, 26, 41, 33 and 32 seconds over baseline for placebo and the 120 mg, 240 mg, 360 mg, and 540 mg treated patient groups, respectively.
-At peak, 8 hours after dosing, exercise tolerance times relative to baseline were statistically significantly increased by 13, 38, 64, 55 and 42 seconds for placebo and 120 mg, 240 mg, 360 mg, and 540 mg diltiazem hydrochloride extended-release capsules treated patients, respectively.
-Compared to baseline, diltiazem hydrochloride extended-release capsules treated patients experienced statistically significant reductions in anginal attacks and decreased nitroglycerin requirements when compared to placebo treated patients.
+At peak, 8 hours after dosing, exercise tolerance times relative to baseline were statistically significantly increased by 13, 38, 64, 55 and 42 seconds for placebo and 120 mg, 240 mg, 360 mg, and 540 mg diltiazem hydrochloride extended-release capsule treated patients, respectively.
+Compared to baseline, diltiazem hydrochloride extended-release capsule treated patients experienced statistically significant reductions in anginal attacks and decreased nitroglycerin requirements when compared to placebo-treated patients.
 
 Pharmacokinetics and Metabolism
 
@@ -78,17 +78,16 @@ The desacetyl metabolite is approximately 25% to 50% as potent a coronary vasodi
 However, recent studies employing sensitive and specific analytical methods have confirmed the existence of several sequential metabolic pathways of diltiazem.
 As many as nine diltiazem metabolites have been identified in the urine of humans.
 Total radioactivity measurements following single intravenous dose administration in healthy volunteers suggest the presence of other unidentified metabolites.
-These metabolites are more slowly excreted (with a half-life of total radioactivity of approximately 20 hours), and attain concentrations in excess of diltiazem.
+These metabolites are more slowly excreted (with a half-life of total radioactivity of approximately 20 hours) and attain concentrations in excess of diltiazem.
 
 In vitro binding studies show diltiazem HCl is 70% to 80% bound to plasma proteins.
 Competitive in vitro ligand binding studies have also shown diltiazem HCl binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
 A study that compared patients with normal hepatic function to patients with cirrhosis who received immediate-release diltiazem found an increase in diltiazem elimination half-life and a 69% increase in bioavailability in the hepatically impaired patients.
 Patients with severely impaired renal function (creatinine clearance <50 mL/min) who received immediate-release diltiazem had modestly increased diltiazem concentrations compared to patients with normal renal function.
 
-Diltiazem hydrochloride Extended-Release Capsules.
-When compared to a regimen of immediate-release tablets at steady-state, approximately 93% of drug is absorbed from the diltiazem hydrochloride extended-release capsules formulation.
-When diltiazem hydrochloride extended-release capsules was coadministered with a high fat content breakfast, the extent of diltiazem absorption was not affected; Tmax, however, occurred slightly earlier.
+Diltiazem Hydrochloride Extended-Release Capsules: When compared to a regimen of immediate-release tablets at steady-state, approximately 93% of drug is absorbed from the diltiazem hydrochloride extended-release capsules formulation.
+When diltiazem hydrochloride extended-release capsules were coadministered with a high fat content breakfast, the extent of diltiazem absorption was not affected; Tmax, however, occurred slightly earlier.
 The apparent elimination half-life after single or multiple dosing is 4 to 9.5 hours (mean 6.5 hours).
 
-Diltiazem hydrochloride extended-release capsules demonstrates non-linear pharmacokinetics.
-As the daily dose of diltiazem hydrochloride extended-release capsules capsules is increased from 120 to 540 mg, there was a more than proportional increase in diltiazem plasma concentrations as evidenced by an increase of AUC, Cmax and Cmin of 6.8, 6 and 8.6 times, respectively, for a 4.5 times increase in dose.
+Diltiazem hydrochloride extended-release capsules demonstrate non-linear pharmacokinetics.
+As the daily dose of diltiazem hydrochloride extended-release capsules was increased from 120 to 540 mg, there was a more than proportional increase in diltiazem plasma concentrations as evidenced by an increase of AUC, Cmax and Cmin of 6.8, 6 and 8.6 times, respectively, for a 4.5 times increase in dose.
