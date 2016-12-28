@@ -51,7 +51,7 @@ There were no instances of greater than first-degree AV block in any of the clin
 
 Pharmacodynamics
 
-Hypertension: In short-term, double-blind, placebo-controlled clinical trials Tiazac demonstrated a dose-related antihypertensive response among patients with mild to moderate hypertension.
+Hypertension: In short-term, double-blind, placebo-controlled clinical trials, Tiazac demonstrated a dose-related antihypertensive response among patients with mild to moderate hypertension.
 In one parallel-group study of 198 patients Tiazac was given for four weeks.
 The changes in diastolic blood pressure measured at trough (24 hours after the dose) for placebo, 90 mg, 180 mg, 360 mg and 540 mg were -5.4, -6.3, -6.2, -8.2, and -11.8 mm Hg, respectively.
 Supine diastolic blood pressure as well as standing diastolic and systolic blood pressures also showed statistically significant linear dose response effects.
@@ -59,10 +59,10 @@ Supine diastolic blood pressure as well as standing diastolic and systolic blood
 In another clinical trial that followed a dose-escalation design, Tiazac also reduced blood pressure in a linear dose-related manner.
 Supine diastolic blood pressure measured following two-week intervals of treatment was reduced by -3.7 mm Hg with 120 mg/day versus -2.0 mm Hg with placebo, by -7.6 mm Hg after escalation to 240 mg/day versus -2.3 mm Hg with placebo, by -8.1 mm Hg after escalation to 360 mg/day versus -0.9 mm Hg with placebo, and by -10.8 mm Hg after escalation to 480/540 mg/day versus -2.2 mm Hg with placebo.
 
-Angina: In a double-blind, parallel-group placebo-controlled trial (approximately 50 patients/group, in patients with chronic stable angina), Tiazac at doses of 120 to 540 mg/day increased exercise tolerance time.
+Angina: In a double-blind, parallel-group, placebo-controlled trial (approximately 50 patients/group, in patients with chronic stable angina), Tiazac at doses of 120 to 540 mg/day increased exercise tolerance time.
 At trough, 24 hours after dosing, exercise tolerance times using a Bruce exercise protocol, increased by 14, 26, 41, 33 and 32 seconds over baseline for placebo and the 120 mg, 240 mg, 360 mg, and 540 mg treated patient groups, respectively.
 At peak, 8 hours after dosing, exercise tolerance times relative to baseline were statistically significantly increased by 13, 38, 64, 55 and 42 seconds for placebo and 120 mg, 240 mg, 360 mg, and 540 mg Tiazac treated patients, respectively.
-Compared to baseline, Tiazac treated patients experienced statistically significant reductions in anginal attacks and decreased nitroglycerin requirements when compared to placebo treated patients.
+Compared to baseline, Tiazac treated patients experienced statistically significant reductions in anginal attacks and decreased nitroglycerin requirements when compared to placebo-treated patients.
 
 Pharmacokinetics and Metabolism
 

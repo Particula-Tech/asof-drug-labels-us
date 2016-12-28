@@ -6,11 +6,10 @@ Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 0880
 
 By: Valeant Pharmaceuticals International, Inc. Steinbach, Manitoba R5G 1Z7 Canada
 
-Tiazac is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Tiazac is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates. ©Valeant Pharmaceuticals North America LLC
 
-©Valeant Pharmaceuticals North America LLC
+Revised: 09/2016
 
-[Part #]
+9405001
 
-Rev.
-11/2016
+20001595

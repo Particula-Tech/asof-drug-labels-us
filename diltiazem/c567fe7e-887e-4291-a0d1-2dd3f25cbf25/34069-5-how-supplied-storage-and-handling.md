@@ -17,5 +17,5 @@ Tiazac® (diltiazem hydrochloride) Extended-Release Capsules
 | 420 mg | #00 white/white capsule imprinted: Tiazac 420 | 30 | 0187-2617-30 |
 | 90 | 0187-2617-90 |  |  |
 
-Storage conditions: Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Storage conditions: Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Avoid excessive humidity.
