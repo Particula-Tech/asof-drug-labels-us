@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Ritonavir is an antiviral drug [see Microbiology (12.4)].
+Ritonavir is an antiretroviral drug [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -101,6 +101,10 @@ No dose adjustment is recommended in patients with mild or moderate hepatic impa
 However, health care providers should be aware of the potential for lower ritonavir concentrations in patients with moderate hepatic impairment and should monitor patient response carefully.
 Ritonavir has not been studied in patients with severe hepatic impairment.
 
+Pregnancy
+
+Based on evaluation of the published literature, ritonavir exposures are reduced during pregnancy relative to postpartum.
+
 Drug Interactions
 
 [see also Contraindications (4), Warnings and Precautions (5.1), and Drug Interactions (7)]
@@ -160,7 +164,7 @@ Drug Interactions - Pharmacokinetic Parameters for Co-administered Drug in the P
 Mechanism of Action
 
 Ritonavir is a peptidomimetic inhibitor of the HIV-1 protease.
-Inhibition of HIV protease renders the enzyme incapable of processing the gag-pol polyprotein precursor which leads to production of non-infectious immature HIV particles.
+Inhibition of HIV protease renders the enzyme incapable of processing the Gag-Pol polyprotein precursor which leads to production of non-infectious immature HIV particles.
 
 Antiviral Activity in Cell Culture
 
@@ -168,7 +172,7 @@ The activity of ritonavir was assessed in acutely infected lymphoblastoid cell l
 The concentration of drug that inhibits 50% (EC50) value of viral replication ranged from 3.8 to 153 nM depending upon the HIV-1 isolate and the cells employed.
 The average EC50 value for low passage clinical isolates was 22 nM (n = 13).
 In MT4 cells, ritonavir demonstrated additive effects against HIV-1 in combination with either didanosine (ddI) or zidovudine (ZDV).
-Studies which measured cytotoxicity of ritonavir on several cell lines showed that greater than 20 µM was required to inhibit cellular growth by 50% resulting in a cell culture therapeutic index of at least 1000.
+Studies which measured cytotoxicity of ritonavir on several cell lines showed that greater than 20 microM was required to inhibit cellular growth by 50% resulting in a cell culture therapeutic index of at least 1000.
 
 Resistance
 

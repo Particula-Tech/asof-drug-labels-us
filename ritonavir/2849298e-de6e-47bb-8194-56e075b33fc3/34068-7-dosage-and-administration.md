@@ -25,6 +25,11 @@ Use of a dose titration schedule may help to reduce treatment-emergent adverse e
 Ritonavir should be started at no less than 300 mg twice daily and increased at 2 to 3 day intervals by 100 mg twice daily.
 The maximum dose of 600 mg twice daily should not be exceeded upon completion of the titration.
 
+Pregnant Women
+
+NORVIR oral solution is not recommended during pregnancy due to its alcohol content.
+NORVIR oral solution contains the excipients alcohol (43.2% v/v) and propylene glycol (26.57% w/v) [see Use in Specific Populations (8.1)].
+
 ## 2.2 Pediatric Patients
 
 Ritonavir should be used in combination with other antiretroviral agents [see Dosage and Administration (2)].

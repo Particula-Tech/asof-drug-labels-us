@@ -14,6 +14,8 @@ General Information
 
  For adult patients taking NORVIR tablets, the maximum dose of 600 mg twice daily by mouth with meals should not be exceeded.
 
+ Advise pregnant women that use of NORVIR oral solution during pregnancy is not recommended due to its alcohol content [see Dosage and Administration (2.1) and Use in Specific Population (8.1)].
+
  Patients should remain under the care of a physician while using NORVIR.
 Patients should be advised to take NORVIR and other concomitant antiretroviral therapy every day as prescribed.
 NORVIR must always be used in combination with other antiretroviral drugs.
@@ -30,8 +32,7 @@ Patients should be advised to avoid doing things that can spread HIV-1 infection
 - Do not have any kind of sex without protection.
   Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 - Do not breastfeed.
-  We do not know if NORVIR can be passed to the baby through breast milk and whether it could harm the baby.
-  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
+  Instruct women with HIV-1 infection not breastfeed because HIV-1 can be passed to the infant in the breast milk [see Use in Specific Populations (8.2)].
 
  Sustained decreases in plasma HIV-1 RNA have been associated with a reduced risk of progression to AIDS and death.
 
@@ -39,7 +40,7 @@ Drug Interactions
 
  NORVIR may interact with some drugs; therefore, patients should be advised to report to their doctor the use of any other prescription, non-prescription medication or herbal products, particularly St. John's Wort.
 
- If they are receiving estrogen-based hormonal contraceptives, additional or alternate contraceptive measures should be used during therapy with NORVIR.
+ Instruct patients receiving combined hormonal contraception to use an effective alternative contraceptive method or an additional barrier method during therapy with NORVIR because hormonal levels may decrease [see Drug Interactions (7.3), Use in Specific Populations (8.3)].
 
 Potential Adverse Effects
 
@@ -53,6 +54,10 @@ Your patients should let you know of signs and symptoms (nausea, vomiting, and a
  Skin rashes ranging in severity from mild to Stevens-Johnson syndrome have been reported in patients receiving NORVIR.
 Patients should be advised to contact their healthcare provider if they develop a rash while taking NORVIR.
 The healthcare provider will determine if treatment should be continued or an alternative antiretroviral regimen used.
+
+ Pregnancy Exposure Registry
+
+Inform patients that there is an antiretroviral pregnancy registry that monitors fetal outcomes of pregnant women exposed to NORVIR [see Use in Specific Populations (8.1)].
 
  NORVIR may produce changes in the electrocardiogram (e.g., PR prolongation).
 Patients should consult their physician if they experience symptoms such as dizziness, lightheadedness, abnormal heart rhythm or loss of consciousness.
@@ -84,4 +89,4 @@ North Chicago, IL 60064 USA
 
 © 2016 AbbVie Inc. All rights reserved.
 
-03-B420
+03-B455
