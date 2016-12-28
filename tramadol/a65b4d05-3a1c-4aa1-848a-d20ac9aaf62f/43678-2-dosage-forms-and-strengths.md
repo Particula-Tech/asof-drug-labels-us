@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-ConZip® is available in 100 mg, 200 mg and 300 mg extended-release capsules.
+Extended-release capsules are available as:
 
 100 mg Capsules: White capsule imprinted with blue ink “G 252” on cap and “100” between lines on the body
 

@@ -2,61 +2,109 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
-Use ConZip® during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrom [see Warnings and Precautions (5.3)].
+Available data with CONZIP in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 
-Neonatal seizures, neonatal withdrawal syndrome, fetal death and still birth have been reported during post-marketing reports with tramadol HCl immediate-release products.
-ConZip® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+In animal reproduction studies, tramadol administration during organogenesis decreased fetal weights and reduced ossification in mice, rats, and rabbits at 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD).
+Tramadol decreased pup body weight and increased pup mortality at 1.2 and 1.9 times the MRHD [see Data].
+Based on animal data, advise pregnant women of the potential risk to a fetus.
 
-Tramadol was not teratogenic at oral dose levels up to 50 mg/kg/day (1.6-fold the maximum daily human dose (MDHD)) in rats and 100 mg/kg (approximately 6.5-fold MDHD) in rabbits during organogenesis.
-However, embryo-fetal lethality, reductions in fetal weight and skeletal ossification, and increased supernumerary ribs were observed at a maternal toxic dose of 140 mg/kg in mice (approximately 2.3-fold MDHD), 80 mg/kg in rats (2.6-fold MDHD) or 300 mg/kg in rabbits (approximately 19-fold MDHD).
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Non-teratogenic Effects
+Clinical Considerations
 
-Tramadol caused a reduction in neonatal body weight at a dose of 50 mg/kg (1.6-fold the MDHD) and reduced pup survival at an oral dose of 80 mg/kg (approximately 2.6-fold MDHD) when rats were treated during late gestation throughout lactation period.
+Fetal/Neonatal Adverse Reactions
 
-## 8.2 Labor and Delivery
+Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
+The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.3)]
 
-ConZip® should not be used in pregnant women prior to or during labor unless the potential benefits outweigh the risks.
-Safe use in pregnancy has not been established.
-Chronic use during pregnancy may lead to physical dependence and post-partum withdrawal symptoms in the newborn [see DRUG ABUSE AND DEPENDENCE (9.1)].
+Neonatal seizures, neonatal withdrawal syndrome, fetal death and still birth have been reported with tramadol during post-approval use of tramadol immediate-release products.
+
+Labor or Delivery
+
+Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
+An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+CONZIP is not recommended for use in pregnant women during or immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
+Opioid analgesics, including CONZIP can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
+However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
+Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
+
 Tramadol has been shown to cross the placenta.
 The mean ratio of serum tramadol in the umbilical veins compared to maternal veins was 0.83 for 40 women given tramadol during labor.
 
-The effect of ConZip®, if any, on the later growth, development, and functional maturation of the child is unknown.
+The effect of CONZIP, if any, on the later growth, development, and functional maturation of the child is unknown.
 
-## 8.3 Nursing Mothers
+Data
 
-ConZip® is not recommended for obstetrical preoperative medication or for post-delivery analgesia in nursing mothers because its safety in infants and newborns has not been studied.
-Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours post-dose was 100 μg of tramadol (0.1% of the maternal dose) and 27 μg of M1.
+Animal Data
+
+Tramadol has been shown to be embryotoxic and fetotoxic in mice, (120 mg/kg), rats (25 mg/kg) and rabbits (75 mg/kg) at maternally toxic dosages, but was not teratogenic at these dose levels.
+These doses on a mg/m2 basis are 1.9, 0.8, and 4.9 times the maximum recommended human daily dosage (MRHD) for mouse, rat and rabbit, respectively.
+
+No drug-related teratogenic effects were observed in progeny of mice (up to 140 mg/kg), rats (up to 80 mg/kg) or rabbits (up to 300 mg/kg) treated with tramadol by various routes.
+Embryo and fetal toxicity consisted primarily of decreased fetal weights, decreased skeletal ossification, and increased supernumerary ribs at maternally toxic dose levels.
+Transient delays in developmental or behavioral parameters were also seen in pups from rat dams allowed to deliver.
+Embryo and fetal lethality were reported only in one rabbit study at 300 mg/kg, a dose that would cause extreme maternal toxicity in the rabbit.
+The dosages listed for mouse, rat, and rabbit are 2.3, 2.6, and 19 times the MRHD, respectively.
+
+Tramadol was evaluated in pre- and post-natal studies in rats.
+Progeny of dams receiving oral (gavage) dose levels of 50 mg/kg (1.6 times the MRHD) or greater had decreased weights, and pup survival was decreased early in lactation at 80 mg/kg (2.6 times the MRHD).
+
+## 8.2 Lactation
+
+Risk Summary
+
+Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours post-dose was 100 mcg of tramadol (0.1% of the maternal dose) and 27 mcg of M1.
 It is not known whether this drug is excreted in human milk following an oral dose.
+
+CONZIP is not recommended for obstetrical preoperative medication or for post-delivery analgesia in nursing mothers because its safety in infants and newborns has not been studied.
+
+Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with CONZIP.
+
+Clinical Considerations
+
+Monitor infants exposed to CONZIP through breast milk for excess sedation and respiratory depression.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Pharmacology (13.1)].
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of ConZip® in patients under 18 years of age have not been established.
-The use of ConZip® in the pediatric population is not recommended.
+The safety and efficacy of CONZIP in patients under 18 years of age have not been established.
+The use of CONZIP in the pediatric population is not recommended.
 
 ## 8.5 Geriatric Use
 
-In general, caution should be used when selecting the dose for an elderly patient.
-Usually, dose administration should start at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy.
-
-Eight hundred and twelve elderly (65 years of age or older) subjects were exposed to ConZip® in clinical trials.
+Eight hundred and twelve elderly (65 years of age or older) subjects were exposed to CONZIP in clinical trials.
 Of those subjects, two hundred and forty were 75 years of age and older.
 In general, higher incidence rates of adverse events were observed for patients older than 65 years of age compared with patients 65 years and younger, particularly for the following adverse events: nausea, constipation, somnolence, dizziness, dry mouth, vomiting, asthenia, pruritus, anorexia sweating, fatigue, weakness, postural hypotension and dyspepsia.
-For this reason, ConZip® should be used with great caution in patients older than 75 years of age [see DOSAGE AND ADMINISTRATION (2.3)].
+For this reason, CONZIP should be used with great caution in patients older than 75 years of age [see Dosage and Administration (2.3)].
 
-## 8.6 Patients with Renal Impairment
+Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
+Titrate the dosage of CONZIP slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.2)].
 
-ConZip® has not been studied in patients with renal impairment.
+Tramadol is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+
+## 8.6 Hepatic Impairment
+
+Metabolism of tramadol and M1 is reduced in patients with advanced cirrhosis of the liver.
+CONZIP has not been studied in patients with hepatic impairment.
+The limited availability of dose strengths of CONZIP does not permit the dosing flexibility required for safe use in patients with severe hepatic impairment impairment (Child-Pugh Class C). Therefore, CONZIP should not be used in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
+
+## 8.7 Renal Impairment
+
+CONZIP has not been studied in patients with renal impairment.
 Impaired renal function results in a decreased rate and extent of excretion of tramadol and its active metabolite, M1.
-The limited availability of dose strengths of ConZip® does not permit the dosing flexibility required for safe use in patients with severe renal impairment.
-Therefore, ConZip® should not be used in patients with severe renal impairment [see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS (5.14), and CLINICAL PHARMACOLOGY (12.3)].
-
-## 8.7 Patients with Hepatic Impairment
-
-ConZip® has not been studied in patients with hepatic impairment.
-The limited availability of dose strengths of ConZip® does not permit the dosing flexibility required for safe use in patients with severe hepatic impairment.
-Therefore, ConZip® should not be used in patients with severe hepatic impairment [see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS, (5.14), and CLINICAL PHARMACOLOGY (12.3)].
+The limited availability of dose strengths of CONZIP does not permit the dosing flexibility required for safe use in patients with severe renal impairment (Child-Pugh Class C). Therefore, CONZIP should not be used in patients with severe renal impairment [see Clinical Pharmacology (12.3)].

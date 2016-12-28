@@ -1,8 +1,9 @@
 # 4 CONTRAINDICATIONS
 
-ConZip® is contraindicated in patients who have previously demonstrated hypersensitivity to tramadol, any other component of ConZip®, or opioids.
-Reactions range from pruritis to fatal anaphylactoid reactions [see WARNINGS AND PRECAUTIONS (5.4)].
+CONZIP is contraindicated in patients with:
 
-ConZip® is contraindicated in patients with significant respiratory depression in unmonitored settings or the absence of resuscitative equipment.
-
-ConZip® is contraindicated in patients with acute or severe bronchial asthma or hypercapnia in unmonitored settings or the absence of resuscitative equipment.
+- Significant respiratory depression [see Warnings and Precautions (5.2)]
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see Warnings and Precautions (5.10)]
+- Known or suspected gastrointestinal obstruction, including paralytic ileus [see Warnings and Precautions (5.13)]
+- Hypersensitivity to tramadol (e.g., anaphylaxis) [see Warnings and Precautions (5.14), Adverse Reactions (6)]
+- Concurrent use of monoamine oxidase inhibitors (MAOIs) or use within the last 14 days [see Drug Interactions (7)]

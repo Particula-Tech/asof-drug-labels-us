@@ -2,25 +2,31 @@
 
 The following serious or otherwise important adverse reactions are described in greater detail, in other sections:
 
-- - Seizure risk [see WARNINGS AND PRECAUTIONS (5.1)]
-- - Suicide risk [see WARNINGS AND PRECAUTIONS (5.2)]
-- - Serotonin syndrome [see WARNINGS AND PRECAUTIONS (5.3)]
-- - Anaphylactoid and allergic reactions [see WARNINGS AND PRECAUTIONS (5.4)]
-- - Respiratory depression [see WARNINGS AND PRECAUTIONS (5.5)]
-- - Withdrawal symptoms [see WARNINGS AND PRECAUTIONS (5.10)]
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
+- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.5)]
+- Serotonin Syndrome [see Warnings and Precautions (5.6)]
+- Seizures [see Warnings and Precautions (5.7)]
+- Suicide [see Warnings and Precautions (5.8)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.9)]
+- Severe Hypotension [see Warnings and Precautions (5.11)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.14)]
+- Withdrawal [see Warnings and Precautions (5.15)]
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-ConZip® capsules were administered to a total of 1987 patients in clinical trials.
+CONZIP capsules were administered to a total of 1987 patients in clinical trials.
 These included four double-blind and one long-term, open-label study in patients with osteoarthritis of the hip and knee.
 A total of 812 patients were 65 years or older.
 Adverse reactions with doses from 100 mg to 300 mg in the four pooled, randomized, double-blind, placebo-controlled studies in patients with chronic non-malignant pain are presented in the following table (see Table 1).
 
 Table 1: Incidence (%) of patients with adverse reaction rates ≥ 5% from four double-blind, placebo controlled studies in patients with moderate to moderately severe chronic pain by dose (N=1917).
 
-|  | CONZIP® |  |  | PLACEBO |
+|  | CONZIP |  |  | PLACEBO |
 | --- | --- | --- | --- | --- |
 | Preferred Term | 100 mg (N=429) n (%) | 200 mg (N=434) n (%) | 300 mg (N=1054) n (%) | (N=646) n (%) |
 | Headache | 99 (23.1) | 96 (22.1) | 200 (19.0) | 128 (19.8) |
@@ -89,3 +95,16 @@ Skin and subcutaneous tissue disorders: hair disorder, skin disorder, urticaria
 Special Senses: eye disorder, lacrimation disorder
 
 Urogenital disorders: cystitis, dysuria, sexual function abnormality, urinary retention
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of tramadol.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in CONZIP.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
