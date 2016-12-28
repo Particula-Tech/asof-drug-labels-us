@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA078404"
+  ],
+  "inn": "budesonide",
+  "labeler": "Impax Generics",
+  "package_ndcs": [
+    "0115-1687-74",
+    "0115-1687-76",
+    "0115-1689-74",
+    "0115-1689-76"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "budesonide",
+      "name": "Budesonide Inhalation"
+    }
+  ],
+  "setid": "e8ef9489-83a2-4817-b21c-ea3fecd8c8dd",
+  "source": "dailymed"
+}
