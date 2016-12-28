@@ -4,7 +4,7 @@ NDC 59630-750-50 500 mL CII Methylin® Oral Solution methylphenidate HCl oral so
 
 L00M63
 
-Rev 05/2012
+Rev 02/2016
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 10 mg per 5 mL Bottle
 
@@ -12,4 +12,4 @@ NDC 59630-755-50 500 mL CII Methylin® Oral Solution methylphenidate HCl oral so
 
 L00M62
 
-Rev 05/2012
+Rev 02/2016
