@@ -25,7 +25,7 @@ The amount of benzyl alcohol from medications is usually considered negligible c
 Administration of high dosages of medications containing this preservative must take into account the total amount of benzyl alcohol administered.
 The amount of benzyl alcohol at which toxicity may occur is not known.
 If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources.
-Single use vials (5 mL and 20 mL) of cisatracurium do not contain benzyl alcohol (see WARNINGS and PRECAUTIONS, Pediatric Use).
+Single dose vials (5 mL and 20 mL) of cisatracurium do not contain benzyl alcohol (see WARNINGS and PRECAUTIONS, Pediatric Use).
 
 # PRECAUTIONS:
 

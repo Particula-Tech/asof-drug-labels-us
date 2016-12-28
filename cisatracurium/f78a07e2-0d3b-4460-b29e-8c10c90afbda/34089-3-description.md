@@ -16,7 +16,7 @@ The pH is adjusted to 3.25 to 3.65 with benzenesulfonic acid.
 The 5 mL and 10 mL vials each contain cisatracurium besylate, equivalent to 2 mg/mL cisatracurium.
 The 20 mL vial, intended for ICU use only, contains cisatracurium besylate, equivalent to 10 mg/mL cisatracurium.
 The 10 mL vial, intended for multiple dose use, contains 0.9% benzyl alcohol as a preservative.
-The 5 mL and 20 mL vials are single use vials and do not contain benzyl alcohol.
+The 5 mL and 20 mL vials are single dose vials and do not contain benzyl alcohol.
 
 Cisatracurium besylate slowly loses potency with time at a rate of approximately 5% per year under refrigeration (5°C).
 Cisatracurium should be refrigerated at 2° to 8°C (36° to 46°F) in the carton to preserve potency.

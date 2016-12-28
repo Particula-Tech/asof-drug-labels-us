@@ -1,4 +1,4 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - Cisatracurium 20 mL Single Use Vial Label
+PACKAGE LABEL - PRINCIPAL DISPLAY - Cisatracurium 20 mL Single Dose Vial Label
 
 Cisatracurium Besylate Injection, USP
 
@@ -9,32 +9,28 @@ For intravenous injection.
 
 Preservative free.
 
-20 mL Single Use Vial
+20 mL Single Dose Vial
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Cisatracurium 20 mL Single Use Vial Carton Panel
+PACKAGE LABEL - PRINCIPAL DISPLAY - Cisatracurium 20 mL Single Dose Vial Carton Panel
 
 Cisatracurium Besylate Injection, USP
 
 200 mg per 20 mL* (10 mg per mL)
 
 For ICU use only.
-
 For intravenous injection.
 
 Preservative free.
-
 Warning: Paralyzing Agent.
 Causes Respiratory Arrest.
 Facilities must be immediately available for artificial respiration.
-10 x 20 mL
-
-Single Use Vials
+10 x 20 mL Single Dose Vials
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Cisatracurium 5 mL Single Use Vial Label
+PACKAGE LABEL - PRINCIPAL DISPLAY - Cisatracurium 5 mL Single Dose Vial Label
 
 Cisatracurium Besylate Injection, USP
 
@@ -43,11 +39,11 @@ Cisatracurium Besylate Injection, USP
 For intravenous injection.
 Preservative free.
 
-5 mL Single Use Vial
+5 mL Single Dose Vial
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Cisatracurium 5 mL Single Use Vial Carton Panel
+PACKAGE LABEL - PRINCIPAL DISPLAY - Cisatracurium 5 mL Single Dose Vial Carton Panel
 
 Cisatracurium Besylate Injection, USP
 
@@ -59,7 +55,7 @@ Causes Respiratory Arrest.
 Facilities must be immediately available for artificial respiration.
 10 x 5 mL
 
-Single Use Vials
+Single Dose Vials
 
 Rx only
 
