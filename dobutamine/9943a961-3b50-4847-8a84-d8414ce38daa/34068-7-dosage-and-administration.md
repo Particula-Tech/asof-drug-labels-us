@@ -4,7 +4,7 @@ Recommended Dosage
 
 Dobutamine in 5% Dextrose Injection, USP is administered intravenously through a suitable intravenous catheter or needle.
 A calibrated electronic infusion device is recommended for controlling the rate of flow in mL/hour or drops/minute.
-Infusion of dobutamine should be started at a low rate (0.5 to 1.0 µg/kg/min) and titrated at intervals of a few minutes, guided by the patient’s response, including systemic blood pressure, urine flow, frequency of ectopic activity, heart rate, and (whenever possible) measurements of cardiac output, central venous pressure, and/or pulmonary capillary wedge pressure.
+Infusion of dobutamine should be started at a low rate (0.5 to 1.0 µg/kg/min) and titrated at intervals of a few minutes, guided by the patient's response, including systemic blood pressure, urine flow, frequency of ectopic activity, heart rate, and (whenever possible) measurements of cardiac output, central venous pressure, and/or pulmonary capillary wedge pressure.
 In reported trials, the optimal infusion rates have varied from patient to patient, usually 2 to 20 µg/kg/min but sometimes slightly outside of this range.
 On rare occasions, infusion rates up to 40 µg/kg/min have been required to obtain the desired effect.
 

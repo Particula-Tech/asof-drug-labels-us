@@ -12,7 +12,7 @@ Hypotension may result from vasodilation.
 If the product is ingested, unpredictable absorption may occur from the mouth and the gastrointestinal tract.
 
 Treatment: To obtain up-to-date information about the treatment of overdose, a good resource is your certified Regional Poison Control Center.
-Telephone numbers of certified poison control centers are listed in the Physicians’ Desk Reference (PDR).
+Telephone numbers of certified poison control centers are listed in the Physicians' Desk Reference (PDR).
 In managing overdosage, consider the possibility of multiple drug overdoses, interaction among drugs, and unusual drug kinetics in your patient.
 
 The initial actions to be taken in a dobutamine hydrochloride overdose are discontinuing administration, establishing an airway, and ensuring oxygenation and ventilation.
