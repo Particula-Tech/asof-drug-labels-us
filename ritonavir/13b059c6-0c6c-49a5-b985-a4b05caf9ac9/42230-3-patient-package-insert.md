@@ -66,7 +66,7 @@ Before taking NORVIR, tell your doctor if you:
 - have high blood sugar (diabetes).
 - have bleeding problems or hemophilia.
 - are pregnant or plan to become pregnant.
-  It is not known if NORVIR can harm your unborn baby.Pregnancy Registry: There is a pregnancy registry for women who take antiviral medicines during pregnancy.
+  Pregnancy Registry: There is a pregnancy registry for women who take antiviral medicines during pregnancy.
   The purpose of the registry is to collect information about the health of you and your baby.
   Talk to your doctor about how you can take part in this registry.
 - are breastfeeding.
@@ -246,7 +246,7 @@ NORVIR 100 mg soft gelatin capsules are manufactured for:
 
 AbbVie Inc. North Chicago, IL 60064 USA
 
-Revised: November 2016
+Revised: December 2016
 
 The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 
