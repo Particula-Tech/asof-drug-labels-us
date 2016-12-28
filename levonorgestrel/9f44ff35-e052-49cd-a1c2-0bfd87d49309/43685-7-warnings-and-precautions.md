@@ -120,10 +120,12 @@ If perforation occurs, locate and remove Skyla.
 Surgery may be required.
 Delayed detection or removal of Skyla in case of perforation may result in migration outside the uterine cavity, adhesions, peritonitis, intestinal perforations, intestinal obstruction, abscesses and erosion of adjacent viscera.
 
-Clinical trials with Skyla excluded breast-feeding women.
-An interim analysis from a large postmarketing safety study with other IUDs shows an increased risk of perforation in lactating women.
-The risk of perforation may be increased if Skyla is inserted when the uterus is fixed retroverted or not completely involuted during the postpartum period.
+The risk of perforation may be increased if Skyla is inserted when the uterus is fixed retroverted or not completely involuted.
 Delay Skyla insertion a minimum of six weeks or until involution is complete following a delivery or a second trimester abortion.
+
+Clinical trials with Skyla excluded breast-feeding women.
+A large postmarketing safety study conducted in Europe over a 1-year observational period reported that lactation at the time of insertion of an IUD/IUS was associated with an increased risk of perforation.
+For users of another LNG-releasing IUS, the incidence of uterine perforation was reported as 6.3 per 1,000 insertions for lactating women, compared to 1.0 per 1,000 insertions for non-lactating women.
 
 ## 5.7 Expulsion
 

@@ -169,6 +169,7 @@ Is it safe to breastfeed while using Skyla?
 You may use Skyla when you are breastfeeding if more than six weeks have passed since you had your baby.
 If you are breastfeeding, Skyla is not likely to affect the quality or amount of your breast milk or the health of your nursing baby.
 However, isolated cases of decreased milk production have been reported among women using progestin-only birth control pills.
+The risk of Skyla becoming attached to (embedded) or going through the wall of the uterus is increased if Skyla is inserted while you are breastfeeding.
 
 Will Skyla interfere with sexual intercourse?
 
@@ -207,7 +208,7 @@ Skyla can cause serious side effects, including:
   This is called perforation.
   If this occurs, Skyla may no longer prevent pregnancy.
   If perforation occurs, Skyla may move outside the uterus and can cause internal scarring, infection, or damage to other organs, and you may need surgery to have Skyla removed.
-  The risk of perforation is increased in breastfeeding women.
+  The risk of perforation is increased if Skyla is inserted while you are breastfeeding.
 
 Common side effects of Skyla include:
 
@@ -269,7 +270,7 @@ For more information, go to www.skyla-us.com or call 1-888-842-2937.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised Sept 2013
+Revised December 2016
 
 Manufactured for:
 
