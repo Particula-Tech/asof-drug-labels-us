@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA020616"
+  ],
+  "inn": "morphine",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-6011-60",
+    "0023-6012-60",
+    "0023-6013-60",
+    "0023-6014-60",
+    "0023-6015-60",
+    "0023-6016-60",
+    "0023-6017-60",
+    "0023-6018-60",
+    "0023-6019-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "morphine sulfate",
+      "name": "Kadian"
+    }
+  ],
+  "setid": "b5cee013-000f-4e35-a284-1f58add31b4d",
+  "source": "dailymed"
+}
