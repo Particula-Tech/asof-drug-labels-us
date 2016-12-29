@@ -28,24 +28,6 @@ There are no systematically collected data to specifically address switching pat
 While immediate discontinuation of the previous antipsychotic treatment may be acceptable for some patients with schizophrenia, more gradual discontinuation may be most appropriate for others.
 In all cases, the period of overlapping antipsychotic administration should be minimized.
 
-## 2.2 Bipolar I Disorder
-
-Acute Treatment of Manic and Mixed Episodes
-
-Adults: The recommended starting dose in adults is 15 mg given once daily as monotherapy and 10 mg to 15 mg given once daily as adjunctive therapy with lithium or valproate.
-Aripiprazole can be given without regard to meals.
-The recommended target dose of aripiprazole is 15 mg/day, as monotherapy or as adjunctive therapy with lithium or valproate.
-The dose may be increased to 30 mg/day based on clinical response.
-The safety of doses above 30 mg/day has not been evaluated in clinical trials.
-
-Pediatrics: The recommended starting dose in pediatric patients (10 to 17 years) as monotherapy is 2 mg/day, with titration to 5 mg/day after 2 days, and a target dose of 10 mg/day after 2 additional days.
-Recommended dosing as adjunctive therapy to lithium or valproate is the same.
-Subsequent dose increases, if needed, should be administered in 5 mg/day increments.
-Aripiprazole can be given without regard to meals [see CLINICAL STUDIES (14.2)].
-
-Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole) product.
-However, due to Otsuka America Pharmaceutical, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
-
 ## 2.7 Dosage Adjustments for Cytochrome P450 Considerations
 
 Dosage adjustments are recommended in patients who are known CYP2D6 poor metabolizers and in patients taking concomitant CYP3A4 inhibitors or CYP2D6 inhibitors or strong CYP3A4 inducers (see Table 2).
@@ -67,3 +49,7 @@ Table 2: Dose Adjustments for Aripiprazole in Patients who are known CYP2D6 Poor
 
 The oral solution can be substituted for tablets on a mg-per-mg basis up to the 25 mg dose level.
 Patients receiving 30 mg tablets should receive 25 mg of the solution [see CLINICAL PHARMACOLOGY (12.3)].
+
+## 2.9 Dosing of Orally Disintegrating Tablets
+
+The dosing for Aripiprazole Orally Disintegrating Tablets is the same as for the oral tablets [see DOSAGE AND ADMINISTRATION (2.1)].

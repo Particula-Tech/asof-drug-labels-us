@@ -7,13 +7,13 @@ Pregnancy Category C
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to aripiprazole during pregnancy.
-For more information contact the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or visit http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
+For more information contact the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or visit http://womensmentalhealth.org/clinical-and-research- programs/pregnancyregistry/.
 
 Risk Summary
 
 Neonates exposed to antipsychotic drugs (including aripiprazole) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms.
 Adequate and well controlled studies with aripiprazole have not been conducted in pregnant women.
-Animal reproduction studies were conducted with aripiprazole in rats and rabbits during organogenesis, and in rats during the pre-and post-natal period.
+Animal reproduction studies were conducted with aripiprazole in rats and rabbits during organogenesis, and in rats during the pre- and post-natal period.
 Oral and intravenous aripiprazole administration during organogenesis in rats and/or rabbits at doses higher than the maximum recommended human dose (MRHD) produced fetal death, decreased fetal weight, undescended testicles, delayed skeletal ossification, skeletal abnormalities, and diaphragmatic hernia.
 Oral and intravenous aripiprazole administration during the pre- and post-natal period in rats at doses higher than the maximum recommended human dose (MRHD) produced prolonged gestation, stillbirths, decreased pup weight, and decreased pup survival.
 Administer aripiprazole during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -54,6 +54,10 @@ In a study in which rats were treated peri- and post-natally with oral doses of 
 In rats receiving aripiprazole injection intravenously (3, 8, and 20 mg/kg/day) from gestation day 6 through day 20 postpartum, an increase in stillbirths was seen at 8 and 20 mg/kg/day, and decreases in early postnatal pup weights and survival were seen at 20 mg/kg/day; these effects were seen in presence of maternal toxicity.
 There were no effects on postnatal behavioral and reproductive development.
 
+## 8.2 Labor and Delivery
+
+The effect of aripiprazole on labor and delivery in humans is unknown.
+
 ## 8.3 Nursing Mothers
 
 Aripiprazole is present in human breast milk.
@@ -67,14 +71,6 @@ Schizophrenia
 
 Safety and effectiveness in pediatric patients with schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see DOSAGE AND ADMINISTRATION (2.1), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.1)].
 Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
-
-Bipolar I Disorder
-
-Safety and effectiveness in pediatric patients with bipolar mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see DOSAGE AND ADMINISTRATION (2.2), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.2)].
-Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
-
-The efficacy of adjunctive aripiprazole with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated.
-However, such efficacy and lack of pharmacokinetic interaction between aripiprazole and lithium or valproate can be extrapolated from adult data, along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 Information describing a clinical study in which efficacy was not demonstrated in patients ages 6 to 17 years is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole).
 Additional pediatric use information in patients ages 6 to 18 years is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole) product.
@@ -97,12 +93,12 @@ All drug-related effects were reversible after a 2-month recovery period.
 
 ## 8.5 Geriatric Use
 
-No dosage adjustment is recommended for elderly patients [see also BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
+No dosage adjustment is recommended for elderly patients [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
 
 Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
-Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania, or another indication did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Placebo-controlled studies of oral aripiprazole in schizophrenia or other indications did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
-Aripiprazole is not approved for the treatment of patients with psychosis associated with Alzheimer's disease [see also BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
+Aripiprazole is not approved for the treatment of patients with psychosis associated with Alzheimer's disease [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
 
 ## 8.6 CYP2D6 Poor Metabolizers
 

@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of aripiprazole in schizophrenia or bipolar mania, is unknown.
+The mechanism of action of aripiprazole in schizophrenia is unknown.
 However, the efficacy of aripiprazole could be mediated through a combination of partial agonist activity at D2 and 5-HT1A receptors and antagonist activity at 5-HT2A receptors.
 Actions at receptors other than D2, 5-HT1A, and 5-HT2A may explain some of the other clinical effects of aripiprazole (e.g., the orthostatic hypotension observed with aripiprazole may be explained by its antagonist activity at adrenergic alpha1 receptors).
 
@@ -22,6 +22,8 @@ At steady-state, the pharmacokinetics of aripiprazole is dose-proportional.
 Elimination of aripiprazole is mainly through hepatic metabolism involving two P450 isozymes, CYP2D6 and CYP3A4.
 For CYP2D6 poor metabolizers, the mean elimination half-life for aripiprazole is about 146 hours.
 
+Pharmacokinetic studies showed that aripiprazole orally disintegrating tablets are bioequivalent to aripiprazole tablets.
+
 ORAL ADMINISTRATION
 
 Absorption
@@ -32,7 +34,7 @@ Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did 
 
 Oral Solution: Aripiprazole is well absorbed when administered orally as the solution.
 At equivalent doses, the plasma concentrations of aripiprazole from the solution were higher than that from the tablet formulation.
-In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean Cmax and AUC values were 122% and 114%, respectively [see DOSAGE AND ADMINISTRATION (2.6)].
+In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean Cmax and AUC values were 122% and 114%, respectively [see DOSAGE AND ADMINISTRATION (2.8)].
 The single-dose pharmacokinetics of aripiprazole were linear and dose-proportional between the doses of 5 mg to 30 mg.
 
 Distribution

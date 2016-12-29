@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-MedDRA terminology has been used to classify the adverse reactions.
+MedDRA terminology has been used to classify the adverse reactions
 
 ## 10.1 Human Experience
 

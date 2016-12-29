@@ -1,10 +1,10 @@
 ## WARNINGS: INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS and SUICIDAL THOUGHTS AND BEHAVIORS WITH ANTIDEPRESSANT DRUGS
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see Warnings and Precaustions (5.1)].
+Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see WARNINGS AND PRECAUTIONS (5.1)].
 
 Antidepressants increased the risk of suicidal thoughts and behavior in children, adolescents, and young adults in short-term studies.
-These studies did not show an increase in the risk of suicidal thoughts and behaviors with antidepressant use in patients over age 24; there was a reduction in risk with antidepressant use in patients aged 65 and older [see Warnings and Precautions (5.3)].
+These studies did not show an increase in the risk of suicidal thoughts and behaviors with antidepressant use in patients over age 24; there was a reduction in risk with antidepressant use in patients aged 65 and older [see WARNINGS AND PRECAUTIONS (5.3)].
 
 In patients of all ages who are started on antidepressant therapy, monitor closely for worsening, and for emergence of suicidal thoughts and behaviors.
-Advise families and caregivers of the need for close observation and communication with the prescriber [see Warnings and Precautions (5.3)].
+Advise families and caregivers of the need for close observation and communication with the prescriber [see WARNINGS AND PRECAUTIONS (5.3)].
