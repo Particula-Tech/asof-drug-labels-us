@@ -1,8 +1,4 @@
-MEDICATION GUIDE
-
-SUBOXONE® (Sub-OX-own)
-
-(buprenorphine and naloxone)
+MEDICATION GUIDE SUBOXONE® (Sub‐OX‐own) (buprenorphine and naloxone)
 
 Sublingual Film for sublingual or buccal administration (CIII)
 
@@ -18,10 +14,10 @@ Share the important information in this Medication Guide with members of your ho
 
 What is the most important information I should know about SUBOXONE?
 
-- SUBOXONE can cause serious and life-threatening breathing problems.
-  Call your doctor right away or get emergency help if:
+- SUBOXONE can cause serious and life‐threatening breathing problems.
+  Call your doctor right away or get emergency help if:These can be signs of an overdose or other serious problems.
   - You feel faint, dizzy, or confused
-  - Your breathing gets much slower than is normal for youThese can be signs of an overdose or other serious problems.
+  - Your breathing gets much slower than is normal for you
 - Do not switch from SUBOXONE to other medicines that contain buprenorphine without talking with your doctor.
   The amount of buprenorphine in a dose of SUBOXONE is not the same as the amount of buprenorphine in other medicines that contain buprenorphine.
   Your doctor will prescribe a starting dose of SUBOXONE that may be different than other buprenorphine containing medicines you may have been taking.
@@ -38,18 +34,18 @@ What is the most important information I should know about SUBOXONE?
   - Have slurred speech
   - Cannot think well or clearly
   - Have slowed reflexes and breathing
-- Do not inject (“shoot-up”) SUBOXONE.
-  - Injecting SUBOXONE may cause life-threatening infections and other serious health problems.
+- Do not inject (“shoot‐up”) SUBOXONE.
+  - Injecting SUBOXONE may cause life‐threatening infections and other serious health problems.
   - Injecting SUBOXONE may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems, and cravings.
 - In an emergency, have family members tell emergency department staff that you are physically dependent on an opioid and are being treated with SUBOXONE.
 
 What is SUBOXONE?
 
 - SUBOXONE is a prescription medicine used to treat adults who are addicted to (dependent on) opioid drugs (either prescription or illegal) as part of a complete treatment program that also includes counseling and behavioral therapy.
-
-| SUBOXONE is a controlled substance (CIII) because it contains buprenorphine, which can be a target for people who abuse prescription medicines or street drugs. Keep your SUBOXONE in a safe place to protect it from theft. Never give your SUBOXONE to anyone else; it can cause death or harm them. Selling or giving away this medicine is against the law. |
-| --- |
-
+  SUBOXONE is a controlled substance (CIII) because it contains buprenorphine, which can be a target for people who abuse prescription medicines or street drugs.
+  Keep your SUBOXONE in a safe place to protect it from theft.
+  Never give your SUBOXONE to anyone else; it can cause death or harm them.
+  Selling or giving away this medicine is against the law.
 - It is not known if SUBOXONE is safe or effective in children.
 
 Who should not take SUBOXONE?
@@ -82,9 +78,9 @@ Before taking SUBOXONE, tell your doctor if you:
   Talk to your doctor about the best way to feed your baby if you take SUBOXONE.
   Monitor your baby for increased sleepiness and breathing problems.
 
-Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over‐the‐ counter medicines, vitamins, and herbal supplements.
 SUBOXONE may affect the way other medicines work, and other medicines may affect how SUBOXONE works.
-Some medicines may cause serious or life-threatening medical problems when taken with SUBOXONE.
+Some medicines may cause serious or life‐threatening medical problems when taken with SUBOXONE.
 
 Sometimes the doses of certain medicines and SUBOXONE may need to be changed if used together.
 Do not take any medicine while using SUBOXONE until you have talked with your doctor.
@@ -107,23 +103,20 @@ How should I take SUBOXONE?
 - SUBOXONE sublingual film must be taken whole.
   Do not cut, chew, or swallow SUBOXONE sublingual film.
 - Your doctor should show you how to take SUBOXONE the right way.
-- Each SUBOXONE sublingual film comes in a sealed child-resistant foil pouch.
+- Each SUBOXONE sublingual film comes in a sealed child‐resistant foil pouch.
   Do not open the foil pouch until you are ready to use it.
 
 Taking SUBOXONE sublingual film:
 
-- To open your SUBOXONE sublingual film foil pouch, fold along the dotted line (see Figure 1).
-  Figure 1
-- Tear down at slit or cut with scissors along the arrow (see Figure 2).
-  Figure 2
+- To open your SUBOXONE sublingual film foil pouch, fold along the dotted line (see Figure 1).Figure 1
+- Tear down at slit or cut with scissors along the arrow (see Figure 2).Figure 2
 - Before taking SUBOXONE sublingual film, drink water to moisten your mouth.
   This helps the film dissolve more easily.
 
 To take SUBOXONE sublingual film under your tongue (sublingual administration):
 
 - Hold the film between two fingers by the outside edges.
-- Place the SUBOXONE sublingual film under your tongue, close to the base either to the left or right of the center (see Figure 3).
-  Figure 3
+- Place the SUBOXONE sublingual film under your tongue, close to the base either to the left or right of the center (see Figure 3).Figure 3
   - If your doctor tells you to take 2 films at a time, place the second film under your tongue on the opposite side.
     Avoid letting the films touch.
   - Keep the films in place until they have completely dissolved.
@@ -132,8 +125,7 @@ To take SUBOXONE sublingual film under your tongue (sublingual administration):
 To take SUBOXONE sublingual film on the inside of your cheek (buccal administration):
 
 - Hold the film between two fingers by the outside edges.
-- Place one film on the inside of your right or left cheek (see Figure 4).
-  Figure 4
+- Place one film on the inside of your right or left cheek (see Figure 4).Figure 4
   - If your doctor tells you to take 2 films at a time, place the other film on the inside of the opposite cheek.
   - Keep the films in place until they have completely dissolved.
   - If your doctor tells you to take a third film, place it on the inside of your right or left cheek after the first 2 films have dissolved.
@@ -158,7 +150,6 @@ What should I avoid while taking SUBOXONE?
 - You should not drink alcohol while using SUBOXONE, as this can lead to loss of consciousness or even death.
 
 What are the possible side effects of SUBOXONE?
-
 SUBOXONE can cause serious side effects, including:
 
 - See “What is the most important information I should know about SUBOXONE?”
@@ -205,7 +196,9 @@ These are not all the possible side effects of SUBOXONE.
 For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1‐
+
+800‐FDA‐1088.
 
 How should I store SUBOXONE?
 
@@ -218,7 +211,7 @@ How should I dispose of unused SUBOXONE?
 - Unused films should be removed from the foil pouch and flushed down the toilet.
 - Do not flush the SUBOXONE foil pouch down the toilet.
 
-If you need help with disposal of SUBOXONE, call 1-877-782-6966.
+If you need help with disposal of SUBOXONE, call 1‐877‐782‐6966.
 
 General information about the safe and effective use of SUBOXONE.
 
@@ -231,7 +224,7 @@ This Medication Guide summarizes the most important information about SUBOXONE.
 If you would like more information, talk to your doctor or pharmacist.
 You can ask your doctor or pharmacist for information that is written for health professionals.
 
-For more information call 1-877-782-6966.
+For more information call 1‐877‐782‐6966.
 
 What are the ingredients in SUBOXONE?
 
@@ -244,11 +237,8 @@ Manufactured for Indivior Inc. Richmond, VA 23235 by: MonoSol Rx, LLC, Warren, N
 Distributed by: Indivior Inc. Richmond, VA 23235
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
 SUBOXONE® is a registered trademark of Indivior UK Limited
 
-Revised: June 2016
+Revised: December 2016
 
-Copyright © 2016 Indivior Inc.
-
-Printed in USA
+Copyright © 2016 Indivior Inc. Printed in USA

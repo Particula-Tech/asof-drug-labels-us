@@ -4,7 +4,7 @@ NDC 12496-1202-1 1 sublingual film
 
 2 mg/0.5 mg CIII
 
-Suboxone® (buprenorphine and naloxone) sublingual film 2 mg/0.5 mg
+Suboxone ® (buprenorphine and naloxone) sublingual film 2 mg/0.5 mg
 
 Rx only
 
@@ -21,7 +21,7 @@ NDC 12496-1202-3 30 pouches each containing 1 sublingual film
 
 2 mg/0.5 mg CIII
 
-Suboxone® (buprenorphine and naloxone) sublingual film 2 mg/0.5 mg
+Suboxone ® (buprenorphine and naloxone) sublingual film 2 mg/0.5 mg
 
 Rx only
 
@@ -38,7 +38,7 @@ NDC 12496-1204-1 1 sublingual film
 
 4 mg/1 mg CIII
 
-Suboxone® (buprenorphine and naloxone) sublingual film 4 mg/1 mg
+Suboxone ® (buprenorphine and naloxone) sublingual film 4 mg/1 mg
 
 Rx only
 
@@ -55,7 +55,7 @@ NDC 12496-1204-3 30 pouches each containing 1 sublingual film
 
 4 mg/1 mg CIII
 
-Suboxone® (buprenorphine and naloxone) sublingual film 4 mg/1 mg
+Suboxone ® (buprenorphine and naloxone) sublingual film 4 mg/1 mg
 
 Rx only
 
@@ -72,7 +72,7 @@ NDC 12496-1208-1 1 sublingual film
 
 8 mg/2 mg CIII
 
-Suboxone® (buprenorphine and naloxone) sublingual film 8 mg/2 mg
+Suboxone ® (buprenorphine and naloxone) sublingual film 8 mg/2 mg
 
 Rx only
 
@@ -89,7 +89,7 @@ NDC 12496-1208-3 30 pouches each containing 1 sublingual film
 
 8 mg/2 mg CIII
 
-Suboxone® (buprenorphine and naloxone) sublingual film 8 mg/2 mg
+Suboxone ® (buprenorphine and naloxone) sublingual film 8 mg/2 mg
 
 Rx only
 
@@ -106,7 +106,7 @@ NDC 12496-1212-1 1 sublingual film
 
 12 mg/3 mg CIII
 
-Suboxone® (buprenorphine and naloxone) sublingual film 12 mg/3 mg
+Suboxone ® (buprenorphine and naloxone) sublingual film 12 mg/3 mg
 
 Rx only
 
@@ -123,7 +123,7 @@ NDC 12496-1212-3 30 pouches each containing 1 sublingual film
 
 12 mg/3 mg CIII
 
-Suboxone® (buprenorphine and naloxone) sublingual film 12 mg/3 mg
+Suboxone ® (buprenorphine and naloxone) sublingual film 12 mg/3 mg
 
 Rx only
 

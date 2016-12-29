@@ -1,8 +1,8 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
 ## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The safety of SUBOXONE sublingual film is supported by clinical trials using SUBUTEX (buprenorphine) sublingual tablets and SUBOXONE (buprenorphine and naloxone) sublingual tablets, and other trials using buprenorphine sublingual solutions, as well as an open-label study in 194 patients treated with SUBOXONE sublingual film administered sublingually and 188 patients treated with the film administered buccally.
 In total, safety data from clinical studies are available from over 3000 opioid-dependent subjects exposed to buprenorphine at doses in the range used in the treatment of opioid dependence.
@@ -88,11 +88,7 @@ Adverse Events (≥5%) by Body System and Treatment Group in a 16 Week Study
 | Sweat | 23 (13%) | 21 (12%) | 20 (11%) | 23 (13%) | 87 (12%) |
 | Special Senses |  |  |  |  |  |
 | Runny eyes | 13 (7%) | 9 (5%) | 6 (3%) | 6 (3%) | 34 (5%) |
-| *Sublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: |  |  |  |  |  |
-| 1 mg solution would be less than a tablet dose of 2 mg |  |  |  |  |  |
-| 4 mg solution approximates a 6 mg tablet dose |  |  |  |  |  |
-| 8 mg solution approximates a 12 mg tablet dose |  |  |  |  |  |
-| 16 mg solution approximates a 24 mg tablet dose |  |  |  |  |  |
+| *Sublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: 1 mg solution would be less than a tablet dose of 2 mg 4 mg solution approximates a 6 mg tablet dose 8 mg solution approximates a 12 mg tablet dose 16 mg solution approximates a 24 mg tablet dose |  |  |  |  |  |
 
 The safety of SUBOXONE sublingual film during treatment induction is supported by a clinical trial using 16 patients treated with SUBOXONE sublingual film and 18 treated with a buprenorphine-only sublingual film.
 Few differences in the adverse event profiles were noted between SUBOXONE sublingual film and the buprenorphine-only sublingual film.
@@ -109,3 +105,11 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The most frequently reported postmarketing adverse events were peripheral edema, stomatitis, glossitis, and blistering and ulceration of the mouth or tongue.
+
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in SUBOXONE.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

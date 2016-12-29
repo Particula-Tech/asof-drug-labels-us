@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 SUBOXONE (buprenorphine and naloxone) sublingual film is an orange film, imprinted with a logo identifying the product and strength in white ink.
-It contains buprenorphine HCl, a mu-opioid receptor partial agonist and a kappa-opioid receptor antagonist, and naloxone HCl dihydrate, an opioid receptor antagonist, at a ratio of 4:1 (ratio of free bases).
+It contains buprenorphine HCl, a partial agonist at the mu-opioid receptor, and naloxone HCl dihydrate, an opioid antagonist, at a ratio of 4:1 (ratio of free bases).
 It is intended for sublingual or buccal administration and is available in four dosage strengths, 2 mg buprenorphine with 0.5 mg naloxone, 4 mg buprenorphine with 1 mg naloxone, 8 mg buprenorphine with 2 mg naloxone and 12 mg buprenorphine with 3 mg naloxone.
 Each film also contains polyethylene oxide, hydroxypropyl methylcellulose, maltitol, acesulfame potassium, lime flavor, citric acid, sodium citrate, FD&C yellow #6, and white ink.
 
