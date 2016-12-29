@@ -1,3 +1,10 @@
-# INDICATIONS AND USAGE:
+# INDICATIONS AND USAGE
 
-Buprenex is indicated for the relief of moderate to severe pain.
+BUPRENEX is indicated for the management of pain severe enough to require an opioid analgesic and for which alternate treatments are inadequate.
+
+## Limitations of Use
+
+Because of the risks of addiction, abuse, and misuse with opioids, even at recommended doses [see WARNINGS: Addiction, Abuse, and Misuse] reserve BUPRENEX for use in patients for whom alternative treatment options [e.g., non-opioid analgesics or opioid combination products]:
+
+- Have not been tolerated, or are not expected to be tolerated,
+- Have not provided adequate analgesia, or are not expected to provide adequate analgesia.

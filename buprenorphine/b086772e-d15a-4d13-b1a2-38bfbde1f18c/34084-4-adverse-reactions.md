@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS:
+# ADVERSE REACTIONS
 
 The most frequent side effect in clinical studies involving 1,133 patients was sedation which occurred in approximately two-thirds of the patients.
 Although sedated, these patients could easily be aroused to an alert state.
@@ -37,11 +37,19 @@ Other effects observed infrequently include malaise, hallucinations, depersonali
 
 The following reactions have been reported to occur rarely: loss of appetite, dysphoria/agitation, diarrhea, urticaria, and convulsions/lack of muscle coordination.
 
-Allergic Reactions: Cases of acute and chronic hypersensitivity to buprenorphine have been reported both in clinical trials and in the postmarketing experience of Buprenex and other buprenorphine- containing products.
+Allergic Reactions: Cases of acute and chronic hypersensitivity to buprenorphine have been reported both in clinical trials and in the postmarketing experience of BUPRENEX and other buprenorphine- containing products.
 The most common signs and symptoms include rashes, hives, and pruritus.
 Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
-A history of hypersensitivity to buprenorphine is a contraindication to Buprenex.
+A history of hypersensitivity to buprenorphine is a contraindication to BUPRENEX.
 
 In the United Kingdom, buprenorphine hydrochloride was made available under monitored release regulation during the first year of sale, and yielded data from 1,736 physicians on 9,123 patients (17,120 administrations).
 Data on 240 children under the age of 18 years were included in this monitored release program.
 No important new adverse effects attributable to buprenorphine hydrochloride were observed.
+
+## Postmarketing Experience
+
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see CLINICAL PHARMACOLOGY: Pharmacodynamics].
