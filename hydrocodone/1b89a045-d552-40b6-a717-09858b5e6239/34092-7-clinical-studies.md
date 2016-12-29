@@ -2,7 +2,7 @@
 
 The efficacy and safety of ZOHYDRO ER have been evaluated in a randomized double-blind, placebo-controlled, multi-center clinical trial in opioid-experienced subjects with moderate to severe chronic low back pain.
 
-## 14.1 Placebo-Controlled Study in Opioid-Experienced Subjects with Moderate to Severe Chronic Lower Back Pain
+Placebo-Controlled Study in Opioid-Experienced Subjects with Moderate to Severe Chronic Lower Back Pain
 
 A total of 510 subjects currently on chronic opioid therapy entered an open-label conversion and titration phase (up to 6 weeks) with ZOHYDRO ER dosed every 12 hours at an approximated equianalgesic dose of their pre-study opioid medication.
 For inadequately controlled pain, ZOHYDRO ER was increased by 10 mg per 12-hour dose, once every 3–7 days until a stabilized dose was identified, or a maximum dosage of 100 mg every 12 hours.

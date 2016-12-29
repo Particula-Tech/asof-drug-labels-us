@@ -4,7 +4,9 @@
 
 Carcinogenesis
 
-Long-term animal studies to evaluate the carcinogenic potential of hydrocodone have not been conducted.
+Hydrocodone was evaluated for carcinogenic potential in rats and mice.
+In a two-year bioassay in rats, doses up to 30 mg/kg in males and 100 mg/kg in females were administered orally and no treatment-related neoplasms were observed (exposure is equivalent to 0.1 times and 0.6 times for males and females, respectively, the human hydrocodone dose of 100 mg/day based on AUC exposure comparisons).
+In a two-year bioassay in mice, doses up to 100 mg/kg in males and females were administered orally and no treatment-related neoplasms were observed (exposure is equivalent to 0.8 times and 1.5 times, respectively, the human hydrocodone dose of 100 mg/day based on AUC exposure comparisons.
 
 Mutagenesis
 
