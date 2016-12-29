@@ -35,4 +35,4 @@ Manufactured for: Cipla USA, Inc.
 
 Disclaimer: Other brands listed are the registered trademarks of their respective owners and are not of Cipla Ltd.
 
-Revised: 11/2016
+Revised: 12/2016

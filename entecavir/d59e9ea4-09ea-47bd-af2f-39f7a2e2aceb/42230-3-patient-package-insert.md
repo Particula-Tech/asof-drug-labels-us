@@ -156,7 +156,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about entecavir tablets that is written for healthcare professionals.
 
-For more information,call 1-866-604-3268.
+For more information, call 1-866-604-3268.
 
 What are the ingredients in entecavir tablets?
 
