@@ -1,21 +1,13 @@
-# PACKAGE LABEL - PRINCIPAL DISPLAY
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Paclitaxel 30 mg/5 mL-Vial Carton Label
+Paclitaxel 30 mg per 5 mL- Container Label
 
-NDC 63323-763-05 760305
+NDC 63323-763-05 760305 PACLITAXEL INJECTION, USP (semisynthetic) 30 mg per 5 mL (6 mg per mL)
 
-PACLITAXEL
+MUST BE DILUTED PRIOR TO INTRAVENOUS USE
 
-INJECTION, USP (semisynthetic)
+Cytotoxic Agent Rx only Multiple Dose Vial Paclitaxel 30 mg per 5 mL- Carton Label NDC 63323-763-05 760305 PACLITAXEL INJECTION, USP (semisynthetic) 30 mg per 5 mL (6 mg per mL)
 
-30 mg/5 mL
+MUST BE DILUTED PRIOR TO INTRAVENOUS USE
 
-(6 mg/mL)
-
-MUST BE DILUTED PRIOR
-
-TO IV USE
-
-Cytotoxic Agent
-
-Rx only Multiple Dose Vial
+Cytotoxic Agent Rx only Multiple Dose Vial
