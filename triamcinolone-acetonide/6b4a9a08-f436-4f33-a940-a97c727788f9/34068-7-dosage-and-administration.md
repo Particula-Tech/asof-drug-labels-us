@@ -1,6 +1,17 @@
 # DOSAGE AND ADMINISTRATION
 
-Topical corticosteroids are generally applied to the affected area as a thin film from two to four times daily depending on the severity of the condition.
+Apply a thin film of the 0.1% Triamcinolone Acetonide Ointment, as appropriate, to the affected area two to three times daily.
 
-Occlusive dressing may be used for the management of psoriasis or recalcitrant conditions.
-If an infection develops, the use of occlusive dressing should be discontinued and appropriate antimicrobial therapy instituted.
+## Occlusive Dressing Technique
+
+Occlusive dressings may be used for the management of psoriasis or other recalcitrant conditions.
+Apply a thin film of ointment to the lesion, cover with a pliable nonporous film, and seal the edges.
+If needed, additional moisture may be provided by covering the lesion with a dampened clean cotton cloth before the nonporous film is applied or by briefly wetting the affected area with water immediately prior to applying the medication.
+
+The frequency of changing dressings is best determined on an individual basis.
+It may be convenient to apply Triamcinolone Acetonide Ointment under an occlusive dressing in the evening and to remove the dressing in the morning (i.e., 12-hour occlusion).
+
+When utilizing the 12-hour occlusion regimen, additional ointment should be applied, without occlusion, during the day.
+Reapplication is essential at each dressing change.
+
+If an infection develops, the use of occlusive dressings should be discontinued and appropriate antimicrobial therapy instituted.
