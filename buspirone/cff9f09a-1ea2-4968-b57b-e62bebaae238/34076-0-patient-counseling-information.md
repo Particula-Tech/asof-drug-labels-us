@@ -17,19 +17,17 @@ Then, with the tablet score facing you, apply pressure and snap the tablet segme
 
 Manufactured by:
 
-Strides Arcolab Limited
+Strides Shasun Limited,
 
-Bangalore- 560076, India
+Bengaluru - 560076, India.
 
 Distributed by:
 
 Strides Pharma Inc.
 
-201 South Main Street, Suite 3
+East Brunswick, NJ 08816
 
-Lambertville, NJ 08530 USA
-
-Revised: 07/2015
+Revised: 05/2016
 
 PATIENT INFORMATION
 
@@ -50,16 +48,14 @@ Then, with the tablet score facing you, apply pressure and snap the tablet segme
 
 Manufactured by:
 
-Strides Arcolab Limited
+Strides Shasun Limited,
 
-Bangalore- 560076, India
+Bengaluru - 560076, India.
 
 Distributed by:
 
 Strides Pharma Inc.
 
-201 South Main Street, Suite 3
+East Brunswick, NJ 08816
 
-Lambertville, NJ 08530 USA
-
-Revised: 07/2015
+Revised: 05/2016
