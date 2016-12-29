@@ -1,10 +1,29 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Frequently Observed
+The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling.
+- •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- •Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- •Interactions with Benzodiazepines and other CNS Depressants [see Warnings and Precautions (5.3)]
+- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- •Death Related to Ultra-Rapid Metabolism of Codeine to Morphine [see Warnings and Precautions (5.5)]
+- •Hepatotoxicity [see Warnings and Precautions (5.7)]
+- •Adrenal Insufficiency [see Warnings and Precautions (5.10)]
+- •Severe Hypotension [see Warnings and Precautions (5.11)]
+- •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
+- •Seizures [see Warnings and Precautions (5.14)]
+- •Withdrawal [see Warnings and Precautions (5.15)]
+- •Serious Skin Reactions [see Warnings and Precautions (5.17)]
+- •Anaphylaxis [see Warnings and Precautions (5.18)]
 
-## Infrequently Observed
+The following adverse reactions associated with the use of butalbital, acetaminophen, caffeine, and codeine phosphate were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+1. Frequently Observed
+
+The most frequently reported adverse reactions were drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling.
+
+Infrequently Observed
 
 All adverse events tabulated below are classified as infrequent.
 
@@ -23,7 +42,7 @@ Genitourinary: diuresis.
 
 Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions.
 
-The following adverse reactions have been voluntarily reported as temporally associated with butalbital, aspirin, caffeine, and codeine phosphate capsules, USP, a related product containing aspirin, butalbital, caffeine, and codeine.
+The following adverse reactions have been voluntarily reported as temporally associated with Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, a related product containing aspirin, butalbital, caffeine, and codeine phosphate.
 
 Central Nervous: abuse, addiction, anxiety, disorientation, hallucination, hyperactivity, insomnia, libido decrease, nervousness, neuropathy, psychosis, sexual activity increase, slurred speech, twitching, unconsciousness, vertigo.
 
@@ -39,7 +58,7 @@ Urinary: kidney impairment, urinary difficulty.
 
 Miscellaneous: allergic reaction, anaphylactic shock, cholangiocarcinoma, drug interaction with erythromycin (stomach upset), edema.
 
-The following adverse drug events may be borne in mind as potential effects of the components of butalbital, acetaminophen, caffeine, and codeine phosphate capsules.
+The following adverse reactions have been reported with the components of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
 Potential effects of high dosage are listed in the OVERDOSAGE section.
 
 Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis.
@@ -49,3 +68,9 @@ Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity,
 Codeine: nausea, vomiting, drowsiness, lightheadedness, constipation, pruritus.
 
 Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported for butalbital, acetaminophen, and caffeine tablets, USP.
+
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

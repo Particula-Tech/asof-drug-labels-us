@@ -1,6 +1,10 @@
-# INDICATIONS
+# 1 INDICATIONS AND USAGE
 
-Butalbital, acetaminophen, caffeine, and codeine phosphate capsules is indicated for the relief of the symptom complex of tension (or muscle contraction) headache.
+Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are indicated for the management of the symptom complex of tension (or muscle contraction) headache when non-opioid analgesic and alternative treatments are inadequate.
 
-Evidence supporting the efficacy and safety of butalbital, acetaminophen, caffeine, and codeine phosphate capsules in the treatment of multiple recurrent headaches is unavailable.
-Caution in this regard is required because codeine and butalbital are habit-forming and potentially abusable.
+Limitations of Use
+
+Because of the risks of addiction, abuse, and misuse with opioids and butalbital, even at recommended doses [see Warnings and Precautions (5.1)], reserve Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules for use in patients for whom alternative treatment options [e.g., non-opioid, non-barbiturate analgesics]:
+
+1. • Have not been tolerated, or are not expected to be tolerated,
+2. • Have not provided adequate analgesia, or are not expected to provide adequate analgesia.
