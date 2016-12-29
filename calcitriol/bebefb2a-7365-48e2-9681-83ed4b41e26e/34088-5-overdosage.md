@@ -24,7 +24,7 @@ Serum calcium levels should be determined 1 week after withdrawal of calcium sup
 If serum calcium levels have returned to normal, calcitriol capsule therapy may be reinstituted at a dosage of 0.25 mcg/day if previous therapy was at a dosage of 0.5 mcg/day.
 If calcitriol capsule therapy was previously administered at a dosage of 0.25 mcg/day, calcitriol capsule therapy may be reinstituted at a dosage of 0.25 mcg every other day.
 If hypercalcemia is persistent at the reduced dosage, serum PTH should be measured.
-If serum PTH is normal, discontinue calcitriol capsule therapy and monitor patient in 3 months’ time.
+If serum PTH is normal, discontinue calcitriol capsule therapy and monitor patient in 3 months' time.
 
 ## Treatment of Hyperphosphatemia in Predialysis Patients
 
@@ -41,6 +41,6 @@ Serial serum electrolyte determinations (especially calcium), rate of urinary ca
 Such monitoring is critical in patients receiving digitalis.
 Discontinuation of supplemental calcium and a low-calcium diet are also indicated in accidental overdosage.
 Due to the relatively short duration of the pharmacological action of calcitriol, further measures are probably unnecessary.
-Should, however, persistent and markedly elevated serum calcium levels occur, there are a variety of therapeutic alternatives which may be considered, depending on the patient’s underlying condition.
+Should, however, persistent and markedly elevated serum calcium levels occur, there are a variety of therapeutic alternatives which may be considered, depending on the patient's underlying condition.
 These include the use of drugs such as phosphates and corticosteroids as well as measures to induce an appropriate forced diuresis.
 The use of peritoneal dialysis against a calcium-free dialysate has also been reported.

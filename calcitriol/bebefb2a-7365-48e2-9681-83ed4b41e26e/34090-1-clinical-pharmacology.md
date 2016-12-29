@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Man’s natural supply of vitamin D depends mainly on exposure to the ultraviolet rays of the sun for conversion of 7-dehydrocholesterol in the skin to vitamin D3 (cholecalciferol).
+Man's natural supply of vitamin D depends mainly on exposure to the ultraviolet rays of the sun for conversion of 7-dehydrocholesterol in the skin to vitamin D3 (cholecalciferol).
 Vitamin D3 must be metabolically activated in the liver and the kidney before it is fully active as a regulator of calcium and phosphorus metabolism at target tissues.
 The initial transformation of vitamin D3 is catalyzed by a vitamin D3-25-hydroxylase enzyme (25-OHase) present in the liver, and the product of this reaction is 25-hydroxyvitamin D3 [25-(OH)D3].
 Hydroxylation of 25-(OH)D3 occurs in the mitochondria of kidney tissue, activated by the renal 25-hydroxyvitamin D3-1 alpha-hydroxylase (alpha-OHase), to produce 1,25-(OH)2D3 (calcitriol), the active form of vitamin D3.
