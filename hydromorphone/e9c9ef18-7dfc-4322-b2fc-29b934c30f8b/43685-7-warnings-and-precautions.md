@@ -1,98 +1,124 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Respiratory Depression
+## 5.1 Addiction, Abuse, and Misuse
 
-Respiratory depression is the chief hazard of hydromorphone hydrochloride.
-Respiratory depression occurs most frequently in the elderly, in the debilitated, and in those suffering from conditions accompanied by hypoxia or hypercapnia, or upper airway obstruction in whom even moderate therapeutic doses may dangerously decrease pulmonary ventilation.
-Respiratory depression is also a particular problem following large initial doses in non opioid-tolerant patients or when opioids are given in conjunction with other agents that depress respiration.
+Hydromorphone Hydrochloride Injection contains hydromorphone, a Schedule II controlled substance.
+As an opioid, Hydromorphone Hydrochloride Injection exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
 
-Use hydromorphone hydrochloride with extreme caution in patients with chronic obstructive pulmonary disease or cor pulmonale, patients having a substantially decreased respiratory reserve, hypoxia, hypercapnia, or preexisting respiratory depression.
-In such patients, even usual therapeutic doses of opioid analgesics may decrease respiratory drive while simultaneously increasing airway resistance to the point of apnea.
-Alternative non-opioid analgesics should be considered, and hydromorphone hydrochloride should be employed only under careful medical supervision at the lowest effective dose in such patients.
+Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Hydromorphone Hydrochloride Injection.
+Addiction can occur at recommended dosages and if the drug is misused or abused.
 
-## 5.2 Misuse and Abuse of Opioids
+Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing Hydromorphone Hydrochloride Injection, and monitor all patients receiving Hydromorphone Hydrochloride Injection for the development of these behaviors and conditions.
+Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+The potential for these risks should not, however, prevent the proper management of pain in any given patient.
+Patients at increased risk may be prescribed opioids such as Hydromorphone Hydrochloride Injection, but use in such patients necessitates intensive counseling about the risks and proper use of Hydromorphone Hydrochloride Injection along with intensive monitoring for signs of addiction, abuse, and misuse.
 
-Hydromorphone is an opioid agonist with an abuse liability similar to morphine and a Schedule II, controlled substance.
-Hydromorphone has the potential for being abused, is sought by drug abusers and people with addiction disorders, and is subject to criminal diversion.
-Diversion of Schedule II products is an act subject to criminal penalty.
+Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
+Consider these risks when prescribing or dispensing Hydromorphone Hydrochloride Injection.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity.
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-Abuse of hydromorphone hydrochloride poses a hazard of overdose and death.
-This risk is increased with concurrent abuse of alcohol or other substances.
-Schedule II opioid agonists have the highest potential for abuse and risk of fatal respiratory depression.
+## 5.2 Life-Threatening Respiratory Depression
 
-Hydromorphone injection can be abused in a manner similar to other opioid agonists, legal or illicit.
-This should be considered when prescribing or dispensing hydromorphone injection in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse or diversion.
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
+Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
-Concerns about abuse, addiction, and diversion should not prevent the proper management of pain.
-Healthcare professionals should contact their State Professional Licensing Board or State Controlled Substances Authority for information on how to prevent and detect abuse or diversion of this product.
+While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of Hydromorphone Hydrochloride Injection, the risk is greatest during the initiation of therapy or following a dosage increase.
+Monitor patients closely for respiratory depression, especially within the first 24–72 hours of initiating therapy with and following dosage increases of Hydromorphone Hydrochloride Injection.
 
-## 5.3 Risk of Medication Errors
+To reduce the risk of respiratory depression, proper dosing and titration of Hydromorphone Hydrochloride Injection are essential [see Dosage and Administration (2.1)].
+Overestimating the Hydromorphone Hydrochloride Injection dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
-Hydromorphone for parenteral administration is marketed in several concentrations.
-Take precautions to ensure that the different concentrations are not confused to avoid the risk of accidental overdose and death.
+## 5.3 Neonatal Opioid Withdrawal Syndrome
 
-Hydromorphone does not convert to morphine on a milligram per milligram basis.
-Use Table 1 when converting a patient from morphine to hydromorphone to avoid errors that can lead to overdose or death.
+Prolonged use of Hydromorphone Hydrochloride Injection during pregnancy can result in withdrawal in the neonate.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
-## 5.4 Interactions with Alcohol, CNS Depressants, and Drugs of Abuse
+## 5.4 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-The concurrent use of hydromorphone hydrochloride with other central nervous system (CNS) depressants, including but not limited to other opioids, illicit drugs, sedatives, hypnotics, general anesthetics, phenothiazines, muscle relaxants, other tranquilizers, and alcohol, increases the risk of respiratory depression, hypotension, and profound sedation, potentially resulting in coma or death.
-Use with caution and in reduced dosages in patients taking CNS depressants.
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Hydromorphone Hydrochloride Injection with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
-## 5.5 Neonatal Withdrawal Syndrome
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
+Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
 
-Infants born to mothers physically dependent on hydromorphone hydrochloride injection will also be physically dependent and may exhibit signs of withdrawal.
-The withdrawal signs include irritability and excessive crying, tremors, hyperactive reflexes, increased respiratory rate, increased stools, sneezing, yawning, vomiting, and fever.
-The intensity of the syndrome does not always correlate with the duration of maternal opioid use or dose.
-Neonatal opioid withdrawal syndrome may be life threatening and should be treated according to protocols developed by neonatology experts [see Drug Abuse and Dependence (9.3)].
+If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
+If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
+Follow patients closely for signs and symptoms of respiratory depression and sedation.
 
-## 5.6 Use in Head Injury and Increased Intracranial Pressure
+Advise both patients and caregivers about the risks of respiratory depression and sedation when Hydromorphone Hydrochloride Injection is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7) and Patient Counseling Information (17)].
 
-The respiratory depressant effects of hydromorphone hydrochloride injection promote carbon dioxide retention which results in elevation of cerebrospinal fluid pressure.
-This increase in intracranial pressure may be markedly exaggerated in the presence of head injury, intracranial lesions, or other conditions that predispose to increased intracranial pressure.
+## 5.5 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
-Hydromorphone hydrochloride injection may produce effects on pupillary response and consciousness which can obscure the clinical course and neurologic signs of further increase in pressure in patients with head injuries.
+The use of Hydromorphone Hydrochloride Injection in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-## 5.7 Hypotensive Effects
+Patients with Chronic Pulmonary Disease: Hydromorphone Hydrochloride Injection-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of hydromorphone hydrochloride [see Warnings and Precautions (5.2)].
 
-Hydromorphone hydrochloride, may cause severe hypotension in an individual whose ability to maintain blood pressure has already been compromised by a depleted blood volume, or a concurrent administration of drugs such as phenothiazines or general anesthetics [see Warnings and Precautions (5), Drug Interactions (7)].
-Hydromorphone hydrochloride may product orthostatic hypotension in ambulatory patients.
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
-Administer hydromorphone hydrochloride with caution to patients in circulatory shock, since vasodilation produced by the drug may further reduce cardiac output and blood pressure.
+Monitor such patients closely, particularly when initiating and titrating Hydromorphone Hydrochloride Injection and when Hydromorphone Hydrochloride Injection is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2)].
+Alternatively, consider the use of non-opioid analgesics in these patients.
 
-## 5.8 Use in Pancreatic/Biliary Tract Disease and Other Gastrointestinal Conditions
+## 5.6 Adrenal Insufficiency
 
-The administration of hydromorphone hydrochloride injection may obscure the diagnosis or clinical course in patients with acute abdominal conditions [see Contraindications (4)].
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
+If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
+Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
+Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
+The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-Use hydromorphone hydrochloride injection with caution in patients who are at risk of developing ileus.
+## 5.7 Severe Hypotension
 
-Use hydromorphone hydrochloride injection with caution in patients with biliary tract disease, including acute pancreatitis, as hydromorphone may cause spasm of the sphincter of Oddi and diminish biliary and pancreatic secretions.
+Hydromorphone Hydrochloride Injection may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) [see Drug Interactions (7)].
+Monitor these patients for signs of hypotension after initiating or titrating the dosage of Hydromorphone Hydrochloride Injection.
+In patients with circulatory shock, Hydromorphone Hydrochloride Injection may cause vasodilation that can further reduce cardiac output and blood pressure.
+Avoid the use of Hydromorphone Hydrochloride Injection in patients with circulatory shock.
 
-## 5.9 Special Risk Patients
+## 5.8 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-Give hydromorphone hydrochloride with caution and the initial dose should be reduced in the elderly or debilitated and those with severe impairment of hepatic, pulmonary or renal function; myxedema or hypothyroidism; adrenocortical insufficiency (e.g., Addison’s Disease); CNS depression or coma; toxic psychoses; prostatic hypertrophy or urethral stricture; acute alcoholism; delirium tremens; or kyphoscoliosis associated with respiratory depression.
+In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), Hydromorphone Hydrochloride Injection may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with Hydromorphone Hydrochloride Injection.
 
-The administration of opioid analgesics including hydromorphone hydrochloride injection may aggravate preexisting convulsions in patients with convulsive disorders.
+Opioids may also obscure the clinical course in a patient with a head injury.
+Avoid the use of Hydromorphone Hydrochloride Injection in patients with impaired consciousness or coma.
 
-Hydromorphone, as with other opioids, may aggravate convulsions in patients with convulsive disorders, and may induce or aggravate seizures in some clinical settings.
+## 5.9 Risks of Use in Patients with Gastrointestinal Conditions
 
-Reports of mild to severe seizures and myoclonus have been reported in severely compromised patients, administered high doses of parenteral hydromorphone.
+Hydromorphone Hydrochloride Injection is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
-## 5.10 Use in Drug and Alcohol Dependent Patients
+The hydromorphone in Hydromorphone Hydrochloride Injection may cause spasm of the sphincter of Oddi.
+Opioids may cause increases in serum amylase.
+Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
 
-Use hydromorphone hydrochloride with caution in patients with alcoholism and other drug dependencies due to the increased frequency of opioid tolerance, dependence, and the risk of addiction observed in these patient populations.
-Abuse of hydromorphone hydrochloride in combination with other CNS depressant drugs can result in serious risk to the patient.
+## 5.10 Increased Risk of Seizures in Patients with Seizure Disorders
 
-Hydromorphone is an opioid with no approved use in the management of addictive disorders.
-Its proper usage in individuals with drug or alcohol dependence, either active or in remission is for the management of pain requiring opioid analgesia.
+The hydromorphone in Hydromorphone Hydrochloride Injection may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
+Monitor patients with a history of seizure disorders for worsened seizure control during Hydromorphone Hydrochloride Injection therapy.
 
-## 5.11 Use in Ambulatory Patients
+## 5.11 Withdrawal
 
-Hydromorphone hydrochloride may impair the mental and/or physical ability required for the performance of potentially hazardous tasks (e.g., driving, operating machinery).
-Patients should be cautioned accordingly.
-Hydromorphone hydrochloride may produce orthostatic hypotension in ambulatory patients [see Drug Interactions (7)].
+Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Hydromorphone Hydrochloride Injection.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
-## 5.12 Parenteral Administration
+When discontinuing Hydromorphone Hydrochloride Injection, in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.6)].
+Do not abruptly discontinue Hydromorphone Hydrochloride Injection in these patients [see Drug Abuse and Dependence (9.3)].
 
-Hydromorphone hydrochloride injection may be given intravenously, but the injection should be given very slowly.
-Rapid intravenous injection of opioid analgesics increases the possibility of side effects such as hypotension and respiratory depression [see Dosage and Administration (2.3)].
+## 5.12 Risks of Driving and Operating Machinery
+
+Hydromorphone Hydrochloride Injection may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
+Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of Hydromorphone Hydrochloride Injection and know how they will react to the medication.
+
+## 5.13 Increased Risk of Hypotension and Respiratory Depression with Rapid Intravenous Administration
+
+Hydromorphone Hydrochloride Injection may be given intravenously, but the injection should be given very slowly.
+Rapid intravenous injection of opioid analgesics increases the possibility of side effects such as hypotension and respiratory depression [see Dosage and Administration (2.1)].

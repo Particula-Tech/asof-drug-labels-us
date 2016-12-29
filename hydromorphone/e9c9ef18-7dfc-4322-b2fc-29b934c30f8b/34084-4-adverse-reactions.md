@@ -1,21 +1,24 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-Serious adverse reactions associated with hydromorphone hydrochloride include respiratory depression and apnea, and to a lesser degree, circulatory depression, respiratory arrest, shock and cardiac arrest have occurred.
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
+- Interactions with CNS Benzodiazepines and Other Depressants [see Warnings and Precautions (5.4)
+- Adrenal Insufficiency [see Warnings and Precautions (5.6)]
+- Severe Hypotension [see Warnings and Precautions (5.7)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.9)]
+- Seizures [see Warnings and Precautions (5.10)]
+- Withdrawal [see Warnings and Precautions (5.11)]
 
-The following serious adverse reactions described elsewhere in the labeling include:
-
-- •Respiratory depression and secondary effects on intracranial pressure [see Warnings and Precautions (5.1, 5.6)].
-- •Hypotension [see Warnings and Precautions (5.7)].
-- •Gastrointestinal effects and effects in sphincter of Oddi [see Warnings and Precautions (5.8)].
-- •Drug abuse, addiction, and dependence [see Drug Abuse and Dependence (9.2, 9.3)].
-- •Effects on the ability to drive and operate machinery [see Warnings and Precautions (5.11)].
+The following adverse reactions associated with the use of hydromorphone were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The most common adverse effects are light-headedness, dizziness, sedation, nausea, vomiting, sweating, flushing, dysphoria, euphoria, dry mouth, and pruritus.
 These effects seem to be more prominent in ambulatory patients and in those not experiencing severe pain.
 
-## 6.1 Less Frequently Observed Adverse Reactions
+Less Frequently Observed Adverse Reactions
 
 Cardiac disorders: tachycardia, bradycardia, palpitations
 
@@ -43,7 +46,10 @@ Skin and subcutaneous tissue disorders: injection site pain, urticaria, rash, hy
 
 Vascular disorders: flushing, hypotension, hypertension
 
-## 6.2 Postmarketing Experience
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 
-The following adverse reactions have been identified during post-approval use of hydromorphone.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: anaphylactic reactions, confusional state, convulsions, dyskinesia, dyspnea, erectile dysfunction, hepatic enzyme increased, hyperalgesia, hypersensitivity reaction, injection site reactions, myoclonus, oropharyngeal swelling, peripheral edema, somnolence.
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Hydromorphone Hydrochloride Injection.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids.

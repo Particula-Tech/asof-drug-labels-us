@@ -1,7 +1,8 @@
 # 4 CONTRAINDICATIONS
 
-Hydromorphone hydrochloride is contraindicated:
+Hydromorphone Hydrochloride Injection is contraindicated in patients with:
 
-- •in patients with known hypersensitivity to hydromorphone
-- •in any situation where opioids are contraindicated, e.g., in patients with respiratory depression in the absence of resuscitative equipment or in unmonitored settings; or patients with acute or severe bronchial asthma
-- •in patients with, or at risk of developing, gastrointestinal obstruction, especially paralytic ileus because hydromorphone diminishes the propulsive peristaltic wave in the gastrointestinal tract and may prolong the obstruction.
+- Significant respiratory depression [see Warnings and Precautions (5.2)]
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see Warnings and Precautions (5.5)]
+- Known or suspected gastrointestinal obstruction, including paralytic ileus [see Warnings and Precautions (5.9)]
+- Hypersensitivity to hydromorphone (e.g., anaphylaxis) [Adverse Reactions (6)]
