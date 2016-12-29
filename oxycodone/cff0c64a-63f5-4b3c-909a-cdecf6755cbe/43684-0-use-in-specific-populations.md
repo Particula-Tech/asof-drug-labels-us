@@ -2,31 +2,63 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category B: There are no adequate and well-controlled studies of oxycodone use during pregnancy.
-Based on limited human data in the literature, oxycodone does not appear to increase the risk of congenital malformations.
-Animal reproduction studies have not revealed evidence of teratogenicity or fetal harm.
-Because animal reproduction studies are not always predictive of human response, OXAYDO should be used during pregnancy only if clearly needed.
+Risk Summary
 
-Reproduction studies in Sprague-Dawley rats and New Zealand rabbits revealed that when oxycodone was administered orally at doses up to 16 mg/kg and 25 mg/kg (approximately 2 and 5 times the daily oral dose of 90 mg on a mg/m2 basis) respectively, it was not teratogenic or embryo-fetal toxic.
+Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.3)].
+There are no available data with OXAYDO in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
 
-Non-teratogenic Effects
+In animal reproduction studies with oral administrations of oxycodone HCl in rats and rabbits during the period of organogenesis at doses 2.6 and 8.1 times, respectively, the human dose of 60 mg/day did not reveal evidence of teratogenicity or embryo-fetal toxicity.
+In several published studies, treatment of pregnant rats with oxycodone at clinically relevant doses and below resulted in neurobehavioral effects in offspring [see Data].
+Based on animal data, advise pregnant women of the potential risk to a fetus.
 
-Neonates whose mothers have taken oxycodone chronically may exhibit respiratory depression and/or withdrawal symptoms, either at birth and/or in the nursery.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-## 8.2 Labor and Delivery
+Clinical Considerations
 
-Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-OXAYDO is not recommended for use in women during or immediately prior to labor.
-Occasionally, opioid analgesics may prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
-Neonates, whose mothers received opioid analgesics during labor, must be observed closely for signs of respiratory depression.
-A specific narcotic antagonist, naloxone, must be available for reversal of narcotic-induced respiratory depression in the neonate.
+- Fetal/Neonatal Adverse Reactions
+- Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+- Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
+  The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
+  Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.3)].
+- Labor or Delivery
+- Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
+  An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+  OXAYDO is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
+  Opioid analgesics, including OXAYDO, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
+  However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
+  Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
-## 8.3 Nursing Mothers
+Data
 
-Low levels of oxycodone have been detected in maternal milk.
-The amount of oxycodone delivered to the infant depends on the plasma concentration of the mother, the amount of milk ingested by the infant, and the extent of first-pass metabolism.
-There is potential for serious adverse reactions in nursing infants from oxycodone that includes respiratory depression, sedation and potentially withdrawal symptoms when the mother stops taking oxycodone HCl.
-As such, one should consider either discontinuing nursing or discontinuing the drug, while taking into account the importance of the drug to the mother.
+- Animal Data
+- In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of oxycodone HCl administered during the period of organogenesis up to 16 mg/kg/day and up 25 mg/kg/day, respectively.
+  These studies revealed no evidence of teratogenicity or embryo-fetal toxicity due to oxycodone.
+  The highest doses tested in rats and rabbits were equivalent to approximately 2.6 and 8.1 times an adult human dose of 60 mg/day, respectively, on a mg/m2 basis.
+  In published studies, offspring of pregnant rats administered oxycodone during gestation have been reported to exhibit neurobehavioral effects including altered stress responses, increased anxiety-like behavior (2 mg/kg/day IV from Gestation Day 8 to 21 and Postnatal Day 1, 3, and 5; 0.3-times an adult human dose of 60 mg/day, on a mg/m2 basis) and altered learning and memory (15 mg/kg/day orally from breeding through parturition; 2.4 times an adult human dose of 60 mg/day, on a mg/m2 basis).
+
+## 8.2 Lactation
+
+Risk Summary
+
+Oxycodone is present in breast milk.
+Published lactation studies report variable concentrations of oxycodone in breast milk with administration of immediate-release oxycodone to nursing mothers in the early postpartum period.
+The lactation studies did not assess breastfed infants for potential adverse reactions.
+Lactation studies have not been conducted with OXAYDO, and no information is available on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with OXAYDO.
+
+Clinical Considerations
+
+Monitor infants exposed to OXAYDO through breast milk for excess sedation and respiratory depression.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped or when breastfeeding is stopped.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2)].
 
 ## 8.4 Pediatric Use
 
@@ -34,8 +66,14 @@ The safety, effectiveness, and pharmacokinetics of OXAYDO in pediatric patients 
 
 ## 8.5 Geriatric Use
 
-Elderly patients (aged 65 years or older) may have increased sensitivity to OXAYDO.
-Use caution when selecting a dose for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, concomitant disease, and use of other drug therapy.
+Elderly patients (aged 65 years or older) may have increased sensitivity to oxycodone.
+In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
+
+Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
+Titrate the dosage of OXAYDO slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.6)].
+
+Oxycodone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
 ## 8.6 Hepatic Impairment
 
@@ -45,6 +83,6 @@ Monitor patients closely and adjust the dose based on clinical response [see Dos
 
 ## 8.7 Renal Impairment
 
-Information from oxycodone HCl indicates that patients with renal impairment (defined as a creatinine clearance <60 mL/min) had higher plasma concentrations of oxycodone than subjects with normal renal function.
+Information from oxycodone HCl indicates that patients with renal impairment had higher plasma concentrations of oxycodone than subjects with normal renal function.
 Use a conservative approach to initiate dosing in patients with renal impairment.
 Monitor patients closely and adjust the dose based on clinical response [see Dosage and Administration (2.2)].

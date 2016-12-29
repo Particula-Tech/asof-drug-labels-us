@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-OXAYDO is supplied as white, debossed tablets in two strengths, 5 mg and 7.5 mg of oxycodone HCl, USP, as noted below.
+Tablets: 5 mg and 7.5 mg of oxycodone HCl, USP:
 
 | Strength | Description |
 | --- | --- |

@@ -1,8 +1,20 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies
+The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
+- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.5)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
+- Severe Hypotension [see Warnings and Precautions (5.8)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10)]
+- Seizures [see Warnings and Precautions (5.11)]
+- Withdrawal [see Warnings and Precautions (5.12)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 Serious adverse reactions that may be associated with OXAYDO include: respiratory depression, respiratory arrest, circulatory depression, cardiac arrest, hypotension, and/or shock [see Warnings and Precautions (5) and Overdosage (10)].
 
@@ -39,3 +51,17 @@ Skin and Appendages: herpes simplex, rash, sweating, and urticaria.
 Special Senses: amblyopia.
 
 Urogenital: urinary tract infection.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of oxycodone.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+These events include:
+
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in OXAYDO.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
