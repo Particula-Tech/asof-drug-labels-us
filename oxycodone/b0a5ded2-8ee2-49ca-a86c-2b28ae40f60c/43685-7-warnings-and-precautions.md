@@ -52,14 +52,22 @@ When using XTAMPZA ER with CYP3A4 inhibitors or discontinuing CYP3A4 inducers in
 Concomitant use of XTAMPZA ER with CYP3A4 inducers or discontinuation of an CYP3A4 inhibitor could decrease oxycodone plasma concentrations, decrease opioid efficacy or, possibly, lead to a withdrawal syndrome in a patient who had developed physical dependence to oxycodone.
 When using XTAMPZA ER with CYP3A4 inducers or discontinuing CYP3A4 inhibitors, monitor patients closely at frequent intervals and consider increasing the opioid dosage if needed to maintain adequate analgesia or if symptoms of opioid withdrawal occur [see Drug Interactions (7)].
 
-## 5.5 Risks Due to Interactions with Central Nervous System Depressants
+## 5.5 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Hypotension, profound sedation, respiratory depression, coma, and death may result if XTAMPZA ER is used concomitantly with other central nervous system (CNS) depressants (e.g., benzodiazepines and other sedative-hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, and other opioids).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of XTAMPZA ER with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
-When considering the use of XTAMPZA ER in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient's response, including the degree of tolerance that has developed to CNS depression.
-Additionally, evaluate the patient's use of alcohol or illicit drugs that can cause CNS depression.
-If the decision to begin XTAMPZA ER therapy is made, start with 1/3 to 1/2 the usual dose XTAMPZA ER, monitor patients for signs of respiratory depression, sedation, and hypotension, and consider using a lower dose of the concomitant CNS depressant.
-Use an alternative analgesic for patients who require a dose of XTAMPZA ER less than 9 mg [see Drug Interactions (7)].
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
+Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
+
+If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
+If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
+Follow patients closely for signs and symptoms of respiratory depression and sedation.
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when XTAMPZA ER is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7) and Patient Counseling Information (17)].
 
 ## 5.6 Risk of Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
@@ -67,7 +75,7 @@ The use of XTAMPZA ER in patients with acute or severe bronchial asthma in an un
 
 Patients with Chronic Pulmonary Disease: XTAMPZA ER-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of XTAMPZA ER [see Warnings and Precautions (5.2)].
 
-Elderly, Cachetic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients.
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients.
 
 Monitor such patients closely, particularly when initiating and titrating XTAMPZA ER and when XTAMPZA ER is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2)].
 Alternatively, consider the use of non-opioid analgesics in these patients.

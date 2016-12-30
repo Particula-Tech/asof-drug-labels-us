@@ -120,7 +120,7 @@ When administering XTAMPZA ER through a nasogastric or gastrostomy tube:
 
 1. Flush the tube with water.
 2. Open an XTAMPZA ER capsule and carefully pour the microspheres directly into the tube.
-   Do not pre-mix the capsule contents with the liquid that you will be usingto flush them through the tube.
+   Do not pre-mix the capsule contents with the liquid that you will be using to flush them through the tube.
 3. Draw up 15 mL of water into a syringe, insert the syringe into the tube, and flush the microspheres through the tube.
 4. Repeat the flushing two more times, each with 10 mL of water, to ensure no microspheres remain in the tube.
 

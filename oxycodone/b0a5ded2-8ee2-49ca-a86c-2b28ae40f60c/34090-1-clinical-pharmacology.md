@@ -34,9 +34,6 @@ Effects on the Cardiovascular System
 Oxycodone produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes and sweating and/or orthostatic hypotension.
 
-Caution must be used in hypovolemic patients, such as those suffering acute myocardial infarction, because oxycodone may cause or further aggravate their hypotension.
-Caution must also be used in patients with cor pulmonale who have received therapeutic doses of opioids.
-
 Effects on the Endocrine System
 
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
@@ -62,8 +59,6 @@ Concentration –Adverse Reaction Relationships
 
 There is a relationship between increasing oxycodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
 In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions.
-
-The dose of XTAMPZA ER must be individualized because the effective analgesic dose for some patients will be too high to be tolerated by other patients [see Dosage and Administration (2.1, 2.2, 2.4)].
 
 ## 12.3 Pharmacokinetics
 

@@ -1,6 +1,6 @@
 # Instructions for Use
 
-XTAMPZA™ ER (ex tamp' zah ee ar) (oxycodone) extended-release capsules, CII
+XTAMPZA® ER (ex tamp' zah ee ar) (oxycodone) extended-release capsules, CII
 
 Always take XTAMPZA ER with approximately the same amount of food.
 If you cannot swallow XTAMPZA ER capsules, tell your healthcare provider.
@@ -27,4 +27,4 @@ Use water, milk, or a liquid nutritional supplement to flush the tube when givin
 | Step 4: | Flush the tube two more times, each time with 10 mL of liquid, to ensure that none of the contents of the capsule are left in the tube. |
 
 This Instruction for Use has been approved by the U.S. Food and Drug Administration.
-Issued: April 2016
+Issued: December 2016

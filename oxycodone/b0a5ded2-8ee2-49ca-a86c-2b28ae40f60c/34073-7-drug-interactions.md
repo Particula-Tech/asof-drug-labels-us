@@ -13,14 +13,18 @@ Table 2: Clinically Significant Drug Interactions with XTAMPZA ER
 | Clinical Impact: | The concomitant use of XTAMPZA ER and CYP3A4 inducers can decrease the plasma concentration of oxycodone [see Clinical Pharmacology (12.3)], resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to oxycodone [see Warnings and Precautions (5.4)]. After stopping a CYP3A4 inducer, as the effects of the inducer decline, the oxycodone plasma concentration will increase [see Clinical Pharmacology (12.3)], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression. |
 | Intervention: | If concomitant use is necessary, consider increasing the XTAMPZA ER dosage until stable drug effects are achieved [see Dosage and Administration (2.4)]. Monitor for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider XTAMPZA ER dosage reduction and monitor for signs of respiratory depression. |
 | Examples: | Rifampin, carbamazepine, phenytoin |
-| Central Nervous System (CNS) Depressants |  |
-| Clinical Impact: | Due to additive pharmacological effects, the concomitant use of CNS depressants can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Consider dose reduction of one or both drugs. Monitor patients for signs of respiratory depression, sedation, and hypotension [see Warnings and Precautions (5.5)]. |
-| Examples | Alcohol, benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids. |
+| Benzodiazepines and other Central Nervous System (CNS) Depressants |  |
+| Clinical Impact: | Due to additive pharmacological effect, the concomitant use of benzodiazepines or other CNS depressants including alcohol, increases the risk of respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.5)]. |
+| Examples | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue XTAMPZA ER if serotonin syndrome is suspected. |
 | Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.2)]. |
+| Intervention: | The use of XTAMPZA ER is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
+| Examples: | phenelzine, tranylcypromine, linezolid |
 | Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
 | Clinical Impact: | May reduce the analgesic effect of XTAMPZA ER and/or precipitate withdrawal symptoms. |
 | Intervention: | Avoid concomitant use. |

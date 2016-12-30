@@ -5,7 +5,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- Interactions with CNS Depressants [see Warnings and Precautions (5.5)]
+- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.5)]
 - Adrenal Insufficiency [see Warnings and Precautions (5.7)]
 - Severe Hypotension [see Warnings and Precautions (5.8)]
 - Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10)]
@@ -25,10 +25,9 @@ The most common adverse reactions (>5%) reported by patients in the Phase 3 clin
 
 Table 1: Common Adverse Reactions (>5%)
 
-| (%) | (%) | (%) |  |
+| Adverse Reaction | XTAMPZA ER (n = 740) (%) | XTAMPZA ER (n = 193) (%) | Placebo (n = 196) (%) |
 | --- | --- | --- | --- |
 |  | Titration | Maintenance |  |
-| Adverse Reaction | XTAMPZA ER (n = 740) | XTAMPZA ER (n = 193) | Placebo (n = 196) |
 | Nausea | 16.6 | 10.9 | 4.6 |
 | Headache | 13.9 | 6.2 | 11.7 |
 | Constipation | 13.0 | 5.2 | 0.5 |

@@ -12,6 +12,6 @@ Table 8: Summary of XTAMPZA ER Capsule Strengths
 | 27 mg (equivalent to 30 mg oxycodone HCl) | Size 0, light gray cap printed with "XTAMPZA ER" and white body printed with "27 mg" | NDC 24510-130-10 |
 | 36 mg (equivalent to 40 mg oxycodone HCl) | Size 00, flesh color cap printed with "XTAMPZA ER" and white body printed with "36 mg" | NDC 24510-140-10 |
 
-Store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F).
+Store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 
 Dispense in tight, light-resistant container, with child-resistant closure.

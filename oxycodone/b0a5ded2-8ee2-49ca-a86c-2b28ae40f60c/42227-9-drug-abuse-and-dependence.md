@@ -8,6 +8,7 @@ XTAMPZA ER contains oxycodone, a Schedule II controlled substance.
 
 XTAMPZA ER contains oxycodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydromorphone, methadone, morphine, and oxymorphone.
 XTAMPZA ER can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+
 The high drug content in extended-release formulations adds to the risk of adverse outcomes from abuse and misuse.
 
 All patients treated with opioids require careful monitoring for signs of abuse and addiction, since use of opioid analgesic products carries the risk of addiction even under appropriate medical use.

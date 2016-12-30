@@ -17,9 +17,9 @@ Accidental Ingestion
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
 Instruct patients to take steps to store XTAMPZA ER securely and to dispose of unused XTAMPZA ER by flushing the tablets down the toilet.
 
-Interactions with Alcohol and other CNS Depressants
+Interactions with Benzodiazepines and other CNS Depressants
 
-Inform patients that potentially serious additive effects may occur if XTAMPZA ER is used with other CNS depressants and not to use such drugs unless supervised by a healthcare provider [see Warnings and Precautions (5.5)].
+Inform patients and caregivers that potentially fatal additive effects may occur if XTAMPZA ER is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
 Serotonin Syndrome
 
@@ -27,6 +27,11 @@ Inform patients that XTAMPZA ER could cause a rare but potentially life-threaten
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
 Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications.
 [see Drug Interactions (7)].
+
+MAOI Interaction
+
+Inform patients to avoid taking XTAMPZA ER while using any drugs that inhibit monoamine oxidase.
+Patients should not start MAOIs while taking XTAMPZA ER [see Drug Interactions (7)].
 
 Adrenal Insufficiency
 
@@ -91,3 +96,5 @@ Advise patients of the potential for severe constipation, including management i
 Disposal of Unused XTAMPZA ER
 
 Advise patients to flush the unused capsules down the toilet when XTAMPZA ER is no longer needed.
+
+Healthcare professionals can telephone Collegium Pharmaceutical's Medical Affairs Department (1-855-331-5615) for information on this product.
