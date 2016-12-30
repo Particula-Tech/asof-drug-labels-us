@@ -1,13 +1,32 @@
 # ADVERSE REACTIONS
 
-ULTRAM® was administered to 550 patients during the double-blind or open-label extension periods in U.S. studies of chronic nonmalignant pain.
+The following serious adverse reactions are described, or described in greater detail, in other sections:
+
+- Addiction, Abuse, and Misuse (see WARNINGS)
+- Life-Threatening Respiratory Depression (see WARNINGS)
+- Neonatal Opioid Withdrawal Syndrome (see WARNINGS)
+- Interactions with Benzodiazepines or Other CNS Depressants (see WARNINGS)
+- Serotonin Syndrome (see WARNINGS)
+- Seizures (see WARNINGS)
+- Suicide (see WARNINGS)
+- Adrenal Insufficiency (see WARNINGS)
+- Severe Hypotension (see WARNINGS)
+- Gastrointestinal Adverse Reactions (see WARNINGS)
+- Hypersensitivity Reactions (see WARNINGS)
+- Withdrawal (see WARNINGS)
+
+## Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ULTRAM was administered to 550 patients during the double-blind or open-label extension periods in U.S. studies of chronic nonmalignant pain.
 Of these patients, 375 were 65 years old or older.
 Table 2 reports the cumulative incidence rate of adverse reactions by 7, 30 and 90 days for the most frequent reactions (5% or more by 7 days).
 The most frequently reported events were in the central nervous system and gastrointestinal system.
-Although the reactions listed in the table are felt to be probably related to ULTRAM® administration, the reported rates also include some events that may have been due to underlying disease or concomitant medication.
-The overall incidence rates of adverse experiences in these trials were similar for ULTRAM® and the active control groups, TYLENOL® with Codeine #3 (acetaminophen 300 mg with codeine phosphate 30 mg), and aspirin 325 mg with codeine phosphate 30 mg, however, the rates of withdrawals due to adverse events appeared to be higher in the ULTRAM® groups.
+Although the reactions listed in the table are felt to be probably related to ULTRAM administration, the reported rates also include some events that may have been due to underlying disease or concomitant medication.
+The overall incidence rates of adverse experiences in these trials were similar for ULTRAM and the active control groups, TYLENOL with Codeine #3 (acetaminophen 300 mg with codeine phosphate 30 mg), and aspirin 325 mg with codeine phosphate 30 mg, however, the rates of withdrawals due to adverse events appeared to be higher in the ULTRAM groups.
 
-Table 2: Cumulative Incidence of Adverse Reactions for ULTRAM® in Chronic Trials of Nonmalignant Pain (N=427)
+Table 2: Cumulative Incidence of Adverse Reactions for ULTRAM in Chronic Trials of Nonmalignant Pain (N=427)
 
 |  | Up to 7 Days | Up to 30 Days | Up to 90 Days |
 | --- | --- | --- | --- |
@@ -25,7 +44,9 @@ Table 2: Cumulative Incidence of Adverse Reactions for ULTRAM® in Chronic Trial
 | Dry Mouth | 5% | 9% | 10% |
 | Diarrhea | 5% | 6% | 10% |
 
-Incidence 1% to less than 5% possibly causally related: the following lists adverse reactions that occurred with an incidence of 1% to less than 5% in clinical trials, and for which the possibility of a causal relationship with ULTRAM® exists.
+### Incidence 1% to less than 5% possibly causally related
+
+The following lists adverse reactions that occurred with an incidence of 1% to less than 5% in clinical trials, and for which the possibility of a causal relationship with ULTRAM exists.
 
 Body as a Whole: Malaise.
 
@@ -43,13 +64,15 @@ Special Senses: Visual disturbance.
 
 Urogenital: Menopausal symptoms, Urinary frequency, Urinary retention.
 
-Incidence less than 1%, possibly causally related: the following lists adverse reactions that occurred with an incidence of less than 1% in clinical trials of tramadol and/or reported in post-marketing experience with tramadol-containing products.
+### Incidence less than 1%, possibly causally related
+
+The following lists adverse reactions that occurred with an incidence of less than 1% in clinical trials of tramadol and/or reported in post-marketing experience with tramadol-containing products.
 
 Body as a Whole: Accidental injury, Allergic reaction, Anaphylaxis, Death, Suicidal tendency, Weight loss, Serotonin syndrome (mental status change, hyperreflexia, fever, shivering, tremor, agitation, diaphoresis, seizures and coma).
 
 Cardiovascular: Orthostatic hypotension, Syncope, Tachycardia.
 
-Central Nervous System: Abnormal gait, Amnesia, Cognitive dysfunction, Delirium, Depression, Difficulty in concentration, Hallucinations, Movement disorder, Paresthesia, Seizure (see WARNINGS), Speech disorder, Tremor.
+Central Nervous System: Abnormal gait, Amnesia, Cognitive dysfunction, Delirium, Depression, Difficulty in concentration, Hallucinations, Movement disorder, Paresthesia, Seizure, Speech disorder, Tremor.
 
 Metabolism and Nutrition Disorders: Cases of hypoglycemia have been reported very rarely in patients taking tramadol.
 Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients.
@@ -62,8 +85,10 @@ Special Senses: Dysgeusia, Mydriasis.
 
 Urogenital: Dysuria, Menstrual disorder.
 
-Other adverse experiences, causal relationship unknown: A variety of other adverse events were reported infrequently in patients taking ULTRAM® during clinical trials and/or reported in post-marketing experience.
-A causal relationship between ULTRAM® and these events has not been determined.
+### Other adverse experiences, causal relationship unknown
+
+A variety of other adverse events were reported infrequently in patients taking ULTRAM during clinical trials and/or reported in post-marketing experience.
+A causal relationship between ULTRAM and these events has not been determined.
 However, the most significant events are listed below as alerting information to the physician.
 
 Cardiovascular: Abnormal ECG, Hypertension, Hypotension, Myocardial ischemia, Palpitations, Pulmonary edema, Pulmonary embolism.
@@ -75,3 +100,17 @@ Gastrointestinal: Gastrointestinal bleeding, Hepatitis, Stomatitis, Liver failur
 Laboratory Abnormalities: Creatinine increase, Elevated liver enzymes, Hemoglobin decrease, Proteinuria.
 
 Sensory: Cataracts, Deafness, Tinnitus.
+
+## Postmarketing Experience
+
+### Serotonin syndrome
+
+Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+### Adrenal insufficiency
+
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+### Androgen deficiency
+
+Cases of androgen deficiency have occurred with chronic use of opioids (see CLINICAL PHARMACOLOGY).

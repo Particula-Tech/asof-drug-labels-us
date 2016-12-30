@@ -1,13 +1,11 @@
-Full Prescribing Information
-
 Product of Switzerland
 
 Manufactured by:
 
-Janssen Ortho, LLC Gurabo, Puerto, Rico 00778
+Janssen Ortho, LLC Gurabo, Puerto Rico 00778
 
 Manufactured for:
 
 Janssen Pharmaceuticals, Inc. Titusville, New Jersey 08560
 
-© Janssen Pharmaceuticals, Inc. 2003 Revised July 2014
+© Janssen Pharmaceuticals, Inc. 2003 Revised 12/2016
