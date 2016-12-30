@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA204117"
+  ],
+  "inn": "ziprasidone",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-702-10",
+    "65862-702-60",
+    "65862-702-80",
+    "65862-702-99",
+    "65862-703-10",
+    "65862-703-60",
+    "65862-703-80",
+    "65862-703-99",
+    "65862-704-10",
+    "65862-704-60",
+    "65862-704-80",
+    "65862-704-99",
+    "65862-705-10",
+    "65862-705-60",
+    "65862-705-80",
+    "65862-705-99"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "ziprasidone hydrochloride",
+      "name": "Ziprasidone Hydrochloride"
+    }
+  ],
+  "setid": "cc5e1c44-79e9-45d3-b1e5-b003f550c508",
+  "source": "dailymed"
+}
