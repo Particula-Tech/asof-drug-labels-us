@@ -1,82 +1,131 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Risk of Medication Errors
+## 5.1 Addiction, Abuse, and Misuse
 
-Morphine Sulfate Injection is available in five concentrations for direct injection.
-Take care when prescribing and administering Morphine Sulfate Injection to avoid dosing errors due to confusion between different concentrations and between mg and mL, which could result in accidental overdose and death.
-Take care to ensure the proper dose is communicated and dispensed.
-When writing prescriptions, include both the total dose in mg and the total dose in volume.
+Morphine Sulfate Injection contains morphine, a Schedule II controlled substance.
+As an opioid, Morphine Sulfate Injection exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
 
-## 5.2 Cardiovascular Instability
+Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Morphine Sulfate Injection.
+Addiction can occur at recommended dosages and if the drug is misused or abused.
+
+Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing Morphine Sulfate Injection, and monitor all patients receiving morphine sulfate for the development of these behaviors and conditions.
+Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+The potential for these risks should not, however, prevent the proper management of pain in any given patient.
+Patients at increased risk may be prescribed opioids such as Morphine Sulfate Injection, but use in such patients necessitates intensive counseling about the risks and proper use of Morphine Sulfate Injection along with intensive monitoring for signs of addiction, abuse, and misuse.
+
+Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
+Consider these risks when prescribing or dispensing Morphine Sulfate Injection.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity.
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+
+## 5.2 Life-Threatening Respiratory Depression
+
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
+Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+
+While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of Morphine Sulfate Injection, the risk is greatest during the initiation of therapy or following a dosage increase.
+Because of a delay in the maximum CNS effect with intravenously administered Morphine Sulfate Injection (30 min), rapid administration may result in overdosing.
+The respiratory depression may be severe and could require intervention [see Overdosage (10)].
+Monitor patients closely for respiratory depression, especially within the first 24–72 hours of initiating therapy with and following dosage increases of Morphine Sulfate Injection.
+
+To reduce the risk of respiratory depression, proper dosing and titration of Morphine Sulfate Injection are essential [see Dosage and Administration (2.3)].
+Overestimating the Morphine Sulfate Injection dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
+
+## 5.3 Neonatal Opioid Withdrawal Syndrome
+
+Prolonged use of Morphine Sulfate Injection during pregnancy can result in withdrawal in the neonate.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1)].
+
+## 5.4 Risks from Concomitant Use with Benzodiazepines or Other Central Nervous System Depressants
+
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Morphine Sulfate Injection with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
+Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
+
+If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
+If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
+Follow patients closely for signs and symptoms of respiratory depression and sedation.
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when Morphine Sulfate Injection is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7)].
+
+## 5.5 Cardiovascular Instability
 
 While low doses of intravenously administered morphine have little effect on cardiovascular stability, high doses are excitatory, resulting from sympathetic hyperactivity and increase in circulatory catecholamines.
-Have Naloxone Injection and resuscitative equipment immediately available for use in case of life-threatening or intolerable side effects and whenever morphine therapy is being initiated.
+Have naloxone injection and resuscitative equipment immediately available for use in case of life-threatening or intolerable side effects and whenever morphine therapy is being initiated.
 
-## 5.3 Respiratory Depression
+## 5.6 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
-Respiratory depression is the primary risk of Morphine Sulfate Injection USP.
-Respiratory depression occurs more frequently in elderly or debilitated patients and in those suffering from conditions accompanied by hypoxia, hypercapnia, or upper airway obstruction, in whom even moderate therapeutic doses may significantly decrease pulmonary ventilation.
-Morphine administration should be limited to use by those familiar with the management of respiratory depression.
-Rapid intravenous administration may result in chest wall rigidity.
+The use of Morphine Sulfate Injection in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with chronic obstructive pulmonary disease or cor pulmonale and in patients having a substantially decreased respiratory reserve (e.g., severe kyphoscoliosis), hypoxia, hypercapnia, or preexisting respiratory depression have an increased risk of increased airway resistance and decrease respiratory drive to the point of apnea with use of Morphine Sulfate Injection USP.
-Therefore, consider alternative non-opioid analgesics, and use Morphine Sulfate Injection USP only under careful medical supervision at the lowest effective dose in such patients.
+Patients with Chronic Pulmonary Disease: Morphine Sulfate Injection-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Morphine Sulfate Injection [see Warnings and Precautions (5.2)].
 
-## 5.4 Central Nervous System (CNS) Toxicity
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
-Excitation of the central nervous system, resulting in convulsion, may accompany high doses of morphine given intravenously.
-Dysphoric reactions may occur after any size dose and toxic psychoses have been reported.
+Monitor such patients closely, particularly when initiating and titrating Morphine Sulfate Injection and when Morphine Sulfate Injection is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2)].
+Alternatively, consider the use of non-opioid analgesics in these patients.
 
-## 5.5 Misuse, Abuse and Diversion of Opioids
+## 5.7 Interaction with Monoamine Oxidase Inhibitors
 
-Morphine sulfate is an opioid agonist and Schedule II controlled substance.
-Such drugs are sought by drug abusers and people with addiction disorders.
-Diversion of Scheduled II products is an act subject to criminal penalty.
-[See Drug Abuse and Dependence (9).]
+Monoamine oxidase inhibitors (MAOIs) may potentiate the effects of morphine, including respiratory depression, coma, and confusion.
+Morphine Sulfate Injection should not be used in patients taking MAOIs or within 14 days of stopping such treatment.
 
-Morphine sulfate can be abused in a manner similar to other opioid agonists, legal or illicit.
-This should be considered when prescribing or dispensing Morphine Sulfate Injection USP in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse, or diversion.
+## 5.8 Adrenal Insufficiency
 
-Concerns about abuse, addiction, and diversion should not prevent the proper management of pain.
-Healthcare professionals should contact their State of Professional Licensing Board or State Controlled Substances Authority for information on how to prevent and detect abuse or diversion of this product.
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
+If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
+Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
+Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
+The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-## 5.6 Central Nervous System (CNS) Depressants
+## 5.9 Severe Hypotension
 
-The depressant effects of morphine are potentiated by the presence of other CNS depressants such as alcohol, sedatives, antihistamines, or psychotropic drugs.
-Use of Morphine in conjunction with other CNS active drugs may increase the risk of respiratory depression, hypotension, profound sedation, coma, or death.
+Morphine Sulfate Injection may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
+Monitor these patients for signs of hypotension after initiating or titrating the dosage of Morphine Sulfate Injection.
+In patients with circulatory shock, Morphine Sulfate Injection may cause vasodilation that can further reduce cardiac output and blood pressure.
+Avoid the use of Morphine Sulfate Injection in patients with circulatory shock.
 
-## 5.7 Increased Intracranial Pressure or Head Injury
+## 5.10 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-Use Morphine Sulfate Injection with extreme caution in patients with head injury or increased intracranial pressure.
-In the presence of head injury, intracranial lesions or a preexisting increase in intracranial pressure, the possible respiratory depressant effects of Morphine Sulfate Injection USP and its potential to elevate cerebrospinal fluid pressure (resulting from vasodilation following CO2 retention) may be markedly exaggerated.
-Pupillary changes (miosis) from morphine may obscure the existence, extent and course of intracranial pathology.
-Clinicians should maintain a high index of suspicion for adverse drug reactions when evaluating altered mental status or movement abnormalities in patients receiving this modality of treatment.
+In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), Morphine Sulfate Injection may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with Morphine Sulfate Injection.
 
-## 5.8 Hypotensive Effect
+Opioids may also obscure the clinical course in a patient with a head injury.
+Avoid the use of Morphine Sulfate Injection in patients with impaired consciousness or coma.
 
-Morphine Sulfate Injection may cause severe hypotension in an individual whose ability to maintain their blood pressure has been compromised by depleted blood volume, shock, impaired myocardial function or concurrent administration of sympatholytic drugs, and drugs such as phenothiazines or general anesthetics.
-Orthostatic hypotension is a frequent complication in single-use parenteral morphine analgesia in ambulatory patients.
+## 5.11 Risks of Use in Patients with Gastrointestinal Conditions
 
-The vasodilation produced by Morphine Sulfate Injection USP may further reduce cardiac output and blood pressure in patients in circulatory shock.
+Morphine Sulfate Injection is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
-## 5.9 Driving and Operating Machinery
+The morphine in Morphine Sulfate Injection may cause spasm of the sphincter of Oddi.
+Opioids may cause increases in serum amylase.
+Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
 
-Morphine may impair the mental and physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
-Caution patients accordingly.
+## 5.12 Increased Risk of Seizures in Patients with Seizure Disorders
 
-## 5.10 Gastrointestinal Effects
+The morphine in Morphine Sulfate Injection may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
+Monitor patients with a history of seizure disorders for worsened seizure control during Morphine Sulfate Injection therapy.
 
-Do not administer Morphine Sulfate Injection USP to patients with gastrointestinal obstruction, especially paralytic ileus because Morphine Sulfate Injection USP diminishes propulsive peristaltic waves in the gastrointestinal tract and may prolong the obstruction.
+## 5.13 Withdrawal
 
-The administration of Morphine Sulfate Injection USP may obscure the diagnosis or clinical course in patients with acute abdominal condition.
+Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Morphine Sulfate Injection.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
 
-## 5.11 Use in Biliary Surgery or Disorders of the Biliary Tract
+When discontinuing Morphine Sulfate Injection in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.4)].
+Do not abruptly discontinue Morphine Sulfate Injection in these patients [see Drug Abuse and Dependence (9.3)].
 
-Morphine Sulfate Injection USP may cause spasm of the sphincter of Oddi and diminish biliary and pancreatic secretions.
+## 5.14 Risks of Driving and Operating Machinery
 
-## 5.12 Special Risk Groups
-
-Use Morphine Sulfate Injection USP with caution and in reduced dosages in patients with severe renal or hepatic impairment, Addison’s disease, hypothyroidism, prostatic hypertrophy, or urethral stricture, and in elderly or debilitated patients.
-[See Use in Specific Populations (8.5).]
-
-Exercise caution in the administration of Morphine Sulfate Injection USP to patients with CNS depression, toxic psychosis, acute alcoholism and delirium tremens.
+Morphine Sulfate Injection may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
+Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of Morphine Sulfate Injection and know how they will react to the medication.
