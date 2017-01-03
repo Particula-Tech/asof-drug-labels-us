@@ -23,14 +23,13 @@ Available in bottles of 100.
 NDC 0093-0321-01 – Bottle of 100
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
-
 Avoid excessive humidity.
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-N 12/2014
+O 11/2016

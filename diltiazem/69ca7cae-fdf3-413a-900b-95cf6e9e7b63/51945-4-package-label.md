@@ -12,6 +12,10 @@ Tablets USP
 
 30 mg
 
+Swallow tablets whole.
+
+Do not split, crush or chew tablets
+
 Rx only
 
 100 TABLETS
@@ -31,6 +35,10 @@ Hydrochloride
 Tablets USP
 
 60 mg
+
+Swallow tablets whole.
+
+Do not split, crush or chew tablets
 
 Rx only
 
@@ -52,6 +60,10 @@ Tablets USP
 
 90 mg
 
+Swallow tablets whole.
+
+Do not split, crush or chew tablets
+
 Rx only
 
 100 TABLETS
@@ -71,6 +83,10 @@ Hydrochloride
 Tablets USP
 
 120 mg
+
+Swallow tablets whole.
+
+Do not split, crush or chew tablets
 
 Rx only
 
