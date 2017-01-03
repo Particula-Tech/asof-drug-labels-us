@@ -100,7 +100,7 @@ Patients were randomized to receive gemcitabine 1250 mg/m2 on Days 1 and 8, and 
 There was no significant difference in survival between the two treatment arms (Log rank p=0.18, two-sided, see Table 14).
 The median survival was 8.7 months for the gemcitabine plus cisplatin arm versus 7.0 months for the etoposide plus cisplatin arm.
 Median time to disease progression for the gemcitabine plus cisplatin arm was 5.0 months compared to 4.1 months on the etoposide plus cisplatin arm (Log rank p=0.015, two-sided).
-The objective response rate for the gemcitabine plus cisplatin arm was 33% compared to 14% on the etoposide plus cisplatin arm (Fisher’s Exact p=0.01, two-sided).
+The objective response rate for the gemcitabine plus cisplatin arm was 33% compared to 14% on the etoposide plus cisplatin arm (Fisher's Exact p=0.01, two-sided).
 
 Figure 3: Kaplan-Meier Survival Curve in Gemcitabine Plus Cisplatin Versus Cisplatin NSCLC Study (N=522).
 
@@ -123,14 +123,14 @@ Table 14: Randomized Trials of Gemcitabine Plus Cisplatin in Patients with NSCLC
 | p-valuef | p=0.009 |  | p=0.015 |  |
 | Tumor Response | 26% | 10% | 33% | 14% |
 | p-valuef | p<0.0001 |  | p=0.01 |  |
-| a 28-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days. b 21-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. c N/A - Not applicable. d Karnofsky Performance Status. e CI=confidence intervals. f p-value two-sided Fisher’s Exact test for difference in binomial proportions; log rank test for time-to-event analyses. |  |  |  |  |
+| a 28-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days. b 21-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. c N/A - Not applicable. d Karnofsky Performance Status. e CI=confidence intervals. f p-value two-sided Fisher's Exact test for difference in binomial proportions; log rank test for time-to-event analyses. |  |  |  |  |
 
 ## 14.4 Pancreatic Cancer
 
 The safety and efficacy of Gemcitabine was evaluated in two trials, a randomized, single-blind, two-arm, active-controlled trial conducted in patients with locally advanced or metastatic pancreatic cancer who had received no prior chemotherapy and in a single-arm, open-label, multicenter trial conducted in patients with locally advanced or metastatic pancreatic cancer previously treated with 5-FU or a 5-FU-containing regimen.
 The first trial randomized patients to receive gemcitabine 1000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly dosing for 3 consecutive weeks every 28-days in subsequent cycles (n=63) or to 5-fluorouracil (5-FU) 600 mg/m2 intravenously over 30 minutes once weekly (n=63).
 In the second trial, all patients received Gemcitabine 1000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly dosing for 3 consecutive weeks every 28-days in subsequent cycles.
-The primary efficacy outcome measure in both trials was “clinical benefit response”.
+The primary efficacy outcome measure in both trials was "clinical benefit response".
 A patient was considered to have had a clinical benefit response if either of the following occurred:
 
 1. i)The patient achieved a ≥50% reduction in pain intensity (Memorial Pain Assessment Card) or analgesic consumption, or a 20-point or greater improvement in performance status (Karnofsky Performance Status) for a period of at least 4 consecutive weeks, without showing any sustained worsening in any of the other parameters.

@@ -38,7 +38,7 @@ In a randomized trial in women with ovarian cancer, 175 women received gemcitabi
 Similar effectiveness was observed between older and younger women.
 There was significantly higher Grade 3/4 neutropenia in women 65 years of age or older.
 
-Gemcitabine clearance is affected by age, however there are no recommended dose adjustments based on patients’ on age [see Clinical Pharmacology (12.3)].
+Gemcitabine clearance is affected by age, however there are no recommended dose adjustments based on patients' on age [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 

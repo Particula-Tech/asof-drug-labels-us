@@ -118,7 +118,7 @@ No dose modifications are recommended for alopecia, nausea, or vomiting.
 Exercise caution and wear gloves when preparing gemcitabine solutions.
 Immediately wash the skin thoroughly or rinse the mucosa with copious amounts of water if Gemcitabine contacts the skin or mucus membranes.
 Death has occurred in animal studies due to dermal absorption.
-For further guidance on handling Gemcitabine go to “OSHA Hazardous Drugs” (refer to antineoplastic weblinks including OSHA Technical Manual) at OSHA. http://www.osha.gov/SLTC/hazardousdrugs/index.html
+For further guidance on handling Gemcitabine go to "OSHA Hazardous Drugs" (refer to antineoplastic weblinks including OSHA Technical Manual) at OSHA. http://www.osha.gov/SLTC/hazardousdrugs/index.html
 
 ## 2.7 Preparation for Intravenous Infusion Administration
 

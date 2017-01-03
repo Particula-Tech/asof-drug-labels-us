@@ -42,7 +42,7 @@ The lower clearance in women and the elderly results in higher concentrations of
 Differences in either clearance or volume of distribution based on patient characteristics or the duration of infusion result in changes in half-life and plasma concentrations.
 Table 10 shows plasma clearance and half-life of gemcitabine following short infusions for typical patients by age and gender.
 
-Table 10: Gemcitabine Clearance and Half-Life for the “Typical” Patient
+Table 10: Gemcitabine Clearance and Half-Life for the "Typical" Patient
 
 | Age | ClearanceMen(L/hr/m2) | ClearanceWomen(L/hr/m2) | Half-LifeaMen(min) | Half-LifeaWomen(min) |
 | --- | --- | --- | --- | --- |
