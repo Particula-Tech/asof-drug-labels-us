@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA204948"
+  ],
+  "inn": "paricalcitol",
+  "labeler": "TIME CAP LABORATORIES, INC",
+  "package_ndcs": [
+    "49483-687-03",
+    "49483-688-03",
+    "49483-689-03"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "paricalcitol",
+      "name": "PARICALCITOL"
+    }
+  ],
+  "setid": "f593b575-7537-4531-87fc-c1b0814fd018",
+  "source": "dailymed"
+}
