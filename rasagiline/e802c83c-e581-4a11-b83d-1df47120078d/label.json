@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021641"
+  ],
+  "inn": "rasagiline",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-3060-56",
+    "0093-3061-56"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "rasagiline",
+      "name": "Rasagiline"
+    }
+  ],
+  "setid": "e802c83c-e581-4a11-b83d-1df47120078d",
+  "source": "dailymed"
+}
