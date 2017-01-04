@@ -1,9 +1,23 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Amber ampuls for epidural or intrathecal administration via a continuous microinfusion device.
+INFUMORPH (preservative-free morphine sulfate sterile solution), is, a preservative-free solution, supplied in amber ampuls for epidural or intrathecal administration via a continuous microinfusion device as follows:
 
-INFUMORPH 200 (Preservative-free Morphine Sulfate Sterile Solution) 200 mg/20 mL (10 mg/mL) packaged individually (NDC 0641-6039-01)
+NDC 0641-6039-01 INFUMORPH 200 200 mg/20 mL (10 m/mL) Single Use amber ampuls packaged individually
 
-INFUMORPH 500 (Preservative-free Morphine Sulfate Sterile Solution) 500 mg/20 mL (25 mg/mL) packaged individually (NDC 0641-6040-01)
+NDC 0641-6040-01 INFUMORPH 500 500 mg/20 mL (25 mg/mL) Single Use amber ampuls packaged individually
 
-Also available from West-Ward: DURAMORPH (Morphine Sulfate Injection, USP) 5 mg/10 mL (0.5 mg/mL) and 10 mg/10 mL (1 mg/mL).
+INFUMORPH is supplied in sealed ampuls.
+Accidental dermal exposure should be treated by the removal of any contaminated clothing and rinsing the affected area with water.
+
+PROTECT FROM LIGHT.
+Keep stored in carton until time of use.
+Store at 20˚‑25˚C (68˚‑77˚F), excursions permitted to 15˚‑30˚C (59˚‑86˚F) [See USP Controlled Room Temperature].
+DO NOT FREEZE.
+INFUMORPH contains no preservative or antioxidant.
+Each 20 mL ampul of INFUMORPH is intended for SINGLE USE ONLY.
+Discard any unused portion.
+Do not heat-sterilize.
+
+To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+For Product Inquiry call 1-877-845-0689.

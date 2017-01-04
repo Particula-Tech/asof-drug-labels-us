@@ -1,108 +1,183 @@
-# WARNINGS
+# ​5 WARNINGS AND PRECAUTIONS
 
-Morphine sulfate may be habit forming.
-Overdoses may cause respiratory depression, coma, and death.
-
-THIS PRODUCT WAS DEVELOPED FOR USE (AFTER APPROPRIATE DILUTION, IF NECESSARY) IN CONTINUOUS MICROINFUSION DEVICES FOR INTRATHECAL OR EPIDURAL INFUSION OF NARCOTICS TO CONTROL SEVERE CANCER PAIN.
-CHRONIC NEURAXIAL OPIOID ANALGESIA IS APPROPRIATE ONLY WHEN LESS INVASIVE MEANS OF CONTROLLING PAIN HAVE FAILED AND SHOULD ONLY BE UNDERTAKEN BY THOSE WHO ARE EXPERIENCED IN APPLYING THIS TREATMENT IN A SETTING WHERE ITS COMPLICATIONS CAN BE ADEQUATELY MANAGED.
-
-| BECAUSE OF THE RISK OF SEVERE ADVERSE EFFECTS, PATIENTS MUST BE OBSERVED IN A FULLY EQUIPPED AND STAFFED ENVIRONMENT FOR AT LEAST 24 HOURS AFTER THE INITIAL (SINGLE) TEST DOSE AND, AS APPROPRIATE, FOR THE FIRST SEVERAL DAYS AFTER CATHETER IMPLANTATION. |
-| --- |
-
-THE FACILITY MUST BE EQUIPPED TO RESUSCITATE PATIENTS WITH SEVERE OPIATE OVERDOSAGE, AND THE PERSONNEL MUST BE FAMILIAR WITH THE USE AND LIMITATIONS OF SPECIFIC NARCOTIC ANTAGONISTS (NALOXONE, NALTREXONE) IN SUCH CASES.
-
-RESERVOIR FILLING MUST BE PERFORMED BY FULLY TRAINED AND QUALIFIED PERSONNEL, FOLLOWING THE DIRECTIONS PROVIDED BY THE DEVICE MANUFACTURER.
-CARE SHOULD BE TAKEN IN SELECTING THE PROPER REFILL FREQUENCY TO PREVENT DEPLETION OF THE RESERVOIR, WHICH WOULD RESULT IN EXACERBATION OF SEVERE PAIN AND/OR REFLUX OF CSF INTO SOME DEVICES.
-STRICT ASEPTIC TECHNIQUE IN FILLING IS REQUIRED TO AVOID BACTERIALCONTAMINATION AND SERIOUS INFECTION.
-EXTREME CARE MUST BE TAKEN TO ENSURE THAT THE NEEDLE IS PROPERLY IN THE FILLING PORT OF THE DEVICE BEFORE ATTEMPTING TO REFILL THE RESERVOIR.
-INJECTING THE SOLUTION INTO THE TISSUE AROUND THE DEVICE OR (IN THE CASE OF DEVICES THAT HAVE MORE THAN ONE PORT) ATTEMPTING TO INJECT THE REFILL DOSE INTO THE DIRECT INJECTION PORT WILL RESULT IN A LARGE, CLINICALLY SIGNIFICANT, OVERDOSAGE TO THE PATIENT.
-
-A PERIOD OF OBSERVATION APPROPRIATE TO THE CLINICAL SITUATION SHOULD FOLLOW EACH REFILL OR MANIPULATION OF THE DRUG RESERVOIR.
-BEFORE DISCHARGE, THE PATIENT AND ATTENDANT(S) SHOULD RECEIVE INSTRUCTION IN THE PROPER HOME CARE OF THE DEVICE AND INSERTION SITE AND IN THE RECOGNITION AND PRACTICAL TREATMENT OF AN OVERDOSE OF NEURAXIAL MORPHINE.
-
-## Inflammatory Masses
-
-INFLAMMATORY MASSES SUCH AS GRANULOMAS, SOME OF WHICH HAVE RESULTED IN SERIOUS NEUROLOGIC IMPAIRMENT INCLUDING PARALYSIS, HAVE BEEN REPORTED TO OCCUR IN PATIENTS RECEIVING CONTINUOUS INFUSION OF OPIOID ANALGESICS INCLUDING INFUMORPH VIA INDWELLING INTRATHECAL CATHETER.
-PATIENTS RECEIVING CONTINUOUS INFUSION OF INFUMORPH VIA INDWELLING INTRATHECAL CATHETER SHOULD BE CAREFULLY MONITORED FOR NEW NEUROLOGIC SIGNS OR SYMPTOMS.
-FURTHER ASSESSMENT OR INTERVENTION SHOULD BE BASED ON THE CLINICAL CONDITION OF THE INDIVIDUAL PATIENT.
-
-## Tolerance and Myoclonic Activity
-
-PATIENTS SOMETIMES MANIFEST UNUSUAL ACCELERATION OF NEURAXIAL MORPHINE REQUIREMENTS, WHICH MAY CAUSE CONCERN REGARDING SYSTEMIC ABSORPTION AND THE HAZARDS OF LARGE DOSES; THESE PATIENTS MAY BENEFIT FROM HOSPITALIZATION AND DETOXIFICATION.
-TWO CASES OF MYOCLONIC-LIKE SPASM OF THE LOWER EXTREMITIES HAVE BEEN REPORTED IN PATIENTS RECEIVING MORE THAN 20 MG/DAY OF INTRATHECAL MORPHINE.
-AFTER DETOXIFICATION, IT MIGHT BE POSSIBLE TO RESUME TREATMENT AT LOWER DOSES, AND SOME PATIENTS HAVE BEEN SUCCESSFULLY CHANGED FROM CONTINUOUS EPIDURAL MORPHINE TO CONTINUOUS INTRATHECAL MORPHINE.
-REPEAT DETOXIFICATION MAY BE INDICATED AT A LATER DATE.
-THE UPPER DAILY DOSAGE LIMIT FOR EACH PATIENT DURING CONTINUING TREATMENT MUST BE INDIVIDUALIZED.
-
-# PRECAUTIONS
+## 5.1 Risks with Neuraxial Administration
 
 Control of pain by neuraxial opiate delivery, using a continuous microinfusion device, is always accompanied by considerable risk to the patients and requires a high level of skill to be successfully accomplished.
 The task of treating these patients must be undertaken by experienced clinical teams, well-versed in patient selection, evolving technology and emerging standards of care.
-For reasons of safety, it is recommended that administration of INFUMORPH 200 and 500 (10 and 25 mg/mL, respectively) by the intrathecal route be limited to the lumbar area.
 
-## Use in Patients with Increased Intracranial Pressure or Head Injury
+INFUMORPH should be administered by or under the direction of a physician experienced in the techniques of epidural or intrathecal administration and familiar with the patient management problems associated with epidural or intrathecal drug administration.
+The physician should be familiar with patient conditions (such as infection at the injection site, bleeding diathesis, anticoagulant therapy, etc.) which call for special evaluation of the benefit versus risk potential.
 
-INFUMORPH (Preservative-free Morphine Sulfate Sterile Solution) should be used with extreme caution in patients with head injury or increased intracranial pressure.
-Pupillary changes (miosis) from morphine may obscure the existence, extent and course of intracranial pathology.
-High doses of neuraxial morphine may produce myoclonic events (see WARNINGS and ADVERSE REACTIONS).
-Clinicians should maintain a high index of suspicion for adverse drug reactions when evaluating altered mental status or movement abnormalities in patients receiving this modality of treatment.
+Because of the risk of severe adverse effects when the epidural or intrathecal route of administration is employed, patients must be observed in a fully equipped and staffed environment for at least 24 hours after the initial dose.
 
-## Use in Chronic Pulmonary Disease
+The facility must be equipped to resuscitate patients with severe opioid overdosage, and the personnel must be familiar with the use and limitations of specific narcotic antagonists (naloxone, naltrexone) in such cases.
 
-Care is urged in using this drug in patients who have a decreased respiratory reserve (e.g., emphysema, severe obesity, kyphoscoliosis or paralysis of the phrenic nerve).
-INFUMORPH should not be given in cases of chronic asthma, upper airway obstruction or in any other chronic pulmonary disorder without due consideration of the known risk of acute respiratory failure following morphine administration in such patients.
+For safety reasons, it is recommended that administration of INFUMORPH 200 and 500 (10 and 25 mg/mL, respectively) by the intrathecal route be limited to the lumbar area.
 
-## Use in Hepatic or Renal Disease
+## 5.2 Life-Threatening Respiratory Depression
 
-The elimination half-life of morphine may be prolonged in patients with reduced metabolic rates and with hepatic and/or renal dysfunction.
-Hence, care should be exercised in administering INFUMORPH epidurally to patients with these conditions, since high blood morphine levels, due to reduced clearance, may take several days to develop.
+Serious, life-threatening, or fatal; respiratory depression has been reported with the use of opioids, even when used as recommended.
+Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
-## Use in Biliary Surgery or Disorders of the Biliary Tract
+While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of INFUMORPH, the risk is greatest during the initiation of therapy or following a dosage increase.
+This respiratory depression and/or respiratory arrest may be severe and could require intervention.
 
-As significant morphine is released into the systemic circulation from neuraxial administration, the ensuing smooth muscle hypertonicity may result in biliary colic.
+- Because of the risk of severe adverse effects, patients must be observed in a fully equipped and staffed environment for at least 24 hours after the initial (single) test dose and, as appropriate, for the first several days after catheter implantation.
+  The facility must be equipped to resuscitate patients with severe opioid overdosage, and the personnel must be familiar with the use and limitations of specific narcotic antagonists (naloxone, naltrexone) in such cases
+- Severe respiratory depression up to 24 hours following epidural or intrathecal administration has been reported.
+- Intrathecal use has been associated with a higher incidence of respiratory depression than epidural use.
+- Parenteral administration of narcotics in patients receiving epidural or intrathecal morphine may result in overdosage.
 
-## Use with Disorders of the Urinary System
+To reduce the risk of respiratory depression, proper dosing and titration of INFUMORPH are essential [see Dosage and Administration (2)].
+Overestimating the INFUMORPH dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
-Initiation of neuraxial opiate analgesia is frequently associated with disturbances of micturition, especially in males with prostatic enlargement.
-Early recognition of difficulty in urination and prompt intervention in cases of urinary retention is indicated.
+IMPROPER OR ERRONEOUS SUBSTITUTION OF INFUMORPH 200 or 500 (10 or 25 mg/mL, respectively) FOR REGULAR DURAMORPH (0.5 or 1 mg/mL) IS LIKELY TO RESULT IN SERIOUS OVERDOSAGE, LEADING TO SEIZURES, RESPIRATORY DEPRESSION, AND DEATH.
 
-## Use in Ambulatory Patients
+## 5.3 Addiction, Abuse, and Misuse
 
-Patients with reduced circulating blood volume, impaired myocardial function or on sympatholytic drugs should be monitored for the possible occurrence of orthostatic hypotension, a frequent complication in single-dose neuraxial morphine analgesia.
+INFUMORPH contains morphine, a Schedule II controlled substance.
+As an opioid, INFUMORPH exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
 
-## Use with Other Central Nervous System Depressants
+Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed
 
-The depressant effects of morphine are potentiated by the presence of other CNS depressants such as alcohol, sedatives, antihistaminics or psychotropic drugs.
+INFUMORPH.
+Addiction can occur at recommended dosages and if the drug is misused or abused.
+
+Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing INFUMORPH, and monitor all patients receiving INFUMORPH for the development of these behaviors and conditions.
+Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+The potential for these risks should not, however, prevent the proper management of pain in any given patient.
+Patients at increased risk may be prescribed opioids such as INFUMORPH, but use in such patients necessitates intensive counseling about the risks and proper use of INFUMORPH along with intensive monitoring for signs of addiction, abuse, and misuse.
+
+Opioids are sought by drug users and people with addiction disorders and are subject to criminal diversion.
+Consider these risks when prescribing or dispensing INFUMORPH.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity.
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+
+Each ampul of INFUMORPH contains a large amount of a potent narcotic which has been associated with abuse and dependence among health care providers.
+Due to the limited indications for this product, the risk of overdosage and the risk of its diversion and abuse, it is recommended that special measures must be taken to control this product within the hospital or clinic.INFUMORPH should be subject to rigid accounting, rigorous control of wastage, and restricted access.
+
+## 5.4 Neonatal Opioid Withdrawal Syndrome
+
+Prolonged use of INFUMORPH during pregnancy can result in withdrawal in the neonate.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
+
+## 5.5 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+
+Profound sedation, respiratory depression, coma, and death may result from concomitant use of INFUMORPH with benzodiazepines or other CNS depressants, (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
 Use of neuroleptics in conjunction with neuraxial morphine may increase the risk of respiratory depression.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
+Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
 
-Morphine is without known carcinogenic or mutagenic effects and is not known to impair fertility at non-narcotic doses in animals, but studies of the carcinogenic and mutagenic potential or the effect on fertility of INFUMORPH (Preservative-free Morphine Sulfate Sterile Solution) have not been conducted.
+If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
+If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
+Follow patients closely for signs and symptoms of respiratory depression and sedation.
 
-## Pregnancy
+Advise both patients and caregivers about the risks of respiratory depression and sedation when INFUMORPH is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
 
-### Teratogenic Effects - Pregnancy Category C.
+## 5.6 Risk of Inflammatory Masses
 
-Morphine sulfate is not teratogenic in rats at 35 mg/kg/day (thirty-five times the usual human dose) but does result in increased pup mortality and growth retardation at doses that narcotize the animal (>10 mg/kg/day, ten times the usual human dose).
-INFUMORPH (Preservative-free Morphine Sulfate Sterile Solution) should only be given to pregnant women when no other method of controlling pain is available and means are at hand to manage the delivery and perinatal care of the opiate‑dependent infant.
+Inflammatory masses such as granulomas, some of which have resulted in serious neurologic impairment including paralysis, have been reported to occur in patients receiving continuous infusion of opioid analgesics including INFUMORPH via indwelling intrathecal catheter.
+Patients receiving continuous infusion of INFUMORPH via indwelling intrathecal catheter should be carefully monitored for new neurologic signs or symptoms.
+Further assessment or intervention should be based on the clinical condition of the individual patient.
 
-## Labor and Delivery
+## 5.7 Risk of Tolerance and Myoclonic Activity
 
-INFUMORPH 200 and 500 (10 and 25 mg/mL, respectively) are too highly concentrated for routine use in obstetric neuraxial analgesia.
+Patients sometimes manifest unusual acceleration of neuraxial morphine requirements, which may cause concern regarding systemic absorption and the hazards of large doses; these patients may benefit from hospitalization and detoxification.
+Two cases of myoclonic-like spasm of the lower extremities have been reported in patients receiving more than 20 mg/day of intrathecal morphine.
+After detoxification, it might be possible to resume treatment at lower doses, and some patients have been successfully changed from continuous epidural morphine to continuous intrathecal morphine.
+Repeat detoxification may be indicated at a later date.
+The upper daily dosage limit for each patient during continuing treatment must be individualized.
 
-## Nursing Mothers
+## 5.8 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
-Morphine is excreted in maternal milk.
-Effects on the nursing infant are not known.
+The use of INFUMORPH in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-## Pediatric Use
+Patients with Chronic Pulmonary Disease: Patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended doses of INFUMORPH [see Warnings and Precautions (5.2)].
 
-Adequate studies, to establish the safety and effectiveness of spinal morphine in pediatric patients, have not been performed, and usage in this population is not recommended.
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
-## Geriatric Use
+Monitor such patients closely, particularly when initiating and titrating INFUMORPH and when INFUMORPH is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2)].
+Alternatively, consider the use of non-opioid analgesics in these patients.
 
-The pharmacodynamic effects of neuraxial morphine in the elderly are more variable than in the younger population.
-Patients will vary widely in the effective initial dose, rate of development of tolerance and the frequency and magnitude of associated adverse effects as the dose is increased.
-Initial doses should be based on careful clinical observation following “test doses”, after making due allowances for the effects of the patient’s age and infirmity on their ability to clear the drug, particularly in patients receiving epidural morphine.
+## 5.9 Interaction with Monoamine Oxidase Inhibitors
 
-Elderly patients may be more susceptible to respiratory depression and/or respiratory arrest following administration of morphine.
+Monoamine oxidase inhibitors (MAOIs) may potentiate the effects of morphine, including respiratory depression, coma, and confusion.
+Morphine Sulfate Injection should not be used in patients taking MAOIs or within 14 days of stopping such treatment [see Drug Interactions (7)].
+
+## 5.10 Adrenal Insufficiency
+
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
+If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
+Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
+Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
+The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
+
+## 5.11 Severe Hypotension
+
+INFUMORPH may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
+Monitor these patients for signs of hypotension after initiating or titrating the dosage of INFUMORPH.
+In patients with circulatory shock, INFUMORPH may cause vasodilation that can further reduce cardiac output and blood pressure.
+Avoid the use of INFUMORPH in patients with circulatory shock.
+
+## 5.12 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+
+In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), INFUMORPH may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with INFUMORPH.
+INFUMORPH should be used with extreme caution in patients with head injury or increased intracranial pressure.
+Pupillary changes (miosis) from morphine may obscure the existence, extent and course of intracranial pathology.
+High doses of neuraxial morphine may produce myoclonic events [see Warnings and Precautions (5.7)].
+Clinicians should maintain a high index of suspicion for adverse drug reactions when evaluating altered mental status or movement abnormalities in patients receiving this modality of treatment.
+
+Opioids may also obscure the clinical course in a patient with a head injury.
+Avoid the use of INFUMORPH in patients with impaired consciousness or coma.
+
+## 5.13 Risks of Use in Patients with Gastrointestinal Conditions
+
+INFUMORPH is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
+
+The morphine in INFUMORPH may cause spasm of the sphincter of Oddi.
+Opioids may cause increases in serum amylase.
+Monitor patients with biliary tract disease, including acute pancreatitis for worsening symptoms.
+As significant morphine is released into the systemic circulation from neuraxial administration, the ensuing smooth muscle hypertonicity may result in biliary colic.
+
+## 5.14 Increased Risks of Seizures in Patients with Seizure Disorders
+
+The morphine in INFUMORPH may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical setting associated with seizures.
+Monitor patients with a history of seizure disorders for worsened seizure control during INFUMORPH therapy.
+
+## 5.15 Withdrawal
+
+Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients, mixed agonist/antagonist and partial agonist analgesics, including INFUMORPH.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
+
+When discontinuing INFUMORPH, gradually taper the dosage [see Dosage and Administration (2.6)].
+Do not abruptly discontinue INFUMORPH [see Drug Abuse and Dependence (9.3)].
+
+## 5.16 Risk of Driving and Operating Machinery
+
+INFUMORPH may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
+Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of INFUMORPH and know how they will react to the medication [see Patient Counseling Information (17)].
+
+## 5.17 Risks of Use in Patients with Urinary System Disorders
+
+Urinary retention, which may persist 10 to 20 hours following single epidural or intrathecal administration, is a frequently associated with neuraxial opioid administration and must be anticipated, more frequently in male patients than female patients.
+Urinary retention may also occur during the first several days of hospitalization for the initiation of continuous intrathecal or epidural morphine therapy.
+Early recognition of difficulty in urination and prompt intervention in cases of urinary retention is indicated.
+Patients who develop urinary retention have responded to cholinomimetic treatment and/or judicious use of catheters.
+
+## 5.18 Risks of Use in Ambulatory Patients
+
+Patients with reduced circulating blood volume, impaired myocardial function or on sympatholytic drugs should be monitored for the possible occurrence of orthostatic hypotension, a frequent complication in single-dose neuraxial morphine analgesia.

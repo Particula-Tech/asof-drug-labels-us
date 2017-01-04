@@ -1,7 +1,9 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-INFUMORPH (Preservative-free Morphine Sulfate Sterile Solution) is indicated only for intrathecal or epidural infusion in the treatment of intractable chronic pain.
-It was developed for use in continuous microinfusion devices and may require dilution before use as dictated by the characteristics of the device and the dosage requirements of the individual patient.
+INFUMORPH is for use in continuous microinfusion devices and indicated only for intrathecal or epidural infusion in the management of intractable chronic pain severe enough to require an opioid analgesic and for which less invasive means of controlling pain are inadequate.
 
-| INFUMORPH IS NOT RECOMMENDED FOR SINGLE-DOSE INTRAVENOUS, INTRAMUSCULAR OR SUBCUTANEOUS ADMINISTRATION DUE TO THE VERY LARGE AMOUNT OF MORPHINE IN THE AMPUL AND THE ASSOCIATED RISK OF OVERDOSAGE. |
-| --- |
+Limitations of Use
+
+Not for single-dose intravenous, intramuscular, or subcutaneous administration due to the risk of overdose.
+
+Not for single-dose neuraxial injection because INFUMORPH is too concentrated for accurate delivery of the smaller doses used in this setting.

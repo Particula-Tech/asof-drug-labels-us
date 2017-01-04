@@ -1,49 +1,44 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-| IMPROPER OR ERRONEOUS SUBSTITUTION OF INFUMORPH 200 or 500 (10 or 25 mg/mL, respectively) FOR REGULAR DURAMORPH (0.5 or 1 mg/mL) IS LIKELY TO RESULT IN SERIOUS OVERDOSAGE, LEADING TO SEIZURES, RESPIRATORY DEPRESSION AND, POSSIBLY, FATAL OUTCOME. |
-| --- |
+The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-The most serious adverse experiences encountered during continuous intrathecal or epidural infusion of INFUMORPH are respiratory depression, myoclonus, and formation of inflammatory masses.
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.3)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- Interactions with CNS Benzodiazepines or Other Depressants [see Warnings and Precautions (5.5)]
+- Inflammatory Masses [see Warnings and Precautions (5.1)]
+- Myoclonic Activity [see Warnings and Precautions (5.7)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.10)]
+- Severe Hypotension [see Warnings and Precautions (5.11)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
+- Seizures [see Warnings and Precautions (5.14)]
+- Withdrawal [see Warnings and Precautions (5.15)]
+- Urinary Retention [see Warnings and Precautions (5.17)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.18)]
 
-1. Single-dose neuraxial administration may result in acute or delayed respiratory depression for periods at least as long as 24 hours.
-   Severe respiratory depression, potentially life-threatening, can result from technical errors during refill, e.g., injection of INFUMORPH outside the filling port, unintentional injection into the direct bypass-dosing port featured on some devices or local infiltration.
-2. Tolerance and myoclonus: See WARNINGS for discussion of these and related hazards.
-3. Inflammatory masses: See WARNINGS.
+The following adverse reactions associated with the use of morphine were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-While low doses of intravenously administered morphine have little effect on cardiovascular stability, high doses are excitatory, resulting from sympathetic hyperactivity and increase in circulating catecholamines.
+The most serious adverse reactions encountered during continuous intrathecal or epidural infusion of INFUMORPH were respiratory depression, myoclonus, and formation of inflammatory masses.
+
+Cardiovascular System: While low doses of intravenously administered morphine have little effect on cardiovascular stability, high doses are excitatory, resulting from sympathetic hyperactivity and increase in circulating catecholamines.
 Excitation of the central nervous system, resulting in convulsions, may accompany high doses of morphine given intravenously.
-Dysphoric reactions may occur after any size dose and toxic psychoses have been reported.
 
-## Pruritus:
+Central Nervous System: myoclonus, seizures, dysphoric reactions, toxic psychosis, dizziness, euphoria, anxiety, confusion, headache.
+Lumbar puncture-type headache is encountered in a significant minority of cases for several days following intrathecal catheter implantation and generally responds to bed rest and/or other conventional therapy.
 
-Single-dose epidural or intrathecal administration is accompanied by a high incidence of pruritus that is dose-related but not confined to the site of administration.
-Pruritus, following continuous infusion of epidural or intrathecal morphine, is occasionally reported in the literature; these reactions are poorly understood as to their cause.
+Gastrointestinal System: Nausea, vomiting, constipation
 
-## Urinary Retention:
+Skin: Pruritus, urticaria, wheals, and/or local tissue irritation.
 
-Urinary retention, which may persist 10 to 20 hours following single epidural or intrathecal administration, is a frequent side effect and must be anticipated primarily in male patients, with a somewhat lower incidence in females.
-Also frequently reported in the literature is the occurrence of urinary retention during the first several days of hospitalization for the initiation of continuous intrathecal or epidural morphine therapy.
-Patients who develop urinary retention have responded to cholinomimetic treatment and/or judicious use of catheters (see PRECAUTIONS).
+Genito-Urinary System: Urinary retention, oliguria, unexplained genital swelling in male patients, following infusion-device implant surgery.
 
-## Constipation:
+Other: Other adverse experiences reported following morphine therapy include depression of cough reflex, interference with thermal regulation, peripheral edema.
 
-Constipation is frequently encountered during continuous infusion of morphine; this can usually be managed by conventional therapy.
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 
-## Headache:
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Lumbar puncture-type headache is encountered in a significant minority of cases for several days following intrathecal catheter implantation; this, generally, responds to bed rest and/or other conventional therapy.
+Anaphylaxis:Anaphylaxis has been reported with ingredients contained in INFUMORPH.
 
-## Peripheral Edema:
-
-There are several reports of peripheral edema, including unexplained genital swelling in male patients, following infusion-device implant surgery.
-
-## Other:
-
-Other adverse experiences reported following morphine therapy include — Dizziness, euphoria, anxiety, depression of cough reflex, interference with thermal regulation and oliguria.
-Evidence of histamine release such as urticaria, wheals and/or local tissue irritation may occur.
-
-Pruritus, nausea/vomiting and urinary retention, if associated with continuous infusion therapy, may respond to intravenous administration of a low dose of naloxone (0.2 mg).
-The risks of using narcotic antagonists in patients chronically receiving narcotic therapy should be considered.
-
-| NALOXONE INJECTION AND RESUSCITATIVE EQUIPMENT SHOULD BE IMMEDIATELY AVAILABLE FOR USE IN CASE OF LIFE-THREATENING OR INTOLERABLE SIDE EFFECTS AND WHENEVER INFUMORPH THERAPY IS BEING INITIATED, THE RESERVOIR IS BEING REFILLED OR ANY MANIPULATION OF THE RESERVOIR SYSTEM IS TAKING PLACE. |
-| --- |
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
