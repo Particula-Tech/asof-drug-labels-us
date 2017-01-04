@@ -24,7 +24,7 @@ Minocycline hydrochloride capsules are not recommended for pregnant women or chi
 What should I tell my doctor before starting minocycline hydrochloride capsules?
 Tell your doctor about all of your medical conditions, including if you:
 
-- have liver or kidney problems
+- have liver or kidney problems.
 - are pregnant or planning to become pregnant.
   Minocycline hydrochloride capsules may harm your unborn baby.
   Stop taking minocycline hydrochloride capsules and call your doctor if you become pregnant while taking them.
@@ -37,13 +37,13 @@ Minocycline hydrochloride capsules and other medicines may interact.
 Especially tell your doctor if you take:
 
 - birth control pills.
-  Minocycline hydrochloride capsules may make your birth control pills less effective
+  Minocycline hydrochloride capsules may make your birth control pills less effective.
 - a blood thinner medicine.
   The dose of your blood thinner may have to be lowered.
 - a penicillin antibiotic medicine.
   Minocycline hydrochloride capsules and penicillins should not be used together.
-- Migraine medicines called ergot alkaloids
-- An acne medicine called isotretinoin (Accutane, Amnesteem, Claravis, Sotret)
+- Migraine medicines called ergot alkaloids.
+- An acne medicine called isotretinoin (Accutane, Amnesteem, Claravis, Sotret).
 - Antacids that contain aluminum, calcium, or magnesium, or iron-containing products.
 
 Know the medicines you take, keep a list of them to show your doctor and pharmacist each time you get a new medicine.
@@ -73,6 +73,7 @@ Stop minocycline hydrochloride capsules and call your doctor if you have:
 - rash
 - joint pain
 - feeling very tired
+- swollen lymph nodes
 
 Minocycline hydrochloride capsules may also cause:
 
@@ -106,8 +107,8 @@ For more information, you can also call Aurobindo Pharma USA, Inc. at 1-866-850-
 Monday through Friday from 9:00 a.m. to 3:00 p.m.
 Eastern Time.
 What are the ingredients in minocycline hydrochloride capsules?
-Active ingredient: minocycline hydrochloride USP, 50 mg, 75 mg, and 100 mg Inactive ingredients: Corn starch and magnesium stearate.
+Active ingredient: minocycline hydrochloride USP, 50 mg, 75 mg and 100 mg Inactive ingredients: Corn starch and magnesium stearate.
 The empty hard gelatin capsule shells contain titanium dioxide, sodium lauryl sulfate, and gelatin.
 In addition, the 50 mg capsule shells contain FD&C Red #3, D&C Red #33, and FD&C Yellow #6; the 75 mg capsule shells contain black iron oxide; and the 100 mg capsule shells contain FD&C Blue #1, D&C Red #28, FD&C Red #40, and red iron oxide.
 The capsules are printed with edible ink containing shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, black iron oxide, and potassium hydroxide.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 04/2015
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 01/2017

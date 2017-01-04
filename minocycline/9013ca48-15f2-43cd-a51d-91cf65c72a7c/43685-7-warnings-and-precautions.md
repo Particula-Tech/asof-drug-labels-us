@@ -28,7 +28,7 @@ If this syndrome is recognized, the drug should be discontinued immediately.
 
 Antianabolic Action
 
-The anti-anabolic action of the tetracyclines may cause an increase in BUN.
+The antianabolic action of the tetracyclines may cause an increase in BUN.
 While this is not a problem in those with normal renal function, in patients with significantly impaired function, higher serum levels of tetracycline may lead to azotemia, hyperphosphatemia, and acidosis.
 Under such conditions, monitoring of creatinine and BUN is recommended, and the total daily dosage should not exceed 200 mg in 24 hours.
 (See DOSAGE AND ADMINISTRATION.)
@@ -128,8 +128,7 @@ Segment I (fertility and general reproduction) studies have provided evidence th
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category D. (See WARNINGS.)
-All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
+Risk Summary All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
 There are no adequate and well-controlled studies on the use of minocycline in pregnant women.
 Minocycline, like other tetracycline-class antibiotics, crosses the placenta and may cause fetal harm when administered to a pregnant woman.
 Rare spontaneous reports of congenital anomalies including limb reduction have been reported in post-marketing experience.
