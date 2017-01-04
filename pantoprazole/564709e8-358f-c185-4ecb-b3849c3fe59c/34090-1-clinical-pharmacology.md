@@ -172,7 +172,7 @@ There was also no interaction with concomitantly administered antacids.
 
 There have been postmarketing reports of increased INR and prothrombin time in patients receiving proton pump inhibitors, including pantoprazole sodium, and warfarin concomitantly [see Drug Interactions (7.2)].
 
-Although no significant drug-drug interactions have been observed in clinical studies, the potential for significant drug-drug interactions with more than once-daily dosing with high doses of pantoprazole sodium has not been studied in poor metabolizers or individuals who are hepatically impaired.
+Although no significant drug-drug interactions have been observed in clinical studies, the potential for significant drug-drug interactions with more than once-daily dosing with high doses of pantoprazole has not been studied in poor metabolizers or individuals who are hepatically impaired.
 
 Other Effects
 

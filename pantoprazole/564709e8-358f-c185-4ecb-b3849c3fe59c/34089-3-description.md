@@ -15,4 +15,4 @@ At ambient temperature, the degradation half-life is approximately 2.8 hours at 
 Pantoprazole sodium USP is supplied as a delayed-release tablet for oral administration, available in 2 strengths.
 Each delayed-release tablet contains 45.1 mg or 22.6 mg of pantoprazole sodium sesquihydrate (equivalent to 40 mg or 20 mg pantoprazole, respectively) with the following inactive ingredients: ammonium hydroxide, calcium stearate, crospovidone, hydroxypropyl cellulose, hypromellose, iron oxide black, isopropyl alcohol, mannitol, methacrylic acid copolymer, methylated spirit, N-butyl alcohol, polyethylene glycol, propylene glycol, shellac, sodium carbonate anhydrous, synthetic yellow iron oxide, talc, titanium dioxide, triethyl citrate, zein.
 
-USP dissolution test is pending.
+Pantoprazole sodium delayed-release tablets meets USP dissolution test 2.
