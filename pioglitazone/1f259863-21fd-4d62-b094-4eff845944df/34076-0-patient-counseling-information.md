@@ -11,14 +11,7 @@ See FDA-Approved Patient Labeling (Medication Guide).
   Pioglitazone can be taken with or without meals.
   If a dose is missed on one day, the dose should not be doubled the following day.
 - When using combination therapy with insulin or other antidiabetic medications, the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development should be explained to patients and their family members.
-- Inform patients that therapy with pioglitazone, like other thiazolidinediones, may result in ovulation in some premenopausal anovulatory women.
-  As a result, these patients may be at an increased risk for pregnancy while taking pioglitazone.
-  Therefore, adequate contraception should be recommended for all premenopausal women who are prescribed pioglitazone.
+- Inform female patients that treatment with pioglitazone, like other thiazolidinediones, may result in an unintended pregnancy in some premenopausal anovulatory females due to its effect on ovulation [see Use in Specific Populations (8.3)].
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
-
-Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India
-
-Licensed – United States Patents Nos. 5,965,584, 6,166,043, 6,172,090, 6,211,205, 6,271,243, 6,329,404, and 6,303,640.
-
-Revised: 12/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Licensed – United States Patents Nos. 5,965,584, 6,166,043, 6,172,090, 6,211,205, 6,271,243, 6,329,404, and 6,303,640.
+Revised: 12/2016 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides

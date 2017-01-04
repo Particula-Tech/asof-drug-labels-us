@@ -2,7 +2,7 @@
 
 Pioglitazone Tablets, USP
 
-[Pioglitazone (PYE o GLIT a zone)]
+(pye”oh gli’ ta zone)
 
 Read this Medication Guide carefully before you start taking pioglitazone tablets and each time you get a refill.
 There may be new information.
@@ -42,7 +42,7 @@ Pioglitazone tablets are not for people with type 1 diabetes.
 Pioglitazone tablets are not for people with diabetic ketoacidosis (increased ketones in your blood or urine).
 
 Who should not take pioglitazone tablets?
-See“What is the most important information I should know about pioglitazone tablets?”
+See “What is the most important information I should know about pioglitazone tablets?”
 Do not take pioglitazone tablets if you:
 
 - have severe heart failure
@@ -59,7 +59,7 @@ Before you take pioglitazone tablets, tell your doctor if you:
 - have liver problems
 - have or have had cancer of the bladder
 - are pregnant or plan to become pregnant.
-  It is not known if pioglitazone tablets will harm your unborn baby.
+  It is not known if pioglitazone tablets can harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant about the best way to control your blood glucose levels while pregnant
 - are a premenopausal woman (before the “change of life”) who does not have periods regularly or at all.
   Pioglitazone tablets may increase your chance of becoming pregnant.
@@ -67,7 +67,6 @@ Before you take pioglitazone tablets, tell your doctor if you:
   Tell your doctor right away if you become pregnant while taking pioglitazone tablets
 - are breastfeeding or plan to breastfeed.
   It is not known if pioglitazone passes into your milk and if it can harm your baby.
-  You should not take pioglitazone tablets if you breastfeed your baby.
   Talk to your doctor about the best way to control your blood glucose levels while breastfeeding
 
 Tell your doctor about all the medicines you take including prescription and over the counter medicines, vitamins, and herbal supplements.
@@ -136,7 +135,7 @@ General information about the safe and effective use of pioglitazone tablets
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use pioglitazone tablets for a condition for which it was not prescribed.
 Do not give pioglitazone tablets to other people, even if they have the same symptoms you have.
-They may harm them.
+It may harm them.
 
 This Medication Guide summarizes the most important information about pioglitazone tablets.
 If you would like more information, talk with your doctor.
@@ -148,5 +147,8 @@ What are the ingredients in pioglitazone tablets?
 Active Ingredient: pioglitazone Inactive Ingredients: carboxymethylcellulose calcium, hydroxypropyl cellulose, lactose monohydrate, and magnesium stearate.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Licensed – United States Patents Nos. 5,965,584, 6,166,043, 6,172,090, 6,211,205, 6,271,243, 6,329,404, and 6,303,640.
-Revised: 12/2013
+
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Licensed – United States Patents Nos. 5,965,584, 6,166,043, 6,172,090, 6,211,205, 6,271,243, 6,329,404, and 6,303,640.
+Revised: 12/2016

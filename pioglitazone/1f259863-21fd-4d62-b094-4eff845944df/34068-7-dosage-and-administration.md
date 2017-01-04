@@ -13,8 +13,8 @@ Patients who have liver test abnormalities prior to initiation of pioglitazone t
 
 ## 2.2 Concomitant Use with an Insulin Secretagogue or Insulin
 
-If hypoglycemia occurs in a patient coadministered pioglitazone tablets and an insulin secretagogue (e.g., sulfonylurea), the dose of the insulin secretagogue should be reduced.
-If hypoglycemia occurs in a patient coadministered pioglitazone tablets and insulin, the dose of insulin should be decreased by 10% to 25%.
+If hypoglycemia occurs in a patient co-administered pioglitazone tablets and an insulin secretagogue (e.g., sulfonylurea), the dose of the insulin secretagogue should be reduced.
+If hypoglycemia occurs in a patient co-administered pioglitazone tablets and insulin, the dose of insulin should be decreased by 10% to 25%.
 Further adjustments to the insulin dose should be individualized based on glycemic response.
 
 ## 2.3 Concomitant Use with Strong CYP2C8 Inhibitors

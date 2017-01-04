@@ -20,7 +20,7 @@ In patients with type 2 diabetes, the decreased insulin resistance produced by p
 In controlled clinical trials, pioglitazone had an additive effect on glycemic control when used in combination with a sulfonylurea, metformin, or insulin [see Clinical Studies (14.2)].
 Patients with lipid abnormalities were included in clinical trials with pioglitazone.
 Overall, patients treated with pioglitazone had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.
-There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.9) and Adverse Reactions (6.1)].
+There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
 In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15 mg, 30 mg, and 45 mg pioglitazone dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone than in the placebo-treated patients.
 There were no consistent differences for LDL and total cholesterol in patients treated with pioglitazone compared to placebo (see Table 14).

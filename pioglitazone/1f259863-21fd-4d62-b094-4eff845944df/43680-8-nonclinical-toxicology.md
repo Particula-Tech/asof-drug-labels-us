@@ -17,6 +17,6 @@ No adverse effects upon fertility were observed in male and female rats at oral 
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Heart enlargement has been observed in mice (100 mg/kg), rats (4 mg/kg and above) and dogs (3 mg/kg) treated orally with pioglitazone hydrochloride(approximately 11, 1, and 2 times the maximum recommended human oral dose for mice, rats, and dogs, respectively, based on mg/m2).
+Heart enlargement has been observed in mice (100 mg/kg), rats (4 mg/kg and above) and dogs (3 mg/kg) treated orally with pioglitazone hydrochloride (approximately 11, 1, and 2 times the maximum recommended human oral dose for mice, rats, and dogs, respectively, based on mg/m2).
 In a one-year rat study, drug-related early death due to apparent heart dysfunction occurred at an oral dose of 160 mg/kg/day (approximately 35 times the maximum recommended human oral dose based on mg/m2).
 Heart enlargement was seen in a 13-week study in monkeys at oral doses of 8.9 mg/kg and above (approximately four times the maximum recommended human oral dose based on mg/m2), but not in a 52-week study at oral doses up to 32 mg/kg (approximately 13 times the maximum recommended human oral dose based on mg/m2).

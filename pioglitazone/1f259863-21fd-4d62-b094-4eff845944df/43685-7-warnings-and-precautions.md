@@ -28,12 +28,23 @@ For patients with lesser elevations of serum ALT or bilirubin and with an altern
 ## 5.4 Urinary Bladder Tumors
 
 Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
-In two 3-year trials in which pioglitazone was compared to placebo or glyburide, there were 16/3656 (0.44%) reports of bladder cancer in patients taking pioglitazone compared to 5/3679 (0.14%) in patients not taking pioglitazone.
-After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.16%) cases on pioglitazone and two (0.05%) cases on placebo.
-A five-year interim report of an ongoing 10-year observational cohort study found a non­significant increase in the risk for bladder cancer in subjects ever exposed to pioglitazone, compared to subjects never exposed to pioglitazone (HR 1.2 [95% CI 0.9 to 1.5]).
-Compared to never exposure, a duration of pioglitazone therapy longer than 12 months was associated with an increase in risk (HR 1.4 [95% CI 0.9 to 2.1]), which reached statistical significance after more than 24 months of pioglitazone use (HR 1.4 [95% CI 1.03 to 2]).
-Interim results from this study suggested that taking pioglitazone longer than 12 months increased the relative risk of developing bladder cancer in any given year by 40% which equates to an absolute increase of three cases in 10,000 (from approximately seven in 10,000 [without pioglitazone] to approximately 10 in 10,000 [with pioglitazone]).
+In addition, during the three year PROactive clinical trial, 14 patients out of 2605 (0.54%) randomized to pioglitazone and 5 out of 2633 (0.19%) randomized to placebo were diagnosed with bladder cancer.
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 6 (0.23%) cases on pioglitazone and two (0.08%) cases on placebo.
+After completion of the trial, a large subset of patients was observed for up to 10 additional years, with little additional exposure to pioglitazone.
+During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to pioglitazone or placebo (HR =1; [95% CI: 0.59 to 1.72]).
+
+Findings regarding the risk of bladder cancer in patients exposed to pioglitazone vary among observational studies; some did not find an increased risk of bladder cancer associated with pioglitazone, while others did.
+
+A large prospective10-year observational cohort study conducted in the United States found no statistically significant increase in the risk of bladder cancer in diabetic patients ever exposed to pioglitazone, compared to those never exposed to pioglitazone (HR =1.06 [95% CI 0.89 to 1.26]).
+
+A retrospective cohort study conducted with data from the United Kingdom found a statistically significant association between ever exposure to pioglitazone and bladder cancer (HR: 1.63; [95% CI: 1.22 to 2.19]).
+
+Associations between cumulative dose or cumulative duration of exposure to pioglitazone and bladder cancer were not detected in some studies including the 10-year observational study in the U.S., but were in others.
+Inconsistent findings and limitations inherent in these and other studies preclude conclusive interpretations of the observational data.
+
+Pioglitazone may be associated with an increase in the risk of urinary bladder tumors.
 There are insufficient data to determine whether pioglitazone is a tumor promoter for urinary bladder tumors.
+
 Consequently, pioglitazone should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with pioglitazone should be considered in patients with a prior history of bladder cancer.
 
 ## 5.5 Edema
@@ -46,11 +57,11 @@ Patients treated with pioglitazone should be monitored for signs and symptoms of
 
 ## 5.6 Fractures
 
-In PROactive (the Prospective Pioglitazone Clinical Trial in Macrovascular Events), 5238 patients with type 2 diabetes and a history of macrovascular disease were randomized to pioglitazone(N=2605), force-titrated up to 45 mg daily or placebo (N=2633) in addition to standard of care.
+In PROactive (the Prospective Pioglitazone Clinical Trial in Macrovascular Events), 5238 patients with type 2 diabetes and a history of macrovascular disease were randomized to pioglitazone (N=2605), force-titrated up to 45 mg daily or placebo (N=2633) in addition to standard of care.
 During a mean follow-up of 34.5 months, the incidence of bone fracture in females was 5.1% (44/870) for pioglitazone versus 2.5% (23/905) for placebo.
 This difference was noted after the first year of treatment and persisted during the course of the study.
 The majority of fractures observed in female patients were nonvertebral fractures including lower limb and distal upper limb.
-No increase in the incidence of fracture was observed in men treated with pioglitazone(1.7%) versus placebo (2.1%).
+No increase in the incidence of fracture was observed in men treated with pioglitazone (1.7%) versus placebo (2.1%).
 The risk of fracture should be considered in the care of patients, especially female patients, treated with pioglitazone and attention should be given to assessing and maintaining bone health according to current standards of care.
 
 ## 5.7 Macular Edema
@@ -62,13 +73,6 @@ Some patients had improvement in their macular edema after discontinuation of th
 Patients with diabetes should have regular eye exams by an ophthalmologist according to current standards of care.
 Patients with diabetes who report any visual symptoms should be promptly referred to an ophthalmologist, regardless of the patient's underlying medications or other physical findings [see Adverse Reactions (6.1)].
 
-## 5.8 Ovulation
-
-Therapy with pioglitazone, like other thiazolidinediones, may result in ovulation in some premenopausal anovulatory women.
-As a result, these patients may be at an increased risk for pregnancy while taking pioglitazone [see Use in Specific Populations (8.1)].
-This effect has not been investigated in clinical trials, so the frequency of this occurrence is not known.
-Adequate contraception in all premenopausal women treated with pioglitazone is recommended.
-
-## 5.9 Macrovascular Outcomes
+## 5.8 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with pioglitazone or any other antidiabetic drug.
