@@ -2,7 +2,7 @@
 
 Epinephrine should be administered cautiously to patients taking other sympathomimetic agents because of the possibility of additive effects.
 
-Patients who are concomitantly receiving cardiac glycosides, digitalis, diuretics, quinidine, and other antiarrhythmics should be observed carefully for the development of cardiac arrhythmias [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
+Patients who are concomitantly receiving cardiac glycosides, digitalis, diuretics, quinidine, and other antiarrhythmics should be observed carefully for the development of cardiac arrhythmias [see Warnings and Precautions (5.3) and Adverse Reactions (6)].
 
 Administer epinephrine cautiously to patients receiving halogenated hydrocarbon general anesthetics, such as halothane, as coadministration may result in arrhythmias.
 

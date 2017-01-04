@@ -1,7 +1,5 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Anaphylaxis (Adrenalin® 1 mL single-use and 30 mL multiple-dose vials)
-
 Inject Adrenalin® intramuscularly or subcutaneously into the anterolateral aspect of the thigh, through clothing if necessary.
 When administering to a child, to minimize the risk of injection related injury, hold the leg firmly in place and limit movement prior to and during an injection.
 The injection may be repeated every 5 to 10 minutes as necessary.
@@ -17,17 +15,3 @@ Monitor clinically for reaction severity and cardiac effects.
 
 Children less than 30 kg (66 lbs): 0.01 mg/kg (0.01 mL/kg) of undiluted Adrenalin® administered intramuscularly or subcutaneously in the anterolateral aspect of the thigh, up to a maximum of 0.3 mg (0.3 mL) per injection, repeated every 5 to 10 minutes as necessary.
 Monitor clinically for reaction severity and cardiac effects.
-
-## 2.2 Induction and Maintenance of Mydriasis during Intraocular Surgery (Adrenalin® 1 mL single-use vial only)
-
-Adrenalin® must be diluted prior to intraocular use.
-Dilute 1 mL of Adrenalin® 1 mg/mL (1:1000) in 100 to 1000 mL of an ophthalmic irrigation fluid to create an epinephrine concentration of 1:100,000 to 1:1,000,000 (10 mcg/mL to 1 mcg/mL).
-Use the irrigating solution as needed for the surgical procedure.
-
-After dilution in an ophthalmic irrigating fluid, Adrenalin® may also be injected intracamerally as a bolus dose of 0.1 mL at a dilution of 1:100,000 to 1:400,000 (10 mcg/mL to 2.5 mcg/mL).
-
-Inspect visually for particulate matter and discoloration prior to administration.
-Do not use if the solution is colored or cloudy, or if it contains particulate matter.
-
-Note: The Adrenalin® 30 mL multiple-dose vial is not for ophthalmic use.
-USE ONLY THE ADRENALIN 1 ML SINGLE-USE VIAL FOR OPHTHALMIC USE.

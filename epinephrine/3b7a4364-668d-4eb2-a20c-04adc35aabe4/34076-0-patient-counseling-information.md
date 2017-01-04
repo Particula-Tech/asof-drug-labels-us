@@ -8,5 +8,4 @@ Warn patients with a good response to initial treatment about the possibility of
 Warn patients with diabetes that they may develop increased blood glucose levels following epinephrine administration.
 
 Rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported at the injection site following epinephrine injection for anaphylaxis.
-Advise patients to seek medical care if they develop signs or symptoms of infection, such as persistent redness, warmth, swelling, or tenderness, at the epinephrine injection site.
-[see Warnings and Precautions (5.4)]
+Advise patients to seek medical care if they develop signs or symptoms of infection, such as persistent redness, warmth, swelling, or tenderness, at the epinephrine injection site [see Warnings and Precautions (5.2)].
