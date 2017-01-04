@@ -1,17 +1,19 @@
-# BOX WARNING
+# WARNING: RISK OF MEDICATION ERRORS; ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; NEONATAL OPIOID WITHDRAWAL SYNDROME; and RISK FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
-WARNING: RISK OF RESPIRATORY DEPRESSION, ABUSE, AND MEDICATION ERRORS
+Risk of Medication Errors: DILAUDID-HP INJECTION is a more concentrated solution of hydromorphone than DILAUDID INJECTION, and is for use in opioid-tolerant patients only.
+Do not confuse DILAUDID-HP INJECTION with standard parenteral formulations of DILAUDID INJECTION or other opioids, as overdose and death could result [see Warnings and Precautions (5.1)].
 
-DILAUDID-HP INJECTION IS FOR USE IN OPIOID-TOLERANT PATIENTS ONLY
+Addiction, Abuse, and Misuse DILAUDID INJECTION and DILAUDID-HP INJECTION exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
+Assess each patient’s risk prior to prescribing DILAUDID INJECTION and DILAUDID-HP INJECTION and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.2)].
 
-Patients considered opioid tolerant are those who are taking at least 60 mg oral morphine/day, 25 mcg transdermal fentanyl/hour, 30 mg oral oxycodone/day, 8 mg oral hydromorphone/day, 25 mg oral oxymorphone/day, or an equianalgesic dose of another opioid for one week or longer.
+Life-Threatening Respiratory Depression Serious, life-threatening, or fatal respiratory depression may occur with use of DILAUDID INJECTION or DILAUDID-HP INJECTION.
+Monitor for respiratory depression, especially during initiation of DILAUDID INJECTION or DILAUDID-HP INJECTION or following a dose increase [see Warnings and Precautions (5.3)]
 
-DILAUDID-HP INJECTION is a more concentrated solution of hydromorphone than DILAUDID INJECTION, and is for use in opioid-tolerant patients only.
-Do not confuse DILAUDID-HP INJECTION with standard parenteral formulations of DILAUDID INJECTION or other opioids, as overdose and death could result.
+Neonatal Opioid Withdrawal Syndrome Prolonged use of DILAUDID INJECTION or DILAUDID-HP INJECTION during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Warnings and Precautions (5.4)].
 
-DILAUDID INJECTION and DILAUDID-HP INJECTION contain hydromorphone, an opioid agonist and a Schedule II controlled substance with an abuse liability similar to other opioid analgesics.
-DILAUDID INJECTION and DILAUDID-HP INJECTION can be abused in a manner similar to other opioid agonists, legal or illicit.
-These risks should be considered when administering, prescribing, or dispensing DILAUDID INJECTION and DILAUDID-HP INJECTION in situations where the healthcare professional is concerned about increased risk of misuse, abuse, or diversion.
+Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
-Schedule II opioid agonists, including morphine, oxymorphone, hydromorphone, oxycodone, fentanyl and methadone, have the highest potential for abuse and risk of producing fatal overdose due to respiratory depression.
-Ethanol, other opioids, and other central nervous system depressants (e.g., sedative-hypnotics, skeletal muscle relaxants) can potentiate the respiratory-depressant effects of hydromorphone and increase the risk of adverse outcomes, including death.
+- Reserve concomitant prescribing of DILAUDID or DILAUDID-HP Injection and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
+- Limit dosages and durations to the minimum required.
+- Follow patients for signs and symptoms of respiratory depression and sedation.

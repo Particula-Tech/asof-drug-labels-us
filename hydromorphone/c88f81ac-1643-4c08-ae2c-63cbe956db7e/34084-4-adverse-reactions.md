@@ -1,16 +1,20 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+The following serious adverse reactions are described, or described in greater detail, in other sections:
+
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.2)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.5)
+- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
+- Severe Hypotension [see Warnings and Precautions (5.8)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10)]
+- Seizures [see Warnings and Precautions (5.11)] Withdrawal [see Warnings and Precautions (5.12)]
+
+The following adverse reactions associated with the use of hydromorphone were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Serious adverse reactions associated with DILAUDID INJECTION and DILAUDID-HP INJECTION include respiratory depression and apnea and, to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
-
-The following serious adverse reactions described elsewhere in the labeling include:
-
-- -Respiratory depression and secondary effects on intracranial pressure [see WARNINGS AND PRECAUTIONS (5.2, 5.6)]
-- -Hypotension [see WARNINGS AND PRECAUTIONS (5.7)]
-- -Gastrointestinal effects and effects in sphincter of Oddi [see WARNINGS AND PRECAUTIONS (5.9)]
-- -Drug abuse, addiction, and dependence [see DRUG ABUSE AND DEPENDENCE (9.2, 9.3)]
-- -Effects on the ability to drive and operate machinery [see WARNINGS AND PRECAUTIONS (5.12)]
 
 The most common adverse effects are lightheadedness, dizziness, sedation, nausea, vomiting, sweating, flushing, dysphoria, euphoria, dry mouth, and pruritus.
 These effects seem to be more prominent in ambulatory patients and in those not experiencing severe pain.
@@ -23,27 +27,36 @@ Eye disorders: vision blurred, diplopia, miosis, visual impairment
 
 Gastrointestinal disorders: constipation, ileus, diarrhea, abdominal pain
 
-General disorders and administration site conditions: weakness, feeling abnormal, chills, injection site urticaria
+General disorders and administration site conditions: weakness, feeling abnormal, chills, injection site urticaria, fatigue, injection site reactions, peripheral edema
 
 Hepatobiliary disorders: biliary colic
+
+Immune system disorders: anaphylactic reactions, hypersensitivity reactions
+
+Investigations: hepatic enzymes increased
 
 Metabolism and nutrition disorders: decreased appetite
 
 Musculoskeletal and connective tissue disorders: muscle rigidity
 
-Nervous system disorders: headache, tremor, paraesthesia, nystagmus, increased intracranial pressure, syncope, taste alteration, involuntary muscle contractions, presyncope
+Nervous system disorders: headache, tremor, paraesthesia, nystagmus, increased intracranial pressure, syncope, taste alteration, involuntary muscle contractions, presyncope, convulsion, drowsiness, dyskinesia, hyperalgesia, lethargy, myoclonus, somnolence
 
-Psychiatric disorders: agitation, mood altered, nervousness, anxiety, depression, hallucination, disorientation, insomnia, abnormal dreams
+Psychiatric disorders: agitation, mood altered, nervousness, anxiety, depression, hallucination, disorientation, insomnia, abnormal dreams, abnormal dreams
 
 Renal and urinary disorders: urinary retention, urinary hesitation, antidiuretic effects
 
-Respiratory, thoracic, and mediastinal disorders: bronchospasm, laryngospasm
+Reproductive system and breast disorders: erectile dysfunction
+
+Respiratory, thoracic, and mediastinal disorders: bronchospasm, laryngospasm, dyspnea, oropharyngeal swelling
 
 Skin and subcutaneous tissue disorders: injection site pain, urticaria, rash, hyperhidrosis
 
 Vascular disorders: flushing, hypotension, hypertension
 
-Postmarketing Experience
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 
-The following adverse reactions have been identified during post-approval use of hydromorphone.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: anaphylactic reactions, confusional state, convulsions, drowsiness, dyskinesia, dyspnea, erectile dysfunction, fatigue, hepatic enzymes increased, hyperalgesia, hypersensitivity reaction, injection site reactions, lethargy, myoclonus, oropharyngeal swelling, peripheral edema, and somnolence.
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis:Anaphylaxis has been reported with ingredients contained in DILAUDID INJECTION and DILAUDID-HP INJECTION.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

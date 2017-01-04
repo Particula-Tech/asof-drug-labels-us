@@ -2,106 +2,138 @@
 
 ## 5.1 Risk of Medication Errors
 
-DILAUDID-HP INJECTION is a 10 mg/mL concentrated solution of hydromorphone, and is intended for use in opioid-tolerant patients only.
+DILAUDID-HP INJECTIONis a 10 mg/mL concentrated solution of hydromorphone, and is intended for use in opioid-tolerant patients only.
 Patients considered opioid tolerant are those who are taking at least 60 mg oral morphine/day, 25 mcg transdermal fentanyl/hour, 30 mg oral oxycodone/day, 8 mg oral hydromorphone/day, 25 mg oral oxymorphone/day, or an equianalgesic dose of another opioid for one week or longer.
 
 Do not confuse DILAUDID-HP INJECTION with standard parenteral formulations of DILAUDID INJECTION (1 mg/mL, 2 mg/mL, 4 mg/mL) or other opioids, as overdose and death could result.
 
-Morphine does not convert to hydromorphone on a mg per mg basis.
-Use Table 1 when converting a patient from morphine to hydromorphone to avoid errors that can lead to overdose or death.
+## 5.2 Addiction, Abuse, and Misuse
 
-## 5.2 Respiratory Depression
+DILAUDID INJECTION and DILAUDID-HP INJECTION contain hydromorphone, a Schedule II controlled substance.
+As an opioid, DILAUDID INJECTION and DILAUDID-HP INJECTION exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
 
-Respiratory depression is the chief hazard of DILAUDID INJECTION and DILAUDID-HP INJECTION.
-Respiratory depression occurs most frequently in the elderly, in the debilitated, and in those suffering from conditions accompanied by hypoxia or hypercapnia, or upper airway obstruction, in whom even moderate therapeutic doses may dangerously decrease pulmonary ventilation.
-Respiratory depression is also a particular problem following large initial doses in non opioid-tolerant patients or when opioids are given in conjunction with other agents that depress respiration.
+Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed DILAUDID INJECTION or DILAUDID-HP INJECTION.
+Addiction can occur at recommended dosages and if the drug is misused or abused.
 
-Use DILAUDID INJECTION and DILAUDID-HP INJECTION with extreme caution in patients with chronic obstructive pulmonary disease or cor pulmonale, patients having a substantially decreased respiratory reserve, hypoxia, hypercapnia, or preexisting respiratory depression.
-In such patients, even usual therapeutic doses of opioid analgesics may decrease respiratory drive while simultaneously increasing airway resistance to the point of apnea.
-Consider using non-opioid analgesics, and administer DILAUDID only under careful medical supervision at the lowest effective dose in such patients.
+Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing DILAUDID INJECTION or DILAUDID-HP INJECTION, and monitor all patients receiving DILAUDID INJECTION or DILAUDID-HP INJECTION for the development of these behaviors and conditions.
+Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+The potential for these risks should not, however, prevent the proper management of pain in any given patient.
+Patients at increased risk may be prescribed opioids such as DILAUDID INJECTION or DILAUDID-HP INJECTION, but use in such patients necessitates intensive counseling about the risks and proper use of DILAUDID INJECTION or DILAUDID-HP INJECTION along with intensive monitoring for signs of addiction, abuse, and misuse.
 
-## 5.3 Misuse, Abuse and Diversion of Opioids
+Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
+Consider these risks when prescribing or dispensing DILAUDID INJECTION or DILAUDID-HP INJECTION.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity.
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-DILAUDID INJECTION and DILAUDID-HP INJECTION contain hydromorphone, an opioid agonist with an abuse liability similar to morphine, and a Schedule II, controlled substance.
-Hydromorphone has the potential for being abused, is sought by drug abusers and people with addiction disorders, and is subject to criminal diversion.
-Diversion of Schedule II products is an act subject to criminal penalty.
+## 5.3 Life-Threatening Respiratory Depression
 
-Abuse of DILAUDID INJECTION and DILAUDID-HP INJECTION, poses a hazard of overdose and death.
-This risk is increased with concurrent abuse of alcohol or other substances.
-Schedule II opioid agonists have the highest potential for abuse and risk of fatal respiratory depression.
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
+Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
-DILAUDID INJECTION and DILAUDID-HP INJECTION can be abused in a manner similar to other opioid agonists, legal or illicit.
-This should be considered when prescribing or dispensing DILAUDID INJECTION and DILAUDID-HP INJECTION in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse or diversion.
+While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of DILAUDID INJECTION or DILAUDID-HP INJECTION, the risk is greatest during the initiation of therapy or following a dosage increase.
+Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy with and following dosage increases of DILAUDID INJECTION or DILAUDID-HP INJECTION.
 
-Concerns about abuse, addiction, and diversion should not prevent the proper management of pain.
-Healthcare professionals should contact their State Professional Licensing Board or State Controlled Substances Authority for information on how to prevent and detect abuse or diversion of this product.
+To reduce the risk of respiratory depression, proper dosing and titration of DILAUDID INJECTION or DILAUDID-HP INJECTION are essential [see Dosage and Administration (2)].
+Overestimating the DILAUDID INJECTION or DILAUDID-HP INJECTION dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
-## 5.4 Interactions with Alcohol and other CNS Depressants
+DILAUDID-HP INJECTION is for use in opioid-tolerant patients only.
+Administration of this formulation may cause fatal respiratory depression when administered to patients who are not tolerant to the respiratory depressant effects of opioids.
 
-The concurrent use of DILAUDID INJECTION or DILAUDID-HP INJECTION with other central nervous system (CNS) depressants, including, but not limited to, other opioids, illicit drugs, sedatives, hypnotics, general anesthetics, phenothiazines, muscle relaxants, other tranquilizers, and alcohol, increases the risk of respiratory depression, hypotension, and profound sedation, potentially resulting in coma or death.
-Use with caution and in reduced dosages in patients taking CNS depressants.
+## 5.4 Neonatal Opioid Withdrawal Syndrome
 
-## 5.5 Neonatal Withdrawal Syndrome
+Prolonged use of DILAUDID INJECTION or DILAUDID-HP INJECTION during pregnancy can result in withdrawal in the neonate.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
-Infants born to mothers physically dependent on DILAUDID INJECTION or DILAUDID-HP INJECTION will also be physically dependent and may exhibit signs of withdrawal.
-The withdrawal signs include irritability and excessive crying, tremors, hyperactive reflexes, increased respiratory rate, increased stools, sneezing, yawning, vomiting, and fever.
-The intensity of the syndrome does not always correlate with the duration of maternal opioid use or dose.
-Neonatal opioid withdrawal syndrome may be life-threatening and should be treated according to protocols developed by neonatology experts [see DRUG ABUSE AND DEPENDENCE (9.3)].
+## 5.5 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-## 5.6 Use in Increased Intracranial Pressure or Head Injury
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of DILAUDID or DILAUDID-HP Injection with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
+Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
 
-The respiratory depressant effects of DILAUDID INJECTION and DILAUDID-HP INJECTION promote carbon dioxide retention which results in elevation of cerebrospinal fluid pressure.
-This increase in intracranial pressure may be markedly exaggerated in the presence of head injury, intracranial lesions, or other conditions that predispose patients to increased intracranial pressure.
+If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
+If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
+Follow patients closely for signs and symptoms of respiratory depression and sedation.
 
-DILAUDID INJECTION and DILAUDID-HP INJECTION may produce effects on pupillary response and consciousness which can obscure the clinical course and neurologic signs of further increase in pressure in patients with head injuries.
+Advise both patients and caregivers about the risks of respiratory depression and sedation when DILAUDID or DILAUDID-HP Injection is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7) and Patient Counseling Information (17)].
 
-## 5.7 Hypotensive Effect
+## 5.6 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
-DILAUDID INJECTION and DILAUDID-HP INJECTION may cause severe hypotension in patients whose ability to maintain blood pressure is compromised by a depleted blood volume, or a concurrent administration of drugs such as phenothiazines, general anesthetics, or other agents which compromise vasomotor tone [see DRUG INTERACTIONS (7.1)].
+The use of DILAUDID INJECTION or DILAUDID-HP INJECTION in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-DILAUDID INJECTION and DILAUDID-HP INJECTION may produce orthostatic hypotension in ambulatory patients.
+Patients with Chronic Pulmonary Disease: DILAUDID INJECTION or DILAUDID-HP INJECTION treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of DILAUDID INJECTION or DILAUDID-HP INJECTION [see Warnings and Precautions (5.3)].
 
-Administer DILAUDID INJECTION and DILAUDID-HP INJECTION with caution to patients in circulatory shock, since vasodilation produced by the drug may further reduce cardiac output and blood pressure.
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
 
-## 5.8 Sulfites
+Monitor such patients closely, particularly when initiating and titrating DILAUDID INJECTION or DILAUDID-HP INJECTION and when DILAUDID INJECTION or DILAUDID-HP INJECTION are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.3)].
+Alternatively, consider the use of non-opioid analgesics in these patients.
+
+## 5.7 Adrenal Insufficiency
+
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
+If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
+Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
+Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
+The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
+
+## 5.8 Severe Hypotension
+
+DILAUDID INJECTION and DILAUDID-HP INJECTION may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
+Monitor these patients for signs of hypotension after initiating or titrating the dosage of DILAUDID INJECTION or DILAUDID-HP INJECTION.
+In patients with circulatory shock, DILAUDID INJECTION or DILAUDID-HP INJECTION may cause vasodilation that can further reduce cardiac output and blood pressure.
+Avoid the use of DILAUDID INJECTION or DILAUDID-HP INJECTION in patients with circulatory shock.
+
+## 5.9 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+
+In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), DILAUDID INJECTION or DILAUDID-HP INJECTION may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with DILAUDID INJECTION or DILAUDID-HP INJECTION.
+
+Opioids may also obscure the clinical course in a patient with a head injury.
+Avoid the use of DILAUDID INJECTION or DILAUDID-HP INJECTION in patients with impaired consciousness or coma.
+
+## 5.10 Risks of Use in Patients with Gastrointestinal Conditions
+
+DILAUDID INJECTION and DILAUDID-HP INJECTION are contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
+
+The hydromorphone in DILAUDID INJECTION and DILAUDID-HP INJECTION may cause spasm of the sphincter of Oddi.
+Opioids may cause increases in serum amylase.
+Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+## 5.11 Increased Risk of Seizures in Patients with Seizure Disorders
+
+The hydromorphone in DILAUDID INJECTION and DILAUDID-HP INJECTION may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
+Monitor patients with a history of seizure disorders for worsened seizure control during DILAUDID INJECTION or DILAUDID-HP INJECTION therapy.
+
+## 5.12 Withdrawal
+
+Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including DILAUDID INJECTION and DILAUDID-HP INJECTION.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
+
+When discontinuing DILAUDID INJECTION or DILAUDID-HP INJECTION, in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.6)].
+Do not abruptly discontinue DILAUDID INJECTION or DILAUDID-HP INJECTION in these patients [see Drug Abuse and Dependence (9.3)].
+
+## 5.13 Risks of Driving and Operating Machinery
+
+DILAUDID INJECTION and DILAUDID-HP INJECTIONmay impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
+Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of DILAUDID INJECTION or DILAUDID-HP INJECTION and know how they will react to the medication [see Patient Counseling Information (17)].
+
+## 5.14 Sulfites
 
 DILAUDID INJECTION and DILAUDID-HP INJECTION contain sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
 
-## 5.9 Use in Pancreatic/Biliary Tract Disease and Other Gastrointestinal Conditions
+## 5.15 Increased Risk of Hypotension and Respiratory Depression with Rapid Intravenous Administration
 
-The administration of DILAUDID INJECTION or DILAUDID-HP INJECTION may obscure the diagnosis or clinical course in patients with acute abdominal conditions [see CONTRAINDICATIONS (4.0)].
-
-Use DILAUDID INJECTION and DILAUDID-HP with caution in patients who are at risk of developing ileus.
-
-Use DILAUDID INJECTION and DILAUDID-HP INJECTION with caution in patients with biliary tract disease, including acute pancreatitis, as hydromorphone may cause spasm of the sphincter of Oddi and diminish biliary and pancreatic secretions.
-
-## 5.10 Special Risk Patients
-
-Give DILAUDID INJECTION and DILAUDID-HP INJECTION with caution and the initial dose should be reduced in the elderly or debilitated and those with severe impairment of hepatic, pulmonary, or renal function; myxedema or hypothyroidism; adrenocortical insufficiency (e.g., Addison's Disease); CNS depression or coma; toxic psychoses; prostatic hypertrophy or urethral stricture; acute alcoholism; delirium tremens; or kyphoscoliosis associated with respiratory depression.
-
-The administration of opioid analgesics including DILAUDID INJECTION and DILAUDID-HP INJECTION may aggravate preexisting convulsions in patients with convulsive disorders.
-
-DILAUDID INJECTION and DILAUDID-HP INJECTION, as with other opioids, may aggravate convulsions in patients with convulsive disorders, and may induce or aggravate seizures in some clinical settings.
-
-Reports of mild to severe seizures and myoclonus have been reported in severely compromised patients administered high doses of parenteral hydromorphone.
-
-## 5.11 Use in Drug and Alcohol Dependent Patients
-
-Use DILAUDID INJECTION and DILAUDID-HP INJECTION with caution in patients with alcoholism and other drug dependencies due to the increased frequency of opioid tolerance, dependence, and the risk of addiction observed in these patient populations.
-Abuse of DILAUDID INJECTION or DILAUDID-HP INJECTION in combination with other CNS depressant drugs can result in serious risk to the patient.
-
-DILAUDID INJECTION and DILAUDID-HP INJECTION contain hydromorphone, an opioid with no approved use in the management of addiction disorders.
-Its proper usage in individuals with drug or alcohol dependence, either active or in remission, is for the management of pain requiring opioid analgesia.
-
-## 5.12 Use in Ambulatory Patients
-
-DILAUDID INJECTION and DILAUDID-HP INJECTION may impair mental and/or physical ability required for the performance of potentially hazardous tasks (e.g., driving, operating machinery).
-Patients should be cautioned accordingly.
-DILAUDID INJECTION and DILAUDID-HP INJECTION may produce orthostatic hypotension in ambulatory patients.
-
-## 5.13 Parenteral Administration
-
-DILAUDID INJECTION may be given intravenously, but the injection should be given very slowly.
-Rapid intravenous injection of opioid analgesics increases the possibility of side effects such as hypotension and respiratory depression [see DOSAGE AND ADMINSTRATION (2.3)].
+DILAUDID INJECTION and DILAUDID-HP INJECTION may be given intravenously, but the injection should be given very slowly.
+Rapid intravenous injection of opioid analgesics increases the possibility of side effects such as hypotension and respiratory depression [see Dosage and Administration (2)].
