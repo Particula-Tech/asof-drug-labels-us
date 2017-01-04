@@ -180,6 +180,7 @@ Is it safe to breastfeed while using Mirena?
 You may use Mirena when you are breastfeeding if more than six weeks have passed since you had your baby.
 If you are breastfeeding, Mirena is not likely to affect the quality or amount of your breast milk or the health of your nursing baby.
 However, isolated cases of decreased milk production have been reported among women using progestin-only birth control pills.
+The risk of Mirena becoming attached to (embedded) or going through the wall of the uterus is increased if Mirena is inserted while you are breastfeeding.
 
 Will Mirena interfere with sexual intercourse?
 
@@ -210,7 +211,7 @@ Mirena can cause serious side effects including:
   This is called perforation.
   If this occurs, Mirena may no longer prevent pregnancy.
   If perforation occurs, Mirena may move outside the uterus and can cause internal scarring, infection, or damage to other organs, and you may need surgery to have Mirena removed.
-  The risk of perforation is increased in breastfeeding women.
+  The risk of perforation is increased if Mirena is inserted while you are breastfeeding.
 
 Common side effects of Mirena include:
 
@@ -271,7 +272,7 @@ For more information, go to www.mirena-us.com or call 1-888-842-2937
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-This patient information booklet was updated May 2014.
+This patient information booklet was updated December 2016.
 
 Manufactured for:
 

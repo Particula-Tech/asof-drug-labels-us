@@ -103,9 +103,11 @@ If perforation occurs, locate and remove Mirena.
 Surgery may be required.
 Delayed detection or removal of Mirena in case of perforation may result in migration outside the uterine cavity, adhesions, peritonitis, intestinal perforations, intestinal obstruction, abscesses and erosion of adjacent viscera.
 
-An interim analysis from a large postmarketing safety study shows an increased risk of perforation in lactating women.
-The risk of perforation may be increased if Mirena is inserted when the uterus is fixed retroverted or not completely involuted during the postpartum period.
+The risk of perforation may be increased if Mirena is inserted when the uterus is fixed retroverted or not completely involuted.
 Delay Mirena insertion a minimum of six weeks or until involution is complete following a delivery or a second trimester abortion.
+
+A large postmarketing safety study conducted in Europe over a 1-year observational period reported that lactation at the time of insertion of an IUD/IUS was associated with an increased risk of perforation.
+For Mirena users, the incidence of uterine perforation was reported as 6.3 per 1,000 insertions for lactating women, compared to 1.0 per 1,000 insertions for non-lactating women.
 
 ## 5.7 Expulsion
 
@@ -117,7 +119,7 @@ In clinical trials, a 4.5% expulsion rate was reported over the 5-year study dur
 
 Delay Mirena insertion a minimum of six weeks or until uterine involution is complete following a delivery or a second trimester abortion.
 Remove a partially expelled Mirena.
-If expulsion has occurred, Mirena may be replaced within 7 days after the onset of a menstrual period after pregnancy has been ruled out.
+If expulsion has occurred, Mirena may be replaced within 7 days after the onset of a menstrual period, after pregnancy has been ruled out.
 
 ## 5.8 Ovarian Cysts
 
