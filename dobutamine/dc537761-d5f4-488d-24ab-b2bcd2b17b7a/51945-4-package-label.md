@@ -1,1 +1,57 @@
-RL-0688
+# PRINCIPAL DISPLAY PANEL - 20 mL Vial Label
+
+20 mL Single-dose Fliptop Vial
+
+DOBUTamine Injection, USP
+
+250 mg Per 20 mL
+
+MUST BE DILUTED PRIOR TO USE.
+FOR I.V.
+USE ONLY.
+
+Rx only
+
+HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+
+# PRINCIPAL DISPLAY PANEL - 20 mL Vial Carton
+
+NDC 0409-2344-01
+
+20 mL Single-dose Fliptop Vial
+
+DOBUTamine Injection, USP
+
+250 mg Per 20 mL
+
+MUST BE DILUTED PRIOR TO USE.
+FOR I.V.
+USE ONLY.
+
+Rx only
+
+Hospira
+
+HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+
+CA-0490 (10/04)
+
+# PRINCIPAL DISPLAY PANEL - 20 mL Vial Tray
+
+10 Units/NDC 0409-2344-01
+
+20 mL Single-dose Fliptop Vials
+
+DOBUTamine Injection, USP
+
+250 mg Per 20 mL
+
+Rx only
+
+MUST BE DILUTED PRIOR TO USE.
+FOR I.V.
+USE ONLY.
+
+HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+
+Hospira
