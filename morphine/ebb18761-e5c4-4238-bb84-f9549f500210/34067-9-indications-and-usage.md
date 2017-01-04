@@ -1,7 +1,10 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-DURAMORPH is a systemic narcotic analgesic for administration by the intravenous, epidural or intrathecal routes.
-It is used for the management of pain not responsive to non-narcotic analgesics.
-DURAMORPH administered epidurally or intrathecally, provides pain relief for extended periods without attendant loss of motor, sensory or sympathetic function.
+DURAMORPH is indicated for:
 
-Not For Use in Continuous Microinfusion Devices
+- the management of pain severe enough to require use of an opioid analgesic by intravenous administration, and for which alternative treatments are not expected to be adequate.
+- the epidural or intrathecal management of pain without attendant loss of motor, sensory, or sympathetic function.
+
+Limitation of Use
+
+DURAMORPH is not for use in continuous microinfusion devices.

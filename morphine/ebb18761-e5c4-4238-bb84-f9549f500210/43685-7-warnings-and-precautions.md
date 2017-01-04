@@ -1,116 +1,180 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Morphine sulfate may be habit forming.
-(See DRUG ABUSE AND DEPENDENCE.)
-Overdoses may cause respiratory depression, coma and death.
+## 5.1 Risks with Neuraxial Administration
 
-DURAMORPH administration should be limited to use by those familiar with the management of respiratory depression.
-Rapid intravenous administration may result in chest wall rigidity.
-
-Prior to any epidural or intrathecal drug administration, the physician should be familiar with patient conditions (such as infection at the injection site, bleeding diathesis, anticoagulant therapy, etc.) which call for special evaluation of the benefit versus risk potential.
+Control of pain by neuraxial opioid delivery is always accompanied by considerable risk to the patient and requires a high level of skill to be successfully accomplished.
+The task of treating these patients must be undertaken by experienced clinical teams, well-versed in patient selection, evolving technology and emerging standards of care.
 
 In the case of epidural or intrathecal administration, DURAMORPH should be administered by or under the direction of a physician experienced in the techniques and familiar with the patient management problems associated with epidural or intrathecal drug administration.
+The physician should be familiar with patient conditions (such as infection at the injection site, bleeding diathesis, anticoagulant therapy, etc.) which call for special evaluation of the benefit versus risk potential.
+
 Because epidural administration has been associated with less potential for immediate or late adverse effects than intrathecal administration, the epidural route should be used whenever possible.
 
-SEVERE RESPIRATORY DEPRESSION UP TO 24 HOURS FOLLOWING EPIDURAL OR INTRATHECAL ADMINISTRATION HAS BEEN REPORTED.
-
-|  | BECAUSE OF THE RISK OF SEVERE ADVERSE EFFECTS WHEN THE EPIDURAL OR INTRATHECAL ROUTE OF ADMINISTRATION IS EMPLOYED, PATIENTS MUST BE OBSERVED IN A FULLY EQUIPPED AND STAFFED ENVIRONMENT FOR AT LEAST 24 HOURS AFTER THE INITIAL DOSE. |  |
-| --- | --- | --- |
-
-THE FACILITY MUST BE EQUIPPED TO RESUSCITATE PATIENTS WITH SEVERE OPIATE OVERDOSAGE, AND THE PERSONNEL MUST BE FAMILIAR WITH THE USE AND LIMITATIONS OF SPECIFIC NARCOTIC ANTAGONISTS (NALOXONE, NALTREXONE) IN SUCH CASES.
-
-## Tolerance and Myoclonic Activity
-
-PATIENTS SOMETIMES MANIFEST UNUSUAL ACCELERATION OF NEURAXIAL MORPHINE REQUIREMENTS, WHICH MAY CAUSE CONCERN REGARDING SYSTEMIC ABSORPTION AND THE HAZARDS OF LARGE DOSES; THESE PATIENTS MAY BENEFIT FROM HOSPITALIZATION AND DETOXIFICATION.
-TWO CASES OF MYOCLONIC-LIKE SPASM OF THE LOWER EXTREMITIES HAVE BEEN REPORTED IN PATIENTS RECEIVING MORE THAN 20 MG/DAY OF INTRATHECAL MORPHINE.
-AFTER DETOXIFICATION, IT MIGHT BE POSSIBLE TO RESUME TREATMENT AT LOWER DOSES, AND SOME PATIENTS HAVE BEEN SUCCESSFULLY CHANGED FROM CONTINUOUS EPIDURAL MORPHINE TO CONTINUOUS INTRATHECAL MORPHINE.
-REPEAT DETOXIFICATION MAY BE INDICATED AT A LATER DATE.
-THE UPPER DAILY DOSAGE LIMIT FOR EACH PATIENT DURING CONTINUING TREATMENT MUST BE INDIVIDUALIZED.
-
-# PRECAUTIONS
-
-## General
-
-Control of pain by neuraxial opiate delivery is always accompanied by considerable risk to the patients and requires a high level of skill to be successfully accomplished.
-The task of treating these patients must be undertaken by experienced clinical teams, well-versed in patient selection, evolving technology and emerging standards of care.
 For safety reasons, it is recommended that administration of DURAMORPH by the epidural or intrathecal routes be limited to the lumbar area.
-Intrathecal use has been associated with a higher incidence of respiratory depression than epidural use.
+Thoracic epidural administration has been shown to dramatically increase the incidence of early and late respiratory depression even with doses of 1 to 2 mg.
 
-Seizures may result from high doses.
-Patients with known seizure disorders should be carefully observed for evidence of morphine-induced seizure activity.
+Because of the risk of severe adverse effects when the epidural or intrathecal route of administration is employed, patients must be observed in a fully equipped and staffed environment for at least 24 hours after the initial dose.
 
-## Use in Patients with Increased Intracranial Pressure or Head Injury
+The facility must be equipped to resuscitate patients with severe opiate overdosage, and the personnel must be familiar with the use and limitations of specific narcotic antagonists (naloxone, naltrexone) in such cases.
 
-DURAMORPH should be used with extreme caution in patients with head injury or increased intracranial pressure.
-Pupillary changes (miosis) from morphine may obscure the existence, extent and course of intracranial pathology.
-High doses of neuraxial morphine may produce myoclonic events (see WARNINGS and ADVERSE REACTIONS).
-Clinicians should maintain a high index of suspicion for adverse drug reactions when evaluating altered mental status or movement abnormalities in patients receiving this modality of treatment.
+Parenteral administration of narcotics in patients receiving epidural or intrathecal morphine may result in overdosage.
 
-## Use in Chronic Pulmonary Disease
+## 5.2 Life-Threatening Respiratory Depression
 
-Care is urged in using this drug in patients who have a decreased respiratory reserve (e.g., emphysema, severe obesity, kyphoscoliosis or paralysis of the phrenic nerve).
-DURAMORPH should not be given in cases of chronic asthma, upper airway obstruction or in any other chronic pulmonary disorder without due consideration of the known risk of acute respiratory failure following morphine administration in such patients.
+Serious, life-threatening, or fatal; respiratory depression has been reported with the use of opioids, even when used as recommended.
+Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 
-## Use in Hepatic or Renal Disease
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
-The elimination half-life of morphine may be prolonged in patients with reduced metabolic rates and with hepatic and/or renal dysfunction.
-Hence, care should be exercised in administering DURAMORPH epidurally to patients with these conditions, since high blood morphine levels, due to reduced clearance, may take several days to develop.
+While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of DURAMORPH, the risk is greatest during the initiation of therapy or following a dosage increase.
+This respiratory depression and/or respiratory arrest may be severe and could require intervention.
 
-## Use in Biliary Surgery or Disorders of the Biliary Tract
+- Because of delay in maximum CNS effect with intravenously administered drug (30 min), rapid administration may result in overdosing.
+- Single-dose neuraxial administration may result in acute or delayed respiratory depression for periods at least as long as 24 hours.
+- Severe respiratory depression up to 24 hours following epidural or intrathecal administration has been reported.
+- Intrathecal use has been associated with a higher incidence of respiratory depression than epidural use.
+- Thoracic administration has been shown to dramatically increase the incidence of early and late respiratory depression even at doses of 1 to 2 mg.
 
-As significant morphine is released into the systemic circulation from neuraxial administration, the ensuing smooth muscle hypertonicity may result in biliary colic.
+Because of the risk of severe adverse effects when the epidural or intrathecal route of administration is employed, patients must be observed in a fully equipped and staffed environment for at least 24 hours after the initial dose.
+The facility must be equipped to resuscitate patients with severe opiate overdosage, and the personnel must be familiar with the use and limitations of specific narcotic antagonists (naloxone, naltrexone) in such cases.
 
-## Use with Disorders of the Urinary System
+To reduce the risk of respiratory depression, proper dosing and titration of DURAMORPH are essential [see Dosage and Administration (2)].
+Overestimating the DURAMORPH dosage can result in a fatal overdose with the first dose.
 
-Initiation of neuraxial opiate analgesia is frequently associated with disturbances of micturition, especially in males with prostatic enlargement.
-Early recognition of difficulty in urination and prompt intervention in cases of urinary retention is indicated.
+## 5.3 Addiction, Abuse, and Misuse
 
-## Use in Ambulatory Patients
+DURAMORPH contains morphine, a Schedule II controlled substance.
+As an opioid, DURAMORPH exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
 
-Patients with reduced circulating blood volume, impaired myocardial function or on sympatholytic drugs should be monitored for the possible occurrence of orthostatic hypotension, a frequent complication in single-dose neuraxial morphine analgesia.
+Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed DURAMORPH.
+Addiction can occur at recommended dosages and if the drug is misused or abused.
 
-## Use with Other Central Nervous System Depressants
+Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing DURAMORPH, and monitor all patients receiving DURAMORPH for the development of these behaviors and conditions.
+Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+The potential for these risks should not, however, prevent the proper management of pain in any given patient.
+Patients at increased risk may be prescribed opioids such as DURAMORPH, but use in such patients necessitates intensive counseling about the risks and proper use of DURAMORPH along with intensive monitoring for signs of addiction, abuse, and misuse.
 
-The depressant effects of morphine are potentiated by the presence of other CNS depressants such as alcohol, sedatives, antihistaminics or psychotropic drugs.
+Opioids are sought by drug users and people with addiction disorders and are subject to criminal diversion.
+Consider these risks when prescribing or dispensing DURAMORPH.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity.
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+
+## 5.4 Neonatal Opioid Withdrawal Syndrome
+
+Prolonged use of DURAMORPH during pregnancy can result in withdrawal in the neonate.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1)].
+
+## 5.5 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+
+Profound sedation, respiratory depression, coma, and death may result from concomitant use of DURAMORPH with benzodiazepines or other CNS depressants, (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
 Use of neuroleptics in conjunction with neuraxial morphine may increase the risk of respiratory depression.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
+Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
 
-Morphine is without known carcinogenic or mutagenic effects and is not known to impair fertility at non-narcotic doses in animals, but studies of the carcinogenic and mutagenic potential or the effect on fertility of DURAMORPH have not been conducted.
+If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
+If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
+Follow patients closely for signs and symptoms of respiratory depression and sedation.
 
-## Pregnancy
+Advise both patients and caregivers about the risks of respiratory depression and sedation when DURAMORPH is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7)].
 
-### TERATOGENIC EFFECTS - PREGNANCY CATEGORY C.
+## 5.6 Risk of Tolerance and Myoclonic Activity
 
-Morphine sulfate is not teratogenic in rats at 35 mg/kg/day (thirty-five times the usual human dose) but does result in increased pup mortality and growth retardation at doses that narcotize the animal (> 10 mg/kg/day, ten times the usual human dose).
-DURAMORPH should only be given to pregnant women when no other method of controlling pain is available and means are at hand to manage the delivery and perinatal care of the opiate-dependent infant.
+Patients sometimes manifest unusual acceleration of neuraxial morphine requirements, which may cause concern regarding systemic absorption and the hazards of large doses; these patients may benefit from hospitalization and detoxification.
+Two cases of myoclonic-like spasm of the lower extremities have been reported in patients receiving more than 20 mg/day of intrathecal morphine.
+After detoxification, it might be possible to resume treatment at lower doses, and some patients have been successfully changed from continuous epidural morphine to continuous intrathecal morphine.
+Repeat detoxification may be indicated at a later date.
+The upper daily dosage limit for each patient during continuing treatment must be individualized.
 
-### NONTERATOGENIC EFFECTS.
+## 5.7 Chest Wall Rigidity
 
-Infants born to mothers who have been taking morphine chronically may exhibit withdrawal symptoms.
+Rapid intravenous administration may result in chest wall rigidity.
 
-## Labor and Delivery
+## 5.8 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
-Intravenous morphine readily passes into the fetal circulation and may result in respiratory depression in the neonate.
-Naloxone and resuscitative equipment should be available for reversal of narcotic-induced respiratory depression in the neonate.
-In addition, intravenous morphine may reduce the strength, duration and frequency of uterine contraction resulting in prolonged labor.
+The use of DURAMORPH in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Epidurally and intrathecally administered morphine readily passes into the fetal circulation and may result in respiratory depression of the neonate.
-Controlled clinical studies have shown that epidural administration has little or no effect on the relief of labor pain.
+Patients with Chronic Pulmonary Disease: Patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended doses of DURAMORPH [see Warnings and Precautions (5.2)].
 
-## Nursing Mothers
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
-Morphine is excreted in maternal milk.
-Effects on the nursing infant are not known.
+Monitor such patients closely, particularly when initiating and titrating DURAMORPH and when DURAMORPH is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2)].
+Alternatively, consider the use of non-opioid analgesics in these patients.
 
-## Pediatric Use
+## 5.9 Interaction with Monoamine Oxidase Inhibitors
 
-Adequate studies, to establish the safety and effectiveness of spinal morphine in pediatric patients, have not been performed, and usage in this population is not recommended.
+Monoamine oxidase inhibitors (MAOIs) may potentiate the effects of morphine, including respiratory depression, coma, and confusion.
+DURAMORPH should not be used in patients taking MAOIs or within 14 days of stopping such treatment [see Drug Interactions (7)].
 
-## Geriatric Use
+## 5.10 Adrenal Insufficiency
 
-The pharmacodynamic effects of neuraxial morphine in the elderly are more variable than in the younger population.
-Patients will vary widely in the effective initial dose, rate of development of tolerance and the frequency and magnitude of associated adverse effects as the dose is increased.
-Initial doses should be based on careful clinical observation following “test doses”, after making due allowances for the effects of the patient’s age and infirmity on his/her ability to clear the drug, particularly in patients receiving epidural morphine.
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
+If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
+Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
+Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
+The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-Elderly patients may be more susceptible to respiratory depression and/or respiratory arrest following administration of morphine.
+## 5.11 Severe Hypotension
+
+DURAMORPH may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
+Monitor these patients for signs of hypotension after initiating or titrating the dosage of DURAMORPH.
+In patients with circulatory shock, DURAMORPH may cause vasodilation that can further reduce cardiac output and blood pressure.
+Avoid the use of DURAMORPH in patients with circulatory shock.
+
+## 5.12 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+
+In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), DURAMORPH may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with DURAMORPH.
+DURAMORPH should be used with extreme caution in patients with head injury or increased intracranial pressure.
+Pupillary changes (miosis) from morphine may obscure the existence, extent and course of intracranial pathology.
+High doses of neuraxial morphine may produce myoclonic events [see Warnings and Precautions (5.6)].
+Clinicians should maintain a high index of suspicion for adverse drug reactions when evaluating altered mental status or movement abnormalities in patients receiving this modality of treatment.
+
+Opioids may also obscure the clinical course in a patient with a head injury.
+Avoid the use of DURAMORPH in patients with impaired consciousness or coma.
+
+## 5.13 Risks of Use in Patients with Gastrointestinal Conditions
+
+DURAMORPH is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
+
+The morphine in DURAMORPH may cause spasm of the sphincter of Oddi.
+Opioids may cause increases in serum amylase.
+Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+As significant morphine is released into the systemic circulation from neuraxial administration, the ensuing smooth muscle hypertonicity may result in biliary colic.
+
+## 5.14 Risks of Seizures
+
+The morphine in DURAMORPH may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical setting associated with seizures.
+Monitor patients with a history of seizure disorders for worsened seizure control during DURAMORPH therapy.
+
+Excitation of the central nervous system, resulting in convulsions, may accompany high doses of morphine given intravenously.
+
+## 5.15 Withdrawal
+
+Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients, mixed agonist/antagonist and partial agonist analgesics, including DURAMORPH.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
+
+When discontinuing DURAMORPH, gradually taper the dosage [see Dosage and Administration (2.6)].
+Do not abruptly discontinue DURAMORPH [see Drug Abuse and Dependence (9.3)].
+
+## 5.16 Risks of Use in Patients with Urinary System Disorders
+
+Urinary retention, which may persist 10 to 20 hours following single epidural or intrathecal administration, is a frequently associated with neuraxial opioid administration and must be anticipated, more frequently in male patients than female patients.
+Urinary retention may also occur during the first several days of hospitalization for the initiation of continuous intrathecal or epidural morphine therapy.
+Early recognition of difficulty in urination and prompt intervention in cases of urinary retention is indicated.
+Patients who develop urinary retention have responded to cholinomimetic treatment and/or judicious use of catheters.
+
+## 5.17 Risks of Use in Ambulatory Patients
+
+Patients with reduced circulating blood volume, impaired myocardial function or on sympatholytic drugs should be monitored for the possible occurrence of orthostatic hypotension, a frequent complication in single-dose neuraxial morphine analgesia.

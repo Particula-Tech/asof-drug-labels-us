@@ -1,48 +1,45 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The most serious adverse experience encountered during administration of DURAMORPH is respiratory depression and/or respiratory arrest.
-This depression and/or respiratory arrest may be severe and could require intervention.
-(See WARNINGS and OVERDOSAGE.)
-Because of delay in maximum CNS effect with intravenously administered drug (30 min), rapid administration may result in overdosing.
-Single-dose neuraxial administration may result in acute or delayed respiratory depression for periods at least as long as 24 hours.
+The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-## Tolerance and myoclonus:
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.3)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.5)]
+- Myoclonic Activity [see Warnings and Precautions (5.6)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.10)]
+- Severe Hypotension [see Warnings and Precautions (5.11)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
+- Seizures [see Warnings and Precautions (5.14)]
+- Withdrawal [see Warnings and Precautions (5.15)]
+- Urinary Retention [see Warnings and Precautions (5.16)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.17)]
 
-See WARNINGS for discussion of these and related hazards.
+The following adverse reactions associated with the use of morphine were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-While low doses of intravenously administered morphine have little effect on cardiovascular stability, high doses are excitatory, resulting from sympathetic hyperactivity and increase in circulating catecholamines.
-Excitation of the central nervous system, resulting in convulsions, may accompany high doses of morphine given intravenously.
-Dysphoric reactions may occur after any size dose and toxic psychoses have been reported.
+The most serious adverse reactions encountered during administration of DURAMORPH were respiratory depression and/or respiratory arrest.
 
-## Pruritus:
+Cardiovascular System: While low doses of intravenously administered morphine have little effect on cardiovascular stability, high doses are excitatory, resulting from sympathetic hyperactivity and increase in circulating catecholamines.
 
-Single-dose epidural or intrathecal administration is accompanied by a high incidence of pruritus that is dose-related but not confined to the site of administration.
-Pruritus, following continuous infusion of epidural or intrathecal morphine, is occasionally reported in the literature; these reactions are poorly understood as to their cause.
+Central Nervous System: myoclonus, seizures, dysphoric reactions, toxic psychosis, dizziness, euphoria, anxiety, confusion, headache.
+Lumbar puncture-type headache is encountered in a significant minority of cases for several days following intrathecal catheter implantation and generally responds to bed rest and/or other conventional therapy.
 
-## Urinary retention:
+Gastrointestinal System: Nausea, vomiting, constipation
 
-Urinary retention, which may persist 10 to 20 hours following single epidural or intrathecal administration, is a frequent side effect and must be anticipated primarily in male patients, with a somewhat lower incidence in females.
-Also frequently reported in the literature is the occurrence of urinary retention during the first several days of hospitalization for the initiation of continuous intrathecal or epidural morphine therapy.
-Patients who develop urinary retention have responded to cholinomimetic treatment and/or judicious use of catheters (see PRECAUTIONS).
+Skin: Generalized pruritus, urticaria, wheals, and/or local tissue irritation.
+Single-dose epidural or intrathecal administration is accompanied by a high incidence of dose-related generalized pruritus.
 
-## Constipation:
+Urinary System: Urinary retention, oliguria.
 
-Constipation is frequently encountered during continuous infusion of morphine; this can usually be managed by conventional therapy.
+Peripheral edema: There are several reports of peripheral edema
 
-## Headache:
+Other: Other adverse reactions reported following morphine therapy include depression of cough reflex, interference with thermal regulation, peripheral edema.
 
-Lumbar puncture-type headache is encountered in a significant minority of cases for several days following intrathecal catheter implantation; this, generally, responds to bed rest and/or other conventional therapy.
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 
-## Other:
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Other adverse experiences reported following morphine therapy include—Dizziness, euphoria, anxiety, hypotension, confusion, reduced male potency, decreased libido in men and women, and menstrual irregularities including amenorrhea, depression of cough reflex, interference with thermal regulation and oliguria.
-Evidence of histamine release such as urticaria, wheals and/or local tissue irritation may occur.
-Nausea and vomiting are frequently seen in patients following morphine administration.
+Anaphylaxis:Anaphylaxis has been reported with ingredients contained in DURAMORPH.
 
-Pruritus, nausea/vomiting and urinary retention, if associated with continuous infusion therapy, may respond to intravenous administration of a low dose of naloxone (0.2 mg).
-The risks of using narcotic antagonists in patients chronically receiving narcotic therapy should be considered.
-
-In general, side effects are amenable to reversal by narcotic antagonists.
-
-|  | NALOXONE INJECTION AND RESUSCITATIVE EQUIPMENT SHOULD BE IMMEDIATELY AVAILABLE FOR ADMINISTRATION IN CASE OF LIFE-THREATENING OR INTOLERABLE SIDE EFFECTS AND WHENEVER DURAMORPH THERAPY IS BEING INITIATED. |  |
-| --- | --- | --- |
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
