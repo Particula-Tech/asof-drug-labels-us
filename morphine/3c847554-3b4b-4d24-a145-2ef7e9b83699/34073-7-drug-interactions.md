@@ -1,34 +1,39 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 CNS Depressants
+Table 1 includes clinically significant drug interactions with Morphine Sulfate Tablets.
 
-Other central nervous system (CNS) depressants including sedatives, hypnotics, general anesthetics, antiemetics, phenothiazines, or other tranquilizers or alcohol increases the risk of respiratory depression, hypotension, profound sedation, or coma.
-Use morphine sulfate with caution and in reduced dosages in patients taking these agents.
+Table 1: Clinically Significant Drug Interactions with Morphine Sulfate Tablets
 
-## 7.2 Muscle Relaxants
-
-Morphine sulfate may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
-
-## 7.3 Mixed Agonist/Antagonist Opioid Analgesics
-
-Do not administer mixed agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, and butorphanol) to patients who have received or are receiving a course of therapy with a pure opioid agonist analgesic such as morphine sulfate.
-In these patients, mixed agonist/antagonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.
-
-## 7.4 Cimetidine
-
-Concomitant administration of morphine sulfate and cimetidine has been reported to precipitate apnea, confusion, and muscle twitching in an isolated report.
-Monitor patients for increased respiratory and CNS depression when receiving cimetidine concomitantly with morphine sulfate.
-
-## 7.5 Monoamine Oxidase Inhibitors (MAOIs)
-
-MAOIs markedly potentiate the action of morphine sulfate.
-Allow at least 14 days after stopping treatment with MAOIs before initiating treatment with morphine sulfate.
-
-## 7.6 Anticholinergics
-
-Anticholinergics or other medications with anticholinergic activity when used concurrently with opioid analgesics may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
-
-## 7.7 P-Glycoprotein (PGP) Inhibitors
-
-Based on published reports, PGP inhibitors (e.g. quinidine) may increase the absorption/exposure of morphine sulfate by about two fold.
-Therefore, exercise caution when morphine sulfate is co-administered with PGP inhibitors.
+| Benzodiazepines and Central Nervous System (CNS) Depressants |  |
+| --- | --- |
+| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.4)]. |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Serotonergic Drugs |  |
+| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
+| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue Morphine Sulfate Tablets if serotonin syndrome is suspected. |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.6)]. |
+| Intervention: | Do not use Morphine Sulfate Tablets in patients taking MAOIs or within 14 days of stopping such treatment. |
+| Examples: | Phenelzine, tranylcypromine, linezolid. |
+| Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
+| Clinical Impact: | May reduce the analgesic effect of Morphine Sulfate Tablets and/or precipitate withdrawal symptoms. |
+| Intervention: | Avoid concomitant use. |
+| Examples: | Butorphanol, nalbuphine, pentazocine, buprenorphine. |
+| Muscle Relaxants |  |
+| Clinical Impact: | Morphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Morphine Sulfate Tablets and/or the muscle relaxant as necessary. |
+| Cimetidine |  |
+| Clinical Impact: | The concomitant use of morphine and cimetidine has been reported to precipitate apnea, confusion, and muscle twitching in an isolated report. |
+| Intervention: | Monitor patients for increased respiratory and CNS depression when Morphine Sulfate Tablets are used concomitantly with cimetidine. |
+| Diuretics |  |
+| Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
+| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
+| Anticholinergic Drugs |  |
+| Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
+| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when Morphine Sulfate Tablets are used concomitantly with anticholinergic drugs. |
+| P-Glycoprotein (P-gp) Inhibitors |  |
+| Clinical Impact: | The concomitant use of P-gp inhibitors can increase the exposure to morphine by two-fold and can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Morphine Sulfate Tablets and/or the P-gp inhibitor as necessary. |
+| Examples: | Quinidine, verapamil. |
