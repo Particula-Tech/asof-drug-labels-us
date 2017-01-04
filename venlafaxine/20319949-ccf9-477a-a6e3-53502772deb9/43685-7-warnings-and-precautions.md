@@ -48,8 +48,8 @@ It should be noted that venlafaxine hydrochloride is not approved for use in tre
 
 ## Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including venlafaxine hydrochloride, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms(e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including venlafaxine hydrochloride, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
 
 The concomitant use of venlafaxine hydrochloride with MAOIs intended to treat psychiatric disorders is contraindicated.
@@ -58,7 +58,7 @@ All reports with methylene blue that provided information on the route of admini
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking venlafaxine hydrochloride.
 Venlafaxine hydrochloride should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
-If concomitant use of venlafaxine hydrochloride with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk of serotonin syndrome, particularly during treatment initiation and dose increases.
+If concomitant use of venlafaxine hydrochloride with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk of serotonin syndrome, particularly during treatment initiation and dose increases.
 Treatment with venlafaxine hydrochloride and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## Angle-Closure Glaucoma
@@ -402,7 +402,7 @@ Consequently, caution is advised if the concomitant administration of venlafaxin
 
 #### Serotonergic Drugs
 
-Based on the mechanism of action of venlafaxine hydrochloride and the potential for serotonin syndrome, caution is advised when venlafaxine hydrochloride is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, SSRIs, other SNRIs, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort and methylene blue (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome).
+Based on the mechanism of action of SNRIs and SSRIs, including venlafaxine hydrochloride, and the potential for serotonin syndrome, caution is advised when venlafaxine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, amphetamines, or St. John’s Wort (see WARNINGS: Serotonin Syndrome).
 If concomitant treatment of venlafaxine hydrochloride with these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome).
 The concomitant use of venlafaxine hydrochloride with tryptophan supplements is not recommended (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome).
 
@@ -410,7 +410,10 @@ The concomitant use of venlafaxine hydrochloride with tryptophan supplements is 
 
 There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of venlafaxine hydrochloride with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
-Drug-Laboratory Test Interactions False-positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking venlafaxine.
+
+### Drug-Laboratory Test Interactions
+
+False-positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking venlafaxine.
 This is due to lack of specificity of the screening tests.
 False positive test results may be expected for several days following discontinuation of venlafaxine therapy.
 Confirmatory tests, such as gas chromatography/ mass spectrometry, will distinguish venlafaxine from PCP and amphetamine.
@@ -486,7 +489,9 @@ Although no studies have been designed to primarily assess venlafaxine hydrochlo
 Should the decision be made to treat a pediatric patient with venlafaxine hydrochloride, regular monitoring of weight and height is recommended during treatment, particularly if it is to be continued long term.
 The safety of venlafaxine hydrochloride extended-release capsule treatment for pediatric patients has not been systematically assessed for chronic treatment longer than six months in duration.
 In the studies conducted in pediatric patients (ages 6 to 17), the occurrence of blood pressure and cholesterol increases considered to be clinically relevant in pediatric patients was similar to that observed in adult patients.
-Consequently, the precautions for adults apply to pediatric patients (see WARNINGS, Sustained Hypertension, and PRECAUTIONS, General, Serum Cholesterol Elevation).
+Consequently, the precautions for adults apply to pediatric patients (see
+
+WARNINGS, Sustained Hypertension and PRECAUTIONS, General, Serum Cholesterol Elevation).
 
 ## Geriatric Use
 

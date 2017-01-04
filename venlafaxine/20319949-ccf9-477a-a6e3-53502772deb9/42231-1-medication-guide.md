@@ -266,4 +266,4 @@ Active ingredient: venlafaxine hydrochloride Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
-Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Distributed by: Citron Pharma LLC Suite -1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/19/1993 Made in India Issued: 11/2015
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Distributed by: Citron Pharma LLC Suite -1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/19/1993 Made in India Revised: 10/2016

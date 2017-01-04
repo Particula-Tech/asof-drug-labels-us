@@ -26,4 +26,4 @@ Dispense in a well-closed container as defined in the USP.
 
 Distributed by: Citron Pharma LLC Suite -1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/19/1993 Made in India
 
-Issued: 11/2015
+Revised: 10/2016
