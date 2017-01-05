@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA206344"
+  ],
+  "inn": "theophylline",
+  "labeler": "Pharmaceutical Associates, Inc.",
+  "package_ndcs": [
+    "0121-0820-04",
+    "0121-0820-16",
+    "0121-4820-15"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "theophylline",
+      "name": "THEOPHYLLINE"
+    }
+  ],
+  "setid": "32b9780f-c46f-4e0f-9641-2cab60600e6e",
+  "source": "dailymed"
+}
