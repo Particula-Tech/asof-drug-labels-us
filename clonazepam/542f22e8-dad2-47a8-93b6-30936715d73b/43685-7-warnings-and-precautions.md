@@ -1,5 +1,14 @@
 # WARNINGS
 
+## Risks from Concomitant Use With Opioids
+
+Concomitant use of benzodiazepines, including Klonopin, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe Klonopin concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+Advise both patients and caregivers about the risks of respiratory depression and sedation when Klonopin is used with opioids (see PRECAUTIONS: Information for Patients and PRECAUTIONS: Drug Interactions).
+
 ## Interference With Cognitive and Motor Performance
 
 Since Klonopin produces CNS depression, patients receiving this drug should be cautioned against engaging in hazardous occupations requiring mental alertness, such as operating machinery or driving a motor vehicle.
@@ -129,6 +138,10 @@ A Klonopin Medication Guide must be given to the patient each time Klonopin is d
 Patients should be instructed to take Klonopin only as prescribed.
 Physicians are advised to discuss the following issues with patients for whom they prescribe Klonopin:
 
+### Risks from Concomitant Use With Opioids
+
+Inform patients and caregivers that potentially fatal additive effects may occur if Klonopin is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS: Risks from Concomitant Use with Opioids and PRECAUTIONS: Drug Interactions).
+
 ### Dose Changes
 
 To assure the safe and effective use of benzodiazepines, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug.
@@ -162,6 +175,13 @@ Patients should be advised to inform their physicians if they are taking, or pla
 Patients should be advised to avoid alcohol while taking Klonopin.
 
 ## Drug Interactions
+
+### Effect of Concomitant Use of Benzodiazepines and Opioids
+
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation.
 
 ### Effect of Clonazepam on the Pharmacokinetics of Other Drugs
 
