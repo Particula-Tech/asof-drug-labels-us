@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-SYNJARDY XR No animal studies have been conducted with the combination of empagliflozin and metformin to evaluate carcinogenesis, mutagenesis, or impairment of fertility.
+SYNJARDY XR No animal studies have been conducted with the combination of empagliflozin and metformin hydrochloride to evaluate carcinogenesis, mutagenesis, or impairment of fertility.
 General toxicity studies in rats up to 13 weeks were performed with the combined components.
 These studies indicated that no additive toxicity is caused by the combination of empagliflozin and metformin.
 

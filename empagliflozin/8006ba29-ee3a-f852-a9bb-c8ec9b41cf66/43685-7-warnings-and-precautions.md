@@ -8,7 +8,7 @@ Metformin-associated lactic acidosis was characterized by elevated blood lactate
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
 If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of SYNJARDY XR.
-In SYNJARDY XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/minute under good hemodynamic conditions).
+In SYNJARDY XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin is dialyzable, with a clearance of up to 170 mL/minute under good hemodynamic conditions).
 Hemodialysis has often resulted in reversal of symptoms and recovery.
 
 Educate patients and their families about the symptoms of lactic acidosis and if these symptoms occur instruct them to discontinue SYNJARDY XR and report these symptoms to their healthcare provider.
@@ -99,7 +99,7 @@ Empagliflozin Insulin and insulin secretagogues are known to cause hypoglycemia.
 The risk of hypoglycemia is increased when empagliflozin is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin [see Adverse Reactions (6.1)].
 Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with SYNJARDY XR.
 
-Metformin hydrochloride Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as SUs and insulin) or ethanol.
+Metformin Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as SUs and insulin) or ethanol.
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 Monitor for a need to lower the dose of SYNJARDY XR to minimize the risk of hypoglycemia in these patients.

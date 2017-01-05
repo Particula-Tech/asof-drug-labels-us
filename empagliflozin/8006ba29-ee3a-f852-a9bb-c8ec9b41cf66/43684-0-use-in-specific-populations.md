@@ -5,13 +5,13 @@
 Risk Summary Based on animal data showing adverse renal effects, SYNJARDY XR is not recommended during the second and third trimesters of pregnancy.
 
 Limited available data with SYNJARDY XR or empagliflozin in pregnant women are not sufficient to determine a drug-associated risk for major birth defects and miscarriage.
-Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk [see Data].
-There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
+Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk (see Data).
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
 
 In animal studies, adverse renal changes were observed in rats when empagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy.
 Doses approximately 13-times the maximum clinical dose caused renal pelvic and tubule dilatations that were reversible.
 Empagliflozin was not teratogenic in rats and rabbits up to 300 mg/kg/day, which approximates 48-times and 128-times, respectively, the maximum clinical dose of 25 mg when administered during organogenesis.
-No adverse developmental effects were observed when metformin was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 2- and 6-times, respectively, a 2000 mg clinical dose, based on body surface area [see Data].
+No adverse developmental effects were observed when metformin was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 2- and 6-times, respectively, a 2000 mg clinical dose, based on body surface area (see Data).
 
 The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20-25% in women with HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
@@ -38,14 +38,14 @@ Reduced body weight was observed in the offspring at greater than or equal to 30
 Metformin hydrochloride: Metformin hydrochloride did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits at up to 600 mg/kg/day during the period of organogenesis.
 This represents an exposure of approximately 2- and 6-times a clinical dose of 2000 mg, based on body surface area (mg/m2) for rats and rabbits, respectively.
 
-Empagliflozin and Metformin: No adverse developmental effects were observed when empagliflozin and metformin were coadministered to pregnant rats during the period of organogenesis at exposures of approximately 35- and 14-times the clinical AUC exposure of empagliflozin associated with the 10 mg and 25 mg doses, respectively, and 4-times the clinical AUC exposure of metformin associated with the 2000 mg dose.
+Empagliflozin and Metformin hydrochloride: No adverse developmental effects were observed when empagliflozin and metformin hydrochloride were coadministered to pregnant rats during the period of organogenesis at exposures of approximately 35- and 14-times the clinical AUC exposure of empagliflozin associated with the 10 mg and 25 mg doses, respectively, and 4-times the clinical AUC exposure of metformin associated with the 2000 mg dose.
 
 ## 8.2 Lactation
 
 Risk Summary There is no information regarding the presence of SYNJARDY XR or empagliflozin in human milk, the effects on the breastfed infant, or the effects on milk production.
-Limited published studies report that metformin is present in human milk [see Data].
+Limited published studies report that metformin is present in human milk (see Data).
 However, there is insufficient information on the effects of metformin on the breastfed infant and no available information on the effects of metformin on milk production.
-Empagliflozin is present in the milk of lactating rats [see Data].
+Empagliflozin is present in the milk of lactating rats (see Data).
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
 Because of the potential for serious adverse reactions in a breastfed infant, advise women that use of SYNJARDY XR is not recommended while breastfeeding.
@@ -76,7 +76,7 @@ Empagliflozin is expected to have diminished glycemic efficacy in elderly patien
 The risk of volume depletion-related adverse reactions increased in patients who were 75 years of age and older to 2.1%, 2.3%, and 4.4% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg.
 The risk of urinary tract infections increased in patients who were 75 years of age and older to 10.5%, 15.7%, and 15.1% in patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
-Metformin hydrochloride Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
+Metformin hydrochloride Controlled clinical studies of metformin hydrochloride did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
 Assess renal function more frequently in elderly patients [see Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
@@ -85,12 +85,12 @@ Assess renal function more frequently in elderly patients [see Contraindications
 SYNJARDY XR is contraindicated in patients with moderate to severe renal impairment (eGFR less than 45 mL/min/1.73 m2).
 
 Empagliflozin The efficacy and safety of empagliflozin have not been established in patients with severe renal impairment, with ESRD, or receiving dialysis.
-Empagliflozin is not expected to be effective in these patient populations [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.2)].
+Empagliflozin is not expected to be effective in these patient populations [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.2, 5.4)].
 
 The glucose lowering benefit of empagliflozin 25 mg decreased in patients with worsening renal function.
 The risks of renal impairment [see Warnings and Precautions (5.4)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
 
-Empagliflozin may be used in patients with an eGFR greater than or equal to 45 mL/min/1.73 m2 [see Clinical Pharmacology (12.3)].
+Empagliflozin may be used in patients with an eGFR greater than or equal to 45 mL/min/1.73 m2[see Clinical Pharmacology (12.3)].
 Empagliflozin is not recommended in patients with an eGFR less than 45 mL/min/1.73 m2.
 
 Metformin hydrochloride Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
@@ -102,5 +102,5 @@ SYNJARDY XR should generally be avoided in patients with clinical or laboratory 
 
 Empagliflozin Empagliflozin may be used in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
-Metformin hydrochloride Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
+Metformin hydrochloride Use of metformin hydrochloride in patients with hepatic impairment has been associated with some cases of lactic acidosis.
 SYNJARDY XR is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1)].

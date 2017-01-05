@@ -16,7 +16,7 @@ The following important adverse reactions are described below and elsewhere in t
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of concomitantly administered empagliflozin (daily dose 10 mg and 25 mg) and metformin (mean daily dose of approximately 1800 mg) has been evaluated in 3456 patients with type 2 diabetes mellitus treated for 16 to 24 weeks, of which 926 patients received placebo, 1271 patients received a daily dose of empagliflozin 10 mg, and 1259 patients received a daily dose of empagliflozin 25 mg.
+The safety of concomitantly administered empagliflozin (daily dose 10 mg and 25 mg) and metformin hydrochloride (mean daily dose of approximately 1800 mg) has been evaluated in 3456 patients with type 2 diabetes mellitus treated for 16 to 24 weeks, of which 926 patients received placebo, 1271 patients received a daily dose of empagliflozin 10 mg, and 1259 patients received a daily dose of empagliflozin 25 mg.
 Discontinuation of therapy due to adverse events across treatment groups was 3.0%, 2.8%, and 2.9% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
 Empagliflozin Add-On Combination Therapy with Metformin In a 24-week placebo-controlled trial of empagliflozin 10 mg and 25 mg administered once daily added to metformin, there were no adverse reactions reported regardless of investigator assessment of causality in ≥5% of patients and more commonly than in patients given placebo.
@@ -149,7 +149,7 @@ Urinary tract infections occurred more frequently in female patients.
 The incidence of urinary tract infections in female patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 16.6%, 18.4%, and 17.0%, respectively.
 The incidence of urinary tract infections in male patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Warnings and Precautions (5.5) and Use in Specific Populations (8.5)].
 
-Metformin hydrochloride The most common (>5%) established adverse reactions due to initiation of metformin therapy are diarrhea, nausea/vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
+Metformin The most common (>5%) established adverse reactions due to initiation of metformin therapy are diarrhea, nausea/vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
 
 In a 24-week clinical trial in which extended-release metformin or placebo was added to glyburide therapy, the most common (>5% and greater than placebo) adverse reactions in the combined treatment group were hypoglycemia (13.7% vs 4.9%), diarrhea (12.5% vs 5.6%), and nausea (6.7% vs 4.2%).
 
@@ -162,7 +162,7 @@ The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment 
 Increase in Hematocrit: In a pool of four placebo-controlled studies, median hematocrit decreased by 1.3% in placebo and increased by 2.8% in empagliflozin 10 mg and 2.8% in empagliflozin 25 mg treated patients.
 At the end of treatment, 0.6%, 2.7%, and 3.5% of patients with hematocrits initially within the reference range had values above the upper limit of the reference range with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
-Metformin hydrochloride In controlled clinical trials of metformin of 29 weeks’ duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
+Metformin In controlled clinical trials of metformin of 29 weeks’ duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or Vitamin B12 supplementation [see Warnings and Precautions (5.8)].
 
 ## 6.2 Postmarketing Experience
