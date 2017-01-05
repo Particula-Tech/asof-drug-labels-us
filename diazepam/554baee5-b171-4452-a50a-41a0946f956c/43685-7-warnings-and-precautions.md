@@ -1,5 +1,16 @@
 # WARNINGS
 
+Concomitant use of benzodiazepines, including Valium, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe Valium concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of Valium than indicated in the absence of an opioid and titrate based on clinical response.
+If an opioid is initiated in a patient already taking Valium, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when Valium is used with opioids.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see Drug Interactions).
+
 Valium is not recommended in the treatment of psychotic patients and should not be employed instead of appropriate treatment.
 
 Since Valium has a central nervous system depressant effect, patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during Valium therapy.
@@ -62,6 +73,13 @@ Patients should be advised against the simultaneous ingestion of alcohol and oth
 As is true of most CNS-acting drugs, patients receiving Valium should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
 
 ## Drug Interactions
+
+### Opioids
+
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
 
 ### Centrally Acting Agents
 
