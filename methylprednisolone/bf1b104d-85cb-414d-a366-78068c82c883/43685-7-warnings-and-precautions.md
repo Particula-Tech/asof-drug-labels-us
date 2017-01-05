@@ -130,7 +130,6 @@ As sodium retention with resultant edema and potassium loss may occur in patient
 
 Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
-Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently.
 
 Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients.
 Changes in thyroid status of the patient may necessitate adjustment in dosage.
@@ -272,11 +271,11 @@ No adequate studies have been conducted in animals to determine whether corticos
 
 Steroids may increase or decrease motility and number of spermatozoa in some patients.
 
+Corticosteroids have been shown to impair fertility in male rats.
+
 ## Pregnancy
 
 ### Teratogenic Effects
-
-#### Pregnancy Category C
 
 Corticosteroids have been shown to be teratogenic in many species when given in doses equivalent to the human dose.
 Animal studies in which corticosteroids have been given to pregnant mice, rats, and rabbits have yielded an increased incidence of cleft palate in the offspring.
@@ -300,7 +299,7 @@ Like adults, pediatric patients should be carefully observed with frequent measu
 Pediatric patients who are treated with corticosteroids by any route, including systemically administered corticosteroids, may experience a decrease in their growth velocity.
 This negative impact of corticosteroids on growth has been observed at low systemic doses and in the absence of laboratory evidence of HPA axis suppression (i.e., cosyntropin stimulation and basal cortisol plasma levels).
 Growth velocity may therefore be a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function.
-The linear growth of pediatric patients treated with corticosteroids should be monitored, and the potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the availibility of treatment alternatives.
+The linear growth of pediatric patients treated with corticosteroids should be monitored, and the potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the availability of treatment alternatives.
 In order to minimize the potential growth effects of corticosteroids, pediatric patients should be titrated to the lowest effective dose.
 
 ## Geriatric Use

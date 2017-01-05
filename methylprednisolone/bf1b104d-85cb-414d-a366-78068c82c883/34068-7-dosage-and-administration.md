@@ -71,7 +71,7 @@ In recurrent or chronic conditions, repeated injections may be necessary.
 
 ### 4. Injections for Local Effect in Dermatologic Conditions
 
-Following cleansing with an appropriate antiseptic such as 70% alcohol, 20 to 60 mg of the suspension is injected into the lesion.
+Following cleansing with an appropriate antiseptic such as 70% alcohol, 20 to 60 mg is injected into the lesion.
 It may be necessary to distribute doses ranging from 20 to 40 mg by repeated local injections in the case of large lesions.
 Care should be taken to avoid injection of sufficient material to cause blanching since this may be followed by a small slough.
 One to four injections are usually employed, the intervals between injections varying with the type of lesion being treated and the duration of improvement produced by the initial injection.
