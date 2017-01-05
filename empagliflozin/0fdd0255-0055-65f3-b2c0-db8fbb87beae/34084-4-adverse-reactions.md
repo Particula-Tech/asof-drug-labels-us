@@ -5,7 +5,7 @@ The following important adverse reactions are described below and elsewhere in t
 - Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
 - Hypotension [see Warnings and Precautions (5.2)]
 - Ketoacidosis [see Warnings and Precautions (5.3)]
-- Impairment in Renal Function [see Warnings and Precautions (5.4)]
+- Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.4)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.6)]
 - Genital Mycotic Infections [see Warnings and Precautions (5.7)]
@@ -16,7 +16,7 @@ The following important adverse reactions are described below and elsewhere in t
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of concomitantly administered empagliflozin (daily dose 10 mg and 25 mg) and metformin (mean daily dose of approximately 1800 mg) has been evaluated in 3456 patients with type 2 diabetes mellitus treated for 16 to 24 weeks, of which 926 patients received placebo, 1271 patients received a daily dose of empagliflozin 10 mg, and 1259 patients received a daily dose of empagliflozin 25 mg.
+The safety of concomitantly administered empagliflozin (daily dose 10 mg and 25 mg) and metformin hydrochloride (mean daily dose of approximately 1800 mg) has been evaluated in 3456 patients with type 2 diabetes mellitus treated for 16 to 24 weeks, of which 926 patients received placebo, 1271 patients received a daily dose of empagliflozin 10 mg, and 1259 patients received a daily dose of empagliflozin 25 mg.
 Discontinuation of therapy due to adverse events across treatment groups was 3.0%, 2.8%, and 2.9% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
 Empagliflozin Add-On Combination Therapy with Metformin In a 24-week placebo-controlled trial of empagliflozin 10 mg and 25 mg administered once daily added to metformin, there were no adverse reactions reported regardless of investigator assessment of causality in ≥5% of patients and more commonly than in patients given placebo.
@@ -70,10 +70,12 @@ Empagliflozin may increase the risk of hypotension in patients at risk for volum
 Increased Urination In the pool of five placebo-controlled clinical trials, adverse reactions of increased urination (e.g., polyuria, pollakiuria, and nocturia) occurred more frequently on empagliflozin than on placebo (see Table 3).
 Specifically, nocturia was reported by 0.4%, 0.3%, and 0.8% of patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
-Impairment in Renal Function Use of empagliflozin was associated with increases in serum creatinine and decreases in eGFR (see Table 3).
+Acute Impairment in Renal Function Treatment with empagliflozin was associated with increases in serum creatinine and decreases in eGFR (see Table 3).
 Patients with moderate renal impairment at baseline had larger mean changes [see Warnings and Precautions (5.4) and Use in Specific Populations (8.5, 8.6)].
 
-Table 3 Changes from Baseline in Serum Creatinine and eGFR in the Pool of Four 24-week Placebo-Controlled Studies and Renal Impairment Study
+In a long-term cardiovascular outcome trial, the acute impairment in renal function was observed to reverse after treatment discontinuation suggesting acute hemodynamic changes play a role in the renal function changes observed with empagliflozin.
+
+Table 3 Changes from Baseline in Serum Creatinine and eGFRa in the Pool of Four 24-week Placebo-Controlled Studies and Renal Impairment Study
 
 |  |  | Pool of 24-Week Placebo-Controlled Studies |  |  |
 | --- | --- | --- | --- | --- |
@@ -87,9 +89,9 @@ Table 3 Changes from Baseline in Serum Creatinine and eGFR in the Pool of Four 2
 | Week 24 Change | N | 708 | 769 | 754 |
 | Creatinine (mg/dL) | 0.00 | 0.01 | 0.01 |  |
 | eGFR (mL/min/1.73 m2) | -0.3 | -0.6 | -1.4 |  |
-|  |  | Moderate Renal Impairmenta |  |  |
+|  |  | Moderate Renal Impairmentb |  |  |
 | Placebo |  | Empagliflozin 25 mg |  |  |
-| Baseline | N | 187 | -- | 187 |
+| Baseline Mean | N | 187 | -- | 187 |
 | Creatinine (mg/dL) | 1.49 | -- | 1.46 |  |
 | eGFR (mL/min/1.73 m2) | 44.3 | -- | 45.4 |  |
 | Week 12 Change | N | 176 | -- | 179 |
@@ -101,15 +103,15 @@ Table 3 Changes from Baseline in Serum Creatinine and eGFR in the Pool of Four 2
 | Week 52 Change | N | 164 | -- | 162 |
 | Creatinine (mg/dL) | 0.02 | -- | 0.11 |  |
 | eGFR (mL/min/1.73 m2) | -0.3 | -- | -2.8 |  |
-| Post-treatment Changeb | N | 98 | -- | 103 |
+| Post-treatment Changec | N | 98 | -- | 103 |
 | Creatinine (mg/dL) | 0.03 | -- | 0.02 |  |
 | eGFR (mL/min/1.73 m2) | 0.16 | -- | 1.48 |  |
-| aSubset of patients from renal impairment study with eGFR 30 to less than 60 mL/min/1.73 m2. bApproximately 3 weeks after end of treatment. |  |  |  |  |
+| aObserved cases on treatment. bSubset of patients from renal impairment study with eGFR 30 to less than 60 mL/min/1.73 m2. cApproximately 3 weeks after end of treatment. |  |  |  |  |
 
 Hypoglycemia The incidence of hypoglycemia by study is shown in Table 4.
 The incidence of hypoglycemia increased when empagliflozin was administered with insulin or sulfonylurea [see Warnings and Precautions (5.6)].
 
-Table 4 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Controlled Clinical Studies
+Table 4 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Controlled Clinical Studiesc
 
 | Monotherapy (24 weeks) | Placebo (n=229) | Empagliflozin 10 mg (n=224) | Empagliflozin 25 mg (n=223) |
 | --- | --- | --- | --- |
@@ -124,13 +126,13 @@ Table 4 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Control
 | In Combination with Pioglitazone +/- Metformin (24 weeks) | Placebo (n=165) | Empagliflozin 10 mg + Pioglitazone +/- Metformin (n=165) | Empagliflozin 25 mg + Pioglitazone +/- Metformin (n=168) |
 | Overall (%) | 1.8% | 1.2% | 2.4% |
 | Severe (%) | 0% | 0% | 0% |
-| In Combination with Basal Insulin (18 weeksc) | Placebo (n=170) | Empagliflozin 10 mg (n=169) | Empagliflozin 25 mg (n=155) |
+| In Combination with Basal Insulin +/- Metformin (18 weeksd) | Placebo (n=170) | Empagliflozin 10 mg (n=169) | Empagliflozin 25 mg (n=155) |
 | Overall (%) | 20.6% | 19.5% | 28.4% |
 | Severe (%) | 0% | 0% | 1.3% |
-| In Combination with MDI Insulin +/- Metformin (18 weeksc) | Placebo (n=188) | Empagliflozin 10 mg (n=186) | Empagliflozin 25 mg (n=189) |
+| In Combination with MDI Insulin +/- Metformin (18 weeksd) | Placebo (n=188) | Empagliflozin 10 mg (n=186) | Empagliflozin 25 mg (n=189) |
 | Overall (%) | 37.2% | 39.8% | 41.3% |
 | Severe (%) | 0.5% | 0.5% | 0.5% |
-| aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL bSevere hypoglycemic events: requiring assistance regardless of blood glucose cInsulin dose could not be adjusted during the initial 18 week treatment period |  |  |  |
+| a Overall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL bSevere hypoglycemic events: requiring assistance regardless of blood glucose cTreated set (patients who had received at least one dose of study drug) dInsulin dose could not be adjusted during the initial 18 week treatment period |  |  |  |
 
 Genital Mycotic Infections In the pool of five placebo-controlled clinical trials, the incidence of genital mycotic infections (e.g., vaginal mycotic infection, vaginal infection, genital infection fungal, vulvovaginal candidiasis, and vulvitis) was increased in patients treated with empagliflozin compared to placebo, occurring in 0.9%, 4.1%, and 3.7% of patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 Discontinuation from study due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with either empagliflozin 10 or 25 mg.
@@ -147,7 +149,7 @@ Urinary tract infections occurred more frequently in female patients.
 The incidence of urinary tract infections in female patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 16.6%, 18.4%, and 17.0%, respectively.
 The incidence of urinary tract infections in male patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Warnings and Precautions (5.5) and Use in Specific Populations (8.5)].
 
-Metformin hydrochloride The most common (>5%) established adverse reactions due to initiation of metformin therapy are diarrhea, nausea/vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
+Metformin The most common (>5%) established adverse reactions due to initiation of metformin therapy are diarrhea, nausea/vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
 
 Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.8)].
 
@@ -158,7 +160,7 @@ The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment 
 Increase in Hematocrit: In a pool of four placebo-controlled studies, median hematocrit decreased by 1.3% in placebo and increased by 2.8% in empagliflozin 10 mg and 2.8% in empagliflozin 25 mg treated patients.
 At the end of treatment, 0.6%, 2.7%, and 3.5% of patients with hematocrits initially within the reference range had values above the upper limit of the reference range with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
-Metformin hydrochloride In controlled clinical trials of metformin of 29 weeks’ duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
+Metformin In controlled clinical trials of metformin of 29 weeks’ duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or Vitamin B12 supplementation [see Warnings and Precautions (5.8)].
 
 ## 6.2 Postmarketing Experience

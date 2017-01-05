@@ -22,6 +22,9 @@ Cases of ketoacidosis have been reported during use of empagliflozin.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
 If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue SYNJARDY and seek medical advice immediately [see Warnings and Precautions (5.3)].
 
+Acute Kidney Injury Inform patients that acute kidney injury has been reported during use of empagliflozin.
+Advise patients to seek medical advice immediately if they have reduced oral intake (such as due to acute illness or fasting) or increased fluid losses (such as due to vomiting, diarrhea, or excessive heat exposure), as it may be appropriate to temporarily discontinue SYNJARDY use in those settings [see Warnings and Precautions (5.4)].
+
 Serious Urinary Tract Infections Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.5)].
@@ -33,13 +36,11 @@ Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis) Inform 
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
 Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
 
-Monitoring of Renal Function
-
-Inform patients about the importance of regular testing of renal function when receiving treatment with SYNJARDY.
+Monitoring of Renal Function Inform patients about the importance of regular testing of renal function when receiving treatment with SYNJARDY.
 
 Instruct patients to inform their doctor that they are taking SYNJARDY prior to any surgical or radiological procedure, as temporary discontinuation of SYNJARDY may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
 
-Hypoglycemia Inform patients that the risk of hypoglycemia is increased when SYNJARDY is used in combination with an insulin secretagogue (e.g., sulfonylurea), and that a lower dose of the insulin secretagogue may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.3)].
+Hypoglycemia Inform patients that the risk of hypoglycemia is increased when SYNJARDY is used in combination with an insulin secretagogue (e.g., sulfonylurea), and that a lower dose of the insulin secretagogue may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.6)].
 
 Laboratory Tests Inform patients that elevated glucose in urinalysis is expected when taking SYNJARDY.
 
@@ -65,10 +66,10 @@ Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the Synjardy® trademark under license.
+Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the Synjardy® and EMPA-REG OUTCOME® trademarks under license.
 
 The other trademarks referenced are owned by third parties not affiliated with Boehringer Ingelheim Pharmaceuticals, Inc.
 
 Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5985EG122016
+IT5985IL232016

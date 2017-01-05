@@ -8,7 +8,7 @@ Empagliflozin Sodium-glucose co-transporter 2 (SGLT2) is the predominant transpo
 Empagliflozin is an inhibitor of SGLT2.
 By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
 
-Metformin hydrochloride Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
+Metformin Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
 It is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
 Unlike SUs, metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.6)] and does not cause hyperinsulinemia.
@@ -25,9 +25,9 @@ No increase in QTc was observed with either 25 mg or 200 mg empagliflozin.
 
 ## 12.3 Pharmacokinetics
 
-SYNJARDY The results of a bioequivalence study in healthy subjects demonstrated that SYNJARDY (empagliflozin/metformin hydrochloride) 5 mg/500 mg, 5 mg/1000 mg, 12.5 mg/500 mg, and 12.5 mg/1000 mg combination tablets are bioequivalent to coadministration of corresponding doses of empagliflozin and metformin as individual tablets.
+SYNJARDY The results of a bioequivalence study in healthy subjects demonstrated that SYNJARDY (empagliflozin/metformin hydrochloride) 5 mg/500 mg, 5 mg/1000 mg, 12.5 mg/500 mg, and 12.5 mg/1000 mg combination tablets are bioequivalent to coadministration of corresponding doses of empagliflozin and metformin hydrochloride as individual tablets.
 
-Administration of 12.5 mg empagliflozin/1000 mg metformin under fed conditions resulted in a 9% decrease in AUC and a 28% decrease in Cmax for empagliflozin, when compared to fasted conditions.
+Administration of 12.5 mg empagliflozin/1000 mg metformin hydrochloride under fed conditions resulted in a 9% decrease in AUC and a 28% decrease in Cmax for empagliflozin, when compared to fasted conditions.
 For metformin, AUC decreased by 12% and Cmax decreased by 26% compared to fasting conditions.
 The observed effect of food on empagliflozin and metformin is not considered to be clinically relevant.
 
@@ -53,8 +53,8 @@ Following once-daily dosing, up to 22% accumulation, with respect to plasma AUC,
 Following administration of an oral [14C]-empagliflozin solution to healthy subjects, approximately 95.6% of the drug-related radioactivity was eliminated in feces (41.2%) or urine (54.4%).
 The majority of drug-related radioactivity recovered in feces was unchanged parent drug and approximately half of drug-related radioactivity excreted in urine was unchanged parent drug.
 
-Metformin hydrochloride Absorption The absolute bioavailability of a metformin hydrochloride 500-mg tablet given under fasting conditions is approximately 50% to 60%.
-Studies using single oral doses of metformin tablets 500 mg to 1500 mg, and 850 mg to 2550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
+Metformin Absorption The absolute bioavailability of a metformin hydrochloride 500-mg tablet given under fasting conditions is approximately 50% to 60%.
+Studies using single oral doses of metformin hydrochloride tablets 500 mg to 1500 mg, and 850 mg to 2550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
 
 Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower Cmax, a 25% lower AUC, and a 35 minute prolongation of time to peak plasma concentration (Tmax) following administration of a single 850 mg tablet of metformin with food, compared to the same tablet strength administered fasting.
 The clinical relevance of these decreases is unknown.
@@ -66,7 +66,7 @@ During controlled clinical trials of metformin, maximum metformin plasma levels 
 
 Metabolism Intravenous single-dose studies in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) nor biliary excretion.
 
-Elimination Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
+Elimination Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicatesthat tubular secretion is the major route of metformin elimination.
 Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
 In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
@@ -84,7 +84,7 @@ Hepatic Impairment SYNJARDY: Studies characterizing the pharmacokinetics of empa
 
 Empagliflozin: In subjects with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased by approximately 23%, 47%, and 75%, and Cmax increased by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
 
-Metformin hydrochloride: No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment.
+Metformin hydrochloride: No pharmacokinetic studies of metformin hydrochloride have been conducted in patients with hepatic impairment.
 
 Effects of Age, Body Mass Index, Gender, and Race Empagliflozin: Based on the population PK analysis, age, body mass index (BMI), gender and race (Asians versus primarily Whites) do not have a clinically meaningful effect on pharmacokinetics of empagliflozin [see Use in Specific Populations (8.5)].
 
@@ -98,7 +98,7 @@ Geriatric SYNJARDY: Studies characterizing the pharmacokinetics of empagliflozin
 
 Empagliflozin: Age did not have a clinically meaningful impact on the pharmacokinetics of empagliflozin based on a population pharmacokinetic analysis [see Use in Specific Populations (8.5)].
 
-Metformin hydrochloride: Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared with healthy young subjects.
+Metformin hydrochloride: Limited data from controlled pharmacokinetic studies of metformin hydrochloride in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared with healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
 
 Pediatric Studies characterizing the pharmacokinetics of empagliflozin or metformin after administration of SYNJARDY in pediatric patients have not been performed.
@@ -117,7 +117,7 @@ Empagliflozin is a substrate of the human uptake transporters OAT3, OATP1B1, and
 Empagliflozin does not inhibit any of these human uptake transporters at clinically relevant plasma concentrations and, therefore, no effect of empagliflozin is anticipated on concomitantly administered drugs that are substrates of these uptake transporters.
 
 In vivo Assessment of Drug Interactions: No dose adjustment of empagliflozin is recommended when coadministered with commonly prescribed medicinal products based on results of the described pharmacokinetic studies.
-Empagliflozin pharmacokinetics were similar with and without coadministration of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, simvastatin, hydrochlorothiazide, and torsemide in healthy volunteers (see Figure 1).
+Empagliflozin pharmacokinetics were similar with and without coadministration of metformin hydrochloride, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, and simvastatin in healthy volunteers and with or without coadministration of hydrochlorothiazide and torsemide in patients with type 2 diabetes (see Figure 1).
 The observed increases in overall exposure (AUC) of empagliflozin following coadministration with gemfibrozil, rifampicin, or probenecid are not clinically relevant.
 In subjects with normal renal function, coadministration of empagliflozin with probenecid resulted in a 30% decrease in the fraction of empagliflozin excreted in urine without any effect on 24-hour urinary glucose excretion.
 The relevance of this observation to patients with renal impairment is unknown.
@@ -126,7 +126,7 @@ Figure 1 Effect of Various Medications on the Pharmacokinetics of Empagliflozin 
 
 aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, single dose; cempagliflozin, 25 mg, once daily; dempagliflozin, 10 mg, single dose
 
-Empagliflozin had no clinically relevant effect on the pharmacokinetics of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, digoxin, ramipril, simvastatin, hydrochlorothiazide, torsemide, and oral contraceptives when coadministered in healthy volunteers (see Figure 2).
+Empagliflozin had no clinically relevant effect on the pharmacokinetics of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, digoxin, ramipril, simvastatin, hydrochlorothiazide, torsemide, and oral contraceptives when coadministered with empagliflozin (see Figure 2).
 
 Figure 2 Effect of Empagliflozin on the Pharmacokinetics of Various Medications as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)]
 
@@ -136,7 +136,7 @@ Metformin hydrochloride
 
 Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
-| Coadministered Drug | Dosing of Coadministered Drug* | Dose of Metformin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
+| Coadministered Drug | Dosing of Coadministered Drug* | Dose of Metformin hydrochloride* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | AUC† | Cmax |  |  |  |
 | No dosing adjustments required for the following coadministered drugs: |  |  |  |  |  |
@@ -148,11 +148,11 @@ Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Cimetidine | 400 mg | 850 mg | metformin | 1.40 | 1.61 |
 | Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5.1) and Drug Interactions (7.1)]. |  |  |  |  |  |
 | Topiramate** | 100 mg | 500 mg | metformin | 1.25 | 1.17 |
-| * All metformin and coadministered drugs were given as single doses † AUC = AUC(INF) ‡ Ratio of arithmetic means **At steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h |  |  |  |  |  |
+| * All metformin and coadministered drugs were given as single doses † AUC = AUC(INF) ‡ Ratio of arithmetic means **At steady state with topiramate 100 mg every 12 hours and metformin hydrochloride 500 mg every 12 hours; AUC = AUC0-12h |  |  |  |  |  |
 
 Table 6 Effect of Metformin on Coadministered Drug Systemic Exposure
 
-| Coadministered Drug | Dosing of Coadministered Drug* | Dose of Metformin* | Geometric Mean Ratio (ratio with/without metformin) No effect=1.0 |  |  |
+| Coadministered Drug | Dosing of Coadministered Drug* | Dose of Metformin hydrochloride* | Geometric Mean Ratio (ratio with/without metformin) No effect=1.0 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | AUC† | Cmax |  |  |  |
 | No dosing adjustments required for the following coadministered drugs: |  |  |  |  |  |

@@ -14,8 +14,8 @@ Use alternative methods to monitor glycemic control.
 
 ## 7.2 Drug Interactions with Metformin Hydrochloride
 
-Drugs that Reduce Metformin Clearance Drugs that are eliminated by renal tubular secretion (e.g., cationic drugs such as cimetidine) have the potential for interaction with metformin by competing for common renal tubular transport systems, and may increase the accumulation of metformin and the risk for lactic acidosis.
-Consider more frequent monitoring of these patients [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Drugs that Reduce Metformin Clearance Concomitant use of drugs that interfere with common renal tubular transport systems involved in the renal elimination of metformin (e.g., organic cationic transporter-2 [OCT2] / multidrug and toxin extrusion [MATE] inhibitors such as ranolazine, vandetanib, dolutegravir, and cimetidine) could increase systemic exposure to metformin and may increase the risk for lactic acidosis [see Clinical Pharmacology (12.3)].
+Consider the benefits and risks of concomitant use.
 
 Carbonic Anhydrase Inhibitors Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently causes a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
 Concomitant use of these drugs with SYNJARDY may increase the risk of lactic acidosis.

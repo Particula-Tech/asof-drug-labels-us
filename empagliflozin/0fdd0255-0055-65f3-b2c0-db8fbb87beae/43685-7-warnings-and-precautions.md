@@ -23,7 +23,7 @@ The risk of metformin accumulation and metformin-associated lactic acidosis incr
 - Obtain an eGFR at least annually in all patients taking SYNJARDY.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 
-Drug Interactions: The concomitant use of SYNJARDY with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g., cationic drugs) [see Drug Interactions (7.2)].
+Drug Interactions: The concomitant use of SYNJARDY with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation [see Drug Interactions (7.2)].
 Therefore, consider more frequent monitoring of patients.
 
 Age 65 or Greater: The risk of metformin-associated lactic acidosis increases with the patient’s age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
@@ -71,13 +71,21 @@ In some but not all cases, factors predisposing to ketoacidosis such as insulin 
 Before initiating SYNJARDY, consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
 In patients treated with SYNJARDY consider monitoring for ketoacidosis and temporarily discontinuing SYNJARDY in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
 
-## 5.4 Impairment in Renal Function
+## 5.4 Acute Kidney Injury and Impairment in Renal Function
 
-Empagliflozin increases serum creatinine and decreases eGFR [see Adverse Reactions (6.1)].
-The risk of impaired renal function with empagliflozin is increased in elderly patients and patients with renal impairment.
+Empagliflozin causes intravascular volume contraction [see Warnings and Precautions (5.2)] and can cause renal impairment [see Adverse Reactions (6.1)].
+There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving SGLT2 inhibitors, including empagliflozin; some reports involved patients younger than 65 years of age.
 
-Before initiation of therapy with SYNJARDY and at least annually thereafter, renal function should be assessed.
-In patients in whom development of renal impairment is anticipated (e.g., elderly), renal function should be assessed more frequently and SYNJARDY discontinued if eGFR is below 45 mL/min/1.73 m2.
+Before initiating SYNJARDY, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
+Consider temporarily discontinuing SYNJARDY in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
+If acute kidney injury occurs, discontinue SYNJARDY promptly and institute treatment.
+
+Empagliflozin increases serum creatinine and decreases eGFR.
+Patients with hypovolemia may be more susceptible to these changes.
+Renal function abnormalities can occur after initiating SYNJARDY [see Adverse Reactions (6.1)].
+Renal function should be evaluated prior to initiation of SYNJARDY and monitored periodically thereafter.
+More frequent renal function monitoring is recommended in patients with an eGFR below 60 mL/min/1.73 m2.
+Use of SYNJARDY is contraindicated in patients with an eGFR less than 45 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Use in Specific Populations (8.6)].
 
 ## 5.5 Urosepsis and Pyelonephritis
 
@@ -91,7 +99,7 @@ Empagliflozin Insulin and insulin secretagogues are known to cause hypoglycemia.
 The risk of hypoglycemia is increased when empagliflozin is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin [see Adverse Reactions (6.1)].
 Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with SYNJARDY.
 
-Metformin hydrochloride Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as SUs and insulin) or ethanol.
+Metformin Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as SUs and insulin) or ethanol.
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 Monitor for a need to lower the dose of SYNJARDY to minimize the risk of hypoglycemia in these patients.
@@ -119,4 +127,4 @@ Monitor and treat as appropriate.
 
 ## 5.10 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with SYNJARDY, or any other antidiabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with SYNJARDY.
