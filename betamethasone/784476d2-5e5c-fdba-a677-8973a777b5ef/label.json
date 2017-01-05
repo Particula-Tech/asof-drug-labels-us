@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA070069",
+    "NDA018642"
+  ],
+  "inn": "betamethasone",
+  "labeler": "G&W Laboratories, Inc.",
+  "package_ndcs": [
+    "0713-0326-15",
+    "0713-0326-37",
+    "0713-0327-15",
+    "0713-0327-37"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "betamethasone valerate",
+      "name": "Betamethasone Valerate"
+    },
+    {
+      "form": "OINTMENT",
+      "generic": "betamethasone valerate",
+      "name": "Betamethasone Valerate"
+    }
+  ],
+  "setid": "784476d2-5e5c-fdba-a677-8973a777b5ef",
+  "source": "dailymed"
+}
