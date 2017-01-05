@@ -5,6 +5,6 @@ For current full prescribing information, please visit www.pfizer.com
 
 Rx only
 
-LAB-0200-5.0
+LAB-0200-6.0
 
-November 2016
+December 2016

@@ -5,8 +5,6 @@ These reactions are more likely to occur in individuals with a history of penici
 There have been reports of individuals with a history of penicillin hypersensitivity who have experienced severe reactions when treated with cephalosporins.
 Before initiating therapy with penicillin G, careful inquiry should be made concerning previous hypersensitivity reactions to penicillins, cephalosporins, or other allergens.
 If an allergic reaction occurs, penicillin G should be discontinued and appropriate therapy instituted.
-Serious anaphylactic reactions require immediate emergency treatment with epinephrine.
-Oxygen, intravenous steroids, and airway management, including intubation, should also be administered as indicated.
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Penicillin G Potassium for Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -33,6 +31,11 @@ Should superinfection occur, appropriate measures should be taken.
 When indicated, incision and drainage or other surgical procedures should be performed in conjunction with antibiotic therapy.
 
 Prescribing Penicillin G Potassium for Injection, USP in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+
+## Intramuscular Therapy
+
+Care should be taken to avoid intravenous or accidental intraarterial administration, or injection into or near major peripheral nerves or blood vessels, since such injections may produce neurovascular damage.
+Particular care should be taken with IV administration because of the possibility of thrombophlebitis.
 
 ## Information for Patients
 
