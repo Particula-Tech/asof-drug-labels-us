@@ -1,3 +1,8 @@
-Rx ONLY
+Revised: November 2016
 
-Manufactured By: Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com R07/11
+# MANUFACTURED BY
+
+Pharmaceutical Associates, Inc.Greenville, SC 29605 www.paipharma.com
+
+Rev.
+12/2016

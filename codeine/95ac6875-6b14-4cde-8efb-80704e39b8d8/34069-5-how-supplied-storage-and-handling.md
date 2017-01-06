@@ -1,9 +1,15 @@
 # HOW SUPPLIED
 
-Acetaminophen and Codeine Phosphate Oral Solution USP (orange-yellow color, cherry flavor) is supplied in the following oral dosage forms: NDC 0121-0504-04 (4 fl. oz. bottles), NDC 0121-0504-16 (16 fl. oz. bottles), NDC 0121-0504-05 (unit dose cups of 5 mL, 10 × 10's), NDC 0121-0504-10 (unit dose cups of 10 mL, 10 × 10's), NDC 0121-0504-12 (unit dose cups of 12.5 mL, 10 × 10's), and NDC 0121-0504-15 (unit dose cups of 15 mL, 10 × 10's).
+Acetaminophen and Codeine Phosphate Oral Solution USP (orange-yellow color, cherry flavor) is supplied in the following oral dosage forms:
 
-## STORAGE
+NDC 0121-0504-04: 4 fl oz (118 mL) bottle
 
-Keep tightly closed.
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
-Protect from light.
+NDC 0121-0504-16: 16 fl oz (473 mL) bottle
+
+NDC 0121-0504-05: 5 mL unit dose cup
+
+NDC 0121-0504-00: Case contains 100 unit dose cups of 5 mL (0121-0504-05) packaged in 10 trays of 10 unit dose cups each.
+
+NDC 0121-1008-12: 12.5 mL unit dose cup
+
+NDC 0121-1008-00: Case contains 100 unit dose cups of 12.5 mL (0121-1008-12) packaged in 10 trays of 10 unit dose cups each.
