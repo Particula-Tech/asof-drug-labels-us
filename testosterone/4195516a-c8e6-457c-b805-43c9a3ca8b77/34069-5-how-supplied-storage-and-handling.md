@@ -17,6 +17,6 @@ Manufactured By PharmaForce, Inc. Hilliard, OH 43026
 
 Manufactured For Perrigo® Minneapolis, MN 55427
 
-9Z800 RC J7
+9Z800 RC J8
 
-Rev 09-16 F
+Rev 12-16 G

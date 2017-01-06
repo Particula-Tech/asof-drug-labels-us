@@ -30,7 +30,7 @@ Gynecomastia may develop and occasionally persists in patients being treated for
 
 The preservative benzyl alcohol has been associated with serious adverse events, including the "gasping syndrome", and death in pediatric patients.
 Although normal therapeutic doses of this product ordinarily deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
-The risk of benzyl alcohol toxicity depends on the quantity administered and the hepatic capacity to detoxify the chemical.
+The risk of benzyl alcohol toxicity depends on the quantity administered and the liver and kidneys’ capacity to detoxify the chemical.
 Premature and low-birth weight infants may be more likely to develop toxicity.
 
 Androgen therapy should be used cautiously in healthy males with delayed puberty.
