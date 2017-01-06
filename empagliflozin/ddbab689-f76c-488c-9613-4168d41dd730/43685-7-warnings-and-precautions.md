@@ -31,12 +31,21 @@ In some but not all cases, factors predisposing to ketoacidosis such as insulin 
 Before initiating GLYXAMBI, consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
 In patients treated with GLYXAMBI consider monitoring for ketoacidosis and temporarily discontinuing GLYXAMBI in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
 
-## 5.4 Impairment in Renal Function
+## 5.4 Acute Kidney Injury and Impairment in Renal Function
+
+Empagliflozin causes intravascular volume contraction [see Warnings and Precautions (5.1)] and can cause renal impairment [see Adverse Reactions (6.1)].
+There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving SGLT2 inhibitors, including empagliflozin; some reports involved patients younger than 65 years of age.
+
+Before initiating GLYXAMBI, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
+Consider temporarily discontinuing GLYXAMBI in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
+If acute kidney injury occurs, discontinue GLYXAMBI promptly and institute treatment.
 
 Empagliflozin increases serum creatinine and decreases eGFR.
-The risk of impaired renal function with empagliflozin is increased in elderly patients and patients with moderate renal impairment.
-More frequent monitoring of renal function is recommended in these patients [see Use in Specific Populations (8.5, 8.6)].
-Renal function should be evaluated prior to initiating GLYXAMBI and periodically thereafter.
+Patients with hypovolemia may be more susceptible to these changes.
+Renal function abnormalities can occur after initiating GLYXAMBI [see Adverse Reactions (6.1)].
+Renal function should be evaluated prior to initiation of GLYXAMBI and monitored periodically thereafter.
+More frequent renal function monitoring is recommended in patients with an eGFR below 60 mL/min/1.73 m2.
+Use of GLYXAMBI is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Use in Specific Populations (8.6)].
 
 ## 5.5 Urosepsis and Pyelonephritis
 
@@ -79,6 +88,13 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.11 Macrovascular Outcomes
+## 5.11 Bullous Pemphigoid
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with GLYXAMBI or any other antidiabetic drug.
+Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
+In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
+Tell patients to report development of blisters or erosions while receiving GLYXAMBI.
+If bullous pemphigoid is suspected, GLYXAMBI should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
+
+## 5.12 Macrovascular Outcomes
+
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with GLYXAMBI.

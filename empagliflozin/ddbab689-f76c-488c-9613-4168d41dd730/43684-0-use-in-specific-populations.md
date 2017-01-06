@@ -2,33 +2,56 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C GLYXAMBI There are no adequate and well-controlled studies in pregnant women with GLYXAMBI or its individual components.
-GLYXAMBI should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Risk Summary Based on animal data showing adverse renal effects, from empagliflozin, GLYXAMBI is not recommended during the second and third trimesters of pregnancy.
 
-Animal Data The combined components administered during the period of organogenesis were not teratogenic in rats up to and including a combined dose of 700 mg/kg/day empagliflozin and 140 mg/kg/day linagliptin, which is 253 and 353 times the clinical exposure.
-Maternal effects were limited to dose-related reduced body weight gain and concomitant reduced food consumption in pregnant rats administered a combination of ≥300 mg/kg/day empagliflozin and 60 mg/kg/day linagliptin which is 99 and 227 times the clinical exposure.
+The limited available data with GLYXAMBI, linagliptin, or empagliflozin in pregnant women are not sufficient to determine a drug-associated risk for major birth defects and miscarriage.
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
+
+In animal studies, adverse renal changes were observed in rats when empagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy.
+Doses approximately 13-times the maximum clinical dose caused renal pelvic and tubule dilatations that were reversible.
+No adverse developmental effects were observed when the combination of linagliptin and empagliflozin was administered to pregnant rats during the period of organogenesis at exposures approximately 253 and 353 times the clinical exposure (see Data).
+
+The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20-25% in women with HbA1c >10.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+Clinical Considerations Disease-associated maternal and/or embryo/fetal risk: Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, still birth and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
+
+Data Animal Data The combined components administered during the period of organogenesis were not teratogenic in rats up to and including a combined dose of 700 mg/kg/day empagliflozin and 140 mg/kg/day linagliptin, which is 253 and 353 times the clinical exposure.
 A pre- and post-natal development study was not conducted with the combined components of GLYXAMBI.
 
-Empagliflozin Based on results from animal studies, empagliflozin may affect renal development and maturation.
-In studies conducted in rats, empagliflozin crosses the placenta and reaches fetal tissues.
-During pregnancy, consider appropriate alternative therapies, especially during the second and third trimesters.
+Empagliflozin: Empagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 1, 10, 30 and 100 mg/kg/day caused increased kidney weights and renal tubular and pelvic dilatation at 100 mg/kg/day, which approximates 13-times the maximum clinical dose of 25 mg, based on AUC.
+These findings were not observed after a 13 week drug-free recovery period.
+These outcomes occurred with drug exposure during periods of renal development in rats that correspond to the late second and third trimester of human renal development.
+
+In embryo-fetal development studies in rats and rabbits, empagliflozin was administered for intervals coinciding with the first trimester period of organogenesis in humans.
+Doses up to 300 mg/kg/day, which approximates 48-times (rats) and 128-times (rabbits) the maximum clinical dose of 25 mg (based on AUC), did not result in adverse developmental effects.
+In rats, at higher doses of empagliflozin causing maternal toxicity, malformations of limb bones increased in fetuses at 700 mg/kg/day or 154-times the 25 mg maximum clinical dose.
+Empagliflozin crosses the placenta and reaches fetal tissues in rats.
+In the rabbit, higher doses of empagliflozin resulted in maternal and fetal toxicity at 700 mg/kg/day, or 139-times the 25 mg maximum clinical dose.
 
 In pre- and postnatal development studies in pregnant rats, empagliflozin was administered from gestation day 6 through to lactation day 20 (weaning) at up to 100 mg/kg/day (approximately 16 times the 25 mg maximum clinical dose) without maternal toxicity.
 Reduced body weight was observed in the offspring at greater than or equal to 30 mg/kg/day (approximately 4 times the 25 mg maximum clinical dose).
 
-Linagliptin No functional, behavioral, or reproductive toxicity was observed in offspring of female Wistar Han rats when administered linagliptin from gestation day 6 to lactation day 21 at a dose 49 times the maximum recommended human dose, based on exposure.
+Linagliptin: No adverse developmental outcome was observed when linagliptin was administered to pregnant Wistar Han rats and Himalayan rabbits during the period of organogenesis at doses up to 240 mg/kg/day and 150 mg/kg/day, respectively.
+These doses represent approximately 943 times (rats) and 1943 times (rabbits) the 5 mg maximum clinical dose, based on exposure.
+No adverse functional, behavioral, or reproductive outcome was observed in offspring following administration of linagliptin to Wistar Han rats from gestation day 6 to lactation day 21 at a dose 49 times the maximum recommended human dose, based on exposure.
 
 Linagliptin crosses the placenta into the fetus following oral dosing in pregnant rats and rabbits.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-No studies in lactating animals have been conducted with the combined components of GLYXAMBI.
-
-Available animal data have shown excretion of empagliflozin and linagliptin in milk.
-It is not known whether empagliflozin and linagliptin are excreted in human milk.
-Empagliflozin is secreted in the milk of lactating rats reaching levels up to 5 times higher than that in maternal plasma.
+Risk Summary There is no information regarding the presence of GLYXAMBI, or its individual components in human milk, the effects on the breastfed infant, or the effects on milk production.
+Empagliflozin and linagliptin are present in rat milk (see Data).
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from empagliflozin, a decision should be made whether to discontinue nursing or to discontinue GLYXAMBI, taking into account the importance of the drug to the mother.
+
+Because of the potential for serious adverse reactions, including the potential for empagliflozin to affect postnatal renal development, in a breastfed infant, advise patients that use of GLYXAMBI is not recommended while breastfeeding.
+
+Data Empagliflozin was present at a low level in rat fetal tissues after a single oral dose to the dams at gestation day 18.
+In rat milk, the mean milk to plasma ratio ranged from 0.634 -5, and was greater than one from 2 to 24 hours post-dose.
+The mean maximal milk to plasma ratio of 5 occurred at 8 hours post-dose, suggesting accumulation of empagliflozin in the milk.
+Juvenile rats directly exposed to empagliflozin showed a risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.
 
 ## 8.4 Pediatric Use
 

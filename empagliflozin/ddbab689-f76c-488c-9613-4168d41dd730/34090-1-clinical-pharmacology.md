@@ -126,7 +126,7 @@ Empagliflozin is a substrate of the human uptake transporters OAT3, OATP1B1, and
 Empagliflozin does not inhibit any of these human uptake transporters at clinically relevant plasma concentrations and, therefore, no effect of empagliflozin is anticipated on concomitantly administered drugs that are substrates of these uptake transporters.
 
 In vivo Assessment of Drug Interactions No dose adjustment of empagliflozin is recommended when coadministered with commonly prescribed medicinal products based on results of the described pharmacokinetic studies.
-Empagliflozin pharmacokinetics were similar with and without coadministration of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, simvastatin, hydrochlorothiazide, and torasemide in healthy volunteers (see Figure 1).
+Empagliflozin pharmacokinetics were similar with and without coadministration of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, and simvastatin in healthy volunteers and with or without coadministration of hydrochlorothiazide and torsemide in patients with type 2 diabetes (see Figure 1).
 The observed increases in overall exposure (AUC) of empagliflozin following coadministration with gemfibrozil, rifampicin, or probenecid are not clinically relevant.
 In subjects with normal renal function, coadministration of empagliflozin with probenecid resulted in a 30% decrease in the fraction of empagliflozin excreted in urine without any effect on 24-hour urinary glucose excretion.
 The relevance of this observation to patients with renal impairment is unknown.

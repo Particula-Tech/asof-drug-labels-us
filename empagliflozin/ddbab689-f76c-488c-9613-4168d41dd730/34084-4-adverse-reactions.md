@@ -30,9 +30,7 @@ Other adverse reactions reported in clinical studies with treatment of linaglipt
 In the clinical trial program, pancreatitis was reported in 15.2 cases per 10,000 patient year exposure while being treated with linagliptin compared with 3.7 cases per 10,000 patient year exposure while being treated with comparator (placebo and active comparator, sulfonylurea).
 Three additional cases of pancreatitis were reported following the last administered dose of linagliptin.
 
-Hypoglycemia
-
-Table 2 summarizes the reports of hypoglycemia with empagliflozin and linagliptin over a treatment period of 52 weeks.
+Hypoglycemia Table 2 summarizes the reports of hypoglycemia with empagliflozin and linagliptin over a treatment period of 52 weeks.
 
 Table 2 Incidence of Overalla and Severeb Hypoglycemic Adverse Reactions
 
@@ -64,5 +62,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Urosepsis and pyelonephritis [see Warnings and Precautions (5.5)]
 - Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see Warnings and Precautions (5.8)]
 - Severe and disabling arthralgia [see Warnings and Precautions (5.10)]
+- Bullous pemphigoid [see Warnings and Precautions (5.11)]
 - Rash
 - Mouth ulceration, stomatitis

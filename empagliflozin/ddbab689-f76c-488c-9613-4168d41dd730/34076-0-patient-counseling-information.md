@@ -13,12 +13,10 @@ Instruct patients to take GLYXAMBI only as prescribed.
 If a dose is missed, it should be taken as soon as the patient remembers.
 Advise patients not to double their next dose.
 
-Inform female patients of child bearing age that the use of GLYXAMBI during pregnancy has not been studied in humans, and that GLYXAMBI should only be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Based on animal data, empagliflozin may cause fetal harm in the second and third trimesters.
-Instruct patients to report pregnancies to their physicians as soon as possible.
+Advise pregnant women, and females of reproductive potential of the potential risk to a fetus with treatment with GLYXAMBI [see Use in Specific Populations (8.1)].
+Instruct females of reproductive potential to report pregnancies to their physicians as soon as possible.
 
-Inform nursing mothers to discontinue GLYXAMBI or nursing, taking into account the importance of the drug to the mother.
-It is not known if empagliflozin or linagliptin is excreted in breast milk; however, based on animal data, empagliflozin may cause harm to nursing infants.
+Advise women that breastfeeding is not recommended during treatment with GLYXAMBI [see Use in Specific Populations (8.2)].
 
 Pancreatitis Inform patients that acute pancreatitis has been reported during postmarketing use of linagliptin.
 Inform patients that persistent severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
@@ -37,6 +35,9 @@ Cases of ketoacidosis have been reported during use of empagliflozin.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
 If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue GLYXAMBI and seek medical advice immediately [see Warnings and Precautions (5.3)].
 
+Acute Kidney Injury Inform patients that acute kidney injury has been reported during use of empagliflozin.
+Advise patients to seek medical advice immediately if they have reduced oral intake (such as due to acute illness or fasting) or increased fluid losses (such as due to vomiting, diarrhea, or excessive heat exposure), as it may be appropriate to temporarily discontinue GLYXAMBI use in those settings [see Warnings and Precautions (5.4)].
+
 Serious Urinary Tract Infections Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.5)].
@@ -51,6 +52,9 @@ Advise them of treatment options and when to seek medical advice [see Warnings a
 Severe and Disabling Arthralgia Inform patients that severe and disabling joint pain may occur with this class of drugs.
 The time to onset of symptoms can range from one day to years.
 Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.10)].
+
+Bullous Pemphigoid Inform patients that bullous pemphigoid may occur with this class of drugs.
+Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.11)].
 
 Laboratory Tests Inform patients that renal function should be assessed prior to initiation of GLYXAMBI and monitored periodically thereafter.
 
