@@ -24,9 +24,9 @@ The risk of dependence increases with increasing dose and duration of treatment.
 The risk of dependence is increased in patients with a history of alcohol or drug abuse.
 
 Withdrawal Abrupt discontinuation of ONFI causes withdrawal symptoms.
-As with other benzodiazepines, ONFI should be withdrawn gradually [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+As with other benzodiazepines, ONFI should be withdrawn gradually [see Dosage and Administration (2.2), Warnings and Precautions (5.4)].
 
-In ONFI clinical pharmacology trials in healthy volunteers, the most common withdrawal symptoms after abrupt discontinuation were headache, tremor, insomnia, anxiety, irritability, drug withdrawal syndrome, palpitations, and diarrhea [see Warnings and Precautions (5.3)].
+In ONFI clinical pharmacology trials in healthy volunteers, the most common withdrawal symptoms after abrupt discontinuation were headache, tremor, insomnia, anxiety, irritability, drug withdrawal syndrome, palpitations, and diarrhea [see Warnings and Precautions (5.4)].
 
 Other withdrawal reactions to clobazam reported in the literature include restlessness, panic attacks, profuse sweating, difficulty in concentrating, nausea and dry retching, weight loss, blurred vision, photophobia, and muscle pain and stiffness.
-In general, benzodiazepine withdrawal may cause seizures, psychosis, and hallucinations [see Warnings and Precautions (5.3)].
+In general, benzodiazepine withdrawal may cause seizures, psychosis, and hallucinations [see Warnings and Precautions (5.4)].

@@ -17,7 +17,7 @@ The melting range of clobazam is from 182ºC to 185ºC.
 The molecular formula is C16H13O2N2Cl and the molecular weight is 300.7.
 
 Each ONFI tablet contains 10 mg or 20 mg of clobazam.
-Tablets also contain as inactive ingredients: corn starch, lactose monohydrate, magnesium stearate, silicon dioxide, and talc.
+Tablets also contain as inactive ingredients: modified corn starch, lactose monohydrate, magnesium stearate, silicon dioxide, and talc.
 
 ONFI is also available for oral administration as an off-white suspension containing clobazam at a concentration of 2.5 mg/mL.
 Inactive ingredients include magnesium aluminum silicate, xanthan gum, citric acid monohydrate, disodium hydrogen phosphate dihydrate, simethicone emulsion, polysorbate 80, methylparaben, propylparaben, propylene glycol, sucralose, maltitol solution, berry flavor, purified water.

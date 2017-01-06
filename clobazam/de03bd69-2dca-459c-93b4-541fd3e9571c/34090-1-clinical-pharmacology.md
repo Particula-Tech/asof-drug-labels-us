@@ -6,7 +6,7 @@ The exact mechanism of action for clobazam, a 1,5-benzodiazepine, is not fully u
 
 ## 12.2 Pharmacodynamics
 
-Effects on Electrocardiogram The effect of ONFI 20 mg and 80 mg administered twice daily on QTc interval was evaluated in a randomized, evaluator blinded, placebo-, and active-controlled (moxifloxacin 400 mg) parallel thorough QT study in 280 healthy subjects.
+Effects on Electrocardiogram The effect of ONFI 20 mg and 80 mg administered twice daily on QTc interval was evaluated in a randomized, evaluator-blinded, placebo-, and active-controlled (moxifloxacin 400 mg) parallel thorough QT study in 280 healthy subjects.
 In a study with demonstrated ability to detect small effects, the upper bound of the one-sided 95% confidence interval for the largest placebo adjusted, baseline-corrected QTc based on the Fridericia correction method was below 10 ms, the threshold for regulatory concern.
 Thus, at a dose two times the maximum recommended dose, ONFI did not prolong the QTc interval to any clinically relevant extent.
 
@@ -76,7 +76,7 @@ Drugs metabolized by CYP2D6 may require dose adjustment when used with ONFI.
 
 Clobazam decreased the AUC and Cmax of midazolam by 27% and 24%, respectively, and increased the AUC and Cmax of the metabolite 1-hydroxymidazolam by 4-fold and 2-fold, respectively.
 This level of induction does not call for dosage adjustment of drugs that are primarily metabolized by CYP3A4 when used concomitantly with ONFI.
-Some hormonal contraceptives are metabolized by CYP3A4 and their effectiveness may be diminished when given with ONFI [see Drug Interactions (7.1)].
+Some hormonal contraceptives are metabolized by CYP3A4 and their effectiveness may be diminished when given with ONFI [see Drug Interactions (7.3)].
 Repeated ONFI doses had no effect on caffeine and tolbutamide.
 
 A population pharmacokinetic analysis indicated clobazam did not affect the exposure of valproic acid (a CYP2C9/2C19 substrate) or lamotrigine (a UGT substrate).
@@ -85,13 +85,13 @@ Potential for Other Drugs to Affect ONFI Co-administration of ketoconazole (a st
 There was no significant change in AUC and Cmax of N-desmethylclobazam (N=18).
 
 Strong (e.g., fluconazole, fluvoxamine, ticlopidine) and moderate (e.g., omeprazole) inhibitors of CYP2C19 may result in up to a 5-fold increase in exposure to N-desmethylclobazam, the active metabolite of clobazam, based on extrapolation from pharmacogenomic data [see Clinical Pharmacology (12.5)].
-Dosage adjustment of ONFI may be necessary when co-administered with strong or moderate CYP2C19 inhibitors [see Drug Interactions (7.2)].
+Dosage adjustment of ONFI may be necessary when co-administered with strong or moderate CYP2C19 inhibitors [see Drug Interactions (7.4)].
 
-The effects of concomitant antiepileptic drugs that are CYP3A4 inducers (phenobarbital, phenytoin, and carbamazepine), CYP2C9 inducers (valproic acid, phenobarbital, phenytoin, and carbamazepine), and CYP2C9 inhibitors (felbamate and oxcarbazepine) were evaluated using data from clinical trials.
+The effects of concomitant antiepileptic drugs that are CYP3A4 inducers (phenobarbital, phenytoin, and carbamazepine), CYP2C19 inducers (valproic acid, phenobarbital, phenytoin, and carbamazepine), and CYP2C19 inhibitors (felbamate and oxcarbazepine) were evaluated using data from clinical trials.
 Results of population pharmacokinetic analysis show that these concomitant antiepileptic drugs did not significantly alter the pharmacokinetics of clobazam or N-desmethylclobazam at steady-state.
 
 Alcohol has been reported to increase the maximum plasma exposure of clobazam by approximately 50%.
-Alcohol may have additive CNS depressant effects when taken with ONFI [see Warnings and Precautions (5.2), Drug Interactions (7.3)].
+Alcohol may have additive CNS depressant effects when taken with ONFI [see Warnings and Precautions (5.2), Drug Interactions (7.2)].
 
 ## 12.5 Pharmacogenomics
 

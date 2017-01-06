@@ -1,6 +1,19 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Somnolence or Sedation
+## 5.1 Risks from Concomitant Use with Opioids
+
+Concomitant use of benzodiazepines, including ONFI, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe ONFI concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+Advise both patients and caregivers about the risks of respiratory depression and sedation when ONFI is used with opioids [see Drug Interactions (7.1)].
+
+## 5.2 Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants
+
+Since ONFI has a central nervous system (CNS) depressant effect, patients or their caregivers should be cautioned against simultaneous use with other CNS depressant drugs or alcohol, and cautioned that the effects of other CNS depressant drugs or alcohol may be potentiated [see Drug Interactions (7.2)].
+
+## 5.3 Somnolence or Sedation
 
 ONFI causes somnolence and sedation.
 In clinical trials, somnolence or sedation was reported at all effective doses and was dose-related.
@@ -9,11 +22,7 @@ In general, somnolence and sedation begin within the first month of treatment an
 Prescribers should monitor patients for somnolence and sedation, particularly with concomitant use of other central nervous system depressants.
 Prescribers should caution patients against engaging in hazardous activities requiring mental alertness, such as operating dangerous machinery or motor vehicles, until the effect of ONFI is known.
 
-## 5.2 Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants
-
-Since ONFI has a central nervous system (CNS) depressant effect, patients or their caregivers should be cautioned against simultaneous use with other CNS depressant drugs or alcohol, and cautioned that the effects of other CNS depressant drugs or alcohol may be potentiated.
-
-## 5.3 Withdrawal Symptoms
+## 5.4 Withdrawal Symptoms
 
 Abrupt discontinuation of ONFI should be avoided.
 ONFI should be tapered by decreasing the dose every week by 5-10 mg/day until discontinuation [see Dosage and Administration (2.2)].
@@ -26,25 +35,25 @@ Withdrawal symptoms (e.g., convulsions, psychosis, hallucinations, behavioral di
 The more severe withdrawal symptoms have usually been limited to patients who received excessive doses over an extended period of time, followed by an abrupt discontinuation.
 Generally milder withdrawal symptoms (e.g., dysphoria, anxiety, and insomnia) have been reported following abrupt discontinuance of benzodiazepines taken continuously at therapeutic doses for several months.
 
-## 5.4 Serious Dermatological Reactions
+## 5.5 Serious Dermatological Reactions
 
 Serious skin reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported with ONFI in both children and adults during the post-marketing period.
 Patients should be closely monitored for signs or symptoms of SJS/TEN, especially during the first 8 weeks of treatment initiation or when re-introducing therapy.
 ONFI should be discontinued at the first sign of rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered [see Contraindications (4)].
 
-## 5.5 Physical and Psychological Dependence
+## 5.6 Physical and Psychological Dependence
 
 Patients with a history of substance abuse should be under careful surveillance when receiving ONFI or other psychotropic agents because of the predisposition of such patients to habituation and dependence [see Drug Abuse and Dependence (9)].
 
-## 5.6 Suicidal Behavior and Ideation
+## 5.7 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including ONFI, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted relative risk 1.8, 95% confidence interval [CI]: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
-In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED treated patients was 0.43%, compared to 0.24% among 16,029 placebo treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
-There were four suicides in drug treated patients in the trials and none in placebo treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
+There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
 The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
 Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.

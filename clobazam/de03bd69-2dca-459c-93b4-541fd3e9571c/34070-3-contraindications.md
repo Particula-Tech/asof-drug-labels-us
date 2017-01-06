@@ -1,4 +1,4 @@
 # 4 CONTRAINDICATIONS
 
 ONFI is contraindicated in patients with a history of hypersensitivity to the drug or its ingredients.
-Hypersensitivity reactions have included serious dermatological reactions [see Warnings and Precautions (5.4)].
+Hypersensitivity reactions have included serious dermatological reactions [see Warnings and Precautions (5.5)].

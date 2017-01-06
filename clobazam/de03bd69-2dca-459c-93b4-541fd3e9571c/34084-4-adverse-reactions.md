@@ -2,12 +2,13 @@
 
 Clinically significant adverse reactions that appear in other sections of the labeling include the following:
 
-- Somnolence or Sedation [see Warnings and Precautions (5.1)]
+- Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
 - Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants [see Warnings and Precautions (5.2)]
-- Withdrawal Symptoms [see Warnings and Precautions (5.3)]
-- Serious Dermatological Reactions [see Contraindications (4), Warnings and Precautions (5.4)]
-- Physical and Psychological Dependence [see Warnings and Precautions (5.5)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
+- Somnolence or Sedation [see Warnings and Precautions (5.3)]
+- Withdrawal Symptoms [see Warnings and Precautions (5.4)]
+- Serious Dermatological Reactions [see Contraindications (4), Warnings and Precautions (5.5)]
+- Physical and Psychological Dependence [see Warnings and Precautions (5.6)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -19,7 +20,7 @@ Only Study 1 included a placebo group, allowing comparison of adverse reaction r
 
 Adverse Reactions Leading to Discontinuation in an LGS Placebo Controlled Clinical Trial (Study 1) The adverse reactions associated with ONFI treatment discontinuation in ≥1% of patients in decreasing order of frequency included lethargy, somnolence, ataxia, aggression, fatigue, and insomnia.
 
-Most Common Adverse Reactions in an LGS Placebo Controlled Clinical Trial (Study 1) Table 3 lists the adverse reactions that occurred in ≥5% of ONFI treated patients (at any dose), and at a rate greater than placebo treated patients, in the randomized, double-blind, placebo-controlled, parallel group clinical study of adjunctive AED therapy for 15 weeks (Study 1).
+Most Common Adverse Reactions in an LGS Placebo Controlled Clinical Trial (Study 1) Table 3 lists the adverse reactions that occurred in ≥5% of ONFI-treated patients (at any dose), and at a rate greater than placebo-treated patients, in the randomized, double-blind, placebo-controlled, parallel group clinical study of adjunctive AED therapy for 15 weeks (Study 1).
 
 Table 3.
 Adverse Reactions Reported for ≥5% of Patients and More Frequently than Placebo in Any Treatment Group
