@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022524"
+  ],
+  "inn": "ondansetron",
+  "labeler": "Midatech Pharma US, Inc.",
+  "package_ndcs": [
+    "89141-444-01",
+    "89141-444-30",
+    "89141-448-01",
+    "89141-448-30"
+  ],
+  "products": [
+    {
+      "form": "FILM",
+      "generic": "ondansetron",
+      "name": "ZUPLENZ"
+    }
+  ],
+  "setid": "0b1dab95-b64b-4133-bcad-a65b332ab320",
+  "source": "dailymed"
+}
