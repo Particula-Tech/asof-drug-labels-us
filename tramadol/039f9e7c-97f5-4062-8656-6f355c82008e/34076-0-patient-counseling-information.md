@@ -33,8 +33,8 @@ Inform patients that ULTRAM ER may cause seizures with concomitant use of seroto
 
 MAOI Interaction
 
-1. Inform patients not to take ULTRAM ER while using any drugs that inhibit monoamine oxidase.
-   Patients should not start MAOIs while taking ULTRAM ER [see Drug Interactions (7)].
+- Inform patients not to take ULTRAM ER while using any drugs that inhibit monoamine oxidase.
+  Patients should not start MAOIs while taking ULTRAM ER [see Drug Interactions (7)].
 
 Adrenal Insufficiency
 

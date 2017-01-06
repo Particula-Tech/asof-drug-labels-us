@@ -1,6 +1,6 @@
 # Medication Guide
 
-ULTRAM ER (uhl-tram)([tramadol hydrochloride extended-release tablets]),CIV
+ULTRAM ER (uhl-tram)([tramadol hydrochloride extended-release tablets]), CIV
 
 ULTRAM ER is:
 
@@ -35,7 +35,8 @@ Tell your healthcare provider if you are:
 - •pregnant or planning to become pregnant.
   Prolonged use of ULTRAM ER during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
 - •breastfeeding.
-  Not recommended during treatment with ULTRAM ER.It may harm your baby.
+  Not recommended during treatment with ULTRAM ER.
+  It may harm your baby.
 
 taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
 Taking ULTRAM ER with certain other medicines can cause serious side effects that could lead to death.
@@ -54,7 +55,7 @@ When taking ULTRAM ER:
 - •Do not stop taking ULTRAM ER without talking to your healthcare provider.
 - •After you stop taking ULTRAM ER, dispose the unused ULTRAM ER in accordance with the local state guidelines and/or regulations.
 
-While taking ULTRAM ERDO NOT:
+While taking ULTRAM ER DO NOT:
 
 - •Drive or operate heavy machinery, until you know how ULTRAM ER affects you.
   ULTRAM ER can make you sleepy, dizzy, or lightheaded.
@@ -77,5 +78,5 @@ For more information go to dailymed.nlm.nih.gov or call1-800-321-4576.
 
 Manufactured by:Valeant Pharmaceuticals International, Inc., Steinbach, MB, R5G 1Z7, Canada and Distributed by: Janssen Pharmaceuticals, Inc., Titusville, NJ 08560 www.valeant.com
 
-1. This Medication Guide has been approved by the U.S. Food and Drug Administration.
-   Issued: 12/2016
+- This Medication Guide has been approved by the U.S. Food and Drug Administration.
+  Issued: 12/2016

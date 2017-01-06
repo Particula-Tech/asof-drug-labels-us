@@ -3,10 +3,10 @@
 Clinical Trial Experience
 
 ULTRAM ER was studied in patients with chronic, moderate to moderately severe pain due to osteoarthritis and/or low back pain in four 12‑week, randomized, double-blind, placebo-controlled trials.
-To qualify for inclusion into these studies, patients were required to have moderate to moderately severe pain as defined by a pain intensity score of 40 mm, off previous medications, on a 0 to 100 mm visual analog scale (VAS).
+To qualify for inclusion into these studies, patients were required to have moderate to moderately severe pain as defined by a pain intensity score of ≥40 mm, off previous medications, on a 0 to 100 mm visual analog scale (VAS).
 Adequate evidence of efficacy was demonstrated in the following two studies:
 
-1. Study 1: Osteoarthritis of the Knee and/or Hip
+- Study 1: Osteoarthritis of the Knee and/or Hip
 
 In one 12-week randomized, double-blind, placebo-controlled study, patients with moderate to moderately severe pain due to osteoarthritis of the knee and/or hip were administered doses from 100 mg to 400 mg daily.
 Treatment was initiated at 100 mg QD for four days then increased by 100 mg per day increments every five days to the randomized fixed dose.

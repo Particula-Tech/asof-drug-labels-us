@@ -115,7 +115,8 @@ In tramadol overdose, naloxone administration may increase the risk of seizure.
 ## 5.8 Suicide Risk
 
 - •Do not prescribe ULTRAM ER for patients who are suicidal or addiction-prone.
-  Consideration should be givento the use of non-narcotic analgesics in patients who are suicidal or depressed.[see Drug Abuse and Dependence (9.2)]
+  Consideration should be given to the use of non-narcotic analgesics in patients who are suicidal or depressed.
+  [see Drug Abuse and Dependence (9.2)]
 - •Prescribe ULTRAM ER with caution for patients with a history of misuse and/or are currently taking CNS-active drugs including tranquilizers, or antidepressant drugs, or alcohol in excess, and patients who suffer from emotional disturbance or depression [see Drug Interactions (7)].
 - •Inform patients not to exceed the recommended dose and to limit their intake of alcohol [see Dosage and Administration (2.1), Warnings and Precautions (5.5, 5.6, 5.12)].
 

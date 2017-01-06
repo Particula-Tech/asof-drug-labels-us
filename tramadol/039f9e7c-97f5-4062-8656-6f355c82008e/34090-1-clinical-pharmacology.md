@@ -1,41 +1,5 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## Effects on the Gastrointestinal Tract and Other Smooth Muscle
-
-Tramadol causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
-Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
-Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
-
-## Effects on the Cardiovascular System
-
-Tramadol produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
-Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
-
-## Effects on the Endocrine System
-
-Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
-They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
-
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
-The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
-
-## Effects on the Immune System
-
-Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
-The clinical significance of these findings is unknown.
-Overall, the effects of opioids appear to be modestly immunosuppressive.
-
-## Concentration–Efficacy Relationships
-
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent opioid agonists.
-The minimum effective analgesic concentration of tramadol for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1)].
-
-## Concentration–Adverse Reaction Relationships
-
-There is a relationship between increasing tramadol plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2)].
-
 ## 12.1 Mechanism of Action
 
 ULTRAM ER contains tramadol, an opioid agonist and an inhibitor of reuptake of norepinephrine and serotonin.
@@ -134,9 +98,8 @@ AUC0-24: Area Under the Curve in a 24-hour dosing interval; Cmax: Peak Concentra
 
 Figure 2: Mean Steady-State Tramadol (a) and M1 (b) Plasma Concentrations on Day 8 Post Dose after Administration of 200 mg ULTRAM ER Once-Daily and 50 mg ULTRAM Every 6 Hours.
 
-1. a.Tramadol
-
-1. b.M1
+1. 1.Tramadol
+2. 2.M1
 
 Food Effects
 
