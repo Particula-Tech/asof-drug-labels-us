@@ -33,7 +33,7 @@ In animal models predictive of anxiolytic potential, 1-PP has about one quarter 
 However, this is probably not important in humans: blood samples from humans chronically exposed to buspirone hydrochloride tablets do not exhibit high levels of 1-PP; mean values are approximately 3 ng/mL and the highest human blood level recorded among 108 chronically dosed patients was 17 ng/mL, less than 1/200th of 1-PP levels found in animals given large doses of buspirone without signs of toxicity.
 
 In a single-dose study using 14C-labeled buspirone, 29% to 63% of the dose was excreted in the urine within 24 hours, primarily as metabolites; fecal excretion accounted for 18% to 38% of the dose.
-The average elimination half-life of unchanged buspirone after single doses of 10 to 40 mg is about 2 to 3 hours.
+The average elimination half-life of unchanged buspirone after single doses of 10 mg to 40 mg is about 2 to 3 hours.
 
 ## Special Populations
 

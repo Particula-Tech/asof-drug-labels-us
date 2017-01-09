@@ -4,13 +4,33 @@ The administration of buspirone hydrochloride tablets to a patient taking a mono
 There have been reports of the occurrence of elevated blood pressure when buspirone hydrochloride has been added to a regimen including an MAOI.
 Therefore, it is recommended that buspirone hydrochloride tablets not be used concomitantly with an MAOI.
 
+## Serotonin Syndrome
+
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs, SSRIs, and other serotonergic drugs, including buspirone, alone but particularly with concomitant use of other serotonergic drugs (including triptans), with drugs that impair metabolism of serotonin (in particular, MAOIs, including reversible MAOIs such as linezolid and intravenous methylene blue), or with antipsychotics or other dopamine antagonists.
+
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for emergence of serotonin syndrome.
+
+The concomitant use of buspirone with MAOIs intended to treat depression is contraindicated.
+Buspirone should also not be started in a patient who is being treated with reversible MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+There have been no reports involving the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with a reversible MAOI such as linezolid or intravenous methylene blue in a patient taking buspirone.
+Buspirone should be discontinued before initiating treatment with the reversible MAOI (see CONTRAINDICATIONS, DOSAGE AND ADMINISTRATION and DRUG INTERACTIONS).
+
+If concomitant use of buspirone with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+
+The concomitant use of buspirone with serotonin precursors (such as tryptophan) is not recommended.
+
+Treatment with buspirone and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+
 Because buspirone hydrochloride tablets has no established antipsychotic activity, it should not be employed in lieu of appropriate antipsychotic treatment.
 
 # PRECAUTIONS
 
 ## General
 
-### Interference With Cognitive and Motor Performance
+### Interference with Cognitive and Motor Performance
 
 Studies indicate that buspirone hydrochloride tablets is less sedating than other anxiolytics and that it does not produce significant functional impairment.
 However, its CNS effects in any individual patient may not be predictable.
@@ -38,12 +58,17 @@ See ADVERSE REACTIONS, Postmarketing Experience.
 
 To assure safe and effective use of buspirone hydrochloride tablets, the following information and instructions should be given to patients:
 
-1. 1.Inform your physician about any medications, prescription or non-prescription, alcohol, or drugs that you are now taking or plan to take during your treatment with buspirone hydrochloride tablets.
-2. 2.Inform your physician if you are pregnant, or if you are planning to become pregnant, or if you become pregnant while you are taking buspirone hydrochloride tablets.
-3. 3.Inform your physician if you are breastfeeding an infant.
-4. 4.Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery.
-5. 5.You should take buspirone hydrochloride tablets consistently, either always with or always without food.
-6. 6.During your treatment with buspirone hydrochloride tablets, avoid drinking large amounts of grapefruit juice.
+1. 1.Do not take a monoamine oxidase inhibitor (MAOI).
+   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+2. 
+3. 2.Do not take an MAOI within 2 weeks of stopping buspirone unless directed to do so by your physician.
+4. 3.Do not start buspirone if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
+5. 4.Inform your physician about any medications, prescription or non-prescription, alcohol, or drugs that you are now taking or plan to take during your treatment with buspirone hydrochloride tablets.
+6. 5.Inform your physician if you are pregnant, or if you are planning to become pregnant, or if you become pregnant while you are taking buspirone hydrochloride tablets.
+7. 6.Inform your physician if you are breastfeeding an infant.
+8. 7.Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery.
+9. 8.You should take buspirone hydrochloride tablets consistently, either always with or always without food.
+10. 9.During your treatment with buspirone hydrochloride tablets, avoid drinking large amounts of grapefruit juice.
 
 ## Laboratory Tests
 
@@ -55,7 +80,10 @@ There are no specific laboratory tests recommended.
 
 #### MAO inhibitors
 
-It is recommended that buspirone hydrochloride tablets not be used concomitantly with MAO inhibitors (see WARNINGS).
+The use of monoamine oxidase inhibitors (MAOIs) intended to treat depression with buspirone or within 14 days of stopping treatment with buspirone is contraindicated because of an increased risk of serotonin syndrome and/or elevated blood pressure.
+The use of buspirone within 14 days of stopping an MAOI intended to treat depression is also contraindicated.
+
+Starting buspirone in a patient who is being treated with reversible MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome (see WARNINGS, DOSAGE AND ADMINISTRATION AND CONCOMITANT DRUG).
 
 #### Amitriptyline
 
@@ -79,11 +107,11 @@ The clinical significance of this finding is not clear.
 There is one report suggesting that the concomitant use of trazodone hydrochloride and buspirone may have caused 3 to 6 fold elevations on SGPT (ALT) in a few patients.
 In a similar study attempting to replicate this finding, no interactive effect on hepatic transaminases was identified.
 
-#### Triazolam/flurazepam
+#### Triazolam/Flurazepam
 
 Coadministration of buspirone with either triazolam or flurazepam did not appear to prolong or intensify the sedative effects of either benzodiazepine.
 
-#### Other psychotropics
+#### Other Psychotropics
 
 Because the effects of concomitant administration of buspirone with most other psychotropic drugs have not been studied, the concomitant use of buspirone with other CNS-active drugs should be approached with caution.
 
@@ -92,7 +120,7 @@ Because the effects of concomitant administration of buspirone with most other p
 Buspirone has been shown in vitro to be metabolized by CYP3A4.
 This finding is consistent with the in vivo interactions observed between buspirone and the following:
 
-#### Diltiazem and verapamil
+#### Diltiazem and Verapamil
 
 In a study of nine healthy volunteers, coadministration of buspirone (10 mg as a single dose) with verapamil (80 mg t.i.d.) or diltiazem (60 mg t.i.d.) increased plasma buspirone concentrations (verapamil increased AUC and Cmax of buspirone 3.4 fold while diltiazem increased AUC and Cmax 5.5 fold and 4 fold, respectively).
 Adverse events attributable to buspirone may be more likely during concomitant administration with either diltiazem or verapamil.
@@ -105,7 +133,7 @@ These pharmacokinetic interactions were accompanied by an increased incidence of
 If the two drugs are to be used in combination, a low dose of buspirone (e.g., 2.5 mg b.i.d.) is recommended.
 Subsequent dose adjustment of either drug should be based on clinical assessment.
 
-#### Grapefruit juice
+#### Grapefruit Juice
 
 In a study in healthy volunteers, coadministration of buspirone (10 mg as a single dose) with grapefruit juice (200 mL double-strength t.i.d. for 2 days) increased plasma buspirone concentrations (4.3 fold increase in Cmax; 9.2 fold increase in AUC).
 Patients receiving buspirone should be advised to avoid drinking such large amounts of grapefruit juice.
@@ -131,7 +159,7 @@ Subsequent dose adjustment of either drug should be based on clinical assessment
 In a study in healthy volunteers, coadministration of buspirone (30 mg as a single dose) with rifampin (600 mg/day for 5 days) decreased the plasma concentrations (83.7% decrease in Cmax; 89.6% decrease in AUC) and pharmacodynamic effects of buspirone.
 If the two drugs are to be used in combination, the dosage of buspirone may need adjusting to maintain anxiolytic effect.
 
-#### Other inhibitors and inducers of CYP3A4
+#### Other Inhibitors and Inducers of CYP3A4
 
 Substances that inhibit CYP3A4, such as ketoconazole or ritonavir, may inhibit buspirone metabolism and increase plasma concentrations of buspirone while substances that induce CYP3A4, such as dexamethasone or certain anticonvulsants (phenytoin, phenobarbital, carbamazepine), may increase the rate of buspirone metabolism.
 If a patient has been titrated to a stable dosage on buspirone, a dose adjustment of buspirone may be necessary to avoid adverse events attributable to buspirone or diminished anxiolytic activity.
@@ -169,9 +197,9 @@ Chromosomal aberrations or abnormalities did not occur in bone marrow cells of m
 
 ## Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects
 
-#### Pregnancy Category B
+Pregnancy Category B
 
 No fertility impairment or fetal damage was observed in reproduction studies performed in rats and rabbits at buspirone doses of approximately 30 times the maximum recommended human dose.
 In humans, however, adequate and well-controlled studies during pregnancy have not been performed.
@@ -205,7 +233,7 @@ Review of spontaneously reported adverse clinical events has not identified diff
 
 There were no effects of age on the pharmacokinetics of buspirone (see CLINICAL PHARMACOLOGY, Special Populations).
 
-## Use in Patients With Impaired Hepatic or Renal Function
+## Use in Patients with Impaired Hepatic or Renal Function
 
 Buspirone is metabolized by the liver and excreted by the kidneys.
 A pharmacokinetic study in patients with impaired hepatic or renal function demonstrated increased plasma levels and a lengthened half-life of buspirone.
