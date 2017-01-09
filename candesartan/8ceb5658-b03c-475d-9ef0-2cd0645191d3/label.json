@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA203813"
+  ],
+  "inn": "candesartan",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-114-07",
+    "33342-114-12",
+    "33342-114-51",
+    "33342-115-07",
+    "33342-115-12",
+    "33342-115-51",
+    "33342-116-07",
+    "33342-116-10",
+    "33342-116-12",
+    "33342-116-51",
+    "33342-117-07",
+    "33342-117-10",
+    "33342-117-12",
+    "33342-117-51"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "candesartan",
+      "name": "Candesartan"
+    }
+  ],
+  "setid": "8ceb5658-b03c-475d-9ef0-2cd0645191d3",
+  "source": "dailymed"
+}
