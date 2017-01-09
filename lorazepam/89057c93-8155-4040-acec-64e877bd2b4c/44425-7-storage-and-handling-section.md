@@ -14,5 +14,7 @@ For: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 Ativan is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-9508101 70012151 Rev.
-9/16
+9508102 70012365
+
+Rev.
+12/16

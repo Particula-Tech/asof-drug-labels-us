@@ -117,8 +117,8 @@ For more information, call 1-800-321-4576.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-9508101
+9508102
 
-70012151
+70012365
 
-Issued: 9/16
+Issued: 12/16
