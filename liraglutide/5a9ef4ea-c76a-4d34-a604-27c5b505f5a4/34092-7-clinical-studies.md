@@ -57,7 +57,7 @@ The percentage of patients who discontinued due to ineffective therapy was 5.4% 
 
 Table 4 Results of a 26-week trial of VICTOZA as add-on to metforminIntent-to-treat population using last observation on study
 
-|  | VICTOZA 1.8 mg +Metformin | VICTOZA 1.2 mg +Metformin | Placebo + Metformin | Glimepiride 4 mgFor glimepiride, one-half of the maximal approved United States dose.+Metformin |
+|  | VICTOZA 1.8 mg +Metformin | VICTOZA 1.2 mg +Metformin | Placebo + Metformin | Glimepiride 4 mgFor glimepiride, one-half of the maximal approved United States dose. +Metformin |
 | --- | --- | --- | --- | --- |
 | Intent-to-Treat Population (N) | 242 | 240 | 121 | 242 |
 | HbA1c (%) (Mean) |  |  |  |  |
