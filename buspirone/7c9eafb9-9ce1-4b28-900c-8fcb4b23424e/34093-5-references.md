@@ -2,6 +2,8 @@
 
 1. 1.American Psychiatric Association, Ed.: Diagnostic and Statistical Manual of Mental Disorders - III, American Psychiatric Association, May 1980.
 
+The brands listed are trademarks of their respective owners.
+
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED OCTOBER 2015 BUSPAS:R14ppt
+Revised: 12/2016 BUSPAS:R15ppt
