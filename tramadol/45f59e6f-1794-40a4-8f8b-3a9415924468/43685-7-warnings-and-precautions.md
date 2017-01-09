@@ -271,7 +271,7 @@ Inform female patients of reproductive potential that ULTRAM may cause fetal har
 ### Lactation
 
 Advise nursing mothers to monitor infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
-Instruct nursing mothers to seek immediate medical care if they notice these signs (see PRECAUTIONS; Lactation).
+Instruct nursing mothers to seek immediate medical care if they notice these signs (see PRECAUTIONS; Nursing Mothers).
 
 ### Infertility
 
