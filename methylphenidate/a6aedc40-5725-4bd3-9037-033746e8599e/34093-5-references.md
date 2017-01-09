@@ -13,8 +13,8 @@ Marketed by UCB, Inc. Smyrna, GA 30080
 Made in USA
 
 Rev.
-02/2015
+10/2016
 
 METADATE CD is a registered trademark of the UCB Group of companies
 
-©2015, UCB, Inc., Smyrna, GA 30080 All rights reserved.
+©2016, UCB, Inc., Smyrna, GA 30080 All rights reserved.

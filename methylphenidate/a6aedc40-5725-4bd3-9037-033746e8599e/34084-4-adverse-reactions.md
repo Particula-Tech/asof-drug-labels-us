@@ -45,7 +45,7 @@ Nervousness and insomnia are the most common adverse reactions reported with oth
 Other reactions include hypersensitivity (including skin rash, urticaria, fever, arthralgia, exfoliative dermatitis, erythema multiforme with histopathological findings of necrotizing vasculitis, and thrombocytopenic purpura); anorexia; nausea; dizziness; palpitations; headache; dyskinesia; drowsiness; blood pressure and pulse changes, both up and down; tachycardia; angina; cardiac arrhythmia; abdominal pain; weight loss during prolonged therapy.
 There have been rare reports of Tourette's Syndrome and obsessive-compulsive disorder.
 Toxic psychosis has been reported.
-Although a definite causal relationship has not been established, the following have been reported in patients taking this drug: instances of abnormal liver function, ranging from transaminase elevation to hepatic coma; isolated cases of cerebral arteritis and/or occlusion; leucopenia and/or anemia; transient depressed mood; a few instances of scalp hair loss.
+Although a definite causal relationship has not been established, the following have been reported in patients taking this drug: instances of abnormal liver function, ranging from transaminase elevation to severe hepatic injury; isolated cases of cerebral arteritis and/or occlusion; leucopenia and/or anemia; transient depressed mood; a few instances of scalp hair loss.
 Very rare reports of neuroleptic malignant syndrome (NMS) have been reported, and, in most of these, patients were concurrently receiving therapies associated with NMS.
 In a single report, a ten year old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.
 It is uncertain whether this case represented a drug-drug interaction, a response to either drug alone, or some other cause.
@@ -55,5 +55,5 @@ In children, loss of appetite, abdominal pain, weight loss during prolonged ther
 ## Postmarketing Experience
 
 In addition to the adverse events listed above, the following have been reported in patients receiving METADATE CD worldwide.
-The list is alphabetized: abnormal behavior, aggression, anxiety, bruxism, cardiac arrest, depression, fixed drug eruption, hyperactivity, irritability, libido changes, migraine, obsessive-compulsive disorder, peripheral coldness, Raynaud's phenomenon, reversible ischaemic neurological deficit, rhabdomyolysis, sudden death, suicidal behavior (including completed suicide), and thrombocytopenia.
+The list is alphabetized: abnormal behavior, aggression, anxiety, bruxism, cardiac arrest, depression, fixed drug eruption, hyperactivity, irritability, libido changes, migraine, obsessive-compulsive disorder, peripheral coldness, Raynaud's phenomenon, reversible ischaemic neurological deficit, rhabdomyolysis, serotonin syndrome in combination with serotonergic drugs, sudden death, suicidal behavior (including completed suicide), and thrombocytopenia.
 Data are insufficient to support an estimation of incidence or establish causation.
