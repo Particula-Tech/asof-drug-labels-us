@@ -41,7 +41,7 @@ Infusion at an initial rate of 10 to 12 mcg/kg/min of rocuronium bromide injecti
 Due to rapid redistribution [see Clinical Pharmacology (12.3)] and the associated rapid spontaneous recovery, initiation of the infusion after substantial return of neuromuscular function (more than 10% of control T1), may necessitate additional bolus doses to maintain adequate block for surgery.
 
 Upon reaching the desired level of neuromuscular block, the infusion of rocuronium bromide injection must be individualized for each patient.
-The rate of administration should be adjusted according to the patient’s twitch response as monitored with the use of a peripheral nerve stimulator.
+The rate of administration should be adjusted according to the patient's twitch response as monitored with the use of a peripheral nerve stimulator.
 In clinical trials, infusion rates have ranged from 4 to 16 mcg/kg/min.
 
 Inhalation anesthetics, particularly enflurane and isoflurane, may enhance the neuromuscular blocking action of nondepolarizing muscle relaxants.
@@ -133,7 +133,7 @@ Alternatively, a continuous infusion of rocuronium bromide injection initiated a
 Additional information for administration to pediatric patients of all age groups is presented elsewhere in the label [see Clinical Pharmacology (12.2)].
 
 The infusion of rocuronium bromide injection must be individualized for each patient.
-The rate of administration should be adjusted according to the patient’s twitch response as monitored with the use of a peripheral nerve stimulator.
+The rate of administration should be adjusted according to the patient's twitch response as monitored with the use of a peripheral nerve stimulator.
 Spontaneous recovery and reversal of neuromuscular blockade following discontinuation of rocuronium bromide infusion may be expected to proceed at rates comparable to that following similar total exposure to single bolus doses [see Clinical Pharmacology (12.2)].
 
 Rocuronium bromide injection is not recommended for rapid sequence intubation in pediatric patients.
@@ -151,7 +151,7 @@ Patients with renal failure may have a greater variation in duration of effect [
 
 Obese Patients
 
-In obese patients, the initial dose of rocuronium bromide injection 0.6 mg/kg should be based upon the patient’s actual body weight [see Clinical Studies (14.1)].
+In obese patients, the initial dose of rocuronium bromide injection 0.6 mg/kg should be based upon the patient's actual body weight [see Clinical Studies (14.1)].
 
 An analysis across all US controlled clinical studies indicates that the pharmacodynamics of rocuronium bromide injection are not different between obese and non-obese patients when dosed based upon their actual body weight.
 
