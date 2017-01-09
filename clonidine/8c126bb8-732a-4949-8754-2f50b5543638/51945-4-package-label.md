@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL – 100 mcg/mL
 
 NDC 67457-218-10 10 mL
 
@@ -25,13 +25,17 @@ Usual Dosage: See accompanying prescribing information.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A. Made in Ireland 0414C101 MI:218:1C:R2
+Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+
+Made in Ireland
+
+0511C100 MI:218:1C:R3
 
 Duraclon® is a licensed registered trademark.
 
 Mylan.com
 
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL – 500 mcg/mL
 
 NDC 67457-219-10 10 mL
 

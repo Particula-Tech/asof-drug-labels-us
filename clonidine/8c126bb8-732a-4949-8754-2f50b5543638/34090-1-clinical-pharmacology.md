@@ -1,12 +1,12 @@
 # CLINICAL PHARMACOLOGY
 
-Mechanism of Action
+## Mechanism of Action
 
 Epidurally administered clonidine produces dose-dependent analgesia not antagonized by opiate antagonists.
 The analgesia is limited to the body regions innervated by the spinal segments where analgesic concentrations of clonidine are present.
 Clonidine is thought to produce analgesia at presynaptic and postjunctional alpha-2-adrenoceptors in the spinal cord by preventing pain signal transmission to the brain.
 
-Pharmacokinetics
+## Pharmacokinetics
 
 Following a 10 minute intravenous infusion of 300 mcg clonidine HCl to five male volunteers, plasma clonidine levels showed an initial rapid distribution phase (mean±SD t1⁄2=11±9 minutes) followed by a slower elimination phase (t1⁄2=9±2 hours) over 24 hours.
 Clonidine’s total body clearance (CL) was 219±92 mL/min.
@@ -22,29 +22,29 @@ In cancer patients who received 14 days of clonidine HCl epidural infusion (rate
 CL was 279±184 and 272±163 mL/min on these days.
 CSF concentrations were not determined in these patients.
 
-Distribution
+## Distribution
 
 Clonidine is highly lipid soluble and readily distributes into extravascular sites including the central nervous system.
 Clonidine’s volume of distribution is 2.1±0.4 L/kg.
 The binding of clonidine to plasma protein is primarily to albumin and varies between 20 and 40% in vitro.
 Epidurally administered clonidine readily partitions into plasma via the epidural veins and attains systemic concentrations (0.5 - 2.0 ng/mL) that are associated with a hypotensive effect mediated by the central nervous system.
 
-Excretion
+## Excretion
 
 Following an intravenous dose of 14C-clonidine, 72% of the administered dose was excreted in urine in 96 hours of which 40-50% was unchanged clonidine.
 Renal clearance for clonidine was determined to be 133±66 mL/min.
 In a study where 14C-clonidine was given to subjects with varying degrees of kidney function, elimination half-lives varied (17.5 to 41 hours) as a function of creatinine clearance.
 In subjects undergoing hemodialysis only 5% of body clonidine stores were removed.
 
-Metabolism
+## Metabolism
 
 In humans, clonidine metabolism follows minor pathways with the major metabolite, p-hydroxy-clonidine, being present at less than 10% of the concentration of unchanged drug in urine.
 
-Special Populations
+## Special Populations
 
 The pharmacokinetics of epidurally administered clonidine has not been studied in the pediatric population or in patients with renal or hepatic disease.
 
-Clinical Trials
+## Clinical Trials
 
 In a double-blind, randomized study of cancer patients with severe intractable pain below the C4 dermatome not controlled by morphine, 38 patients were randomized to an epidural infusion of Duraclon plus epidural morphine, whereas 47 subjects received epidural placebo plus epidural morphine.
 Both groups were allowed rescue doses of epidural morphine.

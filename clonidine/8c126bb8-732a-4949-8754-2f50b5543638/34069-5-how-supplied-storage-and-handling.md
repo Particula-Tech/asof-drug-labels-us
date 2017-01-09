@@ -16,6 +16,8 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-0764L102 REVISED JUNE 2012 MI:DURAIJ:R2
+0919L100
 
-To request medical information or to report suspected adverse reactions, contact Drug Safety at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+Revised: 10/2016 MI:DURAIJ:R3
+
+To request medical information or to report suspected adverse reactions, contact Drug Safety at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
