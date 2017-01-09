@@ -10,6 +10,6 @@ Neonatal Opioid Withdrawal Syndrome Prolonged use of MS CONTIN during pregnancy 
 If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Warnings and Precautions (5.3)].
 Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death [see Warnings and Precautions (5.4), Drug Interactions (7)].
 
-- Reserve concomitant prescribing of MS CONTIN Injection and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
+- Reserve concomitant prescribing of MS CONTIN and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
 - Limit dosages and durations to the minimum required.
 - Follow patients for signs and symptoms of respiratory depression and sedation.
