@@ -48,7 +48,8 @@ Percentage of Women Experiencing an Unintended Pregnancy During the First Year o
 | Norplant and Norplant-2 | 0.05 | 0.05 | 88 |
 | Female Sterilization | 0.5 | 0.5 | 100 |
 | Male Sterilization | 0.15 | 0.10 | 100 |
-| Emergency Contraceptive Pills: Treatment initiated within 72 hours after unprotected intercourse reduces the risk of pregnancy by at least 75%. The treatment schedule is one dose within 72 hours after unprotected intercourse, and a second dose 12 hours after the first dose. The Food and Drug Administration has declared the following brands of oral contraceptives to be safe and effective for emergency contraception: Ovral (1 dose is 2 white pills), Alesse (1 dose is 5 pink pills), Nordette or Levlen (1 dose is 4 light-orange pills), Lo/Ovral (1 dose is 4 white pills), Triphasil or Tri-Levlen (1 dose is 4 yellow pills). Lactational Amenorrhea Method: LAM is a highly effective, temporary method of contraception.However, to maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breastfeeds is reduced, bottle feeds are introduced, or the baby reaches 6 months of age. |  |  |  |
+| Emergency Contraceptive Pills: Treatment initiated within 72 hours after unprotected intercourse reduces the risk of pregnancy by at least 75%.The treatment schedule is one dose within 72 hours after unprotected intercourse, and a second dose 12 hours after the first dose. The Food and Drug Administration has declared the following brands of oral contraceptives to be safe and effective for emergency contraception: Ovral (1 dose is 2 white pills), Alesse (1 dose is 5 pink pills), Nordette or Levlen (1 dose is 4 light-orange pills), Lo/Ovral (1 dose is 4 white pills), Triphasil or Tri-Levlen (1 dose is 4 yellow pills). |  |  |  |
+| Lactational Amenorrhea Method: LAM is a highly effective, temporary method of contraception.However, to maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breastfeeds is reduced, bottle feeds are introduced, or the baby reaches 6 months of age. |  |  |  |
 | Source: Hatcher et al., 1998.i |  |  |  |
 
 ## Endometriosis Studies
@@ -62,8 +63,7 @@ Study 270 was conducted in South America, Europe and Asia, and enrolled 299 subj
 Reduction in pain was evaluated using a modified Biberoglu and Behrman scale that consisted of three patient-reported symptoms (dysmenorrhea, dyspareunia, and pelvic pain not related to menses) and two signs assessed during pelvic examination (pelvic tenderness and induration).
 For each category, a favorable response was defined as improvement of at least 1 unit (severity was assessed on a scale of 0 to 3) relative to baseline score (Figure 2).
 
-| Favorable Response = reduction in severity of symptom or sign of ≥ 1 point on a scale of 0 to 3, as compared to baseline |
-| --- |
+Favorable Response = reduction in severity of symptom or sign of ≥ 1 point on a scale of 0 to 3, as compared to baseline
 
 Additionally, scores from each of the five categories were combined, with the total (composite score) considered a global measurement of overall disease improvement.
 For subjects with baseline scores for each of the 5 categories, a mean decrease of 4 points relative to baseline was considered a clinically meaningful improvement.

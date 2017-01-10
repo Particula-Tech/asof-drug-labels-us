@@ -46,7 +46,7 @@ There have been rare cases of osteoporosis including osteoporotic fractures repo
 
 The following additional reactions have been reported with Depo-Provera Contraceptive Injection and may occur with use of depo-subQ provera 104:
 
-General disorders: asthenia, axillary swelling, chills, chest pain, fever, excessive thirst
+General disorders: asthenia, axillary swelling, chills, chest pain, fever, excessive thirst, injection site nodule/lump, injection site pain/tenderness, injection site persistent atrophy/indentation/dimpling, injection site reactions
 
 Blood and lymphatic system disorders: anemia, blood dyscrasia
 

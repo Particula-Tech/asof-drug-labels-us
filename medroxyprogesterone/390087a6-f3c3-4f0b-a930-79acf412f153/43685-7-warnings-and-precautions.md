@@ -25,9 +25,9 @@ Mean percent changes in BMD in the depo-subQ provera 104 group are listed in Tab
 Table 3.
 Mean Percent Change from Baseline in BMD in Women Using depo-subQ provera 104
 
-| Time on Treatment | N | Mean % Change (95% CI) | N | Mean % Change (95% CI) | N | Mean % Change (95% CI) |
+| N | Mean % Change (95% CI) | N | Mean % Change (95% CI) | N | Mean % Change (95% CI) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Lumbar Spine |  | Total Hip |  | Femoral Neck |  |
+| Time on Treatment | Lumbar Spine |  | Total Hip |  | Femoral Neck |  |
 | 1 year | 166 | -2.7 (-3.1 to -2.3) | 166 | -1.7 (-2.1 to -1.3) | 166 | -1.9 (-2.5 to -1.4) |
 | 2 year | 106 | - 4.1 (-4.6 to -3.5) | 106 | -3.5 (-4.2 to -2.7) | 106 | -3.5 (-4.3 to -2.6) |
 
@@ -173,13 +173,18 @@ Mean (25th, 75th Percentiles) Number of Bleeding and/or Spotting Days in the Sub
 Women who have or have had breast cancer should not use hormonal contraceptives, including depo sub-Q provera 104, because breast cancer may be hormonally sensitive [see Contraindications].
 Women with a strong family history of breast cancer should be monitored with particular care.
 
-The results of five large case-control studies ii iii iv v vi assessing the association between depo-medroxyprogesterone acetate (DMPA) use and the risk of breast cancer are summarized in Figure 7.
+The results of five large case-control studiesii iii iv v vi assessing the association between depo-medroxyprogesterone acetate (DMPA) use and the risk of breast cancer are summarized in Figure 7.
 Three of the studies suggest a slightly increased risk of breast cancer in the overall population of users; these increased risks were statistically significant in one study.
 One recent US studyii evaluated the recency and duration of use and found a statistically significant increased risk of breast cancer in recent users (defined as last use within the past five years) who used DMPA for 12 months or longer; this is consistent with results of a previous studyv.
 
-| Figure 7. Risk estimates of breast cancer in DMPA users |
-| --- |
-| Odds ratio estimates were adjusted for the following covariates: Lee et al. (1987): age, parity, and socioeconomic status. Paul et al. (1989): age, parity, ethnic group, and year of interview. WHO (1991): age, center, and age at first live birth. Shapiro et al. (2000): age, ethnic group, socioeconomic status, and any combined estrogen/progestogen oral contraceptive use. Li et al. (2012): age, year, BMI, duration of OC use, number of full-term pregnancies, family history of breast cancer, and history of screening mammography. |
+Figure 7.
+Risk estimates of breast cancer in DMPA users
+
+Odds ratio estimates were adjusted for the following covariates: Lee et al. (1987): age, parity, and socioeconomic status.
+Paul et al. (1989): age, parity, ethnic group, and year of interview.
+WHO (1991): age, center, and age at first live birth.
+Shapiro et al. (2000): age, ethnic group, socioeconomic status, and any combined estrogen/progestogen oral contraceptive use.
+Li et al. (2012): age, year, BMI, duration of OC use, number of full-term pregnancies, family history of breast cancer, and history of screening mammography.
 
 Based on the published SEER-18 2011 incidence rate (age-adjusted to the 2000 US Standard Population) of breast cancer for US women, all races, age 20 to 49vii years a doubling of risk would increase the incidence of breast cancer in women who use Depo-Provera CI from about 72 to about 144 cases per 100,000 women.
 
@@ -252,6 +257,8 @@ Patients with a history of treatment for clinical depression should be carefully
 
 In 5 clinical studies of depo-subQ provera 104 involving 2,325 women (282 treated for up to 6 months, 1,780 treated for up to 1 year and 263 women treated for up to 2 years), 5% of women reported injection site reactions, and 1% had persistent skin changes, typically described as small areas of induration or atrophy.
 
+In post-marketing experience, injection site reactions such as persistent atrophy of the injection site, dimpling/indentation and injection site lump/nodule have been reported.
+
 ## 7. Carbohydrate/Metabolism
 
 Some patients receiving progestins may exhibit a decrease in glucose tolerance.
@@ -272,13 +279,13 @@ Aminoglutethimide administered concomitantly with depo-subQ provera 104 may sign
 The pathologist should be advised of progestin therapy when relevant specimens are submitted.
 The physician should be informed that certain endocrine and liver function tests, and blood components may be affected by progestin therapy:
 
-- (a)Plasma and urinary steroid levels are decreased (e.g., progesterone, estradiol, pregnanediol, testosterone, cortisol).
-- (b)Plasma and urinary gonadotropin levels are decreased (e.g., LH, FSH).
-- (c)SHBG concentrations are decreased.
-- (d)T3-uptake values may decrease.
-- (e)There may be small changes in coagulation factors.
-- (f)Sulfobromophthalein and other liver function test values may be increased slightly.
-- (g)There may be small changes in lipid profiles.
+- (a) Plasma and urinary steroid levels are decreased (e.g., progesterone, estradiol, pregnanediol, testosterone, cortisol).
+- (b) Plasma and urinary gonadotropin levels are decreased (e.g., LH, FSH).
+- (c) SHBG concentrations are decreased.
+- (d) T3-uptake values may decrease.
+- (e) There may be small changes in coagulation factors.
+- (f) Sulfobromophthalein and other liver function test values may be increased slightly.
+- (g) There may be small changes in lipid profiles.
 
 ## 11. Carcinogenesis, Mutagenesis, Impairment of Fertility
 

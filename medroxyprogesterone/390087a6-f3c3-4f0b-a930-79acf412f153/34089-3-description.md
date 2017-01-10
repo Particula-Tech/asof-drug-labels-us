@@ -12,17 +12,17 @@ depo-subQ provera 104 for subcutaneous (SC) injection is available in pre-filled
 
 Each 0.65 mL contains:
 
-|  | Medroxyprogesterone acetate | 104 mg |
-| --- | --- | --- |
-|  | Methylparaben | 1.040 mg |
-|  | Propylparaben | 0.098 mg |
-|  | Sodium Chloride | 5.200 mg |
-|  | Polyethylene Glycol | 18.688 mg |
-|  | Polysorbate 80 | 1.950 mg |
-|  | Monobasic Sodium Phosphate ∙ H2O | 0.451 mg |
-|  | Dibasic Sodium Phosphate ∙ 12H2O | 0.382 mg |
-|  | Methionine | 0.975 mg |
-|  | Povidone | 3.250 mg |
-|  | Water for Injection | qs |
+| Medroxyprogesterone acetate | 104 mg |
+| --- | --- |
+| Methylparaben | 1.040 mg |
+| Propylparaben | 0.098 mg |
+| Sodium Chloride | 5.200 mg |
+| Polyethylene Glycol | 18.688 mg |
+| Polysorbate 80 | 1.950 mg |
+| Monobasic Sodium Phosphate ∙ H2O | 0.451 mg |
+| Dibasic Sodium Phosphate ∙ 12H2O | 0.382 mg |
+| Methionine | 0.975 mg |
+| Povidone | 3.250 mg |
+| Water for Injection | qs |
 
 When necessary, the pH is adjusted with sodium hydroxide or hydrochloric acid, or both.
