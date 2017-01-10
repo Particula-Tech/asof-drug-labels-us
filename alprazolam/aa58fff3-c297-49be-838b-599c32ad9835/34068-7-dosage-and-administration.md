@@ -21,7 +21,7 @@ Depending on the response, the dose may be increased at intervals of 3 to 4 days
 Slower titration to the dose levels may be advisable to allow full expression of the pharmacodynamic effect of XANAX XR.
 
 Generally, therapy should be initiated at a low dose to minimize the risk of adverse responses in patients especially sensitive to the drug.
-Dose should be advanced until an acceptable 21 therapeutic response (ie, a substantial reduction in or total elimination of panic attacks) is achieved, intolerance occurs, or the maximum recommended dose is attained.
+Dose should be advanced until an acceptable therapeutic response (ie, a substantial reduction in or total elimination of panic attacks) is achieved, intolerance occurs, or the maximum recommended dose is attained.
 
 ## Dose Maintenance
 

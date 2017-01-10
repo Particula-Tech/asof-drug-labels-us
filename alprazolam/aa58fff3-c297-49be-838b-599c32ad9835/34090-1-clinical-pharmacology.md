@@ -11,7 +11,7 @@ Clinically, all benzodiazepines cause a dose-related central nervous system depr
 ### Absorption
 
 Following oral administration of XANAX (immediate-release) Tablets, alprazolam is readily absorbed.
-Peak concentrations in the plasma occur in one to two hours following 2 administration.
+Peak concentrations in the plasma occur in one to two hours following administration.
 Plasma levels are proportional to the dose given; over the dose range of 0.5 to 3.0 mg, peak levels of 8.0 to 37 ng/mL were observed.
 Using a specific assay methodology, the mean plasma elimination half-life of alprazolam has been found to be about 11.2 hours (range: 6.3–26.9 hours) in healthy adults.
 
@@ -42,7 +42,7 @@ Their half-lives appear to be similar to that of alprazolam.
 The pharmacokinetic parameters at steady-state for the two hydroxylated metabolites of alprazolam (4-hydroxyalprazolam and α-hydroxyalprazolam) were similar for XANAX and XANAX XR Tablets, indicating that the metabolism of alprazolam is not affected by absorption rate.
 The plasma concentrations of 4-hydroxyalprazolam and α-hydroxyalprazolam relative to unchanged alprazolam concentration after both XANAX XR and XANAX Tablets were always less than 10% and 4%, respectively.
 The reported relative potencies in benzodiazepine receptor binding experiments and in animal models of induced seizure inhibition are 0.20 and 0.66, respectively, for 4-hydroxyalprazolam and α-hydroxyalprazolam.
-Such low concentrations 3 and the lesser potencies of 4-hydroxyalprazolam and α-hydroxyalprazolam suggest that they are unlikely to contribute much to the pharmacological effects of alprazolam.
+Such low concentrations and the lesser potencies of 4-hydroxyalprazolam and α-hydroxyalprazolam suggest that they are unlikely to contribute much to the pharmacological effects of alprazolam.
 The benzophenone metabolite is essentially inactive.
 
 ### Elimination
