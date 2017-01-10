@@ -120,29 +120,3 @@ Safety and efficacy of DEPO- PROVERA for endometrial and renal carcinoma have no
 
 Depo-Provera is associated with loss of BMD which is of particular concern during adolescence and early adulthood, a critical period of bone accretion.
 (See PRECAUTIONS: Decrease in Bone Mineral Density)
-
-## DRUG INTERACTIONS
-
-Aminoglutethimide administered concomitantly with DEPO-PROVERA Sterile Aqueous Suspension may significantly depress the serum concentrations of medroxyprogesterone acetate.
-DEPO-PROVERA users should be warned of the possibility of decreased efficacy with the use of this or any related drugs.
-
-### In vitro
-
-Medroxyprogesterone acetate is metabolized primarily by hydroxylation via the CYP3A4.
-Though no formal drug interaction trials have been conducted, concomitant administration of strong CYP3A inhibitors is expected to increase concentrations of medroxyprogesterone acetate, whereas the concomitant administration of strong CYP3A inducers is expected to decrease medroxyprogesterone acetate concentrations.
-Therefore, coadministration with strong CYP3A inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, voriconazole) or strong CYP3A inducers (e.g., phenytoin, carbamazepine, rifampin, rifabutin, rifapentin, phenobarbital, St. John's Wort) should be avoided.
-
-## LABORATORY TEST INTERACTIONS
-
-The pathologist should be advised of progestin therapy when relevant specimens are submitted.
-The following laboratory tests may be affected by progestins including DEPO-PROVERA Sterile Aqueous Suspension:
-
-- a)Plasma and urinary steroid levels are decreased (e.g. progesterone, estradiol, pregnanediol, testosterone, cortisol).
-- b)Gonadotropin levels are decreased.
-- c)Sex-hormone binding globulin concentrations are decreased.
-- d)Protein bound iodine and butanol extractable protein bound iodine may increase.
-  T3 uptake values may decrease.
-- e)Coagulation test values for prothrombin (Factor II), and Factors VII, VIII, IX, and X may increase.
-- f)Sulfobromophthalein and other liver function test values may be increased.
-- g)The effects of medroxyprogesterone acetate on lipid metabolism are inconsistent.
-  Both increases and decreases in total cholesterol, triglycerides, low-density lipoprotein (LDL) cholesterol, and high-density lipoprotein (HDL) cholesterol have been observed in studies.

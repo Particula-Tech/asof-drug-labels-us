@@ -1,6 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
-The suspension is intended for intramuscular administration only.
+The suspension is intended for intramuscular administration only, rotating the sites with every injection.
+As with any intramuscular injection, to avoid an inadvertent subcutaneous injection, body habitus should be assessed prior to each injection to determine if a longer needle is necessary particularly for gluteal intramuscular injection.
 
 When multi-dose vials are used, special care to prevent contamination of the contents is essential [see WARNINGS and PRECAUTIONS].
 
