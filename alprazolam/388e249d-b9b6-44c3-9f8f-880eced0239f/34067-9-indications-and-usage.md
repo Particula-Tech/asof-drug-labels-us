@@ -2,7 +2,7 @@
 
 ## Anxiety Disorders
 
-XANAX Tablets (alprazolam) are indicated for the management of anxiety disorder (a condition corresponding most closely to the APA Diagnostic and Statistical Manual [DSM-IIIR] diagnosis of generalized anxiety disorder) or the short-term relief of symptoms of anxiety.
+XANAX Tablets (alprazolam) are indicated for the management of anxiety disorder (a condition corresponding most closely to the APA Diagnostic and Statistical Manual [DSM-III-R] diagnosis of generalized anxiety disorder) or the short-term relief of symptoms of anxiety.
 Anxiety or tension associated with the stress of everyday life usually does not require treatment with an anxiolytic.
 
 Generalized anxiety disorder is characterized by unrealistic or excessive anxiety and worry (apprehensive expectation) about two or more life circumstances, for a period of 6 months or longer, during which the person has been bothered more days than not by these concerns.

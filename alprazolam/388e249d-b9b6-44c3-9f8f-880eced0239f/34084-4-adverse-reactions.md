@@ -16,11 +16,13 @@ Additionally, for anxiety disorders the cited figures can provide the prescriber
 
 ## Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Anxiety Disorders
 
+ANXIETY DISORDERS
+
 |  | XANAX | PLACEBO | XANAX |
 | --- | --- | --- | --- |
-| ANXIETY DISORDERS |  |  |  |
 |  | Treatment-Emergent Symptom IncidenceEvents reported by 1% or more of XANAX patients are included. |  | Incidence of Intervention Because of Symptom |
-| Number of Patients % of Patients Reporting: | 565 | 505 | 565 |
+| Number of Patients | 565 | 505 | 565 |
+| % of Patients Reporting: |  |  |  |
 | Central Nervous System |  |  |  |
 | Drowsiness | 41.0 | 21.6 | 15.1 |
 | Light-headedness | 20.8 | 19.3 | 1.2 |
@@ -58,11 +60,13 @@ In addition to the relatively common (ie, greater than 1%) untoward events enume
 
 ## Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Panic Disorder
 
+PANIC DISORDER
+
 |  | XANAX | PLACEBO |
 | --- | --- | --- |
-| PANIC DISORDER |  |  |
 |  | Treatment-Emergent Symptom IncidenceEvents reported by 1% or more of XANAX patients are included. |  |
-| Number of Patients % of Patients Reporting: | 1388 | 1231 |
+| Number of Patients | 1388 | 1231 |
+| % of Patients Reporting: |  |  |
 | Central Nervous System |  |  |
 | Drowsiness | 76.8 | 42.7 |
 | Fatigue and Tiredness | 48.6 | 42.3 |
@@ -137,10 +141,11 @@ Panic disorder has been associated with primary and secondary major depressive d
 
 In a larger database comprised of both controlled and uncontrolled studies in which 641 patients received XANAX, discontinuation-emergent symptoms which occurred at a rate of over 5% in patients treated with XANAX and at a greater rate than the placebo treated group were as follows:
 
-| Percentage of 641 XANAX-Treated Panic Disorder Patients Reporting Events |  |  |  |
-| --- | --- | --- | --- |
-| DISCONTINUATION-EMERGENT SYMPTOM INCIDENCE |  |  |  |
+DISCONTINUATION-EMERGENT SYMPTOM INCIDENCE
+
 | Body System/Event |  |  |  |
+| --- | --- | --- | --- |
+| Percentage of 641 XANAX-Treated Panic Disorder Patients Reporting Events |  |  |  |
 | Neurologic |  | Gastrointestinal |  |
 | Insomnia | 29.5 | Nausea/Vomiting | 16.5 |
 | Light-headedness | 19.3 | Diarrhea | 13.6 |
