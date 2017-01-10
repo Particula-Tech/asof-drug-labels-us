@@ -24,7 +24,7 @@ The increase in risk was observed after the first year and persisted.
 In postmenopausal women with documented heart disease (n = 2,763, average age 66.7 years) a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study; HERS) treatment with CE/MPA (0.625 mg/2.5 mg per day) demonstrated no cardiovascular benefit.
 During an average follow-up of 4.1 years, treatment with CE/MPA did not reduce the overall rate of CHD events in postmenopausal women with established coronary heart disease.
 There were more CHD events in the CE/MPA-treated group than in the placebo group in year 1, but not during the subsequent years.
-Two thousand three hundred and twenty-one women from the original HERS trial agreed to participate in an open-label extension of HERS, HERS II.
+Two thousand three hundred and twenty one women from the original HERS trial agreed to participate in an open-label extension of HERS, HERS II.
 Average follow-up in HERS II was an additional 2.7 years, for a total of 6.8 years overall.
 Rates of CHD events were comparable among women in the CE/MPA group and the placebo group in HERS, HERS II, and overall.
 
@@ -67,7 +67,7 @@ In the WHI trial and from observational studies, the excess risk increased with 
 From observational studies, the risk appeared to return to baseline in about five years after stopping treatment.
 In addition, observational studies suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen/progestin combination therapy as compared to estrogen-alone therapy.
 
-In the CE/MPA substudy, 26% of the women reported prior use of estrogen-alone and/or estrogen/progestin combination hormone therapy.
+In the CE/MPA substudy, 26% of the women reported prior use of estrogen alone and/or estrogen/progestin combination hormone therapy.
 After a mean follow-up of 5.6 years during the clinical trial, the overall relative risk of invasive breast cancer was 1.24 (95% confidence interval 1.01–1.54), and the overall absolute risk was 41 vs. 33 cases per 10,000 women-years, for CE/MPA compared with placebo.
 Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 vs. 25 cases per 10,000 women-years, for CE/MPA compared with placebo.
 Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 vs. 36 cases per 10,000 women-years for CE/MPA compared with placebo.

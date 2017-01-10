@@ -1,4 +1,4 @@
-The text of the patient insert for estrogen-containing drug products is set forth below.
+LAB-0083-4.0 November 2016
 
 What is DEPO-Estradiol?
 
@@ -134,9 +134,9 @@ Keep DEPO-Estradiol out of the reach of children.
 This leaflet provides a summary of the most important information about DEPO-Estradiol.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about DEPO-Estradiol that is written for health professionals.
-You can get more information by calling the toll free number 1-888-691-6813.
+You can get more information by calling the toll free number 1-800-438-1985.
 You are cautioned to discuss very carefully with your doctor or healthcare provider all the possible risks and benefits of long-term estrogen and progestin treatment as they affect you personally.
 
 Rx only
 
-LAB-0083-3.0 October 2006
+LAB-0900-1.0 November 2016
