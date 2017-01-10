@@ -1,46 +1,51 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Use lowest effective dose for the shortest duration consistent with treatment goals for the individual patient.
+## 2.1 General Dosing Instructions
+
+Carefully consider the potential benefits and risks of celecoxib capsules and other treatment options before deciding to use celecoxib capsules.
+Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+
 These doses can be given without regard to timing of meals.
 
-## 2.1 Osteoarthritis
+## 2.2 Osteoarthritis
 
-For relief of the signs and symptoms of OA the recommended oral dose is 200 mg per day administered as a single dose or as 100 mg twice daily.
+For OA, the dosage is 200 mg per day administered as a single dose or as 100 mg twice daily.
 
-## 2.2 Rheumatoid Arthritis
+## 2.3 Rheumatoid Arthritis
 
-For relief of the signs and symptoms of RA the recommended oral dose is 100 to 200 mg twice daily.
+For RA, the dosage is 100 to 200 mg twice daily.
 
-## 2.3 Juvenile Rheumatoid Arthritis
+## 2.4 Juvenile Rheumatoid Arthritis
 
-For the relief of the signs and symptoms of JRA the recommended oral dose for pediatric patients (age 2 years and older) is based on weight.
-For patients >10 kg to <25 kg the recommended dose is 50 mg twice daily.
-For patients >25 kg the recommended dose is 100 mg twice daily.
+For JRA, the dosage for pediatric patients (age 2 years and older) is based on weight.
+For patients greater than or equal to 10 kg to less than or equal to 25 kg the recommended dose is 50 mg twice daily.
+For patients greater than 25 kg the recommended dose is 100 mg twice daily.
 
 For patients who have difficulty swallowing capsules, the contents of a celecoxib capsule can be added to applesauce.
 The entire capsule contents are carefully emptied onto a level teaspoon of cool or room temperature applesauce and ingested immediately with water.
-The sprinkled capsule contents on applesauce are stable for up to 6 hours under refrigerated conditions (2-8° C/ 35-45° F).
+The sprinkled capsule contents on applesauce are stable for up to 6 hours under refrigerated conditions (2° to 8°C/ 35° to 45°F).
 
-## 2.4 Ankylosing Spondylitis
+## 2.5 Ankylosing Spondylitis
 
-For the management of the signs and symptoms of AS, the recommended dose of celecoxib capsules is 200 mg daily in single (once per day) or divided (twice per day) doses.
+For AS, the dosage of celecoxib capsules is 200 mg daily in single (once per day) or divided (twice per day) doses.
 If no effect is observed after 6 weeks, a trial of 400 mg daily may be worthwhile.
 If no effect is observed after 6 weeks on 400 mg daily, a response is not likely and consideration should be given to alternate treatment options.
 
-## 2.5 Management of Acute Pain and Treatment of Primary Dysmenorrhea
+## 2.6 Management of Acute Pain and Treatment of Primary Dysmenorrhea
 
-The recommended dose of celecoxib capsules is 400 mg initially, followed by an additional 200 mg dose if needed on the first day.
+For management of Acute Pain and Treatment of Primary Dysmenorrhea, the dosage is 400 mg initially, followed by an additional 200 mg dose if needed on the first day.
 On subsequent days, the recommended dose is 200 mg twice daily as needed.
 
-## 2.6 Special Populations Hepatic insufficiency:
+## 2.7 Special Populations
 
-The daily recommended dose of celecoxib capsules in patients with moderate hepatic impairment (Child-Pugh Class B) should be reduced by 50%.
+Hepatic Impairment
+
+In patients with moderate hepatic impairment (Child-Pugh Class B), reduce the dose by 50%.
 The use of celecoxib in patients with severe hepatic impairment is not recommended [see Warnings and Precautions (5.5), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-Poor Metabolizers of CYP2C9 Substrates:
+Poor Metabolizers of CYP2C9 Substrates
 
-Patients who are known or suspected to be poor CYP2C9 metabolizers based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin) should be administered celecoxib with caution.
-Consider starting treatment at half the lowest recommended dose in poor metabolizers (i.e.
-CYP2C9*3/*3).
-Consider using alternative management in JRA patients who are poor metabolizers.
+In adult patients who are known or suspected to be poor CYP2C9 metabolizers based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin), initiate treatment with half of the lowest recommended dose.
+
+In patients with JRA who are known or suspected to be poor CYP2C9 metabolizers, consider using alternative treatments.
 [see Use in Specific populations (8.8), and Clinical Pharmacology (12.5)].

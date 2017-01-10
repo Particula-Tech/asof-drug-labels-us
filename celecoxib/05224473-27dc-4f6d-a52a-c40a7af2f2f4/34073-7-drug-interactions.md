@@ -1,51 +1,46 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
-General: Celecoxib metabolism is predominantly mediated via cytochrome P450 (CYP) 2C9 in the liver.
-Coadministration of celecoxib with drugs that are known to inhibit CYP2C9 should be done with caution.
-Significant interactions may occur when celecoxib is administered together with drugs that inhibit CYP2C9.
+See Table 3 for clinically significant drug interactions with celecoxib.
 
-In vitro studies indicate that celecoxib, although not a substrate, is an inhibitor of CYP2D6.
-Therefore, there is a potential for an in vivo drug interaction with drugs that are metabolized by CYP2D6.
+Table 3: Clinically Significant Drug Interactions with Celecoxib
 
-## 7.1 Warfarin
-
-Anticoagulant activity should be monitored, particularly in the first few days, after initiating or changing celecoxib therapy in patients receiving warfarin or similar agents, since these patients are at an increased risk of bleeding complications.
-The effect of celecoxib on the anticoagulant effect of warfarin was studied in a group of healthy subjects receiving daily 2-5 mg doses of warfarin.
-In these subjects, celecoxib did not alter the anticoagulant effect of warfarin as determined by prothrombin time.
-However, in post-marketing experience, serious bleeding events, some of which were fatal, have been reported, predominantly in the elderly, in association with increases in prothrombin time in patients receiving celecoxib concurrently with warfarin.
-
-## 7.2 Lithium
-
-In a study conducted in healthy subjects, mean steady-state lithium plasma levels increased approximately 17% in subjects receiving lithium 450 mg twice daily with celecoxib 200 mg twice daily as compared to subjects receiving lithium alone.
-Patients on lithium treatment should be closely monitored when celecoxib is introduced or withdrawn.
-
-## 7.3 Aspirin
-
-Celecoxib capsules can be used with low-dose aspirin.
-However, concomitant administration of aspirin with celecoxib increases the rate of GI ulceration or other complications, compared to use of celecoxib alone [see Warnings and Precautions (5.1, 5.4) and Clinical Studies (14.6)].
-
-Because of its lack of platelet effects, Celecoxib is not a substitute for aspirin for cardiovascular prophylaxis [see Clinical Pharmacology (12.2)].
-
-## 7.4 ACE-Inhibitors and Angiotensin II Antagonists
-
-Reports suggest that NSAIDs may diminish the antihypertensive effect of Angiotensin Converting Enzyme (ACE) inhibitors and angiotensin II antagonists.
-This interaction should be given consideration in patients taking celecoxib concomitantly with ACE-inhibitors and angiotensin II antagonists [see Clinical Pharmacology (12.2)].
-
-## 7.5 Fluconazole
-
-Concomitant administration of fluconazole at 200 mg once daily resulted in a two-fold increase in celecoxib plasma concentration.
-This increase is due to the inhibition of celecoxib metabolism via P450 2C9 by fluconazole [see Clinical Pharmacology (12.3)].
-Celecoxib capsules should be introduced at the lowest recommended dose in patients receiving fluconazole.
-
-## 7.6 Furosemide
-
-Clinical studies, as well as post-marketing observations, have shown that NSAIDs can reduce the natriuretic effect of furosemide and thiazides in some patients.
-This response has been attributed to inhibition of renal prostaglandin synthesis.
-
-## 7.7 Methotrexate
-
-In an interaction study of rheumatoid arthritis patients taking methotrexate, celecoxib did not have an effect on the pharmacokinetics of methotrexate [see Clinical Pharmacology (12.3)].
-
-## 7.8 Concomitant NSAID Use
-
-The concomitant use of celecoxib capsules with any dose of a non-aspirin NSAID should be avoided due to the potential for increased risk of adverse reactions.
+| Drugs That Interfere with Hemostasis |  |
+| --- | --- |
+| Clinical Impact: | Celecoxib and anticoagulants such as warfarin have a synergistic effect on bleeding. The concomitant use of celecoxib and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone. Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
+| Intervention: | Monitor patients with concomitant use of celecoxib with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding [see Warnings and Precautions (5.11)]. |
+| Aspirin |  |
+| Clinical Impact: | Controlled clinical studies showed that the concomitant use of NSAIDs and analgesic doses of aspirin does not produce any greater therapeutic effect than the use of NSAIDs alone. In a clinical study, the concomitant use of an NSAID and aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone [see Warnings and Precautions (5.2)]. In two studies in healthy volunteers, and in patients with osteoarthritis and established heart disease respectively, celecoxib (200 to 400 mg daily) has demonstrated a lack of interference with the cardioprotective antiplatelet effect of aspirin (100 to 325 mg). |
+| Intervention: | Concomitant use of celecoxib and analgesic doses of aspirin is not generally recommended because of the increased risk of bleeding [see Warnings and Precautions (5.11)]. Celecoxib is not a substitute for low dose aspirin for cardiovascular protection. |
+| ACE Inhibitors, Angiotensin Receptor Blockers, and Beta-Blockers |  |
+| Clinical Impact: | NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), or beta-blockers (including propranolol). In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, coadministration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. |
+| Intervention: | During concomitant use of celecoxib and ACE-inhibitors, ARBs, or beta-blockers, monitor blood pressure to ensure that the desired blood pressure is obtained. During concomitant use of celecoxib and ACE-inhibitors or ARBs in patients who are elderly, volume-depleted, or have impaired renal function, monitor for signs of worsening renal function [see Warnings and Precautions (5.6)]. When these drugs are administered concomitantly, patients should be adequately hydrated. Assess renal function at the beginning of the concomitant treatment and periodically thereafter. |
+| Diuretics |  |
+| Clinical Impact: | Clinical studies, as well as post-marketing observations, showed that NSAIDs reduced the natriuretic effect of loop diuretics (e.g., furosemide) and thiazide diuretics in some patients. This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis. |
+| Intervention: | During concomitant use of celecoxib with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects [see Warnings and Precautions (5.6)]. |
+| Digoxin |  |
+| Clinical Impact: | The concomitant use of celecoxib with digoxin has been reported to increase the serum concentration and prolong the half-life of digoxin. |
+| Intervention: | During concomitant use of celecoxib and digoxin, monitor serum digoxin levels. |
+| Lithium |  |
+| Clinical Impact: | NSAIDs have produced elevations in plasma lithium levels and reductions in renal lithium clearance. The mean minimum lithium concentration increased 15%, and the renal clearance decreased by approximately 20%. This effect has been attributed to NSAID inhibition of renal prostaglandin synthesis. |
+| Intervention: | During concomitant use of celecoxib and lithium, monitor patients for signs of lithium toxicity. |
+| Methotrexate |  |
+| Clinical Impact: | Concomitant use of NSAIDs and methotrexate may increase the risk for methotrexate toxicity (e.g., neutropenia, thrombocytopenia, renal dysfunction). Celecoxib has no effect on methotrexate pharmacokinetics. |
+| Intervention: | During concomitant use of celecoxib and methotrexate, monitor patients for methotrexate toxicity. |
+| Cyclosporine |  |
+| Clinical Impact: | Concomitant use of celecoxib and cyclosporine may increase cyclosporine’s nephrotoxicity. |
+| Intervention: | During concomitant use of celecoxib and cyclosporine, monitor patients for signs of worsening renal function. |
+| NSAIDs and Salicylates |  |
+| Clinical Impact: | Concomitant use of celecoxib with other NSAIDs or salicylates (e.g., diflunisal, salsalate) increases the risk of GI toxicity, with little or no increase in efficacy [see Warnings and Precautions (5.2)]. |
+| Intervention: | The concomitant use of celecoxib with other NSAIDs or salicylates is not recommended. |
+| Pemetrexed |  |
+| Clinical Impact: | Concomitant use of celecoxib and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
+| Intervention: | During concomitant use of celecoxib and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of pemetrexed. In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. |
+| CYP2C9 Inhibitors or inducers |  |
+| Clinical Impact: | Celecoxib metabolism is predominantly mediated via cytochrome P450 (CYP) 2C9 in the liver. Coadministration of celecoxib with drugs that are known to inhibit CYP2C9 (e.g. fluconazole) may enhance the exposure and toxicity of celecoxib whereas coadministration with CYP2C9 inducers (e.g. rifampin) may lead to compromised efficacy of celecoxib. |
+| Intervention | Evaluate each patient's medical history when consideration is given to prescribing celecoxib. A dosage adjustment may be warranted when celecoxib is administered with CYP2C9 inhibitors or inducers. [see Clinical Pharmacology (12.3)]. |
+| CYP2D6 substrates |  |
+| Clinical Impact: | In vitro studies indicate that celecoxib, although not a substrate, is an inhibitor of CYP2D6. Therefore, there is a potential for an in vivo drug interaction with drugs that are metabolized by CYP2D6 (e.g. atomoxetine), and celecoxib may enhance the exposure and toxicity of these drugs. |
+| Intervention | Evaluate each patient's medical history when consideration is given to prescribing celecoxib. A dosage adjustment may be warranted when celecoxib is administered with CYP2D6 substrates. [see Clinical Pharmacology (12.3)]. |
+| Corticosteroids |  |
+| Clinical Impact: | Concomitant use of corticosteroids with celecoxib may increase the risk of GI ulceration or bleeding. |
+| Intervention | Monitor patients with concomitant use of celecoxib with corticosteroids for signs of bleeding [see Warnings and Precautions (5.2)]. |
