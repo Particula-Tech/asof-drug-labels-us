@@ -4,7 +4,7 @@ NDC 0310-0325-20
 
 For Intravenous Use Only
 
-MERREM® I.V.
+MERREM® IV
 
 meropenem for injection
 
@@ -22,7 +22,7 @@ NDC 0310-0321-30
 
 For Intravenous Use Only
 
-MERREM® I.V.
+MERREM® IV
 
 meropenem for injection
 

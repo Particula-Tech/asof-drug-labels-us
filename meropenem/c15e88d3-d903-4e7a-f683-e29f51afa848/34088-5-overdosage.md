@@ -2,7 +2,7 @@
 
 In mice and rats, large intravenous doses of meropenem (2200 mg/kg to 4000 mg/kg) have been associated with ataxia, dyspnea, convulsions, and mortalities.
 
-Intentional overdosing of MERREM I.V. is unlikely, although accidental overdosing might occur if large doses are given to patients with reduced renal function.
+Intentional overdosing of MERREM IV is unlikely, although accidental overdosing might occur if large doses are given to patients with reduced renal function.
 The largest dose of meropenem administered in clinical trials has been 2 grams given intravenously every 8 hours.
 At this dosage, no adverse pharmacological effects or increased safety risks have been observed.
 
