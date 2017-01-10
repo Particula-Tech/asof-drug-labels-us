@@ -113,21 +113,16 @@ Depo-Provera CI can cause serious side effects, including:
 
 - Effect on the bones: See "What is the most important information I should know about Depo-Provera CI?".
   Teenage years are the most important years to gain bone strength.
-  The decrease in calcium in your bones is of most concern if you are a teenager or have the following problems:
+  The decrease in calcium in your bones is of most concern if you are a teenager or have the following problems:If you need a birth control method for more than 2 years, your healthcare provider may switch you to another birth control method instead of using Depo-Provera CI.
+  If you continue using Depo-Provera CI, your healthcare provider may ask you to have a bone test, especially if you have other risks for weak bones.When Depo-Provera CI is stopped, your bones may start to regain calcium.
+  However, in a study of teenage girls who used Depo-Provera CI for more than 2 years, their hip bones did not completely recover by 5 years after they stopped using Depo-Provera CI.
+  Taking calcium and Vitamin D and exercising daily may lessen the loss of calcium from your bones.
   - bone disease
   - an eating disorder (anorexia nervosa)
   - a strong family history of osteoporosis
   - you take a drug that can lower the amount of calcium in your bones (drugs for epilepsy or steroid drugs)
   - you drink a lot of alcohol (more than 2 drinks a day)
   - you smoke
-
-If you need a birth control method for more than 2 years, your healthcare provider may switch you to another birth control method instead of using Depo-Provera CI.
-If you continue using Depo-Provera CI, your healthcare provider may ask you to have a bone test, especially if you have other risks for weak bones.
-
-When Depo-Provera CI is stopped, your bones may start to regain calcium.
-However, in a study of teenage girls who used Depo-Provera CI for more than 2 years, their hip bones did not completely recover by 5 years after they stopped using Depo-Provera CI.
-Taking calcium and Vitamin D and exercising daily may lessen the loss of calcium from your bones.
-
 - possible increased risk of breast cancer.
   Women who use Depo-Provera CI may have a slightly increased risk of breast cancer compared to non-users.
 - blood clots in your arms, legs, lungs, and eyes
@@ -232,13 +227,11 @@ Active ingredient: medroxyprogesterone acetate
 Inactive ingredients: polyethylene glycol 3350, polysorbate 80, sodium chloride, methylparaben, propylparaben, and water for injection.
 When necessary, pH is adjusted with sodium hydroxide or hydrochloric acid, or both.
 
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-Distributed by Pfizer Pharmacia & Upjohn Company Division of Pfizer Inc, NY, NY 10017
+LAB-0148-12.0
 
-LAB-0148-11.0
-
-This Patient Information has been approved by the U.S. Food and Drug Administration.
-
-January 2015
+December 2016

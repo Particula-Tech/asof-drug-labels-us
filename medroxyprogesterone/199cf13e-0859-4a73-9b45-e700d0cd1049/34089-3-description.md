@@ -9,7 +9,7 @@ The chemical name for medroxyprogesterone acetate is pregn-4-ene-3, 20-dione, 17
 
 The structural formula is as follows:
 
-Depo-Provera CI for intramuscular (IM) injection is available in vials and prefilled syringes, each containing 1 mL of medroxyprogesterone acetate sterile aqueous suspension 150 mg/mL.
+Depo-Provera CI for IM injection is available in vials and prefilled syringes, each containing 1 mL of medroxyprogesterone acetate sterile aqueous suspension 150 mg/mL.
 
 | For Depo-Provera CI vials, each mL of sterile aqueous suspension contains: |  |
 | --- | --- |

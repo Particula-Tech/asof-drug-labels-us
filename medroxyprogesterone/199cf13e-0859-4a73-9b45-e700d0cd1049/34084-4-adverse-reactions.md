@@ -53,7 +53,7 @@ Table 3 Adverse Reactions Reported during Post-Marketing Experience
 
 | Body SystemBody System represented from COSTART medical dictionary. | Adverse Reactions |
 | --- | --- |
-| Body as a Whole | Chest pain, Allergic reactions including angioedema, Fever, Pain at injection site, Chills, Axillary swelling |
+| Body as a Whole | Chest pain, Allergic reactions including angioedema, Fever, Injection site abscessInjection site abscess and injection site infections have been reported; therefore strict aseptic injection technique should be followed when administering Depo Provera CI in order to avoid injection site infections [see Dosage and Administration (2.1)]., Injection site infection, Injection site nodule/lump, Injection site pain/tenderness, Injection site persistent atrophy/indentation/dimpling, Injection-site reaction, Lipodystrophy acquired, Chills, Axillary swelling |
 | Cardiovascular | Syncope, Tachycardia, Thrombophlebitis, Deep vein thrombosis, Pulmonary embolus, Varicose veins |
 | Digestive | Changes in appetite, Gastrointestinal disturbances, Jaundice, Excessive thirst, Rectal bleeding |
 | Hematologic and Lymphatic | Anemia, Blood dyscrasia |

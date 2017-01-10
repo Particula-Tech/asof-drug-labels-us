@@ -69,21 +69,26 @@ Be alert to the possibility of an ectopic pregnancy among women using Depo-Prove
 Anaphylaxis and anaphylactoid reaction have been reported with the use of Depo-Provera CI.
 Institute emergency medical treatment if an anaphylactic reaction occurs.
 
-## 5.6 Liver Function
+## 5.6 Injection Site Reactions
+
+Injection site reactions have been reported with use of Depo-Provera CI [see Adverse Reactions (6.2)].
+Persistent injection site reactions may occur after administration of Depo-Provera CI due to inadvertent subcutaneous administration or release of the drug into the subcutaneous space while removing the needle [see Dosage and Administration (2.1)].
+
+## 5.7 Liver Function
 
 Discontinue Depo-Provera CI use if jaundice or acute or chronic disturbances of liver function develop.
 Do not resume use until markers of liver function return to normal and Depo-Provera CI causation has been excluded.
 
-## 5.7 Convulsions
+## 5.8 Convulsions
 
 There have been a few reported cases of convulsions in patients who were treated with Depo-Provera CI.
 Association with drug use or pre-existing conditions is not clear.
 
-## 5.8 Depression
+## 5.9 Depression
 
 Monitor patients who have a history of depression and do not readminister Depo-Provera CI if depression recurs.
 
-## 5.9 Bleeding Irregularities
+## 5.10 Bleeding Irregularities
 
 Most women using Depo-Provera CI experience disruption of menstrual bleeding patterns.
 Altered menstrual bleeding patterns include amenorrhea, irregular or unpredictable bleeding or spotting, prolonged spotting or bleeding, and heavy bleeding.
@@ -92,7 +97,7 @@ Rule out the possibility of organic pathology if abnormal bleeding persists or i
 As women continue using Depo-Provera CI, fewer experience irregular bleeding and more experience amenorrhea.
 In clinical studies of Depo-Provera CI, by month 12 amenorrhea was reported by 55% of women, and by month 24, amenorrhea was reported by 68% of women using Depo-Provera CI.
 
-## 5.10 Weight Gain
+## 5.11 Weight Gain
 
 Women tend to gain weight while on therapy with Depo-Provera CI.
 From an initial average body weight of 136 lb, women who completed 1 year of therapy with Depo-Provera CI gained an average of 5.4 lb.
@@ -101,23 +106,23 @@ Women who completed 4 years gained an average of 13.8 lb.
 Women who completed 6 years gained an average of 16.5 lb.
 Two percent of women withdrew from a large-scale clinical trial because of excessive weight gain.
 
-## 5.11 Carbohydrate Metabolism
+## 5.12 Carbohydrate Metabolism
 
 A decrease in glucose tolerance has been observed in some patients on Depo-Provera CI treatment.
 Monitor diabetic patients carefully while receiving Depo-Provera CI.
 
-## 5.12 Lactation
+## 5.13 Lactation
 
 Detectable amounts of drug have been identified in the milk of mothers receiving Depo-Provera CI.
 In nursing mothers treated with Depo-Provera CI, milk composition, quality, and amount are not adversely affected.
 Neonates and infants exposed to medroxyprogesterone from breast milk have been studied for developmental and behavioral effects through puberty.
 No adverse effects have been noted.
 
-## 5.13 Fluid Retention
+## 5.14 Fluid Retention
 
 Because progestational drugs including Depo-Provera CI may cause some degree of fluid retention, monitor patients with conditions that might be influenced by this condition, such as epilepsy, migraine, asthma, and cardiac or renal dysfunction.
 
-## 5.14 Return of Fertility
+## 5.15 Return of Fertility
 
 Return to ovulation and fertility is likely to be delayed after stopping Depo-Provera CI.
 In a large US study of women who discontinued use of Depo-Provera CI to become pregnant, data are available for 61% of them.
@@ -126,20 +131,20 @@ Based on Life-Table analysis of these data, it is expected that 68% of women who
 The median time to conception for those who do conceive is 10 months following the last injection with a range of 4 to 31 months, and is unrelated to the duration of use.
 No data are available for 39% of the patients who discontinued Depo-Provera CI to become pregnant and who were lost to follow-up or changed their mind.
 
-## 5.15 Sexually Transmitted Diseases
+## 5.16 Sexually Transmitted Diseases
 
 Patients should be counseled that Depo-Provera CI does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
 
-## 5.16 Pregnancy
+## 5.17 Pregnancy
 
 Although Depo-Provera CI should not be used during pregnancy, there appears to be little or no increased risk of birth defects in women who have inadvertently been exposed to medroxyprogesterone acetate injections in early pregnancy.
 Neonates exposed to medroxyprogesterone acetate in-utero and followed to adolescence showed no evidence of any adverse effects on their health including their physical, intellectual, sexual or social development.
 
-## 5.17 Monitoring
+## 5.18 Monitoring
 
 A woman who is taking hormonal contraceptive should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated healthcare.
 
-## 5.18 Interference with Laboratory Tests
+## 5.19 Interference with Laboratory Tests
 
 The use of Depo-Provera CI may change the results of some laboratory tests, such as coagulation factors, lipids, glucose tolerance, and binding proteins.
 [See Drug Interactions (7.2).]

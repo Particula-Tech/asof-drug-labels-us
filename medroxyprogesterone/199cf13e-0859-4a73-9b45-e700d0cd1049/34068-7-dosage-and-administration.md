@@ -4,7 +4,9 @@
 
 Both the 1 mL vial and the 1 mL prefilled syringe of Depo-Provera CI should be vigorously shaken just before use to ensure that the dose being administered represents a uniform suspension.
 
-The recommended dose is 150 mg of Depo-Provera CI every 3 months (13 weeks) administered by deep IM injection in the gluteal or deltoid muscle.
+The recommended dose is 150 mg of Depo-Provera CI every 3 months (13 weeks) administered by deep intramuscular (IM) injection using strict aseptic technique in the gluteal or deltoid muscle, rotating the sites with every injection.
+As with any IM injection, to avoid an inadvertent subcutaneous injection, body habitus should be assessed prior to each injection to determine if a longer needle is necessary particularly for gluteal IM injection.
+
 Depo-Provera CI should not be used as a long-term birth control method (i.e. longer than 2 years) unless other birth control methods are considered inadequate.
 Dosage does not need to be adjusted for body weight [see Clinical Studies (14.1)].
 
