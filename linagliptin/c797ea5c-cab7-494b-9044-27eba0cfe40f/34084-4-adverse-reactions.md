@@ -70,5 +70,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1.2) and Warnings and Precautions (5.1)]
 - Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see Warnings and Precautions (5.3)]
 - Severe and disabling arthralgia [see Warnings and Precautions (5.4)]
+- Bullous pemphigoid [see Warnings and Precautions (5.5)]
 - Rash
 - Mouth ulceration, stomatitis

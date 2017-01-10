@@ -32,6 +32,13 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.5 Macrovascular Outcomes
+## 5.5 Bullous Pemphigoid
+
+Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
+In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
+Tell patients to report development of blisters or erosions while receiving TRADJENTA.
+If bullous pemphigoid is suspected, TRADJENTA should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
+
+## 5.6 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with TRADJENTA tablets or any other antidiabetic drug.

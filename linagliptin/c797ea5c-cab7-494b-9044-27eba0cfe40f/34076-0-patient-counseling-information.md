@@ -22,6 +22,9 @@ Severe and Disabling Arthralgia Inform patients that severe and disabling joint 
 The time to onset of symptoms can range from one day to years.
 Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.4)].
 
+Bullous Pemphigoid Inform patients that bullous pemphigoid may occur with this class of drugs.
+Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.5)].
+
 Missed Dose Instruct patients to take TRADJENTA only as prescribed.
 If a dose is missed, advise patients not to double their next dose.
 
@@ -34,12 +37,6 @@ Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5253RI012015 10007261/09
-
-IT5437N 10007237/09
-
-IT6174E 090340599/2
-
-IT6177C 090340598/2
+IT5253TL302016
