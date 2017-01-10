@@ -2,23 +2,24 @@
 
 Rx only
 
-# WARNINGS
+# WARNINGS:
 
 SEE BOXED WARNINGS.
 
+For intrathecal and high-dose methotrexate therapy, use the preservative-free formulation of methotrexate.
+Do not use the preserved formulation of methotrexate for intrathecal or high dose therapy because it contains benzyl alcohol.
+
 Use caution when administering high-dose methotrexate to patients receiving proton pump inhibitor (PPI) therapy.
-Case reports and published population pharmacokinetic studies suggest that concomitant use of some PPIs, such as omeprazole, esomeprazole and pantoprazole, with methotrexate (primarily at high dose), may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities.
+Case reports and published population pharmacokinetic studies suggest that concomitant use of some PPIs, such as omeprazole, esomeprazole, and pantoprazole, with methotrexate (primarily at high doses), may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities.
 In two of these cases, delayed methotrexate elimination was observed when high-dose methotrexate was co-administered with PPIs, but was not observed when methotrexate was co-administered with ranitidine.
 However, no formal drug interaction studies of methotrexate with ranitidine have been conducted.
 
-Methotrexate formulations and diluents containing preservatives must not be used for intrathecal or high-dose methotrexate therapy.
-
-# GUIDELINES FOR METHOTREXATE THERAPY WITH LEUCOVORIN RESCUE
+# GUIDELINES FOR METHOTREXATE THERAPY WITH LEUCOVORIN RESCUE:
 
 1.
 Administration of methotrexate should be delayed until recovery if:
 
-- the WBC count is less than 1500/microliter
+- the WBC count is less than 1,500/microliter
 - the neutrophil count is less than 200/microliter
 - the platelet count is less than 75,000/microliter
 - the serum bilirubin level is greater than 1.2 mg/dL
@@ -55,7 +56,7 @@ If necessary, acute, intermittent hemodialysis with a high-flux dialyzer may als
 6.
 Some patients will have abnormalities in methotrexate elimination, or abnormalities in renal function following methotrexate administration, which are significant but less severe than the abnormalities described in the table below.
 These abnormalities may or may not be associated with significant clinical toxicity.
-If significant clinical toxicity is observed, leucovorin rescue should be extended for an additional 24 hours (total 14 doses over 84 hours) in subsequent courses of therapy.
+If significant toxicity is observed, leucovorin rescue should be extended for an additional 24 hours (total 14 doses over 84 hours) in subsequent courses of therapy.
 The possibility that the patient is taking other medications which interact with methotrexate (e.g., medications which may interfere with methotrexate binding to serum albumin, or elimination) should always be reconsidered when laboratory abnormalities or clinical toxicities are observed.
 
 CAUTION: DO NOT ADMINISTER LEUCOVORIN INTRATHECALLY.
@@ -103,7 +104,7 @@ Psoriasis
 Recommended Starting Dose Schedule
 
 1.
-Weekly single oral, IM or IV dosage schedule: 10 to 25 mg per week until adequate response is achieved. †
+Weekly single oral, intramuscular or intravenous dosage schedule: 10 to 25 mg per week until adequate response is achieved. †
 
 2.
 Divided oral dose schedule: 2.5 mg at 12 hour intervals for three doses. †
@@ -115,12 +116,12 @@ Dosages in each schedule may be gradually adjusted to achieve optimal clinical r
 Once optimal clinical response has been achieved, each dosage schedule should be reduced to the lowest possible amount of drug and to the longest possible rest period.
 The use of methotrexate may permit the return to conventional topical therapy, which should be encouraged.
 
-# HANDLING AND DISPOSAL
+# HANDLING AND DISPOSAL:
 
 Procedures for proper handling and disposal of anticancer drugs should be considered.
 Several guidelines on this subject have been published.1-7 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
 
-# DILUTION INSTRUCTIONS FOR LIQUID METHOTREXATE INJECTION PRODUCT
+# DILUTION INSTRUCTIONS FOR LIQUID METHOTREXATE INJECTION PRODUCT:
 
 Methotrexate Injection USP, Isotonic Liquid, Contains Preservative
 
@@ -133,8 +134,8 @@ Storage for 24 hours at a temperature of 21° to 25°C results in a product whic
 | --- | --- | --- |
 | Normal Methotrexate Elimination | Serum methotrexate level approximately 10 micromolar at 24 hours after administration, 1 micromolar at 48 hours, and less than 0.2 micromolar at 72 hours | 15 mg PO, IM or IV q 6 hours for 60 hours (10 doses starting at 24 hours after start of methotrexate infusion). |
 | Delayed Late Methotrexate Elimination | Serum methotrexate level remaining above 0.2 micromolar at 72 hours, and more than 0.05 micromolar at 96 hours after administration. | Continue 15 mg PO, IM, or IV q 6 hours, until methotrexate level is less than 0.05 micromolar. |
-| Delayed Early Methotrexate Elimination and/or Evidence of Acute Renal Injury | Serum methotrexate level of 50 micromolar or more at 24 hours, or 5 micromolar or more at 48 hours after administration, OR; a 100% or greater increase in serum creatinine level at 24 hours after methotrexate administration (e.g., an increase from 0.5 mg/dL to a level of 1 mg/dL or more). | 150 mg IV q 3 hours, until methotrexate level is less than 1 micromolar; then 15 mg IV q 3 hours, until methotrexate level is less than 0.05 micromolar. |
+| Delayed Early Methotrexate Elimination and/or Evidence of Acute Renal Injury | Serum methotrexate level of 50 micromolar or more at 24 hours, or 5 micromolar or more at 48 hours after administration, OR; a 100% or greater increase in serum creatinine level at 24 hours after methotrexate administration, (e.g., an increase from 0.5 mg/dL to a level of 1 mg/dL or more). | 150 mg IV q 3 hours, until methotrexate level is less than 1 micromolar; then 15 mg IV q 3 hours, until methotrexate level is less than 0.05 micromolar. |
 
-451043D
+www.fresenius-kabi.us 451043E
 
-Revised: April 2012
+Revised: April 2016

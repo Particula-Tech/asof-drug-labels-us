@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 IN GENERAL, THE INCIDENCE AND SEVERITY OF ACUTE SIDE EFFECTS ARE RELATED TO DOSE AND FREQUENCY OF ADMINISTRATION.
 THE MOST SERIOUS REACTIONS ARE DISCUSSED ABOVE UNDER ORGAN SYSTEM TOXICITY IN THE PRECAUTIONS SECTION.
@@ -32,7 +32,7 @@ Ophthalmic: conjunctivitis, serious visual changes of unknown etiology.
 
 Pulmonary System: respiratory fibrosis, respiratory failure, alveolitis, interstitial pneumonitis deaths have been reported, and chronic interstitial obstructive pulmonary disease has occasionally occurred.
 
-Skin: erythematous rashes, pruritus, urticaria, photosensitivity, pigmentary changes, alopecia, ecchymosis, telangiectasia, acne, furunculosis, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson syndrome, skin necrosis, skin ulceration, and exfoliative dermatitis.
+Skin: erythematous rashes, pruritus, urticaria, photosensitivity, pigmentary changes, alopecia, ecchymosis, telangiectasia, acne, furunculosis, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson syndrome, skin necrosis, skin ulceration and exfoliative dermatitis.
 
 Urogenital System: severe nephropathy or renal failure, azotemia, cystitis, hematuria, proteinuria; defective oogenesis or spermatogenesis, transient oligospermia, menstrual dysfunction, vaginal discharge, and gynecomastia; infertility, abortion, fetal death, fetal defects.
 
@@ -49,7 +49,7 @@ Incidence greater than 10%: Elevated liver function tests 15%, nausea/vomiting 1
 
 Incidence 3% to 10%: Stomatitis, thrombocytopenia (platelet count less than 100,000/mm3).
 
-Incidence 1% to 3%: Rash/pruritus/dermatitis, diarrhea, alopecia, leukopenia (WBC less than 3000/mm3), pancytopenia, dizziness.
+Incidence 1% to 3%: Rash/pruritus/dermatitis, diarrhea, alopecia, leukopenia (WBC less than 3,000/mm3), pancytopenia, dizziness.
 
 Two other controlled trials of patients (n=680) with Rheumatoid Arthritis on 7.5 mg to 15 mg/wk oral doses showed an incidence of interstitial pneumonitis of 1% (see PRECAUTIONS).
 

@@ -1,11 +1,12 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 ## Neoplastic Diseases
 
-Oral administration in tablet form is often preferred when low doses are being administered since absorption is rapid and effective serum levels are obtained.
-Methotrexate Injection, USP may be given by the intramuscular, intravenous or the intra-arterial route.
-The preserved formulation contains Benzyl Alcohol and must not be used for intrathecal or high-dose therapy.
+For intrathecal and high-dose methotrexate therapy, use the preservative-free formulation of methotrexate.
+Do not use the preserved formulation of methotrexate for intrathecal or high-dose therapy because it contains benzyl alcohol.
 
+Oral administration in tablet form is often preferred when low doses are being administered since absorption is rapid and effective serum levels are obtained.
+Methotrexate Injection may be given by the intramuscular, intravenous or intra-arterial route.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 Choriocarcinoma and Similar Trophoblastic Diseases
@@ -38,42 +39,6 @@ If and when relapse does occur, reinduction of remission can again usually be ob
 A variety of combination chemotherapy regimens have been used for both induction and maintenance therapy in acute lymphoblastic leukemia.
 The physician should be familiar with the new advances in antileukemic therapy.
 
-Meningeal Leukemia
-
-In the treatment or prophylaxis of meningeal leukemia, methotrexate must be administered intrathecally.
-Preservative free methotrexate is diluted to a concentration of 1 mg/mL in an appropriate sterile, preservative free medium such as 0.9% Sodium Chloride Injection, USP.
-
-The cerebrospinal fluid volume is dependent on age and not on body surface area.
-The CSF is at 40% of the adult volume at birth and reaches the adult volume in several years.
-
-Intrathecal methotrexate administration at a dose of 12 mg/m2 (maximum 15 mg) has been reported to result in low CSF methotrexate concentrations and reduced efficacy in pediatric patients and high concentrations and neurotoxicity in adults.
-The following dosage regimen is based on age instead of body surface area:
-
-| AGE (years) | DOSE (mg) |
-| --- | --- |
-| < 1 | 6 |
-| 1 | 8 |
-| 2 | 10 |
-| 3 or older | 12 |
-
-In one study in patients under the age of 40, this dosage regimen appeared to result in more consistent CSF methotrexate concentrations and less neurotoxicity.
-Another study in pediatric patients with acute lymphocytic leukemia compared this regimen to a dose of 12 mg/m2 (maximum 15 mg), a significant reduction in the rate of CNS relapse was observed in the group whose dose was based on age.
-
-Because the CSF volume and turnover may decrease with age, a dose reduction may be indicated in elderly patients.
-
-For treatment of meningeal leukemia, intrathecal methotrexate may be given at intervals of 2 to 5 days.
-However, administration at intervals of less than 1 week may result in increased subacute toxicity.
-Methotrexate is administered until the cell count of the cerebrospinal fluid returns to normal.
-At this point one additional dose is advisable.
-For prophylaxis against meningeal leukemia, the dosage is the same as for treatment except for the intervals of administration.
-On this subject, it is advisable for the physician to consult the medical literature.
-
-Untoward side effects may occur with any given intrathecal injection and are commonly neurological in character.
-Large doses may cause convulsions.
-Methotrexate given by the intrathecal route appears significantly in the systemic circulation and may cause systemic methotrexate toxicity.
-Therefore, systemic antileukemic therapy with the drug should be appropriately adjusted, reduced or discontinued.
-Focal leukemic involvement of the central nervous system may not respond to intrathecal chemotherapy and is best treated with radiotherapy.
-
 Lymphomas
 
 In Burkitt’s tumor, Stages I-II, methotrexate has produced prolonged remissions in some cases.
@@ -96,15 +61,15 @@ An effective adjuvant chemotherapy regimen requires the administration of severa
 In addition to high-dose methotrexate with leucovorin rescue, these agents may include doxorubicin, cisplatin, and the combination of bleomycin, cyclophosphamide and dactinomycin (BCD) in the doses and schedule shown in the table below.
 The starting dose for high-dose methotrexate treatment is 12 grams/m2.
 If this dose is not sufficient to produce a peak serum methotrexate concentration of 1,000 micromolar (10-3 mol/L) at the end of the methotrexate infusion, the dose may be escalated to 15 grams/m2 in subsequent treatments.
-If the patient is vomiting or is unable to tolerate oral medication, leucovorin is given IV or IM at the same dose and schedule.
+If the patient is vomiting or is unable to tolerate oral medication, leucovorin is given intravenously or intramuscularly at the same dose and schedule.
 
 | Drug* | Dose* | Treatment Week After Surgery |
 | --- | --- | --- |
 | Methotrexate | 12 g/m2 IV as 4 hour infusion (starting dose) | 4,5,6,7,11,12,15, 16,29,30,44,45 |
 | Leucovorin | 15 mg orally every six hours for 10 doses starting at 24 hours after start of methotrexate infusion. | _ _ _ |
 | Doxorubicin† as a single drug | 30 mg/m2/day IV x 3 days | 8,17 |
-| Doxorubicin†Cisplatin† | 50 mg/m2 IV100 mg/m2 IV | 20,23,33,3620,23,33,36 |
-| Bleomycin†Cyclophosphamide†Dactinomycin† | 15 units/m2 IV x 2 days 600 mg/m2 IV x 2 days0.6 mg/m2 IV x 2 days | 2,13,26,39,422,13,26,39,422,13,26,39,42 |
+| Doxorubicin† Cisplatin† | 50 mg/m2 IV 100 mg/m2 IV | 20,23,33,36 20,23,33,36 |
+| Bleomycin† Cyclophosphamide† Dactinomycin† | 15 units/m2 IV x 2 days 600 mg/m2 IV x 2 days 0.6 mg/m2 IV x 2 days | 2,13,26,39,42 2,13,26,39,42 2,13,26,39,42 |
 
 *Link MP, Goorin AM, Miser AW, et al: The effect of adjuvant chemotherapy on relapse-free survival in patients with osteosarcoma of the extremity.
 N Engl J of Med 1986; 314(No.25):1600-1606.

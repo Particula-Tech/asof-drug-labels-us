@@ -1,4 +1,4 @@
-# CONTRAINDICATIONS
+# CONTRAINDICATIONS:
 
 Methotrexate can cause fetal death or teratogenic effects when administered to a pregnant woman.
 Methotrexate is contraindicated in pregnant women with psoriasis or rheumatoid arthritis and should be used in the treatment of neoplastic diseases only when the potential benefit outweighs the risk to the fetus.
@@ -11,6 +11,6 @@ Patients with psoriasis or rheumatoid arthritis with alcoholism, alcoholic liver
 
 Patients with psoriasis or rheumatoid arthritis who have overt or laboratory evidence of immunodeficiency syndromes should not receive methotrexate.
 
-Patients with psoriasis or rheumatoid arthritis who have preexisting blood dyscrasias, such as bone marrow hypoplasia, leukopenia, thrombocytopenia, or significant anemia, should not receive methotrexate.
+Patients with psoriasis or rheumatoid arthritis who have pre-existing blood dyscrasias, such as bone marrow hypoplasia, leukopenia, thrombocytopenia, or significant anemia, should not receive methotrexate.
 
 Patients with a known hypersensitivity to methotrexate should not receive the drug.

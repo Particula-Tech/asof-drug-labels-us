@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Methotrexate inhibits dihydrofolic acid reductase.
 Dihydrofolates must be reduced to tetrahydrofolates by this enzyme before they can be utilized as carriers of one-carbon groups in the synthesis of purine nucleotides and thymidylate.
@@ -14,7 +14,7 @@ Clarification of methotrexate’s effect on immune activity and its relation to 
 In patients with rheumatoid arthritis, effects of methotrexate on articular swelling and tenderness can be seen as early as 3 to 6 weeks.
 Although methotrexate clearly ameliorates symptoms of inflammation (pain, swelling, stiffness), there is no evidence that it induces remission of rheumatoid arthritis nor has a beneficial effect been demonstrated on bone erosions and other radiologic changes which result in impaired joint use, functional disability, and deformity.
 
-Most studies of methotrexate in patients with rheumatoid arthritis are relatively short term (3 to 6 months).
+Most studies of methotrexate in patients with rheumatoid arthritis are relatively short-term (3 to 6 months).
 Limited data from long-term studies indicate that an initial clinical improvement is maintained for at least two years with continued therapy.
 
 In psoriasis, the rate of production of epithelial cells in the skin is greatly increased over normal skin.
@@ -28,7 +28,7 @@ The actual mechanism of action is unknown.
 In a 6-month double-blind, placebo-controlled trial of 127 pediatric patients with juvenile rheumatoid arthritis (JRA) (mean age, 10.1 years; age range, 2.5 to 18 years; mean duration of disease, 5.1 years) on background non-steroidal anti-inflammatory drugs (NSAIDs) and/or prednisone, methotrexate given weekly at an oral dose of 10 mg/m2 provided significant clinical improvement compared to placebo as measured by either the physician’s global assessment, or by a patient composite (25% reduction in the articular-severity score plus improvement in parent and physician global assessments of disease activity).
 Over two-thirds of the patients in this trial had polyarticular-course JRA, and the numerically greatest response was seen in this subgroup treated with 10 mg/m2/wk methotrexate.
 The overwhelming majority of the remaining patients had systemic-course JRA.
-All patients were unresponsive to NSAIDs; approximately one-third were using low- dose corticosteroids.
+All patients were unresponsive to NSAIDs; approximately one-third were using low-dose corticosteroids.
 Weekly methotrexate at a dose of 5 mg/m2 was not significantly more effective than placebo in this trial.
 
 Two Pediatric Oncology Group studies (one randomized and one non-randomized) demonstrated a significant improvement in relapse-free survival in patients with non-metastatic osteosarcoma, when high-dose methotrexate with leucovorin rescue was used in combination with other chemotherapeutic agents following surgical resection of the primary tumor.
@@ -97,7 +97,7 @@ Non-linear elimination due to saturation of renal tubular reabsorption has been 
 Impaired renal function, as well as concurrent use of drugs such as weak organic acids that also undergo tubular secretion, can markedly increase methotrexate serum levels.
 Excellent correlation has been reported between methotrexate clearance and endogenous creatinine clearance.
 
-Methotrexate clearance rates vary widely and are generally at higher doses.
+Methotrexate clearance rates vary widely and are generally decreased at higher doses.
 Delayed drug clearance has been identified as one of the major factors responsible for methotrexate toxicity.
 It has been postulated that the toxicity of methotrexate for normal tissues is more dependent upon the duration of exposure to the drug rather than the peak level achieved.
 When a patient has delayed drug elimination due to compromised renal function, a third space effusion, or other causes, methotrexate serum concentrations may remain elevated for prolonged periods.

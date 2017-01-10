@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# OVERDOSAGE:
 
 Leucovorin is indicated to diminish the toxicity and counteract the effect of inadvertently administered overdosages of methotrexate.
 Leucovorin administration should begin as promptly as possible.
@@ -19,10 +19,10 @@ For example, leukopenia, thrombocytopenia, anemia, pancytopenia, bone marrow sup
 In some cases, no symptoms were reported.
 There have been reports of death following overdose.
 In these cases, events such as sepsis or septic shock, renal failure, and aplastic anemia were also reported.
-
 Symptoms of intrathecal overdose are generally central nervous system (CNS) symptoms, including headache, nausea and vomiting, seizure or convulsion, and acute toxic encephalopathy.
 In some cases, no symptoms were reported.
 There have been reports of death following intrathecal overdose.
 In these cases, cerebellar herniation associated with increased intracranial pressure, and acute toxic encephalopathy have also been reported.
-
-There are published case reports of intravenous and intrathecal carboxypeptidase G2 treatment to hasten clearance of methotrexate in cases of overdose.
+Glucarpidase is indicated for the treatment of toxic methotrexate concentrations in patients with delayed methotrexate clearance due to impaired renal function (refer to the glucarpidase prescribing information).
+If glucarpidase is used, do not administer leucovorin within two hours before or after a dose of glucarpidase because leucovorin is a substrate for glucarpidase.
+There are published case reports of intravenous and intrathecal glucarpidase treatment to hasten clearance of methotrexate in cases of overdose.

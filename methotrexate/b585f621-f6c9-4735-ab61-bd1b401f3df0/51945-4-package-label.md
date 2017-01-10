@@ -1,43 +1,29 @@
 PACKAGE LABEL- PRINCIPAL DISPLAY- Methotrexate 250 mg Vial Label
 
-NDC 63323-123-10
-
-102310
-
 Methotrexate Injection, USP
 
-250 mg (25 mg/mL)
+250 mg per 10 mL (25 mg per mL)
 
-CONTAINS PRESERVATIVE
+Contains preservative.
 
-Cytotoxic Agent
+Cytotoxic agent.
 
-Sterile Isotonic Liquid
-
-NOT FOR INTRATHECAL USE
+Not for intrathecal use.
+See package insert for routes of administration.
 
 10 mL Vial
 
 Rx only
 
-PACKAGE LABEL- PRINCIPAL DISPLAY- Methotrexate 250 mg Vial Carton Panel
+PACKAGE LABEL- PRINCIPAL DISPLAY- Methotrexate 250 mg Vial Carton Panel Methotrexate Injection, USP
 
-NDC 63323-123-10
+250 mg per 10 mL (25 mg per mL)
 
-102310
+Contains preservative.
 
-Methotrexate Injection, USP
+Cytotoxic agent.
 
-250 mg (25 mg/mL)
+Not for intrathecal use.
+See package insert for routes of administration.
 
-CONTAINS PRESERVATIVE
-
-Cytotoxic Agent
-
-Sterile Isotonic Liquid
-
-NOT FOR INTRATHECAL USE
-
-10 mL Vial
-
-Rx only
+Rx only 10 mL Vial

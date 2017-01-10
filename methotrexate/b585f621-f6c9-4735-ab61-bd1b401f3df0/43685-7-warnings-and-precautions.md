@@ -1,4 +1,4 @@
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 
@@ -103,11 +103,14 @@ Safety and effectiveness in pediatric patients have been established only in can
 
 Published clinical studies evaluating the use of methotrexate in children and adolescents (i.e., patients 2 to 16 years of age) with JRA demonstrated safety comparable to that observed in adults with rheumatoid arthritis (see CLINICAL PHARMACOLOGY, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
 
-Methotrexate injectable formulations containing the preservative benzyl alcohol are not recommended for use in neonates.
-There have been reports of fatal ‘gasping syndrome’ in neonates (children less than one month of age) following the administrations of intravenous solutions containing the preservative benzyl alcohol.
+For intrathecal and high-dose methotrexate therapy, use the preservative-free formulation of methotrexate.
+Do not use the preserved formulation of methotrexate for intrathecal or high-dose therapy because it contains benzyl alcohol.
+
+Use the preservative-free formulation of methotrexate in neonates.
+There have been reports of fatal ‘gasping syndrome’ in neonates (children less than one month of age) following the administration of intravenous solutions containing the preservative benzyl alcohol.
 Symptoms include a striking onset of gasping respiration, hypotension, bradycardia, and cardiovascular collapse.
 
-Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m2) (see PRECAUTIONS, Organ System Toxicity, Neurologic).
+Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m2) (see PRECAUTIONS, Organ System Toxicity,Neurologic).
 
 ## Geriatric Use
 
@@ -159,7 +162,7 @@ Of the 64 cases of fibrosis, 60 were deemed mild.
 The reticulin stain is more sensitive for early fibrosis and its use may increase these figures.
 It is unknown whether even longer use will increase these risks.
 
-Liver function tests should be performed at baseline and at 4 to 8 week intervals in patients receiving methotrexate for rheumatoid arthritis.
+Liver function tests should be performed at baseline at 4 to 8 week intervals in patients receiving methotrexate for rheumatoid arthritis.
 Pretreatment liver biopsy should be performed for patients with a history of excessive alcohol consumption, persistently abnormal baseline liver function test values or chronic hepatitis B or C infection.
 During therapy, liver biopsy should be performed if there are persistent liver function test abnormalities or there is a decrease in serum albumin below the normal range (in the setting of well controlled rheumatoid arthritis).
 
@@ -208,7 +211,7 @@ Close attention to renal function including adequate hydration, urine alkaliniza
 Skin
 
 Severe, occasionally fatal, dermatologic reactions, including toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, skin necrosis, and erythema multiforme, have been reported in children and adults, within days of oral, intramuscular, intravenous, or intrathecal methotrexate administration.
-Reactions were noted after single or multiple, low, intermediate or high doses of methotrexate in patients with neoplastic and non-neoplastic diseases.
+Reactions were noted after single or multiple low, intermediate, or high doses of methotrexate in patients with neoplastic and non-neoplastic diseases.
 
 Other Precautions
 
