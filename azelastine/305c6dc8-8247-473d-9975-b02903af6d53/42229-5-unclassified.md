@@ -122,7 +122,7 @@ Before you use azelastine hydrochloride nasal solution for the first time, you w
 
 Priming your azelastine hydrochloride nasal solution
 
-Remove the white dust cover over the tip of the pump and the white safety clip just under the “shoulders” of the pump (See Figure B). Hold the bottle upright with 2 fingers on the shoulders of the spray pump unit and
+Remove the blue dust cover over the tip of the pump and the blue safety clip just under the “shoulders” of the pump (See Figure B). Hold the bottle upright with 2 fingers on the shoulders of the spray pump unit and
 
 - put your thumb on the bottom of the bottle.
   Press upward with your thumb and release for the pumping action.
@@ -198,7 +198,7 @@ Halol-Baroda Highway,
 
 Halol-389 350, Gujarat, India.
 
-PJPI0385B
+PJPI0385C
 
 ISS.
-05/2015
+10/2016

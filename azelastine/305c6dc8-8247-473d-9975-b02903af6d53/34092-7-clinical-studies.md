@@ -8,7 +8,7 @@ Assessment of efficacy was based on the 12-hour reflective Total Symptom Complex
 The MSC was calculated as the average of individual symptoms of nose blows, sneezes, runny nose/sniffles, itchy nose, and watery eyes as assessed by patients on a 0 to 5 categorical scale.
 Azelastine hydrochloride nasal solution two sprays per nostril twice daily demonstrated a greater decrease in the MSC than placebo (Table 3).
 
-Table 3: Mean Change from Baseline in Reflective MSCMajor Symptom Comlex (MSC): Average of individual symptoms of nose blows, sneezes, runny nose/sniffles, itchy nose, and watery eyes as assessed by patients on a 0 to 5 categorical scale. in Adults and Adolescents ≥12 Years with Seasonal Allergic Rhinitis Treated with Azelastine Hydrochloride Nasal Solution Two Sprays Per Nostril Twice Daily Versus Placebo
+Table 3: Mean Change from Baseline in Reflective MSC in Adults and Adolescents ≥12 Years with Seasonal Allergic Rhinitis Treated with Azelastine Hydrochloride Nasal Solution Two Sprays Per Nostril Twice Daily Versus Placebo
 
 |  | Treatment | N | Baseline LS Mean (SD) | Change from Baseline (SD) | TreatmentDifference | P-value |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -28,7 +28,7 @@ Assessment of efficacy was based on the 12­-hour reflective Total Nasal Symptom
 The primary efficacy endpoint was the change from Baseline to Day 14 in rTNSS.
 The mean change from baseline in rTNSS was greater in patients receiving azelastine hydrochloride nasal solution one spray per nostril twice daily than those receiving placebo (Table 4).
 
-Table 4: Mean Change from Baseline in Reflective TNSSTotal Nasal Symptom Score (TNSS): Average of individual symptoms of runny nose, sneezing, itchy nose, and nasal congestion as assessed by patients on a 0 to 3 categorical scale. in Adults and Adolescents ≥12 years with Seasonal Allergic Rhinitis Treated with Azelastine Hydrochloride Nasal Solution One Spray Per Nostril Twice Daily Versus Placebo
+Table 4: Mean Change from Baseline in Reflective TNSS in Adults and Adolescents ≥12 years with Seasonal Allergic Rhinitis Treated with Azelastine Hydrochloride Nasal Solution One Spray Per Nostril Twice Daily Versus Placebo
 
 |  | Treatment | N | Baseline LS Mean (SD) | Change from Baseline (SD) | TreatmentDifference | P-value |
 | --- | --- | --- | --- | --- | --- | --- |
