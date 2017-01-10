@@ -70,7 +70,7 @@ Administration Information
 
 Instruct patients to swallow bupropion hydrochloride extended-release tablets (XL) whole so that the release rate is not altered.
 Instruct patients if they miss a dose, not to take an extra tablet to make up for the missed dose and to take the next tablet at the regular time because of the dose-related risk of seizure.
-Instruct patients that bupropion hydrochloride extended-release tablets (XL) tablets should be swallowed whole and not crushed, divided, or chewed.
+Instruct patients that bupropion hydrochloride extended-release tablets (XL) should be swallowed whole and not crushed, divided, or chewed.
 Bupropion hydrochloride extended-release tablets (XL) should be administered in the morning and may be taken with or without food.
 
 *The following are registered trademarks of their respective manufacturers: ZYBAN®/GlaxoSmithKline, WELLBUTRIN®/GlaxoSmithKline, WELLBUTRIN SR®/ GlaxoSmithKline.
@@ -79,4 +79,4 @@ Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: February 2015
+Revised: April 2016

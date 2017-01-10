@@ -82,7 +82,7 @@ The risk of seizure can be reduced if the bupropion hydrochloride extended-relea
 
 Treatment with bupropion hydrochloride extended-release tablets (XL) can result in elevated blood pressure and hypertension.
 Assess blood pressure before initiating treatment with bupropion hydrochloride extended-release tablets (XL), and monitor periodically during treatment.
-The risk of hypertension is increased if bupropion hydrochloride extended-release tablets (XL) is used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity [see Contraindications (4)].
+The risk of hypertension is increased if bupropion hydrochloride extended-release tablets (XL) are used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity [see Contraindications (4)].
 
 Data from a comparative trial of the sustained-release formulation of bupropion HCl, nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
 In this trial, 6.1% of subjects treated with the combination of sustained-release bupropion and NTS had treatment-emergent hypertension compared to 2.5%, 1.6%, and 3.1% of subjects treated with sustained-release bupropion, NTS, and placebo, respectively.
