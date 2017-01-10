@@ -46,8 +46,6 @@ Fertility studies in rats treated orally with up to 300 mg/kg/day (31 times the 
 
 ### Teratogenic effects
 
-#### Pregnancy Category B
-
 In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters, has not been associated with an increased frequency of congenital abnormalities.
 
 Clindamycin vaginal ovules should be used during the first trimester of pregnancy only if clearly needed and the benefits outweigh the risks.
