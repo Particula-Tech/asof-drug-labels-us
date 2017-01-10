@@ -2,28 +2,20 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
-
-JENTADUETO
-
-There are no adequate and well controlled studies in pregnant women with JENTADUETO or its individual components, and some clinical data is available for metformin which indicate that the risk for major malformations was not increased when metformin is taken during the first trimester in pregnancy.
+Pregnancy Category B JENTADUETO There are no adequate and well controlled studies in pregnant women with JENTADUETO or its individual components, and some clinical data is available for metformin which indicate that the risk for major malformations was not increased when metformin is taken during the first trimester in pregnancy.
 In addition, metformin was not associated with increased perinatal complications.
 Nevertheless, because these clinical data cannot rule out the possibility of harm, JENTADUETO should be used during pregnancy only if clearly needed.
 
 JENTADUETO was not teratogenic when administered to Wistar Han rats during the period of organogenesis at doses similar to clinical exposure.
 At higher maternally toxic doses (9 and 23 times the clinical dose based on exposure), the metformin component of the combination was associated with an increased incidence of fetal rib and scapula malformations.
 
-Linagliptin
-
-Linagliptin was not teratogenic when administered to pregnant Wistar Han rats and Himalayan rabbits during the period of organogenesis at doses up to 240 mg/kg and 150 mg/kg, respectively.
+Linagliptin Linagliptin was not teratogenic when administered to pregnant Wistar Han rats and Himalayan rabbits during the period of organogenesis at doses up to 240 mg/kg and 150 mg/kg, respectively.
 These doses represent approximately 943 times the clinical dose in rats and 1943 times the clinical dose in rabbits, based on exposure.
 No functional, behavioral, or reproductive toxicity was observed in offspring of female Wistar Han rats when administered linagliptin from gestation day 6 to lactation day 21 at a dose 49 times the maximum recommended human dose, based on exposure.
 
 Linagliptin crosses the placenta into the fetus following oral dosing in pregnant rats and rabbits.
 
-Metformin Hydrochloride
-
-Metformin has been studied for embryo-fetal effects in 2 rat strains and in rabbits.
+Metformin Hydrochloride Metformin has been studied for embryo-fetal effects in 2 rat strains and in rabbits.
 Metformin was not teratogenic in Sprague Dawley rats up to 600 mg/kg or in Wistar Han rats up to 200 mg/kg (2-3 times the clinical dose based on body surface area or exposure, respectively).
 At higher maternally toxic doses (9 and 23 times the clinical dose based on exposure), an increased incidence of rib and scapula skeletal malformations was observed in the Wistar Han strain.
 Metformin was not teratogenic in rabbits at doses up to 140 mg/kg (similar to clinical dose based on body surface area).
@@ -46,19 +38,27 @@ Safety and effectiveness of JENTADUETO in pediatric patients under 18 years of a
 
 ## 8.5 Geriatric Use
 
-Linagliptin is minimally excreted by the kidney; however, metformin is substantially excreted by the kidney.
-Considering that aging can be associated with reduced renal function, JENTADUETO should be used with caution as age increases [see Warnings and Precautions (5.1, 5.3) and Clinical Pharmacology (12.3)].
+Linagliptin is minimally excreted by the kidney; however, metformin is substantially excreted by the kidney [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-Linagliptin
-
-There were 4040 type 2 diabetes patients treated with linagliptin 5 mg from 15 clinical trials of linagliptin; 1085 (27%) patients were 65 years and over, while 131 (3%) were 75 years and over.
+Linagliptin There were 4040 type 2 diabetes patients treated with linagliptin 5 mg from 15 clinical trials of linagliptin; 1085 (27%) patients were 65 years and over, while 131 (3%) were 75 years and over.
 Of these patients, 2566 were enrolled in 12 double-blind placebo-controlled studies; 591 (23%) were 65 years and over, while 82 (3%) were 75 years and over.
 No overall differences in safety or effectiveness were observed between patients 65 years and over and younger patients.
 Therefore, no dose adjustment is recommended in the elderly population.
 While clinical studies of linagliptin have not identified differences in response between the elderly and younger patients, greater sensitivity of some older individuals cannot be ruled out.
 
-Metformin
+Metformin Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
+Assess renal function more frequently in elderly patients [see Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
-Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
-The initial and maintenance dosing of metformin should be conservative in patients with advanced age, due to the potential for decreased renal function in this population.
-Any dose adjustment should be based on a careful assessment of renal function [see Contraindications (4), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
+## 8.6 Renal Impairment
+
+Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
+JENTADUETO is contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2[See Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+
+If JENTADUETO is discontinued due to evidence of renal impairment, linagliptin may be continued as a single entity tablet at the same total daily dose of 5 mg.
+No dose adjustment of linagliptin is recommended in patients with renal impairment.
+
+## 8.7 Hepatic Impairment
+
+Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
+JENTADUETO is not recommended in patients with hepatic impairment [See Warnings and Precautions (5.1)].

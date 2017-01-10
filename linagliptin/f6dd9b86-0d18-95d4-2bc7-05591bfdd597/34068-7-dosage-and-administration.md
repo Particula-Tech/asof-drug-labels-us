@@ -16,6 +16,19 @@ Recommended starting dose:
 No studies have been performed specifically examining the safety and efficacy of JENTADUETO in patients previously treated with other oral antihyperglycemic agents and switched to JENTADUETO.
 Any change in therapy of type 2 diabetes mellitus should be undertaken with care and appropriate monitoring as changes in glycemic control can occur.
 
-## 2.2 Concomitant Use with an Insulin Secretagogue (e.g., Sulfonylurea) or with Insulin
+## 2.2 Recommended Dosing in Renal Impairment
 
-When JENTADUETO is used in combination with an insulin secretagogue (e.g., sulfonylurea) or with insulin, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.5)].
+Assess renal function prior to initiation of JENTADUETO and periodically thereafter.
+
+JENTADUETO is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2.
+
+Initiation of JENTADUETO in patients with an-eGFR between 30-45 mL/min/1.73 m2 is not recommended.
+
+In patients taking JENTADUETO whose eGFR later falls below 45 mL/min/1.73 m2, assess benefit risk of continuing therapy.
+
+Discontinue JENTADUETO if the patient’s eGFR later falls below 30 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.1)].
+
+## 2.3 Discontinuation for Iodinated Contrast Imaging Procedures
+
+Discontinue JENTADUETO at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Re-evaluate eGFR 48 hours after the imaging procedure; restart JENTADUETO if renal function is stable [see Warnings and Precautions (5.1)].

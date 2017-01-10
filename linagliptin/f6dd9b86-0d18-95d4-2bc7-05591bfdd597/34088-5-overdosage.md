@@ -6,13 +6,9 @@ Removal of linagliptin by hemodialysis or peritoneal dialysis is unlikely.
 However, metformin is dialyzable with a clearance of up to 170 mL/min under good hemodynamic conditions.
 Therefore, hemodialysis may be useful partly for removal of accumulated metformin from patients in whom JENTADUETO overdosage is suspected.
 
-Linagliptin
-
-During controlled clinical trials in healthy subjects, with single doses of up to 600 mg of linagliptin (equivalent to 120 times the recommended daily dose), there were no dose-related clinical adverse drug reactions.
+Linagliptin During controlled clinical trials in healthy subjects, with single doses of up to 600 mg of linagliptin (equivalent to 120 times the recommended daily dose), there were no dose-related clinical adverse drug reactions.
 There is no experience with doses above 600 mg in humans.
 
-Metformin
-
-Overdose of metformin has occurred, including ingestion of amounts greater than 50 grams.
+Metformin Overdose of metformin has occurred, including ingestion of amounts greater than 50 grams.
 Hypoglycemia was reported in approximately 10% of cases, but no causal association with metformin has been established.
 Lactic acidosis has been reported in approximately 32% of metformin overdose cases [see Boxed Warning and Warnings and Precautions (5.1)].

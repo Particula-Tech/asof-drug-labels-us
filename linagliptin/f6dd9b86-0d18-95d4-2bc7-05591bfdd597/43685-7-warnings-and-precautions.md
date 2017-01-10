@@ -2,42 +2,54 @@
 
 ## 5.1 Lactic Acidosis
 
-Metformin
+Metformin There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases.
+These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
+Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate pyruvate ratio; metformin plasma levels generally >5 mcg/mL.
+Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase risk of lactic acidosis, especially in patients at risk.
 
-Lactic acidosis is a serious, metabolic complication that can occur due to metformin accumulation during treatment with JENTADUETO and is fatal in approximately 50% of cases.
-Lactic acidosis may also occur in association with a number of pathophysiologic conditions, including diabetes mellitus, and whenever there is significant tissue hypoperfusion and hypoxemia.
-Lactic acidosis is characterized by elevated blood lactate levels (>5 mmol/L), decreased blood pH, electrolyte disturbances with an increased anion gap, and an increased lactate/pyruvate ratio.
-When metformin is implicated as the cause of lactic acidosis, metformin plasma levels of >5 µg/mL are generally found.
+If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of JENTADUETO.
+In JENTADUETO-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with clearance of up to 170 mL/min under good hemodynamic conditions) and prompt hemodialysis is recommended to remove the accumulated metformin and correct the metabolic acidosis.
+Such management often results in prompt.
+Hemodialysis has often resulted in reversal of symptoms and recovery.
 
-The reported incidence of lactic acidosis in patients receiving metformin is approximately 0.03 cases/1000 patient-years, (with approximately 0.015 fatal cases/1000 patient-years).
-In more than 20,000 patient-years exposure to metformin in clinical trials, there were no reports of lactic acidosis.
-Reported cases have occurred primarily in diabetic patients with significant renal impairment, including both intrinsic renal disease and renal hypoperfusion, often in the setting of multiple concomitant medical/surgical problems and multiple concomitant medications.
-Patients with congestive heart failure requiring pharmacologic management, particularly when accompanied by hypoperfusion and hypoxemia due to unstable or acute failure, are at increased risk of lactic acidosis.
-The risk of lactic acidosis increases with the degree of renal impairment and the patient’s age.
-The risk of lactic acidosis may, therefore, be significantly decreased by regular monitoring of renal function in patients taking metformin.
-In particular, treatment of the elderly should be accompanied by careful monitoring of renal function.
-Metformin treatment should not be initiated in any patient unless measurement of creatinine clearance demonstrates that renal function is not reduced.
-In addition, metformin should be promptly withheld in the presence of any condition associated with hypoxemia, dehydration, or sepsis.
-Because impaired hepatic function may significantly limit the ability to clear lactate, metformin should be avoided in patients with clinical or laboratory evidence of hepatic impairment.
-Patients should be cautioned against excessive alcohol intake when taking metformin, since alcohol potentiates the effects of metformin on lactate metabolism.
-In addition, metformin should be temporarily discontinued prior to any intravascular radiocontrast study and for any surgical procedure necessitating restricted intake of food or fluids.
-Use of topiramate, a carbonic anhydrase inhibitor, in epilepsy and migraine prophylaxis may cause dose-dependent metabolic acidosis and may exacerbate the risk of metformin-induced lactic acidosis [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+Educate patients and their families about the symptoms of lactic acidosis and if these symptoms occur instruct them to discontinue JENTADUETO and report these symptoms to their healthcare provider.
 
-The onset of lactic acidosis is often subtle, and accompanied by nonspecific symptoms such as malaise, myalgias, respiratory distress, increasing somnolence, and nonspecific abdominal distress.
-More severe acidosis may be associated with signs such as hypothermia, hypotension, and resistant bradyarrhythmias.
-Patients should be educated to recognize and promptly report these symptoms.
-If present, JENTADUETO should be discontinued until lactic acidosis is ruled out.
-Gastrointestinal symptoms, which are commonly reported during initiation of metformin therapy are less frequently observed in subjects on a chronic, stable, dose of metformin.
-Gastrointestinal symptoms in subjects on chronic, stable, dose of metformin could be caused by lactic acidosis or other serious disease.
+For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
-To rule out lactic acidosis, serum electrolytes, ketones, blood glucose, blood pH, lactate levels, and blood metformin levels may be useful.
-Levels of fasting venous plasma lactate above the upper limit of normal but less than 5 mmol/L in patients taking metformin do not necessarily indicate impending lactic acidosis and may be due to other mechanisms, such as poorly-controlled diabetes or obesity, vigorous physical activity, or technical problems in sample handling.
+Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
+Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]:
 
-Lactic acidosis should be suspected in any diabetic patient with metabolic acidosis lacking evidence of ketoacidosis (ketonuria and ketonemia).
-Lactic acidosis is a medical emergency that must be treated in a hospital setting.
-In a patient with lactic acidosis who is taking metformin, the drug should be discontinued immediately and supportive measures promptly instituted.
-Metformin is dialyzable (clearance of up to 170 mL/min under good hemodynamic conditions) and prompt hemodialysis is recommended to remove the accumulated metformin and correct the metabolic acidosis.
-Such management often results in prompt reversal of symptoms and recovery [see Boxed Warning].
+- Before initiating JENTADUETO, obtain an estimated glomerular filtration rate (eGFR).
+- JENTADUETO is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
+- Initiation of JENTADUETO is not recommended in patients with eGFR between 30 – 45 mL/min/1.73 m2.
+- Obtain an eGFR at least annually in all patients taking JENTADUETO.
+  In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
+- In patients taking JENTADUETO whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy [see Dosage and Administration (2.2), Contraindications (4), and Clinical Pharmacology (12.3)].
+
+Drug Interactions: The concomitant use of JENTADUETO with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation [see Drug Interactions (7.1)].
+Therefore, consider more frequent monitoring of patients.
+
+Age 65 or Greater: The risk of metformin-associated lactic acidosis increases with the patient’s age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
+Assess renal function more frequently in elderly patients [see Use in Specific Populations (8.5)].
+
+Radiological Studies with Contrast: Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis.
+Stop JENTADUETO at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of hepatic impairment, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Re-evaluate eGFR 48 hours after the imaging procedure, and restart JENTADUETO if renal function is stable.
+
+Surgery and Other Procedures: Withholding of food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension and renal impairment.
+JENTADUETO should be temporarily discontinued while patients have restricted food and fluid intake.
+
+Hypoxic States: Several of the postmarketing cases of metformin-associated lactic acidosis occurred in the setting of acute congestive heart failure (particularly when accompanied by hypoperfusion and hypoxemia).
+Cardiovascular collapse (shock), acute myocardial infarction, sepsis, and other conditions associated with hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia.
+When such events occur, discontinue JENTADUETO.
+
+Excessive Alcohol Intake: Alcohol potentiates the effect of metformin on lactate metabolism and this may increase the risk of metformin-associated lactic acidosis.
+Warn patients against excessive alcohol intake while receiving JENTADUETO.
+
+Hepatic Impairment: Patients with hepatic impairment have developed cases of metformin-associated lactic acidosis.
+This may be due to impaired lactate clearance resulting in higher lactate blood levels.
+Therefore, avoid use of JENTADUETO in patients with clinical or laboratory evidence of hepatic disease.
 
 ## 5.2 Pancreatitis
 
@@ -46,49 +58,18 @@ Take careful notice of potential signs and symptoms of pancreatitis.
 If pancreatitis is suspected, promptly discontinue JENTADUETO and initiate appropriate management.
 It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using JENTADUETO.
 
-## 5.3 Monitoring of Renal Function
+## 5.3 Use with Medications Known to Cause Hypoglycemia
 
-Although linagliptin undergoes minimal renal excretion, metformin is known to be substantially excreted by the kidney.
-The risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
-Therefore, JENTADUETO is contraindicated in patients with renal impairment.
-
-Before initiation of therapy with JENTADUETO and at least annually thereafter, renal function should be assessed and verified to be normal.
-In patients in whom development of renal impairment is anticipated (e.g., elderly), renal function should be assessed more frequently and JENTADUETO discontinued if evidence of renal impairment is present.
-
-Linagliptin may be continued as a single entity tablet at the same total daily dose of 5 mg if JENTADUETO is discontinued due to evidence of renal impairment.
-No dose adjustment of linagliptin is recommended in patients with renal impairment.
-
-Use of concomitant medications that may affect renal function or metformin disposition:
-
-Concomitant medication(s) that may affect renal function or result in significant hemodynamic change or interfere with the disposition of metformin should be used with caution [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
-
-Radiological studies and surgical procedures:
-
-Radiologic studies involving the use of intravascular iodinated contrast materials (e.g., intravenous urogram, intravenous cholangiography, angiography, and computed tomography) can lead to acute alteration of renal function and have been associated with lactic acidosis in patients receiving metformin.
-Therefore, in patients in whom any such study is planned, JENTADUETO should be temporarily discontinued at the time of or prior to the procedure, and withheld for 48 hours subsequent to the procedure and reinstituted only after renal function has been confirmed to be normal.
-
-JENTADUETO should be temporarily discontinued for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and should not be restarted until the patient’s oral intake has resumed and renal function has been evaluated as normal.
-
-## 5.4 Impaired Hepatic Function
-
-Because impaired hepatic function has been associated with some cases of lactic acidosis with metformin therapy, JENTADUETO should generally be avoided in patients with clinical or laboratory evidence of hepatic disease [see Warnings and Precautions (5.1)].
-
-## 5.5 Use with Medications Known to Cause Hypoglycemia
-
-Linagliptin
-
-Insulin secretagogues and insulin are known to cause hypoglycemia.
+Linagliptin Insulin secretagogues and insulin are known to cause hypoglycemia.
 The use of linagliptin in combination with an insulin secretagogue (e.g., sulfonylurea) was associated with a higher rate of hypoglycemia compared with placebo in a clinical trial [see Adverse Reactions (6.1)].
 The use of linagliptin in combination with insulin in subjects with severe renal impairment was associated with a higher rate of hypoglycemia [see Adverse Reactions (6.1)].
-Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with JENTADUETO [see Dosage and Administration (2.2)].
+Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with JENTADUETO [see Drug Interactions (7.3)].
 
-Metformin
-
-Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as SUs and insulin) or ethanol.
+Metformin Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as SUs and insulin) or ethanol.
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 
-## 5.6 Hypersensitivity Reactions
+## 5.4 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with linagliptin (one of the components of JENTADUETO).
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions.
@@ -98,7 +79,7 @@ If a serious hypersensitivity reaction is suspected, discontinue JENTADUETO, ass
 Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
 Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with JENTADUETO.
 
-## 5.7 Vitamin B12 Levels
+## 5.5 Vitamin B12 Levels
 
 In controlled, 29-week clinical trials of metformin, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of metformin-treated patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia or neurologic manifestations due to the short duration (<1 year) of the clinical trials.
@@ -108,17 +89,7 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurement at 2- to 3-year intervals may be useful.
 
-## 5.8 Alcohol Intake
-
-Alcohol is known to potentiate the effect of metformin on lactate metabolism.
-Patients, therefore, should be warned against excessive alcohol intake while receiving JENTADUETO [see Warnings and Precautions (5.1)].
-
-## 5.9 Hypoxic States
-
-Cardiovascular collapse (shock) from whatever cause (e.g., acute congestive heart failure, acute myocardial infarction, and other conditions characterized by hypoxemia) have been associated with lactic acidosis and may also cause prerenal azotemia.
-When such events occur in patients on JENTADUETO therapy, the drug should be promptly discontinued [see Warnings and Precautions (5.1)].
-
-## 5.10 Severe and Disabling Arthralgia
+## 5.6 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
@@ -126,6 +97,13 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.11 Macrovascular Outcomes
+## 5.7 Bullous Pemphigoid
+
+Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
+In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
+Tell patients to report development of blisters or erosions while receiving JENTADUETO.
+If bullous pemphigoid is suspected, JENTADUETO should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
+
+## 5.8 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with linagliptin or metformin or any other antidiabetic drug.
