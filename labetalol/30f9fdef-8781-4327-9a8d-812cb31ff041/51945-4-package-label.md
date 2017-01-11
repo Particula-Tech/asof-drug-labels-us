@@ -1,0 +1,27 @@
+# VIAL LABEL 20 mL
+
+NDC 0143-9622-01
+
+Rx only
+
+Labetalol HCL Injection, USP
+
+100 mg/20mL
+
+(5 mg/mL)
+
+FOR INTRAVENOUS INJECTION ONLY
+
+# VIAL LABEL 40 mL
+
+NDC 0143-9623-01
+
+Rx only
+
+Labetalol HCl Injection, USP
+
+200 mg/40 mL
+
+(5 mg/mL)
+
+FOR INTRAVENOUS INJECTION ONLY

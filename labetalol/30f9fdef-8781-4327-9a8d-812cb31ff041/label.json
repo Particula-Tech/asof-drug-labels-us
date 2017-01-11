@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA075303"
+  ],
+  "inn": "labetalol",
+  "labeler": "West-Ward Pharmaceuticals Corp",
+  "package_ndcs": [
+    "0143-9622-01",
+    "0143-9623-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "labetalol hydrochloride",
+      "name": "Labetalol Hydrochloride"
+    }
+  ],
+  "setid": "30f9fdef-8781-4327-9a8d-812cb31ff041",
+  "source": "dailymed"
+}
