@@ -7,8 +7,8 @@ In animals, at doses greater than those required for alpha- or beta-adrenergic b
 
 Pharmacodynamics
 
-The capacity of labetalol to block alpha-receptors in man has been demonstrated by attenuation of the presser effect of phenylephrine and by a significant reduction of the presser response caused by immersing the hand in ice-cold water (“cold-presser test”).
-Labetalol’s beta1-receptor blockade in man was demonstrated by a small decrease in the resting heart rate, attenuation of tachycardia produced by isoproterenol or exercise, and by attenuation of the reflex tachycardia to the hypotension produced by amyl nitrite.
+The capacity of labetalol to block alpha-receptors in man has been demonstrated by attenuation of the presser effect of phenylephrine and by a significant reduction of the presser response caused by immersing the hand in ice-cold water ("cold-presser test").
+Labetalol's beta1-receptor blockade in man was demonstrated by a small decrease in the resting heart rate, attenuation of tachycardia produced by isoproterenol or exercise, and by attenuation of the reflex tachycardia to the hypotension produced by amyl nitrite.
 Beta2-receptor blockade was demonstrated by inhibition of the isoproterenol-induced fall in diastolic blood pressure.
 Both the alpha- and beta-blocking actions of orally administered labetalol contribute to a decrease in blood pressure in hypertensive patients.
 Labetalol consistently, in dose-related fashion, blunted increases in exercise-induced blood pressure and heart rate, and in their double product.
@@ -51,7 +51,7 @@ Pharmacokinetics and Metabolism
 
 Following intravenous infusion, the elimination half-life is about 5.5 hours and the total body clearance is approximately 33 mL/min/kg.
 The plasma half-life of labetalol following oral administration is about 6 to 8 hours.
-In patients with decreased hepatic or renal function, the elimination half-life of labetalol is not altered; however, the relative bioavailability in hepatically impaired patients is increased due to decreased “first-pass” metabolism.
+In patients with decreased hepatic or renal function, the elimination half-life of labetalol is not altered; however, the relative bioavailability in hepatically impaired patients is increased due to decreased "first-pass" metabolism.
 
 The metabolism of labetalol is mainly through conjugation to glucuronide metabolites.
 These metabolites are present in plasma and are excreted in the urine and, via the bile, into the feces.

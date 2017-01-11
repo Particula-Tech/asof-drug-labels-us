@@ -5,7 +5,7 @@ DOSAGE MUST BE INDIVIDUALIZED depending upon the severity of hypertension and th
 
 Patients should always be kept in a supine position during the period of intravenous drug administration.
 A substantial fall in blood pressure on standing should be expected in these patients.
-The patient’s ability to tolerate an upright position should be established before permitting any ambulation, such as using toilet facilities.
+The patient's ability to tolerate an upright position should be established before permitting any ambulation, such as using toilet facilities.
 
 Either of two methods of administration of labetalol hydrochloride injection may be used: a) repeated intravenous injections, b) slow continuous infusion.
 

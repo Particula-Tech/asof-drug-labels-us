@@ -8,7 +8,7 @@ Injury has occurred after both short- and long-term treatment and may be slowly 
 Similar hepatic events have been reported with a related compound, dilevalol HCl, including two deaths.
 Dilevalol HCl is one of the four isomers of labetalol.
 Thus, for patients taking labetalol, periodic determination of suitable hepatic laboratory tests would be appropriate.
-Laboratory testing should also be done at the very first symptom or sign of liver dysfunction (e.g., pruritus, dark urine, persistent anorexia, jaundice, right upper quadrant tenderness, or unexplained “flu-like” symptoms).
+Laboratory testing should also be done at the very first symptom or sign of liver dysfunction (e.g., pruritus, dark urine, persistent anorexia, jaundice, right upper quadrant tenderness, or unexplained "flu-like" symptoms).
 If the patient has jaundice or laboratory evidence of liver injury, labetalol should be stopped and not restarted.
 
 Cardiac Failure
@@ -29,7 +29,7 @@ Ischemic Heart Disease
 
 Angina pectoris has not been reported upon labetalol discontinuation.
 However, following abrupt cessation of therapy with some beta-blocking agents in patients with coronary artery disease, exacerbations of angina pectoris and, in some cases, myocardial infarction have been reported.
-Therefore, such patients should be cautioned against interruption of therapy without the physician’s advice.
+Therefore, such patients should be cautioned against interruption of therapy without the physician's advice.
 Even in the absence of overt angina pectoris, when discontinuation of labetalol is planned, the patient should be carefully observed and should be advised to limit physical activity.
 If angina markedly worsens or acute coronary insufficiency develops, labetalol administration should be reinstituted promptly, at least temporarily, and other measures appropriate for the management of unstable angina should be taken.
 
@@ -51,7 +51,7 @@ Beta-blockade also reduces the release of insulin in response to hyperglycemia; 
 Major Surgery
 
 Do not routinely withdraw chronic beta blocker therapy prior to surgery.
-The effect of labetalol’s alpha adrenergic activity has not been evaluated in this setting.
+The effect of labetalol's alpha adrenergic activity has not been evaluated in this setting.
 
 Several deaths have occurred when labetalol injection was used during surgery (including when used in cases to control bleeding).
 
@@ -72,11 +72,11 @@ Labetalol injection should be used with caution in patients with impaired hepati
 Hypotension
 
 Symptomatic postural hypotension (incidence 58%) is likely to occur if patients are tilted or allowed to assume the upright position within 3 hours of receiving labetalol injection.
-Therefore, the patient’s ability to tolerate an upright position should be established before permitting any ambulation.
+Therefore, the patient's ability to tolerate an upright position should be established before permitting any ambulation.
 
 Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients treated with alpha-1 blockers (labetalol is an alpha/beta blocker).
 This variant of small pupil syndrome is characterized by the combination of a flaccid iris that billows in response to intraoperative irrigation currents, progressive intraoperative miosis despite preoperative dilation with standard mydriatic drugs, and potential prolapse of the iris toward the phacoemulsification incisions.
-The patient’s ophthalmologist should be prepared for possible modifications to the surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances.
+The patient's ophthalmologist should be prepared for possible modifications to the surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances.
 There does not appear to be a benefit of stopping alpha-1 blocker therapy prior to cataract surgery.
 
 Following Coronary Artery Bypass Surgery
@@ -102,7 +102,7 @@ Subsequently, the patient should be advised on how to proceed gradually to becom
 
 When the patient is started on labetalol hydrochloride tablets following adequate control of blood pressure with labetalol hydrochloride injection, appropriate directions for titration of dosage should be provided (see DOSAGE AND ADMINISTRATION).
 
-As with all drugs with beta-blocking activity, certain advice to patients being treated with labetalol is warranted: While no incident of the abrupt withdrawal phenomenon (exacerbation of angina pectoris) has been reported with labetalol, dosing with labetalol tablets should not be interrupted or discontinued without a physician’s advice.
+As with all drugs with beta-blocking activity, certain advice to patients being treated with labetalol is warranted: While no incident of the abrupt withdrawal phenomenon (exacerbation of angina pectoris) has been reported with labetalol, dosing with labetalol tablets should not be interrupted or discontinued without a physician's advice.
 Patients being treated with labetalol tablets should consult a physician at any signs or symptoms of impending cardiac failure or hepatic dysfunction (see WARNINGS).
 Also, transient scalp tingling may occur, usually when treatment with labetalol tablets is initiated (see ADVERSE REACTIONS).
 
