@@ -10,6 +10,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Long-Term Suppression of Growth [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, including Raynaud's phenomenon [see Warnings and Precautions (5.6)]
+- Serotonin Syndrome [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 

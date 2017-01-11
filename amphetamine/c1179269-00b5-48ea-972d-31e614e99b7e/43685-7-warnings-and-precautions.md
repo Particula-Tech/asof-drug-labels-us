@@ -48,7 +48,20 @@ Signs and symptoms generally improve after reduction in dose or discontinuation 
 Careful observation for digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
-## 5.7 Potential for Overdose Due to Medication Errors
+## 5.7 Serotonin Syndrome
+
+Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort [see Drug Interactions (7.1)].
+The co-administration with cytochrome P450 2D6 (CYP2D6) inhibitors may also increase the risk with increased exposure to ADZENYS XR-ODT.
+In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 [see Drug Interactions (7.1)].
+
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
+Concomitant use of ADZENYS XR-ODT with MAOI drugs is contraindicated [see Contraindications (4)].
+
+Discontinue treatment with ADZENYS XR-ODT and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of ADZENYS XR-ODT with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate ADZENYS XR-ODT with lower doses, monitor patients for the emergence of serotonin syndrome during drug initiation or titration, and inform patients of the increased risk for serotonin syndrome.
+
+## 5.8 Potential for Overdose Due to Medication Errors
 
 Medication errors, including substitution and dispensing errors, between ADZENYS XR-ODT and other amphetamine products could occur, leading to possible overdosage.
 To avoid substitution errors and overdosage, do not substitute for other amphetamine products on a milligram-per-milligram basis because of different amphetamine base compositions and differing pharmacokinetic profiles [see Dosage and Administration (2.5)].

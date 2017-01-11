@@ -48,6 +48,15 @@ Instruct patients to call their physician immediately with any signs of unexplai
 
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients [see Warnings and Precautions (5.6)].
 
+Serotonin Syndrome
+
+Caution patients about the risk of serotonin syndrome with concomitant use of ADZENYS XR-ODT and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see Contraindications (4), Warnings and Precautions (5.7) and Drug Interactions (7.1)].
+Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
+
+Concomitant Medications
+
+Advise patients to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs because there is a potential for interactions [see Drug Interactions (7.1)].
+
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with ADZENYS XR-ODT.
@@ -62,7 +71,7 @@ Alcohol
 Advise patients to avoid alcohol while taking ADZENYS XR-ODT.
 Consumption of alcohol while taking ADZENYS XR-ODT may result in a more rapid release of the dose of amphetamine [see Clinical Pharmacology (12)].
 
-Manufactured by Neos Therapeutics, LP., Grand Prairie, TX 75050.
+Manufactured for Neos Therapeutics Brands LLC., Grand Prairie, TX 75050.
 Made in USA.
 
 For more information call 1-888-319-1789.
@@ -74,6 +83,6 @@ ADZENYS XR-ODT is a registered trademark of Neos Therapeutics, Inc.
 Copyright© 2016, Neos Therapeutics, Inc.
 
 Rev.
-01/2016 PIN020299
+10/2016 PIN020299
 
 Patent Number 8,709,491 B2
