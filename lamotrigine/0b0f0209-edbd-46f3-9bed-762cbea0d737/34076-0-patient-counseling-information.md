@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17. PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
@@ -40,4 +40,4 @@ Refer the patient to the Medication Guide that provides description of the Lamot
 
 Manufactured By:
 
-Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 10/2015.
+Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 10/2016.

@@ -1,4 +1,4 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5. WARNINGS AND PRECAUTIONS
 
 ## 5.1 Serious Skin Rashes [see Boxed Warning]
 

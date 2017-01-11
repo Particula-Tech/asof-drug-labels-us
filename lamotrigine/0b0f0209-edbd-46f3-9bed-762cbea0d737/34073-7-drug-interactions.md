@@ -1,4 +1,4 @@
-# 7 DRUG INTERACTIONS
+# 7. DRUG INTERACTIONS
 
 Significant drug interactions with lamotrigine tablets are summarized in this section.
 Additional details of these drug interaction studies are provided in the Clinical Pharmacology section [see Clinical Pharmacology (12.3)].

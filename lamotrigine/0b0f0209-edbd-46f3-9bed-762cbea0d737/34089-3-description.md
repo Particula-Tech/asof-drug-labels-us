@@ -1,4 +1,4 @@
-# 11 DESCRIPTION
+# 11. DESCRIPTION
 
 Lamotrigine USP, an AED of the phenyltriazine class, is chemically unrelated to existing AEDs.
 Lamotrigine’s chemical name is 3,5-diamino-6-(2,3-dichlorophenyl)-as-triazine, its molecular formula is C9H7N5Cl2, and its molecular weight is 256.09.

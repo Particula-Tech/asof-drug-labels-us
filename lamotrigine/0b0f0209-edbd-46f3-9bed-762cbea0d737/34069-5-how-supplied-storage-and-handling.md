@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
 
 Lamotrigine Tablets USP, 25 mg Round, white to off white tablets, debossed with ‘J’ and ‘245’ on one side and scoreline on the other side.
 Bottles of 100 tablets with Child Resistant Closure, NDC 59746-245-01 Bottles of 500 tablets with Plain Closure, NDC 59746-245-05 Bottles of 1000 tablets with Plain Closure, NDC 59746-245-10

@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS
 
 The following adverse reactions are described in more detail in the Warnings and Precautions section of the label:
 

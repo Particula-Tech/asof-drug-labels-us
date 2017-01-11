@@ -1,4 +1,4 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2. DOSAGE AND ADMINISTRATION
 
 ## 2.1 General Dosing Considerations
 
@@ -58,7 +58,7 @@ No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response.
 
-Patients with Renal Impairment Initial doses of Lamotrigine should be based on patients' concomitant medications (see Tables 1-3 and 5); reduced maintenance doses may be effective for patients with significant renal impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+Patients with Renal Impairment Initial doses of Lamotrigine should be based on patients' concomitant medications (see Tables 1-3, and 5); reduced maintenance doses may be effective for patients with significant renal impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 Few patients with severe renal impairment have been evaluated during chronic treatment with lamotrigine.
 Because there is inadequate experience in this population, lamotrigine should be used with caution in these patients.
 
