@@ -1,6 +1,6 @@
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Methodose™ Oral Concentrate 1 Liter Bottle Label
 
-DC 0406-0527-10
+NDC 0406-0527-10
 
 1 Liter (1000 mL)
 
@@ -26,7 +26,7 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Mallinckrodt™
 
-L00M07 Rev 02/2016
+L00M07 Rev 12/2016
 
 Mallinckrodt Inc., Hazelwood, MO 63042 USA
 
@@ -60,7 +60,7 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Mallinckrodt™
 
-L00M22 Rev 02/2016
+L00M22 Rev 12/2016
 
 Mallinckrodt Inc., Hazelwood, MO 63042 USA
 

@@ -1,20 +1,10 @@
 # ADVERSE REACTIONS
 
-## Heroin Withdrawal
-
-During the induction phase of methadone maintenance treatment, patients are being withdrawn from heroin and may therefore show typical withdrawal symptoms, which should be differentiated from methadone-induced side effects.
-They may exhibit some or all of the following signs and symptoms associated with acute withdrawal from heroin or other opiates: lacrimation, rhinorrhea, sneezing, yawning, excessive perspiration, goose-flesh, fever, chilliness alternating with flushing, restlessness, irritability, weakness, anxiety, depression, dilated pupils, tremors, tachycardia, abdominal cramps, body aches, involuntary twitching and kicking movements, anorexia, nausea, vomiting, diarrhea, intestinal spasms, and weight loss.
-
-## Initial Administration
-
-The initial methadone dose should be carefully titrated to the individual.
-Too rapid titration for the patient's sensitivity is more likely to produce adverse effects.
-
 The major hazards of methadone are respiratory depression and, to a lesser degree, systemic hypotension.
 Respiratory arrest, shock, cardiac arrest, and death have occurred.
 
 The most frequently observed adverse reactions include lightheadedness, dizziness, sedation, nausea, vomiting, and sweating.
-These effects seem to be more prominent in ambulatory patients and in those who are not suffering severe pain.
+These effects seem to be more prominent in ambulatory patients.
 In such individuals, lower doses are advisable.
 
 Other adverse reactions include the following: (listed alphabetically under each subsection)
@@ -33,11 +23,20 @@ Nervous – agitation, confusion, disorientation, dysphoria, euphoria, insomnia,
 
 Respiratory – pulmonary edema, respiratory depression (see WARNINGS, Respiratory Depression)
 
-Skin and Appendages – pruritis, urticaria, other skin rashes, and rarely, hemorrhagic urticaria
+Skin and Appendages – pruritus, urticaria, other skin rashes, and rarely, hemorrhagic urticaria
 
 Special Senses – hallucinations, visual disturbances
 
 Urogenital – amenorrhea, antidiuretic effect, reduced libido and/or potency, urinary retention or hesitancy
 
-Maintenance on a Stabilized Dose – During prolonged administration of methadone, as in a methadone maintenance treatment program, there is usually a gradual, yet progressive, disappearance of side effects over a period of several weeks.
-However, constipation and sweating often persist.
+Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of METHADOSE.
+
+Serotonin syndrome – Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs (see WARNINGS and PRECAUTIONS, Drug Interactions).
+
+Adrenal insufficiency – Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use (see WARNINGS).
+
+Anaphylaxis – Anaphylactic reaction has been reported with ingredients contained in METHADOSE (see CONTRAINDICATIONS).
+
+Androgen deficiency – Cases of androgen deficiency have occurred with chronic use of opioids (see CLINICAL PHARMACOLOGY).

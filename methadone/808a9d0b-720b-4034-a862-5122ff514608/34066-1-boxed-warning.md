@@ -1,28 +1,20 @@
-Deaths have been reported during initiation of methadone treatment for opioid dependence.
-In some cases, drug interactions with other drugs, both licit and illicit, have been suspected.
-However, in other cases, deaths appear to have occurred due to the respiratory or cardiac effects of methadone and too-rapid titration without appreciation for the accumulation of methadone over time.
-It is critical to understand the pharmacokinetics of methadone and to exercise vigilance during treatment initiation and dose titration (see DOSAGE AND ADMINISTRATION).
-Patients must also be strongly cautioned against self-medicating with CNS depressants during initiation of methadone treatment.
+WARNING: LIFE-THREATENING RESPIRATORY DEPRESSION, LIFE-THREATENING QT PROLONGATION, ACCIDENTAL INGESTION, ABUSE POTENTIAL INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES and TREATMENT FOR OPIOID ADDICTION
 
-Respiratory depression is the chief hazard associated with methadone hydrochloride administration.
-Methadone's peak respiratory depressant effects typically occur later, and persist longer than its peak analgesic effects, particularly in the early dosing period.
-These characteristics can contribute to cases of iatrogenic overdose, particularly during treatment initiation and dose titration.
+Life-Threatening Respiratory Depression Respiratory depression, including fatal cases, have been reported during initiation and conversion of patients to methadone, and even when the drug has been used as recommended and not misused or abused (see WARNINGS).
+Proper dosing and titration are essential and METHADOSE should only be prescribed by healthcare professionals who are knowledgeable in the use of methadone for detoxification and maintenance treatment of opioid addiction.
+Monitor for respiratory depression, especially during initiation of METHADOSE or following a dose increase.
+The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak pharmacologic effect, especially during the initial dosing period (see WARNINGS).
 
-Cases of QT interval prolongation and serious arrhythmia (torsades de pointes) have been observed during treatment with methadone.
+Life-Threatening QT Prolongation QT interval prolongation and serious arrhythmia (torsades de pointes) have occurred during treatment with methadone (see WARNINGS).
 Most cases involve patients being treated for pain with large, multiple daily doses of methadone, although cases have been reported in patients receiving doses commonly used for maintenance treatment of opioid addiction.
+Closely monitor patients with risk factors for development of prolonged QT interval, a history of cardiac conduction abnormalities, and those taking medications affecting cardiac conduction for changes in cardiac rhythm during initiation and titration of METHADOSE (see WARNINGS).
 
-## Conditions for Distribution and Use of Methadone Products for the Treatment of Opioid Addiction
+Accidental Ingestion Accidental ingestion of METHADOSE, especially by children, can result in fatal overdose of methadone (see WARNINGS).
 
-Code of Federal Regulations, Title 42, Sec 8
+Misuse, Abuse, and Diversion of Opioids METHADOSE contains methadone, an opioid agonist and Schedule II controlled substance with an abuse liability similar to other opioid agonists, legal or illicit (see WARNINGS).
 
-METHADONE PRODUCTS WHEN USED FOR THE TREATMENT OF OPIOID ADDICTION IN DETOXIFICATION OR MAINTENANCE PROGRAMS, SHALL BE DISPENSED ONLY BY OPIOID TREATMENT PROGRAMS (AND AGENCIES, PRACTITIONERS OR INSTITUTIONS BY FORMAL AGREEMENT WITH THE PROGRAM SPONSOR) CERTIFIED BY THE SUBSTANCE ABUSE AND MENTAL HEALTH SERVICES ADMINISTRATION AND APPROVED BY THE DESIGNATED STATE AUTHORITY.
-CERTIFIED TREATMENT PROGRAMS SHALL DISPENSE AND USE METHADONE IN ORAL FORM ONLY AND ACCORDING TO THE TREATMENT REQUIREMENTS STIPULATED IN THE FEDERAL OPIOID TREATMENT STANDARDS (42 CFR 8.12).
-See below for important regulatory exceptions to the general requirement for certification to provide opioid agonist treatment.
+Interactions with Drugs Affecting Cytochrome P450 Isoenzymes The concomitant use of METHADOSE with all cytochrome P450 3A4, 2B6, 2C19, 2C9 or 2D6 inhibitors may result in an increase in methadone plasma concentrations, which could cause potentially fatal respiratory depression.
+In addition, discontinuation of concomitantly used cytochrome P450 3A4 2B6, 2C19, or 2C9 inducers may also result in an increase in methadone plasma concentration.
+Follow patients closely for respiratory depression and sedation, and consider dosage reduction with any changes of concomitant medications that can result in an increase in methadone levels (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
-FAILURE TO ABIDE BY THE REQUIREMENTS IN THESE REGULATIONS MAY RESULT IN CRIMINAL PROSECUTION, SEIZURE OF THE DRUG SUPPLY, REVOCATION OF THE PROGRAM APPROVAL, AND INJUNCTION PRECLUDING OPERATION OF THE PROGRAM.
-
-Methadose and Methadose Sugar-Free are for oral administration only.
-The preparation must not be injected.
-Methadose and Methadose Sugar-Free, if dispensed, should be packaged in child-resistant containers and kept out of reach of children to prevent accidental ingestion.
-
-For detoxification and maintenance of opiate dependence methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8.12, including limitations on unsupervised administration.
+Conditions For Distribution And Use Of Methadone Products For The Treatment of Opioid Addiction For detoxification and maintenance of opioid dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8, including limitations on unsupervised administration (see INDICATIONS AND USAGE).

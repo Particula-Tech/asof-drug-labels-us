@@ -1,10 +1,10 @@
 # HOW SUPPLIED
 
-Methadose™ Oral Concentrate (methadone hydrochloride oral concentrate USP) 10 mg per mL is supplied as a red, cherry flavored liquid concentrate.
+METHADOSE™ Oral Concentrate (methadone hydrochloride oral concentrate USP) 10 mg per mL is supplied as a red, cherry flavored liquid concentrate.
 
 1 Liter Bottle……………NDC 0406-0527-10 15 Liter Bottle..…………NDC 0406-0527-15
 
-Methadose™ Sugar-Free Oral Concentrate (methadone hydrochloride oral concentrate USP) 10 mg per mL is supplied as a dye-free, sugar-free, unflavored liquid concentrate.
+METHADOSE™ Sugar-Free Oral Concentrate (methadone hydrochloride oral concentrate USP) 10 mg per mL is supplied as a dye-free, sugar-free, unflavored liquid concentrate.
 
 1 Liter Bottle……………NDC 0406-8725-10 15 Liter Bottle..…………NDC 0406-8725-15
 
@@ -13,12 +13,12 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
 
-© 2014 Mallinckrodt.
+© 2016 Mallinckrodt.
 
 Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
 Made in USA
 
-Mallinckrodt™ Pharmaceuticals
+Rev 12/2016
 
-Rev 10/2014
+Mallinckrodt™ Pharmaceuticals

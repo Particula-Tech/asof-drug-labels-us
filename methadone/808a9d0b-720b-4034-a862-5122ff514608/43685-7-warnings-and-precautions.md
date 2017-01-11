@@ -1,222 +1,314 @@
 # WARNINGS
 
-## Respiratory Depression
+| METHADOSE and METHADOSE Sugar-Free are for oral administration only. The preparation must not be injected. METHADOSE and METHADOSE Sugar-Free, if dispensed, should be packaged in child-resistant containers and kept out of reach of children to prevent accidental ingestion. |
+| --- |
 
-Respiratory depression is the chief hazard associated with methadone hydrochloride administration.
-Methadone's peak respiratory depressant effects typically occur later, and persist longer than its peak analgesic effects, in the short-term use setting.
-These characteristics can contribute to cases of iatrogenic overdose, particularly during treatment initiation and dose titration.
+Life-Threatening Respiratory Depression
 
-Respiratory depression is of particular concern in elderly or debilitated patients as well as in those suffering from conditions accompanied by hypoxia or hypercapnia when even moderate therapeutic doses may dangerously decrease pulmonary ventilation.
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of methadone, even when used as recommended.
+Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
+Respiratory depression from opioids is manifested by a reduced urge to breathe and a decreased rate of respiration, often associated with a “sighing” pattern of breathing (deep breaths separated by abnormally long pauses).
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status (see OVERDOSAGE).
 
-Methadone should be administered with extreme caution to patients with conditions accompanied by hypoxia, hypercapnia, or decreased respiratory reserve such as: asthma, chronic obstructive pulmonary disease or cor pulmonale, severe obesity, sleep apnea syndrome, myxedema, kyphoscoliosis, and central nervous system (CNS) depression or coma.
-In these patients, even usual therapeutic doses of methadone may decrease respiratory drive while simultaneously increasing airway resistance to the point of apnea.
-Methadone should be used at the lowest effective dose and only under careful medical supervision.
+While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of METHADOSE, the risk is greatest during the initiation of therapy or following a dose increase.
+The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak pharmacologic effect, especially during the initial dosing period.
+Monitor patients closely for respiratory depression, when initiating therapy with METHADOSE and following dose increases.
 
-## Cardiac Conduction Effects
+Instruct patients against use by individuals other than the patient for whom methadone was prescribed and to keep methadone out of the reach of children, as such inappropriate use may result in fatal respiratory depression.
 
-This information is intended to alert the prescriber to comprehensively evaluate the risks and benefits of methadone treatment.
-The intent is not to deter the appropriate use of methadone in patients with a history of cardiac disease.
+To reduce the risk of respiratory depression, proper dosing and titration of methadone are essential (see DOSAGE AND ADMINISTRATION).
+Overestimating the methadone dosage when initiating treatment can result in fatal overdose with the first dose.
 
-Laboratory studies, both in vivo and in vitro, have demonstrated that methadone inhibits cardiac potassium channels and prolongs the QT interval.
+To further reduce the risk of respiratory depression, consider the following:
+
+- Patients tolerant to other opioids may be incompletely tolerant to methadone.
+  Incomplete cross-tolerance is of particular concern for patients tolerant to other mu-opioid agonists.
+  Deaths have been reported during conversion from chronic, high-dose treatment with other opioid agonists.
+  Follow induction directions closely to avoid inadvertent overdose (see DOSAGE AND ADMINISTRATION).
+- Proper dosing and titration are essential and methadone should be overseen only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone.
+
+Life-Threatening QT Prolongation
+
 Cases of QT interval prolongation and serious arrhythmia (torsades de pointes) have been observed during treatment with methadone.
 These cases appear to be more commonly associated with, but not limited to, higher dose treatment (> 200 mg/day).
-Although most cases involve patients being treated for pain with large, multiple daily doses of methadone, cases have been reported in patients receiving doses commonly used for maintenance treatment of opioid addiction.
-In most of the cases seen at typical maintenance doses, concomitant medications and/or clinical conditions such as hypokalemia were noted as contributing factors.
+Most cases involve patients being treated for pain with large, multiple daily doses of methadone, although cases have been reported in patients receiving doses commonly used for maintenance treatment of opioid addiction.
+In most patients on the lower doses typically used for maintenance, concomitant medications and/or clinical conditions such as hypokalemia were noted as contributing factors.
 However, the evidence strongly suggests that methadone possesses the potential for adverse cardiac conduction effects in some patients.
+The effects of methadone on the QT interval have been confirmed in in vivo laboratory studies, and methadone has been shown to inhibit cardiac potassium channels in in vitro studies.
 
-Methadone should be administered with particular caution to patients already at risk for development of prolonged QT interval (e.g., cardiac hypertrophy, concomitant diuretic use, hypokalemia, hypomagnesemia).
-Careful monitoring is recommended when using methadone in patients with a history of cardiac conduction abnormalities, those taking medications affecting cardiac conduction, and in other cases where history or physical exam suggest an increased risk of dysrhythmia.
+Closely monitor patients with risk factors for development of prolonged QT interval (e.g., cardiac hypertrophy, concomitant diuretic use, hypokalemia, hypomagnesemia), a history of cardiac conduction abnormalities, and those taking medications affecting cardiac conduction.
 QT prolongation has also been reported in patients with no prior cardiac history who have received high doses of methadone.
-Patients developing QT prolongation while on methadone treatment should be evaluated for the presence of modifiable risk factors, such as concomitant medications with cardiac effects, drugs which might cause electrolyte abnormalities and drugs which might act as inhibitors of methadone metabolism.
 
-The potential risks of methadone, including the risk of life-threatening arrhythmias, should be weighed against the risks of discontinuing methadone treatment.
-In the patient being treated for opiate dependence with methadone maintenance therapy, these risks include a very high likelihood of relapse to illicit drug use following methadone discontinuation.
+Evaluate patients developing QT prolongation while on METHADOSE treatment for the presence of modifiable risk factors, such as concomitant medications with cardiac effects, drugs which might cause electrolyte abnormalities, and drugs which might act as inhibitors of methadone metabolism.
 
+Only initiate therapy with METHADOSE in patients for whom the anticipated benefit outweighs the risk of QT prolongation and development of dysrhythmias that have been reported with high doses of methadone.
 The use of methadone in patients already known to have a prolonged QT interval has not been systematically studied.
-The potential risks of methadone should be weighed against the substantial morbidity and mortality associated with untreated opioid addiction.
 
-When treating patients with methadone, an individualized benefit to risk assessment should be carried out and should include evaluation of patient presentation and complete medical history.
-For patients judged to be at risk, careful monitoring of cardiovascular status, including evaluation of QT prolongation and dysrhythmias should be performed.
+Accidental Ingestion
 
-## Incomplete Cross-tolerance between Methadone and other Opioids
+Accidental ingestion of even one dose of METHADOSE, especially by children, can result in respiratory depression and death due to an overdose.
+Keep METHADOSE out of reach of children to prevent accidental ingestion.
 
-Patients tolerant to other opioids may be incompletely tolerant to methadone.
-Incomplete cross-tolerance is of particular concern for patients tolerant to other mu-opioid agonists who are being converted to methadone, thus making determination of dosing during opioid conversion complex.
-Deaths have been reported during conversion from chronic, high-dose treatment with other opioid agonists.
-A high degree of "opioid tolerance" does not eliminate the possibility of methadone overdose, iatrogenic or otherwise.
+Misuse, Abuse, and Diversion of Opioids
 
-## Misuse, Abuse, and Diversion of Opioids
-
-Methadone is a mu-agonist opioid with an abuse liability similar to that of morphine and other opioid agonists and is a Schedule II controlled substance.
-Methadone, like morphine and other opioids used for analgesia, has the potential for being abused and is subject to criminal diversion.
-
+METHADOSE contain methadone, an opioid agonist and a Schedule II controlled substance.
 Methadone can be abused in a manner similar to other opioid agonists, legal or illicit.
-This should be considered when dispensing Methadose in situations where the clinician is concerned about an increased risk of misuse, abuse, or diversion.
-Abuse of methadone poses a risk of overdose and death.
-This risk is increased with concurrent abuse of methadone with alcohol and other substances.
-In addition, parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
+Opioid agonists are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 
-Healthcare professionals should contact their State Professional Licensing Board or State Controlled Substances Authority for information on how to prevent and detect abuse or diversion of this product.
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-## Interactions with other CNS Depressants
+Neonatal Opioid Withdrawal Syndrome
 
-Patients receiving other opioid analgesics, general anesthetics, phenothiazines or other tranquilizers, sedatives, hypnotics, or other CNS depressants (including alcohol) concomitantly with methadone may experience respiratory depression, hypotension, profound sedation, or coma (see PRECAUTIONS).
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy, whether that use is medically-authorized or illicit.
+Unlike opioid withdrawal syndrome in adults, NOWS may be life-threatening if not recognized and treated in the neonate.
+Healthcare professionals should observe newborns for signs of NOWS and manage accordingly (see PRECAUTIONS, Pregnancy).
 
-## Interactions with Alcohol and Drugs of Abuse
+Advise pregnant women receiving opioid addiction treatment with METHADOSE of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available.
+This risk must be balanced against the risk of untreated opioid addiction which often results in continued or relapsing illicit opioid use and is associated with poor pregnancy outcomes.
+Therefore, prescribers should discuss the importance and benefits of management of opioid addiction throughout pregnancy.
 
-Methadone may be expected to have additive effects when used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
-Deaths associated with illicit use of methadone frequently have involved concomitant benzodiazepine abuse.
+Risks of Concomitant Use of Cytochrome P450 3A4, 2B6, 2C19, 2C9, or 2D6 Inhibitors or Discontinuation P450 3A4, 2B6, 2C19, or 2C9 Inducers
 
-## Head Injury and Increased Intracranial Pressure
+Concomitant use of METHADOSE with CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors, may increase plasma concentrations of methadone, prolong opioid adverse reactions, and may cause potentially fatal respiratory depression, particularly when an inhibitor is added after a stable dose of METHADOSE is achieved.
+Similarly, discontinuation of concomitant CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers in METHADOSE-treated patients may increase methadone plasma concentrations resulting in fatal respiratory depression.
+Consider dosage reduction of METHADOSE when using concomitant CYP3A4, CYP2B6, CYP2C19, CYP2C9 or CYP2D6 inhibitors or discontinuing CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers in methadone-treated patients, and follow patients closely at frequent intervals for signs and symptoms of respiratory depression and sedation.
 
-The respiratory depressant effects of opioids and their capacity to elevate cerebrospinal-fluid pressure may be markedly exaggerated in the presence of head injury, other intracranial lesions or a pre-existing increase in intracranial pressure.
-Furthermore, opioids produce effects which may obscure the clinical course of patients with head injuries.
-In such patients, methadone must be used with caution, and only if it is deemed essential.
+Addition of CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers or discontinuation of a CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors in patients treated with METHADOSE may decrease methadone plasma concentrations, reducing efficacy or, and may, lead to a withdrawal symptoms in patients physically dependent on methadone.
+When using METHADOSE with CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers or discontinuing CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors, follow patients for signs or symptoms of opioid withdrawal and consider increasing the METHADOSE dosage as needed.
 
-## Acute Abdominal Conditions
+Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
-The administration of opioids may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
+The use of METHADOSE in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-## Hypotensive Effect
+Patients with Chronic Pulmonary Disease– METHADOSE-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of METHADOSE (see WARNINGS, Life-Threatening Respiratory Depression).
 
-The administration of methadone may result in severe hypotension in patients whose ability to maintain normal blood pressure is compromised (e.g., severe volume depletion).
+Elderly, Cachectic, or Debilitated Patients– Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients (see WARNINGS, Life-Threatening Respiratory Depression).
+
+Monitor such patients closely, particularly when initiating and titrating METHADOSE and when METHADOSE is given concomitantly with other drugs that depress respiration(see WARNINGS, Risks Due to Interactions Concomitant Use with CNS Depressants and Illicit Drugs).
+
+Risks Due to Interactions Concomitant Use with CNS Depressants and Illicit Drugs
+
+Profound sedation, respiratory depression, coma, and death may result if methadone is used concomitantly with other CNS depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, other opioids).
+When considering the use of METHADOSE in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient’s response, including the degree of tolerance that has developed to CNS depression.
+Additionally, consider the patient’s use, if any, of alcohol or illicit drugs that cause CNS depression.
+If methadone therapy is to be initiated in a patient taking a CNS depressant, start with a lower methadone dose than usual and monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant CNS depressant (see PRECAUTIONS, Drug Interactions).
+
+Deaths associated with illicit use of methadone have frequently involved concomitant benzodiazepine abuse.
+
+Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
+
+Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of METHADOSE with serotonergic drugs.
+Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) (see PRECAUTIONS, Drug Interactions).
+This may occur within the recommended dosage range.
+
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination, rigidity), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+The onset of symptoms generally occurs within several hours to a few days of concomitant use, but may occur later than that.
+Discontinue METHADOSE if serotonin syndrome is suspected.
+
+Adrenal Insufficiency
+
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
+If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
+Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
+Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
+The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
+
+Severe Hypotension
+
+Methadone may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+There is an increased risk in patients whose ability to maintain normal blood pressure is compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) (see PRECAUTIONS, Drug Interactions).
+Monitor these patients for signs of hypotension after initiating or titrating the dosage of METHADOSE.
+In patients with circulatory shock, METHADOSE may cause vasodilation that can further reduce cardiac output and blood pressure.
+Avoid the use of METHADOSE in patients with circulatory shock.
+
+Use in Patients with Head Injury or Increased Intracranial Pressure
+
+In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), METHADOSE may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with methadone.
+
+Opioids may also obscure the clinical course in a patient with a head injury.
+
+Avoid the use of methadone in patients with impaired consciousness or coma.
+
+Risks of Use in Patients with Gastrointestinal Conditions
+
+METHADOSE is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
+The methadone in METHADOSE may cause spasm of the sphincter of Oddi.
+Opioids may cause increases in the serum amylase.
+Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+Increased Risks of Seizure in Patients with Seizure Disorders
+
+Methadone may increase frequency of seizures in patients with seizure disorders, and increase the risks of seizures occurring in other clinical settings associated with seizures.
+Monitor patients with a history of seizure disorders for worsened seizure control during METHADOSE therapy.
+
+Withdrawal
+
+Avoid the use of mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist, including METHADOSE.
+In these patients, mixed agonists/antagonist and partial agonist analgesics may precipitate withdrawal symptoms (see PRECAUTIONS, Drug Interactions).
+
+When discontinuing METHADOSE, gradually taper the dosage (see DOSAGE AND ADMINISTRATION).
+Do not abruptly discontinue METHADOSE.
+
+Use in Ambulatory Patients
+
+Driving or Operating Heavy Machinery
+
+Inform patients that METHADOSE may impair the ability to perform potentially hazardous activities such as driving or operating heavy machinery.
+Advise patients not to perform such tasks until they know how they will react to the medication (see PRECAUTIONS, Information for Patients).
+
+Laboratory Test Interactions
+
+False positive urine drug screens for methadone have been reported for several drugs including diphenhydramine, doxylamine, clomipramaine, chlorpromazine, thioridazine, quetiapine, and verapamil.
 
 # PRECAUTIONS
 
-Methadose should be used with caution in elderly and debilitated patients; patients who are known to be sensitive to central nervous system depressants, such as those with cardiovascular, pulmonary, renal, or hepatic disease; and in patients with comorbid conditions or concomitant medications which may predispose to dysrhythmia or reduced ventilatory drive.
+Information for Patients
 
-## Drug Interactions
+Life-Threatening Respiratory Depression
 
-In vitro results suggest that methadone undergoes hepatic N-demethylation by cytochrome P450 enzymes, principally CYP3A4, CYP2B6, CYP2C19, and to a lesser extent by CYP2C9 and CYP2D6.
-Coadministration of methadone with inducers of these enzymes may result in a more rapid metabolism and potential for decreased effects of methadone, whereas administration with CYP inhibitors may reduce metabolism and potentiate methadone's effects.
-Although anti-retroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, and lopinavir+ritonavir combination are known to inhibit CYPs, they are shown to reduce the plasma levels of methadone, possibly due to their CYP induction activity.
-Therefore, drugs administered concomitantly with methadone should be evaluated for interaction potential; clinicians are advised to evaluate individual response to drug therapy.
+Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting METHADOSE or when the dose is increased (see WARNINGS).
+Advise patients how to recognize respiratory depression and to seek medical attention if they are experiencing breathing difficulties.
 
-## Opioid Antagonists, Mixed Agonist/Antagonists, and Partial Agonists
+Symptoms of Arrhythmia
 
-As with other mu-agonists, patients maintained on methadone may experience withdrawal symptoms when given opioid antagonists, mixed agonist/antagonists, and partial agonists.
-Examples of such agents are naloxone, naltrexone, pentazocine, nalbuphine, butorphanol, and buprenorphine.
+Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, near syncope, or syncope) when taking METHADOSE (see WARNINGS).
 
-## Anti-retroviral Agents
+Accidental Ingestion
 
-Abacavir, amprenavir, efavirenz, nelfinavir, nevirapine, ritonavir, lopinavir+ritonavir combination – Coadministration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone.
-Methadone-maintained patients beginning treatment with these anti-retroviral drugs should be monitored for evidence of withdrawal effects and methadone dose should be adjusted accordingly.
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death (see WARNINGS).
+Instruct patients to take steps to store METHADOSE securely.
+Advise patients to dispose of unused METHADOSE by flushing down the toilet.
+
+Abuse Potential
+
+Inform patients that METHADOSE contain methadone, a Schedule II controlled substance that is subject to abuse (see WARNINGS).
+Instruct patients not to share METHADOSE with others and to take steps to protect METHADOSE from theft or misuse.
+
+Risks from Concomitant Use of Alcohol and other CNS Depressants
+
+Inform patients that the concomitant use of alcohol with methadone can increase the risk of life-threatening respiratory depression.
+Instruct patients not to consume alcoholic beverages, as well as prescription and over-the-counter drug products that contain alcohol, during treatment with METHADOSE (see WARNINGS).
+
+Inform patients that potentially serious additive effects may occur if methadone is used with other CNS depressants, and not to use such drugs unless supervised by a health care provider.
+
+Important Administration Instructions (see DOSAGE AND ADMINISTRATION)
+
+Instruct patients how to properly take METHADOSE, including the following:
+
+- METHADOSE is for oral administration only.
+  The preparation must not be injected.
+- Inform patients that METHADOSE should be taken only as directed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression), and the dose should not be adjusted without consulting a physician or other healthcare professional.
+- Reassure patients initiating treatment with METHADOSE for opioid dependence that the dose of methadone will “hold” for longer periods of time as treatment progresses.
+- Apprise patients seeking to discontinue treatment with methadone for opioid dependence of the high risk of relapse to illicit drug use associated with discontinuation of METHADOSE maintenance treatment.
+- Advise patients not to discontinue METHADOSE without first discussing the need for a tapering regimen with the prescriber.
+
+Serotonin Syndrome
+
+Inform patients that METHADOSE could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
+Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
+Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications (see WARNINGS and PRECAUTIONS, Drug Interactions).
+
+MAOI Interaction
+
+Inform patients to avoid taking METHADOSE while using any drugs that inhibit monoamine oxidase.
+Patients should not start MAOIs while taking METHADOSE (see WARNINGS and PRECAUTIONS, Drug Interactions).
+
+Adrenal Insufficiency
+
+Inform patients that METHADOSE could cause adrenal insufficiency, a potentially life-threatening condition.
+Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+Advise patients to seek medical attention if they experience a constellation of these symptoms (see WARNINGS).
+
+Anaphylaxis
+
+Inform patients that anaphylaxis has been reported with ingredients contained in METHADOSE.
+Advise patients how to recognize such a reaction and when to seek medical attention (see ADVERSE REACTIONS).
+
+Neonatal Opioid Withdrawal
+
+Advise women that if they are pregnant while being treated with METHADOSE, the baby may have signs of withdrawal at birth and that withdrawal is treatable (see WARNINGS).
+
+Lactation
+
+Instruct nursing mothers using METHADOSE to watch for signs of methadone toxicity in their infants, which include increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
+Instruct nursing mothers to talk to their baby’s healthcare provider immediately if they notice these signs.
+If they cannot reach the healthcare provider right away, instruct them to take the baby to the emergency room or call 911 (or local emergency services) (see PRECAUTIONS, Pregnancy).
+
+Constipation
+
+Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention (see CLINICAL PHARMACOLOGY and ADVERSE REACTIONS).
+
+Drug Interactions
+
+| Inhibitors of CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 |  |
+| --- | --- |
+| Clinical Impact: | Methadone undergoes hepatic N-demethylation by several cytochrome P450 (CYP) isoforms, including CYP3A4, CYP2B6, CYP2C19, CYP2C9, and CYP2D6. The concomitant use of methadone and CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors can increase the plasma concentration of methadone, resulting in increased or prolonged opioid effects, and may result in a fatal overdose, particularly when an inhibitor is added after a stable dose of methadone is achieved. These effects may be more pronounced with concomitant use of drugs that inhibit more than one of the CYP enzymes listed above. After stopping a CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitor, as the effects of the inhibitor decline, the methadone plasma concentration can decrease, resulting in decreased opioid efficacy or withdrawal symptoms in patients physically dependent on methadone. |
+| Intervention: | If concomitant use is necessary, consider dosage reduction of methadone until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals.If a CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitor is discontinued, follow patients for signs of opioid withdrawal and consider increasing the methadone dosage until stable drug effects are achieved. |
+| Examples | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir), fluconazole, fluvoxamine, Some selective serotonin reuptake inhibitors (SSRIs) (e.g., sertraline, fluvoxamine) |
+| Inducers of CYP3A4, CYP2B6, CYP2C19, or CYP2C9 |  |
+| Clinical Impact: | The concomitant use of methadone and CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers can decrease the plasma concentration of methadone, resulting in decreased efficacy or onset of withdrawal symptoms in patients physically dependent on methadone. These effects could be more pronounced with concomitant use of drugs that can induce multiple CYP enzymes.After stopping a CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducer, as the effects of the inducer decline, the methadone plasma concentration can increase, which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression, sedation, or death. |
+| Intervention: | If concomitant use is necessary, consider increasing the methadone dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. If a CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducer is discontinued, consider methadone dosage reduction and monitor for signs of respiratory depression and sedation. |
+| Examples: | Rifampin, carbamazepine, phenytoin, St. John’s Wort, Phenobarbital |
+| Potentially Arrhythmogenic Agents |  |
+| Clinical Impact: | Pharmacodynamic interactions may occur with concomitant use of methadone and potentially arrhythmogenic agents or drugs capable of inducing electrolyte disturbances (hypomagnesemia, hypokalemia). |
+| Intervention: | Monitor patients closely for cardiac conduction changes. |
+| Examples: | Drugs known to have potential to prolong QT interval: Class I and III antiarrhythmics, some neuroleptics and tricyclic antidepressants, and calcium channel blockers. Drugs capable of inducing electrolyte disturbances: Diuretics, laxatives, and, in rare cases, mineralocortocoid hormones. |
+| Central Nervous System (CNS) Depressants |  |
+| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of CNS depressants can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Consider dose reduction of one or both drugs. Monitor patients for respiratory depression, sedation, and hypotension (see WARNINGS). |
+| Examples: | Alcohol, benzodiazepines, and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids. |
+| Serotonergic Drugs |  |
+| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome (see WARNINGS). |
+| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue METHADOSE if serotonin syndrome is suspected. |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) (see WARNINGS). |
+| Intervention: | The use of METHADOSE is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
+| Examples: | phenelzine, tranylcypromine, linezolid |
+| Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
+| Clinical Impact: | Patients maintained on methadone may experience withdrawal symptoms when given opioid antagonists, mixed agonist/antagonists, and partial agonists. |
+| Intervention: | Avoid concomitant use. |
+|  | butorphanol, nalbuphine, pentazocine, buprenorphine |
+| Muscle Relaxants |  |
+| Clinical Impact: | Methadone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of METHADOSE and/or the muscle relaxant as necessary. |
+| Diuretics |  |
+| Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
+| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
+| Anticholinergic Drugs |  |
+| Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
+| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when METHADOSE is used concomitantly with anticholinergic drugs. |
+
+Paradoxical Effects of Antiretroviral Agents on Methadone
+
+Concurrent use of certain protease inhibitors with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranvir+ritonavir, has resulted in increased clearance or decreased plasma levels of methadone.
+This may result in reduced efficacy of METHADOSE and could precipitate a withdrawal syndrome.
+Monitor patients receiving METHADOSE and any of these anti-retroviral therapies closely for evidence of withdrawal effects and adjust the METHADOSE dose accordingly.
+
+Effects of Methadone on Antiretroviral Agents
 
 Didanosine and Stavudine – Experimental evidence demonstrated that methadone decreased the area under the concentration-time curve (AUC) and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
 Methadone disposition was not substantially altered.
 
 Zidovudine – Experimental evidence demonstrated that methadone increased the AUC of zidovudine which could result in toxic effects.
 
-## Cytochrome P450 Inducers
-
-Methadone-maintained patients beginning treatment with CYP3A4 inducers should be monitored for evidence of withdrawal effects and methadone dose should be adjusted accordingly.
-The following drug interactions were reported following coadministration of methadone with inducers of cytochrome P450 enzymes:
-
-Rifampin – In patients well-stabilized on methadone, concomitant administration of rifampin resulted in a marked reduction in serum methadone levels and a concurrent appearance of withdrawal symptoms.
-
-Phenytoin – In a pharmacokinetic study with patients on methadone maintenance therapy, phenytoin administration (250 mg b.i.d. initially for 1 day followed by 300 mg QD for 3 to 4 days) resulted in an approximately 50% reduction in methadone exposure and withdrawal symptoms occurred concurrently.
-Upon discontinuation of phenytoin, the incidence of withdrawal symptoms decreased and methadone exposure increased to a level comparable to that prior to phenytoin administration.
-
-## St. John's Wort, Phenobarbital, Carbamazepine
-
-Administration of methadone along with other CYP3A4 inducers may result in withdrawal symptoms.
-
-## Cytochrome P450 Inhibitors
-
-Since the metabolism of methadone is mediated primarily by CYP3A4 isozyme, coadministration of drugs that inhibit CYP3A4 activity may cause decreased clearance of methadone.
-The expected clinical results would be increased or prolonged opioid effects.
-Thus, methadone-treated patients coadministered strong inhibitors of CYP3A4, such as azole antifungal agents (e.g., ketoconazole) and macrolide antibiotics (e.g., erythromycin), should be carefully monitored and dosage adjustment should be undertaken if warranted.
-Some selective serotonin reuptake inhibitors (SSRIs) (e.g., sertraline, fluvoxamine) may increase methadone plasma levels upon coadministration with methadone and result in increased opiate effects and/or toxicity.
-
-Voriconazole – Repeat dose administration of oral voriconazole (400 mg Q12h for 1 day, then 200 mg Q12h for 4 days) increased the Cmax and AUC of (R)-methadone by 31% and 47%, respectively, in subjects receiving a methadone maintenance dose (30 to 100 mg QD).
-The Cmax and AUC of (S)-methadone increased by 65% and 103%, respectively.
-Increased plasma concentrations of methadone have been associated with toxicity, including QT prolongation.
-Frequent monitoring for adverse events and toxicity related to methadone is recommended during coadministration.
-Dose reduction of methadone may be needed.
-
-## Others
-
-Monoamine Oxidase (MAO) Inhibitors – Therapeutic doses of meperidine have precipitated severe reactions in patients concurrently receiving monoamine oxidase inhibitors or those who have received such agents within 14 days.
-Similar reactions thus far have not been reported with methadone.
-However, if the use of methadone is necessary in such patients, a sensitivity test should be performed in which incremental doses of methadone are administered over the course of several hours while the patient's condition and vital signs are under careful observation.
-
 Desipramine – Plasma levels of desipramine have increased with concurrent methadone administration.
 
-## Potentially Arrhythmogenic Agents
-
-Extreme caution is necessary when any drug known to have the potential to prolong the QT interval is prescribed in conjunction with methadone.
-Pharmacodynamic interactions may occur with concomitant use of methadone and potentially arrhythmogenic agents such as class I and III antiarrhythmics, some neuroleptics and tricyclic antidepressants, and calcium channel blockers.
-
-Caution should also be exercised when prescribing Methadose concomitantly with drugs capable of inducing electrolyte disturbances (hypomagnesemia, hypokalemia) that may prolong the QT interval.
-These drugs include diuretics, laxatives, and, in rare cases, mineralocorticoid hormones.
-
-## Interactions with Alcohol and Drugs of Abuse
-
-Methadone may be expected to have additive effects when used in conjunction with alcohol, other opioids or CNS depressants, or with illicit drugs that cause central nervous system depression.
-Deaths have been reported when methadone has been abused in conjunction with benzodiazepines.
-
-Anxiety – Since methadone as used by tolerant patients at a constant maintenance dosage does not act as a tranquilizer, patients will react to life problems and stresses with the same symptoms of anxiety as do other individuals.
-The physician should not confuse such symptoms with those of narcotic abstinence and should not attempt to treat anxiety by increasing the dose of methadone.
-The action of methadone in maintenance treatment is limited to the control of narcotic withdrawal symptoms and is ineffective for relief of general anxiety.
-
-Acute Pain – Patients in methadone maintenance treatment for opioid dependence who experience physical trauma, postoperative pain or other acute pain cannot be expected to derive analgesia from their existing dose of methadone.
-Such patients should be administered analgesics, including opioids, in doses that would otherwise be indicated for non-methadone-treated patients with similar painful conditions.
-Due to the opioid tolerance induced by methadone, when opioids are required for management of acute pain in methadone patients, somewhat higher and/or more frequent doses will often be required than would be the case for non-tolerant patients.
-
-## Physical Dependence
-
-Physical dependence is manifested by withdrawal symptoms after abrupt discontinuation of a drug or upon administration of an antagonist.
-Physical dependence is expected during opioid agonist therapy of opioid addiction.
-
-If a physically dependent patient abruptly discontinues use of methadone, or the dose of methadone does not adequately "cover" the patient, an opioid abstinence or withdrawal syndrome may develop and is characterized by some or all of the following: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
-Other symptoms may also develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
-
-Infants born to mothers physically dependent on opioids may also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms (see PRECAUTIONS, Pregnancy, Labor and Delivery).
-
-In general, opioids should not be abruptly discontinued (see DOSAGE AND ADMINISTRATION, For Medically Supervised Withdrawal After a Period of Maintenance Treatment).
-
-Special-Risk Patients – Methadone should be given with caution, and the initial dose reduced, in certain patients such as the elderly and debilitated, and those with severe impairment of hepatic or renal function, hypothyroidism, Addison's disease, prostatic hypertrophy, or urethral stricture.
-The usual precautions should be observed and the possibility of respiratory depression requires added vigilance.
-
-## Information for Patients
-
-- Patients should be cautioned that Methadose, like all opioids, may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving or operating machinery.
-- Patients who are ambulatory should be cautioned that Methadose, like other opioids, may produce orthostatic hypotension.
-- Patients should be cautioned that alcohol and other CNS depressants may produce an additive CNS depression when taken with this product and should be avoided.
-- Patients should be instructed to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, dizziness, lightheadedness, or syncope) when taking Methadose.
-- Patients initiating treatment with Methadose should be reassured that the dose of methadone will “hold” for longer periods of time as treatment progresses.
-- Patients should be instructed to keep Methadose in a secure place out of the reach of children and other household members.
-  Accidental or deliberate ingestion by a child may cause respiratory depression that can result in death.
-- Patients should be advised not to change the dose of Methadose without consulting their physician.
-- Women of childbearing potential who become or are planning to become pregnant should be advised to consult their physicians regarding the effects of Methadose use during pregnancy.
-- If a physically dependent patient abruptly discontinues use of Methadose, an opioid abstinence or withdrawal syndrome may develop.
-  If cessation of therapy is indicated, it may be appropriate to taper the methadone dose, rather than abruptly discontinue it, due to the risk of precipitating withdrawal symptoms.
-  Their physician can provide a dose schedule to accomplish a gradual discontinuation of the medication.
-- Patients seeking to discontinue treatment with Methadose for opioid dependence should be apprised of the high risk of relapse to illicit drug use associated with discontinuation of methadone maintenance treatment.
-- Patients should be advised that Methadose is a potential drug of abuse.
-  They should protect it from theft, and it should never be taken by anyone other than the individual for whom it was prescribed.
-- Breastfeeding:
-  1. Methadone use is usually compatible with breastfeeding.
-     Pregnant mothers using methadone should be counseled about the benefits and risks of breastfeeding while using methadone.
-     Counseling should include the following information:
-     - The baby receives a small amount of methadone through breastmilk.
-     - The baby may experience methadone withdrawal if breastfeeding is discontinued suddenly.
-       Patients discontinuing breastfeeding should develop a plan to wean with the baby's healthcare team.
-     - Use of other substances of abuse during breastfeeding will expose the baby to additional risks.
-       Patients who use other substances of abuse should not breastfeed.
-  2. When starting methadone for the first time or increasing the dose, breastfeeding patients should watch their babies closely for changes in behavior or breathing patterns.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis – The results of carcinogenicity assessment in B6C2F1 mice and Fischer 344 rats following dietary administration of two doses of methadone HCl have been published.
 Mice consumed 15 mg/kg/day or 60 mg/kg/day methadone for two years.
-These doses were approximately 0.6 and 2.5 times a human daily oral dose of 120 mg/day on a body surface area basis (mg/m2).
+These doses were approximately 0.6 and 2.5 times a human daily oral dose of 120 mg/day on a body surface area basis (HDD).
 There was a significant increase in pituitary adenomas in female mice treated with 15 mg/kg/day but not with 60 mg/kg/day.
 Under the conditions of the assay, there was no clear evidence for a treatment-related increase in the incidence of neoplasms in male rats.
 Due to decreased food consumption in males at the high dose, male rats consumed 16 mg/kg/day and 28 mg/kg/day of methadone for two years.
-These doses were approximately 1.3 and 2.3 times a human daily oral dose of 120 mg/day, based on body surface area comparison.
+These doses were approximately 1.3 and 2.3 times the HDD.
 In contrast, female rats consumed 46 mg/kg/day or 88 mg/kg/day for two years.
-These doses were approximately 3.7 and 7.1 times a human daily oral dose of 120 mg/day, based on body surface area comparison.
+These doses were approximately 3.7 and 7.1 times the HDD.
 Under the conditions of the assay, there was no clear evidence for a treatment-related increase in the incidence of neoplasms in either male or female rats.
 
 Mutagenesis – There are several published reports on the potential genetic toxicity of methadone.
@@ -224,17 +316,17 @@ Methadone tested negative in tests for chromosome breakage and disjunction and s
 In contrast, methadone tested positive in the in vivo mouse dominant lethal assay and the in vivo mammalian spermatogonial chromosome aberration test.
 Additionally, methadone tested positive in the E.coli DNA repair system and Neurospora crassa and mouse lymphoma forward mutation assays.
 
-Fertility – Reproductive function in human males may be decreased by methadone treatment.
-Reductions in ejaculate volume and seminal vesicle and prostate secretions have been reported in methadone-treated individuals.
-In addition, reductions in serum testosterone levels and sperm motility, and abnormalities in sperm morphology have been reported.
-Published animal studies provide additional data indicating that methadone treatment of males can alter reproductive function.
-Methadone produces a significant regression of sex accessory organs and testes of male mice and rats.
-Additional data have been published indicating that methadone treatment of male rats (once a day for three consecutive days) increased embryolethality and neonatal mortality.
-Examination of uterine contents of methadone-naïve female mice bred to methadone-treated mice indicated that methadone treatment produced an increase in the rate of preimplantation deaths in all post-meiotic states.
+Impairment of Fertility – Published animal studies provide additional data indicating that methadone treatment of males can alter reproductive function.
+Methadone produces decreased sexual activity (mating) of male rats at 10 mg/kg/day (corresponding to 0.3 times the human daily oral dose of 120 mg/day based on body surface area).
+Methadone also produces a significant regression of sex accessory organs and testes of male mice and rats at 0.2 and 0.8 times the HDD, respectively.
+Methadone treatment of pregnant rats from Gestation Day 14 to 19 reduced fetal blood testosterone and androstenedione in male.
+Decreased serum levels of testosterone were observed in male rats that were treated with methadone (1.3 to 3.3 mg/kg/day for 14 days, corresponding to 0.1 to 0.3 times the HDD) or 10 to 15 mg/kg/day for 10 days (0.8 to 1.2 times the HDD).
 
-## Pregnancy
+Pregnancy
 
-Teratogenic Effects – Pregnancy Category C. There are no controlled studies of methadone use in pregnant women that can be used to establish safety.
+Pregnancy Category C. Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy (see WARNINGS).
+
+There are no controlled studies of methadone use in pregnant women that can be used to establish safety.
 However, an expert review of published data on experiences with methadone use during pregnancy by the Teratogen Information System (TERIS) concluded that maternal use of methadone during pregnancy as part of a supervised, therapeutic regimen is unlikely to pose a substantial teratogenic risk (quantity and quality of data assessed as “limited to fair”).
 However, the data are insufficient to state that there is no risk (TERIS, last reviewed October, 2002).
 Pregnant women involved in methadone maintenance programs have been reported to have significantly improved prenatal care leading to significantly reduced incidence of obstetric and fetal complications and neonatal morbidity and mortality when compared to women using illicit drugs.
@@ -250,93 +342,110 @@ Several studies have suggested that infants born to narcotic-addicted women trea
 This growth deficit does not appear to persist into later childhood.
 However, children born to women treated with methadone during pregnancy have been shown to demonstrate mild but persistent deficits in performance on psychometric and behavioral tests.
 
-Additional information on the potential risks of methadone may be derived from animal data.
-Methadone does not appear to be teratogenic in the rat or rabbit models.
-However, following large doses, methadone produced teratogenic effects in the guinea pig, hamster and mouse.
-One published study in pregnant hamsters indicated that a single subcutaneous dose of methadone ranging from 31 to 185 mg/kg (the 31 mg/kg dose is approximately twice a human daily oral dose of 120 mg/day on a mg/m2 basis) on day 8 of gestation resulted in a decrease in the number of fetuses per litter and an increase in the percentage of fetuses exhibiting congenital malformations described as exencephaly, cranioschisis, and “various other lesions.”
-The majority of the doses tested also resulted in maternal death.
-In another study, a single subcutaneous dose of 22 to 24 mg/kg methadone (estimated exposure was approximately equivalent to a human daily oral dose of 120 mg/day on a mg/m2 basis) administered on day 9 of gestation in mice also produced exencephaly in 11% of the embryos.
-However, no effects were reported in rats and rabbits at oral doses up to 40 mg/kg (estimated exposure was approximately 3 and 6 times, respectively, a human daily oral dose of 120 mg/day on a mg/m2 basis) administered during Days 6 to 15 and 6 to 18, respectively.
+In published animal reproduction studies, methadone administered subcutaneously during the early gestational period produced neural tube defects (i.e., exencephaly and cranioschisis) in the hamster at doses 2 times the human daily oral dose of 120 mg/day on a mg/m2 basis (HDD) and in mice at doses equivalent to the HDD.
+Administration of methadone to pregnant animals during organogenesis and through lactation resulted decreased litter size, pup mortality, decreased pup body weights, developmental delays, and long-term neurochemical changes in the brain of offspring which correlate with altered behavioral responses that persist through adulthood at exposures comparable to and less than the HDD.
+Administration of methadone to male rodents prior to mating with untreated females resulted in increased neonatal mortality and significant differences in behavioral tests in the offspring at exposures comparable to and less than the HDD (see Data).
+Based on animal data, advise pregnant women of the potential risk to a fetus.
 
-Nonteratogenetic Effects – Babies born to mothers who have been taking opioids regularly prior to delivery may be physically dependent.
-Onset of withdrawal symptoms in infants is usually in the first days after birth.
-Withdrawal signs in the newborn include irritability and excessive crying, tremors, hyperactive reflexes, increased respiratory rate, increased stools, sneezing, yawning, vomiting, and fever.
-The intensity of the syndrome does not always correlate with the maternal dose or the duration of maternal exposure.
-The duration of the withdrawal signs may vary from a few days to weeks or even months.
-There is no consensus on the appropriate management of infant withdrawal.
+Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with METHADOSE.
 
-There are conflicting reports on whether SIDS occurs with an increased incidence in infants born to women treated with methadone during pregnancy.
+Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and/or failure to gain weight.
+Signs of neonatal withdrawal usually occur in the first days after birth.
+The duration and severity of neonatal opioid withdrawal syndrome may vary.
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly (see WARNINGS, Neonatal Opioid Withdrawal Syndrome).
 
 Abnormal fetal nonstress tests (NSTs) have been reported to occur more frequently when the test is performed 1 to 2 hours after a maintenance dose of methadone in late pregnancy compared to controls.
 
-Published animal data have reported increased neonatal mortality in the offspring of male rats that were treated with methadone prior to mating.
-In these studies, the female rats were not treated with methadone, indicating paternally-mediated developmental toxicity.
+Data
+
+Animal Data
+
+Formal reproductive and developmental toxicology studies for methadone have not been conducted.
+Exposure margins for the following published study reports are based on a human daily dose (HDD) of 120 mg methadone using a body surface area comparison.
+
+In a published study in pregnant hamsters, a single subcutaneous dose of methadone ranging from 31 mg/kg (2 times the HDD) to 185 mg/kg on Gestation Day 8 resulted in a decrease in the number of fetuses per litter and an increase in the percentage of fetuses exhibiting neural tube defects including exencephaly, cranioschisis, and “various other lesions.”
+The majority of the doses tested also resulted in maternal death.
+In a study in pregnant mice, a single subcutaneous dose of 22 to 24 mg/kg methadone (approximately equivalent to the HDD) administered on Gestation Day 9 produced exencephaly in 11% of the embryos.
+In another study in pregnant mice, subcutaneous doses up to 28 mg/kg/day methadone (equivalent to the HDD) administered from Gestation Day 6 to 15 resulted in no malformations, but there were increased postimplantation loss and decreased live fetuses at 10 mg/kg/day or greater (0.4 times the HDD) and decreased ossification and fetal body weight at 20 mg/kg/day or greater (0.8 times the HDD).
+In a second study of pregnant mice dosed with subcutaneous doses up to 28 mg/kg/day methadone from Gestation Day 6 to 15, there was decreased pup viability, delayed onset of development of negative phototaxis and eye opening, increased righting reflexes at 5 mg/kg/day or greater (0.2 times the HDD), and decreased number of live pups at birth and decreased pup weight gain at 20 mg/kg/day or greater (0.8 times the HDD).
+No effects were reported in a study of pregnant rats and rabbits at oral doses up to 40 mg/kg (3 and 6 times, respectively, the HDD) administered from Gestation Days 6 to 15 and 6 to 18, respectively.
+
+When pregnant rats were treated with intraperitoneal doses of 2.5, 5, or 7.5 mg/kg methadone from one week prior to mating, through gestation until the end of lactation period, 5 mg/kg or greater (0.4 times the HDD) methadone resulted in decreases in litter size and live pups born and 7.5 mg/kg (0.6 times the HDD) resulted in decreased birth weights.
+Furthermore, decreased pup viability and pup body weight gain at 2.5 mg/kg or greater (0.2 times the HDD) were noted during the preweaning period.
+
+Additional animal data demonstrates evidence for neurochemical changes in the brains of offspring from methadone-treated pregnant rats, including changes to the cholinergic, dopaminergic, noradrenergic and serotonergic systems at doses below the HDD.
+Other animal studies have reported that prenatal and/or postnatal exposure to opioids including methadone alters neuronal development and behavior in the offspring including alterations in learning ability, motor activity, thermal regulation, nociceptive responses, and sensitivity to drugs at doses below the HDD.
+Treatment of pregnant rats subcutaneously with 5 mg/kg methadone from Gestation Day 14 to 19 (0.4 times the HDD) reduced fetal blood testosterone and androstenedione in males.
+
+Published animal data have reported increased neonatal mortality in the offspring of male rodents that were treated with methadone at doses comparable to and less than the HDD for 1 to 12 days before and/or during mating (with more pronounced effects in the first 4 days).
+In these studies, the female rodents were not treated with methadone, indicating paternally-mediated developmental toxicity.
 Specifically, methadone administered to the male rat prior to mating with methadone-naïve females resulted in decreased weight gain in progeny after weaning.
 The male progeny demonstrated reduced thymus weights, whereas the female progeny demonstrated increased adrenal weights.
-Furthermore, behavioral testing of these male and female progeny revealed significant differences in behavioral tests compared to control animals, suggesting that paternal methadone exposure can produce physiological and behavioral changes in progeny in this model.
-Other animal studies have reported that perinatal exposure to opioids including methadone alters neuronal development and behavior in the offspring.
-Perinatal methadone exposure in rats has been linked to alterations in learning ability, motor activity, thermal regulation, nociceptive responses and sensitivity to drugs.
-Additional animal data demonstrates evidence for neurochemical changes in the brains of methadone-treated offspring, including changes to the cholinergic, dopaminergic, noradrenergic and serotonergic systems.
-Additional studies demonstrated that methadone treatment of male rats for 21 to 32 days prior to mating with methadone-naïve females did not produce any adverse effects, suggesting that prolonged methadone treatment of the male rat resulted in tolerance to the developmental toxicities noted in the progeny.
+Behavioral testing of these male and female progeny revealed significant differences in behavioral tests compared to control animals, suggesting that paternal methadone exposure can produce physiological and behavioral changes in progeny in this model.
+Examination of uterine contents of methadone-naïve female mice bred to methadone-treated male mice (once a day for three consecutive days) indicated that methadone treatment produced an increase in the rate of preimplantation deaths in all post-meiotic states at 1 mg/kg/day or greater (0.04 times the HDD).
+Chromosome analysis revealed a dose-dependent increase in the frequency of chromosomal abnormalities at 1 mg/kg/day or greater.
+
+Studies demonstrated that methadone treatment of male rats for 21 to 32 days prior to mating with methadone-naïve females did not produce any adverse effects, suggesting that prolonged methadone treatment of the male rat resulted in tolerance to the developmental toxicities noted in the progeny.
 Mechanistic studies in this rat model suggest that the developmental effects of “paternal” methadone on the progeny appear to be due to decreased testosterone production.
 These animal data mirror the reported clinical findings of decreased testosterone levels in human males on methadone maintenance therapy for opioid addiction and in males receiving chronic intraspinal opioids.
 
-Clinical Pharmacology in Pregnancy – Pregnant women appear to have significantly lower trough plasma methadone concentrations, increased plasma methadone clearance, and shorter methadone half-life than after delivery.
-Dosage adjustment using higher doses or administering the daily dose in divided doses may be necessary in pregnant women treated with Methadose (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
-
-Methadone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-## Labor and Delivery
+Labor and Delivery
 
 As with all opioids, administration of this product to the mother shortly before delivery may result in some degree of respiratory depression in the newborn, especially if higher doses are used.
 Methadone is not recommended for obstetric analgesia because its long duration of action increases the probability of respiratory depression in the newborn.
 Narcotics with mixed agonist/antagonist properties should not be used for pain control during labor in patients chronically treated with methadone as they may precipitate acute withdrawal.
 
-## Nursing Mothers
+Lactation
 
-Methadone is secreted into human milk.
-At maternal oral doses of 10 to 80 mg/day, methadone concentrations from 50 to 570 mcg/L in milk have been reported, which, in the majority of samples, were lower than maternal serum drug concentrations at steady state.
-Peak methadone levels in milk occur approximately 4 to 5 hours after an oral dose.
-Based on an average milk consumption of 150 mL/kg/day, an infant would consume approximately 17.4 mcg/kg/day which is approximately 2 to 3% of the oral maternal dose.
+Risk Summary
+
+Based on two studies in 22 breastfeeding women maintained on methadone treatment, methadone was present in low levels in human milk, and did not show adverse reactions in breastfed infants.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for methadone and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
+
+Clinical Considerations
+
+Advise breastfeeding women taking methadone to monitor the infant for increased drowsiness and breathing difficulties.
+
+Data
+
+In a study of ten breastfeeding women maintained on oral methadone doses of 10 to 80 mg/day, methadone concentrations from 50 to 570 mcg/L in milk were reported, which, in the majority of samples, were lower than maternal serum drug concentrations at steady state.
+
+In a study of twelve breastfeeding women maintained on oral methadone doses of 20 to 80 mg/day, methadone concentrations from 39 to 232 mcg/L in milk were reported.
+Based on an average milk consumption of 150 mL/kg/day, an infant would consume approximately 17.4 mcg/kg/day, which is approximately 2 to 3% of the oral maternal dose.
 Methadone has been detected in very low plasma concentrations in some infants whose mothers were taking methadone.
 
-Caution should be exercised when methadone is administered to a nursing woman.
 There have been rare cases of sedation and respiratory depression in infants exposed to methadone through breast milk.
 
-Mothers using methadone should receive specific information about how to identify respiratory depression and sedation in their babies.
-They should know when to contact their healthcare provider or seek immediate medical care.
-A healthcare provider should weigh the benefits of breastfeeding against the risks of infant exposure to methadone and possible exposure to other medicines.
+Females and Males of Reproductive Potential
 
-Women being treated with methadone for any indication who are already breastfeeding should be counseled to wean breastfeeding gradually in order to prevent the development of withdrawal symptoms in the infant.
+Infertility
 
-## Methadone Maintenance Treatment for Opioid Dependence during Breastfeeding
+Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+It is not known whether these effects on fertility are reversible (see ADVERSE REACTIONS).
+Reproductive function in human males may be decreased by methadone treatment.
+Reductions in ejaculate volume and seminal vesicle and prostate secretions have been reported in methadone-treated individuals.
+In addition, reductions in serum testosterone levels and sperm motility, and abnormalities in sperm morphology have been reported.
 
-Women on methadone maintenance therapy, who express a desire to breastfeed, should be informed of the risks and benefits of breastfeeding during pregnancy and immediately postpartum.
-The patient should clearly understand that, while breastfeeding, she should not use illicit substances or any other drug not prescribed by her healthcare provider.
-She should understand the reasons why use of additional drugs can increase risk to her breastfeeding infant beyond any risk from methadone.
-
-## Pediatric Use
+Pediatric Use
 
 Safety and effectiveness in pediatric patients below the age of 18 years have not been established.
 
-Accidental or deliberate ingestion by a child may cause respiratory depression that can result in death.
-Patients and caregivers should be instructed to keep Methadose in a secure place out of the reach of children and to discard unused methadone in such a way that individuals other than the patient for whom it was originally prescribed will not come in contact with the drug.
-
-## Geriatric Use
+Geriatric Use
 
 Clinical studies of methadone did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently compared to younger subjects.
 Other reported clinical experience has not identified differences in responses between elderly and younger patients.
 In general, dose selection for elderly patients should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
-## Renal Impairment
+Methadone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
-The use of methadone has not been extensively evaluated in patients with renal insufficiency.
-
-## Hepatic Impairment
+Hepatic Impairment
 
 The use of methadone has not been extensively evaluated in patients with hepatic insufficiency.
 Methadone is metabolized in the liver and patients with liver impairment may be at risk of accumulating methadone after multiple dosing.
+Start these patients on lower doses and titrate slowly while carefully monitoring for signs of respiratory and central nervous system depression.
 
-## Gender
+Renal Impairment
 
-The use of methadone has not been evaluated for gender specificity.
+The use of methadone has not been extensively evaluated in patients with renal insufficiency.
+Since unmetabolized methadone and its metabolites are excreted in urine to a variable degree, start these patients on lower doses and with longer dosing intervals and titrate slowly while carefully monitoring for signs of respiratory and central nervous system depression.
