@@ -59,6 +59,6 @@ The safety and effectiveness in pediatric patients below the age of 18 have not 
 
 ## 8.5 Geriatric Use
 
-The pharmacokinetics of morphine sulfate extended-release tablets have not been studied in elderly patients.
+The pharmacokinetics of morphine sulfate extended-release tablets has not been studied in elderly patients.
 Clinical studies of morphine sulfate extended-release tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

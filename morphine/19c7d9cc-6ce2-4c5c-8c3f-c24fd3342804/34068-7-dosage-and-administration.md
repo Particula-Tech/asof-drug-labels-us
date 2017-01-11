@@ -4,7 +4,7 @@
 
 Morphine sulfate extended-release tablets should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
-Initiate the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+Initiate the dosing regimen for each patient individually; taking into account the patient's prior analgesic treatment experience and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy with morphine sulfate extended-release tablets [see Warnings and Precautions (5.2)].
 
 Morphine sulfate extended-release tablets must be taken whole.

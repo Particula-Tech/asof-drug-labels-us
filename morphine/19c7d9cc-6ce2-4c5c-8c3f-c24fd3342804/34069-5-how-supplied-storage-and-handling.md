@@ -1,31 +1,29 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Morphine Sulfate Extended-Release Tablets 15 mg are round, blue-colored, film-coated tablets bearing the symbol ABG on one side and 15 on the other.
-They are supplied as follows:
+Morphine Sulfate Extended-Release Tablets are available as follows:
 
-NDC 42858-801-01: opaque plastic bottles containing 100 tablets
+15 mg - round, blue-colored, film-coated tablet bearing the symbol ABG on one side and 15 on the other.
 
-Morphine Sulfate Extended-Release Tablets 30 mg are round, lavender-colored, film-coated tablets bearing the symbol ABG on one side and 30 on the other.
-They are supplied as follows:
+Bottles (opaque plastic) of 100..........................................................................NDC 42858-801-01
 
-NDC 42858-802-01: opaque plastic bottles containing 100 tablets
+30 mg - round, lavender-colored, film-coated tablet bearing the symbol ABG on one side and 30 on the other.
 
-Morphine Sulfate Extended-Release Tablets 60 mg are round, orange-colored, film-coated tablets bearing the symbol ABG on one side and 60 on the other.
-They are supplied as follows:
+Bottles (opaque plastic) of 100..........................................................................NDC 42858-802-01
 
-NDC 42858-803-01: opaque plastic bottles containing 100 tablets
+60 mg - round, orange-colored, film-coated tablet bearing the symbol ABG on one side and 60 on the other.
 
-Morphine Sulfate Extended-Release Tablets 100 mg are round, gray-colored, film-coated tablets bearing the symbol ABG on one side and 100 on the other.
-They are supplied as follows:
+Bottles (opaque plastic) of 100..........................................................................NDC 42858-803-01
 
-NDC 42858-804-01: opaque plastic bottles containing 100 tablets
+100 mg - round, gray-colored, film-coated tablet bearing the symbol ABG on one side and 100 on the other.
 
-Morphine Sulfate Extended-Release Tablets 200 mg are capsule-shaped, green-colored, film-coated tablets bearing the symbol ABG on one side and 200 on the other.
-They are supplied as follows:
+Bottles (opaque plastic) of 100..........................................................................NDC 42858-804-01
 
-NDC 42858-805-01: opaque plastic bottles containing 100 tablets
+200 mg - capsule-shaped, green-colored, film-coated tablet bearing the symbol ABG on one side and 200 on the other.
+
+Bottles (opaque plastic) of 100..........................................................................NDC 42858-805-01
 
 Store at 25°C (77°F); excursions permitted between 15° to 30°C (59° to 86°F).
+[See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container.
 

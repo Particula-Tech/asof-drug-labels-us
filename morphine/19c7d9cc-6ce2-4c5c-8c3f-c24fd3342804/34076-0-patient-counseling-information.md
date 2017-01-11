@@ -64,19 +64,7 @@ Disposal of Unused Morphine Sulfate Extended-Release Tablets
 
 Advise patients to flush the unused tablets down the toilet when morphine sulfate extended-release tablets are no longer needed.
 
-Marketed by:
+Marketed by: Rhodes Pharmaceuticals L.P.
+Coventry, RI 02816 302942-0C
 
-Rhodes Pharmaceuticals L.P.
-
-Coventry, RI 02816
-
-Manufactured by:
-
-Purdue Pharmaceuticals, L.P.
-
-Wilson, NC 27893
-
-302942-0B
-
-Rev.
-05/2014
+Revised 10/2016

@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Morphine Sulfate Extended-Release (ER) Tablets, CII
+Morphine Sulfate (Mor-feen-SUL-fate) Extended-Release (ER) Tablets, CII
 
 Morphine sulfate ER tablets are:
 

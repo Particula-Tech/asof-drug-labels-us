@@ -91,7 +91,7 @@ Opioids may cause increases in the serum amylase.
 ## 5.10 Use in Patients with Convulsive or Seizure Disorders
 
 The morphine in morphine sulfate extended-release tablets may aggravate convulsions in patients with convulsive disorders, and may induce or aggravate seizures in some clinical settings.
-Monitor patients with a history of seizure disorders for worsened seizure control during morphine sulfate extended-release tablets therapy.
+Monitor patients with a history of seizure disorders for worsened seizure control during morphine sulfate extended-release tablet therapy.
 
 ## 5.11 Avoidance of Withdrawal
 
