@@ -51,7 +51,7 @@ Increase the daily dose every 2 weeks by increments of 500 mg to a maximum recom
 For levetiracetam tablets dosing in pediatric patients weighing more than 40 kg, initiate treatment with a daily dose of 1000 mg/day given as twice daily dosing (500 mg twice daily).
 Increase the daily dose every 2 weeks by increments of 1000 mg/day to a maximum recommended daily dose of 3000 mg (1500 mg twice daily).
 
-Levetiracetam Oral Solution Weight-Based Dosing Calculation for Pediatric Patients
+#### Levetiracetam Oral Solution Weight-Based Dosing Calculation for Pediatric Patients
 
 The following calculation should be used to determine the appropriate daily dose of oral solution for pediatric patients:
 

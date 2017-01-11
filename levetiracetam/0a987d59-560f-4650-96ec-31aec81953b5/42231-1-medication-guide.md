@@ -177,6 +177,8 @@ Levetiracetam tablets do not contain lactose or gluten.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 11/2016 LVTC:R13mpbmh
+Manufactured by: UNICHEM LABORATORIES LTD Ind.Area, Meerut Road, Ghaziabad – 201 003, India Code No.: UP/DRUG/14/74
+
+Revised: 12/2016 UN:LVTC:R13mpbmh
