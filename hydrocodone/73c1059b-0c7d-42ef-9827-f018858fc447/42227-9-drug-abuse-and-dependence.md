@@ -1,22 +1,54 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Misuse, Abuse, and Diversion of Opioids – Hydrocodone bitartrate and acetaminophen tablets contains hydrocodone, an opioid agonist, and is a Schedule II controlled substance.
-Hydrocodone bitartrate and acetaminophen tablets, and other opioids used in analgesia can be abused and are subject to criminal diversion.
+Controlled Substance
 
-Addiction is a primary, chronic, neurobiologic disease, with genetic, psychosocial, and environmental factors influencing its development and manifestations.
-It is characterized by behaviors that include one or more of the following: impaired control over drug use, compulsive use, continued use despite harm, and craving.
-Drug addiction is a treatable disease utilizing a multidisciplinary approach, but relapse is common.
+Hydrocodone bitartrate and acetaminophen tablets contain hydrocodone, a Schedule II controlled substance.
 
-“Drug seeking” behavior is very common in addicts and drug abusers.
-Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated “loss” of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
-“Doctor shopping” to obtain additional prescriptions is common among drug abusers and people suffering from untreated addiction.
+Abuse
+
+Hydrocodone bitartrate and acetaminophen tablets contain hydrocodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, hydromorphone, methadone, morphine, oxycodone, oxymorphone, and tapentadol, can be abused and is subject to misuse, addiction, and criminal diversion (see WARNINGS).
+
+All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+
+Prescription drug abuse is the intentional non-therapeutic use of a prescription drug, even once, for its rewarding psychological or physiological effects.
+
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
+
+“Drug-seeking” behavior is very common in persons with substance use disorders.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
+“Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among drug abusers and people suffering from untreated addiction.
+Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with poor pain control.
 
 Abuse and addiction are separate and distinct from physical dependence and tolerance.
-Physical dependence usually assumes clinically significant dimensions only after several weeks of continued opioid use, although a mild degree of physical dependence may develop after a few days of opioid therapy.
-Tolerance, in which increasingly large doses are required in order to produce the same degree of analgesia, is manifested initially by a shortened duration of analgesic effect, and subsequently by decreases in the intensity of analgesia.
-The rate of development of tolerance varies among patients.
-Physicians should be aware that abuse of opioids can occur in the absence of true addiction and is characterized by misuse for non-medical purposes, often in combination with other psychoactive substances.
-Hydrocodone bitartrate and acetaminophen tablets, like other opioids, may be diverted for non-medical use.
-Record-keeping of prescribing information, including quantity, frequency, and renewal requests is strongly advised.
+Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
+In addition, abuse of opioids can occur in the absence of true addiction.
+
+Hydrocodone bitartrate and acetaminophen tablets, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
+
+Risks Specific to Abuse of Hydrocodone Bitartrate and Acetaminophen Tablets
+
+Hydrocodone bitartrate and acetaminophen tablets are for oral use only.
+Hydrocodone bitartrate and acetaminophen tablets pose a risk of overdose and death.
+The risk is increased with concurrent abuse of hydrocodone bitartrate and acetaminophen tablets with alcohol and other central nervous system depressants.
+
+Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
+
+Dependence
+
+Both tolerance and physical dependence can develop during chronic opioid therapy.
+Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
+Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
+
+Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug.
+Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
+
+Hydrocodone bitartrate and acetaminophen tablets should not be abruptly discontinued in a physically-dependent patient (see DOSAGE AND ADMINISTRATION).
+If hydrocodone bitartrate and acetaminophen tablets are abruptly discontinued in a physically dependent patient, a withdrawal syndrome may occur.
+Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
+Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs (see PRECAUTIONS, Pregnancy).

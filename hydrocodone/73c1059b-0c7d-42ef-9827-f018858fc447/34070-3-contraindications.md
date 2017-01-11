@@ -1,5 +1,8 @@
 # CONTRAINDICATIONS
 
-This product should not be administered to patients who have previously exhibited hypersensitivity to hydrocodone or acetaminophen.
+Hydrocodone bitartrate and acetaminophen tablets are contraindicated in patients with:
 
-Patients known to be hypersensitive to other opioids may exhibit cross-sensitivity to hydrocodone.
+- Significant respiratory depression (see WARNINGS)
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment (see WARNINGS)
+- Known or suspected gastrointestinal obstruction, including paralytic ileus (see WARNINGS)
+- Hypersensitivity to hydrocodone or acetaminophen (e.g., anaphylaxis) (see WARNINGS and ADVERSE REACTIONS)
