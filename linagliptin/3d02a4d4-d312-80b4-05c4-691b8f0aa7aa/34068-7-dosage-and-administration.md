@@ -33,7 +33,7 @@ Initiation of JENTADUETO XR in patients with an eGFR between 30-45 mL/min/1.73 m
 
 In patients taking JENTADUETO XR whose eGFR later falls below 45 mL/min/1.73 m2, assess benefit risk of continuing therapy.
 
-Discontinue JENTADUETO XR if the patient’s eGFR later falls below 30 mL/min/1.73 m2[see Contraindications (4) and Warnings and Precautions (5.1)].
+Discontinue JENTADUETO XR if the patient’s eGFR later falls below 30 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 ## 2.3 Discontinuation for Iodinated Contrast Imaging Procedures
 

@@ -2,16 +2,12 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-JENTADUETO XR
-
-No animal studies have been conducted with the combined products in JENTADUETO XR to evaluate carcinogenesis, mutagenesis, or impairment of fertility.
+JENTADUETO XR No animal studies have been conducted with the combined products in JENTADUETO XR to evaluate carcinogenesis, mutagenesis, or impairment of fertility.
 General toxicity studies in rats up to 13 weeks were performed with linagliptin/metformin coadministered.
 
 The following data are based on the findings in studies with linagliptin and metformin individually.
 
-Linagliptin
-
-Linagliptin did not increase the incidence of tumors in male and female rats in a 2-year study at doses of 6, 18, and 60 mg/kg.
+Linagliptin Linagliptin did not increase the incidence of tumors in male and female rats in a 2-year study at doses of 6, 18, and 60 mg/kg.
 The highest dose of 60 mg/kg is approximately 418 times the clinical dose of 5 mg/day based on AUC exposure.
 Linagliptin did not increase the incidence of tumors in mice in a 2-year study at doses up to 80 mg/kg (males) and 25 mg/kg (females), or approximately 35 and 270 times the clinical dose based on AUC exposure.
 Higher doses of linagliptin in female mice (80 mg/kg) increased the incidence of lymphoma at approximately 215 times the clinical dose based on AUC exposure.
@@ -20,9 +16,7 @@ Linagliptin was not mutagenic or clastogenic with or without metabolic activatio
 
 In fertility studies in rats, linagliptin had no adverse effects on early embryonic development, mating, fertility, or bearing live young up to the highest dose of 240 mg/kg (approximately 943 times the clinical dose based on AUC exposure).
 
-Metformin Hydrochloride
-
-Long-term carcinogenicity studies have been performed in Sprague Dawley rats at doses of 150, 300, and 450 mg/kg/day in males and 150, 450, 900, and 1200 mg/kg/day in females.
+Metformin Hydrochloride Long-term carcinogenicity studies have been performed in Sprague Dawley rats at doses of 150, 300, and 450 mg/kg/day in males and 150, 450, 900, and 1200 mg/kg/day in females.
 These doses are both approximately 2, 4, and 8 times in males, and 3, 7, 12, and 16 times in females of the maximum recommended human daily dose of 2000 mg/kg/day based on body surface area comparisons.
 No evidence of carcinogenicity with metformin was found in either male or female rats.
 A carcinogenicity study was also performed in Tg.AC transgenic mice at doses of up to 2000 mg/kg/day applied dermally.

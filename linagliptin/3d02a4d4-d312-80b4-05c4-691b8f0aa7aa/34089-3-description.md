@@ -2,9 +2,7 @@
 
 JENTADUETO XR tablets contain 2 oral antihyperglycemic drugs used in the management of type 2 diabetes mellitus: linagliptin and metformin hydrochloride.
 
-Linagliptin
-
-Linagliptin is an orally-active inhibitor of the dipeptidyl peptidase-4 (DPP-4) enzyme.
+Linagliptin Linagliptin is an orally-active inhibitor of the dipeptidyl peptidase-4 (DPP-4) enzyme.
 
 Linagliptin is described chemically as 1H-Purine-2,6-dione, 8-[(3R)-3-amino-1-piperidinyl]-7-(2-butyn-1-yl)-3,7-dihydro-3-methyl-1-[(4-methyl-2-quinazolinyl)methyl]-
 
@@ -18,9 +16,7 @@ Linagliptin is soluble in methanol (ca.
 10 mg/mL), very slightly soluble in isopropanol (<1 mg/mL), and very slightly soluble in acetone (ca.
 1 mg/mL).
 
-Metformin Hydrochloride
-
-Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
+Metformin Hydrochloride Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
 Metformin hydrochloride is a white to off-white crystalline compound with a molecular formula of C4H11N5•HCl and a molecular weight of 165.63 g/mol.
 Metformin hydrochloride is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
 The pKa of metformin is 12.4.
