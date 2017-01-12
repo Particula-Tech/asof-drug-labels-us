@@ -4,7 +4,7 @@ NDC 0406-0483-01
 
 100 TABLETS
 
-ACETAMINOPHEN AND CODEINE PHOSPHATE TABLETS USP
+Acetaminophen and Codeine Phosphate Tablets USP
 
 CIII
 
@@ -16,15 +16,19 @@ Rx only Each tablet contains: Acetaminophen USP...............
 
 This package is not for household use.
 
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+
 Mallinckrodt™
 
-L00A28 Rev 02/2016
+L00A28 Rev 03/2016
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 300 mg/30 mg Bottle
 
 NDC 0406-0484-10
 
-1000 TABLETS ACETAMINOPHEN AND CODEINE PHOSPHATE TABLETS USP
+1000 TABLETS
+
+Acetaminophen and Codeine Phosphate Tablets USP
 
 CIII
 
@@ -38,9 +42,11 @@ Rx only
 
 This package is not for household use.
 
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+
 Mallinckrodt™
 
-L00A34 Rev 02/2016
+L00A34 Rev 03/2016
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 300 mg/60 mg Bottle
 
@@ -48,7 +54,7 @@ NDC 0406-0485-05
 
 500 TABLETS
 
-ACETAMINOPHEN AND CODEINE PHOSPHATE TABLETS USP
+Acetaminophen and Codeine Phosphate Tablets USP
 
 CIII
 
@@ -62,6 +68,8 @@ Rx only
 
 This package is not for household use.
 
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+
 Mallinckrodt™
 
-L00A37 Rev 02/2016
+L00A37 Rev 03/2016
