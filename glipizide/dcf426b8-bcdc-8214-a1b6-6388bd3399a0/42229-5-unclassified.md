@@ -4,21 +4,11 @@ Store at 20˚ to 25˚C (68˚ to 77˚F) [see USP controlled Room Temperature].
 
 Dispense in a tight, light-resistant container [see USP].
 
-APOTEX INC.
+APOTEX INC. GLIPIZIDE TABLETS, USP 5 mg and 10 mg
 
-GLIPIZIDE TABLETS, USP
+Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 USA 33326
 
-5 mg and 10 mg
-
-Manufactured by: Manufactured for:
-
-Apotex Inc. Apotex Corp.
-
-Toronto, Ontario Weston, Florida
-
-Canada M9L 1T9 USA 33326
-
-Revised: November 2013
+Revised: October 2016
 
 Rev.
-6
+7

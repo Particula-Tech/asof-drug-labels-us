@@ -1,6 +1,6 @@
 # WARNINGS
 
-Special Warning On Increased Risk Of Cardiovascular Mortality
+SPECIAL WARNING ON INCREASED RISK OF CARDIOVASCULAR MORTALITY
 
 The administration of oral hypoglycemic drugs has been reported to be associated with increased cardiovascular mortality as compared to treatment with diet alone or diet plus insulin.
 This warning is based on the study conducted by the University Group Diabetes Program (UGDP), a long-term prospective clinical trial designed to evaluate the effectiveness of glucose-lowering drugs in preventing or delaying vascular complications in patients with non-insulin-dependent diabetes.
@@ -74,7 +74,7 @@ Maintenance or discontinuation of glipizide or other antidiabetic medications sh
 
 ## Drug Interactions
 
-The hypoglycemic action of sulfonylureas may be potentiated by certain drugs including nonsteroidal anti-inflammatory agents, some azoles, and other drugs that are highly protein bound, salicylates, sulfonamides, chloramphenicol, probenecid, coumarins, monoamine oxidase inhibitors, and beta adrenergic blocking agents.
+The hypoglycemic action of sulfonylureas may be potentiated by certain drugs including nonsteroidal anti-inflammatory agents, some azoles, and other drugs that are highly protein bound, salicylates, sulfonamides, chloramphenicol, probenecid, coumarins, monoamine oxidase inhibitors, quinolones and beta adrenergic blocking agents.
 When such drugs are administered to a patient receiving glipizide, the patient should be observed closely for hypoglycemia.
 When such drugs are withdrawn from a patient receiving glipizide, the patient should be observed closely for loss of control.
 In vitro binding studies with human serum proteins indicate that glipizide binds differently than tolbutamide and does not interact with salicylate or dicumarol.
