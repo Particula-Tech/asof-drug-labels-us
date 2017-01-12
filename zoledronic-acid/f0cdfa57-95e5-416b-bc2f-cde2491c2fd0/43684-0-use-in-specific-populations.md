@@ -29,7 +29,7 @@ In pregnant rabbits given subcutaneous doses of zoledronic acid of 0.01, 0.03, o
 Maternal mortality and abortion occurred in all treatment groups (at doses greater than or equal to 0.05 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas).
 Adverse maternal effects were associated with, and may have been caused by, drug-induced hypocalcemia.
 
-## 8.2 Nursing Mothers
+## 8.3 Nursing Mothers
 
 It is not known whether zoledronic acid is excreted in human milk.
 Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from Zometa, a decision should be made to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.

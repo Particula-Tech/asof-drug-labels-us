@@ -11,7 +11,7 @@ Two days after the overdose, the patient experienced a single episode of hyperth
 All other evaluations were normal, and the patient was discharged seven days after the overdose.
 
 A patient with non-Hodgkin’s lymphoma received zoledronic acid 4 mg daily on four successive days for a total dose of 16 mg.
-The patient developed paresthesia and abnormal liver function tests with increased GGT (nearly 100 U/L, each value unknown).
+The patient developed paresthesia and abnormal liver function tests with increased GGT (nearly 100 unit/L, each value unknown).
 The outcome of this case is not known.
 
 In controlled clinical trials, administration of Zometa 4 mg as an intravenous infusion over 5 minutes has been shown to increase the risk of renal toxicity compared to the same dose administered as a 15-minute intravenous infusion.

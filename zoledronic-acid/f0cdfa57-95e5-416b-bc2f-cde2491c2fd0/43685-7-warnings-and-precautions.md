@@ -22,10 +22,10 @@ Preexisting renal insufficiency and multiple cycles of Zometa and other bisphosp
 Factors predisposing to renal deterioration, such as dehydration or the use of other nephrotoxic drugs, should be identified and managed, if possible.
 
 Zometa treatment in patients with hypercalcemia of malignancy with severe renal impairment should be considered only after evaluating the risks and benefits of treatment [see Dosage and Administration (2.1)].
-In the clinical studies, patients with serum creatinine greater than 400 µmol/L or greater than 4.5 mg/dL were excluded.
+In the clinical studies, patients with serum creatinine greater than 400 micromole/L or greater than 4.5 mg/dL were excluded.
 
 Zometa treatment is not recommended in patients with bone metastases with severe renal impairment.
-In the clinical studies, patients with serum creatinine greater than 265 µmol/L or greater than 3.0 mg/dL were excluded and there were only 8 of 564 patients treated with Zometa 4 mg by 15-minute infusion with a baseline creatinine greater than 2 mg/dL.
+In the clinical studies, patients with serum creatinine greater than 265 micromole/L or greater than 3.0 mg/dL were excluded and there were only 8 of 564 patients treated with Zometa 4 mg by 15-minute infusion with a baseline creatinine greater than 2 mg/dL.
 Limited pharmacokinetic data exists in patients with creatinine clearance less than 30 mL/min [see Clinical Pharmacology (12.3)].
 
 ## 5.4 Osteonecrosis of the Jaw

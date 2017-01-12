@@ -22,7 +22,7 @@ Retreatment with Zometa 4 mg may be considered if serum calcium does not return 
 It is recommended that a minimum of 7 days elapse before retreatment, to allow for full response to the initial dose.
 Renal function must be carefully monitored in all patients receiving Zometa and serum creatinine must be assessed prior to retreatment with Zometa [see Warnings and Precautions (5.2)].
 
-## 2.2 Multiple Myeloma and Metastatic Bone Lesions of Solid Tumors
+## 2.2 Multiple Myeloma and Bone Metastases of Solid Tumors
 
 The recommended dose of Zometa in patients with multiple myeloma and metastatic bone lesions from solid tumors for patients with creatinine clearance (CrCl) greater than 60 mL/min is 4 mg infused over no less than 15 minutes every 3 to 4 weeks.
 The optimal duration of therapy is not known.
@@ -33,12 +33,12 @@ CrCl is calculated using the Cockcroft-Gault formula [see Warnings and Precautio
 
 Table 1: Reduced Doses for Patients with Baseline CrCl Less than or Equal to 60 mL/min
 
-| Baseline Creatinine Clearance (mL/min) | Zometa Recommended Dose* |
+| Baseline Creatinine Clearance (mL/min) | Zometa Recommended Dose (mg)* |
 | --- | --- |
-| greater than 60 | 4 mg |
-| 50-60 | 3.5 mg |
-| 40-49 | 3.3 mg |
-| 30-39 | 3 mg |
+| greater than 60 | 4 |
+| 50-60 | 3.5 |
+| 40-49 | 3.3 |
+| 30-39 | 3 |
 | *Doses calculated assuming target AUC of 0.66(mg•hr/L) (CrCl=75 mL/min) |  |
 
 During treatment, serum creatinine should be measured before each Zometa dose and treatment should be withheld for renal deterioration.
