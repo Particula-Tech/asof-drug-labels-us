@@ -1,6 +1,6 @@
-# 13 NONCLINICAL TOXICOLOGY
+# 13NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis In a 26-week carcinogenicity study in the Tg.rasH2 transgenic mouse, dextromethorphan and quinidine, alone and in combination, at oral doses up to 100/100 mg/kg/day did not show any evidence of carcinogenic potential.
 

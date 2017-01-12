@@ -1,4 +1,4 @@
-# 11 DESCRIPTION
+# 11DESCRIPTION
 
 NUEDEXTA is an oral formulation of dextromethorphan hydrobromide USP and quinidine sulfate USP in a fixed dose combination.
 

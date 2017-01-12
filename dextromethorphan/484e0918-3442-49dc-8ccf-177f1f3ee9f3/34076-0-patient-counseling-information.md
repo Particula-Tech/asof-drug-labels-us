@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Hypersensitivity Patients should be advised a hypersensitivity reaction to NUEDEXTA could occur.
 Patients should be instructed to seek medical attention immediately if they experience symptoms indicative of hypersensitivity after taking NUEDEXTA [see Contraindications (4.2), Warnings and Precautions (5.1)].
@@ -9,7 +9,8 @@ Patients should be counseled to inform their healthcare provider if they have an
 Dizziness Patients should be advised that NUEDEXTA may cause dizziness.
 Precautions to reduce the risk of falls should be taken, particularly for patients with motor impairment affecting gait or a history of falls [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
 
-Drug Interactions Inform patients that NUEDEXTA increases the risk of adverse drug interactions, Instruct patients to inform their healthcare provider about all the medications that they are taking before taking NUEDEXTA.
+Drug Interactions Inform patients that NUEDEXTA increases the risk of adverse drug interactions.
+Instruct patients to inform their healthcare provider about all the medications that they are taking before taking NUEDEXTA.
 Before taking any new medications, patients should tell their healthcare provider that they are taking NUEDEXTA [see Drug Interactions (7)].
 
 Dosing Instructions Instruct patients to take NUEDEXTA exactly as prescribed.
@@ -21,9 +22,18 @@ Advise patients to contact their healthcare provider if their PBA symptoms persi
 
 Advise patients to keep this and all medications out of reach of children and pets.
 
-Marketed by: Avanir Pharmaceuticals, Inc. Aliso Viejo, CA 92656 1-855-4NUEDEX (468-3339) Revised January 2015
+Marketed by: Avanir Pharmaceuticals, Inc. Aliso Viejo, CA 92656
 
-Part No. 2000006926
+1-949-389-6700
 
-AVANIR and NUEDEXTA are trademarks or registered trademarks of Avanir Pharmaceuticals, Inc. in the United States and other countries.
-U.S. Patent Nos.: 8,227,484 and 7,659,282 ©2010-2015 Avanir Pharmaceuticals, Inc. All rights reserved.
+Revised January 2016
+
+Part No. 2000007715
+
+AVANIR and NUEDEXTA are trademarks or registered trademarks of
+
+Avanir Pharmaceuticals, Inc. in the United States and other countries.
+
+U.S. Patent Nos.: 8,227,484 and 7,659,282
+
+©2010-2016 Avanir Pharmaceuticals, Inc. All rights reserved.
