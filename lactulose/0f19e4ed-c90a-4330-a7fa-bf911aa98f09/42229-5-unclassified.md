@@ -1,5 +1,7 @@
+I057700 R06/16
+
 Rx ONLY
 
-Pharmaceutical Associates, Inc. Greenville, SC 29605
+pai Pharmaceutical Associates, Inc. Greenville, SC 29605
 
-R01/04
+R06/16

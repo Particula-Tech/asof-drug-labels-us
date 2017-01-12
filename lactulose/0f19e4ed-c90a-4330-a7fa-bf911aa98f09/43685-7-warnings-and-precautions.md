@@ -1,15 +1,15 @@
 # WARNINGS
 
 A theoretical hazard may exist for patients being treated with lactulose solution who may be required to undergo electrocautery procedures during proctoscopy or colonoscopy.
-Accumulation of H2 gas in significant concentration in the presence of an electrical spark may result in an explosive reaction.
+Accumulation of H 2 gas in significant concentration in the presence of an electrical spark may result in an explosive reaction.
 Although this complication has not been reported with lactulose, patients on lactulose therapy undergoing such procedures should have a thorough bowel cleansing with a non-fermentable solution.
-Insufflation of CO2 as an additional safeguard may be pursued but is considered to be a redundant measure.
+Insufflation of CO 2 as an additional safeguard may be pursued but is considered to be a redundant measure.
 
 # PRECAUTIONS
 
 ## General
 
-Since lactulose solution contains galactose (less than 1.6 g/15 mL) and lactose (less than 1.2 g/15 mL), it should be used with caution in diabetics.
+Since lactulose solution contains galactose (less than1.6 g/15 mL) and lactose (less than 1.2 g/15 mL), it should be used with caution in diabetics.
 
 ## Information for Patients
 

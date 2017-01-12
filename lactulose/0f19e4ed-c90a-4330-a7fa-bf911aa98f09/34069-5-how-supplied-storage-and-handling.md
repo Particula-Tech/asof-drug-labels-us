@@ -1,6 +1,11 @@
 # HOW SUPPLIED
 
-NDC 0121-0577-08 Bottles of 8 fl oz (237 mL) NDC 0121-0577-16 Bottles of 16 fl oz (473 mL) NDC 0121-0577-32 Bottles of 32 fl oz (946 mL) NDC 0121-4577-15 15 mL unit dose cups in trays of 10 cups NDC 0121-4577-30 30 mL unit dose cups in trays of 10 cups
+NDC 0121-0577-08: 8 fl oz (237 mL) bottles NDC 0121-0577-16: 16 fl oz (473 mL) bottles NDC 0121-0577-32: 32 fl oz (946 mL) bottle
+
+NDC 0121-4577-15: 15 mL unit dose cup NDC 0121-4577-40: Case contains 40 unit dose cups of 15 mL (0121-4577-15) packaged in 4 trays of 10 unit dose cups each.
+
+NDC 0121-1154-30: 30 mL unit dose cup NDC 0121-1154-40: Case contains 40 unit dose cups of 30 mL (0121-1154-30) packaged in 4 trays of 10 unit dose cups each.
+NDC 0121-1154-00: Case contains 100 unit dose cups of 30 mL (0121-1154-30) packaged in 10 trays of 10 unit dose cups each.
 
 Lactulose solution contains lactulose 667 mg/mL (10 g/15 mL).
 
