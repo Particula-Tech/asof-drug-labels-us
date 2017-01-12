@@ -2,9 +2,9 @@
 
 The volume and concentration of OMNIPAQUE 300 to be administered will depend on the degree and extent of contrast required in the area(s) under examination and on the equipment and technique employed.
 
-OMNIPAQUE 300 at a concentration of 300 mgI/mL is recommended for the examination of the lumbar, thoracic, and cervical regions in adults by lumbar or direct cervical injection and is slightly hypertonic to CSF.
+OMNIPAQUE 300 at a concentration of 300 mg Iodine/mL is recommended for the examination of the lumbar, thoracic, and cervical regions in adults by lumbar or direct cervical injection and is slightly hypertonic to CSF.
 
-A total dose of 3060 mg iodine or a concentration of 300 mgI/mL should not be exceeded in adults in a single myelographic examination.
+A total dose of 3060 mg iodine or a concentration of 300 mg Iodine/mL should not be exceeded in adults in a single myelographic examination.
 This is based on clinical trial evaluation to date.
 As in all diagnostic procedures, the minimum volume and dose to produce adequate visualization should be used.
 Most procedures do not require either maximum dose or concentration.
@@ -12,9 +12,7 @@ Most procedures do not require either maximum dose or concentration.
 Anesthesia is not necessary.
 Premedication sedatives or tranquilizers are usually not needed (see PRECAUTIONS).
 Patients should be well hydrated prior to and following contrast administration.
-
 Seizure-prone patients should be maintained on anticonvulsant medication.
-
 Many radiopaque contrast agents are incompatible in vitro with some antihistamines and many other drugs; therefore, concurrent drugs should not be physically admixed with contrast agents.
 
 ## Rate of Injection
@@ -27,14 +25,14 @@ The lumbar or cervical puncture needle may be removed immediately following inje
 
 ### Adults
 
-The usual recommended total doses for use in lumbar, thoracic, cervical, and total columnar myelography in adults are 1.2 gI to 3.0 gI as follows:
+The usual recommended total doses for use in lumbar, thoracic, cervical, and total columnar myelography in adults are 1.2 g Iodine to 3 g Iodine as follows:
 
-| Procedure | Formulations | Concentration (mgI/mL) | Volume (mL) | Dose (gI) |
+| Procedure | Formulations | Concentration (mg Iodine/mL) | Volume (mL) | Dose (g Iodine) |
 | --- | --- | --- | --- | --- |
 | Thoracic Myelography (via lumbar injection) | OMNIPAQUE 300 | 300 | 6-10 | 1.8-3.0 |
 | Cervical Myelography (via lumbar injection) | OMNIPAQUE 300 | 300 | 6-10 | 1.8-3.0 |
-| Cervical Myelography (via C1-2 injection | OMNIPAQUE 300 | 300 | 4-10 | 1.2-3.0 |
-| Total Columnar Myelography (via lumbar injection | OMNIPAQUE 300 | 300 | 6-10 | 1.8-3.0 |
+| Cervical Myelography (via C1-2 injection) | OMNIPAQUE 300 | 300 | 4-10 | 1.2-3.0 |
+| Total Columnar Myelography (via lumbar injection) | OMNIPAQUE 300 | 300 | 6-10 | 1.8-3.0 |
 
 Refer to DIRECTIONS FOR PROPER USE OF OMNIPAQUE PHARMACY BULK PACKAGE section for instructions.
 

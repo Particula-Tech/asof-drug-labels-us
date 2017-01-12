@@ -1,35 +1,31 @@
-# PRINCIPAL DISPLAY PANEL - 300 mgI/mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 300 mg Iodine/mL Bottle Label
 
 NDC 0407-1413-68 500 mL
 
 OMNIPAQUE™ (iohexol) Injection
 
-300 mgI/mL
+300 mg Iodine/mL
 
 PHARMACY BULK PACKAGE Not for Direct Infusion
 
-in +PLUSPAK™ (polymer bottle)
+For Injection or Oral Use
 
-Multi-Dose Bottle.
-Sterile Aqueous Solution For Injection or Oral Use.
+Sterile Aqueous Solution Not for Intrathecal Use
 
 DO NOT USE IF TAMPER-EVIDENT RING IS BROKEN OR MISSING
 
-# PRINCIPAL DISPLAY PANEL - 350 mgI/mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 350 mg Iodine/mL Bottle Label
 
 NDC 0407-1414-98 500 mL
 
 OMNIPAQUE™ (iohexol) Injection
 
-350 mgI/mL
+350 mg Iodine/mL
 
 PHARMACY BULK PACKAGE Not for Direct Infusion
 
-NOT FOR INTRATHECAL USE
+For Injection or Oral Use
 
-in +PLUSPAK™ (polymer bottle)
-
-Multi-Dose Bottle.
-Sterile Aqueous Solution For Injection or Oral Use.
+Sterile Aqueous Solution Not for Intrathecal Use
 
 DO NOT USE IF TAMPER-EVIDENT RING IS BROKEN OR MISSING
