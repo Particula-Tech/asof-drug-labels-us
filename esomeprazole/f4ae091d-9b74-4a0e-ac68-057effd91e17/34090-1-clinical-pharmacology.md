@@ -49,7 +49,7 @@ Omeprazole given in oral doses of 30 or 40 mg for 2 to 4 weeks had no effect on 
 
 Absorption Esomeprazole magnesium delayed-release capsules contain a bioequivalent enteric-coated granule formulation of esomeprazole magnesium.
 Bioequivalency is based on a single dose (40 mg) study in 94 healthy male and female volunteers under fasting condition.
-After oral administration peak plasma levels (Cmax) occur at approximately 1.5 hours (Tmax).
+After oral administration, peak plasma levels (Cmax) occur at approximately 1.5 hours (Tmax).
 The Cmax increases proportionally when the dose is increased, and there is a three-fold increase in the area under the plasma concentration-time curve (AUC) from 20 to 40 mg.
 At repeated once-daily dosing with 40 mg, the systemic bioavailability is approximately 90% compared to 64% after a single dose of 40 mg.
 The mean exposure (AUC) to esomeprazole increases from 4.32 µmol*hr/L on Day 1 to 11.2 µmol*hr/L on Day 5 after 40 mg once daily dosing.
@@ -72,7 +72,7 @@ Values represent the geometric mean, except the Tmax, which is the arithmetic me
 
 Distribution Esomeprazole is 97% bound to plasma proteins.
 Plasma protein binding is constant over the concentration range of 2 to 20 µmol/L.
-The apparent volume of distribution at steady state in healthy volunteers is approximately 16 L. Metabolism Esomeprazole is extensively metabolized in the liver by the cytochrome P450 (CYP) enzyme system.
+The apparent volume of distribution at steady state in healthy volunteers is approximately 16 L. Elimination Metabolism Esomeprazole is extensively metabolized in the liver by the cytochrome P450 (CYP) enzyme system.
 The metabolites of esomeprazole lack antisecretory activity.
 The major part of esomeprazole’s metabolism is dependent upon the CYP2C19 isoenzyme, which forms the hydroxy and desmethyl metabolites.
 The remaining amount is dependent on CYP3A4 which forms the sulphone metabolite.
@@ -82,7 +82,7 @@ Following administration of equimolar doses, the S- and R-isomers are metabolize
 Excretion The plasma elimination half-life of esomeprazole is approximately 1 to 1.5 hours.
 Less than 1% of parent drug is excreted in the urine.
 Approximately 80% of an oral dose of esomeprazole is excreted as inactive metabolites in the urine, and the remainder is found as inactive metabolites in the feces.
-Pharmacokinetics: Combination Therapy with Antimicrobials Esomeprazole magnesium 40 mg once daily was given in combination with clarithromycin 500 mg twice daily and amoxicillin 1000 mg twice daily for 7 days to 17 healthy male and female subjects.
+Combination Therapy with Antimicrobials Esomeprazole magnesium 40 mg once daily was given in combination with clarithromycin 500 mg twice daily and amoxicillin 1000 mg twice daily for 7 days to 17 healthy male and female subjects.
 The mean steady state AUC and Cmax of esomeprazole increased by 70% and 18%, respectively during triple combination therapy compared to treatment with esomeprazole alone.
 The observed increase in esomeprazole exposure during co-administration with clarithromycin and amoxicillin is not expected to produce significant safety concerns.
 The pharmacokinetic parameters for clarithromycin and amoxicillin were similar during triple combination therapy and administration of each drug alone.
@@ -92,9 +92,9 @@ Concomitant Use with Clopidogrel Results from a crossover study in healthy subje
 Exposure to the active metabolite of clopidogrel was reduced by 35% to 40% over this time period.
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite.
 Concomitant Use with Mycophenolate Mofetil Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
-Special Populations Geriatric The AUC and Cmax values were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
+Specific Populations Age: Geriatric Population The AUC and Cmax values were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
 Dosage adjustment based on age is not necessary.
-1 to 11 Years of Age The pharmacokinetics of esomeprazole were studied in pediatric patients with GERD aged 1 to 11 years.
+Age: Pediatric Population 1 to 11 Years of Age The pharmacokinetics of esomeprazole were studied in pediatric patients with GERD aged 1 to 11 years.
 Following once daily dosing for 5 days, the total exposure (AUC) for the 10 mg dose in patients aged 6 to 11 years was similar to that seen with the 20 mg dose in adults and adolescents aged 12 to 17 years.
 The total exposure for the 10 mg dose in patients aged 1 to 5 years was approximately 30% higher than the 10 mg dose in patients aged 6 to 11 years.
 The total exposure for the 20 mg dose in patients aged 6 to 11 years was higher than that observed with the 20 mg dose in 12 to 17 year-olds and adults, but lower than that observed with the 40 mg dose in 12 to 17 year-olds and adults.
@@ -140,10 +140,10 @@ Data were obtained from two independent studies.
 
 Gender The AUC and Cmax values were slightly higher (13%) in females than in males at steady state.
 Dosage adjustment based on gender is not necessary.
-Hepatic Insufficiency The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child Pugh A), moderate (Child Pugh Class B), and severe (Child Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
+Hepatic Insufficiency The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child-Pugh Class A), moderate (Child-Pugh Class B), and severe (Child-Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
 In patients with mild and moderate hepatic insufficiency, the AUCs were within the range that could be expected in patients with normal liver function.
 In patients with severe hepatic insufficiency the AUCs were 2 to 3 times higher than in the patients with normal liver function.
-No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2)].
+No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child-Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child-Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2)].
 Renal Insufficiency The pharmacokinetics of esomeprazole magnesium delayed-release capsules in patients with renal impairment are not expected to be altered relative to healthy volunteers as less than 1% of esomeprazole is excreted unchanged in urine.
 Other Pharmacokinetic Observations Co-administration of oral contraceptives, diazepam, phenytoin, or quinidine did not seem to change the pharmacokinetic profile of esomeprazole.
 Studies evaluating concomitant administration of esomeprazole and either naproxen (non-selective NSAID) or rofecoxib (COX-2 selective NSAID) did not identify any clinically relevant changes in the pharmacokinetic profiles of esomeprazole or these NSAIDs.
@@ -175,10 +175,10 @@ Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC = 0.5 mcg/mL, Resistan
 Patients not eradicated of H. pylori following esomeprazole magnesium delayed-release capsules/amoxicillin/clarithromycin triple therapy will likely have clarithromycin resistant H. pylori isolates.
 Therefore, clarithromycin susceptibility testing should be done, when possible.
 Patients with clarithromycin resistant H. pylori should not be re-treated with a clarithromycin-containing regimen.
-Aoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes: In the esomeprazole magnesium delayed-release capsules/amoxicillin/clarithromycin clinical trials, 83% (176/212) of the patients in the esomeprazole magnesium delayed-release capsules/amoxicillin/clarithromycin treatment group who had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori, and 17% (36/212) were not eradicated of H. pylori.
+Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes: In the esomeprazole magnesium delayed-release capsules/amoxicillin/clarithromycin clinical trials, 83% (176/212) of the patients in the esomeprazole magnesium delayed-release capsules/amoxicillin/clarithromycin treatment group who had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori, and 17% (36/212) were not eradicated of H. pylori.
 Of the 36 patients who were not eradicated of H. pylori on triple therapy, 16 had no post-treatment susceptibility test results and 20 had post-treatment H. pylori isolates with amoxicillin susceptible MICs.
 Fifteen of the patients who were not eradicated of H. pylori on triple therapy also had post-treatment H. pylori isolates with clarithromycin resistant MICs.
 There were no patients with H. pylori isolates who developed treatment emergent resistance to amoxicillin.
-Susceptibility Test for Helicobacter pylori:For susceptibility testing information about Helicobacter pylori,see Microbiology section in prescribing information for clarithromycin and amoxicillin.
-Effects on Gastrointestinal Microbial Ecology:Decreased gastric acidity due to any means, including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
+Susceptibility Test for Helicobacter pylori:For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
+Effects on Gastrointestinal Microbial Ecology: Decreased gastric acidity due to any means, including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
 Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and possibly Clostridium difficile in hospitalized patients.

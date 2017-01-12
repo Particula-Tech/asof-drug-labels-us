@@ -29,7 +29,7 @@ Table 1: Recommended Dosage Schedule for Esomeprazole Magnesium Delayed-Release 
 | Esomeprazole Magnesium Delayed-Release Capsules | 40 mg | Once Daily for 10 Days |
 | Amoxicillin | 1000 mg | Twice Daily for 10 Days |
 | Clarithromycin | 500 mg | Twice Daily for 10 Days |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 40 mg5 | Twice Daily6 |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 40 mg6 | Twice Daily7 |
 
 1.[See Clinical Studies (14.1).]
 The majority of patients are healed within 4 to 8 weeks.
@@ -44,16 +44,16 @@ If symptoms do not resolve completely after 4 weeks, an additional 4 weeks of tr
 4.
 Doses over 1 mg/kg/day have not been studied.
 
-5.
+6.
 The dosage of esomeprazole magnesium delayed-release capsules in patients with pathological hypersecretory conditions varies with the individual patient.
 Dosage regimens should be adjusted to individual patient needs.
 
-6.
+7.
 Doses up to 240 mg daily have been administered [see Drug Interactions (7)].
 
 Please refer to amoxicillin and clarithromycin prescribing information for Contraindications, Warnings, and dosing in elderly and renally-impaired patients.
-Special Populations Hepatic Insufficiency In patients with mild to moderate liver impairment (Child Pugh Classes A and B), no dosage adjustment is necessary.
-For patients with severe liver impairment (Child Pugh Class C), a dose of 20 mg of esomeprazole magnesium delayed-release capsules should not be exceeded [see Clinical Pharmacology (12.3)].
+Specific Populations Hepatic Insufficiency In patients with mild to moderate liver impairment (Child-Pugh Classes A and B), no dosage adjustment is necessary.
+For patients with severe liver impairment (Child-Pugh Class C), a dose of 20 mg of esomeprazole magnesium delayed-release capsules should not be exceeded [see Clinical Pharmacology (12.3)].
 Directions for use specific to the route and available methods of administration for each of these dosage forms are presented in Table 2.
 
 Table 2: Administration Options

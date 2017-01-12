@@ -18,7 +18,7 @@ Published observational studies suggest that PPI therapy like esomeprazole magne
 This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents.
-For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with esomeprazole magnesium delayed-release capsules, refer to WARNINGS and PRECAUTIONS sections of those package inserts.
+For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with esomeprazole magnesium delayed-release capsules, refer to Warnings and Precautions section of the corresponding prescribing information.
 
 ## 5.4 Bone Fracture
 
@@ -41,8 +41,7 @@ The majority of patients presented with rash; however, arthralgia and cytopenia 
 Avoid administration of PPIs for longer than medically indicated.
 If signs or symptoms consistent with CLE or SLE are noted in patients receiving esomeprazole magnesium delayed-release capsules, discontinue the drug and refer the patient to the appropriate specialist for evaluation.
 Most patients improve with discontinuation of the PPI alone in 4 to 12 weeks.
-Serological testing (e.g.
-ANA) may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
+Serological testing (e.g., ANA) may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
 
 ## 5.6 Interaction with Clopidogrel
 
@@ -66,7 +65,7 @@ Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
 
-## 5.9 Concomitant Use of Esomeprazole Magnesium Delayed-Release Capsules with St. John's Wort or Rifampin
+## 5.9 Interaction with St. John's Wort or Rifampin
 
 Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s Wort or rifampin) can substantially decrease esomeprazole concentrations [see Drug Interactions (7.3)].
 Avoid concomitant use of esomeprazole magnesium delayed-release capsules with St. John’s Wort or rifampin.
@@ -78,7 +77,7 @@ The increased CgA level may cause false positive results in diagnostic investiga
 Healthcare providers should temporarily stop esomeprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
 If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Clinical Pharmacology (12.2)].
 
-## 5.11 Concomitant Use of Esomeprazole Magnesium Delayed-Release Capsules with Methotrexate
+## 5.11 Interaction with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
 In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.7)].

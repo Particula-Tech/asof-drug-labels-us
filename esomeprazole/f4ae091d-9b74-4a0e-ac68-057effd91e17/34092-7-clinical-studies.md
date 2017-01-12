@@ -101,7 +101,7 @@ See Table 11.
 No additional benefit was seen with esomeprazole magnesium delayed-release capsules 40 mg over esomeprazole magnesium delayed-release capsules 20 mg.
 These studies did not demonstrate significant reduction in the development of NSAID-associated duodenal ulcer due to the low incidence.
 
-Table 11: Cumulative percentage of patients without gastric ulcers at 26 weeks:
+Table 11: Cumulative Percentage of Patients without Gastric Ulcers at 26 Weeks:
 
 | Study | No. of Patients | Treatment Group | % of Patients Remaining Gastric Ulcer Free1 |
 | --- | --- | --- | --- |

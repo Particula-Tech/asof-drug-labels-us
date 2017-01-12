@@ -11,7 +11,7 @@ Increased gastric pH during omeprazole treatment may change the absorption of th
 Other possible interaction mechanisms are via CYP2C19.
 Reduced concentrations of atazanavir and nelfinavir For some antiretroviral drugs, such as atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole.
 Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg daily), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75% respectively for nelfinavir and M8.
-Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hr before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
+Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hours before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
 Concomitant administration with omeprazole and drugs such as atazanavir and nelfinavir is therefore not recommended.
 Increased concentrations of saquinavir For other antiretroviral drugs, such as saquinavir, elevated serum levels have been reported, with an increase in AUC by 82%, in Cmax by 75%, and in Cmin by 106%, following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
 Therefore, clinical and laboratory monitoring for saquinavir toxicity is recommended during concurrent use with esomeprazole magnesium delayed-release capsules.
@@ -36,7 +36,7 @@ Esomeprazole is extensively metabolized in the liver by CYP2C19 and CYP3A4.
 In vitro and in vivo studies have shown that esomeprazole is not likely to inhibit CYPs 1A2, 2A6, 2C9, 2D6, 2E1, and 3A4.
 No clinically relevant interactions with drugs metabolized by these CYP enzymes would be expected.
 Drug interaction studies have shown that esomeprazole does not have any clinically significant interactions with phenytoin, warfarin, quinidine, clarithromycin, or amoxicillin.
-However, post-marketing reports of changes in prothrombin measures have been received among patients on concomitant warfarin and esomeprazole therapy.
+However, postmarketing reports of changes in prothrombin measures have been received among patients on concomitant warfarin and esomeprazole therapy.
 Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
 Patients treated with proton pump inhibitors and warfarin concomitantly may need to be monitored for increases in INR and prothrombin time.
 Esomeprazole may potentially interfere with CYP2C19, the major esomeprazole metabolizing enzyme.
@@ -47,9 +47,9 @@ Avoid concomitant administration of esomeprazole magnesium delayed-release capsu
 When using esomeprazole magnesium delayed-release capsules, consider use of alternative anti-platelet therapy [see Pharmacokinetics (12.3)].
 Omeprazole acts as an inhibitor of CYP2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
-Cmax and AUC of one of its active metabolites, 3,4-dihydro-cilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69% respectively.
+Cmax and AUC of one of its active metabolites, 3,4-dihydro-cilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69%, respectively.
 Co-administration of cilostazol with esomeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
-Therefore a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
+Therefore, a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
 Concomitant administration of esomeprazole and a combined inhibitor of CYP2C19 and CYP3A4, such as voriconazole, may result in more than doubling of the esomeprazole exposure.
 Dose adjustment of esomeprazole is not normally required.
 However, in patients with Zollinger-Ellison’s Syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.

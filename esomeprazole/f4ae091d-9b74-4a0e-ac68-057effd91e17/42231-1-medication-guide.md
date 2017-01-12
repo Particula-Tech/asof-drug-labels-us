@@ -22,7 +22,7 @@ Esomeprazole magnesium delayed-release capsules can cause serious side effects, 
   Esomeprazole magnesium delayed-release capsules may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
 - Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
-- Bonefractures.
+- Bone fractures.
   People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
   You should take esomeprazole magnesium delayed-release capsules exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
   Talk to your doctor about your risk of bone fracture if you take esomeprazole magnesium delayed-release capsules.
@@ -72,7 +72,7 @@ Before you take esomeprazole magnesium delayed-release capsules, tell your docto
   Esomeprazole magnesium may pass into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take esomeprazole magnesium delayed-release capsules.
 
-Tell your doctor about all of the medicines you take,including prescription and non-prescription drugs, vitamins and herbal supplements.
+Tell your doctor about all of the medicines you take, including prescription and non-prescription drugs, vitamins and herbal supplements.
 Esomeprazole magnesium delayed-release capsules may affect how other medicines work, and other medicines may affect how esomeprazole magnesium delayed-release capsules work.
 
 Especially tell your doctor if you take:
@@ -219,4 +219,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
 
-Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 11/2016
+Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 01/2017
