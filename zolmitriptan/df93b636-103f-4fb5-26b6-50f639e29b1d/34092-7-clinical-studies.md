@@ -25,11 +25,11 @@ Table 2 Percentage of Patients with Headache Response (Reduction in Headache Sev
 
 |  | Placebo | ZOMIG tablets1mg | ZOMIGTablets2.5 mg | ZOMIGTablets5 mg |
 | --- | --- | --- | --- | --- |
-| Study 11 | 16%(n5=19) | 27%(n=22) | NA6 | 60%23(n=20) |
-| Study 2 | 19%(n=88) | NA | NA | 66%2(n=179) |
-| Study 3 | 34%(n=121) | 50%2(n=140) | 65%23(n=260) | 67%23(n=245) |
-| Study 44 | 44%(n=55) | NA | NA | 59%2(n=491) |
-| Study 5 | 36%(n=92) | NA | 62%2(n=178) | NA |
+| Study 1Study 1 was the only study in which patients treated the headache in a clinic setting. | 16%(nn = number of patients randomized=19) | 27%(n=22) | NANA = not applicable | 60%P<0.05 in comparison with placebo.P<0.05 in comparison with 1 mg.(n=20) |
+| Study 2 | 19%(n=88) | NA | NA | 66%(n=179) |
+| Study 3 | 34%(n=121) | 50%(n=140) | 65%(n=260) | 67%(n=245) |
+| Study 4Study 4 was the only study where patients were excluded who had previously used sumatriptan. | 44%(n=55) | NA | NA | 59%(n=491) |
+| Study 5 | 36%(n=92) | NA | 62%(n=178) | NA |
 
 The estimated probability of achieving an initial headache response by 4 hours following treatment in pooled Studies 2, 3, and 5 is depicted in Figure 1.
 
