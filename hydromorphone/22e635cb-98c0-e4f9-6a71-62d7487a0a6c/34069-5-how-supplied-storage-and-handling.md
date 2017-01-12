@@ -1,7 +1,5 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-How Supplied
-
 EXALGO Extended-Release Tablet Strengths
 
 | Strength | Color | Tablet Description | Bottle Count | NDC |
@@ -11,4 +9,4 @@ EXALGO Extended-Release Tablet Strengths
 | 16 mg | Yellow | Round, biconvex, printed with “EXH 16” | 100 | 23635-416-01 |
 | 32 mg | White | Round, biconvex, printed with “EXH 32” | 100 | 23635-432-01 |
 
-Store at 25ºC (77ºF); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].

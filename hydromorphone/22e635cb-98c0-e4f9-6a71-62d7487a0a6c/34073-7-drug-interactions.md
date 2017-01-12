@@ -1,24 +1,34 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 CNS Depressants
+Table 4 includes clinically significant drug interactions with EXALGO.
 
-The concomitant use of EXALGO with other CNS depressants including sedatives, hypnotics, tranquilizers, general anesthetics, phenothiazines, other opioids, and alcohol can increase the risk of respiratory depression, profound sedation, coma and death.
-Monitor patients receiving CNS depressants and EXALGO for signs of respiratory depression, sedation and hypotension.
+Table 4.
 
-When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
+Clinically Significant Drug Interactions with EXALGO
 
-## 7.2 Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
-
-Mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) and partial agonist (buprenorphine) analgesics may reduce the analgesic effect of EXALGO or precipitate withdrawal symptoms.
-Avoid the use of mixed agonist/antagonist and partial agonist analgesics in patients receiving EXALGO.
-
-## 7.3 Monoamine Oxidase Inhibitors (MAOI)
-
-The effects of opioid analgesics may be potentiated by MAOIs.
-EXALGO is not recommended for use in patients who have received MAOIs within 14 days.
-If concurrent therapy with an MAOI and EXALGO is unavoidable, monitor patients for increased respiratory and central nervous system depression.
-
-## 7.4 Anticholinergics
-
-Anticholinergics or other medications with anticholinergic activity when used concurrently with EXALGO may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
-Monitor patients for signs of urinary retention or reduced gastric motility when EXALGO is used concurrently with anticholinergic drugs.
+| Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
+| --- | --- |
+| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.4)]. |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Serotonergic Drugs |  |
+| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
+| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue EXALGO if serotonin syndrome is suspected. |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.4)]. |
+| Intervention: | The use of EXALGO is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
+| Examples: | phenelzine, tranylcypromine, linezolid |
+| Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
+| Clinical Impact: | May reduce the analgesic effect of EXALGO and/or precipitate withdrawal symptoms [see Warnings and Precautions (5.11)]. |
+| Intervention: | Avoid concomitant use. |
+| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
+| Muscle Relaxants |  |
+| Clinical Impact: | Hydromorphone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression [see Warnings and Precautions (5.4)]. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of EXALGO and/or the muscle relaxant as necessary. |
+| Diuretics |  |
+| Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
+| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
+| Anticholinergic Drugs |  |
+| Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
+| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when EXALGO is used concomitantly with anticholinergic drugs. |

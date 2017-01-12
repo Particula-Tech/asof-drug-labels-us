@@ -2,7 +2,7 @@
 
 EXALGO is indicated for the management of pain in opioid-tolerant patients severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate.
 
-Patients considered opioid tolerant are those who are receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl/hour, 30 mg oral oxycodone/day, 8 mg oral hydromorphone/day, 25 mg oral oxymorphone/day or an equianalgesic dose of another opioid.
+Patients considered opioid tolerant are those who are receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
 
 Limitations of Use
 

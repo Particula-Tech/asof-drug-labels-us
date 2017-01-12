@@ -3,12 +3,14 @@
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- Life Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- Interactions with Other CNS Depressants [see Warnings and Precautions (5.4)]
-- Hypotensive Effect [see Warnings and Precautions (5.7)]
-- Gastrointestinal Effects [see Warnings and Precautions (5.9)]
-- Seizures [see Warnings and Precautions (5.11)]
+- Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.4)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.6)]
+- Severe Hypotension [see Warnings and Precautions (5.7)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.9)]
+- Seizures [see Warnings and Precautions (5.10)]
+- Withdrawal [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -28,6 +30,7 @@ A total of 447 patients were enrolled into the open-label titration phase with 2
 The adverse reactions that were reported in at least 2% of the patients are contained in Table 2.
 
 Table 2.
+
 Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients with Moderate to Severe Low Back Pain During the Open-Label Titration Phase or Double-Blind Treatment Phase by Preferred Term
 
 | Preferred Term | Open-Label Titration Phase | Double-Blind Treatment Phase |  |
@@ -53,6 +56,7 @@ Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients wit
 The adverse reactions that were reported in at least 2% of the total treated patients (N=2,474) in the 14 chronic clinical trials are contained in Table 3.
 
 Table 3.
+
 Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients with Chronic Pain Receiving EXALGO in 14 Clinical Studies by Preferred Term
 
 | Preferred Term | All Patients (N=2,474) |
@@ -74,7 +78,7 @@ Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients wit
 | Abdominal Pain | 115 (5) |
 | Anxiety | 95 (4) |
 | Back Pain | 95 (4) |
-| DyspepsiaReflux esophagitis, gastroesophageal reflux disease and Barrett's esophagus were grouped and reported with dyspepsia | 88 (4) |
+| Dyspepsia* | 88 (4) |
 | Depression | 81 (3) |
 | Dyspnea | 76 (3) |
 | Muscle Spasms | 74 (3) |
@@ -86,6 +90,8 @@ Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients wit
 | Pyrexia | 52 (2) |
 | Fall | 51 (2) |
 | Chest pain | 51 (2) |
+
+* Reflux esophagitis, gastroesophageal reflux disease and Barrett’s esophagus were grouped and reported with dyspepsia
 
 The following Adverse Reactions occurred in patients with an overall frequency of < 2% and are listed in descending order within each System Organ Class:
 
@@ -127,8 +133,13 @@ Vascular disorders: flushing, hypertension, hypotension
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of EXALGO:
+The following adverse reactions have been identified during post approval use of hydromorphone.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders: hypersensitivity
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs [see Drug Interactions (7)].
 
-Skin and subcutaneous tissue disorders: angioedema, urticaria
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use [see Warnings and Precautions (5.6)].
+
+Anaphylaxis: Anaphylactic reaction has been reported with ingredients contained in EXALGO [see Contraindications (4) and Warnings and Precautions (5.12)].
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
