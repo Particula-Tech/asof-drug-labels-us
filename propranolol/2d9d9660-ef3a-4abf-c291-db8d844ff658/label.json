@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018553"
+  ],
   "inn": "propranolol",
-  "labeler": "Wyeth Pharmaceuticals, Inc.",
+  "labeler": "Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.",
   "package_ndcs": [
     "0046-0470-81",
     "0046-0471-81",
     "0046-0473-81",
     "0046-0479-81"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "propranolol hydrochloride",
+      "name": "Inderal LA"
+    }
+  ],
   "setid": "2d9d9660-ef3a-4abf-c291-db8d844ff658",
   "source": "dailymed"
 }

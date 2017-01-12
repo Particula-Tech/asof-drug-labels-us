@@ -22,7 +22,7 @@ Starting with 80 mg Inderal LA once daily, dosage should be gradually increased 
 Although individual patients may respond at any dosage level, the average optimal dosage appears to be 160 mg once daily.
 In angina pectoris, the value and safety of dosage exceeding 320 mg per day have not been established.
 
-If treatment is to be discontinued, reduce dosage gradually over a period of a few weeks (see “WARNINGS”).
+If treatment is to be discontinued, reduce dosage gradually over a period of a few weeks (see "WARNINGS").
 
 ## Migraine
 

@@ -86,7 +86,7 @@ Propranolol plasma clearance was also reduced in the patients with chronic renal
 Studies have reported a delayed absorption rate and a reduced half-life of propranolol in patients with renal failure of varying severity.
 Despite this shorter plasma half-life, propranolol peak plasma levels were 3-4 times higher and total plasma levels of metabolites were up to 3 times higher in these patients than in subjects with normal renal function.
 
-Chronic renal failure has been associated with a decrease in drug metabolism via down regulation of hepatic cytochrome P450 activity resulting in a lower “first-pass” clearance.
+Chronic renal failure has been associated with a decrease in drug metabolism via down regulation of hepatic cytochrome P450 activity resulting in a lower "first-pass" clearance.
 
 Propranolol is not significantly dialyzable.
 
@@ -105,7 +105,7 @@ There are no data on drug interactions with Inderal LA capsules.
 
 ### Interactions with Substrates, Inhibitors or Inducers of Cytochrome P-450 Enzymes
 
-Because propranolol’s metabolism involves multiple pathways in the Cytochrome P-450 system (CYP2D6, 1A2, 2C19), co-administration with drugs that are metabolized by, or affect the activity (induction or inhibition) of one or more of these pathways may lead to clinically relevant drug interactions (see Drug Interactions under PRECAUTIONS).
+Because propranolol's metabolism involves multiple pathways in the Cytochrome P-450 system (CYP2D6, 1A2, 2C19), co-administration with drugs that are metabolized by, or affect the activity (induction or inhibition) of one or more of these pathways may lead to clinically relevant drug interactions (see Drug Interactions under PRECAUTIONS).
 
 ### Substrates or Inhibitors of CYP2D6
 
@@ -173,7 +173,7 @@ Co-administration of chlorpromazine with propranolol resulted in a 70% increase 
 Co-administration of propranolol with cimetidine, a non-specific CYP450 inhibitor, increased propranolol AUC and Cmax by 46% and 35%, respectively.
 Co-administration with aluminum hydroxide gel (1200 mg) may result in a decrease in propranolol concentrations.
 
-Co-administration of metoclopramide with the long-acting propranolol did not have a significant effect on propranolol’s pharmacokinetics.
+Co-administration of metoclopramide with the long-acting propranolol did not have a significant effect on propranolol's pharmacokinetics.
 
 #### Lipid Lowering Drugs
 
