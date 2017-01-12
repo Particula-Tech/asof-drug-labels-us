@@ -18,8 +18,6 @@ Manufactured by: AstraZeneca UK Limited, Macclesfield, Cheshire UK
 
 Distributed by: Impax Specialty Pharma,
 
-A division of Impax Laboratories, Inc.
-
 Hayward California, 94544
 
 Product of Switzerland
@@ -43,8 +41,6 @@ IMPAX
 Manufactured by: AstraZeneca UK Limited, Macclesfield, Cheshire UK
 
 Distributed by: Impax Specialty Pharma
-
-A division of Impax Laboratories, Inc.,
 
 Hayward California, 94544
 

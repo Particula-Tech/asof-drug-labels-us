@@ -248,10 +248,10 @@ The makers of these brands are not affiliated with AstraZeneca or its products.
 
 ©AstraZeneca 2013
 
-Revised: 06/2015
+Revised: 11/2016
 
 Distributed by:
 
-Impax Specialty Pharma, a division of Impax Laboratories, Inc.
+Impax Specialty Pharma
 
 Hayward, CA 94544
