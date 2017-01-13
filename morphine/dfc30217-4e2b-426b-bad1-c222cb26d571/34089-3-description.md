@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-MORPHABOND (morphine sulfate) extended-release tablets are for oral use and contain morphine sulfate, an opioid agonist.
+MORPHABOND ER (morphine sulfate) extended-release tablets are for oral use and contain morphine sulfate, an opioid agonist.
 
 Each tablet contains the following inactive ingredients common to all strengths: hypromellose, xanthan gum, microcrystalline cellulose, sodium alginate, alginic acid, mannitol, colloidal silicon dioxide, magnesium stearate, ethyl acrylate and methyl methacrylate copolymer dispersion, lactose monohydrate, polysorbate 80, titanium dioxide, polyethylene glycol, shellac in ethanol, isopropyl alcohol, iron oxide black, n-butyl alcohol, propylene glycol, and ammonium hydroxide.
 

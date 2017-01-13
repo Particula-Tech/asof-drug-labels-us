@@ -1,21 +1,22 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described elsewhere in the labeling:
+The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-- •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- •Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- •Interactions with Other CNS Depressants [see Warnings and Precautions (5.4)]
-- •Severe Hypotension [see Warnings and Precautions (5.7)]
-- •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.9)]
-- •Seizures [see Warnings and Precautions (5.10)]
-- •Withdrawal [see Warnings and Precautions (5.11)]
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
+- Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.4)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
+- Severe Hypotension [see Warnings and Precautions (5.8)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10)]
+- Seizures [see Warnings and Precautions (5.11)]
+- Withdrawal [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-MORPHABOND may increase the risk of serious adverse reactions such as those observed with other opioid analgesics, including respiratory depression, apnea, respiratory arrest, circulatory depression, hypotension, or shock [see Overdosage (10)].
+MORPHABOND ER may increase the risk of serious adverse reactions such as those observed with other opioid analgesics, including respiratory depression, apnea, respiratory arrest, circulatory depression, hypotension, or shock [see Overdosage (10)].
 
 Most Frequently Observed Reactions
 
@@ -53,9 +54,17 @@ Skin and subcutaneous tissue disorders: pruritus, urticaria, rash
 
 Vascular disorders: flushing, hypotension, hypertension
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of morphine sulfate extended-release: amenorrhea, asthenia, bronchospasm, confusional state, drug hypersensitivity, fatigue, hyperalgesia, hypertonia, ileus, increased hepatic enzymes, intestinal obstruction, lethargy, malaise, pulmonary edema, thinking disturbances, somnolence, and vertigo.
+The following adverse reactions have been identified during post-approval use of morphine sulfate.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Anaphylaxis has been reported with ingredients contained in morphine sulfate extended-release.
-Advise patients how to recognize such a reaction and when to seek medical attention.
+amenorrhea, asthenia, bronchospasm, confusional state, drug hypersensitivity, fatigue, hyperalgesia, hypertonia, ileus, increased hepatic enzymes, intestinal obstruction, lethargy, malaise, pulmonary edema, thinking disturbances, somnolence, and vertigo.
+
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in MORPHABOND ER.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
