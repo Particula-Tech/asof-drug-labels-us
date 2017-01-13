@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021748"
+  ],
+  "inn": "metformin",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-018-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "metformin hydrochloride",
+      "name": "Metformin hydrochloride"
+    }
+  ],
+  "setid": "74d32a8a-c4c2-4dbb-b376-eea3f8fa64d7",
+  "source": "dailymed"
+}

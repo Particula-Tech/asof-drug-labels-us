@@ -1,0 +1,44 @@
+# 6 ADVERSE REACTIONS
+
+## 6.1 Clinical Trials Experience
+
+The following adverse reactions are discussed in more detail in other sections of the labeling:
+
+- • Lactic acidosis [see Warnings and Precautions (5.1)]
+- • Vitamin B12 Levels [see Warnings and Precautions (5.2)]
+- • Hypoglycemia [see Warnings and Precautions (5.3)]
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+In clinical trials conducted in the U.S., over 1000 patients with type 2 diabetes mellitus have been treated with Metformin hydrochloride extended-release tablets 1500–2000 mg/day in active-controlled and placebo-controlled studies with the 500 mg dosage form.
+
+In the 24-week monotherapy trial comparing Metformin hydrochloride extended-release tablets to immediate-release metformin, serious adverse reactions were reported in 3.6% (19/528) of the Metformin hydrochloride extended-release tablets -treated patients compared to 2.9% (5/174) of the patients treated with immediate-release metformin.
+In the add-on to sulfonylurea study, patients receiving background glyburide therapy were randomized to receive add-on treatment of either one of three different regimens of Metformin hydrochloride extended-release tablets or placebo.
+In total, 431 patients received Metformin hydrochloride extended-release tablets and glyburide and 144 patients received placebo and glyburide.
+A serious adverse reaction was reported in 2.1% (9/431) of the Metformin hydrochloride extended-release tablets and glyburide-treated patients compared to 1.4% (2/144) of the placebo and glyburide-treated patients.
+When the data from the monotherapy and add-on to sulfonylurea clinical trials were combined, the most frequently (incidence ≥ 0.5 %) reported serious adverse reactions classified by system organ class were gastrointestinal disorders (1.0% of Metformin hydrochloride extended-release tablets -treated patients compared to 0% of patients not treated with Metformin hydrochloride extended-release tablets) and cardiac disorders (0.4% of Metformin hydrochloride extended-release tablets -treated patients compared to 0.5% of patients not treated with Metformin hydrochloride extended-release tablets).
+Only 2 serious adverse reactions (unstable angina [n=2] and pancreatitis [n=2]) were reported in more than one Metformin hydrochloride extended-release tablets -treated patient.
+
+Adverse reactions reported in greater than 5% of patients treated with Metformin hydrochloride extended-release tablets that were more common in the combined Metformin hydrochloride extended-release tablets and glyburide group than in the placebo and glyburide group are shown in Table 1.
+
+In 0.7% of patients treated with Metformin hydrochloride extended-release tablets and glyburide, diarrhea was responsible for discontinuation of study medication compared to no patients in the placebo and glyburide group.
+
+Table 1: Treatment-Emergent Adverse Reactions Reported By >5%ARs that were more common in the Metformin hydrochloride extended-release tablets -treated than in the placebo-treated patients. of Patients for the Combined Metformin Hydrochloride Extended-Release Tablets Groups Versus Placebo Group
+
+| Adverse Reaction | Metformin Hydrochloride Extended-Release Tablets + Glyburide (n=431) | Placebo + Glyburide (n=144) |
+| --- | --- | --- |
+| Hypoglycemia | 13.7% | 4.9% |
+| Diarrhea | 12.5% | 5.6% |
+| Nausea | 6.7% | 4.2% |
+
+Laboratory Tests Vitamin B12 Concentrations
+
+Metformin may lower serum vitamin B12 concentrations.
+Measurement of hematologic parameters on an annual basis is advised in patients on Metformin hydrochloride extended-release tablets and any apparent abnormalities should be appropriately investigated and managed.
+[See Warnings and Precautions (5.2)]
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Cholestatic, hepatocellular, and mixed hepatocellular liver injury.
