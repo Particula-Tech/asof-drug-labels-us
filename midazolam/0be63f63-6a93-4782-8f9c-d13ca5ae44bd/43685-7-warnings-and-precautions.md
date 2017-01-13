@@ -60,6 +60,18 @@ Usage in Preterm Infants and Neonates:
 
 Midazolam HCl syrup has not been studied in patients less than 6 months of age.
 
+Pediatric Neurotoxicity:
+
+Published animal studies demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity increase neuronal apoptosis in the developing brain and result in long-term cognitive deficits when used for longer than 3 hours.
+The clinical significance of these findings is not clear.
+However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (See Precautions/ Pregnancy and Pediatric Use, and Animal Pharmacology and/or Toxicology).
+
+Some published studies in children suggest that similar deficits may occur after repeated or prolonged exposures to anesthetic agents early in life and may result in adverse cognitive or behavioral effects.
+These studies have substantial limitations, and it is not clear if the observed effects are due to the anesthetic/sedation drug administration or other factors such as the surgery or underlying illness.
+
+Anesthetic and sedation drugs are a necessary part of the care of children and pregnant women needing surgery, other procedures, or tests that cannot be delayed, and no specific medications have been shown to be safer than any other.
+Decisions regarding the timing of any elective procedures requiring anesthesia should take into consideration the benefits of the procedure weighed against the potential risks.
+
 # PRECAUTIONS:
 
 Use With Other CNC Depressants:
@@ -88,6 +100,11 @@ To assure safe and effective use of midazolam HCl syrup, the following informati
    The decision as to when patients who have received midazolam HCl syrup, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
 5. 5.Midazolam HCl syrup should not be taken in conjunction with grapefruit juice.
 6. 6.For pediatric patients, particular care should be taken to assure safe ambulation.
+7. 7.Effect of anesthetic and sedation drugs on early brain development
+8. Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
+   Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
+9. Because some animal data suggest that the window of vulnerability includes the 3rd trimester of pregnancy, discuss with pregnant women the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
+   (See Warnings/ Pediatric Neurotoxicity).
 
 ## Drug Interactions:
 
@@ -154,12 +171,20 @@ A reproduction study in male and female rats did not show any impairment of fert
 
 #### Pregnancy Category D (see WARNINGS).
 
-Embryo-fetal development studies, performed with midazolam maleate in mice (at up to 120 mg/kg/day PO, 10 times the human dose of 1 mg/kg on a mg/m2 basis), rats (at up to 4 mg/kg/day IV, 8 times the human IV does of 5 mg) and rabbits (at up to 100 mg/kg/day PO, 32 times the human oral dose of 1 mg/kg on a mg/m2 basis), did not show evidence of teratogenicity.
+Embryo-fetal development studies, performed with midazolam maleate in mice (at up to 120 mg/kg/day PO, 10 times the human dose of 1 mg/kg on a mg/m2 basis), rats (at up to 4 mg/kg/day IV, 8 times the human IV dose of 5 mg) and rabbits (at up to 100 mg/kg/day PO, 32 times the human oral dose of 1 mg/kg on a mg/m2 basis), did not show evidence of teratogenicity.
 
 ### Nonteratogenic Effects:
 
 Studies in rats showed no adverse effects on reproductive parameters during gestation and lactation.
 Dosages tested (4 mg/kg IV and 50 mg/kg PO) were approximately 8 times each of the human doses on a mg/m2 basis.
+
+Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours.
+There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans.
+
+In a published study, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
+In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring.
+With respect to brain development, this time period corresponds to the third trimester of gestation in the human.
+The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (See Warnings/ Pediatric Neurotoxicity, Precautions/Pediatric Use, and Animal Pharmacology and/or Toxicology).
 
 ## Labor and Delivery:
 
@@ -172,6 +197,16 @@ Because midazolam is transferred transplacentally and because other benzodiazepi
 
 Midazolam is excreted in human milk.
 Caution should be exercised when midazolam syrup is administered to a nursing woman.
+
+### Pediatric Use:
+
+Published juvenile animal studies demonstrate that the administration of anesthetic and sedation drugs, such as Midazolam Hydrochloride Syrup 2 mg/mL, that either block NMDA receptors or potentiate the activity of GABA during the period of rapid brain growth or synaptogenesis, results in widespread neuronal and oligodendrocyte cell loss in the developing brain and alterations in synaptic morphology and neurogenesis.
+Based on comparisons across species, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately 3 years of age in humans.
+
+In primates, exposure to 3 hours of ketamine that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer of isoflurane increased neuronal cell loss.
+Data from isoflurane-treated rodents and ketamine-treated primates suggest that the neuronal and oligodendrocyte cell losses are associated with prolonged cognitive deficits in learning and memory.
+The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women, neonates, and young children who require procedures with the potential risks suggested by the nonclinical data.
+(See Warnings/ Pediatric Neurotoxicity, Precautions/ Pregnancy, and Animal Pharmacology and/or Toxicology).
 
 ## Geriatric Use:
 

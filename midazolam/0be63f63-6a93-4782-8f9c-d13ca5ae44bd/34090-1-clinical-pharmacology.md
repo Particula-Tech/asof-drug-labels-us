@@ -173,7 +173,7 @@ Dose Ranging, Safety and Efficacy Study With Midazolam HCl Syrup in Pediatric Pa
 
 The effectiveness of midazolam HCl syrup as a premedicant to sedate and calm pediatric patients prior to induction of general anesthesia was compared among three different doses in a randomized, double-blind, parallel-group study.
 Patients of ASA physical status I, II or III were stratified to 1 of 3 age groups (6 months to <2 years, 2 to <6 years, and 6 to <16 years), and within each age group randomized to 1 of 3 dosing groups (0.25, 0.5, and 1 mg/kg up to a maximum dose of 20 mg).
-Greater than 90% of treated patients achieved satisfactory sedation and anxiolysis at at least one timepoint within 30 minutes posttreatment.
+Greater than 90% of treated patients achieved satisfactory sedation and anxiolysis at least one timepoint within 30 minutes posttreatment.
 Similarly high proportions of patients exhibited satisfactory ease of separation from parent or guardian and were cooperative at the time of mask induction with nitrous oxide and halothane administration.
 Onset time of satisfactory sedation or anxiolysis occurred within 10 minutes after treatment for >70% of patients who started with an unsatisfactory baseline rating.
 Whereas pairwise comparisons (0.25 mg/kg versus 0.5 mg/kg groups, and 0.5 mg/kg versus 1 mg/kg groups) on satisfactory sedation did not yield significant p-values (p=0.08 in both cases), comparative analysis of the clinical response between the high and low doses demonstrated that a higher proportion of patients in the 1 mg/kg dose group exhibited satisfactory sedation and anxiolysis as compared to the 0.25 mg/kg group (p<0.05).
