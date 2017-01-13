@@ -25,5 +25,5 @@ Further adjustments to the insulin dose should be individualized based on glycem
 
 ## 2.3 Concomitant Use With Strong CYP2C8 Inhibitors
 
-Coadministration of pioglitazone tablets and gemfibrozil, a strong CYP2C8 inhibitor, increases pioglitazone exposure approximately 3 fold.
+Coadministration of pioglitazone tablets and gemfibrozil, a strong CYP2C8 inhibitor, increases pioglitazone exposure approximately 3-fold.
 Therefore, the maximum recommended dose of pioglitazone tablets is 15 mg daily when used in combination with gemfibrozil or other strong CYP2C8 inhibitors [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].

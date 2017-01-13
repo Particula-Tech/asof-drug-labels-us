@@ -23,7 +23,7 @@ In controlled clinical trials, pioglitazone hydrochloride had an additive effect
 
 Patients with lipid abnormalities were included in clinical trials with pioglitazone hydrochloride.
 Overall, patients treated with pioglitazone hydrochloride had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.
-There is no conclusive evidence of macrovascular benefit with pioglitazone hydrochloride or any other antidiabetic medication [see Warnings and Precautions (5.9) and Adverse Reactions (6.1)].
+There is no conclusive evidence of macrovascular benefit with pioglitazone hydrochloride or any other antidiabetic medication [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
 
 In a 26 week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15 mg, 30 mg, and 45 mg pioglitazone dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone hydrochloride than in the placebo-treated patients.
@@ -157,8 +157,8 @@ Table 16: Effect of Coadministered Drugs on Pioglitazone Systemic Exposure
 
 | Coadministered Drug and Dosage Regimen | Pioglitazone |  |  |
 | --- | --- | --- | --- |
-| Dose Regimen (mg)Daily for 7 days unless otherwise noted | Change in AUCMean ratio (with/without coadministered drug and no change = 1 fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively | Change in Cmax |  |
-| Gemfibrozil 600 mg twice daily for 2 days(N = 12) | 15 mg single dose | ↑ 3.2 foldThe half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)] | ↑ 6% |
+| Dose Regimen (mg)Daily for 7 days unless otherwise noted | Change in AUCMean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively | Change in Cmax |  |
+| Gemfibrozil 600 mg twice daily for 2 days(N = 12) | 15 mg single dose | ↑ 3.2-foldThe half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)] | ↑ 6% |
 | Ketoconazole 200 mg twice daily for 7 days(N = 28) | 45 mg | ↑ 34% | ↑ 14% |
 | Rifampin 600 mg daily for 5 days(N = 10) | 30 mg single dose | ↓ 54% | ↓ 5% |
 | Fexofenadine 60 mg twice daily for 7 days(N = 23) | 45 mg | ↑ 1% | 0% |

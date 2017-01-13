@@ -11,22 +11,20 @@ See FDA-Approved Patient Labeling (Medication Guide).
    Pioglitazone tablets can be taken with or without meals.
    If a dose is missed on one day, the dose should not be doubled the following day.
 6. •When using combination therapy with insulin or other antidiabetic medications, the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development should be explained to patients and their family members.
-7. •Inform patients that therapy with pioglitazone tablets, like other thiazolidinediones, may result in ovulation in some premenopausal anovulatory women.
-   As a result, these patients may be at an increased risk for pregnancy while taking pioglitazone tablets.
-   Therefore, adequate contraception should be recommended for all premenopausal women who are prescribed pioglitazone tablets.
+7. •Inform female patients that treatment with pioglitazone tablets, like other thiazolidinediones, may result in an unintended pregnancy in some premenopausal anovulatory females due to its effect on ovulation [see Use in Specific Populations (8.3)].
 
 Manufactured In Israel By:
 
-TEVA PHARMACEUTICAL IND.
-LTD.
+Teva Pharmaceutical Ind.
+Ltd.
 
 Jerusalem, 9777402, Israel
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-E 2/2016
+F 12/2016

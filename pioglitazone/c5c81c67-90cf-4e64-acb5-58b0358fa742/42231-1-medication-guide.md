@@ -59,7 +59,7 @@ Before you take pioglitazone tablets, tell your doctor if you:
 4. •have liver problems
 5. •have or have had cancer of the bladder
 6. •are pregnant or plan to become pregnant.
-   It is not known if pioglitazone tablets will harm your unborn baby.
+   It is not known if pioglitazone tablets can harm your unborn baby.
    Talk to your doctor if you are pregnant or plan to become pregnant about the best way to control your blood glucose levels while pregnant
 7. •are a premenopausal woman (before the “change of life”) who does not have periods regularly or at all.
    Pioglitazone tablets may increase your chance of becoming pregnant.
@@ -67,7 +67,6 @@ Before you take pioglitazone tablets, tell your doctor if you:
    Tell your doctor right away if you become pregnant while taking pioglitazone tablets
 8. •are breastfeeding or plan to breastfeed.
    It is not known if pioglitazone hydrochloride passes into your milk and if it can harm your baby.
-   You should not take pioglitazone tablets if you breastfeed your baby.
    Talk to your doctor about the best way to control your blood glucose levels while breastfeeding
 
 Tell your doctor about all the medicines you take including prescription and over the counter medicines, vitamins, and herbal supplements.
@@ -101,8 +100,9 @@ What are the possible side effects of pioglitazone tablets?
 
 Pioglitazone tablets may cause serious side effects including:
 
-1. •See “What is the most important information I should know about pioglitazone tablet?”
-2. •low blood sugar (hypoglycemia).This can happen if you skip meals, if you also use another medicine that lowers blood sugar, or if you have certain medical problems.
+1. •See “What is the most important information I should know about pioglitazone tablets?”
+2. •low blood sugar (hypoglycemia).
+   This can happen if you skip meals, if you also use another medicine that lowers blood sugar, or if you have certain medical problems.
    Lightheadedness, dizziness, shakiness, or hunger may happen if your blood sugar is too low.
    Call your doctor if low blood sugar levels are a problem for you
 3. •liver problems.
@@ -175,16 +175,16 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured In Israel By:
 
-TEVA PHARMACEUTICAL IND.
-LTD.
+Teva Pharmaceutical Ind.
+Ltd.
 
 Jerusalem, 9777402, Israel
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-A 2/2016
+B 12/2016

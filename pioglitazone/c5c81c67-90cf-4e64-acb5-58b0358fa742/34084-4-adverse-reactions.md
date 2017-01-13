@@ -138,7 +138,7 @@ Congestive Heart Failure
 A summary of the incidence of adverse events related to congestive heart failure is provided in Table 6 for the 16 to 24 week add-on to sulfonylurea trials, for the 16 to 24 week add-on to insulin trials, and for the 16 to 24 week add-on to metformin trials.
 None of the events were fatal.
 
-Table 6: Treatment – Emergent Adverse Events of Congestive Heart Failure (CHF)
+Table 6: Treatment-Emergent Adverse Events of Congestive Heart Failure (CHF)
 
 | Patients Treated with Pioglitazone Hydrochloride or Placebo Added on to a Sulfonylurea |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -163,7 +163,7 @@ Table 6: Treatment – Emergent Adverse Events of Congestive Heart Failure (CHF)
 Patients with type 2 diabetes and NYHA class II or early class III congestive heart failure were randomized to receive 24 weeks of double-blind treatment with either pioglitazone at daily doses of 30 mg to 45 mg (n = 262) or glyburide at daily doses of 10 mg to 15 mg (n = 256).
 A summary of the incidence of adverse events related to congestive heart failure reported in this study is provided in Table 7.
 
-Table 7: Treatment – Emergent Adverse Events of Congestive Heart Failure (CHF) in Patients With NYHA Class II or III Congestive Heart Failure Treated With Pioglitazone Hydrochloride or Glyburide
+Table 7: Treatment-Emergent Adverse Events of Congestive Heart Failure (CHF) in Patients With NYHA Class II or III Congestive Heart Failure Treated With Pioglitazone Hydrochloride or Glyburide
 
 |  | Number (%) of Subjects |  |
 | --- | --- | --- |
@@ -175,7 +175,7 @@ Table 7: Treatment – Emergent Adverse Events of Congestive Heart Failure (CHF)
 
 Congestive heart failure events leading to hospitalization that occurred during the PROactive trial are summarized in Table 8.
 
-Table 8: Treatment – Emergent Adverse Events of Congestive Heart Failure (CHF) in PROactive Trial
+Table 8: Treatment-Emergent Adverse Events of Congestive Heart Failure (CHF) in PROactive Trial
 
 |  | Number (%) of Patients |  |
 | --- | --- | --- |
@@ -195,7 +195,7 @@ The primary objective of this trial was to examine the effect of pioglitazone hy
 The primary efficacy variable was the time to the first occurrence of any event in a cardiovascular composite endpoint that included all-cause mortality, nonfatal myocardial infarction (MI) including silent MI, stroke, acute coronary syndrome, cardiac intervention including coronary artery bypass grafting or percutaneous intervention, major leg amputation above the ankle, and bypass surgery or revascularization in the leg.
 A total of 514 (19.7%) patients treated with pioglitazone hydrochloride and 572 (21.7%) placebo-treated patients experienced at least one event from the primary composite endpoint (hazard ratio 0.90; 95% Confidence Interval: 0.80, 1.02; p = 0.10).
 
-Although there was no statistically significant difference between pioglitazone hydrochloride and placebo for the three year incidence of a first event within this composite, there was no increase in mortality or in total macrovascular events with pioglitazone hydrochloride.
+Although there was no statistically significant difference between pioglitazone hydrochloride and placebo for the three- year incidence of a first event within this composite, there was no increase in mortality or in total macrovascular events with pioglitazone hydrochloride.
 The number of first occurrences and total individual events contributing to the primary composite endpoint is shown in Table 9.
 
 Table 9: PROactive: Number of First and Total Events for Each Component Within the Cardiovascular Composite Endpoint
@@ -292,9 +292,10 @@ These patients were receiving pioglitazone 45 mg in combination with sulfonylure
 Urinary Bladder Tumors
 
 Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
-In two 3-year trials in which pioglitazone hydrochloride was compared to placebo or glyburide, there were 16/3656 (0.44%) reports of bladder cancer in patients taking pioglitazone hydrochloride compared to 5/3679 (0.14%) in patients not taking pioglitazone hydrochloride.
-After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.16%) cases on pioglitazone hydrochloride and two (0.05%) cases on placebo.
-There are too few events of bladder cancer to establish causality.
+During the three year PROactive clinical trial, 14 patients out of 2605 (0.54%) randomized to pioglitazone hydrochloride and 5 out of 2633 (0.19%) randomized to placebo were diagnosed with bladder cancer.
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 6 (0.23%) cases on pioglitazone hydrochloride and two (0.08%) cases on placebo.
+After completion of the trial, a large subset of patients was observed for up to 10 additional years, with little additional exposure to pioglitazone hydrochloride.
+During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to pioglitazone hydrochloride or placebo (HR = 1.00; 95% CI: 0.59 to 1.72) [see Warnings and Precautions (5.4)].
 
 Laboratory Abnormalities
 
