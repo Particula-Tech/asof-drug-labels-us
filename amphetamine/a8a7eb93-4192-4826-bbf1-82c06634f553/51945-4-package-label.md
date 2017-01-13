@@ -2,7 +2,7 @@
 
 NDC 27808-102-01
 
-DyanavelTM XR CII (amphetamine) extended-release oral suspension
+Dyanavel® XR CII (amphetamine) extended-release oral suspension
 
 2.5 mg/mL
 

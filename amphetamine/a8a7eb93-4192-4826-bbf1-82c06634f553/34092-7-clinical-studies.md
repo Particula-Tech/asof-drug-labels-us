@@ -23,3 +23,6 @@ Table 3: Primary efficacy result.
 | Study 1 | DYANAVEL XR | 17.3 (8.88) | -8.8 (1.14) | -14.8 (-17.9, -11.6) |
 |  | Placebo | 15.5 (7.35) | 6.0 (1.19) | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. a Difference (drug minus placebo) in least-squares mean change from pre-dose. |  |  |  |  |
+
+Figure 1.
+Change from pre-dose in SKAMP-Combined Score after treatment with DYANAVEL XR or Placebo.

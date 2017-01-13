@@ -1,15 +1,20 @@
 # 7. DRUG INTERACTIONS
 
-## 7.1Drugs Having Clinically Important Interactions with Amphetamines
-
-Table 2.
-Drugs having clinically important interactions with amphetamines.
+## 7.1 Drugs Having Clinically Important Interactions with Amphetamines
 
 | MAO Inhibitors (MAOI) |  |
 | --- | --- |
-| Clinical Impact | MAOI antidepressants slow amphetamine metabolism, increasing amphetamines effect on the release of norepinephrine and other monoamines from adrenergic nerve endings causing headaches and other signs of hypertensive crisis. Toxic neurological effects and malignant hyperpyrexia can occur, sometimes with fatal results. |
-| Intervention | Do not administer DYANAVEL XR during or within 14 days following the administration of MAOI [see Contraindications (4)]. |
-| Examples | Selegiline, isocarboxazid, phenelzine, tranylcypromine |
+| Clinical Impact | Concomitant use of MAOIs and CNS stimulants can cause hypertensive crisis. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure. |
+| Intervention | Do not administer DYANAVEL XR concomitantly or within 14 days after discontinuing MAOI [see Contraindications (4)] and Warnings and Precautions (5.7)]. |
+| Examples | Selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue |
+| Serotonergic Drugs |  |
+| Clinical Impact | The concomitant use of DYANAVEL XR and serotonergic drugs increases the risk of serotonin syndrome. |
+| Intervention | Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during DYANAVEL XR initiation or dosage increase. If serotonin syndrome occurs, discontinue DYANAVEL XR and the concomitant serotonergic drug(s) [see Warnings and Precautions (5.7)]. |
+| Examples | Selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St.John’s Wort. |
+| CYP2D6 Inhibitors |  |
+| Clinical Impact | The concomitant use of DYANAVEL XR and CYP2D6 inhibitors may increase the exposure of DYANAVEL XR compared to the use of the drug alone and increase the risk of serotonin syndrome. |
+| Intervention | Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during DYANAVEL XR initiation and after a dosage increase. If serotonin syndrome occurs, discontinue DYANAVEL XR and the CYP2D6 inhibitor [see Warnings and Precautions (5.7), Overdosage (10)]. |
+| Examples | Paroxetine and fluoxetine (also serotonergic drugs), quinidine, ritonavir |
 | Alkalinizing Agents |  |
 | Clinical Impact | Increase blood levels and potentiate the action of amphetamine. |
 | Intervention | Co-administration of DYANAVEL XR and gastrointestinal alkalinizing agents should be avoided. |
@@ -22,10 +27,6 @@ Drugs having clinically important interactions with amphetamines.
 | Clinical Impact | May enhance the activity of tricyclic or sympathomimetic agents causing striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated. |
 | Intervention | Monitor frequently and adjust or use alternative therapy based on clinical response. |
 | Examples | Desipramine, protriptyline |
-| Proton Pump Inhibitors |  |
-| Clinical Impact | Time to maximum concentration (Tmax) of amphetamine is increased compared to when administered alone. |
-| Intervention | Monitor patients for changes in clinical effect and adjust therapy based on clinical response. |
-| Example | Omeprazole |
 
 ## 7.2 Drug/Laboratory Test Interactions
 

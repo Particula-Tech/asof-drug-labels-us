@@ -1,4 +1,4 @@
-# 5.WARNINGS AND PRECAUTIONS
+# 5. WARNINGS AND PRECAUTIONS
 
 ## 5.1 Potential for Abuse and Dependence
 
@@ -47,3 +47,17 @@ Effects of peripheral vasculopathy, including Raynaud's phenomenon, were observe
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
 Careful observation for digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
+## 5.7 Serotonin Syndrome
+
+Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort [see Drug Interactions (7.1)].
+Amphetamines and amphetamine derivatives are known to be metabolized, to some degree, by cytochrome P450 2D6 (CYP2D6) [see Clinical Pharmacology 12.3].
+The potential for a pharmacokinetic interaction exists with the co-administration of CYP2D6 inhibitors which may increase the risk of serotonin syndrome with increased exposure to DYANAVEL XR.
+In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 [see Drug Interactions (7.1)].
+
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination, seizures), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
+Concomitant use of DYANAVEL XR with MAOI drugs is contraindicated [see Contraindications (4)].
+
+If symptoms of serotonin syndrome occur, discontinue all serotonergic agents immediately, and initiate supportive symptomatic treatment.
+If concomitant use of DYANAVEL XR with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate DYANAVEL XR with lower doses, monitor patients for the emergence of serotonin syndrome during drug initiation or titration, and inform patients of the increased risk for serotonin syndrome.
