@@ -4,18 +4,18 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ## 6.1 Adverse Events in Clinical Trials
 
-The safety of buprenorphine sublingual tablets was supported by clinical trials using buprenorphine sublingual tablets, buprenorphine and naloxone sublingual tablets and other trials using buprenorphine sublingual solutions.
+The safety of Buprenorphine Sublingual Tablets was supported by clinical trials using Buprenorphine Sublingual Tablets, buprenorphine and naloxone sublingual tablets and other trials using buprenorphine sublingual solutions.
 In total, safety data were available from 3214 opioid-dependent subjects exposed to buprenorphine at doses in the range used in treatment of opioid addiction.
 
-Few differences in adverse event profile were noted between buprenorphine sublingual tablets or buprenorphine administered as a sublingual solution.
+Few differences in adverse event profile were noted between Buprenorphine Sublingual Tablets or buprenorphine administered as a sublingual solution.
 
 The following adverse events were reported to occur by at least 5% of patients in a 4-week study (Table 1).
 
 Table 1: Adverse Events ≥5% by Body System and Treatment Group in a 4-Week Study
 
-|  | N(%) | N(%) |
+|  | N (%) | N (%) |
 | --- | --- | --- |
-| Body System / Adverse Event (COSTART Terminology) | Buprenorphine 16mg/day N=103 | Placebo N=107 |
+| Body System / Adverse Event (COSTART Terminology) | Buprenorphine Sublingual Tablets 16mg/day N=103 | Placebo N=107 |
 | Body as a Whole |  |  |
 | Asthenia | 5 (4.9%) | 7 (6.5%) |
 | Chills | 8 (7.8%) | 8 (7.5%) |
@@ -29,7 +29,7 @@ Table 1: Adverse Events ≥5% by Body System and Treatment Group in a 4-Week Stu
 | Vasodilation | 4 (3.9%) | 7 (6.5%) |
 | Digestive System |  |  |
 | Constipation | 8 (7.8%) | 3 (2.8%) |
-| Diarrhea | 5 (4.9%) | 16 (15%) |
+| Diarrhea | 5 (4.9%) | 16 (15.0%) |
 | Nausea | 14 (13.6%) | 12 (11.2%) |
 | Vomiting | 8 (7.8%) | 5 (4.7%) |
 | Nervous System |  |  |
@@ -44,7 +44,7 @@ Table 2 shows adverse events reported by at least 5% of subjects in any dose gro
 
 Table 2: Adverse Events (≥5%) by Body System and Treatment Group in a 16-Week Study
 
-| Body System /Adverse Event (COSTART Terminology) | Buprenorphine DoseSublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg; "Low" dose (4 mg solution) approximates a 6 mg tablet dose; "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose; "High" dose (16 mg solution) approximates a 24 mg tablet dose. |  |  |  |  |
+| Body System /Adverse Event (COSTART Terminology) | Buprenorphine DoseSublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Very Low (N=184) | Low (N=180) | Moderate (N=186) | High (N=181) | Total (N=731) |  |
 | N (%) | N (%) | N (%) | N (%) | N (%) |  |
@@ -84,4 +84,12 @@ Table 2: Adverse Events (≥5%) by Body System and Treatment Group in a 16-Week 
 
 ## 6.2 Adverse Events - Post-marketing Experience with Buprenorphine Sublingual Tablets
 
-The most frequently reported post-marketing adverse events with buprenorphine sublingual tablets not observed in clinical trials, excluding drug exposure during pregnancy, was drug misuse or abuse.
+The most frequently reported postmarketing adverse events with buprenorphine not observed in clinical trials, excluding drug exposure during pregnancy, was drug misuse or abuse.
+
+Serotonin Syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal Insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Buprenorphine Sublingual Tablets.
+
+Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

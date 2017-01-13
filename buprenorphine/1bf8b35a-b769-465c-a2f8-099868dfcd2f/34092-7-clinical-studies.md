@@ -1,25 +1,25 @@
 # 14 CLINICAL STUDIES
 
-Clinical data on the safety and efficacy of buprenorphine sublingual tablets were derived from studies of buprenorphine sublingual tablet formulations, with and without naloxone, and from studies of sublingual administration of a more bioavailable ethanolic solution of buprenorphine.
+Clinical data on the safety and efficacy of buprenorphine were derived from studies of Buprenorphine Sublingual Tablets formulations, with and without naloxone, and from studies of sublingual administration of a more bioavailable ethanolic solution of buprenorphine.
 
-Buprenorphine tablets were studied in 1834 patients; buprenorphine and naloxone tablets in 575 patients, and buprenorphine sublingual solutions in 2470 patients.
+Buprenorphine Sublingual Tablets were studied in 1834 patients; buprenorphine and naloxone tablets in 575 patients, and buprenorphine sublingual solutions in 2470 patients.
 A total of 1270 women received buprenorphine in those clinical trials.
 Dosing recommendations are based on data from one trial of both tablet formulations and two trials of the ethanolic solution.
 All trials used buprenorphine in conjunction with psychosocial counseling as part of a comprehensive addiction treatment program.
 There were no clinical studies conducted to assess the efficacy of buprenorphine as the only component of treatment.
 
-In a double-blind placebo- and active-controlled study, 326 heroin-addicted subjects were randomly assigned to either buprenorphine and naloxone sublingual tablets, 16/4 mg per day; buprenorphine sublingual tablets, 16 mg per day; or placebo sublingual tablets.
-For subjects randomized to either active treatment, dosing began with one 8 mg buprenorphine sublingual tablets on Day 1, followed by 16 mg (two 8 mg tablets) of buprenorphine sublingual tablets on Day 2.
+In a double-blind placebo- and active-controlled study, 326 heroin-addicted subjects were randomly assigned to either buprenorphine and naloxone sublingual tablets, 16/4 mg per day; Buprenorphine Sublingual Tablets, 16 mg per day; or placebo sublingual tablets.
+For subjects randomized to either active treatment, dosing began with one 8 mg buprenorphine on Day 1, followed by 16 mg (two 8 mg tablets) of buprenorphine on Day 2.
 On Day 3, those randomized to receive buprenorphine/naloxone sublingual tablets were switched to the combination tablet.
 Subjects randomized to placebo received one placebo tablet on Day 1 and two placebo tablets per day thereafter for four weeks.
 Subjects were seen daily in the clinic (Monday through Friday) for dosing and efficacy assessments.
 Take-home doses were provided for weekends.
 Subjects were instructed to hold the medication under the tongue for approximately 5 to 10 minutes until completely dissolved.
 Subjects received counseling regarding HIV infection and up to one hour of individualized counseling per week.
-The primary study comparison was to assess the efficacy of buprenorphine and naloxone sublingual tablets and buprenorphine sublingual tablets individually against placebo sublingual tablet.
-The percentage of thrice-weekly urine samples that were negative for non-study opioids was statistically higher for both buprenorphine and naloxone sublingual tablets and buprenorphine sublingual tablets than for placebo sublingual tablets.
+The primary study comparison was to assess the efficacy of buprenorphine and naloxone sublingual tablets and Buprenorphine Sublingual Tablets individually against placebo sublingual tablet.
+The percentage of thrice-weekly urine samples that were negative for non-study opioids was statistically higher for both buprenorphine and naloxone sublingual tablets and Buprenorphine Sublingual Tablets than for placebo sublingual tablets.
 
-In a double-blind, double-dummy, parallel-group study comparing buprenorphine ethanolic solution to a full agonist active control, 162 subjects were randomized to receive the ethanolic sublingual solution of buprenorphine at 8 mg/day (a dose which is roughly comparable to a dose of 12 mg per day of buprenorphine sublingual tablets), or two relatively low doses of active control, one of which was low enough to serve as an alternative to placebo, during a 3 to 10 day induction phase, a 16-week maintenance phase and a 7-week detoxification phase.
+In a double-blind, double-dummy, parallel-group study comparing buprenorphine ethanolic solution to a full agonist active control, 162 subjects were randomized to receive the ethanolic sublingual solution of buprenorphine at 8 mg/day (a dose which is roughly comparable to a dose of 12 mg per day of Buprenorphine Sublingual Tablets), or two relatively low doses of active control, one of which was low enough to serve as an alternative to placebo, during a 3 to 10 day induction phase, a 16-week maintenance phase and a 7-week detoxification phase.
 Buprenorphine was titrated to maintenance dose by Day 3; active control doses were titrated more gradually.
 
 Maintenance dosing continued through Week 17, and then medications were tapered by approximately 20% to 30% per week over Weeks 18 to 24, with placebo dosing for the last two weeks.
