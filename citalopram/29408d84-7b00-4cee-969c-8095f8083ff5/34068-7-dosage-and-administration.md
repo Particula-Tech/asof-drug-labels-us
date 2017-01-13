@@ -25,7 +25,7 @@ When treating pregnant women with citalopram during the third trimester, the phy
 It is generally agreed that acute episodes of depression require several months or longer of sustained pharmacologic therapy.
 Systematic evaluation of citalopram in two studies has shown that its antidepressant efficacy is maintained for periods of up to 24 weeks following 6 or 8 weeks of initial treatment (32 weeks total).
 In one study, patients were assigned randomly to placebo or to the same dose of citalopram (20 to 60 mg/day) during maintenance treatment as they had received during the acute stabilization phase, while in the other study, patients were assigned randomly to continuation of citalopram 20 or 40 mg/day, or placebo, for maintenance treatment.
-In the latter study, the rates of relapse to depression were similar for the two dose groups (see Clinical Trials under CLINICAL PHARMACOLOGY).
+In the latter study, the rates of relapse to depression were similar for the two dose groups (see CLINICAL PHARMACOLOGY; Clinical Efficacy Trials).
 Based on these limited data, it is not known whether the dose of citalopram needed to maintain euthymia is identical to the dose needed to induce remission.
 If adverse reactions are bothersome, a decrease in dose to 20 mg/day can be considered.
 
@@ -37,7 +37,7 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 
-Switching a Patient To or From a Monoamine Oxidase lnhibitor (MAOI) Intended to Treat Psychiatric Disorders
+Switching Patients To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with citalopram.
 Conversely, at least 14 days should be allowed after stopping citalopram before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).

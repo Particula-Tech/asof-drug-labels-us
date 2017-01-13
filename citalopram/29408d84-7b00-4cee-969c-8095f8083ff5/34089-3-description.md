@@ -5,10 +5,10 @@ Citalopram hydrobromide is a racemic bicyclic phthalane derivative designated (Â
 
 The molecular formula is C20H22BrFN2O and its molecular weight is 405.35.
 
-Citalopram hydrobromide occurs as a fine, white to off-white powder.
+Citalopram hydrobromide USP occurs as a fine, white to off-white powder.
 Citalopram hydrobromide is sparingly soluble in water and soluble in ethanol.
 
 Citalopram is available as an oral solution.
 
 Citalopram Oral Solution USP contains citalopram hydrobromide USP equivalent to 2 mg/mL citalopram base.
-It also contains the following inactive ingredients: methylparaben, peppermint stick, propylene glycol, propylparaben, purified water and sorbitol solution.
+It also contains the following inactive ingredients: methylparaben, peppermint stick, propylene glycol, propylparaben, purified water, and sorbitol solution.
