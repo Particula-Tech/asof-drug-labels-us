@@ -198,7 +198,7 @@ Mean increases from baseline in blood pressure at the end of the double-blind ph
 In one placebo-controlled study in adults (Study 6), dose-dependent mean increases of 3.9 to 9.8 bpm from baseline in standing pulse rate were observed with CONCERTA® at the end of the double-blind treatment vs. an increase of 2.7 beats/minute with placebo.
 Mean changes from baseline in standing blood pressure at the end of double-blind treatment ranged from 0.1 to 2.2 mm Hg (systolic) and -0.7 to 2.2 mm Hg (diastolic) for CONCERTA® and was 1.1 mm Hg (systolic) and -1.8 mm Hg (diastolic) for placebo.
 In a second placebo-controlled study in adults (Study 5), mean changes from baseline in resting pulse rate were observed for CONCERTA® and placebo at the end of the double-blind treatment (3.6 and –1.6 beats/minute, respectively).
-Mean changes from baseline in blood pressure at the end of the double–blind treatment for CONCERTA® and placebo-treated patients were –1.2 and –0.5 mm Hg (systolic) and 1.1 and 0.4 mm Hg (diastolic), respectively [see Warnings and Precautions (5.1]).
+Mean changes from baseline in blood pressure at the end of the double–blind treatment for CONCERTA® and placebo-treated patients were –1.2 and –0.5 mm Hg (systolic) and 1.1 and 0.4 mm Hg (diastolic), respectively [see Warnings and Precautions (5.1)].
 
 ## 6.6 Postmarketing Experience
 
@@ -221,7 +221,7 @@ Investigations: Blood alkaline phosphatase increased, Blood bilirubin increased,
 
 Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Muscle twitching, Rhabdomyolysis
 
-Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia
+Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia, Serotonin syndrome in combination with serotonergic drugs
 
 Psychiatric Disorders: Disorientation, Hallucination, Hallucination auditory, Hallucination visual, Mania, Logorrhea, Libido changes
 
