@@ -6,10 +6,6 @@ MEDICATION GUIDE Daytrana® (day-TRON-ah) (methylphenidate transdermal system) C
 | Important: Daytrana is a federally controlled substance (CII) because it can be abused or lead to dependence. Keep Daytrana in a safe place to protect it from theft. Selling or giving away Daytrana may harm others and is against the law. Tell your doctor if you have ever abused or been dependent on alcohol, prescription medicine or street drugs. |
 | --- |
 
-Read this Medication Guide before you start using Daytrana and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your doctor about your medical condition or your treatment.
-
 What is the most important information I should know about Daytrana?
 
 Daytrana is a central nervous system (brain) stimulant medicine.
@@ -33,7 +29,7 @@ Remove the Daytrana patch and call your doctor right away if you have any signs 
 2.
 Mental (psychiatric) problems, including:
 
-- new or worse aggressive behaviour, hostility, anger, or irritability
+- new or worse aggressive behavior, hostility, anger, or irritability
 - new or worse bipolar illness or mania (an extreme increase in activity or talking)
 - new or worse psychosis (hearing or seeing things that are not real, being suspicious or distrustful, believing things that are not true)
 - other unusual or extreme changes in behavior or mood
@@ -86,7 +82,7 @@ Before you start using Daytrana, tell your doctor if you have:
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - are breast feeding or plan to breast feed.
   It is not known if Daytrana passes into your breast milk.
-  You and your doctor should decide if you will take Daytrana or breastfeed.
+  You and your doctor should decide if you will use Daytrana or breastfeed.
 - a history of vitiligo and/or a family history of vitiligo
 
 Tell your doctor about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -107,13 +103,14 @@ Do not start any new medicine while using Daytrana without talking to your docto
 
 How should I use Daytrana?
 
-- Read the Patient Instructions for Use at the end of this Medication Guide that comes with your Daytrana for information about the right way to use Daytrana
+- Read the Patient Instructions for Use at the end of this Medication Guide that comes with your Daytrana for information about the right way to use Daytrana.
 - Use Daytrana exactly as your doctor tells you to.
 - Your doctor may change your dose if needed.
 - Apply Daytrana to your hip 2 hours before an effect is needed.
+- Do not wear Daytrana longer than 9 hours a day.
 - Apply Daytrana to a different hip each day.
 - Do not cut Daytrana patches.
-- Parents or caregivers should apply and remove Daytrana for their child if the child is not responsible enough to do so
+- Parents or caregivers should apply and remove Daytrana for their child if the child is not responsible enough to do so.
 - Your doctor may stop Daytrana treatment to check your ADHD symptoms.
 - Your doctor may do certain blood tests and check your heart and blood pressure while you use Daytrana.
 - If you forget to apply a patch in the morning, you may apply the patch later in the day.
@@ -125,7 +122,7 @@ How should I use Daytrana?
   If you have to replace a patch that has fallen off, the total wear time for the first and second patch should not be more than a total of 9 hours in 1 day.
   Do not reapply the same patch that fell off.
 - Do not wear your Daytrana patch longer than 9 hours.
-- If you accidently apply or wear more than 1 patch at a time, you have used too much Daytrana.
+- If you accidentally apply or wear more than 1 patch at a time, you have used too much Daytrana.
   Remove all patches, wash the application sites right away and call your doctor.
   - Call your Poison Control Center at 1-800-222-1222 -or go to the nearest hospital emergency room right away if you have:
     - vomiting
@@ -155,7 +152,7 @@ Daytrana may cause serious side effects, including:
 - Seizures.
   This usually happens in people with a history of seizures.
 - Painful and prolonged erections (priapism) have occurred with methylphenidate.
-  If you or your child develop priapism, seek medical help right away.
+  If you or your child develops priapism, seek medical help right away.
   Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately.
 - Slowing of growth (weight and height).
   You should have your height and weight checked while using Daytrana.

@@ -75,10 +75,11 @@ Careful follow-up of weight and height in children ages 7 to 10 years who were r
 Published data are inadequate to determine whether chronic use of amphetamines may cause a similar suppression of growth, however, it is anticipated that they likely have this effect as well.
 Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
 
-## 5.7 Chemical Leukoderma:
+## 5.7 Chemical Leukoderma
 
 Daytrana use may result in a persistent loss of skin pigmentation at and around the application site.
-Loss of pigmentation, in some cases, has been reported at other sites distant from the application site.Chemical leukoderma can mimic the appearance of vitiligo, particularly when the loss of skin pigmentation involves areas beyond the application site.
+Loss of pigmentation, in some cases, has been reported at other sites distant from the application site.
+Chemical leukoderma can mimic the appearance of vitiligo, particularly when the loss of skin pigmentation involves areas distant from the application site.
 Individuals with a history of vitiligo and/or a family history of vitiligo may be more at risk.
 Skin depigmentation may persist even after Daytrana use is discontinued.
 Monitor for signs of skin depigmentation, and advise patients to immediately inform their healthcare provider if changes in skin pigmentation occur.

@@ -45,7 +45,7 @@ The observed exposures with Daytrana could not be explained by drug accumulation
 Neither were they explainable by differences in dosing patterns between treatments, age, race, or gender.
 This suggests that transdermal absorption of methylphenidate may increase with repeat dosing with Daytrana; on average, steady-state is likely to have been achieved by approximately 14 days of dosing.
 
-In the single and multiple dose study described above, exposure to l-methylphenidate was 46% of the exposure to d-methylphenidate in children and 40% in adolescents. l-methylphenidate is less pharmacologically active than d-methylphenidate [see Pharmacodynamics (12.2)].
+In the single- and multiple dose study described above, exposure to l-methylphenidate was 46% of the exposure to d-methylphenidate in children and 40% in adolescents. l-methylphenidate is less pharmacologically active than d-methylphenidate [see Pharmacodynamics (12.2)].
 
 In a phase 2 PK/PD study in children aged 6-12 years, 2/3 of patients had 2-hour d-MPH concentrations < 5 ng/mL on chronic dosing, and at 3 hours 40% of patients had d-MPH concentrations < 5 ng/mL [see Clinical Studies (14)].
 

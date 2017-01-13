@@ -39,7 +39,7 @@ The patch should then be pressed firmly in place with the palm of the hand for a
 Exposure to water during bathing, swimming, or showering can affect patch adherence.
 Patches should not be applied or re-applied with dressings, tape, or other common adhesives.
 In the event that a patch does not fully adhere to the skin upon application, or becomes partially or fully detached during wear time, the patch should be discarded according to the directions provided in this label [see Dosage and Administration (2.3)] and a new patch may be applied at a different site.
-The total recommended wear time for that day should remain 9 hours regardless of the number of patches used [see Patient Counseling Information (17.1)].
+The total recommended wear time for that day should remain 9 hours regardless of the number of patches used [see Patient Counseling Information (17)].
 
 All patients should be advised to avoid exposing the Daytrana application site to direct external heat sources, such as hair dryers, heating pads, electric blankets, heated water beds, etc., while wearing the patch [see Warnings and Precautions (5.10)].
 When heat is applied to Daytrana after patch application, both the rate and the extent of absorption are significantly increased.

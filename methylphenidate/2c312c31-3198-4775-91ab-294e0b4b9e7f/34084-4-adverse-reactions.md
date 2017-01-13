@@ -24,7 +24,7 @@ Detailed information on serious and adverse reactions of particular importance i
 The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adverse reactions in a controlled trial in children aged 6-12 included appetite decreased, insomnia, nausea, vomiting, weight decreased, tic, affect lability, and anorexia.
 The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adverse reactions in a controlled trial in adolescents aged 13-17 were appetite decreased, nausea, insomnia, weight decreased, dizziness, abdominal pain, and anorexia [see Adverse Reactions (6.1)].
 
-The most common (≥ 2% of subjects) adverse reaction associated with discontinuations in double-blind clinical trials in children or adolescents was application site reactions [see Adverse Reactions (6.3)].
+The most common (≥ 2% of subjects) adverse reaction associated with discontinuations in double-blind clinical trials in children or adolescents was application site reactions [see Adverse Reactions (6.1)].
 
 The overall Daytrana development program included exposure to Daytrana in a total of 2,152 participants in clinical trials, including 1,529 children aged 6-12, 223 adolescents aged 13-17, and 400 adults.
 The 1,752 child and adolescent subjects aged 6-17 years were evaluated in 10 controlled clinical studies, 7 open-label clinical studies, and 5 clinical pharmacology studies.
@@ -113,7 +113,7 @@ Immune System Disorders: hypersensitivity reactions including generalized erythe
 
 Investigations: blood pressure increased
 
-Nervous System Disorders: convulsion, dyskinesia, lethargy, somnolence
+Nervous System Disorders: convulsion, dyskinesia, lethargy, somnolence, serotonin syndrome in combination with serotonergic drugs
 
 Psychiatric Disorders: transient depressed mood, hallucination, nervousness, libido changes
 
@@ -140,9 +140,9 @@ Although a definite causal relationship has not been established, the following 
 
 Blood/lymphatic: leukopenia and/or anemia
 
-Hepatobiliary: abnormal liver function, ranging from transaminase elevation to hepatic coma
+Hepatobiliary: abnormal liver function, ranging from transaminase elevation to severe hepatic injury
 
-Psychiatric: transient depressed mood, hallucination, nervousness, libido changes
+Psychiatric: transient depressed mood
 
 Skin/Subcutaneous: scalp hair loss
 

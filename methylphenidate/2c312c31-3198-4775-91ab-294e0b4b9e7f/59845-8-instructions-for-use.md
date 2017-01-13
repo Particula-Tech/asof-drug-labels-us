@@ -1,6 +1,7 @@
 Instructions for Use Daytrana® (day-TRON-ah) (methylphenidate transdermal system) CII
 
-1 Daytrana Dosing Chart
+1.
+Daytrana Dosing Chart
 
 Each carton of Daytrana contains a Daytrana Dosing Chart to help you keep track of your patch including:
 
@@ -130,12 +131,12 @@ How to remove and throw away Daytrana
   To safely throw away the patches:
   - Remove the leftover patches from their protective pouches and remove the protective liners.
   - Either fold the patches in half with the sticky sides together, and flush the patches down the toilet, or
-  - throw the patches away in a container with a lid.
+  - Throw the patches away in a container with a lid.
 
 Manufactured for: Noven Therapeutics, LLC, Miami, FL 33186.
 
-By: Noven Pharmaceuticals, Inc., Miami, FL 33186. © 2009, 2013 Noven Pharmaceuticals, Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
+By: Noven Pharmaceuticals, Inc., Miami, FL 33186. © 2009, 2013, 2015, 2016 Noven Pharmaceuticals, Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised 08/2015
+Revised 01/2017
 
-102086-13
+102086-17
