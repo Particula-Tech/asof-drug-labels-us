@@ -31,7 +31,7 @@ Doxycycline is also indicated for the treatment of infections caused by the foll
 
 Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended.
 
-Doxycycline is indicated for treatment of infections caused by the following gram- negative bacteria, when bacteriologic testing indicates appropriate susceptibility to the drug:
+Doxycycline is indicated for treatment of infections caused by the following gram-negative bacteria, when bacteriologic testing indicates appropriate susceptibility to the drug:
 
 - Escherichia coli.
 - Enterobacter aerogenes.

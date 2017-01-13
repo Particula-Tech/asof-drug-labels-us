@@ -1,6 +1,6 @@
 Doxycycline Hyclate Capsules, USP Doxycycline Hyclate Tablets, USP
 
-Revised: November 2014
+Revised: September 2015
 
 Rx Only
 
