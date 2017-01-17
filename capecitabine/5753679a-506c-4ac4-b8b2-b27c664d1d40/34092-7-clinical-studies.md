@@ -35,7 +35,7 @@ Table 10: Baseline Demographics
 | Other (n, %) | 4 (0.4) | 1 (0.1) |
 
 All patients with normal renal function or mild renal impairment began treatment at the full starting dose of 1250 mg/m2 orally twice daily.
-The starting dose was reduced in patients with moderate renal impairment (calculated creatinine clearance 30 to 50 mL/min) at baseline [see Dosage and Administration (2.3)].
+The starting dose was reduced in patients with moderate renal impairment (calculated creatinine clearance 30 to 50 mL/min) at baseline [see Dosage and Administration (2.4)].
 Subsequently, for all patients, doses were adjusted when needed according to toxicity.
 Dose management for capecitabine included dose reductions, cycle delays and treatment interruptions (see Table 11).
 

@@ -13,7 +13,7 @@ This interaction is probably due to an inhibition of cytochrome P450 2C9 by cape
 
 Phenytoin
 
-The level of phenytoin should be carefully monitored in patients taking capecitabine and phenytoin dose may need to be reduced [see Dosage and Administration (2.2)].
+The level of phenytoin should be carefully monitored in patients taking capecitabine and phenytoin dose may need to be reduced [see Dosage and Administration (2.3)].
 Postmarketing reports indicate that some patients receiving capecitabine and phenytoin had toxicity associated with elevated phenytoin levels.
 Formal drug-drug interaction studies with phenytoin have not been conducted, but the mechanism of interaction is presumed to be inhibition of the CYP2C9 isoenzyme by capecitabine and/or its metabolites.
 

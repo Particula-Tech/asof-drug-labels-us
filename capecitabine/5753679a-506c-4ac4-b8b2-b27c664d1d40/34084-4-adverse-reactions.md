@@ -321,7 +321,7 @@ Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastati
 | Ear: | vertigo |
 | Hepatobiliary: | hepatic fibrosis (0.1%), hepatitis (0.1%), cholestatic hepatitis (0.1%), abnormal liver function tests |
 | Immune System: | drug hypersensitivity (0.1%) |
-| Postmarketing: | hepatic failure, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, toxic leukoencephalopathy, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7)] |
+| Postmarketing: | hepatic failure, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, toxic leukoencephalopathy, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7)], persistent or severe hand-and-foot syndrome can eventually lead to loss of fingerprints [see Warnings and Precautions (5.7)] |
 
 Capecitabine In Combination With Docetaxel (Metastatic Breast Cancer)
 

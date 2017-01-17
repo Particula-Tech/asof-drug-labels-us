@@ -22,7 +22,7 @@ Capecitabine tablets are a prescription medicine used to treat people with:
 
 - •cancer of the colon that has spread to lymph nodes in the area close to the colon (Dukes’ C stage), after they have surgery.
 - •cancer of the colon or rectum (colorectal) that has spread to other parts of the body (metastatic).
-- •breast cancer that has spread to other parts of the body (metastatic) together with another medicine called docetaxel after treatment with certain other anticancer medicines have not worked.
+- •breast cancer that has spread to other parts of the body (metastatic) together with another medicine called docetaxel after treatment with certain other anti-cancer medicines have not worked.
 - •breast cancer that has spread to other parts of the body and has not improved after treatment with paclitaxel and certain other anti-cancer medicines, or who cannot receive any more treatment with certain anti-cancer medicines.
 
 It is not known if capecitabine tablets are safe and effective in children.
@@ -53,8 +53,7 @@ Before you take capecitabine tablets, tell your doctor if you:
   Talk to your doctor about birth control choices that may be right for you during treatment with capecitabine tablets.
 - •are breastfeeding or plan to breastfeed.
   It is not known if capecitabine passes into your breast milk.
-  You and your doctor should decide if you will take capecitabine tablets or breastfeed.
-  You should not do both.
+  Do not breastfeed during treatment with capecitabine tablets.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Capecitabine tablets may affect the way other medicines work, and other medicines may affect the way capecitabine tablets work.
@@ -117,6 +116,7 @@ See “What is the most important information I should know about capecitabine t
   - •Capecitabine tablets can also cause “hand and foot syndrome.”
     Hand and foot syndrome is common with capecitabine tablets and can cause you to have numbness and changes in sensation in your hands and feet, or cause redness, pain, swelling of your hands and feet.
     Stop taking capecitabine tablets and call your doctor right away if you have any of these symptoms and you are not able to do your usual activities.
+    Hand and foot syndrome can lead to loss of fingerprints which could impact your identification.
   - •you may get sores in your mouth or on your tongue when taking capecitabine tablets.
     Stop taking capecitabine tablets and call your doctor if you get painful redness, swelling, or ulcers in your mouth and tongue, or if you are having problems eating.
     Tell your doctor if you have any side effect that bothers you or that does not go away.
@@ -162,7 +162,7 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about capecitabine tablets that is written for health professionals.
 
-For more information, call 1-888-838-2872.
+For more information, go to www.tevagenerics.com or call 1-888-838-2872.
 
 What are the ingredients in capecitabine tablets?
 
@@ -176,15 +176,15 @@ All brand names listed are the registered trademarks of their respective owners 
 
 Manufactured In Czech Republic By:
 
-TEVA CZECH INDUSTRIES s.r.o.
+Teva Czech Industries s.r.o.
 
 Opava-Komarov, Czech Republic
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-D 4/2015
+E 12/2016

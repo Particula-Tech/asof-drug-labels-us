@@ -2,26 +2,58 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+Risk Summary
 
-Pregnancy Category D
+Based on findings in animal reproduction studies and its mechanism of action, capecitabine can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
+Limited available human data are not sufficient to inform the drug-associated risk during pregnancy.
+In animal reproduction studies, administration of capecitabine to pregnant animals during the period of organogenesis caused embryo lethality and teratogenicity in mice and embryo lethality in monkeys at 0.2 and 0.6 times the exposure (AUC) in patients receiving the recommended dose respectively [see Data].
+Apprise pregnant women of the potential risk to a fetus.
 
-Capecitabine can cause fetal harm when administered to a pregnant woman.
-Capecitabine at doses of 198 mg/kg/day during organogenesis caused malformations and embryo death in mice.
-In separate pharmacokinetic studies, this dose in mice produced 5'-DFUR AUC values about 0.2 times the corresponding values in patients administered the recommended daily dose.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Animal Data
+
+Oral administration of capecitabine to pregnant mice during the period of organogenesis at a dose of 198 mg/kg/day caused malformations and embryo lethality.
+In separate pharmacokinetic studies, this dose in mice produced 5’-DFUR AUC values that were approximately 0.2 times the AUC values in patients administered the recommended daily dose.
 Malformations in mice included cleft palate, anophthalmia, microphthalmia, oligodactyly, polydactyly, syndactyly, kinky tail and dilation of cerebral ventricles.
-At doses of 90 mg/kg/day, capecitabine given to pregnant monkeys during organogenesis caused fetal death.
-This dose produced 5'-DFUR AUC values about 0.6 times the corresponding values in patients administered the recommended daily dose.
+Oral administration of capecitabine to pregnant monkeys during the period of organogenesis at a dose of 90 mg/kg/day caused fetal lethality.
+This dose produced 5’-DFUR AUC values that were approximately 0.6 times the AUC values in patients administered the recommended daily dose.
 
-There are no adequate and well controlled studies of capecitabine in pregnant women.
-If this drug is used during pregnancy, or if a patient becomes pregnant while receiving capecitabine, the patient should be apprised of the potential hazard to the fetus.
-Women should be advised to avoid becoming pregnant while receiving treatment with capecitabine [see Warnings and Precautions (5.6)].
+## 8.2 Lactation
 
-## 8.3 Nursing Mothers
+Risk Summary
+
+There is no information regarding the presence of capecitabine in human milk, or on its effects on milk production or the breast-fed infant.
+Capecitabine metabolites were present in the milk of lactating mice [see Data].
+Because of the potential for serious adverse reactions from capecitabine exposure in breast-fed infants, advise women not to breastfeed during treatment with capecitabine and for 2 weeks after the final dose.
+
+Data
 
 Lactating mice given a single oral dose of capecitabine excreted significant amounts of capecitabine metabolites into the milk.
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from capecitabine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+Pregnancy testing is recommended for females of reproductive potential prior to initiating capecitabine.
+
+Contraception
+
+Females
+
+Capecitabine can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment and for 6 months following the final dose of capecitabine.
+
+Males
+
+Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months following the last dose of capecitabine [see Nonclinical Toxicology (13.1)].
+
+Infertility
+
+Based on animal studies, capecitabine may impair fertility in females and males of reproductive potential [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -56,4 +88,4 @@ The effect of severe hepatic dysfunction on capecitabine is not known [see Warni
 
 ## 8.7 Renal Insufficiency
 
-Patients with moderate (creatinine clearance = 30 to 50 mL/min) and severe (creatinine clearance < 30 mL/min) renal impairment showed higher exposure for capecitabine, 5-DFUR, and FBAL than in those with normal renal function [see Contraindications (4.2), Warnings and Precautions (5.5), Dosage and Administration (2.3), and Clinical Pharmacology (12.3)].
+Patients with moderate (creatinine clearance = 30 to 50 mL/min) and severe (creatinine clearance < 30 mL/min) renal impairment showed higher exposure for capecitabine, 5-DFUR, and FBAL than in those with normal renal function [see Contraindications (4.2), Warnings and Precautions (5.5), Dosage and Administration (2.4), and Clinical Pharmacology (12.3)].
