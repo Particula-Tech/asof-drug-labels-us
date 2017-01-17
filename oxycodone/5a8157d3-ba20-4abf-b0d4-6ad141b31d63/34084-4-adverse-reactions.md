@@ -1,45 +1,76 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-ROXICODONE® tablets have been evaluated in open label clinical trials in patients with cancer and nonmalignant pain.
-ROXICODONE® tablets are associated with adverse experiences similar to those seen with other opioids.
+The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-Serious adverse reactions that may be associated with ROXICODONE® therapy in clinical use are those observed with other opioid analgesics and include: respiratory depression, respiratory arrest, circulatory depression, cardiac arrest, hypotension, and/or shock (see OVERDOSAGE, WARNINGS).
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
+- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.5)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
+- Severe Hypotension [see Warnings and Precautions (5.8)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10)]
+- Seizures [see Warnings and Precautions (5.11)]
+- Withdrawal [see Warnings and Precautions (5.12)]
 
-The less severe adverse events seen on initiation of therapy with ROXICODONE® are also typical opioid side effects.
-These events are dose dependent, and their frequency depends on the clinical setting, the patient’s level of opioid tolerance, and host factors specific to the individual.
-They should be expected and managed as a part of opioid analgesia.
-The most frequent of these include nausea, constipation, vomiting, headache, and pruritus.
+## 6.1 Clinical Trials Experience
 
-In many cases the frequency of adverse events during initiation of opioid therapy may be minimized by careful individualization of starting dosage, slow titration and the avoidance of large rapid swings in plasma concentration of the opioid.
-Many of these adverse events will abate as therapy is continued and some degree of tolerance is developed, but others may be expected to remain throughout therapy.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In all patients for whom dosing information was available (n=191) from the open-label and double-blind studies involving ROXICODONE®, the following adverse events were recorded in ROXICODONE® treated patients with an incidence ≥ 3%.
+ROXICODONE tablets have been evaluated in open label clinical trials in patients with cancer and nonmalignant pain.
+ROXICODONE tablets are associated with adverse experiences similar to those seen with other opioids.
+
+Serious adverse reactions associated with ROXICODONE use included: respiratory depression, respiratory arrest, circulatory depression, cardiac arrest, hypotension, and/or shock.
+
+The common adverse reactions seen on initiation of therapy with ROXICODONE are dose related and are typical opioid-related adverse reactions.
+The most frequent of these included nausea, constipation, vomiting, headache, pruritus, insomnia, dizziness, asthenia, and somnolence.
+The frequency of these reactions depended on several factors, including clinical setting, the patient’s level of opioid tolerance, and host factors specific to the individual.
+
+In all patients for whom dosing information was available (n=191) from the open-label and double-blind studies involving ROXICODONE, the following adverse events were recorded in ROXICODONE treated patients with an incidence ≥ 3%.
 In descending order of frequency they were: nausea, constipation, vomiting, headache, pruritus, insomnia, dizziness, asthenia, and somnolence.
 
-The following adverse experiences occurred in less than 3% of patients involved in clinical trials with oxycodone:
+Other less frequently observed adverse reactions from opioid analgesics, including ROXICODONE included:
 
-Body as a Whole: abdominal pain, accidental injury, allergic reaction, back pain, chills and fever, fever, flu syndrome, infection, neck pain, pain, photosensitivity reaction, and sepsis.
+Blood and lymphatic system disorders: anemia, leukopenia
 
-Cardiovascular: deep thrombophlebitis, heart failure, hemorrhage, hypotension, migraine, palpitation, and tachycardia.
+Cardiac disorders: cardiac failure, palpitation, tachycardia
 
-Digestive: anorexia, diarrhea, dyspepsia, dysphagia, gingivitis, glossitis, and nausea and vomiting.
+Gastrointestinal disorders: abdominal pain, dry mouth, diarrhea, dyspepsia, dysphagia, glossitis, nausea, vomiting.
 
-Hemic and Lymphatic: anemia and leukopenia.
+General disorders and administration site conditions: chills, edema, edema peripheral, pain, pyrexia
 
-Metabolic and Nutritional: edema, gout, hyperglycemia, iron deficiency anemia and peripheral edema.
+Immune system disorders: hypersensitivity
 
-Musculoskeletal: arthralgia, arthritis, bone pain, myalgia and pathological fracture.
+Infections and infestations: bronchitis, gingivitis, infection, pharyngitis, rhinitis, sepsis, sinusitis, urinary tract infection
 
-Nervous: agitation, anxiety, confusion, dry mouth, hypertonia, hypesthesia, nervousness, neuralgia, personality disorder, tremor, and vasodilation.
+Injury, poisoning and procedural complications: injury
 
-Respiratory: bronchitis, cough increased, dyspnea, epistaxis, laryngismus, lung disorder, pharyngitis, rhinitis, and sinusitis.
+Metabolism and nutrition disorders: decreased appetite, gout, hyperglycemia
 
-Skin and Appendages: herpes simplex, rash, sweating, and urticaria.
+Musculoskeletal and connective tissue disorders: arthralgia, arthritis, back pain, bone pain, myalgia, neck pain, pathological fracture
 
-Special Senses: amblyopia.
+Nervous system disorders: hypertonia, hypoesthesia, migraine, neuralgia, tremor, vasodilation
 
-Urogenital: urinary tract infection.
+Psychiatric disorders: agitation, anxiety, confusional state, nervousness, personality disorder
 
-Postmarketing Experience: Review of postmarketing reports showed the occurrence of the following adverse events:
+Respiratory, thoracic and mediastinal disorders: cough, dyspnea, epistaxis, laryngospasm, lung disorder
 
-Cardiac disorders: myocardial ischemia and ventricular fibrillation with overdose General disorders and administrative site disorders: drug withdrawal syndrome neonatal Immune system disorders: anaphylactic reactions Respiratory, thoracic and mediastinal disorders: pharyngeal edema
+Skin and subcutaneous tissue disorders: photosensitivity reaction, rash, hyperhidrosis, urticaria
+
+Vascular disorders: thrombophlebitis, hemorrhage, hypotension, vasodilatation
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of oxycodone.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+General disorders and administrative site disorders: drug withdrawal syndrome neonatal [see Warnings and Precautions (5.3)]
+
+Respiratory, thoracic and mediastinal disorders: pharyngeal edema
+
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs [see Drug Interactions (7)].
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use [see Warnings and Precautions (5.7)].
+
+Anaphylaxis: Anaphylactic reaction has been reported with ingredients contained in ROXICODONE [see Contraindications (4)].
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

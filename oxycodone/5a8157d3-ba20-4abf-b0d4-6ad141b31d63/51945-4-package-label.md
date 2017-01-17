@@ -17,9 +17,7 @@ Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
 Mallinckrodt Pharmaceuticals™
 
-1038A-10
-
-Rev 07/2013
+1038A-10 Rev 07/2013
 
 # PRINCIPAL DISPLAY PANEL - 15 mg
 
@@ -31,16 +29,15 @@ ROXICODONE® Oxycodone Hydrochloride Tablets USP CII
 
 Rx Only
 
-15 mg See package insert for complete prescribing information.
-Store at 25ºC (77ºF) excursions are permitted to 15º-30ºC (59º-86ºF) [See USP Controlled Room Temperature] PROTECT FROM MOISTURE Dispense in a well-closed container as defined in the USP/NF.
+15 mg
 
-ROXICODONE is a registered trademark of Mallinckrodt LLC.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
-Mallinckrodt Pharmaceuticals™
+Mallinckrodt™
 
-960B10 Rev 08/2012
+960B10 Rev 12/2016
 
 # PRINCIPAL DISPLAY PANEL - 30 mg
 
@@ -52,13 +49,12 @@ ROXICODONE® Oxycodone Hydrochloride Tablets USP CII
 
 Rx Only
 
-30 mg See package insert for complete prescribing information.
-Store at 25ºC (77ºF) excursions are permitted to 15º-30ºC (59º-86ºF) [See USP Controlled Room Temperature] PROTECT FROM MOISTURE Dispense in a well-closed container as defined in the USP/NF.
+30 mg
 
-ROXICODONE is a registered trademark of Mallinckrodt LLC.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
-Mallinckrodt Pharmaceuticals™
+Mallinckrodt™
 
-961B10 Rev 08/2012
+961B10 Rev 12/2016

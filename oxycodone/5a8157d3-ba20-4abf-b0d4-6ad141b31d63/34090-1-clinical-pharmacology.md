@@ -1,57 +1,68 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Pharmacology:
+## 12.1 Mechanism of Action
 
-The analgesic ingredient, oxycodone, is a semi-synthetic narcotic with multiple actions qualitatively similar to those of morphine; the most prominent of these involves the central nervous system and organs composed of smooth muscle.
+Oxycodone is a full opioid agonist and is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses.
+The principal therapeutic action of oxycodone is analgesia.
+Like all full opioid agonists, there is no ceiling effect for analgesia with oxycodone.
+Clinically, dosage is titrated to provide adequate analgesia and may be limited by adverse reactions, including respiratory and CNS depression.
 
-Oxycodone, as the hydrochloride salt, is a pure agonist opioid whose principal therapeutic action is analgesia and has been in clinical use since 1917.
-Like all pure opioid agonists, there is no ceiling effect to analgesia, such as is seen with partial agonists or non-opioid analgesics.
-Based upon a single-dose, relative-potency study conducted in humans with cancer pain, 10 to 15 mg of oxycodone given intramuscularly produced an analgesic effect similar to 10 mg of morphine given intramuscularly.
-Both drugs have a 3 to 4 hour duration of action.
-Oxycodone retains approximately one half of its analgesic activity when administered orally.
+The precise mechanism of the analgesic action is unknown.
+However, specific CNS opioid receptors for endogenous compounds with opioid-like activity have been identified throughout the brain and spinal cord and are thought to play a role in the analgesic effects of this drug.
 
-Effects on Central Nervous System: The precise mechanism of the analgesic action is unknown.
-However, specific CNS opioid receptors for endogenous compounds with opioid-like activity have been identified throughout the brain and spinal cord and play a role in the analgesic effects of this drug.
-A significant feature of opioid-induced analgesia is that it occurs without loss of consciousness.
-The relief of pain by morphine-like opioids is relatively selective, in that other sensory modalities, (e.g., touch, vibrations, vision, hearing, etc.) are not obtunded.
+## 12.2 Pharmacodynamics
+
+Effects on Central Nervous System
 
 Oxycodone produces respiratory depression by direct action on brain stem respiratory centers.
-The respiratory depression involves both a reduction in the responsiveness of the brain stem respiratory centers to increases in carbon dioxide tension and to electrical stimulation.
+The respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.
 
-Oxycodone depresses the cough reflex by direct effect on the cough center in the medulla.
-Antitussive effects may occur with doses lower than those usually required for analgesia.
 Oxycodone causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
 Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situations.
 
-Effects on Gastrointestinal Tract And Other Smooth Muscle: Oxycodone, like other opioid analgesics, produces some degree of nausea and vomiting which is caused by direct stimulation of the chemoreceptor trigger zone (CTZ) located in the medulla.
-The frequency and severity of emesis gradually diminishes with time.
+Effects on Gastrointestinal Tract And Other Smooth Muscle
 
-Oxycodone may cause a decrease in the secretion of hydrochloric acid in the stomach that reduces motility while increasing the tone of the antrum, stomach, and duodenum.
+Oxycodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
-Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm resulting in constipation.
+Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
 Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
 
-Effects on Cardiovascular System: Oxycodone, in therapeutic doses, produces peripheral vasodilatation (arteriolar and venous), decreased peripheral resistance, and inhibits baroreceptor reflexes.
+Effects on Cardiovascular System
+
+Oxycodone produces peripheral vasodilatation, which may result in orthostatic hypotension or syncope.
 Manifestations of histamine release and/or peripheral vasodilatation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 
-Caution should be used in hypovolemic patients, such as those suffering acute myocardial infarction, because oxycodone may cause or further aggravate their hypotension.
-Caution should also be used in patients with cor pulmonale who received therapeutic doses of opioids.
+Effects on the Endocrine System
 
-## Pharmacodynamics:
+Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
+They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-The relationship between the plasma level of oxycodone and the analgesic response will depend on the patient’s age, state of health, medical condition and extent of previous opioid treatment.
+Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
-The minimum effective plasma concentration of oxycodone to achieve analgesia will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-Thus, patients need to be treated with individualized titration of dosage to the desired effect.
-The minimum effective analgesic concentration of oxycodone for any individual patient may increase with repeated dosing due to an increase in pain and/or development of tolerance.
+Effects on the Immune System
 
-## Pharmacokinetics:
+Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
+The clinical significance of these findings is unknown.
+Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-The activity of ROXICODONE® (oxycodone hydrochloride) tablets is primarily due to the parent drug oxycodone.
-ROXICODONE® tablets are designed to provide immediate release of oxycodone.
+Concentration-Efficacy Relationships
 
-| Table 1Pharmacokinetic Parameters (Mean±SD) |  |  |  |  |  |  |
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
+
+Concentration-Adverse Reaction Relationships
+
+There is a relationship between increasing oxycodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+
+## 12.3 Pharmacokinetics
+
+The activity of ROXICODONE (oxycodone hydrochloride) tablets is primarily due to the parent drug oxycodone.
+ROXICODONE tablets are designed to provide immediate release of oxycodone.
+
+| Table 2:Pharmacokinetic Parameters (Mean±SD) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Dose\Parameters | AUC (ngxhr/mL) | Cmax (ng/mL) | Tmax (hr) | Cmin (ng/mL) | Cavg (ng/mL) | Half-Life (hr) |
 | Single Dose Pharmacokinetics |  |  |  |  |  |  |
@@ -66,48 +77,58 @@ ROXICODONE® tablets are designed to provide immediate release of oxycodone.
 | ROXICODONE 5 mg tabs q6h x 14 doses | 113.3±24.0 | 15.7±3.2 | 1.3±0.3 | 7.4±1.8 | 9.4±2.0 | n/a |
 | ROXICODONE 3.33 mg (3.33 mL) oral sol’n. q4h x 21 doses | 99.0±24.8 | 12.9±3.1 | 1.0±0.3 | 7.2±2.3 | 9.7±2.6 | n/a |
 
-Absorption: About 60% to 87% of an oral dose of oxycodone reaches the systemic circulation in comparison to a parenteral dose.
-This high oral bioavailability (compared to other oral opioids) is due to lower presystemic and/or first-pass metabolism of oxycodone.
-The relative oral bioavailability of ROXICODONE® 15 mg and 30 mg tablets, compared to the 5 mg ROXICODONE® tablets, is 96% and 101% respectively.
-ROXICODONE® 15 mg tablets and 30 mg tablets are bioequivalent to the 5 mg ROXICODONE® tablet (see Table 1 for pharmacokinetic parameters).
-Dose proportionality of oxycodone has been established using the ROXICODONE® 5 mg tablets at doses of 5 mg, 15 mg (three 5 mg tablets) and 30 mg (six 5 mg tablets) based on extent of absorption (AUC) (see Figure 1).
-It takes approximately 18 to 24 hours to reach steady-state plasma concentrations of oxycodone with ROXICODONE®.
+Absorption
 
-Food Effect: A single-dose food effect study was conducted in normal volunteers using the 5 mg/5 mL solution.
-The concurrent intake of a high fat meal was shown to enhance the extent (27% increase in AUC), but not the rate of oxycodone absorption from the oral solution (see Table 1).
+About 60% to 87% of an oral dose of oxycodone reaches the systemic circulation in comparison to a parenteral dose.
+This high oral bioavailability (compared to other oral opioids) is due to lower presystemic and/or first-pass metabolism of oxycodone.
+The relative oral bioavailability of ROXICODONE 15 mg and 30 mg tablets, compared to the 5 mg ROXICODONE tablets, is 96% and 101% respectively.
+ROXICODONE 15 mg tablets and 30 mg tablets are bioequivalent to the 5 mg ROXICODONE tablet (see Table 2 for pharmacokinetic parameters).
+Dose proportionality of oxycodone has been established using the ROXICODONE 5 mg tablets at doses of 5 mg, 15 mg (three 5 mg tablets) and 30 mg (six 5 mg tablets) based on extent of absorption (AUC) (see Figure 1).
+It takes approximately 18 to 24 hours to reach steady-state plasma concentrations of oxycodone with ROXICODONE.
+
+Food Effect
+
+A single-dose food effect study was conducted in normal volunteers using the 5 mg/5 mL solution.
+The concurrent intake of a high fat meal was shown to enhance the extent (27% increase in AUC), but not the rate of oxycodone absorption from the oral solution (see Table 2).
 In addition, food caused a delay in Tmax (1.25 to 2.54 hour).
 Similar effects of food are expected with the 15 mg and 30 mg tablets.
 
-Distribution: Following intravenous administration, the volume of distribution (Vss) for oxycodone was 2.6 L/kg.
-Plasma protein binding of oxycodone at 37°C and a pH of 7.4 was about 45%.
-Oxycodone has been found in breast milk (see PRECAUTIONS-Nursing Mothers).
+Distribution
 
-Metabolism: Oxycodone hydrochloride is extensively metabolized to noroxycodone, oxymorphone, and their glucuronides.
+Following intravenous administration, the volume of distribution (Vss) for oxycodone was 2.6 L/kg.
+Plasma protein binding of oxycodone at 37°C and a pH of 7.4 was about 45%.
+Oxycodone has been found in breast milk [see Special Populations (8.2)].
+
+Elimination
+
+Metabolism
+
+A high portion of oxycodone is N-dealkylated to noroxycodone during first-pass metabolism, and is catalyzed by CYP3A4.
+Oxymorphone is formed by the O-demethylation of oxycodone.
+The metabolism of oxycodone to oxymorphone is catalyzed by CYP2D6 [see Drug Interactions (7)].
+Free and conjugated noroxycodone, free and conjugated oxycodone, and oxymorphone are excreted in human urine following a single oral dose of oxycodone.
 The major circulating metabolite is noroxycodone with an AUC ratio of 0.6 relative to that of oxycodone.
 Oxymorphone is present in the plasma only in low concentrations.
 The analgesic activity profile of other metabolites is not known at present.
 
-The formation of oxymorphone, but not noroxycodone, is mediated by CYP2D6 and as such its formation can, in theory, be affected by other drugs (see PRECAUTIONS-Drug Interactions).
+Excretion
 
-Elimination: Oxycodone and its metabolites are excreted primarily via the kidney.
+Oxycodone and its metabolites are excreted primarily via the kidney.
 The amounts measured in the urine have been reported as follows: free oxycodone up to 19%; conjugated oxycodone up to 50%; free oxymorphone 0%; conjugated oxymorphone ≤ 14%; both free and conjugated noroxycodone have been found in the urine but not quantified.
 The total plasma clearance was 0.8 L/min for adults.
-Apparent elimination half-life of oxycodone following the administration of ROXICODONE® was 3.5 to 4 hours.
+Apparent elimination half-life of oxycodone following the administration of ROXICODONE was 3.5 to 4 hours.
 
-Special Populations:
+Specific Populations
 
-Geriatric: Population pharmacokinetic studies conducted with ROXICODONE®, indicated that the plasma concentrations of oxycodone did not appear to be increased in patients over the age of 65.
+Age: Geriatric Population
 
-Gender: Population pharmacokinetic analyses performed in the clinical study support the lack of gender effect on the pharmacokinetics of oxycodone from ROXICODONE®.
+Population pharmacokinetic studies conducted with ROXICODONE, indicated that the plasma concentrations of oxycodone did not appear to be increased in patients over the age of 65.
 
-Race: Population pharmacokinetic analyses support the lack of race effect on oxycodone pharmacokinetics after administration of ROXICODONE®, but these data should be interpreted conservatively, since the majority of patients enrolled into the studies were Caucasians (94%).
+Hepatic Impairment
 
-Renal Insufficiency: In a clinical trial supporting the development of ROXICODONE®, too few patients with decreased renal function were evaluated to study these potential differences.
-In previous studies, patients with renal impairment (defined as a creatinine clearance < 60 mL/min) had concentrations of oxycodone in the plasma that were higher than in subjects with normal renal function.
-Based on information available on the metabolism and excretion of oxycodone, dose initiation in patients with renal impairment should follow a conservative approach.
-Dosages should be adjusted according to the clinical situation.
+In a clinical trial supporting the development of ROXICODONE, too few patients with decreased hepatic function were evaluated to study these potential differences.
+However, because oxycodone is extensively metabolized in the liver, its clearance may decrease in hepatic impaired patients [see Use in Specific Populations (8.6)].
 
-Hepatic Failure: In a clinical trial supporting the development of ROXICODONE®, too few patients with decreased hepatic function were evaluated to study these potential differences.
-However, since oxycodone is extensively metabolized, its clearance may decrease in hepatic failure patients.
-Dose initiation in patients with hepatic impairment should follow a conservative approach.
-Dosages should be adjusted according to the clinical situation.
+Renal Impairment
+
+This drug is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function [see Use in Specific Populations (8.7)].
