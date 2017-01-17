@@ -5,8 +5,8 @@ One strip contains umeclidinium (62.5 mcg per blister), and the other strip cont
 A blister from each strip is used to create 1 dose.
 The inhaler is packaged in a moisture-protective foil tray with a desiccant and a peelable lid in the following packs:
 
-- NDC 0173-0869-10 30 inhalations (60 blisters)
-- NDC 0173-0869-06 7 inhalations (14 blisters), institutional pack
+1. NDC 0173-0869-10 30 inhalations (60 blisters)
+2. NDC 0173-0869-06 7 inhalations (14 blisters), institutional pack
 
 Store at room temperature between 68°F and 77°F (20°C and 25°C); excursions permitted from 59°F to 86°F (15°C to 30°C) [See USP Controlled Room Temperature].
 Store in a dry place away from direct heat or sunlight.
