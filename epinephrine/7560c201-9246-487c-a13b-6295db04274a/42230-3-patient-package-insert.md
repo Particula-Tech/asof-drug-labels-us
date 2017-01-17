@@ -388,4 +388,4 @@ EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclus
 Copyright © 2016 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: April 2016 MS:EPIT:R2 0001929
+Revised: May 2016 MS:EPIT:R3 0001947
