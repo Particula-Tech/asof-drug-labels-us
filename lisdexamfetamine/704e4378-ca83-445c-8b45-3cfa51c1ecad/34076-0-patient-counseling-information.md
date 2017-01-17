@@ -37,6 +37,15 @@ Instruct patients to report to their physician any new numbness, pain, skin colo
 Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking VYVANSE.
 Further clinical evaluation (e.g. rheumatology referral) may be appropriate for certain patients [see Warnings and Precautions (5.6)].
 
+Serotonin Syndrome
+
+Caution patients about the risk of serotonin syndrome with concomitant use of VYVANSE and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see Contraindications (4), Warnings and Precautions (5.7) and Drug Interactions (7.1)].
+Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
+
+Concomitant Medications
+
+Advise patients to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs because there is a potential for interactions [see Drug Interactions (7.1)].
+
 Pregnancy
 
 Advise patients of the potential fetal effects from the use of VYVANSE during pregnancy.

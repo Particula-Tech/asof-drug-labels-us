@@ -4,5 +4,4 @@ VYVANSE is contraindicated in patients with:
 
 - Known hypersensitivity to amphetamine products or other ingredients of VYVANSE.
   Anaphylactic reactions, Stevens-Johnson Syndrome, angioedema, and urticaria have been observed in postmarketing reports [see Adverse Reactions (6.2)].
-- Concurrent administration of monoamine oxidase inhibitors (MAOI) or administration of VYVANSE within 14 days of the last MAOI dose.
-  Hypertensive crisis can occur [see Drug Interactions (7.2)].
+- Patients taking monoamine oxidase inhibitors (MAOIs), or within 14 days of stopping MAOIs (including MAOIs such as linezolid or intravenous methylene blue), because of an increased risk of hypertensive crisis [see Warnings and Precautions (5.7) and Drug Interactions (7.1)].

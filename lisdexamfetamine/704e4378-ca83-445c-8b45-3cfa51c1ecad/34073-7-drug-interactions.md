@@ -9,6 +9,14 @@ Table 5 Drugs having clinically important interactions with amphetamines.
 | Clinical Impact | MAOI antidepressants slow amphetamine metabolism, increasing amphetamines effect on the release of norepinephrine and other monoamines from adrenergic nerve endings causing headaches and other signs of hypertensive crisis. Toxic neurological effects and malignant hyperpyrexia can occur, sometimes with fatal results. |
 | Intervention | Do not administer VYVANSE during or within 14 days following the administration of MAOI [see Contraindications (4)]. |
 | Examples | selegiline, isocarboxazid, phenelzine, tranylcypromine |
+| Serotonergic Drugs |  |
+| Clinical Impact | The concomitant use of VYVANSE and serotonergic drugs increases the risk of serotonin syndrome. |
+| Intervention | Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during VYVANSE initiation or dosage increase. If serotonin syndrome occurs, discontinue VYVANSE and the concomitant serotonergic drug(s) [see Warnings and Precautions (5.7)]. |
+| Examples | selective serotonin reuptake inhibitors (SSRI), serotonin norepinephrine reuptake inhibitors (SNRI), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort |
+| CYP2D6 Inhibitors |  |
+| Clinical Impact | The concomitant use of VYVANSE and CYP2D6 inhibitors may increase the exposure of dextroamphetamine, the active metabolite of VYVANSE compared to the use of the drug alone and increase the risk of serotonin syndrome. |
+| Intervention | Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during VYVANSE initiation and after a dosage increase. If serotonin syndrome occurs, discontinue VYVANSE and the CYP2D6 inhibitor [see Warnings and Precautions (5.7) and Overdosage (10)]. |
+| Examples | paroxetine and fluoxetine (also serotonergic drugs), quinidine, ritonavir |
 | Alkalinizing Agents |  |
 | Clinical Impact | Urinary alkalinizing agents can increase blood levels and potentiate the action of amphetamine. |
 | Intervention | Co-administration of VYVANSE and urinary alkalinizing agents should be avoided. |
