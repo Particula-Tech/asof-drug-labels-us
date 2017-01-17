@@ -1,11 +1,11 @@
 # INDICATIONS AND USAGE
 
-Citalopram Oral Solution USP is indicated for the treatment of depression.
+Citalopram oral solution is indicated for the treatment of depression.
 
-The efficacy of Citalopram Oral Solution USP in the treatment of depression was established in 4 to 6 week, controlled trials of outpatients whose diagnosis corresponded most closely to the DSM-III and DSM-III-R category of major depressive disorder (see CLINICAL PHARMACOLOGY).
+The efficacy of citalopram oral solution in the treatment of depression was established in 4 to 6 week, controlled trials of outpatients whose diagnosis corresponded most closely to the DSM-III and DSM-III-R category of major depressive disorder (see CLINICAL PHARMACOLOGY).
 
 A major depressive episode (DSM-IV) implies a prominent and relatively persistent (nearly every day for at least 2 weeks) depressed or dysphoric mood that usually interferes with daily functioning, and includes at least five of the following nine symptoms: depressed mood, loss of interest in usual activities, significant change in weight and/or appetite, insomnia or hypersomnia, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, a suicide attempt or suicidal ideation.
-The antidepressant action of Citalopram Oral Solution USP in hospitalized depressed patients has not been adequately studied.
+The antidepressant action of citalopram oral solution in hospitalized depressed patients has not been adequately studied.
 
-The efficacy of Citalopram Oral Solution USP in maintaining an antidepressant response for up to 24 weeks following 6 to 8 weeks of acute treatment was demonstrated in two placebo-controlled trials (see CLINICAL PHARMACOLOGY).
-Nevertheless, the physician who elects to use Citalopram Oral Solution USP for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
+The efficacy of citalopram oral solution in maintaining an antidepressant response for up to 24 weeks following 6 to 8 weeks of acute treatment was demonstrated in two placebo-controlled trials (see CLINICAL PHARMACOLOGY).
+Nevertheless, the physician who elects to use citalopram oral solution for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.

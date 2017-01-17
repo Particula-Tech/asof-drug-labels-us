@@ -40,8 +40,7 @@ Population Subgroups
 
 Age: Citalopram pharmacokinetics in subjects ≥60 years of age were compared to younger subjects in two normal volunteer studies.
 In a single-dose study, citalopram AUC and half-life were increased in the subjects ≥ 60 years old by 30% and 50%, respectively, whereas in a multiple-dose study they were increased by 23% and 30%, respectively.
-20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION).
-20 mg/day is the maximum recommended dose for those who are CYP2C19 poor metabolizers or who are also taking a CYP2C19 inhibitor such as cimetidine, due to the risk of QT prolongation.
+20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION), due to the risk of QT prolongation.
 
 Gender: In three pharmacokinetic studies (total N=32), citalopram AUC in women was one and a half to two times that in men.
 This difference was not observed in five other pharmacokinetic studies (total N=114).

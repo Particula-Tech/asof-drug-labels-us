@@ -50,7 +50,7 @@ Citalopram causes dose-dependent QTc prolongation, an ECG abnormality that has b
 
 Individually corrected QTc (QTcNi) interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 119 healthy subjects.
 The maximum mean (upper bound of the 95% one-sided confidence interval) difference from placebo were 8.5 (10.8) and 18.5 (21) msec or 20 mg and 60 mg citalopram, respectively.
-Basedon the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the Cmax for the dose of 40 mg is 12.6 (14.3) msec.
+Based on the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the Cmax for the dose of 40 mg is 12.6 (14.3) msec.
 
 Because of the risk of QTc prolongation at higher citalopram doses, it is recommended that citalopram should not begiven at doses above 40 mg/day.
 
@@ -156,7 +156,7 @@ Because any psychoactive drug may impair judgment, thinking, or motor skills, ho
 Use in Patients with Concomitant Illness
 
 Clinical experience with citalopram in patients with certain concomitant systemic illnesses is limited.
-Due to the risk of QT prolongation, citalopram must be used in such patients.
+Due to the risk of QT prolongation, citalopram use should be avoided in patients with certain cardiac conditions, and ECG monitoring is advised if citalopram must be used in such patients.
 Electrolytes should be monitored in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia (see WARNINGS).
 
 In subjects with hepatic impairment, citalopram clearance was decreased and plasma concentrations were increased.
@@ -189,7 +189,7 @@ Prescribers or other health professionals should inform patients, their families
 A patient Medication Guide about "Antidepressants Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for citalopram.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
+The complete text of the Medication Guide is reprinted with this document.
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking citalopram.
 
@@ -251,7 +251,7 @@ In subjects who had received 21 days of 40 mg/day citalopram, combined administr
 
 Lithium
 
-Co-administration of citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.
+Coadministration of citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.
 Nevertheless, plasma lithium levels should be monitored with appropriate adjustment to the lithium dose in accordance with standard clinical practice.
 Because lithium may enhance the serotonergic effects of citalopram, caution should be exercised when citalopram and lithium are coadministered.
 
@@ -297,12 +297,12 @@ Metoprolol
 
 Administration of 40 mg/day citalopram for 22 days resulted in a two-fold increase in the plasma levels of the beta-adrenergic blocker metoprolol.
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
-Co-administration of citalopram and metoprolol had no clinically significant effects on blood pressure or heart rate.
+Coadministration of citalopram and metoprolol had no clinically significant effects on blood pressure or heart rate.
 
 Imipramine and Other Tricyclic Antidepressants (TCAs)
 
 In vitro studies suggest that citalopram is a relatively weak inhibitor of CYP2D6.
-Co-administration of citalopram (40 mg/day for 10 days) with the TCA imipramine (single dose of 100 mg), a substrate for CYP2D6, did not significantly affect the plasma concentrations of imipramine or citalopram.
+Coadministration of citalopram (40 mg/day for 10 days) with the TCA imipramine (single dose of 100 mg), a substrate for CYP2D6, did not significantly affect the plasma concentrations of imipramine or citalopram.
 However, the concentration of the imipramine metabolite desipramine was increased by approximately 50%.
 The clinical significance of the desipramine change is unknown.
 Nevertheless, caution is indicated in the co-administration of TCA’s with citalopram.

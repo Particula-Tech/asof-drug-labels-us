@@ -54,8 +54,7 @@ TABLE 3: Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clin
 
 |  | (Percentage of Patients Reporting Event) |  |
 | --- | --- | --- |
-| Body System/Adverse Event | Citalopram(N=1,063) | Placebo |
-| (N=446) |  |  |
+| Body System/Adverse Event | Citalopram (N=1,063) | Placebo(N=446) |
 | Autonomic Nervous System Disorders |  |  |
 | Dry Mouth | 20% | 14% |
 | Sweating Increased | 11% | 9% |
@@ -124,7 +123,7 @@ Vital Sign Changes
 
 Citalopram and placebo groups were compared with respect to (1) mean change from baseline in vital signs (pulse, systolic blood pressure, and diastolic blood pressure) and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
 These analyses did not reveal any clinically important changes in vital signs associated with citalopram treatment.
-In addition, a comparison of supine and standing vital sign measures for citalopram and placebo treatments indicated that citalopram is not associated with orthostatic changes.
+In addition, a comparison of supine and standing vital sign measures for citalopram and placebo treatments indicated that citalopram treatment is not associated with orthostatic changes.
 
 Weight Changes
 
@@ -208,4 +207,4 @@ Rare: facial edema, hematuria, oliguria, pyelonephritis, renal calculus, renal p
 ## Other Events Observed During the Postmarketing Evaluation of Citalopram
 
 It is estimated that over 30 million patients have been treated with citalopram since market introduction.
-Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, angle-closure glaucoma, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, neuroleptic malignant syndrome, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsade de pointes, and withdrawal syndrome.
+Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, angle-closure glaucoma, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsade de pointes, and withdrawal syndrome.

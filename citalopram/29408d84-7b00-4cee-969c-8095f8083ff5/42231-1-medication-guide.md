@@ -6,7 +6,7 @@ Citalopram Oral Solution USP
 
 Rx only
 
-Read the Medication Guide that comes with Citalopram Oral Solution USP before you start taking it and each time you get a refill.
+Read the Medication Guide that comes with citalopram oral solution before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
@@ -91,8 +91,7 @@ Changes in appetite or weight.
 Children and adolescents should have height and weight monitored during treatment.
 
 9.
-Low salt (sodium) levels in the blood.
-Elderly people may be at greater risk for this.
+Low salt (sodium) levels in the blood.Elderly people may be at greater risk for this.
 Symptoms may include:
 
 - •headache
@@ -130,7 +129,7 @@ Do not take citalopram if you:
 
 - •are allergic to citalopram or escitalopram oxalate or any of the ingredients in citalopram oral solution.
   See the end of this Medication Guide for a complete list of ingredients in Citalopram Oral Solution USP.
-- •If you take a monoamine oxidase inhibitor (MAOI).
+- •If you take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - •Do not take an MAOI within 2 weeks of stopping citalopram unless directed to do so by your physician.
 - •Do not start citalopram if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
@@ -261,9 +260,9 @@ You may ask your healthcare provider or pharmacist for information about citalop
 
 For more information about citalopram call 1-800-962-8364.
 
-What are the ingredients of citalopram?
+What are the ingredients in citalopram oral solution?
 
-Active ingredient: citalopram hydrobromide
+Active ingredient: citalopram hydrobromide USP
 
 Inactive ingredients: methylparaben, peppermint stick, propylene glycol, propylparaben, purified water, and sorbitol solution
 
