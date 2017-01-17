@@ -19,7 +19,7 @@ Following oral administration of Methylin Chewable Tablets, peak plasma methylph
 Methylin Chewable Tablets have been shown to be bioequivalent to Ritalin® tablet.
 The mean Cmax following a 20 mg dose is approximately 10 ng/mL.
 
-#### Food Effect
+Food Effect
 
 In a study in adult volunteers investigating the effects of a high-fat meal on the bioavailability of Methylin Chewable Tablets at a dose of 20 mg, the presence of food delayed the peak concentrations by approximately 1 hour (1.5 hours, fasted and 2.4 hours, fed).
 Overall, a high-fat meal increased the AUC of Methylin Chewable Tablets by about 20%, on average.

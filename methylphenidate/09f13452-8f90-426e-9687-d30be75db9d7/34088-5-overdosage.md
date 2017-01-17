@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Signs and symptoms of acute overdosage, resulting principally from overstimulation of the central nervous system and from excessive sympathomimetic effects, may include the following: vomiting, agitation, tremors, hyperreflexia, muscle twitching, convulsions (may be followed by coma), euphoria, confusion, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, mydriasis, and dryness of mucous membranes.
+Signs and symptoms of acute overdosage, resulting principally from overstimulation of the central nervous system and from excessive sympathomimetic effects, may include the following: vomiting, agitation, tremors, hyperreflexia, muscle twitching, convulsions (may be followed by coma), euphoria, confusion, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, mydriasis, dryness of mucous membranes, and rhabdomyolysis.
 
 Consult with a Certified Poison Control Center regarding treatment for up-to-date guidance and advice.
 

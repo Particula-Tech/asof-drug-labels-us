@@ -25,7 +25,7 @@ Chewable Tablets: Start with 5 mg twice daily (before breakfast and lunch) with 
 
 If paradoxical aggravation of symptoms or other adverse effects occur, reduce dosage, or, if necessary, discontinue the drug.
 
-Methylin should be periodically discontinued to assess the child's condition.
+Methylin should be periodically discontinued to assess the child’s condition.
 Improvement may be sustained when the drug is either temporarily or permanently discontinued.
 
 Drug treatment should not and need not be indefinite and usually may be discontinued after puberty.

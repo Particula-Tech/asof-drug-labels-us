@@ -15,7 +15,7 @@ Bottles of 100.........NDC 59630-762-10
 Protect from moisture.
 Dispense in tight container with child-resistant closure.
 
-Storage: Store at 20º to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Storage: Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Methylin is a trademark of Mallinckrodt LLC.
 
@@ -25,4 +25,8 @@ Distributed by: Shionogi Inc. Florham Park, NJ 07932
 
 Manufactured by: Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-MCT-PI-04 L20M18 Rev 12/2013
+MCT-PI-04
+
+L20M18
+
+Rev 09/2016
