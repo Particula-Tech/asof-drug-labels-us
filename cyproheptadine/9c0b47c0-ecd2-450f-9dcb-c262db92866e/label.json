@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA206553"
+  ],
+  "inn": "cyproheptadine",
+  "labeler": "Trupharma, Llc",
+  "package_ndcs": [
+    "52817-210-10",
+    "52817-210-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "cyproheptadine hydrochloride",
+      "name": "Cyproheptadine Hydrochloride"
+    }
+  ],
+  "setid": "9c0b47c0-ecd2-450f-9dcb-c262db92866e",
+  "source": "dailymed"
+}
