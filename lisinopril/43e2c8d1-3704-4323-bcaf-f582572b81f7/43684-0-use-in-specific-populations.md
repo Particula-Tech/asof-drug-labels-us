@@ -2,29 +2,41 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D
+Risk Summary
 
+Lisinopril can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
-Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
-Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue lisinopril as soon as possible.
-These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
+When pregnancy is detected, discontinue lisinopril tablets as soon as possible.
 
-Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
+In the general U.S. population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage).
+Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
+Pregnant women with hypertension should be carefully monitored and managed accordingly.
+
+Fetal/Neonatal Adverse Reactions
+
+Oligohydramnios in pregnant women who use drugs affecting the renin-angiotensin system in the second and third trimesters of pregnancy can result in the following: reduced fetal renal function leading to anuria and renal failure, fetal lung hypoplasia and skeletal deformations, including skull hypoplasia, hypotension, and death.
 In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
+
 Perform serial ultrasound examinations to assess the intra-amniotic environment.
-If oligohydramnios is observed, discontinue lisinopril, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to lisinopril for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
+Closely observe infants with histories of in utero exposure to lisinopril for hypotension, oliguria, and hyperkalemia.
+If oliguria or hypotension occur in neonates with a history of in utero exposure to lisinopril, support blood pressure and renal perfusion.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and substituting for disordered renal function.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Milk of lactating rats contains radioactivity following administration of 14C lisinopril.
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from ACE inhibitors, a decision should be made whether to discontinue nursing or discontinue lisinopril, taking into account the importance of the drug to the mother.
+Risk Summary No data are available regarding the presence of lisinopril in human milk or the effects of lisinopril on the breast fed infant or on milk production.
+Lisinopril is present in rat milk.
+Because of the potential for severe adverse reactions in the breastfed infant, advise women not to breastfeed during treatment with lisinopril.
 
 ## 8.4 Pediatric Use
 
@@ -51,5 +63,5 @@ ACE inhibitors, including lisinopril, have an effect on blood pressure that is l
 
 ## 8.7 Renal Impairment
 
-Dose adjustment of lisinopril is required in patients undergoing hemodialysis or whose creatinine clearance is less than of equal to 30 mL/min.
+Dose adjustment of lisinopril is required in patients undergoing hemodialysis or whose creatinine clearance is less than or equal to 30 mL/min.
 No dose adjustment of lisinopril is required in patients with creatinine clearance greater than 30 mL/min [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

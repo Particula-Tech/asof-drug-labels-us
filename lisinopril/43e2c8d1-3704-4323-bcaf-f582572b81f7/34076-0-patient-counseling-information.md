@@ -3,12 +3,13 @@
 NOTE: This information is intended to aid in the safe and effective use of this medication.
 It is not a disclosure of all possible adverse or intended effects.
 
-Pregnancy: Tell female patients of childbearing age about the consequences of exposure to lisinopril tablets, USP during pregnancy.
-Discuss treatment options with women planning to become pregnant.
-Tell patients to report pregnancies to their physicians as soon as possible.
+Pregnancy: Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+Advise females of reproductive potential to notify their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 
-Angioedema: Angioedema, including laryngeal edema may occur at any time during treatment with angiotensin converting enzyme inhibitors, including lisinopril tablets, USP.
+Angioedema: Angioedema, including laryngeal edema may occur at any time during treatment with angiotensin converting enzyme inhibitors, including lisinopril tablets.
 Tell patients to report immediately any signs or symptoms suggesting angioedema (swelling of face, extremities, eyes, lips, tongue, difficulty in swallowing or breathing) and to take no more drug until they have consulted with the prescribing physician.
+
+Lactation: Advise women not to breastfeed during treatment with lisinopril [see Use in Specific Populations (8.2)].
 
 Symptomatic Hypotension: Tell patients to report light-headedness especially during the first few days of therapy.
 If actual syncope occurs, tell the patient to discontinue the drug until they have consulted with the prescribing physician.
@@ -27,4 +28,4 @@ Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: November 2015
+Revised: June 2016

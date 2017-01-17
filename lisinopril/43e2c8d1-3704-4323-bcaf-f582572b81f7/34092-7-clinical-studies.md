@@ -39,7 +39,7 @@ During baseline-controlled clinical trials, in patients with systolic heart fail
 
 ## 14.3 Acute Myocardial Infarction
 
-The Gruppo Italiano per lo Studio della Sopravvienza nell’Infarto Miocardico (GISSI-3) study was a multicenter, controlled, randomized, unblinded clinical trial conducted in 19,394 patients with acute myocardial infarction (MI) admitted to a coronary care unit.
+The Gruppo Italiano per lo Studio della Sopravvivenza nell’Infarto Miocardico (GISSI-3) study was a multicenter, controlled, randomized, unblinded clinical trial conducted in 19,394 patients with acute myocardial infarction (MI) admitted to a coronary care unit.
 It was designed to examine the effects of short-term (6 week) treatment with lisinopril, nitrates, their combination, or no therapy on short-term (6 week) mortality and on long-term death and markedly impaired cardiac function.
 Hemodynamically- stable patients presenting within 24 hours of the onset of symptoms were randomized, in a 2 x 2 factorial design, to six weeks of either 1) lisinopril alone (n=4841), 2) nitrates alone (n=4869), 3) lisinopril plus nitrates (n=4841), or 4) open control (n=4843).
 All patients received routine therapies, including thrombolytics (72%), aspirin (84%), and a beta blocker (31%), as appropriate, normally utilized in acute myocardial infarction (MI) patients.

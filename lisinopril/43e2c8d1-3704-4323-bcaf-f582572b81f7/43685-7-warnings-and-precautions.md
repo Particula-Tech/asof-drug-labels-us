@@ -2,14 +2,15 @@
 
 ## 5.1 Fetal Toxicity
 
-Pregnancy Category D
-
+Lisinopril tablets can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue lisinopril tablets as soon as possible [see Use in specific Populations (8.1)].
 
 ## 5.2 Angioedema and Anaphylactoid Reactions
+
+Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema [see Drug Interactions (7.7)].
 
 Angioedema
 
@@ -21,8 +22,6 @@ Lisinopril tablets should be promptly discontinued and appropriate therapy and m
 
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor [see Contraindications (4)].
 ACE inhibitors have been associated with a higher rate of angioedema in Black than in non-Black patients.
-
-Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
 
 Intestinal Angioedema
 

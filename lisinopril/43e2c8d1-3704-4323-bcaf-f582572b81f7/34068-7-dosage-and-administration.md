@@ -9,7 +9,7 @@ Doses up to 80 mg have been used but do not appear to give greater effect.
 
 Use with diuretics in adults
 
-If blood pressure is not controlled with lisinopril tablets alone, a low dose of a diuretic may be added (e.g. hydrochlorothiazide, 12.5 mg).
+If blood pressure is not controlled with lisinopril tablets alone, a low dose of a diuretic may be added (e.g., hydrochlorothiazide, 12.5 mg).
 After the addition of a diuretic, it may be possible to reduce the dose of lisinopril tablets.
 
 The recommended starting dose in adult patients with hypertension taking diuretics is 5 mg once per day.

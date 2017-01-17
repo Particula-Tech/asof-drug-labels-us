@@ -7,7 +7,6 @@ ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to 
 Angiotensin II also stimulates aldosterone secretion by the adrenal cortex.
 The beneficial effects of lisinopril in hypertension and heart failure appear to result primarily from suppression of the renin-angiotensin-aldosterone system.
 Inhibition of ACE results in decreased plasma angiotensin II which leads to decreased vasopressor activity and to decreased aldosterone secretion.
-
 The latter decrease may result in a small increase of serum potassium.
 In hypertensive patients with normal renal function treated with lisinopril alone for up to 24 weeks, the mean increase in serum potassium was approximately 0.1 mEq/L; however, approximately 15% of patients had increases greater than 0.5 mEq/L and approximately 6% had a decrease greater than 0.5 mEq/L.
 In the same study, patients treated with lisinopril and hydrochlorothiazide for up to 24 weeks had a mean decrease in serum potassium of 0.1 mEq/L; approximately 4% of patients had increases greater than 0.5 mEq/L and approximately 12% had a decrease greater than 0.5 mEq/L [see Clinical Studies (14.1)].
@@ -62,3 +61,4 @@ Pediatric Patients: The pharmacokinetics of lisinopril were studied in 29 pediat
 After doses of 0.1 to 0.2 mg per kg, steady state peak plasma concentrations of lisinopril occurred within 6 hours and the extent of absorption based on urinary recovery was about 28%.
 These values are similar to those obtained previously in adults.
 The typical value of lisinopril oral clearance (systemic clearance/absolute bioavailability) in a child weighing 30 kg is 10 L/h, which increases in proportion to renal function.
+In a multicenter, open-label pharmacokinetic study of daily oral lisinopril in 22 pediatric hypertensive patients with stable kidney transplant (ages 7-17 years; estimated glomerular filtration rate greater than 30 mL/min/1.73 m2), dose normalized exposures were in the range reported previously in children without a kidney transplant.

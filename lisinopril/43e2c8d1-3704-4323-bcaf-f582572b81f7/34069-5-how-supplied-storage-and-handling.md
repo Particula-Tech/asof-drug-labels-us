@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+Lisinopril Tablets, USP 2.5 mg, 5 mg, 10 mg, 20 mg, 30 mg and 40 mg are supplied as follows:
+
 2.5 mg Tablets: White to off-white, round, unscored, biconvex tablets, debossed “WATSON” on one side and “405” on the other side, in bottles of 30, 100, and 500.
 
 5 mg Tablets: White to off-white, capsule-shaped, biconvex tablets, scored on one side, debossed “WAT” on the left and “SON” on the right of the score and “406” on the other side, in bottles of 100, 500, 1000, 3000, and 5000.
