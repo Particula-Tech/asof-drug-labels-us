@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021860"
+  ],
+  "inn": "fluoxetine",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-0210-14",
+    "0023-0215-14",
+    "0023-0220-14"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "fluoxetine hydrochloride",
+      "name": "SARAFEM"
+    }
+  ],
+  "setid": "e731be04-0595-49dd-b87a-c2b9ba6ba68c",
+  "source": "dailymed"
+}

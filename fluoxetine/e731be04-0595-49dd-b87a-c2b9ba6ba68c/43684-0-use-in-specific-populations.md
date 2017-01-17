@@ -1,0 +1,91 @@
+# 8 USE IN SPECIFIC POPULATIONS
+
+## 8.1 Pregnancy
+
+Pregnancy Category C — It should be noted that the diagnosis of PMDD does exist during pregnancy.
+Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
+
+Treatment of Pregnant Women during the First Trimester — There are no adequate and well-controlled clinical studies on the use of fluoxetine in pregnant women.
+Results of a number of published epidemiological studies assessing the risk of fluoxetine exposure during the first trimester of pregnancy have demonstrated inconsistent results.
+More than 10 cohort studies and case-control studies failed to demonstrate an increased risk for congenital malformations overall.
+However, one prospective cohort study conducted by the European Network of Teratology Information Services reported an increased risk of cardiovascular malformations in infants born to women (N = 253) exposed to fluoxetine during the first trimester of pregnancy compared to infants of women (N = 1359) who were not exposed to fluoxetine.
+There was no specific pattern of cardiovascular malformations.
+Overall, however, a causal relationship has not been established.
+
+Nonteratogenic Effects — Neonates exposed to fluoxetine and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Such complications can arise immediately upon delivery.
+Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
+These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.2)].
+
+Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+PPHN occurs in 1 to 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
+Several recent epidemiological studies suggest a positive statistical association between SSRI use (including fluoxetine) in pregnancy and PPHN.
+Other studies do not show a significant statistical association.
+
+Physicians should also note the results of a prospective longitudinal study of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
+Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
+
+When treating a pregnant woman with fluoxetine, the physician should carefully consider both the potential risks of taking an SSRI, along with the established benefits of treating depression with an antidepressant.
+The decision can only be made on a case by case basis.
+
+Animal Data — In embryo-fetal development studies in rats and rabbits, there was no evidence of teratogenicity following administration of fluoxetine at doses up to 12.5 and 15 mg/kg/day, respectively (1.5 and 3.6 times, respectively, the maximum recommended human dose (MRHD) of 80 mg on a mg/m2 basis) throughout organogenesis.
+However, in rat reproduction studies, an increase in stillborn pups, a decrease in pup weight, and an increase in pup deaths during the first 7 days postpartum occurred following maternal exposure to 12 mg/kg/day (1.5 times the MRHD on a mg/m2 basis) during gestation or 7.5 mg/kg/day (0.9 times the MRHD on a mg/m2 basis) during gestation and lactation.
+There was no evidence of developmental neurotoxicity in the surviving offspring of rats treated with 12 mg/kg/day during gestation.
+The no-effect dose for rat pup mortality was 5 mg/kg/day (0.6 times the MRHD on a mg/m2 basis).
+
+## 8.2 Labor and Delivery
+
+The effect of fluoxetine on labor and delivery in humans is unknown.
+However, because fluoxetine crosses the placenta and because of the possibility that fluoxetine may have adverse effects on the newborn, fluoxetine should be used during labor and delivery only if the potential benefit justifies the potential risk to the fetus.
+
+## 8.3 Nursing Mothers
+
+Because fluoxetine is excreted in human milk, nursing while on SARAFEM is not recommended.
+In one breast-milk sample, the concentration of fluoxetine plus norfluoxetine was 70.4 ng/mL.
+The concentration in the mother’s plasma was 295.0 ng/mL.
+No adverse effects on the infant were reported.
+In another case, an infant nursed by a mother on fluoxetine developed crying, sleep disturbance, vomiting, and watery stools.
+The infant’s plasma drug levels were 340 ng/mL of fluoxetine and 208 ng/mL of norfluoxetine on the second day of feeding.
+
+## 8.4 Pediatric Use
+
+Safety and effectiveness of SARAFEM in the pediatric population have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
+When considering the use of SARAFEM in a child or adolescent, the potential risks must be balanced with the clinical need.
+Significant toxicity, including myotoxicity, long-term neurobehavioral and reproductive toxicity, and impaired bone development, has been observed following exposure of juvenile animals to fluoxetine.
+Some of these effects occurred at clinically relevant exposures.
+
+As with other SSRIs, decreased weight gain has been observed in association with the use of fluoxetine in children and adolescent patients.
+After 19 weeks of treatment in a clinical trial, pediatric subjects treated with fluoxetine gained an average of 1.1 cm less in height and 1.1 kg less in weight than subjects treated with placebo.
+In addition, fluoxetine treatment was associated with a decrease in alkaline phosphatase levels.
+The safety of fluoxetine treatment for pediatric patients has not been systematically assessed for chronic treatment longer than several months in duration.
+In particular, there are no studies that directly evaluate the longer-term effects of fluoxetine on the growth, development and maturation of children and adolescent patients.
+Therefore, height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6)].
+
+In a study in which fluoxetine (3, 10, or 30 mg/kg) was orally administered to young rats from weaning (Postnatal Day 21) through adulthood (Day 90), male and female sexual development was delayed at all doses, and growth (body weight gain, femur length) was decreased during the dosing period in animals receiving the highest dose.
+At the end of the treatment period, serum levels of creatine kinase (marker of muscle damage) were increased at the intermediate and high doses, and abnormal muscle and reproductive organ histopathology (skeletal muscle degeneration and necrosis, testicular degeneration and necrosis, epididymal vacuolation and hypospermia) was observed at the high dose.
+When animals were evaluated after a recovery period (up to 11 weeks after cessation of dosing), neurobehavioral abnormalities (decreased reactivity at all doses and learning deficit at the high dose) and reproductive functional impairment (decreased mating at all doses and impaired fertility at the high dose) were seen; in addition, testicular and epididymal microscopic lesions and decreased sperm concentrations were found in the high dose group, indicating that the reproductive organ effects seen at the end of treatment were irreversible.
+The reversibility of fluoxetine-induced muscle damage was not assessed.
+Adverse effects similar to those observed in rats treated with fluoxetine during the juvenile period have not been reported after administration of fluoxetine to adult animals.
+Plasma exposures (AUC) to fluoxetine in juvenile rats receiving the low, intermediate, and high dose in this study were approximately 0.1 to 0.2, 1 to 2, and 5 to 10 times, respectively, the average exposure in pediatric patients receiving the maximum recommended dose (MRD) of 20 mg/day.
+Rat exposures to the major metabolite, norfluoxetine, were approximately 0.3 to 0.8, 1 to 8, and 3 to 20 times, respectively, pediatric exposure at the MRD.
+
+A specific effect of fluoxetine on bone development has been reported in mice treated with fluoxetine during the juvenile period.
+When mice were treated with fluoxetine (5 or 20 mg/kg, intraperitoneal) for 4 weeks starting at 4 weeks of age, bone formation was reduced resulting in decreased bone mineral content and density.
+These doses did not affect overall growth (body weight gain or femoral length).
+The doses administered to juvenile mice in this study are approximately 0.5 and 2 times the MRD for pediatric patients on a body surface area (mg/m2) basis.
+
+In another mouse study, administration of fluoxetine (10 mg/kg intraperitoneal) during early postnatal development (Postnatal Days 4 to 21) produced abnormal emotional behaviors (decreased exploratory behavior in elevated plus-maze, increase shock avoidance latency) in adulthood (12 weeks of age).
+The dose used in this study is approximately equal to the pediatric MRD on a mg/m2 basis.
+Because of the early dosing period in this study, the significance of these findings to the approved pediatric use in humans is uncertain.
+
+## 8.5 Geriatric Use
+
+The diagnosis of PMDD is not applicable to postmenopausal women.
+
+## 8.6 Hepatic Impairment
+
+In subjects with cirrhosis of the liver, the clearances of fluoxetine and its active metabolite, norfluoxetine, were decreased, thus increasing the elimination half-lives of these substances.
+A lower or less frequent dose of fluoxetine should be used in patients with cirrhosis.
+Caution is advised when using SARAFEM in patients with diseases or conditions that could affect its metabolism [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
