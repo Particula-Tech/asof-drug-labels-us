@@ -72,11 +72,14 @@ Other reported clinical experience has not identified differences in responses b
 ## 8.6 Hepatic Impairment
 
 There are no studies of Azor in patients with hepatic insufficiency, but both amlodipine and olmesartan medoxomil show moderate increases in exposure in patients with hepatic impairment.
-Use caution when administering Azor to patients with severe hepatic impairment.
 
-Patients with hepatic impairment have decreased clearance of amlodipine.
-Starting amlodipine or adding amlodipine at 2.5 mg in patients with hepatic impairment is recommended.
-The lowest dose of Azor is 5/20 mg; therefore, initial therapy with Azor is not recommended in hepatically impaired patients.
+The recommended initial dose of amlodipine in patients with severe hepatic impairment is 2.5 mg, a dose not available with Azor.
+
+Amlodipine.
+Amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t½) is 56 hours in patients with severely impaired hepatic function [see Warnings and Precautions (5.5)].
+
+Olmesartan medoxomil.
+Increases in AUC0-∞ and peak plasma concentration (Cmax) for olmesartan were observed with moderate hepatic impairment compared to those in matched controls with an increase in AUC of about 60%.
 
 ## 8.7 Renal Impairment
 

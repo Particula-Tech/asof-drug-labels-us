@@ -9,6 +9,7 @@ The mean baseline blood pressure of the study population was 164/102 mmHg.
 Of the total cohort, 970 patients were treated with the combination as initial therapy.
 
 Treatment with Azor resulted in statistically significant greater reductions in diastolic and systolic blood pressure compared to the respective monotherapy components.
+Maximum antihypertensive effects were attained within 2 weeks after a change in dose.
 
 The following table presents the results for mean reduction in seated systolic and diastolic blood pressure following 8 weeks of treatment with Azor.
 Placebo-adjusted reductions from baseline in blood pressure were progressively greater with increases in dose of both amlodipine and olmesartan medoxomil components of Azor.

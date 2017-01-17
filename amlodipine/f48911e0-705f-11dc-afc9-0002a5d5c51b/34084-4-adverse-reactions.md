@@ -7,7 +7,7 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 ### Azor
 
 The data described below reflect exposure to Azor in more than 1600 patients including more than 1000 exposed for at least 6 months and more than 700 exposed for 1 year.
-Azor was studied in one placebo-controlled factorial trial (see Section 14.1).
+Azor was studied in one placebo-controlled factorial trial [see Clinical Trials (14.1)].
 The population had a mean age of 54 years and included approximately 55% males.
 Seventy-one percent were Caucasian and 25% were Black.
 Patients received doses ranging from 5/20 mg to 10/40 mg orally once daily.
@@ -31,6 +31,8 @@ Placebo-Subtracted Incidence of Edema during the Double-Blind Treatment Period
 | *12.3%=actual placebo incidence |  |  |  |  |
 
 Across all treatment groups, the frequency of edema was generally higher in women than men, as has been observed in previous studies of amlodipine.
+
+There was a greater decrease in hemoglobin and hematocrit in patients treated with Azor as compared to patients receiving either component.
 
 Adverse reactions seen at lower rates during the double-blind period also occurred in the patients treated with Azor at about the same or greater incidence as in patients receiving placebo.
 These included hypotension, orthostatic hypotension, rash, pruritus, palpitation, urinary frequency, and nocturia.
@@ -99,19 +101,20 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Amlodipine.
 The following post-marketing event has been reported infrequently where a causal relationship is uncertain: gynecomastia.
 In post-marketing experience, jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or hepatitis), in some cases severe enough to require hospitalization, have been reported in association with use of amlodipine.
+Postmarketing reporting has also revealed a possible association between extrapyramidal disorder and amlodipine.
 
 Olmesartan medoxomil.
 The following adverse reactions have been reported in post-marketing experience:
 
 Body as a Whole: asthenia, angioedema, anaphylactic reactions, peripheral edema
 
-Gastrointestinal: vomiting, diarrhea, sprue-like enteropathy [see Warnings and Precautions (5.8)]
+Gastrointestinal: vomiting, diarrhea, sprue-like enteropathy [see Warnings and Precautions (5.6)]
 
 Metabolic and Nutritional Disorders: hyperkalemia
 
 Musculoskeletal: rhabdomyolysis
 
-Urogenital System: acute renal failure
+Urogenital System: acute renal failure, increased blood creatinine levels
 
 Skin and Appendages: alopecia, pruritus, urticaria
 
