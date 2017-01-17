@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA208279"
+  ],
+  "inn": "tretinoin",
+  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "package_ndcs": [
+    "68462-792-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tretinoin",
+      "name": "Tretinoin"
+    }
+  ],
+  "setid": "264138c1-9e5f-45ef-be87-79ca97c989d9",
+  "source": "dailymed"
+}
