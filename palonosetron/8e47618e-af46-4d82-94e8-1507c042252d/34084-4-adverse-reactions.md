@@ -21,7 +21,7 @@ Table 1: Adverse Reactions Occurring in ≥3% of Cancer Patients Receiving AKYNZ
 | --- | --- | --- |
 | Dyspepsia | 4% | 2% |
 | Fatigue | 4% | 2% |
-| Constipation | 3% | 1 |
+| Constipation | 3% | 1% |
 | Erythema | 3% | 2% |
 
 Anthracyclines and Cyclophosphamide Based Chemotherapy

@@ -152,12 +152,17 @@ CYP2C19 was not investigated.
 
 Dexamethasone
 
-Co-administration of a single dose of netupitant (300 mg) with a dexamethasone regimen (20 mg on Day 1, followed by 8 mg b.i.d. from Day 2 to Day 4) significantly increased exposure to dexamethasone.
+Co-administration of a single dose of netupitant (300 mg) with a dexamethasone regimen (20 mg on Day 1, followed by 8 mg twice daily from Day 2 to Day 4) significantly increased exposure to dexamethasone.
 When netupitant was co-administered on Day 1, the mean AUC of dexamethasone was increased by 1.7-fold on Day 1 and up to 2.4-fold on Day 2 and Day 4.
+[see Drug Interactions (7.1)]
+
+The duration of CYP3A4 inhibition by single dose AKYNZEO (300 mg netupitant/0.5 mg palonosetron) was assessed using dexamethasone as a CYP3A4 probe substrate.
+Co-administration of a single dose of AKYNZEO on Day 1 with a dexamethasone regimen (12 mg on Day 1 followed by 8 mg on Days 2, 3, 4, 6, 8 and 10) increased mean AUC of dexamethasone by 1.6-fold on Day 1, 2.4-fold on Day 4, 1.5-fold on Day 6, and 1.2-fold on Day 8 [see Drug Interactions (7.1)].
 
 Chemotherapeutic Agents (docetaxel, etoposide, cyclophosphamide)
 
 Systemic exposure to intravenously administered chemotherapeutic agents that are metabolized by CYP3A4 was higher when AKYNZEO was co-administered than when palonosetron alone was co-administered in cancer patients.
+[see Drug Interactions (7.1)]
 
 With co-administration of AKYNZEO the mean Cmax and AUC of docetaxel were 49% and 35% higher, respectively, and mean Cmax and AUC of etoposide were increased by 10% and 28%, respectively, compared to when co-administered with palonosetron alone.
 
@@ -168,6 +173,7 @@ The mean AUC of palonosetron was about 65% higher when AKYNZEO was co-administer
 Midazolam
 
 When co-administered with netupitant 300 mg the mean Cmax and AUC of midazolam after single dose oral administration of 7.5 mg midazolam was 36% and 126% higher, respectively.
+[see Drug Interactions (7.1)]
 
 Erythromycin
 
@@ -177,6 +183,7 @@ Oral Contraceptives
 
 Single dose AKYNZEO, when given with a single oral dose of 60 μg ethinyl estradiol and 300 μg levonorgestrel, increased the AUC of levonorgestrel by 46%.
 AKYNZEO had no significant effect on the AUC of ethinyl estradiol.
+[see Drug Interactions (7.1)]
 
 Digoxin
 
@@ -191,6 +198,7 @@ Single dose AKYNZEO was administered with rifampicin, a strong CYP3A4 inducer, f
 Pharmacokinetics of netupitant and palonosetron were compared to that after administration of AKYNZEO alone.
 Co-administration of rifampicin decreased the mean Cmax and AUC0-∞ of netupitant by 62% and 82%, respectively, compared to those after AKYNZEO alone.
 Co-administration of rifampicin decreased the mean Cmax and AUC for palonosetron by 15% and 19%, respectively.
+[see Drug Interactions (7.1)]
 
 Ketoconazole
 
@@ -198,3 +206,4 @@ Single dose AKYNZEO was administered with ketoconazole, a strong CYP3A4 inhibito
 Pharmacokinetics of netupitant and palonosetron were compared to that after administration of AKYNZEO alone.
 Co-administration with ketoconazole increased mean Cmax and AUC of netupitant by 25% and 140%, respectively, compared to those after administration of AKYNZEO alone.
 The mean AUC and Cmax of palonosetron were 10% and 15% higher, respectively, when co-administered with ketoconazole.
+[see Drug Interactions (7.1)]

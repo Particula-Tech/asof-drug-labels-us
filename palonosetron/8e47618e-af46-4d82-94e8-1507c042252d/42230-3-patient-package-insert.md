@@ -10,7 +10,7 @@
 | What are the ingredients in AKYNZEO?Active ingredients: netupitant and palonosetron hydrochlorideInactive ingredients: microcrystalline cellulose, sucrose fatty acid esters, povidone K-30, croscarmellose sodium, purified water, silicon dioxide, sodium stearyl fumarate, magnesium stearate, mono- and di-glycerides of capryl/capric acid, glycerin, polyglyeryl dioleate, butylated hydroxyanisole (BHA), gelatin, sorbitol, titanium dioxide, yellow iron oxide, red iron oxide. AKYNZEO may contain small amounts of medium-chain triglycerides, lecithin, and denatured ethanol. Manufactured by Helsinn Birex Pharmaceuticals, Dublin, Ireland for Helsinn Healthcare SA, Switzerland Distributed by Helsinn Therapeutics (U.S.), Inc. Iselin, NJ08830 under license of Helsinn Healthcare SA, Switzerland AKYNZEO is a registered trademark of Helsinn Healthcare SA, Lugano, Switzerland For more information, go to www.akynzeo.com |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: October 2016
+Issued: December 2016
 
 Instructions for opening the AKYNZEO pack of one capsule in one blister:
 

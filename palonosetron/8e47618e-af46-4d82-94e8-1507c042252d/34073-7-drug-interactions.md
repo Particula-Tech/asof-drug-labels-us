@@ -7,13 +7,13 @@ Interaction with CYP3A4 Substrates
 Netupitant, a component of AKYNZEO, is a moderate inhibitor of CYP3A4.
 
 AKYNZEO should be used with caution in patients receiving concomitant medications that are primarily metabolized through CYP3A4.
-The plasma concentrations of CYP3A4 substrates can increase when co-administered with AKYNZEO.
-The inhibitory effect on CYP3A4 can last for multiple days.
+A single dose of netupitant 300 mg (or Akynzeo containing netupitant 300 mg) significantly inhibits CYP3A4 for 6 days.
+Avoid concomitant use of drugs that are CYP3A4 substrates for one week, if feasible.
+If not avoidable, consider dose reduction of CYP3A4 substrates.
 
 Dexamethasone
 
-A two-fold increase in the systemic exposure of dexamethasone was observed 4 days after single dose of netupitant.
-The duration of the effect was not studied beyond 4 days.
+A single dose of netupitant increased the systemic exposure of concomitant dexamethasone by more than 2-fold on Days 2 and 4.
 Administer a reduced dose of dexamethasone with AKYNZEO [see Dosage and Administration (2), Clinical Pharmacology (12.3)].
 
 Midazolam

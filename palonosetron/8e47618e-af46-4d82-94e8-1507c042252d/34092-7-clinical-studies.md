@@ -71,7 +71,7 @@ Major secondary efficacy endpoints included CR for the acute and overall phases.
 
 A summary of key results from Study 2 is shown in Table 8.
 
-Table 8 Proportion of Patients Responding by Treatment Group and Phase – Cycle 1 in Study 2
+Table 8: Proportion of Patients Responding by Treatment Group and Phase – Cycle 1 in Study 2
 
 |  | AKYNZEO 300 mg netupitant/ 0.5 mg palonosetron N=724 % | Palonosetron 0.5 mg N=725 % | p-value* |
 | --- | --- | --- | --- |
