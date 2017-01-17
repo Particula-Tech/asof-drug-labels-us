@@ -6,7 +6,7 @@ List 280015
 
 Saxenda®
 
-liraglutide (rDNA origin) injection
+(liraglutide) injection
 
 18 mg/3 mL (6 mg/mL)
 

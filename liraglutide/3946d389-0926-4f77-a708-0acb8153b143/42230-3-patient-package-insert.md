@@ -262,4 +262,4 @@ Get help from a person with good eyesight who is trained to use the Saxenda pen.
 
 This Medication Guide and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-March 2016
+October 2016
