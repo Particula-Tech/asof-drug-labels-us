@@ -52,7 +52,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Olmesartan medoxomil.
-The following adverse reactions have been reported in post marketing experience:
+The following adverse reactions have been reported in post-marketing experience:
 
 Body as a Whole: asthenia, angioedema, anaphylactic reactions, peripheral edema
 
@@ -62,7 +62,7 @@ Metabolic and Nutritional Disorders: hyperkalemia
 
 Musculoskeletal: rhabdomyolysis
 
-Urogenital System: acute renal failure
+Urogenital System: acute renal failure, increased blood creatinine
 
 Skin and Appendages: alopecia, pruritus, urticaria
 
@@ -82,3 +82,4 @@ There are, however, concerns with the credibility of the finding of increased CV
 Amlodipine.
 The following post-marketing event has been reported infrequently where a causal relationship is uncertain: gynecomastia.
 In post-marketing experience, jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or hepatitis), in some cases severe enough to require hospitalization, have been reported in association with use of amlodipine.
+Postmarketing reporting has also revealed a possible association between extrapyramidal disorder and amlodipine.

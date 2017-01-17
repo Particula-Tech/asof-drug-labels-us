@@ -51,7 +51,7 @@ However, these studies have been conducted for olmesartan medoxomil, amlodipine 
 Olmesartan medoxomil.
 No teratogenic effects were observed when olmesartan medoxomil was administered to pregnant rats at oral doses up to 1000 mg/kg/day (240 times the maximum recommended human dose [MRHD] on a mg/m2 basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (half the MRHD on a mg/m2 basis; higher doses could not be evaluated for effects on fetal development as they were lethal to the does).
 In rats, significant decreases in pup birth weight and weight gain were observed at doses ≥1.6 mg/kg/day, and delays in developmental milestones (delayed separation of ear auricular, eruption of lower incisors, appearance of abdominal hair, descent of testes, and separation of eyelids) and dose-dependent increases in the incidence of dilation of the renal pelvis were observed at doses ≥8 mg/kg/day.
-The no observed effect dose for developmental toxicity in rats is 0.3 mg/kg/day, about one tenth the MRHD of 40 mg/day.
+The no observed effect dose for developmental toxicity in rats is 0.3 mg/kg/day, about one-tenth the MRHD of 40 mg/day.
 
 Olmesartan medoxomil and Hydrochlorothiazide.
 No teratogenic effects were observed when 1.6:1 combinations of olmesartan medoxomil and hydrochlorothiazide were administered to pregnant mice at oral doses up to 1625 mg/kg/day (122 times the MRHD on a mg/m2 basis) or pregnant rats up to 1625 mg/kg/day (243 times the MRHD on a mg/m2 basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (0.3 times the MRHD on a mg/m2 basis).

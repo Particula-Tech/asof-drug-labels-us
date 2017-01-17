@@ -7,16 +7,19 @@ Pregnancy Category D
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue Tribenzor as soon as possible [see Use in Specific Populations (8.1)].
+When pregnancy is detected, discontinue Tribenzor as soon as possible [see Use in Specific Populations (8.1].
 
 ## 5.2 Hypotension in Volume- or Salt-Depleted Patients
 
 Olmesartan medoxomil.
-Symptomatic hypotension may be anticipated after initiation of treatment with olmesartan medoxomil.
-Patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients (e.g., those being treated with high doses of diuretics) may be particularly vulnerable.
-Initiate treatment with Tribenzor under close medical supervision.
+In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients (e.g., those being treated with high doses of diuretics) symptomatic hypotension may be anticipated after initiation of treatment with olmesartan medoxomil.
+Initiate treatment with Azor under close medical supervision.
 If hypotension does occur, place the patient in the supine position and, if necessary, give an intravenous infusion of normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+
+Amlodipine.
+Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis.
+Because of the gradual onset of action, acute hypotension is unlikely.
 
 ## 5.3 Increased Angina and/or Myocardial Infarction
 
@@ -27,15 +30,11 @@ The mechanism of this effect has not been elucidated.
 ## 5.4 Impaired Renal Function
 
 Tribenzor.
-Tribenzor has not been studied in patients with impaired renal function.
-Avoid use in patients with severe renal impairment (creatinine clearance ≤30 ml/min) [see Dosage and Administration (2)].
+Impaired renal function was reported in 2.1% of subjects receiving Tribenzor compared to 0.2% to 1.3% of subjects receiving dual combination therapy of olmesartan medoxomil and amlodipine, olmesartan medoxomil and hydrochlorothiazide or amlodipine and hydrochlorothiazide.
 
-An adverse event of impaired renal function was reported in 2.1% of subjects receiving Tribenzor compared to 0.2% to 1.3% of subjects receiving dual combination therapy.
+If progressive renal impairment becomes evident consider withholding or discontinuing Tribenzor.
 
-If progressive renal impairment becomes evident consider withholding or discontinuing either diuretic or angiotensin receptor blocker therapies.
-
-Olmesartan medoxomil.
-Changes in renal function occur in some individuals treated with olmesartan medoxomil as a consequence of inhibiting the renin-angiotensin-aldosterone system.
+Olmesartan medoxomil Changes in renal function occur in some individuals treated with olmesartan medoxomil as a consequence of inhibiting the renin-angiotensin-aldosterone system.
 In patients whose renal function may depend upon the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with ACE inhibitors and angiotensin receptor antagonists has been associated with oliguria or progressive azotemia and (rarely) with acute renal failure and/or death.
 Similar effects may occur in patients treated with Tribenzor due to the olmesartan medoxomil component [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
@@ -46,56 +45,28 @@ Hydrochlorothiazide.
 Thiazides may precipitate azotemia in patients with renal disease.
 Cumulative effects of the drug may develop in patients with impaired renal function.
 
-## 5.5 Hepatic Impairment
+## 5.5 Patients with Hepatic Impairment
 
 Amlodipine.
-Amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with severely impaired hepatic function [see Dosage and Administration (2)].
-
-Hydrochlorothiazide.
-Minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
+Since amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with severely impaired hepatic function, titrate slowly when administering to patients with severe hepatic impairment.
 
 ## 5.6 Electrolyte and Metabolic Imbalances
 
-Hydrochlorothiazide.
-Perform periodic determinations of serum electrolytes to detect possible electrolyte imbalance.
-Observe patients receiving thiazide therapy for clinical signs of fluid or electrolyte imbalance: hyponatremia, hypochloremic alkalosis, and hypokalemia.
-Serum and urine electrolyte determinations are important when the patient is vomiting excessively or receiving parental fluids.
-Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, confusion, seizures, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
+Tribenzor contains hydrochlorothiazide which can cause hypokalemia, hyponatremia and hypomagnesmia.
+Hypomagnesmia can result in hypokalemia which may be difficult to treat despite potassium repletion.
+Tribenzor also contains olmesartan, a drug that affects the RAS.
+Drugs that inhibit the RAS can also cause hyperkalemia.
 
-Hypokalemia may develop, especially during brisk diuresis, when severe cirrhosis is present, or after prolonged therapy.
+Hydrochlorothiazide may alter glucose tolerance and raise serum levels of cholesterol and triglycerides.
 
-Interference with adequate oral electrolyte intake will also contribute to hypokalemia.
-Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability).
+Hyperuricemia may occur or frank gout may be precipitated in patients receiving thiazide therapy.
 
-Tribenzor also contains olmesartan, a drug that inhibits the renin-angiotensin system (RAS).
-Drugs that inhibit the RAS can cause hyperkalemia.
-Monitor serum electrolytes periodically.
+Hydrochlorothiazide decreases urinary calcium excretion and may cause elevations of serum calcium.
+Monitor calcium levels.
 
-Metabolic acidosis may occur.
-Although a chloride deficit in a particular patient is generally mild and usually does not require specific treatment, except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
-
-Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hyponatremia is life-threatening.
-In actual salt depletion, appropriate replacement is the therapy of choice.
-
-Hyperuricemia may occur or frank gout may be precipitated in certain patients receiving thiazide therapy.
-
-In diabetic patients dosage adjustments of insulin or oral hypoglycemic agents may be required.
-Hyperglycemia may occur with thiazide diuretics.
-Thus, latent diabetes mellitus may become manifest during thiazide therapy.
+## 5.7 Postsympathectomy Patients
 
 The antihypertensive effects of the drug may be enhanced in the post-sympathectomy patient.
-
-Thiazides have been shown to increase the urinary excretion of magnesium; this may result in hypomagnesemia.
-
-Thiazides may decrease urinary calcium excretion.
-Thiazides may cause intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism.
-Marked hypercalcemia may be evidence of hyperparathyroidism.
-Tribenzor should be discontinued before carrying out tests for parathyroid function.
-
-## 5.7 Hypersensitivity Reaction
-
-Hydrochlorothiazide.
-Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
 
 ## 5.8 Systemic Lupus Erythematosus
 
@@ -113,36 +84,8 @@ Risk factors for developing acute angle-closure glaucoma may include a history o
 
 ## 5.10 Sprue-like Enteropathy
 
+Olmesartan medoxomil.
 Severe, chronic diarrhea with substantial weight loss has been reported in patients taking olmesartan months to years after drug initiation.
 Intestinal biopsies of patients often demonstrated villous atrophy.
 If a patient develops these symptoms during treatment with olmesartan, exclude other etiologies.
 Consider discontinuation of Tribenzor in cases where no other etiology is identified.
-
-## 5.11 Vasodilation
-
-Amlodipine.
-Although vasodilation attributable to amlodipine is generally gradual in onset, acute hypotension has rarely been reported after oral administration.
-Patients with severe aortic stenosis may be at particular risk.
-
-## 5.12 Heart Failure
-
-Tribenzor.
-Tribenzor has not been studied in patients with heart failure.
-
-Amlodipine.
-Amlodipine (5-10 mg per day) has been studied in a placebo-controlled trial of 1153 patients with New York Heart Association (NYHA) Class III or IV heart failure on stable doses of ACE inhibitor, digoxin, and diuretics.
-Follow-up was at least 6 months, with a mean of about 14 months.
-There was no overall adverse effect on survival or cardiac morbidity (as defined by life threatening arrhythmia, acute myocardial infarction, or hospitalization for worsened heart failure).
-Amlodipine has been compared to placebo in four 8-12 week studies of patients with NYHA Class II/III heart failure, involving a total of 697 patients.
-In these studies, there was no evidence of worsening of heart failure based on measures of exercise tolerance, NYHA classification, symptoms, or left ventricular ejection fraction.
-
-## 5.13 Laboratory Tests
-
-Olmesartan medoxomil.
-In post-marketing experience, increased blood creatinine levels have been reported.
-
-Amlodipine.
-In post-marketing experience, hepatic enzyme elevations have been reported [see Adverse Reactions (6.2)].
-
-Hydrochlorothiazide.
-Increases in cholesterol and triglyceride levels may be associated with thiazide diuretic therapy.

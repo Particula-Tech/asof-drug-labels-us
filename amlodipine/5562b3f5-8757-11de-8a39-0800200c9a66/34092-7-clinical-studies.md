@@ -2,13 +2,14 @@
 
 ## 14.1 Tribenzor
 
-The antihypertensive efficacy of Tribenzor was studied in a double-blind, active controlled study in hypertensive patients.
+The antihypertensive efficacy of Tribenzor was studied in a double-blind, active-controlled study in hypertensive patients.
 A total of 2492 patients with hypertension (mean baseline blood pressure 169/101 mmHg) received olmesartan medoxomil/amlodipine/hydrochlorothiazide 40/10/25 mg (627 patients), olmesartan medoxomil/amlodipine 40/10 mg (628 patients), olmesartan medoxomil/hydrochlorothiazide 40/25 mg (637 patients), or amlodipine/hydrochlorothiazide 10/25 mg (600 patients).
 Each subject was randomized to one of the three dual therapy combinations for two to four weeks.
 Patients were then randomized to continue on the dual therapy they were receiving or to receive triple therapy.
 A total of 53% of patients were male, 19% were 65 years or older, 67% were white, 30% were black, and 15% were diabetic.
 
 After 8 weeks of treatment, the triple combination therapy produced greater reductions in both systolic and diastolic blood pressures (p< 0.0001) compared to each of the 3 dual combination therapies.
+The full blood pressure lowering effects were attained within 2 weeks after a change in dose.
 
 The seated blood pressure reductions attributable to the addition of a single high-dose drug to each high-dose dual drug combination are shown in Table 2.
 

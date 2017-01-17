@@ -60,7 +60,7 @@ These decreases in blood pressure are not accompanied by a significant change in
 
 With chronic once daily oral administration, antihypertensive effectiveness is maintained for at least 24 hours.
 Plasma concentrations correlate with effect in both young and elderly patients.
-The magnitude of reduction in blood pressure with amlodipine is also correlated with the height of pretreatment elevation; thus, individuals with moderate hypertension (diastolic pressure 105-114 mmHg) had about a 50% greater response than patients with mild hypertension (diastolic pressure 90 104 mmHg).
+The magnitude of reduction in blood pressure with amlodipine is also correlated with the height of pretreatment elevation; thus, individuals with moderate hypertension (diastolic pressure 105-114 mmHg) had about a 50% greater response than patients with mild hypertension (diastolic pressure 90-104 mmHg).
 Normotensive patients experienced no clinically significant change in blood pressures (+1/-2 mmHg).
 
 In hypertensive patients with normal renal function, therapeutic doses of amlodipine resulted in a decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal plasma flow without change in filtration fraction or proteinuria.
@@ -74,6 +74,12 @@ In clinical studies in which amlodipine was administered in combination with bet
 
 Hydrochlorothiazide.
 After oral administration of hydrochlorothiazide, diuresis begins within 2 hours, peaks in about 4 hours, and lasts about 6 to 12 hours.
+
+Drug Interactions
+
+Alcohol, Barbiturates, or Narcotics: Potentiation of orthostatic hypotension may occur.
+
+Skeletal muscle relaxants, non-depolarizing (e.g., tubocurarine): Possible increased responsiveness to the muscle relaxant.
 
 ## 12.3 Pharmacokinetics
 
@@ -108,7 +114,7 @@ Ex vivo studies have shown that approximately 93% of the circulating drug is bou
 Steady-state plasma levels of amlodipine are reached after 7 to 8 days of consecutive daily dosing.
 
 Hydrochlorothiazide.
-Hydrochlorothiazide crosses the placental but not the blood brain barrier and is excreted in breast milk.
+Hydrochlorothiazide crosses the placental but not the blood-brain barrier and is excreted in breast milk.
 
 Metabolism and Excretion Olmesartan medoxomil.
 Following the rapid and complete conversion of olmesartan medoxomil to olmesartan during absorption, there is virtually no further metabolism of olmesartan.
@@ -127,6 +133,8 @@ Ten percent of the parent compound and 60% of the metabolites are excreted in th
 Hydrochlorothiazide.
 Hydrochlorothiazide is not metabolized but is eliminated rapidly by the kidney.
 At least 61% of the oral dose is eliminated unchanged within 24 hours.
+
+Specific Populations
 
 Geriatric Olmesartan medoxomil.
 The pharmacokinetics of olmesartan medoxomil were studied in the elderly (≥65 years).
@@ -160,8 +168,39 @@ Patients with hepatic insufficiency have decreased clearance of amlodipine with 
 Heart Failure Amlodipine.
 Patients with heart failure have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40% to 60%.
 
-### Drug Interaction
+Drug Interactions
 
-Bile acid sequestering agent colesevelam.
-Concomitant administration of 40 mg olmesartan medoxomil and 3750 mg colesevelam hydrochloride in healthy subjects resulted in 28% reduction in Cmax and 39% reduction in AUC of olmesartan.
-Lesser effects, 4% and 15% reduction in Cmax and AUC respectively, were observed when olmesartan medoxomil was administered 4 hours prior to colesevelam hydrochloride [See Drug Interactions (7.2)].
+Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone.
+[see Drug Interactions (7.2)].
+
+CYP3A inhibitors: Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
+Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
+However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent [see Drug Interactions (7.2)].
+
+Cyclosporine: In a prospective study in renal transplant patients, an average 40% increase in trough cyclosporine levels was observed in the presence of amlodipine.
+[see Drug Interactions (7.2)].
+
+Colesevelam: Concomitant administration of 40 mg olmesartan medoxomil and 3750 mg colesevelam hydrochloride in healthy subjects resulted in 28% reduction in Cmax and 39% reduction in AUC of olmesartan.
+Lesser effects, 4% and 15% reduction in Cmax and AUC respectively, were observed when olmesartan medoxomil was administered 4 hours prior to colesevelam hydrochloride [see Drug Interactions (7.1)].
+
+Cimetidine: Co-administration of amlodipine with cimetidine did not alter the pharmacokinetics of amlodipine.
+
+Grapefruit juice: Co-administration of 240 mL of grapefruit juice with a single oral dose of amlodipine 10 mg in 20 healthy volunteers had no significant effect on the pharmacokinetics of amlodipine.
+
+Maalox®(antacid): Co-administration of the antacid Maalox® with a single dose of amlodipine had no significant effect on the pharmacokinetics of amlodipine.
+
+Sildenafil: A single 100 mg dose of sildenafil in subjects with essential hypertension had no effect on the pharmacokinetic parameters of amlodipine.
+When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect.
+
+Atorvastatin: Co-administration of multiple 10 mg doses of amlodipine with 80 mg of atorvastatin resulted in no significant change in the steady state pharmacokinetic parameters of atorvastatin.
+
+Digoxin: Co-administration of amlodipine with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
+
+Ethanol (alcohol): Single and multiple 10 mg doses of amlodipine had no significant effect on the pharmacokinetics of ethanol.
+
+Warfarin: Co-administration of amlodipine with warfarin did not change the warfarin prothrombin response time.
+No significant drug interactions were reported in studies in which olmesartan medoxomil was coadministered with warfarin in healthy volunteers.
+
+Digoxin: No significant drug interactions were reported in studies in which olmesartan medoxomil was coadministered with digoxin in healthy volunteers.
+
+Antacids: The bioavailability of olmesartan medoxomil was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2].

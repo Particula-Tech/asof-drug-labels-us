@@ -50,7 +50,7 @@ Before taking Tribenzor, tell your doctor if you:
 - are vomiting or have a lot of diarrhea
 - have any other medical conditions
 
-Tell your doctor about all the medicines you take, including prescription and non prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Some of your other medicines and Tribenzor could affect each other, causing serious side effects.
 Especially tell your doctor if you are taking:
 
@@ -64,6 +64,7 @@ Especially tell your doctor if you are taking:
 - medicines used to treat pain or arthritis such as aspirin or non-steroidal anti inflammatory drugs (NSAIDs)
 - steroids
 - cholesterol lowering medicines
+- tacrolimus and cyclosporine (medicines used to alter the way your immune system works)
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your doctor or pharmacist when you get a new medicine.
@@ -178,5 +179,5 @@ Tribenzor can help your blood vessels relax so your blood pressure is lower.
 
 Manufactured for Daiichi Sankyo, Inc., Parsippany, New Jersey 07054 Manufactured by Daiichi Sankyo Europe GmbH, Germany
 
-Copyright © Daiichi Sankyo, Inc. 2010.
+Copyright © Daiichi Sankyo, Inc. 2016.
 All rights reserved.
