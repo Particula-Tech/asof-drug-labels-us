@@ -125,4 +125,4 @@ Safety and effectiveness in children have not been established.
 
 A determination has not been made whether controlled clinical studies of glipizide included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

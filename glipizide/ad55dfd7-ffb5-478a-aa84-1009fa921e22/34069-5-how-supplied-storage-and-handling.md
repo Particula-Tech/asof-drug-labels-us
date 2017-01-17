@@ -12,6 +12,6 @@ Dispense in a tight container as defined in the USP.
 
 Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: February 2014
+Revised: June 2015

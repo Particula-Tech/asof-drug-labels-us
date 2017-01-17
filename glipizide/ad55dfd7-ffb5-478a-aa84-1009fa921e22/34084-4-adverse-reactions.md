@@ -26,7 +26,7 @@ Miscellaneous: Dizziness, drowsiness, and headache have each been reported in ab
 They are usually transient and seldom require discontinuance of therapy.
 
 Laboratory Tests: The pattern of laboratory test abnormalities observed with glipizide was similar to that for other sulfonylureas.
-Occasional mild to moderate elevations of SGOT, LDH, alkaline phosphatase, BUN and creatinine were noted.
+Occasional mild to moderate elevations of SGOT, LDH, alkaline phosphatase, BUN, and creatinine were noted.
 One case of jaundice was reported.
 The relationship of these abnormalities to glipizide is uncertain, and they have rarely been associated with clinical symptoms.
 
@@ -35,3 +35,5 @@ Postmarketing Experience
 The following adverse events have been reported in postmarketing surveillance:
 
 Hepatobiliary: Cholestatic and hepatocellular forms of liver injury accompanied by jaundice have been reported rarely in association with glipizide; glipizide should be discontinued if this occurs.
+
+To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-272-5525 or FDA at 1-800- FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
