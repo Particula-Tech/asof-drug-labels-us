@@ -20,5 +20,5 @@ NDC 33342-056-07 Bottles of 30 NDC 33342-056-10 Bottles of 90 NDC 33342-056-15 B
 
 NDC 33342-056-12 Unit dose blister pack (10 x 10's)
 
-Storage: Store at 20 - 25°C (68 - 77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Storage Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Keep container tightly closed, and protect from light, moisture and humidity.

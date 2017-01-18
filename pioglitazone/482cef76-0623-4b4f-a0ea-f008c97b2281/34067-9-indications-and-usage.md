@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Monotherapy and Combination Therapy Pioglitazone tablets, USP are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus in multiple clinical settings [see Clinical Studies (14)].
+Monotherapy and Combination Therapy Pioglitazone tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus in multiple clinical settings [see Clinical Studies (14)].
 
 Important Limitations of Use Pioglitazone tablets, USP exerts its antihyperglycemic effect only in the presence of endogenous insulin.
 Pioglitazone tablets USP should not be used to treat type 1 diabetes or diabetic ketoacidosis, as it would not be effective in these settings.

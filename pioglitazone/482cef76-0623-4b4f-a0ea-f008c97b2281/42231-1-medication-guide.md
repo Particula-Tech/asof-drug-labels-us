@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Pioglitazone Tablets USP
+Pioglitazone Tablets (PYE o GLIT a zone)
 
 Read this Medication Guide carefully before you start taking pioglitazone tablets and each time you get a refill.
 There may be new information.
@@ -41,13 +41,12 @@ What should I tell my doctor before taking pioglitazone tablets?
 Before you take starting pioglitazone tablets, tell your doctor if you:
 
 • have heart failure • have type 1 ("juvenile") diabetes or had diabetic ketoacidosis • have a type of diabetic eye disease that causes swelling in the back of the eye (macular edema) • have liver problems • have or have had cancer of the bladder • are pregnant or plan to become pregnant.
-It is not known if pioglitazone tablets will harm your unborn baby.
+It is not known if pioglitazone tablets can harm your unborn baby.
 Talk to your doctor if you are pregnant or plan to become pregnant about the best way to control your blood glucose levels while pregnant • are a premenopausal woman (before the "change of life") who does not have periods regularly or at all.
 Pioglitazone tablets may increase your chance of becoming pregnant.
 Talk to your doctor about birth control choices while taking pioglitazone tablets.
 Tell your doctor right away if you become pregnant while taking pioglitazone tablets • are breastfeeding or plan to breastfeed.
 It is not known if pioglitazone passes into your milk and if it can harm your baby.
-You should not take pioglitazone tablets if you breastfeed your baby.
 Talk to your doctor about the best way to control your blood glucose levels while breastfeeding.
 
 Tell your doctor about all the medicines you take including prescription and over the counter medicines, vitamins, and herbal supplement.
@@ -134,6 +133,4 @@ Macleods Pharmaceutical Ltd.
 
 Baddi, Himachal Pradesh, India.
 
-Licensed – United States Patents Nos. 5,965,584; 6,150,383; 6,150,384; 6,166,042; 6,166,043; 6,172,090; 6,211,205; 6,271,243; 6,329,404, and 6,303,640.
-
-Revised: January 2014
+Revised: December 2016 PM01603504

@@ -263,12 +263,12 @@ Adverse Events of Edema in Patients in the PROactive Trial
 
 Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of "edema."
 
-Hepatic Effects: There has been no evidence of induced hepatotoxicity in the pioglitazone hydrochloride controlled clinical trial database to date.
+Hepatic Effects There has been no evidence of induced hepatotoxicity in the pioglitazone hydrochloride controlled clinical trial database to date.
 One randomized, double-blind, 3-year trial comparing pioglitazone hydrochloride to glyburide as add-on to metformin and insulin therapy was specifically designed to evaluate the incidence of serum ALT elevation to greater than three times the upper limit of the reference range, measured every eight weeks for the first 48 weeks of the trial then every twelve weeks thereafter.
 A total of 3/1051 (0.3%) patients treated with pioglitazone hydrochloride and 9/1046 (0.9%) patients treated with glyburide developed ALT values greater than three times the upper limit of the reference range.
 None of the patients treated with pioglitazone hydrochloride in the pioglitazone hydrochloride controlled clinical trial database to date have had a serum ALT greater than three times the upper limit of the reference range and a corresponding total bilirubin greater than two times the upper limit of the reference range, a combination predictive of the potential for severe drug-induced liver injury.
 
-Hypoglycemia: In the pioglitazone hydrochloride clinical trials, adverse events of hypoglycemia were reported based on clinical judgment of the investigators and did not require confirmation with fingerstick glucose testing.
+Hypoglycemia In the pioglitazone hydrochloride clinical trials, adverse events of hypoglycemia were reported based on clinical judgment of the investigators and did not require confirmation with fingerstick glucose testing.
 
 In the 16-week add-on to sulfonylurea trial, the incidence of reported hypoglycemia was 3.7% with pioglitazone hydrochloride 30 mg and 0.5% with placebo.
 In the 16-week add-on to insulin trial, the incidence of reported hypoglycemia was 7.9% with pioglitazone hydrochloride 15 mg, 15.4% with Pioglitazone Hydro chloride 30 mg, and 4.8% with placebo.
@@ -280,17 +280,18 @@ All three patients were receiving pioglitazone hydrochloride 30 mg (0.9%) in the
 An additional 14 patients reported severe hypoglycemia (defined as causing considerable interference with patient's usual activities) that did not require hospitalization.
 These patients were receiving pioglitazone hydrochloride 45 mg in combination with sulfonylurea (n=2) or pioglitazone hydrochloride 30 mg or 45 mg in combination with insulin (n=12).
 
-Urinary Bladder Tumors: Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
-In two 3-year trials in which pioglitazone hydrochloride was compared to placebo or glyburide, there were 16/3656 (0.44%) reports of bladder cancer in patients taking pioglitazone hydrochloride compared to 5/3679 (0.14%) in patients not taking pioglitazone hydrochloride.
-After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.16%) cases on pioglitazone hydrochloride and two (0.05%) cases on placebo.
-There are too few events of bladder cancer to establish causality.
+Urinary Bladder Tumors Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
+During the three year PROactive clinical trial, 14 patients out of 2605 (0.54%) randomized to pioglitazone hydrochloride and 5 out of 2633 (0.19%) randomized to placebo were diagnosed with bladder cancer.
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 6 (0.23%) cases on pioglitazone hydrochloride and two (0.08%) cases on placebo.
+After completion of the trial, a large subset of patients was observed for up to 10 additional years, with little additional exposure to pioglitazone hydrochloride.
+During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to pioglitazone hydrochloride or placebo (HR =1.00; 95% CI: 0.59-1.72) [see Warnings and Precautions (5.4)].
 
-Laboratory Abnormalities Hematologic Effects: Pioglitazone hydrochloride may cause decreases in hemoglobin and hematocrit.
+Laboratory Abnormalities Hematologic Effects Pioglitazone hydrochloride may cause decreases in hemoglobin and hematocrit.
 In placebo-controlled monotherapy trials, mean hemoglobin values declined by 2% to 4% in patients treated with pioglitazone hydrochloride compared with a mean change in hemoglobin of -1% to +1% in placebo-treated patients.
 These changes primarily occurred within the first 4 to 12 weeks of therapy and remained relatively constant thereafter.
 These changes may be related to increased plasma volume associated with pioglitazone hydrochloride therapy and are not likely to be associated with any clinically significant hematologic effects.
 
-Creatine Phosphokinase: During protocol-specified measurement of serum creatine phosphokinase (CPK) in pioglitazone hydrochloride clinical trials, an isolated elevation in CPK to greater than 10 times the upper limit of the reference range was noted in 9 (0.2%) patients treated with Pioglitazone Hydro chloride (values of 2150 to 11400 IU/L) and in no comparator-treated patients.
+Creatine Phosphokinase During protocol-specified measurement of serum creatine phosphokinase (CPK) in pioglitazone hydrochloride clinical trials, an isolated elevation in CPK to greater than 10 times the upper limit of the reference range was noted in 9 (0.2%) patients treated with Pioglitazone Hydro chloride (values of 2150 to 11400 IU/L) and in no comparator-treated patients.
 Six of these nine patients continued to receive pioglitazone hydrochloride, two patients were noted to have the CPK elevation on the last day of dosing and one patient discontinued Pioglitazone Hydro chloride due to the elevation.
 These elevations resolved without any apparent clinical sequelae.
 The relationship of these events to pioglitazone hydrochloride therapy is unknown.
