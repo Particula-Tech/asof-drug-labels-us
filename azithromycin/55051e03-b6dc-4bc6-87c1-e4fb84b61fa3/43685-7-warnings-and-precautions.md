@@ -50,7 +50,7 @@ Azithromycin for injection should be reconstituted and diluted as directed and a
 
 Local IV site reactions have been reported with the intravenous administration of azithromycin.
 The incidence and severity of these reactions were the same when 500 mg azithromycin was given over 1 hour (2 mg/mL as 250 mL infusion) or over 3 hr (1 mg/mL as 500 mL infusion) [see Adverse Reactions (6)].
-All volunteers who received infusate concentrations above 2.0 mg/mL experienced local IV site reactions and, therefore, higher concentrations should be avoided.
+All volunteers who received infusate concentrations above 2 mg/mL experienced local IV site reactions and, therefore, higher concentrations should be avoided.
 
 ## 5.7 Development of Drug-Resistant Bacteria
 
