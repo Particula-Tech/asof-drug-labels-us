@@ -14,7 +14,6 @@ Inform patients of the following:
   If this medicine gets on face or in eyes, wash area right away.
 - Do not occlude the treatment area with bandage or other covering unless directed by the physician.
 - Note that local reactions and skin atrophy are more likely to occur with occlusive use, prolonged use or use of higher potency corticosteroids.
-- Bottle: Instruct patients to shake bottle prior to using Taclonex® Topical Suspension and to wash hands after application.
-- Applicator: Instruct patients to wash hands if Taclonex® Topical Suspension gets on the fingers.
-  Instruct patients not to use other products containing calcipotriene or a corticosteroid with Taclonex® Topical Suspension without first talking to the physician.
+- Instruct patients to shake bottle prior to using Taclonex® Topical Suspension and to wash hands after application.
+- Instruct patients not to use other products containing calcipotriene or a corticosteroid with Taclonex® Topical Suspension without first talking to the physician.
 - Instruct patients who use Taclonex® Topical Suspension to avoid excessive exposure to either natural or artificial sunlight (including tanning booths, sun lamps, etc.).

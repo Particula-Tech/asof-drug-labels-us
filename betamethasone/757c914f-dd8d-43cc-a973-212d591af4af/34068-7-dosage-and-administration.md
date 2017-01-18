@@ -1,8 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Bottle: Instruct patients to shake bottle prior to using Taclonex® Topical Suspension and to wash their hands after applying the product.
-
-Applicator: Instruct patients to wash their hands if they get Taclonex® Topical Suspension on their fingers.
+Instruct patients to shake bottle prior to using Taclonex® Topical Suspension and to wash their hands after applying the product
 
 Apply Taclonex® Topical Suspension to affected areas once daily for up to 8 weeks.
 Therapy should be discontinued when control is achieved.

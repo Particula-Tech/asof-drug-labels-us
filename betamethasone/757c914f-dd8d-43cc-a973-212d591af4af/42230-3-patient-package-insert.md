@@ -6,12 +6,6 @@ Taclonex® (TAK-lo-NEKS)
 
 Topical Suspension, 0.005%/0.064%
 
-Taclonex® (TAK-lo-NEKS)
-
-(calcipotriene and betamethasone dipropionate)
-
-Topical Suspension, 0.005%/0.064% with Applicator
-
 Important: Taclonex® Topical Suspension is for use on skin only (topical).
 Do not get Taclonex® Topical Suspension near or in your mouth, eyes, or vagina.
 
@@ -44,15 +38,13 @@ Tell your doctor about all the medicines you take, including prescription and ov
 
 How should I use Taclonex® Topical Suspension?
 
-See the “Instructions for Use” for detailed information about the right way to use Taclonex® Topical Suspension Bottle or Taclonex® Topical Suspension with Applicator.
+See the “Instructions for Use” for detailed information about the right way to use Taclonex® Topical Suspension.
 
 - Use Taclonex® Topical Suspension exactly as your doctor tells you to use it.
 - Your doctor should tell you how much Taclonex® Topical Suspension to use and where to use it.
-- Your doctor will decide which type of Taclonex ® Topical Suspension to prescribe to you.
-  Taclonex ® Topical Suspension comes in:
+- Taclonex ® Topical Suspension comes in:
 - 
   - a carton containing a 60 g bottle or a carton containing 120 g (2 bottles of 60 g)
-  - an applicator, 60 g
 - If you are 18 years of age or older, you should not use more than 100 grams of Taclonex® Topical Suspension in 1 week.
 - If you are 12 to 17 years of age, you should not use more than 60 grams of Taclonex® Topical Suspension in 1 week.
 - Do not use Taclonex® Topical Suspension longer than prescribed.
@@ -108,8 +100,8 @@ How should I store Taclonex® Topical Suspension?
 
 - Store Taclonex® Topical Suspension at room temperature between 68°F to 77°F (20°C to 25°C).
 - Do not refrigerate Taclonex® Topical Suspension.
-- Bottle: Keep the bottle in the outer carton when not in use.
-- Bottle and Applicator: Discard unused Taclonex® Topical Suspension 6 months after it has been opened
+- Keep the bottle in the outer carton when not in use.
+- Discard unused Taclonex® Topical Suspension 6 months after it has been opened.
 
 Keep Taclonex®Topical Suspension and all medicines out of the reach of children.
 
@@ -137,4 +129,4 @@ Distributed by: LEO Pharma Inc., 1 Sylvan Way, Parsippany, NJ 07054, USA
 For more information, go to www.taclonex.com or call 1-877-494-4536.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised 06/2016
+Revised 01/2017
