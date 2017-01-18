@@ -1,5 +1,18 @@
 # WARNINGS
 
+## Risks from Concomitant Use with Opioids
+
+Concomitant use of benzodiazepines, including Alprazolam XR, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe Alprazolam XR concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of Alprazolam XR than indicated in the absence of an opioid and titrate based on clinical response.
+If an opioid is initiated in a patient already taking Alprazolam XR, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when Alprazolam XR is used with opioids.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see Drug Interactions).
+
 ## Dependence and Withdrawal Reactions, Including Seizures
 
 Certain adverse clinical events, some life-threatening, are a direct consequence of physical dependence to alprazolam.
@@ -81,19 +94,29 @@ The following are examples of drugs known to inhibit the metabolism of alprazola
 
 ### Potent CYP3A Inhibitors
 
-Azole antifungal agents — Ketoconazole and itraconazole are potent CYP3A inhibitors and have been shown in vivo to increase plasma alprazolam concentrations 3.98 fold and 2.70 fold, respectively.
+#### Azole antifungal agents
+
+Ketoconazole and itraconazole are potent CYP3A inhibitors and have been shown in vivo to increase plasma alprazolam concentrations 3.98 fold and 2.70 fold, respectively.
 The coadministration of alprazolam with these agents is not recommended.
 Other azole-type antifungal agents should also be considered potent CYP3A inhibitors and the coadministration of alprazolam with them is not recommended (see CONTRAINDICATIONS).
 
 Drugs demonstrated to be CYP3A inhibitors on the basis of clinical studies involving alprazolam (caution and consideration of appropriate alprazolam dose reduction are recommended during coadministration with the following drugs)
 
-Nefazodone — Coadministration of nefazodone increased alprazolam concentration two-fold.
+#### Nefazodone
 
-Fluvoxamine — Coadministration of fluvoxamine approximately doubled the maximum plasma concentration of alprazolam, decreased clearance by 49%, increased half-life by 71%, and decreased measured psychomotor performance.
+Coadministration of nefazodone increased alprazolam concentration two-fold.
 
-Cimetidine — Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.
+#### Fluvoxamine
 
-HIV protease inhibitors — Interactions involving HIV protease inhibitors (eg, ritonavir) and alprazolam are complex and time dependent.
+Coadministration of fluvoxamine approximately doubled the maximum plasma concentration of alprazolam, decreased clearance by 49%, increased half-life by 71%, and decreased measured psychomotor performance.
+
+#### Cimetidine
+
+Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.
+
+#### HIV protease inhibitors
+
+Interactions involving HIV protease inhibitors (eg, ritonavir) and alprazolam are complex and time dependent.
 Low doses of ritonavir resulted in a large impairment of alprazolam clearance, prolonged its elimination half-life and enhanced clinical effects.
 However, upon extended exposure to ritonavir, CYP3A induction offset this inhibition.
 This interaction will require a dose-adjustment or discontinuation of alprazolam.
@@ -127,20 +150,22 @@ The usual precautions in treating patients with impaired renal, hepatic, or pulm
 There have been rare reports of death in patients with severe pulmonary disease shortly after the initiation of treatment with Alprazolam tablets.
 A decreased systemic alprazolam elimination rate (eg, increased plasma half-life) has been observed in both alcoholic liver disease patients and obese patients receiving Alprazolam tablets (see CLINICAL PHARMACOLOGY).
 
-## Information For Patients
+## Information for Patients
 
 To assure safe and effective use of Alprazolam XR, the physician should provide the patient with the following guidance.
 
-1. Inform your physician about any alcohol consumption and medicine you are taking now, including medication you may buy without a prescription.
+1. Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when Alprazolam XR is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
+2. Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see Drug Interactions).
+3. Inform your physician about any alcohol consumption and medicine you are taking now, including medication you may buy without a prescription.
    Alcohol should generally not be used during treatment with benzodiazepines.
-2. Not recommended for use in pregnancy.
+4. Not recommended for use in pregnancy.
    Therefore, inform your physician if you are pregnant, if you are planning to have a child, or if you become pregnant while you are taking this medication.
-3. Inform your physician if you are nursing.
-4. Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery, etc.
-5. Do not increase the dose even if you think the medication "does not work anymore" without consulting your physician.
+5. Inform your physician if you are nursing.
+6. Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery, etc.
+7. Do not increase the dose even if you think the medication "does not work anymore" without consulting your physician.
    Benzodiazepines, even when used as recommended, may produce emotional and/or physical dependence.
-6. Do not stop taking this medication abruptly or decrease the dose without consulting your physician, since withdrawal symptoms can occur.
-7. Some patients may find it very difficult to discontinue treatment with Alprazolam XR due to severe emotional and physical dependence.
+8. Do not stop taking this medication abruptly or decrease the dose without consulting your physician, since withdrawal symptoms can occur.
+9. Some patients may find it very difficult to discontinue treatment with Alprazolam XR due to severe emotional and physical dependence.
    Discontinuation symptoms, including possible seizures, may occur following discontinuation from any dose, but the risk may be increased with extended use at doses greater than 4 mg/day, especially if discontinuation is too abrupt.
    It is important that you seek advice from your physician to discontinue treatment in a careful and safe manner.
    Proper discontinuation will help to decrease the possibility of withdrawal reactions that can range from mild reactions to severe reactions such as seizure.
@@ -152,6 +177,13 @@ However, when treatment is protracted, periodic blood counts, urinalysis, and bl
 
 ## Drug Interactions
 
+### Use with Opioids
+
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
+
 ### Use with Other CNS Depressants
 
 If Alprazolam XR tablets are to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed, particularly with compounds which might potentiate the action of benzodiazepines.
@@ -160,7 +192,7 @@ The benzodiazepines, including alprazolam, produce additive CNS depressant effec
 ### Use with Digoxin
 
 Increased digoxin concentrations have been reported when alprazolam was given, especially in elderly (>65 years of age).
-Patients who receive alprazolam and digoxin should therefore be monitored for signs and symptoms related to digoxin toxicity
+Patients who receive alprazolam and digoxin should therefore be monitored for signs and symptoms related to digoxin toxicity.
 
 ### Use with Imipramine and Desipramine
 
@@ -174,11 +206,17 @@ Drugs which inhibit this metabolic pathway may have a profound effect on the cle
 
 ### Drugs demonstrated to be CYP3A inhibitors of possible clinical significance on the basis of clinical studies involving alprazolam (caution is recommended during coadministration with alprazolam)
 
-Fluoxetine — Coadministration of fluoxetine with alprazolam increased the maximum plasma concentration of alprazolam by 46%, decreased clearance by 21%, increased half-life by 17%, and decreased measured psychomotor performance.
+#### Fluoxetine
 
-Propoxyphene — Coadministration of propoxyphene decreased the maximum plasma concentration of alprazolam by 6%, decreased clearance by 38%, and increased half-life by 58%.
+Coadministration of fluoxetine with alprazolam increased the maximum plasma concentration of alprazolam by 46%, decreased clearance by 21%, increased half-life by 17%, and decreased measured psychomotor performance.
 
-Oral Contraceptives — Coadministration of oral contraceptives increased the maximum plasma concentration of alprazolam by 18%, decreased clearance by 22%, and increased half-life by 29%.
+#### Propoxyphene
+
+Coadministration of propoxyphene decreased the maximum plasma concentration of alprazolam by 6%, decreased clearance by 38%, and increased half-life by 58%.
+
+#### Oral Contraceptives
+
+Coadministration of oral contraceptives increased the maximum plasma concentration of alprazolam by 18%, decreased clearance by 22%, and increased half-life by 29%.
 
 ### Drugs and other substances demonstrated to be CYP3A inhibitors on the basis of clinical studies involving benzodiazepines metabolized similarly to alprazolam or on the basis of in vitro studies with alprazolam or other benzodiazepines (caution is recommended during coadministration with alprazolam)
 
@@ -196,7 +234,7 @@ Carbamazepine can increase alprazolam metabolism and therefore can decrease plas
 
 Although interactions between benzodiazepines and commonly employed clinical laboratory tests have occasionally been reported, there is no consistent pattern for a specific drug or specific test.
 
-## Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No evidence of carcinogenic potential was observed during 2-year bioassay studies of alprazolam in rats at doses up to 30 mg/kg/day (150 times the maximum recommended daily human dose of 10 mg/day) and in mice at doses up to 10 mg/kg/day (50 times the maximum recommended daily human dose).
 
@@ -218,7 +256,7 @@ Alprazolam produced no impairment of fertility in rats at doses up to 5 mg/kg/da
 It should be considered that the child born of a mother who is receiving benzodiazepines may be at some risk for withdrawal symptoms from the drug during the postnatal period.
 Also, neonatal flaccidity and respiratory problems have been reported in children born of mothers who have been receiving benzodiazepines.
 
-## Labor And Delivery
+## Labor and Delivery
 
 Alprazolam has no established use in labor or delivery.
 
