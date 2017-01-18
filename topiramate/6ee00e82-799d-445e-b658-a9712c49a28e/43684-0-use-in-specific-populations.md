@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -14,15 +14,17 @@ Pregnancy Registry
 
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334.
+To enroll, patients can call the toll-free number 1-888-233-2334.
 Information about the North American Drug Pregnancy Registry can be found at http://www.massgeneral.org/aed/.
 
 Human Data
 
-Data from the NAAED Pregnancy Registry indicate an increased risk of oral clefts in infants exposed to topiramate monotherapy during the first trimester of pregnancy.
-The prevalence of oral clefts was 1.2% compared to a prevalence of 0.39% - 0.46% in infants exposed to other AEDs, and a prevalence of 0.12% in infants of mothers without epilepsy or treatment with other AEDs.
+Data from the NAAED Pregnancy Registry (425 prospective topiramate monotherapy-exposed pregnancies) indicate an increased risk of oral clefts in infants exposed during the first trimester of pregnancy.
+The prevalence of oral clefts among topiramate-exposed infants was 1.2% compared to a prevalence of 0.39% for infants exposed to a reference AED.
+In infants of mothers without epilepsy or treatment with other AEDs, the prevalence was 0.12%.
 For comparison, the Centers for Disease Control and Prevention (CDC) reviewed available data on oral clefts in the United States and found a similar background rate of 0.17%.
-The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 9.6 (95% Confidence Interval = CI 3.6 – 25.7) as compared to the risk in a background population of untreated women.
+
+The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 9.6 (95% Confidence Interval [CI] 4.0 – 23.0) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a similarly increased prevalence of oral clefts of 3.2% among infants exposed to topiramate monotherapy.
 The observed rate of oral clefts was 16 times higher than the background rate in the UK, which is approximately 0.2%.
 
@@ -34,7 +36,7 @@ Newborns of mothers treated with topiramate should be monitored for metabolic ac
 Animal Data
 
 Topiramate has demonstrated selective developmental toxicity, including teratogenicity, in multiple animal species at clinically relevant doses.
-When oral doses of 20, 100 or 500 mg/kg were administered to pregnant mice during the period of organogenesis, the incidence of fetal malformations (primarily craniofacial defects) was increased at all doses.
+When oral doses of 20, 100, or 500 mg/kg were administered to pregnant mice during the period of organogenesis, the incidence of fetal malformations (primarily craniofacial defects) was increased at all doses.
 The low dose is approximately 0.2 times the recommended human dose (RHD) 400 mg/day on a mg/m2 basis.
 Fetal body weights and skeletal ossification were reduced at 500 mg/kg in conjunction with decreased maternal body weight gain.
 
@@ -48,7 +50,7 @@ Evidence of maternal toxicity (decreased body weight gain, clinical signs, and/o
 When female rats were treated during the latter part of gestation and throughout lactation (0.2, 4, 20, and 100 mg/kg or 2, 20, and 200 mg/kg), offspring exhibited decreased viability and delayed physical development at 200 mg/kg (5 times the RHD on a mg/m2 basis) and reductions in pre-and/or postweaning body weight gain at 2 mg/kg (0.05 times the RHD on a mg/m2 basis) and above.
 Maternal toxicity (decreased body weight gain, clinical signs) was evident at 100 mg/kg or greater.
 
-In a rat embryo/fetal development study with a postnatal component (0.2, 2.5, 30 or 400 mg/kg during organogenesis; noted above), pups exhibited delayed physical development at 400 mg/kg (10 times the RHD on a mg/m2 basis) and persistent reductions in body weight gain at 30 mg/kg (1 times the RHD on a mg/m2 basis) and higher.
+In a rat embryo/fetal development study with a postnatal component (0.2, 2.5, 30, or 400 mg/kg during organogenesis; noted above), pups exhibited delayed physical development at 400 mg/kg (10 times the RHD on a mg/m2 basis) and persistent reductions in body weight gain at 30 mg/kg (1 times the RHD on a mg/m2 basis) and higher.
 
 ## 8.2 Labor and Delivery
 
@@ -68,7 +70,7 @@ Safety and effectiveness in patients below the age of 2 years have not been esta
 In a single randomized, double-blind placebo-controlled investigational trial, the efficacy, safety, and tolerability of topiramate oral liquid and sprinkle formulations as an adjunct to concurrent antiepileptic drug therapy in infants 1 to 24 months of age with refractory partial onset seizures were assessed.
 After 20 days of double-blind treatment, topiramate (at fixed doses of 5, 15, and 25 mg/kg/day) did not demonstrate efficacy compared with placebo in controlling seizures.
 
-In general, the adverse reaction profile in this population was similar to that of older pediatric patients, although results from the above controlled study and an open-label long-term extension study in these infants/toddlers (1 to 24 months old) suggested some adverse reactions/toxicities (not previously observed in older pediatric patients and adults; i.e., growth/length retardation, certain clinical laboratory abnormalities, and other adverse reactions/toxicities that occurred with a greater frequency and/or greater severity than had been recognized previously from studies in older pediatric patients or adults for various indications.
+In general, the adverse reaction profile in this population was similar to that of older pediatric patients, although results from the above controlled study and an open-label, long-term extension study in these infants/toddlers (1 to 24 months old) suggested some adverse reactions/toxicities (not previously observed in older pediatric patients and adults; i.e., growth/length retardation, certain clinical laboratory abnormalities, and other adverse reactions/toxicities that occurred with a greater frequency and/or greater severity than had been recognized previously from studies in older pediatric patients or adults for various indications.
 
 These very young pediatric patients appeared to experience an increased risk for infections (any topiramate dose 12%, placebo 0%) and of respiratory disorders (any topiramate dose 40%, placebo 16%).
 The following adverse reactions were observed in at least 3% of patients on topiramate and were 3% to 7% more frequent than in patients on placebo: viral infection, bronchitis, pharyngitis, rhinitis, otitis media, upper respiratory infection, cough, and bronchospasm.
@@ -99,9 +101,27 @@ Monotherapy Treatment in Partial Onset Epilepsy in Patients <2 Years Old
 
 Safety and effectiveness in patients below the age of 2 years have not been established for the monotherapy treatment of epilepsy.
 
+Migraine Prophylaxis in Children 6 to 11 Years Old
+
+Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the prophylaxis treatment of migraine headache.
+
+In a double-blind study in 90 children age 6 to 11 years (including 59 topiramate-treated and 31 placebo patients), the adverse reaction profile was generally similar to that in pooled double-blind studies of adolescents age 12 to 17 years.
+The adverse reactions that occurred most commonly in topiramate treated children age 6 to 11 years, and at least twice as frequently than placebo, were gastroenteritis (12% topiramate, 6% placebo), sinusitis (10% topiramate, 3% placebo), weight decrease (8% topiramate, 3% placebo) and paresthesia (7% topiramate, 0% placebo).
+Difficulty with concentration/attention occurred in 3 topiramate-treated patients (5%) and 0 placebo patients.
+
+The risk for cognitive adverse reaction was greater in younger patients (6 to 11 years) than in older patients (12 to 17 years) [see Warnings and Precautions (5.6)].
+
+For patients 6 to 11 years, the following were noted to be abnormally increased more frequently with topiramate than with placebo: alkaline phosphatase, creatinine, and eosinophils.
+Analytes abnormally decreased were: total white count and neutrophils [see Warnings and Precautions (5.16)].
+
+Serum bicarbonate, chloride, phosphorus, and ammonia data were not collected for pediatric patients 6 to 11 years of age.
+
+Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.'s TOPAMAX (topiramate) Tablets and Sprinkle Capsules.
+However, due to Janssen Pharmaceuticals, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
 Juvenile Animal Studies
 
-When topiramate (30, 90 or 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose, which is approximately 5 to 8 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m2) basis.
+When topiramate (30, 90, or 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose, which is approximately 5 to 8 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m2) basis.
 
 ## 8.5 Geriatric Use
 
@@ -133,4 +153,4 @@ Data from pregnancy registries indicate that infants exposed to topiramate in ut
 Consider the benefits and the risks of topiramate when prescribing this drug to women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death.
 Because of the risk of oral clefts to the fetus, which occur in the first trimester of pregnancy before many women know they are pregnant, all women of childbearing potential should be apprised of the potential hazard to the fetus from exposure to topiramate.
 If the decision is made to use topiramate, women who are not planning a pregnancy should use effective contraception [see Drug Interactions (7.3)].
-Women who are planning a pregnancy should be counseled regarding the relative risks and benefits of topiramate use during pregnancy, and alternative therapeutic options should be considered for these patients [see Patient Counseling Information (17.6)].
+Women who are planning a pregnancy should be counseled regarding the relative risks and benefits of topiramate use during pregnancy, and alternative therapeutic options should be considered for these patients.

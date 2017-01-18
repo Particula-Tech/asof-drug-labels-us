@@ -1,4 +1,6 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
+
+## 16.1 How Supplied.
 
 Topiramate Tablets USP are available as:
 
@@ -50,9 +52,9 @@ Bottles of 500: NDC 29300-118-05
 
 Bottles of 1000: NDC 29300-118-10
 
-Storage and Handling
+## 16.2 Storage and Handling.
 
-Store at 200-250C (680-770F) [See USP Controlled Room Temperature].
+Store at 200 to 250C (680 to 770F) [See USP Controlled Room Temperature].
 Protect from moisture.
 
 Dispense in a tight, light–resistant container.

@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Overdoses of topiramate have been reported.
 Signs and symptoms included convulsions, drowsiness, speech disturbance, blurred vision, diplopia, mentation impaired, lethargy, abnormal coordination, stupor, hypotension, abdominal pain, agitation, dizziness and depression.

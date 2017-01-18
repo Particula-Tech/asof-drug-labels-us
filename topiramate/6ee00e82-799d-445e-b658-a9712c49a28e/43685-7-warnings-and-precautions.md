@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Acute Myopia and Secondary Angle Closure Glaucoma
 
@@ -16,9 +16,9 @@ Elevated intraocular pressure of any etiology, if left untreated, can lead to se
 
 ## 5.2 Visual Field Defects
 
-Visual field defects have been reported in patients receiving topiramate independent of elevated intraocular pressure.
+Visual field defects (independent of elevated intraocular pressure) have been reported in clinical trials and in postmarketing experience in patients receiving topiramate.
 In clinical trials, most of these events were reversible after topiramate discontinuation.
-If visual problems occur at any time during topiramate treatment, consideration should be given to discontinuing the drug [see Patient Counseling Information (17)].
+If visual problems occur at any time during topiramate treatment, consideration should be given to discontinuing the drug.
 
 ## 5.3 Oligohidrosis and Hyperthermia
 
@@ -39,26 +39,6 @@ Generally, topiramate-induced metabolic acidosis occurs early in treatment altho
 Bicarbonate decrements are usually mild-moderate (average decrease of 4 mEq/L at daily doses of 400 mg in adults and at approximately 6 mg/kg/day in pediatric patients); rarely, patients can experience severe decrements to values below 10 mEq/L.
 Conditions or therapies that predispose patients to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhea, ketogenic diet or specific drugs) may be additive to the bicarbonate lowering effects of topiramate.
 
-In adults, the incidence of persistent treatment-emergent decreases in serum bicarbonate (levels of < 20 mEq/L at two consecutive visits or at the final visit) in controlled clinical trials for adjunctive treatment of epilepsy was 32% for 400 mg/day, and 1% for placebo.
-Metabolic acidosis has been observed at doses as low as 50 mg/day.
-The incidence of persistent treatment-emergent decreases in serum bicarbonate in adults in the epilepsy controlled clinical trial for monotherapy was 15% for 50 mg/day and 25% for 400 mg/day.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and >5 mEq/L decrease from pretreatment) in the adjunctive therapy trials was 3% for 400 mg/day, and 0% for placebo and in the monotherapy trial was 1% for 50 mg/day and 7% for 400 mg/day.
-Serum bicarbonate levels have not been systematically evaluated at daily doses greater than 400 mg/day.
-
-In pediatric patients (2 to 16 years of age), the incidence of persistent treatment-emergent decreases in serum bicarbonate in placebo-controlled trials for adjunctive treatment of Lennox-Gastaut syndrome or refractory partial onset seizures was 67% for topiramate (at approximately 6 mg/kg/day), and 10% for placebo.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and > 5 mEq/L decrease from pretreatment) in these trials was 11% for topiramate and 0% for placebo.
-Cases of moderately severe metabolic acidosis have been reported in patients as young as 5 months old, especially at daily doses above 5 mg/kg/day.
-
-Although not approved for use in patients under 2 years of age with partial onset seizures, a controlled trial that examined this population revealed that topiramate produced a metabolic acidosis that is notably greater in magnitude than that observed in controlled trials in older children and adults.
-The mean treatment difference (25 mg/kg/day topiramate-placebo) was -5.9 mEq/L for bicarbonate.
-The incidence of metabolic acidosis (defined by a serum bicarbonate <20 mEq/L) was 0% for placebo, 30% for 5 mg/kg/day, 50% for 15 mg/kg/day, and 45% for 25 mg/kg/day.
-The incidence of markedly abnormal changes (i.e., <17 mEq/L and >5 mEq/L decrease from baseline of >20 mEq/L) was 0% for placebo, 4% for 5 mg/kg/day, 5% for 15 mg/kg/day, and 5% for 25 mg/kg/day [see Use in Special Population (8.4)].
-
-In pediatric patients (6 to 15 years of age), the incidence of persistent treatment-emergent decreases in serum bicarbonate in the epilepsy controlled clinical trial for monotherapy was 9% for 50 mg/day and 25% for 400 mg/day.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and >5 mEq/L decrease from pretreatment) in this trial was 1% for 50 mg/day and 6% for 400 mg/day.
-In adult patients (≥ 16 years of age), the incidence of persistent treatment-emergent decreases in serum bicarbonate in the epilepsy controlled clinical trial for monotherapy was 14 % for 50 mg/day and 25 % for 400 mg/day.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and >5 mEq/L decrease from pretreatment) in this trial for adults was 1 % for 50 mg/day and 6 % for 400 mg/day.
-
 Some manifestations of acute or chronic metabolic acidosis may include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
 Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis, and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures.
 Chronic metabolic acidosis in pediatric patients may also reduce growth rates.
@@ -68,9 +48,46 @@ Long-term, open-label treatment of infants/toddlers, with intractable partial ep
 Reductions in Z SCORES for length and weight were correlated to the degree of acidosis [see Use in Specific Populations (8.4)].
 Topiramate treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)]
 
+Epilepsy
+
+Adult patients
+
+In adults, the incidence of persistent treatment-emergent decreases in serum bicarbonate (levels of < 20 mEq/L at two consecutive visits or at the final visit) in controlled clinical trials for adjunctive treatment of epilepsy was 32% for 400 mg/day, and 1% for placebo.
+Metabolic acidosis has been observed at doses as low as 50 mg/day.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and >5 mEq/L decrease from pretreatment) in the adjunctive therapy trials was 3% for 400 mg/day, and 0% for placebo.
+The incidence of persistent treatment-emergent decreases in serum bicarbonate in adult patients (> 16 years of age) in the epilepsy controlled clinical trial for monotherapy was 14 % for 50 mg/day and 25% for 400 mg/day.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and >5 mEq/L decrease from pretreatment) in this trial for adults was 1% for 50 mg/day and 6% for 400 mg/day.
+Serum bicarbonate levels have not been systematically evaluated at daily doses greater than 400 mg/day.
+
+Pediatric patients
+
+In pediatric patients (2 to 16 years of age), the incidence of persistent treatment-emergent decreases in serum bicarbonate in placebo-controlled trials for adjunctive treatment of Lennox-Gastaut syndrome or refractory partial onset seizures was 67% for topiramate (at approximately 6 mg/kg/day), and 10% for placebo.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and > 5 mEq/L decrease from pretreatment) in these trials was 11% for topiramate and 0% for placebo.
+Cases of moderately severe metabolic acidosis have been reported in patients as young as 5 months old, especially at daily doses above 5 mg/kg/day.
+
+Although not approved for use in patients under 2 years of age with partial onset seizures, a controlled trial that examined this population revealed that topiramate produced a metabolic acidosis that is notably greater in magnitude than that observed in controlled trials in older children and adults.
+The mean treatment difference (25 mg/kg/day topiramate-placebo) was -5.9 mEq/L for bicarbonate.
+The incidence of metabolic acidosis (defined by a serum bicarbonate <20 mEq/L) was 0% for placebo, 30% for 5 mg/kg/day, 50% for 15 mg/kg/day, and 45% for 25 mg/kg/day.
+The incidence of markedly abnormal changes (i.e., <17 mEq/L and >5 mEq/L decrease from baseline of >20 mEq/L) was 0% for placebo, 4% for 5 mg/kg/day, 5% for 15 mg/kg/day, and 5% for 25 mg/kg/day [see Use in Specific Population (8.4)].
+
+In pediatric patients (6 to 15 years of age), the incidence of persistent treatment-emergent decreases in serum bicarbonate in the epilepsy controlled clinical trial for monotherapy was 9% for 50 mg/day and 25% for 400 mg/day.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and >5 mEq/L decrease from pretreatment) in this trial was 1% for 50 mg/day and 6% for 400 mg/day.
+
+Measurement of Serum Bicarbonate in Epilepsy Patients
+
 Measurement of baseline and periodic serum bicarbonate during topiramate treatment is recommended.
 If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing topiramate (using dose tapering).
 If the decision is made to continue patients on topiramate in the face of persistent acidosis, alkali treatment should be considered.
+
+Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.'s TOPAMAX (topiramate) Tablets and Sprinkle Capsules.
+However, due to Janssen Pharmaceuticals, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+Migraine
+
+Adult patients
+
+The incidence of persistent treatment-emergent decreases in serum bicarbonate in placebo-controlled trials for adults for prophylaxis of migraine was 44% for 200 mg/day, 39% for 100 mg/day, 23% for 50 mg/day, and 7% for placebo.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and >5 mEq/L decrease from pretreatment) in these trials was 11% for 200 mg/day, 9% for 100 mg/day, 2% for 50 mg/day, and <1% for placebo.
 
 ## 5.5 Suicidal Behavior and Ideation
 
@@ -88,9 +105,9 @@ The risk of suicidal thoughts or behavior was generally consistent among drugs i
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 
-Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 4: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events per 1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/ Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -105,7 +122,7 @@ Anyone considering prescribing topiramate or any other AED must balance the risk
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior or the emergence of suicidal thoughts, behavior or thoughts about self-harm.
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior or the emergence of suicidal thoughts, or behavior or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.6 Cognitive/Neuropsychiatric Adverse Reactions
@@ -127,19 +144,29 @@ Some patients who experienced one or more cognitive-related adverse reactions in
 
 In the monotherapy epilepsy controlled trial, the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg/day and 26% for 400 mg/day.
 
+In the 6-month migraine prophylaxis controlled trials using a slower titration regimen (25 mg/day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg/day, 22% for 100 mg/day (the recommended dose), 28% for 200 mg/day, and 10% for placebo.
+These dose-related adverse reactions typically began in the titration phase and often persisted into the maintenance phase, but infrequently began in the maintenance phase.
+Some patients experienced a recurrence of one or more of these cognitive adverse reactions and this recurrence was typically in the titration phase.
+A relatively small proportion of topiramate-treated patients experienced more than one concurrent cognitive adverse reaction.
+The most common cognitive adverse reactions occurring together included difficulty with memory along with difficulty with concentration/attention, difficulty with memory along with language problems, and difficulty with concentration/attention along with language problems.
+Rarely, topiramate-treated patients experienced three concurrent cognitive reactions.
+
 Psychiatric/Behavioral Disturbances
 
-Psychiatric/behavioral disturbances (depression or mood) were dose-related for the epilepsy population [see Warnings and Precautions (5.5)].
+Psychiatric/behavioral disturbances (depression or mood) were dose-related for both the epilepsy and migraine population [see Warnings and Precautions (5.5)].
 
 Somnolence/Fatigue
 
 Somnolence and fatigue were the adverse reactions most frequently reported during clinical trials of topiramate for adjunctive epilepsy.
 For the adjunctive epilepsy population, the incidence of somnolence did not differ substantially between 200 mg/day and 1,000 mg/day, but the incidence of fatigue was dose-related and increased at dosages above 400 mg/day.
 For the monotherapy epilepsy population in the 50 mg/day and 400 mg/day groups, the incidence of somnolence was dose-related (9% for the 50 mg/day group and 15% for the 400 mg/day group) and the incidence of fatigue was comparable in both treatment groups (14% each).
+For the migraine population, fatigue and somnolence were dose-related and more common in the titration phase.
 
 Additional nonspecific CNS events commonly observed with topiramate in the add-on epilepsy population include dizziness or ataxia.
 
 Pediatric Patients
+
+Epilepsy
 
 In double-blind adjunctive therapy and monotherapy epilepsy clinical studies, the incidences of cognitive/neuropsychiatric adverse reactions in pediatric patients were generally lower than observed in adults.
 These reactions included psychomotor slowing, difficulty with concentration/attention, speech disorders/related speech problems and language problems.
@@ -150,19 +177,22 @@ No patients discontinued treatment due to any adverse reactions in the adjunctiv
 In the monotherapy epilepsy double-blind trial, 1 pediatric patient (2%) in the 50 mg/day group and 7 pediatric patients (12%) in the 400 mg/day group discontinued treatment due to any adverse reactions.
 The most common adverse reaction associated with discontinuation of therapy was difficulty with concentration/attention; all occurred in the 400 mg/day group.
 
+Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.'s TOPAMAX (topiramate) Tablets and Sprinkle Capsules.
+However, due to Janssen Pharmaceuticals, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
 ## 5.7 Fetal Toxicity
 
 Topiramate can cause fetal harm when administered to a pregnant woman.
 Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts).
 When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
 
-Consider the benefits and the risks of topiramate when administering this drug in women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.9) and Patient Counseling Information (17.8)].
+Consider the benefits and the risks of topiramate when administering this drug in women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.9) and Patient Counseling Information (17)].
 Topiramate should be used during pregnancy only if the potential benefit outweighs the potential risk.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1) and (8.9)].
 
 ## 5.8 Withdrawal of Antiepileptic Drugs (AEDs)
 
-In patients with or without a history of seizures or epilepsy, antiepileptic drugs, including topiramate should be gradually withdrawn to minimize the potential for seizures or increased seizure frequency [see Clinical Studies (14)].
+In patients with or without a history of seizures or epilepsy, antiepileptic drugs, including topiramate, should be gradually withdrawn to minimize the potential for seizures or increased seizure frequency [see Clinical Studies (14)].
 In situations where rapid withdrawal of topiramate is medically required, appropriate monitoring is recommended.
 
 ## 5.9 Sudden Unexplained Death in Epilepsy (SUDEP)
@@ -175,13 +205,18 @@ Although this rate exceeds that expected in a healthy population matched for age
 
 Hyperammonemia/Encephalopathy Without Concomitant Valproic Acid (VPA)
 
-Topiramate treatment has produced hyperammonemia (in some instances dose-related) in clinical investigational programs of adolescents (12 to 16 years) who were treated with topiramate monotherapy (incidence above the upper limit of normal, 22% for placebo, 26% for 50 mg/day, 41% for 100 mg/day) and in very young pediatric patients (1 to 24 months) who were treated with adjunctive topiramate for partial onset epilepsy (8% for placebo, 10% for 5 mg/kg/day, 0% for 15 mg/kg/day, 9% for 25 mg/kg/day).
-Topiramate is not approved as adjunctive treatment of partial onset seizures in pediatric patients less than 2 years old.
-In some patients, ammonia was markedly increased (50% above upper limit of normal).
-In adolescent patients, the incidence of markedly increased hyperammonemia was 6% for placebo, 6% for 50 mg, and 12% for 100 mg topiramate daily.
-The hyperammonemia associated with topiramate treatment occurred with and without encephalopathy in placebo-controlled trials, and in an open-label, extension trial.
-Dose-related hyperammonemia was also observed in the extension trial in pediatric patients up to 2 years old.
+Topiramate treatment has produced hyperammonemia (in some instances dose-related) in a clinical investigational program in adolescent patients (12 to 17 years) given topiramate for another indication.
+The incidence of hyperammonemia (above the upper limit of normal reference) at any time in the trial was 9% for placebo, 14% for 50 mg, and 26% for 100 mg topiramate daily.
+In some patients, hyperammonemia was observed at the end of the trial at the final visit.
+The incidence of markedly increased hyperammonemia (at least 50% or higher above upper limit of normal) at any time in the trial in adolescent patients was also increased at 100 mg/day (9%) compared to 50 mg topiramate (0%) or placebo (3%).
+During this trial, markedly increased ammonia levels returned to normal in all but one patient (in whom the ammonia level fell to high instead of markedly abnormal).
+
+Topiramate treatment has produced hyperammonemia in a clinical investigational program in very young pediatric patients (1 to 24 months) who were treated with adjunctive topiramate for partial onset epilepsy (8% for placebo, 10% for 5 mg/kg/day, 0% for 15 mg/kg/day, 9% for 25 mg/kg/day).
+In some patients, ammonia was markedly increased (>50% above upper limit of normal).
+The hyperammonemia associated with topiramate treatment occurred with and without encephalopathy in placebo-controlled trials and in an open-label, extension trial of infants with refractory epilepsy.
+Dose-related hyperammonemia was observed in the extension trial in pediatric patients up to 2 years old.
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
+Topiramate is not approved as adjunctive treatment of partial onset seizures in pediatric patients less than 2 years old.
 
 Hyperammonemia with and without encephalopathy has also been observed in post-marketing reports in patients who were taking topiramate without concomitant valproic acid (VPA).
 
@@ -212,16 +247,20 @@ In patients who develop unexplained lethargy, vomiting, or changes in mental sta
 A total of 32/2086 (1.5%) of adults exposed to topiramate during its adjunctive epilepsy therapy development reported the occurrence of kidney stones, an incidence about 2 to 4 times greater than expected in a similar, untreated population.
 In the double-blind monotherapy epilepsy study, a total of 4/319 (1.3%) of adults exposed to topiramate reported the occurrence of kidney stones.
 As in the general population, the incidence of stone formation among topiramate-treated patients was higher in men.
-Kidney stones have also been reported in pediatric patients.
+Kidney stones have also been reported in pediatric patients taking topiramate for epilepsy or migraine.
+
 During long-term (up to 1 year) topiramate treatment in an open-label extension study of 284 pediatric patients 1 to 24 months old with epilepsy, 7% developed kidney or bladder stones that were diagnosed clinically or by sonogram.
-Topiramate is not approved for pediatric patients less than 2 years old [see Use in Specific Population (8.4)].
+Topiramate is not approved for treatment of epilepsy in pediatric patients less than 2 years old [see Use in Specific Population (8.4)].
 
 An explanation for the association of topiramate and kidney stones may lie in the fact that topiramate is a carbonic anhydrase inhibitor.
-Carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) can promote stone formation by reducing urinary citrate excretion and by increasing urinary pH [see Warnings and Precautions (5.5)].
-The concomitant use of topiramate with any other drug producing metabolic acidosis, or potentially in patients on a ketogenic diet may create a physiological environment that increases the risk of kidney stone formation, and should therefore be avoided.
+Carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) can promote stone formation by reducing urinary citrate excretion and by increasing urinary pH [see Warnings and Precautions (5.4)].
+The concomitant use of topiramate with any other drug producing metabolic acidosis, or potentially in patients on a ketogenic diet, may create a physiological environment that increases the risk of kidney stone formation, and should therefore be avoided.
 
 Increased fluid intake increases the urinary output, lowering the concentration of substances involved in stone formation.
 Hydration is recommended to reduce new stone formation.
+
+Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.'s TOPAMAX (topiramate) Tablets and Sprinkle Capsules.
+However, due to Janssen Pharmaceuticals, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 5.12 Hypothermia with Concomitant Valproic Acid (VPA) Use
 
@@ -232,7 +271,7 @@ Clinical management and assessment should include examination of blood ammonia l
 
 ## 5.13 Paresthesia
 
-Paresthesia (usually tingling of the extremities), an effect associated with the use of other carbonic anhydrase inhibitors, appears to be a common effect of topiramate.
+Paresthesia (usually tingling of the extremities), an effect associated with the use of other carbonic anhydrase inhibitors, appears to be a common effect of topiramate in adult and pediatric patients.
 Paresthesia was more frequently reported in the monotherapy epilepsy trials than in the adjunctive therapy epilepsy trials.
 In the majority of instances, paresthesia did not lead to treatment discontinuation.
 
@@ -249,12 +288,28 @@ In hepatically impaired patients, topiramate should be administered with caution
 
 Topiramate treatment was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies.
 
-Topiramate treatment causes non-anion gap, hyperchloremic, metabolic acidosis manifested by a decrease in serum bicarbonate and an increase in serum chloride.
+Topiramate treatment causes non-anion gap, hyperchloremic metabolic acidosis manifested by a decrease in serum bicarbonate and an increase in serum chloride.
 Measurement of baseline and periodic serum bicarbonate during topiramate treatment is recommended [see Warnings and Precautions (5.4)].
 
-Controlled trials of adjunctive topiramate treatment of adults for partial onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% topiramate, 2% placebo), markedly increased serum alkaline phosphatase (3% topiramate, 1% placebo), and decreased serum potassium (0.4% topiramate, 0.1% placebo).
-The clinical significance of these abnormalities has not been clearly established.
-
-Changes in several clinical laboratory values (i.e., increased creatinine, BUN, alkaline phosphatase, total protein, total eosinophil count and decreased potassium) have been observed in a clinical investigational program in very young (<2 years) pediatric patients who were treated with adjunctive topiramate for partial onset seizures [see Use in Specific Populations (8.4)].
-
 Topiramate treatment with or without concomitant valproic acid (VPA) can cause hyperammonemia with or without encephalopathy [see Warnings and Precautions (5.10)].
+
+The clinical significance of decreased serum bicarbonate and associated increased serum chloride reflecting metabolic acidosis and increased ammonia reflecting hyperammonemia which may be associated with encephalopathy is described [see Warnings and Precautions (5.4 and 5.10)].
+However, the clinical significance of these other various abnormalities in other clinical laboratory analytes described here has not been clearly established.
+
+Epilepsy
+
+Controlled trials of adjunctive topiramate treatment of adults for partial onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% topiramate, 2% placebo), markedly increased serum alkaline phosphatase (3% topiramate, 1% placebo), and decreased serum potassium (0.4% topiramate, 0.1% placebo).
+
+Changes in several clinical laboratory analytes (i.e., increased creatinine, BUN, alkaline phosphatase, total protein, total eosinophil count and decreased potassium) have been observed in a clinical investigational program in very young (<2 years) pediatric patients who were treated with adjunctive topiramate for partial onset seizures [see Use in Specific Populations (8.4)].
+
+Other Use
+
+In pooled double-blind studies in pediatric patients (6 to 17 years), an increased risk for certain abnormalities (value outside normal reference range) in selected clinical laboratory analytes measured in blood has been observed during topiramate treatment of pediatric patients compared to placebo-treated patients.
+In some instances, abnormalities were also observed at the end of the trial at the final visit and the changes were considered markedly abnormal.
+
+For patients 12 to 17 years, the following were noted to be abnormally increased more frequently with topiramate than with placebo: BUN, creatinine, uric acid, chloride [see Warnings and Precautions (5.4)], ammonia [see Warnings and Precautions (5.10)], total protein, and platelets.
+The following were abnormally decreased in some subjects: phosphorus, and bicarbonate [see Warnings and Precautions (5.4)].
+
+For patients 6 to 11 years, the following were noted to be abnormally increased more frequently with topiramate than with placebo: alkaline phosphatase, creatinine and eosinophils.
+Analytes abnormally decreased were: total white count and neutrophils.
+There was no testing for serum bicarbonate, chloride, ammonia, or phosphorus in these younger patients.

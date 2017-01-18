@@ -1,8 +1,8 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
-The precise mechanisms by which topiramate exerts its anticonvulsant effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy.
+The precise mechanisms by which topiramate exerts its anticonvulsant and migraine prophylaxis effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and migraine prophylaxis.
 Electrophysiological and biochemical evidence suggests that topiramate, at pharmacologically relevant concentrations, blocks voltage-dependent sodium channels, augments the activity of the neurotransmitter gamma-aminobutyrate at some subtypes of the GABA-A receptor, antagonizes the AMPA/kainate subtype of the glutamate receptor, and inhibits the carbonic anhydrase enzyme, particularly isozymes II and IV.
 
 ## 12.2 Pharmacodynamics
@@ -11,9 +11,14 @@ Topiramate has anticonvulsant activity in rat and mouse maximal electroshock sei
 Topiramate is only weakly effective in blocking clonic seizures induced by the GABAA receptor antagonist, pentylenetetrazole.
 Topiramate is also effective in rodent models of epilepsy, which include tonic and absence-like seizures in the spontaneous epileptic rat (SER) and tonic and clonic seizures induced in rats by kindling of the amygdala or by global ischemia.
 
-## 12.3 Pharmacokinetics
+Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for another indication.
+The most notable changes were SBP < 90 mm Hg, DBP < 50 mm Hg, SBP or DBP increases or decreases ≥ 20 mm Hg, and pulse increases or decreases ≥ 30 beats per minute.
+These changes were often dose-related, and were most frequently associated with the greatest treatment difference at the 200 mg dose level.
+When a position was specified for measurement of vital signs in a trial, measurements were made in a sitting position.
+Systematic collection of orthostatic vital signs has not been conducted.
+The clinical significance of these various changes in vital signs has not been clearly established.
 
-The sprinkle formulation is bioequivalent to the immediate-release tablet formulation and, therefore, may be substituted as a therapeutic equivalent.
+## 12.3 Pharmacokinetics
 
 Absorption of topiramate is rapid, with peak plasma concentrations occurring at approximately 2 hours following a 400 mg oral dose.
 The relative bioavailability of topiramate from the tablet formulation is about 80% compared to a solution.
@@ -39,7 +44,7 @@ In rats, given probenecid to inhibit tubular reabsorption, along with topiramate
 This interaction has not been evaluated in humans.
 Overall, oral plasma clearance (CL/F) is approximately 20 to 30 mL/min in adults following oral administration.
 
-Special Populations
+Specific Populations
 
 Renal Impairment
 
@@ -68,7 +73,7 @@ Reflecting the primary renal elimination of topiramate, topiramate plasma and re
 Similarly, topiramate half-life was longer (13%) in the elderly.
 Reduced topiramate clearance resulted in slightly higher maximum plasma concentration (23%) and AUC (25%) in elderly subjects than observed in young adults.
 Topiramate clearance is decreased in the elderly only to the extent that renal function is reduced.
-As recommended for all patients, dosage adjustment may be indicated in the elderly patient when impaired renal function (creatinine clearance rate 70 mL/min/1.73 m2) is evident.
+As recommended for all patients, dosage adjustment may be indicated in the elderly patient when impaired renal function (creatinine clearance rate <70 mL/min/1.73 m2) is evident.
 It may be useful to monitor renal function in the elderly patient [see Dosage and Administration (2.4) and Warnings and Precautions (5.14)].
 
 Clearance of topiramate in adults was not affected by gender or race.
@@ -76,7 +81,7 @@ Clearance of topiramate in adults was not affected by gender or race.
 Pediatric Pharmacokinetics
 
 Pharmacokinetics of topiramate were evaluated in patients aged 2 to <16 years.
-Patients received either no or combination of other antiepileptic drugs.
+Patients received either no or a combination of other antiepileptic drugs.
 A population pharmacokinetic model was developed on the basis of pharmacokinetic data from relevant topiramate clinical studies.
 This dataset contained data from 1217 subjects including 258 pediatric patients aged 2 to <16 years (95 pediatric patients <10 years of age).
 
@@ -92,12 +97,12 @@ Drug-Drug Interactions
 Antiepileptic Drugs
 
 Potential interactions between topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in Table 9.
+The effects of these interactions on mean plasma AUCs are summarized in Table 13.
 
-In Table 9, the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
+In Table 13, the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate in experimental settings when topiramate was given alone.
 
-Table 9: Summary of AED Interactions with Topiramate
+Table 13: Summary of AED Interactions with Topiramate
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
@@ -115,7 +120,7 @@ Table 9: Summary of AED Interactions with Topiramate
 | NE = Not evaluated. |  |  |
 | TPM = Topiramate |  |  |
 
-In addition to the pharmacokinetic interaction described in the above table, concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy and hypothermia [see Warnings and Precautions (5.10) (5.12) and Drug Interactions (7.1)].
+In addition to the pharmacokinetic interaction described in the above table, concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy and hypothermia [see Warnings and Precautions (5.10), (5.12) and Drug Interactions (7.1)].
 
 CNS Depressants
 
@@ -152,7 +157,7 @@ Metformin
 Topiramate treatment can frequently cause metabolic acidosis, a condition for which the use of metformin is contraindicated.
 
 A drug-drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of metformin (500 mg every 12 hr) and topiramate in plasma when metformin was given alone and when metformin and topiramate (100 mg every 12 hr) were given simultaneously.
-The results of this study indicated that the mean metformin Cmax and AUC0-12h increased by 17% and 25%, respectively, when topiramate was added.
+The results of this study indicated that the mean metformin Cmax and AUC0-12h increased by 18% and 25%, respectively, when topiramate was added.
 Topiramate did not affect metformin tmax.
 The clinical significance of the effect of topiramate on metformin pharmacokinetics is not known.
 Oral plasma clearance of topiramate appears to be reduced when administered with metformin.
@@ -177,7 +182,7 @@ The steady-state pharmacokinetics of topiramate were unaffected by concomitant a
 Lithium
 
 In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for Cmax and 26% for AUC) following topiramate doses up to 600 mg/day.
-Lithium levels should be monitored when coadministered with high-dose topiramate [see Drug Interactions (7.5)].
+Lithium levels should be monitored when co-administered with high-dose topiramate [see Drug Interactions (7.5)].
 
 Haloperidol
 
@@ -190,19 +195,19 @@ Some subjects may experience a large increase in amitriptyline concentration in 
 
 Sumatriptan
 
-Multiple dosing of topiramate (100 mg every 12 hrs) in 24 healthy volunteers (14 males, 10 females) did not affect the pharmacokinetics of single dose sumatriptan either orally (100 mg) or subcutaneously (6 mg).
+Multiple dosing of topiramate (100 mg every 12 hrs) in 24 healthy volunteers (14 males, 10 females) did not affect the pharmacokinetics of single-dose sumatriptan either orally (100 mg) or subcutaneously (6 mg).
 
 Risperidone
 
-When administered concomitantly with topiramate at escalating doses of 100, 250 and 400 mg/day, there was a reduction in risperidone systemic exposure (16% and 33% for steady-state AUC at the 250 and 400 mg/day doses of topiramate).
+When administered concomitantly with topiramate at escalating doses of 100, 250, and 400 mg/day, there was a reduction in risperidone systemic exposure (16% and 33% for steady-state AUC at the 250 and 400 mg/day doses of topiramate).
 No alterations of 9-hydroxyrisperidone levels were observed.
 Co-administration of topiramate 400 mg/day with risperidone resulted in a 14% increase in Cmax and a 12% increase in AUC12 of topiramate.
-There were no clinically significant changes in the systemic exposure of risperidone plus 9-hydroxyrisperidone or of topiramate; therefore this interaction is not likely to be of clinical significance.
+There were no clinically significant changes in the systemic exposure of risperidone plus 9-hydroxyrisperidone or of topiramate; therefore, this interaction is not likely to be of clinical significance.
 
 Propranolol
 
 Multiple dosing of topiramate (200 mg/day) in 34 healthy volunteers (17 males, 17 females) did not affect the pharmacokinetics of propranolol following daily 160 mg doses.
-Propranolol doses of 160 mg/day in 39 volunteers (27 males, 12 females) had no effect on the exposure to topiramate at a dose of 200 mg/day of topiramate.
+Propranolol doses of 160 mg/day in 39 volunteers (27 males, 12 females) had no effect on the exposure to topiramate, at a dose of 200 mg/day of topiramate.
 
 Dihydroergotamine
 
@@ -211,8 +216,8 @@ Similarly, a 1 mg subcutaneous dose of dihydroergotamine did not affect the phar
 
 Diltiazem
 
-Coadministration of diltiazem (240 mg Cardizem CD®) with topiramate (150 mg/day) resulted in a 10% decrease in Cmax and a 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
-Coadministration of topiramate with diltiazem resulted in a 16% increase in Cmax and a 19% increase in AUC12 of topiramate.
+Co-administration of diltiazem (240 mg Cardizem CD®) with topiramate (150 mg/day) resulted in a 10% decrease in Cmax and a 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
+Co-administration of topiramate with diltiazem resulted in a 16% increase in Cmax and a 19% increase in AUC12 of topiramate.
 
 Venlafaxine
 
@@ -221,7 +226,7 @@ Multiple dosing of venlafaxine (150 mg Effexor XR®) did not affect the pharmaco
 
 Other Carbonic Anhydrase Inhibitors
 
-Concomitant use of topiramate, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., zonisamide, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
+Concomitant use of topiramate, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., zonisamide, acetazolamide or dichlorphenamide) may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
 Therefore, if topiramate is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis [see Drug Interactions (7.6)].
 
 Drug/Laboratory Tests Interactions

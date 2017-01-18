@@ -2,6 +2,8 @@ MEDICATION GUIDE
 
 Topiramate Tablets USP
 
+(toe pir' a mate)
+
 Read this Medication Guide before you start taking topiramate tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
@@ -86,8 +88,9 @@ What are topiramate tablets?
 
 Topiramate tablets are a prescription medicine used:
 
-- to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in people 10 years and older.
-- with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older.
+- to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 2 years and older,
+- with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older,
+- to prevent migraine headaches in adults.
 
 What should I tell my healthcare provider before taking topiramate tablets?
 
@@ -162,23 +165,13 @@ Topiramate tablets may cause serious side effects including:
 
 See "What is the most important information I should know about topiramate tablets?"
 
-- Metabolic Acidosis.
-  Metabolic acidosis can cause:
-
-○ tiredness
-
-○ loss of appetite
-
-○ irregular heartbeat
-
-○ impaired consciousness
-
 - High blood ammonia levels.
   High ammonia in the blood can affect your mental activities, slow your alertness, make you feel tired, or cause vomiting.
   This has happened when topiramate tablets are taken with a medicine called valproic acid (DEPAKENE® and DEPAKOTE®).
-- Low body temperature: Taking topiramate tablets when you are also taking valproic acid can cause a drop in body temperature to less than 950F, feeling tired, confusion, or coma.
 - Kidney stones.
   Drink plenty of fluids when taking topiramate tablets to decrease your chances of getting kidney stones.
+- Low body temperature.
+  Taking topiramate tablets when you are also taking valproic acid can cause a drop in body temperature to less than 950F, feeling tired, confusion, or coma.
 - Effects on thinking and alertness.
   Topiramate tablets may affect how you think and cause confusion, problems with concentration, attention, memory, or speech.
   Topiramate tablets may cause depression or mood problems, tiredness, and sleepiness.
@@ -196,6 +189,15 @@ The most common side effects of topiramate tablets include:
 - weight loss
 - nervousness
 - upper respiratory tract infection
+- speech problems
+- tiredness
+- dizziness
+- sleepiness/drowsiness
+- slow reactions
+- difficulty with memory
+- pain in the abdomen
+- fever
+- abnormal vision
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
@@ -204,6 +206,8 @@ For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
+
+You may also report side effects to Unichem Pharmaceuticals (USA), Inc., at 1-866-562-4616.
 
 How should I store topiramate tablets?
 
@@ -223,16 +227,23 @@ This Medication Guide summarizes the most important information about topiramate
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about topiramate tablets that is written for health professionals.
 
+For more information call Unichem Pharmaceuticals (USA), Inc., 1-866-562-4616.
+
 What are the ingredients in topiramate tablets?
 
 Active ingredient: Topiramate USP
 
 Inactive ingredients: lactose monohydrate, pregelatinized corn starch, microcrystalline cellulose, sodium starch glycolate Type A (Potato), magnesium stearate, hypromellose, polysorbate 80, polyethylene glycol, and titanium dioxide.
-In addition the 25 mg, 100 mg and 200 mg tablets also contain yellow iron oxide; the 25 mg and 100 mg tablets also contain red iron oxide.
+In addition the 25 mg, 100 mg, and 200 mg tablets also contain yellow iron oxide; the 25 mg and 100 mg tablets also contain red iron oxide.
+
+Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.'s TOPAMAX (topiramate) Tablets and Sprinkle Capsules.
+However, due to Janssen Pharmaceuticals, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 Trademarks are the property of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Additional Medication Guides can be obtained by calling Unichem at 1-866-562-4616.
 
 Manufactured by:
 
@@ -242,8 +253,8 @@ Ind Area, Meerut Road, Ghaziabad – 201 003, India
 
 Marketed by:
 
-Rochelle Park, NJ 07662.
+Hasbrouck Heights, NJ 07604.
 
-04-R-03/2014
+08-R-08/2016
 
-13006284
+13008673

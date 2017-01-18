@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Topiramate tablets are available as round, biconvex, film-coated tablets in the following strengths and colors:
 

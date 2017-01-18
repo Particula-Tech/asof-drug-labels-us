@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Topiramate is a sulfamate-substituted monosaccharide.
 Topiramate tablets are available as 25 mg, 50 mg, 100 mg, and 200 mg round shaped tablets for oral administration.
