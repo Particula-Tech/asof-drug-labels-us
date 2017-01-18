@@ -2,7 +2,5 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-No carcinogenicity or mutagenicity data are available for ranibizumab injection in animals or humans.
-
-No studies on the effects of ranibizumab on fertility have been conducted.
-Although systemic exposure following ocular administration is expected to be low, effects on female fertility are possible due to the anti-VEGF mechanism of action for ranibizumab [see Clinical Pharmacology (12.1)].
+Animal studies have not been conducted to determine the carcinogenic potential of ranibizumab.
+Based on the anti-VEGF mechanism of action of ranibizumab, treatment with LUCENTIS may pose a risk to reproductive capacity [see Females and Males of Reproductive Potential (8.3)].

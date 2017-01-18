@@ -1,11 +1,11 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in the Warnings and Precautions (5) section of the label:
+The following adverse reactions are discussed in greater detail in other sections of the label:
 
-- Endophthalmitis and Retinal Detachments
-- Increases in Intraocular Pressure
-- Thromboembolic Events
-- Fatal Events in patients with DME and DR at baseline
+- Endophthalmitis and Retinal Detachments [see Warnings and Precautions (5.1)]
+- Increases in Intraocular Pressure [see Warnings and Precautions (5.2)]
+- Thromboembolic Events [see Warnings and Precautions (5.3)]
+- Fatal Events in patients with DME and DR at baseline [see Warnings and Precautions (5.4)]
 
 ## 6.1 Injection Procedure
 
@@ -15,10 +15,10 @@ Serious adverse reactions related to the injection procedure have occurred in < 
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in one clinical trial of a drug cannot be directly compared with rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
 
-The data below reflect exposure to 0.5 mg LUCENTIS in 440 patients with neovascular AMD in Studies AMD-1, AMD-2, and AMD-3, and 259 patients with macular edema following RVO.
+The data below reflect exposure to 0.5 mg LUCENTIS in 440 patients with neovascular AMD in Studies AMD-1, AMD-2, and AMD-3; in 259 patients with macular edema following RVO.
 The data also reflect exposure to 0.3 mg LUCENTIS in 250 patients with DME and DR at baseline [see Clinical Studies (14)].
 
-Safety data observed in Study AMD-4 were consistent with these results.
+Safety data observed in Study AMD-4 and in 224 patients with mCNV were consistent with these results.
 On average, the rates and types of adverse reactions in patients were not significantly affected by dosing regimen.
 
 Ocular Reactions
@@ -30,8 +30,7 @@ Table 1 Ocular Reactions in the DME and DR, AMD, and RVO Studies
 | n=250 | n=250 | n=379 | n=379 | n=440 | n=441 | n=259 | n=260 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | DME and DR 2-year |  | AMD 2-year |  | AMD 1-year |  | RVO 6-month |  |
-| Adverse Reaction | LUCENTIS |  | LUCENTIS |  | LUCENTIS |  | LUCENTIS |  |
-| 0.3 mg | Control | 0.5 mg | Control | 0.5 mg | Control | 0.5 mg | Control |  |
+| Adverse Reaction | LUCENTIS 0.3 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control |
 | Conjunctival hemorrhage | 47% | 32% | 74% | 60% | 64% | 50% | 48% | 37% |
 | Eye pain | 17% | 13% | 35% | 30% | 26% | 20% | 17% | 12% |
 | Vitreous floaters | 10% | 4% | 27% | 8% | 19% | 5% | 7% | 2% |
@@ -60,13 +59,12 @@ Non-Ocular Reactions
 Non-ocular adverse reactions with an incidence of ≥ 5% in patients receiving LUCENTIS for DR, DME, AMD, and/or RVO and which occurred at a ≥ 1% higher frequency in patients treated with LUCENTIS compared to control are shown in Table 2.
 Though less common, wound healing complications were also observed in some studies.
 
-Table 2 Non-Ocular Reactions in the DME and DR, AMD and RVO Studies
+Table 2 Non-Ocular Reactions in the DME and DR, AMD, and RVO Studies
 
 | n=250 | n=250 | n=379 | n=379 | n=440 | n=441 | n=259 | n=260 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | DME and DR 2-year |  | AMD 2-year |  | AMD 1-year |  | RVO 6-month |  |
-| Adverse Reaction | LUCENTIS |  | LUCENTIS |  | LUCENTIS |  | LUCENTIS |  |
-| 0.3 mg | Control | 0.5 mg | Control | 0.5 mg | Control | 0.5 mg | Control |  |
+| Adverse Reaction | LUCENTIS 0.3 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control |
 | Nasopharyngitis | 12% | 6% | 16% | 13% | 8% | 9% | 5% | 4% |
 | Anemia | 11% | 10% | 8% | 7% | 4% | 3% | 1% | 1% |
 | Nausea | 10% | 9% | 9% | 6% | 5% | 5% | 1% | 2% |
@@ -103,7 +101,7 @@ Intraocular inflammation was not observed in patients with DME and DR at baselin
 
 ## 6.4 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of LUCENTIS.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reaction has been identified during post-approval use of LUCENTIS.
+Because this reaction was reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
 
 - Ocular: Tear of retinal pigment epithelium among patients with neovascular AMD

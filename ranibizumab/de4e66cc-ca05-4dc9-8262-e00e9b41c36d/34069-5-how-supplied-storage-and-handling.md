@@ -1,11 +1,11 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-- Each LUCENTIS 0.5 mg carton (NDC 50242-080-03) contains a single-use, prefilled syringe designed to deliver 0.05 mL of 10 mg/mL ranibizumab.
+- Each LUCENTIS 0.5 mg carton (NDC 50242-080-03) contains a single-use, prefilled syringe designed to deliver 0.05 mL of 10 mg/mL ranibizumab solution.
   The prefilled syringe has a non-retractable plunger stopper and a syringe cap consisting of a tamper-evident rigid seal with a rubber tip cap including a Luer lock adapter.
   The prefilled syringe has a plunger rod and a CLEAR finger grip.
   The prefilled syringe is sterile and is packed in a sealed tray.
-- Each LUCENTIS 0.5 mg carton (NDC 50242-080-02) contains a single-use, 2-mL glass vial with a BLUE CAP designed to deliver 0.05 mL of 10 mg/mL ranibizumab.
-- Each LUCENTIS 0.3 mg carton (NDC 50242-082-02) contains a single-use, 2-mL glass vial with a WHITE CAP designed to deliver 0.05 mL of 6 mg/mL ranibizumab.
+- Each LUCENTIS 0.5 mg carton (NDC 50242-080-02) contains a single-use, 2-mL glass vial with a BLUE CAP designed to deliver 0.05 mL of 10 mg/mL ranibizumab solution.
+- Each LUCENTIS 0.3 mg carton (NDC 50242-082-02) contains a single-use, 2-mL glass vial with a WHITE CAP designed to deliver 0.05 mL of 6 mg/mL ranibizumab solution.
 
 EACH CARTON IS FOR SINGLE-EYE USE ONLY.
 

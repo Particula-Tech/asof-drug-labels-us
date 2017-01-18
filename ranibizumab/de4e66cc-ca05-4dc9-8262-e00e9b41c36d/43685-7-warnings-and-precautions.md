@@ -4,12 +4,12 @@
 
 Intravitreal injections, including those with LUCENTIS, have been associated with endophthalmitis and retinal detachments.
 Proper aseptic injection technique should always be used when administering LUCENTIS.
-In addition, patients should be monitored following the injection to permit early treatment should an infection occur [see Dosage and Administration (2.6, 2.7) and Patient Counseling Information (17)].
+In addition, patients should be monitored following the injection to permit early treatment should an infection occur [see Dosage and Administration (2.7, 2.8) and Patient Counseling Information (17)].
 
 ## 5.2 Increases in Intraocular Pressure
 
 Increases in intraocular pressure have been noted both pre-injection and post-injection (at 60 minutes) while being treated with LUCENTIS.
-Monitor intraocular pressure prior to and following intravitreal injection with LUCENTIS and manage appropriately [see Dosage and Administration (2.7)].
+Monitor intraocular pressure prior to and following intravitreal injection with LUCENTIS and manage appropriately [see Dosage and Administration (2.8)].
 
 ## 5.3 Thromboembolic Events
 

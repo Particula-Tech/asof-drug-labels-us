@@ -29,22 +29,22 @@ Table 3 Visual Acuity Outcomes at Month 12 and Month 24 in Study AMD-1
 | Outcome Measure | Month | Sham n=229 | LUCENTIS 0.5 mg n=230 | Estimated Difference (95% CI)Adjusted estimate based on the stratified model; p < 0.01 |
 | --- | --- | --- | --- | --- |
 | Loss of <15 letters in visual acuity (%) | 12 | 60% | 91% | 30% (23%, 37%) |
-|  | 24 | 56% | 89% | 33% (26%, 41%) |
+| 24 | 56% | 89% | 33% (26%, 41%) |  |
 | Gain of ≥15 letters in visual acuity (%) | 12 | 6% | 31% | 25% (18%, 31%) |
-|  | 24 | 4% | 30% | 25% (18%, 31%) |
+| 24 | 4% | 30% | 25% (18%, 31%) |  |
 | Mean change in visual acuity (letters) (SD) | 12 | −11.0 (17.9) | +6.3 (14.1) | 17.1 (14.2, 20.0) |
-|  | 24 | −15.0 (19.7) | +5.5 (15.9) | 20.1 (16.9, 23.4) |
+| 24 | −15.0 (19.7) | +5.5 (15.9) | 20.1 (16.9, 23.4) |  |
 
 Table 4 Visual Acuity Outcomes at Month 12 and Month 24 in Study AMD-2
 
 | Outcome Measure | Month | Verteporfin PDT n=141 | LUCENTIS 0.5 mg n=139 | Estimated Difference (95% CI)Adjusted estimate based on the stratified model; p < 0.01 |
 | --- | --- | --- | --- | --- |
 | Loss of <15 letters in visual acuity (%) | 12 | 66% | 98% | 32% (24%, 40%) |
-|  | 24 | 65% | 93% | 28% (19%, 37%) |
+| 24 | 65% | 93% | 28% (19%, 37%) |  |
 | Gain of ≥15 letters in visual acuity (%) | 12 | 11% | 37% | 26% (17%, 36%) |
-|  | 24 | 9% | 37% | 29% (20%, 39%) |
+| 24 | 9% | 37% | 29% (20%, 39%) |  |
 | Mean change in visual acuity (letters) (SD) | 12 | −8.5 (17.8) | +11.0 (15.8) | 19.8 (15.9, 23.7) |
-|  | 24 | −9.1 (18.7) | +10.9 (17.3) | 20 (16.0, 24.4) |
+| 24 | −9.1 (18.7) | +10.9 (17.3) | 20 (16.0, 24.4) |  |
 
 | Figure 1 Mean Change in Visual Acuity from Baseline to Month 24 in Study AMD-1 and Study AMD-2 |
 | --- |
@@ -157,13 +157,12 @@ The remaining 202 patients were followed for less than 12 months.
 
 ## 14.4 Diabetic Retinopathy in patients with Diabetic Macular Edema (DME)
 
-Efficacy and safety data of LUCENTIS are derived from studies D-1 and D-2 (See Section 14.3 Diabetic Macular Edema above).
+Efficacy and safety data of LUCENTIS are derived from studies D-1 and D-2 [see Clinical Studies (14.3)].
 All enrolled patients had DR and DME at baseline.
 
 Of the 759 patients enrolled, 746 patients had a baseline assessment of fundus photography.
 Patients had baseline Early Treatment Diabetic Retinopathy Study (ETDRS) Retinopathy Severity Scores (ETDRS-RSS) ranging from 10 to 75.
-At baseline, 62% of patients had NPDR (ETDRS-RSS less than 60) and 31% had PDR (ETDRS-RSS greater than or equal to 60).
-
+At baseline, 62% of patients had non-proliferative diabetic retinopathy (NPDR) (ETDRS-RSS less than 60) and 31% had PDR (ETDRS-RSS greater than or equal to 60).
 The ETDRS-RSS could not be graded in 5% of patients at baseline, and 2% of patients had absent or questionable DR at baseline.
 Approximately 20% of the overall population had prior PRP.
 
@@ -182,6 +181,36 @@ At Month 24, DR improvement by ≥3-steps in ETDRS-RSS from baseline in subgroup
 
 The difference in the proportion of patients treated with LUCENTIS 0.3 mg compared to sham who achieved DR improvement based on the ETDRS-RSS was observed as early as Month 3 for ≥2-step improvement or at Month 12 for ≥3-step improvement.
 
-| Figure 7 Proportion of Patients with ≥3-Step and ≥2-Step Improvement from Baseline in ETDRS Diabetic Retinopathy Severity Level over Time in Study D-1 and Study D-2 |  |
-| --- | --- |
-| ≥3-Step Improvement from Baseline Over Time | ≥2-Step Improvement from Baseline Over Time |
+|  | Figure 7 Proportion of Patients with ≥3-Step and ≥2-Step Improvement from Baseline in ETDRS Diabetic Retinopathy Severity Level over Time in Study D-1 and Study D-2 |  |  |
+| --- | --- | --- | --- |
+|  | ≥3-Step Improvement from Baseline Over Time | ≥2-Step Improvement from Baseline Over Time |  |
+
+## 14.5 Myopic Choroidal Neovascularization (mCNV)
+
+The efficacy and safety data of LUCENTIS were assessed in a randomized, double-masked, active-controlled 3-month study in patients with mCNV.
+Patients age ranged from 18 to 87 years, with a mean age of 55 years.
+A total of 276 patients (222 patients in the LUCENTIS treated Groups I and II; 55 patients in the active control verteporfin photodynamic therapy (vPDT) group) were enrolled.
+Patients randomized to the LUCENTIS groups received injections guided by pre-specified re-treatment criteria.
+The retreatment criteria in Group I were vision stability guided, with the BCVA at the current visit being assessed for changes compared with the two preceding monthly BCVA values.
+The retreatment criteria in Group II were disease activity guided, based on BCVA decrease from the previous visit that was attributable to intra- or sub-retinal fluid or active leakage secondary to mCNV as assessed by OCT and/or FA compared to the previous monthly visit.
+
+Visual gains for the two LUCENTIS 0.5 mg treatment arms were superior to the active control arm.
+The mean change in BCVA from baseline at Month 3 was: +12.1 letters for Group I, +12.5 letters for Group II and +1.4 letters for the vPDT group.
+(Figure 8; Table 8).
+Efficacy was comparable between Group I and Group II.
+
+Table 8 Mean Change in Visual Acuity and Proportion of patients who gained ≥15 letters from Baseline at Month 3
+
+| Mean (SD) | Estimated Difference (95% CI)Adjusted estimates based on stratified models; p < 0.01 | Percent | Estimated Difference (95% CI) |  |
+| --- | --- | --- | --- | --- |
+| Study Arms | Mean change in BCVA from baseline (Letters) |  | Proportion of patients who gained ≥15 letters from baseline |  |
+| Group I | 12.1 (10.2) | 10.9 (7.6, 14.3) | 37.1 | 22.6 (9.5, 35.7) |
+| Group II | 12.5 (8.8) | 11.4 (8.3, 14.5) | 40.5 | 26.0 (13.1, 38.9) |
+| Control (vPDT) | 1.4 (12.2) |  | 14.5 |  |
+
+| Figure 8 Mean Change in Visual Acuity from Baseline to Month 3 in mCNV Study |
+| --- |
+
+The proportion of patients who gained ≥15 letters (ETDRS) by Month 3 was 37.1% and 40.5% for LUCENTIS Groups I and II, respectively and 14.5% for the vPDT group.
+The mean number of injections between baseline and Month 3 was 2.5 and 1.8 for Groups I and II, respectively.
+41% of patients received 1, 2 or 3 injections between baseline and Month 3 with no injections afterwards.

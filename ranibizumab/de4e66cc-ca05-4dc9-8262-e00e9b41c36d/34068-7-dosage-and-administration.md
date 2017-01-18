@@ -30,11 +30,16 @@ Patients should be treated monthly [see Clinical Studies (14.2)].
 
 LUCENTIS 0.3 mg (0.05 mL of 6 mg/mL LUCENTIS solution) is recommended to be administered by intravitreal injection once a month (approximately 28 days).
 
-## 2.5 Diabetic Retinopathy in patients with Diabetic Macular Edema
+## 2.5 Diabetic Retinopathy in Patients with Diabetic Macular Edema (DME)
 
 LUCENTIS 0.3 mg (0.05 mL of 6 mg/mL LUCENTIS solution) is recommended to be administered by intravitreal injection once a month (approximately 28 days).
 
-## 2.6 Preparation for Administration
+## 2.6 Myopic Choroidal Neovascularization (mCNV)
+
+LUCENTIS 0.5 mg (0.05 mL of 10 mg/mL LUCENTIS solution) is recommended to be initially administered by intravitreal injection once a month (approximately 28 days) for up to three months.
+Patients may be retreated if needed [(see Clinical Studies 14.5)].
+
+## 2.7 Preparation for Administration
 
 Prefilled Syringe:
 
@@ -43,11 +48,11 @@ Read all the instructions carefully before using the prefilled syringe.
 
 How to store LUCENTIS:
 
-- LUCENTIS should be refrigerated at 2º-8ºC (36º-46ºF).
-  Do not freeze.
-- Do not use beyond the expiration date stamped on the label.
-- Protect LUCENTIS prefilled syringes from light and store in the original carton until time of use.
-- Do not open the sealed tray until time of use.
+1. LUCENTIS should be refrigerated at 2º-8ºC (36º-46ºF).
+   Do not freeze.
+2. Do not use beyond the expiration date stamped on the label.
+3. Protect LUCENTIS prefilled syringes from light and store in the original carton until time of use.
+4. Do not open the sealed tray until time of use.
 
 The prefilled syringe is for single use only.
 The prefilled syringe is sterile.
@@ -103,7 +108,7 @@ Use aseptic technique to carry out the following preparation steps.
    If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
 10. Hold the syringe at eye level, and carefully push the plunger rod until the plunger tip is aligned with the line that marks 0.05 mL on the syringe.
 
-## 2.7 Administration
+## 2.8 Administration
 
 The intravitreal injection procedure should be carried out under controlled aseptic conditions, which include the use of sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent).
 Adequate anesthesia and a broad-spectrum microbicide should be given prior to the injection.
