@@ -11,7 +11,7 @@ Discontinuation of therapy due to adverse effects was required in 4.4% of patien
 
 Adverse experiences occurring in greater than one percent of patients treated with lisinopril plus hydrochlorothiazide in controlled clinical trials are shown below.
 
-Percent of Patients in Controlled Studies
+1. Percent of Patients in Controlled Studies
 
 |  | Lisinopril and Hydrochlorothiazide (n=930) Incidence (discontinuation) |  | Placebo (n=207) Incidence |
 | --- | --- | --- | --- |
