@@ -154,8 +154,8 @@ Manufactured by:
 
 Astellas Pharma Tech Co., Ltd. Toyama Technology Center, 2-178 Kojin-machi, Toyama city, Toyama 930-0809, Japan
 
-Distributed by: LEO Pharma Inc. 1 Sylvan Way, Parsippany, NJ 07054, USA
+Distributed by: LEO Pharma Inc. Seven Giralda Farms, Madison, NJ 07940, USA
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised: June 2016
+Revised: November 2016

@@ -35,6 +35,14 @@ Because patients were not followed for longer than 2 weeks after end-of-treatmen
 In both PROTOPIC Ointment treatment groups in adults and in the PROTOPIC Ointment 0.03% treatment group in pediatric patients, a significantly greater improvement compared to vehicle (p < 0.001) was observed in the secondary efficacy endpoints of percent body surface area involved, patient evaluation of pruritus, erythema, edema, excoriation, oozing, scaling, and lichenification.
 The following two graphs depict the time course of improvement in the percent body surface area affected in adult and in pediatric patients as a result of treatment.
 
+Figure 1 - Adult Patients Body Surface Area Over Time
+
+Figure 2 - Pediatric Patients Body Surface Area Over Time
+
 The following two graphs depict the time course of improvement in erythema in adult and in pediatric patients as a result of treatment.
+
+Figure 3 - Adult Patients Mean Erythema Over Time
+
+Figure 4 - Pediatric Patients Mean Erythema Over Time
 
 The time course of improvement in the remaining secondary efficacy variables was similar to that of erythema, with improvement in lichenification slightly slower.

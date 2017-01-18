@@ -39,6 +39,6 @@ Astellas Pharma Tech Co., Ltd. Toyama Technology Center, 2-178 Kojin-machi, Toya
 and
 
 Distributed by: LEO Pharma.
-Inc., 1 Sylvan Way, Parsippany, NJ 07054, USA
+Inc., Seven Giralda Farms, Madison, NJ 07940, USA
 
-Revised: June 2016
+Revised: November 2016
