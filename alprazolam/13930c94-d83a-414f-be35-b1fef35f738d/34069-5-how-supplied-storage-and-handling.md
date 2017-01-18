@@ -1,5 +1,7 @@
 # HOW SUPPLIED
 
+## HOW SUPPLIED
+
 Alprazolam tablets are available as follows:
 
 | 0.25 mg (white, oval, scored, imprinted "G3719") |  |

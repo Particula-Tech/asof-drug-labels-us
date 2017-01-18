@@ -18,10 +18,10 @@ Additionally, for anxiety disorders the cited figures can provide the prescriber
 
 ANXIETY DISORDERS
 
-|  | ALPRAZOLAM | PLACEBO | ALPRAZOLAM |
+| Number of Patients % of Patients Reporting: | 565 | 505 | 565 |
 | --- | --- | --- | --- |
 |  | Treatment-Emergent Symptom IncidenceEvents reported by 1% or more of alpraozolam patients are included. |  | Incidence of Intervention Because of Symptom |
-| Number of Patients % of Patients Reporting: | 565 | 505 | 565 |
+|  | ALPRAZOLAM | PLACEBO | ALPRAZOLAM |
 | Central Nervous System |  |  |  |
 | Drowsiness | 41.0 | 21.6 | 15.1 |
 | Light-headedness | 20.8 | 19.3 | 1.2 |
@@ -61,10 +61,10 @@ In addition to the relatively common (i.e., greater than 1%) untoward events enu
 
 PANIC DISORDER
 
-|  | ALPRAZOLAM | PLACEBO |
+| Number of Patients % of Patients Reporting: | 1388 | 1231 |
 | --- | --- | --- |
 |  | Treatment-Emergent Symptom IncidenceEvents reported by 1% or more of alprazolam patients are included. |  |
-| Number of Patients % of Patients Reporting: | 1388 | 1231 |
+|  | ALPRAZOLAM | PLACEBO |
 | Central Nervous System |  |  |
 | Drowsiness | 76.8 | 42.7 |
 | Fatigue and Tiredness | 48.6 | 42.3 |
@@ -177,7 +177,7 @@ Should any of the above events occur, alprazolam should be discontinued.
 Isolated published reports involving small numbers of patients have suggested that patients who have borderline personality disorder, a prior history of violent or aggressive behavior, or alcohol or substance abuse may be at risk for such events.
 Instances of irritability, hostility, and intrusive thoughts have been reported during discontinuation of alprazolam in patients with posttraumatic stress disorder.
 
-### Post Introduction Reports
+## Post Introduction Reports
 
 Various adverse drug reactions have been reported in association with the use of alprazolam since market introduction.
 The majority of these reactions were reported through the medical event voluntary reporting system.

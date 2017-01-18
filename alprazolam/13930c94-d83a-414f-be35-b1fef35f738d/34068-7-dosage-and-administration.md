@@ -57,7 +57,7 @@ In a controlled postmarketing discontinuation study of panic disorder patients w
 It is suggested that the dose be reduced by no more than 0.5 mg every 3 days, with the understanding that some patients may benefit from an even more gradual discontinuation.
 Some patients may prove resistant to all discontinuation regimens.
 
-#### Dosing in Special Populations
+## Dosing in Special Populations
 
 In elderly patients, in patients with advanced liver disease or in patients with debilitating disease, the usual starting dose is 0.25 mg, given two or three times daily.
 This may be gradually increased if needed and tolerated.
