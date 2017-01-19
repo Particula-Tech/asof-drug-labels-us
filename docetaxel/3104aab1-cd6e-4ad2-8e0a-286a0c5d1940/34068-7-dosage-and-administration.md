@@ -83,7 +83,7 @@ Combination therapy with Docetaxel Injection, USP for chemotherapy-naïve NSCLC
 
 For patients who are dosed initially at Docetaxel Injection, USP 75 mg/m2 in combination with cisplatin, and whose nadir of platelet count during the previous course of therapy is <25,000 cells/mm3, in patients who experience febrile neutropenia, and in patients with serious non-hematologic toxicities, the Docetaxel Injection, USP dosage in subsequent cycles should be reduced to 65 mg/m2.
 In patients who require a further dose reduction, a dose of 50 mg/m2 is recommended.
-For cisplatin dosage adjustments, see manufacturers’ prescribing information.
+For cisplatin dosage adjustments, see manufacturers' prescribing information.
 
 Prostate Cancer
 
@@ -136,7 +136,7 @@ Nephrotoxicity
 
 In the event of a rise in serum creatinine ≥grade 2 (>1.5 x normal value) despite adequate rehydration, CrCl should be determined before each subsequent cycle and the following dose reductions should be considered (see Table 2).
 
-For other cisplatin dosage adjustments, also refer to the manufacturers’ prescribing information.
+For other cisplatin dosage adjustments, also refer to the manufacturers' prescribing information.
 
 Table 2 – Dose Reductions for Evaluation of Creatinine Clearance
 
@@ -156,7 +156,7 @@ The fluorouracil dosage should be reduced by 20%.
 
 For other greater than grade 3 toxicities, except alopecia and anemia, chemotherapy should be delayed (for a maximum of 2 weeks from the planned date of infusion) until resolution to grade ≤1 and then recommenced, if medically appropriate.
 
-For other fluorouracil dosage adjustments, also refer to the manufacturers’ prescribing information.
+For other fluorouracil dosage adjustments, also refer to the manufacturers' prescribing information.
 
 Combination Therapy with Strong CYP3A4 Inhibitors
 

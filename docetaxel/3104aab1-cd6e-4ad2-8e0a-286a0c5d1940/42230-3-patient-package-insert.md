@@ -22,7 +22,7 @@ This will include regular checks of your white blood cell counts.
 If your white blood cells are too low, your doctor may not treat you with docetaxel until you have enough white blood cells.
 People with low white blood counts can develop life-threatening infections.
 The earliest sign of infection may be fever.
-Follow your doctor’s instructions for how often to take your temperature while taking Docetaxel Injection.
+Follow your doctor's instructions for how often to take your temperature while taking Docetaxel Injection.
 Call your doctor right away if you have a fever.
 
 3.
@@ -61,7 +61,7 @@ Do not take Docetaxel Injection if you:
   - odocetaxel, the active ingredient in Docetaxel Injection or
   - oany other medicines that contain polysorbate 80.
     Ask your doctor or pharmacist if you are not sure.
-- See “What is the most important information I should know about Docetaxel Injection?” for the signs and symptoms of a severe allergic reaction.
+- See "What is the most important information I should know about Docetaxel Injection?" for the signs and symptoms of a severe allergic reaction.
 - •have a low white blood cell count.
 
 What should I tell my doctor before receiving Docetaxel Injection?
@@ -69,7 +69,7 @@ What should I tell my doctor before receiving Docetaxel Injection?
 Before you receive Docetaxel Injection tell your doctor if you:
 
 - •are allergic to any medicines.
-  See “Who should not take Docetaxel Injection?”
+  See "Who should not take Docetaxel Injection?"
   Also, see the end of this leaflet for a complete list of the ingredients in Docetaxel Injection.
 - •have liver problems
 - •have any other medical conditions
@@ -99,7 +99,7 @@ What are the possible side effects of Docetaxel Injection?
 
 Docetaxel Injection may cause serious side effects including death.
 
-- •See “What is the most important information I should know about Docetaxel Injection?”
+- •See "What is the most important information I should know about Docetaxel Injection?"
 - •Acute Myeloid Leukemia (AML), a type of blood cancer, can happen in people who take Docetaxel Injection along with certain other medicines.
 - •Other Blood Disorders.
   Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with Docetaxel Injection.

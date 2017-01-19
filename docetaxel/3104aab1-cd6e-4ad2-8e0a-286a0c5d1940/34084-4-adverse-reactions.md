@@ -306,7 +306,7 @@ Table 8 - Adverse Reactions Regardless of Relationship to Treatment in Chemother
 | All severe or life-threatening events | 12 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Nail Disorder** Any All severe events | 14 <1 | <1 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Myalgia** Any All severe events | 18 <1 | 12 <1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| * Replaces NCI Term “Allergy”. ** COSTART term and grading system. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| * Replaces NCI Term "Allergy". ** COSTART term and grading system. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Deaths within 30 days of last study treatment occurred in 31 patients (7.6%) in the docetaxel+cisplatin arm and 37 patients (9.3%) in the vinorelbine+cisplatin arm.
 Deaths within 30 days of last study treatment attributed to study drug occurred in 9 patients (2.2%) in the docetaxel+cisplatin arm and 8 patients (2.0%) in the vinorelbine+cisplatin arm.

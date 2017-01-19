@@ -1,5 +1,100 @@
-# 434440
+# PRINCIPAL DISPLAY PANEL - 1 mL Vial Label
 
-# 434444
+1 mL
+
+Rx only
+
+NDC 0409-0366-01
+
+Docetaxel Injection, USP 20 mg/mL
+
+Single use vial.
+Discard unused portion.
+
+For Intravenous Infusion only
+
+Ready to add to infusion solution.
+Check concentration prior to preparation.
+See package insert for complete instructions.
+
+# PRINCIPAL DISPLAY PANEL - 1 mL Vial Carton
+
+20 mg/mL
+
+1 x 1 mL Single use vial Discard unused portion.
+
+NDC 0409-0366-01
+
+Docetaxel Injection, USP 20 mg/mL
+
+For Intravenous Infusion only
+
+Ready to add to infusion solution
+
+Caution: Cytotoxic Agent
+
+Check concentration prior to preparation.
+See package insert for complete instructions.
+
+# PRINCIPAL DISPLAY PANEL - 4 mL Vial Label
+
+4 mL Multi-use Vial
+
+Sterile
+
+NDC 0409-0367-01
+
+Docetaxel Injection, USP 80 mg/4 mL
+
+(20 mg/mL)
+
+For Intravenous Infusion only
+
+Rx only
+
+Ready to add to infusion solution.
+Check concentration prior to preparation.
+See package insert for complete instructions.
+
+# PRINCIPAL DISPLAY PANEL - 4 mL Vial Carton
+
+80 mg/4 mL (20 mg/mL)
+
+1 x 4 mL Multi-use vial
+
+NDC 0409-0367-01
+
+Docetaxel Injection, USP 80 mg/4 mL
+
+(20 mg/mL)
+
+For Intravenous Infusion only
+
+Ready to add to infusion solution
+
+Caution: Cytotoxic Agent
+
+Check concentration prior to preparation.
+See package insert for complete instructions.
+
+# PRINCIPAL DISPLAY PANEL - 6 mL Vial Label
+
+6 mL Multi-use Vial
+
+Sterile
+
+NDC 0409-0369-01
+
+Docetaxel Injection, USP 120 mg/6 mL
+
+(20 mg/mL)
+
+For Intravenous Infusion only
+
+Rx only
+
+Ready to add to infusion solution.
+Check concentration prior to preparation.
+See package insert for complete instructions.
 
 # 434446
