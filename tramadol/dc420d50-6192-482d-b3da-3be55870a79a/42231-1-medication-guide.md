@@ -71,7 +71,7 @@ The possible side effects of tramadol hydrochloride extended-release tablets:
 
 Get emergency medical help if you have:
 
-- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue, or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, hign body temperature, trouble walking, stiff muscles, or mental changes such as confusion.
+- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue, or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion.
 
 These are not all the possible side effects of tramadol hydrochloride extended-release tablets.
 Call your doctor for medical advice about side effects.
@@ -97,4 +97,4 @@ Halol-389 350, Gujarat, India.
 ISS.
 12/2016
 
-PJPI0263C
+PJPI0263D

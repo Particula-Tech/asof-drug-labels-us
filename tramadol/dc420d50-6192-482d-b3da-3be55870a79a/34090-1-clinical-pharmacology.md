@@ -2,7 +2,7 @@
 
 Mechanism of Action
 
-Tramadol hydrochloride extended-release tablets, contain tramadol, an opioid agonist inhibitor of norepinenphrine and serotonin re-uptake.
+Tramadol hydrochloride extended-release tablets, contain tramadol, an opioid agonist inhibitor of norepinephrine and serotonin re-uptake.
 Although the mode of action of tramadol is not completely understood, the analgesic effect of tramadol is believed to be due to binding to μ-opioid receptors and weak inhibition of reuptake of norepinephrine and serotonin.
 
 Opioid activity of tramadol is due to both low affinity binding of the parent compound and higher affinity binding of the O-demethylated metabolite (M1) to mu-opioid receptors.
@@ -116,7 +116,7 @@ Tramadol is extensively metabolized after oral administration.
 The major metabolic pathways appear to be N- and O-demethylation and glucuronidation or sulfation in the liver.
 N-demethylation is mediated by CYP3A4 and CYP2B6.
 One metabolite (O-desmethyltramadol, denoted M1) is pharmacologically active in animal models.
-Formation of M1 is dependent on CYP2D6 and as such is subject to inhibition and polymorphism, which may affect the therapeutic response [see PRECAUTIONS - Drug Interactions].
+Formation of M1 is dependent on CYP2D6 and as such is subject to inhibition and polymorphism, which may affect the therapeutic response [see P RECAUTIONS - Drug Interactions].
 
 Excretion
 

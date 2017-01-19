@@ -34,7 +34,7 @@ Monitor patients closely for respiratory depression, especially within the first
 To reduce the risk of respiratory depression, proper dosing and titration of tramadol hydrochloride extended-release tablets are essential [see DOSAGE AND ADMINISTRATION].
 Overestimating the tramadol hydrochloride extended-release tablets dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
-Accidental ingestion of even one dose of tramadol hydrochloride extended-release tablets, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
+Accidental ingestion of tramadol hydrochloride extended-release tablets, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
 
 Neonatal Opioid Withdrawal Syndrome
 
@@ -226,7 +226,7 @@ Inform patients and caregivers that potentially fatal additive effects may occur
 
 Serotonin Syndrome
 
-Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concommitant administration of serotonergic drugs.
+Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
 Instruct patients to inform their healthcare provider if they are taking, or plan to take serotonergic medications [see WARNINGS].
 
@@ -284,7 +284,7 @@ Infertility
 Inform patients that chronic use of opioids may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see ADVERSE REACTIONS].
 
-Driving or Operating Heavy Machinerys
+Driving or Operating Heavy Machinery
 
 Inform patients that tramadol hydrochloride extended-release tablets may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
 Advise patients not to perform such tasks until they know how they will react to the medication[see WARNINGS].
@@ -330,7 +330,7 @@ If a CYP3A4 inhibitor is discontinued, consider increasing the tramadol hydrochl
 
 Inducers of CYP3A4
 
-The concomitant use of tramadol hydrochloride extended-release tablets and CYP3A4 inducers such as rifampin, carbemazepine, phenytoin can decrease the plasma concentration of tramadol, [see CLINICAL PHARMACOLOGY], resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to tramadol [see WARNINGS].
+The concomitant use of tramadol hydrochloride extended-release tablets and CYP3A4 inducers such as rifampin, carbamazepine, phenytoin can decrease the plasma concentration of tramadol, [see CLINICAL PHARMACOLOGY], resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to tramadol [see WARNINGS].
 
 After stopping a CYP3A4 inducer, as the effects of the inducer decline, the tramadol plasma concentration will increase [see CLINICAL PHARMACOLOGY], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause seizures and serotonin syndrome, and potentially fatal respiratory depression.
 
