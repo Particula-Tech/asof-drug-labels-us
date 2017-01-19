@@ -38,7 +38,7 @@ Before taking tranexamic acid tablets, tell your healthcare provider about all o
   Using hormonal birth control along with tranexamic acid tablets may increase your chance of having a serious blood clot, stroke, or heart attack.
   For this reason, do not use tranexamic acid tablets if you use a form of birth control that contains estrogen and a progestin.
 - You are pregnant or think you may be pregnant
-- You are breastfeeding or plan to breast-feed.
+- You are breastfeeding or plan to breastfeed.
   Tranexamic acid can pass into your milk.
   Talk to your healthcare provider about the best way to feed your baby if you take tranexamic acid tablets.
 - The time between the start of your periods is less than 21 days or more than 35 days
@@ -106,7 +106,7 @@ This may be a sign of a more serious condition.
 
 Call your healthcare provider for medical advice about side effects.
 You may report side effects to the FDA at 1-800-FDA-1088.
-You may also report side effects to Watson Laboratories, Inc. at 1-800-272-5525.
+You may also report side effects to Actavis at 1-800-272-5525.
 
 How should I store tranexamic acid tablets?
 
@@ -124,7 +124,7 @@ It may harm them.
 This patient information leaflet summarizes the most important information about tranexamic acid tablets.
 If you would like more information about tranexamic acid tablets, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about tranexamic acid tablets that is written for healthcare professionals.
-For more information, go to www.watson.com or call 1-800-272-5525.
+For more information, go to www.actavis.com or call 1-800-272-5525.
 
 What are the ingredients of tranexamic acid tablets?
 
@@ -134,8 +134,8 @@ Inactive ingredients: colloidal silicon dioxide, copovidone, crospovidone, eudra
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Watson Laboratories, Inc. Corona, CA 92880 USA
+Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
-Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: July 2014 197511-1
+Revised: November 2014 197511-2

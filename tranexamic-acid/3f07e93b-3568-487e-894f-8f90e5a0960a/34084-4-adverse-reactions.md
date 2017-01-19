@@ -20,7 +20,7 @@ Seven percent (7%) of all subjects were of Hispanic origin.
 Women using hormonal contraception were excluded from the trials.
 
 The rates of discontinuation due to adverse events during the two clinical trials were comparable between tranexamic acid tablets and placebo.
-In the 3-cycle study, the rate in the 3900 mg tranexamic Acid tablets dose group was 0.8% as compared to 1.4% in the placebo group.
+In the 3-cycle study, the rate in the 3900 mg tranexamic acid tablets dose group was 0.8% as compared to 1.4% in the placebo group.
 In the 6-cycle study, the rate in the tranexamic acid tablets group was 2.4% as compared to 4.1% in the placebo group.
 Across the studies, the combined exposure to 3900 mg/day tranexamic acid tablets was 947 cycles and the average duration of use was 3.4 days per cycle.
 

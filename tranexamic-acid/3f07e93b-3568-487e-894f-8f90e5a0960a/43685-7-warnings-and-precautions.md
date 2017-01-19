@@ -10,7 +10,7 @@ This is of particular concern in women who are obese or smoke cigarettes, especi
 
 Women using hormonal contraception were excluded from the clinical trials supporting the safety and efficacy of tranexamic acid tablets, and there are no clinical trial data on the risk of thrombotic events with the concomitant use of tranexamic acid tablets with hormonal contraceptives.
 However, there have been US postmarketing reports of venous and arterial thrombotic events in women who have used tranexamic acid tablets concomitantly with combination hormonal contraceptives.
-For this reason, concomitant use of tranexamic acid tablets with combination hormonal contraceptives.For this reason, concomitant use of tranexamic acid tablets with combination hormonal contraceptives is contraindicated.
+For this reason, concomitant use of tranexamic acid tablets with combination hormonal contraceptives is contraindicated.
 [see Contraindications (4.1) and Drug Interactions (7.1)].
 
 Factor IX Complex Concentrates or Anti-Inhibitor Coagulant Concentrates

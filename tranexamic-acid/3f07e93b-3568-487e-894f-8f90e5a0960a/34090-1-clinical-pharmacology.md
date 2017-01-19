@@ -6,7 +6,7 @@ Tranexamic acid is a synthetic lysine amino acid derivative, which diminishes th
 In the presence of tranexamic acid, the lysine receptor binding sites of plasmin for fibrin are occupied, preventing binding to fibrin monomers, thus preserving and stabilizing fibrin’s matrix structure.
 
 The antifibrinolytic effects of tranexamic acid are mediated by reversible interactions at multiple binding sites within plasminogen.
-Native human plasminogen contains 4 to 5 lysine binding sites with low affinity for tranexamic acid (Kd = 750 μmol/L) and 1 with high affinity (Kd = 1.1 μmol/L).
+Native human plasminogen contains 4 to 5 lysine binding sites with low affinity for tranexamic acid (Kd = 750 µmol/L) and 1 with high affinity (Kd = 1.1 µmol/L).
 The high affinity lysine site of plasminogen is involved in its binding to fibrin.
 Saturation of the high affinity binding site with tranexamic acid displaces plasminogen from the surface of fibrin.
 Although plasmin may be formed by conformational changes in plasminogen, binding to and dissolution of the fibrin matrix is inhibited.
@@ -44,7 +44,7 @@ Mean (CV%) Pharmacokinetic Parameters Following a Single (two 650 mg tablets) an
 
 | Parameter | Arithmetic Mean (CV%) |  |
 | --- | --- | --- |
-|  | Single dose | Multiple dose |
+| Single dose | Multiple dose |  |
 | Cmax (mcg/mL) | 13.83 (32.14) | 16.41 (26.19) |
 | AUCtldc (mcg•h/mL) | 77.96 (31.14) | 77.67 a (29.39) |
 | AUCinf (mcg•h/mL) | 80.19 (30.43) | - |
@@ -108,9 +108,9 @@ Tranexamic acid tablets should be used during lactation only if clearly needed [
 Pediatric Use
 
 Tranexamic acid tablets are indicated for women of reproductive age and are not intended for use in premenarcheal girls.
-In a randomized, single dose, two-way crossover study of two dose levels (650 mg and 1,300 mg [two650 mg tablets]), pharmacokinetics of tranexamic acid was evaluated in 20 female adolescents (12 to 16 years of age) with heavy menstrual bleeding.
-The Cmax and AUC values after a single oral dose of 650 mg in the adolescent females were 32 – 36% less than those after a single oral dose of 1,300 mg in the adolescent females.
-The Cmax and AUC values after a single oral dose of 1300 mg in the adolescent females were 20 – 25% less than those in the adult females given the same dose in a separate study.
+In a randomized, single dose, two-way crossover study of two dose levels (650 mg and 1,300 mg [two 650 mg tablets]), pharmacokinetics of tranexamic acid was evaluated in 20 female adolescents (12 to 16 years of age) with heavy menstrual bleeding.
+The Cmax and AUC values after a single oral dose of 650 mg in the adolescent females were 32 to 36% less than those after a single oral dose of 1,300 mg in the adolescent females.
+The Cmax and AUC values after a single oral dose of 1300 mg in the adolescent females were 20 to 25% less than those in the adult females given the same dose in a separate study.
 [See Use in Specific Populations (8.4)]
 
 Geriatric Use
@@ -121,7 +121,7 @@ Renal Impairment
 
 The effect of renal impairment on the disposition of Tranexamic acid tablets has not been evaluated.
 Urinary excretion following a single intravenous injection of tranexamic acid declines as renal function decreases.
-Following a single 10 mg/kg intravenous injection of tranexamic acid in 28 patients, the 24-hour urinary fractions of tranexamic acid with serum creatinine concentrations 1.4 – 2.8, 2.8 – 5.7, and greater than 5.7 mg/dL were 51, 39, and 19%, respectively.
+Following a single 10 mg/kg intravenous injection of tranexamic acid in 28 patients, the 24-hour urinary fractions of tranexamic acid with serum creatinine concentrations 1.4 to 2.8, 2.8 to 5.7, and greater than 5.7 mg/dL were 51, 39, and 19%, respectively.
 The 24-hour tranexamic acid plasma concentrations for these patients demonstrated a direct relationship to the degree of renal impairment.
 Therefore, dose adjustment is needed in patients with renal impairment [see Dosage and Administration (2.2)].
 
@@ -137,8 +137,8 @@ No drug-drug interaction studies were conducted with tranexamic acid tablets.
 
 Hormonal Contraceptives
 
-Because Tranexamic acid tablets are antifibrinolytic, concomitant use of hormonal contraception and Tranexamic acid tablets may further exacerbate the increased thrombotic risk associated with combination hormonal contraceptives.
-For this reason, concomitant use of Tranexamic acid tablets with combination hormonal contraceptives is contraindicated [see Contraindications (4), Warnings and Precautions (5.1) and Drug Interactions (7.1)].
+Because tranexamic acid tablets are antifibrinolytic, concomitant use of hormonal contraception and tranexamic acid tablets may further exacerbate the increased thrombotic risk associated with combination hormonal contraceptives.
+For this reason, concomitant use of tranexamic acid tablets with combination hormonal contraceptives is contraindicated [see Contraindications (4), Warnings and Precautions (5.1) and Drug Interactions (7.1)].
 
 Factor IX Complex Concentrates or Anti-inhibitor Coagulant Concentrates Tranexamic acid tablets are not recommended in patients taking either Factor IX complex concentrates or anti-inhibitor coagulant concentrates because the risk of thrombosis may be increased [see Warnings and Precautions (5.1) and Drug Interactions (7.3)].
 

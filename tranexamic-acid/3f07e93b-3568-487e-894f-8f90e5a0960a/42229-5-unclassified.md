@@ -10,4 +10,4 @@ Each tablet is debossed with “WPI 3720” on one side of the tablet and are su
 
 Storage
 
-Store at 20º-25º C (68º-77º F). [See USP Controlled Room Temperature].
+Store at 20º to 25º C (68º to 77º F). [See USP Controlled Room Temperature].
