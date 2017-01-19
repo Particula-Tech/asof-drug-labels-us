@@ -16,14 +16,14 @@ Failure to respond to vitamin K may indicate a congenital coagulation defect or 
 
 ## General
 
-Vitamin K1 is fairly rapidly degraded by light; therefore, always protect MEPHYTON from light.
-Store MEPHYTON in closed original carton until contents have been used.
-(See also HOW SUPPLIED, Storage.)
+Vitamin K1 is fairly rapidly degraded by light; therefore, always protect Mephyton from light.
+Store Mephyton in closed original carton until contents have been used.
+(See HOW SUPPLIED, Storage.)
 
 ## Drug Interactions
 
 Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used.
-If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium.
+If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant or to use one which acts on a different principle, such as heparin sodium.
 
 ## Laboratory Tests
 
@@ -31,29 +31,27 @@ Prothrombin time should be checked regularly as clinical conditions indicate.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Studies of carcinogenicity or impairment of fertility have not been performed with MEPHYTON.
-MEPHYTON at concentrations up to 2000 mcg/plate with or without metabolic activation, was negative in the Ames microbial mutagen test.
+Studies of carcinogenicity or impairment of fertility have not been performed with Mephyton.
+Mephyton at concentrations up to 2,000 mcg/plate with or without metabolic activation, was negative in the Ames microbial mutagen test.
 
 ## Pregnancy
 
-### Pregnancy Category C
-
-Animal reproduction studies have not been conducted with MEPHYTON.
-It is also not known whether MEPHYTON can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-MEPHYTON should be given to a pregnant woman only if clearly needed.
+Animal reproduction studies have not been conducted with Mephyton.
+It is also not known whether Mephyton can cause fetal harm when administered to a pregnant woman or can effect reproduction capacity.
+Mephyton should be given to a pregnant woman only if clearly needed.
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established with MEPHYTON.
+Safety and effectiveness in pediatric patients have not been established with Mephyton.
 Hemolysis, jaundice, and hyperbilirubinemia in newborns, particularly in premature infants, have been reported with vitamin K.
 
 ## Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when MEPHYTON is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when Mephyton is administered to a nursing woman.
 
 ## Geriatric Use
 
-Clinical studies of MEPHYTON did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of Mephyton did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

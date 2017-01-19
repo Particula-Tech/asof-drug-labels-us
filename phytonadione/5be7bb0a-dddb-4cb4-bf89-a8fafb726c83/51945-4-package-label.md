@@ -1,9 +1,11 @@
 # PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
-100 Tablets NDC 0187-1704-05
-
-MEPHYTON® (Phytonadione) Tablets 5 mg
+NDC 0187-1704-05
 
 Rx only
 
-Distributed by: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807
+MEPHYTON® (phytonadione) Tablets 5 mg
+
+100 Tablets
+
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA ©Valeant Pharmaceuticals North America LLC

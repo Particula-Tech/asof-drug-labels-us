@@ -1,10 +1,10 @@
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
+Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7, Canada
 
-Made in Canada
+Mephyton is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates. ©Valeant Pharmaceuticals North America LLC
 
 Rev.
-October 2012
+11/16
 
-LB0088-00
+9571300-20001736
