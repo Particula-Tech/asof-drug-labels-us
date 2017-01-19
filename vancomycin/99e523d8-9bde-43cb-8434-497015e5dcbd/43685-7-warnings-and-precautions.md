@@ -1,8 +1,19 @@
 # WARNINGS
 
+## Infusion Reactions
+
 Rapid bolus administration (e.g., over several minutes) may be associated with exaggerated hypotension, including shock, and, rarely, cardiac arrest.
+
 Vancomycin should be administered over a period of not less than 60 minutes to avoid rapid-infusion-related reactions.
 Stopping the infusion usually results in prompt cessation of these reactions.
+
+## Nephrotoxicity
+
+Systemic vancomycin exposure may result in acute kidney injury (AKI).
+The risk of AKI increases as systemic exposure/serum levels increase.
+Monitor renal function in all patients receiving vancomycin, especially patients with underlying renal impairment, patients with co-morbidities that predispose to renal impairment and patients receiving concomitant therapy with a drug known to be nephrotoxic.
+
+## Ototoxicity
 
 Ototoxicity has occurred in patients receiving vancomycin.
 It may be transient or permanent.
@@ -24,14 +35,10 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 # PRECAUTIONS
 
-## General
-
 Prolonged use of vancomycin may result in the overgrowth of nonsusceptible microorganisms.
 Careful observation of the patient is essential.
 If superinfection occurs during therapy, appropriate measures should be taken.
 In rare instances, there have been reports of pseudomembranous colitis due to C. difficile developing in patients who received intravenous vancomycin.
-
-In order to minimize the risk of nephrotoxicity when treating patients with underlying renal dysfunction or patients receiving concomitant therapy with an aminoglycoside, serial monitoring of renal function should be performed and particular care should be taken in following appropriate dosing schedules (see DOSAGE AND ADMINISTRATION).
 
 Risk of High Sodium Load:
 
@@ -61,13 +68,11 @@ Prescribing vancomycin in the absence of a proven or strongly suspected bacteria
 
 Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing (see Usage in Pediatrics under PRECAUTIONS) and anaphylactoid reactions (see ADVERSE REACTIONS).
 
-Concurrent and/or sequential systemic or topical use of other potentially neurotoxic and/or nephrotoxic drugs, such as amphotericin B, aminoglycosides, bacitracin, polymyxin B, colistin, viomycin, or cisplatin, when indicated, requires careful monitoring.
+Monitor renal function in patients receiving vancomycin and concurrent and/or sequential systemic or topical use of other potentially neurotoxic and/or nephrotoxic drugs, such as amphotericin B, aminoglycosides, bacitracin, polymyxin B, colistin, viomycin, or cisplatin.
 
 ## Pregnancy
 
 ### Teratogenic Effects
-
-#### Pregnancy Category C
 
 Animal reproduction studies have not been conducted with vancomycin.
 It is not known whether vancomycin can affect reproduction capacity.

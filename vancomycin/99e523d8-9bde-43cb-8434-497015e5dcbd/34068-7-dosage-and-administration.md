@@ -84,28 +84,28 @@ Store in a freezer capable of maintaining a temperature at or below -20°C (-4°
 
 ### Thawing of Plastic Containers:
 
-- 1.Thaw frozen containers at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
-  Product should not be thawed by immersion in waters baths or by microwave irradiation.
-  Do not force thaw.
-- 2.Check for minute leaks by squeezing the bag firmly.
-  If leaks are detected, discard solution because sterility may be impaired.
-- 3.Do not add supplemental medication.
-- 4.Visually inspect the container.
-  If the outlet port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
-  Components of the solution may precipitate in the frozen state and will dissolve upon reaching room temperature with little or no agitation.
-  Potency is not affected.
-  Agitate after solution has reached room temperature.
-  If after visual inspection the solution remains cloudy or if an insoluble precipitate is noted or if any seals are not intact, the container should be discarded.
-- 5.The thawed solution in GALAXY plastic container (PL 2040) remains chemically stable for 72 hours at room temperature (25°C/77°F) or for 30 days when stored under refrigeration (5°C/41°F).
-- 6.Do not refreeze thawed antibiotics.
+1. 1.Thaw frozen containers at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
+   Product should not be thawed by immersion in waters baths or by microwave irradiation.
+   Do not force thaw.
+2. 2.Check for minute leaks by squeezing the bag firmly.
+   If leaks are detected, discard solution because sterility may be impaired.
+3. 3.Do not add supplemental medication.
+4. 4.Visually inspect the container.
+   If the outlet port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
+   Components of the solution may precipitate in the frozen state and will dissolve upon reaching room temperature with little or no agitation.
+   Potency is not affected.
+   Agitate after solution has reached room temperature.
+   If after visual inspection the solution remains cloudy or if an insoluble precipitate is noted or if any seals are not intact, the container should be discarded.
+5. 5.The thawed solution in GALAXY plastic container (PL 2040) remains chemically stable for 72 hours at room temperature (25°C/77°F) or for 30 days when stored under refrigeration (5°C/41°F).
+6. 6.Do not refreeze thawed antibiotics.
 
 ### Preparation for Intravenous Administration:
 
-- 1.Suspend container from eyelet support.
-- 2.Remove protector from outlet port at bottom of container.
-- 3.Attach administration set.
-  Refer to complete directions accompanying set.
-- 4.Use sterile equipment.
+1. 1.Suspend container from eyelet support.
+2. 2.Remove protector from outlet port at bottom of container.
+3. 3.Attach administration set.
+   Refer to complete directions accompanying set.
+4. 4.Use sterile equipment.
 
 Caution: Do not use plastic containers in series connections.
 Such use could result in an embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete.

@@ -1,14 +1,18 @@
 # HOW SUPPLIED/STORAGE AND HANDLING
 
-Vancomycin Injection, USP is supplied as a frozen, iso-osmotic, premixed solution in a 100 mL, 150 mL underfilled /200 mL, or 200 mL single dose GALAXY plastic container (PL 2040) in the following vancomycin-equivalent dose:
+Vancomycin Injection, USP is supplied as a frozen, iso-osmotic, premixed solution in a 100 mL, 150 mL, or 200 mL single dose GALAXY plastic container (PL 2040) in the following vancomycin doses:
 
-| 2G3551 | 500 mg/100 mL in single dose Galaxy container | NDC 0338-3551-48 |
+| Vancomycin Injection, USP in 5% Dextrose |  |  |
 | --- | --- | --- |
-| 2G3590 | 500 mg/100 mL in single dose Galaxy container | NDC 0338-3581-01 |
-| 2G3580 | 750 mg/150 mL in single dose Galaxy container | NDC 0338-3580-48 |
-| 2G3591 | 750 mg/150 mL in single dose Galaxy container | NDC 0338-3582-01 |
-| 2G3552 | 1 g/200 mL in single dose Galaxy container | NDC 0338-3552-48 |
-| 2G3592 | 1 g/200 mL in single dose Galaxy container | NDC 0338-3583-01 |
+| 2G3551 | 500 mg/100 mL in single dose GALAXY container | NDC 0338-3551-48 |
+| 2G3580 | 750 mg/150 mL in single dose GALAXY container | NDC 0338-3580-48 |
+| 2G3552 | 1 g/200 mL in single dose GALAXY container | NDC 0338-3552-48 |
+
+| Vancomycin Injection, USP in 0.9% Sodium Chloride |  |  |
+| --- | --- | --- |
+| 2G3590 | 500 mg/100 mL in single dose GALAXY container | NDC 0338-3581-01 |
+| 2G3591 | 750 mg/150 mL in single dose GALAXY container | NDC 0338-3582-01 |
+| 2G3592 | 1 g/200 mL in single dose GALAXY container | NDC 0338-3583-01 |
 
 Store at or below -20°C (-4°F).
 

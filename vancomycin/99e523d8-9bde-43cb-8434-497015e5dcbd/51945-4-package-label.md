@@ -16,6 +16,9 @@ Each 100 mL contains: Vancomycin Hydrochloride, USP equivalent to 500 mg vancomy
 
 Dosage: For intravenous use only.
 See prescribing information.
+
+Cautions: Do not add supplementary medication or additives.
+
 Rx Only Store at or below -20°C (-4°F).
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 Product should not be thawed by immersion in water baths or by microwave irradiation.
@@ -119,6 +122,9 @@ Each 100 mL contains: Vancomycin Hydrochloride, USP equivalent to 500 mg vancomy
 
 Dosage: For intravenous use only.
 See prescribing information.
+
+Cautions: Do not add supplementary medication or additives.
+
 Rx Only Store at or below -20°C (-4°F).
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 Product should not be thawed by immersion in water baths or by microwave irradiation.
@@ -156,7 +162,7 @@ Product containers may be fragile in the frozen state.
 
 PL 2040 Plastic 07-04-74-766
 
-Vancomycin Injection, USP in 5% Dextrose 1 mg per 200 mL (5 mg/ mL) Contains 3 Single-Use bags.
+Vancomycin Injection, USP in 5% Dextrose 1 g per 200 mL (5 mg/ mL) Contains 3 Single-Use bags.
 Each bag contains 200 mL.
 Iso-osmotic.
 Store at or below -20°C/-4°F.
@@ -167,7 +173,7 @@ NDC 0338-3552-48 Code 2G3552
 
 *FOR BAR CODE POSITION ONLY (01) 20303383552482
 
-Vancomycin Injection, USP in 5% Dextrose 1 mg per 200 mL (5 mg/ mL) Contains 3 Single-Use bags.
+Vancomycin Injection, USP in 5% Dextrose 1 g per 200 mL (5 mg/ mL) Contains 3 Single-Use bags.
 Each bag contains 200 mL.
 Iso-osmotic.
 Store at or below -20°C/-4°F.
@@ -208,6 +214,8 @@ Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter 
 
 Container Label
 
+NDC 0338-3580-48
+
 Vancomycin Injection, USP in 5% Dextrose
 
 750 mg per 150 mL (5 mg/mL)
@@ -217,8 +225,12 @@ GALAXY Single-Dose Container Discard unused portion
 Code 2G3580 Sterile Nonpyrogenic Iso-osmotic
 
 Each 100 mL contains: Vancomycin Hydrochloride, USP equivalent to 500 mg vancomycin with approx. 5 g Dextrose Hydrous, USP in Water for Injection, USP. pH may have been adjusted with hydrochloric acid and/or sodium hydroxide.
+
 Dosage: For intravenous use only.
 See prescribing information.
+
+Cautions: Do not add supplementary medication or additives.
+
 Rx Only Store at or below -20°C (-4°F).
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 Product should not be thawed by immersion in water baths or by microwave irradiation.
@@ -322,6 +334,9 @@ Each 100 mL contains: Vancomycin Hydrochloride, USP equivalent to 500 mg vancomy
 
 Dosage: For intravenous use only.
 See prescribing information.
+
+Cautions: Do not add supplementary medication or additives.
+
 Rx Only Store at or below -20°C (-4°F).
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 Product should not be thawed by immersion in water baths or by microwave irradiation.
@@ -427,6 +442,9 @@ Each 100 mL contains: Vancomycin Hydrochloride, USP equivalent to 500 mg vancomy
 
 Dosage: For intravenous use only.
 See prescribing information.
+
+Cautions: Do not add supplementary medication or additives.
+
 Rx Only Store at or below -20°C (-4°F).
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 Product should not be thawed by immersion in water baths or by microwave irradiation.
@@ -467,7 +485,7 @@ Product containers may be fragile in the frozen state.
 PL 2040 Plastic 07-04-74-552
 
 Vancomycin Injection, USP in 0.9 Sodium Chloride 750 mg per 150 mL (5 mg/ mL) Contains 3 Single-Use bags.
-Each bag contains 100 mL.
+Each bag contains 150 mL.
 Iso-osmotic.
 Store at or below -20°C/-4°F.
 
@@ -475,10 +493,10 @@ Rx Only
 
 NDC 0338-3582-03 Code 2G3591
 
-*FOR BAR CODE POSITION ONLY (01) 20303383581238
+*FOR BAR CODE POSITION ONLY (01) 2030338358238
 
 Vancomycin Injection, USP in 0.9 Sodium Chloride 750 mg per 150 mL (5 mg/ mL) Contains 3 Single-Use bags.
-Each bag contains 100 mL.
+Each bag contains 150 mL.
 Iso-osmotic.
 Store at or below -20°C/-4°F.
 
@@ -486,7 +504,7 @@ Rx Only
 
 NDC 0338-3582-03 Code 2G3591
 
-*FOR BAR CODE POSITION ONLY (01) 20303383581238
+*FOR BAR CODE POSITION ONLY (01) 2030338358238
 
 GALAXY Container
 
@@ -532,6 +550,9 @@ Each 100 mL contains: Vancomycin Hydrochloride, USP equivalent to 500 mg vancomy
 
 Dosage: For intravenous use only.
 See prescribing information.
+
+Cautions: Do not add supplementary medication or additives.
+
 Rx Only Store at or below -20°C (-4°F).
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 Product should not be thawed by immersion in water baths or by microwave irradiation.
@@ -578,7 +599,7 @@ Store at or below -20°C/-4°F.
 
 Rx Only
 
-NDC 0338-3583-03 Code 2G3591
+NDC 0338-3583-03 Code 2G3592
 
 *FOR BAR CODE POSITION ONLY (01) 20303383583035
 
@@ -589,7 +610,7 @@ Store at or below -20°C/-4°F.
 
 Rx Only
 
-NDC 0338-3583-03 Code 2G3591
+NDC 0338-3583-03 Code 2G3592
 
 *FOR BAR CODE POSITION ONLY (01) 20303383583035
 
