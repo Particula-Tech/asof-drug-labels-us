@@ -3,7 +3,7 @@
 ## 10.1 Clinical Manifestations
 
 In adults, the signs and symptoms of toxicity are similar to those described in Adverse Reactions (6) but may be more frequent and severe.
-The most common signs and symptoms of digoxin toxicity are nausea, vomiting, anorexia, and fatigue that occur in 30 to 70% of patients who are overdosed.
+The most common signs and symptoms of digoxin toxicity are nausea, vomiting, anorexia, and fatigue that occur in 30% to 70% of patients who are overdosed.
 Extremely high serum concentrations produce hyperkalemia especially in patients with impaired renal function.
 Almost every type of cardiac arrhythmia has been associated with digoxin overdose and multiple rhythm disturbances in the same patient are common.
 Peak cardiac effects occur 3 to 6 hours following ingestion and may persist for 24 hours or longer.
