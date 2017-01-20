@@ -9,11 +9,11 @@ There have also been reports of patients recovering from overdoses well in exces
 
 ## 10.2 Management of Overdosage
 
-For the most up-to-date information on the management of clozapine overdosage, contact a certified Regional Poison Control Center (1-800-222-1222).
+For the most up-to-date information on the management of clozapine tablets overdosage, contact a certified Regional Poison Control Center (1-800-222-1222).
 Telephone numbers of certified Regional Poison Control Centers are listed in the Physicians’ Desk Reference®, a registered trademark of PDR Network.
 Establish and maintain an airway; ensure adequate oxygenation and ventilation.
 Monitor cardiac status and vital signs.
 Use general symptomatic and supportive measures.
-There are no specific antidotes for clozapine.
+There are no specific antidotes for clozapine tablets.
 
 In managing overdosage, consider the possibility of multiple-drug involvement.

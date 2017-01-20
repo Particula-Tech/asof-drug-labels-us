@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects. Pregnancy Category B
+### Pregnancy Category B
 
 #### Risk Summary
 
@@ -10,7 +10,7 @@ There are no adequate or well-controlled studies of clozapine in pregnant women.
 
 Reproduction studies have been performed in rats and rabbits at doses up to 0.4 and 0.9 times, respectively, the maximum recommended human dose (MRHD) of 900 mg/day on a mg/m2 body surface area basis.
 The studies revealed no evidence of impaired fertility or harm to the fetus due to clozapine.
-Because animal reproduction studies are not always predictive of human response, clozapine should be used during pregnancy only if clearly needed.
+Because animal reproduction studies are not always predictive of human response, clozapine tablets should be used during pregnancy only if clearly needed.
 
 #### Clinical Considerations
 
@@ -31,7 +31,7 @@ Clozapine caused a decrease in maternal body weight but had no effects on litter
 ## 8.3 Nursing Mothers
 
 Clozapine is present in human milk.
-Because of the potential for serious adverse reactions in nursing infants from clozapine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions in nursing infants from clozapine tablets, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
@@ -39,14 +39,14 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-There have not been sufficient numbers of geriatric patients in clinical studies utilizing clozapine to determine whether those over 65 years of age differ from younger subjects in their response to clozapine.
+There have not been sufficient numbers of geriatric patients in clinical studies utilizing clozapine tablets to determine whether those over 65 years of age differ from younger subjects in their response to clozapine tablets.
 
-Orthostatic hypotension and tachycardia can occur with clozapine treatment [see Boxed Warning and Warnings and Precautions (5.3)].
+Orthostatic hypotension and tachycardia can occur with clozapine tablets treatment [see Boxed Warning and Warnings and Precautions (5.3)].
 Elderly patients, particularly those with compromised cardiovascular functioning, may be more susceptible to these effects.
 
-Elderly patients may be particularly susceptible to the anticholinergic effects of clozapine, such as urinary retention and constipation [see Warnings and Precautions (5.13)].
+Elderly patients may be particularly susceptible to the anticholinergic effects of clozapine tablets, such as urinary retention and constipation [see Warnings and Precautions (5.13)].
 
-Carefully select clozapine doses in elderly patients, taking into consideration their greater frequency of decreased hepatic, renal, or cardiac function, as well as other concomitant disease and other drug therapy.
+Carefully select clozapine tablets doses in elderly patients, taking into consideration their greater frequency of decreased hepatic, renal, or cardiac function, as well as other concomitant disease and other drug therapy.
 Clinical experience suggests that the prevalence of tardive dyskinesia appears to be highest among the elderly; especially elderly women [see Warnings and Precautions (5.15)].
 
 ## 8.6 Patients with Renal or Hepatic Impairment

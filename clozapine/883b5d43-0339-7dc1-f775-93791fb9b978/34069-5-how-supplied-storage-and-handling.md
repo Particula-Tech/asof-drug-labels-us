@@ -4,24 +4,24 @@
 
 Clozapine Tablets USP, 25 mg, 50 mg, 100 mg and 200 mg are available containing 25 mg, 50 mg, 100 mg, or 200 mg of clozapine, USP.
 
-The 25 mg tablets are peach round, scored tablets debossed with C to the left of the score and 7 to the right of the score on one side of the tablet and M on the other side.
+The 25 mg tablets are peach, round, scored tablets debossed with C to the left of the score and 7 to the right of the score on one side of the tablet and M on the other side.
 They are available as follows:
 
 NDC 0378-0825-01 bottles of 100 tablets
 
-The 50 mg tablets are green round, scored tablets debossed with C72 above the score and blank below the score on one side of the tablet and M on the other side.
+The 50 mg tablets are green, round, scored tablets debossed with C72 above the score and blank below the score on one side of the tablet and M on the other side.
 They are available as follows:
 
 NDC 0378-0972-01 bottles of 100 tablets
 
-The 100 mg tablets are green round, scored tablets debossed with C11 above the score and blank below the score on one side of the tablet and M on the other side.
+The 100 mg tablets are green, round, scored tablets debossed with C11 above the score and blank below the score on one side of the tablet and M on the other side.
 They are available as follows:
 
 NDC 0378-0860-01 bottles of 100 tablets
 
 NDC 0378-0860-05 bottles of 500 tablets
 
-The 200 mg tablets are green round, scored tablets debossed with C73 above the score and blank below the score on one side of the tablet and M on the other side.
+The 200 mg tablets are green, round, scored tablets debossed with C73 above the score and blank below the score on one side of the tablet and M on the other side.
 They are available as follows:
 
 NDC 0378-0973-01 bottles of 100 tablets

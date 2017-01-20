@@ -25,7 +25,7 @@ Generally, patients responding to clozapine tablets should continue maintenance 
 Method of treatment discontinuation will vary depending on the patient’s last ANC:
 
 - •See Tables 2 or 3 for appropriate ANC monitoring based on the level of neutropenia if abrupt treatment discontinuation is necessary because of moderate to severe neutropenia.
-- •Reduce the dose gradually over a period of 1 to 2 weeks if termination of clozapine therapy is planned and there is no evidence of moderate to severe neutropenia.
+- •Reduce the dose gradually over a period of 1 to 2 weeks if termination of clozapine tablets therapy is planned and there is no evidence of moderate to severe neutropenia.
 - •For abrupt clozapine discontinuation for a reason unrelated to neutropenia, continuation of the existing ANC monitoring is recommended for general population patients until their ANC is ≥ 1500/μL and for BEN patients until their ANC is ≥ 1000/μL or above their baseline.
 - •Additional ANC monitoring is required for any patient reporting onset of fever (temperature of 38.5°C or 101.3°F, or greater) during the 2 weeks after discontinuation [see Warnings and Precautions (5.1)].
 - •Monitor all patients carefully for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as profuse sweating, headache, nausea, vomiting, and diarrhea.
@@ -46,12 +46,12 @@ Dose Adjustment in Patients Taking Concomitant Medications
 | Co-medications | Scenarios |  |  |
 | --- | --- | --- | --- |
 |  | Initiating clozapine tablets while taking a co-medication | Adding a co-medication while taking clozapine tablets | Discontinuing a co-medication while continuing clozapine tablets |
-| Strong CYP1A2 Inhibitors | Use one-third of the clozapine tablet dose. |  | Increase clozapine tablet dose based on clinical response. |
-| Moderate or WeakCYP1A2 Inhibitors | Monitor for adverse reactions. Consider reducing the clozapine tablet dose if necessary. |  | Monitor for lack of effectiveness. Consider increasing clozapine tablet dose if necessary. |
+| Strong CYP1A2 Inhibitors | Use one-third of the clozapine tablets dose. |  | Increase clozapine tablets dose based on clinical response. |
+| Moderate or Weak CYP1A2 Inhibitors | Monitor for adverse reactions. Consider reducing the clozapine tablets dose if necessary. |  | Monitor for lack of effectiveness. Consider increasing clozapine tablets dose if necessary. |
 | CYP2D6 or CYP3A4 Inhibitors |  |  |  |
-| Strong CYP3A4 Inducers | Concomitant use is not recommended. However, if the inducer is necessary, it may be necessary to increase the clozapine tablet dose. Monitor for decreased effectiveness. |  | Reduce clozapine tablet dose based on clinical response. |
-| Moderate or weak CYP1A2 or CYP3A4 Inducers | Monitor for decreased effectiveness. Consider increasing the clozapine tablet dose if necessary. |  | Monitor for adverse reactions. Consider reducing the clozapine tablet dose if necessary. |
+| Strong CYP3A4 Inducers | Concomitant use is not recommended. However, if the inducer is necessary, it may be necessary to increase the clozapine tablets dose. Monitor for decreased effectiveness. |  | Reduce clozapine tablets dose based on clinical response. |
+| Moderate or weak CYP1A2 or CYP3A4 Inducers | Monitor for decreased effectiveness. Consider increasing the clozapine tablets dose if necessary. |  | Monitor for adverse reactions. Consider reducing the clozapine tablets dose if necessary. |
 
 ## 2.7 Renal or Hepatic Impairment or CYP2D6 Poor Metabolizers
 
-It may be necessary to reduce the clozapine tablet dose in patients with significant renal or hepatic impairment, or in CYP2D6 poor metabolizers [see Use in Specific Populations (8.6, 8.7)].
+It may be necessary to reduce the clozapine tablets dose in patients with significant renal or hepatic impairment, or in CYP2D6 poor metabolizers [see Use in Specific Populations (8.6, 8.7)].

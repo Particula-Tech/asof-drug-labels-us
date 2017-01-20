@@ -5,7 +5,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - •Severe Neutropenia [see Warnings and Precautions (5.1)].
 - •Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)].
 - •Seizures [see Warnings and Precautions (5.4)].
-- •Myocarditis and Cardiomyopathy [see Warnings and Precautions (5.5)].
+- •Myocarditis, Cardiomyopathy, and Mitral Valve Incompetence [see Warnings and Precautions (5.5)].
 - •Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.6)].
 - •Eosinophilia [see Warnings and Precautions (5.7)].
 - •QT Interval Prolongation [see Warnings and Precautions (5.8)].
@@ -23,13 +23,13 @@ The following adverse reactions are discussed in more detail in other sections o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The most commonly reported adverse reactions (≥ 5%) across clozapine clinical trials were: CNS reactions, including sedation, dizziness/vertigo, headache, and tremor; cardiovascular reactions, including tachycardia, hypotension, and syncope; autonomic nervous system reactions, including hypersalivation, sweating, dry mouth, and visual disturbances; gastrointestinal reactions, including constipation and nausea; and fever.
-Table 9 summarizes the most commonly reported adverse reactions (≥ 5%) in clozapine-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
+The most commonly reported adverse reactions (≥ 5%) across clozapine tablets clinical trials were: CNS reactions, including sedation, dizziness/vertigo, headache, and tremor; cardiovascular reactions, including tachycardia, hypotension, and syncope; autonomic nervous system reactions, including hypersalivation, sweating, dry mouth, and visual disturbances; gastrointestinal reactions, including constipation and nausea; and fever.
+Table 9 summarizes the most commonly reported adverse reactions (≥ 5%) in clozapine tablets-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
 
 Table 9.
 Common Adverse Reactions (≥ 5%) in the 6-Week, Randomized, Chlorpromazine-Controlled Trial in Treatment-Resistant Schizophrenia
 
-| Adverse Reaction | Clozapine(N = 126)(%) | Chlorpromazine(N = 142)(%) |
+| Adverse Reaction | Clozapine Tablets(N = 126)(%) | Chlorpromazine(N = 142)(%) |
 | --- | --- | --- |
 | Sedation | 21 | 13 |
 | Tachycardia | 17 | 11 |
@@ -43,13 +43,13 @@ Common Adverse Reactions (≥ 5%) in the 6-Week, Randomized, Chlorpromazine-Cont
 | Nausea/vomiting | 10 | 12 |
 | Dry mouth | 5 | 20 |
 
-Table 10 summarizes the adverse reactions reported in clozapine-treated patients at a frequency of 2% or greater across all clozapine studies (excluding the 2-year InterSePT™ Study).
+Table 10 summarizes the adverse reactions reported in clozapine tablets-treated patients at a frequency of 2% or greater across all clozapine tablets studies (excluding the 2-year InterSePT™ Study).
 These rates are not adjusted for duration of exposure.
 
 Table 10.
-Adverse Reactions (≥ 2%) Reported in Clozapine-Treated Patients (N = 842) Across all Clozapine Studies (excluding the 2-year InterSePT™ Study)
+Adverse Reactions (≥ 2%) Reported in Clozapine Tablets-Treated Patients (N = 842) Across all Clozapine Studies (excluding the 2-year InterSePT™ Study)
 
-| Body System Adverse Reaction | ClozapineN = 842Percentage of Patients |
+| Body System Adverse Reaction | Clozapine TabletsN = 842Percentage of Patients |
 | --- | --- |
 | Central Nervous System |  |
 | Drowsiness/Sedation | 39 |
@@ -61,7 +61,7 @@ Adverse Reactions (≥ 2%) Reported in Clozapine-Treated Patients (N = 842) Acro
 | Restlessness | 4 |
 | Hypokinesia/Akinesia | 4 |
 | Agitation | 4 |
-| Seizures (convulsions) | 3Rate based on population of approximately 1,700 exposed during premarket clinical evaluation of clozapine. |
+| Seizures (convulsions) | 3Rate based on population of approximately 1,700 exposed during premarket clinical evaluation of clozapine tablets. |
 | Rigidity | 3 |
 | Akathisia | 3 |
 | Confusion | 3 |
@@ -93,28 +93,28 @@ Adverse Reactions (≥ 2%) Reported in Clozapine-Treated Patients (N = 842) Acro
 | Fever | 5 |
 | Weight gain | 4 |
 
-Table 11 summarizes the most commonly reported adverse reactions (≥ 10% of the clozapine or olanzapine group) in the InterSePT™ Study.
-This was an adequate and well-controlled, 2-year study evaluating the efficacy of clozapine relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
+Table 11 summarizes the most commonly reported adverse reactions (≥ 10% of the clozapine tablets or olanzapine group) in the InterSePT™ Study.
+This was an adequate and well-controlled, 2-year study evaluating the efficacy of clozapine tablets relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
 The rates are not adjusted for duration of exposure.
 
 Table 11.
-Incidence of Adverse Reactions in Patients Treated with Clozapine or Olanzapine in the InterSePT™ Study (≥ 10% in the clozapine or olanzapine group)
+Incidence of Adverse Reactions in Patients Treated with Clozapine Tablets or Olanzapine in the InterSePT™ Study (≥ 10% in the Clozapine Tablets or Olanzapine Group)
 
-| Adverse Reactions | ClozapineN = 479% Reporting | OlanzapineN = 477% Reporting |
+| Adverse Reactions | Clozapine TabletsN = 479% Reporting | OlanzapineN = 477% Reporting |
 | --- | --- | --- |
-| Salivary hypersecretion | 48% | 6% |
-| Somnolence | 46% | 25% |
-| Weight increased | 31% | 56% |
-| Dizziness (excluding vertigo) | 27% | 12% |
-| Constipation | 25% | 10% |
-| Insomnia | 20% | 33% |
-| Nausea | 17% | 10% |
-| Vomiting | 17% | 9% |
-| Dyspepsia | 14% | 8% |
+| Salivary hypersecretion | 48 | 6 |
+| Somnolence | 46 | 25 |
+| Weight increased | 31 | 56 |
+| Dizziness (excluding vertigo) | 27 | 12 |
+| Constipation | 25 | 10 |
+| Insomnia | 20 | 33 |
+| Nausea | 17 | 10 |
+| Vomiting | 17 | 9 |
+| Dyspepsia | 14 | 8 |
 
 ### Dystonia
 
-#### Class effect
+#### Class Effect
 
 Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
@@ -128,11 +128,11 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Central Nervous System: Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, and post-discontinuation cholinergic rebound adverse reactions.
 
-Cardiovascular System: Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolongation, Torsades de Pointes, myocardial infarction, cardiac arrest, and periorbital edema.
+Cardiovascular System: Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, and periorbital edema.
 
 Endocrine System: Pseudopheochromocytoma.
 
-Gastrointestinal System: Acute pancreatitis, dysphagia, salivary gland swelling.
+Gastrointestinal System: Acute pancreatitis, dysphagia, salivary gland swelling, colitis.
 
 Hepatobiliary System: Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
 
