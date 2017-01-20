@@ -16,7 +16,8 @@ Prior to dosing with BENLYSTA, consider administering premedication for prophyla
 
 ## 2.3 Preparation of Solutions
 
-BENLYSTA is provided as a lyophilized powder in a single-use vial for intravenous infusion only and should be reconstituted and diluted by a healthcare professional using aseptic technique as follows:
+BENLYSTA is provided as a lyophilized powder in a single-dose vial for intravenous infusion only and should be reconstituted and diluted by a healthcare professional using aseptic technique as follows.
+Use of a 21- to 25-gauge needle is recommended when piercing the vial stopper for reconstitution and dilution.
 
 Reconstitution Instructions
 
@@ -49,9 +50,8 @@ Dilution Instructions
 
 6.
 Dextrose intravenous solutions are incompatible with BENLYSTA.
-BENLYSTA should only be diluted in 0.9% Sodium Chloride Injection, USP.
-Dilute the reconstituted product to 250 mL in 0.9% Sodium Chloride Injection, USP (normal saline) for intravenous infusion.
-From a 250-mL infusion bag or bottle of normal saline, withdraw and discard a volume equal to the volume of the reconstituted solution of BENLYSTA required for the patient’s dose.
+BENLYSTA should only be diluted in 0.9% Sodium Chloride Injection, USP (normal saline), 0.45% Sodium Chloride Injection, USP (half-normal saline), or Lactated Ringer’s Injection, USP to a volume of 250 mL for intravenous infusion.
+From a 250‑mL infusion bag or bottle of normal saline, half-normal saline, or Lactated Ringer’s Injection, withdraw and discard a volume equal to the volume of the reconstituted solution of BENLYSTA required for the patient’s dose.
 Then add the required volume of the reconstituted solution of BENLYSTA into the infusion bag or bottle.
 Gently invert the bag or bottle to mix the solution.
 Any unused solution in the vials must be discarded.
@@ -62,7 +62,7 @@ Discard the solution if any particulate matter or discoloration is observed.
 
 8.
 The reconstituted solution of BENLYSTA, if not used immediately, should be stored protected from direct sunlight and refrigerated at 2° to 8°C (36° to 46°F).
-Solutions of BENLYSTA diluted in normal saline may be stored at 2° to 8°C (36° to 46°F) or room temperature.
+Solutions of BENLYSTA diluted in normal saline, half-normal saline, or Lactated Ringer’s Injection may be stored at 2° to 8°C (36° to 46°F) or room temperature.
 The total time from reconstitution of BENLYSTA to completion of infusion should not exceed 8 hours.
 
 9.

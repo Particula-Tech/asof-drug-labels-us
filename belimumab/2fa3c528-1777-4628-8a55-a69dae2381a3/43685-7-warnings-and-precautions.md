@@ -10,8 +10,7 @@ Etiologies included infection, cardiovascular disease, and suicide.
 ## 5.2 Serious Infections
 
 Serious and sometimes fatal infections have been reported in patients receiving immunosuppressive agents, including BENLYSTA.
-Physicians should exercise caution when considering the use of BENLYSTA in patients with chronic infections.
-Patients receiving any therapy for chronic infection should not begin therapy with BENLYSTA.
+Physicians should exercise caution when considering the use of BENLYSTA in patients with severe or chronic infections.
 Consider interrupting therapy with BENLYSTA in patients who develop a new infection while undergoing treatment with BENLYSTA and monitor these patients closely.
 
 In the controlled clinical trials, the overall incidence of infections was 71% in patients treated with BENLYSTA compared with 67% in patients who received placebo.

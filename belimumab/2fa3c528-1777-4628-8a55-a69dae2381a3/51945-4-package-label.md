@@ -1,4 +1,4 @@
-PRINCIPLE DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 NDC 49401-101-01
 
@@ -6,29 +6,34 @@ Benlysta®
 
 (belimumab)
 
-For Injection
+for Injection
 
 120 mg/vial
 
 For Intravenous Infusion after dilution only.
-Single-use vial.
+Single-dose vial.
 
 Discard unused portion
 
-Product must be reconstituted with 1.5 mL of Sterile Water for Injection, USP.
+Reconstitution: Reconstitute with 1.5 mL of Sterile Water for Injection, USP.
 After reconstitution, the concentration of BENLYSTA is 80 mg/mL.
-Further dilute in 250 mL of 0.9% Sodium Chloride Injection, USP before use.
+
+Dilute: Further dilute in 250 mL of one of the following solutions before use:
+
+- •0.9% Sodium Chloride Injection, USP
+- •0.45% Sodium Chloride Injection, USP
+- •Lactated Ringer’s Injection, USP
 
 Federal Law requires dispensing of BENLYSTA® with the Medication Guide provided with this carton.
 
 Rx only
 
-©2015 the GSK group of companies
+©2016 the GSK group of companies
 
 Rev.
-12/15
+6/16
 
-10000000138925
+10000000141921
 
 PRINCIPAL DISPLAY PANEL
 
@@ -38,26 +43,31 @@ Benlysta®
 
 (belimumab)
 
-For Injection
+for Injection
 
 400 mg/vial
 
 For Intravenous Infusion after dilution only.
-Single-use vial.
+Single-dose vial.
 
-Discard unused portion
+Discard unused portion.
 
-Product must be reconstituted with 4.8 mL of Sterile Water for Injection, USP.
+Reconstitution: Reconstitute with 4.8 mL of Sterile Water for Injection, USP.
 After reconstitution, the concentration of BENLYSTA is 80 mg/mL.
-Further dilute in 250 mL of 0.9% Sodium Chloride Injection, USP before use.
+
+Dilute: Further dilute in 250 mL of one of the following solutions before use:
+
+- •0.9% Sodium Chloride Injection, USP
+- •0.45% Sodium Chloride Injection, USP
+- •Lactated Ringer’s Injection, USP
 
 Federal Law requires dispensing of BENLYSTA® with the Medication Guide provided with this carton.
 
 Rx only
 
-©2015 the GSK group of companies
+©2016 the GSK group of companies
 
 Rev.
-12/15
+7/16
 
-10000000138923
+10000000141890

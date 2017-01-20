@@ -12,7 +12,7 @@ Reductions in naïve and the SLE B-cell subset were observed as early as Week 8 
 Memory cells increased initially and slowly declined toward baseline levels by Week 52.
 The clinical relevance of these effects on B cells has not been established.
 
-Treatment with BENLYSTA led to reductions in IgG and anti-dsDNA, and increases in complement (C3 and C4).
+Treatment with BENLYSTA led to reductions in IgG and anti-double-stranded DNA antibodies (anti-dsDNA), and increases in complement (C3 and C4).
 These changes were observed as early as Week 8 and were sustained through Week 52.
 The clinical relevance of normalizing these biomarkers has not been definitively established.
 
@@ -32,12 +32,12 @@ Population Pharmacokinetic Parameters in Patients with SLE after Intravenous Inf
 | Systemic clearance (CL, mL/day) | 215 |
 | Volume of distribution (Vss, L) | 5.29 |
 
-a Intravenous infusions were administered at 2-week intervals for the first 3 doses and at 4-week intervals thereafter.
+1. a Intravenous infusions were administered at 2-week intervals for the first 3 doses and at 4-week intervals thereafter.
 
 Drug Interactions
 
 No formal drug interaction studies have been conducted with BENLYSTA.
-Concomitant use of mycophenolate, azathioprine, methotrexate, antimalarials, NSAIDs, aspirin, and HMG-CoA reductase inhibitors did not significantly influence belimumab pharmacokinetics.
+Concomitant use of mycophenolate, azathioprine, methotrexate, antimalarials, non-steroidal anti-inflammatory drugs (NSAIDs), aspirin, and HMG-CoA reductase inhibitors did not significantly influence belimumab pharmacokinetics.
 Coadministration of steroids and angiotensin-converting enzyme (ACE) inhibitors resulted in an increase of systemic clearance of belimumab that was not clinically significant because the magnitude was well within the range of normal variability of clearance.
 The effect of belimumab on the pharmacokinetics of other drugs has not been evaluated.
 
