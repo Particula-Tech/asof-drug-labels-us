@@ -127,4 +127,4 @@ For more information, go to www.valeant.com or contact Valeant Pharmaceuticals N
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Issued: 12/2016
+Issued: 01/2017

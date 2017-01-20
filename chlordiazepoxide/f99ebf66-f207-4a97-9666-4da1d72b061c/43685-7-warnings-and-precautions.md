@@ -32,7 +32,7 @@ Although clinical studies have not established a cause and effect relationship, 
 
 ## Information for Patients
 
-Inform patients and caregivers that potentially fatal additive effects may occur if Librax is used with opioids or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider (see WARNINGSand PRECAUTIONS).
+Inform patients and caregivers that potentially fatal additive effects may occur if Librax is used with opioids or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider (see WARNINGS and PRECAUTIONS).
 
 To assure the safe and effective use of benzodiazepines, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug.
 
