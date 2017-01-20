@@ -73,7 +73,7 @@ Patients with Chronic Pulmonary Disease: DILAUDID Oral Solution- or DILAUDID Tab
 
 Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
 
-Monitor such patients closely, particularly when initiating and titrating DILAUDIDOral Solution or DILAUDID Tablets and when DILAUDID is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.3)].
+Monitor such patients closely, particularly when initiating and titrating DILAUDID Oral Solution or DILAUDID Tablets and when DILAUDID is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.3)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
 ## 5.7 Adrenal Insufficiency
@@ -96,7 +96,7 @@ Avoid the use of DILAUDID Oral Solution or DILAUDID Tablets in patients with cir
 
 ## 5.9 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-In patients who may be susceptible to the intracranial effects of CO2retention (e.g., those with evidence of increased intracranial pressure or brain tumors), DILAUDID Oral Solution or DILAUDID Tablets may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), DILAUDID Oral Solution or DILAUDID Tablets may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with DILAUDID Oral Solution or DILAUDID Tablets.
 
 Opioids may also obscure the clinical course in a patient with a head injury.

@@ -3,8 +3,8 @@
 Risk of Medication Errors Ensure accuracy when prescribing, dispensing, and administering DILAUDID Oral Solution.
 Dosing errors due to confusion between mg and mL can result in accidental overdose and death [see Dosage and Administration (2.1), Warnings and Precautions (5.1)].
 
-Addiction, Abuse, and Misuse DILAUDID Oral Solution and DILAUDIDTablets expose patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
-Assess each patient’s risk prior to prescribing DILAUDID Oral Solution or DILAUDIDTablets, and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.2)].
+Addiction, Abuse, and Misuse DILAUDID Oral Solution and DILAUDID Tablets expose patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
+Assess each patient’s risk prior to prescribing DILAUDID Oral Solution or DILAUDID Tablets, and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.2)].
 
 Life-Threatening Respiratory Depression Serious, life-threatening, or fatal respiratory depression may occur with use of DILAUDID Oral Solution and DILAUDID Tablets.
 Monitor for respiratory depression, especially during initiation of DILAUDID Oral Solution or DILAUDID Tablets or following a dose increase [see Warnings and Precautions (5.3)].

@@ -50,7 +50,7 @@ Important Administration Instructions
 
 Instruct patients how to properly take DILAUDID.
 
-- Advise patients to always obtain a calibrated oral syringe/dosing cup from the pharmacist for administering DILAUDID Oral Solution to ensure that the dose is measured and administered accurately [see Warnings and Precuations (5.1)].
+- Advise patients to always obtain a calibrated oral syringe/dosing cup from the pharmacist for administering DILAUDID Oral Solution to ensure that the dose is measured and administered accurately [see Warnings and Precautions (5.1)].
   Advise patients never to use household teaspoons or tablespoons to measure DILAUDID Oral Solution.
 - Advise patients not to adjust the dose of DILAUDID Oral Solution or DILAUDID Tablets without consulting with a physician or other healthcare professional.
 - If patients have been receiving treatment with DILAUDID Oral Solution or DILAUDID Tablets for more than a few weeks and cessation of therapy is indicated, counsel them on the importance of safely tapering the dose as abrupt discontinuation of the medication could precipitate withdrawal symptoms.

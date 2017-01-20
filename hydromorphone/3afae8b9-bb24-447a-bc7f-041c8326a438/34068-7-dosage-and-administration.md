@@ -8,7 +8,7 @@ When writing prescriptions, include both the total dose in mg and the total dose
 
 Instruct patients to obtain a calibrated measuring cup/syringe for administering DILAUDID Oral Solution to ensurethat the dose is measured and administered accurately.
 
-Do not use household teaspoons or tablespoons to measure DILAUDID Oral Solution, as using a tablespoon instead of a teaspoon could lead to overdosage [see Warnings and Precauitons (5.1)].
+Do not use household teaspoons or tablespoons to measure DILAUDID Oral Solution, as using a tablespoon instead of a teaspoon could lead to overdosage [see Warnings and Precautions (5.1)].
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
@@ -16,7 +16,7 @@ Do not use household teaspoons or tablespoons to measure DILAUDID Oral Solution,
 
 ## 2.2 Initial Dosage
 
-Initiating Treament with DILAUDID Oral Solution or DILAUDID Tablets
+Initiating Treatment with DILAUDID Oral Solution or DILAUDID Tablets
 
 Dilaudid Oral Solution Initiate treatment with DILAUDID Oral Solution in a dosing range of one-half (2.5 mL to two teaspoonsful (10 mL (2.5 mg - 10 mg) every 3 to 6 hours as needed for pain.
 
