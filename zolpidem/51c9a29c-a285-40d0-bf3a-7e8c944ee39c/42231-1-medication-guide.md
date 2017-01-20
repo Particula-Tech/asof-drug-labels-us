@@ -120,7 +120,7 @@ How should I store zolpidem tartrate?
 - Store zolpidem tartrate at room temperature 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
 Keep zolpidem tartrate and all medicines out of reach of children.
-General information about the safe and effective use of zolpidem tartrate Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+General Information about the safe and effective use of zolpidem tartrate Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use zolpidem tartrate for a condition for which it was not prescribed.
 Do not share zolpidem tartrate with other people, even if they have the same symptoms that you have.
 It may harm them and it is against the law.
@@ -132,7 +132,7 @@ What are the ingredients in zolpidem tartrate tablets?
 Active Ingredient: Zolpidem tartrate Inactive Ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Medication Guides available at www.northstarrxllc.com/products or call 1- 800-206-7821.
+Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
-Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India.
-M.L.No.: 22/MN/AP/2009/F/R Revised: 02/2016
+Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahabubnagar (Dt)-509302 India.
+M.L.No.: 22/MN/AP/2009/F/R Revised: 01/2017

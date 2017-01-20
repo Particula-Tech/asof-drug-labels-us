@@ -19,4 +19,4 @@ Tolerance, Abuse, and Dependence Tell patients not to increase the dose of zolpi
 Administration Instructions Patients should be counseled to take zolpidem tartrate right before they get into bed and only when they are able to stay in bed a full night (7 to 8 hours) before being active again.
 Zolpidem tartrate tablets should not be taken with or immediately after a meal.
 Advise patients NOT to take zolpidem tartrate if they drank alcohol that evening.
-Medication Guides available at www.northstarrxllc.com/products or call 1- 800-206-7821.
+Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.

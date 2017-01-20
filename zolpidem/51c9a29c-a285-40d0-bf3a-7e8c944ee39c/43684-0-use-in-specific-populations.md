@@ -46,15 +46,20 @@ For a pool of U.S. patients receiving zolpidem at doses of ≤ 10 mg or placebo,
 | Diarrhea | 3% | 1% |
 
 A total of 30/1,959 (1.5%) non-U.S. patients receiving zolpidem reported falls, including 28/30 (93%) who were ≥ 70 years of age.
-Of these 28 patients, 23 (82%) were receiving zolpidem doses > 10 mg.
+Of these 28 patients, 23 (82%) were receiving zolpidem doses >10 mg.
 A total of 24/1,959 (1.2%) non-U.S. patients receiving zolpidem reported confusion, including 18/24 (75%) who were ≥ 70 years of age.
-Of these 18 patients, 14 (78%) were receiving zolpidem doses > 10 mg.
+Of these 18 patients, 14 (78%) were receiving zolpidem doses >10 mg.
 The dose of zolpidem tartrate in elderly patients is 5 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative/hypnotic drugs [see Warnings and Precautions (5.1)].
 
-## 8.6 Gender Differences in Pharmacokinetics
+## 8.6 Gender Difference in Pharmacokinetics
 
 Women clear zolpidem tartrate from the body at a lower rate than men.
 Cmax and AUC parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
 Given the higher blood levels of zolpidem tartrate in women compared to men at a given dose, the recommended initial dose of zolpidem tartrate for adult women is 5 mg, and the recommended dose for adult men is 5 or 10 mg.
 In geriatric patients, clearance of zolpidem is similar in men and women.
 The recommended dose of zolpidem tartrate in geriatric patients is 5 mg regardless of gender.
+
+## 8.7 Hepatic Impairment
+
+The recommended dose of zolpidem tartrate in patients with mild to moderate hepatic impairment is 5 mg once daily immediately before bedtime.
+Avoid zolpidem tartrate use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Warnings and Precautions (5.7), Clinical Pharmacology (12.3)].
