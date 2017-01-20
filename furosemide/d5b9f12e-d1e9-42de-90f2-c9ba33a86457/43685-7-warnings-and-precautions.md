@@ -10,7 +10,7 @@ If increasing azotemia and oliguria occur during treatment of severe progressive
 Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported.
 Reports usually indicate that furosemide ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hypoproteinemia or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
 If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used).
-(See PRECAUTIONS, Drug Interactions.)
+(See PRECAUTIONS, Drug Interactions).
 
 Pediatric Use: In premature neonates with respiratory distress syndrome, diuretic treatment with furosemide in the first few weeks of life may increase the risk of persistent patent ductus arteriosus (PDA), possibly through a prostaglandin-E-mediated process.
 
@@ -71,7 +71,7 @@ Furosemide may lower serum levels of calcium (rarely cases of tetany have been r
 Accordingly, serum levels of these electrolytes should be determined periodically.
 
 In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed.
-(See PRECAUTIONS, Pediatric Use.)
+(See PRECAUTIONS, Pediatric Use).
 
 ## Drug Interactions:
 
@@ -113,7 +113,7 @@ Concomitant use of cyclosporine and furosemide is associated with increased risk
 One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency.
 There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels and weight gain when furosemide was used in conjunction with NSAIDs.
 
-Literature reports indicate that coadministration of indomethacin may reduce the natriuretic and antihypertensive effects of furosemide in some patients by inhibiting prostaglandin synthesis.
+Literature reports indicate that co-administration of indomethacin may reduce the natriuretic and antihypertensive effects of furosemide in some patients by inhibiting prostaglandin synthesis.
 Indomethacin may also affect plasma renin levels, aldosterone excretion and renin profile evaluation.
 Patients receiving both indomethacin and furosemide should be observed closely to determine if the desired diuretic and/or antihypertensive effect of furosemide is achieved.
 
@@ -133,7 +133,7 @@ Furosemide produced no impairment of fertility in male or female rats, at 100 mg
 
 ## Pregnancy:
 
-Teratogenic Effects:Pregnancy Category C. Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4 and 8 times the maximal recommended human oral dose.
+Teratogenic Effects: Pregnancy Category C. Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4 and 8 times the maximal recommended human oral dose.
 There are no adequate and well-controlled studies in pregnant women.
 
 Furosemide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -174,4 +174,4 @@ In general, dose selection for the elderly patient should be cautious, usually s
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function.
-(See PRECAUTIONS: General and DOSAGE AND ADMINISTRATION.)
+(See PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).
