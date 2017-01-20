@@ -32,19 +32,28 @@ Instruct patients to report to their physician any new numbness, pain, skin colo
 Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking ADDERALL XR.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients [see WARNINGS AND PRECAUTIONS (5.5)].
 
-## 17.6 Growth
+## 17.6 Serotonin Syndrome
+
+Caution patients about the risk of serotonin syndrome with concomitant use of ADDERALL XR and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see CONTRAINDICATIONS (4), WARNINGS AND PRECAUTIONS (5.6) and DRUG INTERACTIONS (7.1)].
+Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
+
+## 17.7 Concomitant Medications
+
+Advise patients to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs because there is a potential for interactions [see DRUG INTERACTIONS (7.1)].
+
+## 17.8 Growth
 
 Monitor growth in children during treatment with ADDERALL XR, and patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see WARNINGS AND PRECAUTIONS (5.3)].
 
-## 17.7 Pregnancy
+## 17.9 Pregnancy
 
 Advise patients to notify their physicians if they become pregnant or intend to become pregnant during treatment [see USE IN SPECIFIC POPULATIONS (8.1)].
 
-## 17.8 Nursing
+## 17.10 Nursing
 
 Advise patients not to breast feed if they are taking ADDERALL XR [see USE IN SPECIFIC POPULATIONS (8.3)].
 
-## 17.9 Impairment in Ability to Operate Machinery or Vehicles
+## 17.11 Impairment in Ability to Operate Machinery or Vehicles
 
 ADDERALL XR may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicles; the patient should therefore be cautioned accordingly.
 
@@ -58,7 +67,7 @@ ADDERALL XR® is a registered trademark of Shire LLC
 
 ADDERALL® is a registered trademark of Shire LLC, under license to Duramed Pharmaceuticals, Inc.
 
-Copyright© 2015 Shire US Inc.
+Copyright© 2017 Shire US Inc.
 
 Rev.
-12/2015
+01/2017

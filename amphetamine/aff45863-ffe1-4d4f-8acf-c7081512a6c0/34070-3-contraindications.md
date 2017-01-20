@@ -6,8 +6,9 @@ ADDERALL XR administration is contraindicated in patients with the following con
 - Symptomatic cardiovascular disease
 - Moderate to severe hypertension
 - Hyperthyroidism
-- Known hypersensitivity or idiosyncrasy to the sympathomimetic amines (e.g., anaphylaxis, angioedema, serious skin rashes) [see ADVERSE REACTIONS (6.2)]
+- In patients known to be hypersensitive to amphetamine, or other components of ADDERALL XR.
+  Hypersensitivity reactions such as angioedema and anaphylactic reactions have been reported in patients treated with other amphetamine products [see ADVERSE REACTIONS (6.2)]
 - Glaucoma
 - Agitated states
 - History of drug abuse
-- During or within 14 days following the administration of monoamine oxidase inhibitors (hypertensive crises may result) [see DRUG INTERACTIONS (7.1)]
+- Patients taking monoamine oxidase inhibitors (MAOIs), or within 14 days of stopping MAOIs (including MAOIs such as linezolid or intravenous methylene blue), because of an increased risk of hypertensive crisis [see WARNINGS AND PRECAUTIONS (5.6) and DRUG INTERACTIONS (7.1)]

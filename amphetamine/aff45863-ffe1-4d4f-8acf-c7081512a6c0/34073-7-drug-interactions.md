@@ -1,106 +1,35 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Agents that Increase Blood Levels of Amphetamines
+## 7.1 Clinically Important Interactions with Amphetamines
 
-MAO Inhibitors
+Table 4: Drugs Having Clinically Important Interactions with Amphetamines
 
-MAOI antidepressants slow amphetamine metabolism.
-This slowing potentiates amphetamines, increasing their effect on the release of norepinephrine and other monoamines from adrenergic nerve endings; this can cause headaches and other signs of hypertensive crisis.
-A variety of toxic neurological effects and malignant hyperpyrexia can occur, sometimes with fatal results.
-Do not administer ADDERALL XR during or within 14 days following the administration of monoamine oxidase inhibitors [see CONTRAINDICATIONS (4)].
-
-Alkalinizing Agents
-
-Gastrointestinal alkalinizing agents (e.g., sodium bicarbonate) increase absorption of amphetamines.
-Co-administration of ADDERALL XR and gastrointestinal alkalinizing agents, such as antacids, should be avoided.
-Urinary alkalinizing agents (acetazolamide, some thiazides) increase the concentration of the non-ionized species of the amphetamine molecule, thereby decreasing urinary excretion.
-Both groups of agents increase blood levels and therefore potentiate the actions of amphetamines.
-
-## 7.2 Agents that Lower Blood Levels of Amphetamines
-
-Acidifying Agents
-
-Gastrointestinal acidifying agents (e.g., guanethidine, reserpine, glutamic acid HCl, ascorbic acid) lower absorption of amphetamines.
-Urinary acidifying agents (e.g., ammonium chloride, sodium acid phosphate, methenamine salts) increase the concentration of the ionized species of the amphetamine molecule, thereby increasing urinary excretion.
-Both groups of agents lower blood levels and efficacy of amphetamines.
-
-## 7.3 Agents whose Effects May be Reduced by Amphetamines
-
-Adrenergic Blockers
-
-Amphetamines may reduce the cardiovascular effects of adrenergic blockers.
-
-Antihistamines
-
-Amphetamines may counteract the sedative effect of antihistamines.
-
-Antihypertensives
-
-Amphetamines may antagonize the hypotensive effects of antihypertensives.
-
-Veratrum alkaloids
-
-Amphetamines inhibit the hypotensive effect of veratrum alkaloids.
-
-Phenobarbital
-
-Amphetamines may delay intestinal absorption of phenobarbital.
-
-Phenytoin
-
-Amphetamines may delay intestinal absorption of phenytoin.
-
-Ethosuximide
-
-Amphetamines may delay intestinal absorption of ethosuximide.
-
-## 7.4 Agents whose Effects May be Potentiated by Amphetamines
-
-Antidepressants, Tricyclic
-
-Amphetamines may enhance the activity of tricyclic antidepressants or sympathomimetic agents; d-amphetamine with desipramine or protriptyline and possibly other tricyclics cause striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.
-
-Meperidine
-
-Amphetamines potentiate the analgesic effect of meperidine.
-
-Norepinephrine
-
-Amphetamines may enhance the adrenergic effect of norepinephrine.
-
-## 7.5 Agents that May Reduce the Effects of Amphetamines
-
-Chlorpromazine
-
-Chlorpromazine blocks dopamine and norepinephrine receptors, thus inhibiting the central stimulant effects of amphetamines.
-
-Haloperidol
-
-Haloperidol blocks dopamine receptors, thus inhibiting the central stimulant effects of amphetamines.
-
-Lithium Carbonate
-
-The anorectic and stimulatory effects of amphetamines may be inhibited by lithium carbonate.
-
-## 7.6 Agents that May Potentiate the Effects of Amphetamines
-
-Norepinephrine
-
-Norepinephrine may enhance the adrenergic effect of amphetamine.
-
-Propoxyphene Overdosage
-
-In cases of propoxyphene overdosage, amphetamine CNS stimulation is potentiated and fatal convulsions can occur.
-
-## 7.7 Proton Pump Inhibitors (PPI)
-
-PPIs act on proton pumps by blocking acid production, thereby reducing gastric acidity.
-When ADDERALL XR (20 mg single-dose) was administered concomitantly with the proton pump inhibitor, omeprazole (40 mg once daily for 14 days), the median Tmax of d-amphetamine was decreased by 1.25 hours (from 4 to 2.75 hours), and the median Tmax of l-amphetamine was decreased by 2.5 hours (from 5.5 to 3 hours), compared to ADDERALL XR administered alone.
-The AUC and Cmax of each moiety were unaffected.
-Therefore, co-administration of ADDERALL XR and proton pump inhibitors should be monitored for changes in clinical effect.
-
-## 7.8 Drug/Laboratory Test Interactions
-
-Amphetamines can cause a significant elevation in plasma corticosteroid levels.
-This increase is greatest in the evening.
-Amphetamines may interfere with urinary steroid determinations.
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| --- | --- |
+| Clinical Impact | Concomitant use of MAOIs and CNS stimulants can cause hypertensive crisis. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure. |
+| Intervention | Do not administer ADDERALL XR concomitantly or within 14 days after discontinuing MAOI [see CONTRAINDICATIONS (4) and WARNINGS AND PRECAUTIONS (5.6)]. |
+| Examples | selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue |
+| Serotonergic Drugs |  |
+| Clinical Impact | The concomitant use of ADDERALL XR and serotonergic drugs increases the risk of serotonin syndrome. |
+| Intervention | Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during ADDERALL XR initiation or dosage increase. If serotonin syndrome occurs, discontinue ADDERALL XR and the concomitant serotonergic drug(s) [see WARNINGS AND PRECAUTIONS (5.6)]. |
+| Examples | selective serotonin reuptake inhibitors (SSRI), serotonin norepinephrine reuptake inhibitors (SNRI), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort |
+| CYP2D6 Inhibitors |  |
+| Clinical Impact | The concomitant use of ADDERALL XR and CYP2D6 inhibitors may increase the exposure of ADDERALL XR compared to the use of the drug alone and increase the risk of serotonin syndrome. |
+| Intervention | Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during ADDERALL XR initiation and after a dosage increase. If serotonin syndrome occurs, discontinue ADDERALL XR and the CYP2D6 inhibitor [see WARNINGS AND PRECAUTIONS (5.6) and OVERDOSAGE (10)]. |
+| Examples | paroxetine and fluoxetine (also serotonergic drugs), quinidine, ritonavir |
+| Alkalinizing Agents |  |
+| Clinical Impact | Increase blood levels and potentiate the action of amphetamine. |
+| Intervention | Co-administration of ADDERALL XR and gastrointestinal or urinary alkalinizing agents should be avoided. |
+| Examples | Gastrointestinal alkalinizing agents (e.g., sodium bicarbonate). Urinary alkalinizing agents (e.g. acetazolamide, some thiazides). |
+| Acidifying Agents |  |
+| Clinical Impact | Lower blood levels and efficacy of amphetamines. |
+| Intervention | Increase dose based on clinical response. |
+| Examples | Gastrointestinal acidifying agents (e.g., guanethidine, reserpine, glutamic acid HCl, ascorbic acid). Urinary acidifying agents (e.g., ammonium chloride, sodium acid phosphate, methenamine salts). |
+| Tricyclic Antidepressants |  |
+| Clinical Impact | May enhance the activity of tricyclic or sympathomimetic agents causing striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated. |
+| Intervention | Monitor frequently and adjust or use alternative therapy based on clinical response. |
+| Examples | desipramine, protriptyline |
+| Proton Pump Inhibitors |  |
+| Clinical Impact | Time to maximum concentration (Tmax) of amphetamine is decreased compared to when administered alone. |
+| Intervention | Monitor patients for changes in clinical effect and adjust therapy based on clinical response. |
+| Examples | omeprazole |

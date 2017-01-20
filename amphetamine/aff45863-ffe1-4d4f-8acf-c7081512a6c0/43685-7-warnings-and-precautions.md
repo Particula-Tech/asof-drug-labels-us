@@ -73,16 +73,30 @@ Signs and symptoms generally improve after reduction in dose or discontinuation 
 Careful observation for digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
-## 5.6 Visual Disturbance
+## 5.6 Serotonin Syndrome
+
+Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as MAOIs, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort [see DRUG INTERACTIONS (7.1)].
+Amphetamines and amphetamine derivatives are known to be metabolized, to some degree, by cytochrome P450 2D6 (CYP2D6) and display minor inhibition of CYP2D6 metabolism [see CLINICAL PHARMACOLOGY (12.3)].
+The potential for a pharmacokinetic interaction exists with the co-administration of CYP2D6 inhibitors which may increase the risk with increased exposure to ADDERALL XR.
+In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 [see DRUG INTERACTIONS (7.1)].
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
+Concomitant use of ADDERALL XR with MAOI drugs is contraindicated [see CONTRAINDICATIONS (4)].
+
+Discontinue treatment with ADDERALL XR and any concomitant serotonergic agents immediately if symptoms of serotonin syndrome occur, and initiate supportive symptomatic treatment.
+Concomitant use of ADDERALL XR with other serotonergic drugs or CYP2D6 inhibitors should be used only if the potential benefit justifies the potential risk.
+If clinically warranted, consider initiating ADDERALL XR with lower doses, monitoring patients for the emergence of serotonin syndrome during drug initiation or titration, and informing patients of the increased risk for serotonin syndrome.
+
+## 5.7 Visual Disturbance
 
 Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
 
-## 5.7 Tics
+## 5.8 Tics
 
 Amphetamines have been reported to exacerbate motor and phonic tics and Tourette's syndrome.
 Therefore, clinical evaluation for tics and Tourette's syndrome in patients and their families should precede use of stimulant medications.
 
-## 5.8 Prescribing and Dispensing
+## 5.9 Prescribing and Dispensing
 
 The least amount of amphetamine feasible should be prescribed or dispensed at one time in order to minimize the possibility of overdosage.
 ADDERALL XR should be used with caution in patients who use other sympathomimetic drugs.
