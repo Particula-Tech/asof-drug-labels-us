@@ -302,4 +302,4 @@ All brands listed are the trademarks of their respective owners and are not trad
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India
 
-Revised: 11/2016
+Revised: 01/2017

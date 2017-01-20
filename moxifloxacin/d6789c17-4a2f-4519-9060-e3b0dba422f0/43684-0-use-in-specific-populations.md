@@ -46,7 +46,9 @@ In lactating rats given a single oral dose of 4.59 mg/kg moxifloxacin (approxima
 ## 8.4 Pediatric Use
 
 Effectiveness in pediatric patients and adolescents less than 18 years of age has not been established.
-Moxifloxacin hydrochloride causes arthropathy in juvenile animals.
+Moxifloxacin hydrochloride causes arthropathy in juvenile animals [see Boxed Warning, Warnings and Precautions (5.10) and Nonclinical Toxicology (13.2)].
+Information describing a clinical study in cIAI in which efficacy was not demonstrated in pediatric patients is approved for Bayer Healthcare Pharmaceuticals Inc.’s AVELOX (moxifloxacin hydrochloride).
+However, due to Bayer Healthcare Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
