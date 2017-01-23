@@ -19,11 +19,11 @@ To the caregiver using Diastat® AcuDialTM:
 Please do not give DIASTAT® AcuDial™ until:
 
 1. 1.You have confirmed:
-2. •Prescribed dose is visible and if known, is correct
-3. •green “ready” band is visible
-4. 2.You have thoroughly read these instructions
-5. 3.Reviewed administration steps with the doctor
-6. 4.Understand the directions
+2. 2.Prescribed dose is visible and if known, is correct
+3. 3.green “ready” band is visible
+4. 4.You have thoroughly read these instructions
+5. 5.Reviewed administration steps with the doctor
+6. 6.Understand the directions
 
 Please do not administer DIASTAT until you feel comfortable with how to use DIASTAT.
 The doctor will tell you exactly when to use DIASTAT.
@@ -103,6 +103,10 @@ Stay with the person for 4 hours and make notes on the following:
 
 HOW TO ADMINISTER AND DISPOSAL
 
+®/™ are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
+
+©Valeant Pharmaceuticals North America LLC
+
 Manufactured for:
 
 Valeant Pharmaceuticals North America LLC
@@ -115,7 +119,7 @@ DPT Laboratories, Ltd.
 
 San Antonio, TX 78215 USA
 
-update p/n
+9435002
 
 Rev.
-9/16
+12/16

@@ -18,7 +18,7 @@ The Diazepam rectal gel delivery system is available in the following three pres
 Each Twin Pack contains two diazepam rectal gel delivery systems, two packets of lubricating jelly, and administration and disposal Instructions available on the bottom of the package.
 Diastat® AcuDial™ is also packed with Instructions for Caregivers upon receipt from pharmacy.
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).[See USP Controlled Room Temperature].
 
 Diastat®AcuDial™
 
@@ -43,7 +43,7 @@ Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 0880
 
 By: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
-Valium® is a registered trademark of Hoffman-LaRoche.
+All other product/brand names are trademarks of their respective owners.
 
-update p/n Rev.
-9/16
+9435002 Rev.
+12/16

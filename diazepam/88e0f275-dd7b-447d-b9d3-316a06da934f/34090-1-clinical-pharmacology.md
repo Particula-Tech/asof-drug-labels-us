@@ -15,7 +15,7 @@ No pharmacokinetic studies were conducted in pediatric patients.
 Therefore, information from the literature is used to define pharmacokinetic labeling in the pediatric population.
 
 Diazepam rectal gel is well absorbed following rectal administration, reaching peak plasma concentrations in 1.5 hours.
-The absolute bioavailability of Diazepam rectal gel relative to Valium® injectable is 90%.
+The absolute bioavailability of Diazepam rectal gel relative to Valium injectable is 90%.
 The volume of distribution of Diazepam rectal gel is calculated to be approximately 1 L/kg.
 The mean elimination half-life of diazepam and desmethyldiazepam following administration of a 15 mg dose of Diazepam rectal gel was found to be about 46 hours (CV=43%) and 71 hours (CV=37%), respectively.
 Both diazepam and its major active metabolite desmethyldiazepam bind extensively to plasma proteins (95-98%).

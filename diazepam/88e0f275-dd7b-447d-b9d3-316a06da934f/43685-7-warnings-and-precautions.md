@@ -11,7 +11,7 @@ Because of these risks, reserve concomitant prescribing of benzodiazepines and o
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe Diastat or Diastat AcuDial concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
-Advise both patients and caregivers about the risks of respiratory depression and sedation when Diastat or Diastat AcuDial is used with opioids (see PRECAUTIONS).
+Advise both patients and caregivers about the risks of respiratory depression and sedation when Diastat or Diastat AcuDial is used with opioids (see PRECAUTIONSsection).
 
 ## CNS Depression
 
@@ -71,11 +71,27 @@ Tonic status epilepticus has been precipitated in patients treated with IV diaze
 
 # PRECAUTIONS
 
-## Information to Be Communicated by the Prescriber to the Caregiver
+## Information to Be Communicated by the Prescriber to Patients and Caregivers
 
 Risks from Concomitant Use with Opioids:
 
 Inform patients and caregivers that potentially fatal additive effects may occur if Diastat or Diastat AcuDial is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS and PRECAUTIONS, Drug Interactions).
+
+Administration: Prescribers are strongly advised to take all reasonable steps to ensure that caregivers
+
+fully understand their role and obligations vis a vis the administration of Diazepam rectal gel to
+
+individuals in their care.
+Prescribers should routinely discuss the steps in the Patient/Caregiver Package
+
+Insert (see Patient/Caregiver Insert printed at the end of the product labeling and also included in the product carton).
+The successful and safe use of Diazepam rectal gel depends in large measure on the
+
+competence and performance of the caregiver.
+
+Prescribers should advise caregivers that they expect to be informed immediately if a patient develops any
+
+new findings which are not typical of the patient’s characteristic seizure episode.
 
 ## Caution in Renally Impaired Patients
 
@@ -120,15 +136,38 @@ Although Diazepam rectal gel is indicated for use solely on an intermittent basi
 
 ## Drug Interactions
 
-If Diazepam rectal gel is to be combined with other psychotropic agents or other CNS depressants, careful consideration should be given to the pharmacology of the agents to be employed particularly with known compounds which may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
+There have been no clinical studies or reports in literature to evaluate the interaction of rectally
 
-The clearance of diazepam and certain other benzodiazepines can be delayed in association with cimetidine administration.
+administered diazepam with other drugs.
+As with all drugs, the potential for interaction by a variety of
+
+mechanisms is a possibility.
+
+Effect of Concomitant Use of Benzodiazepines and Opioids: The concomitant use of benzodiazepines and
+
+opioids increases the risk of respiratory depression because of actions at different receptor sites in the
+
+CNS that control respiration.
+Benzodiazepines interact at GABAA sites, and opioids interact primarily at
+
+mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to
+
+significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of
+
+concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression
+
+and sedation.
+
+Other Psychotropic Agents or Other CNS Depressants: If Diazepam rectal gel is to be combined with other psychotropic agents or other CNS depressants, careful consideration should be given to the pharmacology of the agents to be employed particularly with known compounds which may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
+
+Cimetidine: The clearance of diazepam and certain other benzodiazepines can be delayed in association
+
+with cimetidine administration.
 The clinical significance of this is unclear.
 
-Valproate may potentiate the CNS-depressant effects of diazepam.
-
-There have been no clinical studies or reports in literature to evaluate the interaction of rectally administered diazepam with other drugs.
-As with all drugs, the potential for interaction by a variety of mechanisms is a possibility.
+Valproate: Valproate may potentiate the CNS-depressant effects of diazepam.
 
 Effect of Concomitant Use of Benzodiazepines and Opioids: The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
 Benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors.
