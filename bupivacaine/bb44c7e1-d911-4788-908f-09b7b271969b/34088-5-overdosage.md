@@ -3,7 +3,7 @@
 Acute emergencies from local anesthetics are generally related to high plasma levels encountered during therapeutic use of local anesthetics or to unintended subarachnoid injection of local anesthetic solution.
 (See ADVERSE REACTIONS, WARNINGS, and PRECAUTIONS.)
 
-Management of Local Anesthetic Emergencies: The first consideration is prevention, best accomplished by careful and constant monitoring of cardiovascular and respiratory vital signs and the patient’s state of consciousness after each local anesthetic injection.
+Management of Local Anesthetic Emergencies: The first consideration is prevention, best accomplished by careful and constant monitoring of cardiovascular and respiratory vital signs and the patient's state of consciousness after each local anesthetic injection.
 At the first sign of change, oxygen should be administered.
 
 The first step in the management of systemic toxic reactions, as well as underventilation or apnea due to unintentional subarachnoid injection of drug solution, consists of immediate attention to the establishment and maintenance of a patent airway and effective assisted or controlled ventilation with 100% oxygen with a delivery system capable of permitting immediate positive airway pressure by mask.

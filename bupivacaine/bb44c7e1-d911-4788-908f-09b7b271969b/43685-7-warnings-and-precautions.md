@@ -45,9 +45,9 @@ Syringe aspirations should also be performed before and during each supplemental
 An intravascular injection is still possible even if aspirations for blood are negative.
 
 During the administration of epidural anesthesia, it is recommended that a test dose be administered initially and the effects monitored before the full dose is given.
-When using a “continuous” catheter technique, test doses should be given prior to both the original and all reinforcing doses, because plastic tubing in the epidural space can migrate into a blood vessel or through the dura.
+When using a "continuous" catheter technique, test doses should be given prior to both the original and all reinforcing doses, because plastic tubing in the epidural space can migrate into a blood vessel or through the dura.
 When clinical conditions permit, the test dose should contain epinephrine (10 mcg to 15 mcg has been suggested) to serve as a warning of unintended intravascular injection.
-If injected into a blood vessel, this amount of epinephrine is likely to produce a transient “epinephrine response” within 45 seconds, consisting of an increase in heart rate and/or systolic blood pressure, circumoral pallor, palpitations, and nervousness in the unsedated patient.
+If injected into a blood vessel, this amount of epinephrine is likely to produce a transient "epinephrine response" within 45 seconds, consisting of an increase in heart rate and/or systolic blood pressure, circumoral pallor, palpitations, and nervousness in the unsedated patient.
 The sedated patient may exhibit only a pulse rate increase of 20 or more beats per minute for 15 or more seconds.
 Therefore, following the test dose, the heart rate should be monitored for a heart rate increase.
 Patients on beta-blockers may not manifest changes in heart rate, but blood pressure monitoring can detect a transient rise in systolic blood pressure.
@@ -62,7 +62,7 @@ Tolerance to elevated blood levels varies with the status of the patient.
 Debilitated, elderly patients and acutely ill patients should be given reduced doses commensurate with their age and physical status.
 Local anesthetics should also be used with caution in patients with hypotension or heartblock.
 
-Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient’s state of consciousness should be performed after each local anesthetic injection.
+Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient's state of consciousness should be performed after each local anesthetic injection.
 It should be kept in mind at such times that restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, depression, or drowsiness may be early warning signs of central nervous system toxicity.
 
 Local anesthetic solutions containing a vasoconstrictor should be used cautiously and in carefully restricted quantities in areas of the body supplied by end arteries or having otherwise compromised blood supply such as digits, nose, external ear, or penis.
@@ -145,11 +145,11 @@ Adverse reactions in the parturient, fetus, and neonate involve alterations of t
 
 Maternal hypotension has resulted from regional anesthesia.
 Local anesthetics produce vasodilation by blocking sympathetic nerves.
-Elevating the patient’s legs and positioning her on her left side will help prevent decreases in blood pressure.
+Elevating the patient's legs and positioning her on her left side will help prevent decreases in blood pressure.
 The fetal heart rate also should be monitored continuously and electronic fetal monitoring is highly advisable.
 
 Epidural, caudal, or pudendal anesthesia may alter the forces of parturition through changes in uterine contractility or maternal expulsive efforts.
-Epidural anesthesia has been reported to prolong the second stage of labor by removing the parturient’s reflex urge to bear down or by interfering with motor function.
+Epidural anesthesia has been reported to prolong the second stage of labor by removing the parturient's reflex urge to bear down or by interfering with motor function.
 The use of obstetrical anesthesia may increase the need for forceps assistance.
 
 The use of some local anesthetic drug products during labor and delivery may be followed by diminished muscle strength and tone for the first day or two of life.
