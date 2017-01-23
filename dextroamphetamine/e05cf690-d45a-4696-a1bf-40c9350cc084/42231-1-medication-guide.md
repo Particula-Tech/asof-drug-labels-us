@@ -95,6 +95,17 @@ Other serious side effects include:
 - slowing of growth (height and weight) in children
 - seizures, mainly in patients with a history of seizures
 - eyesight changes or blurred vision
+- Serotonin syndrome.
+  A potentially life-threatening problem called serotonin syndrome can happen when medicines such as dextroamphetamine sulfate tablets are taken with certain other medicines.
+  Symptoms of serotonin syndrome may include:
+  - agitation, hallucinations, coma or other changes in mental status
+  - problems controlling your movements or muscle twitching
+  - fast heartbeat
+  - high or low blood pressure
+  - sweating or fever
+  - nausea or vomiting
+  - diarrhea
+  - muscle stiffness or tightness
 
 Common side effects include:
 
@@ -144,10 +155,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-© 2014 Mallinckrodt.
+© 2016 Mallinckrodt.
 
 Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Rev 11/2014
+Rev 09/2016
 
 Mallinckrodt™ Pharmaceutical
