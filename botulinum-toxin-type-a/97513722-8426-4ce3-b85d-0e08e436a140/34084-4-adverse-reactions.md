@@ -17,7 +17,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Cervical Dystonia
 
-The data described below reflect exposure to DYSPORT® in 357 cervical dystonia patients in 6 studies.
+The data described below reflect exposure to DYSPORT® in 446 cervical dystonia patients in 7 studies.
 Of these, two studies were randomized, double-blind, single treatment, placebo-controlled studies with subsequent optional open-label treatment in which dose optimization (250 to 1000 Units per treatment) over the course of 5 treatment cycles was allowed.
 
 The population was almost entirely Caucasian (99%) with a median age of 51 years (range 18–82 years).
@@ -104,7 +104,7 @@ Glabellar Lines
 
 In placebo-controlled clinical trials of DYSPORT®, the most common adverse reactions (≥2%) following injection of DYSPORT® were nasopharyngitis, headache, injection site pain, injection site reaction, upper respiratory tract infection, eyelid edema, eyelid ptosis, sinusitis, nausea, and blood present in urine.
 
-Table 6 reflects exposure to DYSPORT® in 398 patients 19 to 75 years of age who were evaluated in the randomized, placebo-controlled clinical studies that assessed the use of DYSPORT® for the temporary improvement in the appearance of glabellar lines [see Clinical Studies (14)].
+Table 6 reflects exposure to DYSPORT® in 398 patients 19 to 75 years of age who were evaluated in the randomized, placebo-controlled clinical studies that assessed the use of DYSPORT for the temporary improvement in the appearance of glabellar lines [see Clinical Studies (14)].
 Adverse reactions of any cause occurred in 48% of the DYSPORT®-treated patients and 33% of the placebo-treated patients.
 
 Table 6: Most Common Adverse Reactions with > 1% Incidence in Pooled, Placebo-Controlled Trials for Glabellar Lines
@@ -199,7 +199,7 @@ Table 8: Adverse Reactions Observed in ≥ 4% of Patients Treated in the Double-
 | (N=79) % | (N=43) % | (N=50) % | (N=37) % | (N=30) % |  |
 | --- | --- | --- | --- | --- | --- |
 | Adverse Reactions |  | Unilateral |  | Bilateral |  |
-| Placebo | Dysport® 10 units/kg | Dysport® 15 units/kg | Dysport® 20 units/kg | Dysport® 30 units/kg |  |
+| Placebo | Dysport 10 units/kg | Dysport 15 units/kg | Dysport 20 units/kg | Dysport 30 units/kg |  |
 | Infections and infestations |  |  |  |  |  |
 | Nasopharyngitis | 5 | 9 | 12 | 16 | 10 |
 | Upper respiratory tract infection | 13 | 9 | 20 | 5 | 10 |

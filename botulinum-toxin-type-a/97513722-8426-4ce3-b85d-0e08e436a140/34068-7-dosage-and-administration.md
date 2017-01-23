@@ -4,6 +4,7 @@
 
 The potency Units of DYSPORT® are specific to the preparation and assay method utilized.
 They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of DYSPORT® cannot be compared to or converted into units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
+
 Reconstituted DYSPORT® is intended for intramuscular injection only.
 
 Reconstitution instructions are specific for each of the 300 Unit vial and the 500 Unit vial.
@@ -14,6 +15,7 @@ Table 1: Dilution Instructions for DYSPORT® Vials (500 Units and 300 Units)
 | DiluentPreservative-free 0.9% Sodium Chloride Injection, USP Only per 500 Unit Vial | Resulting Dose Units per 0.1 mL | Diluent per 300 Unit Vial | Resulting Dose Units per 0.1 mL |
 | --- | --- | --- | --- |
 | 1 mL | 50 Units | 0.6 mL | 50 Units |
+| 2 mL | 25 Units | -- | -- |
 | 2.5 mL | 20 Units | 1.5 mL | 20 Units |
 | -- | -- | 2.5 mL | 12 Units |
 | 5 mLWhen using 5 mL of diluent for a 500 Unit vial of DYSPORT®, complete the following steps (see also 2.4 Dosing in Upper Limb Spasticity). Reconstitute a 500 Unit vial of DYSPORT® with 2.5 mL of Preservative-free 0.9% Sodium Chloride Injection, USP, gently mix, and set the vial aside.Withdraw 2.5 mL of Preservative-free 0.9% Sodium Chloride Injection, USP, into a 5 mL syringe.Take the 5 mL syringe with 2.5 mL Preservative-free 0.9% Sodium Chloride Injection, USP, and draw up the DYSPORT® solution from the reconstituted vial without inverting and mix gently. The resulting concentration will be 10 units/0.1 mL.Use immediately after reconstitution in the syringe. Dispose of any unused saline. | 10 Units | 3 mL | 10 Units |
@@ -54,10 +56,10 @@ Instructions for Preparation and Administration for the Treatment of Cervical Dy
 
 DYSPORT® is supplied as a single-use vial.
 Only use sterile preservative-free 0.9% Sodium Chloride Injection, USP for reconstitution of DYSPORT®.
-Each 500 Unit vial of DYSPORT® is to be reconstituted with 1 mL of preservative-free 0.9% Sodium Chloride Injection USP to yield a solution of 50 Units per 0.1 mL.
+Each 500 Unit vial of DYSPORT® is to be reconstituted with 1 mL of preservative-free 0.9% Sodium Chloride Injection USP to yield a solution of 50 Units per 0.1 mL or reconstituted with 2 mL of preservative-free 0.9% Sodium Chloride Injection USP to yield a solution of 25 Units per 0.1 mL.
 Each 300 Unit vial of DYSPORT® is to be reconstituted with 0.6 mL of preservative-free 0.9% Sodium Chloride Injection USP to yield a solution equivalent to 50 Units per 0.1 mL.
 
-Using an appropriately sized sterile syringe, needle and aseptic technique, draw up 1 mL or 0.6 mL of sterile, preservative-free 0.9% Sodium Chloride Injection USP for 500 Unit and 300 Unit vials, respectively.
+Using an appropriately sized sterile syringe, needle and aseptic technique, draw up 2 mL or 1 mL of sterile, preservative- free 0.9% Sodium Chloride Injection USP for the 500 Unit vial or 0.6 mL of sterile, preservative-free 0.9% Sodium Chloride Injection USP for the 300 Unit vial.
 Insert the needle into the DYSPORT® vial.
 The partial vacuum will begin to pull the saline into the vial.
 Any remaining required saline should be expressed into the vial manually.
@@ -118,7 +120,7 @@ Glabellar facial lines arise from the activity of the lateral corrugator and ver
 These can be readily identified by palpating the tensed muscle mass while having the patient frown.
 The corrugator depresses the skin creating a "furrowed" vertical line surrounded by tensed muscle (i.e., frown lines).
 The location, size, and use of the muscles vary markedly among individuals.
-Physicians administering DYSPORT® must understand the relevant neuromuscular and/or orbital anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures.
+Physicians administering DYSPORT must understand the relevant neuromuscular and/or orbital anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures.
 
 Risk of ptosis can be mitigated by careful examination of the upper lid for separation or weakness of the levator palpebrae muscle (true ptosis), identification of lash ptosis, and evaluation of the range of lid excursion while manually depressing the frontalis to assess compensation.
 
@@ -170,14 +172,13 @@ Clinical improvement may be expected one week after administration of DYSPORT®.
 
 Treatment of Upper Limb Spasticity in Pediatric Patients
 
-The safety and effectiveness of DYSPORT® in the treatment of upper limb spasticity in pediatric patients less than 18 years of age has not been demonstrated.
-[see Warnings and Precautions (5.2)]
+The safety and effectiveness of DYSPORT® in the treatment of upper limb spasticity in pediatric patients less than 18 years of age has not been demonstrated [see Warnings and Precautions (5.2)].
 
 Instructions for Preparation and Administration for the Treatment of Upper Limb Spasticity in Adults
 
 DYSPORT® is supplied as a single-use vial.
-Only use sterile preservative-free 0.9% Sodium Chloride Injection, USP for reconstitution of DYSPORT®.
-The recommended concentration is 100 Units/mL or 200 Units/mL with preservative-free 0.9% Sodium Chloride Injection USP) (see Table 1).
+Only use sterile preservative-free 0.9% Sodium Chloride Injection, USP for reconstitution of DYSPORT.
+The recommended concentration is 100 Units/mL or 200 Units/mL with preservative-free 0.9% Sodium Chloride Injection USP (see Table 1).
 
 Using an appropriately sized sterile syringe, needle and aseptic technique, draw up the required volume (Table 1) of preservative-free 0.9% Sodium Chloride Injection USP.
 

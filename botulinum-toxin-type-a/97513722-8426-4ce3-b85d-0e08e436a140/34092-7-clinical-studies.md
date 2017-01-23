@@ -162,14 +162,22 @@ Table 15: DYSPORT® Dose Injected and Number of Injections per Muscle in Adult P
 
 | Muscle | DYSPORT® Treatment Group | Number of Patients | Mean DYSPORT® Units Injected (Min, Max) | Number Of Injection Sites Median, [Q1; Q3] |
 | --- | --- | --- | --- | --- |
-| Flexor digitorum profundus (FDP)PTMG | 500 U 1000 U | 54 65 | 93.5 Units (50 to 100) 195.5 Units (100 to 300) | 1, [1; 2] 2, [1; 2] |
-| Flexor digitorum superficialis (FDS) | 500 U 1000 U | 63 73 | 95.4 Units (50 to 100) 196.8 Units (100 to 300) | 2, [1; 2] 2, [1; 2] |
-| Flexor carpi radialis (FCR) | 500 U 1000 U | 57 57 | 92.2 Units (25 to 100) 178.1 Units (80 to 300) | 1, [1; 2] 1, [1; 2] |
-| Flexor carpi ulnaris (FCU) | 500 U 1000 U | 47 49 | 89.9 Units (25 to 180) 171.2 Units (80 to 200) | 1, [1; 2] 1, [1; 2] |
-| Brachialis | 500 U 1000 U | 60 43 | 148.5 Units (50 to 200) 321.4 Units (100 to 400) | 2, [1; 2] 2, [2; 2] |
-| Brachioradialis | 500 U 1000 U | 42 28 | 88.3 Units (50 to 200) 172.1 Units (50 to 200) | 1, [1; 2] 1, [1; 2] |
-| Biceps Brachii (BB) | 500 U 1000 U | 28 19 | 106.4 Units (50 to 200) 207.4 Units (100 to 400) | 2, [1; 2] 2, [1; 2] |
-| Pronator Teres | 500 U 1000 U | 14 30 | 81.8 Units (45 to 200) 157.3 Units (80 to 200) | 1, [1; 1] 1, [1; 1] |
+| Flexor digitorum profundus (FDP)PTMG | 500 U | 54 | 93.5 Units (50 to 100) | 1, [1; 2] |
+| 1000 U | 65 | 195.5 Units (100 to 300) | 2, [1; 2] |  |
+| Flexor digitorum superficialis (FDS) | 500 U | 63 | 95.4 Units (50 to 100) | 2, [1; 2] |
+| 1000 U | 73 | 196.8 Units (100 to 300) | 2, [1; 2] |  |
+| Flexor carpi radialis (FCR) | 500 U | 57 | 92.2 Units (25 to 100) | 1, [1; 2] |
+| 1000 U | 57 | 178.1 Units (80 to 300) | 1, [1; 2] |  |
+| Flexor carpi ulnaris (FCU) | 500 U | 47 | 89.9 Units (25 to 180) | 1, [1; 2] |
+| 1000 U | 49 | 171.2 Units (80 to 200) | 1, [1; 2] |  |
+| Brachialis | 500 U | 60 | 148.5 Units (50 to 200) | 2, [1; 2] |
+| 1000 U | 43 | 321.4 Units (100 to 400) | 2, [2; 2] |  |
+| Brachioradialis | 500 U | 42 | 88.3 Units (50 to 200) | 1, [1; 2] |
+| 1000 U | 28 | 172.1 Units (50 to 200) | 1, [1; 2] |  |
+| Biceps Brachii (BB) | 500 U | 28 | 106.4 Units (50 to 200) | 2, [1; 2] |
+| 1000 U | 19 | 207.4 Units (100 to 400) | 2, [1; 2] |  |
+| Pronator Teres | 500 U | 14 | 81.8 Units (45 to 200) | 1, [1; 1] |
+| 1000 U | 30 | 157.3 Units (80 to 200) | 1, [1; 1] |  |
 
 The co-primary efficacy variables were muscle tone assessed by the MAS at the primary targeted muscle group at week 4 and the Physician Global Assessment (PGA) at week 4 (Table 16).
 

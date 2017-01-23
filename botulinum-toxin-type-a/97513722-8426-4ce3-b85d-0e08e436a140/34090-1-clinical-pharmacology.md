@@ -5,6 +5,7 @@
 DYSPORT® inhibits release of the neurotransmitter, acetylcholine, from peripheral cholinergic nerve endings.
 Toxin activity occurs in the following sequence: Toxin heavy chain mediated binding to specific surface receptors on nerve endings, internalization of the toxin by receptor mediated endocytosis, pH-induced translocation of the toxin light chain to the cell cytosol and cleavage of SNAP25 leading to intracellular blockage of neurotransmitter exocytosis into the neuromuscular junction.
 This accounts for the therapeutic utility of the toxin in diseases characterized by excessive efferent activity in motor nerves.
+
 Recovery of transmission occurs gradually as the neuromuscular junction recovers from SNAP25 cleavage and as new nerve endings are formed.
 
 ## 12.2 Pharmacodynamics
