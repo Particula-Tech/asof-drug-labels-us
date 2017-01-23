@@ -54,12 +54,12 @@ Patients should be advised to call their doctor if they experience any of the fo
 
 ## 17.9 Potential for Cognitive and Motor Impairment
 
-Because ZYPREXA has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that ZYPREXA therapy does not affect them adversely [see Warnings and Precautions (5.11)].
+Because ZYPREXA has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that ZYPREXA therapy does not affect them adversely [see Warnings and Precautions (5.12)].
 
 ## 17.10 Body Temperature Regulation
 
 Patients should be advised regarding appropriate care in avoiding overheating and dehydration.
-Patients should be advised to call their doctor right away if they become severely ill and have some or all of these symptoms of dehydration: sweating too much or not at all, dry mouth, feeling very hot, feeling thirsty, not able to produce urine [see Warnings and Precautions (5.12)].
+Patients should be advised to call their doctor right away if they become severely ill and have some or all of these symptoms of dehydration: sweating too much or not at all, dry mouth, feeling very hot, feeling thirsty, not able to produce urine [see Warnings and Precautions (5.13)].
 
 ## 17.11 Concomitant Medication
 
@@ -95,11 +95,11 @@ Atypical antipsychotics are not intended for use in the pediatric patient who ex
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 The decision to prescribe atypical antipsychotic medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms [see Indications and Usage (1.3)].
 
-Literature revised October 26, 2016
+Literature revised January 23, 2017
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 1997, 2016, Eli Lilly and Company.
+Copyright © 1997, 2017, Eli Lilly and Company.
 All rights reserved.
 
-ZYP-0004-USPI-20161026
+ZYP-0005-USPI-20170123

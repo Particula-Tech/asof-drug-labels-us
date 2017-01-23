@@ -142,7 +142,7 @@ Dose Dependency of Adverse Reactions
 A dose group difference has been observed for fatigue, dizziness, weight gain and prolactin elevation.
 In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of fatigue (10 mg/day: 1.5%; 20 mg/day: 2.1%; 40 mg/day: 6.6%) was observed with significant differences between 10 vs 40 and 20 vs 40 mg/day.
 The incidence of dizziness (10 mg/day: 2.6%; 20 mg/day: 1.6%; 40 mg/day: 6.6%) was observed with significant differences between 20 vs 40 mg.
-Dose group differences were also noted for weight gain and prolactin elevation [see Warnings and Precautions (5.5, 5.14)].
+Dose group differences were also noted for weight gain and prolactin elevation [see Warnings and Precautions (5.5, 5.15)].
 
 The following table addresses dose relatedness for other adverse reactions using data from a schizophrenia trial involving fixed dosage ranges of oral olanzapine.
 It enumerates the percentage of patients with treatment-emergent adverse reactions for the 3 fixed-dose range groups and placebo.
@@ -454,7 +454,7 @@ From an analysis of the laboratory data in an integrated database of 41 complete
 
 Caution should be exercised in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic drugs.
 
-Olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.14)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
+Olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.15)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
 
 From an analysis of the laboratory data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, elevated uric acid was recorded in ≥3% (171/4641) of patients.
 
