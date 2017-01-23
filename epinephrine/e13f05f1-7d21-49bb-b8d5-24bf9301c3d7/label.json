@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020800"
+  ],
+  "inn": "epinephrine",
+  "labeler": "Impax Generics",
+  "package_ndcs": [
+    "0115-1694-30",
+    "0115-1694-49",
+    "0115-1695-30",
+    "0115-1695-49"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine",
+      "name": "epinephrine"
+    }
+  ],
+  "setid": "e13f05f1-7d21-49bb-b8d5-24bf9301c3d7",
+  "source": "dailymed"
+}
