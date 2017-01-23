@@ -142,7 +142,6 @@ As sodium retention with resultant edema and potassium loss may occur in patient
 
 Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
-Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently.
 
 Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients.
 Changes in thyroid status of the patient may necessitate adjustment in dosage.
@@ -282,7 +281,10 @@ Routine administration of vaccines or toxoids should be deferred until corticost
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No adequate studies have been conducted in animals to determine whether corticosteroids have a potential for carcinogenesis or mutagenesis.
+
 Steroids may increase or decrease motility and number of spermatozoa in some patients.
+
+Corticosteroids have been shown to impair fertility in male rats.
 
 ## Pregnancy
 
