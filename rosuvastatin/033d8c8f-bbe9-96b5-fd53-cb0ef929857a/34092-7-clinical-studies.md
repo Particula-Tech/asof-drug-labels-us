@@ -24,7 +24,7 @@ Rosuvastatin reduced non HDL-C (primary end point) and circulating remnant lipop
 Results are shown in the table below.
 
 Table 10.
-Lipid-modifying Effects of Rosuvastatin 10 mg and 20 mg in Primary Dysbetalipoproteinemia (Type III Hyperlipo-proteinemia) After Six weeks by Median Percent Change (95% CI) From Baseline (N=32)
+Lipid-modifying Effects of Rosuvastatin 10 mg and 20 mg in Primary Dysbetalipoproteinemia (Type III Hyperlipoproteinemia) After Six weeks by Median Percent Change (95% CI) From Baseline (N=32)
 
 |  | Median at Baseline (mg/dL) | Median percent change from baseline (95 % CI) Rosuvastatin 10 mg | Median percent change from baseline (95% CI) Rosuvastatin 20 mg |
 | --- | --- | --- | --- |
@@ -40,7 +40,7 @@ Lipid-modifying Effects of Rosuvastatin 10 mg and 20 mg in Primary Dysbetalipopr
 ## 14.5 Homozygous Familial Hypercholesterolemia
 
 Dose-Titration Study: In an open-label, forced-titration study, homozygous FH patients (n=40, 8-63 years) were evaluated for their response to rosuvastatin calcium 20 to 40 mg titrated at a 6-week interval.
-In the overall population, the mean LDL-C reduction from baseline was 22%.About one third of the patients benefited from increasing their dose from 20 mg to 40 mg with further LDL lowering of greater than 6%.
+In the overall population, the mean LDL-C reduction from baseline was 22%.About one-third of the patients benefited from increasing their dose from 20 mg to 40 mg with further LDL lowering of greater than 6%.
 In the 27 patients with at least a 15% reduction in LDL-C, the mean LDL-C reduction was 30% (median 28% reduction).
 Among 13 patients with an LDL-C reduction of <15%, 3 had no change or an increase in LDL-C.
 Reductions in LDL-C of 15% or greater were observed in 3 of 5 patients with known receptor negative status.

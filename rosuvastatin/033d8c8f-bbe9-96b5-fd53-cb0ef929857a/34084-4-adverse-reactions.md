@@ -14,7 +14,7 @@ The most common adverse reactions that led to treatment discontinuation were:
 
 - myalgia
 - abdominal pain
-- nause
+- nausea
 
 The most commonly reported adverse reactions (incidence ≥2%) in the rosuvastatin calcium controlled clinical trial database of 5394 patients were:
 

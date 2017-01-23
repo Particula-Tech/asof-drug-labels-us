@@ -141,7 +141,7 @@ What are the Ingredients in rosuvastatin calcium tablets?
 
 Active Ingredient: rosuvastatin as rosuvastatin calcium
 
-Inactive Ingredientsin 5 mg, 10 mg, 20 mg and 40 mgtablets: crospovidone, dibasic calcium phosphate dihydrate, FD&C Blue No. 2, FD&C Red No. 40, FD&C Yellow No. 6, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, titanium dioxide, and triacetin.
+Inactive Ingredientsin 5 mg, 10 mg, 20 mg and 40 mg tablets: crospovidone, dibasic calcium phosphate dihydrate, FD&C Blue No. 2, FD&C Red No. 40, FD&C Yellow No. 6, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, titanium dioxide, and triacetin.
 
 In addition, the rosuvastatin calcium tablets 5 mg also contain FD&C Yellow No. 5.
 
@@ -160,11 +160,10 @@ Biocon Pharma Inc., 485 US Highway 1 S, Suite B305, Iselin, NJ 08830-3009, USA
 
 Manufactured by:
 
-Kemwell Biopharma Pvt.
-Ltd., 34th KM, Tumkur Road, T.Begur, Nelamangala, Bangalore- 562123, India.
+Recipharm Pharmaservices Private Limited, 34th KM, Tumkur Road, Teppada Begur, Nelamangala Taluk, Bangalore- 562123, India.
 Mfg.
 Lic.
 No. KTK/25/460/2001
 
 Biocon Pharma Inc. Revised.
-September, 2016
+January, 2017

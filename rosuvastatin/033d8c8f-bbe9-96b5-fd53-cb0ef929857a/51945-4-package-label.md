@@ -12,8 +12,7 @@ Rx only
 
 Manufactured for: Biocon Pharma Inc., 485 US Highway 1 S, Suite B305, Iselin, NJ 08830-3009, USA
 
-Manufactured by: Kemwell Biopharma Pvt.
-Ltd., 34th KM, Tumkur Road, T.Begur, Nelamangala, Bangalore- 562123, India.
+Manufactured by: Recipharm Pharmaservices Private Limited, 34th KM, Tumkur Road, Teppada Begur, Nelamangala Taluk, Bangalore- 562123, India.
 
 Mfg.
 Lic.
@@ -33,8 +32,7 @@ Rx only
 
 Manufactured for: Biocon Pharma Inc, 485 US Highway 1 S, Suite B305, Iselin, NJ 08830-3009, USA.
 
-Manufactured by: Kemwell Biopharma Pvt.
-Ltd., 34th KM, Tumkur Road, T.Begur, Nelamangala, Bangalore- 562123, India.
+Manufactured by: Recipharm Pharmaservices Private Limited, 34th KM, Tumkur Road, Teppada Begur, Nelamangala Taluk, Bangalore- 562123, India.
 Mfg.
 Lic.
 No. KTK/25/460/2001
@@ -51,8 +49,7 @@ Rosuvastatin Calcium tablets
 
 Manufactured for: Biocon Pharma Inc., 485 US Highway 1 S, Suite B305, Iselin, NJ 08830-3009, USA.
 
-Manufactured by: Kemwell Biopharma Pvt.
-Ltd., 34th KM, Tumkur Road, T.Begur, Nelamangala Bangalore- 562123, India.
+Manufactured by: Recipharm Pharmaservices Private Limited, 34th KM, Tumkur Road, Teppada Begur, Nelamangala Taluk, Bangalore- 562123, India.
 Mfg.
 Lic.
 No. KTK/25/460/2001
@@ -69,8 +66,7 @@ Rosuvastatin Calcium tablets
 
 Manufactured for: Biocon Pharma Inc., 485 US Highway 1 S, Suite B305, Iselin, NJ 08830-3009, USA
 
-Manufactured by: Kemwell Biopharma Pvt.
-Ltd., 34th KM, Tumkur Road, T.Begur, Nelamangala, Bangalore- 562123, India.
+Manufactured by: Recipharm Pharmaservices Private Limited, 34th KM, Tumkur Road, Teppada Begur, Nelamangala Taluk, Bangalore- 562123, India.
 Mfg.
 Lic.
 No. KTK/25/460/2001

@@ -15,7 +15,7 @@ When taking rosuvastatin calcium with an aluminum and magnesium hydroxide combin
 Embryofetal Toxicity
 
 Advise females of reproductive potential of the risk to a fetus, to use effective contraception during treatment, and to inform their healthcare provider of a known or suspected pregnancy.
-[see Contraindications (4) and Use in specific populations (8.1,8.3)].
+[see Contraindications (4) and Use in specific populations(8.1,8.3)].
 
 Lactation
 
@@ -28,8 +28,7 @@ All patients treated with rosuvastatin calcium should be advised to promptly rep
 
 Manufactured for: Biocon Pharma Inc., 485 US Highway 1 S, Suite B305, Iselin, NJ 08830-3009, USA
 
-Manufactured by: Kemwell Biopharma Pvt.
-Ltd, 34th KM, Tumkur Road, T.Begur, Nelamangala, Bangalore – 562123, India.
+Manufactured by: Recipharm Pharmaservices Private Limited, 34th KM, Tumkur Road, Teppada Begur, Nelamangala Taluk, Bangalore – 562123, India.
 Mfg.
 Lic.
 No. KTK/25/460/2001
