@@ -33,7 +33,7 @@ If parenteral benzodiazepines are required for patient management during an even
 Increased Mortality
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-ZYPREXA RELPREVV is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.15), and Patient Counseling Information (17.3)].
+ZYPREXA RELPREVV is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.16), and Patient Counseling Information (17.3)].
 
 In placebo-controlled oral olanzapine clinical trials of elderly patients with dementia-related psychosis, the incidence of death in olanzapine-treated patients was significantly greater than placebo-treated patients (3.5% vs 1.5%, respectively).
 
@@ -321,7 +321,12 @@ For patients in this population who have never taken oral olanzapine, tolerabili
 
 Caution is necessary in patients who receive treatment with other drugs having effects that can induce hypotension, bradycardia, respiratory or central nervous system depression [see Drug Interactions (7)].
 
-## 5.10 Leukopenia, Neutropenia, and Agranulocytosis
+## 5.10 Falls
+
+ZYPREXA RELPREVV may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## 5.11 Leukopenia, Neutropenia, and Agranulocytosis
 
 Class Effect — In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including ZYPREXA.
 Agranulocytosis has also been reported.
@@ -332,13 +337,13 @@ Patients with a history of a clinically significant low WBC or drug induced leuk
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue ZYPREXA RELPREVV and have their WBC followed until recovery.
 
-## 5.11 Dysphagia
+## 5.12 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's disease.
 Olanzapine is not approved for the treatment of patients with Alzheimer's disease.
 
-## 5.12 Seizures
+## 5.13 Seizures
 
 During premarketing testing of ZYPREXA RELPREVV, seizures occurred in 0.15% of patients.
 During premarketing testing of oral olanzapine, seizures occurred in 0.9% of olanzapine-treated patients.
@@ -348,7 +353,7 @@ Olanzapine should be used cautiously in patients with a history of seizures or w
 Olanzapine is not approved for the treatment of patients with Alzheimer's disease.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
-## 5.13 Potential for Cognitive and Motor Impairment
+## 5.14 Potential for Cognitive and Motor Impairment
 
 Sedation was a commonly reported adverse reaction associated with ZYPREXA RELPREVV treatment, occurring at an incidence of 8% in ZYPREXA RELPREVV patients compared to 2% in placebo patients.
 Somnolence and sedation adverse reactions led to discontinuation in 0.6% of patients in the premarketing ZYPREXA RELPREVV database.
@@ -356,12 +361,12 @@ Somnolence and sedation adverse reactions led to discontinuation in 0.6% of pati
 Since olanzapine has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that olanzapine therapy does not affect them adversely.
 However, due to the risk of post-injection delirium/sedation syndrome after each injection, patients should not drive or operate heavy machinery for the remainder of the day of each injection [see Dosage and Administration (2.1), Warnings and Precautions (5.1), and Patient Counseling Information (17.10)].
 
-## 5.14 Body Temperature Regulation
+## 5.15 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing ZYPREXA RELPREVV for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration [see Patient Counseling Information (17.11)].
 
-## 5.15 Use in Patients with Concomitant Illness
+## 5.16 Use in Patients with Concomitant Illness
 
 Experience with ZYPREXA RELPREVV in patients with concomitant systemic illnesses is limited [see Clinical Pharmacology (12.3)].
 
@@ -378,7 +383,7 @@ Olanzapine has not been evaluated or used to any appreciable extent in patients 
 Patients with these diagnoses were excluded from premarketing clinical studies.
 Because of the risk of orthostatic hypotension with olanzapine, caution should be observed in cardiac patients [see Warnings and Precautions (5.9)].
 
-## 5.16 Hyperprolactinemia
+## 5.17 Hyperprolactinemia
 
 As with other drugs that antagonize dopamine D2 receptors, olanzapine elevates prolactin levels, and the elevation persists during chronic administration.
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
@@ -404,6 +409,6 @@ Dose group differences with respect to prolactin elevation have been observed in
 In a 24-week randomized, double-blind, fixed-dose study with ZYPREXA RELPREVV, statistically significant differences among dose groups were observed for prolactin levels, with a mean baseline-to-endpoint increase observed in the highest dose group (300 mg/2 weeks, n=115: 3.57 ng/mL) relative to mean decreases in the lower dose groups (150 mg/2 weeks, n=109: –5.61 ng/mL; 405 mg/4 weeks, n=259: –2.76 ng/mL).
 In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of prolactin elevation >24.2 ng/mL (female) or >18.77 ng/mL (male) at any time during the trial (10 mg/day: 31.2%; 20 mg/day: 42.7%; 40 mg/day: 61.1%) indicated significant differences between 10 vs 40 mg/day and 20 vs 40 mg/day.
 
-## 5.17 Laboratory Tests
+## 5.18 Laboratory Tests
 
 Fasting blood glucose testing and lipid profile at the beginning of, and periodically during, treatment is recommended [see Warnings and Precautions (5.7) and Patient Counseling Information (17.6, 17.7)].

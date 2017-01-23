@@ -61,12 +61,12 @@ Patients should be advised to call their doctor if they experience any of the fo
 ## 17.10 Potential for Cognitive and Motor Impairment
 
 Because ZYPREXA RELPREVV has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that ZYPREXA RELPREVV therapy does not affect them adversely.
-Additionally, due to the risk of post-injection delirium/sedation syndrome, patients should not drive or operate heavy machinery for the remainder of the day of each injection [see Dosage and Administration (2.1) and Warnings and Precautions (5.1, 5.13)].
+Additionally, due to the risk of post-injection delirium/sedation syndrome, patients should not drive or operate heavy machinery for the remainder of the day of each injection [see Dosage and Administration (2.1) and Warnings and Precautions (5.1, 5.14)].
 
 ## 17.11 Body Temperature Regulation
 
 Patients should be advised regarding appropriate care in avoiding overheating and dehydration.
-Patients should be advised to call their doctor right away if they become severely ill and have some or all of these symptoms of dehydration: sweating too much or not at all, dry mouth, feeling very hot, feeling thirsty, not able to produce urine [see Warnings and Precautions (5.14)].
+Patients should be advised to call their doctor right away if they become severely ill and have some or all of these symptoms of dehydration: sweating too much or not at all, dry mouth, feeling very hot, feeling thirsty, not able to produce urine [see Warnings and Precautions (5.15)].
 
 ## 17.12 Concomitant Medication
 
@@ -85,11 +85,11 @@ Nursing Mothers — Patients should be advised not to breast-feed an infant if t
 
 Pediatric Use — Safety and effectiveness of ZYPREXA RELPREVV in patients under 18 years have not been established [see Use in Specific Populations (8.4)].
 
-Literature revised October 26, 2016
+Literature revised January 23, 2017
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 2009, 2016, Eli Lilly and Company.
+Copyright © 2009, 2017, Eli Lilly and Company.
 All rights reserved.
 
-ZYPR-0005-USPI-20161026
+ZYPR-0006-USPI-20170123

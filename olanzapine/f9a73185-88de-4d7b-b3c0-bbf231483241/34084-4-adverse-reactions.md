@@ -100,12 +100,12 @@ Table 9: Treatment-Emergent Adverse Reactions: Incidence in a Short-Term, Placeb
 
 Dose Dependency of Adverse Reactions
 
-Dose group differences have been observed for weight, fasting triglycerides and prolactin elevation for ZYPREXA RELPREVV [see Warnings and Precautions (5.7, 5.16)].
+Dose group differences have been observed for weight, fasting triglycerides and prolactin elevation for ZYPREXA RELPREVV [see Warnings and Precautions (5.7, 5.17)].
 
 A dose group difference for oral olanzapine has been observed for fatigue, dizziness, weight gain and prolactin elevation.
 In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of fatigue (10 mg/day: 1.5%; 20 mg/day: 2.1%; 40 mg/day: 6.6%) was observed with significant differences between 10 vs 40 and 20 vs 40 mg/day.
 The incidence of dizziness (10 mg/day: 2.6%; 20 mg/day: 1.6%; 40 mg/day: 6.6%) was observed with significant differences between 20 vs 40 mg.
-Dose group differences were also noted for weight gain and prolactin elevation [see Warnings and Precautions (5.7, 5.16)].
+Dose group differences were also noted for weight gain and prolactin elevation [see Warnings and Precautions (5.7, 5.17)].
 
 ## 6.2 Extrapyramidal Symptoms
 
@@ -219,12 +219,12 @@ No patient with elevated ALT values experienced jaundice, liver failure, or met 
 
 Caution should be exercised in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic drugs.
 
-Oral olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.16)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
+Oral olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.17)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
 
 ECG Changes — Comparison of ZYPREXA RELPREVV and oral olanzapine, in a 24 week study, revealed no significant differences on ECG changes.
 Between-group comparisons for pooled placebo-controlled trials revealed no significant oral olanzapine/placebo differences in the proportions of patients experiencing potentially important changes in ECG parameters, including QT, QTc, and PR intervals.
 Oral olanzapine use was associated with a mean increase in heart rate of 2.4 beats per minute compared to no change among placebo patients.
-This slight tendency to tachycardia may be related to olanzapine's potential for inducing orthostatic changes [see Warnings and Precautions (5.10)].
+This slight tendency to tachycardia may be related to olanzapine's potential for inducing orthostatic changes [see Warnings and Precautions (5.11)].
 
 ## 6.4 Postmarketing Experience
 
