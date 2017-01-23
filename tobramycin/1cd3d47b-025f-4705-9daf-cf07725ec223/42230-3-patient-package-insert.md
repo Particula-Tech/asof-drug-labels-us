@@ -49,7 +49,7 @@ Taking BETHKIS with certain other medicines can cause serious side effects.
 If you are taking BETHKIS, you should discuss with your healthcare provider if you should take:
 
 - other medicines that may harm your nervous system, kidneys, or hearing
-- “water pills” (diuretics) such as Edecrin (ethacrynic acid), Lasix (furosemide), or mannitol
+- “water pills” (diuretics) such as Edecrin (ethacrynic acid), Lasix (furosemide), or intravenous mannitol
 - urea
 
 Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
@@ -256,6 +256,6 @@ Manufactured for Chiesi USA, Inc. by Catalent Pharma Solutions, LLC Woodstock, I
 
 All trademarks referenced herein are the property of their prospective owners.
 
-Issued: 12/2014
+Issued: 12/2016
 
-CTB-006-0514-02-SPL
+CTB-006-0416-03-SPL

@@ -49,8 +49,15 @@ Table 1: Patients with Selected Treatment-Emergent Adverse Reactions Occurring i
 
 ## 6.2 Postmarketing Experience
 
-In postmarketing experience, some patients receiving inhaled tobramycin have reported hearing loss.
-Some of these reports occurred in patients with previous or concomitant treatment with systemic aminoglycosides.
-Patients with hearing loss frequently reported tinnitus (see WARNINGS AND PRECAUTIONS, Ototoxicity (5.1)).
-
+The following adverse reactions have been identified during postapproval use of tobramycin inhalation solution.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Ear and labyrinth disorders: Hearing loss, Tinnitus (see WARNINGS AND PRECAUTIONS, Ototoxicity (5.1))
+
+Skin and subcutaneous tissue disorders: Hypersensitivity, pruritus, urticaria, rash
+
+Nervous system disorders: Aphonia, dysgeusia
+
+Respiratory, thoracic, and mediastinal disorders: Bronchospasm (see WARNINGS AND PRECAUTIONS, Bronchospasm(5.4)), oropharyngeal pain
+
+Metabolism and Nutrition Disorders: Decreased appetite

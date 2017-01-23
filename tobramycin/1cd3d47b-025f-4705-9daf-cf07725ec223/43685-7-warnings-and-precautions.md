@@ -32,7 +32,7 @@ BETHKIS should be used cautiously in patients with muscular disorders, such as m
 
 ## 5.4 Bronchospasm
 
-Bronchospasm can occur with inhalation of tobramycin.
+Bronchospasm has been reported with inhalation of tobramycin.
 In clinical studies with BETHKIS, bronchospasm was observed in one (0.5%) BETHKIS-treated patient and in no placebo-treated patients.
 Wheezing occurred in ten (5%) BETHKIS-treated patients and four (4%) placebo-treated patients.
 Bronchospasm and wheezing should be treated as medically appropriate.
@@ -49,6 +49,10 @@ Physicians should consider an audiogram for patients who show any evidence of au
 In patients with normal renal function treated with BETHKIS, serum tobramycin concentrations range from approximately 0.06-1.89 mcg/mL one hour after dose administration and do not require routine monitoring.
 Serum concentrations of tobramycin in patients with renal dysfunction or patients treated with concomitant parenteral tobramycin should be monitored at the discretion of the treating physician.
 (See 12.3)
+
+The serum concentration of tobramycin should only be monitored through venipuncture and not finger prick blood sampling.
+Contamination of the skin of the fingers with tobramycin may lead to falsely increased measurements of serum levels of the drug.
+This contamination cannot be completely avoided by hand washing before testing.
 
 ### 5.5.3 Renal Function
 

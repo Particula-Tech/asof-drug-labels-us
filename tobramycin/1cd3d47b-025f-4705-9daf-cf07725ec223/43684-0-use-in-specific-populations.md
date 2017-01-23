@@ -26,7 +26,9 @@ The safety and efficacy of BETHKIS have not been studied in pediatric cystic fib
 
 ## 8.5 Geriatric Use
 
-The safety and efficacy of BETHKIS have not been studied in adult cystic fibrosis patients over 31 years of age.
+Clinical studies of BETHKIS did not include patients aged 65 years and over.
+Tobramycin is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function (see WARNINGS AND PRECAUTIONS – Nephrotoxicity (5.2); Serum Concentrations (5.5.2)).
 
 ## 8.6 Renal Impairment
 
