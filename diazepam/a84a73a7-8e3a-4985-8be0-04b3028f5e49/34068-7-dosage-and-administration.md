@@ -45,7 +45,7 @@ The safety of this strategy has been established in clinical trials.
 
 The rectal delivery system includes a plastic applicator with a flexible, molded tip available in two lengths.
 The Diastat® AcuDial™ 10-mg syringe is available with a 4.4 cm tip and the Diastat® AcuDial™ 20 mg syringe is available with a 6.0 cm tip.
-Diastat® 2.5 mg is also available with a 4.4cm tip.
+Diastat® 2.5 mg is also available with a 4.4 cm tip.
 
 In elderly and debilitated patients, it is recommended that the dosage be adjusted downward to reduce the likelihood of ataxia or oversedation.
 

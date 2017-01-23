@@ -1,7 +1,3 @@
-Rx Only
-
-# SUPPLEMENTAL PATIENT MATERIAL
-
 Diastat® C-IV (diazepam rectal gel) Diastat® AcuDial™ C-IV (diazepam rectal gel)
 
 ADMINISTRATION AND DISPOSAL INSTRUCTIONS
@@ -14,20 +10,20 @@ To the caregiver using Diastat®:
 
 Please do not give DIASTAT® until:
 
-1. You have thoroughly read these instructions
-2. Reviewed administration steps with the doctor
-3. Understand the directions
+1. 1.You have thoroughly read these instructions
+2. 2.Reviewed administration steps with the doctor
+3. 3.Understand the directions
 
 To the caregiver using Diastat® AcuDialTM:
 
 Please do not give DIASTAT® AcuDial™ until:
 
-1. You have confirmed:
-   1. Prescribed dose is visible and if known, is correct
-   2. green “ready” band is visible
-2. You have thoroughly read these instructions
-3. Reviewed administration steps with the doctor
-4. Understand the directions
+1. 1.You have confirmed:
+2. 2.Prescribed dose is visible and if known, is correct
+3. 3.green “ready” band is visible
+4. 4.You have thoroughly read these instructions
+5. 5.Reviewed administration steps with the doctor
+6. 6.Understand the directions
 
 Please do not administer DIASTAT until you feel comfortable with how to use DIASTAT.
 The doctor will tell you exactly when to use DIASTAT.
@@ -45,12 +41,12 @@ To help the person with seizures:
 To know what responses to expect:
 
 - •You need to know how soon seizures should stop or decrease in frequency after giving DIASTAT.
-- •You need to know what you should do if the seizures do not stop or there is a change in the person’s breathing, behavior and condition that alarms you.
+- •You need to know what you should do if the seizures do not stop or there is a change in the person’s breathing, behavior or condition that alarms you.
 
-If you have any question or feel unsure about using the treatment, CALL THE DOCTOR before using DIASTAT.
+If you have any questions or feel unsure about using the treatment, CALL THE DOCTOR before using DIASTAT.
 
 When to treat.
-Based on the doctor’s directions and prescription.
+Based on the doctor’s directions or prescription.
 Your doctor may prescribe a second dose of Diazepam rectal gel.
 If a second dose is needed, give it 4 hours to 12 hours after the first dose.
 
@@ -62,9 +58,9 @@ Special considerations.
 
 DIASTAT should be used with caution:
 
-1. In people with respiratory (breathing) difficulties (e.g., asthma or pneumonia)
-2. In the elderly
-3. In women of child bearing potential, pregnancy and nursing mothers
+- •In people with respiratory (breathing) difficulties (e.g., asthma or pneumonia)
+- •In the elderly
+- •In women of child bearing potential, pregnancy and nursing mothers
 
 Discuss beforehand with the doctor any additional steps you may need to take if there is leakage of DIASTAT or a bowel movement.
 
@@ -85,11 +81,11 @@ Things to do after treatment with DIASTAT.
 
 Stay with the person for 4 hours and make notes on the following:
 
-1. Changes in resting breathing rate__________________________
-2. Changes in color ______________________________________
-3. Possible side effects from treatment_______________________
-4. •Your doctor may prescribe a second dose of Diazepam rectal gel.
-   If a second dose is needed, give it 4 hours to 12 hours after the first dose.
+- •Changes in resting breathing rate__________________________
+- •Changes in color ______________________________________
+- •Possible side effects from treatment_______________________
+- •Your doctor may prescribe a second dose of Diazepam rectal gel.
+  If a second dose is needed, give it 4 hours to 12 hours after the first dose.
 
 TREATMENT 2
 
@@ -101,8 +97,23 @@ Things to do after treatment with DIASTAT.
 
 Stay with the person for 4 hours and make notes on the following:
 
-1. Changes in resting breathing rate_________________________
-2. Changes in color ___________________________________
-3. Possible side effects from treatment________________________
+- •Changes in resting breathing rate_________________________
+- •Changes in color ___________________________________
+- •Possible side effects from treatment________________________
 
 HOW TO ADMINISTER AND DISPOSAL
+
+®/™ are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
+
+©Valeant Pharmaceuticals North America LLC
+
+Manufactured for:
+
+Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA By:
+
+DPT Laboratories, Ltd. San Antonio, TX 78215 USA
+
+9435002
+
+Rev.
+12/16
