@@ -96,7 +96,7 @@ Rx only
 
 abbvie
 
-NDC 0032–3016–12
+NDC 0032-3016-12
 
 12 Capsules
 
@@ -110,8 +110,8 @@ Dispense enclosed Medication Guide to each patient.
 
 Rx only
 
-abbvie
-
 PROFESSIONAL SAMPLE
 
 NOT FOR RESALE
+
+abbvie
