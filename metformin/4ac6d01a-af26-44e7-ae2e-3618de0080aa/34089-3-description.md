@@ -8,6 +8,7 @@ Metformin hydrochloride is a white to off-white crystalline compound with a mole
 Metformin hydrochloride is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
 The pKa of metformin is 12.4.
 The pH of a 1% aqueous solution of metformin hydrochloride is 6.68.
+
 Metformin hydrochloride tablets, for oral administration, contains 500 mg, 850 mg, or 1000 mg of metformin hydrochloride.
-Each tablet contains the inactive ingredients povidone, and magnesium stearate.
+Each tablet contains the inactive ingredients povidone and magnesium stearate.
 In addition, the coating for the 500 mg, 850 mg, and 1000 mg contains hypromellose and polyethylene glycol.

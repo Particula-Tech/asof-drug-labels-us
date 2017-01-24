@@ -10,7 +10,7 @@ Thus, patients with serum creatinine levels above the upper limit of normal for 
 In patients with advanced age, metformin should be carefully titrated to establish the minimum dose for adequate glycemic effect, because aging is associated with reduced renal function.
 In elderly patients, particularly those ≥ 80 years of age, renal function should be monitored regularly and, generally, metformin should not be titrated to the maximum dose (see WARNINGS and DOSAGE AND ADMINISTRATION).
 Before initiation of metformin therapy and at least annually thereafter, renal function should be assessed and verified as normal.
-Inpatients in whom development of renal dysfunction is anticipated, renal function should be assessed more frequently and metformin discontinued if evidence of renal impairment is present.
+In patients in whom development of renal dysfunction is anticipated, renal function should be assessed more frequently and metformin discontinued if evidence of renal impairment is present.
 Use of concomitant medications that may affect renal function or metformin disposition—Concomitant medication(s) that may affect renal function or result in significant hemodynamic change or may interfere with the disposition of metformin, such as cationic drugs that are eliminated by renal tubular secretion (see PRECAUTIONS: Drug Interactions), should be used with caution.
 Radiologic studies involving the use of intravascular iodinated contrast materials (for example, intravenous urogram, intravenous cholangiography, angiography, and computed tomography (CT) scans with intravascular contrast materials)—Intravascular contrast studies with iodinated materials can lead to acute alteration of renal function and have been associated with lactic acidosis in patients receiving metformin (see CONTRAINDICATIONS).
 Therefore, in patients in whom any such study is planned, metformin should be temporarily discontinued at the time of or prior to the procedure, and withheld for 48 hours subsequent to the procedure and reinstituted only after renal function has been re-evaluated and found to be normal.
@@ -48,7 +48,7 @@ Patients should be advised to discontinue metformin immediately and to promptly 
 Once a patient is stabilized on any dose level of metformin, gastrointestinal symptoms, which are common during initiation of metformin therapy, are unlikely to be drug related.
 Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
 Patients should be counselled against excessive alcohol intake, either acute or chronic, while receiving metformin.
-Metformin hydrochloride tablets alone does not usually cause hypoglycemia, although it may occur when metformin is used in conjunction with oral sulfonylureas and insulin.
+Metformin hydrochloride tablets alone do not usually cause hypoglycemia, although it may occur when metformin is used in conjunction with oral sulfonylureas and insulin.
 When initiating combination therapy, the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development should be explained to patients and responsible family members.
 (See Patient Information printed below.)
 
