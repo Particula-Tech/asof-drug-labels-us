@@ -196,4 +196,26 @@ Active Ingredient:atorvastatin calcium
 Inactive Ingredients: Basic butylated methacrylate copolymer, crospovidone, hydroxy propyl cellulose, lactose monohydrate, magnesium stearate, methanol, microcrystalline cellulose, sodium bicarbonate and sodium lauryl sulphate.
 The tablet coating contains isopropyl alcohol, methylene chloride and coloring agent opadry OY-58900 white contains polyethylene glycol, titanium dioxide and hypromellose.
 
-To reorder additional Patient Information Sheets contact Dr. Reddy's Customer Service at 1-866-733-3952.
+Rx Only
+
+Manufactured by:
+
+Dr. Reddy’s Laboratories Limited
+
+Bachupally – 500 090 INDIA
+
+Revised: 0916
+
+or
+
+Manufactured by
+
+Dr. Reddy’s Laboratories Limited
+
+Srikakulam - 532 409 INDIA
+
+Revised: 0916
+
+Dispense with patient information sheet available at:
+
+www.drreddys.com/pi/atorvastatintabs.pdf
