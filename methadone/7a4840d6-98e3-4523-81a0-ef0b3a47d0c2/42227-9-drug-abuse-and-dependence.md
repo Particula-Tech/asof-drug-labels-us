@@ -2,12 +2,12 @@
 
 ## 9.1 Controlled Substance
 
-DOLOPHINE Tablets contains methadone, a Schedule II controlled substance.
+DOLOPHINE Tablets contain methadone, a Schedule II controlled substance.
 
 ## 9.2 Abuse
 
-DOLOPHINE Tablets contains methadone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, hydromorphone, morphine, oxycodone, oxymorphone, and tapentadol.
-DOLOPHINE Tablets can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+DOLOPHINE Tablets contain methadone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, hydromorphone, morphine, oxycodone, oxymorphone, and tapentadol.
+DOLOPHINE Tablets can be abused and are subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
 All patients treated with opioids for pain management require careful monitoring for signs of abuse and addiction, since use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 

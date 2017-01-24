@@ -64,7 +64,7 @@ Absorption
 
 Following oral administration the bioavailability of methadone ranges between 36 to 100% and peak plasma concentrations are achieved between 1 to 7.5 hours.
 Dose proportionality of methadone pharmacokinetics is not known.
-However, after administration of daily oral doses ranging from 10 to 225 mg, the steady-state plasma concentrations ranged between 65 to 630 ng/mL and the peak concentrations ranged between 124 to 1255 ng/mL.
+However, after administration of daily oral doses ranging from 10 to 225 mg, the steady-state plasma concentrations ranged between 65 to 630 ng/mL and the peak concentrations ranged between 124 to 1,255 ng/mL.
 Effect of food on the bioavailability of methadone has not been evaluated.
 
 Distribution
@@ -109,7 +109,7 @@ Cytochrome P450 Inhibitors:
 
 Antiretroviral Drugs: Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity.
 
-1. Abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, tipranvir+ritonavir combination:
+1. Abacavir, Amprenavir, Darunavir+Ritonavir, Efavirenz, Nelfinavir, Nevirapine, Ritonavir, Telaprevir, Lopinavir+Ritonavir, Saquinavir+Ritonavir, Tipranvir+Ritonavir Combination:
 2. Co-administration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone [see Drug Interactions (7)].
 3. 
 4. Didanosine and Stavudine: Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.

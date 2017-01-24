@@ -9,5 +9,5 @@ A solution (1:100) in water has a pH between 4.5 and 6.5.
 
 It has the following structural formula:
 
-DOLOPHINE tablets are available for oral administration containing either 5 mg or 10 mg of methadone hydrochloride USP.
+DOLOPHINE Tablets are available for oral administration containing either 5 mg or 10 mg of methadone hydrochloride USP.
 Each tablet contains the following inactive ingredients: magnesium stearate, microcrystalline cellulose and pregelatinized starch.

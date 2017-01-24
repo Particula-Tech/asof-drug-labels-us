@@ -15,7 +15,7 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
-Instruct patients to take steps to store DOLOPHINE Tablets securely and to dispose of unused DOLOPHINE Tablets by flushing the Tablets down the toilet.
+Instruct patients to take steps to store DOLOPHINE Tablets securely and to dispose of unused DOLOPHINE Tablets by flushing the tablets down the toilet.
 
 Symptoms of Arrhythmia
 
@@ -95,4 +95,4 @@ Eatontown, NJ 07724
 
 4077444//09
 
-Revised December 2016
+Revised January 2017

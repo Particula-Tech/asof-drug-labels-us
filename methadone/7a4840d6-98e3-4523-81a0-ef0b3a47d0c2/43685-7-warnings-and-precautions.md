@@ -3,7 +3,7 @@
 ## 5.1 Addiction, Abuse and Misuse
 
 DOLOPHINE Tablets contain methadone, a Schedule II controlled substance.
-As an opioid, DOLOPHINE Tablets exposes users to the risks of addiction, abuse, and misuse.
+As an opioid, DOLOPHINE Tablets expose users to the risks of addiction, abuse, and misuse.
 As long-acting opioids such as DOLOPHINE Tablets have pharmacological effects over an extended period of time, there is a greater risk for overdose and death [see Drug Abuse and Dependence (9)].
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed DOLOPHINE Tablets.

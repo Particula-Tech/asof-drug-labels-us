@@ -56,8 +56,8 @@ Table 1: Conversion Factors to DOLOPHINE Tablets
 | < 100 mg | 20% to 30% |
 | 100 to 300 mg | 10% to 20% |
 | 300 to 600 mg | 8% to 12% |
-| 600 mg to 1000 mg | 5% to 10% |
-| > 1000 mg | < 5 % |
+| 600 mg to 1,000 mg | 5% to 10% |
+| > 1,000 mg | < 5 % |
 
 To calculate the estimated DOLOPHINE Tablets dose using Table 1:
 
@@ -101,7 +101,7 @@ Use a conversion ratio of 1:2 mg for parenteral to oral methadone (e.g., 5 mg pa
 ## 2.3 Titration and Maintenance of Therapy for Pain
 
 Individually titrate DOLOPHINE Tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving DOLOPHINE Tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse see Warnings and Precautions (5.1)].
+Continually reevaluate patients receiving DOLOPHINE Tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 During chronic therapy, periodically reassess the continued need for the use of opioid analgesics.
 

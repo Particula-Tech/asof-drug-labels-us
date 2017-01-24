@@ -34,7 +34,7 @@ The terminal half-life of methadone is decreased during second and third trimest
 The decrease in plasma half-life and increased clearance of methadone resulting in lower methadone trough levels during pregnancy can lead to withdrawal symptoms in some pregnant patients.
 The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving methadone to achieve therapeutic effect [see Dosage and Administration (2.10)].
 
-Fetal/neonatal Adverse Reactions: Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with DOLOPHINE Tablets.
+Fetal/Neonatal Adverse Reactions: Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with DOLOPHINE Tablets.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and/or failure to gain weight.
 Signs of neonatal withdrawal usually occur in the first days after birth.
@@ -78,7 +78,7 @@ In a second study of pregnant mice dosed with subcutaneous doses up to 28 mg/kg/
 
 No effects were reported in a study of pregnant rats and rabbits at oral doses up to 40 mg/kg (3 and 6 times, respectively, the HDD) administered from Gestation Days 6 to 15 and 6 to 18, respectively.
 
-When pregnant rats were treated with intraperitoneal doses of 2.5, 5, or 7.5 mg/kg methadone from one week prior to mating, through gestation until the end of lactation period, 5 mg/kg or greater (0.4 times the HDD) methadone resulted in decreases in litter size and live pups born and 7.5 mg/kg (0.6 times the HDD) resulted indecreased birth weights.
+When pregnant rats were treated with intraperitoneal doses of 2.5, 5, or 7.5 mg/kg methadone from one week prior to mating, through gestation until the end of lactation period, 5 mg/kg or greater (0.4 times the HDD) methadone resulted in decreases in litter size and live pups born and 7.5 mg/kg (0.6 times the HDD) resulted in decreased birth weights.
 Furthermore, decreased pup viability and pup body weight gain at 2.5 mg/kg or greater (0.2 times the HDD) were noted during the preweaning period.
 
 Additional animal data demonstrates evidence for neurochemical changes in the brains of offspring from methadone-treated pregnant rats, including changes to the cholinergic, dopaminergic, noradrenergic and serotonergic systems at doses below the HDD.
@@ -148,13 +148,13 @@ Titrate the dosage of DOLOPHINE Tablets slowly in geriatric patients and monitor
 Methadone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
-## 8.7 Renal Impairment
-
-Methadone pharmacokinetics have not been extensively evaluated in patients with renal insufficiency.
-Since unmetabolized methadone and its metabolites are excreted in urine to a variable degree, start these patients on lower doses and with longer dosing intervals and titrate slowly while carefully monitoring for signs of respiratory and central nervous system depression.
-
 ## 8.6 Hepatic Impairment
 
 Methadone pharmacokinetics have not been extensively evaluated in patients with hepatic insufficiency.
 Methadone is metabolized by hepatic pathways; therefore, patients with liver impairment may be at risk of increased systemic exposure to methadone after multiple dosing.
 Start these patients on lower doses and titrate slowly while carefully monitoring for signs of respiratory and central nervous system depression.
+
+## 8.7 Renal Impairment
+
+Methadone pharmacokinetics have not been extensively evaluated in patients with renal insufficiency.
+Since unmetabolized methadone and its metabolites are excreted in urine to a variable degree, start these patients on lower doses and with longer dosing intervals and titrate slowly while carefully monitoring for signs of respiratory and central nervous system depression.
