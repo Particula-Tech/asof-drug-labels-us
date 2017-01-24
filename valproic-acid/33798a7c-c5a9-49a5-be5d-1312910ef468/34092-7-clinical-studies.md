@@ -22,7 +22,7 @@ Study 1
 | BPRS-A Total Score |  |  |  |
 | Group | Baseline | BL to Wk 3 | Difference |
 | Placebo | 76.2 | + 1.8 |  |
-| Divalproex sodium delayed-release tablets | 76.4 | - 17 | 18.8 |
+| Divalproex sodium delayed-release tablets | 76.4 | - 17.0 | 18.8 |
 | GAS Score |  |  |  |
 | Group | Baseline | BL to Wk 3 | Difference |
 | Placebo | 31.8 | 0.0 |  |
@@ -42,7 +42,7 @@ Study 2
 
 | MRS Total Score |  |  |  |
 | --- | --- | --- | --- |
-| Group | BaselineMean score at baseline | BL to Day 21Change from baseline to day 21 (LOCF) | DifferenceDifference in change from baseline to day 21 endpoint (LOCF) between divalproex sodium delayed-release tablets and placebo and lithium and placebo |
+| Group | BaselineMean score at baseline | BL to Day 21Change from baseline to Day 21 (LOCF) | DifferenceDifference in change from baseline to Day 21 endpoint (LOCF) between divalproex sodium delayed-release tablets and placebo and lithium and placebo |
 | Placebo | 38.9 | - 4.4 |  |
 | Lithium | 37.9 | - 10.5 | 6.1 |
 | Divalproex sodium delayed-release tablets | 38.1 | - 9.5 | 5.1 |
@@ -50,11 +50,11 @@ Study 2
 | Group | Baseline | BL to Day 21 | Difference |
 | Placebo | 18.9 | - 2.5 |  |
 | Lithium | 18.5 | - 6.2 | 3.7 |
-| Divalproex sodium delayed-release tablets | 18.9 | - 6 | 3.5 |
+| Divalproex sodium delayed-release tablets | 18.9 | - 6.0 | 3.5 |
 | BIS Total Score |  |  |  |
 | Group | Baseline | BL to Day 21 | Difference |
 | Placebo | 16.4 | - 1.4 |  |
-| Lithium | 16 | - 3.8 | 2.4 |
+| Lithium | 16.0 | - 3.8 | 2.4 |
 | Divalproex sodium delayed-release tablets | 15.7 | – 3.2 | 1.8 |
 
 Divalproex sodium delayed-release tablets were statistically significantly superior to placebo on all three measures of outcome.
@@ -81,7 +81,7 @@ Adjunctive Therapy Study Median Incidence of CPS per 8 Weeks
 
 | Add-on Treatment | Number of Patients | Baseline Incidence | Experimental Incidence |
 | --- | --- | --- | --- |
-| Divalproex sodium delayed-release tablets | 75 | 16 | 8.9Reduction from baseline statistically significantly greater for valproate than placebo at p ≤ 0.05 level. |
+| Divalproex sodium delayed-release tablets | 75 | 16.0 | 8.9Reduction from baseline statistically significantly greater for valproate than placebo at p ≤ 0.05 level. |
 | Placebo | 69 | 14.5 | 11.5 |
 
 Figure 2 presents the proportion of patients (X axis) whose percentage reduction from baseline in complex partial seizure rates was at least as great as that indicated on the Y axis in the adjunctive therapy study.
@@ -148,7 +148,7 @@ The initial dose was 250 mg daily.
 The regimen was advanced by 250 mg every 4 days (8 days for 500 mg/day group), until the randomized dose was achieved.
 The mean trough total valproate levels during the treatment phase were 39.6, 62.5, and 72.5 mcg/mL in the divalproex sodium delayed-release tablets 500, 1,000, and 1,500 mg/day groups, respectively.
 
-The mean 4-week migraine headache rates during the treatment phase, adjusted for differences in baseline rates, were 4.5 in the placebo group, compared to 3.3, 3, and 3.3 in the divalproex sodium delayed-release tablets 500, 1,000, and 1,500 mg/day groups, respectively, based on intent-to-treat results (see Figure 4).
+The mean 4-week migraine headache rates during the treatment phase, adjusted for differences in baseline rates, were 4.5 in the placebo group, compared to 3.3, 3.0, and 3.3 in the divalproex sodium delayed-release tablets 500, 1,000, and 1,500 mg/day groups, respectively, based on intent-to-treat results (see Figure 4).
 Migraine headache rates in the combined divalproex sodium delayed-release tablets 1,000/1,500 mg group were significantly lower than in the placebo group.
 
 Figure 4 Mean 4-week Migraine Rates

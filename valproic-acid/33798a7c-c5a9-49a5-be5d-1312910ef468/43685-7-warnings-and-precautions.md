@@ -27,7 +27,7 @@ Divalproex sodium is contraindicated in patients known to have mitochondrial dis
 Valproate-induced acute liver failure and liver-related deaths have been reported in patients with hereditary neurometabolic syndromes caused by mutations in the gene for mitochondrial DNA polymerase γ (POLG) (e.g., Alpers-Huttenlocher Syndrome) at a higher rate than those without these syndromes.
 Most of the reported cases of liver failure in patients with these syndromes have been identified in children and adolescents.
 
-POLG-related disorders should be suspected in patients with a family history or suggestive symptoms of a POLG-related disorder, including but not limited to unexplained encephalopathy, refractory epilepsy (focal, myoclonic), status epilepticus at presentation, developmental delays, psychomotor regression, axonal sensorimotor neuropathy, myopathy cerebellar ataxia, opthalmoplegia, or complicated migraine with occipital aura.
+POLG-related disorders should be suspected in patients with a family history or suggestive symptoms of a POLG-related disorder, including but not limited to unexplained encephalopathy, refractory epilepsy (focal, myoclonic), status epilepticus at presentation, developmental delays, psychomotor regression, axonal sensorimotor neuropathy, myopathy cerebellar ataxia, ophthalmoplegia, or complicated migraine with occipital aura.
 POLG mutation testing should be performed in accordance with current clinical practice for the diagnostic evaluation of such disorders.
 The A467T and W748S mutations are present in approximately 2/3 of patients with autosomal recessive POLG-related disorders.
 
@@ -118,9 +118,9 @@ Risk by indication for antiepileptic drugs in the pooled analysis
 
 | Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
 | --- | --- | --- | --- | --- |
-| Epilepsy | 1 | 3.4 | 3.5 | 2.4 |
+| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
-| Other | 1 | 1.8 | 1.9 | 0.9 |
+| Other | 1.0 | 1.8 | 1.9 | 0.9 |
 | Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
