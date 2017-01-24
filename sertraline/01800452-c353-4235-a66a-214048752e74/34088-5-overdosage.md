@@ -1,26 +1,13 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Human Experience
+Human Experience
 
-Of 1,027 cases of overdose involving sertraline hydrochloride worldwide, alone or with other drugs, there were 72 deaths (circa 1999).
-Among 634 overdoses in which sertraline hydrochloride was the only drug ingested, 8 resulted in fatal outcome, 75 completely recovered, and 27 patients experienced sequelae after overdosage to include alopecia, decreased libido, diarrhea, ejaculation disorder, fatigue, insomnia, somnolence and serotonin syndrome.
-The remaining 524 cases had an unknown outcome.
 The most common signs and symptoms associated with non-fatal sertraline hydrochloride overdosage were somnolence, vomiting, tachycardia, nausea, dizziness, agitation and tremor.
-The largest known ingestion was 13.5 grams in a patient who took sertraline hydrochloride alone and subsequently recovered.
-However, another patient who took 2.5 grams of sertraline hydrochloride alone experienced a fatal outcome.
-Other important adverse events reported with sertraline hydrochloride overdose (single or multiple drugs) include bradycardia, bundle branch block, coma, convulsions, delirium, hallucinations, hypertension, hypotension, manic reaction, pancreatitis, QT-interval prolongation, serotonin syndrome, stupor, syncope and Torsade de Pointes.
+No cases of fatal overdosage with only sertraline have been reported.
 
-## Overdose Management
+Other important adverse events reported with sertraline hydrochloride overdose (single or multiple drugs) include bradycardia, bundle branch block, coma, convulsions, delirium, hallucinations, hypertension, hypotension, manic reaction, pancreatitis, QT-interval prolongation, Torsade de Pointes, serotonin syndrome, stupor, and syncope.
 
-Treatment should consist of those general measures employed in the management of overdosage with any antidepressant.
-Ensure an adequate airway, oxygenation and ventilation.
-Monitor cardiac rhythm and vital signs.
-General supportive and symptomatic measures are also recommended.
-Induction of emesis is not recommended.
-Gastric lavage with a large-bore orogastric tube with appropriate airway protection, if needed, may be indicated if performed soon after ingestion, or in symptomatic patients.
-Activated charcoal should be administered.
-Due to large volume of distribution of this drug, forced diuresis, dialysis, hemoperfusion and exchange transfusion are unlikely to be of benefit.
-No specific antidotes for sertraline are known.
-In managing overdosage, consider the possibility of multiple drug involvement.
-The physician should consider contacting a poison control center on the treatment of any overdose.
-Telephone numbers for certified poison control centers are listed in the Physicians’ Desk Reference® (PDR®).
+Overdose Management
+
+No specific antidotes for sertraline hydrochloride are known.
+Contact Poison Control (1-800-222-1222) for latest recommendations.
