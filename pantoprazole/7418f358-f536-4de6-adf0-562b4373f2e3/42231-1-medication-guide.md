@@ -11,7 +11,7 @@ Talk with your doctor.
 Pantoprazole sodium delayed-release tablets can cause serious side effects, including:
 
 - A type of kidney problem (acute interstitial nephritis).
-  Some people who take proton pump inhibitor (PPI) medicines, including pantoprazole sodiumdelayed-release tablets, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with pantoprazole sodium delayed-release tablets.
+  Some people who take proton pump inhibitor (PPI) medicines, including pantoprazole sodium delayed-release tablets, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with pantoprazole sodium delayed-release tablets.
   Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
 
 - Diarrhea.
