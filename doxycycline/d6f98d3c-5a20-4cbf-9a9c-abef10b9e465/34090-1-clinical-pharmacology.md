@@ -15,9 +15,16 @@ Results of animal studies indicate that tetracyclines cross the placenta and are
 
 ## Microbiology
 
+### Mechanism of Action
+
 Doxycycline inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit.
 Doxycycline has bacteriostatic activity against a broad range of Gram-positive and Gram-negative bacteria.
+
+### Resistance
+
 Cross resistance with other tetracyclines is common.
+
+### Antimicrobial Activity
 
 Doxycycline has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section of the package insert for VIBRAMYCIN.
 
@@ -27,7 +34,7 @@ Acinetobacter species Bartonella bacilliformis Brucella species Klebsiella speci
 
 ### Gram-Positive Bacteria
 
-Bacillus anthracis Streptococcus pneumoniae
+Bacillus anthracis Listeria monocytogenes Streptococcus pneumoniae
 
 ### Anaerobic Bacteria
 
@@ -44,20 +51,19 @@ The precise mechanism of action of the drug is not known.
 
 ### Susceptibility Testing Methods
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drugs used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting the most effective antimicrobial.
 
-#### Dilution techniques
+#### Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized test method1,2,4 (broth or agar).
 The MIC values should be interpreted according to criteria provided in Table 1.
 
-#### Diffusion techniques
+#### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
 The zone size should be determined using a standardized test method.1,3,4 This procedure uses paper disks impregnated with 30-μg doxycycline to test the susceptibility of microorganisms to doxycycline.
 The disk diffusion interpretive criteria are provided in Table 1.
 
@@ -70,7 +76,7 @@ Table 1: Susceptibility Test Interpretive Criteria for Doxycycline and Tetracycl
 
 |  | S | I | R | S | I | R | S | I | R |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BacteriaOrganisms susceptible to tetracycline are also considered susceptible to doxycycline. However, some organisms that are intermediate or resistant to tetracycline may be susceptible to doxycycline | Minimal Inhibitory Concentration (mcg/mL) |  |  | Zone Diameter (mm) |  |  | Agar Dilution (mcg/mL) |  |  |
+| BacteriaOrganisms susceptible to tetracycline are also considered susceptible to doxycycline. However, some organisms that are intermediate or resistant to tetracycline may be susceptible to doxycycline. | Minimal Inhibitory Concentration (mcg/mL) |  |  | Zone Diameter (mm) |  |  | Agar Dilution (mcg/mL) |  |  |
 | Acinetobacter spp. |  |  |  |  |  |  |  |  |  |
 | Doxycycline | ≤4 | 8 | ≥16 | ≥13 | 10–12 | ≤9 | - | - | - |
 | Tetracycline | ≤4 | 8 | ≥16 | ≥15 | 12–14 | ≤11 | - | - | - |
@@ -94,7 +100,7 @@ Table 1: Susceptibility Test Interpretive Criteria for Doxycycline and Tetracycl
 | Tetracycline | - | - | - | - | - | - | ≤2 | - | - |
 | Nocardiae and other aerobic Actinomyces species |  |  |  |  |  |  |  |  |  |
 | Doxycycline | ≤1 | 2–4 | ≥8 | - | - | - | - | - | - |
-| Neisseria gonorrhoeaeGonococci with 30 mcg tetracycline disk zone diameters of <19 mm usually indicate a plasmid-mediated tetracycline resistant Neisseria gonorrhoeae isolate. Resistance in these strains should be confirmed by a dilution test (MIC ≥16 mcg/mL) |  |  |  |  |  |  |  |  |  |
+| Neisseria gonorrhoeaeGonococci with 30 mcg tetracycline disk zone diameters of <19 mm usually indicate a plasmid-mediated tetracycline resistant Neisseria gonorrhoeae isolate. Resistance in these strains should be confirmed by a dilution test (MIC ≥16 mcg/mL). |  |  |  |  |  |  |  |  |  |
 | Tetracycline | - | - | - | ≥38 | 31–37 | ≤30 | ≤0.25 | 0.5–1 | ≥2 |
 | Streptococcus pneumoniae |  |  |  |  |  |  |  |  |  |
 | Doxycycline | ≤0.25 | 0.5 | ≥1 | ≥28 | 25–27 | ≤24 | - | - | - |
@@ -108,11 +114,11 @@ Table 1: Susceptibility Test Interpretive Criteria for Doxycycline and Tetracycl
 | Ureaplasma urealyticum |  |  |  |  |  |  |  |  |  |
 | Tetracycline | - | - | - | - | - | - | ≤1 | - | ≥2 |
 
-A report of "Susceptible" (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorgamism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the bacteria is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug product is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 #### Quality Control
 
@@ -130,7 +136,7 @@ Table 2: Acceptable Quality Control Ranges for Susceptibility Testing for Doxycy
 | Escherichia coli ATCC 25922 |  |  |  |
 | Doxycycline | 0.5–2 | 18–24 | - |
 | Tetracycline | 0.5–2 | 18–25 | - |
-| Eubacteria lentum ATCC 43055 |  |  |  |
+| Eggerthella lenta ATCC 43055 |  |  |  |
 | Doxycycline | 2–16 | - | - |
 | Haemophilus influenzae ATCC 49247 |  |  |  |
 | Tetracycline | 4–32 | 14–22 | - |
@@ -148,7 +154,7 @@ Table 2: Acceptable Quality Control Ranges for Susceptibility Testing for Doxycy
 | Bacteroides fragilis ATCC 25285 |  |  |  |
 | Tetracycline | - | - | 0.12–0.5 |
 | Bacteroides thetaiotaomicron ATCC 29741 |  |  |  |
-| Doxycycline | 2–16 | - | - |
+| Doxycycline | 2–8 | - | - |
 | Tetracycline | - | - | 8–32 |
 | Mycoplasma pneumoniae ATCC 29342 |  |  |  |
 | Tetracycline | 0.06–0.5 | - | 0.06–0.5 |
