@@ -3,12 +3,12 @@
 ## 8.1 Pregnancy
 
 Depo-Provera CI should not be administered during pregnancy.
-[See Contraindications and Warnings and Precautions (5.16).]
+[See Contraindications and Warnings and Precautions (5.17).]
 
 ## 8.3 Nursing Mothers
 
 Detectable amounts of drug have been identified in the milk of mothers receiving Depo-Provera CI.
-[See Warnings and Precautions (5.12).]
+[See Warnings and Precautions (5.13).]
 
 ## 8.4 Pediatric Use
 
@@ -31,4 +31,4 @@ The effect of renal impairment on Depo-Provera CI pharmacokinetics has not been 
 
 The effect of hepatic impairment on Depo-Provera CI pharmacokinetics has not been studied.
 Depo-Provera CI should not be used by women with significant liver disease and should be discontinued if jaundice or disturbances of liver function occur.
-[See Contraindications (4) and Warnings and Precautions (5.6).]
+[See Contraindications (4) and Warnings and Precautions (5.7).]
