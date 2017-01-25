@@ -133,7 +133,7 @@ Immune: hypersensitivity reactions including skin rash, urticaria, fever, arthra
 
 Metabolism/Nutrition: anorexia, weight loss during prolonged therapy
 
-Nervous System: dizziness, drowsiness, dyskinesia, headache, rare reports of Tourette’s syndrome, toxic psychosis
+Nervous System: dizziness, drowsiness, dyskinesia, headache, rare reports of Tourette’s syndrome, serotonin syndrome in combination with serotonergic drugs, toxic psychosis
 
 Vascular: blood pressure increased or decreased, cerebral arteritis and/or occlusion
 
@@ -141,7 +141,7 @@ Although a definite causal relationship has not been established, the following 
 
 Blood/Lymphatic: leukopenia and/or anemia
 
-Hepatobiliary: abnormal liver function, ranging from transaminase elevation to hepatic coma
+Hepatobiliary: abnormal liver function, ranging from transaminase elevation to severe hepatic injury
 
 Psychiatric: transient depressed mood, aggressive behavior, libido changes
 

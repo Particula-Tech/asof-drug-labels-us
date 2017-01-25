@@ -22,4 +22,4 @@ Circulation problems in fingers and toes [Peripheral vasculopathy, including Ray
 - Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Focalin XR.
 - Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
-T2015-73 April 2015
+T2016-89 January 2017
