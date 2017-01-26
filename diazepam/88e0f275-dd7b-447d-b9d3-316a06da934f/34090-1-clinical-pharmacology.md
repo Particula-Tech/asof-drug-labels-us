@@ -18,6 +18,7 @@ Diazepam rectal gel is well absorbed following rectal administration, reaching p
 The absolute bioavailability of Diazepam rectal gel relative to Valium injectable is 90%.
 The volume of distribution of Diazepam rectal gel is calculated to be approximately 1 L/kg.
 The mean elimination half-life of diazepam and desmethyldiazepam following administration of a 15 mg dose of Diazepam rectal gel was found to be about 46 hours (CV=43%) and 71 hours (CV=37%), respectively.
+
 Both diazepam and its major active metabolite desmethyldiazepam bind extensively to plasma proteins (95-98%).
 
 Metabolism and Elimination: It has been reported in the literature that diazepam is extensively metabolized to one major active metabolite (desmethyldiazepam) and two minor active metabolites, 3-hydroxydiazepam (temazepam) and 3-hydroxy-N-diazepam (oxazepam) in plasma.

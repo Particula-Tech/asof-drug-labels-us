@@ -18,7 +18,7 @@ The Diazepam rectal gel delivery system is available in the following three pres
 Each Twin Pack contains two diazepam rectal gel delivery systems, two packets of lubricating jelly, and administration and disposal Instructions available on the bottom of the package.
 Diastat® AcuDial™ is also packed with Instructions for Caregivers upon receipt from pharmacy.
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).[See USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F)[See USP Controlled Room Temperature].
 
 Diastat®AcuDial™
 

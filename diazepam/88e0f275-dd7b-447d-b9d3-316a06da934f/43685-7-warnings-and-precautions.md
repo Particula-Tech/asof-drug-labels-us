@@ -77,21 +77,11 @@ Risks from Concomitant Use with Opioids:
 
 Inform patients and caregivers that potentially fatal additive effects may occur if Diastat or Diastat AcuDial is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
-Administration: Prescribers are strongly advised to take all reasonable steps to ensure that caregivers
+Administration: Prescribers are strongly advised to take all reasonable steps to ensure that caregivers fully understand their role and obligations vis a vis the administration of Diazepam rectal gel to individuals in their care.
+Prescribers should routinely discuss the steps in the Patient/Caregiver Package Insert (see Patient/Caregiver Insert printed at the end of the product labeling and also included in the product carton).
+The successful and safe use of Diazepam rectal gel depends in large measure on the competence and performance of the caregiver.
 
-fully understand their role and obligations vis a vis the administration of Diazepam rectal gel to
-
-individuals in their care.
-Prescribers should routinely discuss the steps in the Patient/Caregiver Package
-
-Insert (see Patient/Caregiver Insert printed at the end of the product labeling and also included in the product carton).
-The successful and safe use of Diazepam rectal gel depends in large measure on the
-
-competence and performance of the caregiver.
-
-Prescribers should advise caregivers that they expect to be informed immediately if a patient develops any
-
-new findings which are not typical of the patient’s characteristic seizure episode.
+Prescribers should advise caregivers that they expect to be informed immediately if a patient develops any new findings which are not typical of the patient’s characteristic seizure episode.
 
 ## Caution in Renally Impaired Patients
 
@@ -115,14 +105,6 @@ Diazepam rectal gel should be used with caution in patients with compromised res
 
 In elderly patients Diazepam rectal gel should be used with caution due to an increase in halflife with a corresponding decrease in the clearance of free diazepam.
 It is also recommended that the dosage be decreased to reduce the likelihood of ataxia or oversedation.
-
-## Information to be Communicated by the Prescriber to the Caregiver
-
-Prescribers are strongly advised to take all reasonable steps to ensure that caregivers fully understand their role and obligations vis a vis the administration of Diazepam rectal gel to individuals in their care.
-Prescribers should routinely discuss the steps in the Patient/Caregiver Package Insert (see Patient/Caregiver Insert printed at the end of the product labeling and also included in the product carton).
-The successful and safe use of Diazepam rectal gel depends in large measure on the competence and performance of the caregiver.
-
-Prescribers should advise caregivers that they expect to be informed immediately if a patient develops any new findings which are not typical of the patient’s characteristic seizure episode.
 
 Interference With Cognitive and Motor Performance: Because benzodiazepines have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that Diazepam rectal gel therapy does not affect them adversely.
 
@@ -169,12 +151,7 @@ The clinical significance of this is unclear.
 
 Valproate: Valproate may potentiate the CNS-depressant effects of diazepam.
 
-Effect of Concomitant Use of Benzodiazepines and Opioids: The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
-Benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors.
-When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
-Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation.
-
-Effect of Other Drugs on Diazepam Metabolism: In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
+Effect of Other Drugs on Diazepam Metabolism:In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
 Therefore, potential interactions may occur when diazepam is given concurrently with agents that affect CYP2C19 and CYP3A4 activity.
 Potential inhibitors of CYP2C19 (e.g., cimetidine, quinidine, and tranylcypromine) and CYP3A4 (e.g., ketoconazole, troleandomycin, and clotrimazole) could decrease the rate of diazepam elimination, while inducers of CYP2C19 (e.g., rifampin) and CYP3A4 (e.g., carbamazepine, phenytoin, dexamethasone and phenobarbital) could increase the rate of elimination of diazepam.
 
