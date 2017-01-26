@@ -86,3 +86,12 @@ Directions for Use: See Package Insert.
 
 AMERICAN REGENT, INC. SHIRLEY, NY 11967 Rev.
 8/09
+
+PRINCIPAL DISPLAY PANEL - 20 mL CARTON GLYCOPYRROLATE INJECTION, USP 4 mg/20mL (0.2 mg/mL) NDC 0517-4620-25 25 x 20 mL MULTIPLE DOSE VIALS Rx Only FOR INTRAMUSCULAR OR INTRAVENOUS USE
+
+Each mL contains: Glycopyrrolate 0.2 mg, Benzyl Alcohol 0.9%, Water for Injection q.s. pH adjusted with Sodium Hydroxide and/or Hydrochloric Acid.
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) (See USP Controlled Room Temperature).
+Directions for Use: See Package Insert.
+
+AMERICAN REGENT, INC. SHIRLEY, NY 11967 Iss.
+12/16
