@@ -18,8 +18,7 @@ Progressive Multifocal Leukoencephalopathy
 Inform patients that progressive multifocal leukoencephalopathy (PML) has occurred in patients who received TECFIDERA.
 Inform the patient that PML is characterized by a progression of deficits and usually leads to death or severe disability over weeks or months.
 Instruct the patient of the importance of contacting their doctor if they develop any symptoms suggestive of PML.
-Inform the patient that typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
-[see Warnings and Precautions (5.2)].
+Inform the patient that typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes [see Warnings and Precautions (5.2)].
 
 Lymphocyte Counts
 
@@ -27,12 +26,17 @@ Inform patients that TECFIDERA may decrease lymphocyte counts.
 A blood test should be obtained before they start therapy.
 Blood tests are also recommended after 6 months of treatment, every 6 to 12 months thereafter, and as clinically indicated [see Warnings and Precautions (5.3), Adverse Reactions (6.1)].
 
+Liver Injury
+
+Inform patients that TECFIDERA may cause liver injury.
+Instruct patients treated with TECFIDERA to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
+A blood test should be obtained before patients start therapy and during treatment, as clinically indicated [see Warnings and Precautions (5.4)].
+
 Flushing and Gastrointestinal (GI) Reactions
 
 Flushing and GI reactions (abdominal pain, diarrhea, and nausea) are the most common reactions, especially at the initiation of therapy, and may decrease over time.
 Advise patients to contact their healthcare provider if they experience persistent and/or severe flushing or GI reactions.
-Advise patients experiencing flushing that taking TECFIDERA with food or taking a non-enteric coated aspirin prior to taking TECFIDERA may help.
-[see Adverse Reactions (6.1)].
+Advise patients experiencing flushing that taking TECFIDERA with food or taking a non-enteric coated aspirin prior to taking TECFIDERA may help [see Adverse Reactions (6.1)].
 
 Pregnancy and Pregnancy Registry
 
@@ -41,10 +45,10 @@ Instruct patients that if they are pregnant or plan to become pregnant while tak
 Encourage patients to enroll in the TECFIDERA Pregnancy Registry if they become pregnant while taking TECFIDERA.
 Advise patients to call 1-866-810-1462 or visit www.tecfiderapregnancyregistry.com for more information [see Use in Specific Populations (8.1)].
 
-41347-07
+41347-08
 
 Manufactured by: Biogen Inc. Cambridge, MA 02142
 
 TECFIDERA is a registered trademark of Biogen.
 
-© Biogen 2013 - 2016
+© Biogen 2013 - 2017

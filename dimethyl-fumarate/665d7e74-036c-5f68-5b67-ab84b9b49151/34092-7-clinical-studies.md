@@ -33,9 +33,21 @@ Table 2: Clinical and MRI Results of Study 1
 | Proportion with disability progression | 16% | 27% | 0.0050 |
 | Relative risk reduction | 38% |  |  |
 | MRI Endpoints | N=152 | N=165 |  |
-| Mean number of new or newly enlarging T2 lesions over 2 years Percentage of subjects with no new or newly enlarging lesions | 2.6 45% | 17 27% | <0.0001 |
-| Number of Gd+ lesions at 2 years Mean (median) Percentage of subjects with 0 lesions 1 lesion 2 lesions 3 to 4 lesions 5 or more lesions Relative odds reduction (percentage) | 0.1 (0) 93% 5% <1% 0 <1% 90% | 1.8 (0) 62% 10% 8% 9% 11% | <0.0001 |
-| Mean number of new T1 hypointense lesions over 2 years | 1.5 | 5.6 | < 0.0001 |
+| Mean number of new or newly enlarging | 2.6 | 17 | <0.0001 |
+| T2 lesions over 2 years |  |  |  |
+| Percentage of subjects with no new or newly enlarging lesions | 45% | 27% |  |
+| Number of Gd+ lesions at 2 years | 0.1 (0) | 1.8 (0) |  |
+| Mean (median) |  |  |  |
+| Percentage of subjects with |  |  |  |
+| 0 lesions | 93% | 62% |  |
+| 1 lesion | 5% | 10% |  |
+| 2 lesions | <1% | 8% |  |
+| 3 to 4 lesions | 0 | 9% |  |
+| 5 or more lesions | <1% | 11% |  |
+| Relative odds reduction | 90% |  | <0.0001 |
+| (percentage) |  |  |  |
+| Mean number of new T1 hypointense | 1.5 | 5.6 | <0.0001 |
+| lesions over 2 years |  |  |  |
 
 Figure 1: Time to 12-Week Confirmed Progression of Disability (Study 1)
 
@@ -67,6 +79,19 @@ Table 3: Clinical and MRI Results of Study 2
 | Proportion with disability progression | 13% | 17% | 0.25 |
 | Relative risk reduction | 21% |  |  |
 | MRI Endpoints | N=147 | N=144 |  |
-| Mean number of new or newly enlarging T2 lesions over 2 years Percentage of subjects with no new or newly enlarging lesions | 5.1 27% | 17.4 12% | <0.0001 |
-| Number of Gd+ lesions at 2 years Mean (median) Percentage of subjects with 0 lesions 1 lesion 2 lesions 3 to 4 lesions 5 or more lesions Relative odds reduction (percentage) | 0.5 (0.0) 80% 11% 3% 3% 3% 74% | 2.0 (0.0) 61% 17% 6% 2% 14% | <0.0001 |
-| Mean number of new T1 hypointense lesions over 2 years | 3.0 | 7.0 | <0.0001 |
+| Mean number of new or newly enlarging | 5.1 | 17.4 | <0.0001 |
+| T2 lesions over 2 years |  |  |  |
+| Percentage of subjects with no new or | 27% | 12% |  |
+| newly enlarging lesions |  |  |  |
+| Number of Gd+ lesions at 2 years |  |  |  |
+| Mean (median) | 0.5 (0.0) | 2.0 (0.0) |  |
+| Percentage of subjects with |  |  |  |
+| 0 lesions | 80% | 61% |  |
+| 1 lesion | 11% | 17% |  |
+| 2 lesions | 3% | 6% |  |
+| 3 to 4 lesions | 3% | 2% |  |
+| 5 or more lesions | 3% | 14% |  |
+| Relative odds reduction | 74% |  | <0.0001 |
+| (percentage) |  |  |  |
+| Mean number of new T1 hypointense | 3.0 | 7.0 | <0.0001 |
+| lesions over 2 years |  |  |  |

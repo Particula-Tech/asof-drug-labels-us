@@ -62,3 +62,8 @@ Drug Interaction Studies
 No potential drug interactions with dimethyl fumarate or MMF were identified in in vitro CYP inhibition and induction studies, or in P-glycoprotein studies.
 Single doses of interferon beta-1a or glatiramer acetate did not alter the pharmacokinetics of MMF.
 Aspirin, when administered approximately 30 minutes before TECFIDERA, did not alter the pharmacokinetics of MMF.
+
+Oral Contraceptives
+
+The coadministration of dimethyl fumarate with a combined oral contraceptive (norelgestromin and ethinyl estradiol) did not elicit any relevant effects in oral contraceptives exposure.
+No interaction studies have been performed with oral contraceptives containing other progestogens.

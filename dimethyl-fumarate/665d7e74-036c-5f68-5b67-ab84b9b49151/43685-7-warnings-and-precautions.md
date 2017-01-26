@@ -29,18 +29,33 @@ In the MS placebo controlled trials, mean lymphocyte counts decreased by approxi
 Four weeks after stopping TECFIDERA, mean lymphocyte counts increased but did not return to baseline.
 Six percent (6%) of TECFIDERA patients and <1% of placebo patients experienced lymphocyte counts <0.5x109/L (lower limit of normal 0.91x109/L).
 The incidence of infections (60% vs 58%) and serious infections (2% vs 2%) was similar in patients treated with TECFIDERA or placebo, respectively.
-There was no increased incidence of serious infections observed in patients with lymphocyte counts <0.8x109/L or <0.5x109/L in controlled trials, although one patient in an extension study developed PML in the setting of prolonged lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years) [see Warnings and Precautions (5.2)].
+There was no increased incidence of serious infections observed in patients with lymphocyte counts <0.8x109/L or ≤0.5x109/L in controlled trials, although one patient in an extension study developed PML in the setting of prolonged lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years) [see Warnings and Precautions (5.2)].
 
 In controlled and uncontrolled clinical trials, 2% of patients experienced lymphocyte counts <0.5 x 109/L for at least six months, and in this group the majority of lymphocyte counts remained <0.5x109/L with continued therapy.
 TECFIDERA has not been studied in patients with pre-existing low lymphocyte counts.
 
 Obtain a CBC, including lymphocyte count, before initiating treatment with TECFIDERA, 6 months after starting treatment, and then every 6 to 12 months thereafter, and as clinically indicated.
-Consider interruption of TECFIDERA in patients with lymphocyte counts <less than 0.5 x 109/L persisting for more than six months.
-Given the potential for delayed recovery after discontinuation of TECFIDERA, consider followingof lymphocyte counts, continue to obtain lymphocyte counts until their recovery if TECFIDERA is discontinued or interrupted due to lymphopenia.
+Consider interruption of TECFIDERA in patients with lymphocyte counts less than 0.5 x 109/L persisting for more than six months.
+Given the potential for delayed recovery of lymphocyte counts, continue to obtain lymphocyte counts until their recovery if TECFIDERA is discontinued or interrupted due to lymphopenia.
 Consider withholding treatment from patients with serious infections until resolution.
 Decisions about whether or not to restart TECFIDERA should be individualized based on clinical circumstances.
 
-## 5.4 Flushing
+## 5.4 Liver Injury
+
+Clinically significant cases of liver injury have been reported in patients treated with TECFIDERA in the postmarketing setting.
+The onset has ranged from a few days to several months after initiation of treatment with TECFIDERA.
+Signs and symptoms of liver injury, including elevation of serum aminotransferases to greater than 5-fold the upper limit of normal and elevation of total bilirubin to greater than 2-fold the upper limit of normal have been observed.
+These abnormalities resolved upon treatment discontinuation.
+Some cases required hospitalization.
+None of the reported cases resulted in liver failure, liver transplant, or death.
+However, the combination of new serum aminotransferase elevations with increased levels of bilirubin caused by drug-induced hepatocellular injury is an important predictor of serious liver injury that may lead to acute liver failure, liver transplant, or death in some patients.
+
+Elevations of hepatic transaminases (most no greater than 3 times the upper limit of normal) were observed during controlled trials [see Adverse Reactions (6.1)].
+
+Obtain serum aminotransferase, alkaline phosphatase (ALP), and total bilirubin levels prior to treatment with TECFIDERA and during treatment, as clinically indicated.
+Discontinue TECFIDERA if clinically significant liver injury induced by TECFIDERA is suspected.
+
+## 5.5 Flushing
 
 TECFIDERA may cause flushing (e.g., warmth, redness, itching, and/or burning sensation).
 In clinical trials, 40% of TECFIDERA treated patients experienced flushing.

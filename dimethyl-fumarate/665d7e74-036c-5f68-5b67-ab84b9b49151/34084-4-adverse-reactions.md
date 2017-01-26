@@ -5,7 +5,8 @@ The following important adverse reactions are described elsewhere in labeling:
 - Anaphylaxis and Angioedema [see Warnings and Precautions (5.1)].
 - Progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.2)].
 - Lymphopenia [see Warnings and Precautions (5.3)].
-- Flushing [see Warnings and Precautions (5.4)].
+- Liver Injury [see Warnings and Precautions (5.4)].
+- Flushing [see Warnings and Precautions (5.5)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -45,7 +46,7 @@ The incidence of serious GI events was 1% in patients treated with TECFIDERA.
 
 Hepatic Transaminases
 
-An increased incidence of elevations of hepatic transaminases in patients treated with TECFIDERA was seen primarily during the first six months of treatment, and most patients with elevations had levels < 3 times the upper limit of normal (ULN).
+An increased incidence of elevations of hepatic transaminases in patients treated with TECFIDERA was seen primarily during the first six months of treatment, and most patients with elevations had levels < 3 times the upper limit of normal (ULN) during controlled trials.
 Elevations of alanine aminotransferase and aspartate aminotransferase to ≥ 3 times the ULN occurred in a small number of patients treated with both TECFIDERA and placebo and were balanced between groups.
 There were no elevations in transaminases ≥ 3 times the ULN with concomitant elevations in total bilirubin > 2 times the ULN.
 Discontinuations due to elevated hepatic transaminases were < 1% and were similar in patients treated with TECFIDERA or placebo.
@@ -59,3 +60,10 @@ Adverse Reactions in Placebo-Controlled and Uncontrolled Studies
 In placebo-controlled and uncontrolled clinical studies, a total of 2513 patients have received TECFIDERA and been followed for periods up to 4 years with an overall exposure of 4603 person-years.
 Approximately 1162 patients have received more than 2 years of treatment with TECFIDERA.
 The adverse reaction profile of TECFIDERA in the uncontrolled clinical studies was consistent with the experience in the placebo-controlled clinical trials.
+
+## 6.2 Post Marketing Experience
+
+The following adverse reaction has been identified during post approval use of TECFIDERA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) have been reported following TECFIDERA administration in post marketing experience [See Warnings and Precautions (5.4)].
