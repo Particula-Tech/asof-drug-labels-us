@@ -41,8 +41,8 @@ Research Triangle Park, NC 27709
 ©2013, GlaxoSmithKline group of companies.
 All rights reserved.
 
-- VTX:6PI
+VTX:6PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
-- _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
