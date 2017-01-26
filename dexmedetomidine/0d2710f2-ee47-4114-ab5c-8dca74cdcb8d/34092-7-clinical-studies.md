@@ -1,15 +1,91 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Procedural Sedation
+The safety and efficacy of dexmedetomidine HCl have been evaluated in four randomized, double-blind, placebo-controlled multicenter clinical trials in 1185 adult patients.
+
+## 14.1 Intensive Care Unit Sedation
+
+Two randomized, double-blind, parallel-group, placebo-controlled multicenter clinical trials included 754 adult patients being treated in a surgical intensive care unit.
+All patients were initially intubated and received mechanical ventilation.
+These trials evaluated the sedative properties of dexmedetomidine HCl by comparing the amount of rescue medication (midazolam in one trial and propofol in the second) required to achieve a specified level of sedation (using the standardized Ramsay Sedation Scale) between dexmedetomidine HCl and placebo from onset of treatment to extubation or to a total treatment duration of 24 hours.
+The Ramsay Level of Sedation Scale is displayed in Table 9.
+
+Table 9: Ramsay Level of Sedation Scale
+
+| Clinical Score | Level of Sedation Achieved |
+| --- | --- |
+| 6 | Asleep, no response |
+| 5 | Asleep, sluggish response to light glabellar tap or loud auditory stimulus |
+| 4 | Asleep, but with brisk response to light glabellar tap or loud auditory stimulus |
+| 3 | Patient responds to commands |
+| 2 | Patient cooperative, oriented, and tranquil |
+| 1 | Patient anxious, agitated, or restless |
+
+In the first study, 175 adult patients were randomized to receive placebo and 178 to receive dexmedetomidine HCl by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
+The study drug infusion rate was adjusted to maintain a Ramsay sedation score of ≥3.
+Patients were allowed to receive “rescue” midazolam as needed to augment the study drug infusion.
+In addition, morphine sulfate was administered for pain as needed.
+The primary outcome measure for this study was the total amount of rescue medication (midazolam) needed to maintain sedation as specified while intubated.
+Patients randomized to placebo received significantly more midazolam than patients randomized to dexmedetomidine HCl (see Table 10).
+
+A second prospective primary analysis assessed the sedative effects of dexmedetomidine HCl by comparing the percentage of patients who achieved a Ramsay sedation score of ≥3 during intubation without the use of additional rescue medication.
+A significantly greater percentage of patients in the dexmedetomidine HCl group maintained a Ramsay sedation score of ≥3 without receiving any midazolam rescue compared to the placebo group (see Table 10).
+
+Table 10: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
+
+|  | Placebo (N = 175) | Dexmedetomidine HCl (N = 178) | p-value |
+| --- | --- | --- | --- |
+| Mean Total Dose (mg) of Midazolam | 19 mg | 5 mg | 0.0011* |
+| Standard deviation | 53 mg | 19 mg |  |
+| Categorized Midazolam Use |  |  |  |
+| 0 mg | 43 (25%) | 108 (61%) | <0.001** |
+| 0–4 mg | 34 (19%) | 36 (20%) |  |
+| >4 mg | 98 (56%) | 34 (19%) |  |
+| ITT (intent-to-treat) population includes all randomized patients.* ANOVA model with treatment center.** Chi-square. |  |  |  |
+
+A prospective secondary analysis assessed the dose of morphine sulfate administered to patients in the dexmedetomidine HCl and placebo groups.
+On average, dexmedetomidine HCl-treated patients received less morphine sulfate for pain than placebo-treated patients (0.47 versus 0.83 mg/h).
+In addition, 44% (79 of 178 patients) of dexmedetomidine HCl patients received no morphine sulfate for pain versus 19% (33 of 175 patients) in the placebo group.
+
+In a second study, 198 adult patients were randomized to receive placebo and 203 to receive dexmedetomidine HCl by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
+The study drug infusion was adjusted to maintain a Ramsay sedation score of ≥3.
+Patients were allowed to receive “rescue” propofol as needed to augment the study drug infusion.
+In addition, morphine sulfate was administered as needed for pain.
+The primary outcome measure for this study was the total amount of rescue medication (propofol) needed to maintain sedation as specified while intubated.
+
+Patients randomized to placebo received significantly more propofol than patients randomized to dexmedetomidine HCl (see Table 11).
+
+A significantly greater percentage of patients in the dexmedetomidine HCl group compared to the placebo group maintained a Ramsay sedation score of ≥3 without receiving any propofol rescue (see Table 11).
+
+Table 11: Propofol Use as Rescue Medication During Intubation (ITT) Study Two
+
+|  | Placebo (N = 198) | Dexmedetomidine HCl (N = 203) | p-value |
+| --- | --- | --- | --- |
+| Mean Total Dose (mg) of Propofol | 513 mg | 72 mg | <0.0001* |
+| Standard deviation | 782 mg | 249 mg |  |
+| Categorized Propofol Use |  |  |  |
+| 0 mg | 47 (24%) | 122 (60%) | <0.001** |
+| 0–50 mg | 30 (15%) | 43 (21%) |  |
+| >50 mg | 121 (61%) | 38 (19%) |  |
+| * ANOVA model with treatment center.** Chi-square. |  |  |  |
+
+A prospective secondary analysis assessed the dose of morphine sulfate administered to patients in the dexmedetomidine HCl and placebo groups.
+On average, dexmedetomidine HCl-treated patients received less morphine sulfate for pain than placebo-treated patients (0.43 versus 0.89 mg/h).
+In addition, 41% (83 of 203 patients) of dexmedetomidine HCl patients received no morphine sulfate for pain versus 15% (30 of 198 patients) in the placebo group.
+
+In a controlled clinical trial, dexmedetomidine HCl was compared to midazolam for ICU sedation exceeding 24 hours duration.
+Dexmedetomidine HCl was not shown to be superior to midazolam for the primary efficacy endpoint, the percent of time patients were adequately sedated (81% versus 81%).
+In addition, administration of dexmedetomidine HCl for longer than 24 hours was associated with tolerance, tachyphylaxis, and a dose-related increase in adverse events [see Adverse Reactions (6.1)].
+
+## 14.2 Procedural Sedation
 
 The safety and efficacy of dexmedetomidine HCl for sedation of non-intubated patients prior to and/or during surgical and other procedures were evaluated in two randomized, double-blind, placebo-controlled multicenter clinical trials:
 
 - •Study 1 evaluated the sedative properties of dexmedetomidine HCl in patients having a variety of elective surgeries/procedures performed under monitored anesthesia care.
 - •Study 2 evaluated dexmedetomidine HCl in patients undergoing awake fiberoptic intubation prior to a surgical or diagnostic procedure.
 
-In Study 1, the sedative properties of dexmedetomidine HCl were evaluated by comparing the percent of patients not requiring rescue midazolam to achieve a specified level of sedation using the standardized Observer’s Assessment of Alertness/Sedation Scale (see Table 4).
+In Study 1, the sedative properties of dexmedetomidine HCl were evaluated by comparing the percent of patients not requiring rescue midazolam to achieve a specified level of sedation using the standardized Observer’s Assessment of Alertness/Sedation Scale (see Table 12).
 
-Table 4: Observer’s Assessment of Alertness/Sedation in Adult Procedural Sedation Study 1
+Table 12: Observer’s Assessment of Alertness/Sedation in Adult Procedural Sedation Study 1
 
 | Assessment Categories |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -30,9 +106,9 @@ The maintenance infusion in the two dexmedetomidine groups could be titrated bet
 Patients were allowed to receive rescue midazolam as needed to achieve and/or maintain an Observer’s Assessment of Alertness/Sedation Scale less than or equal to 4.
 After achieving the desired level of sedation, a local or regional anesthetic block was performed.
 Demographic characteristics were similar between the dexmedetomidine HCl and placebo groups.
-Efficacy results showed that dexmedetomidine HCl groups were more effective than the placebo group when used to sedate non-intubated patients requiring monitored anesthesia care during surgical and other procedures (see Table 6).
+Efficacy results showed that dexmedetomidine HCl groups were more effective than the placebo group when used to sedate non-intubated patients requiring monitored anesthesia care during surgical and other procedures (see Table 13).
 
-In Study 2, the sedative properties of dexmedetomidine HCl were evaluated by comparing the percent of patients requiring rescue midazolam to achieve or maintain a specified level of sedation using the Ramsay Sedation Scale score more than or equal to 2 (see Table 5).
+In Study 2, the sedative properties of dexmedetomidine HCl were evaluated by comparing the percent of patients requiring rescue midazolam to achieve or maintain a specified level of sedation using the Ramsay Sedation Scale score more than or equal to 2 (see Table 9).
 Patients were randomized to receive:
 
 - •A loading infusion of dexmedetomidine HCl 1 mcg/kg over 10 minutes followed by a fixed maintenance infusion of 0.7 mcg/kg/hour, or
@@ -41,20 +117,9 @@ Patients were randomized to receive:
 After achieving the desired level of sedation, topicalization of the airway occurred.
 Patients were allowed to receive rescue midazolam as needed to achieve and/or maintain a Ramsay Sedation Scale more than or equal to 2.
 Demographic characteristics were similar between the dexmedetomidine HCl and comparator groups.
-For efficacy results see Table 6.
+For efficacy results see Table 13.
 
-Table 5: Ramsay Level of Sedation in Adult Procedural Sedation Study 2
-
-| Clinical Score | Level of Sedation Achieved |
-| --- | --- |
-| 6 | Asleep, no response |
-| 5 | Asleep, sluggish response to light glabellar tap or loud auditory stimulus |
-| 4 | Asleep, but with brisk response to light glabellar tap or loud auditory stimulus |
-| 3 | Patient responds to commands |
-| 2 | Patient cooperative, oriented, and tranquil |
-| 1 | Patient anxious, agitated, or restless |
-
-Table 6: Key Efficacy Results of Adult Procedural Sedation Studies (Study 1 and Study 2)
+Table 13: Key Efficacy Results of Adult Procedural Sedation Studies (Study 1 and Study 2)
 
 | Treatment Arm | Number of Patients Enrolleda | % Not Requiring Midazolam Rescue | Confidenceb Interval on the Difference vs. Placebo | Mean (SD) Total Dose of Rescue Midazolam Required | Confidenceb Intervals of the Mean Rescue Dose |
 | --- | --- | --- | --- | --- | --- |

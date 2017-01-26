@@ -21,6 +21,9 @@ If hypotension occurs, consider decreasing or stopping the dexmedetomidine HCl i
 
 ## 5.3 Transient Hypertension
 
+Transient hypertension has been observed primarily during administration of the dexmedetomideine HCl loading dose and is likely due to the initial peripheral vasoconstrictive effects of dexmedetomidine.
+If treatment of the transient hypertension is necessary, consider reducing the loading infusion rate.
+
 ## 5.4 Arousability
 
 Some patients receiving dexmedetomidine HCl have been observed to be arousable and alert when stimulated.
@@ -28,6 +31,19 @@ This alone should not be considered as evidence of lack of efficacy in the absen
 
 ## 5.5 Withdrawal Adverse Reactions
 
+Intensive Care Unit Sedation
+
+With administration up to 7 days, regardless of dose, 12 (5%) dexmedetomidine HCl adult subjects experienced at least 1 event related to withdrawal within the first 24 hours after discontinuing study drug and 7 (3%) dexmedetomidine HCl adult subjects experienced at least 1 event 24 to 48 hours after end of study drug.
+The most common events were nausea, vomiting, and agitation.
+
+In adult subjects, tachycardia and hypertension requiring intervention in the 48 hours following study drug discontinuation occurred at frequencies of <5%.
+If tachycardia and/or hypertension occurs after discontinuation of dexmedetomidine HCl supportive therapy is indicated.
+
+Procedural Sedation
+
 In adult subjects, withdrawal symptoms were not seen after discontinuation of infusions of dexmedetomidine HCl less than 6 hours in duration.
 
 ## 5.6 Tolerance and Tachyphylaxis
+
+Use of dexmedetomidine HCl beyond 24 hours has been associated with tolerance (reduction in response after longer duration; a higher dosage of dexmedetomidine HCl is required to produce the same effect that was obtained at a lower dosage); tachyphylaxis (a sudden decrease in response); and a dosage-related increase in adverse reactions.
+Administration duration should not exceed 24 hours [see Dosage and Administration (2.1)].

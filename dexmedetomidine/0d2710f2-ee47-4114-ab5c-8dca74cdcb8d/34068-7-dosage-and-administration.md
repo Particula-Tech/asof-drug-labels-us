@@ -3,7 +3,7 @@
 ## 2.1 Important Dosage and Administration Instructions
 
 1. •Dexmedetomidine HCl Injection must be diluted prior to administration [see Dosage and Administration (2.6)].
-2. •Dexmedetomidine HCl Injection should be administered only by health care providers skilled in the management of patients in the operating room setting.
+2. •Dexmedetomidine HCl Injection should be administered only by health care providers skilled in the management of patients in the intensive care or operating room setting.
 3. •Administer by continuous intravenous infusion using a controlled infusion device.
 4. •Administration duration should not exceed 24 hours [see Warnings and Precautions (5.5, 5.6)].
 5. •Continuously monitor blood pressure, heart rate and oxygen levels during the use of Dexmedetomidine HCl Injection and as clinically appropriate after discontinuation.
@@ -18,8 +18,14 @@ Individualize dosages and titrate to desired sedation.
 
 Table 1: Recommended Dosage for Dexmedetomidine HCl Injection
 
-| Initiation of Procedural Sedation |  |
+| Initiation of Intensive Care Unit Sedation |  |
 | --- | --- |
+| Procedure | Recommended Loading Infusion Dosage |
+| ICU Sedation | •1 mcg/kg over 10 minutes•For adult patients being converted from alternate sedative therapy, a loading dose may not be required [see Dosage and Administration (2.2)]. |
+| Maintenance of Intensive Care Unit Sedation |  |
+| Procedure | Recommended Maintenance Infusion Dosage |
+| Maintenance | •0.2 to 0.7 mcg/kg/hour. •Adjust the maintenance infusion rate to achieve the targeted level of sedation. |
+| Initiation of Procedural Sedation |  |
 | Procedure | Recommended Loading Infusion Dosage |
 | For more invasive procedures or for awake fiberoptic intubation | 1 mcg/kg over 10 minutes |
 | For less invasive procedures such as ophthalmic surgery | 0.5 mcg/kg over 10 minutes |
@@ -30,12 +36,13 @@ Table 1: Recommended Dosage for Dexmedetomidine HCl Injection
 
 ## 2.3 Dosage Modifications in Geriatric Patients
 
-For patients over 65 years of age, the recommended intravenous loading infusion dosage of Dexmedetomidine HCl Injection for initiation of procedural sedation is 0.5 mcg/kg infused over 10 minutes.
+For patients over 65 years of age, for ICU sedation, a dose reduction may be considered.
+For procedural sedation, the recommended intravenous loading infusion dosage of Dexmedetomidine HCl Injection for initiation of procedural sedation is 0.5 mcg/kg infused over 10 minutes.
 Consider dosage reduction for maintenance of procedural sedation [see Use in Specific Populations (8.5)].
 
 ## 2.4 Dosage Modifications in Patients with Hepatic Impairment
 
-In patients with hepatic impairment, consider dosage reduction of Dexmedetomidine HCl Injection for initiation of procedural sedation and maintenance of procedural sedation [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+In patients with hepatic impairment, consider dosage reduction of Dexmedetomidine HCl Injection [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.5 Dosage Modifications due to Drug Interactions
 

@@ -17,4 +17,4 @@ Paramus, NJ 07652
 
 Made in Finland
 
-Revised: October 2015
+Revised: September 2016

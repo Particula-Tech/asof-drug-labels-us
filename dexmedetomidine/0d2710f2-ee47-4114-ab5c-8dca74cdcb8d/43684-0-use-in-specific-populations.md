@@ -37,9 +37,18 @@ A lactating woman may consider interrupting breastfeeding and pumping and discar
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of dexmedetomidine HCl have not been established for Procedural Sedation in pediatric patients.
+Safety and efficacy of dexmedetomidine HCl have not been established for Procedural or ICU Sedation in pediatric patients.
 
 ## 8.5 Geriatric Use
+
+Intensive Care Unit Sedation
+
+A total of 729 patients in the clinical studies were 65 years of age and over.
+A total of 200 patients were 75 years of age and over.
+In patients greater than 65 years of age, a higher incidence of bradycardia and hypotension was observed following administration of dexmedetomidine HCl [see Warnings and Precautions (5.1, 5.2)].
+Therefore a dose reduction may be considered in patients over 65 years of age [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+
+Procedural Sedation
 
 A total of 131 patients in the procedural sedation clinical studies were 65 years of age and over.
 A total of 47 patients were 75 years of age and over.
