@@ -14,12 +14,11 @@ In rare cases of hypersensitive patients, broncho/laryngeal spasm accompanied by
 
 The following reactions have been reported at low frequency: emotional depression, rotary nystagmus, sleepiness, vertigo, muscle fatigue, diaphoresis, and respiratory failure.
 
-| Suggested Treatment of Acute Cardiovascular Adverse Reactions* |  |  |
-| --- | --- | --- |
-| The frequency of these adverse reactions was quite low, and experience with their treatment has been limited. |  |  |
-| Adverse Reaction | Proven Effective Treatment | Supportive Treatment |
-| 1. Symptomatic hypotension requiring treatment | Dopamine I.V. Calcium chloride I.V. Norepinephrine bitartrate I.V. Metaraminol bitartrate I.V. Isoproterenol HCl I.V. | Intravenous fluids Trendelenburg position |
-| 2. Bradycardia, AVblock, Asystole | Isoproterenol HCl I.V.Calcium chloride I.V.Norepinephrine bitartrate I.V.Atropine I.V.Cardiac pacing | Intravenous fluids (slow drip) |
-| 3. Rapid ventricular rate (due to antegrade conduction in flutter/fibrillation with W-P-W or L-G-L syndromes) | DC-cardioversion (high energy may be required) Procainamide I.V.Lidocaine I.V. | Intravenous fluids (slow drip) |
+Suggested Treatment of Acute Cardiovascular Adverse ReactionsActual treatment and dosage should depend on the severity of the clinical situation and the judgment and experience of the treating physician.
 
-*Actual treatment and dosage should depend on the severity of the clinical situation and the judgment and experience of the treating physician.
+| The frequency of these adverse reactions was quite low, and experience with their treatment has been limited. |  |  |
+| --- | --- | --- |
+| Adverse Reaction | Proven Effective Treatment | Supportive Treatment |
+| 1.Symptomatic hypotension requiring treatment | Dopamine I.V. Calcium chloride I.V. Norepinephrine bitartrate I.V. Metaraminol bitartrate I.V. Isoproterenol HCl I.V. | Intravenous fluids Trendelenburg position |
+| 2.Bradycardia, AV block, Asystole | Isoproterenol HCl I.V. Calcium chloride I.V. Norepinephrine bitartrate I.V. Atropine I.V. Cardiac pacing | Intravenous fluids (slow drip) |
+| 3.Rapid ventricular rate (due to antegrade conduction in flutter/fibrillation with W-P-W or L-G-L syndromes) | DC-cardioversion (high energy may be required) Procainamide I.V. Lidocaine I.V. | Intravenous fluids (slow drip) |
