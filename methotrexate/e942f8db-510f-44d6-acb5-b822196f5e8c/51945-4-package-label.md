@@ -8,25 +8,15 @@ Trexall®
 
 (methotrexate tablets USP)
 
-5 mg Rx only
+5 mg
 
-Warning: Discontinue or reduce
+PHARMACIST: Please Dispense
 
-dosage immediately at first sign
+With Attached Patient
 
-of ulceration or bleeding in the
+Information Leaflet.
 
-mouth, gastrointestinal ulceration
-
-or bleeding, diarrhea or marked
-
-depression of bone marrow.
-
-PHARMACIST: PLEASE DISPENSE
-
-WITH ATTACHED PATIENT
-
-INFORMATION LEAFLET
+Rx only
 
 30 TABLETS
 
@@ -42,25 +32,15 @@ Trexall®
 
 (methotrexate tablets USP)
 
-7.5 mg Rx only
+7.5 mg
 
-Warning: Discontinue or reduce
+Pharmacist: Please Dispense
 
-dosage immediately at first sign
+With Attached Patient
 
-of ulceration or bleeding in the
+Information Leaflet.
 
-mouth, gastrointestinal ulceration
-
-or bleeding, diarrhea or marked
-
-depression of bone marrow.
-
-PHARMACIST: PLEASE DISPENSE
-
-WITH ATTACHED PATIENT
-
-INFORMATION LEAFLET
+Rx only
 
 30 TABLETS
 
@@ -76,25 +56,15 @@ Trexall®
 
 (methotrexate tablets USP)
 
-10 mg Rx only
+10 mg
 
-Warning: Discontinue or reduce
+Pharmacist: Please Dispense
 
-dosage immediately at first sign
+With Attached Patient
 
-of ulceration or bleeding in the
+Information Leaflet.
 
-mouth, gastrointestinal ulceration
-
-or bleeding, diarrhea or marked
-
-depression of bone marrow.
-
-PHARMACIST: PLEASE DISPENSE
-
-WITH ATTACHED PATIENT
-
-INFORMATION LEAFLET
+Rx only
 
 30 TABLETS
 
@@ -110,25 +80,15 @@ Trexall®
 
 (methotrexate tablets USP)
 
-15 mg Rx only
+15 mg
 
-Warning: Discontinue or reduce
+Pharmacist: Please Dispense
 
-dosage immediately at first sign
+With Attached Patient
 
-of ulceration or bleeding in the
+Information Leaflet.
 
-mouth, gastrointestinal ulceration
-
-or bleeding, diarrhea or marked
-
-depression of bone marrow.
-
-PHARMACIST: PLEASE DISPENSE
-
-WITH ATTACHED PATIENT
-
-INFORMATION LEAFLET
+Rx only
 
 30 TABLETS
 
