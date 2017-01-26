@@ -95,7 +95,7 @@ Risks from Concomitant Use with Opioids: Inform patients and caregivers that pot
 
 effects may occur if Diastat or Diastat AcuDial is used with opioids and not to use such drugs
 
-concomitantly unless supervised by a health care provider (see WARNINGS and PRECAUTIONS,Drug Interactions).
+concomitantly unless supervised by a health care provider (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
 Administration: Prescribers are strongly advised to take all reasonable steps to ensure that caregivers
 
@@ -185,7 +185,7 @@ The clinical significance of this is unclear.
 
 Valproate: Valproate may potentiate the CNS-depressant effects of diazepam.
 
-Effect of Other Drugs on Diazepam Metabolism: In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
+Effect of Other Drugs on Diazepam Metabolism:In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
 Therefore, potential interactions may occur when diazepam is given concurrently with agents that affect CYP2C19 and CYP3A4 activity.
 Potential inhibitors of CYP2C19 (e.g., cimetidine, quinidine, and tranylcypromine) and CYP3A4 (e.g., ketoconazole, troleandomycin, and clotrimazole) could decrease the rate of diazepam elimination, while inducers of CYP2C19 (e.g., rifampin) and CYP3A4 (e.g., carbamazepine, phenytoin, dexamethasone and phenobarbital) could increase the rate of elimination of diazepam.
 
