@@ -65,12 +65,18 @@ Since sedative-hypnotics have the capacity to depress respiratory drive, precaut
 Post-marketing reports of respiratory insufficiency in patients receiving 10 mg of zolpidem tartrate, most of whom had pre-existing respiratory impairment, have been reported.
 The risk of respiratory depression should be considered prior to prescribing zolpidem tartrate extended-release tablets in patients with respiratory impairment including sleep apnea and myasthenia gravis.
 
-## 5.7 Withdrawal Effects
+## 5.7 Precipitation of Hepatic Encephalopathy
+
+GABA agonists such as zolpidem tartrate have been associated with precipitation of hepatic encephalopathy in patients with hepatic insufficiency.
+In addition, patients with hepatic insufficiency do not clear zolpidem tartrate as rapidly as patients with normal hepatic function.
+Avoid zolpidem tartrate extended-release tablets use in patients with severe hepatic impairment as it may contribute to encephalopathy [see DOSAGE AND ADMINISTRATION (2.2), USE IN SPECIFIC POPULATIONS (8.7), CLINICAL PHARMACOLOGY (12.3)].
+
+## 5.8 Withdrawal Effects
 
 There have been reports of withdrawal signs and symptoms following the rapid dose decrease or abrupt discontinuation of zolpidem.
 Monitor patients for tolerance, abuse, and dependence [see DRUG ABUSE AND DEPENDENCE (9.2) and (9.3)].
 
-## 5.8 Severe Injuries
+## 5.9 Severe Injuries
 
 Zolpidem can cause drowsiness and a decreased level of consciousness, which may lead to falls and consequently to severe injuries.
 Severe injuries such as hip fractures and intracranial hemorrhage have been reported.

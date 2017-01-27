@@ -53,7 +53,7 @@ Zolpidem tartrate extended-release tablets were not studied in patients with hep
 The pharmacokinetics of an immediate-release formulation of zolpidem tartrate in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
 Following a single 20-mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng·hr/mL) higher, respectively, in hepatically compromised patients.
 Tmax did not change.
-The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr). Dosing should be modified accordingly in patients with hepatic insufficiency [see DOSAGE AND ADMINISTRATION (2.2)].
+The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr) [see DOSAGE AND ADMINISTRATION (2.2), WARNINGS AND PRECAUTIONS (5.7), USE IN SPECIFIC POPULATIONS (8.7)].
 
 Renal Impairment
 

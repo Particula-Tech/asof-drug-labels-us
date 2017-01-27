@@ -45,7 +45,7 @@ Dizziness was reported in 8% of zolpidem tartrate extended-release tablets-treat
 
 The dose of zolpidem tartrate extended-release tablets in elderly patients is 6.25 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative/hypnotic drugs [see WARNINGS AND PRECAUTIONS (5.1)].
 
-## 8.6 Gender Differences in Pharmacokinetics
+## 8.6 Gender Difference in Pharmacokinetics
 
 Women clear zolpidem tartrate from the body at a lower rate than men.
 Cmax and AUC parameters of zolpidem from zolpidem tartrate extended-release tablets were, respectively, approximately 50% and 75% higher at the same dose in adult female subjects compared to adult male subjects.
@@ -54,3 +54,8 @@ Given the higher blood levels of zolpidem tartrate in women compared to men at a
 
 In geriatric patients, clearance of zolpidem is similar in men and women.
 The recommended dose of zolpidem tartrate extended-release tablets in geriatric patients is 6.25 mg regardless of gender.
+
+## 8.7 Hepatic Impairment
+
+The recommended dose of zolpidem tartrate extended-release tablets in patients with mild to moderate hepatic impairment is 6.25 mg once daily immediately before bedtime.
+Avoid zolpidem tartrate extended-release tablets use in patients with severe hepatic impairment as it may contribute to encephalopathy [see DOSAGE AND ADMINISTRATION (2.2), WARNINGS AND PRECAUTIONS (5.7), CLINICAL PHARMACOLOGY (12.3)].

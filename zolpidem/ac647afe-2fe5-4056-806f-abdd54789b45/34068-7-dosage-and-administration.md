@@ -14,8 +14,15 @@ The recommended initial doses for women and men are different because zolpidem c
 ## 2.2 Special Populations
 
 Elderly or debilitated patients may be especially sensitive to the effects of zolpidem tartrate.
-Patients with hepatic insufficiency do not clear the drug as rapidly as normal subjects.
-The recommended dose of zolpidem tartrate extended-release tablet in both of these patient populations is 6.25 mg once daily immediately before bedtime [see WARNINGS AND PRECAUTIONS (5.1); USE IN SPECIFIC POPULATIONS (8.5)].
+The recommended dose of zolpidem tartrate extended-release tablet in these patient is 6.25 mg once daily immediately before bedtime [see WARNINGS AND PRECAUTIONS (5.1), USE IN SPECIFIC POPULATIONS (8.5)].
+
+Patients with mild to moderate hepatic impairment do not clear the drug as rapidly as normal subjects.
+The recommended dose of zolpidem tartrate extended-release tablets in these patients is 6.25 mg once daily immediately before bedtime.
+Avoid zolpidem tartrate extended-release tablets use in patients with severe hepatic impairment as it may contribute to encephalopathy [see WARNINGS AND PRECAUTIONS (5.7), USE IN SPECIFIC POPULATIONS (8.7), CLINICAL PHARMACOLOGY (12.3)].
+
+Patients with mild to moderate hepatic impairment do not clear the drug as rapidly as normal subjects.
+The recommended dose of zolpidem tartrate extended-release tablets in these patients is 6.25 mg once daily immediately before bedtime.
+Avoid zolpidem tartrate extended-release tablets use in patients with severe hepatic impairment as it may contribute to encephalopathy [see WARNINGS AND PRECAUTIONS (5.7), USE IN SPECIFIC POPULATIONS (8.7), CLINICAL PHARMACOLOGY (12.3)].
 
 ## 2.3 Use with CNS Depressants
 
