@@ -29,10 +29,12 @@ The unknown risks to the infant from gastrointestinal or limited systemic exposu
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Soliris for the treatment of PNH in pediatric patients below the age of 18 years have not been established.
+The safety and effectiveness of Soliris for the treatment of PNH in pediatric patients have not been established.
 
-Four clinical studies assessing the safety and effectiveness of Soliris for the treatment of aHUS included a total of 47 pediatric patients (ages 2 months to 17 years).
-The safety and effectiveness of Soliris for the treatment of aHUS appear similar in pediatric and adult patients [see Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+The safety and effectiveness of Soliris for the treatment of aHUS have been established in pediatric patients.
+Use of Soliris in pediatric patients for this indication is supported by evidence from four adequate and well-controlled clinical studies assessing the safety and effectiveness of Soliris for the treatment of aHUS.
+The studies included a total of 47 pediatric patients (ages 2 months to 17 years).
+The safety and effectiveness of Soliris for the treatment of aHUS appear similar in pediatric and adult patients [Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
 Administer vaccinations for the prevention of infection due to Neisseria meningitidis, Streptococcus pneumoniae and Haemophilus influenza type b (Hib) according to ACIP guidelines [see Warnings and Precautions (5.1, 5.2)].
 

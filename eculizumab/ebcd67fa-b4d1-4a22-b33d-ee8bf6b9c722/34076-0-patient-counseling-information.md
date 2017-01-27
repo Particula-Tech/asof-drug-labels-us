@@ -1,14 +1,20 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patient to read FDA-approved patient labeling (Medication Guide).
+
+Meningococcal Infection
 
 Prior to treatment, patients should fully understand the risks and benefits of Soliris, in particular the risk of meningococcal infection.
 Ensure that patients receive the Medication Guide.
 
-Inform patients that they are required to receive a meningococcal vaccination at least 2 weeks prior to receiving the first dose of Soliris, if they have not previously been vaccinated.
+Inform patients that they are required to receive meningococcal vaccination at least 2 weeks prior to receiving the first dose of Soliris, if they have not previously been vaccinated.
 They are required to be revaccinated according to current medical guidelines for meningococcal vaccine use while on Soliris therapy.
-Inform patients that vaccination may not prevent meningococcal infection.
-Inform patients about the signs and symptoms of meningococcal infection, and strongly advise patients to seek immediate medical attention if these signs or symptoms occur.
+Inform patients that vaccination may not prevent meningococcal infection [see Warnings and Precautions (5.1)].
+
+Signs and Symptoms of Meningococcal Infection
+
+Inform patients s about the signs and symptoms of meningococcal infection, and strongly advise patients to seek immediate medical attention if these signs or symptoms occur.
+
 These signs and symptoms are as follows:
 
 - headache with nausea or vomiting
@@ -23,18 +29,14 @@ These signs and symptoms are as follows:
 Inform patients that they will be given a Soliris Patient Safety Information Card that they should carry with them at all times.
 This card describes symptoms which, if experienced, should prompt the patient to immediately seek medical evaluation.
 
+Other Infections
+
 Inform patients that there may be an increased risk of other types of infections, particularly those due to encapsulated bacteria.
 Additionally, Aspergillus infections have occured in immunocompromised and neutropenic patients.
 Inform parents or caregivers of children receiving Soliris for the treatment of aHUS that their child should be vaccinated against Streptococcus pneumoniae and Haemophilus influenza type b (Hib) according to current medical guidelines.
 
+Discontinuation
+
 Inform patients with PNH that they may develop hemolysis due to PNH when Soliris is discontinued and that they will be monitored by their healthcare professional for at least 8 weeks following Soliris discontinuation.
 Inform patients with aHUS that there is a potential for TMA complications due to aHUS when Soliris is discontinued and that they will be monitored by their healthcare professional for at least 12 weeks following Soliris discontinuation.
 Inform patients who discontinue Soliris to keep the Soliris Patient Safety Information Card with them for three months after the last Soliris dose, because the increased risk of meningococcal infection persists for several weeks following discontinuation of Soliris.
-
-Manufactured by:
-
-Alexion Pharmaceuticals, Inc. 100 College Street New Haven, CT 06510 USA
-
-US License Number 1743
-
-This product, or its use, may be covered by one or more US patents, including US Patent No. 6,355,245 in addition to others including patents pending.

@@ -2,14 +2,14 @@
 
 ## 5.1 Serious Meningococcal Infections
 
-The use of Soliris increases a patient's susceptibility to serious meningococcal infections (septicemia and/or meningitis).
-Life-threatening and fatal meningococcal infections have occurred in patients treated with Soliris.
+Life-threatening and fatal meningococcal infections have occurred in patients treated with Soliris.The use of Soliris increases a patient's susceptibility to serious meningococcal infections (septicemia and/or meningitis).
 
-Administer a polyvalent meningococcal vaccine according to the most current Advisory Committee on Immunization Practices (ACIP) recommendations for patients with complement deficiencies.
+Vaccinate for meningococcal disease according to the most current Advisory Committee on Immunization Practices (ACIP) recommendations for patients with complement deficiencies.
 Revaccinate patients in accordance with ACIP recommendations, considering the duration of Soliris therapy.
 
 Immunize patients without a history of meningococcal vaccination at least 2 weeks prior to receiving the first dose of Soliris.
-If urgent Soliris therapy is indicated in an unvaccinated patient, administer the meningococcal vaccine as soon as possible.
+If urgent Soliris therapy is indicated in an unvaccinated patient, administer meningococcal vaccine(s) as soon as possible.
+
 In prospective clinical studies, 75/100 patients with aHUS were treated with Soliris less than 2 weeks after meningococcal vaccination and 64 of these 75 patients received antibiotics for prophylaxis of meningococcal infection until at least 2 weeks after meningococcal vaccination.
 The benefits and risks of antibiotic prophylaxis for prevention of meningococcal infections in patients receiving Soliris have not been established.
 
@@ -37,7 +37,7 @@ Soliris blocks terminal complement activation; therefore patients may have incre
 Additionally, Aspergillus infections have occurred in immunocompromised and neutropenic patients.
 Children treated with Soliris may be at increased risk of developing serious infections due to Streptococcus pneumoniae and Haemophilus influenza type b (Hib).
 Administer vaccinations for the prevention of Streptococcus pneumoniae and Haemophilus influenza type b (Hib) infections according to ACIP guidelines.
-Use caution when administering Soliris to patients with any systemic infection.
+Use caution when administering Soliris to patients with any systemic infection [see Warnings and Precautions (5.1)].
 
 ## 5.4 Monitoring Disease Manifestations After Soliris Discontinuation
 

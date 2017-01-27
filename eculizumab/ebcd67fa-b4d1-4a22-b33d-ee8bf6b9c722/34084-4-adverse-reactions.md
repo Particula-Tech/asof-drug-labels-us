@@ -30,10 +30,8 @@ Table 4 summarizes the adverse reactions that occurred at a numerically higher r
 
 Table 4: Adverse Reactions Reported in 5% or More of Soliris Treated Patients and Greater than Placebo in the Controlled Clinical Study
 
-| Reaction | Soliris | Placebo |
+| Reaction | Soliris N = 43 N (%) | Placebo N = 44 N (%) |
 | --- | --- | --- |
-|  | N = 43 | N = 44 |
-|  | N (%) | N (%) |
 | Headache | 19 (44) | 12 (27) |
 | Nasopharyngitis | 10 (23) | 8 (18) |
 | Back pain | 8 (19) | 4 (9) |
@@ -67,18 +65,17 @@ Table 5 summarizes all adverse events reported in at least 10% of patients in aH
 
 Table 5: Per Patient Incidence of Adverse Events in 10% or More Adult and Adolescent Patients Enrolled in aHUS Study 1, aHUS Study 2 and aHUS Study 4 Separately and in Total
 
-| MedDRA ver. 15.1 | Number (%) of Patients |  |  |  |
+| MedDRA ver. 15.1 | Study 1 (n=17) | Study 2 (n=20) | Study 4 (n=41) | Total (n=78) |
 | --- | --- | --- | --- | --- |
-|  | Study 1 (n=17) | Study 2 (n=20) | Study 4 (n=41) | Total (n=78) |
+|  |  | Number (%) of Patients |  |  |
 | Vascular Disorders |  |  |  |  |
-| Hypertensiona | 10 (59) | 9 (45) | 7 (17) | 26 (33) |
+| Hypertensionincludes the preferred terms hypertension, accelerated hypertension, and malignant hypertension. | 10 (59) | 9 (45) | 7 (17) | 26 (33) |
 | Hypotension | 2 (12) | 4 (20) | 7 (17) | 13 (17) |
 | Infections and Infestations |  |  |  |  |
 | Bronchitis | 3 (18) | 2 (10) | 4 (10) | 9 (12) |
 | Nasopharyngitis | 3 (18) | 11 (55) | 7 (17) | 21 (27) |
 | Gastroenteritis | 3 (18) | 4 (20) | 2 (5) | 9 (12) |
-| Upper respiratory tract | 5 (29) | 8 (40) | 2 (5) | 15 (19) |
-| infection |  |  |  |  |
+| Upper respiratory tract infection | 5 (29) | 8 (40) | 2 (5) | 15 (19) |
 | Urinary tract infection | 6 (35.3) | 3 (15) | 8 (20) | 17 (22) |
 | Gastrointestinal Disorders |  |  |  |  |
 | Diarrhea | 8 (47) | 8 (40) | 12 (32) | 29 (37) |
@@ -113,8 +110,6 @@ Table 5: Per Patient Incidence of Adverse Events in 10% or More Adult and Adoles
 | Arthralgia | 1 (6) | 2 (10) | 7 (17) | 10 (13) |
 | Back pain | 3 (18) | 3 (15) | 2 (5) | 8 (10) |
 
-a includes the preferred terms hypertension, accelerated hypertension, and malignant hypertension.
-
 In aHUS Studies 1, 2, and 4 combined, 60% (47/78) of patients experienced a serious adverse event (SAE).
 The most commonly reported SAEs were infections (24%), hypertension (5%), chronic renal failure (5%), and renal impairment (5%).
 Five patients discontinued Soliris due to adverse events; three due to worsening renal function, one due to new diagnosis of Systemic Lupus Erythematosus, and one due to meningoccal meningitis.
@@ -127,10 +122,8 @@ Table 6 summarizes all adverse events reported in at least 10% of patients enrol
 
 Table 6: Per Patient Incidence of Adverse Reactions in 10% or More Patients Enrolled in aHUS Study 5
 
-| MedDRA ver. 15.1 |  |  |
+| MedDRA ver. 15.1 | 1 month to <12 yrs (n=18) | Total (n=22) |
 | --- | --- | --- |
-|  | 1 month to <12 yrs | Total |
-|  | (n=18) | (n=22) |
 | Eye Disorders | 3 (17) | 3 (14) |
 | Gastrointestinal Disorders |  |  |
 | Abdominal pain | 6 (33) | 7 (32) |
@@ -168,24 +161,21 @@ The most common (≥15%) adverse events occurring in pediatric patients are pres
 
 Table 7: Adverse Reactions Occurring in at Least 15% of Patients Less than 18 Years of Age Enrolled in aHUS Study 3
 
-| MedDRA ver. 11.0 | Number (%) of Patients |  |  |  |
+| MedDRA ver. 11.0 | < 2 yrs (n=5) | 2 to < 12 yrs (n=10) | 12 to <18 yrs (n=4) | Total (n=19) |
 | --- | --- | --- | --- | --- |
-|  | < 2 yrs | 2 to < 12 yrs | 12 to <18 yrs | Total |
-|  | (n=5) | (n=10) | (n=4) | (n=19) |
+|  | Number (%) of Patients |  |  |  |
 | General Disorders and Administration Site Conditions |  |  |  |  |
 | Pyrexia | 4 (80) | 4 (40) | 1 (25) | 9 (47) |
 | Gastrointestinal Disorders |  |  |  |  |
 | Diarrhea | 1 (20) | 4 (40) | 1 (25) | 6 (32) |
 | Vomiting | 2 (40) | 1 (10) | 1 (25) | 4 (21) |
 | Infections and Infestations |  |  |  |  |
-| Upper respiratory tract infectiona | 2 (40) | 3 (30) | 1 (25) | 6 (32) |
+| Upper respiratory tract infectionincludes the preferred terms upper respiratory tract infection and nasopharyngitis. | 2 (40) | 3 (30) | 1 (25) | 6 (32) |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
 | Cough | 3 (60) | 2 (20) | 0 (0) | 5 (26) |
 | Nasal congestion | 2 (40) | 2 (20) | 0 (0) | 4 (21) |
 | Cardiac Disorders |  |  |  |  |
 | Tachycardia | 2 (40) | 2 (20) | 0 (0) | 4 (21) |
-
-a. includes the preferred terms upper respiratory tract infection and nasopharyngitis.
 
 ## 6.2 Immunogenicity
 

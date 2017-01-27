@@ -1,10 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Healthcare professionals who prescribe Soliris must enroll in the Soliris REMS.
-[see Warnings and Precautions (5.2)].
+Healthcare professionals who prescribe Soliris must enroll in the Soliris REMS [see Warnings and Precautions (5.2)].
 
-Vaccinate patients according to current ACIP guidelines to reduce the risk of serious infection.
-[see Warnings and Precautions (5.1) and (5.2)].
+Vaccinate patients according to current ACIP guidelines to reduce the risk of serious infection [see Warnings and Precautions (5.1) and (5.2)].
 
 Only administer as an intravenous infusion.
 
@@ -16,7 +14,7 @@ Soliris therapy consists of:
 - 900 mg for the fifth dose 1 week later, then
 - 900 mg every 2 weeks thereafter.
 
-Soliris should be administered at the recommended dosage regimen time points, or within two days of these time points [see Warnings and Precautions (5.6)].
+Administer Soliris at the recommended dosage regimen time points, or within two days of these time points [see Warnings and Precautions (5.6)].
 
 ## 2.2 Recommended Dosage Regimen - aHUS
 
@@ -32,13 +30,13 @@ Table 1: Dosing recommendations in patients less than 18 years of age
 
 | Patient Body Weight | Induction | Maintenance |
 | --- | --- | --- |
-| 40 kg and over | 900 mg weekly x 4 doses | 1200 mg at week 5; then 1200 mg every 2 weeks |
-| 30 kg to less than 40 kg | 600 mg weekly x 2 doses | 900 mg at week 3; then 900 mg every 2 weeks |
-| 20 kg to less than 30 kg | 600 mg weekly x 2 doses | 600 mg at week 3; then 600 mg every 2 weeks |
-| 10 kg to less than 20 kg | 600 mg weekly x 1 dose | 300 mg at week 2; then 300 mg every 2 weeks |
-| 5 kg to less than 10 kg | 300 mg weekly x 1 dose | 300 mg at week 2; then 300 mg every 3 weeks |
+| 40 kg and over | 900 mg weekly × 4 doses | 1200 mg at week 5; then 1200 mg every 2 weeks |
+| 30 kg to less than 40 kg | 600 mg weekly × 2 doses | 900 mg at week 3; then 900 mg every 2 weeks |
+| 20 kg to less than 30 kg | 600 mg weekly × 2 doses | 600 mg at week 3; then 600 mg every 2 weeks |
+| 10 kg to less than 20 kg | 600 mg weekly × 1 dose | 300 mg at week 2; then 300 mg every 2 weeks |
+| 5 kg to less than 10 kg | 300 mg weekly × 1 dose | 300 mg at week 2; then 300 mg every 3 weeks |
 
-Soliris should be administered at the recommended dosage regimen time points, or within two days of these time points.
+Administer Soliris at the recommended dosage regimen time points, or within two days of these time points.
 
 Supplemental dosing of Soliris is required in the setting of concomitant support with PE/PI (plasmapheresis or plasma exchange; or fresh frozen plasma infusion) (Table 2).
 
@@ -47,12 +45,12 @@ Table 2: Supplemental dose of Soliris after PE/PI
 | Type of Intervention | Most Recent Soliris Dose | Supplemental Soliris Dose With Each PE/PI Intervention | Timing of Supplemental Soliris Dose |
 | --- | --- | --- | --- |
 | Plasmapheresis or plasma exchange | 300 mg | 300 mg per each plasmapheresis or plasma exchange session | Within 60 minutes after each plasmapheresis or plasma exchange |
-|  | 600 mg or more | 600 mg per each plasmapheresis or plasma exchange session |  |
+| 600 mg or more | 600 mg per each plasmapheresis or plasma exchange session |  |  |
 | Fresh frozen plasma infusion | 300 mg or more | 300 mg per infusion of fresh frozen plasma | 60 minutes prior to each infusion of fresh frozen plasma |
 
 ## 2.3 Preparation and Administration
 
-Soliris must be diluted to a final admixture concentration of 5 mg/mL using the following steps:
+Dilute Soliris to a final admixture concentration of 5 mg/mL using the following steps:
 
 - Withdraw the required amount of Soliris from the vial into a sterile syringe.
 - Transfer the recommended dose to an infusion bag.
@@ -73,13 +71,14 @@ Gently invert the infusion bag containing the diluted Soliris solution to ensure
 Discard any unused portion left in a vial, as the product contains no preservatives.
 
 Prior to administration, the admixture should be allowed to adjust to room temperature [18°-25° C, 64-77° F]. The admixture must not be heated in a microwave or with any heat source other than ambient air temperature.
-The Soliris admixture should be inspected visually for particulate matter and discoloration prior to administration.
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 ## 2.4 Administration
 
 Do Not Administer As An Intravenous Push or Bolus Injection
 
-The Soliris admixture should be administered by intravenous infusion over 35 minutes in adults and 1 to 4 hours in pediatric patients via gravity feed, a syringe-type pump, or an infusion pump.
+Administer the Soliris admixture by intravenous infusion over 35 minutes in adults and 1 to 4 hours in pediatric patients via gravity feed, a syringe-type pump, or an infusion pump.
 Admixed solutions of Soliris are stable for 24 hours at 2-8° C (36-46° F) and at room temperature.
 
 If an adverse reaction occurs during the administration of Soliris, the infusion may be slowed or stopped at the discretion of the physician.

@@ -1,8 +1,4 @@
-MEDICATION GUIDE Soliris® (so-leer-is)
-
-(eculizumab)
-
-_______________________________________
+MEDICATION GUIDE Soliris® (so-leer-is) (eculizumab)
 
 Read the Medication Guide before you start Soliris and before each infusion.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -17,21 +13,20 @@ Soliris can lower the ability of your immune system to fight infections.
 
 Meningococcal infections may quickly become life-threatening and cause death if not recognized and treated early.
 
-1. You must receive a meningococcal vaccine at least 2 weeks before your first dose of Soliris unless you have already had this vaccine.
-   If your doctor decided that urgent treatment with Soliris is needed, you should receive a meningococcal vaccine as soon as possible.
-2. If you had a meningococcal vaccine in the past, you might need a booster dose before starting Soliris.
-   Your doctor will decide if you need another dose of a meningococcal vaccine.
-3. A meningococcal vaccine does not prevent all meningococcal infections.
-   Call your doctor or get emergency medical care right away if you get any of these signs and symptoms of a meningococcal infection:
-
-- headache with nausea or vomiting
-- headache and a fever
-- headache with a stiff neck or stiff back
-- fever
-- fever and a rash
-- confusion
-- muscle aches with flu-like symptoms
-- eyes sensitive to light
+- 1.You must receive meningococcal vaccination at least 2 weeks before your first dose of Soliris unless you have already had this vaccine.
+  If your doctor decided that urgent treatment with Soliris is needed, you should receive meningococcal vaccination as soon as possible.
+- 2.If you had a meningococcal vaccine in the past, you might need additional vaccination before starting Soliris.
+  Your doctor will decide if you need additional meningococcal vaccination.
+- 3.Meningococcal vaccines do not prevent all meningococcal infections.
+  Call your doctor or get emergency medical care right away if you get any of these signs and symptoms of a meningococcal infection:
+  - headache with nausea or vomiting
+  - headache and a fever
+  - headache with a stiff neck or stiff back
+  - fever
+  - fever and a rash
+  - confusion
+  - muscle aches with flu-like symptoms
+  - eyes sensitive to light
 
 Your doctor will give you a Patient Safety Card about the risk of meningococcal infection.
 Carry it with you at all times during treatment and for 3 months after your last Soliris dose.
@@ -74,7 +69,7 @@ Do not receive Soliris if you:
 
 - have a meningococcal infection
 - have not been vaccinated against meningitis infection unless your doctor decides that urgent treatment with Soliris is needed.
-  See “What is the most important information I should know about Soliris?”
+  See "What is the most important information I should know about Soliris?"
 
 What should I tell my doctor before receiving Soliris?
 
@@ -95,42 +90,38 @@ How will I receive Soliris?
 
 - Soliris is given through a vein (I.V. or intravenous infusion) usually over 35 minutes in adults and 1-4 hours in pediatric patients.
   If you have an allergic reaction during your Soliris infusion, your doctor may decide to give Soliris more slowly or stop your infusion.
-- If you are an adult, you will usually receive a Soliris infusion by your doctor: ° weekly for five weeks, the ° every 2 weeks
+- If you are an adult, you will usually receive a Soliris infusion by your doctor:
+  - weekly for five weeks, then
+  - every 2 weeks
 - If you are less than 18 years of age, your doctor will decide how often you will receive Soliris depending on your age and body weight
 - After each infusion, you should be monitored for one hour for allergic reactions.
-  See “What are the possible side effects of Soliris?”
+  See "What are the possible side effects of Soliris?"
 - If you forget or miss a Soliris infusion, call your doctor right away.
 - If you have PNH, your doctor will need to monitor you closely for at least 8 weeks after stopping Soliris.
-  Stopping treatment with Soliris may cause breakdown of your red blood cells due to PNH.
-
-Symptoms or problems that can happen due to red blood cell breakdown include:
-
-- drop in the number of your red blood cell count
-- drop in your platelet count
-- confusion
-- chest pain
-- kidney problems
-- blood clots
-- difficulty breathing
-
+  Stopping treatment with Soliris may cause breakdown of your red blood cells due to PNH.Symptoms or problems that can happen due to red blood cell breakdown include:
+  - drop in the number of your red blood cell count
+  - drop in your platelet count
+  - confusion
+  - chest pain
+  - kidney problems
+  - blood clots
+  - difficulty breathing
 - If you have aHUS, your doctor will need to monitor you closely during and for at least 12 weeks after stopping treatment for signs of worsening aHUS symptoms or problems related to abnormal clotting (thrombotic microangiopathy).
-
-Symptoms or problems that can happen with abnormal clotting may include:
-
-- stroke
-- confusion
-- seizures
-- chest pain (angina)
-- difficulty breathing
-- kidney problems
-- swelling in arms or legs
-- a drop in your platelet count
+  Symptoms or problems that can happen with abnormal clotting may include:
+  - stroke
+  - confusion
+  - seizures
+  - chest pain (angina)
+  - difficulty breathing
+  - kidney problems
+  - swelling in arms or legs
+  - a drop in your platelet count
 
 What are the possible side effects of Soliris?
 
 Soliris can cause serious side effects including:
 
-- See “What is the most important information I should know about Soliris?”
+- See "What is the most important information I should know about Soliris?"
 - Serious allergic reactions.
   Serious allergic reactions can happen during your Soliris infusion.
   Tell your doctor or nurse right away if you get any of these symptoms during your Soliris infusion:
@@ -140,7 +131,7 @@ Soliris can cause serious side effects including:
   - feel faint or pass out
 
 If you have an allergic reaction to Soliris, your doctor may need to infuse Soliris more slowly, or stop Soliris.
-See “How will I receive Soliris?”
+See "How will I receive Soliris?"
 
 Common side effects in people with PNH treated with Soliris include:
 
@@ -188,6 +179,6 @@ Inactive ingredients: sodium phosphate monobasic, sodium phosphate dibasic, sodi
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by Alexion Pharmaceuticals, Inc., 100 College Street, New Haven, CT 06510 USA.
+Manufactured by Alexion Pharmaceuticals, Inc., 352 Knotter Drive, Cheshire, CT 06410 USA.
 
-Revised: 12/2015
+Revised: 01/2017
