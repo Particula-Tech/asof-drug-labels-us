@@ -42,15 +42,13 @@ Pfizer Injectables
 
 1 mL Vial NDC 0009-0417-01
 
-Depo®- Testosterone
-
-testosterone cypionate injection, USP
+Depo®- Testosterone testosterone cypionate injection, USP
 
 200 mg/mL
 
 CIII
 
-For IM use only
+For IM use only Single-dose
 
 Rx only
 
@@ -60,11 +58,9 @@ Pfizer Injectables
 
 NDC 0009-0417-01
 
-One 1 mL Vial
+One 1 mL Vial Single-dose
 
-Depo®- Testosterone
-
-testosterone cypionate injection, USP
+Depo®- Testosterone testosterone cypionate injection, USP
 
 200 mg/mL
 
