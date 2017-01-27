@@ -28,4 +28,4 @@ Protect from moisture.
 
 Dispense in tight, light-resistant container (USP).
 
-T2015-70 April 2015
+T2016-90 January 2017
