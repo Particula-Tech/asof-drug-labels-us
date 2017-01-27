@@ -1,12 +1,12 @@
 # 14 CLINICAL STUDIES
 
 The safety and efficacy of SEEBRI NEOHALER were evaluated in a clinical development program that included 2 dose-ranging trials, 4 efficacy and safety trials of 12 weeks duration (placebo-controlled), and a 52-week long-term safety trial.
-Two of these efficacy and safety trials were conducted in support of the UTIBRON NEOHALER clinical development program, included glycopyrrolate 15.6 mcg BID treatment arms, and are included in the overall safety database.
+Two of these efficacy and safety trials were conducted in support of the UTIBRON NEOHALER clinical development program, included glycopyrrolate 15.6 mcg twice daily (BID) treatment arms, and are included in the overall safety database.
 Therefore, the efficacy of SEEBRI NEOHALER is based primarily on the dose-ranging trials in 471 subjects with COPD and the 2 placebo-controlled confirmatory trials in 867 subjects with COPD.
 
 ## 14.1 Dose Ranging Trial
 
-Dose selection for glycopyrrolate in COPD was supported by a 28-day, randomized, double-blind, placebo-controlled, 2-period, crossover study evaluating 7 doses of glycopyrrolate (15.6 mcg, 31.2 mcg, 62.4 mcg, and 124.8 mcg once-daily and 15.6 mcg, 31.2 mcg, and 62.4 mcg twice-daily) or placebo in 388 subjects with COPD.
+Dose selection for glycopyrrolate in COPD was supported by a 28-day, randomized, double-blind, placebo-controlled, 2-period, crossover study evaluating 7 doses of glycopyrrolate (15.6 mcg, 31.2 mcg, 62.4 mcg, and 124.8 mcg once-daily (QD) and 15.6 mcg, 31.2 mcg, and 62.4 mcg twice-daily) or placebo in 388 subjects with COPD.
 The differences in trough FEV1 from baseline after 28 days compared to placebo for the 15.6 mcg, 31.2 mcg, 62.4 mcg, and 124.8 mcg once-daily and for 15.6 mcg, 31.2 mcg, and 62.4 mcg twice-daily doses were 0.083 L (95% CI: 0.030, 0.136), 0.098 L (0.048, 0.148), 0.090 L (0.038, 0.142), 0.176 L (0.132, 0.220) 0.139 L (0.089, 0.189), 0.167 L (0.115, 0.219), and 0.177 L (0.132, 0.222), respectively.
 The dose-ranging results supported the evaluation of glycopyrrolate 15.6 mcg twice-daily in the confirmatory COPD trials.
 

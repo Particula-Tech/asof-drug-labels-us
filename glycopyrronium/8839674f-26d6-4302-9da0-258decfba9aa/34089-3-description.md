@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 SEEBRI NEOHALER consists of SEEBRI capsules and a NEOHALER device.
-Each SEEBRI capsule contains a dry powder formulation of glycopyrrolate packaged in orange transparent hypromellose (HPMC) capsules for oral inhalation only with the NEOHALER device.
+Each SEEBRI capsule contains a dry powder formulation of glycopyrrolate packaged in orange transparent hypromellose (HPMC) capsules for oral inhalation with the NEOHALER device only.
 
 Each orange transparent HPMC capsule contains 15.6 mcg of glycopyrrolate blended with approximately 25 mg of lactose monohydrate (which contains trace levels of milk protein) and 0.04 mg of magnesium stearate.
 

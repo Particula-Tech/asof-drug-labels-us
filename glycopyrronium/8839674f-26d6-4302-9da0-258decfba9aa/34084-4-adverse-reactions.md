@@ -51,4 +51,4 @@ Additional adverse reactions that occurred with a frequency greater than or equa
 
 The following additional adverse reactions have been identified during worldwide post-approval use of glycopyrrolate, the active ingredient in SEEBRI NEOHALER, at higher than the recommended dose.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These adverse reactions are: angioedema and paradoxical bronchospasm.
+These adverse reactions are: angioedema, paradoxical bronchospasm and dysphonia.
