@@ -2,7 +2,7 @@
 
 NDC 0469-6501-89
 
-Lexiscan® (regadenoson) injection
+LEXISCAN® (regadenoson) injection
 
 0.4 mg/5 mL (0.08 mg/mL) For Intravenous Use Only
 

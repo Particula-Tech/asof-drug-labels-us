@@ -9,34 +9,34 @@ Activation of the A2A adenosine receptor by regadenoson produces coronary vasodi
 
 Coronary Blood Flow
 
-Lexiscan causes a rapid increase in CBF which is sustained for a short duration.
+LEXISCAN causes a rapid increase in CBF which is sustained for a short duration.
 In patients undergoing coronary catheterization, pulsed-wave Doppler ultrasonography was used to measure the average peak velocity (APV) of coronary blood flow before and up to 30 minutes after administration of regadenoson (0.4 mg, intravenously).
 Mean APV increased to greater than twice baseline by 30 seconds and decreased to less than twice the baseline level within 10 minutes [see Clinical Pharmacology (12.3)].
 
 Myocardial uptake of the radiopharmaceutical is proportional to CBF.
-Because Lexiscan increases blood flow in normal coronary arteries with little or no increase in stenotic arteries, Lexiscan causes relatively less uptake of the radiopharmaceutical in vascular territories supplied by stenotic arteries.
-MPI intensity after Lexiscan administration is therefore greater in areas perfused by normal relative to stenosed arteries.
+Because LEXISCAN increases blood flow in normal coronary arteries with little or no increase in stenotic arteries, LEXISCAN causes relatively less uptake of the radiopharmaceutical in vascular territories supplied by stenotic arteries.
+MPI intensity after LEXISCAN administration is therefore greater in areas perfused by normal relative to stenosed arteries.
 
 Effect of Aminophylline
 
-Aminophylline (100 mg, administered by slow iv injection over 60 seconds) injected 1 minute after 0.4 mg Lexiscan in subjects undergoing cardiac catheterization, was shown to shorten the duration of the coronary blood flow response to Lexiscan as measured by pulsed-wave Doppler ultrasonography [see Overdosage (10)].
+Aminophylline (100 mg, administered by slow intravenous injection over 60 seconds) injected 1 minute after 0.4 mg LEXISCAN in patients undergoing cardiac catheterization, was shown to shorten the duration of the coronary blood flow response to LEXISCAN as measured by pulsed-wave Doppler ultrasonography [see Overdosage (10)].
 
 Effect of Caffeine
 
 Ingestion of caffeine decreases the ability to detect reversible ischemic defects.
 In a placebo-controlled, parallel group clinical study, patients with known or suspected myocardial ischemia received a baseline rest/stress MPI followed by a second stress MPI.
-Patients received caffeine or placebo 90 minutes before the second Lexiscan stress MPI.
+Patients received caffeine or placebo 90 minutes before the second LEXISCAN stress MPI.
 Following caffeine administration (200 or 400 mg), the mean number of reversible defects identified was reduced by approximately 60%.
 This decrease was statistically significant [see Drug Interactions (7.1) and Patient Counseling Information (17)].
 
 Hemodynamic Effects
 
-In clinical studies, the majority of patients had an increase in heart rate and a decrease in blood pressure within 45 minutes after administration of Lexiscan.
-Maximum hemodynamic changes after Lexiscan and Adenoscan in Studies 1 and 2 are summarized in Table 4.
+In clinical studies, the majority of patients had an increase in heart rate and a decrease in blood pressure within 45 minutes after administration of LEXISCAN.
+Maximum hemodynamic changes after LEXISCAN and ADENOSCAN in Studies 1 and 2 are summarized in Table 5.
 
-Table 4 Hemodynamic Effects in Studies 1 and 2
+Table 5 Hemodynamic Effects in Studies 1 and 2
 
-| Vital Sign Parameter | Lexiscan N = 1,337 | Adenoscan N = 678 |
+| Vital Sign Parameter | LEXISCAN N = 1,337 | ADENOSCAN N = 678 |
 | --- | --- | --- |
 | Heart Rate |  |  |
 | > 100 bpm | 22% | 13% |
@@ -53,18 +53,44 @@ Table 4 Hemodynamic Effects in Studies 1 and 2
 | ≥ 115 mm Hg | 0.9% | 0.9% |
 | Increase ≥ 30 mm Hg | 0.5% | 1.1% |
 
+Hemodynamic Effects Following Inadequate Exercise
+
+In a clinical study, LEXISCAN was administered for MPI following inadequate exercise stress.
+More patients with LEXISCAN administration three minutes following inadequate exercise stress had an increase in heart rate and a decrease in systolic blood pressure compared with LEXISCAN administered at rest.
+The changes were not associated with any clinically significant adverse reactions.
+Maximum hemodynamic changes are presented in Table 6.
+
+Table 6 Hemodynamic Effects in Inadequate Exercise Stress Study
+
+| Vital Sign Parameter | Group 1 / MPI 1LEXISCAN 3 minutesfollowing exercise(N=575) | Group 2 / MPI 1LEXISCAN 1 hourfollowing exercise(N=567) |
+| --- | --- | --- |
+| Heart Rate |  |  |
+| > 100 bpm | 44% | 31% |
+| Increase > 40 bpm | 5% | 16% |
+| Systolic Blood Pressure |  |  |
+| < 90 mm Hg | 2% | 4% |
+| Decrease > 35 mm Hg | 29% | 10% |
+| ≥ 200 mm Hg | 0.9% | 0.4% |
+| Increase ≥ 50 mm Hg | 2% | 0.4% |
+| ≥ 180 mm Hg and increase of ≥ 20 mm Hg from baseline | 5% | 2% |
+| Diastolic Blood Pressure |  |  |
+| < 50 mm Hg | 3% | 3% |
+| Decrease > 25 mm Hg | 6% | 5% |
+| ≥ 115 mm Hg | 0.7% | 0.4% |
+| Increase ≥ 30 mm Hg | 2% | 1% |
+
 Respiratory Effects
 
 The A2B and A3 adenosine receptors have been implicated in the pathophysiology of bronchoconstriction in susceptible individuals (i.e., asthmatics).
 In in vitro studies, regadenoson has not been shown to have appreciable binding affinity for the A2B and A3 adenosine receptors.
 
-In a randomized, placebo-controlled clinical trial (Study 3) of 999 subjects with a diagnosis, or risk factors for, coronary artery disease and concurrent asthma or COPD, the incidence of respiratory adverse reactions (dyspnea, wheezing) was greater with Lexiscan compared to placebo.
-Moderate (2.5%) or severe (<1%) respiratory reactions were observed more frequently in the Lexiscan group compared to placebo [see Adverse Reactions (6.1)].
+In a randomized, placebo-controlled clinical trial of 999 patients with a diagnosis, or risk factors for, coronary artery disease and concurrent asthma or COPD, the incidence of respiratory adverse reactions (dyspnea, wheezing) was greater with LEXISCAN compared to placebo.
+Moderate (2.5%) or severe (< 1%) respiratory reactions were observed more frequently in the LEXISCAN group compared to placebo [see Adverse Reactions (6.1)].
 
 ## 12.3 Pharmacokinetics
 
-In healthy volunteers, the regadenoson plasma concentration-time profile is multi-exponential in nature and best characterized by 3-compartment model.
-The maximal plasma concentration of regadenoson is achieved within 1 to 4 minutes after injection of Lexiscan and parallels the onset of the pharmacodynamic response.
+In healthy subjects, the regadenoson plasma concentration-time profile is multi-exponential in nature and best characterized by 3-compartment model.
+The maximal plasma concentration of regadenoson is achieved within 1 to 4 minutes after injection of LEXISCAN and parallels the onset of the pharmacodynamic response.
 The half-life of this initial phase is approximately 2 to 4 minutes.
 An intermediate phase follows, with a half-life on average of 30 minutes coinciding with loss of the pharmacodynamic effect.
 The terminal phase consists of a decline in plasma concentration with a half-life of approximately 2 hours [see Clinical Pharmacology (12.2)].
@@ -73,15 +99,15 @@ Within the dose range of 0.3–20 µg/kg in healthy subjects, clearance, termina
 A population pharmacokinetic analysis including data from subjects and patients demonstrated that regadenoson clearance decreases in parallel with a reduction in creatinine clearance and clearance increases with increased body weight.
 Age, gender, and race have minimal effects on the pharmacokinetics of regadenoson.
 
-Special Populations
+Specific Populations
 
-Renally Impaired Patients: The disposition of regadenoson was studied in 18 subjects with various degrees of renal function and in 6 healthy subjects.
+Renally Impaired Patients: The disposition of regadenoson was studied in 18 patients with various degrees of renal function and in 6 healthy subjects.
 With increasing renal impairment, from mild (CLcr 50 to < 80 mL/min) to moderate (CLcr 30 to < 50 mL/min) to severe renal impairment (CLcr < 30 mL/min), the fraction of regadenoson excreted unchanged in urine and the renal clearance decreased, resulting in increased elimination half-lives and AUC values compared to healthy subjects (CLcr ≥ 80 mL/min).
 However, the maximum observed plasma concentrations as well as volumes of distribution estimates were similar across the groups.
 The plasma concentration-time profiles were not significantly altered in the early stages after dosing when most pharmacologic effects are observed.
 No dose adjustment is needed in patients with renal impairment.
 
-Patients with End Stage Renal Disease: The pharmacokinetics of regadenoson in patients on dialysis has not been assessed.
+Patients with End Stage Renal Disease: The pharmacokinetics of regadenoson in patients on dialysis has not been assessed; however, in an in vitro study regadenoson was found to be dialyzable.
 
 Hepatically Impaired Patients: The influence of hepatic impairment on the pharmacokinetics of regadenoson has not been evaluated.
 Because greater than 55% of the dose is excreted in the urine as unchanged drug and factors that decrease clearance do not affect the plasma concentration in the early stages after dosing when clinically meaningful pharmacologic effects are observed, no dose adjustment is needed in patients with hepatic impairment.
@@ -96,5 +122,5 @@ Incubation with rat, dog, and human liver microsomes as well as human hepatocyte
 
 Excretion
 
-In healthy volunteers, 57% of the regadenoson dose is excreted unchanged in the urine (range 19–77%), with an average plasma renal clearance around 450 mL/min, i.e., in excess of the glomerular filtration rate.
+In healthy volunteers, 57% of the regadenoson dose is excreted unchanged in the urine (range 19-77%), with an average plasma renal clearance around 450 mL/min, i.e., in excess of the glomerular filtration rate.
 This indicates that renal tubular secretion plays a role in regadenoson elimination.
