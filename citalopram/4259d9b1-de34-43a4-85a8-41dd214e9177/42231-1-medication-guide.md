@@ -275,9 +275,12 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: October 2016
+Revised: January 2017
 
 Distributed by: Allergan USA, Inc. Irvine, CA 92612 Licensed from H. Lundbeck A/S
 
-© 2016 Allergan.
+© 2017 Allergan.
 All rights reserved.
+
+Rev.
+January 2017

@@ -20,9 +20,12 @@ Assays of DDCT plasma concentrations in 2020 citalopram-treated individuals demo
 While DDCT is ordinarily present in humans at lower levels than in dogs, it is unknown whether there are individuals who may achieve higher DDCT levels.
 The possibility that DCT, a principal metabolite in humans, may prolong the QT interval in dogs has not been directly examined because DCT is rapidly converted to DDCT in that species.
 
-Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045 USA
+Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
-Licensed from H. Lundbeck A/S Rev.
-July 2014
+Licensed from H. Lundbeck A/S
 
-© 2009, 2011, 2012, 2013, 2014 Forest Laboratories, Inc.
+© 2017 Allergan.
+All rights reserved.
+
+Rev.
+January 2017
