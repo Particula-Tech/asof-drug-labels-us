@@ -1,37 +1,23 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
-
-NDC 68180-351-06
-
 Sertraline Tablets USP, 25 mg
-
-Each film-coated tablet contains sertraline hydrochloride USP equivalent to 25 mg of sertraline.
 
 Rx only
 
-30 Tablets
+100 Tablets
 
-LUPIN
-
-NDC 68180-352-06
+NDC 68180-351-01
 
 Sertraline Tablets USP, 50 mg
 
-Each film-coated tablet contains sertraline hydrochloride USP equivalent to 50 mg of sertraline.
-
 Rx only
 
-30 Tablets
+100 Tablets
 
-LUPIN
-
-NDC 68180-353-06
+NDC 68180-352-01
 
 Sertraline Tablets USP, 100 mg
 
-Each film-coated tablet contains sertraline hydrochloride USP equivalent to 100 mg of sertraline.
-
 Rx only
 
-30 Tablets
+100 Tablets
 
-LUPIN
+NDC 68180-353-01
