@@ -220,6 +220,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-75059928
+75060178
 
-Revised: 10/2016 MX:ESOME:R4mmh
+Revised: 1/2017 MX:ESOME:R5mmh

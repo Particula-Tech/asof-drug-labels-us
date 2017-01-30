@@ -59,7 +59,7 @@ Omeprazole given in oral doses of 30 mg or 40 mg for 2 to 4 weeks had no effect 
 ### Absorption
 
 Esomeprazole magnesium delayed-release capsules contain an enteric-coated pellet formulation of esomeprazole magnesium.
-After oral administration peak plasma levels (Cmax) occur at approximately 1.5 hours (Tmax).
+After oral administration, peak plasma levels (Cmax) occur at approximately 1.5 hours (Tmax).
 The Cmax increases proportionally when the dose is increased, and there is a 3-fold increase in the area under the plasma concentration-time curve (AUC) from 20 mg to 40 mg.
 At repeated once daily dosing with 40 mg, the systemic bioavailability is approximately 90% compared to 64% after a single dose of 40 mg.
 The mean exposure (AUC) to esomeprazole increases from 4.32 μmol*hr/L on Day 1 to 11.2 μmol*hr/L on Day 5 after 40 mg once daily dosing.
@@ -85,7 +85,9 @@ Esomeprazole is 97% bound to plasma proteins.
 Plasma protein binding is constant over the concentration range of 2 to 20 μmol/L.
 The apparent volume of distribution at steady state in healthy volunteers is approximately 16 L.
 
-### Metabolism
+### Elimination
+
+#### Metabolism
 
 Esomeprazole is extensively metabolized in the liver by the cytochrome P450 (CYP) enzyme system.
 The metabolites of esomeprazole lack antisecretory activity.
@@ -96,32 +98,32 @@ At steady state, the ratio of AUC in Poor Metabolizers to AUC in the rest of the
 
 Following administration of equimolar doses, the S- and R-isomers are metabolized differently by the liver, resulting in higher plasma levels of the S- than of the R-isomer.
 
-### Excretion
+#### Excretion
 
 The plasma elimination half-life of esomeprazole is approximately 1 to 1.5 hours.
 Less than 1% of parent drug is excreted in the urine.
 Approximately 80% of an oral dose of esomeprazole is excreted as inactive metabolites in the urine, and the remainder is found as inactive metabolites in the feces.
 
-### Pharmacokinetics
-
-#### Concomitant Use with Clopidogrel
+### Concomitant Use with Clopidogrel
 
 Results from a cross-over study in healthy subjects have shown a pharmacokinetic interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and esomeprazole (40 mg p.o. once daily) when co-administered for 30 days.
 Exposure to the active metabolite of clopidogrel was reduced by 35% to 40% over this time period.
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite.
 
-#### Concomitant Use with Mycophenolate Mofetil
+### Concomitant Use with Mycophenolate Mofetil
 
 Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
 
-### Special Populations
+### Specific Populations
 
-#### Geriatric
+#### Age: Geriatric Population
 
 The AUC and Cmax values were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
 Dosage adjustment based on age is not necessary.
 
-#### 1 to 11 Years of Age
+#### Age: Pediatric Population
+
+##### 1 to 11 Years of Age
 
 The pharmacokinetics of esomeprazole were studied in pediatric patients with GERD aged 1 to 11 years.
 Following once daily dosing for 5 days, the total exposure (AUC) for the 10 mg dose in patients aged 6 to 11 years was similar to that seen with the 20 mg dose in adults and adolescents aged 12 to 17 years.
@@ -129,7 +131,7 @@ The total exposure for the 10 mg dose in patients aged 1 to 5 years was approxim
 The total exposure for the 20 mg dose in patients aged 6 to 11 years was higher than that observed with the 20 mg dose in 12 to 17 year-olds and adults, but lower than that observed with the 40 mg dose in 12 to 17 year-olds and adults.
 See Table 6.
 
-Table 6: Summary of PK Parameters in 1 to 11 Year Olds with GERD following 5 Days of Once Daily Oral Esomeprazole Treatment
+Table 6: Summary of PK Parameters in 1 to 11 Year Olds with GERD Following 5 Days of Once Daily Oral Esomeprazole Treatment
 
 |  | 1 to 5 Year Olds | 6 to 11 Year Olds |  |
 | --- | --- | --- | --- |
@@ -140,7 +142,7 @@ Table 6: Summary of PK Parameters in 1 to 11 Year Olds with GERD following 5 Day
 | t½λz (h) | 0.74 | 0.88 | 0.73 |
 | Cl/F (L/h) | 5.99 | 7.84 | 9.22 |
 
-#### 12 to 17 Years of Age
+##### 12 to 17 Years of Age
 
 The pharmacokinetics of esomeprazole were studied in 28 adolescent patients with GERD aged 12 to 17 years inclusive, in a single center study.
 Patients were randomized to receive esomeprazole magnesium delayed-release capsules 20 mg or 40 mg once daily for 8 days.
@@ -167,10 +169,10 @@ Dosage adjustment based on gender is not necessary.
 
 #### Hepatic Insufficiency
 
-The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child Pugh A), moderate (Child Pugh Class B), and severe (Child Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
+The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child-Pugh Class A), moderate (Child-Pugh Class B), and severe (Child-Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
 In patients with mild and moderate hepatic insufficiency, the AUCs were within the range that could be expected in patients with normal liver function.
 In patients with severe hepatic insufficiency the AUCs were 2 to 3 times higher than in the patients with normal liver function.
-No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2)].
+No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child-Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child-Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2)].
 
 #### Renal Insufficiency
 

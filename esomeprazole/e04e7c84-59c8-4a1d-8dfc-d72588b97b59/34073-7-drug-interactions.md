@@ -15,7 +15,7 @@ Other possible interaction mechanisms are via CYP2C19.
 
 For some antiretroviral drugs, such as atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole.
 Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg daily), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75% respectively for nelfinavir and M8.
-Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hr before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
+Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hours before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
 Concomitant administration with omeprazole and drugs such as atazanavir and nelfinavir is therefore not recommended.
 
 ### Increased Concentrations of Saquinavir
@@ -61,10 +61,10 @@ Avoid concomitant administration of esomeprazole magnesium delayed-release capsu
 When using esomeprazole magnesium delayed-release capsules, consider use of alternative anti-platelet therapy [see Clinical Pharmacology (12.3)].
 
 Omeprazole acts as an inhibitor of CYP2C19.
-Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
-Cmax and AUC of one of its active metabolites, 3,4-dihydrocilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69% respectively.
+Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26%, respectively.
+Cmax and AUC of one of its active metabolites, 3,4-dihydrocilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69%, respectively.
 Co-administration of cilostazol with esomeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
-Therefore a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
+Therefore, a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
 
 Concomitant administration of esomeprazole and a combined inhibitor of CYP2C19 and CYP3A4, such as voriconazole, may result in more than doubling of the esomeprazole exposure.
 Dose adjustment of esomeprazole is not normally required.
