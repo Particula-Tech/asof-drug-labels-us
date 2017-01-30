@@ -1,4 +1,4 @@
-# WARNING:​ PERMANENT VISION LOSS
+# WARNING: PERMANENT VISION LOSS
 
 - SABRIL can cause permanent bilateral concentric visual field constriction, including tunnel vision that can result in disability.
   In some cases, SABRIL also can damage the central retina and may decrease visual acuity [see Warnings and Precautions (5.1)]
