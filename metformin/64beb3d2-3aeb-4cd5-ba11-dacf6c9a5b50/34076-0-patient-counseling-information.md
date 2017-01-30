@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Instructions
 
@@ -12,6 +12,7 @@ The risks of lactic acidosis due to the metformin component, its symptoms, and c
 Patients should be advised to discontinue JANUMET XR immediately and to promptly notify their health practitioner if unexplained hyperventilation, myalgia, malaise, unusual somnolence, dizziness, slow or irregular heart beat, sensation of feeling cold (especially in the extremities) or other nonspecific symptoms occur.
 Gastrointestinal symptoms are common during initiation of metformin treatment and may occur during initiation of JANUMET XR therapy; however, patients should consult their physician if they develop unexplained symptoms.
 Although gastrointestinal symptoms that occur after stabilization are unlikely to be drug related, such an occurrence of symptoms should be evaluated to determine if it may be due to lactic acidosis or other serious disease.
+Instruct patients to inform their doctor that they are taking JANUMET XR prior to any surgical or radiological procedure, as temporary discontinuation of JANUMET XR may be required until renal function has been confirmed to have returned to its prior level [see Warnings and Precautions (5.1)].
 
 Patients should be advised to notify their health practitioner or call the Poison Control Center immediately in case of JANUMET XR overdose.
 
@@ -30,7 +31,10 @@ If symptoms of allergic reactions (including rash, hives, and swelling of the fa
 
 Inform patients that severe and disabling joint pain may occur with this class of drugs.
 The time to onset of symptoms can range from one day to years.
-Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.15)].
+Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.9)].
+
+Inform patients that bullous pemphigoid may occur with this class of drugs.
+Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.10)].
 
 Patients should be informed that the tablets must be swallowed whole and never split, crushed or chewed.
 
@@ -53,6 +57,6 @@ Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Wh
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2012-2017 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0431a-xrt-1508r007
+uspi-mk0431a-xrt-1701r009

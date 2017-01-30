@@ -50,9 +50,8 @@ Safety and effectiveness of JANUMET XR in pediatric patients under 18 years have
 
 JANUMET XR
 
-Because sitagliptin and metformin are substantially excreted by the kidney, and because aging can be associated with reduced renal function, JANUMET XR should be used with caution as age increases.
-Care should be taken in dose selection and should be based on careful and regular monitoring of renal function.
-[See Warnings and Precautions (5.1, 5.4); Clinical Pharmacology (12.3).]
+Because sitagliptin and metformin are substantially excreted by the kidney, and because aging can be associated with reduced renal function, renal function should be assessed more frequently in elderly patients.
+[See Warnings and Precautions (5.1, 5.3); Clinical Pharmacology (12.3).]
 
 Sitagliptin
 
@@ -63,7 +62,19 @@ While this and other reported clinical experience have not identified difference
 Metformin hydrochloride
 
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
-Metformin should only be used in patients with normal renal function.
-The initial and maintenance dosing of metformin should be conservative in patients with advanced age, due to the potential for decreased renal function in this population.
-Any dose adjustment should be based on a careful assessment of renal function.
-[See Contraindications (4); Warnings and Precautions (5.4); Clinical Pharmacology (12.3).]
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
+Assess renal function more frequently in elderly patients.
+[See Contraindications (4); Warnings and Precautions (5.3); Clinical Pharmacology (12.3).]
+
+## 8.6 Renal Impairment
+
+Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
+JANUMET XR is contraindicated in severe renal impairment, patients with an eGFR below 30 mL/min/1.73 m2.
+[See Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3).]
+The dose of the sitagliptin component should be limited to 50 mg once daily if eGFR falls below 45 mL/min/1.73m2.
+
+## 8.7 Hepatic Impairment
+
+Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
+JANUMET XR is not recommended in patients with hepatic impairment.
+[See Warnings and Precautions (5.1).]

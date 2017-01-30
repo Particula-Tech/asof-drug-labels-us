@@ -4,39 +4,68 @@
 
 Metformin hydrochloride
 
-Lactic acidosis is a serious, metabolic complication that can occur due to metformin accumulation during treatment with JANUMET XR and is fatal in approximately 50% of cases.
-Lactic acidosis may also occur in association with a number of pathophysiologic conditions, including diabetes mellitus, and whenever there is significant tissue hypoperfusion and hypoxemia.
-Lactic acidosis is characterized by elevated blood lactate concentrations (>5 mmol/L), decreased blood pH, electrolyte disturbances with an increased anion gap, and an increased lactate/pyruvate ratio.
-When metformin is implicated as the cause of lactic acidosis, metformin plasma levels >5 μg/mL are generally found.
-The reported incidence of lactic acidosis in patients receiving metformin hydrochloride is approximately 0.03 cases/1000 patient-years, with approximately 0.015 fatal cases/1000 patient-years.
-In more than 20,000 patient-years exposure to metformin in clinical trials, there were no reports of lactic acidosis.
-Reported cases have occurred primarily in diabetic patients with significant renal impairment, including both intrinsic renal disease and renal hypoperfusion, often in the setting of multiple concomitant medical/surgical problems and multiple concomitant medications.
-Patients with congestive heart failure requiring pharmacologic management, in particular those with unstable or acute congestive heart failure who are at risk of hypoperfusion and hypoxemia, are at increased risk of lactic acidosis.
-The risk of lactic acidosis increases with the degree of renal dysfunction and the patient's age.
-The risk of lactic acidosis may, therefore, be significantly decreased by regular monitoring of renal function in patients taking JANUMET XR.
-In particular, treatment of the elderly should be accompanied by careful monitoring of renal function.
-JANUMET XR treatment should not be initiated in any patient unless measurement of creatinine clearance demonstrates that renal function is not reduced.
-In addition, JANUMET XR should be promptly withheld in the presence of any condition associated with hypoxemia, dehydration, or sepsis.
-Because impaired hepatic function may significantly limit the ability to clear lactate, JANUMET XR should generally be avoided in patients with clinical or laboratory evidence of hepatic impairment.
-Patients should be cautioned against excessive alcohol intake when taking JANUMET XR, because alcohol potentiates the effects of metformin on lactate metabolism.
-In addition, JANUMET XR should be temporarily discontinued prior to any intravascular radiocontrast study and for any surgical procedure necessitating restricted intake of food or fluids.
-Use of topiramate, a carbonic anhydrase inhibitor, in epilepsy and migraine prophylaxis may frequently cause dose-dependent metabolic acidosis (in controlled trials, 32% and 67% for adjunctive treatment in adults and pediatric patients, respectively, and 15 to 25% for monotherapy of epilepsy, with decrease in serum bicarbonate to less than 20 mEq/L; 3% and 11% for adjunctive treatment in adults and pediatric patients, respectively, and 1 to 7% for monotherapy of epilepsy, with decrease in serum bicarbonate to less than 17 mEq/L) and may exacerbate the risk of metformin-induced lactic acidosis.
-[See Drug Interactions (7.1); Clinical Pharmacology (12).]
-The onset of lactic acidosis often is subtle, and accompanied only by nonspecific symptoms such as malaise, myalgias, respiratory distress, increasing somnolence, and nonspecific abdominal distress.
-There may be associated hypothermia, hypotension, and resistant bradyarrhythmias with more marked acidosis.
+There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases.
+These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
+Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate/pyruvate ratio; metformin plasma levels were generally >5 mcg/mL.
+Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
-Patients should be educated to promptly report these symptoms to their physician should they occur.
-If present, JANUMET XR should be withdrawn until lactic acidosis is ruled out.
-Serum electrolytes, ketones, blood glucose, blood pH, lactate levels, and blood metformin levels may be useful.
-Once a patient is stabilized on any dose level of JANUMET XR, gastrointestinal symptoms, which are common during initiation of therapy, are unlikely to recur.
-Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
-Levels of fasting venous plasma lactate above the upper limit of normal but less than 5 mmol/L in patients taking JANUMET XR do not necessarily indicate impending lactic acidosis and may be explainable by other mechanisms, such as poorly-controlled diabetes or obesity, vigorous physical activity, or technical problems in sample handling.
-Lactic acidosis should be suspected in any diabetic patient with metabolic acidosis lacking evidence of ketoacidosis (ketonuria and ketonemia).
-Lactic acidosis is a medical emergency that must be treated in a hospital setting.
-In a patient with lactic acidosis who is taking JANUMET XR, the drug should be discontinued immediately and general supportive measures promptly instituted.
-Because metformin hydrochloride is dialyzable (with a clearance of up to 170 mL/min under good hemodynamic conditions), prompt hemodialysis is recommended to correct the acidosis and remove the accumulated metformin.
-Such management often results in prompt reversal of symptoms and recovery.
-[See Contraindications (4).]
+If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of JANUMET XR.
+In JANUMET XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions).
+Hemodialysis has often resulted in reversal of symptoms and recovery.
+
+Educate patients and their families about the symptoms of lactic acidosis, and if these symptoms occur instruct them to discontinue JANUMET XR and report these symptoms to their healthcare provider.
+
+For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
+
+Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
+Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)]:
+
+- Before initiating JANUMET XR, obtain an estimated glomerular filtration rate (eGFR).
+- JANUMET XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2.
+  Discontinue JANUMET XR if the patient's eGFR later falls below 30 mL/min/1.73 m2 [see Contraindications (4)].
+- Initiation of JANUMET XR is not recommended in patients with eGFR between 30 and 45 mL/min/1.73 m2.
+- In patients taking JANUMET XR whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy.
+- Obtain an eGFR at least annually in all patients taking JANUMET XR.
+  In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
+
+Drug Interactions
+
+The concomitant use of JANUMET XR with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation [see Drug Interactions (7)].
+Therefore, consider more frequent monitoring of patients.
+
+Age 65 or Greater
+
+The risk of metformin-associated lactic acidosis increases with the patient's age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
+Assess renal function more frequently in elderly patients [see Use in Specific Populations (8.5)].
+
+Radiological Studies with Contrast
+
+Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis.
+Stop JANUMET XR at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of hepatic impairment, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Re-evaluate eGFR 48 hours after the imaging procedure, and restart JANUMET XR if renal function is stable.
+
+Surgery and Other Procedures
+
+Withholding of food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension and renal impairment.
+JANUMET XR should be temporarily discontinued while patients have restricted food and fluid intake.
+
+Hypoxic States
+
+Several of the postmarketing cases of metformin-associated lactic acidosis occurred in the setting of acute congestive heart failure (particularly when accompanied by hypoperfusion and hypoxemia).
+Cardiovascular collapse (shock), acute myocardial infarction, sepsis, and other conditions associated with hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia.
+When such events occur, discontinue JANUMET XR.
+
+Excessive Alcohol Intake
+
+Alcohol potentiates the effect of metformin on lactate metabolism and this may increase the risk of metformin-associated lactic acidosis.
+Warn patients against excessive alcohol intake while receiving JANUMET XR.
+
+Hepatic Impairment
+
+Patients with hepatic impairment have developed with cases of metformin-associated lactic acidosis.
+This may be due to impaired lactate clearance resulting in higher lactate blood levels.
+Therefore, avoid use of JANUMET XR in patients with clinical or laboratory evidence of hepatic disease.
 
 ## 5.2 Pancreatitis
 
@@ -45,29 +74,21 @@ After initiation of JANUMET XR, patients should be observed carefully for signs 
 If pancreatitis is suspected, JANUMET XR should promptly be discontinued and appropriate management should be initiated.
 It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using JANUMET XR.
 
-## 5.3 Impaired Hepatic Function
-
-Since impaired hepatic function has been associated with some cases of lactic acidosis, JANUMET XR should generally be avoided in patients with clinical or laboratory evidence of hepatic disease.
-
-## 5.4 Assessment of Renal Function
+## 5.3 Assessment of Renal Function
 
 Metformin and sitagliptin are substantially excreted by the kidney.
 
 Metformin hydrochloride
 
-The risk of metformin accumulation and lactic acidosis increases with the degree of impairment of renal function.
-Therefore, JANUMET XR is contraindicated in patients with renal impairment.
-
-Before initiation of JANUMET XR and at least annually thereafter, renal function should be assessed and verified as normal.
-In patients in whom development of renal dysfunction is anticipated (e.g., elderly), renal function should be assessed more frequently and JANUMET XR discontinued if evidence of renal impairment is present.
+JANUMET XR is contraindicated in patients with severe renal impairment [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Sitagliptin
 
 There have been postmarketing reports of worsening renal function in patients taking sitagliptin with or without metformin, including acute renal failure, sometimes requiring dialysis.
-Before initiation of therapy with JANUMET XR and at least annually thereafter, renal function should be assessed and verified as normal.
+Before initiation of therapy with JANUMET XR and at least annually thereafter, renal function should be assessed.
 In patients in whom development of renal dysfunction is anticipated, particularly in elderly patients, renal function should be assessed more frequently and JANUMET XR discontinued if evidence of renal impairment is present.
 
-## 5.5 Vitamin B12 Levels
+## 5.4 Vitamin B12 Levels
 
 In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or Vitamin B12 supplementation.
@@ -77,27 +98,18 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 Certain individuals (those with inadequate Vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal Vitamin B12 levels.
 In these patients, routine serum Vitamin B12 measurements at two- to three-year intervals may be useful.
 
-## 5.6 Alcohol Intake
-
-Alcohol potentiates the effect of metformin on lactate metabolism.
-Patients should be warned against excessive alcohol intake while receiving JANUMET XR.
-
-## 5.7 Surgical Procedures
-
-Use of JANUMET XR should be temporarily suspended for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and should not be restarted until the patient's oral intake has resumed and renal function has been evaluated as normal.
-
-## 5.8 Change in Clinical Status of Patients with Previously Controlled Type 2 Diabetes
+## 5.5 Change in Clinical Status of Patients with Previously Controlled Type 2 Diabetes
 
 A patient with type 2 diabetes previously well controlled on JANUMET XR who develops laboratory abnormalities or clinical illness (especially vague and poorly defined illness) should be evaluated promptly for evidence of ketoacidosis or lactic acidosis.
 Evaluation should include serum electrolytes and ketones, blood glucose and, if indicated, blood pH, lactate, pyruvate, and metformin levels.
 If acidosis of either form occurs, JANUMET XR must be stopped immediately and other appropriate corrective measures initiated.
 
-## 5.9 Use with Medications Known to Cause Hypoglycemia
+## 5.6 Use with Medications Known to Cause Hypoglycemia
 
 Sitagliptin
 
 When sitagliptin was used in combination with a sulfonylurea or with insulin, medications known to cause hypoglycemia, the incidence of hypoglycemia was increased over that of placebo used in combination with a sulfonylurea or with insulin [see Adverse Reactions (6)].
-Therefore, patients also receiving an insulin secretagogue (e.g., sulfonylurea) or insulin may require a lower dose of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Dosage and Administration (2.1)].
+Therefore, patients also receiving an insulin secretagogue (e.g., sulfonylurea) or insulin may require a lower dose of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Drug Interactions (7.4)].
 
 Metformin hydrochloride
 
@@ -105,27 +117,13 @@ Hypoglycemia does not occur in patients receiving metformin alone under usual ci
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 
-## 5.10 Concomitant Medications Affecting Renal Function or Metformin Disposition
-
-Concomitant medication(s) that may affect renal function or result in significant hemodynamic change or may interfere with the disposition of metformin, such as cationic drugs that are eliminated by renal tubular secretion [see Drug Interactions (7.2)], should be used with caution.
-
-## 5.11 Radiologic Studies with Intravascular Iodinated Contrast Materials
-
-Intravascular contrast studies with iodinated materials (for example, intravenous urogram, intravenous cholangiography, angiography, and computed tomography (CT) scans with intravascular contrast materials) can lead to acute alteration of renal function and have been associated with lactic acidosis in patients receiving metformin [see Contraindications (4)].
-Therefore, in patients in whom any such study is planned, JANUMET XR should be temporarily discontinued at the time of or prior to the procedure, and withheld for 48 hours subsequent to the procedure and reinstituted only after renal function has been re-evaluated and found to be normal.
-
-## 5.12 Hypoxic States
-
-Cardiovascular collapse (shock) from whatever cause, acute congestive heart failure, acute myocardial infarction and other conditions characterized by hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia.
-When such events occur in patients on JANUMET XR therapy, the drug should be promptly discontinued.
-
-## 5.13 Loss of Control of Blood Glucose
+## 5.7 Loss of Control of Blood Glucose
 
 When a patient stabilized on any diabetic regimen is exposed to stress such as fever, trauma, infection, or surgery, a temporary loss of glycemic control may occur.
 At such times, it may be necessary to withhold JANUMET XR and temporarily administer insulin.
 JANUMET XR may be reinstituted after the acute episode is resolved.
 
-## 5.14 Hypersensitivity Reactions
+## 5.8 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with sitagliptin, one of the components of JANUMET XR.
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome.
@@ -135,7 +133,7 @@ If a hypersensitivity reaction is suspected, discontinue JANUMET XR, assess for 
 
 Use caution in a patient with a history of angioedema to another dipeptidyl peptidase-4 (DPP4) inhibitor because it is unknown whether such patients will be predisposed to angioedema with JANUMET XR.
 
-## 5.15 Severe and Disabling Arthralgia
+## 5.9 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
@@ -143,6 +141,13 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.16 Macrovascular Outcomes
+## 5.10 Bullous Pemphigoid
+
+Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
+In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
+Tell patients to report development of blisters or erosions while receiving JANUMET XR.
+If bullous pemphigoid is suspected, JANUMET XR should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
+
+## 5.11 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUMET XR or any other anti-diabetic drug.

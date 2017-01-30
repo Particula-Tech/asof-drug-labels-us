@@ -23,9 +23,21 @@ If a patient reports repeatedly seeing tablets in feces, the healthcare provider
 The 100 mg sitagliptin/1000 mg metformin hydrochloride extended-release tablet should be taken as a single tablet once daily.
 Patients using two JANUMET XR tablets (such as two 50 mg sitagliptin/500 mg metformin hydrochloride extended-release tablets or two 50 mg sitagliptin/1000 mg metformin hydrochloride extended-release tablets) should take the two tablets together once daily.
 
-Patients treated with an insulin secretagogue or insulin
-
-Coadministration of JANUMET XR with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.9)].
-
 No studies have been performed specifically examining the safety and efficacy of JANUMET XR in patients previously treated with other oral antihyperglycemic agents and switched to JANUMET XR.
 Any change in therapy of type 2 diabetes should be undertaken with care and appropriate monitoring as changes in glycemic control can occur.
+
+## 2.2 Recommendations for Use in Renal Impairment
+
+Assess renal function prior to initiation of JANUMET XR and periodically thereafter.
+
+JANUMET XR is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2.
+Discontinue JANUMET XR if the patient's eGFR later falls below 30 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.1)].
+
+Initiation of JANUMET XR in patients with an eGFR between 30 and 45 mL/min/1.73 m2 is not recommended.
+
+In patients taking JANUMET XR whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit risk of continuing therapy and limit dose of the sitagliptin component to 50 mg once daily.
+
+## 2.3 Discontinuation for Iodinated Contrast Imaging Procedures
+
+Discontinue JANUMET XR at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Re-evaluate eGFR 48 hours after the imaging procedure; restart JANUMET XR if renal function is stable [see Warnings and Precautions (5.1)].
