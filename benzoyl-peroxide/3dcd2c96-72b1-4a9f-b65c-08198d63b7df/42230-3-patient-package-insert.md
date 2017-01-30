@@ -31,7 +31,7 @@ What should I tell my doctor before using ACANYA Gel?
 Before using ACANYA Gel, tell your doctor about all of your medical conditions, including if you:
 
 - •have any allergies.
-- •have any other medical conditions.
+- •have any other medical conditions
 - •are pregnant or planning to become pregnant.
   It is not known if ACANYA Gel will harm your unborn baby.
 - •are breastfeeding or plan to breast-feed.
@@ -59,30 +59,28 @@ How should I use ACANYA Gel?
 Instructions for applying ACANYA Gel
 
 - •Apply ACANYA Gel to your face one time each day as prescribed.
-  - 1.Before you apply ACANYA Gel, wash your face gently with a mild soap, rinse with warm water, and pat your skin dry.
-  - 2.To apply ACANYA Gel to your face, use the pump to dispense one pea-sized amount of ACANYA Gel onto your fingertip.
-    See Figure 1.
-    One pea-sized amount of ACANYA Gel should be enough to cover your entire face.
+- 1.Before you apply ACANYA Gel, wash your face gently with a mild soap, rinse with warm water, and pat your skin dry.
+- 2.To apply ACANYA Gel to your face, use the pump to dispense one pea-sized amount of ACANYA Gel onto your fingertip.
+  See Figure 1.
+  One pea-sized amount of ACANYA Gel should be enough to cover your entire face.
 
 | Figure 1 |
 | --- |
 
-- 
-  - 3.Dot the one pea-sized amount of ACANYA Gel onto six areas of your face (chin, left cheek, right cheek, nose, left forehead, right forehead).
-    See Figure 2.
+1. 3.Dot the one pea-sized amount of ACANYA Gel onto six areas of your face (chin, left cheek, right cheek, nose, left forehead, right forehead).
+   See Figure 2
 
 | Figure 2 |
 | --- |
 
-- 
-  - 4.After applying the ACANYA Gel this way, spread the gel over your face and gently rub it in.
-    It is important to spread the gel over your whole face.
-  - 5.Wash your hands with soap and water after applying ACANYA Gel.
-  - 6.If your doctor tells you to put ACANYA Gel on other areas of your skin with acne, be sure to ask how much you should use.
-  - 7.Do not get ACANYA Gel in your mouth, eyes, or nose, or on your lips.
-    If this occurs, rinse the affected area with warm water and call your doctor right away if the area becomes very red, itchy, tender, or swollen.
-  - 8.Do not get ACANYA Gel on cuts or open wounds.
-  - 9.Do not use more ACANYA Gel than prescribed.
+1. 4.After applying the ACANYA Gel this way, spread the gel over your face and gently rub it in.
+   It is important to spread the gel over your whole face.
+2. 5.Wash your hands with soap and water after applying ACANYA Gel.
+3. 6.If your doctor tells you to put ACANYA Gel on other areas of your skin with acne, be sure to ask how much you should use.
+4. 7.Do not get ACANYA Gel in your mouth, eyes, or nose, or on your lips.
+   If this occurs, rinse the affected area with warm water and call your doctor right away if the area becomes very red, itchy, tender, or swollen.
+5. 8.Do not get ACANYA Gel on cuts or open wounds.
+6. 9.Do not use more ACANYA Gel than prescribed.
 
 What should I avoid while using ACANYA Gel?
 
@@ -103,9 +101,9 @@ ACANYA Gel can cause serious side effects including:
   Stop using ACANYA Gel and call your doctor right away if you have severe watery diarrhea, or bloody diarrhea.
 - •Allergic reactions.
   Stop using ACANYA Gel, call your doctor and get help right away if you have any of the following symptoms:
-  - •severe itching
-  - •swelling of your face, eyes, lips, tongue or throat
-  - •trouble breathing
+  - osevere itching
+  - oswelling of your face, eyes, lips, tongue or throat
+  - otrouble breathing
 
 Common side effects with ACANYA Gel include:
 
@@ -120,7 +118,7 @@ Ask your doctor or pharmacist for more information.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-You may also report side effects to Valeant Pharmaceuticals North America LLC at 1-800-321-4576.
+You may also report side effects to Valeant Pharmaceuticals North America LLC, at 1-800-321-4576.
 
 How should I store ACANYA Gel?
 
@@ -151,14 +149,18 @@ Active Ingredients: clindamycin phosphate 1.2% and benzoyl peroxide 2.5%
 
 Inactive Ingredients: purified water, carbomer 980, propylene glycol, and potassium hydroxide
 
-Manufactured by: Valeant Pharmaceuticals International Inc. Laval, Quebec H7L 4A8
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-For: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
-Made in Canada
+U.S. Patents 8,288,434; 8,663,699; 8,895,070 and 9,078,870
 
-U.S. Patents 5,733,886 and 8,288,434
+Acanya is a trademark of Valeant Pharmaceuticals International, Inc., or its affiliates.
+
+©Valeant Pharmaceuticals North America LLC
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised 02/2014 9387200
+Revised 10/2016
+
+1. 9387202 50104737C

@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanisms of Action
 
-Clindamycin: Clindamycin is a lincosamide antibacterial [see Microbiology (12.4)].
+Clindamycin: Clindamycin is a lincosamide antibacterial [see Clinical Pharmacology (12.4)].
 
 Benzoyl Peroxide: Benzoyl peroxide is an oxidizing agent with bacteriocidal and keratolytic effects but the precise mechanism of action is unknown.
 

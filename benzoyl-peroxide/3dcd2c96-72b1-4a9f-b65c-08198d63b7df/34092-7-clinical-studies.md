@@ -5,13 +5,6 @@ The two trials were identical in design and compared ACANYA Gel to clindamycin i
 
 The co-primary efficacy variables were:
 
-- 1.
-  Mean absolute change from baseline at week 12 in
-  1. •Inflammatory lesion counts
-  2. •Non-inflammatory lesion counts
-- 2.
-  Percent of subjects who had a two grade improvement from baseline on an Evaluator's Global Severity (EGS) score.
-
 The EGS scoring scale used in all of the clinical trials for ACANYA Gel is as follows:
 
 | Grade | Description |
@@ -19,11 +12,11 @@ The EGS scoring scale used in all of the clinical trials for ACANYA Gel is as fo
 | Clear | Normal, clear skin with no evidence of acne vulgaris |
 | Almost Clear | Rare non-inflammatory lesions present, with rare non-inflamed papules (papules must be resolving and may be hyperpigmented, though not pink-red) |
 | Mild | Some non-inflammatory lesions are present, with few inflammatory lesions (papules/pustules only; no nodulocystic lesions) |
-| Moderate | Non-inflammatory lesions predominate, with multiple inflammatory lesions evident: several to many comedones and papules/pustules, and there may or may not be one small nodulo-cystic lesion |
+| Moderate | Non-inflammatory lesions predominate, with multiple inflammatory lesions evident: several to many comedones and papules/pustules, and there may or may not be one small nodulocystic lesion |
 | Severe | Inflammatory lesions are more apparent, many comedones and papules/pustules, there may or may not be a few nodulocystic lesions |
 | Very Severe | Highly inflammatory lesions predominate, variable number of comedones, many papules/pustules and many nodulocystic lesions |
 
-The results of Trial 1 at week 12 are presented in Table 2:
+The results of Trial 1 at Week 12 are presented in Table 2:
 
 Table 2: Trial 1 Results
 
@@ -40,7 +33,7 @@ Table 2: Trial 1 Results
 | Mean absolute change | 22.1 | 17.9 | 20.6 | 13.2 |
 | Mean percent (%) reduction | 45.3% | 38.0% | 40.2% | 28.6% |
 
-The results of Trial 2 at week 12 are presented in Table 3:
+The results of Trial 2 at Week 12 are presented in Table 3:
 
 Table 3: Trial 2 Results
 
