@@ -11,9 +11,9 @@ At baseline, 39% of subjects had at least one tumor ≥ 5 cm, 49% had bone marro
 IMBRUVICA was administered orally at 560 mg once daily until disease progression or unacceptable toxicity.
 Tumor response was assessed according to the revised International Working Group (IWG) for non-Hodgkin's lymphoma (NHL) criteria.
 The primary endpoint in this study was investigator-assessed overall response rate (ORR).
-Responses to IMBRUVICA are shown in Table 11.
+Responses to IMBRUVICA are shown in Table 13.
 
-Table 11: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with MCL
+Table 13: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with MCL
 
 |  | Total (N=111) |
 | --- | --- |
@@ -65,9 +65,9 @@ The median time since diagnosis was 91 months and the median number of prior tre
 At baseline, 58% of patients had at least one tumor ≥ 5 cm.
 Thirty-two percent of patients had 17p deletion.
 
-Efficacy results for Study 2 are shown in Table 12 and the Kaplan-Meier curves for PFS, assessed by independent review committee (IRC) according to IWCLL criteria, and OS are shown in Figures 1 and 2, respectively.
+Efficacy results for Study 2 are shown in Table 14 and the Kaplan-Meier curves for PFS, assessed by an IRC according to IWCLL criteria, and OS are shown in Figures 1 and 2, respectively.
 
-Table 12: Efficacy Results in Study 2
+Table 14: Efficacy Results in Patients with CLL/SLL in Study 2
 
 | Endpoint | IMBRUVICA N=195 | Ofatumumab N=196 |
 | --- | --- | --- |
@@ -83,19 +83,19 @@ Table 12: Efficacy Results in Study 2
 | Overall Response Rate | 42.6% | 4.1% |
 | CI = confidence interval; HR = hazard ratio; NR = not reached |  |  |
 
-Figure 1: Kaplan-Meier Curve of Progression Free Survival (ITT Population) in Study 2
+Figure 1: Kaplan-Meier Curve of Progression Free Survival (ITT Population) in Patients with CLL/SLL in Study 2
 
-Figure 2: Kaplan-Meier Curve of Overall Survival (ITT Population) in Study 2
+Figure 2: Kaplan-Meier Curve of Overall Survival (ITT Population) in Patients with CLL/SLL in Study 2
 
 CLL/SLL with 17p deletion (del 17p CLL/SLL) in Study 2
 
 Study 2 included 127 patients with del 17p CLL/SLL.
 The median age was 67 years (range, 30 to 84 years), 62% were male, and 88% were Caucasian.
 All patients had a baseline ECOG performance status of 0 or 1.
-PFS and ORR were assessed by IRC.
-Efficacy results for del 17p CLL/SLL are shown in Table 13.
+PFS and ORR were assessed by an IRC.
+Efficacy results for del 17p CLL/SLL are shown in Table 15.
 
-Table 13: Efficacy Results in Patients with del 17p CLL/SLL in Study 2
+Table 15: Efficacy Results in Patients with del 17p CLL/SLL in Study 2
 
 | Endpoint | IMBRUVICA N=63 | Ofatumumab N=64 |
 | --- | --- | --- |
@@ -122,9 +122,9 @@ The most common reasons for initiating CLL therapy include: progressive marrow f
 With a median follow-up of 28.1 months, there were 32 observed death events [11 (8.1%) and 21 (15.8%) in IMBRUVICA and chlorambucil treatment arms, respectively].
 With 41% of patients switching from chlorambucil to IMBRUVICA, the overall survival analysis in the ITT patient population resulted in a statistically significant HR of 0.44 [95% CI (0.21, 0.92)] and 2-year survival rate estimates of 94.7% [95% CI (89.1, 97.4)] and 84.3% [95% CI (76.7, 89.6)] in the IMBRUVICA and chlorambucil arms, respectively.
 
-Efficacy results for Study 3 are shown in Table 14 and the Kaplan-Meier curve for PFS, assessed by independent review committee (IRC) according to IWCLL criteria is shown in Figure 3.
+Efficacy results for Study 3 are shown in Table 16 and the Kaplan-Meier curve for PFS, assessed by an IRC according to IWCLL criteria is shown in Figure 3.
 
-Table 14: Efficacy Results in Study 3
+Table 16: Efficacy Results in Patients with CLL/SLL in Study 3
 
 | Endpoint | IMBRUVICA N=136 | Chlorambucil N=133 |
 | --- | --- | --- |
@@ -137,7 +137,7 @@ Table 14: Efficacy Results in Study 3
 | Overall Response Rate (CR + PR) | 82.4% | 35.3% |
 | P-value | <0.0001 |  |
 
-Figure 3: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Study 3
+Figure 3: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in Study 3
 
 Study 4
 
@@ -152,9 +152,9 @@ All patients had a baseline ECOG performance status of 0 or 1.
 The median time since diagnosis was 5.9 years and the median number of prior treatments was 2 (range, 1 to 11 treatments).
 At baseline, 56% of patients had at least one tumor ≥ 5 cm and 26% presented with del11q.
 
-Efficacy results for Study 4 are shown in Table 15 and the Kaplan-Meier curves for PFS are shown in Figure 4.
+Efficacy results for Study 4 are shown in Table 17 and the Kaplan-Meier curves for PFS are shown in Figure 4.
 
-Table 15: Efficacy Results in Study 4
+Table 17: Efficacy Results Patients with CLL/SLL in Study 4
 
 | Endpoint | IMBRUVICA + BR N=289 | Placebo + BR N=289 |
 | --- | --- | --- |
@@ -165,7 +165,7 @@ Table 15: Efficacy Results in Study 4
 | Overall Response Rate | 82.7% | 67.8% |
 | BR = bendamustine and rituximab; CI = confidence interval; HR = hazard ratio |  |  |
 
-Figure 4: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Study 4
+Figure 4: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in Study 4
 
 Lymphocytosis
 
@@ -183,9 +183,9 @@ At baseline, the median serum IgM value was 3.5 g/dL (range, 0.7 to 8.4 g/dL).
 
 IMBRUVICA was administered orally at 420 mg once daily until disease progression or unacceptable toxicity.
 The responses were assessed by investigators and an Independent Review Committee (IRC) using criteria adopted from the International Workshop of Waldenström's Macroglobulinemia.
-Responses, defined as partial response or better, per IRC are shown in Table 16.
+Responses, defined as partial response or better, per IRC are shown in Table 18.
 
-Table 16: Overall Response Rate (ORR) and Duration of Response (DOR) Based on IRC Assessment in Patients with WM
+Table 18: Overall Response Rate (ORR) and Duration of Response (DOR) Based on IRC Assessment in Patients with WM in study 5
 
 |  | Total (N=63) |
 | --- | --- |
@@ -198,3 +198,29 @@ Table 16: Overall Response Rate (ORR) and Duration of Response (DOR) Based on IR
 | CI = confidence interval; NR = not reached |  |
 
 The median time to response was 1.2 months (range, 0.7-13.4 months).
+
+## 14.4 Marginal Zone Lymphoma
+
+The safety and efficacy of IMBRUVICA in MZL were evaluated in an open-label, multi-center, single-arm trial of patients who received at least one prior therapy.
+The efficacy analysis included 63 patients with 3 sub-types of MZL: mucosa-associated lymphoid tissue (MALT; N=32), nodal (N=17), and splenic (N=14).
+The median age was 66 years (range, 30 to 92 years), 59% were female, and 84% were Caucasian.
+Ninety two percent of patients had a baseline ECOG performance status of 0 or 1 and 8% had ECOG performance status 2.
+The median time since diagnosis was 3.8 years, and the median number of prior treatments was 2 (range, 1 to 9 treatments).
+
+IMBRUVICA was administered orally at 560 mg once daily until disease progression or unacceptable toxicity.
+The responses were assessed by investigators and an IRC using criteria adopted from the International Working Group criteria for malignant lymphoma.
+Responses per IRC are shown in Table 19.
+
+Table 19: Overall Response Rate (ORR) and Duration of Response (DOR) Based on IRC Assessment in Patients with MZL in Study 6
+
+|  | Total (N=63) |
+| --- | --- |
+| Response rate (CR+PR), (%) | 46.0% |
+| 95% CI (%) | (33.4, 59.1) |
+| Complete Response (CR), (%) | 3.2 |
+| Partial Response (PR), (%) | 42.9 |
+| Median duration of response, months (range) | NR (16.7, NR) |
+| CI = confidence interval; NR = not reached Median follow-up time on study = 19.4 months |  |
+
+The median time to response was 4.5 months (range, 2.3 to 16.4 months).
+Overall response rates were 46.9%, 41.2%, and 50.0% for the 3 MZL sub-types (MALT, nodal, splenic), respectively.

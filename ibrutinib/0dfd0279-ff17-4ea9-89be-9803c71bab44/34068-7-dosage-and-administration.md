@@ -8,9 +8,9 @@ Do not open, break, or chew the capsules.
 
 ## 2.2 Dosage
 
-Mantle Cell Lymphoma
+Mantle Cell Lymphoma and Marginal Zone Lymphoma
 
-The recommended dose of IMBRUVICA for MCL is 560 mg (four 140 mg capsules) orally once daily until disease progression or unacceptable toxicity.
+The recommended dose of IMBRUVICA for MCL and MZL is 560 mg (four 140 mg capsules) orally once daily until disease progression or unacceptable toxicity.
 
 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma and Waldenström's Macroglobulinemia
 
@@ -28,7 +28,7 @@ If these toxicities persist or recur following two dose reductions, discontinue 
 
 Recommended dose modifications are described below:
 
-| Toxicity Occurrence | MCL Dose Modification After Recovery Starting Dose = 560 mg | CLL/SLL and WM Dose Modification After Recovery Starting Dose = 420 mg |
+| Toxicity Occurrence | MCL and MZL Dose Modification After Recovery Starting Dose = 560 mg | CLL/SLL and WM Dose Modification After Recovery Starting Dose = 420 mg |
 | --- | --- | --- |
 | First | Restart at 560 mg daily | Restart at 420 mg daily |
 | Second | Restart at 420 mg daily | Restart at 280 mg daily |
@@ -42,7 +42,7 @@ Avoid co-administration with strong or moderate CYP3A inhibitors and consider al
 Concomitant use of strong CYP3A inhibitors which would be taken chronically (e.g., ritonavir, indinavir, nelfinavir, saquinavir, boceprevir, telaprevir, nefazodone) is not recommended.
 For short-term use (treatment for 7 days or less) of strong CYP3A inhibitors (e.g., antifungals and antibiotics) consider interrupting IMBRUVICA therapy until the CYP3A inhibitor is no longer needed [see Drug Interactions (7.1)].
 
-Reduce IMBRUVICA dose to 140 mg if a moderate CYP3A inhibitor must be used (e.g., fluconazole, darunavir, erythromycin, diltiazem, atazanavir, aprepitant, amprenavir, fosamprevir, crizotinib, imatinib, verapamil, and ciprofloxacin) [see Drug Interactions (7.1)].
+Reduce IMBRUVICA dose to 140 mg if a moderate CYP3A inhibitor must be used (e.g., fluconazole, darunavir, erythromycin, diltiazem, atazanavir, aprepitant, amprenavir, fosamprenavir, crizotinib, imatinib, verapamil, and ciprofloxacin) [see Drug Interactions (7.1)].
 
 Patients taking concomitant strong or moderate CYP3A inhibitors should be monitored more closely for signs of IMBRUVICA toxicity.
 

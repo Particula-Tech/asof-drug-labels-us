@@ -54,9 +54,9 @@ The safety and effectiveness of IMBRUVICA in pediatric patients has not been est
 
 ## 8.5 Geriatric Use
 
-Of the 839 patients in clinical studies of IMBRUVICA, 62% were ≥ 65 years of age, while 21% were ≥75 years of age.
+Of the 905 patients in clinical studies of IMBRUVICA, 62% were ≥ 65 years of age, while 21% were ≥75 years of age.
 No overall differences in effectiveness were observed between younger and older patients.
-Grade 3 or higher pneumonia occurred more frequently among older patients treated with IMBRUVICA [see Clinical Studies (14.2)].
+Anemia (all grades) and Grade 3 or higher pneumonia occurred more frequently among older patients treated with IMBRUVICA.
 
 ## 8.6 Hepatic Impairment
 
