@@ -256,9 +256,13 @@ Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
 Licensed from H. Lundbeck A/S
 
-Revised: 10/2016
+Revised: 1/2017
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© 2016 Allergan.
+© 2017 Allergan.
 All rights reserved.
+
+All trademarks are the property of their respective owners.
+Patented.
+See www.allergan.com/patents
