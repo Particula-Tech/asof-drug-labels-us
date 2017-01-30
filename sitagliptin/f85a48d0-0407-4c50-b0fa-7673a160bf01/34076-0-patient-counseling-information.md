@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Instructions
 
@@ -20,6 +20,9 @@ If symptoms of allergic reactions (including rash, hives, and swelling of the fa
 Inform patients that severe and disabling joint pain may occur with this class of drugs.
 The time to onset of symptoms can range from one day to years.
 Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.5)].
+
+Inform patients that bullous pemphigoid may occur with this class of drugs.
+Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.6)].
 
 Physicians should instruct their patients to read the Medication Guide before starting JANUVIA therapy and to reread each time the prescription is renewed.
 Patients should be instructed to inform their doctor or pharmacist if they develop any unusual symptom, or if any known symptom persists or worsens.
