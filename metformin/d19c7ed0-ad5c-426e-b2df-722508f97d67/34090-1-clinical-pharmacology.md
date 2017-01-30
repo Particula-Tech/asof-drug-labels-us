@@ -23,7 +23,7 @@ Metformin hydrochloride
 Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Its pharmacologic mechanisms of action are different from other classes of oral antihyperglycemic agents.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Unlike sulfonylureas, metformin does not produce hypoglycemia in either patients with type 2 diabetes or normal subjects (except in special circumstances [see Warnings and Precautions (5.9)]) and does not cause hyperinsulinemia.
+Unlike sulfonylureas, metformin does not produce hypoglycemia in either patients with type 2 diabetes or normal subjects (except in special circumstances [see Warnings and Precautions (5.6)]) and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -126,17 +126,13 @@ Specific Populations
 
 Renal Impairment
 
-JANUMET
-
-JANUMET should not be used in patients with renal impairment [see Contraindications (4); Warnings and Precautions (5.4)].
-
 Sitagliptin
 
-An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment, and an approximately 4-fold increase was observed in patients with severe renal impairment including patients with ESRD on hemodialysis, as compared to normal healthy control subjects.
+An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment with eGFR of 30 to <45 mL/min/1.73 m2, and an approximately 4-fold increase was observed in patients with severe renal impairment including patients with end-stage renal disease (ESRD) on hemodialysis, as compared to normal healthy control subjects.
 
 Metformin hydrochloride
 
-In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance.
+In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4); Warnings and Precautions (5.1)].
 
 Hepatic Impairment
 
@@ -173,8 +169,6 @@ Metformin hydrochloride
 
 Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half life is prolonged, and Cmax is increased, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
-
-As is true for all patients, JANUMET treatment should not be initiated in geriatric patients unless measurement of creatinine clearance demonstrates that renal function is normal [see Warnings and Precautions (5.1, 5.4)].
 
 Pediatric
 
@@ -268,7 +262,7 @@ Table 7: Effect of Coadministered Drugs on Systemic Exposure of Metformin
 | Nifedipine | 10 mg | 850 mg | Metformin | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | Metformin | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | Metformin | 1.05 | 1.07 |
-| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution. [See Warnings and Precautions (5.10) and Drug Interactions (7.2).] |  |  |  |  |  |
+| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin. [See Warnings and Precautions (5.1) and Drug Interactions (7.2).] |  |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | Metformin | 1.40 | 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution. [See Warnings and Precautions (5.1) and Drug Interactions (7.1).] |  |  |  |  |  |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis. [See Warnings and Precautions (5.1) and Drug Interactions (7.1).] |  |  |  |  |  |
 | Topiramate | 100 mgSteady state 100 mg Topiramate every 12 hr + metformin 500 mg every 12 hr AUC = AUC0-12hr. | 500 mg | Metformin | 1.25 | 1.17 |

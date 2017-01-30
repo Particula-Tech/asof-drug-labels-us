@@ -2,16 +2,26 @@
 
 ## 7.1 Carbonic Anhydrase Inhibitors
 
-Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently decrease serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
-Concomitant use of these drugs may induce metabolic acidosis.
-Use these drugs with caution in patients treated with JANUMET, as the risk of lactic acidosis may increase.
+Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently cause a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
+Concomitant use of these drugs with JANUMET may increase the risk of lactic acidosis.
+Consider more frequent monitoring of these patients.
 
-## 7.2 Cationic Drugs
+## 7.2 Drugs that Reduce Metformin Clearance
 
-Cationic drugs (e.g., amiloride, digoxin, morphine, procainamide, quinidine, quinine, ranitidine, triamterene, trimethoprim, or vancomycin) that are eliminated by renal tubular secretion theoretically have the potential for interaction with metformin by competing for common renal tubular transport systems.
-Although such interactions remain theoretical (except for cimetidine), careful patient monitoring and dose adjustment of JANUMET and/or the interfering drug is recommended in patients who are taking cationic medications that are excreted via the proximal renal tubular secretory system.
+Concomitant use of drugs that interfere with common renal tubular transport systems involved in the renal elimination of metformin (e.g., organic cationic transporter-2 [OCT2] / multidrug and toxin extrusion [MATE] inhibitors such as ranolazine, vandetanib, dolutegravir, and cimetidine) could increase systemic exposure to metformin and may increase the risk for lactic acidosis [see Clinical Pharmacology (12.3)].
+Consider the benefits and risks of concomitant use.
 
-## 7.3 The Use of Metformin with Other Drugs
+## 7.3 Alcohol
+
+Alcohol is known to potentiate the effect of metformin on lactate metabolism.
+Warn patients against excessive alcohol intake while receiving JANUMET.
+
+## 7.4 Insulin Secretagogues or Insulin
+
+Coadministration of JANUMET with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia.
+[See Warnings and Precautions (5.6).]
+
+## 7.5 Use of Metformin with Other Drugs
 
 Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control.
 These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs, and isoniazid.

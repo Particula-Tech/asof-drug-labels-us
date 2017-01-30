@@ -85,7 +85,8 @@ With the combination of sitagliptin and metformin, no clinically meaningful chan
 
 Pancreatitis
 
-In a pooled analysis of 19 double-blind clinical trials that included data from 10,246 patients randomized to receive sitagliptin 100 mg/day (N=5429) or corresponding (active or placebo) control (N=4817), the incidence of acute pancreatitis was 0.1 per 100 patient-years in each group (4 patients with an event in 4708 patient-years for sitagliptin and 4 patients with an event in 3942 patient-years for control) [See Warnings and Precautions (5.2).]
+In a pooled analysis of 19 double-blind clinical trials that included data from 10,246 patients randomized to receive sitagliptin 100 mg/day (N=5429) or corresponding (active or placebo) control (N=4817), the incidence of acute pancreatitis was 0.1 per 100 patient-years in each group (4 patients with an event in 4708 patient-years for sitagliptin and 4 patients with an event in 3942 patient-years for control).
+[See Warnings and Precautions (5.2).]
 
 Sitagliptin
 
@@ -107,12 +108,11 @@ Metformin hydrochloride
 
 In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or Vitamin B12 supplementation.
-[See Warnings and Precautions (5.5).]
+[See Warnings and Precautions (5.4).]
 
 ## 6.2 Postmarketing Experience
 
-Additional adverse reactions have been identified during postapproval use of JANUMET or sitagliptin, one of the components of JANUMET.
-These reactions have been reported when JANUMET or sitagliptin have been used alone and/or in combination with other antihyperglycemic agents.
+Additional adverse reactions have been identified during postapproval use of JANUMET, sitagliptin, or metformin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.14)]; upper respiratory tract infection; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1); Warnings and Precautions (5.2)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) [see Warnings and Precautions (5.4)]; severe and disabling arthralgia [see Warnings and Precautions (5.15)]; constipation; vomiting; headache; myalgia; pain in extremity; back pain; pruritus.
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.8)]; upper respiratory tract infection; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1); Warnings and Precautions (5.2)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) [see Warnings and Precautions (5.3)]; severe and disabling arthralgia [see Warnings and Precautions (5.9)]; bullous pemphigoid [see Warnings and Precautions (5.10)]; constipation; vomiting; headache; myalgia; pain in extremity; back pain; pruritus; cholestatic, hepatocellular, and mixed hepatocellular liver injury.
