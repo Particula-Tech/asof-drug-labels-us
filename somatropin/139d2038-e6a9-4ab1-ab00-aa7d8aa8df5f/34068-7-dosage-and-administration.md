@@ -86,7 +86,7 @@ The Nutropin AQ Pen 20 allows for administration of a minimum dose of 0.2 mg to 
 
 Nutropin AQ NuSpin
 
-The Nutropin AQ NuSpin 5, 10 and 20 are multi-dose, dial-a-dose injection devices prefilled with Nutropin AQ in a 5 mg/2 mL, 10 mg/2 mL or 20 mg/ 2 mL cartridge, respectively, for subcutaneous use.
+The Nutropin AQ NuSpin 5, 10 and 20 are multi-dose, dial-a-dose injection devices prefilled with Nutropin AQ in a 5 mg/2 mL, 10 mg/2 mL or 20 mg/2 mL cartridge, respectively, for subcutaneous use.
 It is recommended that Nutropin AQ be administered using sterile, disposable needles.
 Follow the directions provided in the Nutropin AQ NuSpin 5, 10 or 20 Instructions for Use.
 

@@ -1,4 +1,4 @@
-# 10 Overdosage
+# 10 OVERDOSAGE
 
 Short Term
 
@@ -7,4 +7,4 @@ Furthermore, overdose with somatropin is likely to cause fluid retention.
 
 Long Term
 
-Long-term overdosage could result in signs and symptoms of gigantism and/or acromegaly consistent with the known effects of excess growth hormone (GH) [See Dosage and Administration (2.2)].
+Long-term overdosage could result in signs and symptoms of gigantism and/or acromegaly consistent with the known effects of excess growth hormone (GH) [see Dosage and Administration (2.2)].

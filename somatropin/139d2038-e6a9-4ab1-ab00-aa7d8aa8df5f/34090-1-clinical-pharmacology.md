@@ -110,11 +110,11 @@ The available literature indicates that the pharmacokinetics of somatropin are s
 
 Table 2 Summary of Nutropin AQ Pharmacokinetic Parameters in Healthy Adult Males 0.1 mg (approximately 0.3 IUBased on current International Standard of 3 IU = 1 mg.)/kg SC
 
-|  | Cmax (µg/L) | Tmax (hr) | t½ (hr) | AUC0-∞ (μg ∙ hr/L) | CL/Fsc (mL/[hr ∙ kg]) |
+|  | Cmax (µg/L) | Tmax (hr) | t1/2 (hr) | AUC0-∞ (μg ∙ hr/L) | CL/Fsc (mL/[hr ∙ kg]) |
 | --- | --- | --- | --- | --- | --- |
 | MEANn = 36. | 71.1 | 3.9 | 2.3 | 677 | 150 |
 | CV% | 17 | 56 | 18 | 13 | 13 |
-| Abbreviations: AUC0-∞ = area under the curve, Cmax = maximum concentration, CL/Fsc = systemic clearance, CV% = coefficient of variation in %; SC = subcutaneous, Fsc = subcutaneous bioavailability (not determined), t½ = half-life. |  |  |  |  |  |
+| Abbreviations: AUC0-∞ = area under the curve, Cmax = maximum concentration, CL/Fsc = systemic clearance, CV% = coefficient of variation in %; SC = subcutaneous, Fsc = subcutaneous bioavailability (not determined), t1/2 = half-life. |  |  |  |  |  |
 
 | Figure 1 Single Dose Mean Growth Hormone Concentrations in Healthy Adult Males |
 | --- |

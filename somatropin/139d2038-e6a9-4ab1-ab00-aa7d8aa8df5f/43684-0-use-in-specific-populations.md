@@ -25,8 +25,7 @@ No studies have been conducted for Nutropin AQ in patients with hepatic impairme
 
 ## 8.7 Renal Impairment
 
-Subjects with chronic renal failure tend to have decreased somatropin clearance compared to those with normal renal function.
-[see Dosage and Administration (2.1) and Clinical Pharmacology (12.3)].
+Subjects with chronic renal failure tend to have decreased somatropin clearance compared to those with normal renal function [see Dosage and Administration (2.1) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Gender Effect
 

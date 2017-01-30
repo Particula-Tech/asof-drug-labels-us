@@ -1,22 +1,24 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Most Serious and/or Most Frequently Observed Adverse Reactions
+The following important adverse reactions are also described elsewhere in the labeling:
 
-This list presents the most seriousa and/or most frequently observedb adverse reactions during treatment with somatropin:
+- Increased mortality in patients with acute critical illness [see Warnings and Precautions (5.1)]
+- Fatalities in children with Prader-Willi syndrome [see Warnings and Precautions (5.2)]
+- Neoplasms in pediatric patients [see Warnings and Precautions (5.3)]
+- Glucose intolerance and diabetes mellitus [see Warnings and Precautions (5.4)]
+- Intracranial hypertension [see Warnings and Precautions (5.5)]
+- Severe hypersensitivity [see Warnings and Precautions (5.6)]
+- Fluid retention [see Warnings and Precautions (5.7)]
+- Hypoadrenalism [see Warnings and Precautions (5.8)]
+- Hypothyroidism [see Warnings and Precautions (5.9)]
+- Slipped capital femoral epiphysis in pediatric patients [see Warnings and Precautions (5.10)]
+- Progression of preexisting scoliosis in pediatric patients [see Warnings and Precautions (5.11)]
+- Otitis media and cardiovascular disorders in patients with Turner syndrome [see Warnings and Precautions (5.12)]
+- Osteodystrophy in pediatric patients with chronic kidney disease [see Warnings and Precautions (5.13)]
+- Lipoatrophy [see Warnings and Precautions (5.14)]
+- Pancreatitis [see Warnings and Precautions (5.16)]
 
-- a Sudden death in pediatric patients with Prader-Willi syndrome (PWS) with risk factors including severe obesity, history of upper airway obstruction or sleep apnea and unidentified respiratory infection [see Contraindications (4.2) and Warnings and Precautions (5.2)].
-- a Intracranial tumors, in particular meningiomas, in teenagers/young adults treated with radiation to the head as children for a first neoplasm and somatropin [see Contraindications (4.3) and Warnings and Precautions (5.3)].
-- aPancreatitis [see Warnings and Precautions (5.15)]
-- a,b Glucose intolerance including impaired glucose tolerance/impaired fasting glucose as well as overt diabetes mellitus [see Warnings and Precautions (5.4)].
-- a Intracranial hypertension [see Warnings and Precautions (5.5)].
-- a Significant diabetic retinopathy [see Contraindications (4.4)].
-- a Slipped capital femoral epiphysis in pediatric patients [see Warnings and Precautions (5.9)].
-- a Progression of preexisting scoliosis in pediatric patients [see Warnings and Precautions (5.10)].
-- b Fluid retention manifested by edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias [see Warnings and Precautions (5.6)].
-- a Unmasking of latent central hypothyroidism [see Warnings and Precautions (5.8)].
-- a Injection site reactions/rashes and lipoatrophy (as well as rare generalized hypersensitivity reactions) [see Warnings and Precautions (5.13)].
-
-## 6.2 Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under varying conditions, adverse reaction rates observed during the clinical trials performed with one somatropin formulation cannot always be directly compared to the rates observed during the clinical trials performed with a second somatropin formulation, and may not reflect the adverse reaction rates observed in practice.
 
@@ -80,19 +82,7 @@ In subjects with adult-onset GHD, there were no between-treatment group differen
 In childhood-onset GHD, the mean A1C level increased in the Nutropin 0.025 mg/kg/day group from 5.2% at baseline to 5.5% at Month 12, and did not change in the Nutropin 0.0125 mg/kg/day group from 5.1% at baseline or in the placebo group from 5.3% at baseline.
 The between-treatment group differences were significant, p = 0.009.
 
-## 6.3 Post-Marketing Experience
-
-Because these adverse events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The adverse events reported during post-marketing surveillance do not differ from those listed/discussed above in Sections 6.1 and 6.2 in children and adults.
-
-Leukemia has been reported in a small number of GHD children treated with somatropin, somatrem (methionylated rhGH) and GH of pituitary origin.
-It is uncertain whether these cases of leukemia are related to GH therapy, the pathology of GHD itself, or other associated treatments such as radiation therapy.
-On the basis of current evidence, experts have not been able to conclude that GH therapy per se was responsible for these cases of leukemia.
-The risk for children with GHD, CKD, or TS, if any, remains to be established [see Contraindications (4.3) and Warnings and Precautions (5.3)].
-
-The following additional adverse reactions have been reported in GH-treated patients: gynecomastia (children), and pancreatitis [(Children and adults, see Warnings and Precautions (5.15)].
-
-## 6.4 Immunogenicity
+## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
@@ -107,3 +97,17 @@ In a clinical study of patients that were treated with Nutropin AQ for the first
 Additional short-term immunologic and renal function studies were carried out in a group of pediatric patients with CKD after approximately one year of treatment to detect other potential adverse effects of antibodies to GH.
 Testing included measurements of C1q, C3, C4, rheumatoid factor, creatinine, creatinine clearance, and blood urea nitrogen (BUN).
 No adverse effects of GH antibodies were noted.
+
+## 6.3 Post-Marketing Experience
+
+Because these adverse events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The adverse events reported during post-marketing surveillance do not differ from those listed/discussed above in Sections 6.1 and 6.2 in children and adults.
+
+Serious systemic hypersensitivity reactions including anaphylactic reactions and angioedema have been reported with postmarketing use of somatropin products [see Warnings and Precautions (5.6)].
+
+Leukemia has been reported in a small number of GHD children treated with somatropin, somatrem (methionylated rhGH) and GH of pituitary origin.
+It is uncertain whether these cases of leukemia are related to GH therapy, the pathology of GHD itself, or other associated treatments such as radiation therapy.
+On the basis of current evidence, experts have not been able to conclude that GH therapy per se was responsible for these cases of leukemia.
+The risk for children with GHD, CKD, or TS, if any, remains to be established [see Contraindications (4) and Warnings and Precautions (5.3)].
+
+The following additional adverse reactions have been reported in GH-treated patients: gynecomastia (children), and pancreatitis [(Children and adults, see Warnings and Precautions (5.16)].

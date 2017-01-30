@@ -4,7 +4,7 @@
 
 One open label, multicenter, randomized clinical trial of two dosages of Nutropin was performed in pubertal patients with GHD.
 Ninety-seven patients (mean age 13.9 years, 83 male, 14 female) currently being treated with approximately 0.3 mg/kg/wk of GH were randomized to 0.3 mg/kg/wk or 0.7 mg/kg/wk Nutropin doses.
-All patients were already in puberty (Tanner stage ≥ 2) and had bone ages ≤14 years in males or ≤ 12 years in females.
+All patients were already in puberty (Tanner stage ≥ 2) and had bone ages ≤ 14 years in males or ≤ 12 years in females.
 Mean baseline height standard deviation score (SDS) was –1.3.
 
 The mean last measured height in all 97 patients after a mean duration of 2.7 ± 1.2 years, by analysis of covariance (ANCOVA) adjusting for baseline height, is shown below.
@@ -117,7 +117,7 @@ Table 5 Long-Term Efficacy in ISS (Mean ± SD)
 
 Nutropin therapy resulted in an increase in mean IGF-I SDS from –0.9 ± 1.0 to –0.2 ± 0.9 in Treatment Year 1.
 During continued treatment, mean IGF-I levels remained close to the normal mean.
-IGF-I SDS above +2 occurred sporadically in 14 subjects.
+IGF-I SDS above + 2 occurred sporadically in 14 subjects.
 
 ## 14.5 Adult Growth Hormone Deficiency
 
@@ -134,7 +134,7 @@ In the childhood-onset study, the high-dose Nutropin group improved mean total b
 
 Table 6 Mean Changes from Baseline to Month 12 in Proportion of Fat and Lean by DEXA for Adult- and Childhood- Onset GHD Studies
 
-| Proportion | Placebo (n = 62) | Nutropin (n = 63) | Between-Groups t-test p-value | Placebo (n = 13) | Nutropin 0.0125 mg/ kg/day (n = 15) | Nutropin 0.025 mg/ kg/day (n = 15) | Placebo vs. Pooled Nutropin t-test p-value |
+| Proportion | Placebo (n = 62) | Nutropin (n = 63) | Between-Groups t-test p-value | Placebo (n = 13) | Nutropin 0.0125 mg/kg/day (n = 15) | Nutropin 0.025 mg/kg/day (n = 15) | Placebo vs. Pooled Nutropin t-test p-value |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Adult Onset (Study 1) |  |  | Childhood Onset (Study 2) |  |  |  |
 | Total body percent fat |  |  |  |  |  |  |  |
