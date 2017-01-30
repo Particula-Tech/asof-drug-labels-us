@@ -14,9 +14,9 @@ Administer MEPRON oral suspension with food to avoid lower plasma atovaquone con
 
 MEPRON Foil Pouch
 
-- •Open each 5-mL pouch by removing tab at perforation and tear at notch.
+- •Open each 5-mL pouch by folding along the dotted line and tearing open at notch as directed by arrow on pouch.
 - •For a 5-mL dose, take entire contents either by placing directly into the mouth or by dispensing into a dosing spoon (5 mL) or cup prior to administration by mouth.
-- •For a 10-mL dose, take the entire contents of two pouches.
+- •For a 10-mL dose, take the entire contents of 2 pouches.
 
 MEPRON Bottle
 

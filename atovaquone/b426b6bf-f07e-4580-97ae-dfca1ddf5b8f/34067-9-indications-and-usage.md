@@ -2,7 +2,7 @@
 
 ## 1.1 Prevention of Pneumocystis jiroveci Pneumonia
 
-MEPRON® suspension is indicated for the prevention of Pneumocystis jiroveci pneumonia (PCP) in adults and adolescents (aged 13 years and older) who cannot tolerate trimethoprim-sulfamethoxazole (TMP-SMX).
+MEPRON suspension is indicated for the prevention of Pneumocystis jiroveci pneumonia (PCP) in adults and adolescents (aged 13 years and older) who cannot tolerate trimethoprim-sulfamethoxazole (TMP-SMX).
 
 ## 1.2 Treatment of Mild-to-Moderate Pneumocystis jiroveci Pneumonia
 

@@ -41,7 +41,7 @@ An analysis of all PCP events (intent-to-treat analysis) for both trials showed 
 
 ## 14.2 Treatment of PCP
 
-The indication for treatment of mild‑to‑moderate PCP is based on the results of two efficacy trials: a randomized, double‑blind trial comparing MEPRON tablets with TMP‑SMX in subjects with HIV/AIDS and mild‑to‑moderate PCP (defined in the protocol as [(A‑a)DO2] ≤45 mm Hg and PaO2 ≥60 mm Hg on room air) and a randomized open-label trial comparing MEPRON tablets with IV pentamidine isethionate in subjects with mild‑to‑moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
+The indication for treatment of mild‑to‑moderate PCP is based on the results of 2 efficacy trials: a randomized, double‑blind trial comparing MEPRON tablets with TMP‑SMX in subjects with HIV/AIDS and mild‑to‑moderate PCP (defined in the protocol as [(A‑a)DO2] ≤45 mm Hg and PaO2 ≥60 mm Hg on room air) and a randomized open-label trial comparing MEPRON tablets with IV pentamidine isethionate in subjects with mild‑to‑moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
 Both trials were conducted with the tablet formulation using 750 mg three times daily.
 Results from these efficacy trials established a relationship between plasma atovaquone concentration and successful outcome.
 Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
@@ -90,13 +90,13 @@ The failure rate due to lack of response was significantly higher for subjects r
 
 Pentamidine Comparative Trial
 
-This unblinded, randomized trial was designed to compare the safety and efficacy of MEPRON with that of pentamidine for the treatment of histologically confirmed mild or moderate PCP in subjects with HIV/AIDS.
+This unblinded, randomized trial was designed to compare the safety and efficacy of MEPRON with that of pentamidine for the treatment of histologically-confirmed mild or moderate PCP in subjects with HIV/AIDS.
 Approximately 80% of the subjects either had a history of intolerance to trimethoprim or sulfa antimicrobials (the primary therapy group) or were experiencing intolerance to TMP‑SMX with treatment of an episode of PCP at the time of enrollment in the trial (the salvage treatment group).
 A total of 174 subjects were enrolled into the trial.
 Subjects were randomized to receive MEPRON 750 mg (three 250‑mg tablets) 3 times daily for 21 days or pentamidine isethionate 3- to 4‑mg/kg single IV infusion daily for 21 days.
 The majority of subjects were white (72%) and male (97%); the mean age was approximately 37 years.
 Thirty‑nine subjects without histologic confirmation of PCP were excluded from the efficacy analyses.
-Of the 135 subjects with histologically confirmed PCP, 70 were randomized to receive MEPRON and 65 to pentamidine.
+Of the 135 subjects with histologically-confirmed PCP, 70 were randomized to receive MEPRON and 65 to pentamidine.
 One hundred and ten (110) of these were in the primary therapy group and 25 were in the salvage therapy group.
 One subject in the primary therapy group randomized to receive pentamidine did not receive trial medication.
 
