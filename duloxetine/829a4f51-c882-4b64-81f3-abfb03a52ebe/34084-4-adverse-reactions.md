@@ -64,7 +64,7 @@ Common adverse reactions reported as a reason for discontinuation and considered
 
 ## 6.3 Most Common Adult Adverse Reactions
 
-Pooled Trials for All Approved Indications
+Pooled Trials for all Approved Indications
 
 The most commonly observed adverse reactions in duloxetine -treated patients (incidence of at least 5% and at least twice the incidence in placebo patients) were nausea, dry mouth, somnolence, constipation, decreased appetite, and hyperhidrosis.
 
@@ -350,7 +350,7 @@ The most common (≥5% and twice placebo) adverse reactions observed in pediatri
 
 Table 6 provides the incidence of treatment-emergent adverse reactions in pediatric placebo-controlled trials that occurred in greater than 2% of patients treated with duloxetine and with an incidence greater than placebo.
 
-Table 6: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in three 10 week Pediatric Placebo-Controlled Trialsa
+Table 6: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in three 10-week Pediatric Placebo-Controlled Trialsa
 
 | System Organ Class/Adverse Reaction | Percentage of Pediatric Patients Reporting Reaction |  |
 | --- | --- | --- |

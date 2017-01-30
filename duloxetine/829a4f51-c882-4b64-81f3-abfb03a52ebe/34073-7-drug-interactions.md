@@ -74,7 +74,7 @@ Inhibition of the metabolism of CYP2C19 substrates is therefore not anticipated,
 
 ## 7.14 Serotonergic Drugs
 
-[See DOSAGE AND ADMINISTRATION (2.4, 2.8), CONTRAINDICATIONS (4), and WARNINGS AND PRECAUTIONS (5.4)].
+[See DOSAGE AND ADMINISTRATION (2.8, 2.9), CONTRAINDICATIONS (4), and WARNINGS AND PRECAUTIONS (5.4)].
 
 ## 7.15 Alcohol
 

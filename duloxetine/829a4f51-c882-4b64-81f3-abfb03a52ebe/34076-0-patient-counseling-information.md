@@ -45,7 +45,7 @@ Advise patients of the risk of orthostatic hypotension, falls and syncope, espec
 
 • Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome with the concomitant use of duloxetine and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John's Wort [see CONTRAINDICATIONS (4), WARNINGS AND PRECAUTIONS (5.4), and DRUG INTERACTIONS (7.14)].
+Caution patients about the risk of serotonin syndrome with the concomitant use of duloxetine and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John's Wort [see CONTRAINDICATIONS (4), WARNINGS AND PRECAUTIONS (5.4), and DRUG INTERACTIONS (7.14)].
 
 Advise patients of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Caution patients to seek medical care immediately if they experience these symptoms.
@@ -141,4 +141,4 @@ Goa 403722
 
 INDIA
 
-Revised: December 2016 ID#: 248944
+Revised: February 02, 2017 ID#: 250689

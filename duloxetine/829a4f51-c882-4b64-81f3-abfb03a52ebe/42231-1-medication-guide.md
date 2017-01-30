@@ -106,6 +106,7 @@ Especially tell your healthcare provider if you take:
 - triptans used to treat migraine headache
 - medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
 - tramadol and fentanyl
+- amphetamines
 - cimetidine
 - the antibiotics ciprofloxacin, enoxacin
 - medicine to treat irregular heart rate (like propafenone, flecainide, quinidine)
@@ -247,7 +248,7 @@ The most common side effects of duloxetine delayed-release capsules include:
 
 Common possible side effects in children and adolescents who take duloxetine delayed-release capsules include:
 
-- Nausea
+- nausea
 - decreased weight
 - dizziness
 
@@ -310,4 +311,4 @@ Goa 403722
 
 INDIA
 
-Revised: April 2016 ID#: 244877
+Revised: February 02, 2017 ID#: 250691
