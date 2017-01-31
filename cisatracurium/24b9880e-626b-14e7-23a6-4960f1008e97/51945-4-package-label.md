@@ -12,7 +12,7 @@ Single-dose vial
 
 Rx only
 
-PREMIERPro™ Rx
+PREMIERPro Rx®
 
 NDC 0074–4380–79
 
@@ -30,7 +30,7 @@ Multiple-dose vial
 
 Rx only
 
-PREMIERPro™ Rx
+PREMIERPro Rx®
 
 NDC 0074–4382–91
 
@@ -48,4 +48,4 @@ For ICU use only.
 
 Rx only
 
-PREMIERPro™ Rx
+PREMIERPro Rx®

@@ -6,16 +6,13 @@ CONTAINS BENZYL ALCOHOL
 
 Nimbex® is a registered trademark of GlaxoSmithKline, licensed for use by AbbVie Inc.
 
-PREMIERProTMRx is a trademark of Premier, Inc., used under license.
+PREMIERProRx® is a registered trademark of Premier, Inc., used under license.
 
-Mfd By: Hospira, Inc.
-
-Lake Forest, IL 60045 USA
-
+Mfd.
 For: AbbVie Inc.
 
 North Chicago, IL 60064 USA
 
-©AbbVie Inc. 2013, 2014
+©2016 AbbVie Inc.
 
-EN-3574 July, 2014
+EN-4454 December, 2016
