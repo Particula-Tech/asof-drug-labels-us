@@ -34,6 +34,8 @@ Intravenous dosages and administration intervals should be adjusted to the degre
 In a secondary analysis using data from a large multicenter, randomized-controlled trial when glomerular filtration rate (GFR) was examined after administration of frequently used antibiotics in critically ill patients, the use of piperacillin/tazobactam was associated with a lower rate of reversible GFR improvement compared with the other antibiotics.
 This secondary analysis concluded that piperacillin/tazobactam was a cause of delayed renal recovery in these patients.
 
+Combined use of piperacillin/tazobactam and vancomycin may be associated with an increased incidence of acute kidney injury [see Drug Interactions (7.3)].
+
 ## 5.6 Electrolyte Effects
 
 ZOSYN contains a total of 2.84 mEq (65 mg) of Na+ (sodium) per gram of piperacillin in the combination product.

@@ -24,7 +24,12 @@ Probenecid should not be co-administered with ZOSYN unless the benefit outweighs
 
 ## 7.3 Vancomycin
 
-A limited number of retrospective studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin/tazobactam and vancomycin as compared to vancomycin alone.
+Studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin/tazobactam and vancomycin as compared to vancomycin alone [see Warnings and Precautions (5.5)].
+Some of these studies have reported that the interaction is vancomycin dose-dependent.
+Expert guidelines recommend intensive vancomycin dosing and maintenance of trough levels between 15 mg/L and 20 mg/L which is an increase from previously published recommendations of target trough concentrations of 5-10 mg/L.
+Attaining these trough concentrations often requires practitioners to prescribe vancomycin doses which exceed manufacturers' recommendations.
+Therefore, it is possible that in addition to the increased risk of vancomycin-induced nephrotoxicity reported with adherence to these guidelines the risk of nephrotoxicity may also increase due to an interaction with piperacillin/tazobactam.
+
 Monitor kidney function in patients concomitantly administered with piperacillin/tazobactam and vancomycin.
 
 No pharmacokinetic interactions have been noted between piperacillin/tazobactam and vancomycin.
