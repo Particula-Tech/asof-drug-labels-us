@@ -11,15 +11,15 @@ None.
 
 ### Incidence Less than 1%
 
-#### Cardiovascular
+Cardiovascular
 
 bradycardia (0.4%) hypotension (0.2%) flushing (0.2%).
 
-#### Respiratory
+Respiratory
 
 bronchospasm (0.2%).
 
-#### Dermatological
+Dermatological
 
 rash (0.1%).
 

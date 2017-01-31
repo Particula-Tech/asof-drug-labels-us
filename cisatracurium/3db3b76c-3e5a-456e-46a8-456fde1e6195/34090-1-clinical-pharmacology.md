@@ -234,7 +234,7 @@ Most importantly, Cmax values of laudanosine are significantly lower in healthy 
 
 ### Elimination
 
-#### Clearance and Half-life
+Clearance and Half-life
 
 Mean CL values for cisatracurium ranged from 4.5 to 5.7 mL/min/kg in studies of healthy surgical patients.
 Compartmental pharmacokinetic modeling suggests that approximately 80% of the CL is accounted for by Hofmann elimination and the remaining 20% by renal and hepatic elimination.
@@ -248,7 +248,7 @@ During IV infusions of NIMBEX, peak plasma concentrations (Cmax) of laudanosine 
 
 ### Special Populations
 
-#### Geriatric Patients (≥ 65 years)
+Geriatric Patients (≥ 65 years)
 
 The results of conventional pharmacokinetic analysis from a study of 12 healthy elderly patients and 12 healthy young adult patients receiving a single IV dose of 0.1 mg/kg NIMBEX are summarized in Table 6.
 Plasma clearances of cisatracurium were not affected by age; however, the volumes of distribution were slightly larger in elderly patients than in young patients resulting in slightly longer t½β values for cisatracurium.
@@ -266,7 +266,7 @@ Pharmacokinetic Parameters* of Cisatracurium in Healthy Elderly and Young Adult 
 | Plasma Clearance (mL/min/kg) | 5.7 ± 1.0 | 5.3 ± 0.9 |
 | * Values presented are mean ± SD. † P < 0.05 for comparisons between healthy elderly and healthy young adult patients. ‡ Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
 
-#### Patients with Hepatic Disease
+Patients with Hepatic Disease
 
 Table 7 summarizes the conventional pharmacokinetic analysis from a study of NIMBEX in 13 patients with end-stage liver disease undergoing liver transplantation and 11 healthy adult patients undergoing elective surgery.
 The slightly larger volumes of distribution in liver transplant patients were associated with slightly higher plasma clearances of cisatracurium.
@@ -287,7 +287,7 @@ Pharmacokinetic Parameters* of Cisatracurium in Healthy Adult Patients and in Pa
 | Plasma Clearance (mL/min/kg) | 6.6 ± 1.1† | 5.7 ± 0.8 |
 | * Values presented are mean ± SD. † P < 0.05 for comparisons between liver transplant patients and healthy adult patients. ‡ Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
 
-#### Patients with Renal Dysfunction
+Patients with Renal Dysfunction
 
 Results from a conventional pharmacokinetic study of NIMBEX in 13 healthy adult patients and 15 patients with end-stage renal disease (ESRD) undergoing elective surgery are summarized in Table 8.
 The PK/PD parameters of cisatracurium were similar in healthy adult patients and ESRD patients.
@@ -310,7 +310,7 @@ Population pharmacokinetic analyses revealed that patients with creatinine clear
 There was no clinically significant alteration in the recovery profile of NIMBEX in patients with renal dysfunction.
 The recovery profile of NIMBEX is unchanged in the presence of renal or hepatic failure, which is consistent with predominantly organ-independent elimination.
 
-#### Intensive Care Unit (ICU) Patients
+Intensive Care Unit (ICU) Patients
 
 The pharmacokinetics of cisatracurium, atracurium, and their metabolites were determined in six ICU patients receiving NIMBEX and in six ICU patients receiving atracurium and are presented in Table 9.
 The plasma clearances of cisatracurium and atracurium are similar.
@@ -340,7 +340,7 @@ The t½β values of laudanosine were 39 ± 14 hours in ICU patients with liver f
 Therefore, relative to ICU patients with normal renal and hepatic function receiving NIMBEX, metabolite concentrations (plasma and tissues) may be higher in ICU patients with renal or hepatic failure (see Precautions - Long-term Use in the Intensive Care Unit).
 Consistent with the decreased infusion rate requirements for NIMBEX, metabolite concentrations were lower in patients receiving NIMBEX than in patients receiving atracurium besylate.
 
-#### Pediatric Patients
+Pediatric Patients
 
 The population PK/PD of cisatracurium were described in 20 healthy pediatric patients during halothane anesthesia, using the same model developed for healthy adult patients.
 The CL was higher in healthy pediatric patients (5.89 mL/min/kg) than in healthy adult patients (4.57 mL/min/kg) during opioid anesthesia.
@@ -348,7 +348,7 @@ The rate of equilibration between plasma concentrations and neuromuscular block,
 The EC50 in healthy pediatric patients (125 ng/mL) was similar to the value in healthy adult patients (141 ng/mL) during opioid anesthesia.
 The minor differences in the PK/PD parameters of cisatracurium were associated with a faster time to onset and a shorter duration of cisatracurium-induced neuromuscular block in pediatric patients.
 
-#### Other Patient Factors
+Other Patient Factors
 
 Population PK/PD analyses revealed that gender and obesity were associated with statistically significant effects on the pharmacokinetics and/or pharmacodynamics of cisatracurium; these factors were not associated with clinically significant alterations in the predicted onset or recovery profile of NIMBEX.
 The use of inhalation agents was associated with a 21% larger Vss, a 78% larger keo, and a 15% lower EC50 for cisatracurium.

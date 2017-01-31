@@ -6,14 +6,11 @@ CONTAINS BENZYL ALCOHOL
 
 Nimbex® is a registered trademark of GlaxoSmithKline, licensed for use by AbbVie Inc.
 
-©2013 AbbVie Inc.
+©2016 AbbVie Inc.
 
-Mfd By: Hospira, Inc.
-
-Lake Forest, IL 60045 USA
-
+Mfd.
 For: AbbVie Inc.
 
 North Chicago, IL 60064 USA
 
-EN-3172 January, 2013
+EN-4453 December, 2016

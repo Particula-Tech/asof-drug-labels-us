@@ -126,7 +126,7 @@ In the presence of S-9, cisatracurium besylate was positive at a cisatracurium c
 
 ### Teratogenic Effects
 
-#### Pregnancy Category B
+Pregnancy Category B
 
 Teratology testing in nonventilated pregnant rats treated subcutaneously with maximum subparalyzing doses (4 mg/kg daily; equivalent to 8 × the human ED95 following a bolus dose of 0.2 mg/kg IV) and in ventilated rats treated intravenously with paralyzing doses of NIMBEX at 0.5 and 1.0 mg/kg; equivalent to 10 × and 20 × the human ED95 dose, respectively, revealed no maternal or fetal toxicity or teratogenic effects.
 There are no adequate and well-controlled studies of NIMBEX in pregnant women.
