@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA207944"
+  ],
+  "inn": "aspirin",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "49884-007-02"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "aspirin and extended - release dipyridamole",
+      "name": "Aspirin and Extended - Release Dipyridamole Capsules, 25 mg / 200 mg"
+    }
+  ],
+  "setid": "237a1f63-53ff-47fa-903c-ac6276e594a2",
+  "source": "dailymed"
+}
