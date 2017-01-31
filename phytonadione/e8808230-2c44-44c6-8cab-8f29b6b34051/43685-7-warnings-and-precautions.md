@@ -17,7 +17,7 @@ Dosage should be kept as low as possible, and prothrombin time should be checked
 Repeated large doses of vitamin K are not warranted in liver disease if the response to initial use of the vitamin is unsatisfactory.
 Failure to respond to vitamin K may indicate that the condition being treated is inherently unresponsive to vitamin K.
 
-Benzyl alcohol has been reported to be associated with a fatal “Gasping Syndrome” in premature infants.
+Benzyl alcohol has been reported to be associated with a fatal "Gasping Syndrome" in premature infants.
 
 WARNING: This product contains aluminum that may be toxic.
 Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired.

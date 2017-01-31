@@ -3,7 +3,7 @@
 Deaths have occurred after intravenous and intramuscular administration.
 (See Box Warning.)
 
-Transient “flushing sensations” and “peculiar” sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis.
+Transient "flushing sensations" and "peculiar" sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis.
 
 Pain, swelling, and tenderness at the injection site may occur.
 
