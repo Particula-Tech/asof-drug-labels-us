@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Prior to self-administration of the product at home, ensure to train patients and caregivers how to prepare and administer the product correctly to help avoid wrong technique and dosing errors.
+
 Patients being treated with SAIZEN (and/or their parents) should be informed about the potential benefits and risks associated with SAIZEN treatment.
 This information is intended to better educate patients (and caregivers); it is not a disclosure of all possible adverse or intended effects.
 
@@ -21,3 +23,5 @@ Counsel patients that they should never share a SAIZEN needle with another perso
 Sharing of the pen between patients may pose a risk of transmission of infection.
 
 For drug preparation instructions for SAIZEN click.easy® cartridges, please refer to the Instructions for Use provided with click.easy® reconstitution device.
+
+For drug preparation instructions for saizenprep® cartridges, please refer to the Instructions for Use provided with saizenprep® reconstitution device.

@@ -13,6 +13,8 @@ SAIZEN is a sterile, non pyrogenic, white, lyophilized powder supplied in packag
 
 1 click.easy® cartridge of 8.8 mg SAIZEN and 1.51 mL Sterile Water for Injection 0.3% (w/v) metacresol as a antimicrobial preservative NDC 44087-1080-1
 
+1 saizenprep® cartridge of 8.8 mg SAIZEN and 1.51 mL Sterile Water for Injection 0.3% (w/v) metacresol as antimicrobial preservative NDC 44087-0016-1
+
 ## 16.2 Storage and Handling
 
 Before Reconstitution - SAIZEN should be stored at room temperature (15°-30°C/59°-86°F).
@@ -21,5 +23,7 @@ Expiration dates are stated on the labels.
 After Reconstitution - SAIZEN 5 mg and 8.8 mg vials reconstituted with the Bacteriostatic Water for Injection, USP (0.9% Benzyl Alcohol) provided should be stored under refrigeration (2°–8°C/36°–46°F) for up to 14 days.
 
 SAIZEN 8.8 mg click.easy® cartridge reconstituted with the Sterile Water for Injection, 0.3% (w/v) metacresol provided should be stored under refrigeration (2°–8°C/36°–46°F) for up to 21 days.
+
+SAIZEN 8.8 mg saizenprep® cartridge reconstituted with the Sterile Water for Injection, 0.3% (w/v) metacresol provided should be stored under refrigeration (2°-8°C/36°-46°F) for up to 21 days.
 
 Avoid freezing reconstituted vials or cartridges of SAIZEN.

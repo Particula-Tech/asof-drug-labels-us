@@ -40,10 +40,10 @@ The doses of antihyperglycemic drugs (i.e., insulin or oral agents) may require 
 
 Intracranial hypertension (IH) with papilledema, visual changes, headache, nausea, and/or vomiting has been reported in a small number of patients treated with somatropin products.
 Symptoms usually occurred within the first eight (8) weeks after the initiation of somatropin therapy.
-In all reported cases, IHassociated signs and symptoms rapidly resolved after cessation of therapy or a reduction of the somatropin dose.
+In all reported cases, IH-associated signs and symptoms rapidly resolved after cessation of therapy or a reduction of the somatropin dose.
 Funduscopic examination should be performed routinely before initiating treatment with somatropin to exclude preexisting papilledema, and periodically during the course of somatropin therapy.
 If papilledema is observed by funduscopy during somatropin treatment, treatment should be stopped.
-If somatropin-induced IH is diagnosed, treatment with somatropin can be restarted at a lower dose after IHassociated signs and symptoms have resolved.
+If somatropin-induced IH is diagnosed, treatment with somatropin can be restarted at a lower dose after IH-associated signs and symptoms have resolved.
 Patients with Turner syndrome, chronic renal insufficiency, and Prader-Willi syndrome may be at increased risk for the development of IH.
 
 ## 5.6 Severe Hypersensitivity

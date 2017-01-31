@@ -5,6 +5,7 @@
   "inn": "somatropin",
   "labeler": "EMD Serono, Inc.",
   "package_ndcs": [
+    "44087-0016-1",
     "44087-1005-2",
     "44087-1080-1",
     "44087-1088-1"
@@ -19,6 +20,11 @@
       "form": "KIT",
       "generic": "somatropin",
       "name": "Saizen"
+    },
+    {
+      "form": "KIT",
+      "generic": "somatropin",
+      "name": "saizenprep"
     }
   ],
   "setid": "ab750de2-3eda-411a-924e-00c499eda39b",

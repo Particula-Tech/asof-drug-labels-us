@@ -27,12 +27,11 @@ Diluent
 
 The diluent is Bacteriostatic Water for Injection, USP containing 0.9% Benzyl Alcohol added as an antimicrobial preservative.
 
+Reconstitution devices:
+
 click.easy® reconstitution device
 
-SAIZEN is also available in the click.easy® reconstitution device.
-The quantitative composition per vial contained in the click.easy® reconstitution device is:
-
-8.8 mg vial contained in the click.easy® device
+SAIZEN 8.8 mg vial contained in the click.easy® reconstitution device.
 
 Each vial contains 8.8 mg somatropin, 60.2 mg sucrose and 2.05 mg O-phosphoric acid.
 The pH is adjusted with sodium hydroxide or O-phosphoric acid.
@@ -40,4 +39,15 @@ The pH is adjusted with sodium hydroxide or O-phosphoric acid.
 Diluent
 
 The diluent contained in click.easy® device is 0.3% (w/v) metacresol in Sterile Water for Injection added as an antimicrobial preservative.
+The reconstituted solution has a pH of 6.5 to 8.5.
+
+saizenprep® reconstitution device
+
+SAIZEN 8.8 mg vial supplied with the saizenprep® reconstitution device.
+Each vial contains 8.8 mg somatropin, 60.2 mg sucrose and 2.05 mg O-phosphoric acid.
+The pH is adjusted with sodium hydroxide or O-phosphoric acid.
+
+Diluent
+
+The diluent supplied with saizenprep® reconstitution device is 0.3% (w/v) metacresol in Sterile Water for Injection added as an antimicrobial preservative.
 The reconstituted solution has a pH of 6.5 to 8.5.

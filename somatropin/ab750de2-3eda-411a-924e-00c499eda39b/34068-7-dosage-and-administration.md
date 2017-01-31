@@ -39,6 +39,8 @@ Oral estrogen administration may increase the dose requirements in women.
 
 ## 2.3 Preparation and Administration
 
+Prior to self-administration of the product at home, ensure to train patients and caregivers how to prepare and administer the product correctly to help avoid wrong technique and dosing errors.
+
 Vials
 
 To prevent possible contamination, wipe the rubber vial stopper with an antiseptic solution before puncturing it with the needle.
@@ -61,5 +63,9 @@ Use it only if it is clear and colorless.
 click.easy® cartridges
 
 For drug preparation instructions for SAIZEN click.easy® cartridges, please refer to the instructions for use provided with click.easy® reconstitution device.
+
+saizenprep® cartridges
+
+For drug preparation instructions for saizenprep® cartridges, please refer to the Instructions for Use provided with saizenprep® reconstitution device.
 
 Injection sites should always be rotated to avoid lipoatrophy.
