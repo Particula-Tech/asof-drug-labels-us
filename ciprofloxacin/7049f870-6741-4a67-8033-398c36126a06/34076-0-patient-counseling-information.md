@@ -21,9 +21,7 @@ Inform patients of the following serious adverse reactions that have been associ
   Instruct patients to notify their physician if persistent headache with or without blurred vision occurs.
 - Exacerbation of Myasthenia Gravis: Instruct patients to inform their physician of any history of myasthenia gravis.
   Instruct patients to notify their physician if they experience any symptoms of muscle weakness, including respiratory difficulties.
-
-Hypersensitivity Reactions: Inform patients that ciprofloxacin can cause hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (for example, swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
-
+- Hypersensitivity Reactions: Inform patients that ciprofloxacin can cause hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (for example, swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
 - Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking ciprofloxacin.
   Instruct patients to inform their physician if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
