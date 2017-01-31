@@ -14,8 +14,8 @@ One study of 8 patients, who were administered a pretitrated dose (average 27.5 
 
 Manufactured by:
 
-PAR PHARMACEUTICAL, INC.
+PAR PHARMACEUTICAL
 
-Spring Valley, NY 10977
+Chestnut Ridge, NY 10977
 
-R03/2015
+Revised 02/2016
