@@ -23,7 +23,6 @@ Patient Information
 DOCEFREZ™(‘dō-sə-‘frāz) (docetaxel) for Injection Read this Patient Information before you receive your first treatment with DOCEFREZ and each time before you are treated.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
-
 What is the most important information I should know about DOCEFREZ?
 DOCEFREZ can cause serious side effects, including death.
 
@@ -136,7 +135,6 @@ These are not all the possible side effects of DOCEFREZ.
 For more information ask your doctor or pharmacist.
 Call your doctor or for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
-
 General information about DOCEFREZ Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 This Patient Information leaflet summarizes the most important information about DOCEFREZ.
 If you would like more information, talk with your doctor.
@@ -149,4 +147,4 @@ Active ingredient: docetaxel Inactive ingredients include: ethanol in polysorbat
 | --- |
 | Every three-week injection of DOCEFREZ for prostate cancer Take your oral corticosteroid medicine as your doctor tells you. Oral corticosteroid dosing: Date:___________ Time:___________ Date:___________ Time:___________ (DOCEFREZ Treatment Day) Time:___________ |
 
-This Patient Information has been approved bythe U.S. Food and Drug Administration.
+This Patient Information has been approved by the U.S. Food and Drug Administration.

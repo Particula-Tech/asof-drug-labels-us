@@ -143,7 +143,7 @@ Lung Cancer Monotherapy with docetaxel for unresectable, locally advanced or met
 Included in this table are safety data for a total of 176 patients with non-small cell lung carcinoma and a history of prior treatment with platinum-based chemotherapy who were treated in two randomized, controlled trials.
 These reactions were described using NCI Common Toxicity Criteria regardless of relationship to study treatment, except for the hematologic toxicities or where otherwise noted.
 
-Table 5 - Treatment Emergent Adverse Reactions Regardless of Relationship to Treatment in Patients Receiving Docetaxel as Monotherapy for Non-Small Cell Lung Cancer Previously Treated with Platinum-Based ChemotherapyNormal Baseline LFTs: Transaminases ≤ 1.5 times ULN or alkaline phosphatase ≤ 2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN
+Table 5 - Treatment Emergent Adverse Reactions Regardless of Relationship to Treatment in Patients Receiving Docetaxel as Monotherapy for Non-Small Cell Lung Cancer Previously Treated with Platinum-Based Chemotherapy
 
 | Adverse Reaction | Docetaxel 75 mg/m2 n=176 % | Best Supportive Care n=49 % | Vinorelbine/ Ifosfamide n=119 % |
 | --- | --- | --- | --- |
