@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA208603"
+  ],
+  "inn": "morphine",
+  "labeler": "Egalet US Inc.",
+  "package_ndcs": [
+    "69344-111-11",
+    "69344-211-11",
+    "69344-311-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "morphine sulfate",
+      "name": "Arymo"
+    }
+  ],
+  "setid": "e60552c9-06ce-4790-95e7-aadd4df12b2a",
+  "source": "dailymed"
+}
