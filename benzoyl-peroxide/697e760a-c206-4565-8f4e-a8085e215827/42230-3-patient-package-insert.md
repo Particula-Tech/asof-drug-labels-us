@@ -1,4 +1,4 @@
-PATIENT INFORMATION ONEXTON™ (ON-EX-TUN) (clindamycin phosphate and benzoyl peroxide) Gel, 1.2%/3.75%
+PATIENT INFORMATION ONEXTON® (ON-EX-TUN) (clindamycin phosphate and benzoyl peroxide) Gel, 1.2%/3.75%
 
 | Important information: For use on skin only (topical use). Do not get ONEXTON Gel in your mouth, eyes, vagina, on your lips, or on cuts or open wounds. |
 | --- |
@@ -76,9 +76,9 @@ What are possible side effects with ONEXTON Gel?
 ONEXTON Gel may cause serious side effects, including:
 
 - •Inflammation of the colon (colitis).
-  Stop using ONEXTON Gel and call your doctor right away if you have severe watery diarrhea, or bloody diarrhea.
+  Stop using ONEXTON Gel and call your doctor right away if you have severe watery diarrhea or bloody diarrhea.
 - •Allergic reactions.
-  Stop using ONEXTON Gel, call your doctor and get help right away if you get severe itching, swelling of your face, eyes, lips, tongue or throat, or trouble breathing.
+  Stop using ONEXTON Gel, call your doctor and get help right away if you get severe itching, swelling of your face, eyes, lips, tongue, or throat, or trouble breathing.
 
 The most common side effect with ONEXTON Gel is skin irritation.
 Stop using ONEXTON Gel and call your doctor if you have a skin rash or burning, or your skin becomes very red, itchy or swollen.
@@ -89,7 +89,7 @@ These are not all the possible side effects with ONEXTON Gel.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-You may also report side effects to Valeant Pharmaceuticals North America LLC at 1-800-321-4576.
+You may also report side effects to Valeant Pharmaceuticals North America LLC, at 1-800-321-4576.
 
 How should I store ONEXTON Gel?
 
@@ -116,36 +116,32 @@ Active ingredients: clindamycin phosphate 1.2% and benzoyl peroxide 3.75%
 
 Inactive ingredients: carbomer 980, potassium hydroxide, propylene glycol, and purified water
 
-Manufactured By:
+Manufactured for: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
 
-Contract Pharmaceuticals Limited, Mississauga, Ontario, Canada L5N 6L6
+By: Valeant Pharmaceuticals International, Inc., Laval, Quebec H7L 4A8, Canada
 
-Or
+OR
 
-Valeant Pharmaceuticals International Inc.
+By: Contract Pharmaceuticals Limited, Mississauga, Ontario, Canada L5N 6L6
 
-Laval, Quebec, H7L 4A8, Canada
+U.S. Patent 8,288,434
 
-Manufactured for:
+Onexton is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
-
-Made in Canada
-
-U.S. Patents 5,733,886 and 8,288,434
+©Valeant Pharmaceuticals North America LLC
 
 For more information about ONEXTON Gel, call 1-800-321-4576.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
+Valeant Pharmaceuticals International Inc. PI: 9432702 50105259C
+
+Rev.
+10/2016
+
+OR
+
 Contract Pharmaceuticals Limited PI:
 
 9389300 Rev.
 11/2014
-
-Valeant Pharmaceuticals International Inc. PI:
-
-9432701
-
-Rev.
-12/2014

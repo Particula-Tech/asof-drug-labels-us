@@ -18,7 +18,7 @@ Clindamycin plasma concentrations were below LOQ in all subjects at 24 hours pos
 
 Benzoyl peroxide has been shown to be absorbed by the skin where it is converted to benzoic acid.
 
-## 12.4Microbiology
+## 12.4 Microbiology
 
 Clindamycin binds to the 50S ribosomal subunits of susceptible bacteria and prevents elongation of peptide chains by interfering with peptidyl transfer, thereby suppressing bacterial protein synthesis.
 

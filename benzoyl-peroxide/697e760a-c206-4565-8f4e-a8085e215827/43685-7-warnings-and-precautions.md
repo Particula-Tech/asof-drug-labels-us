@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1Colitis
+## 5.1 Colitis
 
 Systemic absorption of clindamycin has been demonstrated following topical use of clindamycin.
 Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of topical and systemic clindamycin.
@@ -14,6 +14,6 @@ Studies indicate toxin(s) produced by Clostridia is one primary cause of antibio
 The colitis is usually characterized by severe persistent diarrhea and severe abdominal cramps and may be associated with the passage of blood and mucus.
 Stool cultures for Clostridium difficile and stool assay for C. difficile toxin may be helpful diagnostically.
 
-## 5.2Ultraviolet Light and Environmental Exposure
+## 5.2 Ultraviolet Light and Environmental Exposure
 
 Minimize sun exposure (including use of tanning beds or sun lamps) following drug application [see Nonclinical Toxicology (13.1)].

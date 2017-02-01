@@ -1,18 +1,18 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1Erythromycin
+## 7.1 Erythromycin
 
 Avoid using ONEXTON Gel in combination with topical or oral erythromycin-containing products due to its clindamycin component.
 In vitro studies have shown antagonism between erythromycin and clindamycin.
 The clinical significance of this in vitro antagonism is not known.
 
-## 7.2Concomitant Topical Medications
+## 7.2 Concomitant Topical Medications
 
 Concomitant topical acne therapy should be used with caution since a possible cumulative irritancy effect may occur, especially with the use of peeling, desquamating, or abrasive agents.
 If irritancy or dermatitis occurs, reduce frequency of application or temporarily interrupt treatment and resume once the irritation subsides.
 Treatment should be discontinued if the irritation persists.
 
-## 7.3Neuromuscular Blocking Agents
+## 7.3 Neuromuscular Blocking Agents
 
 Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
 ONEXTON Gel should be used with caution in patients receiving such agents.
