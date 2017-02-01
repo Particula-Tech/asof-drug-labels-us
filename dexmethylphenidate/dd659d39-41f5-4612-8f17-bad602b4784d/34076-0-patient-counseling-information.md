@@ -22,9 +22,9 @@ Circulation problems in fingers and toes [Peripheral vasculopathy, including Ray
 3. •Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking dexmethylphenidate hydrochloride extended-release capsules.
 4. •Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-F 12/2015
+H 1/2017

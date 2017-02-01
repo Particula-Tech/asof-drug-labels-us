@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects
-
-### Pregnancy Category C
+Pregnancy Category C:
 
 There are no adequate and well controlled studies of dexmethylphenidate hydrochloride tablets in pregnant women.
 Dexmethylphenidate did not cause major malformations in rats or rabbits; however, it did cause delayed skeletal ossification and decreased postweaning weight gain in rats.

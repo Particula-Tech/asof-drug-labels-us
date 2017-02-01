@@ -87,7 +87,7 @@ Occurring During Double-Blind Treatment–Adults
 | N = 57 | N = 54 | N = 54 | N = 53 |  |
 | No. of Patients with AEs |  |  |  |  |
 | Total | 84% | 94% | 85% | 68% |
-| Primary System Organ Class/ Adverse Event Preferred Term |  |  |  |  |
+| Primary System Organ Class/Adverse Event Preferred Term |  |  |  |  |
 | Gastrointestinal Disorders | 28% | 32% | 44% | 19% |
 | Dry Mouth | 7% | 20% | 20% | 4% |
 | Dyspepsia | 5% | 9% | 9% | 2% |
@@ -135,7 +135,7 @@ Immune: hypersensitivity reactions including skin rash, urticaria, fever, arthra
 
 Metabolism/Nutrition: anorexia, weight loss during prolonged therapy
 
-Nervous System: dizziness, drowsiness, dyskinesia, headache, rare reports of Tourette’s syndrome, toxic psychosis
+Nervous System: dizziness, drowsiness, dyskinesia, headache, rare reports of Tourette’s syndrome, serotonin syndrome in combination with serotonergic drugs, toxic psychosis
 
 Vascular: blood pressure increased or decreased, cerebral arteritis and/or occlusion
 
@@ -143,7 +143,7 @@ Although a definite causal relationship has not been established, the following 
 
 Blood/Lymphatic: leukopenia and/or anemia
 
-Hepatobiliary: abnormal liver function, ranging from transaminase elevation to hepatic coma
+Hepatobiliary: abnormal liver function, ranging from transaminase elevation to severe hepatic injury
 
 Psychiatric: transient depressed mood, aggressive behavior, libido changes
 
