@@ -1,31 +1,33 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Most Serious and/or Most Frequently Observed Adverse Reactions
+The following important adverse reactions area also described elsewhere in labeling:
 
-This list presents the most seriousb and/or most frequently observeda adverse reactions during treatment with somatropin:
+- •Increased mortality in patients with acute critical illness [see Warnings and Precautions (5.1)]
+- •Fatalities in children with Prader-Willi Syndrome [see Warnings and Precautions (5.2)].
+- •Neoplasms [see Warnings and Precautions (5.3)]
+- •aGlucose intolerance and diabetes mellitus [Warnings and Precautions (5.4)]
+- •Intracranial hypertension [see Warnings and Precautions (5.5)]
+- •Severe hypersensitivity [see Warnings and Precautions (5.6)]
+- •Fluid retention [see Warnings and Precautions (5.7)]
+- •Hypoadrenalism [see Warnings and Precautions (5.8)]
+- •Hypothyroidism [see Warnings and Precautions (5.9)]
+- •Slipped capital femoral epiphysis in pediatric patients [see Warnings and Precautions (5.10)]
+- •Progression of preexisting scoliosis in pediatric patients [see Warnings and Precautions (5.11)]
+- •Otitis media and cardiovascular disorders in patients with Turner syndrome [see Warnings and Precautions (5.12)]
+- •Lipoatrophy [see Warnings and Precautions (5.14)]
+- •Pancreatitis [see Warnings and Precautions (5.16)]
+- •Benzyl Alcohol [see Warnings and Precautions (5.17)]
 
-- •bSudden death in pediatric patients with Prader-Willi Syndrome with risk factors including severe obesity, history of upper airway obstruction or sleep apnea and unidentified respiratory infection [see Contraindications (4.2) and Warnings and Precautions (5.2)].
-- •bIntracranial tumors, in particular meningiomas, in teenagers/young adults treated with radiation to the head as children for a first neoplasm and somatropin [see Contraindications (4.3) and Warnings and Precautions (5.3)]
-- •a,bGlucose intolerance including impaired glucose tolerance/impaired fasting glucose as well as overt diabetes mellitus [Warnings and Precautions (5.4)]
-- •bIntracranial hypertension [see Warnings and Precautions (5.5)]
-- •bSignificant diabetic-retinopathy [see Contraindications (4.4)]
-- •bSlipped capital femoral epiphysis in pediatric patients [see Warnings and Precautions (5.9)]
-- •bProgression of preexisting scoliosis in pediatric patients [see Warnings and Precautions (5.10)]
-- •bPancreatitis [see Warnings and Precautions (5.15)]
-- •aFluid retention manifested by edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias [see Warnings and Precautions (5.6)]
-- •aUnmasking of latent central hypothyroidism [see Warnings and Precautions (5.8)]
-- •aInjection site reactions/rashes and lipoatrophy (as well as rare generalized hypersensitivity reactions) [see Warnings and Precautions (5.13)]
-
-## 6.2 Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under varying conditions, adverse reaction rates observed during the clinical trials performed with one somatropin formulation cannot always be directly compared to the rates observed during the clinical trials performed with a second somatropin formulation, and may not reflect the adverse reaction rates observed in practice.
 
 ### Clinical Trials in Pediatric GHD Patients
 
-The following events were observed during clinical studies with Omnitrope® Cartridge conducted in children with GHD:
+The following events were observed during clinical studies with Omnitrope Cartridge conducted in children with GHD:
 
 Table 1.
-Incidence of Adverse Reactions Reported in ≥ 5% Pediatric Patients with GHD During Treatment with Omnitrope® Cartridge (N=86)
+Incidence of Adverse Reactions Reported in ≥ 5% Pediatric Patients with GHD During Treatment with Omnitrope Cartridge (N=86)
 
 | Adverse Event | n (%) |
 | --- | --- |
@@ -34,10 +36,10 @@ Incidence of Adverse Reactions Reported in ≥ 5% Pediatric Patients with GHD Du
 | Hematoma | 8 (9%) |
 | N=number of patients receiving treatment n=number of patients who reported the event during study period %=percentage of patients who reported the event during study period |  |
 
-The following events were observed during clinical studies with Omnitrope® for injection conducted in children with GHD:
+The following events were observed during clinical studies with Omnitrope for injection conducted in children with GHD:
 
 Table 2.
-Incidence of Adverse Reactions Reported in ≥ 5% Pediatric Patients with GHD During Treatment with Omnitrope® for Injection (N=44)
+Incidence of Adverse Reactions Reported in ≥ 5% Pediatric Patients with GHD During Treatment with Omnitrope for Injection (N=44)
 
 | Adverse Event | n (%) |  |  |
 | --- | --- | --- | --- |
@@ -106,20 +108,22 @@ Other adverse events that have been reported include generalized edema and hypoe
 As with all therapeutic proteins, there is potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to OMNITROPE with the incidence of antibodies to other products may be misleading.
+For these reasons, comparison of the incidence of antibodies to Omnitrope with the incidence of antibodies to other products may be misleading.
 In the case of growth hormone, antibodies with binding capacities lower than 2 mg/mL have not been associated with growth attenuation.
 In a very small number of patients treated with somatropin, when binding capacity was greater than 2 mg/mL, interference with the growth response was observed.
 
-## 6.3 Post-Marketing Experience
+## 6.2 Post-Marketing Experience
 
 Because these adverse events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 The adverse events reported during post-marketing surveillance do not differ from those listed/discussed above in Sections 6.1 and 6.2 in children and adults.
 
+Serious systemic hypersensitivity reactions including anaphylactic reactions and angioedema have been reported with postmarketing use of somatropin products [see Warnings and Precautions (5.6)].
+
 Leukemia has been reported in a small number of GH deficient children treated with somatropin, somatrem (methionylated rhGH) and GH of pituitary origin.
 It is uncertain whether these cases of leukemia are related to GH therapy, the pathology of GHD itself, or other associated treatments such as radiation therapy.
 On the basis of current evidence, experts have not been able to conclude that GH therapy per se was responsible for these cases of leukemia.
-The risk for children with GHD, if any, remains to be established [see Contraindications (4.3) and Warnings and Precautions (5.3)].
+The risk for children with GHD, if any, remains to be established [see Contraindications (4) and Warnings and Precautions (5.3)].
 
-The following additional adverse reactions have been observed during the use of somatropin: headaches (children and adults), gynecomastia (children), and pancreatitis (children and adults [see Warnings and Precautions (5.15)].
+The following additional adverse reactions have been observed during the use of somatropin: headaches (children and adults), gynecomastia (children), and pancreatitis (children and adults [see Warnings and Precautions (5.16)].
 
 New-onset type 2 diabetes mellitus has been reported.

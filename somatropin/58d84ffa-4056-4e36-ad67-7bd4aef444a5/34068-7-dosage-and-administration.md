@@ -2,18 +2,18 @@
 
 The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
-Therapy with Omnitrope® should be supervised by a physician who is experienced in the diagnosis and management of pediatric patients with short stature associated with GHD, Prader-Willi Syndrome (PWS), Turner syndrome (TS), those who were born small for gestational age (SGA), Idiopathic Short Stature (ISS) and adult patients with either childhood onset or adult onset GHD.
+Therapy with Omnitrope should be supervised by a physician who is experienced in the diagnosis and management of pediatric patients with short stature associated with GHD, Prader-Willi Syndrome (PWS), Turner syndrome (TS), those who were born small for gestational age (SGA), Idiopathic Short Stature (ISS) and adult patients with either childhood onset or adult onset GHD.
 
 ## 2.1 Dosing of Pediatric Patients
 
 ### General Pediatric Dosing Information
 
-The Omnitrope® dosage and administration schedule should be individualized based on the growth response of each patient.
+The Omnitrope dosage and administration schedule should be individualized based on the growth response of each patient.
 
 Response to somatropin therapy in pediatric patients tends to decrease with time.
 However, in pediatric patients, the failure to increase growth rate, particularly during the first year of therapy, indicates the need for close assessment of compliance and evaluation for other causes of growth failure, such as hypothyroidism, undernutrition, advanced bone age and antibodies to recombinant human GH (rhGH).
 
-Treatment with Omnitrope® for short stature should be discontinued when the epiphyses are fused.
+Treatment with Omnitrope for short stature should be discontinued when the epiphyses are fused.
 
 ### Pediatric Growth Hormone Deficiency (GHD)
 
@@ -46,11 +46,11 @@ The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
 Based on the weight-based dosing utilized in clinical studies with another somatropin product, the recommended dosage at the start of therapy is not more than 0.04 mg/kg/week given as a daily subcutaneous injection.
 The dose may be increased at 4- to 8-week intervals according to individual patient requirements to not more than 0.08 mg/kg/week.
-Clinical response, side effects, and determination of age- and gender-adjusted serum IGF-I levels may be used as guidance in dose titration.
+Clinical response, side effects, and determination of age- and gender-adjusted serum IGF-1 levels may be used as guidance in dose titration.
 
 Alternatively, taking into account recent literature, a starting dose of approximately 0.2 mg/day (range, 0.15-0.30 mg/day) may be used without consideration of body weight.
-This dose can be increased gradually every 1-2 months by increments of approximately 0.1 to 0.2 mg/day, according to individual patient requirements based on the clinical response and serum IGF-I concentrations.
-During therapy, the dose should be decreased if required by the occurrence of adverse events and/or serum IGF-I levels above the age- and gender-specific normal range.
+This dose can be increased gradually every 1-2 months by increments of approximately 0.1 to 0.2 mg/day, according to individual patient requirements based on the clinical response and serum IGF-1 concentrations.
+During therapy, the dose should be decreased if required by the occurrence of adverse events and/or serum IGF-1 levels above the age- and gender-specific normal range.
 Maintenance dosages vary considerably from person to person.
 
 A lower starting dose and smaller dose increments should be considered for older patients, who are more prone to the adverse effects of somatropin than younger individuals.
@@ -60,27 +60,27 @@ Oral estrogen administration may increase the dose requirements in women.
 
 ## 2.3 Preparation and Administration
 
-### Omnitrope® Cartridge 5 mg/1.5 mL and Cartridge 10 mg/1.5 mL
+### Omnitrope Cartridge 5 mg/1.5 mL and Cartridge 10 mg/1.5 mL
 
-Each cartridge of Omnitrope® must be inserted into its corresponding Omnitrope® Pen 5 or Omnitrope® Pen 10 delivery system.
-Instructions for delivering the dosage are provided in the Omnitrope® INSTRUCTIONS FOR USE booklet enclosed with the Omnitrope® drug and the Omnitrope® Pens.
+Each cartridge of Omnitrope must be inserted into its corresponding Omnitrope Pen 5 or Omnitrope Pen 10 delivery system.
+Instructions for delivering the dosage are provided in the Omnitrope INSTRUCTIONS FOR USE booklet enclosed with the Omnitrope drug and the Omnitrope Pens.
 
-### Omnitrope® for injection 5.8 mg/vial
+### Omnitrope for injection 5.8 mg/vial
 
-Instructions for delivering the dosage are provided in the INSTRUCTIONS FOR USE leaflets enclosed with the Omnitrope® drug.
+Instructions for delivering the dosage are provided in the INSTRUCTIONS FOR USE leaflets enclosed with the Omnitrope drug.
 
 Once the diluent is added to the lyophilized powder, swirl gently; do not shake.
 Shaking may cause denaturation of the active ingredient.
 
 Parenteral drug products should always be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-Omnitrope® MUST NOT BE INJECTED if the solution is cloudy or contains particulate matter.
+Omnitrope MUST NOT BE INJECTED if the solution is cloudy or contains particulate matter.
 Use it only if it is clear and colorless.
 Omnitrope must be refrigerated at 2° to 8°C (36° to 46°F).
 
-Patients and caregivers who will administer Omnitrope® in medically unsupervised situations should receive appropriate training and instruction on the proper use of Omnitrope® from the physician or other suitably qualified health professional.
+Patients and caregivers who will administer Omnitrope in medically unsupervised situations should receive appropriate training and instruction on the proper use of Omnitrope from the physician or other suitably qualified health professional.
 
-The dosage of Omnitrope® must be adjusted for the individual patient.
+The dosage of Omnitrope must be adjusted for the individual patient.
 The dose should be given daily by subcutaneous injections (administered preferably in the evening).
-Omnitrope® may be given in the thigh, buttocks, or abdomen.
+Omnitrope may be given in the thigh, buttocks, or abdomen.
 
 Injection sites should always be rotated to avoid lipoatrophy.

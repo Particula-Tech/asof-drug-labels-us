@@ -7,7 +7,7 @@ GH and somatropin inhibit 11βHSD-1.
 Consequently, individuals with untreated GH deficiency have relative increases in 11βHSD-1 and serum cortisol.
 Introduction of somatropin treatment may result in inhibition of 11βHSD-1 and reduced serum cortisol concentrations.
 As a consequence, previously undiagnosed central (secondary) hypoadrenalism may be unmasked and glucocorticoid replacement may be required in patients treated with somatropin.
-In addition, patients treated with glucocorticoid replacement for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses following initiation of somatropin treatment; this may be especially true for patients treated with cortisone acetate and prednisone since conversion of these drugs to their biologically active metabolites is dependent on the activity of 11βHSD-1.
+In addition, patients treated with glucocorticoid replacement for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses following initiation of somatropin treatment; this may be especially true for patients treated with cortisone acetate and prednisone since conversion of these drugs to their biologically active metabolites is dependent on the activity of 11βHSD-1 [see Warnings and Precautions(5.8)].
 
 ## 7.2 Pharmacologic Glucocorticoid Therapy and Supraphysiologic Glucocorticoid Treatment
 

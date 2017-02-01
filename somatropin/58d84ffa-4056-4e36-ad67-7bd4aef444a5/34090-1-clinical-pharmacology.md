@@ -62,14 +62,14 @@ Somatropin stimulates the synthesis of chondroitin sulfate and collagen, and inc
 
 ## 12.3 Pharmacokinetics
 
-There are no pharmacokinetic studies using Omnitrope® Cartridges in patients with growth hormone deficiency.
+There are no pharmacokinetic studies using Omnitrope Cartridges in patients with growth hormone deficiency.
 
 ### Absorption
 
-Following a subcutaneous injection of single dose of 5 mg Omnitrope® 5 mg/1.5 mL Cartridge or 5 mg Omnitrope® 10 mg/1.5 mL Cartridge in healthy male and female adults, the peak concentration (Cmax) was 72-74 mcg/L.
+Following a subcutaneous injection of single dose of 5 mg Omnitrope 5 mg/1.5 mL Cartridge or 5 mg Omnitrope 10 mg/1.5 mL Cartridge in healthy male and female adults, the peak concentration (Cmax) was 72-74 mcg/L.
 The time to reach Cmax (tmax) for Omnitrope was 4.0 hours.
 
-The aqueous formulations of 5 mg/1.5 mL Omnitrope® cartridge and 10 mg/mL Omnitrope® cartridge are bioequivalent to the lyophilized 5.8 mg/vial Omnitrope® formulation.
+The aqueous formulations of 5 mg/1.5 mL Omnitrope cartridge and 10 mg/mL Omnitrope cartridge are bioequivalent to the lyophilized 5.8 mg/vial Omnitrope formulation.
 
 ### Metabolism
 
@@ -78,15 +78,15 @@ In renal cells, at least a portion of the breakdown products are returned to the
 
 ### Excretion
 
-The mean terminal half-life of somatropin after subcutaneous administration of Omnitrope® Cartridge in healthy adults is 2.5-2.8 hours.
-The mean clearance of subcutaneously administered Omnitrope® Cartridge in healthy adults was about 0.14 L/hr∙kg.
+The mean terminal half-life of somatropin after subcutaneous administration of Omnitrope Cartridge in healthy adults is 2.5-2.8 hours.
+The mean clearance of subcutaneously administered Omnitrope Cartridge in healthy adults was about 0.14 L/hr/kg.
 
-### Specific Populations
+### SpecificPopulations
 
-Pediatric: No pharmacokinetic studies of Omnitrope® have been conducted in pediatric patients.
+Pediatric: No pharmacokinetic studies of Omnitrope have been conducted in pediatric patients.
 
-Gender: The effect of gender on pharmacokinetics of Omnitrope® has not been evaluated in pediatric patients.
+Gender: The effect of gender on pharmacokinetics of Omnitrope has not been evaluated in pediatric patients.
 
-Race: No studies have been conducted with Omnitrope® to assess pharmacokinetic differences among races.
+Race: No studies have been conducted with Omnitrope to assess pharmacokinetic differences among races.
 
-Renal or hepatic impairment: No pharmacokinetic studies have been conducted with Omnitrope® in patients with renal or hepatic impairment.
+Renal or hepatic impairment: No pharmacokinetic studies have been conducted with Omnitrope in patients with renal or hepatic impairment.

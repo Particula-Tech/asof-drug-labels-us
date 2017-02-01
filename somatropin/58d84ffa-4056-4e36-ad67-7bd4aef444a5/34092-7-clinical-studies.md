@@ -2,23 +2,23 @@
 
 ## 14.1 Pediatric Growth Hormone Deficiency (GHD)
 
-The efficacy and safety of Omnitrope® were compared with another somatropin product approved for growth hormone deficiency (GHD) in pediatric patients.
-In sequential clinical trials involving a total of 89 GHD children, 44 patients received Omnitrope® for Injection (lyophilized powder) 5.8 mg/vial and 45 patients received the comparator somatropin product for 9 months.
-After 9 months of treatment patients who had received the comparator somatropin product were switched to Omnitrope® Cartridge (liquid) 5 mg/1.5 mL.
-After 15 months of treatment, all patients were switched to Omnitrope® Cartridge to collect long-term efficacy and safety data.
+The efficacy and safety of Omnitrope were compared with another somatropin product approved for growth hormone deficiency (GHD) in pediatric patients.
+In sequential clinical trials involving a total of 89 GHD children, 44 patients received Omnitrope for Injection (lyophilized powder) 5.8 mg/vial and 45 patients received the comparator somatropin product for 9 months.
+After 9 months of treatment patients who had received the comparator somatropin product were switched to Omnitrope Cartridge (liquid) 5 mg/1.5 mL.
+After 15 months of treatment, all patients were switched to Omnitrope Cartridge to collect long-term efficacy and safety data.
 
 In both groups, somatropin was administered as a daily subcutaneous injection at a dose of 0.03 mg/kg.
-Similar effects on growth were observed between Omnitrope® for Injection and the comparator somatropin product during the initial 9 months of treatment.
+Similar effects on growth were observed between Omnitrope for Injection and the comparator somatropin product during the initial 9 months of treatment.
 
-The efficacy results after 9 months of treatment (Omnitrope® for Injection vs. the comparator somatropin product) and after 15 months (Omnitrope® Cartridge) are summarized in Table 5.
+The efficacy results after 9 months of treatment (Omnitrope for Injection vs. the comparator somatropin product) and after 15 months (Omnitrope Cartridge) are summarized in Table 5.
 
 Table 5.
-Baseline Growth Characteristics and Effect of Omnitrope® after 9 and 15 Months of Treatment
+Baseline Growth Characteristics and Effect of Omnitrope after 9 and 15 Months of Treatment
 
 | Treatment Duration | Treatment Group | Treatment Group |
 | --- | --- | --- |
-| 0 - 9 months | Omnitrope® for Injection (n=44) | Another Somatropin Product(n=45) |
-| 9 - 15 months | Omnitrope® for Injection (n=42) | Omnitrope® Cartridge (n=44) |
+| 0 - 9 months | Omnitrope for Injection (n=44) | Another Somatropin Product(n=45) |
+| 9 - 15 months | Omnitrope for Injection (n=42) | Omnitrope Cartridge (n=44) |
 | Treatment Parameter | Mean (SD) | Mean (SD) |
 | Height velocity (cm/yr) |  |  |
 | Pre-treatment | 3.8 (1.2) | 4.0 (0.8) |

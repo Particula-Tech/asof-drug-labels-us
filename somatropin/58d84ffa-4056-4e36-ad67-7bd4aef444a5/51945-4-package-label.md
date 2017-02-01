@@ -4,7 +4,7 @@ NDC 0781-3001-07
 
 Omnitrope®
 
-Somatropin [rDNA origin]
+Somatropin
 
 injection
 
@@ -30,7 +30,7 @@ NDC 0781-3004-07
 
 Omnitrope®
 
-Somatropin [rDNA origin]
+Somatropin
 
 injection
 
@@ -56,7 +56,7 @@ NDC 0781-4004-36
 
 Omnitrope®
 
-somatropin [rDNA origin] for injection
+somatropin for injection
 
 and
 
@@ -75,3 +75,5 @@ For subcutaneous injection only
 NOT FOR USE IN NEWBORNS Rx only
 
 SANDOZ
+
+a Novartis company

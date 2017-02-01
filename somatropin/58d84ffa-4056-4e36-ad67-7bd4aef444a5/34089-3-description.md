@@ -1,17 +1,19 @@
 # 11 DESCRIPTION
 
-Omnitrope® (somatropin-[rDNA] origin) is a polypeptide hormone of recombinant DNA origin.
+Omnitrope (somatropin) is a polypeptide hormone of recombinant DNA origin.
 It has 191 amino acid residues and a molecular weight of 22,125 daltons.
 The amino acid sequence of the product is identical to that of human growth hormone of pituitary origin (somatropin).
-Omnitrope® is synthesized in a strain of.
-Escherichia coli that has been modified by the addition of the gene for human growth hormone.
-Omnitrope® Cartridge is a clear, colorless, sterile solution for subcutaneous injection.
-Omnitrope® for Injection is a lyophilized powder that is reconstituted for subcutaneous injection.
+Omnitrope is synthesized in a strain of Escherichia coli that has been modified by the addition of the gene for human growth hormone.
+Omnitrope Cartridge is a clear, colorless, sterile solution for subcutaneous injection.
+Omnitrope for Injection is a lyophilized powder that is reconstituted for subcutaneous injection.
 
-Each Omnitrope® Cartridge or vial contains the following (see Table 4):
+Figure 1.
+Schematic amino acid sequence of human growth hormone including the disulfide bonds
+
+Each Omnitrope Cartridge or vial contains the following (see Table 4):
 
 Table 4.
-Contents of Omnitrope® Cartridges and Vial
+Contents of Omnitrope Cartridges and Vial
 
 | Product | Cartridge 5 mg/ 1.5 mL | Cartridge 10 mg/ 1.5 mL | For Injection 5.8 mg/ vial |
 | --- | --- | --- | --- |
