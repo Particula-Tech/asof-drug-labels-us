@@ -16,7 +16,7 @@ Because many drugs are excreted in human milk, because of the potential for seri
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of lansoprazole have been established in pediatric patients one to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis, however, lansoprazole was not effective in patients with symptomatic GERD 1 month to less than one year of age in a multicenter, double-blind, placebo controlled study.
+The safety and effectiveness of lansoprazole have been established in pediatric patients one to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis, however, lansoprazole was not effective in patients with symptomatic GERD one month to less than one year of age in a multicenter, double-blind, placebo controlled study.
 
 Neonate to less than one year of age
 

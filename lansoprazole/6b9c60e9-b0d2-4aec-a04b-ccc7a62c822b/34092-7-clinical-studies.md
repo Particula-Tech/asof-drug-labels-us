@@ -43,7 +43,7 @@ Dual therapy was shown to be more effective than both monotherapies.
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence.
 
 A randomized, double-blind clinical study performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) compared the efficacy of lansoprazole triple therapy for 10 and 14 days.
-This study established that the 10-day triple therapy was equivalent to the 14-day triple therapy in eradicating H. pylori (Tables 9 and 10) [see Indications and Usage (1.2)].
+This study established that the 10 day triple therapy was equivalent to the 14 day triple therapy in eradicating H. pylori (Tables 9 and 10) [see Indications and Usage (1.2)].
 
 | Table 9 H. pylori Eradication Rates – Triple Therapy (lansoprazole/amoxicillin/clarithromycin) Percent of Patients Cured [95% Confidence Interval] (Number of patients) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -70,7 +70,7 @@ Patients remained healed significantly longer and the number of recurrences of d
 | Table 11: Endoscopic Remission Rates |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Trial | Drug | No. of Pts. | Percent in Endoscopic Remission |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 0-3 | 0-6 | 0-12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 0-3 mo. | 0-6 mo. | 0-12 mo. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | #1 | Lansoprazole 15 mg daily | 86 | 90%* | 87%* | 84%* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Placebo | 83 | 49% | 41% | 39% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | #2 | Lansoprazole 30 mg daily | 18 | 94%* | 94%* | 85%* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -172,7 +172,7 @@ In a U.S. multicenter, double-blind, placebo-controlled study of 269 patients en
 In this study, all lansoprazole groups reported significantly greater relief of heartburn and less day and night abdominal pain along with fewer days of antacid use and fewer antacid tablets taken per day than the placebo group.
 Although all doses were effective, the earlier healing in the higher two doses suggests 30 mg daily as the recommended dose.
 
-Lansoprazole were also compared in a U.S. multicenter, double-blind study to a low dose of ranitidine in 242 patients with erosive reflux esophagitis.
+Lansoprazole was also compared in a U.S. multicenter, double-blind study to a low dose of ranitidine in 242 patients with erosive reflux esophagitis.
 Lansoprazole at a dose of 30 mg was significantly more effective than ranitidine 150 mg twice daily as shown below (Table 17).
 
 | Table 17: Erosive Esophagitis Healing Rates |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -190,7 +190,7 @@ Although this study demonstrates effectiveness of lansoprazole in healing erosiv
 
 In the two trials described and in several smaller studies involving patients with moderate to severe erosive esophagitis, lansoprazole produced healing rates similar to those shown above.
 
-In a U.S. multicenter, double-blind, active-controlled study, 30 mg of lansoprazole were compared with ranitidine 150 mg twice daily in 151 patients with erosive reflux esophagitis that was poorly responsive to a minimum of 12 weeks of treatment with at least one H2-receptor antagonist given at the dose indicated for symptom relief or greater, namely, cimetidine 800 mg/day, ranitidine 300 mg/day, famotidine 40 mg/day or nizatidine 300 mg/day.
+In a U.S. multicenter, double-blind, active-controlled study, 30 mg of lansoprazole was compared with ranitidine 150 mg twice daily in 151 patients with erosive reflux esophagitis that was poorly responsive to a minimum of 12 weeks of treatment with at least one H2-receptor antagonist given at the dose indicated for symptom relief or greater, namely, cimetidine 800 mg/day, ranitidine 300 mg/day, famotidine 40 mg/day or nizatidine 300 mg/day.
 Lansoprazole 30 mg were more effective than ranitidine 150 mg twice daily in healing reflux esophagitis, and the percentage of patients with healing were as follows.
 This study does not constitute a comparison of the effectiveness of histamine H2-receptor antagonists with lansoprazole, as all patients had demonstrated unresponsiveness to the histamine H2-receptor antagonist mode of treatment.
 It does indicate, however, that lansoprazole may be useful in patients failing on a histamine H2-receptor antagonist (Table 18) [see Indications and Usage (1.7)].
@@ -232,6 +232,6 @@ In open studies of 57 patients with pathological hypersecretory conditions, such
 Doses ranging from 15 mg every other day to 180 mg per day maintained basal acid secretion below 10 mEq/hr in patients without prior gastric surgery and below 5 mEq/hr in patients with prior gastric surgery.
 
 Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [see Dosage and Administration (2.1)].
-Lansoprazole were well tolerated at these high dose levels for prolonged periods (greater than four years in some patients).
+Lansoprazole was well tolerated at these high dose levels for prolonged periods (greater than four years in some patients).
 In most ZES patients, serum gastrin levels were not modified by lansoprazole.
 However, in some patients, serum gastrin increased to levels greater than those present prior to initiation of lansoprazole therapy [see Indications and Usage (1.9)].

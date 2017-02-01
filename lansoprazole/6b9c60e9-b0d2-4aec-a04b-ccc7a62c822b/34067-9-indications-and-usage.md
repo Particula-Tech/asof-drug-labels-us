@@ -15,7 +15,7 @@ Please refer to the full prescribing information for amoxicillin and clarithromy
 
 Dual Therapy: lansoprazole /amoxicillin
 
-Lansoprazole in combination with amoxicillin as dual therapy is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one-year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected (see the clarithromycin package insert, MICROBIOLOGY section).
+Lansoprazole in combination with amoxicillin as dual therapy is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one-year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected (see the clarithromycin prescribing information, MICROBIOLOGY section).
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies (14)].
 
 Please refer to the full prescribing information for amoxicillin.
