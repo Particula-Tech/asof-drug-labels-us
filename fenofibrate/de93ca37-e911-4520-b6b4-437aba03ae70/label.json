@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021350"
+  ],
+  "inn": "fenofibrate",
+  "labeler": "Casper Pharma LLC",
+  "package_ndcs": [
+    "70199-013-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "fenofibrate",
+      "name": "TRIGLIDE"
+    }
+  ],
+  "setid": "de93ca37-e911-4520-b6b4-437aba03ae70",
+  "source": "dailymed"
+}
