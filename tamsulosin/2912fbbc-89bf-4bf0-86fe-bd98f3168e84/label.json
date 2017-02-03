@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA204645"
+  ],
+  "inn": "tamsulosin",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-159-07",
+    "33342-159-11",
+    "33342-159-12",
+    "33342-159-44"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tamsulosin hydrochloride",
+      "name": "Tamsulosin Hydrochloride"
+    }
+  ],
+  "setid": "2912fbbc-89bf-4bf0-86fe-bd98f3168e84",
+  "source": "dailymed"
+}
