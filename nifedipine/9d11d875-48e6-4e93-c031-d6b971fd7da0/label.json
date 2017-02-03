@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020198"
+  ],
+  "inn": "nifedipine",
+  "labeler": "Almatica Pharma Inc.",
+  "package_ndcs": [
+    "52427-494-01",
+    "52427-495-01",
+    "52427-496-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "nifedipine",
+      "name": "Adalat CC"
+    }
+  ],
+  "setid": "9d11d875-48e6-4e93-c031-d6b971fd7da0",
+  "source": "dailymed"
+}
