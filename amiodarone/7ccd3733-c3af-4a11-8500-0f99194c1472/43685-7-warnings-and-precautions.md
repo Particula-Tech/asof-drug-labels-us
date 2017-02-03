@@ -66,7 +66,7 @@ In some patients, rechallenge at a lower dose has not resulted in return of inte
 ## Worsened Arrhythmia
 
 Amiodarone, like other antiarrhythmics, can cause serious exacerbation of the presenting arrhythmia and has been reported in about 2 to 5% in most series, and has included new ventricular fibrillation, incessant ventricular tachycardia, increased resistance to cardioversion, and polymorphic ventricular tachycardia associated with QTc prolongation (Torsade de Pointes [TdP]).
-In addition, amiodarone has caused symptomatic bradycardia or sinus arrest with suppression of escape foci in 2 to 4% of patients.The risk of exacerbation may be increased when other risk factors are present such as electrolytic disorders or use of concomitant antiarrhythmics or other interacting drugs (see "PRECAUTIONS, Drug Interactions").
+In addition, amiodarone has caused symptomatic bradycardia or sinus arrest with suppression of escape foci in 2 to 4% of patients.The risk of exacerbation may be increased when other risk factors are present such as electrolytic disorders or use of concomitant antiarrhythmics or other interacting drugs (see "Drug Interactions, Other reported interactions with amiodarone").
 
 Correct hypokalemia, hypomagnesemia or hypocalcemia whenever possible before initiating treatment with amiodarone HCl tablets, as these disorders can exaggerate the degree of QTc prolongation and increase the potential for TdP.
 Give special attention to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or in patients receiving concomitant diuretics and laxatives, systemic corticosteroids, amphotericin B (IV) or other drugs affecting electrolyte levels.
@@ -231,7 +231,7 @@ Avoid concomitant use of drugs that prolong the QT interval.
 
 #### Drugs lowering heart rate or causing automaticity or conduction disorders
 
-Concomitant use of drugs with depressant effects on the sinus and AV node (e.g., digoxin, beta blockers, verapamil, diltiazem, clonidine) can potentiate the electrophysiologic and hemodynamic effects of amiodarone, resulting in bradycardia, sinus arrest, and AV block.
+Concomitant use of drugs with depressant effects on the sinus and AV node (e.g., digoxin, beta blockers, verapamil, diltiazem, ivabradine, clonidine) can potentiate the electrophysiologic and hemodynamic effects of amiodarone, resulting in bradycardia, sinus arrest, and AV block.
 Monitor heart rate in patients on amiodarone and concomitant drugs that slow heart rate.
 
 ### Pharmocokinetic interactions
