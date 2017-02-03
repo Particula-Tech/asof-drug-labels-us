@@ -1,11 +1,20 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Olux Foam is supplied as follows: 50 g aluminum can NDC 40076-031-50 100 g aluminum can NDC 40076-031-00
+## 16.1 How Supplied
 
-Manufactured for Prestium Pharma, Inc. Newtown, PA 18940 By DPT Laboratories, Ltd. San Antonio, TX 78215
+OLUX Foam is a white aerosol foam, supplied as follows:
 
-For additional information: 1-866-897-5002 Or visit www.olux.com
+- •50-g aluminum can NDC 40076-031-50
+- •100-g aluminum can NDC 40076-031-00
 
-OLUX is a registered trademark of Stiefel Laboratories, Inc. 2013 Delcor Asset Corporation, an affiliate of Prestium Pharma, Inc.
+## 16.2 Storage and Handling
 
-June 2013
+Store at controlled room temperature 68ºF to 77ºF (20ºC to 25ºC).
+
+FLAMMABLE.
+AVOID FIRE, FLAME, OR SMOKING DURING AND IMMEDIATELY FOLLOWING APPLICATION.
+Contents under pressure.
+Do not puncture or incinerate.
+Do not expose to heat or store at temperatures above 120°F (49°C).
+
+Keep out of reach of children.

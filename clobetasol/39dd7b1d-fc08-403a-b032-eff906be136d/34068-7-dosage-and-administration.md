@@ -1,19 +1,14 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Note: For proper dispensing of foam, hold the can upside down and depress the actuator.
+Apply a thin layer of OLUX Foam to the affected skin areas twice daily.
 
-Olux Foam should be applied to the affected area twice daily, once in the morning and once at night.
-Invert the can and dispense a small amount of Olux Foam (up to a maximum of a golf-ball-size dollop or one and a half capfuls) into the cap of the can, onto a saucer or other cool surface, or to the lesion, taking care to avoid contact with the eyes.
-Dispensing directly onto hands is not recommended (unless the hands are the affected area), as the foam will begin to melt immediately upon contact with warm skin.
-When applying Olux Foam to a hair-bearing area, move the hair away from the affected area so that the foam can be applied to each affected area.
-Pick up small amounts with fingertips and gently massage into affected area until the foam disappears.
-Repeat until entire affected area is treated.
+OLUX Foam is a super-high-potency topical corticosteroid; therefore treatment should be limited to 2 consecutive weeks and patients should not use greater than 50 grams per week or more than 21 capfuls per week because of the potential for the drug to suppress the hypothalamic-pituitary-adrenal (HPA) axis.
 
-Apply the smallest amount possible that sufficiently covers the affected area(s).
-No more than one and a half capfuls of foam should be used at each application.
-Do not apply to face or intertriginous areas.
+Therapy should be discontinued when control is achieved.
 
-Olux Foam is a super-high-potency topical corticosteroid; therefore, treatment should be limited to 2 consecutive weeks and amounts greater than 50 g/week should not be used.
-Use in pediatric patients under 12 years of age is not recommended.
+OLUX Foam should not be used with occlusive dressings unless directed by a physician.
 
-Unless directed by a physician, Olux Foam should not be used with occlusive dressings.
+OLUX Foam is for topical use only.
+It is not for oral, ophthalmic, or intravaginal use.
+
+Avoid use on the face, groin, or axillae, or if skin atrophy is present at the treatment site.
