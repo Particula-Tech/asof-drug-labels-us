@@ -6,12 +6,12 @@ Dosage Forms and Strengths
 
 | Package Size |  |  | NDC |
 | --- | --- | --- | --- |
-| SYMBICORT Inhalations | 80/4.5, | 120 | 0186-0372-20 |
-| SYMBICORTinhalations (institutional pack) | 80/4.5, | 60 | 0186-0372-28 |
-| SYMBICORT Inhalations | 160/4.5, | 120 | 0186-0370-20 |
-| SYMBICORTinhalations (institutional pack) | 160/4.5, | 60 | 0186-0370-28 |
+| SYMBICORT Inhalations | 80/4.5 | 120 | 0186-0372-20 |
+| SYMBICORTinhalations (institutional pack) | 80/4.5 | 60 | 0186-0372-28 |
+| SYMBICORT Inhalations | 160/4.5 | 120 | 0186-0370-20 |
+| SYMBICORTinhalations (institutional pack) | 160/4.5 | 60 | 0186-0370-28 |
 
-Each strength is supplied as a pressurized aluminium canister with an attached counting device, a red plastic actuator body with a white mouthpiece, and attached gray dust cap.
+Each strength is supplied as a pressurized aluminum canister with an attached counting device, a red plastic actuator body with a white mouthpiece, and attached gray dust cap.
 Each 120 inhalation canister has a net fill weight of 10.2 grams and each 60 inhalation canister has a net fill weight of 6.9 grams (SYMBICORT 80/4.5) or 6 grams (SYMBICORT 160/4.5).
 Each canister is packaged in a foil overwrap pouch with desiccant sachet and placed into a carton.
 Each carton contains one canister and a Medication Guide.

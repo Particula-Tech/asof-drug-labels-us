@@ -2,14 +2,14 @@
 
 ## 5.1 Asthma-Related Death
 
-Long-acting beta2-adrenergic agonists, such as formoterol, one of the active ingredients in SYMBICORT, increase the risk of asthma-related death.
+LABA, such as formoterol, one of the active ingredients in SYMBICORT, increase the risk of asthma-related death.
 Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
 Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 Therefore, when treating patients with asthma, SYMBICORT should only be used for patients not adequately controlled on a long-term asthma-control medication, such as an inhaled corticosteroid or whose disease severity clearly warrants initiation of treatment with both an inhaled corticosteroid and LABA.
 Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue SYMBICORT) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
 Do not use SYMBICORT for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids.
 
-A 28-week, placebo controlled US study comparing the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
+A 28-week, placebo controlled US study comparing the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
 This finding with salmeterol is considered a class effect of the LABA, including formoterol, one of the active ingredients in SYMBICORT.
 No study adequate to determine whether the rate of asthma-related death is increased with SYMBICORT has been conducted.
 
@@ -28,31 +28,30 @@ Patients should not use more than 2 inhalations twice daily (morning and evening
 
 SYMBICORT should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm.
 An inhaled, short-acting beta2-agonist, not SYMBICORT, should be used to relieve acute symptoms such as shortness of breath.
-When prescribing SYMBICORT, the physician must also provide the patient with an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of acute symptoms, despite regular twice-daily (morning and evening) use of SYMBICORT.
 
 When beginning treatment with SYMBICORT, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
 
 ## 5.3 Excessive Use of SYMBICORT and Use with Other Long-Acting Beta2-Agonists
 
-As with other inhaled drugs containing beta2-adrenergic agents, SYMBICORT should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medications containing long-acting beta2-agonists, as an overdose may result.
+As with other inhaled drugs containing beta2-adrenergic agents, SYMBICORT should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medications containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
-Patients using SYMBICORT should not use an additional long-acting beta2-agonist (e.g., salmeterol, formoterol fumarate, arformoterol tartrate) for any reason, including prevention of exercise-induced bronchospasm (EIB) or the treatment of asthma or COPD.
+Patients using SYMBICORT should not use an additional LABA (e.g., salmeterol, formoterol fumarate, arformoterol tartrate) for any reason, including prevention of exercise-induced bronchospasm (EIB) or the treatment of asthma or COPD.
 
 ## 5.4 Local Effects
 
 In clinical studies, the development of localized infections of the mouth and pharynx with Candida albicans has occurred in patients treated with SYMBICORT.
 When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral antifungal) therapy while treatment with SYMBICORT continues, but at times therapy with SYMBICORT may need to be interrupted.
-Patients should rinse the mouth after inhalation of SYMBICORT.
+Advise the patient to rinse his/her mouth with water without swallowing following inhalation to help reduce the risk of oropharyngeal candidiasis.
 
 ## 5.5 Pneumonia and Other Lower Respiratory Tract Infections
 
 Physicians should remain vigilant for the possible development of pneumonia in patients with COPD as the clinical features of pneumonia and exacerbations frequently overlap.
 Lower respiratory tract infections, including pneumonia, have been reported following the inhaled administration of corticosteroids.
 
-In a 6 month study of 1,704 patients with COPD, there was a higher incidence of lung infections other than pneumonia (e.g., bronchitis, viral lower respiratory tract infections, etc.) in patients receiving SYMBICORT 160/4.5 (7.6%) than in those receiving SYMBICORT 80/4.5 (3.2%), formotero1 4.5 mcg (4.6%) or placebo (3.3%).
+In a 6-month study of 1,704 patients with COPD, there was a higher incidence of lung infections other than pneumonia (e.g., bronchitis, viral lower respiratory tract infections, etc.) in patients receiving SYMBICORT 160/4.5 (7.6%) than in those receiving SYMBICORT 80/4.5 (3.2%), formotero1 4.5 mcg (4.6%) or placebo (3.3%).
 Pneumonia did not occur with greater incidence in the SYMBICORT 160/4.5 group (1.1 %) compared with placebo (1.3%).
 In a 12-month study of 1,964 patients with COPD, there was also a higher incidence of lung infections other than pneumonia in patients receiving SYMBICORT 160/4.5 (8.1%) than in those receiving SYMBICORT 80/4.5 (6.9%), formoterol 4.5 mcg (7.1%) or placebo (6.2%).
-Similar to the 6 month study, pneumonia did not occur with greater incidence in the SYMBICORT 160/4.5 group (4.0%) compared with placebo (5.0%).
+Similar to the 6-month study, pneumonia did not occur with greater incidence in the SYMBICORT 160/4.5 group (4.0%) compared with placebo (5.0%).
 
 ## 5.6 Immunosuppression
 
@@ -105,7 +104,7 @@ If such effects occur, the dosage of SYMBICORT should be reduced slowly, consist
 
 ## 5.9 Drug Interactions With Strong Cytochrome P450 3A4 Inhibitors
 
-Caution should be exercised when considering the coadministration of SYMBICORT with ketoconazole, and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to budesonide may occur [see Drug Interactions (7.1), and Clinical Pharmacology (12.3)]
+Caution should be exercised when considering the coadministration of SYMBICORT with ketoconazole, and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to budesonide may occur [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 ## 5.10 Paradoxical Bronchospasm and Upper Airway Symptoms
 
@@ -135,23 +134,23 @@ Patients with major risk factors for decreased bone mineral content, such as pro
 Since patients with COPD often have multiple risk factors for reduced BMD, assessment of BMD is recommended prior to initiating SYMBICORT and periodically thereafter.
 If significant reductions in BMD are seen and SYMBICORT is still considered medically important for that patient's COPD therapy, use of medication to treat or prevent osteoporosis should be strongly considered.
 
-Effects of treatment with SYMBICORT 160/4.5, SYMBICORT 80/4.5, formoterol 4.5, or placebo on BMD was evaluated in a subset of 326 patients (females and males 41 to 88 years of age) with COPD in the 12-month study.
+Effects of treatment with SYMBICORT 160/4.5, SYMBICORT 80/4.5, formoterol 4.5 mcg, or placebo on BMD was evaluated in a subset of 326 patients (females and males 41 to 88 years of age) with COPD in the 12-month study.
 BMD evaluations of the hip and lumbar spine regions were conducted at baseline and 52 weeks using dual energy x-ray absorptiometry (DEXA) scans.
 Mean changes in BMD from baseline to end of treatment were small (mean changes ranged from -0.01 - 0.01 g/cm2).
-ANCOVA results for total spine and total hip BMD based on the end of treatment time point showed that all geometric LS Mean ratios for the pairwise treatment group comparisons were close to 1, indicating that overall, bone mineral density for total hip and total spine regions for the 12 month time point were stable over the entire treatment period.
+ANCOVA results for total spine and total hip BMD based on the end of treatment time point showed that all geometric LS Mean ratios for the pairwise treatment group comparisons were close to 1, indicating that overall, BMD for total hip and total spine regions for the 12-month time point were stable over the entire treatment period.
 
 ## 5.14 Effect on Growth
 
 Orally inhaled corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
 Monitor the growth of pediatric patients receiving SYMBICORT routinely (e.g., via stadiometry).
-To minimize the systemic effects of orally inhaled corticosteroids, including SYMBICORT, titrate each patient's dose to the lowest dosage that effectively controls his/her symptoms [see Dosage and Administration (2.1) and Use in Specific Populations (8.4)].
+To minimize the systemic effects of orally inhaled corticosteroids, including SYMBICORT, titrate each patient's dose to the lowest dosage that effectively controls his/her symptoms [see Dosage and Administration (2.2) and Use in Specific Populations (8.4)].
 
 ## 5.15 Glaucoma and Cataracts
 
 Glaucoma, increased intraocular pressure, and cataracts have been reported in patients with asthma and COPD following the long-term administration of inhaled corticosteroids, including budesonide, a component of SYMBICORT.
 Therefore, close monitoring is warranted in patients with a change in vision or with history of increased intraocular pressure, glaucoma, and/or cataracts.
 
-Effects of treatment with SYMBICORT 160/4.5, SYMBICORT 80/4.5, formoterol 4.5, or placebo on development of cataracts or glaucoma were evaluated in a subset of 461 patients with COPD in the 12-month study.
+Effects of treatment with SYMBICORT 160/4.5, SYMBICORT 80/4.5, formoterol 4.5 mcg, or placebo on development of cataracts or glaucoma were evaluated in a subset of 461 patients with COPD in the 12-month study.
 Ophthalmic examinations were conducted at baseline, 24 weeks, and 52 weeks.
 There were 26 subjects (6%) with an increase in posterior subcapsular score from baseline to maximum value (>0.7) during the randomized treatment period.
 Changes in posterior subcapsular scores of >0.7 from baseline to treatment maximum occurred in 11 patients (9.0%) in the SYMBICORT 160/4.5 group, 4 patients (3.8%) in the SYMBICORT 80/4.5 group, 5 patients (4.2%) in the formoterol group, and 6 patients (5.2%) in the placebo group.

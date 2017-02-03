@@ -1,7 +1,7 @@
 # WARNING: ASTHMA-RELATED DEATH
 
-Long-acting beta2-adrenergic agonists (LABA), such as formoterol one of the active ingredients in SYMBICORT, increase the risk of asthma-related death.
-Data from a large placebo-controlled U.S. study that compared the safety of another long-acting beta2-adrenergic agonist (salmeterol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol.
+Long-acting beta2-adrenergic agonists (LABA), such as formoterol, one of the active ingredients in SYMBICORT, increase the risk of asthma-related death.
+Data from a large placebo-controlled U.S. study that compared the safety of another LABA (salmeterol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol.
 This finding with salmeterol is considered a class effect of the LABA, including formoterol.
 Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
 Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
