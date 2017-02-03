@@ -23,8 +23,8 @@ Talk with your doctor.
 
 PRILOSEC can cause serious side effects, including:
 
-- •A ype of kidney problem (acute interstitial nephritis).
-  Some people who take proton pump ingibitor (PPI) medicines, including PRILOSEC, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with PRILOSEC.
+- •A type of kidney problem (acute interstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including PRILOSEC, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with PRILOSEC.
   Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - •Diarrhea.
   PRILOSEC may increase your risk of getting severe diarrhea.
@@ -36,7 +36,7 @@ PRILOSEC can cause serious side effects, including:
   Talk to your doctor about your risk of bone fracture if you take PRILOSEC.
 - •Certain types of lupus erythematosus.
   Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
-  Some people who take PPI medicines, including PRILOSEC, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
+  Some people who take proton PPI medicines, including PRILOSEC, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
   Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
 
 PRILOSEC can have other serious side effects.

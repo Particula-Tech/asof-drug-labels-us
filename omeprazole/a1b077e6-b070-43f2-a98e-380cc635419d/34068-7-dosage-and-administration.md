@@ -68,7 +68,7 @@ Oral Administration in Water
 
 1. 1.Empty the contents of a 2.5 mg packet into a container containing 5 mL of water.
 2. 2.Empty the contents of a 10 mg packet into a container containing 15 mL of water.
-3. 3.Stir
+3. 3.Stir.
 4. 4.Leave 2 to 3 minutes to thicken.
 5. 5.Stir and drink within 30 minutes.
 6. 6.If any material remains after drinking, add more water, stir and drink immediately.

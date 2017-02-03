@@ -3,7 +3,7 @@
 The following serious adverse reactions are described below and elsewhere in labeling:
 
 - •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
-- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
+- •Clostridiumdifficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - •Bone Fracture [see Warnings and Precautions (5.4)]
 - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
 - •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]

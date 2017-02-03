@@ -9,9 +9,11 @@ Available epidemiologic data fail to demonstrate an increased risk of major cong
 Reproduction studies in rats and rabbits resulted in dose-dependent embryo-lethality at omeprazole doses that were approximately 3.4 to 34 times an oral human dose of 40 mg (based on a body surface area for a 60 kg person).
 
 Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole (an enantiomer of omeprazole) magnesium in rats and rabbits during organogenesis with doses about 68 times and 42 times, respectively, an oral human dose of 40 mg esomeprazole or 40 mg omeprazole (based on body surface area for a 60 kg person).
-However, changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 34 times an oral human dose of 40 mg esomeprazole or 40 mg omeprazole [see Data].
+Changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 34 times an oral human dose of 40 mg esomeprazole or 40 mg omeprazole.
+When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age [see Data].
 
 The estimated background risks of major birth defects and miscarriage for the indicated population are unknown.
+All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
@@ -24,7 +26,7 @@ A population-based retrospective cohort epidemiological study from the Swedish M
 The number of infants exposed in utero to omeprazole that had any malformation, low birth weight, low Apgar score, or hospitalization was similar to the number observed in this population.
 The number of infants born with ventricular septal defects and the number of stillborn infants was slightly higher in the omeprazole-exposed infants than the expected number in this population.
 
-A population-based retrospective cohort study covering all live births in Denmark from 1996 to 2009, reported on 1,800 live births whose mothers used omeprazole during the first trimester of pregnancy and 837, 317 live births whose mothers did not use any proton pump inhibitor.
+A population-based retrospective cohort study covering all live births in Denmark from 1996 to 2009, reported on 1,800 live births whose mothers used omeprazole during the first trimester of pregnancy and 837,317 live births whose mothers did not use any proton pump inhibitor.
 The overall rate of birth defects in infants born to mothers with first trimester exposure to omeprazole was 2.9% and 2.6% in infants born to mothers not exposed to any proton pump inhibitor during the first trimester.
 
 A retrospective cohort study reported on 689 pregnant women exposed to either H2-blockers or omeprazole in the first trimester (134 exposed to omeprazole) and 1,572 pregnant women unexposed to either during the first trimester.
@@ -62,12 +64,15 @@ When rats were dosed from gestational day 7 through weaning on postnatal day 21,
 
 A pre- and postnatal development study in rats with esomeprazole strontium (using equimolar doses compared to esomeprazole magnesium study) produced similar results in dams and pups as described above.
 
+A follow up developmental toxicity study in rats with further time points to evaluate pup bone development from postnatal day 2 to adulthood was performed with esomeprazole magnesium at oral doses of 280 mg/kg/day (about 68 times an oral human dose of 40 mg on a body surface area basis) where esomeprazole administration was from either gestational day 7 or gestational day 16 until parturition.
+When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age.
+
 ## 8.2 Lactation
 
 Risk Summary
 
 Limited data suggest omeprazole may be present in human milk.
-There is no information on the effects of omeprazole on the breastfed infant or on milk production.
+There are no clinical data on the effects of omeprazole on the breastfed infant or on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for PRILOSEC and any potential adverse effects on the breastfed infant from PRILOSEC or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
