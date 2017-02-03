@@ -74,7 +74,7 @@ Severe allergic reactions:
 Abnormal Bleeding: Citalopram and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadine®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
 6.
-Seizures or convulsions
+Seizures or convulsions.
 
 7.
 Manic episodes:
@@ -129,21 +129,21 @@ Who should not take citalopram?
 Do not take citalopram if you:
 
 - •are allergic to citalopram or escitalopram oxalate or any of the ingredients in citalopram oral solution.
-  See the end of this Medication Guide for a complete list of ingredients in Citalopram Oral Solution USP.
+  See the end of this Medication Guide for a complete list of ingredients in Citalopram Oral Solution.
 - •If you take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - •Do not take an MAOI within 2 weeks of stopping citalopram unless directed to do so by your physician.
 - •Do not start citalopram if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 - •People who take citalopram close in time to an MAOI may have serious or even life-threatening side effects.
   Get medical help right away if you have any of these symptoms:
-- •high fever
-- •uncontrolled muscle spasms
-- •stiff muscles
-- •rapid changes in heart rate or blood pressure
-- •confusion
-- •loss of consciousness (pass out)
-- •take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
-- •have a heart problem including congenital long QT syndrome.
+  - •high fever
+  - •uncontrolled muscle spasms
+  - •stiff muscles
+  - •rapid changes in heart rate or blood pressure
+  - •confusion
+  - •loss of consciousness (pass out)
+  - •take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
+  - •have a heart problem including congenital long QT syndrome.
 
 What should I tell my healthcare provider before taking citalopram?
 Ask if you are not sure.

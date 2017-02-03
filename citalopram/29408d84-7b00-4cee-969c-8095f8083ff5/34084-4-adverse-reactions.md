@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The premarketing development program for citalopram included citalopram exposures in patients and/or normal subjects from 3 different groups of studies: 429 normal subjects in clinical pharmacology/pharmacokinetic studies; 4422 exposures from patients in controlled and uncontrolled clinical trials, corresponding to approximately 1370 patient-exposure years.
+The premarketing development program for citalopram included citalopram exposures in patients and/or normal subjects from 3 different groups of studies: 429 normal subjects in clinical pharmacology/pharmacokinetic studies; 4,422 exposures from patients in controlled and uncontrolled clinical trials, corresponding to approximately 1,370 patient-exposure years.
 There were, in addition, over 19,000 exposures from mostly open-label, European postmarketing studies.
 The conditions and duration of treatment with citalopram varied greatly and included (in overlapping categories) open-label and double-blind studies, inpatient and outpatient studies, fixed-dose and dose-titration studies, and short-term and long-term exposure.
 Adverse reactions were assessed by collecting adverse events, results of physical examinations, vital signs, weights, laboratory analyses, ECGs, and results of ophthalmologic examinations.
