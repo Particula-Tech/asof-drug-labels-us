@@ -71,11 +71,6 @@ Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 | Respiratory, Thoracic and Mediastinal Disorders | epistaxis |
 | Cardiac Disorders | cardiac arrest palpitation ventricular tachycardia ventricular arrhythmia |
 | Vascular Disorders | phlebitis |
-
-Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with Levofloxacin (N = 7537)
-
-| System/Organ Class | Adverse Reaction |
-| --- | --- |
 | Gastrointestinal Disorders | gastritis stomatitis pancreatitis esophagitis gastroenteritis glossitis pseudomembranous/ C. difficile colitis [see Warnings and Precautions (5.9)] |
 | Hepatobiliary Disorders | abnormal hepatic function increased hepatic enzymes increased alkaline phosphatase |
 | Skin and Subcutaneous Tissue Disorders | urticaria [see Warnings and Precautions (5.7)] |
@@ -105,11 +100,6 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic and Mediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.6)] |
 | Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.6), (5.8)] |
-
-Table 6: Postmarketing Reports Of Adverse Drug Reactions
-
-| System/Organ Class | Adverse Reaction |
-| --- | --- |
 | Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis erythema multiforme [see Warnings and Precautions (5.6)] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.13)] leukocytoclastic vasculitis |
 | Musculoskeletal and Connective Tissue Disorders | tendon rupture [see Warnings and Precautions (5.2)] muscle injury, including rupture rhabdomyolysis |
 | Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.6)] |
