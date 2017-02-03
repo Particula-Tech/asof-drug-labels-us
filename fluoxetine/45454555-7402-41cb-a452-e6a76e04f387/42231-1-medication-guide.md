@@ -54,7 +54,7 @@ Severe allergic reactions:
 4.
 Abnormal bleeding: Fluoxetine capsules and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 5.
-Visual Problems:
+Visual problems:
 
 - eye pain
 - changes in vision
@@ -117,7 +117,7 @@ Fluoxetine capsules are used to treat:
 - Panic Disorder*
 - Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa)
 
-* Not approved for use in children Talk to your healthcare provider if you do not think that your condition is getting better with fluoxetine capsules treatment.
+*Not approved for use in children Talk to your healthcare provider if you do not think that your condition is getting better with fluoxetine capsules treatment.
 Who should not take fluoxetine capsules?
 Do not take fluoxetine capsules if you:
 
@@ -149,6 +149,7 @@ Before starting fluoxetine capsules, tell your healthcare provider if you:
 - Are taking certain drugs or treatments such as:
   - Triptans used to treat migraine headache
   - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
+  - Amphetamines
   - Tramadol and fentanyl
   - Over-the-counter supplements such as tryptophan or St. John’s Wort
 - Electroconvulsive therapy (ECT)
@@ -182,7 +183,7 @@ How should I take fluoxetine capsules?
 - If you miss a dose of fluoxetine capsules, take the missed dose as soon as you remember.
   If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
   Do not take two doses of fluoxetine capsules at the same time.
-- If you take too much fluoxetine call your healthcare provider or poison control center right away, or get emergency treatment.
+- If you take too much fluoxetine, call your healthcare provider or poison control center right away, or get emergency treatment.
 
 What should I avoid while taking fluoxetine capsules?
 Fluoxetine capsules can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
@@ -254,4 +255,4 @@ Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Zyprexa® is a registered trademark of Eli Lilly and Company.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 08/2016
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 01/2017

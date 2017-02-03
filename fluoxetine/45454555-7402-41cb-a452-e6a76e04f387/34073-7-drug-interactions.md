@@ -15,7 +15,7 @@ In evaluating individual cases, consideration should be given to using lower ini
 
 [See Dosage and Administration (2.9, 2.10), Contraindications (4.1), and Warnings and Precautions (5.2)].
 
-## 7.4 Drugs that Interfere with Hemostasis (e.g., NSAIDs, Aspirin, Warfarin)
+## 7.4 Drugs that Interfere with Hemostasis (e.g., NSAIDS, Aspirin, Warfarin)
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.

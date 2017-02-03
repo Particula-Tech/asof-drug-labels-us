@@ -67,7 +67,7 @@ Table 3: Most Common Treatment-Emergent Adverse Reactions: Incidence in Major De
 | Abnormal ejaculation3 | -- | -- | 7 | -- | 7 | -- | 2 | 1 |
 | 1 Incidence less than 1%. 2 Includes U.S. data for Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-U.S. data for Panic Disorder clinical trials. 3 Denominator used was for males only (N=690 fluoxetine Major Depressive Disorder; N=410 placebo Major Depressive Disorder; N=116 fluoxetine OCD; N=43 placebo OCD; N=14 fluoxetine bulimia; N=1 placebo bulimia; N=162 fluoxetine panic; N=121 placebo panic). |  |  |  |  |  |  |  |  |
 
-Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials1, 2
+Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials1,2
 
 |  | Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Combined |  |
 | --- | --- | --- |

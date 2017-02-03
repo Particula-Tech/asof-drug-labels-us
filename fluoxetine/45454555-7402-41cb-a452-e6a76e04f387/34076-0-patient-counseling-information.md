@@ -22,7 +22,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 ## 17.3 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of fluoxetine and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John’s Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of fluoxetine and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
 Patients should be advised of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be cautioned to seek medical care immediately if they experience these symptoms.
 
@@ -88,4 +88,4 @@ Pediatric Use of fluoxetine and olanzapine in combination – Safety and efficac
 
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 08/2016 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 01/2017 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides

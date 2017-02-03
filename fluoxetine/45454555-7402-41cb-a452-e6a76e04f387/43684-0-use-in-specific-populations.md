@@ -66,7 +66,8 @@ After 19 weeks of treatment in a clinical trial, pediatric subjects treated with
 In addition, fluoxetine treatment was associated with a decrease in alkaline phosphatase levels.
 The safety of fluoxetine treatment for pediatric patients has not been systematically assessed for chronic treatment longer than several months in duration.
 In particular, there are no studies that directly evaluate the longer-term effects of fluoxetine on the growth, development and maturation of children and adolescent patients.
-Therefore, height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6)].
+Therefore, height and weight should be monitored periodically in pediatric patients receiving fluoxetine.
+[see Warnings and Precautions (5.6)].
 
 Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Anyone considering the use of fluoxetine in a child or adolescent must balance the potential risks with the clinical need.
@@ -92,7 +93,7 @@ Safety and effectiveness of fluoxetine and olanzapine in combination in patients
 
 U.S. fluoxetine clinical trials included 687 patients ≥65 years of age and 93 patients ≥75 years of age.
 The efficacy in geriatric patients has been established [see Clinical Studies (14.1)].
-For pharmacokinetic information in geriatric patients [see Clinical Pharmacology (12.4)].
+For pharmacokinetic information in geriatric patients, [see Clinical Pharmacology (12.4)].
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 SNRIs and SSRIs, including fluoxetine, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [see Warnings and Precautions (5.9)].
 Clinical studies of olanzapine and fluoxetine in combination did not include sufficient numbers of patients ≥65 years of age to determine whether they respond differently from younger patients.
