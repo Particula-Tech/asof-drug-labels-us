@@ -43,7 +43,7 @@ Eye Disorders: Diplopia, Mydriasis, Visual impairment
 
 General Disorders: Chest pain, Chest discomfort, Hyperpyrexia
 
-Hepatobiliary Disorders: Hepatic failure
+Hepatobiliary Disorders: Severe hepatocellular injury
 
 Immune System Disorders: Hypersensitivity reactions such as Angioedema, Anaphylactic reactions, Auricular swelling, Bullous conditions, Exfoliative conditions, Urticarias, Pruritus NEC, Rashes, Eruptions, and Exanthemas NEC
 
@@ -51,7 +51,7 @@ Investigations: Alkaline phosphatase increased, Bilirubin increased, Hepatic enz
 
 Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Muscle twitching, Rhabdomyolysis
 
-Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia
+Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia, Serotonin syndrome in combination with serotonergic drugs
 
 Psychiatric Disorders: Disorientation, Hallucination, Hallucination auditory, Hallucination visual, Libido changes, Mania
 
