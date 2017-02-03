@@ -27,7 +27,7 @@ Gestation duration was increased at 48 mg/kg/day.
 Retinal Changes in Rats
 
 Pathologic changes (degeneration/atrophy) were observed in the retinas of albino rats in the 2-year carcinogenicity study with racemic citalopram.
-There was an increase in both incidence and severity of retinal pathology in both male and female rats receiving 80 mg/kg/ day.
+There was an increase in both incidence and severity of retinal pathology in both male and female rats receiving 80 mg/kg/day.
 Similar findings were not present in rats receiving 24 mg/kg/day of racemic citalopram for two years, in mice receiving up to 240 mg/kg/day of racemic citalopram for 18 months, or in dogs receiving up to 20 mg/kg/day of racemic citalopram for one year.
 
 Additional studies to investigate the mechanism for this pathology have not been performed, and the potential significance of this effect in humans has not been established.

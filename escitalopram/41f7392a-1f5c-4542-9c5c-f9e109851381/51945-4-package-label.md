@@ -1,3 +1,5 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
 Escitalopram Tablets USP
 
 5 mg - Bottle of 30s

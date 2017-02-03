@@ -63,15 +63,14 @@ The most commonly observed adverse reactions in escitalopram patients (incidence
 Table 2 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 715 depressed patients who received escitalopram tablets at doses ranging from 10 to 20 mg/day in placebo-controlled trials.
 Events included are those occurring in 2% or more of patients treated with escitalopram and for which the incidence in patients treated with escitalopram was greater than the incidence in placebo-treated patients.
 
-TABLE 2 Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Major Depressive Disorder
-
-| Adverse Reaction | Escitalopram | Placebo |
+| TABLE 2 |  |  |
 | --- | --- | --- |
-|  | (N=715) % | (N=592) % |
+| Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Major Depressive Disorder |  |  |
+| Adverse Reaction | Escitalopram (N=715) % | Placebo (N=592) % |
 | Autonomic Nervous System Disorders |  |  |
 | Dry Mouth | 6% | 5% |
 | Sweating Increased | 5% | 2% |
-| Central and Peripheral Nervous System Disorders |  |  |
+| Central & Peripheral Nervous System Disorders |  |  |
 | Dizziness | 5% | 3% |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 15% | 7% |
@@ -91,9 +90,12 @@ TABLE 2 Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2%
 | Rhinitis | 5% | 4% |
 | Sinusitis | 3% | 2% |
 | Urogenital |  |  |
-| Ejaculation DisorderPrimarily ejaculatory delay.,Denominator used was for males only (N=225 escitalopram; N=188 placebo). | 9% | <1% |
-| Impotence | 3% | <1% |
-| AnorgasmiaDenominator used was for females only (N=490 escitalopram; N=404 placebo). | 2% | <1% |
+| Ejaculation Disorder1,2 | 9% | < 1% |
+| Impotence2 | 3% | < 1% |
+| Anorgasmia3 | 2% | < 1% |
+| 1Primarily ejaculatory delay. |  |  |
+| 2Denominator used was for males only (N=225 escitalopram; N=188 placebo). |  |  |
+| 3Denominator used was for females only (N=490 escitalopram; N=404 placebo). |  |  |
 
 Generalized Anxiety Disorder:
 
@@ -104,10 +106,10 @@ The most commonly observed adverse reactions in escitalopram patients (incidence
 Table 3 enumerates the incidence, rounded to the nearest percent of treatment-emergent adverse events that occurred among 429 GAD patients who received escitalopram tablets 10 to 20 mg/day in placebo-controlled trials.
 Events included are those occurring in 2% or more of patients treated with escitalopram and for which the incidence in patients treated with escitalopram was greater than the incidence in placebo-treated patients.
 
-TABLE 3 Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Generalized Anxiety Disorder
-
-| Adverse Reactions | Escitalopram (N=429) % | Placebo (N=427) % |
+| TABLE 3 |  |  |
 | --- | --- | --- |
+| Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Generalized Anxiety Disorder |  |  |
+| Adverse Reactions | Escitalopram (N=429) % | Placebo (N=427) % |
 | Autonomic Nervous System Disorders |  |  |
 | Dry Mouth | 9% | 5% |
 | Sweating Increased | 4% | 1% |
@@ -138,9 +140,12 @@ TABLE 3 Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2%
 | Respiratory System Disorders |  |  |
 | Yawning | 2% | 1% |
 | Urogenital |  |  |
-| Ejaculation DisorderPrimarily ejaculatory delay.,Denominator used was for males only (N=182 escitalopram; N=195 placebo). | 14% | 2% |
-| AnorgasmiaDenominator used was for females only (N=247 escitalopram; N=232 placebo). | 6% | <1% |
+| Ejaculation Disorder1,2 | 14% | 2% |
+| Anorgasmia3 | 6% | <1% |
 | Menstrual Disorder | 2% | 1% |
+| 1Primarily ejaculatory delay. |  |  |
+| 2Denominator used was for males only (N=182 escitalopram; N=195 placebo). |  |  |
+| 3Denominator used was for females only (N=247 escitalopram; N=232 placebo). |  |  |
 
 Dose Dependency of Adverse Reactions:
 
@@ -148,10 +153,10 @@ The potential dose dependency of common adverse reactions (defined as an inciden
 The overall incidence rates of adverse events in 10 mg escitalopram-treated patients (66%) was similar to that of the placebo-treated patients (61%), while the incidence rate in 20 mg/day escitalopram-treated patients was greater (86%).
 Table 4 shows common adverse reactions that occurred in the 20 mg/day escitalopram group with an incidence that was approximately twice that of the 10 mg/day escitalopram group and approximately twice that of the placebo group.
 
-TABLE 4 Incidence of Common Adverse Reactions in Patients with Major Depressive Disorder
-
-| Adverse Reaction | Placebo | 10 mg/day | 20 mg/day |
+| TABLE 4 |  |  |  |
 | --- | --- | --- | --- |
+| Incidence of Common Adverse Reactions in Patients with Major Depressive Disorder |  |  |  |
+| Adverse Reaction | Placebo | 10 mg/day | 20 mg/day |
 |  | (N=311) | Escitalopram | Escitalopram |
 |  |  | (N=310) | (N=125) |
 | Insomnia | 4% | 7% | 14% |
@@ -169,15 +174,13 @@ Male and Female Sexual Dysfunction with SSRIs:
 Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
 
-Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians
-
-may be reluctant to discuss them.
+Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling are likely to underestimate their actual incidence.
 
-TABLE 5 Incidence of Sexual Side Effects in Placebo-Controlled Clinical Trials
-
-| Adverse Event | Escitalopram | Placebo |
+| TABLE 5 |  |  |
 | --- | --- | --- |
+| Incidence of Sexual Side Effects in Placebo-Controlled Clinical Trials |  |  |
+| Adverse Event | Escitalopram | Placebo |
 |  | In Males Only |  |
 |  | (N=407) | (N=383) |
 | Ejaculation Disorder (primarily ejaculatory delay) | 12% | 1% |
@@ -209,7 +212,7 @@ Laboratory Changes:
 Escitalopram and placebo groups were compared with respect to (1) mean change from baseline in various serum chemistry, hematology, and urinalysis variables, and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
 These analyses revealed no clinically important changes in laboratory test parameters associated with escitalopram treatment.
 
-ECG Changes
+ECG Changes:
 
 Electrocardiograms from escitalopram (N=625) and placebo (N=527) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
 None of the patients in the escitalopram group had a QTcF interval >500 msec or a prolongation >60 msec compared to 0.2% of patients in the placebo group.
@@ -227,7 +230,7 @@ Other Reactions Observed During the Premarketing Evaluation of Escitalopram Tabl
 Following is a list of treatment-emergent adverse events, as defined in the introduction to the ADVERSE REACTIONS section, reported by the 1428 patients treated with escitalopram for periods of up to one year in double-blind or open-label clinical trials during its premarketing evaluation.
 The listing does not include those events already listed in Tables 2 & 3, those events for which a drug cause was remote and at a rate less than 1% or lower than placebo, those events which were so general as to be uninformative, and those events reported only once which did not have a substantial probability of being acutely life threatening.
 Events are categorized by body system.
-Events of major clinical importance are described in the Warnings and Precautions section (5).
+Events of major clinical importance are described in the WARNINGS AND PRECAUTIONS section (5).
 
 Cardiovascular - hypertension, palpitation.
 

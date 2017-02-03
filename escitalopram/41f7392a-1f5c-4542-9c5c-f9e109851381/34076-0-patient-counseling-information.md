@@ -25,7 +25,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone and St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see WARNINGS AND PRECAUTIONS (5.2)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see WARNINGS AND PRECAUTIONS (5.2)].
 
 Abnormal Bleeding
 
@@ -43,19 +43,19 @@ Concomitant Medications
 Since escitalopram is the active isomer of racemic citalopram (Celexa), the two agents should not be coadministered.
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription or over-the-counter drugs, as there is a potential for interactions.
 
-Continuing the Therapy Prescribed:
+Continuing the Therapy Prescribed
 
 While patients may notice improvement with escitalopram tablets therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
 
-Interference with Psychomotor Performance:
+Interference with Psychomotor Performance
 
 Because psychoactive drugs may impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that escitalopram therapy does not affect their ability to engage in such activities.
 
-Alcohol:
+Alcohol
 
 Patients should be told that, although escitalopram has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of escitalopram and alcohol in depressed patients is not advised.
 
-Pregnancy and Breast Feeding:
+Pregnancy and Breast Feeding
 
 Patients should be advised to notify their physician if they
 
@@ -87,22 +87,6 @@ Goa 403 722
 
 INDIA
 
-Revised: August 2015 ID#: 242202
+Revised: February 02, 2017 ID#: 250692
 
 ## 17.2 FDA-Approved Medication Guide
-
-Medication Guide
-
-Escitalopram (ES-sye-TAL-oh-pram) Tablets USP
-
-Read the Medication Guide that comes with escitalopram tablets USP before you start taking it and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
-Talk with your healthcare provider if there is something you do not understand or want to learn more about.
-
-What is the most important information I should know about Escitalopram Tablets?
-
-Escitalopram tablets and other antidepressant medicines may cause serious side effects, including:
-
-1.
-Suicidal thoughts or actions:

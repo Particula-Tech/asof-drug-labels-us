@@ -57,7 +57,7 @@ No adjustment of dosage is needed in adolescent patients.
 
 Elderly
 
-Escitalopram pharmacokinetics in subjects ≥ 65 years of age were compared to younger subjects in a single-dose and a multiple-dose study.
+Escitalopram pharmacokinetics in subjects 65 years of age were compared to younger subjects in a single-dose and a multiple-dose study.
 Escitalopram AUC and half-life were increased by approximately 50% in elderly subjects, and Cmax was unchanged.
 10 mg is the recommended dose for elderly patients [see DOSAGE AND ADMINISTRATION (2.3)].
 
