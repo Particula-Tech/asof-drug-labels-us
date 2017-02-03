@@ -31,3 +31,8 @@ The adverse reactions were similar to those observed in the placebo-controlled t
 
 The safety of Orenitram was also evaluated in an open-label study transitioning patients from Remodulin.
 The safety profile during this study was similar to that observed in the three pivotal studies.
+
+## 6.2 Post-Marketing Experience
+
+The following adverse reactions have been identified during postapproval use of Orenitram: dizziness, dyspepsia, vomiting, myalgia, and arthralgia.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
