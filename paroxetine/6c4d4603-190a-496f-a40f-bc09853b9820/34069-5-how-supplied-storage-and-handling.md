@@ -29,7 +29,7 @@ Store at 25°C (77°F); excursions permitted to 15°-30°C
 
 PI-2000-16
 
-DATE OF ISSUANCE: 07/2014
+DATE OF ISSUANCE: 01/2017
 
 Noven Therapeutics, LLC Miami, FL 33186 ©2012-2014 Noven Therapeutics, LLC All rights reserved.
 

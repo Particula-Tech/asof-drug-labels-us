@@ -59,7 +59,7 @@ Reported adverse events were classified using a standard COSTART-based Dictionar
 
 TABLE 2
 
-| Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for MDD1 |  |  |  |
+| Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for MDD 1 |  |  |  |
 | --- | --- | --- | --- |
 | Body System | Preferred Term | Paroxetine (n=421) | Placebo (n=421) |
 | Body as a Whole | Headache | 18% | 17% |
@@ -111,7 +111,7 @@ Table 3 enumerates adverse events that occurred at a frequency of 2% or more amo
 
 TABLE 3
 
-| Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Obsessive Compulsive Disorder and Panic Disorder1 |  |  |  |  |  |
+| Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Obsessive Compulsive Disorder and Panic Disorder 1 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Obsessive Compulsive Disorder |  | Panic Disorder |  |
 | Body System | Preferred Term | Paroxetine (n=542) | Placebo (n=265) | Paroxetine (n=469) | Placebo (n=324) |
@@ -161,7 +161,7 @@ Table 4 enumerates adverse events that occurred at a frequency of 2% or more amo
 
 TABLE 4
 
-| Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Generalized Anxiety Disorder1 |  |  |  |
+| Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Generalized Anxiety Disorder 1 |  |  |  |
 | --- | --- | --- | --- |
 | Body System | Preferred Term | Paroxetine (n=735) | Placebo (n=529) |
 | Body as a Whole | Asthenia | 14% | 6% |

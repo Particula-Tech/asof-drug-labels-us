@@ -51,7 +51,7 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that PEXEVA® (paroxetine mesylate) is not approved for use in treating bipolar depression.
 
-Serotonin Syndrome: The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including PEXEVA®, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Serotonin Syndrome: The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including PEXEVA®, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
@@ -63,7 +63,7 @@ No reports involved the administration of methylene blue by other routes (such a
 There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking PEXEVA®.
 PEXEVA® should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
-If concomitant use of PEXEVA® with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+If concomitant use of PEXEVA® with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John's Wort is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
 Treatment with PEXEVA® and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
@@ -252,11 +252,11 @@ Consequently, concomitant use of paroxetine with tryptophan is not recommended.
 
 Monoamine Oxidase Inhibitors: See CONTRAINDICATIONS and WARNINGS.
 
-Pimozide: In a controlled study of healthy volunteers, after paroxetine was titrated to 60 mg daily, coadministration of a single dose of 2 mg pimozide was associated with mean increases in pimozide AUC of 151% and Cmax of 62%, compared to pimozide administered alone.
-The increase in pimozide AUC and Cmax is due to the CYP2D6 inhibitory properties of paroxetine.
+Pimozide: In a controlled study of healthy volunteers, after paroxetine was titrated to 60 mg daily, coadministration of a single dose of 2 mg pimozide was associated with mean increases in pimozide AUC of 151% and C max of 62%, compared to pimozide administered alone.
+The increase in pimozide AUC and C max is due to the CYP2D6 inhibitory properties of paroxetine.
 Due to the narrow therapeutic index of pimozide and its known ability to prolong the QT interval, concomitant use of pimozide and paroxetine is contraindicated (see CONTRAINDICATIONS).
 
-Serotonergic Drugs: Based on the mechanism of action of paroxetine and the potential for serotonin syndrome, caution is advised when paroxetine is coadministered with other drugs or agents that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, fentanyl, tramadol, or St. John's Wort (see WARNINGS—Serotonin Syndrome).
+Serotonergic Drugs: Based on the mechanism of action of paroxetine and the potential for serotonin syndrome, caution is advised when paroxetine is coadministered with other drugs or agents that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, fentanyl, tramadol, amphetamines, or St. John's Wort (see WARNINGS—Serotonin Syndrome).
 The concomitant use of paroxetine with other SSRIs, SNRIs, or tryptophan is not recommended (see PRECAUTIONS—Drug Interactions, Tryptophan).
 
 Thioridazine: See CONTRAINDICATIONS and WARNINGS.
@@ -275,12 +275,12 @@ Therefore, when these drugs are administered concurrently, dosage adjustment of 
 The effect of paroxetine on cimetidine's pharmacokinetics was not studied.
 
 Phenobarbital— Phenobarbital induces many cytochrome P450 (oxidative) enzymes.
-When a single oral 30 mg dose of paroxetine was administered at phenobarbital steady state (100 mg qd for 14 days), paroxetine AUC and T1/2 were reduced (by an average of 25% and 38%, respectively) compared to paroxetine administered alone.
+When a single oral 30 mg dose of paroxetine was administered at phenobarbital steady state (100 mg qd for 14 days), paroxetine AUC and T 1/2 were reduced (by an average of 25% and 38%, respectively) compared to paroxetine administered alone.
 The effect of paroxetine on phenobarbital pharmacokinetics was not studied.
 Since paroxetine exhibits nonlinear pharmacokinetics, the results of this study may not address the case where the 2 drugs are both being chronically dosed.
 No initial paroxetine dosage adjustment is considered necessary when coadministered with phenobarbital; any subsequent adjustment should be guided by clinical effect.
 
-Phenytoin— When a single oral 30 mg dose of paroxetine was administered at phenytoin steady state (300 mg qd for 14 days), paroxetine AUC and T1/2 were reduced (by an average of 50% and 35%, respectively) compared to paroxetine administered alone.
+Phenytoin— When a single oral 30 mg dose of paroxetine was administered at phenytoin steady state (300 mg qd for 14 days), paroxetine AUC and T 1/2 were reduced (by an average of 50% and 35%, respectively) compared to paroxetine administered alone.
 In a separate study, when a single oral 300 mg dose of phenytoin was administered at paroxetine steady state (30 mg qd for 14 days), phenytoin AUC was slightly reduced (12% on average) compared to phenytoin administered alone.
 Since both drugs exhibit nonlinear pharmacokinetics, the above studies may not address the case where the 2 drugs are both being chronically dosed.
 No initial dosage adjustments are considered necessary when these drugs are coadministered; any subsequent adjustments should be guided by clinical effect (see ADVERSE REACTIONS—Postmarketing Reports).
@@ -288,12 +288,12 @@ No initial dosage adjustments are considered necessary when these drugs are coad
 Drugs Metabolized by Cytochrome CYP2D6: Many drugs, including most drugs effective in the treatment of MDD (paroxetine, other SSRIs, and many tricyclics), are metabolized by the cytochrome P450 isozyme CYP2D6.
 Like other agents that are metabolized by CYP2D6, paroxetine may significantly inhibit the activity of this isozyme.
 In most patients (>90%), this CYP2D6 isozyme is saturated early during paroxetine dosing.
-In one study, daily dosing of paroxetine (20 mg qd) under steady-state conditions increased single dose desipramine (100 mg) Cmax, AUC, and T1/2 by an average of approximately 2-, 5-, and 3-fold, respectively.
+In one study, daily dosing of paroxetine (20 mg qd) under steady-state conditions increased single dose desipramine (100 mg) C max, AUC, and T 1/2 by an average of approximately 2-, 5-, and 3-fold, respectively.
 Concomitant use of paroxetine with risperidone, a CYP2D6 substrate, has also been evaluated.
 In one study, daily dosing of paroxetine 20 mg in patients stabilized on risperidone (4 to 8 mg/day) increased mean plasma concentrations of risperidone approximately 4-fold, decreased 9-hydroxyrisperidone concentrations approximately 10%, and increased concentrations of the active moiety (the sum of risperidone plus 9-hydroxyrisperidone) approximately 1.4-fold.
 The effect of paroxetine on the pharmacokinetics of atomoxetine has been evaluated when both drugs were at steady state.
 In healthy volunteers who were extensive metabolizers of CYP2D6, paroxetine 20 mg daily was given in combination with 20 mg atomoxetine every 12 hours.
-This resulted in increases in steady state atomoxetine AUC values that were 6- to 8-fold greater and in atomoxetine Cmax values that were 3- to 4-fold greater than when atomoxetine was given alone.
+This resulted in increases in steady state atomoxetine AUC values that were 6- to 8-fold greater and in atomoxetine C max values that were 3- to 4-fold greater than when atomoxetine was given alone.
 Dosage adjustment of atomoxetine may be necessary and it is recommended that atomoxetine be initiated at a reduced dose when it is given with paroxetine.
 
 Concomitant use of paroxetine with other drugs metabolized by cytochrome CYP2D6 has not been formally studied but may require lower doses than usually prescribed for either paroxetine or the other drug.
@@ -309,7 +309,7 @@ At steady state, when the CYP2D6 pathway is essentially saturated, paroxetine cl
 
 Drugs Metabolized by Cytochrome CYP3A4: An in vivo interaction study involving the coadministration under steady-state conditions of paroxetine and terfenadine, a substrate for cytochrome CYP3A4, revealed no effect of paroxetine on terfenadine pharmacokinetics.
 In addition, in vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than paroxetine as an inhibitor of the metabolism of several substrates for this enzyme, including terfenadine, astemizole, cisapride, triazolam, and cyclosporine.
-Based on the assumption that the relationship between paroxetine's in vitro Ki and its lack of effect on terfenadine's in vivo clearance predicts its effect on other 3A4 substrates, paroxetine's extent of inhibition of CYP3A4 activity is not likely to be of clinical significance.
+Based on the assumption that the relationship between paroxetine's in vitro K i and its lack of effect on terfenadine's in vivo clearance predicts its effect on other 3A4 substrates, paroxetine's extent of inhibition of CYP3A4 activity is not likely to be of clinical significance.
 
 Tricyclic Antidepressants (TCA): Caution is indicated in the coadministration of tricyclic antidepressants (TCAs) with PEXEVA® (paroxetine mesylate), because paroxetine may inhibit TCA metabolism.
 Plasma TCA concentrations may need to be monitored and the dose of TCA may need to be reduced, if a TCA is coadministered with PEXEVA® (paroxetine mesylate).
@@ -335,7 +335,7 @@ Since there is little clinical experience, the concurrent administration of paro
 Diazepam— Under steady-state conditions, diazepam does not appear to affect paroxetine kinetics.
 The effects of paroxetine on diazepam were not evaluated.
 
-Procyclidine— Daily oral dosing of paroxetine (30 mg qd) increased steady-state AUC0-24, Cmax, and Cmin values of procyclidine (5 mg oral qd) by 35%, 37%, and 67%, respectively, compared to procyclidine alone at steady state.
+Procyclidine— Daily oral dosing of paroxetine (30 mg qd) increased steady-state AUC 0-24, C max, and C min values of procyclidine (5 mg oral qd) by 35%, 37%, and 67%, respectively, compared to procyclidine alone at steady state.
 If anticholinergic effects are seen, the dose of procyclidine should be reduced.
 
 Beta-Blockers— In a study where propranolol (80 mg bid) was dosed orally for 18 days, the established steady-state plasma concentrations of propranolol were unaltered during coadministration with paroxetine (30 mg qd) for the final 10 days.
