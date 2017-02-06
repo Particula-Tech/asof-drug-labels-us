@@ -4,6 +4,8 @@ The following adverse reactions have been reported with DEPO-MEDROL or other cor
 
 Allergic reactions: Allergic or hypersensitivity reactions, anaphylactoid reaction, anaphylaxis, angioedema.
 
+Blood and lymphatic system disorders: Leukocytosis.
+
 Cardiovascular: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction (see WARNINGS), pulmonary edema, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis.
 
 Dermatologic: Acne, allergic dermatitis, cutaneous and subcutaneous atrophy, dry scaly skin, ecchymoses and petechiae, edema, erythema, hyperpigmentation, hypopigmentation, impaired wound healing, increased sweating, rash, sterile abscess, striae, suppressed reactions to skin tests, thin fragile skin, thinning scalp hair, urticaria.
