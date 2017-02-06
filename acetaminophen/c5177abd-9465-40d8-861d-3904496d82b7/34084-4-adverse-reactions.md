@@ -16,11 +16,10 @@ A total of 1020 adult patients have received OFIRMEV in clinical trials, includi
 Most patients were treated with OFIRMEV 1000 mg every 6 hours.
 A total of 13.1% (n=134) received OFIRMEV 650 mg every 4 hours.
 
-All adverse reactions that occurred in adult patients treated with either OFIRMEV or placebo in repeated dose, placebo-controlled clinical trials at an incidence ≥ 3% and at a greater frequency than placebo are listed in Table 3.
+All adverse reactions that occurred in adult patients treated with either OFIRMEV or placebo in repeated dose, placebo-controlled clinical trials at an incidence ≥ 3% and at a greater frequency than placebo are listed in Table 4.
 The most common adverse events in adult patients treated with OFIRMEV (incidence ≥ 5% and greater than placebo) were nausea, vomiting, headache, and insomnia.
 
-Table 3.
-Treatment-Emergent Adverse Reactions Occurring in ≥ 3% of OFIRMEV-treated Patients and at a greater frequency than Placebo in Placebo-Controlled, Repeated Dose Studies
+Table 4.­ Treatment-Emergent Adverse Reactions Occurring in ≥ 3% of OFIRMEV-treated Adult Patients and at a Greater Frequency than Placebo in Placebo-Controlled, Repeated Dose Studies
 
 | System Organ Class – Preferred Term | OFIRMEV (N=402) n (%) | Placebo (N=379) n (%) |
 | --- | --- | --- |
@@ -52,38 +51,32 @@ Vascular disorders: hypertension, hypotension
 
 Pediatric Population
 
-A total of 355 pediatric patients (47 neonates, 64 infants, 171 children, and 73 adolescents) have received OFIRMEV in active-controlled (n=250) and open-label clinical trials (n=225), including 59.7% (n=212) who received 5 or more doses and 43.1% (n=153) who received more than 10 doses.
+A total of 483 pediatric patients (72 neonates, 167 infants, 171 children, and 73 adolescents) have received OFIRMEV in active-controlled (n=250) and open-label clinical trials (n=225), including 43.9% (n=212) who received 5 or more doses and 31.2% (n=153) who received more than 10 doses.
 Pediatric patients received OFIRMEV doses up to 15 mg/kg on an every 4 hours, every 6 hours, or every 8 hours schedule.
 The maximum exposure was 7.7, 6.4, 6.8, and 7.1 days in neonates, infants, children, and adolescents, respectively.
 
-The most common adverse events (incidence ≥ 5%) in pediatric patients treated with OFIRMEV were nausea, vomiting, constipation, pruritus, agitation, and atelectasis.
+The most common adverse events (incidence ≥ 5%) in pediatric patients treated with OFIRMEV were nausea, vomiting, constipation, and pruritus.
 
 Other Adverse Reactions Observed During Clinical Studies of OFIRMEV in Pediatrics
 
-The following additional treatment-emergent adverse reactions were reported by pediatric subjects treated with OFIRMEV (n=355) that occurred with an incidence of at least 1%.
+The following additional treatment-emergent adverse reactions were reported by pediatric subjects treated with OFIRMEV (n=483) that occurred with an incidence of at least 1%.
 
-Blood and lymphatic system disorders: anemia
+Blood and lymphatic system disorders:­ anemia
 
-Cardiac disorders: tachycardia
+Gastrointestinal disorders:­ diarrhea
 
-Gastrointestinal disorders: abdominal pain, diarrhea
+General disorders and administration site conditions:­ pyrexia, injection site pain
 
-General disorders and administration site conditions: injection site pain, edema peripheral, pyrexia
+Metabolism and nutrition disorders:­ hypokalemia, hypomagnesemia, hypoalbuminemia, hypophosphatemia
 
-Investigations: hepatic enzyme increase
+Musculoskeletal and connective tissue disorders:­ muscle spasm
 
-Metabolism and nutrition disorders: hypoalbuminemia, hypokalemia, hypomagnesemia, hypophosphatemia, hypervolemia
+Nervous system disorders:­ headache
 
-Musculoskeletal and connective tissue disorders: muscle spasm, pain in extremity
+Psychiatric disorders:­ agitation
 
-Nervous system disorders: headache
+Renal and urinary disorders:­ oliguria
 
-Psychiatric disorders: insomnia
+Respiratory, thoracic and mediastinal disorders:­ atelectasis, pleural effusion, pulmonary edema, stridor, wheezing
 
-Renal and urinary disorders: oliguria
-
-Respiratory, thoracic and mediastinal disorders: pulmonary edema, hypoxia, pleural effusion, stridor, wheezing
-
-Skin and subcutaneous tissue disorders: periorbital edema, rash
-
-Vascular disorders: hypertension, hypotension
+Vascular disorders:­ hypotension, hypertension

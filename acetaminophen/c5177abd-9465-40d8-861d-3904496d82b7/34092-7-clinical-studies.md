@@ -22,4 +22,4 @@ Figure 1: Mean Temperature (°C) Over Time
 
 ## 14.3 Pediatric Acute Pain and Fever
 
-OFIRMEV was studied in 355 pediatric patients in two active-controlled and three open-label safety and pharmacokinetic trials [see Use in Specific Populations (8.4)].
+OFIRMEV was studied in pediatric patients in three active-controlled trials and three open-label safety and pharmacokinetic trials [see Use in Specific Populations (8.4)].

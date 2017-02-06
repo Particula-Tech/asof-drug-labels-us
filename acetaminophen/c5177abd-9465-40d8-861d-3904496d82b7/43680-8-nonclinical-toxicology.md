@@ -13,8 +13,8 @@ Mutagenesis
 
 Acetaminophen was not mutagenic in the bacterial reverse mutation assay (Ames test).
 In contrast, acetaminophen tested positive in the in vitro mouse lymphoma assay and the in vitro chromosomal aberration assay using human lymphocytes.
-In the published literature, acetaminophen has been reported to be clastogenic when administered a dose of 1500 mg/kg/day to the rat model (3.6-times the MHDD, based on a body surface area comparison).
-In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8-times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
+In the published literature, acetaminophen has been reported to be clastogenic when administered a dose of 1500 mg/kg/day to the rat model (3.6 times the MHDD, based on a body surface area comparison).
+In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8 times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
 
 Impairment of Fertility
 
@@ -24,4 +24,7 @@ Although there was no effect on sperm motility or sperm density in the epididymi
 
 Published studies in rodents report that oral acetaminophen treatment of male animals at doses that are 1.2 times the MHDD and greater (based on a body surface area comparison) result in decreased testicular weights, reduced spermatogenesis, reduced fertility, and reduced implantation sites in females given the same doses.
 These effects appear to increase with the duration of treatment.
-The clinical significance of these findings is not known.
+
+In a published mouse study, oral administration of 50 mg/kg acetaminophen to pregnant mice from Gestation Day 7 to delivery (0.06 times the MHDD, based on a body surface area comparison) reduced the number of primordial follicles in female offspring and reduced the percentage of full term pregnancies and number of pups born to these females exposed to acetaminophen in utero.
+
+In a published study, oral administration of 350 mg/kg acetaminophen to pregnant rats (0.85 times the MHDD, based on a body surface area comparison) from Gestation Day 13 to 21 (dams) reduced the number of germ cells in the fetal ovary, decreased ovary weight, and reduced the number of pups per litter in F1 females as well as reduced ovary weights in F2 females.

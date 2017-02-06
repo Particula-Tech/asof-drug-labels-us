@@ -5,7 +5,7 @@
 OFIRMEV may be given as a single or repeated dose for the treatment of acute pain or fever.
 No dose adjustment is required when converting between oral acetaminophen and OFIRMEV dosing in adults and adolescents who weigh 50 kg and above.
 Calculated maximum daily dose of acetaminophen is based on all routes of administration (i.e., intravenous, oral, and rectal) and all products containing acetaminophen.
-Exceeding the maximum mg/kg daily dose of acetaminophen as described in Tables 1 and 2 may result in hepatic injury, including the risk of liver failure and death.
+Exceeding the maximum mg/kg daily dose of acetaminophen as described in Tables 1-3 may result in hepatic injury, including the risk of liver failure and death.
 To avoid the risk of overdose, ensure that the total amount of acetaminophen from all routes and from all sources does not exceed the maximum recommended dose.
 
 ## 2.2 Recommended Dosage: Adults and Adolescents
@@ -33,13 +33,27 @@ Dosing for Children
 | --- | --- | --- | --- | --- |
 | Children 2 to 12 years of age | 12.5 mg/kg | 15 mg/kg | 15 mg/kg (up to 750 mg) | 75 mg/kg in 24 hours (up to 3750 mg) |
 
-## 2.4 Instructions for Intravenous Administration
+## 2.4 Recommended Dosage For Treatment of Fever in Neonates and Infants
+
+Neonates, including premature neonates born at ≥ 32 weeks gestational age, up to 28 days chronological age: the recommended dosage of OFIRMEV is 12.5 mg/kg every 6 hours, to a maximum daily dose of acetaminophen of 50 mg/kg per day, with a minimum dosing interval of 6 hours.
+
+Infants 29 days to 2 years of age: the recommended dosage of OFIRMEV is 15 mg/kg every 6 hours, to a maximum daily dose of acetaminophen of 60 mg/kg per day, with a minimum dosing interval of 6 hours.
+
+Table 3.
+Dosing for Treatment of Fever in Neonates and Infants
+
+| Age group | Dose given every 6hours | Maximum total daily dose of acetaminophen (by all routes) |
+| --- | --- | --- |
+| Neonates (birth to 28 days) | 12.5 mg/kg | 50 mg/kg |
+| Infants (29 days to 2 years) | 15 mg/kg | 60 mg/kg |
+
+## 2.5 Instructions for Intravenous Administration
 
 For adult and adolescent patients weighing ≥ 50 kg requiring 1000 mg doses of OFIRMEV, administer the dose by inserting a vented intravenous set through the septum of the 100 mL vial or a non-vented intravenous set through the administration spike port of the 100 mL bag.
 OFIRMEV may be administered without further dilution.
 Examine the container contents before dose preparation or administering.
 DO NOT USE if particulate matter or discoloration is observed.
-Administer the contents of the container intravenously over 15-minutes.
+Administer the contents of the container intravenously over 15 minutes.
 Use aseptic technique when preparing OFIRMEV for intravenous infusion.
 Do not add other medications to the OFIRMEV vial or infusion device.
 

@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-NDC 43825-102-01 - OFIRMEV® (acetaminophen) Injection is supplied in a 100 mL glass vial containing 1000 mg acetaminophen (10 mg/mL) in cartons of 24 vials.
+NDC 43825-102-01 - OFIRMEV (acetaminophen) Injection is supplied in a 100 mL glass vial containing 1000 mg acetaminophen (10 mg/mL) in cartons of 24 vials.
 
-NDC 43825-102-03 - OFIRMEV® (acetaminophen) Injection is supplied in a 100 mL bag containing 1000 mg acetaminophen (10 mg/mL) in cartons of 24 bags.
+NDC 43825-102-03 - OFIRMEV (acetaminophen) Injection is supplied in a 100 mL bag containing 1000 mg acetaminophen (10 mg/mL) in cartons of 24 bags.
 
 Do not remove unit from overwrap until ready for use.
 
@@ -19,11 +19,11 @@ Do not refrigerate or freeze.
 
 Manufactured for: Mallinckrodt Hospital Products Inc. Hazelwood, MO 63042 USA
 
-Revised: 11/2016
+Revised: 01/2017
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
 
-© 2016 Mallinckrodt.
+© 2017 Mallinckrodt.
 
 U.S. PATENT NUMBERS: 6,028,222; 6,992,218
 

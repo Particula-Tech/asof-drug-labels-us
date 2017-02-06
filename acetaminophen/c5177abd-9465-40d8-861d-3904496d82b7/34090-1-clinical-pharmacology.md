@@ -16,28 +16,24 @@ Clinical studies of both healthy subjects and patients with hemophilia showed no
 
 Distribution
 
-The pharmacokinetics of OFIRMEV have been studied in patients and healthy subjects from premature neonates up to adults 60 years old.
+The pharmacokinetics of OFIRMEV have been studied in patients and healthy subjects up to 60 years old.
 The pharmacokinetic profile of OFIRMEV has been demonstrated to be dose proportional in adults following administration of single doses of 500, 650, and 1000 mg.
 
-The maximum concentration (Cmax) occurs at the end of the 15 minute intravenous infusion of OFIRMEV.
+The maximum concentration (Cmax) occurs at the end of the 15-minute intravenous infusion of OFIRMEV.
 Compared to the same dose of oral acetaminophen, the Cmax following administration of OFIRMEV is up to 70% higher, while overall exposure (area under the concentration time curve [AUC]) is very similar.
 
-Pharmacokinetic parameters of OFIRMEV (AUC, Cmax, terminal elimination half-life [T½], systemic clearance [CL], and volume of distribution at steady state [Vss]) following administration of a single intravenous dose of 15 mg/kg for the pediatric population and 1000 mg in adults are summarized in Table 4.
+Pharmacokinetic parameters of OFIRMEV (AUC, Cmax, terminal elimination half-life [T½], systemic clearance [CL], and volume of distribution at steady state [Vss]) following administration of a single intravenous dose of 15 mg/kg in children and adolescents and 1000 mg in adults are summarized in Table 5.
 
-Table 4.
-OFIRMEV Pharmacokinetic Parameters
+Table 5.­ OFIRMEV Pharmacokinetic Parameters
 
 | Subpopulations | Mean (SD) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| AUC (μg × h/mL) | Cmax (μg/mL) | T½ (h) | CL (L/h/kg) | Vss (L/kg) |  |
-| Neonates | 62 (11) | 25 (4) | 7.0 (2.7) | 0.12 (0.04) | 1.1 (0.2) |
-| Infants | 57 (54) | 29 (24) | 4.2 (2.9) | 0.29 (0.15) | 1.1 (0.3) |
+| AUC0-6h(µg × h/mL) | Cmax(µg/mL) | T½(h) | CL(L/h/kg) | Vss(L/kg) |  |
 | Children | 38 (8) | 29 (7) | 3.0 (1.5) | 0.34 (0.10) | 1.2 (0.3) |
 | Adolescents | 41 (7) | 31 (9) | 2.9 (0.7) | 0.29 (0.08) | 1.1 (0.3) |
 | Adults | 43 (11) | 28 (21) | 2.4 (0.6) | 0.27 (0.08) | 0.8 (0.2) |
 
-The pharmacokinetic exposure of OFIRMEV observed in children and adolescents is similar to adults, but higher in neonates and infants.
-Dosing simulations from pharmacokinetic data in infants and neonates suggest that dose reductions of 33% in infants 1 month to < 2 years of age, and 50% in neonates up to 28 days, with a minimum dosing interval of 6 hours, will produce a pharmacokinetic exposure similar to that observed in children age 2 years and older.
+The concentrations of acetaminophen observed in neonates greater than 32 weeks gestational age at birth treated with 12.5 mg/kg dose are similar to infants, children and adolescents treated with a 15 mg/kg dose, and similar to adults treated with a 1000 mg dose.
 
 At therapeutic levels, binding of acetaminophen to plasma proteins is low (ranging from 10% to 25%).
 Acetaminophen appears to be widely distributed throughout most body tissues except fat.
