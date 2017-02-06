@@ -58,24 +58,14 @@ Mallinckrodt Pharmaceuticals™
 
 L00H30 Rev 08/2013
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 10 mg/500 mg Bottle
-
-Multiple strengths.
-Do not dispense unless strength is stated.
-
-NDC 0406-0363-05 500 TABLETS HYDROCODONE BITARTRATE AND ACETAMINOPHEN TABLETS USP CIII 10 mg/500 mg Each tablet contains: Hydrocodone Bitartrate USP.................
-10 mg Acetaminophen USP.........................
-500 mg Rx only This package is not for household use.
-Mallinckrodt Pharmaceuticals™
-
-L00H12 Rev 08/2013
-
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 5 mg/325 mg Bottle
 
 Multiple strengths.
 Do not dispense unless strength is stated.
 
-NDC 0406-0123-01 100 TABLETS HYDROCODONE BITARTRATE AND ACETAMINOPHEN TABLETS USP
+NDC 0406-0123-01 100 TABLETS
+
+Hydrocodone Bitartrate and Acetaminophen Tablets USP
 
 CII
 
@@ -87,14 +77,18 @@ Rx only
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 Mallinckrodt™
 
-L0H105 Rev 03/2016
+L0H105 Rev 12/2016
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 7.5 mg/325 mg Bottle
 
 Multiple strengths.
 Do not dispense unless strength is stated.
 
-NDC 0406-0124-01 100 TABLETS HYDROCODONE BITARTRATE AND ACETAMINOPHEN TABLETS USP
+NDC 0406-0124-01
+
+100 TABLETS
+
+Hydrocodone Bitartrate and Acetaminophen Tablets USP
 
 CII
 
@@ -106,14 +100,18 @@ Rx only
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 Mallinckrodt™
 
-L0H107 Rev 03/2016
+L0H107 Rev 12/2016
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 10 mg/325 mg Bottle
 
 Multiple strengths.
 Do not dispense unless strength is stated.
 
-NDC 0406-0125-01 100 TABLETS HYDROCODONE BITARTRATE AND ACETAMINOPHEN TABLETS USP
+NDC 0406-0125-01
+
+100 TABLETS
+
+Hydrocodone Bitartrate and Acetaminophen Tablets USP
 
 CII
 
@@ -125,4 +123,4 @@ Rx only
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 Mallinckrodt™
 
-L0H109 Rev 03/2016
+L0H109 Rev 12/2016

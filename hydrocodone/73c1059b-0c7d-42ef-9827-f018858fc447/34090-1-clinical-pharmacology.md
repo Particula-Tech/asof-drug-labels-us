@@ -52,12 +52,12 @@ Opioids have been shown to have a variety of effects on components of the immune
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-Concentration–Efficacy Relationships
+Concentration-Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
 The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance (see DOSAGE AND ADMINISTRATION).
 
-Concentration–Adverse Reaction Relationships
+Concentration-Adverse Reaction Relationships
 
 There is a relationship between increasing hydrocodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
 In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions (see DOSAGE AND ADMINISTRATION).
@@ -83,7 +83,7 @@ Hydrocodone and its metabolites are eliminated primarily in the kidneys.
 Acetaminophen
 
 Acetaminophen is rapidly absorbed from the gastrointestinal tract and is distributed throughout most body tissues.
-A small fraction (10-25%) of acetaminophen is bound to plasma proteins.
+A small fraction (10 to 25%) of acetaminophen is bound to plasma proteins.
 The plasma half-life is 1.25 to 3 hours, but may be increased by liver damage and following overdosage.
 Elimination of acetaminophen is principally by liver metabolism (conjugation) and subsequent renal excretion of metabolites.
 Acetaminophen is primarily metabolized in the liver by first-order kinetics and involves three principal separate pathways: conjugation with glucuronide; conjugation with sulfate; and oxidation via the cytochrome, P450-dependent, mixed-function oxidase enzyme pathway to form a reactive intermediate metabolite, which conjugates with glutathione and is then further metabolized to form cysteine and mercapturic acid conjugates.

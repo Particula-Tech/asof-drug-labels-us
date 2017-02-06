@@ -203,7 +203,7 @@ Instruct patients how to properly take hydrocodone bitartrate and acetaminophen 
 
 Maximum Daily Dose of Acetaminophen
 
-Inform patients not to take more than 4000 milligrams of acetaminophen per day.
+Inform patients not to take more than 4,000 milligrams of acetaminophen per day.
 Advise patients to call their prescriber if they take more than the recommended dose.
 
 Hypotension
@@ -257,7 +257,7 @@ Drug Interactions
 
 Inhibitors of CYP3A4 and CYP2D6
 
-The concomitant use of hydrocodone bitartrate and acetaminophen tablets and CYP3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), and protease inhibitors (e.g., ritonavir), can increase the plasma concentration of the hydrocodone from hydrocodone bitartrate and acetaminophen tablets, resulting in increased or prolonged opioid effects.
+The concomitant use of hydrocodone bitartrate and acetaminophen tablets and CYP3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), can increase the plasma concentration of the hydrocodone from hydrocodone bitartrate and acetaminophen tablets, resulting in increased or prolonged opioid effects.
 These effects could be more pronounced with concomitant use of hydrocodone bitartrate and acetaminophen tablets and both CYP3A4 and CYP2D6 inhibitors, particularly when an inhibitor is added after a stable dose of hydrocodone bitartrate and acetaminophen tablets is achieved (see WARNINGS).
 
 After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the hydrocodone plasma concentration will decrease (see CLINICAL PHARMACOLOGY), resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to hydrocodone bitartrate and acetaminophen tablets.
@@ -337,12 +337,12 @@ Long-term studies to evaluate the carcinogenic potential of the combination of h
 Long-term studies in mice and rats have been completed by the National Toxicology Program to evaluate the carcinogenic potential of acetaminophen.
 In 2-year feeding studies, F344/N rats and B6C3F1 mice were fed a diet containing acetaminophen up to 6000 ppm.
 Female rats demonstrated equivocal evidence of carcinogenic activity based on increased incidences of mononuclear cell leukemia at 0.8 times the maximum human daily dose (MHDD) of 4 grams/day, based on a body surface area comparison.
-In contrast, there was no evidence of carcinogenic activity in male rats that received up to 0.7 times or mice at up to 1.2-1.4 times the MHDD, based on a body surface area comparison.
+In contrast, there was no evidence of carcinogenic activity in male rats that received up to 0.7 times or mice at up to 1.2 to 1.4 times the MHDD, based on a body surface area comparison.
 
 Mutagenesis
 
-In the published literature, acetaminophen has been reported to be clastogenic when administered at 1500 mg/kg/day to the rat model (3.6-times the MHDD, based on a body surface area comparison).
-In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8-times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
+In the published literature, acetaminophen has been reported to be clastogenic when administered at 1500 mg/kg/day to the rat model (3.6 times the MHDD, based on a body surface area comparison).
+In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8 times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
 
 Impairment of Fertility
 
