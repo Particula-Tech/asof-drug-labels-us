@@ -1,147 +1,119 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
-Tramadol hydrochloride is a centrally acting synthetic opioid analgesic.
-Although its mode of action is not completely understood, from animal tests, at least two complementary mechanisms appear applicable: binding of parent and M1 metabolite to µ-opioid receptors and weak inhibition of reuptake of norepinephrine and serotonin.
-
-Opioid activity is due to both low affinity binding of the parent compound and higher affinity binding of the O-demethylated metabolite M1 to µ-opioid receptors.
-In animal models, M1 is up to 6 times more potent than tramadol in producing analgesia and 200 times more potent in µ-opioid binding.
-Tramadol-induced analgesia is only partially antagonized by the opiate antagonist naloxone in several animal tests.
+Tramadol hydrochloride extended-release tablets contain tramadol, an opioid agonist and an inhibitor of reuptake of norepinephrine and serotonin.
+Although the mode of action of tramadol is not completely understood, the analgesic effect of tramadol is believed to be due to both binding to μ-opioid receptors and weak inhibition of reuptake of norepinephrine and serotonin.
+Opioid activity of tramadol is due to both low affinity binding of the parent compound and higher affinity binding of the O-desmethyl metabolite M1 to μ-opioid receptors.
+In animal models, M1 is up to 6 times more potent than tramadol in producing analgesia and 200 times more potent in μ-opioid binding.
+Tramadol-induced analgesia is only partially antagonized by the opioid antagonist naloxone in several animal tests.
 The relative contribution of both tramadol and M1 to human analgesia is dependent upon the plasma concentrations of each compound.
-
 Tramadol has been shown to inhibit reuptake of norepinephrine and serotonin in vitro, as have some other opioid analgesics.
 These mechanisms may contribute independently to the overall analgesic profile of tramadol.
-The relationship between exposure of tramadol and M1 and efficacy has not been evaluated in the tramadol hydrochloride extended-release tablets clinical studies.
-
 Apart from analgesia, tramadol administration may produce a constellation of symptoms (including dizziness, somnolence, nausea, constipation, sweating and pruritus) similar to that of other opioids.
 In contrast to morphine, tramadol has not been shown to cause histamine release.
-At therapeutic doses, tramadol has no effect on heart rate, left-ventricular function or cardiac index.
+At therapeutic doses, tramadol has no effect on heart rate, left-ventricular function, or cardiac index.
 Orthostatic hypotension has been observed.
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
+
+Effects on the Central Nervous System Tramadol produces respiratory depression by direct action on brain stem respiratory centers.
+The respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.
+Tramadol causes miosis, even in total darkness.
+Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
+Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situations.
+Effects on the Gastrointestinal Tract and Other Smooth Muscle Tramadol causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
+Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
+Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Effects on the Cardiovascular System Tramadol produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
+Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
+Effects on the Endocrine System Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
+They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
+Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
+Effects on the Immune System Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
+The clinical significance of these findings is unknown.
+Overall, the effects of opioids appear to be modestly immunosuppressive.
+Concentration–Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent opioid agonists.
+The minimum effective analgesic concentration of tramadol for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1)].
+Concentration–Adverse Reaction Relationships There is a relationship between increasing tramadol plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2)].
+
+## 12.3 Pharmacokinetics
 
 The analgesic activity of tramadol is due to both parent drug and the M1 metabolite.
-Tramadol hydrochloride is administered as a racemate and both the [-] and [+] forms of both tramadol and M1 are detected in the circulation.
-
-The pharmacokinetics of tramadol are approximately dose-proportional over a 100 mg to 400 mg dose range in healthy subjects.
+Tramadol hydrochloride extended-release tablet is administered as a racemate and both the [-] and [+] forms of both tramadol and M1 are detected in the circulation.
+The pharmacokinetics of tramadol hydrochloride extended-release tablets are approximately dose-proportional over a 100 to 400 mg dose range in healthy subjects.
 The observed tramadol AUC values for the 400 mg dose were 26% higher than predicted based on the AUC values for the 200 mg dose.
 The clinical significance of this finding has not been studied and is not known.
-
-### Absorption
-
-In healthy subjects, the bioavailability of a tramadol hydrochloride extended-release 200 mg tablet relative to a 50 mg every six hours dosing regimen of the immediate-release dosage form (tramadol) was approximately 85 to 90%.
+Absorption In healthy subjects, the bioavailability of a tramadol hydrochloride extended-release tablet 200 mg administered once daily relative to a 50 mg immediate-release (IR) tablet administered every six hours was approximately 85to 90%.
 Consistent with the extended-release nature of the formulation, there is a lag time in drug absorption following tramadol hydrochloride extended-release tablets administration.
-The mean peak plasma concentrations of tramadol and M1 after administration of tramadol hydrochloride extended-release tablets to healthy volunteers are attained at about 12 h and 15 h, respectively, after dosing (see Table 1 and Figure 2).
+The mean peak plasma concentrations of tramadol and M1 after administration of tramadol hydrochloride extended-release tablets to healthy volunteers are attained at about 12 h and 15 h, respectively, after dosing (see Table 2 and Figure 2).
 Following administration of the tramadol hydrochloride extended-release tablets, steady-state plasma concentrations of both tramadol and M1 are achieved within four days with once daily dosing.
+The mean (%CV) pharmacokinetic parameter values for tramadol hydrochloride extended-release tablet 200 mg administered once daily and tramadol HCl IR 50 mg administered every six hours are provided in Table 2.
+Table 2.
+Mean (%CV) Steady-State Pharmacokinetic Parameter Values (n=32)
 
-The mean (%CV) pharmacokinetic parameter values for tramadol hydrochloride extended-release tablets 200 mg administered once daily and tramadol hydrochloride immediate-release 50 mg administered every six hours are provided in Table 1.
-
-Table 1.
-Mean (%CV) Steady-State Pharmacokinetic Parameter Values (n=32).
-
-| Pharmacokinetic Parameter | Tramadol |  | M1 Metabolite |  |
+|  | Tramadol |  | M1 Metabolite |  |
 | --- | --- | --- | --- | --- |
-| Tramadol Hydrochloride Extended-Release 200 mg Tablet Once-Daily | Immediate-Release Tramadol 50 mg Tablet Every 6 Hours | Tramadol Hydrochloride Extended-Release 200 mg Tablet Once-Daily | Immediate-Release Tramadol 50 mg Tablet Every 6 Hours |  |
+| Pharmacokinetic Parameter | Tramadol hydrochloride extended-release 200 mg Tablet | Tramadol hydrochloride 50 mg Tablet | Tramadol hydrochloride extended-release 200 mg Tablet | Tramadol hydrochloride 50 mg Tablet |
+|  | Once-Daily | Every 6 Hours | Once-Daily | Every 6 Hours |
 | AUC0-24 (ng∙h/mL) | 5975 (34) | 6613 (27) | 1890 (25) | 2095 (26) |
 | Cmax (ng/mL) | 335 (35) | 383 (21) | 95 (24) | 104 (24) |
 | Cmin (ng/mL) | 187 (37) | 228 (32) | 69 (30) | 82 (27) |
 | Tmax (h) | 12 (27) | 1.5 (42) | 15 (27) | 1.9 (57) |
 | % Fluctuation | 61 (57) | 59 (35) | 34 (72) | 26 (47) |
 
-AUC0-24: Area Under the Curve in a 24-hour dosing interval; Cmax: Peak Concentration in a 24-hour dosing interval; Cmin: Trough Concentration in a 24-hour dosing interval; Tmax: Time to Peak Concentration
+AUC0-24: Area Under the Curve in a 24-hour dosing interval; Cmax: Peak Concentration in a 24- hour dosing interval; Cmin: Trough Concentration in a 24-hour dosing interval; Tmax: Time to Peak Concentration Figure 2: Mean Steady-State Tramadol (a) and M1 (b) Plasma Concentrations on Day 8 Post Dose after Administration of 200 mg Tramadol Hydrochloride Extended-Release Tablets Once-Daily and 50 mg Tramadol IR Tablets Every 6 Hours.
 
-Figure 2: Mean Steady-State Tramadol (a) and M1 (b) Plasma Concentrations on Day 8 Post Dose after Administration of 200 mg Tramadol Hydrochloride Extended-Release Tablet Once-Daily and 50 mg Immediate-Release Tramadol Tablet Every 6 Hours.
-
-a. Tramadol
-
-b. M1
-
-### Food Effects
+Food Effects
 
 After a single dose administration of 200 mg tramadol hydrochloride extended-release tablet with a high fat meal, the Cmax and AUC0-∞ of tramadol decreased 28% and 16%, respectively, compared to fasting conditions.
 Mean Tmax was increased by 3 hr (from 14 hr under fasting conditions to 17 hr under fed conditions).
-While tramadol hydrochloride extended-release tablets may be taken without regard to food, it is recommended that it be taken in a consistent manner.
-
-### Distribution
-
-The volume of distribution of tramadol was 2.6 and 2.9 liters/kg in male and female subjects, respectively, following a 100 mg intravenous dose.
+While tramadol hydrochloride extended-release tablets may be taken without regard to food, it is recommended that it be taken in a consistent manner [see Dosage and Administration (2.1)].
+Distribution The volume of distribution of tramadol was 2.6 and 2.9 L/kg in male and female subjects, respectively, following a 100 mg intravenous dose.
 The binding of tramadol to human plasma proteins is approximately 20% and binding also appears to be independent of concentration up to 10 mcg/mL.
 Saturation of plasma protein binding occurs only at concentrations outside the clinically relevant range.
-
-### Metabolism
-
-Tramadol is extensively metabolized after oral administration.
-The major metabolic pathways appear to be N – (mediated by CYP3A4 and CYP2B6) and O – (mediated by CYP2D6) demethylation and glucuronidation or sulfation in the liver.
-One metabolite (O-desmethyl tramadol, denoted M1) is pharmacologically active in animal models.
-
-Formation of M1 is dependent on CYP2D6 and as such is subject to inhibition, which may affect the therapeutic response (see PRECAUTIONS - Drug Interactions).
-
-### Elimination
-
-Tramadol is eliminated primarily through metabolism by the liver and the metabolites are eliminated primarily by the kidneys.
-Approximately 30% of the dose is excreted in the urine as unchanged drug, whereas 60% of the dose is excreted as metabolites.
-The remainder is excreted either as unidentified or as unextractable metabolites.
+Elimination Tramadol is eliminated primarily through metabolism by the liver and the metabolites are eliminated primarily by the kidneys.
 The mean terminal plasma elimination half-lives of racemic tramadol and racemic M1 after administration of tramadol hydrochloride extended-release tablets are approximately 7.9 and 8.8 hours, respectively.
-
-## Special Populations
-
-### Renal
-
-Impaired renal function results in a decreased rate and extent of excretion of tramadol and its active metabolite, M1.
+Metabolism Tramadol is extensively metabolized after oral administration.
+The metabolic pathways appear to be N – demethylation (mediated by CYP3A4 and CYP2D6), O – demethylation (mediated by CYP2D6) and glucuronidation or sulfation in the liver.
+The CYP2D6 metabolite, O-desmethyl tramadol, (denoted M1) is observed to be 6 times more potent than tramadol in producing analgesia and 200 times more potent in μ-opioid binding in animal models.
+Excretion Approximately 30% of the dose is excreted in the urine as unchanged drug, whereas 60% of the dose is excreted as metabolites.
+The remainder is excreted either as unidentified or as unextractable metabolites.
+Special Populations Hepatic Impairment Pharmacokinetics of tramadol was studied in patients with mild or moderate hepatic impairment after receiving multiple doses of tramadol hydrochloride extended-release tablets 100 mg.
+The exposure of (+)- and (-)-tramadol was similar in mild and moderate hepatic impairment patients in comparison to patients with normal hepatic function.
+However, exposure of active metabolite (+)- and (-)-M1 decreased ~50% with increased severity of the hepatic impairment (from normal to mild and moderate).
+The pharmacokinetics of tramadol after the administration of tramadol hydrochloride extended-release tablets has not been studied in patients with severe hepatic impairment (Child-Pugh Class C). After the administration of tramadol IR tablets to patients with advanced cirrhosis of the liver, tramadol exposure was increased and the tramadol and M1 half-lives were longer than patients with normal hepatic function [see Use in Specific Populations (8.6)].
+Renal Impairment Impaired renal function results in a decreased rate and extent of excretion of tramadol and its active metabolite, M1.
 The pharmacokinetics of tramadol were studied in patients with mild or moderate renal impairment after receiving multiple doses of tramadol hydrochloride extended-release tablets 100 mg.
 There is no consistent trend observed for tramadol exposure related to renal function in patients with mild (CLcr: 50 to 80 mL/min) or moderate (CLcr: 30 to 50 mL/min) renal impairment in comparison to patients with normal renal function.
 However, exposure of M1 increased 20 to 40% with increased severity of the renal impairment (from normal to mild and moderate).
 Tramadol hydrochloride extended-release tablets have not been studied in patients with severe renal impairment (CLcr < 30 mL/min).
-The limited availability of dose strengths of tramadol hydrochloride extended-release tablet does not permit the dosing flexibility required for safe use in patients with severe renal impairment.
-Therefore, tramadol hydrochloride extended-release tablets should not be used in patients with severe renal impairment (see PRECAUTIONS, Use in Renal and Hepatic Disease and DOSAGE AND ADMINISTRATION).
-The total amount of tramadol and M1 removed during a 4-hour dialysis period is less than 7% of the administered dose.
-
-### Hepatic
-
-Pharmacokinetics of tramadol was studied in patients with mild or moderate hepatic impairment after receiving multiple doses of tramadol hydrochloride extended-release tablets 100 mg.
-The exposure of (+)- and (-)-tramadol was similar in mild and moderate hepatic impairment patients in comparison to patients with normal hepatic function.
-However, exposure of (+)- and (-)- M1 decreased ~50% with increased severity of the hepatic impairment (from normal to mild and moderate).
-The pharmacokinetics of tramadol after the administration of tramadol hydrochloride extended-release tablets has not been studied in patients with severe hepatic impairment.
-After the administration of tramadol immediate-release tablets to patients with advanced cirrhosis of the liver, tramadol area under the plasma concentration time curve was larger and the tramadol and M1 half-lives were longer than subjects with normal hepatic function.
-The limited availability of dose strengths of tramadol hydrochloride extended-release tablets does not permit the dosing flexibility required for safe use in patients with severe hepatic impairment.
-Therefore, tramadol hydrochloride extended-release tablets should not be used in patients with severe hepatic impairment (see PRECAUTIONS, Use in Renal and Hepatic Disease and DOSAGE AND ADMINISTRATION).
-
-### Geriatric
-
-The effect of age on the absorption of tramadol from tramadol hydrochloride extended-release tablets in patients over the age of 65 years has not been studied and is unknown (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
-
-### Gender
-
-Based on pooled multiple-dose pharmacokinetics studies for tramadol hydrochloride extended-release tablets in 166 healthy subjects (111 males and 55 females), the dose-normalized AUC values for tramadol were somewhat higher in females than in males.
+The total amount of tramadol and M1 removed during a 4-hour dialysis period is less than 7% of the administered dose [see Use in Specific Populations (8.7)].
+Sex Based on pooled multiple-dose pharmacokinetics studies for tramadol hydrochloride extended-release tablets in 166 healthy subjects (111 males and 55 females), the dose-normalized AUC values for tramadol were somewhat higher in females than in males.
 There was a considerable degree of overlap in values between male and female groups.
-Dosage adjustment based on gender is not recommended.
-
-## Drug Interactions
-
-The formation of the active metabolite, M1, is mediated by CYP2D6.
-Approximately 7% of the population has reduced activity of the CYP2D6 isoenzyme of cytochrome P-450.
-Based on a population PK analysis of Phase I studies with immediate-release tablets in healthy subjects, concentrations of tramadol were approximately 20% higher in "poor metabolizers" versus "extensive metabolizers," while M1 concentrations were 40% lower.
-In vitro drug interaction studies in human liver microsomes indicate that inhibitors of CYP2D6 (fluoxetine, norfluoxetine, amitriptyline, and quinidine) inhibit the metabolism of tramadol to various degrees, suggesting that concomitant administration of these compounds could result in increases in tramadol concentrations and decreased concentrations of M1.
-The full pharmacological impact of these alterations in terms of either efficacy or safety is unknown.
-
-Tramadol is also metabolized by CYP3A4.
-Administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or inducers, such as rifampin and St. John’s Wort, with tramadol hydrochloride extended-release tablets may affect the metabolism of tramadol leading to altered tramadol exposure (see PRECAUTIONS, Drug Interactions).
-
-Quinidine
-
-Tramadol is metabolized to M1 by CYP2D6.
-A study was conducted to examine the effect of quinidine, a selective inhibitor of CYP2D6, on the pharmacokinetics of tramadol by administering 200 mg quinidine two hours before the administration of tramadol hydrochloride extended-release tablets 100 mg.
-The results demonstrated that the exposure of tramadol increased 50 to 60% and the exposure of M1 decreased 50 to 60% (see PRECAUTIONS, Drug Interactions).
-In vitro drug interaction studies in human liver microsomes indicate that tramadol has no effect on quinidine metabolism.
-
-Carbamazepine
-
-Carbamazepine, a CYP3A4 inducer, increases tramadol metabolism.
-Patients taking carbamazepine may have a significantly reduced analgesic effect of tramadol.
-Because of the seizure risk associated with tramadol, concomitant administration of tramadol hydrochloride extended-release tablets and carbamazepine is not recommended (see PRECAUTIONS, Drug Interactions).
-
-Cimetidine
-
-Concomitant administration of tramadol immediate-release tablets with cimetidine does not result in clinically significant changes in tramadol pharmacokinetics.
+Dosage adjustment based on sex is not recommended.
+Age: Geriatric Population The effect of age on pharmacokinetics of tramadol hydrochloride extended-release has not been studied.
+Healthy elderly subjects aged 65 to 75 years administered an immediate-release formulation of tramadol, have plasma concentrations and elimination half-lives comparable to those observed in healthy subjects less than 65 years of age.
+In subjects over 75 years, mean maximum plasma concentrations are elevated (208 vs. 162 ng/mL) and the mean elimination halflife is prolonged (7 vs. 6 hours) compared to subjects 65 to 75 years of age.
+Adjustment of the daily dose is recommended for patients older than 75 years [see Dosage and Administration (2.3)].
+Drug Interaction Studies Potential for Tramadol to Affect Other Drugs In vitro studies indicate that tramadol is unlikely to inhibit the CYP3A4-mediated metabolism of other drugs when tramadol is administered concomitantly at therapeutic doses.
+Tramadol does not appear to induce its own metabolism in humans, since observed maximal plasma concentrations after multiple oral doses are higher than expected based on single-dose data.
+Poor/Extensive Metabolizers, CYP2D6 The formation of the active metabolite, M1, is mediated by CYP2D6, a polymorphic enzyme.
+Approximately 7% of the population has reduced activity of the CYP2D6 isoenzyme of cytochrome P450 metabolizing enzyme system.
+These individuals are “poor metabolizers” of debrisoquine, dextromethorphan and tricyclic antidepressants, among other drugs.
+Based on a population PK analysis of Phase 1 studies with IR tablets in healthy subjects, concentrations of tramadol were approximately 20% higher in "poor metabolizers" versus "extensive metabolizers," while M1 concentrations were 40% lower.
+CYP2D6 Inhibitors In vitro drug interaction studies in human liver microsomes indicate that concomitant administration with inhibitors of CYP2D6 such as fluoxetine, paroxetine, and amitriptyline could result in some inhibition of the metabolism of tramadol.
+Quinidine Tramadol is metabolized to active metabolite M1 by CYP2D6.
+Coadministration of quinidine, a selective inhibitor of CYP2D6, with tramadol hydrochloride extended-release tablets resulted in a 50-60% increase in tramadol exposure and a 50-60% decrease in M1 exposure.
+The clinical consequences of these findings are unknown.
+To evaluate the effect of tramadol, a CYP2D6 substrate on quinidine, an in vitro drug interaction study in human liver microsomes was conducted.
+The results from this study indicate that tramadol has no effect on quinidine metabolism [see Warnings and Precautions (5.4), Drug Interactions (7)].
+CYP3A4 Inhibitors and Inducers Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John’s Wort, with tramadol hydrochloride extended-release tablets may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.4), Drug Interactions (7)].
+Cimetidine Concomitant administration of tramadol IR tablets with cimetidine, a weak CYP3A4 inhibitor, does not result in clinically significant changes in tramadol pharmacokinetics.
 No alteration of the tramadol hydrochloride extended-release tablets dosage regimen with cimetidine is recommended.
+Carbamazepine Carbamazepine, a CYP3A4 inducer, increases tramadol metabolism.
+Patients taking carbamazepine may have a significantly reduced analgesic effect of tramadol.
+Concomitant administration of tramadol hydrochloride extended-release tablets and carbamazepine is not recommended.

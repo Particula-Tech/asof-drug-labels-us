@@ -1,35 +1,64 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described in greater detail, in other sections:
+
+· Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+
+· Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+
+· Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
+
+· Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.5)]
+
+· Serotonin Syndrome [see Warnings and Precautions (5.6)]
+
+· Seizures [see Warnings and Precautions (5.7)]
+
+· Suicide [see Warnings and Precautions (5.8)]
+
+· Adrenal Insufficiency [see Warnings and Precautions (5.9)]
+
+· Severe Hypotension [see Warnings and Precautions (5.11)]
+
+· Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
+
+· Hypersensitivity Reactions [see Warnings and Precautions (5.14)]
+
+· Withdrawal [see Warnings and Precautions (5.15)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 Tramadol hydrochloride extended-release tablets were administered to a total of 3108 patients during studies conducted in the U.S. These included four double-blind studies in patients with osteoarthritis and/or chronic low back pain and one open-label study in patients with chronic non-malignant pain.
 A total of 901 patients were 65 years or older.
-The frequency of adverse events generally7 increased with doses from 100 mg to 400 mg in the two pooled, twelve-week, randomized, double-blind, placebo-controlled studies in patients with chronic non-malignant pain (see Table 2).
-
-Table 2: Incidence (%) of patients with adverse event rates ≥ 5% from two 12-week placebo-controlled studies in patients with moderate to moderately severe chronic pain by dose (N=1811).
+The frequency of adverse reactions generally increased with doses from 100 mg to 400 mg in the two pooled, twelve-week, randomized, double-blind, placebo-controlled studies in patients with chronic non-malignant pain (see Table 1).
+The most common adverse reactions from Table 1 occurring in ≥10% and ≥2 x placebo rate of the patients treated with tramadol hydrochloride extended-release tablets are dizziness (not vertigo), nausea, constipation, headache, somnolence, flushing, pruritus, vomiting, insomnia, and dry mouth.
+Table 1: Incidence (%) of patients with adverse reaction rates ≥ 5% from two 12-week placebo-controlled studies in patients with moderate to moderately severe chronic pain by dose (N=1811).
 
 | MedDRA Preferred Term | Tramadol Hydrochloride Extended-Release Tablets |  |  |  | Placebo |
 | --- | --- | --- | --- | --- | --- |
 | 100 mg (N=403) n (%) | 200 mg (N=400) n (%) | 300 mg (N=400) n (%) | 400 mg (N=202) n (%) | (N=406) n (%) |  |
-| Dizziness (not vertigo) | 64 (15.9) | 81 (20.3) | 90 (22.5) | 57 (28.2) | 28 (6.9) |
-| Nausea | 61 (15.1) | 90 (22.5) | 102 (25.5) | 53 (26.2) | 32 (7.9) |
-| Constipation | 49 (12.2) | 68 (17) | 85 (21.3) | 60 (29.7) | 17 (4.2) |
-| Headache | 49 (12.2) | 62 (15.5) | 46 (11.5) | 32 (15.8) | 43 (10.6) |
-| Somnolence | 33 (8.2) | 45 (11.3) | 29 (7.3) | 41 (20.3) | 7 (1.7) |
-| Flushing | 31 (7.7) | 40 (10) | 35 (8.8) | 32 (15.8) | 18 (4.4) |
-| Pruritus | 25 (6.2) | 34 (8.5) | 30 (7.5) | 24 (11.9) | 4 (1) |
-| Vomiting | 20 (5) | 29 (7.3) | 34 (8.5) | 19 (9.4) | 11 (2.7) |
-| Insomnia | 26 (6.5) | 32 (8) | 36 (9) | 22 (10.9) | 13 (3.2) |
-| Dry Mouth | 20 (5) | 29 (7.3) | 39 (9.8) | 18 (8.9) | 6 (1.5) |
-| Diarrhea | 15 (3.7) | 27 (6.8) | 37 (8.5) | 10 (5) | 17 (4.2) |
-| Asthenia | 14 (3.5) | 24 (6) | 26 (6.5) | 13 (6.4) | 7 (1.7) |
-| Postural hypotension | 7 (1.7) | 17 (4.3) | 8 (2) | 11 (5.4) | 9 (2.2) |
-| Sweating increased | 6 (1.5) | 8 (2) | 15 (3.8) | 13 (6.4) | 1 (0.2) |
-| Anorexia | 3 (0.7) | 7 (1.8) | 21 (5.3) | 12 (5.9) | 1 (0.2) |
+| Dizziness (not vertigo) | 64 (16) | 81 (20) | 90 (23) | 57 (28) | 28 (7) |
+| Nausea | 61 (15) | 90 (23) | 102 (26) | 53 (26) | 32 (8) |
+| Constipation | 49 (12) | 68 (17) | 85 (21) | 60 (30) | 17 (4) |
+| Headache | 49 (12) | 62 (16) | 46 (12) | 32 (16) | 43 (11) |
+| Somnolence | 33 (8) | 45 (11) | 29 (7) | 41 (20) | 7 (2) |
+| Flushing | 31 (8) | 40 (10) | 35 (9) | 32 (16) | 18 (4) |
+| Pruritus | 25 (6) | 34 (9) | 30 (8) | 24 (12) | 4 (1) |
+| Vomiting | 20 (5) | 29 (7) | 34 (9) | 19 (9) | 11 (3) |
+| Insomnia | 26 (7) | 32 (8) | 36 (9) | 22 (11) | 13 (3) |
+| Dry Mouth | 20 (5) | 29 (7) | 39 (10) | 18 (9) | 6 (2) |
+| Diarrhea | 15 (4) | 27 (7) | 37 (9) | 10 (5) | 17 (4) |
+| Asthenia | 14 (4) | 24 (6) | 26 (7) | 13 (6) | 7 (2) |
+| Postural hypotension | 7 (2) | 17 (4) | 8 (2) | 11 (5) | 9 (2) |
+| Sweating increased | 6 (2) | 8 (2) | 15 (4) | 13 (6) | 1 (0) |
+| Anorexia | 3 (1) | 7 (2) | 21 (5) | 12 (6) | 1 (0) |
 
-The following adverse events were reported from all the chronic pain studies (N=3108).
+Adverse reactions With Incidence Rates of 1.0% to <5.0% During Clinical Trials
 
-The lists below include adverse events not otherwise noted in Table 2.
+The following adverse reactions were reported from all the chronic pain studies (N=3108).
 
-## Adverse events with incidence rates of 1% to <5%
+The lists below include adverse reactions not otherwise noted in Table 1.
 
 Eye disorders: vision blurred
 
@@ -53,9 +82,7 @@ Respiratory, thoracic and mediastinal disorders: sneezing, cough, rhinorrhea, na
 
 Skin and subcutaneous tissue disorders: sweating increased, dermatitis
 
-Vascular disorders: hot flushes, vasodilatation
-
-## Adverse events with incidence rates of 0.5% to <1% and serious adverse events reported in at least 2 patients.
+Vascular disorders: hot flushes, vasodilatation Adverse Reactions With Incidence Rates of 0.5% to <1.0% and Serious Adverse Reactions Reported in at Least 2 patients During Clinical Trials
 
 Cardiac disorders: palpitations, myocardial infarction
 
@@ -83,6 +110,16 @@ Renal and urinary disorders: difficulty in micturition, urinary frequency, hemat
 
 Respiratory, thoracic and mediastinal disorders: yawning
 
-Skin and subcutaneous tissue disorders: contusion, piloerection, clamminess, night sweats, urticaria
+Skin and subcutaneous tissue disorders: contusion, piloerection, clamminess, night sweats, urticaria Vascular disorders: hypertension aggravated, hypertension, peripheral ischemia
 
-Vascular disorders: hypertension aggravated, hypertension, peripheral ischemia
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of tramadol.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in tramadol hydrochloride extended-release tablets.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
