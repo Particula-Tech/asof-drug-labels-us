@@ -4,140 +4,15 @@ Manufactured by:
 
 UNICHEM LABORATORIES LTD.
 
-Pilerne Ind.Estate, Pilerne, Bardez,
-
-Goa 403511 India.
-
-Marketed by:
-
-Rochelle Park, NJ 07662
-
-13004178
-
-R-01-07/2011
-
-PRINCIPAL DISPLAY PANEL – 5 MG
-
-NDC 29300-126-01
-
-Bisoprolol Fumarate Tablets USP
-
-5 mg
-
-Rx Only
-
-100 Tablets
-
-Each tablet contains:
-
-Bisoprolol Fumarate USP………..5 mg
-
-Inactive ingredients include Colloidal Silicon Dioxide, Corn Starch (Pregelatinized), Crospovidone, Dibasic Calcium Phosphate, Hypromellose, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene Glycol, Polysorbate 80, Titanium Dioxide, Red and Yellow Iron Oxide.
-
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
-
-Protect from moisture.
-Dispense in a tight, light-resistant container.
-
-Dosage: For complete directions for use, see accompanying circular.
-
-13004178
-
-R-01-07/2011
-
-Manufactured by:
-
-UNICHEM LABORATORIES LTD.
-
 Pilerne Ind.
 Estate, Pilerne, Bardez,
 
-Goa 403 511, India
+Goa 403 511, India.
 
 Marketed by:
 
-Rochelle Park, NJ 07662.
+Hasbrouck Heights, NJ 07604.
 
-PRINCIPAL DISPLAY PANEL – 10 MG
+02-R-06/2016
 
-NDC 29300-127-13
-
-Bisoprolol Fumarate Tablets USP
-
-10 mg
-
-Rx Only
-
-30 Tablets
-
-Each tablet contains:
-
-Bisoprolol Fumarate USP………..10 mg
-
-Inactive ingredients include Colloidal Silicon Dioxide, Corn Starch (Pregelatinized), Crospovidone, Dibasic Calcium Phosphate, Hypromellose, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene Glycol, Polysorbate 80, Titanium Dioxide.
-
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
-
-Protect from moisture.
-Dispense in a tight, light-resistant container.
-
-Dosage: For complete directions for use, see accompanying circular.
-
-13004178
-
-R-01-07/2011
-
-Manufactured by:
-
-UNICHEM LABORATORIES LTD.
-
-Pilerne Ind.
-Estate, Pilerne, Bardez,
-
-Goa 403 511, India
-
-Marketed by:
-
-Rochelle Park, NJ 07662.
-
-PRINCIPAL DISPLAY PANEL – 10 MG
-
-NDC 29300-127-01
-
-Bisoprolol Fumarate Tablets USP
-
-10 mg
-
-Rx Only
-
-100 Tablets
-
-Each tablet contains:
-
-Bisoprolol Fumarate USP……….10 mg
-
-Inactive ingredients include Colloidal Silicon Dioxide, Corn Starch (Pregelatinized), Crospovidone, Dibasic Calcium Phosphate, Hypromellose, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene Glycol, Polysorbate 80, Titanium Dioxide.
-
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
-
-Protect from moisture.
-Dispense in a tight, light-resistant container.
-
-Dosage: For complete directions for use, see accompanying circular.
-
-13004178
-
-R-01-07/2011
-
-Manufactured by:
-
-UNICHEM LABORATORIES LTD.
-
-Pilerne Ind.
-Estate, Pilerne, Bardez,
-
-Goa 403 511, India
-
-Marketed by:
-
-Rochelle Park, NJ 07662.
+13007902

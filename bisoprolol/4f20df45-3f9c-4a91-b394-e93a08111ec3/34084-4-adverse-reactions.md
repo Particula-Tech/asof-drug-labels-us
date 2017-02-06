@@ -16,7 +16,7 @@ Of the adverse events listed in the table, bradycardia, diarrhea, asthenia, fati
 |  | % | % | % |
 | --- | --- | --- | --- |
 | Body System/Adverse Experience | All AdverseExperiences (% a) Bisoprolol Fumarate |  |  |
-|  | Placebo | 5 to20 mg | 2.5 to 40 mg |
+|  | Placebo | 5 to 20 mg | 2.5 to 40 mg |
 |  | (n=132) | (n=273) | (n=404) |
 | Skin |  |  |  |
 | increased sweating | 1.5 | 0.7 | 1.0 |

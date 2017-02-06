@@ -32,7 +32,7 @@ Because of its relative beta1-selectivity, however, BISOPROLOL FUMARATE may be u
 Since beta1-selectivity is not absolute, the lowest possible dose of BISOPROLOL FUMARATE should be used, with therapy starting at 2.5 mg.
 A beta2 agonist (bronchodilator) should be made available.
 
-## Anesthesia and Major Surgery
+## Major Surgery
 
 Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risk of general anesthesia and surgical procedures.
 
