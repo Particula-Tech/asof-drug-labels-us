@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-Each ESBRIET capsule contains 267 mg of pirfenidone, which belongs to the chemical class of pyridone.
-ESBRIET is available as a white hard gelatin capsule for oral administration.
+ESBRIET belongs to the chemical class of pyridone.
+ESBRIET is available as a white to off-white hard gelatin capsule containing 267 mg of pirfenidone for oral administration, or, as film-coated tablets containing 267 mg (yellow) and 801 mg (brown) pirfenidone.
 
 Pirfenidone has a molecular formula of C12H11NO and a molecular weight of 185.23.
 Pirfenidone has the following structural formula, which has been referred to as 5-methyl-1-phenyl-2-1(H)-pyridone or 5-methyl-1-phenyl-2-(1H)-pyridone.
@@ -14,3 +14,5 @@ ESBRIET capsule contains pirfenidone and the following inactive ingredients: mic
 
 In addition, the capsule shell contains gelatin and titanium dioxide.
 The capsule brown printing ink includes shellac, iron oxide black, iron oxide red, iron oxide yellow, propylene glycol, ammonium hydroxide.
+
+ESBRIET tablets contain pirfenidone and the following inactive ingredients: Microcrystalline cellulose, colloidal anhydrous silica, povidone, croscarmellose sodium, magnesium stearate, polyvinyl alcohol, titanium dioxide, macrogol (polyethylene glycol), talc, and iron oxide.

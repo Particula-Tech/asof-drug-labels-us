@@ -18,10 +18,14 @@ No volunteer had a QTc interval greater than 480 ms or change from baseline grea
 
 Absorption:
 
-After single oral-dose administration of 801 mg ESBRIET, the maximum observed plasma concentration (Cmax) was achieved between 30 minutes and 4 hours (median time of 0.5 hours).
+After single oral-dose administration of 801 mg ESBRIET (three 267 mg capsules), the maximum observed plasma concentration (Cmax) was achieved between 30 minutes and 4 hours (median time of 0.5 hours).
 Food decreased the rate and extent of absorption.
 Median Tmax increased from 0.5 hours to 3 hours with food.
-Maximum plasma concentrations and AUC0-inf decreased by approximately 49% and 16% with food, respectively.
+Maximum plasma concentrations (Cmax) and AUC0-inf decreased by approximately 49% and 16% with food, respectively.
+
+Bioequivalence was demonstrated in the fasted state when comparing the 801 mg tablet to three 267 mg capsules.
+The effect of food on pirfenidone exposure was consistent between the tablet and capsule formulations.
+
 A reduced incidence of adverse reactions was observed in the fed group when compared to the fasted group.
 In controlled studies with IPF patients, ESBRIET was taken with food [see Dosage and Administration (2) and Clinical Studies (14)].
 
@@ -30,7 +34,7 @@ The absolute bioavailability of pirfenidone has not been determined in humans.
 Distribution:
 
 ESBRIET binds to human plasma proteins, primarily to serum albumin, in a concentration-independent manner over the range of concentrations observed in clinical trials.
-The overall mean binding was 58% at concentrations observed in clinical studies (1 to 10 µg/mL).
+The overall mean binding was 58% at concentrations observed in clinical studies (1 to 10 μg/mL).
 Mean apparent oral volume of distribution is approximately 59 to 71 liters.
 
 Metabolism:
@@ -51,11 +55,15 @@ The majority of ESBRIET was excreted as the 5-carboxy metabolite (approximately 
 
 Specific Populations:
 
-Hepatic Impairment The pharmacokinetics of ESBRIET and the 5-carboxy-pirfenidone metabolite were studied in 12 subjects with moderate hepatic impairment (Child Pugh Class B) and in 12 subjects with normal hepatic function.
+Hepatic Impairment
+
+The pharmacokinetics of ESBRIET and the 5-carboxy-pirfenidone metabolite were studied in 12 subjects with moderate hepatic impairment (Child Pugh Class B) and in 12 subjects with normal hepatic function.
 Results showed that the mean exposure, AUC0-inf and Cmax of pirfenidone increased approximately 1.6- and approximately 1.4-fold in subjects with moderate hepatic impairment, respectively.
 The exposure of 5-carboxy-pirfenidone did not change significantly in subjects with moderate hepatic impairment.
 
-Renal Impairment The pharmacokinetics of pirfenidone and the 5-carboxy-pirfenidone metabolite were studied in 18 subjects with mild (CLcr 50 to 80 mL/min), moderate (CLcr 30 to 50 mL/min), and severe (CLcr less than 30 mL/min) renal impairment (n=6/group) and in 6 subjects with normal CLcr (greater than or equal to 80 mL/min) renal function.
+Renal Impairment
+
+The pharmacokinetics of pirfenidone and the 5-carboxy-pirfenidone metabolite were studied in 18 subjects with mild (CLcr 50 to 80 mL/min), moderate (CLcr 30 to 50 mL/min), and severe (CLcr less than 30 mL/min) renal impairment (n=6/group) and in 6 subjects with normal CLcr (greater than or equal to 80 mL/min) renal function.
 Results showed that systemic exposure (AUC0-inf) to pirfenidone increased approximately 1.4, 1.5, and 1.2-fold in subjects with mild, moderate and severe renal impairment, respectively.
 The corresponding AUC0-inf of 5-carboxy-pirfenidone increased 1.7, 3.4, and 5.6-fold, although the change in the patients with mild renal impairment was not statistically significant.
 The renal clearance of 5-carboxy-pirfenidone decreased significantly in patients with moderate to severe renal impairment.
@@ -102,6 +110,6 @@ Effect of pirfenidone upon Pgp substrate pharmacokinetics and safety has not bee
 Inhibitory Effect of Pirfenidone on CYP2C9, 2C19 or 1A2, 2D6, 3A4
 
 The potential for pirfenidone to inhibit CYP2C9, 2C19 or 1A2 was evaluated in vitro at concentrations up to 1000 µM (approximately 10-fold the mean human Cmax).
-Pirfenidone showed a concentration-dependant inhibition on CYP2C9, 2C19 or 1A2, 2D6, and 3A4.
+Pirfenidone showed a concentration-dependent inhibition on CYP2C9, 2C19 or 1A2, 2D6, and 3A4.
 At 1000 µM, pirfenidone inhibits the activity of these enzymes by 30.4%, 27.5%, 34.1%, 21%, and 9.6%, respectively.
 Effect of pirfenidone upon pharmacokinetics and safety of CYP2C9, 2C19, 1A2, 2D6, and 3A4 substrates has not been evaluated in humans.

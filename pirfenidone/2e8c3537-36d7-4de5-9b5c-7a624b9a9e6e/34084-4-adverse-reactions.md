@@ -26,12 +26,12 @@ The most common adverse reactions with an incidence of ≥10% and more frequent 
 Table 2.
 Adverse Reactions Occurring in ≥10% of ESBRIET-Treated Patients and More Commonly Than Placebo in Studies 1, 2, and 3
 
-|  | % of Patients (0 to 118 Weeks) |  |
+| ESBRIET 2403 mg/day (N = 623) | Placebo (N = 624) |  |
 | --- | --- | --- |
-| Adverse Reaction | ESBRIET 2403 mg/day (N = 623) | Placebo (N = 624) |
+| Adverse Reaction | % of Patients (0 to 118 Weeks) |  |
 | Nausea | 36% | 16% |
 | Rash | 30% | 10% |
-| Abdominal Pain1 | 24% | 15% |
+| Abdominal PainIncludes abdominal pain, upper abdominal pain, abdominal distension, and stomach discomfort. | 24% | 15% |
 | Upper Respiratory Tract Infection | 27% | 25% |
 | Diarrhea | 26% | 20% |
 | Fatigue | 26% | 19% |
@@ -45,13 +45,12 @@ Adverse Reactions Occurring in ≥10% of ESBRIET-Treated Patients and More Commo
 | Insomnia | 10% | 7% |
 | Weight Decreased | 10% | 5% |
 | Arthralgia | 10% | 7% |
-| 1 Includes abdominal pain, upper abdominal pain, abdominal distension, and stomach discomfort. |  |  |
 
 Adverse reactions occurring in ≥5 to <10% of ESBRIET-treated patients and more commonly than placebo are photosensitivity reaction (9% vs. 1%), decreased appetite (8% vs. 3%), pruritus (8% vs. 5%), asthenia (6% vs. 4%), dysgeusia (6% vs. 2%), and non-cardiac chest pain (5% vs. 4%).
 
 ## 6.2 Postmarketing Experience
 
-In addition to adverse reactions identified from clinical trials the following adverse reactions have been identified during postapproval use of pirfenidone.
+In addition to adverse reactions identified from clinical trials the following adverse reactions have been identified during post-approval use of pirfenidone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.
 
 Blood and Lymphatic System Disorders Agranulocytosis

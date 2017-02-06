@@ -2,21 +2,36 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C.
+Risk Summary
 
-There are no adequate and well-controlled studies of ESBRIET in pregnant women.
-Pirfenidone was not teratogenic in rats and rabbits.
-Because animal reproduction studies are not always predictive of human response, ESBRIET should be used during pregnancy only if the benefit outweighs the risk to the patient.
+The data with ESBRIET use in pregnant women are insufficient to inform on drug associated risks for major birth defects and miscarriage.
+In animal reproduction studies, pirfenidone was not teratogenic in rats and rabbits at oral doses up to 3 and 2 times, respectively, the maximum recommended daily dose (MRDD) in adults [see Data].
 
-A fertility and embryo-fetal development study with rats and an embryo-fetal development study with rabbits that received oral doses up to 3 and 2 times, respectively, the maximum recommended daily dose (MRDD) in adults (on mg/m2 basis at maternal doses up to 1000 and 300 mg/kg/day, respectively) revealed no evidence of impaired fertility or harm to the fetus due to pirfenidone.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+
+Data
+
+Animal Data
+
+Animal reproductive studies were conducted in rats and rabbits.
+In a combined fertility and embryofetal development study, female rats received pirfenidone at oral doses of 0, 50, 150, 450, and 1000 mg/kg/day from 2 weeks prior to mating, during the mating phase, and throughout the periods of early embryonic development from gestation days (GD) 0 to 5 and organogenesis from GD 6 to 17.
+In an embryofetal development study, pregnant rabbits received pirfenidone at oral doses of 0, 30, 100, and 300 mg/kg/day throughout the period of organogenesis from GD 6 to 18.
+In these studies, pirfenidone at doses up to 3 and 2 times, respectively, the maximum recommended daily dose (MRDD) in adults (on mg/m2 basis at maternal oral doses up to 1000 mg/kg/day in rats and 300 mg/kg/day in rabbits, respectively) revealed no evidence of impaired fertility or harm to the fetus due to pirfenidone.
 In the presence of maternal toxicity, acyclic/irregular cycles (e.g., prolonged estrous cycle) were seen in rats at doses approximately equal to and higher than the MRDD in adults (on a mg/m2 basis at maternal doses of 450 mg/kg/day and higher).
-In a pre- and post-natal development study, prolongation of the gestation period, decreased numbers of live newborn, and reduced pup viability and body weights were seen in rats at an oral dosage approximately 3 times the MRDD in adults (on a mg/m2 basis at a maternal dose of 1000 mg/kg/day).
+In a pre- and post-natal development study, female rats received pirfenidone at oral doses of 0, 100, 300, and 1000 mg/kg/day from GD 7 to lactation day 20.
+Prolongation of the gestation period, decreased numbers of live newborn, and reduced pup viability and body weights were seen in rats at an oral dosage approximately 3 times the MRDD in adults (on a mg/m2 basis at a maternal oral dose of 1000 mg/kg/day).
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-A study with radio-labeled pirfenidone in rats has shown that pirfenidone or its metabolites are excreted in milk.
-It is not known whether ESBRIET is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue ESBRIET, taking into account the importance of the drug to the mother.
+Risk Summary
+
+No information is available on the presence of pirfenidone in human milk, the effects of the drug on the breastfed infant, or the effects of the drug on milk production.
+The lack of clinical data during lactation precludes clear determination of the risk of ESBRIET to an infant during lactation; therefore, the developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ESBRIET and the potential adverse effects on the breastfed child from ESBRIET or from the underlying maternal condition.
+
+Data
+
+Animal Data: A study with radio-labeled pirfenidone in rats has shown that pirfenidone or its metabolites are excreted in milk.
+There are no data on the presence of pirfenidone or its metabolites in human milk, the effects of pirfenidone on the breastfed child, or its effects on milk production.
 
 ## 8.4 Pediatric Use
 
@@ -31,7 +46,7 @@ No dosage adjustment is required based upon age.
 ## 8.6 Hepatic Impairment
 
 ESBRIET should be used with caution in patients with mild (Child Pugh Class A) to moderate (Child Pugh Class B) hepatic impairment.
-Monitor for adverse reactions and consider dosage modification or discontinuation of ESBRIET as needed [see Dosage and Administration (2.2)].
+Monitor for adverse reactions and consider dosage modification or discontinuation of ESBRIET as needed [see Dosage and Administration (2.3)].
 
 The safety, efficacy, and pharmacokinetics of ESBRIET have not been studied in patients with severe hepatic impairment.
 ESBRIET is not recommended for use in patients with severe (Child Pugh Class C) hepatic impairment [see Clinical Pharmacology (12.3)].

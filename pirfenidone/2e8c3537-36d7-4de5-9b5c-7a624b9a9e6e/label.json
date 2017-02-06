@@ -1,17 +1,26 @@
 {
   "application_numbers": [
-    "NDA022535"
+    "NDA022535",
+    "NDA208780"
   ],
   "inn": "pirfenidone",
   "labeler": "Genentech, Inc.",
   "package_ndcs": [
     "50242-121-01",
     "50242-121-02",
-    "50242-121-03"
+    "50242-121-03",
+    "50242-122-03",
+    "50242-122-05",
+    "50242-123-01"
   ],
   "products": [
     {
       "form": "CAPSULE",
+      "generic": "pirfenidone",
+      "name": "Esbriet"
+    },
+    {
+      "form": "TABLET, COATED",
       "generic": "pirfenidone",
       "name": "Esbriet"
     }

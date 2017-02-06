@@ -4,16 +4,22 @@
 
 Pirfenidone is metabolized primarily (70 to 80%) via CYP1A2 with minor contributions from other CYP isoenzymes including CYP2C9, 2C19, 2D6 and 2E1.
 
-Strong CYP1A2 Inhibitors The concomitant administration of ESBRIET and fluvoxamine or other strong CYP1A2 inhibitors (e.g., enoxacin) is not recommended because it significantly increases exposure to ESBRIET [see Clinical Pharmacology (12.3)].
+Strong CYP1A2 Inhibitors
+
+The concomitant administration of ESBRIET and fluvoxamine or other strong CYP1A2 inhibitors (e.g., enoxacin) is not recommended because it significantly increases exposure to ESBRIET [see Clinical Pharmacology (12.3)].
 Use of fluvoxamine or other strong CYP1A2 inhibitors should be discontinued prior to administration of ESBRIET and avoided during ESBRIET treatment.
 In the event that fluvoxamine or other strong CYP1A2 inhibitors are the only drug of choice, dosage reductions are recommended.
 Monitor for adverse reactions and consider discontinuation of ESBRIET as needed [see Dosage and Administration (2.4)].
 
-Moderate CYP1A2 Inhibitors Concomitant administration of ESBRIET and ciprofloxacin (a moderate inhibitor of CYP1A2) moderately increases exposure to ESBRIET [see Clinical Pharmacology (12.3)].
+Moderate CYP1A2 Inhibitors
+
+Concomitant administration of ESBRIET and ciprofloxacin (a moderate inhibitor of CYP1A2) moderately increases exposure to ESBRIET [see Clinical Pharmacology (12.3)].
 If ciprofloxacin at the dosage of 750 mg twice daily cannot be avoided, dosage reductions are recommended [see Dosage and Administration (2.4)].
 Monitor patients closely when ciprofloxacin is used at a dosage of 250 mg or 500 mg once daily.
 
-Concomitant CYP1A2 and other CYP Inhibitors Agents or combinations of agents that are moderate or strong inhibitors of both CYP1A2 and one or more other CYP isoenzymes involved in the metabolism of ESBRIET (i.e., CYP2C9, 2C19, 2D6, and 2E1) should be discontinued prior to and avoided during ESBRIET treatment.
+Concomitant CYP1A2 and other CYP Inhibitors
+
+Agents or combinations of agents that are moderate or strong inhibitors of both CYP1A2 and one or more other CYP isoenzymes involved in the metabolism of ESBRIET (i.e., CYP2C9, 2C19, 2D6, and 2E1) should be discontinued prior to and avoided during ESBRIET treatment.
 
 ## 7.2 CYP1A2 Inducers
 

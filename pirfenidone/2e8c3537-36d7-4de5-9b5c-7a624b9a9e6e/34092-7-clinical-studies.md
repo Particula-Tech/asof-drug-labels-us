@@ -21,7 +21,9 @@ Approximately 93% of patients met criteria for definite IPF on high resolution c
 Baseline mean %FVC and %DLCO were 72% and 46%, respectively.
 Approximately 15% subjects discontinued from each treatment group.
 
-Change from Baseline in Percent Predicted Forced Vital Capacity In Study 1, the primary efficacy analysis for the change in %FVC from baseline to Week 52 demonstrated a statistically significant treatment effect of ESBRIET 2403 mg/day (n=278) compared with placebo (n=277) using a rank ANCOVA with the lowest rank imputation for missing data due to death.
+Change from Baseline in Percent Predicted Forced Vital Capacity
+
+In Study 1, the primary efficacy analysis for the change in %FVC from baseline to Week 52 demonstrated a statistically significant treatment effect of ESBRIET 2403 mg/day (n=278) compared with placebo (n=277) using a rank ANCOVA with the lowest rank imputation for missing data due to death.
 In Study 2, there was a statistically significant difference at Week 72 for the change in %FVC from baseline.
 In Study 3, there was no statistically significant difference at Week 72 for the change in %FVC from baseline.
 
@@ -33,14 +35,18 @@ Figure 1.
 Cumulative Distribution of Patients by Change in Percent Predicted FVC from Baseline to Week 52 (Study 1).
 The Dashed Lines Indicate ≥10% Decline or ≥0% Decline.
 
-Mean Change from Baseline in FVC (mL) In Study 1, a reduction in the mean decline in FVC (in mL) was observed in patients receiving ESBRIET 2403 mg/day (-235 mL) compared to placebo (-428 mL) (mean treatment difference 193 mL) at Week 52 (see Figure 2).
+Mean Change from Baseline in FVC (mL)
+
+In Study 1, a reduction in the mean decline in FVC (in mL) was observed in patients receiving ESBRIET 2403 mg/day (-235 mL) compared to placebo (-428 mL) (mean treatment difference 193 mL) at Week 52 (see Figure 2).
 In Study 2, a reduction in the decline in FVC volume was also observed in patients receiving ESBRIET 2403 mg/day compared with placebo (mean treatment difference 157 mL) at Week 72.
 There was no statistically significant difference in decline in FVC volume seen in Study 3.
 
 Figure 2.
 Mean Change from Baseline in Forced Vital Capacity (Study 1)
 
-Survival Survival was evaluated for ESBRIET compared to placebo in Studies 1, 2, and 3 as an exploratory analysis to support the primary endpoint (FVC).
+Survival
+
+Survival was evaluated for ESBRIET compared to placebo in Studies 1, 2, and 3 as an exploratory analysis to support the primary endpoint (FVC).
 All-cause mortality was assessed over the study duration and available follow-up period, irrespective of cause of death and whether patients continued treatment.
 All-cause mortality did not show a statistically significant difference (see Figure 3).
 

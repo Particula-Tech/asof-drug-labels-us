@@ -3,7 +3,7 @@
 ## 5.1 Elevated Liver Enzymes
 
 Increases in ALT and AST >3 × ULN have been reported in patients treated with ESBRIET.
-Rarely these have been associated with concomitant elevations in bilirubin.
+In some cases these have been associated with concomitant elevations in bilirubin.
 Patients treated with ESBRIET 2403 mg/day in the three Phase 3 trials had a higher incidence of elevations in ALT or AST ≥3 × ULN than placebo patients (3.7% vs. 0.8%, respectively).
 Elevations ≥10 × ULN in ALT or AST occurred in 0.3% of patients in the ESBRIET 2403 mg/day group and in 0.2% of patients in the placebo group.
 Increases in ALT and AST ≥3 × ULN were reversible with dose modification or treatment discontinuation.
