@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA074069"
+  ],
+  "inn": "azathioprine",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "60219-1076-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "azathioprine",
+      "name": "AZATHIOPRINE"
+    }
+  ],
+  "setid": "59f3219f-898f-4d05-a430-c2b3f5255af1",
+  "source": "dailymed"
+}
