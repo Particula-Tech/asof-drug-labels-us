@@ -254,9 +254,7 @@ Alprazolam produced no impairment of fertility in rats at doses up to 5 mg/kg/da
 
 ### Teratogenic Effects
 
-#### Pregnancy Category D
-
-(See WARNINGS section).
+See WARNINGS section.
 
 ### Nonteratogenic Effects
 
