@@ -1,5 +1,7 @@
 # Principal Display Panel
 
+Rx Only
+
 Halobetasol Propionate Cream, 0.05%
 
-Rx Only
+NET WT 15 g

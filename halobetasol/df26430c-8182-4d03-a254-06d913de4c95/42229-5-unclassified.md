@@ -3,17 +3,18 @@ Not for Ophthalmic Use.
 
 Rx Only
 
-MADE IN ISRAEL
+Made in Israel
 
-MANUFACTURED BY PERRIGO, YERUHAM, ISRAEL, 80500
+Manufactured by Perrigo
 
-DISTRIBUTED BY
+Yeruham, Israel
 
-PERRIGO®
+Distributed By Perrigo
 
-ALLEGAN, MI 49010
+Allegan MI 49010
 
-Rev.
-5/07
+www.perrigo.com
 
-: 4C600 RC J2
+Rev 11-15
+
+: 4C600 RC J3
