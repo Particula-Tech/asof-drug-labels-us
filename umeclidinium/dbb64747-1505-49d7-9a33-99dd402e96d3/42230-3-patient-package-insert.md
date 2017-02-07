@@ -260,9 +260,9 @@ Figure F
 
 Figure H
 
-- Step 4.
-  Breathe out slowly and gently.
-  See Figure I.
+1. Step 4.
+   Breathe out slowly and gently.
+   See Figure I.
 
 Figure I
 
