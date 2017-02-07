@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA203367"
+  ],
+  "inn": "pravastatin",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-632-05",
+    "65862-632-90",
+    "65862-632-99",
+    "65862-633-05",
+    "65862-633-90",
+    "65862-633-99",
+    "65862-634-05",
+    "65862-634-90",
+    "65862-634-99",
+    "65862-635-05",
+    "65862-635-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pravastatin sodium",
+      "name": "Pravastatin sodium"
+    }
+  ],
+  "setid": "b06ed801-ddee-4f56-924a-59fcb451eae6",
+  "source": "dailymed"
+}
