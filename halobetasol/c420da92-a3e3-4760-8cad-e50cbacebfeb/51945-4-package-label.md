@@ -1,5 +1,7 @@
 # Principal Display Panel
 
+Rx Only
+
 Halobetasol Propionate Ointment, 0.05%
 
-Rx Only
+NET WT 50 g
