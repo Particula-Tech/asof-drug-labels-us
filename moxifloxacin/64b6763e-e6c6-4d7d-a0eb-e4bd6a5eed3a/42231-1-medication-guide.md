@@ -281,7 +281,7 @@ What are the ingredients in AVELOX?
 - Bayer HealthCare Pharmaceuticals Inc.
 - Whippany NJ, 07981
 
-AVELOX Tablets manufactured in Germany AVELOX Injection manufactured in Germany or AVELOX Injection manufactured in Norway by Fresenius Kabi Norge AS NO-1753 Halden, Norway
+AVELOX Tablets manufactured in Germany AVELOX Injection manufactured in Germany
 
 Rx Only
 
