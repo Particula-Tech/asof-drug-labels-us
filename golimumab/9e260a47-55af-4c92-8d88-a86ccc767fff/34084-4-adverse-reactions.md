@@ -102,13 +102,12 @@ Gastrointestinal disorders: Constipation
 
 ## 6.2 Postmarketing Experience
 
-There is no postmarketing experience available for SIMPONI ARIA.
-The following adverse reactions have been identified during post-approval use of the subcutaneous formulation of golimumab.
+The following adverse reactions have been identified during post-approval use of golimumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to golimumab exposure.
 
 General Disorders and Administration Site Conditions: Infusion-related reactions [see Warnings and Precautions (5.11)]
 
-Neoplasm benign and malignant: Melanoma [see Warnings and Precautions (5.2)]
+Neoplasm benign and malignant: Melanoma, Merkel cell carcinoma [see Warnings and Precautions (5.2)]
 
 Immune system disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.11)], sarcoidosis
 

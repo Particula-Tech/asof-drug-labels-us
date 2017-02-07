@@ -91,8 +91,7 @@ The majority were in adolescent and young adult males.
 Almost all these patients had received treatment with azathioprine (AZA) or 6-mercaptopurine (6–MP) concomitantly with a TNF-blocker at or prior to diagnosis.
 A risk for the development for hepatosplenic T-cell lymphoma in patients treated with TNF-blockers cannot be excluded.
 
-Melanoma has been reported in patients treated with TNF-blocking agents, including SIMPONI ARIA.
-Merkel cell carcinoma has been reported in patients treated with TNF-blocking agents.
+Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF-blocking agents, including SIMPONI ARIA.
 Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
 
 In controlled trials of other TNF-blockers in patients at higher risk for malignancies (e.g., patients with chronic obstructive pulmonary disease [COPD], patients with Wegener's granulomatosis treated with concomitant cyclophosphamide) a greater portion of malignancies occurred in the TNF-blocker group compared to the controlled group.
