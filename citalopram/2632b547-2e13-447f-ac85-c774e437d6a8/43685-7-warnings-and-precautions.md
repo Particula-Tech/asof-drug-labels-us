@@ -69,7 +69,7 @@ It should be noted that citalopram is not approved for use in treating bipolar d
 
 ## Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including citalopram, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, trytophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including citalopram, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
 The concomitant use of citalopram with MAOIs intended to treat psychiatric disorders is contraindicated.
@@ -78,9 +78,9 @@ All reports with methylene blue that provided information on the route of admini
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking citalopram.
 Citalopram should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
-If concomitant use of citalopram with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, trytophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome particularly during treatment initiation and dose increases.
+If concomitant use of citalopram with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome particularly during treatment initiation and dose increases.
 Treatment with citalopram and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
-Angle-Closure Glaucoma The pupillary dilation that occurs following use of many antidepressant drugs including citalopram may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Angle Closure Glaucoma The pupillary dilation that occurs following use of many antidepressant drugs including citalopram may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 # PRECAUTIONS
 
@@ -185,7 +185,9 @@ Epidemiological studies of the case-control and cohort design that have demonstr
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
 Patients receiving warfarin therapy should be carefully monitored when citalopram is initiated or discontinued.
 Cimetidine - In subjects who had received 21 days of 40 mg/day citalopram, combined administration of 400 mg twice a day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
-Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant cimetidine because of the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION).
+Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant cimetidine because of the risk of QT prolongation (see WARNINGS and
+
+DOSAGE AND ADMINISTRATION).
 Digoxin – In subjects who had received 21 days of 40 mg/day citalopram, combined administration of citalopram tablets and digoxin (single dose of 1 mg) did not significantly affect the pharmacokinetics of either citalopram or digoxin.
 Lithium - Coadministration of citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.
 Nevertheless, plasma lithium levels should be monitored with appropriate adjustment to the lithium dose in accordance with standard clinical practice.
@@ -203,7 +205,9 @@ Carbamazepine - Combined administration of citalopram (40 mg/day for 14 days) an
 Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of citalopram should be considered if the two drugs are coadministered.
 Triazolam - Combined administration of citalopram (titrated to 40 mg/day for 28 days) and the CYP3A4 substrate triazolam (single dose of 0.25 mg) did not significantly affect the pharmacokinetics of either citalopram or triazolam.
 Ketoconazole - Combined administration of citalopram (40 mg) and ketoconazole (200 mg) decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
-CYP2C19 Inhibitors - Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see WARNINGS, DOSAGE AND ADMINISTRATION, and CLINICAL PHARMACOLOGY).
+CYP2C19 Inhibitors - Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see WARNINGS, DOSAGE AND ADMINISTRATION, and
+
+CLINICAL PHARMACOLOGY).
 Metoprolol - Administration of 40 mg/day citalopram for 22 days resulted in a two-fold increase in the plasma levels of the beta-adrenergic blocker metoprolol.
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
 Coadministration of citalopram and metoprolol had no clinically significant effects on blood pressure or heart rate.
@@ -289,6 +293,6 @@ Consequently, regular monitoring of weight and growth should be performed in chi
 Of 4422 patients in clinical studies of citalopram, 1357 were 60 and over, 1034 were 65 and over, and 457 were 75 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Most elderly patients treated with citalopram in clinical trials received daily doses between 20 mg and 40 mg (see DOSAGE AND ADMINISTRATION).
-SSRIs and SNRIs, including citalopram, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).
+SSRIs and SNRIs, including citalopram, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (seePRECAUTIONS, Hyponatremia).
 In two pharmacokinetic studies, citalopram AUC was increased by 23% and 30%, respectively, in subjects ≥ 60 years of age as compared to younger subjects, and its half-life was increased by 30% and 50%, respectively (see CLINICAL PHARMACOLOGY).
 20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION).
