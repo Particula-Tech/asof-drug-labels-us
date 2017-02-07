@@ -113,8 +113,7 @@ All patients with ulcerative colitis who are at increased risk for dysplasia or 
 This evaluation should include colonoscopy and biopsies per local recommendations.
 In patients with newly diagnosed dysplasia treated with SIMPONI, the risks and benefits to the individual patient must be carefully reviewed and consideration should be given to whether therapy should be continued.
 
-Melanoma has been reported in patients treated with TNF-blocking agents, including SIMPONI.
-Merkel cell carcinoma has been reported in patients treated with TNF-blocking agents.
+Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF-blocking agents, including SIMPONI.
 Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
 
 In controlled trials of other TNF blockers in patients at higher risk for malignancies (e.g., patients with chronic obstructive pulmonary disease [COPD], patients with Wegener's granulomatosis treated with concomitant cyclophosphamide) a greater portion of malignancies occurred in the TNF-blocker group compared to the controlled group.

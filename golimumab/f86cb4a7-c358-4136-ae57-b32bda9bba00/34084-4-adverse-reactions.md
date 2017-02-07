@@ -123,12 +123,12 @@ In the Phase 2/3 trials in UC evaluating 1233 SIMPONI-treated patients, no new a
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of SIMPONI.
+The following adverse reactions have been identified during post-approval use of golimumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to SIMPONI exposure.
 
 Immune system disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.11)], sarcoidosis
 
-Neoplasms benign, malignant and unspecified: Melanoma [see Warnings and Precautions (5.2)]
+Neoplasms benign, malignant and unspecified: Melanoma, Merkel cell carcinoma [see Warnings and Precautions (5.2)]
 
 Respiratory, thoracic and mediastinal disorders: Interstitial lung disease
 
