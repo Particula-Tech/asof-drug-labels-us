@@ -83,4 +83,4 @@ Monitor LDL-C and treat if appropriate after initiating INVOKANA.
 
 ## 5.11 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with INVOKANA or any other antidiabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with INVOKANA [see Adverse Reactions (6.1)].

@@ -66,7 +66,7 @@ Percentages were weighted by studies.
 Study weights were proportional to the harmonic mean of the three treatment sample sizes.
 In this pool, INVOKANA was also associated with the adverse reactions of fatigue (1.8% with comparator, 2.2% with INVOKANA 100 mg, and 2.0% with INVOKANA 300 mg) and loss of strength or energy (i.e., asthenia) (0.6% with comparator, 0.7% with INVOKANA 100 mg, and 1.1% with INVOKANA 300 mg).
 
-In the pool of eight clinical trials, the incidence rate of pancreatitis (acute or chronic) was 0.1, 0.2, and 0.1 receiving comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
+In the pool of eight clinical trials, the incidence rate of pancreatitis (acute or chronic) was 0.1%, 0.2%, and 0.1% receiving comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 
 In the pool of eight clinical trials, hypersensitivity-related adverse reactions (including erythema, rash, pruritus, urticaria, and angioedema) occurred in 3.0%, 3.8%, and 4.2% of patients receiving comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 Five patients experienced serious adverse reactions of hypersensitivity with INVOKANA, which included 4 patients with urticaria and 1 patient with a diffuse rash and urticaria occurring within hours of exposure to INVOKANA.
