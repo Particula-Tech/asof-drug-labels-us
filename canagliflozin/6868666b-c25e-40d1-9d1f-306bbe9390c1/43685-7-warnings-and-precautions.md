@@ -149,4 +149,4 @@ Monitor LDL-C and treat if appropriate after initiating INVOKAMET.
 
 ## 5.13 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with INVOKAMET or any other antidiabetic drug [see Adverse Reactions (6.1)].
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with INVOKAMET [see Adverse Reactions (6.1)].

@@ -4,4 +4,4 @@ Finished product manufactured by: Janssen Ortho, LLC Gurabo, PR 00778
 
 Licensed from Mitsubishi Tanabe Pharma Corporation
 
-© 2014 Janssen Pharmaceuticals, Inc.
+© 2014 Janssen Pharmaceutical Companies
