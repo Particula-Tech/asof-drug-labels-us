@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA076143"
+  ],
+  "inn": "bupropion",
+  "labeler": "BluePoint Laboratories",
+  "package_ndcs": [
+    "68001-308-00",
+    "68001-309-00"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "bupropion hydrochloride",
+      "name": "Bupropion Hydrochloride"
+    }
+  ],
+  "setid": "7d035056-44ab-444d-9d27-125b3f571140",
+  "source": "dailymed"
+}

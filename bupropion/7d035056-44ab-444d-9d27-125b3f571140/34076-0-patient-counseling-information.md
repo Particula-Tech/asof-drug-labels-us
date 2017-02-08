@@ -1,0 +1,98 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with bupropion hydrochloride tablets and counsel them in its appropriate use.
+
+A patient Medication Guide about "Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions," "Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions," and "What Other Important Information Should I Know About Bupropion Hydrochloride Tablets?" is available for bupropion hydrochloride tablets.
+Instruct patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
+Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
+The complete text of the Medication Guide is reprinted at the end of this document.
+
+Advise patients regarding the following issues and to alert their prescriber if these occur while taking bupropion hydrochloride tablets.
+
+Suicidal Thoughts and Behaviors
+
+Instruct patients, their families, and/or their caregivers to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
+Advise families and caregivers of patients to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
+Such symptoms should be reported to the patient’s prescriber or healthcare professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
+
+Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
+
+Although bupropion hydrochloride tablets are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
+Advise patients, families and caregivers that quitting smoking, with or without ZYBAN, may trigger nicotine withdrawal symptoms (e.g., including depression or agitation), or worsen pre-existing psychiatric illness.
+Some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking ZYBAN.
+If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
+
+Severe Allergic Reactions
+
+Educate patients on the symptoms of hypersensitivity and to discontinue bupropion hydrochloride tablets if they have a severe allergic reaction.
+
+Seizure
+
+Instruct patients to discontinue and not restart bupropion hydrochloride tablets if they experience a seizure while on treatment.
+Advise patients that the excessive use or abrupt discontinuation of alcohol, benzodiazepines, antiepileptic drugs, or sedatives/hypnotics can increase the risk of seizure.
+Advise patients to minimize or avoid use of alcohol.
+
+Angle-Closure Glaucoma
+
+Patients should be advised that taking bupropion hydrochloride tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle- closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle- closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.7)].
+
+Bupropion-Containing Products
+
+Educate patients that bupropion hydrochloride tablets contains the same active ingredient (bupropion hydrochloride) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride tablets should not be used in combination with ZYBAN or any other medications that contain bupropion (such as WELLBUTRIN SR®, the sustained-release formulation and WELLBUTRIN XL® or FORFIVO XL®, the extended-release formulations, and APLENZIN®, the extended-release formulation of bupropion hydrobromide).
+In addition, there are a number of generic bupropion HCl products for the immediate-, sustained-, and extended-release formulations.
+
+Potential for Cognitive and Motor Impairment
+
+Advise patients that any CNS-active drug like bupropion hydrochloride tablets may impair their ability to perform tasks requiring judgment or motor and cognitive skills.
+Advise patients that until they are reasonably certain that bupropion hydrochloride tablets do not adversely affect their performance, they should refrain from driving an automobile or operating complex, hazardous machinery.
+Bupropion hydrochloride tablets may lead to decreased alcohol tolerance.
+
+Concomitant Medications
+
+Counsel patients to notify their healthcare provider if they are taking or plan to take any prescription or over-the-counter drugs because bupropion hydrochloride tablets and other drugs may affect each others’ metabolisms.
+
+Pregnancy
+
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
+
+Precautions for Nursing Mothers
+
+Advise patients that bupropion hydrochloride is present in human milk in small amounts.
+
+Storage Information
+
+Instruct patients to store bupropion hydrochloride tablets at room temperature, between 59°F and 86°F (15°C to 30°C) and keep the tablets dry and out of the light.
+
+Administration Information
+
+Instruct patients to take bupropion hydrochloride tablets in equally divided doses 3 or 4 times a day, with doses separated by at least 6 hours to minimize the risk of seizure.
+Instruct patients if they miss a dose, not to take an extra tablet to make up for the missed dose and to take the next tablet at the regular time because of the dose-related risk of seizure.
+Instruct patients that bupropion hydrochloride tablets should be swallowed whole and not crushed, divided, or chewed.
+Bupropion hydrochloride tablets can be taken with or without food.
+
+ZYBAN® is a registered trademark of GlaxoSmithKline.
+
+WELLBUTRIN SR® is a registered trademark of GlaxoSmithKline.
+
+WELLBUTRIN XL® is a registered trademark of GlaxoSmithKline.
+
+FORFIVO XL® is a registered trademark of Edgemont Pharms LLC
+
+APLENZIN® is a registered trademark of Sanofi Aventis U.S. LLC BUPROPION HYDROCHLORIDE TABLETS, USP 75 mg and 100 mg
+
+| Manufactured by |  |
+| --- | --- |
+| Apotex Inc. |  |
+| Toronto, Ontario |  |
+| Canada M9L 1T9For BluePoint Laboratories |  |
+
+Revised: November 2016
+
+Rev.
+13a
