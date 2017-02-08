@@ -51,10 +51,10 @@ Symptoms may include:
 
 - greatly increased energy
 - severe trouble sleeping
-- excessive happiness
+- excessive happiness or irritability
 - racing thoughts
 - reckless behavior
-- talking more or faster
+- talking more or faster than usual
 - unusually grand ideas
 
 5.
@@ -77,7 +77,7 @@ Symptoms may include:
 
 - Headache
 - weakness or feeling unsteady
-- confusion, problems concentrating or thinking, or me
+- confusion, problems concentrating or thinking, or memory problems
 
 Do not stop sertraline hydrochloride oral solution without first talking to your healthcare provider.
 Stopping sertraline hydrochloride oral solution too quickly may cause serious symptoms including:
@@ -88,7 +88,7 @@ Stopping sertraline hydrochloride oral solution too quickly may cause serious sy
 
 What is Sertraline Hydrochloride Oral Solution?
 
-Sertraline hydrochloride oral solution is a prescription medicine used to:
+Sertraline hydrochloride oral solution is a prescription medicine used to treat:
 
 - Major Depressive Disorder (MDD)
 - Obsessive Compulsive Disorder (OCD)
@@ -239,4 +239,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: January 2017
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 02/2017
