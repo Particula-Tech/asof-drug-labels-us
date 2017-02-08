@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Ondansetron is a selective 5-HT3 receptor antagonist.
-While ondansetron’s mechanism of action has not been fully characterized, it is not a dopamine-receptor antagonist.
+While ondansetron's mechanism of action has not been fully characterized, it is not a dopamine-receptor antagonist.
 
 ## 12.2 Pharmacodynamics
 
