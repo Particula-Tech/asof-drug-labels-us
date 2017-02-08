@@ -1,14 +1,29 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Topical corticosteroids share anti-inflammatory, anti-pruritic and vasoconstrictive actions.
-The mechanism of anti-inflammatory activity of the topical corticosteroids is unclear.
-However, corticosteroids are thought to act by the induction of phospholipase A2 inhibitory proteins, collectively called lipocortins.
-It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and leukotrienes by inhibiting the release of their common precursor arachidonic acid.
-Arachidonic acid is released from membrane phospholipids by phospholipase A2.
+## 12.1 Mechanism of Action
 
-Pharmacokinetics: The extent of percutaneous absorption of topical corticosteroids is determined by many factors, including the vehicle and the integrity of the epidermal barrier.
+Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action in corticosteroid responsive dermatoses is unknown
+
+## 12.2 Pharmacodynamics
+
+Vasoconstrictor Assay
+
+Studies performed with PANDEL indicate that it is in the medium range of potency as demonstrated in vasoconstrictor trials in healthy subjects when compared with other topical corticosteroids.
+However, similar blanching scores do not necessarily imply therapeutic equivalence.
+
+Hypothalamic-Pituitary-Adrenal (HPA) Axis Suppression
+
+In an open label HPA axis suppression trial, 19 adult subjects (ages 23 to 82 years) with atopic dermatitis or plaque psoriasis covering greater than 20% Body Surface Area (BSA) were treated with PANDEL twice daily for 21 days and were assessed for HPA axis suppression.
+At baseline, the mean disease BSA involvement was 36%.
+The criterion for HPA axis suppression was a serum cortisol level of less than or equal to 18 micrograms per deciliter at 30-minutes after cosyntropin stimulation.
+Of these subjects, 15 were considered evaluable with respect to their adrenal axis function post-treatment.
+One of the evaluable subjects (6.7%) showed laboratory evidence of suppression on Day 22.
+This subject had psoriasis covering 48% of BSA at baseline and was reported to have received 98% of the twice-daily applications of PANDEL over the 21 day treatment period.
+It is not known if this subject had recovery of adrenal function because follow-up testing was not performed.
+
+## 12.3 Pharmacokinetics
+
+The extent of percutaneous absorption of topical corticosteroids is determined by many factors, including the vehicle and the integrity of the epidermal barrier.
 Use of occlusive dressings with hydrocortisone for up to 24 hours has not been shown to increase penetration; however, occlusion of hydrocortisone for 96 hours does markedly enhance penetration.
 Topical corticosteroids can be absorbed from normal intact skin.
 Inflammation and/or other disease processes in the skin increase percutaneous absorption.
-
-Studies performed with Pandel® (hydrocortisone probutate) Cream, 0.1% indicate that it is in the medium range of potency compared with other topical corticosteroids.

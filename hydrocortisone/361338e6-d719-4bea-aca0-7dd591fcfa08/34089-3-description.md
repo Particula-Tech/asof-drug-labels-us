@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Pandel® Cream contains hydrocortisone probutate, a synthetic adrenocorticosteroid, for dermatologic use.
+PANDEL(hydrocortisone probutate) Cream, 0.1% contains hydrocortisone probutate, a synthetic corticosteroid.
 The topical corticosteroids constitute a class of primarily synthetic steroids used as anti-inflammatory and anti-pruritic agents.
 
 Hydrocortisone probutate is a tasteless and odorless white crystalline powder practically insoluble in hexane or water, slightly soluble in ether, and very soluble in dichloromethane, methanol and acetone.
@@ -11,4 +11,4 @@ Molecular Formula: C28H40O7
 
 Molecular Weight: 488.62
 
-Each gram of Pandel® (hydrocortisone probutate) Cream, 0.1% contains: 1 mg of hydrocortisone probutate in a cream base of propylene glycol, white petrolatum, light mineral oil, stearyl alcohol, polysorbate 60, sorbitan monostearate, glyceryl monostearate, PEG-20 stearate, glyceryl stearate SE, methylparaben, butylparaben, citric acid, sodium citrate anhydrous, and purified water.
+Each gram of PANDEL (hydrocortisone probutate) Cream, 0.1% contains: 1 mg of hydrocortisone probutate in a cream base of propylene glycol, white petrolatum, light mineral oil, stearyl alcohol, polysorbate 60, sorbitan monostearate, glyceryl monostearate, PEG-20 stearate, glyceryl stearate SE, methylparaben, butylparaben, citric acid, sodium citrate anhydrous, and purified water.
