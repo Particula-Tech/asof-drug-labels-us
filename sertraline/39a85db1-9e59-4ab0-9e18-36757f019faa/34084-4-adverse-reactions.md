@@ -19,8 +19,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The data described below are from randomized, double-blind, placebo-controlled trials of sertraline hydrochloride (mostly 50 mg to 200 mg per day) in 3066 adults diagnosed with MDD, OCD, PD, PTSD, SAD, and PMDD.
 These 3066 patients exposed to sertraline hydrochloride for 8 to12 weeks represent 568 patient-years of exposure.
 The mean age was 40 years; 57% were females and 43% were males.
-The most common adverse reactions (>5% and twice placebo) in all pooled placebo-controlled clinical trials of all sertraline hydrochloride-treated patients with MDD, OCD, PD, PTSD, SAD and PMDD were nausea, diarrhea/loose stool, tremor, dyspepsia, decreased appetite, hyperhidrosis, ejaculation failure, and decreased libido (see Table 3).
-The following are the most common adverse reactions in trials of sertraline hydrochloride (>5% and twice placebo) by indication that were not mentioned previously.
+The most common adverse reactions (≥5% and twice placebo) in all pooled placebo-controlled clinical trials of all sertraline hydrochloride-treated patients with MDD, OCD, PD, PTSD, SAD and PMDD were nausea, diarrhea/loose stool, tremor, dyspepsia, decreased appetite, hyperhidrosis, ejaculation failure, and decreased libido (see Table 3).
+The following are the most common adverse reactions in trials of sertraline hydrochloride (≥5% and twice placebo) by indication that were not mentioned previously.
 
 - MDD: somnolence;
 - OCD: insomnia, agitation;

@@ -20,7 +20,7 @@ The efficacy of sertraline hydrochloride as a treatment for MDD was established 
 Overall, these studies demonstrated sertraline hydrochloride to be superior to placebo on the Hamilton Rating Scale for Depression (HAMD-17) and the Clinical Global Impression Severity (CGI-S) of Illness and Global Improvement (CGI-I) scores.
 Study MDD-2 was not readily interpretable regarding a dose response relationship for effectiveness.
 A third study (Study MDD-3) involved adult outpatients meeting the DSM-III criteria for MDD who had responded by the end of an initial 8-week open treatment phase on sertraline hydrochloride 50 to 200 mg/day.
-These patients (n=295) were randomized to continuation on double-blind sertraline hydrochloride T 50-200 mg/day or placebo for 44 weeks.
+These patients (n=295) were randomized to continuation on double-blind sertraline hydrochloride 50 to 200 mg/day or placebo for 44 weeks.
 A statistically significantly lower relapse rate was observed for patients taking sertraline hydrochloride compared to those on placebo: sertraline hydrochloride [n=11 (8%)] and placebo [n=31 (39%)].
 The mean sertraline hydrochloride dose for completers was 70 mg/day.
 Analyses for gender effects on outcome did not suggest any differential responsiveness on the basis of sex.
@@ -70,7 +70,7 @@ The effectiveness of sertraline hydrochloride in the treatment of PD was demonst
 - Studies PD-1 and PD-2 were 10-week flexible dose studies of sertraline hydrochloride (N=80 study PD-1 and N=88 study PD-2) compared to placebo (N=176 study PD-1 and PD-2).
   In both studies, sertraline hydrochloride was initiated at 25 mg/day for the first week, then titrated in weekly increments of 50 mg per day to a maximum dose of 200 mg/day on the basis of clinical response and toleration.
   The mean sertraline hydrochloride doses for completers to 10 weeks were 131 mg/day and 144 mg/day, respectively, for Studies PD-1 and PD-2.
-  In these studies, sertraline hydrochloride was shown to be statistically significantly more effective than placebo on change from baseline in panic attack frequency and on the Clinical Global Impression Severity (CGI-S) of Illness and Global Improvement (CGI­I) scores.
+  In these studies, sertraline hydrochloride was shown to be statistically significantly more effective than placebo on change from baseline in panic attack frequency and on the Clinical Global Impression Severity (CGI-S) of Illness and Global Improvement (CGI-­I) scores.
   The difference between sertraline hydrochloride and placebo in reduction from baseline in the number of full panic attacks was approximately 2 panic attacks per week in both studies.
 - Study PD-3 was a 12-week randomized, double-blind fixed-dose study, including sertraline hydrochloride doses of 50, 100, and 200 mg/day.
   Patients receiving sertraline hydrochloride (50 mg N=43, 100 mg N=44, 200 mg N=45) experienced a statistically significantly greater reduction in panic attack frequency than patients receiving placebo (N=45).
@@ -114,7 +114,7 @@ This pattern was demonstrated in male and female subjects.
 
 ## 14.5 Social Anxiety Disorder
 
-The effectiveness of sertraline hydrochloride in the treatment of SAD (also known as social phobia) was established in two multicenter, randomized, placebo-controlled studies (Study SAD-1 and SAD-2) of adult outpatients who met DSM­IV criteria for SAD.
+The effectiveness of sertraline hydrochloride in the treatment of SAD (also known as social phobia) was established in two multicenter, randomized, placebo-controlled studies (Study SAD-1 and SAD-2) of adult outpatients who met DSM-­IV criteria for SAD.
 Study SAD-1 was a 12-week, flexible dose study comparing sertraline hydrochloride (50 to 200 mg/day), n=211, to placebo, n=204, in which sertraline hydrochloride was initiated at 25 mg/day for the first week, then titrated to the maximum tolerated dose in 50 mg increments biweekly.
 Study outcomes were assessed by the:
 

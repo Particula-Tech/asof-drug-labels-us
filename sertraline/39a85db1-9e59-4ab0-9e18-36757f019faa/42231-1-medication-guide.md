@@ -50,8 +50,8 @@ Symptoms may include:
 - unusually grand ideas
 - severe trouble sleeping
 - reckless behavior
-- excessive happiness
-- talking more or faster
+- excessive happiness or irritability
+- talking more or faster than usual
 
 5.
 Seizures or convulsions.
@@ -74,7 +74,7 @@ Symptoms may include:
 
 - Headache
 - weakness or feeling unsteady
-- confusion, problems concentrating or thinking, or me
+- confusion, problems concentrating or thinking, or memory problems
 
 Do not stop sertraline hydrochloride tablets without first talking to your healthcare provider.
 Stopping sertraline hydrochloride tablets too quickly may cause serious symptoms including:
@@ -84,7 +84,7 @@ Stopping sertraline hydrochloride tablets too quickly may cause serious symptoms
 - electric shock-like sensations, shaking, confusion
 
 What are sertraline hydrochloride tablets?
-Sertraline hydrochloride tablets are a prescription medicine used to:
+Sertraline hydrochloride tablets are a prescription medicine used to treat:
 
 - Major Depressive Disorder (MDD)
 - Panic Disorder
@@ -209,4 +209,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 01/2017
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 02/2017
