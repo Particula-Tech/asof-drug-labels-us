@@ -15,7 +15,7 @@ Clinical Worsening and Suicide Risk Patients, their families, and their caregive
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Warnings and Precautions (5.1)].
-Serotonin Syndrome Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram tablets with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol tryptophan, buspirone and St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
+Serotonin Syndrome Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram tablets with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol tryptophan, buspirone, amphetamines and St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
 Abnormal Bleeding Patients should be cautioned about the concomitant use of escitalopram and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.7)].
 Angle Closure Glaucoma Patients should be advised that taking escitalopram tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
@@ -36,7 +36,7 @@ When remedial measures alone are insufficient, the decision to prescribe antidep
 
 ## 17.2 FDA-Approved Medication Guide
 
-Medication Guide ESCITALOPRAM TABLETS, USP (es'' sye tal' oh pram) Read the Medication Guide that comes with escitalopram tablets before you start taking it and each time you get a refill.
+Medication Guide ESCITALOPRAM TABLETS (es'' sye tal' oh pram) Read the Medication Guide that comes with escitalopram tablets before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
@@ -76,7 +76,7 @@ People who take Escitalopram Tablets close in time to an MAOI may have serious o
 Get medical help right away if you have any of these symptoms: • high fever • uncontrolled muscle spasms • stiff muscles • rapid changes in heart rate or blood pressure • confusion • loss of consciousness (pass out) • take the antipsychotic medicine pimozide (Orap®) because taking this drug with Escitalopram Tablets can cause serious heart problems.
 What should I tell my healthcare provider before taking Escitalopram Tablets?
 Ask if you are not sure.
-Before starting escitalopram tablets, tell your healthcare provider if you: • Are taking certain drugs such as: o Triptans used to treat migraine headache o Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, or antipsychotics o tramadol o Over-the-counter supplements such as tryptophan or St. John's Wort • have liver problems • have kidney problems • have heart problems • have or had seizures or convulsions • have bipolar disorder or mania • have low sodium levels in your blood • have a history of a stroke • have high blood pressure • have or had bleeding problems • are pregnant or plan to become pregnant.
+Before starting escitalopram tablets, tell your healthcare provider if you: • Are taking certain drugs such as: o Triptans used to treat migraine headache o Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines or antipsychotics o Tramadol o Over-the-counter supplements such as tryptophan or St. John's Wort • have liver problems • have kidney problems • have heart problems • have or had seizures or convulsions • have bipolar disorder or mania • have low sodium levels in your blood • have a history of a stroke • have high blood pressure • have or had bleeding problems • are pregnant or plan to become pregnant.
 It is not known if escitalopram tablets will harm your unborn baby.
 Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy • are breast-feeding or plan to breast-feed.
 Some escitalopram tablets may pass into your breast milk.
@@ -106,8 +106,7 @@ These are not all the possible side effects of escitalopram tablets.
 For more information, ask your healthcare provider or pharmacist.
 CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
 YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
-How should I store Escitalopram Tablets? • Store Escitalopram Tablets at 20 - 25°C (68 - 77°F); excursions permitted to 15 - 30°C (59-86°F).
-[See USP Controlled Room Temperature.] • Keep Escitalopram Tablets bottle closed tightly.
+How should I store Escitalopram Tablets? • Store escitalopram tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F). • Keep Escitalopram Tablets bottle closed tightly.
 Keep Escitalopram Tablets and all medicines out of the reach of children.
 General information about Escitalopram Tablets Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use escitalopram tablets for a condition for which it was not prescribed.
@@ -132,5 +131,5 @@ Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
 
-Revised January 2015 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-PM01421104
+Revised January 2017 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+PM01421105

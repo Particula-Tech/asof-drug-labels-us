@@ -150,9 +150,7 @@ In addition, a comparison of supine and standing vital sign measures in subjects
 Weight Changes Patients treated with escitalopram in controlled trials did not differ from placebo-treated patients with regard to clinically important change in body weight.
 Laboratory Changes Escitalopram and placebo groups were compared with respect to (1) mean change from baseline in various serum chemistry, hematology, and urinalysis variables, and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
 These analyses revealed no clinically important changes in laboratory test parameters associated with escitalopram treatment.
-ECG Changes
-
-Electrocardiograms from escitalopram (N=625) and placebo (N=527) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
+ECG Changes Electrocardiograms from escitalopram (N=625) and placebo (N=527) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
 None of the patients in the escitalopram group had a QTcF interval >500 msec or a prolongation >60 msec compared to 0.2% of patients in the placebo group.
 The incidence of tachycardic outliers was 0.2% in the escitalopram and the placebo group.
 The incidence of bradycardic outliers was 0.5% in the escitalopram group and 0.2% in the placebo group.
