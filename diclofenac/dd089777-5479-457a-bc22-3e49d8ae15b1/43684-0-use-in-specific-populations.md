@@ -11,7 +11,11 @@ Avoid use of NSAIDs, including DYLOJECT, in pregnant women starting at 30 weeks 
 
 There are no adequate and well-controlled studies of DYLOJECT in pregnant women.
 Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2-4% for major malformations, and 15-20% for pregnancy loss.
+In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2–4% for major malformations, and 15–20% for pregnancy loss.
+
+If used during second or third trimester of pregnancy, NSAIDs may cause fetal renal dysfunction which may result in reduction of amniotic fluid volume or oligohydramnios in severe cases.
+Such effects may occur shortly after treatment initiation and are usually reversible.
+Pregnant women on DYLOJECT should be closely monitored for amniotic fluid volume.
 
 In animal reproduction studies, no evidence of teratogenicity was observed in mice, rats, and rabbits given diclofenac during the period of organogenesis at doses up to approximately 0.7, 0.7, and 1.3 times, respectively, the maximum recommended human dose (MRHD) of DYLOJECT despite the presence of maternal and fetal toxicity at these doses [see Data].
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
@@ -37,7 +41,7 @@ Diclofenac has been shown to cross the placental barrier in mice, rats, and huma
 Risk Summary
 
 Based on available data, diclofenac may be present in human milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for DYLOJECT and any potential adverse effects on the breastfed infant from the DYLOJECT or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for DYLOJECT and any potential adverse effects on the breastfed infant from the DYLOJECT or from the underlying maternal condition.
 
 Data
 

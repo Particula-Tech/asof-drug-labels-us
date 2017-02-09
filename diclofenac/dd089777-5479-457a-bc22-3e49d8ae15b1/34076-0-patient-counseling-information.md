@@ -13,7 +13,7 @@ In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, i
 
 Hepatotoxicity
 
-Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
 If these occur instruct patients to stop DYLOJECT and seek immediate medical therapy [see Warnings and Precautions (5.3)].
 
 Heart Failure and Edema
@@ -40,14 +40,8 @@ Inform pregnant women to avoid use of DYLOJECT and other NSAIDs starting at 30 w
 Avoid Concomitant Use of NSAIDs
 
 Inform patients that the concomitant use of DYLOJECT with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
-Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
+Alert patients that NSAIDs may be present in "over the counter" medications for treatment of colds, fever, or insomnia.
 
 Use of NSAIDS and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with DYLOJECT until they talk to their healthcare provider [see Drug Interactions (7)].
-
-EN-4307
-
-Manufactured for:
-
-Hospira, Inc., Lake Forest, IL 60045 USA

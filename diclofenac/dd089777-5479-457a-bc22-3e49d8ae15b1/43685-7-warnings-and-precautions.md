@@ -19,7 +19,7 @@ The concurrent use of aspirin and an NSAID, such as diclofenac, increases the ri
 
 Status Post Coronary Artery Bypass Graft (CABG) Surgery
 
-Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10–14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
 NSAIDs are contraindicated in the setting of CABG [see Contraindications (4)].
 
 Post-MI Patients
@@ -36,7 +36,7 @@ If DYLOJECT is used in patients with a recent MI, monitor patients for signs of 
 NSAIDs, including diclofenac, cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic.
-Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3-6 months and in about 2%-4% of patients treated for one year.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3–6 months and in about 2%–4% of patients treated for one year.
 DYLOJECT is administered by intravenous injection and is intended for acute short term use.
 However, even short-term NSAID therapy is not without risk.
 
@@ -49,21 +49,21 @@ Additionally, patients with advanced liver disease and/or coagulopathy are at in
 
 Strategies to Minimize the GI Risks in NSAID-treated Patients:
 
-- •Use the lowest effective dosage for the shortest possible duration.
-- •Avoid administration of more than one NSAID at a time.
-- •Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
+- Use the lowest effective dosage for the shortest possible duration.
+- Avoid administration of more than one NSAID at a time.
+- Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
   For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
-- •Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
-  - oIf a serious GI adverse event is suspected, promptly initiate evaluation and treatment and discontinue DYLOJECT until a serious GI adverse event is ruled out.
-  - oIn the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
+- Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
+  - If a serious GI adverse event is suspected, promptly initiate evaluation and treatment and discontinue DYLOJECT until a serious GI adverse event is ruled out.
+  - In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
 
 ## 5.3 Hepatotoxicity
 
 In clinical trials of oral diclofenac-containing products, meaningful elevations (i.e., more than 3 times the ULN) of AST (SGOT) were observed in about 2% of approximately 5,700 patients at some time during diclofenac treatment (ALT was not measured in all studies).
 
-In a large, open-label, controlled trial of 3,700 patients treated with oral diclofenac sodium for 2-6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
+In a large, open-label, controlled trial of 3,700 patients treated with oral diclofenac sodium for 2–6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
 Meaningful elevations of ALT and/or AST occurred in about 4% of patients and included marked elevations (greater than 8 times the ULN) in about 1% of the 3,700 patients.
-In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3-8 times the ULN), and marked (greater than 8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
+In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3–8 times the ULN), and marked (greater than 8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
 Elevations in transaminases were seen more frequently in patients with osteoarthritis than in those with rheumatoid arthritis.
 
 Almost all meaningful elevations in transaminases were detected before patients became symptomatic.
@@ -100,7 +100,7 @@ Monitor blood pressure (BP) during the initiation of NSAID treatment and through
 
 ## 5.5 Heart Failure and Edema
 
-The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.

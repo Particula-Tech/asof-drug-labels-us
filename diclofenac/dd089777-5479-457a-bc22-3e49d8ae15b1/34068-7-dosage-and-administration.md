@@ -4,7 +4,7 @@ Use for the shortest duration consistent with individual patient treatment goals
 
 DYLOJECT is for intravenous administration only.
 
-After observing the response to initial therapy with DYLOJECT, the frequency should be adjusted to suit an individual patient’s needs.
+After observing the response to initial therapy with DYLOJECT, the frequency should be adjusted to suit an individual patient's needs.
 Do not exceed 150 mg total daily dose.
 
 For the treatment of acute pain, the recommended dose of DYLOJECT is 37.5 mg administered by intravenous bolus injection over 15 seconds every 6 hours as needed, Maximum daily dose is 150 mg.
