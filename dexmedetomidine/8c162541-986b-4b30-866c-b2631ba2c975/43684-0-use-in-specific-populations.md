@@ -25,8 +25,6 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## 8.4 Pediatric Use
 
 Safety and efficacy have not been established for Procedural Sedation in pediatric patients.
-Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Hospira's dexmedetomidine injection.
-However, due to Hospira's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 The use of dexmedetomidine for procedural sedation in pediatric patients has not been evaluated.
 
 ## 8.5 Geriatric Use

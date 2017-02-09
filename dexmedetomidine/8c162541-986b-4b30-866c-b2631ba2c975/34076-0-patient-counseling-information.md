@@ -7,4 +7,5 @@ Blood pressure, heart rate and oxygen levels will be monitored both continuously
 - When dexmedetomidine is infused for more than 6 hours, patients should be informed to report nervousness, agitation, and headaches that may occur for up to 48 hours.
 - Additionally, patients should be informed to report symptoms that may occur within 48 hours after the administration of dexmedetomidine such as: weakness, confusion, excessive sweating, weight loss, abdominal pain, salt cravings, diarrhea, constipation, dizziness or light-headedness.
 
-Manufactured for: AuroMedics Pharma LLC 6 Wheeling Road Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited IDA, Pashamylaram - 502307 India
+Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500038 India
