@@ -1,19 +1,41 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Omeprazole delayed-release capsules should be taken before eating.
-Patients should be informed that the omeprazole delayed-release capsules should be swallowed whole.
+Adverse Reactions
 
-For patients who have difficulty swallowing capsules, the contents of an omeprazole delayed-release capsule can be added to applesauce.
-One tablespoon of applesauce should be added to an empty bowl and the capsule should be opened.
-All of the pellets inside the capsule should be carefully emptied on the applesauce.
-The pellets should be mixed with the applesauce and then swallowed immediately with a glass of cool water to ensure complete swallowing of the pellets.
-The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
-The pellets should not be chewed or crushed.
-The pellets/applesauce mixture should not be stored for future use.
+Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
 
-Advise patients to immediately report and seek care for diarrhea that does not improve.
-This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.5)].
+• Hypersensitivity reactions [see Contraindications (4)].
 
-Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.8)]
+• Acute Interstitial Nephritis [see Warnings and Precautions (5.2)].
+
+• Clostridium difficile Associated Diarrhea [see Warnings and Precautions (5.3)].
+
+• Bone Fracture [see Warnings and Precautions (5.4)].
+
+• Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)].
+
+• Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)].
+
+• Hypomagnesemia [see Warnings and Precautions (5.8)].
+
+Drug Interactions
+
+Advise patients to report to their healthcare provider if they start treatment with clopidogrel, St. John’s Wort or rifampin; or, if they take high-dose methotrexate [see Warnings and Precautions (5.6, 5.9, 5.11)].
+
+Administration
+
+• Take omeprazole delayed-release capsules before meals.
+
+• Antacids may be used concomitantly with omeprazole delayed-release capsules.
+
+• Missed doses: If a dose is missed, administer as soon as possible.
+However, if the next scheduled dose is due, do not take the missed dose, and take the next dose on time.
+Do not take two doses at one time to make up for a missed dose.
+
+Omeprazole Delayed-Release Capsules
+
+• Swallow omeprazole delayed-release capsules whole; do not chew.
+
+• For patients unable to swallow an intact capsule, omeprazole delayed-release capsules can be opened and administered in applesauce, as described in the Medication Guide.

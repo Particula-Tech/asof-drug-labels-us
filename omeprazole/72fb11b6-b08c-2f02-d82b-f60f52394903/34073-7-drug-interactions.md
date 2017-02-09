@@ -1,94 +1,68 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Interference with Antiretroviral Therapy
+Tables 3 and 4 include drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with omeprazole and instructions for preventing or managing them.
 
-Concomitant use of atazanavir and nelfinavir with proton pump inhibitors is not recommended.
-Co-administration of atazanavir with proton pump inhibitors is expected to substantially decrease atazanavir plasma concentrations and may result in a loss of therapeutic effect and the development of drug resistance.
-Co-administration of saquinavir with proton pump inhibitors is expected to increase saquinavir concentrations, which may increase toxicity and require dose reduction.
+Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
 
-Omeprazole has been reported to interact with some antiretroviral drugs.
-The clinical importance and the mechanisms behind these interactions are not always known.
-Increased gastric pH during omeprazole treatment may change the absorption of the antiretroviral drug.
-Other possible interaction mechanisms are via CYP 2C19.
+Table 3: Clinically Relevant Interactions Affecting Drugs Co-Administered with Omeprazole and Interaction with Diagnostics
 
-Reduced concentrations of atazanavir and nelfinavir
+| Antiretrovirals |  |
+| --- | --- |
+| Clinical Impact: | The effect of PPIs on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. • Decreased exposure of some antiretroviral drugs (e.g., rilpivirine, atazanavir and nelfinavir) when used concomitantly with omeprazole may reduce antiviral effect and promote the development of drug resistance [see Clinical Pharmacology (12.3)]. • Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with omeprazole may increase toxicity [see Clinical Pharmacology (12.3)]. • There are other antiretroviral drugs which do not result in clinically relevant interactions with omeprazole. |
+| Intervention: | Rilpivirine-containing products: Concomitant use with omeprazole is contraindicated [see Contraindications (4)]. Atazanavir: Avoid concomitant use with omeprazole. See prescribing information for atazanavir for dosing information. Nelfinavir: Avoid concomitant use with omeprazole. See prescribing information for nelfinavir. Saquinavir: See the prescribing information for saquinavir for monitoring of potential saquinavir-related toxicities. Other antiretrovirals: See prescribing information for specific antiretroviral drugs. |
+| Warfarin |  |
+| Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs, including omeprazole, and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
+| Intervention: | Monitor INR and prothrombin time and adjust the dose of warfarin, if needed, to maintain target INR range. |
+| Methotrexate |  |
+| Clinical Impact: | Concomitant use of omeprazole with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.11)]. |
+| Intervention: | A temporary withdrawal of omeprazole may be considered in some patients receiving high-dose methotrexate. |
+| CYP2C19 Substrates (e.g., clopidogrel, citalopram, cilostazol, phenytoin, diazepam) |  |
+| Clopidogrel |  |
+| Clinical Impact: | Concomitant use of omeprazole 80 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition [see Clinical Pharmacology (12.3)]. There are no adequate combination studies of a lower dose of omeprazole or a higher dose of clopidogrel in comparison with the approved dose of clopidogrel. |
+| Intervention: | Avoid concomitant use with omeprazole. Consider use of alternative anti-platelet therapy [see Warnings and Precautions (5.6)]. |
+| Citalopram |  |
+| Clinical Impact: | Increased exposure of citalopram leading to an increased risk of QT prolongation [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Limit the dose of citalopram to a maximum of 20 mg per day. See prescribing information for citalopram. |
+| Cilostazol |  |
+| Clinical Impact: | Increased exposure of one of the active metabolites of cilostazol (3,4-dihydro-cilostazol) [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Reduce the dose of cilostazol to 50 mg twice daily. See prescribing information for cilostazol. |
+| Phenytoin |  |
+| Clinical Impact: | Potential for increased exposure of phenytoin. |
+| Intervention: | Monitor phenytoin serum concentrations. Dose adjustment may be needed to maintain therapeutic drug concentrations. See prescribing information for phenytoin. |
+| Diazepam |  |
+| Clinical Impact: | Increased exposure of diazepam [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Monitor patients for increased sedation and reduce the dose of diazepam as needed. |
+| Digoxin |  |
+| Clinical Impact: | Potential for increased exposure of digoxin [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Monitor digoxin concentrations. Dose adjustment may be needed to maintain therapeutic drug concentrations. See digoxin prescribing information. |
+| Drugs Dependent on Gastric pH for Absorption (e.g., iron salts, erlotinib, dasatinib, nilotinib, mycophenolate mofetil, ketoconazole/itraconazole) |  |
+| Clinical Impact: | Omeprazole can reduce the absorption of other drugs due to its effect on reducing intragastric acidity. |
+| Intervention: | Mycophenolate mofetil (MMF): Co-administration of omeprazole in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving omeprazole and MMF. Use omeprazole with caution in transplant patients receiving MMF [see Clinical Pharmacology (12.3)]. See the prescribing information for other drugs dependent on gastric pH for absorption. |
+| Combination Therapy with Clarithromycin and Amoxicillin |  |
+| Clinical Impact: | Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions, including potentially fatal arrhythmias, and are contraindicated. Amoxicillin also has drug interactions. |
+| Intervention: | See Contraindications, Warnings and Precautions in prescribing information for clarithromycin. See Drug Interactions in prescribing information for amoxicillin. |
+| Tacrolimus |  |
+| Clinical Impact: | Potential for increased exposure of tacrolimus, especially in transplant patients who are intermediate or poor metabolizers of CYP2C19. |
+| Intervention: | Monitor tacrolimus whole blood concentrations. Dose adjustment may be needed to maintain therapeutic drug concentrations. See prescribing information for tacrolimus. |
+| Interactions with Investigations of Neuroendocrine Tumors |  |
+| Clinical Impact: | Serum chromogranin A (CgA) levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.10),Clinical Pharmacology (12.2)]. |
+| Intervention: | Temporarily stop omeprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high. If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary. |
+| Interaction with Secretin Stimulation Test |  |
+| Clinical Impact: | Hyper-response in gastrin secretion in response to secretin stimulation test, falsely suggesting gastrinoma. |
+| Intervention: | Temporarily stop omeprazole treatment at least 14 days before assessing to allow gastrin levels to return to baseline [see Clinical Pharmacology (12.2)]. |
+| False Positive Urine Tests for THC |  |
+| Clinical Impact: | There have been reports of false positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving PPIs. |
+| Intervention: | An alternative confirmatory method should be considered to verify positive results. |
+| Other |  |
+| Clinical Impact: | There have been clinical reports of interactions with other drugs metabolized via the cytochrome P450 system (e.g., cyclosporine, disulfiram). |
+| Intervention: | Monitor patients to determine if it is necessary to adjust the dosage of these other drugs when taken concomitantly with omeprazole. |
 
-For some antiretroviral drugs, such as atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole.
-Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg daily), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75% respectively for nelfinavir and M8.
-Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hr before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
-Concomitant administration with omeprazole and drugs such as atazanavir and nelfinavir is therefore not recommended.
+Table 4: Clinically Relevant Interactions Affecting Omeprazole When Co-Administered with Other Drugs
 
-Increased concentrations of saquinavir
-
-For other antiretroviral drugs, such as saquinavir, elevated serum levels have been reported, with an increase in AUC by 82%, in Cmax by 75%, and in Cmin by 106%, following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
-Therefore, clinical and laboratory monitoring for saquinavir toxicity is recommended during concurrent use with omeprazole.
-Dose reduction of saquinavir should be considered from the safety perspective for individual patients.
-
-There are also some antiretroviral drugs of which unchanged serum levels have been reported when given with omeprazole.
-
-## 7.2 Drugs for which Gastric pH can affect Bioavailability
-
-Due to its effects on gastric acid secretion, omeprazole can reduce the absorption of drugs where gastric pH is an important determinant of theirbioavailability.
-Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, atazanavir, iron salts, erlotinib, and mycophenolate mofetil (MMF) can decrease, while the absorption of drugs such as digoxin can increase during treatment with omeprazole.
-Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
-Co-administration of digoxin with omeprazole is expected to increase the systemic exposure of digoxin.
-
-Therefore, patients may need to be monitored when digoxin is taken concomitantly with omeprazole.
-
-Co-administration of omeprazole in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH.
-The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving omeprazole and MMF.
-Use omeprazole with caution in transplant patients receiving MMF [see Clinical Pharmacology (12.3)].
-
-## 7.3 Effects on Hepatic Metabolism/Cytochrome P-450 Pathways
-
-Omeprazole can prolong the elimination of diazepam, warfarin and phenytoin, drugs that are metabolized by oxidation in the liver.
-There have been reports of increased INR and prothrombin time in patients receiving proton pump inhibitors, including omeprazole, and warfarin concomitantly.
-Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
-Patients treated with proton pump inhibitors and warfarin may need to be monitored for increases in INR and prothrombin time.
-
-Although in normal subjects no interaction with theophylline or propranolol was found, there have been clinical reports of interaction with other drugs metabolized via the cytochrome P450 system (e.g., cyclosporine, disulfiram, benzodiazepines).
-Patients should be monitored to determine if it is necessary to adjust the dosage of these drugs when taken concomitantly with omeprazole.
-
-Concomitant administration of omeprazole and voriconazole (a combined inhibitor of CYP2C19 and CYP3A4) resulted in more than doubling of the omeprazole exposure.
-Dose adjustment of omeprazole is not normally required.
-However, in patients with Zollinger-Ellison syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.
-When voriconazole (400 mg Q12h x 1 day, then 200 mg x 6 days) was given with omeprazole (40 mg once daily x 7 days) to healthy subjects, it significantly increased the steady-state Cmax and AUC0-24 of omeprazole, an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4) respectively as compared to when omeprazole was given without voriconazole.
-
-Omeprazole acts as an inhibitor of CYP2C19.
-Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in crossover study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
-Cmax and AUC of one of its active metabolites, 3,4-dihydro-cilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69% respectively.
-Co-administration of cilostazol with omeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
-Therefore a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
-
-Drugs known to induce CYP2C19 or CYP3A4 (such as rifampin) may lead to decreased omeprazole serum levels.
-In a cross-over study in 12 healthy male subjects, St John’s wort (300 mg three times daily for 14 days), an inducer of CYP3A4, decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
-Avoid concomitant use of St. John’s Wort or rifampin with omeprazole.
-
-Clopidogrel
-
-Omeprazole is an inhibitor of CYP2C19 enzyme.
-Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-Concomitant use of omeprazole 80 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
-Avoid concomitant administration of omeprazole with clopidogrel.
-When using omeprazole, consider use of alternative anti-platelet therapy [see Pharmacokinetics (12.3)].
-
-There are no adequate combination studies of a lower dose of omeprazole or a higher dose of clopidogrel in comparison with the approved dose of clopidogrel.
-
-## 7.4 Tacrolimus
-
-Concomitant administration of omeprazole and tacrolimus may increase the serum levels of tacrolimus.
-
-## 7.5 Interactions with Investigations of Neuroendocrine Tumors
-
-Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors.
-[see Warnings and Precautions (5.10) and Clinical Pharmacology (12)].
-
-## 7.6 Combination Therapy with Clarithromycin
-
-Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions due to drug interactions [see Warnings and Precautions in prescribing information for clarithromycin].
-Because of these drug interactions, clarithromycin is contraindicated for co-administration with certain drugs [see Contraindications in prescribing information for clarithromycin].
-
-## 7.7 Methotrexate
-
-Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
-However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.11)].
+| CYP2C19 or CYP3A4 Inducers |  |
+| --- | --- |
+| Clinical Impact: | Decreased exposure of omeprazole when used concomitantly with strong inducers [see Clinical Pharmacology (12.3)]. |
+| Intervention: | St. John’s Wort, rifampin: Avoid concomitant use with omeprazole [see Warnings and Precautions (5.9)]. Ritonavir-containing products: see prescribing information for specific drugs. |
+| CYP2C19 or CYP3A4 Inhibitors |  |
+| Clinical Impact: | Increased exposure of omeprazole [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Voriconazole: Dose adjustment of omeprazole is not normally required. However, in patients with Zollinger-Ellison syndrome, who may require higher doses, dose adjustment may be considered. See prescribing information for voriconazole. |
