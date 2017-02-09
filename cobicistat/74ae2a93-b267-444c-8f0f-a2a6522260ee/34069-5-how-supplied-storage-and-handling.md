@@ -7,4 +7,3 @@ Store at 25 °C (77 °F), excursions permitted to 15–30 °C (59–86 °F) (See
 
 - Keep container tightly closed.
 - Dispense only in original container.
-- Do not use if seal over bottle opening is broken or missing.

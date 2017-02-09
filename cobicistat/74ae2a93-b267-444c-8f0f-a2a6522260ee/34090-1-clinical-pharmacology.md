@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-STRIBILD is a fixed-dose combination of antiretroviral drugs elvitegravir (boosted by the CYP3A inhibitor cobicistat), emtricitabine, and tenofovir DF [See Microbiology (12.4)].
+STRIBILD is a fixed-dose combination of antiretroviral drugs elvitegravir (boosted by the CYP3A inhibitor cobicistat), emtricitabine, and tenofovir DF [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -46,8 +46,8 @@ Table 7 Pharmacokinetic Properties of the Components of STRIBILD
 | Metabolism | CYP3A (major) UGT1A1/3 (minor) | CYP3A (major) CYP2D6 (minor) | Not significantly metabolized |  |
 | Elimination |  |  |  |  |
 | Major route of elimination | Metabolism |  | Glomerular filtration and active tubular secretion |  |
-| T1/2 (h)t1/2 values refer to median terminal plasma half-life. | 12.9 | 3.5 | 10 | 12−18 |
-| % Of dose excreted in urineDosing in mass balance studies: elvitegravir (single dose administration of [14C] elvitegravir (coadministered with 100 mg RTV); cobicistat (single-dose administration of [14C] cobicistat after multiple dosing of cobicistat for six days); emtricitabine (single dose administration of [14C] emtricitabine after multiple dosing of emtricitabine for ten days); mass balance study not conducted for tenofovir. | 6.7 | 8.2 | 70 | 70−80 |
+| T1/2 (h)t1/2 values refer to median terminal plasma half-life. | 12.9 | 3.5 | 10 | 12–18 |
+| % Of dose excreted in urineDosing in mass balance studies: elvitegravir (single dose administration of [14C] elvitegravir,coadministered with 100 mg RTV); cobicistat (single-dose administration of [14C] cobicistat after multiple dosing of cobicistat for six days); emtricitabine (single dose administration of [14C] emtricitabine after multiple dosing of emtricitabine for ten days); mass balance study not conducted for tenofovir. | 6.7 | 8.2 | 70 | 70–80 |
 | % Of dose excreted in feces | 94.8 | 86.2 | 13.7 | NC |
 | NC=Not Calculated |  |  |  |  |
 
@@ -64,16 +64,16 @@ Specific Populations
 
 Patients with Renal Impairment
 
-Elvitegravir and Cobicistat: A study of the pharmacokinetics of cobicistat + elvitegravir was performed in healthy subjects and subjects with severe renal impairment (estimated creatinine clearance less than 30 mL per minute).
+Elvitegravir and Cobicistat: A study of the pharmacokinetics of cobicistat+elvitegravir was performed in healthy subjects and subjects with severe renal impairment (estimated creatinine clearance less than 30 mL per minute).
 No clinically relevant differences in elvitegravir or cobicistat pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment.
 
-Emtricitabine and Tenofovir Disoproxil Fumarate: The pharmacokinetics of emtricitabine and tenofovir are altered in subjects with estimated creatinine clearance below 50 mL per minute or with end-stage renal disease requiring dialysis [See Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Emtricitabine and Tenofovir Disoproxil Fumarate: The pharmacokinetics of emtricitabine and tenofovir are altered in subjects with estimated creatinine clearance below 50 mL per minute or with end-stage renal disease requiring dialysis [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
-Elvitegravir and Cobicistat: A study of the pharmacokinetics of cobicistat + elvitegravir was performed in healthy subjects and subjects with moderate hepatic impairment.
+Elvitegravir and Cobicistat: A study of the pharmacokinetics of cobicistat+elvitegravir was performed in healthy subjects and subjects with moderate hepatic impairment.
 No clinically relevant differences in elvitegravir or cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects.
-The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of elvitegravir or cobicistat has not been studied [See Use in Specific Populations (8.7)].
+The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of elvitegravir or cobicistat has not been studied [see Use in Specific Populations (8.7)].
 
 Emtricitabine: The pharmacokinetics of emtricitabine have not been studied in subjects with hepatic impairment; however, emtricitabine is not significantly metabolized by liver enzymes, so the impact of liver impairment should be limited.
 
@@ -104,68 +104,71 @@ No clinically relevant pharmacokinetic differences have been observed between me
 
 Pediatric Patients
 
+Exposures (AUC) of elvitegravir and tenofovir in 14 pediatric subjects aged 12 to less than 18 years who received STRIBILD in Study 112 were increased by 30% and 37%, respectively, compared with exposures achieved in adults following administration of STRIBILD, but were deemed acceptable based on the overall safety profile of these agents and exposure-safety assessments.
+The other components of STRIBILD had similar exposures in adolescents compared with adults [see Use in Specific Populations (8.4)].
+
 Emtricitabine has been studied in pediatric subjects from 3 months to 17 years of age.
 Tenofovir DF has been studied in pediatric subjects from 2 years to less than 18 years of age.
-The pharmacokinetics of elvitegravir or cobicistat in pediatric subjects have not been established [See Use in Specific Populations (8.4)].
+The pharmacokinetics of elvitegravir or cobicistat in pediatric subjects less than 12 years of age have not been established [see Use in Specific Populations (8.4)].
 
 Geriatric Patients
 
-The pharmacokinetics of elvitegravir, cobicistat, emtricitabine, and tenofovir have not been fully evaluated in elderly (65 years of age and older) patients [See Use in Specific Populations (8.5)].
+The pharmacokinetics of elvitegravir, cobicistat, emtricitabine, and tenofovir have not been fully evaluated in elderly (65 years of age and older) patients [see Use in Specific Populations (8.5)].
 
 Assessment of Drug Interactions
 
-[See also Contraindications (4) and Drug Interactions (7)]
+[see Contraindications (4) and Drug Interactions (7)]
 
 The drug-drug interaction studies described in Tables 9 and 10 were conducted with STRIBILD, elvitegravir (coadministered with cobicistat or RTV), or cobicistat administered alone.
 
-As STRIBILD is indicated for use as a complete regimen for the treatment of HIV-1 infection and should not be administered with other antiretroviral medications, information regarding drug-drug interactions with other antiretroviral agents is not provided [See Warnings and Precautions (5.4)].
+As STRIBILD is indicated for use as a complete regimen for the treatment of HIV-1 infection and should not be administered with other antiretroviral medications, information regarding drug-drug interactions with other antiretroviral agents is not provided.
 
 The effects of coadministered drugs on the exposure of elvitegravir are shown in Table 9.
 The effects of elvitegravir or cobicistat on the exposure of coadministered drugs are shown in Table 10.
-For information regarding clinical recommendations, See Drug Interactions (7).
+For information regarding clinical recommendations, [see Drug Interactions (7)].
 
 Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegravir in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | Elvitegravir Dose (mg) | Cobicistat or RTV Booster Dose (mg) | N | Mean Ratio of Elvitegravir Pharmacokinetic Parameters (90% CI); No Effect=1.00 |  |  |
-| Antacids | 20 mL single dose given 4 hours before elvitegravir | 50 single dose | RTV 100 single dose | 8 | 0.95 (0.84,1.07) | 0.96 (0.88,1.04) | 1.04 (0.93,1.17) |
-| 20 mL single dose given 4 hours after elvitegravir | 10 | 0.98 (0.88,1.10) | 0.98 (0.91,1.06) | 1.00 (0.90,1.11) |  |  |  |
-| 20 mL single dose given 2 hours before elvitegravir | 11 | 0.82 (0.74,0.91) | 0.85 (0.79,0.91) | 0.90 (0.82,0.99) |  |  |  |
-| 20 mL single dose given 2 hours after elvitegravir | 10 | 0.79 (0.71,0.88) | 0.80 (0.75,0.86) | 0.80 (0.73,0.89) |  |  |  |
-| Carbamazepine | 200 twice daily | 150 once daily | Cobicistat 150 once daily | 12 | 0.55 (0.49,0.61) | 0.31 (0.28,0.33) | 0.03 (0.02,0.04) |
-| Famotidine | 40 once daily given 12 hours after elvitegravir | 150 once daily | Cobicistat 150 once daily | 10 | 1.02 (0.89,1.17) | 1.03 (0.95,1.13) | 1.18 (1.05,1.32) |
-| 40 once daily given simultaneously with elvitegravir | 16 | 1.00 (0.92,1.10) | 1.03 (0.98,1.08) | 1.07 (0.98,1.17) |  |  |  |
-| Ketoconazole | 200 twice daily | 150 once daily | RTV 100 once daily | 18 | 1.17 (1.04,1.33) | 1.48 (1.36,1.62) | 1.67 (1.48,1.88) |
-| Ledipasvir/ Sofosbuvir | 90/400 once daily | 150 once daily | Cobicistat 150 once dailyPercent change of cobicistat PK parameters (90% CI) was 1.25 (1.18 to 1.32) for Cmax, 1.59 (1.49 to 1.70) for AUC, and 4.25 (3.47 to 5.22) for Cmin. | 29 | 0.88 (0.82,0.95) | 1.02 (0.95,1.09) | 1.36 (1.23,1.49) |
-| Omeprazole | 40 once daily given 2 hours before elvitegravir | 50 once daily | RTV 100 once daily | 9 | 0.93 (0.83,1.04) | 0.99 (0.91,1.07) | 0.94 (0.85,1.04) |
-| 20 once daily given 2 hours before elvitegravir | 150 once daily | Cobicistat 150 once daily | 11 | 1.16 (1.04,1.30) | 1.10 (1.02,1.19) | 1.13 (0.96,1.34) |  |
-| 20 once daily given 12 hours after elvitegravir | 11 | 1.03 (0.92,1.15) | 1.05 (0.93,1.18) | 1.10 (0.92,1.32) |  |  |  |
-| Rifabutin | 150 once every other day | 150 once daily | Cobicistat 150 once daily | 12 | 0.91 (0.84,0.99) | 0.79 (0.74,0.85) | 0.33 (0.27,0.40) |
-| Rosuvastatin | 10 single dose | 150 once daily | Cobicistat 150 once daily | 10 | 0.94 (0.83,1.07) | 1.02 (0.91,1.14) | 0.98 (0.83,1.16) |
+| Coadministered Drug | Dose of Coadministered Drug | Elvitegravir Dose (mg) | Cobicistat or RTV Booster Dose (mg) | N | Mean Ratio of Elvitegravir Pharmacokinetic Parameters (90% CI); No Effect=1.00 |  |  |
+| Antacids | 20 mL single dose given 4 hours before elvitegravir | 50 single dose | RTV 100 single dose | 8 | 0.95 (0.84, 1.07) | 0.96 (0.88, 1.04) | 1.04 (0.93, 1.17) |
+| 20 mL single dose given 4 hours after elvitegravir | 10 | 0.98 (0.88, 1.10) | 0.98 (0.91, 1.06) | 1.00 (0.90, 1.11) |  |  |  |
+| 20 mL single dose given 2 hours before elvitegravir | 11 | 0.82 (0.74, 0.91) | 0.85 (0.79, 0.91) | 0.90 (0.82, 0.99) |  |  |  |
+| 20 mL single dose given 2 hours after elvitegravir | 10 | 0.79 (0.71, 0.88) | 0.80 (0.75, 0.86) | 0.80 (0.73, 0.89) |  |  |  |
+| Carbamazepine | 200 mg twice daily | 150 once daily | Cobicistat 150 once daily | 12 | 0.55 (0.49, 0.61) | 0.31 (0.28, 0.33) | 0.03 (0.02, 0.04) |
+| Famotidine | 40 mg once daily given 12 hours after elvitegravir | 150 once daily | Cobicistat 150 once daily | 10 | 1.02 (0.89, 1.17) | 1.03 (0.95, 1.13) | 1.18 (1.05, 1.32) |
+| 40 mg once daily given simultaneously with elvitegravir | 16 | 1.00 (0.92, 1.10) | 1.03 (0.98, 1.08) | 1.07 (0.98, 1.17) |  |  |  |
+| Ketoconazole | 200 mg twice daily | 150 once daily | RTV 100 once daily | 18 | 1.17 (1.04, 1.33) | 1.48 (1.36, 1.62) | 1.67 (1.48, 1.88) |
+| Ledipasvir/Sofosbuvir | 90/400 mg once daily | 150 once daily | Cobicistat 150 once dailyPercent change of cobicistat PK parameters (90% CI) was 1.25 (1.18 to 1.32) for Cmax, 1.59 (1.49 to 1.70) for AUC, and 4.25 (3.47 to 5.22) for Cmin. | 29 | 0.88 (0.82, 0.95) | 1.02 (0.95, 1.09) | 1.36 (1.23, 1.49) |
+| Omeprazole | 40 mg once daily given 2 hours before elvitegravir | 50 once daily | RTV 100 once daily | 9 | 0.93 (0.83, 1.04) | 0.99 (0.91, 1.07) | 0.94 (0.85, 1.04) |
+| 20 mg once daily given 2 hours before elvitegravir | 150 once daily | Cobicistat 150 once daily | 11 | 1.16 (1.04, 1.30) | 1.10 (1.02, 1.19) | 1.13 (0.96, 1.34) |  |
+| 20 mg once daily given 12 hours after elvitegravir | 11 | 1.03 (0.92, 1.15) | 1.05 (0.93, 1.18) | 1.10 (0.92, 1.32) |  |  |  |
+| Rifabutin | 150 mg once every other day | 150 once daily | Cobicistat 150 once daily | 12 | 0.91 (0.84, 0.99) | 0.79 (0.74, 0.85) | 0.33 (0.27, 0.40) |
+| Rosuvastatin | 10 mg single dose | 150 once daily | Cobicistat 150 once daily | 10 | 0.94 (0.83, 1.07) | 1.02 (0.91, 1.14) | 0.98 (0.83, 1.16) |
 
 Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Elvitegravir plus Cobicistat, Cobicistat, or STRIBILDAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | Elvitegravir DoseNA=Not Applicable (mg) | Cobicistat Booster Dose (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic ParametersNC=Not Calculated (90% CI); No Effect=1.00 |  |  |
-| Buprenorphine | 16–24 once daily | 150 once daily | 150 once daily | 17 | 1.12 (0.98,1.27) | 1.35 (1.18,1.55) | 1.66 (1.43,1.93) |
-| Norbuprenorphine | 1.24 (1.03,1.49) | 1.42 (1.22,1.67) | 1.57 (1.31,1.88) |  |  |  |  |
-| Carbamazepine | 200 twice daily | 150 once daily | 150 once daily | 12 | 1.40 (1.32,1.49) | 1.43 (1.36,1.52) | 1.51 (1.41,1.62) |
-| Carbamazepine-10,11-epoxide | 0.73 (0.70,0.78) | 0.65 (0.63,0.66) | 0.59 (0.57,0.61) |  |  |  |  |
-| Desipramine | 50 single dose | NA | 150 once daily | 8 | 1.24 (1.08,1.44) | 1.65 (1.36,2.02) | NC |
-| Digoxin | 0.5 single dose | NA | 150 once daily | 22 | 1.41 (1.29,1.55) | 1.08 (1.00,1.17) | NC |
-| Ledipasvir | 90/400 once daily | 150 once daily | Cobicistat 150 once daily | 29 | 1.63 (1.51,1.75) | 1.78 (1.64,1.94) | 1.91 (1.76,2.08) |
-| Sofosbuvir | 1.33 (1.14,1.56) | 1.36 (1.21,1.52) | NA |  |  |  |  |
-| GS-331007The predominant circulating nucleoside metabolite of sofosbuvir. | 1.33 (1.22,1.44) | 1.44 (1.41,1.48) | 1.53 (1.47,1.59) |  |  |  |  |
-| Naloxone | 4–6 once daily | 150 once daily | 150 once daily | 17 | 0.72 (0.61,0.85) | 0.72 (0.59,0.87) | NA |
-| Norgestimate/ ethinyl estradiol | 0.180/0.215/ 0.250 norgestimate once daily | 150 once dailyStudy conducted with STRIBILD. | 150 once daily | 13 | 2.08 (2.00,2.17) | 2.26 (2.15,2.37) | 2.67 (2.43,2.92) |
-| 0.025 ethinyl estradiol once daily | 0.94 (0.86,1.04) | 0.75 (0.69,0.81) | 0.56 (0.52,0.61) |  |  |  |  |
-| R-Methadone | 80–120 daily | 150 once daily | 150 once daily | 11 | 1.01 (0.91,1.13) | 1.07 (0.96,1.19 | 1.10 (0.95,1.28) |
-| S-Methadone | 0.96 (0.87,1.06) | 1.00 (0.89,1.12) | 1.02 (0.89,1.17) |  |  |  |  |
-| Rifabutin | 150 once every other day | 150 once daily | 150 once daily | 12 | 1.09 (0.98,1.20)Comparison based on rifabutin 300 mg once daily. | 0.92 (0.83,1.03) | 0.94 (0.85,1.04) |
-| 25-O-desacetyl-rifabutin | 12 | 4.84 (4.09,5.74) | 6.25 (5.08,7.69) | 4.94 (4.04,6.04) |  |  |  |
-| Rosuvastatin | 10 single dose | 150 single dose | 150 single dose | 10 | 1.89 (1.48,2.42) | 1.38 (1.14,1.67) | NC |
+| Buprenorphine | 16–24 once daily | 150 once daily | 150 once daily | 17 | 1.12 (0.98, 1.27) | 1.35 (1.18, 1.55) | 1.66 (1.43, 1.93) |
+| Norbuprenorphine | 1.24 (1.03, 1.49) | 1.42 (1.22, 1.67) | 1.57 (1.31, 1.88) |  |  |  |  |
+| Carbamazepine | 200 twice daily | 150 once daily | 150 once daily | 12 | 1.40 (1.32, 1.49) | 1.43 (1.36, 1.52) | 1.51 (1.41, 1.62) |
+| Carbamazepine-10,11-epoxide | 0.73 (0.70, 0.78) | 0.65 (0.63, 0.66) | 0.59 (0.57, 0.61) |  |  |  |  |
+| Desipramine | 50 single dose | NA | 150 once daily | 8 | 1.24 (1.08, 1.44) | 1.65 (1.36, 2.02) | NC |
+| Digoxin | 0.5 single dose | NA | 150 once daily | 22 | 1.41 (1.29, 1.55) | 1.08 (1.00, 1.17) | NC |
+| Ledipasvir | 90/400 once daily | 150 once daily | Cobicistat 150 once daily | 29 | 1.63 (1.51, 1.75) | 1.78 (1.64, 1.94) | 1.91 (1.76, 2.08) |
+| Sofosbuvir | 1.33 (1.14, 1.56) | 1.36 (1.21, 1.52) | NA |  |  |  |  |
+| GS-331007The predominant circulating nucleoside metabolite of sofosbuvir. | 1.33 (1.22, 1.44) | 1.44 (1.41, 1.48) | 1.53 (1.47, 1.59) |  |  |  |  |
+| Naloxone | 4–6 once daily | 150 once daily | 150 once daily | 17 | 0.72 (0.61, 0.85) | 0.72 (0.59, 0.87) | NA |
+| Norgestimate/ethinyl estradiol | 0.180/0.215/0.250 norgestimate once daily | 150 once dailyStudy conducted with STRIBILD. | 150 once daily | 13 | 2.08 (2.00, 2.17) | 2.26 (2.15, 2.37) | 2.67 (2.43, 2.92) |
+| 0.025 ethinyl estradiol once daily | 0.94 (0.86, 1.04) | 0.75 (0.69, 0.81) | 0.56 (0.52, 0.61) |  |  |  |  |
+| R-Methadone | 80−120 daily | 150 once daily | 150 once daily | 11 | 1.01 (0.91, 1.13) | 1.07 (0.96, 1.19) | 1.10 (0.95, 1.28) |
+| S-Methadone | 0.96 (0.87, 1.06) | 1.00 (0.89, 1.12) | 1.02 (0.89, 1.17) |  |  |  |  |
+| Rifabutin | 150 once every other day | 150 once daily | 150 once daily | 12 | 1.09 (0.98, 1.20)Comparison based on rifabutin 300 mg once daily. | 0.92 (0.83, 1.03) | 0.94 (0.85, 1.04) |
+| 25-O-desacetyl-rifabutin | 12 | 4.84 (4.09, 5.74) | 6.25 (5.08, 7.69) | 4.94 (4.04, 6.04) |  |  |  |
+| Rosuvastatin | 10 single dose | 150 once daily | 150 single dose | 10 | 1.89 (1.48, 2.42) | 1.38 (1.14, 1.67) | NC |
 
 ## 12.4 Microbiology
 
@@ -180,7 +183,7 @@ Inhibition of CYP3A-mediated metabolism by cobicistat enhances the systemic expo
 
 Emtricitabine: Emtricitabine, a synthetic nucleoside analog of cytidine, is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate.
 Emtricitabine 5'-triphosphate inhibits the activity of the HIV-1 RT by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA, which results in chain termination.
-Emtricitabine 5′-triphosphate is a weak inhibitor of mammalian DNA polymerases α, β, ε, and mitochondrial DNA polymerase γ.
+Emtricitabine 5'-triphosphate is a weak inhibitor of mammalian DNA polymerases α, β, ε, and mitochondrial DNA polymerase γ.
 
 Tenofovir Disoproxil Fumarate: Tenofovir DF is an acyclic nucleoside phosphonate diester analog of adenosine monophosphate.
 Tenofovir DF requires initial diester hydrolysis for conversion to tenofovir and subsequent phosphorylations by cellular enzymes to form tenofovir diphosphate.
@@ -227,13 +230,13 @@ In virus isolates harboring the observed primary elvitegravir resistance-associa
 Emtricitabine and Tenofovir Disoproxil Fumarate: HIV-1 isolates with reduced susceptibility to emtricitabine or tenofovir have been selected in subjects experiencing virologic failure in clinical trials.
 Genotypic analysis of these isolates identified the M184V/I and K65R amino acid substitutions in the viral RT, respectively.
 
-Elvitegravir, Cobicistat, Emtricitabine, and Tenofovir Disoproxil Fumarate: In clinical trials of HIV-1-infected subjects with no antiretroviral treatment history [studies 102 and 103, See Clinical Studies (14)], by Week 144, the development of one or more primary substitutions associated with resistance to elvitegravir, emtricitabine, and/or tenofovir was observed in viruses from 51% (18/35) of the STRIBILD-treatment failure subjects with evaluable genotypic resistance data who received at least 8 weeks of STRIBILD and had HIV-1 RNA greater than or equal to 400 copies per mL at confirmed virologic failure, the end of each study year, or the time of early study drug discontinuation.
+Elvitegravir, Cobicistat, Emtricitabine, and Tenofovir Disoproxil Fumarate: In clinical trials of HIV-1-infected subjects with no antiretroviral treatment history, Studies 102 and 103 [see Clinical Studies (14)], by Week 144, the development of one or more primary substitutions associated with resistance to elvitegravir, emtricitabine, and/or tenofovir was observed in viruses from 51% (18/35) of the STRIBILD-treatment failure subjects with evaluable genotypic resistance data who received at least 8 weeks of STRIBILD and had HIV-1 RNA greater than or equal to 400 copies per mL at confirmed virologic failure, the end of each study year, or the time of early study drug discontinuation.
 The most common substitutions that emerged were M184V/I (N=17) in HIV-1 RT and the primary elvitegravir resistance-associated substitutions, E92Q (N=9), N155H (N=5), Q148R (N=3), T66I (N=2), and T97A (N=1) in integrase; K65R in RT was also detected (N=5).
 In virus isolates harboring the observed primary elvitegravir resistance substitutions, additional substitutions in integrase were detected including H51Y, L68I/V, G70R, I73V, G140C, S153A, E157Q, and G163R.
 The virus in all subjects with evaluable data for RT and IN and whose virus developed integrase substitutions associated with elvitegravir resistance (N=14) also developed the M184I/V RT substitutions, and had reduced susceptibility to both elvitegravir and emtricitabine.
 In phenotypic analyses, HIV-1 isolates expressing M184V/I RT substitutions showed reduced susceptibility to emtricitabine (42- to greater than 152-fold); those expressing the primary elvitegravir resistance-associated integrase substitutions showed reduced susceptibility to elvitegravir (4- to greater than 198-fold); and those expressing the K65R RT substitution showed reduced susceptibility to tenofovir (0.8- to 1.6-fold), compared to wild-type reference HIV-1.
 
-There was an insufficient number of virologic failures with evaluable data (N=1) in clinical trials of virologically suppressed HIV-1-infected subjects with no history of virologic failure [studies 115 and 121, See Clinical Studies (14)] to draw conclusions about the development of resistance.
+There was an insufficient number of virologic failures with evaluable data (N=1) in clinical trials of virologically suppressed HIV-1-infected subjects with no history of virologic failure, studies 115 and 121, [see Clinical Studies (14)] to draw conclusions about the development of resistance.
 
 Cross-Resistance
 
