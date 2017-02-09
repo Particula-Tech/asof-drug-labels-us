@@ -54,12 +54,12 @@ Metabolism
 Clopidogrel is extensively metabolized by two main metabolic pathways: one mediated by esterases and leading to hydrolysis into an inactive carboxylic acid derivative (85% of circulating metabolites) and one mediated by multiple cytochrome P450 enzymes.
 Cytochromes first oxidize clopidogrel to a 2-oxo-clopidogrel intermediate metabolite.
 Subsequent metabolism of the 2-oxo-clopidogrel intermediate metabolite results in formation of the active metabolite, a thiol derivative of clopidogrel.
-This metabolic pathway is mediated by CYP2C19, CYP3A, CYP2B6 and CYP1A2.
+The active metabolite is formed mostly by CYP2C19 with contributions from several other CYP enzymes, including CYP1A2, CYP2B6 and CYP3A.
 The active thiol metabolite binds rapidly and irreversibly to platelet receptors, thus inhibiting platelet aggregation for the lifespan of the platelet.
 
 The Cmax of the active metabolite is twice as high following a single 300 mg clopidogrel loading dose as it is after four days of 75 mg maintenance dose.
 Cmax occurs approximately 30 to 60 minutes after dosing.
-In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite deviates from dose proportionality: increasing the dose by a factor of four results in 2- and 2.7-fold increases in Cmax and AUC, respectively.
+In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite deviates from dose proportionality: 4-fold the dose results in 2- and 2.7-fold the Cmax and AUC, respectively.
 
 Elimination
 
@@ -68,6 +68,8 @@ After a single, oral dose of 75 mg, clopidogrel has a half-life of approximately
 The half-life of the active metabolite is about 30 minutes.
 
 Drug Interactions
+
+Effect of other drugs on clopidogrel
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 Concomitant use of certain inhibitors of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
@@ -82,44 +84,45 @@ Change relative to clopidogrel administered alone
 
 Pharmacodynamic and pharmacokinetic parameters measured in these studies showed that the interaction was highest with omeprazole and least with dexlansoprazole.
 
+Effect of clopidogrel on other drugs
+
+In vitro studies have shown that the glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
+Concomitant administration of repaglinide with clopidogrel increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel [see Drug Interactions (7.5)].
+
 ## 12.5 Pharmacogenomics
 
 CYP2C19 is involved in the formation of both the active metabolite and the 2-oxo-clopidogrel intermediate metabolite.
 Clopidogrel active metabolite pharmacokinetics and antiplatelet effects, as measured by ex vivo platelet aggregation assays, differ according to CYP2C19 genotype.
-Genetic variants of other CYP450 enzymes may also affect the formation of clopidogrel’s active metabolite.
-
-The CYP2C19*1 allele corresponds to fully functional metabolism while the CYP2C19*2 and *3 alleles are nonfunctional.
-CYP2C19*2 and *3 account for the majority of reduced function alleles in white (85%) and Asian (99%) poor metabolizers.
-Other alleles associated with absent or reduced metabolism are less frequent, and include, but are not limited to, CYP2C19*4, *5, *6, *7, and *8.
-A patient with poor metabolizer status will possess two loss-of-function alleles as defined above.
-Published frequencies for poor CYP2C19 metabolizer genotypes are approximately 2% for whites, 4% for blacks and 14% for Chinese.
-Tests are available to determine a patient’s CYP2C19 genotype.
+Patients who are homozygous for nonfunctional alleles of the CYP2C19 gene are termed “CYP2C19 poor metabolizers”.
+Approximately 2% of White and 4% of Black patients are poor metabolizers; the prevalence of poor metabolism is higher in Asian patients (e.g., 14% of Chinese).
+Tests are available to identify patients who are CYP2C19 poor metabolizers.
 
 A crossover study in 40 healthy subjects, 10 each in the four CYP2C19 metabolizer groups, evaluated pharmacokinetic and antiplatelet responses using 300 mg followed by 75 mg per day and 600 mg followed by 150 mg per day, each for a total of 5 days.
 Decreased active metabolite exposure and diminished inhibition of platelet aggregation were observed in the poor metabolizers as compared to the other groups.
-When poor metabolizers received the 600 mg/150 mg regimen, active metabolite exposure and antiplatelet response were greater than with the 300 mg/75 mg regimen (see Table 3).
-An appropriate dose regimen for this patient population has not been established in clinical outcome trials.
 
 Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C19 Metabolizer Status
 
-|  | Dose | Ultrarapid (n=10) | Extensive (n=10) | Intermediate (n=10) | Poor(n=10) |
+|  | Dose | Poor (n=10) | Intermediate* (n=10) | Normal (n=10) | Ultrarapid† (n=10) |
 | --- | --- | --- | --- | --- | --- |
-| Cmax (ng/mL) | 300 mg (24 h) | 24 (10) | 32 (21) | 23 (11) | 11 (4) |
-|  | 600 mg (24 h) | 36 (13) | 44 (27) | 39 (23) | 17 (6) |
-|  | 75 mg (Day 5) | 12 (6) | 13 (7) | 12 (5) | 4 (1) |
-|  | 150 mg (Day 5) | 16 (9) | 19 (5) | 18 (7) | 7 (2) |
-| IPA (%)* | 300 mg (24 h) | 40 (21) | 39 (28) | 37 (21) | 24 (26) |
-|  | 600 mg (24 h) | 51 (28) | 49 (23) | 56 (22) | 32 (25) |
-|  | 75 mg (Day 5) | 56 (13) | 58 (19) | 60 (18) | 37 (23) |
-|  | 150 mg (Day 5) | 68 (18) | 73 (9) | 74 (14) | 61 (14) |
-| VASP-PRI (%) † | 300 mg (24 h) | 73 (12) | 68 (16 | 78 (12) | 91 (12) |
-|  | 600 mg (24 h) | 51 (20) | 48 (20) | 56 (26) | 85 (14) |
-|  | 75 mg (Day 5) | 40 (9) | 39 (14) | 50 (16) | 83 (13) |
-|  | 150 mg (Day 5) | 20 (10) | 24 (10) | 29 (11) | 61 (18) |
-| Values are mean (SD) * Inhibition of platelet aggregation with 5mcM ADP; larger value indicates greater platelet inhibition † Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition |  |  |  |  |  |
+| Cmax (ng/mL) | 300 mg (24 h) | 11 (4) | 23 (11) | 32 (21) | 24 (10) |
+|  | 600 mg (24 h) | 17 (6) | 39 (23) | 44 (27) | 36 (13) |
+|  | 75 mg (Day 5) | 4 (1) | 12 (5) | 13 (7) | 12 (6) |
+|  | 150 mg (Day 5) | 7 (2) | 18 (7) | 19 (5) | 16 (9) |
+| IPA (%) †† | 300 mg (24 h) | 24 (26) | 37 (21) | 39 (28) | 40 (21) |
+|  | 600 mg (24 h) | 32 (25) | 56 (22) | 49 (23) | 51 (28) |
+|  | 75 mg (Day 5) | 37 (23) | 60 (18) | 58 (19) | 56 (13) |
+|  | 150 mg (Day 5) | 61 (14) | 74 (14) | 73 (9) | 68 (18) |
+| VASP-PRI (%)††† | 300 mg (24 h) | 91 (12) | 78 (12) | 68 (16) | 73 (12) |
+|  | 600 mg (24 h) | 85 (14) | 56 (26) | 48 (20) | 51 (20) |
+|  | 75 mg (Day 5) | 83 (13) | 50 (16) | 39 (14) | 40 (9) |
+|  | 150 mg (Day 5) | 61 (18) | 29 (11) | 24 (10) | 20 (10) |
 
-Some published studies suggest that intermediate metabolizers have decreased active metabolite exposure and diminished antiplatelet effects.
+Values are mean (SD)
 
-The relationship between CYP2C19 genotype and clopidogrel treatment outcome was evaluated in retrospective analyses of clopidogrel-treated subjects in CHARISMA (n=2428) and TRITON-TIMI 38 (n=1477), and in several published cohort studies.
-In TRITON-TIMI 38 and the majority of the cohort studies, the combined group of patients with either intermediate or poor metabolizer status had a higher rate of cardiovascular events (death, myocardial infarction, and stroke) or stent thrombosis compared to extensive metabolizers.
-In CHARISMA and one cohort study, the increased event rate was observed only in poor metabolizers.
+* Intermediate metabolizers have one but not two nonfunctional alleles
+
+† Ultrarapid metabolizers have at least one gain-of-function allele
+
+†† Inhibition of platelet aggregation with 5mcM ADP; larger value indicates greater platelet inhibition
+
+††† Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition

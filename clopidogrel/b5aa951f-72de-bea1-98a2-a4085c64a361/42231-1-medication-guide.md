@@ -85,7 +85,9 @@ They should talk to the doctor who prescribed clopidogrel tablets for you before
 Tell your doctor about all the medicines you take, including prescription, non-prescription medicines, vitamins and herbal supplements.
 
 Clopidogrel tablets may affect the way other medicines work, and other medicines may affect how clopidogrel tablets works.
-See “What is the most important information I should know about clopidogrel?”
+See “What is the most important information I should know about clopidogrel tablets?”
+
+Clopidogrel tablets may increase blood levels of other medicines such as repaglinide (Prandin®).
 
 Taking clopidogrel tablets with certain other medicines may increase your risk of bleeding.
 Especially tell your doctor if you take:
@@ -107,7 +109,6 @@ How should I take clopidogrel tablets?
 - Do not change your dose or stop taking clopidogrel tablets without talking to your doctor first.
   Stopping clopidogrel tablets may increase your risk of heart attack or stroke.
 - Take clopidogrel tablets with aspirin as instructed by your doctor.
-- You can take clopidogrel tablets with or without food.
 - If you miss a dose, take clopidogrel tablets as soon as you remember.
   If it is almost time for your next dose, skip the missed dose.
   Take the next dose at your regular time.
@@ -187,7 +188,7 @@ To reorder additional medication guides, please contact Dr. Reddy’s Customer S
 
 Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 
-Prilosec® is a registered trademark of AstraZeneca.
+Prilosec® and Nexium® are registered trademarks of AstraZeneca.
 
 Jantoven® is a registered trademark of USL Pharma.
 
@@ -207,4 +208,6 @@ Dr. Reddy’s Laboratories Limited
 
 Srikakulam - 532 409 INDIA
 
-Revised: 0815
+Revised: 1016
+
+Dispense with medication guide available at: www.drreddys.com/medguide/clopidogreltabs.pdf
