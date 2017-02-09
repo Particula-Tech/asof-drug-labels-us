@@ -7,7 +7,7 @@ Dehydration may result from prolonged vomiting or diarrhea and can be associated
 The incidence and severity of these reactions are dose-related [see Adverse Reactions (6.1)].
 For this reason, patients should always be started at a dose of 1.5 mg twice a day and titrated to their maintenance dose.
 
-If treatment is interrupted for longer than 3 days, treatment should be reinitiated with the lowest daily dose [see Dosage and Administration (2.1)] to reduce the possibility of severe vomiting and its potentially serious sequelae (e.g., there has been one postmarketing report of severe vomiting with esophageal rupture following inappropriate reinitiation of treatment with a 4.5 mg dose after 8 weeks of treatment interruption).
+If treatment is interrupted for longer than 3 days, treatment should be reinitiated with the lowest daily dose [see Dosage and Administration (2.3)] to reduce the possibility of severe vomiting and its potentially serious sequelae (e.g., there has been one postmarketing report of severe vomiting with esophageal rupture following inappropriate reinitiation of treatment with a 4.5 mg dose after 8 weeks of treatment interruption).
 
 Inform caregivers to monitor for gastrointestinal adverse reactions and to inform the physician if they occur.
 It is critical to inform caregivers that if therapy has been interrupted for more than 3 days because of intolerance, the next dose should not be administered without contacting the physician regarding proper retitration.

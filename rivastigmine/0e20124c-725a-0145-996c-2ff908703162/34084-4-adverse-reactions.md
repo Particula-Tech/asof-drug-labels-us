@@ -171,8 +171,12 @@ Table 3 Proportion of Adverse Reactions Observed at a Frequency ≥2% and Occurr
 The following adverse reactions have been identified during post approval use of rivastigmine tartrate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hepatobiliary Disorders: Hepatitis.
+Cardiac Disorders: Tachycardia.
 
-Psychiatric Disorders: Aggression.
+Hepatobiliary Disorders: Abnormal liver function tests, hepatitis.
 
-Skin and Appendages: Stevens-Johnson syndrome, disseminated allergic dermatitis.
+Nervous System Disorders: seizure.
+
+Psychiatric Disorders: Aggression, nightmares.
+
+Skin and Subcutaneous Tissue Disorders: Allergic dermatitis, application site hypersensitivity (patch), blister, disseminated allergic dermatitis, Stevens-Johnson syndrome, urticaria.

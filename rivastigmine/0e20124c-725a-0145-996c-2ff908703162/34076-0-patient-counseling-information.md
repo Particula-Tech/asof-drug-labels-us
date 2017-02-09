@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advice the patient to read the FDA-approved patient labeling (instructions for Use)
+
 Gastrointestinal Adverse Reactions
 
 Caregivers should be advised of the high incidence of nausea and vomiting associated with the use of the drug along with the possibility of anorexia and weight loss.
@@ -24,4 +26,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1215
+Revised: 1216
