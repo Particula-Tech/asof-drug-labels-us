@@ -9,7 +9,7 @@ Efficacy for fluoxetine was established for the:
 
 Efficacy for fluoxetine and olanzapine in combination was established for the:
 
-- •Acute treatment of depressive episodes in Bipolar I Disorder in adults in 3 short-term, placebo-controlled trials.
+- •Acute treatment of depressive episodes in Bipolar I Disorder in adults, and children and adolescents (10 to 17 years) in 3 short-term, placebo-controlled trials.
 
 When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
@@ -44,7 +44,7 @@ In Study 2, patients receiving fluoxetine experienced mean reductions of approxi
 While there was no indication of a dose-response relationship for effectiveness in Study 1, a dose-response relationship was observed in Study 2, with numerically better responses in the 2 higher dose groups.
 The following table provides the outcome classification by treatment group on the Clinical Global Impression (CGI) improvement scale for Studies 1 and 2 combined:
 
-Table 6
+1. Table 6
 
 | Outcome Classification (%) on CGI Improvement Scale for Completers in Pool of Two OCD Studies |  |  |  |  |
 | --- | --- | --- | --- | --- |

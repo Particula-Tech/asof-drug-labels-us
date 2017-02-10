@@ -47,14 +47,11 @@ Families and caregivers of patients being treated with antidepressants for Major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for fluoxetine capsules should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
-It should be noted that fluoxetine is approved in the pediatric population for Major Depressive Disorder and Obsessive Compulsive Disorder.
-
-Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
-However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+It should be noted that fluoxetine is approved in the pediatric population for Major Depressive Disorder and Obsessive Compulsive Disorder; and fluoxetine in combination with olanzapine for the acute treatment of depressive episodes associated with Bipolar I Disorder.
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including fluoxetine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including fluoxetine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
@@ -66,7 +63,7 @@ No reports involved the administration of methylene blue by other routes (such a
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking fluoxetine.
 Fluoxetine should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.9, 2.10)].
 
-If concomitant use of fluoxetine with other serotonergic drugs, i.e., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+If concomitant use of fluoxetine with other serotonergic drugs, i.e., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
 Treatment with fluoxetine and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
@@ -136,7 +133,7 @@ Weight change should be monitored during therapy.
 ## 5.7 Abnormal Bleeding
 
 SNRIs and SSRIs, including fluoxetine, may increase the risk of bleeding reactions.
-Concomitant use of aspirin, non-steroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding reactions related to SNRIs and SSRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
@@ -172,7 +169,7 @@ Among the most common adverse reactions associated with discontinuation (inciden
 
 ## 5.11 QT Prolongation
 
-Postmarketing cases of QT interval prolongation and ventricular arrhythmia including Torsade de Pointes have been reported in patients treated with fluoxetine.
+Post-marketing cases of QT interval prolongation and ventricular arrhythmia including Torsade de Pointes have been reported in patients treated with fluoxetine.
 Fluoxetine should be used with caution in patients with congenital long QT syndrome; a previous history of QT prolongation; a family history of long QT syndrome or sudden cardiac death; and other conditions that predispose to QT prolongation and ventricular arrhythmia.
 Such conditions include concomitant use of drugs that prolong the QT interval; hypokalemia or hypomagnesemia; recent myocardial infarction, uncompensated heart failure, bradyarrhythmias, and other significant arrhythmias; and conditions that predispose to increased fluoxetine exposure (overdose, hepatic impairment, use of CYP2D6 inhibitors, CYP2D6 poor metabolizer status, or use of other highly protein-bound drugs).
 Fluoxetine is primarily metabolized by CYP2D6 [see Contraindications (4.2), Drug Interactions (7.7, 7.8), Overdose (10.1), and Clinical Pharmacology (12.3)].

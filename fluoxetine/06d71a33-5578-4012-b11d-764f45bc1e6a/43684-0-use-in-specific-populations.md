@@ -10,7 +10,7 @@ All pregnancies have a background risk of birth defects, loss, or other adverse 
 Treatment of Pregnant Women during the First Trimester — There are no adequate and well-controlled clinical studies on the use of fluoxetine in pregnant women.
 Results of a number of published epidemiological studies assessing the risk of fluoxetine exposure during the first trimester of pregnancy have demonstrated inconsistent results.
 More than 10 cohort studies and case-control studies failed to demonstrate an increased risk for congenital malformations overall.
-However, one prospective cohort study conducted by the European Network of Teratology Information Services reported an increased risk of cardiovascular malformations in infants born to women (N=253) exposed to fluoxetine during the first trimester of pregnancy compared to infants of women (N=1359) who were not exposed to fluoxetine.
+However, one prospective cohort study conducted by the European Network of Teratology Information Services reported an increased risk of cardiovascular malformations in infants born to women (N = 253) exposed to fluoxetine during the first trimester of pregnancy compared to infants of women (N = 1359) who were not exposed to fluoxetine.
 There was no specific pattern of cardiovascular malformations.
 Overall, however, a causal relationship has not been established.
 
@@ -52,7 +52,7 @@ The infant’s plasma drug levels were 340 ng/mL of fluoxetine and 208 ng/mL of 
 
 ## 8.4 Pediatric Use
 
-Use of Fluoxetine in children — The efficacy of fluoxetine for the treatment of Major Depressive Disorder was demonstrated in two 8- to 9-week placebo-controlled clinical trials with 315 pediatric outpatients ages 8 to ≤18 [see Clinical Studies (14.1)].
+Use of fluoxetine in children — The efficacy of fluoxetine for the treatment of Major Depressive Disorder was demonstrated in two 8- to 9-week placebo-controlled clinical trials with 315 pediatric outpatients ages 8 to ≤18 [see Clinical Studies (14.1)].
 
 The efficacy of fluoxetine for the treatment of OCD was demonstrated in one 13-week placebo-controlled clinical trial with 103 pediatric outpatients ages 7 to <18 [see Clinical Studies (14.2)].
 
@@ -91,10 +91,8 @@ Rat exposures to the major metabolite, norfluoxetine, are approximately 0.3 to 0
 A specific effect on bone development was reported in juvenile mice administered fluoxetine by the intraperitoneal route to 4 week old mice for 4 weeks at doses 0.5 and 2 times the oral MRHD of 20 mg/day on mg/m2 basis.
 There was a decrease in bone mineralization and density at both doses, but the overall growth (body weight gain or femur length) was not affected.
 
+Use of fluoxetine in combination with olanzapine in children and adolescents: Safety and efficacy of fluoxetine and olanzapine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with Bipolar I Disorder.
 Safety and effectiveness of fluoxetine and olanzapine in combination in patients less than 10 years of age have not been established.
-
-Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
-However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 

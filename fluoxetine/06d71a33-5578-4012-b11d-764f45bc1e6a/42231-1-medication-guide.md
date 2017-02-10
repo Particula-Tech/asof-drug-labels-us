@@ -93,7 +93,6 @@ Children and adolescents should have height and weight monitored during treatmen
 9.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
-
 Symptoms may include:
 
 1. •headache
@@ -101,7 +100,7 @@ Symptoms may include:
 3. •confusion, problems concentrating or thinking or memory problems
 
 10.
-Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including Torsade de Pointes).
+Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including Torsades de Pointes).
 This condition can be life threatening.
 The symptoms may include:
 
@@ -128,12 +127,9 @@ Fluoxetine capsules are used to treat:
 2. •Obsessive Compulsive Disorder (OCD)
 3. •Bulimia Nervosa*
 4. •Panic Disorder*
-5. •Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa®)*
+5. •Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa®)
 
 * Not approved for use in children
-
-Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
-However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 Talk to your healthcare provider if you do not think that your condition is getting better with fluoxetine capsule treatment.
 
@@ -170,9 +166,10 @@ Before starting fluoxetine capsules, tell your healthcare provider if you:
 1. •Are taking certain drugs or treatments such as:
    1. •Triptans used to treat migraine headache
    2. •Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
-   3. •Tramadol and fentanyl
-   4. •Over-the-counter supplements such as tryptophan or St. John's Wort
-   5. •Electroconvulsive therapy (ECT)
+   3. •Amphetamines
+   4. •Tramadol and fentanyl
+   5. •Over-the-counter supplements such as tryptophan or St. John's Wort
+   6. •Electroconvulsive therapy (ECT)
 2. •have liver problems
 3. •have kidney problems
 4. •have heart problems

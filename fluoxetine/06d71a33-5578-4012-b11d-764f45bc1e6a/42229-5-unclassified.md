@@ -91,15 +91,15 @@ All brand names listed are the registered trademarks of their respective owners 
 
 Manufactured In Czech Republic By:
 
-TEVA Czech Industries, s.r.o.
+Teva Czech Industries, s.r.o.
 
 Opava-Komarov, Czech Republic
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-H 1/2016
+I 1/2017
