@@ -12,7 +12,7 @@ Bupropion is a racemic mixture.
 The pharmacologic activity and pharmacokinetics of the individual enantiomers have not been studied.
 
 Following chronic dosing, the mean steady-state plasma concentration of bupropion was reached within 8 days.
-The mean elimination half-life (±SD) of bupropion 21 (±9) hours.
+The mean elimination half-life (±SD) of bupropion was 21 (±9) hours.
 
 In a study comparing 14-day dosing with bupropion hydrochloride extended-release tablets (XL), 300 mg once-daily to the immediate-release formulation of bupropion at 100 mg 3 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the three metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion).
 Additionally, in a study comparing 14-day dosing with bupropion hydrochloride extended-release tablets (XL) 300 mg once daily to the sustained-release formulation of bupropion at 150 mg 2 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the three metabolites.
@@ -139,13 +139,11 @@ Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these
 
 #### Potential for Bupropion Hydrochloride Extended-Release Tablets (XL) to Affect Other Drugs
 
-Potential for Bupropion Hydrochloride Extended-Release Tablets (XL) to Affect Other Drugs
-
 Animal data indicated that bupropion may be an inducer of drug-metabolizing enzymes in humans.
 In a study of 8 healthy male volunteers, following a 14-day administration of bupropion 100 mg three times per day, there was no evidence of induction of its own metabolism.
 Nevertheless, there may be the potential for clinically important alterations of blood levels of coadministered drugs.
 
-​Drugs Metabolized by CYP2D6
+Drugs Metabolized by CYP2D6
 
 In vitro, bupropion and hydroxybupropion are CYP2D6 inhibitors.
 In a clinical study of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion given as 150 mg twice daily followed by a single dose of 50 mg desipramine increased the Cmax, AUC, and T½ of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.

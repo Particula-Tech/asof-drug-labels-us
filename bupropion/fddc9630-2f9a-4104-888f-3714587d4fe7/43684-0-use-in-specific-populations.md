@@ -65,7 +65,7 @@ Because elderly patients are more likely to have decreased renal function, it ma
 
 ## 8.6 Renal Impairment
 
-Consider a reduced dose and/or dosing frequency of bupropion hydrochloride extended-release tablets (XL) in patients with renal impairment (Glomerular Filtration Rate: <90 mL/min).
+Consider a reduced dose and/or dosing frequency of bupropion hydrochloride extended-release tablets (XL) in patients with renal impairment (Glomerular Filtration Rate: less than 90 mL/min).
 Bupropion and its metabolites are cleared renally and may accumulate in such patients to a greater extent than usual.
 Monitor closely for adverse reactions that could indicate high bupropion or metabolite exposures [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
 

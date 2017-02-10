@@ -15,8 +15,7 @@ Inducers of CYP2B6
 Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
 Dosage increase of bupropion hydrochloride extended-release tablets (XL) may be necessary when coadministered with ritonavir, lopinavir, or efavirenz but should not exceed the maximum recommended dose [see Clinical Pharmacology (12.3)].
 
-Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce metabolism of bupropion and may decrease bupropion exposure.
-[see Clinical Pharmacology (12.3)].
+Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
 If bupropion is used concomitantly with a CYP inducer, it may be necessary to increase the dose of bupropion but the maximum recommended dose should not be exceeded.
 
 ## 7.2 Potential for Bupropion Hydrochloride Extended-Release Tablets (XL) to Affect Other Drugs

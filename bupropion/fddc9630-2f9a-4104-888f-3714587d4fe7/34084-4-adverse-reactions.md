@@ -8,7 +8,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Hypertension [see Warnings and Precautions (5.4)]
 - Activation of mania or hypomania [see Warnings and Precautions (5.5)]
 - Psychosis and other neuropsychiatric events [see Warnings and Precautions (5.6)]
-- Angle Closure Glaucoma [see Warnings and Precautions (5.7)]
+- Angle-Closure Glaucoma [see Warnings and Precautions (5.7)]
 - Hypersensitivity reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience

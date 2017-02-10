@@ -44,7 +44,7 @@ In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider re
 
 ## 2.7 Dose Adjustment in Patients with Renal Impairment
 
-Consider reducing the dose and/or frequency of WELLBUTRIN in patients with renal impairment (Glomerular Filtration Rate <90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Consider reducing the dose and/or frequency of bupropion hydrochloride extended-release tablets (XL) in patients with renal impairment (Glomerular Filtration Rate less than 90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.8 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
@@ -60,7 +60,6 @@ In a patient who requires more urgent treatment of a psychiatric condition, non-
 In some cases, a patient already receiving therapy with bupropion hydrochloride extended-release tablets (XL) may require urgent treatment with linezolid or intravenous methylene blue.
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of hypertensive reactions in a particular patient, bupropion hydrochloride extended-release tablets (XL) should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
-
 Therapy with bupropion hydrochloride extended-release tablets (XL) may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
 
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with bupropion hydrochloride extended-release tablets (XL) is unclear.

@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Bupropion Hydrochloride Extended-Release Tablets (XL)
+Bupropion (byoo PRO pee on) Hydrochloride Extended-Release Tablets (XL)
 
 Read this Medication Guide carefully before you start using bupropion hydrochloride extended-release tablets (XL) and each time you get a refill.
 There may be new information.
@@ -114,7 +114,7 @@ Do not take any other medicines while you are taking bupropion hydrochloride ext
 If you have a seizure while taking bupropion hydrochloride extended- release tablets (XL), stop taking the tablets and call your healthcare provider right away.
 Do not take bupropion hydrochloride extended-release tablets (XL) again if you have a seizure.
 
-- High blood pressure (hypertension): Some people get high blood pressure, that can be severe, while taking bupropion hydrochloride extended-release tablets (XL).
+- High blood pressure (hypertension): Some people get high blood pressure that can be severe, while taking bupropion hydrochloride extended-release tablets (XL).
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking.
 - Manic episodes: Some people may have periods of mania while taking bupropion hydrochloride extended-release tablets (XL), including:
   - greatly increased energy
@@ -180,7 +180,7 @@ Tell your healthcare provider about your other medical conditions including if y
 - abuse prescription medicines or street drugs.
 - are pregnant or plan to become pregnant.
 - are breastfeeding.
-  Bupropion hydrochloride extended-release tablets (XL) passes into your milk in small amounts.
+  Bupropion hydrochloride passes into your milk in small amounts.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Many medicines increase your chances of having seizures or cause other serious side effects if you take them while you are taking bupropion hydrochloride extended-release tablets (XL).
@@ -195,8 +195,8 @@ How should I take bupropion hydrochloride extended-release tablets (XL)?
 - If you miss a dose, do not take an extra tablet to make up for the dose you missed.
   Wait and take your next tablet at the regular time.
   This is very important.
-  Too much bupropion hydrochloride extended-release tablets (XL) can increase your chance of having a seizure.
-- If you take too much bupropion hydrochloride extended-release tablets (XL), or overdose, call your local emergency room or poison control center right away.
+  Too many bupropion hydrochloride extended-release tablets (XL) can increase your chance of having a seizure.
+- If you take too many bupropion hydrochloride extended-release tablets (XL), or overdose, call your local emergency room or poison control center right away.
 - Do not take any other medicines while using bupropion hydrochloride extended-release tablets (XL) unless your healthcare provider has told you it is okay.
 - If you are taking bupropion hydrochloride extended-release tablets (XL) for the treatment of major depressive disorder, it may take several weeks for you to feel that bupropion hydrochloride extended-release tablets (XL) are working.
   Once you feel better, it is important to keep taking bupropion hydrochloride extended-release tablets (XL) exactly as directed by your healthcare provider.
@@ -214,7 +214,7 @@ What should I avoid while taking bupropion hydrochloride extended-release tablet
 
 What are the possible side effects of bupropion hydrochloride extended-release tablets (XL)?
 
-See "What is the most important information I should know about bupropion hydrochloride extended-release tablets (XL)?"
+See "What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?"
 
 Bupropion hydrochloride extended-release tablets (XL) may cause serious side effects, including:
 
@@ -247,9 +247,11 @@ You may also report side effects to Impax Laboratories, Inc., at 1-800-934-6729.
 
 How should I store bupropion hydrochloride extended-release tablets (XL)?
 
-- Store bupropion hydrochloride extended-release tablets (XL) at room temperature between 59°F and 86°F (15°C to 30°C).
-- Keep bupropion hydrochloride extended-release tablets (XL) dry and out of light.
-- Keep bupropion hydrochloride extended-release tablets (XL) and all medicines out of the reach of children.
+Store bupropion hydrochloride extended-release tablets (XL) at room temperature between 59°F and 86°F (15°C to 30°C).
+
+Keep bupropion hydrochloride extended-release tablets (XL) dry and out of light.
+
+Keep bupropion hydrochloride extended-release tablets (XL) and all medicines out of the reach of children.
 
 General information about bupropion hydrochloride extended-release tablets (XL)
 
@@ -264,6 +266,8 @@ This Medication Guide summarizes the most important information about bupropion 
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about bupropion hydrochloride extended-release tablets (XL) that is written for healthcare professionals.
 
+For more information about bupropion hydrochloride extended-release tablets (XL), call Impax Laboratories, Inc., at 1-800-934-6729.
+
 What are the ingredients in bupropion hydrochloride extended-release tablets (XL)?
 
 Active ingredient: bupropion hydrochloride
@@ -274,12 +278,7 @@ This product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic ty
 Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin sensitivity.
 
 ZYBAN®, WELLBUTRIN®, and WELLBUTRIN SR® are registered trademarks of GlaxoSmithKline.
-
-Nardil® is a registered trademark of Parke Davis.
-
-Parnate® is a registered trademark of GlaxoSmithKline.
-
-Marplan® is a registered trademark of Oxford Pharmaceutical Services.
+All other product/brand names are the trademarks of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -287,5 +286,5 @@ Rx only
 
 Dist. by: Impax Generics Hayward, CA 94544
 
-662-15 Rev.
-10/2016
+662-16 Rev.
+01/2017

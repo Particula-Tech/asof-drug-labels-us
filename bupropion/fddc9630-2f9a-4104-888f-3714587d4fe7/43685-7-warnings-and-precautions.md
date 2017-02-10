@@ -6,7 +6,7 @@ Patients with major depressive disorder (MDD), both adult and pediatric, may exp
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
 
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) show that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (Selective Serotonin Reuptake Inhibitors [SSRIs] and others) show that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
@@ -36,7 +36,6 @@ However, there is substantial evidence from placebo-controlled maintenance trial
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases [see Boxed Warning and Use in Specific Populations (8.4)].
 
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
-
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
@@ -62,7 +61,6 @@ Bupropion hydrochloride extended-release tablets (XL) can cause seizure.
 The risk of seizure is dose-related.
 The dose should not exceed 300 mg once daily.
 Increase the dose gradually.
-
 Discontinue bupropion hydrochloride extended-release tablets (XL) and do not restart treatment if the patient experiences a seizure.
 
 The risk of seizures is also related to patient factors, clinical situations, and concomitant medications that lower the seizure threshold.
@@ -83,6 +81,7 @@ The risk of seizure can be reduced if the bupropion hydrochloride extended-relea
 ## 5.4 Hypertension
 
 Treatment with bupropion hydrochloride extended-release tablets (XL) can result in elevated blood pressure and hypertension.
+
 Assess blood pressure before initiating treatment with bupropion hydrochloride extended-release tablets (XL), and monitor periodically during treatment.
 The risk of hypertension is increased if bupropion hydrochloride extended-release tablets (XL) are used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity [see Contraindications (4)].
 
@@ -123,7 +122,7 @@ Discontinue bupropion hydrochloride extended-release tablets (XL) if these react
 
 ## 5.7 Angle-Closure Glaucoma
 
-Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including bupropion hydrochloride extended-release tablets (XL) may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including bupropion hydrochloride extended-release tablets (XL) may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.8 Hypersensitivity Reactions
 
