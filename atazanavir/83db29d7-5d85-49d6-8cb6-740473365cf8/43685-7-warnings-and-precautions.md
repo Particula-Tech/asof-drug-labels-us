@@ -6,13 +6,11 @@ Atazanavir prolongs the PR interval of the electrocardiogram in some patients.
 In healthy volunteers and in patients, abnormalities in atrioventricular (AV) conduction were asymptomatic and generally limited to first-degree AV block.
 There have been reports of second-degree AV block and other conduction abnormalities [see Adverse Reactions (6.2) and Overdosage (10)].
 In clinical trials of atazanavir that included electrocardiograms, asymptomatic first-degree AV block was observed in 6% of atazanavir-treated patients (n=920) and 5% of patients (n=118) treated with atazanavir coadministered with ritonavir.
-Because of limited clinical experience in patients with preexisting conduction system disease (e.g., marked first-degree AV block or second- or third-degree AV block), consider ECG monitoring in these patients.
-[See Clinical Pharmacology (12.2).]
+Because of limited clinical experience in patients with preexisting conduction system disease (e.g., marked first-degree AV block or second- or third-degree AV block), consider ECG monitoring in these patients [see Clinical Pharmacology (12.2)].
 
 ## 5.2 Severe Skin Reactions
 
-Cases of Stevens-Johnson syndrome, erythema multiforme, and toxic skin eruptions, including drug rash, eosinophilia and systemic symptoms (DRESS) syndrome, have been reported in patients receiving atazanavir.
-[See Contraindications (4) and Adverse Reactions (6.1).]
+Cases of Stevens-Johnson syndrome, erythema multiforme, and toxic skin eruptions, including drug rash, eosinophilia and systemic symptoms (DRESS) syndrome, have been reported in patients receiving atazanavir [see Contraindications (4) and Adverse Reactions (6.1)].
 EVOTAZ should be discontinued if severe rash develops.
 
 Mild-to-moderate maculopapular skin eruptions have also been reported in atazanavir clinical trials.
@@ -23,7 +21,7 @@ These reactions had a median time to onset of 7.3 weeks and median duration of 1
 Cobicistat decreases estimated creatinine clearance due to inhibition of tubular secretion of creatinine without affecting actual renal glomerular function.
 This effect should be considered when interpreting changes in estimated creatinine clearance in patients initiating EVOTAZ, particularly in patients with medical conditions or receiving drugs needing monitoring with estimated creatinine clearance.
 
-Prior to initiating therapy with EVOTAZ, assess estimated creatinine clearance [see Dosage and Administration (2.2)].
+Prior to initiating therapy with EVOTAZ, assess estimated creatinine clearance [see Dosage and Administration (2.1)].
 Dosage recommendations are not available for drugs that require dosage adjustments in cobicistat-treated patients with renal impairment [see Adverse Reactions (6.1), Drug Interactions (7.3), and Clinical Pharmacology (12.2)].
 Consider alternative medications that do not require dosage adjustments in patients with renal impairment.
 
@@ -38,9 +36,10 @@ Therefore, coadministration of EVOTAZ and tenofovir DF is not recommended in pat
 - •Measure serum phosphorus in patients at risk for renal impairment.
 - •Coadministration of EVOTAZ and tenofovir DF in combination with concomitant or recent use of a nephrotoxic agent is not recommended.
 
-In the clinical trials over 48 weeks (N=771), six (1.5%) subjects treated with atazanavir coadministered with cobicistat and tenofovir DF discontinued study drug due to a renal adverse event, five of which had laboratory findings consistent with proximal renal tubulopathy.
-None of the five subjects had renal impairment at baseline (e.g., estimated creatinine clearance less than 70 mL/min).
-The laboratory findings in these five subjects with evidence of proximal tubulopathy improved but did not completely resolve in all subjects upon discontinuation of cobicistat coadministered with atazanavir and tenofovir DF.
+In a clinical trial over 144 weeks (N=692), 10 (2.9%) subjects treated with atazanavir coadministered with cobicistat and tenofovir DF and 11 (3.2%) subjects treated with atazanavir coadministered with ritonavir and tenofovir DF discontinued study drug due to a renal adverse event.
+Seven of the 10 subjects (2.0% overall) in the cobicistat group had laboratory findings consistent with proximal renal tubulopathy leading to study drug discontinuation, compared to 7 of 11 subjects (2.0% overall) in the ritonavir group.
+One subject in the cobicistat group had renal impairment at baseline (e.g., estimated creatinine clearance less than 70 mL/min).
+The laboratory findings in these 7 subjects with evidence of proximal tubulopathy improved but did not completely resolve in all subjects upon discontinuation of cobicistat coadministered with atazanavir and tenofovir DF.
 Renal replacement therapy was not required in any subject.
 
 ## 5.5 Nephrolithiasis and Cholelithiasis
@@ -48,25 +47,27 @@ Renal replacement therapy was not required in any subject.
 Cases of nephrolithiasis and/or cholelithiasis have been reported during postmarketing surveillance in HIV-infected patients receiving atazanavir therapy.
 Some patients required hospitalization for additional management and some had complications.
 Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made.
-If signs or symptoms of nephrolithiasis and/or cholelithiasis occur, temporary interruption or discontinuation of therapy may be considered.
-[See Adverse Reactions (6.1, 6.2).]
+If signs or symptoms of nephrolithiasis and/or cholelithiasis occur, temporary interruption or discontinuation of therapy may be considered [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.6 Hepatotoxicity
 
 Patients with underlying hepatitis B or C viral infections or marked elevations in transaminases may be at increased risk for developing further transaminase elevations or hepatic decompensation.
-In these patients, hepatic laboratory testing should be conducted prior to initiating therapy with EVOTAZ and during treatment.
-[See Dosage and Administration (2.4) and Use in Specific Populations (8.7).]
+In these patients, hepatic laboratory testing should be conducted prior to initiating therapy with EVOTAZ and during treatment [see Dosage and Administration (2.4) and Use in Specific Populations (8.7)].
 
 ## 5.7 Risk of Serious Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
 Initiation of EVOTAZ, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving EVOTAZ, may increase plasma concentrations of medications metabolized by CYP3A.
 
 Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of EVOTAZ, respectively.
-These interactions may lead to:
 
-1. • clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from greater exposures of concomitant medications.
-2. • clinically significant adverse reactions from greater exposures of EVOTAZ.
-3. • loss of therapeutic effect of EVOTAZ and possible development of resistance.
+Increased concentrations of EVOTAZ may lead to:
+
+1. • clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from higher exposures of concomitant medications.
+2. • clinically significant adverse reactions from higher exposures of EVOTAZ.
+
+Decreased concentrations of EVOTAZ may lead to:
+
+1. • loss of therapeutic effect of EVOTAZ and possible development of resistance.
 
 See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during EVOTAZ therapy; review concomitant medications during EVOTAZ therapy; and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4) and Drug Interactions (7)].
@@ -78,8 +79,6 @@ Complex or unknown mechanisms of drug interactions preclude extrapolation of dru
 
 EVOTAZ is not recommended in combination with other antiretroviral drugs that require CYP3A inhibition to achieve adequate exposures (e.g., other HIV protease inhibitors or elvitegravir) because dosing recommendations for such combinations have not been established and coadministration may result in decreased plasma concentrations of the antiretroviral agents, leading to loss of therapeutic effect and development of resistance.
 
-EVOTAZ is not recommended in combination with products containing the individual components of EVOTAZ (atazanavir or cobicistat).
-
 EVOTAZ is not recommended in combination with ritonavir or products containing ritonavir due to similar effects of cobicistat and ritonavir on CYP3A.
 
 See Drug Interactions (7) for additional recommendations on use with other antiretroviral agents.
@@ -90,8 +89,7 @@ Most patients taking atazanavir experience asymptomatic elevations in indirect (
 This hyperbilirubinemia is reversible upon discontinuation of atazanavir.
 Hepatic transaminase elevations that occur with hyperbilirubinemia should be evaluated for alternative etiologies.
 No long-term safety data are available for patients experiencing persistent elevations in total bilirubin greater than 5 times the upper limit of normal (ULN).
-Alternative antiretroviral therapy to EVOTAZ may be considered if jaundice or scleral icterus associated with bilirubin elevations presents cosmetic concerns for patients.
-[See Adverse Reactions (6.2).]
+Alternative antiretroviral therapy to EVOTAZ may be considered if jaundice or scleral icterus associated with bilirubin elevations presents cosmetic concerns for patients [see Adverse Reactions (6)].
 
 ## 5.10 Immune Reconstitution Syndrome
 

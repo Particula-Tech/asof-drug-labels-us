@@ -2,92 +2,75 @@
 
 ## 12.1 Mechanism of Action
 
-EVOTAZ is a fixed-dose combination of the HIV-1 antiretroviral drug, atazanavir and the CYP3A inhibitor, cobicistat.
-[See Microbiology (12.4).]
+EVOTAZ is a fixed-dose combination of the HIV-1 antiretroviral drug, atazanavir and the CYP3A inhibitor, cobicistat [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
 ### Cardiac Electrophysiology
 
-Atazanavir: The effect of atazanavir 400 mg and 800 mg without a CYP3A inhibitor on QTc interval was evaluated in a randomized, multiple-dose, placebo-controlled three-period crossover QT study in 72 healthy subjects.
-At a dose of 800 mg, atazanavir did not prolong the QTc interval to any clinically relevant extent.
-Prolongation of the PR interval was noted in subjects receiving atazanavir in the same study.
-The mean (±SD) maximum change in PR interval from the predose value was 24 (±15) msec for atazanavir 400 mg (n=65) compared to 13 (±11) msec for placebo (n=67).
-The PR interval prolongations in this study were asymptomatic.
+Atazanavir: In a thorough QT/QTc study in 72 healthy subjects, atazanavir 400 mg and 800 mg (Cmax was 1.2 times and 2.4 times the Cmax observed with the recommended dosage of EVOTAZ, respectively) without a CYP3A inhibitor did not prolong the QTc interval to any clinically relevant extent.
+Asymptomatic prolongation of the PR interval was noted in subjects receiving atazanavir.
+The mean (±SD) maximum change in PR interval from the predose for atazanavir 400 mg (n=65), atazanavir 800 mg (n=66), and placebo (n=67) was 24 (±15) msec, 60 (±25) msec, and 13 (±11) msec, respectively.
 Steady state atazanavir exposures (Cmax and AUCtau) observed in this healthy volunteer study exceeded those observed in patients treated with atazanavir coadministered with cobicistat.
-There is limited information on the potential for a pharmacodynamic interaction in humans between atazanavir and other drugs that prolong the PR interval of the electrocardiogram.
-[See Warnings and Precautions (5.1).]
+There is limited information on the potential for a pharmacodynamic interaction in humans between atazanavir and other drugs that prolong the PR interval of the electrocardiogram [see Warnings and Precautions (5.1)].
 
-In 1793 HIV-infected patients receiving antiretroviral regimens, QTc prolongation was comparable in the atazanavir and comparator regimens.
-No atazanavir-treated healthy subject or HIV-infected patient in clinical trials had a QTc interval >500 msec.
-[See Warnings and Precautions (5.1).]
+In 1793 HIV-infected patients receiving antiretroviral regimens, QTc prolongation was comparable in the atazanavir-containing and comparator regimens.
+No atazanavir-treated healthy subject or HIV-infected patient in clinical trials had a QTc interval >500 msec [see Warnings and Precautions (5.1)].
 
-Cobicistat: The effect of cobicistat 250 mg (1.7 times the dose in EVOTAZ) and 400 mg (2.7 times the dose in EVOTAZ) on QTc interval was evaluated in a randomized, single-dose, placebo- and active-controlled (moxifloxacin 400 mg) four-period crossover thorough QT study in 48 healthy subjects.
-At a dose 2.7 times the dose in EVOTAZ, cobicistat did not prolong QTc interval to any clinically relevant extent.
-Prolongation of the PR interval was noted in subjects receiving cobicistat in the same study.
-The maximum mean (95% upper confidence bound) difference in PR from placebo after baseline-correction was 9.5 (12.1) msec for 250 mg and 20.2 (22.8) msec for 400 mg dose of cobicistat.
+Cobicistat: In a thorough QT/QTc study in 48 healthy subjects, cobicistat 250 mg (1.7 times the recommended dosage in EVOTAZ) and 400 mg (2.7 times the recommended dosage in EVOTAZ) did not prolong the QTc interval to any clinically relevant extent.
+Asymptomatic prolongation of the PR interval was noted in subjects receiving cobicistat.
+The maximum mean (95% upper confidence bound) difference in PR from placebo after baseline correction was 9.5 (12.1) msec for 250 mg and 20.2 (22.8) msec for 400 mg dose of cobicistat.
 
 ### Effects on Serum Creatinine
 
 The effect of cobicistat on serum creatinine was investigated in a trial in subjects with normal renal function (eGFR ≥80 mL/min, N=12) and mild-to-moderate renal impairment (eGFR 50-79 mL/min, N=18).
 A statistically significant change in estimated glomerular filtration rate, calculated by Cockcroft-Gault method (eGFRCG) from baseline, was observed after 7 days of treatment with cobicistat 150 mg among subjects with normal renal function (−9.9 ± 13.1 mL/min) and mild-to-moderate renal impairment (−11.9 ± 7.0 mL/min).
 No statistically significant changes in eGFRCG were observed compared to baseline for subjects with normal renal function or mild-to-moderate renal impairment 7 days after cobicistat was discontinued.
-The actual glomerular filtration rate, as determined by the clearance of probe drug iohexol, was not altered from baseline following treatment of cobicistat among subjects with normal renal function and mild-to-moderate renal impairment, indicating that cobicistat inhibits tubular secretion of creatinine, reflected as a reduction in eGFRCG, without affecting the actual glomerular filtration rate [see Warnings and Precautions (5.3)].
+The actual glomerular filtration rate, as determined by the clearance of probe drug iohexol, was not altered from baseline following treatment with cobicistat among subjects with normal renal function and mild-to-moderate renal impairment, indicating that cobicistat inhibits tubular secretion of creatinine, reflected as a reduction in eGFRCG, without affecting the actual glomerular filtration rate [see Warnings and Precautions (5.3)].
 
 ## 12.3 Pharmacokinetics
 
-One EVOTAZ tablet provided comparable atazanavir exposures (90% confidence intervals within 80%-125%) to one atazanavir capsule (300 mg) plus one cobicistat tablet (150 mg) following single-dose administration with a light meal to healthy subjects (N=62).
+Absorption, Distribution, Metabolism, and Excretion
 
-The activity of cobicistat as a CYP3A inhibitor to increase the systemic exposures of atazanavir was evaluated in the pharmacokinetic substudy (N=48) of Study 114 in which HIV-1 infected subjects received atazanavir 300 mg coadministered with cobicistat 150 mg or atazanavir 300 mg coadministered with ritonavir 100 mg, both in combination with emtricitabine/tenofovir DF.
-The steady-state pharmacokinetic parameters of atazanavir coadministered with cobicistat were comparable to those observed with ritonavir as shown in Table 6 [see Clinical Studies (14)].
+The pharmacokinetic (PK) properties of the components of EVOTAZ (atazanavir 300 mg and cobicistat 150 mg) were evaluated in healthy adult volunteers.
+Results are summarized in Table 6.
 
-Table 6: Pharmacokinetic Parameters (Mean ± SD) of Atazanavir in the Pharmacokinetic Sub-study of Study 114
-
-| Parameter | Atazanavir coadministered with cobicistat and emtricitabine/tenofovir DF (n=22) | Atazanavir coadministered with ritonavir and emtricitabine/tenofovir DF (n=26) |
+|  | Atazanavir | Cobicistat |
 | --- | --- | --- |
-| AUC (µg•h/mL) | 46.13 ± 26.18 | 47.59 ± 24.38 |
-| Cmax (µg/mL) | 3.91 ± 1.94 | 4.76 ± 1.94 |
-| Ctau (µg/mL) | 0.80 ± 0.72 | 0.85 ± 0.72 |
+| Table 6: Pharmacokinetic Properties of the Components of EVOTAZ |  |  |
+| Absorption |  |  |
+| Tmax (h) | 2.0 | 2.0 |
+| Effect of light meal (relative to fasting) AUC ratiob | 1.28 (1.17,1.40) | 1.24 (1.15,1.34) |
+| Effect of high fat meal (relative to fasting) AUC ratiob | 0.96 (0.81,1.13) | 1.12 (1.01,1.23) |
+| Effect of light meal (relative to fasting) C24 ratiob | 1.35 (1.22,1.50) | ND |
+| Effect of high fat meal (relative to fasting) C24 ratiob | 1.23 (1.02,1.48) | ND |
+| Distribution |  |  |
+| % Bound to human plasma proteins | 86 | ~98 |
+| Source of protein binding data | In vitro | In vitro |
+| Blood-to-plasma ratio | ND | 0.5 |
+| Metabolism |  |  |
+| Metabolism | CYP3A (major) Glucuronidation, N-dealkylation, hydrolysis, oxygenation with dehydrogenation (minor) | CYP3A (major) CYP2D6 (minor) |
+| Elimination |  |  |
+| Major route of elimination | Metabolism | Metabolism |
+| t1/2 (h) | 7.2a | 3.5 |
+| % Of dose excreted in urine | ND | 8.2c |
+| % Of dose excreted in feces | ND | 86.2c |
+| a Following EVOTAZ dosing under fasted conditions. b Values refer to geometric mean ratio (fed / fasted) and (90% confidence interval). c Dosing in mass balance study: cobicistat (single dose administration of [14C] cobicistat after multiple dosing of cobicistat for six days). ND = not determined. |  |  |
 
-### Absorption
+The pharmacokinetics of atazanavir was evaluated in HIV-1 infected subjects who received atazanavir 300 mg coadministered with cobicistat 150 mg in combination with emtricitabine/tenofovir DF.
+The steady-state pharmacokinetic parameters of atazanavir coadministered with cobicistat are shown in Table 7 [see Clinical Studies (14)].
 
-Atazanavir: Atazanavir is rapidly absorbed with a median Tmax of approximately 3.5 hours following multiple daily doses of atazanavir 300 mg with cobicistat 150 mg in HIV-infected subjects.
+Table 7: Pharmacokinetic Parameters (Mean ± SD) of Atazanavir in the Pharmacokinetic Substudy of Study 114
 
-Cobicistat: In a trial where subjects were instructed to take coadministered atazanavir and cobicistat with food, the median cobicistat Tmax was approximately 3.0 hours post-dose.
-Steady-state cobicistat Cmax, AUCtau, and Ctau (mean ± SD), values were 1.5 ± 0.5 μg/mL, 11.1 ± 4.5 μg•hr/mL, and 0.05 ± 0.07 μg/mL, respectively (n=22).
-
-### Food Effect
-
-Administration of a single dose of EVOTAZ with a light meal (336 kcal, 5.1 g fat, 9.3 g protein) resulted in a 42% increase in atazanavir Cmax, a 28% increase in atazanavir AUC, a 31% increase in cobicistat Cmax, and a 24% increase in cobicistat AUC relative to the fasting state.
-Administration of a single dose of EVOTAZ with a high fat meal (1,038 kcal, 59 g fat, 37 g protein) resulted in a 14% reduction in atazanavir Cmax with no change in atazanavir AUC or cobicistat exposures (Cmax, AUC) relative to the fasting state.
-The 24-hour atazanavir concentration following a high fat meal was increased by approximately 23% due to delayed absorption; the median Tmax increased from 2.0 to 3.5 hours.
-
-### Distribution
-
-Atazanavir: Atazanavir is 86% bound to human serum proteins and protein binding is independent of concentration.
-
-Cobicistat: Cobicistat is 97% to 98% bound to human plasma proteins and the mean blood-to-plasma ratio was approximately 0.5.
-
-### Metabolism
-
-Atazanavir: Atazanavir is extensively metabolized in humans by CYP3A.
-Other minor biotransformation pathways for atazanavir or its metabolites consisted of glucuronidation, N-dealkylation, hydrolysis, and oxygenation with dehydrogenation.
-
-Cobicistat: Cobicistat is metabolized by CYP3A and to a minor extent by CYP2D6 enzymes and does not undergo glucuronidation.
-
-### Elimination
-
-Atazanavir: The mean elimination half-life of atazanavir in healthy volunteers (n=62) and HIV-infected adult patients (n=13) was approximately 7.5 hours at steady state following a single dose of EVOTAZ with a light meal.
-
-Cobicistat: The median terminal plasma half-life of cobicistat following administration is approximately 3 to 4 hours.
-With single dose administration of [14C] cobicistat after multiple dosing of cobicistat for six days, 86.2% and 8.2% of the administered dose was excreted in feces and urine, respectively.
+| Parameter | Atazanavir coadministered with cobicistat and emtricitabine/tenofovir DF (n=22) |  |
+| --- | --- | --- |
+| AUC (µg•h/mL) | 46.13 ± 26.18 |  |
+| Cmax (µg/mL) | 3.91 ± 1.94 |  |
+| Ctau (µg/mL) | 0.80 ± 0.72 |  |
 
 ### Specific Populations
 
 #### Renal Impairment
-
-EVOTAZ is not recommended for use in HIV-treatment-experienced adults with end-stage renal disease managed with hemodialysis.
-[See Dosage and Administration (2.3).]
 
 Atazanavir: In healthy subjects, the renal elimination of unchanged atazanavir was approximately 7% of the administered dose.
 Atazanavir has been studied in adult subjects with severe renal impairment (n=20), including those on hemodialysis, at multiple doses of 400 mg once daily.
@@ -97,21 +80,18 @@ When atazanavir was administered either prior to, or following hemodialysis (n=1
 The mechanism of this decrease is unknown.
 
 Cobicistat: A study of the pharmacokinetics of cobicistat was performed in non−HIV-1 infected subjects with severe renal impairment (estimated creatinine clearance below 30 mL/min).
-No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with severe renal impairment and healthy subjects.
-[See Use in Specific Populations (8.6).]
+No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with severe renal impairment and healthy subjects [see Use in Specific Populations (8.6)].
 
 #### Hepatic Impairment
 
-EVOTAZ has not been studied in patients with hepatic impairment and is not recommended for use in patients with hepatic impairment.
-[See Dosage and Administration (2.4).]
+EVOTAZ has not been studied in patients with hepatic impairment.
 
 Atazanavir: Atazanavir is primarily metabolized and eliminated by the liver.
 Increased concentrations of atazanavir are expected in patients with moderately or severely impaired hepatic function.
 
 Cobicistat: Cobicistat is primarily metabolized and eliminated by the liver.
 No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects.
-The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of cobicistat has not been studied.
-[See Use in Specific Populations (8.7).]
+The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of cobicistat has not been studied [see Use in Specific Populations (8.7)].
 
 #### Gender and Age
 
@@ -127,20 +107,19 @@ In a multiple-dose study, atazanavir decreased the urinary ratio of endogenous 6
 Drug interaction studies were not conducted for EVOTAZ or for atazanavir coadministered with cobicistat.
 Drug interaction studies of cobicistat were conducted with desipramine, digoxin, and efavirenz.
 Drug interaction studies of cobicistat coadministered with elvitegravir included rosuvastatin and rifabutin.
-The effects of cobicistat on the exposure of coadministered drugs are summarized in Table 7.
-For information regarding clinical recommendations, see Drug Interactions (7).
+The effects of cobicistat on the exposure of coadministered drugs are summarized in Table 8.
+For information regarding clinical recommendations, [see Drug Interactions (7)].
 
-Table 7: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of Cobicistata
+Table 8: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of Cobicistata
 
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+| Note: The information listed below is not a comprehensive list of all the available drug interaction data for concomitant medications with cobicistat-containing regimens. Please refer to the U.S. prescribing information for antiretroviral medications administered in combination with cobicistat for additional drug interaction information. |  |  |  |  |  |
 | Coadministered Drug | Coadministered Drug Dose/Schedule | Cobicistat Dose/Schedule | Ratio (90% Confidence Interval) of Coadministered Drug Pharmacokinetic Parameters with/without cobicistat; No Effect = 1.00 |  |  |
 | desipramine | 50 mg single dose (n=8) | 150 mg QD (n=8) | 1.24 (1.08, 1.44) | 1.65 (1.36, 2.02) | NC |
 | digoxin | 0.5 mg single dose (n=22) | 150 mg QD (n=22) | 1.41 (1.29, 1.55) | 1.08 (1.00, 1.17) | NC |
 | efavirenz | 600 mg single dose (n=17) | 150 mg QD (n=17) | 0.87(0.80, 0.94) | 0.93(0.89, 0.97) | NC |
-| rifabutin | 150 mg once every other day (n=12) | 150 mg QDb (n=12) | 1.09 (0.98, 1.20)c25-O-desacetyl-rifabutin4.84c (4.09, 5.74) | 0.92 (0.83, 1.03)c25-O-desacetyl-rifabutin6.25c (5.08, 7.69) | 0.94 (0.85, 1.04)c25-O-desacetyl-rifabutin4.94c (4.04, 6.04) |
-| rosuvastatin | 10 mg single dose (n=10) | 150 mg single doseb (n=10) | 1.89 (1.48, 2.42) | 1.38 (1.14, 1.67) | 1.43d (1.08, 1.89) |
-| a All interaction studies conducted in healthy volunteers. b Study was conducted in the presence of 150 mg elvitegravir. c Comparison based on rifabutin 300 mg QD. d parameter is Clast NC = not calculated |  |  |  |  |  |
+| a All interaction studies conducted in healthy volunteers. NC = not calculated |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
@@ -173,10 +152,11 @@ The I50L and I50V substitutions yielded selective resistance to ATV and amprenav
 Clinical Studies: Resistance to EVOTAZ is driven by atazanavir as cobicistat lacks antiviral activity.
 For the complete atazanavir resistance-associated substitutions, refer to the atazanavir full prescribing information.
 
-Clinical Studies of Treatment-Naive Patients Receiving Atazanavir 300 mg Coadministered with Cobicistat 150 mg: In an analysis of treatment-failure subjects who received atazanavir coadministered with cobicistat in Study 114 through Week 48, evaluable genotypic data from paired baseline and treatment-failure isolates were available for 11 of the 12 virologic failures in this group (3%, 11/344).
-Among the 11 subjects, 2 developed the emtricitabine-associated resistance substitution M184V.
-No subject developed the tenofovir-associated resistance substitution K65R or any primary resistance substitution associated with protease inhibitors.
-In the ritonavir group, evaluable genotypic data was available for all 12 virologic failures (3%, 12/348) and no subject had emergent resistance to any component of the regimen.
+Clinical Studies of Treatment-Naive Patients Receiving Atazanavir 300 mg Coadministered with Cobicistat 150 mg: n an analysis of treatment-failure subjects who received atazanavir coadministered with cobicistat in Study 114 through Week 144, evaluable genotypic data from paired baseline and treatment-failure isolates from subjects who had HIV-1 RNA greater than or equal to 400 copies/mL were available for all 21 virologic failures in this group (6%, 21/344).
+Among the 21 subjects, 3 developed the emtricitabine-associated resistance substitution M184V.
+No subject developed the tenofovir-associated resistance substitution K65R or K70E, or any primary resistance substitution associated with protease inhibitors.
+In the ritonavir group, evaluable genotypic data were available for all 19 virologic failures (5%, 19/348).
+Among the 19 subjects, 1 developed the emtricitabine-associated resistance substitution M184V with no tenofovir- or protease inhibitor-associated resistance substitutions.
 
 ### Cross-Resistance
 

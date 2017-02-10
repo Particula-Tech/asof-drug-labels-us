@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-EVOTAZ™ (EV-oh-taz) (atazanavir and cobicistat) tablet
+EVOTAZ® (EV-oh-taz) (atazanavir and cobicistat) tablet
 
 Read this Patient Information before you start taking EVOTAZ and each time you get a refill.
 There may be new information.
@@ -111,9 +111,7 @@ How should I take EVOTAZ?
 - •Do not change your dose or stop taking EVOTAZ without talking to your healthcare provider.
 - •EVOTAZ must be used with other antiretroviral medicines.
 - •Take EVOTAZ 1 time a day with food.
-- •If you miss a dose of EVOTAZ by 12 hours or less, take your missed dose of EVOTAZ right away.
-  Then take your next dose of EVOTAZ at your regularly scheduled time.
-- •If you miss a dose of EVOTAZ by more than 12 hours, wait and then take the next dose of EVOTAZ at your regularly scheduled time.
+- •If you miss a dose of EVOTAZ, take the dose as soon as possible and then return to your normal schedule.
 - •If a dose of EVOTAZ is missed, do not double the next dose.
 - •If you take too much EVOTAZ, call your healthcare provider or go to the nearest hospital emergency room right away.
 
@@ -171,7 +169,7 @@ EVOTAZ can cause serious side effects, including:
   The exact cause and long-term health effects of these conditions are not known.
 - •Increased bleeding problems in people with hemophilia have happened when taking protease inhibitors including EVOTAZ.
 
-The most common side effects of EVOTAZ were yellowing of the skin or whites of the eyes, and nausea.
+The most common side effects of EVOTAZ were yellowing of the skin and rash.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -213,7 +211,9 @@ Manufactured for: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 Product of Canada
 
-1337404A4 3910600 Revised: July 2016
+1337404A5
+
+Revised: January 2017
 
 REYATAZ and EVOTAZ are trademarks of Bristol-Myers Squibb Company.
 Other brands listed are the trademarks of their respective owners and are not trademarks of Bristol-Myers Squibb Company.
