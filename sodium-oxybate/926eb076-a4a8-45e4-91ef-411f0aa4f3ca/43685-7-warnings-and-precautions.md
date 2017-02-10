@@ -65,7 +65,7 @@ In another controlled trial, with patients titrated from an initial 4.5 g per ni
 The emergence of depression in patients treated with Xyrem requires careful and immediate evaluation.
 Patients with a previous history of a depressive illness and/or suicide attempt should be monitored carefully for the emergence of depressive symptoms while taking Xyrem.
 
-## 5.6 Other Behavioral or Psychiatic Adverse Reactions
+## 5.6 Other Behavioral or Psychiatric Adverse Reactions
 
 During clinical trials in narcolepsy, 3% of 781 patients treated with Xyrem experienced confusion, with incidence generally increasing with dose.
 

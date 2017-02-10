@@ -9,5 +9,4 @@ Abuse of GHB, either alone or in combination with other CNS depressants, is asso
 
 Because of the risks of CNS depression, abuse, and misuse, Xyrem is available only through a restricted distribution program called the Xyrem REMS Program, using the central pharmacy that is specially certified.
 Prescribers and patients must enroll in the program.
-For further information go to www.XYREMREMS.com or call 1-866-XYREM88® (1-866-997-3688).
-[see Warnings and Precautions (5.3)].
+For further information go to www.XYREMREMS.com or call 1-866-XYREM88® (1-866-997-3688) [see Warnings and Precautions (5.3)].
