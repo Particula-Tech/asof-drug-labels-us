@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 Parenteral Administration: IM, IV and SC routes may be used if the disease is exceptionally severe or if gastrointestinal absorption may be, or is known to be, impaired.
 

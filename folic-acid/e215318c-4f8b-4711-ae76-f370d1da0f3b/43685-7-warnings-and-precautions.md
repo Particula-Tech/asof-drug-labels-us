@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 WARNING: This product contains aluminum that may be toxic.
 Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired.
@@ -12,6 +12,6 @@ Folic acid alone is improper therapy in the treatment of pernicious anemia and o
 This product contains benzyl alcohol.
 Benzyl alcohol has been reported to be associated with a fatal “Gasping Syndrome” in premature infants.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurological manifestations remain progressive.

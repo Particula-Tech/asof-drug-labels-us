@@ -1,3 +1,3 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 Allergic sensitization has been reported following both oral and parenteral administration of folic acid.

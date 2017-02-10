@@ -1,35 +1,21 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY - Folic Acid 10 mL Vial Label
 
-NDC 63323-184-10
-
-18410
-
 Folic Acid Injection, USP
 
-5 mg/mL
+50 mg per 10 mL (5 mg/mL)
 
-For IM, IV, or SC Use
+For intramuscular, intravenous or subcutaneous use.
 
-10 mL
-
-Rx only
-
-Multiple Dose Vial
+10 mL Multiple Dose Vial Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Folic Acid 10 mL Vial Carton Label
 
-NDC 63323-184-10
-
-18410
-
 Folic Acid Injection, USP
 
-5 mg/mL
+50 mg per 10 mL (5 mg per mL)
 
-For IM, IV, or SC Use
+For intramuscular, intravenous or subcutaneous use.
 
-10 mL
-
-Multiple Dose Vial
+10 mL Multiple Dose Vial
 
 Rx only

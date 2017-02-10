@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Folic Acid Injection, USP is a sterile, nonpyrogenic solution of sodium folate (prepared by the addition of sodium hydroxide to folic acid) in Water for Injection intended for intramuscular (IM), intravenous (IV) or subcutaneous (SC) use.
 
