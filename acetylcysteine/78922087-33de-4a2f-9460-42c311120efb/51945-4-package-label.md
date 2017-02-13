@@ -25,3 +25,21 @@ LEMON MINT FLAVOR
 Contains 20 tablets (ten 2-count blister packs)
 
 Rx Only
+
+# PRINCIPAL DISPLAY PANEL - 2.5 g Tablet Blister Pack Carton - DEMO
+
+NDC 24338-707-04
+
+Cetylev® (acetylcysteine) effervescent tablets for oral solution
+
+2.5 g
+
+FOR DEMONSTRATION USE ONLY
+
+LEMON MINT FLAVOR
+
+Contains 4 tablets (two 2-count blister packs)
+
+Rx Only
+
+CONTAINS ACTIVE DRUG
