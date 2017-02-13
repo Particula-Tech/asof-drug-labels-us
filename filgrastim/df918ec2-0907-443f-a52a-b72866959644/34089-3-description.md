@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Tbo-filgrastim is a non-glycosylated recombinant methionyl human granulocyte colony-stimulating growth factor (r-metHuG-CSF) manufactured by recombinant DNA technology using the bacterium strain E coli K802.
+GRANIX (tbo-filgrastim) is a non-glycosylated recombinant methionyl human granulocyte colony-stimulating growth factor (r-metHuG-CSF) manufactured by recombinant DNA technology using the bacterium strain E coli K802.
 It has a molecular weight of approximately 18.8 kDa and is composed of 175 amino acids.
 The endogenous human G-CSF is glycosylated and does not have the additional methionine amino acid residue in its NH2 terminal end.
 
