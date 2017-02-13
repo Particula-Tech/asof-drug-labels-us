@@ -6,7 +6,8 @@ Initial Treatment
 
 Adult — Initiate fluoxetine 20 mg/day orally in the morning.
 Consider a dose increase after several weeks if insufficient clinical improvement is observed.
-Administer doses above 20 mg/day once daily in the morning or twice daily (i.e., morning and noon).The maximum fluoxetine dose should not exceed 80 mg/day.
+Administer doses above 20 mg/day once daily in the morning or twice daily (i.e., morning and noon).
+The maximum fluoxetine dose should not exceed 80 mg/day.
 
 In controlled trials used to support the efficacy of fluoxetine, patients were administered morning doses ranging from 20 to 80 mg/day.
 Studies comparing fluoxetine 20, 40, and 60 mg/day to placebo indicate that 20 mg/day is sufficient to obtain a satisfactory response in Major Depressive Disorder in most cases [see Clinical Studies (14.1)].
@@ -17,9 +18,7 @@ However, due to higher plasma levels in lower weight children, the starting and 
 Consider a dose increase to 20 mg/day after several weeks if insufficient clinical improvement is observed.
 In the short-term (8 to 9 week) controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Major Depressive Disorder, patients were administered fluoxetine doses of 10 to 20 mg/day [see Clinical Studies (14.1)].
 
-All patients — As with other drugs effective in the treatment of Major Depressive Disorder, the full effect may be
-
-delayed until 4 weeks of treatment or longer.
+All patients — As with other drugs effective in the treatment of Major Depressive Disorder, the full effect may be delayed until 4 weeks of treatment or longer.
 Periodically reassess to determine the need for maintenance treatment.
 
 Switching Patients to a Tricyclic Antidepressant (TCA) — Dosage of a TCA may need to be reduced, and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued [see Warnings and Precautions (5.2) and Drug Interactions (7.7)].
@@ -82,8 +81,10 @@ Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combi
 Safety of coadministration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
 Periodically re-examine the need for continued pharmacotherapy.
 
-Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
-However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Children and adolescents (10 to 17 years of age) — Administer olanzapine and fluoxetine combination once daily in the evening, generally beginning with 2.5 mg of olanzapine and 20 mg of fluoxetine.
+Make dosage adjustments, if indicated, according to efficacy and tolerability.
+Safety of coadministration of doses above 12 mg of olanzapine with 50 mg of fluoxetine has not been evaluated in pediatric clinical studies.
+Periodically re-examine the need for continued pharmacotherapy.
 
 Safety and efficacy of fluoxetine in combination with olanzapine was determined in clinical trials supporting approval of Symbyax (fixed-dose combination of olanzapine and fluoxetine).
 Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
@@ -94,7 +95,7 @@ Table 1: Approximate Dose Correspondence Between SymbyaxSymbyax (olanzapine/fluo
 
 | For Symbyax (mg/day) | Use in Combination |  |
 | --- | --- | --- |
-| Olanzapine (mg/day) | Fluoxetine (mg/day) |  |
+| Olanzapine(mg/day) | Fluoxetine(mg/day) |  |
 | 3 mg olanzapine/25 mg fluoxetine | 2.5 | 20 |
 | 6 mg olanzapine/25 mg fluoxetine | 5 | 20 |
 | 12 mg olanzapine/25 mg fluoxetine | 10 + 2.5 | 20 |

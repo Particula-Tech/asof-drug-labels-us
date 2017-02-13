@@ -26,7 +26,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 ## 17.3 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of fluoxetine and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John’s Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of fluoxetine and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
 
 Patients should be advised of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be cautioned to seek medical care immediately if they experience these symptoms.
@@ -45,7 +45,7 @@ Patients should be advised to call their doctor if they experience any increased
 ## 17.6 Angle-Closure Glaucoma
 
 Patients should be advised that taking fluoxetine can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
-Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Preexisting glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.8)].
 
@@ -87,22 +87,21 @@ Because fluoxetine is excreted in human milk, nursing while taking fluoxetine is
 Pediatric Use of Fluoxetine — Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
-Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
-However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Use of Fluoxetine and olanzapine in combination — Safety and efficacy of fluoxetine and olanzapine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions (5.16) and Use in Specific Populations (8.4)].
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
 Manufactured In Czech Republic By:
 
-TEVA Czech Industries, s.r.o.
+Teva Czech Industries, s.r.o.
 
 Opava-Komarov, Czech Republic
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-AI 10/2014
+AJ 1/2017

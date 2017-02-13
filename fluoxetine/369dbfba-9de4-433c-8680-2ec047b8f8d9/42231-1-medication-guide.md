@@ -2,7 +2,7 @@
 
 FLUOXETINE (floo-OX-e-teen)
 
-CAPSULES USP
+CAPSULES
 
 Read the Medication Guide that comes with fluoxetine capsules before you start taking them and each time you get a refill.
 There may be new information.
@@ -129,10 +129,9 @@ Fluoxetine capsules are used to treat:
 - •Obsessive Compulsive Disorder (OCD)
 - •Bulimia Nervosa*
 - •Panic Disorder*
-- •Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa®)*
+- •Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa®)
 
-* Not approved for use in children Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
-However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+* Not approved for use in children
 
 Talk to your healthcare provider if you do not think that your condition is getting better with fluoxetine capsule treatment.
 
@@ -169,6 +168,7 @@ Before starting fluoxetine capsules, tell your healthcare provider if you:
 - •Are taking certain drugs or treatments such as:
   - •Triptans used to treat migraine headache
   - •Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
+  - •Amphetamines
   - •Tramadol and fentanyl
   - •Over-the-counter supplements such as tryptophan or St. John's Wort
   - •Electroconvulsive therapy (ECT)
@@ -293,15 +293,15 @@ All brand names listed are the registered trademarks of their respective owners 
 
 Manufactured In Czech Republic By:
 
-TEVA Czech Industries, s.r.o.
+Teva Czech Industries, s.r.o.
 
 Opava-Komarov, Czech Republic
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-J 10/2014
+K 1/2017

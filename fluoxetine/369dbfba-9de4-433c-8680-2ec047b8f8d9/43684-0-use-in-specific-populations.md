@@ -4,8 +4,6 @@ When using fluoxetine and olanzapine in combination, also refer to the Use in Sp
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
-
 Pregnancy Category C — Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
 
@@ -54,7 +52,7 @@ The infant’s plasma drug levels were 340 ng/mL of fluoxetine and 208 ng/mL of 
 
 ## 8.4 Pediatric Use
 
-Use of fluoxetine in children —The efficacy of fluoxetine for the treatment of Major Depressive Disorder was demonstrated in two 8 to 9 week placebo-controlled clinical trials with 315 pediatric outpatients ages 8 to ≤ 18 [see Clinical Studies (14.1)].
+Use of fluoxetine in children — The efficacy of fluoxetine for the treatment of Major Depressive Disorder was demonstrated in two 8 to 9 week placebo-controlled clinical trials with 315 pediatric outpatients ages 8 to ≤ 18 [see Clinical Studies (14.1)].
 
 The efficacy of fluoxetine for the treatment of OCD was demonstrated in one 13 week placebo-controlled clinical trial with 103 pediatric outpatients ages 7 to < 18 [see Clinical Studies (14.2)].
 
@@ -79,7 +77,7 @@ Therefore, height and weight should be monitored periodically in pediatric patie
 Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Anyone considering the use of fluoxetine in a child or adolescent must balance the potential risks with the clinical need.
 Animal Data — Significant toxicity on muscle tissue, neurobehavior, reproductive organs, and bone development has been observed following exposure of juvenile rats to fluoxetine from weaning through maturity.
-Oral administration of fluoxetine to rats from weaning postnatal day 21 through adulthood day 90 at 3, 10, or 30 mg/kg/day was associated with testicular degeneration and necrosis, epididymal vacuolation and hypospermia (at 30 mg/kg/day corresponding to plasma exposures [AUC] approximately 5 to 10 times the average AUC in pediatric patients at the MRHD of 20 mg/day), increased serum levels of creatine kinase (at AUC as low as 1 to 2 times the average AUC in pediatric patients at the MRHD of 20mg/day), skeletal muscle degeneration and necrosis, decreased femur length/growth and body weight gain (at AUC 5 to 10 times the average AUC in pediatric patients at the MRHD of 20 mg/day).
+Oral administration of fluoxetine to rats from weaning postnatal day 21 through adulthood day 90 at 3, 10, or 30 mg/kg/day was associated with testicular degeneration and necrosis, epididymal vacuolation and hypospermia (at 30 mg/kg/day corresponding to plasma exposures [AUC] approximately 5 to 10 times the average AUC in pediatric patients at the MRHD of 20 mg/day), increased serum levels of creatine kinase (at AUC as low as 1 to 2 times the average AUC in pediatric patients at the MRHD of 20 mg/day), skeletal muscle degeneration and necrosis, decreased femur length/growth and body weight gain (at AUC 5 to 10 times the average AUC in pediatric patients at the MRHD of 20 mg/day).
 The high dose of 30 mg/kg/day exceeded a maximum tolerated dose.
 When animals were evaluated after a drug-free period (up to 11 weeks after cessation of dosing), fluoxetine was associated with neurobehavioral abnormalities (decreased reactivity at AUC as low as approximately 0.1 to 0.2 times the average AUC in pediatric patients at the MRHD and learning deficit at the high dose), and reproductive functional impairment (decreased mating at all doses and impaired fertility at the high dose).
 In addition, the testicular and epididymal microscopic lesions and decreased sperm concentrations found in high dose group were also observed, indicating that the drug effects on reproductive organs are irreversible.
@@ -90,14 +88,10 @@ Plasma exposures (AUC) to fluoxetine in juvenile rats receiving 3, 10, or 30 mg/
 Rat exposures to the major metabolite, norfluoxetine, are approximately 0.3 to 0.8, 1 to 8, and 3 to 20 times, respectively, the pediatric exposure at the MRHD.
 
 A specific effect on bone development was reported in juvenile mice administered fluoxetine by the intraperitoneal route to 4 week old mice for 4 weeks at doses 0.5 and 2 times the oral MRHD of 20 mg/day on mg/m2 basis.
-There was a decrease in bone mineralization and density at both doses, but the overall growth (body weight gain or femur length) was
+There was a decrease in bone mineralization and density at both doses, but the overall growth (body weight gain or femur length) was not affected.
 
-not affected.
-
+Use of fluoxetine in combination with olanzapine in children and adolescents: Safety and efficacy of fluoxetine and olanzapine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with Bipolar I Disorder.
 Safety and effectiveness of fluoxetine and olanzapine in combination in patients less than 10 years of age have not been established.
-
-Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
-However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 

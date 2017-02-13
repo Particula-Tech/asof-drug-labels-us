@@ -47,14 +47,11 @@ Families and caregivers of patients being treated with antidepressants for Major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for fluoxetine capsules should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
-It should be noted that fluoxetine is approved in the pediatric population for Major Depressive Disorder and Obsessive Compulsive Disorder.
-
-Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
-However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+It should be noted that fluoxetine is approved in the pediatric population for Major Depressive Disorder and Obsessive Compulsive Disorder; and fluoxetine in combination with olanzapine for the acute treatment of depressive episodes associated with Bipolar I Disorder.
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including fluoxetine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including fluoxetine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
@@ -66,7 +63,7 @@ No reports involved the administration of methylene blue by other routes (such a
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking fluoxetine.
 Fluoxetine should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.9, 2.10)].
 
-If concomitant use of fluoxetine with other serotonergic drugs, i.e., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+If concomitant use of fluoxetine with other serotonergic drugs, i.e., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
 Treatment with fluoxetine and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
@@ -179,11 +176,7 @@ Fluoxetine is primarily metabolized by CYP2D6 [see Contraindications (4.2), Drug
 
 Pimozide and thioridazine are contraindicated for use with fluoxetine.
 Avoid the concomitant use of drugs known to prolong the QT interval.
-These include specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine,
-
-mesoridazine, droperidol,); specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin); Class 1A
-
-antiarrhythmic medications (e.g., quinidine, procainamide); Class III antiarrhythmics (e.g., amiodarone, sotalol); and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Drug Interactions (7.7, 7.8) and Clinical Pharmacology (12.3)].
+These include specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, mesoridazine, droperidol,); specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin); Class 1A antiarrhythmic medications (e.g., quinidine, procainamide); Class III antiarrhythmics (e.g., amiodarone, sotalol); and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Drug Interactions (7.7, 7.8) and Clinical Pharmacology (12.3)].
 
 Consider ECG assessment and periodic ECG monitoring if initiating treatment with fluoxetine in patients with risk factors for QT prolongation and ventricular arrhythmia.
 Consider discontinuing fluoxetine and obtaining a cardiac evaluation if patients develop signs or symptoms consistent with ventricular arrhythmia.
