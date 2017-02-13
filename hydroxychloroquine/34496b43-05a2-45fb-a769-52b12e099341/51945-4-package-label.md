@@ -8,7 +8,7 @@ Plaquenil® hydroxychloroquine sulfate tablets, USP 200 mg
 
 KEEP OUT OF THE REACH OF CHILDREN Dispense in a tight, light-resistant container as defined in the USP/NF.
 
-Concordia Pharmaceuticals Inc
+Concordia Pharmaceuticals
 
 Store at room temperature up to 30°C (86°F).
 For indications and dosage, see package insert.
@@ -16,4 +16,4 @@ PHARMACIST: Children are especially sensitive to this medication.
 Tablets should be kept out of their reach.
 
 Mfd. for: Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005 Made in Hungary Rev.
-1_06/15 PLA_BL200_100
+2_02/2017 05621/LBL/1
