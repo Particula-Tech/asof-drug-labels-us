@@ -7,7 +7,7 @@ Ivacaftor has the following structural formula:
 Ivacaftor is a white to off-white powder that is practically insoluble in water (<0.05 microgram/mL).
 
 KALYDECO is available as a light blue, capsule-shaped, film-coated tablet for oral administration containing 150 mg of ivacaftor.
-Each KALYDECO tablet contains 150 mg of ivacaftor and the following inactive ingredients colloidal silicon dioxide, croscarmellose sodium, hypromellose acetate succinate, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulfate.
+Each KALYDECO tablet contains 150 mg of ivacaftor and the following inactive ingredients; colloidal silicon dioxide, croscarmellose sodium, hypromellose acetate succinate, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulfate.
 The tablet film coat contains carnauba wax, FD&C Blue #2, PEG 3350, polyvinyl alcohol, talc, and titanium dioxide.
 The printing ink contains ammonium hydroxide, iron oxide black, propylene glycol, and shellac.
 

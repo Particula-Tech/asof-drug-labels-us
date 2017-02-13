@@ -26,11 +26,11 @@ In a two-part, randomized, double-blind, placebo-controlled, crossover clinical 
 In Trial 4, mean changes in sweat chloride for the mutations for which KALYDECO is indicated ranged from -51 to -8, whereas the range for individual subjects with the G970R mutation was -1 to -11 mmol/L.
 In a randomized, double-blind, placebo-controlled clinical trial in patients with CF who had an R117H mutation in the CFTR gene (Trial 5), the mean baseline sweat chloride for all patients was 70 mmol/L.
 The treatment difference in mean change in sweat chloride from baseline through 24 weeks of treatment was -24 mmol/L (95% CI -28, -20) [see Clinical Studies (14)].
-In an open-label clinical trial in 34 patients ages 2 to less than 6 years administered either 50 mg or 75 mg of ivacaftor twice daily (Trial 6), the mean absolute change from baseline in sweat chloride through 24 weeks of treatment was -45 mmol/L (95% CI -53, -38) [see Pediatric Use (8.4)].
+In an open-label clinical trial in 34 patients ages 2 to less than 6 years administered either 50 mg or 75 mg of ivacaftor twice daily (Trial 6), the mean absolute change from baseline in sweat chloride through 24 weeks of treatment was -45 mmol/L (95% CI -53, -38) [see Use in Specific Populations (8.4)].
 
 There was no direct correlation between decrease in sweat chloride levels and improvement in lung function (FEV1).
 
-ECG Evaluation
+Cardiac Electrophysiology
 
 The effect of multiple doses of ivacaftor 150 mg and 450 mg twice daily on QTc interval was evaluated in a randomized, placebo- and active-controlled (moxifloxacin 400 mg) four-period crossover thorough QT study in 72 healthy subjects.
 In a study with demonstrated ability to detect small effects, the upper bound of the one-sided 95% confidence interval for the largest placebo adjusted, baseline-corrected QTc based on Fridericia's correction method (QTcF) was below 10 ms, the threshold for regulatory concern.
@@ -98,9 +98,9 @@ Pediatric patients 12 to less than 18 years of age
 
 Following oral administration of KALYDECO tablets, 150 mg every 12 hours, the mean (±SD) AUCss was 9240 (3420) ng/mL*h and is similar to the mean AUCss in adult patients administered KALYDECO tablets, 150 mg every 12 hours.
 
-Hepatic impairment
+Patients with Hepatic impairment
 
-Adult subjects with moderately impaired hepatic function (Child-Pugh Class B, score 7 -9) had similar ivacaftor Cmax, but an approximately two-fold increase in ivacaftor AUC0-∞ compared with healthy subjects matched for demographics.
+Adult subjects with moderately impaired hepatic function (Child-Pugh Class B, score 7-9) had similar ivacaftor Cmax, but an approximately two-fold increase in ivacaftor AUC0-∞ compared with healthy subjects matched for demographics.
 Based on simulations of these results, a reduced KALYDECO dose to one tablet or packet of granules once daily is recommended for patients with moderate hepatic impairment.
 The impact of mild hepatic impairment (Child-Pugh Class A) on the pharmacokinetics of ivacaftor has not been studied, but the increase in ivacaftor AUC0-∞ is expected to be less than two-fold.
 Therefore, no dose adjustment is necessary for patients with mild hepatic impairment.
@@ -108,17 +108,17 @@ The impact of severe hepatic impairment (Child-Pugh Class C, score 10-15) on the
 The magnitude of increase in exposure in these patients is unknown, but is expected to be substantially higher than that observed in patients with moderate hepatic impairment.
 When benefits are expected to outweigh the risks, KALYDECO should be used with caution in patients with severe hepatic impairment at a dose of one tablet or one packet of granules given once daily or less frequently [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
 
-Renal impairment
+Patients with Renal impairment
 
 KALYDECO has not been studied in patients with mild, moderate, or severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or in patients with end-stage renal disease.
 No dose adjustments are recommended for mild and moderate renal impairment patients because of minimal elimination of ivacaftor and its metabolites in urine (only 6.6% of total radioactivity was recovered in the urine in a human PK study); however, caution is recommended when administering KALYDECO to patients with severe renal impairment or end-stage renal disease.
 
-Gender
+Male and Female Patients
 
 The effect of gender on KALYDECO pharmacokinetics was evaluated using population pharmacokinetics of data from clinical studies of KALYDECO.
 No dose adjustments are necessary based on gender.
 
-Drug Interactions
+Drug Interaction Studies
 
 Drug interaction studies were performed with KALYDECO and other drugs likely to be co-administered or drugs commonly used as probes for pharmacokinetic interaction studies [see Drug Interactions (7)].
 

@@ -64,7 +64,7 @@ How should I take KALYDECO?
 
 KALYDECO Tablets (ages 6 years and older):
 
-- Always take KALYDECO Tablets with food that contains fat.
+- Always take KALYDECO tablets with food that contains fat.
   Examples of fat-containing foods include eggs, butter, peanut butter, cheese pizza, and whole-milk dairy products such as whole milk, cheese, and yogurt.
 - Each KALYDECO box contains 4 individual blister cards.
 - Each blister card contains 14 pills—7 morning doses and 7 evening doses.
@@ -164,7 +164,7 @@ Active ingredient: ivacaftor
 
 Inactive ingredients:
 
-KALYDECO Tablets: colloidal silicon dioxide, croscarmellose sodium, hypromellose acetate succinate, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulfate.
+KALYDECO Tablets are light blue, film-coated, capsule-shaped tablets for oral administration and contain the following inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose acetate succinate, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulfate.
 
 The tablet film coat contains: carnauba wax, FD&C Blue #2, PEG 3350, polyvinyl alcohol, talc, and titanium dioxide.
 
@@ -176,7 +176,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for: Vertex Pharmaceuticals Incorporated 50 Northern Avenue Boston, MA 02210
 
-Approved March 2015
+Approved February 2017
 
 KALYDECO, VERTEX, and the VERTEX triangle logo are registered trademarks of Vertex Pharmaceuticals Incorporated.
-All other trademarks referenced herein are the property of their respective owners. ©2015 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-07
+All other trademarks referenced herein are the property of their respective owners. ©2017 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-08

@@ -7,7 +7,7 @@ Examples include eggs, butter, peanut butter, cheese pizza, whole-milk dairy pro
 
 ## 2.2 Dosing Information in Adults and Children Ages 6 Years and Older
 
-The recommended dose of KALYDECO for both adults and pediatric patients age 6 years and older is one 150 mg tablet taken orally every 12 hours (300 mg total daily dose) with fat-containing food [see Dosage and Administration (2.1)].
+The recommended dose of KALYDECO for both adults and pediatric patients ages 6 years and older is one 150 mg tablet taken orally every 12 hours (300 mg total daily dose) with fat-containing food [see Dosage and Administration (2.1)].
 
 ## 2.3 Dosing Information in Pediatric Patients Ages 2 to less than 6 Years
 

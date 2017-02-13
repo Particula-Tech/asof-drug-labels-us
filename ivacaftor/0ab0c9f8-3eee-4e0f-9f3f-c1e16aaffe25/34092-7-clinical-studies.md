@@ -24,7 +24,7 @@ The use of inhaled hypertonic saline was not permitted.
 The primary efficacy endpoint in both studies was improvement in lung function as determined by the mean absolute change from baseline in percent predicted pre-dose FEV1 through 24 weeks of treatment.
 
 In both studies, treatment with KALYDECO resulted in a significant improvement in FEV1.
-The treatment difference between KALYDECO and placebo for the mean absolute change in percent predicted FEV1 from baseline through Week 24 was 10.6 percentage points (P < 0.0001) in Trial 1 and 12.5 percentage points (P < 0.0001) in Trial 2 (Figure 3).
+The treatment difference between KALYDECO and placebo for the mean absolute change in percent predicted FEV1 from baseline through Week 24 was 10.6 percentage points (P<0.0001) in Trial 1 and 12.5 percentage points (P<0.0001) in Trial 2 (Figure 3).
 These changes persisted through 48 weeks.
 Improvements in percent predicted FEV1 were observed regardless of age, disease severity, sex, and geographic region.
 
@@ -144,4 +144,4 @@ The use of inhaled hypertonic saline was not permitted.
 
 The primary endpoint was improvement in lung function as determined by the mean absolute change from baseline through Week 16 in percent predicted FEV1.
 Treatment with KALYDECO resulted in no improvement in FEV1 relative to placebo in patients with CF homozygous for the F508del mutation in the CFTR gene [mean absolute change from baseline through Week 16 in percent predicted FEV1 was 1.5% and -0.2% for patients in the KALYDECO and placebo-treated groups, respectively (P=0.15)].
-There were no meaningful differences between patients treated with KALYDECO compared to placebo for secondary endpoints (change in CF symptoms, change in weight, or change in sweat chloride concentration [see Pharmacodynamics (12.2)]).
+There were no meaningful differences between patients treated with KALYDECO compared to placebo for secondary endpoints (change in CF symptoms, change in weight, or change in sweat chloride concentration [see Clinical Pharmacology (12.2)].

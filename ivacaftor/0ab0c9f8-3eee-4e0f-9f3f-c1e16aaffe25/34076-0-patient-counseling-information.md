@@ -19,7 +19,7 @@ Food containing grapefruit or Seville oranges should be avoided [see Drug Intera
 Use in Patients with Hepatic Impairment
 
 Inquire and/or assess whether patients have liver impairment.
-Reduce the dose of KALYDECO in patients with moderately impaired hepatic function (Child-Pugh Class B, score 7 -9) to one tablet or one packet of granules once daily.
+Reduce the dose of KALYDECO in patients with moderately impaired hepatic function (Child-Pugh Class B, score 7-9) to one tablet or one packet of granules once daily.
 KALYDECO has not been studied in patients with severe hepatic impairment (Child-Pugh Class C, score 10-15); however, exposure is expected to be substantially higher than that observed in patients with moderate hepatic impairment.
 When benefits are expected to outweigh the risks, KALYDECO should be used with caution in patients with severe hepatic impairment at a dose of one tablet or one packet of granules given once daily or less frequently.
 No dose adjustment is recommended for patients with mild hepatic impairment (Child-Pugh Class A, score 5-6) [see Use in Specific Populations (8.6)].
@@ -28,7 +28,7 @@ Administration
 
 KALYDECO® (ivacaftor) tablets 150 mg
 
-Inform patients that KALYDECO is best absorbed by the body when taken with food that contains fat.
+Inform patients that KALYDECO tablet is best absorbed by the body when taken with food that contains fat.
 A typical CF diet will satisfy this requirement.
 Examples include eggs, butter, peanut butter, cheese pizza, whole-milk dairy products (such as whole milk, cheese, and yogurt),etc.
 

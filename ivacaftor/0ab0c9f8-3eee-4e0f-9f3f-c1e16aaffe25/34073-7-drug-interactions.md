@@ -29,7 +29,7 @@ Potential for ivacaftor to affect other drugs
 ## 7.4 CYP3A and/or P-gp Substrates
 
 Ivacaftor and its M1 metabolite have the potential to inhibit CYP3A and P-gp.
-Co-administration with midazolam, a sensitive CYP3A substrate, increased midazolam exposure 1.5-fold, consistent with weak inhibition of CYP3A by ivacaftor.
+Co-administration with oral midazolam, a sensitive CYP3A substrate, increased midazolam exposure 1.5-fold, consistent with weak inhibition of CYP3A by ivacaftor.
 Co-administration with digoxin, a sensitive P-gp substrate, increased digoxin exposure by 1.3-fold, consistent with weak inhibition of P-gp by ivacaftor.
 Administration of KALYDECO may increase systemic exposure of drugs that are substrates of CYP3A and/or P-gp, which may increase or prolong their therapeutic effect and adverse events.
 Therefore, caution and appropriate monitoring are recommended when co-administering KALYDECO with sensitive CYP3A and/or P-gp substrates, such as digoxin, cyclosporine, and tacrolimus [see Clinical Pharmacology (12.3)].
