@@ -20,6 +20,7 @@ Advise patients and caregivers of the importance of having blood tested as follo
 
 - Clozapine is available only from certified pharmacies participating in the program.
 Provide patients (and caregivers) with website information and the telephone number on how to obtain the product.
+(www.clozapinerems.com or 1-844-267-8678) [see Warnings and Precautions (5.2)].
 
 - Orthostatic Hypotension, Bradycardia, and Syncope: Inform patients and caregivers about the risk of orthostatic hypotension and syncope, especially during the period of initial dose titration.
   Instruct them to strictly follow the clinician’s instructions for dosage and administration.
@@ -30,7 +31,7 @@ Provide patients (and caregivers) with website information and the telephone num
 
 - QT Interval Prolongation: Advise patients to consult their clinician immediately if they feel faint, lose consciousness or have signs or symptoms suggestive of arrhythmia.
   Instruct patients to not take clozapine with other drugs that cause QT interval prolongation.
-  Instruct patients to inform their clinicians that they are taking clozapine before any new drug [see Warnings and Precautions (5.8.) and Drug Interactions (7.1)].
+  Instruct patients to inform their clinicians that they are taking clozapine before any new drug [see Warnings and Precautions (5.8) and Drug Interactions (7.1)].
 
 - Metabolic Changes (hyperglycemia and diabetes mellitus, dyslipidemia, weight gain): Educate patients and caregivers about the risk of metabolic changes and the need for specific monitoring.
   The risks include hyperglycemia and diabetes mellitus, dyslipidemia, weight gain, and cardiovascular reactions.
@@ -44,18 +45,16 @@ Provide patients (and caregivers) with website information and the telephone num
 
 - Missed Doses and Re-initiating Treatment: Inform patients and caregivers that if the patient misses taking clozapine for more than 2 days, they should not restart their medication at the same dosage but should contact their physician for dosing instructions [see Dosage and Administration (2.5) and Warnings and Precautions (5.1, 5.3)].
 
-- Pregnancy: Patients and caregivers should notify the clinician if the patient becomes pregnant or intends to become pregnant during therapy.
-  [see Use in Specific Populations (8.1)]
+- Pregnancy: Patients and caregivers should notify the clinician if the patient becomes pregnant or intends to become pregnant during therapy [see Use in Specific Populations (8.1)].
 
-- Nursing: Advice patients and caregivers that the patient should not breast feed an infant if they are taking clozapine.
-  [see Use in Specific Populations (8.3)]
+- Nursing: Advise patients and caregivers that the patient should not breastfeed an infant if they are taking clozapine [see Use in Specific Populations (8.3)].
 
-- Concomitant Medication: Advise patients to inform their health care provider if they are taking, or plan to take, any prescription or over-the-counter drugs; there is a potential for significant drug-drug interactions [see Dosage and Administrations (2.6), Drug Interactions (7.1), and Table 1].
+- Concomitant Medication: Advise patients to inform their healthcare provider if they are taking, or plan to take, any prescription or over-the-counter drugs; there is a potential for significant drug-drug interactions [see Dosage and Administration (2.6), Drug Interactions (7.1), and Table 1].
 
 *Zyprexa® (olanzapine) is a registered trademark of Eli Lilly and Company.
 
 **Trademark of Thomson Healthcare, Inc.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) 509302, India
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India
 
-Issued: January 2016
+Revised: 02/2017

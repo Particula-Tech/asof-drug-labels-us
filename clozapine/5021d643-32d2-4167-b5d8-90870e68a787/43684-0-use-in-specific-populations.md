@@ -14,7 +14,7 @@ The severity of complications can vary from self-limited symptoms to some neonat
 Animal Data In embryofetal developmental studies, clozapine had no effects on maternal parameters, litter sizes, or fetal parameters when administered orally to pregnant rats and rabbits during the period of organogenesis at doses up to 0.4 and 0.9 times, respectively, the MRHD of 900 mg/day on a mg/m2 body surface area basis.
 In peri/postnatal developmental studies, pregnant female rats were administered clozapine over the last third of pregnancy and until day 21 postpartum.
 Observations were made on fetuses at birth and during the postnatal period; the offspring were allowed to reach sexual maturity and mated.
-Clozapine caused a decrease in maternal body weight but had no effects on litter size or body weights of either F1or F2 generations at doses up to 0.4 times the MRHD of 900 mg/day on a mg/m2 body surface area basis.
+Clozapine caused a decrease in maternal body weight but had no effects on litter size or body weights of either F1 or F2 generations at doses up to 0.4 times the MRHD of 900 mg/day on a mg/m2 body surface area basis.
 
 ## 8.3 Nursing Mothers
 

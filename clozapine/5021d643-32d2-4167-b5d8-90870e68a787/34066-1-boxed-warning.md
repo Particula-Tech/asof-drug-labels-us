@@ -17,7 +17,7 @@ Orthostatic hypotension, bradycardia, syncope, and cardiac arrest have occurred 
 The risk is highest during the initial titration period, particularly with rapid dose escalation.
 These reactions can occur with the first dose, with doses as low as 12.5 mg per day.
 Initiate treatment at 12.5 mg once or twice daily; titrate slowly; and use divided dosages.
-Use clozapine cautiously in patients with cardiovascular or cerebrovascular disease or conditions predisposing to hypotension (e.g., dehydration, use of antihypertensive medications) [see Dosage and Administration (2.2, and 2.5) and Warnings and Precautions (5.3)].
+Use clozapine cautiously in patients with cardiovascular or cerebrovascular disease or conditions predisposing to hypotension (e.g., dehydration, use of antihypertensive medications) [see Dosage and Administration (2.2, 2.5), Warnings and Precautions (5.3)].
 
 Seizures
 
@@ -27,7 +27,7 @@ Initiate treatment at 12.5 mg, titrate gradually, and use divided dosing.
 Use caution when administering clozapine to patients with a history of seizures or other predisposing risk factors for seizure (CNS pathology, medications that lower the seizure threshold, alcohol abuse).
 Caution patients about engaging in any activity where sudden loss of consciousness could cause serious risk to themselves or others [see Dosage and Administration (2.2), Warnings and Precautions (5.4)].
 
-Myocarditis and Cardiomyopathy
+Myocarditis, Cardiomyopathy and Mitral Valve Incompetence
 
 Fatal myocarditis and cardiomyopathy have occurred with clozapine treatment.
 Discontinue clozapine and obtain a cardiac evaluation upon suspicion of these reactions.

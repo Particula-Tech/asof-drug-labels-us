@@ -9,25 +9,25 @@ Patients must have had a baseline score of at least 45 on the investigator-rated
 On the 18-item BPRS, 1 indicates the absence of symptoms, and 7 indicates severe symptoms; the maximum potential total BPRS score is 126.
 At baseline, the mean BPRS score was 61.
 In addition, patients must have had a score of at least 4 on at least two of the following four individual BPRS items: conceptual disorganization, suspiciousness, hallucinatory behavior, and unusual thought content.
-Patients must have had a Clinical Global Impressions – Severity Scale score of at least 4 (moderately ill).
+Patients must have had a Clinical Global Impressions–Severity Scale score of at least 4 (moderately ill).
 In the prospective, lead-in phase of the trial, all patients (N=305) initially received single-blind treatment with haloperidol (the mean dose was 61 mg per day) for 6 weeks.
 More than 80% of patients completed the 6-week trial.
 Patients with an inadequate response to haloperidol (n=268) were randomized to double-blind treatment with clozapine (N=126) or chlorpromazine (N=142).
-The maximum daily clozapine dose was 900 mg; the mean daily dose was > 600 mg).
-The maximum daily chlorpromazine dose was 1800 mg; the mean daily dose was > 1200 mg.
-The primary endpoint was treatment response, predefined as a decrease in BPRS score of at least 20% and either (1) a CGI-S score of ≤ 3 (mildly ill), or (2) a BPRS score of ≤ 35, at the end of 6 weeks of treatment.
+The maximum daily clozapine dose was 900 mg; the mean daily dose was >600 mg.
+The maximum daily chlorpromazine dose was 1800 mg; the mean daily dose was >1200 mg.
+The primary endpoint was treatment response, predefined as a decrease in BPRS score of at least 20% and either (1) a CGI-S score of ≤3 (mildly ill), or (2) a BPRS score of ≤35, at the end of 6 weeks of treatment.
 Approximately 88% of patients from the clozapine and chlorpromazine groups completed the 6-week trial.
-At the end of six weeks, 30% of the clozapine group responded to treatment, and 4% of the chlorpromazine group responded to treatment.
-The difference was statistically significant (p < 0.001).
+At the end of 6 weeks, 30% of the clozapine group responded to treatment, and 4% of the chlorpromazine group responded to treatment.
+The difference was statistically significant (p <0.001).
 The mean change in total BPRS score was -16 and -5 in the clozapine and chlorpromazine group, respectively; the mean change in the 4 key BPRS item scores was -5 and -2 in the clozapine and chlorpromazine group, respectively; and the mean change in CGI-S score was -1.2 and -0.4, in the clozapine and chlorpromazine group, respectively.
-These changes in the clozapine group were statistically significantly greater than in the chlorpromazine group (p< 0.001 in each analysis).
+These changes in the clozapine group were statistically significantly greater than in the chlorpromazine group (p<0.001 in each analysis).
 
 ## 14.2 Recurrent Suicidal Behavior in Schizophrenia or Schizoaffective Disorder
 
 The effectiveness of clozapine in reducing the risk of recurrent suicidal behavior was assessed in the International Suicide Prevention Trial (InterSePT™, a trademark of Novartis Pharmaceuticals Corporation).
-This was a prospective, randomized, open-label, active-controlled, multicenter, international, parallel-group comparison of clozapine versus olanzapine (Zyprexa®, a registered trademark of Eli Lilly and Company) in 956 patients with schizophrenia or schizoaffective disorder (DSM-IV) who were judged to be at risk for recurrent suicidal behavior.
+This was a prospective, randomized, open-label, active-controlled, multicenter, international, parallel-group comparison of clozapine versus olanzapine (*Zyprexa®, a registered trademark of Eli Lilly and Company) in 956 patients with schizophrenia or schizoaffective disorder (DSM-IV) who were judged to be at risk for recurrent suicidal behavior.
 Only about one-fourth of these patients (27%) were considered resistant to standard antipsychotic drug treatment.
-To enter the trial, patients must have met one of the following criteria:
+To enter the trial, patients must have met 1 of the following criteria:
 
 - They had attempted suicide within the three years prior to their baseline evaluation.
 - They had been hospitalized to prevent a suicide attempt within the three years prior to their baseline evaluation.

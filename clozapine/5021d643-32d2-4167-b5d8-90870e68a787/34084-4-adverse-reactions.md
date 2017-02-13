@@ -5,7 +5,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - Severe Neutropenia [see Warnings and Precautions (5.1)].
 - Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)].
 - Seizures [see Warnings and Precautions (5.4)].
-- Myocarditis and Cardiomyopathy [see Warnings and Precautions (5.5)].
+- Myocarditis, Cardiomyopathy and Mitral Valve Incompetence [see Warnings and Precautions (5.5)].
 - Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.6)].
 - Eosinophilia [see Warnings and Precautions (5.7)].
 - QT Interval Prolongation [see Warnings and Precautions (5.8)].
@@ -17,8 +17,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.14)].
 - Tardive Dyskinesia [see Warnings and Precautions (5.15)].
 - Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.16)].
-
-Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.17)].
+- Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.17)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -30,7 +29,7 @@ Table 9 summarizes the most commonly reported adverse reactions (≥5%) in cloza
 Table 9.
 Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-controlled Trial in Treatment-Resistant Schizophrenia
 
-| Adverse Reaction | Clozapine (N = 126) (%) | Chlorpromazine (N = 142) (%) |
+| Adverse Reaction | Clozapine (N=126) (%) | Chlorpromazine (N=142) (%) |
 | --- | --- | --- |
 | Sedation | 21 | 13 |
 | Tachycardia | 17 | 11 |
@@ -48,9 +47,9 @@ Table 10 summarizes the adverse reactions reported in clozapine-treated patients
 These rates are not adjusted for duration of exposure.
 
 Table 10.
-Adverse Reactions (≥ 2%) Reported in Clozapine-treated Patients (N=842) across all Clozapine Studies (excluding the 2-year InterSePTTM Study)
+Adverse Reactions (≥2%) Reported in Clozapine-treated Patients (N=842) Across all Clozapine Studies (excluding the 2-year InterSePTTM Study)
 
-| Body System Adverse Reaction* | Clozapine N = 842 Percentage of Patients |
+| Body System Adverse Reaction* | Clozapine N=842 Percentage of Patients |
 | --- | --- |
 | Central Nervous System |  |
 | Drowsiness/Sedation | 39 |
@@ -93,7 +92,7 @@ Adverse Reactions (≥ 2%) Reported in Clozapine-treated Patients (N=842) across
 | Miscellaneous |  |
 | Fever | 5 |
 | Weight Gain | 4 |
-| † Rate based on population of approximately 1700 exposed during premarket clinical evaluation of clozapine. |  |
+| †Rate based on population of approximately 1700 exposed during premarket clinical evaluation of clozapine. |  |
 
 Table 11 summarizes the most commonly reported adverse reactions (≥10% of the clozapine or olanzapine group) in the InterSePT™ Study.
 This was an adequate and well-controlled, two-year study evaluating the efficacy of clozapine relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
@@ -126,15 +125,14 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Central Nervous System Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, and post-discontinuation cholinergic rebound adverse reactions.
 Cardiovascular System
 
-Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolongation, Torsades de Pointes, myocardial infarction, cardiac arrest, and periorbital edema.
-Endocrine System Pseudopheochromocytoma.
-Gastrointestinal System Acute pancreatitis, dysphagia, salivary gland swelling.
+Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, and periorbital edema.
+Endocrine System Pseudopheochromocytoma Gastrointestinal System Acute pancreatitis, dysphagia, salivary gland swelling, colitis.
 Hepatobiliary System Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
 Immune System Disorders Angioedema, leukocytoclastic vasculitis.
 Urogenital System Acute interstitial nephritis, nocturnal enuresis, priapism, renal failure, and retrograde ejaculation.
-Skin and Subcutaneous Tissue Disorders Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, skin pigmentation disorder, and Stevens-Johnson syndrome.
+Skin and Subcutaneous Tissue Disorders Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, skin pigmentation disorder, and Stevens-Johnson Syndrome.
 Musculoskeletal System and Connective Tissue Disorders Myasthenic syndrome, rhabdomyolysis, and systemic lupus erythematosus.
-Respiratory System Aspiration, pleural effusion, pneumonia, lower respiratory tract infection.
-Hemic and Lymphatic System Mild, moderate, or severeleukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep-vein thrombosis, elevated hemoglobin/hematocrit. erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
+Respiratory System Aspiration, pleural effusion, pneumonia, lower respiratory tract infection, sleep apnea.
+Hemic and Lymphatic System Mild, moderate, or severe leukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep-vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
 Vision Disorders Narrow-angle glaucoma.
 Miscellaneous Creatine phosphokinase elevation, hyperuricemia, hyponatremia, and weight loss.

@@ -32,10 +32,10 @@ Table 2: Clozapine Treatment Recommendations Based on Absolute Neutrophil Count 
 | Normal range (≥1500/ µL) | ● Initiate treatment ● If treatment interrupted: - < 30 days, continue monitoring as before - ≥ 30 days, monitor as if new patient | ● Weekly from initiation to 6 months ● Every 2 weeks from 6 to 12 months ● Monthly after 12 months |
 | ● Discontinuation for reasons other than neutropenia | ● See Section 2.4 |  |
 | Mild Neutropenia | ● Continue treatment | ● Three times weekly until |
-| (1000 to 1499/µL)* |  | ANC ≥1500/µL ● Once ANC ≥ 1500/µL, return to patient’s last “Normal Range” ANC monitoring interval** |
-| Moderate Neutropenia (500 to 999/µL)* | ● Recommend hematology consultation ● Interrupt treatment for suspected clozapine induced neutropenia ● Resume treatment once ANC ≥1000/µL | ● Daily until ANC ≥1000/µL, then ● Three times weekly until ANC ≥1500/µL ● Once ANC ≥ 1500/µL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval** |
+| (1000 to 1499/µL)* |  | ANC ≥1500/µL ● Once ANC ≥1500/µL, return to patient’s last “Normal Range” ANC monitoring interval** |
+| Moderate Neutropenia (500 to 999/µL)* | ● Recommend hematology consultation ● Interrupt treatment for suspected clozapine induced neutropenia ● Resume treatment once ANC ≥1000/µL | ● Daily until ANC ≥1000/µL, then ● Three times weekly until ANC ≥1500/µL ● Once ANC ≥1500/µL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval** |
 | Severe Neutropenia | ● Recommend hematology | ● Daily until ANC ≥1000/µL, |
-| (less than 500/µL)* | consultation ● Interrupt treatment for suspected clozapine-induced neutropenia ● Do not rechallenge unless prescriber determines benefits outweigh risks | then ● Three times weekly until ANC ≥ 1500/µL ● If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1500/μL |
+| (less than 500/µL)* | consultation ● Interrupt treatment for suspected clozapine-induced neutropenia ● Do not rechallenge unless prescriber determines benefits outweigh risks | then ● Three times weekly until ANC ≥1500/µL ● If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1500/μL |
 | * Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours ** If clinically appropriate |  |  |
 
 Clozapine Treatment and Monitoring in Patients with Benign Ethnic Neutropenia (see Table 3)
@@ -55,10 +55,10 @@ Table 3: Patients with Benign Ethnic Neutropenia (BEN); Clozapine Treatment Reco
 
 | ANC Level | Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Normal BEN Range (Established ANC baseline ≥ 1000/µL) | ● Obtain at least two baseline ANC levels before initiating treatment ● If treatment interrupted - < 30 days, continue monitoring as before - ≥ 30 days, monitor as if new patient | ● Weekly from initiation to 6 months ● Every 2 weeks from 6 to 12 months ● Monthly after 12 months |
+| Normal BEN Range (Established ANC baseline ≥1000/µL) | ● Obtain at least two baseline ANC levels before initiating treatment ● If treatment interrupted - < 30 days, continue monitoring as before - ≥ 30 days, monitor as if new patient | ● Weekly from initiation to 6 months ● Every 2 weeks from 6 to 12 months ● Monthly after 12 months |
 | ● Discontinuation of treatment for reasons other than neutropenia | ● See Section 2.4 |  |
-| BEN Neutropenia 500 to 999/µL* | ● Recommend hematology consultation ●Continue treatment | ● Three times weekly until ANC ≥ 1000/µL or ≥ patient’s known baseline ● Once ANC ≥ 1000/µL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.** |
-| BEN Severe Neutropenia less than 500/µL* | ● Recommend hematology consultation ● Interrupt treatment for suspected clozapine-induced neutropenia ● Do not rechallenge unless prescriber determines benefits outweigh risks | ● Daily until ANC ≥500/µL, then ●Three times weekly until ANC ≥ patient’s baseline ● If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/µL or at patient’s baseline |
+| BEN Neutropenia 500 to 999/µL* | ● Recommend hematology consultation ● Continue treatment | ● Three times weekly until ANC ≥ 1000/µL or ≥ patient’s known baseline ● Once ANC ≥ 1000/µL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.** |
+| BEN Severe Neutropenia less than 500/µL* | ● Recommend hematology consultation ● Interrupt treatment for suspected clozapine-induced neutropenia ● Do not rechallenge unless prescriber determines benefits outweigh risks | ● Daily until ANC ≥500/µL, then ● Three times weekly until ANC ≥ patient’s baseline ● If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/µL or at patient’s baseline |
 | * Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours ** If clinically appropriate |  |  |
 
 General Guidelines for Management of All Patients with Fever or with Neutropenia
@@ -70,7 +70,7 @@ General Guidelines for Management of All Patients with Fever or with Neutropenia
 
 - Consider hematology consultation.
 
-- See Neuroleptic Malignant Syndrome [NMS] and Fever under WARNINGS and PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
+- See Neuroleptic Malignant Syndrome [NMS] and Fever under WARNINGS AND PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
 
 Rechallenge after an ANC less than 500/µL (severe neutropenia)
 
@@ -84,12 +84,12 @@ Using clozapine with Other Drugs Associated with Neutropenia
 
 It is unclear if concurrent use of other drugs known to cause neutropenia increases the risk or severity of clozapine-induced neutropenia.
 There is no strong scientific rationale to avoid clozapine treatment in patients concurrently treated with these drugs.
-If clozapine is used concurrently with an agent known to cause neutropenia (e.g., some chemotherapeutic agents), consider monitoring patients more closely than the treatment the guidelines provided in Tables 2 and 3.
+If clozapine is used concurrently with an agent known to cause neutropenia (e.g., some chemotherapeutic agents), consider monitoring patients more closely than the treatment guidelines provided in Tables 2 and 3.
 Consult with the treating oncologist in patients receiving concomitant chemotherapy.
 
 ## 5.2 Clozapine REMS Program
 
-Clozapine is only available through a restricted program under a REMS called the clozapine REMS Program because of the risk of severe neutropenia.
+Clozapine is only available through a restricted program under a REMS called the Clozapine REMS Program because of the risk of severe neutropenia.
 
 Notable requirements of the Clozapine REMS Program include:
 
@@ -125,7 +125,7 @@ Initiate treatment with a low dose (12.5 mg), titrate slowly, and use divided do
 Use caution when administering clozapine to patients with a history of seizures or other predisposing risk factors for seizure (e.g., head trauma or other CNS pathology, use of medications that lower the seizure threshold, or alcohol abuse).
 Because of the substantial risk of seizure associated with clozapine use, caution patients about engaging in any activity where sudden loss of consciousness could cause serious risk to themselves or others (e.g., driving an automobile, operating complex machinery, swimming, climbing).
 
-## 5.5 Myocarditis and Cardiomyopathy
+## 5.5 Myocarditis, Cardiomyopathy and Mitral Valve Incompetence
 
 Myocarditis and cardiomyopathy have occurred with the use of clozapine.
 These reactions can be fatal.
@@ -133,26 +133,31 @@ Discontinue clozapine and obtain a cardiac evaluation upon suspicion of myocardi
 Generally, patients with a history of clozapine-associated myocarditis or cardiomyopathy should not be rechallenged with clozapine.
 However, if the benefit of clozapine treatment is judged to outweigh the potential risks of recurrent myocarditis or cardiomyopathy, the clinician may consider rechallenge with clozapine in consultation with a cardiologist, after a complete cardiac evaluation, and under close monitoring.
 Consider the possibility of myocarditis or cardiomyopathy in patients receiving clozapine who present with chest pain, dyspnea, persistent tachycardia at rest, palpitations, fever, flu-like symptoms, hypotension, other signs or symptoms of heart failure, or electrocardiographic findings (low voltages, ST-T abnormalities, arrhythmias, right axis deviation, and poor R wave progression).
-Myocarditis most frequently presents within the first two months of clozapine treatment.
+Myocarditis most frequently presents within the first 2 months of clozapine treatment.
 Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis and usually after 8 weeks of treatment.
 However, myocarditis and cardiomyopathy can occur at any period during treatment with clozapine.
 It is common for nonspecific flu-like symptoms such as malaise, myalgia, pleuritic chest pain, and low-grade fevers to precede more overt signs of heart failure.
 Typical laboratory findings include elevated troponin I or T, elevated creatinine kinase-MB, peripheral eosinophilia, and elevated C-reactive protein (CRP).
 Chest roentgenogram may demonstrate cardiac silhouette enlargement, and cardiac imaging (echocardiogram, radionucleotide studies, or cardiac catheterization) may reveal evidence of left ventricular dysfunction.
+In patients who are diagnosed with cardiomyopathy while taking clozapine mitral valve incompetence has been reported.
+These cases reported either mild or moderate mitral regurgitation on two-dimensional echocardiography.
+In patients with suspected cardiomyopathy, consider a 2D-echo Doppler examination to identify mitral valve incompetence.
 
 ## 5.6 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
-Over the course of a typical 10-week controlled trial, the rate of death in drug- treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
+Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality in this population.
-The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear. clozapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
+The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
+Clozapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
 ## 5.7 Eosinophilia
 
 Eosinophilia, defined as a blood eosinophil count of greater than 700/µL, has occurred with clozapine treatment.
-In clinical trials, approximately 1% of patients developed eosinophilia. clozapine-related eosinophilia usually occurs during the first month of treatment.
+In clinical trials, approximately 1% of patients developed eosinophilia.
+Clozapine-related eosinophilia usually occurs during the first month of treatment.
 In some patients, it has been associated with myocarditis, pancreatitis, hepatitis, colitis, and nephritis.
 Such organ involvement could be consistent with a drug reaction with eosinophilia and systemic symptoms syndrome (DRESS), also known as drug induced hypersensitivity syndrome (DIHS).
 If eosinophilia develops during clozapine treatment, evaluate promptly for signs and symptoms of systemic reactions, such as rash or other allergic symptoms, myocarditis, or other organ-specific disease associated with eosinophilia.
@@ -172,7 +177,7 @@ Prior to initiating treatment with clozapine, perform a careful physical examina
 Consider obtaining a baseline ECG and serum chemistry panel.
 Correct electrolyte abnormalities.
 Discontinue clozapine if the QTc interval exceeds 500 msec.
-If patients experience symptoms consistent with Torsades de Pointes or other arrhythmias, (e.g., syncope, presyncope, dizziness, or palpitations), obtain a cardiac evaluation and discontinue clozapine.
+If patients experience symptoms consistent with Torsades de Pointes or other arrhythmias (e.g., syncope, presyncope, dizziness, or palpitations), obtain a cardiac evaluation and discontinue clozapine.
 Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of clozapine.
 Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmic medications (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus).
 Clozapine is primarily metabolized by CYP isoenzymes 1A2, 2D6, and 3A4.
@@ -201,7 +206,7 @@ Patients with an established diagnosis of diabetes mellitus who are started on c
 Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
-In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
+In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of antidiabetic treatment despite discontinuation of the suspect drug.
 
 In a pooled data analysis of 8 studies in adult subjects with schizophrenia, the mean changes in fasting glucose concentration in the clozapine and chlorpromazine groups were +11 mg/dL and +4 mg/dL respectively.
 A higher proportion of the clozapine group demonstrated categorical increases from baseline in fasting glucose concentrations, compared to the chlorpromazine group (Table 4).
@@ -214,9 +219,9 @@ Categorical Changes in Fasting Glucose Level in Studies in Adult Subjects with S
 
 | Laboratory Parameter | Category Change (at least once) from baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
-| Fasting Glucose | Normal (< 100 mg/dL) to High (≥ 126 mg/dL) | Clozapine | 198 | 53 (27) |
+| Fasting Glucose | Normal (<100 mg/dL) to High (≥126 mg/dL) | Clozapine | 198 | 53 (27) |
 | Chlorpromazine | 135 | 14 (10) |  |  |
-| Borderline 100 to 125 mg/dL) to High (≥ 126 mg/dL) | Clozapine | 57 | 24 (42) |  |
+| Borderline (100 to 125 mg/dL) to High (≥126 mg/dL) | Clozapine | 57 | 24 (42) |  |
 | Chlorpromazine | 43 | 12 (28) |  |  |
 
 Dyslipidemia
@@ -229,7 +234,8 @@ No data were collected on LDL and HDL cholesterol.
 The mean increase in total cholesterol was 13 mg/dL in the clozapine group and 15 mg/dL in the chlorpromazine group.
 In a pooled data analysis of 2 studies in adult subjects with schizophrenia, clozapine treatment was associated with increases in fasting serum triglyceride.
 The mean increase in fasting triglyceride was 71 mg/dL (54%) in the clozapine group and 39 mg/dL (35%) in the chlorpromazine group (Table 5).
-In addition, clozapine treatment was associated with categorical increases in serum total cholesterol and triglyceride, as illustrated in Table 6.The proportion of patients with categorical increases in total cholesterol or fasting triglyceride increased with the duration of exposure.
+In addition, clozapine treatment was associated with categorical increases in serum total cholesterol and triglyceride, as illustrated in Table 6.
+The proportion of patients with categorical increases in total cholesterol or fasting triglyceride increased with the duration of exposure.
 The median duration of clozapine and chlorpromazine exposure was 45 days and 38 days, respectively.
 The clozapine dose range was 100 mg to 900 mg daily; the maximum chlorpromazine dose was 1800 mg daily.
 
@@ -251,15 +257,15 @@ Categorical Changes in Lipid Concentrations in Studies in Adult Subjects with Sc
 | --- | --- | --- | --- | --- |
 | Total Cholesterol (random or fasting) | Increase by ≥40 mg/dL | Clozapine | 334 | 111 (33) |
 | Chlorpromazine | 185 | 46 (25) |  |  |
-| Normal (<200 mg/dL) to High (≥ 240 mg/dL) | Clozapine | 222 | 18 (8) |  |
+| Normal (<200 mg/dL) to High (≥240 mg/dL) | Clozapine | 222 | 18 (8) |  |
 | Chlorpromazine | 132 | 3 (2) |  |  |
-| Borderline (200 to 239 mg/dL) to High (≥ 240 mg/dL) | Clozapine | 79 | 30 (38) |  |
+| Borderline (200 to 239 mg/dL) to High (≥240 mg/dL) | Clozapine | 79 | 30 (38) |  |
 | Chlorpromazine | 34 | 14 (41) |  |  |
 | Triglycerides (fasting) | Increase by ≥ 50 mg/dL | Clozapine | 6 | 3 (50) |
 | Chlorpromazine | 7 | 3 (43) |  |  |
-| Normal (< 150 mg/dL) to High (≥ 200 mg/dL) | Clozapine | 4 | 0 (0) |  |
+| Normal (<150 mg/dL) to High (≥200 mg/dL) | Clozapine | 4 | 0 (0) |  |
 | Chlorpromazine | 6 | 2 (33) |  |  |
-| Borderline (≥ 150 mg/dL and < 200 mg/dL) to High (≥ 200 mg/dL) | Clozapine | 1 | 1 (100) |  |
+| Borderline (≥150 mg/dL and <200 mg/dL) to High (≥200 mg/dL) | Clozapine | 1 | 1 (100) |  |
 | Chlorpromazine | 1 | 0 (0) |  |  |
 
 Weight Gain
@@ -270,28 +276,28 @@ Table 7 summarizes the data on weight gain by the duration of exposure pooled fr
 The median duration of exposure was 609, 728, and 42 days, in the clozapine, olanzapine, and chlorpromazine group, respectively.
 
 Table 7.
-Mean Change in Body Weight (kg) by duration of exposure from studies in adult subjects with schizophrenia
+Mean Change in Body Weight (kg) by Duration of Exposure from Studies in Adult Subjects with Schizophrenia
 
-| Metabolic parameter | Exposure duration | Clozapine (N = 669) |  | Olanzapine (N = 442) |  | Chlorpromazine (N = 155) |  |
+| Metabolic parameter | Exposure duration | Clozapine (N=669) |  | Olanzapine (N=442) |  | Chlorpromazine (N=155) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| n | Mean | N | Mean | n | Mean |  |  |
+| n | Mean | n | Mean | n | Mean |  |  |
 | Weight change from baseline | 2 weeks (Day 11 to 17) | 6 | +0.9 | 3 | +0.7 | 2 | -0.5 |
 | 4 weeks (Day 21 to 35) | 23 | +0.7 | 8 | +0.8 | 17 | +0.6 |  |
 | 8 weeks (Day 49 to 63) | 12 | +1.9 | 13 | +1.8 | 16 | +0.9 |  |
 | 12 weeks (Day 70 to 98) | 17 | +2.8 | 5 | +3.1 | 0 | 0 |  |
-| 24 weeks (Day 154 to 182) | 42 | - 0.6 | 12 | +5.7 | 0 | 0 |  |
+| 24 weeks (Day 154 to 182) | 42 | -0.6 | 12 | +5.7 | 0 | 0 |  |
 | 48 weeks (Day 322 to 350) | 3 | +3.7 | 3 | +13.7 | 0 | 0 |  |
 
-Table 8 summarizes pooled data from 11 studies in adult subjects with schizophrenia demonstrating weight gain ≥ 7% of body weight relative to baseline.
+Table 8 summarizes pooled data from 11 studies in adult subjects with schizophrenia demonstrating weight gain ≥7% of body weight relative to baseline.
 The median duration of exposure was 609, 728, and 42 days, in the clozapine, olanzapine, and chlorpromazine group, respectively.
 
 Table 8.
-Proportion of adult subjects in schizophrenia studies with weight gain ≥7% relative to baseline body weight
+Proportion of Adult Subjects in Schizophrenia Studies with Weight Gain ≥7% Relative to Baseline Body Weight
 
 | Weight change | Clozapine | Olanzapine | Chlorpromazine |
 | --- | --- | --- | --- |
 | N | 669 | 442 | 155 |
-| ≥ 7% (inclusive) | 236 (35%) | 203 (46%) | 13 (8%) |
+| ≥7% (inclusive) | 236 (35%) | 203 (46%) | 13 (8%) |
 
 ## 5.10 Neuroleptic Malignant Syndrome
 
@@ -359,7 +365,8 @@ The effect of symptom suppression on the long-term course of TD is unknown.
 
 In controlled trials, elderly patients with dementia-related psychosis treated with some atypical antipsychotics had an increased risk (compared to placebo) of cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities.
 The mechanism for this increased risk is not known.
-An increased risk cannot be excluded for clozapine or other antipsychotics or other patient populations. clozapine should be used with caution in patients with risk factors for cerebrovascular adverse reactions.
+An increased risk cannot be excluded for clozapine or other antipsychotics or other patient populations.
+Clozapine should be used with caution in patients with risk factors for cerebrovascular adverse reactions.
 
 ## 5.17 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of Clozapine
 

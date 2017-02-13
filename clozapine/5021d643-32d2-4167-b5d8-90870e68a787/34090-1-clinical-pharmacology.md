@@ -19,7 +19,7 @@ In these patients, the onset of REM sleep occurred almost immediately after fall
 
 ## 12.3 Pharmacokinetics
 
-Absorption In man, clozapine tablets (25 mg and 100 mg) are equally bioavailable relative to a clozapine solution.
+Absorption In humans, clozapine tablets (25 mg and 100 mg) are equally bioavailable relative to a clozapine solution.
 Following oral administration of clozapine 100 mg twice daily, the average steady-state peak plasma concentration was 319 ng/mL (range: 102 to 771 ng/mL), occurring at the average of 2.5 hours (range: 1 to 6 hours) after dosing.
 The average minimum concentration at steady state was 122 ng/mL (range: 41 to 343 ng/mL), after 100 mg twice daily dosing.
 Food does not appear to affect the systemic bioavailability of clozapine.
@@ -31,11 +31,11 @@ Clozapine is a substrate for many cytochrome P450 isozymes, in particular CYP1A2
 Approximately 50% of the administered dose is excreted in the urine and 30% in the feces.
 The demethylated, hydroxylated, and N-oxide derivatives are components in both urine and feces.
 Pharmacological testing has shown the desmethyl metabolite (norclozapine) to have only limited activity, while the hydroxylated and N-oxide derivatives were inactive.
-The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to12 hours), compared to a mean elimination half-life of 12 hours (range: 4 to 66 hours), after achieving steady state with 100mg twice daily dosing.
+The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to12 hours), compared to a mean elimination half-life of 12 hours (range: 4 to 66 hours), after achieving steady state with 100 mg twice daily dosing.
 A comparison of single-dose and multiple-dose administration of clozapine demonstrated that the elimination half-life increased significantly after multiple dosing relative to that after single-dose administration, suggesting the possibility of concentration-dependent pharmacokinetics.
 However, at steady state, approximately dose-proportional changes with respect to AUC (area under the curve), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5, 75, and 150 mg twice daily.
 Drug-Drug Interaction Studies Fluvoxamine A pharmacokinetic study was conducted in 16 schizophrenic patients who received clozapine under steady-state conditions.
-After coadministration of fluvoxamine for 14 days, mean trough concentrations of clozapine and its metabolites, N-desmethylclozapine and clozapine N-oxide, were elevated about three-fold compared to baseline steady state concentrations.
+After coadministration of fluvoxamine for 14 days, mean trough concentrations of clozapine and its metabolites, N-desmethylclozapine and clozapine N-oxide, were elevated about three-fold compared to baseline steady-state concentrations.
 Paroxetine, Fluoxetine, and Sertraline In a study of schizophrenic patients (n=14) who received clozapine under steady-state conditions, coadministration of paroxetine produced only minor changes in the levels of clozapine and its metabolites.
 However, other published reports describe modest elevations (less than two-fold) of clozapine and metabolite concentrations when clozapine was taken with paroxetine, fluoxetine, and sertraline.
 Specific Population Studies Renal or Hepatic Impairment No specific pharmacokinetic studies were conducted to investigate the effects of renal or hepatic impairment on the pharmacokinetics of clozapine.
