@@ -44,7 +44,7 @@ Marked first-degree block or progressive development to second- or third-degree 
 In 120 patients with hypertrophic cardiomyopathy (most of them refractory or intolerant to propranolol) who received therapy with verapamil at doses up to 720 mg/day, a variety of serious adverse effects were seen.
 Three patients died in pulmonary edema; all had severe left ventricular outflow obstruction and a past history of left ventricular dysfunction.
 Eight other patients had pulmonary edema and/or severe hypotension; abnormally high (over 20 mmHg) capillary wedge pressure and a marked left ventricular outflow obstruction were present in most of these patients.
-Concomitant administration of quinidine (see Drug Interactions) preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema).
+Concomitant administration of quinidine (see PRECAUTIONS: Drug Interactions) preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema).
 Sinus bradycardia occurred in 11% of the patients, second-degree AV block in 4% and sinus arrest in 2%.
 It must be appreciated that this group of patients had a serious disease with a high mortality rate.
 Most adverse effects responded well to dose reduction and only rarely did verapamil have to be discontinued.
@@ -90,6 +90,11 @@ In vitro metabolic studies indicate that verapamil is metabolized by cytochrome 
 Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.
 Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent telithromycin, and antibiotic in the ketolide class of antibiotics.
 
+#### Ivabradine
+
+Concurrent use of verapamil increases exposure to ivabradine and may exacerbate bradycardia and conduction disturbances.
+Avoid concomitant use of ivabradine and verapamil.
+
 #### HMG-CoA Reductase Inhibitors
 
 The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
@@ -123,7 +128,7 @@ Monitor heart rate in patients receiving concomitant verapamil and clonidine.
 Consider reducing digoxin dose when verapamil and digoxin are to be given together.
 Monitor digoxin level periodically during therapy.
 Chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity.
-In patients with hepatic cirrhosis the influence of verapamil on digoxin kinetics is magnified.
+In patients with hepatic cirrhosis the influence of verapamil on digoxin pharmacokinetics is magnified.
 Verapamil may reduce total body clearance and extrarenal clearance of digoxin by 27% and 29%, respectively.
 If digoxin toxicity is suspected, suspend or discontinue digoxin therapy.
 
@@ -131,7 +136,7 @@ In previous clinical trials with other verapamil formulations related to the con
 
 #### Antihypertensive Agents
 
-Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta-blockers) will usually have an additive effect on lowering blood pressure.
+Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta blockers) will usually have an additive effect on lowering blood pressure.
 Patients receiving these combinations should be appropriately monitored.
 Concomitant use of agents that attenuate alpha-adrenergic function with verapamil may result in reduction in blood pressure that is excessive in some patients.
 Such an effect was observed in one study following the concomitant administration of verapamil and prazosin.
@@ -233,7 +238,7 @@ Effects on male fertility have not been determined.
 
 ## Pregnancy
 
-### Teratatogenic Effects. Pregnancy Category C
+### Pregnancy Category C
 
 Reproduction studies have been performed in rabbits and rats at oral doses up to 1.5 (15 mg/kg/day) and 6 (60 mg/kg/day) times the maximum recommended human daily dose, respectively, and have revealed no evidence of teratogenicity.
 In the rat, however, this multiple of the human dose was embryocidal and retarded fetal growth and development, probably because of adverse maternal effects reflected in reduced weight gains of the dams.

@@ -49,7 +49,7 @@ Nervous System: cerebrovascular accident, confusion, equilibrium disorders, extr
 
 Respiratory: dyspnea.
 
-Skin: arthralgia and rash, exanthema, hair loss, hyperkeratosis, maculae, sweating, urticaria, Stevens-Johnson Syndrome, erythema multiforme.
+Skin: arthralgia and rash, exanthema, hair loss, hyperkeratosis, maculae, sweating, urticaria, Stevens-Johnson syndrome, erythema multiforme.
 
 Special Senses: blurred vision, tinnitus.
 
@@ -61,5 +61,4 @@ The frequency of cardiovascular adverse reactions which require therapy is rare;
 Whenever severe hypotension or complete AV block occurs following oral administration of verapamil, the appropriate emergency measures should be applied immediately, e.g., intravenously administered isoproterenol hydrochloride, levarterenol bitartrate, atropine (all in the usual doses), or calcium gluconate (10% solution).
 In patients with hypertrophic cardiomyopathy (IHSS), alpha-adrenergic agents (phenylephrine, metaraminol bitartrate or methoxamine) should be used to maintain blood pressure, and isoproterenol and levarterenol should be avoided.
 If further support is necessary, inotropic agents (dopamine or dobutamine) may be administered.
-
 Actual treatment and dosage should depend on the severity and the clinical situation and the judgment and experience of the treating physician.

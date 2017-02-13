@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Verapamil Hydrochloride Extended-Release Capsules, USP are available containing 120 mg, 180 mg and 240 mg capsules.
+Verapamil Hydrochloride Extended-Release Capsules, USP are available containing 120 mg, 180 mg or 240 mg of verapamil hydrochloride, USP.
 
 The 120 mg capsule is a bluish green opaque cap/white opaque body, hard-shell gelatin capsule filled with white to off-white beads.
 The capsule is radially printed with MYLAN over 6320 in black ink on both the cap and the body.
@@ -36,4 +36,4 @@ You may report side effects to Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-8
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 10/2016 CVERER:R13
+Revised: 1/2017 CVERER:R14

@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Verapamil Hydrochloride Extended-Release Capsules, USP are a calcium ion influx inhibitor (slow channel blocker or calcium ion antagonist).
+Verapamil hydrochloride extended-release capsules, USP are a calcium ion influx inhibitor (slow channel blocker or calcium ion antagonist).
 Verapamil hydrochloride extended-release capsules are available for oral administration as a 120 mg hard gelatin capsule (bluish green opaque cap and white opaque body), a 180 mg hard gelatin capsule (bluish green opaque cap and light green opaque body) and a 240 mg hard gelatin capsule (bluish green opaque cap and bluish green opaque body).
 These bead filled capsules provide an extended-release of the drug in the gastrointestinal tract.
 The structural formula of verapamil hydrochloride is given below:

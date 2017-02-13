@@ -25,7 +25,7 @@ Verapamil hydrochloride regularly reduces arterial pressure at rest and at a giv
 
 With the immediate-release formulations, more than 90% of the orally administered dose is absorbed, and peak plasma concentrations of verapamil are observed 1 to 2 hours after dosing.
 Because of rapid biotransformation of verapamil during its first pass through the portal circulation, the absolute bioavailability ranges from 20% to 35%.
-Chronic oral administration of the highest recommended dose (120 mg every 6 hours) resulted in plasma verapamil levels ranging from 125 ng/mL to 400 ng/mL with higher values reported occasionally.
+Chronic oral administration of the highest recommended dose (120 mg every 6 hours) resulted in plasma verapamil levels ranging from 125 to 400 ng/mL with higher values reported occasionally.
 A nonlinear correlation between the verapamil hydrochloride dose administered and verapamil plasma levels does exist.
 
 During initial dose titration with verapamil a relationship exists between verapamil plasma concentrations and the prolongation of the PR interval.
@@ -38,7 +38,7 @@ In this same study verapamil hydrochloride extended-release capsules doses of 12
 The ratios of the verapamil and norverapamil AUCs for the verapamil hydrochloride extended-release capsules 120 mg, 240 mg and 360 mg once daily doses are 1 (565 ng•hr/mL):3 (1660 ng•hr/mL):5 (2729 ng•hr/mL) and 1 (621 ng•hr/mL):3 (1614 ng•hr/mL):4 (2535 ng•hr/mL), respectively, indicating that the AUC increased non-proportionately with increasing doses.
 
 Food does not affect the extent or rate of the absorption of verapamil from the controlled release verapamil hydrochloride extended-release capsule.
-The verapamil hydrochloride extended-release capsules 240 mg capsule when administered with food had a Cmax of 77 ng/mL which occurred 9.0 hours after dosing, and an AUC(0-inf) of 1387 ng•hr/mL.
+The verapamil hydrochloride extended-release 240 mg capsule when administered with food had a Cmax of 77 ng/mL which occurred 9.0 hours after dosing, and an AUC(0-inf) of 1387 ng•hr/mL.
 Verapamil hydrochloride extended-release capsules 240 mg under fasting conditions had a Cmax of 77 ng/mL which occurred 9.8 hours after dosing, and an AUC(0-inf) of 1541 ng•hr/mL.
 
 The bioequivalence of verapamil hydrochloride extended-release capsules 240 mg, administered as the beads sprinkled on applesauce and as the intact capsule, was demonstrated in a single-dose, cross-over study in 32 healthy adults.
@@ -46,7 +46,7 @@ Comparative ratios (sprinkled/intact) of verapamil were 0.95, 1.02, and 1.01 for
 When the contents of the verapamil hydrochloride extended-release capsule were administered by sprinkling onto one tablespoonful of applesauce, the rate and extent of verapamil absorption were found to be bioequivalent to the same dose when administered as an intact capsule.
 Similar results were observed with norverapamil.
 
-The time to reach maximum verapamil concentrations (Tmax) with verapamil hydrochloride extended-release capsules have been found to be approximately 7 to 9 hours in each of the single dose (fasting), single dose (fed), the multiple dose (steady-state) studies, and dose proportionality pharmacokinetic studies.
+The time to reach maximum verapamil concentrations (Tmax) with verapamil hydrochloride extended-release capsules have been found to be approximately 7 to 9 hours in each of the single dose (fasting), single dose (fed), the multiple dose (steady-state) studies and dose proportionality pharmacokinetic studies.
 Similarly the apparent half-life (t1/2) has been found to be approximately 12 hours independent of dose.
 Aging may affect the pharmacokinetics of verapamil.
 Elimination half-life may be prolonged in the elderly.

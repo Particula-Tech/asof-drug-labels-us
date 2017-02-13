@@ -25,4 +25,4 @@ Verapamil hydrochloride extended-release bead filled capsules may also be admini
 The applesauce should be swallowed immediately without chewing and followed with a glass of cool water to ensure complete swallowing of the beads.
 The applesauce used should not be hot, and it should be soft enough to be swallowed without chewing.
 Any bead/applesauce mixture should be used immediately and not stored for future use.
-Subdividing the contents of verapamil hydrochloride extended-release capsules are not recommended.
+Subdividing the contents of verapamil hydrochloride extended-release capsules is not recommended.
