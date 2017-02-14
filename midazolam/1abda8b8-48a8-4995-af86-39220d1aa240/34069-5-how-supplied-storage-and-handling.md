@@ -16,7 +16,3 @@ Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
 
 Discard unused portion.
-
-Hospira, Inc., Lake Forest, IL 60045 USA
-
-LAB-0849-1.0 September 2016
