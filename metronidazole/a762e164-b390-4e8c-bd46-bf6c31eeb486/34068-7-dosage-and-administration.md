@@ -1,7 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Each dose of PYLERA is 3 capsules.
-Each dose of all 3 capsules should be taken 4 times a day, after meals and at bedtime for 10 days.
+Administer three PYLERA capsules 4 times a day (after meals and at bedtime) for 10 days.
 One omeprazole 20 mg capsule should be taken twice a day with PYLERA after the morning and evening meal for 10 days (Table 1).
 
 Table 1: Daily Dosing Schedule for PYLERA

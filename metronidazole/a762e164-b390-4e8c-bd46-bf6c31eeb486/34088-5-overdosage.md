@@ -1,4 +1,26 @@
 # 10 OVERDOSAGE
 
 In case of an overdose, patients should contact a physician, poison control center, or emergency room.
-There is neither a pharmacological basis nor data suggesting an increased toxicity of the combination compared to individual components.
+The available overdosage information for each of the individual components in PYLERA (Metronidazole, Tetracycline and Bismuth subcitrate potassium) are summarized below:
+
+Metronidazole:
+
+Single oral doses of metronidazole, up to 15 g, have been reported in suicide attempts and accidental overdoses.
+Symptoms reported include nausea, vomiting, and ataxia.
+Metronidazole is dialyzable.
+
+Oral metronidazole has been studied as a radiation sensitizer in the treatment of malignant tumors.
+Neurotoxic effects, including seizures and peripheral neuropathy, have been reported after 5 to 7 days of doses of 6 to 10.4 g every other day.
+
+Treatment of Overdosage
+
+There is no specific antidote for metronidazole overdose; therefore, management of the patient should consist of symptomatic and supportive therapy.
+
+Tetracycline:
+
+In case of overdosage, discontinue medication, treat symptomatically and institute supportive measures.
+Dialysis does not alter serum half-life and thus would not be of benefit in treating cases of overdosage.
+
+Bismuth subcitrate potassium:
+
+Symptoms of a bismuth subcitrate potassium overdosage are not known.

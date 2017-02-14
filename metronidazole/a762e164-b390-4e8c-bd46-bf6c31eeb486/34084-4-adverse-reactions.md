@@ -18,10 +18,10 @@ Table 2 lists adverse reactions with an incidence of ≥ 1%, in either groups (O
 
 Table 2: Adverse reactions with an incidence of ≥ 1% from North American trial, [n (%)]
 
-| Preferred Term | OBMTOBMT = Omeprazole + PYLERA (n = 147) | OACOAC = Omeprazole + Amoxicillin + Clarithromycin; (n = 152) |
+| Preferred Term | OBMT* (n = 147) | OAC** (n = 152) |
 | --- | --- | --- |
 | Gastrointestinal disorders |  |  |
-| Abnormal fecesDark stools [See Warnings and Precautions (5.7)]. | 23 (15.6%) | 7 (4.6%) |
+| Abnormal feces*** | 23 (15.6%) | 7 (4.6%) |
 | Nausea | 12 (8.2%) | 14 (9.2%) |
 | Diarrhea | 10 (6.8%) | 20 (13.2%) |
 | Abdominal Pain | 7 (4.8%) | 2 (1.3%) |
@@ -48,8 +48,11 @@ Table 2: Adverse reactions with an incidence of ≥ 1% from North American trial
 | Rash Maculo-Papular | 2 (1.4%) | 0 |
 | Rash | 1 (0.7%) | 3 (2.0%) |
 | Pruritus | 0 | 4 (2.6%) |
+| *OBMT = Omeprazole + PYLERA |  |  |
+| **OAC = Omeprazole + Amoxicillin + Clarithromycin; |  |  |
+| *** Dark stools [see Warnings and Precautions (5.8)] |  |  |
 
-Adverse reactions with an incidence of <1% for OBMT group are: back pain, vomiting, tongue darkening [See Warnings and Precautions (5.7)], anxiety, gastritis, gastroenteritis, myalgia, chest pain, increased appetite, blood creatine phosphokinase increased, malaise, somnolence, tachycardia, duodenal ulcer, visual disturbance, weight increased.
+Adverse reactions with an incidence of <1% for OBMT group are: back pain, vomiting, tongue darkening [see Warnings and Precautions (5.8)], anxiety, gastritis, gastroenteritis, myalgia, chest pain, increased appetite, blood creatine phosphokinase increased, malaise, somnolence, tachycardia, duodenal ulcer, visual disturbance, weight increased.
 
 ## 6.2 Postmarketing Experience
 
@@ -58,39 +61,44 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Gastrointestinal disorders: abdominal distention, eructation, flatulence
 - General disorders and administration site conditions: chest discomfort, fatigue.
-- Infections and infestations: candidiasis.
+- Infections and infestations: candidiasis, pseudomembranous colitis (Clostridium difficile colitis).
+- Nervous Systems: peripheral neuropathy.
+- Skin and subcutaneous disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, DRESS syndrome (drug rash with eosinophilia and systemic symptoms)
 
 ## 6.3 Other Important Adverse Reactions from Labeling for the Individual Components of PYLERA
 
 Metronidazole
 
-Blood and Lymphatic system disorders: reversible neutropenia (leucopenia) in cases of prolonged treatment; rarely reversible thrombocytopenia however no persistent haematological abnormalities attributable to metronidazole have been observed [See Warnings and Precautions (5.4)].
+Blood and Lymphatic system disorders: Reversible neutropenia (leucopenia) in cases of prolonged treatment; rarely reversible thrombocytopenia however no persistent hematological abnormalities attributable to metronidazole have been observed [see Warnings and Precautions (5.9)].
 
-Cardiac disorders: Flattening of the T-wave may be seen in electrocardiographic tracings.
+Cardiac disorders: Flattening of the T-wave.
 
-Gastrointestinal disorders: Furry tongue, glositis, stomatitis; these may be associated with a sudden overgrowth of candida which may occur during therapy[See Warnings and Precautions (5.1)].
+Gastrointestinal disorders: Nausea, vomiting, diarrhea, abdominal pain, constipation, anorexia, metallic taste, furry tongue, glossitis, stomatitis and candida overgrowth.
 
-Immune system disorders: Urticaria, erythematous rash, Stevens - Johnson syndrome, toxic epidermal necrolysis, flushing, nasal congestion, and fever [See Contraindications (4.5)].
+Hypersensitivity/Immune system disorders: Urticaria, erythematous rash, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever [see Contraindications (4.5)].
 
-Metabolism and nutrition disorders: Cases of pancreatitis have been reported, which abated on withdrawal of the drug, have been reported.
+Metabolism and nutrition disorders: Pancreatitis.
 
-Nervous system disorders: The most serious adverse reactions reported in patients treated with metronidazole have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
-In addition, patients have reported syncope, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness and insomnia [See Warnings and Precautions (5.4)].
+Nervous system disorders: Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, headache, syncope, dizziness, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia [see Warnings and Precautions (5.5)].
+
+Dermatologic disorders: Erythematous rash and pruritus.
+
+Renal and urinary disorders: Dysuria, cystitis, polyuria, incontinence, darkened urine, and a sense of pelvic pressure.
+
+Other: Dyspareunia, decrease of libido, proctitis, joint pains.
 
 Tetracycline Hydrochloride
 
 Blood and lymphatic system disorders: Hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, neutropenia, and eosinophilia.
 
-Gastrointestinal disorders: Rare instances of esophagitis and esophageal ulceration have been reported in patients taking the tetracycline-class antibiotics in capsule and tablet form.
-Most of the patients who experienced esophageal irritation took the medication immediately before going to bed.
-Permanent discoloration of teeth may be caused when tetracycline is used during tooth development.
-Enamel hypoplasia has also been reported [See Warnings and Precautions (5.1)].
+Gastrointestinal disorders: Nausea, vomiting, diarrhea, anorexia, glossitis, black hairy tongue, dysphagia, enterocolitis, inflammatory lesions (with Candida overgrowth) in the anogenital region, esophagitis and esophageal ulceration.
 
-Nervous system disorders: Pseudotumor cerebri (benign intracranial hypertension) in adults and bulging fontanels in infants.
-Tinnitus and myasthenic syndrome have been reported rarely.
+Nervous system disorders: Intracranial hypertension including pseudotumor cerebri, tinnitus, and myasthenic syndrome.
 
-Renal and urinary disorders: Rise in BUN has been reported and is possibly dose related [See Contraindications (4.4)].
+Renal and urinary disorders: Increased BUN.
 
-Skin and subcutaneous tissue disorders: ﻿Maculopapular and erythematous rashes have been reported.
-Steven-Johnson syndrome, toxic epidermal necrolysis, and erythema multiforme have been reported.
-Exfoliative dermatitis and photosensitivity have been rarely reported [See Warnings and Precautions (5.5)].
+Skin and subcutaneous tissue disorders: Maculopapular and erythematous rashes, onycholysis, discoloration of the nails, exfoliative dermatitis and photosensitivity have been rarely reported [see Warnings and Precautions (5.13)].
+
+Liver: Hepatotoxicity and liver failure.
+
+Hypersensitivity reactions: Urticaria, angioedema, anaphylaxis, Henoch-Schonlein purpura, pericarditis, exacerbation of systemic lupus erythematosus, and serum sickness-like reactions.

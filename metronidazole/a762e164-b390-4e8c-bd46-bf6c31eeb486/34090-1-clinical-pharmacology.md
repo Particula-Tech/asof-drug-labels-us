@@ -2,11 +2,11 @@
 
 ## 12.1 Mechanism of Action
 
-PYLERA, a combination of bismuth subcitrate potassium, metronidazole and tetracycline hydrochloride is an antibacterial agent [See Clinical Pharmacology (12.4)].
+PYLERA is a combination of antibacterial agents (metronidazole and tetracycline hydrochloride) and bismuth subcitrate potassium [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of the individual components of PYLERA, bismuth subcitrate potassium, metronidzole, tetracycline hydrochloride, are summarized below.
+The pharmacokinetics of the individual components of PYLERA, bismuth subcitrate potassium, metronidazole and tetracycline hydrochloride are summarized below.
 In addition, two studies on PYLERA were conducted to determine the effect of co-administration on the pharmacokinetics of the components.
 
 Bismuth Subcitrate Potassium (Bismuth)
@@ -65,14 +65,16 @@ The pharmacokinetic parameters for the individual drugs, when administered as se
 
 Table 3: Mean (%CV) Pharmacokinetic Parameters for Metronidazole, Tetracycline hydrochloride, and Bismuth Subcitrate Potassium in Healthy Volunteers (N=18)
 
-|  |  | Cmax(ng/mL) (%C.V.C.V. – Coefficient Variation) | AUCT (ng · h/mL) (%C.V.) | AUC∞ (ng · h/mL) (%C.V.) |
+|  |  | Cmax (ng/mL) (%C.V.**) | AUCT (ng · h/mL) (%C.V.**) | AUC∞ (ng · h/mL) (%C.V.**) |
 | --- | --- | --- | --- | --- |
 | Metronidazole | Metronidazole Capsule | 9044 (20) | 80289 (15) | 81849 (16) |
-|  | PYLERAPYLERA given as a single dose of 3 capsules | 8666.3 (22) | 83018 (17) | 84413 (17) |
+|  | PYLERA* | 8666.3 (22) | 83018 (17) | 84413 (17) |
 | Tetracycline | Tetracycline Capsules | 748.0 (40) | 9544 (55) | 9864 (53) |
-|  | PYLERA | 774 (47) | 9674 (50) | 9987 (49) |
+|  | PYLERA* | 774 (47) | 9674 (50) | 9987 (49) |
 | Bismuth | Bismuth Capsule | 22 (123) | 47 (129) | 65.4 (113) |
-|  | PYLERA | 17 (202) | 43 (191) | 57 (178) |
+|  | PYLERA* | 17 (202) | 43 (191) | 57 (178) |
+| *PYLERA given as a single dose of 3 capsules |  |  |  |  |
+| **C.V. – Coefficient Variation |  |  |  |  |
 
 Effect of Bismuth on the Bioavailability of Tetracycline Hydrochloride
 
@@ -86,14 +88,16 @@ Food reduced the systemic absorption of all three PYLERA components, with AUC va
 Reduction in the absorption of all three PYLERA components in the presence of food is not considered to be clinically significant.
 PYLERA should be given after meals and at bedtime, in combination with omeprazole twice a day.
 
-Table 4: Mean PYLERA Pharmacokinetic Parameters in Fasted and Fed States (N=18)PYLERA given as a single dose of 3 capsules
+Table 4: Mean PYLERA Pharmacokinetic Parameters in Fasted and Fed States (N=18)*
 
 |  | FED |  |  | FASTED |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | metronidazole | tetracycline | bismuth | metronidazole | tetracycline | bismuth |
-| Cmax (ng/mL)(%C.V.) | 6835.0 (13) | 515.8 (36) | 1.7 (61) | 8666.3 (22) | 773.8 (47) | 16.7 (202) |
-| Tmax (hours)Tmax is expressed as median (range)(range) | 3.0 (1.3 – 4.0) | 4.0 (2.5 – 5.0) | 3.5 (0.8 – 6.0) | 0.75 (0.5 - 3.5) | 3.3 (1.3 – 5.0) | 0.6 (0.5 – 1.7) |
-| AUC∞(ng · h/mL)(%C.V.) | 79225.6 (18) | 5840.1 (312) | 18.4 (116) | 84413.6 (17) | 9986.7 (49) | 56.5 (178) |
+| Cmax (ng/mL) (%C.V.) | 6835.0 (13) | 515.8 (36) | 1.7 (61) | 8666.3 (22) | 773.8 (47) | 16.7 (202) |
+| Tmax (hours)** (range) | 3.0 (1.3 – 4.0) | 4.0 (2.5 – 5.0) | 3.5 (0.8 – 6.0) | 0.75 (0.5 – 3.5) | 3.3 (1.3 – 5.0) | 0.6 (0.5 – 1.7) |
+| AUC∞ (ng · h/mL) (%C.V.) | 79225.6 (18) | 5840.1 (312) | 18.4 (116) | 84413.6 (17) | 9986.7 (49) | 56.5 (178) |
+| *PYLERA given as a single dose of 3 capsules |  |  |  |  |  |  |
+| **Tmax is expressed as median (range) |  |  |  |  |  |  |
 
 Effect of Omeprazole on the Bioavailability of Bismuth
 
@@ -104,35 +108,53 @@ One subject transiently achieved a maximum bismuth concentration (Cmax) higher t
 The patient did not exhibit symptoms of neurotoxicity during the study.
 There is no clinical evidence to suggest that short-term exposure to bismuth Cmax concentrations above 50 ng/mL is associated with neurotoxicity.
 
-Table 5: Mean Bismuth Pharmacokinetic Parameters following PYLERA AdministrationPYLERA given as 3 capsules four times daily for 6 days with or without 20 mg omeprazole twice daily With and Without Omeprazole (N=34)
+Table 5: Mean Bismuth Pharmacokinetic Parameters following PYLERA Administration* With and Without Omeprazole (N=34)
 
 | Parameter | Without omeprazole |  | With omeprazole |  |
 | --- | --- | --- | --- | --- |
-| Mean | %C.V.C.V. – Coefficient Variation | Mean | %C.V. |  |
-| Cmax(ng/mL) | 8.1 | 84 | 25.5 | 69 |
-| AUCT(ng · h/mL) | 48.5 | 28 | 140.9 | 42 |
+| Mean | %C.V.** | Mean | %C.V.** |  |
+| Cmax (ng/mL) | 8.1 | 84 | 25.5 | 69 |
+| AUCT (ng · h/mL) | 48.5 | 28 | 140.9 | 42 |
+| *PYLERA given as 3 capsules four times daily for 6 days with or without 20 mg omeprazole twice daily |  |  |  |  |
+| **C.V. – Coefficient Variation |  |  |  |  |
 
 ## 12.4 Microbiology
 
 Mechanism of Action
 
-PYLERA, a combination of bismuth subcitrate potassium, metronidazole and tetracycline hydrochloride has antibacterial activity.
-Metronidazole is metabolized through reductive pathways into reactive intermediates that have cytotoxic action.
+PYLERA is a combination of antibacterial agents (metronidazole and tetracycline hydrochloride) and bismuth subcitrate potassium.
 Tetracycline hydrochloride interacts with the 30S subunit of the bacterial ribosome and inhibits protein synthesis.
+Metronidazole's antibacterial mechanism of action in an anaerobic environment is not fully understood but a possible mechanism includes reduction by intracellular electron transport proteins after entry into the organism.
+Because of this alteration to the metronidazole molecule, a concentration gradient is created and maintained which promotes the drug's intracellular transport.
+Presumably, free radicals are formed which, in turn, react with cellular components resulting in death of bacteria.
 The antibacterial action of bismuth salts is not well understood.
 
-Activity in vitro and in vivo
+Antimicrobial Activity
 
-PYLERA plus omeprazole therapy has been shown to be active against most strains of Helicobacter pylori both in vitro and in clinical infections [See Clinical Studies (14)].
+PYLERA plus omeprazole therapy has been shown to be active against most isolates of Helicobacter pylori both in vitro and in clinical infections [see Clinical Studies (14)].
 
 Susceptibility Test Methods
 
-Dilution techniques:
+When available, the clinical microbiology laboratory should provide results of in vitro susceptibility test results for antimicrobial drug products used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial or community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-Susceptibility testing of Helicobacter pylori isolates was performed for metronidazole using agar dilution methodology according to CLSI1 guidelines [See References (15)], and minimum inhibitory concentrations (MICs) were determined.
+Dilution techniques
 
-Susceptibility testing of Helicobacter pylori for metronidazole has not been standardized.
-No interpretive criteria have been established for testing metronidazole against H. pylori.
+Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+The agar dilution procedure using Mueller-Hinton agar (MHA) supplemented with 5% v/v aged (≥2-week old) sheep blood is recommended for testing H. pylori [See References (15)].
+No interpretive criteria have been established for testing metronidazole or tetracycline against H. pylori.
 
-The clinical significance of metronidazole MIC values against H. pylori is unknown.
-In the North American study, pre-treatment metronidazole MIC values showed no correlation with clinical outcome in patients treated with PYLERA and omeprazole therapy.
+Quality Control
+
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test [See References (15)].
+Standard metronidazole or tetracycline powder should provide the following range of MIC values noted in Table 6.
+
+Table 6.
+Acceptable Quality Control Ranges for Metronidazole and Tetracycline
+
+| QC Strain | Agar Dilution (mcg/mL) |
+| --- | --- |
+| Helicobacter pylori ATCC 43504 |  |
+| Metronidazole | 64 – 256 |
+| Tetracycline | 0.12 – 1 |
