@@ -2,26 +2,26 @@
 
 ## 5.1 Schedule-dependent Toxicity
 
-In clinical trials evaluating the maximum tolerated dose of Gemcitabine, prolongation of the infusion time beyond 60 minutes or more frequent than weekly dosing resulted in an increased incidence of clinically significant hypotension, severe flu-like symptoms, myelosuppression, and asthenia.
-The half-life of Gemcitabine for Injection, USP is influenced by the length of the infusion [see Clinical Pharmacology (12.3)].
+In clinical trials evaluating the maximum tolerated dose of gemcitabine, prolongation of the infusion time beyond 60 minutes or more frequent than weekly dosing resulted in an increased incidence of clinically significant hypotension, severe flu-like symptoms, myelosuppression, and asthenia.
+The half-life of gemcitabine for injection is influenced by the length of the infusion [see Clinical Pharmacology (12.3)].
 
 ## 5.2 Myelosuppression
 
-Myelosuppression manifested by neutropenia, thrombocytopenia, and anemia occurs with Gemcitabine as a single agent and the risks are increased when Gemcitabine is combined with other cytotoxic drugs.
-In clinical trials, Grade 3-4 neutropenia, anemia, and thrombocytopenia occurred in 25%, 8%, and 5%, respectively of patients receiving single-agent Gemcitabine.
-The frequencies of Grade 3-4 neutropenia, anemia, and thrombocytopenia varied from 48% to 71%, 8 to 28%, and 5 to 55%, respectively, in patients receiving Gemcitabine in combination with another drug.
+Myelosuppression manifested by neutropenia, thrombocytopenia, and anemia occurs with gemcitabine as a single agent and the risks are increased when gemcitabine is combined with other cytotoxic drugs.
+In clinical trials, Grade 3-4 neutropenia, anemia, and thrombocytopenia occurred in 25%, 8%, and 5%, respectively of patients receiving single-agent gemcitabine.
+The frequencies of Grade 3-4 neutropenia, anemia, and thrombocytopenia varied from 48% to 71%, 8 to 28%, and 5 to 55%, respectively, in patients receiving gemcitabine in combination with another drug.
 
 ## 5.3 Pulmonary Toxicity and Respiratory Failure
 
 Pulmonary toxicity, including interstitial pneumonitis, pulmonary fibrosis, pulmonary edema, and adult respiratory distress syndrome (ARDS), has been reported.
 In some cases, these pulmonary events can lead to fatal respiratory failure despite discontinuation of therapy.
-The onset of pulmonary symptoms may occur up to 2 weeks after the last dose of Gemcitabine.
+The onset of pulmonary symptoms may occur up to 2 weeks after the last dose of gemcitabine.
 Discontinue gemcitabine in patients who develop unexplained dyspnea, with or without bronchospasm, or have any evidence of pulmonary toxicity [see Adverse Reactions (6.1 and 6.2)].
 
 ## 5.4 Hemolytic Uremic Syndrome
 
 Hemolytic uremic syndrome, including fatalities from renal failure or the requirement for dialysis can occur in patients treated with gemcitabine.
-In clinical trials, HUS was reported in 6 of 2429 patients (0.25%).
+In clinical trials, HUS was reported in 6 of 2,429 patients (0.25%).
 Most fatal cases of renal failure were due to HUS [see Adverse Reactions (6.1 and 6.2)].
 Assess renal function prior to initiation of gemcitabine and periodically during treatment.
 Consider the diagnosis of HUS in patients who develops anemia with evidence of microangiopathic hemolysis, elevation of bilirubin or LDH, or reticulocytosis; severe thrombocytopenia; or evidence of renal failure (elevation of serum creatinine or BUN) [see Dosage and Administration (2.5) and Use In Specific Populations (8.6)].
@@ -45,7 +45,7 @@ If this drug is used during pregnancy, or if a woman becomes pregnant while taki
 
 Gemcitabine is not indicated for use in combination with radiation therapy.
 
-Concurrent (given together or ≤7 days apart) – Life-threatening mucositis, especially esophagitis and pneumonitis occurred in a trial in which gemcitabine was administered at a dose of 1000 mg/m2 to patients with non-small cell lung cancer for up to 6 consecutive weeks concurrently with thoracic radiation.
+Concurrent (given together or ≤7 days apart) – Life-threatening mucositis, especially esophagitis and pneumonitis occurred in a trial in which gemcitabine was administered at a dose of 1,000 mg/m2 to patients with non-small cell lung cancer for up to 6 consecutive weeks concurrently with thoracic radiation.
 
 Non-concurrent (given >7 days apart) – Excessive toxicity has not been observed when gemcitabine is administered more than 7 days before or after radiation.
 Radiation recall has been reported in patients who receive gemcitabine after prior radiation.

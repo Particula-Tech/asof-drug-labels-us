@@ -9,10 +9,10 @@
 - •Advise patients of the risks of hepatic toxicity including liver failure and death.
   Instruct patients to immediately contact their healthcare provider for signs of jaundice or for pain/tenderness in the right upper abdominal quadrant [see Warnings and Precautions (5.5)].
 
-EN-4263
-
 Manufactured by: Hospira Australia Pty Ltd Mulgrave VIC 3170 Australia
 
 Manufactured for: Hospira, Inc.
 
 Lake Forest, IL 60045 USA Product of Australia
+
+LAB-0874-1.0 10/2016

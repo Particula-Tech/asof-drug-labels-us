@@ -9,7 +9,7 @@ Risk Summary
 Gemcitabine can cause fetal harm when administered to a pregnant woman.
 Based on its mechanism of action, gemcitabine is expected to result in adverse reproductive effects.
 Gemcitabine was teratogenic, embryotoxic, and fetotoxic in mice and rabbits.
-If gemcitabine is used during pregnancy, or if the patient becomes pregnant while taking Gemcitabine, the patient should be apprised of the potential hazard to a fetus.
+If gemcitabine is used during pregnancy, or if the patient becomes pregnant while taking gemcitabine, the patient should be apprised of the potential hazard to a fetus.
 
 Animal Data
 
@@ -27,7 +27,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 The safety and effectiveness of gemcitabine have not been established in pediatric patients.
 The safety and pharmacokinetics of gemcitabine were evaluated in a trial in pediatric patients with refractory leukemia.
 The maximum tolerated dose was 10 mg/m2/min for 360 minutes three times weekly followed by a one-week rest period.
-The safety and activity of Gemcitabine were evaluated in a trial of pediatric patients with relapsed acute lymphoblastic leukemia (22 patients) and acute myelogenous leukemia (10 patients) at a dose of 10 mg/m2/min administered over 360 minutes three times weekly followed by a one-week rest period.
+The safety and activity of gemcitabine were evaluated in a trial of pediatric patients with relapsed acute lymphoblastic leukemia (22 patients) and acute myelogenous leukemia (10 patients) at a dose of 10 mg/m2/min administered over 360 minutes three times weekly followed by a one-week rest period.
 Toxicities observed included bone marrow suppression, febrile neutropenia, elevation of serum transaminases, nausea, and rash/desquamation.
 No meaningful clinical activity was observed in this trial.
 
@@ -38,7 +38,7 @@ In a randomized trial in women with ovarian cancer, 175 women received gemcitabi
 Similar effectiveness was observed between older and younger women.
 There was significantly higher Grade 3/4 neutropenia in women 65 years of age or older.
 
-Gemcitabine clearance is affected by age, however there are no recommended dose adjustments based on patients’ age [see Clinical Pharmacology (12.3)].
+Gemcitabine clearance is affected by age, however there are no recommended dose adjustments based on patients' age [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
