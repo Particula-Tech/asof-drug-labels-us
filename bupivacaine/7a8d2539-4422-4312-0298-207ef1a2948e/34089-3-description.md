@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Bupivacaine hydrochloride is 1-Butyl-2’ 6’-pipecoloxylidide monochloride, monohydrate, a white crystalline powder that is freely soluble in 95 percent ethanol, soluble in water, and slightly soluble in chloroform or acetone.
+Bupivacaine hydrochloride is 1-Butyl-2' 6'-pipecoloxylidide monochloride, monohydrate, a white crystalline powder that is freely soluble in 95 percent ethanol, soluble in water, and slightly soluble in chloroform or acetone.
 It has the following structural formula:
 
 Dextrose is D-glucopyranose monohydrate and has the following structural formula:

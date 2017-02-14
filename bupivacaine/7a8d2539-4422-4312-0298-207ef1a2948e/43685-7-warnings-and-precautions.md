@@ -34,7 +34,7 @@ Tolerance varies with the status of the patient.
 Debilitated, elderly patients and acutely ill patients may require reduced doses.
 Reduced doses may also be indicated in patients with increased intra-abdominal pressure (including obstetrical patients), if otherwise suitable for spinal anesthesia.
 
-There should be careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient’s state of consciousness after local anesthetic injection.
+There should be careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient's state of consciousness after local anesthetic injection.
 Restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, depression or drowsiness may be early warning signs of central nervous system toxicity.
 
 Spinal anesthetics should be used with caution in patients with severe disturbances of cardiac rhythm, shock, or heart block.
@@ -59,7 +59,7 @@ Early unexplained signs of tachycardia, tachypnea, labile blood pressure, and me
 Successful outcome is dependent on early diagnosis, prompt discontinuance of the suspect triggering agent(s) and prompt institution of treatment, including oxygen therapy, indicated supportive measures, and dantrolene.
 (Consult dantrolene sodium intravenous package insert before using.)
 
-The following conditions may preclude the use of spinal anesthesia, depending upon the physician’s evaluation of the situation and ability to deal with the complications or complaints which may occur:
+The following conditions may preclude the use of spinal anesthesia, depending upon the physician's evaluation of the situation and ability to deal with the complications or complaints which may occur:
 
 - •Pre-existing diseases of the central nervous system, such as those attributable to pernicious anemia, poliomyelitis, syphilis, or tumor.
 - •Hematological disorders predisposing to coagulopathies or patients on anticoagulant therapy.
@@ -104,14 +104,14 @@ Bupivacaine hydrochloride, when administered properly, via the epidural route in
 
 Maternal hypotension has resulted from regional anesthesia.
 Local anesthetics produce vasodilation by blocking sympathetic nerves.
-Elevating the patient’s legs and positioning her on her left side will help prevent decreases in blood pressure.
+Elevating the patient's legs and positioning her on her left side will help prevent decreases in blood pressure.
 The fetal heart rate also should be monitored continuously and electronic fetal monitoring is highly advisable.
 
 It is extremely important to avoid aortocaval compression by the gravid uterus during administration of regional block to parturients.
 To do this, the patient must be maintained in the left lateral decubitus position or a blanket roll or sandbag may be placed beneath the right hip and the gravid uterus displaced to the left.
 
 Spinal anesthesia may alter the forces of parturition through changes in uterine contractility or maternal expulsive efforts.
-Spinal anesthesia has also been reported to prolong the second stage of labor by removing the parturient’s reflex urge to bear down or by interfering with motor function.
+Spinal anesthesia has also been reported to prolong the second stage of labor by removing the parturient's reflex urge to bear down or by interfering with motor function.
 The use of obstetrical anesthesia may increase the need for forceps assistance.
 
 The use of some local anesthetic drug products during labor and delivery may be followed by diminished muscle strength and tone for the first day or two of life.
