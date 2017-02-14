@@ -72,6 +72,17 @@ Administration of high dosages of medications (including midazolam) containing t
 The recommended dosage range of midazolam for preterm and term infants includes amounts of benzyl alcohol well below that associated with toxicity; however, the amount of benzyl alcohol at which toxicity may occur is not known.
 If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources.
 
+## Pediatric Neurotoxicity
+
+Published animal studies demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity increase neuronal apoptosis in the developing brain and result in long-term cognitive deficits when used for longer than 3 hours.
+The clinical significance of these findings is not clear.
+However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (See PRECAUTIONS/ Pregnancy and Pediatric Use and ANIMAL PHARMACOLOGY AND/OR TOXICOLOGY).
+
+Some published studies in children suggest that similar deficits may occur after repeated or prolonged exposures to anesthetic agents early in life and may result in adverse cognitive or behavioral effects.
+These studies have substantial limitations, and it is not clear if the observed effects are due to the anesthetic/sedation drug administration or other factors such as the surgery or underlying illness.
+Anesthetic and sedation drugs are a necessary part of the care of children and pregnant women needing surgery, other procedures, or tests that cannot be delayed, and no specific medications have been shown to be safer than any other.
+Decisions regarding the timing of any elective procedures requiring anesthesia should take into consideration the benefits of the procedure weighed against the potential risks.
+
 # PRECAUTIONS
 
 ## General:
@@ -98,6 +109,8 @@ To assure safe and effective use of benzodiazepines, the following information a
 4. Patients should be informed of the pharmacological effects of midazolam, such as sedation and amnesia, which in some patients may be profound.
    The decision as to when patients who have received injectable midazolam, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
 5. Patients receiving continuous infusion of midazolam in critical care settings over an extended period of time, may experience symptoms of withdrawal following abrupt discontinuation.
+6. Effect of anesthetic and sedation drugs on early brain development: Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
+   Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.Because some animal data suggest that the window of vulnerability includes the 3rd trimester of pregnancy, discuss with pregnant women the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
 
 ## Drug Interactions
 
@@ -168,6 +181,14 @@ Segment II teratology studies, performed with midazolam maleate injectable in ra
 Nonteratogenic Effects: Studies in rats showed no adverse effects on reproductive parameters during gestation and lactation.
 Dosages tested were approximately 10 times the human dose of 0.35 mg/kg.
 
+Published studies of ketamine, isoflurane and propofol in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours.
+There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans.
+
+In a published study, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
+In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring.
+With respect to brain development, this time period corresponds to the third trimester of gestation in the human.
+The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (see WARNINGS, PRECAUTIONS and ANIMAL PHARMACOLOGY AND/OR TOXICOLOGY).
+
 ## Labor and Delivery:
 
 In humans, measurable levels of midazolam were found in maternal venous serum, umbilical venous and arterial serum and amniotic fluid, indicating placental transfer of the drug.
@@ -194,6 +215,13 @@ The health care practitioner who uses this medication in pediatric patients shou
 
 Midazolam should not be administered by rapid injection in the neonatal population.
 Severe hypotension and seizures have been reported following rapid IV administration, particularly, with concomitant use of fentanyl.
+
+Published juvenile animal studies of ketamine, isoflurane demonstrate that the administration of anesthetic and sedation drugs, that either block NMDA receptors or potentiate the activity of GABA during the period of rapid brain growth or synaptogenesis, results in widespread neuronal and oligodendrocyte cell loss in the developing brain and alterations in synaptic morphology and neurogenesis.
+Based on comparisons across species, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately 3 years of age in humans.
+
+In primates, exposure to 3 hours of ketamine that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer of isoflurane increased neuronal cell loss.
+Data from isoflurane-treated rodents and ketamine-treated primates suggest that the neuronal and oligodendrocyte cell losses are associated with prolonged cognitive deficits in learning and memory.
+The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women, neonates, and young children who require procedures with the potential risks suggested by the nonclinical data (see WARNINGS, PRECAUTIONS and ANIMAL PHARMACOLOGY AND/OR TOXICOLOGY).
 
 ## Geriatric Use:
 
