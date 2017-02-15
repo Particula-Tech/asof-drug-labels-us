@@ -22,14 +22,14 @@ Table 5: Effect of ZEGERID Oral Suspension on Intragastric pH, Day 7
 | --- | --- | --- |
 | Parameter | 40 mg/1680 mg(n = 24) | 20 mg/1680 mg(n = 28) |
 | % Decrease from Baseline for Integrated Gastric Acidity (mmol•hr/L) | 84% | 82% |
-| Coefficient of variation | 20% | 24% |
+| Coefficient of Variation | 20% | 24% |
 | % Time Gastric pH > 4P < 0.05 20 mg vs. 40 mg(Hours) | 77%(18.6 h) | 51%(12.2 h) |
-| Coefficient of variation | 27% | 43% |
+| Coefficient of Variation | 27% | 43% |
 | Median pH | 5.2 | 4.2 |
-| Coefficient of variation | 17% | 37% |
+| Coefficient of Variation | 17% | 37% |
 | Note: Values represent medians. All parameters were measured over a 24-hour period. |  |  |
 
-Results from a separate PK/PD study of antisecretory effect on repeated once daily dosing of 40 mg/1100 mg and 20 mg/1100 mg of ZEGERID Capsules in healthy subjects show similar effects in general on the above three PD parameters as those for ZEGERID 40 mg/1680 mg and 20 mg/1680 mg Oral Suspension, respectively.
+Results from a separate PK/PD study of antisecretory effect on repeated once-daily dosing of 40 mg/1100 mg and 20 mg/1100 mg of ZEGERID Capsules in healthy subjects show similar effects in general on the above three PD parameters as those for ZEGERID 40 mg/1680 mg and 20 mg/1680 mg Oral Suspension, respectively.
 
 The antisecretory effect lasts longer than would be expected from the very short (1 hour) plasma half-life, apparently due to irreversible binding to the parietal H+/K+ ATPase enzyme.
 
@@ -45,7 +45,7 @@ Serum Gastrin Effects
 
 In studies involving more than 200 patients, serum gastrin levels increased during the first 1 to 2 weeks of once-daily administration of therapeutic doses of omeprazole in parallel with inhibition of acid secretion.
 No further increase in serum gastrin occurred with continued treatment.
-In comparison with histamine H2-receptor antagonists, the median increases produced by 20 mg doses of omeprazole were higher (1.3 to 3.6 fold vs. 1.1 to 1.8 fold increase).
+In comparison with histamine H2-receptor antagonists, the median increases produced by 20 mg doses of omeprazole were higher (1.3 to 3.6-fold vs. 1.1- to 1.8-fold increase).
 Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks after discontinuation of therapy.
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
@@ -68,7 +68,7 @@ All changes resolved within three days of stopping treatment.
 The course of Barrett’s esophagus in 106 patients was evaluated in a U.S. double-blind controlled study of omeprazole 40 mg b.i.d. for 12 months followed by 20 mg b.i.d. for 12 months or ranitidine 300 mg b.i.d. for 24 months.
 No clinically significant impact on Barrett’s mucosa by antisecretory therapy was observed.
 Although neosquamous epithelium developed during antisecretory therapy, complete elimination of Barrett’s mucosa was not achieved.
-No significant difference was observed between treatment groups in development of dysplasia in Barrett’s mucosa and no patient developed esophageal carcinoma during treatment.
+No significant difference was observed between treatment groups in development of dysplasia in Barrett’s mucosa, and no patient developed esophageal carcinoma during treatment.
 No significant differences between treatment groups were observed in development of ECL cell hyperplasia, corpus atrophic gastritis, corpus intestinal metaplasia, or colon polyps exceeding 3 mm in diameter.
 
 ## 12.3 Pharmacokinetics
@@ -76,11 +76,11 @@ No significant differences between treatment groups were observed in development
 Absorption
 
 In separate in vivo bioavailability studies, when ZEGERID Oral Suspension and Capsules are administered on an empty stomach 1 hour prior to a meal, the absorption of omeprazole is rapid, with mean peak plasma levels (% CV) of omeprazole being 1954 ng/mL (33%) and 1526 ng/mL (49%), respectively, and time to peak of approximately 30 minutes (range 10-90 min) after a single-dose or repeated-dose administration.
-Absolute bioavailability of ZEGERID Powder for Oral Suspension (compared to I.V. administration) is about 30-40% at doses of 20 – 40 mg, due in large part to presystemic metabolism.
+Absolute bioavailability of ZEGERID Powder for Oral Suspension (compared to I.V. administration) is about 30-40% at doses of 20 to 40 mg, due in large part to presystemic metabolism.
 
 When ZEGERID Oral Suspension 40 mg/1680 mg was administered in a two-dose loading regimen, the omeprazole AUC (0-inf) (ng•hr/mL) was 1665 after Dose 1 and 3356 after Dose 2, while Tmax was approximately 30 minutes for both Dose 1 and Dose 2.
 
-Following single or repeated once daily dosing, peak plasma concentrations of omeprazole from ZEGERID are approximately proportional from 20 to 40 mg doses, but a greater than linear mean AUC (three-fold increase) is observed when doubling the dose to 40 mg.
+Following single or repeated once-daily dosing, peak plasma concentrations of omeprazole from ZEGERID are approximately proportional from 20 to 40 mg doses, but a greater than linear mean AUC (three-fold increase) is observed when doubling the dose to 40 mg.
 The bioavailability of omeprazole from ZEGERID increases upon repeated administration.
 
 When ZEGERID is administered 1 hour after a meal, the omeprazole AUC is reduced by approximately 24% relative to administration 1 hour prior to a meal.
@@ -101,8 +101,8 @@ These metabolites have very little or no antisecretory activity.
 
 Excretion
 
-Following single-dose oral administration of omeprazole, little if any, unchanged drug is excreted in urine.
-The mean plasma omeprazole half-life in healthy subjects is approximately 1 hour (range 0.4 to 3.2 hours) and the total body clearance is 500-600 mL/min.
+Following single-dose oral administration of omeprazole, little, if any, unchanged drug is excreted in urine.
+The mean plasma omeprazole half-life in healthy subjects is approximately 1 hour (range 0.4 to 3.2 hours), and the total body clearance is 500-600 mL/min.
 
 Concomitant Use with Clopidogrel
 
@@ -112,7 +112,7 @@ The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1
 Results from another crossover study in healthy subjects showed a similar pharmacokinetic interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and omeprazole 80 mg daily when coadministered for 30 days.
 Exposure to the active metabolite of clopidogrel was reduced by 41% to 46% over this time period.
 
-In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction.
+In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole, but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction.
 
 Concomitant Use with Mycophenolate Mofetil
 
@@ -123,13 +123,13 @@ Special Populations
 Geriatric
 
 The elimination rate of omeprazole was somewhat decreased in the elderly, and bioavailability was increased.
-Omeprazole was 76% bioavailable when a single 40 mg oral dose of omeprazole (buffered solution) was administered to healthy elderly subjects, versus 58% in young subjects given the same dose.
-Nearly 70% of the dose was recovered in urine as metabolites of omeprazole and no unchanged drug was detected.
-The plasma clearance of omeprazole was 250 mL/min (about half that of young subjects) and its plasma half-life averaged one hour, similar to that of young healthy subjects.
+Omeprazole was 76% bioavailable when a single 40 mg oral dose of omeprazole (buffered solution) was administered to healthy elderly subjects versus 58% in young subjects given the same dose.
+Nearly 70% of the dose was recovered in urine as metabolites of omeprazole, and no unchanged drug was detected.
+The plasma clearance of omeprazole was 250 mL/min (about half that of young subjects), and its plasma half-life averaged one hour, similar to that of young healthy subjects.
 
 Pediatric
 
-The pharmacokinetics of ZEGERID has not been studied in patients < 18 years of age.
+The pharmacokinetics of ZEGERID has not been studied in patients <18 years of age.
 
 Gender
 

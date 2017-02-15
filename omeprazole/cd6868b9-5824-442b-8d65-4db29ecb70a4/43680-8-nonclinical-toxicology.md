@@ -12,16 +12,16 @@ By the second year the difference between treated and control rats was much smal
 Gastric adenocarcinoma was seen in one rat (2%).
 No similar tumor was seen in male or female rats treated for two years.
 For this strain of rat no similar tumor has been noted historically, but a finding involving only one tumor is difficult to interpret.
-In a 52-week toxicity study in Sprague-Dawley rats, brain astrocytomas were found in a small number of males that received omeprazole at dose levels of 0.4, 2, and 16 mg/kg/day (about 0.1 to 3.9 times the human dose of 40 mg/day on a body surface area basis).
+In a 52-week toxicity study in Sprague Dawley rats, brain astrocytomas were found in a small number of males that received omeprazole at dose levels of 0.4, 2, and 16 mg/kg/day (about 0.1 to 3.9 times the human dose of 40 mg/day on a body surface area basis).
 No astrocytomas were observed in female rats in this study.
-In a 2-year carcinogenicity study in Sprague-Dawley rats, no astrocytomas were found in males and females at the high dose of 140.8 mg/kg/day (about 34 times the human dose of 40 mg/day on a body surface area basis).
+In a 2-year carcinogenicity study in Sprague Dawley rats, no astrocytomas were found in males and females at the high dose of 140.8 mg/kg/day (about 34 times the human dose of 40 mg/day on a body surface area basis).
 A 78-week mouse carcinogenicity study of omeprazole did not show increased tumor occurrence, but the study was not conclusive.
 A 26-week p53 (+/-) transgenic mouse carcinogenicity study was not positive.
 
 Omeprazole was positive for clastogenic effects in an in vitro human lymphocyte chromosomal aberration assay, in one of two in vivo mouse micronucleus tests, and in an in vivo bone marrow cell chromosomal aberration assay.
-Omeprazole was negative in the in vitro Ames Test, an in vitro mouse lymphoma cell forward mutation assay and an in vivo rat liver DNA damage assay.
+Omeprazole was negative in the in vitro Ames test, an in vitro mouse lymphoma cell forward mutation assay and an in vivo rat liver DNA damage assay.
 
-In 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Warnings and Precautions (5)].
+In a 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Warnings and Precautions (5)].
 Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
 
 Omeprazole at oral doses up to 138 mg/kg/day (about 33.6 times the human dose of 40 mg/day on a body surface area basis) was found to have no effect on the fertility and general reproductive performance in rats.
@@ -38,6 +38,6 @@ In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity
 Juvenile Animal Study
 
 A 28-day toxicity study with a 14-day recovery phase was conducted in juvenile rats with esomeprazole magnesium at doses of 70 to 280 mg/kg/day (about 17 to 68 times a daily oral human dose of 40 mg on a body surface area basis).
-An increase in the number of deaths at the high dose of 280 mg/kg/day was observed when juvenile rats were administered esomeprazole magnesium from postnatal day 7 through postnatal day 35.
+An increase in the number of deaths at the high dose of 280 mg/kg/day was observed when juvenile rats were administered esomeprazole magnesium from postnatal Day 7 through postnatal Day 35.
 In addition, doses equal to or greater than 140 mg/kg/day (about 34 times a daily oral human dose of 40 mg on a body surface area basis), produced treatment-related decreases in body weight (approximately 14%) and body weight gain, decreases in femur weight and femur length, and affected overall growth.
 Comparable findings described above have also been observed in this study with another esomeprazole salt, esomeprazole strontium, at equimolar doses of esomeprazole.

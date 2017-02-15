@@ -29,8 +29,8 @@ Dose adjustment of omeprazole is not normally required.
 When voriconazole (400 mg every 12 hours for one day, then 200 mg for 6 days) was given with omeprazole (40 mg once daily for 7 days) to healthy subjects, it significantly increased the steady-state Cmax and AUC0-24 of omeprazole, an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4) respectively as compared to when omeprazole was given without voriconazole.
 
 Drugs known to induce CYP2C19 or CYP3A4 (such as rifampin) may lead to decreased omeprazole serum levels.
-In a crossover study in 12 healthy male subjects, St John’s wort (300 mg three times daily for 14 days), an inducer of CYP3A4, decreased the systemic exposure of omeprazole in CYP2C19 poor metabolizers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolizers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
-Avoid concomitant use of St. John’s Wort or rifampin with omeprazole.
+In a crossover study in 12 healthy male subjects, St. John’s wort (300 mg three times daily for 14 days), an inducer of CYP3A4, decreased the systemic exposure of omeprazole in CYP2C19 poor metabolizers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolizers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
+Avoid concomitant use of St. John’s wort or rifampin with omeprazole.
 
 ## 7.3 Antiretroviral Agents
 
@@ -54,8 +54,8 @@ There are also some antiretroviral drugs of which unchanged serum levels have be
 
 ## 7.4 Combination Therapy with Clarithromycin
 
-Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions due to drug interaction [See Warnings and Precautions in prescribing information for clarithromycin].
-Because of these drug interactions, clarithromycin is contraindicated for coadministration with certain drugs [See Contraindications in prescribing information for clarithromycin.]
+Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions due to drug interaction [see Warnings and Precautions in prescribing information for clarithromycin].
+Because of these drug interactions, clarithromycin is contraindicated for coadministration with certain drugs [see Contraindications in prescribing information for clarithromycin].
 
 ## 7.5 Clopidogrel
 
@@ -64,7 +64,7 @@ Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 Concomitant use of omeprazole 80 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
 Avoid concomitant administration of ZEGERID with clopidogrel.
 When using ZEGERID, consider use of alternative antiplatelet therapy.
-[See Clinical Pharmacology (12.3)]
+[See Clinical Pharmacology (12.3).]
 
 ## 7.6 Tacrolimus
 

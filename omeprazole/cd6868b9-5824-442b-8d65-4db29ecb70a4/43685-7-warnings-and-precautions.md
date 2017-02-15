@@ -25,7 +25,7 @@ The sodium content of ZEGERID products should be taken into consideration when a
 Because ZEGERID products contain sodium bicarbonate, they should be used with caution in patients with Bartter’s syndrome, hypokalemia, hypocalcemia, and problems with acid-base balance.
 Long-term administration of bicarbonate with calcium or milk can cause milk-alkali syndrome.
 
-Chronic use of sodium bicarbonate may lead to systemic alkalosis and increased sodium intake can produce edema and weight increase.
+Chronic use of sodium bicarbonate may lead to systemic alkalosis, and increased sodium intake can produce edema and weight increase.
 
 ## 5.4 Clostridium difficile-Associated Diarrhea
 
@@ -60,8 +60,7 @@ The majority of patients presented with rash; however, arthralgia and cytopenia 
 Avoid administration of PPIs for longer than medically indicated.
 If signs or symptoms consistent with CLE or SLE are noted in patients receiving ZEGERID, discontinue the drug and refer the patient to the appropriate specialist for evaluation.
 Most patients improve with discontinuation of the PPI alone in 4 to 12 weeks.
-Serological testing (e.g.
-ANA) may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
+Serological testing (e.g., ANA) may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
 
 ## 5.7 Interaction with Clopidogrel
 
@@ -88,10 +87,10 @@ In most patients, treatment of hypomagnesemia required magnesium replacement and
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), healthcare professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
 [See Adverse Reactions (6.2).]
 
-## 5.10 Concomitant Use of ZEGERID with St John’s Wort or Rifampin
+## 5.10 Concomitant Use of ZEGERID with St. John’s Wort or Rifampin
 
-Drugs which induce CYP2C19 OR CYP34A (such as St John’s Wort or rifampin) can substantially decrease omeprazole concentrations [see Drug Interactions (7.2)].
-Avoid concomitant use of ZEGERID with St John’s Wort or rifampin.
+Drugs which induce CYP2C19 or CYP3A4 (such as St.. John’s wort or rifampin) can substantially decrease omeprazole concentrations [see Drug Interactions (7.2)].
+Avoid concomitant use of ZEGERID with St John’s wort or rifampin.
 
 ## 5.11 Interactions with Investigations for Neuroendocrine Tumors
 
@@ -99,7 +98,7 @@ Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases i
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 Providers should temporarily stop omeprazole treatment before assessing CgA levels and consider repeating the test if initial CgA levels are high.
 If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary.
-[See Pharmacodynamics (12.2).]
+[See Clinical Pharmacology (12.2).]
 
 ## 5.12 Concomitant Use of ZEGERID with Methotrexate
 

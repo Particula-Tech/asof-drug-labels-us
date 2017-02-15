@@ -33,14 +33,14 @@ Table 2: Adverse Reactions Occurring in 1% or More of Patients on Omeprazole The
 | Asthenia | 1.1 (0.2) | 1.6 (1.6) | 1.5 (1.0) |
 | Back Pain | 1.1 | 0.0 | 0.5 |
 
-Table 3 summarizes the adverse reactions that occurred in 1% or more of omeprazole-treated patients from international double-blind, and open-label clinical trials in which 2,631 patients and subjects received omeprazole.
+Table 3 summarizes the adverse reactions that occurred in 1% or more of omeprazole-treated patients from international double-blind and open-label clinical trials in which 2,631 patients and subjects received omeprazole.
 
-Table 3: Incidence of Adverse Reactions ≥1% Causal Relationship not Assessed
+Table 3: Incidence of Adverse Reactions ≥1% Causal Relationship Not Assessed
 
 |  | Omeprazole (n = 2631) | Placebo(n = 120) |
 | --- | --- | --- |
-| Body as a Whole, site unspecified |  |  |
-| Abdominal pain | 5.2 | 3.3 |
+| Body as a Whole, Site Unspecified |  |  |
+| Abdominal Pain | 5.2 | 3.3 |
 | Asthenia | 1.3 | 0.8 |
 | Digestive System |  |  |
 | Constipation | 1.5 | 0.8 |
@@ -48,7 +48,7 @@ Table 3: Incidence of Adverse Reactions ≥1% Causal Relationship not Assessed
 | Flatulence | 2.7 | 5.8 |
 | Nausea | 4.0 | 6.7 |
 | Vomiting | 3.2 | 10.0 |
-| Acid regurgitation | 1.9 | 3.3 |
+| Acid Regurgitation | 1.9 | 3.3 |
 | Nervous System/Psychiatric |  |  |
 | Headache | 2.9 | 2.5 |
 
@@ -119,11 +119,11 @@ NOS = Not otherwise specified.
 The following adverse reactions have been identified during post-approval use of omeprazole.
 Because these reactions are voluntarily reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole: Hypersensitivity reactions, including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria (see also Skin below), fever, pain, fatigue, malaise, systemic lupus erythematosus.
+Body as a Whole: Hypersensitivity reactions, including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria (see also Skin below), fever, pain, fatigue, malaise, and systemic lupus erythematosus.
 
 Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitation, elevated blood pressure, and peripheral edema.
 
-Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, flatulence, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, dry mouth, stomatitis and abdominal swelling.
+Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, flatulence, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, dry mouth, stomatitis, and abdominal swelling.
 During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
 These polyps are benign and appear to be reversible when treatment is discontinued.
 Gastroduodenal carcinoids have been reported in patients with Zollinger-Ellison syndrome on long-term treatment with omeprazole.
@@ -146,7 +146,7 @@ Skin: Severe generalized skin reactions including toxic epidermal necrolysis (TE
 
 Special Senses: Tinnitus, taste perversion.
 
-Ocular: Blurred vision, ocular irritation, dry eye syndrome, optic atrophy, anterior ischemic optic neuropathy, optic neuritis and double vision.
+Ocular: Blurred vision, ocular irritation, dry eye syndrome, optic atrophy, anterior ischemic optic neuropathy, optic neuritis, and double vision.
 
 Urogenital: Interstitial nephritis (some with positive rechallenge), urinary tract infection, microscopic pyuria, urinary frequency, elevated serum creatinine, proteinuria, hematuria, glycosuria, testicular pain, and gynecomastia.
 

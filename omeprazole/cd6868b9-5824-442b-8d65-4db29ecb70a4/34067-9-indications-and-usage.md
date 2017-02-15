@@ -25,7 +25,7 @@ ZEGERID is indicated for the short-term treatment (4-8 weeks) of erosive esophag
 
 The efficacy of ZEGERID used for longer than 8 weeks in these patients has not been established.
 If a patient does not respond to 8 weeks of treatment, it may be helpful to give up to an additional 4 weeks of treatment.
-If there is recurrence of erosive esophagitis or GERD symptoms (e.g., heartburn), additional 4-8 week courses of ZEGERID may be considered.
+If there is recurrence of erosive esophagitis or GERD symptoms (e.g., heartburn), an additional 4-8 week courses of ZEGERID may be considered.
 [See Clinical Studies (14.3).]
 
 ## 1.4 Maintenance of Healing of Erosive Esophagitis

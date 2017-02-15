@@ -8,7 +8,7 @@ Risk Summary
 
 There are no adequate and well-controlled studies on the use of ZEGERID in pregnant women.
 Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use.
-Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole magnesium in rats and rabbits with doses about 68 times and 42 times, respectively, an oral human dose of 40 mg (based on a body surface area basis for a 60 kg person).
+Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole magnesium in rats and rabbits with doses about 68 times and 42 times, respectively, an oral human dose of 40 mg (based on body surface area basis for a 60 kg person).
 However, changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 33.6 times an oral human dose of 40 mg (see Animal Data).
 Because of the observed effect at high doses of esomeprazole magnesium on developing bone in rat studies, ZEGERID should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -20,7 +20,7 @@ A population-based retrospective cohort epidemiological study from the Swedish M
 The number of infants exposed in utero to omeprazole that had any malformation, low birth weight, low Apgar score, or hospitalization was similar to the number observed in this population.
 The number of infants born with ventricular septal defects and the number of stillborn infants was slightly higher in the omeprazole-exposed infants than the expected number in this population.
 
-A population-based retrospective cohort study covering all live births in Denmark from 1996-2009, reported on 1,800 live births whose mothers used omeprazole during the first trimester of pregnancy and 837, 317 live births whose mothers did not use any proton pump inhibitor.
+A population-based retrospective cohort study covering all live births in Denmark from 1996-2009, reported on 1,800 live births whose mothers used omeprazole during the first trimester of pregnancy and 837,317 live births whose mothers did not use any proton pump inhibitor.
 The overall rate of birth defects in infants born to mothers with first trimester exposure to omeprazole was 2.9% and 2.6% in infants born to mothers not exposed to any proton pump inhibitor during the first trimester.
 
 A retrospective cohort study reported on 689 pregnant women exposed to either H2-blockers or omeprazole in the first trimester (134 exposed to omeprazole) and 1,572 pregnant women unexposed to either during the first trimester.
@@ -30,7 +30,7 @@ A small prospective observational cohort study followed 113 women exposed to ome
 The reported rate of major congenital malformations was 4% in the omeprazole group, 2% in controls exposed to non-teratogens, and 2.8% in disease-paired controls.
 Rates of spontaneous and elective abortions, preterm deliveries, gestational age at delivery, and mean birth weight were similar among the groups.
 
-Several studies have reported no apparent adverse short-term effects on the infant when single dose oral or intravenous omeprazole was administered to over 200 pregnant women as premedication for cesarean section under general anesthesia.
+Several studies have reported no apparent adverse short-term effects on the infant when single-dose oral or intravenous omeprazole was administered to over 200 pregnant women as premedication for cesarean section under general anesthesia.
 
 Animal Data
 
@@ -47,9 +47,9 @@ In addition, decreased femur length, width and thickness of cortical bone, decre
 Physeal dysplasia in the femur was observed in offspring of rats treated with oral doses of esomeprazole magnesium at doses equal to or greater than 138 mg/kg/day (about 33.6 times an oral human dose of 40 mg on a body surface area basis).
 
 Effects on maternal bone were observed in pregnant and lactating rats in a pre- and postnatal toxicity study when esomeprazole magnesium was administered at oral doses of 14 to 280 mg/kg/day (about 3.4 to 68 times an oral human dose of 40 mg on a body surface area basis).
-When rats were dosed from gestational day 7 through weaning on postnatal day 21, a statistically significant decrease in maternal femur weight of up to 14% (as compared to placebo treatment) was observed at doses of esomeprazole magnesium equal to or greater than 138 mg/kg/day (about 33.6 times an oral human dose of 40 mg on a body surface area basis).
+When rats were dosed from gestational Day 7 through weaning on postnatal Day 21, a statistically significant decrease in maternal femur weight of up to 14% (as compared to placebo treatment) was observed at doses of esomeprazole magnesium equal to or greater than 138 mg/kg/day (about 33.6 times an oral human dose of 40 mg on a body surface area basis).
 
-A pre- and post natal development study in rats with esomeprazole strontium (using equimolar doses compared to esomeprazole magnesium study) produced similar results in dams and pups as described above.
+A pre- and postnatal development study in rats with esomeprazole strontium (using equimolar doses compared to esomeprazole magnesium study) produced similar results in dams and pups as described above.
 
 ## 8.3 Nursing Mothers
 
@@ -71,7 +71,7 @@ Increases in death were seen at the high dose, and at all doses of esomeprazole,
 
 ## 8.5 Geriatric Use
 
-Omeprazole was administered to over 2000 elderly individuals (≥ 65 years of age) in clinical trials in the U.S. and Europe.
+Omeprazole was administered to over 2000 elderly individuals (≥65 years of age) in clinical trials in the U.S. and Europe.
 There were no differences in safety and effectiveness between the elderly and younger subjects.
 Other reported clinical experience has not identified differences in response between the elderly and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
 

@@ -109,7 +109,7 @@ Especially tell your doctor if you take:
 - •clarithromycin (Biaxin, Biaxin XL)
 - •clopidogrel (Plavix)
 - •St.
-  John’s Wort (Hypericum perforatum)
+  John’s wort (Hypericum perforatum)
 - •rifampin (Rifater, Rifamate, Rimactane, Rifadin)
 - •methotrexate
 
@@ -238,7 +238,7 @@ For instructions on taking ZEGERID Capsules and ZEGERID Powder for Oral Suspensi
 Giving ZEGERID Powder for Oral Suspension through a nasogastric tube (NG tube) or gastric tube:
 
 - • Add 20 mL of water to a catheter tipped syringe and then add the contents of a packet as prescribed by your doctor.
-  Use only a catheter tipped syringe to give ZEGERID through a NG tube or orogastric tube.
+  Use only a catheter tipped syringe to give ZEGERID through an NG tube or orogastric tube.
 - • Shake the syringe to dissolve the powder.
 - • Give the medicine through the NG or orogastric tube into the stomach right away.
 - • Refill the syringe with an equal amount of water.
@@ -250,11 +250,17 @@ ZEGERID® Capsules and Powder for Oral Suspension are
 
 Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Zegerid is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Please see www.salix.com for patent information.
+
+Zegerid is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+
+All other product/brand names are trademarks of their respective owners.
 
 ©Valeant Pharmaceuticals North America LLC
 
 Rev.
 10/2016
 
-- New p/n
+- Patheon Med Guide: 95240002 / 2000008823
+
+Norwich Med Guide: 9549402

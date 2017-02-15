@@ -55,14 +55,13 @@ Conversely ½ of a 40 mg packet should not be substituted for one 20 mg packet.
 Patients should be advised that since both the 20 mg and 40 mg capsules contain the same amount of sodium bicarbonate (1100 mg), two capsules of 20 mg are not equivalent to one capsule of ZEGERID 40 mg; therefore, two 20 mg capsules of ZEGERID should not be substituted for one capsule of ZEGERID 40 mg.
 [See Dosage and Administration (2).]
 
-Please see www.salix.com for patent information.
-
 ZEGERID® Capsules and Powder for Oral Suspension are
 
-Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA Please see www.salix.com for patent information.
 
-Zegerid is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Zegerid is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+All other product/brand names are trademarks of their respective owners. ©Valeant Pharmaceuticals North America LLC
 
-©Valeant Pharmaceuticals North America LLC
+Patheon PI: 9524002 / 2000008823
 
-New p/n
+Norwich PI: 9549402
