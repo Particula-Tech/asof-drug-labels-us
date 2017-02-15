@@ -5,14 +5,14 @@
 Alogliptin and pioglitazone tablets should be taken once daily and can be taken with or without food.
 The tablets must not be split before swallowing.
 
-The recommended starting dose for alogliptin and pioglitazone tablets (alogliptin and pioglitazone):
+The recommended starting dose for alogliptin and pioglitazone tablets:
 
-- •for patients inadequately controlled on diet and exercise is 25 mg/15 mg or 25 mg/30 mg,
-- •for patients inadequately controlled on metformin monotherapy is 25 mg/15 mg or 25 mg/30 mg,
-- •for patients on alogliptin who require additional glycemic control is 25 mg/15 mg or 25 mg/30 mg,
-- •for patients on pioglitazone who require additional glycemic control is 25 mg/15 mg, 25 mg/30 mg or 25 mg/45 mg as appropriate based upon current therapy,
-- •for patients switching from alogliptin coadministered with pioglitazone, alogliptin and pioglitazone tablets may be initiated at the dose of alogliptin and pioglitazone based upon current therapy,
-- •for patients with congestive heart failure (NYHA Class I or II) is 25 mg/15 mg.
+- for patients inadequately controlled on diet and exercise is 25 mg/15 mg or 25 mg/30 mg,
+- for patients inadequately controlled on metformin monotherapy is 25 mg/15 mg or 25 mg/30 mg,
+- for patients on alogliptin who require additional glycemic control is 25 mg/15 mg or 25 mg/30 mg,
+- for patients on pioglitazone who require additional glycemic control is 25 mg/15 mg, 25 mg/30 mg or 25 mg/45 mg as appropriate based upon current therapy,
+- for patients switching from alogliptin coadministered with pioglitazone, alogliptin and pioglitazone tablets may be initiated at the dose of alogliptin and pioglitazone based upon current therapy,
+- for patients with congestive heart failure (NYHA Class I or II) is 25 mg/15 mg.
 
 The alogliptin and pioglitazone tablets dose can be titrated up to a maximum of 25 mg/45 mg once daily based on glycemic response as determined by hemoglobin A1c (A1C).
 

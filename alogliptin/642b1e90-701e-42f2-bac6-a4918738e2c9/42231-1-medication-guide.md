@@ -12,14 +12,12 @@ What is the most important information I should know about alogliptin and piogli
 Alogliptin and pioglitazone tablets can cause serious side effects, including:
 
 - 1.Heart failure: Alogliptin and pioglitazone tablets can cause heart failure and cause your body to keep extra fluid (fluid retention), which leads to swelling (edema) and weight gain.
-  Extra body fluid can make some heart problems worse or lead to heart failure.
-  Before you start taking alogliptin and pioglitazone tablets:Tell your doctor if you have ever had heart failure or have problems with your kidneys.Call your doctor right away if you have any of the following symptoms:
+  Extra body fluid can make some heart problems worse or lead to heart failure.Before you start taking alogliptin and pioglitazone tablets:Tell your doctor if you have ever had heart failure or have problems with your kidneys.Call your doctor right away if you have any of the following symptoms:These may be symptoms of heart failure.
   - shortness of breath or trouble breathing, especially when you lie down
   - an unusually fast increase in weight
-  - swelling or fluid retention, especially in the feet, ankles, or legs These may be symptoms of heart failure.
+  - swelling or fluid retention, especially in the feet, ankles, or legs
 - 2.Inflammation of the pancreas (pancreatitis): Alogliptin, one of the medicines in alogliptin and pioglitazone tablets, may cause pancreatitis, which may be severe.
-  Certain medical conditions make you more likely to get pancreatitis.
-  Before you start taking alogliptin and pioglitazone tablets:Tell your doctor if you have ever had: pancreatitis kidney problems liver problems Stop taking alogliptin and pioglitazone tablets and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
+  Certain medical conditions make you more likely to get pancreatitis.Before you start taking alogliptin and pioglitazone tablets:Tell your doctor if you have ever had: pancreatitis kidney problems liver problems Stop taking alogliptin and pioglitazone tablets and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
   The pain may be felt going from your abdomen through to your back.
   The pain may happen with or without vomiting.
   These may be symptoms of pancreatitis.
@@ -40,8 +38,7 @@ Do not take alogliptin and pioglitazone tablets if you:
 
 - have severe heart failure
 - are allergic to alogliptin (NESINA), pioglitazone (ACTOS) or any ingredient in alogliptin and pioglitazone tablets or have had a serious allergic (hypersensitivity) reaction to alogliptin or pioglitazone.
-  See the end of this Medication Guide for a complete list of the ingredients in alogliptin and pioglitazone tablets.
-  Symptoms of a serious allergic reaction to alogliptin and pioglitazone tablets may include: swelling of your face, lips, throat and other areas on your skinraised, red areas on your skin (hives) difficulty with swallowing or breathingskin rash, itching, flaking or peeling
+  See the end of this Medication Guide for a complete list of the ingredients in alogliptin and pioglitazone tablets.Symptoms of a serious allergic reaction to alogliptin and pioglitazone tablets may include: swelling of your face, lips, throat and other areas on your skinraised, red areas on your skin (hives) difficulty with swallowing or breathingskin rash, itching, flaking or peeling
 
 If you have these symptoms, stop taking alogliptin and pioglitazone tablets and contact your doctor or go to the nearest hospital emergency room right away.
 
@@ -63,9 +60,8 @@ Before you start taking alogliptin and pioglitazone tablets, tell your doctor if
   Talk to your doctor about birth control choices while taking alogliptin and pioglitazone tablets.
   Tell your doctor right away if you become pregnant while taking alogliptin and pioglitazone tablets.
 - are breastfeeding or plan to breastfeed.
-  It is not known whether alogliptin and pioglitazone tablets pass into your breast milk and if it can harm your baby.
-  You should not take alogliptin and pioglitazone tablets if you breastfeed your baby.
-  Talk with your doctor about the best way to feed your baby if you are taking alogliptin and pioglitazone tablets.
+  It is not known whether alogliptin and pioglitazone pass into your breast milk and if it can harm your baby.
+  Talk with your doctor about the best way to control your blood glucose levels while breastfeeding.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 
@@ -123,6 +119,10 @@ Alogliptin and pioglitazone tablets can cause serious side effects, including:
 - Joint pain.
   Some people who take medicines called DPP-4 inhibitors, one of the medicines in alogliptin and pioglitazone tablets, may develop joint pain that can be severe.
   Call your doctor if you have severe joint pain.
+- Skin reaction.
+  Some people who take medicines called DPP-4 inhibitors, one of the medicines in alogliptin and pioglitazone tablets, may develop a skin reaction called bullous pemphigoid that can require treatment in a hospital.
+  Tell your doctor right away if you develop blisters or the breakdown of the outer layer of your skin (erosion).
+  Your doctor may tell you to stop taking alogliptin and pioglitazone tablets.
 
 The most common side effects of alogliptin and pioglitazone tablets include stuffy or runny nose and sore throat, back pain, cold-like symptoms (upper respiratory tract infection).
 
@@ -160,11 +160,11 @@ Active ingredients: alogliptin and pioglitazone.
 
 Inactive ingredients: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, croscarmellose sodium, magnesium stearate, and lactose monohydrate; the tablets are film-coated with hypromellose, polyethylene glycol, titanium dioxide, talc and ferric oxide (yellow and/or red) and are marked with red A1 or gray F1 printing ink.
 
-Distributed By Perrigo® Allegan, MI 49010 ∙ www.perrigo.com
+Distributed By Perrigo® Allegan, MI 49010 • www.perrigo.com
 
 All trademarks are the property of their respective owners
 
-ALS333R2
+ALS333 R3
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-4/2016
+12/2016

@@ -13,14 +13,13 @@ In the EXAMINE trial which enrolled patients with type 2 diabetes and recent acu
 Pioglitazone
 
 Pioglitazone, like other thiazolidinediones, can cause dose-related fluid retention when used alone or in combination with other antidiabetic medications and is most common when pioglitazone is used in combination with insulin.
-Fluid retention may lead to or exacerbate congestive heart failure.
-[see Boxed Warning, Contraindications (4) and Adverse Reactions (6.1)].
+Fluid retention may lead to or exacerbate congestive heart failure [see Boxed Warning, Contraindications (4) and Adverse Reactions (6.1)].
 
 ## 5.2 Pancreatitis
 
 Acute pancreatitis has been reported in the postmarketing setting and in randomized clinical trials.
-In glycemic control trials in patients with type 2 diabetes, acute pancreatitis was reported in 6 (0.2%) patients treated with alogliptin 25 mg and 2 (<0.1%) patients treated with active comparators or placebo.
-In the EXAMINE trial (a cardiovascular outcomes trial of patients with type 2 diabetes and high cardiovascular (CV) risk), acute pancreatitis was reported in 10 (0.4%) of patients treated with alogliptin and in 7 (0.3%) of patients treated with placebo.
+In glycemic control trials in patients with type 2 diabetes, acute pancreatitis was reported in six (0.2%) patients treated with alogliptin 25 mg and two (<0.1%) patients treated with active comparators or placebo.
+In the EXAMINE trial (a cardiovascular outcomes trial of patients with type 2 diabetes and high cardiovascular (CV) risk), acute pancreatitis was reported in ten (0.4%) patients treated with alogliptin and in seven (0.3%) patients treated with placebo.
 
 It is unknown whether patients with a history of pancreatitis are at increased risk for pancreatitis while using alogliptin and pioglitazone tablets.
 
@@ -58,7 +57,7 @@ In postmarketing experience, reports of new onset or worsening of edema have bee
 
 Alogliptin and pioglitazone tablets should be used with caution in patients with edema.
 Because thiazolidinediones, including pioglitazone, can cause fluid retention, which can exacerbate or lead to congestive heart failure, alogliptin and pioglitazone tablets should be used with caution in patients at risk for congestive heart failure.
-Patients treated with alogliptin and pioglitazone tablets should be monitored for signs and symptoms of congestive heart failure [see Boxed Warning, Warnings and Precautions (5.1) and Patient Counseling Information (17.1)].
+Patients treated with alogliptin and pioglitazone tablets should be monitored for signs and symptoms of congestive heart failure [see Boxed Warning, Warnings and Precautions (5.1) and Patient Counseling Information (17)].
 
 ## 5.6 Fractures
 
@@ -76,15 +75,24 @@ The risk of fracture should be considered in the care of patients, especially fe
 Pioglitazone
 
 Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
-In two 3-year trials in which pioglitazone was compared to placebo or glyburide, there were 16/3656 (0.44%) reports of bladder cancer in patients taking pioglitazone compared to 5/3679 (0.14%) in patients not taking pioglitazone.
-After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.16%) cases on pioglitazone and two (0.05%) cases on placebo.
+In addition, during the three year PROactive clinical trial, 14 patients out of 2605 (0.54%) randomized to pioglitazone and 5 out of 2633 (0.19%) randomized to placebo were diagnosed with bladder cancer.
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.23%) cases on pioglitazone and two (0.08%) cases on placebo.
+After completion of the trial, a large subset of patients was observed for up to ten additional years, with little additional exposure to pioglitazone.
+During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to pioglitazone or placebo (HR =1.00; [95% CI: 0.59–1.72]).
 
-A five-year interim report of an ongoing 10-year observational cohort study found a nonsignificant increase in the risk for bladder cancer in subjects ever exposed to pioglitazone, compared to subjects never exposed to pioglitazone (HR 1.2 [95% CI 0.9–1.5]).
-Compared to never exposure, a duration of pioglitazone therapy longer than 12 months was associated with an increase in risk (HR 1.4 [95% CI 0.9–2.1]), which reached statistical significance after more than 24 months of pioglitazone use (HR 1.4 [95% CI 1.03–2.0]).
-Interim results from this study suggested that taking pioglitazone longer than 12 months increased the relative risk of developing bladder cancer in any given year by 40%, which equates to an absolute increase of three cases in 10,000 (from approximately seven in 10,000 [without pioglitazone] to approximately 10 in 10,000 [with pioglitazone]).
+Findings regarding the risk of bladder cancer in patients exposed to pioglitazone vary among observational studies; some did not find an increased risk of bladder cancer associated with pioglitazone, while others did.
 
+A large prospective ten year observational cohort study conducted in the United States found no statistically significant increase in the risk of bladder cancer in diabetic patients ever exposed to pioglitazone, compared to those never exposed to pioglitazone (HR =1.06 [95% CI 0.89–1.26]).
+
+A retrospective cohort study conducted with data from the United Kingdom found a statistically significant association between ever exposure to pioglitazone and bladder cancer (HR: 1.63; [95% CI: 1.22–2.19]).
+
+Associations between cumulative dose or cumulative duration of exposure to pioglitazone and bladder cancer were not detected in some studies including the ten year observational study in the U.S., but were in others.
+Inconsistent findings and limitations inherent in these and other studies preclude conclusive interpretations of the observational data.
+
+Pioglitazone may be associated with an increase in the risk of urinary bladder tumors.
 There are insufficient data to determine whether pioglitazone is a tumor promoter for urinary bladder tumors.
-Consequently, pioglitazone should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with pioglitazone should be considered in patients with a prior history of bladder cancer.
+
+Consequently, alogliptin and pioglitazone tablets should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with alogliptin and pioglitazone tablets should be considered in patients with a prior history of bladder cancer.
 
 ## 5.8 Use with Medications Known to Cause Hypoglycemia
 
@@ -104,22 +112,20 @@ Some patients had improvement in their macular edema after discontinuation of th
 Patients with diabetes should have regular eye exams by an ophthalmologist according to current standards of care.
 Patients with diabetes who report any visual symptoms should be promptly referred to an ophthalmologist, regardless of the patient's underlying medications or other physical findings [see Adverse Reactions (6.1)].
 
-## 5.10 Ovulation
-
-Pioglitazone
-
-Therapy with pioglitazone, like other thiazolidinediones, may result in ovulation in some premenopausal anovulatory women.
-As a result, these patients may be at an increased risk for pregnancy while taking alogliptin and pioglitazone tablets [see Use in Specific Populations (8.1)].
-This effect has not been investigated in clinical trials, so the frequency of this occurrence is not known.
-Adequate contraception in all premenopausal women treated with alogliptin and pioglitazone tablets is recommended.
-
-## 5.11 Severe and Disabling Arthralgia
+## 5.10 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
 Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
+
+## 5.11 Bullous Pemphigoid
+
+Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
+In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
+Tell patients to report development of blisters or erosions while receiving alogliptin and pioglitazone tablets.
+If bullous pemphigoid is suspected, alogliptin and pioglitazone tablets should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
 
 ## 5.12 Macrovascular Outcomes
 

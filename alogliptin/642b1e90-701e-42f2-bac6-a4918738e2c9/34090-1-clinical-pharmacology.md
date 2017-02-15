@@ -30,11 +30,11 @@ Because pioglitazone enhances the effects of circulating insulin (by decreasing 
 
 Alogliptin and Pioglitazone
 
-In a 26-week, randomized, active-controlled study, patients with type 2 diabetes received alogliptin 25 mg coadministered with pioglitazone 30 mg, alogliptin 12.5 mg coadministered with pioglitazone 30 mg, alogliptin 25 mg alone or pioglitazone 30 mg alone.
+In a 26 week, randomized, active-controlled study, patients with type 2 diabetes received alogliptin 25 mg coadministered with pioglitazone 30 mg, alogliptin 12.5 mg coadministered with pioglitazone 30 mg, alogliptin 25 mg alone or pioglitazone 30 mg alone.
 Patients who were randomized to alogliptin 25 mg with pioglitazone 30 mg achieved a 26.2% decrease in triglyceride levels from a mean baseline of 214.2 mg/dL compared to an 11.5% decrease for alogliptin alone and a 21.8% decrease for pioglitazone alone.
 In addition, a 14.4% increase in HDL cholesterol levels from a mean baseline of 43.2 mg/dL was also observed for alogliptin 25 mg with pioglitazone 30 mg compared to a 1.9% increase for alogliptin alone and a 13.2% increase for pioglitazone alone.
 The changes in measures of LDL cholesterol and total cholesterol were similar between alogliptin 25 mg with pioglitazone 30 mg versus alogliptin alone and pioglitazone alone.
-A similar pattern of lipid effects was observed in a 26-week, placebo-controlled factorial study.
+A similar pattern of lipid effects was observed in a 26 week, placebo-controlled factorial study.
 
 Alogliptin
 
@@ -42,7 +42,7 @@ Single-dose administration of alogliptin to healthy subjects resulted in a peak 
 The peak inhibition of DPP-4 exceeded 93% across doses of 12.5 mg to 800 mg.
 Inhibition of DPP-4 remained above 80% at 24 hours for doses greater than or equal to 25 mg.
 Peak and total exposure over 24 hours to active GLP-1 were three- to four-fold greater with alogliptin (at doses of 25 to 200 mg) than placebo.
-In a 16-week, double-blind, placebo-controlled study alogliptin 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an eight-hour period following a standardized meal.
+In a 16 week, double-blind, placebo-controlled study alogliptin 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an eight-hour period following a standardized meal.
 It is unclear how these findings relate to changes in overall glycemic control in patients with type 2 diabetes mellitus.
 In this study, alogliptin 25 mg demonstrated decreases in two-hour postprandial glucose compared to placebo (-30 mg/dL versus 17 mg/dL respectively).
 
@@ -59,12 +59,12 @@ Patients with lipid abnormalities were included in clinical trials with pioglita
 Overall, patients treated with pioglitazone had mean decreases in serum triglycerides, mean increases in HDL cholesterol and no consistent mean changes in LDL and total cholesterol.
 There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.11) and Adverse Reactions (6.1)].
 
-In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the pioglitazone 15 mg, 30 mg and 45 mg dose groups compared to a mean increase in the placebo group.
+In a 26 week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the pioglitazone 15 mg, 30 mg and 45 mg dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone than in the placebo-treated patients.
 There were no consistent differences for LDL and total cholesterol in patients treated with pioglitazone compared to placebo (Table 7).
 
 Table 7.
-Lipids in a 26-Week, Placebo-Controlled, Monotherapy, Dose-Ranging Study
+Lipids in a 26 Week, Placebo-Controlled, Monotherapy, Dose-Ranging Study
 
 |  | Placebo | Pioglitazone 15 mg Once Daily | Pioglitazone 30 mg Once Daily | Pioglitazone 45 mg Once Daily |
 | --- | --- | --- | --- | --- |
@@ -124,11 +124,11 @@ Metabolism
 
 Alogliptin
 
-Alogliptin does not undergo extensive metabolism, and 60% to 71% of the dose is excreted as unchanged drug in the urine.
+Alogliptin does not undergo extensive metabolism and 60% to 71% of the dose is excreted as unchanged drug in the urine.
 
 Two minor metabolites were detected following administration of an oral dose of [14C] alogliptin, N-demethylated, M-I (less than 1% of the parent compound), and N-acetylated alogliptin, M-II (less than 6% of the parent compound).
 M-I is an active metabolite and is an inhibitor of DPP-4 similar to the parent molecule; M-II does not display any inhibitory activity toward DPP-4 or other DPP-related enzymes.
-In vitro data indicate that, CYP2D6 and CYP3A4 contribute to the limited metabolism of alogliptin.
+In vitro data indicate that CYP2D6 and CYP3A4 contribute to the limited metabolism of alogliptin.
 
 Alogliptin exists predominantly as the (R)-enantiomer (more than 99%) and undergoes little or no chiral conversion in vivo to the (S)-enantiomer.
 The (S)-enantiomer is not detectable at the 25 mg dose.
@@ -171,14 +171,15 @@ Renal Impairment
 Alogliptin
 
 A single-dose, open-label study was conducted to evaluate the pharmacokinetics of alogliptin 50 mg in patients with chronic renal impairment compared with healthy subjects.
-In patients with mild renal impairment (creatinine clearance [CrCl] ≥60 to <90 mL/min), an approximate 1.2-fold increase in plasma AUC of alogliptin was observed.
+
+In patients with mild renal impairment (creatinine clearance [CrCl] ≥60 to <90 mL/min), an approximate 1.2 fold increase in plasma AUC of alogliptin was observed.
 Because increases of this magnitude are not considered clinically relevant, dose adjustment for patients with mild renal impairment is not recommended.
 
-In patients with moderate renal impairment (CrCl ≥30 to <60 mL/min), an approximate two-fold increase in plasma AUC of alogliptin was observed.
+In patients with moderate renal impairment (CrCl ≥30 to <60 mL/min), an approximate two fold increase in plasma AUC of alogliptin was observed.
 To maintain similar systemic exposures of alogliptin and pioglitazone tablets to those with normal renal function, the recommended dose of alogliptin and pioglitazone tablets is 12.5 mg/15 mg, 12.5 mg/30 mg or 12.5 mg/45 mg once daily in patients with moderate renal impairment.
 
-In patients with severe renal impairment (CrCl ≥15 to <30 mL/min) and end-stage renal disease (ESRD) (CrCl <15 mL/min or requiring dialysis), an approximate three- and four-fold increase in plasma AUC of alogliptin were observed, respectively.
-Dialysis removed approximately 7% of the drug during a three-hour dialysis session.
+In patients with severe renal impairment (CrCl ≥15 to <30 mL/min) and end-stage renal disease (ESRD) (CrCl <15 mL/min or requiring dialysis), an approximate three and four fold increase in plasma AUC of alogliptin were observed, respectively.
+Dialysis removed approximately 7% of the drug during a three hour dialysis session.
 Alogliptin and pioglitazone tablets are not recommended for patients with severe renal impairment or ESRD.
 Coadministration of pioglitazone and alogliptin 6.25 mg once daily based on individual requirements may be considered in these patients.
 
@@ -227,7 +228,7 @@ Age did not have any clinically meaningful effect on the pharmacokinetics of alo
 Pioglitazone
 
 In healthy elderly subjects, peak serum concentrations of pioglitazone and total pioglitazone are not significantly different, but AUC values are approximately 21% higher than those achieved in younger subjects.
-The mean terminal half-life values of pioglitazone were also longer in elderly subjects (about 10 hours) as compared to younger subjects (about seven hours).
+The mean terminal half-life values of pioglitazone were also longer in elderly subjects (about ten hours) as compared to younger subjects (about seven hours).
 These changes were not of a magnitude that would be considered clinically relevant.
 
 Pediatrics
@@ -307,7 +308,7 @@ Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs
 | 45 mg daily for 8 days (N=16) | Metformin |  |  |  |  |
 | 1000 mg single dose on 8 days | ↓3% |  | ↓5% |  |  |
 | 45 mg (N=21) | Midazolam |  |  |  |  |
-| 7.5 mg single dose on day 15 | ↓26% |  | ↓26% |  |  |
+| 7.5 mg single dose on Day 15 | ↓26% |  | ↓26% |  |  |
 | 45 mg (N=24) | Ranitidine |  |  |  |  |
 | 150 mg twice daily for 7 days | ↑1% |  | ↓1% |  |  |
 | 45 mg daily for 4 days (N=24) | Nifedipine ER |  |  |  |  |

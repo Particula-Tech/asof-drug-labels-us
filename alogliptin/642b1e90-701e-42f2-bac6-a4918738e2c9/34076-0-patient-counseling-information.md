@@ -23,13 +23,14 @@ Tell patients to promptly report any sign of macroscopic hematuria or other symp
 Inform patients that hypoglycemia can occur, particularly when an insulin secretagogue or insulin is used in combination with alogliptin and pioglitazone tablets.
 Explain the risks, symptoms and appropriate management of hypoglycemia.
 
-Therapy with thiazolidinediones, including pioglitazone, which is one of the active components of alogliptin and pioglitazone tablets, may result in ovulation in some premenopausal anovulatory women.
-As a result, these patients may be at an increased risk for pregnancy while taking alogliptin and pioglitazone tablets.
-Therefore, adequate contraception should be recommended for all premenopausal women who are prescribed alogliptin and pioglitazone tablets.
+Inform female patients that treatment with pioglitazone, like other thiazolidinediones, may result in an unintended pregnancy in some premenopausal anovulatory females due to its effect on ovulation [see Use in Specific Populations (8.3)].
 
 Inform patients that severe and disabling joint pain may occur with this class of drugs.
 The time to onset of symptoms can range from one day to years.
 Instruct patients to seek medical advice if severe joint pain occurs.
+
+Inform patients that bullous pemphigoid may occur with this class of drugs.
+Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.11)].
 
 Instruct patients to take alogliptin and pioglitazone tablets only as prescribed daily.
 Alogliptin and pioglitazone tablets can be taken with or without meals.

@@ -6,6 +6,8 @@ The following serious adverse reactions are described below or elsewhere in the 
 - Pancreatitis [see Warnings and Precautions (5.2)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
 - Hepatic Effects [see Warnings and Precautions (5.4)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.10)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -36,15 +38,15 @@ Adverse Reactions Reported in ≥4% of Patients Treated with Alogliptin and Piog
 
 Alogliptin Add-On Therapy to a Thiazolidinedione
 
-In addition, in a 26-week, placebo-controlled, double-blind study, patients inadequately controlled on a thiazolidinedione alone or in combination with metformin or a sulfonylurea were treated with add-on alogliptin therapy or placebo; the adverse reactions reported in ≥5% of patients and more frequently than in patients who received placebo was influenza (alogliptin, 5.5%; placebo, 4.1%).
+In addition, in a 26 week, placebo-controlled, double-blind study, patients inadequately controlled on a thiazolidinedione alone or in combination with metformin or a sulfonylurea were treated with add-on alogliptin therapy or placebo; the adverse reactions reported in ≥5% of patients and more frequently than in patients who received placebo was influenza (alogliptin, 5.5%; placebo, 4.1%).
 
 Hypoglycemia
 
-In a 26-week, placebo-controlled factorial study with alogliptin in combination with pioglitazone on background therapy with metformin, the incidence of subjects reporting hypoglycemia was 0.8%, 0% and 3.8% for alogliptin 25 mg with pioglitazone 15 mg, 30 mg or 45 mg, respectively; 2.3% for alogliptin 25 mg; 4.7%, 0.8% and 0.8% for pioglitazone 15 mg, 30 mg or 45 mg, respectively; and 0.8% for placebo.
+In a 26 week, placebo-controlled factorial study with alogliptin in combination with pioglitazone on background therapy with metformin, the incidence of subjects reporting hypoglycemia was 0.8%, 0% and 3.8% for alogliptin 25 mg with pioglitazone 15 mg, 30 mg or 45 mg, respectively; 2.3% for alogliptin 25 mg; 4.7%, 0.8% and 0.8% for pioglitazone 15 mg, 30 mg or 45 mg, respectively; and 0.8% for placebo.
 
-In a 26-week, active-controlled, double-blind study with alogliptin alone, pioglitazone alone or alogliptin coadministered with pioglitazone in patients inadequately controlled on diet and exercise, the incidence of hypoglycemia was 3% on alogliptin 25 mg with pioglitazone 30 mg, 0.6% on alogliptin 25 mg and 1.8% on pioglitazone 30 mg.
+In a 26 week, active-controlled, double-blind study with alogliptin alone, pioglitazone alone or alogliptin coadministered with pioglitazone in patients inadequately controlled on diet and exercise, the incidence of hypoglycemia was 3% on alogliptin 25 mg with pioglitazone 30 mg, 0.6% on alogliptin 25 mg and 1.8% on pioglitazone 30 mg.
 
-In a 52-week, active-controlled, double-blind study of alogliptin as add-on therapy to the combination of pioglitazone 30 mg and metformin compared to the titration of pioglitazone 30 mg to 45 mg and metformin, the incidence of subjects reporting hypoglycemia was 4.5% in the alogliptin 25 mg with pioglitazone 30 mg and metformin group versus 1.5% in the pioglitazone 45 mg and metformin group.
+In a 52 week, active-controlled, double-blind study of alogliptin as add-on therapy to the combination of pioglitazone 30 mg and metformin compared to the titration of pioglitazone 30 mg to 45 mg and metformin, the incidence of subjects reporting hypoglycemia was 4.5% in the alogliptin 25 mg with pioglitazone 30 mg and metformin group versus 1.5% in the pioglitazone 45 mg and metformin group.
 
 Alogliptin
 
@@ -96,14 +98,14 @@ Pioglitazone
 Over 8500 patients with type 2 diabetes have been treated with pioglitazone in randomized, double-blind, controlled clinical trials, including 2605 patients with type 2 diabetes and macrovascular disease treated with pioglitazone in the PROactive clinical trial.
 In these trials, over 6000 patients have been treated with pioglitazone for six months or longer, over 4500 patients have been treated with pioglitazone for one year or longer, and over 3000 patients have been treated with pioglitazone for at least two years.
 
-Common Adverse Reactions: 16- to 26-Week Monotherapy Trials
+Common Adverse Reactions: 16 to 26 Week Monotherapy Trials
 
-A summary of the incidence and type of common adverse reactions reported in three pooled 16- to 26-week placebo-controlled monotherapy trials of pioglitazone is provided in Table 3.
+A summary of the incidence and type of common adverse reactions reported in three pooled 16 to 26 week placebo-controlled monotherapy trials of pioglitazone is provided in Table 3.
 Terms that are reported represent those that occurred at an incidence of >5% and more commonly in patients treated with pioglitazone than in patients who received placebo.
 None of these adverse reactions were related to pioglitazone dose.
 
 Table 3.
-Three Pooled 16- to 26-Week Placebo-Controlled Clinical Trials of Pioglitazone Monotherapy: Adverse Reactions Reported at an Incidence >5% and More Commonly in Patients Treated with Pioglitazone than in Patients Treated with Placebo
+Three Pooled 16 to 26 Week Placebo-Controlled Clinical Trials of Pioglitazone Monotherapy: Adverse Reactions Reported at an Incidence >5% and More Commonly in Patients Treated with Pioglitazone than in Patients Treated with Placebo
 
 |  | Placebo N=259 | Pioglitazone N=606 |
 | --- | --- | --- |
@@ -116,7 +118,7 @@ Three Pooled 16- to 26-Week Placebo-Controlled Clinical Trials of Pioglitazone M
 
 Congestive Heart Failure
 
-A summary of the incidence of adverse reactions related to congestive heart failure for the 16- to 24-week add-on to sulfonylurea trials, for the 16- to 24-week add-on to insulin trials, and for the 16- to 24-week add-on to metformin trials were (at least one congestive heart failure, 0.2% to 1.7%; hospitalized due to congestive heart failure, 0.2% to 0.9%).
+A summary of the incidence of adverse reactions related to congestive heart failure for the 16 to 24 week add-on to sulfonylurea trials, for the 16 to 24 week add-on to insulin trials, and for the 16 to 24 week add-on to metformin trials were (at least one congestive heart failure, 0.2% to 1.7%; hospitalized due to congestive heart failure, 0.2% to 0.9%).
 None of the reactions were fatal.
 
 Patients with type 2 diabetes and NYHA class II or early class III congestive heart failure were randomized to receive 24 weeks of double-blind treatment with either pioglitazone at daily doses of 30 mg to 45 mg (N=262) or glyburide at daily doses of 10 mg to 15 mg (N=256).
@@ -156,7 +158,7 @@ The primary objective of this trial was to examine the effect of pioglitazone on
 The primary efficacy variable was the time to the first occurrence of any event in a cardiovascular composite endpoint that included all-cause mortality, nonfatal myocardial infarction (MI) including silent MI, stroke, acute coronary syndrome, cardiac intervention including coronary artery bypass grafting or percutaneous intervention, major leg amputation above the ankle and bypass surgery or revascularization in the leg.
 A total of 514 (19.7%) patients treated with pioglitazone and 572 (21.7%) placebo-treated patients experienced at least one event from the primary composite endpoint (hazard ratio 0.90; 95% Confidence Interval: 0.80, 1.02; p=0.10).
 
-Although there was no statistically significant difference between pioglitazone and placebo for the three-year incidence of a first event within this composite, there was no increase in mortality or in total macrovascular events with pioglitazone.
+Although there was no statistically significant difference between pioglitazone and placebo for the three year incidence of a first event within this composite, there was no increase in mortality or in total macrovascular events with pioglitazone.
 The number of first occurrences and total individual events contributing to the primary composite endpoint is shown in Table 6.
 
 Table 6.
@@ -194,21 +196,22 @@ None of the patients treated with pioglitazone in the pioglitazone controlled cl
 
 Hypoglycemia
 
-In the pioglitazone clinical trials, adverse reactions of hypoglycemia were reported based on clinical judgment of the investigators and did not require confirmation with fingerstick glucose testing.
-In the 16-week add-on to sulfonylurea trial, the incidence of reported hypoglycemia was 3.7% with pioglitazone 30 mg and 0.5% with placebo.
-In the 16-week add-on to insulin trial, the incidence of reported hypoglycemia was 7.9% with pioglitazone 15 mg, 15.4% with pioglitazone 30 mg and 4.8% with placebo.
-The incidence of reported hypoglycemia was higher with pioglitazone 45 mg compared to pioglitazone 30 mg in both the 24-week add-on to sulfonylurea trial (15.7% versus 13.4%) and in the 24-week add-on to insulin trial (47.8% versus 43.5%).
+In the pioglitazone clinical trials, adverse reactions of hypoglycemia were reported based on clinical judgment of the investigators and did not require confirmation with finger stick glucose testing.
+In the 16 week add-on to sulfonylurea trial, the incidence of reported hypoglycemia was 3.7% with pioglitazone 30 mg and 0.5% with placebo.
+In the 16 week add-on to insulin trial, the incidence of reported hypoglycemia was 7.9% with pioglitazone 15 mg, 15.4% with pioglitazone 30 mg and 4.8% with placebo.
+The incidence of reported hypoglycemia was higher with pioglitazone 45 mg compared to pioglitazone 30 mg in both the 24 week add-on to sulfonylurea trial (15.7% versus 13.4%) and in the 24 week add-on to insulin trial (47.8% versus 43.5%).
 Three patients in these four trials were hospitalized due to hypoglycemia.
-All three patients were receiving pioglitazone 30 mg (0.9%) in the 24-week add-on to insulin trial.
+All three patients were receiving pioglitazone 30 mg (0.9%) in the 24 week add-on to insulin trial.
 An additional 14 patients reported severe hypoglycemia (defined as causing considerable interference with patient's usual activities) that did not require hospitalization.
 These patients were receiving pioglitazone 45 mg in combination with sulfonylurea (N=2) or pioglitazone 30 mg or 45 mg in combination with insulin (N=12).
 
 Urinary Bladder Tumors
 
-Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
-In two 3-year trials in which pioglitazone was compared to placebo or glyburide, there were 16/3656 (0.44%) reports of bladder cancer in patients taking pioglitazone compared to 5/3679 (0.14%) in patients not taking pioglitazone.
-After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.16%) cases on pioglitazone and two (0.05%) cases on placebo.
-There are too few events of bladder cancer to establish causality.
+Tumors were observed in the urinary bladder of male rats in the two year carcinogenicity study [see Nonclinical Toxicology (13.1)].
+During the three year PROactive clinical trial, 14 patients out of 2605 (0.54%) randomized to pioglitazone and 5 out of 2633 (0.19%) randomized to placebo were diagnosed with bladder cancer.
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.23%) cases on pioglitazone and two (0.08%) cases on placebo.
+After completion of the trial, a large subset of patients was observed for up to ten additional years, with little additional exposure to pioglitazone.
+During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to pioglitazone or placebo (HR =1.00; 95% CI: 0.59-1.72) [see Warnings and Precautions (5.7)].
 
 ## 6.2 Laboratory Abnormalities
 
@@ -223,7 +226,7 @@ These changes may be related to increased plasma volume associated with pioglita
 
 Creatine Phosphokinase
 
-During protocol-specified measurement of serum creatine phosphokinase (CPK) in pioglitazone clinical trials, an isolated elevation in CPK to greater than 10 times the upper limit of the reference range was noted in nine (0.2%) patients treated with pioglitazone (values of 2150 to 11400 IU/L) and in no comparator-treated patients.
+During protocol-specified measurement of serum creatine phosphokinase (CPK) in pioglitazone clinical trials, an isolated elevation in CPK to greater than ten times the upper limit of the reference range was noted in nine (0.2%) patients treated with pioglitazone (values of 2150 to 11400 IU/L) and in no comparator-treated patients.
 Six of these nine patients continued to receive pioglitazone, two patients were noted to have the CPK elevation on the last day of dosing and one patient discontinued pioglitazone due to the elevation.
 These elevations resolved without any apparent clinical sequelae.
 The relationship of these events to pioglitazone therapy is unknown.
@@ -235,7 +238,7 @@ Alogliptin
 The following adverse reactions have been identified during the postmarketing use of alogliptin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia, acute pancreatitis, diarrhea, constipation, nausea and ileus [see Warnings and Precautions (5.2, 5.3, 5.4, 5.11)].
+Acute pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia and bullous pemphigoid, diarrhea, constipation, nausea and ileus [see Warnings and Precautions (5.2, 5.3, 5.4, 5.10, 5.11)].
 
 Pioglitazone
 
