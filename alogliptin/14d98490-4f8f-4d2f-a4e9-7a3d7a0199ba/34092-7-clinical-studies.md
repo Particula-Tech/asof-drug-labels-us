@@ -13,7 +13,7 @@ As is typical for trials of agents to treat type 2 diabetes, the mean reduction 
 
 Alogliptin and Metformin Coadministration in Patients with Type 2 Diabetes Inadequately Controlled on Diet and Exercise
 
-In a 26-week, double-blind, placebo-controlled study, a total of 784 patients inadequately controlled on diet and exercise alone (mean baseline A1C = 8.4%) were randomized to one of seven treatment groups: placebo; metformin HCl 500 mg or metformin HCl 1000 mg twice daily, alogliptin 12.5 mg twice daily, or alogliptin 25 mg daily; alogliptin 12.5 mg in combination with metformin HCl 500 mg or metformin HCl 1000 mg twice daily.
+In a 26 week, double-blind, placebo-controlled study, a total of 784 patients inadequately controlled on diet and exercise alone (mean baseline A1C = 8.4%) were randomized to one of seven treatment groups: placebo; metformin HCl 500 mg or metformin HCl 1000 mg twice daily, alogliptin 12.5 mg twice daily, or alogliptin 25 mg daily; alogliptin 12.5 mg in combination with metformin HCl 500 mg or metformin HCl 1000 mg twice daily.
 Both coadministration treatment arms (alogliptin 12.5 mg + metformin HCl 500 mg and alogliptin 12.5 mg + metformin HCl 1000 mg) resulted in significant improvements in A1C (Figure 3) and FPG when compared with their respective individual alogliptin and metformin component regimens (Table 6).
 Coadministration treatment arms demonstrated improvements in two-hour postprandial glucose (PPG) compared to alogliptin alone or metformin alone (Table 6).
 A total of 12% of patients receiving alogliptin 12.5 mg + metformin HCl 500 mg, 3% of patients receiving alogliptin 12.5 mg + metformin HCl 1000 mg, 17% of patients receiving alogliptin 12.5 mg, 23% of patients receiving metformin HCl 500 mg, 11% of patients receiving metformin HCl 1000 mg and 39% of patients receiving placebo required glycemic rescue.
@@ -30,8 +30,8 @@ Glycemic Parameters at Week 26 for Alogliptin and Metformin Alone and in Combina
 | A1C (%)Intent-to-treat population using last observation on study prior to discontinuation of double-blind study medication or sulfonylurea rescue therapy for patients needing rescue | N=102 | N=104 | N=103 | N=108 | N=102 | N=111 |
 | Baseline (mean) | 8.5 | 8.4 | 8.5 | 8.4 | 8.5 | 8.4 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, geographic region and baseline value) | 0.1 | -0.6 | -0.7 | -1.1 | -1.2 | -1.6 |
-| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.6 (-0.9, -0.3) | -0.4 (-0.7, -0.2) |
-| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.7p<0.05 when compared to metformin and alogliptin alone (-1.0, -0.4) | -1.0 (-1.3, -0.7) |
+| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.6p<0.05 when compared to metformin and alogliptin alone (-0.9, -0.3) | -0.4 (-0.7, -0.2) |
+| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.7 (-1.0, -0.4) | -1.0 (-1.3, -0.7) |
 | % of Patients (n/N) achieving A1C <7%Compared using logistic regression | 4% (4/102) | 20% (21/104) | 27% (28/103) | 34% (37/108) | 47% (48/102) | 59% (66/111) |
 | FPG (mg/dL) | N=105 | N=106 | N=106 | N=110 | N=106 | N=112 |
 | Baseline (mean) | 187 | 177 | 180 | 181 | 176 | 185 |
@@ -49,7 +49,7 @@ Change from Baseline A1C at Week 26 with Alogliptin and Metformin Alone and Alog
 
 Alogliptin and Metformin Coadministration in Patients with Type 2 Diabetes Inadequately Controlled on Metformin Alone
 
-In a 26-week, double-blind, placebo-controlled study, a total of 527 patients already on metformin (mean baseline A1C = 8%) were randomized to receive alogliptin 12.5 mg, alogliptin 25 mg, or placebo once daily.
+In a 26 week, double-blind, placebo-controlled study, a total of 527 patients already on metformin (mean baseline A1C = 8%) were randomized to receive alogliptin 12.5 mg, alogliptin 25 mg, or placebo once daily.
 Patients were maintained on a stable dose of metformin HCl (median daily dose = 1700 mg) during the treatment period.
 Alogliptin 25 mg in combination with metformin resulted in statistically significant improvements from baseline in A1C and FPG at Week 26, when compared to placebo (Table 7).
 A total of 8% of patients receiving alogliptin 25 mg and 24% of patients receiving placebo required glycemic rescue.
@@ -67,7 +67,7 @@ Glycemic Parameters at Week 26 in a Placebo-Controlled Study of Alogliptin as Ad
 | Baseline (mean) | 7.9 | 8.0 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline metformin dose.) | -0.6 | -0.1 |
 | Difference from placebo (adjusted mean with 95% confidence interval) | -0.5p<0.001 compared to placebo. (-0.7, -0.3) | ˗ |
-| % of Patients (n/N) achieving A1C ≤7% | 44% (92/207) | 18% (19/104) |
+| % of patients (n/N) achieving A1C ≤7% | 44% (92/207) | 18% (19/104) |
 | FPG (mg/dL) | N=204 | N=104 |
 | Baseline (mean) | 172 | 180 |
 | Change from baseline (adjusted mean) | -17 | 0 |
@@ -75,9 +75,9 @@ Glycemic Parameters at Week 26 in a Placebo-Controlled Study of Alogliptin as Ad
 
 Alogliptin Add-On Therapy in Patients with Type 2 Diabetes Inadequately Controlled on the Combination of Metformin and Pioglitazone
 
-In a 52-week, active-comparator study, a total of 803 patients inadequately controlled (mean baseline A1C = 8.2%) on a current regimen of pioglitazone 30 mg and metformin were randomized to either receive the addition of once-daily alogliptin 25 mg or the titration of pioglitazone 30 mg to 45 mg following a four-week single-blind, placebo run-in period.
+In a 52 week, active-comparator study, a total of 803 patients inadequately controlled (mean baseline A1C = 8.2%) on a current regimen of pioglitazone 30 mg and metformin were randomized to either receive the addition of once-daily alogliptin 25 mg or the titration of pioglitazone 30 mg to 45 mg following a four-week single-blind, placebo run-in period.
 Patients were maintained on a stable dose of metformin HCl (median daily dose = 1700 mg).
-Patients who failed to meet prespecified hyperglycemic goals during the 52-week treatment period received glycemic rescue therapy.
+Patients who failed to meet prespecified hyperglycemic goals during the 52 week treatment period received glycemic rescue therapy.
 
 In combination with pioglitazone and metformin, alogliptin 25 mg was shown to be statistically superior in lowering A1C and FPG compared with the titration of pioglitazone from 30 to 45 mg at Week 26 and at Week 52 (Table 8).
 A total of 11% of patients in the alogliptin 25 mg in combination with pioglitazone 30 mg and metformin treatment group and 22% of patients in the up titration of pioglitazone in combination with metformin treatment group required glycemic rescue.
@@ -94,7 +94,7 @@ Glycemic Parameters at Week 52 in an Active-Controlled Study of Alogliptin as Ad
 | A1C (%) | N=397 | N=394 |
 | Baseline (mean) | 8.2 | 8.1 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline metformin dose) | -0.7 | -0.3 |
-| Difference from pioglitazone 45 mg + metformin (adjusted mean with 95% confidence interval) | -0.4Noninferior and statistically superior to metformin + pioglitazone at the 0.025 one-sided significance level (-0.5, -0.3) | ˗ |
+| Difference from pioglitazone 45 mg + metformin(adjusted mean with 95% confidence interval) | -0.4Noninferior and statistically superior to metformin + pioglitazone at the 0.025 one-sided significance level (-0.5, -0.3) | ˗ |
 | % of Patients (n/N) achieving A1C ≤7% | 33% (134/404)p<0.001 compared to pioglitazone 45 mg + metformin | 21% (85/399) |
 | Fasting Plasma Glucose (mg/dL) | N=399 | N=396 |
 | Baseline (mean) | 162 | 162 |
@@ -141,9 +141,6 @@ Patients with MACE in EXAMINE
 The Kaplan-Meier based cumulative event probability is presented in Figure 4 for the time to first occurrence of the primary MACE composite endpoint by treatment arm.
 The curves for placebo and alogliptin overlap throughout the duration of the study.
 The observed incidence of MACE was highest within the first 60 days after randomization in both treatment arms (14.8 MACE per 100 PY), decreased from day 60 to the end of the first year (8.4 per 100 PY) and was lowest after 1 year of follow-up (5.2 per 100 PY).
-
-| Figure 4. Observed Cumulative Rate of MACE in EXAMINE |
-| --- |
 
 The rate of all cause death was similar between treatment arms with 153 (3.6 per 100 PY) recorded among patients randomized to alogliptin and 173 (4.1 per 100 PY) among patients randomized to placebo.
 A total of 112 deaths (2.9 per 100 PY) among patients on alogliptin and 130 among patients on placebo (3.5 per 100 PY) were adjudicated as cardiovascular deaths.

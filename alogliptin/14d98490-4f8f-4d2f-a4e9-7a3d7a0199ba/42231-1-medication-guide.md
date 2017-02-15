@@ -76,7 +76,7 @@ These may be symptoms of heart failure.
 What are alogliptin and metformin HCl tablets?
 
 - Alogliptin and metformin HCl tablets contain 2 prescription diabetes medicines, alogliptin (NESINA) and metformin hydrochloride.
-- Alogliptin and metformin HCl tablets are a prescription medicine used with diet and exercise to improve blood sugar (glucose) control in adults with type 2 diabetes.
+- Alogliptin and metformin HCl tablets are a prescription medicine used along with diet and exercise to improve blood sugar (glucose) control in adults with type 2 diabetes.
 - Alogliptin and metformin HCl tablets are not for people with type 1 diabetes.
 - Alogliptin and metformin HCl tablets are not for people with diabetic ketoacidosis (increased ketones in blood or urine).
 
@@ -95,7 +95,7 @@ Do not take alogliptin and metformin HCl tablets if you:
 
 Symptoms of a serious allergic reaction to alogliptin and metformin HCl tablets may include:
 
-| swelling of your face, lips, throat and other areas on your skin raised, red areas on your skin (hives) | difficulty with swallowing or breathing skin rash, itching, flaking or peeling |
+| swelling of your face, lips, throat and other areas on your skinraised, red areas on your skin (hives) | difficulty with swallowing or breathingskin rash, itching, flaking or peeling |
 | --- | --- |
 
 If you have any of these symptoms, stop taking alogliptin and metformin HCl tablets and contact your doctor or go to the nearest hospital emergency room right away.
@@ -115,7 +115,7 @@ Before you take alogliptin and metformin HCl tablets, tell your doctor if you:
   It is not known if alogliptin and metformin HCl tablets will harm your unborn baby.
   Talk with your doctor about the best way to control your blood sugar while you are pregnant or if you plan to become pregnant
 - are breastfeeding or plan to breastfeed.
-  It is not known whether alogliptin and metformin HCl tablets pass into your breast milk.
+  It is not known whether alogliptin and metformin pass into your breast milk.
   Talk with your doctor about the best way to feed your baby if you are taking alogliptin and metformin HCl tablets
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
@@ -148,26 +148,26 @@ What are the possible side effects of alogliptin and metformin HCl tablets?
 
 Alogliptin and metformin HCl tablets can cause serious side effects, including:
 
-See "What is the most important information I should know about alogliptin and metformin HCl tablets?"
-
-- Allergic (hypersensitivity) reactions, such as: swelling of your face, lips, throat and other areas on your skin raised, red areas on your skin (hives) difficulty swallowing or breathing skin rash, itching, flaking or peeling If you have these symptoms, stop taking alogliptin and metformin HCl tablets and contact your doctor right away.
-
+- See "What is the most important information I should know about alogliptin and metformin HCl tablets?"
+- Allergic (hypersensitivity) reactions, such as: swelling of your face, lips, throat and other areas on your skinraised, red areas on your skin (hives) difficulty swallowing or breathingskin rash, itching, flaking or peeling If you have these symptoms, stop taking alogliptin and metformin HCl tablets and contact your doctor right away.
 - Liver problems.
-  Call your doctor right away if you have unexplained symptoms, such as: nausea or vomiting loss of appetite stomach pain dark urine unusual or unexplained tiredness yellowing of your skin or the whites of your eyes
-
+  Call your doctor right away if you have unexplained symptoms, such as: nausea or vomitingloss of appetite stomach paindark urine unusual or unexplained tirednessyellowing of your skin or the whites of your eyes
 - Low blood sugar (hypoglycemia).
   If you take alogliptin and metformin HCl tablets with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
   The dose of your sulfonylurea medicine or insulin may need to be lowered while you take alogliptin and metformin HCl tablets.
   If you have symptoms of low blood sugar, you should check your blood sugar and treat if low, and then call your doctor.
-  Signs and symptoms of low blood sugar may include: shaking or feeling jitterysweating fast heartbeat change in vision hungerheadache change in moodconfusion dizziness
-
+  Signs and symptoms of low blood sugar may include: shaking or feeling jitterysweating fast heartbeatchange in vision hungerheadache change in moodconfusion dizziness
 - Joint pain.
   Some people who take medicines called DPP-4 inhibitors, one of the medicines in alogliptin and metformin HCl tablets, may develop joint pain that can be severe.
   Call your doctor if you have severe joint pain.
+- Skin reaction.
+  Some people who take medicines called DPP-4 inhibitors, one of the medicines in alogliptin and metformin HCl tablets, may develop a skin reaction called bullous pemphigoid that can require treatment in a hospital.
+  Tell your doctor right away if you develop blisters or the breakdown of the outer layer of your skin (erosion).
+  Your doctor may tell you to stop taking alogliptin and metformin HCl tablets.
 
 The most common side effects of alogliptin and metformin HCl tablets include:
 
-| cold-like symptoms (upper respiratory tract infection) increase in blood pressure urinary tract infection | stuffy or runny nose and sore throat headache | diarrhea back pain |
+| cold-like symptoms (upper respiratory tract infection)increase in blood pressureurinary tract infection | stuffy or runny nose and sore throatheadache | diarrheaback pain |
 | --- | --- | --- |
 
 Taking alogliptin and metformin HCl tablets with food can help lessen the common stomach side effects of metformin that usually happen at the beginning of treatment.
@@ -200,7 +200,7 @@ This Medication Guide summarizes the most important information about alogliptin
 If you would like to know more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about alogliptin and metformin HCl tablets that is written for health professionals.
 
-For more information, go to www.perrigo.com or call 1-877-TAKEDA-7 (1-877-825-3327).
+For more information go to www.perrigo.com or call 1-877-TAKEDA-7 (1-877-825-3327).
 
 What are the ingredients in alogliptin and metformin HCl tablets?
 
@@ -212,7 +212,7 @@ Distributed By Perrigo® Allegan, MI 49010 • www.perrigo.com
 
 All trademarks are the property of their respective owners
 
-ALK334 R3
+ALK334 R4
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-5/2016
+12/2016

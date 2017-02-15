@@ -30,11 +30,11 @@ Single-dose administration of alogliptin to healthy subjects resulted in a peak 
 The peak inhibition of DPP-4 exceeded 93% across doses of 12.5 mg to 800 mg.
 Inhibition of DPP-4 remained above 80% at 24 hours for doses greater than or equal to 25 mg.
 Peak and total exposure over 24 hours to active GLP-1 were three- to four-fold greater with alogliptin (at doses of 25 to 200 mg) than placebo.
-In a 16-week, double-blind, placebo-controlled study, alogliptin 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an eight-hour period following a standardized meal.
+In a 16 week, double-blind, placebo-controlled study, alogliptin 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an eight hour period following a standardized meal.
 It is unclear how these findings relate to changes in overall glycemic control in patients with type 2 diabetes mellitus.
-In this study, alogliptin 25 mg demonstrated decreases in two-hour postprandial glucose compared to placebo (-30 mg/dL versus 17 mg/dL, respectively).
+In this study, alogliptin 25 mg demonstrated decreases in two hour postprandial glucose compared to placebo (-30 mg/dL versus 17 mg/dL, respectively).
 
-Multiple-dose administration of alogliptin to patients with type 2 diabetes also resulted in a peak inhibition of DPP-4 within one to two hours and exceeded 93% across all doses (25 mg, 100 mg and 400 mg) after a single dose and after 14 days of once-daily dosing.
+Multiple-dose administration of alogliptin to patients with type 2 diabetes also resulted in a peak inhibition of DPP-4 within one to two hours and exceeded 93% across all doses (25 mg, 100 mg and 400 mg) after a single dose and after 14 days of once daily dosing.
 At these doses of alogliptin, inhibition of DPP-4 remained above 81% at 24 hours after 14 days of dosing.
 
 ## 12.3 Pharmacokinetics
@@ -59,7 +59,7 @@ Metformin Hydrochloride
 
 The absolute bioavailability of metformin following administration of a 500 mg metformin HCl tablet given under fasting conditions is approximately 50% to 60%.
 Studies using single oral doses of metformin HCl tablets 500 mg to 1500 mg and 850 mg to 2550 mg indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
-Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower mean peak plasma concentration (Cmax), a 25% lower area under the plasma concentration versus time curve (AUC), and a 35-minute prolongation of time to peak plasma concentration (Tmax) following administration of a single 850 mg tablet of metformin HCl with food compared to the same tablet strength administered fasting.
+Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower mean peak plasma concentration (Cmax), a 25% lower area under the plasma concentration versus time curve (AUC), and a 35 minute prolongation of time to peak plasma concentration (Tmax) following administration of a single 850 mg tablet of metformin HCl with food compared to the same tablet strength administered fasting.
 The clinical relevance of these decreases is unknown.
 
 Distribution
@@ -111,14 +111,11 @@ Special Populations
 
 Renal Impairment
 
-Alogliptin and Metformin Hydrochloride
+Metformin Hydrochloride
 
-Use of alogliptin and metformin HCl tablets in patients with renal impairment increases the risk for lactic acidosis.
-Because alogliptin and metformin HCl tablets contain metformin, alogliptin and metformin HCl tablets are contraindicated in patients with severe renal impairment [see Contraindications (4) and Warnings and Precautions (5.1)].
+In patients with decreased renal function (based on measured creatine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4), Warnings and Precautions (5.1)].
 
 Hepatic Impairment
-
-Alogliptin and metformin HCl tablets are not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1, 5.5)].
 
 Alogliptin
 
@@ -240,5 +237,5 @@ Effect of Metformin on Coadministered Drug Systemic Exposure
 | Furosemide | 40 mg | 850 mg | 0.87 | 0.69 |
 | Nifedipine | 10 mg | 850 mg | 1.10 | 1.08 |
 | Propranolol | 40 mg | 850 mg | 1.01 | 0.94 |
-| Ibuprofen | 400 mg | 850 mg | 0.97Ratio of arithmetic means | 1.01 |
+| Ibuprofen | 400 mg | 850 mg | 0.97Ratio of arithmetic me | 1.01 |
 | Cimetidine | 400 mg | 850 mg | 0.95 | 1.01 |

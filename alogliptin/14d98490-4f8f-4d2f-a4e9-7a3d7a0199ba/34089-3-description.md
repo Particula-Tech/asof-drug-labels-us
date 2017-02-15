@@ -8,7 +8,7 @@ Alogliptin is a selective, orally bioavailable inhibitor of the enzymatic activi
 Chemically, alogliptin is prepared as a benzoate salt, which is identified as 2-({6-[(3R)-3-aminopiperidin-1-yl]-3-methyl-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl}methyl)benzonitrile monobenzoate.
 It has a molecular formula of C18H21N5O2∙C7H6O2 and a molecular weight of 461.51 daltons; the structural formula is:
 
-Alogliptin benzoate is a white to off-white crystalline powder, containing one asymmetric carbon in the aminopiperidine moiety.
+Alogliptin benzoate is a white to off-white crystalline powder containing one asymmetric carbon in the aminopiperidine moiety.
 It is soluble in dimethylsulfoxide, sparingly soluble in water and methanol, slightly soluble in ethanol and very slightly soluble in octanol and isopropyl acetate.
 
 Metformin Hydrochloride

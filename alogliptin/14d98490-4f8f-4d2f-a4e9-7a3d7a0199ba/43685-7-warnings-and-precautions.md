@@ -10,7 +10,7 @@ Metformin-associated lactic acidosis was characterized by elevated blood lactate
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
 If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of alogliptin and metformin HCl tablets.
-In alogliptin and metformin HCl tablets -treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions).
+In alogliptin and metformin HCl tablets-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions).
 Hemodialysis has often resulted in reversal of symptoms and recovery.
 
 Educate patients and their families about the symptoms of lactic acidosis and if these symptoms occur instruct them to discontinue alogliptin and metformin HCl tablets and report these symptoms to their healthcare provider.
@@ -20,17 +20,18 @@ For each of the known and possible risk factors for metformin-associated lactic 
 Renal Impairment
 
 The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
-The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
+Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)]:
 
 - Before initiating alogliptin and metformin HCl tablets, obtain an eGFR.
-- Alogliptin and metformin HCl Tablets is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2.
-- Alogliptin and metformin HCl Tablets is not recommended in patients with an eGFR between 30 and 60 mL/min/1.73 m2 because these patients require a lower dosage of alogliptin than what is available in the fixed combination alogliptin and metformin HCl tablets product.
+- Alogliptin and metformin HCl tablets is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2[see Contraindications (4)].
+- Alogliptin and metformin HCl tablets is not recommended in patients with an eGFR between 30 and 60 mL/min/1.73 m2 because these patients require a lower dosage of alogliptin than what is available in the fixed combination alogliptin and metformin HCl tablets product.
 - Obtain an eGFR at least annually in all patients taking alogliptin and metformin HCl tablets.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 
 Drug Interactions
 
-The concomitant use of alogliptin and metformin HCl tablets with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g., cationic drugs) [see Drug Interactions (7)].
+The concomitant use of alogliptin and metformin HCl tablets with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation [see Drug Interactions (7)].
 Therefore, consider more frequent monitoring of patients.
 
 Age 65 or Greater
@@ -70,7 +71,7 @@ Therefore, avoid use of alogliptin and metformin HCl tablets in patients with cl
 
 Acute pancreatitis has been reported in the postmarketing setting and in randomized clinical trials.
 In glycemic control trials in patients with type 2 diabetes, acute pancreatitis was reported in 6 (0.2%) patients treated with alogliptin 25 mg and 2 (<0.1%) patients treated with active comparators or placebo.
-In the EXAMINE trial (a cardiovascular outcomes trial of patients with type 2 diabetes and high cardiovascular (CV) risk), acute pancreatitis was reported in 10 (0.4%) of patients treated with alogliptin and in 7 (0.3%) of patients treated with placebo.
+In the EXAMINE trial (a cardiovascular outcomes trial of patients with type 2 diabetes and high cardiovascular (CV) risk), acute pancreatitis was reported in 10 (0.4%) patients treated with alogliptin and in 7 (0.3%) patients treated with placebo.
 
 It is unknown whether patients with a history of pancreatitis are at increased risk for pancreatitis while using alogliptin and metformin HCl tablets.
 
@@ -109,7 +110,7 @@ In controlled, 29-week clinical trials of immediate-release metformin, a decreas
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
 Measurement of hematologic parameters on an annual basis is advised in patients on alogliptin and metformin HCl tablets, and any apparent abnormalities should be appropriately investigated and managed.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
-In these patients, routine serum vitamin B12 measurements at two- to three-year intervals may be useful.
+In these patients, routine serum vitamin B12 measurements at two to three year intervals may be useful.
 
 ## 5.7 Use with Medications Known to Cause Hypoglycemia
 
@@ -130,8 +131,15 @@ There have been postmarketing reports of severe and disabling arthralgia in pati
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
 Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
-Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
+Consider DPP- 4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.9 Macrovascular Outcomes
+## 5.9 Bullous Pemphigoid
+
+Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
+In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of DPP-4 inhibitor.
+Tell patients to report development of blisters or erosions while receiving alogliptin and metformin HCl tablets.
+If bullous pemphigoid is suspected, alogliptin and metformin HCl tablets should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
+
+## 5.10 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with alogliptin and metformin HCl tablets or any other antidiabetic drug.
