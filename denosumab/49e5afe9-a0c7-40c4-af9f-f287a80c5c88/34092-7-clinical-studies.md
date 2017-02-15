@@ -96,7 +96,7 @@ Secondary efficacy variables included percent change in total hip, and femoral n
 
 Treatment with Prolia significantly increased BMD at 1 year.
 The treatment differences in BMD at 1 year were 4.8% (+0.9% placebo, +5.7% Prolia; (95% CI: 4.0, 5.6); p < 0.0001) at the lumbar spine, 2.0% (+0.3% placebo, +2.4% Prolia) at the total hip, and 2.2% (0.0% placebo, +2.1% Prolia) at femoral neck.
-Consistent effects on BMD were observed at the lumbar spine regardless of baseline age, race, BMD, testosterone concentrations and level of bone turnover.
+Consistent effects on BMD were observed at the lumbar spine regardless of baseline age, race, BMD, testosterone concentrations, and level of bone turnover.
 
 Bone Histology and Histomorphometry
 

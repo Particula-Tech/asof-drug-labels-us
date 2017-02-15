@@ -47,15 +47,27 @@ These fractures can occur anywhere in the femoral shaft from just below the less
 Causality has not been established as these fractures also occur in osteoporotic patients who have not been treated with anti-resorptive agents.
 
 Atypical femoral fractures most commonly occur with minimal or no trauma to the affected area.
-They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
+They may be bilateral, and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
 A number of reports note that patients were also receiving treatment with glucocorticoids (e.g. prednisone) at the time of fracture.
 
-During Prolia treatment, patients should be advised to report new or unusual thigh, hip, or groin pain.
-Any patient who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
+During Prolia treatment, patients should be advised to report new or unusual thigh, hip, or groin pain. \should be evaluated to rule out an incomplete femur fracture.
 Patient presenting with an atypical femur fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
 Interruption of Prolia therapy should be considered, pending a risk/benefit assessment, on an individual basis.
 
-## 5.6 Serious Infections
+## 5.6 Multiple Vertebral Fractures (MVF) Following Discontinuation of Prolia Treatment
+
+Following discontinuation of Prolia treatment, fracture risk increases, including the risk of multiple vertebral fractures.
+Cessation of Prolia treatment results in markers of bone resorption increasing above pretreatment values then returning to pretreatment values 24 months after the last dose of Prolia.
+In addition, bone mineral density returns to pretreatment values within 18 months after the last injection.
+[see Pharmacodynamics (12.2) and Clinical Studies (14.1)].
+
+New vertebral fractures occurred as early as 7 months (on average 19 months) after the last dose of Prolia.
+Prior vertebral fracture was a predictor of multiple vertebral fractures after Prolia discontinuation.
+Evaluate an individual’s benefit/risk before initiating treatment with Prolia.
+
+If Prolia treatment is discontinued, consider transitioning to an alternative antiresorptive therapy [see Adverse Reactions (6.1)].
+
+## 5.7 Serious Infections
 
 In a clinical trial of over 7800 women with postmenopausal osteoporosis, serious infections leading to hospitalization were reported more frequently in the Prolia group than in the placebo group [see Adverse Reactions (6.1)].
 Serious skin infections, as well as infections of the abdomen, urinary tract, and ear, were more frequent in patients treated with Prolia.
@@ -67,19 +79,19 @@ Patients on concomitant immunosuppressant agents or with impaired immune systems
 Consider the benefit-risk profile in such patients before treating with Prolia.
 In patients who develop serious infections while on Prolia, prescribers should assess the need for continued Prolia therapy.
 
-## 5.7 Dermatologic Adverse Reactions
+## 5.8 Dermatologic Adverse Reactions
 
 In a large clinical trial of over 7800 women with postmenopausal osteoporosis, epidermal and dermal adverse events such as dermatitis, eczema, and rashes occurred at a significantly higher rate in the Prolia group compared to the placebo group.
 Most of these events were not specific to the injection site [see Adverse Reactions (6.1)].
 Consider discontinuing Prolia if severe symptoms develop.
 
-## 5.8 Musculoskeletal Pain
+## 5.9 Musculoskeletal Pain
 
-In post-marketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking Prolia [see Adverse Reactions (6.2)].
+In postmarketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking Prolia [see Adverse Reactions (6.2)].
 The time to onset of symptoms varied from one day to several months after starting Prolia.
-Consider discontinuing use if severe symptoms develop [see Patient Counseling Information (17.8)].
+Consider discontinuing use if severe symptoms develop [see Patient Counseling Information (17.9)].
 
-## 5.9 Suppression of Bone Turnover
+## 5.10 Suppression of Bone Turnover
 
 In clinical trials in women with postmenopausal osteoporosis, treatment with Prolia resulted in significant suppression of bone remodeling as evidenced by markers of bone turnover and bone histomorphometry [see Clinical Pharmacology (12.2) and Clinical Studies (14.1)].
 The significance of these findings and the effect of long-term treatment with Prolia are unknown.

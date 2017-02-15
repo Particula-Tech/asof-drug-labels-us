@@ -3,10 +3,11 @@
 The following serious adverse reactions are discussed below and also elsewhere in the labeling:
 
 - Hypocalcemia [see Warnings and Precautions (5.3)]
-- Serious Infections [see Warnings and Precautions (5.6)]
-- Dermatologic Adverse Reactions [see Warnings and Precautions (5.7)]
+- Serious Infections [see Warnings and Precautions (5.7)]
+- Dermatologic Adverse Reactions [see Warnings and Precautions (5.8)]
 - Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
 - Atypical Subtrochanteric and Diaphyseal Femoral Fractures [see Warnings and Precautions (5.5)]
+- Multiple Vertebral Fractures (MVF) Following Discontinuation of Prolia Treatment [see Warnings and Precautions (5.6)]
 
 The most common adverse reactions reported with Prolia in patients with postmenopausal osteoporosis are back pain, pain in extremity, musculoskeletal pain, hypercholesterolemia, and cystitis.
 
@@ -17,8 +18,7 @@ Pain in extremity and musculoskeletal pain have also been reported in clinical t
 
 The most common adverse reactions leading to discontinuation of Prolia in patients with postmenopausal osteoporosis are back pain and constipation.
 
-The Prolia Postmarketing Active Safety Surveillance Program is available to collect information from prescribers on specific adverse events.
-Please see www.proliasafety.com or call 1-800-772-6436 for more information about this program.
+To report Adverse Reactions with Prolia®, please call Amgen Medical Information at 1-800-772-6436, email medinfo@amgen.com, or report the event at FDA MedWatch.
 
 ## 6.1 Clinical Trials Experience
 
@@ -106,7 +106,7 @@ The incidence of opportunistic infections was similar to that reported with plac
 Dermatologic Reactions
 
 A significantly higher number of patients treated with Prolia developed epidermal and dermal adverse events (such as dermatitis, eczema, and rashes), with these events reported in 8.2% of the placebo and 10.8% of the Prolia groups (p < 0.0001).
-Most of these events were not specific to the injection site [see Warnings and Precautions (5.7)].
+Most of these events were not specific to the injection site [see Warnings and Precautions (5.8)].
 
 Osteonecrosis of the Jaw
 
@@ -116,6 +116,13 @@ Atypical Subtrochanteric and Diaphyseal Fractures
 
 In the osteoporosis clinical trial program, atypical femoral fractures were reported in patients treated with Prolia.
 The duration of Prolia exposure to time of atypical femoral fracture diagnosis was as early as 2½ years [see Warnings and Precautions (5.5)].
+
+Multiple Vertebral Fractures (MVF) Following Discontinuation of Prolia Treatment
+
+In the osteoporosis clinical trial program, multiple vertebral fractures were reported in patients after discontinuation of Prolia.
+In the phase 3 trial in women with postmenopausal osteoporosis, 6% of women who discontinued Prolia and remained in the study developed new vertebral fractures, and 3% of women who discontinued Prolia and remained in the study developed multiple new vertebral fractures.
+The mean time to onset of multiple vertebral fractures was 17 months (range 7- 43 months) after the last injection of Prolia.
+Prior vertebral fracture was a predictor of multiple vertebral fractures after discontinuation [see Warnings and Precautions (5.6)].
 
 Pancreatitis
 
@@ -180,7 +187,7 @@ The percentage of patients who withdrew from the study due to adverse events was
 
 Adverse reactions reported in ≥ 10% of Prolia-treated patients receiving ADT for prostate cancer or adjuvant AI therapy for breast cancer, and more frequently than in the placebo-treated patients were: arthralgia (13.0% placebo vs. 14.3% Prolia) and back pain (10.5% placebo vs. 11.5% Prolia).
 Pain in extremity (7.7% placebo vs. 9.9% Prolia) and musculoskeletal pain (3.8% placebo vs. 6.0% Prolia) have also been reported in clinical trials.
-Additionally in Prolia-treated men with nonmetastatic prostate cancer receiving ADT, a greater incidence of cataracts was observed (1.2% placebo vs. 4.7% Prolia).
+Additionally, in Prolia-treated men with nonmetastatic prostate cancer receiving ADT, a greater incidence of cataracts was observed (1.2% placebo vs. 4.7% Prolia).
 Hypocalcemia (serum calcium < 8.4 mg/dL) was reported only in Prolia-treated patients (2.4% vs. 0%) at the month 1 visit.
 
 ## 6.2 Postmarketing Experience
@@ -193,6 +200,7 @@ The following adverse reactions have been identified during post approval use of
 - Hypocalcemia: severe symptomatic hypocalcemia
 - Musculoskeletal pain, including severe cases
 - Parathyroid Hormone (PTH): Marked elevation in serum PTH in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis.
+- Multiple vertebral fractures following discontinuation of Prolia
 
 ## 6.3 Immunogenicity
 

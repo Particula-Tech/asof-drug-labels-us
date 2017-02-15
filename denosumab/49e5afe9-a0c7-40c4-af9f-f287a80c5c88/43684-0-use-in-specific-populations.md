@@ -7,12 +7,9 @@ Pregnancy Category X
 Risk Summary
 
 Prolia may cause fetal harm when administered to a pregnant woman based on findings in animals.
-In utero denosumab exposure in cynomolgus monkeys resulted in increased fetal loss, stillbirths, and postnatal mortality, along with evidence of absent lymph nodes, abnormal bone growth and decreased neonatal growth.
+In utero denosumab exposure in cynomolgus monkeys resulted in increased fetal loss, stillbirths, and postnatal mortality, along with evidence of absent lymph nodes, abnormal bone growth, and decreased neonatal growth.
 Prolia is contraindicated in women who are pregnant.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
-
-Women who become pregnant during Prolia treatment are encouraged to enroll in Amgen’s Pregnancy Surveillance Program.
-Patients or their physicians should call 1-800-77-AMGEN (1-800-772-6436) to enroll.
 
 Clinical Considerations
 
@@ -25,15 +22,15 @@ Following vaginal intercourse, the maximum amount of Prolia delivered to a femal
 
 The no-effect dose for denosumab-induced teratogenicity is unknown.
 However, a Cmax of 22.9 ng/mL was identified in cynomolgus monkeys as a level in which no biologic effects (NOEL) of denosumab were observed (no inhibition of RANKL).
-Using the highest seminal fluid concentration measured in men, and assuming 100% vaginal and placental transfer from a 6-mL ejaculate per day, female and fetal exposure via seminal fluid would be up to 0.6 ng/mL per day.
-Thus, the potential amount of fetal exposure when a man treated with Prolia has unprotected sexual intercourse with a pregnant partner is at least 38-times lower than the NOEL in monkeys.
+Using the highest seminal fluid concentration measured in men, and assuming 100% vaginal and placental transfer from a 6 mL ejaculate per day, female and fetal exposure via seminal fluid would be up to 0.6 ng/mL per day.
+Thus, the potential amount of fetal exposure when a man treated with Prolia has unprotected sexual intercourse with a pregnant partner is at least 38 times lower than the NOEL in monkeys.
 Therefore, it is unlikely that a female partner or fetus would be exposed to pharmacologically relevant concentrations of denosumab via seminal fluid [see Clinical Pharmacology (12.3)].
 
 Animal Data
 
 The effects of denosumab on prenatal development have been studied in both cynomolgus monkeys and genetically engineered mice in which RANK ligand (RANKL) expression was turned off by gene removal (a “knockout mouse”).
 In cynomolgus monkeys dosed subcutaneously with denosumab throughout pregnancy at a pharmacologically active dose, there was increased fetal loss during gestation, stillbirths, and postnatal mortality.
-Other findings in offspring included absence of axillary, inguinal, mandibular, and mesenteric lymph nodes; abnormal bone growth, reduced bone strength, reduced hematopoiesis, dental dysplasia and tooth malalignment; and decreased neonatal growth.
+Other findings in offspring included absence of axillary, inguinal, mandibular, and mesenteric lymph nodes; abnormal bone growth, reduced bone strength, reduced hematopoiesis, dental dysplasia, and tooth malalignment; and decreased neonatal growth.
 At birth out to 1 month of age, infants had measurable blood levels of denosumab (22-621% of maternal levels).
 
 Following a recovery period from birth out to 6 months of age, the effects on bone quality and strength returned to normal; there were no adverse effects on tooth eruption, though dental dysplasia was still apparent; axillary and inguinal lymph nodes remained absent, while mandibular and mesenteric lymph nodes were present, though small; and minimal to moderate mineralization in multiple tissues was seen in one recovery animal.
@@ -51,7 +48,7 @@ Measurable concentrations of denosumab were present in the maternal milk of cyno
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Prolia, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
 Maternal exposure to Prolia during pregnancy may impair mammary gland development and lactation based on animal studies in pregnant mice lacking the RANK/RANKL signaling pathway that have shown altered maturation of the maternal mammary gland, leading to impaired lactation postpartum.
-However in cynomolgus monkeys treated with denosumab throughout pregnancy, maternal mammary gland development was normal, with no impaired lactation.
+However, in cynomolgus monkeys treated with denosumab throughout pregnancy, maternal mammary gland development was normal, with no impaired lactation.
 Mammary gland histopathology at 6 months of age was normal in female offspring exposed to denosumab in utero; however, development and lactation have not been fully evaluated [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.2)].
 
 ## 8.4 Pediatric Use
@@ -70,7 +67,7 @@ Some bone abnormalities recovered once exposure was ceased following birth; howe
 
 Of the total number of patients in clinical studies of Prolia, 9943 patients (76%) were ≥ 65 years old, while 3576 (27%) were ≥ 75 years old.
 Of the patients in the osteoporosis study in men, 133 patients (55%) were ≥ 65 years old, while 39 patients (16%) were ≥ 75 years old.
-No overall differences in safety or efficacy were observed between these patients and younger patients and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+No overall differences in safety or efficacy were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 

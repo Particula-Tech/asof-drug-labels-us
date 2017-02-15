@@ -36,13 +36,13 @@ Seminal Fluid Pharmacokinetic Study
 Serum and seminal fluid concentrations of denosumab were measured in 12 healthy male volunteers (age range: 43-65 years).
 After a single 60 mg subcutaneous administration of denosumab, the mean (± SD) Cmax values in the serum and seminal fluid samples were 6170 (± 2070) and 100 (± 81.9) ng/mL, respectively, resulting in a maximum seminal fluid concentration of approximately 2% of serum levels.
 The median (range) Tmax values in the serum and seminal fluid samples were 8.0 (7.9 to 21) and 21 (8.0 to 49) days, respectively.
-Amongst the subjects, the highest denosumab concentration in seminal fluid was 301 ng/mL at 22 days post-dose.
+Among the subjects, the highest denosumab concentration in seminal fluid was 301 ng/mL at 22 days post-dose.
 On the first day of measurement (10 days post-dose), nine of eleven subjects had quantifiable concentrations in semen.
 On the last day of measurement (106 days post-dose), five subjects still had quantifiable concentrations of denosumab in seminal fluid, with a mean (± SD) seminal fluid concentration of 21.1 (±36.5) ng/mL across all subjects (n = 12) [see Use in Specific Populations (8.1)].
 
 Drug Interactions
 
-In a study of 17 postmenopausal women with osteoporosis, midazolam (2 mg oral) was administered two weeks after a single dose of denosumab (60 mg subcutaneous injection), which approximates the Tmax of denosumab.
+In a study of 17 postmenopausal women with osteoporosis, midazolam (2 mg oral) was administered 2 weeks after a single dose of denosumab (60 mg subcutaneous injection), which approximates the Tmax of denosumab.
 Denosumab did not affect the pharmacokinetics of midazolam, which is metabolized by cytochrome P450 3A4 (CYP3A4).
 This indicates that denosumab should not alter the pharmacokinetics of drugs metabolized by CYP3A4 in postmenopausal women with osteoporosis.
 
