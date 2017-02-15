@@ -49,11 +49,11 @@ Patients should be informed that treatment with Androgens may lead to adverse re
   In case of contact with eyes, flush thoroughly with water.
   If irritation persists, seek medical advice.
 
-Literature revised October 2016
+Literature revised February 2017
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-Copyright © 2010, 2016, Eli Lilly and Company.
+Copyright © 2010, 2017, Eli Lilly and Company.
 All rights reserved.
 
-AXR-0005-USPI-20161025
+AXR-0006-USPI-20170203

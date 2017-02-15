@@ -14,7 +14,7 @@ NDC 0002-1975-90
 
 Keep AXIRON out of reach of children.
 
-Store at 25°C (77°F).
+Store upright at 25°C (77°F).
 Excursions are permitted to 15°C to 30°C (59°F to 86°F).
 See USP Controlled Room Temperature.
 
