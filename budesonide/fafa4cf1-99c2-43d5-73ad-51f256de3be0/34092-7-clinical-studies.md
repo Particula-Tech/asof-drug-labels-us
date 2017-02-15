@@ -73,7 +73,7 @@ The method of assessment and criteria used were identical to that in Study 1.
 
 Table 5 The number and percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma (Study 2)
 
-|  | SYMBICORT80/4.5 (n=123) | Budesonide80 mcg(n=121) | Formoterol4.5 mcg114) | Placebo(n=122) |
+|  | SYMBICORT80/4.5 (n=123) | Budesonide80 mcg(n=121) | Formoterol4.5 mcg(n=114) | Placebo(n=122) |
 | --- | --- | --- | --- | --- |
 | Patients withdrawn due to predefined asthma eventThese criteria were assessed on a daily basis irrespective of the timing of the clinic visit, with the exception of FEV1, which was assessed at each clinic visit. | 9 (7.3) | 8 (6.6) | 21 (18.4) | 40 (32.8) |
 | Patients with a predefined asthma event,Individual criteria are shown for patients meeting any predefined asthma event, regardless of withdrawal status. | 23 (18.7) | 26 (21.5) | 48 (42.1) | 69 (56.6) |
