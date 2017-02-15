@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA204172"
+  ],
+  "inn": "desvenlafaxine",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-592-02",
+    "68180-592-06",
+    "68180-592-09",
+    "68180-593-02",
+    "68180-593-06",
+    "68180-593-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "desvenlafaxine succinate",
+      "name": "Desvenlafaxine Succinate"
+    }
+  ],
+  "setid": "e96272a2-8f73-4fbe-a8d4-a78d4ad68831",
+  "source": "dailymed"
+}
