@@ -30,6 +30,8 @@ You should not take NITROSTAT if you have the following conditions:
 
 Do not take NITROSTAT with drugs for erectile dysfunction, like VIAGRA® (sildenafil citrate), CIALIS® (tadalafil), or LEVITRA® (vardenafil hydrochloride), as this may lead to extreme lowering of your blood pressure.
 
+Do not take NITROSTAT if you take medicines called guanylate cyclase stimulators which include riociguat, a medicine that treats pulmonary arterial hypertension and chronic-thromboembolic pulmonary hypertension.
+
 What should I tell my doctor before taking NITROSTAT?
 
 Before using NITROSTAT, tell your doctor if:
@@ -101,4 +103,4 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about NITROSTAT, or you can visit the Pfizer website at www.pfizer.com or call 1-800-438-1985.
 
-LAB-0422-1.0 May 2011
+LAB-0422-2.0 January 2017
