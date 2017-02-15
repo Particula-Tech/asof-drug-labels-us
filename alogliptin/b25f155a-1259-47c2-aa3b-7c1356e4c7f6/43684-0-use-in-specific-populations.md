@@ -7,7 +7,7 @@ Risk Summary
 Limited data with alogliptin in pregnant women are not sufficient to determine a drug-associated risk for major birth defects or miscarriage.
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
-No adverse developmental effects were observed when alogliptin was administered to pregnant rats and rabbits during organogenesis at exposures 180- and 149-times the 25 mg clinical dose, respectively, based on plasma drug exposure (AUC)[see Data].
+No adverse developmental effects were observed when alogliptin was administered to pregnant rats and rabbits during organogenesis at exposures 180 and 149 times the 25 mg clinical dose, respectively, based on plasma drug exposure (AUC) [see Data].
 
 The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20-25% in women with HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
@@ -34,7 +34,7 @@ Risk Summary
 
 There is no information regarding the presence of alogliptin in human milk, the effects on the breastfed infant, or the effects on milk production.
 Alogliptin is present in rat milk: however, due to species specific differences in lactation physiology, animal lactation data may not reliably predict levels in human milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for alogliptin tablets and any potential adverse effects on the breastfed infant from alogliptin tablets or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for alogliptin tablets and any potential adverse effects on the breastfed infant from alogliptin tablets or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

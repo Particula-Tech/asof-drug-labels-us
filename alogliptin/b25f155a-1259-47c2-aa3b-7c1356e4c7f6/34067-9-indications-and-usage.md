@@ -6,4 +6,4 @@ Alogliptin tablets are indicated as an adjunct to diet and exercise to improve g
 
 Important Limitations of Use
 
-Alogliptin tablets is not indicated for the treatment of type 1 diabetes mellitus or diabetic ketoacidosis, as it would not be effective in these settings.
+Alogliptin tablets are not indicated for the treatment of type 1 diabetes mellitus or diabetic ketoacidosis, as it would not be effective in these settings.

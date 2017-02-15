@@ -14,10 +14,10 @@ Alogliptin selectively binds to and inhibits DPP-4 but not DPP-8 or DPP-9 activi
 Single-dose administration of alogliptin tablets to healthy subjects resulted in a peak inhibition of DPP-4 within two to three hours after dosing.
 The peak inhibition of DPP-4 exceeded 93% across doses of 12.5 mg to 800 mg.
 Inhibition of DPP-4 remained above 80% at 24 hours for doses greater than or equal to 25 mg.
-Peak and total exposure over 24 hours to active GLP-1 were three- to four-fold greater with alogliptin tablets (at doses of 25 to 200 mg) than placebo.
-In a 16-week, double-blind, placebo-controlled study, alogliptin tablets 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an eight-hour period following a standardized meal.
+Peak and total exposure over 24 hours to active GLP-1 were three to four fold greater with alogliptin tablets (at doses of 25 to 200 mg) than placebo.
+In a 16 week, double-blind, placebo-controlled study, alogliptin tablets 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an eight hour period following a standardized meal.
 It is unclear how these findings relate to changes in overall glycemic control in patients with type 2 diabetes mellitus.
-In this study, alogliptin tablets 25 mg demonstrated decreases in two-hour postprandial glucose compared to placebo (-30 mg/dL versus 17 mg/dL, respectively).
+In this study, alogliptin tablets 25 mg demonstrated decreases in two hour postprandial glucose compared to placebo (-30 mg/dL versus 17 mg/dL, respectively).
 
 Multiple-dose administration of alogliptin to patients with type 2 diabetes also resulted in a peak inhibition of DPP-4 within one to two hours and exceeded 93% across all doses (25 mg, 100 mg and 400 mg) after a single dose and after 14 days of once-daily dosing.
 At these doses of alogliptin tablets, inhibition of DPP-4 remained above 81% at 24 hours after 14 days of dosing.
@@ -26,7 +26,7 @@ Cardiac Electrophysiology
 
 In a randomized, placebo-controlled, four-arm, parallel-group study, 257 subjects were administered either alogliptin 50 mg, alogliptin 400 mg, moxifloxacin 400 mg or placebo once daily for a total of seven days.
 No increase in corrected QT (QTc) was observed with either dose of alogliptin.
-At the 400 mg dose, peak alogliptin plasma concentrations were 19-fold higher than the peak concentrations following the maximum recommended clinical dose of 25 mg.
+At the 400 mg dose, peak alogliptin plasma concentrations were 19 fold higher than the peak concentrations following the maximum recommended clinical dose of 25 mg.
 
 ## 12.3 Pharmacokinetics
 
@@ -73,14 +73,14 @@ Renal Impairment
 
 A single-dose, open-label study was conducted to evaluate the pharmacokinetics of alogliptin 50 mg in patients with chronic renal impairment compared with healthy subjects.
 
-In patients with mild renal impairment (creatinine clearance [CrCl] ≥60 to <90 mL/min), an approximate 1.2-fold increase in plasma AUC of alogliptin was observed.
+In patients with mild renal impairment (creatinine clearance [CrCl] ≥60 to <90 mL/min), an approximate 1.2 fold increase in plasma AUC of alogliptin was observed.
 Because increases of this magnitude are not considered clinically relevant, dose adjustment for patients with mild renal impairment is not recommended.
 
-In patients with moderate renal impairment (CrCl ≥30 to <60 mL/min), an approximate two-fold increase in plasma AUC of alogliptin was observed.
+In patients with moderate renal impairment (CrCl ≥30 to <60 mL/min), an approximate two fold increase in plasma AUC of alogliptin was observed.
 To maintain similar systemic exposures of alogliptin tablets to those with normal renal function, the recommended dose is 12.5 mg once daily in patients with moderate renal impairment.
 
-In patients with severe renal impairment (CrCl ≥15 to <30 mL/min) and end-stage renal disease (ESRD) (CrCl <15 mL/min or requiring dialysis), an approximate three- and four-fold increase in plasma AUC of alogliptin were observed, respectively.
-Dialysis removed approximately 7% of the drug during a three-hour dialysis session.
+In patients with severe renal impairment (CrCl ≥15 to <30 mL/min) and end-stage renal disease (ESRD) (CrCl <15 mL/min or requiring dialysis), an approximate three and four fold increase in plasma AUC of alogliptin were observed, respectively.
+Dialysis removed approximately 7% of the drug during a three hour dialysis session.
 Alogliptin tablets may be administered without regard to the timing of the dialysis.
 To maintain similar systemic exposures of alogliptin tablets to those with normal renal function, the recommended dose is 6.25 mg once daily in patients with severe renal impairment, as well as in patients with ESRD requiring dialysis.
 

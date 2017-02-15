@@ -14,6 +14,7 @@ If pancreatitis is suspected, alogliptin tablets should promptly be discontinued
 ## 5.2 Heart Failure
 
 In the EXAMINE trial which enrolled patients with type 2 diabetes and recent acute coronary syndrome, 106 (3.9%) of patients treated with alogliptin tablets and 89 (3.3%) of patients treated with placebo were hospitalized for congestive heart failure.
+
 Consider the risks and benefits of alogliptin tablets prior to initiating treatment in patients at risk for heart failure, such as those with a prior history of heart failure and a history of renal impairment, and observe these patients for signs and symptoms of heart failure during therapy.
 Patients should be advised of the characteristic symptoms of heart failure and should be instructed to immediately report such symptoms.
 If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of alogliptin tablets.
@@ -49,6 +50,13 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.7 Macrovascular Outcomes
+## 5.7 Bullous Pemphigoid
+
+Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
+In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
+Tell patients to report development of blisters or erosions while receiving alogliptin tablets.
+If bullous pemphigoid is suspected, alogliptin tablets should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
+
+## 5.8 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with alogliptin tablets or any other antidiabetic drug.

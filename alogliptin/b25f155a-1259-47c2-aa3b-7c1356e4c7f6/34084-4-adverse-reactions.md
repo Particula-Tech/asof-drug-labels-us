@@ -2,10 +2,12 @@
 
 The following serious adverse reactions are described below or elsewhere in the prescribing information:
 
-- •Pancreatitis [see Warnings and Precautions (5.1)]
-- •Heart Failure [see Warnings and Precautions (5.2)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
-- •Hepatic Effects [see Warnings and Precautions (5.4)]
+- Pancreatitis [see Warnings and Precautions (5.1)]
+- Heart Failure [see Warnings and Precautions (5.2)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
+- Hepatic Effects [see Warnings and Precautions (5.4)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.6)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -91,4 +93,4 @@ Worsening of chronic kidney disease stage was seen in 16.8% of patients treated 
 The following adverse reactions have been identified during the postmarketing use of alogliptin tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia acute pancreatitis diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.1, 5.2, 5.3, 5.5)].
+Actue Pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia, bullous pemphigoid, and diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.1, 5.3, 5.4, 5.6, 5.7)].
