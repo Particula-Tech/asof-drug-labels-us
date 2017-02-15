@@ -36,7 +36,7 @@ Initial doses should not be determined by previous treatment episodes or dollars
 During the induction phase of methadone maintenance treatment, patients may show typical withdrawal symptoms, which should be differentiated from methadone-induced side effects.
 They may exhibit some or all of the following signs and symptoms associated with acute withdrawal from heroin or other opiates: lacrimation, rhinorrhea, sneezing, yawning, excessive perspiration, goose-flesh, fever, chilliness alternating with flushing, restlessness, irritability, weakness, anxiety, depression, dilated pupils, tremors, tachycardia, abdominal cramps, body aches, involuntary twitching and kicking movements, anorexia, nausea, vomiting, diarrhea, intestinal spasms, and weight loss.
 
-Short-term Detoxification
+Short-Term Detoxification
 
 For patients preferring a brief course of stabilization followed by a period of medically supervised withdrawal, it is generally recommended that the patient be titrated to a total daily dose of about 40 mg in divided doses to achieve an adequate stabilizing level.
 Stabilization can be continued for 2 to 3 days, after which the dose of methadone should be gradually decreased.
@@ -54,7 +54,7 @@ During prolonged administration of methadone, monitor patients for persistent co
 Medically Supervised Withdrawal After a Period of Maintenance Treatment
 
 There is considerable variability in the appropriate rate of methadone taper in patients choosing medically supervised withdrawal from methadone treatment.
-It is generally suggested that dose reductions should be less than 10% of the established tolerance or maintenance dose, and that 10 to 14-day intervals should elapse between dose reductions.
+It is generally suggested that dose reductions should be less than 10% of the established tolerance or maintenance dose, and that 10- to 14-day intervals should elapse between dose reductions.
 Apprise patients of the high risk of relapse to illicit drug use associated with discontinuation of methadone maintenance treatment.
 
 Risk of Relapse in Patients on Methadone Maintenance Treatment of Opioid Addiction

@@ -81,9 +81,9 @@ Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disea
 
 The use of METHADOSE in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease– METHADOSE-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of METHADOSE (see WARNINGS, Life-Threatening Respiratory Depression).
+Patients with Chronic Pulmonary Disease – METHADOSE-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of METHADOSE (see WARNINGS, Life-Threatening Respiratory Depression).
 
-Elderly, Cachectic, or Debilitated Patients– Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients (see WARNINGS, Life-Threatening Respiratory Depression).
+Elderly, Cachectic, or Debilitated Patients – Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients (see WARNINGS, Life-Threatening Respiratory Depression).
 
 Monitor such patients closely, particularly when initiating and titrating METHADOSE and when METHADOSE is given concomitantly with other drugs that depress respiration(see WARNINGS, Risks Due to Interactions Concomitant Use with CNS Depressants and Illicit Drugs).
 
@@ -119,7 +119,7 @@ The information available does not identify any particular opioids as being more
 Severe Hypotension
 
 Methadone may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
-There is an increased risk in patients whose ability to maintain normal blood pressure is compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) (see PRECAUTIONS, Drug Interactions).
+There is an increased risk in patients whose ability to maintain normal blood pressure is compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) (see PRECAUTIONS, Drug Interactions).
 Monitor these patients for signs of hypotension after initiating or titrating the dosage of METHADOSE.
 In patients with circulatory shock, METHADOSE may cause vasodilation that can further reduce cardiac output and blood pressure.
 Avoid the use of METHADOSE in patients with circulatory shock.
@@ -188,7 +188,7 @@ Abuse Potential
 Inform patients that METHADOSE contain methadone, a Schedule II controlled substance that is subject to abuse (see WARNINGS).
 Instruct patients not to share METHADOSE with others and to take steps to protect METHADOSE from theft or misuse.
 
-Risks from Concomitant Use of Alcohol and other CNS Depressants
+Risks from Concomitant Use of Alcohol and Other CNS Depressants
 
 Inform patients that the concomitant use of alcohol with methadone can increase the risk of life-threatening respiratory depression.
 Instruct patients not to consume alcoholic beverages, as well as prescription and over-the-counter drug products that contain alcohol, during treatment with METHADOSE (see WARNINGS).
@@ -248,7 +248,7 @@ Drug Interactions
 | --- | --- |
 | Clinical Impact: | Methadone undergoes hepatic N-demethylation by several cytochrome P450 (CYP) isoforms, including CYP3A4, CYP2B6, CYP2C19, CYP2C9, and CYP2D6. The concomitant use of methadone and CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors can increase the plasma concentration of methadone, resulting in increased or prolonged opioid effects, and may result in a fatal overdose, particularly when an inhibitor is added after a stable dose of methadone is achieved. These effects may be more pronounced with concomitant use of drugs that inhibit more than one of the CYP enzymes listed above. After stopping a CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitor, as the effects of the inhibitor decline, the methadone plasma concentration can decrease, resulting in decreased opioid efficacy or withdrawal symptoms in patients physically dependent on methadone. |
 | Intervention: | If concomitant use is necessary, consider dosage reduction of methadone until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals.If a CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitor is discontinued, follow patients for signs of opioid withdrawal and consider increasing the methadone dosage until stable drug effects are achieved. |
-| Examples | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir), fluconazole, fluvoxamine, Some selective serotonin reuptake inhibitors (SSRIs) (e.g., sertraline, fluvoxamine) |
+| Examples: | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), protease inhibitors (e.g., ritonavir), fluconazole, fluvoxamine, some selective serotonin reuptake inhibitors (SSRIs) (e.g., sertraline, fluvoxamine) |
 | Inducers of CYP3A4, CYP2B6, CYP2C19, or CYP2C9 |  |
 | Clinical Impact: | The concomitant use of methadone and CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers can decrease the plasma concentration of methadone, resulting in decreased efficacy or onset of withdrawal symptoms in patients physically dependent on methadone. These effects could be more pronounced with concomitant use of drugs that can induce multiple CYP enzymes.After stopping a CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducer, as the effects of the inducer decline, the methadone plasma concentration can increase, which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression, sedation, or death. |
 | Intervention: | If concomitant use is necessary, consider increasing the methadone dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. If a CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducer is discontinued, consider methadone dosage reduction and monitor for signs of respiratory depression and sedation. |
@@ -272,7 +272,7 @@ Drug Interactions
 | Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
 | Clinical Impact: | Patients maintained on methadone may experience withdrawal symptoms when given opioid antagonists, mixed agonist/antagonists, and partial agonists. |
 | Intervention: | Avoid concomitant use. |
-|  | butorphanol, nalbuphine, pentazocine, buprenorphine |
+| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
 | Muscle Relaxants |  |
 | Clinical Impact: | Methadone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
 | Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of METHADOSE and/or the muscle relaxant as necessary. |
@@ -314,7 +314,7 @@ Under the conditions of the assay, there was no clear evidence for a treatment-r
 Mutagenesis – There are several published reports on the potential genetic toxicity of methadone.
 Methadone tested negative in tests for chromosome breakage and disjunction and sex-linked recessive lethal gene mutations in germ cells of Drosophila using feeding and injection procedures.
 In contrast, methadone tested positive in the in vivo mouse dominant lethal assay and the in vivo mammalian spermatogonial chromosome aberration test.
-Additionally, methadone tested positive in the E.coli DNA repair system and Neurospora crassa and mouse lymphoma forward mutation assays.
+Additionally, methadone tested positive in the E. coli DNA repair system and Neurospora crassa and mouse lymphoma forward mutation assays.
 
 Impairment of Fertility – Published animal studies provide additional data indicating that methadone treatment of males can alter reproductive function.
 Methadone produces decreased sexual activity (mating) of male rats at 10 mg/kg/day (corresponding to 0.3 times the human daily oral dose of 120 mg/day based on body surface area).

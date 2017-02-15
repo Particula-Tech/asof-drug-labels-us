@@ -17,4 +17,4 @@ Interactions with Drugs Affecting Cytochrome P450 Isoenzymes The concomitant use
 In addition, discontinuation of concomitantly used cytochrome P450 3A4 2B6, 2C19, or 2C9 inducers may also result in an increase in methadone plasma concentration.
 Follow patients closely for respiratory depression and sedation, and consider dosage reduction with any changes of concomitant medications that can result in an increase in methadone levels (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
-Conditions For Distribution And Use Of Methadone Products For The Treatment of Opioid Addiction For detoxification and maintenance of opioid dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8, including limitations on unsupervised administration (see INDICATIONS AND USAGE).
+Conditions for Distribution and Use of Methadone Products for the Treatment of Opioid Addiction For detoxification and maintenance of opioid dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8, including limitations on unsupervised administration (see INDICATIONS AND USAGE).

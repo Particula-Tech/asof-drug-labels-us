@@ -48,7 +48,7 @@ Opioids have been shown to have a variety of effects on components of the immune
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-Concentration–Adverse Reaction Relationships
+Concentration-Adverse Reaction Relationships
 
 There is a relationship between increasing methadone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
 In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions.
@@ -65,7 +65,7 @@ Effect of food on the bioavailability of methadone has not been evaluated.
 Distribution
 
 Methadone is a lipophilic drug and the steady-state volume of distribution ranges between 1.0 to 8.0 L/kg.
-In plasma, methadone is predominantly bound to a1-acid glycoprotein (85% to 90%).
+In plasma, methadone is predominantly bound to α1-acid glycoprotein (85% to 90%).
 Methadone is secreted in saliva, breast milk, amniotic fluid and umbilical cord plasma.
 
 Metabolism
@@ -141,14 +141,14 @@ St. John’s Wort, Phenobarbital, Carbamazepine – Administration of methadone 
 
 Cytochrome P450 Inhibitors
 
-Voriconazole –Voriconazole can inhibit the activity of CYP3A4, CYP2C9 and CYP2C19.
+Voriconazole – Voriconazole can inhibit the activity of CYP3A4, CYP2C9 and CYP2C19.
 Repeat dose administration of oral voriconazole (400 mg Q12h for 1 day, then 200 mg Q12h for 4 days) increased the Cmax and AUC of (R)-methadone by 31% and 47%, respectively, in subjects receiving a methadone maintenance dose (30 to 100 mg QD).
 The Cmax and AUC of (S)-methadone increased by 65% and 103%, respectively.
 Increased plasma concentrations of methadone have been associated with toxicity, including QT prolongation.
 Frequent monitoring for adverse events and toxicity related to methadone is recommended during coadministration.
 Dose reduction of methadone may be needed.
 
-Anti-retroviral Agents
+Anti-Retroviral Agents
 
 Although anti-retroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, and lopinavir+ritonavir combination are known to inhibit CYPs, they are shown to reduce the plasma levels of methadone, possibly due to their CYP induction activity.
 
