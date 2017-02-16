@@ -49,7 +49,7 @@ What is Buprenorphine Sublingual Tablets?
 | Buprenorphine Sublingual Tablets are a controlled substance (CIII) because they contain buprenorphine, which can be a target for people who abuse prescription medicines or street drugs. Keep your Buprenorphine Sublingual Tablets in a safe place to protect it from theft. Never give your Buprenorphine Sublingual Tablets to anyone else; it can cause death or harm them. Selling or giving away this medicine is against the law. |
 | --- |
 
-- •It is not known if Buprenorphine Sublingual Tablets are safe and effective in children.
+- •It is not known if Buprenorphine Sublingual Tablets are safe and effective in children
 
 Who should not take Buprenorphine Sublingual Tablets?
 

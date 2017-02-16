@@ -4,7 +4,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ## 6.1 Adverse Events in Clinical Trials
 
-The safety of Buprenorphine Sublingual Tablets was supported by clinical trials using Buprenorphine Sublingual Tablets, buprenorphine and naloxone sublingual tablets and other trials using buprenorphine sublingual solutions.
+The safety of Buprenorphine Sublingual Tablets was supported by clinical trials using Buprenorphine Sublingual Tablets, Buprenorphine and Naloxone Sublingual Tablets and other trials using buprenorphine sublingual solutions.
 In total, safety data were available from 3214 opioid-dependent subjects exposed to buprenorphine at doses in the range used in treatment of opioid addiction.
 
 Few differences in adverse event profile were noted between Buprenorphine Sublingual Tablets or buprenorphine administered as a sublingual solution.

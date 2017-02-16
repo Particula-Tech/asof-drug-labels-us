@@ -15,7 +15,7 @@ To avoid precipitating withdrawal, induction with Buprenorphine Sublingual Table
 
 It is recommended that an adequate treatment dose, titrated to clinical effectiveness, should be achieved as rapidly as possible.
 In a one-month study, patients received 8 mg of Buprenorphine Sublingual Tablets on Day 1 and 16 mg Buprenorphine Sublingual Tablets on Day 2.
-From Day 3 onward, patients received either buprenorphine and naloxone sublingual tablets or Buprenorphine Sublingual Tablets at the same buprenorphine dose as Day 2 based on their assigned treatment.
+From Day 3 onward, patients received either Buprenorphine and Naloxone Sublingual Tablets or Buprenorphine Sublingual Tablets at the same buprenorphine dose as Day 2 based on their assigned treatment.
 Induction in the studies of buprenorphine solution was accomplished over 3 to 4 days, depending on the target dose.
 In some studies, gradual induction over several days led to a high rate of drop-out of buprenorphine patients during the induction period.
 

@@ -62,7 +62,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Clinical Considerations
 
-Advise the nursing mother taking buprenorphine sublingual tablets to monitor the infant for increased drowsiness and breathing difficulties.
+Advise the nursing mother taking Buprenorphine Sublingual Tablets to monitor the infant for increased drowsiness and breathing difficulties.
 
 Data
 
@@ -86,7 +86,7 @@ The safety and effectiveness of Buprenorphine Sublingual Tablets has not been es
 
 ## 8.5 Geriatric Use
 
-Clinical studies of Buprenorphine Sublingual Tablets, buprenorphine and naloxone sublingual film, or buprenorphine and naloxone sublingual tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently than younger subjects.
+Clinical studies of Buprenorphine Sublingual Tablets, Buprenorphine and Naloxone Sublingual Film, or Buprenorphine and Naloxone Sublingual Tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently than younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 

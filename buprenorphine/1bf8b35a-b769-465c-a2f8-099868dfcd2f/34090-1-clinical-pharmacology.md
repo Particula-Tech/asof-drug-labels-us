@@ -80,7 +80,7 @@ Buprenorphine has a mean elimination half-life from plasma ranging from 31 to 35
 Drug-drug Interactions
 
 CYP3A4 Inhibitors and Inducers: Subjects receiving Buprenorphine Sublingual Tablets should be monitored if inhibitors of CYP3A4 such as azole antifungal agents (e.g., ketoconazole), macrolide antibiotics (e.g., erythromycin) or HIV protease inhibitors and may require dose-reduction of one or both agents.
-The interaction of buprenorphine with all CYP3A4 inducers has not been studied, therefore it is recommended that patients receiving buprenorphine sublingual tablets be monitored for signs and symptoms of opioid withdrawal if inducers of CYP3A4 (e.g., phenobarbital, carbamazepine, phenytoin, rifampicin) are co-administered [see Drug Interactions (7.1)].
+The interaction of buprenorphine with all CYP3A4 inducers has not been studied, therefore it is recommended that patients receiving Buprenorphine Sublingual Tablets be monitored for signs and symptoms of opioid withdrawal if inducers of CYP3A4 (e.g., phenobarbital, carbamazepine, phenytoin, rifampicin) are co-administered [see Drug Interactions (7.1)].
 
 Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine has been found to be a moderate CYP2D6 inhibitor in in vitro studies employing human liver microsomes.
 However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns.
