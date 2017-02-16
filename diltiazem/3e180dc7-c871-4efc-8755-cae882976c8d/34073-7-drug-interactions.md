@@ -7,10 +7,10 @@ Using other agents known to affect cardiac conduction or contractility with dilt
 Ivabradine: Concurrent use of diltiazem increases exposure to ivabradine and may exacerbate bradycardia and conduction disturbances.
 Avoid concomitant use of ivabradine and diltiazem.
 
-## 7.2 Interactions with Cytochrome P-450 3A4 Substrates, Inhibitors and Inducers
+## 7.2 Interactions with Cytochrome P450 3A4 Substrates, Inhibitors and Inducers
 
-Diltiazem is both a substrate and an inhibitor of the cytochrome P-450 3A4 enzyme system.
+Diltiazem is both a substrate and an inhibitor of the cytochrome P450 3A4 enzyme system.
 
-Simvastatin: Limit daily dose of simvastatin to 10 mg and diltiazem to 240 mg, if coadministration of both drugs are required [see Clinical Pharmacology (12.3)].
+Simvastatin: Limit daily dose of simvastatin to 10 mg and diltiazem to 240 mg, if coadministration of both drugs is required [see Clinical Pharmacology (12.3)].
 
 Rifampin: Avoid coadministration of rifampin with diltiazem [see Clinical Pharmacology (12.3)].

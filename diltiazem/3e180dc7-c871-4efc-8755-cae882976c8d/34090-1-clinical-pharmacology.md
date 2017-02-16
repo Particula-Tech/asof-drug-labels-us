@@ -66,9 +66,9 @@ The apparent elimination half-life for CARDIZEM LA Tablets after single or multi
 When CARDIZEM LA Tablets were coadministered with a high fat content breakfast, diltiazem peak and systemic exposures were not affected indicating that the tablet can be administered without regard to food.
 As the dose of CARDIZEM LA Tablets is increased from 120 to 240 mg, area-under-the-curve increases 2.5-fold.
 
-## Drug Interactions
+Drug Interactions
 
-Impact of diltiazem on other co-administered drugs
+Impact of Diltiazem on Other Coadministered Drugs
 
 Anesthetics: The depression of cardiac contractility, conductivity, and automaticity as well as the vascular dilation associated with anesthetics may be potentiated by calcium channel blockers.
 When used concomitantly, anesthetics and calcium blockers should be titrated carefully.
@@ -107,18 +107,18 @@ Monitor for quinidine adverse effects and adjust the dose adjusted.
 
 Statins: Diltiazem has been shown to increase significantly the AUC of some statins.
 The risk of myopathy and rhabdomyolysis with statins metabolized by CYP3A4 may be increased with concomitant use of diltiazem.
-When possible, use a non-CYP3A4-metabolized statin together with diltiazem; otherwise, dose adjustments for both diltiazem and the statin should be considered along with close monitoring for signs and symptoms of any statin related adverse events.
+When possible, use a non-CYP3A4-metabolized statin together with diltiazem; otherwise, dose adjustments for both diltiazem and the statin should be considered along with close monitoring for signs and symptoms of any statin-related adverse events.
 
-In a healthy volunteer cross-over study (N=10), coadministration of a single 20 mg dose of simvastatin at the end of a 14 day regimen with 120 mg BID diltiazem SR resulted in a 5-fold increase in mean simvastatin AUC versus simvastatin alone.
+In a healthy volunteer cross-over study (N=10), coadministration of a single 20 mg dose of simvastatin at the end of a 14-day regimen with 120 mg BID diltiazem SR resulted in a 5-fold increase in mean simvastatin AUC versus simvastatin alone.
 Subjects with increased average steady-state exposures of diltiazem showed a greater fold increase in simvastatin exposure.
 Computer-based simulations showed that at a daily dose of 480 mg of diltiazem, an 8- to 9-fold mean increase in simvastatin AUC can be expected.
-If co-administration of simvastatin with diltiazem is required, limit the daily doses of simvastatin to 10 mg and diltiazem to 240 mg.
+If coadministration of simvastatin with diltiazem is required, limit the daily doses of simvastatin to 10 mg and diltiazem to 240 mg.
 
-In a ten-subject randomized, open label, 4-way cross-over study, coadministration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone.
+In a 10-subject randomized, open label, 4-way cross-over study, coadministration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone.
 In the same study, there was no significant change in 20 mg single dose pravastatin AUC and Cmax during diltiazem coadministration.
 Diltiazem plasma levels were not significantly affected by lovastatin or pravastatin.
 
-Impact of other co-administered drugs on diltiazem include, but not limited to:
+Impact of Other Coadministered Drugs on Diltiazem Include, but Not Limited to:
 
 Rifampin
 
@@ -129,6 +129,6 @@ Cimetidine and Ranitidine
 
 A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and AUC (53%) after a 1-week course of cimetidine at 1200 mg per day and a single dose of diltiazem 60 mg.
 Ranitidine produced smaller, non-significant increases.
-The effect may be mediated by cimetidine's known inhibition of hepatic cytochrome P-450, the enzyme system responsible for the first-pass metabolism of diltiazem.
+The effect may be mediated by cimetidine's known inhibition of hepatic cytochrome P450, the enzyme system responsible for the first-pass metabolism of diltiazem.
 Patients currently receiving diltiazem therapy should be carefully monitored for a change in pharmacological effect when initiating and discontinuing therapy with cimetidine.
 An adjustment in the diltiazem dose may be warranted.

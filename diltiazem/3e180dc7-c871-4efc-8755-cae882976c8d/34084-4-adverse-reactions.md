@@ -31,7 +31,7 @@ Nervous System: Abnormal dreams, amnesia, depression, gait abnormality, hallucin
 
 Gastrointestinal: Anorexia, constipation, diarrhea, dry mouth, dysgeusia, dyspepsia, thirst, vomiting, weight increase.
 
-Dermatological: Petechiae, photosensitivity, pruritus, urticaria [see Warnings and Precautions(5.4)].
+Dermatological: Petechiae, photosensitivity, pruritus, urticaria [see Warnings and Precautions (5.4)].
 
 Other: Amblyopia, CPK increase, dyspnea, epistaxis, eye irritation, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, nocturia, osteoarticular pain, polyuria, sexual difficulties.
 

@@ -15,5 +15,5 @@ Initiate dosing at 180 mg once daily and increase dose at intervals of 7 to 14 d
 
 ## 2.3 Switching to CARDIZEM LA Tablets
 
-Patients controlled on diltiazem alone or in combination with other medications may be switched to CARDIZEM LA once-a-day at the nearest equivalent total daily dose.
+Patients controlled on diltiazem alone or in combination with other medications may be switched to CARDIZEM LA once a day at the nearest equivalent total daily dose.
 Higher doses of CARDIZEM LA may be needed in some patients based on clinical response.
