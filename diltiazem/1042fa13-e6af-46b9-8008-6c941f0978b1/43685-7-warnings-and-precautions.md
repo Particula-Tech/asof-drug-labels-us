@@ -75,7 +75,7 @@ Avoid coadministration of diltiazem with rifampin or any known CYP3A4 inducer.
 
 Statins: Diltiazem is an inhibitor of CYP3A4 and has been shown to increase significantly the AUC of some statins.
 The risk of myopathy and rhabdomyolysis with statins metabolized by CYP3A4 may be increased with concomitant use of diltiazem.
-When possible, use a non-CYP3A4-metabolized statin together with diltiazem; otherwise, monitor for signs and symptoms of any statin related adverse events, and adjust the doses accordingly.
+When possible, use a non-CYP3A4-metabolized statin together with diltiazem; otherwise, monitor for signs and symptoms of any statin-related adverse events, and adjust the doses accordingly.
 
 In a healthy volunteer crossover study (N=10), coadministration of a single 20 mg dose of simvastatin at the end of a 14-day regimen with 120 mg BID diltiazem SR resulted in a 5-fold increase in mean simvastatin AUC versus simvastatin alone.
 Subjects with increased average steady-state exposures of diltiazem showed a greater fold increase in simvastatin exposure.
