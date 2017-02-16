@@ -11,7 +11,7 @@ The exact mechanism of action of bexarotene in the treatment of cutaneous T-cell
 
 ## Pharmacokinetics
 
-General
+### General
 
 Plasma concentrations of bexarotene were determined during clinical studies in patients with CTCL or following repeated single or multiple-daily dose applications of Targretin® gel 1% for up to 132 weeks.
 Plasma bexarotene concentrations were generally less than 5 ng/mL and did not exceed 55 ng/mL.
@@ -22,20 +22,20 @@ Bexarotene is highly bound (>99%) to plasma proteins.
 The plasma proteins to which bexarotene binds have not been elucidated, and the ability of bexarotene to displace drugs bound to plasma proteins and the ability of drugs to displace bexarotene binding have not been studied (see PRECAUTIONS: Protein Binding).
 The uptake of bexarotene by organs or tissues has not been evaluated.
 
-Metabolism
+### Metabolism
 
 Four bexarotene metabolites have been identified in plasma following oral administration of bexarotene: 6- and 7-hydroxy-bexarotene and 6- and 7-oxo-bexarotene.
 In vitro studies suggest that cytochrome P450 3A4 is the major cytochrome P450 responsible for formation of the oxidative metabolites and that the oxidative metabolites may be glucuronidated.
 The oxidative metabolites are active in in vitro assays of retinoid receptor activation, but the relative contribution of the parent and any metabolites to the efficacy and safety of Targretin® gel is unknown.
 
-Elimination
+### Elimination
 
 The renal elimination of bexarotene and its metabolites was examined in patients with Type 2 diabetes mellitus following oral administration of bexarotene.
 Neither bexarotene nor its metabolites were excreted in urine in appreciable amounts.
 
 ## Special Populations
 
-Elderly, Gender, Race: Because of a large number of immeasurable plasma concentrations (< 1 ng/mL), any potential pharmacokinetic differences between Special Populations could not be assessed.
+Elderly, Gender, Race: Because of a large number of immeasurable plasma concentrations (< 1ng/mL), any potential pharmacokinetic differences between Special Populations could not be assessed.
 
 Pediatric: Studies to evaluate bexarotene pharmacokinetics in the pediatric population have not been conducted (see PRECAUTIONS: Pediatric Use).
 
@@ -45,7 +45,7 @@ Urinary elimination of bexarotene and its known metabolites is a minor excretory
 Hepatic Insufficiency: No specific studies have been conducted with Targretin® gel in patients with hepatic insufficiency.
 Because less than 1% of the dose of oral bexarotene is excreted in the urine unchanged and there is in vitro evidence of extensive hepatic contribution to bexarotene elimination, hepatic impairment would be expected to lead to greatly decreased clearance (see PRECAUTIONS: Hepatic Insufficiency).
 
-## Drug-Drug Interactions
+### Drug-Drug Interactions
 
 No formal studies to evaluate drug interactions with bexarotene or Targretin® gel have been conducted.
 Bexarotene oxidative metabolites appear to be formed through cytochrome P450 3A4.
@@ -84,7 +84,7 @@ The median time to best response on the Composite Assessment of Index Lesion Sev
 
 The rate of relapse in responding patients by the Composite Assessment of Index Lesion Severity was 23% (3/13) over a median observation period of 149 days (range 56-342).
 Fourteen patients developed new lesions in untreated areas (14/50; 28%).
-Four patients developed clinically abnormal lymph nodes (≥ 1 cm diam) (4/50; 8%).
+Four patients developed clinically abnormal lymph nodes (≥ 1cm diam) (4/50; 8%).
 One patient developed a cutaneous tumor (1/50; 2%).
 
 The Phase I-II program (dose-seeking trials with different response criteria than the multicenter trial) was supportive of the multicenter study results.

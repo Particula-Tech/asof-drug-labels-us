@@ -1,15 +1,11 @@
 # PRECAUTIONS
 
-## Pregnancy
+Pregnancy: Category X. See CONTRAINDICATIONS
 
-Category X. See CONTRAINDICATIONS.
-
-## General
-
-Targretin® gel should be used with caution in patients with a known hypersensitivity to other retinoids.
+General: Targretin® gel should be used with caution in patients with a known hypersensitivity to other retinoids.
 No clinical instances of cross-reactivity have been noted.
 
-Vitamin A Supplementation: In clinical studies, patients were advised to limit vitamin A intake to ≤ 15,000 IU/day.
+Vitamin A Supplementation: In clinical studies, patients were advised to limit vitamin A intake to ≤15,000 IU/day.
 Because of the relationship of bexarotene to vitamin A, patients should be advised to limit vitamin A supplements to avoid potential additive toxic effects.
 
 Photosensitivity: Retinoids as a class have been associated with photosensitivity.
@@ -19,7 +15,7 @@ Patients should be advised to minimize exposure to sunlight and artificial ultra
 
 ## Information for Patients
 
-Please see accompanying "Patient's Instructions for Use"
+Please see accompanying “Patient’s Instructions for Use”
 
 ## Drug-Drug Interactions
 

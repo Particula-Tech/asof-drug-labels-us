@@ -19,7 +19,7 @@ For the 67 patients enrolled in the Phase I-II program, the mean duration of tre
 As in the multicenter study, the most common adverse events regardless of relationship to study drug in the Phase I-II program were rash (78%), pain (40%), and pruritus (40%).
 
 Table 1.
-Incidence of All Adverse Events* and Application Site Adverse Events with Incidence ≥ 5% for All Application Frequencies of Targretin® Gel in the Multicenter CTCL Study
+Incidence of All Adverse Events* and Application Site Adverse Events with Incidence ≥5% for All Application Frequencies of Targretin® Gel in the Multicenter CTCL Study
 
 |  | All Adverse Events | Application Site Adverse Events |
 | --- | --- | --- |
