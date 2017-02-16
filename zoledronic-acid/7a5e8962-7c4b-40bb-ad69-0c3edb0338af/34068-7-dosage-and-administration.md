@@ -5,7 +5,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 ## 2.1 Hypercalcemia of Malignancy
 
 The maximum recommended dose of Zoledronic acid Injection in hypercalcemia of malignancy (albumin-corrected serum calcium greater than or equal to 12 mg/dL [3.0 mmol/L]) is 4 mg.
-The 4-mg dose must be given as a single-dose intravenous infusion over no less than 15 minutes.
+The 4 mg dose must be given as a single-dose intravenous infusion over no less than 15 minutes.
 Patients who receive Zoledronic acid Injection should have serum creatinine assessed prior to each treatment.
 
 Dose adjustments of Zoledronic acid Injection are not necessary in treating patients for hypercalcemia of malignancy presenting with mild-to-moderate renal impairment prior to initiation of therapy (serum creatinine less than 400 mcmol/L or less than 4.5 mg/dL).
@@ -22,7 +22,7 @@ Retreatment with Zoledronic acid Injection 4 mg may be considered if serum calci
 It is recommended that a minimum of 7 days elapse before retreatment, to allow for full response to the initial dose.
 Renal function must be carefully monitored in all patients receiving Zoledronic acid Injection and serum creatinine must be assessed prior to retreatment with Zoledronic acid Injection [see Warnings and Precautions (5.2)].
 
-## 2.2 Multiple Myeloma and Metastatic Bone Lesions of Solid Tumors
+## 2.2 Multiple Myeloma and Bone Metastases of Solid Tumors
 
 The recommended dose of Zoledronic acid Injection in patients with multiple myeloma and metastatic bone lesions from solid tumors for patients with creatinine clearance (CrCl) greater than 60 mL/min is 4 mg infused over no less than 15 minutes every 3 to 4 weeks.
 The optimal duration of therapy is not known.

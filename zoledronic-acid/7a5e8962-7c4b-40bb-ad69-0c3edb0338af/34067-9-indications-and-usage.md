@@ -8,7 +8,6 @@ Zoledronic acid Injection is indicated for the treatment of hypercalcemia of mal
 
 Zoledronic acid Injection is indicated for the treatment of patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy.
 Prostate cancer should have progressed after treatment with at least one hormonal therapy.
+Limitations of Use
 
-## 1.3 Important Limitation of Use
-
-The safety and efficacy of Zoledronic acid Injection in the treatment of hypercalcemia associated with hyperparathyroidism or with other nontumor-related conditions have not been established.
+The safety and efficacy of Zoledronic acid Injection in the treatment of hypercalcemia associated with hyperparathyroidism or with other non-tumor-related conditions have not been established.

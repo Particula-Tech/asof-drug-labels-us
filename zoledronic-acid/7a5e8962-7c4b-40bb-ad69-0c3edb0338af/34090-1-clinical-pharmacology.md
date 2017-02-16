@@ -35,9 +35,9 @@ Pharmacokinetic data in patients with hypercalcemia are not available.
 
 Distribution
 
-Single or multiple (q 28 days) 5-minute or 15-minute infusions of 2, 4, 8 or 16 mg Zoledronic acid Injection were given to 64 patients with cancer and bone metastases.
-The postinfusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end of infusion to less than 1% of Cmax 24 hours postinfusion with population half-lives of t1/2α 0.24 hours and t1/2β 1.87 hours for the early disposition phases of the drug.
-The terminal elimination phase of zoledronic acid was prolonged, with very low concentrations in plasma between Days 2 and 28 postinfusion, and a terminal elimination half-life t 1/2γ of 146 hours.
+Single or multiple (every 28 days) 5-minute or 15-minute infusions of 2, 4, 8 or 16 mg Zoledronic acid Injection were given to 64 patients with cancer and bone metastases.
+The pos-tinfusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end of infusion to less than 1% of Cmax 24 hours post-infusion with population half-lives of t1/2α 0.24 hours and t1/2β 1.87 hours for the early disposition phases of the drug.
+The terminal elimination phase of zoledronic acid was prolonged, with very low concentrations in plasma between Days 2 and 28 post-infusion, and a terminal elimination half-life t 1/2γ of 146 hours.
 The area under the plasma concentration versus time curve (AUC0-24h) of zoledronic acid was dose proportional from 2 to 16 mg.
 The accumulation of zoledronic acid measured over three cycles was low, with mean AUC0-24h ratios for cycles 2 and 3 versus 1 of 1.13 ± 0.30 and 1.16 ± 0.36, respectively.
 
