@@ -40,9 +40,9 @@ Disease characteristics were M1c stage disease (61%), cutaneous melanoma (74%), 
 More patients in the OPDIVO arm had an ECOG performance status of 0 (71% vs. 58%).
 
 Trial 4 demonstrated a statistically significant improvement in OS for the OPDIVO arm compared with the dacarbazine arm in an interim analysis based on 47% of the total planned events for OS.
-Table 14 and Figure 1 summarize the efficacy results.
+Table 16 and Figure 1 summarize the efficacy results.
 
-Table 14: Efficacy Results - Trial 4
+Table 16: Efficacy Results - Trial 4
 
 |  | OPDIVO (n=210) | Dacarbazine (n=208) |
 | --- | --- | --- |
@@ -60,9 +60,7 @@ Table 14: Efficacy Results - Trial 4
 | (95% CI) | (28, 41) | (5, 13) |
 | Complete response rate | 4% | 1% |
 | Partial response rate | 30% | 8% |
-| a Based on a stratified proportional hazards model. |  |  |
-| b Based on stratified log-rank test. |  |  |
-| c p-value is compared with the allocated alpha of 0.0021 for this interim analysis. |  |  |
+| a Based on a stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with the allocated alpha of 0.0021 for this interim analysis. |  |  |
 
 Figure 1: Kaplan-Meier Curves of Overall Survival - Trial 4
 
@@ -86,13 +84,13 @@ The major efficacy outcome measures were investigator-assessed PFS per RECIST v1
 Additional efficacy outcome measures were confirmed ORR and duration of response.
 
 A total of 945 patients were randomized, 314 patients to the OPDIVO plus ipilimumab arm, 316 to the OPDIVO arm, and 315 to the ipilimumab arm.
-The study population characteristics were: median age 61 years (range: 18 to 90); 65% male; 97% White; ECOG performance score 0 (73%) or 1 (27%).
+The trial population characteristics were: median age 61 years (range: 18 to 90); 65% male; 97% White; ECOG performance score 0 (73%) or 1 (27%).
 Disease characteristics were: AJCC Stage IV disease (93%); M1c disease (58%); elevated LDH (36%); history of brain metastases (4%); BRAF V600 mutation-positive melanoma (32%); PD-L1 ≥5% tumor cell membrane expression as determined by the clinical trials assay (46%); and prior adjuvant therapy (22%).
 
 Trial 6 demonstrated statistically significant improvements in PFS for patients randomized to either OPDIVO-containing arm as compared with the ipilimumab arm.
-Efficacy results are presented in Table 15 and Figure 2.
+Efficacy results are presented in Table 17 and Figure 2.
 
-Table 15: Efficacy Results in Trial 6
+Table 17: Efficacy Results in Trial 6
 
 |  | OPDIVO plus Ipilimumab (n=314) | OPDIVO (n=316) | Ipilimumab (n=315) |
 | --- | --- | --- | --- |
@@ -126,7 +124,7 @@ The data presented in the figure below summarize the results of exploratory anal
 
 Figure 5: Forest Plot: PFS Based on PD-L1 Expression Comparing OPDIVO-Containing Arms - Trial 6
 
-## 14.2 Metastatic Non-Small Cell Lung Cancer
+## 14.2 Metastatic Non-Small Cell Lung Cancer (NSCLC)
 
 ### Second-line Treatment of Metastatic Squamous NSCLC
 
@@ -146,9 +144,9 @@ Baseline ECOG performance status was 0 (24%) or 1 (76%) and 92% were former/curr
 Baseline disease characteristics of the population as reported by investigators were Stage IIIb (19%), Stage IV (80%), and brain metastases (6%).
 All patients received prior therapy with a platinum-doublet regimen and 99% of patients had tumors of squamous-cell histology.
 
-The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 199 events were observed (86% of the planned number of events for final analysis) (Table 16 and Figure 6).
+The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 199 events were observed (86% of the planned number of events for final analysis) (Table 18 and Figure 6).
 
-Table 16: Efficacy Results in Trial 2
+Table 18: Efficacy Results in Trial 2
 
 |  | OPDIVO (n=135) | Docetaxel (n=137) |
 | --- | --- | --- |
@@ -174,7 +172,7 @@ Figure 6: Overall Survival - Trial 2
 
 Archival tumor specimens were retrospectively evaluated for PD-L1 expression.
 Across the study population, 17% (47/272) of patients had non-quantifiable results.
-Among the 225 patients with quantifiable results, 47% (106/225) had PD-L1 negative squamous NSCLC, defined as <1% of tumor cells expressing PD-L1, and 53% (119/225) had PD-L1 positive squamous NSCLC, defined as ≥of tumor cells expressing PD-L1.
+Among the 225 patients with quantifiable results, 47% (106/225) had PD-L1 negative squamous NSCLC, defined as <1% of tumor cells expressing PD-L1, and 53% (119/225) had PD-L1 positive squamous NSCLC, defined as ≥1% of tumor cells expressing PD-L1.
 In pre-specified exploratory subgroup analyses, the hazard ratios for survival were 0.58 (95% CI: 0.37, 0.92) in the PD-L1 negative subgroup and 0.69 (95% CI: 0.45, 1.05) in the PD-L1 positive NSCLC subgroup.
 
 ### Second-line Treatment of Metastatic Non-Squamous NSCLC
@@ -196,9 +194,9 @@ Baseline ECOG performance status was 0 (31%) or 1 (69%), 79% were former/current
 Prior therapy included platinum-doublet regimen (100%) and 40% received maintenance therapy as part of the first-line regimen.
 Histologic subtypes included adenocarcinoma (93%), large cell (2.4%), and bronchoalveolar (0.9%).
 
-Trial 3 demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 413 events were observed (93% of the planned number of events for final analysis) (Table 17 and Figure 7).
+Trial 3 demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 413 events were observed (93% of the planned number of events for final analysis) (Table 19 and Figure 7).
 
-Table 17: Efficacy Results in Trial 3
+Table 19: Efficacy Results in Trial 3
 
 |  | OPDIVO (n=292) | Docetaxel (n=290) |
 | --- | --- | --- |
@@ -217,7 +215,7 @@ Table 17: Efficacy Results in Trial 3
 | Median (months) | 2.3 | 4.2 |
 | p-valuea | 0.39 |  |
 | Hazard ratio (95% CI)c | 0.92 (0.77, 1.11) |  |
-| a Based on stratified log-rank test. b p-value is compared with.0408 of the allocated alpha for this interim analysis. c Based on a stratified Cox proportional hazards model. d Based on the stratified Cochran-Mantel-Haenszel test. |  |  |
+| a Based on a stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with.0408 of the allocated alpha for this interim analysis. d Based on the stratified Cochran-Mantel-Haenszel test. |  |  |
 
 Figure 7: Overall Survival - Trial 3
 
@@ -248,12 +246,12 @@ Patient distribution by MSKCC risk groups was 34% favorable, 47% intermediate, a
 The first tumor assessments were conducted 8 weeks after randomization and continued every 8 weeks thereafter for the first year and then every 12 weeks until progression or treatment discontinuation, whichever occurred later.
 
 The major efficacy outcome measure was overall survival (OS).
-The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with everolimus at the prespecified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 18 and Figure 10).
+The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with everolimus at the prespecified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 20 and Figure 10).
 OS benefit was observed regardless of PD-L1 expression level.
 
-Other endpoints include confirmed objective response rates, which are also presented in Table 18.
+Other endpoints include confirmed objective response rates, which are also presented in Table 20.
 
-Table 18: Efficacy Results - Trial 5
+Table 20: Efficacy Results - Trial 5
 
 |  | OPDIVO (n=410) | Everolimus (n=411) |
 | --- | --- | --- |
@@ -265,7 +263,7 @@ Table 18: Efficacy Results - Trial 5
 | Confirmed Objective Response Rate (95% CI) | 21.5% (17.6, 25.8) | 3.9% (2.2, 6.2) |
 | Median duration of response in months (95% CI) | 23.0 (12.0, NE) | 13.7 (8.3, 21.9) |
 | Median time to onset of confirmed response in months (min, max) | 3.0 (1.4, 13.0) | 3.7 (1.5, 11.2) |
-| a Based on a stratified proportional hazards model. b Based on a stratified log rank test. c p-value is compared with.0148 of the allocated alpha for this interim analysis |  |  |
+| a Based on a stratified proportional hazards model. b Based on a stratified log-rank test. c p-value is compared with.0148 of the allocated alpha for this interim analysis. |  |  |
 
 Figure 10: Overall Survival - Trial 5
 
@@ -289,12 +287,12 @@ The median age was 37 years (range: 18 to 72).
 The majority were male (64%) and white (87%).
 Patients had received a median of 5 prior systemic regimens (range: 3 to 15).
 
-Results are shown in Table 19.
+Results are shown in Table 21.
 Patients received a median of 17 doses of OPDIVO (range 3 to 48), with a median duration of therapy of 8.3 months (range 1.9 to 24 months).
 
-Table 19: Efficacy in cHL after Autologous HSCT and Brentuximab Vedotin
+Table 21: Efficacy in cHL after Autologous HSCT and Brentuximab Vedotin
 
-|  | Trial 7 and Trial (n=95) |
+|  | Trial 7 and Trial 8(n=95) |
 | --- | --- |
 | Objective Response Rate, n (%)a (95% CI) | 62 (65%) (55, 75) |
 | Complete Remission Rate (95% CI) | 7 (7%) (3, 15) |
@@ -325,19 +323,19 @@ The median age was 60 years (range: 28 to 83) with 31% ≥65 years of age, 83% w
 Baseline ECOG performance status was 0 (20%) or 1 (78%), 76% were former/current smokers, 90% had Stage IV disease, 45% of patients received only one prior line of systemic therapy, the remaining 55% received two or more prior lines of systemic therapy, and 25% had HPVp16-positive tumors, 24% had HPV p16-negative tumors, and 51% had unknown status.
 
 The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with investigator’s choice at a pre-specified interim analysis (78% of the planned number of events for final analysis).
-The survival results are displayed in Table 20 and Figure 11.
+The survival results are displayed in Table 22 and Figure 11.
 There were no statistically significant differences between the two arms for PFS (HR=0.89; 95% CI: 0.70, 1.13) or ORR (13.3% [95% CI: 9.3, 18.3] vs 5.8% [95% CI: 2.4, 11.6] for nivolumab and investigator’s choice, respectively).
 
-Table 20: Overall Survival in Trial 9
+Table 22: Overall Survival in Trial 9
 
-|  | OPDIVO (n=240) | Everolimus (n=121) |
+|  | OPDIVO (n=240) | Investigator’s Choice (n=121) |
 | --- | --- | --- |
 | Overall Survival |  |  |
-| Deaths (%) | 133 (55) | 85 (70) |
-| Median (months) (95% CI) | 25.0 (5.5, 9.1) | 19.6 (4.0, 6.0) |
+| Deaths (%) | 133 (55%) | 85 (70%) |
+| Median (months) (95% CI) | 7.5 (5.5, 9.1) | 5.1 (4.0, 6.0) |
 | Hazard ratio (95% CI)a | 0.70 (0.53, 0.92) |  |
 | p-valueb,c | 0.0101 |  |
-| a Based on stratified proportional hazards model. b Based on stratified log rank test. c p-value is compared with.0227 of the allocated alpha for this interim analysis |  |  |
+| a Based on stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with 0.0227 of the allocated alpha for this interim analysis. |  |  |
 
 Figure 11: Overall Survival - Trial 9
 
@@ -346,3 +344,38 @@ Across the study population, 28% (101/361) of patients had non-quantifiable resu
 Among the 260 patients with quantifiable results, 43% (111/260) had PD-L1 negative SCCHN, defined as <1% of tumor cells expressing PD-L1, and 57% (149/260) had PD-L1 positive SCCHN, defined as ≥1% of tumor cells expressing PD-L1.
 In pre-specified exploratory subgroup analyses, the hazard ratio for survival was 0.89 (95% CI: 0.54, 1.45) with median survivals of 5.7 and 5.8 months for the nivolumab and chemotherapy arms, respectively, in the PD-L1 negative subgroup.
 The HR for survival was 0.55 (95% CI: 0.36, 0.83) with median survivals of 8.7 and 4.6 months for the nivolumab and chemotherapy arms, respectively, in the PD-L1 positive SCCHN subgroup.
+
+## 14.6 Urothelial Carcinoma
+
+In Trial 10, 270 patients with locally advanced or metastatic urothelial carcinoma who had disease progression during or following platinum-containing chemotherapy or who had disease progression within 12 months of treatment with a platinum-containing neoadjuvant or adjuvant chemotherapy regimen were treated with OPDIVO.
+Patients were excluded for active brain or leptomeningeal metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, and ECOG performance status >1.
+Patients received an intravenous infusion of 3 mg/kg of OPDIVO every 2 weeks until unacceptable toxicity or either radiographic or clinical progression.
+Tumor response assessments were conducted every 8 weeks for the first 48 weeks and every 12 weeks thereafter.
+Major efficacy outcome measures included confirmed objective response rate (ORR) as assessed by independent radiographic review committee (IRRC) using Response Evaluation Criteria in Solid Tumors (RECIST v1.1) and duration of response (DOR).
+
+The median age was 66 years (range 38 to 90), 78% were male, 86% of patients were white.
+Twenty-seven percent had non-bladder urothelial carcinoma and 84% had visceral metastases.
+Thirty-four percent of patients had disease progression following prior platinum-containing neoadjuvant or adjuvant therapy.
+Twenty-nine percent of patients had received ≥2 prior systemic regimens in the metastatic setting.
+Thirty-six percent of patients received prior cisplatin only, 23% received prior carboplatin only, and 7% were treated with both cisplatin and carboplatin in the metastatic setting.
+Forty-six percent of patients had an ECOG performance status of 1.
+Eighteen percent of patients had a hemoglobin <10 g/dL, and twenty-eight percent of patients had liver metastases at baseline.
+Patients were included regardless of their PD-L1 status.
+
+Tumor specimens were evaluated prospectively using the PD-L1 IHC 28-8 pharmDx assay at a central laboratory and the results were used to define subgroups for pre-specified analyses.
+Of the 270 patients, 46% were defined as having PD-L1 expression of ≥1% (defined as ≥1% of tumor cells expressing PD-L1).
+The remaining 54% of patients, were classified as having PD-L1 expression of <1% (defined as <1% of tumor cells expressing PD-L1).
+Confirmed ORR in all patients and the two PD-L1 subgroups are summarized in Table 23.
+Median time to response was 1.9 months (range; 1.6-7.2).
+In 77 patients who received prior systemic therapy only in the neoadjuvant or adjuvant setting, the ORR was 23.4% (95% CI: 14.5%, 34.4%).
+
+Table 23: Efficacy Results in Trial 10
+
+|  | All Patients | PD-L1 < 1% | PD-L1 > 1% |
+| --- | --- | --- | --- |
+|  | N=270 | N=146 | N=124 |
+| Confirmed Objective Response Rate, n (%) (95% CI) | 53 (19.6%)(15.1, 24.9) | 22 (15.1%)(9.7, 21.9) | 31 (25.0%)(17.7, 33.6) |
+| Complete Response Rate | 7 (2.6%) | 1 (0.7%) | 6 (4.8%) |
+| Partial Response Rate | 46 (17.0%) | 21 (14.4%) | 25 (20.2%) |
+| Median Duration of Responsea (months) (range) | 10.3 (1.9+, 12.0+) | 7.6 (3.7, 12.0+) | NE (1.9+, 12.0+) |
+| a Estimated from the Kaplan-Meier Curve |  |  |  |

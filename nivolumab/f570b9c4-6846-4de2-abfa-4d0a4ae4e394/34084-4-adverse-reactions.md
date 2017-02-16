@@ -21,7 +21,7 @@ The data in the Warnings and Precautions section reflect exposure to OPDIVO, as 
 In addition, clinically significant adverse reactions of OPDIVO administered with ipilimumab were evaluated in 407 patients with melanoma enrolled in Trial 6 (n=313) or a Phase 2 randomized study (n=94), administering OPDIVO with ipilimumab, supplemented by immune-mediated adverse reaction reports in ongoing clinical trials [see Warnings and Precautions (5.1, 5.8)].
 
 The data described below reflect exposure to OPDIVO as a single agent in Trials 1, 4, and 6, and to OPDIVO with ipilimumab in Trial 6, which are randomized, active-controlled trials conducted in patients with unresectable or metastatic melanoma.
-Also described below are single-agent OPDIVO data from Trials 2 and 3, which are randomized trials in patients with metastatic NSCLC, Trial 5, which is a randomized trial in patients with advanced RCC, Trials 7 and 8, which are open-label, multiple-cohort trials in patients with cHL, and Trial 9, a randomized trial in patients with recurrent or metastatic SCCHN.
+Also described below are single-agent OPDIVO data from Trials 2 and 3, which are randomized trials in patients with metastatic NSCLC, Trial 5, which is a randomized trial in patients with advanced RCC, Trials 7 and 8, which are open-label, multiple-cohort trials in patients with cHL, Trial 9, a randomized trial in patients with recurrent or metastatic SCCHN, and Trial 10, which is a single-arm trial in patients with urothelial carcinoma.
 
 ### Unresectable or Metastatic Melanoma
 
@@ -111,7 +111,7 @@ The most frequent Grade 3 and 4 adverse reactions reported in at least 2% of pat
 Table 4 summarizes selected adverse reactions that occurred in at least 10% of OPDIVO-treated patients.
 The most common adverse reactions (reported in at least 20% of patients and at a higher incidence than in the dacarbazine arm) were fatigue, musculoskeletal pain, rash, and pruritus.
 
-Table 4: Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 5)
+Table 4: Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 4)
 
 | Percentage (%) of Patients |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -131,7 +131,7 @@ Table 4: Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at
 | Upper respiratory tract infectiond | 17 | 0 | 6 | 0 |
 | Toxicity was graded per NCI CTCAE v4. a Includes periorbital edema, face edema, generalized edema, gravitational edema, localized edema, peripheral edema, pulmonary edema, and lymphedema. b Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, pain in jaw, and spinal pain. c Includes maculopapular rash, erythematous rash, pruritic rash, follicular rash, macular rash, papular rash, pustular rash, vesicular rash, dermatitis, allergic dermatitis, exfoliative dermatitis, acneiform dermatitis, drug eruption, and skin reaction. d Includes rhinitis, viral rhinitis, pharyngitis, and nasopharyngitis. |  |  |  |  |
 
-Other clinically important adverse reactions in less than 10% of patients treated with OPDIVO in Trial 5 were:
+Other clinically important adverse reactions in less than 10% of patients treated with OPDIVO in Trial 4 were:
 
 Nervous System Disorders: peripheral neuropathy
 
@@ -225,7 +225,7 @@ Table 7: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of
 The safety of OPDIVO in metastatic NSCLC was evaluated in Trial 2, a randomized open-label, multicenter trial in patients with metastatic squamous NSCLC and progression on or after one prior platinum doublet-based chemotherapy regimen and Trial 3, a randomized, open-label, multicenter trial in patients with metastatic non-squamous NSCLC and progression on or after one prior platinum doublet-based chemotherapy regimen [see Clinical Studies (14.2)].
 Patients received 3 mg/kg of OPDIVO administered intravenously over 60 minutes every 2 weeks or docetaxel administered intravenously at 75 mg/m2 every 3 weeks.
 The median duration of therapy in OPDIVO-treated patients in Trial 2 was 3.3 months (range: 1 day to 21.7+ months) and in Trial 3 was 2.6 months (range: 0 to 24.0+ months).
-In Trial 2, Trial 2, 36% of patients received OPDIVO for at least 6 months and 18% of patients received OPDIVO for at least 1 year and in Trial 3, 30% of patients received OPDIVO for greater than 6 months and 20% of patients received OPDIVO for greater than 1 year.
+In Trial 2, 36% of patients received OPDIVO for at least 6 months and 18% of patients received OPDIVO for at least 1 year and in Trial 3, 30% of patients received OPDIVO for greater than 6 months and 20% of patients received OPDIVO for greater than 1 year.
 
 Trial 2 and Trial 3 excluded patients with active autoimmune disease, medical conditions requiring systemic immunosuppression, or with symptomatic interstitial lung disease.
 
@@ -418,7 +418,7 @@ Table 12: Non-Hematologic Adverse Reactions Occurring in ≥10% of Patients with
 | Toxicity was graded per NCI CTCAE v4. |  |  |  |  |
 | a Includes events occurring up to 30 days after last nivolumab dose, regardless of causality. After an immune-mediated adverse reaction, reactions following nivolumab rechallenge were included if they occurred up to 30 days after completing the initial nivolumab course. b Includes asthenia. c Includes abdominal discomfort and upper abdominal pain. d Includes nasopharyngitis, pharyngitis, rhinitis, and sinusitis. e Includes pneumonia bacterial, pneumonia mycoplasmal, pneumocystis jirovecii pneumonia. f Includes dermatitis, dermatitis acneiform, dermatitis exfoliative, and rash described as macular, papular, maculopapular, pruritic, exfoliative, or acneiform. g Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, and pain in extremity. h Includes hyperesthesia, hypoesthesia, paresthesia, dysesthesia, peripheral motor neuropathy, peripheral sensory neuropathy, and polyneuropathy. |  |  |  |  |
 
-Additional information regarding clinically important adverse reactions
+Additional information regarding clinically important adverse reactions:
 
 Immune-mediated pneumonitis: In Trials 7 and 8, pneumonitis, including interstitial lung disease, occurred in 4.9% (13/263) of patients receiving OPDIVO.
 Immune-mediated pneumonitis occurred in 3.4% (9/263) of patients receiving OPDIVO (one Grade 3 and eight Grade 2).
@@ -484,11 +484,88 @@ The most common adverse reactions occurring in >10% of OPDIVO-treated patients a
 
 The most common laboratory abnormalities occurring in ≥10% of OPDIVO-treated patients and at a higher incidence than investigator’s choice were increased alkaline phosphatase, increased amylase, hypercalcemia, hyperkalemia, and increased TSH.
 
+### Urothelial Carcinoma
+
+The safety of OPDIVO was evaluated in Trial 10, a single arm study in which 270 patients with locally advanced or metastatic urothelial carcinoma had disease progression during or following platinum-containing chemotherapy or had disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy received OPDIVO 3 mg/kg every 2 weeks until disease progression or unacceptable toxicity.
+The median duration of treatment was 3.3 months (range: 0 to 13.4+).
+Forty-six percent (46%) of patients had a drug delay for an adverse reaction.
+
+Fourteen patients (5.2%) died from causes other than disease progression.
+This includes 4 patients (1.5%) who died from pneumonitis or cardiovascular failure which was attributed to treatment with OPDIVO.
+OPDIVO was discontinued for adverse reactions in 17% of patients.
+Serious adverse reactions occurred in 54% of patients.
+The most frequent serious adverse reactions reported in at least 2% of patients were urinary tract infection, sepsis, diarrhea, small intestine obstruction, and general physical health deterioration.
+
+Twenty-five (9%) patients received an oral prednisone dose equivalent to ≥40 mg daily for an immune mediated adverse reaction [see Warnings and Precautions (5)].
+
+The most common adverse reactions (reported in at least 20% of patients) were fatigue, musculoskeletal pain, nausea, and decreased appetite.
+
+Table 14 summarizes adverse reactions that occurred in greater than 10% of patients.
+
+Table 14: Adverse Reactions Occurring in ≥10% of Patients (Trial 10)
+
+|  | OPDIVO Urothelial Carcinoma |  |
+| --- | --- | --- |
+| Percentage (%) of Patients |  |  |
+| All Grades | Grades 3-4 |  |
+| Adverse Reaction | 99 | 51 |
+| General Disorders and Administration Site Conditions |  |  |
+| Asthenia/fatigue/malaise | 46 | 7 |
+| Pyrexia/tumor associated fever | 17 | 0.4 |
+| Edema/peripheral edema/peripheral swelling | 13 | 0.4 |
+| Infections and Infestations |  |  |
+| Urinary Tract Infection/eschericia/fungal urinary tract infection | 17 | 7 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Cough/productive cough | 18 | 0 |
+| Dyspnea/exertional dyspnea | 14 | 3.3 |
+| Gastrointestinal Disorders |  |  |
+| Nausea | 22 | 0.7 |
+| Diarrhea | 17 | 2.6 |
+| Constipation | 16 | 0.4 |
+| Abdominal paina | 13 | 1.5 |
+| Vomiting | 12 | 1.9 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Rashb | 16 | 1.5 |
+| Pruritus | 12 | 0 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Musculoskeletal painc | 30 | 2.6 |
+| Arthralgia | 10 | 0.7 |
+| Metabolism and Nutrition Disorders |  |  |
+| Decreased appetite | 22 | 2.2 |
+| Endocrine Disorders |  |  |
+| Thyroid disordersd | 15 | 0 |
+| Toxicity was graded per NCI CTCAE v4. a Includes abdominal discomfort, lower and upper abdominal pain. b Includes dermatitis, dermatitis acneiform, dermatitis bullous, and rash described as generalized, macular, maculo-papular, or pruritic. c Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity and spinal pain. d Includes autoimmune thyroiditis, blood TSH decrease, blood TSH increase, hyperthyroidism, hypothyroidism, thyroiditis, thyroxine decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine free increased, tri-iodothyronine increased. |  |  |
+
+Table 15: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of Patients (Trial 10)
+
+| Test | OPDIVO Urothelial Carcinomaa |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Percentage (%) of Patients |  |  |  |  |  |
+| All Grades | Grades 3-4 |  |  |  |  |
+| Hematology |  |  |  |  |  |
+| Lymphopenia | 42 | 9 |  |  |  |
+| Anemia | 40 | 7 |  |  |  |
+| Thrombocytopenia | 15 | 2.4 |  |  |  |
+| Leucopenia | 11 | 0 |  |  |  |
+| Chemistry |  |  |  |  |  |
+| Hyperglycemia | 42 | 2.4 |  |  |  |
+| Hyponatremia | 41 | 11 |  |  |  |
+| Increased creatinine | 39 | 2.0 |  |  |  |
+| Increased alkaline phosphatase | 33 | 5.5 |  |  |  |
+| Hypocalcemia | 26 | 0.8 |  |  |  |
+| Increased AST | 24 | 3.5 |  |  |  |
+| Hyperkalemia | 19 | 1.2 |  |  |  |
+| Increased ALT | 18 | 1.2 |  |  |  |
+| Hypomagnesemia | 16 | 0 |  |  |  |
+| Increased lipase | 20 | 7 |  |  |  |
+| Increased amylase | 18 | 4.4 |  |  |  |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: range: 84 to 256 patients. |  |  |  |  |  |
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
 
-Of 1586 patients who were treated with OPDIVO as a single agent 3 mg/kg every 2 weeks and evaluable for the presence of anti-nivolumab antibodies, 157 patients (9.9%) tested positive for treatment-emergent anti-nivolumab antibodies by an electrochemiluminescent (ECL) assay and nine patients (0.6%) had neutralizing antibodies against nivolumab.
+Of 2022 patients who were treated with OPDIVO as a single agent 3 mg/kg every 2 weeks and evaluable for the presence of anti-nivolumab antibodies, 231 patients (11.4%) tested positive for treatment-emergent anti-nivolumab antibodies by an electrochemiluminescent (ECL) assay and fifteen patients (0.7%) had neutralizing antibodies against nivolumab.
 There was no evidence of altered pharmacokinetic profile or increased incidence of infusion reactions with anti-nivolumab antibody development.
 
 Of 394 patients who were treated with OPDIVO with ipilimumab and evaluable for the presence of anti-nivolumab antibodies, 149 patients (37.8%) tested positive for treatment-emergent anti-nivolumab antibodies by an ECL assay and 18 patients (4.6%) had neutralizing antibodies against nivolumab.

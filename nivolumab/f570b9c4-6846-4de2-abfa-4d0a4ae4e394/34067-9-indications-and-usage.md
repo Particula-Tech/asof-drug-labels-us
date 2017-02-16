@@ -27,4 +27,15 @@ Continued approval for this indication may be contingent upon verification and d
 
 ## 1.5 Squamous Cell Carcinoma of the Head and Neck
 
-OPDIVO is indicated for the treatment of patients with recurrent or metastatic squamous cell carcinoma of the head and neck (SCCHN) with disease progression on or after platinum-based therapy [see Clinical Studies (14.5)].
+OPDIVO is indicated for the treatment of patients with recurrent or metastatic squamous cell carcinoma of the head and neck (SCCHN) with disease progression on or after platinum-based therapy [seeClinical Studies (14.5)].
+
+## 1.6 Urothelial Carcinoma
+
+OPDIVO (nivolumab) is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who:
+
+have disease progression during or following platinum-containing chemotherapy
+
+have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
+
+This indication is approved under accelerated approval based on tumor response rate and duration of response.
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials [see Clinical Studies (14.6)].

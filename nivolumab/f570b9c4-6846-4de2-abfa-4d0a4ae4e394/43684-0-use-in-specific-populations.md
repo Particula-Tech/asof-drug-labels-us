@@ -52,6 +52,9 @@ Trials 1, 7, 8, and 9 did not include sufficient numbers of patients aged 65 yea
 Of the 314 patients randomized to OPDIVO administered with ipilimumab in Trial 6, 41% were 65 years or older and 11% were 75 years or older.
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
 
+In Trial 10 (Urothelial Cancer), 55% of patients were 65 year or older and 14% were 75 years or older.
+No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
+
 ## 8.6 Renal Impairment
 
 Based on a population pharmacokinetic analysis, no dose adjustment is recommended in patients with renal impairment [see Clinical Pharmacology (12.3)].
