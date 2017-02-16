@@ -1,15 +1,12 @@
-USP Drug Release Test 6
-
-Rx only
-
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807, USA
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 By: Valeant Pharmaceuticals International, Inc. Steinbach, Manitoba R5G 1Z7 Canada
 
 Tiazac is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates. ©Valeant Pharmaceuticals North America LLC
 
-Revised: 09/2016
+9405002
 
-9405001
+20001790
 
-20001595
+Rev.
+11/2016

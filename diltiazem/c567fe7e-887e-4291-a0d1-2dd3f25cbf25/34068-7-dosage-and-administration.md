@@ -10,7 +10,7 @@ Angina: Dosages for the treatment of angina should be adjusted to each patient's
 Individual patients may respond to higher doses of up to 540 mg once daily.
 When necessary, titration should be carried out over 7 to 14 days.
 
-## Concomitant use with Other Cardiovascular Agents:
+## Concomitant Use with Other Cardiovascular Agents:
 
 1.
 Sublingual Nitroglycerin (NTG): May be taken as required to abort acute anginal attacks during diltiazem hydrochloride therapy.

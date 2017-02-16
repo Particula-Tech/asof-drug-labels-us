@@ -8,7 +8,7 @@ The following table presents the most common adverse reactions, whether or not d
 
 MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED HYPERTENSION TRIALSAdverse events occurring in treated patients at 2% or more than placebo-treated patients.
 
-| Adverse Events (COSTART Term) | n=57 # pts (%) | Up to 360 mg n=149 # pts (%) | 480-540 mg n=48 # pts (%) |
+| Adverse Events (COSTART Term) | n=57 # pts (%) | Up to 360 mg n=149 # pts (%) | 480 - 540 mg n=48 # pts (%) |
 | --- | --- | --- | --- |
 |  | Placebo | Tiazac |  |
 | edema, peripheral | 1 (2) | 8 (5) | 7 (15) |
