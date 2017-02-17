@@ -8,4 +8,4 @@ Pregnancy: Female patients of childbearing age should be told about the conseque
 Discuss treatment options with women planning to become pregnant.
 Patients should be asked to report pregnancies to their physicians as soon as possible.
 
-T2016-76 September 2016
+T2017-17 February 2017

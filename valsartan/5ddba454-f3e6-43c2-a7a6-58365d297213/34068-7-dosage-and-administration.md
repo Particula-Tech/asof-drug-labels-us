@@ -28,7 +28,7 @@ Follow the suspension preparation instructions below (see Preparation of Suspens
 When the suspension is replaced by a tablet, the dose of valsartan may have to be increased.
 The exposure to valsartan with the suspension is 1.6 times greater than with the tablet.
 
-No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2[see Pediatric Use (8.4)].
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2[see Use in Specific Populations (8.4)].
 
 Diovan is not recommended for patients <6 years old [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
@@ -38,7 +38,7 @@ Add 80 mL of Ora-Plus®* oral suspending vehicle to an amber glass bottle contai
 Allow the suspension to stand for a minimum of 1 hour.
 After the standing time, shake the suspension for a minimum of 1 additional minute.
 Add 80 mL of Ora-Sweet SF®* oral sweetening vehicle to the bottle and shake the suspension for at least 10 seconds to disperse the ingredients.
-The suspension is homogenous and can be stored for either up to 30 days at room temperature (below 30ºC/86ºF) or up to 75 days at refrigerated conditions (2-8ºC/35-46ºF) in the glass bottle with a child-resistant screw-cap closure.
+The suspension is homogenous and can be stored for either up to 30 days at room temperature (below 30ºC/86ºF) or up to 75 days at refrigerated conditions (2ºC-8ºC/35ºF-46ºF) in the glass bottle with a child-resistant screw-cap closure.
 Shake the bottle well (at least 10 seconds) prior to dispensing the suspension.
 
 *Ora-Sweet SF® and Ora-Plus® are registered trademarks of Paddock Laboratories, Inc.

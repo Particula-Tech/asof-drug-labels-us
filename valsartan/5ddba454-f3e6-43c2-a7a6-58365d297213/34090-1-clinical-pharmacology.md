@@ -38,7 +38,7 @@ In multiple-dose studies in hypertensive patients, valsartan had no notable effe
 Valsartan peak plasma concentration is reached 2 to 4 hours after dosing.
 Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.
 Absolute bioavailability for Diovan is about 25% (range 10% to 35%).
-The bioavailability of the suspension [see Dosage and Administration; Pediatric Hypertension (2.2)] is 1.6 times greater than with the tablet.
+The bioavailability of the suspension [see Dosage and Administration (2.2)] is 1.6 times greater than with the tablet.
 With the tablet, food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
 AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range.
 Valsartan does not accumulate appreciably in plasma following repeated administration.

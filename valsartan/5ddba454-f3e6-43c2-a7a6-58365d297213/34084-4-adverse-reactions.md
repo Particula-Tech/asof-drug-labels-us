@@ -61,7 +61,7 @@ Diovan is not recommended for pediatric patients under 6 years of age.
 In a study (n=90) of pediatric patients (1 to 5 years), two deaths and three cases of on-treatment transaminase elevations were seen in the one-year open-label extension phase.
 These 5 events occurred in a study population in which patients frequently had significant co-morbidities.
 A causal relationship to Diovan has not been established.
-In a second study in which 75 children aged 1 to 5 years were randomized, no deaths and one case of marked liver transaminase elevations occurred after 6 months during an open-label extension phase.
+In a second study of 6-months duration in 75 children aged 1 to 5 years, there were no deaths; one case of marked liver transaminase elevations occurred following 6 months of treatment.
 
 Heart Failure
 
@@ -86,15 +86,14 @@ About 93% of patients received concomitant ACE inhibitors.
 
 Discontinuations occurred in 0.5% of valsartan-treated patients and 0.1% of placebo patients for each of the following: elevations in creatinine and elevations in potassium.
 
-Other adverse reactions with an incidence greater than 1% and greater than placebo included headache NOS, nausea, renal impairment NOS, syncope, blurred vision, upper abdominal pain and vertigo.
-(NOS = not otherwise specified).
+Other adverse reactions with an incidence greater than 1% and greater than placebo included headache NOS (not otherwise specified), nausea, renal impairment NOS, syncope, blurred vision, upper abdominal pain and vertigo.
 
 From the long-term data in the Valsartan Heart Failure Trial, there did not appear to be any significant adverse reactions not previously identified.
 
 Post-Myocardial Infarction
 
 The safety profile of Diovan was consistent with the pharmacology of the drug and the background diseases, cardiovascular risk factors, and clinical course of patients treated in the post-myocardial infarction setting.
-The table shows the percentage of patients discontinued in the valsartan and captopril-treated groups in the Valsartan in Acute Myocardial Infarction Trial (VALIANT) with a rate of at least 0.5% in either of the treatment groups.
+The table shows the percentage of patients discontinued in the valsartan and captopril-treated groups in the VALsartan In Acute myocardial iNfarcTion trial (VALIANT) with a rate of at least 0.5% in either of the treatment groups.
 
 Discontinuations due to renal dysfunction occurred in 1.1% of valsartan-treated patients and 0.8% of captopril-treated patients.
 

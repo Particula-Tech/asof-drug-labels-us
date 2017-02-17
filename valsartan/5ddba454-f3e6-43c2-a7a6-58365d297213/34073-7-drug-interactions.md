@@ -20,7 +20,7 @@ Monitor renal function periodically in patients receiving valsartan and NSAID th
 The antihypertensive effect of angiotensin II receptor antagonists, including valsartan, may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
 Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
-Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy [see Clinical Trials (14.3)].
+Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy [see Clinical Studies (14.3)].
 In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on Diovan and other agents that affect the RAS.
 
