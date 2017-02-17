@@ -1,11 +1,7 @@
-STERILE OPHTHALMIC SUSPENSION
+Revised: May 2016
 
-Rx only
+Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Revised: August 2013.
+©Bausch & Lomb Incorporated Alrex is a registered trademark of Bausch & Lomb Incorporated or its affiliates.
 
-Bausch & Lomb Incorporated, Tampa, Florida 33637
-
-©Bausch & Lomb Incorporated Alrex® is a registered trademark of Bausch & Lomb Incorporated
-
-9007904 (Folded) 9005504 (Flat)
+9007905 (Folded) 9005505 (Flat)
