@@ -6,7 +6,7 @@ NORTHERA therapy may cause or exacerbate supine hypertension in patients with nO
 Patients should be advised to elevate the head of the bed when resting or sleeping.
 Monitor blood pressure, both in the supine position and in the recommended head-elevated sleeping position.
 Reduce or discontinue NORTHERA if supine hypertension persists.
-If supine hypertension is not well-managed, NORTHERA may increase the risk of cardiovascular events.
+If supine hypertension is not well-managed, NORTHERA may increase the risk of cardiovascular events, particularly stroke.
 
 ## 5.2 Hyperpyrexia and Confusion
 
