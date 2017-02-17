@@ -18,7 +18,7 @@ This condition should be corrected prior to administration of Diovan, or the tre
 Caution should be observed when initiating therapy in patients with heart failure or post-myocardial infarction patients.
 Patients with heart failure or post-myocardial infarction patients given Diovan commonly have some reduction in blood pressure, but discontinuation of therapy because of continuing symptomatic hypotension usually is not necessary when dosing instructions are followed.
 In controlled trials in heart failure patients, the incidence of hypotension in valsartan-treated patients was 5.5% compared to 1.8% in placebo-treated patients.
-In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), hypotension in post-myocardial infarction patients led to permanent discontinuation of therapy in 1.4% of valsartan-treated patients and 0.8% of captopril-treated patients.
+In the VALsartan In Acute myocardial iNfarcTion trial (VALIANT), hypotension in post-myocardial infarction patients led to permanent discontinuation of therapy in 1.4% of valsartan-treated patients and 0.8% of captopril-treated patients.
 
 If excessive hypotension occurs, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.

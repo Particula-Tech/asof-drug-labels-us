@@ -28,12 +28,12 @@ Because many drugs are excreted into human milk and because of the potential for
 ## 8.4Pediatric Use
 
 The antihypertensive effects of Diovan have been evaluated in two randomized, double-blind clinical studies in pediatric patients from 1-5 and 6-16 years of age [see Clinical Studies (14.1)].
-The pharmacokinetics of Diovan have been evaluated in pediatric patients 1 to 16 years of age [see Pharmacokinetics, Special Populations, Pediatric (12.3)].
-Diovan was generally well tolerated in children 6-16 years and the adverse experience profile was similar to that described for adults.
+The pharmacokinetics of Diovan have been evaluated in pediatric patients 1 to 16 years of age [see Clinical Pharmacology (12.3)].
+Diovan was generally well tolerated in children 6 to 16 years and the adverse experience profile was similar to that described for adults.
 
 In children and adolescents with hypertension where underlying renal abnormalities may be more common, renal function and serum potassium should be closely monitored as clinically indicated.
 
-Diovan is not recommended for pediatric patients under 6 years of age due to safety findings for which a relationship to treatment could not be excluded [see Adverse Reactions, Pediatric Hypertension (6.1)].
+Diovan is not recommended for pediatric patients under 6 years of age due to safety findings for which a relationship to treatment could not be excluded [see Adverse Reactions (6.1)].
 
 No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2.
 
@@ -54,7 +54,7 @@ In the controlled clinical trials of valsartan, 1,214 (36.2%) hypertensive patie
 No overall difference in the efficacy or safety of valsartan was observed in this patient population, but greater sensitivity of some older individuals cannot be ruled out.
 
 Of the 2,511 patients with heart failure randomized to valsartan in the Valsartan Heart Failure Trial, 45% (1,141) were 65 years of age or older.
-In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), 53% (2,596) of the 4,909 patients treated with valsartan and 51% (2,515) of the 4,885 patients treated with valsartan + captopril were 65 years of age or older.
+In the VALsartan In Acute myocardial iNfarcTion trial (VALIANT), 53% (2,596) of the 4,909 patients treated with valsartan and 51% (2,515) of the 4,885 patients treated with valsartan + captopril were 65 years of age or older.
 There were no notable differences in efficacy or safety between older and younger patients in either trial.
 
 ## 8.6Renal Impairment
