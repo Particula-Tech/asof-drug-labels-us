@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208943"
+  ],
+  "inn": "ephedrine",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "42023-216-01",
+    "42023-216-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ephedrine sulfate",
+      "name": "Ephedrine Sulfate"
+    }
+  ],
+  "setid": "38723cb3-dfca-4c81-8c6f-63dd99929191",
+  "source": "dailymed"
+}
