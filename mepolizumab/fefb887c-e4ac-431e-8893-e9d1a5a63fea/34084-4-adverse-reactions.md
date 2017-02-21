@@ -42,7 +42,7 @@ In addition, 3 cases of herpes zoster occurred in subjects treated with mepolizu
 
 Systemic Reactions, including Hypersensitivity Reactions
 
-In Trials 1, 2, and 3 described above, the percentage of subjects who experienced systemic (allergic and non-allergic) reactions was 7% in the placebo group and 10% in the group receiving NUCALA.
+In Trials 1, 2, and 3 described above, the percentage of subjects who experienced systemic (allergic and non-allergic) reactions was 5% in the placebo group and 3% in the group receiving NUCALA.
 Systemic allergic/hypersensitivity reactions were reported by 2% of subjects in the placebo group and 1% of subjects in the group receiving NUCALA.
 The most commonly reported manifestations of systemic allergic/hypersensitivity reactions reported in the group receiving NUCALA included rash, pruritus, headache, and myalgia.
 Systemic non-allergic reactions were reported by 2% of subjects in the group receiving NUCALA and 3% of subjects in the placebo group.
@@ -53,7 +53,7 @@ Injection Site Reactions
 
 Injection site reactions (e.g., pain, erythema, swelling, itching, burning sensation) occurred at a rate of 8% in subjects treated with NUCALA compared with 3% in subjects treated with placebo.
 
-Long-Term Safety
+Long-term Safety
 
 Nine hundred ninety-eight (998) subjects have received NUCALA in ongoing open-label extension studies, during which additional cases of herpes zoster have been reported.
 The overall adverse event profile was similar to the asthma trials described above.
@@ -69,3 +69,13 @@ The clinical relevance of the presence of anti-mepolizumab antibodies is not kno
 
 The data reflect the percentage of patients whose test results were positive for antibodies to mepolizumab in specific assays.
 The observed incidence of antibody positivity in an assay is highly dependent on several factors, including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+
+## 6.3 Postmarketing Experience
+
+In addition to adverse reactions reported from clinical trials, the following adverse reactions have been identified during postapproval use of NUCALA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+These events have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to NUCALA or a combination of these factors.
+
+Immune System Disorders
+
+Hypersensitivity reactions, including anaphylaxis.

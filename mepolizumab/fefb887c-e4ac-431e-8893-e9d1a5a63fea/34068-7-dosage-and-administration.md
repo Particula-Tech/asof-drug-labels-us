@@ -13,7 +13,7 @@ In line with clinical practice, monitoring of patients after administration of b
 
 Reconstitution Instructions
 
-1. 1.Reconstitute NUCALA in the vial with 1.2 mL Sterile Water for Injection, USP, preferably using a 2- or 3-mL syringe and a 21-G needle.
+1. 1.Reconstitute NUCALA in the vial with 1.2 mL Sterile Water for Injection, USP, preferably using a 2- or 3-mL syringe and a 21-gauge needle.
    The reconstituted solution will contain a concentration of 100 mg/mL mepolizumab.
    Do not mix with other medications.
 2. 2.Direct the stream of Sterile Water for Injection vertically onto the center of the lyophilized cake.
@@ -25,7 +25,7 @@ Reconstitution Instructions
 5. 4.Visually inspect the reconstituted solution for particulate matter and clarity before use.
    The solution should be clear to opalescent and colorless to pale yellow or pale brown, essentially particle free.
    Small air bubbles, however, are expected and acceptable.
-   If particulate matter remains in the solution or if the solution appears cloudy or milky, discard the solution.
+   If particulate matter remains in the solution or if the solution appears cloudy or milky, the solution must not be administered.
 6. 5.If the reconstituted solution is not used immediately:
    1. •store below 30°C (86°F),
    2. •do not freeze, and
@@ -33,7 +33,7 @@ Reconstitution Instructions
 
 Administration
 
-1. 1.For subcutaneous administration, preferably using a 1-mL polypropylene syringe fitted with a disposable 21- to 27-G x 0.5-inch (13-mm) needle.
+1. 1.For subcutaneous administration, preferably using a 1-mL polypropylene syringe fitted with a disposable 21- to 27-gauge x 0.5-inch (13-mm) needle.
 2. 2.Just before administration, remove 1 mL of reconstituted NUCALA.
    Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation.
 3. 3.Administer the 1-mL injection (equivalent to 100 mg mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.

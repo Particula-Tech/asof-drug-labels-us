@@ -17,7 +17,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-Associated Maternal and/or Embryo-Fetal Risk: In women with poorly or moderately controlled asthma, evidence demonstrates that there is an increased risk of preeclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
+Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or moderately controlled asthma, evidence demonstrates that there is an increased risk of preeclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
 The level of asthma control should be closely monitored in pregnant women and treatment adjusted as necessary to maintain optimal control.
 
 Data
@@ -29,9 +29,9 @@ Mepolizumab crossed the placenta in cynomolgus monkeys.
 Concentrations of mepolizumab were approximately 2.4 times higher in infants than in mothers up to day 178 postpartum.
 Levels of mepolizumab in milk were less than or equal to 0.5% of maternal serum concentration.
 
-In a fertility, early embryonic, and embryo-fetal development study, pregnant CD-1 mice received an analogous antibody, which inhibits the activity of murine IL-5, at an IV dose of 50 mg/kg once per week throughout gestation.
+In a fertility, early embryonic, and embryofetal development study, pregnant CD-1 mice received an analogous antibody, which inhibits the activity of murine IL-5, at an IV dose of 50 mg/kg once per week throughout gestation.
 The analogous antibody was not teratogenic in mice.
-Embryo-fetal development of IL-5–deficient mice has been reported to be generally unaffected relative to wild-type mice.
+Embryofetal development of IL-5–deficient mice has been reported to be generally unaffected relative to wild-type mice.
 
 ## 8.2 Lactation
 

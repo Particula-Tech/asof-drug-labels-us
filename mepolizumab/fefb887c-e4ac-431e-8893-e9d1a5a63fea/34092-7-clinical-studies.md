@@ -60,27 +60,27 @@ Additionally, compared with placebo, there were fewer exacerbations requiring ho
 Table 3.
 Rate of Exacerbations in Trials 1 and 2 (Intent-to-Treat Population)
 
-| Trial | Treatment | Exacerbations per Year |  |  |
-| --- | --- | --- | --- | --- |
-| Rate | Difference | Rate Ratio(95% CI) |  |  |
-| All Exacerbations |  |  |  |  |
-| Trial 1 | Placebo (n = 155) | 2.40 |  |  |
-| Mepolizumab 75 mg IV (n = 153) | 1.24 | 1.16 | 0.52(0.39, 0.69) |  |
-| Trial 2 | Placebo (n = 191) | 1.74 |  |  |
-| Mepolizumab 75 mg IV (n = 191) | 0.93 | 0.81 | 0.53(0.40, 0.72) |  |
-| NUCALA 100 mg SC (n = 194) | 0.83 | 0.91 | 0.47(0.35, 0.64) |  |
-| Exacerbations requiring hospitalization/emergency room visit |  |  |  |  |
-| Trial 1 | Placebo (n = 155) | 0.43 |  |  |
-| Mepolizumab 75 mg IV (n = 153) | 0.17 | 0.26 | 0.40(0.19, 0.81) |  |
-| Trial 2 | Placebo (n = 191) | 0.20 |  |  |
-| Mepolizumab 75 mg IV (n = 191) | 0.14 | 0.06 | 0.68(0.33, 1.41) |  |
-| NUCALA 100 mg SC (n = 194) | 0.08 | 0.12 | 0.39(0.18, 0.83) |  |
-| Exacerbations requiring hospitalization |  |  |  |  |
-| Trial 1 | Placebo (n = 155) | 0.18 |  |  |
-| Mepolizumab 75 mg IV (n = 153) | 0.11 | 0.07 | 0.61(0.28, 1.33) |  |
-| Trial 2 | Placebo (n = 191) | 0.10 |  |  |
-| Mepolizumab 75 mg IV (n = 191) | 0.06 | 0.04 | 0.61(0.23, 1.66) |  |
-| NUCALA 100 mg SC (n = 194) | 0.03 | 0.07 | 0.31(0.11, 0.91) |  |
+| Trial | Treatment | Exacerbations per Year |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Rate |  | Difference |  | Rate Ratio(95% CI) |  |  |  |
+| All Exacerbations |  |  |  |  |  |  |  |
+| Trial 1 | Placebo (n = 155) | 2.40 |  |  |  |  |  |
+| Mepolizumab 75 mg IV (n = 153) | 1.24 | 1.16 |  | 0.52(0.39, 0.69) |  |  |  |
+| Trial 2 | Placebo (n = 191) | 1.74 |  |  |  |  |  |
+| Mepolizumab 75 mg IV (n = 191) | 0.93 | 0.81 |  | 0.53(0.40, 0.72) |  |  |  |
+| NUCALA 100 mg SC (n = 194) | 0.83 | 0.91 |  | 0.47(0.35, 0.64) |  |  |  |
+| Exacerbations requiring hospitalization/emergency room visit |  |  |  |  |  |  |  |
+| Trial 1 | Placebo (n = 155) | 0.43 |  |  |  |  |  |
+| Mepolizumab 75 mg IV (n = 153) | 0.17 | 0.26 |  | 0.40(0.19, 0.81) |  |  |  |
+| Trial 2 | Placebo (n = 191) | 0.20 |  |  |  |  |  |
+| Mepolizumab 75 mg IV (n = 191) | 0.14 | 0.06 |  | 0.68(0.33, 1.41) |  |  |  |
+| NUCALA 100 mg SC (n = 194) | 0.08 | 0.12 |  | 0.39(0.18, 0.83) |  |  |  |
+| Exacerbations requiring hospitalization |  |  |  |  |  |  |  |
+| Trial 1 | Placebo (n = 155) | 0.18 |  |  |  |  |  |
+| Mepolizumab 75 mg IV (n = 153) | 0.11 | 0.07 |  | 0.61(0.28, 1.33) |  |  |  |
+| Trial 2 | Placebo (n = 191) | 0.10 |  |  |  |  |  |
+| Mepolizumab 75 mg IV (n = 191) | 0.06 | 0.04 |  | 0.61(0.23, 1.66) |  |  |  |
+| NUCALA 100 mg SC (n = 194) | 0.03 | 0.07 |  | 0.31(0.11, 0.91) |  |  |  |
 
 The time to first exacerbation was longer for the groups receiving NUCALA and mepolizumab 75 mg IV compared with placebo in Trial 2 (Figure 1).
 
@@ -126,10 +126,10 @@ Change from Baseline in FEV1 (mL)
 | 2c | 52 (-30, 134) | 76 (-6, 159) | 98 (11, 184)d |
 | 3c | 56 (-91, 203) | 114 (-42, 271) | NA |
 
-- a Dose = 75 mg IV.
-- b FEV 1 at Week 52.
-- c Dose = 100 mg SC.
-- d FEV 1 at Week 32.
+1. a Dose = 75 mg IV.
+2. b FEV 1 at Week 52.
+3. c Dose = 100 mg SC.
+4. d FEV 1 at Week 32.
 
 The effect of mepolizumab on lung function was also studied in a 12-week, placebo-controlled trial enrolling patients with asthma on a moderate dose of inhaled corticosteroid with evidence of symptoms and lung function impairment.
 Enrollment was not dependent on a history of exacerbations or a pre-specified eosinophil count.

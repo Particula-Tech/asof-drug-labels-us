@@ -2,7 +2,7 @@
 
 ## 5.1 Hypersensitivity Reactions
 
-Hypersensitivity reactions (e.g., angioedema, bronchospasm, hypotension, urticaria, rash) have occurred following administration of NUCALA.
+Hypersensitivity reactions (e.g., anaphylaxis, angioedema, bronchospasm, hypotension, urticaria, rash) have occurred following administration of NUCALA.
 These reactions generally occur within hours of administration, but in some instances can have a delayed onset (i.e., days).
 In the event of a hypersensitivity reaction, NUCALA should be discontinued [see Contraindications (4)].
 

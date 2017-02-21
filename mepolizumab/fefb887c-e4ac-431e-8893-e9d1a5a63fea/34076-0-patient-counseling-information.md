@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Hypersensitivity Reactions
 
-Inform patients that hypersensitivity reactions (e.g., angioedema, bronchospasm, hypotension, urticaria, rash) have occurred after administration of NUCALA.
+Inform patients that hypersensitivity reactions (e.g., anaphylaxis, angioedema, bronchospasm, hypotension, urticaria, rash) have occurred after administration of NUCALA.
 Instruct patients to contact their physicians if such reactions occur.
 
 Not for Acute Symptoms or Deteriorating Disease
@@ -41,7 +41,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2015 the GSK group of companies.
+©2017 the GSK group of companies.
 All rights reserved.
 
-NCL:1PI
+NCL:2PI
