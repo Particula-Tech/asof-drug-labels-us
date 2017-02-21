@@ -6,7 +6,7 @@ The most important adverse clinical event caused by the use of Lorazepam Injecti
 
 The adverse clinical events most commonly observed with the use of Lorazepam Injection in clinical trials evaluating its use in status epilepticus were hypotension, somnolence, and respiratory failure.
 
-Incidence in Controlled Clinical Trials
+### Incidence in Controlled Clinical Trials
 
 All adverse events were recorded during the trials by the clinical investigators using terminology of their own choosing.
 Similar types of events were grouped into standardized categories using modified COSTART dictionary terminology.
@@ -16,45 +16,71 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigators involving different treatment, uses, or investigators.
 An inspection of these frequencies, however, does provide the prescribing physician with one basis to estimate the relative contribution of drug and nondrug factors to the adverse event incidences in the population studied.
 
-Commonly Observed Adverse Events in a Controlled Dose-Comparison Clinical Trial
+### Commonly Observed Adverse Events in a Controlled Dose-Comparison Clinical Trial
 
 Table 1 lists the treatment-emergent adverse events that occurred in the patients treated with Lorazepam Injection in a dose-comparison trial of lorazepam 1 mg, 2 mg, and 4 mg.
 
 TABLE 1.
 NUMBER (%) OF STUDY EVENTS IN A DOSE COMPARISON CLINICAL TRIAL
 
-| Body System Event | Lorazepam Injection(n=130)a |
+| Body System Event | Lorazepam Injection (n=130)One hundred and thirty (130) patients received Lorazepam Injection. |
 | --- | --- |
-| Any Study Event (1 or more)b | 16 (12.3%) |
-| Body as a whole Infection | 1 (<1%) |
-| Cardiovascular System Hypotension | 2 (1.5%) |
-| Digestive System Liver function tests abnormal Nausea Vomiting | 1 (<1%)1 (<1%)1 (<1%) |
-| Metabolic and Nutritional Acidosis | 1 (<1%) |
-| Nervous System Brain edema Coma Convulsion Somnolence Thinking abnormal | 1 (<1%)1 (<1%)1 (<1%)2 (1.5%)1 (<1%) |
-| Respiratory System Hyperventilation Hypoventilation Respiratory failure | 1 (<1%)1 (<1%)2 (1.5%) |
-| Terms not Classifiable Injection site reaction | 1 (<1%) |
-| Urogenital System Cystitis | 1 (<1%) |
-| a One hundred and thirty (130) patients received Lorazepam Injection. b Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. |  |
+| Any Study Event (1 or more)Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. | 16 (12.3%) |
+| Body as a whole |  |
+| Infection | 1 (<1%) |
+| Cardiovascular System |  |
+| Hypotension | 2 (1.5%) |
+| Digestive System |  |
+| Liver function tests abnormal | 1 (<1%) |
+| Nausea | 1 (<1%) |
+| Vomiting | 1 (<1%) |
+| Metabolic and Nutritional |  |
+| Acidosis | 1 (<1%) |
+| Nervous System |  |
+| Brain edema | 1 (<1%) |
+| Coma | 1 (<1%) |
+| Convulsion | 1 (<1%) |
+| Somnolence | 2 (1.5%) |
+| Thinking abnormal | 1 (<1%) |
+| Respiratory System |  |
+| Hyperventilation | 1 (<1%) |
+| Hypoventilation | 1 (<1%) |
+| Respiratory failure | 2 (1.5%) |
+| Terms not Classifiable |  |
+| Injection site reaction | 1 (<1%) |
+| Urogenital System |  |
+| Cystitis | 1 (<1%) |
 
-Commonly Observed Adverse Events in Active-Controlled Clinical Trials
+### Commonly Observed Adverse Events in Active-Controlled Clinical Trials
 
 In two studies, patients who completed the course of treatment for status epilepticus were permitted to be reenrolled and to receive treatment for a second status episode, given that there was a sufficient interval between the two episodes.
-Safety was determined from all treatment episodes for all intent-to-treat patients, i.e., from all “patient-episodes.”
+Safety was determined from all treatment episodes for all intent-to-treat patients, i.e., from all "patient-episodes."
 Table 2 lists the treatment emergent adverse events that occurred in at least 1% of the patient-episodes in which Lorazepam Injection or diazepam was given.
 The table represents the pooling of results from the two controlled trials.
 
 TABLE 2.
 NUMBER (%) OF STUDY EVENTS IN ACTIVE CONTROLLED CLINICAL TRIAL
 
-| Body System Event | Lorazepam Injection(n=85)a | Diazepam(n=80)a |  |  |
-| --- | --- | --- | --- | --- |
-| Any Study Event (1 or more)b | 14 (16.5%) | 11 (13.8%) |  |  |
-| Body as a whole Headache | 1 (1.2%) | 1 (1.3%) |  |  |
-| Cardiovascular System Hypotension | 2 (2.4%) | 0 |  |  |
-| Hemic and Lymphatic System Hypochromic anemia Leukocytosis Thrombocythemia | 000 | 1 (1.3%)1 (1.3%)1 (1.3%) |  |  |
-| Nervous System Coma Somnolence Stupor | 1 (1.2%)3 (3.5%)1 (1.2%) | 1 (1.3%)3 (3.8%)0 |  |  |
-| Respiratory System Hypoventilation Apnea Respiratory failure Respiratory disorder | 1 (1.2%)1 (1.2%)2 (2.4%)1 (1.2%) | 2 (2.5%)1 (1.3%)1 (1.3%)0 |  |  |
-| a The number indicates the number of “patient-episodes.” Patient-episodes were used rather than “patients” because a total of 7 patients were reenrolled for the treatment of a second episode of status: 5 patients received Lorazepam Injection on two occasions that were far enough apart to establish the diagnosis of status epilepticus for each episode, and, using the same time criterion, 2 patients received diazepam on two occasions. b Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. |  |  |  |  |
+| Body System Event | Lorazepam Injection (n=85)The number indicates the number of "patient-episodes." Patient-episodes were used rather than "patients" because a total of 7 patients were reenrolled for the treatment of a second episode of status: 5 patients received Lorazepam Injection on two occasions that were far enough apart to establish the diagnosis of status epilepticus for each episode, and, using the same time criterion, 2 patients received diazepam on two occasions. | Diazepam (n=80) |
+| --- | --- | --- |
+| Any Study Event (1 or more)Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. | 14 (16.5%) | 11 (13.8%) |
+| Body as a whole |  |  |
+| Headache | 1 (1.2%) | 1 (1.3%) |
+| Cardiovascular System |  |  |
+| Hypotension | 2 (2.4%) | 0 |
+| Hemic and Lymphatic System |  |  |
+| Hypochromic anemia | 0 | 1 (1.3%) |
+| Leukocytosis | 0 | 1 (1.3%) |
+| Thrombocythemia | 0 | 1 (1.3%) |
+| Nervous System |  |  |
+| Coma | 1 (1.2%) | 1 (1.3%) |
+| Somnolence | 3 (3.5%) | 3 (3.8%) |
+| Stupor | 1 (1.2%) | 0 |
+| Respiratory System |  |  |
+| Hypoventilation | 1 (1.2%) | 2 (2.5%) |
+| Apnea | 1 (1.2%) | 1 (1.3%) |
+| Respiratory failure | 2 (2.4%) | 1 (1.3%) |
+| Respiratory disorder | 1 (1.2%) | 0 |
 
 These trials were not designed or intended to demonstrate the comparative safety of the two treatments.
 
@@ -62,7 +88,7 @@ The overall adverse experience profile for lorazepam was similar between women a
 There are insufficient data to support a statement regarding the distribution of adverse events by race.
 Generally, age greater than 65 years may be associated with a greater incidence of central-nervous-system depression and more respiratory depression.
 
-Other Events Observed During the Pre-marketing Evaluation of Lorazepam Injection for the Treatment of Status Epilepticus
+### Other Events Observed During the Pre-marketing Evaluation of Lorazepam Injection for the Treatment of Status Epilepticus
 
 Lorazepam Injection, active comparators, and Lorazepam Injection in combination with a comparator were administered to 488 individuals during controlled and open-label clinical trials.
 Because of reenrollments, these 488 patients participated in a total of 521 patient-episodes.
@@ -87,10 +113,10 @@ Frequent and Infrequent Study Events
 
 ## Preanesthetic
 
-Central Nervous System
+### Central Nervous System
 
 The most frequent adverse drug event reported with injectable lorazepam is central-nervous-system depression.
-The incidence varied from one study to another, depending on the dosage, route of administration, use of other central-nervous-system depressants, and the investigator’s opinion concerning the degree and duration of desired sedation.
+The incidence varied from one study to another, depending on the dosage, route of administration, use of other central-nervous-system depressants, and the investigator's opinion concerning the degree and duration of desired sedation.
 Excessive sleepiness and drowsiness were the most common consequences of CNS depression.
 This interfered with patient cooperation in approximately 6% (25/446) of patients undergoing regional anesthesia, causing difficulty in assessing levels of anesthesia.
 Patients over 50 years of age had a higher incidence of excessive sleepiness or drowsiness when compared with those under 50 (21/106 versus 24/245) when lorazepam was given intravenously (see DOSAGE AND ADMINISTRATION).
@@ -110,7 +136,7 @@ The latter was seen most commonly when scopolamine was given concomitantly as a 
 Limited information derived from patients who were discharged the day after receiving injectable lorazepam showed one patient complained of some unsteadiness of gait and a reduced ability to perform complex mental functions.
 Enhanced sensitivity to alcoholic beverages has been reported more than 24 hours after receiving injectable lorazepam, similar to experience with other benzodiazepines.
 
-Local Effects
+### Local Effects
 
 Intramuscular injection of lorazepam has resulted in pain at the injection site, a sensation of burning, or observed redness in the same area in a very variable incidence from one study to another.
 The overall incidence of pain and burning in patients was about 17% (146/859) in the immediate postinjection period and about 1.4% (12/859) at the 24-hour observation time.
@@ -121,17 +147,17 @@ Redness did not occur immediately following intravenous injection but was noted 
 This incidence is similar to that observed with an intravenous infusion before lorazepam is given.
 Intra-arterial injection may produce arteriospasm resulting in gangrene which may require amputation (see CONTRAINDICATIONS).
 
-Cardiovascular System
+### Cardiovascular System
 
 Hypertension (0.1%) and hypotension (0.1%) have occasionally been observed after patients have received injectable lorazepam.
 
-Respiratory System
+### Respiratory System
 
 Five patients (5/446) who underwent regional anesthesia were observed to have airway obstruction.
 This was believed due to excessive sleepiness at the time of the procedure and resulted in temporary hypoventilation.
 In this instance, appropriate airway management may become necessary (see also CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS).
 
-Other Adverse Experiences
+### Other Adverse Experiences
 
 Skin rash, nausea, and vomiting have occasionally been noted in patients who have received injectable lorazepam combined with other drugs during anesthesia and surgery.
 

@@ -2,7 +2,7 @@
 
 ## Use in Status Epilepticus
 
-Management of Status Epilepticus
+### Management of Status Epilepticus
 
 Status epilepticus is a potentially life-threatening condition associated with a high risk of permanent neurological impairment, if inadequately treated.
 The treatment of status, however, requires far more than the administration of an anticonvulsant agent.
@@ -14,7 +14,7 @@ Furthermore, patients who are susceptible to further seizure episodes should rec
 
 Any health care professional who intends to treat a patient with status epilepticus should be familiar with this package insert and the pertinent medical literature concerning current concepts for the treatment of status epilepticus.
 A comprehensive review of the considerations critical to the informed and prudent management of status epilepticus cannot be provided in drug product labeling.
-The archival medical literature contains many informative references on the management of status epilepticus, among them the report of the working group on status epilepticus of the Epilepsy Foundation of America “Treatment of Convulsive Status Epilepticus” (JAMA 1993; 270:854-859).
+The archival medical literature contains many informative references on the management of status epilepticus, among them the report of the working group on status epilepticus of the Epilepsy Foundation of America "Treatment of Convulsive Status Epilepticus" (JAMA 1993; 270:854–859).
 As noted in the report just cited, it may be useful to consult with a neurologist if a patient fails to respond (e.g., fails to regain consciousness).
 
 For the treatment of status epilepticus, the usual recommended dose of Lorazepam Injection is 4 mg given slowly (2 mg/min) for patients 18 years and older.
@@ -24,13 +24,13 @@ Experience with further doses of lorazepam is very limited.
 The usual precautions in treating status epilepticus should be employed.
 An intravenous infusion should be started, vital signs should be monitored, an unobstructed airway should be maintained, and artificial ventilation equipment should be available.
 
-Respiratory Depression
+### Respiratory Depression
 
 The most important risk associated with the use of Lorazepam Injection in status epilepticus is respiratory depression.
 Accordingly, airway patency must be assured and respiration monitored closely.
 Ventilatory support should be given as required.
 
-Excessive Sedation
+### Excessive Sedation
 
 Because of its prolonged duration of action, the prescriber should be alert to the possibility, especially when multiple doses have been given, that the sedative effects of lorazepam may add to the impairment of consciousness seen in the post-ictal state.
 
@@ -43,8 +43,7 @@ As is true of similar CNS-acting drugs, the decision as to when patients who hav
 It is recommended that no patient engage in such activities for a period of 24 to 48 hours or until the effects of the drug, such as drowsiness, have subsided, whichever is longer.
 Impairment of performance may persist for greater intervals because of extremes of age, concomitant use of other drugs, stress of surgery, or the general condition of the patient.
 
-Clinical trials have shown that patients over the age of 50 years may have a more profound and prolonged sedation with intravenous lorazepam.
-(See also DOSAGE AND ADMINISTRATION: Preanesthetic.)
+Clinical trials have shown that patients over the age of 50 years may have a more profound and prolonged sedation with intravenous lorazepam (see also DOSAGE AND ADMINISTRATION: Preanesthetic).
 
 As with all central-nervous-system depressant drugs, care should be exercised in patients given injectable lorazepam as premature ambulation may result in injury from falling.
 
@@ -52,7 +51,7 @@ There is no added beneficial effect from the addition of scopolamine to injectab
 
 ## General (All Uses)
 
-PRIOR TO INTRAVENOUS USE, LORAZEPAM INJECTION MUST BE DILUTED WITH AN EQUAL AMOUNT OF COMPATIBLE DILUENT (SEE DOSAGE AND ADMINISTRATION).
+PRIOR TO INTRAVENOUS USE, LORAZEPAM INJECTION MUST BE DILUTED WITH AN EQUAL AMOUNT OF COMPATIBLE DILUENT (see DOSAGE AND ADMINISTRATION).
 INTRAVENOUS INJECTION SHOULD BE MADE SLOWLY AND WITH REPEATED ASPIRATION.
 CARE SHOULD BE TAKEN TO DETERMINE THAT ANY INJECTION WILL NOT BE INTRA-ARTERIAL AND THAT PERIVASCULAR EXTRAVASATION WILL NOT TAKE PLACE.
 IN THE EVENT THAT A PATIENT COMPLAINS OF PAIN DURING INTENDED INTRAVENOUS INJECTION OF LORAZEPAM INJECTION, THE INJECTION SHOULD BE STOPPED IMMEDIATELY TO DETERMINE IF INTRA-ARTERIAL INJECTION OR PERIVASCULAR EXTRAVASATION HAS TAKEN PLACE.
@@ -90,16 +89,13 @@ When lorazepam injection is used for peroral endoscopic procedures, adequate top
 
 ## General
 
-The additive central-nervous-system effects of other drugs, such as phenothiazines, narcotic analgesics, barbiturates, antidepressants, scopolamine, and monoamine-oxidase inhibitors, should be borne in mind when these other drugs are used concomitantly with or during the period of recovery from lorazepam injection.
-(See CLINICAL PHARMACOLOGY and WARNINGS.)
+The additive central-nervous-system effects of other drugs, such as phenothiazines, narcotic analgesics, barbiturates, antidepressants, scopolamine, and monoamine-oxidase inhibitors, should be borne in mind when these other drugs are used concomitantly with or during the period of recovery from lorazepam injection (see CLINICAL PHARMACOLOGY and WARNINGS).
 
 Extreme caution must be used when administering lorazepam to elderly patients, very ill patients, or to patients with limited pulmonary reserve because of the possibility that hypoventilation and/or hypoxic cardiac arrest may occur.
-Resuscitative equipment for ventilatory support should be readily available.
-(See WARNINGS and DOSAGE AND ADMINISTRATION.)
+Resuscitative equipment for ventilatory support should be readily available (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 When lorazepam injection is used intravenous as the premedicant prior to regional or local anesthesia, the possibility of excessive sleepiness or drowsiness may interfere with patient cooperation in determining levels of anesthesia.
-This is most likely to occur when greater than 0.05 mg/kg is given and when narcotic analgesics are used concomitantly with the recommended dose.
-(See ADVERSE REACTIONS.)
+This is most likely to occur when greater than 0.05 mg/kg is given and when narcotic analgesics are used concomitantly with the recommended dose (see ADVERSE REACTIONS).
 
 As with all benzodiazepines, paradoxical reactions may occur in rare instances and in an unpredictable fashion (see ADVERSE REACTIONS).
 In these instances, further use of the drug in these patients should be considered with caution.
@@ -109,7 +105,7 @@ Symptoms may be more likely to develop in patients with renal impairment.
 
 ## Information for Patients
 
-Patients should be informed of the pharmacological effects of the drug, including sedation, relief of anxiety, lack of recall, the duration of these effects (about 8 hours), and be apprised of the risks as well as the benefits of therapy.
+Patients should be informed of the pharmacological effects of the drug, including sedation, relief of anxiety, and lack of recall, the duration of these effects (about 8 hours), and be apprised of the risks as well as the benefits of therapy.
 
 Patients who receive lorazepam as a premedicant should be cautioned that driving a motor vehicle, operating machinery, or engaging in hazardous or other activities requiring attention and coordination, should be delayed for 24 to 48 hours following the injection or until the effects of the drug, such as drowsiness, have subsided, whichever is longer.
 Sedatives, tranquilizers, and narcotic analgesics may produce a more prolonged and profound effect when administered along with injectable lorazepam.
@@ -118,11 +114,11 @@ This effect may take the form of excessive sleepiness or drowsiness and, on rare
 Patients should be advised that getting out of bed unassisted may result in falling and injury if undertaken within 8 hours of receiving lorazepam injection.
 Since tolerance for CNS depressants will be diminished in the presence of lorazepam injection, these substances should either be avoided or taken in reduced dosage.
 Alcoholic beverages should not be consumed for at least 24 to 48 hours after receiving lorazepam injectable due to the additive effects on central-nervous-system depression seen with benzodiazepines in general.
-Elderly patients should be told that lorazepam may make them very sleepy for a period longer than six (6) to eight (8) hours following surgery.
+Elderly patients should be told that lorazepam may make them very sleepy for a period longer than 6 to 8 hours following surgery.
 
 ## Laboratory Tests
 
-In clinical trials no laboratory test abnormalities were identified with either single or multiple doses of lorazepam.
+In clinical trials, no laboratory test abnormalities were identified with either single or multiple doses of lorazepam.
 These tests included: CBC, urinalysis, SGOT, SGPT, bilirubin, alkaline phosphatase, LDH, cholesterol, uric acid, BUN, glucose, calcium, phosphorus, and total proteins.
 
 ## Drug Interactions
@@ -142,18 +138,18 @@ Therefore, caution is advised if the concomitant administration of lorazepam and
 Concurrent administration of any of the following drugs with lorazepam had no effect on the pharmacokinetics of lorazepam: metoprolol, cimetidine, ranitidine, disulfiram, propranolol, metronidazole, and propoxyphene.
 No change in lorazepam dosage is necessary when concomitantly given with any of these drugs.
 
-Lorazepam-Valproate Interaction
+### Lorazepam-Valproate Interaction
 
 Concurrent administration of lorazepam (2 mg intravenously) with valproate (250 mg twice daily orally for 3 days) to 6 healthy male subjects resulted in decreased total clearance of lorazepam by 40% and decreased formation rate of lorazepam-glucuronide by 55%, as compared with lorazepam administered alone.
 Accordingly, lorazepam plasma concentrations were about two-fold higher for at least 12 hours post-dose administration during valproate treatment.
 Lorazepam dosage should be reduced to 50% of the normal adult dose when this drug combination is prescribed in patients (see also DOSAGE AND ADMINISTRATION).
 
-Lorazepam-Oral Contraceptive Steroids Interaction
+### Lorazepam-Oral Contraceptive Steroids Interaction
 
 Coadministration of lorazepam (2 mg intravenously) with oral contraceptive steroids (norethindrone acetate, 1 mg, and ethinyl estradiol, 50 mcg, for at least 6 months) to healthy females (n=7) was associated with a 55% decrease in half-life, a 50% increase in the volume of distribution, thereby resulting in an almost 3.7-fold increase in total clearance of lorazepam as compared with control healthy females (n=8).
-It may be necessary to increase the dose of Lorazepam in female patients who are concomitantly taking oral contraceptives (see also DOSAGE AND ADMINISTRATION).
+It may be necessary to increase the dose of lorazepam in female patients who are concomitantly taking oral contraceptives (see also DOSAGE AND ADMINISTRATION).
 
-Lorazepam-Probenecid Interaction
+### Lorazepam-Probenecid Interaction
 
 Concurrent administration of lorazepam (2 mg intravenously) with probenecid (500 mg orally every 6 hours) to 9 healthy volunteers resulted in a prolongation of lorazepam half-life by 130% and a decrease in its total clearance by 45%.
 No change in volume of distribution was noted during probenecid co-treatment.
@@ -171,7 +167,11 @@ The results of a preimplantation study in rats, in which the oral lorazepam dose
 
 ## Pregnancy
 
-Teratogenic Effects - Pregnancy Category D (See WARNINGS.)
+### Teratogenic Effects
+
+#### Pregnancy Category D
+
+(See WARNINGS.)
 
 ## Labor and Delivery
 
@@ -184,36 +184,39 @@ Therefore, lorazepam should not be administered to nursing mothers because, like
 
 ## Pediatric Use
 
-Status Epilepticus
+### Status Epilepticus
 
-The safety of lorazepam in pediatric patients with status epilepticus has not been systematically evaluated.
-Open-label studies described in the medical literature included 273 pediatric/adolescent patients; the age range was from a few hours old to 18 years of age.
+The safety and effectiveness of lorazepam for status epilepticus have not been established in pediatric patients.
+A randomized, double-blind, superiority-design clinical trial of lorazepam versus intravenous diazepam in 273 pediatric patients ages 3 months to 17 years failed to establish the efficacy of lorazepam for the treatment of status epilepticus.
+In that trial, assisted ventilation was required in 18% of patients treated with lorazepam versus 16% of patients treated with diazepam.
+Patients treated with lorazepam were also more likely to be reported as sedated (67% for lorazepam vs. 50% for diazepam), and the time for return to baseline mental status was, on average, 2 hours longer for lorazepam than for diazepam.
+
+Open-label studies described in the medical literature included 273 pediatric patients; the age range was from a few hours old to 18 years of age.
 Paradoxical excitation was observed in 10% to 30% of the pediatric patients under 8 years of age and was characterized by tremors, agitation, euphoria, logorrhea, and brief episodes of visual hallucinations.
 Paradoxical excitation in pediatric patients also has been reported with other benzodiazepines when used for status epilepticus, as an anesthesia, or for pre-chemotherapy treatment.
 
 Pediatric patients (as well as adults) with atypical petit mal status epilepticus have developed brief tonic-clonic seizures shortly after lorazepam was given.
-This “paradoxical” effect was also reported for diazepam and clonazepam.
+This "paradoxical" effect was also reported for diazepam and clonazepam.
 Nevertheless, the development of seizures after treatment with benzodiazepines is probably rare, based on the incidence in the uncontrolled treatment series reported (i.e., seizures were not observed for 112 pediatric patients and 18 adults or during approximately 400 doses).
 
-Preanesthetic
+#### Preanesthetic
 
 There are insufficient data to support the efficacy of injectable lorazepam as a preanesthetic agent in patients less than 18 years of age.
 
-General
+### General
 
 Seizure activity and myoclonus have been reported to occur following administration of Lorazepam Injection, especially in very low birth weight neonates.
 
 Pediatric patients may exhibit a sensitivity to benzyl alcohol, polyethylene glycol and propylene glycol, components of Lorazepam Injection (see also CONTRAINDICATIONS).
-The “gasping syndrome,” characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine, has been associated with the administration of intravenous solutions containing the preservative benzyl alcohol in neonates.
+The "gasping syndrome," characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine, has been associated with the administration of intravenous solutions containing the preservative benzyl alcohol in neonates.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 Central nervous system toxicity, including seizures and intraventricular hemorrhage, as well as unresponsiveness, tachypnea, tachycardia, and diaphoresis have been associated with propylene glycol toxicity.
-Although normal therapeutic doses of Lorazepam Injection contain very small amounts of these compounds, premature and low birth-weight infants as well as pediatric patients receiving high dosages may be more susceptible to their effects.
+Although normal therapeutic doses of Lorazepam Injection contain very small amounts of these compounds, premature and low birth-weight infants as well as pediatric patients receiving high doses may be more susceptible to their effects.
 
 ## Geriatric Use
 
-Clinical studies of lorazepam generally were not adequate to determine whether subjects aged 65 and over respond differently than younger subjects, however, age over 65 years may be associated with a greater incidence of central nervous system depression and more respiratory depression (see WARNINGS: Preanesthetic Use, PRECAUTIONS: General, and ADVERSE REACTIONS: Preanesthetic).
-
-Age does not appear to have significant effect on lorazepam kinetics (see CLINICAL PHARMACOLOGY).
+Clinical studies of lorazepam generally were not adequate to determine whether subjects aged 65 and over respond differently than younger subjects; however, age over 65 may be associated with a greater incidence of central nervous system depression and more respiratory depression (see WARNINGS: Preanesthetic Use, PRECAUTIONS: General, and ADVERSE REACTIONS: Preanesthetic).
+Age does not appear to have a clinically significant effect on lorazepam kinetics (see CLINICAL PHARMACOLOGY).
 
 Clinical circumstances, some of which may be more common in the elderly, such as hepatic or renal impairment, should be considered.
 Greater sensitivity (e.g., sedation) of some older individuals cannot be ruled out.

@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
 Lorazepam interacts with the γ-aminobutyric acid (GABA)-benzodiazepine receptor complex, which is widespread in the brain of humans as well as other species.
-This interaction is presumed to be responsible for lorazepam’s mechanism of action.
+This interaction is presumed to be responsible for lorazepam's mechanism of action.
 Lorazepam exhibits relatively high and specific affinity for its recognition site but does not displace GABA.
 Attachment to the specific binding site enhances the affinity of GABA for its receptor site on the same receptor complex.
 The pharmacodynamic consequences of benzodiazepine agonist actions include antianxiety effects, sedation, and reduction of seizure activity.
@@ -16,37 +16,36 @@ The majority of patients under these reinforced conditions had difficulty recall
 The lack of recall and recognition was optimum within 2 hours following intramuscular administration and 15 to 20 minutes after intravenous injection.
 
 The intended effects of the recommended adult dose of lorazepam injection usually last 6 to 8 hours.
-In rare instances and where patients received greater than the recommended dose, excessive sleepiness and prolonged lack of recall were noted.
+In rare instances, and where patients received greater than the recommended dose, excessive sleepiness and prolonged lack of recall were noted.
 As with other benzodiazepines, unsteadiness, enhanced sensitivity to CNS-depressant effects of ethyl alcohol and other drugs were noted in isolated and rare cases for greater than 24 hours.
 
 ## Physiologic Effects in Healthy Adults
 
 Studies in healthy adult volunteers reveal that intravenous lorazepam in doses up to 3.5 mg/70 kg does not alter sensitivity to the respiratory stimulating effect of carbon dioxide and does not enhance the respiratory depressant effects of doses of meperidine up to 100 mg/70 kg (also determined by carbon dioxide challenge) as long as patients remain sufficiently awake to undergo testing.
-Upper airway obstruction has been observed in rare instances where the patient received greater than the recommended dose and was excessively sleepy and difficult to arouse.
-(See WARNINGS and ADVERSE REACTIONS.)
+Upper airway obstruction has been observed in rare instances where the patient received greater than the recommended dose and was excessively sleepy and difficult to arouse (see WARNINGS and ADVERSE REACTIONS).
 
 Clinically employed doses of lorazepam injection do not greatly affect the circulatory system in the supine position or employing a 70-degree tilt test.
 Doses of 8 mg to 10 mg of intravenous lorazepam (2 to 2-1/2 times the maximum recommended dosage) will produce loss of lid reflexes within 15 minutes.
 
-Studies in six (6) healthy young adults who received lorazepam injection and no other drugs revealed that visual tracking (the ability to keep a moving line centered) was impaired for a mean of eight (8) hours following administration of 4 mg of intramuscular lorazepam and four (4) hours following administration of 2 mg intramuscularly with considerable subject variation.
+Studies in 6 healthy young adults who received lorazepam injection and no other drugs revealed that visual tracking (the ability to keep a moving line centered) was impaired for a mean of 8 hours following administration of 4 mg of intramuscular lorazepam and 4 hours following administration of 2 mg intramuscularly with considerable subject variation.
 Similar findings were noted with pentobarbital, 150 and 75 mg.
 Although this study showed that both lorazepam and pentobarbital interfered with eye-hand coordination, the data are insufficient to predict when it would be safe to operate a motor vehicle or engage in a hazardous occupation or sport.
 
 ## Pharmacokinetics and Metabolism
 
-Absorption
+### Absorption
 
-Intravenous
+#### Intravenous
 
 A 4-mg dose provides an initial concentration of approximately 70 ng/mL.
 
-Intramuscular
+#### Intramuscular
 
 Following intramuscular administration, lorazepam is completely and rapidly absorbed reaching peak concentrations within 3 hours.
 A 4-mg dose provides a Cmax of approximately 48 ng/mL.
-Following administration of 1.5 to 5 mg of lorazepam intramuscular, the amount of lorazepam delivered to the circulation is proportional to the dose administered.
+Following administration of 1.5 to 5.0 mg of lorazepam intramuscular, the amount of lorazepam delivered to the circulation is proportional to the dose administered.
 
-Distribution/Metabolism/Elimination
+### Distribution/Metabolism/Elimination
 
 At clinically relevant concentrations, lorazepam is 91 ± 2% bound to plasma proteins; its volume of distribution is approximately 1.3 L/kg.
 Unbound lorazepam penetrates the blood/brain barrier freely by passive diffusion, a fact confirmed by CSF sampling.
@@ -61,44 +60,44 @@ Only 0.3% of the dose was recovered as unchanged lorazepam, and the remainder of
 
 ## Special Populations
 
-Effect of Age
+### Effect of Age
 
-Pediatrics
+#### Pediatrics
 
-Neonates (Birth to 1 month)
+##### Neonates (Birth to 1 month)
 
 Following a single 0.05 mg/kg (n=4) or 0.1 mg/kg (n=6) intravenous dose of lorazepam, mean total clearance normalized to body weight was reduced by 80% compared to normal adults, terminal half-life was prolonged 3-fold, and volume of distribution was decreased by 40% in neonates with asphyxia neonatorum compared to normal adults.
 All neonates were of ≥37 weeks of gestational age.
 
-Infants (1 month up to 2 years)
+##### Infants (1 month up to 2 years)
 
 There is no information on the pharmacokinetic profile of lorazepam in infants in the age range of 1 month to 2 years.
 
-Children (2 years to 12 years)
+##### Children (2 years to 12 years)
 
 Total (bound and unbound) lorazepam had a 50% higher mean volume of distribution (normalized to body weight) and a 30% longer mean half-life in children with acute lymphocytic leukemia in complete remission (2 to 12 years, n=37) compared to normal adults (n=10).
 Unbound lorazepam clearance normalized to body weight was comparable in children and adults.
 
-Adolescents (12 years to 18 years)
+##### Adolescents (12 years to 18 years)
 
 Total (bound and unbound) lorazepam had a 50% higher mean volume of distribution (normalized to body weight) and a mean half-life that was two fold greater in adolescents with acute lymphocytic leukemia in complete remission (12 to 18 years, n=13) compared to normal adults (n=10).
 Unbound lorazepam clearance normalized to body weight was comparable in adolescents and adults.
 
-Elderly
+#### Elderly
 
 Following single intravenous doses of 1.5 to 3 mg of Lorazepam Injection, mean total body clearance of lorazepam decreased by 20% in 15 elderly subjects of 60 to 84 years of age compared to that in 15 younger subjects of 19 to 38 years of age.
 Consequently, no dosage adjustment appears to be necessary in elderly subjects based solely on their age.
 
-Effect of Gender
+### Effect of Gender
 
 Gender has no effect on the pharmacokinetics of lorazepam.
 
-Effect of Race
+### Effect of Race
 
 Young Americans (n=15) and Japanese subjects (n=7) had very comparable mean total clearance value of 1.0 mL/min/kg.
 However, elderly Japanese subjects had a 20% lower mean total clearance than elderly Americans, 0.59 mL/min/kg vs 0.77 mL/min/kg, respectively.
 
-Patients with Renal Insufficiency
+### Patients with Renal Insufficiency
 
 Because the kidney is the primary route of elimination of lorazepam-glucuronide, renal impairment would be expected to compromise its clearance.
 This should have no direct effect on the glucuronidation (and inactivation) of lorazepam.
@@ -112,15 +111,15 @@ About 8% of the administered intravenous dose was removed as intact lorazepam du
 
 The kinetics of lorazepam-glucuronide were markedly affected by renal dysfunction.
 The mean terminal half-life was prolonged by 55% and 125% in renally impaired patients and patients under hemodialysis, respectively, as compared to normal subjects.
-The mean metabolic clearance decreased by 75% and 90% in renally impaired patients and patients under hemodialysis, respectively, as compared to normal subjects.
+The mean metabolic clearance decreased by 75% and 90% in renally impaired patients and patients under hemodialysis, respectively, as compared with normal subjects.
 About 40% of the administered lorazepam intravenous dose was removed as glucuronide conjugate during the 6-hour dialysis session.
 
-Hepatic Disease
+### Hepatic Disease
 
 Because cytochrome oxidation is not involved with the metabolism of lorazepam, liver disease would not be expected to have an effect on metabolic clearance.
 This prediction is supported by the observation that following a single 2 mg intravenous dose of lorazepam, cirrhotic male patients (n=13) and normal male subjects (n=11) exhibited no substantive difference in their ability to clear lorazepam.
 
-Effect of Smoking
+### Effect of Smoking
 
 Administration of a single 2 mg intravenous dose of lorazepam showed that there was no difference in any of the pharmacokinetic parameters of lorazepam between cigarette smokers (n=10, mean=31 cigarettes per day) and nonsmoking subjects (n=10) who were matched for age, weight, and gender.
 
