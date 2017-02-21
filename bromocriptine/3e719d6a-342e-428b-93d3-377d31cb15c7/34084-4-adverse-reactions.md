@@ -4,22 +4,22 @@
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates reported in one clinical trial may not be easily compared to those rates reported in another clinical trial, and may not reflect the rates actually observed in clinical practice.
 
-In the pooled CYCLOSET phase 3 clinical trials (CYCLOSET N=2,298; placebo N=1,266), adverse events leading to discontinuation occurred in 539 (24%) CYCLOSET-treated patients and 118 (9%) placebo-treated patients.
+In the pooled CYCLOSET Phase 3 clinical trials (CYCLOSET N = 2,298; placebo N = 1,266), adverse events leading to discontinuation occurred in 539 (24%) CYCLOSET-treated patients and 118 (9%) placebo-treated patients.
 This between-group difference was driven mostly by gastrointestinal adverse events, particularly nausea.
 
-The CYCLOSET safety trial was a 52-week, placebo-controlled study that included patients treated only with diet therapy or with other anti-diabetic medications.
+The CYCLOSET safety trial was a 52-week, placebo-controlled study that included patients treated only with diet therapy or with other antidiabetic medications.
 A total of 3,070 patients were randomized to CYCLOSET (titrated to 1.6 to 4.8 mg daily, as tolerated) or placebo.
 The study population had a mean baseline age of 60 years (range 27-80) and 33% were 65 years of age or older.
 Approximately 43% of the patients were female, 68% were Caucasian, 17% were Black, 13% were Hispanic, and 1% were Asian.
 The mean baseline body mass index was 32 kg/m2.
 The mean duration of diabetes at baseline was 8 years and the mean baseline HbA1c was 7.0% with a mean baseline fasting plasma glucose of 142 mg/dL.
-At baseline, 12% of patients were treated with diet only, 40% were treated with one oral anti-diabetic agent, 33% were treated with two oral anti-diabetic agents, and 16% were treated with insulin alone or insulin in combination with an oral anti-diabetic agent.
+At baseline, 12% of patients were treated with diet only, 40% were treated with one oral antidiabetic agent, 33% were treated with two oral antidiabetic agents, and 16% were treated with insulin alone or insulin in combination with an oral antidiabetic agent.
 At baseline, 76% of patients reported a history of hypercholesterolemia, 75% reported a history of hypertension, 11% reported a history of revascularization surgery, 10% reported a history of myocardial infarction, 10% reported a history of angina, and 5% reported a history of stroke.
 Forty-seven percent of the CYCLOSET-treated patients and 32% of the placebo-treated patients prematurely discontinued treatment.
 Adverse events leading to discontinuation of study drug occurred among 24% of the CYCLOSET-treated patients and 15% of the placebo-treated patients.
 This between-group difference was driven mostly by gastrointestinal adverse events, particularly nausea.
 
-Table 1 summarizes the adverse events reported in ≥5% of patients treated with CYCLOSET in the phase 3 clinical trials regardless of investigator assessment of causality.
+Table 1 summarizes the adverse events reported in ≥5% of patients treated with CYCLOSET in the Phase 3 clinical trials regardless of investigator assessment of causality.
 The most commonly reported adverse events (nausea, fatigue, vomiting, headache, dizziness) lasted a median of 14 days and were more likely to occur during the initial titration of CYCLOSET.
 None of the reports of nausea or vomiting were described as serious.
 There were no differences in the pattern of common adverse events across race groups or age groups (<65 years old vs. >65 years old).
@@ -59,7 +59,7 @@ Table 1: Adverse Events Reported in Phase 3 Clinical Trials of CYCLOSET (≥5% o
 | Vomiting | 13 (5.3) | 8 (3.2) |
 | Amblyopia | 13 (5.3) | 6 (2.4) |
 | 52-Week Safety Trial‡ |  |  |
-| N=3070 | N = 2054 | N = 1016 |
+| N = 3070 | N = 2054 | N = 1016 |
 | Nausea | 661 (32.2) | 77 (7.6) |
 | Dizziness | 303 (14.8) | 93 (9.2) |
 | Fatigue | 285 (13.9) | 68 (6.7) |
@@ -68,7 +68,7 @@ Table 1: Adverse Events Reported in Phase 3 Clinical Trials of CYCLOSET (≥5% o
 | Diarrhea | 167 (8.1) | 81 (8.0) |
 | Constipation | 119 (5.8) | 52 (5.1) |
 | †All randomized subjects receiving at least one dose of study drug |  |  |
-| ‡ The Safety Trial enrolled patients treated with diet or no more than 2 anti-diabetic medications (metformin, insulin secretagogues such as a sulfonylurea, thiazolidinediones, alpha glucosidase inhibitors, and/or insulin) |  |  |
+| ‡ The Safety Trial enrolled patients treated with diet or no more than 2 antidiabetic medications (metformin, insulin secretagogues such as a sulfonylurea, thiazolidinediones, alpha glucosidase inhibitors, and/or insulin). |  |  |
 
 Hypoglycemia
 
@@ -81,14 +81,14 @@ In this trial, severe hypoglycemia was reported among 0.5% of CYCLOSET-treated p
 
 Syncope
 
-In combined phase 2 and 3 clinical trials, syncope was reported in 1.4% of the 2,500 CYCLOSET-treated patients and 0.6% of the 1,454 placebo-treated patients.
+In combined Phase 2 and 3 clinical trials, syncope was reported in 1.4% of the 2,500 CYCLOSET-treated patients and 0.6% of the 1,454 placebo-treated patients.
 Among the 3,070 patients studied in the 52-week safety trial, 33 CYCLOSET-treated patients (1.6%) and 7 placebo-treated patients (0.7%) reported an adverse event of syncope.
 The cause of syncope is not known in all cases [see Warnings and Precautions (5.1)].
 In this trial, electrocardiograms were not available at the time of these events, but an assessment of routine electrocardiograms obtained during the course of the trial did not identify arrhythmias or QTc interval prolongation among the CYCLOSET-treated patients reporting syncope.
 
 Central Nervous System
 
-In the 52-week safety trial, somnolence and hypoesthesia were the only adverse events within the nervous system organ class that were reported at a rate of <5% and ≥1% and that occurred at a numerically greater frequency among CYCLOSET-treated patients (CYCLOSET 4.3% vs. Placebo 1.3% for somnolence; CYCLOSET 1.4% vs. Placebo 1.1% for hypoesthesia).
+In the 52-week safety trial, somnolence and hypoesthesia were the only adverse events within the nervous system organ class that were reported at a rate of <5% and ≥1% and that occurred at a numerically greater frequency among CYCLOSET-treated patients (CYCLOSET 4.3% vs. placebo 1.3% for somnolence; CYCLOSET 1.4% vs. placebo 1.1% for hypoesthesia).
 
 Serious Adverse Events and Cardiovascular Safety
 
@@ -112,7 +112,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Hallucinations
 
 Hallucinations and mental confusion including delusions have been reported with bromocriptine.
-To date, there have been no reported cases of hallucinations or delusions among CYCLOSET-treated patients (n= 2500) in combined Phase 2 and 3 clinical trials of CYCLOSET.
+To date, there have been no reported cases of hallucinations or delusions among CYCLOSET-treated patients (n = 2500) in combined Phase 2 and 3 clinical trials of CYCLOSET.
 
 Fibrotic-Related Complications
 
@@ -120,7 +120,7 @@ Fibrotic complications, including cases of retroperitoneal fibrosis, pulmonary f
 These complications do not always resolve when bromocriptine is discontinued.
 Among several studies investigating a possible relation between bromocriptine exposure and cardiac valvulopathy, some events of cardiac valvulopathy have been reported, but no definitive association between bromocriptine mesylate use and clinically significant (moderate to severe) cardiac valvulopathy could be concluded.
 
-To date, there have been no reported cases of retroperitoneal fibrosis, pulmonary infiltrates, pleural effusion, pleural thickening, pericarditis or pericardial effusions among the CYCLOSET–treated patients (n=2500) in combined Phase 2 and 3 controlled clinical trials of CYCLOSET.
+To date, there have been no reported cases of retroperitoneal fibrosis, pulmonary infiltrates, pleural effusion, pleural thickening, pericarditis or pericardial effusions among the CYCLOSET–treated patients (n = 2500) in combined Phase 2 and 3 controlled clinical trials of CYCLOSET.
 There was one unconfirmed case (0.04% event rate) of an adverse event of pulmonary fibrosis classified as non-serious in a CYCLOSET-treated patient.
 
 No cases of cardiac valvulopathy have been reported in any of the clinical studies to date with CYCLOSET.
@@ -129,7 +129,7 @@ Psychotic and Psychiatric Disorders
 
 Psychotic disorders have been reported with bromocriptine.
 Additionally, pathological gambling has been reported with bromocriptine used to treat patients with Parkinson's disease.
-To date, there have been no reported cases of psychoses or pathological gambling among the CYCLOSET-treated patients (N=2500) in combined Phase 2 and 3 controlled clinical trials of CYCLOSET.
+To date, there have been no reported cases of psychoses or pathological gambling among the CYCLOSET-treated patients (N = 2500) in combined Phase 2 and 3 controlled clinical trials of CYCLOSET.
 
 Stroke
 
@@ -137,8 +137,8 @@ The indication for use of bromocriptine for inhibition of postpartum lactation w
 Causality of bromocriptine use and the occurrence of stroke in this patient population has not been proven.
 Based on the CYCLOSET clinical trials, there is no evidence of increased risk for stroke when CYCLOSET is used to treat type 2 diabetes.
 
-Neuroleptic-like malignant syndrome
+Neuroleptic-Like Malignant Syndrome
 
 A neuroleptic-like malignant syndrome (manifested by high fever and increase in creatinine phosphokinase) has been reported upon cessation of bromocriptine treatment in patients with advanced Parkinson's disease or patients with secondary Parkinsonism.
-To date, there have been no reported cases of neuroleptic-like malignant syndrome in combined Phase 2 and 3 controlled clinical trials of CYCLOSET, including the Safety Trial (N=2500).
+To date, there have been no reported cases of neuroleptic-like malignant syndrome in combined Phase 2 and 3 controlled clinical trials of CYCLOSET, including the Safety Trial (N = 2500).
 In the CYCLOSET Safety Trial, there were no reports of neuroleptic-like malignant syndrome during the 30 days of follow-up after cessation of CYCLOSET (N = 2054).

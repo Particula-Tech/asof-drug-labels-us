@@ -27,12 +27,12 @@ Of these 1,276 pregnancies, there were 1,088 full-term deliveries (4 stillborn),
 Twelve extrauterine gravidities and 3 hydatidiform moles (twice in the same patient) caused early termination of pregnancy.
 These data compare favorably with the abortion rate (11-25%) cited for pregnancies induced by clomiphene citrate, menopausal gonadotropin, and chorionic gonadotropin.
 Although spontaneous abortions often go unreported, especially prior to 20 weeks of gestation, their frequency has been estimated to be 10-15% in the general population.
-The incidence of birth defects in the general population ranges from 2% to 4.5%.
+The incidence of birth defects in the general population ranges from 2-4.5%.
 The incidence of birth defects in 1,109 live births from patients receiving bromocriptine was 3.3%.
 There is no suggestion that bromocriptine contributed to the type or incidence of birth defects in this group of infants.
 
 A review of 4 different multicenter surveillance programs analyzed 2,351 pregnancies of 2,185 women treated with bromocriptine.
-In 583 children born of these women and followed for a minimum of 3-12 months, there was no suggestion of any adverse effect of intra-uterine exposure to bromocriptine on post-natal development.
+In 583 children born of these women and followed for a minimum of 3-12 months, there was no suggestion of any adverse effect of intra-uterine exposure to bromocriptine on postnatal development.
 Most (≥75%) women had taken bromocriptine for 2-8 weeks and at 5-10 mg per day.
 Among 86 women having 93 pregnancies and treated with bromocriptine throughout pregnancy or from week 30 of pregnancy onwards (mostly for treatment of prolactinoma), there was only 1 spontaneous abortion.
 Similar results have been obtained in a Japanese hospital survey of 442 children born to 434 patients treated with bromocriptine during pregnancy and followed for at least one year.
@@ -43,7 +43,7 @@ Because the studies in humans cannot rule out the possibility of harm, CYCLOSET 
 
 CYCLOSET is contraindicated in women who are nursing their children.
 CYCLOSET contains bromocriptine which inhibits lactation.
-The indication for use of bromocriptine for inhibition of postpartum lactation was withdrawn based on postmarketing reports of stroke in this setting [see Contraindications (4) and Adverse Reactions (6.2)].
+The indication for use of bromocriptine for inhibition of postpartum lactation was withdrawn based on postmarketing reports of stroke in this setting [see Contraindications (4), Adverse Reactions (6.2)].
 
 ## 8.4 Pediatric Use
 
@@ -54,4 +54,4 @@ The safety and effectiveness of CYCLOSET in pediatric patients have not been est
 In the two clinical trials of CYCLOSET add-on to sulfonylurea therapy and in the monotherapy trial, a total of 54 patients randomized to CYCLOSET were ≥65 years old.
 In the 52-week safety trial, 601 of the 2,054 CYCLOSET-treated patients (29%) were ≥65 years old.
 No overall differences in safety or effectiveness were observed between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-[See Clinical Studies (14)].
+[See Clinical Studies (14).]

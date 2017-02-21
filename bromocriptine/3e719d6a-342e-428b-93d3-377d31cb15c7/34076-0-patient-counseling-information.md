@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[see FDA-Approved Patient Labeling]
-
-## 17.1 Instructions
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Patients should be informed of the potential risks and benefits of CYCLOSET and of alternative therapies.
 Patients should also be informed about the importance of adherence to dietary instructions, regular physical activity, periodic blood glucose monitoring and HbA1c testing, recognition and management of hypoglycemia and hyperglycemia, and assessment for diabetes complications.

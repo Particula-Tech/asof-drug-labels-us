@@ -12,9 +12,9 @@ Postprandial Glucose and Insulin Response to a Meal
 Patients with type 2 diabetes and inadequate glycemic control on diet alone were randomized to CYCLOSET or placebo in a 24-week monotherapy clinical trial.
 At baseline and study end, plasma samples for insulin and glucose were obtained before and 1 hour, and 2 hours after standardized meals for breakfast, lunch, and dinner.
 In this trial, once-daily (8 a.m.)
-CYCLOSET improved post-prandial glucose without increasing plasma insulin concentrations.
+CYCLOSET improved postprandial glucose without increasing plasma insulin concentrations.
 
-Insulin-mediated glucose disposal
+Insulin-Mediated Glucose Disposal
 
 Patients with type 2 diabetes and inadequate glycemic control on sulfonylurea therapy were randomized to CYCLOSET or placebo in a 16-week clinical trial.
 In this trial CYCLOSET therapy improved insulin-mediated glucose disposal and glucose tolerance and resulted in lower plasma glucose and HbA1c levels.
