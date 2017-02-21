@@ -123,7 +123,7 @@ The information available does not identify any particular opioids as being more
   There is an increased risk in patients whose ability to maintain normal blood pressure is compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) [see Drug Interactions (7)].
   Monitor these patients for signs of hypotension after initiating or titrating the dosage of DISKETS Dispersible Tablets.
   In patients with circulatory shock, DISKETS may cause vasodilation that can further reduce cardiac output and blood pressure.
-  Avoid the use of DISKETS is patients with circulatory shock.
+  Avoid the use of DISKETS in patients with circulatory shock.
 
 ## 5.12 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 

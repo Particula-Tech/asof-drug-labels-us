@@ -53,4 +53,6 @@ Serotonin Syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 
 Adrenal Insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in DISKETS.
+
 Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
