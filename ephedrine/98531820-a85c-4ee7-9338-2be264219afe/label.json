@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208943"
+  ],
+  "inn": "ephedrine",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "42023-196-01",
+    "42023-196-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ephedrine sulfate",
+      "name": "Corphedra"
+    }
+  ],
+  "setid": "98531820-a85c-4ee7-9338-2be264219afe",
+  "source": "dailymed"
+}
