@@ -23,7 +23,7 @@ SUBOXONE sublingual film should be used with caution in patients with compromise
 ## 5.3 CNS Depression
 
 Patients receiving buprenorphine in the presence of opioid analgesics, general anesthetics, benzodiazepines, phenothiazines, other tranquilizers, sedative/hypnotics, or other CNS depressants (including alcohol) may exhibit increased CNS depression.
-Consider dose reduction of CNS depressants, SUBOXONE sublingual film, or both in situations of concomitant prescribing [see Drug Interactions (7)].
+Consider dose reduction of CNS depressants, SUBOXONE sublingual film, or both in situations of concomitant prescription.[see Drug Interactions (7)].
 
 ## 5.4 Unintentional Pediatric Exposure
 
@@ -36,7 +36,7 @@ Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome 
 Unlike opioid withdrawal syndrome in adults, NOWS may be life-threatening if not recognized and treated in the neonate.
 Healthcare professionals should observe newborns for signs of NOWS and manage accordingly [see Specific Populations (8.1)].
 
-Advise pregnant women receiving opioid addiction treatment with SUBOXONE of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Specific Populations (8.1)].
+Advise pregnant women receiving opioid addiction treatment with SUBOXONE sublingual film of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1)].
 This risk must be balanced against the risk of untreated opioid addiction which often results in continued or relapsing illicit opioid use and is associated with poor pregnancy outcomes.
 Therefore, prescribers should discuss the importance and benefits of management of opioid addiction throughout pregnancy.
 

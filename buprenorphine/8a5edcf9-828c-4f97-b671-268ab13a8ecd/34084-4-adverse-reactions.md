@@ -4,23 +4,23 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of SUBOXONE sublingual film is supported by clinical trials using SUBUTEX (buprenorphine) sublingual tablets and SUBOXONE (buprenorphine and naloxone) sublingual tablets, and other trials using buprenorphine sublingual solutions, as well as an open-label study in 194 patients treated with SUBOXONE sublingual film administered sublingually and 188 patients treated with the film administered buccally.
+The safety of SUBOXONE sublingual film is supported by clinical trials using SUBUTEX® (buprenorphine) sublingual tablets and SUBOXONE (buprenorphine and naloxone) sublingual tablets, and other trials using buprenorphine sublingual solutions, as well as an open-label study in 194 patients treated with SUBOXONE sublingual film administered sublingually and 188 patients treated with the film administered buccally.
 In total, safety data from clinical studies are available from over 3000 opioid-dependent subjects exposed to buprenorphine at doses in the range used in the treatment of opioid dependence.
-Few differences in the adverse event profile were noted with regard to sublingually and bucally administered SUBOXONE sublingual film, SUBOXONE (buprenorphine and naloxone) sublingual tablets, SUBUTEX (buprenorphine) sublingual tablets and a buprenorphine ethanolic sublingual solution.
+Few differences in the adverse event profile were noted with regard to sublingually and bucally administered SUBOXONE sublingual film, SUBOXONE sublingual tablets, SUBUTEX sublingual tablets and a buprenorphine ethanolic sublingual solution.
 
 The most common adverse event (>1%) associated with the sublingual administration of the SUBOXONE sublingual film was oral hypoesthesia.
 Other adverse events were constipation, glossodynia, oral mucosal erythema, vomiting, intoxication, disturbance in attention, palpitations, insomnia, withdrawal syndrome, hyperhidrosis, and blurred vision.
 
 The most common adverse events associated with the buccal administration were similar to those observed with sublingual administration of the film.
 
-Other adverse event data were derived from larger, controlled studies of SUBOXONE (buprenorphine and naloxone) sublingual tablets and SUBUTEX (buprenorphine) tablets and of buprenorphine sublingual solution.
-In a comparative study of SUBOXONE (buprenorphine and naloxone) sublingual tablets and SUBUTEX (buprenorphine) sublingual tablets, adverse event profiles were similar for subjects treated with 16 mg/4 mg SUBOXONE (buprenorphine and naloxone) sublingual tablets or 16 mg SUBUTEX (buprenorphine) sublingual tablets.
-The following adverse events were reported to occur by at least 5% of patients in a 4 week study of SUBOXONE (buprenorphine and naloxone) sublingual tablets and SUBUTEX (buprenorphine) sublingual tablets.
+Other adverse event data were derived from larger, controlled studies of SUBOXONE sublingual tablets and SUBUTEX sublingual tablets and of buprenorphine sublingual solution.
+In a comparative study of SUBOXONE sublingual tablets and SUBUTEX sublingual tablets, adverse event profiles were similar for subjects treated with 16 mg/4 mg SUBOXONE sublingual tablets or 16 mg SUBUTEX sublingual tablets.
+The following adverse events were reported to occur by at least 5% of patients in a 4 week study of SUBOXONE sublingual tablets and SUBUTEX sublingual tablets.
 
 Table 2.
 Adverse Events (≥ 5%) by Body System and Treatment Group in a 4 Week Study
 
-| Body System/ Adverse Event (COSTART Terminology) | SUBOXONE (buprenorphine and naloxone) sublingual tablets 16 mg/4 mg/day N=107 n (%) | SUBUTEX (buprenorphine) sublingual tablets 16 mg/day N=103 n (%) | Placebo N=107 n (%) |
+| Body System/ Adverse Event (COSTART Terminology) | SUBOXONE sublingual tablets 16 mg/4 mg/day N=107 n (%) | SUBUTEX sublingual tablets 16 mg/day N=103 n (%) | Placebo N=107 n (%) |
 | --- | --- | --- | --- |
 | Body as a Whole |  |  |  |
 | Asthenia | 7 (6.5%) | 5 (4.9%) | 7 (6.5%) |
@@ -110,6 +110,6 @@ Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 
 Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Anaphylaxis: Anaphylaxis has been reported with ingredients contained in SUBOXONE.
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in SUBOXONE sublingual film.
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

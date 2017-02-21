@@ -4,7 +4,7 @@
 
 SUBOXONE sublingual film contains buprenorphine and naloxone.
 Buprenorphine is a partial agonist at the mu-opioid receptor and an antagonist at the kappa-opioid receptor.
-Naloxone is an opioid antagonist and produces opioid withdrawal signs and symptoms in individuals physically dependent on full opioid agonists when administered parenterally.
+Naloxone is a potent antagonist at mu opioid receptors and produces opioid withdrawal signs and symptoms in individuals physically dependent on full opioid agonists when administered parenterally.
 
 ## 12.2 Pharmacodynamics
 
@@ -36,6 +36,9 @@ The respiratory effects of sublingual buprenorphine were compared with the effec
 In this study, hypoventilation not requiring medical intervention was reported more frequently after buprenorphine doses of 4 mg and higher than after methadone.
 Both drugs decreased O2 saturation to the same degree.
 
+Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
+
 Effect of Naloxone
 
 Physiologic and subjective effects following acute sublingual administration of buprenorphine tablets and buprenorphine/naloxone tablets were similar at equivalent dose levels of buprenorphine.
@@ -59,7 +62,7 @@ Absorption
 In several pharmacokinetic studies following the administration of different dosages, a dose of one or two of the 2 mg/0.5 mg SUBOXONE sublingual films administered sublingually or buccally showed comparable relative bioavailability to the same total dose of SUBOXONE sublingual tablets.
 In contrast, one 8 mg/2 mg and one 12 mg/3 mg SUBOXONE sublingual films administered sublingually or buccally showed higher relative bioavailability for both buprenorphine and naloxone compared to the same total dose of SUBOXONE sublingual tablets.
 A combination of one 8 mg/2 mg and two 2 mg/0.5 mg SUBOXONE sublingual films (total dose of 12 mg/ 3 mg) administered sublingually showed comparable relative bioavailability to the same total dose of SUBOXONE sublingual tablets, while buccally administered SUBOXONE sublingual films showed higher relative bioavailability.
-Table 5, below, illustrates the relative increase in exposure to buprenorphine and naloxone associated with SUBOXONE sublingual films compared to SUBOXONE tablets, and shows the effect of route of administration [see Dosage and Administration (2.8 and 2.9)].
+Table 5, below, illustrates the relative increase in exposure to buprenorphine and naloxone associated with SUBOXONE sublingual films compared to SUBOXONE sublingual tablets, and shows the effect of route of administration [see Dosage and Administration (2.8 and 2.9)].
 
 Across relevant pharmacokinetic studies, the pharmacokinetic parameters and exposures derived from the buccal and sublingual administrations of SUBOXONE sublingual film were comparable to one another.
 
@@ -125,7 +128,7 @@ Specific Populations
 
 Hepatic Impairment
 
-In a pharmacokinetic study, the disposition of buprenorphine and naloxone were determined after administering a SUBOXONE 2.0/0.5 mg (Buprenorphine/Naloxone) sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
+In a pharmacokinetic study, the disposition of buprenorphine and naloxone were determined after administering a 2.0/0.5 mg SUBOXONE sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
 The disposition of buprenorphine and naloxone in patients with hepatic impairment were compared to disposition in subjects with normal hepatic function.
 
 In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of both buprenorphine and naloxone were not clinically significant.

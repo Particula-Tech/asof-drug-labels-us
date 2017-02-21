@@ -94,7 +94,7 @@ Because the doses of this fixed combination product cannot be individually titra
 
 ## 2.6 Unstable Patients
 
-healthcare providers will need to decide when they cannot appropriately provide further management for particular patients.
+Healthcare providers will need to decide when they cannot appropriately provide further management for particular patients.
 For example, some patients may be abusing or dependent on various drugs, or unresponsive to psychosocial intervention such that the healthcare provider does not feel that he/she has the expertise to manage the patient.
 In such cases, the healthcare provider may want to assess whether to refer the patient to a specialist or more intensive behavioral treatment environment.
 Decisions should be based on a treatment plan established and agreed upon with the patient at the beginning of treatment.
@@ -110,7 +110,7 @@ Taper patients to avoid opioid withdrawal signs and symptoms.
 
 Patients being switched between buprenorphine and naloxone or buprenorphine only sublingual tablets and SUBOXONE sublingual film should be started on the corresponding dosage of the previously administered product.
 However, dosage adjustments may be necessary when switching between buprenorphine products.
-Not all strengths and combinations of the SUBOXONE sublingual films are bioequivalent to the SUBOXONE (buprenorphine and naloxone) sublingual tablets as observed in pharmacokinetic studies [see Clinical Pharmacology (12.3)].
+Not all strengths and combinations of the SUBOXONE sublingual films are bioequivalent to the SUBOXONE® (buprenorphine and naloxone) sublingual tablets as observed in pharmacokinetic studies [see Clinical Pharmacology (12.3)].
 Therefore, systemic exposures of buprenorphine and naloxone may be different when patients are switched from tablets to film or vice-versa.
 Patients should be monitored for symptoms related to over-dosing or under-dosing.
 
