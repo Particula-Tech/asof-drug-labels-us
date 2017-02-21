@@ -44,7 +44,7 @@ Renal clearance (see Table 1) is approximately 3.5 times greater than creatinine
 Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
 In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
-## Special Populations
+## Specific Populations
 
 ### Patients with Type 2 Diabetes
 
@@ -52,19 +52,20 @@ In the presence of normal renal function, there are no differences between singl
 
 The pharmacokinetics of GLUCOPHAGE XR in patients with type 2 diabetes are comparable to those in healthy normal adults.
 
-### Renal Insufficiency
+### Renal Impairment
 
-In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance (see Table 1; also see WARNINGS).
+In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased (see Table 1; also see CONTRAINDICATIONS, WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 
-### Hepatic Insufficiency
+### Hepatic Impairment
 
-No pharmacokinetic studies of metformin have been conducted in patients with hepatic insufficiency.
+No pharmacokinetic studies of metformin have been conducted in patients with hepatic insufficiency (see PRECAUTIONS).
 
-### Geriatrics
+### Table 1
+
+Geriatrics
 
 Limited data from controlled pharmacokinetic studies of GLUCOPHAGE in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
-From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see Table 1).
-GLUCOPHAGE Tablets and GLUCOPHAGE XR Extended-Release Tablets treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced (see WARNINGS and DOSAGE AND ADMINISTRATION).
+From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see Table 1; also see WARNINGS,PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 Table 1: Select Mean (±S.D.)
 Metformin Pharmacokinetic Parameters Following Single or Multiple Oral Doses of GLUCOPHAGE

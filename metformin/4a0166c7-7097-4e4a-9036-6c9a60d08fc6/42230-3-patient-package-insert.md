@@ -1,4 +1,4 @@
-Patient Information
+# Patient Information
 
 GLUCOPHAGE® (metformin hydrochloride) Tablets and GLUCOPHAGE® XR (metformin hydrochloride) Extended-Release Tablets
 
@@ -29,30 +29,6 @@ These include helping your body respond better to the insulin it makes naturally
 GLUCOPHAGE and GLUCOPHAGE XR do not cause your body to make more insulin.
 Because of this, when taken alone, they rarely cause hypoglycemia (low blood sugar), and usually do not cause weight gain.
 However, when they are taken with a sulfonylurea or with insulin, hypoglycemia is more likely to occur, as is weight gain.
-
-WARNING: A small number of people who have taken GLUCOPHAGE have developed a serious condition called lactic acidosis.
-Lactic acidosis is caused by a buildup of lactic acid in the blood.
-This happens more often in people with kidney problems.
-Most people with kidney problems should not take GLUCOPHAGE or GLUCOPHAGE XR.
-(See "What are the side effects of GLUCOPHAGE and GLUCOPHAGE XR?")
-
-Who should not take GLUCOPHAGE or GLUCOPHAGE XR?
-
-Some conditions increase your chance of getting lactic acidosis, or cause other problems if you take either of these medicines.
-Most of the conditions listed below can increase your chance of getting lactic acidosis.
-
-Do not take GLUCOPHAGE or GLUCOPHAGE XR if you:
-
-- •have kidney problems
-- •have liver problems
-- •have heart failure that is treated with medicines, such as Lanoxin® (digoxin) or Lasix® (furosemide)
-- •drink a lot of alcohol.
-  This means you binge drink for short periods or drink all the time
-- •are seriously dehydrated (have lost a lot of water from your body)
-- •are going to have an x-ray procedure with injection of dyes (contrast agents)
-- •are going to have surgery
-- •develop a serious condition, such as heart attack, severe infection, or a stroke
-- •are 80 years or older and you have NOT had your kidney function tested
 
 Tell your doctor if you are pregnant or plan to become pregnant.
 GLUCOPHAGE and GLUCOPHAGE XR may not be right for you.
@@ -85,14 +61,12 @@ There is no evidence that GLUCOPHAGE or GLUCOPHAGE XR causes harm to the liver o
 
 Tell your doctor if you:
 
-- •have an illness that causes severe vomiting, diarrhea or fever, or if you drink a much lower amount of liquid than normal.
-  These conditions can lead to severe dehydration (loss of water in your body).
-  You may need to stop taking GLUCOPHAGE or GLUCOPHAGE XR for a short time.
-- •plan to have surgery or an x-ray procedure with injection of dye (contrast agent).
-  You may need to stop taking GLUCOPHAGE or GLUCOPHAGE XR for a short time.
-- •start to take other medicines or change how you take a medicine.
-  GLUCOPHAGE and GLUCOPHAGE XR can affect how well other drugs work, and some drugs can affect how well GLUCOPHAGE and GLUCOPHAGE XR work.
-  Some medicines may cause high blood sugar.
+•have an illness that causes severe vomiting, diarrhea or fever, or if you drink a much lower amount of liquid than normal.
+These conditions can lead to severe dehydration (loss of water in your body).
+You may need to stop taking GLUCOPHAGE or GLUCOPHAGE XR for a short time.•plan to have surgery or an x-ray procedure with injection of dye (contrast agent).
+You may need to stop taking GLUCOPHAGE or GLUCOPHAGE XR for a short time.•start to take other medicines or change how you take a medicine.
+GLUCOPHAGE and GLUCOPHAGE XR can affect how well other drugs work, and some drugs can affect how well GLUCOPHAGE and GLUCOPHAGE XR work.
+Some medicines may cause high blood sugar.
 
 GLUCOPHAGE XR must be swallowed whole and never crushed or chewed.
 Occasionally, the inactive ingredients of GLUCOPHAGE XR may be eliminated as a soft mass in your stool that may look like the original tablet; this is not harmful and will not affect the way GLUCOPHAGE XR works to control your diabetes.
@@ -105,33 +79,23 @@ Alcohol can increase the chance of getting lactic acidosis.
 
 What are the side effects of GLUCOPHAGE and GLUCOPHAGE XR?
 
-Lactic Acidosis.
-In rare cases, GLUCOPHAGE and GLUCOPHAGE XR can cause a serious side effect called lactic acidosis.
-This is caused by a buildup of lactic acid in your blood.
-This buildup can cause serious damage.
-Lactic acidosis caused by GLUCOPHAGE and GLUCOPHAGE XR is rare and has occurred mostly in people whose kidneys were not working normally.
-Lactic acidosis has been reported in about one in 33,000 patients taking GLUCOPHAGE over the course of a year.
-Although rare, if lactic acidosis does occur, it can be fatal in up to half the people who develop it.
+•Lactic acidosis.
+Metformin, the active ingredient in GLUCOPHAGE and GLUCOPHAGE XR, can cause a rare but serious condition called lactic acidosis (a buildup of an acid in the blood) that can cause death.
+Lactic acidosis is a medical emergency and must be treated in the hospital.
 
-It is also important for your liver to be working normally when you take GLUCOPHAGE or GLUCOPHAGE XR.
-Your liver helps remove lactic acid from your blood.
+Call your doctor right away if you have any of the following symptoms, which could be signs of lactic acidosis:
 
-Make sure you tell your doctor before you use GLUCOPHAGE or GLUCOPHAGE XR if you have kidney or liver problems.
-You should also stop using GLUCOPHAGE or GLUCOPHAGE XR and call your doctor right away if you have signs of lactic acidosis.
-Lactic acidosis is a medical emergency that must be treated in a hospital.
+•you feel cold in your hands or feet•you feel dizzy or lightheaded•you have a slow or irregular heartbeat•you feel very weak or tired•you have unusual (not normal) muscle pain•you have trouble breathing•you feel sleepy or drowsy•you have stomach pains, nausea or vomiting
 
-Signs of lactic acidosis are:
+Most people who have had lactic acidosis with metformin have other things that, combined with the metformin, led to the lactic acidosis.
+Tell your doctor if you have any of the following, because you have a higher chance for getting lactic acidosis with GLUCOPHAGE or GLUCOPHAGE XR if you:
 
-- •feeling very weak, tired, or uncomfortable
-- •unusual muscle pain
-- •trouble breathing
-- •unusual or unexpected stomach discomfort
-- •feeling cold
-- •feeling dizzy or lightheaded
-- •suddenly developing a slow or irregular heartbeat
+•have severe kidney problems, or your kidneys are affected by certain x-ray tests that use injectable dye•have liver problems•drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking•get dehydrated (lose a large amount of body fluids).
+This can happen if you are sick with a fever, vomiting, or diarrhea.
+Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids•have surgery•have a heart attack, severe infection, or stroke
 
-If your medical condition suddenly changes, stop taking GLUCOPHAGE or GLUCOPHAGE XR and call your doctor right away.
-This may be a sign of lactic acidosis or another serious side effect.
+The best way to keep from having a problem with lactic acidosis from metformin is to tell your doctor if you have any of the problems in the list above.
+Your doctor may decide to stop your GLUCOPHAGE or GLUCOPHAGE XR for a while if you have any of these things.
 
 Other Side Effects.
 Common side effects of GLUCOPHAGE and GLUCOPHAGE XR include diarrhea, nausea, and upset stomach.
@@ -157,4 +121,4 @@ Do not share your medicine with other people.
 GLUCOPHAGE® is a registered trademark of Merck Santé S.A.S., an associate of Merck KGaA of Darmstadt, Germany.
 Licensed to Bristol-Myers Squibb Company.
 Other brands listed are the trademarks of their respective owners.
-Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA 1125493A9 Rev January 2009
+Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA [print code] Rev 2/2017

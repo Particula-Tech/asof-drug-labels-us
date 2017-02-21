@@ -36,7 +36,7 @@ Table 12: Most Common Adverse Reactions (>5.0 Percent) in Placebo-Controlled Stu
 Diarrhea led to discontinuation of study medication in 0.6% of patients treated with GLUCOPHAGE XR.
 Additionally, the following adverse reactions were reported in ≥1.0% to ≤5.0% of GLUCOPHAGE XR patients and were more commonly reported with GLUCOPHAGE XR than placebo: abdominal pain, constipation, distention abdomen, dyspepsia/heartburn, flatulence, dizziness, headache, upper respiratory infection, taste disturbance.
 
-Liver function test abnormalities or hepatitis, resolving upon metformin discontinuation, have been reported very rarely.
+Cholestatic, hepatocellular, and mixed hepatocellular liver injury have been reported with postmarketing use of metformin.
 
 ## Pediatric Patients
 

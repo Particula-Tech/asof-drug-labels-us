@@ -23,35 +23,45 @@ Occasionally, the inactive ingredients of GLUCOPHAGE XR will be eliminated in th
 
 ### Adults
 
-In general, clinically significant responses are not seen at doses below 1500 mg per day.
-However, a lower recommended starting dose and gradually increased dosage is advised to minimize gastrointestinal symptoms.
-
 The usual starting dose of GLUCOPHAGE Tablets is 500 mg twice a day or 850 mg once a day, given with meals.
+In general, clinically significant responses are not seen at doses below 1500 mg per day.
 Dosage increases should be made in increments of 500 mg weekly or 850 mg every 2 weeks, up to a total of 2000 mg per day, given in divided doses.
+The dosage of GLUCOPHAGE must be individualized on the basis of both effectiveness and tolerability.
 Patients can also be titrated from 500 mg twice a day to 850 mg twice a day after 2 weeks.
 For those patients requiring additional glycemic control, GLUCOPHAGE may be given to a maximum daily dose of 2550 mg per day.
 Doses above 2000 mg may be better tolerated given 3 times a day with meals.
 
 The usual starting dose of GLUCOPHAGE XR (metformin hydrochloride) Extended-Release Tablets is 500 mg once daily with the evening meal.
+In general, clinically significant responses are not seen at doses below 1500 mg per day.
 Dosage increases should be made in increments of 500 mg weekly, up to a maximum of 2000 mg once daily with the evening meal.
+The dosage of GLUCOPHAGE XR must be individualized on the basis of both effectiveness and tolerability.
 If glycemic control is not achieved on GLUCOPHAGE XR 2000 mg once daily, a trial of GLUCOPHAGE XR 1000 mg twice daily should be considered.
 If higher doses of metformin are required, GLUCOPHAGE should be used at total daily doses up to 2550 mg administered in divided daily doses, as described above.
 (See CLINICAL PHARMACOLOGY: Clinical Studies.)
 
-In a randomized trial, patients currently treated with GLUCOPHAGE were switched to GLUCOPHAGE XR.
-Results of this trial suggest that patients receiving GLUCOPHAGE treatment may be safely switched to GLUCOPHAGE XR once daily at the same total daily dose, up to 2000 mg once daily.
+Patients receiving GLUCOPHAGE treatment may be safely switched to GLUCOPHAGE XR once daily at the same total daily dose, up to 2000 mg once daily.
 Following a switch from GLUCOPHAGE to GLUCOPHAGE XR, glycemic control should be closely monitored and dosage adjustments made accordingly (see CLINICAL PHARMACOLOGY: Clinical Studies).
 
 ### Pediatrics
 
 The usual starting dose of GLUCOPHAGE is 500 mg twice a day, given with meals.
 Dosage increases should be made in increments of 500 mg weekly up to a maximum of 2000 mg per day, given in divided doses.
+The dosage of GLUCOPHAGE must be individualized on the basis of both effectiveness and tolerability.
 Safety and effectiveness of GLUCOPHAGE XR in pediatric patients have not been established.
 
-## Transfer From Other Antidiabetic Therapy
+### Recommendations for Use in Renal Impairment
 
-When transferring patients from standard oral hypoglycemic agents other than chlorpropamide to GLUCOPHAGE or GLUCOPHAGE XR, no transition period generally is necessary.
-When transferring patients from chlorpropamide, care should be exercised during the first 2 weeks because of the prolonged retention of chlorpropamide in the body, leading to overlapping drug effects and possible hypoglycemia.
+Assess renal function prior to initiation of GLUCOPHAGE or GLUCOPHAGE XR and periodically thereafter.
+GLUCOPHAGE or GLUCOPHAGE XR is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m2.
+
+Initiation of GLUCOPHAGE or GLUCOPHAGE XR in patients with an eGFR between 30 – 45 mL/minute/1.73 m2 is not recommended.
+In patients taking GLUCOPHAGE or GLUCOPHAGE XR whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit risk of continuing therapy.
+Discontinue GLUCOPHAGE or GLUCOPHAGE XR if the patient’s eGFR later falls below 30 mL/minute/1.73 m2 (See WARNINGS and PRECAUTIONS).
+
+## Discontinuation for Iodinated Contrast Imaging Procedures
+
+Discontinue GLUCOPHAGE or GLUCOPHAGE XR at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Re-evaluate eGFR 48 hours after the imaging procedure; restart GLUCOPHAGE or GLUCOPHAGE XR if renal function is stable.
 
 ## Concomitant GLUCOPHAGE or GLUCOPHAGE XR and Oral Sulfonylurea Therapy in Adult Patients
 
@@ -84,7 +94,3 @@ GLUCOPHAGE XR is not recommended in pediatric patients (below the age of 17 year
 
 The initial and maintenance dosing of GLUCOPHAGE or GLUCOPHAGE XR should be conservative in patients with advanced age, due to the potential for decreased renal function in this population.
 Any dosage adjustment should be based on a careful assessment of renal function.
-Generally, elderly, debilitated, and malnourished patients should not be titrated to the maximum dose of GLUCOPHAGE or GLUCOPHAGE XR.
-
-Monitoring of renal function is necessary to aid in prevention of lactic acidosis, particularly in the elderly.
-(See WARNINGS.)
