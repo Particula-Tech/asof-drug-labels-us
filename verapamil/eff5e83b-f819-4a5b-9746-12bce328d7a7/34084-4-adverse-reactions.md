@@ -14,9 +14,7 @@ In rare cases of hypersensitivity, broncho/laryngeal spasm accompanied by itch a
 
 The following reactions were reported in a few patients: emotional depression, rotary nystagmus, sleepiness, vertigo, muscle fatigue, or diaphoresis.
 
-Suggested Treatment of Acute Cardiovascular Adverse Reactions*
-
-The frequency of these adverse reactions was quite low, and experience with their treatment has been limited.
+Suggested Treatment of Acute Cardiovascular Adverse Reactions* The frequency of these adverse reactions was quite low, and experience with their treatment has been limited.
 
 | AdverseReaction | Proven EffectiveTreatment | SupportiveTreatment |
 | --- | --- | --- |

@@ -4,8 +4,8 @@ VERAPAMIL SHOULD BE GIVEN AS A SLOW INTRAVENOUS INJECTION OVER AT LEAST A TWO-MI
 (See Dosage and Administration.)
 
 Hypotension: Intravenous Verapamil often produces a decrease in blood pressure below baseline levels that is usually transient and asymptomatic but may result in dizziness.
-Systolic pressure less than 90 mm Hg and/or diastolic pressure less than 60 mm Hg was seen in 5%-10% of patients in controlledU.S. trials in supraventricular tachycardia and in about 10% of the patients with atrial flutter/fibrillation.
-The incidence of symptomatic hypotension observed in studies conducted in theU.S. was approximately 1.5%.
+Systolic pressure less than 90 mm Hg and/or diastolic pressure less than 60 mm Hg was seen in 5%-10% of patients in controlled U.S. trials in supraventricular tachycardia and in about 10% of the patients with atrial flutter/fibrillation.
+The incidence of symptomatic hypotension observed in studies conducted in the U.S. was approximately 1.5%.
 Three of the five symptomatic patients required pharmacologic treatment (norepinephrine bitartrate IV, metaraminol bitartrate IV, or 10% calcium gluconate IV).
 All recovered without sequelae.
 
@@ -59,7 +59,7 @@ Caution should be taken and appropriate monitoring performed.
 
 # PRECAUTIONS
 
-Drug interactions: (SeeWarnings: Concomitant antiarrhythmic therapy.)
+Drug interactions: (See Warnings: Concomitant antiarrhythmic therapy.)
 Intravenous Verapamil has been used concomitantly with other cardioactive drugs (e.g., digitalis) without evidence of serious negative drug interactions.
 In rare instances, including when patients with severe cardiomyopathy, congestive heart failure, or recent myocardial infarction were given intravenous beta-adrenergic blocking agents or disopyramide concomitantly with intravenous Verapamil, serious adverse effects have occurred.
 Concomitant use of Verapamil with agents that decrease adrenergic function may result in an exaggerated hypotensive response.
@@ -87,7 +87,7 @@ Limit the dose of simvastatin in patients on Verapamil to 10 mg daily.
 Limit the daily dose of lovastatin to 40 mg.
 Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as Verapamil may increase the plasma concentration of these drugs.
 
-Ivabradine: Concurrent use of verapamil increases exposre to Ivabradine and may exacerbate bradycardia and conductions disturbances.
+Ivabradine: Concurrent use of verapamil increases exposure to Ivabradine and may exacerbate bradycardia and conductions disturbances.
 Avoid concomitant use of Ivabradine and verapamil.
 
 Pregnancy: Pregnancy Category C. Reproduction studies have been performed in rabbits and rats at oral Verapamil doses up to 1.5 (15 mg/kg/day) and 6 (60 mg/kg/day) times the human oral daily dose, respectively, and have revealed no evidence of teratogenicity.
