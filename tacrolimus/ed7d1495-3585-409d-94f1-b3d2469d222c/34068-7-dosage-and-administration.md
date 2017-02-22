@@ -7,9 +7,6 @@ The initial dose of tacrolimus should be administered no sooner than 6 hours aft
 In kidney transplant patients, the initial dose of tacrolimus may be administered within 24 hours of transplantation, but should be delayed until renal function has recovered.
 For blood concentration monitoring details see Dosage and Administration (2.6).
 
-Table 1.
-Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough Concentrations in Adults
-
 | Patient Population | Recommended Tacrolimus Initial Oral Dosage Note: daily doses should be administered as two divided doses, every 12 hours | Observed Tacrolimus Whole Blood Trough Concentrations |
 | --- | --- | --- |
 | Adult kidney transplant patients In combination with azathioprine | 0.2 mg/kg/day | month 1 - 3: 7 - 20 ng/mL month 4 - 12: 5 - 15 ng/mL |
@@ -22,9 +19,6 @@ Lower tacrolimus dosages than the recommended initial dosage may be sufficient a
 Adjunct therapy with adrenal corticosteroids is recommended early post-transplant.
 
 The data in kidney transplant patients indicate that the Black patients required a higher dose to attain comparable trough concentrations compared to Caucasian patients (Table 2).
-
-Table 2.
-Comparative Dose and Trough Concentrations Based on Race
 
 | Time After Transplant | Caucasian n=114 |  | Black n=56 |  |
 | --- | --- | --- | --- | --- |
@@ -54,9 +48,6 @@ Anaphylactic reactions have occurred with injectables containing castor oil deri
 The initial oral dosage recommendations for pediatric patients with liver transplants along with recommendations for whole blood trough concentrations are shown in Table 3.
 For blood concentration monitoring details see Dosage and Administration (2.6).
 If necessary, pediatric patients may start on an IV dose of 0.03 to 0.05 mg/kg/day.
-
-Table 3.
-Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough Concentrations in Children
 
 | Patient Population | Recommended Tacrolimus Initial Oral Dosage Note: daily doses should be administered as two divided doses, every 12 hours | Observed Tacrolimus Whole Blood Trough Concentrations |
 | --- | --- | --- |

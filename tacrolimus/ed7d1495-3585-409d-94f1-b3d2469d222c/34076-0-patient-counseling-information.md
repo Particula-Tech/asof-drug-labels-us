@@ -54,18 +54,16 @@ Inform patients that tacrolimus can interfere with the usual response to immuniz
 
 Rx only
 
-Manufactured By:
+Manufactured by:
 
-Strides Arcolab Limited
+Strides Shasun Limited
 
-Bangalore-560076, India
+Bengaluru - 560076, India
 
 Distributed by:
 
 Strides Pharma Inc.
 
-2 Tower Center Blvd.
+East Brunswick, NJ 08816
 
-Suite 1102, East Brunswick, NJ 08816
-
-Revised: 12/2015
+Revised: 09/2016

@@ -62,9 +62,12 @@ Especially tell your doctor if you take:
 - cyclosporine (Gengraf®, Neoral®, and Sandimune®)
 - sirolimus (Rapamune®)
 - nelfinavir (Viracept®)
-- telaprevir (IncivekTM)
-- boceprevir (VictrelisTM)
-- amiodarone (Cordarone™, Nexterone™, Pacerone™)
+
+telaprevir (IncivekTM)
+
+boceprevir (VictrelisTM)
+
+amiodarone (Cordarone™, Nexterone™, Pacerone™)
 
 Ask your doctor or pharmacist if you are not sure if you take any of the medicines listed above.
 
@@ -200,7 +203,7 @@ These are not all the possible side effects of Tacrolimus.
 For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to Strides Pharma Inc at 1-877-244-9825 or go to www.stridesarco.com or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+You may report side effects to Strides Pharma Inc at 1-877-244-9825 or go to www.stridesshasun.com or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
 
 How should I store tacrolimus capsules?
 
@@ -228,7 +231,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about tacrolimus that is written for health professionals.
 
-For more information call at 1-877-244-9825 or go to www.stridesarco.com
+For more information call at 1 877 244 9825 or go to www.stridesshasun.com
 
 What are the ingredients in tacrolimus capsules?
 
@@ -239,18 +242,16 @@ The 0.5 mg capsule shell contains gelatin, titanium dioxide, F D & C blue 1 and 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured By
+Manufactured by:
 
-Strides Arcolab Limited
+Strides Shasun Limited
 
-Bangalore-560076, India
+Bengaluru - 560076, India
 
 Distributed by:
 
 Strides Pharma Inc.
 
-2 Tower Center Blvd.
+East Brunswick, NJ 08816
 
-Suite 1102, East Brunswick, NJ 08816
-
-Revised: 12/2015
+Revised: 09/2016
