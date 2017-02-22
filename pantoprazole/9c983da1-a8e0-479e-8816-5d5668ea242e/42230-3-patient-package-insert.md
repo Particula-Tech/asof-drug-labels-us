@@ -13,6 +13,10 @@ Talk with your doctor.
 
 Pantoprazole sodium delayed-release tablets can cause serious side effects, including:
 
+• A type of kidney problem (acute interstitial nephritis).
+Some people who take proton pump inhibitor (PPI) medicines, including pantoprazole sodium delayed-release tablets, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with Pantoprazole sodium delayed-release tablets.
+Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
+
 • Diarrhea.
 Pantoprazole sodium delayed-release tablets may increase your risk of getting severe diarrhea.
 This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
@@ -20,9 +24,14 @@ This diarrhea may be caused by an infection (Clostridium difficile) in your inte
 Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
 
 • Bone fractures.
-People who take multiple daily doses of proton pump inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
+People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
 You should take pantoprazole sodium delayed-release tablets exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
 Talk to your doctor about your risk of bone fracture if you take pantoprazole sodium delayed-release tablets.
+
+• Certain types of lupus erythematosus.
+Lupus erythematosus is an autoimmune disorder (the body's immune cells attack other cells or organs in the body).
+Some people who take PPI medicines, including pantoprazole sodium delayed-release tablets, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
+Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
 
 Pantoprazole sodium delayed-release tablets can have other serious side effects.
 See "What are the possible side effects of pantoprazole sodium delayed-release tablets?"
@@ -112,11 +121,6 @@ Pantoprazole sodium delayed-release tablets may cause serious side effects, incl
 
 See "What is the most important information I should know about pantoprazole sodium delayed-release tablets?"
 
-• Chronic (lasting a long time) inflammation of the lining of the stomach (Atrophic Gastritis).
-Taking pantoprazole sodium delayed-release tablets for a long period of time may increase the risk of inflammation to your stomach lining.
-You may or may not have symptoms.
-Tell your doctor if you have stomach pain, nausea, vomiting or weight loss.
-
 • Vitamin B-12 deficiency.
 Pantoprazole sodium delayed-release tablets reduce the amount of acid in your stomach.
 Stomach acid is needed to absorb vitamin B-12 properly.
@@ -124,7 +128,7 @@ Talk with your doctor about the possibility of vitamin B-12 deficiency if you ha
 
 • Low magnesium levels in your body.
 This problem can be serious.
-Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
 If low magnesium levels happen, it is usually after a year of treatment.
 You may or may not have symptoms of low magnesium.
 
@@ -223,6 +227,8 @@ Pantoprazole sodium Delayed-Release Tablets:
 - If you have trouble swallowing a pantoprazole sodium delayed-release 40 mg tablet, you can take two 20 mg tablets instead.
 - Do not split, chew, or crush pantoprazole sodium delayed-release tablets.
 
+Trademarks are the property of their respective owners.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 This product's label may have been updated.
@@ -237,4 +243,4 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
 
-8053140 Revised January 2015
+8063066 Revised February 2017
