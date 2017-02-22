@@ -39,13 +39,13 @@ Naloxone is minimally orally bioavailable.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of NARCAN Nasal Spray has been established in pediatric patients for known or suspected opioid overdose, as manifested by respiratory and/or central nervous system depression.
-Use of naloxone hydrochloride in pediatric patients is supported by evidence from adequate and well-controlled studies of naloxone hydrochloride in adults with additional data from 15 clinical studies (controlled and uncontrolled) in which neonates and pediatric patients received parenteral naloxone hydrochloride in doses ranging from 0.005 mg/kg to 0.01 mg/kg.
-Safety and effectiveness are also supported by use of other naloxone hydrochloride products in the post-marketing setting, as well as data available in the medical literature and clinical practice guidelines.
-NARCAN Nasal Spray may be administered to pediatric patients of all ages.
+The safety and effectiveness of NARCAN Nasal Spray have been established in pediatric patients of all ages for known or suspected opioid overdose as manifested by respiratory and/or central nervous system depression.
+Use of naloxone hydrochloride in all pediatric patients is supported by adult bioequivalence studies coupled with evidence from the safe and effective use of other naloxone hydrochloride drug products.
+No pediatric studies were conducted for NARCAN Nasal Spray.
 
 Absorption of naloxone hydrochloride following intranasal administration in pediatric patients may be erratic or delayed.
 Even when the opiate-intoxicated pediatric patient responds appropriately to naloxone hydrochloride, he/she must be carefully monitored for at least 24 hours, as a relapse may occur as naloxone hydrochloride is metabolized.
+
 In opioid-dependent pediatric patients, (including neonates), administration of naloxone hydrochloride may result in an abrupt and complete reversal of opioid effects, precipitating an acute opioid withdrawal syndrome.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening, if not recognized, and should be treated according to protocols developed by neonatology experts [see Warnings and Precautions (5.3)].
 

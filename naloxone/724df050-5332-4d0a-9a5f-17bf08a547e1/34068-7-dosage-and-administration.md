@@ -1,17 +1,6 @@
-# ​2 DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-- NARCAN Nasal Spray is for intranasal use only.
-  (2.1)
-- Seek emergency medical care immediately after use.
-  (2.1)
-- Administer a single spray of NARCAN Nasal Spray to adults or pediatric patients intranasally into one nostril.
-  (2.2)
-- Administer additional doses of NARCAN Nasal Spray, using a new nasal spray with each dose, if the patient does not respond or responds and then relapses into respiratory depression, additional doses of NARCAN Nasal Spray may be given every 2 to 3 minutes until emergency medical assistance arrives.
-  (2.2)
-- Additional supportive and/or resuscitative measures may be helpful while awaiting emergency medical assistance.
-  (2.2)
-
-## ​2.1 Important Administration Instructions
+## 2.1 Important Administration Instructions
 
 NARCAN Nasal Spray is for intranasal use only.
 
@@ -25,33 +14,24 @@ Emphasize the following instructions to the patient or caregiver:
 - Administer NARCAN Nasal Spray as quickly as possible because prolonged respiratory depression may result in damage to the central nervous system or death.
   Since the duration of action of most opioids exceeds that of naloxone hydrochloride and the suspected opioid overdose may occur outside of supervised medical settings, seek immediate emergency medical assistance, keep the patient under continued surveillance until emergency personnel arrive, and administer repeated doses of NARCAN Nasal Spray, as necessary.
   Always seek emergency medical assistance in the event of a suspected, potentially life-threatening opioid emergency after administration of the first dose of NARCAN Nasal Spray.
-
 - Additional doses of NARCAN Nasal Spray may be required until emergency medical assistance becomes available.
-
 - Do not attempt to reuse NARCAN Nasal Spray.
   Each NARCAN Nasal Spray contains a single dose of naloxone and cannot be reused.
-
 - Re-administer NARCAN Nasal Spray, using a new nasal spray, every 2 to 3 minutes if the patient does not respond or responds and then relapses into respiratory depression.
-
 - Administer NARCAN Nasal Spray in alternate nostrils with each dose.
-
 - Administer NARCAN Nasal Spray according to the printed instructions on the device label and the Instructions for Use.
-
 - Place the patient in the supine position.
   Prior to administration, be sure the device nozzle is inserted in either nostril of the patient, and provide support to the back of the neck to allow the head to tilt back.
   Do not prime or test the device prior to administration.
-
 - To administer the dose press firmly on the device plunger.
-
 - Remove the device nozzle from the nostril after use.
-
 - Turn patient on their side as shown in the InstructionsforUse and call for emergency medical assistance immediately after administration of the first dose of NARCAN Nasal Spray.
 
-## ​2.2 Dosing in Adults and Pediatric Patients
+## 2.2 Dosing in Adults and Pediatric Patients
 
 Initial Dosing
 
-The recommended initial dose of NARCAN Nasal Spray in adults and pediatric patients is one spray delivered by intranasal administration, which delivers 4 mg of naloxone hydrochloride.
+The recommended initial dose of NARCAN Nasal Spray in adults and pediatric patients is one spray delivered by intranasal administration into one nostril.
 
 Repeat Dosing
 
@@ -68,6 +48,6 @@ If there is still no response and additional doses are available, administer add
 
 Additional supportive and/or resuscitative measures may be helpful while awaiting emergency medical assistance.
 
-## ​2.3 Dosing Modifications due to Partial Agonists or Mixed Agonist/Antagonists
+## 2.3 Dosing Modifications due to Partial Agonists or Mixed Agonist/Antagonists
 
 Reversal of respiratory depression by partial agonists or mixed agonist/antagonists, such as buprenorphine and pentazocine, may be incomplete and require higher doses of naloxone hydrochloride or repeated administration of NARCAN Nasal Spray using a new nasal spray [see Warnings and Precautions (5.2)]

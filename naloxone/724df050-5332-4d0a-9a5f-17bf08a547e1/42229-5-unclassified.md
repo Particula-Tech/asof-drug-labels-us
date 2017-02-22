@@ -1,5 +1,7 @@
 # Instructions for Use
 
+Instructions for Use
+
 NARCAN (nar´ kan)
 
 (naloxonehydrochloride)
@@ -17,7 +19,7 @@ Important: For use in the nose only.
 - Each NARCAN Nasal Spray has 1 dose and cannot be reused.
 - You do not need to prime NARCAN Nasal Spray.
 
-Howto use NARCAN nasal spray:
+Howto use NARCAN Nasal Spray:
 
 Step 1.
 Lay the person on their back to receive a dose of NARCAN Nasal Spray.
@@ -60,7 +62,7 @@ Throw away (dispose of) the used NARCAN Nasal Spray in a place that is away from
 HowshouldI store NARCAN Nasal Spray?
 
 - Store NARCAN Nasal Spray at room temperature between 59°F to 77°F (15°C to 25°C).
-  NARCAN Nasal Spray may be stored for short periods up to 104°F (4°C to 40°C).
+  NARCAN Nasal Spray may be stored for short periods up to 104°F (40°C).
 - Do not freeze NARCAN Nasal Spray.
 - Keep NARCAN Nasal Spray in the box until ready to use.
   Protect from light.
@@ -74,6 +76,4 @@ Distributed by Adapt Pharma, Inc. Radnor, PA 19087 USA.
 
 For more information, go to www.narcannasalspray.com or call 1-844-4NARCAN (1-844-462-7226).
 
-Issued: 02/2016
-
-# QUICK START GUIDE
+Issued: 02/2017
