@@ -37,3 +37,5 @@ Each bag contains a dilute solution with the equivalent of 250, 500, or 750 mg o
 LEVAQUIN® Injection Premix in Flexible Containers should be stored at or below 25°C (77°F); however, brief exposure up to 40°C (104°F) does not adversely affect the product.
 Avoid excessive heat and protect from freezing and light.
 LEVAQUIN® Injection Premix in Flexible Containers is manufactured for Janssen Pharmaceuticals, Inc., Titusville, NJ 08560 by Hospira, Inc., Austin, TX 78728.
+
+Keep out of reach of children.

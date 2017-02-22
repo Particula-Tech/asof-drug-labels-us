@@ -20,12 +20,12 @@ Similarly, no apparent effect of warfarin on levofloxacin absorption and disposi
 However, there have been reports during the postmarketing experience in patients that LEVAQUIN® enhances the effects of warfarin.
 Elevations of the prothrombin time in the setting of concurrent warfarin and LEVAQUIN® use have been associated with episodes of bleeding.
 Prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests should be closely monitored if LEVAQUIN® is administered concomitantly with warfarin.
-Patients should also be monitored for evidence of bleeding [see Adverse Reactions (6.3); Patient Counseling Information (17.4)].
+Patients should also be monitored for evidence of bleeding [see Adverse Reactions (6.3); Patient Counseling Information (17)].
 
 ## 7.3 Antidiabetic Agents
 
 Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with fluoroquinolones and an antidiabetic agent.
-Therefore, careful monitoring of blood glucose is recommended when these agents are co-administered [see Warnings and Precautions (5.12); Adverse Reactions (6.2), Patient Counseling Information (17.4)].
+Therefore, careful monitoring of blood glucose is recommended when these agents are co-administered [see Warnings and Precautions (5.12); Adverse Reactions (6.2), Patient Counseling Information (17)].
 
 ## 7.4 Non-Steroidal Anti-Inflammatory Drugs
 

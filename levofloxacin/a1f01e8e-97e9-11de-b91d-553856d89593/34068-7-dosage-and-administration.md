@@ -67,7 +67,7 @@ Table 3: Dosage Adjustment in Adult Patients with Renal Impairment (creatinine c
 
 LEVAQUIN® Tablets and Oral Solution
 
-LEVAQUIN® Tablets and Oral Solution should be administered at least two hours before or two hours after antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine chewable/buffered tablets or the pediatric powder for oral solution [see Drug Interactions (7.1) and Patient Counseling Information (17.2)].
+LEVAQUIN® Tablets and Oral Solution should be administered at least two hours before or two hours after antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine chewable/buffered tablets or the pediatric powder for oral solution [see Drug Interactions (7.1) and Patient Counseling Information (17)].
 
 LEVAQUIN® Injection
 
@@ -90,7 +90,7 @@ It is not for intramuscular, intrathecal, intraperitoneal, or subcutaneous admin
 Hydration for Patients Receiving LEVAQUIN® Tablets, Oral Solution, and Injection
 
 Adequate hydration of patients receiving oral or intravenous LEVAQUIN® should be maintained to prevent the formation of highly concentrated urine.
-Crystalluria and cylindruria have been reported with quinolones [see Adverse Reactions (6.1) and Patient Counseling Information (17.2)].
+Crystalluria and cylindruria have been reported with quinolones [see Adverse Reactions (6.1) and Patient Counseling Information (17)].
 
 ## 2.6 Preparation of Intravenous Product
 

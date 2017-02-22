@@ -88,7 +88,7 @@ The relationship of the drugs to these events is not presently established.
 ## 6.3 Postmarketing Experience
 
 Table 6 lists adverse reactions that have been identified during post-approval use of LEVAQUIN®.
-Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Table 6: Postmarketing Reports Of Adverse Drug Reactions
 
