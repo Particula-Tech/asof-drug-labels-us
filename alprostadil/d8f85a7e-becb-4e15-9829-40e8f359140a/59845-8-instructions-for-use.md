@@ -1,4 +1,4 @@
-# INSTRUCTIONS FOR USE
+INSTRUCTIONS FOR USE
 
 Before you use CAVERJECT, your doctor must train you in how to prepare and give the injection properly.
 
@@ -49,13 +49,14 @@ INSTRUCTIONS for PREPARING the SYRINGE (Step 1 through Step 12)
 |  | STEP 2. | Open the packet containing the alcohol swab, and then pick up the syringe. Use the alcohol swab to wipe the rubber membrane at the tip of the syringe (Figure B). Discard the alcohol swab. |  |
 | --- | --- | --- | --- |
 |  | STEP 3. | Pick up the Needle Assembly. Grab the paper tab and peel off the paper cover (lid) from the bottom of the needle assembly (Figure C). |  |
-|  | STEP 4. | Hold the needle assembly by the cap. Pick up the syringe with your other hand. Press the needle assembly onto the tip of the syringe and turn it clockwise (like tightening a screw) until the needle assembly is firmly locked into place. Remove (twist off - clockwise) the outer protective cap from the needle (Figure D), but DO NOT REMOVE the inner protective cap at this time. The inner protective cap is the thin plastic tube that directly covers the needle. It will be removed later. If you are not sure which piece is the inner protective cap, see Figure A (Step 1) to identify the inner protective cap. |  |
-|  | STEP 5. | The next few steps will mix the powder and the fluid to make the Caverject Impulse solution. Hold the syringe system with the needle pointing upward. The plunger rod should still be in the fully extended position, with all of the threads visible, as shown in Figure E. |  |
+|  | STEP 4. | Hold the needle assembly by the cap. Pick up the syringe with your other hand. Press the needle assembly onto the tip of the syringe and turn it clockwise (like tightening a screw) until the needle assembly is firmly locked into place. Remove (twist off - clockwise) the outer protective cap from the needle (Figure D), but DO NOT REMOVE the inner protective cap at this time. The inner protective cap is the thin plastic tube that directly covers the needle. It will be removed later. If you are not sure which piece is the inner protective cap, see Figure A (Step 1) to identify the inner protective cap. The next few steps will mix the powder and the fluid to make the Caverject Impulse solution. |  |
+|  | STEP 5. | Hold the syringe system with the needle pointing upward. The plunger rod should still be in the fully extended position, with all of the threads visible, as shown in Figure E. |  |
 |  | STEP 6. | Slowly ROTATE the plunger rod clockwise (like tightening a screw,) until it goes all the way in and stops (Figure F). This automatically combines the drug powder and the fluid. |  |
 |  |  |  | DO NOT turn the plunger rod counter-clockwise (do not try to "unscrew" the plunger rod). |
 |  |  |  | DO NOT PUSH on the plunger while trying to rotate it. This can cause the plastic threads on the plunger rod to stick. |
 |  | STEP 7. | Turn the syringe upside down several times to make sure the solution is evenly mixed. The solution should be clear. Do not use it if it is cloudy or contains particles. |  |
-|  | STEP 8. STEP 9. | Hold the syringe with the needle upward and carefully remove the inner protective cap from the needle (Figure G). Do not touch the exposed needle because it is sterile. Next, you need to remove any large bubbles from the solution. Lightly tap the glass cartridge a few times with your finger until any large bubbles disappear up into the tip. Very small bubbles may remain. |  |
+|  | STEP 8. | Hold the syringe with the needle upward and carefully remove the inner protective cap from the needle (Figure G). Do not touch the exposed needle because it is sterile. |  |
+|  | STEP 9. | Next, you need to remove any large bubbles from the solution. Lightly tap the glass cartridge a few times with your finger until any large bubbles disappear up into the tip. Very small bubbles may remain. |  |
 |  | STEP 10. | With the syringe pointed upward (Figure H), use your thumb to push in the plunger rod until it stops. This will push the air out. Some liquid will appear at the needle point. After pressing the plunger you may still see some small bubbles on the wall of the glass cartridge. This is normal. |  |
 |  |  |  | If you can't press the plunger rod in, check that the plunger rod is rotated all the way: turn it clockwise until it stops, and then repeat Step 10. |
 |  |  |  | After the plunger is pushed in – Do Not rotate the plunger. That will be done in the next step. |
@@ -78,7 +79,8 @@ How to give the injection
 
 |  | 1.The injection will go into the part of the penis shown as the shaded area in Figure K. Do not inject into the white areas because there may be blood vessels in the white areas. Also see Figure L. |
 | --- | --- |
-|  | 2.The correct injection angle is shown in Figure L. 3.If your doctor has recommended that you use an alcohol swab, wipe over the area for injection and let it dry. Reconfirm that the correct dose is visible in the dose window. If the correct dose is not in the dose window, repeat Step 11. |
+|  | 2.The correct injection angle is shown in Figure L. |
+|  | 3.If your doctor has recommended that you use an alcohol swab, wipe over the area for injection and let it dry. Reconfirm that the correct dose is visible in the dose window. If the correct dose is not in the dose window, repeat Step 11. |
 |  | 4.Take hold of the penis from the front, with the first two fingers underneath close to the testicles and the thumb on top (Figure M). 5.Gently squeeze the penis between your thumb and finger so that the injection site bulges out. If there is a foreskin on the penis, make sure it is stretched. 6.Keeping a firm grip on the penis and taking the syringe in your free hand, push the needle straight through the skin all the way into the bulgy part (corpora cavernosa). Avoid veins or other obvious blood vessels (Figures K and L). 7.Push the plunger firmly and steadily until it no longer moves. Plunger movement may be very small or undetectable if administering a partial dose. 8.If the plunger does not move easily adjust the needle depth slightly and try again. Do not force the solution from the syringe. 9.After completing the injection, carefully pull the needle out. A drop of liquid may remain on the tip of the needle. Press gently on the injection site with the alcohol swab. Massage the penis to help the Caverject Impulse solution spread through it. |
 
 - Some liquid will remain in the syringe if you delivered a PARTIAL dose.
@@ -92,34 +94,41 @@ How to give the injection
 Do not keep any solution in the cartridge to use for a second injection.
 When you have finished with the syringe, discard it carefully as recommended by your doctor, so no one will use it or stick themselves with it.
 
-How often can you use Caverject Impulse?
+After your injection:
 
-Do not use Caverject Impulse more than once in 24 hours or more than three times in a week.
-Change the exact place and side of the penis that you inject Caverject Impulse each time you use it.
+Dispose of your used CAVERJECT IMPULSE syringes and needle.
 
-Your erection after injecting Caverject Impulse
+- Put your used CAVERJECT IMPULSE syringe and needle in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) loose needles and syringes in your household trash.
+- If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  - made of a heavy-duty plastic
+  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+  - upright and stable during use
+  - leak-resistant
+  - properly labeled to warn of hazardous waste inside the container
+- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  Do not reuse or share your needles or syringes with other people.
+  For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
+- Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
 
-It will take a little while for your erection to occur after the injection.
-With the correct dose of Caverject Impulse your erection should be sufficiently firm enough for you and your partner to engage in sexual intercourse.
-Usually, your erection should not last longer than an hour.
-If you would like it to last longer, talk to your doctor.
-If your erection lasts longer than four hours, you should seek medical assistance immediately (see section on side effects below).
+How should I store CAVERJECT IMPULSE?
 
-If you use too much Caverject Impulse
+- 1.Store unmixed CAVERJECT IMPULSE at room temperature between 68°F to 77°F (20°C to 25°C).
+- 2.Store mixed CAVERJECT IMPULSE between 36–77°F (2°C to 25°C).
+  Do not freeze.
+- 3.CAVERJECT IMPULSE should be used within 24 hours after it is mixed.
 
-Tell your doctor immediately as you may need treatment; particularly if you experience an erection that lasts for longer than four hours.
+Keep CAVERJECT IMPULSE and all medicines out of the reach of children.
 
-If you have any further questions on how to use this product, ask your doctor.
-
-Disposal of Injection Materials
-
-After use, dispose of all injection materials safely.
-Your pharmacist may be able to supply a disposal box especially for disposable injection delivery systems.
-As with all prescription medicines, do not allow anyone else to use your medicine.
+This Patient Information and Instructions for Use has been approved by the U.S Food and Drug Administration.
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
 Rx only
 
-LAB-0641-1.0 December 2013
+Manufactured by:
+
+LAB-0641-6.0 October 2016

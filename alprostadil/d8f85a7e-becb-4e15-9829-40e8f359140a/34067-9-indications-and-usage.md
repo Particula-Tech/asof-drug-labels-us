@@ -1,5 +1,9 @@
-# INDICATION AND USAGE
+# 1 INDICATIONS AND USAGE
 
-CAVERJECT (CAVERJECT IMPULSE and CAVERJECT Sterile Powder) is indicated for the treatment of erectile dysfunction due to neurogenic, vasculogenic, psychogenic, or mixed etiology.
+## 1.1 Erectile Dysfunction
 
-Intracavernosal CAVERJECT is also indicated as an adjunct to other diagnostic tests in the diagnosis of erectile dysfunction.
+CAVERJECT IMPULSE is indicated for the treatment of erectile dysfunction.
+
+## 1.2 Diagnostic Test
+
+CAVERJECT IMPULSE is indicated as an adjunct to other diagnostic tests in the diagnosis of erectile dysfunction.

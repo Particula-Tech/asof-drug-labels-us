@@ -1,88 +1,90 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The dose of CAVERJECT should be individualized for each patient by careful titration under supervision by the physician.
-In clinical studies, patients were treated with CAVERJECT Sterile Powder in doses ranging from 0.2 to 140 mcg; however, since 99% of patients received doses of 60 mcg or less, doses of greater than 60 mcg are not recommended.
-In general, the lowest possible effective dose should always be employed.
-In clinical studies, over 80% of patients experienced an erection sufficient for sexual intercourse after intracavernosal injection of CAVERJECT.
+## 2.1 Dosage and Administration Information Overview
 
-## Initial Titration in Physician's Office
+- Determine the most suitable dose and formulation of CAVERJECT (CAVERJECT IMPULSE or CAVERJECT Sterile Powder) for each patient.
+- Administration of the first injections of CAVERJECT IMPULSE should be done in the physician's office by medically trained personnel.
+- Carefully titrate the dose of CAVERJECT IMPULSE for each patient to the lowest effective dose.
+- The site of injection is usually along the dorso-lateral aspect of the proximal third of the penis.
+- Wipe the intended injection site with an alcohol swab prior to injection.
+- Avoid visible veins during injection.
+- Alternate the side of the penis that is injected and the site of injection.
+- Compress the site of injection with an alcohol swab or sterile gauze for 5 minutes.
+- CAVERJECT IMPULSE is intended for single use only and should be discarded after use.
+- Safety and efficacy of CAVERJECT doses greater than 60 mcg have not been established.
 
-### Erectile Dysfunction of Vasculogenic, Psychogenic, or Mixed Etiology
+## 2.2 Dosage for Erectile Dysfunction
 
-Dosage titration should be initiated at 2.5 mcg of alprostadil.
-The 10 mcg strength of CAVERJECT IMPULSE is designed to allow delivery of a 2.5 mcg dose of alprostadil (see General Procedure for Solution Preparation).
-If there is a partial response at 2.5 mcg, the dose may be increased by 2.5 mcg to a dose of 5 mcg within 1 hour.
-No more than 2 doses during initial titration should be given within a 24-hour period.
-If additional titration is required, doses in increments of 5 to 10 mcg may be given at least 24 hours apart until the dose that produces an erection suitable for intercourse and not exceeding a duration of 1 hour is reached.
-If there is no response to the initial 2.5-mcg dose, the second dose may be increased to 7.5 mcg within 1 hour.
-No more than 2 doses during initial titration should be given within a 24-hour period.
+Starting Dosage for Erectile Dysfunction of Vasculogenic, Psychogenic, or Mixed Etiology.
+
+Initiate dosing with 2.5 mcg of alprostadil.
+If there is a partial response at 2.5 mcg, the dose may be increased to 5 mcg within 1 hour.
+During titration, no more than 2 doses should be given within a 24-hour period.
+The optimal dose should produce an erection suitable for intercourse that does not exceed a duration of 1 hour.
+The patient must stay in the physician's office until complete detumescence occurs.
+
 If additional titration is required, doses in increments of 5 to 10 mcg may be given at least 24 hours apart.
-The patient must stay in the physician's office until complete detumescence occurs.
+Repeat the titration as necessary until the optimal dose is achieved.
 
-### Erectile Dysfunction of Pure Neurogenic Etiology (Spinal Cord Injury)
+Starting Dosage for Erectile Dysfunction of Pure Neurogenic Etiology (Spinal Cord Injury):
 
-Dosage titration should be initiated at 1.25 mcg of alprostadil.
-Because CAVERJECT IMPULSE is designed to deliver doses of 2.5 mcg or greater (see General Procedure for Solution Preparation), CAVERJECT Sterile Powder may be used for an initial dose of 1.25 mcg.
-The initial dose may be increased by 1.25 mcg to a dose of 2.5 mcg within 1 hour.
+Initiate dosing with 1.25 mcg of alprostadil using CAVERJECT Sterile Powder.
+If there is a partial response, the dose may be increased to 2.5 mcg within 1 hour.
 No more than 2 doses during initial titration should be given within a 24-hour period.
-If additional titration is required, a dose of 5 mcg may be given during the next 24 hours.
-Thereafter, doses in increments of 5 mcg may be given at least 24 hours apart until the dose that produces an erection suitable for intercourse and not exceeding a duration of 1 hour is reached.
+The optimal dose should produce an erection suitable for intercourse that does not exceed a duration of 1 hour.
 The patient must stay in the physician's office until complete detumescence occurs.
 
-The majority of patients (56%) in one clinical study involving 579 patients with erectile dysfunction of various etiologies were titrated to doses of greater than 5 mcg but less than or equal to 20 mcg.
-The mean dose at the end of the titration phase was 17.8 mcg of alprostadil.
+If additional titration is required, a dose of 5 mcg may be given during the next 24 hours.
+Thereafter, doses in increments of 5 mcg may be given at least 24 hours apart until the optimal dose is reached.
 
-## Maintenance Therapy
+Maintenance Dosage for Erectile Dysfunction for Patient Home Use:
 
-The first injections of CAVERJECT must be done at the physician's office by medically trained personnel.
-Self-injection therapy by the patient should be started only after the patient is properly instructed and well trained in the self-injection technique.
-The physician should make a careful assessment of the patient's skills and competence with this procedure.
-The intracavernosal injection must be done under sterile conditions.
-The site of injection is usually along the dorso-lateral aspect of the proximal third of the penis.
-Visible veins should be avoided.
-The side of the penis that is injected and the site of injection must be alternated; the injection site must be cleansed with an alcohol swab.
-
-The dose of CAVERJECT that is selected for self-injection treatment should provide the patient with an erection that is satisfactory for sexual intercourse and that is maintained for no longer than 1 hour.
-If the duration of erection is longer than 1 hour, the dose of CAVERJECT should be reduced.
-Self-injection therapy for use at home should be initiated at the dose that was determined in the physician's office; however, dose adjustment, if required (up to 57% of patients in one clinical study), should be made only after consultation with the physician.
-The dose should be adjusted in accordance with the titration guidelines described above.
-The effectiveness of CAVERJECT for long-term use of up to 6 months has been documented in an uncontrolled, self-injection study.
-The mean dose of CAVERJECT Sterile Powder at the end of 6 months was 20.7 mcg in this study.
-CAVERJECT IMPULSE in the 10 mcg strength is designed to deliver a minimum dose of 2.5 mcg and a maximum dose of 10 mcg.
-CAVERJECT IMPULSE in the 20 mcg strength is designed to deliver a minimum dose of 5 mcg and a maximum dose of 20 mcg.
-The physician should determine the most suitable formulation of CAVERJECT for the individual patient (CAVERJECT IMPULSE or CAVERJECT Sterile Powder).
-
-Careful and continuous follow-up of the patient while in the self-injection program must be exercised.
-This is especially true for the initial self-injections, since adjustments in the dose of CAVERJECT may be needed.
+Once the dose of CAVERJECT IMPULSE has been determined in the physician's office, additional dose adjustment may be required after consultation with the physician.
+Adjust the dose in accordance with the titration guidelines described above.
 The recommended frequency of injection is no more than 3 times weekly, with at least 24 hours between each dose.
-All formulations of CAVERJECT are intended for single use only and should be discarded after use.
-The user should be instructed in the proper disposal of the injection materials (e.g., delivery system, needles).
 
-While on self-injection treatment, it is recommended that the patient visit the prescribing physician's office every 3 months.
-At that time, the efficacy and safety of the therapy should be assessed, and the dose of CAVERJECT should be adjusted, if needed.
+While on self-injection treatment, it is recommended that the patient visit the prescribing physician's office every 3 months to assess the efficacy and safety of the therapy and to adjust the dose of CAVERJECT IMPULSE, if needed.
 
-## CAVERJECT as an Adjunct to the Diagnosis of Erectile Dysfunction
+## 2.3 Patient Instruction for Self-Injection Technique for Treatment of Erectile Dysfunction
 
-In the simplest diagnostic test for erectile dysfunction (pharmacologic testing), patients are monitored for the occurrence of an erection after an intracavernosal injection of CAVERJECT.
-Extensions of this testing are the use of CAVERJECT as an adjunct to laboratory investigations, such as duplex or Doppler imaging, 133Xenon washout tests, radioisotope penogram, and penile arteriography, to allow visualization and assessment of penile vasculature.
-For any of these tests, a single dose of CAVERJECT that induces an erection with firm rigidity should be used.
+Instruct the patient on proper use and assess that they are well trained in the self-injection technique prior to initiation of at-home use.
+Advise the patient to read the Patient Information and Instructions for Use for detailed instructions on use of the product (see FDA-approved patient labeling [Patient Information and Instructions for Use]).
 
-## General Procedure for Solution Preparation
+## 2.4 Adjunct to the Diagnosis of Erectile Dysfunction
 
-CAVERJECT IMPULSE consists of a disposable, single-dose, dual chamber syringe system.
-The system includes a glass cartridge, which contains sterile, freeze-dried alprostadil in the front chamber and sterile bacteriostatic water for injection in the rear chamber.
-Following proper reconstitution instructions, the 10 mcg strength syringe can deliver up to 0.5 mL of solution.
-Each 0.5 mL of solution contains 10 mcg of alprostadil, 324.7 mcg of alpha cyclodextrin, 45.4 mg of lactose, 23.5 mcg of sodium citrate, and 4.45 mg of benzyl alcohol.
-The delivery system can be set to deliver a solution volume of 0.125, 0.25, 0.375, or 0.50 mL to enable administration of 2.5, 5, 7.5, or 10 mcg of alprostadil.
-Following proper reconstitution instructions, the 20 mcg strength syringe can deliver up to 0.5 mL of solution.
-Each 0.5 mL of solution contains 20 mcg of alprostadil, 649.3 mcg of alpha cyclodextrin, 45.4 mg of lactose, 23.5 mcg of sodium citrate, and 4.45 mg of benzyl alcohol.
-The delivery system can be set to deliver a solution volume of 0.125, 0.25, 0.375, or 0.50 mL to enable administration of 5, 10, 15, or 20 mcg of alprostadil.
-After reconstitution, the solution of CAVERJECT should be used within 24 hours when stored at or below 25°C (77°F).
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever the solution and container permit.
-The product should not be used if particulate matter or discoloration are present.
-Following a single use, the injection delivery system and any remaining solution should be properly discarded.
+To diagnose erectile dysfunction (pharmacologic testing), inject CAVERJECT IMPULSE intracavernosally and monitor patients for the occurrence of an erection.
+Extensions of this testing are the use of CAVERJECT as an adjunct to laboratory investigations, such as duplex or Doppler imaging.
+For any of these tests, use a single dose of CAVERJECT IMPULSE that induces a rigid erection.
 
-## Caution
+## 2.5 CAVERJECT IMPULSE Syringe Preparation
 
-CAVERJECT IMPULSE is for single use only.
-Do not use any remaining CAVERJECT solution.
+1. Select the CAVERJECT IMPULSE syringe based upon dose to be administered.
+   Syringe StrengthReconstituted ConcentrationDosages Available for Delivery after Reconstitution10 mcg 10 mcg/0.5 mL2.5 mcg5 mcg7.5 mcg10 mcg20 mcg 20 mcg/0.5 mL5 mcg10 mcg15 mcg20 mcg
+2. Open the sealed plastic tray.
+   Remove the syringe, the needle assembly, and the alcohol swabs from the tray.
+   The syringe has a dose window and a plunger.
+   The needle assembly is a sealed unit that contains the outer protective cap, the inner protective cap, and the superfine needle.
+3. Use the alcohol swab to wipe the rubber membrane at the tip of the syringe.
+   Pick up the needle assembly, grasp the paper tab, and peel off the paper cover (the lid).
+4. Hold the needle assembly by the cap and press the needle assembly onto the tip of the syringe.
+   Turn it clockwise until the needle assembly is firmly locked into place.
+5. Remove the outer protective cap from the needle by twisting it clockwise.
+   Do not yet remove the inner protective cap, the thin plastic tube that directly covers the needle.
+6. Hold the syringe system with the needle pointing upward.
+   The plunger rod should still be in the fully extended position, with all of the threads visible.
+   Slowly rotate the plunger rod clockwise until it goes all the way in and stops.
+   Do not push on the plunger while trying to rotate it.
+7. Turn the syringe upside down several times to make sure the solution is evenly mixed.
+   The solution should be clear.
+   Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
+   The product should not be used if particulate matter or discoloration are present.
+8. Hold the syringe with the needle upward and carefully remove the inner protective cap from the needle.
+   Lightly tap the glass cartridge a few times with your finger until any large bubbles disappear up into the tip.
+   With the syringe pointed upward, push in the plunger rod until it stops to push any air out.
+9. To set the dose: locate the dose window on the syringe and then slowly turn the plunger rod clockwise until the correct dose number appears in the center of the window.
+   The syringe is now ready for use.
+   If you pass the correct number, keep turning the plunger in the same direction until the correct number comes around again – do not try to turn it backward.
+10. After reconstitution, the syringe should be used within 24 hours when stored between 36–77°F (2°C to 25°C).
+    Do not freeze.
+    CAVERJECT IMPULSE is for single use only.
+    Discard the injection delivery system and any remaining solution after use.
