@@ -52,7 +52,7 @@ Males
 
 DOXIL may result in oligospermia, azoospermia, and permanent loss of fertility.
 Sperm counts have been reported to return to normal levels in some men.
-This may occur several years after the end of therapy [see Nonclinical Toxicology (13.1)].
+This may occur several years after the end of therapy [see Non-clinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
