@@ -7,7 +7,7 @@ Advise the patient to read the FDA-Approved Patient Labeling (Medication Guide).
   Once a patient is stabilized on INVOKAMET XR, gastrointestinal symptoms, which are common during initiation of metformin, are unlikely to recur.
   Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
 - Instruct patients to keep INVOKAMET XR in the original bottle to protect from moisture.
-  Do not put INVOKAMET XR in pill boxes or pill organizers.
+  Advise patients that storage in a pill box or pill organizer is allowed for up to 30 days.
 - Counsel patients against excessive alcohol intake while receiving INVOKAMET XR.
 - Inform patients about importance of regular testing of renal function and hematological parameters while receiving INVOKAMET XR.
 - Advise patients to seek medical advice promptly during periods of stress such as fever, trauma, infection, or surgery, as medication requirements may change.
