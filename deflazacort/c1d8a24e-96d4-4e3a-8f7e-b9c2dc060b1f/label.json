@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "NDA208684",
+    "NDA208685"
+  ],
+  "inn": "deflazacort",
+  "labeler": "Marathon Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "42998-501-01",
+    "42998-502-03",
+    "42998-503-03",
+    "42998-504-03",
+    "42998-505-21"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "deflazacort",
+      "name": "EMFLAZA"
+    },
+    {
+      "form": "TABLET",
+      "generic": "deflazacort",
+      "name": "EMFLAZA"
+    }
+  ],
+  "setid": "c1d8a24e-96d4-4e3a-8f7e-b9c2dc060b1f",
+  "source": "dailymed"
+}
