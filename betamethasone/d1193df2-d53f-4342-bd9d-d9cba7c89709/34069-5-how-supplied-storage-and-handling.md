@@ -16,7 +16,7 @@ Enstilar® Foam is available in aluminum cans of:
   [See USP Controlled Room Temperature].
 - Contents under pressure.
   Do not puncture or incinerate.
-  Do not expose to heat or store at temperatures above 49°C (120°F).
+  Do not expose to heat or store at temperatures above 120°F (49°C).
   Do not freeze.
 - The product should be used within six months after it has been opened.
 

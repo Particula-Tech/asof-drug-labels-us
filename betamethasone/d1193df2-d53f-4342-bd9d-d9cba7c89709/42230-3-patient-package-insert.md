@@ -9,7 +9,7 @@ There are other medicines that contain the same medicine that is in Enstilar® F
 Do not use other products containing calcipotriene or a corticosteroid medicine with Enstilar® Foam without talking to your doctor first.
 
 What is Enstilar® Foam?
-Enstilar® Foam is a prescription medicine that is for use on the skin only (topical medicine) to treat plaque psoriasis in adults 18 years of age and older.
+Enstilar® Foam is a prescription medicine that is used on the skin only (topical use) to treat plaque psoriasis in adults 18 years of age and older.
 
 The safety and effectiveness of Enstilar® Foam has not been studied in children.
 
@@ -101,7 +101,7 @@ Propellants: dimethyl ether and butane.
 
 Manufactured by: LEO Laboratories Ltd., 285 Cashel Road, Dublin 12, Ireland or Colep Laupheim GmbH & Co. KG, Fockestraße 12, 88471 Laupheim, Germany (DE)
 
-Distributed by: LEO Pharma Inc., 1 Sylvan Way, Parsippany, NJ 07054
+Distributed by: LEO Pharma Inc., Seven Giralda Farms, Madison, NJ 07940
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: June 2016
+Issued: 11/2016

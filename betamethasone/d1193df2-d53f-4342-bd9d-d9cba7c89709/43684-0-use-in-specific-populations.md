@@ -59,5 +59,4 @@ Local adverse reactions including striae have been reported with use of topical 
 
 Of the total number of subjects in the controlled clinical studies of Enstilar® Foam in plaque psoriasis, 97 were 65 years or older, while 21 were 75 years or older.
 
-No overall differences in safety or effectiveness of Enstilar® Foam were observed between subjects in these age ranges versus younger subjects.
-However, greater sensitivity of some older individuals cannot be ruled out.
+No overall differences in safety or effectiveness of Enstilar® Foam were observed between subjects in these subjects versus younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.

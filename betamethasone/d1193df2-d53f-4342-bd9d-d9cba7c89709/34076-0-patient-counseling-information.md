@@ -34,6 +34,6 @@ Distributed by:
 
 LEO Pharma Inc.
 
-1 Sylvan Way,
+Seven Giralda Farms,
 
-Parsippany, NJ 07054
+Madison, NJ 07940
