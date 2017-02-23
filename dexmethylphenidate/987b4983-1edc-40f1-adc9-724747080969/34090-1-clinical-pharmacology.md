@@ -9,7 +9,7 @@ The mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD
 ## Effects on QT Interval
 
 The effect of dexmethylphenidate hydrochloride extended-release capsules on the QT interval was evaluated in a double-blind, placebo- and open label active (moxifloxacin)-controlled study following single doses of dexmethylphenidate hydrochloride extended-release capsules 40mg in 75 healthy volunteers.
-ECGs were collected up to 12 hours post-dose.
+ECGs were collected up to 12 hours postdose.
 Frederica’s method for heart rate correction was employed to derive the corrected QT interval (QTcF).
 The maximum mean prolongation of QTcF intervals was <5 ms, and the upper limit of the 90% confidence interval was below 10 ms for all time matched comparisons versus placebo.
 This was below the threshold of clinical concern and there was no evident-exposure response relationship.
@@ -17,12 +17,12 @@ This was below the threshold of clinical concern and there was no evident-exposu
 ## Pharmacokinetics
 
 Absorption Dexmethylphenidate hydrochloride is readily absorbed following oral administration of dexmethylphenidate hydrochloride tablets.
-In patients with ADHD, plasma dexmethylphenidate concentrations increase rapidly, reaching a maximum in the fasted state at about 1 to 1.5 hours post-dose.
+In patients with ADHD, plasma dexmethylphenidate concentrations increase rapidly, reaching a maximum in the fasted state at about 1 to 1.5 hours postdose.
 No differences in the pharmacokinetics of dexmethylphenidate hydrochloride tablets were noted following single and repeated twice daily dosing, thus indicating no significant drug accumulation in children with ADHD.
 When given to children as capsules in single doses of 2.5 mg, 5 mg, and 10 mg, Cmax and AUC0-inf of dexmethylphenidate were proportional to dose.
 In the same study, plasma dexmethylphenidate levels were comparable to those achieved following single dl-threo-methylphenidate HCl doses given as capsules in twice the total mg amount (equimolar with respect to dexmethylphenidate hydrochloride tablets).
-Food Effects In a single dose study conducted in adults, coadministration of 2 x 10 mg dexmethylphenidate hydrochloride tablets with a high fat breakfast resulted in a dexmethylphenidate tmax of 2.9 hours post-dose as compared to 1.5 hours post-dose when given in a fasting state.
-Cmax and AUC0-inf were comparable in both the fasted and non-fasted states.
+Food Effects In a single dose study conducted in adults, coadministration of 2 x 10 mg dexmethylphenidate hydrochloride tablets with a high fat breakfast resulted in a dexmethylphenidate tmax of 2.9 hours postdose as compared to 1.5 hours postdose when given in a fasting state.
+Cmax and AUC0-inf were comparable in both the fasted and nonfasted states.
 Distribution Plasma dexmethylphenidate concentrations in children decline exponentially following oral administration of dexmethylphenidate hydrochloride tablets.
 Metabolism and Excretion In humans, dexmethylphenidate is metabolized primarily to d-α-phenyl-piperidine acetic acid (also known as d-ritalinic acid) by de-esterification.
 This metabolite has little or no pharmacological activity.
@@ -44,14 +44,16 @@ Hepatic Insufficiency There is no experience with the use of dexmethylphenidate 
 
 ## Clinical Studies
 
-Dexmethylphenidate hydrochloride tablets were evaluated in two double-blind, parallel-group, placebo-controlled trials in untreated or previously treated patients aged 6 to 17 years old with a DSM-IV diagnosis of Attention Deficit Hyperactivity Disorder (ADHD).
-Both studies included all three subtypes of ADHD, i.e., Combined Type, Predominantly Inattentive Type, or Predominantly Hyperactive-Impulsive Type.
+Dexmethylphenidate hydrochloride tablets were evaluated in 2 double-blind, parallel-group, placebo-controlled trials in untreated or previously treated patients aged 6 to 17 years old with a DSM-IV diagnosis of Attention Deficit Hyperactivity Disorder (ADHD).
+Both studies included all 3 subtypes of ADHD, i.e., Combined Type, Predominantly Inattentive Type, or Predominantly Hyperactive-Impulsive Type.
 While both children and adolescents were included, the sample was predominantly children, thus, the findings are most pertinent to this age group.
 In both studies, the primary comparison of interest was dexmethylphenidate hydrochloride tablet versus placebo.
 Dexmethylphenidate hydrochloride tablets (5, 10, or 20 mg/day total dose), dl-threo-methylphenidate HCl (10, 20, or 40 mg/day total dose), and placebo were compared in a multicenter, 4-week, parallel group study in n=132 patients.
 Patients took the study medication twice daily, 3.5 to 5.5 hours between doses.
 Treatment was initiated with the lowest dose, and doses could be doubled at weekly intervals, depending on clinical response and tolerability, up to the maximum dose.
-The change from baseline to week 4 of the averaged score (an average of two ratings during the week) of the teacher’s version of the SNAP-ADHD Rating Scale, a scale for assessing ADHD symptoms, was the primary outcome.
+The change from baseline to week 4 of the averaged score (an average of 2
+
+ratings during the week) of the teacher’s version of the SNAP-ADHD Rating Scale, a scale for assessing ADHD symptoms, was the primary outcome.
 Patients treated with dexmethylphenidate hydrochloride tablets showed a statistically significant improvement in symptom scores from baseline over patients who received placebo.
 
 Figure 1
@@ -67,4 +69,4 @@ Patients continued on dexmethylphenidate hydrochloride tablets showed a statisti
 
 Figure 2
 
-Percent of Treatment Failures following a 2-week Double-Blind Placebo-Controlled Withdrawal of Dexmethylphenidate Hydrochloride Tablets
+Percent of Treatment Failures Following a 2-week Double-Blind Placebo-Controlled Withdrawal of Dexmethylphenidate Hydrochloride Tablets

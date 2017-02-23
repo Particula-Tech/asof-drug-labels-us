@@ -3,7 +3,7 @@
 Signs and Symptoms
 
 Signs and symptoms of acute methylphenidate overdosage, resulting principally from overstimulation of the CNS and from excessive sympathomimetic effects, may include the following: vomiting, agitation, tremors, hyperreflexia, muscle twitching, convulsions (may be followed by coma), euphoria, confusion, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, mydriasis, and dryness of mucous membranes.
-Rhabdolyolysis has also been reported in overdose.
+Rhabdomyolysis has also been reported in overdose.
 
 Recommended Treatment Treatment consists of appropriate supportive measures.
 The patient must be protected against self-injury and against external stimuli that would aggravate overstimulation already present.

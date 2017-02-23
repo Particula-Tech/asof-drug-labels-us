@@ -6,7 +6,7 @@ A diagnosis of ADHD (DSM-IV) implies the presence of hyperactive-impulsive or in
 The symptoms must cause clinically significant impairment, e.g., in social, academic, or occupational functioning; and be present in two or more settings, e.g., school (or work) and at home.
 The symptoms must not be better accounted for by another mental disorder.
 For the inattentive type, at least six of the following symptoms must have persisted for at least 6 months: lack of attention to details/careless mistakes; lack of sustained attention; poor listener; failure to follow through on tasks; poor organization; avoids tasks requiring sustained mental effort; loses things; easily distracted; forgetful.
-For the Hyperactive-Impulsive Type, at least six of the following symptoms must have persisted for at least 6 months: fidgeting/squirming; leaving seat; inappropriate running/climbing; difficulty with quiet activities; “on the go,” excessive talking; blurting answers; can’t wait turn; intrusive.
+For the Hyperactive-Impulsive Type, at least 6 of the following symptoms must have persisted for at least 6 months: fidgeting/squirming; leaving seat; inappropriate running/climbing; difficulty with quiet activities; “on the go,” excessive talking; blurting answers; can’t wait turn; intrusive.
 The Combined Type requires both inattentive and hyperactive-impulsive criteria to be met.
 
 Special Diagnostic Considerations

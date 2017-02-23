@@ -2,7 +2,7 @@
 
 Serious Cardiovascular Events
 
-Sudden Death and Pre-Existing Structural Cardiac Abnormalities or Other Serious Heart Problems
+Sudden Death and Preexisting Structural Cardiac Abnormalities or Other Serious Heart Problems
 
 Children and Adolescents
 
@@ -19,16 +19,16 @@ Hypertension and Other Cardiovascular Conditions
 
 Stimulant medications cause a modest increase in average blood pressure (about 2-4 mmHg) and average heart rate (about 3-6 bpm), and individuals may have larger increases.
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
-Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia.
+Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with preexisting hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia.
 
 Assessing Cardiovascular Status in Patients being Treated with Stimulant Medications
 
 Children, adolescents, or adults who are being considered for treatment with stimulant medications should have a careful history (including assessment for a family history of sudden death or ventricular arrhythmia) and physical exam to assess for the presence of cardiac disease, and should receive further cardiac evaluation if findings suggest such disease (e.g., electrocardiogram and echocardiogram).
 Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during stimulant treatment should undergo a prompt cardiac evaluation.
 
-Psychiatric Adverse Events Pre-Existing Psychosis
+Psychiatric Adverse Events Preexisting Psychosis
 
-Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
+Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a preexisting psychotic disorder.
 
 Bipolar Illness
 
@@ -48,7 +48,7 @@ Although there is no systematic evidence that stimulants cause aggressive behavi
 
 Long-Term Suppression of Growth
 
-Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
+Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or nonmedication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and nonmedication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
 Published data are inadequate to determine whether chronic use of amphetamines may cause a similar suppression of growth, however, it is anticipated that they likely have this effect as well.
 Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
 
@@ -61,11 +61,11 @@ Priapism was not reported with drug initiation but developed after some time on 
 Priapism has also appeared during a period of drug withdrawal (drug holidays or discontinuation).
 Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
 
-Peripheral Vasculopathy, including Raynaud’s phenomenon
+Peripheral Vasculopathy, Including Raynaud’s Phenomenon
 
 Stimulants, including dexmethylphenidate hydrochloride tablets, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
-Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in postmarketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
 Careful observation for digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
@@ -91,17 +91,15 @@ A patient Medication Guide is available for dexmethylphenidate hydrochloride tab
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
-Priapism
-
-Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
+Priapism Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
 Instruct the patient to seek immediate medical attention in the event of priapism.
 
-Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]:
 
-- Instruct patients beginning treatment with dexmethylphenidate hydrochloride tablets about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red
-- Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes
-- Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking dexmethylphenidate hydrochloride tablets
-- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+- •Instruct patients beginning treatment with dexmethylphenidate hydrochloride tablets about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and in associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+- •Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
+- •Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking dexmethylphenidate hydrochloride tablets.
+- •Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 ## Drug Interactions
 
