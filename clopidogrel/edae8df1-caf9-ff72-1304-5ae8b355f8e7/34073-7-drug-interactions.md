@@ -3,16 +3,14 @@
 ## 7.1 CYP2C19 Inhibitors
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-Concomitant use of certain drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition [see Warnings and Precautions (5.1) and Dosage and Administration (2.4)].
+Concomitant use of drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition [see Warnings and Precautions (5.1)].
 
-Proton Pump Inhibitors (PPI)
+Omeprazole or esomeprazole
 
 Avoid concomitant use of clopidogrel bisulfate with omeprazole or esomeprazole.
-In clinical studies, omeprazole was shown to reduce the antiplatelet activity of clopidogrel bisulfate when given concomitantly or 12 hours apart.
-A higher dose regimen of clopidogrel concomitantly administered with omeprazole increases antiplatelet response; an appropriate dose regimen has not been established.
+In clinical studies, omeprazole was shown to reduce significantly the antiplatelet activity of clopidogrel bisulfate when given concomitantly or 12 hours apart.
 A similar reduction in antiplatelet activity was observed with esomeprazole when given concomitantly with clopidogrel bisulfate.
-Consider using another acid-reducing agent with minimal or no CYP2C19 inhibitory effect on the formation of clopidogrel active metabolite.
-Dexlansoprazole, lansoprazole and pantoprazole had less effect on the antiplatelet activity of clopidogrel bisulfate than did omeprazole or esomeprazole [see Dosage and Administration (2.4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Dexlansoprazole, lansoprazole and pantoprazole had less effect on the antiplatelet activity of clopidogrel bisulfate than did omeprazole or esomeprazole [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
 
@@ -27,3 +25,13 @@ However, at high concentrations in vitro, clopidogrel inhibits CYP2C9.
 ## 7.4 SSRIs and SNRIs
 
 Since selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) affect platelet activation, the concomitant administration of SSRIs and SNRIs with clopidogrel may increase the risk of bleeding.
+
+## 7.5 Repaglinide (CYP2C8 Substrates)
+
+The acyl-β-glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
+Clopidogrel can increase the systemic exposure to drugs that are primarily cleared by CYP2C8, thereby needing dose-adjustment and/or appropriate monitoring.
+
+Concomitant administration of clopidogrel with repaglinide significantly increases systemic exposures to repaglinide [see Clinical Pharmacology (12.3)].
+When concomitant use is required in a patient maintained on clopidogrel, initiate repaglinide at 0.5 mg with each meal and titrate based on blood glucose levels.
+Do not exceed a total daily dose of 4 mg.
+If concomitant use of clopidogrel is required in a patient stabilized on higher doses of repaglinide, down titrate the dose of repaglinide based on blood glucose levels to not exceed a total daily dose of 4 mg.

@@ -6,11 +6,13 @@ CURE
 
 The CURE study included 12,562 patients with ACS without ST-elevation (UA or NSTEMI) and presenting within 24 hours of onset of the most recent episode of chest pain or symptoms consistent with ischemia.
 Patients were required to have either ECG changes compatible with new ischemia (without ST-elevation) or elevated cardiac enzymes or troponin I or T to at least twice the upper limit of normal.
-The patient population was largely Caucasian (82%) and included 38% women, and 52% patients ≥65 years of age.
 
 Patients were randomized to receive clopidogrel (300-mg loading dose followed by 75 mg once daily) or placebo, and were treated for up to one year.
 Patients also received aspirin (75 to 325 mg once daily) and other standard therapies such as heparin.
 The use of GPIIb/IIIa inhibitors was not permitted for three days prior to randomization.
+
+The patient population was largely White (82%) and included 38% women, and 52% age ≥ 65 years of age.
+Only about 20% of patients underwent revascularization during the initial hospitalization and few underwent emergent or urgent revascularization.
 
 The number of patients experiencing the primary outcome (CV death, MI, or stroke) was 582 (9.3%) in the clopidogrel-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10% to 28%; p < 0.001) for the clopidogrel-treated group (see Table 4).
 
@@ -26,7 +28,7 @@ Table 4: Outcome Events in the CURE Primary Analysis
 
 Most of the benefit of clopidogrel occurred in the first two months, but the difference from placebo was maintained throughout the course of the trial (up to 12 months) (see Figure 2).
 
-In CURE, the use of clopidogrel was associated with a lower incidence of CV death, MI or stroke in patient populations with different characteristics, as shown in Figure 3.
+The effect of clopidogrel did not differ significantly in various subgroups, as shown in Figure 3.
 The benefits associated with clopidogrel were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE-inhibitors.
 The efficacy of clopidogrel was observed independently of the dose of aspirin (75 to 325 mg once daily).
 The use of oral anticoagulants, non-study antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
@@ -42,23 +44,24 @@ Patients were randomized to receive clopidogrel (75 mg once daily) or placebo, i
 
 The primary endpoints were death from any cause and the first occurrence of re-infarction, stroke or death.
 
-The patient population included 28% women, 58% age ≥ 60 years (26% age ≥ 70 years), 55% patients who received thrombolytics, 68% who received ACE-inhibitors, and only 3% who underwent PCI.
+The patient population was 28% women and 58% age ≥ 60 years (26% age ≥ 70 years).
+Fifty- five percent (55%) of patients received thrombolytics and only 3% underwent PCI.
 
 As shown in Table 5 and Figure 4 and Figure 5 below, clopidogrel significantly reduced the relative risk of death from any cause by 7% (p=0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p=0.002).
 
-Table 5: Outcome Events in the COMMIT Analysis
+Table 5: Outcome Events in COMMIT
 
 | Event | Clopidogrel (+ aspirin) (N=22961) | Placebo (+ aspirin) (N=22891) | Odds ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
 | Composite endpoint: Death, MI, or Stroke* | 2121 (9.2%) | 2310 (10.1%) | 0.91 (0.86, 0.97) | 0.002 |
 | Death Non-fatal MI** Non-fatal Stroke** | 1726 (7.5%) 270 (1.2%) 127 (0.6%) | 1845 (8.1%) 330 (1.4%) 142 (0.6%) | 0.93 (0.87, 0.99) 0.81 (0.69, 0.95) 0.89 (0.70, 1.13) | 0.029 0.011 0.33 |
 
-* The difference between the composite endpoint and the sum of death+non-fatal MI+non-fatal stroke indicates that 9 patients (2 clopidogrel and 7 placebo) suffered both a non-fatal stroke and a non-fatal MI.
+* 9 patients (2 clopidogrel and 7 placebo) suffered both a non-fatal stroke and a non-fatal MI.
 
 ** Non-fatal MI and non-fatal stroke exclude patients who died (of any cause).
 
 The effect of clopidogrel did not differ significantly in various pre-specified subgroups as shown in Figure 6.
-The effect was also similar in non-prespecified subgroups including those based on infarct location, Killip class or prior MI history (see Figure 7).
+The effect was also similar in non-prespecified subgroups including those based on infarct location, Killip class or prior MI history.
 Such subgroup analyses should be interpreted cautiously.
 
 ## 14.2 Recent Myocardial Infarction, Recent Stroke, or Established Peripheral Arterial Disease
@@ -66,7 +69,7 @@ Such subgroup analyses should be interpreted cautiously.
 CAPRIE
 
 The CAPRIE trial was a 19,185-patient, 304-center, international, randomized, double-blind, parallel-group study comparing clopidogrel (75 mg daily) to aspirin (325 mg daily).
-The patients randomized had: 1) recent histories of myocardial infarction (within 35 days); 2) recent histories of ischemic stroke (within 6 months) with at least a week of residual neurological signs; or 3) established peripheral arterial disease.
+To be eligible to enroll, patients had to have: 1) recent history of myocardial infarction (within 35 days); 2) recent histories of ischemic stroke (within 6 months) with at least a week of residual neurological signs; and/or 3) established peripheral arterial disease (PAD).
 Patients received randomized treatment for an average of 1.6 years (maximum of 3 years).
 
 The trial's primary outcome was the time to first occurrence of new ischemic stroke (fatal or not), new myocardial infarction (fatal or not), or other vascular death.
@@ -93,13 +96,13 @@ The event curves separated early and continued to diverge over the 3-year follow
 The statistical significance favoring clopidogrel over aspirin was marginal (p=0.045).
 However, because aspirin is itself effective in reducing cardiovascular events in patients with recent myocardial infarction or stroke, the effect of clopidogrel is substantial.
 
-The CAPRIE trial included a population that was randomized on the basis of 3 entry criteria.
-The efficacy of clopidogrel relative to aspirin was heterogeneous across these randomized subgroups (p=0.043).
-It is not clear whether this difference is real or a chance occurrence.
-Although the CAPRIE trial was not designed to evaluate the relative benefit of clopidogrel over aspirin in the individual patient subgroups, the benefit appeared to be strongest in patients who were enrolled because of peripheral vascular disease (especially those who also had a history of myocardial infarction) and weaker in stroke patients.
+The CAPRIE trial enrolled a population that had recent MI, recent stroke, or PAD.
+The efficacy of clopidogrel relative to aspirin was heterogeneous across these subgroups (p=0.043) (see Figure 8).
+Nonetheless this difference may be a chance occurrence because the CAPRIE trial was not designed to evaluate the relative benefit of clopidogrel over aspirin in the individual patient subgroups.
+The benefit was most apparent in patients who were enrolled because of peripheral arterial disease and less apparent in stroke patients.
 In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was not numerically superior to aspirin.
 
-## 14.3 Lack of Established Benefit of Clopidogrel plus Aspirin in Patients with Multiple Risk Factors or Established Vascular Disease
+## 14.3 No Demonstrated Benefit of Clopidogrel plus Aspirin in Patients with Multiple Risk Factors or Established Vascular Disease
 
 CHARISMA
 

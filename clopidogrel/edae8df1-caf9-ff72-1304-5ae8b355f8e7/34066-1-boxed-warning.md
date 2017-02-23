@@ -1,7 +1,6 @@
-# WARNING: DIMINISHED EFFECTIVENESS IN POOR METABOLIZERS
+# WARNING: DIMINISHED ANTIPLATELET EFFECT IN PATIENTS WITH TWO LOSS-OF-FUNCTION ALLELES OF THE CYP2C19 GENE
 
-The effectiveness of clopidogrel bisulfate is dependent on its activation to an active metabolite by the cytochrome P450 (CYP) system, principally CYP2C19 [see Warnings and Precautions (5.1)].
-Clopidogrel bisulfate at recommended doses forms less of that metabolite and has a smaller effect on platelet function in patients who are CYP2C19 poor metabolizers.
-Poor metabolizers with acute coronary syndrome or undergoing percutaneous coronary intervention treated with clopidogrel bisulfate at recommended doses exhibit higher cardiovascular event rates than do patients with normal CYP2C19 function.
-Tests are available to identify a patient's CYP2C19 genotype; these tests can be used as an aid in determining therapeutic strategy [see Clinical Pharmacology (12.5)].
-Consider alternative treatment or treatment strategies in patients identified as CYP2C19 poor metabolizers [see Dosage and Administration (2.3)].
+The effectiveness of clopidogrel bisulfate results from its antiplatelet activity, which is dependent on its conversion to an active metabolite by the cytochrome P450 (CYP) system, principally CYP2C19 [see Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
+Clopidogrel bisulfate at recommended doses forms less of the active metabolite and so has a reduced effect on platelet activity in patients who are homozygous for nonfunctional alleles of the CYP2C19 gene, (termed "CYP2C19 poor metabolizers").
+Tests are available to identify patients who are CYP2C19 poor metabolizers [see Clinical Pharmacology (12.5)].
+Consider use of another platelet P2Y12 inhibitor in patients identified as CYP2C19 poor metabolizers.

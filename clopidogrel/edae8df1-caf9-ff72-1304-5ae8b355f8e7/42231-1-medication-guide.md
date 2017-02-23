@@ -40,7 +40,7 @@ Do not stop taking clopidogrel tablets without talking to the doctor who prescri
 People who stop taking clopidogrel tablets too soon have a higher risk of having a heart attack or dying.
 If you must stop clopidogrel tablets because of bleeding, your risk of a heart attack may be higher.
 
-What is clopidogrel tablets?
+What are clopidogrel tablets?
 
 Clopidogrel bisulfate tablets are a prescription medicine used to treat people who have any of the following:
 
@@ -88,6 +88,8 @@ Tell your doctor about all the medicines you take, including prescription, non-p
 Clopidogrel tablets may affect the way other medicines work, and other medicines may affect how clopidogrel tablets work.
 See "What is the most important information I should know about clopidogrel tablets?"
 
+Clopidogrel may increase blood levels of other medicines such as repaglinide (Prandin®).
+
 Taking clopidogrel tablets with certain other medicines may increase your risk of bleeding.
 Especially tell your doctor if you take:
 
@@ -108,7 +110,6 @@ How should I take clopidogrel tablets?
 - Do not change your dose or stop taking clopidogrel tablets without talking to your doctor first.
   Stopping clopidogrel tablets may increase your risk of heart attack or stroke.
 - Take clopidogrel tablets with aspirin as instructed by your doctor.
-- You can take clopidogrel tablets with or without food.
 - If you miss a dose, take clopidogrel tablets as soon as you remember.
   If it is almost time for your next dose, skip the missed dose.
   Take the next dose at your regular time.
@@ -198,10 +199,10 @@ CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: September 2015
+Revised: November 2016
 
 Rev.
-20
+21
 
 Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 Prilosec® is a registered trademark of AstraZeneca.
