@@ -12,7 +12,7 @@ The most common reasons for discontinuation of therapy with valsartan were heada
 The adverse reactions that occurred in placebo-controlled clinical trials in at least 1% of patients treated with valsartan and at a higher incidence in valsartan (n=2,316) than placebo (n=888) patients included viral infection (3% vs. 2%), fatigue (2% vs. 1%), and abdominal pain (2% vs. 1%).
 Headache, dizziness, upper respiratory infection, cough, diarrhea, rhinitis, sinusitis, nausea, pharyngitis, edema, and arthralgia occurred at a more than 1% rate but at about the same incidence in placebo and valsartan patients.
 In trials in which valsartan was compared to an ACE inhibitor with or without placebo, the incidence of dry cough was significantly greater in the ACE-inhibitor group (7.9%) than in the groups who received valsartan (2.6%) or placebo (1.5%).
-In a 129-patient trial limited to patients who had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, hydrochlorothiazide, or lisinopril were 20%, 19%, and 69% respectively (p <0.001).
+In a 129-patient trial limited to patients who had had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, hydrochlorothiazide, or lisinopril were 20%, 19%, and 69% respectively (p <0.001).
 Dose-related orthostatic effects were seen in less than 1% of patients.
 An increase in the incidence of dizziness was observed in patients treated with valsartan 320 mg (8%) compared to 10 to 160 mg (2% to 4%).
 Valsartan has been used concomitantly with hydrochlorothiazide without evidence of clinically important adverse interactions.
@@ -28,7 +28,7 @@ Valsartan is not recommended for pediatric patients under 6 years of age.
 In a study (n=90) of pediatric patients (1 to 5 years), two deaths and three cases of on-treatment transaminase elevations were seen in the one-year open-label extension phase.
 These 5 events occurred in a study population in which patients frequently had significant co-morbidities.
 A causal relationship to valsartan has not been established.
-In a second study in which 75 children aged 1 to 6 years were randomized, no deaths and one case of marked liver transaminase elevations occurred during a 1 year open-label extension.
+In a second study of 6-months duration in 75 children aged 1 to 5 years, there were no deaths; one case of marked liver transaminase elevations occurred following 6 months of treatment.
 Heart Failure The adverse experience profile of valsartan in heart failure patients was consistent with the pharmacology of the drug and the health status of the patients.
 In the Valsartan Heart Failure Trial, comparing valsartan in total daily doses up to 320 mg (n=2,506) to placebo (n=2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
 The table shows adverse reactions in double-blind short-term heart failure trials, including the first 4 months of the Valsartan Heart Failure Trial, with an incidence of at least 2% that were more frequent in valsartan-treated patients than in placebo-treated patients.
