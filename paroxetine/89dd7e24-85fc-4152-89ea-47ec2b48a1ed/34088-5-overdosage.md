@@ -2,15 +2,15 @@
 
 ## Human Experience
 
-Since the introduction of paroxetine hydrochloride in the United States, 342 spontaneous cases of deliberate or accidental overdosage during paroxetine treatment have been reported worldwide (circa 1999).
+Since the introduction of paroxetine tablets in the United States, 342 spontaneous cases of deliberate or accidental overdosage during paroxetine treatment have been reported worldwide (circa 1999).
 These include overdoses with paroxetine alone and in combination with other substances.
 Of these, 48 cases were fatal and of the fatalities, 17 appeared to involve paroxetine alone.
 Eight fatal cases that documented the amount of paroxetine ingested were generally confounded by the ingestion of other drugs or alcohol or the presence of significant comorbid conditions.
-Of 145 nonfatal cases with known outcome, most recovered without sequelae.
+Of 145 non-fatal cases with known outcome, most recovered without sequelae.
 The largest known ingestion involved 2000 mg of paroxetine (33 times the maximum recommended daily dose) in a patient who recovered.
 
 Commonly reported adverse events associated with paroxetine overdosage include somnolence, coma, nausea, tremor, tachycardia, confusion, vomiting, and dizziness.
-Other notable signs and symptoms observed with overdoses involving paroxetine (alone or with other substances) include mydriasis, convulsions (including status epilepticus), ventricular dysrhythmias (including Torsades de pointes), hypertension, aggressive reactions, syncope, hypotension, stupor, bradycardia, dystonia, rhabdomyolysis, symptoms of hepatic dysfunction (including hepatic failure, hepatic necrosis, jaundice, hepatitis, and hepatic steatosis), serotonin syndrome, manic reactions, myoclonus, acute renal failure, and urinary retention.
+Other notable signs and symptoms observed with overdoses involving paroxetine (alone or with other substances) include mydriasis, convulsions (including status epilepticus), ventricular dysrhythmias (including torsades de pointes), hypertension, aggressive reactions, syncope, hypotension, stupor, bradycardia, dystonia, rhabdomyolysis, symptoms of hepatic dysfunction (including hepatic failure, hepatic necrosis, jaundice, hepatitis, and hepatic steatosis), serotonin syndrome, manic reactions, myoclonus, acute renal failure, and urinary retention.
 
 ## Overdosage Management
 
@@ -21,7 +21,7 @@ Ensure an adequate airway, oxygenation, and ventilation.
 Monitor cardiac rhythm and vital signs.
 General supportive and symptomatic measures are also recommended.
 Induction of emesis is not recommended.
-Due to the large volume of distribution of this drug, forced diuresis, dialysis, hemoperfusion or exchange transfusion are unlikely to be of benefit.
+Due to the large volume of distribution of this drug, forced diuresis, dialysis, hemoperfusion, or exchange transfusion are unlikely to be of benefit.
 
 A specific caution involves patients who are taking or have recently taken paroxetine who might ingest excessive quantities of a tricyclic antidepressant.
 In such a case, accumulation of the parent tricyclic and/or an active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation (see PRECAUTIONS: Drug Interactions: Drugs Metabolized by Cytochrome CYP2D6).

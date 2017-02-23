@@ -1,4 +1,6 @@
-# MEDICATION GUIDE PAROXETINE TABLETS, USP (pa rox′ e teen)
+# Medication Guide
+
+Paroxetine Tablets, USP (pa rox′ e teen)
 
 Read the Medication Guide that comes with paroxetine tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -12,15 +14,15 @@ Paroxetine tablets and other antidepressant medicines may cause serious side eff
 1.
 Suicidal thoughts or actions:
 
-- •Paroxetine tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers or young adults within the first few months of treatment or when the dose is changed.
+- •Paroxetine tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - •Watch for these changes and call your healthcare provider right away if you notice:
-  - •New or sudden changes in mood, behavior, actions, thoughts or feelings, especially if severe.
+  - •New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
   - •Pay particular attention to such changes when paroxetine tablets are started or when the dose is changed.
 
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
-Call your healthcare provider right away if you have any of the following symptoms or call 911 if an emergency, especially if they are new, worse or worry you:
+Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
 
 - •attempts to commit suicide
 - •acting on dangerous impulses
@@ -28,23 +30,23 @@ Call your healthcare provider right away if you have any of the following sympto
 - •thoughts about suicide or dying
 - •new or worse depression
 - •new or worse anxiety or panic attacks
-- •feeling agitated, restless, angry or irritable
+- •feeling agitated, restless, angry, or irritable
 - •trouble sleeping
 - •an increase in activity or talking more than what is normal for you
 - •other unusual changes in behavior or mood
 
-Call your healthcare provider right away if you have any of the following symptoms or call 911 if an emergency.
+Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
 Paroxetine tablets may be associated with these serious side effects:
 
 2.
 Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
-This condition can be life threatening and may include:
+This condition can be life-threatening and may include:
 
-- •agitation, hallucinations, coma or other changes in mental status
+- •agitation, hallucinations, coma, or other changes in mental status
 - •coordination problems or muscle twitching (overactive reflexes)
 - •racing heartbeat, high or low blood pressure
 - •sweating or fever
-- •nausea, vomiting or diarrhea
+- •nausea, vomiting, or diarrhea
 - •muscle rigidity
 
 3.
@@ -60,11 +62,11 @@ Visual problems
 Severe allergic reactions:
 
 - •trouble breathing
-- •swelling of the face, tongue, eyes or mouth
-- •rash, itchy welts (hives) or blisters, alone or with fever or joint pain
+- •swelling of the face, tongue, eyes, or mouth
+- •rash, itchy welts (hives), or blisters, alone or with fever or joint pain
 
 5.
-Abnormal bleeding: Paroxetine tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®*, Jantoven®*), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen) or aspirin.
+Abnormal bleeding: Paroxetine tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
 6.
 Seizures or convulsions
@@ -91,13 +93,12 @@ Symptoms may include:
 
 - •headache
 - •weakness or feeling unsteady
-- •confusion, problems concentrating or thinking or memory problems
+- •confusion, problems concentrating or thinking, or memory problems
 
 Do not stop paroxetine tablets without first talking to your healthcare provider.
-
 Stopping paroxetine tablets too quickly may cause serious symptoms including:
 
-- •anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
+- •anxiety, irritability, high or low mood, feeling restless, or changes in sleep habits
 - •headache, sweating, nausea, dizziness
 - •electric shock-like sensations, shaking, confusion
 
@@ -124,40 +125,40 @@ Do not take paroxetine tablets if you:
   See the end of this Medication Guide for a complete list of ingredients in paroxetine tablets.
 - •take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-- •Do not take an MAOI within 2 weeks of stopping paroxetine tablets unless directed to do so by your physician.
-- •Do not start paroxetine tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
-- •People who take paroxetine tablets close in time to an MAOI may have serious or even life threatening side effects.
-  Get medical help right away if you have any of these symptoms:
-  - •high fever
-  - •uncontrolled muscle spasms
-  - •stiff muscles
-  - •rapid changes in heart rate or blood pressure
-  - •confusion
-  - •loss of consciousness (pass out)
-- •take MELLARIL®* (thioridazine).
-  Do not take MELLARIL®* together with paroxetine tablets because this can cause serious heart rhythm problems or sudden death.
-- •take the antipsychotic medicine pimozide (ORAP®*) because this can cause serious heart problems.
+  - •Do not take an MAOI within 2 weeks of stopping paroxetine tablets unless directed to do so by your physician.
+  - •Do not start paroxetine tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
+  - •People who take paroxetine tablets close in time to an MAOI may have serious or even life-threatening side effects.
+    Get medical help right away if you have any of these symptoms:
+    - •high fever
+    - •uncontrolled muscle spasms
+    - •stiff muscles
+    - •rapid changes in heart rate or blood pressure
+    - •confusion
+    - •loss of consciousness (pass out)
+- •take MELLARIL® (thioridazine).
+  Do not take MELLARIL® together with paroxetine tablets because this can cause serious heart rhythm problems or sudden death.
+- •take the antipsychotic medicine pimozide (ORAP®) because this can cause serious heart problems.
 
 What should I tell my healthcare provider before taking paroxetine tablets?
 Ask if you are not sure.
 
 Before starting paroxetine tablets, tell your healthcare provider if you:
 
-- •are pregnant, may be pregnant or plan to become pregnant.
+- •are pregnant, may be pregnant, or plan to become pregnant.
   There is a possibility that paroxetine tablets may harm your unborn baby, including an increased risk of birth defects, particularly heart defects.
   Other risks may include a serious condition in which there is not enough oxygen in the baby’s blood.
   Your baby may also have certain other symptoms shortly after birth.
   Premature births have also been reported in some women who used paroxetine tablets during pregnancy.
-- •are breast-feeding.
-  Paroxetine passes into your milk.
+- •are breastfeeding.
+  Paroxetine hydrochloride passes into your milk.
   Talk to your healthcare provider about the best way to feed your baby while taking paroxetine tablets.
   - •triptans used to treat migraine headache
-  - •other antidepressants (SSRIs, SNRIs, tricyclics or lithium) or antipsychotics
-  - •drugs that affect serotonin, such as lithium, tramadol, tryptophan, St. John’s wort
+  - •other antidepressants (SSRIs, SNRIs, tricyclics, or lithium) or antipsychotics
+  - •drugs that affect serotonin, such as lithium, tramadol, tryptophan, St. John’s Wort
   - •certain drugs used to treat irregular heart beats
   - •certain drugs used to treat schizophrenia
   - •certain drugs used to treat HIV infection
-  - •certain drugs that affect the blood, such as warfarin, aspirin and ibuprofen
+  - •certain drugs that affect the blood, such as warfarin, aspirin, and ibuprofen
   - •certain drugs used to treat epilepsy
   - •atomoxetine
   - •cimetidine
@@ -177,8 +178,8 @@ Before starting paroxetine tablets, tell your healthcare provider if you:
 - •have or had bleeding problems
 - •have glaucoma (high pressure in the eye)
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
-Paroxetine tablets and some medicines may interact with each other, may not work as well or may cause serious side effects.
+Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Paroxetine tablets and some medicines may interact with each other, may not work as well, or may cause serious side effects.
 
 Your healthcare provider or pharmacist can tell you if it is safe to take paroxetine tablets with your other medicines.
 Do not start or stop any medicine while taking paroxetine tablets without talking to your healthcare provider first.
@@ -191,14 +192,14 @@ How should I take paroxetine tablets?
 - •If you miss a dose of paroxetine tablets, take the missed dose as soon as you remember.
   If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
   Do not take two doses of paroxetine tablets at the same time.
-- •If you take too much paroxetine, call your healthcare provider or poison control center right away or get emergency treatment.
+- •If you take too many paroxetine tablets, call your healthcare provider or poison control center right away, or get emergency treatment.
 - •Do not stop taking paroxetine tablets suddenly without talking to your doctor (unless you have symptoms of a severe allergic reaction).
   If you need to stop taking paroxetine tablets, your healthcare provider can tell you how to safely stop taking it.
 
 What should I avoid while taking paroxetine tablets?
 
-Paroxetine tablets can cause sleepiness or may affect your ability to make decisions, think clearly or react quickly.
-You should not drive, operate heavy machinery or do other dangerous activities until you know how paroxetine tablets affect you.
+Paroxetine tablets can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
+You should not drive, operate heavy machinery, or do other dangerous activities until you know how paroxetine tablets affect you.
 Do not drink alcohol while using paroxetine tablets.
 
 What are possible side effects of paroxetine tablets?
@@ -219,7 +220,7 @@ You may report side effects to the FDA at 1-800-FDA-1088 or 1-800-332-1088.
 
 How should I store paroxetine tablets?
 
-- •Store paroxetine tablets at 20° to 25°C (68° to 77°F).
+- •Store paroxetine tablets at room temperature between 20° to 25°C (68° to 77°F).
 - •Keep paroxetine tablets away from light.
 - •Keep bottle of paroxetine tablets closed tightly.
 
@@ -236,22 +237,18 @@ This Medication Guide summarizes the most important information about paroxetine
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about paroxetine tablets that is written for healthcare professionals.
 
-For more information about paroxetine tablets call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
+For more information about paroxetine tablets, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients in paroxetine tablets?
 
-Active ingredient: paroxetine hydrochloride, USP
+Active ingredient: paroxetine hydrochloride
 
-Inactive ingredients in tablets: dibasic calcium phosphate dihydrate, FD&C Blue No. 1 Aluminum Lake, hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium lauryl sulfate, sodium starch glycolate, titanium dioxide and triacetin.
+Inactive ingredients in tablets: dibasic calcium phosphate dihydrate, FD&C Blue No. 1 Aluminum Lake, hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium lauryl sulfate, sodium starch glycolate (potato), titanium dioxide and triacetin.
 
-*Brand names listed are trademarks of their respective owners and are not trademarks of Mylan Pharmaceuticals Inc.
+The brands listed are trademarks of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
-
-2848/1
-
-REVISED MARCH 2016 ALP:PXTT:R8mh/ALP:MG:PXTT:R1mh
+Revised: 1/2017 PXTT:R11mh

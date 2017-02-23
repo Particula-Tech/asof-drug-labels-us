@@ -18,7 +18,7 @@ Nonlinearity in pharmacokinetics is observed with increasing doses.
 Paroxetine metabolism is mediated in part by CYP2D6, and the metabolites are primarily excreted in the urine and to some extent in the feces.
 Pharmacokinetic behavior of paroxetine has not been evaluated in subjects who are deficient in CYP2D6 (poor metabolizers).
 
-In a meta analysis of paroxetine from four studies done in healthy volunteers following multiple dosing of 20 mg/day to 40 mg/day, males did not exhibit a significantly lower Cmax or AUC than females.
+In a meta-analysis of paroxetine from 4 studies done in healthy volunteers following multiple dosing of 20 mg/day to 40 mg/day, males did not exhibit a significantly lower Cmax or AUC than females.
 
 ## Absorption and Distribution
 
@@ -26,10 +26,10 @@ Paroxetine is equally bioavailable from the oral suspension and tablet.
 
 Paroxetine hydrochloride is completely absorbed after oral dosing of a solution of the hydrochloride salt.
 In a study in which normal male subjects (n = 15) received 30 mg tablets daily for 30 days, steady-state paroxetine concentrations were achieved by approximately 10 days for most subjects, although it may take substantially longer in an occasional patient.
-At steady-state, mean values of Cmax, Tmax, Cmin, and T1/2were 61.7 ng/mL (CV 45%), 5.2 hr. (CV 10%), 30.7 ng/mL (CV 67%), and 21 hours (CV 32%), respectively.
+At steady-state, mean values of Cmax, Tmax, Cmin, and T1/2 were 61.7 ng/mL (CV 45%), 5.2 hr. (CV 10%), 30.7 ng/mL (CV 67%), and 21.0 hours (CV 32%), respectively.
 The steady-state Cmax and Cmin values were about 6 and 14 times what would be predicted from single-dose studies.
 Steady-state drug exposure based on AUC0-24 was about 8 times greater than would have been predicted from single-dose data in these subjects.
-The excess accumulation is a consequence of the fact that one of the enzymes that metabolizes paroxetine is readily saturable.
+The excess accumulation is a consequence of the fact that 1 of the enzymes that metabolizes paroxetine is readily saturable.
 
 The effects of food on the bioavailability of paroxetine were studied in subjects administered a single dose with and without food.
 AUC was only slightly increased (6%) when drug was administered with food but the Cmax was 29% greater, while the time to reach peak plasma concentration decreased from 6.4 hours post-dosing to 4.9 hours.
@@ -54,8 +54,8 @@ The metabolism of paroxetine is accomplished in part by CYP2D6.
 Saturation of this enzyme at clinical doses appears to account for the nonlinearity of paroxetine kinetics with increasing dose and increasing duration of treatment.
 The role of this enzyme in paroxetine metabolism also suggests potential drug-drug interactions (see PRECAUTIONS: Drug Interactions: Drugs Metabolized by CYP2D6).
 
-Approximately 64% of a 30 mg oral solution dose of paroxetine was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10 day post-dosing period.
-About 36% was excreted in the feces (probably via the bile), mostly as metabolites and less than 1% as the parent compound over the 10 day post-dosing period.
+Approximately 64% of a 30 mg oral solution dose of paroxetine was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10-day post-dosing period.
+About 36% was excreted in the feces (probably via the bile), mostly as metabolites and less than 1% as the parent compound over the 10-day post-dosing period.
 
 ## Other Clinical Pharmacology Information
 
@@ -65,7 +65,7 @@ About 36% was excreted in the feces (probably via the bile), mostly as metabolit
 
 Increased plasma concentrations of paroxetine occur in subjects with renal and hepatic impairment.
 The mean plasma concentrations in patients with creatinine clearance below 30 mL/min were approximately 4 times greater than seen in normal volunteers.
-Patients with creatinine clearance of 30 to 60 mL/min and patients with hepatic functional impairment had about a 2-fold increase in plasma concentrations (AUC, Cmax).
+Patients with creatinine clearance of 30 mL/min to 60 mL/min and patients with hepatic functional impairment had about a 2-fold increase in plasma concentrations (AUC, Cmax).
 
 The initial dosage should therefore be reduced in patients with severe renal or hepatic impairment, and upward titration, if necessary, should be at increased intervals (see DOSAGE AND ADMINISTRATION).
 
@@ -83,16 +83,16 @@ Clinical drug interaction studies have been performed with substrates of CYP2D6 
 
 ### Major Depressive Disorder
 
-The efficacy of paroxetine hydrochloride as a treatment for major depressive disorder has been established in six placebo-controlled studies of patients with major depressive disorder (aged 18 to 73).
-In these studies, paroxetine hydrochloride was shown to be significantly more effective than placebo in treating major depressive disorder by at least two of the following measures: Hamilton Depression Rating Scale (HDRS), the Hamilton depressed mood item, and the Clinical Global Impression (CGI)-Severity of Illness.
-Paroxetine hydrochloride was significantly better than placebo in improvement of the HDRS sub-factor scores, including the depressed mood item, sleep disturbance factor, and anxiety factor.
+The efficacy of paroxetine tablets as a treatment for major depressive disorder has been established in 6 placebo-controlled studies of patients with major depressive disorder (aged 18 to 73).
+In these studies, paroxetine tablets were shown to be significantly more effective than placebo in treating major depressive disorder by at least 2 of the following measures: Hamilton Depression Rating Scale (HDRS), the Hamilton depressed mood item, and the Clinical Global Impression (CGI)-Severity of Illness.
+Paroxetine tablets were significantly better than placebo in improvement of the HDRS sub-factor scores, including the depressed mood item, sleep disturbance factor, and anxiety factor.
 
-A study of outpatients with major depressive disorder who had responded to paroxetine hydrochloride (HDRS total score <8) during an initial 8-week open-treatment phase and were then randomized to continuation on paroxetine hydrochloride or placebo for one year demonstrated a significantly lower relapse rate for patients taking paroxetine hydrochloride (15%) compared to those on placebo (39%).
+A study of outpatients with major depressive disorder who had responded to paroxetine tablets (HDRS total score < 8) during an initial 8-week open-treatment phase and were then randomized to continuation on paroxetine tablets or placebo for 1 year demonstrated a significantly lower relapse rate for patients taking paroxetine tablets (15%) compared to those on placebo (39%).
 Effectiveness was similar for male and female patients.
 
 ### Obsessive Compulsive Disorder
 
-The effectiveness of paroxetine hydrochloride in the treatment of obsessive compulsive disorder (OCD) was demonstrated in two 12-week multicenter placebo-controlled studies of adult outpatients (Studies 1 and 2).
+The effectiveness of paroxetine tablets in the treatment of obsessive compulsive disorder (OCD) was demonstrated in two 12-week multicenter placebo-controlled studies of adult outpatients (Studies 1 and 2).
 Patients in all studies had moderate to severe OCD (DSM-IIIR) with mean baseline ratings on the Yale Brown Obsessive Compulsive Scale (YBOCS) total score ranging from 23 to 26.
 Study 1, a dose-range finding study where patients were treated with fixed doses of 20 mg, 40 mg, or 60 mg of paroxetine/day demonstrated that daily doses of paroxetine 40 mg and 60 mg are effective in the treatment of OCD.
 Patients receiving doses of 40 mg and 60 mg paroxetine experienced a mean reduction of approximately 6 and 7 points, respectively, on the YBOCS total score which was significantly greater than the approximate 4-point reduction at 20 mg and a 3-point reduction in the placebo-treated patients.
@@ -103,7 +103,7 @@ The following table provides the outcome classification by treatment group on Gl
 
 Outcome Classification (%) on CGI-Global Improvement Item for Completers in Study 1
 
-| Outcome Classification | Placebo (n = 74) | Paroxetine Hydrochloride 20 mg (n = 75) | Paroxetine Hydrochloride 40 mg (n = 66) | Paroxetine Hydrochloride 60 mg (n = 66) |
+| Outcome Classification | Placebo (n = 74) | Paroxetine Tablets 20 mg (n = 75) | Paroxetine Tablets 40 mg (n = 66) | Paroxetine Tablets 60 mg (n = 66) |
 | --- | --- | --- | --- | --- |
 | Worse | 14% | 7% | 7% | 3% |
 | No Change | 44% | 35% | 22% | 19% |
@@ -113,17 +113,17 @@ Outcome Classification (%) on CGI-Global Improvement Item for Completers in Stud
 
 Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or gender.
 
-The long-term maintenance effects of paroxetine hydrochloride in OCD were demonstrated in a long-term extension to Study 1.
-Patients who were responders on paroxetine during the 3-month double-blind phase and a 6-month extension on open-label paroxetine (20 to 60 mg/day) were randomized to either paroxetine or placebo in a 6-month double-blind relapse prevention phase.
+The long-term maintenance effects of paroxetine tablets in OCD were demonstrated in a long-term extension to Study 1.
+Patients who were responders on paroxetine during the 3-month double-blind phase and a 6-month extension on open-label paroxetine (20 mg/day to 60 mg/day) were randomized to either paroxetine or placebo in a 6-month double-blind relapse prevention phase.
 Patients randomized to paroxetine were significantly less likely to relapse than comparably treated patients who were randomized to placebo.
 
 ### Panic Disorder
 
-The effectiveness of paroxetine hydrochloride in the treatment of panic disorder was demonstrated in three 10- to 12-week multicenter, placebo-controlled studies of adult outpatients (Studies 1 to 3).
+The effectiveness of paroxetine tablets in the treatment of panic disorder was demonstrated in three 10- to 12-week multicenter, placebo-controlled studies of adult outpatients (Studies 1 to 3).
 Patients in all studies had panic disorder (DSM-IIIR), with or without agoraphobia.
-In these studies, paroxetine hydrochloride was shown to be significantly more effective than placebo in treating panic disorder by at least 2 out of 3 measures of panic attack frequency and on the Clinical Global Impression Severity of Illness score.
+In these studies, paroxetine tablets were shown to be significantly more effective than placebo in treating panic disorder by at least 2 out of 3 measures of panic attack frequency and on the Clinical Global Impression Severity of Illness score.
 
-Study 1 was a 10-week dose-range finding study; patients were treated with fixed paroxetine doses of 10, 20, or 40 mg/day or placebo.
+Study 1 was a 10-week dose-range finding study; patients were treated with fixed paroxetine doses of 10 mg/day, 20 mg/day, or 40 mg/day or placebo.
 A significant difference from placebo was observed only for the 40 mg/day group.
 At endpoint, 76% of patients receiving paroxetine 40 mg/day were free of panic attacks, compared to 44% of placebo-treated patients.
 
@@ -135,23 +135,23 @@ At endpoint, 33% of the paroxetine-treated patients showed a reduction to 0 or 1
 
 In both Studies 2 and 3, the mean paroxetine dose for completers at endpoint was approximately 40 mg/day of paroxetine.
 
-Long-term maintenance effects of paroxetine hydrochloride in panic disorder were demonstrated in an extension to Study 1.
-Patients who were responders during the 10-week double-blind phase and during a 3-month double-blind extension phase were randomized to either paroxetine (10, 20, or 40 mg/day) or placebo in a 3-month double-blind relapse prevention phase.
+Long-term maintenance effects of paroxetine tablets in panic disorder were demonstrated in an extension to Study 1.
+Patients who were responders during the 10-week double-blind phase and during a 3-month double-blind extension phase were randomized to either paroxetine (10 mg/day, 20 mg/day, or 40 mg/day) or placebo in a 3-month double-blind relapse prevention phase.
 Patients randomized to paroxetine were significantly less likely to relapse than comparably treated patients who were randomized to placebo.
 
 Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or gender.
 
 ### Social Anxiety Disorder
 
-The effectiveness of paroxetine hydrochloride in the treatment of social anxiety disorder was demonstrated in three 12-week, multicenter, placebo-controlled studies (Studies 1, 2, and 3) of adult outpatients with social anxiety disorder (DSM-IV).
-In these studies, the effectiveness of paroxetine hydrochloride compared to placebo was evaluated on the basis of (1) the proportion of responders, as defined by a Clinical Global Impression (CGI) Improvement score of 1 (very much improved) or 2 (much improved), and (2) change from baseline in the Liebowitz Social Anxiety Scale (LSAS).
+The effectiveness of paroxetine tablets in the treatment of social anxiety disorder was demonstrated in three 12-week, multicenter, placebo-controlled studies (Studies 1, 2, and 3) of adult outpatients with social anxiety disorder (DSM-IV).
+In these studies, the effectiveness of paroxetine tablets compared to placebo was evaluated on the basis of (1) the proportion of responders, as defined by a Clinical Global Impression (CGI) Improvement score of 1 (very much improved) or 2 (much improved), and (2) change from baseline in the Liebowitz Social Anxiety Scale (LSAS).
 
 Studies 1 and 2 were flexible-dose studies comparing paroxetine (20 mg to 50 mg daily) and placebo.
 Paroxetine demonstrated statistically significant superiority over placebo on both the CGI Improvement responder criterion and the Liebowitz Social Anxiety Scale (LSAS).
 In Study 1, for patients who completed to week 12, 69% of paroxetine-treated patients compared to 29% of placebo-treated patients were CGI Improvement responders.
 In Study 2, CGI Improvement responders were 77% and 42% for the paroxetine- and placebo-treated patients, respectively.
 
-Study 3 was a 12-week study comparing fixed paroxetine doses of 20, 40, or 60 mg/day with placebo.
+Study 3 was a 12-week study comparing fixed paroxetine doses of 20 mg/day, 40 mg/day, or 60 mg/day with placebo.
 Paroxetine 20 mg was demonstrated to be significantly superior to placebo on both the LSAS Total Score and the CGI Improvement responder criterion; there were trends for superiority over placebo for the 40 mg and 60 mg/day dose groups.
 There was no indication in this study of any additional benefit for doses higher than 20 mg/day.
 
@@ -159,20 +159,20 @@ Subgroup analyses generally did not indicate differences in treatment outcomes a
 
 ### Generalized Anxiety Disorder
 
-The effectiveness of paroxetine hydrochloride in the treatment of Generalized Anxiety Disorder (GAD) was demonstrated in two 8-week, multicenter, placebo-controlled studies (Studies 1 and 2) of adult outpatients with Generalized Anxiety Disorder (DSM-IV).
+The effectiveness of paroxetine tablets in the treatment of Generalized Anxiety Disorder (GAD) was demonstrated in two 8-week, multicenter, placebo-controlled studies (Studies 1 and 2) of adult outpatients with Generalized Anxiety Disorder (DSM-IV).
 
 Study 1 was an 8-week study comparing fixed paroxetine doses of 20 mg or 40 mg/day with placebo.
-Doses of 20 mg or 40 mg of paroxetine hydrochloride were both demonstrated to be significantly superior to placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score.
+Doses of 20 mg or 40 mg of paroxetine tablets were both demonstrated to be significantly superior to placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score.
 There was not sufficient evidence in this study to suggest a greater benefit for the 40 mg/day dose compared to the 20 mg/day dose.
 
 Study 2 was a flexible-dose study comparing paroxetine (20 mg to 50 mg daily) and placebo.
-Paroxetine hydrochloride demonstrated statistically significant superiority over placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score.
-A third study, also flexible-dose comparing paroxetine (20 mg to 50 mg daily), did not demonstrate statistically significant superiority of paroxetine hydrochloride over placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score, the primary outcome.
+Paroxetine tablets demonstrated statistically significant superiority over placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score.
+A third study, also flexible-dose comparing paroxetine (20 mg to 50 mg daily), did not demonstrate statistically significant superiority of paroxetine tablets over placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score, the primary outcome.
 
 Subgroup analyses did not indicate differences in treatment outcomes as a function of race or gender.
 There were insufficient elderly patients to conduct subgroup analyses on the basis of age.
 
-In a longer-term trial, 566 patients meeting DSM-IV criteria for Generalized Anxiety Disorder, who had responded during a single-blind, 8-week acute treatment phase with 20 to 50 mg/day of paroxetine hydrochloride, were randomized to continuation of paroxetine hydrochloride at their same dose, or to placebo, for up to 24 weeks of observation for relapse.
+In a longer-term trial, 566 patients meeting DSM-IV criteria for Generalized Anxiety Disorder, who had responded during a single-blind, 8-week acute treatment phase with 20 mg/day to 50 mg/day of paroxetine tablets, were randomized to continuation of paroxetine tablets at their same dose, or to placebo, for up to 24 weeks of observation for relapse.
 Response during the single-blind phase was defined by having a decrease of ≥ 2 points compared to baseline on the CGI-Severity of Illness scale, to a score of ≤ 3.
 Relapse during the double-blind phase was defined as an increase of ≥ 2 points compared to baseline on the CGI-Severity of Illness scale to a score of ≥ 4, or withdrawal due to lack of efficacy.
-Patients receiving continued paroxetine hydrochloride experienced a significantly lower relapse rate over the subsequent 24 weeks compared to those receiving placebo.
+Patients receiving continued paroxetine tablets experienced a significantly lower relapse rate over the subsequent 24 weeks compared to those receiving placebo.

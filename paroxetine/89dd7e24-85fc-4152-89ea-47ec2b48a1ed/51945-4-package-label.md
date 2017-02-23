@@ -21,15 +21,11 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-Made in Australia
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-2833/1
-
-RALP7001H2
+RM7001H5
 
 PRINCIPAL DISPLAY PANEL - 20 mg
 
@@ -54,15 +50,11 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-Made in Australia
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-2835/1
-
-RALP7002H2
+RM7002H5
 
 PRINCIPAL DISPLAY PANEL - 30 mg
 
@@ -87,15 +79,11 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-Made in Australia
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-2837/1
-
-RALP7003H2
+RM7003H5
 
 PRINCIPAL DISPLAY PANEL - 40 mg
 
@@ -120,12 +108,8 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-Made in Australia
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-2839/1
-
-RALP7004H2
+RM7004H5

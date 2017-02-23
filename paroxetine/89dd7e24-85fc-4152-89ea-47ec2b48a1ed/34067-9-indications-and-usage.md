@@ -2,15 +2,15 @@
 
 ## Major Depressive Disorder
 
-Paroxetine tablets, USP are indicated for the treatment of major depressive disorder.
+Paroxetine tablets are indicated for the treatment of major depressive disorder.
 
 The efficacy of paroxetine tablets in the treatment of a major depressive episode was established in 6-week controlled trials of outpatients whose diagnoses corresponded most closely to the DSM-III category of major depressive disorder (see CLINICAL PHARMACOLOGY: Clinical Trials).
-A major depressive episode implies a prominent and relatively persistent depressed or dysphoric mood that usually interferes with daily functioning (nearly every day for at least 2 weeks); it should include at least four of the following eight symptoms: Change in appetite, change in sleep, psychomotor agitation or retardation, loss of interest in usual activities or decrease in sexual drive, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, and a suicide attempt or suicidal ideation.
+A major depressive episode implies a prominent and relatively persistent depressed or dysphoric mood that usually interferes with daily functioning (nearly every day for at least 2 weeks); it should include at least 4 of the following 8 symptoms: Change in appetite, change in sleep, psychomotor agitation or retardation, loss of interest in usual activities or decrease in sexual drive, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, and a suicide attempt or suicidal ideation.
 
 The effects of paroxetine tablets in hospitalized depressed patients have not been adequately studied.
 
-The efficacy of paroxetine tablets in maintaining a response in major depressive disorder for up to one year was demonstrated in a placebo-controlled trial (see CLINICAL PHARMACOLOGY: Clinical Trials).
-Nevertheless, the physician who elects to use paroxetine tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
+The efficacy of paroxetine tablets in maintaining a response in major depressive disorder for up to 1 year was demonstrated in a placebo-controlled trial (see CLINICAL PHARMACOLOGY: Clinical Trials).
+Nevertheless, the physician who elects to use paroxetine tablets for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
 
 ## Obsessive Compulsive Disorder
 
@@ -23,7 +23,7 @@ Obsessive compulsive disorder is characterized by recurrent and persistent ideas
 
 Long-term maintenance of efficacy was demonstrated in a 6-month relapse prevention trial.
 In this trial, patients assigned to paroxetine showed a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
-Nevertheless, the physician who elects to use paroxetine tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
+Nevertheless, the physician who elects to use paroxetine tablets for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
 
 ## Panic Disorder
 
@@ -36,12 +36,12 @@ Panic disorder (DSM-IV) is characterized by recurrent unexpected panic attacks, 
 
 Long-term maintenance of efficacy was demonstrated in a 3-month relapse prevention trial.
 In this trial, patients with panic disorder assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
-Nevertheless, the physician who prescribes paroxetine tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
+Nevertheless, the physician who prescribes paroxetine tablets for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
 
 ## Social Anxiety Disorder
 
 Paroxetine tablets are indicated for the treatment of social anxiety disorder, also known as social phobia, as defined in DSM-IV (300.23).
-Social anxiety disorder is characterized by a marked and persistent fear of one or more social or performance situations in which the person is exposed to unfamiliar people or to possible scrutiny by others.
+Social anxiety disorder is characterized by a marked and persistent fear of 1 or more social or performance situations in which the person is exposed to unfamiliar people or to possible scrutiny by others.
 Exposure to the feared situation almost invariably provokes anxiety, which may approach the intensity of a panic attack.
 The feared situations are avoided or endured with intense anxiety or distress.
 The avoidance, anxious anticipation, or distress in the feared situation(s) interferes significantly with the person's normal routine, occupational or academic functioning, or social activities or relationships, or there is marked distress about having the phobias.
@@ -50,8 +50,8 @@ Lesser degrees of performance anxiety or shyness generally do not require psycho
 The efficacy of paroxetine tablets was established in three 12-week trials in adult patients with social anxiety disorder (DSM-IV).
 Paroxetine tablets have not been studied in children or adolescents with social phobia (see CLINICAL PHARMACOLOGY: Clinical Trials).
 
-The effectiveness of paroxetine tablets in long-term treatment of social anxiety disorder, i.e., for more than 12 weeks, has not been systematically evaluated in adequate and well controlled trials.
-Therefore, the physician who elects to prescribe paroxetine tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
+The effectiveness of paroxetine tablets in long-term treatment of social anxiety disorder, i.e., for more than 12 weeks, has not been systematically evaluated in adequate and well-controlled trials.
+Therefore, the physician who elects to prescribe paroxetine tablets for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
 
 ## Generalized Anxiety Disorder
 
@@ -62,7 +62,7 @@ The efficacy of paroxetine tablets in the treatment of GAD was established in tw
 Paroxetine tablets have not been studied in children or adolescents with Generalized Anxiety Disorder (see CLINICAL PHARMACOLOGY: Clinical Trials).
 
 Generalized Anxiety Disorder (DSM-IV) is characterized by excessive anxiety and worry (apprehensive expectation) that is persistent for at least 6 months and which the person finds difficult to control.
-It must be associated with at least three of the following six symptoms: Restlessness or feeling keyed up or on edge, being easily fatigued, difficulty concentrating or mind going blank, irritability, muscle tension, sleep disturbance.
+It must be associated with at least 3 of the following 6 symptoms: Restlessness or feeling keyed up or on edge, being easily fatigued, difficulty concentrating or mind going blank, irritability, muscle tension, sleep disturbance.
 
 The efficacy of paroxetine tablets in maintaining a response in patients with Generalized Anxiety Disorder, who responded during an 8-week acute treatment phase while taking paroxetine tablets and were then observed for relapse during a period of up to 24 weeks, was demonstrated in a placebo-controlled trial (see CLINICAL PHARMACOLOGY: Clinical Trials).
-Nevertheless, the physician who elects to use paroxetine tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
+Nevertheless, the physician who elects to use paroxetine tablets for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
