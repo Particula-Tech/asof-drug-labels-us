@@ -11,4 +11,4 @@ Oral Solution in 5 oz polypropylene bottles (NDC 50474-921-05)
 
 Storage:
 
-Store at 20 to25°C (68 to77°F); excursions permitted to 15 to30°C (59 to86°F) [see USP Controlled Room Temperature].
+Store at 20 to 25°C (68 to 77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].

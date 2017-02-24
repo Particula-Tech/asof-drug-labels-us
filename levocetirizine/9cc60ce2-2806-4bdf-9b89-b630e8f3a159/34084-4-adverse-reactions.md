@@ -4,11 +4,11 @@ Use of XYZAL has been associated with somnolence, fatigue, asthenia, and urinary
 
 ## 6.1 Clinical Trials Experience
 
-The safety data described below reflect exposure to XYZAL in 2708 patients with seasonal or perennial allergic rhinitis or chronic idiopathic urticaria in 14 controlled clinical trials of 1 week to 6 months duration.
+The safety data described below reflect exposure to XYZAL in 2708 patients with allergic rhinitis or chronic idiopathic urticaria in 14 controlled clinical trials of 1 week to 6 months duration.
 
 The short-term (exposure up to 6 weeks) safety data for adults and adolescents are based upon eight clinical trials in which 1896 patients (825 males and 1071 females aged 12 years and older) were treated with XYZAL 2.5, 5, or 10 mg once daily in the evening.
 
-The short-term safety data from pediatric patients are based upon two clinical trials in which 243 children with seasonal or perennial allergic rhinitis (162 males and 81 females 6 to 12 years of age) were treated with XYZAL 5 mg once daily for 4 to 6 weeks, one clinical trial in which 114 children (65 males and 49 females 1 to 5 years of age) with allergic rhinitis or chronic idiopathic urticaria were treated with XYZAL 1.25 mg twice daily for 2 weeks, and one clinical trial in which 45 children (28 males and 17 females 6 to 11 months of age) with symptoms of allergic rhinitis or chronic urticaria were treated with XYZAL 1.25 mg once daily for 2 weeks.
+The short-term safety data from pediatric patients are based upon two clinical trials in which 243 children with allergic rhinitis (162 males and 81 females 6 to 12 years of age) were treated with XYZAL 5 mg once daily for 4 to 6 weeks, one clinical trial in which 114 children (65 males and 49 females 1 to 5 years of age) with allergic rhinitis or chronic idiopathic urticaria were treated with XYZAL 1.25 mg twice daily for 2 weeks, and one clinical trial in which 45 children (28 males and 17 females 6 to 11 months of age) with symptoms of allergic rhinitis or chronic urticaria were treated with XYZAL 1.25 mg once daily for 2 weeks.
 
 The long-term (exposure of 4 or 6 months) safety data in adults and adolescents are based upon two clinical trials in which 428 patients (190 males and 238 females) with allergic rhinitis were exposed to treatment with XYZAL 5 mg once daily.
 Long term safety data are also available from an 18-month trial in 255 XYZAL-treated subjects 12-24 months of age.

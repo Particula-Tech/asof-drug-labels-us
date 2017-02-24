@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Levocetirizine, the active enantiomer of cetirizine, is an anti-histamine; its principal effects are mediated via selective inhibition of H1 receptors.
+Levocetirizine, the active enantiomer of cetirizine, is an antihistamine; its principal effects are mediated via selective inhibition of H1 receptors.
 The antihistaminic activity of levocetirizine has been documented in a variety of animal and human models.
 In vitro binding studies revealed that levocetirizine has an affinity for the human H1-receptor 2-fold higher than that of cetirizine (Ki = 3 nmol/L vs. 6 nmol/L, respectively).
 The clinical relevance of this finding is unknown.

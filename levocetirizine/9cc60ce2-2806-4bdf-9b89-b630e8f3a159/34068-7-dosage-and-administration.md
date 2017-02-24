@@ -3,22 +3,31 @@
 XYZAL is available as 2.5 mg/5 mL (0.5 mg/mL) oral solution and as 5 mg breakable (scored) tablets, allowing for the administration of 2.5 mg, if needed.
 XYZAL can be taken without regard to food consumption.
 
-## 2.1 Adults and Children 12 Years of Age and Older
+## 2.1 Perennial Allergic Rhinitis
 
-The recommended dose of XYZAL is 5 mg (1 tablet or 2 teaspoons [10 mL] oral solution) once daily in the evening.
-Some patients may be adequately controlled by 2.5 mg (1/2 tablet or 1 teaspoon [5 mL] oral solution) once daily in the evening.
-
-## 2.2 Children 6 to 11 Years of Age
-
-The recommended dose of XYZAL is 2.5 mg (1/2 tablet or 1 teaspoon [5 mL] oral solution) once daily in the evening.
-The 2.5 mg dose should not be exceeded because the systemic exposure with 5 mg is approximately twice that of adults [see Clinical Pharmacology (12.3)].
-
-## 2.3 Children 6 months to 5 Years of Age
+Children 6 months to 2 Years of Age
 
 The recommended initial dose of XYZAL is 1.25 mg (1/2 teaspoon oral solution) [2.5mL] once daily in the evening.
 The 1.25 mg once daily dose should not be exceeded based on comparable exposure to adults receiving 5 mg [see Clinical Pharmacology (12.3)].
 
-## 2.4 Dose Adjustment for Renal and Hepatic Impairment
+## 2.2 Chronic Idiopathic Urticaria
+
+Adults and Children 12 Years of Age and Older
+
+The recommended dose of XYZAL is 5 mg (1 tablet or 2 teaspoons [10 mL] oral solution) once daily in the evening.
+Some patients may be adequately controlled by 2.5 mg (1/2 tablet or 1 teaspoon [5 mL] oral solution) once daily in the evening.
+
+Children 6 to 11 Years of Age
+
+The recommended dose of XYZAL is 2.5 mg (1/2 tablet or 1 teaspoon [5 mL] oral solution) once daily in the evening.
+The 2.5 mg dose should not be exceeded because the systemic exposure with 5 mg is approximately twice that of adults [see Clinical Pharmacology (12.3)].
+
+Children 6 months to 5 Years of Age
+
+The recommended initial dose of XYZAL is 1.25 mg (1/2 teaspoon oral solution) [2.5mL] once daily in the evening.
+The 1.25 mg once daily dose should not be exceeded based on comparable exposure to adults receiving 5 mg [see Clinical Pharmacology (12.3)].
+
+Dose Adjustment for Renal and Hepatic Impairment
 
 In adults and children 12 years of age and older with:
 
