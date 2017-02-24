@@ -8,9 +8,9 @@ This patient resumed LATUDA treatment for an additional two months.
 
 ## 10.2 Management of Overdosage
 
-Consult a Certified Poison Control Center for up-to-date guidance and advice.
-There is no specific antidote to LATUDA, therefore, appropriate supportive measures should be instituted and close medical supervision and monitoring should continue until the patient recovers.
-Consider the possibility of multiple-drug overdose.
+No specific antidotes for LATUDA are known.
+In managing overdose, provide supportive care, including close medical supervision and monitoring, and consider the possibility of multiple drug involvement.
+If an overdose occurs, consult a Certified Poison Control Center (1-800-222-1222 or www.poison.org).
 
 Cardiovascular monitoring should commence immediately, including continuous electrocardiographic monitoring for possible arrhythmias.
 If antiarrhythmic therapy is administered, disopyramide, procainamide, and quinidine carry a theoretical hazard of additive QT-prolonging effects when administered in patients with an acute overdose of LATUDA.

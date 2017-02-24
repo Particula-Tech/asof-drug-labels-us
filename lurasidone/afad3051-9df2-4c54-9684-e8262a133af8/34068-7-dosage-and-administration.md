@@ -2,48 +2,60 @@
 
 ## 2.1 Schizophrenia
 
+Adults
+
 The recommended starting dose of LATUDA is 40 mg once daily.
 Initial dose titration is not required.
 LATUDA has been shown to be effective in a dose range of 40 mg per day to 160 mg per day [see Clinical Studies (14.1)].
 The maximum recommended dose is 160 mg per day.
 
+Adolescents
+
+The recommended starting dose of LATUDA is 40 mg once daily.
+Initial dose titration is not required.
+LATUDA has been shown to be effective in a dose range of 40 mg per day to 80 mg per day [see Clinical Studies (14.1)].
+The maximum recommended dose is 80 mg per day.
+
 ## 2.2 Depressive Episodes Associated with Bipolar I Disorder
 
-The recommended starting dose of LATUDA is 20 mg given once daily as monotherapy or as adjunctive therapy with lithium or valproate.
+The recommended starting dose of LATUDA in adults is 20 mg given once daily as monotherapy or as adjunctive therapy with lithium or valproate.
 Initial dose titration is not required.
 LATUDA has been shown to be effective in a dose range of 20 mg per day to 120 mg per day as monotherapy or as adjunctive therapy with lithium or valproate [see Clinical Studies (14.2)].
 The maximum recommended dose, as monotherapy or as adjunctive therapy with lithium or valproate, is 120 mg per day.
-In the monotherapy study, the higher dose range (80 mg to 120 mg per day) did not provide additional efficacy, on average, compared to the lower dose range (20 to 60 mg per day) [see Clinical Studies (14.2).
+In the monotherapy study, the higher dose range (80 mg to 120 mg per day) did not provide additional efficacy, on average, compared to the lower dose range (20 to 60 mg per day) [see Clinical Studies (14.2)].
 
-## 2.3 Administration Instructions
+The efficacy of LATUDA in the treatment of mania associated with bipolar disorder has not been established.
+
+## 2.3 Administration Information
 
 LATUDA should be taken with food (at least 350 calories).
 Administration with food substantially increases the absorption of LATUDA.
 Administration with food increases the AUC approximately 2-fold and increases the Cmax approximately 3-fold.
 In the clinical studies, LATUDA was administered with food [see Clinical Pharmacology (12.3)].
 
-## 2.4 Dose Modifications in Special Populations
+The effectiveness of LATUDA for longer-term use, that is, for more than 6 weeks, has not been established in controlled studies.
+Therefore, the physician who elects to use LATUDA for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient [see Dosage and Administration (2.1)].
 
-Renal Impairment
+## 2.4 Dose Modifications for Renal Impairment
 
 Dose adjustment is recommended in moderate (creatinine clearance: 30 to <50 mL/min) and severe renal impairment (creatinine clearance <30 mL/min) patients.
 The recommended starting dose is 20 mg per day.
 The dose in these patients should not exceed 80 mg per day [see Use in Specific Populations (8.6)].
 
-Hepatic Impairment
+## 2.5 Dose Modifications for Hepatic Impairment
 
 Dose adjustment is recommended in moderate (Child-Pugh Score = 7 to 9) and severe hepatic impairment (Child-Pugh Score = 10 to 15) patients.
 The recommended starting dose is 20 mg per day.
 The dose in moderate hepatic impairment patients should not exceed 80 mg per day and the dose in severe hepatic impairment patients should not exceed 40 mg/day [see Use in Specific Populations (8.6)].
 
-## 2.5 Dose Modifications Due to Drug Interactions
+## 2.6 Dose Modifications Due to Drug Interactions of CYP3A4 Inhibitors and CYP3A4 Inducers
 
 Concomitant Use with CYP3A4 Inhibitors
 
 LATUDA should not be used concomitantly with a strong CYP3A4 inhibitor (e.g., ketoconazole, clarithromycin, ritonavir, voriconazole, mibefradil, etc.) [see Contraindications (4)].
 
 If LATUDA is being prescribed and a moderate CYP3A4 inhibitor (e.g. diltiazem, atazanavir, erythromycin, fluconazole, verapamil etc.) is added to the therapy, the LATUDA dose should be reduced to half of the original dose level.
-Similarly, if a moderate CYP3A4 inhibitor is being prescribed and LATUDA is added to the therapy, the recommended starting dose of LATUDA is 20 mg per day, and the maximum recommended dose of LATUDA is 80 mg per day [see Contraindications (4); Drug Interactions (7.1)].
+Similarly, if a moderate CYP3A4 inhibitor is being prescribed and LATUDA is added to the therapy, the recommended starting dose of LATUDA is 20 mg per day, and the maximum recommended dose of LATUDA is 80 mg per day [see Contraindications (4), Drug Interactions (7.1)].
 
 Grapefruit and grapefruit juice should be avoided in patients taking LATUDA, since these may inhibit CYP3A4 and alter LATUDA concentrations [see Drug Interactions (7.1)].
 

@@ -1,9 +1,9 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 LATUDA tablets are white to off-white, round (20 mg or 40 mg), white to off-white, oblong (60 mg), pale green, oval (80 mg) or white to off-white, oval (120 mg) and identified with strength-specific one-sided debossing, “L20” (20 mg), “L40” (40 mg), “L80” (80 mg) or “L120” (120 mg).
-Tablets are supplied in the following strengths and package configurations (Table 26):
+Tablets are supplied in the following strengths and package configurations (Table 33).
 
-Table 26: Package Configuration for LATUDA Tablets
+Table 33: Package Configuration for LATUDA Tablets
 
 | Tablet Strength | Package Configuration | NDC Code |
 | --- | --- | --- |

@@ -10,54 +10,38 @@ Observational studies suggest that, similar to atypical antipsychotic drugs, tre
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 LATUDA is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
-## 5.2 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
+## 5.2 Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients
 
-Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
-Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
-There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
+In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients, and over 4,400 pediatric patients, the incidence of suicidal thoughts and behaviors in pediatric and young adult patients was greater in antidepressant-treated patients than in placebo-treated patients.
+The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 2.
 
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
-Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
+No suicides occurred in any of the pediatric studies.
+There were suicides in the adult studies, but the number was not sufficient to reach any conclusion about antidepressant drug effect on suicide.
 
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
-The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
-There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
-There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk of differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 2.
+Table 2: Risk Differences of the Number of Cases of Suicidal Thoughts or Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
 
-Table 2
-
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Patients of Suicidal Thoughts or Behaviors per 1000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
-| <18 | 14 additional cases |
-| 18-24 | 5 additional cases |
+| <18 | 14 additional patients |
+| 18-24 | 5 additional patients |
 |  | Decreases Compared to Placebo |
-| 25-64 | 1 fewer case |
-| ≥65 | 6 fewer cases |
+| 25-64 | 1 fewer patient |
+| ≥65 | 6 fewer patients |
 
-No suicides occurred in any of the pediatric trials.
-There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
+LATUDA is not approved for use in pediatric patients with depression.
 
-It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
-However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
+It is unknown whether the risk of suicidal thoughts and behaviors in pediatric and young adult patients extends to longer-term use, i.e., beyond four months.
+However, there is substantial evidence from placebo-controlled maintenance studies in adults with MDD that antidepressants delay the recurrence of depression.
 
-All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
-
-The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
-Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
-
-Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidal thoughts and behaviors, and to report such symptoms immediately to health care providers.
-Such monitoring should include daily observation by families and caregivers.
-Prescriptions for LATUDA should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
+Monitor all antidepressant-treated patients for clinical worsening and emergence of suicidal thoughts and behaviors, especially during the initial few months of drug therapy and at times of dosage changes.
+Counsel family members or caregivers of patients to monitor for changes in behavior and to alert the healthcare provider.
+Consider changing the therapeutic regimen, including possibly discontinuing LATUDA, in patients whose depression is persistently worse, or who are experiencing emergent suicidal thoughts or behaviors.
 
 ## 5.3 Cerebrovascular Adverse Reactions, Including Stroke in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks), including fatalities, compared to placebo-treated subjects.
-LATUDA is not approved for the treatment of patients with dementia-related psychosis [see also Boxed Warning and Warnings and Precautions (5.1)].
+LATUDA is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.1)].
 
 ## 5.4 Neuroleptic Malignant Syndrome
 
@@ -119,9 +103,11 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 
 Schizophrenia
 
+Adults
+
 Pooled data from short-term, placebo-controlled schizophrenia studies are presented in Table 3.
 
-Table 3: Change in Fasting Glucose in Schizophrenia Studies
+Table 3: Change in Fasting Glucose in Adult Schizophrenia Studies
 
 |  | n=680 | n=71 | n=478 | n=508 | n=283 | n=113 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -134,13 +120,18 @@ Table 3: Change in Fasting Glucose in Schizophrenia Studies
 
 In the uncontrolled, longer-term schizophrenia studies (primarily open-label extension studies), LATUDA was associated with a mean change in glucose of +1.8 mg/dL at week 24 (n=355), +0.8 mg/dL at week 36 (n=299) and +2.3 mg/dL at week 52 (n=307).
 
+Adolescents
+
+In studies of adolescents and adults with schizophrenia, changes in fasting glucose were similar.
+In the short-term, placebo-controlled study of adolescents, fasting serum glucose mean values were -+1.3 for placebo (n=95), +0.1 for 40mg (n=90), and +1.8 for 80mg (n=92).
+
 Bipolar Depression
 
 Monotherapy
 
-Data from the short-term, flexible-dose, placebo-controlled monotherapy bipolar depression study are presented in Table 4.
+Data from the adult short-term, flexible-dose, placebo-controlled monotherapy bipolar depression study are presented in Table 4.
 
-Table 4: Change in Fasting Glucose in the Monotherapy Bipolar Depression Study
+Table 4: Change in Fasting Glucose in the Adult Monotherapy Bipolar Depression Study
 
 | Mean Change from Baseline (mg/dL) |  |  |  |
 | --- | --- | --- | --- |
@@ -156,9 +147,9 @@ In the uncontrolled, open-label, longer-term bipolar depression study, patients 
 
 Adjunctive Therapy with Lithium or Valproate
 
-Data from the short-term, flexible-dosed, placebo-controlled adjunctive therapy bipolar depression studies are presented in Table 5.
+Data from the adult short-term, flexible-dosed, placebo-controlled adjunctive therapy bipolar depression studies are presented in Table 5.
 
-Table 5: Change in Fasting Glucose in the Adjunctive Therapy Bipolar Depression Studies
+Table 5: Change in Fasting Glucose in the Adult Adjunctive Therapy Bipolar Depression Studies
 
 | Mean Change from Baseline (mg/dL) |  |  |
 | --- | --- | --- |
@@ -178,9 +169,11 @@ Undesirable alterations in lipids have been observed in patients treated with at
 
 Schizophrenia
 
+Adults
+
 Pooled data from short-term, placebo-controlled schizophrenia studies are presented in Table 6.
 
-Table 6: Change in Fasting Lipids in Schizophrenia Studies
+Table 6: Change in Fasting Lipids in Adult Schizophrenia Studies
 
 |  | n=660 | n=71 | n=466 | n=499 | n=268 | n=115 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -195,13 +188,17 @@ Table 6: Change in Fasting Lipids in Schizophrenia Studies
 
 In the uncontrolled, longer-term schizophrenia studies (primarily open-label extension studies), LATUDA was associated with a mean change in total cholesterol and triglycerides of -3.8 (n=356) and -15.1 (n=357) mg/dL at week 24, -3.1 (n=303) and -4.8 (n=303) mg/dL at week 36 and -2.5 (n=307) and -6.9 (n=307) mg/dL at week 52, respectively.
 
+Adolescents
+
+In the adolescent short-term, placebo-controlled study, fasting serum cholesterol mean values were -9.6 for placebo (n=95), -4.4 for 40mg (n=89), and +1.6 for 80mg (n=92), and fasting serum triglyceride mean values were +0.1 for placebo (n=95), -0.6 for 40mg (n=89), and +8.5 for 80mg (n=92).
+
 Bipolar Depression
 
 Monotherapy
 
-Data from the short-term, flexible-dosed, placebo-controlled, monotherapy bipolar depression study are presented in Table 7.
+Data from the adult short-term, flexible-dosed, placebo-controlled, monotherapy bipolar depression study are presented in Table 7.
 
-Table 7: Change in Fasting Lipids in the Monotherapy Bipolar Depression Study
+Table 7: Change in Fasting Lipids in the Adult Monotherapy Bipolar Depression Study
 
 | Mean Change from Baseline (mg/dL) |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -219,9 +216,9 @@ In the uncontrolled, open-label, longer-term bipolar depression study, patients 
 
 Adjunctive Therapy with Lithium or Valproate
 
-Data from the short-term, flexible-dosed, placebo-controlled, adjunctive therapy bipolar depression studies are presented in Table 8.
+Data from the adult short-term, flexible-dosed, placebo-controlled, adjunctive therapy bipolar depression studies are presented in Table 8.
 
-Table 8: Change in Fasting Lipids in the Adjunctive Therapy Bipolar Depression Studies
+Table 8: Change in Fasting Lipids in the Adult Adjunctive Therapy Bipolar Depression Studies
 
 | Mean Change from Baseline (mg/dL) |  |  |
 | --- | --- | --- |
@@ -244,12 +241,14 @@ Clinical monitoring of weight is recommended.
 
 Schizophrenia
 
+Adults
+
 Pooled data from short-term, placebo-controlled schizophrenia studies are presented in Table 9.
 The mean weight gain was +0.43 kg for LATUDA-treated patients compared to -0.02 kg for placebo-treated patients.
 Change in weight from baseline for olanzapine was +4.15 kg and for quetiapine extended-release was +2.09 kg in Studies 3 and 5 [see Clinical Studies (14.1)], respectively.
-The proportion of patients with a ≥ 7% increase in body weight (at Endpoint) was 4.8% for LATUDA-treated patients versus 3.3% for placebo-treated patients.
+The proportion of patients with a ≥7% increase in body weight (at Endpoint) was 4.8% for LATUDA-treated patients versus 3.3% for placebo-treated patients.
 
-Table 9: Mean Change in Weight (kg) from Baseline in Schizophrenia Studies
+Table 9: Mean Change in Weight (kg) from Baseline in Adult Schizophrenia Studies
 
 |  |  |  | LATUDA |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -258,15 +257,28 @@ Table 9: Mean Change in Weight (kg) from Baseline in Schizophrenia Studies
 
 In the uncontrolled, longer-term schizophrenia studies (primarily open-label extension studies), LATUDA was associated with a mean change in weight of -0.69 kg at week 24 (n=755), -0.59 kg at week 36 (n=443) and -0.73 kg at week 52 (n=377).
 
+Adolescents
+
+Data from the short-term, placebo-controlled adolescent schizophrenia study are presented in Table 10.
+The mean weight gain was +0.5 kg for LATUDA-treated patients compared to +0.2 kg for placebo-treated patients.
+The proportion of patients with a ≥7% increase in body weight (at Endpoint) was 3.3% for LATUDA-treated patients versus 4.5% for placebo-treated patients.
+
+Table 10: Mean Change in Weight (kg) from Baseline in the Adolescent Schizophrenia Study
+
+| 40 mg/day (n=109) | 80 mg/day (n=104) |  |  |
+| --- | --- | --- | --- |
+|  | Placebo (n=111) | LATUDA |  |
+| All Patients | +0.2 | +0.3 | +0.7 |
+
 Bipolar Depression
 
 Monotherapy
 
-Data from the short-term, flexible-dosed, placebo-controlled monotherapy bipolar depression study are presented in Table 10.
+Data from the adult short-term, flexible-dosed, placebo-controlled monotherapy bipolar depression study are presented in Table 11.
 The mean weight gain was +0.29 kg for LATUDA-treated patients compared to -0.04 kg for placebo-treated patients.
-The proportion of patients with a ≥ 7% increase in body weight (at Endpoint) was 2.4% for LATUDA-treated patients versus 0.7% for placebo-treated patients.
+The proportion of patients with a ≥7% increase in body weight (at Endpoint) was 2.4% for LATUDA-treated patients versus 0.7% for placebo-treated patients.
 
-Table 10: Mean Change in Weight (kg) from Baseline in the Monotherapy Bipolar Depression Study
+Table 11: Mean Change in Weight (kg) from Baseline in the Adult Monotherapy Bipolar Depression Study
 
 |  | Placebo (n=151) | 20 to 60 mg/day (n=143) | 80 to 120 mg/day (n=147) |  |
 | --- | --- | --- | --- | --- |
@@ -278,11 +290,11 @@ In the uncontrolled, open-label, longer-term bipolar depression study, patients 
 
 Adjunctive Therapy with Lithium or Valproate
 
-Data from the short-term, flexible-dosed, placebo-controlled adjunctive therapy bipolar depression studies are presented in Table 11.
+Data from the adult short-term, flexible-dosed, placebo-controlled adjunctive therapy bipolar depression studies are presented in Table 12.
 The mean weight gain was +0.11 kg for LATUDA-treated patients compared to +0.16 kg for placebo-treated patients.
-The proportion of patients with a ≥ 7% increase in body weight (at Endpoint) was 3.1% for LATUDA-treated patients versus 0.3% for placebo-treated patients.
+The proportion of patients with a ≥7% increase in body weight (at Endpoint) was 3.1% for LATUDA-treated patients versus 0.3% for placebo-treated patients.
 
-Table 11: Mean Change in Weight (kg) from Baseline in the Adjunctive Therapy Bipolar Depression Studies
+Table 12: Mean Change in Weight (kg) from Baseline in the Adult Adjunctive Therapy Bipolar Depression Studies
 
 |  | Placebo (n=307) | 20 to 120 mg/day (n=327) |
 | --- | --- | --- |
@@ -302,16 +314,18 @@ Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with pr
 Long-standing hyperprolactinemia, when associated with hypogonadism, may lead to decreased bone density in both female and male patients [see Adverse Reactions (6)].
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
-As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in a LATUDA carcinogenicity study conducted in rats and mice [see Nonclinical Toxicology (13)].
+As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in a carcinogenicity study conducted with lurasidone in rats and mice [see Nonclinical Toxicology (13)].
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
 
 Schizophrenia
 
+Adults
+
 In short-term, placebo-controlled schizophrenia studies, the median change from baseline to endpoint in prolactin levels for LATUDA-treated patients was +0.4 ng/mL and was -1.9 ng/mL in the placebo-treated patients.
 The median change from baseline to endpoint for males was +0.5 ng/mL and for females was -0.2 ng/mL.
-Median changes for prolactin by dose are shown in Table 12.
+Median changes for prolactin by dose are shown in Table 13.
 
-Table 12: Median Change in Prolactin (ng/mL) from Baseline in Schizophrenia Studies
+Table 13: Median Change in Prolactin (ng/mL) from Baseline in Adult Schizophrenia Studies
 
 |  |  |  | LATUDA |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -320,21 +334,39 @@ Table 12: Median Change in Prolactin (ng/mL) from Baseline in Schizophrenia Stud
 | Females | -5.1 (n=200) | -0.7 (n=19) | -4.0 (n=149) | -0.2 (n=150) | +6.7 (n=70) | +7.1 (n=36) |
 | Males | -1.3 (n=472) | -1.2 (n=51) | -0.7 (n=327) | -0.2 (n=345) | +3.1 (n=214) | +2.4 (n=79) |
 
-The proportion of patients with prolactin elevations ≥ 5× upper limit of normal (ULN) was 2.8% for LATUDA-treated patients versus 1.0% for placebo-treated patients.
-The proportion of female patients with prolactin elevations ≥ 5x ULN was 5.7% for LATUDA-treated patients versus 2.0% for placebo-treated female patients.
-The proportion of male patients with prolactin elevations ≥ 5x ULN was 1.6% versus 0.6% for placebo-treated male patients.
+The proportion of patients with prolactin elevations ≥5× upper limit of normal (ULN) was 2.8% for LATUDA-treated patients versus 1.0% for placebo-treated patients.
+The proportion of female patients with prolactin elevations ≥5x ULN was 5.7% for LATUDA-treated patients versus 2.0% for placebo-treated female patients.
+The proportion of male patients with prolactin elevations ≥5x ULN was 1.6% versus 0.6% for placebo-treated male patients.
 
 In the uncontrolled longer-term schizophrenia studies (primarily open-label extension studies), LATUDA was associated with a median change in prolactin of -0.9 ng/mL at week 24 (n=357), -5.3ng/mL at week 36 (n=190) and -2.2 ng/mL at week 52 (n=307).
+
+Adolescents
+
+In the short-term, placebo-controlled adolescent schizophrenia study, the median change from baseline to endpoint in prolactin levels for LATUDA-treated patients was +1.1 ng/mL and was +0.1 ng/mL for placebo-treated patients.
+For LATUDA-treated patients, the median change from baseline to endpoint for males was +1.0 ng/mL and for females was +2.6 ng/mL.
+Median changes for prolactin by dose are shown in Table 14.
+
+Table 14: Median Change in Prolactin (ng/mL) from Baseline in the Adolescent Schizophrenia Study
+
+|  | Placebo | LATUDA 40 mg/day | LATUDA 80 mg/day |
+| --- | --- | --- | --- |
+| All Patients | +0.10 (n=103) | +0.75 (n=102) | +1.20 (n=99) |
+| Females | +0.70 (n=39) | +0.60 (n=42) | +4.40 (n=33) |
+| Males | 0.00 (n=64) | +0.75 (n=60) | +1.00 (n=66) |
+
+The proportion of patients with prolactin elevations ≥5x ULN was 0.5% for LATUDA-treated patients versus 1.0% for placebo-treated patients.
+The proportion of female patients with prolactin elevations 5x ULN was 1.3% for LATUDA-treated patients versus 0% for placebo-treated female patients.
+The proportion of male patients with prolactin elevations 5x ULN was 0% versus 1.6% for placebo-treated male patients.
 
 Bipolar Depression
 
 Monotherapy
 
-The median change from baseline to endpoint in prolactin levels, in the short-term, flexible-dosed, placebo-controlled monotherapy bipolar depression study, was +1.7 ng/mL and +3.5 ng/mL with LATUDA 20 to 60 mg/day and 80 to 120 mg/day, respectively compared to +0.3 ng/mL with placebo-treated patients.
+The median change from baseline to endpoint in prolactin levels, in the adult short-term, flexible-dosed, placebo-controlled monotherapy bipolar depression study, was +1.7 ng/mL and +3.5 ng/mL with LATUDA 20 to 60 mg/day and 80 to 120 mg/day, respectively compared to +0.3 ng/mL with placebo-treated patients.
 The median change from baseline to endpoint for males was +1.5 ng/mL and for females was +3.1 ng/mL.
-Median changes for prolactin by dose range are shown in Table 13.
+Median changes for prolactin by dose range are shown in Table 15.
 
-Table 13: Median Change in Prolactin (ng/mL) from Baseline in the Monotherapy Bipolar Depression Study
+Table 15: Median Change in Prolactin (ng/mL) from Baseline in the Adult Monotherapy Bipolar Depression Study
 
 |  | Placebo | 20 to 60 mg/day | 80 to 120 mg/day |  |
 | --- | --- | --- | --- | --- |
@@ -344,19 +376,19 @@ Table 13: Median Change in Prolactin (ng/mL) from Baseline in the Monotherapy Bi
 | Males | +0.4 (n=65) | +1.2 (n=62) |  | +1.9 (n=56) |
 | Patients were randomized to flexibly dosed LATUDA 20 to 60 mg/day, LATUDA 80 to 120 mg/day, or placebo |  |  |  |  |
 
-The proportion of patients with prolactin elevations ≥ 5x upper limit of normal (ULN) was 0.4% for LATUDA-treated patients versus 0.0% for placebo-treated patients.
-The proportion of female patients with prolactin elevations ≥ 5x ULN was 0.6% for LATUDA-treated patients versus 0% for placebo-treated female patients.
-The proportion of male patients with prolactin elevations ≥ 5x ULN was 0% versus 0% for placebo-treated male patients.
+The proportion of patients with prolactin elevations ≥5x upper limit of normal (ULN) was 0.4% for LATUDA-treated patients versus 0.0% for placebo-treated patients.
+The proportion of female patients with prolactin elevations ≥5x ULN was 0.6% for LATUDA-treated patients versus 0% for placebo-treated female patients.
+The proportion of male patients with prolactin elevations ≥5x ULN was 0% versus 0% for placebo-treated male patients.
 
 In the uncontrolled, open-label, longer-term bipolar depression study, patients who were treated with LATUDA as monotherapy in the short-term and continued in the longer-term study, had a median change in prolactin of -1.15 ng/mL at week 24 (n=130).
 
 Adjunctive Therapy with Lithium or Valproate
 
-The median change from baseline to endpoint in prolactin levels, in the short-term, flexible-dosed, placebo-controlled adjunctive therapy bipolar depression studies was +2.8 ng/mL with LATUDA 20 to 120 mg/day compared to 0.0 ng/mL with placebo-treated patients.
+The median change from baseline to endpoint in prolactin levels, in the adult short-term, flexible-dosed, placebo-controlled adjunctive therapy bipolar depression studies was +2.8 ng/mL with LATUDA 20 to 120 mg/day compared to 0.0 ng/mL with placebo-treated patients.
 The median change from baseline to endpoint for males was +2.4 ng/mL and for females was +3.2 ng/mL.
-Median changes for prolactin across the dose range are shown in Table 14.
+Median changes for prolactin across the dose range are shown in Table 16.
 
-Table 14: Median Change in Prolactin (ng/mL) from Baseline in the Adjunctive Therapy Bipolar Depression Studies
+Table 16: Median Change in Prolactin (ng/mL) from Baseline in the Adult Adjunctive Therapy Bipolar Depression Studies
 
 |  | Placebo | 20 to 120 mg/day |
 | --- | --- | --- |
@@ -366,9 +398,9 @@ Table 14: Median Change in Prolactin (ng/mL) from Baseline in the Adjunctive The
 | Males | -0.1 (n=145) | +2.4 (n=159) |
 | Patients were randomized to flexibly dosed LATUDA 20 to 120 mg/day or placebo as adjunctive therapy with lithium or valproate. |  |  |
 
-The proportion of patients with prolactin elevations ≥ 5x upper limit of normal (ULN) was 0.0% for LATUDA-treated patients versus 0.0% for placebo-treated patients.
-The proportion of female patients with prolactin elevations ≥ 5x ULN was 0% for LATUDA-treated patients versus 0% for placebo-treated female patients.
-The proportion of male patients with prolactin elevations ≥ 5x ULN was 0% versus 0% for placebo-treated male patients.
+The proportion of patients with prolactin elevations ≥5x upper limit of normal (ULN) was 0.0% for LATUDA-treated patients versus 0.0% for placebo-treated patients.
+The proportion of female patients with prolactin elevations ≥5x ULN was 0% for LATUDA-treated patients versus 0% for placebo-treated female patients.
+The proportion of male patients with prolactin elevations ≥5x ULN was 0% versus 0% for placebo-treated male patients.
 
 In the uncontrolled, open-label, longer-term bipolar depression study, patients who were treated with LATUDA, as adjunctive therapy with either lithium or valproate, in the short-term and continued in the longer-term study, had a median change in prolactin of -2.9 ng/mL at week 24 (n=88).
 
@@ -391,25 +423,34 @@ Generally, these risks are greatest at the beginning of treatment and during dos
 Patients at increased risk of these adverse reactions or at increased risk of developing complications from hypotension include those with dehydration, hypovolemia, treatment with antihypertensive medication, history of cardiovascular disease (e.g., heart failure, myocardial infarction, ischemia, or conduction abnormalities), history of cerebrovascular disease, as well as patients who are antipsychotic-naïve.
 In such patients, consider using a lower starting dose and slower titration, and monitor orthostatic vital signs.
 
-Orthostatic hypotension, as assessed by vital sign measurement, was defined by the following vital sign changes: ≥ 20 mm Hg decrease in systolic blood pressure and ≥ 10 bpm increase in pulse from sitting to standing or supine to standing position.
+Orthostatic hypotension, as assessed by vital sign measurement, was defined by the following vital sign changes: ≥ 20 mm Hg decrease in systolic blood pressure and ≥10 bpm increase in pulse from sitting to standing or supine to standing position.
 
 Schizophrenia
+
+Adults
 
 The incidence of orthostatic hypotension and syncope reported as adverse events from short-term, placebo-controlled schizophrenia studies was (LATUDA incidence, placebo incidence): orthostatic hypotension [0.3% (5/1508), 0.1% (1/708)] and syncope [0.1% (2/1508), 0% (0/708)].
 
 In short-term schizophrenia clinical studies, orthostatic hypotension, as assessed by vital signs, occurred with a frequency of 0.8% with LATUDA 40 mg, 2.1% with LATUDA 80 mg, 1.7% with LATUDA 120 mg and 0.8% with LATUDA 160 mg compared to 0.7% with placebo.
 
+Adolescents
+
+The incidence of orthostatic hypotension reported as adverse events from the short-term, placebo-controlled adolescent schizophrenia study was 0.5% (1/214) in LATUDA-treated patients and 0% (0/112) in placebo-treated patients.
+No syncope event was reported.
+
+Orthostatic hypotension, as assessed by vital signs, occurred with a frequency of 0% with LATUDA 40 mg and 2.9% with LATUDA 80 mg, compared to 1.8% with placebo.
+
 Bipolar Depression
 
 Monotherapy
 
-In the short-term, flexible-dose, placebo-controlled monotherapy bipolar depression study, there were no reported adverse events of orthostatic hypotension and syncope.
+In the adult short-term, flexible-dose, placebo-controlled monotherapy bipolar depression study, there were no reported adverse events of orthostatic hypotension and syncope.
 
 Orthostatic hypotension, as assessed by vital signs, occurred with a frequency of 0.6% with LATUDA 20 to 60 mg and 0.6% with LATUDA 80 to 120 mg compared to 0% with placebo.
 
 Adjunctive Therapy with Lithium or Valproate
 
-In the short-term, flexible-dose, placebo-controlled adjunctive therapy bipolar depression therapy studies, there were no reported adverse events of orthostatic hypotension and syncope.
+In the adult short-term, flexible-dose, placebo-controlled adjunctive therapy bipolar depression therapy studies, there were no reported adverse events of orthostatic hypotension and syncope.
 Orthostatic hypotension, as assessed by vital signs, occurred with a frequency of 1.1% with LATUDA 20 to 120 mg compared to 0.9% with placebo.
 
 ## 5.10 Seizures
@@ -419,17 +460,17 @@ Conditions that lower the seizure threshold may be more prevalent in patients 65
 
 Schizophrenia
 
-In short-term, placebo-controlled schizophrenia studies, seizures/convulsions occurred in 0.1% (2/1508) of patients treated with LATUDA compared to 0.1% (1/708) placebo-treated patients.
+In adult short-term, placebo-controlled schizophrenia studies, seizures/convulsions occurred in 0.1% (2/1508) of patients treated with LATUDA compared to 0.1% (1/708) placebo-treated patients.
 
 Bipolar Depression
 
 Monotherapy
 
-In the short-term, flexible-dose, placebo-controlled monotherapy bipolar depression study, no patient experienced seizures/convulsions.
+In the adult short-term, flexible-dose, placebo-controlled monotherapy bipolar depression study, no patient experienced seizures/convulsions.
 
 Adjunctive Therapy with Lithium or Valproate
 
-In the short-term, flexible-dose, placebo-controlled adjunctive therapy bipolar depression studies, no patient experienced seizures/convulsions.
+In the adult short-term, flexible-dose, placebo-controlled adjunctive therapy bipolar depression studies, no patient experienced seizures/convulsions.
 
 ## 5.11 Potential for Cognitive and Motor Impairment
 
@@ -440,59 +481,43 @@ In clinical studies with LATUDA, somnolence included: hypersomnia, hypersomnolen
 
 Schizophrenia
 
+Adults
+
 In short-term, placebo-controlled schizophrenia studies, somnolence was reported by 17.0% (256/1508) of patients treated with LATUDA (15.5% LATUDA 20 mg, 15.6% LATUDA 40 mg, 15.2% LATUDA 80 mg, 26.5% LATUDA 120 mg and 8.3% LATUDA 160 mg/day) compared to 7.1% (50/708) of placebo patients.
+
+Adolescents
+
+In the short-term, placebo-controlled adolescent schizophrenia study, somnolence was reported by 14.5% (31/214) of patients treated with LATUDA (15.5% LATUDA 40 mg and 13.5% LATUDA 80 mg,/day) compared to 7.1% (8/112) of placebo patients.
 
 Bipolar Depression
 
 Monotherapy
 
-In the short-term, flexible-dosed, placebo-controlled monotherapy bipolar depression study, somnolence was reported by 7.3% (12/164) and 13.8% (23/167) with LATUDA 20 to 60 mg and 80 to120 mg, respectively compared to 6.5% (11/168) of placebo patients.
+In the adult short-term, flexible-dosed, placebo-controlled monotherapy bipolar depression study, somnolence was reported by 7.3% (12/164) and 13.8% (23/167) with LATUDA 20 to 60 mg and 80 to120 mg, respectively compared to 6.5% (11/168) of placebo patients.
 
 Adjunctive Therapy with Lithium or Valproate
 
-In the short-term, flexible-dosed, placebo-controlled adjunctive therapy bipolar depression studies, somnolence was reported by 11.4% (41/360) of patients treated with LATUDA 20-120 mg compared to 5.1% (17/334) of placebo patients.
+In the adult short-term, flexible-dosed, placebo-controlled adjunctive therapy bipolar depression studies, somnolence was reported by 11.4% (41/360) of patients treated with LATUDA 20-120 mg compared to 5.1% (17/334) of placebo patients.
 
 ## 5.12 Body Temperature Dysregulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
-Appropriate care is advised when prescribing LATUDA for patients who will be experiencing conditions that may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration [see Patient Counseling Information (17.9)].
+Appropriate care is advised when prescribing LATUDA for patients who will be experiencing conditions that may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
 
-## 5.13 Suicide
-
-The possibility of a suicide attempt is inherent in psychotic illness and close supervision of high-risk patients should accompany drug therapy.
-Prescriptions for LATUDA should be written for the smallest quantity of tablets consistent with good patient management in order to reduce the risk of overdose.
-
-Schizophrenia
-
-In short-term, placebo-controlled schizophrenia studies, the incidence of treatment-emergent suicidal ideation was 0.4% (6/1508) for LATUDA-treated patients compared to 0.8% (6/708) on placebo.
-No suicide attempts or completed suicides were reported in these studies.
-
-Bipolar Depression
-
-Monotherapy
-
-In the short-term, flexible-dose, placebo-controlled monotherapy bipolar depression study, the incidence of treatment-emergent suicidal ideation was 0.0% (0/331) with LATUDA-treated patients compared to 0.0% (0/168) with placebo-treated patients.
-No suicide attempts or completed suicides were reported in this study.
-
-Adjunctive Therapy with Lithium or Valproate
-
-In the short-term, flexible-dose, placebo-controlled adjunctive therapy bipolar depression studies, the incidence of treatment-emergent suicidal ideation was 1.1% (4/360) for LATUDA-treated patients compared to 0.3% (1/334) on placebo.
-No suicide attempts or completed suicides were reported in these studies.
-
-## 5.14 Activation of Mania/Hypomania
+## 5.13 Activation of Mania/Hypomania
 
 Antidepressant treatment can increase the risk of developing a manic or hypomanic episode, particularly in patients with bipolar disorder.
 Monitor patients for the emergence of such episodes.
 
 In the bipolar depression monotherapy and adjunctive therapy (with lithium or valproate) studies, less than 1% of subjects in the LATUDA and placebo groups developed manic or hypomanic episodes.
 
-## 5.15 Dysphagia
+## 5.14 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer's dementia.
 LATUDA and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 
-## 5.16 Neurological Adverse Reactions in Patients with Parkinson's Disease or Dementia with Lewy Bodies
+## 5.15 Neurological Adverse Reactions in Patients with Parkinson's Disease or Dementia with Lewy Bodies
 
 Patients with Parkinson's Disease or Dementia with Lewy Bodies are reported to have an increased sensitivity to antipsychotic medication.
 Manifestations of this increased sensitivity include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with the neuroleptic malignant syndrome.
