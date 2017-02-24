@@ -11,8 +11,8 @@ Advise the patient:
 
 Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080
 
-8-0632GW2 Rev.
-09/2015
+8-0632GW3 Rev.
+02/2017
 
 PATIENT INFORMATION
 
@@ -88,9 +88,9 @@ You can ask your pharmacist or healthcare provider for information about Flutica
 What are the ingredients in Fluticasone Propionate Ointment, 0.005%?
 Active ingredient: fluticasone propionate Inactive ingredients: base of mineral oil, microcrystalline wax, propylene glycol, and sorbitan sesquioleate
 
-Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080 8-0632GWPI Iss.
-09/2015
+Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080 8-0632GW3 Rev.
+02/2017
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: September 2015
+Revised: February 2017
