@@ -20,7 +20,7 @@ For doses in excess of 10 mg, Metoclopramide Injection, USP should be diluted in
 
 The preferred parenteral solution is Sodium Chloride Injection (normal saline), which when combined with Metoclopramide Injection, USP, can be stored frozen for up to 4 weeks.
 Metoclopramide Injection, USP is degraded when admixed and frozen with Dextrose-5% in Water.
-Metoclopramide Injection, USP diluted in Sodium Chloride Injection, Dextrose-5% in Water, Dextrose-5% in 0.45% Sodium Chloride, Ringer’s Injection, or Lactated Ringer’s Injection may be stored up to 48 hours (without freezing) after preparation if protected from light.
+Metoclopramide Injection, USP diluted in Sodium Chloride Injection, Dextrose-5% in Water, Dextrose-5% in 0.45% Sodium Chloride, Ringer's Injection, or Lactated Ringer's Injection may be stored up to 48 hours (without freezing) after preparation if protected from light.
 All dilutions may be stored unprotected from light under normal light conditions up to 24 hours after preparation.
 
 If acute dystonic reactions should occur, inject 50 mg Benadryl® (diphenhydramine hydrochloride) intramuscularly, and the symptoms usually will subside.

@@ -44,7 +44,7 @@ Therefore, metoclopramide should not be used for the symptomatic control of TD.
 
 Parkinsonian-like symptoms, including bradykinesia, tremor, cogwheel rigidity, or mask-like facies, have occurred, more commonly within the first 6 months after beginning treatment with metoclopramide, but occasionally after longer periods.
 These symptoms generally subside within 2 to 3 months following discontinuance of metoclopramide.
-Patients with pre-existing Parkinson’s disease should be given metoclopramide cautiously, if at all, since such patients may experience exacerbation of parkinsonian symptoms when taking metoclopramide.
+Patients with pre-existing Parkinson's disease should be given metoclopramide cautiously, if at all, since such patients may experience exacerbation of parkinsonian symptoms when taking metoclopramide.
 
 Depression
 
