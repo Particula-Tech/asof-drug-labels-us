@@ -112,8 +112,8 @@ Table 7: Summary of Primary Efficacy Results from Short-term Studies of VYVANSE 
 | VYVANSE (50 mg/day) | 43.3 (6.7) | -23.4 (1.6) | -17.2 (-21.5, -12.9) |  |  |
 | VYVANSE (70 mg/day) | 45.1(6.8) | -26.7 (1.5) | -20.5 (-24.8, -16.2) |  |  |
 | Placebo | 42.4 (7.1) | -6.2 (1.6) | -- |  |  |
-| Study 2 (6 - 12 years) | Average SKAMP-DS | VYVANSE (30, 50 or 70 mg/day) | -- Pre-dose SKAMP-DS was not collected. | 0.8 (0.1)LS Mean for SKAMP-DS (Study 2 and 3) or PERMP (Study 8) is post-dose average score over all sessions of the treatment day, rather than change from baseline. | -0.9 (-1.1, -0.7) |
-|  |  | Placebo | -- | 1.7 (0.1) | -- |
+| Study 2 (6 - 12 years) | Average SKAMP-DS | VYVANSE (30, 50 or 70 mg/day) | -- Pre-dose SKAMP-DS was not collected. | 0.8 (0.1) LS Mean for SKAMP-DS (Study 2 and 3) or PERMP (Study 8) is post-dose average score over all sessions of the treatment day, rather than change from baseline. | -0.9 (-1.1, -0.7) |
+| Placebo | -- | 1.7 (0.1) | -- |  |  |
 | Study 3 (6 - 12 years) | Average SKAMP-DS | VYVANSE (30, 50 or 70 mg/day) | 0.9 (1.0)Pre-dose SKAMP-DS (Study 3) or PERMP (Study 8) total score, averaged over both periods. | 0.7 (0.1) | -0.7 (-0.9, -0.6) |
 | Placebo | 0.7 (0.9) | 1.4 (0.1) | -- |  |  |
 | Study 4 (13 - 17 years) | ADHD-RS-IV | VYVANSE (30 mg/day) | 38.3 (6.7) | -18.3 (1.2) | -5.5 (-9.0, -2.0) |

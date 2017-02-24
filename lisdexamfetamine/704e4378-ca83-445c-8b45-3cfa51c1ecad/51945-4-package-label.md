@@ -81,3 +81,93 @@ Vyvanse® lisdexamfetamine dimesylate) capsules
 CII Rx only
 
 100 CAPSULES Shire
+
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
+
+NDC 59417-115-01
+
+Vyvanse® (lisdexamfetamine dimesylate) chewable tablets
+
+10 mg
+
+100 CHEWABLE TABLETS
+
+Chew tablets completely before swallowing.
+Do not swallow tablets whole.
+
+CII Rx only Shire
+
+# PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label
+
+NDC 59417-116-01
+
+Vyvanse® (lisdexamfetamine dimesylate) chewable tablets
+
+20 mg
+
+100 CHEWABLE TABLETS
+
+Chew tablets completely before swallowing.
+Do not swallow tablets whole.
+
+CII Rx only Shire
+
+# PRINCIPAL DISPLAY PANEL - 30 mg Tablet Bottle Label
+
+NDC 59417-117-01
+
+Vyvanse® (lisdexamfetamine dimesylate) chewable tablets
+
+30 mg
+
+100 CHEWABLE TABLETS
+
+Chew tablets completely before swallowing.
+Do not swallow tablets whole.
+
+CII Rx only Shire
+
+# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Bottle Label
+
+NDC 59417-118-01
+
+Vyvanse® (lisdexamfetamine dimesylate) chewable tablets
+
+40 mg
+
+100 CHEWABLE TABLETS
+
+Chew tablets completely before swallowing.
+Do not swallow tablets whole.
+
+CII Rx only Shire
+
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
+
+NDC 59417-119-01
+
+Vyvanse® (lisdexamfetamine dimesylate) chewable tablets
+
+50 mg
+
+100 CHEWABLE TABLETS
+
+Chew tablets completely before swallowing.
+Do not swallow tablets whole.
+
+CII Rx only Shire
+
+# PRINCIPAL DISPLAY PANEL - 60 mg Tablet Bottle Label
+
+NDC 59417-120-01
+
+Vyvanse® (lisdexamfetamine dimesylate) chewable tablets
+
+60 mg
+
+100 CHEWABLE TABLETS
+
+Chew tablets completely before swallowing.
+Do not swallow tablets whole.
+
+CII Rx only Shire

@@ -13,48 +13,69 @@ The parent drug, lisdexamfetamine, does not bind to the sites responsible for th
 
 ## 12.3 Pharmacokinetics
 
-Pharmacokinetic studies of dextroamphetamine after oral administration of lisdexamfetamine have been conducted in patients ages 6 to 12 years with ADHD and in healthy adult volunteers.
-
-In 18 patients ages 6 to 12 years with ADHD, the Tmax of dextroamphetamine was approximately 3.5 hours following single-dose oral administration of lisdexamfetamine dimesylate either 30 mg, 50 mg, or 70 mg after an 8-hour overnight fast.
-The Tmax of lisdexamfetamine was approximately 1 hour.
-Linear pharmacokinetics of dextroamphetamine after single-dose oral administration of lisdexamfetamine dimesylate was established over the dose range of 30 mg to 70 mg in children ages 6 to 12 years and over a range of 50 mg to 250 mg in adults.
+Pharmacokinetic studies after oral administration of lisdexamfetamine dimesylate have been conducted in healthy adult (capsule and chewable tablet formulations) and pediatric (6 to 12 years) patients with ADHD (capsule formulation).
+After single dose administration of lisdexamfetamine dimesylate, pharmacokinetics of dextroamphetamine was found to be linear between 30 mg and 70 mg in a pediatric study, and between 50 mg and 250 mg in an adult study.
 Dextroamphetamine pharmacokinetic parameters following administration of lisdexamfetamine dimesylate in adults exhibited low inter-subject (<25%) and intra-subject (<8%) variability.
-Safety and efficacy have not been studied above the maximum recommended dose of 70mg.
 
-There is no accumulation of dextroamphetamine AUC at steady state in healthy adults and no accumulation of lisdexamfetamine after once-daily dosing for 7 consecutive days.
+There is no accumulation of lisdexamfetamine and dextroamphetamine at steady state in healthy adults.
 
-Neither food (a high fat meal or yogurt) nor orange juice affect the observed AUC and Cmax of dextroamphetamine in healthy adults after single-dose oral administration of 70 mg of VYVANSE capsules.
-Food prolongs Tmax by approximately 1 hour (from 3.8 hrs at fasted state to 4.7 hrs after a high fat meal or to 4.2 hrs with yogurt).
-After an 8-hour fast, the AUCs for dextroamphetamine following oral administration of lisdexamfetamine dimesylate in solution and as intact capsules were equivalent.
+Safety and efficacy have not been studied above the maximum recommended dose of 70 mg.
 
-Weight/Dose normalized AUC and Cmax were 22% and 12% lower, respectively, in adult females than in males on day 7 following a 70 mg/day dose of lisdexamfetamine dimesylate for 7 days.
-Weight/Dose normalized AUC and Cmax values were the same in pediatric patients ages 6 to 12 years following single doses of 30-70 mg.
+Absorption
 
-Metabolism and Excretion
+Capsule formulation
 
-After oral administration, lisdexamfetamine is rapidly absorbed from the gastrointestinal tract.
-Lisdexamfetamine is converted to dextroamphetamine and l-lysine primarily in blood due to the hydrolytic activity of red blood cells.
-In vitro data demonstrated that red blood cells have a high capacity for metabolism of lisdexamfetamine; substantial hydrolysis occurred even at low hematocrit levels (33% of normal).
-Lisdexamfetamine is not metabolized by cytochrome P450 enzymes.
-Following the oral administration of a 70 mg dose of radiolabeled lisdexamfetamine dimesylate to 6 healthy subjects, approximately 96% of the oral dose radioactivity was recovered in the urine and only 0.3% recovered in the feces over a period of 120 hours.
-Of the radioactivity recovered in the urine, 42% of the dose was related to amphetamine, 25% to hippuric acid, and 2% to intact lisdexamfetamine.
+Following single-dose oral administration of VYVANSE capsule (30 mg, 50 mg, or 70 mg) in patients ages 6 to 12 years with ADHD under fasted conditions, Tmax of lisdexamfetamine and dextroamphetamine was reached at approximately 1 hour and 3.5 hour post dose, respectively.
+Weight/Dose normalized AUC and Cmax values were the same in pediatric patients ages 6 to 12 years as the adults following single doses of 30 mg to 70 mg VYVANSE capsule.
+
+Food effect on capsule formulation
+
+Neither food (a high fat meal or yogurt) nor orange juice affects the observed AUC and Cmax of dextroamphetamine in healthy adults after single-dose oral administration of 70 mg of VYVANSE capsules.
+Food prolongs Tmax by approximately 1 hour (from 3.8 hour at fasted state to 4.7 hour after a high fat meal or to 4.2 hour with yogurt).
+After an 8-hour fast, the AUC for dextroamphetamine following oral administration of lisdexamfetamine dimesylate in solution and as intact capsules were equivalent.
+
+Chewable Tablet formulation
+
+After a single dose administration of 60 mg VYVANSE chewable tablet in healthy subjects under fasted conditions, Tmax of lisdexamfetamine and dextroamphetamine was reached at approximately 1 hour and 4.4 hour post dose, respectively.
+Compared to 60 mg VYVANSE capsule, exposure (Cmax and AUC) to lisdexamfetamine was about 15% lower.
+The exposure (Cmax and AUCinf) of dextroamphetamine is similar between VYVANSE chewable tablet and VYVANSE capsule.
+
+Food effect on tablet formulation
+
+Administration of 60 mg VYVANSE chewable tablet with food (a high-fat meal) decreases the exposure (Cmax and AUCinf) of dextroamphetamine by about 5% to 7%, and prolongs mean Tmax by approximately 1 hour (from 3.9 hrs at fasted state to 4.9 hours).
+
+Elimination
+
 Plasma concentrations of unconverted lisdexamfetamine are low and transient, generally becoming non-quantifiable by 8 hours after administration.
 The plasma elimination half-life of lisdexamfetamine typically averaged less than one hour in studies of lisdexamfetamine dimesylate in volunteers.
+The mean plasma elimination half- life of dextroamphetamine was about 12 hours after oral administration of lisdexamfetamine dimesylate.
+
+Metabolism
+
+Lisdexamfetamine is converted to dextroamphetamine and l-lysine primarily in blood due to the hydrolytic activity of red blood cells after oral administration of lisdexamfetamine dimesylate.
+In vitro data demonstrated that red blood cells have a high capacity for metabolism of lisdexamfetamine; substantial hydrolysis occurred even at low hematocrit levels (33% of normal).
+Lisdexamfetamine is not metabolized by cytochrome P450 enzymes.
+
+Excretion
+
+Following oral administration of a 70 mg dose of radiolabeled lisdexamfetamine dimesylate to 6 healthy subjects, approximately 96% of the oral dose radioactivity was recovered in the urine and only 0.3% recovered in the feces over a period of 120 hours.
+Of the radioactivity recovered in the urine, 42% of the dose was related to amphetamine, 25% to hippuric acid, and 2% to intact lisdexamfetamine.
+
+Specific Populations
+
+Exposures of dextroamphetamine in specific populations are summarized in Figure 1.
+
+| Figure 1: Specific PopulationsFigure 1 shows the geometric mean ratios and the 90% confidence limits for Cmax and AUC of d-amphetamine. Comparison for gender uses males as the reference. Comparison for age uses 55-64 years as the reference.: |
+| --- |
 
 Drug Interaction Studies
 
-| Figure 1: Effect of Other Drugs on VYVANSE: |
+Effects of other drugs on the exposures of dextroamphetamine are summarized in Figure 2.
+
+| Figure 2: Effect of Other Drugs on VYVANSE: |
 | --- |
 
-| Figure 2: Effect of VYVANSE on Other Drugs: |
-| --- |
+The effects of VYVANSE on the exposures of other drugs are summarized in Figure 3.
 
-Studies in Specific Populations
-
-Renal Impairment
-
-In a pharmacokinetic study of lisdexamfetamine in subjects with normal and impaired renal function mean d-amphetamine clearance was reduced from 0.7 L/hr/kg in normal subjects to 0.4 L/hr/kg in subjects with severe renal impairment (GFR 15 to <30mL/min/1.73m2) and 0.3 L/hr/kg in ESRD patients.
-Dialysis did not significantly affect the clearance of d-amphetamine; the mean clearance of d-amphetamine was 0.3 L/hr/kg for both pre- and post- dialysis [see Use in Specific Populations (8.6)].
-
-| Figure 3: Specific PopulationsFigure 3 shows the geometric mean ratios and the 90% confidence limits for Cmax and AUC of d-amphetamine. Comparison for gender uses males as the reference. Comparison for age uses 55-64 years as the reference.: |
+| Figure 3: Effect of VYVANSE on Other Drugs: |
 | --- |
