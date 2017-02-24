@@ -9,7 +9,7 @@ It has the following structural formula:
 
 Lamivudine is a white to off-white solid that is soluble in water.
 
-Lamivudine tablets are for oral administration.
+Lamivudine tablets USP are for oral administration.
 Each scored 150-mg film-coated tablet contains 150 mg of lamivudine and the inactive ingredients crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, and titanium dioxide.
 
 Each 300-mg film-coated tablet contains 300 mg of lamivudine and the inactive ingredients crospovidone, hypromellose, iron oxide black, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone and titanium dioxide.

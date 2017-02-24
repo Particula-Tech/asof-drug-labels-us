@@ -2,7 +2,7 @@ PATIENT INFORMATION
 
 LAMIVUDINE (la-MIV-ue-deen)
 
-TABLETS
+TABLETS USP
 
 Rx only
 
@@ -197,4 +197,4 @@ Goa - 403722
 
 India
 
-Revised: October 2016 ID#: 248651
+Revised: February 2017 ID#: 250808
