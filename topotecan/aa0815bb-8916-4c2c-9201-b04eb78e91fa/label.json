@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020981"
+  ],
+  "inn": "topotecan",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0673-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "topotecan",
+      "name": "HYCAMTIN"
+    }
+  ],
+  "setid": "aa0815bb-8916-4c2c-9201-b04eb78e91fa",
+  "source": "dailymed"
+}
