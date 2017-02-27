@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described below and elsewhere in labeling:
 
-- Serious Symptomatic Bradycardia When Coadministered with Amiodarone [see Warnings and Precautions (5.1)].
+- Serious Symptomatic Bradycardia When Coadministered with Amiodarone [see Warnings and Precautions (5.2)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -56,10 +56,10 @@ Table 3 Adverse Reactions with ≥5% Greater Frequency Reported in Treatment-Exp
 | Irritability | 8% | 7% | 1% |
 | Dizziness | 5% | 1% | 0 |
 
-Adverse Reactions in Subjects Co-infected with HIV-1
+Adverse Reactions in Subjects Coinfected with HIV-1
 
-The safety assessment of HARVONI was based on an open-label clinical trial in 335 genotype 1 or 4 subjects with HCV/HIV-1 co-infection who were on stable antiretroviral therapy in Study ION-4 [see Clinical Studies (14.4)].
-The safety profile in HCV/HIV-1 co-infected subjects was similar to that observed in HCV mono-infected subjects.
+The safety assessment of HARVONI was based on an open-label clinical trial in 335 genotype 1 or 4 subjects with HCV/HIV-1 coinfection who were on stable antiretroviral therapy in Study ION-4 [see Clinical Studies (14.4)].
+The safety profile in HCV/HIV-1 coinfected subjects was similar to that observed in HCV mono-infected subjects.
 The most common adverse reactions occurring in at least 10% of subjects were headache (20%) and fatigue (17%).
 
 Adverse Reactions in Liver Transplant Recipients and/or Subjects with Decompensated Cirrhosis
@@ -109,7 +109,7 @@ Because postmarketing reactions are reported voluntarily from a population of un
 
 Cardiac Disorders
 
-Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with HARVONI [see Warnings and Precautions (5.1), Drug Interactions (7.2)].
+Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with HARVONI [see Warnings and Precautions (5.2), Drug Interactions (7.2)].
 
 Skin and Subcutaneous Tissue Disorders
 

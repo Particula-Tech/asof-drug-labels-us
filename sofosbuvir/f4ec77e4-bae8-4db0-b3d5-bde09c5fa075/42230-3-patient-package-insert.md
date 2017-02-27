@@ -14,10 +14,22 @@ What is HARVONI?
 
 It is not known if HARVONI is safe and effective in children under 18 years of age.
 
+What is the most important information I should know about HARVONI?
+
+HARVONI can cause serious side effects, including,
+
+Hepatitis B virus reactivation: Before starting treatment with HARVONI, your healthcare provider will do blood tests to check for hepatitis B virus infection.
+If you have ever had hepatitis B virus infection, the hepatitis B virus could become active again during or after treatment of hepatitis C virus with HARVONI.
+Hepatitis B virus becoming active again (called reactivation) may cause serious liver problems including liver failure and death.
+Your healthcare provider will monitor you if you are at risk for hepatitis B virus reactivation during treatment and after you stop taking HARVONI.
+
+For more information about side effects, see the section "What are the possible side effects of HARVONI?"
+
 What should I tell my healthcare provider before taking HARVONI?
 
-Before taking HARVONI, tell your healthcare provider if you:
+Before taking HARVONI, tell your healthcare provider about all of your medical conditions, including if you:
 
+- have ever had hepatitis B virus infection
 - have liver problems other than hepatitis C infection
 - have had a liver transplant
 - have severe kidney problems or you are on dialysis
@@ -53,8 +65,10 @@ How should I take HARVONI?
 
 What are the possible side effects of HARVONI?
 
-HARVONI may cause serious side effects, including:
+HARVONI can cause serious side effects, including:
 
+- Hepatitis B virus reactivation.
+  See "What is the most important information I should know about HARVONI?"
 - Slow heart rate (bradycardia).
   HARVONI treatment may result in slowing of the heart rate along with other symptoms when taken with amiodarone (Cordarone®, Nexterone®, Pacerone®), a medicine used to treat certain heart problems.
   In some cases bradycardia has led to death or the need for a heart pacemaker when amiodarone is taken with HARVONI.

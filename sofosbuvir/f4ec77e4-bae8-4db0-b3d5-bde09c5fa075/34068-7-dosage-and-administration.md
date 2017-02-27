@@ -1,6 +1,10 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage
+## 2.1 Testing Prior to the Initiation of Therapy
+
+Test all patients for evidence of current or prior HBV infection by measuring hepatitis B surface antigen (HBsAg) and hepatitis B core antibody (anti-HBc) before initiating HCV treatment with HARVONI [see Warnings and Precautions (5.1)].
+
+## 2.2 Recommended Dosage
 
 The recommended dosage of HARVONI is one tablet taken orally once daily with or without food [see Clinical Pharmacology (12.3)].
 
@@ -8,7 +12,7 @@ Relapse rates are affected by baseline host and viral factors and differ between
 
 Table 1 shows the recommended HARVONI treatment regimen and duration based on patient population.
 
-For patients with HCV/HIV-1 co-infection, follow the dosage recommendations in Table 1 [see Clinical Studies (14)].
+For patients with HCV/HIV-1 coinfection, follow the dosage recommendations in Table 1 [see Clinical Studies (14)].
 Refer to Drug Interactions (7) for dosage recommendations for concomitant HIV-1 antiviral drugs.
 
 Table 1 Recommended Treatment Regimen and Duration for HARVONI in Patients with Genotype 1, 4, 5 or 6 HCV
@@ -24,6 +28,6 @@ Table 1 Recommended Treatment Regimen and Duration for HARVONI in Patients with 
 
 For further information on ribavirin dosing and dosage modifications, refer to the ribavirin prescribing information [see Clinical Studies (14.5)].
 
-## 2.2 Severe Renal Impairment and End Stage Renal Disease
+## 2.3 Severe Renal Impairment and End Stage Renal Disease
 
 No dosage recommendation can be given for patients with severe renal impairment (estimated Glomerular Filtration Rate [eGFR] less than 30 mL/min/1.73 m2) or with end stage renal disease (ESRD) due to higher exposures (up to 20-fold) of the predominant sofosbuvir metabolite [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].

@@ -69,11 +69,11 @@ No dosage adjustment of HARVONI is warranted in geriatric patients [see Clinical
 
 No dosage adjustment of HARVONI is required for patients with mild or moderate renal impairment.
 The safety and efficacy of HARVONI have not been established in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD requiring hemodialysis.
-No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 Refer to ribavirin prescribing information regarding use in patients with renal impairment.
 
 ## 8.7 Hepatic Impairment
 
-No dosage adjustment of HARVONI is required for patients with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2.1), Clinical Pharmacology (12.3) and Clinical Studies (14.5)].
+No dosage adjustment of HARVONI is required for patients with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2.2), Clinical Pharmacology (12.3) and Clinical Studies (14.5)].
 
 Clinical and hepatic laboratory monitoring, as clinically indicated, is recommended for patients with decompensated cirrhosis receiving treatment with HARVONI and ribavirin [see Adverse Reactions (6.1)].

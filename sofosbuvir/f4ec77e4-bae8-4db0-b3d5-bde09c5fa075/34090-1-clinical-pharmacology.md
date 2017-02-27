@@ -86,7 +86,7 @@ No clinically relevant differences in ledipasvir pharmacokinetics were observed 
 The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m2), moderate (eGFR between 30 to less than 50 mL/min/1.73 m2), severe renal impairment (eGFR less than 30 mL/min/1.73 m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
 Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
 In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
-A 4 hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+A 4 hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe hepatic impairment (Child-Pugh Class C). Ledipasvir plasma exposure (AUC0–inf) was similar in subjects with severe hepatic impairment and control subjects with normal hepatic function.
 Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis (including decompensated cirrhosis) had no clinically relevant effect on the exposure of ledipasvir [see Use in Specific Populations (8.7)].
@@ -97,7 +97,7 @@ Population pharmacokinetics analysis in HCV-infected subjects indicated that cir
 Drug Interaction Studies
 
 Ledipasvir and sofosbuvir are substrates of drug transporters P-gp and BCRP while GS-331007 is not.
-P-gp inducers (e.g., rifampin or St. John's wort) may decrease ledipasvir and sofosbuvir plasma concentrations, leading to reduced therapeutic effect of HARVONI, and the use with P-gp inducers is not recommended with HARVONI [see Warnings and Precautions (5.2)].
+P-gp inducers (e.g., rifampin or St. John's wort) may decrease ledipasvir and sofosbuvir plasma concentrations, leading to reduced therapeutic effect of HARVONI, and the use with P-gp inducers is not recommended with HARVONI [see Warnings and Precautions (5.3)].
 Coadministration with drugs that inhibit P-gp and/or BCRP may increase ledipasvir and sofosbuvir plasma concentrations without increasing GS-331007 plasma concentration; HARVONI may be coadministered with P-gp and/or BCRP inhibitors.
 Neither ledipasvir nor sofosbuvir is a substrate for hepatic uptake transporters OCT1, OATP1B1, or OATP1B3.
 GS-331007 is not a substrate for renal transporters, including organic anion transporter OAT1 or OAT3, or organic cation transporter OCT2.

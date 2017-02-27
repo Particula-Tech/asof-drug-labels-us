@@ -2,7 +2,7 @@
 
 ## 14.1 Description of Clinical Trials
 
-The efficacy and safety of HARVONI were evaluated in four trials in genotype 1 HCV mono-infected subjects including one trial exclusively in treatment-experienced subjects with compensated cirrhosis (Child-Pugh A), one trial in genotype 1 or 4 HCV/HIV-1 co-infected subjects, two trials in genotype 4, 5 or 6 HCV mono-infected subjects and two trials in genotype 1 or 4 HCV infected pretransplant subjects with decompensated cirrhosis (Child-Pugh B and C) or post-transplant with Metavir F0–F3 fibrosis, compensated cirrhosis, decompensated cirrhosis or fibrosing cholestatic hepatitis (FCH), as summarized in Table 7 [see Clinical Studies (14.2,14.3, 14.4 and 14.5)]:
+The efficacy and safety of HARVONI were evaluated in four trials in genotype 1 HCV mono-infected subjects including one trial exclusively in treatment-experienced subjects with compensated cirrhosis (Child-Pugh A), one trial in genotype 1 or 4 HCV/HIV-1 coinfected subjects, two trials in genotype 4, 5 or 6 HCV mono-infected subjects and two trials in genotype 1 or 4 HCV infected pretransplant subjects with decompensated cirrhosis (Child-Pugh B and C) or post-transplant with Metavir F0–F3 fibrosis, compensated cirrhosis, decompensated cirrhosis or fibrosing cholestatic hepatitis (FCH), as summarized in Table 7 [see Clinical Studies (14.2,14.3, 14.4 and 14.5)]:
 
 Table 7 Trials Conducted with HARVONI with or without Ribavirin in Subjects with Chronic HCV Genotype 1, 4, 5 or 6 Infection
 
@@ -12,7 +12,7 @@ Table 7 Trials Conducted with HARVONI with or without Ribavirin in Subjects with
 | ION-1 (open-label) | GT1, TN with or without cirrhosis | HARVONI 12 weeks (214) HARVONI+RBV 12 weeks (217) HARVONI 24 weeks (217) HARVONI+RBV 24 weeks (217) |
 | ION-2 (open-label) | GT1, TE with or without cirrhosis | HARVONI 12 weeks (109) HARVONI+RBV 12 weeks (111) HARVONI 24 weeks (109) HARVONI+RBV 24 weeks (111) |
 | SIRIUS (double-blind) | GT1, TE with cirrhosis | HARVONI+RBV 12 Weeks (77) HARVONI 24 weeks (77) |
-| ION-4 (open-label) | GT1 and GT4 HCV/HIV-1 co-infected TN and TE with or without cirrhosis | HARVONI 12 Weeks (N=327 for GT1; N=8 for GT4) |
+| ION-4 (open-label) | GT1 and GT4 HCV/HIV-1 coinfected TN and TE with or without cirrhosis | HARVONI 12 Weeks (N=327 for GT1; N=8 for GT4) |
 | Study 1119 (open-label) | GT4 and GT5, TN and TE with or without cirrhosis | HARVONI 12 Weeks (N=44 for GT4; N=41 for GT5) |
 | ELECTRON-2 (open-label) | GT6, TN and TE with or without cirrhosis | HARVONI 12 Weeks (25) |
 | SOLAR-1 and SOLAR-2 (open-label) | GT1 and GT4 pre-transplant with decompensated cirrhosis or post-transplant with Metavir F0–F3 fibrosis, compensated cirrhosis, decompensated cirrhosis, or FCH | HARVONI+RBV 12 Weeks (336) HARVONI+RBV 24 weeks (334) |
@@ -209,9 +209,9 @@ The overall SVR12 was 96% (24/25).
 SVR12 was similar based upon prior HCV treatment history and cirrhosis status.
 The single subject who relapsed discontinued study treatment early (at approximately Week 8).
 
-## 14.4 Clinical Trials in Subjects Co-infected with HCV and HIV-1
+## 14.4 Clinical Trials in Subjects Coinfected with HCV and HIV-1
 
-ION-4 was an open-label clinical trial that evaluated the safety and efficacy of 12 weeks of treatment with HARVONI without ribavirin in HCV treatment-naïve and previously-treated subjects with genotype 1 or 4 HCV infection who were co-infected with HIV-1.
+ION-4 was an open-label clinical trial that evaluated the safety and efficacy of 12 weeks of treatment with HARVONI without ribavirin in HCV treatment-naïve and previously-treated subjects with genotype 1 or 4 HCV infection who were coinfected with HIV-1.
 Treatment-experienced subjects had failed prior treatment with Peg-IFN + RBV, Peg-IFN + RBV + an HCV protease inhibitor or sofosbuvir+RBV.
 Subjects were on a stable HIV-1 antiretroviral therapy that included emtricitabine + tenofovir disoproxil fumarate, administered with efavirenz, rilpivirine or raltegravir.
 
@@ -220,7 +220,7 @@ Fifty-five percent (55%) of the subjects were treatment-experienced.
 
 Table 15 presents the SVR12 in the ION-4 trial after 12 weeks of HARVONI treatment.
 
-Table 15 Study ION-4: SVR12 in Subjects with Genotype 1 or 4 HCV Co-infected with HIV-1
+Table 15 Study ION-4: SVR12 in Subjects with Genotype 1 or 4 HCV Coinfected with HIV-1
 
 |  | HARVONI 12 Weeks (N=335) |
 | --- | --- |
