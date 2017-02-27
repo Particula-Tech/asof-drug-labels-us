@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-BUPRENORPHINE (byoo-pre-NOR-feen) SUBLINGUAL TABLETS CIII
+Buprenorphine (byoo-pre-NOR-feen) Sublingual Tablets CIII
 
 Rx Only
 
@@ -194,7 +194,7 @@ What are the ingredients in Buprenorphine Sublingual Tablets?
 
 Active Ingredient: buprenorphine hydrochloride USP
 
-Inactive Ingredients: anhydrous citric acid, corn starch, crospovidone, lactose monohydrate, magnesium stearate, mannitol, povidone and sodium citrate.
+Inactive Ingredients: citric acid anhydrous, corn starch, crospovidone, lactose monohydrate, magnesium stearate, mannitol, povidone, purified water and sodium citrate.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

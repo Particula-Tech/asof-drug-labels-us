@@ -83,7 +83,7 @@ Although no dose adjustment is necessary for patients with moderate hepatic impa
 Mild Hepatic Impairment
 
 No clinically significant differences in pharmacokinetic parameters were observed in subjects with mild hepatic impairment.
-No dose adjustment is needed in patients with mild hepatic impairment [see Warnings and Precautions (5.12)]
+No dose adjustment is needed in patients with mild hepatic impairment [see Warnings and Precautions (5.12)].
 
 ## 2.6 Unstable Patients
 
