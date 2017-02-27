@@ -14,21 +14,19 @@ Pharmacia & Upjohn Co DIVISION OF PFIZER INC, NY, NY 10017 MADE IN BELGIUM
 
 LOT/EXP
 
-# PRINCIPAL DISPLAY PANEL - 10 microgram Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 10 micrograms Syringe Carton
 
 Pfizer
 
-Caverject Impulse®
-
-alprostadil for injection
-
-For intracavernosal use only Dual Chamber System
-
-Contains 2 single dose injection systems Diluent Contains Benzyl Alcohol
+Caverject Impulse® alprostadil for injection
 
 10 micrograms
 
 NDC 0009-5181-01 Contains 2 of NDC 0009-5181-10
+
+For intracavernosal use only Dual Chamber System
+
+Contains 2 single dose injection systems Diluent Contains Benzyl Alcohol
 
 Rx only
 
@@ -48,20 +46,18 @@ Pharmacia & Upjohn Co DIVISION OF PFIZER INC, NY, NY 10017 MADE IN BELGIUM
 
 LOT/EXP
 
-# PRINCIPAL DISPLAY PANEL - 20 microgram Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 20 micrograms Syringe Carton
 
 Pfizer
 
-Caverject Impulse®
-
-alprostadil for injection
-
-For intracavernosal use only Dual Chamber System
-
-Contains 2 single dose injection systems Diluent Contains Benzyl Alcohol
+Caverject Impulse® alprostadil for injection
 
 20 micrograms
 
 NDC 0009-5182-01 Contains 2 of NDC 0009-5182-11
+
+For intracavernosal use only Dual Chamber System
+
+Contains 2 single dose injection systems Diluent Contains Benzyl Alcohol
 
 Rx only
