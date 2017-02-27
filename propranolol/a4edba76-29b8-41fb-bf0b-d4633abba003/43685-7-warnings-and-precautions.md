@@ -168,7 +168,7 @@ On a body surface area basis, this dose in the mouse and rat is, respectively, a
 In a study in which both male and female rats were exposed to propranolol hydrochloride in their diets at concentrations of up to 0.05% (about 50 mg/kg body weight and less than the MRHD), from 60 days prior to mating and throughout pregnancy and lactation for two generations, there were no effects on fertility.
 Based on differing results from Ames Tests performed by different laboratories, there is equivocal evidence for a genotoxic effect of propranolol in bacteria (S. typhimurium strain TA 1538).
 
-## Pregnancy
+## Pregnancy:
 
 Pregnancy Category C
 
