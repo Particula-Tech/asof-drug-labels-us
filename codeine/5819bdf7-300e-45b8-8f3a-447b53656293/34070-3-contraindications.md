@@ -1,12 +1,10 @@
 # 4 CONTRAINDICATIONS
 
-Codeine sulfate is contraindicated for postoperative pain management in children who have undergone tonsillectomy and/or adenoidectomy [see Warnings and Precautions (5.1)].
+Codeine sulfate tablets are contraindicated in patients with:
 
-Codeine sulfate is contraindicated in patients with known hypersensitivity to codeine or any components of the product.
-Persons known to be hypersensitive to certain other opioids may exhibit cross-sensitivity to codeine.
-
-Codeine sulfate is contraindicated in patients with respiratory depression in the absence of resuscitative equipment [see Warnings and Precautions (5.2)].
-
-Codeine sulfate is contraindicated in patients with acute or severe bronchial asthma or hypercarbia.
-
-Codeine sulfate is contraindicated in any patient who has or is suspected of having paralytic ileus.
+- Significant respiratory depression [see Warnings and Precautions (5.2)]
+- Postoperative pain management in children who have undergone tonsillectomy and/or adenoidectomy [see Warnings and Precautions (5.4)]
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see Warnings and Precautions (5.7)]
+- Concurrent use of monoamine oxidase inhibitors (MAOIs) or use of MAOIs within the last 14 days [see Warnings and Precautions (5.8), Drug Interactions (7))].
+- Known or suspected gastrointestinal obstruction, including paralytic ileus [see Warnings and Precautions (5.12)]
+- Hypersensitivity to codeine (e.g., anaphylaxis) [see Adverse Reactions (6)]

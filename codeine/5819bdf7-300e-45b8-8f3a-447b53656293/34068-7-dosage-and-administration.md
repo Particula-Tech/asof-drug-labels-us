@@ -1,39 +1,39 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Selection of patients for treatment with codeine sulfate should be governed by the same principles that apply to the use of similar opioid analgesics.
-Physicians should individualize treatment in every case, using non-opioid analgesics, opioids on an as needed basis and/or combination products, and chronic opioid therapy in a progressive plan of pain management.
+## 2.1 Important Dosage and Administration Instructions
 
-## 2.1 Individualization of Dosage
+Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
-As with any opioid drug product, adjust the dosing regimen for each patient individually, taking into account the patient’s prior analgesic treatment experience.
-In the selection of the initial dose of codeine sulfate, attention should be given to the following:
+Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 
-- The total daily dose, potency and specific characteristics of the opioid the patient has been taking previously;
-- the reliability of the relative potency estimate used to calculate the equivalent codeine sulfate dose needed;
-- the patient’s degree of opioid tolerance;
-- the general condition and medical status of the patient;
-- concurrent medications;
-- the type and severity of the patient’s pain;
-- risk factors for abuse, addiction or diversion, including a prior history of abuse, addiction or diversion.
+Monitor patients closely for respiratory depression, especially within the first 24 - 72 hours of initiating therapy and following dosage increases with codeine sulfate tablets and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
 
-The following dosing recommendations, therefore, can only be considered suggested approaches to what is actually a series of clinical decisions over time in the management of the pain of each individual patient.
+## 2.2 Initial Dosage
 
-Continual reevaluation of the patient receiving codeine sulfate is important, with special attention to the maintenance of pain control and the relative incidence of side effects associated with therapy.
-During chronic therapy, especially for noncancer-related pain, the continued need for the use of opioid analgesics should be reassessed as appropriate.
+Initiating Treatment with Codeine Sulfate Tablets
 
-During periods of changing analgesic requirements, including initial titration, frequent contact is recommended between physician, other members of the healthcare team, the patient, and the caregiver/family.
-
-## 2.2 Initiation of Therapy
-
-The usual adult dosage for tablets is 15 mg to 60 mg repeated up to every four hours as needed for pain.
+Initiate treatment with codeine sulfate tablets in a dosing range of 15 to 60 mg every 4 hours as needed for pain.
+Adult doses of codeine sulfate tablets higher than 60 mg provide no further efficacy but are associated with greater adverse reactions.
 The maximum 24 hour dose is 360 mg.
 
-The initial dose should be titrated based upon the individual patient’s response to their initial dose of codeine.
-This dose can then be adjusted to an acceptable level of analgesia taking into account the improvement in pain intensity and the tolerability of the codeine by the patient.
+Conversion from Other Opioids to Codeine Sulfate Tablets
 
-It should be kept in mind, however, that tolerance to codeine sulfate can develop with continued use and that the incidence of untoward effects is dose-related.
-Adult doses of codeine higher than 60 mg fail to give commensurate relief of pain and are associated with an appreciably increased incidence of undesirable side effects.
+There is inter-patient variability in the potency of opioid drugs and opioid formulations.
+Therefore, a conservative approach is advised when determining the total daily dosage of codeine sulfate tablets.
+It is safer to underestimate a patient’s 24-hour codeine sulfate tablets dosage than to overestimate the 24-hour codeine sulfate tablets dosage and manage an adverse reaction due to overdose.
 
-## 2.3 Cessation of Therapy
+## 2.3 Titration and Maintenance of Therapy
 
-When the patient no longer requires therapy with codeine sulfate, doses should be tapered gradually to prevent signs and symptoms of withdrawal in the physically dependent patient.
+Individually titrate codeine sulfate tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
+Continually reevaluate patients receiving codeine sulfate to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
+Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
+
+If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the codeine sulfate tablets dosage.
+If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
+Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
+
+## 2.4 Discontinuation of Codeine Sulfate Tablets
+
+When a patient who has been taking codeine sulfate tablets regularly and may be physically dependent no longer requires therapy with codeine sulfate tablets, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
+If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
+Do not abruptly discontinue codeine sulfate tablets in a physically-dependent patient [see Warnings and Precautions (5.14), Drug Abuse and Dependence (9.3)].

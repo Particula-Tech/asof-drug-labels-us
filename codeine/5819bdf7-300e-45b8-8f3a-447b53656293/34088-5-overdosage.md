@@ -1,30 +1,23 @@
 # 10 OVERDOSAGE
 
-## 10.1 Symptoms
+Clinical Presentation
 
-Acute overdose of codeine is characterized by respiratory depression (a decrease in respiratory rate and/or tidal volume, Cheyne-Stokes respiration, cyanosis), extreme somnolence progressing to stupor or coma, miosis (mydriasis may occur in terminal narcosis or severe hypoxia), skeletal muscle flaccidity, cold and clammy skin, and sometimes bradycardia and hypotension.
-In severe overdosage, apnea, circulatory collapse, cardiac arrest, and death may occur.
+Acute overdose with codeine sulfate tablets can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
+Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [see Clinical Pharmacology (12.2)].
 
-Codeine sulfate may cause miosis, even in total darkness.
-Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origin may produce similar findings).
-Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
+Treatment of Overdose
 
-## 10.2 Treatment
+In case of overdose, priorities are the reestablishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
+Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
+Cardiac arrest or arrhythmias will require advanced life-support techniques.
 
-Primary attention should be given to the reestablishment of adequate respiratory exchange through provision of a patent airway and institution of assisted or controlled ventilation as necessary.
-Supportive measures (including oxygen and vasopressors) should be employed in the management of circulatory shock and pulmonary edema accompanying overdose as indicated.
-Cardiac arrest or arrhythmias may require cardiac massage or defibrillation.
-Induction of emesis is not recommended because of the potential for CNS depression and seizures.
-Activated charcoal is recommended if the patient is awake and able to protect his/her airway.
-In persons who are at risk for abrupt onset of seizures or mental status depression, activated charcoal should be administered by medical or paramedical personnel capable of airway management to prevent aspiration in the event of spontaneous emesis.
-Severe agitation or seizures should be treated with an intravenous benzodiazepine.
+The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
+For clinically significant respiratory or circulatory depression secondary to codeine overdose, administer an opioid antagonist.
+Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to codeine overdose.
 
-The opioid antagonist naloxone hydrochloride is a specific antidote against respiratory depression resulting from overdosage or unusual sensitivity to opiate agonists, including codeine.
-Therefore, an appropriate dose of naloxone hydrochloride (see prescribing information for naloxone hydrochloride) should be administered, preferably by the intravenous route, simultaneously with efforts at respiratory resuscitation.
-Since the duration of action of codeine may exceed that of the antagonist, the patient should be kept under continued surveillance and repeated doses of the antagonist should be administered as needed to maintain adequate respiration.
-A narcotic antagonist should not be administered in the absence of clinically significant respiratory or cardiovascular depression secondary to codeine sulfate overdose.
+Because the duration of opioid reversal is expected to be less than the duration of action of codeine in codeine sulfate tablets, carefully monitor the patient until spontaneous respiration is reliably reestablished.
+If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product’s prescribing information.
 
-In an individual physically dependent on opioids, administration of the usual dose of the antagonist will precipitate an acute withdrawal syndrome.
+In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
 The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
-Use of an opioid antagonist should be reserved for cases where such treatment is clearly needed.
-If it is necessary to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be initiated with care and titrated with smaller than usual doses.
+If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be begun with care and by titration with smaller than usual doses of the antagonist.

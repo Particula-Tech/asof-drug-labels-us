@@ -1,34 +1,44 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 CNS Depressants
+Table 1 includes clinically significant drug interactions with codeine sulfate tablets.
 
-Concurrent use of other opioids, antihistamines, antipsychotics, antianxiety agents, or other CNS depressants (including sedatives, hypnotics, general anesthetics, antiemetics, phenothiazines, or other tranquilizers or alcohol) concomitantly with codeine sulfate tablets may result in additive CNS depression, respiratory depression, hypotension, profound sedation, or coma.
-Use codeine sulfate with caution and in reduced dosages in patients taking these agents.
+Table 1: Clinically Significant Drug Interactions with Codeine Sulfate Tablets
 
-## 7.2 Mixed Agonist/Antagonist Opioid Analgesics
-
-Mixed agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, and butorphanol) should NOT be administered to patients who have received or are receiving a course of therapy with a pure opioid agonist analgesic, such as codeine sulfate.
-In these patients, mixed agonist/antagonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.
-
-## 7.3 Anticholinergics
-
-Anticholinergics or other medications with anticholinergic activity when used concurrently with opioid analgesics including codeine sulfate, may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
-
-## 7.4 Antidepressants
-
-Use of MAO inhibitors or tricyclic antidepressants with codeine sulfate may increase the effect of either the antidepressant or codeine.
-MAOIs markedly potentiate the action of morphine sulfate, the major metabolite of codeine.
-Codeine should not be used in patients taking MAOIs or within 14 days of stopping such treatment.
-
-## 7.5 Metabolic Enzymes
-
-Patients taking cytochrome P-450 enzyme inducers or inhibitors may demonstrate an altered response to codeine, therefore analgesic activity should be monitored.
-Codeine sulfate is metabolized by the cytochrome P-450 3A4 and 2D6 isoenzymes [see Clinical Pharmacology (12.3)].
-The concurrent use of drugs that preferentially induce codeine N-demethylation (cytochrome P-450 3A4) may increase the plasma concentrations of codeine’s inactive metabolite norcodeine.
-Drugs that are strong inhibitors of codeine O-demethylation (cytochrome P-450 2D6) may decrease the plasma concentrations of codeine’s active metabolites, morphine and morphine-6-glucuronide.
-The contribution of these active metabolites to the overall analgesic effect of codeine is not fully understood, but should be considered.
-
-## 7.6 Drug-Laboratory Test Interaction
-
-Codeine sulfate tablets may cause an elevation of plasma amylase and lipase due to the potential of codeine to produce spasm of the sphincter of Oddi.
-Determination of these enzyme levels may be unreliable for some time after an opiate agonist has been given.
+| Inhibitors of CYP3A4 |  |
+| --- | --- |
+| Clinical Impact: | The concomitant use of codeine sulfate tablets with CYP3A4 inhibitors, may result in an increase in codeine plasma concentrations with subsequently greater metabolism by cytochrome CYP2D6, resulting in greater morphine levels, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression, particularly when an inhibitor is added after a stable dose of codeine sulfate tablets is achieved [see Warnings and Precautions (5.5)]. After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, it may result in lower codeine levels, greater norcodeine levels, and less metabolism via CYP2D6 with resultant lower morphine levels [see Clinical Pharmacology (12.3)], resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to codeine. |
+| Intervention: | If concomitant use of CYP3A4 inhibitor is necessary, consider dosage reduction of codeine sulfate tablets until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals. If a CYP3A4 inhibitor is discontinued, consider increasing the codeine sulfate tablets dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. |
+| Examples: | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir) |
+| CYP3A4 Inducers |  |
+| Clinical Impact: | The concomitant use of codeine sulfate tablets and CYP3A4 inducers can result in lower codeine levels, greater norcodeine levels, and less metabolism via 2D6 with resultant lower morphine levels [see Clinical Pharmacology (12.3)], resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence [see Warnings and Precautions (5.5)]. After stopping a CYP3A4 inducer, as the effects of the inducer decline, codeine plasma concentrations may increase with subsequently greater metabolism by cytochrome CYP2D6, resulting in greater morphine levels [see Clinical Pharmacology (12.3)], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression. |
+| Intervention: | If concomitant use of a CYP3A4 inducer is necessary, follow the patient for reduced efficacy and signs of opioid withdrawal and consider increasing the codeine sulfate tablets dosage as needed. If a CYP3A4 inducer is discontinued, consider codeine sulfate tablets dosage reduction and monitor for signs of respiratory depression and sedation at frequent intervals. |
+| Examples: | Rifampin, carbamazepine, phenytoin |
+| Inhibitors of CYP2D6 |  |
+| Clinical Impact: | Codeine is metabolized by CYP2D6 to form morphine. The concomitant use of codeine sulfate tablets and CYP2D6 inhibitors can increase the plasma concentration of codeine, but can decrease the plasma concentration of active metabolite morphine, which could result in reduced analgesic efficacy or symptoms of opioid withdrawal, particularly when an inhibitor is added after a stable dose of codeine sulfate tablets is achieved [see Clinical Pharmacology (12.3)]. After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the codeine plasma concentration will decrease but the active metabolite morphine plasma concentration will increase, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression [see Clinical Pharmacology (12.3)]. |
+| Intervention: | If concomitant use with a CYP2D6 inhibitor is necessary, or if a CYP2D6 inhibitor is discontinued after concomitant use, consider dosage adjustment of codeine sulfate tablet and monitor patients closely at frequent intervals. If concomitant use with CYP2D6 inhibitors is necessary, follow the patient for reduced efficacy or signs and symptoms of opioid withdrawal and consider increasing the codeine sulfate tablets as needed. After stopping use of a CYP2D6 inhibitor, consider reducing the codeine sulfate tablets and monitor the patient for signs and symptoms of respiratory depression or sedation. |
+| Examples | paroxetine, fluoxetine, bupropion, quinidine |
+| Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
+| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.6)]. |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Serotonergic Drugs |  |
+| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
+| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue codeine sulfate tablets if serotonin syndrome is suspected. |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.8)]. |
+| Intervention: | Do not use codeine sulfate tablets in patients taking MAOIs or within 14 days of stopping such treatment. If urgent use of an opioid is necessary, use test doses and frequent titration of small doses of other opioids (such as oxycodone, hydrocodone, oxymorphone, or buprenorphine) to treat pain while closely monitoring blood pressure and signs and symptoms of CNS and respiratory depression |
+| Examples: | phenelzine, tranylcypromine, linezolid |
+| Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
+| Clinical Impact: | May reduce the analgesic effect of codeine sulfate tablets and/or precipitate withdrawal symptoms. |
+| Intervention: | Avoid concomitant use. |
+| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
+| Muscle Relaxants |  |
+| Clinical Impact: | Codeine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of codeine sulfate tablets and/or the muscle relaxant as necessary. |
+| Diuretics |  |
+| Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
+| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
+| Anticholinergic Drugs |  |
+| Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
+| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when codeine sulfate tablets are used concomitantly with anticholinergic drugs. |
