@@ -43,6 +43,11 @@ There is no general agreement about specific pharmacological treatment regimens 
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
 The patient should be carefully monitored, since recurrences of NMS have been reported.
 
+## Falls:
+
+Fluphenazine decanoate may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
 The use of this drug may impair the mental and physical abilities required for driving a car or operating heavy machinery.
 
 Physicians should be alert to the possibility that severe adverse reactions may occur which require immediate medical attention.
