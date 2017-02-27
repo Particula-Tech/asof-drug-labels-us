@@ -11,6 +11,17 @@ When taking SOVALDI with ribavirin or in combination with peginterferon alfa and
 
 The information in this Patient Information Leaflet talks about SOVALDI when it is used with ribavirin and in combination with peginterferon alfa and ribavirin.
 
+What is the most important information I should know about SOVALDI?
+
+SOVALDI can cause serious side effects, including,
+
+Hepatitis B virus reactivation: Before starting treatment with SOVALDI, your healthcare provider will do blood tests to check for hepatitis B virus infection.
+If you have ever had hepatitis B virus infection, the hepatitis B virus could become active again during or after treatment of hepatitis C virus with SOVALDI.
+Hepatitis B virus becoming active again (called reactivation) may cause serious liver problems including liver failure and death.
+Your healthcare provider will monitor you if you are at risk for hepatitis B virus reactivation during treatment and after you stop taking SOVALDI.
+
+For more information about side effects, see the section "What are the possible side effects of SOVALDI?"
+
 What is SOVALDI?
 
 SOVALDI is a prescription medicine used with other antiviral medicines to treat chronic (lasting a long time) hepatitis C virus genotype 1, 2, 3, or 4 infection in adults.
@@ -19,8 +30,9 @@ It is not known if SOVALDI is safe and effective in children under 18 years of a
 
 What should I tell my healthcare provider before taking SOVALDI?
 
-Before taking SOVALDI, tell your healthcare provider if you:
+Before taking SOVALDI, tell your healthcare provider about all of your medical conditions, including if you:
 
+- have ever had hepatitis B virus infection
 - have liver problems other than hepatitis C infection
 - have had a liver transplant
 - have severe kidney problems or you are on dialysis
@@ -66,6 +78,15 @@ How should I take SOVALDI?
 - If you take too much SOVALDI, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of SOVALDI?
+
+SOVALDI can cause serious side effects, including:
+
+- Hepatitis B virus reactivation.
+  See "What is the most important information I should know about SOVALDI?"
+- Slow heart rate (bradycardia).
+  SOVALDI treatment may result in slowing of the heart rate along with other symptoms when taken with amiodarone (Cordarone®, Nexterone®, Pacerone®), a medicine used to treat certain heart problems.
+  In some cases bradycardia has led to death or the need for a heart pacemaker when amiodarone is taken with SOVALDI.
+  Get medical help right away if you take amiodarone with SOVALDI and get any of the following symptoms: fainting or near-faintingdizziness or lightheadednessnot feeling wellweaknessextreme tiredness shortness of breathchest painsconfusionmemory problems
 
 The most common side effects of SOVALDI when used in combination with ribavirin include:
 

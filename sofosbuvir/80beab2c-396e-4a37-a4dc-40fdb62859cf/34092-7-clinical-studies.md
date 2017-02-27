@@ -2,7 +2,7 @@
 
 ## 14.1 Description of Clinical Trials
 
-The safety and efficacy of SOVALDI was evaluated in five Phase 3 trials in a total of 1724 HCV mono-infected subjects with genotypes 1 to 6 chronic hepatitis C virus and one Phase 3 trial in 223 HCV/HIV-1 co-infected subjects with genotype 1, 2 or 3 HCV, as summarized in Table 7.
+The safety and efficacy of SOVALDI was evaluated in five Phase 3 trials in a total of 1724 HCV mono-infected subjects with genotypes 1 to 6 chronic hepatitis C virus and one Phase 3 trial in 223 HCV/HIV-1 coinfected subjects with genotype 1, 2 or 3 HCV, as summarized in Table 7.
 
 Table 7 Trials Conducted with SOVALDI with Peginterferon Alfa and/or Ribavirin in Subjects with Chronic HCV Genotype 1, 2, 3, or 4 Infection
 
@@ -13,7 +13,7 @@ Table 7 Trials Conducted with SOVALDI with Peginterferon Alfa and/or Ribavirin i
 | POSITRON | Interferon intolerant, ineligible or unwilling subjects (GT2 or 3) | SOVALDI+RBV 12 Weeks (207) Placebo 12 weeks (71) |
 | FUSION | Previous interferon relapsers or nonresponders (GT2 or 3) | SOVALDI+RBV 12 Weeks (103) SOVALDI+RBV 16 Weeks (98) |
 | VALENCE | TN or previous interferon relapsers or nonresponders (GT2 or 3) | SOVALDI+RBV 12 Weeks for GT2 (73) SOVALDI+RBV 12 Weeks for GT3 (11) SOVALDI+RBV 24 Weeks for GT3 (250) Placebo for 12 weeks (85) |
-| PHOTON-1 | HCV/HIV-1 co-infected TN (GT1)HCV/HIV-1 co-infected TN or previous interferon relapsers or nonresponders (GT2 or 3) | SOVALDI+RBV 24 Weeks for GT1 (114) SOVALDI+RBV 12 Weeks for GT2 or 3 TN (68) SOVALDI+RBV 24 Weeks for GT2 or 3 previous interferon relapsers or nonresponders (41) |
+| PHOTON-1 | HCV/HIV-1 coinfected TN (GT1)HCV/HIV-1 coinfected TN or previous interferon relapsers or nonresponders (GT2 or 3) | SOVALDI+RBV 24 Weeks for GT1 (114) SOVALDI+RBV 12 Weeks for GT2 or 3 TN (68) SOVALDI+RBV 24 Weeks for GT2 or 3 previous interferon relapsers or nonresponders (41) |
 
 Subjects in these trials had compensated liver disease including cirrhosis.
 SOVALDI was administered at a dose of 400 mg once daily.
@@ -92,7 +92,7 @@ Table 10 Study FISSION: SVR12 in Treatment-Naïve Subjects with Genotype 2 HCV
 | RelapseThe denominator for relapse is the number of subjects with HCV RNA <LLOQ at their last on-treatment assessment. | 5% (4/73) | 15% (9/62) |
 | OtherOther includes subjects who did not achieve SVR and did not meet virologic failure criteria (e.g., lost to follow-up). | 0/73 | 4% (3/67) |
 
-SVR12 for genotype 2 HCV infected subjects with cirrhosis at baseline are presented in Table 11.
+SVR12 for genotype 2 HCV-infected subjects with cirrhosis at baseline are presented in Table 11.
 
 Table 11 SVR12 Rates by Cirrhosis in Study FISSION in Subjects with Genotype 2 HCV
 
@@ -213,9 +213,9 @@ Table 17 SVR12 Rates for Selected Subgroups by Genotype in Study VALENCE in Subj
 | Non-cirrhotic | 91% (30/33) | 85% (85/100) |
 | Cirrhotic | 88% (7/8) | 60% (27/45) |
 
-## 14.4 Clinical Trials in Subjects Co-infected with HCV and HIV-1
+## 14.4 Clinical Trials in Subjects Coinfected with HCV and HIV-1
 
-SOVALDI was studied in an open-label clinical trial (Study PHOTON-1) evaluating the safety and efficacy of 12 or 24 weeks of treatment with SOVALDI and ribavirin in subjects with genotype 1, 2 or 3 chronic hepatitis C co-infected with HIV-1.
+SOVALDI was studied in an open-label clinical trial (Study PHOTON-1) evaluating the safety and efficacy of 12 or 24 weeks of treatment with SOVALDI and ribavirin in subjects with genotype 1, 2 or 3 chronic hepatitis C coinfected with HIV-1.
 Genotype 2 and 3 subjects were either HCV treatment-naïve or experienced, whereas genotype 1 subjects were all treatment-naïve.
 Subjects received 400 mg SOVALDI and weight-based ribavirin (1000 mg for subjects weighing less than 75 kg or 1200 mg for subjects weighing at least 75 kg) daily for 12 or 24 weeks based on genotype and prior treatment history.
 Subjects were either not on antiretroviral therapy with a CD4+ cell count greater than 500 cells/mm3 or had virologically suppressed HIV-1 with a CD4+ cell count greater than 200 cells/mm3.
@@ -236,6 +236,6 @@ Table 18 Study PHOTON-1Subjects with genotype 2 HCV treated with SOVALDI + RBV f
 In subjects with HCV genotype 1 infection, the SVR12 rate was 82% (74/90) in subjects with genotype 1a infection and 54% (13/24) in subjects with genotype 1b infection, with relapse accounting for the majority of treatment failures.
 SVR12 rates in subjects with HCV genotype 1 infection were 80% (24/30) in subjects with baseline IL28B C/C allele and 75% (62/83) in subjects with baseline IL28B non-C/C alleles.
 
-In the 223 HCV subjects with HIV-1 co-infection, the percentage of CD4+ cells did not change during treatment.
+In the 223 HCV subjects with HIV-1 coinfection, the percentage of CD4+ cells did not change during treatment.
 Median CD4+ cell count decreases of 85 cells/mm3 and 84 cells/mm3 were observed at the end of treatment with SOVALDI + ribavirin for 12 or 24 weeks, respectively.
 HIV-1 rebound during SOVALDI + ribavirin treatment occurred in 2 subjects (0.9%) on antiretroviral therapy.

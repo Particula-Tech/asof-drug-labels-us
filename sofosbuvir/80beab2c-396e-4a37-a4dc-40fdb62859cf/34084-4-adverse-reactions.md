@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
-- Serious Symptomatic Bradycardia When Coadministered with Amiodarone and Another HCV Direct Acting Antiviral [see Warnings and Precautions (5.1)].
+- Serious Symptomatic Bradycardia When Coadministered with Amiodarone and Another HCV Direct Acting Antiviral [see Warnings and Precautions (5.2)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -95,10 +95,10 @@ Lipase Elevations
 
 Isolated, asymptomatic lipase elevation of greater than 3×ULN was observed in less than 1%, 2%, 2%, and 2% of subjects in the SOVALDI + peginterferon alfa + ribavirin 12 weeks, SOVALDI + ribavirin 12 weeks, SOVALDI + ribavirin 24 weeks and peginterferon alfa + ribavirin 24 weeks groups, respectively.
 
-Patients with HCV/HIV-1 Co-infection
+Patients with HCV/HIV-1 Coinfection
 
-SOVALDI used in combination with ribavirin was assessed in 223 HCV/HIV-1 co-infected subjects [see Clinical Studies (14.4)].
-The safety profile in HCV/HIV-1 co-infected subjects was similar to that observed in HCV mono-infected subjects.
+SOVALDI used in combination with ribavirin was assessed in 223 HCV/HIV-1 coinfected subjects [see Clinical Studies (14.4)].
+The safety profile in HCV/HIV-1 coinfected subjects was similar to that observed in HCV mono-infected subjects.
 Elevated total bilirubin (grade 3 or 4) was observed in 30/32 (94%) subjects receiving atazanavir as part of the antiretroviral regimen.
 None of the subjects had concomitant transaminase increases.
 Among subjects not taking atazanavir, grade 3 or 4 elevated total bilirubin was observed in 2 (1.5%) subjects, similar to the rate observed with HCV mono-infected subjects receiving SOVALDI + ribavirin in Phase 3 trials.
@@ -110,4 +110,4 @@ Because postmarketing reactions are reported voluntarily from a population of un
 
 Cardiac Disorders
 
-Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with SOVALDI in combination with another HCV direct acting antiviral [see Warnings and Precautions (5.1), Drug Interactions (7.1)].
+Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with SOVALDI in combination with another HCV direct acting antiviral [see Warnings and Precautions (5.2), Drug Interactions (7.1)].

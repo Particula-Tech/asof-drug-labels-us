@@ -74,7 +74,7 @@ In subjects with ESRD, relative to subjects with normal renal function, sofosbuv
 A 4 hour hemodialysis session removed approximately 18% of administered dose.
 No dosage adjustment is required for patients with mild or moderate renal impairment.
 The safety and efficacy of SOVALDI have not been established in patients with severe renal impairment or ESRD.
-No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.4) and Use in Specific Populations (8.6)].
+No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
@@ -85,7 +85,7 @@ No dosage adjustment of SOVALDI is recommended for patients with mild, moderate 
 Assessment of Drug Interactions
 
 Sofosbuvir is a substrate of drug transporter P-gp and breast cancer resistance protein (BCRP) while GS-331007 is not.
-Drugs that are P-gp inducers in the intestine (e.g., rifampin or St. John's wort) may decrease sofosbuvir plasma concentration, leading to reduced therapeutic effect of SOVALDI, and thus concomitant use with SOVALDI is not recommended [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
+Drugs that are P-gp inducers in the intestine (e.g., rifampin or St. John's wort) may decrease sofosbuvir plasma concentration, leading to reduced therapeutic effect of SOVALDI, and thus concomitant use with SOVALDI is not recommended [see Warnings and Precautions (5.3) and Drug Interactions (7.1)].
 
 Coadministration of SOVALDI with drugs that inhibit P-gp and/or BCRP may increase sofosbuvir plasma concentration without increasing GS-331007 plasma concentration; accordingly, SOVALDI may be coadministered with P-gp and/or BCRP inhibitors.
 Sofosbuvir and GS-331007 are not inhibitors of P-gp and BCRP and thus are not expected to increase exposures of drugs that are substrates of these transporters.
