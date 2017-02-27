@@ -4,5 +4,5 @@ EPCLUSA, COMPLERA, GENVOYA, HARVONI, and STRIBILD are trademarks of Gilead Scien
 ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-© 2016 Gilead Sciences, Inc. All rights reserved.
-208341-GS-000
+© 2017 Gilead Sciences, Inc. All rights reserved.
+208341-GS-001

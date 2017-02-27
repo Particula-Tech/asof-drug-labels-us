@@ -65,7 +65,7 @@ Specific Populations
 - The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m2), moderate (eGFR between 30 to less than 50 mL/min/1.73 m2), severe renal impairment (eGFR less than 30 mL/min/1.73 m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
   Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in subjects with mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
   In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
-  A 4 hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+  A 4 hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 - The pharmacokinetics of velpatasvir were studied with a single dose of 100 mg velpatasvir in HCV negative subjects with severe renal impairment (eGFR less than 30 mL/min by Cockcroft-Gault).
   No clinically relevant differences in velpatasvir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment.
 
@@ -88,7 +88,7 @@ In clinical pharmacology studies, both sofosbuvir and the primary circulating me
 Sofosbuvir and velpatasvir are substrates of drug transporters P-gp and BCRP while GS-331007 is not.
 Velpatasvir is also transported by OATP1B1 and OATP1B3.
 In vitro, slow metabolic turnover of velpatasvir by CYP2B6, CYP2C8, and CYP3A4 was observed.
-Inducers of P-gp and/or moderate to potent inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., rifampin, St. John's wort, carbamazepine) may decrease plasma concentrations of sofosbuvir and/or velpatasvir, leading to reduced therapeutic effect of EPCLUSA [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
+Inducers of P-gp and/or moderate to potent inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., rifampin, St. John's wort, carbamazepine) may decrease plasma concentrations of sofosbuvir and/or velpatasvir, leading to reduced therapeutic effect of EPCLUSA [see Warnings and Precautions (5.3) and Drug Interactions (7.3)].
 Coadministration with drugs that inhibit P-gp and/or BCRP may increase sofosbuvir and/or velpatasvir plasma concentrations without increasing GS-331007 plasma concentration.
 Drugs that inhibit CYP2B6, CYP2C8, or CYP3A4 may increase plasma concentration of velpatasvir.
 

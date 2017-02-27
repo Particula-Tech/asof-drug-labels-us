@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described below and elsewhere in labeling:
 
-- Serious Symptomatic Bradycardia When Sofosbuvir Is Coadministered with Amiodarone and Another HCV Direct-Acting Antiviral [see Warnings and Precautions (5.1)].
+- Serious Symptomatic Bradycardia When Sofosbuvir Is Coadministered with Amiodarone and Another HCV Direct-Acting Antiviral [see Warnings and Precautions (5.2)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -76,4 +76,4 @@ Because postmarketing reactions are reported voluntarily from a population of un
 
 Cardiac Disorders
 
-Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiated treatment with sofosbuvir in combination with another HCV direct-acting antiviral [see Warnings and Precautions (5.1) and Drug Interactions (7.3)].
+Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiated treatment with sofosbuvir in combination with another HCV direct-acting antiviral [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].

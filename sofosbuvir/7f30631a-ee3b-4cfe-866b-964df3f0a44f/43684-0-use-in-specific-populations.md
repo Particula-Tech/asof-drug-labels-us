@@ -67,7 +67,7 @@ No dosage adjustment of EPCLUSA is warranted in geriatric patients [see Clinical
 
 No dosage adjustment of EPCLUSA is required for patients with mild or moderate renal impairment.
 The safety and efficacy of EPCLUSA have not been established in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD requiring hemodialysis.
-No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 Refer to ribavirin prescribing information regarding use of ribavirin in patients with renal impairment.
 
 ## 8.7 Hepatic Impairment
