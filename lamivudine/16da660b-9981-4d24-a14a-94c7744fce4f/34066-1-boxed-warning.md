@@ -1,19 +1,11 @@
-# WARNING: HEMATOLOGIC TOXICITY, MYOPATHY, LACTIC ACIDOSIS AND SEVERE HEPATOMEGALY, and EXACERBATIONS OF HEPATITIS B
+# WARNING: HEMATOLOGIC TOXICITY, MYOPATHY, LACTIC ACIDOSIS AND SEVERE HEPATOMEGALY WITH STEATOSIS, and EXACERBATIONS OF HEPATITIS B
 
-Hematologic Toxicity
-
-Zidovudine, a component of COMBIVIR® (lamivudine and zidovudine) tablets, has been associated with hematologic toxicity including neutropenia and severe anemia, particularly in patients with advanced Human Immunodeficiency Virus (HIV-1) disease [see Warnings and Precautions (5.1)].
-
-Myopathy
+Zidovudine, a component of COMBIVIR (lamivudine and zidovudine) tablets, has been associated with hematologic toxicity including neutropenia and severe anemia, particularly in patients with advanced Human Immunodeficiency Virus (HIV-1) disease [see Warnings and Precautions (5.1)].
 
 Prolonged use of zidovudine has been associated with symptomatic myopathy [see Warnings and Precautions (5.2)].
 
-Lactic Acidosis and Severe Hepatomegaly with Steatosis
-
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including lamivudine, zidovudine, and other antiretrovirals.
 Discontinue COMBIVIR if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity occur [see Warnings and Precautions (5.3)].
-
-Exacerbations of Hepatitis B
 
 Severe acute exacerbations of hepatitis B have been reported in patients who are co-infected with hepatitis B virus (HBV) and HIV-1 and have discontinued lamivudine, which is one component of COMBIVIR.
 Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in patients who discontinue COMBIVIR and are co-infected with HIV-1 and HBV.

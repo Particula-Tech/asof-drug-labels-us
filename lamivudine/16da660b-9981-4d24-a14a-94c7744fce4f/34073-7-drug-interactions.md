@@ -8,7 +8,7 @@ Concomitant use of zidovudine with the following drugs should be avoided since a
 
 - •Stavudine
 - •Doxorubicine
-- •Nucleoside analogues e.g., ribavirin
+- •Nucleoside analogues, e.g., ribavirin
 
 Hematologic/Bone Marrow Suppressive/Cytotoxic Agents
 

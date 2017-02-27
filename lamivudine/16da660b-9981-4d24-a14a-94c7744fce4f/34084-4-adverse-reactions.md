@@ -6,11 +6,11 @@ The following adverse reactions are discussed in other sections of the labeling:
 - •Symptomatic myopathy [see Boxed Warning, Warnings and Precautions (5.2)].
 - •Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
 - •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.4)].
-- •Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.6)].
-- •Exacerbation of anemia in HIV-1/HCV co-infected patients receiving ribavirin and zidovudine [see Warnings and Precautions (5.6)].
-- •Pancreatitis [see Warnings and Precautions (5.7)].
-- •Immune reconstitution syndrome [see Warnings and Precautions (5.8)].
-- •Fat redistribution [see Warnings and Precautions (5.9)].
+- •Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.5)].
+- •Exacerbation of anemia in HIV-1/HCV co-infected patients receiving ribavirin and zidovudine [see Warnings and Precautions (5.5)].
+- •Pancreatitis [see Warnings and Precautions (5.6)].
+- •Immune reconstitution syndrome [see Warnings and Precautions (5.7)].
+- •Fat redistribution [see Warnings and Precautions (5.8)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -18,7 +18,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Lamivudine plus Zidovudine Administered as Separate Formulations
 
-In 4 randomized, controlled trials of EPIVIR 300 mg per day plus RETROVIR 600 mg per day, the following selected adverse reactions and laboratory abnormalities were observed (see Tables 1 and 2).
+In 4 randomized, controlled trials of EPIVIR 300 mg per day plus RETROVIR 600 mg per day, the following selected adverse reactions and laboratory abnormalities were observed (Tables 1 and 2).
 
 Table 1.
 Selected Clinical Adverse Reactions (Greater than or Equal to 5% Frequency) in 4 Controlled Clinical Trials with EPIVIR 300 mg per day and RETROVIR 600 mg per day
@@ -52,7 +52,7 @@ Selected Clinical Adverse Reactions (Greater than or Equal to 5% Frequency) in 4
 | Myalgia | 8% |
 | Arthralgia | 5% |
 
-Pancreatitis was observed in 9 of the 2,613 adult subjects (0.3%) who received EPIVIR in controlled clinical trials [see Warnings and Precautions (5.7)].
+Pancreatitis was observed in 9 of the 2,613 adult subjects (0.3%) who received EPIVIR in controlled clinical trials [see Warnings and Precautions (5.6)].
 
 Selected laboratory abnormalities observed during therapy are listed in Table 2.
 
@@ -80,7 +80,7 @@ Because these reactions are reported voluntarily from a population of unknown si
 
 Body as a Whole
 
-Redistribution/accumulation of body fat [see Warnings and Precautions (5.9)].
+Redistribution/accumulation of body fat [see Warnings and Precautions (5.8)].
 
 Cardiovascular
 
@@ -104,7 +104,7 @@ Anemia, (including pure red cell aplasia and anemias progressing on therapy), ly
 
 Hepatic and Pancreatic
 
-Lactic acidosis and hepatic steatosis, pancreatitis, posttreatment exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.3), (5.4), (5.7)].
+Lactic acidosis and hepatic steatosis, pancreatitis, posttreatment exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.3), (5.4), (5.6)].
 
 Hypersensitivity
 

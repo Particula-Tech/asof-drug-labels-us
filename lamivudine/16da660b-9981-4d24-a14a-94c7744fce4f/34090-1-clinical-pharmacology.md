@@ -50,11 +50,11 @@ Pharmacokinetic Parametersa for Lamivudine and Zidovudine in Adults
 Effect of Food on Absorption of COMBIVIR: COMBIVIR may be administered with or without food.
 The lamivudine and zidovudine AUC following administration of COMBIVIR with food was similar when compared with fasting healthy subjects (n = 24).
 
-Special Populations
+Specific Populations
 
 Renal Impairment: COMBIVIR: The effect of renal impairment on the combination of lamivudine and zidovudine has not been evaluated (see the U.S. prescribing information for the individual lamivudine and zidovudine components).
 
-Hepatic Impairment: COMBIVIR: Theeffect of hepatic impairment on the combination of lamivudine, and zidovudine has not been evaluated (see the U.S. prescribing information for the individual lamivudine and zidovudine components).
+Hepatic Impairment: COMBIVIR: The effect of hepatic impairment on the combination of lamivudine, and zidovudine has not been evaluated (see the U.S. prescribing information for the individual lamivudine and zidovudine components).
 
 Pregnancy: Lamivudine: Lamivudine pharmacokinetics were studied in 36 pregnant women during 2 clinical trials conducted in South Africa.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
@@ -86,12 +86,12 @@ No drug interaction trials have been conducted using COMBIVIR tablets.
 
 Lamivudine and Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV‑1-infected adult subjects given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 hours).
 
-Other interactions
+Other Interactions
 
 Interferon Alfa: There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects.
 
 Ribavirin: In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
-However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV‑1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV‑1/HCV co‑infected subjects [see Warnings and Precautions (5.5)].
+However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV‑1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV‑1/HCV co‑infected subjects.
 
 Table 4 presents drug interaction information for the individual components of COMBIVIR.
 
@@ -102,17 +102,17 @@ Effect of Coadministered Drugs on Lamivudine and Zidovudine AUCa
 | --- | --- | --- | --- | --- | --- |
 | AUC | Variability |  |  |  |  |
 | Nelfinavir 750 mg every 8 h x 7 to 10 days | Lamivudinesingle 150 mg | 11 | ↑10% | 95% CI:1% to 20% | ↔ |
-| Trimethoprim 160 mg/Sulfamethoxazole 800 mg daily x 5 days | Lamivudinesingle 300 mg | 14 | ↑43% | 90% CI:32% to 55% | ↔ |
-| Atovaquone 750 mg every 12 h with food | Zidovudine200 mg every 8 h | 14 | ↑31% | Range23% to 78%b | ↔ |
-| Clarithromycin 500 mg twice daily | Zidovudine 100 mg every 4 h x 7 days | 4 | ↓12% | Range↓34% to ↑14% | Not Reported |
+| Trimethoprim 160 mg/ Sulfamethoxazole 800 mg daily x 5 days | Lamivudinesingle 300 mg | 14 | ↑43% | 90% CI:32% to 55% | ↔ |
+| Atovaquone 750 mg every 12 h with food | Zidovudine200 mg every 8 h | 14 | ↑31% | Range:23% to 78%b | ↔ |
+| Clarithromycin 500 mg twice daily | Zidovudine 100 mg every 4 h x 7 days | 4 | ↓12% | Range:↓34% to ↑14% | Not Reported |
 | Fluconazole 400 mg daily | Zidovudine 200 mg every 8 h | 12 | ↑74% | 95% CI:54% to 98% | Not Reported |
-| Methadone 30 to 90 mg daily | Zidovudine 200 mg every 4 h | 9 | ↑43% | Range16% to 64%b | ↔ |
-| Nelfinavir 750 mg every 8 h x 7 to 10 days | Zidovudine single 200 mg | 11 | ↓35% | Range28% to 41% | ↔ |
-| Probenecid 500 mg every 6 h x 2 days | Zidovudine 2 mg/kg every 8 h x 3 days | 3 | ↑106% | Range100% to 170%b | Not Assessed |
-| Rifampin 600 mg daily x 14 days | Zidovudine 200 mg every 8 hx 14 days | 8 | ↓47% | 90% CI:41% to 53% | Not Assessed |
+| Methadone 30 to 90 mg daily | Zidovudine 200 mg every 4 h | 9 | ↑43% | Range:16% to 64%b | ↔ |
+| Nelfinavir 750 mg every 8 h x 7 to 10 days | Zidovudine single 200 mg | 11 | ↓35% | Range:28% to 41% | ↔ |
+| Probenecid 500 mg every 6 h x 2 days | Zidovudine 2 mg/kg every 8 h x 3 days | 3 | ↑106% | Range:100% to 170%b | Not Assessed |
+| Rifampin 600 mg daily x 14 days | Zidovudine 200 mg every 8 h x 14 days | 8 | ↓47% | 90% CI:41% to 53% | Not Assessed |
 | Ritonavir 300 mg every 6 h x 4 days | Zidovudine 200 mg every 8 h x 4 days | 9 | ↓25% | 95% CI:15% to 34% | ↔ |
-| Valproic acid 250 mg or 500 mg every 8 h x 4 days | Zidovudine 100 mg every 8 h x 4 days | 6 | ↑80% | Range64% to 130%b | Not Assessed |
-| ↑ = Increase; ↓= Decrease; ↔ = no significant change; AUC = area under the concentration versus time curve; CI = confidence interval. |  |  |  |  |  |
+| Valproic acid 250 mg or 500 mg every 8 h x 4 days | Zidovudine 100 mg every 8 h x 4 days | 6 | ↑80% | Range:64% to 130%b | Not Assessed |
+| ↑ = Increase; ↓= Decrease; ↔ = No significant change; AUC = Area under the concentration versus time curve; CI = Confidence interval. |  |  |  |  |  |
 | a This table is not all inclusive. |  |  |  |  |  |
 | b Estimated range of percent difference. |  |  |  |  |  |
 
@@ -130,7 +130,7 @@ The principal mode of action of ZDV-TP is inhibition of RT via DNA chain termina
 
 Antiviral Activity
 
-Lamivudine plus Zidovudine: In HIV-1–infected MT‑4 cells, lamivudine in combination with zidovudine at various ratios exhibited synergistic antiretroviral activity.
+Lamivudine plus Zidovudine: In HIV-1–infected MT‑4 cells, lamivudine in combination with zidovudine at various ratios was not antagonistic.
 
 Lamivudine: The antiviral activity of lamivudine against HIV‑1 was assessed in a number of cell lines including monocytes and fresh human peripheral blood lymphocytes (PBMCs) using standard susceptibility assays.
 EC50 values were in the range of 0.003 to 15 microM (1 microM = 0.23 mcg per mL).
@@ -144,7 +144,7 @@ HIV‑1 from therapy‑naive subjects with no amino acid substitutions associate
 The EC50 values of zidovudine against different HIV‑1 clades (A-G) ranged from 0.00018 to 0.02 microM, and against HIV‑2 isolates from 0.00049 to 0.004 microM.
 Ribavirin has been found to inhibit the phosphorylation of zidovudine in cell culture.
 
-Neither lamivudine nor zidovudine were antagonistic to tested anti-HIV agents, with the exception of stavudine where an antagonistic relationship with zidovudine has been demonstrated in cell culture.
+Neither lamivudine nor zidovudine was antagonistic to tested anti-HIV agents, with the exception of stavudine where an antagonistic relationship with zidovudine has been demonstrated in cell culture.
 See full prescribing information for EPIVIR (lamivudine) and RETROVIR (zidovudine).
 
 Resistance
@@ -156,15 +156,15 @@ Dual resistance required the presence of multiple amino acid substitutions, the 
 The incidence of dual resistance and the duration of combination therapy required before dual resistance occurs are unknown.
 
 Lamivudine: Lamivudine‑resistant isolates of HIV‑1 have been selected in cell culture and have also been recovered from subjects treated with lamivudine or lamivudine plus zidovudine.
-Genotypic analysis of isolates selected in cell culture and recovered from lamivudine‑treated subjects showed that the resistance was due to a specific amino acid substitution in the HIV‑1 reverse transcriptase at codon 184 changing the methionine to either isoleucine or valine (M184V/I).
+Genotypic analysis of isolates selected in cell culture and recovered from lamivudine‑treated subjects showed that the resistance was due to a specific amino acid substitution in the HIV‑1 reverse transcriptase at codon 184 changing the methionine to either valine or isoleucine (M184V/I).
 
 Zidovudine: HIV‑1 isolates with reduced susceptibility to zidovudine have been selected in cell culture and were also recovered from subjects treated with zidovudine.
-Genotypic analyses of the isolates selected in cell culture and recovered from zidovudine‑treated subjects showed thymidine analog mutation (TAM) substitutions in HIV‑1 RT (M41L, D67N, K70R, L210W, T215Y or F, and K219E/R/H/Q/N) that confer zidovudine resistance.
+Genotypic analyses of the isolates selected in cell culture and recovered from zidovudine‑treated subjects showed thymidine analogue mutation (TAM) substitutions in HIV‑1 RT (M41L, D67N, K70R, L210W, T215Y or F, and K219E/R/H/Q/N) that confer zidovudine resistance.
 In general, higher levels of resistance were associated with greater number of substitutions.
 
 In some subjects harboring zidovudine‑resistant virus at baseline, phenotypic sensitivity to zidovudine was restored by 12 weeks of treatment with lamivudine and zidovudine.
 
-Cross‑resistance
+Cross‑Resistance
 
 Cross‑resistance has been observed among NRTIs.
 Cross‑resistance between lamivudine and zidovudine has not been reported.

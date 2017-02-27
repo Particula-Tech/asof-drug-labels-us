@@ -27,19 +27,13 @@ Clinical and laboratory evidence of exacerbations of hepatitis have occurred aft
 See full prescribing information for EPIVIR (lamivudine).
 Patients should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
 
-Emergence of Lamivudine-resistant HBV
+Emergence of Lamivudine-Resistant HBV
 
 Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in subjects dually infected with HIV‑1 and HBV.
 Emergence of hepatitis B virus variants associated with resistance to lamivudine has been reported in HIV-1‑infected subjects who have received lamivudine‑containing antiretroviral regimens in the presence of concurrent infection with hepatitis B virus.
 See full prescribing information for EPIVIR (lamivudine).
 
-## 5.5 Related Products that are Not Recommended
-
-COMBIVIR is a fixed-dose combination of 2 nucleoside analogue reverse transcriptase inhibitors (lamivudine and zidovudine).
-Concomitant administration of COMBIVIR with other products containing lamivudine or zidovudine is not recommended.
-In addition, do not administer COMBIVIR in combination with products containing emtricitabine.
-
-## 5.6 Use with Interferon- and Ribavirin-based Regimens
+## 5.5 Use with Interferon- and Ribavirin-Based Regimens
 
 Patients receiving interferon alfa with or without ribavirin and COMBIVIR should be closely monitored for treatment‑associated toxicities, especially hepatic decompensation, neutropenia, and anemia.
 See full prescribing information for EPIVIR (lamivudine) and RETROVIR (zidovudine).
@@ -49,19 +43,19 @@ Dose reduction or discontinuation of interferon alfa, ribavirin, or both should 
 Exacerbation of anemia has been reported in HIV-1/HCV co-infected patients receiving ribavirin and zidovudine.
 Coadministration of ribavirin and COMBIVIR is not advised.
 
-## 5.7 Pancreatitis
+## 5.6 Pancreatitis
 
 COMBIVIR should be used with caution in patients with a history of pancreatitis or other significant risk factors for the development of pancreatitis.
 Treatment with COMBIVIR should be stopped immediately if clinical signs, symptoms, or laboratory abnormalities suggestive of pancreatitis occur [see Adverse Reactions (6.1)].
 
-## 5.8 Immune Reconstitution Syndrome
+## 5.7 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including COMBIVIR.
 During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
-## 5.9 Fat Redistribution
+## 5.8 Fat Redistribution
 
 Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and “cushingoid appearance” have been observed in patients receiving antiretroviral therapy.
 The mechanism and long-term consequences of these events are currently unknown.

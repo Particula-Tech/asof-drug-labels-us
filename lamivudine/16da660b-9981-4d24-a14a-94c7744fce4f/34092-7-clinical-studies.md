@@ -11,7 +11,7 @@ The median duration on trial was 12 months.
 Results are summarized in Table 5.
 
 Table 5.
-Number of Subjects (%) with at Least 1 HIV-1 Disease-progression Event or Death
+Number of Subjects (%) with at Least 1 HIV-1 Disease-Progression Event or Death
 
 | Endpoint | Current Therapy (n = 460) | EPIVIRplus Current Therapy(n = 896) | EPIVIRplus a NNRTIaplus Current Therapy (n = 460) |
 | --- | --- | --- | --- |

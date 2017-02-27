@@ -8,13 +8,13 @@ Lamivudine: Long‑term carcinogenicity studies with lamivudine in mice and rats
 
 Zidovudine: Zidovudine was administered orally at 3 dosage levels to separate groups of mice and rats (60 females and 60 males in each group).
 Initial single daily doses were 30, 60, and 120 mg per kg per day in mice and 80, 220, and 600 mg per kg per day in rats.
-The doses in mice were reduced to 20, 30, and 40 mg per kg per day after day 90 because of treatment‑related anemia, whereas in rats only the high dose was reduced to 450 mg per kg per day on day 91 and then to 300 mg per kg per day on day 279.
+The doses in mice were reduced to 20, 30, and 40 mg per kg per day after Day 90 because of treatment‑related anemia, whereas in rats only the high dose was reduced to 450 mg per kg per day on Day 91 and then to 300 mg per kg per day on Day 279.
 
-In mice, 7 late‑appearing (after 19 months) vaginal neoplasms (5 nonmetastasizing squamous cell carcinomas, 1 squamous cell papilloma, and 1 squamous polyp) occurred in animals given the highest dose.
+In mice, 7 late‑appearing (after 19 months) vaginal neoplasms (5 non-metastasizing squamous cell carcinomas, 1 squamous cell papilloma, and 1 squamous polyp) occurred in animals given the highest dose.
 One late‑appearing squamous cell papilloma occurred in the vagina of a middle-dose animal.
 No vaginal tumors were found at the lowest dose.
 
-In rats, 2 late‑appearing (after 20 months), nonmetastasizing vaginal squamous cell carcinomas occurred in animals given the highest dose.
+In rats, 2 late‑appearing (after 20 months), non-metastasizing vaginal squamous cell carcinomas occurred in animals given the highest dose.
 No vaginal tumors occurred at the low or middle dose in rats.
 No other drug‑related tumors were observed in either sex of either species.
 
@@ -32,26 +32,6 @@ It was negative in a cytogenetic study in rats given a single dose.
 
 Impairment of Fertility
 
-Lamivudine: Lamivudine did not affect male or female fertility in rats at a dose associated with exposures approximately 130 times higher than the exposure in humans at the dose of 300 mg.
+Lamivudine: Lamivudine did not affect male or female fertility in rats at doses up to 4,000 mg per kg per day, associated with concentrations approximately 42 times (male) or 63 times (female) higher than concentrations (Cmax) in humans at the dose of 300 mg.
 
-Zidovudine: Zidovudine, administered to male and female rats at doses up to 7 times the usual adult dose based on body surface area considerations, had no effect on fertility judged by conception rates.
-
-## 13.2 Animal Toxicology and/or Pharmacology
-
-Lamivudine
-
-Reproduction studies have been performed in rats and rabbits at orally administered doses up to 4,000 mg per kg per day and 1,000 mg per kg per day, respectively, producing plasma levels up to approximately 35 times that for the adult HIV dose.
-No evidence of teratogenicity due to lamivudine was observed.
-Evidence of early embryolethality was seen in the rabbit at exposure levels similar to those observed in humans, but there was no indication of this effect in the rat at exposure levels up to 35 times those in humans.
-Studies in pregnant rats and rabbits showed that lamivudine is transferred to the fetus through the placenta.
-
-Zidovudine
-
-Oral teratology studies in the rat and in the rabbit at doses up to 500 mg per kg per day revealed no evidence of teratogenicity with zidovudine.
-Zidovudine treatment resulted in embryo/fetal toxicity as evidenced by an increase in the incidence of fetal resorptions in rats given 150 or 450 mg per kg per day and rabbits given 500 mg per kg per day.
-The doses used in the teratology studies resulted in peak zidovudine plasma concentrations (after one-half of the daily dose) in rats 66 to 226 times, and in rabbits 12 to 87 times, mean steady‑state peak human plasma concentrations (after one-sixth of the daily dose) achieved with the recommended daily dose (100 mg every 4 hours).
-In an in vitro experiment with fertilized mouse oocytes, zidovudine exposure resulted in a dose‑dependent reduction in blastocyst formation.
-In an additional teratology study in rats, a dose of 3,000 mg per kg per day (very near the oral median lethal dose in rats of 3,683 mg per kg) caused marked maternal toxicity and an increase in the incidence of fetal malformations.
-This dose resulted in peak zidovudine plasma concentrations 350 times peak human plasma concentrations.
-(Estimated AUC in rats at this dose level was 300 times the daily AUC in humans given 600 mg per day.)
-No evidence of teratogenicity was seen in this experiment at doses of 600 mg per kg per day or less.
+Zidovudine: Zidovudine, administered to male and female rats at doses up to 450 mg per kg per day, which is 7 times the recommended adult dose (300 mg twice daily) based on body surface area, had no effect on fertility based on conception rates.
