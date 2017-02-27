@@ -94,9 +94,9 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Subjec
 
 | Test(Abnormal Level) | EPIVIR plus RETROVIR | Didanosine |
 | --- | --- | --- |
-| Neutropenia (ANC<400 cells/mm3) | 8% | 3% |
-| Anemia (Hgb<7.0 g/dL) | 4% | 2% |
-| Thrombocytopenia (platelets<50,000/mm3) | 1% | 3% |
+| Neutropenia (ANC <400 cells/mm3) | 8% | 3% |
+| Anemia (Hgb <7.0 g/dL) | 4% | 2% |
+| Thrombocytopenia (platelets <50,000/mm3) | 1% | 3% |
 | ALT (>10 x ULN) | 1% | 3% |
 | AST (>10 x ULN) | 2% | 4% |
 | Lipase (>2.5 x ULN) | 3% | 3% |
@@ -121,33 +121,57 @@ The long-term consequences of in utero and infant exposure to RETROVIR are unkno
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postmarketing use of RETROVIR.
+The following adverse reactions have been identified during post-approval use of RETROVIR.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole: Back pain, chest pain, flu-like syndrome, generalized pain, redistribution/accumulation of body fat [see Warnings and Precautions (5.8)].
+Body as a Whole
 
-Cardiovascular: Cardiomyopathy, syncope.
+Back pain, chest pain, flu-like syndrome, generalized pain, redistribution/accumulation of body fat [see Warnings and Precautions (5.7)].
+
+Cardiovascular
+
+Cardiomyopathy, syncope.
 
 Eye: Macular edema.
 
-Gastrointestinal: Constipation, dysphagia, flatulence, oral mucosa pigmentation, mouth ulcer.
+Gastrointestinal
 
-General: Sensitization reactions including anaphylaxis and angioedema, vasculitis.
+Constipation, dysphagia, flatulence, oral mucosa pigmentation, mouth ulcer.
 
-Hematologic: Aplastic anemia, hemolytic anemia, leukopenia, lymphadenopathy, pancytopenia with marrow hypoplasia, pure red cell aplasia.
+General
+
+Sensitization reactions including anaphylaxis and angioedema, vasculitis.
+
+Hematologic
+
+Aplastic anemia, hemolytic anemia, leukopenia, lymphadenopathy, pancytopenia with marrow hypoplasia, pure red cell aplasia.
 
 Hepatobiliary: Hepatitis, hepatomegaly with steatosis, jaundice, lactic acidosis, pancreatitis.
 
-Musculoskeletal: Increased CPK, increased LDH, muscle spasm, myopathy and myositis with pathological changes (similar to that produced by HIV-1 disease), rhabdomyolysis, tremor.
+Musculoskeletal
 
-Nervous: Anxiety, confusion, depression, dizziness, loss of mental acuity, mania, paresthesia, seizures, somnolence, vertigo.
+Increased CPK, increased LDH, muscle spasm, myopathy and myositis with pathological changes (similar to that produced by HIV-1 disease), rhabdomyolysis, tremor.
 
-Reproductive System and Breast: Gynecomastia.
+Nervous
 
-Respiratory: Dyspnea, rhinitis, sinusitis.
+Anxiety, confusion, depression, dizziness, loss of mental acuity, mania, paresthesia, seizures, somnolence, vertigo.
 
-Skin and Subcutaneous Tissue: Changes in skin and nail pigmentation, pruritus, Stevens-Johnson syndrome, toxic epidermal necrolysis, sweating, urticaria.
+Reproductive System and Breast
 
-Special Senses: Amblyopia, hearing loss, photophobia, taste perversion.
+Gynecomastia.
 
-Renal and Urinary: Urinary frequency, urinary hesitancy.
+Respiratory
+
+Dyspnea, rhinitis, sinusitis.
+
+Skin and Subcutaneous Tissue
+
+Changes in skin and nail pigmentation, pruritus, Stevens-Johnson syndrome, toxic epidermal necrolysis, sweating, urticaria.
+
+Special Senses
+
+Amblyopia, hearing loss, photophobia, taste perversion.
+
+Renal and Urinary
+
+Urinary frequency, urinary hesitancy.

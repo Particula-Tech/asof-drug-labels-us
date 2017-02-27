@@ -2,34 +2,53 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C.
+Pregnancy Exposure Registry
 
-In humans, treatment with RETROVIR during pregnancy reduced the rate of maternal-fetal HIV-1 transmission from 24.9% for infants born to placebo-treated mothers to 7.8% for infants born to mothers treated with RETROVIR [see Clinical Studies (14.3)].
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to RETROVIR during pregnancy.
+Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
+
+Risk Summary
+
+Available data from the APR show no difference in the overall risk of birth defects for zidovudine compared with the background rate for birth defects of 2.7% in the Metropolitan Atlanta Congenital Defects Program (MACDP) reference population [see Data].
+The APR uses the MACDP as the U.S. reference population for birth defects in the general population.
+The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks gestation.
+The rate of miscarriage is not reported in the APR.
+The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15% to 20%.
+The background risk for major birth defects and miscarriage for the indicated population is unknown.
+
+In an animal reproduction study, administration of oral zidovudine to female rats prior to mating and throughout gestation resulted in embryotoxicity at doses that produced systemic exposure (AUC) approximately 33 times higher than exposure at the recommended clinical dose.
+However, no embryotoxicity was observed after oral administration of zidovudine to pregnant rats during organogenesis at doses that produced systemic exposure (AUC) approximately 117 times higher than exposures at the recommended clinical dose.
+Administration of oral zidovudine to pregnant rabbits during organogenesis resulted in embryotoxicity at doses that produced systemic exposure (AUC) approximately 108 times higher than exposure at the recommended clinical dose.
+However, no embryotoxicity was observed at doses that produced systemic exposure (AUC) approximately 23 times higher than exposures at the recommended clinical dose [see Data].
+
+Data
+
+Human Data: Based on prospective reports to the APR of over 13,000 exposures to zidovudine during pregnancy resulting in live births (including over 4,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for zidovudine (2.9%) compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 3.2% (95% CI: 2.7% to 3.8%) following first trimester exposure to zidovudine-containing regimens.
+
+A randomized, double‑blind, placebo‑controlled trial was conducted in HIV‑1‑infected pregnant women to determine the utility of RETROVIR for the prevention of maternal‑fetal HIV‑1‑transmission [see Clinical Studies (14.3)].
+Zidovudine treatment during pregnancy reduced the rate of maternal-fetal HIV-1 transmission from 24.9% for infants born to placebo-treated mothers to 7.8% for infants born to mothers treated with zidovudine.
 There were no differences in pregnancy-related adverse events between the treatment groups.
-Animal reproduction studies in rats and rabbits showed evidence of embryotoxicity and increased fetal malformations.
-
-A randomized, double-blind, placebo-controlled trial was conducted in HIV-1-infected pregnant women to determine the utility of RETROVIR for the prevention of maternal-fetal HIV-1-transmission [see Clinical Studies (14.3)].
-Congenital abnormalities occurred with similar frequency between neonates born to mothers who received RETROVIR and neonates born to mothers who received placebo.
+Of the 363 neonates that were evaluated, congenital abnormalities occurred with similar frequency between neonates born to mothers who received RETROVIR and neonates born to mothers who received placebo.
 The observed abnormalities included problems in embryogenesis (prior to 14 weeks) or were recognized on ultrasound before or immediately after initiation of study drug.
 
-Increased fetal resorptions occurred in pregnant rats and rabbits treated with doses of zidovudine that produced drug plasma concentrations 66 to 226 times (rats) and 12 to 87 times (rabbits) the mean steady-state peak human plasma concentration following a single 100-mg dose of zidovudine.
-There were no other reported developmental anomalies.
-In another developmental toxicity study, pregnant rats received zidovudine up to near-lethal doses that produced peak plasma concentrations 350 times peak human plasma concentrations (300 times the daily exposure [AUC] in humans given 600 mg per day zidovudine).
-This dose was associated with marked maternal toxicity and an increased incidence of fetal malformations.
-However, there were no signs of teratogenicity at doses up to one-fifth the lethal dose [see Nonclinical Toxicology (13.2)].
+Zidovudine has been shown to cross the placenta and concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery [see Clinical Pharmacology (12.3)].
 
-Antiretroviral Pregnancy Registry
+Animal Data: A study in pregnant rats (at 50, 150, or 450 mg per kg per day starting 26 days prior to mating through gestation to postnatal Day 21) showed increased fetal resorptions at doses that produced systemic exposures (AUC) approximately 33 times higher than exposure at the recommended daily human dose (300 mg twice daily).
+However, in an oral embryo-fetal development study in rats (at 125, 250, or 500 mg per kg per day on gestation Days 6 through 15), no fetal resorptions were observed at doses that produced systemic exposure (AUC) approximately 117 times higher than exposures at the recommended daily human dose.
+An oral embryo-fetal development study in rabbits (at 75, 150, or 500 mg per kg per day on gestation Day 6 through 18) showed increased fetal resorptions at the 500-mg-per-kg-per-day dose, which produced systemic exposures (AUC) approximately 108 times higher than exposure at the recommended daily human dose; however, no fetal resorptions were noted at doses up to 150 mg per kg per day, which produced systemic exposure (AUC) approximately 23 times higher than exposures at the recommended daily human dose.
+These oral embryo-fetal development studies in the rat and rabbit revealed no evidence of fetal malformations with zidovudine.
+In another developmental toxicity study, pregnant rats (dosed at 3,000 mg per kg per day from Days 6 through 15 of gestation) showed marked maternal toxicity and an increased incidence of fetal malformations at exposures greater than 300 times the recommended daily human dose based on AUC.
+However, there were no signs of fetal malformations at doses up to 600 mg per kg per day.
 
-To monitor maternal-fetal outcomes of pregnant women exposed to RETROVIR, an Antiretroviral Pregnancy Registry has been established.
-Physicians are encouraged to register patients by calling 1-800-258-4263.
+## 8.2 Lactation
 
-## 8.3 Nursing Mothers
+Risk Summary
 
-Zidovudine is excreted in human milk.
-After administration of a single dose of 200 mg zidovudine to 13 HIV‑1‑infected women, the mean concentration of zidovudine was similar in human milk and serum.
-
-The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
-Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving RETROVIR.
+The Centers for Disease Control and Prevention recommend that HIV‑1‑infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
+Zidovudine is present in human milk.
+There is no information on the effects of zidovudine on the breastfed infant or the effects of the drug on milk production.
+Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) serious adverse reactions in a breastfed infant instruct mothers not to breastfeed if they are receiving RETROVIR.
 
 ## 8.4 Pediatric Use
 

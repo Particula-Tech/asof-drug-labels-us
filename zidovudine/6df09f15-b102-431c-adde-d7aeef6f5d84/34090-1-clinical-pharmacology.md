@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Zidovudine is an antiviral agent [see Microbiology (12.4)].
+Zidovudine is an antiretroviral agent [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -33,7 +33,7 @@ b Approximate range.
 
 Distribution
 
-The apparent volume of distribution of zidovudine, is 1.6 ± 0.6 L per kg (Table 7); and binding to plasma protein is low (less than 38%).
+The apparent volume of distribution of zidovudine is 1.6 ± 0.6 L per kg (Table 7) and binding to plasma protein is low (less than 38%).
 
 Metabolism and Elimination
 
@@ -50,7 +50,7 @@ Effect of Food on Absorption
 RETROVIR may be administered with or without food.
 The zidovudine AUC was similar when a single dose of zidovudine was administered with food.
 
-Special Populations
+Specific Populations
 
 Renal Impairment: Zidovudine clearance was decreased resulting in increased zidovudine and GZDV half-life and AUC in subjects with impaired renal function (n = 14) following a single 200-mg oral dose (Table 8).
 Plasma concentrations of AMT were not determined.
@@ -117,7 +117,7 @@ Gender: A pharmacokinetic trial in healthy male (n = 12) and female (n = 12) sub
 
 Drug Interactions
 
-[See Drug Interactions (7)].
+[See Drug Interactions (7).]
 
 Table 10.
 Effect of Coadministered Drugs on Zidovudine AUCa
@@ -161,23 +161,21 @@ ZDV-TP is a weak inhibitor of the cellular DNA polymerases α and γ and has bee
 
 Antiviral Activity
 
-The antiviral activity of zidovudine against HIV-1 was assessed in a number of cell lines (including monocytes and fresh human peripheral blood lymphocytes).
+The antiviral activity of zidovudine against HIV-1 was assessed in a number of cell lines including monocytes and fresh human peripheral blood lymphocytes.
 The EC50 and EC90 values for zidovudine were 0.01 to 0.49 microM (1 microM = 0.27 mcg per mL) and 0.1 to 9 microM, respectively.
-HIV-1 from therapy-naive subjects with no mutations associated with resistance gave median EC50 values of 0.011 microM (range: 0.005 to 0.110 microM) from Virco (n = 92 baseline samples from COL40263) and 0.0017 microM (0.006 to 0.0340 microM) from Monogram Biosciences (n = 135 baseline samples from ESS30009).
+HIV-1 from therapy-naive subjects with no amino acid substitutions associated with resistance gave median EC50 values of 0.011 microM (range: 0.005 to 0.110 microM) from Virco (n = 92 baseline samples) and 0.0017 microM (range: 0.006 to 0.0340 microM) from Monogram Biosciences (n = 135 baseline samples).
 The EC50 values of zidovudine against different HIV-1 clades (A-G) ranged from 0.00018 to 0.02 microM, and against HIV-2 isolates from 0.00049 to 0.004 microM.
-In cell culture drug combination studies, zidovudine demonstrates synergistic activity with the nucleoside reverse transcriptase inhibitors abacavir, didanosine, and lamivudine; the non-nucleoside reverse transcriptase inhibitors delavirdine and nevirapine; and the protease inhibitors indinavir, nelfinavir, ritonavir, and saquinavir; and additive activity with interferon alfa.
+Zidovudine was not antagonistic to tested anti-HIV agents with the exception of stavudine where an antagonistic relationship with zidovudine has been demonstrated in cell culture.
 Ribavirin has been found to inhibit the phosphorylation of zidovudine in cell culture.
 
 Resistance
 
-Genotypic analyses of the isolates selected in cell culture and recovered from zidovudine-treated subjects showed mutations in the HIV-1 RT gene resulting in 6 amino acid substitutions (M41L, D67N, K70R, L210W, T215Y or F, and K219Q) that confer zidovudine resistance.
-In general, higher levels of resistance were associated with greater number of amino acid substitutions.
-In some subjects harboring zidovudine-resistant virus at baseline, phenotypic sensitivity to zidovudine was restored by 12 weeks of treatment with lamivudine and zidovudine.
-Combination therapy with lamivudine plus zidovudine delayed the emergence of substitutions conferring resistance to zidovudine.
+HIV-1 isolates with reduced susceptibility to zidovudine have been selected in cell culture and were also recovered from subjects treated with zidovudine.
+Genotypic analyses of the isolates selected in cell culture and recovered from zidovudine‑treated subjects showed thymidine analog mutation (TAMs) substitutions in the HIV‑1 RT (M41L, D67N, K70R, L210W, T215Y or F, and K219E/R/H/Q/N/Q) that confer zidovudine resistance.
+In general, higher levels of resistance were associated with greater number of substitutions.
+In some subjects harboring zidovudine‑resistant virus at baseline, phenotypic sensitivity to zidovudine was restored by 12 weeks of treatment with lamivudine and zidovudine.
 
 Cross-Resistance
 
-In a trial of 167 HIV-1-infected subjects, isolates (n = 2) with multi-drug resistance to didanosine, lamivudine, stavudine, zalcitabine, and zidovudine were recovered from subjects treated for at least 1 year with zidovudine plus didanosine or zidovudine plus zalcitabine.
-The pattern of resistance-associated amino acid substitutions with such combination therapies was different (A62V, V75I, F77L, F116Y, Q151M) from the pattern with zidovudine monotherapy, with the Q151M substitution being most commonly associated with multi-drug resistance.
-The substitution at codon 151 in combination with substitutions at 62, 75, 77, and 116 results in a virus with reduced susceptibility to didanosine, lamivudine, stavudine, zalcitabine, and zidovudine.
-Thymidine analogue mutations (TAMs) are selected by zidovudine and confer cross-resistance to abacavir, didanosine, stavudine, tenofovir, and zalcitabine.
+Cross-resistance has been observed among NRTIs.
+TAM substitutions are selected by zidovudine and confer cross‑resistance to abacavir, didanosine, stavudine, and tenofovir.
