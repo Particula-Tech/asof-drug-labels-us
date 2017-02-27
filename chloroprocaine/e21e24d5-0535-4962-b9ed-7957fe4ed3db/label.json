@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA040273"
+  ],
+  "inn": "chloroprocaine",
+  "labeler": "West-Ward Pharmaceuticals Corp",
+  "package_ndcs": [
+    "0143-9209-01",
+    "0143-9209-10",
+    "0143-9210-01",
+    "0143-9210-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "chloroprocaine hydrochloride",
+      "name": "Chloroprocaine Hydrochloride"
+    }
+  ],
+  "setid": "e21e24d5-0535-4962-b9ed-7957fe4ed3db",
+  "source": "dailymed"
+}
