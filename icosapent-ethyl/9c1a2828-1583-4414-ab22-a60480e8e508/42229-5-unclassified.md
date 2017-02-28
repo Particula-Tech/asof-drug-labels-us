@@ -8,4 +8,4 @@ VASCEPA is a registered trademark of the Amarin group of companies
 
 ©2016 Amarin Pharma, Inc. Bedminster NJ 07921 All rights reserved
 
-P00120J 9/2016
+P00120K 2/2017
