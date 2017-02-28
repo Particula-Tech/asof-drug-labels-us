@@ -5,4 +5,5 @@ Because midodrine hydrochloride tablets can cause marked elevation of supine blo
 The indication is based on midodrine hydrochloride tablets' effect on increases in 1-minute standing systolic blood pressure, a surrogate marker considered likely to correspond to a clinical benefit.
 At present, however, clinical benefits of midodrine hydrochloride tablets, principally improved ability to perform life activities, have not been established.
 Further clinical trials are underway to verify and describe the clinical benefits of midodrine hydrochloride tablets.
+
 After initiation of treatment, midodrine hydrochloride tablets should be continued only for patients who report significant symptomatic improvement.

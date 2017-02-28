@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Midodrine hydrochloride is a vasopressor/antihypotensive.
-The chemical name for midodrine hydrochloride is acetamide, 2-amino-N-[2-(2,5-dimethoxyphenyl)-2-hydroxyethyl]-, monohydrochloride, (±)-.
+The chemical name for midodrine hydrochloride is Acetamide, 2-amino-N-[2-(2,5-dimethoxyphenyl)-2-hydroxyethyl]-, monohydrochloride, (±)-.
 The molecular weight of midodrine hydrochloride is 290.7.
 Its structural formula and molecular formula are:
 
@@ -10,4 +10,4 @@ It is soluble in water and sparingly soluble in methanol and has a pKa of 7.8 (0
 It has a melting range of 200° to 203°C.
 
 Each midodrine hydrochloride tablet, USP for oral administration contains 2.5 mg, 5 mg or 10 mg of midodrine hydrochloride, USP.
-In addition, each tablet contains the following inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, microcrystalline cellulose, pregelatinized starch and sodium lauryl sulfate.
+In addition, each tablet contains the following inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, microcrystalline cellulose, pregelatinized starch (corn) and sodium lauryl sulfate.

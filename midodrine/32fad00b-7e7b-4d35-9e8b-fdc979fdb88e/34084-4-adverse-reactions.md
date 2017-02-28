@@ -21,6 +21,7 @@ Adverse Events
 
 Less frequent adverse reactions were headache; feeling of pressure/fullness in the head; vasodilation/flushing face; confusion/thinking abnormality; dry mouth; nervousness/anxiety and rash.
 Other adverse reactions that occurred rarely were visual field defect; dizziness; skin hyperesthesia; insomnia; somnolence; erythema multiforme; canker sore; dry skin; dysuria; impaired urination; asthenia; backache; pyrosis; nausea; gastrointestinal distress; flatulence and leg cramps.
-The most potentially serious adverse reaction associated with midodrine therapy is supine hypertension.
+
+The most potentially serious adverse reaction associated with midodrine hydrochloride tablets therapy is supine hypertension.
 The feelings of paresthesia, pruritus, piloerection and chills are pilomotor reactions associated with the action of midodrine on the alpha-adrenergic receptors of the hair follicles.
 Feelings of urinary urgency, retention and frequency are associated with the action of midodrine on the alpha-receptors of the bladder neck.

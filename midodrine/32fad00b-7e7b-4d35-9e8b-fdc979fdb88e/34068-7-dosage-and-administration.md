@@ -1,8 +1,8 @@
 # DOSAGE AND ADMINISTRATION
 
 The recommended dose of midodrine hydrochloride tablets is 10 mg, 3 times daily.
-Dosing should take place during the daytime hours when the patient needs to be upright, pursuing the activities of daily life.
-A suggested dosing schedule of approximately 4-hour intervals is as follows: shortly before or upon arising in the morning, midday, and late afternoon (not later than 6 P.M.).
+Dosing should take place during the daytime hours when the patient needs to be upright, pursuing the activities of daily living.
+A suggested dosing schedule of approximately 4-hour intervals is as follows: shortly before, or upon arising in the morning, midday and late afternoon (not later than 6 P.M.).
 Doses may be given in 3-hour intervals, if required, to control symptoms, but not more frequently.
 Single doses as high as 20 mg have been given to patients, but severe and persistent systolic supine hypertension occurs at a high rate (about 45%) at this dose.
 In order to reduce the potential for supine hypertension during sleep, midodrine hydrochloride tablets should not be given after the evening meal or less than 4 hours before bedtime.
