@@ -13,7 +13,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical Trials in Treatment-Naïve Adults
 
-The primary safety assessment of GENVOYA was based on Week 96 pooled data from 1733 subjects in two randomized, double-blind, active-controlled trials, Study 104 and Study 111, in antiretroviral treatment-naïve HIV-1 infected adult subjects.
+The primary safety assessment of GENVOYA was based on Week 96 pooled data from 1,733 subjects in two randomized, double-blind, active-controlled trials, Study 104 and Study 111, in antiretroviral treatment-naïve HIV-1 infected adult subjects.
 A total of 866 subjects received one tablet of GENVOYA once daily [see Clinical Studies (14.2)].
 
 The most common adverse reaction (all Grades) reported in at least 10% of subjects in the GENVOYA group was nausea.
@@ -37,8 +37,9 @@ The majority of events presented in Table 2 occurred at severity Grade 1.
 
 Clinical Trials in Virologically Suppressed Adults
 
-The safety of GENVOYA in virologically-suppressed adults was based on Week 48 data from 959 subjects in a randomized, open-label, active-controlled trial (Study 109) in which virologically-suppressed subjects were switched from a TDF-containing combination regimen to GENVOYA.
+The safety of GENVOYA in virologically-suppressed adults was based on Week 96 data from 959 subjects in a randomized, open-label, active-controlled trial (Study 109) in which virologically-suppressed subjects were switched from a TDF-containing combination regimen to GENVOYA.
 Overall, the safety profile of GENVOYA in subjects in this study was similar to that of treatment-naïve subjects [see Clinical Studies (14.3)].
+Additional adverse reactions observed with GENVOYA in Study 109 included suicidal ideation, suicidal behavior, and suicide attempt (<1% combined); all of these events were serious and all occurred in subjects with a preexisting history of depression or psychiatric illness.
 
 Clinical Trials in Adult Subjects with Renal Impairment
 
@@ -58,17 +59,17 @@ Treatment-Naïve Adults:
 Cobicistat (a component of GENVOYA) has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting glomerular filtration [see Clinical Pharmacology (12.2)].
 Increases in serum creatinine occurred by Week 2 of treatment and remained stable through 96 weeks.
 
-In two 96-week randomized, controlled trials in a total of 1733 treatment-naïve adults with a median baseline eGFR of 115 mL per minute, mean serum creatinine increased by less than 0.1 mg per dL in the GENVOYA group and by 0.1 mg per dL in the STRIBILD group from baseline to Week 96.
+In two 96-week randomized, controlled trials in a total of 1,733 treatment-naïve adults with a median baseline eGFR of 115 mL per minute, mean serum creatinine increased by less than 0.1 mg per dL in the GENVOYA group and by 0.1 mg per dL in the STRIBILD group from baseline to Week 96.
 
 Virologically Suppressed Adults:
 
-In a study of 1436 virologically-suppressed TDF-treated adults with a mean baseline eGFR of 112 mL per minute who were randomized to continue their treatment regimen or switch to GENVOYA, at Week 48 mean serum creatinine was similar to baseline for both those continuing baseline treatment and those switching to GENVOYA.
+In a study of 1,436 virologically-suppressed TDF-treated adults with a mean baseline eGFR of 112 mL per minute who were randomized to continue their treatment regimen or switch to GENVOYA, at Week 96 mean serum creatinine was similar to baseline for both those continuing baseline treatment and those switching to GENVOYA.
 
 Bone Mineral Density Effects
 
 Treatment-Naïve Adults:
 
-In the pooled analysis of Studies 104 and 111, bone mineral density (BMD) from baseline to Week 96 was assessed by dual-energy X-ray absorptiometry (DXA) to compare the bone safety of TAF to that of TDF when administered as GENVOYA or STRIBILD, respectively.
+In a pooled analysis of Studies 104 and 111, the effects of GENVOYA compared to STRIBILD on bone mineral density (BMD) change from baseline to Week 96 were assessed by dual-energy X-ray absorptiometry (DXA).
 Mean BMD decreased from baseline to Week 96 by −0.96% with GENVOYA compared to −2.79% with STRIBILD at the lumbar spine and −0.67% compared to −3.28% at the total hip.
 BMD declines of 5% or greater at the lumbar spine were experienced by 12% of GENVOYA subjects and 26% of STRIBILD subjects.
 BMD declines of 7% or greater at the femoral neck were experienced by 11% of GENVOYA subjects and 26% of STRIBILD subjects.
@@ -76,10 +77,10 @@ The long-term clinical significance of these BMD changes is not known.
 
 Virologically Suppressed Adults:
 
-In Study 109, TDF-treated subjects were randomized to continue their TDF-based regimen or switch to GENVOYA; changes in BMD from baseline to Week 48 were assessed by DXA.
-Mean BMD increased in subjects who switched to GENVOYA (1.86% lumbar spine, 1.95% total hip) and decreased slightly in subjects who continued their baseline regimen (−0.11% lumbar spine, −0.14% total hip).
-BMD declines of 5% or greater at the lumbar spine were experienced by 1% of GENVOYA subjects and 6% of subjects who continued their TDF-based regimen.
-BMD declines of 7% or greater at the femoral neck were experienced by 1% of GENVOYA subjects and 4% of subjects who continued their TDF-based regimen.
+In Study 109, TDF-treated subjects were randomized to continue their TDF-based regimen or switch to GENVOYA; changes in BMD from baseline to Week 96 were assessed by DXA.
+Mean BMD increased in subjects who switched to GENVOYA (2.12% lumbar spine, 2.44% total hip) and decreased slightly in subjects who continued their baseline regimen (−0.09% lumbar spine, −0.46% total hip).
+BMD declines of 5% or greater at the lumbar spine were experienced by 2% of GENVOYA subjects and 6% of subjects who continued their TDF-based regimen.
+BMD declines of 7% or greater at the femoral neck were experienced by 2% of GENVOYA subjects and 7% of subjects who continued their TDF-based regimen.
 The long-term clinical significance of these BMD changes is not known.
 
 Laboratory Abnormalities:
@@ -117,10 +118,10 @@ Table 4 Lipid Values, Mean Change from Baseline, Reported in Subjects Receiving 
 
 Clinical Trials in Pediatric Subjects:
 
-The safety of GENVOYA in HIV-1 infected, treatment-naïve pediatric subjects aged 12 to less than 18 years and weighing at least 35 kg (77 lbs) was evaluated through 24 weeks in an open-label clinical trial (Study 106) [see Clinical Studies (14.5)].
-The safety profile in 23 adolescent subjects who received treatment with GENVOYA was similar to that in adults.
-One 13 year old female subject developed unexplained uveitis while receiving GENVOYA that resolved and did not require discontinuation of GENVOYA.
+The safety of GENVOYA in HIV-1 infected, treatment-naïve pediatric subjects aged 12 to less than 18 years and weighing at least 35 kg (77 lbs) was evaluated through Week 48 in an open-label clinical trial (Study 106) [see Clinical Studies (14.5)].
+The safety profile in 50 adolescent subjects who received treatment with GENVOYA was similar to that in adults.
+One 13-year-old female subject developed unexplained uveitis while receiving GENVOYA that resolved and did not require discontinuation of GENVOYA.
 
-Among the 23 pediatric subjects receiving GENVOYA for 24 weeks, mean BMD increased from baseline to Week 24, + 1.7% at the lumbar spine and + 0.8% for the total body less head.
-Mean changes from baseline BMD Z-scores were −0.10 for lumbar spine and −0.11 for total body less head at Week 24.
-Two GENVOYA subjects had significant (greater than 4%) lumbar spine BMD loss at Week 24.
+Among the 50 pediatric subjects receiving GENVOYA, mean BMD increased from baseline to Week 48, + 4.2% at the lumbar spine and + 1.3% for the total body less head.
+Mean changes from baseline BMD Z-scores were −0.07 for lumbar spine and −0.20 for total body less head at Week 48.
+One GENVOYA subject had significant (greater than or equal to 4%) lumbar spine BMD loss at Week 48.

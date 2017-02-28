@@ -15,7 +15,7 @@ GENVOYA is not approved for the treatment of chronic HBV infection and the safet
 
 Severe acute exacerbations of hepatitis B (e.g., liver decompensation and liver failure) have been reported in patients who are coinfected with HIV-1 and HBV and have discontinued products containing emtricitabine and/or tenofovir disoproxil fumarate (TDF), and may occur with discontinuation of GENVOYA.
 Patients coinfected with HIV-1 and HBV who discontinue GENVOYA should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
-If appropriate, initiation of anti-hepatitis B therapy may be warranted, especially in patients with advanced liver disease or cirrhosis, since post-treatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
+If appropriate, anti-hepatitis B therapy may be warranted, especially in patients with advanced liver disease or cirrhosis, since post-treatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
 
 ## 5.3 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
@@ -50,7 +50,7 @@ GENVOYA is not recommended in patients with estimated creatinine clearance below
 
 Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents including non-steroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
 
-It is recommended that serum creatinine, serum phosphorous, estimated creatinine clearance, urine glucose and urine protein be assessed before initiating GENVOYA and during therapy in all patients as clinically appropriate.
+It is recommended that serum creatinine, serum phosphorus, estimated creatinine clearance, urine glucose and urine protein be assessed before initiating GENVOYA and during therapy in all patients as clinically appropriate.
 Discontinue GENVOYA in patients who develop clinically significant decreases in renal function or evidence of Fanconi syndrome.
 
 Cobicistat, a component of GENVOYA, produces elevations of serum creatinine due to inhibition of tubular secretion of creatinine without affecting glomerular filtration [see Adverse Reactions (6.1)].

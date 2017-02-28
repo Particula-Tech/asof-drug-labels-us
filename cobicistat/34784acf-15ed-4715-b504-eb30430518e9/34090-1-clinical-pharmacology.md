@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-GENVOYA is a fixed-dose combination of antiretroviral drugs elvitegravir (boosted by the CYP3A inhibitor cobicistat), emtricitabine, and tenofovir alafenamide [see Microbiology (12.4)].
+GENVOYA is a fixed-dose combination of antiretroviral drugs elvitegravir (plus the CYP3A inhibitor cobicistat), emtricitabine, and tenofovir alafenamide [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -83,16 +83,16 @@ Table 8 Pharmacokinetics of GENVOYA in HIV-Infected Adults with Renal Impairment
 
 Patients with Hepatic Impairment
 
-Elvitegravir and Cobicistat: A study of the pharmacokinetics of cobicistat-boosted elvitegravir was performed in healthy subjects and subjects with moderate hepatic impairment.
+Elvitegravir and Cobicistat: A study of the pharmacokinetics of elvitegravir (administered with the CYP3A inhibitor cobicistat) was performed in healthy subjects and subjects with moderate hepatic impairment.
 No clinically relevant differences in elvitegravir or cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects [see Use in Specific Populations (8.7)].
 
 Emtricitabine: The pharmacokinetics of emtricitabine has not been studied in subjects with hepatic impairment; however, emtricitabine is not significantly metabolized by liver enzymes, so the impact of liver impairment should be limited.
 
-Tenofovir Alafenamide (TAF): Clinically relevant changes in tenofovir pharmacokinetics in subjects with hepatic impairment were not observed in subjects with mild to moderate (Child-Pugh Class A and B) hepatic impairment [see Use in Specific Populations (8.7)].
+Tenofovir Alafenamide (TAF): Clinically relevant changes in TAF and tenofovir pharmacokinetics were not observed in subjects with mild to moderate (Child-Pugh Class A and B) hepatic impairment [see Use in Specific Populations (8.7)].
 
 Hepatitis B and/or Hepatitis C Virus Co-infection
 
-Elvitegravir: Limited data from population pharmacokinetic analysis (N=24) indicated that hepatitis B and/or C virus infection had no clinically relevant effect on the exposure of cobicistat-boosted elvitegravir.
+Elvitegravir: Limited data from population pharmacokinetic analysis (N=24) indicated that hepatitis B and/or C virus infection had no clinically relevant effect on the exposure of elvitegravir (administered with the CYP3A inhibitor cobicistat).
 
 Cobicistat: There were insufficient pharmacokinetic data in the clinical trials to determine the effect of hepatitis B and/or C virus infection on the pharmacokinetics of cobicistat.
 
@@ -119,7 +119,7 @@ Drug Interaction Studies
 
 [see also Contraindications (4) and Drug Interactions (7)]
 
-The drug-drug interaction studies described in Tables 9–11 were conducted with GENVOYA, elvitegravir (coadministered with cobicistat or ritonavir), cobicistat administered alone, or TAF administered alone.
+The drug-drug interaction studies described in Tables 9–11 were conducted with GENVOYA, elvitegravir (coadministered with cobicistat or ritonavir), cobicistat administered alone, or TAF (administered alone or coadministered with emtricitabine).
 
 As GENVOYA should not be administered with other antiretroviral medications, information regarding drug-drug interactions with other antiretrovirals agents is not provided.
 
@@ -132,7 +132,7 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegravi
 
 | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | Elvitegravir Dose (mg) | Cobicistat or Ritonavir Booster Dose (mg) | N | Mean Ratio of Elvitegravir Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | Elvitegravir Dose (mg) | CYP3A Inhibitor Cobicistat or Ritonavir Dose (mg) | N | Mean Ratio of Elvitegravir Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
 | Antacids | 20 mL single dose given 4 hours before elvitegravir | 50 single dose | Ritonavir 100 single dose | 8 | 0.95 (0.84,1.07) | 0.96 (0.88,1.04) | 1.04 (0.93,1.17) |
 | 20 mL single dose given 4 hours after elvitegravir | 10 | 0.98 (0.88,1.10) | 0.98 (0.91,1.06) | 1.00 (0.90,1.11) |  |  |  |
 | 20 mL single dose given 2 hours before elvitegravir | 11 | 0.82 (0.74,0.91) | 0.85 (0.79,0.91) | 0.90 (0.82,0.99) |  |  |  |
@@ -163,31 +163,34 @@ Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir 
 
 Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of GENVOYA or the Individual ComponentsAll interaction studies conducted in healthy volunteers.
 
-| Cmax | AUC | Cmin |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | Elvitegravir Dose (mg) | Cobicistat Booster Dose (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
-| Buprenorphine | 16 – 24 once daily | 150 once daily | 150 once daily | 17 | 1.12 (0.98,1.27) | 1.35 (1.18,1.55) | 1.66 (1.43,1.93) |
-| Norbuprenorphine | 1.24 (1.03,1.49) | 1.42 (1.22,1.67) | 1.57 (1.31,1.88) |  |  |  |  |
-| Carbamazepine | 200 twice daily | 150 once daily | 150 once daily | 12 | 1.40 (1.32,1.49) | 1.43 (1.36,1.52) | 1.51 (1.41,1.62) |
-| Carbamazepine-10,11-epoxide | 0.73 (0.70,0.78) | 0.65 (0.63,0.66) | 0.59 (0.57,0.61) |  |  |  |  |
-| Desipramine | 50 single dose | N/A | 150 once daily | 8 | 1.24 (1.08,1.44) | 1.65 (1.36,2.02) | NC |
-| Digoxin | 0.5 single dose | N/A | 150 once daily | 22 | 1.41 (1.29,1.55) | 1.08 (1.00,1.17) | NC |
-| Ledipasvir | 90 once daily | 150 once dailyStudy conducted with GENVOYA. | 150 once daily | 30 | 1.65 (1.53,1.78) | 1.79 (1.64,1.96) | 1.93 (1.74,2.15) |
-| Sofosbuvir | 400 once daily | 1.28 (1.13,1.47) | 1.47 (1.35,1.59) | N/A |  |  |  |
-| GS-331007The predominant circulating inactive metabolite of sofosbuvir. | 1.29 (1.24,1.35) | 1.48 (1.44,1.53) | 1.66 (1.60,1.73) |  |  |  |  |
-| Naloxone | 4–6 once daily | 150 once daily | 150 once daily | 17 | 0.72 (0.61,0.85) | 0.72 (0.59,0.87) | N/A |
-| Norgestimate/ ethinyl estradiol | 0.180/0.215/ 0.250 norgestimate once daily | 150 once dailyStudy conducted with STRIBILD. | 150 once daily | 13 | 2.08 (2.00,2.17) | 2.26 (2.15,2.37) | 2.67 (2.43,2.92) |
-| 0.025 ethinyl estradiol once daily | 0.94 (0.86,1.04) | 0.75 (0.69,0.81) | 0.56 (0.52,0.61) |  |  |  |  |
-| R-Methadone | 80–120 daily | 150 once daily | 150 once daily | 11 | 1.01 (0.91,1.13) | 1.07 (0.96,1.19) | 1.10 (0.95,1.28) |
-| S-Methadone | 0.96 (0.87,1.06) | 1.00 (0.89,1.12) | 1.02 (0.89,1.17) |  |  |  |  |
-| Sertraline | 50 single dose | 150 once daily | 150 once daily | 19 | 1.14 (0.94,1.38) | 0.93 (0.77,1.13) | N/A |
-| Rifabutin | 150 once every other day | 150 once daily | 150 once daily | 12 | 1.09 (0.98,1.20)Comparison based on rifabutin 300 mg once daily. | 0.92 (0.83,1.03) | 0.94 (0.85,1.04) |
-| 25-O-desacetyl-rifabutin | 12 | 4.84 (4.09,5.74) | 6.25 (5.08,7.69) | 4.94 (4.04,6.04) |  |  |  |
-| Rosuvastatin | 10 single dose | 150 once daily | 150 once daily | 10 | 1.89 (1.48,2.42) | 1.38 (1.14,1.67) | NC |
-| Sofosbuvir | 400 once daily | 150 once daily | 150 once daily | 24 | 1.23 (1.07,1.42) | 1.37 (1.24,1.52) | N/A |
-| GS-331007 | 1.29 (1.25,1.33) | 1.48 (1.43,1.53) | 1.58 (1.52,1.65) |  |  |  |  |
-| Velpatasvir | 100 once daily | 1.30 (1.17,1.45) | 1.50 (1.35,1.66) | 1.60 (1.44,1.78) |  |  |  |
-| N/A = Not Applicable; NC = Not Calculated |  |  |  |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | Elvitegravir Dose (mg) | CYP3A Inhibitor Cobicistat Dose (mg) | Tenofovir Alafenamide (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
+| Buprenorphine | 16 – 24 once daily | 150 once daily | 150 once daily | N/A | 17 | 1.12 (0.98,1.27) | 1.35 (1.18,1.55) | 1.66 (1.43,1.93) |
+| Norbuprenorphine | 1.24 (1.03,1.49) | 1.42 (1.22,1.67) | 1.57 (1.31,1.88) |  |  |  |  |  |
+| Carbamazepine | 200 twice daily | 150 once daily | 150 once daily | N/A | 12 | 1.40 (1.32,1.49) | 1.43 (1.36,1.52) | 1.51 (1.41,1.62) |
+| Carbamazepine-10,11-epoxide | 0.73 (0.70,0.78) | 0.65 (0.63,0.66) | 0.59 (0.57,0.61) |  |  |  |  |  |
+| Desipramine | 50 single dose | N/A | 150 once daily | N/A | 8 | 1.24 (1.08,1.44) | 1.65 (1.36,2.02) | NC |
+| Digoxin | 0.5 single dose | N/A | 150 once daily | N/A | 22 | 1.41 (1.29,1.55) | 1.08 (1.00,1.17) | NC |
+| Ledipasvir | 90 once daily | 150 once dailyStudy conducted with GENVOYA. | 150 once daily | 10 once daily | 30 | 1.65 (1.53,1.78) | 1.79 (1.64,1.96) | 1.93 (1.74,2.15) |
+| Sofosbuvir | 400 once daily | 1.28 (1.13,1.47) | 1.47 (1.35,1.59) | N/A |  |  |  |  |
+| GS-331007The predominant circulating inactive metabolite of sofosbuvir. | 1.29 (1.24,1.35) | 1.48 (1.44,1.53) | 1.66 (1.60,1.73) |  |  |  |  |  |
+| Naloxone | 4–6 once daily | 150 once daily | 150 once daily | N/A | 17 | 0.72 (0.61,0.85) | 0.72 (0.59,0.87) | N/A |
+| Norgestimate/ ethinyl estradiolStudy conducted with STRIBILD. | 0.180/0.215/ 0.250 norgestimate once daily | 150 once daily | 150 once daily | N/A | 13 | 2.08 (2.00,2.17) | 2.26 (2.15,2.37) | 2.67 (2.43,2.92) |
+| 0.025 ethinyl estradiol once daily | 0.94 (0.86,1.04) | 0.75 (0.69,0.81) | 0.56 (0.52,0.61) |  |  |  |  |  |
+| Norgestromin | 0.180/0.215/ 0.250 norgestimate once daily / 0.025 ethinyl estradiol once daily | N/A | N/A | 25 once dailyStudy conducted with DESCOVY (emtricitabine/tenofovir alafenamide). | 29 | 1.17 (1.07,1.26) | 1.12 (1.07,1.17) | 1.16 (1.08,1.24) |
+| Norgestrel | 1.10 (1.02,1.18) | 1.09 (1.01,1.18) | 1.11 (1.03,1.20) |  |  |  |  |  |
+| Ethinyl estradiol | 1.22 (1.15,1.29) | 1.11 (1.07,1.16) | 1.02 (0.93,1.12) |  |  |  |  |  |
+| R-Methadone | 80–120 daily | 150 once daily | 150 once daily | N/A | 11 | 1.01 (0.91,1.13) | 1.07 (0.96,1.19) | 1.10 (0.95,1.28) |
+| S-Methadone | 0.96 (0.87,1.06) | 1.00 (0.89,1.12) | 1.02 (0.89,1.17) |  |  |  |  |  |
+| Sertraline | 50 single dose | 150 once daily | 150 once daily | 10 once daily | 19 | 1.14 (0.94,1.38) | 0.93 (0.77,1.13) | N/A |
+| Rifabutin | 150 once every other day | 150 once daily | 150 once daily | N/A | 12 | 1.09 (0.98,1.20)Comparison based on rifabutin 300 mg once daily. | 0.92 (0.83,1.03) | 0.94 (0.85,1.04) |
+| 25-O-desacetyl-rifabutin | 12 | 4.84 (4.09,5.74) | 6.25 (5.08,7.69) | 4.94 (4.04,6.04) |  |  |  |  |
+| Rosuvastatin | 10 single dose | 150 once daily | 150 once daily | N/A | 10 | 1.89 (1.48,2.42) | 1.38 (1.14,1.67) | NC |
+| Sofosbuvir | 400 once daily | 150 once daily | 150 once daily | 10 once daily | 24 | 1.23 (1.07,1.42) | 1.37 (1.24,1.52) | N/A |
+| GS-331007 | 1.29 (1.25,1.33) | 1.48 (1.43,1.53) | 1.58 (1.52,1.65) |  |  |  |  |  |
+| Velpatasvir | 100 once daily | 1.30 (1.17,1.45) | 1.50 (1.35,1.66) | 1.60 (1.44,1.78) |  |  |  |  |
+| N/A = Not Applicable; NC = Not Calculated |  |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
@@ -210,7 +213,7 @@ Tenofovir diphosphate inhibits HIV-1 replication through incorporation into vira
 
 Tenofovir has activity that is specific to human immunodeficiency virus and hepatitis B virus.
 Cell culture studies have shown that both emtricitabine and tenofovir can be fully phosphorylated when combined in cells.
-Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases that include mitochondrial DNA polymerase γ and there is no evidence of toxicity to mitochondria in cell culture.
+Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases that include mitochondrial DNA polymerase γ and there is no evidence of mitochondrial toxicity in cell culture based on several assays including mitochondrial DNA analyses.
 
 Antiviral Activity in Cell Culture
 
@@ -260,7 +263,7 @@ These genotypic resistance results were confirmed by phenotypic analyses.
 
 In Virologically Suppressed Subjects:
 
-One subject was identified with emergent resistance to GENVOYA (M184M/I) out of 4 virologic failure subjects in a clinical study of virologically-suppressed subjects who switched from a regimen containing emtricitabine/TDF and a third agent to GENVOYA (Study 109, N=799).
+Three virologic failure subjects were identified with emergent genotypic and phenotypic resistance to GENVOYA (all three with M184I or V and one with K219Q in reverse transcriptase; two with E92Q or G in integrase) out of 8 virologic failure subjects with resistance data in a clinical study of virologically-suppressed subjects who switched from a regimen containing emtricitabine/TDF and a third agent to GENVOYA (Study 109, N=959).
 
 Cross-Resistance
 

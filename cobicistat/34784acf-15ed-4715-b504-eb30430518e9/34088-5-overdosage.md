@@ -5,7 +5,7 @@ If overdose occurs, monitor the patient for evidence of toxicity.
 Treatment of overdose with GENVOYA consists of general supportive measures including monitoring of vital signs as well as observation of the clinical status of the patient.
 
 Elvitegravir: Limited clinical experience is available at doses higher than the recommended dose of elvitegravir in GENVOYA.
-In one study, boosted elvitegravir equivalent to 2 times the therapeutic dose of 150 mg once daily for 10 days was administered to 42 healthy subjects.
+In one study, elvitegravir (administered with the CYP3A inhibitor cobicistat) equivalent to 2 times the therapeutic dose of 150 mg once daily for 10 days was administered to 42 healthy subjects.
 No severe adverse reactions were reported.
 The effects of higher doses are not known.
 As elvitegravir is highly bound to plasma proteins, it is unlikely that it will be significantly removed by hemodialysis or peritoneal dialysis.
