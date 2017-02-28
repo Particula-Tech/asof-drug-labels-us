@@ -25,14 +25,28 @@ Changes in CRP observed with XELJANZ treatment do not reverse fully within 2 wee
 
 ## 12.3 Pharmacokinetics
 
+XELJANZ
+
 Following oral administration of XELJANZ, peak plasma concentrations are reached within 0.5–1 hour, elimination half-life is ~3 hours and a dose-proportional increase in systemic exposure was observed in the therapeutic dose range.
 Steady state concentrations are achieved in 24–48 hours with negligible accumulation after twice daily administration.
 
+XELJANZ XR
+
+Following oral administration of XELJANZ XR, peak plasma concentrations are reached at 4 hours and half-life is ~6 hours.
+Steady state concentrations are achieved within 48 hours with negligible accumulation after once daily administration.
+AUC and Cmax of tofacitinib for XELJANZ XR 11 mg administered once daily are equivalent to those of XELJANZ 5 mg administered twice daily.
+
 Absorption
 
-The absolute oral bioavailability of tofacitinib is 74%.
+XELJANZ
+
+The absolute oral bioavailability of XELJANZ is 74%.
 Coadministration of XELJANZ with a high-fat meal resulted in no changes in AUC while Cmax was reduced by 32%.
 In clinical trials, XELJANZ was administered without regard to meals.
+
+XELJANZ XR
+
+Coadministration of XELJANZ XR with a high-fat meal resulted in no changes in AUC while Cmax was increased by 27% and Tmax was extended by approximately 1 hour.
 
 Distribution
 
@@ -58,36 +72,35 @@ Specific Populations
 
 The effect of renal and hepatic impairment and other intrinsic factors on the pharmacokinetics of tofacitinib is shown in Figure 1.
 
-Figure 1: Impact of Intrinsic Factors on Tofacitinib Pharmacokinetics
-
-Reference values for weight, age, gender, and race comparisons are 70 kg, 55 years, male, and White, respectively; Reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function.
+| Figure 1: Impact of Intrinsic Factors on Tofacitinib Pharmacokinetics |
+| --- |
+| * Supplemental doses are not necessary in patients after dialysis. |
+| Reference values for weight, age, gender, and race comparisons are 70 kg, 55 years, male, and White, respectively; reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function. |
 
 Drug Interactions
 
-Potential for XELJANZ to Influence the PK of Other Drugs
+Potential for XELJANZ/XELJANZ XR to Influence the PK of Other Drugs
 
-In vitro studies indicate that tofacitinib does not significantly inhibit or induce the activity of the major human drug-metabolizing CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) at concentrations exceeding 185 times the steady state Cmax of a 5 mg twice daily dose.
+In vitro studies indicate that tofacitinib does not significantly inhibit or induce the activity of the major human drug-metabolizing CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) at concentrations exceeding 160 times the steady state Cmax of a 5 mg twice daily dose.
 These in vitro results were confirmed by a human drug interaction study showing no changes in the PK of midazolam, a highly sensitive CYP3A4 substrate, when coadministered with XELJANZ.
 
 In rheumatoid arthritis patients, the oral clearance of tofacitinib does not vary with time, indicating that tofacitinib does not normalize CYP enzyme activity in rheumatoid arthritis patients.
-Therefore, coadministration with XELJANZ is not expected to result in clinically relevant increases in the metabolism of CYP substrates in rheumatoid arthritis patients.
+Therefore, coadministration with XELJANZ/XELJANZ XR is not expected to result in clinically relevant increases in the metabolism of CYP substrates in rheumatoid arthritis patients.
 
 In vitro data indicate that the potential for tofacitinib to inhibit transporters such as P-glycoprotein, organic anionic or cationic transporters at therapeutic concentrations is low.
 
-Dosing recommendations for coadministered drugs following administration with XELJANZ are shown in Figure 2.
+Dosing recommendations for coadministered drugs following administration with XELJANZ/XELJANZ XR are shown in Figure 2.
 
-Figure 2.
-Impact of XELJANZ on PK of Other Drugs
-
-Note: Reference group is administration of concomitant medication alone; OCT = Organic Cationic Transporter; MATE = Multidrug and Toxic Compound Extrusion
+| Figure 2. Impact of Tofacitinib on PK of Other Drugs |
+| --- |
+| Note: Reference group is administration of concomitant medication alone; OCT = Organic Cationic Transporter; MATE = Multidrug and Toxic Compound Extrusion |
 
 Potential for Other Drugs to Influence the PK of Tofacitinib
 
 Since tofacitinib is metabolized by CYP3A4, interaction with drugs that inhibit or induce CYP3A4 is likely.
 Inhibitors of CYP2C19 alone or P-glycoprotein are unlikely to substantially alter the PK of tofacitinib.
-Dosing recommendations for XELJANZ for administration with CYP inhibitors or inducers are shown in Figure 3.
+Dosing recommendations for XELJANZ/XELJANZ XR for administration with CYP inhibitors or inducers are shown in Figure 3.
 
-Figure 3.
-Impact of Other Drugs on PK of XELJANZ
-
-Note: Reference group is administration of tofacitinib alone
+| Figure 3. Impact of Other Drugs on PK of Tofacitinib |
+| --- |
+| Note: Reference group is administration of tofacitinib alone |

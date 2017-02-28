@@ -1,11 +1,15 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
+All information provided in this section is applicable to XELJANZ and XELJANZ XR as they contain the same active ingredient (tofacitinib).
+
 ## 8.1 Pregnancy
 
-Teratogenic effects:
+Teratogenic effects
 
-Pregnancy Category C. There are no adequate and well-controlled studies in pregnant women.
-XELJANZ should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Pregnancy Category C.
+
+There are no adequate and well-controlled studies in pregnant women.
+XELJANZ/XELJANZ XR should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Tofacitinib has been shown to be fetocidal and teratogenic in rats and rabbits when given at exposures 146 times and 13 times, respectively, the maximum recommended human dose (MRHD).
 
 In a rat embryofetal developmental study, tofacitinib was teratogenic at exposure levels approximately 146 times the MRHD (on an AUC basis at oral doses of 100 mg/kg/day).
@@ -18,12 +22,12 @@ Teratogenic effects included thoracogastroschisis, omphalocele, membranous ventr
 In addition, there was an increase in post-implantation loss associated with late resorptions.
 No developmental toxicity was observed in rabbits at exposure levels approximately 3 times the MRHD (on an AUC basis at oral doses of 10 mg/kg/day).
 
-Nonteratogenic effects:
+Nonteratogenic effects
 
 In a peri- and postnatal rat study, there were reductions in live litter size, postnatal survival, and pup body weights at exposure levels approximately 73 times the MRHD (on an AUC basis at oral doses of 50 mg/kg/day).
 There was no effect on behavioral and learning assessments, sexual maturation or the ability of the F1 generation rats to mate and produce viable F2 generation fetuses in rats at exposure levels approximately 17 times the MRHD (on an AUC basis at oral doses of 10 mg/kg/day).
 
-Pregnancy Registry: To monitor the outcomes of pregnant women exposed to XELJANZ, a pregnancy registry has been established.
+Pregnancy Registry: To monitor the outcomes of pregnant women exposed to XELJANZ/XELJANZ XR, a pregnancy registry has been established.
 Physicians are encouraged to register patients and pregnant women are encouraged to register themselves by calling 1-877-311-8972.
 
 ## 8.3 Nursing Mothers
@@ -34,7 +38,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of XELJANZ in pediatric patients have not been established.
+The safety and effectiveness of XELJANZ/XELJANZ XR in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -42,14 +46,20 @@ Of the 3315 patients who enrolled in Studies I to V, a total of 505 rheumatoid a
 The frequency of serious infection among XELJANZ-treated subjects 65 years of age and older was higher than among those under the age of 65.
 As there is a higher incidence of infections in the elderly population in general, caution should be used when treating the elderly.
 
-## 8.6 Hepatic Impairment
+## 8.6 Use in Diabetics
 
+As there is a higher incidence of infection in diabetic population in general, caution should be used when treating patients with diabetes.
+
+## 8.7 Hepatic Impairment
+
+XELJANZ-treated patients with moderate hepatic impairment had greater tofacitinib levels than XELJANZ-treated patients with normal hepatic function [see Clinical Pharmacology (12.3)].
+Higher blood levels may increase the risk of some adverse reactions, therefore, the recommended dose is XELJANZ 5 mg once daily in patients with moderate hepatic impairment [see Dosage and Administration (2.4)].
+XELJANZ/XELJANZ XR has not been studied in patients with severe hepatic impairment; therefore, use of XELJANZ/XELJANZ XR in patients with severe hepatic impairment is not recommended.
 No dose adjustment is required in patients with mild hepatic impairment.
-XELJANZ dose should be reduced to 5 mg once daily in patients with moderate hepatic impairment.
-The safety and efficacy of XELJANZ have not been studied in patients with severe hepatic impairment or in patients with positive hepatitis B virus or hepatitis C virus serology [see Dosage and Administration (2.1) and Warnings and Precautions (5.6)].
+The safety and efficacy of XELJANZ/XELJANZ XR have not been studied in patients with positive hepatitis B virus or hepatitis C virus serology.
 
-## 8.7 Renal Impairment
+## 8.8 Renal Impairment
 
+XELJANZ-treated patients with moderate and severe renal impairment had greater tofacitinib blood levels than XELJANZ-treated patients with normal renal function; therefore, the recommended dose is XELJANZ 5 mg once daily in patients with moderate and severe renal impairment [see Dosage and Administration (2.4)].
+In clinical trials, XELJANZ/XELJANZ XR was not evaluated in rheumatoid arthritis patients with baseline creatinine clearance values (estimated by the Cockroft-Gault equation) less than 40 mL/min.
 No dose adjustment is required in patients with mild renal impairment.
-XELJANZ dose should be reduced to 5 mg once daily in patients with moderate and severe renal impairment [see Dosage and Administration (2.1)].
-In clinical trials, XELJANZ was not evaluated in rheumatoid arthritis patients with baseline creatinine clearance values (estimated by the Cockroft-Gault equation) less than 40 mL/min.

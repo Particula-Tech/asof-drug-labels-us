@@ -2,6 +2,6 @@
 
 ## 1.1 Rheumatoid Arthritis
 
-- XELJANZ (tofacitinib) is indicated for the treatment of adult patients with moderately to severely active rheumatoid arthritis who have had an inadequate response or intolerance to methotrexate.
+- XELJANZ/XELJANZ XR (tofacitinib) is indicated for the treatment of adult patients with moderately to severely active rheumatoid arthritis who have had an inadequate response or intolerance to methotrexate.
   It may be used as monotherapy or in combination with methotrexate or other nonbiologic disease-modifying antirheumatic drugs (DMARDs).
-- XELJANZ should not be used in combination with biologic DMARDs or with potent immunosuppressants such as azathioprine and cyclosporine.
+- Limitations of Use: Use of XELJANZ/XELJANZ XR in combination with biologic DMARDs or with potent immunosuppressants such as azathioprine and cyclosporine is not recommended.
