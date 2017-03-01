@@ -100,7 +100,7 @@ Because of the potential sensitivity of rapidly dividing myeloid cells to cytoto
 The safety and efficacy of NEUPOGEN have not been evaluated in patients receiving concurrent radiation therapy.
 Avoid the simultaneous use of NEUPOGEN with chemotherapy and radiation therapy.
 
-## 5.14Nuclear Imaging
+## 5.14 Nuclear Imaging
 
 Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone-imaging changes.
 This should be considered when interpreting bone-imaging results.

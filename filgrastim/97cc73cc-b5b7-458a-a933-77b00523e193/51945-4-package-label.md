@@ -2,13 +2,13 @@
 
 NDC 55513-530-10
 
-10 – 1 mL Single Use Vials
+10 – 1 mL Single Dose Vials
 
 Amgen®
 
 Neupogen®
 
-Filgrastim
+(filgrastim) for injection
 
 A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
 
@@ -34,13 +34,13 @@ U.S. License No. 1080
 
 NDC 55513-546-10
 
-10 – 1.6 mL Single Use Vials
+10 – 1.6 mL Single Dose Vials
 
 AMGEN®
 
 Neupogen®
 
-Filgrastim
+(filgrastim) for injection
 
 A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
 
@@ -63,17 +63,17 @@ U.S. License No. 1080
 
 NDC 55513-924-91
 
-1 x 300 mcg/0.5 mL Single Use Prefilled Syringe with 27 Gauge Needle
+1 x 300 mcg/0.5 mL Single Dose Prefilled Syringe with 27 Gauge Needle
 
 AMGEN®
 
 Neupogen® SingleJect®
 
-Filgrastim
+(filgrastim) injection
 
 A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
 
-Single Use Prefilled Syringe with 27 Gauge Needle
+Single Dose Prefilled Syringe with 27 Gauge Needle
 
 300 mcg
 
@@ -98,17 +98,17 @@ Thousand Oaks, CA 91320 U.S.A.
 
 NDC 55513-924-10
 
-10 x 300 mcg/0.5 mL Single Use Prefilled Syringes with 27 Gauge Needles
+10 x 300 mcg/0.5 mL Single Dose Prefilled Syringes with 27 Gauge Needles
 
 AMGEN®
 
 Neupogen® SingleJect®
 
-Filgrastim
+(filgrastim) injection
 
 A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
 
-Single Use Prefilled Syringes with 27 Gauge Needles
+Single Dose Prefilled Syringes with 27 Gauge Needles
 
 300 mcg
 
@@ -135,19 +135,19 @@ U.S. License No. 1080
 
 NDC 55513-209-91
 
-1 x 480 mcg/0.8 mL Single Use Prefilled Syringe with 27 Gauge Needle
+1 x 480 mcg/0.8 mL Single Dose Prefilled Syringe with 27 Gauge Needle
 
 AMGEN®
 
 Neupogen® SingleJect®
 
-Filgrastim
+(filgrastim) injection
 
 A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
 
 480 mcg
 
-Single Use Prefilled Syringe with 27 Gauge Needle
+Single Dose Prefilled Syringe with 27 Gauge Needle
 
 480 mcg/0.8 mL
 
@@ -170,19 +170,19 @@ Thousand Oaks, CA 91320 U.S.A.
 
 NDC 55513-209-10
 
-10 x 480 mcg/0.8 mL Single Use Prefilled Syringes with 27 Gauge Needles
+10 x 480 mcg/0.8 mL Single Dose Prefilled Syringes with 27 Gauge Needles
 
 AMGEN®
 
 Neupogen® SingleJect®
 
-Filgrastim
+(filgrastim) injection
 
 A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
 
 480 mcg
 
-Single Use Prefilled Syringes with 27 Gauge Needles
+Single Dose Prefilled Syringes with 27 Gauge Needles
 
 480 mcg/0.8 mL
 

@@ -29,7 +29,7 @@ There was a reduction in the median duration of intravenous antibiotic use, NEUP
 
 There were no statistically significant differences between the NEUPOGEN and the placebo groups in complete remission rate (69% - NEUPOGEN, 68% - placebo), median time to progression of all randomized patients (165 days - NEUPOGEN, 186 days - placebo), or median overall survival (380 days - NEUPOGEN, 425 days - placebo).
 
-## 14.3Patients with Cancer Undergoing Bone Marrow Transplantation
+## 14.3 Patients with Cancer Undergoing Bone Marrow Transplantation
 
 The safety and efficacy of NEUPOGEN to reduce the duration of neutropenia in patients with nonmyeloid malignancies undergoing myeloablative chemotherapy followed by autologous bone marrow transplantation was evaluated in 2 randomized controlled trials of patients with lymphoma (Study 6 and Study 9).
 The safety and efficacy of NEUPOGEN to reduce the duration of neutropenia in patients undergoing myeloablative chemotherapy followed by allogeneic bone marrow transplantation was evaluated in a randomized placebo controlled trial (Study 10).
@@ -54,7 +54,7 @@ The median age was 18 (range 1 to 45) years, 56% males.
 The underlying disease was: 67% hematologic malignancy, 24% aplastic anemia, 9% other.
 A statistically significant reduction in the median number of days of severe neutropenia occurred in the treated group versus the control group (19 days in the control group and 15 days in the treatment group‚ p < 0.001) and time to recovery of ANC to ≥ 500/mm3 (21 days in the control group and 16 days in the treatment group‚ p < 0.001).
 
-## 14.4Patients Undergoing Autologous Peripheral Blood Progenitor Cell Collection and Therapy
+## 14.4 Patients Undergoing Autologous Peripheral Blood Progenitor Cell Collection and Therapy
 
 The safety and efficacy of NEUPOGEN to mobilize autologous peripheral blood progenitor cells for collection by leukapheresis was supported by the experience in uncontrolled trials, and a randomized trial comparing hematopoietic stem cell rescue using NEUPOGEN mobilized autologous peripheral blood progenitor cells to autologous bone marrow (Study 11).
 Patients in all these trials underwent a similar mobilization/collection regimen: NEUPOGEN was administered for 6 to 7 days‚ in most cases the apheresis procedure occurred on days 5‚ 6, and 7.

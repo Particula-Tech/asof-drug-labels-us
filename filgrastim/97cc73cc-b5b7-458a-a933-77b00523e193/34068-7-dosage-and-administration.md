@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1Dosage in Patients with Cancer Receiving Myelosuppressive Chemotherapy or Induction and/or Consolidation Chemotherapy for AML
+## 2.1 Dosage in Patients with Cancer Receiving Myelosuppressive Chemotherapy or Induction and/or Consolidation Chemotherapy for AML
 
 The recommended starting dosage of NEUPOGEN is 5 mcg/kg/day‚ administered as a single daily injection by subcutaneous injection‚ by short intravenous infusion (15 to 30 minutes)‚ or by continuous intravenous infusion.
 Obtain a complete blood count (CBC) and platelet count before instituting NEUPOGEN therapy and monitor twice weekly during therapy.
@@ -13,7 +13,7 @@ A transient increase in neutrophil count is typically seen 1 to 2 days after ini
 Therefore, to ensure a sustained therapeutic response‚ administer NEUPOGEN daily for up to 2 weeks or until the ANC has reached 10‚000/mm3 following the expected chemotherapy-induced neutrophil nadir.
 The duration of NEUPOGEN therapy needed to attenuate chemotherapy-induced neutropenia may be dependent on the myelosuppressive potential of the chemotherapy regimen employed.
 
-## 2.2Dosage in Patients with Cancer Undergoing Bone Marrow Transplantation
+## 2.2 Dosage in Patients with Cancer Undergoing Bone Marrow Transplantation
 
 The recommended dosage of NEUPOGEN following bone marrow transplantation (BMT) is 10 mcg/kg/day given as an intravenous infusion no longer than 24 hours.
 Administer the first dose of NEUPOGEN at least 24 hours after cytotoxic chemotherapy and at least 24 hours after bone marrow infusion.
@@ -32,14 +32,14 @@ Recommended Dosage Adjustments During Neutrophil Recovery in Patients with Cance
 
 a If ANC decreases to less than 1000/mm3 at any time during the 5 mcg/kg/day administration‚ increase NEUPOGEN to 10 mcg/kg/day‚ and then follow the above steps.
 
-## 2.3Dosage in Patients Undergoing Autologous Peripheral Blood Progenitor Cell Collection and Therapy
+## 2.3 Dosage in Patients Undergoing Autologous Peripheral Blood Progenitor Cell Collection and Therapy
 
 The recommended dosage of NEUPOGEN for the mobilization of autologous peripheral blood progenitor cells (PBPC) is 10 mcg/kg/day given by subcutaneous injection.
 Administer NEUPOGEN for at least 4 days before the first leukapheresis procedure and continue until the last leukapheresis.
 Although the optimal duration of NEUPOGEN administration and leukapheresis schedule have not been established‚ administration of NEUPOGEN for 6 to 7 days with leukaphereses on days 5‚ 6‚ and 7 was found to be safe and effective [see Clinical Studies (14.4)].
 Monitor neutrophil counts after 4 days of NEUPOGEN‚ and discontinue NEUPOGEN if the white blood cell (WBC) count rises to greater than 100‚000/mm3.
 
-## 2.4Dosage in Patients with Severe Chronic Neutropenia
+## 2.4 Dosage in Patients with Severe Chronic Neutropenia
 
 Prior to starting NEUPOGEN in patients with suspected chronic neutropenia, confirm the diagnosis of severe chronic neutropenia (SCN) by evaluating serial CBCs with differential and platelet counts‚ and evaluating bone marrow morphology and karyotype.
 The use of NEUPOGEN prior to confirmation of a correct diagnosis of SCN may impair diagnostic efforts and may thus impair or delay evaluation and treatment of an underlying condition‚ other than SCN‚ causing the neutropenia.
@@ -59,7 +59,7 @@ During the initial 4 weeks of NEUPOGEN therapy and during the 2 weeks following 
 Once a patient is clinically stable‚ monitor CBCs with differential and platelet counts monthly during the first year of treatment.
 Thereafter, if the patient is clinically stable, less frequent routine monitoring is recommended.
 
-## 2.5Dosage in Patients Acutely Exposed to Myelosuppressive Doses of Radiation (Hematopoietic Syndrome of Acute Radiation Syndrome)
+## 2.5 Dosage in Patients Acutely Exposed to Myelosuppressive Doses of Radiation (Hematopoietic Syndrome of Acute Radiation Syndrome)
 
 The recommended dose of NEUPOGEN is 10 mcg/kg as a single daily subcutaneous injection for patients exposed to myelosuppressive doses of radiation.
 Administer NEUPOGEN as soon as possible after suspected or confirmed exposure to radiation doses greater than 2 gray (Gy).
@@ -71,7 +71,7 @@ Do not delay administration of NEUPOGEN if a CBC is not readily available.
 
 Continue administration of NEUPOGEN until the ANC remains greater than 1,000/mm3 for 3 consecutive CBCs or exceeds 10,000/mm3 after a radiation-induced nadir.
 
-## 2.6Important Administration Instructions
+## 2.6 Important Administration Instructions
 
 NEUPOGEN is supplied in single-dose vials (for subcutaneous use or intravenous infusion) and single-dose prefilled syringes (for subcutaneous use) [see Dosage Forms and Strengths (3)].
 Prior to use‚ remove the vial or prefilled syringe from the refrigerator and allow NEUPOGEN to reach room temperature for a minimum of 30 minutes and a maximum of 24 hours.
