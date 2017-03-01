@@ -116,35 +116,24 @@ Neulasta can cause serious side effects, including:
   A ruptured spleen can cause death.
   Call your healthcare provider right away if you have pain in your left upper stomach area or left shoulder area.
   This pain could mean your spleen is enlarged or ruptured.
-
 - A serious lung problem called Acute Respiratory Distress Syndrome (ARDS).
   Call your healthcare provider or get emergency medical help right away if you get any of these symptoms of ARDS: fever, shortness of breath, trouble breathing, or a fast rate of breathing.
-
 - Serious allergic reactions.
   Get emergency medical help right away if you get any of these symptoms of a serious allergic reaction with Neulasta: shortness of breath, wheezing, dizziness, swelling around the mouth or eyes, fast pulse, sweating, and hives.
   If you have an allergic reaction during the delivery of Neulasta, remove the On-body Injector for Neulasta by grabbing the edge of the adhesive pad and peeling off the On-body Injector for Neulasta.
   Get emergency medical help right away.
-
 - Sickle cell crises.
   Severe sickle cell crises, and sometimes death, can happen in people with sickle cell trait or disease who receive filgrastim, a medicine similar to Neulasta (pegfilgrastim).
-
 - Kidney injury (glomerulonephritis).
   Kidney injury has been seen in patients who received Neulasta.
   You should notify your healthcare provider right away if you experience puffiness in your face or ankles, blood in your urine or brown colored urine or you notice you urinate less than usual.
-
 - Increased white blood cell count (leukocytosis).
   Your doctor will check your blood during treatment with Neulasta.
-
 - Capillary Leak Syndrome.
   Neulasta can cause fluid to leak from blood vessels into your body’s tissues.
   This condition is called “Capillary Leak Syndrome” (CLS).
   CLS can quickly cause you to have symptoms that may become life-threatening.
-  Get emergency medical help right away if you develop any of the following symptoms:
-  - swelling or puffiness and are urinating less often
-  - trouble breathing
-  - swelling of your stomach-area (abdomen) and feeling of fullness
-  - dizziness or feeling faint
-  - a general feeling of tiredness
+  Get emergency medical help right away if you develop any of the following symptoms: ○ swelling or puffiness and are urinating less often ○ trouble breathing ○ swelling of your stomach-area (abdomen) and feeling of fullness ○ dizziness or feeling faint ○ a general feeling of tiredness
 
 The most common side effect of Neulasta is pain in the bones and in your arms and legs.
 

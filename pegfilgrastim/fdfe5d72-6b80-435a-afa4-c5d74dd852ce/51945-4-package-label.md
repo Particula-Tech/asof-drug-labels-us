@@ -2,13 +2,13 @@ Principal Display Panel
 
 NDC 55513-190-01
 
-1 - 0.6 mL Single Use Prefilled Syringe
+1 - 0.6 mL Single Dose Prefilled Syringe
 
 AMGEN®
 
 Neulasta ®
 
-(pegfilgrastim)
+(pegfilgrastim) injection
 
 Pegylated Recombinant Methionyl Human Granulocyte Colony-Stimulating Factor
 
@@ -16,7 +16,7 @@ Pegylated Recombinant Methionyl Human Granulocyte Colony-Stimulating Factor
 
 6 mg
 
-6 mg in 0.6 mL Single Use Prefilled Syringe
+6 mg in 0.6 mL Single Dose Prefilled Syringe
 
 For Subcutaneous Use Only
 
@@ -36,7 +36,7 @@ Principal Display Panel
 
 NDC 55513-192-01
 
-1 - Single Use Neulasta Prefilled Syringe
+1 - Single Dose Neulasta Prefilled Syringe
 
 1 - Sterile On-body Injector for Neulasta
 
@@ -44,7 +44,7 @@ AMGEN®
 
 Neulasta® Onpro™ kit
 
-(pegfilgrastim)
+(pegfilgrastim) injection
 
 Pegylated Recombinant Methionyl Human Granulocyte Colony-Stimulating Factor
 
@@ -73,10 +73,8 @@ Store at 2° to 8°C (36° to 46°F).
 Do Not Freeze or Shake.
 Keep in Carton to Protect from Light.
 
+See package insert for full prescribing information and Instructions for Use
+
+Enhanced Features see enclosed instructions
+
 Rx Only
-
-Manufactured by Amgen Inc.
-
-Thousand Oaks, CA 91320-1799
-
-U.S. License No. 1080

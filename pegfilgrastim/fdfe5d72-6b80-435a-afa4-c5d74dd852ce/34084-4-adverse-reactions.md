@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
@@ -66,6 +66,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Sickle cell crisis [see Warnings and Precautions (5.5)]
 - Glomerulonephritis [see Warnings and Precautions (5.6)]
 - Leukocytosis [see Warnings and Precautions (5.7)]
-- Capillary leak syndrome [see Warnings and Precautions (5.8)]
+- Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
 - Injection site reactions
 - Sweet’s syndrome (acute febrile neutrophilic dermatosis), cutaneous vasculitis

@@ -1,4 +1,4 @@
-# 11 DESCRIPTION
+# 11DESCRIPTION
 
 Neulasta (pegfilgrastim) is a covalent conjugate of recombinant methionyl human G-CSF (filgrastim) and monomethoxypolyethylene glycol.
 Filgrastim is a water-soluble 175 amino acid protein with a molecular weight of approximately 19 kilodaltons (kD).

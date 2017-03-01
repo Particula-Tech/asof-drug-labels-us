@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
@@ -58,6 +58,4 @@ Patent: http://pat.amgen.com/neulasta/
 
 © 2002-2016 Amgen Inc. All rights reserved. www.neulasta.com 1-800-77-AMGEN (1-800-772-6436)
 
-4/2016
-
-v18
+10/2016 v19

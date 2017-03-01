@@ -19,7 +19,7 @@ A secondary endpoint in both studies was days of severe neutropenia in cycles 2 
 
 Study 3 was a randomized, double-blind, placebo-controlled study that employed docetaxel 100 mg/m2 administered every 21 days for up to 4 cycles for the treatment of metastatic or non-metastatic breast cancer.
 In this study, 928 patients were randomized to receive a single subcutaneous injection of Neulasta (6 mg) or placebo on day 2 of each chemotherapy cycle.
-Study 3 met the major trial outcome measure of demonstrating that the incidence of febrile neutropenia (defined as temperature ≥ 38.2°C and ANC ≤ 0.5 x109/L) was lower for Neulasta-treated patients as compared to placebo-treated patients (1% versus 17%, respectively, p < 0.001).
+Study 3 met the major trial outcome measure of demonstrating that the incidence of febrile neutropenia (defined as temperature ≥ 38.2°C and ANC ≤ 0.5 x 109/L) was lower for Neulasta-treated patients as compared to placebo-treated patients (1% versus 17%, respectively, p < 0.001).
 The incidence of hospitalizations (1% versus 14%) and IV anti-infective use (2% versus 10%) for the treatment of febrile neutropenia was also lower in the Neulasta-treated patients compared to the placebo-treated patients.
 
 Study 4 was a multicenter, randomized, open-label study to evaluate the efficacy, safety, and pharmacokinetics [see Clinical Pharmacology (12.3)] of Neulasta in pediatric and young adult patients with sarcoma.

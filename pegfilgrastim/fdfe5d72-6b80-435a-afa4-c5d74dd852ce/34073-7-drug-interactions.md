@@ -1,4 +1,4 @@
-# 7 DRUG INTERACTIONS
+# 7DRUG INTERACTIONS
 
 No formal drug interaction studies between Neulasta and other drugs have been performed.
 Increased hematopoietic activity of the bone marrow in response to growth factor therapy may result in transiently positive bone-imaging changes.

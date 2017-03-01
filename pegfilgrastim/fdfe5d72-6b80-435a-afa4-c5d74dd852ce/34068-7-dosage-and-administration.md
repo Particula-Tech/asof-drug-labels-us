@@ -1,4 +1,4 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2DOSAGE AND ADMINISTRATION
 
 ## 2.1 Patients with Cancer Receiving Myelosuppressive Chemotherapy
 
@@ -19,7 +19,7 @@ Estimate a patient’s absorbed radiation dose (i.e., level of radiation exposur
 
 ## 2.3 Administration
 
-Neulasta is administered subcutaneously via a single-dose prefilled syringe for manual use or for use with the On-body Injector for Neulasta which is co-packaged with a single-dose prefilled syringe.
+Neulasta is administered subcutaneously via a single-dose prefilled syringe for manual use or for use with the On-body Injector for Neulasta, which is co-packaged with a single-dose prefilled syringe.
 Use of the On-body Injector for Neulasta is not recommended for patients with Hematopoietic Subsyndrome of Acute Radiation Syndrome.
 Use of the On-body Injector for Neulasta has not been studied in pediatric patients.
 
@@ -47,7 +47,8 @@ Dosing of Neulasta for pediatric patients weighing less than 45 kg
 | 10 - 20 kg | 1.5 mg | 0.15 mL |
 | 21 - 30 kg | 2.5 mg | 0.25 mL |
 | 31 - 44 kg | 4 mg | 0.4 mL |
-| *For pediatric patients weighing less than 10 kg, administer 0.1 mg/kg (0.01 mL/kg) of Neulasta. |  |  |
+
+*For pediatric patients weighing less than 10 kg, administer 0.1 mg/kg (0.01 mL/kg) of Neulasta.
 
 ## 2.4 Special Healthcare Provider Instructions for the On-body Injector for Neulasta
 
@@ -60,10 +61,14 @@ The prefilled syringe co-packaged in Neulasta OnproTM kit must only be used with
 The prefilled syringe contains additional solution to compensate for liquid loss during delivery through the On-body Injector for Neulasta.
 If the prefilled syringe co-packaged in Neulasta Onpro kit is used for manual subcutaneous injection, the patient will receive an overdose.
 If the single-dose prefilled syringe for manual use is used with the On-body Injector for Neulasta, the patient may receive less than the recommended dose.
+
 Do not use the On-body Injector for Neulasta to deliver any other drug product except the Neulasta prefilled syringe co-packaged with the On-body Injector for Neulasta.
+
 The On-body Injector for Neulasta should be applied to intact, non-irritated skin on the arm or abdomen.
+
 A missed dose could occur due to an On-body Injector for Neulasta failure or leakage.
 If the patient misses a dose, a new dose should be administered by single-dose prefilled syringe for manual use, as soon as possible after detection.
+
 Refer to the Healthcare Provider Instructions for Use for the On-body Injector for Neulasta for full administration information.
 
 ## 2.5 Advice to Give to Patients Regarding Administration via the On-body Injector for Neulasta
