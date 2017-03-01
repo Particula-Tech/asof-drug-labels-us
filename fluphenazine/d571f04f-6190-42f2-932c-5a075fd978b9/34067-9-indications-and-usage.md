@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
 Fluphenazine Hydrochloride Injection, USP is indicated in the management of manifestations of psychotic disorders.
 

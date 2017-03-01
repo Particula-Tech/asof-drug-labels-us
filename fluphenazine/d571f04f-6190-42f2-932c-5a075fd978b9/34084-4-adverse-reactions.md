@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 ## Central Nervous System
 
@@ -19,7 +19,7 @@ An elevated risk of acute dystonia is observed in males and younger age groups.
 ## Tardive Dyskinesia
 
 See WARNINGS.
-The syndrome is characterized by involuntary choreopathetoid movements which variously involve the tongue, face, mouth, lips or jaw (e.g., protrusion of the tongue, puffing of cheeks, puckering of the mouth, chewing movements), trunk and extremities.
+The syndrome is characterized by involuntary choreoathetoid movements which variously involve the tongue, face, mouth, lips or jaw (e.g., protrusion of the tongue, puffing of cheeks, puckering of the mouth, chewing movements), trunk and extremities.
 The severity of the syndrome and the degree of impairment produced vary widely.
 
 The syndrome may become clinically recognizable either during treatment, upon dosage reduction, or upon withdrawal of treatment.

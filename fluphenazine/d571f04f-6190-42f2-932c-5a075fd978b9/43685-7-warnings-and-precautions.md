@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 ## Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
@@ -15,7 +15,6 @@ Both the risk of developing the syndrome and the likelihood that it will become 
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
 
 There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if neuroleptic treatment is withdrawn.
-
 Neuroleptic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying disease process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
@@ -50,11 +49,16 @@ There is no general agreement about specific pharmacological treatment regimens 
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
 The patient should be carefully monitored, since recurrences of NMS have been reported.
 
+## Falls
+
+Fluphenazine Hydrochloride Injection, USP may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
 ## Usage in Pregnancy
 
 The safety for the use of this drug during pregnancy has not been established; therefore, the possible hazards should be weighed against the potential benefits when administering this drug to pregnant patients.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 

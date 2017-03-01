@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Fluphenazine Hydrochloride Injection, USP is a sterile, nonpyrogenic solution of fluphenazine hydrochloride in Water for Injection, for intramuscular use for the management of schizophrenia.
 Fluphenazine hydrochloride is a trifluoromethyl phenothiazine derivative and the chemical name is 1-Piperazineethanol, 4-[3-[2-(trifluoromethyl)-10H-phenothiazin-10-yl] propyl]-,dihydrochloride and has the following structural formula:

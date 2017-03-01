@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Fluphenazine hydrochloride has activity at all levels of the central nervous system (CNS) as well as on multiple organ systems.
 The mechanism whereby its therapeutic action is exerted is unknown.

@@ -1,8 +1,8 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
-| ProductNo. | NDCNo. |  |
+| Product No. | NDC No. |  |
 | --- | --- | --- |
-| 28110 | 63323-281-10 | Fluphenazine Hydrochloride Injection, USP 2.5 mg/mLin a 10 mL flip-top vial packaged individually. |
+| 28110 | 63323-281-10 | Fluphenazine Hydrochloride Injection, USP 25 mg per 10 mL (2.5 mg per mL) flip-top vial packaged individually. |
 
 Solutions should be protected from exposure to light.
 Parenteral solutions may vary in color from essentially colorless to light amber.
@@ -12,4 +12,4 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 PROTECT FROM LIGHT.
 
-Vial stoppers do not contain natural rubber latex.
+The container closure is not made with natural rubber latex.
