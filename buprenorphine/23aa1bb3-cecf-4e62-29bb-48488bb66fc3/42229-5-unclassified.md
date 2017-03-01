@@ -1,3 +1,1 @@
-CIII
-
 Rx only
