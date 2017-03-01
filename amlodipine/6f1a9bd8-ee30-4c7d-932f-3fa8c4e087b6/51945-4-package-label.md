@@ -6,9 +6,9 @@ Caduet®
 
 (amlodipine besylate/ atorvastatin calcium)
 
-2.5 mg/10 mg*
-
 Tablets
+
+2.5 mg/10 mg*
 
 30 Tablets Rx only
 
@@ -20,9 +20,9 @@ Caduet®
 
 (amlodipine besylate/ atorvastatin calcium)
 
-2.5 mg/20 mg*
-
 Tablets
+
+2.5 mg/20 mg*
 
 30 Tablets Rx only
 
@@ -34,9 +34,9 @@ Caduet®
 
 (amlodipine besylate/ atorvastatin calcium)
 
-2.5 mg/40 mg*
-
 Tablets
+
+2.5 mg/40 mg*
 
 30 Tablets Rx only
 
@@ -48,9 +48,9 @@ Caduet®
 
 (amlodipine besylate/ atorvastatin calcium)
 
-5 mg/10 mg*
-
 Tablets
+
+5 mg/10 mg*
 
 30 Tablets Rx only
 
@@ -62,9 +62,9 @@ Caduet®
 
 (amlodipine besylate/ atorvastatin calcium)
 
-5 mg/20 mg*
-
 Tablets
+
+5 mg/20 mg*
 
 30 Tablets Rx only
 
@@ -76,9 +76,9 @@ Caduet®
 
 (amlodipine besylate/ atorvastatin calcium)
 
-5 mg/40 mg*
-
 Tablets
+
+5 mg/40 mg*
 
 30 Tablets Rx only
 
@@ -90,9 +90,9 @@ Caduet®
 
 (amlodipine besylate/ atorvastatin calcium)
 
-5 mg/80 mg*
-
 Tablets
+
+5 mg/80 mg*
 
 30 Tablets Rx only
 
@@ -104,9 +104,9 @@ Caduet®
 
 (amlodipine besylate/ atorvastatin calcium)
 
-10 mg/10 mg*
-
 Tablets
+
+10 mg/10 mg*
 
 30 Tablets Rx only
 
@@ -118,9 +118,9 @@ Caduet®
 
 (amlodipine besylate/ atorvastatin calcium)
 
-10 mg/20 mg*
-
 Tablets
+
+10 mg/20 mg*
 
 30 Tablets Rx only
 
@@ -132,9 +132,9 @@ Caduet®
 
 (amlodipine besylate/ atorvastatin calcium)
 
-10 mg/40 mg*
-
 Tablets
+
+10 mg/40 mg*
 
 30 Tablets Rx only
 
@@ -146,8 +146,8 @@ Caduet®
 
 (amlodipine besylate/ atorvastatin calcium)
 
-10 mg/80 mg*
-
 Tablets
+
+10 mg/80 mg*
 
 30 Tablets Rx only
