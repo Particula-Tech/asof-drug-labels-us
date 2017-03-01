@@ -117,7 +117,3 @@ Less than 5% of the drug in the body was cleared during a standard 4-hour hemodi
 
 The maximum recommended dose in patients with moderate renal impairment is 50 mg per day.
 Dosage adjustment of 50 mg every other day is recommended in patients with severe renal impairment or ESRD [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
-In a postmarketing study, the efficacy of desvenlafaxine extended-release tablets at a dose lower than 50 mg per day was evaluated in an 8-week, multicenter, randomized, double-blind, placebo-controlled, fixed-dose study in adult outpatients with Major Depressive Disorder.
-The treatment arms were 25 mg (n = 232), 50 mg (n = 236), and placebo (n = 231).
-The 50 mg dose was superior to placebo, as measured by the mean change from baseline on the HAM-D17.
-The 25 mg dose was not superior to placebo.

@@ -14,7 +14,6 @@ Its octanol:aqueous system (at pH 7) partition coefficient is 0.21.
 Desvenlafaxine is formulated as an extended-release tablet for once-a-day oral administration.
 
 Each tablet contains 76 mg or 152 mg of desvenlafaxine succinate equivalent to 50 mg or 100 mg of desvenlafaxine, respectively.
-
 Inactive ingredients for the 50 mg tablet consist of hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
 
 Inactive ingredients for the 100 mg tablet consist of hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide black, iron oxide red, polyethylene glycol, talc, and titanium dioxide.

@@ -41,47 +41,47 @@ Table 2 shows the incidence of common adverse reactions that occurred in ≥2% o
 
 Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Group and Twice the Rate of Placebo) in Pre-marketing Pooled MDD 8-Week Placebo-Controlled Studies
 
-| Percentage of Patients Reporting Reaction |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Desvenlafaxine |  |  |  |
-| System Organ Class Preferred Term |  | Placebo (n=636) | 50 mg (n=317) | 100 mg (n=424) | 200 mg (n=307) | 400 mg (n=317) |
-| Cardiac disorders |  |  |  |  |  |  |
-| Blood pressure increased |  | 1 | 1 | 1 | 2 | 2 |
-| Gastrointestinal disorders |  |  |  |  |  |  |
-| Nausea |  | 10 | 22 | 26 | 36 | 41 |
-| Dry mouth |  | 9 | 11 | 17 | 21 | 25 |
-| Constipation |  | 4 | 9 | 9 | 10 | 14 |
-| Vomiting |  | 3 | 3 | 4 | 6 | 9 |
-| General disorders and administration site conditions |  |  |  |  |  |  |
-| Fatigue |  | 4 | 7 | 7 | 10 | 11 |
-| Chills |  | 1 | 1 | <1 | 3 | 4 |
-| Feeling jittery |  | 1 | 1 | 2 | 3 | 3 |
-| Metabolism and nutrition disorders |  |  |  |  |  |  |
-| Decreased appetite |  | 2 | 5 | 8 | 10 | 10 |
-| Nervous system disorders |  |  |  |  |  |  |
-| Dizziness |  | 5 | 13 | 10 | 15 | 16 |
-| Somnolence |  | 4 | 4 | 9 | 12 | 12 |
-| remor |  | 2 | 2 | 3 | 9 | 9 |
-| Disturbance in attention |  | <1 | <1 | 1 | 2 | 1 |
-| Psychiatric disorders |  |  |  |  |  |  |
-| Insomnia |  | 6 | 9 | 12 | 14 | 15 |
-| Anxiety |  | 2 | 3 | 5 | 4 | 4 |
-| Nervousness |  | 1 | <1 | 1 | 2 | 2 |
-| Abnormal dreams |  | 1 | 2 | 3 | 2 | 4 |
-| Renal and urinary disorders |  |  |  |  |  |  |
-| Urinary hesitation |  | 0 | <1 | 1 | 2 | 2 |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
-| Yawning |  | <1 | 1 | 1 | 4 | 3 |
-| Skin and subcutaneous tissue disorders |  |  |  |  |  |  |
-| Hyperhidrosis |  | 4 | 10 | 11 | 18 | 21 |
-| Special Senses |  |  |  |  |  |  |
-| Vision blurred |  | 1 | 3 | 4 | 4 | 4 |
-| Mydriasis |  | <1 | 2 | 2 | 6 | 6 |
-| Vertigo |  | 1 | 2 | 1 | 5 | 3 |
-| Tinnitus |  | 1 | 2 | 1 | 1 | 2 |
-| Dysgeusia |  | 1 | 1 | 1 | 1 | 2 |
-| Vascular disorders |  |  |  |  |  |  |
-| Hot flush |  | <1 | 1 | 1 | 2 | 2 |
+| Percentage of Patients Reporting Reaction |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Desvenlafaxine |  |  |  |  |  |
+| System Organ Class Preferred Term | Placebo (n=636) | 50 mg (n=317) | 100 mg (n=424) | 200 mg (n=307) | 400 mg (n=317) |
+| Cardiac disorders |  |  |  |  |  |
+| Blood pressure increased | 1 | 1 | 1 | 2 | 2 |
+| Gastrointestinal disorders |  |  |  |  |  |
+| Nausea | 10 | 22 | 26 | 36 | 41 |
+| Dry mouth | 9 | 11 | 17 | 21 | 25 |
+| Constipation | 4 | 9 | 9 | 10 | 14 |
+| Vomiting | 3 | 3 | 4 | 6 | 9 |
+| General disorders and administration site conditions |  |  |  |  |  |
+| Fatigue | 4 | 7 | 7 | 10 | 11 |
+| Chills | 1 | 1 | <1 | 3 | 4 |
+| Feeling jittery | 1 | 1 | 2 | 3 | 3 |
+| Metabolism and nutrition disorders |  |  |  |  |  |
+| Decreased appetite | 2 | 5 | 8 | 10 | 10 |
+| Nervous system disorders |  |  |  |  |  |
+| Dizziness | 5 | 13 | 10 | 15 | 16 |
+| Somnolence | 4 | 4 | 9 | 12 | 12 |
+| Tremor | 2 | 2 | 3 | 9 | 9 |
+| Disturbance in attention | <1 | <1 | 1 | 2 | 1 |
+| Psychiatric disorders |  |  |  |  |  |
+| Insomnia | 6 | 9 | 12 | 14 | 15 |
+| Anxiety | 2 | 3 | 5 | 4 | 4 |
+| Nervousness | 1 | <1 | 1 | 2 | 2 |
+| Abnormal dreams | 1 | 2 | 3 | 2 | 4 |
+| Renal and urinary disorders |  |  |  |  |  |
+| Urinary hesitation | 0 | <1 | 1 | 2 | 2 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |
+| Yawning | <1 | 1 | 1 | 4 | 3 |
+| Skin and subcutaneous tissue disorders |  |  |  |  |  |
+| Hyperhidrosis | 4 | 10 | 11 | 18 | 21 |
+| Special Senses |  |  |  |  |  |
+| Vision blurred | 1 | 3 | 4 | 4 | 4 |
+| Mydriasis | <1 | 2 | 2 | 6 | 6 |
+| Vertigo | 1 | 2 | 1 | 5 | 3 |
+| Tinnitus | 1 | 2 | 1 | 1 | 2 |
+| Dysgeusia | 1 | 1 | 1 | 1 | 2 |
+| Vascular disorders |  |  |  |  |  |
+| Hot flush | <1 | 1 | 1 | 2 | 2 |
 
 Sexual function adverse reactions
 
@@ -101,8 +101,8 @@ Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any desven
 | Ejaculation disorder | 0 | 0 | 1 | 2 | 5 |
 | Ejaculation failure | 0 | 1 | 0 | 2 | 2 |
 | Sexual dysfunction | 0 | 1 | 0 | 0 | 2 |
-|  | Placebo (n=397) | Desvenlafaxine |  |  |  |
-|  | 50 mg (n=209) | 100 mg (n=267) | 200 mg (n=176) | 400 mg (n=163) |  |
+|  |  | Desvenlafaxine |  |  |  |
+|  | Placebo (n=397) | 50 mg (n=209) | 100 mg (n=267) | 200 mg (n=176) | 400 mg (n=163) |
 | Women only |  |  |  |  |  |
 | Anorgasmia | 0 | 1 | 1 | 0 | 3 |
 
@@ -140,12 +140,10 @@ Some of these abnormalities were considered potentially clinically significant.
 
 The percentage of patients who exceeded a predetermined threshold value is shown in Table 4.
 
-| Table 4: Incidence (%) of Patients With Lipid Abnormalities of Potential Clinical Significance* |
-| --- |
-
-|  |  | Desvenlafaxine |  |  |  |
+| Table 4: Incidence (%) of Patients With Lipid Abnormalities of Potential Clinical Significance* |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
+|  |  | Desvenlafaxine |  |  |  |
+| Placebo | 50 mg | 100 mg | 200 mg | 400 mg |  |
 | Total Cholesterol | 2 | 3 | 4 | 4 | 10 |
 | *(Increase of ≥50 mg/dl and an absolute value of ≥261 mg/dl) |  |  |  |  |  |
 | LDL Cholesterol | 0 | 1 | 0 | 1 | 2 |
@@ -157,13 +155,12 @@ Proteinuria
 
 Proteinuria, greater than or equal to trace, was observed in the pre-marketing fixed-dose controlled studies (see Table 5).
 This proteinuria was not associated with increases in BUN or creatinine and was generally transient.
-
 Table 5: Incidence (%) of Patients with Proteinuria in the Fixed-dose Clinical Studies
 
-|  |  | Desvenlafaxine |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
-| Proteinuria | 4 | 6 | 8 | 5 | 7 |
+|  |  | Desvenlafaxine |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |  |
+| Proteinuria | 4 | 6 | 8 | 5 | 7 |  |
 
 Vital sign changes
 
@@ -204,3 +201,4 @@ The following adverse reaction has been identified during post-approval use of d
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
 Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome.
+Gastrointestinal disorders – Pancreatitis acute.

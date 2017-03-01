@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Desvenlafaxine Extended-release Tablets (des VEN la FAX een)
+Desvenlafaxine Extended-Release Tablets (des VEN la FAX een)
 
 Read this Medication Guide before you start taking desvenlafaxine and each time you get a refill.
 There may be new information.
@@ -71,7 +71,7 @@ Serotonin syndrome
 
 Rare, but potentially life-threatening conditions called serotonin syndrome can happen when medicines such as desvenlafaxine are taken with certain other medicines.
 Serotonin syndrome can cause serious changes in how your brain, muscles, heart and blood vessels, and digestive system work.
-Especially tell your healthcare provider if you take the following: • medicines to treat migraine headaches known as triptans • medicines used to treat mood, anxiety, psychotic, or thought disorders, including tricyclics, lithium, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), or other dopamine antagonists, such as metoclopramide • silbutramine • tramadol • St. John’s Wort • MAOIs (including linezolid, an antibiotic and intravenous methylene blue) • tryptophan supplements Ask your healthcare provider if you are not sure if you are taking any of these medicines.
+Especially tell your healthcare provider if you take the following: • amphetamines • medicines to treat migraine headaches known as triptans • medicines used to treat mood, anxiety, psychotic, or thought disorders, including tricyclics, lithium, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), or other dopamine antagonists, such as metoclopramide • silbutramine • tramadol • St. John’s Wort • MAOIs (including linezolid, an antibiotic and intravenous methylene blue) • tryptophan supplements Ask your healthcare provider if you are not sure if you are taking any of these medicines.
 Before you take desvenlafaxine with any of these medicines, talk to your healthcare provider about serotonin syndrome.
 See “What are the possible side effects of desvenlafaxine?”
 
@@ -162,6 +162,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about desvenlafaxine.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about desvenlafaxine that is written for healthcare professionals.
+For more information call Breckenridge Pharmaceutical, Inc. at 1-800-367-3395 or go to www.bpirx.com.
 
 What are the ingredients in desvenlafaxine?
 Active ingredient: desvenlafaxine Inactive ingredients: For the 50 mg tablet, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
@@ -172,4 +173,4 @@ Distributed by: Breckenridge Pharmaceutical, Inc. Boca Raton, FL 33487
 
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal, Gujarat, India.
 
-Revised: 06/2015
+Revised: 01/2017
