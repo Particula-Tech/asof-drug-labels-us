@@ -4,6 +4,9 @@ Advise the patient to read the FDA-approved patient labeling (Instructions for U
 
 Not for Acute Use Instruct patients that SPIRIVA RESPIMAT is a once-daily maintenance bronchodilator and should not be used for immediate relief of breathing problems, (i.e., as a rescue medication).
 
+Immediate Hypersensitivity Reactions Inform patients that anaphylaxis, angioedema (including swelling of the lips, tongue, or throat), urticaria, rash, bronchospasm, or itching, may occur after administration of SPIRIVA RESPIMAT.
+Advise patient to immediately discontinue treatment and consult a physician should any of these signs or symptoms develop.
+
 Paradoxical Bronchospasm Inform patients that SPIRIVA RESPIMAT can produce paradoxical bronchospasm.
 Advise patients that if paradoxical bronchospasm occurs, patients should discontinue SPIRIVA RESPIMAT.
 

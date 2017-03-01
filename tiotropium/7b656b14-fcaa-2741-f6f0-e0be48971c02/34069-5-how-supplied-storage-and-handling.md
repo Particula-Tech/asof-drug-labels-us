@@ -8,7 +8,7 @@ The SPIRIVA RESPIMAT cartridge is only intended for use with the SPIRIVA RESPIMA
 The SPIRIVA RESPIMAT inhaler is a cylindrical shaped plastic inhalation device with a gray colored body and a clear base.
 The clear base is removed to insert the cartridge.
 The inhaler contains a dose indicator.
-The written information on the label of the gray inhaler body indicate that it is labeled for use with the SPIRIVA RESPIMAT cartridge.
+The written information on the label of the gray inhaler body indicates that it is labeled for use with the SPIRIVA RESPIMAT cartridge.
 
 SPIRIVA RESPIMAT Inhalation Spray is available in two dosage strengths, identified by dose delivered per actuation and by the color of the cap and associated container label: aqua represents 2.5 mcg per actuation; blue represents 1.25 mcg per actuation.
 

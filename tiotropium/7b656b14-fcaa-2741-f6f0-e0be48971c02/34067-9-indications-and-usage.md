@@ -9,6 +9,6 @@ Important Limitation of Use: SPIRIVA RESPIMAT is NOT indicated for the relief of
 
 ## 1.2 Maintenance Treatment of Asthma
 
-SPIRIVA RESPIMAT is a bronchodilator indicated for the long-term, once-daily, maintenance treatment of asthma in patients 12 years of age and older.
+SPIRIVA RESPIMAT is a bronchodilator indicated for the long-term, once-daily, maintenance treatment of asthma in patients 6 years of age and older.
 
 Important Limitation of Use: SPIRIVA RESPIMAT is NOT indicated for the relief of acute bronchospasm.

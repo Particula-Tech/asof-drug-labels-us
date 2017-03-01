@@ -58,7 +58,7 @@ Specific Populations Geriatric Patients As expected for all predominantly renall
 This did not result in a corresponding increase in AUC0-6,ss and Cmax,ss values following inhalation of the solution.
 Exposure to tiotropium was not found to differ with age in patients with asthma.
 
-Pediatric Patients The exposure to tiotropium was not found to differ between adolescents (aged 12 to 17 years) and adults with asthma.
+Pediatric Patients The peak and total exposure to tiotropium was not found to differ between pediatric patients (aged 6 to 17 years) and adults with asthma.
 
 Renal Impairment Following 4-week SPIRIVA RESPIMAT 5 mcg once daily dosing in patients with COPD, mild renal impairment (creatinine clearance 60 - <90 mL/min) resulted in 23% higher AUC0‑6,ss and 17% higher Cmax,ss values; moderate renal impairment (creatinine clearance 30 - <60 mL/min) resulted in 57% higher AUC0‑6,ss and 31% higher Cmax,ss values compared to COPD patients with normal renal function (creatinine clearance >90 mL/min).
 The influence of mild or moderate renal impairment on the systemic exposure to SPIRIVA RESPIMAT 2.5 mcg in patients with asthma was similar to what has been described for COPD above.

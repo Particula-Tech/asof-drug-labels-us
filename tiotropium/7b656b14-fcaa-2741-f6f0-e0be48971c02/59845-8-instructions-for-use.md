@@ -1,4 +1,4 @@
-Instructions For Use SPIRIVA® RESPIMAT® (speh REE vah - RES peh mat) (tiotropium bromide) inhalation spray
+Instructions for Use SPIRIVA® RESPIMAT® (speh REE vah - RES peh mat) (tiotropium bromide) inhalation spray
 
 For Oral Inhalation Only Do not spray SPIRIVA RESPIMAT into your eyes
 
@@ -11,6 +11,7 @@ Each time you use it take TWO PUFFS.
 
 Use SPIRIVA RESPIMAT exactly as prescribed by your doctor.
 Do not change your dose or how often you use SPIRIVA RESPIMAT without talking with your doctor.
+Children should use SPIRIVA RESPIMAT with the help of an adult, as instructed by their doctor.
 
 Tell your doctor about all of the medicines you take.
 SPIRIVA RESPIMAT may affect the way some medicines work and some other medicines may affect the way SPIRIVA RESPIMAT works.
@@ -141,6 +142,6 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877
 
 SPIRIVA® and RESPIMAT® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH
 
-Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2017 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: June 2016 IT5904EF142016 304478-04
+Revised: February 2017 IT5904FB152017
