@@ -107,7 +107,7 @@ For DVT, there were 48 events (1%) in the placebo group and 67 (1%) in the fenof
 
 In the Coronary Drug Project, a higher proportion of the clofibrate group experienced definite or suspected fatal or nonfatal pulmonary embolism or thrombophlebitis than the placebo group (5.2% vs. 3.3% at five years; p <0.01).
 
-## 5.11 Paradoxical Decreases in HDL Cholesterol Levels
+## 5.11 Paradoxical Decrease in HDL Cholesterol Levels
 
 There have been postmarketing and clinical trial reports of severe decreases in HDL cholesterol levels (as low as 2 mg/dL) occurring in diabetic and non-diabetic patients initiated on fibrate therapy.
 The decrease in HDL-C is mirrored by a decrease in apolipoprotein A1.
