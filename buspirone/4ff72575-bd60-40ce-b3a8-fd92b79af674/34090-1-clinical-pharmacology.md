@@ -9,7 +9,7 @@ Buspirone has no significant affinity for benzodiazepine receptors and does not 
 Buspirone has moderate affinity for brain D2-dopamine receptors.
 Some studies do suggest that buspirone may have indirect effects on other neurotransmitter systems.
 
-Buspirone hydrochloride tablets are rapidly absorbed in man and undergo extensive first-pass metabolism.
+Buspirone hydrochloride tablets are rapidly absorbed in man and undergoes extensive first-pass metabolism.
 In a radio-labeled study, unchanged buspirone in the plasma accounted for only about 1% of the radioactivity in the plasma.
 Following oral administration, plasma concentrations of unchanged buspirone are very low and variable between subjects.
 Peak plasma levels of 1 ng/mL to 6 ng/mL have been observed 40 to 90 minutes after single oral doses of 20 mg.
@@ -27,9 +27,9 @@ It was also observed that aspirin increased the plasma levels of free buspirone 
 However, it is not known whether these drugs cause similar effects on plasma levels of free buspirone in vivo, or whether such changes, if they do occur, cause clinically significant differences in treatment outcome.
 An in vitro study indicated that buspirone did not displace highly protein-bound drugs such as phenytoin, warfarin, and propranolol from plasma protein, and that buspirone may displace digoxin.
 
-Buspirone is metabolized primarily by oxidation, which in vitro has been shown to be mediated by cytochrome P450 3A4 (CYP3A4) (see PRECAUTIONS, Drug Interactions).
+Buspirone is metabolized primarily by oxidation, which in vitro has been shown to be mediated by cytochrome P450 3A4 (CYP3A4) (see PRECAUTIONS: Drug Interactions).
 Several hydroxylated derivatives and a pharmacologically active metabolite, 1-pyrimidinylpiperazine (1-PP), are produced.
-In animal models predictive of anxiolytic potential, 1-PP has about one quarter of the activity of buspirone, but is present in up to 20 fold greater amounts.
+In animal models predictive of anxiolytic potential, 1-PP has about one quarter of the activity of buspirone, but is present in up to 20- fold greater amounts.
 However, this is probably not important in humans: blood samples from humans chronically exposed to buspirone hydrochloride tablets do not exhibit high levels of 1-PP; mean values are approximately 3 ng/mL and the highest human blood level recorded among 108 chronically dosed patients was 17 ng/mL, less than 1/200th of 1-PP levels found in animals given large doses of buspirone without signs of toxicity.
 
 In a single-dose study using 14C-labeled buspirone, 29% to 63% of the dose was excreted in the urine within 24 hours, primarily as metabolites; fecal excretion accounted for 18% to 38% of the dose.
@@ -43,11 +43,11 @@ After single or multiple doses in adults, no significant differences in buspiron
 
 Hepatic Impairment
 
-After multiple-dose administration of buspirone to patients with hepatic impairment, steady-state AUC of buspirone increased 13 fold compared with healthy subjects (see PRECAUTIONS).
+After multiple-dose administration of buspirone to patients with hepatic impairment, steady-state AUC of buspirone increased 13- fold compared with healthy subjects (see PRECAUTIONS).
 
 Renal Impairment
 
-After multiple-dose administration of buspirone to renally impaired (Clcr = 10 to 70 mL/min/1.73 m2) patients, steady-state AUC of buspirone increased 4 fold compared with healthy (Clcr ≥ 80 mL/min/1.73 m2) subjects (see PRECAUTIONS).
+After multiple-dose administration of buspirone to renally impaired (Clcr = 10 to 70 mL/min/1.73 m2) patients, steady-state AUC of buspirone increased 4-fold compared with healthy (Clcr ≥ 80 mL/min/1.73 m2) subjects (see PRECAUTIONS).
 
 Race Effects
 

@@ -3,7 +3,7 @@
 Buspirone Hydrochloride Tablets USP, 5 mg are available as round, white to off white tablet, scored, debossed "HP" above and "23" below the score on one side and plain on the reverse side.
 They are available as follows:
 
-Bottles of 100:NDC 23155-023-01
+Bottles of 100: NDC 23155-023-01
 
 Buspirone Hydrochloride Tablets USP, 10 mg are available as round, white to off white tablet, scored, debossed "HP" above and "24" below the score on one side and plain on the reverse side.
 They are available as follows:
