@@ -1,4 +1,6 @@
-# MEDICATION GUIDE KAZANO (Kah-ZAHN-oh) (alogliptin and metformin HCl) tablets
+# MEDICATION GUIDE
+
+KAZANO (Kah-ZAHN-oh) (alogliptin and metformin HCl) tablets
 
 Read this Medication Guide carefully before you start taking KAZANO and each time you get a refill.
 There may be new information.
@@ -9,7 +11,8 @@ What is the most important information I should know about KAZANO?
 
 KAZANO can cause serious side effects, including:
 
-- 1.Lactic Acidosis.
+- 1.
+  Lactic Acidosis.
   Metformin, one of the medicines in KAZANO, can cause a rare but serious condition called lactic acidosis (a buildup of an acid in the blood) that can cause death.
   Lactic acidosis is a medical emergency and must be treated in the hospital.
 
@@ -93,8 +96,8 @@ Do not take KAZANO if you:
 
 Symptoms of a serious allergic reaction to KAZANO may include:
 
-| swelling of your face, lips, throat and other areas on your skinraised, red areas on your skin (hives) | difficulty with swallowing or breathingskin rash, itching, flaking or peeling |
-| --- | --- |
+|  | swelling of your face, lips, throat and other areas on your skinraised, red areas on your skin (hives) | difficulty with swallowing or breathingskin rash, itching, flaking or peeling |
+| --- | --- | --- |
 
 If you have any of these symptoms, stop taking KAZANO and contact your doctor or go to the nearest hospital emergency room right away.
 
@@ -147,14 +150,27 @@ What are the possible side effects of KAZANO?
 KAZANO can cause serious side effects, including:
 
 - See "What is the most important information I should know about KAZANO?"
-- Allergic (hypersensitivity) reactions, such as: swelling of your face, lips, throat and other areas on your skinraised, red areas on your skin (hives) difficulty swallowing or breathingskin rash, itching, flaking or peeling If you have these symptoms, stop taking KAZANO and contact your doctor right away.
+- Allergic (hypersensitivity) reactions, such as:
+
+|  | swelling of your face, lips, throat and other areas on your skinraised, red areas on your skin (hives) | difficulty swallowing or breathingskin rash, itching, flaking or peeling |
+| --- | --- | --- |
+|  | If you have these symptoms, stop taking KAZANO and contact your doctor right away. |  |
+
 - Liver problems.
-  Call your doctor right away if you have unexplained symptoms, such as: nausea or vomitingloss of appetite stomach paindark urine unusual or unexplained tirednessyellowing of your skin or the whites of your eyes
+  Call your doctor right away if you have unexplained symptoms, such as:
+
+|  | nausea or vomitingloss of appetite | stomach paindark urine | unusual or unexplained tirednessyellowing of your skin or the whites of your eyes |
+| --- | --- | --- | --- |
+
 - Low blood sugar (hypoglycemia).
   If you take KAZANO with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
   The dose of your sulfonylurea medicine or insulin may need to be lowered while you take KAZANO.
   If you have symptoms of low blood sugar, you should check your blood sugar and treat if low, and then call your doctor.
-  Signs and symptoms of low blood sugar may include: shaking or feeling jitterysweating fast heartbeatchange in vision hungerheadache change in moodconfusion dizziness
+  Signs and symptoms of low blood sugar may include:
+
+|  | shaking or feeling jitterysweating | fast heartbeatchange in vision | hungerheadache | change in moodconfusion | dizziness |
+| --- | --- | --- | --- | --- | --- |
+
 - Joint pain.
   Some people who take medicines called DPP-4 inhibitors, one of the medicines in KAZANO, may develop joint pain that can be severe.
   Call your doctor if you have severe joint pain.
@@ -207,7 +223,11 @@ Active ingredients: alogliptin and metformin hydrochloride
 Inactive ingredients: mannitol, microcrystalline cellulose, povidone, crospovidone and magnesium stearate; the tablets are film-coated with hypromellose 2910, talc, titanium dioxide and ferric oxide yellow.
 
 Distributed by Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015.
-KAZANO and NESINA are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and are used under license by Takeda Pharmaceuticals America, Inc. ©2013 - 2016 Takeda Pharmaceuticals America, Inc. ALM143 R9
+KAZANO and NESINA are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and are used under license by Takeda Pharmaceuticals America, Inc.
+
+©2013 - 2017 Takeda Pharmaceuticals America, Inc.
+
+ALM143 R10
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-12/2016
+2/2017

@@ -44,6 +44,9 @@ Glycemic Parameters at Week 26 for Alogliptin and Metformin Alone and in Combina
 | Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -19 (-49, 11) | -32 (-58, -5) |
 | Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | -25 (-53, 3) | -43 (-70, -16) |
 
+| Figure 3. Change from Baseline A1C at Week 26 with Alogliptin and Metformin Alone and Alogliptin in Combination with Metformin |
+| --- |
+
 Alogliptin and Metformin Coadministration in Patients with Type 2 Diabetes Inadequately Controlled on Metformin Alone
 
 In a 26 week, double-blind, placebo-controlled study, a total of 527 patients already on metformin (mean baseline A1C = 8%) were randomized to receive alogliptin 12.5 mg, alogliptin 25 mg, or placebo once daily.
@@ -63,12 +66,12 @@ Glycemic Parameters at Week 26 in a Placebo-Controlled Study of Alogliptin as Ad
 | A1C (%) | N=203 | N=103 |
 | Baseline (mean) | 7.9 | 8.0 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline metformin dose.) | -0.6 | -0.1 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -0.5p<0.001 compared to placebo. (-0.7, -0.3) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -0.5p<0.001 compared to placebo. (-0.7, -0.3) | ˗ |
 | % of patients (n/N) achieving A1C ≤7% | 44% (92/207) | 18% (19/104) |
 | FPG (mg/dL) | N=204 | N=104 |
 | Baseline (mean) | 172 | 180 |
 | Change from baseline (adjusted mean) | -17 | 0 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -17 (-26, -9) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -17 (-26, -9) | ˗ |
 
 Alogliptin Add-On Therapy in Patients with Type 2 Diabetes Inadequately Controlled on the Combination of Metformin and Pioglitazone
 
