@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA204082",
+    "ANDA204083"
+  ],
+  "inn": "desvenlafaxine",
+  "labeler": "West-Ward Pharmaceuticals Corp.",
+  "package_ndcs": [
+    "0054-0400-03",
+    "0054-0400-13",
+    "0054-0400-20",
+    "0054-0400-22",
+    "0054-0400-29",
+    "0054-0401-06",
+    "0054-0401-13",
+    "0054-0401-20",
+    "0054-0401-22"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "desvenlafaxine",
+      "name": "Desvenlafaxine"
+    }
+  ],
+  "setid": "662890ff-d254-40e0-a9fe-f07ab94d65d6",
+  "source": "dailymed"
+}
