@@ -8,7 +8,7 @@ Use caution when administering clozapine concomitantly with drugs that are induc
 CYP1A2 Inhibitors
 
 Concomitant use of clozapine and CYP1A2 inhibitors can increase plasma levels of clozapine, potentially resulting in adverse reactions.
-Reduce the clozapine dose to one-third of the original dose when clozapine is coadministered with strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin).
+Reduce the clozapine dose to one third of the original dose when clozapine is coadministered with strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin).
 The clozapine dose should be increased to the original dose when coadministration of strong CYP1A2 inhibitors is discontinued [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
 
 Moderate or weak CYP1A2 inhibitors include oral contraceptives and caffeine.

@@ -8,7 +8,7 @@ There must have been no period of good functioning within the preceding 5 years.
 Patients must have had a baseline score of at least 45 on the investigator-rated Brief Psychiatric Rating Scale (BPRS).
 On the 18-item BPRS, 1 indicates the absence of symptoms, and 7 indicates severe symptoms; the maximum potential total BPRS score is 126.
 At baseline, the mean BPRS score was 61.
-In addition, patients must have had a score of at least 4 on at least 2 of the following 4 individual BPRS items: conceptual disorganization, suspiciousness, hallucinatory behavior, and unusual thought content.
+In addition, patients must have had a score of at least 4 on at least two of the following four individual BPRS items: conceptual disorganization, suspiciousness, hallucinatory behavior, and unusual thought content.
 Patients must have had a Clinical Global Impressions–Severity Scale score of at least 4 (moderately ill).
 
 In the prospective, lead-in phase of the trial, all patients (N=305) initially received single-blind treatment with haloperidol (the mean dose was 61 mg per day) for 6 weeks.
@@ -19,7 +19,7 @@ The maximum daily chlorpromazine dose was 1800 mg; the mean daily dose was >1200
 
 The primary endpoint was treatment response, predefined as a decrease in BPRS score of at least 20% and either (1) a CGI-S score of ≤ 3 (mildly ill), or (2) a BPRS score of ≤ 35, at the end of 6 weeks of treatment.
 Approximately 88% of patients from the clozapine and chlorpromazine groups completed the 6-week trial.
-At the end of 6 weeks, 30% of the clozapine group responded to treatment, and 4% of the chlorpromazine group responded to treatment.
+At the end of six weeks, 30% of the clozapine group responded to treatment, and 4% of the chlorpromazine group responded to treatment.
 The difference was statistically significant (p <0.001).
 The mean change in total BPRS score was -16 and -5 in the clozapine and chlorpromazine group, respectively; the mean change in the 4 key BPRS item scores was -5 and -2 in the clozapine and chlorpromazine group, respectively; and the mean change in CGI-S score was -1.2 and -0.4, in the clozapine and chlorpromazine group, respectively.
 These changes in the clozapine group were statistically significantly greater than in the chlorpromazine group (p<0.001 in each analysis).
@@ -49,7 +49,7 @@ Sixty-two percent of the patients were diagnosed with schizophrenia, and the rem
 Only about one-fourth of the total patient population (27%) was identified as “treatment-resistant” at baseline.
 There were more males than females in the study (61% of all patients were male).
 The mean age of patients entering the study was 37 years of age (range 18–69).
-Most patients were Caucasian (71%), 15% were black, 1% were Asian, and 13% were classified as being of “other” races.
+Most patients were Caucasian (71%), 15% were Black, 1% were Asian, and 13% were classified as being of “other” races.
 
 Patients treated with clozapine had a statistically significant longer delay in the time to recurrent suicidal behavior in comparison with olanzapine.
 This result should be interpreted only as evidence of the effectiveness of clozapine in delaying time to recurrent suicidal behavior and not a demonstration of the superior efficacy of clozapine over olanzapine.

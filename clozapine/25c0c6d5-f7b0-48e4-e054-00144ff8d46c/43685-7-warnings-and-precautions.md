@@ -8,7 +8,7 @@ Clozapine can cause neutropenia (a low absolute neutrophil count (ANC)), defined
 The ANC is usually available as a component of the complete blood count (CBC), including differential, and is more relevant to drug-induced neutropenia than is the white blood cell (WBC) count.
 The ANC may also be calculated using the following formula: ANC equals the Total WBC count multiplied by the total percentage of neutrophils obtained from the differential (neutrophil “segs” plus neutrophil “bands”).
 Other granulocytes (basophils and eosinophils) contribute minimally to neutropenia and their measurement is not necessary [see Adverse Reactions (6.2)].
-Neutropenia may be mild, moderate, or severe (see Table 2 and Table 3).
+Neutropenia may be mild, moderate, or severe (see Tables 2 and 3).
 To improve and standardize understanding, “severe neutropenia” replaces the previous terms severe leukopenia, severe granulocytopenia, or agranulocytosis.
 
 Severe neutropenia, ANC less than (<) 500/μL, occurs in a small percentage of patients taking Clozapine and is associated with an increase in the risk of serious and potentially fatal infections.
@@ -63,7 +63,7 @@ General Guidelines for Management of All Patients with Fever or with Neutropenia
 
 - Fever: Interrupt clozapine as a precautionary measure in any patient who develops fever, defined as a temperature of 38.5°C [101.3°F] or greater, and obtain an ANC level.
   Fever is often the first sign of neutropenic infection.
-- ANC less than 1000/μL: If fever occurs in any patient with an ANC less than 1000/μL, initiate appropriate workup and treatment for infection and refer to Table 2 or Table 3 for management.
+- ANC less than 1000/μL: If fever occurs in any patient with an ANC less than 1000/μL, initiate appropriate workup and treatment for infection and refer to Tables 2 and 3 for management.
 - Consider hematology consultation.
 - See Neuroleptic Malignant Syndrome [NMS] and Fever under WARNINGS and PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
 
@@ -73,13 +73,13 @@ For some patients who experience severe clozapine-related neutropenia, the risk 
 A hematology consultation may be useful in deciding to rechallenge a patient.
 In general, however, do not rechallenge patients who develop severe neutropenia with clozapine or a clozapine product.
 
-If a patient will be rechallenged, the clinician should consider thresholds provided in Table 2 and Table 3, the patient’s medical and psychiatric history, a discussion with the patient and his/her caregiver about the benefits and risks of clozapine rechallenge, and the severity and characteristics of the neutropenic episode.
+If a patient will be rechallenged, the clinician should consider thresholds provided in Tables 2 and 3, the patient’s medical and psychiatric history, a discussion with the patient and his/her caregiver about the benefits and risks of clozapine rechallenge, and the severity and characteristics of the neutropenic episode.
 
 Using Clozapine with Other Drugs Associated with Neutropenia
 
 It is unclear if concurrent use of other drugs known to cause neutropenia increases the risk or severity of clozapine-induced neutropenia.
 There is no strong scientific rationale to avoid clozapine treatment in patients concurrently treated with these drugs.
-If clozapine is used concurrently with an agent known to cause neutropenia (e.g., some chemotherapeutic agents), consider monitoring patients more closely than the treatment the guidelines provided in Table 2 and Table 3.
+If clozapine is used concurrently with an agent known to cause neutropenia (e.g., some chemotherapeutic agents), consider monitoring patients more closely than the treatment the guidelines provided in Tables 2 and 3.
 Consult with the treating oncologist in patients receiving concomitant chemotherapy.
 
 ## 5.2 Clozapine REMS Program
@@ -153,7 +153,7 @@ Eosinophilia, defined as a blood eosinophil count of greater than 700/µL, has o
 In clinical trials, approximately 1% of patients developed eosinophilia.
 Clozapine-related eosinophilia usually occurs during the first month of treatment.
 In some patients, it has been associated with myocarditis, pancreatitis, hepatitis, colitis, and nephritis.
-Such organ involvement could be consistent with a drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome, also known as drug induced hypersensitivity syndrome (DIHS).
+Such organ involvement could be consistent with a drug reaction with eosinophilia and systemic symptoms syndrome (DRESS), also known as drug induced hypersensitivity syndrome (DIHS).
 If eosinophilia develops during clozapine treatment, evaluate promptly for signs and symptoms of systemic reactions, such as rash or other allergic symptoms, myocarditis, or other organ-specific disease associated with eosinophilia.
 If clozapine-related systemic disease is suspected, discontinue clozapine immediately.
 
@@ -174,12 +174,12 @@ Prior to initiating treatment with clozapine, perform a careful physical examina
 Consider obtaining a baseline ECG and serum chemistry panel.
 Correct electrolyte abnormalities.
 Discontinue clozapine if the QTc interval exceeds 500 msec.
-If patients experience symptoms consistent with Torsades de Pointes, or other arrhythmias, (e.g., syncope, presyncope, dizziness, or palpitations), obtain a cardiac evaluation and discontinue clozapine.
+If patients experience symptoms consistent with Torsades de Pointes or other arrhythmias, (e.g., syncope, presyncope, dizziness, or palpitations), obtain a cardiac evaluation and discontinue clozapine.
 
 Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of clozapine.
 Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmic medications (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus).
 Clozapine is primarily metabolized by CYP isoenzymes 1A2, 2D6, and 3A4.
-Concomitant treatment with inhibitors of these enzymes can increase the concentration of clozapine [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+Concomitant treatment with inhibitors of these enzymes can increase the concentration of clozapine [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 Hypokalemia and hypomagnesemia increase the risk of QT prolongation.
 Hypokalemia can result from diuretic therapy, diarrhea, and other causes.

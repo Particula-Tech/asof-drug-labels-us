@@ -44,19 +44,19 @@ Pharmacological testing has shown the desmethyl metabolite (norclozapine) to hav
 The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to12 hours), compared to a mean elimination half-life of 12 hours (range: 4 to 66 hours), after achieving steady state with 100 mg twice daily dosing.
 
 A comparison of single-dose and multiple-dose administration of clozapine demonstrated that the elimination half-life increased significantly after multiple dosing relative to that after single-dose administration, suggesting the possibility of concentration-dependent pharmacokinetics.
-However, at steady state, approximately dose-proportional changes with respect to area under the curve (AUC), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5, 75, and 150 mg twice daily.
+However, at steady state, approximately dose-proportional changes with respect to AUC (area under the curve), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5, 75, and 150 mg twice daily.
 
 Drug-Drug Interaction Studies
 
 Fluvoxamine
 
 A pharmacokinetic study was conducted in 16 schizophrenic patients who received clozapine under steady-state conditions.
-After coadministration of fluvoxamine for 14 days, mean trough concentrations of clozapine and its metabolites, N-desmethylclozapine and clozapine N-oxide, were elevated about 3-fold compared to baseline steady-state concentrations.
+After coadministration of fluvoxamine for 14 days, mean trough concentrations of clozapine and its metabolites, N-desmethylclozapine and clozapine N-oxide, were elevated about three-fold compared to baseline steady-state concentrations.
 
 Paroxetine, Fluoxetine, and Sertraline
 
 In a study of schizophrenic patients (n=14) who received clozapine under steady-state conditions, coadministration of paroxetine produced only minor changes in the levels of clozapine and its metabolites.
-However, other published reports describe modest elevations (less than 2-fold) of clozapine and metabolite concentrations when clozapine was taken with paroxetine, fluoxetine, and sertraline.
+However, other published reports describe modest elevations (less than two-fold) of clozapine and metabolite concentrations when clozapine was taken with paroxetine, fluoxetine, and sertraline.
 
 Specific Population Studies
 

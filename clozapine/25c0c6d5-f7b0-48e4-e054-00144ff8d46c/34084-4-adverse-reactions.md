@@ -95,7 +95,7 @@ Adverse Reactions (≥2%) Reported in Clozapine-treated Patients (N=842) Across 
 | † Rate based on population of approximately 1700 exposed during premarket clinical evaluation of clozapine. |  |
 
 Table 11 summarizes the most commonly reported adverse reactions (≥10% of the clozapine or olanzapine group) in the InterSePT TM Study.
-This was an adequate and well-controlled, 2-year study evaluating the efficacy of clozapine relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
+This was an adequate and well-controlled, two-year study evaluating the efficacy of clozapine relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
 The rates are not adjusted for duration of exposure.
 
 Table 11.
