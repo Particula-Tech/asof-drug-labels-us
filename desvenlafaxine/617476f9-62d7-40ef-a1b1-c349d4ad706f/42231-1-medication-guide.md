@@ -18,12 +18,12 @@ What is the most important information I should know about antidepressant medici
 1.
 Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 
-1.
+2.
 Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
 Some people may have a particularly high risk of having suicidal thoughts or actions.
 These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 
-2.
+3.
 How can I watch for and try to prevent suicidal thoughts and actions?
 
 - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
@@ -34,13 +34,13 @@ How can I watch for and try to prevent suicidal thoughts and actions?
 
 Call a healthcare provider right away if you have any of the following symptoms, especially if they are new, worse, or worry you:
 
-| · thoughts about suicide or dying | · trouble sleeping (insomnia) |
+| • thoughts about suicide or dying | • trouble sleeping (insomnia) |
 | --- | --- |
-| · attempts to commit suicide | · new or worse irritability |
-| · new or worse depression | · acting aggressive, being angry, or violent |
-| · new or worse anxiety | · acting on dangerous impulses |
-| · feeling very agitated or restless | · an extreme increase in activity and talking (mania) |
-| · panic attacks | · other unusual changes in behavior or mood |
+| • attempts to commit suicide | • new or worse irritability |
+| • new or worse depression | • acting aggressive, being angry, or violent |
+| • new or worse anxiety | • acting on dangerous impulses |
+| • feeling very agitated or restless | • an extreme increase in activity and talking (mania) |
+| • panic attacks | • other unusual changes in behavior or mood |
 
 What else do I need to know about antidepressant medicines?
 
@@ -65,14 +65,14 @@ There may be new information.
 If you have questions, ask your healthcare provider.
 This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 
-What is Desvenlafaxine Extended-Release Tablets?
+What are Desvenlafaxine Extended-Release Tablets?
 
 - Desvenlafaxine extended-release tablets are a prescription medicine used to treat depression.
-  Desvenlafaxine extended-release tablets belongs to a class of medicines known as SNRIs (or serotonin-norepinephrine reuptake inhibitors).
+  Desvenlafaxine extended-release tablets belong to a class of medicines known as SNRIs (or serotonin-norepinephrine reuptake inhibitors).
 
 Who should not take Desvenlafaxine Extended-Release Tablets?
 
-Do not take Desvenlafaxine Extended-Release Tablets if you:
+Do not take desvenlafaxine extended-release tablets if you:
 
 - are allergic to desvenlafaxine, venlafaxine or any of the ingredients in desvenlafaxine extended-release tablets.
   See the end of this Medication Guide for a complete list of ingredients in desvenlafaxine extended-release tablets.
@@ -81,7 +81,7 @@ Do not take Desvenlafaxine Extended-Release Tablets if you:
 - have taken an MAOI within 7 days of stopping desvenlafaxine extended-release tablets unless directed by your healthcare provider.
 - have started desvenlafaxine extended-release tablets and if you stopped taking an MAOI in the last 14 days unless directed by your healthcare provider.
 
-What should I tell my healthcare provider before taking Desvenlafaxine extended-release tablets?
+What should I tell my healthcare provider before taking desvenlafaxine extended-release tablets?
 
 Tell your healthcare provider about all your medical conditions, including if you:
 
@@ -98,7 +98,8 @@ Tell your healthcare provider about all your medical conditions, including if yo
 - have low sodium levels in your blood
 - are pregnant or plan to become pregnant.
   It is not known if desvenlafaxine extended-release tablets will harm your unborn baby.
-- are breastfeeding. desvenlafaxine extended-release tablets can pass into your breast milk and may harm your baby.
+- are breastfeeding.
+  Desvenlafaxine can pass into your breast milk and may harm your baby.
   Talk with your healthcare provider about the best way to feed your baby if you take desvenlafaxine extended-release tablets.
 
 Serotonin syndrome
@@ -107,9 +108,10 @@ Rare, but potentially life-threatening conditions called serotonin syndrome can 
 Serotonin syndrome can cause serious changes in how your brain, muscles, heart and blood vessels, and digestive system work.
 Especially tell your healthcare provider if you take the following:
 
+- amphetamines
 - medicines to treat migraine headaches known as triptans
 - medicines used to treat mood, anxiety, psychotic, or thought disorders, including tricyclics, lithium, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), or other dopamine antagonists, such as metoclopramide
-- silbutramine
+- sibutramine
 - tramadol
 - St. John’s Wort
 - MAOIs (including linezolid, an antibiotic and intravenous methylene blue)
@@ -124,10 +126,10 @@ Do not take desvenlafaxine extended-release tablets with other medicines contain
 
 How should I take Desvenlafaxine Extended-Release Tablets?
 
-- Take desvenlafaxine extended-release tablets exactly as your healthcare provider has told you
+- Take desvenlafaxine extended-release tablets exactly as your healthcare provider has told you.
 - Take desvenlafaxine extended-release tablets at about the same time each day.
 - Desvenlafaxine extended-release tablets may be taken either with or without food.
-- Swallow Desvenlafaxine extended-release tablets whole, with fluid.
+- Swallow desvenlafaxine extended-release tablets whole, with fluid.
   Do not crush, cut, chew, or dissolve desvenlafaxine extended-release tablets because the tablets are time-released.
 - When you take desvenlafaxine extended-release tablets, you may see something in your stool that looks like a tablet.
   This is the empty shell from the tablet after the medicine has been absorbed by your body.
@@ -150,7 +152,7 @@ Your doctor may gradually reduce the dose of your initial antidepressant medicat
 
 What should I avoid while taking desvenlafaxine extended-release tablets?
 
-- Do not drive a car or operate machinery until you know how desvenlafaxine extended-release tablets affects you.
+- Do not drive a car or operate machinery until you know how desvenlafaxine extended-release tablets affect you.
 - Avoid drinking alcohol while taking desvenlafaxine extended-release tablets.
 
 What are the possible side effects of desvenlafaxine extended-release tablets?
@@ -164,13 +166,13 @@ Desvenlafaxine extended-release tablets can cause serious side effects, includin
 Get medical help right away if you think that you have these syndromes.
 Signs and symptoms of these syndromes may include one or more of the following:
 
-| · restlessness | · increase in blood pressure |
+| • restlessness | • increase in blood pressure |
 | --- | --- |
-| · hallucinations (seeing and hearing things that are not real) | · diarrhea |
-| · loss of coordination | · coma |
-| · fast heart beat | · nausea |
-| · increased body temperature | · vomiting |
-| · muscle stiffness | · confusion |
+| • hallucinations (seeing and hearing things that are not real) | • diarrhea |
+| • loss of coordination | • coma |
+| • fast heart beat | • nausea |
+| • increased body temperature | • vomiting |
+| • muscle stiffness | • confusion |
 
 Desvenlafaxine extended-release tablets may also cause other serious side effects, including:
 
@@ -181,44 +183,41 @@ Desvenlafaxine extended-release tablets may also cause other serious side effect
   Desvenlafaxine extended-release tablets and other SNRIs/SSRIs may cause you to have an increased chance of bleeding.
   Taking aspirin, NSAIDs (non-steroidal anti-inflammatory drugs), or blood thinners may add to this risk.
   Tell your healthcare provider right away about any unusual bleeding or bruising.
-- Visual problems
-  - eye pain
-  - changes in vision
-  - swelling or redness in or around the eye
+- Visual problems • eye pain • changes in vision • swelling or redness in or around the eye
 
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
-- Symptoms when stopping Desvenlafaxine extended-release tablets (discontinuation symptoms).
-  Side effects may occur when stopping desvenlafaxine extended-release tablets (discontinuation symptoms), especially when therapy is stopped suddenly.
-  Your healthcare provider may want to decrease your dose slowly to help avoid side effects.
-  Some of these side effects may include:
+Symptoms when stopping desvenlafaxine extended-release tablets (discontinuation symptoms).
+Side effects may occur when stopping desvenlafaxine extended-release tablets (discontinuation symptoms), especially when therapy is stopped suddenly.
+Your healthcare provider may want to decrease your dose slowly to help avoid side effects.
+Some of these side effects may include:
 
-| · dizziness | · anxiety |
+| • dizziness | • anxiety |
 | --- | --- |
-| · nausea | · abnormal dreams |
-| · headache | · tiredness |
-| · irritability | · sweating |
-| · sleeping problems (insomnia) | · diarrhea |
+| • nausea | • abnormal dreams |
+| • headache | • tiredness |
+| • irritability | • sweating |
+| • sleeping problems (insomnia) | • diarrhea |
 
 - Seizures (convulsions)
-  - Low sodium levels in your blood.
-    Symptoms of this may include: headache, difficulty concentrating, memory changes, confusion, weakness and unsteadiness on your feet.
-    In severe or more sudden cases, symptoms can include: hallucinations (seeing or hearing things that are not real), fainting, seizures and coma.
-    If not treated, severe low sodium levels could be fatal.
-  - Lung problems.
-    Some people who have taken the medicine venlafaxine which is the same kind of medicine as the medicine in desvenlafaxine extended-release tablets have had lung problems.
-    Symptoms of lung problems include difficulty breathing, cough, or chest discomfort.
-    Tell your healthcare provider right away if you have any of these symptoms.
+- Low sodium levels in your blood.
+  Symptoms of this may include: headache, difficulty concentrating, memory changes, confusion, weakness and unsteadiness on your feet.
+  In severe or more sudden cases, symptoms can include: hallucinations (seeing or hearing things that are not real), fainting, seizures and coma.
+  If not treated, severe low sodium levels could be fatal.
+- Lung problems.
+  Some people who have taken the medicine venlafaxine which is the same kind of medicine as the medicine in desvenlafaxine extended-release tablets have had lung problems.
+  Symptoms of lung problems include difficulty breathing, cough, or chest discomfort.
+  Tell your healthcare provider right away if you have any of these symptoms.
 
 Common side effects with desvenlafaxine extended-release tablets include:
 
-| · nausea | · sleepiness |
+| • nausea | • sleepiness |
 | --- | --- |
-| · dizziness | · loss of appetite |
-| · insomnia | · anxiety |
-| · sweating | · decreased sex drive |
-| · constipation | · delayed orgasm and ejaculation |
+| • dizziness | • loss of appetite |
+| • insomnia | • anxiety |
+| • sweating | • decreased sex drive |
+| • constipation | • delayed orgasm and ejaculation |
 
 These are not all the possible side effects of desvenlafaxine extended-release tablets.
 Tell your healthcare provider about any side effect that bothers you or does not go away.
@@ -228,7 +227,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store desvenlafaxine extended-release tablets?
 
-- Store desvenlafaxine extended-release tablets at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+- Store desvenlafaxine extended-release tablets at 20° to 25°C (68° to 77°F).
 - Do not use desvenlafaxine extended-release tablets after the expiration date (EXP), which is on the container.
   The expiration date refers to the last day of that month.
 - Keep desvenlafaxine extended-release tablets and all medicines out of the reach of children.
@@ -250,13 +249,13 @@ What are the ingredients in desvenlafaxine extended-release tablets?
 
 Active ingredient: desvenlafaxine
 
-Inactive ingredients: Inactive ingredients for the 25mg, 50 mg and 100 mg tablet consist of hypromellose, microcrystalline cellulose, talc, magnesium stearate, polyethylene oxide and colloidal silicon dioxide and film coating, which consists of polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, and iron oxide yellow and iron oxide red.
+Inactive ingredients: Inactive ingredients for the 25 mg, 50 mg and 100 mg tablet consist of hypromellose, microcrystalline cellulose, talc, magnesium stearate, polyethylene oxide and colloidal silicon dioxide and film coating, which consists of polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, and iron oxide yellow and iron oxide red.
 The imprinting ink contains hypromellose, propylene glycol and iron oxide black.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured By: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
+Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
-Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: January 2016
+Revised: January 2017

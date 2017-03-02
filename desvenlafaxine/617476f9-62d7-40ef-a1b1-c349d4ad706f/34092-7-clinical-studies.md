@@ -10,34 +10,34 @@ In studies directly comparing 50 mg per day and 100 mg per day there was no sugg
 
 Table 8: Primary Efficacy (HAM-D17) Results for Short-term Studies
 
-|  |  |  | Desvenlafaxine extended-release tablets |  |  |  |  |
+|  |  |  | Desvenlafaxine Extended-Release Tablets |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study No. | Primary Endpoint: HAM-D17 | Placebo | 50 mg/day | 100 mg/day | 200 mg/day | 400 mg/day |  |
 | 1 | Baseline Score (SDa) | 23.1 (2.5) |  | 23.2 (2.5) | 22.9 (2.4) | 23.0 (2.2) |  |
-| Difference from Placebo (95% CIc) |  |  | -2.9b (-5.1, -0.8) | -2.0 | -3.1b (-5.2, -0.9) |  |  |
+|  | Difference from Placebo (95% CIc) |  |  | -2.9b (-5.1, -0.8) | -2.0 | -3.1b (-5.2, -0.9) |  |
 | 2 | Baseline Score (SDa) | 25.3 (3.3) |  |  | 24.8 (2.9) | 25.2 (3.2) |  |
-| Difference from Placebo (95% CIc) |  |  |  | -3.3b (-5.3, -1.2) | -2.8b (-4.8, -0.7) |  |  |
+|  | Difference from Placebo (95% CIc) |  |  |  | -3.3b (-5.3, -1.2) | -2.8b (-4.8, -0.7) |  |
 | 3 | Baseline Score (SDa) | 23.0 (2.6) | 23.4 (2.6) | 23.4 (2.6) |  |  |  |
-| Difference from Placebo (95% CIc) |  | -1.9b (-3.5, -0.3) | -1.5 |  |  |  |  |
+|  | Difference from Placebo (95% CIc) |  | -1.9b (-3.5, -0.3) | -1.5 |  |  |  |
 | 4 | Baseline Score (SDa) | 24.3 (2.6) | 24.3 (2.4) | 24.4 (2.7) |  |  |  |
-| Difference from Placebo (95% CIc) |  | -2.5b (-4.1, -0.9) | -3.0b (-4.7, -1.4) |  |  |  |  |
+|  | Difference from Placebo (95% CIc) |  | -2.5b (-4.1, -0.9) | -3.0b (-4.7, -1.4) |  |  |  |
 | a Standard deviation; b Adjusted p-value < 0.05; c Difference between least squares means at final evaluation, calculated as drug response minus placebo response; unadjusted 95% confidence intervals |  |  |  |  |  |  |  |
 
 Analyses of the relationships between treatment outcome and age and treatment outcome and gender did not suggest any differential responsiveness on the basis of these patient characteristics.
 There was insufficient information to determine the effect of race on outcome in these studies.
 
 In a longer-term trial (Study 5), adult outpatients meeting DSM-IV criteria for major depressive disorder, who responded to 8 weeks of open-label acute treatment with 50 mg per day desvenlafaxine and subsequently remained stable for 12 weeks on desvenlafaxine, were assigned randomly in a double-blind manner to remain on active treatment or switch to placebo for up to 26 weeks of observation for relapse.
-Response during the open-label phase was defined as a HAM-D17 total score of ≤ 11 and CGI-I ≤ 2 at the day 56 evaluation; stability was defined as HAM-D17 total score of ≤ 11 and CGI-I ≤ 2 at week 20 and not having a HAM-D17 total score of ≥ 16 or a CGI-I score ≥ 4 at any office visit.
-Relapse during the double-blind phase was defined as follows: (1) a HAM-D17 total score of ≥ 16 at any office visit, (2) discontinuation for unsatisfactory efficacy response, (3) hospitalized for depression, (4) suicide attempt, or (5) suicide.
+Response during the open-label phase was defined as a HAM-D17 total score of less than or equal to 11 and CGI-I less than or equal to 2 at the day 56 evaluation; stability was defined as HAM-D17 total score of less than or equal to 11 and CGI-I less than or equal to 2 at week 20 and not having a HAM-D17 total score of greater than or equal to 16 or a CGI-I score greater than or equal to 4 at any office visit.
+Relapse during the double-blind phase was defined as follows: (1) a HAM-D17 total score of greater than or equal to 16 at any office visit, (2) discontinuation for unsatisfactory efficacy response, (3) hospitalized for depression, (4) suicide attempt, or (5) suicide.
 Patients receiving continued desvenlafaxine treatment experienced statistically significantly longer time to relapse compared with placebo.
-At 26 weeks, the Kaplan-Meier estimated proportion of relapse was 14% with desvenlafaxine treatment versus 30% with placebo
+At 26 weeks, the Kaplan-Meier estimated proportion of relapse was 14% with desvenlafaxine treatment versus 30% with placebo.
 
 Figure 4.
 Estimated Proportion of Relapses vs. Number of Days since Randomization (Study 5)
 
 In another longer-term trial (Study 6), adult outpatients meeting DSM-IV criteria for major depressive disorder and who responded to 12 weeks of acute treatment with desvenlafaxine were assigned randomly to the same dose (200 or 400 mg per day) they had received during acute treatment or to placebo for up to 26 weeks of observation for relapse.
-Response during the open-label phase was defined as a HAM-D17 total score of ≤ 11 at the day 84 evaluation.
-Relapse during the double-blind phase was defined as follows: (1) a HAM-D17 total score of ≥ 16 at any office visit, (2) a CGI-I score of ≥ 6 (versus day 84) at any office visit, or (3) discontinuation from the trial due to unsatisfactory response.
+Response during the open-label phase was defined as a HAM-D17 total score of less than or equal to 11 at the day 84 evaluation.
+Relapse during the double-blind phase was defined as follows: (1) a HAM-D17 total score of greater than or equal to 16 at any office visit, (2) a CGI-I score of greater than or equal to 6 (versus day 84) at any office visit, or (3) discontinuation from the trial due to unsatisfactory response.
 Patients receiving continued desvenlafaxine treatment experienced statistically significantly longer time to relapse over the subsequent 26 weeks compared with those receiving placebo.
 At 26 weeks, the Kaplan-Meier estimated proportion of relapse was 29% with desvenlafaxine treatment versus 49% with placebo.
 

@@ -2,4 +2,4 @@
 
 ## 9.1 Controlled Substance
 
-Desvenlafaxine extended-release tablets is not a controlled substance.
+Desvenlafaxine extended-release tablets are not a controlled substance.

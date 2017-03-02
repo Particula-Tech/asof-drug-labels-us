@@ -2,13 +2,14 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic effects – Pregnancy Category C
+Pregnancy Category C
 
 Risk summary
 
 There are no adequate and well-controlled studies of desvenlafaxine extended-release tablets in pregnant women.
 In reproductive developmental studies in rats and rabbits with desvenlafaxine succinate, evidence of teratogenicity was not observed at doses up to 30 times a human dose of 100 mg per day (on a mg/m2 basis) in rats, and up to 15 times a human dose of 100 mg per day (on a mg/m2 basis) in rabbits.
-An increase in rat pup deaths was seen during the first 4 days of lactation when dosing occurred during gestation and lactation, at doses greater than 10 times a human dose of 100 mg per day (on a mg/m2 basis). desvenlafaxine extended-release tablets should be used during pregnancy only if the potential benefits justify the potential risks to the fetus.
+An increase in rat pup deaths was seen during the first 4 days of lactation when dosing occurred during gestation and lactation, at doses greater than 10 times a human dose of 100 mg per day (on a mg/m2 basis).
+Desvenlafaxine extended-release tablets should be used during pregnancy only if the potential benefits justify the potential risks to the fetus.
 
 Clinical considerations
 
@@ -26,7 +27,7 @@ Animal data
 
 When desvenlafaxine succinate was administered orally to pregnant rats and rabbits during the period of organogenesis at doses up to 300 mg/kg/day and 75 mg/kg/day, respectively, no teratogenic effects were observed.
 These doses are 30 times a human dose of 100 mg per day (on a mg/m2 basis) in rats and 15 times a human dose of 100 mg per day (on a mg/m2 basis) in rabbits.
-However, fetal weights were decreased and skeletal ossification was delayed in rats inassociation with maternal toxicity at the highest dose, with a no-effect dose 10 times a human dose of 100 mg per day (on a mg/m2 basis).
+However, fetal weights were decreased and skeletal ossification was delayed in rats in association with maternal toxicity at the highest dose, with a no-effect dose 10 times a human dose of 100 mg per day (on a mg/m2 basis).
 
 When desvenlafaxine succinate was administered orally to pregnant rats throughout gestation and lactation, there was a decrease in pup weights and an increase in pup deaths during the first four days of lactation at the highest dose of 300 mg/kg/day.
 The cause of these deaths is not known.
@@ -40,13 +41,13 @@ Because of the potential for serious adverse reactions in nursing infants from d
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in the pediatric patients have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
+Safety and effectiveness in pediatric patients have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
 Anyone considering the use of desvenlafaxine extended-release tablets in a child or adolescent must balance the potential risks with the clinical need.
 
 ## 8.5 Geriatric Use
 
 Of the 4,158 patients in pre-marketing clinical studies with desvenlafaxine extended-release tablets, 6% were 65 years of age or older.
-No overall differences in safety or efficacy were observed between these patients and younger patients; however, in the short-term placebo-controlled studies, there was a higher incidence of systolic orthostatic hypotension in patients ≥ 65 years of age compared to patients < 65 years of age treated with desvenlafaxine extended-release tablets [see Adverse Reactions (6)].
+No overall differences in safety or efficacy were observed between these patients and younger patients; however, in the short-term placebo-controlled studies, there was a higher incidence of systolic orthostatic hypotension in patients greater than or equal to 65 years of age compared to patients less than 65 years of age treated with desvenlafaxine extended-release tablets [see Adverse Reactions (6)].
 For elderly patients, possible reduced renal clearance of desvenlafaxine extended-release tablets should be considered when determining dose [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 SSRIs and SNRIs, including desvenlafaxine extended-release tablets, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.9)].
@@ -56,7 +57,7 @@ SSRIs and SNRIs, including desvenlafaxine extended-release tablets, have been as
 The effect of intrinsic patient factors on the pharmacokinetics of desvenlafaxine extended-release tablets are presented in Figure 3.
 
 Renal Impairment: In subjects with renal impairment the clearance of desvenlafaxine extended-release tablets was decreased.
-In subjects with severe renal impairment (24-hr CrCl < 30 mL/min, Cockcroft-Gault) and end-stage renal disease, elimination half-lives were significantly prolonged, increasing exposures to desvenlafaxine extended-release tablets; therefore, dosage adjustment is recommended in these patients [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
-Hepatic Impairment: The mean terminal half life (t1/2) changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
+In subjects with severe renal impairment (24-hr CrCl less than 30 mL/min, Cockcroft-Gault) and end-stage renal disease, elimination half-lives were significantly prolonged, increasing exposures to desvenlafaxine extended-release tablets; therefore, dosage adjustment is recommended in these patients [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+Hepatic Impairment: The mean terminal half-life (t1/2) changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
 The recommended dose in patients with moderate to severe hepatic impairment is 50 mg per day.
 Dose escalation above 100 mg per day is not recommended [see Clinical Pharmacology (12.3)].

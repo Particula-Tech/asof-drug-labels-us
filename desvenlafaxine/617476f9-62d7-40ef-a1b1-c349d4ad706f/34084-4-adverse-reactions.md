@@ -21,7 +21,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Patient exposure
 
 Desvenlafaxine extended-release tablets were evaluated for safety in 8,394 patients diagnosed with major depressive disorder who participated in multiple-dose pre-marketing studies, representing 2,784 patient-years of exposure.
-Of the total 8,394 patients exposed to at least one dose of desvenlafaxine extended-release tablets, 2,116 were exposed to desvenlafaxine extended-release tablets for 6 months, representing 1,658 patient-years of exposure, and 421 were exposed for one year, representing 416 patient-years of exposure.
+Of the total 8,394 patients exposed to at least one dose of desvenlafaxine extended-release tablets; 2,116 were exposed to desvenlafaxine extended-release tablets for 6 months, representing 1,658 patient-years of exposure, and 421 were exposed for one year, representing 416 patient-years of exposure.
 
 Adverse reactions reported as reasons for discontinuation of treatment
 
@@ -31,15 +31,15 @@ At the recommended dose of 50 mg, the discontinuation rate due to an adverse rea
 For the 100 mg dose of desvenlafaxine extended-release tablets the discontinuation rate due to an adverse reaction was 8.7%.
 
 The most common adverse reactions leading to discontinuation in at least 2% and at a rate greater than placebo of the desvenlafaxine extended-release tablets treated patients in the short-term studies, up to 8 weeks, were: nausea (4%); dizziness, headache and vomiting (2% each).
-In the longer-term study, up to 9 months, the most common was vomiting (2%).
+In a longer-term study, up to 9 months, the most common was vomiting (2%).
 
 Common adverse reactions in placebo-controlled MDD studies
 
-The most commonly observed adverse reactions in desvenlafaxine extended-release tablets treated MDD patients in pre- marketing pooled 8-week, placebo-controlled, fixed-dose studies (incidence ≥ 5% and at least twice the rate of placebo in the 50 or 100 mg dose groups) were: nausea, dizziness, insomnia, hyperhidrosis, constipation, somnolence, decreased appetite, anxiety, and specific male sexual function disorders.
+The most commonly observed adverse reactions in desvenlafaxine extended-release tablets treated MDD patients in pre-marketing pooled 8-week, placebo-controlled, fixed-dose studies (incidence greater than or equal to 5% and at least twice the rate of placebo in the 50 or 100 mg dose groups) were: nausea, dizziness, insomnia, hyperhidrosis, constipation, somnolence, decreased appetite, anxiety, and specific male sexual function disorders.
 
-Table 2 shows the incidence of common adverse reactions that occurred in ≥ 2% of desvenlafaxine extended-release tablets treated MDD patients and twice the rate of placebo at any dose in the pre-marketing pooled 8-week, placebo-controlled, fixed dose clinical studies.
+Table 2 shows the incidence of common adverse reactions that occurred in greater than or equal to 2% of desvenlafaxine extended-release tablets treated MDD patients and twice the rate of placebo at any dose in the pre-marketing pooled 8-week, placebo-controlled, fixed dose clinical studies.
 
-Table 2:Common Adverse Reactions (≥2% in any Fixed-Dose Group and Twice the Rate of Placebo) in Pre-marketing Pooled MDD 8-Week Placebo-Controlled Studies
+Table 2: Common Adverse Reactions (≥2% in any Fixed-Dose Group and Twice the Rate of Placebo) in Pre-marketing Pooled MDD 8-Week Placebo-Controlled Studies
 
 | Percentage of Patients Reporting Reaction |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -85,9 +85,9 @@ Table 2:Common Adverse Reactions (≥2% in any Fixed-Dose Group and Twice the Ra
 
 Sexual function adverse reactions
 
-Table 3 shows the incidence of sexual function adverse reactions that occurred in ≥ 2% of desvenlafaxine extended-release tablets treated MDD patients in any fixed-dose group (pre-marketing pooled 8-week, placebo-controlled, fixed-dose clinical studies).
+Table 3 shows the incidence of sexual function adverse reactions that occurred in greater than or equal to 2% of desvenlafaxine extended-release tablets treated MDD patients in any fixed-dose group (pre-marketing pooled 8-week, placebo-controlled, fixed-dose, clinical studies).
 
-Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any Desvenlafaxine extended-release tablets Group) During the On-Therapy Period
+Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any Desvenlafaxine Extended-Release Tablets Group) During the On-Therapy Period
 
 | Desvenlafaxine Extended-Release Tablets |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -108,7 +108,7 @@ Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any Desven
 
 Other adverse reactions observed in premarketing and postmarketing clinical studies
 
-Other infrequent adverse reactions, not described elsewhere in the label, occurring at an incidence of < 2% in MDD patients treated with desvenlafaxine extended-release tablets were:
+Other infrequent adverse reactions, not described elsewhere in the label, occurring at an incidence of less than 2% in MDD patients treated with desvenlafaxine extended-release tablets were:
 
 Cardiac disorders – Tachycardia.
 
@@ -120,9 +120,9 @@ Musculoskeletal and connective tissue disorders – Musculoskeletal stiffness.
 
 Nervous system disorders – Syncope, convulsion, dystonia.
 
-Psychiatric disorders – Depersonalization, bruxism
+Psychiatric disorders – Depersonalization, bruxism.
 
-Renal and urinary disorders – Urinary retention
+Renal and urinary disorders – Urinary retention.
 
 Skin and subcutaneous tissue disorders – Rash, alopecia, photosensitivity reaction, angioedema.
 
@@ -156,28 +156,28 @@ This proteinuria was not associated with increases in BUN or creatinine and was 
 
 Table 5: Incidence (%) of Patients with Proteinuria in the Fixed-dose Clinical Studies
 
-|  |  | Desvenlafaxine extended-release tablets |  |  |  |
+|  |  | Desvenlafaxine Extended-Release Tablets |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
 | Proteinuria | 4 | 6 | 8 | 5 | 7 |
 
 Vital sign changes
 
-Table 6 summarizes the changes that were observed in placebo-controlled, short-term, premarketing studies with desvenlafaxine extended-release tablets in patients with MDD (doses 50 to 400 mg).
+Table 6 summarizes the changes that were observed in placebo-controlled, short-term, pre-marketing studies with desvenlafaxine extended-release tablets in patients with MDD (doses 50 to 400 mg).
 
 Table 6: Mean Changes in Vital Signs at Final on Therapy for All Short-term, Fixed-dose Controlled Studies
 
 |  |  | Desvenlafaxine Extended-Release Tablets |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
-| Blood Pressure |  |  |  |  |  |
+| Blood pressure |  |  |  |  |  |
 | Supine systolic bp (mm Hg) | -1.4 | 1.2 | 2.0 | 2.5 | 2.1 |
 | Supine diastolic bp (mm Hg) | -0.6 | 0.7 | 0.8 | 1.8 | 2.3 |
 | Pulse rate |  |  |  |  |  |
 | Supine pulse (bpm) | -0.3 | 1.3 | 1.3 | 0.9 | 4.1 |
 | Weight (kg) | 0.0 | -0.4 | -0.6 | -0.9 | -1.1 |
 
-Treatment with desvenlafaxine extended-release tablets at all doses from 50 mg per day to 400 mg per day in controlled studies was associated with sustained hypertension, defined as treatment-emergent supine diastolic blood pressure (SDBP) ≥90 mm Hg and ≥10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 7).
+Treatment with desvenlafaxine extended-release tablets at all doses from 50 mg per day to 400 mg per day in controlled studies was associated with sustained hypertension, defined as treatment-emergent supine diastolic blood pressure (SDBP) greater than or equal to 90 mm Hg and greater than or equal to 10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 7).
 Analyses of patients in desvenlafaxine extended-release tablets pre-marketing short-term controlled studies who met criteria for sustained hypertension revealed a consistent increase in the proportion of patients who developed sustained hypertension.
 This was seen at all doses with a suggestion of a higher rate at 400 mg per day.
 
@@ -193,7 +193,7 @@ Table 7: Proportion of Patients with Sustained Elevation of Supine Diastolic Blo
 
 Orthostatic hypotension
 
-In the pre-marketing short-term, placebo-controlled clinical studies with doses of 50 to 400 mg, systolic orthostatic hypotension (decrease ≥ 30 mm Hg from supine to standing position) occurred more frequently in patients ≥ 65 years of age receiving desvenlafaxine extended-release tablets (8%, 7/87) versus placebo (2.5%, 1/40), compared to patients < 65 years of age receiving desvenlafaxine extended-release tablets (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).
+In the pre-marketing short-term, placebo-controlled clinical studies with doses of 50 to 400 mg, systolic orthostatic hypotension (decrease greater than or equal to 30 mm Hg from supine to standing position) occurred more frequently in patients greater than or equal to 65 years of age receiving desvenlafaxine extended-release tablets (8%, 7/87) versus placebo (2.5%, 1/40), compared to patients less than 65 years of age receiving desvenlafaxine extended-release tablets (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).
 
 ## 6.2 Postmarketing Experience
 
@@ -201,3 +201,4 @@ The following adverse reaction has been identified during post-approval use of d
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
 Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome.
+Gastrointestinal disorders – Pancreatitis acute.

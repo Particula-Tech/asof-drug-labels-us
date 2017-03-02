@@ -1,8 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 GENERAL INSTRUCTION FOR USE
+## 2.1 General Instruction for Use
 
-The recommended dose for desvenlafaxine extended-release tablets are 50 mg once daily, with or without food.
+The recommended dose for desvenlafaxine extended-release tablets is 50 mg once daily, with or without food.
 The 50 mg dose is both a starting dose and the therapeutic dose.
 Desvenlafaxine extended-release tablets should be taken at approximately the same time each day.
 Tablets must be swallowed whole with fluid and not divided, crushed, chewed, or dissolved.
@@ -17,10 +17,9 @@ When discontinuing therapy, gradual dose reduction is recommended whenever possi
 
 Patients with renal impairment
 
-The maximum recommended dose in patients with moderate renal impairment (24-hr creatinine clearance [CrCl] = 30-50 mL/min, Cockcroft-Gault [C-G]) is 50 mg per day.
+The maximum recommended dose in patients with moderate renal impairment (24-hr creatinine clearance [CrCl] = 30 to 50 mL/min, Cockcroft-Gault [C-G]) is 50 mg per day.
 The maximum recommended dose in patients with severe renal impairment (24-hr CrCl less than 30 mL/min, C-G) or end-stage renal disease (ESRD) is 25 mg every day or 50 mg every other day.
-Supplemental doses should not be given to patients after dialysis.
-[see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Supplemental doses should not be given to patients after dialysis [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 Patients with hepatic impairment
 
@@ -30,7 +29,8 @@ Dose escalation above 100 mg per day is not recommended [see Clinical Pharmacolo
 ## 2.3 Maintenance/Continuation/Extended Treatment
 
 It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacologic therapy.
-Longer-term efficacy of desvenlafaxine extended-release tablets (50 mg to 400 mg) was established in two maintenance trials [see Clinical Studies (14)] Patients should be periodically reassessed to determine the need for continued treatment.
+Longer-term efficacy of desvenlafaxine extended-release tablets (50 mg to 400 mg) was established in two maintenance trials [see Clinical Studies (14)].
+Patients should be periodically reassessed to determine the need for continued treatment.
 
 ## 2.4 Discontinuing Desvenlafaxine Extended-Release Tablets
 

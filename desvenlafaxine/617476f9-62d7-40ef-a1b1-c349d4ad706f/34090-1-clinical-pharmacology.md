@@ -7,8 +7,8 @@ Non-clinical studies have shown that desvenlafaxine is a potent and selective se
 
 ## ​12.2 Pharmacodynamics
 
-Desvenlafaxine lacked significant affinity for numerous receptors, including muscarinic cholinergic, H1-histaminergic, or α1-adrenergic receptors in vitro.
-Desvenlafaxine extended-release tablets also lacked monoamine oxidase (MAO) inhibitory activity.
+Desvenlafaxine lacked significant affinity for numerous receptors, including muscarinic-cholinergic, H1-histaminergic, or α1-adrenergic receptors in vitro.
+Desvenlafaxine also lacked monoamine oxidase (MAO) inhibitory activity.
 
 ECG changes
 
@@ -27,7 +27,7 @@ Absorption and distribution
 
 The absolute oral bioavailability of desvenlafaxine extended-release tablets after oral administration is about 80%.
 
-A food-effect study involving administration of desvenlafaxine extended-release tablets to healthy subjects under fasting and fed conditions (high-fat meal81, 800 to 1000 calories) indicated that desvenlafaxine Cmax was increased about 16% in the fed state, while the AUCs were similar.
+A food-effect study involving administration of desvenlafaxine extended-release tablets to healthy subjects under fasting and fed conditions (high-fat meal, 800 to 1000 calories) indicated that desvenlafaxine Cmax was increased about 16% in the fed state, while the AUCs were similar.
 This difference is not expected to be clinically significant; therefore, desvenlafaxine extended-release tablets can be taken without regard to meals [see Dosage and Administration (2.1)].
 
 The plasma protein binding of desvenlafaxine is low (30%) and is independent of drug concentration.
@@ -39,7 +39,7 @@ Desvenlafaxine is primarily metabolized by conjugation (mediated by UGT isoforms
 CYP3A4 is the cytochrome P450 isozyme mediating the oxidative metabolism (N-demethylation) of desvenlafaxine.
 The CYP2D6 metabolic pathway is not involved, and after administration of 100 mg, the pharmacokinetics of desvenlafaxine was similar in subjects with CYP2D6 poor and extensive metabolizer phenotype.
 Approximately 45% of desvenlafaxine is excreted unchanged in urine at 72 hours after oral administration.
-Approximately 19% of the administered dose is excreted as the glucuronide metabolite and <5% as the oxidative metabolite (N,O-didesmethylvenlafaxine) in urine.
+Approximately 19% of the administered dose is excreted as the glucuronide metabolite and less than 5% as the oxidative metabolite (N,O-didesmethylvenlafaxine) in urine.
 
 Drug interaction studies
 
@@ -64,7 +64,7 @@ Concomitant use of desvenlafaxine with a drug metabolized by CYP2D6 can result i
 Drugs metabolized by CYP3A4 (midazolam)
 
 In vitro, desvenlafaxine does not inhibit or induce the CYP3A4 isozyme.
-In a clinical study, desvenlafaxine 400 mg daily (8 times the recommended 50 mg dose) was co-administered with a single 4 mg dose of midazolam (a CYP3A4 substrate).
+In a clinical study, desvenlafaxine 400 mg daily (8 times the recommended 50 mg dose) was coadministered with a single 4 mg dose of midazolam (a CYP3A4 substrate).
 The AUC and Cmax of midazolam decreased by approximately 31% and 16%, respectively.
 Concomitant use of desvenlafaxine with a drug metabolized by CYP3A4 can result in lower exposures to that drug.
 
@@ -96,10 +96,10 @@ Hepatic insufficiency
 The disposition of desvenlafaxine succinate after administration of 100 mg was studied in subjects with mild (Child-Pugh A, n = 8), moderate (Child-Pugh B, n = 8), and severe (Child-Pugh C, n = 8) hepatic impairment and to healthy subjects (n = 12).
 
 Average AUC was increased by approximately 31% and 35% in patients with moderate and severe hepatic impairment, respectively, as compared to healthy subjects.
-Average AUC values were similar in subjects with mild hepatic impairment and healthy subjects (< 5% difference).
+Average AUC values were similar in subjects with mild hepatic impairment and healthy subjects (less than 5% difference).
 
 Systemic clearance (CL/F) was decreased by approximately 20% and 36% in patients with moderate and severe hepatic impairment, respectively, as compared to healthy subjects.
-CL/F values were comparable in mild hepatic impairment and healthy subjects (< 5% difference).
+CL/F values were comparable in mild hepatic impairment and healthy subjects (less than 5% difference).
 
 The mean t1/2 changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
 The recommended dose in patients with hepatic impairment is 50 mg per day.
@@ -109,7 +109,7 @@ Renal insufficiency
 
 The disposition of desvenlafaxine after administration of 100 mg was studied in subjects with mild (n = 9), moderate (n = 8), severe (n = 7) and end-stage renal disease (ESRD) (n = 9) requiring dialysis and in healthy, age-matched control subjects (n = 8).
 Elimination was significantly correlated with creatinine clearance.
-Increases in AUCs of about 42% in mild renal impairment (24-hr CrCl = 50 to 80 mL/min, Cockcroft-Gault [C-G]), about 56% in moderate renal impairment (24-hr CrCl ≤ 30 to 50 mL/min, C-G), about 108% in severe renal impairment (24-hr CrCl < 30 mL/min, C-G), and about 116% in ESRD subjects were observed, compared with healthy, age-matched control subjects.
+Increases in AUCs of about 42% in mild renal impairment (24-hr CrCl = 50 to 80 mL/min, Cockcroft-Gault [C-G]), about 56% in moderate renal impairment (24-hr CrCl = 30 to 50 mL/min, C-G), about 108% in severe renal impairment (24-hr CrCl less than or equal to 30 mL/min, C-G), and about 116% in ESRD subjects were observed, compared with healthy, age-matched control subjects.
 
 The mean terminal half-life (t1/2) was prolonged from 11.1 hours in the control subjects to approximately 13.5, 15.5, 17.6, and 22.8 hours in mild, moderate, severe renal impairment and ESRD subjects, respectively.
 Less than 5% of the drug in the body was cleared during a standard 4-hour hemodialysis procedure.

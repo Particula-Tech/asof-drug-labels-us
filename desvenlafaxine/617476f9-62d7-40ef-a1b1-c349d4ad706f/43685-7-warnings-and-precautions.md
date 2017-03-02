@@ -51,9 +51,9 @@ It should be noted that desvenlafaxine extended-release tablets are not approved
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including desvenlafaxine extended-release tablets, alone treatment, but particularly with concomitant use of serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort), and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including desvenlafaxine extended-release tablets, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort), and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations,delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
 
 The concomitant use of desvenlafaxine extended-release tablets with MAOIs intended to treat psychiatric disorders is contraindicated.
@@ -63,7 +63,7 @@ No reports involved the administration of methylene blue by other routes (such a
 There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking desvenlafaxine extended-release tablets.
 Desvenlafaxine extended-release tablets should be discontinued before initiating treatment with the MAOI [see Contraindications (4.2) and Dosage and Administration (2.6)].
 
-If concomitant use of desvenlafaxine extended-release tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+If concomitant use of desvenlafaxine extended-release tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
 Treatment with desvenlafaxine extended-release tablets and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
@@ -86,13 +86,13 @@ Patients should be cautioned about the risk of bleeding associated with the conc
 
 ## 5.5 Angle Closure Glaucoma
 
-Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including Pristiq may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including desvenlafaxine extended-release tablets may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.6 Activation of Mania/Hypomania
 
 During all MDD phase 2 and phase 3 studies, mania was reported for approximately 0.02% of patients treated with desvenlafaxine extended-release tablets.
 Activation of mania/hypomania has also been reported in a small proportion of patients with major affective disorder who were treated with other marketed antidepressants.
-As with all antidepressants, v extended-release tablets should be used cautiously in patients with a history or family history of mania or hypomania.
+As with all antidepressants, desvenlafaxine extended-release tablets should be used cautiously in patients with a history or family history of mania or hypomania.
 
 ## 5.7 Discontinuation Syndrome
 
@@ -108,8 +108,10 @@ Subsequently, the physician may continue decreasing the dose, but at a more grad
 
 ## 5.8 Seizure
 
-Cases of seizure have been reported in pre-marketing clinical studies with desvenlafaxine extended-release tablets. desvenlafaxine extended-release tablets have not been systematically evaluated in patients with a seizure disorder.
-Patients with a history of seizures were excluded from pre-marketing clinical studies. desvenlafaxine extended-release tablets should be prescribed with caution in patients with a seizure disorder.
+Cases of seizure have been reported in pre-marketing clinical studies with desvenlafaxine extended-release tablets.
+Desvenlafaxine extended-release tablets have not been systematically evaluated in patients with a seizure disorder.
+Patients with a history of seizures were excluded from pre-marketing clinical studies.
+Desvenlafaxine extended-release tablets should be prescribed with caution in patients with a seizure disorder.
 
 ## 5.9 Hyponatremia
 

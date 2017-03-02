@@ -8,16 +8,15 @@ In addition, do not start desvenlafaxine in a patient who is being treated with 
 
 ## 7.2 Serotonergic Drugs
 
-Based on the mechanism of action of desvenlafaxine extended-release tablets and the potential for serotonin syndrome, caution is advised when desvenlafaxine extended-release tablets are coadministered with other drugs that may affect the serotonergic neurotransmitter systems [see Dosage and Administration (2.6), Contraindications (4) and Warnings and Precautions (5.2)]
+Based on the mechanism of action of desvenlafaxine and the potential for serotonin syndrome, caution is advised when desvenlafaxine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems [see Dosage and Administration (2.6), Contraindications (4) and Warnings and Precautions (5.2)].
 
 ## 7.3 Drugs that Interfere with Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin)
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding.
 These studies have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
-Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are co-administered with warfarin.
-Patients receiving warfarin therapy should be carefully monitored when desvenlafaxine extended-release tablets are initiated or discontinued.
-[see Warnings and Precautions (5.4)].
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
+Patients receiving warfarin therapy should be carefully monitored when desvenlafaxine extended-release tablets are initiated or discontinued [see Warnings and Precautions (5.4)].
 
 ## 7.4 Potential for Other Drugs to Affect Desvenlafaxine
 
@@ -27,8 +26,11 @@ Clinical studies have demonstrated no clinically significant pharmacokinetic int
 ## 7.5 Potential for Desvenlafaxine to Affect Other Drugs
 
 Clinical studies have shown that desvenlafaxine does not have a clinically relevant effect on CYP2D6 metabolism at the dose of 100 mg daily (Figure 2).
-Substrates primarily metabolized by CYP2D6 (e.g., desipramine, atomoxetine, dextromethorphan, metoprolol, nebivolol, perphenazine, tolterodine) should be dosed at the original level when co-administered with desvenlafaxine extended-release tablets 100 mg or lower or when desvenlafaxine extended-release tablets are discontinued.
+Substrates primarily metabolized by CYP2D6 (e.g., desipramine, atomoxetine, dextromethorphan, metoprolol, nebivolol, perphenazine, tolterodine) should be dosed at the original level when coadministered with desvenlafaxine extended-release tablets 100 mg or lower or when desvenlafaxine extended-release tablets are discontinued.
 Reduce the dose of these substrates by up to one-half if coadministered with 400 mg of desvenlafaxine extended-release tablets.
+
+No additional dose adjustment is required for concomitant use of substrates of CYP3A4, 1A2, 2A6, 2C8, 2C9, and 2C19 isozymes, and P-glycoprotein transporter.
+Clinical studies have demonstrated no clinically significant pharmacokinetic interaction between desvenlafaxine extended-release tablets and CYP3A4 substrates (Figure 2).
 
 Clinical studies have shown that desvenlafaxine (100 mg daily) does not have a clinically relevant effect on tamoxifen and aripiprazole, compounds that are metabolized by a combination of both CYP2D6 and CYP3A4 enzymes (Figure 2).
 
@@ -45,12 +47,12 @@ The concomitant use of desvenlafaxine extended-release tablets with other desven
 
 ## 7.7 Ethanol
 
-A clinical study has shown that desvenlafaxine extended-release tablets does not increase the impairment of mental and motor skills caused by ethanol.
+A clinical study has shown that desvenlafaxine extended-release tablets do not increase the impairment of mental and motor skills caused by ethanol.
 However, as with all CNS-active drugs, patients should be advised to avoid alcohol consumption while taking desvenlafaxine extended-release tablets.
 
 ## 7.8 Drug-Laboratory Test Interactions
 
-False positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking desvenlafaxine.
+False-positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking desvenlafaxine.
 This is due to lack of specificity of the screening tests.
 False positive test results may be expected for several days following discontinuation of desvenlafaxine therapy.
 Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish desvenlafaxine from PCP and amphetamine.

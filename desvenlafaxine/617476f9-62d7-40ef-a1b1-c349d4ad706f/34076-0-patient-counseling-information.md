@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
+See FDA-approved patient labeling (Medication Guide).
 
 Advise patients, their families, and their caregivers about the benefits and risks associated with treatment with desvenlafaxine extended-release tablets and counsel them in its appropriate use.
 
@@ -18,7 +18,7 @@ Healthcare professionals should instruct patients not to take desvenlafaxine ext
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of desvenlafaxine extended-release tablets with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort supplements) [see Warnings and Precautions (5.2)].
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of desvenlafaxine extended-release tablets with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, amphetamines, tryptophan, buspirone, and St. John's Wort supplements) [see Warnings and Precautions (5.2)].
 
 Elevated Blood Pressure
 
@@ -30,11 +30,10 @@ Patients should be cautioned about the concomitant use of desvenlafaxine extende
 
 Angle Closure Glaucoma
 
-Patients should be advised that taking Pristiq can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Patients should be advised that taking desvenlafaxine extended-release tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
-Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
-[see Warnings and Precautions (5.5)]
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.5)].
 
 Activation of Mania/Hypomania
 
@@ -75,8 +74,8 @@ Residual Inert Matrix Tablet
 Patients receiving desvenlafaxine extended-release tablets may notice an inert matrix tablet passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.
 
-Manufactured By: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
+Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
-Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: January 2016
+Revised: January 2017
