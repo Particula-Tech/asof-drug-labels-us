@@ -27,7 +27,7 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 05/2016
+Revised: 02/2017
 
 PATIENT INFORMATION
 
@@ -58,4 +58,4 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 05/2016
+Revised: 02/2017

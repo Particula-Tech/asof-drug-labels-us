@@ -6,7 +6,7 @@ Anxiety or tension associated with the stress of everyday life usually does not 
 The efficacy of buspirone has been demonstrated in controlled clinical trials of outpatients whose diagnosis roughly corresponds to Generalized Anxiety Disorder (GAD).
 Many of the patients enrolled in these studies also had coexisting depressive symptoms and buspirone relieved anxiety in the presence of these coexisting depressive symptoms.
 The patients evaluated in these studies had experienced symptoms for periods of 1 month to over 1 year prior to the study, with an average symptom duration of 6 months.
-Generalized Anxiety Disorder (300.02) is described in the American Psychiatric Association’s Diagnostic and Statistical Manual, III1 as follows:
+Generalized Anxiety Disorder (300.02) is described in the American Psychiatric Association's Diagnostic and Statistical Manual, III1 as follows:
 
 Generalized, persistent anxiety (of at least 1 month continual duration), manifested by symptoms from three of the four following categories:
 
