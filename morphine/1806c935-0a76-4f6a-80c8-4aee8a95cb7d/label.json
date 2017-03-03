@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA206544"
+  ],
+  "inn": "morphine",
+  "labeler": "Daiichi Sankyo Inc.",
+  "package_ndcs": [
+    "65597-301-10",
+    "65597-302-10",
+    "65597-303-10",
+    "65597-304-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "morphine sulfate",
+      "name": "MorphaBond"
+    }
+  ],
+  "setid": "1806c935-0a76-4f6a-80c8-4aee8a95cb7d",
+  "source": "dailymed"
+}
