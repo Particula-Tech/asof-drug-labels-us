@@ -12,7 +12,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Fetal/Neonatal adverse reactions
+Fetal/Neonatal Adverse Reactions
 
 Cases of potential metabolic acidosis in newborns at delivery with maternal ephedrine exposure have been reported in the literature.
 These reports describe umbilical artery pH of ≤7.2 at the time of delivery [see Clinical Pharmacology 12.3].

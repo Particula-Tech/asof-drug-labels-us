@@ -14,9 +14,11 @@ Discard unused portion.
 
 Manufactured for:
 
-Éclat Pharmaceuticals
+Avadel
 
-Chesterfield, MO 63005 USA
+Avadel Legacy Pharmaceuticals, LLC
+
+Chesterfield, MO 63005
 
 Rev.
-04/16
+11/16
