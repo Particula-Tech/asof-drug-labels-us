@@ -5,7 +5,6 @@ How Supplied
 PROTONIX (pantoprazole sodium) Delayed-Release Tablets are supplied as 40 mg yellow, oval biconvex delayed-release tablets imprinted with PROTONIX (brown ink) on one side and are available as follows:
 
 - NDC 0008-0841-81, bottles of 90
-- NDC 0008-0841-99, carton of 10 Redipak® blister strips of 10 tablets each
 
 PROTONIX (pantoprazole sodium) Delayed-Release Tablets are supplied as 20 mg yellow oval biconvex delayed-release tablets imprinted with P20 (brown ink) on one side and are available as follows:
 

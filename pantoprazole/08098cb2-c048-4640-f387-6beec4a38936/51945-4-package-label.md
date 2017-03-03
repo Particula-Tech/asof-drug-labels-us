@@ -26,35 +26,6 @@ Protonix® (pantoprazole sodium) delayed-release tablets
 
 90 Tablets Rx only
 
-# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Blister Pack
-
-NDC 0008-0841-99
-
-Protonix® (pantoprazole sodium)
-
-Delayed-Release Tablet equivalent to 40 mg pantoprazole
-
-14158300 MADE IN GERMANY
-
-Wyeth® Phila.
-PA 19101
-
-# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Blister Pack Carton
-
-ALWAYS DISPENSE WITH MEDICATION GUIDE
-
-Pfizer NDC 0008-0841-99
-
-Protonix® (pantoprazole sodium) delayed-release tablets
-
-40 mg*
-
-*Equivalent to 40 mg pantoprazole
-
-10 Redipak® Blister Strips of 10 Tablets
-
-100 Tablets Rx only
-
 # PRINCIPAL DISPLAY PANEL - 40 mg Tablet Sample Blister Pack
 
 NDC 0008-0841-17
