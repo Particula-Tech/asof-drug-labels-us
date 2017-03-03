@@ -6,9 +6,9 @@ Moxifloxacin is a member of the fluoroquinolone class of anti-infective drugs [s
 
 ## 12.3 Pharmacokinetics
 
-Moxifloxacin steady-state plasma pharmacokinetics were evaluated in healthy adult male and female subjects who were administered multiple, bilateral, topical ocular doses of MOXEZA™ solution two times daily for four days with a final dose on day 5.
+Moxifloxacin steady-state plasma pharmacokinetics were evaluated in healthy adult male and female subjects who were administered multiple, bilateral, topical ocular doses of MOXEZA® solution two times daily for four days with a final dose on day 5.
 The average steady-state AUC0-12 was 8.17 ± 5.31 ng*h/mL.
-Moxifloxacin Cmax following twice-daily bilateral ophthalmic administration of moxifloxacin AF 0.5% for 5 days is approximately 0.02% of that achieved with the oral formulation of moxifloxacin hydrochloride (Cmax following oral dosing of 400 mg AVELOX*, 4.5 ± 0.5 mcg/mL).
+Moxifloxacin Cmax following twice-daily bilateral ophthalmic administration of moxifloxacin 0.5% for 5 days is approximately 0.02% of that achieved with the oral formulation of moxifloxacin hydrochloride (Cmax following oral dosing of 400 mg AVELOX*, 4.5 ± 0.5 mcg/mL).
 
 ## 12.4 Microbiology
 
@@ -22,16 +22,16 @@ There is no cross-resistance between moxifloxacin and the aforementioned classes
 Cross-resistance has been observed between systemic moxifloxacin and some other quinolones.
 
 In vitro resistance to moxifloxacin develops via multiple-step mutations.
-Resistance to moxifloxacin occurs in vitro at a general frequency of between 1.8 x 10-9 to < 1 x 10-11 for Gram-positive bacteria.
+Resistance to moxifloxacin occurs in vitro at a general frequency of between 1.8 x 10-9 to < 1x10-11 for Gram-positive bacteria.
 
 Moxifloxacin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
 
-Aerococcus viridans* Corynebacterium macginleyi* Enterococcus faecalis* Micrococcus luteus* Staphylococcus arlettae* Staphylococcus aureus Staphylococcus capitis Staphylococcus epidermidis Staphylococcus haemolyticus Staphylococcus hominis Staphylococcus saprophyticus* Staphylococcus warneri* Streptococcus mitis* Streptococcus pneumoniae Streptococcus parasanguinis* Escherichia coli* Haemophilus influenzae Klebsiella pneumoniae* Propionibacterium acnes Chlamydia trachomatis*
+Aerococcus viridans* Corynebacterium macginleyi* Enterococcus faecalis* Micrococcus luteus* Staphylococcus arlettae* Staphylococcus aureus Staphylococcus capitis Staphylococcus epidermidis Staphylococcus haemolyticus Staphylococcus hominis Staphylococcus saprophyticus* Staphylococcus warneri* Streptococcus mitis* Streptococcus pneumoniae Streptococcus parasanguinis* Escherichia coli* Haemophilus influenza Klebsiella pneumoniae* Propionibacterium acnes Chlamydia trachomatis*
 
 *Efficacy for this organism was studied in fewer than 10 infections.
 
 The following in vitro data are available, but their clinical significance in ophthalmic infections is unknown.
-The safety and effectiveness of MOXEZA™ solution in treating ophthalmic infections due to these organisms have not been established in adequate and well-controlled trials.
+The safety and effectiveness of MOXEZA® solution in treating ophthalmic infections due to these organisms have not been established in adequate and well-controlled trials.
 
 Moxifloxacin has been shown to be active in vitro against most strains of the microorganisms listed below.
 These organisms are considered susceptible when evaluated using systemic breakpoints; however, a correlation between the in vitro systemic breakpoint and ophthalmologic efficacy has not been established.
@@ -40,7 +40,7 @@ Moxifloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 mcg
 
 Aerobic Gram-positive microorganisms: Staphylococcus caprae Staphylococcus cohnii Staphylococcus lugdunensis Staphylococcus pasteuri Streptococcus agalactiae Streptococcus milleri group Streptococcus oralis Streptococcus pyogenes Streptococcus salivarius Streptococcus sanguis
 
-Aerobic Gram-negative microorganisms: Acinetobacter baumannii Acinetobacter calcoaceticus Acinetobacter junii Enterobacter aerogenes Enterobacter cloacae Haemophilus parainfluenzae Klebsiella oxytoca Moraxella catarrhalis Moraxella osloensis Morganella morganii Neisseria gonorrhoeae Neisseria meningitidis Pantoea agglomerans Proteus vulgaris Pseudomonas stutzeri Serratia liquefaciens Serratia marcescens Stenotrophomonas maltophilia
+Aerobic Gram-negative microorganisms: Acinetobacter baumannii Acinetobacter calcoaceticus Acinetobacter junii Enterobacter aerogenes Enterobacter cloacae Haemophilus parainfluenzae Klebsiella oxytoca Moraxella catarrhalis Moraxella osloensis Morganella morganii Neisseria gonorrhoeae Neisseria meningitides Pantoea agglomerans Proteus vulgaris Pseudomonas stutzeri Serratia liquefaciens Serratia marcescens Stenotrophomonas maltophilia
 
 Anaerobic microorganisms: Clostridium perfringens Peptostreptococcus anaerobius Peptostreptococcus magnus Peptostreptococcus micros Peptostreptococcus prevotii
 
