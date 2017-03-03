@@ -88,25 +88,6 @@ Levothyroxine Sodium Tablets, USP
 
 Rx only abbvie
 
-NDC 0074–6624–72
-
-2 cards x 7 tablets
-
-yellow 100 mcg (0.1 mg)
-
-Synthroid®
-
-Levothyroxine Sodium Tablets, USP
-
-www.synthroid.com
-
-THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
-
-Professional Sample.
-Not for Sale.
-
-Rx only abbvie
-
 NDC 0074–7068–19
 
 Synthroid®
