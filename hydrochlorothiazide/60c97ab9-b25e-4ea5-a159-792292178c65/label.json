@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "ANDA040412"
+  ],
+  "inn": "hydrochlorothiazide",
+  "labeler": "Solco Healthcare U.S., LLC",
+  "package_ndcs": [
+    "43547-397-01",
+    "43547-397-03",
+    "43547-397-05",
+    "43547-397-10",
+    "43547-397-11",
+    "43547-397-15",
+    "43547-397-50",
+    "43547-398-01",
+    "43547-398-03",
+    "43547-398-05",
+    "43547-398-10",
+    "43547-398-11",
+    "43547-398-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydrochlorothiazide",
+      "name": "Hydrochlorothiazide"
+    }
+  ],
+  "setid": "60c97ab9-b25e-4ea5-a159-792292178c65",
+  "source": "dailymed"
+}
