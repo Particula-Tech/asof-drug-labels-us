@@ -7,7 +7,7 @@ Levonorgestrel USP, (-)-13-Ethyl-17-hydroxy-18,19-dinor-17α-pregn-4-en-20-yn-3-
 ## 11.1 Skyla
 
 Skyla consists of a T-shaped polyethylene frame (T-body) with a steroid reservoir (hormone elastomer core) around the vertical stem.
-The T-body has a loop at one end of the vertical stem and two horizontal arms at the other end.
+The white T-body has a loop at one end of the vertical stem and two horizontal arms at the other end.
 The reservoir consists of a whitish or pale yellow cylinder, made of a mixture of LNG and silicone (polydimethylsiloxane), containing a total of 13.5 mg LNG.
 The reservoir is covered by a semi-opaque silicone membrane, composed of polydimethylsiloxane and colloidal silica.
 A ring composed of 99.95% pure silver is located at the top of the vertical stem close to the horizontal arms and is visible by ultrasound.

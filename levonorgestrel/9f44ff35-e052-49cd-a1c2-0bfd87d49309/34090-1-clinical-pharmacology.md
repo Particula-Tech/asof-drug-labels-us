@@ -11,7 +11,7 @@ Skyla has mainly local progestogenic effects in the uterine cavity.
 The high local levels of LNG2 lead to morphological changes including stromal pseudodecidualization, glandular atrophy, a leukocytic infiltration and a decrease in glandular and stromal mitoses.
 
 In clinical trials with Skyla, ovulation was observed in the majority of a subset of subjects studied.
-Evidence of ovulation was seen in 34 out of 35 women in the first year, in 26 out of 27 women in the second year, and in all 27 women in the third year.
+Evidence of ovulation was seen in 34 out of 35 women in the first year, in 26 out of 27 women in the second year, and in all 26 women in the third year.
 
 ## 12.3 Pharmacokinetics
 
@@ -32,7 +32,6 @@ The apparent volume of distribution of LNG is reported to be approximately 1.8 L
 Levonorgestrel is bound non-specifically to serum albumin and specifically to sex hormone binding globulin (SHBG).
 Accordingly, changes in the concentration of SHBG in serum result in an increase (at higher SHBG concentration) or a decrease (at lower SHBG concentration) of the total LNG concentration in serum.
 In a subset of 7 subjects, the concentration of SHBG declined by a mean value of 18% within 2 weeks after insertion of Skyla and remains relatively stable over the 3 year period of use.
-Thereafter, plateau-like SHBG concentrations were observed.
 Less than 2 % of the circulating LNG is present as free steroid.
 
 ### Metabolism
@@ -53,9 +52,15 @@ The elimination half-life of LNG after parenteral administration is approximatel
 Pediatric: Safety and efficacy of Skyla have been established in women of reproductive age.
 Use of this product before menarche is not indicated.
 
+In a one-year phase 3 study in post-menarcheal female adolescents (mean age 16.2, range 12 to 18 years) using Skyla, the population pharmacokinetic analysis of 278 adolescents showed mean estimated LNG serum concentrations slightly higher (approximately 10%) in adolescents compared to prior data in adults.
+This correlates to the generally lower body weight in adolescents.
+The ranges estimated for adolescents lie within the ranges estimated for adults.
+
 Geriatric: Skyla has not been studied in women over age 65 and is not currently approved for use in this population.
 
-Race: No studies have evaluated the effect of race on pharmacokinetics of Skyla.
+Race: A three-year phase 3 study in the Asian-Pacific region (93% Asian women, the majority of whom were Chinese, 7% other ethnicities) using Skyla was performed.
+The population pharmacokinetic analysis of the Asian (Chinese) population in this study showed that mean estimated LNG serum concentrations in Asian women were slightly higher (approximately 5 to 16% for total LNG and 4 to 12% for unbound LNG) than those in another phase 3 study which was performed in mainly Caucasian women (79.7%).
+This slightly higher exposure might be explained by the lower body weight of Asian women.
 
 Hepatic Impairment: No studies were conducted to evaluate the effect of hepatic disease on the disposition of Skyla.
 

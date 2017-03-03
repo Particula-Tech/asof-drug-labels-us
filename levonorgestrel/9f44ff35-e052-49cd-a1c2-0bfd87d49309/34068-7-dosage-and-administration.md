@@ -5,6 +5,7 @@ This rate decreases progressively to 5 mcg/day after 3 years.
 The average in vivo release rate of LNG is approximately 6 mcg/day over a period of 3 years.
 
 Skyla must be removed by the end of the third year and can be replaced at the time of removal with a new Skyla if continued contraceptive protection is desired.
+Skyla can be physically distinguished from other IUSs by the combination of the visibility of the silver ring on ultrasound and the brown color of the removal threads.
 
 Skyla is supplied within an inserter in a sterile package (see Figure 1) that must not be opened until required for insertion [see Description (11)].
 Do not use if the seal of the sterile package is broken or appears compromised.
