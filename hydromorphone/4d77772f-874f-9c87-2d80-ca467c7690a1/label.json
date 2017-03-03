@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA019034"
+  ],
+  "inn": "hydromorphone",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "76045-009-05",
+    "76045-009-10",
+    "76045-010-10",
+    "76045-011-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "hydromorphone hydrochloride",
+      "name": "DILAUDID"
+    }
+  ],
+  "setid": "4d77772f-874f-9c87-2d80-ca467c7690a1",
+  "source": "dailymed"
+}
