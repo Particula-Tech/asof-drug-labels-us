@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C. There are no adequate and well-controlled trials with ADVAIR HFA in pregnant women.
+Teratogenic Effects
+
+Pregnancy Category C. There are no adequate and well-controlled trials with ADVAIR HFA in pregnant women.
 Corticosteroids and beta2-agonists have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Because animal reproduction studies are not always predictive of human response, ADVAIR HFA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Women should be advised to contact their physicians if they become pregnant while taking ADVAIR HFA.
@@ -34,7 +36,9 @@ No such effects occurred at a salmeterol dose approximately 10 times the MRHDID 
 New Zealand White rabbits were less sensitive since only delayed ossification of the frontal cranial bones was seen at a salmeterol dose approximately 2,300 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 10 mg/kg).
 Salmeterol xinafoate crossed the placenta following oral administration to mice and rats.
 
-Nonteratogenic Effects: Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
+Nonteratogenic Effects
+
+Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
 Such infants should be carefully monitored.
 
 ## 8.2 Labor and Delivery
@@ -55,7 +59,7 @@ Since there are no data from controlled trials on the use of ADVAIR HFA by nursi
 
 ## 8.4 Pediatric Use
 
-Thirty-eight (38) subjects aged 12 to 17 years were treated with ADVAIR HFA in US pivotal clinical trials.
+Thirty-eight (38) subjects aged 12 to 17 years were treated with ADVAIR HFA in U.S. pivotal clinical trials.
 Subjects in this age-group demonstrated efficacy results similar to those observed in subjects aged 18 years and older.
 There were no obvious differences in the type or frequency of adverse events reported in this age-group compared with subjects aged 18 years and older.
 
@@ -69,10 +73,12 @@ There were reductions in serum cortisol from baseline in all treatment groups (1
 
 The safety and effectiveness of ADVAIR HFA in children younger than 12 years have not been established.
 
-Effects on Growth: Inhaled corticosteroids, including fluticasone propionate, a component of ADVAIR HFA, may cause a reduction in growth velocity in children and adolescents [see Warnings and Precautions (5.14)].
+Effects on Growth
+
+Inhaled corticosteroids, including fluticasone propionate, a component of ADVAIR HFA, may cause a reduction in growth velocity in children and adolescents [see Warnings and Precautions (5.14)].
 The growth of pediatric patients receiving orally inhaled corticosteroids, including ADVAIR HFA, should be monitored.
 
-A 52-week placebo-controlled trial to assess the potential growth effects of fluticasone propionate inhalation powder (FLOVENT® ROTADISK®) at 50 and 100 mcg twice daily was conducted in the US in 325 prepubescent children (244 males and 81 females) aged 4 to 11 years.
+A 52-week placebo-controlled trial to assess the potential growth effects of fluticasone propionate inhalation powder (FLOVENT® ROTADISK®) at 50 and 100 mcg twice daily was conducted in the U.S. in 325 prepubescent children (244 males and 81 females) aged 4 to 11 years.
 The mean growth velocities at 52 weeks observed in the intent-to-treat population were 6.32 cm/year in the placebo group (n = 76), 6.07 cm/year in the 50-mcg group (n = 98), and 5.66 cm/year in the 100-mcg group (n = 89).
 An imbalance in the proportion of children entering puberty between groups and a higher dropout rate in the placebo group due to poorly controlled asthma may be confounding factors in interpreting these data.
 A separate subset analysis of children who remained prepubertal during the trial revealed growth rates at 52 weeks of 6.10 cm/year in the placebo group (n = 57), 5.91 cm/year in the 50-mcg group (n = 74), and 5.67 cm/year in the 100-mcg group (n = 79).

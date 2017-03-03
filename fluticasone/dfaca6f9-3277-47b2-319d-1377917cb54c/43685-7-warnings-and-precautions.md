@@ -9,19 +9,19 @@ Therefore, when treating patients with asthma, physicians should only prescribe 
 Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue ADVAIR HFA) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
 Do not use ADVAIR HFA for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids.
 
-A large placebo-controlled US trial that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol.
-The Salmeterol Multi-center Asthma Research Trial (SMART) was a randomized double-blind trial that enrolled LABA-naive subjects with asthma to assess the safety of salmeterol 42 mcg twice daily over 28 weeks compared with placebo when added to usual asthma therapy.
+A large placebo-controlled U.S. trial that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol.
+The Salmeterol Multicenter Asthma Research Trial (SMART) was a randomized double-blind trial that enrolled LABA-naive subjects with asthma to assess the safety of salmeterol 42 mcg twice daily over 28 weeks compared with placebo when added to usual asthma therapy.
 A planned interim analysis was conducted when approximately half of the intended number of subjects had been enrolled (N = 26,355), which led to premature termination of the trial.
-The results of the interim analysis showed that subjects receiving salmeterol were at increased risk for fatal asthma events (see Table 1 and Figure 1).
+The results of the interim analysis showed that subjects receiving salmeterol were at increased risk for fatal asthma events (Table 1 and Figure 1).
 In the total population, a higher rate of asthma-related death occurred in subjects treated with salmeterol than those treated with placebo (0.10% versus 0.02%; relative risk: 4.37 [95% CI: 1.25, 15.34]).
 
-Post-hoc subpopulation analyses were performed.
+Post hoc subpopulation analyses were performed.
 In Caucasians, asthma-related death occurred at a higher rate in subjects treated with salmeterol than in subjects treated with placebo (0.07% versus 0.01%; relative risk: 5.82 [95% CI: 0.70, 48.37]).
 In African Americans also, asthma-related death occurred at a higher rate in subjects treated with salmeterol than those treated with placebo (0.31% versus 0.04%; relative risk: 7.26 [95% CI: 0.89, 58.94]).
-Although the relative risks of asthma-related death were similar in Caucasians and African Americans, the estimate of excess deaths in subjects treated with salmeterol was greater in African Americans because there was a higher overall rate of asthma-related death in African American subjects (see Table 1).
+Although the relative risks of asthma-related death were similar in Caucasians and African Americans, the estimate of excess deaths in subjects treated with salmeterol was greater in African Americans because there was a higher overall rate of asthma-related death in African American subjects (Table 1).
 Given the similar basic mechanisms of action of beta2-agonists, the findings seen in the SMART trial are considered a class effect.
 
-Post-hoc analyses in pediatric subjects aged 12 to 18 years were also performed.
+Post hoc analyses in pediatric subjects aged 12 to 18 years were also performed.
 Pediatric subjects accounted for approximately 12% of subjects in each treatment arm.
 Respiratory-related death or life-threatening experience occurred at a similar rate in the salmeterol group (0.12% [2/1,653]) and the placebo group (0.12% [2/1,622]; relative risk: 1.0 [95% CI: 0.1, 7.2]).
 All-cause hospitalization, however, was increased in the salmeterol group (2% [35/1,653]) versus the placebo group (less than 1% [16/1,622]; relative risk: 2.1 [95% CI: 1.1, 3.7]).
@@ -29,7 +29,7 @@ All-cause hospitalization, however, was increased in the salmeterol group (2% [3
 The data from the SMART trial are not adequate to determine whether concurrent use of inhaled corticosteroids, such as fluticasone propionate, the other active ingredient in ADVAIR HFA, or other long-term asthma control therapy mitigates the risk of asthma-related death.
 
 Table 1.
-Asthma-Related Deaths in the 28-Week Salmeterol Multi-center Asthma Research Trial (SMART)
+Asthma-Related Deaths in the 28-Week Salmeterol Multicenter Asthma Research Trial (SMART)
 
 |  | Salmeteroln (%a) | Placebon (%a) | Relative Riskb(95% Confidence Interval) | Excess Deaths Expressed per 10,000 Subjectsc(95% Confidence Interval) |
 | --- | --- | --- | --- | --- |
@@ -42,13 +42,23 @@ Asthma-Related Deaths in the 28-Week Salmeterol Multi-center Asthma Research Tri
 | African American |  |  |  |  |
 | Salmeterol: n = 2,366 | 7 (0.31%) |  | 7.26 (0.89, 58.94) | 27 (8, 46) |
 | Placebo: n = 2,319 |  | 1 (0.04%) |  |  |
-| aLife-table 28-week estimate, adjusted according to the subjects’ actual lengths of exposure to trial treatment to account for early withdrawal of subjects from the trial. |  |  |  |  |
-| bRelative risk is the ratio of the rate of asthma-related death in the salmeterol group and the rate in the placebo group. The relative risk indicates how many more times likely an asthma-related death occurred in the salmeterol group than in the placebo group in a 28-week treatment period. |  |  |  |  |
-| cEstimate of the number of additional asthma-related deaths in subjects treated with salmeterol in SMART, assuming 10,000 subjects received salmeterol for a 28-week treatment period. Estimate calculated as the difference between the salmeterol and placebo groups in the rates of asthma-related death multiplied by 10,000. |  |  |  |  |
-| dThe total population includes the following ethnic origins listed on the case report form: Caucasian, African American, Hispanic, Asian, and “Other.” In addition, the Total Population includes those subjects whose ethnic origin was not reported. The results for Caucasian and African American subpopulations are shown above. No asthma-related deaths occurred in the Hispanic (salmeterol n = 996, placebo n = 999), Asian (salmeterol n = 173, placebo n = 149), or “Other” (salmeterol n = 230, placebo n = 224) subpopulations. One asthma-related death occurred in the placebo group in the subpopulation whose ethnic origin was not reported (salmeterol n = 130, placebo n = 127). |  |  |  |  |
+
+a Life-table 28-week estimate, adjusted according to the subjects’ actual lengths of exposure to trial treatment to account for early withdrawal of subjects from the trial.
+
+b Relative risk is the ratio of the rate of asthma-related death in the salmeterol group and the rate in the placebo group.
+The relative risk indicates how many more times likely an asthma-related death occurred in the salmeterol group than in the placebo group in a 28-week treatment period.
+
+c Estimate of the number of additional asthma-related deaths in subjects treated with salmeterol in SMART, assuming 10,000 subjects received salmeterol for a 28-week treatment period.
+Estimate calculated as the difference between the salmeterol and placebo groups in the rates of asthma-related death multiplied by 10,000.
+
+d The total population includes the following ethnic origins listed on the case report form: Caucasian, African American, Hispanic, Asian, and “Other.”
+In addition, the total population includes those subjects whose ethnic origin was not reported.
+The results for Caucasian and African American subpopulations are shown above.
+No asthma-related deaths occurred in the Hispanic (salmeterol n = 996, placebo n = 999), Asian (salmeterol n = 173, placebo n = 149), or “Other” (salmeterol n = 230, placebo n = 224) subpopulations.
+One asthma-related death occurred in the placebo group in the subpopulation whose ethnic origin was not reported (salmeterol n = 130, placebo n = 127).
 
 Figure 1.
-Cumulative Incidence of Asthma-Related Deaths in the 28-Week Salmeterol Multi-center Asthma Research Trial (SMART), by Duration of Treatment
+Cumulative Incidence of Asthma-Related Deaths in the 28-Week Salmeterol Multicenter Asthma Research Trial (SMART), by Duration of Treatment
 
 A 16-week clinical trial performed in the United Kingdom, the Salmeterol Nationwide Surveillance (SNS) trial, showed results similar to the SMART trial.
 In the SNS trial, the rate of asthma-related death was numerically, though not statistically significantly, greater in subjects with asthma treated with salmeterol (42 mcg twice daily) than those treated with albuterol (180 mcg 4 times daily) added to usual asthma therapy.
@@ -69,12 +79,12 @@ In this situation, the patient requires immediate reevaluation with reassessment
 Patients should not use more than 2 inhalations twice daily of ADVAIR HFA.
 
 ADVAIR HFA should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm.
-An inhaled, short-acting beta2-agonist, not ADVAIR HFA, should be used to relieve acute symptoms such as shortness of breath.
-When prescribing ADVAIR HFA, the healthcare provider should also prescribe an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of acute symptoms, despite regular twice-daily use of ADVAIR HFA.
+ADVAIR HFA has not been studied in the relief of acute symptoms and extra doses should not be used for that purpose.
+Acute symptoms should be treated with an inhaled, short-acting beta2-agonist.
 
 When beginning treatment with ADVAIR HFA, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
 
-## 5.3 Excessive Use of ADVAIR HFA and Use with Other Long-Acting Beta2-Agonists
+## 5.3 Excessive Use of ADVAIR HFA and Use with Other Long-acting Beta2-agonists
 
 ADVAIR HFA should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
@@ -175,7 +185,9 @@ Decreases in bone mineral density (BMD) have been observed with long-term admini
 The clinical significance of small changes in BMD with regard to long-term consequences such as fracture is unknown.
 Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, postmenopausal status, tobacco use, advanced age, poor nutrition, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants, oral corticosteroids), should be monitored and treated with established standards of care.
 
-2-Year Fluticasone Propionate Trial: A 2-year trial in 160 subjects (females aged 18 to 40 years, males 18 to 50) with asthma receiving chlorofluorocarbon (CFC)-propelled fluticasone propionate inhalation aerosol 88 or 440 mcg twice daily demonstrated no statistically significant changes in BMD at any time point (24, 52, 76, and 104 weeks of double-blind treatment) as assessed by dual-energy x-ray absorptiometry at lumbar regions L1 through L4.
+2-Year Fluticasone Propionate Trial
+
+A 2-year trial in 160 subjects (females aged 18 to 40 years, males 18 to 50) with asthma receiving chlorofluorocarbon (CFC)-propelled fluticasone propionate inhalation aerosol 88 or 440 mcg twice daily demonstrated no statistically significant changes in BMD at any time point (24, 52, 76, and 104 weeks of double-blind treatment) as assessed by dual-energy x-ray absorptiometry at lumbar regions L1 through L4.
 
 ## 5.14 Effect on Growth
 

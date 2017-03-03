@@ -1,7 +1,7 @@
 # 6 ADVERSE REACTIONS
 
 LABA, such as salmeterol, one of the active ingredients in ADVAIR HFA, increase the risk of asthma-related death.
-Data from a large placebo-controlled US trial that compared the safety of salmeterol or placebo added to usual asthma therapy showed an increase in asthma-related deaths in subjects receiving salmeterol [see Warnings and Precautions (5.1)].
+Data from a large placebo-controlled U.S. trial that compared the safety of salmeterol or placebo added to usual asthma therapy showed an increase in asthma-related deaths in subjects receiving salmeterol [see Warnings and Precautions (5.1)].
 Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
 Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients [see Warnings and Precautions (5.1)].
 
@@ -19,7 +19,9 @@ Systemic and local corticosteroid use may result in the following:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adult and Adolescent Subjects Aged 12 Years and Older: The incidence of adverse reactions associated with ADVAIR HFA in Table 2 is based upon two 12-week, placebo-controlled, US clinical trials (Trials 1 and 3) and 1 active-controlled 12-week US clinical trial (Trial 2).
+Adult and Adolescent Subjects Aged 12 Years and Older
+
+The incidence of adverse reactions associated with ADVAIR HFA in Table 2 is based upon two 12-week, placebo-controlled, U.S. clinical trials (Trials 1 and 3) and 1 active-controlled 12-week U.S. clinical trial (Trial 2).
 A total of 1,008 adult and adolescent subjects with asthma (556 females and 452 males) previously treated with albuterol alone, salmeterol, or inhaled corticosteroids were treated twice daily with 2 inhalations of ADVAIR HFA 45/21 or ADVAIR HFA 115/21, fluticasone propionate CFC inhalation aerosol (44- or 110-mcg doses), salmeterol CFC inhalation aerosol 21 mcg, or placebo HFA inhalation aerosol.
 The average duration of exposure was 71 to 81 days in the active treatment groups compared with 51 days in the placebo group.
 
@@ -47,11 +49,15 @@ Adverse Reactions with ADVAIR HFA with ≥3% Incidence in Adult and Adolescent S
 | Musculoskeletal pain | 5 | 7 | 8 | 2 | 4 | 4 |
 | Muscle pain | 4 | 1 | 1 | 1 | 3 | <1 |
 
-The incidence of common adverse reactions reported in Trial 4, a 12-week non-US clinical trial in 509 subjects previously treated with inhaled corticosteroids who were treated twice daily with 2 inhalations of ADVAIR HFA 230/21, fluticasone propionate CFC inhalation aerosol 220 mcg, or 1 inhalation of ADVAIR DISKUS 500/50 was similar to the incidences reported in Table 2.
+The incidence of common adverse reactions reported in Trial 4, a 12-week non-U.S. clinical trial in 509 subjects previously treated with inhaled corticosteroids who were treated twice daily with 2 inhalations of ADVAIR HFA 230/21, fluticasone propionate CFC inhalation aerosol 220 mcg, or 1 inhalation of ADVAIR DISKUS 500/50 was similar to the incidences reported in Table 2.
 
-Additional Adverse Reactions: Other adverse reactions not previously listed, whether considered drug-related or not by the investigators, that occurred in the groups receiving ADVAIR HFA with an incidence of 1% to 3% and that occurred at a greater incidence than with placebo include the following: tachycardia, arrhythmias, myocardial infarction, postoperative complications, wounds and lacerations, soft tissue injuries, ear signs and symptoms, rhinorrhea/postnasal drip, epistaxis, nasal congestion/blockage, laryngitis, unspecified oropharyngeal plaques, dryness of nose, weight gain, allergic eye disorders, eye edema and swelling, gastrointestinal discomfort and pain, dental discomfort and pain, candidiasis mouth/throat, hyposalivation, gastrointestinal infections, disorders of hard tissue of teeth, abdominal discomfort and pain, oral abnormalities, arthralgia and articular rheumatism, muscle cramps and spasms, musculoskeletal inflammation, bone and skeletal pain, muscle injuries, sleep disorders, migraines, allergies and allergic reactions, viral infections, bacterial infections, candidiasis unspecified site, congestion, inflammation, bacterial reproductive infections, lower respiratory signs and symptoms, lower respiratory infections, lower respiratory hemorrhage, eczema, dermatitis and dermatosis, urinary infections.
+Additional Adverse Reactions
 
-Laboratory Test Abnormalities: In Trial 3, there were more reports of hyperglycemia among adults and adolescents receiving ADVAIR HFA, but this was not seen in Trials 1 and 2.
+Other adverse reactions not previously listed, whether considered drug-related or not by the investigators, that occurred in the groups receiving ADVAIR HFA with an incidence of 1% to 3% and that occurred at a greater incidence than with placebo include the following: tachycardia, arrhythmias, myocardial infarction, postoperative complications, wounds and lacerations, soft tissue injuries, ear signs and symptoms, rhinorrhea/postnasal drip, epistaxis, nasal congestion/blockage, laryngitis, unspecified oropharyngeal plaques, dryness of nose, weight gain, allergic eye disorders, eye edema and swelling, gastrointestinal discomfort and pain, dental discomfort and pain, candidiasis mouth/throat, hyposalivation, gastrointestinal infections, disorders of hard tissue of teeth, abdominal discomfort and pain, oral abnormalities, arthralgia and articular rheumatism, muscle cramps and spasms, musculoskeletal inflammation, bone and skeletal pain, muscle injuries, sleep disorders, migraines, allergies and allergic reactions, viral infections, bacterial infections, candidiasis unspecified site, congestion, inflammation, bacterial reproductive infections, lower respiratory signs and symptoms, lower respiratory infections, lower respiratory hemorrhage, eczema, dermatitis and dermatosis, urinary infections.
+
+Laboratory Test Abnormalities
+
+In Trial 3, there were more reports of hyperglycemia among adults and adolescents receiving ADVAIR HFA, but this was not seen in Trials 1 and 2.
 
 ## 6.2 Postmarketing Experience
 
@@ -59,33 +65,63 @@ In addition to adverse reactions reported from clinical trials, the following ad
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These events have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to ADVAIR, fluticasone propionate, and/or salmeterol or a combination of these factors.
 
-Cardiovascular: Arrhythmias (including atrial fibrillation, extrasystoles, supraventricular tachycardia), hypertension, ventricular tachycardia.
+Cardiovascular
 
-Ear, Nose, and Throat: Aphonia, earache, facial and oropharyngeal edema, paranasal sinus pain, rhinitis, throat soreness, tonsillitis.
+Arrhythmias (including atrial fibrillation, extrasystoles, supraventricular tachycardia), hypertension, ventricular tachycardia.
 
-Endocrine and Metabolic: Cushing’s syndrome, Cushingoid features, growth velocity reduction in children/adolescents, hypercorticism, osteoporosis.
+Ear, Nose, and Throat
 
-Eye: Cataracts, glaucoma.
+Aphonia, earache, facial and oropharyngeal edema, paranasal sinus pain, rhinitis, throat soreness, tonsillitis.
 
-Gastrointestinal: Dyspepsia, xerostomia.
+Endocrine and Metabolic
 
-Hepatobiliary Tract and Pancreas: Abnormal liver function tests.
+Cushing’s syndrome, Cushingoid features, growth velocity reduction in children/adolescents, hypercorticism, osteoporosis.
 
-Immune System: Immediate and delayed hypersensitivity reactions, including rash and rare events of angioedema, bronchospasm, and anaphylaxis.
+Eye
 
-Infections and Infestations: Esophageal candidiasis.
+Cataracts, glaucoma.
 
-Musculoskeletal: Back pain, myositis.
+Gastrointestinal
 
-Neurology: Paresthesia, restlessness.
+Dyspepsia, xerostomia.
 
-Non-Site Specific: Fever, pallor.
+Hepatobiliary Tract and Pancreas
 
-Psychiatry: Agitation, aggression, anxiety, depression.
+Abnormal liver function tests.
+
+Immune System
+
+Immediate and delayed hypersensitivity reactions, including rash and rare events of angioedema, bronchospasm, and anaphylaxis.
+
+Infections and Infestations
+
+Esophageal candidiasis.
+
+Musculoskeletal
+
+Back pain, myositis.
+
+Neurology
+
+Paresthesia, restlessness.
+
+Non-Site Specific
+
+Fever, pallor.
+
+Psychiatry
+
+Agitation, aggression, anxiety, depression.
 Behavioral changes, including hyperactivity and irritability, have been reported very rarely and primarily in children.
 
-Respiratory: Asthma; asthma exacerbation; chest congestion; chest tightness; cough; dyspnea; immediate bronchospasm; influenza; paradoxical bronchospasm; tracheitis; wheezing; pneumonia; reports of upper respiratory symptoms of laryngeal spasm, irritation, or swelling such as stridor or choking.
+Respiratory
 
-Skin: Contact dermatitis, contusions, ecchymoses, photodermatitis, pruritus.
+Asthma; asthma exacerbation; chest congestion; chest tightness; cough; dyspnea; immediate bronchospasm; influenza; paradoxical bronchospasm; tracheitis; wheezing; pneumonia; reports of upper respiratory symptoms of laryngeal spasm, irritation, or swelling such as stridor or choking.
 
-Urogenital: Dysmenorrhea, irregular menstrual cycle, pelvic inflammatory disease, vaginal candidiasis, vaginitis, vulvovaginitis.
+Skin
+
+Contact dermatitis, contusions, ecchymoses, photodermatitis, pruritus.
+
+Urogenital
+
+Dysmenorrhea, irregular menstrual cycle, pelvic inflammatory disease, vaginal candidiasis, vaginitis, vulvovaginitis.

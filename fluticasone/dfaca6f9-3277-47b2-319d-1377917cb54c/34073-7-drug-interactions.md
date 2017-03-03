@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-ADVAIR HFA has been used concomitantly with other drugs, including short-acting beta2-agonists, methylxanthines, and intranasal corticosteroids, commonly used in patients with asthma, without adverse drug reactions [see Clinical Pharmacology (12.2)].
+ADVAIR HFA has been used concomitantly with other drugs, including short-acting beta2-agonists, methylxanthines, and intranasal corticosteroids, commonly used in patients with asthma without adverse drug reactions [see Clinical Pharmacology (12.2)].
 No formal drug interaction trials have been performed with ADVAIR HFA.
 
 ## 7.1 Inhibitors of Cytochrome P450 3A4
@@ -8,10 +8,14 @@ No formal drug interaction trials have been performed with ADVAIR HFA.
 Fluticasone propionate and salmeterol, the individual components of ADVAIR HFA, are substrates of CYP3A4.
 The use of strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with ADVAIR HFA is not recommended because increased systemic corticosteroid and increased cardiovascular adverse effects may occur.
 
-Ritonavir: Fluticasone Propionate: A drug interaction trial with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong CYP3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations [see Clinical Pharmacology (12.3)].
+Ritonavir
+
+Fluticasone Propionate: A drug interaction trial with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong CYP3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations [see Clinical Pharmacology (12.3)].
 During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing’s syndrome and adrenal suppression.
 
-Ketoconazole: Fluticasone Propionate: Coadministration of orally inhaled fluticasone propionate (1,000 mcg) and ketoconazole (200 mg once daily) resulted in a 1.9-fold increase in plasma fluticasone propionate exposure and a 45% decrease in plasma cortisol area under the curve (AUC), but had no effect on urinary excretion of cortisol.
+Ketoconazole
+
+Fluticasone Propionate: Coadministration of orally inhaled fluticasone propionate (1,000 mcg) and ketoconazole (200 mg once daily) resulted in a 1.9-fold increase in plasma fluticasone propionate exposure and a 45% decrease in plasma cortisol area under the curve (AUC), but had no effect on urinary excretion of cortisol.
 
 Salmeterol: In a drug interaction trial in 20 healthy subjects, coadministration of inhaled salmeterol (50 mcg twice daily) and oral ketoconazole (400 mg once daily) for 7 days resulted in greater systemic exposure to salmeterol (AUC increased 16-fold and Cmax increased 1.4-fold).
 Three (3) subjects were withdrawn due to beta2-agonist side effects (2 with prolonged QTc and 1 with palpitations and sinus tachycardia).
@@ -21,7 +25,7 @@ Although there was no statistical effect on the mean QTc, coadministration of sa
 
 ADVAIR HFA should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, or within 2 weeks of discontinuation of such agents, because the action of salmeterol, a component of ADVAIR HFA, on the vascular system may be potentiated by these agents.
 
-## 7.3 Beta-Adrenergic Receptor Blocking Agents
+## 7.3 Beta-adrenergic Receptor Blocking Agents
 
 Beta-blockers not only block the pulmonary effect of beta-agonists, such as salmeterol, a component of ADVAIR HFA, but may also produce severe bronchospasm in patients with asthma.
 Therefore, patients with asthma should not normally be treated with beta-blockers.

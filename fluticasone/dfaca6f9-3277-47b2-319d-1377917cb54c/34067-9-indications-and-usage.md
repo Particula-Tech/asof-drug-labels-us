@@ -8,4 +8,6 @@ Therefore, when treating patients with asthma, physicians should only prescribe 
 Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue ADVAIR HFA) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
 Do not use ADVAIR HFA for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids.
 
-Important Limitation of Use: ADVAIR HFA is NOT indicated for the relief of acute bronchospasm.
+Important Limitation of Use
+
+ADVAIR HFA is NOT indicated for the relief of acute bronchospasm.
