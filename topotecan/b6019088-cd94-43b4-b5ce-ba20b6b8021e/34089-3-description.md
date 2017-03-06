@@ -10,7 +10,7 @@ Topotecan hydrochloride has the following structural formula:
 C23H23N3O5 •1.25HCl M.W.
 467.02
 
-Topotecan hydrochloride for injection is supplied as a sterile, lyophilized, buffered, light yellow to greenish powder available in single use vials.
+Topotecan hydrochloride for injection is supplied as a sterile, lyophilized, buffered, light yellow to greenish powder available in single dose vials.
 Each vial contains topotecan hydrochloride equivalent to 4 mg of topotecan as free base.
 The reconstituted solution ranges in color from yellow to yellow-green and is intended for administration by intravenous infusion.
 Inactive ingredients are mannitol, 48 mg, and tartaric acid, 20 mg.

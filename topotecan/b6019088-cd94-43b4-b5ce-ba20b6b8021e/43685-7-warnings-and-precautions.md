@@ -29,7 +29,7 @@ Anemia
 Administer topotecan hydrochloride only to patients with a baseline neutrophil count of greater than or equal to 1,500 cells/mm3 and a platelet count greater than or equal to 100,000/mm3.
 Monitor peripheral blood counts frequently during treatment with topotecan hydrochloride.
 Refer to Section 2.4 for dose modification guidelines for hematological toxicities in subsequent courses.
-Do not treat patients with subsequent courses of topotecan hydrochloride until neutrophils recover to greater than 1,000 cells/mm3, platelets recover to greater than 100,000 cells/mm3, and hemoglobin levels recover to 9 g/dL (with transfusion if necessary).
+Do not treat patients with subsequent courses of topotecan hydrochloride until neutrophils recover to greater than 1,000 cells/mm3, platelets recover to greater than 100,000 cells/mm3, and hemoglobin levels recover to 9.0 g/dL (with transfusion if necessary).
 
 ## 5.2 Neutropenic Enterocolitis
 

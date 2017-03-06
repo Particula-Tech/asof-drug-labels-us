@@ -27,7 +27,7 @@ Excretion
 Renal clearance is the primary route of topotecan elimination.
 
 In a mass balance/excretion trial in 4 patients with solid tumors, the overall recovery of total topotecan and its N-desmethyl metabolite in urine and feces over 9 days averaged 73.4% ± 2.3% of the administered IV dose.
-Mean values of 50.8% ± 2.9% as total topotecan and 3.1% ± 1% as N-desmethyl topotecan were excreted in the urine following IV administration.
+Mean values of 50.8% ± 2.9% as total topotecan and 3.1% ± 1.0% as N-desmethyl topotecan were excreted in the urine following IV administration.
 Fecal elimination of total topotecan accounted for 17.9% ± 3.6% while fecal elimination of N-desmethyl topotecan was 1.7% ± 0.6%.
 An O-glucuronidation metabolite of topotecan and N-desmethyl topotecan has been identified in the urine.
 
@@ -45,7 +45,7 @@ In patients with moderate renal impairment (Clcr = 20 to 39 mL/min), plasma clea
 Dosage adjustment is recommended for patients with moderate renal impairment.
 No dosage adjustment is required in patients with mild renal impairment [see Dosage and Administration (2.4), Use in Specific Populations (8.6)].
 
-Hepatic Impairment: Plasma clearance of topotecan lactone in patients with hepatic impairment serum bilirubin levels between 1.7 and 15 mg/dL) was decreased by 33% compared with patients with normal hepatic function (serum bilirubin levels less than 1.7 mg/dL).
+Hepatic Impairment: Plasma clearance of topotecan lactone in patients with hepatic impairment serum bilirubin levels between 1.7 and 15.0 mg/dL) was decreased by 33% compared with patients with normal hepatic function (serum bilirubin levels less than 1.7 mg/dL).
 
 Drug Interactions
 

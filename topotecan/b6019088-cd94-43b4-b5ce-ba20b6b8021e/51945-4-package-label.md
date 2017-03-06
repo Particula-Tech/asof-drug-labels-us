@@ -2,24 +2,24 @@ Lake Zurich, IL 60047
 
 www.fresenius-kabi.us
 
-451171D
+451171E
 
-Revised: September 2015
+Revised: August 2016
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Topotecan 4 mg Single Use Vial Label
+PACKAGE LABEL - PRINCIPAL DISPLAY - Topotecan 4 mg Single Dose Vial Label
 
-Topotecan Hydrochloride for Injeciton 4 mg (base) For intravenous use.
+Topotecan Hydrochloride for Injection 4 mg (base) per vial For intravenous use.
 
 MUST BE DILUTED.
-Single Use Vial Rx only
+Single Dose Vial Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Topotecan 4 mg Single Use Vial Carton Panel
+PACKAGE LABEL - PRINCIPAL DISPLAY - Topotecan 4 mg Single Dose Vial Carton Panel
 
-Topotecan Hydrochloride for Injection 4 mg (base)
+Topotecan Hydrochloride for Injection 4 mg (base) per vial
 
 For intravenous use.
 
 MUST BE DILUTED.
 Cytotoxic agent.
 
-Single Use Vial Rx only
+Single Dose Vial Rx only
