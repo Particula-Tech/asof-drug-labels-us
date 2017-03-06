@@ -9,17 +9,18 @@ The following adverse reactions are discussed in more detail in other sections o
 - •Metabolic changes (hyperglycemia, dyslipidemia, weight gain) [see Warnings and Precautions 5.5]
 - •Tardive dyskinesia [see Warnings and Precautions 5.6]
 - •Hypotension [see Warnings and Precautions 5.7]
-- •Increases in blood pressure (children and adolescents) [see Warnings and Precautions 5.8]
-- •Leukopenia, neutropenia and agranulocytosis [see Warnings and Precautions 5.9]
-- •Cataracts [see Warnings and Precautions 5.10]
-- •QT Prolongation [see Warnings and Precautions 5.11]
-- •Seizures [see Warnings and Precautions 5.12]
-- •Hypothyroidism [see Warnings and Precautions 5.13]
-- •Hyperprolactinemia [see Warnings and Precautions 5.14]
-- •Potential for cognitive and motor impairment [see Warnings and Precautions 5.15]
-- •Body temperature regulation [see Warnings and Precautions 5.16]
-- •Dysphagia [see Warnings and Precautions 5.17]
-- •Discontinuation Syndrome [see Warnings and Precautions 5.18]
+- •Falls [see Warnings and Precautions 5.8]
+- •Increases in blood pressure (children and adolescents) [see Warnings and Precautions 5.9]
+- •Leukopenia, neutropenia and agranulocytosis [see Warnings and Precautions 5.10]
+- •Cataracts [see Warnings and Precautions 5.11]
+- •QT Prolongation [see Warnings and Precautions 5.12]
+- •Seizures [see Warnings and Precautions 5.13]
+- •Hypothyroidism [see Warnings and Precautions 5.14]
+- •Hyperprolactinemia [see Warnings and Precautions 5.15]
+- •Potential for cognitive and motor impairment [see Warnings and Precautions 5.16]
+- •Body temperature regulation [see Warnings and Precautions 5.17]
+- •Dysphagia [see Warnings and Precautions 5.18]
+- •Discontinuation Syndrome [see Warnings and Precautions 5.19]
 
 ## 6.1 Clinical Study Experience
 
@@ -39,7 +40,7 @@ The stated frequencies of adverse reactions represent the proportion of individu
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
 
 Schizophrenia: Overall, there was little difference in the incidence of discontinuation due to adverse reactions (4% for SEROQUEL vs. 3% for placebo) in a pool of controlled trials.
-However, discontinuations due to somnolence (0.8% SEROQUEL vs. 0% placebo) and hypotension (0.4% SEROQUEL vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.7 and 5.18)].
+However, discontinuations due to somnolence (0.8% SEROQUEL vs. 0% placebo) and hypotension (0.4% SEROQUEL vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.7 and 5.19)].
 
 Bipolar Disorder:
 
@@ -171,7 +172,7 @@ Table 11: Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trial
 | Pain in Extremity | 2% | 1% |
 | Asthenia | 2% | 1% |
 | Balance Disorder | 2% | 1% |
-| Hypoaesthesia | 2% | 1% |
+| Hypoesthesia | 2% | 1% |
 | Dysphagia | 2% | 0% |
 | Restless Legs Syndrome | 2% | 0% |
 
@@ -202,7 +203,7 @@ Three methods were used to measure EPS: (1) Simpson-Angus total score (mean chan
 
 In Table 12, dystonic event included nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration; parkinsonism included cogwheel rigidity, tremor, drooling, hypokinesia; akathisia included akathisia, psychomotor agitation; dyskinetic event included tardive dyskinesia, dyskinesia, choreoathetosis; and other extrapyramidal event included restlessness, extrapyramidal disorder, movement disorder.
 
-Table 12: Adverse reactions associated with EPS in a short-term, placebo-controlled multiple fixed-dose Phase III schizophrenia trial (6 weeks duration)
+Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Controlled Multiple Fixed-Dose Phase III Schizophrenia Trial (6 weeks duration)
 
 | Preferred Term | SEROQUEL75 mg/day(N=53) |  | SEROQUEL150 mg/day(N=48) |  | SEROQUEL300 mg/day(N=52) |  | SEROQUEL600 mg/day(N=51) |  | SEROQUEL750 mg/day(N=54) |  | Placebo(N=51) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -245,9 +246,9 @@ In bipolar mania therapy (up to 3 weeks) the most commonly observed adverse reac
 
 In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and at least twice that for placebo) were dizziness (7%), diarrhea (5%), fatigue (5%) and nausea (5%).
 
-Adverse Reactions Occurring at an Incidence of ≥ 2% Among SEROQUEL Treated Patients in Short-Term, Placebo-Controlled Trials
+Adverse Reactions Occurring at an Incidence of ≥ 2% among SEROQUEL Treated Patients in Short-Term, Placebo-Controlled Trials
 
-Schizophrenia (Adolescents, 13 – 17 years old)
+Schizophrenia (Adolescents, 13- 17 years old)
 
 The following findings were based on a 6-week placebo-controlled trial in which quetiapine was administered in either doses of 400 or 800 mg/day.
 
@@ -285,7 +286,7 @@ In bipolar mania therapy (up to 3 weeks) the most commonly observed adverse reac
 
 Table 14 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during therapy (up to 3 weeks) of bipolar mania in 2% or more of patients treated with SEROQUEL (doses of 400 or 600 mg/day) where the incidence in patients treated with SEROQUEL was greater than the incidence in placebo-treated patients.
 
-Adverse events that were potentially dose-related with higher frequency in the 600 mg group compared to the 400 mg group included somnolence (50% vs. 57%), nausea (6% vs. 10 %) and tachycardia (6% vs. 9%).
+Adverse events that were potentially dose-related with higher frequency in the 600 mg group compared to the 400 mg group included somnolence (50% vs. 57%), nausea (6% vs. 10%) and tachycardia (6% vs. 9%).
 
 Table 14: Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar Mania in Children and Adolescent Patients
 
@@ -315,7 +316,7 @@ Table 14: Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for th
 | Vision Blurred | 3% | 2% | 0% |
 | Constipation | 4% | 2% | 0% |
 | Ear Pain | 2% | 0% | 0% |
-| Paraesthesia | 2% | 0% | 0% |
+| Paresthesia | 2% | 0% | 0% |
 | Sinus Congestion | 3% | 0% | 0% |
 | Thirst | 2% | 0% | 0% |
 
@@ -326,7 +327,7 @@ In a short-term placebo-controlled monotherapy trial in children and adolescent 
 
 Table 15 presents a listing of patients with adverse reactions potentially associated with extrapyramidal symptoms in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration).
 
-In Tables 15 – 16 dystonic event included nuchal rigidity, hypertonia and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only dyskinetic event included tardive dyskinesia, dyskinesia and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
+In Tables 15 – 16 dystonic event included nuchal rigidity, hypertonia, and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only dyskinetic event included tardive dyskinesia, dyskinesia; and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
 
 Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-Controlled Trial in Adolescent Patients with Schizophrenia (6-week duration)
 
@@ -368,7 +369,7 @@ Cardiovascular System: Infrequent: vasodilatation, QT interval prolonged, migrai
 
 Respiratory System: Frequent: cough increased, dyspnea; Infrequent: pneumonia, epistaxis, asthma; Rare: hiccup, hyperventilation.
 
-Metabolic and Nutritional System: Infrequent: weight loss, alkaline phosphatase increased, hyperlipemia, alcohol intolerance, dehydration, hyperglycemia, creatinine increased, hypoglycemia; Rare: glycosuria, gout, hand edema, hypokalemia, water intoxication.
+Metabolic and Nutritional System: Infrequent: weight loss, alkaline phosphatase increased, hyperlipidemia, alcohol intolerance, dehydration, hyperglycemia, creatinine increased, hypoglycemia; Rare: glycosuria, gout, hand edema, hypokalemia, water intoxication.
 
 Skin and Appendages System: Infrequent: pruritus, acne, eczema, contact dermatitis, maculopapular rash, seborrhea, skin ulcer; Rare: exfoliative dermatitis, psoriasis, skin discoloration.
 
@@ -388,7 +389,7 @@ Laboratory Changes:
 
 Neutrophil Counts
 
-Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo [see Warnings and Precautions (5.9)].
+Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo [see Warnings and Precautions (5.10)].
 
 Transaminase Elevations
 
@@ -427,7 +428,7 @@ Mean increases in heart rate were 12.8 bpm and 13.4 bpm for SEROQUEL 400 mg and 
 In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (> 110 bpm 10-12 years and 13-17 years) occurred in 0% of patients receiving SEROQUEL XR and 1.2% of patients receiving placebo.
 Mean increases in heart rate were 3.4 bpm for SEROQUEL XR, compared to 0.3 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions were identified during post approval of SEROQUEL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

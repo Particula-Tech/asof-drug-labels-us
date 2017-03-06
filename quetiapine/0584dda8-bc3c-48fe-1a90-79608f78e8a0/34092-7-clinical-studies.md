@@ -91,7 +91,7 @@ The primary efficacy results of these studies in the treatment of mania in adult
 
 Children and Adolescents (ages 10-17)
 
-The efficacy of SEROQUEL in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 to 17 years of age) was demonstrated in a 3-week, double-blind, placebo-controlled, multicenter trial (study 4 in Table 20).
+The efficacy of SEROQUEL in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10-17 years of age) was demonstrated in a 3-week, double-blind, placebo-controlled, multicenter trial (study 4 in Table 20).
 Patients who met DSM-IV diagnostic criteria for a manic episode were randomized into one of three treatment groups: SEROQUEL 400 mg/day (n = 95), SEROQUEL 600 mg/day (n = 98), or placebo (n = 91).
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/day (divided doses given two or three times daily).
 Subsequently, the dose was titrated to a target dose of 400 mg/day or 600 mg/day using increments of 100 mg/day, given in divided doses two or three times daily.
@@ -138,8 +138,8 @@ Table 21: Depressive Episodes Associated with Bipolar Disorder
 
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS Total |  |  |
 | --- | --- | --- | --- | --- |
-| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
-| Study 5 | SEROQUEL (300 mg/day)Doses that are statistically significantly superior to placebo. | 30.3 (5.0) | -16.4 (0.9) | -6.1 (-8.3, -3.9) |
+| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDoses that are statistically significantly superior to placebo. (95% CI) |  |  |
+| Study 5 | SEROQUEL (300 mg/day) | 30.3 (5.0) | -16.4 (0.9) | -6.1 (-8.3, -3.9) |
 | SEROQUEL (600 mg/day) | 30.3 (5.3) | -16.7 (0.9) | -6.5 (-8.7, -4.3) |  |
 | Placebo | 30.6 (5.3) | -10.3 (0.9) | -- |  |
 | Study 6 | SEROQUEL (300 mg/day) | 31.1 (5.7) | -16.9 (1.0) | -5.0 (-7.3, -2.7) |

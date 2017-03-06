@@ -101,7 +101,7 @@ Before you take SEROQUEL, tell your healthcare provider if you have or have had:
   You and your healthcare provider should decide if you will take SEROQUEL or breast-feed.
   You should not do both.
 
-Tell the healthcare provider about all the medicines that you take or recently havetaken including prescription medicines, over-the-counter medicines, herbal supplements and vitamins.
+Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements and vitamins.
 
 SEROQUEL and other medicines may affect each other causing serious side effects.
 SEROQUEL may affect the way other medicines work, and other medicines may affect how SEROQUEL works.
@@ -150,10 +150,12 @@ SEROQUEL can cause serious side effects, including:
   - ∘rigid muscles
   - ∘confusion
   - ∘changes in your breathing, heartbeat, and blood pressure
+- •falls can happen in some people who take SEROQUEL.
+  These falls may cause serious injuries.
 - •high blood sugar (hyperglycemia).
   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
   High blood sugar could lead to:
-  - ∘build up of acid in your blood due to ketones (ketoacidosis)
+  - ∘buildup of acid in your blood due to ketones (ketoacidosis)
   - ∘coma
   - ∘death
 - Increases in blood sugar can happen in some people who take SEROQUEL.
@@ -256,4 +258,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Revised: October 2013
+Revised: MM/YYYY
