@@ -18,7 +18,7 @@ Intramuscular: When instructions are followed properly the Diazepam Autoinjector
 
 Intravenous Use: The Diazepam Autoinjector is not designed or intended for intravenous use.
 
-### Severe Anxiety Disorders and Symptoms of Anxiety:
+Severe Anxiety Disorders and Symptoms of Anxiety:
 
 Usual Adult Dosage: 10 mg, I. M. Repeat in 3 to 4 hours, if necessary.
 
@@ -41,7 +41,9 @@ Status Epilepticus and Severe Recurrent Convulsive Seizures: In the convulsing p
 However, if conditions preclude intravenous administration, the I.M. route may be used.
 
 Usual Adult Dosage: 10 mg, initially.
-This injection may be repeated if necessary at 10 to 15 minute intervals up to a maximum dose of 30 mg.
+This injection may be repeated if necessary at
+
+10 to 15 minute intervals up to a maximum dose of 30 mg.
 If necessary, therapy with diazepam may be repeated in 2 to 4 hours; however, residual active metabolites may persist, and re-administration should be made with this consideration.
 
 Extreme caution must be exercised with individuals with chronic lung disease or unstable cardiovascular status.
@@ -52,7 +54,7 @@ Preoperative Medication: To relieve anxiety and tension.
 Usual Adult Dosage: 10 mg, I.M.
 (preferred route), before surgery.
 
-### General:
+## General:
 
 Once the acute symptomatology has been properly controlled with diazepam injection, the patient may be placed on oral therapy with diazepam if further treatment is required.
 

@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020124"
+  ],
   "inn": "diazepam",
-  "labeler": "U.S. Army Medical Research and Development Command (MCMR-RCQ-HR)",
+  "labeler": "Meridian Medical Technologies, Inc.",
   "package_ndcs": [
     "11704-600-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "diazepam",
+      "name": "Diazepam"
+    }
+  ],
   "setid": "fa352464-14c8-49e9-b8b7-5a968b1cfa93",
   "source": "dailymed"
 }
