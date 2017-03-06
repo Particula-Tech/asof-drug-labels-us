@@ -11,7 +11,7 @@ Patients who are opioid-experienced are those receiving, for one week or longer,
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 - Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with BUTRANS [see Warnings and Precautions (5.2)].
 - Instruct patients not to use BUTRANS if the pouch seal is broken or the patch is cut, damaged, or changed in any way and not to cut BUTRANS.
-- Instruct patients to avoid exposing BUTRANS to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.14)].
+- Instruct patients to avoid exposing BUTRANS to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.13)].
 
 BUTRANS is for transdermal use (on intact skin) only.
 Each BUTRANS patch is intended to be worn for 7 days.
@@ -74,7 +74,7 @@ Do not abruptly discontinue BUTRANS.
 ## 2.5 Patients with Hepatic Impairment
 
 BUTRANS has not been evaluated in patients with severe hepatic impairment.
-As BUTRANS is only intended for 7-day application, consider use of an alternate analgesic that may permit more flexibility with the dosing in patients with severe hepatic impairment [see Warnings and Precautions (5.11), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)]
+As BUTRANS is only intended for 7-day application, consider use of an alternate analgesic that may permit more flexibility with the dosing in patients with severe hepatic impairment [see Warnings and Precautions (5.10), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)]
 
 ## 2.6 Administration of BUTRANS
 

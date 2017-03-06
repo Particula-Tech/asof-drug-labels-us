@@ -24,7 +24,7 @@ Manifestations of histamine release and/or peripheral vasodilation may include p
 
 Effects on Cardiac Electrophysiology The effect of BUTRANS 10 mcg/hour and 2 x BUTRANS 20 mcg/hour on QTc interval was evaluated in a double-blind (BUTRANS vs. placebo), randomized, placebo and active-controlled (moxifloxacin 400 mg, open label), parallel-group, dose-escalating, single-dose study in 132 healthy male and female subjects aged 18 to 55 years.
 The dose escalation sequence for BUTRANS during the titration period was: BUTRANS 5 mcg/hour for 3 days, then BUTRANS 10 mcg/hour for 3 days, then BUTRANS 20 mcg/hour for 3 days, then 2 x BUTRANS 20 mcg/hour for 4 days.
-The QTc evaluation was performed during the third day of BUTRANS 10 mcg/hour and the fourth day of 2 x BUTRANS 20 mcg/hour when the plasma levels of buprenorphine were at steady state for the corresponding doses [see Warnings and Precautions (5.8)].
+The QTc evaluation was performed during the third day of BUTRANS 10 mcg/hour and the fourth day of 2 x BUTRANS 20 mcg/hour when the plasma levels of buprenorphine were at steady state for the corresponding doses [see Warnings and Precautions (5.7)].
 
 There was no clinically meaningful effect on mean QTc with a BUTRANS dose of 10 mcg/hour.
 A BUTRANS dose of 40 mcg/hour (given as two 20 mcg/hour BUTRANS Transdermal Systems) prolonged mean QTc by a maximum of 9.2 (90% CI: 5.2-13.3) msec across the 13 assessment time points.
@@ -100,7 +100,9 @@ Norbuprenorphine, the major metabolite, is also glucuronidated (mainly UGT1A3) p
 Norbuprenorphine is the only known active metabolite of buprenorphine.
 It has been shown to be a respiratory depressant in rats, but only at concentrations at least 50-fold greater than those observed following application to humans of BUTRANS 20 mcg/hour.
 
-Excretion Following IV administration of 2 mcg/kg dose of buprenorphine, approximately 70% of the dose was excreted in feces within 7 days.
+Excretion Following IV administration, buprenorphine and its metabolites are secreted into bile and excreted in urine.
+
+Following IV administration of 2 mcg/kg dose of buprenorphine, approximately 70% of the dose was excreted in feces within 7 days.
 Approximately 27% was excreted in urine.
 
 Following transdermal application, buprenorphine is eliminated via hepatic metabolism, with subsequent biliary excretion and renal excretion of soluble metabolites.
