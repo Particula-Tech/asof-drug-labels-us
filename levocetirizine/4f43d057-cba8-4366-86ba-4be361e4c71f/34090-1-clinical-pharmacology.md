@@ -4,7 +4,7 @@
 
 Levocetirizine, the active enantiomer of cetirizine, is an antihistamine; its principal effects are mediated via selective inhibition of H1 receptors.
 The antihistaminic activity of levocetirizine has been documented in a variety of animal and human models.
-In vitro binding studies revealed that levocetirizine has an affinity for the human H1-receptor 2 fold higher than that of cetirizine (Ki = 3 nmol/L vs. 6 nmol/L, respectively).
+In vitro binding studies revealed that levocetirizine has an affinity for the human H1-receptor 2-fold higher than that of cetirizine (Ki = 3 nmol/L vs. 6 nmol/L, respectively).
 The clinical relevance of this finding is unknown.
 
 ## 12.2 Pharmacodynamics
@@ -52,7 +52,7 @@ The major route of excretion of levocetirizine and its metabolites is via urine,
 Excretion via feces accounts for only 12.9% of the dose.
 Levocetirizine is excreted both by glomerular filtration and active tubular secretion.
 Renal clearance of levocetirizine correlates with that of creatinine clearance.
-In patients with renal impairment the clearance of levocetirizine is reduced [see Dosage and Administration (2.4)].
+In patients with renal impairment the clearance of levocetirizine is reduced [see Dosage and Administration (2.2)].
 
 - Drug Interaction Studies
 
@@ -64,7 +64,7 @@ Studies have been performed with the racemic cetirizine [see Drug Interactions (
 
 - Pediatric Patients
 
-Data from a pediatric pharmacokinetic study with oral administration of a single dose of 5 mg levocetirizine in 14 children age 6 to 11 years with body weight ranging between 20 and 40 kg show that Cmax and AUC values are about 2 fold greater than that reported in healthy adult subjects in a cross-study comparison.
+Data from a pediatric pharmacokinetic study with oral administration of a single dose of 5 mg levocetirizine in 14 children age 6 to 11 years with body weight ranging between 20 and 40 kg show that Cmax and AUC values are about 2-fold greater than that reported in healthy adult subjects in a cross-study comparison.
 The mean Cmax was 450 ng/mL, occurring at a mean time of 1.2 hours, weight-normalized, total body clearance was 30% greater, and the elimination half-life 24% shorter in this pediatric population than in adults.
 
 Dedicated pharmacokinetic studies have not been conducted in pediatric patients younger than 6 years of age.
@@ -93,8 +93,8 @@ No race-related differences in the kinetics of racemic cetirizine have been obse
 
 - Renal Impairment
 
-Levocetirizine exposure (AUC) exhibited 1.8, 3.2, 4.3, and 5.7 fold increase in mild, moderate, severe, renal impaired, and end-stage renal disease patients, respectively, compared to healthy subjects.
-The corresponding increases of half-life estimates were 1.4, 2.0, 2.9, and 4 fold, respectively.
+Levocetirizine exposure (AUC) exhibited 1.8-, 3.2-, 4.3-, and 5.7-fold increase in mild, moderate, severe, renal impaired, and end-stage renal disease patients, respectively, compared to healthy subjects.
+The corresponding increases of half-life estimates were 1.4-, 2.0-, 2.9-, and 4-fold, respectively.
 
 The total body clearance of levocetirizine after oral dosing was correlated to the creatinine clearance and was progressively reduced based on severity of renal impairment.
 Therefore, it is recommended to adjust the dose and dosing intervals of levocetirizine based on creatinine clearance in patients with mild, moderate, or severe renal impairment.
