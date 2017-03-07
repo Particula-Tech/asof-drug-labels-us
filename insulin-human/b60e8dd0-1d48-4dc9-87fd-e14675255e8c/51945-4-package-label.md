@@ -10,9 +10,9 @@ insulin human injection, USP
 
 10,000 units per 20 mL
 
-500 units per mL
-
 Rx only
+
+500 units per mL
 
 Warning - Highly Concentrated
 
