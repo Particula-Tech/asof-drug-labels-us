@@ -1,10 +1,10 @@
 # 4 CONTRAINDICATIONS
 
-The use of Levocetirizine Dihydrochloride Tablets are contraindicated in:
+The use of levocetirizine dihydrochloride tablets are contraindicated in:
 
 ## 4.1 Patients with known hypersensitivity
 
-Patients with known hypersensitivity to levocetirizine or any of the ingredients of Levocetirizine Dihydrochloride Tablets, or to cetirizine.
+Patients with known hypersensitivity to levocetirizine or any of the ingredients of levocetirizine dihydrochloride tablets, or to cetirizine.
 Observed reactions range from urticaria to anaphylaxis [see Adverse Reactions (6.2)].
 
 ## 4.2 Patients with end-stage renal disease
