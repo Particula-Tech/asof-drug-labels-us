@@ -52,6 +52,11 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 Hyperpyrexia and heat stroke, not associated with the above symptom complex, have also been reported with HALDOL.
 
+## Falls
+
+Motor instability, somnolence, and orthostatic hypotension have been reported with the use of antipsychotics, including HALDOL Decanoate, which may lead to falls and, consequently, fractures or other fall-related injuries.
+For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently during treatment.
+
 ## Combined Use of HALDOL and Lithium
 
 An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and fasting blood sugar) followed by irreversible brain damage has occurred in a few patients treated with lithium plus HALDOL.
@@ -84,13 +89,13 @@ Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should di
 
 HALDOL Decanoate 50 and HALDOL Decanoate 100 should be administered cautiously to patients:
 
-- –with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain.
+- with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain.
   Should hypotension occur and a vasopressor be required, epinephrine should not be used since HALDOL (haloperidol) may block its vasopressor activity, and paradoxical further lowering of the blood pressure may occur.
   Instead, metaraminol, phenylephrine or norepinephrine should be used.
-- –receiving anticonvulsant medications, with a history of seizures, or with EEG abnormalities, because HALDOL may lower the convulsive threshold.
+- receiving anticonvulsant medications, with a history of seizures, or with EEG abnormalities, because HALDOL may lower the convulsive threshold.
   If indicated, adequate anticonvulsant therapy should be concomitantly maintained.
-- –with known allergies, or with a history of allergic reactions to drugs.
-- –receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
+- with known allergies, or with a history of allergic reactions to drugs.
+- receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
 
 If concomitant antiparkinson medication is required, it may have to be continued after HALDOL Decanoate 50 or HALDOL Decanoate 100 is discontinued because of the prolonged action of haloperidol decanoate.
 If both drugs are discontinued simultaneously, extrapyramidal symptoms may occur.
