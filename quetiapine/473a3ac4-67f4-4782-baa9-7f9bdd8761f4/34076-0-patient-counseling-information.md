@@ -50,21 +50,20 @@ Patients should be advised of the risk of orthostatic hypotension (symptoms incl
 
 Increased Blood Pressure in Children and Adolescents
 
-Children and adolescent patients should have their blood pressure measured at the beginning of, and periodically during, treatment [see Warnings and Precautions (5.8)].
+Children and adolescent patients should have their blood pressure measured at the beginning of, and periodically during, treatment [see Warnings and Precautions (5.9)].
 
 Leukopenia/Neutropenia
 
-Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking SEROQUEL XR [see Warnings and Precautions (5.9)].
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking SEROQUEL XR [see Warnings and Precautions (5.10)].
 
 Interference with Cognitive and Motor Performance
 
 Patients should be advised of the risk of somnolence or sedation (which may lead to falls), especially during the period of initial dose titration.
-Patients should be cautioned about performing any activity requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating machinery, until they are reasonably certain quetiapine therapy does not affect them adversely.
-[see Warnings and Precautions (5.15)].
+Patients should be cautioned about performing any activity requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating machinery, until they are reasonably certain quetiapine therapy does not affect them adversely [see Warnings and Precautions (5.16)].
 
 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.16)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.17)].
 
 Concomitant Medication
 
@@ -79,5 +78,4 @@ Need for Comprehensive Treatment Program
 SEROQUEL XR is indicated as an integral part of a total treatment program for adolescents with schizophrenia and pediatric bipolar disorder that may include other measures (psychological, educational, and social).
 Effectiveness and safety of SEROQUEL XR have not been established in pediatric patients less than 13 years of age for schizophrenia or less than 10 years of age for bipolar mania.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
-The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms.
-[see Dosage and Administration (1.4)].
+The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.4)_RefID_567fa960-84b4-47a8-84f3-04a3ac7c2].

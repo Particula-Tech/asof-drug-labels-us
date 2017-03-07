@@ -50,7 +50,7 @@ SEROQUEL XR is unlikely to interfere with the metabolism of drugs metabolized by
 
 Children and Adolescents
 
-At steady-state the pharmacokinetics of the parent compound, in children and adolescents (10-17 years of age), were similar to adults.
+At steady state the pharmacokinetics of the parent compound, in children and adolescents (10-17 years of age), were similar to adults.
 However, when adjusted for dose and weight, AUC and Cmax of the parent compound were 41% and 39% lower, respectively, in children and adolescents than in adults.
 For the active metabolite, norquetiapine, AUC and Cmax were 45% and 31% higher, respectively, in children and adolescents than in adults.
 When adjusted for dose and weight, the pharmacokinetics of the metabolite, norquetiapine, was similar between children and adolescents and adults [see Use in Specific Populations (8.4)].
@@ -58,7 +58,7 @@ When adjusted for dose and weight, the pharmacokinetics of the metabolite, norqu
 Absorption
 
 Quetiapine fumarate reaches peak plasma concentrations approximately 6 hours following administration.
-SEROQUEL XR dosed once daily at steady-state has comparable bioavailability to an equivalent total daily dose of SEROQUEL administered in divided doses, twice daily.
+SEROQUEL XR dosed once daily at steady state has comparable bioavailability to an equivalent total daily dose of SEROQUEL administered in divided doses, twice daily.
 A high-fat meal (approximately 800 to 1000 calories) was found to produce statistically significant increases in the SEROQUEL XR Cmax and AUC of 44% to 52% and 20% to 22%, respectively, for the 50 mg and 300 mg tablets.
 In comparison, a light meal (approximately 300 calories) had no significant effect on the Cmax or AUC of quetiapine.
 It is recommended that SEROQUEL XR be taken without food or with a light meal [see Dosage and Administration (2.1)].
@@ -117,7 +117,7 @@ Table 25: The Effect of Other Drugs on the PK of Quetiapine
 | --- | --- | --- | --- |
 | Coadministered drug | Quetiapine |  |  |
 | Phenytoin | 100 mg three times daily | 250 mg three times daily | 5 fold increase in oral clearance |
-| Divalproex | 500 mg twice daily | 150 mg twice daily | 17% increase mean max plasma concentration at steady state.No affect on absorption or mean oral clearance |
+| Divalproex | 500 mg twice daily | 150 mg twice daily | 17% increase mean max plasma concentration at steady state.No effect on absorption or mean oral clearance |
 | Thioridazine | 200 mg twice daily | 300 mg twice daily | 65% increase in oral clearance |
 | Cimetidine | 400 mg three times daily for 4 days | 150 mg three times daily | 20% decrease in mean oral clearance |
 | Ketoconazole (potent CYP 3A4 inhibitor) | 200 mg once daily for 4 days | 25 mg single dose | 84% decrease in oral clearance resulting in a 6.2 fold increase in AUC of quetiapine |

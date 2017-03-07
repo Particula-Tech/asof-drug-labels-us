@@ -60,7 +60,7 @@ One 8-week trial was conducted to evaluate the safety and efficacy of SEROQUEL X
 The primary objective of the study was to evaluate whether SEROQUEL XR at a dose of 150 to 300 mg/day demonstrated superior efficacy (as measured by change in CDRS-R total score from baseline to end of 8 weeks) compared to placebo in children and adolescents 10 to 17 years of age with bipolar depression.
 A total of 193 patients with bipolar depression were randomized to placebo or SEROQUEL XR.
 The primary results of this study did not show a difference between SEROQUEL XR and placebo in decreasing depression symptoms in children and adolescents with bipolar disorder.
-In this study, patients treated with SEROQUEL XR exhibited metabolic changes, weight gain, increases in blood pressure and increases in heart rate [see Warnings and Precautions (5.5, 5.8) and Adverse Reactions (6.1)].
+In this study, patients treated with SEROQUEL XR exhibited metabolic changes, weight gain, increases in blood pressure and increases in heart rate [see Warnings and Precautions (5.5, 5.9) and Adverse Reactions (6.1)].
 
 Some differences in the pharmacokinetics of quetiapine were noted between children/adolescents (10 to 17 years of age) and adults.
 When adjusted for weight, the AUC and Cmax of quetiapine were 41% and 39% lower, respectively, in children and adolescents compared to adults.

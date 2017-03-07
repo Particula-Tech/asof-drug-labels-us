@@ -113,7 +113,7 @@ Table 3: Fasting Glucose-Proportion of Patients Shifting to ≥ 126 mg/dL in Sho
 | Placebo | 279 | 33 (11.8%) |  |  |
 
 In a 24-week trial (active-controlled, 115 patients treated with SEROQUEL) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a treatment-emergent post-glucose challenge glucose level ≥ 200 mg/dL was 1.7% and the incidence of a fasting treatment-emergent blood glucose level ≥ 126 mg/dL was 2.6%.
-The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2 hour glucose from baseline was -1.8 mg/dL for quetiapine.
+The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2-hour glucose from baseline was -1.8 mg/dL for quetiapine.
 
 In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar I disorder maintenance, mean exposure of 213 days for SEROQUEL (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5.0 mg/dL for quetiapine and –0.05 mg/dL for placebo.
 The exposure-adjusted rate of any increased blood glucose level (≥ 126 mg/dL) for patients more than 8 hours since a meal (however, some patients may not have been precluded from calorie intake from fluids during fasting period) was 18.0 per 100 patient years for SEROQUEL (10.7% of patients; n=556) and 9.5 for placebo per 100 patient years (4.6% of patients; n=581).
@@ -131,7 +131,7 @@ Table 4: Percentage of Patients with Shifts from Normal Baseline in Blood Glucos
 Children and Adolescents: Safety and effectiveness of SEROQUEL XR is supported from studies of SEROQUEL in children and adolescent patients 10 to 17 years of age [see Clinical Studies (14.2)].
 In a placebo-controlled SEROQUEL XR monotherapy study (8 weeks duration) of children and adolescent patients (10 – 17 years of age) with bipolar depression, in which efficacy was not established, the mean change in fasting glucose levels for SEROQUEL XR (n = 60) compared to placebo (n = 62) was 1.8 mg/dL versus 1.6 mg/dL.
 In this study, there were no patients in the SEROQUEL XR or placebo-treated groups with a baseline normal fasting glucose level (< 100 mg/dL) that had an increase in blood glucose level ≥ 126 mg/dL.
-There was one patient in the SEROQUEL XR group with a baseline borderline fasting glucose level (≥ 100 mg/dL) and < 126 mg/dL) who had an increase in blood glucose level of > 126 mg/dL compared to zero patients in the placebo group.
+There was one patient in the SEROQUEL XR group with a baseline borderline fasting glucose level (≥ 100 mg/dL and < 126 mg/dL) who had an increase in blood glucose level of > 126 mg/dL compared to zero patients in the placebo group.
 
 In a placebo-controlled SEROQUEL monotherapy study of adolescent patients (13–17 years of age) with schizophrenia (6 weeks duration), the mean change in fasting glucose levels for SEROQUEL (n=138) compared to placebo (n=67) was –0.75 mg/dL versus –1.70 mg/dL.
 In a placebo-controlled SEROQUEL monotherapy study of children and adolescent patients (10–17 years of age) with bipolar mania (3 weeks duration), the mean change in fasting glucose level for SEROQUEL (n=170) compared to placebo (n=81) was 3.62 mg/dL versus –1.17 mg/dL.
@@ -153,7 +153,7 @@ Table 5: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 | Placebo | 106 | 3 (3%) |  |  |
 | Bipolar Mania3 weeks duration | SEROQUEL XR | 128 | 9 (7%) |  |
 | Placebo | 134 | 5 (4%) |  |  |
-| Major Depressive Disorder (Adjunct Therapy)6 weeks duration | SEROQUEL XR | 420 | 67 (16%) |  |
+| Major Depressive Disorder (Adjunct Therapy) | SEROQUEL XR | 420 | 67 (16%) |  |
 | Placebo | 213 | 15 (7%) |  |  |
 | Triglycerides ≥200 mg/dL | Schizophrenia | SEROQUEL XR | 659 | 118 (18%) |
 | Placebo | 214 | 11 (5%) |  |  |
@@ -324,7 +324,12 @@ Orthostatic hypotension, dizziness, and syncope may lead to falls.
 Quetiapine should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease or conditions which would predispose patients to hypotension (dehydration, hypovolemia and treatment with antihypertensive medications).
 If hypotension occurs during titration to the target dose, a return to the previous dose in the titration schedule is appropriate.
 
-## 5.8 Increases in Blood Pressure (Children and Adolescents)
+## 5.8 Falls
+
+A typical antipsychotic drugs, including SEROQUEL XR, may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## 5.9 Increases in Blood Pressure (Children and Adolescents)
 
 Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL in children and adolescent patients 10 to 17 years of age [see Clinical Studies (14.1 and 14.2)].
 
@@ -334,7 +339,7 @@ In placebo-controlled trials in children and adolescents with schizophrenia (13-
 In the 26-week open-label clinical trial, one child with a reported history of hypertension experienced a hypertensive crisis.
 Blood pressure in children and adolescents should be measured at the beginning of, and periodically during treatment.
 
-## 5.9 Leukopenia, Neutropenia and Agranulocytosis
+## 5.10 Leukopenia, Neutropenia and Agranulocytosis
 
 In clinical trials and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to atypical antipsychotic agents, including quetiapine fumarate.
 Agranulocytosis (including fatal cases) has also been reported.
@@ -345,14 +350,14 @@ Patients with a pre-existing low WBC or a history of drug induced leukopenia/neu
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue SEROQUEL XR and have their WBC followed until recovery.
 
-## 5.10 Cataracts
+## 5.11 Cataracts
 
 The development of cataracts was observed in association with quetiapine treatment in chronic dog studies [see Nonclinical Toxicology (13.2)].
 Lens changes have also been observed in adults, children, and adolescents during long-term quetiapine treatment but a causal relationship to quetiapine use has not been established.
 Nevertheless, the possibility of lenticular changes cannot be excluded at this time.
 Therefore, examination of the lens by methods adequate to detect cataract formation, such as slit lamp exam or other appropriately sensitive methods, is recommended at initiation of treatment or shortly thereafter, and at 6-month intervals during chronic treatment.
 
-## 5.11 QT Prolongation
+## 5.12 QT Prolongation
 
 In clinical trials quetiapine was not associated with a persistent increase in QT intervals.
 However, the QT effect was not systematically evaluated in a thorough QT study.
@@ -364,14 +369,14 @@ Quetiapine should also be avoided in circumstances that may increase the risk of
 
 Caution should also be exercised when quetiapine is prescribed in patients with increased risk of QT prolongation (e.g., cardiovascular disease, family history of QT prolongation, the elderly, congestive heart failure and heart hypertrophy).
 
-## 5.12 Seizures
+## 5.13 Seizures
 
 During short-term clinical trials with SEROQUEL XR, seizures occurred in 0.05% (1/1866) of patients treated with SEROQUEL XR across all indications compared to 0.3% (3/928) on placebo.
 During clinical trials with SEROQUEL, seizures occurred in 0.5% (20/3490) of patients treated with SEROQUEL compared to 0.2% (2/954) on placebo.
 As with other antipsychotics, quetiapine fumarate should be used cautiously in patients with a history of seizures or with conditions that potentially lower the seizure threshold, e.g., Alzheimer’s dementia.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
-## 5.13 Hypothyroidism
+## 5.14 Hypothyroidism
 
 Adults: Clinical trials with quetiapine demonstrated dose-related decreases in thyroid hormone levels.
 The reduction in total and free thyroxine (T4) of approximately 20% at the higher end of the therapeutic dose range was maximal in the first six weeks of treatment and maintained without adaptation or progression during more chronic therapy.
@@ -384,14 +389,13 @@ In SEROQUEL XR clinical trials across all indications 1.8% (24/1336) of patients
 About 0.7% (26/3489) of SEROQUEL patients did experience TSH increases in monotherapy studies.
 Some patients with TSH increases needed replacement thyroid treatment.
 
-In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were Based on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is > 5 mIU/L at any time.: decrease in free T4 (<0.8 LLN), 2.0% (357/17513); decrease in total T4, 4.0% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2.0% (26/1312), and increase in TSH, 4.9% (956/19412).
+In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were: decrease in free T4 (<0.8 LLN), 2.0% (357/17513); decrease in total T4, 4.0% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2.0% (26/1312), and increase in TSH, 4.9% (956/19412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 11 shows the incidence of these shifts in short term placebo-controlled clinical trials.
 
-- Table 11: Incidence of shifts in thyroid hormone levels and TSH in short term placebo-controlled clinical trialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-  Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any time., Includes SEROQUEL and SEROQUEL XR data.
+Table 11: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short Term Placebo-Controlled Clinical TrialsBased on shifts from normal baseline to potentially clinically important value at any time post-baseline.
+Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is > 5 mIU/L at any timeIncludes SEROQUEL and SEROQUEL XR data.
 
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -405,7 +409,7 @@ Children and Adolescents: Safety and effectiveness of SEROQUEL XR is supported b
 In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts at any time for SEROQUEL treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145), respectively.
 Of the SEROQUEL treated patients with elevated TSH levels, 1 had simultaneous low free T4 level at end of treatment.
 
-## 5.14 Hyperprolactinemia
+## 5.15 Hyperprolactinemia
 
 Adults: During clinical trials with quetiapine across all indications, the incidence of shifts in prolactin levels to a clinically significant value occurred in 3.6% (158/4416) of patients treated with quetiapine compared to 2.6% (51/1968) on placebo.
 
@@ -422,7 +426,7 @@ Tissue culture experiments indicate that approximately one-third of human breast
 As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive [see Nonclinical Toxicology (13.1)].
 
-## 5.15 Potential for Cognitive and Motor Impairment
+## 5.16 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse reaction reported in patients treated with quetiapine especially during the 3-day period of initial dose titration.
 In schizophrenia trials, somnolence was reported in 24.7% (235/951) of patients on SEROQUEL XR compared to 10.3% (33/319) of placebo patients.
@@ -434,18 +438,18 @@ Somnolence may lead to falls.
 In short-term adjunctive therapy trials for MDD, somnolence was reported in 40% (252/627) of patients on SEROQUEL XR respectively compared to 9% (27/309) of placebo patients.
 Somnolence was dose-related in these trials (37% (117/315) and 43% (135/312) for the 150 mg and 300 mg groups, respectively).
 
-## 5.16 Body Temperature Regulation
+## 5.17 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
-Appropriate care is advised when prescribing SEROQUEL XR for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, eg, exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
+Appropriate care is advised when prescribing SEROQUEL XR for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
 
-## 5.17 Dysphagia
+## 5.18 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer's dementia.
 SEROQUEL XR and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 
-## 5.18 Discontinuation Syndrome
+## 5.19 Discontinuation Syndrome
 
 Acute withdrawal symptoms, such as insomnia, nausea and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including quetiapine fumarate.
 In short-term placebo-controlled, monotherapy clinical trials with SEROQUEL XR that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1993) for SEROQUEL XR and 6.7% (71/1065) for placebo.

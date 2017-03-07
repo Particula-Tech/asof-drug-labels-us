@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-SEROQUEL XR (SER-oh-kwell)
+SEROQUEL XR (SER-oh-kwell X-R)
 
 (quetiapine fumarate)
 
@@ -17,7 +17,8 @@ SEROQUEL XR may cause serious side effects, including:
 1. 1. risk of death in the elderly with dementia: Medicines like SEROQUEL XR can increase the risk of death in elderly people who have memory loss (dementia).
    SEROQUEL XR is not for treating psychosis in the elderly with dementia.
 2. 2. risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions).
-3. • Talk to your, or your family member’s, healthcare provider about:
+
+Talk to your, or your family member’s, healthcare provider about:
 
 o all risks and benefits of treatment with antidepressant medicines
 
@@ -154,7 +155,7 @@ What are possible side effects of SEROQUEL XR?
 SEROQUEL XR can cause serious side effects, including:
 
 1. • See “What is the most important information I should know about SEROQUEL XR?”
-2. • stroke that can lead to death can happen in elderly people with dementia who take medicines like SEROQUEL
+2. • stroke that can lead to death can happen in elderly people with dementia who take medicines like SEROQUEL XR
 3. • neuroleptic malignant syndrome (NMS).
    NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including SEROQUEL XR.
    NMS can cause death and must be treated in a hospital.
@@ -164,12 +165,14 @@ SEROQUEL XR can cause serious side effects, including:
 6. o rigid muscles
 7. o confusion
 8. o changes in your breathing, heartbeat, and blood pressure
-9. • high blood sugar (hyperglycemia).
-   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
-   High blood sugar could lead to:
-10. o build up of acid in your blood due to ketones (ketoacidosis)
-11. o coma
-12. o death
+9. • falls can happen in some people who take SEROQUEL XR.
+   These falls may cause serious injuries.
+10. •high blood sugar (hyperglycemia).
+    High blood sugar can happen if you have diabetes already or if you have never had diabetes.
+    High blood sugar could lead to:
+11. o build up of acid in your blood due to ketones (ketoacidosis)
+12. o coma
+13. o death
 
 Increases in blood sugar can happen in some people who take SEROQUEL XR.
 Extremely high blood sugar can lead to coma or death.

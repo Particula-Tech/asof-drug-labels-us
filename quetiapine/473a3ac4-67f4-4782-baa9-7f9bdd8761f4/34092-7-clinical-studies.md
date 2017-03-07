@@ -11,7 +11,7 @@ SEROQUEL XR doses of 400 mg, 600 mg and 800 mg once daily were superior to place
 
 Short-term Trials –Adolescents (ages 13-17)
 
-The efficacy of SEROQUEL XR in the treatment of schizophrenia in adolescents (13–17 years of age) was supported by a 6-week, double-blind, placebo-controlled trial.
+The efficacy of SEROQUEL XR in the treatment of schizophrenia in adolescents (13-17 years of age) was supported by a 6-week, double-blind, placebo-controlled trial.
 Patients who met DSM-IV diagnostic criteria for schizophrenia were randomized into one of three treatment groups: SEROQUEL 400 mg/day (n = 73), SEROQUEL 800 mg/day (n = 74), or placebo (n = 75).
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/per day (divided and given two or three times per day).
 Subsequently, the dose was titrated to the target dose of 400 mg/day or 800 mg/day using increments of 100 mg/day, divided and given two or three times daily.
@@ -154,7 +154,7 @@ The efficacy of SEROQUEL in the maintenance treatment of bipolar I disorder was 
 The trials included patients whose most recent episode was manic, depressed, or mixed, with or without psychotic features.
 In the open-label phase, patients were required to be stable on SEROQUEL plus lithium or divalproex for at least 12 weeks in order to be randomized.
 On average, patients were stabilized for 15 weeks.
-In the randomization phase, patients continued treatment with lithium or divalproex and were randomized to receive either SEROQUEL (administered twice daily totaling 400 mg/day to 800 mg/day or placebo.
+In the randomization phase, patients continued treatment with lithium or divalproex and were randomized to receive either SEROQUEL (administered twice-daily totaling 400 mg/day to 800 mg/day) or placebo.
 Approximately 50% of the patients had discontinued from the SEROQUEL group by day 280 and 50% of the placebo group had discontinued by day 117 of double-blind treatment.
 The primary endpoint in these studies was time to recurrence of a mood event (manic, mixed or depressed episode).
 A mood event was defined as medication initiation or hospitalization for a mood episode; YMRS score ≥ 20 or MADRS score ≥ 20 at 2 consecutive assessments; or study discontinuation due to a mood event.
