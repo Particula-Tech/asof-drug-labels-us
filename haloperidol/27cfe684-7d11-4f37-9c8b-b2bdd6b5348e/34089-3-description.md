@@ -5,7 +5,3 @@ The chemical designation is 4-[4-(p-chlorophenyl)-4-hydroxypiperidino]-4'-fluoro
 
 HALDOL (haloperidol) is available as a sterile parenteral form for intramuscular injection.
 The injection provides 5 mg haloperidol (as the lactate) and lactic acid for pH adjustment between 3.0 – 3.6.
-
-## ACTIONS
-
-The precise mechanism of action has not been clearly established.

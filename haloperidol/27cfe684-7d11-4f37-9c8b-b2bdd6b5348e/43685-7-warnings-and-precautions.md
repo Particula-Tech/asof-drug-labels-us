@@ -54,6 +54,11 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 Hyperpyrexia and heat stroke, not associated with the above symptom complex, have also been reported with HALDOL.
 
+## Falls
+
+Motor instability, somnolence, and orthostatic hypotension have been reported with the use of antipsychotics, including HALDOL, which may lead to falls and, consequently, fractures or other fall-related injuries.
+For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently for patients receiving repeated doses.
+
 ## Usage in Pregnancy
 
 Rodents given 2 to 20 times the usual maximum human dose of haloperidol by oral or parenteral routes showed an increase in incidence of resorption, reduced fertility, delayed delivery and pup mortality.
