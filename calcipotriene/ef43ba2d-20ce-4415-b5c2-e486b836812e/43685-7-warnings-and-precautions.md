@@ -3,7 +3,7 @@
 ## 5.1 Hypercalcemia and Hypercalciuria
 
 Hypercalcemia and hypercalciuria have been observed with use of Taclonex® Ointment.
-If hypercalcemia or hypercalciuria develop, treatment should be discontinued until parameters of calcium metabolism have normalized.
+If hypercalcemia or hypercalciuria develops, treatment should be discontinued until parameters of calcium metabolism have normalized.
 In the trials that included assessment of the effects of Taclonex® Ointment on calcium metabolism, such testing was done after 4 weeks of treatment.
 The effects of Taclonex® Ointment on calcium metabolism following treatment durations of longer than 4 weeks have not been evaluated.
 [See Clinical Pharmacology (12.2)]

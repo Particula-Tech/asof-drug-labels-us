@@ -128,7 +128,7 @@ You can ask your doctor or pharmacist for information about Taclonex® Ointment 
 
 What are the ingredients in Taclonex® Ointment?
 Active ingredients: calcipotriene hydrate, betamethasone dipropionate.
-Inactive ingredients: butylhydroxytoluene, mineral oil, PPG-11 stearyl ether, all-rac-alpha-tocopherol, white petrolatum.
+Inactive ingredients: butylhydroxytoluene, mineral oil, polyoxypropylene stearyl ether, all-rac-alpha-tocopherol, white petrolatum.
 
 Manufactured by:
 
@@ -140,12 +140,8 @@ Distributed by:
 
 LEO Pharma Inc.
 
-1 Sylvan Way,Parsippany,NJ07054USA
+Seven Giralda Farms, Madison, New Jersey 07940 USA
 
 1-877-494-4536
 
-U.S.Patent Nos.: RE39,706 E and 6,753,013.
-
-024598-01
-
-024599-01
+Revised: 01/2017

@@ -14,3 +14,17 @@ Inform patients of the following:
 - Wash hands after application.
 - Instruct patients not to use other products containing calcipotriene or a corticosteroid should not be used with Taclonex® Ointment without first talking to the physician.
 - Instruct patients who use Taclonex® Ointment to avoid excessive exposure to either natural or artificial sunlight (including tanning booths, sun lamps, etc.).
+
+Manufactured by:
+
+LEO Laboratories Ltd. (LEO Pharma)
+
+Dublin, Ireland
+
+Distributed by:
+
+LEO Pharma Inc.
+
+Seven Giralda Farms,, Madison, New Jersey 07940 USA
+
+1-877-494-4536

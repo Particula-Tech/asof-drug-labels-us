@@ -15,7 +15,7 @@ The relevance of these findings to patients is unknown.
 
 When betamethasone dipropionate was applied topically to CD-1 mice for up to 24 months at dosages approximating 1.3, 4.2 and 8.5 mcg/kg/day in females, and 1.3, 4.2, and 12.9 mcg/kg/day in males (corresponding to dosages of up to approximately 26 mcg/m2/day and 39 mcg/m2/day, in females and males, respectively), no significant changes in tumor incidence were observed when compared to control.
 
-When betamethasone dipropionate was administered via oral gavage to male and female Sprague Dawley rats for up to 24 months at dosages of 20, 60, and 200 mcg/kg/day (corresponding to dosages of approximately 120, 360, and 1200 mcg/m2/day), no significant changes in tumor incidence were observed when compared to control.
+When betamethasone dipropionate was administered via oral gavage to male and female Sprague Dawley rats for up to 24 months at dosages of 20, 60, and 200 mcg/kg/day (corresponding to dosages of approximately 3, 10, and 30 mcg/m2/day), no significant changes in tumor incidence were observed when compared to control.
 
 Calcipotriene did not elicit any genotoxic effects in the Ames mutagenicity assay, the mouse lymphoma TK locus assay, the human lymphocyte chromosome aberration test, or the mouse micronucleus test.
 Betamethasone dipropionate did not elicit any genotoxic effects in the Ames mutagenicity assay, the mouse lymphoma TK locus assay, or in the rat micronucleus test.
