@@ -43,7 +43,7 @@ Use of FARXIGA is not recommended in patients with an eGFR persistently between 
 
 There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including FARXIGA.
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
-Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6.2)].
+Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
 ## 5.5 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 

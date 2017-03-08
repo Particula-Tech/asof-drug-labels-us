@@ -198,3 +198,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Ketoacidosis [see Warnings and Precautions (5.2)]
 - •Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.3)]
 - •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
+- •Rash
