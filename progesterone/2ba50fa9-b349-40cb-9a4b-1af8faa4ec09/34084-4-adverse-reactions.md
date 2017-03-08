@@ -4,14 +4,14 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety data reflect exposure to Endometrin in 808 infertile women (74.9% White, 10.3% Hispanic, 5.4% Black, 5% Asian, and 4.6% Other) in a single Assisted Reproductive Technology 10 week clinical study conducted in the U.S. Endometrin was studied at doses of 100 mg twice daily and 100 mg three times daily.
-The adverse reactions that occurred at a rate greater than or equal to 2% in either Endometrin group are summarized in Table 1.
+The safety data reflect exposure to ENDOMETRIN in 808 infertile women (74.9% White, 10.3% Hispanic, 5.4% Black, 5% Asian, and 4.6% Other) in a single Assisted Reproductive Technology 10 week clinical study conducted in the U.S. ENDOMETRIN was studied at doses of 100 mg twice daily and 100 mg three times daily.
+The adverse reactions that occurred at a rate greater than or equal to 2% in either ENDOMETRIN group are summarized in Table 1.
 
-Table 1: Number and Frequency of Reported Adverse Reactions in Women Treated with Endometrin in an Assisted Reproductive Technology Study FULL PRESCRIBING INFORMATION
+Table 1: Number and Frequency of Reported Adverse Reactions in Women Treated with ENDOMETRIN in an Assisted Reproductive Technology Study
 
 | Preferred Term |  |  |
 | --- | --- | --- |
-| Body System | Endometrin 100 mg twice daily (N=404) | Endometrin 100 mg three times daily (N=404) |
+| Body System | ENDOMETRIN 100 mg twice daily (N=404) | ENDOMETRIN 100 mg three times daily (N=404) |
 | Gastrointestinal Disorders |  |  |
 | Abdominal pain | 50 (12%) | 50 (12%) |
 | Nausea | 32 (8%) | 29 (7%) |
@@ -35,4 +35,4 @@ Other less common reported adverse reactions included vaginal irritation, itchin
 
 ## 6.2 Expected Adverse Reaction Profile Seen with Progesterone
 
-Endometrin is also expected to have adverse reactions similar to other drugs containing progesterone that may include breast tenderness, bloating, mood swings, irritability, and drowsiness.
+ENDOMETRIN is also expected to have adverse reactions similar to other drugs containing progesterone that may include breast tenderness, bloating, mood swings, irritability, and drowsiness.

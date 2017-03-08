@@ -11,15 +11,15 @@ Once an embryo is implanted, progesterone acts to maintain a pregnancy.
 
 Absorption
 
-Progesterone serum concentrations increased following the administration of the Endometrin Vaginal Insert in 12 healthy pre-menopausal females.
-On single dosing, the mean Cmax was 17.0 ng/mL in the Endometrin twice daily group and 19.8 ng/mL in the Endometrin three times daily group.
-On multiple dosing, steady-state concentrations were attained within approximately 1 day after initiation of treatment with Endometrin.
-Both Endometrin regimens provided average serum concentrations of progesterone exceeding 10 ng/mL on Day 5.
+Progesterone serum concentrations increased following the administration of the ENDOMETRIN Vaginal Insert in 12 healthy pre-menopausal females.
+On single dosing, the mean Cmax was 17.0 ng/mL in the ENDOMETRIN twice daily group and 19.8 ng/mL in the ENDOMETRIN three times daily group.
+On multiple dosing, steady-state concentrations were attained within approximately 1 day after initiation of treatment with ENDOMETRIN.
+Both ENDOMETRIN regimens provided average serum concentrations of progesterone exceeding 10 ng/mL on Day 5.
 The pharmacokinetic results are summarized in Table 2.
 
 Table 2: Mean (±Standard Deviation) Serum Progesterone Pharmacokinetic Parameters
 
-| Pharmacokinetic Parameter (unit) | Endometrin 100 mg twice daily (N=6) | Endometrin 100 mg three times daily (N=6) |
+| Pharmacokinetic Parameter (unit) | ENDOMETRIN 100 mg twice daily (N=6) | ENDOMETRIN 100 mg three times daily (N=6) |
 | --- | --- | --- |
 | Single Dosing |  |  |
 | Cmax (ng/mL) | 17.0 ± 6.5 | 19.8 ± 7.2 |
@@ -43,7 +43,7 @@ Progesterone is approximately 96% to 99% bound to serum proteins, primarily to s
 
 Metabolism
 
-Progesterone is metabolized primarily by the liver largely to pregnanediols and pregnanolones.
+Progesterone is metabolized primarily by the liver, largely to pregnanediols and pregnanolones.
 Pregnanediols and pregnanolones are conjugated in the liver to glucuronide and sulfate metabolites.
 Progesterone metabolites that are excreted in the bile may be deconjugated and may be further metabolized in the gut via reduction, dehydroxylation, and epimerization.
 
