@@ -12,12 +12,13 @@ The following adverse reactions are discussed in more detail in other sections o
 - •Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.6)]
 - •Pathological Gambling and Other Compulsive Behaviors [see WARNINGS AND PRECAUTIONS (5.7)]
 - •Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.8)]
-- •Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.9)]
-- •Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.10)]
-- •Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.11)]
-- •Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.12)]
-- •Suicide [see WARNINGS AND PRECAUTIONS (5.13)]
-- •Dysphagia [see WARNINGS AND PRECAUTIONS (5.14)]
+- •Falls [see WARNINGS AND PRECAUTIONS (5.9)]
+- •Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.10)]
+- •Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.11)]
+- •Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.12)]
+- •Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.13)]
+- •Suicide [see WARNINGS AND PRECAUTIONS (5.14)]
+- •Dysphagia [see WARNINGS AND PRECAUTIONS (5.15)]
 
 The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
 
@@ -51,7 +52,7 @@ Commonly Observed Adverse Reactions
 
 Commonly observed adverse reactions associated with the use of ABILIFY in patients with bipolar mania (incidence of 5% or greater and ABILIFY incidence at least twice that for placebo) are shown in Table 16.
 
-Table 16:Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Adult Patients with Bipolar Mania Treated with Oral ABILIFY Monotherapy
+Table 16: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Adult Patients with Bipolar Mania Treated with Oral ABILIFY Monotherapy
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -67,7 +68,7 @@ Table 16:Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled T
 
 Table 17 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia and up to 3 weeks in bipolar mania), including only those reactions that occurred in 2% or more of patients treated with ABILIFY (doses ≥2 mg/day) and for which the incidence in patients treated with ABILIFY was greater than the incidence in patients treated with placebo in the combined dataset.
 
-Table 17:Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Patients Treated with Oral ABILIFY
+Table 17: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Patients Treated with Oral ABILIFY
 
 |  | Percentage of Patients Reporting Reactiona |  |
 | --- | --- | --- |
@@ -129,7 +130,7 @@ The commonly observed adverse reactions associated with adjunctive ABILIFY and l
 
 Table 18 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during acute treatment (up to 6 weeks), including only those reactions that occurred in 2% or more of patients treated with adjunctive ABILIFY (doses of 15 or 30 mg/day) and lithium or valproate and for which the incidence in patients treated with this combination was greater than the incidence in patients treated with placebo plus lithium or valproate.
 
-Table 18:Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
+Table 18: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
 
 |  | Percentage of Patients Reporting Reactiona |  |
 | --- | --- | --- |
@@ -154,7 +155,7 @@ Table 18:Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjuncti
 | Insomnia | 8 | 4 |
 | Anxiety | 4 | 1 |
 | Restlessness | 2 | 1 |
-| aAdverse reactions reported by at least 2% of patients treated with oral ABILIFY, except adverse reactions which had an incidence equal to or less than placebo.* Lithium or Valproate |  |  |
+| aAdverse reactions reported by at least 2% of patients treated with oral ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. * Lithium or Valproate |  |  |
 
 ### Pediatric Patients (13 to 17 years) with Schizophrenia
 
@@ -180,7 +181,7 @@ Commonly Observed Adverse Reactions
 
 Commonly observed adverse reactions associated with the use of ABILIFY in pediatric patients with bipolar mania (incidence of 5% or greater and ABILIFY incidence at least twice that for placebo) are shown in Table 19.
 
-Table 19:Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (10 to 17 years) with Bipolar Mania Treated with Oral ABILIFY
+Table 19: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (10 to 17 years) with Bipolar Mania Treated with Oral ABILIFY
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -207,7 +208,7 @@ Commonly Observed Adverse Reactions
 
 Commonly observed adverse reactions associated with the use of ABILIFY in pediatric patients with autistic disorder (incidence of 5% or greater and ABILIFY incidence at least twice that for placebo) are shown in Table 20.
 
-Table 20:Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 17 years) with Autistic Disorder Treated with Oral ABILIFY
+Table 20: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 17 years) with Autistic Disorder Treated with Oral ABILIFY
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -237,7 +238,7 @@ Commonly Observed Adverse Reactions
 
 Commonly observed adverse reactions associated with the use of ABILIFY in pediatric patients with Tourette's disorder (incidence of 5% or greater and ABILIFY incidence at least twice that for placebo) are shown in Table 21.
 
-Table 21:Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) with Tourette's Disorder Treated with Oral ABILIFY
+Table 21: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) with Tourette's Disorder Treated with Oral ABILIFY
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -255,7 +256,7 @@ Table 21:Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled T
 
 Table 22 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia, up to 4 weeks in bipolar mania, up to 8 weeks in autistic disorder, and up to 10 weeks in Tourette’s disorder), including only those reactions that occurred in 2% or more of pediatric patients treated with ABILIFY (doses ≥2 mg/day) and for which the incidence in patients treated with ABILIFY was greater than the incidence in patients treated with placebo.
 
-Table 22:Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) Treated with Oral ABILIFY
+Table 22: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) Treated with Oral ABILIFY
 
 |  | Percentage of Patients Reporting Reactiona |  |
 | --- | --- | --- |
@@ -319,7 +320,7 @@ Less Common Adverse Reactions in Adult Patients with Major Depressive Disorder
 
 Table 23 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks), including only those adverse reactions that occurred in 2% or more of patients treated with adjunctive ABILIFY (doses ≥2 mg/day) and for which the incidence in patients treated with adjunctive ABILIFY was greater than the incidence in patients treated with adjunctive placebo in the combined dataset.
 
-Table 23:Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
+Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
 
 |  | Percentage of Patients Reporting Reactiona |  |
 | --- | --- | --- |
@@ -352,7 +353,7 @@ Table 23:Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials i
 | Psychiatric Disorders |  |  |
 | Restlessness | 12 | 2 |
 | Insomnia | 8 | 2 |
-| aAdverse reactions reported by at least 2% of patients treated with adjunctive ABILIFY, except adverse reactions which had an incidence equal to or less than placebo.* Antidepressant Therapy |  |  |
+| aAdverse reactions reported by at least 2% of patients treated with adjunctive ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. * Antidepressant Therapy |  |  |
 
 ### Patients with Agitation Associated with Schizophrenia or Bipolar Mania (Intramuscular Injection)
 
@@ -366,7 +367,7 @@ Less Common Adverse Reactions in Patients with Agitation Associated with Schizop
 
 Table 24 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (24-hour), including only those adverse reactions that occurred in 2% or more of patients treated with ABILIFY injection (doses ≥5.25 mg/day) and for which the incidence in patients treated with ABILIFY injection was greater than the incidence in patients treated with placebo in the combined dataset.
 
-Table 24:Adverse Reactions in Short-Term, Placebo-Controlled Trials in Patients Treated with ABILIFY Injection
+Table 24: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Patients Treated with ABILIFY Injection
 
 |  | Percentage of Patients Reporting Reactiona |  |
 | --- | --- | --- |
@@ -486,75 +487,75 @@ Adults - Oral Administration
 
 Blood and Lymphatic System Disorders:
 
-- rare - thrombocytopenia
+1. rare - thrombocytopenia
 
 Cardiac Disorders:
 
-- infrequent – bradycardia, palpitations, rare – atrial flutter, cardio-respiratory arrest, atrioventricular block, atrial fibrillation, angina pectoris, myocardial ischemia, myocardial infarction, cardiopulmonary failure
+1. infrequent – bradycardia, palpitations, rare – atrial flutter, cardio-respiratory arrest, atrioventricular block, atrial fibrillation, angina pectoris, myocardial ischemia, myocardial infarction, cardiopulmonary failure
 
 Eye Disorders:
 
-- infrequent – photophobia; rare - diplopia
+1. infrequent – photophobia; rare - diplopia
 
 Gastrointestinal Disorders:
 
-- infrequent - gastroesophageal reflux disease
+1. infrequent - gastroesophageal reflux disease
 
 General Disorders and Administration Site Conditions:
 
-- frequent - asthenia; infrequent – peripheral edema, chest pain; rare – face edema
+1. frequent - asthenia; infrequent – peripheral edema, chest pain; rare – face edema
 
 Hepatobiliary Disorders:
 
-- rare - hepatitis, jaundice
+1. rare - hepatitis, jaundice
 
 Immune System Disorders:
 
-- rare - hypersensitivity
+1. rare - hypersensitivity
 
 Injury, Poisoning, and Procedural Complications:
 
-- infrequent – fall; rare – heat stroke
+1. infrequent – fall; rare – heat stroke
 
 Investigations:
 
-- frequent - weight decreased, infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
+1. frequent - weight decreased, infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
 
 Metabolism and Nutrition Disorders:
 
-- frequent – anorexia; infrequent - rare - hypokalemia, hyponatremia, hypoglycemia
+1. frequent – anorexia; rare - hypokalemia, hyponatremia, hypoglycemia
 
 Musculoskeletal and Connective Tissue Disorders:
 
-- infrequent - muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility decreased
+1. infrequent - muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility decreased
 
 Nervous System Disorders:
 
-- infrequent - parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, myoclonus, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; <1/10,000 patients - choreoathetosis
+1. infrequent - parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; <1/10,000 patients - choreoathetosis
 
 Psychiatric Disorders:
 
-- infrequent – aggression, loss of libido, delirium; rare – libido increased, anorgasmia, tic, homicidal ideation, catatonia, sleep walking
+1. infrequent – aggression, loss of libido, delirium; rare – libido increased, anorgasmia, tic, homicidal ideation, catatonia, sleep walking
 
 Renal and Urinary Disorders:
 
-- rare - urinary retention, nocturia
+1. rare - urinary retention, nocturia
 
 Reproductive System and Breast Disorders:
 
-- infrequent - erectile dysfunction; rare – gynaecomastia, menstruation irregular, amenorrhea, breast pain, priapism
+1. infrequent - erectile dysfunction; rare – gynaecomastia, menstruation irregular, amenorrhea, breast pain, priapism
 
 Respiratory, Thoracic, and Mediastinal Disorders:
 
-- infrequent - nasal congestion, dyspnea
+1. infrequent - nasal congestion, dyspnea
 
 Skin and Subcutaneous Tissue Disorders:
 
-- infrequent - rash, hyperhidrosis, pruritus, photosensitivity reaction, alopecia; rare - urticaria
+1. infrequent - rash, hyperhidrosis, pruritus, photosensitivity reaction, alopecia; rare - urticaria
 
 Vascular Disorders:
 
-- infrequent – hypotension, hypertension
+1. infrequent – hypotension, hypertension
 
 ### Pediatric Patients - Oral Administration
 
@@ -563,27 +564,27 @@ Additional adverse reactions observed in the pediatric population are listed bel
 
 Eye Disorders
 
-- infrequent - oculogyric crisis
+1. infrequent - oculogyric crisis
 
 Gastrointestinal Disorders:
 
-- infrequent -tongue dry, tongue spasm
+1. infrequent -tongue dry, tongue spasm
 
 Investigations:
 
-- frequent - blood insulin increased
+1. frequent - blood insulin increased
 
 Nervous System Disorders:
 
-- infrequent - sleep talking
+1. infrequent - sleep talking
 
 Renal and Urinary Disorders
 
-- frequent – enuresis
+1. frequent – enuresis
 
 Skin and Subcutaneous Tissue Disorders:
 
-- infrequent - hirsutism
+1. infrequent - hirsutism
 
 ### Adults - Intramuscular Injection
 
@@ -592,7 +593,7 @@ Additional adverse reactions observed in the ABILIFY injection population are li
 
 General Disorders and Administration Site Conditions:
 
-- ≥1/100 patients - injection site reaction; ≥1/1000 patients and <1/100 patients - venipuncture site bruise
+1. ≥1/100 patients - injection site reaction; ≥1/1000 patients and <1/100 patients - venipuncture site bruise
 
 ## 6.2 Postmarketing Experience
 

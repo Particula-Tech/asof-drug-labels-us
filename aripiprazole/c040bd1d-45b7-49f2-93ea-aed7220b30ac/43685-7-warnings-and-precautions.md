@@ -49,7 +49,7 @@ Table 5:
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
 
-It is unknown whether the suicidality risk extends to longer-term use, ie, beyond several months.
+It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
 
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
@@ -167,7 +167,7 @@ In an analysis of two placebo-controlled trials in pediatric and adolescent pati
 
 Table 8 shows the proportion of patients with changes in fasting glucose levels from the pooled adolescent schizophrenia and pediatric bipolar patients (median exposure of 42-43 days), from two placebo-controlled trials in pediatric patients (6 to 17 years) with irritability associated with autistic disorder (median exposure of 56 days), and from the two placebo-controlled trials in pediatric patients (6 to 18 year) with Tourette’s Disorder (median exposure 57 days).
 
-Table 8:Changes in Fasting Glucose From Placebo-Controlled Trials in Pediatric and Adolescent Patients
+Table 8: Changes in Fasting Glucose From Placebo-Controlled Trials in Pediatric and Adolescent Patients
 
 | Category Change (at least once) from Baseline | Indication | Treatment Arm | n/N | % |
 | --- | --- | --- | --- | --- |
@@ -176,7 +176,7 @@ Table 8:Changes in Fasting Glucose From Placebo-Controlled Trials in Pediatric a
 | Irritability Associated with Autistic Disorder | ABILIFY | 0/73 | 0 |  |
 | Placebo | 0/32 | 0 |  |  |
 | Tourette’s Disorder | ABILIFY | 3/88 | 3.4 |  |
-|  | 1/58 | 1.7 |  |  |
+| Placebo | 1/58 | 1.7 |  |  |
 | Fasting GlucoseBorderline to High(≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Pooled Schizophrenia and Bipolar Disorder | ABILIFY | 1/22 | 4.5 |
 | Placebo | 0/12 | 0 |  |  |
 | Irritability Associated with Autistic Disorder | ABILIFY | 0/9 | 0 |  |
@@ -231,7 +231,7 @@ Table 10: Changes in Blood Lipid Parameters From Placebo-Controlled Adjunctive T
 
 Table 11 shows the proportion of adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years) with changes in total cholesterol and HDL cholesterol (pooled from two placebo-controlled trials; median exposure 42 to 43 days) and fasting triglycerides (pooled from two placebo-controlled trials; median exposure 42 to 44 days).
 
-Table 11:Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients in Schizophrenia and Bipolar Disorder
+Table 11: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients in Schizophrenia and Bipolar Disorder
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -246,7 +246,7 @@ In monotherapy trials of adolescents with schizophrenia and pediatric patients w
 
 Table 12 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting) and fasting triglycerides (median exposure 56 days) and HDL cholesterol (median exposure 55 to 56 days) from two placebo-controlled trials in pediatric patients (6 to 17 years) with irritability associated with autistic disorder.
 
-Table 12:Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pediatric Patients with Autistic Disorder
+Table 12: Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pediatric Patients with Autistic Disorder
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -259,7 +259,7 @@ Table 12:Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Ped
 
 Table 13 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting) and fasting triglycerides (median exposure 57 days) and HDL cholesterol (median exposure 57 days) from two placebo-controlled trials in pediatric patients (6 to 18 years) with Tourette’s Disorder.
 
-Table 13:Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pediatric Patients with Tourette’s Disorder
+Table 13: Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pediatric Patients with Tourette’s Disorder
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -285,7 +285,7 @@ The mean change in body weight in patients receiving adjunctive ABILIFY was +1.7
 
 Table 14 shows the percentage of adult patients with weight gain ≥7% of body weight by indication.
 
-Table 14:Percentage of Patients From Placebo-Controlled Trials in Adult Patients with Weight Gain ≥7% of Body Weight
+Table 14: Percentage of Patients From Placebo-Controlled Trials in Adult Patients with Weight Gain ≥7% of Body Weight
 
 | Weight gain ≥7% of body weight | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -308,7 +308,7 @@ In two short-term, placebo-controlled trials in patients (6 to 18 years) with To
 
 Table 15 shows the percentage of pediatric and adolescent patients with weight gain ≥7% of body weight by indication.
 
-Table 15:Percentage of Patients From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients with Weight Gain ≥7% of Body Weight
+Table 15: Percentage of Patients From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients with Weight Gain ≥7% of Body Weight
 
 | Weight gain ≥7% of body weight | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -344,8 +344,7 @@ Consider dose reduction or stopping the medication if a patient develops such ur
 ## 5.8 Orthostatic Hypotension
 
 ABILIFY may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
-The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral ABILIFY (n=2467) included (ABILIFY incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral ABILIFY included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0 %), and syncope (0.2%, 0%); and of patients on ABILIFY Injection (n=501) included orthostatic hypotension (0.6%, 0%), postural dizziness (0.2%, 0.5%), and syncope (0.4%, 0%).
-[see ADVERSE REACTIONS (6.1)]
+The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral ABILIFY (n=2467) included (ABILIFY incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral ABILIFY included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0%), and syncope (0.2%, 0%); and of patients on ABILIFY Injection (n=501) included orthostatic hypotension (0.6%, 0%), postural dizziness (0.2%, 0.5%), and syncope (0.4%, 0%) [see ADVERSE REACTIONS (6.1)].
 
 The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 bpm when comparing standing to supine values) for ABILIFY was not meaningfully different from placebo (ABILIFY incidence, placebo incidence): in adult oral ABILIFY-treated patients (4%, 2%), in pediatric oral ABILIFY-treated patients aged 6 to 18 years (0.4%, 1%), or in ABILIFY injection-treated patients (3%, 2%).
 
@@ -353,7 +352,12 @@ ABILIFY should be used with caution in patients with known cardiovascular diseas
 
 If parenteral benzodiazepine therapy is deemed necessary in addition to ABILIFY injection treatment, patients should be monitored for excessive sedation and for orthostatic hypotension [seeDRUG INTERACTIONS (7.1)].
 
-## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
+## 5.9 Falls
+
+Antipsychotics, including ABILIFY, may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## 5.10 Leukopenia, Neutropenia, and Agranulocytosis
 
 In clinical trials and/or postmarketing experience, events of leukopenia and neutropenia have been reported temporally related to antipsychotic agents, including ABILIFY.
 Agranulocytosis has also been reported.
@@ -365,14 +369,14 @@ In such patients, consider discontinuation of ABILIFY at the first sign of a cli
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
 Discontinue ABILIFY in patients with severe neutropenia (absolute neutrophil count <1000/mm3) and follow their WBC counts until recovery.
 
-## 5.10 Seizures/Convulsions
+## 5.11 Seizures/Convulsions
 
 In short-term, placebo-controlled trials, patients with a history of seizures excluded seizures/convulsions occurred in 0.1% (3/2467) of undiagnosed adult patients treated with oral ABILIFY, in 0.1% (1/732) of pediatric patients (6 to 18 years), and in 0.2% (1/501) of adult ABILIFY injection-treated patients.
 
 As with other antipsychotic drugs, ABILIFY should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
-## 5.11 Potential for Cognitive and Motor Impairment
+## 5.12 Potential for Cognitive and Motor Impairment
 
 ABILIFY, like other antipsychotics, may have the potential to impair judgment, thinking, or motor skills.
 For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (ABILIFY incidence, placebo incidence): in adult patients (n=2467) treated with oral ABILIFY (11%, 6%), in pediatric patients ages 6 to 17 (n=611) (24%, 6%), and in adult patients (n=501) on ABILIFY Injection (9%, 6%).
@@ -380,17 +384,17 @@ Somnolence (including sedation) led to discontinuation in 0.3% (8/2467) of adult
 
 Despite the relatively modest increased incidence of these events compared to placebo, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that therapy with ABILIFY does not affect them adversely.
 
-## 5.12 Body Temperature Regulation
+## 5.13 Body Temperature Regulation
 
 Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing ABILIFY for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see ADVERSE REACTIONS (6.2)].
 
-## 5.13 Suicide
+## 5.14 Suicide
 
 The possibility of a suicide attempt is inherent in psychotic illnesses, bipolar disorder, and major depressive disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ABILIFY should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see ADVERSE REACTIONS (6.1, 6.2)].
 
-## 5.14 Dysphagia
+## 5.15 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use, including ABILIFY.
 Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer’s dementia.

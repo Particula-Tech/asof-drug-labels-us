@@ -33,7 +33,6 @@ Serious side effects may happen when you take ABILIFY, including:
 - •Increased risk of death in elderly patients with dementia-related psychosis: Medicines like ABILIFY can raise the risk of death in elderly people who have lost touch with reality (psychosis) due to confusion and memory loss (dementia).
   ABILIFY is not approved for the treatment of patients with dementia-related psychosis.
 - •Risk of suicidal thoughts or actions: Antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions:
-
 - 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 - 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.Some people may have a particularly high risk of having suicidal thoughts or actions.
   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
@@ -184,7 +183,6 @@ ABILIFY may cause serious side effects, including:
 - •Unusual urges.
   Some people taking ABILIFY have had unusual urges, such as gambling, binge eating or eating that you cannot control (compulsive), compulsive shopping and sexual urges.
 - If you or your family members notice that you are having unusual urges or behaviors, talk to your healthcare provider.
-
 - •Orthostatic hypotension (decreased blood pressure).
   Lightheadedness or fainting may happen when rising too quickly from a sitting or lying position.
 - •Low white blood cell count
@@ -211,7 +209,7 @@ The most common side effects of ABILIFY in children include:
 | •headache | •nausea |
 | •vomiting | •stuffy nose |
 | •fatigue | •weight gain |
-| •increased or decreased appetite | •uncontrolled movement such as restlessness, tremor, |
+| •increased or decreased appetite | •uncontrolled movement such as restlessness, tremor |
 | •increased saliva or drooling | •muscle stiffness |
 
 These are not all the possible side effects of ABILIFY.
@@ -262,4 +260,4 @@ ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
 © 2016, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: August 2016
+1. This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: August 2016

@@ -20,7 +20,7 @@ It should be noted that ABILIFY is not approved as a single agent for treatment 
 Pathological Gambling and Other Compulsive Behaviors
 
 Advise patients and their caregivers of the possibility that they may experience compulsive urges to shop, intense urges to gamble, compulsive sexual urges, binge eating and/or other compulsive urges and the inability to control these urges while taking aripiprazole.
-In some cases, but not all, the urges were reported to have stopped when the dose was reduced or stopped [see WARNINGS AND PRECAUTIONS (5.7)]
+In some cases, but not all, the urges were reported to have stopped when the dose was reduced or stopped [see WARNINGS AND PRECAUTIONS (5.7)].
 
 Use of Orally Disintegrating Tablet
 
@@ -35,7 +35,7 @@ Do not attempt to split the tablet.
 
 Interference with Cognitive and Motor Performance
 
-Because ABILIFY may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that ABILIFY therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.11)].
+Because ABILIFY may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that ABILIFY therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.12)].
 
 Nursing
 
@@ -47,7 +47,7 @@ Patients should be advised to inform their physicians if they are taking, or pla
 
 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see WARNINGS AND PRECAUTIONS (5.12)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see WARNINGS AND PRECAUTIONS (5.13)].
 
 Sugar Content
 
@@ -66,6 +66,6 @@ Distributed and marketed by Otsuka America Pharmaceutical, Inc., Rockville, MD 2
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-Rev 08/ 2016
+Rev 02/2017
 
-© 2016, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
+© 2017, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan

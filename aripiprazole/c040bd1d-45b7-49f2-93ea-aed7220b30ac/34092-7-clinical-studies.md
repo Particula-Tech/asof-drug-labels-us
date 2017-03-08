@@ -26,12 +26,12 @@ Efficacy was evaluated using the total score on the Positive and Negative Syndro
 The PANSS is a 30 item scale that measures positive symptoms of schizophrenia (7 items), negative symptoms of schizophrenia (7 items), and general psychopathology (16 items), each rated on a scale of 1 (absent) to 7 (extreme); total PANSS scores range from 30 to 210.
 The Clinical Global Impression (CGI) assessment reflects the impression of a skilled observer, fully familiar with the manifestations of schizophrenia, about the overall clinical state of the patient.
 
-- In a 4-week trial (n=414) comparing two fixed doses of ABILIFY (15 or 30 mg/day) to placebo, both doses of ABILIFY were superior to placebo in the PANSS total score (Study 1 in Table 26), PANSS positive subscale, and CGI-severity score.
-  In addition, the 15 mg dose was superior to placebo in the PANSS negative subscale.
-- In a 4-week trial (n=404) comparing two fixed doses of ABILIFY (20 or 30 mg/day) to placebo, both doses of ABILIFY were superior to placebo in the PANSS total score (Study 2 in Table 26), PANSS positive subscale, PANSS negative subscale, and CGI-severity score.
-- In a 6-week trial (n=420) comparing three fixed doses of ABILIFY (10, 15, or 20 mg/day) to placebo, all three doses of ABILIFY were superior to placebo in the PANSS total score (Study 3 in Table 26), PANSS positive subscale, and the PANSS negative subscale.
-- In a 6-week trial (n=367) comparing three fixed doses of ABILIFY (2, 5, or 10 mg/day) to placebo, the 10 mg dose of ABILIFY was superior to placebo in the PANSS total score (Study 4 in Table 26), the primary outcome measure of the study.
-  The 2 and 5 mg doses did not demonstrate superiority to placebo on the primary outcome measure.
+1. In a 4-week trial (n=414) comparing two fixed doses of ABILIFY (15 or 30 mg/day) to placebo, both doses of ABILIFY were superior to placebo in the PANSS total score (Study 1 in Table 26), PANSS positive subscale, and CGI-severity score.
+   In addition, the 15 mg dose was superior to placebo in the PANSS negative subscale.
+2. In a 4-week trial (n=404) comparing two fixed doses of ABILIFY (20 or 30 mg/day) to placebo, both doses of ABILIFY were superior to placebo in the PANSS total score (Study 2 in Table 26), PANSS positive subscale, PANSS negative subscale, and CGI-severity score.
+3. In a 6-week trial (n=420) comparing three fixed doses of ABILIFY (10, 15, or 20 mg/day) to placebo, all three doses of ABILIFY were superior to placebo in the PANSS total score (Study 3 in Table 26), PANSS positive subscale, and the PANSS negative subscale.
+4. In a 6-week trial (n=367) comparing three fixed doses of ABILIFY (2, 5, or 10 mg/day) to placebo, the 10 mg dose of ABILIFY was superior to placebo in the PANSS total score (Study 4 in Table 26), the primary outcome measure of the study.
+   The 2 and 5 mg doses did not demonstrate superiority to placebo on the primary outcome measure.
 
 Thus, the efficacy of 10, 15, 20, and 30 mg daily doses was established in two studies for each dose.
 Among these doses, there was no evidence that the higher dose groups offered any advantage over the lowest dose group of these studies.

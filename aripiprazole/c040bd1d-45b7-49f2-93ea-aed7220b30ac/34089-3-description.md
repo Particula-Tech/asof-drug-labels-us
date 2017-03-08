@@ -18,4 +18,4 @@ The inactive ingredients for this solution include disodium edetate, fructose, g
 The oral solution is flavored with natural orange cream and other natural flavors.
 
 ABILIFY Injection is available in single-dose vials as a ready-to-use, 9.75 mg/1.3 mL (7.5 mg/mL) clear, colorless, sterile, aqueous solution for intramuscular use only.
-Inactive ingredients for this solution include 199.5mg of sulfobutylether β-cyclodextrin (SBECD), 10.4 mg of tartaric acid, qs to pH 4.3 of sodium hydroxide, and qs to 1.33 mL of water for injection.
+Inactive ingredients for this solution include 199.5 mg of sulfobutylether β-cyclodextrin (SBECD), 10.4 mg of tartaric acid, qs to pH 4.3 of sodium hydroxide, and qs to 1.33 mL of water for injection.

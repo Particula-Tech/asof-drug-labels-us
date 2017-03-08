@@ -90,8 +90,7 @@ No additional benefit was demonstrated for 15 mg compared to 9.75 mg.
 A lower dose of 5.25 mg may be considered when clinical factors warrant.
 If agitation warranting a second dose persists following the initial dose, cumulative doses up to a total of 30 mg/day may be given.
 However, the efficacy of repeated doses of ABILIFY injection in agitated patients has not been systematically evaluated in controlled clinical trials.
-The safety of total daily doses greater than 30 mg or injections given more frequently than every 2 hours have not been adequately evaluated in clinical trials [see CLINICAL STUDIES (14.
-6)].
+The safety of total daily doses greater than 30 mg or injections given more frequently than every 2 hours have not been adequately evaluated in clinical trials [see CLINICAL STUDIES (14.6)].
 
 If ongoing ABILIFY therapy is clinically indicated, oral ABILIFY in a range of 10 to 30 mg/day should replace ABILIFY injection as soon as possible [see DOSAGE AND ADMINISTRATION (2.1 and 2.2)].
 
@@ -100,7 +99,7 @@ If ongoing ABILIFY therapy is clinically indicated, oral ABILIFY in a range of 1
 To administer ABILIFY Injection, draw up the required volume of solution into the syringe as shown in Table 1.
 Discard any unused portion.
 
-Table 1:ABILIFY Injection Dosing Recommendations
+Table 1: ABILIFY Injection Dosing Recommendations
 
 | Single-Dose | Required Volume of Solution |
 | --- | --- |

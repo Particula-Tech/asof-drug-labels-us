@@ -2,7 +2,7 @@
 
 ABILIFY® (aripiprazole) Tablets are available as described in Table 3.
 
-Table 3:ABILIFY Tablet Presentations
+Table 3: ABILIFY Tablet Presentations
 
 | TabletStrength | TabletColor/Shape | TabletMarkings |
 | --- | --- | --- |
