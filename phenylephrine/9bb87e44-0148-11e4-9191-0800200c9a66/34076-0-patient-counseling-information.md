@@ -4,9 +4,9 @@ If applicable, inform patient, family member, or caregiver that certain medical 
 
 Manufactured for:
 
-Éclat Pharmaceuticals
+Avadel Legacy Pharmaceuticals, LLC
 
-Chesterfield, MO 63005 USA
+Chesterfield, MO 63005
 
 Rev.
-02/16
+02/17

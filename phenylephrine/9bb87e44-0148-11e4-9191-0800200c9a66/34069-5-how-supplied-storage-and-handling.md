@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-VAZCULEP (phenylephrine hydrochloride) Injection, 10 mg/mL is supplied as follows:
+VAZCULEP (phenylephrine hydrochloride) Injection, 10 mg/mL, is supplied as follows:
 
 | NDC No. | Strength | How Supplied |
 | --- | --- | --- |

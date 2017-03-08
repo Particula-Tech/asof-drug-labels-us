@@ -6,7 +6,7 @@ Phenylephrine hydrochloride is an α-1 adrenergic receptor agonist.
 
 ## 12.2 Pharmacodynamics
 
-Interaction of phenylephrine with α1-adrenergic receptors on vascular smooth muscle cells causes activation of the cells and results in vasoconstriction.
+Interaction of phenylephrine with α-1 adrenergic receptors on vascular smooth muscle cells causes activation of the cells and results in vasoconstriction.
 Following phenylephrine hydrochloride intravenous administration, increases in systolic and diastolic blood pressures, mean arterial blood pressure, and total peripheral vascular resistance are observed.
 The onset of blood pressure increase following an intravenous bolus phenylephrine hydrochloride administration is rapid, typically within minutes.
 As blood pressure increases following intravenous administration, vagal activity also increases, resulting in reflex bradycardia.

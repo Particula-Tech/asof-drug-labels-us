@@ -2,7 +2,7 @@
 
 ## 2.1 General Dosage and Administration Instructions
 
-VAZCULEP (phenylephrine hydrochloride) Injection, 10 mg/mL must be diluted before administration as an intravenous bolus or continuous intravenous infusion to achieve the desired concentration:
+VAZCULEP (phenylephrine hydrochloride) Injection, 10 mg/mL, must be diluted before administration as an intravenous bolus or continuous intravenous infusion to achieve the desired concentration:
 
 - Bolus: Dilute with normal saline or 5% dextrose in water.
 - Continuous infusion: Dilute with normal saline or 5% dextrose in water.
