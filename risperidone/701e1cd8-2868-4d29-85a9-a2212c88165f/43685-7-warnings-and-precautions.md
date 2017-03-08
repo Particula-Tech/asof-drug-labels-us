@@ -228,7 +228,12 @@ A dose reduction should be considered if hypotension occurs.
 Risperidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia.
 Clinically significant hypotension has been observed with concomitant use of risperidone and antihypertensive medication.
 
-## 5.8 Leukopenia, Neutropenia, and Agranulocytosis
+## 5.8 Falls
+
+Somnolence, postural hypotension, motor and sensory instability have been reported with the use of antipsychotics, including risperidone, which may lead to falls and, consequently, fractures or other fall-related injuries.
+For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
 Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including risperidone.
 Agranulocytosis has also been reported.
@@ -239,37 +244,37 @@ Patients with a history of a clinically significant low WBC or a drug-induced le
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue risperidone and have their WBC followed until recovery.
 
-## 5.9 Potential for Cognitive and Motor Impairment
+## 5.10 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse reaction associated with risperidone treatment, especially when ascertained by direct questioning of patients.
 This adverse reaction is dose-related, and in a study utilizing a checklist to detect adverse events, 41% of the high-dose patients (risperidone 16 mg/day) reported somnolence compared to 16% of placebo patients.
 Direct questioning is more sensitive for detecting adverse events than spontaneous reporting, by which 8% of risperidone 16 mg/day patients and 1% of placebo patients reported somnolence as an adverse reaction.
 Since risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that risperidone therapy does not affect them adversely.
 
-## 5.10 Seizures
+## 5.11 Seizures
 
 During premarketing testing in adult patients with schizophrenia, seizures occurred in 0.3% (9/2607) of risperidone-treated patients, two in association with hyponatremia.
 Risperidone should be used cautiously in patients with a history of seizures.
 
-## 5.11 Dysphagia
+## 5.12 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
 Risperidone and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 [see Boxed Warning and Warnings and Precautions (5.1)]
 
-## 5.12 Priapism
+## 5.13 Priapism
 
 Priapism has been reported during postmarketing surveillance.
 Severe priapism may require surgical intervention.
 
-## 5.13 Body Temperature Regulation
+## 5.14 Body Temperature Regulation
 
 Disruption of body temperature regulation has been attributed to antipsychotic agents.
 Both hyperthermia and hypothermia have been reported in association with oral risperidone use.
 Caution is advised when prescribing for patients who will be exposed to temperature extremes.
 
-## 5.14 Patients with Phenylketonuria
+## 5.15 Patients with Phenylketonuria
 
 Inform patients that Risperidone Orally Disintegrating Tablets contain phenylalanine.
 Phenylalanine is a component of aspartame.
