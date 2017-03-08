@@ -34,7 +34,7 @@ Consider reducing the FAZACLO dosage when discontinuing coadministered enzyme in
 Drugs that Cause QT Interval Prolongation
 
 Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of FAZACLO.
-Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Warnings and Precautions (5.8)].
+Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Warnings and Precautions (5.9)].
 
 ## 7.2 Potential for FAZACLO to Affect Other Drugs
 

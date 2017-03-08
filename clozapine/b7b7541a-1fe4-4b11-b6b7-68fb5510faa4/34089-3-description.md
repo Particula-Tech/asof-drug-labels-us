@@ -16,7 +16,7 @@ The remaining components are aminoalkyl methacrylate copolymer E, mannitol, aspa
 **150 and 200 mg tablets
 
 THIS PRODUCT CONTAINS ASPARTAME AND IS NOT INTENDED FOR USE BY INFANTS.
-PHENYLKETONURICS: CONTAINS PHENYLALANINE [see Warnings and Precautions (5.16)].
+PHENYLKETONURICS: CONTAINS PHENYLALANINE [see Warnings and Precautions (5.18)].
 Phenylalanine is a component of aspartame.
 Each 12.5 mg, orally disintegrating tablet contains 1.6 mg aspartame, thus, 0.87 mg phenylalanine.
 Each 25 mg, orally disintegrating tablet contains 3.1 mg aspartame, thus, 1.74 mg phenylalanine.

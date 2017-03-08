@@ -114,7 +114,12 @@ When restarting patients who have had even a brief interval off FAZACLO (i.e., 2
 
 Use FAZACLO cautiously in patients with cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (e.g., concomitant use of antihypertensives, dehydration and hypovolemia).
 
-## 5.4 Seizures
+## 5.4 Falls
+
+FAZACLO may cause somnolence, postural hypotension, and motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic treatment.
+
+## 5.5 Seizures
 
 Seizure has been estimated to occur in association with clozapine use at a cumulative incidence at one year of approximately 5%, based on the occurrence of one or more seizures in 61 of 1743 patients exposed to clozapine during its clinical testing prior to domestic marketing (i.e., a crude rate of 3.5%).
 The risk of seizure is dose-related.
@@ -123,7 +128,7 @@ Initiate treatment with a low dose (12.5 mg), titrate slowly, and use divided do
 Use caution when administering FAZACLO to patients with a history of seizures or other predisposing risk factors for seizure (e.g., head trauma or other CNS pathology, use of medications that lower the seizure threshold or alcohol abuse).
 Because of the substantial risk of seizure associated with FAZACLO use, caution patients about engaging in any activity where sudden loss of consciousness could cause serious risk to themselves or others (e.g., driving an automobile, operating complex machinery, swimming, climbing).
 
-## 5.5 Myocarditis and Cardiomyopathy
+## 5.6 Myocarditis and Cardiomyopathy
 
 Myocarditis and cardiomyopathy have occurred with the use of clozapine.
 These reactions can be fatal.
@@ -139,7 +144,7 @@ It is common for nonspecific flu-like symptoms such as malaise, myalgia, pleurit
 Typical laboratory findings include elevated troponin I or T, elevated creatinine kinase-MB, peripheral eosinophilia, and elevated C-reactive protein (CRP).
 Chest roentgenogram may demonstrate cardiac silhouette enlargement, and cardiac imaging (echocardiogram, radionucleotide studies, or cardiac catheterization) may reveal evidence of left ventricular dysfunction.
 
-## 5.6 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+## 5.7 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
@@ -149,7 +154,7 @@ Observational studies suggest that, similar to atypical antipsychotic drugs, tre
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 FAZACLO is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
-## 5.7 Eosinophilia
+## 5.8 Eosinophilia
 
 Eosinophilia, defined as a blood eosinophil count of greater than 700/µL, has occurred with clozapine treatment.
 In clinical trials, approximately 1% of patients developed eosinophilia.
@@ -166,7 +171,7 @@ There are reports of successful rechallenge after discontinuation of clozapine, 
 In the absence of organ involvement, continue FAZACLO under careful monitoring.
 If the total eosinophil count continues to increase over several weeks in the absence of systemic disease, the decision to interrupt FAZACLO therapy and rechallenge after the eosinophil count decreases should be based on the overall clinical assessment, in consultation with an internist or hematologist.
 
-## 5.8 QT Interval Prolongation
+## 5.9 QT Interval Prolongation
 
 QT prolongation, Torsades de Pointes and other life-threatening ventricular arrhythmias, cardiac arrest, and sudden death have occurred with clozapine treatment.
 When prescribing FAZACLO, consider the presence of additional risk factors for QT prolongation and serious cardiovascular reactions.
@@ -189,7 +194,7 @@ Use caution when treating patients at risk for significant electrolyte disturban
 Obtain baseline measurements of serum potassium and magnesium levels, and periodically monitor electrolytes.
 Correct electrolyte abnormalities before initiating treatment with FAZACLO.
 
-## 5.9 Metabolic Changes
+## 5.10 Metabolic Changes
 
 Atypical antipsychotic drugs, including FAZACLO, have been associated with metabolic changes that can increase cardiovascular and cerebrovascular risk.
 These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
@@ -295,7 +300,7 @@ Table 8: Proportion of adult subjects in schizophrenia studies with weight gain 
 | N | 669 | 442 | 155 |
 | ≥7% (inclusive) | 236 (35%) | 203 (46%) | 13 (8%) |
 
-## 5.10 Neuroleptic Malignant Syndrome
+## 5.11 Neuroleptic Malignant Syndrome
 
 Antipsychotic drugs including FAZACLO can cause a potentially fatal symptom complex referred to as Neuroleptic Malignant Syndrome (NMS).
 Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered mental status, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).
@@ -313,22 +318,28 @@ Monitor closely if restarting treatment with antipsychotics.
 
 NMS has occurred with clozapine monotherapy and with concomitant CNS-active medications, including lithium.
 
-## 5.11 Fever
+## 5.12 Hepatotoxicity
+
+Severe, life threatening, and in some cases fatal hepatotoxicity including hepatic failure, hepatic necrosis, and hepatitis have been reported in patients treated with clozapine [see Adverse Reactions (6.2)].
+Monitor for the appearance of signs and symptoms of hepatotoxicity such as fatigue, malaise, anorexia, nausea, jaundice, bilirubinemia, coagulopathy, and hepatic encephalopathy.
+Perform serum tests for liver injury and consider permanently discontinuing treatment if hepatitis or transaminase elevations combined with other systemic symptoms are due to clozapine.
+
+## 5.13 Fever
 
 During clozapine therapy, patients have experienced transient, clozapine-related fever.
 The peak incidence is within the first 3 weeks of treatment.
 While this fever is generally benign and self-limited, it may necessitate discontinuing treatment.
 The fever can be associated with an increase or decrease in WBC count.
 Carefully evaluate patients with fever to rule out severe neutropenia or infection.
-Consider the possibility of NMS [see Warnings and Precautions (5.10)].
+Consider the possibility of NMS [see Warnings and Precautions (5.11)].
 
-## 5.12 Pulmonary Embolism
+## 5.14 Pulmonary Embolism
 
 Pulmonary embolism and deep vein thrombosis have occurred in patients treated with clozapine.
 Consider the possibility of pulmonary embolism in patients who present with deep vein thrombosis, acute dyspnea, chest pain, or with other respiratory signs and symptoms.
 Whether pulmonary embolus and deep vein thrombosis can be attributed to clozapine or some characteristic(s) of patients is not clear.
 
-## 5.13 Anticholinergic Toxicity
+## 5.15 Anticholinergic Toxicity
 
 FAZACLO has potent anticholinergic effects.
 Treatment with FAZACLO can result in CNS and peripheral anticholinergic toxicity.
@@ -339,14 +350,14 @@ Such reactions can be fatal.
 Constipation should be initially treated by ensuring adequate hydration and use of ancillary therapy such as bulk laxatives.
 Consultation with a gastroenterologist is advisable in more serious cases.
 
-## 5.14 Interference with Cognitive and Motor Performance
+## 5.16 Interference with Cognitive and Motor Performance
 
 FAZACLO can cause sedation and impairment of cognitive and motor performance.
 Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that FAZACLO does not affect them adversely.
 These reactions may be dose-related.
 Consider reducing the dose if they occur.
 
-## 5.15 Tardive Dyskinesia
+## 5.17 Tardive Dyskinesia
 
 Tardive dyskinesia (TD) has occurred in patients treated with antipsychotic drugs, including FAZACLO.
 The syndrome consists of potentially irreversible, involuntary, dyskinetic movements.
@@ -363,7 +374,7 @@ However, the syndrome may remit partially or completely if treatment is disconti
 Antipsychotic treatment, itself, may suppress (or partially suppress) the signs and symptoms, and it has the potential to mask the underlying process.
 The effect of symptom suppression on the long-term course of TD is unknown.
 
-## 5.16 Patients with Phenylketonuria
+## 5.18 Patients with Phenylketonuria
 
 Phenylketonuric patients should be informed that FAZACLO contains phenylalanine (a component of aspartame).
 Each 12.5 mg, orally disintegrating tablet contains 0.87 mg phenylalanine.
@@ -372,13 +383,13 @@ Each 100 mg, orally disintegrating tablet contains 6.96 mg phenylalanine.
 Each 150 mg, orally disintegrating tablet contains 10.44 mg phenylalanine.
 Each 200 mg, orally disintegrating tablet contains 13.92 mg phenylalanine.
 
-## 5.17 Cerebrovascular Adverse Reactions
+## 5.19 Cerebrovascular Adverse Reactions
 
 In controlled trials, elderly patients with dementia-related psychosis treated with some atypical antipsychotics had an increased risk (compared to placebo) of cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities.
 The mechanism for this increased risk is not known.
 An increased risk cannot be excluded for FAZACLO or other antipsychotics or other patient populations.
 FAZACLO should be used with caution in patients with risk factors for cerebrovascular adverse reactions.
 
-## 5.18 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of FAZACLO
+## 5.20 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of FAZACLO
 
 If abrupt discontinuation of FAZACLO is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting, and diarrhea.
