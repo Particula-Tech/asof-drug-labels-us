@@ -16,7 +16,6 @@ However, the syndrome can develop, although much less commonly, after relatively
 
 There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
-
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 Given these considerations, antipsychotic drugs should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
 Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that, 1) is known to respond to antipsychotic drugs, and, 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
@@ -45,13 +44,18 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 Hyperpyrexia and heat stroke, not associated with the above symptom complex, have also been reported with haloperidol.
 
+Falls
+
+Haloperidol Oral Solution may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
 Usage in Pregnancy
 
 Non-teratogenic Effects
 
 Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these infants.
-These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases infants have required intensive care unit support and prolonged hospitalization.
 
 Haloperidol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -98,18 +102,25 @@ Haloperidol should be administered cautiously to patients:
 If concomitant antiparkinson medication is required, it may have to be continued after haloperidol is discontinued because of the difference in excretion rates.
 If both are discontinued simultaneously, extrapyramidal symptoms may occur.
 The physician should keep in mind the possible increase in intraocular pressure when anticholinergic drugs, including antiparkinson agents, are administered concomitantly with haloperidol.
+
 As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opiates, and alcohol.
+
 When haloperidol is used to control mania in cyclic disorders, there may be a rapid mood swing to depression.
+
 Severe neurotoxicity (rigidity, inability to walk or talk) may occur in patients with thyrotoxicosis who are also receiving antipsychotic medication, including haloperidol.
+
 No mutagenic potential of haloperidol was found in the Ames Salmonella microsomal activation assay.
 Negative or inconsistent positive findings have been obtained in in vitro and in vivo studies of effects of haloperidol on chromosome structure and number.
 The available cytogenetic evidence is considered too inconsistent to be conclusive at this time.
-Carcinogenicity studies using oral haloperidol were conducted in Wistar rats (dosed at up to 5 mg/kg daily for 24 months) and in Albino Swiss mice (dosed at up to 5 mg/kg daily for 18months).
+
+Carcinogenicity studies using oral haloperidol were conducted in Wistar rats (dosed at up to 5 mg/kg daily for 24 months) and in Albino Swiss mice (dosed at up to 5 mg/kg daily for 18 months).
 In the rat study survival was less than optimal in all dose groups, reducing the number of rats at risk for developing tumors.
 However, although a relatively greater number of rats survived to the end of the study in high-dose male and female groups, these animals did not have a greater incidence of tumors than control animals.
 Therefore, although not optimal, this study does suggest the absence of a haloperidol related increase in the incidence of neoplasia in rats at doses up to 20 times the usual daily human dose for chronic or resistant patients.
+
 In female mice at 5 and 20 times the highest initial daily dose for chronic or resistant patients, there was a statistically significant increase in mammary gland neoplasia and total tumor incidence; at 20 times the same daily dose there was a statistically significant increase in pituitary gland neoplasia.
 In male mice, no statistically significant differences in incidences of total tumors or specific tumor types were noted.
+
 Antipsychotic drugs elevate prolactin levels; the elevation persists during chronic administration.
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with a previously detected breast cancer.
 Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported, the clinical significance of elevated serum prolactin levels is unknown for most patients.

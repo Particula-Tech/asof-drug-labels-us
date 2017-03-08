@@ -1,4 +1,4 @@
-# INDICATION AND USAGE
+# INDICATIONS AND USAGE
 
 Haloperidol Oral Solution is indicated for use in the management of manifestations of psychotic disorders.
 
