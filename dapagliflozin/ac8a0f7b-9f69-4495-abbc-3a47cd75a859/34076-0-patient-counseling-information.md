@@ -10,10 +10,6 @@ Inform patients of the potential risks and benefits of XIGDUO XR and of alternat
 Also inform patients about the importance of adherence to dietary instructions, regular physical activity, periodic blood glucose monitoring and HbA1c testing, recognition and management of hypoglycemia and hyperglycemia, and assessment of diabetes complications.
 Advise patients to seek medical advice promptly during periods of stress such as fever, trauma, infection, or surgery, as medication requirements may change.
 
-Counsel patients against excessive alcohol intake while receiving XIGDUO XR [seeWarnings and Precautions (5.1)].
-
-Inform patients about the importance of regular testing of renal function and hematological parameters when receiving treatment with XIGDUO XR [seeContraindications (4) and Warnings and Precautions (5.1)].
-
 Inform patients that the incidence of hypoglycemia may be increased when XIGDUO XR is added to an insulin secretagogue (e.g., sulfonylurea) or insulin [seeWarnings and Precautions (5.6)].
 
 Instruct patient to immediately inform her healthcare provider if she is pregnant or plans to become pregnant.
@@ -37,9 +33,15 @@ Advise patients to discontinue XIGDUO XR immediately and to promptly notify thei
 Gastrointestinal symptoms are common during initiation of metformin treatment and may occur during initiation of XIGDUO XR therapy; however, inform patients to consult their physician if they develop unexplained symptoms.
 Although gastrointestinal symptoms that occur after stabilization are unlikely to be drug related, such an occurrence of symptoms should be evaluated to determine if it may be due to lactic acidosis or other serious disease.
 
+Counsel patients against excessive alcohol intake while receiving XIGDUO XR [see Warnings and Precautions (5.1)].
+
+Inform patients about the importance of regular testing of renal function and hematological parameters when receiving treatment with XIGDUO XR [see Contraindications (4) and Warnings and Precautions (5.1)].
+
+Instruct patients to inform their doctor that they are taking XIGDUO XR prior to any surgical or radiological procedure, as temporary discontinuation of XIGDUO XR may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
+
 Hypotension
 
-Inform patients that symptomatic hypotension may occur with XIGDUO XR and advise them to contact their healthcare provider if they experience such symptoms [seeWarnings and Precautions (5.2)].
+Inform patients that symptomatic hypotension may occur with XIGDUO XR and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.2)].
 Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
 
 Ketoacidosis
@@ -58,7 +60,7 @@ Serious Urinary Tract Infections
 
 Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
-Advise them to seek medical advice promptly if such symptoms occur [seeWarnings and Precautions (5.5)].
+Advise them to seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.5)].
 
 Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
 
@@ -69,7 +71,7 @@ Genital Mycotic Infections in Males (e.g., Balanitis)
 
 Inform male patients that yeast infections of the penis (e.g., balanitis or balanoposthitis) may occur, especially in patients with prior history.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-Advise them of treatment options and when to seek medical advice [seeWarnings and Precautions (5.8)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.8)].
 
 Hypersensitivity Reactions
 

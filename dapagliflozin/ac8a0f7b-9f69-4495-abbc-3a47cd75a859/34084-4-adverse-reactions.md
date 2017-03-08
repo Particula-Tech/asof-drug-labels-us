@@ -2,16 +2,16 @@
 
 The following important adverse reactions are described below and elsewhere in the labeling:
 
-1. • Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
-2. • Hypotension [see Warnings and Precautions (5.2)]
-3. • Ketoacidosis [see Warnings and Precautions (5.3)]
-4. • Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.4)]
-5. • Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
-6. • Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.6)]
-7. • Vitamin B12 Concentrations [see Warnings and Precautions (5.7)]
-8. • Genital Mycotic Infections [see Warnings and Precautions (5.8)]
-9. • Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.9)]
-10. • Bladder Cancer [see Warnings and Precautions (5.10)]
+- •Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
+- •Hypotension [see Warnings and Precautions (5.2)]
+- •Ketoacidosis [see Warnings and Precautions (5.3)]
+- •Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.4)]
+- •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
+- •Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.6)]
+- •Vitamin B12 Concentrations [see Warnings and Precautions (5.7)]
+- •Genital Mycotic Infections [see Warnings and Precautions (5.8)]
+- •Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.9)]
+- •Bladder Cancer [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -239,9 +239,11 @@ Mean percent change from baseline at Week 24 were 0.0% versus 2.5% for total cho
 Metformin hydrochloride
 
 Metformin may lower serum vitamin B12 concentrations.
-Measurement of hematologic parameters on an annual basis is advised in patients on XIGDUO XR and any apparent abnormalities should be appropriately investigated and managed [seeWarnings and Precautions (5.7)].
+Measurement of hematologic parameters on an annual basis is advised in patients on XIGDUO XR and any apparent abnormalities should be appropriately investigated and managed [see Warnings and Precautions (5.7)].
 
 ## 6.2 Postmarketing Experience
+
+Dapagliflozin
 
 Additional adverse reactions have been identified during postapproval use of dapagliflozin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -249,3 +251,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Ketoacidosis [see Warnings and Precautions (5.3)]
 - •Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.4)]
 - •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
+- •Rash
+
+Metformin hydrochloride
+
+- •Cholestatic, hepatocellular, and mixed hepatocellular liver injury

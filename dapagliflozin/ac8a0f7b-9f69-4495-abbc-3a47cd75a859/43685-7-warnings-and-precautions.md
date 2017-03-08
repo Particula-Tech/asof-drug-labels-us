@@ -4,10 +4,12 @@
 
 There have been post-marketing cases of metformin-associated lactic acidosis, including fatal cases.
 These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
-Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate: pyruvate ratio;metformin plasma levels generally >5 mcg/mL.
+
+Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate: pyruvate ratio; metformin plasma levels generally >5 mcg/mL.
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
 If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of XIGDUO XR.
+
 In XIGDUO XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/minute under good hemodynamic conditions).
 Hemodialysis has often resulted in reversal of symptoms and recovery.
 
@@ -16,12 +18,14 @@ Educate patients and their families about the symptoms of lactic acidosis and if
 For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
-The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
+Clinical recommendations based upon the patient’s renal function include.
+[see Dosage and Administration (2.2), and Clinical Pharmacology (12.3)]:
 
-1. • Before initiating XIGDUO XR, obtain an estimated glomerular filtration rate (eGFR).
-2. • XIGDUO XR is contraindicated in patients with an eGFR less than 60 mL/minute/1.73 m2.
-3. • Obtain an eGFR at least annually in all patients taking XIGDUO XR.
-   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
+- •Before initiating XIGDUO XR, obtain an estimated glomerular filtration rate (eGFR).
+- •XIGDUO XR is contraindicated in patients with an eGFR less than 60 mL/minute/1.73 m2 [see Contraindications (4)].
+- •Obtain an eGFR at least annually in all patients taking XIGDUO XR.
+  In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 
 Drug Interactions: The concomitant use of XIGDUO XR with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g. cationic drugs) [see Drug Interactions (7)].
 Therefore, consider more frequent monitoring of patients.
@@ -98,7 +102,7 @@ Evaluate patients for signs and symptoms of urinary tract infections and treat p
 Dapagliflozin
 
 Insulin and insulin secretagogues are known to cause hypoglycemia.
-Dapagliflozin can increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [seeAdverse Reactions (6.1)].
+Dapagliflozin can increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when these agents are used in combination with XIGDUO XR.
 
 Metformin hydrochloride
@@ -111,7 +115,7 @@ Hypoglycemia may be difficult to recognize in the elderly and in people who are 
 
 In controlled clinical trials of metformin of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 This decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
-Measurement of hematologic parameters on an annual basis is advised in patients on XIGDUO XR and any apparent abnormalities should be appropriately investigated and managed [seeAdverse Reactions (6.1)].
+Measurement of hematologic parameters on an annual basis is advised in patients on XIGDUO XR and any apparent abnormalities should be appropriately investigated and managed [see Adverse Reactions (6.1)].
 
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurements at 2- to 3-year intervals may be useful.
@@ -119,12 +123,12 @@ In these patients, routine serum vitamin B12 measurements at 2- to 3-year interv
 ## 5.8 Genital Mycotic Infections
 
 Dapagliflozin increases the risk of genital mycotic infections.
-Patients with a history of genital mycotic infections were more likely to develop genital mycotic infections [seeAdverse Reactions (6.1)].
+Patients with a history of genital mycotic infections were more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
 
 ## 5.9 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
 
-Increases in LDL-C occur with dapagliflozin [seeAdverse Reactions (6.1)].
+Increases in LDL-C occur with dapagliflozin [see Adverse Reactions (6.1)].
 Monitor LDL-C and treat per standard of care after initiating XIGDUO XR.
 
 ## 5.10 Bladder Cancer
@@ -140,4 +144,4 @@ In patients with prior history of bladder cancer, the benefits of glycemic contr
 
 ## 5.11 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with XIGDUO XR or any other antidiabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with XIGDUO XR.

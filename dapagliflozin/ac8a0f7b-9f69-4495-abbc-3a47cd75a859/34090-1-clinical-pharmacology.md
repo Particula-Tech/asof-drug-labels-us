@@ -16,7 +16,7 @@ Metformin hydrochloride
 
 Metformin improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in either patients with type 2 diabetes or in healthy subjects, except in unusual circumstances [seeWarnings and Precautions (5.6)], and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in either patients with type 2 diabetes or in healthy subjects, except in unusual circumstances [see Warnings and Precautions (5.6)], and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -28,7 +28,9 @@ Dapagliflozin
 Increases in the amount of glucose excreted in the urine were observed in healthy subjects and in patients with type 2 diabetes mellitus following the administration of dapagliflozin (see Figure 1).
 Dapagliflozin doses of 5 or 10 mg per day in patients with type 2 diabetes mellitus for 12 weeks resulted in excretion of approximately 70 grams of glucose in the urine per day.
 A near maximum glucose excretion was observed at the dapagliflozin daily dose of 20 mg.
-This urinary glucose excretion with dapagliflozin also results in increases in urinary volume [seeAdverse Reactions (6.1)].
+This urinary glucose excretion with dapagliflozin also results in increases in urinary volume [see Adverse Reactions (6.1)].
+
+Figure 1: Scatter Plot and Fitted Line of Change from Baseline in 24-Hour Urinary Glucose Amount versus Dapagliflozin Dose in Healthy Subjects and Subjects with Type 2 Diabetes Mellitus (T2DM) (Semi-Log Plot)
 
 ### Cardiac Electrophysiology
 
@@ -117,7 +119,9 @@ The impact of hemodialysis on dapagliflozin exposure is not known [see Dosage an
 
 Metformin hydrochloride
 
-In patients with decreased renal function (based on measured eGFR), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in eGFR [see Contraindications (4) and Warnings and Precautions (5.1)].
+In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease
+
+[see Contraindications (4) and Warnings and Precautions (5.1)].
 
 #### Hepatic Impairment
 

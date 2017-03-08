@@ -58,14 +58,14 @@ Dapagliflozin
 
 A total of 1424 (24%) of the 5936 dapagliflozin-treated patients were 65 years and over and 207 (3.5%) patients were 75 years and older in a pool of 21 double-blind, controlled, clinical safety and efficacy studies of dapagliflozin.
 After controlling for level of renal function (eGFR), efficacy was similar for patients under age 65 years and those 65 years and older.
-In patients ≥65 years of age, a higher proportion of patients treated with dapagliflozin had adverse reactions related to volume depletion and renal impairment or failure compared to patients treated with placebo [seeWarnings and Precautions (5.3)andAdverse Reactions (6.1)].
+In patients ≥65 years of age, a higher proportion of patients treated with dapagliflozin had adverse reactions related to volume depletion and renal impairment or failure compared to patients treated with placebo [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
 
 Metformin hydrochloride
 
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently than younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
 Metformin is known to be substantially excreted by the kidney and because the risk of lactic acidosis with metformin is greater in patients with moderately to severely impaired renal function.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
-Assess renal function more frequently in elderly patients [see Warnings and Precautions (5.1), andClinical Pharmacology (12.3)].
+Assess renal function more frequently in elderly patients [see Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Mild Renal Impairment (eGFR ≥60 to <90 mL/min/1.73 m2)
 

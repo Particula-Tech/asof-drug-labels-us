@@ -76,7 +76,7 @@ Patients on metformin at a dose of at least 1500 mg/day were randomized after co
 Following the lead-in period, eligible patients were randomized to dapagliflozin 5 mg, dapagliflozin 10 mg, or placebo in addition to their current dose of metformin.
 
 As add-on treatment to metformin, dapagliflozin 10 mg provided statistically significant improvements in HbA1c and FPG, and statistically significant reduction in body weight compared with placebo at Week 24 (see Table 13 and Figure 3).
-Statistically significant (p<0.05 for both doses)mean changes frombaseline in systolic blood pressure relative to placebo plus metformin were −4.5 mmHg and −5.3 mmHg with dapagliflozin 5 mg and 10 mg plus metformin, respectively.
+Statistically significant (p<0.05 for both doses) mean changes frombaseline in systolic blood pressure relative to placebo plus metformin were −4.5 mmHg and −5.3 mmHg with dapagliflozin 5 mg and 10 mg plus metformin, respectively.
 
 Table 13: Results of a 24-Week (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.)
 Placebo-Controlled Study of Dapagliflozin in Add-On Combination with Metformin
