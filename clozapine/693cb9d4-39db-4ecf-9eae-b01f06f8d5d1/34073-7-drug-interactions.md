@@ -29,12 +29,12 @@ Strong CYP3A4 inducers include carbamazepine, phenytoin, St. John’s wort, and 
 It may be necessary to increase the VERSACLOZ dose if used concomitantly with inducers of these enzymes.
 However, concomitant use of VERSACLOZ and strong CYP3A4 inducers is not recommended [see Dosage and Administration (2.7)].
 
-Consider reducing the VERSACLOZ dosage when discontinuing coadministered enzyme inducers; because discontinuation of inducers can result in increased clozapine plasma levels and an increased risk of adverse reactions [see Dosage and Administration (2.7)].
+Consider reducing the VERSACLOZ dosage when discontinuing coadministered enzyme inducers, because discontinuation of inducers can result in increased clozapine plasma levels and an increased risk of adverse reactions [see Dosage and Administration (2.7)].
 
 Drugs that Cause QT Interval Prolongation
 
 Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of VERSACLOZ.
-Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Warnings and Precautions (5.8)].
+Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Warnings and Precautions (5.9)].
 
 ## 7.2 Potential for VERSACLOZ to Affect Other Drugs
 

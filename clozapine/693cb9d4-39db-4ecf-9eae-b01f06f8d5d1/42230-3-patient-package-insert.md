@@ -163,6 +163,15 @@ VERSACLOZ may cause serious side effects, including:
   - •stiff muscles
   - •confusion
   - •changes in your breathing, heartbeat and blood pressure
+- •falls, which may lead to fractures or other injuries
+- •liver problems.
+  Call your healthcare provider right away if you have any of these symptoms:
+  - •nausea
+  - •vomiting
+  - •loss of appetite
+  - •feel tired
+  - •pain on the right side of your stomach (abdomen)
+  - •yellowing of your skin or the whites of your eyes
 - •fever.
   Some people may have a fever that comes and goes while they take VERSACLOZ.
   This happens more often in the first 3 weeks you take VERSACLOZ.
@@ -246,4 +255,4 @@ Palo Alto, CA 94304 USA
 
 This Patient Information and the Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Revised: September 2015
+Revised: February 2017
