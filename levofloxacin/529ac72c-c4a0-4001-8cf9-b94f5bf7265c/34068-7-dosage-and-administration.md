@@ -96,10 +96,10 @@ Table 3: Dosage Adjustment in Adult Patients with Renal Impairment (creatinine c
 
 ## 2.4 Drug Interaction With Chelation Agents: Antacids, Sucralfate, Metal Cations, Multivitamins
 
-Levofloxacin tablets should be administered at least two hours before or two hours after antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine chewable/buffered tablets or the pediatric powder for oral solution [see Drug Interactions (7.1) and Patient Counseling Information (17.2)].
+Levofloxacin tablets should be administered at least two hours before or two hours after antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine chewable/buffered tablets or the pediatric powder for oral solution [see Drug Interactions (7.1) and Patient Counseling Information (17)].
 
 ## 2.5 Administration Instructions
 
 Food and Levofloxacin Tablets Levofloxacin tablets can be administered without regard to food.
 Hydration for Patients Receiving Levofloxacin Tablets Adequate hydration of patients receiving oral levofloxacin tablets should be maintained to prevent the formation of highly concentrated urine.
-Crystalluria and cylindruria have been reported with quinolones [see Adverse Reactions (6.1) and Patient Counseling Information (17.2)].
+Crystalluria and cylindruria have been reported with quinolones [see Adverse Reactions (6.1) and Patient Counseling Information (17)].

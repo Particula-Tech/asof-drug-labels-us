@@ -4,9 +4,7 @@
 
 Adult patients with clinically and radiologically documented nosocomial pneumonia were enrolled in a multicenter, randomized, open-label study comparing intravenous levofloxacin (750 mg once daily) followed by oral levofloxacin (750 mg once daily) for a total of 7 to 15 days to intravenous imipenem/cilastatin (500 to 1000 mg every 6 to 8 hours daily) followed by oral ciprofloxacin (750 mg every 12 hours daily) for a total of 7 to 15 days.
 Levofloxacin-treated patients received an average of 7 days of intravenous therapy (range: 1 to 16 days); comparator-treated patients received an average of 8 days of intravenous therapy (range: 1 to 19 days).
-Overall, in the clinically and microbiologically evaluable population, adjunctive therapy was empirically initiated at study entry in 56 of 93 (60.2%) patients in the levofloxacin
-
-arm and 53 of 94 (56.4%) patients in the comparator arm.
+Overall, in the clinically and microbiologically evaluable population, adjunctive therapy was empirically initiated at study entry in 56 of 93 (60.2%) patients in the levofloxacin arm and 53 of 94 (56.4%) patients in the comparator arm.
 The average duration of adjunctive therapy was 7 days in the levofloxacin arm and 7 days in the comparator.
 In clinically and microbiologically evaluable patients with documented Pseudomonas aeruginosa infection, 15 of 17 (88.2%) received ceftazidime (N = 11) or piperacillin/tazobactam (N = 4) in the levofloxacin arm and 16 of 17 (94.1%) received an aminoglycoside in the comparator arm.
 Overall, in clinically and microbiologically evaluable patients, vancomycin was added to the treatment regimen of 37 of 93 (39.8%) patients in the levofloxacin arm and 28 of 94 (29.8%) patients in the comparator arm for suspected methicillin-resistant S. aureus infection.

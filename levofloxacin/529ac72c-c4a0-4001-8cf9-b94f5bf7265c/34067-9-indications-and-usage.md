@@ -60,19 +60,19 @@ Levofloxacin tablets are indicated for the treatment of acute pyelonephritis cau
 
 Levofloxacin tablets are indicated for the treatment of uncomplicated urinary tract infections (mild to moderate) due to Escherichia coli, Klebsiella pneumoniae, or Staphylococcus saprophyticus.
 
-Because fluoroquinolones, including levofloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.15)] and for some patients uncomplicated urinary tract infection is self-limiting, reserve levofloxacin tablets for treatment of uncomplicated urinary tract infections in patients who have no alternative treatment options.
+Because fluoroquinolones, including levofloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.14)] and for some patients uncomplicated urinary tract infection is self-limiting, reserve levofloxacin tablets for treatment of uncomplicated urinary tract infections in patients who have no alternative treatment options.
 
 ## 1.13 Acute Bacterial Exacerbation of Chronic Bronchitis
 
 Levofloxacin tablets are indicated for the treatment of acute bacterial exacerbation of chronic bronchitis (ABECB) due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae, Haemophilus influenzae, Haemophilus parainfluenzae, or Moraxella catarrhalis.
 
-Because fluoroquinolones, including levofloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.15)] and for some patients ABECB is self-limiting, reserve levofloxacin tablets for treatment of ABECB in patients who have no alternative treatment options.
+Because fluoroquinolones, including levofloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.14)] and for some patients ABECB is self-limiting, reserve levofloxacin tablets for treatment of ABECB in patients who have no alternative treatment options.
 
 ## 1.14 Acute Bacterial Sinusitis: 5-day and 10 to 14 day Treatment Regimens
 
 Levofloxacin tablets are indicated for the treatment of acute bacterial sinusitis (ABS) due to Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis [see Clinical Studies (14.4)].
 
-Because fluoroquinolones, including levofloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.15)] and for some patients ABS is self-limiting, reserve levofloxacin tablets for treatment of ABS in patients who have no alternative treatment options.
+Because fluoroquinolones, including levofloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.14)] and for some patients ABS is self-limiting, reserve levofloxacin tablets for treatment of ABS in patients who have no alternative treatment options.
 
 ## 1.15 Usage
 

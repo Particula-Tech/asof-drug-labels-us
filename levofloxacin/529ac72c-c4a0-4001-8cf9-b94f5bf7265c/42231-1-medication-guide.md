@@ -1,6 +1,4 @@
-# 17.6 FDA-Approved Medication Guide
-
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 Levofloxacin Tablets
 
@@ -237,7 +235,7 @@ Stop taking levofloxacin tablets and get emergency medical help right away if yo
 - skin rash
 
 Skin rash may happen in people taking levofloxacin tablets, even after only 1 dose.
-Stop taking levofloxacin tablets at the first sign of a skin rash and call your healthcare provider.
+Stop taking levofloxacin tablets at the first sign of a skin rash and immediately call your healthcare provider.
 Skin rash may be a sign of a more serious reaction to levofloxacin tablets.
 
 - Liver damage (hepatotoxicity): Hepatotoxicity can happen in people who take levofloxacin tablets.
@@ -304,8 +302,6 @@ The most common side effects of levofloxacin tablets include:
 
 In children 6 months and older who take levofloxacin tablets to treat anthrax disease or plague, vomiting is also common.
 
-Tell your healthcare provider if you feel dizzy or faint during a treatment with levofloxacin tablets.
-
 Levofloxacin tablets may cause false-positive urine screening results for opiates when testing is done with some commercially available kits.
 A positive result should be confirmed using a more specific test.
 
@@ -317,14 +313,14 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store levofloxacin tablets?
 
-- Store levofloxacin tablets at 20° to 25°C (68° to 77°F).
+- Store levofloxacin tablets at room temperature between 20° to 25°C (68° to 77°F).
 - Keep levofloxacin tablets in a tightly closed container.
 
 Keep levofloxacin tablets and all medicines out of the reach of children.
 General information about the safe and effective use of levofloxacin tablets Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use levofloxacin tablets for a condition for which it is not prescribed.
 Do not give levofloxacin tablets to other people, even if they have the same symptoms that you have.
-They may harm them.
+It may harm them.
 This Medication Guide summarizes the most important information about levofloxacin tablets.
 If you would like more information about levofloxacin tablets, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about levofloxacin tablets that is written for healthcare professionals.
@@ -334,4 +330,4 @@ Active ingredient: levofloxacin Inactive ingredients: croscarmellose sodium, hyp
 In addition 250 mg contains iron oxide red and 500 mg contains iron oxide red and iron oxide yellow.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Trademarks are the property of their respective owners.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 08/2016
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 03/2017
