@@ -32,7 +32,7 @@ Rifampicin: In healthy subjects receiving the CYP3A4 inducer, rifampicin, at 600
 
 Nilotinib has pH-dependent solubility, with decreased solubility at higher pH.
 Drugs such as proton pump inhibitors that inhibit gastric acid secretion to elevate the gastric pH may decrease the solubility of nilotinib and reduce its bioavailability.
-In healthy subjects, coadministration of a single 400 mg dose of Tasigna with multiple doses of esomeprazole (a proton pump inhibitor) at 40 mg daily decreased the nilotinib AUC by 34%.
+In healthy subjects, coadministration of a single 400 mg dose of Tasigna with multiple doses of esomeprazole (a proton-pump inhibitor) at 40 mg daily decreased the nilotinib AUC by 34%.
 Increasing the dose of Tasigna when coadministered with such agents is not likely to compensate for the loss of exposure.
 Since proton pump inhibitors affect pH of the upper GI tract for an extended period, separation of doses may not eliminate the interaction.
 The concomitant use of proton pump inhibitors with Tasigna is not recommended.

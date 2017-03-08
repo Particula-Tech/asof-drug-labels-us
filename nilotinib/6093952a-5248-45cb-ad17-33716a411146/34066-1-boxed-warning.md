@@ -1,4 +1,4 @@
-# WARNING: QT PROLONGATION AND SUDDEN DEATHS
+# WARNING: QT PROLONGATION and SUDDEN DEATHS
 
 - Tasigna prolongs the QT interval.
   Prior to Tasigna administration and periodically, monitor for hypokalemia or hypomagnesemia and correct deficiencies (5.2).

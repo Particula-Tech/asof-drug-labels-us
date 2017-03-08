@@ -73,10 +73,3 @@ Table 8: Child-Pugh Liver Function Classification
 | Prothrombin Time (seconds prolonged) | <4 | 1 |
 |  | 4–6 | 2 |
 |  | >6 | 3 |
-
-## 8.8 Renal Impairment
-
-Clinical studies have not been performed in patients with impaired renal function.
-Clinical studies have excluded patients with serum creatinine concentration greater than 1.5 times the upper limit of the normal range.
-
-Since nilotinib and its metabolites are not renally excreted, a decrease in total body clearance is not anticipated in patients with renal impairment.

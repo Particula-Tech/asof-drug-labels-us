@@ -23,7 +23,7 @@ The median time on treatment in the nilotinib 300 mg twice daily group was 61 mo
 The median actual dose intensity was 593 mg/day in the nilotinib 300 mg twice daily group.
 
 The most common (greater than 10%) non-hematologic adverse drug reactions were rash, pruritus, headache, nausea, fatigue, alopecia, myalgia, and upper abdominal pain.
-Constipation, diarrhea, dry skin, muscle spasms, arthralgia, abdominal pain, peripheral edema, vomiting, and asthenia were observed less commonly (less than or equal to 10% and greater than 5%) and have been of mild to moderate severity, manageable and generally did not require dose reduction.
+Constipation, diarrhea, dry skin, muscle spasms, arthralgia, abdominal pain, peripheral edema, vomiting, and asthenia were observed less commonly (less than or equal to 10% and greater than 5%) and have been of mild-to-moderate severity, manageable and generally did not require dose reduction.
 
 Increase in QTcF greater than 60 msec from baseline was observed in 1 patient (0.4%) in the 300 mg twice daily treatment group.
 No patient had an absolute QTcF of greater than 500 msec while on study drug.
@@ -184,12 +184,12 @@ Table 7: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 4CML-AP: Neutropenia: 16% were Grade 3, 26% were Grade 4
 
 Elevated total cholesterol (all grades) occurred in 28% (Tasigna 300 mg bid) and 4% (imatinib).
-Elevated triglycerides (all grades) occurred in12% and 8% of patients in the Tasigna and imatinib arms, respectively.
+Elevated triglycerides (all grades) occurred in 12% and 8% of patients in the Tasigna and imatinib arms, respectively.
 Hyperglycemia (all grades) occurred in 50% and 31% of patients in the Tasigna and imatinib arms, respectively.
 
 Most common biochemistry laboratory abnormalities (all grades) were alanine aminotransferase increased (72%), blood bilirubin increased (59%), aspartate aminotransferase increased (47%), lipase increased (28%), blood glucose increased (50%), blood cholesterol increased (28%), and blood triglyceride increased (12%).
 
-## 6.2 Additional Data from Clinical Trials
+Additional Data from Clinical Trials
 
 The following adverse drug reactions were reported in patients in the Tasigna clinical studies at the recommended doses.
 These adverse drug reactions are ranked under a heading of frequency, the most frequent first using the following convention: common (greater than or equal to1% and less than 10%), uncommon (greater than or equal to 0.1% and less than 1%), and unknown frequency (single events).
@@ -204,7 +204,7 @@ Resistant or intolerant Ph+ CML-CP and CMP-AP 24 months’ analysis.
 
 Infections and Infestations: Common: folliculitis.
 Uncommon: pneumonia, bronchitis, urinary tract infection, candidiasis (including oral candidiasis).
-Unknown frequency: hepatitis B virus reactivation, sepsis, subcutaneous abscess, anal abscess, furuncle, tinea pedis.
+Unknown frequency: hepatitis B reactivation, sepsis, subcutaneous abscess, anal abscess, furuncle, tinea pedis.
 
 Neoplasms Benign, Malignant, and Unspecified: Common: skin papilloma.
 Unknown frequency: oral papilloma, paraproteinemia.

@@ -48,6 +48,12 @@ Parent drug accounted for 69% of the dose.
 
 Age, body weight, gender, or ethnic origin did not significantly affect the pharmacokinetics of nilotinib.
 
+Renal Impairment
+
+Clinical studies have not been performed in patients with impaired renal function.
+Clinical studies have excluded patients with serum creatinine concentration greater than 1.5 times the upper limit of the normal range.
+Since nilotinib and its metabolites are not renally excreted, a decrease in total body clearance is not anticipated in patients with renal impairment.
+
 Drug-Drug Interactions
 
 In a Phase 1 trial of nilotinib 400 mg twice daily in combination with imatinib 400 mg daily or 400 mg twice daily, the AUC increased 30% to 50% for nilotinib and approximately 20% for imatinib.
