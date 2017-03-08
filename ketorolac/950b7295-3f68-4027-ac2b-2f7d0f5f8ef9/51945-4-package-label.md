@@ -1,41 +1,45 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY - Ketorolac Tromethamine 1 mL Single Dose Vial Label
 
-NDC 63323-161-12 NP160101 Ketorolac Tromethamine Injection, USP
+Ketorolac Tromethamine Injection, USP
 
-15 mg/mL
+15 mg per mL
 
-For IM or IV Use 1 mL Single Dose Vial
+For IM or IV use.
+Usual dosage: See package insert.
 
-Usual Dosage: See insert.
+1 mL Single Dose Vial
 
 Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Ketorolac Tromethamine 1 mL Single Dose Vial Tray Label
 
-NDC 63323-161-12 NP160101 Ketorolac Tromethamine Injection, USP
+Ketorolac Tromethamine Injection, USP
 
-15 mg/mL
+15 mg per mL
 
-For Intravenous or Intramuscular use 1 mL Single Dose Vial Rx only
+For intravenous or intramuscular use.
+25 x 1 mL Single Dose Vials Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Ketorolac Tromethamine 1 mL Single Dose Vial Label
 
-NDC 63323-162-12 NP160201 Ketorolac Tromethamine Injection, USP
+Ketorolac Tromethamine Injection, USP
 
-30 mg/mL
+30 mg per mL
 
-For IM or IV Use
+For IM or IV use.
+Usual dosage: See package insert.
 
-1 mL Single Dose Vial Usual Dosage: See insert.
+1 mL Single Dose Vial
 
 Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Ketorolac Tromethamine 1 mL Single Dose Vial Tray Label
 
-NDC 63323-162-12 NP160201 Ketorolac Tromethamine Injection, USP
+Ketorolac Tromethamine Injection, USP
 
-30 mg/mL
+30 mg per mL
 
-For Intravenous or Intramuscular use 1 mL Single Dose Vial
+For intravenous or intramuscular use.
+25 x 1 mL Single Dose Vials
 
 Rx only
