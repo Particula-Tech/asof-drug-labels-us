@@ -13,7 +13,7 @@ Efficacy was evaluated using the Positive and Negative Syndrome Scale (PANSS), a
 Efficacy was also evaluated using the Personal and Social Performance (PSP) scale.
 The PSP is a validated clinician-rated scale that measures personal and social functioning in the domains of socially useful activities (e.g., work and study), personal and social relationships, self-care, and disturbing and aggressive behaviors.
 
-In all 3 studies (n = 1665), INVEGA® was superior to placebo on the PANSS at all doses.
+In all 3 studies (n=1665), INVEGA® was superior to placebo on the PANSS at all doses.
 Mean effects at all doses were fairly similar, although the higher doses in all studies were numerically superior.
 INVEGA® was also superior to placebo on the PSP in these trials.
 
@@ -48,7 +48,7 @@ The acute efficacy of INVEGA® (3 mg to 12 mg once daily) in the treatment of sc
 Enrolled subjects 1) met DSM-IV criteria for schizoaffective disorder, as confirmed by the Structured Clinical Interview for DSM-IV Disorders, 2) had a Positive and Negative Syndrome Scale (PANSS) total score of at least 60, and 3) had prominent mood symptoms as confirmed by a score of at least 16 on the Young Mania Rating Scale and/or Hamilton Rating Scale for Depression.
 The population included subjects with schizoaffective bipolar and depressive types.
 In one of these trials, efficacy was assessed in 211 subjects who received flexible doses of INVEGA® (3–12 mg once daily).
-In the other study, efficacy was assessed in 203 subjects who were assigned to one of two dose levels of INVEGA®: 6 mg with the option to reduce to 3 mg (n = 105) or 12 mg with the option to reduce to 9 mg (n = 98) once daily.
+In the other study, efficacy was assessed in 203 subjects who were assigned to one of two dose levels of INVEGA®: 6 mg with the option to reduce to 3 mg (n=105) or 12 mg with the option to reduce to 9 mg (n=98) once daily.
 Both studies included subjects who received INVEGA® either as monotherapy [no mood stabilizers and/or antidepressants (55%)] or as an adjunct to mood stabilizers and/or antidepressants (45%).
 The most commonly used mood stabilizers were valproate and lithium.
 The most commonly used antidepressants were SSRIs and SNRIs.

@@ -8,7 +8,7 @@ Patients should be advised that there is risk of orthostatic hypotension, partic
 
 ## 17.2 Interference with Cognitive and Motor Performance
 
-As INVEGA® has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that INVEGA® therapy does not affect them adversely [see Warnings and Precautions (5.11)].
+As INVEGA® has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that INVEGA® therapy does not affect them adversely [see Warnings and Precautions (5.12)].
 
 ## 17.3 Pregnancy
 
@@ -30,7 +30,7 @@ Patients should be advised to avoid alcohol while taking INVEGA® [see Drug Inte
 
 ## 17.7 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.17)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.18)].
 
 ## 17.8 Administration
 

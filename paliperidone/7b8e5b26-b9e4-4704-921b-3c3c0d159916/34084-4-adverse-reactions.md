@@ -13,17 +13,18 @@ The following adverse reactions are discussed in more detail in other sections o
 - Hyperprolactinemia [see Warnings and Precautions (5.7)]
 - Potential for gastrointestinal obstruction [see Warnings and Precautions (5.8)]
 - Orthostatic hypotension and syncope [see Warnings and Precautions (5.9)]
-- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.10)]
-- Potential for cognitive and motor impairment [see Warnings and Precautions (5.11)]
-- Seizures [see Warnings and Precautions (5.12)]
-- Dysphagia [see Warnings and Precautions (5.13)]
-- Suicide [see Warnings and Precautions (5.14)]
-- Priapism [see Warnings and Precautions (5.15)]
-- Thrombotic thrombocytopenic purpura (TTP) [see Warnings and Precautions (5.16)]
-- Disruption of body temperature regulation [see Warnings and Precautions (5.17)]
-- Antiemetic effect [see Warnings and Precautions (5.18)]
-- Increased sensitivity in patients with Parkinson's disease or those with dementia with Lewy bodies [see Warnings and Precautions (5.19)]
-- Diseases or conditions that could affect metabolism or hemodynamic responses [see Warnings and Precautions (5.19)]
+- Falls [see Warnings and Precautions (5.10)]
+- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.11)]
+- Potential for cognitive and motor impairment [see Warnings and Precautions (5.12)]
+- Seizures [see Warnings and Precautions (5.13)]
+- Dysphagia [see Warnings and Precautions (5.14)]
+- Suicide [see Warnings and Precautions (5.15)]
+- Priapism [see Warnings and Precautions (5.16)]
+- Thrombotic thrombocytopenic purpura (TTP) [see Warnings and Precautions (5.17)]
+- Disruption of body temperature regulation [see Warnings and Precautions (5.18)]
+- Antiemetic effect [see Warnings and Precautions (5.19)]
+- Increased sensitivity in patients with Parkinson's disease or those with dementia with Lewy bodies [see Warnings and Precautions (5.20)]
+- Diseases or conditions that could affect metabolism or hemodynamic responses [see Warnings and Precautions (5.20)]
 
 The most common adverse reactions in clinical trials in adult subjects with schizophrenia (reported in 5% or more of subjects treated with INVEGA® and at least twice the placebo rate in any of the dose groups) were extrapyramidal symptoms, tachycardia, and akathisia.
 The most common adverse reactions in clinical trials in adult patients with schizoaffective disorder (reported in 5% or more of subjects treated with INVEGA® and at least twice the placebo rate) were extrapyramidal symptoms, somnolence, dyspepsia, constipation, weight increased, and nasopharyngitis.
@@ -39,7 +40,7 @@ Additional safety information from the placebo-controlled phase of the long-term
 The safety of INVEGA® was evaluated in 150 adolescent subjects 12–17 years of age with schizophrenia who received INVEGA® in the dose range of 1.5 mg to 12 mg/day in a 6-week, double-blind, placebo-controlled trial.
 
 The safety of INVEGA® was also evaluated in 622 adult subjects with schizoaffective disorder who participated in two placebo-controlled, 6-week, double-blind trials.
-In one of these trials, 206 subjects were assigned to one of two dose levels of INVEGA®: 6 mg with the option to reduce to 3 mg (n = 108) or 12 mg with the option to reduce to 9 mg (n = 98) once daily.
+In one of these trials, 206 subjects were assigned to one of two dose levels of INVEGA®: 6 mg with the option to reduce to 3 mg (n=108) or 12 mg with the option to reduce to 9 mg (n=98) once daily.
 In the other study, 214 subjects received flexible doses of INVEGA® (3–12 mg once daily).
 Both studies included subjects who received INVEGA® either as monotherapy or as an adjunct to mood stabilizers and/or antidepressants.
 Adverse events during exposure to study treatment were obtained by general inquiry and recorded by clinical investigators using their own terminology.

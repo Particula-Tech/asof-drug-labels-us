@@ -51,7 +51,7 @@ In this study, subjects received flexible doses of INVEGA® (3 mg to 12 mg once 
 In addition, a small number of subjects 65 years of age and older were included in the 6-week placebo-controlled studies in which adult schizophrenic subjects received fixed doses of INVEGA® (3 mg to 15 mg once daily) [see Clinical Studies (14)].
 There were no subjects ≥ 65 years of age in the schizoaffective disorder studies.
 
-Overall, of the total number of subjects in schizophrenia clinical studies of INVEGA® (n = 1796), including those who received INVEGA® or placebo, 125 (7.0%) were 65 years of age and older and 22 (1.2%) were 75 years of age and older.
+Overall, of the total number of subjects in schizophrenia clinical studies of INVEGA® (n=1796), including those who received INVEGA® or placebo, 125 (7.0%) were 65 years of age and older and 22 (1.2%) were 75 years of age and older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 This drug is known to be substantially excreted by the kidney and clearance is decreased in patients with moderate to severe renal impairment [see Clinical Pharmacology (12.3)], who should be given reduced doses.

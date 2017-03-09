@@ -36,7 +36,7 @@ Certain circumstances may increase the risk of the occurrence of torsade de poin
 
 The effects of paliperidone on the QT interval were evaluated in a double-blind, active-controlled (moxifloxacin 400 mg single dose), multicenter QT study in adults with schizophrenia and schizoaffective disorder, and in three placebo- and active-controlled 6-week, fixed-dose efficacy trials in adults with schizophrenia.
 
-In the QT study (n = 141), the 8 mg dose of immediate-release oral paliperidone (n=50) showed a mean placebo-subtracted increase from baseline in QTcLD of 12.3 msec (90% CI: 8.9; 15.6) on day 8 at 1.5 hours post-dose.
+In the QT study (n=141), the 8 mg dose of immediate-release oral paliperidone (n=50) showed a mean placebo-subtracted increase from baseline in QTcLD of 12.3 msec (90% CI: 8.9; 15.6) on day 8 at 1.5 hours post-dose.
 The mean steady-state peak plasma concentration for this 8 mg dose of paliperidone immediate-release was more than twice the exposure observed with the maximum recommended 12 mg dose of INVEGA® (Cmax ss = 113 ng/mL and 45 ng/mL, respectively, when administered with a standard breakfast).
 In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which Cmax ss = 35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on day 2 at 1.5 hours post-dose.
 None of the subjects had a change exceeding 60 msec or a QTcLD exceeding 500 msec at any time during this study.
@@ -246,7 +246,7 @@ Neither clinical studies nor epidemiologic studies conducted to date have shown 
 
 ## 5.8 Potential for Gastrointestinal Obstruction
 
-Because the INVEGA® tablet is non-deformable and does not appreciably change in shape in the gastrointestinal tract, INVEGA® should ordinarily not be administered to patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, "short gut" syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudoobstruction, or Meckel's diverticulum).
+Because the INVEGA® tablet is non-deformable and does not appreciably change in shape in the gastrointestinal tract, INVEGA® should ordinarily not be administered to patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, "short gut" syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudo obstruction, or Meckel's diverticulum).
 There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of drugs in non-deformable controlled-release formulations.
 Because of the controlled-release design of the tablet, INVEGA® should only be used in patients who are able to swallow the tablet whole [see Dosage and Administration (2.3) and Patient Counseling Information (17.8)].
 
@@ -260,7 +260,12 @@ In pooled results of the three placebo-controlled, 6-week, fixed-dose trials in 
 INVEGA® should be used with caution in patients with known cardiovascular disease (e.g., heart failure, history of myocardial infarction or ischemia, conduction abnormalities), cerebrovascular disease, or conditions that predispose the patient to hypotension (e.g., dehydration, hypovolemia, and treatment with antihypertensive medications).
 Monitoring of orthostatic vital signs should be considered in patients who are vulnerable to hypotension.
 
-## 5.10 Leukopenia, Neutropenia, and Agranulocytosis
+## 5.10 Falls
+
+Somnolence, postural hypotension, motor and sensory instability have been reported with the use of antipsychotics, including INVEGA®, which may lead to falls and, consequently, fractures or other fall-related injuries.
+For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## 5.11 Leukopenia, Neutropenia, and Agranulocytosis
 
 Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including INVEGA®.
 Agranulocytosis has also been reported.
@@ -271,51 +276,51 @@ Patients with a history of a clinically significant low WBC or a drug-induced le
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue INVEGA® and have their WBC followed until recovery.
 
-## 5.11 Potential for Cognitive and Motor Impairment
+## 5.12 Potential for Cognitive and Motor Impairment
 
 Somnolence was reported in subjects treated with INVEGA® [see Adverse Reactions (6.1, 6.2)].
 Antipsychotics, including INVEGA®, have the potential to impair judgment, thinking, or motor skills.
 Patients should be cautioned about performing activities requiring mental alertness, such as operating hazardous machinery or operating a motor vehicle, until they are reasonably certain that paliperidone therapy does not adversely affect them.
 
-## 5.12 Seizures
+## 5.13 Seizures
 
 During premarketing clinical trials in subjects with schizophrenia (the three placebo-controlled, 6-week, fixed-dose studies and a study conducted in elderly schizophrenic subjects), seizures occurred in 0.22% of subjects treated with INVEGA® (3 mg, 6 mg, 9 mg, 12 mg) and 0.25% of subjects treated with placebo.
 Like other antipsychotic drugs, INVEGA® should be used cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
 Conditions that lower the seizure threshold may be more prevalent in patients 65 years or older.
 
-## 5.13 Dysphagia
+## 5.14 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
 INVEGA® and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 
-## 5.14 Suicide
+## 5.15 Suicide
 
 The possibility of suicide attempt is inherent in psychotic illnesses, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for INVEGA® should be written for the smallest quantity of tablets consistent with good patient management in order to reduce the risk of overdose.
 
-## 5.15 Priapism
+## 5.16 Priapism
 
 Drugs with alpha-adrenergic blocking effects have been reported to induce priapism.
 Priapism has been reported with INVEGA® during postmarketing surveillance.
 Severe priapism may require surgical intervention.
 
-## 5.16 Thrombotic Thrombocytopenic Purpura (TTP)
+## 5.17 Thrombotic Thrombocytopenic Purpura (TTP)
 
 No cases of TTP were observed during clinical studies with paliperidone.
 Although cases of TTP have been reported in association with risperidone administration, the relationship to risperidone therapy is unknown.
 
-## 5.17 Body Temperature Regulation
+## 5.18 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing INVEGA® to patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
 
-## 5.18 Antiemetic Effect
+## 5.19 Antiemetic Effect
 
 An antiemetic effect was observed in preclinical studies with paliperidone.
 This effect, if it occurs in humans, may mask the signs and symptoms of overdosage with certain drugs or of conditions such as intestinal obstruction, Reye's syndrome, and brain tumor.
 
-## 5.19 Use in Patients with Concomitant Illness
+## 5.20 Use in Patients with Concomitant Illness
 
 Clinical experience with INVEGA® in patients with certain concomitant illnesses is limited [see Clinical Pharmacology (12.3)].
 
@@ -326,6 +331,6 @@ INVEGA® has not been evaluated or used to any appreciable extent in patients wi
 Patients with these diagnoses were excluded from premarketing clinical trials.
 Because of the risk of orthostatic hypotension with INVEGA®, caution should be observed in patients with known cardiovascular disease [see Warnings and Precautions (5.9)].
 
-## 5.20 Monitoring: Laboratory Tests
+## 5.21 Monitoring: Laboratory Tests
 
 No specific laboratory tests are recommended.
