@@ -8,7 +8,7 @@ U.S. Patent No. 7,872,049
 
 Manufactured for Espero Pharmaceuticals, Inc. Jacksonville, FL 32250 by G. Pohl-Boskamp GmbH & Co. KG, 25551 Hohenlockstedt, Germany.
 
-Instructions for Use Nitrolingual® Pumpspray (nī-trō-ling´gwal) (nitroglycerin) lingual spray
+Instructions for Use Nitrolingual® Pumpspray (nī-trō-ling´gwal) (nitroglycerin) lingualspray
 
 Read this Instructions for Use before you start using Nitrolingual Pumpspray and each time you get your prescription refilled.
 There may be new information.
@@ -17,7 +17,7 @@ This information does not take the place of talking to your healthcare provider 
 Important information:
 
 - Nitrolingual Pumpspray is for use onto or under the tongue.
-  Do not inhale Nitrolingual Pumpspray.
+  Do not inhaleNitrolingual Pumpspray.
 - A dose of Nitrolingual Pumpspray may be either 1 or 2 sprays.
   Follow your healthcare provider’s instructions about how many sprays you should use for each dose.
   Doses should be separated by approximately 5 minutes.
@@ -28,7 +28,7 @@ Nitrolingual Pumpspray parts:
 
 Figure A
 
-How should I use Nitrolingual Pumpspray?
+How should Iuse Nitrolingual Pumpspray?
 
 - It is best to use Nitrolingual Pumpspray while you are resting and in a sitting position.
 - Do not shake the Nitrolingual Pumpspray container.
