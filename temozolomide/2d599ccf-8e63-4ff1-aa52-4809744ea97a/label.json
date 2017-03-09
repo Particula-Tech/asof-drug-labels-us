@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA201528"
+  ],
+  "inn": "temozolomide",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-048-53",
+    "16729-048-54",
+    "16729-049-53",
+    "16729-050-53",
+    "16729-050-54",
+    "16729-051-53",
+    "16729-129-53",
+    "16729-129-54",
+    "16729-130-53",
+    "16729-130-54"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "temozolomide",
+      "name": "Temozolomide"
+    }
+  ],
+  "setid": "2d599ccf-8e63-4ff1-aa52-4809744ea97a",
+  "source": "dailymed"
+}
