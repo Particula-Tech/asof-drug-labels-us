@@ -9,13 +9,14 @@ The following are discussed in more detail in other sections of the labeling:
 - Metabolic Changes (Hyperglycemia and diabetes mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.5)]
 - Hyperprolactinemia [see Warnings and Precautions (5.6)]
 - Orthostatic hypotension [see Warnings and Precautions (5.7)]
-- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.8)]
-- Potential for cognitive and motor impairment [see Warnings and Precautions (5.9)]
-- Seizures [see Warnings and Precautions (5.10)]
-- Dysphagia [see Warnings and Precautions (5.11)]
-- Priapism [see Warnings and Precautions (5.12)]
-- Disruption of body temperature regulation [see Warnings and Precautions (5.13)]
-- Patients with Phenylketonuria [see Warnings and Precautions (5.14)].
+- Falls [see Warnings and Precautions (5.8)]
+- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.9)]
+- Potential for cognitive and motor impairment [see Warnings and Precautions (5.10)]
+- Seizures [see Warnings and Precautions (5.11)]
+- Dysphagia [see Warnings and Precautions (5.12)]
+- Priapism [see Warnings and Precautions (5.13)]
+- Disruption of body temperature regulation [see Warnings and Precautions (5.14)]
+- Patients with Phenylketonuria [see Warnings and Precautions (5.15)].
 
 The most common adverse reactions in clinical trials (>5% and twice placebo) were parkinsonism, akathisia, dystonia, tremor, sedation, dizziness, anxiety, blurred vision, nausea, vomiting, upper abdominal pain, stomach discomfort, dyspepsia, diarrhea, salivary hypersecretion, constipation, dry mouth, increased appetite, increased weight, fatigue, rash, nasal congestion, upper respiratory tract infection, nasopharyngitis, and pharyngolaryngeal pain.
 
@@ -386,7 +387,7 @@ The adverse reactions associated with discontinuation in more than one RISPERDAL
 
 Autistic Disorder - Pediatrics
 
-In the two 8-week, placebo-controlled trials in pediatric patients treated for irritability associated with autistic disorder (n = 156), one RISPERDAL®-treated patient discontinued due to an adverse reaction (Parkinsonism), and one placebo-treated patient discontinued due to an adverse event.
+In the two 8-week, placebo-controlled trials in pediatric patients treated for irritability associated with autistic disorder (n=156), one RISPERDAL®-treated patient discontinued due to an adverse reaction (Parkinsonism), and one placebo-treated patient discontinued due to an adverse event.
 
 Dose Dependency of Adverse Reactions in Clinical Trials
 

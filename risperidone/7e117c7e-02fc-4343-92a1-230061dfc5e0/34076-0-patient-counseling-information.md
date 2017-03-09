@@ -9,7 +9,7 @@ Advise patients and caregivers about the risk of orthostatic hypotension, especi
 ## 17.2 Interference with Cognitive and Motor Performance
 
 Inform patients and caregivers that RISPERDAL® has the potential to impair judgment, thinking, or motor skills.
-Advise caution about operating hazardous machinery, including automobiles, until patients are reasonably certain that RISPERDAL® therapy does not affect them adversely [see Warnings and Precautions (5.9)].
+Advise caution about operating hazardous machinery, including automobiles, until patients are reasonably certain that RISPERDAL® therapy does not affect them adversely [see Warnings and Precautions (5.10)].
 
 ## 17.3 Pregnancy
 
@@ -32,7 +32,7 @@ Advise patients to avoid alcohol while taking RISPERDAL® [see Drug Interactions
 
 Inform patients with Phenylketonuria and caregivers that RISPERDAL® M-TAB® Orally Disintegrating Tablets contain phenylalanine.
 Phenylalanine is a component of aspartame.
-Each 4 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.84 mg phenylalanine; each 3 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.63 mg phenylalanine; each 2 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.42 mg phenylalanine; each 1 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.28 mg phenylalanine; and each 0.5 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.14 mg phenylalanine [see Warnings and Precautions (5.14)].
+Each 4 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.84 mg phenylalanine; each 3 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.63 mg phenylalanine; each 2 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.42 mg phenylalanine; each 1 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.28 mg phenylalanine; and each 0.5 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.14 mg phenylalanine [see Warnings and Precautions (5.15)].
 
 ## 17.8 Metabolic Changes
 

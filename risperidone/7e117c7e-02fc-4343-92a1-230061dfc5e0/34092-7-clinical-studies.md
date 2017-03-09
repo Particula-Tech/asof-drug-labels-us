@@ -33,8 +33,8 @@ Pediatrics
 
 The efficacy of RISPERDAL® in the treatment of schizophrenia in adolescents aged 13–17 years was demonstrated in two short-term (6 and 8 weeks), double-blind controlled trials.
 All patients met DSM-IV diagnostic criteria for schizophrenia and were experiencing an acute episode at time of enrollment.
-In the first trial (study #1), patients were randomized into one of three treatment groups: RISPERDAL® 1–3 mg/day (n = 55, mean modal dose = 2.6 mg), RISPERDAL® 4–6 mg/day (n = 51, mean modal dose = 5.3 mg), or placebo (n = 54).
-In the second trial (study #2), patients were randomized to either RISPERDAL® 0.15–0.6 mg/day (n = 132, mean modal dose = 0.5 mg) or RISPERDAL® 1.5–6 mg/day (n = 125, mean modal dose = 4 mg).
+In the first trial (study #1), patients were randomized into one of three treatment groups: RISPERDAL® 1–3 mg/day (n=55, mean modal dose = 2.6 mg), RISPERDAL® 4–6 mg/day (n=51, mean modal dose = 5.3 mg), or placebo (n=54).
+In the second trial (study #2), patients were randomized to either RISPERDAL® 0.15–0.6 mg/day (n=132, mean modal dose = 0.5 mg) or RISPERDAL® 1.5–6 mg/day (n=125, mean modal dose = 4 mg).
 In all cases, study medication was initiated at 0.5 mg/day (with the exception of the 0.15–0.6 mg/day group in study #2, where the initial dose was 0.05 mg/day) and titrated to the target dosage range by approximately Day 7.
 Subsequently, dosage was increased to the maximum tolerated dose within the target dose range by Day 14.
 The primary efficacy variable in all studies was the mean change from baseline in total PANSS score.
@@ -61,7 +61,7 @@ The results of the trials follow:
 Pediatrics
 
 The efficacy of RISPERDAL® in the treatment of mania in children or adolescents with Bipolar I disorder was demonstrated in a 3-week, randomized, double-blind, placebo-controlled, multicenter trial including patients ranging in ages from 10 to 17 years who were experiencing a manic or mixed episode of bipolar I disorder.
-Patients were randomized into one of three treatment groups: RISPERDAL® 0.5–2.5 mg/day (n = 50, mean modal dose = 1.9 mg), RISPERDAL® 3–6 mg/day (n = 61, mean modal dose = 4.7 mg), or placebo (n = 58).
+Patients were randomized into one of three treatment groups: RISPERDAL® 0.5–2.5 mg/day (n=50, mean modal dose = 1.9 mg), RISPERDAL® 3–6 mg/day (n=61, mean modal dose = 4.7 mg), or placebo (n=58).
 In all cases, study medication was initiated at 0.5 mg/day and titrated to the target dosage range by Day 7, with further increases in dosage to the maximum tolerated dose within the targeted dose range by Day 10.
 The primary rating instrument used for assessing efficacy in this study was the mean change from baseline in the total YMRS score.
 
@@ -111,7 +111,7 @@ The dose was administered once daily in the morning, or in the evening if sedati
 The primary efficacy endpoint was the mean change in the Aberrant Behavior Checklist – Irritability subscale (ABC-I) score from baseline to the end of Week 6.
 The study demonstrated the efficacy of high-dose risperidone, as measured by the mean change in ABC-I score.
 It did not demonstrate efficacy for low-dose risperidone.
-The mean baseline ABC-I scores were 29 in the placebo group (n = 35), 27 in the risperidone low-dose group (n = 30), and 28 in the risperidone high-dose group (n = 31).
+The mean baseline ABC-I scores were 29 in the placebo group (n=35), 27 in the risperidone low-dose group (n=30), and 28 in the risperidone high-dose group (n=31).
 The mean changes in ABC-I scores were -3.5, -7.4, and -12.4 in the placebo, low-dose, and high-dose group respectively.
 The results in the high-dose group were statistically significant (p< 0.001) but not in the low-dose group (p=0.164).
 
