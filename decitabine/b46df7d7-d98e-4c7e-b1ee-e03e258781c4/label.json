@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203475"
+  ],
+  "inn": "decitabine",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-224-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "decitabine",
+      "name": "Decitabine"
+    }
+  ],
+  "setid": "b46df7d7-d98e-4c7e-b1ee-e03e258781c4",
+  "source": "dailymed"
+}
