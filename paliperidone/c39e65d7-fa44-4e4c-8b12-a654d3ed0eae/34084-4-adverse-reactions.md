@@ -9,13 +9,14 @@ The following are discussed in more detail in other sections of the labeling:
 - Tardive dyskinesia [see Warnings and Precautions (5.5)]
 - Metabolic changes [see Warnings and Precautions (5.6)]
 - Orthostatic hypotension and syncope [see Warnings and Precautions (5.7)]
-- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.8)]
-- Hyperprolactinemia [see Warnings and Precautions (5.9)]
-- Potential for cognitive and motor impairment [see Warnings and Precautions (5.10)]
-- Seizures [see Warnings and Precautions (5.11)]
-- Dysphagia [see Warnings and Precautions (5.12)]
-- Priapism [see Warnings and Precautions (5.13)]
-- Disruption of body temperature regulation [see Warnings and Precautions (5.14)]
+- Falls [see Warnings and Precautions (5.8)]
+- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.9)]
+- Hyperprolactinemia [see Warnings and Precautions (5.10)]
+- Potential for cognitive and motor impairment [see Warnings and Precautions (5.11)]
+- Seizures [see Warnings and Precautions (5.12)]
+- Dysphagia [see Warnings and Precautions (5.13)]
+- Priapism [see Warnings and Precautions (5.14)]
+- Disruption of body temperature regulation [see Warnings and Precautions (5.15)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -115,7 +116,7 @@ Pain Assessment and Local Injection Site Reactions
 
 Investigator ratings of injection site.
 Redness and swelling were observed in 2% or less of subjects in the INVEGA TRINZA® and placebo groups during the double-blind phase of the long-term maintenance study, and were rated mild based on investigator ratings using a 4-point scale (0=absent; 1=mild; 2=moderate; 3=severe).
-There were no reports of induration in either group during the double-blind phase and no subjects discontinued due to INVEGA TRINZA® injection.
+There were no reports of induration in either group during the double-blind phase, and no subjects discontinued due to INVEGA TRINZA® injection.
 
 Subject ratings of injection site pain.
 Subject evaluations of injection pain during the double-blind phase also were similar for placebo and INVEGA TRINZA®.

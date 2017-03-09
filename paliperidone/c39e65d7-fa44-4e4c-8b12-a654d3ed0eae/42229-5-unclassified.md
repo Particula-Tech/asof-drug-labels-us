@@ -9,4 +9,4 @@ Beerse, Belgium
 
 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-© Janssen Pharmaceuticals, Inc. 2015
+© 2015 Janssen Pharmaceutical Companies

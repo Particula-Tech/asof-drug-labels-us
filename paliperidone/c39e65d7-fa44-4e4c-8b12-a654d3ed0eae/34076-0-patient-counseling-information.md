@@ -21,26 +21,26 @@ Educate patients about the risk of orthostatic hypotension, particularly at the 
 
 Leukopenia/Neutropenia
 
-Advise patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia they should have their CBC monitored while taking INVEGA TRINZA® [see Warnings and Precautions (5.8)].
+Advise patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia they should have their CBC monitored while taking INVEGA TRINZA® [see Warnings and Precautions (5.9)].
 
 Hyperprolactinemia
 
 Counsel patients on signs and symptoms of hyperprolactinemia that may be associated with chronic use of INVEGA TRINZA®.
 Advise them to seek medical attention if they experience any of the following: amenorrhea or galactorrhea in females, erectile dysfunction or gynecomastia in males.
-[See Warnings and Precautions (5.9)]
+[See Warnings and Precautions (5.10)]
 
 Interference with Cognitive and Motor Performance
 
-As INVEGA TRINZA® has the potential to impair judgment, thinking, or motor skills, caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that INVEGA TRINZA® therapy does not affect them adversely [see Warnings and Precautions (5.10)].
+As INVEGA TRINZA® has the potential to impair judgment, thinking, or motor skills, caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that INVEGA TRINZA® therapy does not affect them adversely [see Warnings and Precautions (5.11)].
 
 Priapism
 
 Advise patients of the possibility of painful or prolonged penile erections (priapism).
-Instruct the patient to seek immediate medical attention in the event of priapism [Warnings and Precautions (5.13)].
+Instruct the patient to seek immediate medical attention in the event of priapism [Warnings and Precautions (5.14)].
 
 Heat Exposure and Dehydration
 
-Counsel patients on the importance of avoiding overheating and dehydration [see Warnings and Precautions (5.14)].
+Counsel patients on the importance of avoiding overheating and dehydration [see Warnings and Precautions (5.15)].
 
 Concomitant Medication
 
