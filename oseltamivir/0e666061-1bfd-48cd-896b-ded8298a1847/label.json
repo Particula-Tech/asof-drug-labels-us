@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA208578"
+  ],
+  "inn": "oseltamivir",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "70710-1008-2",
+    "70710-1009-2",
+    "70710-1010-2"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "oseltamivir phosphate",
+      "name": "OSELTAMIVIR PHOSPHATE"
+    }
+  ],
+  "setid": "0e666061-1bfd-48cd-896b-ded8298a1847",
+  "source": "dailymed"
+}
