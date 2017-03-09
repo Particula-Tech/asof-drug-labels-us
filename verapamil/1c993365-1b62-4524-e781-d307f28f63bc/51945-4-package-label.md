@@ -1,10 +1,10 @@
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Label - NDC 0409-1144-01
 
-2 mL Single-dose NDC 0409-1144-01
+NDC 0409-1144-01
 
-VERAPAMIL HCl Injection, USP
+2 mL Single-dose
 
-5 mg (2.5 mg/mL)
+VERAPAMIL HCl Injection, USP 5 mg (2.5 mg/mL)
 
 Protect from light.
 For I.V. use only.
@@ -17,7 +17,9 @@ Hospira, Inc., Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Carton - NDC 0409-1144-01
 
-2 mL Single-dose Fliptop Vial 5 Units NDC 0409-1144-01
+5 Units NDC 0409-1144-01
+
+2 mL Single-dose Fliptop Vial
 
 VERAPAMIL HYDROCHLORIDE Injection, USP 5 mg (2.5 mg/mL) Protect from light.
 For I.V. use only.
@@ -30,9 +32,9 @@ HOSPIRA, INC., LAKE FOREST, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 4 mL Vial Label
 
-4 mL Single-dose
-
 NDC 0409-1144-02 Rx only
+
+4 mL Single-dose
 
 VERAPAMIL HCl Injection, USP 10 mg (2.5 mg/mL)
 
@@ -45,7 +47,9 @@ RL-3282
 
 # PRINCIPAL DISPLAY PANEL - 4 mL Vial Carton
 
-4 mL Single-dose Fliptop Vial 5 Units NDC 0409-1144-02
+4 mL Single-dose Fliptop Vial
+
+5 Units NDC 0409-1144-02
 
 VERAPAMIL HYDROCHLORIDE Injection, USP 10 mg (2.5 mg/mL) Protect from light.
 For I.V. use only.
@@ -58,19 +62,20 @@ Hospira, Inc., Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Label - NDC 0409-1144-05
 
-2 mL Single-dose NDC 0409-1144-05
+2 mL Single-dose
 
-Rx only
+NDC 0409-1144-05 Rx only
 
 VERAPAMIL HCl Injection, USP 5 mg/2 mL (2.5 mg/mL)
 
 Protect from light.
 For IV use only.
+
 RL-3249
 
 Hospira, Inc., Lake Forest, IL 60045 USA
 
-# PRINCIPAL DISPLAY PANEL - 2 mL Vial Carton - NDC 0409-1144-05
+# PRINCIPAL DISPLAY PANEL - 2 mL Vial Tray
 
 25 x 2 mL Single-dose Fliptop Vial
 
@@ -84,9 +89,9 @@ Hospira
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Ampule Label
 
-2 mL NDC 0409-4011-01
+NDC 0409-4011-01
 
-VERAPAMIL HCl Injection, USP 5 mg (2.5 mg/mL)
+2 mL VERAPAMIL HCl Injection, USP 5 mg (2.5 mg/mL)
 
 Protect from light.
 For I.V. use only.
@@ -118,13 +123,19 @@ Usual dosage: See insert.
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
 
-©Hospira 2005 Printed in USA HOSPIRA, INC., LAKE FOREST, IL 60045 USA Hospira
+©Hospira 2005 Printed in USA HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+
+Hospira
 
 RL-1391 (6/05)
 
 # PRINCIPAL DISPLAY PANEL - 4 mL Syringe Label
 
-4 mL Single-dose Rx only NDC 0409-9633-05
+VERAPAMIL (2.5 mg/mL)
+
+NDC 0409-9633-05
+
+4 mL Single-dose Rx only
 
 VERAPAMIL HCl Inj., USP 10 mg (2.5 mg/mL) Protect From Light.
 
@@ -140,7 +151,9 @@ RL-0133 (9/04)
 
 # PRINCIPAL DISPLAY PANEL - 4 mL Syringe Carton
 
-4 mL NDC 0409- 9633-05
+4 mL
+
+NDC 0409- 9633-05
 
 VERAPAMIL HYDROCHLORIDE Injection, USP
 
@@ -161,4 +174,4 @@ Rx only
 
 Hospira
 
-◀PRESS AND PULL TO OPEN▶
+◀ PRESS AND PULL TO OPEN ▶

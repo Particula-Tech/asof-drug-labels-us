@@ -1,8 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
-
-Verapamil inhibits the calcium ion (and possibly sodium ion) influx through slow channels into conductile and contractile myocardial cells and vascular smooth muscle cells.
+Mechanism of Action: Verapamil inhibits the calcium ion (and possibly sodium ion) influx through slow channels into conductile and contractile myocardial cells and vascular smooth muscle cells.
 The antiarrhythmic effect of verapamil appears to be due to its effect on the slow channel in cells of the cardiac conduction system.
 The vasodilatory effect of verapamil appears to be due to its effect on blockade of calcium channels as well as α receptors.
 
@@ -21,17 +19,13 @@ It is not known whether this action is important at the doses used in man.
 
 Verapamil does not alter total serum calcium levels.
 
-## Hemodynamics
-
-Verapamil reduces afterload and myocardial contractility.
+Hemodynamics: Verapamil reduces afterload and myocardial contractility.
 The commonly used intravenous doses of 5 to 10 mg verapamil hydrochloride produce transient, usually asymptomatic, reduction in normal systemic arterial pressure, systemic vascular resistance and contractility; left ventricular filling pressure is slightly increased.
 In most patients, including those with organic cardiac disease, the negative inotropic action of verapamil is countered by reduction of afterload, and cardiac index is usually not reduced.
 However, in patients with moderately severe to severe cardiac dysfunction (pulmonary wedge pressure above 20 mm Hg, ejection fraction less than 30%), acute worsening of heart failure may be seen.
 Peak therapeutic effects occur within 3 to 5 minutes after a bolus injection.
 
-## Pharmacokinetics
-
-Intravenously administered verapamil hydrochloride has been shown to be rapidly metabolized.
+Pharmacokinetics: Intravenously administered verapamil hydrochloride has been shown to be rapidly metabolized.
 Following intravenous infusion in man, verapamil is eliminated bi-exponentially, with a rapid early distribution phase (half-life about 4 minutes) and a slower terminal elimination phase (half-life 2 to 5 hours).
 In healthy men, orally administered verapamil hydrochloride undergoes extensive metabolism in the liver, with 12 metabolites having been identified, most in only trace amounts.
 The major metabolites have been identified as various N- and O-dealkylated products of verapamil.

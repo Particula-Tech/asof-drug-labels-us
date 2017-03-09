@@ -4,31 +4,25 @@ FOR INTRAVENOUS USE ONLY.
 VERAPAMIL HYDROCHLORIDE INJECTION SHOULD BE GIVEN AS A SLOW INTRAVENOUS INJECTION OVER AT LEAST A TWO-MINUTE PERIOD OF TIME UNDER CONTINUOUS ELECTROCARDIOGRAPHIC (ECG) AND BLOOD PRESSURE MONITORING.
 The recommended intravenous doses of verapamil hydrochloride injection are as follows:
 
-## Adult
+Adult:
 
-### Initial dose
+Initial dose − 5 to 10 mg (0.075 to 0.15 mg/kg body weight) given as an intravenous bolus over at least 2 minutes.
 
-5 to 10 mg (0.075 to 0.15 mg/kg body weight) given as an intravenous bolus over at least 2 minutes.
-
-### Repeat dose
-
-10 mg (0.15 mg/kg body weight) 30 minutes after the first dose if the initial response is not adequate.
+Repeat dose − 10 mg (0.15 mg/kg body weight) 30 minutes after the first dose if the initial response is not adequate.
 An optimal interval for subsequent I.V. doses has not been determined, and should be individualized for each patient.
 
-### Older patients
+Older patients − The dose should be administered over at least 3 minutes to minimize the risk of untoward drug effects.
 
-The dose should be administered over at least 3 minutes to minimize the risk of untoward drug effects.
+Pediatric:
 
-## Pediatric
-
-### Initial dose
+Initial dose:
 
 0 to 1 year: 0.1 to 0.2 mg/kg body weight (usual single dose range: 0.75 to 2 mg) should be administered as an intravenous bolus over at least 2 minutes under continuous ECG monitoring.
 
 1 to 15 years: 0.1 to 0.3 mg/kg body weight (usual single dose range: 2 to 5 mg) should be administered as an intravenous bolus over at least 2 minutes.
 Do not exceed 5 mg.
 
-### Repeat dose
+Repeat dose:
 
 0 to 1 year: 0.1 to 0.2 mg/kg body weight (usual single dose range: 0.75 to 2 mg) 30 minutes after the first dose if the initial response is not adequate (under continuous ECG monitoring).
 An optimal interval for subsequent I.V. doses has not been determined, and should be individualized for each patient.
