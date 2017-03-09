@@ -73,7 +73,7 @@ In addition, there were no clinically relevant changes noted in glucose or potas
 
 ## 6.2 Clinical Trials Experience in Chronic Obstructive Pulmonary Disease
 
-Short-Term (6 Months to 1 Year) Trials
+Short-term (6 Months to 1 Year) Trials
 
 The short-term safety data are based on exposure to ADVAIR DISKUS 250/50 twice daily in one 6-month and two 1-year clinical trials.
 In the 6-month trial, a total of 723 adult subjects (266 females and 457 males) were treated twice daily with ADVAIR DISKUS 250/50, fluticasone propionate inhalation powder 250 mcg, salmeterol inhalation powder, or placebo.
@@ -115,7 +115,7 @@ The incidence of pneumonia was higher in subjects older than 65 years, 9% in the
 In the subjects treated with salmeterol, the incidence of pneumonia was the same (3%) in both age-groups.
 [See Warnings and Precautions (5.5), Use in Specific Populations (8.5).]
 
-Long-Term (3 Years) Trial
+Long-term (3 Years) Trial
 
 The safety of ADVAIR DISKUS 500/50 was evaluated in a randomized, double-blind, placebo-controlled, multicenter, international, 3-year trial in 6,184 adult subjects with COPD (4,684 males and 1,500 females).
 The mean age of the subjects was 65 years, and the majority (82%) was Caucasian.

@@ -31,21 +31,21 @@ The data from the SMART trial are not adequate to determine whether concurrent u
 Table 1.
 Asthma-Related Deaths in the 28-Week Salmeterol Multicenter Asthma Research Trial (SMART)
 
-|  | Salmeteroln (%a) | Placebon (%a) | Relative Riskb(95% Confidence Interval) | Excess Deaths Expressed per 10,000 Subjectsc(95% Confidence Interval) |  |
-| --- | --- | --- | --- | --- | --- |
-| Total Populationd |  |  |  |  |  |
-| Salmeterol: n = 13,176 | 13 (0.10%) |  | 4.37 (1.25, 15.34) | 8 (3, 13) |  |
-| Placebo: n = 13,179 |  | 3 (0.02%) |  |  |  |
-| Caucasian |  |  |  |  |  |
-| Salmeterol: n = 9,281 | 6 (0.07%) |  | 5.82 (0.70, 48.37) | 6 (1, 10) |  |
-| Placebo: n = 9,361 |  | 1 (0.01%) |  |  |  |
-| African American |  |  |  |  |  |
-| Salmeterol: n = 2,366 | 7 (0.31%) |  | 7.26 (0.89, 58.94) | 27 (8, 46) |  |
-| Placebo: n = 2,319 |  | 1 (0.04%) |  |  |  |
-| aLife-table 28-week estimate, adjusted according to the subjects’ actual lengths of exposure to trial treatment to account for early withdrawal of subjects from the trial. |  |  |  |  |  |
-| bRelative risk is the ratio of the rate of asthma-related death in the salmeterol group and the rate in the placebo group. The relative risk indicates how many more times likely an asthma-related death occurred in the salmeterol group than in the placebo group in a 28-week treatment period. |  |  |  |  |  |
-| cEstimate of the number of additional asthma-related deaths in subjects treated with salmeterol in SMART, assuming 10,000 subjects received salmeterol for a 28-week treatment period. Estimate calculated as the difference between the salmeterol and placebo groups in the rates of asthma-related death multiplied by 10,000. |  |  |  |  |  |
-| dThe Total Population includes the following ethnic origins listed on the case report form: Caucasian, African American, Hispanic, Asian, and “Other.” In addition, the Total Population includes those subjects whose ethnic origin was not reported. The results for Caucasian and African American subpopulations are shown above. No asthma-related deaths occurred in the Hispanic (salmeterol n = 996, placebo n = 999), Asian (salmeterol n = 173, placebo n = 149), or “Other” (salmeterol n = 230, placebo n = 224) subpopulations. One asthma-related death occurred in the placebo group in the subpopulation whose ethnic origin was not reported (salmeterol n = 130, placebo n = 127). |  |  |  |  |  |
+|  | Salmeteroln (%a) | Placebon (%a) | Relative Riskb(95% Confidence Interval) | Excess Deaths Expressed per 10,000 Subjectsc(95% Confidence Interval) |
+| --- | --- | --- | --- | --- |
+| Total populationd |  |  |  |  |
+| Salmeterol: n = 13,176 | 13 (0.10%) |  | 4.37 (1.25, 15.34) | 8 (3, 13) |
+| Placebo: n = 13,179 |  | 3 (0.02%) |  |  |
+| Caucasian |  |  |  |  |
+| Salmeterol: n = 9,281 | 6 (0.07%) |  | 5.82 (0.70, 48.37) | 6 (1, 10) |
+| Placebo: n = 9,361 |  | 1 (0.01%) |  |  |
+| African American |  |  |  |  |
+| Salmeterol: n = 2,366 | 7 (0.31%) |  | 7.26 (0.89, 58.94) | 27 (8, 46) |
+| Placebo: n = 2,319 |  | 1 (0.04%) |  |  |
+| aLife-table 28-week estimate, adjusted according to the subjects’ actual lengths of exposure to trial treatment to account for early withdrawal of subjects from the trial. |  |  |  |  |
+| bRelative risk is the ratio of the rate of asthma-related death in the salmeterol group and the rate in the placebo group. The relative risk indicates how many more times likely an asthma-related death occurred in the salmeterol group than in the placebo group in a 28-week treatment period. |  |  |  |  |
+| cEstimate of the number of additional asthma-related deaths in subjects treated with salmeterol in SMART, assuming 10,000 subjects received salmeterol for a 28-week treatment period. Estimate calculated as the difference between the salmeterol and placebo groups in the rates of asthma-related death multiplied by 10,000. |  |  |  |  |
+| dThe total population includes the following ethnic origins listed on the case report form: Caucasian, African American, Hispanic, Asian, and “Other.” In addition, the total population includes those subjects whose ethnic origin was not reported. The results for Caucasian and African American subpopulations are shown above. No asthma-related deaths occurred in the Hispanic (salmeterol n = 996, placebo n = 999), Asian (salmeterol n = 173, placebo n = 149), or “Other” (salmeterol n = 230, placebo n = 224) subpopulations. One asthma-related death occurred in the placebo group in the subpopulation whose ethnic origin was not reported (salmeterol n = 130, placebo n = 127). |  |  |  |  |
 
 Figure 1.
 Cumulative Incidence of Asthma-Related Deaths in the 28-Week Salmeterol Multicenter Asthma Research Trial (SMART), by Duration of Treatment
@@ -72,12 +72,12 @@ In this situation, the patient requires immediate reevaluation with reassessment
 Patients should not use more than 1 inhalation twice daily of ADVAIR DISKUS.
 
 ADVAIR DISKUS should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm.
-An inhaled, short-acting beta2-agonist, not ADVAIR DISKUS, should be used to relieve acute symptoms such as shortness of breath.
-When prescribing ADVAIR DISKUS, the healthcare provider should also prescribe an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of acute symptoms, despite regular twice-daily use of ADVAIR DISKUS.
+ADVAIR DISKUS has not been studied in the relief of acute symptoms and extra doses should not be used for that purpose.
+Acute symptoms should be treated with an inhaled, short-acting beta2-agonist.
 
 When beginning treatment with ADVAIR DISKUS, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
 
-## 5.3 Excessive Use of ADVAIR DISKUS and Use with Other Long-Acting Beta2-Agonists
+## 5.3 Excessive Use of ADVAIR DISKUS and Use with Other Long-acting Beta2-agonists
 
 ADVAIR DISKUS should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
@@ -181,7 +181,7 @@ Fatalities have been reported in association with excessive use of inhaled sympa
 
 Decreases in bone mineral density (BMD) have been observed with long-term administration of products containing inhaled corticosteroids.
 The clinical significance of small changes in BMD with regard to long-term consequences such as fracture is unknown.
-Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, postmenopausal status, tobacco use, advanced age, poor nutrition, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants, oral corticosteroids) should be monitored and treated with established standards of care.
+Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, postmenopausal status, tobacco use, advanced age, poor nutrition, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants, oral corticosteroids), should be monitored and treated with established standards of care.
 Since patients with COPD often have multiple risk factors for reduced BMD, assessment of BMD is recommended prior to initiating ADVAIR DISKUS and periodically thereafter.
 If significant reductions in BMD are seen and ADVAIR DISKUS is still considered medically important for that patient’s COPD therapy, use of medicine to treat or prevent osteoporosis should be strongly considered.
 

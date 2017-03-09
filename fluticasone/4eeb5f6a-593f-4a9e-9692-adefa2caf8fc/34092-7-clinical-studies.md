@@ -19,7 +19,7 @@ Worsening asthma was defined as a clinically important decrease in FEV1 or PEF, 
 As shown in Table 4, statistically significantly fewer subjects receiving ADVAIR DISKUS 100/50 were withdrawn due to worsening asthma compared with fluticasone propionate, salmeterol, and placebo.
 
 Table 4.
-Percent of Subjects Withdrawn Due to Worsening Asthma in Subjects Previously Treated with Either Inhaled Corticosteroids or Salmeterol (Trial 1)
+Percent of Subjects Withdrawn due to Worsening Asthma in Subjects Previously Treated with Either Inhaled Corticosteroids or Salmeterol (Trial 1)
 
 | ADVAIR DISKUS100/50(n = 87) | Fluticasone Propionate100 mcg(n = 85) | Salmeterol50 mcg(n = 86) | Placebo(n = 77) |
 | --- | --- | --- | --- |
@@ -50,7 +50,7 @@ Peak Expiratory Flow Results for Subjects with Asthma Previously Treated with Ei
 aChange from baseline = change from baseline at Endpoint (last available data).
 
 The subjective impact of asthma on subjects’ perception of health was evaluated through use of an instrument called the Asthma Quality of Life Questionnaire (AQLQ) (based on a 7-point scale where 1 = maximum impairment and 7 = none).
-Subjects receiving ADVAIR DISKUS 100/50 had clinically meaningful improvements in overall asthma-specific quality of life as defined by a difference between groups of ≥0.5 points in change from baseline AQLQ scores (difference in AQLQ score of 1.25 compared with placebo).
+Subjects receiving ADVAIR DISKUS 100/50 had clinically meaningful improvements in overall asthma-specific quality of life as defined by a difference between groups of greater than or equal to 0.5 points in change from baseline AQLQ scores (difference in AQLQ score of 1.25 compared with placebo).
 
 Trial 2: Clinical Trial with ADVAIR DISKUS 250/50: This placebo-controlled, 12-week, U.S. trial compared ADVAIR DISKUS 250/50 with its individual components, fluticasone propionate 250 mcg and salmeterol 50 mcg, in 349 subjects with asthma using inhaled corticosteroids (daily doses of beclomethasone dipropionate 462 to 672 mcg; flunisolide 1,250 to 2,000 mcg; fluticasone propionate inhalation aerosol 440 mcg; or triamcinolone acetonide 1,100 to 1,600 mcg).
 Baseline FEV1 measurements were similar across treatments: ADVAIR DISKUS 250/50, 2.23 L; fluticasone propionate 250 mcg, 2.12 L; salmeterol, 2.20 L; and placebo, 2.19 L.
@@ -146,8 +146,8 @@ The 2 exacerbation trials with ADVAIR DISKUS 250/50 were identical trials design
 A total of 1,579 subjects had an established history of COPD (but no other significant respiratory disorders).
 Subjects had a pre-bronchodilator FEV1 of 33% of predicted, a mean reversibility of 23% at baseline, and a history of greater than or equal to 1 COPD exacerbation in the previous year that was moderate or severe.
 All subjects were treated with ADVAIR DISKUS 250/50 twice daily during a 4-week run-in period prior to being assigned trial treatment with twice-daily ADVAIR DISKUS 250/50 or salmeterol 50 mcg.
-In both trials, treatment with ADVAIR DISKUS 250/50 resulted in a significantly lower annual rate of moderate/severe COPD exacerbations compared with salmeterol (30.5% reduction [95% CI: 17.0, 41.8], P<0.001) in the first trial and (30.4% reduction [95% CI: 16.9, 41.7], P<0.001) in the second trial.
-Subjects treated with ADVAIR DISKUS 250/50 also had a significantly lower annual rate of exacerbations requiring treatment with oral corticosteroids compared with subjects treated with salmeterol (39.7% reduction [95% CI: 22.8, 52.9], P<0.001) in the first trial and (34.3% reduction [95% CI: 18.6, 47.0], P<0.001) in the second trial.
+In both trials, treatment with ADVAIR DISKUS 250/50 resulted in a significantly lower annual rate of moderate/severe COPD exacerbations compared with salmeterol (30.5% reduction [95% CI: 17.0, 41.8], P less than 0.001) in the first trial and (30.4% reduction [95% CI: 16.9, 41.7], P less than 0.001) in the second trial.
+Subjects treated with ADVAIR DISKUS 250/50 also had a significantly lower annual rate of exacerbations requiring treatment with oral corticosteroids compared with subjects treated with salmeterol (39.7% reduction [95% CI: 22.8, 52.9], P less than 0.001) in the first trial and (34.3% reduction [95% CI: 18.6, 47.0], P less than 0.001) in the second trial.
 Secondary endpoints including pulmonary function and symptom scores improved more in subjects treated with ADVAIR DISKUS 250/50 than with salmeterol 50 mcg in both trials.
 
 Exacerbations were evaluated in the 1- and the 3-year trials with ADVAIR DISKUS 500/50 as 1 of the secondary efficacy endpoints.

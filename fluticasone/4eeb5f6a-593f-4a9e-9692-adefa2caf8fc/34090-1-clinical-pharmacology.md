@@ -111,7 +111,7 @@ Adult and adolescent subjects receiving 50-mcg doses of salmeterol inhalation po
 
 Concomitant Use of ADVAIR DISKUS with Other Respiratory Medications
 
-Short-Acting Beta2-Agonists: In clinical trials in subjects with asthma, the mean daily need for albuterol by 166 adult and adolescent subjects aged 12 years and older using ADVAIR DISKUS was approximately 1.3 inhalations/day and ranged from 0 to 9 inhalations/day.
+Short-acting Beta2-agonists: In clinical trials in subjects with asthma, the mean daily need for albuterol by 166 adult and adolescent subjects aged 12 years and older using ADVAIR DISKUS was approximately 1.3 inhalations/day and ranged from 0 to 9 inhalations/day.
 Five percent (5%) of subjects using ADVAIR DISKUS in these trials averaged 6 or more inhalations per day over the course of the 12-week trials.
 No increase in frequency of cardiovascular adverse events was observed among subjects who averaged 6 or more inhalations per day.
 
@@ -141,7 +141,7 @@ In a single-dose crossover trial, a higher-than-recommended dose of ADVAIR DISKU
 Two (2) inhalations of the following treatments were administered: ADVAIR DISKUS 500/50, fluticasone propionate powder 500 mcg and salmeterol powder 50 mcg given concurrently, and fluticasone propionate powder 500 mcg alone.
 Mean peak plasma concentrations of fluticasone propionate averaged 107, 94, and 120 pg/mL, respectively, indicating no significant changes in systemic exposures of fluticasone propionate.
 
-In 15 healthy subjects, systemic exposure to fluticasone propionate from 4 inhalations of ADVAIR® HFA 230/21 (fluticasone propionate 230 mcg and salmeterol 21 mcg) Inhalation Aerosol (920/84 mcg) and 2 inhalations of ADVAIR DISKUS 500/50 (1,000/100 mcg) were similar between the 2 inhalers (i.e., 799 versus 832 pg•h/mL, respectively), but approximately half the systemic exposure from 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg (880 mcg, AUC = 1,543 pg•h/mL).
+In 15 healthy subjects, systemic exposure to fluticasone propionate from 4 inhalations of ADVAIR® HFA 230/21 (fluticasone propionate 230 mcg and salmeterol 21 mcg) Inhalation Aerosol (920/84 mcg) and 2 inhalations of ADVAIR DISKUS 500/50 (1,000/100 mcg) was similar between the 2 inhalers (i.e., 799 versus 832 pg•h/mL, respectively), but approximately half the systemic exposure from 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg (880 mcg, AUC = 1,543 pg•h/mL).
 Similar results were observed for peak fluticasone propionate plasma concentrations (186 and 182 pg/mL from ADVAIR HFA and ADVAIR DISKUS, respectively, and 307 pg/mL from the fluticasone propionate CFC inhalation aerosol).
 Absolute bioavailability of fluticasone propionate was 5.3% and 5.5% following administration of ADVAIR HFA and ADVAIR DISKUS, respectively.
 
@@ -161,7 +161,7 @@ Following administration of ADVAIR DISKUS to healthy adult subjects, peak plasma
 
 In 15 healthy subjects receiving ADVAIR HFA 230/21 Inhalation Aerosol (920/84 mcg) and ADVAIR DISKUS 500/50 (1,000/100 mcg), systemic exposure to salmeterol was higher (317 versus 169 pg•h/mL) and peak salmeterol concentrations were lower (196 versus 223 pg/mL) following ADVAIR HFA compared with ADVAIR DISKUS, although pharmacodynamic results were comparable.
 
-Subjects with Asthma: Because of the small therapeutic dose, systemic levels of salmeterol are low or undetectable after inhalation of recommended doses (50 mcg of salmeterol inhalation powder twice daily).
+Subjects with Asthma: Because of the small therapeutic dose, systemic levels of salmeterol are low or undetectable after inhalation of recommended dosages (50 mcg of salmeterol inhalation powder twice daily).
 Following chronic administration of an inhaled dose of 50 mcg of salmeterol inhalation powder twice daily, salmeterol was detected in plasma within 5 to 45 minutes in 7 subjects with asthma; plasma concentrations were very low, with mean peak concentrations of 167 pg/mL at 20 minutes and no accumulation with repeated doses.
 
 Distribution
@@ -202,7 +202,7 @@ No terminal half-life estimates were calculated for salmeterol following adminis
 
 Special Populations
 
-A population pharmacokinetic analysis was performed for fluticasone propionate and salmeterol utilizing data from 9 controlled clinical trials that included 350 subjects with asthma aged 4 to 77 years who received treatment with ADVAIR DISKUS, the combination of HFA-propelled fluticasone propionate and salmeterol inhalation aerosol (ADVAIR HFA), fluticasone propionate inhalation powder (FLOVENT DISKUS), HFA-propelled fluticasone propionate inhalation aerosol (FLOVENT® HFA), or CFC-propelled fluticasone propionate inhalation aerosol.
+A population pharmacokinetic analysis was performed for fluticasone propionate and salmeterol utilizing data from 9 controlled clinical trials that included 350 subjects with asthma aged 4 to 77 years who received treatment with ADVAIR DISKUS, the combination of HFA-propelled fluticasone propionate and salmeterol inhalation aerosol (ADVAIR HFA), fluticasone propionate inhalation powder (FLOVENT DISKUS), HFA-propelled fluticasone propionate inhalation aerosol (FLOVENT® HFA), or chlorofluorocarbon (CFC)-propelled fluticasone propionate inhalation aerosol.
 The population pharmacokinetic analyses for fluticasone propionate and salmeterol showed no clinically relevant effects of age, gender, race, body weight, body mass index, or percent of predicted FEV1 on apparent clearance and apparent volume of distribution.
 
 Age: When the population pharmacokinetic analysis for fluticasone propionate was divided into subgroups based on fluticasone propionate strength, formulation, and age (adolescents/adults and children), there were some differences in fluticasone propionate exposure.
@@ -251,4 +251,4 @@ Although there was no statistical effect on the mean QTc, coadministration of sa
 
 Erythromycin: Fluticasone Propionate: In a multiple-dose drug interaction trial, coadministration of orally inhaled fluticasone propionate (500 mcg twice daily) and erythromycin (333 mg 3 times daily) did not affect fluticasone propionate pharmacokinetics.
 
-Salmeterol: In a repeat-dose trial in 13 healthy subjects, concomitant administration of erythromycin (a moderate CYP3A4 inhibitor) and salmeterol inhalation aerosol resulted in a 40% increase in salmeterol Cmax at steady state (ratio with and without erythromycin 1.4 [90% CI: 0.96, 2.03], P = 0.12), a 3.6-beat/min increase in heart rate ([95% CI: 0.19, 7.03], P<0.04), a 5.8-msec increase in QTc interval ([95% CI: -6.14, 17.77], P = 0.34), and no change in plasma potassium.
+Salmeterol: In a repeat-dose trial in 13 healthy subjects, concomitant administration of erythromycin (a moderate CYP3A4 inhibitor) and salmeterol inhalation aerosol resulted in a 40% increase in salmeterol Cmax at steady state (ratio with and without erythromycin 1.4 [90% CI: 0.96, 2.03], P = 0.12), a 3.6-beat/min increase in heart rate ([95% CI: 0.19, 7.03], P less than 0.04), a 5.8-msec increase in QTc interval ([95% CI: -6.14, 17.77], P = 0.34), and no change in plasma potassium.

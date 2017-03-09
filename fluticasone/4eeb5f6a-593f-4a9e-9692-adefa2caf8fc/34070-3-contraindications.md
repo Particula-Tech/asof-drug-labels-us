@@ -2,5 +2,5 @@
 
 The use of ADVAIR DISKUS is contraindicated in the following conditions:
 
-- •Primary treatment of status asthmaticus or other acute episodes of asthma or COPD where intensive measures are required [see Warnings and Precautions (5.2)]
-- •Severe hypersensitivity to milk proteins [see Warnings and Precautions (5.11), Adverse Reactions (6.3), Description (11)]
+- •Primary treatment of status asthmaticus or other acute episodes of asthma or COPD where intensive measures are required [see Warnings and Precautions (5.2)].
+- •Severe hypersensitivity to milk proteins [see Warnings and Precautions (5.11), Adverse Reactions (6.3), Description (11)].

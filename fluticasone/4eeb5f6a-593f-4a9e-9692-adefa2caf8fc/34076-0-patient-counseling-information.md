@@ -21,7 +21,7 @@ Instruct patients to seek medical attention immediately if they experience any o
 
 Tell patients they should not stop therapy with ADVAIR DISKUS without physician/provider guidance since symptoms may recur after discontinuation.
 
-Do Not Use Additional Long-Acting Beta2-Agonists
+Do Not Use Additional Long-acting Beta2-agonists
 
 Instruct patients not to use other LABA for asthma and COPD.
 
@@ -29,11 +29,11 @@ Local Effects
 
 Inform patients that localized infections with Candida albicans occurred in the mouth and pharynx in some patients.
 If oropharyngeal candidiasis develops, treat it with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing therapy with ADVAIR DISKUS, but at times therapy with ADVAIR DISKUS may need to be temporarily interrupted under close medical supervision.
-Rinsing the mouth with water without swallowing after inhalation is advised to help reduce the risk of thrush.
+Advise patients to rinse the mouth with water without swallowing after inhalation to help reduce the risk of thrush.
 
 Pneumonia
 
-Patients with COPD have a higher risk of pneumonia; instruct them to contact their healthcare provider if they develop symptoms of pneumonia.
+Patients with COPD have a higher risk of pneumonia; instruct them to contact their healthcare providers if they develop symptoms of pneumonia.
 
 Immunosuppression
 
@@ -63,9 +63,9 @@ Physicians should closely follow the growth of children and adolescents taking c
 
 Ocular Effects
 
-Long-term use of inhaled corticosteroids may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
+Inform patients that long-term use of inhaled corticosteroids may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 
-Risks Associated with Beta-Agonist Therapy
+Risks Associated with Beta-agonist Therapy
 
 Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
@@ -75,7 +75,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2016 the GSK group of companies.
+©2017 the GSK group of companies.
 All rights reserved.
 
-ADD:13PI
+ADD:14PI
