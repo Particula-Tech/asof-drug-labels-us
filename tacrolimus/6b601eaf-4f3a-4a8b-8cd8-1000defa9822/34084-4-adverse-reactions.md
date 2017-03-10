@@ -2,6 +2,7 @@
 
 No phototoxicity and no photoallergenicity were detected in clinical studies with 12 and 216 normal volunteers, respectively.
 One out of 198 normal volunteers showed evidence of sensitization in a contact sensitization study.
+
 In three 12 week randomized vehicle-controlled studies and four safety studies, 655 and 9,163 patients respectively, were treated with Tacrolimus Ointment.
 The duration of follow-up for adult and pediatric patients in the safety studies is tabulated below.
 

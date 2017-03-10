@@ -163,7 +163,7 @@ When given at 3.2 mg/kg (0.43X MRHD based on BSA), tacrolimus was associated wit
 
 ## Pregnancy
 
-## Teratogenic Effects: Pregnancy Category C
+## Teratogenic Effects:
 
 There are no adequate and well-controlled studies of topically administered tacrolimus in pregnant women.
 The experience with Tacrolimus Ointment when used by pregnant women is too limited to permit assessment of the safety of its use during pregnancy.
