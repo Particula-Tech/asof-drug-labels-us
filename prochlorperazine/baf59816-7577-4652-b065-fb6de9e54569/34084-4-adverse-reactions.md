@@ -9,7 +9,8 @@ If tests indicate an abnormality, stop treatment.
 There have been a few observations of fatty changes in the livers of patients who have died while receiving the drug.
 No causal relationship has been established.
 
-Leukopenia and agranulocytosis have occurred.Warn patients to report the sudden appearance of sore throat or other signs of infection.
+Leukopenia and agranulocytosis have occurred.
+Warn patients to report the sudden appearance of sore throat or other signs of infection.
 If white blood cell and differential counts indicate leukocyte depression, stop treatment and start antibiotic and other suitable therapy.
 
 ## Neuromuscular (Extrapyramidal) Reactions
