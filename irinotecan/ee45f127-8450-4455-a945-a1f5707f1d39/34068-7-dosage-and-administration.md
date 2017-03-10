@@ -20,17 +20,11 @@ Table 1: Single-Agent Regimens of Irinotecan Hydrochloride Injection and Dose Mo
 | Starting Dose | Dose Level -1 | Dose Level -2 |  |
 | 350 | 300 | 250 |  |
 
-a Subsequent doses may be adjusted as high as 150 mg/m2 or to as low as 50 mg/m2 in 25 to 50 mg/m2
+a Subsequent doses may be adjusted as high as 150 mg/m2 or to as low as 50 mg/m2 in 25 to 50 mg/m2 decrements depending upon individual patient tolerance.
 
-decrements depending upon individual patient tolerance.
+b Subsequent doses may be adjusted as low as 200 mg/m2 in 50 mg/m2 decrements depending upon individual patient tolerance.
 
-b Subsequent doses may be adjusted as low as 200 mg/m2 in 50 mg/m2 decrements depending upon
-
-individual patient tolerance.
-
-c Provided intolerable toxicity does not develop, treatment with additional cycles may be continued
-
-indefinitely as long as patients continue to experience clinical benefit.
+c Provided intolerable toxicity does not develop, treatment with additional cycles may be continued indefinitely as long as patients continue to experience clinical benefit.
 
 Dose Modifications
 

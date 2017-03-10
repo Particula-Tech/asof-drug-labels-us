@@ -1,6 +1,4 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
-
-- Irinotecan 2 mL Single Use Vial Label
+PACKAGE LABEL - PRINICIPAL DISPLAY - Irinotecan 2 mL Single Dose Vial Label
 
 Irinotecan Hydrochloride Injection
 
@@ -12,11 +10,11 @@ For intravenous use.
 
 MUST BE DILUTED.
 
-Cytotoxic agent
+Cytotoxic agent.
 
-2 mL Single Use Vial Rx only
+2 mL Single Dose Vial Rx only
 
-PACKAGE LABEL - PRINICIPAL DISPLAY - Irinotecan 2 mL Single Use Vial Carton Label
+PACKAGE LABEL - PRINICIPAL DISPLAY - Irinotecan 2 mL Single Dose Vial Carton Panel
 
 Irinotecan Hydrochloride Injection
 
@@ -28,6 +26,7 @@ For intravenous use.
 
 MUST BE DILUTED.
 
-Cytotoxic agent
+Cytotoxic agent.
+Rx only
 
-2 mL Single Use Vial Rx only
+2 mL Single Dose Vial

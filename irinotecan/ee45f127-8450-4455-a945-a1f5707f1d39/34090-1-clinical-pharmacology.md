@@ -37,8 +37,8 @@ Pharmacokinetic Parameters in Patients with Solid Tumors
 
 | Dose (mg/m2) | Irinotecan |  |  |  |  |  | SN-38 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cmax (ng/mL) | AUC0-24 (ng•h/mL) | t1/2 (h) | V2 (L/m2) |  | CL (L/h/mL) | Cmax (ng/mL) | AUC0-24 (ng•h/mL) | t1/2 (h) |  |
-| 125 (N=60) | 1,660 ± 797 | 10,200 ± 3,270 | 5.8a ± 0.7 |  | 110 ± 48.5 | 13.3 ± 6.01 | 26.3 ± 11.9 | 229 ± 108 | 10.4a ± 3.1 |
+| Cmax (ng/mL) | AUC0-24 (ng•h/mL) | t1/2 (h) | Vz (L/m2) |  | CL (L/h/m2) | Cmax (ng/mL) | AUC0-24 (ng•h/mL) | t1/2 (h) |  |
+| 125 (N=64) | 1,660 ± 797 | 10,200 ± 3,270 | 5.8a ± 0.7 |  | 110 ± 48.5 | 13.3 ± 6.01 | 26.3 ± 11.9 | 229 ± 108 | 10.4a ± 3.1 |
 | 340 (N=6) | 3,392 ± 874 | 20,604 ± 6,027 | 11.7b ± 1 |  | 234 ± 69.6 | 13.9 ± 4 | 56 ± 28.2 | 474 ± 245 | 21b ± 4.3 |
 
 Cmax - Maximum plasma concentration
