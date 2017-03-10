@@ -2,24 +2,32 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X [see Boxed Warnings and Contraindications (4.1).]
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in females exposed to REVLIMID during pregnancy as well as female partners of male patients who are exposed to REVLIMID.
+This registry is also used to understand the root cause for the pregnancy.
+Report any suspected fetal exposure to REVLIMID to the FDA via the MedWatch program at 1-800-FDA-1088 and also to Celgene Corporation at 1-888-423-5436.
 
 Risk Summary
 
-REVLIMID can cause embryo-fetal harm when administered to a pregnant female and is contraindicated during pregnancy.
-REVLIMID is a thalidomide analogue.
+Based on the mechanism of action [see Clinical Pharmacology (12.1)] and findings from animal studies [see Data], REVLIMID can cause embryo-fetal harm when administered to a pregnant female and is contraindicated during pregnancy [see Boxed Warning, Contraindications (4.1), and Use in Specific Populations (5.1)].
 
+REVLIMID is a thalidomide analogue.
 Thalidomide is a human teratogen, inducing a high frequency of severe and life-threatening birth defects such as amelia (absence of limbs), phocomelia (short limbs), hypoplasticity of the bones, absence of bones, external ear abnormalities (including anotia, micropinna, small or absent external auditory canals), facial palsy, eye abnormalities (anophthalmos, microphthalmos), and congenital heart defects.
 Alimentary tract, urinary tract, and genital malformations have also been documented and mortality at or shortly after birth has been reported in about 40% of infants.
 
 Lenalidomide caused thalidomide-type limb defects in monkey offspring.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
+Lenalidomide crossed the placenta after administration to pregnant rabbits and pregnant rats [see Data].
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential risk to a fetus.
 
 If pregnancy does occur during treatment, immediately discontinue the drug.
 Under these conditions, refer patient to an obstetrician/gynecologist experienced in reproductive toxicity for further evaluation and counseling.
-Any suspected fetal exposure to REVLIMID must be reported to the FDA via the MedWatch program at 1-800-FDA-1088 and also to Celgene Corporation at 1-888-423-5436.
+Report any suspected fetal exposure to REVLIMID to the FDA via the MedWatch program at 1-800-FDA-1088 and also to Celgene Corporation at 1-888-423-5436.
 
-Animal data
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The estimated background risk in the U.S. general population of major birth defects is 2%-4% and of miscarriage is 15%-20% of clinically recognized pregnancies.
+
+Data Animal data
 
 In an embryo-fetal developmental toxicity study in monkeys, teratogenicity, including thalidomide-like limb defects, occurred in offspring when pregnant monkeys received oral lenalidomide during organogenesis.
 Exposure (AUC) in monkeys at the lowest dose was 0.17 times the human exposure at the maximum recommended human dose (MRHD) of 25 mg.
@@ -30,40 +38,76 @@ The study revealed a few adverse effects on the offspring of female rats treated
 The male offspring exhibited slightly delayed sexual maturation and the female offspring had slightly lower body weight gains during gestation when bred to male offspring.
 As with thalidomide, the rat model may not adequately address the full spectrum of potential human embryo-fetal developmental effects for lenalidomide.
 
-## 8.3 Nursing Mothers
+Following daily oral administration of lenalidomide from Gestation Day 7 through Gestation Day 20 in pregnant rabbits, fetal plasma lenalidomide concentrations were approximately 20-40% of the maternal Cmax.
+Following a single oral dose to pregnant rats, lenalidomide was detected in fetal plasma and tissues; concentrations of radioactivity in fetal tissues were generally lower than those in maternal tissues.
+These data indicated that lenalidomide crossed the placenta.
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for adverse reactions in nursing infants from lenalidomide, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+## 8.2 Lactation
+
+Risk Summary
+
+There is no information regarding the presence of lenalidomide in human milk, the effects of REVLIMID on the breastfed infant, or the effects of REVLIMID on milk production.
+Because many drugs are excreted in human milk and because of the potential for adverse reactions in breastfed infants from REVLIMID, advise women not to breastfeed during treatment with REVLIMID.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+REVLIMID can cause fetal harm when administered during pregnancy [see Use in Specific Populations (8.1)].
+Verify the pregnancy status of females of reproductive potential prior to initiating REVLIMID therapy and during therapy.
+Advise females of reproductive potential that they must avoid pregnancy 4 weeks before therapy, while taking REVLIMID, during dose interruptions and for at least 4 weeks after completing therapy.
+
+Females of reproductive potential must have 2 negative pregnancy tests before initiating REVLIMID.
+The first test should be performed within 10-14 days, and the second test within 24 hours prior to prescribing REVLIMID.
+Once treatment has started and during dose interruptions, pregnancy testing for females of reproductive potential should occur weekly during the first 4 weeks of use, then pregnancy testing should be repeated every 4 weeks in females with regular menstrual cycles.
+If menstrual cycles are irregular, the pregnancy testing should occur every 2 weeks.
+Pregnancy testing and counseling should be performed if a patient misses her period or if there is any abnormality in her menstrual bleeding.
+REVLIMID treatment must be discontinued during this evaluation.
+
+Contraception
+
+Females
+
+Females of reproductive potential must commit either to abstain continuously from heterosexual sexual intercourse or to use 2 methods of reliable birth control simultaneously: one highly effective form of contraception – tubal ligation, IUD, hormonal (birth control pills, injections, hormonal patches, vaginal rings, or implants), or partner’s vasectomy, and 1 additional effective contraceptive method – male latex or synthetic condom, diaphragm, or cervical cap.
+Contraception must begin 4 weeks prior to initiating treatment with REVLIMID, during therapy, during dose interruptions, and continuing for 4 weeks following discontinuation of REVLIMID therapy.
+Reliable contraception is indicated even where there has been a history of infertility, unless due to hysterectomy.
+Females of reproductive potential should be referred to a qualified provider of contraceptive methods, if needed.
+
+Males
+
+Lenalidomide is present in the semen of males who take REVLIMID.
+Therefore, males must always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking REVLIMID and for up to 4 weeks after discontinuing REVLIMID, even if they have undergone a successful vasectomy.
+Male patients taking REVLIMID must not donate sperm.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients below the age of 18 have not been established.
+Safety and effectiveness have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
-REVLIMID has been used in multiple myeloma (MM) clinical trials in patients up to 91 years of age.
+MM In Combination: Overall, of the 1613 patients in the NDMM study who received study treatment, 94% (1521 /1613) were 65 years of age or older, while 35% (561/1613) were over 75 years of age.
+The percentage of patients over age 75 was similar between study arms (Rd Continuous: 33%; Rd18: 34%; MPT: 33%).
+Overall, across all treatment arms, the frequency in most of the AE categories (eg, all AEs, grade 3/4 AEs, serious AEs) was higher in older (> 75 years of age) than in younger (≤ 75 years of age) subjects.
+Grade 3 or 4 AEs in the General Disorders and Administration Site Conditions body system were consistently reported at a higher frequency (with a difference of at least 5%) in older subjects than in younger subjects across all treatment arms.
+Grade 3 or 4 TEAEs in the Infections and Infestations, Cardiac Disorders (including cardiac failure and congestive cardiac failure), Skin and Subcutaneous Tissue Disorders, and Renal and Urinary Disorders (including renal failure) body systems were also reported slightly, but consistently, more frequently (<5% difference), in older subjects than in younger subjects across all treatment arms.
+For other body systems (e.g., Blood and Lymphatic System Disorders, Infections and Infestations, Cardiac Disorders, Vascular Disorders), there was a less consistent trend for increased frequency of grade 3/4 AEs in older vs younger subjects across all treatment arms Serious AEs were generally reported at a higher frequency in the older subjects than in the younger subjects across all treatment arms.
 
-After At Least One Prior Therapy: Of the 703 MM patients who received study treatment in Studies 1 and 2, 45% were age 65 or over while 12% of patients were age 75 and over.
+MM Maintenance Therapy: Overall, 10% (106/1018) of patients were 65 years of age or older, while no patients were over 75 years of age.
+Grade 3 or 4 AEs were higher in the REVLIMID arm (more than 5% higher) in the patients 65 years of age or older versus younger patients.
+The frequency of Grade 3 or 4 AEs in the Blood and Lymphatic System Disorders were higher in the REVLIMID arm (more than 5% higher) in the patients 65 years of age or older versus younger patients.
+There were not a sufficient number of patients 65 years of age or older in REVLIMID maintenance studies who experienced either a serious AE, or discontinued therapy due to an AE to determine whether elderly patients respond relative to safety differently from younger patients.
+
+MM After At Least One Prior Therapy: Of the 703 MM patients who received study treatment in Studies 1 and 2, 45% were age 65 or over while 12% of patients were age 75 and over.
 The percentage of patients age 65 or over was not significantly different between the REVLIMID/dexamethasone and placebo/dexamethasone groups.
 Of the 353 patients who received REVLIMID/dexamethasone, 46% were age 65 and over.
 In both studies, patients > 65 years of age were more likely than patients ≤ 65 years of age to experience DVT, pulmonary embolism, atrial fibrillation, and renal failure following use of REVLIMID.
 No differences in efficacy were observed between patients over 65 years of age and younger patients.
-
-NDMM: Overall, of the 1613 patients in the NDMM study who received study treatment, 94% (1521 /1613) were 65 years of age or older, while 35% (561/1613) were over 75 years of age.
-The percentage of patients over age 75 was similar between study arms (Rd Continuous: 33%; Rd18: 34%; MPT: 33%).
-Overall, across all treatment arms, the frequency in most of the AE categories (eg, all AEs, grade 3/4 AEs, serious AEs) was higher in older (> 75 years of age) than in younger (≤ 75 years of age) subjects.
-Grade 3 or 4 AEs in the General Disorders and Administration Site Conditions SOC were consistently reported at a higher frequency (with a difference of at least 5%) in older subjects than in younger subjects across all treatment arms.
-Grade 3 or 4 TEAEs in the Infections and Infestations, Cardiac Disorders (including cardiac failure and congestive cardiac failure), Skin and Subcutaneous Tissue Disorders, and Renal and Urinary Disorders (including renal failure) SOCs were also reported slightly, but consistently, more frequently (<5% difference), in older subjects than in younger subjects across all treatment arms.
-For other SOCs (e.g., Blood and Lymphatic System Disorders, Infections and Infestations, Cardiac Disorders, Vascular Disorders), there was a less consistent trend for increased frequency of grade 3/4 AEs in older vs younger subjects across all treatment arms Serious AEs were generally reported at a higher frequency in the older subjects than in the younger subjects across all treatment arms.
-
-REVLIMID has been used in del 5q MDS clinical trials in patients up to 95 years of age.
 
 Of the 148 patients with del 5q MDS enrolled in the major study, 38% were age 65 and over, while 33% were age 75 and over.
 Although the overall frequency of adverse events (100%) was the same in patients over 65 years of age as in younger patients, the frequency of serious adverse events was higher in patients over 65 years of age than in younger patients (54% vs. 33%).
 A greater proportion of patients over 65 years of age discontinued from the clinical studies because of adverse events than the proportion of younger patients (27% vs.16%).
 No differences in efficacy were observed between patients over 65 years of age and younger patients.
 
-REVLIMID has been used in a mantle cell lymphoma (MCL) clinical trial in patients up to 83 years of age.
 Of the 134 patients with MCL enrolled in the MCL trial, 63% were age 65 and over, while 22% of patients were age 75 and over.
 The overall frequency of adverse events was similar in patients over 65 years of age and in younger patients (98% vs. 100%).
 The overall incidence of grade 3 and 4 adverse events was also similar in these 2 patient groups (79% vs. 78%, respectively).
@@ -73,36 +117,6 @@ No differences in efficacy were observed between patients over 65 years of age a
 Since elderly patients are more likely to have decreased renal function, care should be taken in dose selection.
 Monitor renal function.
 
-## 8.6 Females of Reproductive Potential and Males
+## 8.6 Renal Impairment
 
-REVLIMID can cause fetal harm when administered during pregnancy [see Use in Specific Populations (8.1)].
-Females of reproductive potential must avoid pregnancy 4 weeks before therapy, while taking REVLIMID, during dose interruptions and for at least 4 weeks after completing therapy.
-
-Females
-
-Females of reproductive potential must commit either to abstain continuously from heterosexual sexual intercourse or to use two methods of reliable birth control simultaneously (one highly effective form of contraception – tubal ligation, IUD, hormonal (birth control pills, injections, hormonal patches, vaginal rings or implants) or partner’s vasectomy and one additional effective contraceptive method – male latex or synthetic condom, diaphragm or cervical cap.
-Contraception must begin 4 weeks prior to initiating treatment with REVLIMID, during therapy, during dose interruptions and continuing for 4 weeks following discontinuation of REVLIMID therapy.
-Reliable contraception is indicated even where there has been a history of infertility, unless due to hysterectomy.
-Females of reproductive potential should be referred to a qualified provider of contraceptive methods, if needed.
-
-Females of reproductive potential must have 2 negative pregnancy tests before initiating REVLIMID.
-The first test should be performed within 10-14 days, and the second test within 24 hours prior to prescribing REVLIMID.
-Once treatment has started and during dose interruptions, pregnancy testing for females of reproductive potential should occur weekly during the first 4 weeks of use, then pregnancy testing should be repeated every 4 weeks in females with regular menstrual cycles.
-If menstrual cycles are irregular, the pregnancy testing should occur every 2 weeks.
-Pregnancy testing and counseling should be performed if a patient misses her period or if there is any abnormality in her menstrual bleeding.
-REVLIMID treatment must be discontinued during this evaluation.
-
-Males
-
-Lenalidomide is present in the semen of males who take REVLIMID.
-Therefore, males must always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking REVLIMID, during dose interruptions and for up to 28 days after discontinuing REVLIMID, even if they have undergone a successful vasectomy.
-Male patients taking REVLIMID must not donate sperm
-
-## 8.7 Renal Impairment
-
-Since lenalidomide is primarily excreted unchanged by the kidney, adjustments to the starting dose of REVLIMID are recommended to provide appropriate drug exposure in patients with moderate (CLcr 30-60 mL/min) or severe renal impairment (CLcr < 30 mL/min) and in patients on dialysis [see Dosage and Administration (2.4)].
-
-## 8.8 Hepatic Impairment
-
-No dedicated study has been conducted in patients with hepatic impairment.
-The elimination of unchanged lenalidomide is predominantly by the renal route.
+Adjust the starting dose of REVLIMID based on the creatinine clearance value and for patients on dialysis [see Dosage and Administration (2.4)].

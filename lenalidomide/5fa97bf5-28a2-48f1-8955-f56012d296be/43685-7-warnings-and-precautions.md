@@ -6,33 +6,33 @@ REVLIMID is a thalidomide analogue and is contraindicated for use during pregnan
 Thalidomide is a known human teratogen that causes life-threatening human birth defects or embryo-fetal death [see Use in Specific Populations (8.1)].
 An embryo-fetal development study in monkeys indicates that lenalidomide produced malformations in the offspring of female monkeys who received the drug during pregnancy, similar to birth defects observed in humans following exposure to thalidomide during pregnancy.
 
-REVLIMID is only available through the REVLIMID REMS® program (formerly known as the “RevAssist® program”) [see Warnings and Precautions (5.2)].
+REVLIMID is only available through the REVLIMID REMS program [see Warnings and Precautions (5.2)].
 
 Females of Reproductive Potential Females of reproductive potential must avoid pregnancy for at least 4 weeks before beginning REVLIMID therapy, during therapy, during dose interruptions and for at least 4 weeks after completing therapy.
 
 Females must commit either to abstain continuously from heterosexual sexual intercourse or to use two methods of reliable birth control, beginning 4 weeks prior to initiating treatment with REVLIMID, during therapy, during dose interruptions and continuing for 4 weeks following discontinuation of REVLIMID therapy.
 
 Two negative pregnancy tests must be obtained prior to initiating therapy.
-The first test should be performed within 10-14 days and the second test within 24 hours prior to prescribing REVLIMID therapy and then weekly during the first month, then monthly thereafter in women with regular menstrual cycles or every 2 weeks in women with irregular menstrual cycles [see Use in Specific Populations (8.6)].
+The first test should be performed within 10-14 days and the second test within 24 hours prior to prescribing REVLIMID therapy and then weekly during the first month, then monthly thereafter in females with regular menstrual cycles or every 2 weeks in females with irregular menstrual cycles [see Use in Specific Populations (8.3)].
 
 Males Lenalidomide is present in the semen of patients receiving the drug.
-Therefore, males must always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking REVLIMID and for up to 28 days after discontinuing REVLIMID, even if they have undergone a successful vasectomy.
-Male patients taking REVLIMID must not donate sperm [see Use in Specific Populations (8.6)].
+Therefore, males must always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking REVLIMID and for up to 4 weeks after discontinuing REVLIMID, even if they have undergone a successful vasectomy.
+Male patients taking REVLIMID must not donate sperm [see Use in Specific Populations (8.3)].
 
-Blood Donation Patients must not donate blood during treatment with REVLIMID and for 1 month following discontinuation of the drug because the blood might be given to a pregnant female patient whose fetus must not be exposed to REVLIMID.
+Blood Donation Patients must not donate blood during treatment with REVLIMID and for 4 weeks following discontinuation of the drug because the blood might be given to a pregnant female patient whose fetus must not be exposed to REVLIMID.
 
-## 5.2 REVLIMID REMS® Program
+## 5.2 REVLIMID REMS Program
 
-Because of the embryo-fetal risk [see Warnings and Precautions (5.1)], REVLIMID is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS), the REVLIMID REMS® program (formerly known as the “RevAssist®” program).
+Because of the embryo-fetal risk [see Warnings and Precautions (5.1)], REVLIMID is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS), the REVLIMID REMS program.
 
-Required components of the REVLIMID REMS® program include the following:
+Required components of the REVLIMID REMS program include the following:
 
-- Prescribers must be certified with the REVLIMID REMS® program by enrolling and complying with the REMS requirements.
+- Prescribers must be certified with the REVLIMID REMS program by enrolling and complying with the REMS requirements.
 - Patients must sign a Patient-Physician agreement form and comply with the REMS requirements.
-  In particular, female patients of reproductive potential who are not pregnant must comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.6)] and males must comply with contraception requirements [see Use in Specific Populations (8.6)].
-- Pharmacies must be certified with the REVLIMID REMS® program, must only dispense to patients who are authorized to receive REVLIMID and comply with REMS requirements.
+  In particular, female patients of reproductive potential who are not pregnant must comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)] and males must comply with contraception requirements [see Use in Specific Populations (8.3)].
+- Pharmacies must be certified with the REVLIMID REMS program, must only dispense to patients who are authorized to receive REVLIMID and comply with REMS requirements.
 
-Further information about the REVLIMID REMS® program is available at www.celgeneriskmanagement.com or by telephone at 1-888-423-5436.
+Further information about the REVLIMID REMS program is available at www.celgeneriskmanagement.com or by telephone at 1-888-423-5436.
 
 ## 5.3 Hematologic Toxicity
 
@@ -41,8 +41,9 @@ Monitor patients with neutropenia for signs of infection.
 Advise patients to observe for bleeding or bruising, especially with use of concomitant medication that may increase risk of bleeding.
 Patients taking REVLIMID should have their complete blood counts assessed periodically as described below [see Dosage and Administration (2.1, 2.2, 2.3)].
 
-Patients taking REVLIMID in combination with dexamethasone for MM should have their complete blood counts (CBC) assessed every 7 days (weekly) for the first 2 cycles, on Days 1 and 15 of Cycle 3, and every 28 days (4 weeks) thereafter.
+Patients taking REVLIMID in combination with dexamethasone or as REVLIMID maintenance therapy for MM should have their complete blood counts (CBC) assessed every 7 days (weekly) for the first 2 cycles, on Days 1 and 15 of Cycle 3, and every 28 days (4 weeks) thereafter.
 A dose interruption and/or dose reduction may be required [see Dosage and Administration (2.1)].
+In the MM maintenance therapy trials, Grade 3 or 4 neutropenia was reported in up to 59% of REVLIMID-treated patients and Grade 3 or 4 thrombocytopenia in up to 38% of REVLIMID-treated patients [see Adverse Reactions (6.1)].
 
 Patients taking REVLIMID for MDS should have their complete blood counts monitored weekly for the first 8 weeks and at least monthly thereafter.
 Grade 3 or 4 hematologic toxicity was seen in 80% of patients enrolled in the MDS study.
@@ -56,20 +57,23 @@ Grade 3 or 4 thrombocytopenia was reported in 28% of the patients.
 
 ## 5.4 Venous and Arterial Thromboembolism
 
-Venous thromboembolic events (deep venous thrombosis and pulmonary embolism) and arterial thromboses are increased in patients treated with REVLIMID.
-A significantly increased risk of DVT (7.4%) and of PE (3.7%) occurred in patients with multiple myeloma after at least one prior therapy who were treated with REVLIMID and dexamethasone therapy compared to patients treated in the placebo and dexamethasone group (3.1% and 0.9%) in clinical trials with varying use of anticoagulant therapies.
+Venous thromboembolic events (VTE [DVT and PE]) and arterial thromboembolic events (ATE, myocardial infarction and stroke) are increased in patients treated with REVLIMID.
+
+A significantly increased risk of DVT (7.4%) and of PE (3.7%) occurred in patients with MM after at least one prior therapy who were treated with REVLIMID and dexamethasone therapy compared to patients treated in the placebo and dexamethasone group (3.1% and 0.9%) in clinical trials with varying use of anticoagulant therapies.
 In the newly diagnosed multiple myeloma (NDMM) study in which nearly all patients received antithrombotic prophylaxis, DVT was reported as a serious adverse reaction (3.6%, 2.0%, and 1.7%) in the Rd Continuous, Rd18, and MPT Arms, respectively.
 The frequency of serious adverse reactions of PE was similar between the Rd Continuous, Rd18, and MPT Arms (3.8%, 2.8%, and 3.7%, respectively) [see Boxed Warning and Adverse Reactions (6.1)].
 
-Myocardial infarction (1.7%) and stroke (CVA) (2.3%) are increased in patients with multiple myeloma after at least one prior therapy who were treated with REVLIMID and dexamethasone therapy compared to patients treated with placebo and dexamethasone (0.6%, and 0.9%) in clinical trials.
+Myocardial infarction (1.7%) and stroke (CVA) (2.3%) are increased in patients with MM after at least one prior therapy who were treated with REVLIMID and dexamethasone therapy compared to patients treated with placebo and dexamethasone (0.6%, and 0.9%) in clinical trials.
 In the NDMM study, myocardial infarction (including acute) was reported as a serious adverse reaction (2.3%, 0.6%, and 1.1%) in the Rd Continuous, Rd18, and MPT Arms, respectively.
 The frequency of serious adverse reactions of CVA was similar between the Rd Continuous, Rd18, and MPT Arms (0.8%, 0.6 %, and 0.6%, respectively) [see Adverse Reactions (6.1)].
+
 Patients with known risk factors, including prior thrombosis, may be at greater risk and actions should be taken to try to minimize all modifiable factors (e.g. hyperlipidemia, hypertension, smoking).
 
-In controlled clinical trials that did not use concomitant thromboprophylaxis, 21.5% overall thrombotic events (Standardized MedDRA Query Embolic and Thrombotic events) occurred in patients with refractory and relapsed multiple myeloma who were treated with REVLIMID and dexamethasone compared to 8.3% thrombosis in patients treated with placebo and dexamethasone.
+In controlled clinical trials that did not use concomitant thromboprophylaxis, 21.5% overall thrombotic events (Standardized MedDRA Query Embolic and Thrombotic events) occurred in patients with refractory and relapsed MM who were treated with REVLIMID and dexamethasone compared to 8.3% thrombosis in patients treated with placebo and dexamethasone.
 The median time to first thrombosis event was 2.8 months.
 In the NDMM study in which nearly all patients received antithrombotic prophylaxis, the overall frequency of thrombotic events was 17.4% in patients in the combined Rd Continuous and Rd18 Arms, and was 11.6% in the MPT Arm.
-The median time to first thrombosis event was 4.37 months in the combined Rd Continuous and Rd18 Arms.
+The median time to first thrombosis event was 4.3 months in the combined Rd Continuous and Rd18 Arms.
+
 Thromboprophylaxis is recommended.
 The regimen of thromboprophylaxis should be based on an assessment of the patient’s underlying risks.
 Instruct patients to report immediately any signs and symptoms suggestive of thrombotic events.
@@ -86,10 +90,16 @@ REVLIMID is not indicated and not recommended for use in CLL outside of controll
 
 ## 5.6 Second Primary Malignancies
 
-In clinical trials in patients with multiple myeloma receiving REVLIMID an increase of invasive second primary malignancies notably AML and MDS have been observed.
-The increase of cases of AML and MDS occurred predominantly in NDMM patients receiving REVLIMID in combination with oral melphalan (frequency of 5.3%) or immediately following high dose intravenous melphalan and ASCT (frequency of up to 5.2%).
-The frequency of AML and MDS cases in the REVLIMID / dexamethasone arms was observed to be 0.4%.
-Cases of B-cell malignancies (including Hodgkin’s Lymphomas) were observed in clinical trials where patients received lenalidomide in the post-ASCT setting.
+In clinical trials in patients with MM receiving REVLIMID, an increase of hematologic plus solid tumor second primary malignancies (SPM) notably AML and MDS have been observed.
+An increase in hematologic SPM including AML and MDS occurred in 5.3% of patients with NDMM receiving REVLIMID in combination with oral melphalan compared with 1.3% of patients receiving melphalan without REVLIMID.
+The frequency of AML and MDS cases in patients with NDMM treated with REVLIMID in combination with dexamethasone without melphalan was 0.4%.
+
+In patients receiving REVLIMID maintenance therapy following high dose intravenous melphalan and auto-HSCT, hematologic SPM occurred in 7.5% of patients compared to 3.3% in patients receiving placebo.
+The incidence of hematologic plus solid tumor (excluding squamous cell carcinoma and basal cell carcinoma) SPM was 14.9%, compared to 8.8% in patients receiving placebo with a median follow-up of 91.5 months.
+Non-melanoma skin cancer SPM, including squamous cell carcinoma and basal cell carcinoma, occurred in 3.9% of patients receiving REVLIMID maintenance, compared to 2.6% in the placebo arm.
+
+In patients with relapsed or refractory MM treated with REVLIMID/dexamethasone, the incidence of hematologic plus solid tumor (excluding squamous cell carcinoma and basal cell carcinoma) SPM was 2.3% versus 0.6% in the dexamethasone alone arm.
+Non-melanoma skin cancer SPM, including squamous cell carcinoma and basal cell carcinoma, occurred in 3.1% of patients receiving REVLIMID/dexamethasone, compared to 0.6% in the dexamethasone alone arm.
 
 Patients who received REVLIMID-containing therapy until disease progression did not show a higher incidence of invasive SPM than patients treated in the fixed duration REVLIMID-containing arms.
 Monitor patients for the development of second primary malignancies.
@@ -98,7 +108,7 @@ Take into account both the potential benefit of REVLIMID and the risk of second 
 ## 5.7 Hepatotoxicity
 
 Hepatic failure, including fatal cases, has occurred in patients treated with lenalidomide in combination with dexamethasone.
-In clinical trials, 15% of patients experienced hepatotoxicity (with hepatocellular, cholestatic and mixed characteristics); 2% of patients with multiple myeloma and 1% of patients with myelodysplasia had serious hepatotoxicity events.
+In clinical trials, 15% of patients experienced hepatotoxicity (with hepatocellular, cholestatic and mixed characteristics); 2% of patients with MM and 1% of patients with myelodysplasia had serious hepatotoxicity events.
 The mechanism of drug-induced hepatotoxicity is unknown.
 Pre-existing viral liver disease, elevated baseline liver enzymes, and concomitant medications may be risk factors.
 Monitor liver enzymes periodically.
@@ -139,5 +149,10 @@ Patients with Grade 3 or 4 TFR may be treated for management of symptoms per the
 ## 5.11 Impaired Stem Cell Mobilization
 
 A decrease in the number of CD34+ cells collected after treatment (> 4 cycles) with REVLIMID has been reported.
-In patients who are ASCT candidates, referral to a transplant center should occur early in treatment to optimize the timing of the stem cell collection.
+In patients who are auto-HSCT candidates, referral to a transplant center should occur early in treatment to optimize the timing of the stem cell collection.
 In patients who received more than 4 cycles of a REVLIMID-containing treatment or for whom inadequate numbers of CD 34+ cells have been collected with G-CSF alone, G-CSF with cyclophosphamide or the combination of G-CSF with a CXCR4 inhibitor may be considered.
+
+## 5.12 Thyroid Disorders
+
+Both hypothyroidism and hyperthyroidism have been reported [see Adverse Reactions (6.2)].
+Measure thyroid function before start of REVLIMID treatment and during therapy.

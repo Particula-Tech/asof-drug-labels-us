@@ -2,9 +2,9 @@
 
 ## 14.1 Multiple Myeloma
 
-Randomized, Open-Label Clinical Trial in Patients with Newly Diagnosed Multiple Myeloma:
+Randomized, Open-Label Clinical Trial in Patients with Newly Diagnosed MM:
 
-A randomized multicenter, open-label, 3-arm trial of 1,623 patients, was conducted to compare the efficacy and safety of REVLIMID and low-dose dexamethasone (Rd) given for 2 different durations of time to that of melphalan, prednisone and thalidomide (MPT) in newly diagnosed multiple myeloma patients who were not a candidate for stem cell transplant.
+A randomized multicenter, open-label, 3-arm trial of 1,623 patients, was conducted to compare the efficacy and safety of REVLIMID and low-dose dexamethasone (Rd) given for 2 different durations of time to that of melphalan, prednisone and thalidomide (MPT) in newly diagnosed MM patients who were not a candidate for stem cell transplant.
 In the first arm of the study, Rd was given continuously until progressive disease [Arm Rd Continuous].
 In the second arm, Rd was given for up to eighteen 28-day cycles [72 weeks, Arm Rd18]).
 In the third arm, melphalan, prednisone and thalidomide (MPT) was given for a maximum of twelve 42-day cycles (72 weeks).
@@ -22,7 +22,7 @@ In general, study subjects had advanced-stage disease.
 Of the total study population, the median age was 73 in the 3 arms with 35% of total patients > 75 years of age; 59% had ISS Stage I/II; 41% had ISS stage III; 9% had severe renal impairment (creatinine clearance [CLcr] < 30 mL/min); 23% had moderate renal impairment (CLcr > 30 to 50 mL/min; 44% had mild renal impairment (CLcr > 50 to 80 mL/min).
 For ECOG Performance Status, 29% were Grade 0, 49% Grade 1, 21% Grade 2, 0.4% ≥ Grade 3.
 
-The primary efficacy endpoint, PFS, was defined as the time from randomization to the first documentation of disease progression as determined by Independent Response Adjudication Committee (IRAC), based on International Myeloma Working Group [IMWG] criteria or death due to any cause, whichever occurred first during the study until the end of the PFS follow-up phase.
+The primary efficacy endpoint, progression-free survival (PFS), was defined as the time from randomization to the first documentation of disease progression as determined by Independent Response Adjudication Committee (IRAC), based on International Myeloma Working Group [IMWG] criteria or death due to any cause, whichever occurred first during the study until the end of the PFS follow-up phase.
 For the efficacy analysis of all endpoints, the primary comparison was between Rd Continuous and MPT arms.
 The efficacy results are summarized in the table below.
 PFS was significantly longer with Rd Continuous than MPT: HR 0.72 (95% CI: 0.61-0.85 p <0.0001).
@@ -34,7 +34,7 @@ The median time to first response was 1.8 months in the Rd Continuous arm versus
 For the interim OS analysis with 03 March 2014 data cutoff, the median follow-up time for all surviving patients is 45.5 months, with 697 death events, representing 78% of prespecified events required for the planned final OS analysis (697/896 of the final OS events).
 The observed OS HR was 0.75 for Rd Continuous versus MPT (95% CI = 0.62, 0.90).
 
-Table 11: Overview of Efficacy Results – Study MM-020 (Intent-to-treat Population)
+Table 12: Overview of Efficacy Results – Study MM-020 (Intent-to-treat Population)
 
 |  | Rd Continuous (N = 535) | Rd18 (N = 541) | MPT (N = 547) |
 | --- | --- | --- | --- |
@@ -57,7 +57,7 @@ Table 11: Overview of Efficacy Results – Study MM-020 (Intent-to-treat Populat
 | VGPR | 152 (28.4) | 154 (28.5) | 103 (18.8) |
 | PR | 169 (31.6) | 166 (30.7) | 187 (34.2) |
 | Overall response: CR, VGPR, or PR | 402 (75.1) | 397 (73.4) | 341 (62.3) |
-| CR = complete response; d = low-dose dexamethasone; HR = hazard ratio; IRAC = Independent Response Adjudication Committee; M = melphalan; NE = not estimable; OS = overall survival; P = prednisone; PFS = progression-free survival; PR = partial response; R = lenalidomide; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; T = thalidomide; VGPR = very good partial response; vs = versus. aThe median is based on the Kaplan-Meier estimate. bThe 95% Confidence Interval (CI) about the median. cBased on Cox proportional hazards model comparing the hazard functions associated with the indicated treatment arms. dThe p-value is based on the unstratified log-rank test of Kaplan-Meier curve differences between the indicated treatment arms. eBest assessment of response during the treatment phase of the study fIncluding patients with no response assessment data or whose only assessment was “response not evaluable.” gData cutoff date = 24 May 2013. hData cutoff date = 3 March 2014. |  |  |  |
+| CR = complete response; d = low-dose dexamethasone; HR = hazard ratio; IRAC = Independent Response Adjudication Committee; M = melphalan; NE = not estimable; OS = overall survival; P = prednisone; PFS = progression-free survival; PR = partial response; R = lenalidomide; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; T = thalidomide; VGPR = very good partial response; vs = versus. a The median is based on the Kaplan-Meier estimate. b The 95% Confidence Interval (CI) about the median. c Based on Cox proportional hazards model comparing the hazard functions associated with the indicated treatment arms. d The p-value is based on the unstratified log-rank test of Kaplan-Meier curve differences between the indicated treatment arms. e Best assessment of response during the treatment phase of the study f Including patients with no response assessment data or whose only assessment was “response not evaluable.” g Data cutoff date = 24 May 2013. h Data cutoff date = 3 March 2014. |  |  |  |
 
 Kaplan-Meier Curves of Progression-free Survival Based on IRAC Assessment (ITT Population) Between Arms Rd Continuous, Rd18 and MPT Cutoff date: 24 May 2013
 
@@ -67,10 +67,91 @@ Kaplan-Meier Curves of Overall Survival (ITT Population) Between Arms Rd Continu
 
 CI = confidence interval; d = low-dose dexamethasone; HR = hazard ratio; M = melphalan; P = prednisone; R = lenalidomide; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤18 cycles; T = thalidomide.
 
-Randomized, Open-Label Clinical Studies in Patients with Previously Treated Multiple Myeloma
+Randomized, Placebo-Controlled Clinical Trials - Maintenance Following Auto-HSCT:
+
+Two multicenter, randomized, double-blind, parallel group, placebo-controlled studies were conducted to evaluate the efficacy and safety of REVLIMID maintenance therapy in the treatment of MM patients after auto-HSCT.
+In Maintenance Study 1, patients between 18 and 70 years of age who had undergone induction therapy followed by auto-HSCT were eligible.
+Induction therapy must have occurred within 12 months.
+Within 90-100 days after auto-HSCT, patients with at least a stable disease response were randomized 1:1 to receive either REVLIMID or placebo maintenance.
+In Maintenance Study 2, patients aged < 65 years at diagnosis who had undergone induction therapy followed by auto-HSCT and had achieved at least a stable disease response at the time of hematologic recovery were eligible.
+Within 6 months after auto-HSCT, patients were randomized 1:1 to receive either REVLIMID or placebo maintenance.
+Patients eligible for both trials had to have CLcr ≥30 mL/minute.
+
+In both studies, the REVLIMID maintenance dose was 10 mg once daily on days 1-28 of repeated 28-day cycles, could be increased to 15 mg once daily after 3 months in the absence of dose-limiting toxicity, and treatment was to be continued until disease progression or patient withdrawal for another reason.
+The dose was reduced, or treatment was temporarily interrupted or stopped, as needed to manage toxicity.
+A dose increase to 15 mg once daily occurred in 135 patients (58%) in Maintenance Study 1, and in 185 patients (60%) in Maintenance Study 2.
+
+The demographics and disease-related baseline characteristics of the patients were similar across the two studies and reflected a typical MM population after auto-HSCT (see Table 13).
+
+Table 13: Baseline Demographic and Disease-Related Characteristics – Maintenance Studies 1 and 2
+
+|  | Maintenance Study 1 |  | Maintenance Study 2 |  |
+| --- | --- | --- | --- | --- |
+|  | REVLIMID N = 231 | Placebo N = 229 | REVLIMID N = 307 | Placebo N = 307 |
+| Age (years) |  |  |  |  |
+| Median | 58.0 | 58.0 | 57.5 | 58.1 |
+| (Min, max) | (29.0, 71.0) | (39.0, 71.0) | (22.7, 68.3) | (32.3, 67.0) |
+| Sex, n (%) |  |  |  |  |
+| Male | 121 (52) | 129 (56) | 169 (55) | 181 (59) |
+| Female | 110 (48) | 100 (44) | 138 (45) | 126 (41) |
+| ISS Stage at Diagnosis, n (%) |  |  |  |  |
+| Stage I or II | 120 (52) | 131 (57) | 232 (76) | 250 (81) |
+| Stage I | 62 (27) | 85 (37) | 128 (42) | 143 (47) |
+| Stage II | 58 (25) | 46 (20) | 104 (34) | 107 (35) |
+| Stage III | 39 (17) | 35 (15) | 66 (21) | 46 (15) |
+| Missing | 72 (31) | 63 (28) | 9 (3) | 11 (4) |
+| CrCl at Post-auto-HSCT, n (%) |  |  |  |  |
+| < 50 mL/min | 23 (10) | 16 (7) | 10 (3) | 9 (3) |
+| ≥ 50 mL/min | 201 (87) | 204 (89) | 178 (58) | 200 (65) |
+| Missing | 7 (3) | 9 (4) | 119 (39) | 98 (32) |
+| Data cutoff date = 1 March 2015. |  |  |  |  |
+
+The major efficacy endpoint of both studies was PFS defined from randomization to the date of progression or death, whichever occurred first; the individual studies were not powered for an overall survival endpoint.
+Both studies were unblinded upon the recommendations of their respective data monitoring committees and after surpassing the respective thresholds for preplanned interim analyses of PFS.
+After unblinding, patients continued to be followed as before.
+Patients in the placebo arm of Maintenance Study 1 were allowed to cross over to receive REVLIMID before disease progression (76 patients [33%] crossed over to REVLIMID); patients in Maintenance Study 2 were not recommended to cross over.
+The efficacy results are summarized in the following table.
+In both studies, the primary analysis of PFS at unblinding was significantly longer with REVLIMID compared to placebo: Maintenance Study 1 HR 0.38 (95% CI: 0.27-0.54 p <0.001) and Maintenance Study 2 HR 0.50 (95% CI: 0.39-0.64 p <0.001).
+For both studies, PFS was updated with a cutoff date of 1 March 2015 as shown in the table and the following Kaplan Meier graphs.
+With longer follow-up (median 72.4 and 86.0 months, respectively), the updated PFS analyses for both studies continue to show a PFS advantage for REVLIMID compared to placebo: Maintenance Study 1 HR 0.38 (95% CI: 0.28-0.50) with median PFS of 68.6 months and Maintenance Study 2 HR 0.53 (95% CI: 0.44-0.64) with median PFS of 46.3 months.
+
+Descriptive analysis of OS data with a cutoff date of 1 February 2016 are provided in Table 14.
+Median follow-up time was 81.6 and 96.7 months for Maintenance Study 1 and Maintenance Study 2, respectively.
+Median OS was 111.0 and 84.2 months for REVLIMID and placebo, respectively, for Maintenance Study 1, and 105.9 and 88.1 months, for REVLIMID and placebo, respectively, for Maintenance Study 2.
+
+Table 14: Progression-free Survival and Overall Survival from Randomization in Maintenance Studies 1 and 2 (ITT Post-Auto-HSCT Population)
+
+|  | Maintenance Study 1 |  | Maintenance Study 2 |  |
+| --- | --- | --- | --- | --- |
+|  | REVLIMID N = 231 | Placebo N = 229 | REVLIMID N = 307 | Placebo N = 307 |
+| PFS at Unblinding |  |  |  |  |
+| PFS Events n (%) |  |  |  |  |
+|  | 46 (20) | 98 (43) | 103 (34) | 160 (52) |
+| Median in months [95% CI] | 33.9 [NE, NE] | 19.0 [16.2, 25.6] | 41.2 [38.3, NE] | 23.0 [21.2, 28.0] |
+| Hazard Ratio [95% CI] | 0.38 [0.27, 0.54] |  | 0.50 [0.39, 0.64] |  |
+| Log-rank Test p-value | <0.001 |  | <0.001 |  |
+| PFS at Updated Analysis 1 March 2015 (Studies 1 and 2) |  |  |  |  |
+| PFS Events n (%) | 97 (42) | 116 (51) | 191 (62) | 248 (81) |
+| Median in months [95% CI] | 68.6 [52.8, NE] | 22.5 [18.8, 30.0] | 46.3 [40.1, 56.6] | 23.8 [21.0, 27.3] |
+| Hazard Ratio [95% CI] | 0.38 [0.28, 0.50] |  | 0.53 [0.44, 0.64] |  |
+| OS at Updated Analysis 1 Feb 2016 (Studies 1 and 2) |  |  |  |  |
+| OS Events n (%) | 82 (35) | 114 (50) | 143 (47) | 160 (52) |
+| Median in months [95% CI] | 111.0 [101.8, NE] | 84.2 [71.0, 102.7] | 105.9 [88.8, NE] | 88.1 [80.7, 108.4] |
+| Hazard Ratio [95% CI] | 0.59 [0.44, 0.78] |  | 0.90 [0.72, 1.13] |  |
+| Date of Unblinding in Maintenance Study 1 and 2 = 17 December 2009 and 7 July 2010, respectively Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; ITT = intent to treat; NE = not estimable; PFS = progression-free survival PFS at time of unblinding for Maintenance Study 2 was based on assessment by an Independent Review Committee. All other PFS analyses were based on assessment by investigator. Note: The median is based on Kaplan-Meier estimate, with 95% CIs about the median overall PFS time. Hazard ratio is based on a proportional hazards model stratified by stratification factors comparing the hazard functions associated with treatment arms (lenalidomide:placebo). |  |  |  |  |
+
+Kaplan-Meier Curves of Progression-free Survival From Randomization (ITT Post-Auto-HSCT Population) in Maintenance Study 1 Between REVLIMID and Placebo Arms (Updated Cutoff Date 1 March 2015)
+
+Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; HR = hazard ratio; ITT = intent to treat; KM = Kaplan-Meier; PFS = progression-free survival; vs = versus
+
+Kaplan-Meier Curves of Progression-free Survival From Randomization (ITT Post-Auto-HSCT Population) in Maintenance Study 2 Between REVLIMID and Placebo Arms (Updated Cutoff Date 1 March 2015)
+
+Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; HR = hazard ratio; ITT = intent to treat; KM = Kaplan-Meier; NE = not estimable; PFS = progression-free survival; vs = versus
+
+Randomized, Open-Label Clinical Studies in Patients with MM After At Least One Prior Therapy
 
 Two randomized studies (Studies 1 and 2) were conducted to evaluate the efficacy and safety of REVLIMID.
-These multicenter, multinational, double-blind, placebo-controlled studies compared REVLIMID plus oral pulse high-dose dexamethasone therapy to dexamethasone therapy alone in patients with multiple myeloma who had received at least one prior treatment.
+These multicenter, multinational, double-blind, placebo-controlled studies compared REVLIMID plus oral pulse high-dose dexamethasone therapy to dexamethasone therapy alone in patients with MM who had received at least one prior treatment.
 These studies enrolled patients with absolute neutrophil counts (ANC) ≥ 1000/mm3, platelet counts ≥ 75,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2 mg/dL.
 
 In both studies, patients in the REVLIMID/dexamethasone group took 25 mg of REVLIMID orally once daily on Days 1 to 21 and a matching placebo capsule once daily on Days 22 to 28 of each 28-day cycle.
@@ -83,10 +164,10 @@ In both studies, treatment was to continue until disease progression.
 In both studies, dose adjustments were allowed based on clinical and laboratory findings.
 Sequential dose reductions to 15 mg daily, 10 mg daily and 5 mg daily were allowed for toxicity [see Dosage and Administration (2.1)].
 
-Table 12 summarizes the baseline patient and disease characteristics in the two studies.
+Table 15 summarizes the baseline patient and disease characteristics in the two studies.
 In both studies, baseline demographic and disease-related characteristics were comparable between the REVLIMID/dexamethasone and placebo/dexamethasone groups.
 
-Table 12: Baseline Demographic and Disease-Related Characteristics – Studies 1 and 2
+Table 15: Baseline Demographic and Disease-Related Characteristics – Studies 1 and 2
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
@@ -118,7 +199,7 @@ For both studies, the extended follow-up survival data with crossovers were anal
 In study 1, the median survival time was 39.4 months (95%CI: 32.9, 47.4) in REVLIMID/dexamethasone group and 31.6 months (95%CI: 24.1, 40.9) in placebo/dexamethasone group, with a hazard ratio of 0.79 (95% CI: 0.61-1.03).
 In study 2, the median survival time was 37.5 months (95%CI: 29.9, 46.6) in REVLIMID/dexamethasone group and 30.8 months (95%CI: 23.5, 40.3) in placebo/dexamethasone group, with a hazard ratio of 0.86 (95% CI: 0.65-1.14).
 
-Table 13: TTP Results in Study 1 and Study 2
+Table 16: TTP Results in Study 1 and Study 2
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
@@ -135,9 +216,9 @@ Table 13: TTP Results in Study 1 and Study 2
 | p-value | <0.001 |  | <0.001 |  |
 | Odds Ratio [95% CI] | 6.38 [3.95, 10.32] |  | 4.72 [2.98, 7.49] |  |
 
-Figure 1: Kaplan-Meier Estimate of Time to Progression — Study 1
+Kaplan-Meier Estimate of Time to Progression — Study 1
 
-Figure 2: Kaplan-Meier Estimate of Time to Progression — Study 2
+Kaplan-Meier Estimate of Time to Progression — Study 2
 
 ## 14.2 Myelodysplastic Syndromes (MDS) with a Deletion 5q Cytogenetic Abnormality
 
@@ -149,9 +230,9 @@ This major study enrolled 148 patients who had RBC transfusion dependent anemia.
 RBC transfusion dependence was defined as having received ≥ 2 units of RBCs within 8 weeks prior to study treatment.
 The study enrolled patients with absolute neutrophil counts (ANC) ≥ 500/mm3, platelet counts ≥ 50,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2 mg/dL.
 Granulocyte colony-stimulating factor was permitted for patients who developed neutropenia or fever in association with neutropenia.
-Baseline patient and disease-related characteristics are summarized in Table 14.
+Baseline patient and disease-related characteristics are summarized in Table 17.
 
-Table 14: Baseline Demographic and Disease-Related Characteristics in the MDS Study
+Table 17: Baseline Demographic and Disease-Related Characteristics in the MDS Study
 
 |  | Overall (N=148) |  |  |
 | --- | --- | --- | --- |
@@ -199,7 +280,7 @@ The median interval between the first and second dose reduction or interruption 
 ## 14.3 Mantle Cell Lymphoma
 
 A multicenter, single-arm, open-label trial of single-agent lenalidomide was conducted to evaluate the safety and efficacy of lenalidomide in patients with mantle cell lymphoma who have relapsed after or were refractory to bortezomib or a bortezomib-containing regimen.
-Patients with a creatinine clearance >60 mL/min were given lenalidomide at a dose of 25 mg once daily for 21 days every 28 days.
+Patients with a creatinine clearance ≥60 mL/min were given lenalidomide at a dose of 25 mg once daily for 21 days every 28 days.
 Patients with a creatinine clearance ≥30 mL/min and <60 mL/min were given lenalidomide at a dose of 10 mg once daily for 21 days every 28 days.
 Treatment was continued until disease progression, unacceptable toxicity, or withdrawal of consent.
 
@@ -211,7 +292,7 @@ At enrollment patients were to have an absolute neutrophil counts (ANC) ≥1500/
 The median age was 67 years (43-83), 81% were male and 96% were Caucasian.
 The table below summarizes the baseline disease-related characteristics and prior anti-lymphoma therapy in the Mantle Cell Lymphoma trial.
 
-Table 15: Baseline Disease-related Characteristics and Prior Anti –Lymphoma Therapy in Mantle Cell Lymphoma Trial
+Table 18: Baseline Disease-related Characteristics and Prior Anti –Lymphoma Therapy in Mantle Cell Lymphoma Trial
 
 | Baseline Disease Characteristics and Prior Anti - Lymphoma Treatment | Total Patients (N=134) |
 | --- | --- |
@@ -231,10 +312,10 @@ Table 15: Baseline Disease-related Characteristics and Prior Anti –Lymphoma Th
 The efficacy endpoints in the MCL trial were overall response rate (ORR) and duration of response (DOR).
 Response was determined based on review of radiographic scans by an independent review committee according to a modified version of the International Workshop Lymphoma Response Criteria (Cheson, 1999).
 The DOR is defined as the time from the initial response (at least PR) to documented disease progression.
-The efficacy results for the MCL population were based on all evaluable patients who received at least one dose of study drug and are presented in Table 16.
+The efficacy results for the MCL population were based on all evaluable patients who received at least one dose of study drug and are presented in Table 19.
 The median time to response was 2.2 months (range 1.8 to 13 months).
 
-Table 16: Response Outcomes in the Pivotal Mantle Cell Lymphoma Trial
+Table 19: Response Outcomes in the Pivotal Mantle Cell Lymphoma Trial
 
 | Response Analyses (N = 133) | N (%) | 95% CI |
 | --- | --- | --- |
