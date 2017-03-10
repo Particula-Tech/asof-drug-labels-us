@@ -2,13 +2,13 @@
 
 See FDA-approved patient labeling (Medication Guide)
 
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with quetiapine fumarate tablets and should counsel them in its appropriate use.
-A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for quetiapine fumarate tablets.
+Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with quetiapine tablets and should counsel them in its appropriate use.
+A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for quetiapine tablets.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
-Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking quetiapine fumarate tablets.
+Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking quetiapine tablets.
 
 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
@@ -48,21 +48,21 @@ Patients should be advised of the risk of orthostatic hypotension (symptoms incl
 
 Increased Blood Pressure in Children and Adolescents
 
-Children and adolescent patients should have their blood pressure measured at the beginning of, and periodically during, treatment [see Warnings and Precautions (5.8)].
+Children and adolescent patients should have their blood pressure measured at the beginning of, and periodically during, treatment [see Warnings and Precautions (5.9)].
 
 Leukopenia/Neutropenia
 
-Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine fumarate tablets [see Warnings and Precautions (5.9)].
+Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine tablets [see Warnings and Precautions (5.10)].
 
 Interference with Cognitive and Motor Performance
 
 Patients should be advised of the risk of somnolence or sedation (which may lead to falls), especially during the period of initial dose titration.
 Patients should be cautioned about performing any activity requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating machinery, until they are reasonably certain quetiapine therapy does not affect them adversely.
-[see Warnings and Precautions (5.15)].
+[see Warnings and Precautions (5.16)].
 
 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.16)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.17)].
 
 Concomitant Medication
 
@@ -71,12 +71,12 @@ As with other medications, patients should be advised to notify their physicians
 
 Pregnancy and Nursing
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with quetiapine fumarate tablets.
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with quetiapine tablets.
 [see Use in Specific Populations (8.1) and (8.3)].
 
 Need for Comprehensive Treatment Program
 
-Quetiapine fumarate tablets are indicated as an integral part of a total treatment program for adolescents with schizophrenia and pediatric bipolar disorder that may include other measures (psychological, educational, and social).
-Effectiveness and safety of quetiapine fumarate tablets have not been established in pediatric patients less than 13 years of age for schizophrenia or less than 10 years of age for bipolar mania.
+Quetiapine tablets are indicated as an integral part of a total treatment program for adolescents with schizophrenia and pediatric bipolar disorder that may include other measures (psychological, educational, and social).
+Effectiveness and safety of quetiapine tablets have not been established in pediatric patients less than 13 years of age for schizophrenia or less than 10 years of age for bipolar mania.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)].

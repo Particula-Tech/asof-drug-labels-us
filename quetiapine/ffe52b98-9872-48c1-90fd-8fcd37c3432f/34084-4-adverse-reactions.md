@@ -9,17 +9,18 @@ The following adverse reactions are discussed in more detail in other sections o
 - Metabolic changes (hyperglycemia, dyslipidemia, weight gain) [see Warnings and Precautions (5.5)]
 - Tardive dyskinesia [see Warnings and Precautions (5.6)]
 - Hypotension [see Warnings and Precautions (5.7)]
-- Increases in blood pressure (children and adolescents) [see Warnings and Precautions (5.8)]
-- Leukopenia, neutropenia and agranulocytosis [see Warnings and Precautions (5.9)]
-- Cataracts [see Warnings and Precautions (5.10)]
-- QT Prolongation [see Warnings and Precautions (5.11)]
-- Seizures [see Warnings and Precautions (5.12)]
-- Hypothyroidism [see Warnings and Precautions (5.13)]
-- Hyperprolactinemia [see Warnings and Precautions (5.14)]
-- Potential for cognitive and motor impairment [see Warnings and Precautions (5.15)]
-- Body temperature regulation [see Warnings and Precautions (5.16)]
-- Dysphagia [see Warnings and Precautions (5.17)]
-- Discontinuation Syndrome [see Warnings and Precautions (5.18)]
+- Falls [see Warnings and Precautions (5.8)]
+- Increases in blood pressure (children and adolescents) [see Warnings and Precautions (5.9)]
+- Leukopenia, neutropenia and agranulocytosis [see Warnings and Precautions (5.10)]
+- Cataracts [see Warnings and Precautions (5.11)]
+- QT Prolongation [see Warnings and Precautions (5.12)]
+- Seizures [see Warnings and Precautions (5.13)]
+- Hypothyroidism [see Warnings and Precautions (5.14)]
+- Hyperprolactinemia [see Warnings and Precautions (5.15)]
+- Potential for cognitive and motor impairment [see Warnings and Precautions (5.16)]
+- Body temperature regulation [see Warnings and Precautions (5.17)]
+- Dysphagia [see Warnings and Precautions (5.18)]
+- Discontinuation Syndrome [see Warnings and Precautions (5.19)]
 
 ## 6.1 Clinical Study Experience
 
@@ -39,7 +40,7 @@ The stated frequencies of adverse reactions represent the proportion of individu
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
 
 Schizophrenia: Overall, there was little difference in the incidence of discontinuation due to adverse reactions (4% for quetiapine vs. 3% for placebo) in a pool of controlled trials.
-However, discontinuations due to somnolence (0.8% quetiapine vs. 0% placebo) and hypotension (0.4% quetiapine vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.7 and 5.18)].
+However, discontinuations due to somnolence (0.8% quetiapine vs. 0% placebo) and hypotension (0.4% quetiapine vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.7 and 5.19)].
 
 Bipolar Disorder:
 
@@ -208,7 +209,7 @@ In Table 12, dystonic event included nuchal rigidity, hypertonia, dystonia, musc
 
 Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Controlled Multiple Fixed-Dose Phase III Schizophrenia Trial (6 weeks duration)
 
-| Preferred Term | Quetiapine75 mg/day (N=53) |  | Quetiapine150 mg/day (N=48) |  | Quetiapine300 mg/day (N=52) |  | Quetiapine600 mg/day (N=51) |  | Quetiapine750 mg/day (N=54) |  | Placebo (N=51) |  |
+| Preferred Term | Quetiapine 75 mg/day (N=53) |  | Quetiapine 150 mg/day (N=48) |  | Quetiapine 300 mg/day (N=52) |  | Quetiapine 600 mg/day (N=51) |  | Quetiapine 750 mg/day (N=54) |  | Placebo (N=51) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | n | % | n | % | n | % | n | % | n | % | n | % |
 | Dystonic event | 2 | 3.8 | 2 | 4.2 | 0 | 0 | 2 | 3.9 | 3 | 5.6 | 4 | 7.8 |
@@ -296,7 +297,7 @@ Table 14 Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the
 
 | Preferred Term | Quetiapine 400 mg (n=95) | Quetiapine 600 mg (n=98) | Placebo (n=90) |
 | --- | --- | --- | --- |
-| SomnolenceSomolence combines adverse reactions terms somnolence and sedation | 50% | 57% | 14% |
+| SomnolenceSomnolence combines adverse reactions terms somnolence and sedation | 50% | 57% | 14% |
 | Dizziness | 19% | 17% | 2% |
 | Nausea | 6% | 10% | 4% |
 | Fatigue | 14% | 9% | 4% |
@@ -373,7 +374,7 @@ Cardiovascular System: Infrequent: vasodilatation, QT interval prolonged, migrai
 
 Respiratory System: Frequent: cough increased, dyspnea; Infrequent: pneumonia, epistaxis, asthma; Rare: hiccup, hyperventilation.
 
-Metabolic and Nutritional System: Infrequent: weight loss, alkaline phosphatase increased, hyperlipemia, alcohol intolerance, dehydration, hyperglycemia, creatinine increased, hypoglycemia; Rare: glycosuria, gout, hand edema, hypokalemia, water intoxication.
+Metabolic and Nutritional System: Infrequent: weight loss, alkaline phosphatase increased, hyperlipidemia, alcohol intolerance, dehydration, hyperglycemia, creatinine increased, hypoglycemia; Rare: glycosuria, gout, hand edema, hypokalemia, water intoxication.
 
 Skin and Appendages System: Infrequent: pruritus, acne, eczema, contact dermatitis, maculopapular rash, seborrhea, skin ulcer; Rare: exfoliative dermatitis, psoriasis, skin discoloration.
 
@@ -396,7 +397,7 @@ Laboratory Changes:
 Neutrophil Counts
 
 Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo.
-[see Warnings and Precautions (5.9)].
+[see Warnings and Precautions (5.10)].
 
 Transaminase Elevations
 
@@ -439,9 +440,9 @@ Mean increases in heart rate were 12.8 bpm and 13.4 bpm for quetiapine 400 mg an
 In an acute (8-week) quetiapine fumarate extended-release tablets trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (> 110 bpm 10 to 12 years and 13 to 17 years) occurred in 0% of patients receiving quetiapine fumarate extended-release tablets and 1.2% of patients receiving placebo.
 Mean increases in heart rate were 3.4 bpm for quetiapine fumarate extended-release tablets, compared to 0.3 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions were identified during post approval of quetiapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, drug reaction with eosinophilia and systemic symptoms (DRESS), hyponatremia, myocarditis, nocturnal pancreatitis, enuresis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).
+Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, drug reaction with eosinophilia and systemic symptoms (DRESS), hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).

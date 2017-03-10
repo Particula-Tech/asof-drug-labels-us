@@ -1,18 +1,18 @@
 # Medication Guide
 
-Quetiapine Fumarate (kwe-TYE-a-peen FUE-ma-rate) Tablets
+Quetiapine (kwe-TYE-a-peen) Tablets USP
 
-Read this Medication Guide before you start taking quetiapine fumarate tablets and each time you get a refill.
+Read this Medication Guide before you start taking quetiapine tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-What is the most important information I should know about quetiapine fumarate tablets?
+What is the most important information I should know about quetiapine tablets?
 
-Quetiapine fumarate tablets may cause serious side effects, including:
+Quetiapine tablets may cause serious side effects, including:
 
 1 risk of death in the elderly with dementia.
-Medicines like quetiapine fumarate tablets can increase the risk of death in elderly people who have memory loss (dementia).
-Quetiapine fumarate tablets are not for treating psychosis in the elderly with dementia.
+Medicines like quetiapine tablets can increase the risk of death in elderly people who have memory loss (dementia).
+Quetiapine tablets are not for treating psychosis in the elderly with dementia.
 
 2 risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions).
 
@@ -65,9 +65,9 @@ What else do I need to know about antidepressant medicines?
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child’s healthcare provider for more information.
 
-What are quetiapine fumarate tablets?
+What are quetiapine tablets?
 
-Quetiapine fumarate tablets are prescription medicine used to treat:
+Quetiapine tablets are prescription medicine used to treat:
 
 - schizophrenia in people 13 years of age or older
 - bipolar disorder in adults, including:
@@ -76,14 +76,14 @@ Quetiapine fumarate tablets are prescription medicine used to treat:
   - long-term treatment of bipolar I disorder with lithium or divalproex
 - manic episodes associated with bipolar I disorder in children ages 10 to 17 years old
 
-It is not known if quetiapine fumarate tablets are safe and effective in children under 10 years of age.
+It is not known if quetiapine tablets are safe and effective in children under 10 years of age.
 
-What should I tell my healthcare provider before taking quetiapine fumarate tablets?
+What should I tell my healthcare provider before taking quetiapine tablets?
 
-Before you take quetiapine fumarate tablets, tell your healthcare provider if you have or have had:
+Before you take quetiapine tablets, tell your healthcare provider if you have or have had:
 
 - diabetes or high blood sugar in you or your family.
-  Your healthcare provider should check your blood sugar before you start quetiapine fumarate tablets and also during therapy
+  Your healthcare provider should check your blood sugar before you start quetiapine tablets and also during therapy
 - high levels of total cholesterol, triglycerides or LDL-cholesterol or low levels of HDL-cholesterol
 - low or high blood pressure
 - low white blood cell count
@@ -95,54 +95,54 @@ Before you take quetiapine fumarate tablets, tell your healthcare provider if yo
 - liver problems
 - any other medical condition
 - pregnancy or plans to become pregnant.
-  It is not known if quetiapine fumarate tablets will harm your unborn baby.
+  It is not known if quetiapine tablets will harm your unborn baby.
 - Breast-feeding or plans to breast-feed.
   Quetiapine can pass into your breast milk.
-  You and your healthcare provider should decide if you will take quetiapine fumarate tablets or breast-feed.
+  You and your healthcare provider should decide if you will take quetiapine tablets or breast-feed.
   You should not do both.
 
 Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-­the-counter medicines, herbal supplements and vitamins.
 
-Quetiapine fumarate tablets and other medicines may affect each other causing serious side effects.
-Quetiapine fumarate tablets may affect the way other medicines work, and other medicines may affect how quetiapine fumarate tablets work.
+Quetiapine tablets and other medicines may affect each other causing serious side effects.
+Quetiapine tablets may affect the way other medicines work, and other medicines may affect how quetiapine tablets work.
 
-Tell your healthcare provider if you are having a urine drug screen because quetiapine fumarate tablets may affect your test results.
-Tell those giving the test that you are taking quetiapine fumarate tablets.
+Tell your healthcare provider if you are having a urine drug screen because quetiapine tablets may affect your test results.
+Tell those giving the test that you are taking quetiapine tablets.
 
-How should I take quetiapine fumarate tablets?
+How should I take quetiapine tablets?
 
-- Take quetiapine fumarate tablets exactly as your healthcare provider tells you to take it.
+- Take quetiapine tablets exactly as your healthcare provider tells you to take it.
   Do not change the dose yourself.
-- Take quetiapine fumarate tablets by mouth, with or without food.
-- If you feel you need to stop quetiapine fumarate tablets, talk with your healthcare provider first.
-  If you suddenly stop taking quetiapine fumarate tablets, you may have side effects such as trouble sleeping or trouble staying asleep (insomnia), nausea, and vomiting.
-- If you miss a dose of quetiapine fumarate tablets, take it as soon as you remember.
+- Take quetiapine tablets by mouth, with or without food.
+- If you feel you need to stop quetiapine tablets, talk with your healthcare provider first.
+  If you suddenly stop taking quetiapine tablets, you may have side effects such as trouble sleeping or trouble staying asleep (insomnia), nausea, and vomiting.
+- If you miss a dose of quetiapine tablets, take it as soon as you remember.
   If you are close to your next dose, skip the missed dose.
   Just take the next dose at your regular time.
   Do not take 2 doses at the same time unless your healthcare provider tells you to.
   If you are not sure about your dosing, call your healthcare provider.
 
-What should I avoid while taking quetiapine fumarate tablets?
+What should I avoid while taking quetiapine tablets?
 
-- Do not drive, operate machinery, or do other dangerous activities until you know how quetiapine fumarate tablets affect you.
-  Quetiapine fumarate tablets may make you drowsy.
+- Do not drive, operate machinery, or do other dangerous activities until you know how quetiapine tablets affect you.
+  Quetiapine tablets may make you drowsy.
 - Avoid getting overheated or dehydrated.
 - Do not over-exercise.
 - In hot weather, stay inside in a cool place if possible.
 - Stay out of the sun.
   Do not wear too much or heavy clothing.
 - Drink plenty of water.
-- Do not drink alcohol while taking quetiapine fumarate tablets.
-  It may make some side effects of quetiapine fumarate tablets worse.
+- Do not drink alcohol while taking quetiapine tablets.
+  It may make some side effects of quetiapine tablets worse.
 
-What are possible side effects of quetiapine fumarate tablets?
+What are possible side effects of quetiapine tablets?
 
-Quetiapine fumarate tablets can cause serious side effects, including:
+Quetiapine tablets can cause serious side effects, including:
 
-- See “What is the most important information I should know about quetiapine fumarate tablets?”
-- stroke that can lead to death can happen in elderly people with dementia who take medicines like quetiapine fumarate tablets
+- See “What is the most important information I should know about quetiapine tablets?”
+- stroke that can lead to death can happen in elderly people with dementia who take medicines like quetiapine tablets
 - neuroleptic malignant syndrome (NMS).
-  NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including quetiapine fumarate tablets.
+  NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including quetiapine tablets.
   NMS can cause death and must be treated in a hospital.
   Call your healthcare provider right away if you become severely ill and have some or all of these symptoms:
 - high fever
@@ -151,6 +151,8 @@ Quetiapine fumarate tablets can cause serious side effects, including:
 - confusion
 - changes in your breathing, heartbeat, and blood pressure
 
+- falls can happen in some people who take quetiapine tablets.
+  These falls may cause serious injuries.
 - high blood sugar (hyperglycemia).
   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
   High blood sugar could lead to:
@@ -158,11 +160,11 @@ Quetiapine fumarate tablets can cause serious side effects, including:
   - coma
   - death
 
-Increases in blood sugar can happen in some people who take quetiapine fumarate tablets.
+Increases in blood sugar can happen in some people who take quetiapine tablets.
 Extremely high blood sugar can lead to coma or death.
-If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start quetiapine fumarate tablets and during therapy.
+If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start quetiapine tablets and during therapy.
 
-Call your healthcare provider if you have any of these symptoms of high blood sugar (hyperglycemia) while taking quetiapine fumarate tablets:
+Call your healthcare provider if you have any of these symptoms of high blood sugar (hyperglycemia) while taking quetiapine tablets:
 
 - feel very thirsty
 - need to urinate more than usual
@@ -172,18 +174,18 @@ Call your healthcare provider if you have any of these symptoms of high blood su
 - feel confused, or your breath smells fruity
 
 - high fat levels in your blood (increased cholesterol and triglycerides).
-  High fat levels may happen in people treated with quetiapine fumarate tablets.
-  You may not have any symptoms, so your healthcare provider may decide to check your cholesterol and triglycerides during your treatment with quetiapine fumarate tablets.
+  High fat levels may happen in people treated with quetiapine tablets.
+  You may not have any symptoms, so your healthcare provider may decide to check your cholesterol and triglycerides during your treatment with quetiapine tablets.
 - increase in weight (weight gain).
-  Weight gain is common in people who take quetiapine fumarate tablets so you and your healthcare provider should check your weight regularly.
+  Weight gain is common in people who take quetiapine tablets so you and your healthcare provider should check your weight regularly.
   Talk to your healthcare provider about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
 - movements you cannot control in your face, tongue, or other body parts (tardive dyskinesia).
   These may be signs of a serious condition.
-  Tardive dyskinesia may not go away, even if you stop taking quetiapine fumarate tablets.
-  Tardive dyskinesia may also start after you stop taking quetiapine fumarate tablets.
+  Tardive dyskinesia may not go away, even if you stop taking quetiapine tablets.
+  Tardive dyskinesia may also start after you stop taking quetiapine tablets.
 - decreased blood pressure (orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position
 - increases in blood pressure in children and teenagers.
-  Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine fumarate tablets and during therapy.
+  Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine tablets and during therapy.
 - low white blood cell count
 - cataracts
 - seizures
@@ -194,10 +196,10 @@ Call your healthcare provider if you have any of these symptoms of high blood su
 - sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
 - increased body temperature
 - difficulty swallowing
-- trouble sleeping or trouble staying asleep (insomnia), nausea, or vomiting if you suddenly stop taking quetiapine fumarate tablets.
+- trouble sleeping or trouble staying asleep (insomnia), nausea, or vomiting if you suddenly stop taking quetiapine tablets.
   These symptoms usually get better 1 week after you start having them.
 
-The most common side effects of quetiapine fumarate tablets include:
+The most common side effects of quetiapine tablets include:
 
 In Adults:
 
@@ -218,31 +220,31 @@ In Children and Adolescents:
 - vomiting
 - rapid heart beat
 
-These are not all the possible side effects of quetiapine fumarate tablets.
+These are not all the possible side effects of quetiapine tablets.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store quetiapine fumarate tablets?
+How should I store quetiapine tablets?
 
-- Store quetiapine fumarate tablets at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30°C (59° and 86°F).
-- Keep quetiapine fumarate tablets and all medicines out of the reach of children.
+- Store quetiapine tablets at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30°C (59° and 86°F).
+- Keep quetiapine tablets and all medicines out of the reach of children.
 
-General information about the safe and effective use of quetiapine fumarate tablets.
+General information about the safe and effective use of quetiapine tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use quetiapine fumarate tablets for a condition for which it was not prescribed.
-Do not give quetiapine fumarate tablets to other people, even if they have the same symptoms you have.
+Do not use quetiapine tablets for a condition for which it was not prescribed.
+Do not give quetiapine tablets to other people, even if they have the same symptoms you have.
 It may harm them.
 
-This Medication Guide summarizes the most important information about quetiapine fumarate tablets.
+This Medication Guide summarizes the most important information about quetiapine tablets.
 If you would like more information, talk with your healthcare provider.
-You can ask your pharmacist or healthcare provider for information about quetiapine fumarate tablets that is written for health professionals.
+You can ask your pharmacist or healthcare provider for information about quetiapine tablets that is written for health professionals.
 
 For more information, call 1-800-818­-4555.
 
-What are the ingredients in quetiapine fumarate tablets?
+What are the ingredients in quetiapine tablets?
 
 Active ingredient: quetiapine fumarate
 
@@ -266,6 +268,6 @@ Survey No.: 259/15,
 Dadra-396 191 (U.T. of D & NH), India.
 
 ISS.
-07/2016
+02/2017
 
-PGPI0246E
+PGPI0246F
