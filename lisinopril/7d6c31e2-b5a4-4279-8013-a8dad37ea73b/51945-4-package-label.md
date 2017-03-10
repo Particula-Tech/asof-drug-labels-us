@@ -24,7 +24,7 @@ Rx Only
 
 10 mg
 
-NDC 68180-514-01
+NDC 68180-980-01
 
 100 Tablets
 
@@ -34,7 +34,7 @@ Rx Only
 
 20 mg
 
-NDC 68180-515-01
+NDC 68180-981-01
 
 100 Tablets
 
@@ -44,7 +44,7 @@ Rx Only
 
 30 mg
 
-NDC 68180-516-01
+NDC 68180-982-01
 
 100 Tablets
 
