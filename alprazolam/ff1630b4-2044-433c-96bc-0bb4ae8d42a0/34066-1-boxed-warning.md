@@ -2,8 +2,6 @@
 
 Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death [see Warnings and Precautions(5.1), Drug Interactions (7.1)].
 
-- Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
-
+- •Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 - Limit dosages and durations to the minimum required.
-
-- Follow patients for signs and symptoms of respiratory depression and sedation.
+- • Follow patients for signs and symptoms of respiratory depression and sedation.

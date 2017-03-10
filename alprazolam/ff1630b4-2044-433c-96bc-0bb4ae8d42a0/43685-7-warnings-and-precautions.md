@@ -103,9 +103,9 @@ Drugs demonstrated to be CYP3A inhibitors on the basis of clinical studies invol
 
 Consider dose reduction of alprazolam during coadministration with the following drugs:
 
-- Nefazodone — Coadministration of nefazodone increased alprazolam concentration two-fold.
-- Fluvoxamine — Coadministration of fluvoxamine approximately doubled the maximum plasma concentration of alprazolam, decreased clearance by 49%, increased half-life by 71%, and decreased measured psychomotor performance.
-- Cimetidine — Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.
+- •Nefazodone — Coadministration of nefazodone increased alprazolam concentration two-fold.
+- •Fluvoxamine — Coadministration of fluvoxamine approximately doubled the maximum plasma concentration of alprazolam, decreased clearance by 49%, increased half-life by 71%, and decreased measured psychomotor performance.
+- •Cimetidine — Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.
 
 Other drugs possibly affecting alprazolam metabolism
 

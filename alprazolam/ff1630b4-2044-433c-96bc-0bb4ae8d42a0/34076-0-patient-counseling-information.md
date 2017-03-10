@@ -6,22 +6,22 @@ Inform patients and caregivers that potentially fatal additive effects may occur
 
 To assure safe and effective use of benzodiazepines, all patients prescribed alprazolam should be provided with the following guidance.
 
-1. Do not remove Alprazolam orally disintegrating tablets, USP from the blister until just prior to dosing.
+1. 1.Do not remove Alprazolam orally disintegrating tablets, USP from the blister until just prior to dosing.
    With dry hands, remove the tablet, and immediately place on the tongue to dissolve and be swallowed with the saliva.
    The tablet may also be taken with water.
-2. Store at room temperature in a dry place.
+2. 2.Store at room temperature in a dry place.
    Protect from moisture.
-3. Inform your physician about any alcohol consumption and medicine you are taking now, including medication you may buy without a prescription.
+3. 3.Inform your physician about any alcohol consumption and medicine you are taking now, including medication you may buy without a prescription.
    Alcohol should generally not be used during treatment with benzodiazepines.
-4. Alprazolam is not recommended for use in pregnancy.
+4. 4.Alprazolam is not recommended for use in pregnancy.
    Therefore, inform your physician if you are pregnant, if you are planning to have a child, or if you become pregnant while you are taking this medication.
-5. Inform your physician if you are nursing.
-6. Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery, etc.
-7. Do not increase the dose even if you think the medication “does not work anymore” without consulting your physician.
+5. 5.Inform your physician if you are nursing.
+6. 6.Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery, etc.
+7. 7.Do not increase the dose even if you think the medication “does not work anymore” without consulting your physician.
    Benzodiazepines, even after relatively short-term use at the doses recommended, may produce emotional and/or physical dependence.
-8. Do not stop taking this medication abruptly or decrease the dose without consulting your physician, since withdrawal symptoms can occur even after relatively short-term use at the doses recommended.
+8. 8.Do not stop taking this medication abruptly or decrease the dose without consulting your physician, since withdrawal symptoms can occur even after relatively short-term use at the doses recommended.
    You should follow a gradual dosage tapering schedule.
-9. Phenylketonurics: Phenylketonuric patients should be informed that alprazolam orally disintegrating tablets, USP contain phenylalanine (a component of aspartame).
+9. 9.Phenylketonurics: Phenylketonuric patients should be informed that alprazolam orally disintegrating tablets, USP contain phenylalanine (a component of aspartame).
    Each 0.25 mg, 0.5 mg, 1 mg and 2 mg orally disintegrating tablet contains 2.52 mg, 5.04 mg, 5.04 mg and 10.08 mg of phenylalanine, respectively.
    [see DESCRIPTION (11.1)].
 
