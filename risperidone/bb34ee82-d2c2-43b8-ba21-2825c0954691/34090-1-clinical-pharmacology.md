@@ -76,8 +76,7 @@ Renal Impairment
 
 In patients with moderate to severe renal disease treated with oral RISPERDAL®, clearance of the sum of risperidone and its active metabolite decreased by 60% compared with young healthy subjects.
 Although patients with renal impairment were not studied with RISPERDAL CONSTA®, it is recommended that patients with renal impairment be carefully titrated on oral RISPERDAL® before treatment with RISPERDAL CONSTA® is initiated at a dose of 25 mg.
-A lower initial dose of 12.
-5 mg may be appropriate when clinical factors warrant dose adjustment, such as in patients with renal impairment [see Dosage and Administration (2.4)].
+A lower initial dose of 12.5 mg may be appropriate when clinical factors warrant dose adjustment, such as in patients with renal impairment [see Dosage and Administration (2.4)].
 
 Hepatic Impairment
 

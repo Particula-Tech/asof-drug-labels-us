@@ -8,7 +8,7 @@ Patients should be advised of the risk of orthostatic hypotension and instructed
 
 ## 17.2 Interference with Cognitive and Motor Performance
 
-Because RISPERDAL CONSTA® has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that treatment with RISPERDAL CONSTA® does not affect them adversely [see Warnings and Precautions (5.9)].
+Because RISPERDAL CONSTA® has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that treatment with RISPERDAL CONSTA® does not affect them adversely [see Warnings and Precautions (5.10)].
 
 ## 17.3 Pregnancy
 

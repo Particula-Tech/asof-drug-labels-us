@@ -155,7 +155,12 @@ RISPERDAL CONSTA® should be used with particular caution in (1) patients with k
 Monitoring of orthostatic vital signs should be considered in all such patients, and a dose reduction should be considered if hypotension occurs.
 Clinically significant hypotension has been observed with concomitant use of oral RISPERDAL® and antihypertensive medication.
 
-## 5.8 Leukopenia, Neutropenia, and Agranulocytosis
+## 5.8 Falls
+
+Somnolence, postural hypotension, motor and sensory instability have been reported with the use of antipsychotics, including RISPERDAL CONSTA®, which may lead to falls and, consequently, fractures or other fall-related injuries.
+For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
 Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including RISPERDAL CONSTA®.
 Agranulocytosis has also been reported.
@@ -166,55 +171,55 @@ Patients with a history of a clinically significant low WBC or a drug-induced le
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue RISPERDAL CONSTA® and have their WBC followed until recovery.
 
-## 5.9 Potential for Cognitive and Motor Impairment
+## 5.10 Potential for Cognitive and Motor Impairment
 
 Somnolence was reported by 5% of patients treated with RISPERDAL CONSTA® in multiple-dose trials.
 Since risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that treatment with RISPERDAL CONSTA® does not affect them adversely.
 
-## 5.10 Seizures
+## 5.11 Seizures
 
 During premarketing testing, seizures occurred in 0.3% (5/1499 patients) of patients treated with RISPERDAL CONSTA®.
 Therefore, RISPERDAL CONSTA® should be used cautiously in patients with a history of seizures.
 
-## 5.11 Dysphagia
+## 5.12 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
 RISPERDAL CONSTA® and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 [see also Boxed Warning and Warnings and Precautions (5.1)]
 
-## 5.12 Priapism
+## 5.13 Priapism
 
 Priapism has been reported during postmarketing surveillance [see Adverse Reactions (6.8)].
 Severe priapism may require surgical intervention.
 
-## 5.13 Thrombotic Thrombocytopenic Purpura (TTP)
+## 5.14 Thrombotic Thrombocytopenic Purpura (TTP)
 
 A single case of TTP was reported in a 28 year-old female patient receiving oral RISPERDAL® in a large, open premarketing experience (approximately 1300 patients).
 She experienced jaundice, fever, and bruising, but eventually recovered after receiving plasmapheresis.
 The relationship to RISPERDAL® therapy is unknown.
 
-## 5.14 Body Temperature Regulation
+## 5.15 Body Temperature Regulation
 
 Disruption of body temperature regulation has been attributed to antipsychotic agents.
 Both hyperthermia and hypothermia have been reported in association with oral RISPERDAL® or RISPERDAL CONSTA® use.
 Caution is advised when prescribing RISPERDAL CONSTA® for patients who will be exposed to temperature extremes.
 
-## 5.15 Administration
+## 5.16 Administration
 
 RISPERDAL CONSTA® should be injected into the deltoid or gluteal muscle, and care must be taken to avoid inadvertent injection into a blood vessel.
 [see Dosage and Administration (2) and Adverse Reactions (6.7)]
 
-## 5.16 Antiemetic Effect
+## 5.17 Antiemetic Effect
 
 Risperidone has an antiemetic effect in animals; this effect may also occur in humans, and may mask signs and symptoms of overdosage with certain drugs or of conditions such as intestinal obstruction, Reye's syndrome, and brain tumor.
 
-## 5.17 Suicide
+## 5.18 Suicide
 
 There is an increased risk of suicide attempt in patients with schizophrenia or bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
 RISPERDAL CONSTA® is to be administered by a health care professional [see Dosage and Administration (2)]; therefore, suicide due to an overdose is unlikely.
 
-## 5.18 Use in Patients with Concomitant Illness
+## 5.19 Use in Patients with Concomitant Illness
 
 Clinical experience with RISPERDAL CONSTA® in patients with certain concomitant systemic illnesses is limited.
 Patients with Parkinson's Disease or Dementia with Lewy Bodies who receive antipsychotics, including RISPERDAL CONSTA®, are reported to have an increased sensitivity to antipsychotic medications.
@@ -228,7 +233,7 @@ Increased plasma concentrations of risperidone and 9-hydroxyrisperidone occur in
 Patients with renal or hepatic impairment should be carefully titrated on oral RISPERDAL® before treatment with RISPERDAL CONSTA® is initiated at a dose of 25 mg.
 A lower initial dose of 12.5 mg may be appropriate when clinical factors warrant dose adjustment, such as in patients with renal or hepatic impairment [see Dosage and Administration (2.4)].
 
-## 5.19 Osteodystrophy and Tumors in Animals
+## 5.20 Osteodystrophy and Tumors in Animals
 
 RISPERDAL CONSTA® produced osteodystrophy in male and female rats in a 1-year toxicity study and a 2-year carcinogenicity study at a dose of 40 mg/kg administered IM every 2 weeks.
 
@@ -247,6 +252,6 @@ The renal tubular and adrenomedullary tumors in male rats and other tumor findin
 
 The relevance of these findings to human risk is unknown.
 
-## 5.20 Monitoring: Laboratory Tests
+## 5.21 Monitoring: Laboratory Tests
 
 No specific laboratory tests are recommended.
