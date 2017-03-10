@@ -134,8 +134,11 @@ Active ingredient: paliperidone palmitate
 
 Inactive ingredients: polysorbate 20, polyethylene glycol 4000, citric acid monohydrate, disodium hydrogen phosphate anhydrous, sodium dihydrogen phosphate monohydrate, sodium hydroxide, and water for injection
 
-Manufactured by: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+Manufactured by: Janssen Pharmaceutica N.V.
+Beerse, Belgium
 
-© Janssen Pharmaceuticals, Inc. 2009
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+
+© 2009 Janssen Pharmaceutical Companies
 
 This Patient Information has been approved by the U.S. Food and Drug Administration

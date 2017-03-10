@@ -214,7 +214,12 @@ Incidences of orthostatic hypotension and syncope in the long-term studies in su
 INVEGA SUSTENNA® should be used with caution in patients with known cardiovascular disease (e.g., heart failure, history of myocardial infarction or ischemia, conduction abnormalities), cerebrovascular disease, or conditions that predispose the patient to hypotension (e.g., dehydration, hypovolemia, and treatment with antihypertensive medications).
 Monitoring of orthostatic vital signs should be considered in patients who are vulnerable to hypotension.
 
-## 5.8 Leukopenia, Neutropenia, and Agranulocytosis
+## 5.8 Falls
+
+Somnolence, postural hypotension, motor and sensory instability have been reported with the use of antipsychotics, including INVEGA SUSTENNA®, which may lead to falls and, consequently, fractures or other fall-related injuries.
+For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
 In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including INVEGA®, an oral form of paliperidone.
 Agranulocytosis has also been reported.
@@ -225,7 +230,7 @@ Patients with a history of a clinically significant low WBC or a drug-induced le
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue INVEGA SUSTENNA® and have their WBC followed until recovery.
 
-## 5.9 Hyperprolactinemia
+## 5.10 Hyperprolactinemia
 
 Like other drugs that antagonize dopamine D2 receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
 Paliperidone has a prolactin-elevating effect similar to that seen with risperidone, a drug that is associated with higher levels of prolactin than other antipsychotic drugs.
@@ -239,32 +244,32 @@ Tissue culture experiments indicate that approximately one-third of human breast
 An increase in the incidence of pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
 
-## 5.10 Potential for Cognitive and Motor Impairment
+## 5.11 Potential for Cognitive and Motor Impairment
 
 Somnolence, sedation, and dizziness were reported as adverse reactions in subjects treated with INVEGA SUSTENNA® [see Adverse Reactions (6.1)].
 Antipsychotics, including INVEGA SUSTENNA®, have the potential to impair judgment, thinking, or motor skills.
 Patients should be cautioned about performing activities requiring mental alertness, such as operating hazardous machinery or operating a motor vehicle, until they are reasonably certain that paliperidone therapy does not adversely affect them.
 
-## 5.11 Seizures
+## 5.12 Seizures
 
 In the four fixed-dose double-blind placebo-controlled studies in subjects with schizophrenia, <1% (1/1293) of subjects treated with INVEGA SUSTENNA® in the recommended dose range of 39 mg to 234 mg experienced an adverse event of convulsion compared with <1% (1/510) of placebo-treated subjects who experienced an adverse event of grand mal convulsion.
 
 Like other antipsychotic drugs, INVEGA SUSTENNA® should be used cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
 Conditions that lower the seizure threshold may be more prevalent in patients 65 years or older.
 
-## 5.12 Dysphagia
+## 5.13 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
 INVEGA SUSTENNA® and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 
-## 5.13 Priapism
+## 5.14 Priapism
 
 Drugs with alpha-adrenergic blocking effects have been reported to induce priapism.
 Although no cases of priapism have been reported in clinical trials with INVEGA SUSTENNA®, priapism has been reported with oral paliperidone during postmarketing surveillance.
 Severe priapism may require surgical intervention.
 
-## 5.14 Disruption of Body Temperature Regulation
+## 5.15 Disruption of Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing INVEGA SUSTENNA® to patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.

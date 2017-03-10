@@ -10,7 +10,7 @@ Patients should be advised that there is risk of orthostatic hypotension, partic
 
 Interference with Cognitive and Motor Performance
 
-Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that INVEGA SUSTENNA® therapy does not affect them adversely, as INVEGA SUSTENNA® has the potential to impair judgment, thinking, or motor skills [see Warnings and Precautions (5.10)].
+Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that INVEGA SUSTENNA® therapy does not affect them adversely, as INVEGA SUSTENNA® has the potential to impair judgment, thinking, or motor skills [see Warnings and Precautions (5.11)].
 
 Pregnancy
 
@@ -27,7 +27,7 @@ Patients should be advised to inform their physicians if they are taking, or pla
 
 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.14)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.15)].
 
 INVEGA SUSTENNA® (paliperidone palmitate) Extended-Release Injectable Suspension
 
@@ -38,4 +38,4 @@ Beerse, Belgium
 
 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-© Janssen Pharmaceuticals, Inc. 2009
+© 2009 Janssen Pharmaceutical Companies

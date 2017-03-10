@@ -9,13 +9,14 @@ The following are discussed in more detail in other sections of the labeling:
 - Tardive dyskinesia [see Warnings and Precautions (5.5)]
 - Metabolic changes [see Warnings and Precautions (5.6)]
 - Orthostatic hypotension and syncope [see Warnings and Precautions (5.7)]
-- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.8)]
-- Hyperprolactinemia [See Warnings and Precautions (5.9)]
-- Potential for cognitive and motor impairment [see Warnings and Precautions (5.10)]
-- Seizures [see Warnings and Precautions (5.11)]
-- Dysphagia [see Warnings and Precautions (5.12)]
-- Priapism [see Warnings and Precautions (5.13)]
-- Disruption of body temperature regulation [see Warnings and Precautions (5.14)]
+- Falls [see Warnings and Precautions (5.8)]
+- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.9)]
+- Hyperprolactinemia [see Warnings and Precautions (5.10)]
+- Potential for cognitive and motor impairment [see Warnings and Precautions (5.11)]
+- Seizures [see Warnings and Precautions (5.12)]
+- Dysphagia [see Warnings and Precautions (5.13)]
+- Priapism [see Warnings and Precautions (5.14)]
+- Disruption of body temperature regulation [see Warnings and Precautions (5.15)]
 
 The most common (at least 5% in any INVEGA SUSTENNA® group) and likely drug-related (adverse events for which the drug rate is at least twice the placebo rate) adverse reactions from the double-blind, placebo-controlled trials in subjects with schizophrenia were injection site reactions, somnolence/sedation, dizziness, akathisia, and extrapyramidal disorder.
 No occurrences of adverse events reached this threshold in the long-term double-blind, placebo-controlled study in subjects with schizoaffective disorder.
@@ -184,7 +185,7 @@ Laboratory Test Abnormalities
 
 In the pooled data from the two double-blind, placebo-controlled, 13-week, fixed-dose trials in subjects with schizophrenia, a between-group comparison revealed no medically important differences between INVEGA SUSTENNA® and placebo in the proportions of subjects experiencing potentially clinically significant changes in routine serum chemistry, hematology, or urinalysis parameters.
 Similarly, there were no differences between INVEGA SUSTENNA® and placebo in the incidence of discontinuations due to changes in hematology, urinalysis, or serum chemistry, including mean changes from baseline in fasting glucose, insulin, c-peptide, triglycerides, HDL, LDL, and total cholesterol measurements.
-However, INVEGA SUSTENNA® was associated with increases in serum prolactin [see Warnings and Precautions (5.9)].
+However, INVEGA SUSTENNA® was associated with increases in serum prolactin [see Warnings and Precautions (5.10)].
 The results from the 13-week study involving 234 mg initiation dosing, the 9-week, fixed-dose, double-blind, placebo-controlled trial, and the double-blind phase of the maintenance trial in subjects with schizophrenia exhibited comparable findings.
 
 Pain Assessment and Local Injection Site Reactions
