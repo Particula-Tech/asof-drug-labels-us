@@ -117,4 +117,4 @@ For more information about ziprasidone hydrochloride capsules This sheet is only
 Ziprasidone hydrochloride capsules are a prescription medicine and only your doctor can decide if it is right for you.
 If you have any questions or want more information about ziprasidone hydrochloride capsules, talk with your doctor or pharmacist.
 You can also call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
-Maalox® is a registered trademark of Novartis Consumer Health, LLC Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302, India Issued: July 2016
+Maalox® is a registered trademark of Novartis Consumer Health, LLC Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302, India Revised: 03/2017
