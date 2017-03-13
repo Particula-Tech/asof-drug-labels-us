@@ -68,7 +68,7 @@ The spring-mechanism of the needle guard apparatus affixed to the prefilled syri
 The visibility of these markings is necessary to accurately measure doses of ZARXIO less than 0.3 mL (180 mcg) for direct administration to patients.
 Thus, the direct administration to patients requiring doses of less than 0.3 mL (180 mcg) is not recommended due to the potential for dosing errors.
 
-ZARXIO is supplied in single-use prefilled syringes (for subcutaneous use) [see Dosage Forms and Strengths (3)].
+ZARXIO is supplied in single-dose prefilled syringes (for subcutaneous use) [see Dosage Forms and Strengths (3)].
 Prior to use‚ remove the prefilled syringe from the refrigerator and allow ZARXIO to reach room temperature for a minimum of 30 minutes and a maximum of 24 hours.
 Discard any prefilled syringe left at room temperature for greater than 24 hours.
 Visually inspect ZARXIO for particulate matter and discoloration prior to administration (the solution is clear and colorless to slightly yellowish).
@@ -82,7 +82,12 @@ If you miss a dose of ZARXIO, talk to your doctor about when you should give you
 Subcutaneous Injection
 
 Inject ZARXIO subcutaneously in the outer area of upper arms, abdomen, thighs, or upper outer areas of the buttock.
-If patients or caregivers are to administer ZARXIO, instruct them in appropriate injection technique and ask them to follow the subcutaneous injection procedures in the Patient Information.
+If patients or caregivers are to administer ZARXIO, instruct them in appropriate injection technique and ask them to follow the subcutaneous injection procedures in the Instructions for Use for the prefilled syringe [see Patient Counseling Information (17)].
+
+Training by the healthcare provider should aim to demonstrate to those patients and caregivers how to measure the dose of ZARXIO, and the focus should be on ensuring that a patient or caregiver can successfully perform all of the steps in the Instructions for Use for the prefilled syringe.
+If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of ZARXIO.
+
+If the patient or caregiver misses a dose of ZARXIO, instruct them to contact their healthcare provider.
 
 Administration Instructions for the Prefilled Syringe
 

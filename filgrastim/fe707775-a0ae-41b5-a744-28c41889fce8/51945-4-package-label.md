@@ -10,7 +10,7 @@ For Subcutaneous Use or
 
 Intravenous Use Only
 
-Single-Use Only
+Single-Dose Only
 
 1 prefilled syringe with a needle guard
 
@@ -25,7 +25,7 @@ derived from E Coli.
 No Preservative.
 
 Refrigerate.
-Do Not Freeze.
+Protect from freezing.
 
 Caution: Contains Natural Rubber Latex
 
@@ -49,7 +49,7 @@ For Subcutaneous Use or
 
 Intravenous Use Only
 
-Single-Use Only
+Single-Dose Only
 
 1 prefilled syringe with a needle guard
 
@@ -64,7 +64,7 @@ derived from E Coli.
 No Preservative.
 
 Refrigerate.
-Do Not Freeze.
+Protect from freezing.
 
 Caution: Contains Natural Rubber Latex
 

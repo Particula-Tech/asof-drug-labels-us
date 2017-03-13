@@ -27,7 +27,7 @@ Because many drugs are excreted in human milk‚ caution should be exercised if 
 ZARXIO prefilled syringe with BD UltraSafe Passive® Needle Guard may not accurately measure volumes less than 0.3 mL due to the needle spring mechanism design.
 Therefore, the direct administration of a volume less than 0.3 mL is not recommended due to the potential for dosing errors.
 
-In patients with cancer receiving myelosuppressive chemotherapy‚ 15 pediatric patients median age 2.6 (range 1.2 to 9.4) years with neuroblastoma were treated with myelosuppressive chemotherapy (cyclophosphamide‚ cisplatin‚ doxorubicin‚ and etoposide) followed by subcutaneous filgrastim at doses of 5, 10, or 15 mcg/kg/day for 10 days (n = 5/dose) (Study 8).
+In patients with cancer receiving myelosuppressive chemotherapy‚ 15 pediatric patients median age 2.6 (range 1.2 to 9.4) years with neuroblastoma were treated with myelosuppressive chemotherapy (cyclophosphamide‚ cisplatin‚ doxorubicin‚ and etoposide) followed by subcutaneous filgrastim at doses of 5, 10, or 15 mcg/kg/day for 10 days (n=5/dose) (Study 8).
 The pharmacokinetics of filgrastim in pediatric patients after chemotherapy are similar to those in adults receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of filgrastim.
 In this population‚ filgrastim was well tolerated.
 There was one report of palpable splenomegaly and one report of hepatosplenomegaly associated with filgrastim therapy; however‚ the only consistently reported adverse event was musculoskeletal pain‚ which is no different from the experience in the adult population.

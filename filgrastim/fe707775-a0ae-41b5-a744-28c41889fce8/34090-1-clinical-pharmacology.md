@@ -39,10 +39,16 @@ The absolute bioavailability of filgrastim after subcutaneous administration is 
 
 Specific Populations
 
-Pediatric Patients: The pharmacokinetics of filgrastim in pediatric patients after chemotherapy are similar to those in adult patients receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of filgrastim products [see Use in Specific Populations (8.4)].
+Pediatric Patients
 
-Renal Impairment: In a study with healthy volunteers, subjects with moderate renal impairment, and subjects with end stage renal disease (n=4 per group), higher serum concentrations were observed in subjects with end-stage renal disease.
+The pharmacokinetics of filgrastim in pediatric patients after chemotherapy are similar to those in adult patients receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of filgrastim products [see Use in Specific Populations (8.4)].
+
+Renal Impairment
+
+In a study with healthy volunteers, subjects with moderate renal impairment, and subjects with end stage renal disease (n=4 per group), higher serum concentrations were observed in subjects with end-stage renal disease.
 However, dose adjustment in patients with renal impairment is not necessary.
 
-Hepatic Impairment: Pharmacokinetics and pharmacodynamics of filgrastim are similar between subjects with hepatic impairment and healthy subjects (n = 12/group).
+Hepatic Impairment
+
+Pharmacokinetics and pharmacodynamics of filgrastim are similar between subjects with hepatic impairment and healthy subjects (n=12/group).
 The study included 10 subjects with mild hepatic impairment (Child-Pugh Class A) and 2 subjects with moderate hepatic impairment (Child-Pugh Class B). Therefore, dose adjustment for ZARXIO in patients with hepatic impairment is not necessary.

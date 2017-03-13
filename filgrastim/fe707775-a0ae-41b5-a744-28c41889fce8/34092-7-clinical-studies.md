@@ -24,7 +24,7 @@ Patients were randomized to receive subcutaneous filgrastim (n=259) at a dose of
 The demographic and disease characteristics were balanced between arms with a median age of 54 (range 16 to 89) years; 54% males; initial white blood cell count (65% - <25,000 /mm3 and 27% > 100,000/mm3); 29% unfavorable cytogenetics.
 
 The main efficacy endpoint was median duration of severe neutropenia defined as neutrophil count < 500/mm3.
-Treatment with filgrastim resulted in a clinically and statistically significant reduction in median number of days of severe neutropenia, filgrastim-treated patients 14 days, placebo-treated patients 19 days (p = 0.0001: difference of 5 days (95% CI: -6.0, -4.0)).
+Treatment with filgrastim resulted in a clinically and statistically significant reduction in median number of days of severe neutropenia, filgrastim-treated patients 14 days, placebo-treated patients 19 days (p=0.0001: difference of 5 days (95% CI: -6.0, -4.0)).
 There was a reduction in the median duration of intravenous antibiotic use, filgrastim-treated patients: 15 days versus placebo-treated patients: 18.5 days; a reduction in the median duration of hospitalization, filgrastim-treated patients: 20 days versus placebo-treated patients: 25 days.
 
 There were no statistically significant differences between the filgrastim and the placebo groups in complete remission rate (69% - filgrastim, 68% - placebo), median time to progression of all randomized patients (165 days - filgrastim, 186 days - placebo), or median overall survival (380 days - filgrastim, 425 days - placebo).
@@ -32,14 +32,14 @@ There were no statistically significant differences between the filgrastim and t
 ## 14.3 Patients with Cancer Undergoing Bone Marrow Transplantation
 
 The safety and efficacy of filgrastim to reduce the duration of neutropenia in patients with nonmyeloid malignancies undergoing myeloablative chemotherapy followed by autologous bone marrow transplantation was evaluated in 2 randomized controlled trials of patients with lymphoma (Study 6 and Study 9).
-The safety and efficacy of filgrastim to reduce the duration of neutropenia in patients undergoing myeloablative chemotherapy followed by allogeneic bone marrow transplantation was evaluated in a randomized placebo controlled trial (Study10).
+The safety and efficacy of filgrastim to reduce the duration of neutropenia in patients undergoing myeloablative chemotherapy followed by allogeneic bone marrow transplantation was evaluated in a randomized placebo controlled trial (Study 10).
 
 In Study 6 patients with Hodgkin’s disease received a preparative regimen of intravenous cyclophosphamide, etoposide, and BCNU (“CVP”), and patients with non-Hodgkin’s lymphoma received intravenous BCNU, etoposide, cytosine arabinoside and melphalan (“BEAM”).
 There were 54 patients randomized 1:1:1 to control, filgrastim 10 mcg/kg/day, and filgrastim 30 mcg/kg/day as a 24 hour continuous infusion starting 24 hours after bone marrow infusion for a maximum of 28 days.
 The median age was 33 (range 17 to 57) years; 56% males; 69% Hodgkin’s disease and 31% non-Hodgkin’s lymphoma.
 
 The main efficacy endpoint was duration of severe neutropenia ANC < 500/mm3.
-A statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) occurred in the filgrastim-treated groups versus the control group (23 days in the control group‚ 11 days in the 10 mcg/kg/day group‚ and 14 days in the 30 mcg/kg/day group [11 days in the combined treatment groups‚ p = 0.004]).
+A statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) occurred in the filgrastim-treated groups versus the control group (23 days in the control group‚ 11 days in the 10 mcg/kg/day group‚ and 14 days in the 30 mcg/kg/day group [11 days in the combined treatment groups‚ p=0.004]).
 
 In Study 9, patients with Hodgkin’s disease and non-Hodgkin’s lymphoma received a preparative regimen of intravenous cyclophosphamide, etoposide, and BCNU (“CVP”).
 There were 43 evaluable patients randomized to continuous subcutaneous infusion filgrastim 10 mcg/kg/day (n=19), filgrastim 30 mcg/kg/day (n=10) and no treatment (n=14) starting the day after marrow infusion for a maximum of 28 days.
