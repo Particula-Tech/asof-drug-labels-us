@@ -6,12 +6,6 @@ Orfadin® Capsules (Nitisinone) 2 mg
 
 For Oral Use
 
-Rx only.
-
-See Package Insert.
-
-Store refrigerated 2-8 °C (36-46 °F)
-
 sobi
 
 Expiration Date:
@@ -55,12 +49,6 @@ Principal Display Panel - Carton Label
 Orfadin® Capsules (Nitisinone) 5 mg
 
 For Oral Use
-
-Rx only.
-
-See Package Insert.
-
-Store refrigerated 2-8 °C (36-46 °F)
 
 sobi
 
@@ -106,12 +94,6 @@ Orfadin® Capsules (Nitisinone) 10 mg
 
 For Oral Use
 
-Rx only.
-
-See Package Insert.
-
-Store refrigerated 2-8 °C (36-46 °F)
-
 sobi
 
 Expiration Date:
@@ -152,15 +134,9 @@ Principal Display Panel - Carton Label
 
 60 capsules NDC 66658-120-60
 
-Orfadin® Capsules (Nitisinone) 20 mg
+Orfadin® Capsules (Nitisinone) 2 mg
 
 For Oral Use
-
-Rx only.
-
-See Package Insert.
-
-Store refrigerated 2-8 °C (36-46 °F)
 
 sobi
 

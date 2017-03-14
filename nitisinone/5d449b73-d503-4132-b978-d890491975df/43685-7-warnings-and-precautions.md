@@ -21,7 +21,7 @@ In patients with HT-1 treated with dietary restrictions and ORFADIN who develop 
 ## 5.2 Leukopenia and Severe Thrombocytopenia
 
 In clinical trials, patients treated with ORFADIN and dietary restriction developed transient leukopenia (3%), thrombocytopenia (3%), or both (1.5%) [see Adverse Reactions (6.1)].
-One patient who developed both leucopenia leukopenia and thrombocytopenia improved after the dose of ORFADIN was decreased from 1 mg/kg to 0.5 mg/kg twice daily.
+One patient who developed both leukopenia and thrombocytopenia improved after the dose of ORFADIN was decreased from 1 mg/kg to 0.5 mg/kg twice daily.
 No patients developed infections or bleeding as a result of the episodes of leukopenia and thrombocytopenia.
 Monitor platelet and white blood cell counts during ORFADIN therapy.
 

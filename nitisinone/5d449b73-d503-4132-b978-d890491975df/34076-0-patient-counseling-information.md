@@ -62,6 +62,6 @@ Manufactured by: Apotek Produktion & Laboratorier AB, Sweden
 
 Marketed by: Sobi, Inc 890 Winter Street Waltham, MA 02451
 
-00064-04
+00064-
 
-2001014-08
+2001014-

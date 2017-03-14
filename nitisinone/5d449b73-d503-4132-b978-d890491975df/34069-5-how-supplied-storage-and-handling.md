@@ -8,9 +8,10 @@ Each bottle contains 60 capsules.
 - 5 mg white capsules imprinted "NTBC 5 mg" in black ink, NDC 66658-105-60
 - 10 mg white capsules imprinted "NTBC 10 mg" in black ink, NDC 66658-110-60
 - 20 mg white capsules imprinted "NTBC 20 mg" in black ink, NDC 66658-120-60
-- Store refrigerated, 2-8°C (36-46°F).
 
-Oral suspension: White, slightly viscous opaque suspension.
+Store refrigerated at 2° to 8°C (36° to 46°F).
+Alternatively, patients/caregivers may store ORFADIN capsules at room temperature up to 25°C (77°F) for up to 45 days.
+If not used within 45 days, discard ORFADIN capsules.Oral suspension: White, slightly viscous opaque suspension.
 1 mL contains 4 mg of nitisinone.
 The suspension is provided in a 100 mL brown bottle (type III glass) with a white child resistant HDPE screw cap with sealing and tamper evidence.
 Each bottle contains 90 mL oral suspension.
