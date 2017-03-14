@@ -10,7 +10,7 @@ The average age of patients in these studies was 43 years.
 Patients on average had smoked about 21 cigarettes per day for an average of approximately 25 years.
 Patients set a date to stop smoking (target quit date) with dosing starting 1 week before this date.
 
-Six additional studies were conducted in patients with cardiovascular disease, in patients with chronic obstructive pulmonary disease [see Clinical Studies (14.7)], in patients instructed to select their quit date within days 8 and 35 of treatment [see Clinical Studies (14.4)], patients with major depressive disorder [see Clinical Studies (14.8)], patients who had made a previous attempt to quit smoking with CHANTIX, and either did not succeed in quitting or relapsed after treatment [see Clinical Studies (14.6)], and in patients who were not able or willing to quit abruptly and were instructed to quit gradually [see Clinical studies (14.5)].
+Seven additional studies evaluated the efficacy of CHANTIX in patients with cardiovascular disease, in patients with chronic obstructive pulmonary disease [see Clinical Studies (14.7)], in patients instructed to select their quit date within days 8 and 35 of treatment [see Clinical Studies (14.4)], patients with major depressive disorder [see Clinical Studies (14.8)], patients who had made a previous attempt to quit smoking with CHANTIX, and either did not succeed in quitting or relapsed after treatment [see Clinical Studies (14.6)], in patients without or with a history of psychiatric disorder enrolled in a postmarketing neuropsychiatric safety outcome trial [see Warnings and Precautions (5.1), Clinical Studies (14.9)], and in patients who were not able or willing to quit abruptly and were instructed to quit gradually [see Clinical studies (14.5)].
 
 In all studies, patients were provided with an educational booklet on smoking cessation and received up to 10 minutes of smoking cessation counseling at each weekly treatment visit according to Agency for Healthcare Research and Quality guidelines.
 
@@ -60,7 +60,7 @@ Similarly in Study 5, patients treated with CHANTIX had a superior rate of CO-co
 The bupropion SR quit rate was also superior to placebo.
 In addition, 29% of the CHANTIX group were continuously abstinent from one week after TQD through the end of treatment as compared to 11% of the placebo group and 21% of the bupropion SR group.
 
-Table 6: Continuous Abstinence, Weeks 9 through 12 (95% confidence interval)
+Table 4: Continuous Abstinence, Weeks 9 through 12 (95% confidence interval)
 
 |  | CHANTIX 0.5 mg BID | CHANTIX 1 mg BID | CHANTIX Flexible | Bupropion SR | Placebo |
 | --- | --- | --- | --- | --- | --- |
@@ -77,9 +77,9 @@ Based on responses to the Brief Questionnaire of Smoking Urges and the Minnesota
 ## 14.3 Long-Term Abstinence
 
 Studies 1 through 5 included 40 weeks of post-treatment follow-up.
-In each study, CHANTIX-treated patients were more likely to maintain abstinence throughout the follow-up period than were patients treated with placebo (Figure 2, Table 7).
+In each study, CHANTIX-treated patients were more likely to maintain abstinence throughout the follow-up period than were patients treated with placebo (Figure 2, Table 5).
 
-Table 7: Continuous Abstinence, Weeks 9 through 52 (95% confidence interval) Across Different Studies
+Table 5: Continuous Abstinence, Weeks 9 through 52 (95% confidence interval) Across Different Studies
 
 |  | CHANTIX 0.5 mg BID | CHANTIX 1 mg BID | CHANTIX Flexible | Bupropion SR | Placebo |
 | --- | --- | --- | --- | --- | --- |
@@ -92,8 +92,8 @@ Table 7: Continuous Abstinence, Weeks 9 through 52 (95% confidence interval) Acr
 Study 6
 
 This study assessed the effect of an additional 12 weeks of CHANTIX therapy on the likelihood of long-term abstinence.
-Patients in this study (n=1927) were treated with open-label CHANTIX 1 mg twice daily for 12 weeks.
-Patients who had stopped smoking for at least a week by Week 12 (n= 1210) were then randomized to double-blind treatment with CHANTIX (1 mg twice daily) or placebo for an additional 12 weeks and then followed for 28 weeks post-treatment.
+Patients in this study (N=1927) were treated with open-label CHANTIX 1 mg twice daily for 12 weeks.
+Patients who had stopped smoking for at least a week by Week 12 (N= 1210) were then randomized to double-blind treatment with CHANTIX (1 mg twice daily) or placebo for an additional 12 weeks and then followed for 28 weeks post-treatment.
 
 The continuous abstinence rate from Week 13 through Week 24 was higher for patients continuing treatment with CHANTIX (70%) than for patients switching to placebo (50%).
 Superiority to placebo was also maintained during 28 weeks post-treatment follow-up (CHANTIX 54% versus placebo 39%).
@@ -110,7 +110,7 @@ Patients treated with CHANTIX had a superior rate of CO-confirmed abstinence dur
 ## 14.5 Gradual Approach to Quitting Smoking
 
 CHANTIX was evaluated in a 52-week double-blind placebo-controlled study of 1,510 subjects who were not able or willing to quit smoking within four weeks, but were willing to gradually reduce their smoking over a 12 week period before quitting.
-Subjects were randomized to either CHANTIX 1 mg twice daily (n=760) or placebo (n=750) for 24 weeks and followed up post-treatment through week 52.
+Subjects were randomized to either CHANTIX 1 mg twice daily (N=760) or placebo (N=750) for 24 weeks and followed up post-treatment through week 52.
 Subjects were instructed to reduce the number of cigarettes smoked by at least 50 percent by the end of the first four weeks of treatment, followed by a further 50 percent reduction from week four to week eight of treatment, with the goal of reaching complete abstinence by 12 weeks.
 After the initial 12-week reduction phase, subjects continued treatment for another 12 weeks.
 Subjects treated with CHANTIX had a significantly higher Continuous Abstinence Rate compared with placebo at weeks 15 through 24 (32% vs. 7%) and weeks 15 through 52 (24% vs. 6%).
@@ -118,52 +118,100 @@ Subjects treated with CHANTIX had a significantly higher Continuous Abstinence R
 ## 14.6 Re-Treatment Study
 
 CHANTIX was evaluated in a double-blind, placebo-controlled trial of patients who had made a previous attempt to quit smoking with CHANTIX, and either did not succeed in quitting or relapsed after treatment.
-Subjects were randomized 1:1 to CHANTIX 1 mg twice daily (n=249) or placebo (n=245) for 12 weeks of treatment and followed for 40 weeks post-treatment.
+Subjects were randomized 1:1 to CHANTIX 1 mg twice daily (N=249) or placebo (N=245) for 12 weeks of treatment and followed for 40 weeks post-treatment.
 Patients included in this study had taken CHANTIX for a smoking-cessation attempt in the past (for a total treatment duration of a minimum of two weeks), at least three months prior to study entry, and had been smoking for at least four weeks.
 
 Patients treated with CHANTIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 (45%) compared to patients treated with placebo (12%) and from weeks 9 through 52 (20%) compared to subjects treated with placebo (3%).
 
-Table 8: Continuous Abstinence (95% confidence interval), Re-Treatment Study
+Table 6: Continuous Abstinence (95% confidence interval), Re-Treatment Study
 
-|  | CHANTIX 1 mg BID | Placebo |  | CHANTIX 1 mg BID | Placebo |
-| --- | --- | --- | --- | --- | --- |
-|  | Weeks 9 through 12 |  |  | Weeks 9 through 52 |  |
-| Retreatment Study | 45% | 12% |  | 20% | 3% |
-|  | (39%, 51%) | (8%, 16%) |  | (15%, 25%) | (1%, 5%) |
-| BID = twice daily |  |  |  |  |  |
+|  | CHANTIX 1 mg BID | Placebo | CHANTIX 1 mg BID | Placebo |
+| --- | --- | --- | --- | --- |
+|  | Weeks 9 through 12 |  | Weeks 9 through 52 |  |
+| Retreatment Study | 45% (39%, 51%) | 12% (8%, 16%) | 20% (15%, 25%) | 3% (1%, 5%) |
+| BID = twice daily |  |  |  |  |
 
 ## 14.7 Subjects with Cardiovascular and Chronic Obstructive Pulmonary Disease
 
 CHANTIX was evaluated in a randomized, double-blind, placebo-controlled study of subjects aged 35 to 75 years with stable, documented cardiovascular disease (diagnoses other than, or in addition to, hypertension) that had been diagnosed for more than 2 months.
-Subjects were randomized to CHANTIX 1 mg twice daily (n=353) or placebo (n=350) for a treatment of 12 weeks and then were followed for 40 weeks post-treatment.
+Subjects were randomized to CHANTIX 1 mg twice daily (N=353) or placebo (N=350) for a treatment of 12 weeks and then were followed for 40 weeks post-treatment.
 Subjects treated with CHANTIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 (47%) compared to subjects treated with placebo (14%) and from week 9 through 52 (20%) compared to subjects treated with placebo (7%).
 
 CHANTIX was evaluated in a randomized, double-blind, placebo-controlled study of subjects aged ≥ 35 years with mild-to-moderate COPD with post-bronchodilator FEV1/FVC <70% and FEV1 ≥ 50% of predicted normal value.
-Subjects were randomized to CHANTIX 1 mg twice daily (n=223) or placebo (n=237) for a treatment of 12 weeks and then were followed for 40 weeks post-treatment.
+Subjects were randomized to CHANTIX 1 mg twice daily (N=223) or placebo (N=237) for a treatment of 12 weeks and then were followed for 40 weeks post-treatment.
 Subjects treated with CHANTIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 (41%) compared to subjects treated with placebo (9%) and from week 9 through 52 (19%) compared to subjects treated with placebo (6%).
 
-Table 9: Continuous Abstinence (95% confidence interval), Studies in Patients with Cardiovascular Disease (CVD) and Chronic Obstructive Pulmonary Disease (COPD)
+Table 7: Continuous Abstinence (95% confidence interval), Studies in Patients with Cardiovascular Disease (CVD) and Chronic Obstructive Pulmonary Disease (COPD)
 
-|  | CHANTIX 1 mg BID | Placebo |  | CHANTIX 1 mg BID | Placebo |
-| --- | --- | --- | --- | --- | --- |
-|  | Weeks 9 through 12 |  |  | Weeks 9 through 52 |  |
-| CVD Study | 47% (42%, 53%) | 14% (11%, 18%) |  | 20% (16%, 24%) | 7% (5%, 10%) |
-| COPD Study | 41% (34%, 47%) | 9% (6%, 13%) |  | 19% (14%, 24%) | 6% (3%, 9%) |
-| BID = twice daily |  |  |  |  |  |
+|  | CHANTIX 1 mg BID | Placebo | CHANTIX 1 mg BID | Placebo |
+| --- | --- | --- | --- | --- |
+|  | Weeks 9 through 12 |  | Weeks 9 through 52 |  |
+| CVD Study | 47% (42%, 53%) | 14% (11%, 18%) | 20% (16%, 24%) | 7% (5%, 10%) |
+| COPD Study | 41% (34%, 47%) | 9% (6%, 13%) | 19% (14%, 24%) | 6% (3%, 9%) |
+| BID = twice daily |  |  |  |  |
 
 ## 14.8 Subjects with Major Depressive Disorder
 
 CHANTIX was evaluated in a randomized, double-blind, placebo-controlled study of subjects aged 18 to 75 years with major depressive disorder without psychotic features (DSM-IV TR).
 If on medication, subjects were to be on a stable antidepressant regimen for at least two months.
 If not on medication, subjects were to have experienced a major depressive episode in the past 2 years, which was successfully treated.
-Subjects were randomized to CHANTIX 1 mg twice daily (n=256) or placebo (n=269) for a treatment of 12 weeks and then followed for 40 weeks post-treatment.
+Subjects were randomized to CHANTIX 1 mg twice daily (N=256) or placebo (N=269) for a treatment of 12 weeks and then followed for 40 weeks post-treatment.
 Subjects treated with CHANTIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 (36%) compared to subjects treated with placebo (16%) and from week 9 through 52 (20%) compared to subjects treated with placebo (10%).
 
-Table 10: Continuous Abstinence (95% confidence interval), Study in Patients with Major Depressive Disorder (MDD)
+Table 8: Continuous Abstinence (95% confidence interval), Study in Patients with Major Depressive Disorder (MDD)
 
-|  | CHANTIX 1 mg BID | Placebo |  | CHANTIX 1 mg BID | Placebo |
-| --- | --- | --- | --- | --- | --- |
-|  | Weeks 9 through 12 |  |  | Weeks 9 through 52 |  |
-| MDD Study | 36% | 16% |  | 20% | 10% |
-|  | (30%, 42%) | (11%, 20%) |  | (15%, 25%) | (7%, 14%) |
-| BID = twice daily |  |  |  |  |  |
+|  | CHANTIX 1 mg BID | Placebo | CHANTIX 1 mg BID | Placebo |
+| --- | --- | --- | --- | --- |
+|  | Weeks 9 through 12 |  | Weeks 9 through 52 |  |
+| MDD Study | 36% | 16% | 20% | 10% |
+|  | (30%, 42%) | (11%, 20%) | (15%, 25%) | (7%, 14%) |
+| BID = twice daily |  |  |  |  |
+
+## 14.9 Postmarketing Neuropsychiatric Safety Outcome Trial
+
+CHANTIX was evaluated in a randomized, double-blind, active and placebo-controlled trial that included subjects without a history of psychiatric disorder (non-psychiatric cohort, N=3912) and with a history of psychiatric disorder (psychiatric cohort, N=4003).
+Subjects aged 18–75 years, smoking 10 or more cigarettes per day were randomized 1:1:1:1 to CHANTIX 1 mg BID, bupropion SR 150 mg BID, nicotine replacement therapy patch (NRT) 21 mg/day with taper or placebo for a treatment period of 12 weeks; they were then followed for another 12 weeks post-treatment.
+[See Warnings and Precautions (5.1)]
+
+A composite safety endpoint intended to capture clinically significant neuropsychiatric (NPS) adverse events included the following NPS adverse events: anxiety, depression, feeling abnormal, hostility, agitation, aggression, delusions, hallucinations, homicidal ideation, mania, panic, paranoia, psychosis, irritability, suicidal ideation, suicidal behavior or completed suicide.
+
+As shown in Table 9, the use of CHANTIX, bupropion, and NRT in the non-psychiatric cohort was not associated with an increased risk of clinically significant NPS adverse events compared with placebo.
+Similarly, in the non-psychiatric cohort, the use of CHANTIX was not associated with an increased risk of clinically significant NPS adverse events in the composite safety endpoint compared with bupropion or NRT.
+
+Table 9.
+Number of Patients with Clinically Significant or Serious NPS Adverse Events by Treatment Group Among Patients without a History of Psychiatric Disorder
+
+|  | CHANTIX (N=975) n (%) | Bupropion (N=968) n (%) | NRT (N=987) n (%) | Placebo (N=982) n (%) |
+| --- | --- | --- | --- | --- |
+| Clinically significant NPS | 30 (3.1) | 34 (3.5) | 33 (3.3) | 40 (4.1) |
+| Serious NPS | 1 (0.1) | 5 (0.5) | 1 (0.1) | 4 (0.4) |
+| Psychiatric hospitalizations | 1 (0.1) | 2 (0.2) | 0 (0.0) | 1 (0.1) |
+
+As shown in Table 10, there were more clinically significant NPS adverse events reported in patients in the psychiatric cohort in each treatment group compared with the non-psychiatric cohort (Table 9).
+The incidence of events in the composite endpoint was higher for each of the active treatments compared to placebo: Risk Differences (RDs) (95%CI) vs placebo were 2.7% (-0.05, 5.4) for CHANTIX, 2.2% (-0.5, 4.9) for bupropion, and 0.4% (-2.2, 3.0) for NRT transdermal nicotine.
+
+Table 10.
+Number of Patients with Clinically Significant or Serious NPS Adverse Events by Treatment Group Among Patients with a History of Psychiatric Disorder
+
+|  | CHANTIX (N=1007) n (%) | Bupropion (N=1004) n (%) | NRT (N=995) n (%) | Placebo (N=997) n (%) |
+| --- | --- | --- | --- | --- |
+| Clinically Significant NPS | 123 (12.2) | 118 (11.8) | 98 (9.8) | 95 (9.5) |
+| Serious NPS | 6 (0.6) | 8 (0.8) | 4 (0.4) | 6 (0.6) |
+| Psychiatric hospitalizations | 5 (0.5) | 8 (0.8) | 4 (0.4) | 2 (0.2) |
+
+There was one completed suicide, which occurred during treatment in a patient treated with placebo in the non-psychiatric cohort.
+There were no completed suicides reported in the psychiatric cohort.
+
+In both cohorts, subjects treated with CHANTIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 and 9 through 24 compared to subjects treated with bupropion, nicotine patch and placebo.
+
+Table 11: Continuous Abstinence (95% confidence interval), Study in Patients with or without a History of Psychiatric Disorder
+
+|  | CHANTIX 1 mg BID | Bupropion SR 150 mg BID | NRT 21 mg/day with taper | Placebo |
+| --- | --- | --- | --- | --- |
+| Weeks 9 through 12 |  |  |  |  |
+| Non-Psychiatric Cohort | 38% (35%, 41%) | 26% (23%, 29%) | 26% (24%, 29%) | 14% (12%, 16%) |
+| Psychiatric Cohort | 29% (26%, 32%) | 19% (17%, 22%) | 20% (18%, 23%) | 11% (10%, 14%) |
+| Weeks 9 through 24 |  |  |  |  |
+| Non-Psychiatric Cohort | 25% (23%, 28%) | 19% (16%, 21%) | 18% (16%, 21%) | 11% (9%, 13%) |
+| Psychiatric Cohort | 18% (16%, 21%) | 14% (12%, 16%) | 13% (11%, 15%) | 8% (7%, 10%) |
+| BID = twice daily |  |  |  |  |

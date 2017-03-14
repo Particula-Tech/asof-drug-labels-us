@@ -10,7 +10,6 @@ Humans
 
 Fewer than 1 out of 1,000 patients reported euphoria in clinical trials with CHANTIX.
 At higher doses (greater than 2 mg), CHANTIX produced more frequent reports of gastrointestinal disturbances such as nausea and vomiting.
-
 There is no evidence of dose-escalation to maintain therapeutic effects in clinical studies, which suggests that tolerance does not develop.
 Abrupt discontinuation of CHANTIX was associated with an increase in irritability and sleep disturbances in up to 3% of patients.
 This suggests that, in some patients, varenicline may produce mild physical dependence which is not associated with addiction.

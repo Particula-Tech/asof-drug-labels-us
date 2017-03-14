@@ -36,10 +36,10 @@ Counseling and Support
 
 Provide patients with educational materials and necessary counseling to support an attempt at quitting smoking [see Dosage and Administration (2.1)].
 
-Neuropsychiatric Symptoms
+Neuropsychiatric Adverse Events
 
-Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking CHANTIX.
-If patients develop agitation, hostility, depressed mood, or changes in behavior or thinking that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to discontinue CHANTIX and report these symptoms to their healthcare provider immediately [see Boxed Warning, Warnings and Precautions (5.1), Adverse Reactions (6.2)].
+Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking CHANTIX.
+Instruct patients to discontinue CHANTIX and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.1), Adverse Reactions (6.2)].
 
 History of Psychiatric Illness
 

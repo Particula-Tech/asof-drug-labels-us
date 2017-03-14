@@ -2,7 +2,7 @@
 
 The following serious adverse reactions were reported in postmarketing experience and are discussed in greater detail in other sections of the labeling:
 
-- Neuropsychiatric symptoms and suicidality [see Boxed Warning, Warnings and Precautions (5.1)]
+- Neuropsychiatric Adverse Events including Suicidality [see Warnings and Precautions (5.1)]
 - Seizures [see Warnings and Precautions (5.2)]
 - Interaction with alcohol [see Warnings and Precautions (5.3)]
 - Accidental injury [see Warnings and Precautions (5.4)]
@@ -27,13 +27,13 @@ Most study participants were treated for 12 weeks or less.
 
 The most common adverse event associated with CHANTIX treatment is nausea, occurring in 30% of patients treated at the recommended dose, compared with 10% in patients taking a comparable placebo regimen [see Warnings and Precautions (5.9)].
 
-Table 5 shows the adverse events for CHANTIX and placebo in the 12- week fixed dose premarketing studies with titration in the first week [Studies 2 (titrated arm only), 4, and 5].
+Table 3 shows the adverse events for CHANTIX and placebo in the 12- week fixed dose premarketing studies with titration in the first week [Studies 2 (titrated arm only), 4, and 5].
 Adverse events were categorized using the Medical Dictionary for Regulatory Activities (MedDRA, Version 7.1).
 
-MedDRA High Level Group Terms (HLGT) reported in ≥5% of patients in the CHANTIX 1 mg twice daily dose group, and more commonly than in the placebo group, are listed, along with subordinate Preferred Terms (PT) reported in ≥1% of CHANTIX patients (and at least 0.5% more frequent than placebo).
+MedDRA High Level Group Terms (HLGT) reported in ≥ 5% of patients in the CHANTIX 1 mg twice daily dose group, and more commonly than in the placebo group, are listed, along with subordinate Preferred Terms (PT) reported in ≥ 1% of CHANTIX patients (and at least 0.5% more frequent than placebo).
 Closely related Preferred Terms such as 'Insomnia', 'Initial insomnia', 'Middle insomnia', 'Early morning awakening' were grouped, but individual patients reporting two or more grouped events are only counted once.
 
-Table 5: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled Studies (HLGTs ≥ 5% of patients in the 1 mg BID CHANTIX Group and more commonly than Placebo and PT ≥ 1% in the 1 mg BID CHANTIX Group, and 1 mg BID CHANTIX at least 0.5% more than Placebo)
+Table 3: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled Studies (HLGTs ≥ 5% of patients in the 1 mg BID CHANTIX Group and more commonly than Placebo and PT ≥ 1% in the 1 mg BID CHANTIX Group, and 1 mg BID CHANTIX at least 0.5% more than Placebo)
 
 | Preferred Term | N=129 | N=821 | N=805 |
 | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ Table 5: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled
 | Increased appetite | 4 | 3 | 2 |
 | Decreased appetite/Anorexia | 1 | 2 | 1 |
 
-The overall pattern and frequency of adverse events during the longer-term premarketing trials was similar to those described in Table 5, though several of the most common events were reported by a greater proportion of patients with long-term use (e.g., nausea was reported in 40% of patients treated with CHANTIX 1 mg twice daily in a one year study, compared to 8% of placebo-treated patients).
+The overall pattern and frequency of adverse events during the longer-term premarketing trials was similar to those described in Table 3, though several of the most common events were reported by a greater proportion of patients with long-term use (e.g., nausea was reported in 40% of patients treated with CHANTIX 1 mg twice daily in a one year study, compared to 8% of placebo-treated patients).
 
 Following is a list of treatment-emergent adverse events reported by patients treated with CHANTIX during all premarketing clinical trials and updated based on pooled data from 18 placebo-controlled pre- and post-marketing studies, including approximately 5,000 patients treated with varenicline.
 Adverse events were categorized using MedDRA, Version 16.0.
@@ -162,7 +162,7 @@ Vascular Disorders.
 Infrequent: hot flush.
 Rare: thrombosis.
 
-CHANTIX has also been studied in postmarketing trials including (1) a trial conducted in patients with chronic obstructive pulmonary disease (COPD), (2) a trial conducted in generally healthy patients (similar to those in the premarketing studies) in which they were allowed to select a quit date between days 8 and 35 of treatment ("alternative quit date instruction trial"), (3) a trial conducted in patients who did not succeed in stopping smoking during prior CHANTIX therapy, or who relapsed after treatment ("re-treatment trial"), (4) a trial conducted in patients with stable cardiovascular disease, (5) a trial conducted in patients with stable schizophrenia or schizoaffective disorder (6) a trial conducted in patients with major depressive disorder and (7) a trial in patients who were not able or willing to quit abruptly and who were instructed to quit gradually ("gradual approach to quitting smoking trial").
+CHANTIX has also been studied in postmarketing trials including (1) a trial conducted in patients with chronic obstructive pulmonary disease (COPD), (2) a trial conducted in generally healthy patients (similar to those in the premarketing studies) in which they were allowed to select a quit date between days 8 and 35 of treatment ("alternative quit date instruction trial"), (3) a trial conducted in patients who did not succeed in stopping smoking during prior CHANTIX therapy, or who relapsed after treatment ("re-treatment trial"), (4) a trial conducted in patients with stable cardiovascular disease, (5) a trial conducted in patients with stable schizophrenia or schizoaffective disorder, (6) a trial conducted in patients with major depressive disorder, (7) a postmarketing neuropsychiatric safety outcome trial in patients without or with a history of psychiatric disorder, and (8) a trial in patients who were not able or willing to quit abruptly and who were instructed to quit gradually ("gradual approach to quitting smoking trial").
 
 Adverse events in the trial of patients with COPD, in the alternative quit date instruction trial, and in the gradual approach to quitting smoking trial were similar to those observed in premarketing studies.
 In the re-treatment trial, the profile of common adverse events was similar to that previously reported, but, in addition, varenicline-treated patients also commonly reported diarrhea (6% vs. 4% in placebo-treated patients), depressed mood disorders and disturbances (6% vs. 1%), and other mood disorders and disturbances (5% vs. 2%).
@@ -186,27 +186,31 @@ Over half of the patients had a lifetime history of suicidal behavior and/or ide
 Suicidal behavior and/or ideation were reported in 11% of the varenicline-treated and 9% of the placebo-treated patients during the treatment phase.
 During the post-treatment phase, suicidal behavior and/or ideation were reported in 11% of patients in the varenicline group and 5% of patients in the placebo group.
 Many of the patients reporting suicidal behavior and ideation in the follow-up phase had not reported such experiences in the treatment phase.
-However, no new suicidal ideation or behavior emerged in either treatment group shortly (within one week) after treatment discontinuation (a phenomenon noted in post-marketing reporting).
+However, no new suicidal ideation or behavior emerged in either treatment group shortly (within one week) after treatment discontinuation (a phenomenon noted in postmarketing reporting).
 There were no completed suicides.
 There was one suicide attempt in a varenicline-treated patient.
 The limited data available from this single smoking cessation study are not sufficient to allow conclusions to be drawn.
 
-In the trial of patients with major depressive disorder, the most common adverse events (≥ 10%) in subjects taking varenicline were nausea (27% vs. 10% on placebo), headache (17 vs 11%), abnormal dreams (11% vs 8%), insomnia (11% vs 5%) and irritability (11% vs. 8%).
+In the trial of patients with major depressive disorder, the most common adverse events (≥ 10%) in subjects taking varenicline were nausea (27% vs. 10% on placebo), headache (17 vs. 11%), abnormal dreams (11% vs. 8%), insomnia (11% vs. 5%) and irritability (11% vs. 8%).
 Additionally, the following psychiatric AEs were reported in ≥ 2% of patients in either treatment group (varenicline or placebo, respectively): anxiety (7% vs. 9%), agitation (7% vs. 4%), depressed mood disorders and disturbances (11% vs. 9%), tension (4% vs. 3%), hostility (2% vs. 0.4%) and restlessness (2% vs. 2%).
-Patients treated with varenicline were more likely than patients treated with placebo to report one of various events related to hostility and aggression (3% vs 1%).
+Patients treated with varenicline were more likely than patients treated with placebo to report one of various events related to hostility and aggression (3% vs. 1%).
 Psychiatric scales showed no differences between the varenicline and placebo groups and no overall worsening of depression during the study in either treatment group.
 The percentage of subjects with suicidal ideation and/or behavior was similar between the varenicline and placebo groups during treatment (6% and 8%, respectively) and the non-treatment follow-up (6% and 6%, respectively).
 There was one event of intentional self-injury/possible suicide attempt during treatment (Day 73) in a subject in the placebo group.
 Suicide could not be ruled out in one subject who died by an overdose of illicit drugs 76 days after last dose of study drug in the varenicline group.
+
+In the trial of patients without or with a history of psychiatric disorder, the most common adverse events in subjects treated with varenicline were similar to those observed in premarketing studies.
+Adverse events reported in ≥ 10% of subjects treated with varenicline in the entire study population were nausea (25% vs. 7% on placebo) and headache (12% vs. 10% on placebo).
+Additionally, the following psychiatric adverse events were reported in ≥ 2% of patients in either treatment group (varenicline vs. placebo) by cohort.
+For the non-psychiatric cohort, these adverse events were abnormal dreams (8% vs. 4%), agitation (3% vs. 3%), anxiety (5% vs. 6%), depressed mood (3% vs. 3%), insomnia (10% vs. 7%), irritability (3% vs. 4%), sleep disorder (3% vs. 2%).
+For the psychiatric cohort, these adverse events were abnormal dreams (12% vs. 5%), agitation (5% vs. 4%), anxiety (8% vs. 6%), depressed mood (5% vs. 5%), depression (5% vs. 5%), insomnia (9% vs. 7%), irritability (5% vs. 7%), nervousness (2% vs. 3%), sleep disorder (3% vs. 2%).
 
 ## 6.2 Postmarketing Experience
 
 The following adverse events have been reported during post-approval use of CHANTIX.
 Because these events are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-There have been reports of depression, mania, psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide in patients attempting to quit smoking while taking CHANTIX [see Boxed Warning, Warnings and Precautions (5.1)].
-Smoking cessation with or without treatment is associated with nicotine withdrawal symptoms and the exacerbation of underlying psychiatric illness.
-Not all patients had known pre-existing psychiatric illness and not all had discontinued smoking.
+There have been reports of depression, mania, psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide in patients attempting to quit smoking while taking CHANTIX [see Warnings and Precautions (5.1)].
 
 There have been postmarketing reports of new or worsening seizures in patients treated with CHANTIX [see Warnings and Precautions (5.2)].
 
