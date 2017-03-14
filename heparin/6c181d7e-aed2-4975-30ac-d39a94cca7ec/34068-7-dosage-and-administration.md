@@ -4,17 +4,17 @@ Parenteral drug products should be inspected visually for particulate matter and
 Slight discoloration does not alter potency.
 
 Confirm the choice of the correct Heparin Sodium Injection vial prior to administration of the drug to a patient (see WARNINGS, Fatal Medication Errors).
-Heparin Sodium Injection, USP products must not be confused with “catheter lock flush” products.
+Heparin Sodium Injection, USP products must not be confused with "catheter lock flush" products.
 To lessen this risk, the 1 mL vial includes a red cautionary label that extends above the main label.
 Read the cautionary statement and confirm that you have selected the correct medication and strength.
-Then locate the “Tear Here” point on the label, and remove this red cautionary label prior to removing the flip-top cap.
+Then locate the "Tear Here" point on the label, and remove this red cautionary label prior to removing the flip-top cap.
 
 When heparin is added to an infusion solution for continuous intravenous administration, the container should be inverted at least six times to ensure adequate mixing and prevent pooling of the heparin in the solution.
 
 Heparin sodium is not effective by oral administration and should be given by intermittent intravenous injection, intravenous infusion, or deep subcutaneous (intrafat, i.e., above the iliac crest or abdominal fat layer) injection.
 The intramuscular route of administration should be avoided because of the frequent occurrence of hematoma at the injection site.
 
-The dosage of heparin sodium should be adjusted according to the patient’s coagulation-test results.
+The dosage of heparin sodium should be adjusted according to the patient's coagulation-test results.
 When heparin is given by continuous intravenous infusion, the coagulation time should be determined approximately every 4 hours in the early stages of treatment.
 When the drug is administered intermittently by intravenous injection, coagulation tests should be performed before each injection during the early stages of treatment and at appropriate intervals thereafter.
 Dosage is considered adequate when the activated partial thromboplastin time (APTT) is 1.5 to 2 times normal or when the whole blood clotting time is elevated approximately 2.5 to 3 times the control value.
@@ -72,7 +72,7 @@ All patients should be screened prior to heparinization to rule out bleeding dis
 Coagulation test values should be normal or only slightly elevated.
 There is usually no need for daily monitoring of the effect of low-dose heparin in patients with normal coagulation parameters.
 
-Extracorporeal Dialysis Follow equipment manufacturers’ operating directions carefully.
+Extracorporeal Dialysis Follow equipment manufacturers' operating directions carefully.
 
 Blood Transfusion Addition of 400 to 600 USP units per 100 mL of whole blood is usually employed to prevent coagulation.
 Usually, 7,500 USP units of heparin sodium are added to 100 mL of 0.9% Sodium Chloride Injection, USP (or 75,000 USP units per 1,000 mL of 0.9% Sodium Chloride Injection, USP) and mixed; from this sterile solution, 6 mL to 8 mL are added per 100 mL of whole blood.

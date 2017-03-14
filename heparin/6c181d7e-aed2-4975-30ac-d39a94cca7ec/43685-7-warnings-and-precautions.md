@@ -2,9 +2,9 @@
 
 Heparin is not intended for intramuscular use.
 
-Fatal Medication Errors Do not use Heparin Sodium Injection as a “catheter lock flush” product.
+Fatal Medication Errors Do not use Heparin Sodium Injection as a "catheter lock flush" product.
 Heparin Sodium Injection is supplied in vials containing various strengths of heparin including a highly concentrated solution of 10,000 units in 1 mL.
-Fatal hemorrhages have occurred in pediatric patients due to medication errors in which 1 mL Heparin Sodium Injection vials were confused with 1 mL “catheter lock flush” vials.
+Fatal hemorrhages have occurred in pediatric patients due to medication errors in which 1 mL Heparin Sodium Injection vials were confused with 1 mL "catheter lock flush" vials.
 Carefully examine all Heparin Sodium Injection vials to confirm the correct product choice prior to administration of the drug.
 
 Benzyl Alcohol Toxicity Use preservative-free Heparin Sodium Injection in neonates and infants.
@@ -51,7 +51,7 @@ Future use of heparin sodium, especially within 3 to 6 months following the diag
 Immune-mediated HIT is diagnosed based on clinical findings supplemented by laboratory tests confirming the presence of antibodies to heparin sodium, or platelet activation induced by heparin sodium.
 A drop in platelet count greater than 50% from baseline is considered indicative of HIT.
 Platelet counts begin to fall 5 to 10 days after exposure to heparin sodium in heparin sodium-naïve individuals, and reach a threshold by days 7 to 14.
-In contrast, “rapid onset” HIT can occur very quickly (within 24 hours following heparin sodium initiation), especially in patients with a recent exposure to heparin sodium (i.e. previous 3 months).
+In contrast, "rapid onset" HIT can occur very quickly (within 24 hours following heparin sodium initiation), especially in patients with a recent exposure to heparin sodium (i.e. previous 3 months).
 Thrombosis development shortly after documenting thrombocytopenia is a characteristic finding in almost half of all patients with HIT.
 
 Thrombocytopenia of any degree should be monitored closely.
@@ -61,11 +61,11 @@ Delayed Onset of HIT (With or Without Thrombosis) Heparin-induced Thrombocytopen
 Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin sodium should be evaluated for HIT (with or without thrombosis).
 
 Use in Neonates This product contains the preservative benzyl alcohol and is not recommended for use in neonates.
-There have been reports of fatal ‘gasping syndrome’ in neonates (children less than one month of age) following the administration of intravenous solutions containing the preservative benzyl alcohol.
+There have been reports of fatal 'gasping syndrome' in neonates (children less than one month of age) following the administration of intravenous solutions containing the preservative benzyl alcohol.
 Symptoms include a striking onset of gasping respiration, hypotension, bradycardia, and cardiovascular collapse.
 
 Carefully examine all Heparin Sodium Injection vials to confirm choice of the correct strength prior to administration of the drug.
-Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection vials have been confused with “catheter lock flush” vials.
+Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection vials have been confused with "catheter lock flush" vials.
 (See WARNINGS, Fatal Medication Errors.)
 
 # PRECAUTIONS
@@ -124,14 +124,14 @@ Pediatric Use There are no adequate and well controlled studies on heparin use i
 Pediatric dosing recommendations are based on clinical experience (see DOSAGE AND ADMINISTRATION, Pediatric Use).
 
 Carefully examine all Heparin Sodium Injection vials to confirm choice of the correct strength prior to administration of the drug.
-Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection, USP vials have been confused with “catheter lock flush” vials (see WARNINGS, Fatal Medication Errors).
+Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection, USP vials have been confused with "catheter lock flush" vials (see WARNINGS, Fatal Medication Errors).
 
 Benzyl Alcohol Toxicity Use preservative-free Heparin Sodium Injection in neonates and infants.
 The preservative benzyl alcohol has been associated with serious adverse events and death in pediatric patients.
-The “gasping syndrome” (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth weight infants.
+The "gasping syndrome" (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth weight infants.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 
-Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome”, the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
 Premature and low-birth weight infants may be more likely to develop toxicity.
 Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
 
