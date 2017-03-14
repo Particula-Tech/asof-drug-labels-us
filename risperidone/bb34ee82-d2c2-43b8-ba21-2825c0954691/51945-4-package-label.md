@@ -4,13 +4,15 @@
 
 Store Package in Refrigerator (see bottom panel for storage conditions)
 
+Rx only Single use only
+
 NDC 50458-309-11
 
 RisperdalCONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
-- One 12.5-mg vial of risperidone extended-release microspheres for injection
+- One 12.5 mg vial of risperidone extended-release microspheres for injection
 - One pre-filled syringe containing 2 mL of diluent
 - One West-Medimop Vial Adapter®
 - One 21-gauge UTW 1" Terumo SurGuard® 3 safety needle for deltoid injection
@@ -18,9 +20,9 @@ DOSE PACK CONTENTS:
 
 Do not substitute any components of the dose pack.
 
-Rx only Single use only
+For deltoid or gluteal intramuscular injection only Each injection should be administered by a healthcare professional.
 
-For deltoid or gluteal intramuscular injection only PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
+PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
 
 # PRINCIPAL DISPLAY PANEL - 25 mg Kit Carton
 
@@ -28,13 +30,15 @@ For deltoid or gluteal intramuscular injection only PLEASE READ COMPLETE INSTRUC
 
 Store Package in Refrigerator (see bottom panel for storage conditions)
 
+Rx only Single use only
+
 NDC 50458-306-11
 
 RisperdalCONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
-- One 25-mg vial of risperidone extended-release microspheres for injection
+- One 25 mg vial of risperidone extended-release microspheres for injection
 - One pre-filled syringe containing 2 mL of diluent
 - One West-Medimop Vial Adapter®
 - One 21-gauge UTW 1" Terumo SurGuard® 3 safety needle for deltoid injection
@@ -42,9 +46,9 @@ DOSE PACK CONTENTS:
 
 Do not substitute any components of the dose pack.
 
-Rx only Single use only
+For deltoid or gluteal intramuscular injection only Each injection should be administered by a healthcare professional.
 
-For deltoid or gluteal intramuscular injection only PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
+PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
 
 # PRINCIPAL DISPLAY PANEL - 37.5 mg Kit Carton
 
@@ -52,13 +56,15 @@ For deltoid or gluteal intramuscular injection only PLEASE READ COMPLETE INSTRUC
 
 Store Package in Refrigerator (see bottom panel for storage conditions)
 
+Rx only Single use only
+
 NDC 50458-307-11
 
 RisperdalCONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
-- One 37.5-mg vial of risperidone extended-release microspheres for injection
+- One 37.5 mg vial of risperidone extended-release microspheres for injection
 - One pre-filled syringe containing 2 mL of diluent
 - One West-Medimop Vial Adapter®
 - One 21-gauge UTW 1" Terumo SurGuard® 3 safety needle for deltoid injection
@@ -66,9 +72,9 @@ DOSE PACK CONTENTS:
 
 Do not substitute any components of the dose pack.
 
-Rx only Single use only
+For deltoid or gluteal intramuscular injection only Each injection should be administered by a healthcare professional.
 
-For deltoid or gluteal intramuscular injection only PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
+PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Kit Carton
 
@@ -76,13 +82,15 @@ For deltoid or gluteal intramuscular injection only PLEASE READ COMPLETE INSTRUC
 
 Store Package in Refrigerator (see bottom panel for storage conditions)
 
+Rx only Single use only
+
 NDC 50458-308-11
 
 RisperdalCONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
-- One 50-mg vial of risperidone extended-release microspheres for injection
+- One 50 mg vial of risperidone extended-release microspheres for injection
 - One pre-filled syringe containing 2 mL of diluent
 - One West-Medimop Vial Adapter®
 - One 21-gauge UTW 1" Terumo SurGuard® 3 safety needle for deltoid injection
@@ -90,6 +98,6 @@ DOSE PACK CONTENTS:
 
 Do not substitute any components of the dose pack.
 
-Rx only Single use only
+For deltoid or gluteal intramuscular injection only Each injection should be administered by a healthcare professional.
 
-For deltoid or gluteal intramuscular injection only PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
+PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
