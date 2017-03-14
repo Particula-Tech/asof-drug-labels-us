@@ -2,7 +2,7 @@
 
 ## 14.1 Treatment-Resistant Schizophrenia
 
-The efficacy of clozapine tablets in treatment-resistant schizophrenia was established in a multicenter, randomized, double-blind, active-controlled (chlorpromazine) study in patients with a DSM-III diagnosis of schizophrenia who had inadequate responses to at least three different antipsychotics (from at least two different chemical classes) during the preceding 5 years.
+The efficacy of clozapine tablets in treatment-resistant schizophrenia was established in a multicenter, randomized, double-blind, active-controlled (chlorpromazine) study in patients with a DSM-III diagnosis of schizophrenia who had inadequate responses to at least 3 different antipsychotics (from at least 2 different chemical classes) during the preceding 5 years.
 The antipsychotic trials must have been judged adequate; the antipsychotic dosages must have been equivalent to or greater than 1000 mg per day of chlorpromazine for a period of at least 6 weeks, each without significant reduction of symptoms.
 There must have been no period of good functioning within the preceding 5 years.
 Patients must have had a baseline score of at least 45 on the investigator-rated Brief Psychiatric Rating Scale (BPRS).
@@ -29,7 +29,7 @@ These changes in the clozapine tablets group were statistically significantly gr
 The effectiveness of clozapine tablets in reducing the risk of recurrent suicidal behavior was assessed in the International Suicide Prevention Trial (InterSePT™, a trademark of Novartis Pharmaceuticals Corporation).
 This was a prospective, randomized, open-label, active-controlled, multicenter, international, parallel-group comparison of clozapine tablets versus olanzapine (Zyprexa®, a registered trademark of Eli Lilly and Company) in 956 patients with schizophrenia or schizoaffective disorder (DSM-IV) who were judged to be at risk for recurrent suicidal behavior.
 Only about one-fourth of these patients (27%) were considered resistant to standard antipsychotic drug treatment.
-To enter the trial, patients must have met one of the following criteria:
+To enter the trial, patients must have met 1 of the following criteria:
 
 - •They had attempted suicide within the 3 years prior to their baseline evaluation.
 - •They had been hospitalized to prevent a suicide attempt within the 3 years prior to their baseline evaluation.
