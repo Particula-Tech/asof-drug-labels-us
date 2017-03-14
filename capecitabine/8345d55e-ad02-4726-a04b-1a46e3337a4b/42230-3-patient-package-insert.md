@@ -1,6 +1,6 @@
 Patient Information
 
-Capecitabine Tablets USP
+Capecitabine Tablets
 
 (KAP-e-SYE-ta-been)
 
@@ -14,7 +14,7 @@ Capecitabine can cause serious side effects, including:
   Taking capecitabine tablets with these medicines can cause changes in how fast your blood clots, and can cause bleeding that can lead to death.
   This can happen as soon as a few days after you start taking capecitabine tablets, or later during treatment, and possibly even within 1 month after you stop taking capecitabine tablets.
   Your risk may be higher because you have cancer, and if you are over 60 years of age.
-  - Before taking capecitabine tablets, tell your doctor if you are taking warfarin (Coumadin) or another blood thinner medicine
+  - Before taking capecitabine tablets, tell your doctor if you are taking warfarin (Coumadin) or another blood thinner-medicine.
   - If you take warfarin (Coumadin) or another blood thinner that is like warfarin (Coumadin) during treatment with capecitabine tablets, your doctor should do blood tests often, to check how fast your blood clots during and after you stop treatment with capecitabine tablets.
     Your doctor may change your dose of the blood thinner medicine if needed.
 
@@ -57,8 +57,7 @@ Before you take capecitabine tablets, tell your doctor if you:
   Talk to your doctor about birth control choices that may be right for you during treatment with capecitabine tablets.
 - are breastfeeding or plan to breastfeed.
   It is not known if capecitabine passes into your breast milk.
-  You and your doctor should decide if you will take capecitabine tablets or breastfeed.
-  You should not do both.
+  Do not breastfeed during treatment with capecitabine.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Capecitabine tablets may affect the way other medicines work, and other medicines may affect the way capecitabine tablets works.
@@ -121,6 +120,7 @@ See " What is the most important information I should know about capecitabine ta
   - Capecitabine tablets can also cause “hand and foot syndrome.”
     Hand and foot syndrome is common with capecitabine tablets and can cause you to have numbness and changes in sensation in your hands and feet, or cause redness, pain, swelling of your hands and feet.
     Stop taking capecitabine tablets and call your doctor right away if you have any of these symptoms and you are not able to do your usual activities.
+    Hand and foot syndrome can lead to loss of fingerprints which could impact your identification.
   - you may get sores in your mouth or on your tongue when taking capecitabine tablets.
     Stop taking capecitabine tablets and call your doctor if you get painful redness, swelling, or ulcers in your mouth and tongue, or if you are having problems eating.
     Tell your doctor if you have any side effect that bothers you or that does not go away.
@@ -166,6 +166,8 @@ Do not give capecitabine tablets to other people, even if they have the same sym
 It may harm them.
 
 You can ask your pharmacist or doctor for information about capecitabine tablets that is written for health professionals.
+
+For more information, go to www.accordhealthcare.us or call Accord Healthcare at 1-866-941-7875.
 
 What are the ingredients in capecitabine tablets?
 

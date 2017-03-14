@@ -4,4 +4,4 @@ Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad – 380 009, India.
 
 10 0209 0 665617
 
-Issued February 2016
+Issued January 2017

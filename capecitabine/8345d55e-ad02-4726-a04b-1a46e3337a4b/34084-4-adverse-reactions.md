@@ -5,7 +5,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ## 6.1 Adjuvant Colon Cancer
 
 Table 4 shows the adverse reactions occurring in ≥5% of patients from one phase 3 trial in patients with Dukes' C colon cancer who received at least one dose of study medication and had at least one safety assessment.
-A total of 995 patients were treated with 1250 mg/m 2 twice a day of capecitabine administered for 2 weeks followed by a 1-week rest period, and 974 patients were administered 5-FU and leucovorin (20 mg/m 2 leucovorin IV followed by 425 mg/m 2 IV bolus 5-FU on days 1-5 every 28 days).
+A total of 995 patients were treated with 1250 mg/m 2 twice a day of capecitabine administered for 2 weeks followed by a 1-week rest period, and 974 patients were administered 5-FU and leucovorin (20 mg/m 2 leucovorin IV followed by 425 mg/m 2 IV bolus 5-FU on days 1 to 5 every 28 days).
 The median duration of treatment was 164 days for capecitabine-treated patients and 145 days for 5-FU/LV-treated patients.
 A total of 112 (11%) and 73 (7%) capecitabine and 5-FU/LV-treated patients, respectively, discontinued treatment because of adverse reactions.
 A total of 18 deaths due to all causes occurred either on study or within 28 days of receiving study drug: 8 (0.8%) patients randomized to capecitabine and 10 (1.0%) randomized to 5-FU/LV.
@@ -322,7 +322,7 @@ Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastati
 | Ear: | vertigo |
 | Hepatobiliary: | hepatic fibrosis (0.1%), hepatitis (0.1%), cholestatic hepatitis (0.1%), abnormal liver function tests |
 | Immune System: | drug hypersensitivity (0.1%) |
-| Postmarketing: | hepatic failure, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, toxic leukoencephalopathy, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7)] |
+| Postmarketing: | hepatic failure, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, toxic leukoencephalopathy, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7), persistent or severe hand-and-foot syndrome can eventually lead to loss of fingerprints [see Warnings and Precautions (5.7)] |
 
 Capecitabine In Combination With Docetaxel (Metastatic Breast Cancer)
 

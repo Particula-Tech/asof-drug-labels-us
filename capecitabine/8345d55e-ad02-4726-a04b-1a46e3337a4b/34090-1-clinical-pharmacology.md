@@ -60,7 +60,7 @@ Effect of Age, Gender, and Race on the Pharmacokinetics of Capecitabine
 
 A population analysis of pooled data from the two large controlled studies in patients with metastatic colorectal cancer (n=505) who were administered capecitabine at 1250 mg/m 2 twice a day indicated that gender (202 females and 303 males) and race (455 white/Caucasian patients, 22 black patients, and 28 patients of other race) have no influence on the pharmacokinetics of 5'-DFUR, 5-FU and FBAL.
 Age has no significant influence on the pharmacokinetics of 5'-DFUR and 5-FU over the range of 27 to 86 years.
-A 20% increase in age results in a 15% increase in AUC of FBAL [see Warnings and Precautions (5.11) and Dosage and Administration (2.3)].
+A 20% increase in age results in a 15% increase in AUC of FBAL [see Warnings and Precautions (5.11) and Dosage and Administration (2.4)].
 
 Following oral administration of 825 mg/m 2 capecitabine twice daily for 14 days, Japanese patients (n=18) had about 36% lower C max and 24% lower AUC for capecitabine than the Caucasian patients (n=22).
 Japanese patients had also about 25% lower C max and 34% lower AUC for FBAL than the Caucasian patients.
@@ -79,7 +79,7 @@ Effect of Renal Insufficiency
 
 Following oral administration of 1250 mg/m 2 capecitabine twice a day to cancer patients with varying degrees of renal impairment, patients with moderate (creatinine clearance = 30 to 50 mL/min) and severe (creatinine clearance <30 mL/min) renal impairment showed 85% and 258% higher systemic exposure to FBAL on day 1 compared to normal renal function patients (creatinine clearance >80 mL/min).
 Systemic exposure to 5'-DFUR was 42% and 71% greater in moderately and severely renal impaired patients, respectively, than in normal patients.
-Systemic exposure to capecitabine was about 25% greater in both moderately and severely renal impaired patients [see Dosage and Administration (2.3), Contraindications (4.2), Warnings and Precautions (5.5), and Use in Special Populations (8.7)].
+Systemic exposure to capecitabine was about 25% greater in both moderately and severely renal impaired patients [see Dosage and Administration (2.4), Contraindications (4.2), Warnings and Precautions (5.5), and Use in Special Populations (8.7)].
 
 Effect of Capecitabine on the Pharmacokinetics of Warfarin
 

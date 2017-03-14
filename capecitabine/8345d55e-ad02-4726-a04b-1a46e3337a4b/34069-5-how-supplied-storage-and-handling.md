@@ -18,10 +18,6 @@ Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature].
 KEEP TIGHTLY CLOSED.
 
-Care should be exercised in the handling of capecitabine tablets.
-Capecitabine tablets should not be cut or crushed.
-
-Procedures for the proper handling and disposal of anticancer drugs should be considered.
-Any unused product should be disposed of in accordance with local requirements, or drug take back programs.
-Several guidelines on the subject have been published.
-1-4
+Capecitabine tablets, USP are cytotoxic drug.
+Follow applicable special handling and disposal procedures.
+1 Any unused product should be disposed of in accordance with local requirements, or drug take back programs.

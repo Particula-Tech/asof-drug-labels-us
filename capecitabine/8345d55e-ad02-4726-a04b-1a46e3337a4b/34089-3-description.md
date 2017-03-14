@@ -8,7 +8,7 @@ Capecitabine has the following structural formula:
 
 Capecitabine is a white to off-white crystalline powder with an aqueous solubility of 26 mg/mL at 20°C.
 
-Capecitabine tablets are supplied as biconvex, oblong film-coated tablets for oral administration.
+Capecitabine tablets, USP are supplied as biconvex, oblong film-coated tablets for oral administration.
 Each light peach-colored tablet contains 150 mg capecitabine and each peach-colored tablet contains 500 mg capecitabine.
 The inactive ingredients in capecitabine tablets include: anhydrous lactose, croscarmellose sodium, hypromellose, microcrystalline cellulose and magnesium stearate.
-The peach or light peach film coating contains hypromellose, purified talc, titanium dioxide, and ferric oxide red and ferric oxide yellow.
+The peach or light peach film coating contains hypromellose, purified talc, titanium dioxide and ferric oxide red and ferric oxide yellow.

@@ -8,8 +8,6 @@ Capecitabine was clastogenic in vitro to human peripheral blood lymphocytes but 
 Fluorouracil causes mutations in bacteria and yeast.
 Fluorouracil also causes chromosomal abnormalities in the mouse micronucleus test in vivo.
 
-Impairment of Fertility
-
 In studies of fertility and general reproductive performance in female mice, oral capecitabine doses of 760 mg/kg/day (about 2300 mg/m 2/day) disturbed estrus and consequently caused a decrease in fertility.
 In mice that became pregnant, no fetuses survived this dose.
 The disturbance in estrus was reversible.
