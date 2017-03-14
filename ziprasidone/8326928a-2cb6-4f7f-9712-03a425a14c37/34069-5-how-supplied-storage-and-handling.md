@@ -4,10 +4,9 @@ GEODON Capsules are differentiated by capsule color/size and are imprinted in bl
 GEODON Capsules are supplied for oral administration in 20 mg (blue/white), 40 mg (blue/blue), 60 mg (white/white), and 80 mg (blue/white) capsules.
 They are supplied in the following strengths and package configurations:
 
-GEODON Capsules
-
 | Package Configuration | Capsule Strength (mg) | NDC Code | Imprint |
 | --- | --- | --- | --- |
+| GEODON Capsules |  |  |  |
 | Bottles of 60 | 20 | 0049-0052-60 | ZDX 20 |
 | Bottles of 60 | 40 | 0049-0054-60 | ZDX 40 |
 | Bottles of 60 | 60 | 0049-0056-60 | ZDX 60 |
@@ -19,10 +18,9 @@ GEODON Capsules
 
 or
 
-GEODON Capsules
-
 | Package Configuration | Capsule Strength (mg) | NDC Code | Imprint |
 | --- | --- | --- | --- |
+| GEODON Capsules |  |  |  |
 | Bottles of 60 | 20 | NDC-0049-3960-60 | 396 |
 | Bottles of 60 | 40 | NDC-0049-3970-60 | 397 |
 | Bottles of 60 | 60 | NDC-0049-3980-60 | 398 |
@@ -37,10 +35,9 @@ GEODON Capsules should be stored at 25°C (77°F); excursions permitted to 15°C
 GEODON for Injection is available in a single-dose vial as ziprasidone mesylate (20 mg ziprasidone/mL when reconstituted according to label instructions) [see Dosage and Administration (2.3)].
 Each mL of ziprasidone mesylate for injection (when reconstituted) affords a colorless to pale pink solution that contains 20 mg of ziprasidone and 4.7 mg of methanesulfonic acid solubilized by 294 mg of sulfobutylether β-cyclodextrin sodium (SBECD).
 
-GEODON for Injection
-
 | Package | Concentration | NDC Code |
 | --- | --- | --- |
+| GEODON for Injection |  |  |
 | Single-use Vials (carton of 10 vials) | 20 mg/mL | NDC-0049-3920-83 |
 
 GEODON for Injection should be stored at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] in dry form.

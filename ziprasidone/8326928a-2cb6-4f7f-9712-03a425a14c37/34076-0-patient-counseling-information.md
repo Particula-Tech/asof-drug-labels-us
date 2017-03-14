@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.4).
+See FDA Approved Patient Labeling 17.4
 
 Please refer to the patient package insert.
 To assure safe and effective use of GEODON, the information and instructions provided in the patient information should be discussed with patients.
@@ -21,4 +21,4 @@ In addition, patients should be instructed to report symptoms such as dizziness,
 
 Patients should be instructed to report to their health care provider at the earliest onset any signs or symptoms that may be associated with Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) or with severe cutaneous adverse reactions, such as Stevens-Johnson syndrome [see Warnings and Precautions (5.4)].
 
-## 17.4 FDA-Approved Patient Labeling
+## 17.4 FDA Approved Patient Labeling
