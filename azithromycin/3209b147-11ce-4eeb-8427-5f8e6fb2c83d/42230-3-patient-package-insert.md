@@ -68,6 +68,8 @@ Before you take azithromycin for oral suspension, tell your healthcare provider 
   Azithromycin has been reported to pass into breast milk.
   Talk to your healthcare provider about the best way to feed your baby while you take azithromycin for oral suspension.
 
+Contact your healthcare provider immediately if you are giving azithromycin for oral suspension to a young child (less than 6 weeks of age) and he or she vomits or becomes irritable when fed.
+
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 Azithromycin for oral suspension and other medicines may affect each other causing side effects.
@@ -101,7 +103,7 @@ What are the possible side effects of azithromycin for oral suspension?
 Azithromycin for oral suspension can cause serious side effects, including:
 
 - •Serious allergic reactions.
-  Allergic reactions can happen in people taking azithromcyin the active ingredient in azithromycin for oral suspension, even after only 1 dose.
+  Allergic reactions can happen in people taking azithromycin the active ingredient in azithromycin for oral suspension, even after only 1 dose.
   Stop taking azithromycin for oral suspension and get emergency medical help right away if you have any of the following symptoms of a severe allergic reaction:
   - otrouble breathing or swallowing
   - oswelling of the lips, tongue, face
@@ -119,29 +121,28 @@ Azithromycin for oral suspension can cause serious side effects, including:
 | onausea or vomitingostomach painofeveroweaknessoabdominal pain or tendernessoitchingounusual tiredness | oloss of appetiteochange in the color of your bowel movementsodark colored urineoyellowing of your skin or of the whites of your eyes |
 | --- | --- |
 
-Stop taking azithromycin for oral suspension and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
-These can be signs of a serious reaction to azithromycin for oral suspension (a liver problem).
-
-- •Serious heart rhythm changes (QT prolongation and torsades de pointes).
-  Tell your healthcare provider right away if you have a change in your heartbeat (a fast or irregular heartbeat), or if you feel faint and dizzy.
-  Azithromycin for oral suspension may cause a rare heart problem known as prolongation of the QT interval.
-  This condition can cause an abnormal heartbeat and can be very dangerous.
-  The chances of this happening are higher in people:
-  - owho are elderly
-  - owith a family history of prolonged QT interval
-  - owith low blood potassium
-  - owho take certain medicines to control heart rhythm (antiarrhythmics)
-- •Worsening of myasthenia gravis (a problem that causes muscle weakness).
-  Certain antibiotics like azithromycin for oral suspension may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
-  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
-- •Diarrhea.
-  Tell your healthcare provider right away if you have watery diarrhea, diarrhea that does not go away, or bloody stools.
-  You may experience cramping and a fever.
-  This could happen after you have finished your azithromycin for oral suspension.
-- The most common side effects of azithromycin for oral suspension include:
-  1. •nausea
-  2. •stomach pain
-  3. •vomiting
+1. Stop taking azithromycin for oral suspension and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
+   These can be signs of a serious reaction to azithromycin for oral suspension (a liver problem).
+2. •Serious heart rhythm changes (QT prolongation and torsades de pointes).
+   Tell your healthcare provider right away if you have a change in your heartbeat (a fast or irregular heartbeat), or if you feel faint and dizzy.
+   Azithromycin for oral suspension may cause a rare heart problem known as prolongation of the QT interval.
+   This condition can cause an abnormal heartbeat and can be very dangerous.
+   The chances of this happening are higher in people:
+   - owho are elderly
+   - owith a family history of prolonged QT interval
+   - owith low blood potassium
+   - owho take certain medicines to control heart rhythm (antiarrhythmics)
+3. •Worsening of myasthenia gravis (a problem that causes muscle weakness).
+   Certain antibiotics like azithromycin for oral suspension may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+   Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
+4. •Diarrhea.
+   Tell your healthcare provider right away if you have watery diarrhea, diarrhea that does not go away, or bloody stools.
+   You may experience cramping and a fever.
+   This could happen after you have finished your azithromycin for oral suspension.
+5. The most common side effects of azithromycin for oral suspension include:
+   1. •nausea
+   2. •stomach pain
+   3. •vomiting
 
 These are not all the possible side effects of azithromycin for oral suspension.
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
@@ -193,4 +194,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-C 6/2016
+D 2/2017

@@ -78,6 +78,7 @@ Adverse reactions that occurred with a frequency of 1% or less included the foll
 Cardiovascular: Chest pain.
 
 Gastrointestinal: Dyspepsia, constipation, anorexia, enteritis, flatulence, gastritis, jaundice, loose stools, and oral moniliasis.
+
 Hematologic and Lymphatic: Anemia and leukopenia.
 
 Nervous System: Headache (otitis media dosage), hyperkinesia, dizziness, agitation, nervousness, and insomnia.
@@ -115,9 +116,10 @@ Hematopoietic: Thrombocytopenia.
 Liver/Biliary: Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure [see Warnings and Precautions (5.2)].
 
 Nervous System: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation, and syncope.
+
 Psychiatric: Aggressive reaction and anxiety.
 
-Skin/Appendages: Pruritus serious skin reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
+Skin/Appendages: Pruritus, serious skin reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
 
 Special Senses: Hearing disturbances including hearing loss, deafness and/or tinnitus, and reports of taste/smell perversion and/or loss.
 

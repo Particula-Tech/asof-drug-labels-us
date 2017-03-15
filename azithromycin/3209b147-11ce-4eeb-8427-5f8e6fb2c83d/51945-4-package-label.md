@@ -1,6 +1,6 @@
 # Package/Label Display Panel
 
-## Azithromycin for Oral Suspension USP 100 mg per 5 Ml, 300 mg Carton Text
+## Azithromycin for Oral Suspension USP 100 mg per 5 mL, 300 mg Carton Text
 
 NDC 0093-2027-23
 
