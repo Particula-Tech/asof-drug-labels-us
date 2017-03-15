@@ -5,11 +5,14 @@
     "ANDA072696"
   ],
   "inn": "ethinyl-estradiol",
-  "labeler": "Barr Laboratories Inc.",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
   "package_ndcs": [
     "0555-9008-67",
+    "0555-9008-79",
     "0555-9009-42",
-    "0555-9010-58"
+    "0555-9009-80",
+    "0555-9010-58",
+    "0555-9010-79"
   ],
   "products": [
     {

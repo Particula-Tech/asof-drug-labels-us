@@ -583,7 +583,7 @@ Some medicines and herbal products may make hormonal birth control less effectiv
 - •St.
   John’s wort
 
-Use another birth control method (such as a condom and spermicide or diaphragm and spermicide) when you take medicines that may make Nortrel 0.35/35 or 1/35 less effective.
+Use another birth control method (such as a condom and spermicide or diaphragm and spermicide) when you take medicines that may make Nortrel 0.5/35 or 1/35 less effective.
 
 Some medicines and grapefruit juice may increase your level of the hormone ethinyl estradiol if used together, including:
 
@@ -847,4 +847,4 @@ All brand names listed are the registered trademarks of their respective owners 
 TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
 
 Rev.
-D 11/2015
+E 2/2016
