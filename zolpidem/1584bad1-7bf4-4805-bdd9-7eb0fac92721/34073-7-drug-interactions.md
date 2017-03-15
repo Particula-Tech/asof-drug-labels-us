@@ -1,8 +1,10 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 ## 7.1 CNS-active Drugs
 
-Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [see Warnings and Precautions (5.1)].
+Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression.
+Concomitant use of zolpidem with these drugs may increase drowsiness and psychomotor impairment, including impaired driving ability.
+[see Warnings and Precautions (5.1)].
 Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
 
 Imipramine, Chlorpromazine
@@ -30,15 +32,15 @@ There was no evidence of an additive effect in psychomotor performance [see Clin
 
 ## 7.2 Drugs that Affect Drug Metabolism via Cytochrome P450
 
-Some compounds known to inhibit CYP3A may increase exposure to zolpidem.
-The effect of drugs on other P450 enzymes on the exposure to zolpidem is not known.
+Some compounds known to induce or inhibit CYP3A may affect exposure to zolpidem.
+The effect of drugs that induce or inhibit other P450 enzymes on the exposure to zolpidem is not known.
 
-Rifampin
+CYP3A4 Inducers
 
 Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem.
-Use of Rifampin in combination with zolpidem may decrease the efficacy of zolpidem.
+Use of CYP3A4 inducers in combination with zolpidem may decrease the efficacy of zolpidem [see Clinical Pharmacology (12.3)].
 
-Ketoconazole
+CYP3A4 Inhibitors
 
-Ketoconazole, a potent CYP3A4 inhibitor, increased the pharmacodynamic effects of zolpidem.
-Consideration should be given to using a lower dose of zolpidem when ketoconazole and zolpidem are given together.
+Ketoconazole, a potent CYP3A4 inhibitor, increased the exposure to and pharmacodynamic effects of zolpidem.
+Consideration should be given to using a lower dose of zolpidem when a potent CYP3A4 inhibitor and zolpidem are given together [see Clinical Pharmacology (12.3)].

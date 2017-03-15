@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Zolpidem tartrate 5 mg tablets, USP are red colored, capsule shaped tablets with the Torrent logo debossed on one side and '5 MG' debossed on the other side and supplied as:
 

@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 See FDA-approved patient labeling (Medication Guide).
 
@@ -51,4 +51,4 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8052216 Revised November 2014
+8062429 Revised October 2016

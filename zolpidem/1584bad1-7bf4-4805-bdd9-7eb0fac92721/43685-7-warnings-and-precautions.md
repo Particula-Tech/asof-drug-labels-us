@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 CNS Depressant Effects and Next-Day Impairment
 
@@ -7,8 +7,11 @@ Co-administration with other CNS depressants (e.g., benzodiazepines, opioids, tr
 Dosage adjustments of zolpidem tartrate tablets and of other concomitant CNS depressants may be necessary when zolpidem tartrate tablets are administered with such agents because of the potentially additive effects.
 The use of zolpidem tartrate tablets with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended [see Dosage and Administration (2.3)].
 
-The risk of next-day psychomotor impairment, including impaired driving, is increased if zolpidem tartrate tablets are taken with less than a full night of sleep remaining (7 to 8 hours); if a higher than the recommended dose is taken; if co-administered with other CNS depressants; or if co-administered with other drugs that increase the blood levels of zolpidem.
-Patients should be cautioned against driving and other activities requiring complete mental alertness if zolpidem tartrate tablets are taken in these circumstances [see Dosage and Administration (2) and Clinical Studies (14.3)].
+The risk of next-day psychomotor impairment, including impaired driving, is increased if zolpidem tartrate tablets are taken with less than a full night of sleep remaining (7 to 8 hours); if a higher than the recommended dose is taken; if co-administered with other CNS depressants or alcohol; or if co-administered with other drugs that increase the blood levels of zolpidem.
+Patients should be warned against driving and other activities requiring complete mental alertness if zolpidem tartrate tablets are taken in these circumstances [see Dosage and Administration (2) and Clinical Studies (14.3)].
+
+Vehicle drivers and machine operators should be warned that, as with other hypnotics, there may be a possible risk of adverse reactions including drowsiness, prolonged reaction time, dizziness, sleepiness, blurred/double vision, reduced alertness and impaired driving the morning after therapy.
+In order to minimize this risk a full night of sleep (7-8 hours) is recommended.
 
 ## 5.2 Need to Evaluate for Co-Morbid Diagnoses
 

@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious reactions are discussed in greater detail in other sections of the labeling:
 
@@ -20,7 +20,7 @@ Data from a clinical study in which selective serotonin reuptake inhibitor (SSRI
 Most commonly observed adverse reactions in controlled trials: During short-term treatment (up to 10 nights) with zolpidem tartrate tablets at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were drowsiness (reported by 2% of zolpidem patients), dizziness (1%), and diarrhea (1%).
 During longer-term treatment (28 to 35 nights) with zolpidem at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were dizziness (5%) and drugged feelings (3%).
 
-Adverse reactions observed at an incidence of ≥1% in controlled trials: The following tables enumerate treatment-emergent adverse reactions frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate and at a greater incidence than placebo in U.S. placebo-controlled trials.
+Adverse reactions observed at an incidence of ≥ 1% in controlled trials: The following tables enumerate treatment-emergent adverse reactions frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate and at a greater incidence than placebo in U.S. placebo-controlled trials.
 Events reported by investigators were classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms for the purpose of establishing event frequencies.
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those that prevailed in these clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigators involving related drug products and uses, since each group of drug trials is conducted under a different set of conditions.

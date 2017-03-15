@@ -1,4 +1,4 @@
-# 1. INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 Zolpidem tartrate tablets, USP are indicated for the short-term treatment of insomnia characterized by difficulties with sleep initiation.
 Zolpidem tartrate tablets, USP have been shown to decrease sleep latency for up to 35 days in controlled clinical studies [see Clinical Studies (14)].

@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -28,13 +28,13 @@ Elderly:
 
 In the elderly, the dose for zolpidem tartrate tablets should be 5 mg [see Warnings and Precautions (5) and Dosage and Administration (2)].
 This recommendation is based on several studies in which the mean Cmax, T1/2, and AUC were significantly increased when compared to results in young adults.
-In one study of eight elderly subjects (>70 years), the means for Cmax, T1/2, and AUC significantly increased by 50% (255 vs. 384 ng/mL), 32% (2.2 vs. 2.9 hr), and 64% (955 vs. 1,562 ng hr/mL), respectively, as compared to younger adults (20 to 40 years) following a single 20 mg oral dose.
+In one study of eight elderly subjects (>70 years), the means for Cmax, T1/2, and AUC significantly increased by 50% (255 vs. 384 ng/mL), 32% (2.2 vs. 2.9 hr), and 64% (955 vs. 1,562 ng·hr/mL), respectively, as compared to younger adults (20 to 40 years) following a single 20 mg oral dose.
 Zolpidem tartrate tablets did not accumulate in elderly subjects following nightly oral dosing of 10 mg for 1 week.
 
 Hepatic Impairment:
 
 The pharmacokinetics of zolpidem tartrate tablets in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
-Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng hr/mL) higher, respectively, in hepatically- compromised patients.
+Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng·hr/mL) higher, respectively, in hepatically- compromised patients.
 Tmax did not change.
 The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr). Dosing should be modified accordingly in patients with hepatic insufficiency [see Dosage and Administration (2.2)].
 
@@ -77,10 +77,11 @@ A single-dose interaction study with zolpidem tartrate 10 mg and itraconazole 20
 There were no pharmacodynamic effects of zolpidem detected on subjective drowsiness, postural sway, or psychomotor performance.
 
 A single-dose interaction study with zolpidem tartrate 10 mg and rifampin 600 mg at steady-state levels in female subjects showed significant reductions of the AUC (-73%), Cmax (-58%), and T1/2 (-36 %) of zolpidem together with significant reductions in the pharmacodynamic effects of zolpidem tartrate.
-Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem.
+Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem [see Drug Interactions 7.2)].
 
-A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem.
-Consideration should be given to using a lower dose of zolpidem when ketoconazole and zolpidem are given together.
+A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem [see Drug Interactions 7.2)].
+
+Additionally, fluvoxamine (a strong inhibitor of CYP1A2 and a weak inhibitor of CYP3A4 and CYP2C9) and ciprofloxacin (a strong inhibitor of CYP1A2 and a moderate inhibitor of CYP3A4) are also likely to inhibit zolpidem's metabolic pathways, potentially leading to an increase in zolpidem exposure.
 
 Other Drugs with No Interactions with Zolpidem
 

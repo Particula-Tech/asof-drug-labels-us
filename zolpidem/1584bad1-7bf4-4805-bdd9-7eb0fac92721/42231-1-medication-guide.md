@@ -8,11 +8,9 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about zolpidem tartrate tablets?
 
-• Do not take more zolpidem tartrate tablets than prescribed.
-
-• Do not take zolpidem tartrate tablets unless you are able to stay in bed a full night (7 to 8 hours) before you must be active again.
-
-• Take zolpidem tartrate tablets right before you get in bed, not sooner.
+- Do not take more zolpidem tartrate tablets than prescribed.
+- Do not take zolpidem tartrate tablets unless you are able to stay in bed a full night (7 to 8 hours) before you must be active again.
+- Take zolpidem tartrate tablets right before you get in bed, not sooner
 
 Zolpidem tartrate tablets may cause serious side effects, including:
 
@@ -21,15 +19,15 @@ Zolpidem tartrate tablets may cause serious side effects, including:
   You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with zolpidem tartrate tablets.
   Reported activities include:
 
-○ driving a car ("sleep-driving")
+o driving a car ("sleep-driving")
 
-○ making and eating food
+o making and eating food
 
-○ talking on the phone
+o talking on the phone
 
-○ having sex
+o having sex
 
-○ sleep-walking
+o sleep-walking
 
 Call your healthcare provider right away if you find out that you have done any of the above activities after taking zolpidem tartrate tablets.
 
@@ -50,14 +48,13 @@ It is not known if zolpidem tartrate tablets are safe and effective in children 
 
 Who should not take zolpidem tartrate tablets?
 
-• Do not take zolpidem tartrate tablets if you are allergic to zolpidem or any other ingredients in zolpidem tartrate tablets.
-See the end of this Medication Guide for a complete list of ingredients in zolpidem tartrate tablets.
-
-• Do not take zolpidem tartrate tablets if you have had an allergic reaction to drugs containing zolpidem, such as zolpidem tartrate CR tablets, Edluar, Zolpimist, or Intermezzo.
+- Do not take zolpidem tartrate tablets if you are allergic to zolpidem or any other ingredients in zolpidem tartrate tablets.
+  See the end of this Medication Guide for a complete list of ingredients in zolpidem tartrate tablets.
+- Do not take zolpidem tartrate tablets if you have had an allergic reaction to drugs containing zolpidem, such as zolpidem tartrate CR tablets, Edluar, Zolpimist, or Intermezzo.
 
 Symptoms of a serious allergic reaction to zolpidem can include:
 
-• swelling of your face, lips, and throat that may cause difficulty breathing or swallowing
+- swelling of your face, lips, and throat that may cause difficulty breathing or swallowing
 
 What should I tell my healthcare provider before taking zolpidem tartrate tablets?
 
@@ -86,7 +83,7 @@ Keep a list of your medicines with you to show your healthcare provider and phar
 
 How should I take zolpidem tartrate tablets?
 
-- See "What is the most important information I should know about zolpidem tartrate tablets?"
+- See"What is the most important information I should know about zolpidem tartrate tablets?"
 - Take zolpidem tartrate tablets exactly as prescribed.
   Only take 1 zolpidem tartrate tablet a night if needed.
 - Do not take zolpidem tartrate tablets if you drank alcohol that evening or before bed.
