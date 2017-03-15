@@ -2,15 +2,15 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.8)]
+Pregnancy Category D [see Warnings and Precautions (5.9)]
 
 Risk Summary
 
 Bendamustine hydrochloride can cause fetal harm when administered to a pregnant woman.
 Bendamustine caused malformations in animals, when a single dose was administered to pregnant animals.
-Advise women to avoid becoming pregnant while receiving BENDEKA (bendamustine hydrochloride) Injection and for 3 months after therapy has stopped.
+Advise women to avoid becoming pregnant while receiving BENDEKA (bendamustine hydrochloride) injection and for 3 months after therapy has stopped.
 If this drug is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to a fetus.
-Advise men receiving BENDEKA (bendamustine hydrochloride) Injection to use reliable contraception for the same time period.
+Advise men receiving BENDEKA (bendamustine hydrochloride) injection to use reliable contraception for the same time period.
 
 Animal Data
 
@@ -33,7 +33,8 @@ The effectiveness of bendamustine hydrochloride in pediatric patients has not be
 Bendamustine hydrochloride was evaluated in a single Phase 1/2 trial in pediatric patients with leukemia.
 The safety profile for bendamustine hydrochloride in pediatric patients was consistent with that seen in adults, and no new safety signals were identified.
 
-The trial included pediatric patients from 1-19 years of age with relapsed or refractory acute leukemia, including 27 patients with acute lymphocytic leukemia (ALL) and 16 patients with acute myeloid leukemia (AML). bendamustine hydrochloride was administered as an intravenous infusion over 60 minutes on Days 1 and 2 of each 21-day cycle.
+The trial included pediatric patients from 1-19 years of age with relapsed or refractory acute leukemia, including 27 patients with acute lymphocytic leukemia (ALL) and 16 patients with acute myeloid leukemia (AML).
+Bendamustine hydrochloride was administered as an intravenous infusion over 60 minutes on Days 1 and 2 of each 21-day cycle.
 Doses of 90 and 120 mg/m2 were evaluated.
 The Phase 1 portion of the study determined that the recommended Phase 2 dose of bendamustine hydrochloride in pediatric patients was 120 mg/m2.
 
@@ -66,15 +67,15 @@ Irrespective of age, all of the 176 patients experienced at least one adverse re
 ## 8.6 Renal Impairment
 
 No formal studies assessing the impact of renal impairment on the pharmacokinetics of bendamustine have been conducted.
-BENDEKA (bendamustine hydrochloride) Injection should be used with caution in patients with mild or moderate renal impairment.
-BENDEKA (bendamustine hydrochloride) Injection should not be used in patients with CrCL < 40 mL/min.
+BENDEKA (bendamustine hydrochloride) injection should be used with caution in patients with mild or moderate renal impairment.
+BENDEKA (bendamustine hydrochloride) injection should not be used in patients with CrCL < 40 mL/min.
 [see Clinical Pharmacology (12.3)]
 
 ## 8.7 Hepatic Impairment
 
 No formal studies assessing the impact of hepatic impairment on the pharmacokinetics of bendamustine have been conducted.
-BENDEKA (bendamustine hydrochloride) Injection should be used with caution in patients with mild hepatic impairment.
-BENDEKA (bendamustine hydrochloride) Injection should not be used in patients with moderate (AST or ALT 2.5-10 X ULN and total bilirubin 1.5-3 X ULN) or severe (total bilirubin > 3 X ULN) hepatic impairment.
+BENDEKA (bendamustine hydrochloride) injection should be used with caution in patients with mild hepatic impairment.
+BENDEKA (bendamustine hydrochloride) injection should not be used in patients with moderate (AST or ALT 2.5-10 X ULN and total bilirubin 1.5-3 X ULN) or severe (total bilirubin > 3 X ULN) hepatic impairment.
 [see Clinical Pharmacology (12.3)]
 
 ## 8.8 Effect of Gender

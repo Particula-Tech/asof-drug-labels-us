@@ -23,7 +23,7 @@ The potential for delayed effects on the QT interval after one hour was not eval
 
 Absorption
 
-In a pharmacokinetics study conducted in patients with cancer (N=60), a single IV dose of BENDEKA (bendamustine hydrochloride) Injection (120 mg/m2; administered as a 10 minutes infusion), resulted in a higher maximum plasma concentration (Cmax) and equivalent systemic exposure (AUC), compared to a single dose of Treanda (120 mg/m2) infused over 60 minutes.
+In a pharmacokinetics study conducted in patients with cancer (N=60), a single IV dose of BENDEKA (bendamustine hydrochloride) injection (120 mg/m2; administered as a 10 minutes infusion), resulted in a higher maximum plasma concentration (Cmax) and equivalent systemic exposure (AUC), compared to a single dose of Treanda® (bendamustine hydrochloride) (120 mg/m2) infused over 60 minutes.
 The mean Cmax achieved was 35 μg/mL (range 6 to 49 μg/mL), occurring typically at the end of infusion.
 
 Distribution
@@ -38,7 +38,7 @@ The mean steady-state volume of distribution (Vss) of bendamustine was approxima
 
 Metabolism
 
-In vitro data indicate that bendamustine is primarily metabolized via hydrolysis to metabolites with low cytotoxic activity.
+In vitro data indicate that bendamustine is primarily metabolized via hydrolysis to monohyrdroxy (HP1) and dihydroxybendamustine (HP2) metabolites with low cytotoxic activity.
 In vitro, studies indicate that two active minor metabolites, M3 and M4, are primarily formed via CYP1A2.
 However, concentrations of these metabolites in plasma are 1/10th and 1/100th that of the parent compound, respectively, suggesting that the cytotoxic activity is primarily due to bendamustine.
 
@@ -60,7 +60,7 @@ Bendamustine clearance in humans is approximately 700 mL/minute.
 
 Renal Impairment
 
-In a population pharmacokinetic analysis of bendamustine in patients receiving 120 mg/m2 there was no meaningful effect of renal impairment (CrCL 40 - 80 mL/min, N=31) on the pharmacokinetics of bendamustine.
+In a population pharmacokinetic analysis of bendamustine in patients receiving 120 mg/m2, there was no meaningful effect of renal impairment (CrCL 40 - 80 mL/min, N=31) on the pharmacokinetics of bendamustine.
 Bendamustine has not been studied in patients with CrCL < 40 mL/min.
 
 These results are however limited, and therefore bendamustine should be used with caution in patients with mild or moderate renal impairment.
@@ -69,7 +69,7 @@ Bendamustine should not be used in patients with CrCL < 40 mL/min.
 
 Hepatic Impairment
 
-In a population pharmacokinetic analysis of bendamustine in patients receiving 120 mg/m2 there was no meaningful effect of mild (total bilirubin ≤ ULN, AST ≥ ULN to 2.5 x ULN, and/or ALP ≥ ULN to 5 x ULN, N=26) hepatic impairment on the pharmacokinetics of bendamustine.
+In a population pharmacokinetic analysis of bendamustine in patients receiving 120 mg/m2, there was no meaningful effect of mild (total bilirubin ≤ ULN, AST ≥ ULN to 2.5 x ULN, and/or ALP ≥ ULN to 5 x ULN, N=26) hepatic impairment on the pharmacokinetics of bendamustine.
 Bendamustine has not been studied in patients with moderate or severe hepatic impairment.
 
 These results are however limited, and therefore bendamustine should be used with caution in patients with mild hepatic impairment.

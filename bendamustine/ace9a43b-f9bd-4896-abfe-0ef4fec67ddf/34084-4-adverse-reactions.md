@@ -7,15 +7,16 @@ The following serious adverse reactions have been associated with bendamustine h
 - Anaphylaxis and Infusion Reactions[see Warnings and Precautions (5.3)]
 - Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
 - Skin Reactions [see Warnings and Precautions (5.5)]
-- Other Malignancies [see Warnings and Precautions (5.6)]
-- Extravasation Injury [see Warnings and Precautions (5.7)]
+- Hepatotoxicity [see Warnings and Precautions (5.6)]
+- Other Malignancies [see Warnings and Precautions (5.7)]
+- Extravasation Injury [see Warnings and Precautions (5.8)]
 
 ## 6.1 Adverse Events in Clinical Trials
 
 The data described below reflect exposure to bendamustine hydrochloride in 329 patients who participated in an actively controlled trial (N=153) for the treatment of CLL and two single arm studies (N=176) for the treatment of indolent B cell NHL.
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of BENDEKA (bendamustine hydrochloride) Injection administered IV as a 50 mL admixture over a 10-minute infusion is supported by clinical trials using bendamustine hydrochloride administered IV as a 500 mL admixture over 30-60 minutes infusion time, as well as an open-label, crossover study in 81 ‘end-of-life' cancer patients treated with BENDEKA.
+The safety of BENDEKA (bendamustine hydrochloride) injection administered IV as a 50 mL admixture over a 10-minute infusion is supported by clinical trials using bendamustine hydrochloride administered IV as a 500 mL admixture over 30-60 minutes infusion time, as well as an open-label, crossover study in 81 ‘end-of-life’ cancer patients treated with BENDEKA.
 In total, safety data from clinical studies are available from over 400 cancer patients exposed to bendamustine hydrochloride at doses in the range used in the treatment of CLL and NHL.
 
 No clinically significant differences in the adverse event profile were noted among bendamustine hydrochloride administered as a 500 mL admixture over standard infusion time (30-60 minutes) and BENDEKA administered as a 50 mL admixture in a ‘short-time' infusion over 10 minutes.
@@ -29,12 +30,12 @@ Adverse reactions (any grade) that occurred with a frequency greater than 5% dur
 
 Adverse reactions (any grade) that occurred with a frequency greater than 5% within 24 hours of BENDEKA were nausea (10.9%) and fatigue (8.2%).
 
-The adverse reactions leading to study withdrawal in 4 patients receiving BENDEKA were pyrexia (1.2%), nausea (1.2%), vomiting (1.2%), pneumonia (1.2%) and fatigue (1.2%).
+Adverse reactions leading to study withdrawal in 4 patients receiving BENDEKA were pyrexia (1.2%), nausea (1.2%), vomiting (1.2%), pneumonia (1.2%) and fatigue (1.2%).
 
 ## 6.2 Clinical Trials Experience in CLL
 
 The data described below reflect exposure to bendamustine hydrochloride in 153 patients.
-Bendamustine hydrochloride was studied in an active-controlled trial.
+Bendamustine hydrochloride was studied in an active-controlled randomized trial.
 The population was 45-77 years of age, 63% male, 100% white, and had treatment naïve CLL.
 All patients started the study at a dose of 100 mg/m2 intravenously over 30 minutes on Days 1 and 2 every 28 days.
 
@@ -43,7 +44,7 @@ In the randomized CLL clinical study, non-hematologic adverse reactions (any gra
 
 Other adverse reactions seen frequently in one or more studies included asthenia, fatigue, malaise, and weakness; dry mouth; somnolence; cough; constipation; headache; mucosal inflammation and stomatitis.
 
-Worsening hypertension was reported in 4 patients treated with bendamustine hydrochloride in the randomized CLL clinical study and none treated with chlorambucil.
+Worsening hypertension was reported in 4 patients treated with bendamustine hydrochloride in the randomized CLL clinical study and in none treated with chlorambucil.
 Three of these 4 adverse reactions were described as a hypertensive crisis and were managed with oral medications and resolved.
 
 The most frequent adverse reactions leading to study withdrawal for patients receiving bendamustine hydrochloride were hypersensitivity (2%) and pyrexia (1%).
@@ -206,7 +207,7 @@ Table 4: Incidence of Hematology Laboratory Abnormalities in Patients Who Receiv
 
 In both studies, serious adverse reactions, regardless of causality, were reported in 37% of patients receiving bendamustine hydrochloride.
 The most common serious adverse reactions occurring in ≥5% of patients were febrile neutropenia and pneumonia.
-Other important serious adverse reactions reported in clinical trials and/or post-marketing experience were acute renal failure, cardiac failure, hypersensitivity, skin reactions, pulmonary fibrosis, and myelodysplastic syndrome.
+Other important serious adverse reactions reported in clinical trials and/or postmarketing experience were acute renal failure, cardiac failure, hypersensitivity, skin reactions, pulmonary fibrosis, and myelodysplastic syndrome.
 
 Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions [see Warnings and Precautions (5)].
 Adverse reactions occurring less frequently but possibly related to bendamustine hydrochloride treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
@@ -228,4 +229,5 @@ Infections and infestations: Pneumocystis jiroveci pneumonia.
 
 Respiratory, thoracic and mediastinal disorders: Pneumonitis.
 
-Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome (with concomitant allopurinol and other medications known to cause the syndrome), Toxic epidermal necrolysis (with concomitant allopurinol and other medications known to cause the condition) [see Warnings and Precautions (5.5)].
+Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, Toxic epidermal necrolysis, DRESS (Drug reaction with eosinophilia and systemic symptoms).
+[see Warnings and Precautions (5.5)].
