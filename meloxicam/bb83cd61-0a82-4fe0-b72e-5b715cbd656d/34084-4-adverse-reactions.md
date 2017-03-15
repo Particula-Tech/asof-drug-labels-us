@@ -124,6 +124,8 @@ Table 2: Adverse Events (%) Occurring in ≥ 2% of Meloxicam Patients in 4 to 6 
 | 1WHO preferred terms edema, edema dependent, edema peripheral, and edema legs combined |  |  |  |  |
 | 2WHO preferred terms rash, rash erythematous, and rash maculo-papular combined |  |  |  |  |
 
+Higher doses of meloxicam (22.5 mg and greater) have been associated with an increased risk of serious GI events; therefore, the daily dose of meloxicam should not exceed 15 mg.
+
 Pediatrics
 
 Pauciarticular and Polyarticular Course Juvenile Rheumatoid Arthritis (JRA)
@@ -153,7 +155,7 @@ The following is a list of adverse drug reactions occurring in <2% of patients r
 | Special Senses | abnormal vision, conjunctivitis, taste perversion, tinnitus |
 | Urinary System | albuminuria, BUN increased, creatinine increased, hematuria, renal failure |
 
-## 6.2 Postmarketing Experence
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of meloxicam.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

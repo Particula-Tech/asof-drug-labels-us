@@ -130,9 +130,8 @@ Meloxicam is contraindicated in patients with previous serious skin reactions to
 
 ## 5.10 Premature Closure of Fetal Ductus Arteriosus
 
-Meloxicam cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
-Abrupt discontinuation of corticosteroids may lead to disease exacerbation.
-Slowly taper patients on prolonged corticosteroid therapy if a decision is made to discontinue corticosteroids.
+Meloxicam may cause premature closure of the fetal ductus arteriosus.
+Avoid use of NSAIDs, including meloxicam, in pregnant women starting at 30 weeks of gestation (third trimester) [see Use in Specific Population (8.1)].
 
 ## 5.11 Hematologic Toxicity
 

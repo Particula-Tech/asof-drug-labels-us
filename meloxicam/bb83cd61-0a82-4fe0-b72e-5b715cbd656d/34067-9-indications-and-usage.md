@@ -10,4 +10,4 @@ Meloxicam is indicated for relief of the signs and symptoms of rheumatoid arthri
 
 ## 1.3 Juvenile Rheumatoid Arthritis (JRA) Pauciarticular and Polyarticular Course
 
-Meloxicam is indicated for relief of the signs and symptoms of pauciarticular or polyarticular course Juvenile Rheumatoid Arthritis in patients 2 years of age and older [see Clinical Studies (14.2)].
+Meloxicam is indicated for relief of the signs and symptoms of pauciarticular or polyarticular course Juvenile Rheumatoid Arthritis in patients who weighs ≥ 60 kg [see Dosage and Administration (2.4) and Clinical Studies (14.2)].

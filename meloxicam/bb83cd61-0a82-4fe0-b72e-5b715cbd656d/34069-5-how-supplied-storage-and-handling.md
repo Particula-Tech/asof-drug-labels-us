@@ -22,7 +22,7 @@ NDC 69097-159-15 Bottles of 1000
 
 Storage
 
-Store at 20 to 25 C (68 to 77 F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Keep meloxicam tablets in a dry place.
 
 Dispense tablets in a tight container.

@@ -24,9 +24,10 @@ Some patients may receive additional benefit by increasing the dose to 15 mg onc
 
 ## 2.4 Juvenile Rheumatoid Arthritis (JRA) Pauciarticular and Polyarticular Course
 
-To improve dosing accuracy in smaller weight children, the use of the meloxicam oral suspension is recommended.
-For the treatment of juvenile rheumatoid arthritis, the recommended oral dose of meloxicam is 0.125 mg/kg once daily up to a maximum of 7.5 mg.
-There was no additional benefit demonstrated by increasing the dose above 0.125 mg/kg once daily in these clinical trials.
+For the treatment of juvenile rheumatoid arthritis, the recommended oral dose of meloxicam is 7.5 mg once daily in children who weigh ≥ 60 kg.
+There was no additional benefit demonstrated by increasing the dose above 7.5 mg in clinical trials.
+
+Meloxicam tablets should not be used in children who weigh <60 kg.
 
 ## 2.5 Renal Impairment
 
