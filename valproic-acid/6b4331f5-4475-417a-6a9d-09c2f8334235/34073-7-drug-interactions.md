@@ -37,7 +37,7 @@ Delaying the administration of cholestyramine relative to valproic acid administ
 Estrogen-Containing Hormonal Contraceptives
 
 Estrogen-containing hormonal contraceptives may increase the clearance of valproate, which may result in decreased concentration of valproate and potentially increased seizure frequency.
-Prescribers should monitor serum valproate concentrations and clinical response when adding or discontinuing estrogen containing products, preferably during on-off intervals of the hormonal contraceptive cycle.
+Prescribers should monitor serum valproate concentrations and clinical response when adding or discontinuing estrogen containing products.
 
 Felbamate
 
