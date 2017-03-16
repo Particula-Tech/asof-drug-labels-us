@@ -1,3 +1,6 @@
 Licensed from Pliva
 
-LAB-0022-16.0
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com
+
+LAB-0022-17.0

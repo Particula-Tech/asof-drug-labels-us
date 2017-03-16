@@ -19,7 +19,12 @@ Physicians should be aware that allergic symptoms may reappear when symptomatic 
 Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure have been reported, some of which have resulted in death.
 Discontinue azithromycin immediately if signs and symptoms of hepatitis occur.
 
-## 5.3 QT Prolongation
+## 5.3 Infantile Hypertrophic Pyloric Stenosis (IHPS)
+
+Following the use of azithromycin in neonates (treatment up to 42 days of life), IHPS has been reported.
+Direct parents and caregivers to contact their physician if vomiting or irritability with feeding occurs.
+
+## 5.4 QT Prolongation
 
 Prolonged cardiac repolarization and QT interval, imparting a risk of developing cardiac arrhythmia and torsades de pointes, have been seen with treatment with macrolides, including azithromycin.
 Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving azithromycin.
@@ -31,7 +36,7 @@ Providers should consider the risk of QT prolongation which can be fatal when we
 
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
 
-## 5.4 Clostridium difficile-Associated Diarrhea (CDAD)
+## 5.5 Clostridium difficile-Associated Diarrhea (CDAD)
 
 CDAD has been reported with use of nearly all antibacterial agents, including ZITHROMAX, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
@@ -44,17 +49,17 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.5 Exacerbation of Myasthenia Gravis
+## 5.6 Exacerbation of Myasthenia Gravis
 
-Exacerbations of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azitrhromycin therapy.
+Exacerbations of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
-## 5.6 Use in Sexually Transmitted Infections
+## 5.7 Use in Sexually Transmitted Infections
 
 ZITHROMAX, (single dose 1 g packet) at the recommended dose, should not be relied upon to treat gonorrhea or syphilis.
 Antibacterial agents used in high doses for short periods of time to treat non-gonococcal urethritis may mask or delay the symptoms of incubating gonorrhea or syphilis.
 All patients with sexually transmitted urethritis or cervicitis should have a serologic test for syphilis and appropriate cultures for gonorrhea performed at the time of diagnosis.
 Appropriate antibacterial therapy and follow-up tests for these diseases should be initiated if infection is confirmed.
 
-## 5.7 Development of Drug-Resistant Bacteria
+## 5.8 Development of Drug-Resistant Bacteria
 
 Prescribing ZITHROMAX in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

@@ -34,7 +34,7 @@ In multiple-dose clinical trials of oral azithromycin, 9% of patients were at le
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 Elderly patients may be more susceptible to development of torsades de pointes arrhythmias than younger patients.
-[see Warnings and Precautions (5.3)]
+[see Warnings and Precautions (5.4)]
 
 ZITHROMAX 600 mg tablets contain 2.1 mg of sodium per tablet.
 ZITHROMAX for oral suspension 1 gram single-dose packets contain 37.0 mg of sodium per packet.

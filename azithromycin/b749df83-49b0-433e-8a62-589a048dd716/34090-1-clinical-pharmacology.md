@@ -5,14 +5,9 @@
 Azithromycin is a macrolide antibacterial drug.
 [see Microbiology (12.4)]
 
-Azithromycin concentrates in phagocytes and fibroblasts as demonstrated by in vitro incubation techniques.
-Using such methodology, the ratio of intracellular to extracellular concentration was >30 after one hr of incubation.
-In vivo studies suggest that concentration in phagocytes may contribute to drug distribution to inflamed tissues.
-
 ## 12.2 Pharmacodynamics
 
 Based on animal models of infection, the antibacterial activity of azithromycin appears to correlate with the ratio of area under the concentration-time curve to minimum inhibitory concentration (AUC/MIC) for certain pathogens (S. pneumoniae and S. aureus).
-
 The principal pharmacokinetic/pharmacodynamic parameter best associated with clinical and microbiological cure has not been elucidated in clinical trials with azithromycin.
 
 Cardiac Electrophysiology
@@ -66,6 +61,10 @@ However, the extensive distribution of drug to tissues may be relevant to clinic
 Azithromycin has been shown to penetrate into tissues in humans, including skin, lung, tonsil, and cervix.
 Extensive tissue distribution was confirmed by examination of additional tissues and fluids (bone, ejaculum, prostate, ovary, uterus, salpinx, stomach, liver, and gallbladder).
 As there are no data from adequate and well-controlled studies of azithromycin treatment of infections in these additional body sites, the clinical importance of these tissue concentration data is unknown.
+
+Azithromycin concentrates in phagocytes and fibroblasts as demonstrated by in vitro incubation techniques.
+Using such methodology, the ratio of intracellular to extracellular concentration was >30 after one hr of incubation.
+In vivo studies suggest that concentration in phagocytes may contribute to drug distribution to inflamed tissues.
 
 Following oral administration of a single 1200 mg dose (two 600 mg tablets), the mean maximum concentration in peripheral leukocytes was 140 µg/mL.
 Concentration remained above 32 µg/mL, for approximately 60 hr. The mean half-lives for 6 males and 6 females were 34 hr and 57 hr, respectively.
@@ -136,7 +135,7 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the P
 | Carbamazepine | 200 mg/day for 2 days, then 200 mg twice a day for 18 days | 500 mg/day orally for days 16–18 | 7 | 0.97 (0.88 to 1.06) | 0.96 (0.88 to 1.06) |
 | Cetirizine | 20 mg/day for 11 days | 500 mg orally on day 7, then 250 mg/day on days 8–11 | 14 | 1.03 (0.93 to 1.14) | 1.02 (0.92 to 1.13) |
 | Didanosine | 200 mg orally twice a day for 21 days | 1,200 mg/day orally on days 8–21 | 6 | 1.44 (0.85 to 2.43) | 1.14 (0.83 to 1.57) |
-| Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.04 - 90% Confidence interval not reported | 0.95 |
+| Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.04- 90% Confidence interval not reported | 0.95 |
 | Fluconazole | 200 mg orally single dose | 1,200 mg orally single dose | 18 | 1.04 (0.98 to 1.11) | 1.01 (0.97 to 1.05) |
 | Indinavir | 800 mg three times a day for 5 days | 1,200 mg orally on day 5 | 18 | 0.96 (0.86 to 1.08) | 0.90 (0.81 to 1.00) |
 | Midazolam | 15 mg orally on day 3 | 500 mg/day orally for 3 days | 12 | 1.27 (0.89 to 1.81) | 1.26 (1.01 to 1.56) |
@@ -156,160 +155,43 @@ Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence o
 | Mean Cmax | Mean AUC |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Dose of Co-administered Drug | Dose of Azithromycin | n | Ratio (with/without co-administered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |
-| Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.22 (1.04 to 1.42) | 0.92 - 90% Confidence interval not reported |
+| Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.22 (1.04 to 1.42) | 0.92- 90% Confidence interval not reported |
 | Fluconazole | 200 mg orally single dose | 1,200 mg orally single dose | 18 | 0.82 (0.66 to 1.02) | 1.07 (0.94 to 1.22) |
 | Nelfinavir | 750 mg three times a day for 11 days | 1,200 mg orally on day 9 | 14 | 2.36 (1.77 to 3.15) | 2.12 (1.80 to 2.50) |
 
 ## 12.4 Microbiology
 
-Azithromycin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in [see Indications and Usage (1)].
+Mechanism of Action
 
-Aerobic Gram-Positive Microorganisms
+Azithromycin acts by binding to the 23S rRNA of the 50S ribosomal subunit of susceptible microorganisms inhibiting bacterial protein synthesis and impeding the assembly of the 50S ribosomal subunit.
 
-- Staphylococcus aureus
-- Streptococcus agalactiae
-- Streptococcus pneumoniae
-- Streptococcus pyogenes
+Resistance
 
-NOTE: Azithromycin demonstrates cross-resistance with erythromycin-resistant gram-positive strains.
-Most strains of Enterococcus faecalis and methicillin-resistant staphylococci are resistant to azithromycin.
+The most frequently encountered mechanism of resistance to azithromycin is modification of the 23S rRNA target, most often by methylation.
+Ribosomal modifications can determine cross resistance to other macrolides, lincosamides, and streptogramin B (MLSB phenotype).
+The mechanism of acquired mutational resistance in isolates of Mycobacterium avium complex (i.e., 23S rRNA genemutation) is the same for both clarithromycin and azithromycin.
 
-Aerobic Gram-Negative Microorganisms
+Antimicrobial Activity
 
-- Haemophilus influenzae
-- Moraxella catarrhalis
+Azithromycin has been shown to be active against the following microorganisms, both in vitro and in clinical infections.
+[see Indications and Usage (1)]
+
+Mycobacteria
+
+- Mycobacterium avium complex (MAC) consisting of:
+  - Mycobacterium avium
+  - Mycobacterium intracellulare
 
 Other Microorganisms
 
 - Chlamydia trachomatis
 
-Beta-lactamase production should have no effect on azithromycin activity.
+Susceptibility Test Methods
 
-Azithromycin has been shown to be active in vitro and in the prevention and treatment of disease caused by the following microorganisms:
+When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug for treatment.
 
 Mycobacteria
 
-- Mycobacterium avium complex (MAC) consisting of:
-- Mycobacterium avium
-- Mycobacterium intracellulare
-
-The following in vitro data are available, but their clinical significance is unknown.
-
-Azithromycin exhibits in vitro minimal inhibitory concentrations (MICs) of 2.0 µg/mL or less against most (≥90%) strains of the following microorganisms; however, the safety and effectiveness of azithromycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled trials.
-
-Aerobic Gram-Positive Microorganisms
-
-- Streptococci (Groups C, F, G)
-- Viridans group streptococci
-
-Aerobic Gram-Negative Microorganisms
-
-- Bordetella pertussis
-- Campylobacter jejuni
-- Haemophilus ducreyi
-- Legionella pneumophila
-
-Anaerobic Microorganisms
-
-- Bacteroides bivius
-- Clostridium perfringens
-- Peptostreptococcus species
-
-Other Microorganisms
-
-- Borrelia burgdorferi
-- Mycoplasma pneumoniae
-- Treponema pallidum
-- Ureaplasma urealyticum
-
-Susceptibility Testing of Bacteria Excluding Mycobacteria
-
-The in vitro potency of azithromycin is markedly affected by the pH of the microbiological growth medium during incubation.
-Incubation in a 10% CO2 atmosphere will result in lowering of media pH (7.2 to 6.6) within 18 hr and in an apparent reduction of the in vitro potency of azithromycin.
-Thus, the initial pH of the growth medium should be 7.2–7.4, and the CO2 content of the incubation atmosphere should be as low as practical.
-
-Azithromycin can be solubilized for in vitro susceptibility testing by dissolving in a minimum amount of 95% ethanol and diluting to working concentration with water.
-
-Dilution Techniques
-
-Quantitative methods are used to determine minimal inhibitory concentrations that provide reproducible estimates of the susceptibility of bacteria to antibacterial compounds.
-One such standardized procedure uses a standardized dilution method1 (broth, agar or microdilution) or equivalent with azithromycin powder.
-The MIC values should be interpreted according to the following criteria:
-
-| MIC (µg/mL) | Interpretation |
-| --- | --- |
-| ≤ 2 | Susceptible (S) |
-| 4 | Intermediate (I) |
-| ≥ 8 | Resistant (R) |
-
-A report of "Susceptible" indicates that the pathogen is likely to respond to monotherapy with azithromycin.
-A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "Resistant" indicates that usually achievable drug concentrations are unlikely to be inhibitory and that other therapy should be selected.
-
-Measurement of MIC or minimum bacterial concentration (MBC) and achieved antibacterial compound concentrations may be appropriate to guide therapy in some infections.
-[see Clinical Pharmacology (12)] section for further information on drug concentrations achieved in infected body sites and other pharmacokinetic properties of this antibacterial drug product.)
-
-Standardized susceptibility test procedures require the use of laboratory control microorganisms.
-Standard azithromycin powder should provide the following MIC values:
-
-| Microorganism | MIC (µg/mL) |
-| --- | --- |
-| Escherichia coli ATCC 25922 | 2.0–8.0 |
-| Enterococcus faecalis ATCC 29212 | 1.0–4.0 |
-| Staphylococcus aureus ATCC 29213 | 0.25–1.0 |
-
-Diffusion Techniques
-
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antibacterial compounds.
-One such standardized procedure2 that has been recommended for use with disks to test the susceptibility of microorganisms to azithromycin uses the 15 µg azithromycin disk.
-Interpretation involves the correlation of the diameter obtained in the disk test with the MIC for azithromycin.
-
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 15 µg azithromycin disk should be interpreted according to the following criteria:
-
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥ 18 | Susceptible (S) |
-| 14–17 | Intermediate (I) |
-| ≤ 13 | Resistant (R) |
-
-Interpretation should be as stated above for results using dilution techniques.
-
-As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms.
-The 15 µg azithromycin disk should provide the following zone diameters in these laboratory test quality control strains:
-
-| Microorganism | Zone Diameter (mm) |
-| --- | --- |
-| Staphylococcus aureus ATCC 25923 | 21–26 |
-
-In Vitro Activity of Azithromycin Against Mycobacteria
-
-Azithromycin has demonstrated in vitro activity against MAC organisms.
-While gene probe techniques may be used to distinguish between M. avium and M. intracellulare, many studies only reported results on MAC isolates.
-Azithromycin has also been shown to be active against phagocytized MAC organisms in mouse and human macrophage cell cultures as well as in the beige mouse infection model.
-
-Various in vitro methodologies employing broth or solid media at different pHs, with and without oleic acid-albumin-dextrose-catalase (OADC), have been used to determine azithromycin MIC values for MAC strains.
-In general, azithromycin MIC values decreased 4–8 fold as the pH of Middlebrook 7H11 agar media increased from 6.6 to 7.4.
-At pH 7.4, azithromycin MIC values determined with Mueller-Hinton agar were 4 fold higher than that observed with Middlebrook 7H12 media at the same pH.
-Utilization of oleic OADC in these assays has been shown to further alter MIC values.
-The relationship between azithromycin and clarithromycin MIC values has not been established.
-In general, azithromycin MIC values were observed to be 2–32 fold higher than clarithromycin independent of the susceptibility method employed.
-
-The ability to correlate MIC values and plasma drug levels is difficult as azithromycin concentrates in macrophages and tissues.
-[see Clinical Pharmacology (12)]
-
-Drug Resistance
-
-Complete cross-resistance between azithromycin and clarithromycin has been observed with MAC isolates.
-In most isolates, a single-point mutation at a position that is homologous to the Escherichia coli positions 2058 or 2059 on the 23S rRNA gene is the mechanism producing this cross-resistance pattern.3,4 MAC isolates exhibiting cross-resistance show an increase in azithromycin MICs to ≥128 µg/mL with clarithromycin MICs increasing to ≥32 µg/mL.
-These MIC values were determined employing the radiometric broth dilution susceptibility testing method with Middlebrook 7H12 medium.
-The clinical significance of azithromycin and clarithromycin cross-resistance is not fully understood at this time but preclinical data suggest that reduced activity to both agents will occur after MAC strains produce the 23S rRNA mutation.
-
-Susceptibility Testing for MAC
-
-The disk diffusion techniques and dilution methods for susceptibility testing against gram-positive and gram-negative bacteria should not be used for determining azithromycin MIC values against mycobacteria.
-In vitro susceptibility testing methods and diagnostic products currently available for determining MIC values against MAC organisms have not been standardized or validated.
-Azithromycin MIC values will vary depending on the susceptibility testing method employed, composition and pH of media, and the utilization of nutritional supplements.
-Breakpoints to determine whether clinical isolates of M. avium or M. intracellulare are susceptible or resistant to azithromycin have not been established.
-
-The clinical relevance of azithromycin in vitro susceptibility test results for other mycobacterial species, including Mycobacterium tuberculosis, using any susceptibility testing method has not been determined.
+Susceptibility testing of azithromycin is not recommended because of the technical difficulties associated with testing azithromycin (i.e., poor solubility at the high concentration of drug that must be tested).
+Clarithromycin is the most appropriate class drug for testing the macrolides 1.

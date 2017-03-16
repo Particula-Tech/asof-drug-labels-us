@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Clinical Studies in Patients with Advanced HIV Infection for the Prevention and Treatment of Disease Due to Disseminated MAC
+## 14.1 Clinical Studies in Patients with Advanced HIV Infection for the Prevention and Treatment of Disease Due to Disseminated Mycobacterium avium Complex (MAC)
 
 [see Indications and Usage (1)]
 
@@ -60,7 +60,7 @@ Additionally, azithromycin/rifabutin combination therapy is more effective than 
 The difference (rifabutin – azithromycin/rifabutin) in the cumulative one-year incidence rates (12.5%) is statistically significant (p<0.001) with an adjusted 95% confidence interval of 6.6%, 18.4%.
 The comparable number of patients experiencing adverse events and the fewer number of patients lost to follow-up on rifabutin should be taken into account when interpreting the significance of this difference.
 
-In Study 174, sensitivity testing5 was performed on all available MAC isolates from subjects randomized to either azithromycin, rifabutin, or the combination.
+In Study 174, sensitivity testing2 was performed on all available MAC isolates from subjects randomized to either azithromycin, rifabutin, or the combination.
 The distribution of MIC values for azithromycin from susceptibility testing of the breakthrough isolates was similar between trial arms.
 As the efficacy of azithromycin in the treatment of disseminated MAC has not been established, the clinical relevance of these in vitro MICs as an indicator of susceptibility or resistance is not known.
 
@@ -126,15 +126,15 @@ In these immunocompromised patients with advanced HIV infection, it was necessar
 
 PROPHYLAXIS AGAINST DISSEMINATED MAC ABNORMAL LABORATORY VALUESexcludes subjects outside of the relevant normal range at baseline
 
-|  |  | Placebo | Azithromycin 1200 mg weekly | Rifabutin 300 mg daily | Azithromycin & Rifabutin |
-| --- | --- | --- | --- | --- | --- |
-| Hemoglobin | <8 g/dL | 1/51 2% | 4/170 2% | 4/114 4% | 8/107 8% |
-| Platelet Count | <50 × 103/mm3 | 1/71 1% | 4/260 2% | 2/182 1% | 6/181 3% |
-| WBC Count | <1 × 103/mm3 | 0/8 0% | 2/70 3% | 2/47 4% | 0/43 0% |
-| Neutrophils | <500/mm3 | 0/26 0% | 4/106 4% | 3/82 4% | 2/78 3% |
-| SGOT | >5 × ULNUpper Limit of Normal | 1/41 2% | 8/158 5% | 3/121 3% | 6/114 5% |
-| SGPT | >5 × ULN | 0/49 0% | 8/166 5% | 3/130 2% | 5/117 4% |
-| Alk Phos | >5 × ULN | 1/80 1% | 4/247 2% | 2/172 1% | 3/164 2% |
+|  |  | Placebo |  | Azithromycin 1200 mg weekly |  | Rifabutin 300 mg daily |  | Azithromycin & Rifabutin |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Hemoglobin | <8 g/dL | 1/51 | 2% | 4/170 | 2% | 4/114 | 4% | 8/107 | 8% |
+| Platelet Count | <50 × 103/mm3 | 1/71 | 1% | 4/260 | 2% | 2/182 | 1% | 6/181 | 3% |
+| WBC Count | <1 × 103/mm3 | 0/8 | 0% | 2/70 | 3% | 2/47 | 4% | 0/43 | 0% |
+| Neutrophils | <500/mm3 | 0/26 | 0% | 4/106 | 4% | 3/82 | 4% | 2/78 | 3% |
+| SGOT | >5 × ULNUpper Limit of Normal | 1/41 | 2% | 8/158 | 5% | 3/121 | 3% | 6/114 | 5% |
+| SGPT | >5 × ULN | 0/49 | 0% | 8/166 | 5% | 3/130 | 2% | 5/117 | 4% |
+| Alk Phos | >5 × ULN | 1/80 | 1% | 4/247 | 2% | 2/172 | 1% | 3/164 | 2% |
 
 Treatment of Disseminated MAC Disease
 
