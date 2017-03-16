@@ -13,8 +13,13 @@ BLOXIVERZ should be stored at 20° to 25°C (68° to 77°F); excursions permitte
 Protect from light.
 Store in carton until time of use.
 
+Avadel
+
 Manufactured for:
 
-Éclat Pharmaceuticals
+Avadel Legacy Pharmaceuticals, LLC
 
-Chesterfield, MO 63005 USA
+Chesterfield, MO 63005
+
+Rev.
+01/17

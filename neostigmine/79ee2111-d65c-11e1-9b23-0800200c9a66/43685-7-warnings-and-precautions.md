@@ -25,5 +25,4 @@ The dose of BLOXIVERZ should be reduced if recovery from neuromuscular blockade 
 ## 5.5. Cholinergic Crisis
 
 It is important to differentiate between myasthenic crisis and cholinergic crisis caused by overdosage of BLOXIVERZ.
-Both conditions result in extreme muscle weakness but require radically different treatment.
-[see Overdosage (10)]
+Both conditions result in extreme muscle weakness but require radically different treatment [see Overdosage (10)].
