@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022259"
+  ],
+  "inn": "fluorouracil",
+  "labeler": "Pierre Fabre Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64370-421-40"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluorouracil",
+      "name": "TOLAK"
+    }
+  ],
+  "setid": "e37ae7a6-7074-4744-8d56-c85d7e4ad587",
+  "source": "dailymed"
+}
