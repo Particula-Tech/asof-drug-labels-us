@@ -34,14 +34,23 @@ Because many drugs are excreted in human milk, instruct women to discontinue nur
 
 Contraception
 
-Based on its mechanism of action, KEYTRUDA can cause fetal harm when administered to a pregnant woman [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
+Based on its mechanism of action, KEYTRUDA can cause fetal harm when administered to a pregnant woman [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment with KEYTRUDA and for at least 4 months following the final dose.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of KEYTRUDA have not been established in pediatric patients.
+There is limited experience in pediatric patients.
+KEYTRUDA was evaluated in a study of 40 pediatric patients with advanced melanoma, PD-L1 positive advanced, relapsed, or refractory solid tumors or lymphoma; 2 of the 38 had hematologic malignancies, 1 of whom had cHL.
+The median age was 13 years (range: 2 to 18 years), and included 16 children (2 years to less than 12 years) and 24 adolescents (12 years to 18 years).
+KEYTRUDA was administered at the recommended dose of 2 mg/kg every 3 weeks.
+Patients were treated for a median of 43 days (range 1-414 days), with 24 patients (60%) receiving treatment for 42 days or more.
+
+Efficacy for pediatric patients is extrapolated from the results in the adult cHL population [see Clinical Studies (14.4)].
+The safety profile in these pediatric patients was similar to that seen in adults treated with pembrolizumab; toxicities that occurred at a higher rate (≥15% difference) in pediatric patients when compared to adults under 65 years of age were fatigue (45%), vomiting (38%), abdominal pain (28%), hypertransaminasemia (28%) and hyponatremia (18%).
+
+The concentrations of pembrolizumab were comparable in adult and pediatric patients at the same dose level of 2 mg/kg every 3 weeks.
 
 ## 8.5 Geriatric Use
 
-Of 3145 patients with melanoma, NSCLC, or HNSCC who were treated with KEYTRUDA in clinical studies, 43% were 65 years and over and 12% were 75 years and over.
+Of 3355 patients with melanoma, NSCLC, HNSCC or cHL who were treated with KEYTRUDA in clinical studies, 41% were 65 years and over and 12% were 75 years and over.
 No overall differences in safety or effectiveness were observed between elderly patients and younger patients.

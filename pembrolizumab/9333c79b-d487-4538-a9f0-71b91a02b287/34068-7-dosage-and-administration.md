@@ -17,13 +17,20 @@ The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusi
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.3)].
 
-## 2.5 Dose Modifications
+## 2.5 Recommended Dosage for cHL
+
+The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.4)].
+
+The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
+
+## 2.6 Dose Modifications
 
 Withhold KEYTRUDA for any of the following:
 
 - Grade 2 pneumonitis [see Warnings and Precautions (5.1)]
 - Grade 2 or 3 colitis [see Warnings and Precautions (5.2)]
 - Grade 3 or 4 endocrinopathies [see Warnings and Precautions (5.4)]
+- Grade 4 hematological toxicity in cHL patients
 - Grade 2 nephritis [see Warnings and Precautions (5.5)]
 - Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) greater than 3 and up to 5 times upper limit of normal (ULN) or total bilirubin greater than 1.5 and up to 3 times ULN
 - Any other severe or Grade 3 treatment-related adverse reaction [see Warnings and Precautions (5.6)]
@@ -32,7 +39,7 @@ Resume KEYTRUDA in patients whose adverse reactions recover to Grade 0-1.
 
 Permanently discontinue KEYTRUDA for any of the following:
 
-- Any life-threatening adverse reaction (excluding endocrinopathies controlled with hormone replacement therapy)
+- Any life-threatening adverse reaction (excluding endocrinopathies controlled with hormone replacement therapy, or hematological toxicity in patients with cHL)
 - Grade 3 or 4 pneumonitis or recurrent pneumonitis of Grade 2 severity [see Warnings and Precautions (5.1)]
 - Grade 3 or 4 nephritis [see Warnings and Precautions (5.5)]
 - AST or ALT greater than 5 times ULN or total bilirubin greater than 3 times ULN
@@ -42,7 +49,7 @@ Permanently discontinue KEYTRUDA for any of the following:
 - Persistent Grade 2 or 3 adverse reactions (excluding endocrinopathies controlled with hormone replacement therapy) that do not recover to Grade 0-1 within 12 weeks after last dose of KEYTRUDA
 - Any severe or Grade 3 treatment-related adverse reaction that recurs [see Warnings and Precautions (5.6)]
 
-## 2.6 Preparation and Administration
+## 2.7 Preparation and Administration
 
 Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
 

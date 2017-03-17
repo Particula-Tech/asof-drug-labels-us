@@ -17,3 +17,10 @@ KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+
+## 1.4 Classical Hodgkin Lymphoma
+
+KEYTRUDA is indicated for the treatment of adult and pediatric patients with refractory classical Hodgkin lymphoma (cHL), or who have relapsed after 3 or more prior lines of therapy [see Clinical Studies (14.4)].
+
+This indication is approved under accelerated approval based on tumor response rate and durability of response.
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.

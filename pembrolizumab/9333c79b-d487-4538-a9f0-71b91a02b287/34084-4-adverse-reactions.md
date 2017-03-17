@@ -15,11 +15,11 @@ The following adverse reactions are discussed in greater detail in other section
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The data described in the WARNINGS AND PRECAUTIONS section reflect exposure to KEYTRUDA in 2799 patients in three randomized, open-label, active-controlled clinical trials, which enrolled 912 patients with melanoma and 682 patients with NSCLC, and one single-arm trial which enrolled 655 patients with melanoma and 550 patients with NSCLC.
-In addition, these data reflect exposure to KEYTRUDA in a non-randomized, open-label, multi-cohort trial which enrolled 192 patients with HNSCC.
+In addition, these data reflect exposure to KEYTRUDA in a non-randomized, open-label, multi-cohort trial which enrolled 192 patients with HNSCC and 241 cHL patients in two non-randomized, open-label trials.
 Across all studies, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among the 2799 patients, 41% were exposed for 6 months or more and 21% were exposed for 12 months or more.
 
-The data described below were obtained in three randomized, open-label, active-controlled clinical trials which enrolled 912 patients with melanoma, 682 patients with NSCLC, and one non-randomized, open-label, multi-cohort trial which enrolled 192 patients with HNSCC.
+The data described in this section were obtained in three randomized, open-label, active-controlled clinical trials which enrolled 912 patients with melanoma, 682 patients with NSCLC, and two non-randomized, open-label, multi-cohort trials which enrolled 192 patients with HNSCC and 210 patients with cHL.
 In these trials, KEYTRUDA was administered at 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks.
 
 Melanoma
@@ -87,6 +87,7 @@ Other laboratory abnormalities occurring in ≥20% of patients receiving KEYTRUD
 Ipilimumab-Refractory Melanoma (Trial 2)
 
 The safety of KEYTRUDA in patients with unresectable or metastatic melanoma with disease progression following ipilimumab and, if BRAF V600 mutation positive, a BRAF inhibitor, was evaluated in Trial 2.
+
 Trial 2 was a multicenter, partially blinded (KEYTRUDA dose), randomized (1:1:1), active-controlled trial in which 528 patients received KEYTRUDA 2 mg/kg (n=178) or 10 mg/kg (n=179) every 3 weeks or investigator's choice of chemotherapy (n=171), consisting of dacarbazine (26%), temozolomide (25%), paclitaxel and carboplatin (25%), paclitaxel (16%), or carboplatin (8%) [see Clinical Studies (14.1)].
 The trial excluded patients with autoimmune disease, severe immune-related toxicity related to ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (greater than 10 mg/day prednisone or equivalent dose) for greater than 12 weeks; medical conditions that required systemic corticosteroids or other immunosuppressive medication; a history of interstitial lung disease; or an active infection requiring therapy, including HIV or hepatitis B or C.
 
@@ -216,6 +217,64 @@ The most frequent serious adverse reactions reported in at least 2% of patients 
 The incidence of adverse reactions, including serious adverse reactions, was similar between dosage regimens (10 mg/kg every 2 weeks or 200 mg every 3 weeks); these data were pooled.
 The most common adverse reactions (occurring in ≥20% of patients) were fatigue, decreased appetite, and dyspnea.
 Adverse reactions occurring in patients with HNSCC were generally similar to those occurring in patients with melanoma or NSCLC, with the exception of increased incidences of facial edema (10% all Grades; 2.1% Grades 3-4) and new or worsening hypothyroidism [see Warnings and Precautions (5.4)].
+
+cHL
+
+Among the 210 patients with cHL enrolled in Trial 6 [see Clinical Studies (14.4)], the median duration of exposure to KEYTRUDA was 8.4 months (range: 1 day to 15.2 months).
+KEYTRUDA was discontinued due to adverse reactions in 5% of patients, and treatment was interrupted due to adverse reactions in 26%.
+Fifteen percent (15%) of patients had an adverse reaction requiring systemic corticosteroid therapy.
+Serious adverse reactions occurred in 16% of patients.
+The most frequent serious adverse reactions (≥1%) included pneumonia, pneumonitis, pyrexia, dyspnea, graft versus host disease and herpes zoster.
+Two patients died from causes other than disease progression; one from GVHD after subsequent allogeneic HSCT and one from septic shock.
+
+Table 7 summarizes the adverse reactions that occurred in at least 10% of patients treated with KEYTRUDA.
+
+Table 7: Adverse Reactions in ≥10% of Patients with cHL
+
+| Adverse Reaction | All GradesGraded per NCI CTCAE v4.0 (%) | Grade 3 (%) |
+| --- | --- | --- |
+|  | KEYTRUDA 200 mg every 3 weeks N=210 |  |
+| General Disorders and Administration Site Conditions |  |  |
+| FatigueIncludes fatigue, asthenia | 26 | 1.0 |
+| Pyrexia | 24 | 1.0 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| CoughIncludes cough, productive cough | 24 | 0.5 |
+| DyspneaIncludes dyspnea, dyspnea exertional, wheezing | 11 | 1.0 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Musculoskeletal painIncludes back pain, myalgia, bone pain, musculoskeletal pain, pain in extremity, musculoskeletal chest pain, musculoskeletal discomfort, neck pain | 21 | 1.0 |
+| Arthralgia | 10 | 0.5 |
+| Gastrointestinal Disorders |  |  |
+| DiarrheaIncludes diarrhea, gastroenteritis, colitis, enterocolitis | 20 | 1.4 |
+| Vomiting | 15 | 0 |
+| Nausea | 13 | 0 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Rash Includes rash, rash maculo-papular, drug eruption, eczema, eczema asteatotic, dermatitis, dermatitis acneiform, dermatitis contact, rash erythematous, rash macular, rash papular, rash pruritic, seborrhoeic dermatitis, dermatitis psoriasiform | 20 | 0.5 |
+| Pruritus | 11 | 0 |
+| Endocrine Disorders |  |  |
+| Hypothyroidism | 14 | 0.5 |
+| Infections and Infestations |  |  |
+| Upper respiratory tract infection | 13 | 0 |
+| Nervous System Disorders |  |  |
+| Headache | 11 | 0.5 |
+| Peripheral neuropathyIncludes neuropathy peripheral, peripheral sensory neuropathy, hypoesthesia, paresthesia, dysesthesia, polyneuropathy | 10 | 0 |
+
+Other clinically important adverse reactions that occurred in less than 10% of patients on Trial 6 included infusion reactions (9%), hyperthyroidism (3%), pneumonitis (3%), uveitis and myositis (1% each), myelitis and myocarditis (0.5% each).
+
+Table 8: Selected Laboratory Abnormalities Worsened from Baseline Occurring in ≥15% of cHL Patients Receiving KEYTRUDA (Trial 6)
+
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 208 to 209 patients) | All GradesGraded per NCI CTCAE v4.0 (%) | Grade 3-4 (%) |
+| --- | --- | --- |
+|  | KEYTRUDA 200 mg every 3 weeks |  |
+| Chemistry |  |  |
+| HypertransaminasemiaIncludes elevation of AST or ALT | 34% | 2% |
+| Alkaline phosphatase increased | 17% | 0% |
+| Creatinine increased | 15% | 0.5% |
+| Hematology |  |  |
+| Anemia | 30% | 6% |
+| Thrombocytopenia | 27% | 4% |
+| Neutropenia | 24% | 7% |
+
+Hyperbilirubinemia occurred in less than 15% of patients on Trial 6 (10% all Grades, 2.4% Grade 3-4).
 
 ## 6.2 Immunogenicity
 

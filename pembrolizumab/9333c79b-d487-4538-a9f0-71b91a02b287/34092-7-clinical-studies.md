@@ -19,9 +19,9 @@ A total of 834 patients were randomized: 277 patients to the KEYTRUDA 10 mg/kg e
 The study population characteristics were: median age of 62 years (range: 18 to 89 years), 60% male, 98% White, 66% had no prior systemic therapy for metastatic disease, 69% ECOG PS of 0, 80% had PD-L1 positive melanoma, 18% had PD-L1 negative melanoma, and 2% had unknown PD-L1 status using the IUO assay, 65% had M1c stage disease, 68% with normal LDH, 36% with reported BRAF mutation-positive melanoma, and 9% with a history of brain metastases.
 Among patients with BRAF mutation-positive melanoma, 139 (46%) were previously treated with a BRAF inhibitor.
 
-The study demonstrated statistically significant improvements in OS and PFS for patients randomized to KEYTRUDA as compared to ipilimumab (Table 7 and Figure 1).
+The study demonstrated statistically significant improvements in OS and PFS for patients randomized to KEYTRUDA as compared to ipilimumab (Table 9 and Figure 1).
 
-Table 7: Efficacy Results in Trial 1
+Table 9: Efficacy Results in Trial 1
 
 |  | KEYTRUDA 10 mg/kg every 3 weeks n=277 | KEYTRUDA 10 mg/kg every 2 weeks n=279 | Ipilimumab 3 mg/kg every 3 weeks n=278 |
 | --- | --- | --- | --- |
@@ -42,9 +42,6 @@ Table 7: Efficacy Results in Trial 1
 Among the 91 patients randomized to KEYTRUDA 10 mg/kg every 3 weeks with an objective response, response durations ranged from 1.4+ to 8.1+ months.
 Among the 94 patients randomized to KEYTRUDA 10 mg/kg every 2 weeks with an objective response, response durations ranged from 1.4+ to 8.2 months.
 
-| Figure 1: Kaplan-Meier Curve for Overall Survival in Trial 1 |
-| --- |
-
 Ipilimumab-Refractory Melanoma (Trial 2)
 
 The safety and efficacy of KEYTRUDA were evaluated in Trial 2, a multicenter, randomized (1:1:1), active-controlled trial.
@@ -63,10 +60,10 @@ The treatment arms consisted of KEYTRUDA 2 mg/kg (n=180) or 10 mg/kg (n=181) eve
 Among the 540 randomized patients, the median age was 62 years (range: 15 to 89 years), with 43% age 65 or older; 61% male; 98% White; and ECOG performance score was 0 (55%) and 1 (45%).
 Twenty-three percent of patients were BRAF V600 mutation positive, 40% had elevated LDH at baseline, 82% had M1c disease, and 73% had two or more prior therapies for advanced or metastatic disease.
 
-The study demonstrated a statistically significant improvement in PFS for patients randomized to KEYTRUDA as compared to control arm (Table 8).
+The study demonstrated a statistically significant improvement in PFS for patients randomized to KEYTRUDA as compared to control arm (Table 10).
 There was no statistically significant difference between KEYTRUDA 2 mg/kg and chemotherapy or between KEYTRUDA 10 mg/kg and chemotherapy in the interim OS analysis with 220 deaths (59% of required events for the final analysis).
 
-Table 8: Efficacy Results in Trial 2
+Table 10: Efficacy Results in Trial 2
 
 |  | n=180 | n=181 | n=179 |
 | --- | --- | --- | --- |
@@ -82,9 +79,6 @@ Table 8: Efficacy Results in Trial 2
 | ORR (95% CI) | 21% (15, 28) | 25% (19, 32) | 4% (2, 9) |
 | Complete response rate | 2% | 3% | 0% |
 | Partial response rate | 19% | 23% | 4% |
-
-| Figure 2: Kaplan-Meier Curve for Progression-Free Survival in Trial 2 |
-| --- |
 
 Among the 38 patients randomized to KEYTRUDA 2 mg/kg with an objective response, response durations ranged from 1.3+ to 11.5+ months.
 Among the 46 patients randomized to KEYTRUDA 10 mg/kg with an objective response, response durations ranged from 1.1+ to 11.1+ months.
@@ -118,9 +112,9 @@ A total of 66 patients in the chemotherapy arm received KEYTRUDA at the time of 
 
 The trial demonstrated a statistically significant improvement in PFS for patients randomized to KEYTRUDA as compared with chemotherapy.
 Additionally, a pre-specified interim OS analysis at 108 events (64% of the events needed for final analysis) also demonstrated statistically significant improvement of OS for patients randomized to KEYTRUDA as compared with chemotherapy.
-Table 9 summarizes key efficacy measures for Trial 5.
+Table 11 summarizes key efficacy measures for Trial 5.
 
-Table 9: Efficacy Results in Trial 5
+Table 11: Efficacy Results in Trial 5
 
 |  | n=154 | n=151 |
 | --- | --- | --- |
@@ -143,9 +137,6 @@ Table 9: Efficacy Results in Trial 5
 | Median duration of response in months (range) | NR (1.9+, 14.5+) | 6.3 (2.1+, 12.6+) |
 | NR = not reached |  |  |
 
-| Figure 3: Kaplan-Meier Curve for Overall Survival in Trial 5 |
-| --- |
-
 Previously treated NSCLC (Trial 3)
 
 Trial 3 was a randomized, multicenter, open-label, active-controlled trial in patients with metastatic NSCLC that had progressed following platinum-containing chemotherapy, and if appropriate, targeted therapy for EGFR or ALK genomic tumor aberrations.
@@ -163,10 +154,10 @@ A total of 1033 patients were randomized: 344 to the KEYTRUDA 2 mg/kg arm, 346 p
 The study population characteristics were: median age 63 years (range: 20 to 88), 42% age 65 or older; 61% male; 72% White and 21% Asian; 66% ECOG performance status 1; 43% with high PD-L1 tumor expression; 21% with squamous, 70% with non-squamous, and 8% with mixed, other or unknown histology; 91% metastatic (M1) disease; 15% with history of brain metastases; and 8% and 1% with EGFR and ALK genomic aberrations, respectively.
 All patients had received prior therapy with a platinum-doublet regimen, 29% received two or more prior therapies for their metastatic disease.
 
-Tables 10 and 11 summarize key efficacy measures in the subgroup with TPS ≥50% population and in all patients, respectively.
+Tables 12 and 13 summarize key efficacy measures in the subgroup with TPS ≥50% population and in all patients, respectively.
 The Kaplan-Meier curve for OS (TPS ≥1%) is shown in Figure 4.
 
-Table 10: Efficacy Results of the Subgroup of Patients with TPS ≥50% in Trial 3
+Table 12: Efficacy Results of the Subgroup of Patients with TPS ≥50% in Trial 3
 
 | Endpoint | KEYTRUDA 2 mg/kg every 3 weeks n=139 | KEYTRUDA 10 mg/kg every 3 weeks n=151 | Docetaxel 75 mg/m2 every 3 weeks n=152 |
 | --- | --- | --- | --- |
@@ -186,7 +177,7 @@ Table 10: Efficacy Results of the Subgroup of Patients with TPS ≥50% in Trial 
 | Median duration of response in months (range) | NR (0.7+, 16.8+) | NR (2.1+, 17.8+) | 8.1 (2.1+, 8.8+) |
 | NR = not reached |  |  |  |
 
-Table 11: Efficacy Results of All Randomized Patients (TPS ≥1%) in Trial 3
+Table 13: Efficacy Results of All Randomized Patients (TPS ≥1%) in Trial 3
 
 | Endpoint | KEYTRUDA 2 mg/kg every 3 weeks n=344 | KEYTRUDA 10 mg/kg every 3 weeks n=346 | Docetaxel 75 mg/m2 every 3 weeks n=343 |
 | --- | --- | --- | --- |
@@ -206,12 +197,9 @@ Table 11: Efficacy Results of All Randomized Patients (TPS ≥1%) in Trial 3
 | Median duration of response in months (range) | NR (0.7+, 20.1+) | NR (2.1+, 17.8+) | 6.2 (1.4+, 8.8+) |
 | NR = not reached |  |  |  |
 
-| Figure 4: Kaplan-Meier Curve for Overall Survival in all Randomized Patients in Trial 3 (TPS ≥1%) |
-| --- |
-
 ## 14.3 Head and Neck Cancer
 
-The efficacy of KEYTRUDA was investigated in Trial 4, a multicenter, nonrandomized, open-label, multi-cohort study that enrolled 174 patients with recurrent or metastatic HNSCC who had disease progression on or after platinum-containing chemotherapy administered for recurrent or metastatic HNSCC or following platinum-containing chemotherapy administered as part of induction, concurrent, or adjuvant therapy.
+The efficacy of KEYTRUDA was investigated in Trial 4, a multicenter, non-randomized, open-label, multi-cohort study that enrolled 174 patients with recurrent or metastatic HNSCC who had disease progression on or after platinum-containing chemotherapy administered for recurrent or metastatic HNSCC or following platinum-containing chemotherapy administered as part of induction, concurrent, or adjuvant therapy.
 Patients with active autoimmune disease, a medical condition that required immunosuppression, evidence of interstitial lung disease, or ECOG PS ≥2 were ineligible.
 
 Patients received KEYTRUDA 10 mg/kg every 2 weeks (n=53) or 200 mg every 3 weeks (n=121) until unacceptable toxicity or disease progression that was symptomatic, was rapidly progressive, required urgent intervention, occurred with a decline in performance status, or was confirmed at least 4 weeks later with repeat imaging.
@@ -226,3 +214,30 @@ The ORR was 16% (95% CI: 11, 22) with a complete response rate of 5%.
 The median follow-up time was 8.9 months.
 Among the 28 responding patients, the median duration of response had not been reached (range 2.4+ to 27.7+ months), with 23 patients having responses of 6 months or longer.
 The ORR and duration of response were similar irrespective of dosage regimen (10 mg/kg every 2 weeks or 200 mg every 3 weeks) or HPV status.
+
+## 14.4 Classical Hodgkin Lymphoma
+
+The efficacy of KEYTRUDA was investigated in 210 patients with relapsed or refractory cHL, enrolled in a multicenter, non-randomized, open-label study (Trial 6).
+Patients with active, non-infectious pneumonitis, an allogeneic HSCT within the past 5 years (or greater than 5 years but with symptoms of GVHD), active autoimmune disease, a medical condition that required immunosuppression, or an active infection requiring systemic therapy were ineligible for the trial.
+Patients received KEYTRUDA at a dose of 200 mg every 3 weeks until unacceptable toxicity or documented disease progression, or for up to 24 months in patients that did not progress.
+Disease assessment was performed every 12 weeks.
+The major efficacy outcome measures (ORR, CRR, and duration of response) were assessed by blinded independent central review according to the 2007 revised International Working Group (IWG) criteria.
+
+Among the 210 patients, the baseline characteristics were: median age of 35 years (range: 18 to 76), 9% age 65 or older; 54% male; 88% White; 49% had an ECOG performance status (PS) of 0 and 51% had an ECOG PS of 1.
+The median number of prior lines of therapy administered for the treatment of cHL was 4 (range 1 to 12).
+Fifty-eight percent were refractory to the last prior therapy, including 35% with primary refractory disease and 14% whose disease was chemo-refractory to all prior regimens.
+Sixty-one percent of patients had undergone prior auto-HSCT, 83% had received prior brentuximab and 36% of patients had prior radiation therapy.
+
+Efficacy results for Trial 6 are summarized in Table 14.
+
+Table 14: Efficacy Results in Trial 6
+
+|  | Trial 6Median follow-up time of 9.4 months |
+| --- | --- |
+| Endpoint | N=210 |
+| Overall Response Rate |  |
+| ORR %, (95% CI) | 69% (62, 75) |
+| Complete Remission | 22% |
+| Partial Remission | 47% |
+| Response Duration |  |
+| Median in months (range) | 11.1 (0.0+, 11.1) Based on patients (n=145) with a response by independent review |

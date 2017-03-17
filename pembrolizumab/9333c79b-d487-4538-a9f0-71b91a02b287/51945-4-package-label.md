@@ -15,7 +15,7 @@ Reconstituted solution requires further dilution prior to administration.
 
 Rx only
 
-Single-use vial.
+Single-dose vial.
 Discard unused portion.
 
 # PRINCIPAL DISPLAY PANEL - 100 mg/4 mL Vial Carton
@@ -32,5 +32,5 @@ Dispense the enclosed Medication Guide to each patient.
 
 Requires dilution prior to administration.
 
-Rx only Single-use vial.
+Rx only Single-dose vial.
 Discard unused portion.

@@ -22,3 +22,4 @@ The peak concentration (Cmax), trough concentration (Cmin), and area under the p
 
 Specific Populations: The following factors had no clinically important effect on the CL of pembrolizumab: age (range: 15 to 94 years), sex, race (94% White), renal impairment (eGFR greater than or equal to 15 mL/min/1.73 m2), mild hepatic impairment (total bilirubin less than or equal to upper limit of normal (ULN) and AST greater than ULN or total bilirubin between 1 and 1.5 times ULN and any AST), or tumor burden.
 There is insufficient information to determine whether there are clinically important differences in the CL of pembrolizumab in patients with moderate or severe hepatic impairment.
+Pembrolizumab concentrations with weight-based dosing at 2 mg/kg every 3 weeks in pediatric patients (2 to 17 years) are comparable to those of adults at the same dose.
