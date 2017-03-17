@@ -1,6 +1,4 @@
-# DESCRIPTION
-
-FLAREX® (fluorometholone acetate ophthalmic suspension) is a corticosteroid prepared as a sterile topical ophthalmic suspension.
+DESCRIPTION: FLAREX® (fluorometholone acetate ophthalmic suspension) is a corticosteroid prepared as a sterile topical ophthalmic suspension.
 The active ingredient, fluorometholone acetate, is a white to creamy white powder with an empirical formula of C24H31FO5 and a molecular weight of 418.5.
 Its chemical name is 9-fluoro-11β, 17-dihydroxy-6α-methylpregna-1, 4-diene-3, 20-dione 17-acetate.
 The chemical structure of Fluorometholone Acetate is presented below:

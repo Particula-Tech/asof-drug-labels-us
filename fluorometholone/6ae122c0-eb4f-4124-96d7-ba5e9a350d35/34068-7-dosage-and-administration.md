@@ -1,6 +1,4 @@
-# DOSAGE AND ADMINISTRATION
-
-Shake Well Before Using.
+DOSAGE AND ADMINISTRATION: Shake Well Before Using.
 One to two drops instilled into the conjunctival sac(s) four times daily.
 During the initial 24 to 48 hours the dosage may be safely increased to two drops every two hours.
 If no improvement after two weeks, consult physician.
