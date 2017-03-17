@@ -1,15 +1,31 @@
-# Package Label - Principal Display Panel - Neostigmine Methylsulfate - 0.5 mg Vial - NDC 76014-902-33
+# PRINCIPAL DISPLAY PANEL - NDC 76014-902-33 - 0.5 mg Vial Label
 
-# Package Label - Principal Display Panel - Neostigmine Methylsulfate - 0.5 mg Carton - NDC 76014-902-33
+# PRINCIPAL DISPLAY PANEL - NDC 76014-902-33 - 0.5 mg Carton Label
 
-# Package Label - Principal Display Panel - Neostigmine Methylsulfate – 0.5 mg Ten Carton Package Flat Label - NDC 76014-902-10
+# PRINCIPAL DISPLAY PANEL - NDC 76014-902-10 - 0.5 mg 10-Carton Package Flat Label
 
-# Package Label - Principal Display Panel - Neostigmine Methylsulfate – 0.5 mg Ten Carton Package ECL - NDC 76014-902-10
+# PRINCIPAL DISPLAY PANEL - NDC 76014-902-10 - 0.5 mg 10-Carton Package Extended Content Label
 
-# Package Label - Principal Display Panel - Neostigmine Methylsulfate - 1.0 mg Vial - NDC 76014-903-33
+# PRINCIPAL DISPLAY PANEL - NDC 76014-903-33 - 1.0 mg Vial Label
 
-# Package Label - Principal Display Panel - Neostigmine Methylsulfate - 1.0 mg Carton - NDC 76014-903-33
+# PRINCIPAL DISPLAY PANEL - NDC 76014-903-33 - 1.0 mg Carton Label
 
-# Package Label - Principal Display Panel - Neostigmine Methylsulfate – 1.0 mg Ten Carton Package Flat Label - NDC 76014-903-10
+# PRINCIPAL DISPLAY PANEL - NDC 76014-903-10 - 1.0 mg 10-Carton Package Flat Label
 
-# Package Label - Principal Display Panel - Neostigmine Methylsulfate - 1.0 mg Ten Carton Package ECL - NDC 76014-903-10
+# PRINCIPAL DISPLAY PANEL - NDC 76014-903-10 - 1.0 mg 10-Carton Package Extended Content Label
+
+# PRINCIPAL DISPLAY PANEL - NDC 76014-902-33 - 0.5 mg Alternate Vial Label
+
+# PRINCIPAL DISPLAY PANEL - NDC 76014-902-33 - 0.5 mg Alternate Carton Label
+
+# PRINCIPAL DISPLAY PANEL - NDC 76014-902-10 - 0.5 mg Alternate 10-Carton Package Flat Label
+
+# PRINCIPAL DISPLAY PANEL - NDC 76014-902-10 - 0.5 mg Alternate 10-Carton Package Extended Content Label
+
+# PRINCIPAL DISPLAY PANEL - NDC 76014-903-33 - 1.0 mg Alternate Vial Label
+
+# PRINCIPAL DISPLAY PANEL - NDC 76014-903-33 - 1.0 mg Alternate Carton Label
+
+# PRINCIPAL DISPLAY PANEL - NDC 76014-903-10 - 1.0 mg Alternate 10-Carton Package Flat Label
+
+# PRINCIPAL DISPLAY PANEL - NDC 76014-903-10 - 1.0 mg Alternate 10-Carton Package Extended Content Label

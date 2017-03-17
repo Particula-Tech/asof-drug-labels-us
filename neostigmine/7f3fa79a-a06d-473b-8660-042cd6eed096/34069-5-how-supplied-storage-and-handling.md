@@ -15,6 +15,11 @@ Store in carton until time of use.
 
 Manufactured for:
 
-Éclat Pharmaceuticals
+Avadel
 
-Chesterfield, MO 63005 USA
+Avadel Legacy Pharmaceuticals, LLC
+
+Chesterfield, MO 63005
+
+Rev.
+01/17

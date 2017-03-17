@@ -19,12 +19,12 @@ Data
 
 Animal Data
 
-In embryofetal development studies, rats and rabbits were administered neostigmine methylsulfate at human equivalent doses (HED, on a mg/m2 basis) of 1.6, 4 and 8.1 mcg/kg/day 3.2, 8.1, and 13 mcg/kg/day, respectively, during the period of organogenesis (Gestation Days 6 through 17 for rats and Gestation Days 6 through 18 for rabbits).
-There was no evidence for a teratogenic effect in rats and rabbits up to HED 8.1 and 13 mcg/kg/day, which are approximately 0.097-times and 0.16-times the MRHD of 5 mg/60 kg, respectively in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
+In embryofetal development studies, rats and rabbits were administered neostigmine methylsulfate at human equivalent doses (HED, on a mg/m2 basis) of 1.6, 4 and 8.1 mcg/kg/day and 3.2, 8.1, and 13 mcg/kg/day, respectively, during the period of organogenesis (Gestation Days 6 through 17 for rats and Gestation Days 6 through 18 for rabbits).
+There was no evidence for a teratogenic effect in rats and rabbits up to HED 8.1 and 13 mcg/kg/day, which are approximately 0.097 times and 0.16 times the MRHD of 5 mg/60 kg, respectively in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
 The studies resulted in exposures in the animals well below predicted exposures in humans.
 
 In a pre- and postnatal development study in rats, neostigmine methylsulfate was administered to pregnant female rats at human equivalent doses (HED) of 1.6, 4 and 8.1 mcg/kg/day from Day 6 of gestation through Day 20 of lactation, with weaning on Day 21.
-There were no adverse effects on physical development, behavior, learning ability, or fertility in the offspring at HED doses up to 8.1 mcg/kg/day which is 0.097-times the MRHD of 5 mg/60 kg on a mg/m2 basis in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
+There were no adverse effects on physical development, behavior, learning ability, or fertility in the offspring at HED doses up to 8.1 mcg/kg/day which is 0.097 times the MRHD of 5 mg/60 kg on a mg/m2 basis in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
 The studies resulted in exposures in the animals well below predicted exposures in humans.
 
 ## 8.2. Labor and Delivery
@@ -46,8 +46,7 @@ Recovery of neuromuscular activity occurs more rapidly with smaller doses of cho
 However, infants and small children may be at greater risk of complications from incomplete reversal of neuromuscular blockade due to decreased respiratory reserve.
 The risks associated with incomplete reversal outweigh any risk from giving higher doses of BLOXIVERZ (up to 0.07 mg/kg or up to a total of 5 mg, whichever is less).
 
-The dose of BLOXIVERZ required to reverse neuromuscular blockade in children varies between 0.03 mg - 0.07 mg/kg, the same dose range shown to be effective in adults, and should be selected using the same criteria as used for adult patients.
-[see Clinical Pharmacology (12.3)]
+The dose of BLOXIVERZ required to reverse neuromuscular blockade in children varies between 0.03 mg - 0.07 mg/kg, the same dose range shown to be effective in adults, and should be selected using the same criteria as used for adult patients [see Clinical Pharmacology (12.3)].
 
 Since the blood pressure in pediatric patients, particularly infants and neonates, is sensitive to changes in heart rate, the effects of an anticholinergic agent (e.g., atropine) should be observed prior to administration of neostigmine to lessen the probability of bradycardia and hypotension.
 
@@ -56,8 +55,7 @@ Since the blood pressure in pediatric patients, particularly infants and neonate
 Because elderly patients are more likely to have decreased renal function, BLOXIVERZ should be used with caution and monitored for a longer period in elderly patients.
 The duration of action of neostigmine methylsulfate is prolonged in the elderly; however, elderly patients also experience slower spontaneous recovery from neuromuscular blocking agents.
 Therefore, dosage adjustments are not generally needed in geriatric patients; however, they should be monitored for longer periods than younger adults to assure additional doses of BLOXIVERZ are not required.
-The duration of monitoring should be predicated on the anticipated duration of action for the NMBA used on the patient.
-[see Dosage and Administration (2.3)].
+The duration of monitoring should be predicated on the anticipated duration of action for the NMBA used on the patient [see Dosage and Administration (2.3)].
 
 ## 8.6. Renal Impairment
 
