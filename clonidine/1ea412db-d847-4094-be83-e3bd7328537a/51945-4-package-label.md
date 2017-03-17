@@ -1,17 +1,41 @@
-# Package/Label Display Panel
-
-Clonidine Hydrochloride USP, 0.1mg, 100 Tablets
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
 NDC 68001-237-00
 
-# Package/Label Display Panel
+Rx Only
 
-Clonidine Hydrochloride USP, 0.2mg, 100 Tablets
+Clonidine Hydrochloride Tablets, USP
+
+0.1 mg
+
+100 Tablets
+
+BluePoint
+
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
 NDC 68001-238-00
 
-# Package/Label Display Panel
+Rx Only
 
-Clonidine Hydrochloride USP, 0.3mg, 100 Tablets
+Clonidine Hydrochloride Tablets, USP
+
+0.2 mg
+
+100 Tablets
+
+BluePoint
+
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
 NDC 68001-239-00
+
+Rx Only
+
+Clonidine Hydrochloride Tablets, USP
+
+0.3 mg
+
+100 Tablets
+
+BluePoint

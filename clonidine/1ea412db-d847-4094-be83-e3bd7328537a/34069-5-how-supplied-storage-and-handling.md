@@ -10,8 +10,12 @@ Clonidine hydrochloride tablets, USP are supplied as follows:
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+Store at 25ºC (77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF) [See USP Controlled Room Temperature].
 
-Manufactured by: Actavis Elizabeth LLC 200 Elmora Avenue Elizabeth, NJ 07207 USA
+Manufactured by: Actavis Elizabeth LLC Elizabeth, NJ 07207 USA
 
-For BluePoint Laboratories Revised — December 2013
+For BluePoint Laboratories
+
+40-9247
+
+Revised — December 2016

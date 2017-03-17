@@ -1,12 +1,14 @@
 # WARNINGS
 
-Withdrawal: Patients should be instructed not to discontinue therapy without consulting their physician.
+## Withdrawal
+
+Patients should be instructed not to discontinue therapy without consulting their physician.
 Sudden cessation of clonidine treatment has, in some cases, resulted in symptoms such as nervousness, agitation, headache, and tremor accompanied or followed by a rapid rise in blood pressure and elevated catecholamine concentrations in the plasma.
 The likelihood of such reactions to discontinuation of clonidine therapy appears to be greater after administration of higher doses or continuation of concomitant beta-blocker treatment and special caution is therefore advised in these situations.
 Rare instances of hypertensive encephalopathy, cerebrovascular accidents and death have been reported after clonidine withdrawal.
-When discontinuing therapy with clonidine hydrochloride tablets, USP, the physician should reduce the dose gradually over 2 to 4 days to avoid withdrawal symptomatology.
+When discontinuing therapy with clonidine hydrochloride tablets, the physician should reduce the dose gradually over 2 to 4 days to avoid withdrawal symptomatology.
 
-An excessive rise in blood pressure following discontinuation of clonidine therapy can be reversed by administration of oral clonidine hydrochloride or by intravenous phentolamine.
+An excessive rise in blood pressure following discontinuation of clonidine hydrochloride tablets therapy can be reversed by administration of oral clonidine hydrochloride or by intravenous phentolamine.
 If therapy is to be discontinued in patients receiving a beta-blocker and clonidine concurrently, the beta-blocker should be withdrawn several days before the gradual discontinuation of clonidine hydrochloride tablets.
 
 Because children commonly have gastrointestinal illnesses that lead to vomiting, they may be particularly susceptible to hypertensive episodes resulting from abrupt inability to take medication.
@@ -23,6 +25,11 @@ The sympatholytic action of clonidine may worsen sinus node dysfunction and atri
 There are post-marketing reports of patients with conduction abnormalities and/or taking other sympatholytic drugs who developed severe bradycardia requiring IV atropine, IV isoproterenol and temporary cardiac pacing while taking clonidine.
 
 In hypertension caused by pheochromocytoma, no therapeutic effect of clonidine hydrochloride tablets can be expected.
+
+## Perioperative Use
+
+Administration of clonidine hydrochloride tablets should be continued to within 4 hours of surgery and resumed as soon as possible thereafter.
+Blood pressure should be carefully monitored during surgery and additional measures to control blood pressure should be available if required.
 
 ## Information for Patients
 
@@ -48,7 +55,9 @@ Amitriptyline in combination with clonidine enhances the manifestation of cornea
 Based on observations in patients in a state of alcoholic delirium it has been suggested that high intravenous doses of clonidine may increase the arrhythmogenic potential (QT-prolongation, ventricular fibrillation) of high intravenous doses of haloperidol.
 Causal relationship and relevance for clonidine oral tablets have not been established.
 
-Toxicology: In several studies with oral clonidine hydrochloride, a dose-dependent increase in the incidence and severity of spontaneous retinal degeneration was seen in albino rats treated for six months or longer.
+### Toxicology
+
+In several studies with oral clonidine hydrochloride, a dose-dependent increase in the incidence and severity of spontaneous retinal degeneration was seen in albino rats treated for six months or longer.
 Tissue distribution studies in dogs and monkeys showed a concentration of clonidine in the choroid.
 
 In view of the retinal degeneration seen in rats, eye examinations were performed during clinical trials in 908 patients before, and periodically after, the start of clonidine therapy.
@@ -71,10 +80,10 @@ In a separate experiment, fertility of female rats appeared to be affected at do
 
 Pregnancy Category C
 
-Reproduction studies performed in rabbits at doses up to approximately 3 times the oral maximum recommended daily human dose (MRDHD) of clonidine hydrochloride tablets, USP produced no evidence of a teratogenic or embryotoxic potential in rabbits.
+Reproduction studies performed in rabbits at doses up to approximately 3 times the oral maximum recommended daily human dose (MRDHD) of clonidine hydrochloride tablets produced no evidence of a teratogenic or embryotoxic potential in rabbits.
 In rats, however, doses as low as 1/3 the oral MRDHD (1/15 the MRDHD on a mg/m2 basis) of clonidine were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating.
 Increased resorptions were not associated with treatment at the same time or at higher dose levels (up to 3 times the oral MRDHD) when the dams were treated on gestation days 6 to 15.
-Increases in resorption were observed at much higher dose levels (40 times the oral MRDHD on a mg/kg basis; 4 to 8 times the MRDHD on a mg/m2 basis) in mice and rats treated on gestation days 1 to14 (lowest dose employed in the study was 500 mcg/kg).
+Increases in resorption were observed at much higher dose levels (40 times the oral MRDHD on a mg/kg basis; 4 to 8 times the MRDHD on a mg/m2 basis) in mice and rats treated on gestation days 1 to 14 (lowest dose employed in the study was 500 mcg/kg).
 
 No adequate, well-controlled studies have been conducted in pregnant women.
 Clonidine crosses the placental barrier (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
@@ -82,7 +91,7 @@ Because animal reproduction studies are not always predictive of human response,
 
 ## Nursing Mothers
 
-As clonidine hydrochloride tablets, USP are excreted in human milk, caution should be exercised when clonidine hydrochloride is administered to a nursing woman.
+As clonidine hydrochloride is excreted in human milk, caution should be exercised when clonidine hydrochloride tablets are administered to a nursing woman.
 
 ## Pediatric Use
 

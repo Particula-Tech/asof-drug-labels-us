@@ -5,9 +5,9 @@ This action results in reduced sympathetic outflow from the central nervous syst
 Clonidine hydrochloride tablets act relatively rapidly.
 The patient’s blood pressure declines within 30 to 60 minutes after an oral dose, the maximum decrease occurring within 2 to 4 hours.
 Renal blood flow and glomerular filtration rate remain essentially unchanged.
-Normal postural reflexes are intact, therefore, orthostatic symptoms are mild and infrequent.
+Normal postural reflexes are intact; therefore, orthostatic symptoms are mild and infrequent.
 
-Acute studies with clonidine hydrochloride in humans have demonstrated a moderate reduction (15% to 20%) of cardiac output in the supine position with no change in the peripheral resistance: at a 45° tilt there is a smaller reduction in cardiac output and a decrease of peripheral resistance.
+Acute studies with clonidine hydrochloride in humans have demonstrated a moderate reduction (15% to 20%) of cardiac output in the supine position with no change in the peripheral resistance: at a 45 degree tilt there is a smaller reduction in cardiac output and a decrease of peripheral resistance.
 During long term therapy, cardiac output tends to return to control values, while peripheral resistance remains decreased.
 Slowing of the pulse rate has been observed in most patients given clonidine, but the drug does not alter normal hemodynamic response to exercise.
 
@@ -18,7 +18,9 @@ The exact relationship of these pharmacologic actions to the antihypertensive ef
 
 Clonidine acutely stimulates growth hormone release in both children and adults, but does not produce a chronic elevation of growth hormone with long-term use.
 
-Pharmacokinetics: The pharmacokinetics of clonidine is dose-proportional in the range of 100 to 600 mcg.
+## Pharmacokinetics
+
+The pharmacokinetics of clonidine is dose-proportional in the range of 100 to 600 mcg.
 The absolute bioavailability of clonidine on oral administration is 70% to 80%.
 Peak plasma clonidine levels are attained in approximately 1 to 3 hours.
 

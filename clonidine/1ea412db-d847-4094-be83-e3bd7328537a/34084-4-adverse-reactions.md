@@ -28,3 +28,5 @@ Musculoskeletal: Leg cramps and muscle or joint pain.
 Oro-otolaryngeal: Dryness of the nasal mucosa.
 
 Ophthalmological: Accommodation disorder, blurred vision, burning of the eyes, decreased lacrimation, and dryness of eyes.
+
+To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-432-8534 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
