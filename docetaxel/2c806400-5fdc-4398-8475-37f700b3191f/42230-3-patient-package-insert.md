@@ -128,7 +128,8 @@ The most common side effects of docetaxel injection concentrate include:
 - nausea and vomiting
 - diarrhea
 - mouth or lips sores
-- hair loss
+- hair loss: in most cases normal hair growth should return.
+  In some cases (frequency not known) permanent hair loss has been observed.
 - rash
 - redness of the eye, excess tearing
 - skin reactions at the site of docetaxel injection concentrate administration such as increased skin pigmentation, redness, tenderness, swelling, warmth or dryness of the skin
@@ -152,7 +153,6 @@ You can ask your pharmacist or doctor for information about docetaxel injection 
 For more information call 1-800-432-8534.
 
 What are the ingredients in docetaxel injection concentrate?
-
 Active ingredient: docetaxel
 
 Inactive ingredients: citric acid anhydrous, kollidon 12 PF (povidone P12), polysorbate 80 and ethanol
@@ -163,4 +163,4 @@ Made in Italy
 
 Distributed by: Actavis Pharma Inc. Parsippany, NJ 07054 USA
 
-Revised – April 2016
+Revised – February 2017

@@ -36,8 +36,7 @@ All patients treated on the docetaxel injection concentrate containing arms of t
 
 - Induction chemotherapy followed by radiotherapy (TAX323)For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of docetaxel injection concentrate is 75 mg/m2 as a 1 hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
   This regimen is administered every 3 weeks for 4 cycles.
-  Following chemotherapy, patients should receive radiotherapy.
-  [see Dosage and Administration (2.7)].
+  Following chemotherapy, patients should receive radiotherapy [see Dosage and Administration (2.7)].
 - Induction chemotherapy followed by chemoradiotherapy (TAX324) For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of docetaxel injection concentrate is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
   This regimen is administered every 3 weeks for 3 cycles.
   Following chemotherapy, patients should receive chemoradiotherapy [see Dosage and Administration (2.7)].
@@ -97,8 +96,7 @@ If an episode of febrile neutropenia, prolonged neutropenia or neutropenic infec
 If subsequent episodes of complicated neutropenia occur the docetaxel injection concentrate dose should be reduced from 60 mg/m2 to 45 mg/m2.
 In case of grade 4 thrombocytopenia the docetaxel injection concentrate dose should be reduced from 75 mg/m2 to 60 mg/m2.
 Patients should not be retreated with subsequent cycles of docetaxel injection concentrate until neutrophils recover to a level >1,500 cells/mm3 and platelets recover to a level >100,000 cells/mm3.
-Discontinue treatment if these toxicities persist.
-[see Warnings and Precautions (5.3)].
+Discontinue treatment if these toxicities persist [see Warnings and Precautions (5.3)].
 
 Recommended dose modifications for toxicities in patients treated with docetaxel injection concentrate in combination with cisplatin and fluorouracil are shown in Table 1.
 
@@ -172,7 +170,7 @@ Please refer to [see How Supplied/ Storage and Handling (16.3)].
 
 If docetaxel injection concentrate, or diluted infusion solution should come into contact with the skin or mucosa, wash immediately and thoroughly with soap and water.
 
-Do not use plasticized PVC equipment or devices that comes in direct contact with docetaxel injection solution during preparation and administration of solutions for infusion.
+Do not use plasticized PVC equipment or devices that come in direct contact with docetaxel injection solution during preparation and administration of solutions for infusion.
 In order to minimize patient exposure to the plasticizer DEHP (di-2-ethylhexyl phthalate), which may leach from PVC infusion bags or sets, the diluted docetaxel infusion solution should be stored in bottles made of glass, polypropylene or plastic bags made with polypropylene, polyolefin and administered through polyethylene-lined administration sets.
 
 One-vial Docetaxel Injection Concentrate
