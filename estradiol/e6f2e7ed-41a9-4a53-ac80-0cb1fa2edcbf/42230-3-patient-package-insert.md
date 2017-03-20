@@ -174,7 +174,7 @@ It may harm them.
 This leaflet provides a summary of the most important information about Vivelle-Dot.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask your healthcare provider or pharmacist for information about Vivelle-Dot that is written for health professionals.
-For more information, go to www.vivelle-dot.com or call the toll-free number Novartis Pharmaceuticals Corporation (1-888-NOW-NOVA or 1-888-669-6682).
+For more information, call the toll-free number Novartis Pharmaceuticals Corporation (1-888-NOW-NOVA or 1-888-669-6682).
 
 What are the ingredients in Vivelle-Dot?
 
@@ -182,4 +182,4 @@ Active ingredient: estradiol
 
 Inactive ingredients: a translucent polyolefin film, acrylic and silicone adhesives, oleyl alcohol, NF, povidone, USP, dipropylene glycol and a polyester release liner.
 
-T2014-77 July 2014
+T2017-36 March 2017

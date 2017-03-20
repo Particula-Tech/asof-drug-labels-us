@@ -14,19 +14,19 @@
    2004;292:1573-1580.
 5. Stefanick ML, et al. Effects of Conjugated Equine Estrogens on Breast Cancer and Mammography Screening in Postmenopausal Women With Hysterectomy.
    JAMA.
-   2006;295:1647-1657.
+   2006; 295:1647-1657.
 6. Chlebowski RT, et al. Influence of Estrogen Plus Progestin on Breast Cancer and Mammography in Healthy Postmenopausal Women.
    JAMA.
-   2003;289:3234-3253.
+   2003; 289:3234-3253.
 7. Anderson GL, et al. Effects of Estrogen Plus Progestin on Gynecologic Cancers and Associated Diagnostic Procedures.
    JAMA.
-   2003;290:1739-1748.
+   2003; 290:1739-1748.
 8. Shumaker SA, et al. Conjugated Equine Estrogens and Incidence of Probable Dementia and Mild Cognitive Impairment in Postmenopausal Women.
    JAMA.
-   2004;291:2947-2958.
+   2004; 291:2947-2958.
 9. Jackson RD, et al. Effects of Conjugated Equine Estrogen on Risk of Fractures and BMD in Postmenopausal Women With Hysterectomy: Results From the Women's Health Initiative Randomized Trial.
    J Bone Miner Res.
-   2006;21:817-828.
+   2006; 21:817-828.
 10. Hendrix SL, et al. Effects of Conjugated Equine Estrogen on Stroke in the Women's Health Initiative.
     Circulation.
-    2006;113:2425-2434.
+    2006; 113:2425-2434.

@@ -32,7 +32,7 @@ Patient Calendar Pack of 8 Systems……………………………………….
 
 Carton of 3 Patient Calendar Packs of 8 Systems…………………………NDC 0078-0346-45
 
-*See DESCRIPTION (11)
+[*see DESCRIPTION (11)]
 
 Storage and Handling
 

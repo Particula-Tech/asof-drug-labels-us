@@ -5,7 +5,7 @@ The following serious adverse reactions are discussed elsewhere in labeling:
 - Cardiovascular Disorders [see Boxed Warning, Warnings and Precautions, (5.1)]
 - Malignant Neoplasms [see Boxed Warning, Warnings and Precautions (5.2)]
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 There were no clinical trials conducted with Vivelle-Dot.
@@ -81,7 +81,7 @@ Nausea, vomiting, abdominal cramps, bloating, cholelithiasis, liver function tes
 Skin
 
 Application site reactions include localized bleeding, bruising, burning, discomfort, dryness, eczema, edema, erythema, erythema multiforme, erythema nodosum, inflammation, irritation, pain, papules and vesicles.
-Other skin reactions include paresthesia, skin discoloration, skin pigmentation, urticaria, swelling, loss of scalp hair, hirsutism, pruritus, rash.
+Other skin reactions include paresthesia, skin discoloration, skin pigmentation, urticaria, swelling, loss of scalp hair, hirsutism, pruritus, and rash.
 
 Eyes
 
