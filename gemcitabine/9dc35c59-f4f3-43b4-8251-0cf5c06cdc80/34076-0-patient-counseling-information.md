@@ -8,3 +8,10 @@
   Instruct patients to immediately contact their healthcare provider for changes in the color or volume of urine output or for increased bruising or bleeding [see Warnings and Precautions (5.4)].
 - Advise patients of the risks of hepatic toxicity including liver failure and death.
   Instruct patients to immediately contact their healthcare provider for signs of jaundice or for pain/tenderness in the right upper abdominal quadrant [see Warnings and Precautions (5.5)].
+
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
+
+Copyright © 1996, 2017, Eli Lilly and Company.
+All rights reserved.
+
+GEM-0002-USPI-20170315
