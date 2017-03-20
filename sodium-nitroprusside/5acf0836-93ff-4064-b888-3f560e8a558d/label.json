@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209387"
+  ],
+  "inn": "sodium-nitroprusside",
+  "labeler": "EXELA PHARMA SCIENCES, LLC",
+  "package_ndcs": [
+    "51754-1006-1"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION, CONCENTRATE",
+      "generic": "sodium nitroprusside",
+      "name": "NIPRIDE RTU"
+    }
+  ],
+  "setid": "5acf0836-93ff-4064-b888-3f560e8a558d",
+  "source": "dailymed"
+}
