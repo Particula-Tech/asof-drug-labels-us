@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA202428"
+  ],
+  "inn": "tazarotene",
+  "labeler": "Mayne Pharma LLC",
+  "package_ndcs": [
+    "51862-295-10",
+    "51862-295-50"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "tazarotene",
+      "name": "FABIOR"
+    }
+  ],
+  "setid": "ae0afed7-1d60-45fd-a08b-8db094618521",
+  "source": "dailymed"
+}
