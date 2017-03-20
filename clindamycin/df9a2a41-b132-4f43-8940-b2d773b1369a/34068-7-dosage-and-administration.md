@@ -4,10 +4,13 @@ If significant diarrhea occurs during therapy, this antibiotic should be discont
 
 Adults: Serious infections – 150 to 300 mg every 6 hours.
 More severe infections – 300 to 450 mg every 6 hours.
-Pediatric Patients: Serious infections – 8 to 16 mg/kg/day (4 to 8 mg/lb/day) divided into three or four equal doses.
+Pediatric Patients (for children who are able to swallow capsules): Serious infections – 8 to 16 mg/kg/day (4 to 8 mg/lb/day) divided into three or four equal doses.
 More severe infections – 16 to 20 mg/kg/day (8 to 10 mg/lb/day) divided into three or four equal doses.
 
 To avoid the possibility of esophageal irritation, CLEOCIN HCl Capsules should be taken with a full glass of water.
+
+CLEOCIN HCl Capsules are not suitable for children who are unable to swallow them whole.
+The capsules do not provide exact mg/kg doses therefore it may be necessary to use the clindamycin palmitate oral solution in some cases.
 
 Serious infections due to anaerobic bacteria are usually treated with CLEOCIN PHOSPHATE® Sterile Solution.
 However, in clinically appropriate circumstances, the physician may elect to initiate treatment or continue treatment with CLEOCIN HCl Capsules.

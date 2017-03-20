@@ -17,6 +17,10 @@ Serum levels exceed the MIC (minimum inhibitory concentration) for most indicate
 Clindamycin is widely distributed in body fluids and tissues (including bones).
 No significant levels of clindamycin are attained in the cerebrospinal fluid, even in the presence of inflamed meninges.
 
+### Metabolism
+
+In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly oxidized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
+
 ### Excretion
 
 The average biological half-life is 2.4 hours.
