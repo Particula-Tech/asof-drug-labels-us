@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA206699"
+  ],
+  "inn": "paricalcitol",
+  "labeler": "Amneal Biosciences",
+  "package_ndcs": [
+    "70121-1033-1",
+    "70121-1033-5",
+    "70121-1033-7",
+    "70121-1034-1",
+    "70121-1034-5",
+    "70121-1034-7",
+    "70121-1035-1",
+    "70121-1035-5",
+    "70121-1035-7",
+    "70121-1036-1",
+    "70121-1036-5",
+    "70121-1036-7"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "paricalcitol",
+      "name": "Paricalcitol"
+    }
+  ],
+  "setid": "8e0b016c-4bda-487e-b525-63abfb772761",
+  "source": "dailymed"
+}
