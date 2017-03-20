@@ -2,7 +2,7 @@ INSTRUCTIONS FOR USE
 
 Omeprazole delayed-release capsules (oh mep’ ra zole)
 
-Omeprazole delayed-release capsules Taking Omeprazole Delayed-Release Capsules with applesauce:
+Taking Omeprazole Delayed-Release Capsules with applesauce:
 
 1.
 Place 1 tablespoon of applesauce into a clean container.
@@ -24,4 +24,4 @@ APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP 10 mg, 20 mg and 40 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: January 2017
+Revised: February 2017

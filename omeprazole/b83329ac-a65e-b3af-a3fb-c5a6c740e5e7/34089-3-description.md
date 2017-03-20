@@ -12,5 +12,5 @@ Omeprazole Delayed-Release Capsules meet USP Dissolution Test 2.
 
 Omeprazole is supplied as delayed-release capsules for oral administration.
 Each delayed-release capsule contains either 10 mg, 20 mg or 40 mg of omeprazole in the form of enteric-coated granules with the following inactive ingredients: magnesium hydroxide, mannitol, methacrylic acid copolymer dispersion, povidone and triethyl citrate.
-The capsule shells have the following inactive ingredients: gelatin, red iron oxide and titanium dioxide.
+The capsule shells have the following inactive ingredients: D&C Red No. 28*, D&C Red No.33*, D&C Yellow No. 10*, FD&C Blue No. 1*, FD&C Red No. 40*, gelatin, iron oxide red* and titanium dioxide (*contains one or more of these ingredients).
 The capsule imprinting ink contains ammonium hydroxide, black iron oxide, ethyl alcohol, isopropyl alcohol, n-butyl alcohol, potassium hydroxide, propylene glycol and shellac.

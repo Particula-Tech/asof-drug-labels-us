@@ -193,30 +193,17 @@ Do not give omeprazole delayed-release capsules to other people, even if they ha
 It may harm them.
 
 This Medication Guide summarizes the most important information about omeprazole delayed-release capsules.
-
 For more information, ask your doctor.
 You can ask your doctor or pharmacist for information that is written for healthcare professionals.
+
+For more information contact Apotex Corp., Drug Safety at 1-800-706-5575.
 
 What are the ingredients in omeprazole delayed-release capsules?
 
 Active ingredient in omeprazole delayed-release capsules: omeprazole
 
 Inactive ingredients in omeprazole delayed-release capsules: magnesium hydroxide, mannitol, methacrylic acid copolymer dispersion, povidone and triethyl citrate.
-The capsule shells have the following inactive ingredients: gelatin, red iron oxide and titanium dioxide.
+The capsule shells have the following inactive ingredients: D&C Red No. 28*, D&C Red No.33*, D&C Yellow No. 10*, FD&C Blue No. 1*, FD&C Red No. 40*, gelatin, iron oxide red* and titanium dioxide (*contains one or more of these ingredients).
 The capsule imprinting ink contains ammonium hydroxide, black iron oxide, ethyl alcohol, isopropyl alcohol, n-butyl alcohol, potassium hydroxide, propylene glycol and shellac.
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-
-APOTEX INC.
-
-OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP
-
-10 mg, 20 mg and 40 mg
-
-| Manufactured by | Manufactured for |
-| --- | --- |
-| Apotex Inc. | Apotex Corp. |
-| Toronto, Ontario | Weston, Florida |
-| Canada M9L 1T9 | USA 33326 |
-
-Revised: January 2017

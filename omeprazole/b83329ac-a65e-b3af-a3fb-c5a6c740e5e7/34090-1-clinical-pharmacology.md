@@ -45,7 +45,7 @@ The increased CgA levels may cause false positive results in diagnostic investig
 
 Enterochromaffin-like (ECL) Cell Effects
 
-Human gastric biopsy specimens have been obtained from more than 3000 patients (both children and adults) treated with omeprazole in long-term clinical trials.
+Human gastric biopsy specimens have been obtained from more than 3,000 patients (both children and adults) treated with omeprazole in long-term clinical trials.
 The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
 However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
 
@@ -210,7 +210,7 @@ Nelfinavir: Following multiple doses of nelfinavir (1250 mg, twice daily) and om
 
 Atazanavir: Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hours before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
 
-Saquinavir: Following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
+Saquinavir: Following multiple dosing of saquinavir/ritonavir (1,000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
 
 AUC was increased by 82%, Cmax by 75%, and Cmin by 106%.
 The mechanism behind this interaction is not fully elucidated.

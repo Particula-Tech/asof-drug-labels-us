@@ -35,6 +35,6 @@ APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP 10 mg, 20 mg and 40 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: January 2017
+Revised: February 2017
 
-Revision: 20
+Revision: 21
