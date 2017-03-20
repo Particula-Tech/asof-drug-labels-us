@@ -13,6 +13,10 @@ An equilibrium state is reached by the third dose.
 
 No significant levels of clindamycin are attained in the cerebrospinal fluid even in the presence of inflamed meninges.
 
+## Metabolism
+
+In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly oxidized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
+
 ## Excretion
 
 Biologically inactive clindamycin phosphate disappears rapidly from the serum; the average elimination half-life is 6 minutes; however, the serum elimination half-life of active clindamycin is about 3 hours in adults and 2½ hours in pediatric patients.
