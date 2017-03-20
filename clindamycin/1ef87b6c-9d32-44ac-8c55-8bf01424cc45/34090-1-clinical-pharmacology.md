@@ -19,6 +19,10 @@ Clindamycin is widely distributed in body fluids and tissues (including bones).
 
 No significant levels of clindamycin are attained in the cerebrospinal fluid, even in the presence of inflamed meninges.
 
+### Metabolism
+
+In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly oxidized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
+
 ### Excretion
 
 Approximately 10% of the bioactivity is excreted in the urine and 3.6% in the feces; the remainder is excreted as bioinactive metabolites.
