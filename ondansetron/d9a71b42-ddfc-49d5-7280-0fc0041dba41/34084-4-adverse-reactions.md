@@ -9,7 +9,7 @@ A causal relationship to therapy with ZOFRAN (ondansetron) was unclear in many c
 
 ### Chemotherapy-induced Nausea and Vomiting
 
-Table 1.
+Table 2.
 Adverse Reactions Reported in >5% of Adult Patients Who Received Ondansetron at a Dosage of Three 0.15-mg/kg Doses
 
 |  | Number of Adult Patients with Reaction |  |  |
@@ -19,37 +19,25 @@ Adverse Reactions Reported in >5% of Adult Patients Who Received Ondansetron at 
 | Headache | 17% | 7% | 15% |
 | Fever | 8% | 5% | 3% |
 
-#### Cardiovascular:
+Cardiovascular: Rare cases of angina (chest pain), electrocardiographic alterations, hypotension, and tachycardia have been reported.
 
-Rare cases of angina (chest pain), electrocardiographic alterations, hypotension, and tachycardia have been reported.
+Gastrointestinal: Constipation has been reported in 11% of chemotherapy patients receiving multiday ondansetron.
 
-#### Gastrointestinal:
-
-Constipation has been reported in 11% of chemotherapy patients receiving multiday ondansetron.
-
-#### Hepatic:
-
-In comparative trials in cisplatin chemotherapy patients with normal baseline values of aspartate transaminase (AST) and alanine transaminase (ALT), these enzymes have been reported to exceed twice the upper limit of normal in approximately 5% of patients.
+Hepatic: In comparative trials in cisplatin chemotherapy patients with normal baseline values of aspartate transaminase (AST) and alanine transaminase (ALT), these enzymes have been reported to exceed twice the upper limit of normal in approximately 5% of patients.
 The increases were transient and did not appear to be related to dose or duration of therapy.
 On repeat exposure, similar transient elevations in transaminase values occurred in some courses, but symptomatic hepatic disease did not occur.
 
-#### Integumentary:
+Integumentary: Rash has occurred in approximately 1% of patients receiving ondansetron.
 
-Rash has occurred in approximately 1% of patients receiving ondansetron.
+Neurological: There have been rare reports consistent with, but not diagnostic of, extrapyramidal reactions in patients receiving ZOFRAN Injection, and rare cases of grand mal seizure.
 
-#### Neurological:
-
-There have been rare reports consistent with, but not diagnostic of, extrapyramidal reactions in patients receiving ZOFRAN Injection, and rare cases of grand mal seizure.
-
-#### Other:
-
-Rare cases of hypokalemia have been reported.
+Other: Rare cases of hypokalemia have been reported.
 
 ### Postoperative Nausea and Vomiting
 
-The adverse reactions in Table 2 have been reported in ≥2% of adults receiving ondansetron at a dosage of 4 mg intravenous over 2 to 5 minutes in clinical trials.
+The adverse reactions in Table 3 have been reported in ≥2% of adults receiving ondansetron at a dosage of 4 mg intravenous over 2 to 5 minutes in clinical trials.
 
-Table 2.
+Table 3.
 Adverse Reactions Reported in ≥2% (and with Greater Frequency than the Placebo Group) of Adult Patients Receiving Ondansetron at a Dosage of 4 mg Intravenous over 2 to 5 Minutes
 
 | Adverse Reactiona,b | ZOFRAN Injection4 mg Intravenous(n = 547) | Placebo(n = 547) |
@@ -115,4 +103,4 @@ Urticaria, Stevens-Johnson syndrome, and toxic epidermal necrolysis.
 
 Cases of transient blindness, predominantly during intravenous administration, have been reported.
 These cases of transient blindness were reported to resolve within a few minutes up to 48 hours.
-Transient blurred vision, in some cases associated with abnormalities of accommodation, have also been reported.
+Transient blurred vision, in some cases associated with abnormalities of accommodation, has also been reported.

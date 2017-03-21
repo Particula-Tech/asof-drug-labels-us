@@ -2,7 +2,7 @@
 
 ZOFRAN Injection, 2 mg/mL, is supplied as follows:
 
-NDC 0173-0442-00 20-mL multidose vials (Singles)
+NDC 0173-0442-00 20-mL multiple-dose vial (Singles)
 
-Storage: Store vials between 2° and 30°C (36° and 86°F).
+Storage: Store vials between 2° C and 30°C (36° F and 86°F).
 Protect from light.
