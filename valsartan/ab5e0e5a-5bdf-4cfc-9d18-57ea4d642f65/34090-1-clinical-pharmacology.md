@@ -4,7 +4,7 @@
 
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium.
-Valsartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland.
+Valsartan tablets block the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland.
 Its action is therefore independent of the pathways for angiotensin II synthesis.
 
 There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
@@ -37,7 +37,7 @@ In multiple-dose studies in hypertensive patients, valsartan had no notable effe
 
 Valsartan peak plasma concentration is reached 2 to 4 hours after dosing.
 Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.
-Absolute bioavailability for valsartan is about 25% (range 10% to 35%).
+Absolute bioavailability for valsartan tablets is about 25% (range 10% to 35%).
 The bioavailability of the suspension [see Dosage and Administration; Pediatric Hypertension (2.2)] is 1.6 times greater than with the tablet.
 With the tablet, food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
 AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range.
@@ -57,7 +57,7 @@ Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
 
 Special Populations:
 
-Pediatric: In a study of pediatric hypertensive patients (n = 26, 1 to 16 years of age) given single doses of a suspension of valsartan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
+Pediatric: In a study of pediatric hypertensive patients (n=26, 1 to 16 years of age) given single doses of a suspension of valsartan tablets (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
 
 Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
 No dosage adjustment is necessary [see Dosage and Administration (2.1)].
@@ -72,7 +72,7 @@ Age does not affect the apparent clearance in heart failure patients.
 
 Renal Insufficiency: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.
 Consequently, dose adjustment is not required in patients with mild-to-moderate renal dysfunction.
-No studies have been performed in patients with severe impairment of renal function (creatinine clearance < 10 mL/min).
+No studies have been performed in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
 Valsartan is not removed from the plasma by hemodialysis.
 In the case of severe renal disease, exercise care with dosing of valsartan [see Dosage and Administration (2.1)].
 

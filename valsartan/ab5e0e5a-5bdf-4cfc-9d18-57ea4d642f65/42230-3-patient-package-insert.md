@@ -1,4 +1,4 @@
-# PATIENT INFORMATION
+# Patient Package Insert
 
 VALSARTAN TABLETS, USP
 
@@ -197,6 +197,6 @@ Distributed by:
 
 Ohm Laboratories Inc.
 
-North Brunswick, NJ 08902 USA
+North Brunswick, NJ 08902
 
-August 2015 FDA-04
+February 2017 FDA-05

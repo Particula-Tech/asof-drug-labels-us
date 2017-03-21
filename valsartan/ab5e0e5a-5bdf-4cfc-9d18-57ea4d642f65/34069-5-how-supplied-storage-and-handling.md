@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Valsartan is available as tablets containing valsartan, USP 40 mg, 80 mg, 160 mg, or 320 mg.
+Valsartan tablets, USP are available as tablets containing valsartan 40 mg, 80 mg, 160 mg, or 320 mg.
 All strengths are packaged in bottles as described below.
 
 40 mg tablets are yellow colored, film-coated, oval-shaped tablets debossed with 'RX121' on one side and break line on the other side

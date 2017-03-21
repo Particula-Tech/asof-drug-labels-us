@@ -23,18 +23,18 @@ For children who can swallow tablets, the usual recommended starting dose is 1.3
 The dosage should be adjusted according to blood pressure response.
 Doses higher than 2.7 mg/kg (up to 160 mg) once daily have not been studied in pediatric patients 6 to 16 years old.
 
-For children who cannot swallow tablets, or children for whom the calculated dosage (mg/kg) does not correspond to the available tablet strengths of valsartan, the use of a suspension is recommended.
+For children who cannot swallow tablets, or children for whom the calculated dosage (mg/kg) does not correspond to the available tablet strengths of valsartan tablets, the use of a suspension is recommended.
 Follow the suspension preparation instructions below (see Preparation of Suspension) to administer valsartan as a suspension.
 When the suspension is replaced by a tablet, the dose of valsartan may have to be increased.
 The exposure to valsartan with the suspension is 1.6 times greater than with the tablet.
 
-No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate < 30 mL/min/1.73 m2[see Pediatric Use (8.4)].
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2 [see Pediatric Use (8.4)].
 
-Valsartan tablets are not recommended for patients < 6 years old [see Adverse Reactions (6.1), Clinical Studies (14.1)].
+Valsartan tablets are not recommended for patients <6 years old [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
 Preparation of Suspension (for 160 mL of a 4 mg/mL suspension)
 
-Add 80 mL of Ora-Plus ®* oral suspending vehicle to an amber glass bottle containing 8 valsartan 80 mg tablets, and shake for a minimum of 2 minutes.
+Add 80 mL of Ora-Plus®* oral suspending vehicle to an amber glass bottle containing 8 valsartan 80 mg tablets, and shake for a minimum of 2 minutes.
 Allow the suspension to stand for a minimum of 1 hour.
 After the standing time, shake the suspension for a minimum of 1 additional minute.
 Add 80 mL of Ora-Sweet SF®* oral sweetening vehicle to the bottle and shake the suspension for at least 10 seconds to disperse the ingredients.
