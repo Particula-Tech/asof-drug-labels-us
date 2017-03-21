@@ -6,7 +6,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adverse reactions associated with ophthalmic steroids including ILUVIEN include cataract formation and subsequent cataract surgery, elevated intraocular pressure, which may be associated with optic nerve damage, visual acuity and field defects, secondary ocular infection from pathogens including herpes simplex, and perforation of the globe where there is thinning of the cornea or sclera.
 
-ILUVIEN was studied in two multicenter, randomized, sham-controlled, masked trials in which patients with diabetic macular edema were treated with either ILUVIEN (n=375) or sham (n=185).
+ILUVIEN was studied in two multicenter, randomized, sham-controlled, masked trials in which patients with diabetic macular edema (DME) were treated with either ILUVIEN (n=375) or sham (n=185).
 
 Table 1 summarizes safety data available when the last subject completed the last 36 month follow up visit for the two primary ILUVIEN trials.
 In these trials, subjects were eligible for retreatment no earlier than 12 months after study entry.
@@ -22,7 +22,7 @@ Table 1: Ocular Adverse Reactions Reported by ≥1% of Patients and Non-ocular A
 | Cataract1 | 192/2352 (82%) | 61/1212 (50%) |  |  |
 | Myodesopsia | 80 (21%) | 17 (9%) |  |  |
 | Eye pain | 57 (15%) | 25 (14%) |  |  |
-| Conjunctival hemorrhage | 50 (13%) | 21 (11%) |  |  |
+| Conjunctival haemorrhage | 50 (13%) | 21 (11%) |  |  |
 | Posterior capsule opacification | 35 (9%) | 6 (3%) |  |  |
 | Eye irritation | 30 (8%) | 11 (6%) |  |  |
 | Vitreous detachment | 26 (7%) | 12 (7%) |  |  |

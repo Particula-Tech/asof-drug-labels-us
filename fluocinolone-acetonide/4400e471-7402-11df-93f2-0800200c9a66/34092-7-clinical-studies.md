@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of ILUVIEN was assessed in two three year, randomized (2:1, active: sham), multicenter, double-masked, parallel-groups studies that enrolled patients with diabetic macular edema that had previously been treated with laser photocoagulation.
+The efficacy of ILUVIEN was assessed in two three year, randomized (2:1, active: sham), multicenter, double-masked, parallel-groups studies that enrolled patients with diabetic macular edema (DME) that had previously been treated with laser photocoagulation.
 
 The primary efficacy endpoint in both trials was the proportion of subjects in whom vision had improved by 15 letters or more from baseline after 24 months of follow-up.
 

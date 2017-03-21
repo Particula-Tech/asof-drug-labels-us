@@ -10,4 +10,4 @@ ILUVIEN is contraindicated in patients with glaucoma, who have cup to disc ratio
 
 ## 4.3 Hypersensitivity
 
-ILUVIEN is contraindicated in patients with a known hypersensitivity to any components of this product.
+ILUVIEN is contraindicated in patients with known hypersensitivity to any components of this product.

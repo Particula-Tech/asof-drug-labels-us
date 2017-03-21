@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Corticosteroids inhibit inflammatory responses to a variety of inciting agents.
+Corticosteroids inhibit inflammatory responses to a variety of inciting agents including multiple inflammatory cytokines.
 They inhibit edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation.
 
 Corticosteroids are thought to act by inhibition of phospholipase A2 via induction of inhibitory proteins collectively called lipocortins.
