@@ -5,30 +5,20 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
 - Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
-
 - Cerebrovascular Adverse Events, Including Stroke [see WARNINGS AND PRECAUTIONS (5.2)]
-
 - Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.3)]
-
 - Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.4)]
-
-- Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.6)]
-
-- Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.7)]
-
+- Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.5)]
+- Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.6)]
+- Pathological Gambling and Other Compulsive Behaviors [see WARNINGS AND PRECAUTIONS (5.7)]
 - Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.8)]
-
-- Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.9)]
-
-- Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.10)]
-
-- Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.11)]
-
-- Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.12]
-
-- Suicide [see WARNINGS AND PRECAUTIONS (5.13)]
-
-- Dysphagia [see WARNINGS AND PRECAUTIONS (5.14)]
+- Falls [see WARNINGS AND PRECAUTIONS (5.9)]
+- Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.10)]
+- Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.11)]
+- Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.12)]
+- Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.13)]
+- Suicide [see WARNINGS AND PRECAUTIONS (5.14)]
+- Dysphagia [see WARNINGS AND PRECAUTIONS (5.15)]
 
 The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
 
@@ -315,7 +305,7 @@ Table 22: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatri
 | Rash | 2 | 1 |
 | aAdverse reactions reported by at least 2% of pediatric patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
 
-Adult Patients Receiving Aripiprazoleas Adjunctive Treatment of Major Depressive Disorder
+Adult Patients Receiving Aripiprazole as Adjunctive Treatment of Major Depressive Disorder
 
 The following findings are based on a pool of two placebo-controlled trials of patients with major depressive disorder in which aripiprazole was administered at doses of 2 mg to 20 mg as adjunctive treatment to continued antidepressant therapy.
 
@@ -376,7 +366,7 @@ Schizophrenia
 Dose response relationships for the incidence of treatment-emergent adverse events were evaluated from four trials in adult patients with schizophrenia comparing various fixed doses (2 mg/day, 5 mg/day, 10 mg/day, 15 mg/day, 20 mg/day, and 30 mg/day) of oral aripiprazole to placebo.
 This analysis, stratified by study, indicated that the only adverse reaction to have a possible dose response relationship, and then most prominent only with 30 mg, was somnolence [including sedation]; (incidences were placebo, 7.1%; 10 mg, 8.5%; 15 mg, 8.7%; 20 mg, 7.5%; 30 mg, 12.6%).
 
-In the study of pediatric patients (13 to 17 years of age) with schizophrenia, three common adverse reactions appeared to have a possible dose response relationship: extrapyramidal disorder (incidences were placebo, 5.0%; 10 mg, 13.0%; 30 mg, 21.6%); somnolence (incidences were placebo, 6.0%; 10 mg, 11.0%; 30 mg, 21.6%); and tremor (incidences were placebo, 2.0%; 10 mg, 2.0%; 30 mg, 11.8%).
+In the study of pediatric patients (13 to 17 years of age) with schizophrenia, three common adverse reactions appeared to have a possible dose response relationship: extrapyramidal disorder (incidences were placebo, 5%; 10 mg, 13%; 30 mg, 21.6%); somnolence (incidences were placebo, 6%; 10 mg, 11%; 30 mg, 21.6%); and tremor (incidences were placebo, 2%; 10 mg, 2%; 30 mg, 11.8%).
 
 Bipolar Mania
 
@@ -384,7 +374,7 @@ In the study of pediatric patients (10 to 17 years of age) with bipolar mania, f
 
 Autistic Disorder
 
-In a study of pediatric patients (6 to 17 years of age) with autistic disorder, one common adverse reaction had a possible dose response relationship: fatigue (incidences were placebo, 0%; 5 mg, 3.8%; 10 mg, 22.0%; 15 mg, 18.5%).
+In a study of pediatric patients (6 to 17 years of age) with autistic disorder, one common adverse reaction had a possible dose response relationship: fatigue (incidences were placebo, 0%; 5 mg, 3.8%; 10 mg, 22%; 15 mg, 18.5%).
 
 Tourette’s Disorder
 
@@ -538,7 +528,7 @@ Pediatric Patients - Oral Administration
 Most adverse events observed in the pooled database of 1,686 pediatric patients, aged 6 to 18 years, were also observed in the adult population.
 Additional adverse reactions observed in the pediatric population are listed below.
 
-Eye Disorders
+Eye Disorders:
 
 infrequent - oculogyric crisis
 

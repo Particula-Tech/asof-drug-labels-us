@@ -87,12 +87,7 @@ There is no general agreement about specific pharmacological treatment regimens 
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
 The patient should be carefully monitored, since recurrences of NMS have been reported.
 
-## 5.5 Falls
-
-Aripiprazole may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
-For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
-
-## 5.6 Tardive Dyskinesia
+## 5.5 Tardive Dyskinesia
 
 A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
@@ -113,20 +108,10 @@ The need for continued treatment should be reassessed periodically.
 If signs and symptoms of tardive dyskinesia appear in a patient on aripiprazole, drug discontinuation should be considered.
 However, some patients may require treatment with aripiprazole despite the presence of the syndrome.
 
-## 5.7 Metabolic Changes
+## 5.6 Metabolic Changes
 
 Atypical antipsychotic drugs have been associated with metabolic changes that include hyperglycemia/diabetes mellitus, dyslipidemia, and body weight gain.
 While all drugs in the class have been shown to produce some metabolic changes, each drug has its own specific risk profile.
-
-Pathological Gambling and Other Compulsive Behaviors
-
-Post-marketing case reports suggest that patients can experience intense urges, particularly for gambling, and the inability to control these urges while taking aripiprazole.
-Other compulsive urges, reported less frequently include: sexual urges, shopping, eating or binge eating, and other impulsive or compulsive behaviors.
-Because patients may not recognize these behaviors as abnormal, it is important for prescribers to ask patients or their caregivers specifically about the development of new or intense gambling urges, compulsive sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole.
-It should be noted that impulse-control symptoms can be associated with the underlying disorder.
-In some cases, although not all, urges were reported to have stopped when the dose was reduced or the medication was discontinued.
-Compulsive behaviors may result in harm to the patient and others if not recognized.
-Consider dose reduction or stopping the medication if a patient develops such urges.
 
 Hyperglycemia/Diabetes Mellitus
 
@@ -167,8 +152,8 @@ Table 7: Changes in Fasting Glucose From Placebo-Controlled Adjunctive Trials in
 
 |  | Category Change (at least once) from Baseline | Treatment Arm | n/N | % |
 | --- | --- | --- | --- | --- |
-| Fasting Glucose | Normal to High(<100 mg/dL to ≥126 mg/dL) | Aripiprazole | 2/201 | 1.0 |
-| Placebo | 2/204 | 1.0 |  |  |
+| Fasting Glucose | Normal to High(<100 mg/dL to ≥126 mg/dL) | Aripiprazole | 2/201 | 1 |
+| Placebo | 2/204 | 1 |  |  |
 | Borderline to High (≥100 mg/dL and <126 mg/dL to≥126 mg/dL) | Aripiprazole | 4/34 | 11.8 |  |
 | Placebo | 3/37 | 8.1 |  |  |
 
@@ -219,13 +204,13 @@ Table 9: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy T
 | Total CholesterolNormal to High (<200 mg/dL to ≥240 mg/dL) | Aripiprazole | 34/1357 | 2.5 |
 | Placebo | 27/973 | 2.8 |  |
 | Fasting TriglyceridesNormal to High (<150 mg/dL to ≥200 mg/dL) | Aripiprazole | 40/539 | 7.4 |
-| Placebo | 30/431 | 7.0 |  |
+| Placebo | 30/431 | 7 |  |
 | Fasting LDL CholesterolNormal to High (<100 mg/dL to ≥160 mg/dL) | Aripiprazole | 2/332 | 0.6 |
 | Placebo | 2/268 | 0.7 |  |
 | HDL CholesterolNormal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 121/1066 | 11.4 |
 | Placebo | 99/794 | 12.5 |  |
 
-In monotherapy trials in adults, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 1/71 (1.4%) vs. 3/74 (4.1%); Fasting Triglycerides, 8/62 (12.9%) vs. 5/37 (13.5%); Fasting LDL Cholesterol, 0/34 (0%) vs. 1/25 (4.0%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 1/42 (2.4%) vs. 3/37 (8.1%); Fasting Triglycerides, 5/34 (14.7%) vs. 5/20 (25%); Fasting LDL Cholesterol, 0/22 (0%) vs. 1/18 (5.6%), respectively.
+In monotherapy trials in adults, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 1/71 (1.4%) vs. 3/74 (4.1%); Fasting Triglycerides, 8/62 (12.9%) vs. 5/37 (13.5%); Fasting LDL Cholesterol, 0/34 (0%) vs. 1/25 (4%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 1/42 (2.4%) vs. 3/37 (8.1%); Fasting Triglycerides, 5/34 (14.7%) vs. 5/20 (25%); Fasting LDL Cholesterol, 0/22 (0%) vs. 1/18 (5.6%), respectively.
 
 Table 10 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting), fasting triglycerides, fasting LDL cholesterol, and HDL cholesterol from two placebo-controlled adjunctive trials in adult patients with major depressive disorder (median exposure 42 days).
 
@@ -257,7 +242,7 @@ Table 11: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy 
 | HDL CholesterolNormal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 27/236 | 11.4 |
 | Placebo | 22/109 | 20.2 |  |
 
-In monotherapy trials of adolescents with schizophrenia and pediatric patients with bipolar disorder, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 0/57 (0%) vs. 0/15 (0%); Fasting Triglycerides, 2/72 (2.8%) vs. 1/14 (7.1%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 0/36 (0%) vs. 0/12 (0%); Fasting Triglycerides, 1/47 (2.1%) vs. 1/10 (10.0%), respectively.
+In monotherapy trials of adolescents with schizophrenia and pediatric patients with bipolar disorder, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 0/57 (0%) vs. 0/15 (0%); Fasting Triglycerides, 2/72 (2.8%) vs. 1/14 (7.1%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 0/36 (0%) vs. 0/12 (0%); Fasting Triglycerides, 1/47 (2.1%) vs. 1/10 (10%), respectively.
 
 Table 12 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting) and fasting triglycerides (median exposure 56 days) and HDL cholesterol (median exposure 55 to 56 days) from two placebo-controlled trials in pediatric patients (6 to 17 years) with irritability associated with autistic disorder.
 
@@ -283,7 +268,7 @@ Table 13: Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pe
 | Fasting TriglyceridesNormal to High (<150 mg/dL to ≥200 mg/dL) | Aripiprazole | 5/94 | 5.3 |
 | Placebo | 2/55 | 3.6 |  |
 | HDL CholesterolNormal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 4/108 | 3.7 |
-| Placebo | 2/67 | 3.0 |  |
+| Placebo | 2/67 | 3 |  |
 
 Weight Gain
 
@@ -331,7 +316,7 @@ Table 15: Percentage of Patients From Placebo-Controlled Monotherapy Trials in P
 | Placebo | 187 | 3 (1.6) |  |  |
 | Irritability Associated with Autistic Disorderb | Aripiprazole | 209 | 55 (26.3) |  |
 | Placebo | 98 | 7 (7.1) |  |  |
-| Tourette’s Disorderc | Aripiprazole | 105 | 21 (20.0) |  |
+| Tourette’s Disorderc | Aripiprazole | 105 | 21 (20) |  |
 | Placebo | 66 | 5 (7.6) |  |  |
 | a 4 to 6 weeks duration. b 8 weeks duration. c 8 to 10 weeks duration. |  |  |  |  |
 
@@ -346,7 +331,7 @@ The mean change in weight z-score was 0.26 SDs for patients receiving >9 months 
 
 When treating pediatric patients for any indication, weight gain should be monitored and assessed against that expected for normal growth.
 
-## 5.8 Pathological Gambling and Other Compulsive Behaviors
+## 5.7 Pathological Gambling and Other Compulsive Behaviors
 
 Post-marketing case reports suggest that patients can experience intense urges, particularly for gambling, and the inability to control these urges while taking aripiprazole.
 Other compulsive urges, reported less frequently include: sexual urges, shopping, eating or binge eating, and other impulsive or compulsive behaviors.
@@ -356,7 +341,7 @@ In some cases, although not all, urges were reported to have stopped when the do
 Compulsive behaviors may result in harm to the patient and others if not recognized.
 Consider dose reduction or stopping the medication if a patient develops such urges.
 
-## 5.9 Orthostatic Hypotension
+## 5.8 Orthostatic Hypotension
 
 Aripiprazole may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
 The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole (n=2467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0 %), and syncope (0.2%, 0%) [see ADVERSE REACTIONS (6.1)].
@@ -364,6 +349,11 @@ The incidence of orthostatic hypotension-associated events from short-term, plac
 The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 bpm when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole-treated patients (4%, 2%), or in pediatric oral aripiprazole-treated patients aged 6 to 18 years (0.4%, 1%).
 
 Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) [see DRUG INTERACTIONS (7.1)].
+
+## 5.9 Falls
+
+Aripiprazole may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
 ## 5.10 Leukopenia, Neutropenia, and Agranulocytosis
 

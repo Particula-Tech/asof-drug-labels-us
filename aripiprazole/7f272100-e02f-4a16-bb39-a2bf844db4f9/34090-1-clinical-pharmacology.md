@@ -29,7 +29,7 @@ Absorption
 
 Oral Solution: Aripiprazole is well absorbed when administered orally as the solution.
 At equivalent doses, the plasma concentrations of aripiprazole from the solution were higher than that from the tablet formulation.
-In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean Cmax and AUC values were 122% and 114%, respectively [see DOSAGE AND ADMINISTRATION (2.8)].
+In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean Cmax and AUC values were 122% and 114%, respectively [see DOSAGE AND ADMINISTRATION (2.6)].
 The single-dose pharmacokinetics of aripiprazole were linear and dose-proportional between the doses of 5 mg to 30 mg.
 
 Distribution
@@ -70,6 +70,6 @@ Studies in Specific Populations
 Exposures of aripiprazole and dehydro-aripiprazole in specific populations are summarized in Figure 4 and Figure 5, respectively.
 In addition, in pediatric patients (10 to 17 years of age) administered with aripiprazole (20 mg to 30 mg), the body weight corrected aripiprazole clearance was similar to the adults.
 
-Figure 4 Effects of intrinsic factors on aripiprazole pharmacokinetics
+Figure 4: Effects of intrinsic factors on aripiprazole pharmacokinetics
 
 Figure 5: Effects of intrinsic factors on dehydro-aripiprazole pharmacokinetics:

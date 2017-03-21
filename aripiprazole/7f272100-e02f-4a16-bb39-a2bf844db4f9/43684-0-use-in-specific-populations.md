@@ -65,7 +65,7 @@ Because of the potential for serious adverse reactions in nursing infants from a
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients with major depressive disorder has not been established.
+Safety and effectiveness in pediatric patients with major depressive disorder or agitation associated with schizophrenia or bipolar mania have not been established.
 
 The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients, 10 to 17 years of age, were similar to those in adults after correcting for the differences in body weight [see CLINICAL PHARMACOLOGY (12.3)].
 

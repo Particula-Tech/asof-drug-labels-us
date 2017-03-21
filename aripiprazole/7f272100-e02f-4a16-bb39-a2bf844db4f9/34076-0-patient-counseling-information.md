@@ -19,8 +19,8 @@ It should be noted that aripiprazole is not approved as a single agent for treat
 
 Pathological Gambling and Other Compulsive Behaviors
 
-Advise patients and their caregivers of the possibility that they may experience compulsive urges to shop, intense urges to gamble, compulsive sexual urges, binge eating and/or other compulsive urges and the inability to control these urges while take aripiprazole.
-In some cases, but not all, the urges were reported to have stopped when the dose was reduced or stopped [see WARNINGS AND PRECAUTIONS, (5.8)].
+Advise patients and their caregivers of the possibility that they may experience compulsive urges to shop, intense urges to gamble, compulsive sexual urges, binge eating and/or other compulsive urges and the inability to control these urges while taking aripiprazole.
+In some cases, but not all, the urges were reported to have stopped when the dose was reduced or stopped [see WARNINGS AND PRECAUTIONS (5.7)].
 
 Interference with Cognitive and Motor Performance
 
@@ -42,7 +42,7 @@ Sugar Content
 
 Patients should be advised that each mL of aripiprazole oral solution contains 400 mg of sucrose and 200 mg of fructose.
 
-Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-11-2016-11
+01-2017-12

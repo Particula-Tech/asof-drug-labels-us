@@ -1,7 +1,5 @@
 # WARNING: INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS AND SUICIDAL THOUGHTS AND BEHAVIORS WITH ANTIDEPRESSANT DRUGS
 
-WARNING: INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS and SUICIDAL THOUGHTS AND BEHAVIORS WITH ANTIDEPRESSANT DRUGS
-
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see WARNINGS AND PRECAUTIONS (5.1)].
 
