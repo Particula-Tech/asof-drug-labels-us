@@ -12,7 +12,7 @@ Rx Only 100 Tablets
 
 tagiPHARMA That's A Good Idea.
 
-CSPC®
+CSPC
 
 # PRINCIPAL DISPLAY PANEL - 750 mg Tablet Bottle Label
 
@@ -28,4 +28,4 @@ Rx Only 100 Tablets
 
 tagiPHARMA That's A Good Idea.
 
-CSPC®
+CSPC
