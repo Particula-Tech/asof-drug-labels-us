@@ -1,6 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 MAO Inhibitors
+## 7.1 Clinically Important Drug Interactions
+
+MAO Inhibitors
 
 Do not administer QUILLIVANT XR concomitantly with monoamine oxidase inhibitors (MAOIs) or within 14 days after discontinuing MAOI treatment.
 Concomitant use of MAOIs and CNS stimulants can cause hypertensive crisis.

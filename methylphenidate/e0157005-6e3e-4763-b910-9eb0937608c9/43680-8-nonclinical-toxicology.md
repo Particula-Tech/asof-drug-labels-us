@@ -16,7 +16,7 @@ Mutagenesis
 
 Methylphenidate was not mutagenic in the in vitro Ames reverse mutation assay or in the in vitro mouse lymphoma cell forward mutation assay.
 Sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response, in an in vitro assay in cultured Chinese Hamster Ovary (CHO) cells.
-The genotoxic potential of methylphenidate has not been evaluated in an in vivo assay.
+Methylphenidate was negative in an in vivo mouse bone marrow micronucleus assay.
 
 Impairment of Fertility
 

@@ -44,7 +44,7 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of QUILLIVANT XR have been established in pediatric patients ages 6 to 17 years.
-Use of QUILLIVANT XR in pediatric patients 6 to 12 years of age is supported by adequate and well-controlled studies [see Clinical Studies (14)].
+Use of QUILLIVANT XR in pediatric patients 6 to 12 years of age is supported by one adequate and well-controlled study [see Clinical Studies (14)].
 Use in 12 to 17 year olds is supported by the adequate and well-controlled studies of QUILLIVANT XR in younger pediatric patients and additional pharmacokinetic data in adolescents, along with safety information from other methylphenidate-containing products.
 The long-term efficacy of methylphenidate in pediatric patients has not been established.
 Safety and efficacy in pediatric patients below the age of 6 years have not been established.

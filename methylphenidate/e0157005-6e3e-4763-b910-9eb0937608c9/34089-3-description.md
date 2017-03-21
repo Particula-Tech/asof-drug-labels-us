@@ -10,6 +10,10 @@ The chemical name is methyl α-phenyl-2-piperidineacetate hydrochloride, and its
 Figure 1.
 Methylphenidate HCl structure
 
+C14H19NO2∙HCl Mol.
+Wt.
+269.77
+
 Methylphenidate HCl is a white, odorless crystalline powder.
 Its solutions are acid to litmus.
 It is freely soluble in water and in methanol, soluble in alcohol, and slightly soluble in chloroform and in acetone.

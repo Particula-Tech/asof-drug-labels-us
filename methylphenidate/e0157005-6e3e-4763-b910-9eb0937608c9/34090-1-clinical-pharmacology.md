@@ -8,7 +8,8 @@ Methylphenidate HCl is a central nervous system (CNS) stimulant.
 
 Methylphenidate is a racemic mixture comprised of the d- and l-isomers.
 The d-isomer is more pharmacologically active than the l-isomer.
-Methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+The mode of therapeutic action in ADHD is not known.
+Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 
 ## 12.3 Pharmacokinetics
 
@@ -52,7 +53,15 @@ Excretion
 After oral dosing of radiolabeled methylphenidate in humans, about 90% of the radioactivity was recovered in urine.
 The main urinary metabolite was PPAA, accounting for approximately 80% of the dose.
 
-Gender
+Alcohol Effect
+
+An in vitro study was conducted to explore the effect of alcohol on the release characteristics of methylphenidate from QUILLIVANT XR Oral Suspension.
+At alcohol concentrations of 5% and 10%, there was no effect of alcohol on the release characteristics of methylphenidate.
+At 20% alcohol concentration, there was on average a 20% increase in drug exposure [see Dosage and Administration (2.2)].
+
+Specific Populations
+
+Sex
 
 There is insufficient experience with the use of QUILLIVANT XR to detect gender variations in pharmacokinetics.
 
@@ -66,12 +75,12 @@ The pharmacokinetics of methylphenidate after QUILLIVANT XR administration were 
 After a single oral dose of 60 mg QUILLIVANT XR, plasma concentrations of methylphenidate in children (9–12 years old; n=3) were approximately twice the concentrations observed in adults.
 The plasma concentrations in adolescent patients (13–15 years old; n=4) were similar to those in adults.
 
-Renal Insufficiency
+Renal Impairment
 
 There is no experience with the use of QUILLIVANT XR in patients with renal insufficiency.
 After oral administration of radiolabeled methylphenidate in humans, methylphenidate was extensively metabolized and approximately 80% of the radioactivity was excreted in the urine in the form of PPAA.
 Since renal clearance is not an important route of methylphenidate clearance, renal insufficiency is expected to have little effect on the pharmacokinetics of QUILLIVANT XR.
 
-Hepatic Insufficiency
+Hepatic Impairment
 
 There is no experience with the use of QUILLIVANT XR in patients with hepatic insufficiency.

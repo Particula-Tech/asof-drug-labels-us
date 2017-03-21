@@ -1,5 +1,17 @@
 # 6 ADVERSE REACTIONS
 
+The following are discussed in more detail in other sections of the labeling:
+
+- Known hypersensitivity to methylphenidate products or other ingredients of QUILLIVANT XR [see Contraindications (4)]
+- Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4), Drug Interactions (7.1)]
+- Drug Dependence [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
+- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
+- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+- Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
+- Priapism [see Warnings and Precautions (5.5)]
+- Peripheral Vasculopathy, including Raynaud's phenomenon [see Warnings and Precautions (5.6)]
+- Long-Term Suppression of Growth [see Warnings and Precautions (5.7)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.

@@ -25,4 +25,4 @@ Tolerance (a state of adaptation in which exposure to a drug results in a reduct
 Dependence
 
 Physical dependence (a state of adaptation manifested by a withdrawal syndrome produced by abrupt cessation, rapid dose reduction, or administration of an antagonist) can occur in patients treated with CNS stimulants including QUILLIVANT XR.
-Withdrawal symptoms after abrupt cessation following prolonged high-dosage administration of CNS stimulants include extreme fatigue and depression.
+Withdrawal symptoms after abrupt cessation following prolonged high-dosage administration of CNS stimulants include dysphoric mood; fatigue; vivid, unpleasant dreams; insomnia or hypersomnia; increased appetite; and psychomotor retardation or agitation.
