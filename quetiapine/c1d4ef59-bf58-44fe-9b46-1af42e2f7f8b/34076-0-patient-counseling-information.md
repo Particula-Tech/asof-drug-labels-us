@@ -48,20 +48,20 @@ Patients should be advised of the risk of orthostatic hypotension (symptoms incl
 
 Increased Blood Pressure in Children and Adolescents
 
-Children and adolescent patients should have their blood pressure measured at the beginning of, and periodically during, treatment [see Warnings and Precautions (5.8)].
+Children and adolescent patients should have their blood pressure measured at the beginning of, and periodically during, treatment [see Warnings and Precautions (5.9)].
 
 Leukopenia/Neutropenia
 
-Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine fumarate [see Warnings and Precautions (5.9)].
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine fumarate [see Warnings and Precautions (5.10)].
 
 Interference with Cognitive and Motor Performance
 
 Patients should be advised of the risk of somnolence or sedation (which may lead to falls), especially during the period of initial dose titration.
-Patients should be cautioned about performing any activity requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating machinery, until they are reasonably certain quetiapine therapy does not affect them adversely [see Warnings and Precautions (5.15)].
+Patients should be cautioned about performing any activity requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating machinery, until they are reasonably certain quetiapine therapy does not affect them adversely [see Warnings and Precautions (5.16)].
 
 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.16)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.17)].
 
 Concomitant Medication
 
@@ -80,15 +80,15 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 Manufactured In Czech Republic By:
 
-TEVA CZECH INDUSTRIES, s.r.o.
+Teva Czech Industries, s.r.o.
 
 Opava-Komarov, Czech Republic
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-H 6/2016
+I 3/2017

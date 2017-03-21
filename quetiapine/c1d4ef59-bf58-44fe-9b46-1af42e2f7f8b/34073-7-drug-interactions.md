@@ -11,7 +11,7 @@ Quetiapine exposure is increased by the prototype CYP3A4 inhibitors (e.g., ketoc
 CYP3A4 inhibitors:
 
 Coadministration of ketoconazole, a potent inhibitor of cytochrome CYP3A4, resulted in significant increase in quetiapine exposure.
-The dose of quetiapine fumarate should be reduced to one sixth of the original dose if coadministered with a strong CYP3A4 inhibitor [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+The dose of quetiapine fumarate should be reduced to one sixth of the original dose if co-administered with a strong CYP3A4 inhibitor [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 CYP3A4 inducers:
 

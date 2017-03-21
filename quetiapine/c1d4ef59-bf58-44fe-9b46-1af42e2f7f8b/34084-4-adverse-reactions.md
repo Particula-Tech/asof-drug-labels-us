@@ -9,17 +9,18 @@ The following adverse reactions are discussed in more detail in other sections o
 - •Metabolic changes (hyperglycemia, dyslipidemia, weight gain) [see Warnings and Precautions 5.5]
 - •Tardive dyskinesia [see Warnings and Precautions 5.6]
 - •Hypotension [see Warnings and Precautions 5.7]
-- •Increases in blood pressure (children and adolescents) [see Warnings and Precautions 5.8]
-- •Leukopenia, neutropenia and agranulocytosis [see Warnings and Precautions 5.9]
-- •Cataracts [see Warnings and Precautions 5.10]
-- •QT Prolongation [see Warnings and Precautions 5.11]
-- •Seizures [see Warnings and Precautions 5.12]
-- •Hypothyroidism [see Warnings and Precautions 5.13]
-- •Hyperprolactinemia [see Warnings and Precautions 5.14]
-- •Potential for cognitive and motor impairment [see Warnings and Precautions 5.15]
-- •Body temperature regulation [see Warnings and Precautions 5.16]
-- •Dysphagia [see Warnings and Precautions 5.17]
-- •Discontinuation Syndrome [see Warnings and Precautions 5.18]
+- •Falls [see Warnings and Precautions (5.8)]
+- •Increases in blood pressure (children and adolescents) [see Warnings and Precautions 5.9]
+- •Leukopenia, neutropenia and agranulocytosis [see Warnings and Precautions 5.10]
+- •Cataracts [see Warnings and Precautions 5.11]
+- •QT Prolongation [see Warnings and Precautions 5.12]
+- •Seizures [see Warnings and Precautions 5.13]
+- •Hypothyroidism [see Warnings and Precautions 5.14]
+- •Hyperprolactinemia [see Warnings and Precautions 5.15]
+- •Potential for cognitive and motor impairment [see Warnings and Precautions 5.16]
+- •Body temperature regulation [see Warnings and Precautions 5.17]
+- •Dysphagia [see Warnings and Precautions 5.18]
+- •Discontinuation Syndrome [see Warnings and Precautions 5.19]
 
 ## 6.1 Clinical Study Experience
 
@@ -39,7 +40,7 @@ The stated frequencies of adverse reactions represent the proportion of individu
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
 
 Schizophrenia: Overall, there was little difference in the incidence of discontinuation due to adverse reactions (4% for quetiapine fumarate vs. 3% for placebo) in a pool of controlled trials.
-However, discontinuations due to somnolence (0.8% quetiapine fumarate vs. 0% placebo) and hypotension (0.4% quetiapine fumarate vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.7 and 5.18)].
+However, discontinuations due to somnolence (0.8% quetiapine fumarate vs. 0% placebo) and hypotension (0.4% quetiapine fumarate vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.7 and 5.19)].
 
 Bipolar Disorder:
 
@@ -245,7 +246,7 @@ In bipolar mania therapy (up to 3 weeks) the most commonly observed adverse reac
 
 In an acute (8-week) quetiapine fumarate extended-release trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of quetiapine fumarate extended-release (incidence of 5% or greater and at least twice that for placebo) were dizziness 7%, diarrhea 5%, fatigue 5% and nausea 5%.
 
-Adverse Reactions Occurring at an Incidence of >2% Among Quetiapine Fumarate Treated Patients in Short-Term, Placebo-Controlled Trials
+Adverse Reactions Occurring at an Incidence of >2% among Quetiapine Fumarate Treated Patients in Short-Term, Placebo-Controlled Trials
 
 Schizophrenia (Adolescents, 13 to 17 years old)
 
@@ -368,7 +369,7 @@ Cardiovascular System: Infrequent: vasodilatation, QT interval prolonged, migrai
 
 Respiratory System: Frequent: cough increased, dyspnea; Infrequent: pneumonia, epistaxis, asthma; Rare: hiccup, hyperventilation.
 
-Metabolic and Nutritional System: Infrequent: weight loss, alkaline phosphatase increased, hyperlipemia, alcohol intolerance, dehydration, hyperglycemia, creatinine increased, hypoglycemia; Rare: glycosuria, gout, hand edema, hypokalemia, water intoxication.
+Metabolic and Nutritional System: Infrequent: weight loss, alkaline phosphatase increased, hyperlipidemia, alcohol intolerance, dehydration, hyperglycemia, creatinine increased, hypoglycemia; Rare: glycosuria, gout, hand edema, hypokalemia, water intoxication.
 
 Skin and Appendages System: Infrequent: pruritus, acne, eczema, contact dermatitis, maculopapular rash, seborrhea, skin ulcer; Rare: exfoliative dermatitis, psoriasis, skin discoloration.
 
@@ -390,7 +391,7 @@ Laboratory Changes:
 
 Neutrophil Counts
 
-Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo [see Warnings and Precautions (5.9)].
+Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo [see Warnings and Precautions (5.10)].
 
 Transaminase Elevations
 
@@ -429,7 +430,7 @@ Mean increases in heart rate were 12.8 bpm and 13.4 bpm for quetiapine fumarate 
 In an acute (8-week) quetiapine fumarate extended-release trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (> 110 bpm 10 to 12 years and 13 to 17 years) occurred in 0% of patients receiving quetiapine fumarate extended-release and 1.2% of patients receiving placebo.
 Mean increases in heart rate were 3.4 bpm for quetiapine fumarate extended-release, compared to 0.3 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions were identified during post approval of quetiapine fumarate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

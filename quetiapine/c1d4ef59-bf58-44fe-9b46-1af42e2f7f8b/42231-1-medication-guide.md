@@ -134,8 +134,8 @@ What are possible side effects of quetiapine tablets?
 Quetiapine tablets can cause serious side effects, including:
 
 - •See "What is the most important information I should know about quetiapine tablets?"
-- •Stroke that can lead to death can happen in elderly people with dementia who take medicines like quetiapine tablets
-- •Neuroleptic malignant syndrome (NMS).
+- •stroke that can lead to death can happen in elderly people with dementia who take medicines like quetiapine tablets
+- •neuroleptic malignant syndrome (NMS).
   NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including quetiapine tablets.
   NMS can cause death and must be treated in a hospital.
   Call your healthcare provider right away if you become severely ill and have some or all of these symptoms:
@@ -144,25 +144,24 @@ Quetiapine tablets can cause serious side effects, including:
   - origid muscles
   - oconfusion
   - ochanges in your breathing, heartbeat, and blood pressure
-- •High blood sugar (hyperglycemia).
+- •falls can happen in some people who take quetiapine tablets.
+  These falls may cause serious injuries.
+- •high blood sugar (hyperglycemia).
   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
   High blood sugar could lead to:
   - obuild up of acid in your blood due to ketones (ketoacidosis)
   - ocoma
   - odeath
-
-Increases in blood sugar can happen in some people who take quetiapine tablets.
-Extremely high blood sugar can lead to coma or death.
-If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start quetiapine tablets and during therapy.
-Call your healthcare provider if you have any of these symptoms of high blood sugar (hyperglycemia) while taking quetiapine tablets:
-
-- 
-  - ofeel very thirsty
-  - oneed to urinate more than usual
-  - ofeel very hungry
-  - ofeel weak or tired
-  - ofeel sick to your stomach
-  - ofeel confused, or your breath smells fruity
+- Increases in blood sugar can happen in some people who take quetiapine tablets.
+  Extremely high blood sugar can lead to coma or death.
+  If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start quetiapine tablets and during therapy.
+  Call your healthcare provider if you have any of these symptoms of high blood sugar (hyperglycemia) while taking quetiapine tablets:
+  1. ofeel very thirsty
+  2. oneed to urinate more than usual
+  3. ofeel very hungry
+  4. ofeel weak or tired
+  5. ofeel sick to your stomach
+  6. ofeel confused, or your breath smells fruity
 - •high fat levels in your blood (increased cholesterol and triglycerides).
   High fat levels may happen in people treated with quetiapine tablets.
   You may not have any symptoms, so your healthcare provider may decide to check your cholesterol and triglycerides during your treatment with quetiapine tablets.
@@ -217,7 +216,7 @@ How should I store quetiapine tablets?
 - •Store quetiapine tablets at room temperature, between 20° to 25°C (68° to 77°F).
 - •Keep quetiapine tablets and all medicines out of the reach of children.
 
-General information about the safe and effective use of quetiapine tablets.
+General information about the safe and effective use of quetiapine tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use quetiapine tablets for a condition for which they were not prescribed.
@@ -241,15 +240,15 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured In Czech Republic By:
 
-TEVA CZECH INDUSTRIES, s.r.o.
+Teva Czech Industries, s.r.o.
 
 Opava-Komarov, Czech Republic
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-F 1/2016
+G 3/2017
