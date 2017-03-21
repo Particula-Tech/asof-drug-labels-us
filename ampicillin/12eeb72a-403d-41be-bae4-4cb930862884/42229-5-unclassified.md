@@ -1,6 +1,5 @@
-PHARMACY BULK PACKAGE
-
-NOT FOR DIRECT INFUSION
+|  | PHARMACY BULK PACKAGE NOT FOR DIRECT INFUSION |  |
+| --- | --- | --- |
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of UNASYN® and other antibacterial drugs, UNASYN should be used only to treat infections that are proven or strongly suspected to be caused by bacteria.
 
@@ -29,7 +28,8 @@ The closure may be penetrated only one time after reconstitution, if needed, usi
 
 After reconstitution, use within two hours if stored at room temperature, or within four hours if stored under refrigeration.
 
-Reconstituted Bulk Solution Should Not be Used For Direct Infusion
+| Reconstituted Bulk Solution Should Not be Used For Direct Infusion |
+| --- |
 
 If the reconstituted bulk solution is stored for less than one hour at room temperature (20°C/68°F) prior to further dilution, the use periods indicated in Table 6 apply for the diluted solutions.
 
@@ -41,7 +41,7 @@ Table 6
 
 | Diluent | Maximum Concentration (mg/mL) UNASYN (Ampicillin/Sulbactam) | Use Periods |
 | --- | --- | --- |
-| Sterile Water for Injection | 45 (30/15) 45 (30/15) 30 (20/10) | 8 hrs at 21°C 48 hrs at 4°C 72 hrs at4°C |
+| Sterile Water for Injection | 45 (30/15) 45 (30/15) 30 (20/10) | 8 hrs at 21°C 48 hrs at 4°C 72 hrs at 4°C |
 | 0.9% Sodium Chloride Injection | 45 (30/15) 45 (30/15) 30 (20/10) | 8 hrs at 21°C 48 hrs at 4°C 72 hrs at 4°C |
 | 5% Dextrose Injection | 30 (20/10) 30 (20/10) 3 (2/1) | 2 hrs at 21°C 4 hrs at 4°C 2 hrs at 21°C |
 | Lactated Ringer's Injection | 45 (30/15) 45 (30/15) | 8 hrs at 21°C 24 hrs at 4°C |
@@ -55,10 +55,6 @@ Table 7
 | --- | --- | --- |
 | Sterile Water for Injection, USP | 45 (30/15) 45 (30/15) | 4 hrs at 21°C 24 hrs at 4°C |
 | 0.9% Sodium Chloride Injection, USP | 45 (30/15) 45 (30/15) | 4 hrs at 21°C 24 hrs at 4°C |
-
-## Animal Pharmacology
-
-While reversible glycogenosis was observed in laboratory animals, this phenomenon was dose- and time-dependent and is not expected to develop at the therapeutic doses and corresponding plasma levels attained during the relatively short periods of combined ampicillin/sulbactam therapy in man.
 
 # OTHER SIZE PACKAGES AVAILABLE
 
@@ -84,6 +80,6 @@ To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA
 
 Rx only
 
-LAB-0018-12.0
+LAB-0018-13.0
 
-November 2014
+July 2016

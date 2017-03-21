@@ -10,8 +10,9 @@
    Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2014.
 3. Clinical and Laboratory Standards Institute (CLSI).
    Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard – Ninth Edition.
-   CLSI document M07-A9, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
+   CLSI document M07-A9.
+   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
 4. Clinical and Laboratory Standards Institute (CLSI).
-   Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria; Approved Standard – Eight Edition.
+   Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria; Approved Standard – Eigth Edition.
    CLSI document M11-A8.
    Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
