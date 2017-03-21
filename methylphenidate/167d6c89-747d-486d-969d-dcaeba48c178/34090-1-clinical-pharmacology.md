@@ -8,7 +8,8 @@ Methylphenidate HCl is a central nervous system (CNS) stimulant.
 
 Methylphenidate is a racemic mixture comprised of the d- and l-isomers.
 The d-isomer is more pharmacologically active than the l-isomer.
-Methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+The mode of therapeutic action in ADHD is not known.
+Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 
 ## 12.3 Pharmacokinetics
 
@@ -44,9 +45,9 @@ Alcohol Effect
 At 40% alcohol concentration, there was about 90% release methylphenidate from QuilliChew ER 40 mg tablet within half an hour.
 The results with the 40 mg chewable tablet strength are considered representative of the other available tablet strengths.
 
-Studies in Specific Populations
+Specific Populations
 
-Gender
+Sex
 
 There is insufficient experience with the use of QuilliChew ER to detect gender variations in pharmacokinetics.
 
@@ -61,10 +62,10 @@ However, the pharmacokinetics of methylphenidate in pediatric patients 6 to 17 y
 
 Renal Impairment
 
-There is no experience with the use of QuilliChew ER in patients with renal impairment.
+There is no experience with the use of QuilliChew ER in patients with renal insufficiency.
 After oral administration of radiolabeled methylphenidate in humans, methylphenidate was extensively metabolized and approximately 80% of the radioactivity was excreted in the urine in the form of PPAA.
-Since renal clearance is not an important route of methylphenidate clearance, renal impairment is expected to have little effect on the pharmacokinetics of QuilliChew ER.
+Since renal clearance is not an important route of methylphenidate clearance, renal insufficiency is expected to have little effect on the pharmacokinetics of QuilliChew ER.
 
 Hepatic Impairment
 
-There is no experience with the use of QuilliChew ER in patients with hepatic impairment.
+There is no experience with the use of QuilliChew ER in patients with hepatic insufficiency.

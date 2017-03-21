@@ -2,25 +2,25 @@
 
 ## 2.1 Pretreatment Screening
 
-Prior to treating pediatric patients and adults with CNS stimulants including QuilliChew ER, assess for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+Prior to treating children, adolescents, and adults with CNS stimulants including QuilliChew ER, assess for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
 
 Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
-Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate the need for QuilliChew ER use [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9)].
+Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate the need for QuilliChew ER use [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9)].
 
 ## 2.2 General Dosing Information
 
 The recommended starting dose of QuilliChew ER for patients 6 years and above is 20 mg once daily orally in the morning.
 The dose may be titrated up or down weekly in increments of 10 mg, 15 mg or 20 mg.
 The 10 mg and 15 mg doses can each be achieved by breaking in half the functionally scored 20 mg and 30 mg tablets, respectively.
-The dose should be individualized according to the treatment needs and responses of the patient.
 Daily doses above 60 mg have not been studied and are not recommended.
+As with any CNS stimulant, during titration of QuilliChew ER, the prescribed dose should be adjusted, if necessary, until a well-tolerated, therapeutic dose is achieved.
 
 Pharmacological treatment of ADHD may be needed for extended periods.
-Healthcare providers should periodically re-evaluate the long-term use of QuilliChew ER, and adjust dosage as needed.
+Health care providers should periodically re-evaluate the long-term use of QuilliChew ER, and adjust dosage as needed.
 
 ## 2.3 Administration Instructions
 
-QuilliChew ER should be administered orally once daily in the morning with or without food [see Clinical Pharmacology (12.3)].
+QuilliChew ER should be orally administered once daily in the morning with or without food [see Clinical Pharmacology (12.3)].
 
 ## 2.4 Switching from other Methylphenidate Products
 

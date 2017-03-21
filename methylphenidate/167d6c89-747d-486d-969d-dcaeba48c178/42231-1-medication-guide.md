@@ -1,169 +1,22 @@
-# MEDICATION GUIDE QuilliChew ER™ (quil-ih' CHOO' ee-ahr) (methylphenidate hydrochloride) extended-release chewable tablets CII
-
-What is the most important information I should know about QuilliChew ER?
-
-QuilliChew ER is a federally controlled substance (CII) because it can be abused or lead to dependence.
-Keep QuilliChew ER in a safe place to prevent misuse and abuse.
-Selling or giving away QuilliChew ER may harm others and is against the law.
-
-Tell your doctor if you or your child has ever abused or been dependent on alcohol, prescription medicines, or street drugs.
-
-The following have been reported with use of methylphenidate hydrochloride and other stimulant medicines.
-
-1.
-Heart-related problems:
-
-- sudden death in patients who have heart problems or heart defects
-- stroke and heart attack in adults
-- increased blood pressure and heart rate
-
-Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.
-
-Your doctor should check you or your child carefully for heart problems before starting QuilliChew ER.
-
-Your doctor should check your or your child's blood pressure and heart rate regularly during treatment with QuilliChew ER.
-
-Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking QuilliChew ER.
-
-2.
-Mental (Psychiatric) problems:
-
-- new or worse behavior and thought problems
-- new or worse bipolar illness
-- new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms
-
-Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.
-
-Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking QuilliChew ER, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.
-
-3.
-Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]:
-
-- Fingers or toes may feel numb, cool, painful
-- Fingers or toes may change color from pale, to blue, to red
-
-Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in the fingers or toes.
-
-Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking QuilliChew ER.
-
-What is QuilliChew ER?
-
-QuilliChew ER is a central nervous system stimulant prescription medicine.
-QuilliChew ER is an extended-release chewable tablet.
-It is used for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).
-QuilliChew ER may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
-
-It is not known if QuilliChew ER is safe and effective in children under 6 years of age.
-
-Who should not take QuilliChew ER?
-
-QuilliChew ER should not be taken if you or your child:
-
-- are allergic to methylphenidate hydrochloride, or any of the ingredients in QuilliChew ER.
-  See the end of this Medication Guide for a complete list of ingredients in QuilliChew ER.
-- are taking or have taken within the past 14 days a type of antidepression medicine referred to as a monoamine oxidase inhibitor or MAOI.
-
-QuilliChew ER may not be right for you or your child.
-Before starting QuilliChew ER tell your or your child's doctor about all health conditions (or a family history of) including:
-
-- heart problems, heart defects, high blood pressure
-- mental problems including psychosis, mania, bipolar illness, or depression
-- circulation problems in fingers and toes
-- phenylketonuria (PKU).
-  QuilliChew ER extended-release chewable tablets contain phenylalanine as part of the artificial sweetener, aspartame.
-  The artificial sweetener may be harmful to people with PKU or who are allergic to phenylalanine.
-- are pregnant or plan to become pregnant.
-  It is not known if QuilliChew ER will harm your unborn baby.
-  Talk to your doctor if you are pregnant or plan to become pregnant.
-- are breastfeeding or plan to breast feed.
-  QuilliChew ER passes into your breast milk.
-  You and your doctor should decide if you should breast feed while taking QuilliChew ER.
-
-Tell your doctor about all of the medicines that you or your child take including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-QuilliChew ER and some medicines may interact with each other and cause serious side effects.
-Sometimes the doses of other medicines will need to be adjusted while taking QuilliChew ER.
-
-Your doctor will decide whether QuilliChew ER can be taken with other medicines.
-
-Especially tell the doctor if you or your child takes:
-
-- anti-depression medicines including MAOIs
-
-Know the medicines that you or your child takes.
-Keep a list of your medicines with you to show your doctor and pharmacist.
-
-Do not start any new medicine while taking QuilliChew ER without talking to your doctor first.
-
-How should QuilliChew ER be taken?
-
-- Take QuilliChew ER exactly as prescribed.
-  Your doctor may adjust the dose until it is right for you or your child.
-- Take QuilliChew ER 1 time each day in the morning.
-  QuilliChew ER is an extended-release chewable tablet that releases medicine into your body throughout the day.
-- The 20 mg and 30 mg QuilliChew ER chewable tablets are scored (bisected) and can be cut in half if needed, for you to get the right dose.
-  QuilliChew ER 40mg is not scored (bisected) and cannot be divided.
-- QuilliChew ER can be taken with or without food.
-- Talk to your healthcare provider if a dose is missed.
-- From time to time, your doctor may stop QuilliChew ER treatment for a while to check ADHD symptoms.
-- Your doctor may do regular checks of the blood, heart, and blood pressure while taking QuilliChew ER.
-- Children should have their height and weight checked often while taking QuilliChew ER.
-  QuilliChew ER treatment may be stopped if a problem is found during these check-ups.
-- In case of poisoning call your poison control center at 1-800-222-1222 right away, or go to the nearest hospital emergency room.
-
-What should I avoid while taking QuilliChew ER?
-
-- drinking alcohol
-
-What are possible side effects of QuilliChew ER?
-
-See "What is the most important information I should know about QuilliChew ER?" for information on reported heart and mental problems.
-
-Other serious side effects include:
-
-- painful and prolonged erections (priapism) have occurred with methylphenidate.
-  If you or your child develop priapism seek medical help right away.
-  Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately
-- slowing of growth (height and weight) in children
-
-Common side effects include:
-
-| decreased appetitetrouble sleepingnauseavomiting | indigestionstomach painweight lossanxiety | dizzinessirritabilitymood swingsfast heart beat | increased blood pressure |
+| MEDICATION GUIDE QuilliChew ER™ (quil-ih' CHOO' ee-ahr) (methylphenidate hydrochloride) extended-release chewable tablets CII |  |  |  |
 | --- | --- | --- | --- |
-
-Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
-
-This is not a complete list of possible side effects.
-Ask your doctor or pharmacist for more information.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store QuilliChew ER?
-
-- Store QuilliChew ER in a safe place at 68°F to 77°F (20°C to 25°C).
-- Keep QuilliChew ER and all medicines out of the reach of children.
-
-General information about the safe and effective use of QuilliChew ER
-
-Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use QuilliChew ER for a condition for which it was not prescribed.
-Do not give QuilliChew ER to other people, even if they have the same condition.
-It may harm them and it is against the law.
-
-This Medication Guide summarizes the most important information about QuilliChew ER.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about QuilliChew ER that was written for healthcare professionals.
-For more information, please contact Pfizer, Inc. at 1-800-438-1985 or visit the website at www.QuilliChewER.com.
-
-What are the ingredients in QuilliChew ER?
-
-Active Ingredient: methylphenidate
-
-Inactive Ingredients: aspartame, cherry flavor, citric acid, crospovidone, D&C red #30 (for 30 mg strength), D&C red #7 (for 40 mg strength), guar gum, magnesium stearate, mannitol, microcrystalline cellulose, polyvinyl acetate, polyvinyl alcohol, povidone, silicon dioxide, sodium polystyrene sulfonate, talc, triacetin, xanthan gum.
-
-Manufactured by: Tris Pharma, Inc., Monmouth Junction, NJ 08852
-
-LAB-0734-1.0
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-December/2015
+| What is the most important information I should know about QuilliChew ER? QuilliChew ER is a federally controlled substance (CII) because it can be abused or lead to dependence. Keep QuilliChew ER in a safe place to prevent misuse and abuse. Selling or giving away QuilliChew ER may harm others and is against the law. Tell your health care provider if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines, or street drugs. The following have been reported with use of methylphenidate hydrochloride and other stimulant medicines. 1. Heart-related problems: sudden death in patients who have heart problems or heart defectsstroke and heart attack in adultsincreased blood pressure and heart rate |  |  |  |
+| Tell your health care provider if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your health care provider should check you or your child carefully for heart problems before starting QuilliChew ER. Your health care provider should check your or your child's blood pressure and heart rate regularly during treatment with QuilliChew ER. Call your health care provider right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking QuilliChew ER. 2. Mental (Psychiatric) problems: new or worse behavior and thought problemsnew or worse bipolar illnessnew psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms |  |  |  |
+| Tell your health care provider about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your health care provider right away if you or your child have any new or worsening mental symptoms or problems while taking QuilliChew ER, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. 3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]: Fingers or toes may feel numb, cool, painfulFingers or toes may change color from pale, to blue, to red |  |  |  |
+| Tell your health care provider if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in the fingers or toes. Call your health care provider right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking QuilliChew ER. |  |  |  |
+| What is QuilliChew ER? QuilliChew ER is a central nervous system stimulant prescription medicine. QuilliChew ER is an extended-release chewable tablet. It is used for the treatment of Attention Deficit Hyperactivity Disorder (ADHD). QuilliChew ER may help increase attention and decrease impulsiveness and hyperactivity in people with ADHD. It is not known if QuilliChew ER is safe and effective in children under 6 years of age. |  |  |  |
+| Do not take QuilliChew ER if you or your child: are allergic to methylphenidate hydrochloride, or any of the ingredients in QuilliChew ER. See the end of this Medication Guide for a complete list of ingredients in QuilliChew ER.are taking or have taken within the past 14 days a type of anti-depression medicine called a monoamine oxidase inhibitor (MAOI). |  |  |  |
+| QuilliChew ER may not be right for you or your child. Before starting QuilliChew ER tell your or your child's health care provider about all health conditions (or a family history of) including: heart problems, heart defects, high blood pressuremental problems including psychosis, mania, bipolar illness, or depressioncirculation problems in fingers and toesphenylketonuria (PKU). QuilliChew ER extended-release chewable tablets contain phenylalanine as part of the artificial sweetener, aspartame. The artificial sweetener may be harmful to people with PKU or who are allergic to phenylalanine.if you are pregnant or plan to become pregnant. It is not known if QuilliChew ER will harm your unborn baby. Talk to your health care provider if you are pregnant or plan to become pregnant.if you are breastfeeding or plan to breast feed. QuilliChew ER passes into your breast milk. You and your doctor should decide if you will take QuilliChew ER or breastfeed. |  |  |  |
+| Tell your health care provider about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements. QuilliChew ER and some medicines may interact with each other and cause serious side effects. Sometimes the doses of other medicines will need to be adjusted while taking QuilliChew ER. Your health care provider will decide whether QuilliChew ER can be taken with other medicines. Especially tell the health care provider if you or your child takes: anti-depression medicines including MAOIs |  |  |  |
+| Know the medicines that you or your child takes. Keep a list of your medicines with you to show your health care provider and pharmacist. Do not start any new medicine while taking QuilliChew ER without talking to your health care provider first. |  |  |  |
+| How should QuilliChew ER be taken? Read the step-by-step instructions for using QuilliChew ER extended-release chewable tablets at the end of this Medication Guide.Take QuilliChew ER exactly as prescribed. Your health care provider may adjust the dose, if needed, until it is right for you or your child. During dose adjustment, you or your child may still have ADHD symptoms.Take QuilliChew ER 1 time each day in the morning. QuilliChew ER is an extended-release chewable tablet that releases medicine into your body throughout the day.The 20 mg and 30 mg QuilliChew ER chewable tablets are scored (bisected) and can be cut in half if needed, for you to get the right dose. QuilliChew ER 40mg is not scored (bisected) and cannot be divided.QuilliChew ER can be taken with or without food.From time to time, your health care provider may stop QuilliChew ER treatment for a while to check ADHD symptoms.Your health care provider may do regular checks of the blood, heart, and blood pressure while taking QuilliChew ER.Children should have their height and weight checked often while taking QuilliChew ER. QuilliChew ER treatment may be stopped if a problem is found during these check-ups.In case of poisoning call your poison control center at 1-800-222-1222 right away, or go to the nearest hospital emergency room.If a dose is missed, you or your child should talk to your health care provider about dosing. |  |  |  |
+| What should I avoid while taking QuilliChew ER? QuilliChew ER should not be taken with MAOI medicines. Do not start taking QuilliChew ER if you stopped taking an MAOI in the last 14 days.Do not drink alcohol while taking QuilliChew ER. This may cause a faster release of your methylphenidate dose. |  |  |  |
+| What are possible side effects of QuilliChew ER? QuilliChew ER may cause serious side effects, including: See "What is the most important information I should know about QuilliChew ER?" for information on reported heart and mental problems. |  |  |  |
+| Other serious side effects include: painful and prolonged erections (priapism) have occurred with methylphenidate. If you or your child develop priapism seek medical help right away. Because priapism can cause long lasting damage, it should be checked by a health care provider right away.slowing of growth (height and weight) in children |  |  |  |
+| The most common side effects of QuilliChew ER include: |  |  |  |
+| decreased appetitetrouble sleepingnauseavomiting | indigestionstomach painweight lossanxiety | dizzinessirritabilitymood swingsfast heart beat | increased blood pressure |
+| These are not all the possible side effects of QuilliChew ER. Call your health care provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |
+| How should I store QuilliChew ER? Store QuilliChew ER in a safe place at 68°F to 77°F (20°C to 25°C).Keep QuilliChew ER and all medicines out of the reach of children. |  |  |  |
+| General information about the safe and effective use of QuilliChew ER Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use QuilliChew ER for a condition for which it was not prescribed. Do not give QuilliChew ER to other people, even if they have the same condition. It may harm them. You can ask your pharmacist or health care provider for information about QuilliChew ER that was written for health care professionals. |  |  |  |
+| What are the ingredients in QuilliChew ER? Active Ingredient: methylphenidate Inactive Ingredients: aspartame, cherry flavor, citric acid, crospovidone, D&C red #30 (for 30 mg strength), D&C red #7 (for 40 mg strength), guar gum, magnesium stearate, mannitol, microcrystalline cellulose, polyvinyl acetate, polyvinyl alcohol, povidone, silicon dioxide, sodium polystyrene sulfonate, talc, triacetin, xanthan gum. For more information, please contact Pfizer, Inc. at 1-800-438-1985 or visit the website at www.QuilliChewER.com. This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |  |
+| Manufactured by: Tris Pharma, Inc., Monmouth Junction, NJ 08852 LAB-0734-2.0 January 2017 |  |  |  |

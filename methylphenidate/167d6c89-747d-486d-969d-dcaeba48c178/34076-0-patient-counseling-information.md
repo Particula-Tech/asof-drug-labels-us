@@ -4,11 +4,11 @@ Advise patients to read the FDA-approved patient labeling (Medication Guide).
 
 Controlled Substance Status/Potential for Abuse and Dependence
 
-Advise patients and their caregivers that QuilliChew ER is a federally controlled substance, and it can be abused and lead to dependence [see Drug Abuse and Dependence (9.1, 9.2, and 9.3)].
+Advise patients and their caregivers that QuilliChew ER is a federally controlled substance, and it can be abused and lead to dependence [see Drug Abuse and Dependence (9.1, 9.2, 9.3)].
 Instruct patients that they should not give QuilliChew ER to anyone else.
 Advise patients to store QuilliChew ER in a safe place, preferably locked, to prevent abuse.
 Advise patients to comply with laws and regulations on drug disposal.
-Advise patients to dispose of remaining, unused, or expired QuilliChew ER through a medicine take-back program if available [see Warnings and Precautions (5.1) and Abuse and Dependence (9.2, 9.3)].
+Advise patients to dispose of remaining, unused, or expired QuilliChew ER through a medicine take-back program if available [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)].
 
 Dosage and Administration Instructions
 
@@ -17,7 +17,7 @@ Advise patients that QuilliChew ER should be taken by mouth once daily in the mo
 Serious Cardiovascular Risks
 
 Advise patients, caregivers, and family members that there is a potential for serious cardiovascular risks including sudden death, myocardial infarction, and stroke with QuilliChew ER use.
-Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
+Instruct patients to contact a health care provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
 
 Blood Pressure and Heart Rate Increases
 

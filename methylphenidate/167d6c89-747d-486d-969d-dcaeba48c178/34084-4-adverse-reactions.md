@@ -2,26 +2,26 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Drug Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
-- Hypersensitivity to Methylphenidate or Other Components of the Product [see Contraindications (4)]
-- Hypertensive Crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
-- Serious Cardiovascular Events [see Warnings and Precautions (5.2)]
+- Known hypersensitivity to methylphenidate products or other ingredients of QuilliChew ER [see Contraindications (4.1)]
+- Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4.2), Drug Interactions (7.1)]
+- Drug Dependence [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
+- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
 - Blood Pressure and Heart Rate Increases [see Warnings and Precautions[(5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
-- Peripheral Vasculopathy, including Raynaud's Phenomenon [see Warnings and Precautions (5.6)]
+- Peripheral Vasculopathy, including Raynaud's phenomenon [see Warnings and Precautions (5.6)]
 - Long-Term Suppression of Growth [see Warnings and Precautions (5.7)]
 - Risks in Phenylketonuria [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Clinical Trials Experience with Other Methylphenidate Products in Pediatric Patients and Adults with ADHD
+Clinical Trials Experience with Other Methylphenidate Products in Children, Adolescents, and Adults with ADHD
 
 Commonly reported (≥2% of the methylphenidate group and at least twice the rate of the placebo group) adverse reactions from placebo-controlled trials of methylphenidate products include: appetite decreased, weight decreased, nausea, abdominal pain, dyspepsia, dry mouth, vomiting, insomnia, anxiety, nervousness, restlessness, affect lability, agitation, irritability, dizziness, vertigo, tremor, blurred vision, blood pressure increased, heart rate increased, tachycardia, palpitations, hyperhidrosis, and pyrexia.
 
-Clinical Trials Experience with QuilliChew ER in Pediatric Patients with ADHD
+Clinical Trials Experience with QuilliChew ER in Children with ADHD
 
 There is limited experience with QuilliChew ER in controlled trials.
 The safety data in this section is based on data from a laboratory classroom study conducted in 90 pediatric subjects (ages 6 to 12 years) with ADHD.
@@ -44,7 +44,7 @@ Common Adverse Reactions Occurring in ≥2% of Subjects on QuilliChew ER and Gre
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of methylphenidate products.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These adverse reactions are as follows:
 
 Blood and Lymphatic System Disorders: Pancytopenia, Thrombocytopenia, Thrombocytopenic purpura
@@ -55,7 +55,7 @@ Eye Disorders: Diplopia, Mydriasis, Visual impairment
 
 General Disorders: Chest pain, Chest discomfort, Hyperpyrexia
 
-Hepatobiliary Disorders: Hepatic failure
+Hepatobiliary Disorders: Severe hepatocellular injury
 
 Immune System Disorders: Hypersensitivity reactions such as Angioedema, Anaphylactic reactions, Auricular swelling, Bullous conditions, Exfoliative conditions, Urticarias, Pruritus NEC, Rashes, Eruptions, and Exanthemas NEC
 
@@ -63,7 +63,7 @@ Investigations: Alkaline phosphatase increased, Bilirubin increased, Hepatic enz
 
 Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Muscle twitching, Rhabdomyolysis
 
-Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia
+Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia, Serotonin syndrome in combination with serotonergic drugs
 
 Psychiatric Disorders: Disorientation, Hallucination, Hallucination auditory, Hallucination visual, Libido changes, Mania
 

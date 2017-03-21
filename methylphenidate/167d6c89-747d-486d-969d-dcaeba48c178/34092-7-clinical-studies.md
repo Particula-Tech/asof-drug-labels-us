@@ -4,7 +4,7 @@ The efficacy of QuilliChew ER was evaluated in a laboratory classroom study cond
 Patients in the trial met DSM-IV criteria for ADHD.
 The study began with a 6-week open-label dose optimization period with an initial QuilliChew ER dose of 20 mg.
 Patients were instructed to chew each dose once daily in the morning.
-The dose could be titrated weekly in increments of 10 to 20 mg until an optimal dose or the maximum dose of 60 mg/day was reached.
+The dose could be titrated weekly in increments of 10 to 20 mg until a therapeutic dose or the maximum dose of 60 mg/day was reached.
 
 Eighty-six of the 90 enrolled subjects then entered a 1-week randomized, double-blind, parallel group treatment period with the individually optimized dose of QuilliChew ER or placebo.
 The intent-to-treat (ITT) population consisted of 85 randomized subjects who received at least 1 dose of double-blind study drug and had at least 1 post-Baseline assessment of the primary efficacy variable.

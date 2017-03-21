@@ -43,17 +43,15 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of QuilliChew ER in pediatric patients under six years have not been evaluated.
-
 The safety and effectiveness of QuilliChew ER have been established in pediatric patients ages 6 to 17 years.
-Use of QuilliChew ER in these age groups is based on one adequate and well-controlled clinical study in pediatric patients 6 to 12 years old, pharmacokinetic data in adolescents and adults, and safety information from other methylphenidate-containing products
-
-Long-term effectiveness of QuilliChew ER has not been established [see Clinical Pharmacology (12) and Clinical Studies (14)].
+Use of QuilliChew ER in these age groups is based on one adequate and well-controlled clinical study in pediatric patients 6 to 12 years old, pharmacokinetic data in adolescents and adults, and safety information from other methylphenidate-containing products.
+The long-term efficacy of methylphenidate in pediatric patients has not been established [see Clinical Pharmacology (12), Clinical Studies (14)].
+Safety and efficacy in pediatric patients below the age of 6 years have not been established.
 
 Long Term Suppression of Growth
 
 Growth should be monitored during treatment with CNS stimulants, including QuilliChew ER.
-Pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.7)].
+Children who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.7)].
 
 Juvenile Animal Data
 

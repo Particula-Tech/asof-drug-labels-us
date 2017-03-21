@@ -14,7 +14,7 @@ Anxiety, psychosis, hostility, aggression, suicidal or homicidal ideation have a
 Abusers of CNS stimulants may chew, snort, inject, or use other unapproved routes of administration which can result in overdose and death [see Overdosage (10)].
 
 To reduce the abuse of CNS stimulants including QuilliChew ER, assess the risk of abuse prior to prescribing.
-After prescribing, keep careful prescription records, educate patients and their families about abuse and on proper storage and disposal of CNS stimulants [see How Supplied/Storage and Handling (16)], monitor for signs of abuse while on therapy, and re-evaluate the need for QuilliChew ER use.
+After prescribing, keep careful prescription records, educate patients and their families about abuse and on proper storage and disposal of CNS stimulants [see How Supplied/Storage and Handling (16.1, 16.2)], monitor for signs of abuse while on therapy, and re-evaluate the need for QuilliChew ER use.
 
 ## 9.3 Dependence
 
@@ -24,5 +24,5 @@ Tolerance (a state of adaptation in which exposure to a drug results in a reduct
 
 Dependence
 
-Physical dependence (which is manifested by a withdrawal syndrome produced by abrupt cessation, rapid dose reduction, or administration of an antagonist) can occur in patients treated with CNS stimulants including QuilliChew ER.
+Physical dependence (a state of adaptation manifested by a withdrawal syndrome produced by abrupt cessation, rapid dose reduction, or administration of an antagonist) can occur in patients treated with CNS stimulants including QuilliChew ER.
 Withdrawal symptoms after abrupt cessation following prolonged high-dosage administration of CNS stimulants include dysphoric mood; fatigue; vivid, unpleasant dreams; insomnia or hypersomnia; increased appetite; and psychomotor retardation or agitation.

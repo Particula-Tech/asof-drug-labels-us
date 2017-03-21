@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-How Supplied
+## 16.1 How Supplied
 
 QuilliChew ER is supplied as extended-release chewable tablets in 20 mg, 30 mg and 40 mg strengths.
 
@@ -20,7 +20,7 @@ QuilliChew ER extended-release chewable tablets
 | Bottles of 100 | 30 mg | NDC 24478-130-01 | NP 13 |
 | Bottles of 100 | 40 mg | NDC 24478-140-01 | NP 14 |
 
-Storage and Handling
+## 16.2 Storage and Handling
 
 Store at 20°C to 25ºC (68°F to 77ºF); excursions permitted from 15ºC to 30ºC (59ºF to 86ºF).
 [See USP Controlled Room Temperature.]
@@ -28,6 +28,6 @@ Store at 20°C to 25ºC (68°F to 77ºF); excursions permitted from 15ºC to 30�
 Disposal
 
 Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired QuilliChew ER by a medicine takeback program or by an authorized collector registered with the Drug Enforcement Administration.
+Dispose of remaining, unused, or expired QuilliChew ER by a medicine take-back program or by an authorized collector registered with the Drug Enforcement Administration.
 If no take-back program or authorized collector is available, mix QuilliChew ER with an undesirable, nontoxic substance to make it less appealing to children and pets.
 Place the mixture in a container such as a sealed plastic bag and discard QuilliChew ER in the household trash.

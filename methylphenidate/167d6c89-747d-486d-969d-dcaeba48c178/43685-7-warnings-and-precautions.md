@@ -7,8 +7,8 @@ Assess the risk of abuse prior to prescribing, and monitor for signs of abuse an
 
 ## 5.2 Serious Cardiovascular Reactions
 
-Sudden death, stroke and myocardial infarction have occurred in adults treated with CNS stimulants at recommended doses.
-Sudden death has occurred in pediatric patients with structural cardiac abnormalities and other serious cardiac problems.
+Stroke and myocardial infarction have occurred in adults treated with CNS stimulants at recommended doses.
+Sudden death has occurred in children and adolescents with structural cardiac abnormalities and other serious cardiac problems, and in adults taking CNS stimulants at recommended doses for ADHD.
 Avoid use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmias, coronary artery disease, or other serious cardiac problems.
 Further evaluate patients who develop exertional chest pain, unexplained syncope, or arrhythmias during treatment with QuilliChew ER.
 
@@ -44,7 +44,7 @@ Patients who develop abnormally sustained or frequent and painful erections shou
 
 ## 5.6 Peripheral Vasculopathy, including Raynaud's Phenomenon
 
-Stimulants, including QuilliChew ER, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
+CNS stimulants, including QuilliChew ER, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
 Effects of peripheral vasculopathy, including Raynaud's phenomenon, were observed in postmarketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.

@@ -3,7 +3,7 @@
 QuilliChew ER (methylphenidate hydrochloride extended-release chewable tablets) is available in three dosage strengths - 20 mg, 30 mg and 40 mg.
 The dosage strengths are expressed in terms of methylphenidate hydrochloride equivalents; however only 15% of methylphenidate is present as methylphenidate hydrochloride salt.
 The remaining 85% is present as methylphenidate ionically-bound to the sulfonate groups of sodium polystyrene sulfonate particles.
-QuilliChew ER contains approximately 30% immediate release and 70% extended release methylphenidate.
+QuilliChew ER contains approximately 30% immediate-release and 70% extended-release methylphenidate.
 
 The QuilliChew ER extended-release chewable tablets are cherry flavored.
 
