@@ -352,7 +352,16 @@ Baxter and Galaxy are trademarks of Baxter International Inc. Baxter Healthcare 
 
 07-34-74-548
 
-Carton Label
+Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
+Product should not be thawed by immersion in water baths or by microware irradiation.
+Do not force thaw.
+The thawed solution in GALAXY plastic container (PL 2040) remains chemically stable for 72 hours at room temperature or for 30 days when stored under refrigeration.
+Do not refreeze.
+
+Handle frozen product containers with care.
+Product containers may be fragile in the frozen state.
+
+PL 2040 Plastic 07-04-77-715
 
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 Product should not be thawed by immersion in water baths or by microware irradiation.
@@ -363,40 +372,29 @@ Do not refreeze.
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
 
-PL 2040 Plastic 07-04-74-549
+PL 2040 Plastic 07-04-77-715
 
-Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
-Product should not be thawed by immersion in water baths or by microware irradiation.
-Do not force thaw.
-The thawed solution in GALAXY plastic container (PL 2040) remains chemically stable for 72 hours at room temperature or for 30 days when stored under refrigeration.
-Do not refreeze.
-
-Handle frozen product containers with care.
-Product containers may be fragile in the frozen state.
-
-PL 2040 Plastic 07-04-74-549
-
-Vancomycin Injection, USP in 0.9% Sodium Chloride 500 mg per 100 mL (5 mg/ mL) Contains 6 Single-Use bags.
+Vancomycin Injection, USP in 0.9% Sodium Chloride 500 mg per 100 mL (5 mg/ mL) Contains 6 Single-Dose bags.
 Each bag contains 100 mL.
 Iso-osmotic.
 Store at or below -20°C/-4°F.
 
 Rx Only
 
-NDC 0338-3581-03 Code 2G3590
+NDC 0338-3581-01 Code 2G3590
 
-*FOR BAR CODE POSITION ONLY (01) 20303383581031
+*FOR BAR CODE POSITION ONLY (01) 20303383581017
 
-Vancomycin Injection, USP in 0.9% Sodium Chloride 500 mg per 100 mL (5 mg/ mL) Contains 6 Single-Use bags.
+Vancomycin Injection, USP in 0.9% Sodium Chloride 500 mg per 100 mL (5 mg/ mL) Contains 6 Single-Dose bags.
 Each bag contains 100 mL.
 Iso-osmotic.
 Store at or below -20°C/-4°F.
 
 Rx Only
 
-NDC 0338-3581-03 Code 2G3590
+NDC 0338-3581-01 Code 2G3590
 
-*FOR BAR CODE POSITION ONLY (01) 20303383581031
+*FOR BAR CODE POSITION ONLY (01) 20303383581017
 
 GALAXY Container
 
@@ -460,7 +458,16 @@ Baxter and Galaxy are trademarks of Baxter International Inc. Baxter Healthcare 
 
 07-34-74-551
 
-Carton Label
+Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
+Product should not be thawed by immersion in water baths or by microware irradiation.
+Do not force thaw.
+The thawed solution in GALAXY plastic container (PL 2040) remains chemically stable for 72 hours at room temperature or for 30 days when stored under refrigeration.
+Do not refreeze.
+
+Handle frozen product containers with care.
+Product containers may be fragile in the frozen state.
+
+PL 2040 Plastic 07-04-77-715
 
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 Product should not be thawed by immersion in water baths or by microware irradiation.
@@ -471,40 +478,29 @@ Do not refreeze.
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
 
-PL 2040 Plastic 07-04-74-552
+PL 2040 Plastic 07-04-77-715
 
-Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
-Product should not be thawed by immersion in water baths or by microware irradiation.
-Do not force thaw.
-The thawed solution in GALAXY plastic container (PL 2040) remains chemically stable for 72 hours at room temperature or for 30 days when stored under refrigeration.
-Do not refreeze.
-
-Handle frozen product containers with care.
-Product containers may be fragile in the frozen state.
-
-PL 2040 Plastic 07-04-74-552
-
-Vancomycin Injection, USP in 0.9 Sodium Chloride 750 mg per 150 mL (5 mg/ mL) Contains 3 Single-Use bags.
+Vancomycin Injection, USP in 0.9 Sodium Chloride 750 mg per 150 mL (5 mg/ mL) Contains 3 Single-Dose bags.
 Each bag contains 150 mL.
 Iso-osmotic.
 Store at or below -20°C/-4°F.
 
 Rx Only
 
-NDC 0338-3582-03 Code 2G3591
+NDC 0338-3582-01 Code 2G3591
 
-*FOR BAR CODE POSITION ONLY (01) 2030338358238
+*FOR BAR CODE POSITION ONLY (01) 20303383582014
 
-Vancomycin Injection, USP in 0.9 Sodium Chloride 750 mg per 150 mL (5 mg/ mL) Contains 3 Single-Use bags.
+Vancomycin Injection, USP in 0.9 Sodium Chloride 750 mg per 150 mL (5 mg/ mL) Contains 3 Single-Dose bags.
 Each bag contains 150 mL.
 Iso-osmotic.
 Store at or below -20°C/-4°F.
 
 Rx Only
 
-NDC 0338-3582-03 Code 2G3591
+NDC 0338-3582-01 Code 2G3591
 
-*FOR BAR CODE POSITION ONLY (01) 2030338358238
+*FOR BAR CODE POSITION ONLY (01) 20303383582014
 
 GALAXY Container
 
@@ -568,7 +564,16 @@ Baxter and Galaxy are trademarks of Baxter International Inc. Baxter Healthcare 
 
 07-34-74-553
 
-Carton Label
+Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
+Product should not be thawed by immersion in water baths or by microware irradiation.
+Do not force thaw.
+The thawed solution in GALAXY plastic container (PL 2040) remains chemically stable for 72 hours at room temperature or for 30 days when stored under refrigeration.
+Do not refreeze.
+
+Handle frozen product containers with care.
+Product containers may be fragile in the frozen state.
+
+PL 2040 Plastic 07-04-77-717
 
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 Product should not be thawed by immersion in water baths or by microware irradiation.
@@ -579,40 +584,29 @@ Do not refreeze.
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
 
-PL 2040 Plastic 07-04-74-554
+PL 2040 Plastic 07-04-77-717
 
-Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
-Product should not be thawed by immersion in water baths or by microware irradiation.
-Do not force thaw.
-The thawed solution in GALAXY plastic container (PL 2040) remains chemically stable for 72 hours at room temperature or for 30 days when stored under refrigeration.
-Do not refreeze.
-
-Handle frozen product containers with care.
-Product containers may be fragile in the frozen state.
-
-PL 2040 Plastic 07-04-74-554
-
-Vancomycin Injection, USP in 0.9 Sodium Chloride 1 g per 200 mL (5 mg/ mL) Contains 3 Single-Use bags.
+Vancomycin Injection, USP in 0.9 Sodium Chloride 1 g per 200 mL (5 mg/ mL) Contains 3 Single-Dose bags.
 Each bag contains 200 mL.
 Iso-osmotic.
 Store at or below -20°C/-4°F.
 
 Rx Only
 
-NDC 0338-3583-03 Code 2G3592
+NDC 0338-3583-01 Code 2G3592
 
-*FOR BAR CODE POSITION ONLY (01) 20303383583035
+*FOR BAR CODE POSITION ONLY (01) 20303383583011
 
-Vancomycin Injection, USP in 0.9 Sodium Chloride 1 g per 200 mL (5 mg/ mL) Contains 3 Single-Use bags.
+Vancomycin Injection, USP in 0.9 Sodium Chloride 1 g per 200 mL (5 mg/ mL) Contains 3 Single-Dose bags.
 Each bag contains 200 mL.
 Iso-osmotic.
 Store at or below -20°C/-4°F.
 
 Rx Only
 
-NDC 0338-3583-03 Code 2G3592
+NDC 0338-3583-01 Code 2G3592
 
-*FOR BAR CODE POSITION ONLY (01) 20303383583035
+*FOR BAR CODE POSITION ONLY (01) 20303383583011
 
 GALAXY Container
 
