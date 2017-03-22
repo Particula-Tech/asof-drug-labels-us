@@ -4,7 +4,7 @@
 
 The mechanism of action of clozapine is unknown.
 However, it has been proposed that the therapeutic efficacy of clozapine in schizophrenia is mediated through antagonism of the dopamine type 2 (D2) and the serotonin type 2A (5-HT2A) receptors.
-Clozapine also acts as an antagonist at adrenergic, cholinergic, histaminergic and other dopaminergic and serotonergic receptors.
+Clozapine orally disintegrating tablets also act as an antagonist at adrenergic, cholinergic, histaminergic and other dopaminergic and serotonergic receptors.
 
 ## 12.2 Pharmacodynamics
 
@@ -25,8 +25,8 @@ In these patients, the onset of REM sleep occurred almost immediately after fall
 
 In man, clozapine tablets (25 mg and 100 mg) are equally bioavailable relative to a clozapine solution.
 Clozapine orally disintegrating tablets are bioequivalent to Clozaril® (clozapine) tablets, a registered trademark of Novartis Pharmaceuticals Corporation.
-Following a dosage of 100 mg b.i.d., the average steady-state peak plasma concentration was 413 ng/mL (range: 132 to 854 ng/mL), occurring at the average of 2.3 hours (range: 1 to 6 hours) after dosing.
-The average minimum concentration at steady-state was 168 ng/mL (range: 45 to 574 ng/mL), after 100 mg b.i.d. dosing.
+Following a dosage of 100 mg b.i.d., the average steady-state peak plasma concentration was 413 ng/mL (range: 132 ng/mL to 854 ng/mL), occurring at the average of 2.3 hours (range: 1 to 6 hours) after dosing.
+The average minimum concentration at steady-state was 168 ng/mL (range: 45 ng/mL to 574 ng/mL), after 100 mg b.i.d. dosing.
 
 A comparative bioequivalence/bioavailability study was conducted in 32 patients (with schizophrenia or schizoaffective disorder) comparing clozapine orally disintegrating 200 mg tablets to 2 × clozapine orally disintegrating 100 mg tablets (the approved reference product) under fasted conditions.
 The study also evaluated the effect of food and chewing on the pharmacokinetics of the 200 mg tablet.
@@ -42,7 +42,7 @@ Food delayed clozapine absorption by 1.5 hours, from a median Tmax of 2.5 hours 
 The mean Cmax,ss of clozapine under chewed conditions for clozapine orally disintegrating 200 mg tablets was about 86% that for 2 x 100 mg clozapine orally disintegrating tablets under non-chewed conditions, while the AUCss and Cmin,ss values were similar between the chewed and non-chewed conditions.
 
 In a food-effect study, a single dose of clozapine orally disintegrating tablets 12.5 mg was administered to healthy volunteers under fasting conditions and after a high-fat meal.
-When clozapine orally disintegrating tablets was administered after a high-fat meal, the Cmax of both clozapine and its active metabolite, desmethylclozapine, were decreased by approximately 20%, compared to administration under fasting conditions, while the AUC values were unchanged.
+When clozapine orally disintegrating tablets were administered after a high-fat meal, the Cmax of both clozapine and its active metabolite, desmethylclozapine, were decreased by approximately 20%, compared to administration under fasting conditions, while the AUC values were unchanged.
 This decrease in Cmax is not clinically significant.
 Therefore, clozapine orally disintegrating tablets can be taken without regard to meals.
 

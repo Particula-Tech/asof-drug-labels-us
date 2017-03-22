@@ -4,7 +4,7 @@ Discuss the following issues with patients and caregivers:
 
 - •Severe Neutropenia:
   - •Instruct patients (and caregivers) beginning treatment with clozapine orally disintegrating tablets about the risk of developing severe neutropenia and infection.
-  - •Instruct patients to immediately report to their physician any symptom or sign of infection (e.g., flu-like illness; fever; lethargy; general weakness or malaise; mucus membrane ulceration; skin, pharyngeal, vaginal, urinary, or pulmonary infection; or extreme weakness or lethargy) occurring at any time during clozapine orally disintegrating tablets therapy, to aid in evaluation for neutropenia and to institute prompt and appropriate management [see Warnings and Precautions (5.1), (5.10), and (5.11)].
+  - •Instruct patients to immediately report to their physician any symptom or sign of infection (e.g., flu-like illness; fever; lethargy; general weakness or malaise; mucus membrane ulceration; skin, pharyngeal, vaginal, urinary, or pulmonary infection; or extreme weakness or lethargy) occurring at any time during clozapine orally disintegrating tablets therapy, to aid in evaluation for neutropenia and to institute prompt and appropriate management [see Warnings and Precautions (5.1), (5.11), and (5.13)].
   - •Inform patients and caregivers clozapine orally disintegrating tablets are available only through a restricted program called the Clozapine REMS Program designed to ensure the required blood monitoring, in order to reduce the risk of developing severe neutropenia.
     Advise patients and caregivers of the importance of having blood tested as follows:
     - •Weekly blood tests are required for the first 6 months.
@@ -15,26 +15,28 @@ Discuss the following issues with patients and caregivers:
 - •Orthostatic Hypotension, Bradycardia, and Syncope: Inform patients and caregivers about the risk of orthostatic hypotension and syncope, especially during the period of initial dose titration.
   Instruct them to strictly follow the clinician’s instructions for dosage and administration.
   Advise patients to consult their clinician immediately if they feel faint, lose consciousness or have signs or symptoms suggestive of bradycardia or arrhythmia [see Dosage and Administration (2.3) and Warnings and Precautions (5.3)].
+- •Falls: Inform patients of the risk of falls, which may lead to fractures or other injuries [see Warnings and Precautions (5.4)].
 - •Seizures: Inform patients and caregivers about the significant risk of seizure during clozapine orally disintegrating tablets treatment.
-  Caution them about driving and any other potentially hazardous activity while taking clozapine orally disintegrating tablets [see Warnings and Precautions (5.4)].
+  Caution them about driving and any other potentially hazardous activity while taking clozapine orally disintegrating tablets [see Warnings and Precautions (5.5)].
 - •QT Interval Prolongation: Advise patients to consult their clinician immediately if they feel faint, lose consciousness, or have signs or symptoms suggestive of arrhythmia.
   Instruct patients to not take clozapine orally disintegrating tablets with other drugs that cause QT interval prolongation.
-  Instruct patients to inform their clinicians that they are taking clozapine orally disintegrating tablets before any new drug [see Warnings and Precautions (5.8)and Drug Interactions (7.1)].
+  Instruct patients to inform their clinicians that they are taking clozapine orally disintegrating tablets before any new drug [see Warnings and Precautions (5.9) and Drug Interactions (7.1)].
 - •Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, Weight Gain): Educate patients and caregivers about the risk of metabolic changes and the need for specific monitoring.
   The risks include hyperglycemia and diabetes mellitus, dyslipidemia, weight gain, and cardiovascular reactions.
   Educate patients and caregivers about the symptoms of hyperglycemia (high blood sugar) and diabetes mellitus (e.g., polydipsia, polyuria, polyphagia, and weakness).
   Monitor all patients for these symptoms.
   Patients who are diagnosed with diabetes or have risk factors for diabetes (obesity, family history of diabetes) should have their fasting blood glucose monitored before beginning treatment and periodically during treatment.
   Patients who develop symptoms of hyperglycemia should have assessments of fasting glucose.
-  Clinical monitoring of weight is recommended [see Warnings and Precautions (5.9)].
-- •Patients with Phenylketonuria: Inform patients and caregivers that clozapine orally disintegrating tablets contain phenylalanine (a component of aspartame) [see Warnings and Precautions (5.16)].
-- •Interference with Cognitive and Motor Performance: Because clozapine tablets may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that clozapine orally disintegrating tablets therapy does not affect them adversely [see Warnings and Precautions (5.14)].
+  Clinical monitoring of weight is recommended [see Warnings and Precautions (5.10)].
+- •Patients with Phenylketonuria: Inform patients and caregivers that clozapine orally disintegrating tablets contain phenylalanine (a component of aspartame) [see Warnings and Precautions (5.18)].
+- •Interference with Cognitive and Motor Performance: Because clozapine orally disintegrating tablets may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that clozapine orally disintegrating tablets therapy does not affect them adversely [see Warnings and Precautions (5.16)].
+- •Hepatotoxicity: Instruct patients to immediately report to their physician any symptom or sign of potential liver injury (e.g., fatigue, malaise, anorexia, nausea, jaundice, bilirubinemia, coagulopathy, and hepatic encephalopathy) [see Warnings and Precautions (5.12)].
 - •Missed Doses and Re-Initiating Treatment: Inform patients and caregivers that if the patient misses taking clozapine orally disintegrating tablets for more than 2 days, he or she should not restart his or her medication at the same dosage but should contact their physician for dosing instructions [see Dosage and Administration (2.6) and Warnings and Precautions (5.1, 5.3)].
 - •Pregnancy: Patients and caregivers should notify the clinician if the patient becomes pregnant or intends to become pregnant during therapy [see Use in Specific Populations (8.1)].
-- •Nursing: Advise patients and caregivers that the patient should not breast feed an infant if they are taking clozapine orally disintegrating tablets [see Use in Specific Populations (8.3)].
-- •Concomitant Medication: Advise patients to inform their health care provider if they are taking, or plan to take, any prescription or over-the-counter drugs; there is a potential for significant drug-drug interactions [see Dosage and Administrations (2.6), Drug Interactions (7.1), and Table 1].
-- •Administration: Patients should be advised that clozapine orally disintegrating tablets should remain in the original package until immediately before use [see Dosage and Administrations (2.2)].
+- •Nursing: Advise patients and caregivers that the patient should not breast feed an infant if she is taking clozapine orally disintegrating tablets [see Use in Specific Populations (8.3)].
+- •Concomitant Medication: Advise patients to inform their health care provider if they are taking, or plan to take, any prescription or over-the-counter drugs; there is a potential for significant drug-drug interactions [see Dosage and Administration (2.6), Drug Interactions (7.1), and Table 1].
+- •Administration: Patients should be advised that clozapine orally disintegrating tablets should remain in the original package until immediately before use [see Dosage and Administration (2.2)].
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED FEBRUARY 2016 CLOZOD:R8
+Revised: 3/2017 CLOZOD:R11

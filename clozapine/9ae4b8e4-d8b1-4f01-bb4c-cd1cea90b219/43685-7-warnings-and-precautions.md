@@ -13,11 +13,11 @@ To improve and standardize understanding, “severe neutropenia” replaces the 
 
 Severe neutropenia, ANC less than (<) 500/μL, occurs in a small percentage of patients taking clozapine orally disintegrating tablets and is associated with an increase in the risk of serious and potentially fatal infections.
 Risk of neutropenia appears greatest during the first 18 weeks on treatment and then declines.
-The mechanism by which clozapine causes neutropenia is unknown and is not dose-dependent.
+The mechanism by which clozapine orally disintegrating tablets cause neutropenia is unknown and is not dose-dependent.
 
 Two separate management algorithms are provided below, the first for patients in the general population, and the second for patients identified to have baseline neutropenia.
 
-### Clozapine Treatment and Monitoring in the General Patient Population (see Table 2)
+### Clozapine Orally Disintegrating Tablets Treatment and Monitoring in the General Patient Population (see Table 2)
 
 Obtain a CBC, including the ANC value, prior to initiating treatment with clozapine orally disintegrating tablets to ensure the presence of a normal baseline neutrophil count (equal to or greater than 1500/μL) and to permit later comparisons.
 Patients in the general population with an ANC equal to or greater than (≥) 1500/μL are considered within normal range (Table 2) and are eligible to initiate treatment.
@@ -25,36 +25,36 @@ Weekly ANC monitoring is required for all patients during the first 6 months of 
 If a patient’s ANC remains equal to or greater than 1500/μL for the first 6 months of treatment, monitoring frequency may be reduced to every 2 weeks for the next 6 months.
 If the ANC remains equal to or greater than 1500/μL for the second 6 months of continuous therapy, ANC monitoring frequency may be reduced to once every 4 weeks thereafter.
 
-Table 2: Clozapine Treatment Recommendations Based on Absolute Neutrophil Count (ANC) Monitoring for the General Patient Population
+Table 2: Clozapine Orally Disintegrating Tablets Treatment Recommendations Based on Absolute Neutrophil Count (ANC) Monitoring for the General Patient Population
 
-| ANC Level | Clozapine Treatment Recommendations | ANC Monitoring |
+| ANC Level | Clozapine Orally Disintegrating Tablets Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
 | Normal range(≥ 1500/μL) | •Initiate treatment•If treatment interrupted: •< 30 days, continue monitoring as before•≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
 | •Discontinuation for reasons other than neutropenia | •See Section 2.5 |  |
 | Mild Neutropenia(1000 to 1499/μL)Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours | •Continue treatment | •Three times weekly until ANC ≥ 1500/μL•Once ANC ≥ 1500/μL, return to patient’s last “Normal Range” ANC monitoring intervalIf clinically appropriate |
-| Moderate Neutropenia(500 to 999/µL) | •Recommend hematology consultation•Interrupt treatment for suspected clozapine induced neutropenia•Resume treatment once ANC ≥ 1000/µL | •Daily until ANC ≥ 1000/µL, then•Three times weekly until ANC ≥ 1500/µL •Once ANC ≥ 1500/µL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval |
+| Moderate Neutropenia(500 to 999/µL) | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Resume treatment once ANC ≥ 1000/µL | •Daily until ANC ≥ 1000/µL, then•Three times weekly until ANC ≥ 1500/µL •Once ANC ≥ 1500/µL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval |
 | Severe Neutropenia(less than 500/µL) | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥ 1000/µL, then •Three times weekly until ANC ≥ 1500/µL •If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥ 1500/µL |
 
-### Clozapine Treatment and Monitoring in Patients with Benign Ethnic Neutropenia (see Table 3)
+### Clozapine Orally Disintegrating Tablets Treatment and Monitoring in Patients with Benign Ethnic Neutropenia (see Table 3)
 
 Benign ethnic neutropenia (BEN) is a condition observed in certain ethnic groups whose average ANC values are lower than “standard” laboratory ranges for neutrophils.
 It is most commonly observed in individuals of African descent (approximate prevalence of 25-50%), some Middle Eastern ethnic groups, and in other non-Caucasian ethnic groups with darker skin.
 BEN is more common in men.
 Patients with BEN have normal hematopoietic stem-cell number and myeloid maturation, are healthy, and do not suffer from repeated or severe infections.
-They are not at increased risk for developing clozapine-induced neutropenia.
+They are not at increased risk for developing clozapine orally disintegrating tablets-induced neutropenia.
 Additional evaluation may be needed to determine if baseline neutropenia is due to BEN.
 Consider hematology consultation before initiating or during clozapine orally disintegrating tablets treatment as necessary.
 
-Patients with BEN require a different ANC algorithm for clozapine management due to their lower baseline ANC levels.
+Patients with BEN require a different ANC algorithm for clozapine orally disintegrating tablets management due to their lower baseline ANC levels.
 Table 3 provides guidelines for managing clozapine orally disintegrating tablets treatment and ANC monitoring in patients with BEN.
 
-Table 3: Patients with Benign Ethnic Neutropenia (BEN); Clozapine Treatment Recommendations Based on Absolute Neutrophil Count (ANC) Monitoring
+Table 3: Patients with Benign Ethnic Neutropenia (BEN); Clozapine Orally Disintegrating Tablets Treatment Recommendations Based on Absolute Neutrophil Count (ANC) Monitoring
 
 | ANC Level | Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Normal BEN Range(Established ANC baseline ≥ 1000/µL) | •Obtain at least two baseline ANC levels before initiating treatment•If treatment interrupted:•< 30 days, continue monitoring as before•≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
+| Normal BEN Range(Established ANC baseline ≥ 1000/µL) | •Obtain at least two baseline ANC levels before initiating treatment•If treatment interrupted: •< 30 days, continue monitoring as before•≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
 | •Discontinuation of treatment for reasons other than neutropenia | •See Section 2.5 |  |
-| BENNeutropenia(500 to 999/µL)Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours | •Recommend hematology consultation•Continue treatment | •Three times weekly until ANC ≥ 1000/µL or ≥ patient’s known baseline•Once ANC ≥ 1000/µL, or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring intervalIf clinically appropriate |
+| BENNeutropenia(500 to 999/µL)Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours | •Recommend hematology consultation•Continue treatment | •Three times weekly until ANC ≥ 1000/µL or ≥ patient’s known baseline•Once ANC ≥ 1000/µL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring intervalIf clinically appropriate |
 | BEN Severe Neutropenia(less than 500/µL) | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥ 500/µL, then•Three times weekly until ANC ≥ patient’s baseline •If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥ 1000/µL or at patient’s baseline |
 
 ### General Guidelines for Management of All Patients with Fever or with Neutropenia
@@ -63,11 +63,11 @@ Table 3: Patients with Benign Ethnic Neutropenia (BEN); Clozapine Treatment Reco
   Fever is often the first sign of neutropenic infection.
 - •ANC less than 1000/µL: If fever occurs in any patient with an ANC less than 1000/µL, initiate appropriate workup and treatment for infection and refer to Tables 2 or 3 for management.
 - •Consider hematology consultation.
-- •See Neuroleptic Malignant Syndrome [NMS] and Fever under WARNINGS and PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
+- •See Neuroleptic Malignant Syndrome (NMS) and Fever under WARNINGS AND PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
 
-### Rechallenge after an ANC less than 500/µL (severe neutropenia)
+### Rechallenge After an ANC Less Than 500/µL (Severe Neutropenia)
 
-For some patients who experience severe clozapine-related neutropenia, the risk of serious psychiatric illness from discontinuing clozapine orally disintegrating tablets treatment may be greater than the risk of rechallenge (e.g., patients with severe schizophrenic illness who have no treatment options other than clozapine orally disintegrating tablets).
+For some patients who experience severe clozapine orally disintegrating tablets-related neutropenia, the risk of serious psychiatric illness from discontinuing clozapine orally disintegrating tablets treatment may be greater than the risk of rechallenge (e.g., patients with severe schizophrenic illness who have no treatment options other than clozapine orally disintegrating tablets).
 A hematology consultation may be useful in deciding to rechallenge a patient.
 In general, however, do not rechallenge patients who develop severe neutropenia with clozapine orally disintegrating tablets or a clozapine product.
 
@@ -75,9 +75,9 @@ If a patient will be rechallenged, the clinician should consider thresholds prov
 
 ### Using Clozapine Orally Disintegrating Tablets with Other Drugs Associated with Neutropenia
 
-It is unclear if concurrent use of other drugs known to cause neutropenia increases the risk or severity of clozapine-induced neutropenia.
-There is no strong scientific rationale to avoid clozapine treatment in patients concurrently treated with these drugs.
-If clozapine is used concurrently with an agent known to cause neutropenia (e.g., some chemotherapeutic agents), consider monitoring patients more closely than the treatment guidelines provided in Tables 2 and 3.
+It is unclear if concurrent use of other drugs known to cause neutropenia increases the risk or severity of clozapine orally disintegrating tablets-induced neutropenia.
+There is no strong scientific rationale to avoid clozapine orally disintegrating tablets treatment in patients concurrently treated with these drugs.
+If clozapine orally disintegrating tablets are used concurrently with an agent known to cause neutropenia (e.g., some chemotherapeutic agents), consider monitoring patients more closely than the treatment guidelines provided in Tables 2 and 3.
 Consult with the treating oncologist in patients receiving concomitant chemotherapy.
 
 ## 5.2 Clozapine REMS Program
@@ -86,9 +86,9 @@ Clozapine orally disintegrating tablets are only available through a restricted 
 
 Notable requirements of the Clozapine REMS Program include:
 
-- •Healthcare professionals who prescribe clozapine orally disintegrating tablets must be certified with the program by enrolling and completing training
-- •Patients who receive clozapine orally disintegrating tablets must be enrolled in the program and comply with the ANC testing and monitoring requirements
-- •Pharmacies dispensing clozapine orally disintegrating tablets must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive clozapine orally disintegrating tablets
+- •Healthcare professionals who prescribe clozapine orally disintegrating tablets must be certified with the program by enrolling and completing training.
+- •Patients who receive clozapine orally disintegrating tablets must be enrolled in the program and comply with the ANC testing and monitoring requirements.
+- •Pharmacies dispensing clozapine orally disintegrating tablets must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive clozapine orally disintegrating tablets.
 
 Further information is available at www.clozapinerems.com or 1-844-267-8678.
 
@@ -110,7 +110,12 @@ When restarting patients who have had even a brief interval off clozapine orally
 
 Use clozapine orally disintegrating tablets cautiously in patients with cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (e.g., concomitant use of antihypertensives, dehydration and hypovolemia).
 
-## 5.4 Seizures
+## 5.4 Falls
+
+Clozapine orally disintegrating tablets may cause somnolence, postural hypotension, and motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic treatment.
+
+## 5.5 Seizures
 
 Seizure has been estimated to occur in association with clozapine use at a cumulative incidence at one year of approximately 5%, based on the occurrence of one or more seizures in 61 of 1,743 patients exposed to clozapine during its clinical testing prior to domestic marketing (i.e., a crude rate of 3.5%).
 The risk of seizure is dose-related.
@@ -119,7 +124,7 @@ Initiate treatment with a low dose (12.5 mg), titrate slowly, and use divided do
 Use caution when administering clozapine orally disintegrating tablets to patients with a history of seizures or other predisposing risk factors for seizure (e.g., head trauma or other CNS pathology, use of medications that lower the seizure threshold, or alcohol abuse).
 Because of the substantial risk of seizure associated with clozapine orally disintegrating tablets use, caution patients about engaging in any activity where sudden loss of consciousness could cause serious risk to themselves or others (e.g., driving an automobile, operating complex machinery, swimming, climbing).
 
-## 5.5 Myocarditis and Cardiomyopathy
+## 5.6 Myocarditis and Cardiomyopathy
 
 Myocarditis and cardiomyopathy have occurred with the use of clozapine.
 These reactions can be fatal.
@@ -128,14 +133,14 @@ Generally, patients with a history of clozapine-associated myocarditis or cardio
 However, if the benefit of clozapine orally disintegrating tablets treatment is judged to outweigh the potential risks of recurrent myocarditis or cardiomyopathy, the clinician may consider rechallenge with clozapine orally disintegrating tablets in consultation with a cardiologist, after a complete cardiac evaluation, and under close monitoring.
 
 Consider the possibility of myocarditis or cardiomyopathy in patients receiving clozapine orally disintegrating tablets who present with chest pain, dyspnea, persistent tachycardia at rest, palpitations, fever, flu-like symptoms, hypotension, other signs or symptoms of heart failure, or electrocardiographic findings (low voltages, ST-T abnormalities, arrhythmias, right axis deviation, and poor R wave progression).
-Myocarditis most frequently presents within the first 2 months of clozapine orally disintegrating tablets treatment.
+Myocarditis most frequently presents within the first two months of clozapine treatment.
 Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis and usually after 8 weeks of treatment.
 However, myocarditis and cardiomyopathy can occur at any period during treatment with clozapine orally disintegrating tablets.
 It is common for nonspecific flu-like symptoms such as malaise, myalgia, pleuritic chest pain, and low-grade fevers to precede more overt signs of heart failure.
 Typical laboratory findings include elevated troponin I or T, elevated creatinine kinase-MB, peripheral eosinophilia, and elevated C-reactive protein (CRP).
 Chest roentgenogram may demonstrate cardiac silhouette enlargement, and cardiac imaging (echocardiogram, radionucleotide studies, or cardiac catheterization) may reveal evidence of left ventricular dysfunction.
 
-## 5.6 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+## 5.7 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
@@ -145,7 +150,7 @@ Observational studies suggest that, similar to atypical antipsychotic drugs, tre
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 Clozapine orally disintegrating tablets are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
-## 5.7 Eosinophilia
+## 5.8 Eosinophilia
 
 Eosinophilia, defined as a blood eosinophil count of greater than 700/μL, has occurred with clozapine treatment.
 In clinical trials, approximately 1% of patients developed eosinophilia.
@@ -162,7 +167,7 @@ There are reports of successful rechallenge after discontinuation of clozapine, 
 In the absence of organ involvement, continue clozapine orally disintegrating tablets under careful monitoring.
 If the total eosinophil count continues to increase over several weeks in the absence of systemic disease, the decision to interrupt clozapine orally disintegrating tablets therapy and rechallenge after the eosinophil count decreases should be based on the overall clinical assessment, in consultation with an internist or hematologist.
 
-## 5.8 QT Interval Prolongation
+## 5.9 QT Interval Prolongation
 
 QT prolongation, Torsades de Pointes and other life-threatening ventricular arrhythmias, cardiac arrest, and sudden death have occurred with clozapine treatment.
 When prescribing clozapine orally disintegrating tablets, consider the presence of additional risk factors for QT prolongation and serious cardiovascular reactions.
@@ -174,10 +179,10 @@ Correct electrolyte abnormalities.
 Discontinue clozapine orally disintegrating tablets if the QTc interval exceeds 500 msec.
 If patients experience symptoms consistent with Torsades de Pointes or other arrhythmias (e.g., syncope, presyncope, dizziness, or palpitations), obtain a cardiac evaluation and discontinue clozapine orally disintegrating tablets.
 
-Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of clozapine.
+Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of clozapine orally disintegrating tablets.
 Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmic medications (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus).
-Clozapine is primarily metabolized by CYP isoenzymes 1A2, 2D6, and 3A4.
-Concomitant treatment with inhibitors of these enzymes can increase the concentration of clozapine [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+Clozapine orally disintegrating tablets are primarily metabolized by CYP isoenzymes 1A2, 2D6, and 3A4.
+Concomitant treatment with inhibitors of these enzymes can increase the concentration of clozapine orally disintegrating tablets [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 Hypokalemia and hypomagnesemia increase the risk of QT prolongation.
 Hypokalemia can result from diuretic therapy, diarrhea, and other causes.
@@ -185,15 +190,15 @@ Use caution when treating patients at risk for significant electrolyte disturban
 Obtain baseline measurements of serum potassium and magnesium levels, and periodically monitor electrolytes.
 Correct electrolyte abnormalities before initiating treatment with clozapine orally disintegrating tablets.
 
-## 5.9 Metabolic Changes
+## 5.10 Metabolic Changes
 
-Atypical antipsychotic drugs, including clozapine have been associated with metabolic changes that can increase cardiovascular and cerebrovascular risk.
+Atypical antipsychotic drugs, including clozapine orally disintegrating tablets, have been associated with metabolic changes that can increase cardiovascular and cerebrovascular risk.
 These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
 While atypical antipsychotic drugs may produce some metabolic changes, each drug in the class has its own specific risk profile.
 
 ### Hyperglycemia and Diabetes Mellitus
 
-Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics including clozapine.
+Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics including clozapine orally disintegrating tablets.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse reactions is not completely understood.
 However, epidemiological studies suggest an increased risk of treatment-emergent, hyperglycemia-related adverse reactions in patients treated with the atypical antipsychotics.
@@ -205,7 +210,7 @@ Any patient treated with atypical antipsychotics should be monitored for symptom
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
 
-In a pooled data analysis of eight studies in adult subjects with schizophrenia, the mean changes in fasting glucose concentration in the clozapine and chlorpromazine groups were +11 mg/dL and +4 mg/dL respectively.
+In a pooled data analysis of 8 studies in adult subjects with schizophrenia, the mean changes in fasting glucose concentration in the clozapine and chlorpromazine groups were +11 mg/dL and +4 mg/dL, respectively.
 A higher proportion of the clozapine group demonstrated categorical increases from baseline in fasting glucose concentrations, compared to the chlorpromazine group (Table 4).
 The clozapine doses were 100 mg to 900 mg per day (mean modal dose: 512 mg per day).
 The maximum chlorpromazine dose was 1800 mg per day (mean modal dose: 1029 mg per day).
@@ -215,20 +220,20 @@ Table 4: Categorical Changes in Fasting Glucose Level in Studies in Adult Subjec
 
 | Laboratory Parameter | Category Change(at least once) from Baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
-| Fasting Glucose | Normal (< 100 mg/dL) to High (≥ 126 mg/dL) | Clozapine | 198 | 53 (27) |
+| Fasting Glucose | Normal (< 100 mg/dL) to High (≥ 126 mg/dL) | Clozapine Tablets | 198 | 53 (27) |
 | Chlorpromazine | 135 | 14 (10) |  |  |
-| Borderline(100 to 125 mg/dL) to High (≥ 126 mg/dL) | Clozapine | 57 | 24 (42) |  |
+| Borderline(100 mg/dL to 125 mg/dL) to High (≥ 126 mg/dL) | Clozapine Tablets | 57 | 24 (42) |  |
 | Chlorpromazine | 43 | 12 (28) |  |  |
 
 ### Dyslipidemia
 
-Undesirable alterations in lipids have occurred in patients treated with atypical antipsychotics, including clozapine.
+Undesirable alterations in lipids have occurred in patients treated with atypical antipsychotics, including clozapine orally disintegrating tablets.
 Clinical monitoring, including baseline and periodic follow-up lipid evaluations in patients using clozapine orally disintegrating tablets, is recommended.
 
 In a pooled data analysis of 10 studies in adult subjects with schizophrenia, clozapine treatment was associated with increases in serum total cholesterol.
 No data were collected on LDL and HDL cholesterol.
 The mean increase in total cholesterol was 13 mg/dL in the clozapine group and 15 mg/dL in the chlorpromazine group.
-In a pooled data analysis of two studies in adult subjects with schizophrenia, clozapine treatment was associated with increases in fasting serum triglyceride.
+In a pooled data analysis of 2 studies in adult subjects with schizophrenia, clozapine treatment was associated with increases in fasting serum triglyceride.
 The mean increase in fasting triglyceride was 71 mg/dL (54%) in the clozapine group and 39 mg/dL (35%) in the chlorpromazine group (Table 5).
 In addition, clozapine treatment was associated with categorical increases in serum total cholesterol and triglyceride, as illustrated in Table 6.
 The proportion of patients with categorical increases in total cholesterol or fasting triglyceride increased with the duration of exposure.
@@ -240,7 +245,7 @@ Table 5: Mean Changes in Total Cholesterol and Triglyceride Concentration in Stu
 | Treatment Arm | Baseline Total Cholesterol Concentration (mg/dL) | Change from Baseline mg/dL (%) |
 | --- | --- | --- |
 | Clozapine (N = 334) | 184 | +13 (7) |
-| Chlorpromazine (185) | 182 | +15 (8) |
+| Chlorpromazine (N = 185) | 182 | +15 (8) |
 |  | Baseline Triglyceride Concentration (mg/dL) | Change from Baseline mg/dL (%) |
 | Clozapine (N = 6) | 130 | +71 (54) |
 | Chlorpromazine (N = 7) | 110 | +39 (35) |
@@ -251,20 +256,20 @@ Table 6: Categorical Changes in Lipid Concentrations in Studies in Adult Subject
 | --- | --- | --- | --- | --- |
 | Total Cholesterol (random or fasting) | Increase by ≥ 40 mg/dL | Clozapine | 334 | 111 (33) |
 | Chlorpromazine | 185 | 46 (25) |  |  |
-| Normal (< 200 mg/dL) toHigh (≥ 240 mg/dL) | Clozapine | 222 | 18 (8) |  |
+| Normal (< 200 mg/dL) to High (≥ 240 mg/dL) | Clozapine | 222 | 18 (8) |  |
 | Chlorpromazine | 132 | 3 (2) |  |  |
-| Borderline(200 to 239 mg/dL) toHigh (≥ 240 mg/dL) | Clozapine | 79 | 30 (38) |  |
+| Borderline (200 mg/dL to 239 mg/dL) to High (≥ 240 mg/dL) | Clozapine | 79 | 30 (38) |  |
 | Chlorpromazine | 34 | 14 (41) |  |  |
 | Triglycerides (fasting) | Increase by ≥ 50 mg/dL | Clozapine | 6 | 3 (50) |
 | Chlorpromazine | 7 | 3 (43) |  |  |
 | Normal (< 150 mg/dL) to High (≥ 200 mg/dL) | Clozapine | 4 | 0 (0) |  |
 | Chlorpromazine | 6 | 2 (33) |  |  |
-| Borderline(≥ 150 mg/dL and< 200 mg/dL) to High (≥ 200 mg/dL) | Clozapine | 1 | 1 (100) |  |
+| Borderline (≥ 150 mg/dL and < 200 mg/dL) to High (≥ 200 mg/dL) | Clozapine | 1 | 1 (100) |  |
 | Chlorpromazine | 1 | 0 (0) |  |  |
 
 ### Weight Gain
 
-Weight gain has occurred with the use of antipsychotics, including clozapine.
+Weight gain has occurred with the use of antipsychotics, including clozapine orally disintegrating tablets.
 Monitor weight during treatment with clozapine orally disintegrating tablets.
 Table 7 summarizes the data on weight gain by the duration of exposure pooled from 11 studies with clozapine and active comparators.
 The median duration of exposure was 609, 728, and 42 days, in the clozapine, olanzapine, and chlorpromazine group, respectively.
@@ -291,7 +296,7 @@ Table 8: Proportion of Adult Subjects in Schizophrenia Studies with Weight Gain 
 | N | 669 | 442 | 155 |
 | ≥ 7% (inclusive) | 236 (35%) | 203 (46%) | 13 (8%) |
 
-## 5.10 Neuroleptic Malignant Syndrome
+## 5.11 Neuroleptic Malignant Syndrome
 
 Antipsychotic drugs including clozapine orally disintegrating tablets can cause a potentially fatal symptom complex referred to as Neuroleptic Malignant Syndrome (NMS).
 Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered mental status, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).
@@ -300,7 +305,7 @@ Associated findings can include elevated creatine phosphokinase (CPK), myoglobin
 The diagnostic evaluation of patients with this syndrome is complicated.
 It is important to consider the presence of other serious medical conditions (e.g., severe neutropenia, infection, heat stroke, primary CNS pathology, central anticholinergic toxicity, extrapyramidal symptoms, and drug fever).
 
-The management of NMS should include (1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, (2) intensive symptomatic treatment and medical monitoring, and (3) treatment of comorbid medical conditions.
+The management of NMS should include (1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, (2) intensive symptomatic treatment and medical monitoring, and (3) treatment of co-morbid medical conditions.
 There is no general agreement about specific pharmacological treatments for NMS.
 
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
@@ -309,22 +314,28 @@ Monitor closely if restarting treatment with antipsychotics.
 
 NMS has occurred with clozapine monotherapy and with concomitant CNS-active medications, including lithium.
 
-## 5.11 Fever
+## 5.12 Hepatotoxicity
+
+Severe, life threatening, and in some cases fatal hepatotoxicity including hepatic failure, hepatic necrosis, and hepatitis have been reported in patients treated with clozapine [see Adverse Reactions (6.2)].
+Monitor for the appearance of signs and symptoms of hepatotoxicity such as fatigue, malaise, anorexia, nausea, jaundice, bilirubinemia, coagulopathy, and hepatic encephalopathy.
+Perform serum tests for liver injury and consider permanently discontinuing treatment if hepatitis or transaminase elevations combined with other systemic symptoms are due to clozapine.
+
+## 5.13 Fever
 
 During clozapine therapy, patients have experienced transient, clozapine-related fever.
 The peak incidence is within the first 3 weeks of treatment.
 While this fever is generally benign and self-limited, it may necessitate discontinuing treatment.
 The fever can be associated with an increase or decrease in WBC count.
 Carefully evaluate patients with fever to rule out severe neutropenia or infection.
-Consider the possibility of NMS [see Warnings and Precautions (5.10)].
+Consider the possibility of NMS [see Warnings and Precautions (5.11)].
 
-## 5.12 Pulmonary Embolism
+## 5.14 Pulmonary Embolism
 
-Pulmonary embolism and deep-vein thrombosis have occurred in patients treated with clozapine.
-Consider the possibility of pulmonary embolism in patients who present with deep-vein thrombosis, acute dyspnea, chest pain, or with other respiratory signs and symptoms.
+Pulmonary embolism and deep vein thrombosis have occurred in patients treated with clozapine.
+Consider the possibility of pulmonary embolism in patients who present with deep vein thrombosis, acute dyspnea, chest pain, or with other respiratory signs and symptoms.
 Whether pulmonary embolus and deep vein thrombosis can be attributed to clozapine or some characteristic(s) of patients is not clear.
 
-## 5.13 Anticholinergic Toxicity
+## 5.15 Anticholinergic Toxicity
 
 Clozapine orally disintegrating tablets have potent anticholinergic effects.
 Treatment with clozapine orally disintegrating tablets can result in CNS and peripheral anticholinergic toxicity.
@@ -335,16 +346,16 @@ Such reactions can be fatal.
 Constipation should be initially treated by ensuring adequate hydration and use of ancillary therapy such as bulk laxatives.
 Consultation with a gastroenterologist is advisable in more serious cases.
 
-## 5.14 Interference with Cognitive and Motor Performance
+## 5.16 Interference with Cognitive and Motor Performance
 
 Clozapine orally disintegrating tablets can cause sedation and impairment of cognitive and motor performance.
 Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that clozapine orally disintegrating tablets do not affect them adversely.
 These reactions may be dose-related.
 Consider reducing the dose if they occur.
 
-## 5.15 Tardive Dyskinesia
+## 5.17 Tardive Dyskinesia
 
-Tardive dyskinesia (TD) has occurred in patients treated with antipsychotic drugs, including clozapine.
+Tardive dyskinesia (TD) has occurred in patients treated with antipsychotic drugs, including clozapine orally disintegrating tablets.
 The syndrome consists of potentially irreversible, involuntary, dyskinetic movements.
 The risk of TD and the likelihood that it will become irreversible are believed to increase with greater durations of treatment and higher total cumulative doses.
 However, the syndrome can develop after relatively brief treatment periods at low doses.
@@ -359,19 +370,19 @@ However, the syndrome may remit partially or completely if treatment is disconti
 Antipsychotic treatment, itself, may suppress (or partially suppress) the signs and symptoms, and it has the potential to mask the underlying process.
 The effect of symptom suppression on the long-term course of TD is unknown.
 
-## 5.16 Patients with Phenylketonuria
+## 5.18 Patients with Phenylketonuria
 
 Phenylketonuric patients should be informed that clozapine orally disintegrating tablets contain phenylalanine (a component of aspartame).
 Each 25 mg, orally disintegrating tablet contains 1.90 mg phenylalanine.
-Each 100 mg, orally disintegrating tablet contains 7.59 mg phenylalanine.
+Each 100 mg, orally disintegrating tablet contains 7.59 mg phenylalanine..
 
-## 5.17 Cerebrovascular Adverse Reactions
+## 5.19 Cerebrovascular Adverse Reactions
 
 In controlled trials, elderly patients with dementia-related psychosis treated with some atypical antipsychotics had an increased risk (compared to placebo) of cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities.
 The mechanism for this increased risk is not known.
 An increased risk cannot be excluded for clozapine orally disintegrating tablets or other antipsychotics or other patient populations.
 Clozapine orally disintegrating tablets should be used with caution in patients with risk factors for cerebrovascular adverse reactions.
 
-## 5.18 Recurrence of Psychosis and Cholinergic Rebound After Abrupt Discontinuation of Clozapine Orally Disintegrating Tablets
+## 5.20 Recurrence of Psychosis and Cholinergic Rebound After Abrupt Discontinuation of Clozapine Orally Disintegrating Tablets
 
-If abrupt discontinuation of clozapine orally disintegrating tablets is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.5), Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting, and diarrhea.
+If abrupt discontinuation of clozapine orally disintegrating tablets is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.5) and Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting, and diarrhea.
