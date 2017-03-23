@@ -48,20 +48,20 @@ Patients should be advised of the risk of orthostatic hypotension (symptoms incl
 
 Increased Blood Pressure in Children and Adolescents
 
-Children and adolescent patients should have their blood pressure measured at the beginning of, and periodically during, treatment [see WARNINGS AND PRECAUTIONS (5.8)].
+Children and adolescent patients should have their blood pressure measured at the beginning of, and periodically during, treatment [see WARNINGS AND PRECAUTIONS (5.9)].
 
 Leukopenia/Neutropenia
 
-Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine [see WARNINGS AND PRECAUTIONS (5.9)].
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine [see WARNINGS AND PRECAUTIONS (5.10)].
 
 Interference with Cognitive and Motor Performance
 
 Patients should be advised of the risk of somnolence or sedation (which may lead to falls), especially during the period of initial dose titration.
-Patients should be cautioned about performing any activity requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating machinery, until they are reasonably certain quetiapine therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.15)].
+Patients should be cautioned about performing any activity requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating machinery, until they are reasonably certain quetiapine therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.16)].
 
 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see WARNINGS AND PRECAUTIONS (5.16)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see WARNINGS AND PRECAUTIONS (5.17)].
 
 Concomitant Medication
 
@@ -88,4 +88,4 @@ United States.
 
 MADE IN INDIA.
 
-Rev: July 21, 2016 ID#: 248002
+Rev: April 2017 ID#: 251261

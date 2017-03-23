@@ -60,7 +60,7 @@ Table 19: Schizophrenia Short-Term Trials
 
 ## 14.2 Bipolar Disorder
 
-Bipolar I disorder, manic or mixed episodes
+Bipolar I Disorder, Manic or Mixed Episodes
 
 Adults:
 
@@ -74,18 +74,17 @@ The primary rating instrument used for assessing manic symptoms in these trials 
 
 The results of the trials follow:
 
-Monotherapy:
+Monotherapy
 
 The efficacy of quetiapine in the acute treatment of bipolar mania was established in 2 placebo-controlled trials.
 In two 12-week trials (n=300, n=299) comparing quetiapine to placebo, quetiapine was superior to placebo in the reduction of the YMRS total score at weeks 3 and 12.
 The majority of patients in these trials taking quetiapine were dosed in a range between 400 mg/day and 800 mg per day (studies 1 and 2 in Table 20).
 
-Adjunct Therapy:
+Adjunct Therapy
 
 In this 3-week placebo-controlled trial, 170 patients with bipolar mania (YMRS ≥20) were randomized to receive quetiapine or placebo as adjunct treatment to lithium or divalproex.
 Patients may or may not have received an adequate treatment course of lithium or divalproex prior to randomization.
-Quetiapine was superior to placebo when added to lithium or divalproex alone in the reduction of YMRS total score.
-(study 3 in Table 20).
+Quetiapine was superior to placebo when added to lithium or divalproex alone in the reduction of YMRS total score (study 3 in Table 20).
 
 The majority of patients in this trial taking quetiapine were dosed in a range between 400 mg/day and 800 mg per day.
 In a similarly designed trial (n=200), quetiapine was associated with an improvement in YMRS scores but did not demonstrate superiority to placebo, possibly due to a higher placebo effect.

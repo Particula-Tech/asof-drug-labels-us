@@ -91,7 +91,7 @@ Before you take quetiapine tablets, tell your healthcare provider if you have or
 - any other medical condition
 - pregnancy or plans to become pregnant.
   It is not known if quetiapine tablets will harm your unborn baby.
-- breastfeeding or plans to breastfeed.
+- Breast-feeding or plans to breast-feed.
   Quetiapine can pass into your breast milk.
   You and your healthcare provider should decide if you will take quetiapine tablets or breast-feed.
   You should not do both.
@@ -145,6 +145,8 @@ Quetiapine tablets can cause serious side effects, including:
   - rigid muscles
   - confusion
   - changes in your breathing, heartbeat, and blood pressure
+- falls can happen in some people who take quetiapine tablets.
+  These falls may cause serious injuries.
 - high blood sugar (hyperglycemia).
   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
   High blood sugar could lead to:
@@ -188,7 +190,7 @@ Call your healthcare provider if you have any of these symptoms of high blood su
 - sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
 - increased body temperature
 - difficulty swallowing
-- trouble sleeping or trouble staying asleep (insomnia), nausea, and vomiting if you suddenly stop taking quetiapine tablets.
+- trouble sleeping or trouble staying asleep (insomnia), nausea, or vomiting if you suddenly stop taking quetiapine tablets.
   These symptoms usually get better 1 week after you start having them.
 
 The most common side effects of quetiapine tablets include:
@@ -215,7 +217,7 @@ In Children and Adolescents:
 These are not all the possible side effects of quetiapine tablets.
 For more information, ask your healthcare provider or pharmacist.
 
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 You may also report side effects to Lupin Pharmaceuticals, Inc. at 1-800-399-2561.
@@ -257,4 +259,4 @@ United States.
 
 MADE IN INDIA.
 
-Rev: December 2015 ID#: 242295
+Rev: April 2017 ID#: 251262
