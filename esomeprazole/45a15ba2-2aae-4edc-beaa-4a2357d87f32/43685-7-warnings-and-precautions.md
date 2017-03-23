@@ -39,8 +39,7 @@ The majority of patients presented with rash; however, arthralgia and cytopenia 
 Avoid administration of PPIs for longer than medically indicated.
 If signs or symptoms consistent with CLE or SLE are noted in patients receiving esomeprazole, discontinue the drug and refer the patient to the appropriate specialist for evaluation.
 Most patients improve with discontinuation of the PPI alone in 4 to 12 weeks.
-Serological testing (e.g.
-ANA) may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
+Serological testing (e.g., ANA) may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
 
 ## 5.6 Interaction with Clopidogrel
 
@@ -58,19 +57,19 @@ Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
 
-## 5.8 Concomitant Use of Esomeprazole with St. John's Wort or Rifampin
+## 5.8 Interaction with St. John's Wort or Rifampin
 
 Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s Wort or rifampin) can substantially decrease esomeprazole concentrations [see Drug Interactions (7)].
 Avoid concomitant use of esomeprazole with St. John’s Wort or rifampin.
 
-## 5.9 Interactions with Investigations for Neuroendocrine Tumors
+## 5.9 Interactions with Diagnostic Investigations for Nuroendocrine Tumors
 
 Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 Healthcare providers should temporarily stop esomeprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
-If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Clinical Pharmacology (12.2)].
+If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Clinical Pharmacology (12.2)].
 
-## 5.10 Concomitant Use of Esomeprazole with Methotrexate
+## 5.10 Interaction with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.3)].
+In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.3)].

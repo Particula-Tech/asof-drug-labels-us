@@ -20,4 +20,5 @@ Administration
   This may be a sign of Clostridium difficile-associated diarrhea [see Warnings and Precautions (5.3)].
 - Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.7)].
 
-Manufactured for: AuroMedics Pharma LLC 6 Wheeling Road Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited IDA, Pashamylaram - 502307 India
+Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad – 500038 India

@@ -15,7 +15,7 @@ Twenty-two healthy subjects were included in the study.
 In the second study, 40 mg of esomeprazole sodium for injection was administered intravenously once daily at constant rate over 30 minutes for 5 days.
 Thirty-eight healthy subjects were included in the study.
 
-Table 4 Effect of Esomeprazole Sodium for Injection on Intragastric pH on Day 5
+Table 4: Effect of Esomeprazole Sodium for Injection on Intragastric pH on Day 5
 
 |  | Esomeprazole 20 mg (n=22) | Esomeprazole 40 mg (n=38) |
 | --- | --- | --- |
@@ -24,9 +24,9 @@ Table 4 Effect of Esomeprazole Sodium for Injection on Intragastric pH on Day 5
 
 Gastric pH was measured over a 24-hour period
 
-In a study in H. pylori negative healthy Caucasian volunteers (n=24), the % time over 24 hours (95% CI) when intragastric pH was >6 and >7 was 52.3% (40.3 to 64.4) and 4.8% (1.8 to 7.8), respectively during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
-In a study in H. pylori positive and H. pylori negative healthy Chinese subjects (overall n=19), the % time over 24 hours (95% CI) when intragastric pH was >6 and >7 was 53% (45.6 to 60.3) and 15.1% (9.5 to 20.7) in the overall study population during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
-When comparing H. pylori positive (n=8) vs. negative (n=11) subjects, the percentage of time in a 24 h period with intragastric pH >6 [59% vs. 47%] and with pH >7 [17% vs. 11%] tended to be larger in the H. pylori positive subjects.
+In a study in H. pylori negative healthy Caucasian volunteers (n=24), the % time over 24 hours (95% CI) when intragastric pH was > 6 and > 7 was 52.3% (40.3 to 64.4) and 4.8% (1.8 to 7.8), respectively during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
+In a study in H. pylori positive and H. pylori negative healthy Chinese subjects (overall n=19), the % time over 24 hours (95% CI) when intragastric pH was > 6 and > 7 was 53% (45.6 to 60.3) and 15.1% (9.5 to 20.7) in the overall study population during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
+When comparing H. pylori positive (n=8) vs. negative (n=11) subjects, the percentage of time in a 24 h period with intragastric pH > 6 [59% vs. 47%] and with pH > 7 [17% vs. 11%] tended to be larger in the H. pylori positive subjects.
 Serum Gastrin Effects In oral studies, the effect of esomeprazole on serum gastrin concentrations was evaluated in approximately 2,700 patients in clinical trials up to 8 weeks and in over 1,300 patients for up to 6 to 12 months.
 The mean fasting gastrin level increased in a dose-related manner.
 This increase reached a plateau within two to three months of therapy and returned to baseline levels within four weeks after discontinuation of therapy.
@@ -49,7 +49,7 @@ Omeprazole given in oral doses of 30 or 40 mg for 2 to 4 weeks had no effect on 
 Absorption The pharmacokinetic profile of esomeprazole sodium for injection 20 mg and 40 mg was determined in 24 healthy volunteers for the 20 mg dose and 38 healthy volunteers for the 40 mg dose following once daily administration of 20 mg and 40 mg of esomeprazole sodium for injection by constant rate over 30 minutes for five days.
 The results are shown in the following table:
 
-Table 5 Pharmacokinetic Parameters of Esomeprazole Following I.V.
+Table 5: Pharmacokinetic Parameters of Esomeprazole Following I.V.
 Dosing for 5 days
 
 | Parameter | Esomeprazole Sodium for Injection 20 mg | Esomeprazole Sodium for Injection 40 mg |
@@ -68,7 +68,7 @@ Distribution
 
 Esomeprazole is 97% bound to plasma proteins.
 Plasma protein binding is constant over the concentration range of 2 to 20 µmol/L.
-The apparent volume of distribution at steady state in healthy volunteers is approximately 16 L. Metabolism Esomeprazole is extensively metabolized in the liver by the cytochrome P450 (CYP) enzyme system.
+The apparent volume of distribution at steady state in healthy volunteers is approximately 16 L. Elimination Metabolism Esomeprazole is extensively metabolized in the liver by the cytochrome P450 (CYP) enzyme system.
 The metabolites of esomeprazole lack antisecretory activity.
 The major part of esomeprazole’s metabolism is dependent upon the CYP2C19 isoenzyme, which forms the hydroxy and desmethyl metabolites.
 The remaining amount is dependent on CYP3A4 which forms the sulphone metabolite.
@@ -87,28 +87,29 @@ Concomitant Use with Mycophenolate Mofetil Administration of omeprazole 20 mg tw
 Specific Populations Investigation of age, gender, race, renal, and hepatic impairment and metabolizer status has been made previously with oral esomeprazole.
 The pharmacokinetics of esomeprazole is not expected to be affected differently by intrinsic or extrinsic factors after intravenous administration compared to oral administration.
 The same recommendations for dose adjustment in special populations are suggested for intravenous esomeprazole as for oral esomeprazole.
-Geriatric In oral studies, the AUC and Cmax values were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
+Age: Geriatric Population In oral studies, the AUC and Cmax values were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
 Dosage adjustment based on age is not necessary.
-Pediatric In a randomized, open-label, multi-national, repeated dose study, esomeprazole PK was evaluated following a once-daily 3-minute injection in a total of 50 pediatric patients 0 to 17 years old, inclusive.
+Age: Pediatric Population In a randomized, open-label, multi-national, repeated dose study, esomeprazole PK was evaluated following a once-daily 3-minute injection in a total of 50 pediatric patients 0 to 17 years old, inclusive.
 Esomeprazole plasma AUC values for 20 mg esomeprazole sodium for injection were 183% and 60% higher in pediatric patients aged 6 to 11 years and 12 to 17 years respectively compared to adults given 20 mg.
 Subsequent pharmacokinetic analyses predicted that a dosage regimen of 0.5 mg/kg once-daily for pediatric patients 1 to 11 months of age, 10 mg for pediatric patients 1 to 17 years with body weight <55 kg, and 20 mg for pediatric patients 1 to 17 years with body weight >55 kg would achieve comparable steady-state plasma exposures (AUC0-24) to those observed in adult patients administered 20 mg of esomeprazole sodium for injection once every 24 hours.
 Further, increasing the infusion duration from 3 minutes to 10 minutes or 30 minutes was predicted to produce steady-state Cmax values that were comparable to those observed in adult patients at the 40 mg and 20 mg esomeprazole sodium for injection doses.
 Gender In oral studies, the AUC and Cmax values were slightly higher (13%) in females than in males at steady state.
 Similar differences have been seen for intravenous administration of esomeprazole.
 Dosage adjustment based on gender is not necessary.
-Hepatic Impairment In oral studies, the steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child Pugh Class A), moderate (Child Pugh Class B), and severe (Child Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
+Hepatic Impairment In oral studies, the steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child-Pugh Class A), moderate (Child-Pugh Class B), and severe (Child-Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
 In patients with mild and moderate hepatic insufficiency, the AUCs were within the range that could be expected in patients with normal liver function.
 In patients with severe hepatic insufficiency the AUCs were 2 to 3 times higher than in the patients with normal liver function.
-No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a maximum dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2), Use in Specific Populations (8.6)].
+No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child-Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child-Pugh Class C) a maximum dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2), Use in Specific Populations (8.6)].
 There are no pharmacokinetic data available for esomeprazole administered as continuous intravenous administration in patients with liver impairment.
-The pharmacokinetics of omeprazole 80 mg over 30 minutes, followed by 8 mg/h over 47.5 hours in patients with mild (Child Pugh Class A; n=5), moderate (Child Pugh Class B; n=4) and severe (Child Pugh Class C; n=3) liver impairment were compared to those obtained in 24 male and female healthy volunteers.
+The pharmacokinetics of omeprazole 80 mg over 30 minutes, followed by 8 mg/h over 47.5 hours in patients with mild (Child-Pugh Class A; n=5), moderate (Child-Pugh Class B; n=4) and severe (Child-Pugh Class C; n=3) liver impairment were compared to those obtained in 24 male and female healthy volunteers.
 In patients with mild and moderate liver impairment, omeprazole clearance and steady state plasma concentration was approximately 35% lower and 50% higher, respectively, than in healthy volunteers.
 In patients with severe liver impairment, the omeprazole clearance was 50% of that in healthy volunteers and the steady state plasma concentration was double that in healthy volunteers.
+For adult patients with bleeding gastric or duodenal ulcers and liver impairment, no dosage adjustment of the initial esomeprazole 80 mg infusion is necessary.
+For adult patients with mild to moderate liver impairment (Child-Pugh Classes A and B), a maximum continuous infusion of esomeprazole 6 mg/h should not be exceeded.
+For adult patients with severe liver impairment (Child-Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [see Dosage and Administration (2.2),Use in Specific Populations (8.6)].
 Renal Impairment The pharmacokinetics of esomeprazole in patients with renal impairment are not expected to be altered relative to healthy volunteers as less than 1% of esomeprazole is excreted unchanged in urine.
 
 ## 12.4 Microbiology
 
-Effects on Gastrointestinal Microbial Ecology
-
-Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
+Effects on Gastrointestinal Microbial Ecology Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
 Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and, in hospitalized patients, possibly also Clostridium difficile.

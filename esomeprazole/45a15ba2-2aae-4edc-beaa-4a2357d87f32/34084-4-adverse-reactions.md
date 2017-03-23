@@ -11,14 +11,14 @@ The following serious adverse reactions are described below and elsewhere in lab
 ## 6.1 Clinical Trials Experience with Intravenous Esomeprazole
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-Adults The safety of intravenous esomeprazole is based on results from clinical trials conducted in three different populations including patients having symptomatic GERD with or without a history of erosive esophagitis (n=199), patients with erosive esophagitis (n=160) and healthy subjects (n=204).
+Adults The safety of intravenous esomeprazole is based on results from clinical trials conducted in four different populations including patients having symptomatic GERD with or without a history of erosive esophagitis (n=199), patients with erosive esophagitis (n=160), healthy subjects (n=204) and patients with bleeding gastric or duodenal ulcers (n=375).
 Symptomatic GERD and Erosive Esophagitis Trials The data described below reflect exposure to esomeprazole sodium for injection in 359 patients.
 Esomeprazole sodium for injection was studied only in actively-controlled trials.
 The population was 18 to 77 years of age; 45% Male, 52% Caucasian, 17% Black, 3% Asian, 28% Other, and had either erosive reflux esophagitis (44%) or GERD (56%).
 Most patients received doses of either 20 or 40 mg either as an infusion or an injection.
 Adverse reactions occurring in ≥1% of patients treated with intravenous esomeprazole (n=359) in clinical trials are listed below:
 
-Table 2 Adverse reactions occurring at an incidence ≥1% in the Esomeprazole group
+Table 2: Adverse Reactions Occurring at an Incidence ≥ 1% in the Esomeprazole Group
 
 |  | % of patients Esomeprazole Intravenous (n=359) |
 | --- | --- |
@@ -37,6 +37,26 @@ Table 2 Adverse reactions occurring at an incidence ≥1% in the Esomeprazole gr
 Intravenous treatment with esomeprazole 20 and 40 mg-administered as an injection or as an infusion was found to have a safety profile similar to that of oral administration of esomeprazole.
 Pediatric A randomized, open-label, multi-national study to evaluate the pharmacokinetics of repeated intravenous doses of once daily esomeprazole in pediatric patients 1 month to 17 years old, inclusive was performed.
 The safety results are consistent with the known safety profile of esomeprazole and no unexpected safety signals were identified [see Clinical Pharmacology (12.3)].
+Risk Reduction of Rebleeding of Gastric or Duodenal Ulcers in Adults The data described below reflect exposure to esomeprazole sodium for injection in 375 patients.
+Esomeprazole sodium for injection was studied in a placebo-controlled trial.
+Patients were randomized to receive esomeprazole sodium for injection (n=375) or placebo (n=389).
+The population was 18 to 98 years old; 68% Male, 87% Caucasian, 1% Black, 7% Asian, 4% other, who presented with endoscopically confirmed gastric or duodenal ulcer bleeding.
+Following endoscopic hemostasis, patients received either 80 mg esomeprazole as an intravenous infusion over 30 minutes followed by a continuous infusion of 8 mg per hour or placebo for a total treatment duration of 72 hours.
+After the initial 72-hour period, all patients received oral proton pump inhibitor (PPI) for 27 days.
+
+Table 3: Incidence (%) of Adverse Reactions that Occurred in Greater than 1% of Patients within 72 Hours after Start of Treatment1
+
+|  | Number (%) of patients |  |
+| --- | --- | --- |
+| Esomeprazole (n=375) | Placebo (n=389) |  |
+| Duodenal ulcer hemorrhage | 16 (4.3%) | 16 (4.1%) |
+| Injection site reaction2 | 16 (4.3%) | 2 (0.5%) |
+| Pyrexia | 13 (3.5%) | 11 (2.8%) |
+| Cough | 4 (1.1%) | 1 (0.3%) |
+| Dizziness | 4 (1.1%) | 3 (0.8%) |
+| 1. Incidence ≥1% in the esomeprazole group and greater than placebo group safety population 2. Injection site reactions included erythema, swelling, inflammation, pruritus, phlebitis, thrombophlebitis and superficial phlebitis. |  |  |
+
+With the exception of injection site reactions described above, intravenous treatment with esomeprazole administered as an injection or as an infusion was found to have a safety profile similar to that of oral administration of esomeprazole.
 
 ## 6.2 Postmarketing Experience
 
