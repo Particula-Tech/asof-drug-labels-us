@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-NovoLog is contraindicated
+NOVOLOG is contraindicated:
 
-- •during episodes of hypoglycemia
-- •in patients with hypersensitivity to NovoLog or one of its excipients.
+- •During episodes of hypoglycemia [see Warnings and Precautions (5.3)]
+- •In patients with hypersensitivity to NOVOLOG or one of its excipients, [see Warnings and Precautions (5.5)]

@@ -1,21 +1,15 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs That May Increase the Risk of Hypoglycemia
-
-The risk of hypoglycemia associated with NovoLog use may be increased with antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, pentoxifylline, pramlintide, propoxyphene, salicylates, somatostatin analogs (e.g., octreotide), and sulfonamide antibiotics.
-Dose adjustment and increased frequency of glucose monitoring may be required when NovoLog is co-administered with these drugs.
-
-## 7.2 Drugs That May Decrease the Blood Glucose Lowering Effect of NovoLog
-
-The glucose lowering effect of NovoLog may be decreased when co-administered with atypical antipsychotics (e.g., olanzapine and clozapine), corticosteroids, danazol, diuretics, estrogens, glucagon, isoniazid, niacin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline) and thyroid hormones.
-Dose adjustment and increased frequency of glucose monitoring may be required when NovoLog is co-administered with these drugs.
-
-## 7.3 Drugs That May Increase or Decrease the Blood Glucose Lowering Effect of NovoLog
-
-The glucose lowering effect of NovoLog may be increased or decreased when co-administered with alcohol, beta-blockers, clonidine, and lithium salts.
-Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia.
-Dose adjustment and increased frequency of glucose monitoring may be required when NovoLog is co-administered with these drugs.
-
-## 7.4 Drugs That May Affect Hypoglycemia Signs and Symptoms
-
-The signs and symptoms of hypoglycemia may be blunted when beta-blockers, clonidine, guanethidine, and reserpine are co-administered with NovoLog.
+| Drugs That May Increase the Risk of Hypoglycemia |  |
+| --- | --- |
+| Drugs: | Antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, pentoxifylline, pramlintide, propoxyphene, salicylates, somatostatin analog (e.g., octreotide),and sulfonamide antibiotics. |
+| Intervention: | Dose adjustment and increased frequency of glucose monitoring may be required when NOVOLOG is co-administered with these drugs. |
+| Drugs That May Decrease the Blood Glucose Lowering Effect of NOVOLOG |  |
+| Drugs: | Atypical antipsychotics (e.g., olanzapine and clozapine), corticosteroids, danazol, diuretics, estrogens, glucagon, isoniazid, niacin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline), and thyroid hormones. |
+| Intervention: | Dose adjustment and increased frequency of glucose monitoring may be required when NOVOLOG is co-administered with these drugs. |
+| Drugs That May Increase or Decrease the Blood Glucose Lowering Effect of NOVOLOG |  |
+| Drugs: | Alcohol, beta-blockers, clonidine, and lithium salts. Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia. Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia. |
+| Intervention: | Dose adjustment and increased frequency of glucose monitoring may be required when NOVOLOG is co-administered with these drugs. |
+| Drugs That May Blunt Signs and Symptoms of Hypoglycemia |  |
+| Drugs: | Beta-blockers, clonidine, guanethidine and reserpine |
+| Intervention: | Increased frequency of glucose monitoring may be required when NOVOLOG is co-administered with these drugs. |

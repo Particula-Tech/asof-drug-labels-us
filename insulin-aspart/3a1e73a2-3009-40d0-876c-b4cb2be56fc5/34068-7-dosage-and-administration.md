@@ -1,50 +1,57 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosing
+## 2.1 Important Administration Instructions
 
-NovoLog is an insulin analog with an earlier onset of action than regular human insulin.
-The dosage of NovoLog must be individualized.
-NovoLog given by subcutaneous injection should generally be used in regimens with an intermediate or long-acting insulin [see Warnings and Precautions (5), How Supplied/Storage and Handling (16.2)].
-The total daily insulin requirement may vary and is usually between 0.5 to 1.0 units/kg/day.
-When used in a meal-related subcutaneous injection treatment regimen, 50 to 70% of total insulin requirements may be provided by NovoLog and the remainder provided by an intermediate-acting or long-acting insulin.
-Because of NovoLog’s comparatively rapid onset and short duration of glucose lowering activity, some patients may require more basal insulin and more total insulin to prevent pre-meal hyperglycemia when using NovoLog than when using human regular insulin.
+- •Always check insulin labels before administration [see Warnings and Precautions (5.4)].
+- •Inspect NOVOLOG visually before use.
+  It should appear clear and colorless.
+  Do not use NOVOLOG if particulate matter or coloration is seen.
+- •Do NOT mix NOVOLOG with other insulins when administering using a continuous subcutaneous infusion pump.
 
-Do not use NovoLog that is viscous (thickened) or cloudy; use only if it is clear and colorless.
-NovoLog should not be used after the printed expiration date.
+## 2.2 Route of Administration
 
-## 2.2 Subcutaneous Injection
+Subcutaneous Injection
 
-NovoLog should be administered by subcutaneous injection in the abdominal region, buttocks, thigh, or upper arm.
-Because NovoLog has a more rapid onset and a shorter duration of activity than human regular insulin, it should be injected immediately (within 5-10 minutes) before a meal.
-Injection sites should be rotated within the same region to reduce the risk of lipodystrophy.
-As with all insulins, the duration of action of NovoLog will vary according to the dose, injection site, blood flow, temperature, and level of physical activity.
+- •Inject NOVOLOG subcutaneously within 5-10 minutes before a meal into the abdominal area, thigh, buttocks or upper arm.
+- •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- •NOVOLOG administered by subcutaneous injection should generally be used in regimens with an intermediate- or long-acting insulin.
+- •NOVOLOG may be diluted with Insulin Diluting Medium for NOVOLOG for subcutaneous injection.
+  Diluting one part NOVOLOG to nine parts diluent will yield a concentration one-tenth that of NOVOLOG (equivalent to U-10).
+  Diluting one part NOVOLOG to one part diluent will yield a concentration one-half that of NOVOLOG (equivalent to U-50).
 
-NovoLog may be diluted with Insulin Diluting Medium for NovoLog for subcutaneous injection.
-Diluting one part NovoLog to nine parts diluent will yield a concentration one-tenth that of NovoLog (equivalent to U-10).
-Diluting one part NovoLog to one part diluent will yield a concentration one-half that of NovoLog (equivalent to U-50).
+Continuous Subcutaneous Infusion (Insulin Pump)
 
-## 2.3 Continuous Subcutaneous Insulin Infusion (CSII) by External Pump
+- •Train patients using continuous subcutaneous insulin fusion pump therapy to administer insulin by injection and have alternate insulin therapy available in case of pump failure.
+- •Administer NOVOLOG by continuous subcutaneous infusion into the subcutaneous tissue of the abdominal wall.
+  Rotate infusion sites within the same region to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- •Follow healthcare provider recommendations when setting basal and meal time infusion rate.
+- •Do NOT dilute or mix NOVOLOG when administering by continuous subcutaneous infusion.
+- •Change the NOVOLOG in the reservoir at least every 6 days
+- •Change the infusion sets and the infusion set insertion site at least every 3 days.
+- •Do NOT expose NOVOLOG in the pump reservoir to temperatures greater than 98.6°F (37°C).
+- •Follow the NOVOLOG-specific information (e.g., in-use time, frequency of changing infusion sets) because NOVOLOG-specific information may differ from general pump manual instructions.
+- •The following insulin pumps† have been used in NOVOLOG clinical or in vitro studies conducted by Novo Nordisk, the manufacturer of NOVOLOG:
+  - oMedtronic Paradigm® 512 and 712
+  - oMiniMed 508
 
-NovoLog can also be infused subcutaneously by an external insulin pump [see Warnings and Precautions (5.9, 5.10), How Supplied/Storage and Handling (16.2)].
-Diluted insulin should not be used in external insulin pumps.
-Because NovoLog has a more rapid onset and a shorter duration of activity than human regular insulin, pre-meal boluses of NovoLog should be infused immediately (within 5-10 minutes) before a meal.
-Infusion sites should be rotated within the same region to reduce the risk of lipodystrophy.
-The initial programming of the external insulin infusion pump should be based on the total daily insulin dose of the previous regimen.
-Although there is significant interpatient variability, approximately 50% of the total dose is usually given as meal-related boluses of NovoLog and the remainder is given as a basal infusion.
-Change the NovoLog in the reservoir at least every 6 days, change the infusion sets and the infusion set insertion site at least every 3 days.
+Intravenous Administration
 
-The following insulin pumps† have been used in NovoLog clinical or in vitro studies conducted by Novo Nordisk, the manufacturer of NovoLog:
+- •Dilute NOVOLOG to concentrations from 0.05 unit/mL to 1 unit/mL insulin aspart in infusion systems using polypropylene infusion bags.
+  NOVOLOG is stable in infusion fluids such as 0.9% sodium chloride.
+- •Administer NOVOLOG intravenously ONLY under medical supervision with close monitoring of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia [see Warnings and Precautions (5.3, 5.6) and How Supplied/Storage and Handling (16.2)].
 
-- •Medtronic Paradigm® 512 and 712
-- •MiniMed 508
-- •Disetronic® D-TRON® and H-TRON®
+## 2.3 Dosage Information
 
-Before using a different insulin pump with NovoLog, read the pump label to make sure the pump has been evaluated with NovoLog.
+- •Individualize and adjust the dosage of NOVOLOG based on route of administration, the individual's metabolic needs, blood glucose monitoring results and glycemic control goal.
+- •Dosage adjustments may be needed with changes in physical activity, changes in meal patterns (i.e., macronutrient content or timing of food intake), changes in renal or hepatic function or during acute illness [see Warnings and Precautions (5.2, 5.3) and Use in Specific Populations (8.6, 8.7)].
+- •Dosage adjustment may be needed when switching from another insulin to NOVOLOG [see Warnings and Precautions (5.2)].
 
-## 2.4 Intravenous Use
+## 2.4 Dosage Adjustment Due to Drug Interactions
 
-NovoLog can be administered intravenously under medical supervision for glycemic control with close monitoring of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia [see Warnings and Precautions (5), How Supplied/Storage and Handling (16.2)].
-For intravenous use, NovoLog should be used at concentrations from 0.05 U/mL to 1.0 U/mL insulin aspart in infusion systems using polypropylene infusion bags.
-NovoLog has been shown to be stable in infusion fluids such as 0.9% sodium chloride.
+- •Dosage adjustment may be needed when NOVOLOG is coadministered with certain drugs [see Drug Interactions (7)].
 
-Inspect NovoLog for particulate matter and discoloration prior to parenteral administration.
+## 2.5 Instructions for Mixing with Other Insulins
+
+| NOVOLOG subcutaneous injection route | NOVOLOG may be mixed with NPH insulin preparations ONLY. • If NOVOLOG is mixed with NPH insulin, draw NOVOLOG into the syringe first and inject immediately after mixing. |
+| --- | --- |
+| NOVOLOG continuous subcutaneous infusion route (Insulin Pump) | Do NOT mix NOVOLOG with any other insulin. |

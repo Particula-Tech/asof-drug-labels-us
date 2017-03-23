@@ -1,100 +1,65 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Never Share a NovoLog FlexPen, NovoLog FlexTouch, PenFill Cartridge, or PenFill Cartridge Compatible Insulin Delivery Device Between Patients
+## 5.1 Never Share NOVOLOG FlexPen, NOVOLOG FlexTouch, PenFill Cartridge or PenFill Cartridge Device Between Patients
 
-NovoLog FlexPen, NovoLog FlexTouch, PenFill cartridge, and PenFill cartridge compatible insulin delivery devices must never be shared between patients, even if the needle is changed.
+NOVOLOG FlexPen, NOVOLOG FlexTouch, PenFill cartridge, and PenFill cartridge devices should never be shared between patients, even if the needle if changed.
+Patients using NOVOLOG vials must never share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
-## 5.2 Administration
+## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
-NovoLog has a more rapid onset of action and a shorter duration of activity than regular human insulin.
-An injection of NovoLog should immediately be followed by a meal within 5-10 minutes.
-Because of NovoLog’s short duration of action, a longer acting insulin should also be used in patients with type 1 diabetes and may also be needed in patients with type 2 diabetes.
-Glucose monitoring is recommended for all patients with diabetes and is particularly important for patients using external pump infusion therapy.
-
-Any change of insulin dose should be made cautiously and only under medical supervision.
-Changing from one insulin product to another or changing the insulin strength may result in the need for a change in dosage.
-As with all insulin preparations, the time course of NovoLog action may vary in different individuals or at different times in the same individual and is dependent on many conditions, including the site of injection, local blood supply, temperature, and physical activity.
-Patients who change their level of physical activity or meal plan may require adjustment of insulin dosages.
-Insulin requirements may be altered during illness, emotional disturbances, or other stresses.
-
-Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure.
+Changes in insulin strength, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia [See Warnings and Precautions (5.3)] or hyperglycemia.
+These changes should be made cautiously and only under close medical supervision, and the frequency of blood glucose monitoring should be increased.
+For patients with type 2 diabetes, dosage adjustments of concomitant anti-diabetic products may be needed.
 
 ## 5.3 Hypoglycemia
 
-Hypoglycemia is the most common adverse effect of all insulin therapies, including NovoLog.
-Severe hypoglycemia may lead to unconsciousness and/or convulsions and may result in temporary or permanent impairment of brain function or death.
-Severe hypoglycemia requiring the assistance of another person and/or parenteral glucose infusion or glucagon administration has been observed in clinical trials with insulin, including trials with NovoLog.
+Hypoglycemia is the most common adverse effect of all insulin therapies, including NOVOLOG.
+Severe hypoglycemia can cause seizures, may lead to unconsciousness may be life threatening or cause death.
+Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g. driving or operating other machinery).
 
-The timing of hypoglycemia usually reflects the time-action profile of the administered insulin formulations [see Clinical Pharmacology (12)].
-Other factors such as changes in food intake (e.g., amount of food or timing of meals), injection site, exercise, and concomitant medications may also alter the risk of hypoglycemia [see Drug Interactions (7)].
-As with all insulins, use caution in patients with hypoglycemia unawareness and in patients who may be predisposed to hypoglycemia (e.g., patients who are fasting or have erratic food intake).
-The patient’s ability to concentrate and react may be impaired as a result of hypoglycemia.
-This may present a risk in situations where these abilities are especially important, such as driving or operating other machinery.
+Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual.
+Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)], or in patients who experience recurrent hypoglycemia.
 
-Rapid changes in serum glucose levels may induce symptoms of hypoglycemia in persons with diabetes, regardless of the glucose value.
-Early warning symptoms of hypoglycemia may be different or less pronounced under certain conditions, such as longstanding diabetes, diabetic nerve disease, use of medications such as beta-blockers, or intensified diabetes control [see Drug Interactions (7)].
-These situations may result in severe hypoglycemia (and, possibly, loss of consciousness) prior to the patient’s awareness of hypoglycemia.
-Intravenously administered insulin has a more rapid onset of action than subcutaneously administered insulin, requiring more close monitoring for hypoglycemia.
+Risk Factors for Hypoglycemia
 
-## 5.4 Hypokalemia
+The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.
+As with all insulin preparations, the glucose lowering effect time course of NOVOLOG may vary in different individuals or at different times in the same individual and depends on may conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
+Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7)].Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
 
-All insulin products, including NovoLog, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia that, if left untreated, may cause respiratory paralysis, ventricular arrhythmia, and death.
-Use caution in patients who may be at risk for hypokalemia (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations, and patients receiving intravenously administered insulin).
+Risk Mitigation Strategies for Hypoglycemia
 
-## 5.5 Renal Impairment
+Patients and caregivers must be educated to recognize and manage hypoglycemia.
+Self-monitoring of blood glucose plays an essential role in the prevention and management of hypoglycemia, increased frequency of blood glucose monitoring is recommended.
+In patients at higher risk for hypoglycemia and patients who have reduced symptomatic awareness of hypoglycemia, increased frequency of blood glucose monitoring is recommended.
 
-As with other insulins, the dose requirements for NovoLog may be reduced in patients with renal impairment [see Use in Specific Populations (8.7)].
+## 5.4 Hypoglycemia Due to Medication Errors
 
-## 5.6 Hepatic Impairment
+Accidental mix-ups between NOVOLOG and other insulin products have been reported.
+To avoid medication errors between NOVOLOG and other insulins, instruct patients to always check the insulin label before each injection.
 
-As with other insulins, the dose requirements for NovoLog may be reduced in patients with hepatic impairment [see Use in Specific Populations (8.8)].
+## 5.5 Hypersensitivity and Allergic Reactions
 
-## 5.7 Hypersensitivity and Allergic Reactions
+Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including NOVOLOG.
+If hypersensitivity reactions occur, discontinue NOVOLOG; treat per standard of care and monitor until symptoms and signs resolve [see Adverse Reactions (6)].
+NOVOLOG is contraindicated in patients who have had hypersensitivity reactions to insulin aspart or one of the excipients [see Contraindications (4)].
 
-Local Reactions - As with other insulin therapy, patients may experience redness, swelling, or itching at the site of NovoLog injection.
-These reactions usually resolve in a few days to a few weeks, but in some occasions, may require discontinuation of NovoLog.
-In some instances, these reactions may be related to factors other than insulin, such as irritants in a skin cleansing agent or poor injection technique.
-Localized reactions and generalized myalgias have been reported with injected metacresol, which is an excipient in NovoLog.
+## 5.6 Hypokalemia
 
-Systemic Reactions - Severe, life-threatening, generalized allergy, including anaphylaxis, may occur with any insulin product, including NovoLog.
-Anaphylactic reactions with NovoLog have been reported post-approval.
-Generalized allergy to insulin may also cause whole body rash (including pruritus), dyspnea, wheezing, hypotension, tachycardia, or diaphoresis.
-In controlled clinical trials, allergic reactions were reported in 3 of 735 patients (0.4%) treated with regular human insulin and 10 of 1394 patients (0.7%) treated with NovoLog.
-In controlled and uncontrolled clinical trials, 3 of 2341 (0.1%) NovoLog-treated patients discontinued due to allergic reactions.
+All insulin products, including NOVOLOG, can cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
+Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
+Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentration).
 
-## 5.8 Antibody Production
-
-Increases in anti-insulin antibody titers that react with both human insulin and insulin aspart have been observed in patients treated with NovoLog.
-Increases in anti-insulin antibodies are observed more frequently with NovoLog than with regular human insulin.
-Data from a 12-month controlled trial in patients with type 1 diabetes suggest that the increase in these antibodies is transient, and the differences in antibody levels between the regular human insulin and insulin aspart treatment groups observed at 3 and 6 months were no longer evident at 12 months.
-In this study these antibodies did not appear to cause deterioration in glycemic control or necessitate increases in insulin dose.
-
-In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency towards hyperglycemia or hypoglycemia.
-
-## 5.9 Mixing of Insulins
-
-- •Mixing NovoLog with NPH human insulin immediately before injection attenuates the peak concentration of NovoLog, without significantly affecting the time to peak concentration or total bioavailability of NovoLog.
-  If NovoLog is mixed with NPH human insulin, NovoLog should be drawn into the syringe first, and the mixture should be injected immediately after mixing.
-- •The efficacy and safety of mixing NovoLog with insulin preparations produced by other manufacturers have not been studied.
-- •Insulin mixtures should not be administered intravenously.
-
-## 5.10 Continuous Subcutaneous Insulin Infusion by External Pump
-
-When used in an external subcutaneous insulin infusion pump, NovoLog should not be mixed with any other insulin or diluent.
-When using NovoLog in an external insulin pump, the NovoLog-specific information should be followed (e.g., in-use time, frequency of changing infusion sets) because NovoLog-specific information may differ from general pump manual instructions.
-
-Pump or infusion set malfunctions or insulin degradation can lead to a rapid onset of hyperglycemia and ketosis because of the small subcutaneous depot of insulin.
-This is especially pertinent for rapid-acting insulin analogs that are more rapidly absorbed through skin and have a shorter duration of action.
-Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
-Interim therapy with subcutaneous injection may be required [see Dosage and Administration (2.3), Warnings and Precautions (5.9, 5.10), How Supplied/Storage and Handling (16.2), and Patient Counseling Information (17.3)].
-
-NovoLog should not be exposed to temperatures greater than 37°C (98.6°F).
-NovoLog that will be used in a pump should not be mixed with other insulin or with a diluent [see Dosage and Administration (2.3), Warnings and Precautions (5.9, 5.10), How Supplied/Storage and Handling (16.2), and Patient Counseling Information (17.3)].
-
-## 5.11 Fluid retention and heart failure with concomitant use of PPAR-gamma agonists
+## 5.7 Fluid Retention and Heart Failure with Concomitant Use of PPAR-gamma Agonists
 
 Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
 Fluid retention may lead to or exacerbate heart failure.
-Patients treated with insulin, including NovoLog, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+Patients treated with insulin, including NOVOLOG, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
 If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
+
+## 5.8 Hyperglycemia and Ketoacidosis Due to Insulin Pump Device Malfunction
+
+Malfunction of the insulin pump or insulin infusion set or insulin degradation can rapidly lead to hyperglycemia and ketoacidosis.
+Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
+Interim subcutaneous injections with NOVOLOG may be required.
+Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure [see How Supplied/Storage and Handling (16.2) and Patient Counseling Information (17)].

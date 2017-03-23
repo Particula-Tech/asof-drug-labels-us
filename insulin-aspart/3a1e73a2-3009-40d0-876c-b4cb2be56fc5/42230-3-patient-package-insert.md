@@ -2,7 +2,7 @@
 
 NovoLog® (NŌ-vō-log)
 
-(insulin aspart [rDNA origin] injection)
+(insulin aspart injection)
 
 Do not share your NovoLog FlexPen, NovoLog FlexTouch, PenFill cartridge or PenFill cartridge compatible insulin delivery device with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
@@ -94,7 +94,7 @@ It may harm them.
 
 What are the ingredients in NovoLog?
 
-Active Ingredient: insulin aspart (rDNA origin)
+Active Ingredient: insulin aspart
 
 Inactive Ingredients: glycerin, phenol, metacresol, zinc, disodium hydrogen phosphate dihydrate, sodium chloride and water for injection
 
@@ -102,15 +102,15 @@ Manufactured by: Novo Nordisk A/S; DK-2880 Bagsvaerd, Denmark
 
 For more information, go to www.novonordisk-us.com or call 1-800-727-6500.
 
-This Patient Information has been approved by the U.S. Food and Drug Administration
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 04/2015
+Revised: 03/2017
 
 INSTRUCTIONS FOR USE
 
 NovoLog® (NŌ-vō-log)
 
-(insulin aspart [rDNA origin] injection)
+(insulin aspart injection)
 
 10 mL vial (100 Units/mL, U-100)
 
@@ -221,9 +221,9 @@ DK-2880 Bagsvaerd, Denmark
 
 NovoLog® is a registered trademark of Novo Nordisk A/S.
 
-NovoLog® is covered by US Patent Nos. 5,618,913, 5,866,538, and other patents pending.
+Patent Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2002-2013 Novo Nordisk
+© 2002-2017 Novo Nordisk
 
 For information about NovoLog® contact:
 
@@ -237,18 +237,18 @@ Plainsboro, New Jersey 08536
 
 www.novonordisk-us.com
 
-Revised: March 2013
+Revised: March 2017
 
 INSTRUCTIONS FOR USE
 
 NovoLog® (NŌ-vō-log) PenFill® 3 mL cartridge 100 Units/mL (U-100)
 
-(insulin aspart [rDNA origin] injection)
+(insulin aspart injection)
 
 - •Do not share your PenFill cartridge or PenFill cartridge compatible insulin delivery device with other people, even if the needle has been changed.
   You may give other people a serious infection, or get a serious infection from them.
 - •Your healthcare provider should show you or your caregiver how to inject NovoLog the right way before you inject it for the first time.
-- •NovoLog PenFillcartridge 100 Units/mL is a prefilled cartridge containing 300 units of NovoLog (insulin aspart [rDNA origin] injection) 100 Units/mL insulin.
+- •NovoLog PenFillcartridge 100 Units/mL is a prefilled cartridge containing 300 units of NovoLog (insulin aspart injection) 100 Units/mL insulin.
 - •After you insert the PenFill cartridge in your device, you can use it for multiple injections.
   Read the instruction manual that comes with your insulin delivery device for complete instructions on how to use the PenFill cartridge with the device.
 - •This PenFill cartridge is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product and your insulin delivery device.
@@ -441,7 +441,7 @@ GeneralInformation about the safe and effective use of NovoLog.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-© 2002-2016 Novo Nordisk
+© 2002-2017 Novo Nordisk
 
 Manufactured by:
 
@@ -449,17 +449,17 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: 10/2016
+Revised: 03/2017
 
 INSTRUCTIONS FOR USE
 
 NovoLog® (NŌ-vō-log) FlexTouch® Pen
 
-(insulin aspart [rDNA origin] injection)
+(insulin aspart injection)
 
 - •Do not share your NovoLog FlexTouch Pen with other people, even if the needle has been is changed.
   You may give other people a serious infection, or get a serious infection from them.
-- •NovoLog FlexTouch Pen (“Pen”) is a prefilled disposable pen containing 300 units of U-100 NovoLog (insulin aspart [rDNA origin] injection) insulin.
+- •NovoLog FlexTouch Pen (“Pen”) is a prefilled disposable pen containing 300 units of U-100 NovoLog (insulin aspart injection) insulin.
   You can inject from 1 to 80 units in a single injection.
 - •This Pen is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product.
 
@@ -654,7 +654,7 @@ After your injection:
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   Do not reuse or share your needles or syringes with other people.
-  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal
 - •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
@@ -672,20 +672,20 @@ General Information about the safe and effective use of NovoLog.
 
 - •Keep NovoLog FlexTouch Pens and needles out of the reach of children.
 - •Always use a new needle for each injection.
-- •Do not share your Novolog FlexTouch Pens or needles with other people.
+- •Do not share your NovoLog FlexTouch Pens or needles with other people.
   You may give other people a serious infection, or get a serious infection from them.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
 
-Revised: 02/2015
+Revised: 03/2017
 
 For more information go to
 
 www.novotraining.com/novologflextouch/us02
 
-© 2002-2015 Novo Nordisk
+© 2002-2017 Novo Nordisk
 
 INSTRUCTIONS FOR USE
 
@@ -875,6 +875,6 @@ Nordisk.
 Δ Remember to keep the disposable NovoLog FlexPen with you.
 Do not leave it in a car or other location where it can get too hot or too cold.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Revised: 04/2015

@@ -8,8 +8,6 @@ NovoLog®
 
 Insulin aspart Injection
 
-(rDNA origin)
-
 10 mL 100 units/mL
 
 Rx only
@@ -24,7 +22,7 @@ NovoLog®
 
 PenFill®
 
-Insulin aspart Injection (rDNA origin)
+Insulin aspart Injection
 
 For Single Patient Use Only
 
@@ -52,7 +50,7 @@ NovoLog® FlexPen®
 
 Prefilled Syringe
 
-Insulin aspart Injection (rDNA origin)
+Insulin aspart Injection
 
 For Single Patient Use Only
 
@@ -76,7 +74,7 @@ NDC 0169-6338-10 List 633810
 
 NovoLog® FlexTouch®
 
-Insulin aspart (rDNA origin) Injection
+Insulin aspart Injection
 
 For Single Patient Use Only
 
