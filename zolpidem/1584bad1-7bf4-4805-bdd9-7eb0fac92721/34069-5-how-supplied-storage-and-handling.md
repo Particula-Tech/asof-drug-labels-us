@@ -36,4 +36,4 @@ NDC Number Size
 
 13668-008-74 carton of 100 unit dose
 
-Store at 20 to 25°C (68 to 77°F); excursions permitted to 15° to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
+Store at 20º to 25°C (68º to 77°F); excursions permitted to 15° to 30°C (59º to 86°F) [see USP Controlled Room Temperature].

@@ -39,7 +39,7 @@ Tell patients not to increase the dose of zolpidem on their own, and to inform y
 Administration Instructions
 
 Patients should be counseled to take zolpidem right before they get into bed and only when they are able to stay in bed a full night (7-8 hours) before being active again.
-Zolpidem tablets should not be taken with or immediately after a meal.
+Zolpidem tartrate tablets should not be taken with or immediately after a meal.
 Advise patients NOT to take zolpidem if they drank alcohol that evening.
 
 Manufactured by:
@@ -51,4 +51,4 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8062429 Revised October 2016
+8063038 Revised February 2017

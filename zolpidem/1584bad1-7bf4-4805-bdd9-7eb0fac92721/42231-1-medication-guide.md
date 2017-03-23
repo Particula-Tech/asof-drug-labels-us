@@ -10,7 +10,7 @@ What is the most important information I should know about zolpidem tartrate tab
 
 - Do not take more zolpidem tartrate tablets than prescribed.
 - Do not take zolpidem tartrate tablets unless you are able to stay in bed a full night (7 to 8 hours) before you must be active again.
-- Take zolpidem tartrate tablets right before you get in bed, not sooner
+- Take zolpidem tartrate tablets right before you get in bed, not sooner.
 
 Zolpidem tartrate tablets may cause serious side effects, including:
 
@@ -76,7 +76,7 @@ Talk to your healthcare provider about the best way to feed your baby while you 
 Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
 
 Medicines can interact with each other, sometimes causing serious side effects.
-Do not take zolpidem tartrate tablets with other medicines that can make you sleepy unless your healthcare provider tells you to unless your healthcare provider tells you to.
+Do not take zolpidem tartrate tablets with other medicines that can make you sleepy unless your healthcare provider tells you to.
 
 Know the medicines you take.
 Keep a list of your medicines with you to show your healthcare provider and pharmacist each time you get a new medicine.
@@ -91,7 +91,7 @@ How should I take zolpidem tartrate tablets?
   Zolpidem tartrate tablets may help you fall asleep faster if you take it on an empty stomach.
 - Call your healthcare provider if your insomnia worsens or is not better within 7 to 10 days.
   This may mean that there is another condition causing your sleep problem.
-- If you take too much zolpidem tartrate tablets or overdose, or get emergency treatment.
+- If you take too much zolpidem tartrate tablets or overdose, get emergency treatment.
 
 What are the possible side effects of zolpidem tartrate tablets?
 
@@ -158,12 +158,12 @@ General Information about the safe and effective use of zolpidem tartrate tablet
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use zolpidem tartrate tablets for a condition for which it was not prescribed.
-Do not share zolpidem tartrate tablets with other people, even if you think they have the same symptoms that you have.
+Do not share zolpidem tartrate tablets with other people, even if they have the same symptoms that you have.
 It may harm them and it is against the law.
 
 This Medication Guide summarizes the most important information about zolpidem tartrate tablets.
 If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about zolpidem tartrate tablets that is written for healthcare professionals.
+You can ask your healthcare provider or pharmacist for information about zolpidem tartrate tablets that are written for healthcare professionals.
 
 For more information, call 1-269-544-2299.
 
@@ -186,4 +186,4 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8052217 Revised November 2014
+8063101 Revised February 2017

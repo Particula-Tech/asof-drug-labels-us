@@ -13,7 +13,7 @@ Patients should be warned against driving and other activities requiring complet
 Vehicle drivers and machine operators should be warned that, as with other hypnotics, there may be a possible risk of adverse reactions including drowsiness, prolonged reaction time, dizziness, sleepiness, blurred/double vision, reduced alertness and impaired driving the morning after therapy.
 In order to minimize this risk a full night of sleep (7-8 hours) is recommended.
 
-## 5.2 Need to Evaluate for Co-Morbid Diagnoses
+## 5.2 Need to Evaluate for Co-morbid Diagnoses
 
 Because sleep disturbances may be the presenting manifestation of a physical and/or psychiatric disorder, symptomatic treatment of insomnia should be initiated only after a careful evaluation of the patient.
 The failure of insomnia to remit after 7 to 10 days of treatment may indicate the presence of a primary psychiatric and/or medical illness that should be evaluated.
@@ -61,12 +61,18 @@ Since sedative-hypnotics have the capacity to depress respiratory drive, precaut
 Post-marketing reports of respiratory insufficiency in patients receiving 10 mg of zolpidem tartrate, most of whom had pre-existing respiratory impairment, have been reported.
 The risk of respiratory depression should be considered prior to prescribing zolpidem in patients with respiratory impairment including sleep apnea and myasthenia gravis.
 
-## 5.7 Withdrawal Effects
+## 5.7 Precipitation of Hepatic Encephalopathy
+
+GABA agonists such as zolpidem tartrate have been associated with precipitation of hepatic encephalopathy in patients with hepatic insufficiency.
+In addition, patients with hepatic insufficiency do not clear zolpidem tartrate as rapidly as patients with normal hepatic function.
+Avoid zolpidem tartrate tablets use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+
+## 5.8 Withdrawal Effects
 
 There have been reports of withdrawal signs and symptoms following the rapid dose decrease or abrupt discontinuation of zolpidem.
 Monitor patients for tolerance, abuse, and dependence [see Drug Abuse and Dependence (9.2) and (9.3)].
 
-## 5.8 Severe Injuries
+## 5.9 Severe Injuries
 
 Zolpidem can cause drowsiness and a decreased level of consciousness, which may lead to falls and consequently to severe injuries.
 Severe injuries such as hip fractures and intracranial hemorrhage have been reported.

@@ -9,7 +9,7 @@ This selective binding of zolpidem on the BZ1 receptor is not absolute, but it m
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic profile of zolpidem tartrate tablets is characterized by rapid absorption from the gastrointestinal tract and a short elimination half-life (T1/2) in healthy subjects.
+The pharmacokinetic profile of zolpidem tartrate tablets are characterized by rapid absorption from the gastrointestinal tract and a short elimination half-life (T1/2) in healthy subjects.
 
 In a single-dose crossover study in 45 healthy subjects administered 5 and 10 mg zolpidem tartrate tablets, the mean peak concentrations (Cmax) were 59 (range: 29 to 113) and 121 (range: 58 to 272) ng/mL, respectively, occurring at a mean time (Tmax) of 1.6 hours for both.
 The mean zolpidem tartrate tablets elimination half-life was 2.6 (range: 1.4 to 4.5) and 2.5 (range: 1.4 to 3.8) hours, for the 5 and 10 mg tablets, respectively.
@@ -34,9 +34,9 @@ Zolpidem tartrate tablets did not accumulate in elderly subjects following night
 Hepatic Impairment:
 
 The pharmacokinetics of zolpidem tartrate tablets in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
-Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng·hr/mL) higher, respectively, in hepatically- compromised patients.
+Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng·hr/mL) higher, respectively, in hepatically -compromised patients.
 Tmax did not change.
-The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr). Dosing should be modified accordingly in patients with hepatic insufficiency [see Dosage and Administration (2.2)].
+The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr) [see Dosage and Administration (2.2), Warnings and Precautions (5.7), Use in Specific Populations (8.7)].
 
 Renal Impairment:
 
@@ -77,9 +77,9 @@ A single-dose interaction study with zolpidem tartrate 10 mg and itraconazole 20
 There were no pharmacodynamic effects of zolpidem detected on subjective drowsiness, postural sway, or psychomotor performance.
 
 A single-dose interaction study with zolpidem tartrate 10 mg and rifampin 600 mg at steady-state levels in female subjects showed significant reductions of the AUC (-73%), Cmax (-58%), and T1/2 (-36 %) of zolpidem together with significant reductions in the pharmacodynamic effects of zolpidem tartrate.
-Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem [see Drug Interactions 7.2)].
+Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem [see Drug Interactions (7.2)].
 
-A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem [see Drug Interactions 7.2)].
+A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem [see Drug Interactions (7.2)].
 
 Additionally, fluvoxamine (a strong inhibitor of CYP1A2 and a weak inhibitor of CYP3A4 and CYP2C9) and ciprofloxacin (a strong inhibitor of CYP1A2 and a moderate inhibitor of CYP3A4) are also likely to inhibit zolpidem's metabolic pathways, potentially leading to an increase in zolpidem exposure.
 

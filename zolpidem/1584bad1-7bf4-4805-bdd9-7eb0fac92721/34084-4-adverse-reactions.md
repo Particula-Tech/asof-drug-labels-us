@@ -1,11 +1,11 @@
 # 6 ADVERSE REACTIONS
 
-The following serious reactions are discussed in greater detail in other sections of the labeling:
+The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
 - Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)]
 - Abnormal thinking and behavior changes, and complex behaviors [see Warnings and Precautions (5.4)]
-- Withdrawal effects [see Warnings and Precautions (5.7)]
+- Withdrawal effects [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -31,10 +31,8 @@ The table is limited to data from doses up to and including 10 mg, the highest d
 
 Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (Percentage of patients reporting)
 
-|  | Zolpidem |  |
+| Body System/ Adverse EventReactions reported by at least 1% of patients treated with zolpidem tartrate tablets and at a greater frequency than placebo. | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
 | --- | --- | --- |
-| Body System/ | (≤10 mg) | Placebo |
-| Adverse EventReactions reported by at least 1% of patients treated with zolpidem tartrate tablets and at a greater frequency than placebo. | (N=685) | (N=473) |
 | Central and Peripheral Nervous System |  |  |
 | Headache | 7 | 6 |
 | Drowsiness | 2 | - |
@@ -49,10 +47,8 @@ The table includes only adverse events occurring at an incidence of at least 1% 
 
 Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (Percentage of patients reporting)
 
-|  | Zolpidem |  |
+| Body System/ Adverse EventReactions reported by at least 1% of patients treated with zolpidem tartrate tablets and at a greater frequency than placebo. | Zolpidem (≤10 mg) (N=152) | Placebo (N=161) |
 | --- | --- | --- |
-| Body System/ | (≤10 mg) | Placebo |
-| Adverse EventReactions reported by at least 1% of patients treated with zolpidem tartrate tablets and at a greater frequency than placebo. | (N=152) | (N=161) |
 | Autonomic Nervous System |  |  |
 | Dry mouth | 3 | 1 |
 | Body as a Whole |  |  |
@@ -143,3 +139,10 @@ Rare: conjunctivitis, corneal ulceration, lacrimation abnormal, parosmia, photop
 Urogenital system: Frequent: urinary tract infection.
 Infrequent: cystitis, urinary incontinence.
 Rare: acute renal failure, dysuria, micturition frequency, nocturia, polyuria, pyelonephritis, renal pain, urinary retention.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of zolpidem tartrate tablets.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Liver and biliary system: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2x ULN, alkaline phosphatase ≥2x ULN, transaminase ≥5x ULN).
