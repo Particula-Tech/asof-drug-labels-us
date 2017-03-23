@@ -9,7 +9,7 @@ Patients should be asked to report pregnancies to their physicians as soon as po
 - •Angioedema
 
 Angioedema, including laryngeal edema, may occur at any time during treatment with angiotensin-converting enzyme inhibitors, including enalapril.
-Advise patients to report immediately any signs or symptoms suggesting angioedema (swelling of face, extremities, eyes, lips, or tongue, or difficulty in swallowing or breathing) and to take no more drug until they have consulted with the prescribing physician.
+Advise patients to report immediately any signs or symptoms suggesting angioedema (swelling of face, extremities, eyes, lips, or tongue, or difficulty in swallowing or breathing) and to consult with the prescribing physician before taking more drug.
 
 - •Hypotension
 
@@ -21,7 +21,7 @@ Other causes of volume depletion such as vomiting or diarrhea may also lead to a
 
 - •Hyperkalemia
 
-Tell patients not to use salt substitutes containing potassium without consulting their physician.
+Tell patients to consult their physician prior to using salt substitutes containing potassium.
 
 EPANED is a trademark of Silvergate Pharmaceuticals, Inc.
 
@@ -33,4 +33,4 @@ Manufactured For: Silvergate Pharmaceuticals, Inc. 6251 Greenwood Plaza Blvd., S
 
 U. S. Patent 8568747; 8778366
 
-EN-1511
+EN-1609

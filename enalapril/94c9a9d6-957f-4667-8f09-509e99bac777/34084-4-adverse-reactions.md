@@ -6,6 +6,7 @@ The following adverse reactions are described elsewhere:
 - •Hypotension [see Warnings and Precautions (5.3)]
 - •Hepatic failure [see Warnings and Precautions (5.4)]
 - •Renal impairment [see Warnings and Precautions (5.5)]
+- •Hyperkalemia [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 

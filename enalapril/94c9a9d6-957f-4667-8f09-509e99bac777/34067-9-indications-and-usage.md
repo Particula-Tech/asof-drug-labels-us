@@ -2,7 +2,7 @@
 
 ## 1.1 Hypertension
 
-EPANED is indicated for the treatment of hypertension, to lower blood pressure in adults and children older than one month.
+EPANED is indicated for the treatment of hypertension, to lower blood pressure in adults and children older than one month [see Pediatric Use (8.4) and Clinical Studies (14)].
 
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including this drug.

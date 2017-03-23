@@ -16,7 +16,7 @@ ACE is identical to kininase, an enzyme that degrades bradykinin.
 Whether increased levels of bradykinin, a potent vasodepressor peptide, play a role in the therapeutic effects of EPANED remains to be elucidated.
 
 While the mechanism through which EPANED lowers blood pressure is believed to be primarily suppression of the renin-angiotensin-aldosterone system, enalapril is antihypertensive even in patients with low-renin hypertension.
-Although enalapril maleate tablets was antihypertensive in all races studied, black hypertensive patients (usually a low-renin hypertensive population) had a smaller average response to enalapril monotherapy than non-black patients.
+Although enalapril maleate tablets was antihypertensive in all races studied, Black hypertensive patients (usually a low-renin hypertensive population) had a smaller average response to enalapril monotherapy than non-Black patients.
 
 ## 12.2 Pharmacodynamics
 
@@ -53,6 +53,7 @@ Enalapril administration once daily lowered trough blood pressure in a dose-depe
 The dose-dependent antihypertensive efficacy of enalapril was consistent across all subgroups (age, Tanner stage, gender, race).
 However, the lowest doses studied, 0.625 mg and 1.25 mg, corresponding to an average of 0.02 mg/kg once daily, did not appear to offer consistent antihypertensive efficacy.
 In this study, enalapril maleate was generally well tolerated.
+Limited information exists on the blood pressure lowering effects in pediatric patients less than 6 years of age.
 
 Heart Failure
 
@@ -64,7 +65,8 @@ Effects on exercise tolerance, heart size, and severity and symptoms of heart fa
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of EPANED Oral Solution were shown to be similar to that of Vasotec® tablets under fasted conditions.
+Reconstituted EPANED Powder for Oral Solution was shown to be bioequivalent to that of Vasotec® tablets.
+Reconstituted EPANED Powder for Oral Solution was also evaluated under fed and fasted conditions.
 A high-fat meal reduced the Cmax of enalapril and enalaprilat by 46% and 36%, respectively.
 The exposure, as measured by AUC, to enalaprilat was reduced by 23%.
 The time to peak concentrations (Cmax) was delayed by 20 minutes for enalapril and 62 minutes for enalaprilat.
@@ -91,17 +93,14 @@ The disposition of enalapril and enalaprilat in patients with renal insufficienc
 With glomerular filtration rate ≤30 mL/min, peak and trough enalaprilat levels increase, time to peak concentration increases, and time to steady state may be delayed.
 The effective half-life of enalaprilat following multiple doses of enalapril maleate is prolonged at this level of renal insufficiency [see Dosage and Administration (2.1)].
 Enalaprilat is dialyzable at the rate of 62 mL/min.
+Administering enalapril 1 hour after hemodialysis led to a reduction of approximately 50% in the enalaprilat AUC0-6 h compared to off dialysis days.
 
 Pediatric Patients
 
 A multiple dose pharmacokinetic study was conducted in 40 hypertensive male and female pediatric patients aged 2 months to ≤16 years following daily oral administration of 0.07 to 0.14 mg/kg enalapril maleate.
 At steady state, the mean effective half-life for accumulation of enalaprilat was 14 hours and the mean urinary recovery of total enalapril and enalaprilat in 24 hours was 68% of the administered dose.
 Conversion of enalapril to enalaprilat was in the range of 63-76%.
-The overall results of this study indicate that the pharmacokinetics of enalapril in hypertensive children aged 2 months to ≤16 years are consistent across the studied age groups and consistent with pharmacokinetic historic data in healthy adults.
+The overall results of this study indicate that the pharmacokinetics of enalapril in hypertensive children aged 6 to ≤16 years are consistent across the studied age groups and consistent with pharmacokinetic historic data in healthy adults.
+Hypertensive children aged 2 months to 6 years required higher weight-based doses (0.13 mg/kg and 0.11 mg/kg) compared to the older age groups (0.11 mg/kg and 0.07 mg/kg), to achieve similar steady-state AUC.
 
 In the above pediatric study, enalapril maleate was given as tablets and for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form, enalapril was administered in a suspension formulation.
-
-Studies in dogs indicate that enalapril crosses the blood-brain barrier poorly, if at all; enalaprilat does not enter the brain.
-Multiple doses of enalapril maleate in rats do not result in accumulation in any tissues.
-Milk of lactating rats contains radioactivity following administration of 14C-enalapril maleate.
-Radioactivity was found to cross the placenta following administration of labeled drug to pregnant hamsters.

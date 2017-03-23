@@ -25,9 +25,10 @@ The SOLVD-Prevention trial was also not designed to show whether enalapril modif
 In another multicenter, placebo-controlled trial (CONSENSUS) limited to patients with NYHA Class IV congestive heart failure and radiographic evidence of cardiomegaly, use of enalapril was associated with improved survival.
 The results are shown in the following table.
 
-| CONCENSUS Survival Rates |  |  |
-| --- | --- | --- |
+CONCENSUS Survival Rates
+
 |  | SURVIVAL (%) |  |
+| --- | --- | --- |
 |  | Six Months | One Year |
 | VASOTEC® (n=127) | 74 | 64 |
 | Placebo (n=126) | 56 | 48 |

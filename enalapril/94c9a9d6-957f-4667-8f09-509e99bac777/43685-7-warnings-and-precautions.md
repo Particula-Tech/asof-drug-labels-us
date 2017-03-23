@@ -2,14 +2,14 @@
 
 ## 5.1 Fetal Toxicity
 
-Pregnancy Category D
-
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue EPANED as soon as possible [see Use in Specific Populations (8.1)].
 
 ## 5.2 Angioedema and Anaphylactoid Reactions
+
+Angioedema
 
 Head and Neck Angioedema
 
@@ -27,6 +27,8 @@ Intestinal Angioedema
 Intestinal angioedema has occurred in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
 In some cases, the angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor.
+
+Anaphylactoid Reactions
 
 Anaphylactoid Reactions during Desensitization
 
@@ -70,5 +72,5 @@ Consider withholding or discontinuing therapy in patients who develop a clinical
 ## 5.6 Hyperkalemia
 
 Serum potassium should be monitored in patients receiving EPANED.
-Drugs that inhibit the renin angiotensin system can cause hyperkalemia.
+Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
 Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes [see Drug Interactions (7.3)].

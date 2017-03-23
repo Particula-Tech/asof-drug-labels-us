@@ -2,7 +2,7 @@
 
 ## 2.1 Hypertension
 
-Adults: The recommended initial dose in adults is 5 mg once a day.
+Adults: The recommended initial dose in adults is 5 mg taken orally once a day.
 Titrate upward to maximum of 40 mg daily as needed to help achieve blood pressure goals.
 The dose may be divided and administered twice daily if the antihypertensive effect diminishes at the end of the dosing interval.
 
@@ -16,13 +16,13 @@ The dosage may be titrated upward as needed to a maximum of 40 mg daily.
 | --- | --- | --- |
 | Normal or Mild Impairment of Renal Function | >30 mL/min | 5 mg |
 | Moderate to Severe Impairment | ≤30 mL/min | 2.5 mg |
-| Dialysis Patients[See Warnings and Precautions (5.2)]. | – | 2.5 mg on dialysis daysDosage on nondialysis days should be adjusted depending on the blood pressure response. |
+| Dialysis Patients[See Warnings and Precautions (5.2)].Should be taken after hemodialysis on dialysis days [see Clinical Pharmacology (12.3)]. Calculated using ideal body weight. | – | 2.5 mg |
 
-Children >1 month: The usual recommended starting dose is 0.08 mg/kg (up to 5 mg) once daily.
-Dosage should be adjusted according to blood pressure response.
+Children greater than 1 month of age: The usual recommended starting dose is 0.08 mg/kg (up to 5 mg) once daily.
+Adjust dose based on blood pressure response.
 Doses above 0.58 mg/kg (or in excess of 40 mg) have not been studied in pediatric patients [see Clinical Pharmacology (12.3)].
 
-EPANED is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2, as no data are available.
+EPANED is not recommended in neonates (i.e., infants 1 month of age or less), preterm infants who have not reached a corrected post-conceptual age of 44 weeks, and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2.
 
 ## 2.2 Heart Failure
 
