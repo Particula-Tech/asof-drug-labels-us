@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA040627",
+    "ANDA040749",
+    "ANDA201209"
+  ],
+  "inn": "benzonatate",
+  "labeler": "Ascend Laboratories LLC",
+  "package_ndcs": [
+    "67877-573-01",
+    "67877-573-05",
+    "67877-574-01",
+    "67877-575-01",
+    "67877-575-05"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "benzonatate",
+      "name": "benzonatate"
+    }
+  ],
+  "setid": "54374c04-63b9-49fa-b6a2-4a711e322d8e",
+  "source": "dailymed"
+}
