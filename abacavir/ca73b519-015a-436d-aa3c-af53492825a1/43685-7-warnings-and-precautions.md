@@ -16,7 +16,7 @@ Due to the potential for severe, serious, and possibly fatal hypersensitivity re
 - •Before starting ZIAGEN, review medical history for prior exposure to any abacavir-containing product.
   NEVER restart ZIAGEN or any other abacavir‑containing product following a hypersensitivity reaction to abacavir, regardless of HLA‑B*5701 status.
 - •To reduce the risk of a life-threatening hypersensitivity reaction, regardless of HLA-B*5701 status, discontinue ZIAGEN immediately if a hypersensitivity reaction is suspected, even when other diagnoses are possible (e.g., acute onset respiratory diseases such as pneumonia, bronchitis, pharyngitis, or influenza; gastroenteritis; or reactions to other medications).
-- •If a hypersensitivity reaction cannot be ruled out, do not restart ZIAGEN or any other abacavir-containing products because more severe symptoms which may include life-threatening hypotension and death can occur within hours.
+- •If a hypersensitivity reaction cannot be ruled out, do not restart ZIAGEN or any other abacavir-containing products because more severe symptoms which may include life-threatening hypotension and death, can occur within hours.
 - •If a hypersensitivity reaction is ruled out, patients may restart ZIAGEN.
   Rarely, patients who have stopped abacavir for reasons other than symptoms of hypersensitivity have also experienced life-threatening reactions within hours of reinitiating abacavir therapy.
   Therefore, reintroduction of ZIAGEN or any other abacavir-containing product is recommended only if medical care can be readily accessed.
@@ -50,8 +50,3 @@ In a sponsor-conducted pooled analysis of clinical trials, no excess risk of MI 
 In totality, the available data from the observational cohort and from clinical trials are inconclusive.
 
 As a precaution, the underlying risk of coronary heart disease should be considered when prescribing antiretroviral therapies, including abacavir, and action taken to minimize all modifiable risk factors (e.g., hypertension, hyperlipidemia, diabetes mellitus, smoking).
-
-## 5.6 Related Products that are Not Recommended
-
-ZIAGEN is one of multiple abacavir-containing products.
-Concomitant administration of ZIAGEN with other products containing abacavir is not recommended.

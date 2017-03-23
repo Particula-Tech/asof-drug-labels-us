@@ -2,7 +2,7 @@
 
 ## 14.1 Adult Trials
 
-Therapy-naive Adults
+Therapy-Naive Adults
 
 CNA30024 was a multicenter, double-blind, controlled trial in which 649 HIV-1-infected, therapy-naive adults were randomized and received either ZIAGEN (300 mg twice daily), lamivudine (150 mg twice daily), and efavirenz (600 mg once daily); or zidovudine (300 mg twice daily), lamivudine (150 mg twice daily), and efavirenz (600 mg once daily).
 The duration of double-blind treatment was at least 48 weeks.
@@ -96,7 +96,7 @@ None of the deaths were attributed to trial medications.
 
 ## 14.2 Pediatric Trials
 
-Therapy-experienced Pediatric Subjects
+Therapy-Experienced Pediatric Subjects
 
 CNA3006 was a randomized, double-blind trial comparing ZIAGEN 8 mg per kg twice daily plus lamivudine 4 mg per kg twice daily plus zidovudine 180 mg per m2 twice daily versus lamivudine 4 mg per kg twice daily plus zidovudine 180 mg per m2 twice daily.
 Two hundred and five therapy-experienced pediatric subjects were enrolled: female (56%), white (17%), black (50%), Hispanic (30%), median age of 5.4 years, baseline CD4+ cell percent greater than 15% (median = 27%), and median baseline plasma HIV-1 RNA of 4.6 log10 copies per mL.
@@ -106,7 +106,7 @@ At 16 weeks the proportion of subjects responding based on plasma HIV-1 RNA less
 Median plasma HIV-1 RNA changes from baseline were -0.53 log10 copies per mL in the group receiving ZIAGEN plus lamivudine plus zidovudine compared with -0.21 log10 copies per mL in the group receiving lamivudine plus zidovudine.
 Median CD4+ cell count increases from baseline were 69 cells per mm3 in the group receiving ZIAGEN plus lamivudine plus zidovudine and 9 cells per mm3 in the group receiving lamivudine plus zidovudine.
 
-Once-daily Dosing
+Once-Daily Dosing
 
 ARROW (COL105677) was a 5-year randomized, multicenter trial which evaluated multiple aspects of clinical management of HIV-1 infection in pediatric subjects.
 HIV-1–infected, treatment-naive subjects aged 3 months to 17 years were enrolled and treated with a first-line regimen containing ZIAGEN and lamivudine, dosed twice daily according to World Health Organization recommendations.
@@ -120,7 +120,7 @@ The differences between virologic responses in the two treatment arms were compa
 Table 11.
 Virologic Outcome of Randomized Treatment at Week 96a (ARROW Randomization 3)
 
-| Outcome | ZIAGEN plus Lamivudine Twice-daily Dosing(n = 333) | ZIAGEN plus Lamivudine Once-daily Dosing(n = 336) |
+| Outcome | ZIAGEN plus Lamivudine Twice-Daily Dosing(n = 333) | ZIAGEN plus Lamivudine Once-Daily Dosing(n = 336) |
 | --- | --- | --- |
 | HIV-1 RNA <80 copies/mLb | 70% | 67% |
 | HIV-1 RNA ≥80 copies/mLc | 28% | 31% |

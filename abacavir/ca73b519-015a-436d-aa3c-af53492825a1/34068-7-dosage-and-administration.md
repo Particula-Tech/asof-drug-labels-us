@@ -20,7 +20,7 @@ The recommended oral dosage of ZIAGEN tablets for HIV-1-infected pediatric patie
 Table 1.
 Dosing Recommendations for ZIAGEN Scored Tablets in Pediatric Patients
 
-| Weight(kg) | Once-daily Dosing Regimena | Twice-daily Dosing Regimen |  |  |
+| Weight(kg) | Once-Daily Dosing Regimena | Twice-Daily Dosing Regimen |  |  |
 | --- | --- | --- | --- | --- |
 | AM Dose | PM Dose | Total Daily Dose |  |  |
 | 14 to <20 | 1 tablet (300 mg) | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |

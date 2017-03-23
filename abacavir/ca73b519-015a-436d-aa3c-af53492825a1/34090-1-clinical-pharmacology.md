@@ -39,13 +39,17 @@ Bioavailability of abacavir tablets was assessed in the fasting and fed states w
 Systemic exposure to abacavir was comparable after administration of ZIAGEN oral solution and ZIAGEN tablets.
 Therefore, these products may be used interchangeably.
 
-Special Populations
+Specific Populations
 
 Renal Impairment: The pharmacokinetic properties of ZIAGEN have not been determined in patients with impaired renal function.
 Renal excretion of unchanged abacavir is a minor route of elimination in humans.
 
 Hepatic Impairment: The pharmacokinetics of abacavir have been studied in subjects with mild hepatic impairment (Child-Pugh Class A). Results showed that there was a mean increase of 89% in the abacavir AUC and an increase of 58% in the half-life of abacavir after a single dose of 600 mg of abacavir.
 The AUCs of the metabolites were not modified by mild liver disease; however, the rates of formation and elimination of the metabolites were decreased [see Contraindications (4), Use in Specific Populations (8.6)].
+
+Pregnancy: Abacavir: Abacavir pharmacokinetics were studied in 25 pregnant women during the last trimester of pregnancy receiving abacavir 300 mg twice daily.
+Abacavir exposure (AUC) during pregnancy was similar to those in postpartum and in HIV-infected non-pregnant historical controls.
+Consistent with passive diffusion of abacavir across the placenta, abacavir concentrations in neonatal plasma cord samples at birth were essentially equal to those in maternal plasma at delivery.
 
 Pediatric Patients: The pharmacokinetics of abacavir have been studied after either single or repeat doses of ZIAGEN in 169 pediatric subjects.
 Subjects receiving abacavir oral solution according to the recommended dosage regimen achieved plasma concentrations of abacavir similar to adults.
@@ -92,7 +96,7 @@ CBV-TP inhibits the activity of HIV-1 reverse transcriptase (RT) both by competi
 Antiviral Activity
 
 The antiviral activity of abacavir against HIV‑1 was assessed in a number of cell lines including primary monocytes/macrophages and peripheral blood mononuclear cells (PBMCs).
-EC50 values ranged from 3.7 to 5.8 M (1 microM = 0.28 mcg per mL) and 0.07 to 1.0 microM against HIV‑1IIIB and HIV‑1BaL, respectively, and the mean EC50 value was 0.26 0.18 microM against 8 clinical isolates.
+EC50 values ranged from 3.7 to 5.8 microM (1 microM = 0.28 mcg per mL) and 0.07 to 1.0 microM against HIV‑1IIIB and HIV‑1BaL, respectively, and the mean EC50 value was 0.26 0.18 microM against 8 clinical isolates.
 The median EC50 values of abacavir were 344 nM (range: 14.8 to 676 nM), 16.9 nM (range: 5.9 to 27.9 nM), 8.1 nM (range: 1.5 to 16.7 nM), 356 nM (range: 35.7 to 396 nM), 105 nM (range: 28.1 to 168 nM), 47.6 nM (range: 5.2 to 200 nM), 51.4 nM (range: 7.1 to 177 nM), and 282 nM (range: 22.4 to 598 nM) against HIV‑1 clades A-G and group O viruses (n = 3 except n = 2 for clade B), respectively.
 The EC50 values against HIV‑2 isolates (n = 4), ranged from 0.024 to 0.49 microM.
 The antiviral activity of abacavir in cell culture was not antagonized when combined with the nucleoside reverse transcriptase inhibitors (NRTIs) didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine or zidovudine, the non‑nucleoside reverse transcriptase inhibitor (NNRTI) nevirapine, or the protease inhibitor (PI) amprenavir.
@@ -107,7 +111,7 @@ Substitutions K65R, L74M, or Y115F with M184V or I conferred a 7- to 8-fold redu
 
 Thirty‑nine percent (7 of 18) of the isolates from subjects who experienced virologic failure in the abacavir once‑daily arm had a greater than 2.5‑fold mean decrease in abacavir susceptibility with a median‑fold decrease of 1.3 (range: 0.5 to 11) compared with 29% (5 of 17) of the failure isolates in the twice‑daily arm with a median‑fold decrease of 0.92 (range: 0.7 to 13).
 
-Cross-resistance
+Cross-Resistance
 
 Cross‑resistance has been observed among NRTIs.
 Isolates containing abacavir resistance‑associated substitutions, namely, K65R, L74V, Y115F, and M184V, exhibited cross‑resistance to didanosine, emtricitabine, lamivudine, and tenofovir in cell culture and in subjects.
