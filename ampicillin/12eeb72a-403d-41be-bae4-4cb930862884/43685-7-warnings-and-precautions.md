@@ -77,8 +77,6 @@ Long-term studies in animals have not been performed to evaluate carcinogenic or
 
 ## Pregnancy
 
-### Pregnancy Category B
-
 Reproduction studies have been performed in mice, rats, and rabbits at doses up to ten (10) times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to UNASYN.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.

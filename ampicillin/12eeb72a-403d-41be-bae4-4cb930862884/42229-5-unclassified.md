@@ -78,8 +78,11 @@ The 3 g UNASYN ADD-Vantage® vials are only to be used with Abbott Laboratories'
 
 To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
 
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
 Rx only
 
-LAB-0018-13.0
+LAB-0018-14.0
 
-July 2016
+January 2017
