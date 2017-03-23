@@ -21,7 +21,7 @@ In a placebo-controlled, crossover study (n=12), montelukast sodium inhibited ea
 The effect of montelukast sodium on eosinophils in the peripheral blood was examined in clinical trials.
 In patients with asthma aged 2 years and older who received montelukast sodium, a decrease in mean peripheral blood eosinophil counts ranging from 9% to 15% was noted, compared with placebo, over the double-blind treatment periods.
 In patients with seasonal allergic rhinitis aged 15 years and older who received montelukast sodium, a mean increase of 0.2% in peripheral blood eosinophil counts was noted, compared with a mean increase of 12.5% in placebo-treated patients, over the double-blind treatment periods; this reflects a mean difference of 12.3% in favor of montelukast sodium.
-The relationship between these observations and the clinical benefits of montelukast noted in the clinical trials is not known [see CLINICAL STUDIES (14)].
+The relationship between these observations and the clinical benefits of montelukast noted in the clinical trials is not known [see Clinical Studies (14)].
 
 ## 12.3 Pharmacokinetics
 
@@ -96,7 +96,7 @@ In children 6 to 11 months of age, the systemic exposure to montelukast and the 
 Based on population analyses, the mean AUC (4296 ng•hr/mL [range 1200 to 7153]) was 60% higher and the mean Cmax (667 ng/mL [range 201 to 1058]) was 89% higher than those observed in adults (mean AUC 2689 ng•hr/mL [range 1521 to 4595]) and mean Cmax (353 ng/mL [range 180 to 548]).
 The systemic exposure in children 12 to 23 months of age was less variable, but was still higher than that observed in adults.
 The mean AUC (3574 ng•hr/mL [range 2229 to 5408]) was 33% higher and the mean Cmax (562 ng/mL [range 296 to 814]) was 60% higher than those observed in adults.
-Safety and tolerability of montelukast in a single-dose pharmacokinetic study in 26 children 6 to 23 months of age were similar to that of patients two years and above [see ADVERSE REACTIONS (6.1)].
+Safety and tolerability of montelukast in a single-dose pharmacokinetic study in 26 children 6 to 23 months of age were similar to that of patients two years and above [see Adverse Reactions (6.1)].
 The 4 mg oral granule formulation should be used for pediatric patients 12 to 23 months of age for the treatment of asthma, or for pediatric patients 6 to 23 months of age for the treatment of perennial allergic rhinitis.
 Since the 4 mg oral granule formulation is bioequivalent to the 4 mg chewable tablet, it can also be used as an alternative formulation to the 4 mg chewable tablet in pediatric patients 2 to 5 years of age.
 
@@ -128,4 +128,4 @@ Cytochrome P450 (CYP) Enzyme Inhibitors: In vitro studies have shown that montel
 Co-administration of montelukast with itraconazole, a strong CYP 3A4 inhibitor, resulted in no significant increase in the systemic exposure of montelukast.
 Data from a clinical drug-drug interaction study involving montelukast and gemfibrozil (an inhibitor of both CYP 2C8 and 2C9) demonstrated that gemfibrozil, at a therapeutic dose, increased the systemic exposure of montelukast by 4.4-fold.
 Co-administration of itraconazole, gemfibrozil, and montelukast did not further increase the systemic exposure of montelukast.
-Based on available clinical experience, no dosage adjustment of montelukast is required upon co-administration with gemfibrozil [see OVERDOSAGE (10)].
+Based on available clinical experience, no dosage adjustment of montelukast is required upon co-administration with gemfibrozil [see Overdosage (10)].

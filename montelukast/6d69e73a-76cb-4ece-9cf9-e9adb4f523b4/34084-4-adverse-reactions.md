@@ -20,7 +20,7 @@ TABLE 1: Adverse Experiences Occurring in ≥1% of Patients with an Incidence Gr
 | Digestive System Disorders Dyspepsia Pain, dental Gastroenteritis, infectious | 2.1 1.7 1.5 | 1.1 1 0.5 |
 | Nervous System/Psychiatric Headache Dizziness | 18.4 1.9 | 18.1 1.4 |
 | Respiratory System Disorders Influenza Cough Congestion, nasal | 4.2 2.7 1.6 | 3.9 2.4 1.3 |
-| Skin/Skin AppendagesDisorder Rash | 1.6 | 1.2 |
+| Skin/Skin Appendages Disorder Rash | 1.6 | 1.2 |
 | Laboratory Adverse Experiences* ALT increased AST increased Pyuria | 2.1 1.6 1 | 2 1.2 0.9 |
 
 *Number of patients tested (montelukast sodium and placebo, respectively): ALT and AST, 1935, 1170; pyuria, 1924, 1159.
@@ -86,7 +86,7 @@ Blood and lymphatic system disorders: increased bleeding tendency, thrombocytope
 
 Immune system disorders: hypersensitivity reactions including anaphylaxis, hepatic eosinophilic infiltration.
 
-Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, restlessness, somnambulism, suicidal thinking and behavior (including suicide), and tremor [see WARNINGS AND PRECAUTIONS (5.4)].
+Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tic and tremor [see Warnings and Precautions (5.4)].
 
 Nervous system disorders: drowsiness, paraesthesia/hypoesthesia, seizures.
 
@@ -109,4 +109,4 @@ General disorders and administration site conditions: edema.
 
 Patients with asthma on therapy with montelukast sodium may present with systemic eosinophilia, sometimes presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition which is often treated with systemic corticosteroid therapy.
 These events have been sometimes associated with the reduction of oral corticosteroid therapy.
-Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients [see WARNINGS AND PRECAUTIONS (5.5)].
+Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients [see Warnings and Precautions (5.5)].
