@@ -9,7 +9,7 @@ Discontinue PROMACTA if antiviral therapy is discontinued.
 
 ## 5.2 Hepatotoxicity
 
-PROMACTA may increase the risk of severe and potentially life-threatening hepatotoxicity, [see Adverse Reactions (6.1)].
+PROMACTA may increase the risk of severe and potentially life-threatening hepatotoxicity [see Adverse Reactions (6.1)].
 Measure serum ALT, AST, and bilirubin prior to initiation of PROMACTA, every 2 weeks during the dose adjustment phase, and monthly following establishment of a stable dose.
 PROMACTA inhibits UDP-glucuronosyltransferase (UGT)1A1 and organic anion-transporting polypeptide (OATP)1B1, which may lead to indirect hyperbilirubinemia.
 If bilirubin is elevated, perform fractionation.

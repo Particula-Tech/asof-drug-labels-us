@@ -119,6 +119,8 @@ Adverse Reactions (≥10% and Greater than Placebo) from Two Placebo-controlled 
 | Alopecia | 10 | 6 |
 | Peripheral edema | 10 | 5 |
 
+Rash was reported in 9% and 7% of patients receiving PROMACTA and placebo, respectively.
+
 In the two controlled clinical trials in patients with chronic hepatitis C, hyperbilirubinemia was reported in 8% of patients receiving PROMACTA compared with 3% for placebo.
 Total bilirubin greater than or equal to 1.5 x ULN was reported in 76% and 50% of patients receiving PROMACTA and placebo, respectively.
 ALT or AST greater than or equal to 3 x ULN was reported in 34% and 38% of patients for PROMACTA and placebo, respectively.
@@ -152,6 +154,8 @@ Adverse Reactions (≥10%) from One Open-label Trial in Adults with Severe Aplas
 | Arthralgia | 12 |
 | Rhinorrhea | 12 |
 
+Rash was reported in 7% of patients.
+
 In this trial, patients had bone marrow aspirates evaluated for cytogenetic abnormalities.
 Eight patients had a new cytogenetic abnormality reported on therapy, including 5 patients who had complex changes in chromosome 7.
 
@@ -161,3 +165,5 @@ The following adverse reactions have been identified during post approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
 
 Vascular Disorders: Thrombotic microangiopathy with acute renal failure.
+
+Skin and Subcutaneous Tissue Disorders: Skin discoloration including hyperpigmentation and skin yellowing.

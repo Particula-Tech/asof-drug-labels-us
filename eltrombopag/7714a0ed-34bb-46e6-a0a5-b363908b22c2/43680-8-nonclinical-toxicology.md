@@ -15,9 +15,6 @@ Eltrombopag did not affect male fertility in rats at doses up to 40 mg/kg/day, t
 
 ## 13.2 Animal Pharmacology and/or Toxicology
 
-Eltrombopag is phototoxic in vitro.
-There was no evidence of in vivo cutaneous or ocular phototoxicity in rodents.
-
 Treatment-related cataracts were detected in rodents in a dose- and time-dependent manner.
 At greater than or equal to 6 times the human clinical exposure based on AUC in patients with ITP at 75 mg/day and 3 times the human clinical exposure based on AUC in patients with chronic hepatitis C at 100 mg/day, cataracts were observed in mice after 6 weeks and in rats after 28 weeks of dosing.
 At greater than or equal to 4 times the human clinical exposure based on AUC in patients with ITP at 75 mg/day and 2 times the human clinical exposure based on AUC in patients with chronic hepatitis C at 100 mg/day, cataracts were observed in mice after 13 weeks and in rats after 39 weeks of dosing [see Warnings and Precautions (5.4)].

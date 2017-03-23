@@ -1,8 +1,5 @@
 # 7 DRUG INTERACTIONS
 
-In vitro, CYP1A2, CYP2C8, UGT1A1, and UGT1A3 are involved in the metabolism of eltrombopag.
-In vitro, eltrombopag inhibits the following metabolic or transporter systems: CYP2C8, CYP2C9, UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, UGT2B15, OATP1B1, and breast cancer resistance protein (BCRP) [see Clinical Pharmacology (12.3)].
-
 ## 7.1 Polyvalent Cations (Chelation)
 
 Eltrombopag chelates polyvalent cations (such as iron, calcium, aluminum, magnesium, selenium, and zinc) in foods, mineral supplements, and antacids.
@@ -12,7 +9,7 @@ Take PROMACTA at least 2 hours before or 4 hours after any medications or produc
 
 ## 7.2 Transporters
 
-Coadministration of PROMACTA with the OATP1B1 and BCRP substrate, rosuvastatin, to healthy adult subjects increased plasma rosuvastatin AUC0-INF by 55% and Cmax by 103% [see Clinical Pharmacology (12.3)].
+Coadministration of PROMACTA with the OATP1B1 and breast cancer resistance protein (BCRP) substrate, rosuvastatin, to healthy adult subjects increased plasma rosuvastatin AUC0-INF by 55% and Cmax by 103% [see Clinical Pharmacology (12.3)].
 
 Use caution when concomitantly administering PROMACTA and drugs that are substrates of OATP1B1 (e.g., atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, olmesartan, pitavastatin, pravastatin, rosuvastatin, repaglinide, rifampin, simvastatin acid, SN-38 [active metabolite of irinotecan], valsartan) or BCRP (e.g., imatinib, irinotecan, lapatinib, methotrexate, mitoxantrone, rosuvastatin, sulfasalazine, topotecan).
 Monitor patients closely for signs and symptoms of excessive exposure to the drugs that are substrates of OATP1B1 or BCRP and consider reduction of the dose of these drugs, if appropriate.

@@ -48,9 +48,8 @@ In the same clinical trial, coadministration of a single dose of PROMACTA 50 mg 
 
 Pegylated Interferon alfa-2a + Ribavirin and Pegylated Interferon alfa-2b + Ribavirin: The pharmacokinetics of eltrombopag in both the presence and absence of pegylated interferon alfa-2a and -2b therapy were evaluated using a population pharmacokinetic analysis in 635 patients with chronic hepatitis C. The population PK model estimates of clearance indicate no significant difference in eltrombopag clearance in the presence of pegylated interferon alfa plus ribavirin therapy.
 
-In vitro Studies: Eltrombopag is an inhibitor of CYP2C8 and CYP2C9 in vitro.
-Eltrombopag is an inhibitor of UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, and UGT2B15 in vitro.
-Eltrombopag is an inhibitor of the organic anion transporting polypeptide OATP1B1 and BCRP in vitro.
+In vitro Studies: In vitro, CYP1A2, CYP2C8, UGT1A1, and UGT1A3 are involved in the metabolism of eltrombopag.
+In vitro, eltrombopag inhibits the following metabolic or transporter systems: CYP2C8, CYP2C9, UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, UGT2B15, OATP1B1, and BCRP.
 
 Specific Populations: Ethnicity: Based on two population PK analyses of eltrombopag concentrations in patients with ITP or chronic hepatitis C, East Asian (i.e., Japanese, Chinese, Taiwanese, Korean) subjects exhibited 50% to 55% higher eltrombopag plasma concentrations compared with non-East Asian subjects [see Dosage and Administration (2.1, 2.3)].
 
@@ -87,7 +86,7 @@ Geometric Mean (95% CI) Steady-state Plasma Eltrombopag Pharmacokinetic Paramete
 
 |  | Cmaxb | AUC(0-τ)b |
 | --- | --- | --- |
-| Age | (mcg/mL) | (mcg.h/mL) |
+| Age | (mcg/mL) | (mcg·hr/mL) |
 | Adults (n = 108) | 7.03 | 101 |
 |  | (6.44, 7.68) | (91.4, 113) |
 | 12 to 17 years (n = 62) | 6.80 | 103 |
