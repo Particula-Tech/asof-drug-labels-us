@@ -93,4 +93,4 @@ Worsening of chronic kidney disease stage was seen in 16.8% of patients treated 
 The following adverse reactions have been identified during the postmarketing use of alogliptin tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Actue Pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia, bullous pemphigoid, and diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.1, 5.3, 5.4, 5.6, 5.7)].
+Acute Pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia, bullous pemphigoid, and diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.1, 5.3, 5.4, 5.6, 5.7)].
