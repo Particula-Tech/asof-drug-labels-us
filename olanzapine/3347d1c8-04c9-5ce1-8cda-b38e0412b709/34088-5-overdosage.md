@@ -32,4 +32,4 @@ Hypotension and circulatory collapse should be treated with appropriate measures
 Close medical supervision and monitoring should continue until the patient recovers.
 
 For specific information about overdosage with lithium or valproate, refer to the Overdosage section of the package inserts for these products.
-For specific information about overdosage with olanzapine and fluoxetine in combination, refer to the Overdosage section of the Symbyax® package insert.
+For specific information about overdosage with olanzapine and fluoxetine in combination, refer to the Overdosage section of the Symbyax package insert.

@@ -55,13 +55,10 @@ Olanzapine tablets are a prescription medicine used to treat:
   - manic or mixed episodes that happen with bipolar I disorder in people age 13 or older.
   - manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or valproate, in adults.
   - long-term treatment of bipolar I disorder in adults.
-- episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®), in people age 10 or older.
+- episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®) in people age 10 or older.
 
 Olanzapine tablets have not been approved for use in children under 13 years of age.
 Olanzapine in combination with fluoxetine has not been approved for use in children under 10 years of age.
-
-Safety and effectiveness information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s olanzapine tablets and olanzapine orally disintegrating tablets.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 The symptoms of schizophrenia include hearing voices, seeing things that are not there, having beliefs that are not true, and being suspicious or withdrawn.
 
@@ -142,6 +139,9 @@ Serious side effects may happen when you take olanzapine tablets, including:
   - rigid muscles
   - confusion
   - changes in your breathing, heartbeat, and blood pressure.
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS): DRESS can occur with olanzapine tablets.
+  Features of DRESS may include rash, fever, swollen glands and other internal organ involvement such as liver, kidney, lung and heart.
+  DRESS is sometimes fatal; therefore, tell your doctor immediately if you experience any of these signs.
 - Tardive Dyskinesia: This condition causes body movements that keep happening and that you can not control.
   These movements usually affect the face and tongue.
   Tardive dyskinesia may not go away, even if you stop taking olanzapine tablets.
@@ -174,7 +174,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store olanzapine tablets?
 
-- Store olanzapine tablets at 20° to 25°C (68° to 77°F); excursions permitted from 15° to 30°C (59° to 86°F).
+- Store olanzapine tablets at 20°C to 25°C (68°F to 77°F); excursions permitted from 15°C to 30°C (59°F to 86°F).
 - Keep olanzapine tablets away from light.
 - Keep olanzapine tablets dry and away from moisture.
 
@@ -196,7 +196,7 @@ What are the ingredients in olanzapine tablets?
 
 Active ingredient: olanzapine
 
-Inactive ingredients: lactose, microcrystalline cellulose, starch, magnesium stearate.
+Inactive ingredients: lactose, microcrystalline cellulose, magnesium stearate, starch.
 The color coating contains hypromellose, hydroxypropyl cellulose, polyethylene glycol, titanium dioxide (all strengths), FD&C Blue No.2 Aluminum Lake (15 mg), or red ferric oxide and yellow iron oxide (20 mg).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
@@ -212,4 +212,4 @@ APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: August 2015 Revision 3
+Revised: March 2017 Revision 4

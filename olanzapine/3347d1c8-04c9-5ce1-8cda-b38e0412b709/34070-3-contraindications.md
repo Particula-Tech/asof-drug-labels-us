@@ -1,5 +1,5 @@
 # 4 CONTRAINDICATIONS
 
 - None with olanzapine tablets monotherapy.
-- When using olanzapine tablets and fluoxetine in combination, also refer to the Contraindications section of the package insert for Symbyax®.
+- When using olanzapine tablets and fluoxetine in combination, also refer to the Contraindications section of the package insert for Symbyax.
 - For specific information about the contraindications of lithium or valproate, refer to the Contraindications section of the package inserts for these other products.

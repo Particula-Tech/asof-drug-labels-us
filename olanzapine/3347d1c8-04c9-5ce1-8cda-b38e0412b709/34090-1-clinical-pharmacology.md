@@ -30,7 +30,7 @@ Its half-life ranges from 21 to 54 hours (5th to 95th percentile; mean of 30 hr)
 Administration of olanzapine once daily leads to steady-state concentrations in about 1 week that are approximately twice the concentrations after single doses.
 Plasma concentrations, half-life, and clearance of olanzapine may vary between individuals on the basis of smoking status, gender, and age.
 
-Olanzapine is extensively distributed throughout the body, with a volume of distribution of approximately 1000 L. It is 93% bound to plasma proteins over the concentration range of 7 to 1100 ng/mL, binding primarily to albumin and α1-acid glycoprotein.
+Olanzapine is extensively distributed throughout the body, with a volume of distribution of approximately 1,000 L. It is 93% bound to plasma proteins over the concentration range of 7 to 1,100 ng/mL, binding primarily to albumin and α1-acid glycoprotein.
 
 Metabolism and Elimination — Following a single oral dose of 14C labeled olanzapine, 7% of the dose of olanzapine was recovered in the urine as unchanged drug, indicating that olanzapine is highly metabolized.
 Approximately 57% and 30% of the dose was recovered in the urine and feces, respectively.

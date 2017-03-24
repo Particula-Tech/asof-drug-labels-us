@@ -13,7 +13,7 @@ However, doses above 10 mg/day were not demonstrated to be more efficacious than
 An increase to a dose greater than the target dose of 10 mg/day (i.e., to a dose of 15 mg/day or greater) is recommended only after clinical assessment.
 Olanzapine is not indicated for use in doses above 20 mg/day.
 
-Dosing in Special Populations — The recommended starting dose is 5 mg in patients who are debilitated, who have a predisposition to hypotensive reactions, who otherwise exhibit a combination of factors that may result in slower metabolism of olanzapine (e.g., nonsmoking female patients ≥65 years of age), or who may be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.12), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Dosing in Special Populations — The recommended starting dose is 5 mg in patients who are debilitated, who have a predisposition to hypotensive reactions, who otherwise exhibit a combination of factors that may result in slower metabolism of olanzapine (e.g., nonsmoking female patients ≥65 years of age), or who may be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.14), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 When indicated, dose escalation should be performed with caution in these patients.
 
 Maintenance Treatment — The effectiveness of oral olanzapine, 10 mg/day to 20 mg/day, in maintaining treatment response in schizophrenic patients who had been stable on olanzapine for approximately 8 weeks and were then followed for relapse has been demonstrated in a placebo-controlled trial [see Clinical Studies (14.1)].
@@ -64,29 +64,30 @@ Patients should be periodically reassessed to determine the need for maintenance
 
 ## 2.5 Olanzapine tablets and Fluoxetine in Combination: Depressive Episodes Associated with Bipolar I Disorder
 
-When using olanzapine tablets and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for Symbyax®.
+When using olanzapine tablets and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
 Adults Oral olanzapine should be administered in combination with fluoxetine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
 Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of oral olanzapine 5 to 12.5 mg and fluoxetine 20 to 50 mg.
 Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination in adult patients with a dose range of olanzapine 6 to 12 mg and fluoxetine 25 to 50 mg.
 Safety of co-administration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
 
-Children and Adolescents (10 to 17 years of age) Dosage and Administration information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s olanzapine tablets.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Children and Adolescents (10 to 17 years of age) Oral olanzapine should be administered in combination with fluoxetine once daily in the evening, without regard to meals, generally beginning with 2.5 mg of oral olanzapine and 20 mg of fluoxetine.
+Dosage adjustments, if indicated, can be made according to efficacy and tolerability.
+Safety of co-administration of doses above 12 mg olanzapine with 50 mg fluoxetine has not been evaluated in pediatric clinical studies.
 
-Safety and efficacy of olanzapine and fluoxetine in combination was determined in clinical trials supporting approval of Symbyax® (fixed dose combination of olanzapine and fluoxetine).
-Symbyax® is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
-The following table demonstrates the appropriate individual component doses of olanzapine and fluoxetine versus Symbyax®.
+Safety and efficacy of olanzapine and fluoxetine in combination was determined in clinical trials supporting approval of Symbyax (fixed dose combination of olanzapine and fluoxetine).
+Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
+The following table demonstrates the appropriate individual component doses of olanzapine and fluoxetine versus Symbyax.
 Dosage adjustments, if indicated, should be made with the individual components according to efficacy and tolerability.
 
-Table 1: Approximate Dose Correspondence Between Symbyax®a and the Combination of Olanzapine and Fluoxetine
+Table 1: Approximate Dose Correspondence Between Symbyaxa and the Combination of Olanzapine and Fluoxetine
 
-| For Symbyax® (mg/day) | Use in Combination |  |
+| For Symbyax (mg/day) | Use in Combination |  |
 | --- | --- | --- |
 | Olanzapine (mg/day) | Fluoxetine (mg/day) |  |
-| 3 mg olanzapine/ 25 mg fluoxetine 6 mg olanzapine/ 25 mg fluoxetine 12 mg olanzapine/ 25 mg fluoxetine 6 mg olanzapine/ 50 mg fluoxetine 12 mg olanzapine/ 50 mg fluoxetine | 2.5 5 10+2.5 5 10+2.5 | 20 20 20 40+10 40+10 |
+| 3 mg olanzapine/25 mg fluoxetine 6 mg olanzapine/25 mg fluoxetine 12 mg olanzapine/25 mg fluoxetine 6 mg olanzapine/50 mg fluoxetine 12 mg olanzapine/50 mg fluoxetine | 2.5 5 10+2.5 5 10+2.5 | 20 20 20 40+10 40+10 |
 
-a Symbyax® (olanzapine/fluoxetine HCl) is a fixed-dose combination of olanzapine and fluoxetine.
+a Symbyax (olanzapine/fluoxetine HCl) is a fixed-dose combination of olanzapine and fluoxetine.
 
 While there is no body of evidence to answer the question of how long a patient treated with olanzapine tablets and fluoxetine in combination should remain on it, it is generally accepted that bipolar I disorder, including the depressive episodes associated with bipolar I disorder, is a chronic illness requiring chronic treatment.
 The physician should periodically reexamine the need for continued pharmacotherapy.
@@ -95,15 +96,15 @@ Olanzapine tablets monotherapy is not indicated for the treatment of depressive 
 
 ## 2.6 Olanzapine and Fluoxetine in Combination: Treatment Resistant Depression
 
-When using olanzapine and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for Symbyax®.
+When using olanzapine and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
 Oral olanzapine should be administered in combination with fluoxetine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
 Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of oral olanzapine 5 to 20 mg and fluoxetine 20 to 50 mg.
 Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination in adult patients with a dose range of olanzapine 6 to 18 mg and fluoxetine 25 to 50 mg.
 
-Safety and efficacy of olanzapine in combination with fluoxetine was determined in clinical trials supporting approval of Symbyax® (fixed dose combination of olanzapine and fluoxetine).
-Symbyax® is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
-Table 1 above demonstrates the appropriate individual component doses of olanzapine and fluoxetine versus Symbyax®.
+Safety and efficacy of olanzapine in combination with fluoxetine was determined in clinical trials supporting approval of Symbyax (fixed dose combination of olanzapine and fluoxetine).
+Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
+Table 1 above demonstrates the appropriate individual component doses of olanzapine and fluoxetine versus Symbyax.
 Dosage adjustments, if indicated, should be made with the individual components according to efficacy and tolerability.
 
 While there is no body of evidence to answer the question of how long a patient treated with olanzapine and fluoxetine in combination should remain on it, it is generally accepted that treatment resistant depression (major depressive disorder in adult patients who do not respond to 2 separate trials of different antidepressants of adequate dose and duration in the current episode) is a chronic illness requiring chronic treatment.
@@ -118,4 +119,4 @@ Olanzapine monotherapy is not indicated for treatment of treatment resistant dep
 The starting dose of oral olanzapine 2.5 to 5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, nonsmoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
 Dosing modification may be necessary in patients who exhibit a combination of factors that may slow metabolism.
 When indicated, dose escalation should be performed with caution in these patients.
-Olanzapine and fluoxetine in combination have not been systematically studied in patients over 65 years of age or in patients under 10 years of age [see Warnings and Precautions (5.12), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Olanzapine and fluoxetine in combination have not been systematically studied in patients over 65 years of age or in patients under 10 years of age [see Warnings and Precautions (5.14), Drug Interactions (7), and Clinical Pharmacology (12.3)].

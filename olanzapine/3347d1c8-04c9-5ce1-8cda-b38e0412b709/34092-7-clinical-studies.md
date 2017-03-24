@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-When using olanzapine tablets and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for Symbyax®.
+When using olanzapine tablets and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
 ## 14.1 Schizophrenia
 

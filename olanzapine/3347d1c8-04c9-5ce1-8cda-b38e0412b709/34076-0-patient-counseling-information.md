@@ -4,7 +4,7 @@ See FDA-approved Medication Guide for the oral formulations.
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking olanzapine tablets as monotherapy or in combination with fluoxetine.
 If you do not think you are getting better or have any concerns about your condition while taking olanzapine tablets, call your doctor.
-When using olanzapine tablets and fluoxetine in combination, also refer to the Patient Counseling Information section of the package insert for Symbyax®.
+When using olanzapine tablets and fluoxetine in combination, also refer to the Patient Counseling Information section of the package insert for Symbyax.
 
 ## 17.1 Information on Medication Guide
 
@@ -12,7 +12,7 @@ Prescribers or other health professionals should inform patients, their families
 A patient Medication Guide is available for olanzapine tablets.
 Prescribers or other health professionals should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-When using olanzapine tablets and fluoxetine in combination, also refer to the Medication Guide for Symbyax®.
+When using olanzapine tablets and fluoxetine in combination, also refer to the Medication Guide for Symbyax.
 
 ## 17.2 Elderly Patients with Dementia-Related Psychosis: Increased Mortality and Cerebrovascular Adverse Events (CVAE), Including Stroke
 
@@ -26,62 +26,64 @@ Olanzapine tablets are not approved for elderly patients with dementia-related p
 Patients and caregivers should be counseled that a potentially fatal symptom complex sometimes referred to as NMS has been reported in association with administration of antipsychotic drugs, including olanzapine.
 Signs and symptoms of NMS include hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia) [see Warnings and Precautions (5.3)].
 
-## 17.4 Hyperglycemia and Diabetes Mellitus
+## 17.4 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+
+Patients should be advised to report to their health care provider at the earliest onset of any signs and symptoms that may be associated with Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.4)].
+
+## 17.5 Hyperglycemia and Diabetes Mellitus
 
 Patients should be advised of the potential risk of hyperglycemia-related adverse reactions.
 Patients should be monitored regularly for worsening of glucose control.
-Patients who have diabetes should follow their doctor's instructions about how often to check their blood sugar while taking olanzapine tablets [see Warnings and Precautions (5.4)].
+Patients who have diabetes should follow their doctor's instructions about how often to check their blood sugar while taking olanzapine tablets [see Warnings and Precautions (5.5)].
 
-## 17.5 Dyslipidemia
+## 17.6 Dyslipidemia
 
 Patients should be counseled that dyslipidemia has occurred during treatment with olanzapine.
-Patients should have their lipid profile monitored regularly [see Warnings and Precautions (5.4)].
+Patients should have their lipid profile monitored regularly [see Warnings and Precautions (5.5)].
 
-## 17.6 Weight Gain
+## 17.7 Weight Gain
 
 Patients should be counseled that weight gain has occurred during treatment with olanzapine.
-Patients should have their weight monitored regularly [see Warnings and Precautions (5.4)].
+Patients should have their weight monitored regularly [see Warnings and Precautions (5.5)].
 
-## 17.7 Orthostatic Hypotension
+## 17.8 Orthostatic Hypotension
 
-Patients should be advised of the risk of orthostatic hypotension, especially during the period of initial dose titration and in association with the use of concomitant drugs that may potentiate the orthostatic effect of olanzapine tablets, e.g., diazepam or alcohol [see Warnings and Precautions (5.6) and Drug Interactions (7)].
+Patients should be advised of the risk of orthostatic hypotension, especially during the period of initial dose titration and in association with the use of concomitant drugs that may potentiate the orthostatic effect of olanzapine tablets, e.g., diazepam or alcohol [see Warnings and Precautions (5.7) and Drug Interactions (7)].
 Patients should be advised to change positions carefully to help prevent orthostatic hypotension, and to lie down if they feel dizzy or faint, until they feel better.
-Patients should be advised to call their doctor if they experience any of the following signs and symptoms associated with orthostatic hypotension: dizziness, fast or slow heart beat, or fainting.
+Patients should be advised to call their doctor if they experience any of the following signs and symptoms associated with orthostatic hypotension: dizziness, fast or slow heartbeat, or fainting.
 
-## 17.8 Potential for Cognitive and Motor Impairment
+## 17.9 Potential for Cognitive and Motor Impairment
 
-Because olanzapine tablets have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that olanzapine tablets therapy does not affect them adversely [see Warnings and Precautions (5.10)].
+Because olanzapine tablets have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that olanzapine tablets therapy does not affect them adversely [see Warnings and Precautions (5.12)].
 
-## 17.9 Body Temperature Regulation
+## 17.10 Body Temperature Regulation
 
 Patients should be advised regarding appropriate care in avoiding overheating and dehydration.
-Patients should be advised to call their doctor right away if they become severely ill and have some or all of these symptoms of dehydration: sweating too much or not at all, dry mouth, feeling very hot, feeling thirsty, not able to produce urine [see Warnings and Precautions (5.11)].
+Patients should be advised to call their doctor right away if they become severely ill and have some or all of these symptoms of dehydration: sweating too much or not at all, dry mouth, feeling very hot, feeling thirsty, not able to produce urine [see Warnings and Precautions (5.13)].
 
-## 17.10 Concomitant Medication
+## 17.11 Concomitant Medication
 
-Patients should be advised to inform their physicians if they are taking, or plan to take, Symbyax®.
+Patients should be advised to inform their physicians if they are taking, or plan to take, Symbyax.
 Patients should also be advised to inform their physicians if they are taking, plan to take, or have stopped taking any prescription or over-the-counter drugs, including herbal supplements, since there is a potential for interactions [see Drug Interactions (7)].
 
-## 17.11 Alcohol
+## 17.12 Alcohol
 
 Patients should be advised to avoid alcohol while taking olanzapine tablets [see Drug Interactions (7)].
 
-## 17.13 Use in Specific Populations
+## 17.14 Use in Specific Populations
 
 Pregnancy — Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with olanzapine tablets [see Use in Specific Populations (8.1)].
 
 Nursing Mothers — Patients should be advised not to breast-feed an infant if they are taking olanzapine tablets [see Use in Specific Populations (8.3)].
 
 Pediatric Use — Olanzapine is indicated for treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder in adolescents 13 to 17 years of age.
-Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin, and hepatic transaminase levels.
+Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin, and hepatic aminotransferase levels.
 Patients should be counseled about the potential long-term risks associated with olanzapine and advised that these risks may lead them to consider other drugs first [see Indications and Usage (1.1, 1.2)].
 Safety and effectiveness of olanzapine tablets in patients under 13 years of age have not been established.
-Safety and effectiveness of olanzapine tablets and fluoxetine in combination in patients <10 years of age have not been established [see Warnings and Precautions (5.4) and Use in Specific Populations (8.4)].
+Safety and efficacy of olanzapine and fluoxetine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with bipolar I disorder.
+Safety and effectiveness of olanzapine tablets and fluoxetine in combination in patients <10 years of age have not been established [see Warnings and Precautions (5.5) and Use in Specific Populations (8.4)].
 
-Safety and effectiveness information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s olanzapine tablets.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
-## 17.14 Need for Comprehensive Treatment Program in Pediatric Patients
+## 17.15 Need for Comprehensive Treatment Program in Pediatric Patients
 
 Olanzapine is indicated as an integral part of a total treatment program for pediatric patients with schizophrenia and bipolar disorder that may include other measures (psychological, educational, social) for patients with the disorder.
 
@@ -101,4 +103,4 @@ APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: August 2015 Revision 3
+Revised: March 2017 Revision 4
