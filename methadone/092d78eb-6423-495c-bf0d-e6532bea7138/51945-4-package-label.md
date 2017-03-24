@@ -26,6 +26,6 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Made in U.S.A.
 
-MI:217:1C:R3
+MI:217:1C:R4
 
 Mylan.com
