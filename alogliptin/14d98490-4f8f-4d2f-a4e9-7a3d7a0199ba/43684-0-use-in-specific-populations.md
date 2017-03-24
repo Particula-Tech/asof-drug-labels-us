@@ -2,35 +2,69 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
+Risk Summary
 
-Alogliptin and Metformin Hydrochloride
+Limited available data with alogliptin and metformin HCl tablets or alogliptin in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
+Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk [see Data].
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
-There are no adequate and well-controlled studies in pregnant women with alogliptin and metformin HCl tablets or their individual components.
-Based on animal data, alogliptin and metformin HCl tablets are not predicted to increase the risk of developmental abnormalities.
-Because animal reproduction studies are not always predictive of human risk and exposure, alogliptin and metformin HCl tablets, like other antidiabetic medications, should be used during pregnancy only if clearly needed.
+Concomitant administration of alogliptin and metformin in pregnant rats during the period of organogenesis did not cause adverse developmental effects in offspring at maternal exposures up to 28 times and two times the 25 mg and 2000 mg clinical doses, respectively [see Data].
 
-No treatment-related fetal abnormalities occurred following concomitant administration of 100 mg/kg alogliptin with 150 mg/kg metformin to pregnant rats, or approximately 28 and two times the clinical dose of alogliptin (25 mg) and metformin (2000 mg), respectively (based on AUC).
+The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c > 7 and has been reported to be as high as 20-25% in women with HbA1c > 10.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, still birth and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major malformations, still birth, and macrosomia related morbidity.
+
+Data
+
+Human Data
+
+Published data from post-marketing studies do not report a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin is used during pregnancy.
+However, these studies cannot definitely establish the absence of any metformin-associated risk because of methodological limitations, including small sample size and inconsistent comparator groups.
+
+Animal Data
+
+Alogliptin and Metformin
+
+Concomitant administration of alogliptin and metformin in pregnant rats during the period of organogenesis did not cause adverse developmental effects in offspring at a dose of 100 mg/kg alogliptin and 150 mg/kg metformin, or approximately 28 and two times the clinical dose of alogliptin (25 mg) and metformin (2000 mg), respectively based on plasma drug exposure (AUC).
 
 Alogliptin
 
-Alogliptin administered to pregnant rabbits and rats during the period of organogenesis was not teratogenic at doses of up to 200 mg/kg and 500 mg/kg, or 149 times and 180 times, respectively, the clinical dose based on plasma drug exposure (AUC).
-
-Doses of alogliptin up to 250 mg/kg (approximately 95 times clinical exposure based on AUC) given to pregnant rats from gestation Day 6 to lactation Day 20 did not harm the developing embryo or adversely affect growth and development of offspring.
+Alogliptin administered to pregnant rabbits and rats during the period of organogenesis did not cause adverse developmental effects at doses of up to 200 mg/kg and 500 mg/kg, or 149 times and 180 times the 25 mg clinical dose, respectively, based on plasma drug exposure (AUC).
 
 Placental transfer of alogliptin into the fetus was observed following oral dosing to pregnant rats.
 
+No adverse developmental outcomes were observed in offspring when alogliptin was administered to pregnant rats during gestation and lactation at doses up to 250 mg/kg (approximately 95 times the 25 mg clinical dose, based on AUC).
+
 Metformin Hydrochloride
 
-Metformin was not teratogenic in rats and rabbits at doses up to 600 mg/kg, which represents an exposure of about two and six times the MRHD dose of 2000 mg based on body surface area comparisons for rats and rabbits, respectively.
-Metformin HCl should not be used during pregnancy unless clearly needed.
+Metformin hydrochloride did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
+This represents an exposure of about two to six times a clinical dose of 2000 mg based on body surface area (mg/m2) for rats and rabbits, respectively.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-No studies have been conducted with the combined components of alogliptin and metformin HCl tablets.
-In studies performed with the individual components, both alogliptin and metformin are secreted in the milk of lactating rats.
-It is not known whether alogliptin and/or metformin are secreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when alogliptin and metformin HCl tablets are administered to a nursing woman.
+Risk Summary
+
+There is no information regarding the presence of alogliptin and metformin or alogliptin in human milk, the effects on the breastfed infant, or the effects on milk production.
+Alogliptin is present in rat milk.
+Limited published studies report that metformin is present in human milk [see Data].
+However, there is insufficient information to determine the effects of metformin on the breastfed infant and no available information on the effects of metformin on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for alogliptin and metformin HCl tablets and any potential adverse effects on the breastfed infant from alogliptin and metformin HCl tablets or from the underlying maternal condition.
+
+Data
+
+Published clinical lactation studies report that metformin is present in human milk which resulted in infant doses approximately 0.11% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio (based on AUC) ranging between 0.13 and 1.
+However, the studies were not designed to definitely establish the risk of use of metformin during lactation because of small sample size and limited adverse event data collected in infants.
+
+## 8.3 Females and Males of Reproductive Potential
+
+There is the potential for unintended pregnancy with premenopausal women as therapy with metformin may result in ovulation in some premenopausal anovulatory women.
 
 ## 8.4 Pediatric Use
 

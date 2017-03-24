@@ -221,7 +221,7 @@ Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Nifedipine | 10 mg | 850 mg | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | 1.05 | 1.07 |
-| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
+| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5) and Drug Interactions (7)]. |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | 1.40 | 1.61 |
 | Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
 | Topiramate | 100 mgAt steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h | 500 mg | 1.25 | 1.17 |
@@ -237,5 +237,5 @@ Effect of Metformin on Coadministered Drug Systemic Exposure
 | Furosemide | 40 mg | 850 mg | 0.87 | 0.69 |
 | Nifedipine | 10 mg | 850 mg | 1.10 | 1.08 |
 | Propranolol | 40 mg | 850 mg | 1.01 | 0.94 |
-| Ibuprofen | 400 mg | 850 mg | 0.97Ratio of arithmetic me | 1.01 |
+| Ibuprofen | 400 mg | 850 mg | 0.97Ratio of arithmetic means | 1.01 |
 | Cimetidine | 400 mg | 850 mg | 0.95 | 1.01 |

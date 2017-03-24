@@ -31,8 +31,9 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide)
   Alogliptin and metformin HCl tablets should be taken with food.
   If a dose is missed, advise patients not to double their next dose.
 - Patients should be informed that the tablets must never be split.
+- Inform female patients that treatment with metformin may result in an unintended pregnancy in some premenopausal anovulatory females due to its effects on ovulation [see Use in Specific Populations (8.3)].
 
 Instruct patients to read the Medication Guide before starting alogliptin and metformin HCl tablets therapy and to reread each time the prescription is refilled.
 Instruct patients to inform their healthcare provider if an unusual symptom develops or if a symptom persists or worsens.
 
-ALK334 R4
+ALK334 R5
