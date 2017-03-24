@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA207518"
+  ],
+  "inn": "azacitidine",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-771-39"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "azacitidine",
+      "name": "Azacitidine"
+    }
+  ],
+  "setid": "3b594aba-e798-4105-b801-0b0d970747c1",
+  "source": "dailymed"
+}
