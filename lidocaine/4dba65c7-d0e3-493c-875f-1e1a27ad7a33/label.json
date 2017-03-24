@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017549"
+  ],
   "inn": "lidocaine",
-  "labeler": "MERIDIAN MEDICAL TECHNOLOGIES, INC.",
+  "labeler": "Meridian Medical Technologies, Inc.",
   "package_ndcs": [
     "11704-221-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "lidocaine hydrochloride",
+      "name": "Lidopen"
+    }
+  ],
   "setid": "4dba65c7-d0e3-493c-875f-1e1a27ad7a33",
   "source": "dailymed"
 }
