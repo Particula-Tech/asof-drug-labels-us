@@ -50,14 +50,17 @@ The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment 
 Increase in Hematocrit: Median hematocrit decreased by 1.3% in placebo and increased by 2.8% in empagliflozin 10 mg and 2.8% in empagliflozin 25 mg treated patients.
 At the end of treatment, 0.6%, 2.7%, and 3.5% of patients with hematocrits initially within the reference range had values above the upper limit of the reference range with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
-Linagliptin Changes in laboratory values that occurred more frequently in the linagliptin group and ≥1% more than in the placebo group were increases in uric acid (1.3% in the placebo group, 2.7% in the linagliptin group).
+Linagliptin Increase in Uric Acid: Changes in laboratory values that occurred more frequently in the linagliptin group and ≥1% more than in the placebo group were increases in uric acid (1.3% in the placebo group, 2.7% in the linagliptin group).
+
+Increase in Lipase: In a placebo-controlled clinical trial with linagliptin in type 2 diabetes mellitus patients with micro- or macroalbuminuria, a mean increase of 30% in lipase concentrations from baseline to 24 weeks was observed in the linagliptin arm compared to a mean decrease of 2% in the placebo arm.
+Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 1.7% patients in the linagliptin and placebo arms, respectively.
 
 ## 6.2 Postmarketing Experience
 
 Additional adverse reactions have been identified during postapproval use of linagliptin and empagliflozin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1.1) and Warnings and Precautions (5.1)]
+- Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1) and Warnings and Precautions (5.1)]
 - Ketoacidosis [see Warnings and Precautions (5.3)]
 - Urosepsis and pyelonephritis [see Warnings and Precautions (5.5)]
 - Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see Warnings and Precautions (5.8)]

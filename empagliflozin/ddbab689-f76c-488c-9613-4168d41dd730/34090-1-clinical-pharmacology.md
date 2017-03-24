@@ -135,7 +135,7 @@ Figure 1 Effect of Various Medications on the Pharmacokinetics of Empagliflozin 
 
 aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, single dose; cempagliflozin, 25 mg, once daily; dempagliflozin, 10 mg, single dose
 
-Empagliflozin had no clinically relevant effect on the pharmacokinetics of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, digoxin, ramipril, simvastatin, hydrochlorothiazide, torasemide, and oral contraceptives when coadministered in healthy volunteers (see Figure 2).
+Empagliflozin had no clinically relevant effect on the pharmacokinetics of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, digoxin, ramipril, simvastatin, hydrochlorothiazide, torsemide, and oral contraceptives when coadministered in healthy volunteers (see Figure 2).
 
 Figure 2 Effect of Empagliflozin on the Pharmacokinetics of Various Medications as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)]
 
@@ -163,7 +163,7 @@ Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | Ritonavir | 200 mg BID | 5 mgb | 2.01 | 2.96 |
 | The efficacy of linagliptin may be reduced when administered in combination with strong inducers of CYP3A4 or P-gp (e.g., rifampin). Use of alternative treatments is strongly recommended [see Drug Interactions (7.2)]. |  |  |  |  |
 | Rifampin | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
-| aMultiple dose (steady state) unless otherwise noted |  |  |  |  |
+| a Multiple dose (steady state) unless otherwise noted |  |  |  |  |
 | bSingle dose |  |  |  |  |
 | cAUC = AUC(0 to 24 hours) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments |  |  |  |  |
 | QD = once daily |  |  |  |  |
@@ -183,10 +183,10 @@ Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 | Simvastatin | 40 mg QD | 10 mg QD | simvastatin simvastatin acid | 1.341.33 | 1.101.21 |
 | Warfarin | 10 mgb | 5 mg QD | R-warfarinS-warfarinINRPT | 0.991.030.93d1.03d | 1.001.011.04d1.15d |
 | Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiollevonorgestrel | 1.011.09 | 1.081.13 |
-| aMultiple dose (steady state) unless otherwise noted |  |  |  |  |  |
+| a Multiple dose (steady state) unless otherwise noted |  |  |  |  |  |
 | bSingle dose |  |  |  |  |  |
 | cAUC = AUC(INF) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments |  |  |  |  |  |
-| dAUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points |  |  |  |  |  |
+| dAUC=AUC(0-168) and Cmax=Emaxfor pharmacodynamic end points |  |  |  |  |  |
 | INR = International Normalized Ratio |  |  |  |  |  |
 | PT = Prothrombin Time |  |  |  |  |  |
 | QD = once daily |  |  |  |  |  |
