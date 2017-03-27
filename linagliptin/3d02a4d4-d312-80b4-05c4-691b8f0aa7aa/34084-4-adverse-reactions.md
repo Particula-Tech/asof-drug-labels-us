@@ -39,12 +39,19 @@ Adverse reactions of hypoglycemia were based on all reports of hypoglycemia.
 A concurrent glucose measurement was not required or was normal in some patients.
 Therefore, it is not possible to conclusively determine that all these reports reflect true hypoglycemia.
 
-Laboratory Tests Metformin Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.5)].
+Laboratory Tests Linagliptin Increase in Uric Acid: Changes in laboratory values that occurred more frequently in the linagliptin group and ≥1% more than in the placebo group were increases in uric acid (1.3% in the placebo group, 2.7% in the linagliptin group).
+
+Increase in Lipase: In a placebo-controlled clinical trial with linagliptin in type 2 diabetes mellitus patients with micro- or macroalbuminuria, a mean increase of 30% in lipase concentrations from baseline to 24 weeks was observed in the linagliptin arm compared to a mean decrease of 2% in the placebo arm.
+Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 1.7% patients in the linagliptin and placebo arms, respectively.
+
+Metformin Decrease in Vitamin B12 Absorption: Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.5)].
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of linagliptin with or without metformin, and/or in combination with other antidiabetic medications.
+The following adverse reactions have been identified during postapproval use.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Linagliptin
 
 - Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1.2) and Warnings and Precautions (5.2)]
 - Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see Warnings and Precautions (5.4)]
@@ -52,3 +59,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Rash
 - Bullous pemphigoid [see Warnings and Precautions (5.7)]
 - Mouth ulceration, stomatitis
+
+Metformin
+
+- Cholestatic, hepatocellular, and mixed hepatocellular liver injury

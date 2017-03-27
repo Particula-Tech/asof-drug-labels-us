@@ -77,7 +77,7 @@ In patients with moderate renal impairment under steady-state conditions, mean e
 This increase was not associated with a prolonged accumulation half-life, terminal half-life, or an increased accumulation factor.
 Renal excretion of linagliptin was below 5% of the administered dose and was not affected by decreased renal function.
 
-Metformin: In patients with decreased renal function (based on measured eGFR), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in eGFR [see Contraindications (4) and Warnings and Precautions (5.1)].
+Metformin: In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Hepatic Impairment JENTADUETO XR: Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO XR in hepatically impaired patients have not been performed [see Warnings and Precautions (5.1)].
 
@@ -173,7 +173,7 @@ Table 4 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
 Table 5 Effect of Metformin on Coadministered Drug Systemic Exposure
 
-| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Metformin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
+| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Metformin* | Geometric Mean Ratio (ratio with/without metformin) No effect=1.0 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | AUC† | Cmax |  |  |  |
 | No dosing adjustments required for the following coadministered drugs: |  |  |  |  |  |

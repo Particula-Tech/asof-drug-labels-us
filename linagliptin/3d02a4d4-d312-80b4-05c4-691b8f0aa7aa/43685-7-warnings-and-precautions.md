@@ -16,14 +16,15 @@ Educate patients and their families about the symptoms of lactic acidosis and if
 For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
-The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
+Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)]:
 
 - Before initiating JENTADUETO XR, obtain an estimated glomerular filtration rate (eGFR).
-- JENTADUETO XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2.
-  Initiation of JENTADUETO XR is not recommended in patients with eGFR between 30 – 45 mL/min/1.73 m2.
+- JENTADUETO XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2[see Contraindications (4)].
+- Initiation of JENTADUETO XR is not recommended in patients with eGFR between 30 – 45 mL/min/1.73 m2.
 - Obtain an eGFR at least annually in all patients taking JENTADUETO XR.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
-- In patients taking JENTADUETO XR whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy [see Dosage and Administration (2.2), Contraindications (4) and Clinical Pharmacology (12.3)].
+- In patients taking JENTADUETO XR whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy.
 
 Drug Interactions: The concomitant use of JENTADUETO XR with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g., cationic drugs) [see Drug Interactions (7.1)].
 Therefore, consider more frequent monitoring of patients.
@@ -103,4 +104,4 @@ If bullous pemphigoid is suspected, JENTADUETO XR should be discontinued and ref
 
 ## 5.8 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with linagliptin or metformin or any other antidiabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with linagliptin or metformin.

@@ -57,6 +57,6 @@ Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
 JENTADUETO is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
 
-Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2017 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT6354DL302016
+IT6354EC152017

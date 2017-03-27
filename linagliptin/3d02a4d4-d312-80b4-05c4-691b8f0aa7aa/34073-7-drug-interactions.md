@@ -6,8 +6,8 @@ Carbonic Anhydrase Inhibitors Topiramate or other carbonic anhydrase inhibitors 
 Concomitant use of these drugs with JENTADUETO XR, may increase the risk of lactic acidosis.
 Consider more frequent monitoring of these patients [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-Drugs that Reduce Metformin Clearance Drugs that are eliminated by renal tubular secretion (e.g., cationic drugs such as cimetidine) have the potential for interaction with metformin by competing for common renal tubular transport systems, and may increase the accumulation of metformin and the risk for lactic acidosis [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
-Consider more frequent monitoring of these patients.
+Drugs that Reduce Metformin Clearance Concomitant use of drugs that interfere with common renal tubular transport systems involved in the renal elimination of metformin (e.g., organic cationic transporter-2 [OCT2] / multidrug and toxin extrusion [MATE] inhibitors such as ranolazine, vandetanib, dolutegravir, and cimetidine) could increase systemic exposure to metformin and may increase the risk for lactic acidosis [see Clinical Pharmacology (12.3)].
+Consider the benefits and risks of concomitant use.
 
 Alcohol Alcohol is known to potentiate the effect of metformin on lactate metabolism.
 Warn patients against excessive alcohol intake while receiving JENTADUETO XR.
