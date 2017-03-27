@@ -21,7 +21,7 @@ APOTEX INC. AZELASTINE HYDROCHLORIDE NASAL SPRAY 137 mcg
 | Manufactured by | Manufactured for |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
-| Toronto, Ontario | Weston, FL |
+| Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-December 2014
+Revised: January 2017

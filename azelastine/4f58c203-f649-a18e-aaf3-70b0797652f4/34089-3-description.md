@@ -11,5 +11,5 @@ Its molecular formula is C22H24ClN3O•HCl with the following chemical structure
 Azelastine hydrochloride nasal solution contains 0.1% azelastine hydrochloride in an aqueous solution at pH 6.8 ± 0.3.
 It also contains benzalkonium chloride (125 mcg/mL), citric acid, dibasic sodium phosphate, edetate disodium, hypromellose, purified water and sodium chloride.
 
-After priming, each metered spray delivers a 0.137 mL mean volume containing 137 mcg of azelastine hydrochloride (equivalent to 125 mcg of azelastine base).
+After priming [see Dosage and Administration (2.3)], each metered spray delivers a 0.137 mL mean volume containing 137 mcg of azelastine hydrochloride (equivalent to 125 mcg of azelastine base).
 The bottle can deliver 200 metered sprays.

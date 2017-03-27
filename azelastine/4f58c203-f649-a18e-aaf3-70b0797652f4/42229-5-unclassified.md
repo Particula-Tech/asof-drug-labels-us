@@ -71,7 +71,7 @@ You may report side effects to FDA at 1­ 800-FDA-1088.
 
 How should I store azelastine hydrochloride nasal spray?
 
-- Store upright at 20º to 25ºC (68º to 77ºF)
+- Store upright at 20ºC to 25ºC (68ºF to 77ºF)
 - Do not freeze azelastine hydrochloride nasal spray.
 - Do not use azelastine hydrochloride nasal spray after the expiration date "EXP" on the medicine label and box
 
@@ -181,7 +181,7 @@ APOTEX INC. AZELASTINE HYDROCHLORIDE NASAL SPRAY 137 mcg
 | Manufactured by | Manufactured for |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
-| Toronto, Ontario | Weston, FL |
+| Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-December 2014
+Revised: January 2017
