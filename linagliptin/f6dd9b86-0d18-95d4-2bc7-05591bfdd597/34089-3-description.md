@@ -17,7 +17,7 @@ Linagliptin is soluble in methanol (ca.
 1 mg/mL).
 
 Metformin Hydrochloride Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
-Metformin hydrochloride is a white to off-white crystalline compound with a molecular formula of C4H11N5HCl and a molecular weight of 165.63 g/mol.
+Metformin hydrochloride is a white to off-white crystalline compound with a molecular formula of C4H11N5•HCl and a molecular weight of 165.63 g/mol.
 Metformin hydrochloride is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
 The pKa of metformin is 12.4.
 The pH of a 1% aqueous solution of metformin hydrochloride is 6.68.

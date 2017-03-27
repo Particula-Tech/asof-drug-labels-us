@@ -204,7 +204,7 @@ Table 11 Glycemic Parameters in Placebo-Controlled Study for Linagliptin in Comb
 | Difference from placebo (adjusted mean) (95% CI) | -11 (-16, -6) | -- |
 | *Full analysis population using last observation carried forward (LOCF) method on study **Linagliptin + Insulin, n=595; Placebo + Insulin, n=593 ***HbA1c: ANCOVA model included treatment, categorical renal function impairment status and concomitant OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment, categorical renal function impairment status and concomitant OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
 
-The difference between treatment with linagliptin and placebo in terms of adjusted mean change from baseline in HbA1c after 24 weeks was comparable for patients with no renal impairment (eGRF ≥90 mL/min, n=539), with mild renal impairment (eGFR 60 to <90 mL/min, n=565), or with moderate renal impairment (eGFR 30 to <60 mL/min, n=124).
+The difference between treatment with linagliptin and placebo in terms of adjusted mean change from baseline in HbA1c after 24 weeks was comparable for patients with no renal impairment (eGFR ≥90 mL/min, n=539), with mild renal impairment (eGFR 60 to <90 mL/min, n=565), or with moderate renal impairment (eGFR 30 to <60 mL/min, n=124).
 
 ## 14.7 Renal Impairment
 

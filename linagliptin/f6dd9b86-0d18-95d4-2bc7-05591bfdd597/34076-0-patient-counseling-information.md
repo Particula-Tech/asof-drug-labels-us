@@ -44,12 +44,14 @@ Instruct patients to seek medical advice if severe joint pain occurs [see Warnin
 Bullous Pemphigoid Inform patients that bullous pemphigoid may occur with this class of drugs.
 Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.7)].
 
+Pregnancy Inform female patients that treatment with metformin may result in an unintended pregnancy in some premenopausal anovulatory females due to its effect on ovulation [see Use in Specific Populations (8.3)].
+
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA and Eli Lilly and Company Indianapolis, IN 46285 USA
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2017 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5571RL302016
+IT6841FC132017

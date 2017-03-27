@@ -17,7 +17,7 @@ Warn patients against excessive alcohol intake while receiving JENTADUETO.
 Inducers of P-glycoprotein and CYP3A4 Enzymes Rifampin decreased linagliptin exposure, suggesting that the efficacy of linagliptin may be reduced when administered in combination with a strong P-gp inducer or CYP 3A4 inducer.
 As JENTADUETO is a fixed-dose combination of linagliptin and metformin, use of alternative treatments (not containing linagliptin) is strongly recommended when concomitant treatment with a strong P-gp or CYP 3A4 inducer is necessary [see Clinical Pharmacology (12.3)].
 
-## 7.3 Insulin Secretagogues and Insulin
+## 7.3 Insulin Secretagogues or Insulin
 
 Co-administration of JENTADUETO with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia.
 

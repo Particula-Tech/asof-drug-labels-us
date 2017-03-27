@@ -5,7 +5,7 @@
 The dosage of JENTADUETO should be individualized on the basis of both effectiveness and tolerability, while not exceeding the maximum recommended dose of 2.5 mg linagliptin/1000 mg metformin hydrochloride twice daily.
 JENTADUETO should be given twice daily with meals.
 Dose escalation should be gradual to reduce the gastrointestinal (GI) side effects associated with metformin use.
-For available dosage forms and strengths see [Dosage Forms and Strengths (3)].
+For available dosage forms and strengths [see Dosage Forms and Strengths (3)].
 
 Recommended starting dose:
 

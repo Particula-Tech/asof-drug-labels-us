@@ -2,35 +2,47 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B JENTADUETO There are no adequate and well controlled studies in pregnant women with JENTADUETO or its individual components, and some clinical data is available for metformin which indicate that the risk for major malformations was not increased when metformin is taken during the first trimester in pregnancy.
-In addition, metformin was not associated with increased perinatal complications.
-Nevertheless, because these clinical data cannot rule out the possibility of harm, JENTADUETO should be used during pregnancy only if clearly needed.
+Risk Summary The limited data with JENTADUETO and linagliptin use in pregnant women are not sufficient to inform a JENTADUETO-associated or linagliptin-associated risk for major birth defects and miscarriage.
+Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk [see Data].
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
-JENTADUETO was not teratogenic when administered to Wistar Han rats during the period of organogenesis at doses similar to clinical exposure.
-At higher maternally toxic doses (9 and 23 times the clinical dose based on exposure), the metformin component of the combination was associated with an increased incidence of fetal rib and scapula malformations.
+In animal reproduction studies, no adverse developmental effects were observed when the combination of linagliptin and metformin was administered to pregnant rats during the period of organogenesis at doses similar to the maximum recommended clinical dose, based on exposure [see Data].
 
-Linagliptin Linagliptin was not teratogenic when administered to pregnant Wistar Han rats and Himalayan rabbits during the period of organogenesis at doses up to 240 mg/kg and 150 mg/kg, respectively.
-These doses represent approximately 943 times the clinical dose in rats and 1943 times the clinical dose in rabbits, based on exposure.
-No functional, behavioral, or reproductive toxicity was observed in offspring of female Wistar Han rats when administered linagliptin from gestation day 6 to lactation day 21 at a dose 49 times the maximum recommended human dose, based on exposure.
+The estimated background risk of major birth defects is 6 to10% in women with pre-gestational diabetes with a HbA1c>7 and has been reported to be as high as 20-25% in women with HbA1c>10.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Linagliptin crosses the placenta into the fetus following oral dosing in pregnant rats and rabbits.
+Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia-related morbidity.
 
-Metformin Hydrochloride Metformin has been studied for embryo-fetal effects in 2 rat strains and in rabbits.
-Metformin was not teratogenic in Sprague Dawley rats up to 600 mg/kg or in Wistar Han rats up to 200 mg/kg (2-3 times the clinical dose based on body surface area or exposure, respectively).
-At higher maternally toxic doses (9 and 23 times the clinical dose based on exposure), an increased incidence of rib and scapula skeletal malformations was observed in the Wistar Han strain.
-Metformin was not teratogenic in rabbits at doses up to 140 mg/kg (similar to clinical dose based on body surface area).
+Data Human Data Published data from post-marketing studies have not reported a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin was used during pregnancy.
+However, these studies cannot definitely establish the absence of any metformin-associated risk because of methodological limitations, including small sample size and inconsistent comparator groups.
 
-Metformin administered to female Sprague Dawley rats from gestation day 6 to lactation day 21 up to 600 mg/kg/day (2 times the maximum clinical dose based on body surface area) had no effect on prenatal or postnatal development of offspring.
+Animal Data Linagliptin and metformin, the components of JENTADUETO, were coadministered to pregnant Wistar Han rats during the period of organogenesis.
+No adverse developmental outcome was observed at doses similar to the maximum recommended clinical dose, based on exposure.
+At higher doses associated with maternal toxicity, the metformin component of the combination was associated with an increased incidence of fetal rib and scapula malformations at ≥ 9-times a 2000 mg clinical dose, based on exposure.
 
-Metformin crosses the placenta into the fetus in rats and humans.
+Linagliptin No adverse developmental outcome was observed when linagliptin was administered to pregnant Wistar Han rats and Himalayan rabbits during the period of organogenesis at doses up to 240 mg/kg and 150 mg/kg, respectively.
+These doses represent approximately 943 times (rats) and 1943 times (rabbits) the 5 mg clinical dose, based on exposure.
+No adverse functional, behavioral, or reproductive outcome was observed in offspring following administration of linagliptin to Wistar Han rats from gestation day 6 to lactation day 21 at a dose 49 times the 5 mg clinical dose, based on exposure.
 
-## 8.3 Nursing Mothers
+Metformin Hydrochloride Metformin hydrochloride did not cause adverse developmental effects when administered to pregnant rabbits up to 600 mg/kg/day during the period of organogenesis.
+This represents an exposure of approximately 6-times a clinical dose of 2000 mg, based on body surface area.
 
-No studies in lactating animals have been conducted with the combined components of JENTADUETO.
-In studies performed with the individual components, both linagliptin and metformin were secreted in the milk of lactating rats.
-It is not known whether linagliptin is excreted in human milk.
-Metformin is excreted in human milk in low concentrations.
-Because the potential for hypoglycemia in nursing infants may exist, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+## 8.2 Lactation
+
+Risk Summary There is no information regarding the presence of JENTADUETO or linagliptin in human milk, the effects on the breastfed infant, or the effects on milk production.
+However, linagliptin is present in rat milk.
+Limited published studies report that metformin is present in human milk [see Data].
+However, there is insufficient information to determine the effects of metformin on the breastfed infant and no available information on the effects of metformin on milk production.
+Therefore, the developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for JENTADUETO and any potential adverse effects on the breastfed child from JENTADUETO or from the underlying maternal condition.
+
+Data Published clinical lactation studies report that metformin is present in human milk which resulted in infant doses approximately 0.11% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 0.13 and 1.
+However, the studies were not designed to definitely establish the risk of use of metformin during lactation because of small sample size and limited adverse event data collected in infants.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Discuss the potential for unintended pregnancy with premenopausal women as therapy with metformin may result in ovulation in some anovulatory women.
 
 ## 8.4 Pediatric Use
 
@@ -53,7 +65,7 @@ Assess renal function more frequently in elderly patients [see Contraindications
 ## 8.6 Renal Impairment
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
-JENTADUETO is contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2[See Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+JENTADUETO is contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2 [See Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 If JENTADUETO is discontinued due to evidence of renal impairment, linagliptin may be continued as a single entity tablet at the same total daily dose of 5 mg.
 No dose adjustment of linagliptin is recommended in patients with renal impairment.

@@ -167,7 +167,7 @@ Table 4 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Cimetidine | 400 mg | 850 mg | metformin | 1.40 | 1.61 |
 | Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5.1) and Drug Interactions (7.1)]. |  |  |  |  |  |
 | Topiramate** | 100 mg | 500 mg | metformin | 1.25 | 1.17 |
-| * All metformin and coadministered drugs were given as single doses † AUC = AUC(INF) ‡ Ratio of arithmetic means **At steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h |  |  |  |  |  |
+| * All metformin and coadministered drugs were given as single doses † AUC = AUC(INF) ‡ Ratio of arithmetic means **At steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC(0-12hours) |  |  |  |  |  |
 
 Table 5 Effect of Metformin on Coadministered Drug Systemic Exposure
 
@@ -180,4 +180,4 @@ Table 5 Effect of Metformin on Coadministered Drug Systemic Exposure
 | Nifedipine | 10 mg | 850 mg | nifedipine | 1.10§ | 1.08 |
 | Propranolol | 40 mg | 850 mg | propranolol | 1.01§ | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | ibuprofen | 0.97¶ | 1.01¶ |
-| * All metformin and coadministered drugs were given as single doses † AUC = AUC(INF) unless otherwise noted ‡ Ratio of arithmetic means, p-value of difference <0.05 § AUC(0-24 hr) reported ¶ Ratio of arithmetic means |  |  |  |  |  |
+| * All metformin and coadministered drugs were given as single doses † AUC = AUC(INF) unless otherwise noted ‡ Ratio of arithmetic means, p-value of difference <0.05 § AUC(0-24 hours) reported ¶ Ratio of arithmetic means |  |  |  |  |  |

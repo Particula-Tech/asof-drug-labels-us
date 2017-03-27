@@ -31,8 +31,6 @@ Three additional cases of pancreatitis were reported following the last administ
 
 Metformin The most common adverse reactions due to initiation of metformin are diarrhea, nausea/vomiting, flatulence, asthenia, indigestion, abdominal discomfort, and headache.
 
-Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.5)].
-
 Hypoglycemia Linagliptin/Metformin In a 24-week factorial design study, hypoglycemia was reported in 4 (1.4%) of 286 subjects treated with linagliptin + metformin, 6 (2.1%) of 291 subjects treated with metformin, and 1 (1.4%) of 72 subjects treated with placebo.
 When linagliptin was administered in combination with metformin and a sulfonylurea, 181 (22.9%) of 792 patients reported hypoglycemia compared with 39 (14.8%) of 263 patients administered placebo in combination with metformin and sulfonylurea.
 Adverse reactions of hypoglycemia were based on all reports of hypoglycemia.
@@ -53,10 +51,12 @@ Events that were considered life-threatening or required hospitalization were re
 
 Renal function as measured by mean eGFR and creatinine clearance did not change over 52 weeks’ treatment compared to placebo.
 
-Laboratory Tests Changes in laboratory findings were similar in patients treated with linagliptin + metformin compared to patients treated with placebo + metformin.
-Changes in laboratory values that occurred more frequently in the linagliptin + metformin group and ≥1% more than in the placebo group were not detected.
+Laboratory Tests Linagliptin Increase in Uric Acid: Changes in laboratory values that occurred more frequently in the linagliptin group and ≥1% more than in the placebo group were increases in uric acid (1.3% in the placebo group, 2.7% in the linagliptin group).
 
-No clinically meaningful changes in vital signs were observed in patients treated with linagliptin.
+Increase in Lipase: In a placebo-controlled clinical trial with linagliptin in type 2 diabetes mellitus patients with micro- or macroalbuminuria, a mean increase of 30% in lipase concentrations from baseline to 24 weeks was observed in the linagliptin arm compared to a mean decrease of 2% in the placebo arm.
+Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 1.7% patients in the linagliptin and placebo arms, respectively.
+
+Metformin Decrease in Vitamin B12 Absorption: Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.5)].
 
 ## 6.2 Postmarketing Experience
 

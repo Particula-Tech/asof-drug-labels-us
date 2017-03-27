@@ -2,7 +2,7 @@
 
 ## 1.1 Indication
 
-JENTADUETO tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus when treatment with both linagliptin and metformin is appropriate [see Dosage and Administration (2.1) and Clinical Studies (14.1)].
+JENTADUETO is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus when treatment with both linagliptin and metformin is appropriate [see Dosage and Administration (2.1) and Clinical Studies (14.1)].
 
 ## 1.2 Important Limitations of Use
 
