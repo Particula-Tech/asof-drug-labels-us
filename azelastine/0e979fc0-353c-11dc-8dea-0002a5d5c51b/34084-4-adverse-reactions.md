@@ -28,7 +28,7 @@ Adverse Reactions Reported in ≥2% Incidence in a Placebo-Controlled Trial of 2
 
 |  | 1 spray twice daily |  |  | 2 sprays twice daily |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| ASTEPRO 0.1% (N=139) | Astelin Nasal Spray (N=137) | Vehicle Placebo (N=137) | ASTEPRO 0.1% (N=146) | Astelin Nasal Spray (N=137) | Vehicle Placebo (N=138) |  |
+| ASTEPRO0.1%(N=139) | AstelinNasal Spray(N=137) | VehiclePlacebo(N=137) | ASTEPRO0.1%(N=146) | AstelinNasal Spray(N=137) | VehiclePlacebo(N=138) |  |
 | Bitter Taste | 8 (6%) | 13 (10%) | 2 (2%) | 10 (7%) | 11 (8%) | 3 (2%) |
 | Epistaxis | 3 (2%) | 8 (6%) | 3 (2%) | 4 (3%) | 3 (2%) | 0 (0%) |
 | Headache | 2 (1%) | 5 (4%) | 1 (<1%) | 4 (3%) | 3 (2%) | 1 (<1%) |
@@ -50,6 +50,7 @@ Children 6 to 11 years of age
 In a 4 week clinical trial, 489 patients ages 6 to 11 years with perennial allergic rhinitis, with or without concomitant seasonal allergic rhinitis, were treated with either ASTEPRO 0.1%, ASTEPRO 0.15% or placebo, one spray per nostril twice daily.
 Overall, adverse events were similar in the ASTEPRO 0.15% group (24%), ASTEPRO 0.1% group (26%) and the placebo group (24%).
 Overall, less than 1% of the combined ASTEPRO groups discontinued due to adverse events.
+
 Table 2 contains adverse reactions reported with frequencies greater than or equal to 2% and more frequently than placebo in children 6 to 11 years of age treated with ASTEPRO 0.1% or ASTEPRO 0.15% in the controlled trial described above.
 
 Table 2.
@@ -57,7 +58,7 @@ Adverse Reactions Reported in ≥2% Incidence in a Placebo-Controlled Trial of 4
 
 |  | 1 spray twice daily |  |  |  |
 | --- | --- | --- | --- | --- |
-| ASTEPRO 0.1% (N=166) | ASTEPRO 0.15% (N=161) | Vehicle Placebo (N=162) |  |  |
+| ASTEPRO0.1%(N=166) | ASTEPRO0.15%(N=161) | Vehicle Placebo(N=162) |  |  |
 | Epistaxis | 8 (5%) | 7 (4%) | 5 (3%) |  |
 | Nasal Discomfort | 1 (<1%) | 7 (4%) | 0 (0%) |  |
 | Dysgeusia | 4 (2%) | 6 (4%) | 1 (<1%) |  |
@@ -88,6 +89,7 @@ Adults and Adolescents 12 Years of Age and Older
 In the 7 placebo controlled clinical trials of 2 to 4 week duration, 2343 patients with seasonal allergic rhinitis and 540 patients with perennial allergic rhinitis were treated with two sprays per nostril of either ASTEPRO 0.15% or placebo once or twice daily.
 Overall, adverse reactions were more common in the ASTEPRO 0.15% treatment groups (16-31%) than in the placebo groups (11-24%).
 Overall, less than 2% of patients discontinued due to adverse reactions and withdrawal due to adverse reactions was similar among the treatment groups.
+
 Table 3 contains adverse reactions reported with frequencies greater than or equal to 2% and more frequently than placebo in patients treated with ASTEPRO 0.15% in the seasonal and perennial allergic rhinitis controlled clinical trials.
 
 Table 3.
@@ -95,7 +97,7 @@ Adverse Reactions with ≥2% Incidence in Placebo-Controlled Trials of 2 to 4 We
 
 |  | 2 sprays twice daily |  | 2 sprays once daily |  |
 | --- | --- | --- | --- | --- |
-| ASTEPRO 0.15% (N=523) | Vehicle Placebo (N=523) | ASTEPRO 0.15% (N=1021) | Vehicle Placebo (N=816) |  |
+| ASTEPRO0.15%(N=523) | Vehicle Placebo (N=523) | ASTEPRO0.15%(N=1021) | Vehicle Placebo (N=816) |  |
 | Bitter Taste | 31 (6%) | 5 (1%) | 38 (4%) | 2 (<1%) |
 | Nasal Discomfort | 18 (3%) | 12 (2%) | 37 (4%) | 7 (1%) |
 | Epistaxis | 5 (1%) | 7 (1%) | 21 (2%) | 14 (2%) |
@@ -103,7 +105,9 @@ Adverse Reactions with ≥2% Incidence in Placebo-Controlled Trials of 2 to 4 We
 
 In the above trials, somnolence was reported in <1% of patients treated with ASTEPRO 0.15% (11 of 1544) or vehicle placebo (1 of 1339).
 
-Long-Term (12 Month) Safety Trial: In the 12 month, open-label, active-controlled, long-term safety trial, 466 patients (12 years of age and older) with perennial allergic rhinitis were treated with ASTEPRO 0.15% two sprays per nostril twice daily and 237 patients were treated with mometasone nasal spray two sprays per nostril once daily.
+Long-Term (12 Month) Safety Trial:
+
+In the 12 month, open-label, active-controlled, long-term safety trial, 466 patients (12 years of age and older) with perennial allergic rhinitis were treated with ASTEPRO 0.15% two sprays per nostril twice daily and 237 patients were treated with mometasone nasal spray two sprays per nostril once daily.
 The most frequently reported adverse reactions (>5%) with ASTEPRO 0.15% were bitter taste, headache, sinusitis, and epistaxis.
 Focused nasal examinations were performed and no nasal ulcerations or septal perforations were observed.
 In each treatment group, approximately 3% of patients had mild epistaxis.

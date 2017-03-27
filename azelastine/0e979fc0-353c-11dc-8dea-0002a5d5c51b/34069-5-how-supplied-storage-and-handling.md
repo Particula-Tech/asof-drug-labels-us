@@ -18,5 +18,7 @@ The bottle should be discarded after 200 sprays have been used.
 
 ASTEPRO should not be used after the expiration date “EXP” printed on the medicine label and carton.
 
-Storage Store upright at controlled room temperature 20° - 25°C (68° - 77°F).
+Storage
+
+Store upright at controlled room temperature 20° - 25°C (68° - 77°F).
 Protect from freezing.

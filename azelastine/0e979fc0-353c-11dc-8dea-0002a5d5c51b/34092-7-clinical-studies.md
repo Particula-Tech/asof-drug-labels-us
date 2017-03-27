@@ -49,7 +49,7 @@ In Trials 5 and 6, ASTEPRO 0.15% demonstrated a greater decrease in iTNSS than p
 Table 4.
 Mean Change from Baseline in Reflective TNSS over 2 Weeks* in Adults and Children ≥ 12 years with Seasonal Allergic Rhinitis
 
-|  | Treatment (sprays per nostril) | n | Baseline LS Mean | Change from Baseline | Difference From Placebo |  |  |
+|  | Treatment(sprays per nostril) | n | BaselineLS Mean | ChangeFromBaseline | Difference From Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | LS Mean | 95% CI | P value |  |  |  |  |  |
 | Trial 1 |  |  |  |  |  |  |  |
@@ -81,19 +81,19 @@ Mean Change from Baseline in Reflective TNSS over 2 Weeks* in Adults and Childre
 Table 5.
 Mean Change from Baseline AM Instantaneous TNSS over 2 Weeks* in Adults and Children ≥ 12 years with Seasonal Allergic Rhinitis
 
-|  | Treatment (sprays per nostril once daily) | n | Baseline LS Mean | Change from Baseline | Difference From Placebo |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| LS Mean | 95% CI | P value |  |  |  |  |  |
-| Trial 4 |  |  |  |  |  |  |  |
-| Two sprays once daily | ASTEPRO 0.15% | 238 | 8.1 | -1.3 | -0.2 | -0.6, 0.1 | 0.15 |
-| Vehicle Placebo | 242 | 8.3 | -1.1 |  |  |  |  |
-| Trial 5 |  |  |  |  |  |  |  |
-| Two sprays once daily | ASTEPRO 0.15% | 266 | 8.7 | -1.4 | -0.7 | -1.0, -0.4 | <0.001 |
-| Vehicle Placebo | 266 | 8.3 | -0.7 |  |  |  |  |
-| Trial 6 |  |  |  |  |  |  |  |
-| Two sprays once daily | ASTEPRO 0.15% | 251 | 8.9 | -1.4 | -0.6 | -0.9, -0.3 | <0.001 |
-| Vehicle Placebo | 254 | 8.9 | -0.8 |  |  |  |  |
-| *AM iTNSS for each day (Maximum score=12) and averaged over the 14 day treatment period |  |  |  |  |  |  |  |
+|  | Treatment(sprays per nostril once daily) | n | BaselineLS Mean | ChangeFromBaseline | Difference From Placebo |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LSMean | 95% CI | P value |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Trial 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Two sprays once daily | ASTEPRO 0.15% | 238 | 8.1 | -1.3 | -0.2 | -0.6, 0.1 | 0.15 |  |  |  |  |  |  |  |  |
+| Vehicle Placebo | 242 | 8.3 | -1.1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Trial 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Two sprays once daily | ASTEPRO 0.15% | 266 | 8.7 | -1.4 | -0.7 | -1.0, -0.4 | <0.001 |  |  |  |  |  |  |  |  |
+| Vehicle Placebo | 266 | 8.3 | -0.7 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Trial 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Two sprays once daily | ASTEPRO 0.15% | 251 | 8.9 | -1.4 | -0.6 | -0.9, -0.3 | <0.001 |  |  |  |  |  |  |  |  |
+| Vehicle Placebo | 254 | 8.9 | -0.8 |  |  |  |  |  |  |  |  |  |  |  |  |
+| *AM iTNSS for each day (Maximum score=12) and averaged over the 14 day treatment period |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ASTEPRO 0.15% at a dose of 1 spray twice daily was not studied.
 The ASTEPRO 0.15% 1 spray twice daily dosing regimen is supported by previous findings of efficacy for Astelin (azelastine hydrochloride) Nasal Spray and a favorable comparison of ASTEPRO 0.15% to Astelin Nasal Spray and ASTEPRO 0.1% (Table 4).
@@ -115,9 +115,9 @@ In this trial, ASTEPRO 0.15% demonstrated a greater decrease in rTNSS than place
 Table 6.
 Mean Change from Baseline in Reflective TNSS over 4 Weeks* in Adults and Children ≥ 12 years with Perennial Allergic Rhinitis
 
-|  | Treatment (sprays per nostril twice daily) | n | Baseline LS Mean | Change from Baseline | Difference From Placebo |  |  |
+|  | Treatment(sprays per nostril twice daily) | n | BaselineLS Mean | ChangeFromBaseline | Difference From Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| LS Mean | 95% CI | P value |  |  |  |  |  |
+| LSMean | 95% CI | P value |  |  |  |  |  |
 | Two sprays twice daily | ASTEPRO 0.15% | 192 | 15.8 | -4.0 | -0.9 | -1.7, -0.1 | 0.03 |
 | ASTEPRO 0.1% | 194 | 15.5 | -3.8 | -0.7 | -1.5, 0.1 | 0.08 |  |
 | Vehicle Placebo | 192 | 14.7 | -3.1 |  |  |  |  |
@@ -136,12 +136,12 @@ There was also no difference in treatment effect between patients with perennial
 Table 7.
 Mean Change from Baseline in Reflective TNSS over 4 Weeks* in Children 6 to 11 years with Perennial Allergic Rhinitis
 
-|  | Treatment (sprays per nostril twice daily) | n | Baseline LS Mean | Change from Baseline | Difference From Placebo |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| LS Mean | 95% CI | P value |  |  |  |  |  |
-| One spray twice daily | ASTEPRO 0.15% | 159 | 16.6 | -3.5 | -1.0 | -1.7, -0.3 | 0.005 |
-| ASTEPRO 0.1% | 166 | 16.4 | -3.4 | -0.9 | -1.6, -0.2 | 0.015 |  |
-| Vehicle Placebo | 161 | 16.1 | -2.5 |  |  |  |  |
-| *Sum of AM and PM rTNSS for each day (Maximum score=24) and averaged over the 28 day treatment period |  |  |  |  |  |  |  |
+|  | Treatment(sprays per nostril twice daily) | n | BaselineLS Mean | ChangeFromBaseline | Difference From Placebo |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LSMean | 95% CI | P value |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| One spray twice daily | ASTEPRO 0.15% | 159 | 16.6 | -3.5 | -1.0 | -1.7, -0.3 | 0.005 |  |  |  |  |  |  |  |  |
+| ASTEPRO 0.1% | 166 | 16.4 | -3.4 | -0.9 | -1.6, -0.2 | 0.015 |  |  |  |  |  |  |  |  |  |
+| Vehicle Placebo | 161 | 16.1 | -2.5 |  |  |  |  |  |  |  |  |  |  |  |  |
+| *Sum of AM and PM rTNSS for each day (Maximum score=24) and averaged over the 28 day treatment period |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 The efficacy of ASTEPRO 0.1% and ASTEPRO 0.15% in children 6 months to 5 years of age with allergic rhinitis was explored in a clinical study (described above in Section 14.1).

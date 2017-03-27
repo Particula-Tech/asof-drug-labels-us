@@ -31,7 +31,9 @@ If a child accidentally ingests ASTEPRO, seek medical help or call a poison cont
 
 Manufactured by:
 
-MEDA PHARMACEUTICALS® Somerset, NJ 08873-4120
+MEDA PHARMACEUTICALS®
+
+Somerset, NJ 08873-4120
 
 Astelin, ASTEPRO and MEDA PHARMACEUTICALS are registered trademarks of Meda Pharmaceuticals Inc. or a related entity.
 
