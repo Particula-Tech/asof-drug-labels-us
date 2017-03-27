@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208801"
+  ],
+  "inn": "progesterone",
+  "labeler": "Dr. Reddys Laboratories, Inc.",
+  "package_ndcs": [
+    "43598-349-01",
+    "43598-350-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "progesterone",
+      "name": "Progesterone"
+    }
+  ],
+  "setid": "efded380-02ff-68c9-13e4-47a561ede440",
+  "source": "dailymed"
+}
