@@ -85,6 +85,15 @@ In the animal fertility study with pregabalin in male rats, adverse reproductive
 
 The safety and efficacy of pregabalin in pediatric patients have not been established.
 
+Fibromyalgia
+
+A 15-week, placebo-controlled trial was conducted with 107 pediatric patients with fibromyalgia, ages 12 through 17 years, at LYRICA total daily doses of 75–450 mg per day.
+The primary efficacy endpoint of change from baseline to Week 15 in mean pain intensity (derived from an 11-point numeric rating scale) showed numerically greater improvement for the pregabalin-treated patients compared to placebo-treated patients, but did not reach statistical significance.
+The most frequently observed adverse reactions in the clinical trial included dizziness, nausea, headache, weight increased, and fatigue.
+The overall safety profile in adolescents was similar to that observed in adults with fibromyalgia.
+
+Juvenile Animal Data
+
 In studies in which pregabalin (50 to 500 mg/kg) was orally administered to young rats from early in the postnatal period (Postnatal Day 7) through sexual maturity, neurobehavioral abnormalities (deficits in learning and memory, altered locomotor activity, decreased auditory startle responding and habituation) and reproductive impairment (delayed sexual maturation and decreased fertility in males and females) were observed at doses greater than or equal to 50 mg/kg.
 The neurobehavioral changes of acoustic startle persisted at greater than or equal to 250 mg/kg and locomotor activity and water maze performance at greater than or equal to 500 mg/kg in animals tested after cessation of dosing and, thus, were considered to represent long-term effects.
 The low effect dose for developmental neurotoxicity and reproductive impairment in juvenile rats (50 mg/kg) was associated with a plasma pregabalin exposure (AUC) approximately equal to human exposure at the maximum recommended dose of 600 mg/day.

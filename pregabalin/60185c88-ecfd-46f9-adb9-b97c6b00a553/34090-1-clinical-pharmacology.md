@@ -68,11 +68,11 @@ Elderly
 
 Pregabalin oral clearance tended to decrease with increasing age.
 This decrease in pregabalin oral clearance is consistent with age-related decreases in CLcr.
-Reduction of pregabalin dose may be required in patients who have age-related compromised renal function [see Dosage and Administration, (2.6)].
+Reduction of pregabalin dose may be required in patients who have age-related compromised renal function [see Dosage and Administration (2.6)].
 
 Pediatric Pharmacokinetics
 
-Pharmacokinetics of pregabalin have not been adequately studied in pediatric patients.
+In the pediatric age group of 12 years of age and older, systemic exposure of pregabalin is similar to adults at any given dose of LYRICA [see Pediatric Use (8.4)].
 
 Drug Interactions
 

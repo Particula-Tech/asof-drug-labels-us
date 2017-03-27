@@ -352,7 +352,7 @@ Comparison of Gender and Race
 The overall adverse event profile of pregabalin was similar between women and men.
 There are insufficient data to support a statement regarding the distribution of adverse experience reports by race.
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of LYRICA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -363,5 +363,5 @@ Gastrointestinal Disorders – Nausea, Diarrhea
 
 Reproductive System and Breast Disorders – Gynecomastia, Breast Enlargement
 
-In addition, there are post-marketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when LYRICA was co- administered with medications that have the potential to produce constipation, such as opioid analgesics.
-There are also post-marketing reports of respiratory failure and coma in patients taking pregabalin and other CNS depressant medications.
+In addition, there are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when LYRICA was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
+There are also postmarketing reports of respiratory failure and coma in patients taking pregabalin and other CNS depressant medications.
