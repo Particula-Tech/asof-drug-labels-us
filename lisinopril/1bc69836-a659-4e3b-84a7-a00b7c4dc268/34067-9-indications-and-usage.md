@@ -1,10 +1,10 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-## Hypertension
+## 1.1 Hypertension
 
-Lisinopril Tablets, USP are indicated for the treatment of hypertension to lower blood pressure.
+Lisinopril tablets are indicated for the treatment of hypertension in adult patients and pediatric patients 6 years of age and older to lower blood pressure.
 Lowering blood pressure lowers the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions.
-These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including lisinopril.
+These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes.
 
 Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake.
 Many patients will require more than 1 drug to achieve blood pressure goals.
@@ -16,21 +16,16 @@ The largest and most consistent cardiovascular outcome benefit has been a reduct
 Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit.
 Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal.
 
-Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (eg, on angina, heart failure, or diabetic kidney disease).
+Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
 These considerations may guide selection of therapy.
 
-Lisinopril may be administered alone or with other antihypertensive agents.
+Lisinopril may be administered alone or with other antihypertensive agents [see Clinical Studies (14.1)].
 
-## Heart Failure
+## 1.2 Heart Failure
 
-Lisinopril tablets, USP are indicated as adjunctive therapy in the management of heart failure in patients who are not responding adequately to diuretics and digitalis.
+Lisinopril tablets are indicated to reduce signs and symptoms of systolic heart failure [see Clinical Studies (14.2)].
 
-## Acute Myocardial Infarction
+## 1.3 Reduction of Mortality in Acute Myocardial Infarction
 
-Lisinopril tablets, USP are indicated for the treatment of hemodynamically stable patients within 24 hours of acute myocardial infarction, to improve survival.
-Patients should receive, as appropriate, the standard recommended treatments such as thrombolytics, aspirin and beta-blockers.
-
-In using lisinopril, consideration should be given to the fact that another angiotensin-converting enzyme inhibitor, captopril, has caused agranulocytosis, particularly in patients with renal impairment or collagen vascular disease, and that available data are insufficient to show that lisinopril does not have a similar risk (See WARNINGS).
-
-In considering the use of lisinopril, it should be noted that in controlled clinical trials ACE inhibitors have an effect on blood pressure that is less in Black patients than in non-Blacks.
-In addition, ACE inhibitors have been associated with a higher rate of angioedema in Black than in non-Black patients (See WARNINGS, Anaphylactoid and Possibly Related Reactions).
+Lisinopril tablets are indicated for the reduction of mortality in treatment of hemodynamically stable patients within 24 hours of acute myocardial infarction.
+Patients should receive, as appropriate, the standard recommended treatments such as thrombolytics, aspirin and beta-blockers [see Clinical Studies (14.3)].

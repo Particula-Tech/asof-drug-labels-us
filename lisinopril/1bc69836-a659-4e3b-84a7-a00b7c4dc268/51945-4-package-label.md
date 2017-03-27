@@ -1,37 +1,37 @@
 # Package/Label Display Panel
 
-Lisinopril Tablets, 2.5mg, 500 Tablets
+NDC 76282-417-30
 
-NDC 76282-417-05
-
-# Package/Label Display Panel
-
-Lisinopril Tablets, 5mg, 1000 Tablets
-
-NDC 76282-418-10
+Lisinopril Tablets, USP 2.5 mg Rx Only 30 Tablets
 
 # Package/Label Display Panel
 
-Lisinopril Tablets, 10mg 1000 Tablets
+NDC 76282-418-30
 
-NDC 76282-419-10
+Lisinopril Tablets, USP 5 mg Rx Only 30 Tablets
 
 # Package/Label Display Panel
 
-Lisinopril Tablets, 20mg, 1000 Tablets
+NDC 76282-419-30
 
-NDC 76282-420-10
+Lisinopril Tablets, USP 10 mg Rx Only 30 Tablets
+
+# Package/Label Display Panel
+
+NDC 76282-420-30
+
+Lisinopril Tablets, USP 20 mg Rx Only 30 Tablets
 
 -
 
 # Package/Label Display Panel
 
-Lisinopril Tablets 30mg, 100 Tablets
+NDC 76282-421-30
 
-NDC 76282-421-01
+Lisinopril Tablets, USP 30 mg Rx Only 30 Tablets
 
 # Package/Label Display Panel
 
-Lisinopril Tablets, 40mg, 1000 Tablets
+NDC 76282-422-30
 
-NDC 76282-422-10
+Lisinopril Tablets, USP 40 mg Rx Only 30 Tablets
