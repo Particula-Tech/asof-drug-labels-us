@@ -19,7 +19,9 @@ Check linezolid solution for clarity; it may exhibit a yellow color that intensi
 DOSAGE AND USE: See accompanying prescribing information.
 MADE IN SINGAPORE
 
-Pfizer Injectables Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc NY, NY 10017
+Pfizer Injectables
+
+Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc NY, NY 10017
 
 7 OTHER
 
@@ -39,13 +41,14 @@ RX ONLY
 
 STORE AT 25°C (77°F); EXCURSIONS PERMITTED TO 15-30°C (59-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE].
 DO NOT FREEZE.
-818 098 002
 
-DISTRIBUTED BY PHARMACIA & UPJOHN DIVISION OF PFIZER INC, NY, NY 10017 MADE IN SINGAPORE Pfizer
+DISTRIBUTED BY PHARMACIA & UPJOHN DIVISION OF PFIZER INC, NY, NY 10017 MADE IN SINGAPORE
+
+Pfizer Injectables
 
 EXP 00/0000 LOT 00 00 00
 
-FUU 0701 01-88-26-019C
+FUU 0701 01-88-26-019D
 
 # PRINCIPAL DISPLAY PANEL - 300 mL Bag Label
 
@@ -58,8 +61,7 @@ Do not freeze.
 Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64 mg citric acid, USP 0.85 mg water for injection, USP qs
 
 pH adjusted to 4.8 with sodium hydroxide or hydrochloric acid.
-Sterile and nonpyrogenic.
-Single dose container.
+Sterile and nonpyrogenic Single dose container.
 
 LOT
 
@@ -69,9 +71,12 @@ For intravenous administration Check for leaks by squeezing container.
 If leaks are found, discard, as sterility may be impaired.
 Check linezolid solution for clarity; it may exhibit a yellow color that intensifies over time, with no adverse effect on potency.
 DOSAGE AND USE: See accompanying prescribing information.
+
 MADE IN SINGAPORE
 
-Pfizer Injectables Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Pfizer Injectables
+
+Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
 7 OTHER
 
@@ -91,13 +96,14 @@ RX ONLY
 
 STORE AT 25°C (77°F); EXCURSIONS PERMITTED TO 15-30°C (59-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE].
 DO NOT FREEZE.
-818 100 002
 
-DISTRIBUTED BY PHARMACIA & UPJOHN DIVISION OF PFIZER INC, NY, NY 10017 MADE IN SINGAPORE Pfizer
+DISTRIBUTED BY PHARMACIA & UPJOHN DIVISION OF PFIZER INC, NY, NY 10017 MADE IN SINGAPORE
+
+Pfizer Injectables
 
 EXP 00/0000 LOT 00 00 00
 
-FUU 0703 01-88-26-020C
+FUU 0703 01-88-26-020D
 
 # PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
 
