@@ -25,7 +25,7 @@ The terminal elimination half-life of etoposide ranges from 4 to 11 hours.
 Total body clearance values range from 33 to 48 mL/min.
 
 Metabolism Following intravenous administration of ETOPOPHOS, etoposide phosphate is completely converted to etoposide in plasma.
-Etoposide is metabolized by opening of the lactone ring, O demethylation, and conjugation (i.e., glucuronidation and sulfation).
+Etoposide is metabolized by opening of the lactone ring, O-demethylation, and conjugation (i.e., glucuronidation and sulfation).
 O-demethylation occurs through the CYP450 3A4 isoenzyme pathway to produce the active catechol metabolite.
 
 Excretion

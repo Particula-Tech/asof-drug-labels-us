@@ -11,6 +11,8 @@ Embryo-Fetal Toxicity
 - Advise females of reproductive potential to use effective contraception during and 6 months after treatment with ETOPOPHOS [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1, 8.3)].
 - Advise males with female sexual partners of reproductive potential to use condoms during treatment with ETOPOPHOS and for at least 4 months after the final dose [see Warnings and Precautions (5.4) and Use in Specific Populations (8.3)].
 
-Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 USA Product of Germany
+Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+Product of Germany
 
 Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA [Print code]

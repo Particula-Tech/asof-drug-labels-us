@@ -9,7 +9,7 @@ Advise women of childbearing potential to avoid becoming pregnant.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data Animal Data In rats, an intravenous etoposide dose of 0.4 mg/kg/day (about 0.05 times of the 50 mg/m2 human dose based on body surface area [BSA]) during organogenesis caused maternal toxicity, embryotoxicity, and teratogenicity (skeletal abnormalities, exencephaly, encephalocele, and anophthalmia); higher doses of 1.2 and 3.6 mg/kg/day (about 0.14 and 0.5 times the 50 mg/m2 human dose based on BSA) resulted in 90% and 100% embryonic resorptions.
-In mice, a single etoposide dose of 1.0 mg/kg (approximately 0.06 timesthe 50 mg/m2 human dose based on BSA administered intraperitoneally on days 6, 7, or 8 of gestation caused embryotoxicity, cranial abnormalities, and major skeletal malformations.
+In mice, a single etoposide dose of 1.0 mg/kg (approximately 0.06 times the 50 mg/m2 human dose based on BSA) administered intraperitoneally on days 6, 7, or 8 of gestation caused embryotoxicity, cranial abnormalities, and major skeletal malformations.
 An intraperitoneal dose of 1.5 mg/kg (about 0.1 times the 50 mg/m2 human based on BSA) on day 7 of gestation caused an increase in the incidence of intrauterine death and fetal malformations and a significant decrease in the average fetal body weight [see Nonclinical Toxicology (13.1)].
 
 ## 8.2 Lactation
