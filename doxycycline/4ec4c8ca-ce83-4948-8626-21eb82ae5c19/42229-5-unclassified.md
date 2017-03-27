@@ -1,4 +1,4 @@
 DOXYCYCLINE HYCLATE CAPSULES, USP Rev.
-06/16 Rx Only
+01/17 Rx Only
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of doxycycline hyclate capsules and other antibacterial drugs, doxycycline hyclate capsules should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.

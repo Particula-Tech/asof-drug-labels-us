@@ -1,33 +1,26 @@
 # REFERENCES
 
 1. Clinical and Laboratory Standards Institute (CLSI).
-   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-Fourth Informational Supplement.
-   CLSI document M100-S24.
-   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2014.
+   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-Sixth Informational Supplement.
+   CLSI document M100-S26 [2016], Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
 2. Clinical and Laboratory Standards Institute (CLSI).
-   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard - Ninth Edition.
-   CLSI document M07-A9.
-   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard - Tenth Edition.
+   CLSI document M07-A10 [2015], Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
 3. Clinical and Laboratory Standards Institute (CLSI).
-   Performance Standards for Antimicrobial Disk Diffusion Susceptibility Tests; Approved Standard – Eleventh Edition.
-   CLSI document M02-A11.
-   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
+   Performance Standards for Antimicrobial Disk Diffusion Susceptibility Tests; Approved Standard – Twelfth Edition.
+   CLSI document M02-A12 [2015], Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
 4. Clinical and Laboratory Standards Institute (CLSI).
-   Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline – Second Edition.
-   CLSI document M45-A2.
-   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2010.
+   Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline – Third Edition.
+   CLSI document M45-A3 [2015], Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
 5. Clinical and Laboratory Standards Institute (CLSI).
    Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria; Approved Standard - Eighth Edition.
-   CLSI document M11-A8.
-   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
+   CLSI document M11-A8 [2012], Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
 6. Clinical and Laboratory Standards Institute.
    Susceptibility Testing of Mycobacteria, Nocardiae, and Other Aerobic Actinomycetes; Approved Standard—Second Edition.
-   CLSI document M24-A2.
-   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2011.
+   CLSI document M24-A2 [2011], Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
 7. Clinical and Laboratory Standards Institute.
    Methods for Antimicrobial Susceptibility Testing for Human Mycoplasmas; Approved Guideline.
-   CLSI document M43-A.
-   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2011.
+   CLSI document M43-A [2011], Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
 8. Friedman JM and Polifka JE.
    Teratogenic Effects of Drugs.
    A Resource for Clinicians (TERIS).
@@ -37,7 +30,7 @@
 10. Horne HW Jr and Kundsin RB.
     The role of mycoplasma among 81 consecutive pregnancies: a prospective study.
     Int J Fertil 1980; 25: 315–317.
-11. Hale T. Medications and Mothers’ Milk.
+11. Hale T. Medications and Mothers Milk.
     9th edition.
     Amarillo, TX: Pharmasoft Publishing, 2000: 225–226.
 
@@ -46,4 +39,4 @@ Distributed By: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
 Manufactured By: HIKMA Pharmaceuticals P.O.
 Box 182400 Amman 11118 - Jordan
 
-Revised June 2016
+Revised January 2017

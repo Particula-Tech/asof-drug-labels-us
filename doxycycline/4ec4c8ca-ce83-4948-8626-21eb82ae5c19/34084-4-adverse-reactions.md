@@ -3,7 +3,7 @@
 Due to oral doxycycline’s virtually complete absorption, side effects of the lower bowel, particularly diarrhea, have been infrequent.
 The following adverse reactions have been observed in patients receiving tetracyclines:
 
-Gastrointestinal: anorexia, nausea, vomiting, diarrhea, glossitis, dysphagia, enterocolitis, and inflammatory lesions (with monilial overgrowth) in the anogenital region.
+Gastrointestinal: anorexia, nausea, vomiting, diarrhea, glossitis, dysphagia, enterocolitis, and inflammatory lesions (with monilial overgrowth) in the anogenital region, and pancreatitis.
 Hepatotoxicity has been reported rarely.
 These reactions have been caused by both the oral and parenteral administration of tetracyclines.
 Rare instances of esophagitis and esophageal ulcerations have been reported in patients receiving capsule and tablet forms of the drugs in the tetracycline class.
