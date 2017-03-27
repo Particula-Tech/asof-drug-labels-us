@@ -28,7 +28,7 @@ Rates for other adverse reactions for TRADJENTA 5 mg vs placebo when TRADJENTA w
 
 Following 104 weeks’ treatment in a controlled study comparing TRADJENTA with glimepiride in which all patients were also receiving metformin, adverse reactions reported in ≥5% of patients treated with TRADJENTA (n = 776) and more frequently than in patients treated with a sulfonylurea (n = 775) were back pain (9.1% vs 8.4%), arthralgia (8.1% vs 6.1%), upper respiratory tract infection (8.0% vs 7.6%), headache (6.4% vs 5.2%), cough (6.1% vs 4.9%), and pain in extremity (5.3% vs 3.9%).
 
-Other adverse reactions reported in clinical studies with treatment of TRADJENTA were hypersensitivity (e.g., urticaria, angioedema, localized skin exfoliation, or bronchial hyperreactivity), and myalgia.
+Other adverse reactions reported in clinical studies with treatment of TRADJENTA were hypersensitivity (e.g., urticaria, angioedema, localized skin exfoliation, or bronchial hyperreactivity) and myalgia.
 In the clinical trial program, pancreatitis was reported in 15.2 cases per 10,000 patient year exposure while being treated with TRADJENTA compared with 3.7 cases per 10,000 patient year exposure while being treated with comparator (placebo and active comparator, sulfonylurea).
 Three additional cases of pancreatitis were reported following the last administered dose of linagliptin.
 
@@ -55,12 +55,16 @@ Events that were considered life-threatening or required hospitalization were re
 
 Renal function as measured by mean eGFR and creatinine clearance did not change over 52 weeks’ treatment compared to placebo.
 
-### Laboratory Tests
+Laboratory Tests
 
 Changes in laboratory findings were similar in patients treated with TRADJENTA 5 mg compared to patients treated with placebo.
-Changes in laboratory values that occurred more frequently in the TRADJENTA group and >1% more than in the placebo group were increases in uric acid (1.3% in the placebo group, 2.7% in the TRADJENTA group).
 
-No clinically meaningful changes in vital signs were observed in patients treated with TRADJENTA.
+Increase in Uric Acid: Changes in laboratory values that occurred more frequently in the TRADJENTA group and ≥1% more than in the placebo group were increases in uric acid (1.3% in the placebo group, 2.7% in the TRADJENTA group).
+
+Increase in Lipase: In a placebo-controlled clinical trial with TRADJENTA in type 2 diabetes mellitus patients with micro- or macroalbuminuria, a mean increase of 30% in lipase concentrations from baseline to 24 weeks was observed in the TRADJENTA arm compared to a mean decrease of 2% in the placebo arm.
+Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 1.7% patients in the TRADJENTA and placebo arms, respectively.
+
+Vital Signs No clinically meaningful changes in vital signs were observed in patients treated with TRADJENTA.
 
 ## 6.2 Postmarketing Experience
 

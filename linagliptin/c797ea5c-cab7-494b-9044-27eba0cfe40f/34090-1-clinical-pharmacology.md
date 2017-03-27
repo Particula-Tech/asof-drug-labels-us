@@ -34,32 +34,32 @@ The intra-subject and inter-subject coefficients of variation for linagliptin AU
 Plasma AUC of linagliptin increased in a less than dose-proportional manner in the dose range of 1 to 10 mg.
 The pharmacokinetics of linagliptin is similar in healthy subjects and in patients with type 2 diabetes.
 
-### Absorption
+Absorption
 
 The absolute bioavailability of linagliptin is approximately 30%.
 High-fat meal reduced Cmax by 15% and increased AUC by 4%; this effect is not clinically relevant.
 TRADJENTA may be administered with or without food.
 
-### Distribution
+Distribution
 
 The mean apparent volume of distribution at steady state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1110 L, indicating that linagliptin extensively distributes to the tissues.
 Plasma protein binding of linagliptin is concentration-dependent, decreasing from about 99% at 1 nmol/L to 75%-89% at ≥30 nmol/L, reflecting saturation of binding to DPP-4 with increasing concentration of linagliptin.
 At high concentrations, where DPP-4 is fully saturated, 70% to 80% of linagliptin remains bound to plasma proteins and 20% to 30% is unbound in plasma.
 Plasma binding is not altered in patients with renal or hepatic impairment.
 
-### Metabolism
+Metabolism
 
 Following oral administration, the majority (about 90%) of linagliptin is excreted unchanged, indicating that metabolism represents a minor elimination pathway.
 A small fraction of absorbed linagliptin is metabolized to a pharmacologically inactive metabolite, which shows a steady-state exposure of 13.3% relative to linagliptin.
 
-### Excretion
+Excretion
 
 Following administration of an oral [14C]-linagliptin dose to healthy subjects, approximately 85% of the administered radioactivity was eliminated via the enterohepatic system (80%) or urine (5%) within 4 days of dosing.
 Renal clearance at steady state was approximately 70 mL/min.
 
-### Specific Populations
+Specific Populations
 
-### Renal Impairment
+Renal Impairment
 
 An open-label pharmacokinetic study evaluated the pharmacokinetics of linagliptin 5 mg in male and female patients with varying degrees of chronic renal impairment.
 The study included 6 healthy subjects with normal renal function (creatinine clearance [CrCl] ≥80 mL/min), 6 patients with mild renal impairment (CrCl 50 to <80 mL/min), 6 patients with moderate renal impairment (CrCl 30 to <50 mL/min), 10 patients with type 2 diabetes mellitus and severe renal impairment (CrCl <30 mL/min), and 11 patients with type 2 diabetes mellitus and normal renal function.
@@ -76,39 +76,39 @@ For both type 2 diabetes mellitus groups, renal excretion was below 7% of the ad
 
 These findings were further supported by the results of population pharmacokinetic analyses.
 
-### Hepatic Impairment
+Hepatic Impairment
 
 In patients with mild hepatic impairment (Child-Pugh class A), steady-state exposure (AUCτ,ss) of linagliptin was approximately 25% lower and Cmax,ss was approximately 36% lower than in healthy subjects.
 In patients with moderate hepatic impairment (Child-Pugh class B), AUCss of linagliptin was about 14% lower and Cmax,ss was approximately 8% lower than in healthy subjects.
 Patients with severe hepatic impairment (Child-Pugh class C) had comparable exposure of linagliptin in terms of AUC0-24 and approximately 23% lower Cmax compared with healthy subjects.
 Reductions in the pharmacokinetic parameters seen in patients with hepatic impairment did not result in reductions in DPP-4 inhibition.
 
-### Body Mass Index (BMI)/Weight
+Body Mass Index (BMI)/Weight
 
 No dose adjustment is necessary based on BMI/weight.
 BMI/weight had no clinically meaningful effect on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
 
-### Gender
+Gender
 
 No dose adjustment is necessary based on gender.
 Gender had no clinically meaningful effect on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
 
-### Geriatric
+Geriatric
 
 Age did not have a clinically meaningful impact on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
 
-### Pediatric
+Pediatric
 
 Studies characterizing the pharmacokinetics of linagliptin in pediatric patients have not yet been performed.
 
-### Race
+Race
 
 No dose adjustment is necessary based on race.
 Race had no clinically meaningful effect on the pharmacokinetics of linagliptin based on available pharmacokinetic data, including subjects of White, Hispanic, Black, and Asian racial groups.
 
-### Drug Interactions
+Drug Interactions
 
-### In vitro Assessment of Drug Interactions
+In vitro Assessment of Drug Interactions
 
 Linagliptin is a weak to moderate inhibitor of CYP isozyme CYP3A4, but does not inhibit other CYP isozymes and is not an inducer of CYP isozymes, including CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, and 4A11.
 

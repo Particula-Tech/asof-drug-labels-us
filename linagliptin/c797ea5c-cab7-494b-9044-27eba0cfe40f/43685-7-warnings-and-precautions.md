@@ -41,4 +41,4 @@ If bullous pemphigoid is suspected, TRADJENTA should be discontinued and referra
 
 ## 5.6 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with TRADJENTA tablets or any other antidiabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with TRADJENTA tablets.

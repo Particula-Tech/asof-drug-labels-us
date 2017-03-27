@@ -2,7 +2,7 @@
 
 ## 1.1 Monotherapy and Combination Therapy
 
-TRADJENTA tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus [see Clinical Studies (14.1)].
+TRADJENTA is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus [see Clinical Studies (14.1)].
 
 ## 1.2 Important Limitations of Use
 
