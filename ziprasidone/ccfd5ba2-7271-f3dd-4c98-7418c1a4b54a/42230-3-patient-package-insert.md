@@ -161,7 +161,7 @@ Keep ziprasidone hydrochloride capsules and all medicines out of the reach of ch
 
 How to store ziprasidone hydrochloride capsules
 
-Store ziprasidone hydrochloride capsules at room temperature (59° to 86°F or 15° to 30°C).
+Store ziprasidone hydrochloride capsules at room temperature (59°F to 86°F or 15°C to 30°C).
 
 For More Information About Ziprasidone Hydrochloride Capsules
 
@@ -173,6 +173,6 @@ APOTEX INC. ZIPRASIDONE HYDROCHLORIDE CAPSULES 20 mg, 40 mg, 60 mg and 80 mg
 
 Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: October 2015
+Revised: March 2017
 
-Revision: 10
+Revision: 11

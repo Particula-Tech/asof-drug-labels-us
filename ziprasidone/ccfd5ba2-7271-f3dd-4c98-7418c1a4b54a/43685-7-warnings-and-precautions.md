@@ -227,7 +227,12 @@ Syncope was reported in 0.6% of the patients treated with ziprasidone.
 
 Ziprasidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
 
-## 5.9 Leukopenia, Neutropenia, Agranulocytosis
+## 5.9 Falls
+
+Antipsychotic drugs (which include ziprasidone) may cause somnolence, postural hypotension, and motor and sensory instability, which could lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## 5.10 Leukopenia, Neutropenia, and Agranulocytosis
 
 In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents.
 Agranulocytosis (including fatal cases) has also been reported.
@@ -238,20 +243,20 @@ Patients with a pre-existing low WBC or a history of drug induced leukopenia/neu
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue ziprasidone and have their WBC followed until recovery.
 
-## 5.10 Seizures
+## 5.11 Seizures
 
 During clinical trials, seizures occurred in 0.4% of patients treated with ziprasidone.
 There were confounding factors that may have contributed to the occurrence of seizures in many of these cases.
 As with other antipsychotic drugs, ziprasidone should be used cautiously in patients with a history of seizures or with conditions that potentially lower the seizure threshold, e.g., Alzheimer’s dementia.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
-## 5.11 Dysphagia
+## 5.12 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer’s dementia.
 Ziprasidone and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia [see Boxed Warning].
 
-## 5.12 Hyperprolactinemia
+## 5.13 Hyperprolactinemia
 
 As with other drugs that antagonize dopamine D2 receptors, ziprasidone elevates prolactin levels in humans.
 Increased prolactin levels were also observed in animal studies with this compound, and were associated with an increase in mammary gland neoplasia in mice; a similar effect was not observed in rats [see Nonclinical Toxicology (13.1)].
@@ -261,30 +266,30 @@ Neither clinical studies nor epidemiologic studies conducted to date have shown 
 Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating compounds, the clinical significance of elevated serum prolactin levels is unknown for most patients.
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density.
 
-## 5.13 Potential for Cognitive and Motor Impairment
+## 5.14 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse reaction in patients treated with ziprasidone.
 In the 4- and 6-week placebo-controlled trials, somnolence was reported in 14% of patients on ziprasidone compared to 7% of placebo patients.
 Somnolence led to discontinuation in 0.3% of patients in short-term clinical trials.
 Since ziprasidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about performing activities requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating hazardous machinery until they are reasonably certain that ziprasidone therapy does not affect them adversely.
 
-## 5.14 Priapism
+## 5.15 Priapism
 
 One case of priapism was reported in the premarketing database.
 While the relationship of the reaction to ziprasidone use has not been established, other drugs with alpha-adrenergic blocking effects have been reported to induce priapism, and it is possible that ziprasidone may share this capacity.
 Severe priapism may require surgical intervention.
 
-## 5.15 Body Temperature Regulation
+## 5.16 Body Temperature Regulation
 
 Although not reported with ziprasidone in premarketing trials, disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing ziprasidone for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
 
-## 5.16 Suicide
+## 5.17 Suicide
 
 The possibility of a suicide attempt is inherent in psychotic illness or bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ziprasidone should be written for the smallest quantity of capsules consistent with good patient management in order to reduce the risk of overdose.
 
-## 5.17 Patients with concomitant illness
+## 5.18 Patients with concomitant illness
 
 Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Use in Specific Populations (8.6), (8.7)].
 
@@ -292,7 +297,7 @@ Ziprasidone has not been evaluated or used to any appreciable extent in patients
 Patients with these diagnoses were excluded from premarketing clinical studies.
 Because of the risk of QTc prolongation and orthostatic hypotension with ziprasidone, caution should be observed in cardiac patients [see Warnings and Precautions (5.2), (5.8)].
 
-## 5.18 Laboratory Tests
+## 5.19 Laboratory Tests
 
 Patients being considered for ziprasidone treatment that are at risk of significant electrolyte disturbances should have baseline serum potassium and magnesium measurements.
 Low serum potassium and magnesium should be replaced before proceeding with treatment.

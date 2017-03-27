@@ -24,5 +24,5 @@ They are supplied in the following strengths and package configurations:
 | Unit dose/80 | 60 | NDC-60505-2530-0 | APO ZIP 60 |
 | Unit dose/80 | 80 | NDC-60505-2531-0 | APO ZIP 80 |
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted from 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted from 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Dispense in a tight, light-resistant container [see USP].

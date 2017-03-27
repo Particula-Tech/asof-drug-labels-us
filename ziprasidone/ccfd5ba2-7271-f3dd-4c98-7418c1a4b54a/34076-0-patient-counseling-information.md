@@ -33,4 +33,4 @@ APOTEX INC. ZIPRASIDONE HYDROCHLORIDE CAPSULES 20 mg, 40 mg, 60 mg and 80 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: October 2015 Revision: 10
+Revised: March 2017 Revision: 11

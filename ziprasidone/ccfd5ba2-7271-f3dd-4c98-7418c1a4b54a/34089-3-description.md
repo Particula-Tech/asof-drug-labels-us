@@ -14,4 +14,4 @@ Ziprasidone hydrochloride capsules are supplied for oral administration in 20 mg
 Ziprasidone hydrochloride capsules contain ziprasidone hydrochloride, colloidal silicon dioxide, crospovidone, sodium starch glycolate, and magnesium stearate.
 Each capsule shell contains the following inactive ingredients: gelatin and titanium dioxide.
 The 20 mg, 40 mg and 80 mg capsule shells also contain the following inactive ingredients: D&C Red #28, FD&C Blue #1, FD&C Yellow #6.
-The capsule imprinting ink contains ammonium hydroxide, ethyl alcohol, iron oxide black, isopropyl alcohol, butyl alcohol, potassium hydroxide, propylene glycol and shellac.
+The capsule imprinting ink contains ammonium hydroxide, black iron oxide, ethyl alcohol, isopropyl alcohol, butyl alcohol, potassium hydroxide, propylene glycol and shellac.
