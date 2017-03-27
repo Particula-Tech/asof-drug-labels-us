@@ -1,4 +1,4 @@
-Patient Information Zmax® (azithromycin extended release) Oral suspension
+# Patient Information Zmax® (azithromycin extended release) Oral suspension
 
 Read the Patient Information that comes with Zmax® carefully before you or your child take it.
 This leaflet does not take the place of talking with your doctor about you or your child's medical condition or treatment.
@@ -45,6 +45,8 @@ Tell your doctor about all your or your child's medical problems including if yo
 - are pregnant, or might be pregnant.
   It is not known if Zmax could harm your baby.
 - are breast-feeding.
+
+Contact your healthcare provider immediately if you are giving Zmax to a young child (less than 6 weeks of age) and he or she vomits or becomes irritable when fed.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 Especially tell your doctor if you or your child are taking warfarin (Coumadin®, Jantoven)
@@ -150,4 +152,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0606-4.0 August 2015
+LAB-0606-5.0 February 2017

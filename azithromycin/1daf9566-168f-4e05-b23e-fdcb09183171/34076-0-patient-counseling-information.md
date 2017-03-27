@@ -7,6 +7,7 @@ General Patient Counseling
 - Patients should be told that Zmax needs time to work, so the patient may not feel better right away.
   If the patient's symptoms do not improve in a few days, the patient or their guardian should call their doctor.
 - Patients should be instructed to immediately contact a physician if any signs of an allergic reaction occur.
+- Direct parents or caregivers to contact their physician if vomiting and irritability with feeding occurs in the infant.
 - Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
@@ -27,4 +28,4 @@ See FDA-approved Patient Labeling
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-LAB-0384-10.0
+LAB-0384-11.0

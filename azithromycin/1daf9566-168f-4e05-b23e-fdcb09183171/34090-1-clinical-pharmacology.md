@@ -30,8 +30,7 @@ Mean (SD) Pharmacokinetic Parameters for Azithromycin on Day 1 Following the Adm
 | AUC0–24 (mcg∙hr/mL) | 8.62 (2.34) | 2.58 (0.84) | 2.60 (0.71) |
 | AUC0–∞ (mcg∙hr/mL) | 20.0 (6.66) | 17.4 (6.2) | 14.9 (3.1) |
 | t1/2 (hr) | 58.8 (6.91) | 71.8 (14.7) | 68.9 (13.8) |
-| SD = standard deviation Cmax = maximum serum concentration Tmax = time to Cmax AUC = area under concentration vs. time curve t1/2 = terminal serum half-life |  |  |  |
-| ¶ Total AUC for the 1-day, 3-day and 5-day regimens |  |  |  |
+| ¶ Total AUC for the 1-day, 3-day and 5-day regimens SD = standard deviation Cmax = maximum serum concentration Tmax = time to Cmax AUC = area under concentration vs. time curve t1/2 = terminal serum half-life |  |  |  |
 
 Absorption
 
@@ -160,7 +159,7 @@ Drug Interactions: Pharmacokinetic Parameters of Co-administered Drugs in the Pr
 | Theophylline | 4 mg/kg IV on days 1, 11, 25 | 500 mg orally on day 7, then 250 mg/day on days 8–11 | 10 | 1.19 (1.02 to 1.40) | 1.02 (0.86 to 1.22) |
 | Theophylline | 300 mg orally twice a day for 15 days | 500 mg orally on day 6, then 250 mg/day on days 7–10 | 8 | 1.09 (0.92 to 1.29) | 1.08 (0.89 to 1.31) |
 | Triazolam | 0.125 mg on day 2 | 500 mg orally on day 1, then 250 mg/day on day 2 | 12 | 1.06 | 1.02 |
-| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/ 0.90 (0.78 to 1.03) | 0.87 (0.80 to 0.95)/ 0.96 (0.88 to 1.03) |
+| Trimethoprim/Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/ 0.90 (0.78 to 1.03) | 0.87 (0.80 to 0.95)/ 0.96 (0.88 to 1.03) |
 | Zidovudine | 500 mg/day orally for 21 days | 600 mg/day oraly for 14 days | 5 | 1.12 (0.42 to 3.02) | 0.94 (0.52 to 1.70) |
 | Zidovudine | 500 mg/day orally for 21 days | 1,200 mg/day orally for 14 days | 4 | 1.31 (0.43 to 3.97) | 1.30 (0.69 to 2.43) |
 
@@ -179,7 +178,7 @@ Drug Interactions: Pharmacokinetic Parameters of Azithromycin in the Presence of
 
 Mechanism of Action
 
-Azithromycin binds to the 23S rRNA of the 50S ribosomal subunit and interferes with bacterial protein synthesis by impeding the assembly of the 50S ribosomal subunit.
+Azithromycin acts by binding to the 23S rRNA of the 50S ribosomal subunit of susceptible microorganisms inhibiting bacterial protein synthesis and impeding the assembly of the 50S ribosomal subunit.
 
 Resistance
 
@@ -190,41 +189,30 @@ Ribosomal modifications can determine cross resistance to other macrolides, linc
 Azithromycin has been shown to be active against the following microorganisms, both in vitro and in clinical infections.
 [See Indications and Usage (1)].
 
-Gram-Positive Bacteria
+Gram-Positive Bacteria Streptococcus pneumoniae
 
-Streptococcus pneumoniae
+Gram-Negative Bacteria Haemophilus influenzae Moraxella catarrhalis
 
-Gram-Negative Bacteria
-
-Haemophilus influenzae
-
-Moraxella catarrhalis
-
-"Other" Bacteria
-
-Chlamydophila pneumoniae
-
-Mycoplasma pneumoniae
+"Other" Bacteria Chlamydophila pneumoniae Mycoplasma pneumoniae
 
 Susceptibility Testing Methods
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug product for treatment.
+When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial products used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug for treatment.
 
 Dilution Techniques
 
-Quantitative methods are used to determine minimal inhibitory concentrations (MICs).
+Quantitative methods are used to determine antimicrobial MICs.
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method 1,3,4 (broth or agar).
+The MICs should be determined using a standardized test method 1,2,3,4 (broth and/or agar).
 The MIC values should be interpreted according to criteria provided in Table 7.
 
 Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters can provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
 The zone size should be determined using a standardized method 2,3,4.
 This procedure uses paper disk impregnated with 15 mcg azithromycin to test the susceptibility of bacteria to azithromycin.
-The disk diffusion interpretive criteria are provided in Table 7.
+The disk diffusion breakpoints are provided in Table 7.
 
 Table 7: Susceptibility Interpretive Criteria for Azithromycin
 
@@ -235,11 +223,11 @@ Table 7: Susceptibility Interpretive Criteria for Azithromycin
 | Moraxella catarrhalis | ≤0.25 | - | - | ≥26 | - | - |
 | Streptococcus pneumoniae | ≤0.5 | 1 | ≥2 | ≥18 | 14–17 | ≤13 |
 
-A report of "Susceptible" (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration at the site of infection.
-A report of "Intermediate" (I) indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Intermediate (I) indicates that the result should be considered equivocal and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug can be used.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "Resistant" (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 Quality Control
 
@@ -251,8 +239,8 @@ Table 8: Acceptable Quality Control Ranges for Susceptibility Testing
 
 | Quality Control Organism | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion (zone diameters in mm) |
 | --- | --- | --- |
-| Haemophilus Influenzae ATCC 49247 | 1–4 | 13–21 |
+| Haemophilus Influenzae ATCCATCC = American Type Culture Collection 49247 | 1–4 | 13–21 |
 | Staphylococcus aureus ATCC 25923 | Not Applicable | 21–26 |
 | Staphylococcus aureus ATCC 29213 | 0.5–2 | Not Applicable |
 | Streptococcus pneumoniae ATCC 49619 | 0.06–0.25 | 19–25 |
-| ATCC = American Type Culture Collection |  |  |
+| Neisseria gonorrhoeae ATCC 49226 | 0.25–1 | Not Applicable |
