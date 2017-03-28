@@ -6,7 +6,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 A total of 439 subjects with mild to moderate acne vulgaris were treated once daily for 12 weeks with EVOCLIN Foam.
 
-The incidence of adverse reactions occurring in ≥1% of the subjects in clinical trials comparing EVOCLIN Foam, and its vehicle is presented in Table 1.
+The incidence of adverse reactions occurring in ≥1% of the subjects in clinical trials comparing EVOCLIN Foam and its vehicle is presented in Table 1.
 
 Table 1: Adverse Reactions Occurring in ≥1% of Subjects
 
@@ -24,7 +24,7 @@ In a contact sensitization study, none of the 203 subjects developed evidence of
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of EVOCLIN Foam: application site pain, application site erythema, diarrhea, urticaria, abdominal pain, hypersensitivity, rash, abdominal discomfort, nausea, seborrhea, application site rash, dizziness, pain of skin, colitis (including pseudomembranous colitis), and hemorraghic diarrhea.
+The following adverse reactions have been identified during post approval use of EVOCLIN Foam: application site pain, application site erythema, diarrhea, urticaria, abdominal pain, hypersensitivity, rash, abdominal discomfort, nausea, seborrhea, application site rash, dizziness, pain of skin, colitis (including pseudomembranous colitis), and hemorrhagic diarrhea.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Abdominal pain and gastrointestinal disturbances, as well as gram-negative folliculitis, have also been reported in association with the use of topical formulations of clindamycin.

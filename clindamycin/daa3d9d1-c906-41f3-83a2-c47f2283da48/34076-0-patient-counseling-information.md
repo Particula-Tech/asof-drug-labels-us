@@ -4,16 +4,26 @@ See FDA-Approved patient labeling (Patient Information).
 
 ## 17.1 Instructions for Use
 
-- Patients should be advised to wash their skin with mild soap and allow it to dry before applying EVOCLIN Foam.
-- Patients should use enough EVOCLIN Foam to cover the face and to apply once daily.
-- Patients should dispense EVOCLIN Foam directly into the cap or onto a cool surface.
-- Patients should wash their hands after applying EVOCLIN Foam.
+- •Patients should be advised to wash their skin with mild soap and allow it to dry before applying EVOCLIN Foam.
+- •Patients should use enough EVOCLIN Foam to cover the face and to apply once daily.
+- •Patients should dispense EVOCLIN Foam directly into the cap or onto a cool surface.
+- •Patients should wash their hands after applying EVOCLIN Foam.
 
 ## 17.2 Skin Irritation
 
 EVOCLIN Foam may cause irritation such as erythema, scaling, itching, burning, or stinging.
-Patients should be advised to discontinue use if excessive irritancy or dermatitis occurs.
+Patients should be advised to discontinue use if excessive irritancy or dermatitis occur.
 
 ## 17.3 Colitis
 
 In the event a patient treated with EVOCLIN Foam experiences severe diarrhea or gastrointestinal discomfort, EVOCLIN Foam should be discontinued and a physician should be contacted.
+
+Manufactured for: Prestium Pharma, Inc. Newtown, PA 18940 By DPT Laboratories, Ltd San Antonio, TX 78215
+
+EVOCLIN is a registered trademark of Stiefel Laboratories, Inc.
+
+©2013 Delcor Asset Corporation, an affiliate of Prestium Pharma, Inc.
+
+August 2014
+
+Pharmacist-Detach here and Give Instructions to Patient

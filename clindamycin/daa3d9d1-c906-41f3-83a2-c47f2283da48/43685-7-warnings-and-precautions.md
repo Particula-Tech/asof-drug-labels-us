@@ -18,7 +18,7 @@ Stool cultures for Clostridium difficile and stool assay for C. difficile toxin 
 ## 5.2 Irritation
 
 EVOCLIN Foam can cause irritation.
-Concomitant topical acne thereapy should be used with caution since a possible cumulative irritancy effect may occur, especially with the use of peeling, desquamating, or abrasive agents.
+Concomitant topical acne therapy should be used with caution since a possible cumulative irritancy effect may occur, especially with the use of peeling, desquamating, or abrasive agents.
 If irritation or dermatitis occurs, clindamycin should be discontinued.
 
 Avoid contact of EVOCLIN Foam with eyes, mouth, lips, other mucous membranes or areas of broken skin.

@@ -2,10 +2,11 @@
 
 ## 16.1 How Supplied
 
-Evoclin (clindamycin phosphate) Foam, 1% is supplied as follows:
+EVOCLIN Foam containing clindamycin phosphate equivalent to 10 mg clindamycin per gram, is white to off-white in color and thermolabile.
+It is available in the following sizes:
 
-- 50 g aluminum can NDC 40076-061-50
-- 100 g aluminum can NDC 40076-061-00
+- •100 gram aerosol can - NDC 40076-061-00
+- •50 gram aerosol can - NDC 40076-061-50
 
 ## 16.2 Storage and Handling
 
