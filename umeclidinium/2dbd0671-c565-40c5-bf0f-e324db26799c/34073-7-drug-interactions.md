@@ -11,7 +11,7 @@ Caution should be exercised when considering the coadministration of ANORO ELLIP
 Vilanterol, like other beta2-agonists, should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, or drugs known to prolong the QTc interval or within 2 weeks of discontinuation of such agents, because the effect of adrenergic agonists on the cardiovascular system may be potentiated by these agents.
 Drugs that are known to prolong the QTc interval have an increased risk of ventricular arrhythmias.
 
-## 7.3 Beta-Adrenergic Receptor Blocking Agents
+## 7.3 Beta-adrenergic Receptor Blocking Agents
 
 Beta-blockers not only block the pulmonary effect of beta-agonists, such as vilanterol, a component of ANORO ELLIPTA, but may also produce severe bronchospasm in patients with COPD.
 Therefore, patients with COPD should not normally be treated with beta-blockers.

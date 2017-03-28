@@ -66,6 +66,10 @@ Cardiac Disorders
 
 Palpitations.
 
+Eye Disorders
+
+Blurred vision, glaucoma, increased intraocular pressure.
+
 Immune System Disorders
 
 Hypersensitivity reactions, including anaphylaxis, angioedema, and urticaria.
@@ -77,3 +81,11 @@ Dysgeusia, tremor.
 Psychiatric Disorders
 
 Anxiety.
+
+Renal and Urinary Disorders
+
+Dysuria, urinary retention.
+
+Respiratory, Thoracic, and Mediastinal Disorders
+
+Paradoxical bronchospasm.

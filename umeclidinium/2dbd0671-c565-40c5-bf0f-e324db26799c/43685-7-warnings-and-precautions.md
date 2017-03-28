@@ -31,7 +31,7 @@ If ANORO ELLIPTA no longer controls symptoms of bronchoconstriction; the patient
 In this setting a re-evaluation of the patient and the COPD treatment regimen should be undertaken at once.
 Increasing the daily dose of ANORO ELLIPTA beyond the recommended dose is not appropriate in this situation.
 
-## 5.3 Excessive Use of ANORO ELLIPTA and Use with Other Long-Acting Beta2-Agonists
+## 5.3 Excessive Use of ANORO ELLIPTA and Use with Other Long-acting Beta2-agonists
 
 ANORO ELLIPTA should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
@@ -57,6 +57,7 @@ There have been reports of anaphylactic reactions in patients with severe milk p
 Vilanterol, like other beta2-agonists, can produce a clinically significant cardiovascular effect in some patients as measured by increases in pulse rate, systolic or diastolic blood pressure, or symptoms [see Clinical Pharmacology (12.2)].
 If such effects occur, ANORO ELLIPTA may need to be discontinued.
 In addition, beta-agonists have been reported to produce electrocardiographic changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression, although the clinical significance of these findings is unknown.
+Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
 
 Therefore, ANORO ELLIPTA should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
 

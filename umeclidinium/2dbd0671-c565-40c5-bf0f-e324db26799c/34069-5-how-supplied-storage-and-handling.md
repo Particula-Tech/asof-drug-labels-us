@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ANORO ELLIPTA is supplied as a disposable light grey and red plastic inhaler containing 2 foil strips, each with 30 blisters (or 7 blisters for the institutional pack.
+ANORO ELLIPTA is supplied as a disposable light grey and red plastic inhaler containing 2 foil strips, each with 30 blisters (or 7 blisters for the institutional pack).
 One strip contains umeclidinium (62.5 mcg per blister), and the other strip contains vilanterol (25 mcg per blister).
 A blister from each strip is used to create 1 dose.
 The inhaler is packaged in a moisture-protective foil tray with a desiccant and a peelable lid in the following packs:

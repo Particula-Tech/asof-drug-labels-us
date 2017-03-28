@@ -21,7 +21,7 @@ Instruct patients to seek medical attention immediately if they experience any o
 
 Tell patients they should not stop therapy with ANORO ELLIPTA without physician/provider guidance since symptoms may recur after discontinuation.
 
-Do Not Use Additional Long-Acting Beta2-Agonists
+Do Not Use Additional Long-acting Beta2-agonists
 
 Instruct patients not to use other medicines containing a LABA.
 Patients should not use more than the recommended once-daily dose of ANORO ELLIPTA.
@@ -33,7 +33,7 @@ Paradoxical Bronchospasm
 As with other inhaled medicines, ANORO ELLIPTA can cause paradoxical bronchospasm.
 If paradoxical bronchospasm occurs, instruct patients to discontinue ANORO ELLIPTA and contact their healthcare provider right away.
 
-Risks Associated with Beta-Agonist Therapy
+Risks Associated with Beta-agonist Therapy
 
 Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
@@ -49,13 +49,13 @@ Instruct patients to consult a physician immediately if any of these signs or sy
 
 ANORO and ELLIPTA are registered trademarks of the GSK group of companies.
 
-ANORO ELLIPTA was developed in collaboration with Theravance.
+ANORO ELLIPTA was developed in collaboration with Innoviva.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2016 the GSK group of companies.
+©2017 the GSK group of companies.
 All rights reserved.
 
-ANR:3PI
+ANR:4PI
