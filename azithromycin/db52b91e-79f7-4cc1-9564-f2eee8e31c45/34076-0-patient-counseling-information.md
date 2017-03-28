@@ -8,6 +8,8 @@ Patients should also be cautioned not to take aluminum- and magnesium-containing
 
 The patient should be directed to discontinue azithromycin immediately and contact a physician if any signs of an allergic reaction occur.
 
+Direct parents or caregivers to contact their physician if vomiting and irritability with feeding occurs in the infant.
+
 Patients should be counseled that antibacterial drugs including ZITHROMAX (azithromycin) should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When ZITHROMAX (azithromycin) is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of the therapy, the medication should be taken exactly as directed.
@@ -21,4 +23,7 @@ If this occurs, patients should contact their physician as soon as possible.
 
 Licensed from Pliva
 
-LAB-0023-16.0
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com
+
+LAB-0023-17.0

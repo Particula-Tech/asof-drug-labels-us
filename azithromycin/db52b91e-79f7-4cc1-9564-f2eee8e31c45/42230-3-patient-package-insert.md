@@ -68,6 +68,8 @@ Before you take ZITHROMAX, tell your healthcare provider if you:
   ZITHROMAX has been reported to pass into breast milk.
   Talk to your healthcare provider about the best way to feed your baby while you take ZITHROMAX.
 
+Contact your healthcare provider immediately if you are giving ZITHROMAX to a young child (less than 6 weeks of age) and he or she vomits or becomes irritable when fed.
+
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 ZITHROMAX and other medicines may affect each other causing side effects.
@@ -182,4 +184,4 @@ Inactive ingredients: sucrose; sodium phosphate, tribasic, anhydrous; hydroxypro
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0372-4.0 Revised May 2015
+LAB-0372-5.0 February 2017

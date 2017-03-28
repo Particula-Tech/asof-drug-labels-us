@@ -1,9 +1,5 @@
 # 1 INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of ZITHROMAX (azithromycin) and other antibacterial drugs, ZITHROMAX (azithromycin) should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
-When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
-In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
-
 ZITHROMAX (azithromycin) is a macrolide antibacterial drug indicated for the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions listed below.
 Recommended dosages and durations of therapy in adult and pediatric patient populations vary in these indications.
 [see Dosage and Administration (2)]
@@ -37,3 +33,9 @@ Azithromycin should not be used in patients with pneumonia who are judged to be 
 - patients requiring hospitalization,
 - elderly or debilitated patients, or
 - patients with significant underlying health problems that may compromise their ability to respond to their illness (including immunodeficiency or functional asplenia).
+
+## 1.4 Usage
+
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of ZITHROMAX (azithromycin) and other antibacterial drugs, ZITHROMAX (azithromycin) should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
+When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
+In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

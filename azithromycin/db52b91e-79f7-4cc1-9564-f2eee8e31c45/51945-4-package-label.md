@@ -52,23 +52,21 @@ Rx only
 
 3 CARDS x 6 TABLETS
 
-# PRINCIPAL DISPLAY PANEL - 250 mg - 50 Tablet Unit Dose Box
+# PRINCIPAL DISPLAY PANEL - 250 mg Tablet Blister Pack Box
 
 UNIT DOSE
 
-Pfizer
-
 NDC 0069-3060-86
 
-Zithromax® (azithromycin)
+Pfizer
+
+Zithromax® (azithromycin) tablets
 
 250 mg*
 
 For in-institution use only
 
-50 Tablets
-
-Rx only
+50 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 500 mg - 30 Tablet Bottle Label
 
@@ -116,23 +114,21 @@ Zithromax® (azithromycin) Tablet
 
 PFIZER LABS DIV OF PFIZER INC, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 500 mg - 50 Tablet Unit Dose Box
+# PRINCIPAL DISPLAY PANEL - 500 mg Tablet Blister Pack Box
 
 UNIT DOSE
 
-Pfizer
-
 NDC 0069-3070-86
 
-Zithromax® (azithromycin)
+Pfizer
+
+Zithromax® (azithromycin) tablets
 
 500 mg*
 
 For in-institution use only
 
-50 Tablets
-
-Rx only
+50 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Bottle Label
 
