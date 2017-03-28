@@ -6,7 +6,7 @@ When Lidocaine Ointment USP, 5% is used concomitantly with other products contai
 
 A single application should not exceed 5 g of Lidocaine Ointment USP, 5% containing 250 mg of lidocaine base (equivalent chemically to approximately 300 mg of lidocaine hydrochloride).
 In a 70 kg adult this dose equals 3.6 mg/kg (1.6 mg/lb) lidocaine base.
-No more than 17-20 g of ointment or 850-1000 mg lidocaine base should be administered in any one day.
+No more than 17 to 20 g of ointment or 850 to 1000 mg lidocaine base should be administered in any one day.
 
 Although the incidence of adverse effects with Lidocaine Ointment USP, 5% is quite low, caution should be exercised, particularly when employing large amounts, since the incidence of adverse effects is directly proportional to the total dose of local anesthetic agent administered.
 
@@ -14,7 +14,7 @@ Although the incidence of adverse effects with Lidocaine Ointment USP, 5% is qui
 
 It is difficult to recommend a maximum dose of any drug for children since this varies as a function of age and weight.
 For children less than ten years who have a normal lean body mass and a normal lean body development, the maximum dose may be determined by the application of one of the standard pediatric drug formulas (e.g., Clark's rule).
-For example, in a child of five years weighing 50 lbs., the dose of lidocaine should not exceed 75-100 mg when calculated according to Clark's rule.
+For example, in a child of five years weighing 50 lbs., the dose of lidocaine should not exceed 75 to 100 mg when calculated according to Clark's rule.
 In any case, the maximum amount of lidocaine administered should not exceed 4.5 mg/kg (2.0 mg/lb) of body weight.
 
 ## Administration
