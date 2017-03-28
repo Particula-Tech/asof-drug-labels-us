@@ -11,6 +11,6 @@ Do not use near an open flame.
 
 KEEP OUT OF THE REACH OF CHILDREN.
 
-E. FOUGERA & CO. A division of Fougera PHARMACEUTICALS INC. Melville, New York 11747
+E. FOUGERA & CO. A division of FOUGERA PHARMACEUTICALS INC. Melville, New York 11747
 
 I2269F R11/14 #244
