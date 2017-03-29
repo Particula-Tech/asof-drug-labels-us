@@ -25,11 +25,11 @@ Table 17: Major Depressive Disorder Studies:
 | --- | --- | --- | --- | --- |
 | Study number | Treatment Group |  | Primary Efficacy Measure: HAM-D Score |  |
 | Study 1 | Effexor(XR 75–225 mg/day)Doses statistically significantly superior to placebo. | 24.5 | -11.7 | -4.45(-6.66,-2.25) |
-|  | Placebo | 23.6 | -7.24 | - |
+| Placebo | 23.6 | -7.24 | - |  |
 | Study 2 | Effexor(XR 75–225 mg/day) | 24.5 | -15.11 | -6.40(-8.45,-4.34) |
-|  | Placebo | 24.9 | -8.71 |  |
+| Placebo | 24.9 | -8.71 |  |  |
 | Study 3 | Effexor(IR 150–375 mg/day) | 28.2 (0.5) | -14.9 | -10.2 (-14.4,-6.0) |
-|  | Placebo | 28.6 (0.6) | -4.7 | - |
+| Placebo | 28.6 (0.6) | -4.7 | - |  |
 | SD: standard deviation; LS Mean: least-squares mean; CI: confidence interval. |  |  |  |  |
 
 ## 14.2 Generalized Anxiety Disorder
@@ -53,7 +53,7 @@ Table 18: Generalized Anxiety Disorder Studies:
 | Study Number | Treatment Group | Primary Efficacy Measure: HAM-A Score |  |  |
 | Study 1 | Ven XR 75 mg | 24.7 | -11.1 (0.95) | -1.5 (-3.8, 0.8) |
 | Ven XR 150 mg | 24.5 | -11.7 (0.87) | -2.2 (-4.5, 0.1) |  |
-| Eff XR 225 mg | 23.6 | -12,1 (0.81) | -2.6 (-4.9, -0.3) |  |
+| Eff XR 225 mg | 23.6 | -12.1 (0.81) | -2.6 (-4.9, -0.3) |  |
 | Placebo | 24.1 | -9.5 (0.85) |  |  |
 | Study 2 | Ven XR 75 mg | 23.7 | -10.6 (0.82) | -2.6 (-4.6, -0.5) |
 | Ven XR 150 mg | 23.0 | -9.8 (0.86) | -1.7 (-3.8, 0.3) |  |
@@ -88,7 +88,7 @@ Table 19: Social Anxiety Disorder Studies
 | Study 3 | Ven XR (75–225 MG) | 83.2 | -36.0 (2.35) | -16.9(-22.6, -11.2) |
 | Placebo | 83.6 | -19.1 (2.40) | -12.7 (-6.5, -19.0) |  |
 | Study 4 | Ven XR (75–225 mg) | 86.2 | -35.0 (2.64) | -14.6 (-21.8, -7.4) |
-| Placebo | 86.1 | -22.2 (2,47) |  |  |
+| Placebo | 86.1 | -22.2 (2.47) |  |  |
 | Study 5 | Ven XR 75 mg | 91.8 | -38.1 (3.16) | -14.6 (-21.8, -7.4) |
 | Ven XR (150–225 mg) | 86.2 | -37.6 (3.05) | -14.1 (-21.3, -6.9) |  |
 | Placebo | 89.3 | -23.5 (3.08) |  |  |
@@ -113,7 +113,7 @@ In the randomized phase following the 12-week open-label period, patients receiv
 
 Table 20: Panic Disorder Studies:
 
-|  |  | Percent of patients Free of Full symptom panic attack | Adjusted Odds RatioOdds ratio (drug to placebo) in terms of probability of free of full-symptom panic attacks based on logistic regression model. to placebo | Adjusted Odds Ratio 95% Confidence Interval |
+|  |  | Percent of patients Free of Full symptom panic attack | Adjusted Odds RatioOdds ratio (drug to placebo) in terms of probability of free of full-symptom panic attacks based on logistic regression model. 95%CI: 95% confidence interval without adjusting for multiple dose arms. to placebo | Adjusted Odds Ratio 95% Confidence Interval |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: Whether Free of Full-symptom Panic Attacks |  |  |
 | Study 1 | Ven XR 75 mgDoses statistically significantly superior to placebo. | 54.1% (85/157) | 2. 268 | (1.43, 3.59) |
@@ -122,7 +122,6 @@ Table 20: Panic Disorder Studies:
 | Study 2 | Ven XR 75 mg | 64.1% (100/156) | 2.350 | (1.46, 3.78) |
 | Ven XR 225 mg | 70.0% (112/160) | 2.890 | (1.80, 4.64) |  |
 | Placebo | 46.5% (73/157) | -- | -- |  |
-| 95%CI: 95% confidence interval without adjusting for multiple dose arms. |  |  |  |  |
 
 ## 14.5 Pediatric Patients
 

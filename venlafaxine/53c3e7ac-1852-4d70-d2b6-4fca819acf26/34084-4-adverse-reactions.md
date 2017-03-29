@@ -10,8 +10,6 @@ The following adverse reactions are discussed in greater detail in other section
 - Angle Closure Glaucoma [see Warnings and Precautions (5.5)]
 - Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
 - Discontinuation Syndrome [see Warnings and Precautions (5.7)]
-- Renal Impairment [see Warnings and Precautions (2.6)]
-- Hepatic Impairment [see Warnings and Precautions (2.6)]
 - Seizure [see Warnings and Precautions (5.8)]
 - Hyponatremia [see Warnings and Precautions (5.9)]
 - Weight and Height changes in Pediatric Patients [see Warnings and Precautions (5.10)]
@@ -166,14 +164,10 @@ Table 12: Approximate Mean Final On-therapy Increase in Pulse Rate (beats/min) i
 
 | Indication (Duration) | Effexor XR | Placebo |
 | --- | --- | --- |
-| MDD |  |  |
-| (12 weeks) | 2 | 1 |
-| GAD |  |  |
-| (8 weeks) | 2 | < 1 |
-| SAD |  |  |
-| (12 weeks) | 3 | 1 |
-| PD |  |  |
-| (12 weeks) | 1 | < 1 |
+| MDD (12 weeks) | 2 | 1 |
+| GAD (8 weeks) | 2 | < 1 |
+| SAD (12 weeks) | 3 | 1 |
+| PD (12 weeks) | 1 | < 1 |
 
 ## 6.3 Laboratory Changes
 
@@ -213,14 +207,10 @@ Table 14: Mean Final On-therapy Increases in Triglyceride Concentrations (mg/dL)
 
 | Indication (Duration) | Effexor XR | Placebo |
 | --- | --- | --- |
-| SAD | 8.2 | 0.4 |
-| (12 weeks) |  |  |
-| SAD | 11.8 | 1.8 |
-| (6 months) |  |  |
-| PD | 5.9 | 0.9 |
-| (12 weeks) |  |  |
-| PD | 9.3 | 0.3 |
-| (6 months) |  |  |
+| SAD (12 weeks) | 8.2 | 0.4 |
+| SAD (6 months) | 11.8 | 1.8 |
+| PD (12 weeks) | 5.9 | 0.9 |
+| PD (6 months) | 9.3 | 0.3 |
 
 ## 6.4 Pediatric Patients
 

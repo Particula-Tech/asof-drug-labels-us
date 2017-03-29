@@ -9,6 +9,7 @@ Venlafaxine was given by oral gavage to mice for 18 months at doses up to 120 mg
 Venlafaxine was also given to rats by oral gavage for 24 months at doses up to 120 mg/kg per day.
 In rats receiving the 120 mg/kg dose, plasma concentrations of venlafaxine at necropsy were 1 times (male rats) and 6 times (female rats) the plasma concentrations of patients receiving the maximum recommended human dose.
 Plasma levels of the O-desmethyl metabolite (ODV) were lower in rats than in patients receiving the maximum recommended dose.
+
 O-desmethylvenlafaxine (ODV), the major human metabolite of venlafaxine, administered by oral gavage to mice and rats for 2 years did not increase the incidence of tumors in either study.
 Mice received ODV at dosages up to 500/300 mg/kg/day (dosage lowered after 45 weeks of dosing).
 The exposure at the 300 mg/kg/day dose is 9 times that of a human dose of 225 mg/day.
