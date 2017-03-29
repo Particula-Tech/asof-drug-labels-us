@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-TIVICAY® is indicated in combination with other antiretroviral agents for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in adults and pediatric patients weighing at least 30 kg.
+TIVICAY is indicated in combination with other antiretroviral agents for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in adults and pediatric patients weighing at least 30 kg.
 
 Limitations of Use:
 

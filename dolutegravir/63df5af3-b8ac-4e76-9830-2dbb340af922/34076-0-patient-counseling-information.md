@@ -58,7 +58,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2016 the ViiV Healthcare group of companies.
+©2017 the ViiV Healthcare group of companies.
 All rights reserved.
 
-TVC:7PI
+TVC:8PI

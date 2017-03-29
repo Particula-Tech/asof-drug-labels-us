@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 The efficacy of TIVICAY is based on analyses of data from 3 trials, SPRING-2 (ING113086), SINGLE (ING114467), and FLAMINGO (ING114915), in treatment-naïve, HIV‑1‑infected subjects (n = 2,125); one trial, SAILING (ING111762), in treatment-experienced, INSTI-naïve HIV‑1‑infected subjects (n = 715); and from VIKING-3 (ING112574) trial in INSTI-experienced HIV‑1‑infected subjects (n = 183).
-The use of TIVICAY in pediatric patients aged 12 years and older is based on evaluation of safety, pharmacokinetics, and efficacy through 24 weeks in a multicenter, open-label trial in subjects (n = 23) without INSTI resistance.
+The use of TIVICAY in pediatric patients aged 6 years and older is based on evaluation of safety, pharmacokinetics, and efficacy in a multicenter, open-label trial in subjects without INSTI resistance.
 
 ## 14.1 Adult Subjects
 
@@ -55,6 +55,7 @@ cOther includes reasons such as withdrew consent, loss to follow-up, moved, and 
 dThe primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 86% in the raltegravir group, with a treatment difference of 2.6% and 95% CI of (-1.9%, 7.2%).
 
 eThe primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 81% in the ATRIPLA group, with a treatment difference of 7.4% and 95% CI of (2.5%, 12.3%).
+
 SPRING-2: Virologic outcomes were also comparable across baseline characteristics including CD4+ cell count, age, and use of EPZICOM or TRUVADA as NRTI background regimen.
 The median change in CD4+ cell counts from baseline were 276 cells per mm3 in the group receiving TIVICAY and 264 cells per mm3 for the raltegravir group at 96 weeks.
 

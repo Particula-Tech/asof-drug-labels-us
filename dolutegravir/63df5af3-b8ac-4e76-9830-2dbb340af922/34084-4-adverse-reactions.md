@@ -162,3 +162,12 @@ No ADRs led to discontinuation.
 
 The Grade 3 or 4 laboratory abnormalities reported in more than one subject were elevated total bilirubin (n = 3) and decreased neutrophil count (n = 2).
 The changes in mean serum creatinine were similar to those observed in adults.
+
+## 6.2 Postmarketing Experience
+
+In addition to adverse reactions reported from clinical trials, the following adverse reactions have been identified during postmarketing use.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Musculoskeletal
+
+Arthralgia, myalgia.
