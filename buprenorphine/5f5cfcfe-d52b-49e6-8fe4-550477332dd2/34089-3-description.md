@@ -1,9 +1,9 @@
-# 11 DESCRIPTION
+# 11DESCRIPTION
 
-ZUBSOLV (buprenorphine and naloxone) sublingual tablets are white menthol-flavored tablets in a triangular shape for the dosage strength 1.4 mg /0.36 mg, a D shape for the dosage strength 2.9 mg/0.71 mg, a round shape for the dosage strength 5.7 mg/1.4 mg, a diamond shape for the dosage strength 8.6 mg/2.1 mg and a capsule shape for the dosage strength 11.4 mg/2.9 mg.
+ZUBSOLV (buprenorphine and naloxone) sublingual tablets are white menthol-flavored tablets in an oval shape for the dosage strength 0.7 mg/0.18 mg, a triangular shape for the dosage strength 1.4 mg /0.36 mg, a D shape for the dosage strength 2.9 mg/0.71 mg, a round shape for the dosage strength 5.7 mg/1.4 mg, a diamond shape for the dosage strength 8.6 mg/2.1 mg and a capsule shape for the dosage strength 11.4 mg/2.9 mg.
 They are debossed with the respective dosage strength of buprenorphine.
-They contain buprenorphine HCl, a mu-opioid receptor partial agonist and a kappa-opioid receptor antagonist, and naloxone HCl dihydrate, an opioid receptor antagonist, at a ratio of 4:1 (ratio of free bases).
-ZUBSOLV is intended for sublingual administration and is available in five dosage strengths, 1.4 mg buprenorphine with 0.36 mg naloxone, 2.9 mg buprenorphine with 0.71 mg naloxone, 5.7 mg buprenorphine with 1.4 mg naloxone, 8.6 mg buprenorphine with 2.1 mg naloxone and 11.4 mg buprenorphine with 2.9 mg naloxone.
+They contain buprenorphine HCl, an opioid partial agonist and naloxone HCl dihydrate, an opioid antagonist, at a ratio of 4:1 (ratio of free bases).
+ZUBSOLV is intended for sublingual administration and is available in six dosage strengths, 0.7 mg buprenorphine with 0.18 mg naloxone, 1.4 mg buprenorphine with 0.36 mg naloxone, 2.9 mg buprenorphine with 0.71 mg naloxone, 5.7 mg buprenorphine with 1.4 mg naloxone, 8.6 mg buprenorphine with 2.1 mg naloxone and 11.4 mg buprenorphine with 2.9 mg naloxone.
 Each sublingual tablet also contains mannitol, citric acid, sodium citrate, microcrystalline cellulose, croscarmellose sodium, sucralose, menthol, silicon dioxide and sodium stearyl fumarate and menthol flavor.
 
 Chemically, buprenorphine HCl is (2S)-2-[17-(cyclopropylmethyl)-4,5α-epoxy-3-hydroxy-6-methoxy-6α,14-ethano-14α-morphinan-7α-yl]-3,3-dimethylbutan-2-ol hydrochloride.

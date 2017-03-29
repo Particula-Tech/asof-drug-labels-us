@@ -1,13 +1,13 @@
-# 7 DRUG INTERACTIONS
+# 7DRUG INTERACTIONS
 
-## 7.1 Cytochrome P-450 3A4 (CYP3A4) Inhibitors and Inducers
+## 7.1Cytochrome P-450 3A4 (CYP3A4) Inhibitors and Inducers
 
-Buprenorphine is metabolized to norbuprenorphine primarily by cytochrome CYP3A4; therefore, potential interactions may occur when ZUBSOLV sublingual tablets is given concurrently with agents that affect CYP3A4 activity.
+Buprenorphine is metabolized to norbuprenorphine primarily by cytochrome CYP3A4; therefore, potential interactions may occur when ZUBSOLV sublingual tablets are given concurrently with agents that affect CYP3A4 activity.
 The concomitant use of ZUBSOLV sublingual tablet with CYP3A4 inhibitors (e.g., azole antifungals such as ketoconazole, macrolide antibiotics such as erythromycin, and HIV protease inhibitors) should be monitored and may require dose-reduction of one or both agents.
 
-The interaction of buprenorphine with CYP3A4 inducers has not been studied; therefore, it is recommended that patients receiving ZUBSOLV sublingual tablets be monitored for signs and symptoms of opioid withdrawal if inducers of CYP3A4 (e.g., efavirenz, phenobarbital, carbamazepine, phenytoin, rifampicin) are co-administered [see Clinical Pharmacology (12.3)]
+The interaction of buprenorphine with CYP3A4 inducers has not been studied; therefore, it is recommended that patients receiving ZUBSOLV sublingual tablets be monitored for signs and symptoms of opioid withdrawal if inducers of CYP3A4 (e.g., efavirenz, phenobarbital, carbamazepine, phenytoin, rifampicin) are co-administered [see Clinical Pharmacology (12.3)].
 
-## 7.2 Antiretrovirals
+## 7.2Antiretrovirals
 
 Three classes of antiretroviral agents have been evaluated for CYP3A4 interactions with buprenorphine.
 Nucleoside reverse transcriptase inhibitors (NRTIs) do not appear to induce or inhibit the P450 enzyme pathway, thus no interactions with buprenorphine are expected.
@@ -20,10 +20,17 @@ Other PIs with CYP3A4 inhibitory activity (atazanavir and atazanavir/ritonavir) 
 Symptoms of opioid excess have been found in post-marketing reports of patients receiving buprenorphine and atazanavir with and without ritonavir concomitantly.
 Monitoring of patients taking buprenorphine and atazanavir with and without ritonavir is recommended, and dose reduction of buprenorphine may be warranted.
 
-## 7.3 Benzodiazepines
+## 7.3Benzodiazepines
 
 There have been a number of post-marketing reports regarding coma and death associated with the concomitant use of buprenorphine and benzodiazepines.
 In many, but not all of these cases, buprenorphine was misused by self-injection.
 Preclinical studies have shown that the combination of benzodiazepines and buprenorphine altered the usual ceiling effect on buprenorphine-induced respiratory depression, making the respiratory effects of buprenorphine appear similar to those of full opioid agonists.
 ZUBSOLV sublingual tablets should be prescribed with caution to patients taking benzodiazepines or other drugs that act on the CNS, regardless of whether these drugs are taken on the advice of a physician or are being abused/misused.
 Patients should be warned that it is extremely dangerous to self-administer non-prescribed benzodiazepines while taking ZUBSOLV sublingual tablets, and should also be cautioned to use benzodiazepines concurrently with ZUBSOLV sublingual tablets only as directed by their physician.
+
+## 7.4Serotonergic Drugs
+
+The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system, such as selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue), has resulted in serotonin syndrome.
+
+If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment.
+Discontinue ZUBSOLV if serotonin syndrome is suspected.

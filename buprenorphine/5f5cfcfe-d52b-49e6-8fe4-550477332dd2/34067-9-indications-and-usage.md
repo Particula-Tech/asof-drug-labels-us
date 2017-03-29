@@ -1,4 +1,4 @@
-# 1 INDICATIONS AND USAGE
+# 1INDICATIONS AND USAGE
 
 ZUBSOLV sublingual tablet is indicated for treatment of opioid dependence and should be used as part of a complete treatment plan to include counseling and psychosocial support.
 

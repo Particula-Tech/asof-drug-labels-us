@@ -59,15 +59,15 @@ Before taking ZUBSOLV, tell your doctor if you:
 - Have mental problems such as hallucinations (seeing or hearing things that are not there).
 - Have any other medical condition.
 - Are pregnant or plan to become pregnant.
-  It is not known if ZUBSOLV will harm your unborn baby.
-  If you take ZUBSOLV while pregnant, your baby may have symptoms of withdrawal at birth.
+  If you take ZUBSOLV while pregnant, your baby may have symptoms of opioid withdrawal or respiratory depression at birth.
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - Are breastfeeding or plan to breastfeed.
   ZUBSOLV can pass into your breast milk and may harm your baby.
   Talk to your doctor about the best way to feed your baby if you take ZUBSOLV.
   Monitor your baby for increased sleepiness and breathing problems.
 
-Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.ZUBSOLV may affect the way other medicines work and other medicines may affect how ZUBSOLV works.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+ZUBSOLV may affect the way other medicines work and other medicines may affect how ZUBSOLV works.
 Some medicines may cause serious or life-threatening medical problems when taken with ZUBSOLV.
 
 Sometimes the doses of certain medicines and ZUBSOLV may need to be changed if used together.
@@ -202,8 +202,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured for Orexo US, Inc. by AAIPharma Services Corp. Wilmington, NC 28405 USA
 
-Distributed by Orexo US, Inc. Morristown, NJ 07960 USA
-
-ZUBSOLV is a registered trademark of Orexo US, Inc.© 2015 Orexo US, Inc.
+Distributed by Orexo US, Inc. Morristown, NJ 07960 USA ZUBSOLV is a licensed trademark of Orexo US, Inc.© 2016 Orexo US, Inc.
 
 Printed in USA

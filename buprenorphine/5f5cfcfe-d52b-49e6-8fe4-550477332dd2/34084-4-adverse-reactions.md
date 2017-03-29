@@ -1,23 +1,23 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
+
+## 6.1Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-## 6.1 Clinical Trials Experience
-
 ZUBSOLV for use as initial treatment was evaluated in two clinical trials that had identical, blinded, two-day induction phases, comparing ZUBSOLV to generic buprenorphine.
-On the first day, subjects received an initial dose of ZUBSOLV 1.4mg/0.36 mg or generic buprenorphine 2 mg, followed by ZUBSOLV 4.2mg/1.08 mg or generic buprenorphine 6 mg 1.5 hours later.
+On the first day, subjects received an initial dose of ZUBSOLV 1.4 mg/0.36 mg or generic buprenorphine 2 mg, followed by ZUBSOLV 4.2 mg/1.08 mg or generic buprenorphine 6 mg 1.5 hours later.
 In total, safety data were available for 538 opioid-dependent subjects exposed to ZUBSOLV (buprenorphine/naloxone) sublingual tablets when used for initial treatment.
 
 Table 1.
-Adverse Reactions in ≥5% of Patients During the Induction Phase by System Organ Class and Preferred Term (Safety Population)
+Adverse Reactions in ≥ 5% of Patients During the Induction Phase by System Organ Class and Preferred Term (Safety Population)
 
-| System Organ Class Preferred Term | ZUBSOLV (N=538) | Generic BUP N=530) | Overall (N=1068) |
+| System Organ Class Preferred Term | ZUBSOLV (N=538) | Generic BUP (N=530) | Overall (N=1068) |
 | --- | --- | --- | --- |
-|  | n (%) |  |  |
-| Patients with any Adverse Reactions | 139(26%) | 136 (26%) | 275 (26%) |
+|  | N (%) |  |  |
+| Patients with any Adverse Reactions | 139 (26%) | 136 (26%) | 275 (26%) |
 | Gastrointestinal Disorders | 64 (12%) | 60 (11%) | 124 (12%) |
 | Nausea | 29 (5%) | 36 (7%) | 65 (6%) |
-| Vomiting | 25 (5%) | 26 (5%) | 51(5%) |
+| Vomiting | 25 (5%) | 26 (5%) | 51 (5%) |
 | Nervous System Disorders | 48 (9%) | 44 (8%) | 92 (9%) |
 | Headache | 36 (7%) | 35 (7%) | 71 (7%) |
 
@@ -25,17 +25,17 @@ BUP = buprenorphine
 
 ZUBSOLV = buprenorphine/naloxone
 
-The safety of buprenorphine/naloxone for longer term use (up to 16 weeks of treatment) was evaluated in previous studies in 497 opioid-dependent subjects.
+The safety of buprenorphine/naloxone for longer-term use (up to 16 weeks of treatment) was evaluated in previous studies in 497 opioid-dependent subjects.
 The prospective evaluation of buprenorphine/naloxone was supported by clinical trials using buprenorphine tablets without naloxone and other trials using buprenorphine sublingual solutions.
 In total, safety data were available from 3214 opioid-dependent subjects exposed to buprenorphine at doses in the range used in treatment of opioid addiction.
-See Table 2
+See Table 2.
 
 Table 2.
-Adverse Events >5% by Body System and Treatment Group in a 4-week Study
+Adverse Events > 5% by Body System and Treatment Group in a 4-week Study
 
 |  | N (%) | N (%) |
 | --- | --- | --- |
-| Body System / Adverse Event (COSTART Terminology) | Buprenorphine/naloxone 16mg/day N=107 | Placebo N=107 |
+| Body System / Adverse Event (COSTART Terminology) | Buprenorphine/ naloxone 16 mg/day N=107 | Placebo N=107 |
 | Body as a Whole |  |  |
 | Asthenia | 7 (7%) | 7 (7%) |
 | Chills | 8 (8%) | 8 (8%) |
@@ -56,7 +56,7 @@ Adverse Events >5% by Body System and Treatment Group in a 4-week Study
 | Insomnia | 15 (14%) | 17 (16%) |
 | Respiratory System |  |  |
 | Rhinitis | 5 (5%) | 14 (13%) |
-| Skin And Appendages |  |  |
+| Skin and Appendages |  |  |
 | Sweating | 15 (14%) | 11 (10%) |
 
 The adverse event profile of buprenorphine was also characterized in the dose-controlled study of buprenorphine solution, over a range of doses in four months of treatment.
@@ -99,14 +99,22 @@ Adverse Events (≥ 5%) by Body System and Treatment Group in a 16-week Study
 | Cough Increase | 5 (3%) | 11 (6%) | 6 (3%) | 4 (2%) | 26 (4%) |
 | Pharyngitis | 6 (3%) | 7 (4%) | 6 (3%) | 9 (5%) | 28 (4%) |
 | Rhinitis | 27 (15%) | 16 (9%) | 15 (8%) | 21 (12%) | 79 (11%) |
-| Skin And Appendages |  |  |  |  |  |
+| Skin and Appendages |  |  |  |  |  |
 | Sweat | 23 (13%) | 21 (12%) | 20 (11%) | 23 (13%) | 87 (12%) |
 | Special Senses |  |  |  |  |  |
 | Runny Eyes | 13 (7%) | 9 (5%) | 6 (3%) | 6 (3%) | 34 (5%) |
 
-## 6.2 Post-marketing Experience
+## 6.2Post-marketing Experience
 
 The following adverse reactions have been identified during post-approval use of buprenorphine and naloxone sublingual tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate a causal relationship to drug exposure.
 
 The most frequently reported post-marketing adverse event not observed in clinical trials was peripheral edema.
+
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in ZUBSOLV.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

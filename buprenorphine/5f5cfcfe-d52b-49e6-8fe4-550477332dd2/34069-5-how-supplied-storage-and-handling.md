@@ -1,14 +1,16 @@
-# 16 HOW SUPPLIED / STORAGE AND HANDLING
+# 16HOW SUPPLIED / STORAGE AND HANDLING
 
 ZUBSOLV sublingual tablets are menthol-flavored white tablets supplied in aluminum/aluminum child resistant unit dose blister packages.
-ZUBSOLV is available in five dosage strengths:
+ZUBSOLV is available in six dosage strengths imprinted in their respective buprenorphine strength
 
-- buprenorphine/naloxone 1.4 mg/0.36 mg, triangular shape
-- buprenorphine/naloxone 2.9 mg/0.71 mg D shape
-- buprenorphine/naloxone 5.7 mg/1.4 mg, round shape
-- buprenorphine/naloxone 8.6 mg/2.1 mg, diamond shape, and
-- buprenorphine/naloxone 11.4 mg/2.9 mg, capsule shape
+- buprenorphine/naloxone 0.7 mg/0.18 mg, oval shape, imprinted with “.7”
+- buprenorphine/naloxone 1.4 mg/0.36 mg, triangular shape, imprinted with “1.4”
+- buprenorphine/naloxone 2.9 mg/0.71mg, D shape, imprinted with “2.9”
+- buprenorphine/naloxone 5.7 mg/1.4 mg, round shape, imprinted with “5.7”
+- buprenorphine/naloxone 8.6 mg/2.1 mg, diamond shape, imprinted with “8.6”
+- buprenorphine/naloxone 11.4 mg/2.9 mg, capsule shape, imprinted with “11.4”
 
+- NDC 54123-907-30 (buprenorphine/naloxone 0.7 mg /0.18 mg) sublingual tablet – 3x10 tablets per carton
 - NDC 54123-914-30 (buprenorphine/naloxone 1.4 mg /0.36 mg) sublingual tablet – 3x10 tablets per carton
 - NDC 54123-929-30 (buprenorphine/naloxone 2.9 mg/0.71 mg sublingual tablet – 3x10 tablets per carton
 - NDC 54123-957-30 (buprenorphine/naloxone 5.7 mg/1.4 mg) sublingual tablet– 3x10 tablets per carton
@@ -18,4 +20,4 @@ ZUBSOLV is available in five dosage strengths:
 Store at 20-25°C (68-77°F), excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature]
 
 Patients should be advised to store buprenorphine-containing medications safely and out of sight and reach of children.
-Destroy any unused medication appropriately [see Patient Counseling Information (17)]
+Destroy any unused medication appropriately [see Patient Counseling Information (17)].
