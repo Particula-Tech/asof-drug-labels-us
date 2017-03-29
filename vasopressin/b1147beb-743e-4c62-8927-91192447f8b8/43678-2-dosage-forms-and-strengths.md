@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Injection: 20 units per mL; packaged as 1 mL per vial
+Vasostrict® (vasopressin injection, USP) is a clear, practically colorless solution for intravenous administration available as 20 units/mL in a single dose vial and 200 units/10 mL (20 units/mL) in a multiple dose vial.

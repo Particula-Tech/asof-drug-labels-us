@@ -2,7 +2,7 @@
 
 ## 2.1 Preparation of Diluted Solutions
 
-Dilute Vasostrict® in normal saline (0.9% sodium chloride) or 5% dextrose in water (D5W) prior to use.
+Dilute Vasostrict® in normal saline (0.9% sodium chloride) or 5% dextrose in water (D5W) prior to use for intravenous administration.
 Discard unused diluted solution after 18 hours at room temperature or 24 hours under refrigeration.
 
 Table 1 Preparation of diluted solutions
