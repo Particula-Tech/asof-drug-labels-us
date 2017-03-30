@@ -14,6 +14,11 @@ Hepatic dysfunction, including hepatitis and cholestatic jaundice has been assoc
 Hepatic toxicity is usually reversible; however, deaths have been reported.
 Hepatic function should be monitored at regular intervals in patients with hepatic impairment.
 
+## Severe Cutaneous Adverse Reactions
+
+Severe skin reactions, such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), dermatitis exfoliative, erythema multiforme, and acute generalized exanthematous pustulosis (AGEP) have been reported in patients on ampicillin/sulbactam therapy.
+If a severe skin reaction occurs, ampicillin/sulbactam should be discontinued and appropriate therapy should be initiated (see CONTRAINDICATIONS and ADVERSE REACTIONS sections).
+
 ## Clostridium difficile-Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including UNASYN, and may range in severity from mild diarrhea to fatal colitis.
@@ -71,8 +76,6 @@ This effect may also occur with UNASYN.
 Long-term studies in animals have not been performed to evaluate carcinogenic or mutagenic potential.
 
 ## Pregnancy
-
-### Pregnancy Category B
 
 Reproduction studies have been performed in mice, rats, and rabbits at doses up to ten (10) times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to UNASYN.
 There are, however, no adequate and well-controlled studies in pregnant women.

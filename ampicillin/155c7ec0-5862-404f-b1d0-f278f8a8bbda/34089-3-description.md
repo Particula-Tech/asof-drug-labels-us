@@ -8,7 +8,7 @@ Its chemical formula is C16H18N3NaO4S.
 The structural formula is:
 
 Sulbactam sodium is a derivative of the basic penicillin nucleus.
-Chemically, sulbactam sodium is sodium penicillinate sulfone; sodium (2S, 5R)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo [3.2.0] heptane-2-carboxylate 4,4-dioxide.
+Chemically, sulbactam sodium is sodium penicillinate sulfone; sodium (2S, 5R)-3,3-dimethyl-7-oxo-4-thia- 1-azabicyclo [3.2.0] heptane-2-carboxylate 4,4-dioxide.
 Its chemical formula is C8H10NNaO5S with a molecular weight of 255.22.
 The structural formula is:
 

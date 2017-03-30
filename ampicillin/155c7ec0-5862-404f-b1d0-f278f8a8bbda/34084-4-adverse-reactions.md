@@ -26,7 +26,7 @@ Additional systemic reactions reported in less than 1% of the patients were: itc
 Available safety data for pediatric patients treated with UNASYN demonstrate a similar adverse events profile to those observed in adult patients.
 Additionally, atypical lymphocytosis has been observed in one pediatric patient receiving UNASYN.
 
-### Adverse Laboratory Changes
+## Adverse Laboratory Changes
 
 Adverse laboratory changes without regard to drug relationship that were reported during clinical trials were:
 
@@ -50,7 +50,7 @@ Blood and Lymphatic System Disorders: Hemolytic anemia, thrombocytopenic purpura
 These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
 Some individuals have developed positive direct Coombs Tests during treatment with UNASYN, as with other beta-lactam antibacterials.
 
-Gastrointestinal Disorders: Cholestatic hepatitis, cholestasis, hyperbilirubinemia, jaundice, abnormal hepatic function, gastritis, stomatitis, black "hairy" tongue, and Clostridium difficile associated diarrhea (see CONTRAINDICATIONS and WARNINGS sections).
+Gastrointestinal Disorders: Cholestatic hepatitis, cholestasis, hyperbilirubinemia, jaundice, abnormal hepatic function, gastritis, stomatitis, black "hairy" tongue and Clostridium difficile associated diarrhea (see CONTRAINDICATIONS and WARNINGS sections).
 
 General Disorders and Administration Site Conditions: Injection site reaction
 
@@ -60,4 +60,4 @@ Nervous System Disorders: Convulsion
 
 Renal and Urinary Disorders: Tubulointerstitial nephritis
 
-Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, Stevens-Johnson syndrome, and acute generalised exanthematous pustulosis (AGEP), urticaria, erythema multiforme, and exfoliative dermatitis (see CONTRAINDICATIONS section).
+Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, Stevens-Johnson syndrome, and acute generalized exanthematous pustulosis (AGEP), urticaria, erythema multiforme, and exfoliative dermatitis (see CONTRAINDICATIONS and WARNINGS sections).
