@@ -1,16 +1,16 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
-When one gram dose of NORITATE cream, 1%, was applied in a single application to the face of 16 healthy volunteers, low concentrations of metronidazole were detected in the plasma of 7 of the volunteers.
+When a one gram dose of NORITATE cream, 1%, was applied in a single application to the face of 16 healthy volunteers, low concentrations of metronidazole were detected in the plasma of 7 of the volunteers.
 The mean ± SD Cmax of metronidazole was 27.6 ± 7.3 ng/mL, which is about 1% of the value reported for a single 250 mg oral dose of metronidazole.
 The time to maximum plasma concentration (Tmax) in the volunteers with detectable metronidazole was 8–12 hours after topical application.
 
-## Pharmacodynamics
+## Pharmacodynamics:
 
 The mechanisms by which metronidazole acts in reducing inflammatory lesions of rosacea are unknown.
 
-## Clinical Studies
+## Clinical Studies:
 
 Safety and efficacy of NORITATE were evaluated in two randomized vehicle-controlled clinical studies for the treatment of rosacea, which excluded patients who had nodules, moderate or severe rhinophyma, dense telangiectases, plaque-like facial edema or ocular involvement and those who had a history of not responding to metronidazole therapy for rosacea.
 Of the patients included in the efficacy database (n=416), there were 142 men and 274 women.
@@ -35,7 +35,7 @@ Inflammatory Lesion Counts and Erythema Severity Scores in Two Clinical Trials f
 | Week-10 | 80 | 1.3 | 82 | 1.4 | 45 | 1.7 | 40 | 1.8 |
 | Reduction |  | 42% |  | 40% |  | 25% |  | 19% |
 
-### Safety Studies
+### Safety Studies:
 
 Studies of contact sensitization (n=258), phototoxicity (n=21), and photocontact sensitization (n=29) of NORITATE were conducted.
 No evidence of sensitization or phototoxicity was seen in these studies.
