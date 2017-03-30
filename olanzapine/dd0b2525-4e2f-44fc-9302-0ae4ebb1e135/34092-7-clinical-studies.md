@@ -43,7 +43,7 @@ Patients should be periodically reassessed to determine the need for maintenance
 
 Adults
 
-Monotherapy — The efficacy of oral olanzapine in the treatment of manic or mixed episodes was established in 2 short- term (one 3-week and one 4-week) placebo-controlled trials in adult patients who met the DSM-IV criteria for bipolar I disorder with manic or mixed episodes.
+Monotherapy — The efficacy of oral olanzapine in the treatment of manic or mixed episodes was established in 2 short-term (one 3-week and one 4-week) placebo-controlled trials in adult patients who met the DSM-IV criteria for bipolar I disorder with manic or mixed episodes.
 These trials included patients with or without psychotic features and with or without a rapid-cycling course.
 
 The primary rating instrument used for assessing manic symptoms in these trials was the Young Mania Rating Scale (Y-MRS), an 11-item clinician-rated scale traditionally used to assess the degree of manic symptomatology (irritability, disruptive/aggressive behavior, sleep, elevated mood, speech, increased activity, sexual interest, language/thought disorder, thought content, appearance, and insight) in a range from 0 (no manic features) to 60 (maximum score).

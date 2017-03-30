@@ -138,7 +138,7 @@ Dose Dependency of Adverse Reactions
 A dose group difference has been observed for fatigue, dizziness, weight gain and prolactin elevation.
 In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of fatigue (10 mg/day: 1.5%; 20 mg/day: 2.1%; 40 mg/day: 6.6%) was observed with significant differences between 10 vs 40 and 20 vs 40 mg/day.
 The incidence of dizziness (10 mg/day: 2.6%; 20 mg/day: 1.6%; 40 mg/day: 6.6%) was observed with significant differences between 20 vs 40 mg.
-Dose group differences were also noted for weight gain and prolactin elevation [see Warnings and Precautions (5.5, 5.14)].
+Dose group differences were also noted for weight gain and prolactin elevation [see Warnings and Precautions (5.5, 5.15)].
 
 The following table addresses dose relatedness for other adverse reactions using data from a schizophrenia trial involving fixed dosage ranges of oral olanzapine.
 It enumerates the percentage of patients with treatment-emergent adverse reactions for the 3 fixed-dose range groups and placebo.
@@ -161,7 +161,7 @@ Commonly Observed Adverse Reactions in Short-Term Trials of Oral Olanzapine as A
 
 In the bipolar I disorder (manic or mixed episodes) adjunct placebo-controlled trials, the most commonly observed adverse reactions associated with the combination of olanzapine and lithium or valproate (incidence of ≥5% and at least twice placebo) were:
 
-Table 13: Common Treatment-Emergent Adverse Reactions Associated with the Use of Oral Olanzapine in 6-Week Adjunct to Lithium or Valproate Trials - Bipolar I Disorder (Manic or Mixed Episodes)
+Table 13: Common Treatment-Emergent Adverse Reactions Associated with the Use of Oral Olanzapine in 6-Week Adjunct to Lithium or Valproate Trials — Bipolar I Disorder (Manic or Mixed Episodes)
 
 | Adverse Reaction | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
@@ -245,7 +245,7 @@ Table 16: Treatment-Emergent Extrapyramidal Symptoms Assessed by Rating Scales I
 
 The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by spontaneously reported adverse reactions during acute therapy in the same controlled clinical trial comparing olanzapine at 3 fixed doses with placebo in the treatment of schizophrenia in a 6-week trial.
 
-Table 17: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactions Incidence in a Fixed Dosage Range, Placebo-Controlled Clinical Trial of Oral Olanzapine in Schizophrenia -— Acute Phase
+Table 17: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactions Incidence in a Fixed Dosage Range, Placebo-Controlled Clinical Trial of Oral Olanzapine in Schizophrenia — Acute Phase
 
 |  | Percentage of Patients Reporting Event |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -337,7 +337,7 @@ Adverse Reactions Occurring at an Incidence of 2% or More among Oral Olanzapine-
 
 Adverse reactions in adolescent patients treated with oral olanzapine (doses ≥2.5 mg) reported with an incidence of 2% or more and greater than placebo are listed in Table 22.
 
-Table 22: Treatment-Emergent Adverse Reactions of ≥2% Incidence among Adolescents (13 to 17 Years Old) (Combined Incidence from Short Term, Placebo-Controlled Clinical Trials of Schizophrenia or Bipolar I Disorder [Manic or Mixed Episodes])
+Table 22: Treatment-Emergent Adverse Reactions of ≥2% Incidence among Adolescents (13 to 17 Years Old) (Combined Incidence from Short-Term, Placebo-Controlled Clinical Trials of Schizophrenia or Bipolar I Disorder [Manic or Mixed Episodes])
 
 | Adverse Reaction | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
@@ -382,7 +382,7 @@ From an analysis of the laboratory data in an integrated database of 41 complete
 
 Caution should be exercised in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic drugs.
 
-Olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.14)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
+Olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.15)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
 
 From an analysis of the laboratory data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, elevated uric acid was recorded in ≥3% (171/4641) of patients.
 
@@ -402,5 +402,5 @@ This increase in heart rate may be related to olanzapine’s potential for induc
 The following adverse reactions have been identified during post-approval use of olanzapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, rhabdomyolysis, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
+Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
 Random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1000 mg/dL have been reported.

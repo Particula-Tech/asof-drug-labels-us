@@ -51,7 +51,7 @@ The effect of renal impairment on metabolite elimination has not been studied.
 
 Hepatic Impairment — Although the presence of hepatic impairment may be expected to reduce the clearance of olanzapine, a study of the effect of impaired liver function in subjects (n=6) with clinically significant (Childs Pugh Classification A and B) cirrhosis revealed little effect on the pharmacokinetics of olanzapine.
 
-Geriatric— In a study involving 24 healthy subjects, the mean elimination half-life of olanzapine was about 1.5 times greater in elderly (≥65 years) than in nonelderly subjects (<65 years).
+Geriatric — In a study involving 24 healthy subjects, the mean elimination half-life of olanzapine was about 1.5 times greater in elderly (≥65 years) than in nonelderly subjects (<65 years).
 Caution should be used in dosing the elderly, especially if there are other factors that might additively influence drug metabolism and/or pharmacodynamic sensitivity [see Dosage and Administration (2)].
 
 Gender — Clearance of olanzapine is approximately 30% lower in women than in men.
@@ -63,7 +63,7 @@ Smoking Status — Olanzapine clearance is about 40% higher in smokers than in n
 Race — In vivo studies have shown that exposures are similar among Japanese, Chinese and Caucasians, especially after normalization for body weight differences.
 Dosage modifications for race are, therefore, not recommended.
 
-Combined Effects—The combined effects of age, smoking, and gender could lead to substantial pharmacokinetic differences in populations.
+Combined Effects — The combined effects of age, smoking, and gender could lead to substantial pharmacokinetic differences in populations.
 The clearance in young smoking males, for example, may be 3 times higher than that in elderly nonsmoking females.
 Dosing modification may be necessary in patients who exhibit a combination of factors that may result in slower metabolism of olanzapine [see Dosage and Administration (2)].
 
