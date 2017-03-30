@@ -18,6 +18,7 @@ Inform patients:
 - •that if they develop symptoms consistent with a hypersensitivity reaction they should call their healthcare provider right away to determine if they should stop taking TRIUMEQ.
 - •that a hypersensitivity reaction can worsen and lead to hospitalization or death if TRIUMEQ is not immediately discontinued.
 - •to not restart TRIUMEQ or any other abacavir-containing product following a hypersensitivity reaction because more severe symptoms can occur within hours and may include life‑threatening hypotension and death.
+- •that if they have a hypersensitivity reaction, they should dispose of any unused TRIUMEQ to avoid restarting abacavir.
 - •that a hypersensitivity reaction is usually reversible if it is detected promptly and TRIUMEQ is stopped right away.
 - •that if they have interrupted TRIUMEQ for reasons other than symptoms of hypersensitivity (for example, those who have an interruption in drug supply), a serious or fatal hypersensitivity reaction may occur with reintroduction of abacavir.
 - •to not restart TRIUMEQ or any other abacavir‑containing product without medical consultation and only if medical care can be readily accessed by the patient or others.
@@ -106,7 +107,7 @@ Shire Pharmaceuticals Group plc
 
 Basingstoke, UK
 
-©2016 the ViiV Healthcare group of companies.
+©2017 the ViiV Healthcare group of companies.
 All rights reserved.
 
-TRM:4PI
+TRM:5PI

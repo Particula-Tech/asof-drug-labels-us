@@ -164,29 +164,47 @@ Additional laboratory abnormalities observed in clinical trials of EPIVIR (in co
 
 ## 6.2 Postmarketing Experience
 
-In addition to adverse reactions reported from clinical trials, the following adverse reactions have been identified during postmarketing use.
+In addition to adverse reactions reported from clinical trials, the following adverse reactions have been identified during postmarketing use with one or more of the components of TRIUMEQ.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Abacavir and/or Lamivudine:
+Digestive
 
-Digestive: Stomatitis.
+Stomatitis.
 
-Gastrointestinal: Pancreatitis.
+Gastrointestinal
 
-General: Weakness.
+Pancreatitis.
 
-Blood and Lymphatic Systems: Aplastic anemia, anemia (including pure red cell aplasia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly.
+General
 
-Hypersensitivity: Sensitization reactions (including anaphylaxis), urticaria [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
+Weakness.
 
-Metabolism and Nutrition Disorders: Hyperlactemia.
+Blood and Lymphatic Systems
 
-Musculoskeletal: Muscle weakness, CPK elevation, rhabdomyolysis.
+Aplastic anemia, anemia (including pure red cell aplasia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly.
 
-Nervous: Paresthesia, peripheral neuropathy, seizures.
+Hypersensitivity
 
-Respiratory: Abnormal breath sounds/wheezing.
+Sensitization reactions (including anaphylaxis), urticaria [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
 
-Skin: Alopecia, erythema multiforme.
+Metabolism and Nutrition Disorders
+
+Hyperlactemia.
+
+Musculoskeletal
+
+CPK elevation, muscle weakness, myalgia, rhabdomyolysis.
+
+Nervous
+
+Paresthesia, peripheral neuropathy, seizures.
+
+Respiratory
+
+Abnormal breath sounds/wheezing.
+
+Skin
+
+Alopecia, erythema multiforme.
 Suspected Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in patients receiving abacavir primarily in combination with medications known to be associated with SJS and TEN, respectively.
 Because of the overlap of clinical signs and symptoms between hypersensitivity to abacavir and SJS and TEN, and the possibility of multiple drug sensitivities in some patients, abacavir should be discontinued and not restarted in such cases [see Adverse Reactions (6.1)].

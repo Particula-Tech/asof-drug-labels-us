@@ -2,7 +2,7 @@
 
 Hypersensitivity Reactions
 
-Serious and sometimes fatal hypersensitivity reactions, with multiple organ involvement, have occurred with abacavir, a component of TRIUMEQ® (abacavir, dolutegravir, and lamivudine).
+Serious and sometimes fatal hypersensitivity reactions, with multiple organ involvement, have occurred with abacavir, a component of TRIUMEQ (abacavir, dolutegravir, and lamivudine).
 Patients who carry the HLA‑B*5701 allele are at a higher risk of a hypersensitivity reaction to abacavir; although, hypersensitivity reactions have occurred in patients who do not carry the HLA‑B*5701 allele [see Warnings and Precautions (5.1)].
 
 TRIUMEQ is contraindicated in patients with a prior hypersensitivity reaction to abacavir and in HLA‑B*5701-positive patients [see Contraindications (4), Warnings and Precautions (5.1)].

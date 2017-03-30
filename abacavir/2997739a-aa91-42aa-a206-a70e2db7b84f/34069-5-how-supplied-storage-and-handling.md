@@ -2,7 +2,7 @@
 
 TRIUMEQ tablets, 600 mg of abacavir as abacavir sulfate, 50 mg of dolutegravir as dolutegravir sodium, and 300 mg lamivudine, are purple, oval, film-coated, biconvex tablets debossed with “572 Trı” on one side.
 
-1. Bottle of 30 with child-resistant closure NDC 49702-231-13.
+Bottle of 30 with child-resistant closure NDC 49702-231-13.
 
 Store and dispense in the original package, protect from moisture, and keep the bottle tightly closed.
 Do not remove desiccant.
