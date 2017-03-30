@@ -4,15 +4,15 @@ NDC 25021-121-20
 
 Rx only
 
-CEFEPIME FOR INJECTION, USP
+CEFEPIME for Injection, USP
 
-1 Gram/Vial
-
-1g
+1 gram per vial
 
 Single-Dose Vial
 
-For IV or IM Use
+For Intravenous or
+
+Intramuscular Use
 
 After Constitution
 
@@ -22,14 +22,12 @@ NDC 25021-122-50
 
 Rx only
 
-CEFEPIME FOR INJECTION, USP
+CEFEPIME for Injection, USP
 
-2 Grams/Vial
-
-2g
+2 grams per vial
 
 Single-Dose Vial
 
-For IV Use
+For Intravenous Use
 
 After Constitution
