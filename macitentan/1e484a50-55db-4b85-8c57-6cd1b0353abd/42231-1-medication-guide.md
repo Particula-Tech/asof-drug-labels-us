@@ -1,6 +1,4 @@
-# Medication Guide
-
-OPSUMIT® (OP-sum-it) (macitentan) tablets
+# Medication Guide OPSUMIT® (OP-sum-it) (macitentan) tablets
 
 Read this Medication Guide for Opsumit before you start taking Opsumit and each time you get a refill.
 There may be new information.
@@ -8,13 +6,17 @@ This Medication Guide does not take the place of talking with your healthcare pr
 
 What is the most important information I should know about Opsumit?
 
-- Serious birth defects.Opsumit can cause serious birth defects if taken during pregnancy.
+- Serious birth defects.
+  Opsumit can cause serious birth defects if taken during pregnancy.
   Females who are able to get pregnant must use two acceptable forms of birth control during treatment with Opsumit, and for one month after stopping Opsumit because the medicine may still be in the body.
-  See the chart below for Acceptable Birth Control Options during treatment with Opsumit.If you are the parent or caregiver of a female child who started taking Opsumit before reaching puberty, you should check your child regularly to see if she is developing signs of puberty.
+  See the chart below for Acceptable Birth Control Options during treatment with Opsumit.
+  If you are the parent or caregiver of a female child who started taking Opsumit before reaching puberty, you should check your child regularly to see if she is developing signs of puberty.
   Tell your healthcare provider right away if you notice that she is developing breast buds or any pubic hair.
   Your healthcare provider should decide if your child has reached puberty.
-  Your child may reach puberty before having her first menstrual period.Females can only receive Opsumit through a restricted program called the Opsumit Risk Evaluation and Mitigation Strategy (REMS) Program.
-  If you are a female who can get pregnant, you must talk to your healthcare provider, understand the benefits and risks of Opsumit, and agree to all of the instructions in the Opsumit REMS Program.Males can receive Opsumit without taking part in the Opsumit REMS Program.
+  Your child may reach puberty before having her first menstrual period.
+  Females can only receive Opsumit through a restricted program called the Opsumit Risk Evaluation and Mitigation Strategy (REMS) Program.
+  If you are a female who can get pregnant, you must talk to your healthcare provider, understand the benefits and risks of Opsumit, and agree to all of the instructions in the Opsumit REMS Program.
+  Males can receive Opsumit without taking part in the Opsumit REMS Program.
   - Females must not be pregnant when they start taking Opsumit or become pregnant during treatment with Opsumit.
   - Females who are able to get pregnant must have a negative pregnancy test before beginning treatment with Opsumit, each month during treatment with Opsumit and 1 month after stopping Opsumit.
     Talk to your healthcare provider about your menstrual cycle.
@@ -88,6 +90,9 @@ Opsumit can cause serious side effects, including:
 - Some medicines that are like Opsumit can cause liver problems.
   Your healthcare provider should do blood tests to check your liver before you start taking Opsumit.
   Tell your healthcare provider if you have any of the following symptoms of liver problems while taking Opsumit. nausea or vomitingpain in the upper right stomachtirednessloss of appetite yellowing of your skin or whites of your eyesdark urinefeveritching
+- Fluid retention can happen within weeks after starting Opsumit.
+  Tell your healthcare provider right away if you have any unusual weight gain or swelling of your ankles or legs.
+  Your healthcare provider will look for the cause of any fluid retention.
 - Low red blood cell levels (anemia) can occur with Opsumit treatment, usually during the first weeks after starting therapy.
   In some cases a blood transfusion may be needed, but this is not common.
   Your healthcare provider will do blood tests to check your red blood cells before starting Opsumit.
@@ -136,7 +141,17 @@ Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Actelion Pharmaceuticals US, Inc. 5000 Shoreline Court, Ste.
-200 South San Francisco, CA 94080, USA Issued: October 2016 ACT20161014
+Manufactured for:
 
-© 2016 Actelion Pharmaceuticals US, Inc. All rights reserved.
+Actelion Pharmaceuticals US, Inc.
+
+5000 Shoreline Court, Ste.
+200
+
+South San Francisco, CA 94080, USA
+
+Issued: March 2017
+
+ACT20170324
+
+© 2017 Actelion Pharmaceuticals US, Inc. All rights reserved.

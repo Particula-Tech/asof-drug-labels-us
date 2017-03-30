@@ -47,4 +47,4 @@ Counsel patients on pregnancy planning and prevention, including emergency contr
 
 Males
 
-Testicular effects: Like other endothelin receptor antagonists, OPSUMIT may have an adverse effect on spermatogenesis [see Warnings and Precautions (5.6) and Nonclinical Toxicology (13.1)].
+Testicular effects: Like other endothelin receptor antagonists, OPSUMIT may have an adverse effect on spermatogenesis [see Warnings and Precautions (5.7) and Nonclinical Toxicology (13.1)].

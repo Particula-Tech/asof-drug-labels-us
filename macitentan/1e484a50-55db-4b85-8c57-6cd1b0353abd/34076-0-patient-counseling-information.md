@@ -34,6 +34,11 @@ Some members of this pharmacological class are hepatotoxic.
 Educate patients on signs of hepatotoxicity.
 Advise patients that they should contact their doctor if they have unexplained nausea, vomiting, right upper quadrant pain, fatigue, anorexia, jaundice, dark urine, fever, or itching.
 
+Fluid Retention
+
+Educate patients on signs of fluid retention.
+Advise patients that they should contact their doctor if they have unusual weight increase or swelling of the ankles or legs.
+
 Administration
 
 Patients should be advised not to split, crush, or chew tablets.

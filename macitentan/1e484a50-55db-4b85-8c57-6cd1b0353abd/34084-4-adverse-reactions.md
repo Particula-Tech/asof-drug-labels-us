@@ -4,7 +4,8 @@ Clinically significant adverse reactions that appear in other sections of the la
 
 - Embryo-fetal Toxicity [see Warnings and Precautions (5.1)]
 - Hepatotoxicity [see Warnings and Precautions (5.3)]
-- Decrease in Hemoglobin [see Warnings and Precautions (5.4)]
+- Fluid Retention [see Warnings and Precautions (5.4)]
+- Decrease in Hemoglobin [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -34,13 +35,12 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Immune system disorders: hypersensitivity reactions (angioedema, pruritus and rash)
 
+Respiratory, thoracic and mediastinal disorders: nasal congestion
+
 Gastrointestinal disorders: Elevations of liver aminotransferases (ALT, AST) and liver injury have been reported with Opsumit use; in most cases alternative causes could be identified (heart failure, hepatic congestion, autoimmune hepatitis).
 Endothelin receptor antagonists have been associated with elevations of aminotransferases, hepatotoxicity, and cases of liver failure [see Warnings and Precautions (5.3)].
 
-Respiratory, thoracic and mediastinal disorders: nasal congestion
-
 General disorders and administration site conditions: edema/fluid retention.
-
-Cases of edema and fluid retention occurred within weeks of starting Opsumit, some requiring intervention with a diuretic, fluid management or hospitalization for decompensated heart failure.
+Cases of edema and fluid retention occurred within weeks of starting Opsumit, some requiring intervention with a diuretic, fluid management or hospitalization for decompensated heart failure [see Warnings and Precautions (5.4)].
 
 Cardiac disorders: symptomatic hypotension

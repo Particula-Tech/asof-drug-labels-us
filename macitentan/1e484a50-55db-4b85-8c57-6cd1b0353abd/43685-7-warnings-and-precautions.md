@@ -42,22 +42,35 @@ Advise patients to report symptoms suggesting hepatic injury (nausea, vomiting, 
 If clinically relevant aminotransferase elevations occur, or if elevations are accompanied by an increase in bilirubin >2 × ULN, or by clinical symptoms of hepatotoxicity, discontinue OPSUMIT.
 Consider re-initiation of OPSUMIT when hepatic enzyme levels normalize in patients who have not experienced clinical symptoms of hepatotoxicity.
 
-## 5.4 Hemoglobin Decrease
+## 5.4 Fluid Retention
+
+Peripheral edema and fluid retention are known clinical consequences of PAH and known effects of ERAs.
+In the placebo-controlled study of OPSUMIT in PAH, the incidence of edema was 21.9% in the OPSUMIT 10 mg group and 20.5% in the placebo group.
+
+Patients with underlying left ventricular dysfunction may be at particular risk for developing significant fluid retention after initiation of ERA treatment.
+In a small study of OPSUMIT in patients with pulmonary hypertension because of left ventricular dysfunction, more patients in the OPSUMIT group developed significant fluid retention and had more hospitalizations because of worsening heart failure compared to those randomized to placebo.
+Postmarketing cases of edema and fluid retention occurring within weeks of starting OPSUMIT, some requiring intervention with a diuretic or hospitalization for decompensated heart failure, have been reported [see Adverse Reactions (6.2)].
+
+Monitor for signs of fluid retention after OPSUMIT initiation.
+If clinically significant fluid retention develops, evaluate the patient to determine the cause, such as OPSUMIT or underlying heart failure, and the possible need to discontinue OPSUMIT.
+
+## 5.5 Hemoglobin Decrease
 
 Decreases in hemoglobin concentration and hematocrit have occurred following administration of other ERAs and were observed in clinical studies with OPSUMIT.
 These decreases occurred early and stabilized thereafter.
 In the placebo-controlled study of OPSUMIT in PAH, OPSUMIT 10 mg caused a mean decrease in hemoglobin from baseline to up to 18 months of about 1.0 g/dL compared to no change in the placebo group.
 A decrease in hemoglobin to below 10.0 g/dL was reported in 8.7% of the OPSUMIT 10 mg group and in 3.4% of the placebo group.
+
 Decreases in hemoglobin seldom require transfusion.
 Initiation of OPSUMIT is not recommended in patients with severe anemia.
 Measure hemoglobin prior to initiation of treatment and repeat during treatment as clinically indicated [see Adverse Reactions (6.1)].
 
-## 5.5 Pulmonary Edema with Pulmonary Veno-occlusive Disease (PVOD)
+## 5.6 Pulmonary Edema with Pulmonary Veno-occlusive Disease (PVOD)
 
 Should signs of pulmonary edema occur, consider the possibility of associated PVOD.
 If confirmed, discontinue OPSUMIT.
 
-## 5.6 Decreased Sperm Counts
+## 5.7 Decreased Sperm Counts
 
 Other ERAs have caused adverse effects on spermatogenesis.
 Counsel men about potential effects on fertility [see Use in Specific Populations (8.6) and Nonclinical Toxicology (13.1)].
