@@ -1,5 +1,10 @@
-| Instructions for Use BEVESPI AEROSPHERE™ (be-VES-pee AIR-oh-sfeer) (glycopyrrolate and formoterol fumarate) Inhalation aerosol, for oral inhalation use |
-| --- |
+# Instructions for Use
+
+BEVESPI AEROSPHERE™
+
+(be-VES-pee AIR-oh-sfeer)
+
+(glycopyrrolate and formoterol fumarate) Inhalation aerosol, for oral inhalation use
 
 Read this Instructions for Use before you start using BEVESPI AEROSPHERE and each time you get a refill.
 There may be new information.
@@ -7,52 +12,55 @@ This information does not take the place of talking to your healthcare provider 
 
 Important Information:
 
-- For oral inhalation use only.
-- Use BEVESPI AEROSPHERE exactly as your healthcare provider tells you to.
-- If you have any questions about the use of your inhaler, ask your healthcare provider or pharmacist.
+- •For oral inhalation use only.
+- •Use BEVESPI AEROSPHERE exactly as your healthcare provider tells you to.
+- •If you have any questions about the use of your inhaler, ask your healthcare provider or pharmacist.
 
 Parts of your BEVESPI AEROSPHERE inhaler (See Figure 1):
 
-- BEVESPI AEROSPHERE comes as a canister that fits into an actuator with a dose indicator. ° Do not use the BEVESPI AEROSPHERE actuator with a canister of medicine from any other inhaler. ° Do not use the BEVESPI AEROSPHERE canister with an actuator from any other inhaler.
+- •BEVESPI AEROSPHERE comes as a canister that fits into an actuator with a dose indicator. ° Do not use the BEVESPI AEROSPHERE actuator with a canister of medicine from any other inhaler. ° Do not use the BEVESPI AEROSPHERE canister with an actuator from any other inhaler.
 
-- BEVESPI AEROSPHERE comes with a dose indicator located on the top of the canister (See Figure 1).
+- •BEVESPI AEROSPHERE comes with a dose indicator located on the top of the canister (See Figure 1).
   The dose indicator display window will show you how many puffs of medicine you have left.
   A puff of medicine is released each time you press the center of the dose indicator.
 
 Before you use BEVESPI AEROSPHERE for the first time make sure that the pointer on the dose indicator is pointing to the right of the “120” inhalation mark in the dose indicator display window (See Figure 1).
+(Note, the pointer will point to the right of the “30” inhalation mark if you have a 7-day inhaler.)
 
-- The pointer will be pointing to 120 after 10 puffs are delivered from BEVESPI AEROSPHERE.
+- •The pointer will be pointing to 120 after 10 puffs are delivered from BEVESPI AEROSPHERE.
   This means that there are 120 puffs of medicine left in the canister (See Figure 2a).
-- The pointer will be pointing between 100 and 120 after you take 10 more puffs.
+- •The pointer will be pointing between 100 and 120 after you take 10 more puffs.
   This means that there are 110 puffs of medicine left in the canister (See Figure 2b).
-- The pointer will be pointing to 100 after you take 10 more puffs.
+- •The pointer will be pointing to 100 after you take 10 more puffs.
   This means that there are 100 puffs of medicine left in the canister (See Figure 2c).
 
-- The dose indicator display window will continue to move after every 10 puffs.
+- •The dose indicator display window will continue to move after every 10 puffs.
   The number in the dose indicator display window will continue to change after every 20 puffs.
 
-- The color in the dose indicator display window will change to red, as shown in the shaded area, when there are only 20 puffs of medicine left in your inhaler (See Figure 2d).
+- •The color in the dose indicator display window will change to red, as shown in the shaded area, when there are only 20 puffs of medicine left in your inhaler (See Figure 2d).
+- •The dose indicator for the 7-day inhaler moves after every 10 puffs; with markings for 30, 15 and 0 puffs.
+  The color in the 7-day inhaler dose indicator display window will change to red when there are only 10 puffs of medicine left in your inhaler.
 
 Preparing your BEVESPI AEROSPHERE inhaler for use:
 
-- BEVESPI AEROSPHERE should be at room temperature before you use it.
-- Your BEVESPI AEROSPHERE inhaler comes in a foil pouch that contains a drying packet (desiccant). ° Take the BEVESPI AEROPSHERE inhaler out of the foil pouch. ° Throw away the pouch and the drying packet.
+- •BEVESPI AEROSPHERE should be at room temperature before you use it.
+- •Your BEVESPI AEROSPHERE inhaler comes in a foil pouch that contains a drying packet (desiccant). ° Take the BEVESPI AEROPSHERE inhaler out of the foil pouch. ° Throw away the pouch and the drying packet.
   Do not eat or breathe in the contents of the drying packet.
 
 Priming your BEVESPI AEROSPHERE inhaler:
 
 Before you use BEVESPI AEROSPHERE for the first time, you must prime the inhaler.
 
-- Remove the cap from the mouthpiece (See Figure 3).
+- •Remove the cap from the mouthpiece (See Figure 3).
   Check inside the mouthpiece for objects before use.
-- Hold the inhaler in the upright position away from your face and shake the inhaler well (See Figure 4).
+- •Hold the inhaler in the upright position away from your face and shake the inhaler well (See Figure 4).
 
-- Press down firmly on the center of the dose indicator until the canister stops moving in the actuator, to release a puff of medicine from the mouthpiece (See Figure 5).
+- •Press down firmly on the center of the dose indicator until the canister stops moving in the actuator, to release a puff of medicine from the mouthpiece (See Figure 5).
   You may hear a soft click from the dose indicator as it counts down during use.
 
-- Repeat the priming steps 3 more times (See Figure 4 and Figure 5).
+- •Repeat the priming steps 3 more times (See Figure 4 and Figure 5).
   Shake the inhaler well before each priming puff.
-- After priming 4 times, the dose indicator should be pointing to the right of “120” and your inhaler is now ready to use.
+- •After priming 4 times, the dose indicator should be pointing to the right of “120” and your inhaler is now ready to use.
 
 Using your BEVESPI AEROSPHERE inhaler:
 
@@ -119,4 +127,4 @@ By: Aventis Pharma LTD, Holmes Chapel CW48BE, United Kingdom
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: April 2016
+Revised: October 2016

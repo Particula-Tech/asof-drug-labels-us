@@ -2,11 +2,11 @@
 
 ## 5.1. Asthma-Related Death
 
-- Data from a large placebo-controlled trial in subjects with asthma showed that LABAs may increase the risk of asthma-related death.
+- •Data from a large placebo-controlled trial in subjects with asthma showed that LABAs may increase the risk of asthma-related death.
   Data are not available to determine whether the rate of death in patients with COPD is increased by LABAs.
-- A 28-week, placebo-controlled US trial comparing the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol vs. 3/13,179 in subjects treated with placebo; RR 4.37, 95% CI: 1.25, 15.34).
+- •A 28-week, placebo-controlled US trial comparing the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol vs. 3/13,179 in subjects treated with placebo; RR 4.37, 95% CI: 1.25, 15.34).
   The increased risk of asthma-related death is considered a class effect of LABAs, including formoterol fumarate, one of the active ingredients in BEVESPI AEROSPHERE.
-- No trial adequate to determine whether the rate of asthma-related deaths is increased in patients treated with BEVESPI AEROSPHERE has been conducted.
+- •No trial adequate to determine whether the rate of asthma-related deaths is increased in patients treated with BEVESPI AEROSPHERE has been conducted.
   The safety and efficacy of BEVESPI AEROSPHERE in patients with asthma have not been established.
   BEVESPI AEROSPHERE is not indicated for the treatment of asthma.
 

@@ -5,11 +5,11 @@ BEVESPI AEROSPHERE is not indicated for the treatment of asthma [see Boxed Warni
 
 The following adverse reactions are described in greater detail elsewhere in the labeling:
 
-- Paradoxical bronchospasm [see Warnings and Precautions (5.4)]
-- Hypersensitivity reactions [see Contraindications (4), Warnings and Precautions (5.5)]
-- Cardiovascular effects [see Warnings and Precautions (5.6)]
-- Worsening of narrow-angle glaucoma [see Warnings and Precautions (5.9)]
-- Worsening of urinary retention [see Warnings and Precautions (5.10)]
+- •Paradoxical bronchospasm [see Warnings and Precautions (5.4)]
+- •Hypersensitivity reactions [see Contraindications (4), Warnings and Precautions (5.5)]
+- •Cardiovascular effects [see Warnings and Precautions (5.6)]
+- •Worsening of narrow-angle glaucoma [see Warnings and Precautions (5.9)]
+- •Worsening of urinary retention [see Warnings and Precautions (5.10)]
 
 ## 6.1. Clinical Trials Experience
 

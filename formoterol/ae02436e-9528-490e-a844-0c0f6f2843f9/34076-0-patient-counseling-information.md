@@ -11,10 +11,9 @@ Provide patients with such medicine and instruct them in how it should be used.
 
 Instruct patients to seek medical attention immediately if they experience any of the following:
 
-- Symptoms get worse
-- Need for more inhalations than usual of their rescue inhaler
-
-Patients should not stop therapy with BEVESPI AEROSPHERE without physician/provider guidance since symptoms may recur after discontinuation.
+- •Symptoms get worse
+- •Need for more inhalations than usual of their rescue inhaler
+- Patients should not stop therapy with BEVESPI AEROSPHERE without physician/provider guidance since symptoms may recur after discontinuation.
 
 Do Not Use Additional Long-Acting Beta2-Agonists: Instruct patients to not use other medicines containing a LABA.
 Patients should not use more than the recommended dose of BEVESPI AEROSPHERE.
