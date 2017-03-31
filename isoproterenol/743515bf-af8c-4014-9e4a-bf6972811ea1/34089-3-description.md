@@ -8,17 +8,7 @@ Isoproterenol hydrochloride is a racemic compound.
 
 Each milliliter of the sterile solution contains:
 
-Isoproterenol hydrochloride injection, USP 0.2 mg
-
-Edetate Disodium (EDTA) 0.2 mg
-
-Sodium Chloride 7.0 mg
-
-Sodium Citrate, Dihydrate 2.07 mg
-
-Citric Acid, Anhydrous 2.5 mg
-
-Water for Injection 1.0 mL
+1. Isoproterenol hydrochloride injection, USP 0.2 mg Edetate Disodium (EDTA) 0.2 mg Sodium Chloride 7.0 mg Sodium Citrate, Dihydrate 2.07 mg Citric Acid, Anhydrous 2.5 mg Water for Injection 1.0 mL
 
 The pH is adjusted between 3.5 and 4.5 with hydrochloric acid or sodium hydroxide.
 

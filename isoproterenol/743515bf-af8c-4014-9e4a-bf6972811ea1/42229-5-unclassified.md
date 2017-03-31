@@ -1,5 +1,3 @@
 # Isoproterenol Hydrochloride Injection, USP
 
-Sterile Injection
-
-Rx only
+Sterile Injection Rx only

@@ -6,9 +6,9 @@ NDC 0187-4330-05
 
 Rx only
 
-Isuprel™
+Isuprel®
 
-Isoproterenol HCl
+Isoproterenol HC1
 
 Injection, USP
 
@@ -24,4 +24,6 @@ Manufactured for:
 
 Valeant Pharmaceuticals North America LLC
 
-Bridgewater, NJ 08807
+Bridgewater, NJ 08807 USA
+
+©Valeant Pharmaceuticals North America LLC

@@ -13,11 +13,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Do not use if the injection is pinkish or darker than slightly yellow or contains a precipitate.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Bridgewater, NJ 08807
+Manufactured by: Hospira, Inc. McPherson, KS 67460 USA
 
-9445500 EN-3822
+9445502 Rev.
+08/2016
 
-Rev.
-02/15
+Isuprel is a registered trademark of Hospira, Inc. used under license.
+
+©Valeant Pharmaceuticals North America LLC
