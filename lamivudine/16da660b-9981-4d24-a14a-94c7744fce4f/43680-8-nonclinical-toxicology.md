@@ -32,6 +32,6 @@ It was negative in a cytogenetic study in rats given a single dose.
 
 Impairment of Fertility
 
-Lamivudine: Lamivudine did not affect male or female fertility in rats at doses up to 4,000 mg per kg per day, associated with concentrations approximately 42 times (male) or 63 times (female) higher than concentrations (Cmax) in humans at the dose of 300 mg.
+Lamivudine: Lamivudine did not affect male or female fertility in rats at doses up to 4,000 mg per kg per day, associated with concentrations approximately 42 times (male) or 63 times (female) higher than the concentrations (Cmax) in humans at the dose of 300 mg.
 
 Zidovudine: Zidovudine, administered to male and female rats at doses up to 450 mg per kg per day, which is 7 times the recommended adult dose (300 mg twice daily) based on body surface area, had no effect on fertility based on conception rates.

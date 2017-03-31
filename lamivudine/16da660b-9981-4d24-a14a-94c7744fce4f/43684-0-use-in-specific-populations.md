@@ -24,8 +24,8 @@ However, no embryotoxicity was observed at doses that produced systemic exposure
 
 Data
 
-Human Data: Lamivudine: Based on prospective reports to the APR of over 11,000 exposures to lamivudine during pregnancy resulting in live births (including over 4,500 exposed in the first trimester), there was no difference between the overall risk of birth defects for lamivudine (2.9%) compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 3.1% (95% CI: 2.6% to 3.7%) following first trimester exposure to lamivudine-containing regimens.
+Human Data: Lamivudine: Based on prospective reports to the APR of over 11,000 exposures to lamivudine during pregnancy resulting in live births (including over 4,500 exposed in the first trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 3.1% (95% CI: 2.6% to 3.6%) following first trimester exposure to lamivudine-containing regimens and 2.8% (95% CI: 2.5% to 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
 
 Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
 The trial assessed pharmacokinetics in 16 women at 36 weeks gestation using 150 mg lamivudine twice daily with zidovudine, 10 women at 38 weeks gestation using 150 mg lamivudine twice daily with zidovudine, and 10 women at 38 weeks gestation using lamivudine 300 mg twice daily without other antiretrovirals.
@@ -34,8 +34,8 @@ Lamivudine concentrations were generally similar in maternal, neonatal, and umbi
 In a subset of subjects, amniotic fluid specimens were collected following natural rupture of membranes and confirmed that lamivudine crosses the placenta in humans.
 Based on limited data at delivery, median (range) amniotic fluid concentrations of lamivudine were 3.9 (1.2 to 12.8)–fold greater compared with paired maternal serum concentration (n = 8).
 
-Zidovudine: Based on prospective reports to the APR of over 13,000 exposures to zidovudine during pregnancy resulting in live births (including over 4,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for zidovudine (2.9%) compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 3.2% (95% CI: 2.7% to 3.8%) following first trimester exposure to zidovudine-containing regimens.
+Zidovudine: Based on prospective reports to the APR of over 13,000 exposures to zidovudine during pregnancy resulting in live births (including over 4,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for zidovudine compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 3.2% (95% CI: 2.7% to 3.8%) following first trimester exposure to zidovudine-containing regimens and 2.8% (95% CI: 2.5% to 3.2%) following second/third trimester exposure to zidovudine-containing regimens.
 
 A randomized, double-blind, placebo-controlled trial was conducted in HIV-1-infected pregnant women to determine the utility of zidovudine for the prevention of maternal-fetal HIV-1 transmission.
 Zidovudine treatment during pregnancy reduced the rate of maternal-fetal HIV-1 transmission from 24.9% for infants born to placebo-treated mothers to 7.8% for infants born to mothers treated with zidovudine.

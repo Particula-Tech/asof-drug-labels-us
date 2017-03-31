@@ -64,4 +64,4 @@ Lamivudine is manufactured under agreement from Shire Pharmaceuticals Group plc 
 ©2017 the ViiV Healthcare group of companies.
 All rights reserved.
 
-CMB:7PI
+CMB:8PI
