@@ -16,8 +16,9 @@ Hepatic function should be monitored at regular intervals in patients with hepat
 
 ## Severe Cutaneous Adverse Reactions
 
-Severe skin reactions, such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), dermatitis exfoliative, erythema multiforme, and acute generalized exanthematous pustulosis (AGEP) have been reported in patients on ampicillin/sulbactam therapy.
-If a severe skin reaction occurs, ampicillin/sulbactam should be discontinued and appropriate therapy should be initiated (see CONTRAINDICATIONS and ADVERSE REACTIONS sections).
+UNASYN may cause severe skin reactions, such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), dermatitis exfoliative, erythema multiforme, and acute generalized exanthematous pustulosis (AGEP).
+If patients develop a skin rash they should be monitored closely and UNASYN discontinued if lesions progress.
+(see CONTRAINDICATIONS and ADVERSE REACTIONS sections).
 
 ## Clostridium difficile-Associated Diarrhea
 
