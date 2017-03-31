@@ -28,8 +28,8 @@ Neuromuscular Toxicity
 Advise patients that muscle pain or weakness, tingling or numbness in fingers or toes may occur with colchicine capsules alone or when it is used with certain other drugs.
 Patients developing any of these signs or symptoms must discontinue colchicine capsules and seek medical evaluation immediately.
 
-Manufactured by: West-Ward Pharmaceutical Corp. Eatontown, NJ 07724
+Manufactured by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-Revised: February 2015
+Revised January 2017
 
 Rx Only
