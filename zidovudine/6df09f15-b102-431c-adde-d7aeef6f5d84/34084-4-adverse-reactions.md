@@ -132,7 +132,9 @@ Cardiovascular
 
 Cardiomyopathy, syncope.
 
-Eye: Macular edema.
+Eye
+
+Macular edema.
 
 Gastrointestinal
 
@@ -146,7 +148,9 @@ Hematologic
 
 Aplastic anemia, hemolytic anemia, leukopenia, lymphadenopathy, pancytopenia with marrow hypoplasia, pure red cell aplasia.
 
-Hepatobiliary: Hepatitis, hepatomegaly with steatosis, jaundice, lactic acidosis, pancreatitis.
+Hepatobiliary
+
+Hepatitis, hepatomegaly with steatosis, jaundice, lactic acidosis, pancreatitis.
 
 Musculoskeletal
 
