@@ -11,7 +11,7 @@ Prescribers should calculate the appropriate dose of zidovudine capsules for eac
 Before prescribing zidovudine capsules, children should be assessed for the ability to swallow capsules.
 If a child is unable to reliably swallow a zidovudine capsule, the zidovudine syrup formulation should be prescribed.
 The recommended oral dosage in pediatric patients aged 4 weeks to less than 18 years and weighing greater than or equal to 4 kg is provided in Table 1.
-Zidovudine syrup should be used to provide accurate dosage when whole capsules are not appropriate.
+Zidovudine syrup should be used to provide accurate dosage when capsules are not appropriate.
 
 Table 1: Recommended Pediatric Oral Dosage of Zidovudine Capsules
 

@@ -16,15 +16,15 @@ If anemia or neutropenia develops, dosage interruption may be needed [see Dosage
 
 Myopathy and myositis with pathological changes, similar to that produced by HIV-1 disease, have been associated with prolonged use of zidovudine.
 
-## 5.4 Lactic Acidosis/Severe Hepatomegaly with Steatosis
+## 5.4 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including zidovudine and other antiretrovirals.
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues, including zidovudine and other antiretrovirals.
 A majority of these cases have been in women.
 Obesity and prolonged exposure to antiretroviral nucleoside analogues may be risk factors.
-Particular caution should be exercised when administering zidovudine to any patient with known risk factors for liver disease; however, cases have also been reported in patients with no known risk factors.
+Caution should be exercised when administering zidovudine to any patient with known risk factors for liver disease; however, cases have also been reported in patients with no known risk factors.
 Treatment with zidovudine should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
 
-## 5.5 Use with Interferon- and Ribavirin-Based Regimens in HIV-1/HCV Co-Infected Patients
+## 5.5 Use with Interferon- and Ribavirin-Based Regimens in HIV-1/HCV Co-infected Patients
 
 In vitro studies have shown ribavirin can reduce the phosphorylation of pyrimidine nucleoside analogues such as zidovudine.
 Although no evidence of a pharmacokinetic or pharmacodynamic interaction (e.g., loss of HIV-1/HCV virologic suppression) was seen when ribavirin was coadministered with zidovudine in HIV-1/HCV co-infected subjects [see Clinical Pharmacology (12.3)], exacerbation of anemia due to ribavirin has been reported when zidovudine is part of the HIV regimen.
@@ -33,19 +33,16 @@ Consideration should be given to replacing zidovudine in established combination
 Hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin.
 Patients receiving interferon alfa with or without ribavirin and zidovudine should be closely monitored for treatment-associated toxicities, especially hepatic decompensation, neutropenia, and anemia.
 Discontinuation of zidovudine should be considered as medically appropriate.
-Dose reduction or discontinuation of interferon alfa, ribavirin, or both should also be considered if worsening clinical toxicities are observed, including hepatic decompensation (e.g., Child-Pugh greater than 6) (see the complete prescribing information for interferon and ribavirin).
+Dose reduction or discontinuation of interferon alfa, ribavirin, or both should also be considered if worsening clinical toxicities are observed, including hepatic decompensation (e.g., Child-Pugh greater than 6).
+See the full prescribing information for interferon and ribavirin.
 
-## 5.6 Use with Other Zidovudine-containing Products
-
-Zidovudine should not be administered with combination products that contain zidovudine as one of their components (e.g., COMBIVIR® [lamivudine and zidovudine] tablets or TRIZIVIR® [abacavir sulfate, lamivudine, and zidovudine] tablets).
-
-## 5.7 Immune Reconstitution Syndrome
+## 5.6 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including zidovudine.
 During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
-## 5.8 Fat Redistribution
+## 5.7 Fat Redistribution
 
 Redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and “cushingoid appearance,” have been observed in patients receiving antiretroviral therapy.
 The mechanism and long-term consequences of these events are currently unknown.
