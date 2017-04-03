@@ -14,7 +14,7 @@ CII Rx only
 
 NDC 59417-102-10
 
-Vyvanse® lisdexamfetamine dimesylate) capsules
+Vyvanse® (lisdexamfetamine dimesylate) capsules
 
 20 mg
 
@@ -74,7 +74,7 @@ CII Rx only
 
 NDC 59417-107-10
 
-Vyvanse® lisdexamfetamine dimesylate) capsules
+Vyvanse® (lisdexamfetamine dimesylate) capsules
 
 70 mg
 
