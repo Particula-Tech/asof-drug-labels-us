@@ -83,7 +83,7 @@ Hydrocodone and its metabolites are eliminated primarily in the kidneys.
 Acetaminophen
 
 Acetaminophen is rapidly absorbed from the gastrointestinal tract and is distributed throughout most body tissues.
-A small fraction (10-25%) of acetaminophen is bound to plasma proteins.
+A small fraction (10% to 25%) of acetaminophen is bound to plasma proteins.
 The plasma half-life is 1.25 to 3 hours, but may be increased by liver damage and following overdosage.
 Elimination of acetaminophen is principally by liver metabolism (conjugation) and subsequent renal excretion of metabolites.
 Acetaminophen is primarily metabolized in the liver by first-order kinetics and involves three principal separate pathways: conjugation with glucuronide; conjugation with sulfate; and oxidation via the cytochrome, P450-dependent, mixed-function oxidase enzyme pathway to form a reactive intermediate metabolite, which conjugates with glutathione and is then further metabolized to form cysteine and mercapturic acid conjugates.

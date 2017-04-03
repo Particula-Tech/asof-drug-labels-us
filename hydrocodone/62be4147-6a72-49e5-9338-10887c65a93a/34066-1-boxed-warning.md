@@ -1,6 +1,4 @@
-# BOXED WARNING
-
-WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; CYTOCHROME P450 3A4 INTERACTION; HEPATOTOXICITY; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
+# WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; CYTOCHROME P450 3A4 INTERACTION; HEPATOTOXICITY; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
 Addiction, Abuse, and Misuse
 
@@ -34,7 +32,7 @@ Most of the cases of liver injury are associated with the use of acetaminophen a
 
 Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 
-Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death [see WARNINGS, PRECAUTIONS; Drug Interactions].
+Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death [see WARNINGS, PRECAUTIONS; Drug Interactions]
 
 - Reserve concomitant prescribing of Hydrocodone Bitartrate and Acetaminophen Tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
 - Limit dosages and durations to the minimum required.

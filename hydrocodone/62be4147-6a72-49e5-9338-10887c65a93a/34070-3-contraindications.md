@@ -2,10 +2,7 @@
 
 Hydrocodone Bitartrate and Acetaminophen Tablets are contraindicated in patients with:
 
-• Significant respiratory depression [see WARNINGS]
-
-• Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see WARNINGS]
-
-• Known or suspected gastrointestinal obstruction, including paralytic ileus [see WARNINGS]
-
-• Hypersensitivity to hydrocodone or acetaminophen (e.g., anaphylaxis) [see WARNINGS, ADVERSE REACTIONS]
+- Significant respiratory depression [see WARNINGS]
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see WARNINGS]
+- Known or suspected gastrointestinal obstruction, including paralytic ileus [see WARNINGS]
+- Hypersensitivity to hydrocodone or acetaminophen (e.g., anaphylaxis) [see WARNINGS, ADVERSE REACTIONS]
