@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA205835"
+  ],
+  "inn": "meropenem",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-207-20",
+    "55150-208-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "meropenem",
+      "name": "Meropenem"
+    }
+  ],
+  "setid": "bf1d3433-9e3f-40a0-8bff-c8ceaa8bab7c",
+  "source": "dailymed"
+}
