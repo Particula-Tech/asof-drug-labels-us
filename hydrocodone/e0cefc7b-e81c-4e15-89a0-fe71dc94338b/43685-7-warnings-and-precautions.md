@@ -2,7 +2,7 @@
 
 Addiction, Abuse, and Misuse
 
-Hydrocodone Bitartrate and Acetaminophen Tablets contains hydrocodone, a Schedule II controlled substance.
+Hydrocodone Bitartrate and Acetaminophen Tablets contain hydrocodone, a Schedule II controlled substance.
 As an opioid, Hydrocodone Bitartrate and Acetaminophen Tablets exposes users to the risks of addiction, abuse, and misuse [see DRUG ABUSE AND DEPENDENCE].
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Hydrocodone Bitartrate and Acetaminophen Tablets.
@@ -70,7 +70,7 @@ Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disea
 
 The use of Hydrocodone Bitartrate and Acetaminophen Tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease: Hydrocodone Bitartrate and Acetaminophen Tablets-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Hydrocodone Bitartrate and Acetaminophen Tablets [see WARNINGS; Life-Threatening Respiratory Depression].
+Patients with Chronic Pulmonary Disease: Hydrocodone Bitartrate and Acetaminophen Tablet-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Hydrocodone Bitartrate and Acetaminophen Tablets [see WARNINGS; Life-Threatening Respiratory Depression].
 
 Elderly, Cachetic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see WARNINGS; Life-Threatening Respiratory Depression].
 
@@ -117,7 +117,7 @@ There have been post-marketing reports of hypersensitivity and anaphylaxis assoc
 Clinical signs included swelling of the face, mouth, and throat, respiratory distress, urticaria, rash, pruritus, and vomiting.
 There were infrequent reports of life-threatening anaphylaxis requiring emergency medical attention.
 Instruct patients to discontinue Hydrocodone Bitartrate and Acetaminophen Tablets immediately and seek medical care if they experience these symptoms.
-Do not prescribe Hydrocodone Bitartrate and Acetaminophen Tablets for patients with acetaminophen allergy [see PRECAUTIONS; Information for Patients/Caregivers].
+Do not prescribe Hydrocodone Bitartrate and Acetaminophen Tablets for patients with acetaminophen allergy [see PRECAUTIONS; Information for Patients].
 
 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
@@ -144,7 +144,7 @@ Follow patients with a history of seizure disorders for worsened seizure control
 
 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Hydrocodone Bitartrate and Acetaminophen Tablets.
+Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Hydrocodone Bitartrate and Acetaminophen Tablets.
 In these patients, mixed agonist/antagonist and partial analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
 
 When discontinuing Hydrocodone Bitartrate and Acetaminophen Tablets, gradually taper the dosage [see DOSAGE AND ADMINISTRATION].
@@ -155,9 +155,9 @@ Do not abruptly discontinue Hydrocodone Bitartrate and Acetaminophen Tablets [se
 Risks of Driving and Operating Machinery
 
 Hydrocodone Bitartrate and Acetaminophen Tablets may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
-Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of Hydrocodone Bitartrate and Acetaminophen Tablets and know how they will react to the medication [see PRECAUTIONS; Information for Patients/Caregivers].
+Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of Hydrocodone Bitartrate and Acetaminophen Tablets and know how they will react to the medication [see PRECAUTIONS; Information for Patients].
 
-## Information for Patients/Caregivers
+## Information for Patients
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
@@ -188,12 +188,12 @@ Instruct patients to inform their healthcare providers if they are taking, or pl
 
 Monoamine Oxidase Inhibitor (MAOI) Interaction
 
-Inform patients to avoid taking Hydrocodone and Acetaminophen Tablets while using any drugs that inhibit monoamine oxidase.
-Patients should not start MAOIs while taking Hydrocodone and Acetaminophen Tablets [see PRECAUTIONS; Drug Interactions].
+Inform patients to avoid taking Hydrocodone Bitartrate and Acetaminophen Tablets while using any drugs that inhibit monoamine oxidase.
+Patients should not start MAOIs while taking Hydrocodone Bitartrate and Acetaminophen Tablets [see PRECAUTIONS; Drug Interactions].
 
 Adrenal Insufficiency
 
-Inform patients that Hydrocodone Bitartrate and Acetaminophen Tablets opioids could cause adrenal insufficiency, a potentially life-threatening condition.
+Inform patients that Hydrocodone Bitartrate and Acetaminophen Tablets could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
 Advise patients to seek medical attention if they experience a constellation of these symptoms [see WARNINGS].
 
@@ -203,7 +203,7 @@ Instruct patients how to properly take Hydrocodone Bitartrate and Acetaminophen 
 
 Maximum Daily Dose of Acetaminophen
 
-Inform patients not to take more than 4000 milligrams of acetaminophen per day.
+Inform patients not to take more than 4,000 milligrams of acetaminophen per day.
 Advise patients to call their prescriber if they take more than the recommended dose.
 
 Hypotension
@@ -247,7 +247,7 @@ Advise patients of the potential for severe constipation, including management i
 
 Disposal of Unused Hydrocodone Bitartrate and Acetaminophen Tablets
 
-Advise patients to dispose of unused hydrocodone biatartrate and acetaminophen tablets by flushing unused tablets down the toilet.
+Advise patients to dispose of unused Hydrocodone Bitartrate and Acetaminophen Tablets by flushing unused tablets down the toilet.
 
 Laboratory Tests
 
@@ -337,14 +337,14 @@ Long-term studies to evaluate the carcinogenic potential of the combination of H
 Long-term studies in mice and rats have been completed by the National Toxicology Program to evaluate the carcinogenic potential of acetaminophen.
 In 2-year feeding studies, F344/N rats and B6C3F1 mice were fed a diet containing acetaminophen up to 6000 ppm.
 Female rats demonstrated equivocal evidence of carcinogenic activity based on increased incidences of mononuclear cell leukemia at 0.8 times the maximum human daily dose (MHDD) of 4 grams/day, based on a body surface area comparison.
-In contrast, there was no evidence of carcinogenic activity in male rats that received up to 0.7 times or mice at up to 1.2-1.4 times the MHDD, based on a body surface area comparison.
+In contrast, there was no evidence of carcinogenic activity in male rats that received up to 0.7 times or mice at up to 1.2 to 1.4 times the MHDD, based on a body surface area comparison.
 
-Mutagenisis
+Mutagenesis
 
 In the published literature, acetaminophen has been reported to be clastogenic when administered at 1500 mg/kg/day to the rat model (3.6-times the MHDD, based on a body surface area comparison).
 In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8-times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
 
-Inpairment of Fertility
+Impairment of Fertility
 
 In studies conducted by the National Toxicology Program, fertility assessments with acetaminophen have been completed in Swiss CD-1 mice via a continuous breeding study.
 There were no effects on fertility parameters in mice consuming up to 1.7 times the MHDD of acetaminophen, based on a body surface area comparison.

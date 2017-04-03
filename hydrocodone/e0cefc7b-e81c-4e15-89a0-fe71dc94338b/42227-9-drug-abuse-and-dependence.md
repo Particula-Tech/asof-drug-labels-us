@@ -6,7 +6,7 @@ Hydrocodone Bitartrate and Acetaminophen Tablets contain hydrocodone, a Schedule
 
 Abuse
 
-Hydrocodone Bitartrate and acetaminophen tablets contain hydrocodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, hydromorphone, methadone, morphine, oxycodone, oxymorphone, and tapentadol, can be abused and is subject to misuse, addiction, and criminal diversion [see WARNINGS].
+Hydrocodone Bitartrate and Acetaminophen Tablets contain hydrocodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, hydromorphone, methadone, morphine, oxycodone, oxymorphone, and tapentadol, can be abused and is subject to misuse, addiction, and criminal diversion [see WARNINGS].
 
 All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 
@@ -23,7 +23,7 @@ Abuse and addiction are separate and distinct from physical dependence and toler
 Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
 In addition, abuse of opioids can occur in the absence of true addiction.
 
-Hydrocodone bitartrate and acetaminophen tablets, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Hydrocodone Bitartrate and Acetaminophen Tablets, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.

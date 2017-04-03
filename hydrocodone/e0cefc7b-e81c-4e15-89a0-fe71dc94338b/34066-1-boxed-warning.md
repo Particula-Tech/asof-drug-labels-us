@@ -1,11 +1,9 @@
-# BOXED WARNING
-
 WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; CYTOCHROME P450 3A4 INTERACTION; HEPATOTOXICITY; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
 Addiction, Abuse, and Misuse
 
-Hydrocodone Bitartrate And Acetaminophen Tablets expose patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
-Assess each patient’s risk prior to prescribing Hydrocodone Bitartrate And Acetaminophen Tablets, and monitor all patients regularly for the development of these behaviors and conditions [see WARNINGS].
+Hydrocodone Bitartrate and Acetaminophen Tablets expose patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
+Assess each patient’s risk prior to prescribing Hydrocodone Bitartrate and Acetaminophen Tablets, and monitor all patients regularly for the development of these behaviors and conditions [see WARNINGS].
 
 Life-Threatening Respiratory Depression
 
