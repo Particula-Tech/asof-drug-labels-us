@@ -12,7 +12,7 @@ Olanzapine tablets, USP are intended for oral administration only.
 Each tablet contains olanzapine equivalent to 2.5 mg (8 μmol), 5 mg (16 μmol), 7.5 mg (24 μmol), 10 mg (32 μmol), 15 mg (48 μmol), or 20 mg (64 μmol).
 Inactive ingredients are crospovidone, magnesium stearate, mannitol and microcrystalline cellulose.
 
-Olanzapine orally disintegrating tablets are intended for oral administration only.
+For olanzapine tablets, USP: Meets USP Dissolution Test 2.
 
 Olanzapine orally disintegrating tablets, USP are intended for oral administration only.
 

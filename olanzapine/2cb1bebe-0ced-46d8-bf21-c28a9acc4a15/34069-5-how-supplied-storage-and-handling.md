@@ -98,7 +98,7 @@ Bottles of 1000 NDC 13668-171-10
 
 100 Unit dose Tablets NDC 13668-171-74
 
-For Olanzapine Orally Disintegrating, USP
+For Olanzapine Orally Disintegrating Tablets, USP
 
 The tablets are available as follows:
 
