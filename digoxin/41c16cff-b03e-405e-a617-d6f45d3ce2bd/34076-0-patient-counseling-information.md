@@ -14,4 +14,4 @@ Advise patients that digoxin is used to treat heart failure and heart arrhythmia
 
 Manufactured By: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-Revised August 2015
+Revised December 2016

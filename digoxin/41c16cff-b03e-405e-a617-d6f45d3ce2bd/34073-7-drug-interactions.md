@@ -21,7 +21,6 @@ Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter 
 | Erythromycin | 100% | NA |  |
 | Itraconazole | 80% | NA |  |
 | Lapatinib | NA | 180% |  |
-| Nitrendipine | 57% | 15% |  |
 | Propafenone | NA | 60 to 270% |  |
 | Quinidine | 100% | NA |  |
 | Ranolazine | 50% | NA |  |
@@ -44,14 +43,14 @@ Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter 
 | Spironolactone | 25% | NA |  |
 | Telmisartan | 20 to 49% | NA |  |
 | Ticagrelor | 31% | 28% |  |
-| Tolvaptan | 30% | NA |  |
-| Trimethoprim | 22% to 28% | NA |  |
+| Tolvaptan | 30% | 20 % |  |
+| Trimethoprim | 22 to 28% | NA |  |
 | Digoxin concentrations increased, but magnitude is unclear |  |  |  |
 | Alprazolam, azithromycin, cyclosporine, diclofenac, diphenoxylate, epoprostenol, esomeprazole, ibuprofen, ketoconazole, lansoprazole, metformin, omeprazole |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. |
 | Digoxin concentrations decreased |  |  |  |
 | Acarbose, activated charcoal, albuterol, antacids, certain cancer chemotherapy or radiation therapy, cholestyramine, colestipol, extenatide, kaolin-pectin, meals high in bran, metoclopramide, miglitol, neomycin, penicillamine, phenytoin, rifampin, St. John’s Wort, sucralfate and sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20 to 40 % as necessary. |
 
-NA – Not available/reported
+NA =Not available/reported
 
 ## 7.3 Potentially Significant Pharmacodynamic Drug Interactions
 
@@ -68,6 +67,7 @@ Because of considerable variability of pharmacodynamic interactions, the dosage 
 | Neuromuscular Blocking Agents | Succinylcholine | May cause sudden extrusion of potassium from muscle cells causing arrhythmias in patients taking digoxin. |
 | Supplements | Calcium | If administered rapidly by intravenous route, can produce serious arrhythmias in digitalized patients. |
 | Beta-adrenergic blockers and calcium channel blockers |  | Additive effects on AV node conduction can result in bradycardia and advanced or complete heart block. |
+| Hyperpolarization-activated cyclic nucleotide-gated channel blocker | Ivabradine | Can increase the risk of bradycardia. |
 
 ## 7.4 Drug/Laboratory Test Interactions
 
