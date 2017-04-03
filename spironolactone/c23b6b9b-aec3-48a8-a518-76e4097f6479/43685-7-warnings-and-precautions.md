@@ -6,16 +6,16 @@ Excessive potassium intake may cause hyperkalemia in patients receiving spironol
 
 Concomitant administration of spironolactone with the following drugs or potassium sources may lead to severe hyperkalemia:
 
-- other potassium-sparing diuretics
-- ACE inhibitors
-- angiotensin II antagonists
-- aldosterone blockers
-- non-steroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin
-- heparin and low molecular weight heparin
-- other drugs or conditions known to cause hyperkalemia
-- potassium supplements
-- diet rich in potassium
-- salt substitutes containing potassium
+- •other potassium-sparing diuretics
+- •ACE inhibitors
+- •angiotensin II antagonists
+- •aldosterone blockers
+- •non-steroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin
+- •heparin and low molecular weight heparin
+- •other drugs or conditions known to cause hyperkalemia
+- •potassium supplements
+- •diet rich in potassium
+- •salt substitutes containing potassium
 
 Spironolactone should not be administered concurrently with other potassium-sparing diuretics.
 Spironolactone, when used with ACE inhibitors or indomethacin, even in the presence of a diuretic, has been associated with severe hyperkalemia.
