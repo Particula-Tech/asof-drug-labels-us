@@ -31,11 +31,11 @@ Patients or their physicians should call 1-800-77-AMGEN (1-800-772-6436) to enro
 
 The safety and efficacy of Sensipar in pediatric patients have not been established.
 Sensipar is not indicated for use in pediatric patients.
-A fatal outcome was reported in a pediatric clinical trial patient with severe hypocalcaemia [see Warnings and Precautions (5.1)].
+A fatal outcome was reported in a pediatric clinical trial patient with severe hypocalcemia [see Warnings and Precautions (5.1)].
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects (n=1136) in clinical studies of Sensipar, 26 percent were 65 and over, and 9 percent were 75 and over.
+Of the total number of subjects (n = 1136) in clinical studies of Sensipar, 26 percent were 65 and over, and 9 percent were 75 and over.
 No overall differences in the safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Studies (14) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
@@ -44,4 +44,4 @@ No dosage adjustment is necessary for renal impairment [see Clinical Pharmacolog
 
 ## 8.7 Hepatic Impairment
 
-Patients with moderate and severe hepatic impairment should have serum calcium, serum phosphorus, and iPTH levels monitored closely throughout treatment with Sensipar because cinacalcet exposure (AUC0-infinite) is increased by 2.4 and 4.2 fold, respectively, in these patients [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+Patients with moderate and severe hepatic impairment should have serum calcium, serum phosphorus, and iPTH levels monitored closely throughout treatment with Sensipar because cinacalcet exposure (AUC0-infinite) is increased by 2.4 and 4.2 fold, respectively, in these patients [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].

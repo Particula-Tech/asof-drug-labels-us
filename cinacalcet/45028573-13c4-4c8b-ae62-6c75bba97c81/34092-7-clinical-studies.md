@@ -25,36 +25,43 @@ Similar results were observed when either the iPTH or biointact PTH (biPTH) assa
 Table 7.
 Effects of Sensipar on iPTH, Ca x P, Serum Calcium, and Serum Phosphorus in 6-month Phase 3 Studies (Patients on Dialysis)
 
-|  |  | Study 1 |  | Study 2 |  | Study 3 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Placebo | Sensipar | Placebo | Sensipar | Placebo | Sensipar |
-|  |  | (n = 205) | (n = 205) | (n = 165) | (n = 166) | (n = 101) | (n = 294) |
-| iPTH |  |  |  |  |  |  |  |
-|  | Baseline (pg/mL):Median Mean (SD) | 535651 (398) | 537636 (341) | 556 630 (317) | 547652 (372) | 670832 (486) | 703848 (685) |
-|  | Evaluation Phase (pg/mL) | 563 | 275 | 592 | 238 | 737 | 339 |
-|  | Median Percent Change | +3.8 | -48.3 | +8.4 | -54.1 | +2.3 | -48.2 |
-|  | Patients Achieving Primary Endpoint (iPTH ≤ 250 pg/mL) (%)iPTH value based on averaging over the evaluation phase (defined as weeks 13 to 26 in studies 1 and 2 and weeks 17 to 26 in study 3). | 4% | 41%p < 0.001 compared with placebo; p-values presented for primary endpoint only. | 7% | 46% | 6% | 35% |
-|  | Patients Achieving ≥ 30% Reduction in iPTH (%) | 11% | 61% | 12% | 68% | 10% | 59% |
-|  | Patients Achieving iPTH ≤ 250 pg/mL and Ca x P < 55 mg2/dL2 (%) | 1% | 32% | 5% | 35% | 5% | 28% |
-| Ca x P |  |  |  |  |  |  |  |
-|  | Baseline (mg2/dL2) | 62 | 61 | 61 | 61 | 61 | 59 |
-|  | Evaluation Phase (mg2/dL2) | 59 | 52 | 59 | 47 | 57 | 48 |
-|  | Median Percent Change | -2.0 | -14.9 | -3.1 | -19.7 | -4.8 | -15.7 |
-| Calcium |  |  |  |  |  |  |  |
-|  | Baseline (mg/dL) | 9.8 | 9.8 | 9.9 | 10.0 | 9.9 | 9.8 |
-|  | Evaluation Phase (mg/dL) | 9.9 | 9.1 | 9.9 | 9.1 | 10.0 | 9.1 |
-|  | Median Percent Change | +0.5 | -5.5 | +0.1 | -7.4 | +0.3 | -6.0 |
-| Phosphorus |  |  |  |  |  |  |  |
-|  | Baseline (mg/dL) | 6.3 | 6.1 | 6.1 | 6.0 | 6.1 | 6.0 |
-|  | Evaluation Phase (mg/dL) | 6.0 | 5.6 | 5.9 | 5.1 | 5.6 | 5.3 |
-|  | Median Percent Change | -1.0 | -9.0 | -2.4 | -12.4 | -5.6 | -8.6 |
-| Values shown are medians unless indicated otherwise. |  |  |  |  |  |  |  |
+|  |  |  |  | Study 1 |  | Study 2 |  | Study 3 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Placebo | Sensipar | Placebo | Sensipar | Placebo | Sensipar |
+|  |  |  |  | (n = 205) | (n = 205) | (n = 165) | (n = 166) | (n = 101) | (n = 294) |
+| iPTH |  |  |  |  |  |  |  |  |  |
+|  |  | Baseline (pg/mL): Median Mean (SD) |  | 535 651 (398) | 537 636 (341) | 556 630 (317) | 547 652 (372) | 670 832 (486) | 703 848 (685) |
+|  |  | Evaluation Phase (pg/mL) |  | 563 | 275 | 592 | 238 | 737 | 339 |
+|  |  | Median Percent Change |  | +3.8 | -48.3 | +8.4 | -54.1 | +2.3 | -48.2 |
+|  |  | Patients Achieving Primary Endpoint (iPTH ≤ 250 pg/mL) (%)a |  | 4% | 41%** | 7% | 46%** | 6% | 35%** |
+|  |  | Patients Achieving ≥ 30% Reduction in iPTH (%)a |  | 11% | 61% | 12% | 68% | 10% | 59% |
+|  |  | Patients Achieving iPTH ≤ 250 pg/mL and Ca x P < 55 mg2/dL2 (%) |  | 1% | 32% | 5% | 35% | 5% | 28% |
+| Ca x P |  |  |  |  |  |  |  |  |  |
+|  |  | Baseline (mg2/dL2) |  | 62 | 61 | 61 | 61 | 61 | 59 |
+|  |  | Evaluation Phase (mg2/dL2) |  | 59 | 52 | 59 | 47 | 57 | 48 |
+|  |  | Median Percent Change |  | -2.0 | -14.9 | -3.1 | -19.7 | -4.8 | -15.7 |
+| Calcium |  |  |  |  |  |  |  |  |  |
+|  | Baseline (mg/dL) |  |  | 9.8 | 9.8 | 9.9 | 10.0 | 9.9 | 9.8 |
+|  | Evaluation Phase (mg/dL) |  |  | 9.9 | 9.1 | 9.9 | 9.1 | 10.0 | 9.1 |
+|  | Median Percent Change |  |  | +0.5 | -5.5 | +0.1 | -7.4 | +0.3 | -6.0 |
+| Phosphorus |  |  |  |  |  |  |  |  |  |
+|  | Baseline (mg/dL) |  |  | 6.3 | 6.1 | 6.1 | 6.0 | 6.1 | 6.0 |
+|  | Evaluation Phase (mg/dL) |  |  | 6.0 | 5.6 | 5.9 | 5.1 | 5.6 | 5.3 |
+|  | Median Percent Change |  |  | -1.0 | -9.0 | -2.4 | -12.4 | -5.6 | -8.6 |
+| ** p < 0.001 compared with placebo; p-values presented for primary endpoint only. a iPTH value based on averaging over the evaluation phase (defined as weeks 13 to 26 in studies 1 and 2 and weeks 17 to 26 in study 3). Values shown are medians unless indicated otherwise. |  |  |  |  |  |  |  |  |  |
+
+Figure 1.
+Mean (SE) iPTH Values (Pooled Phase 3 Studies)
 
 Data are presented for patients who completed the studies; Placebo (n = 342), Sensipar (n = 439).
+
+Figure 2.
+Mean (SE) Ca x P Values (Pooled Phase 3 Studies)
 
 Data are presented for patients who completed the studies; Placebo (n = 342), Sensipar (n = 439).
 
 Reductions in iPTH and Ca x P were maintained for up to 12 months of treatment.
+
 Sensipar decreased iPTH and Ca x P levels regardless of disease severity (i.e., baseline iPTH value), duration of dialysis, and whether or not vitamin D sterols were administered.
 Approximately 60% of patients with mild (iPTH ≥ 300 to ≤ 500 pg/mL), 41% with moderate (iPTH > 500 to 800 pg/mL), and 11% with severe (iPTH > 800 pg/mL) secondary HPT achieved a mean iPTH value of ≤ 250 pg/mL.
 Plasma iPTH levels were measured using the Nichols IRMA.
@@ -73,7 +80,11 @@ At the end of the titration phase, the mean (SE) serum calcium was 12.4 (0.5) mg
 Figure 3 illustrates mean serum calcium (mg/dL) over time for all patients still on study at each time point from the beginning of titration to study visit week 80.
 Daily dose during the study ranged from 30 mg twice daily to 90 mg four times daily.
 
+Figure 3.
+Serum Calcium Values in Patients With Parathyroid Carcinoma Receiving Sensipar at Baseline, Titration, and Maintenance Phase
+
 n = Number of patients with non-missing values at the timepoint.
+
 End of Titration (EOT) phase could occur at any visit from week 2 to 16.
 Patients at EOT are those who completed titration.
 
@@ -81,7 +92,7 @@ Patients at EOT are those who completed titration.
 
 Seventeen patients with severe hypercalcemia due to primary HPT, who had failed or had contraindications to parathyroidectomy, participated in an open-label, single-arm study.
 The study consisted of two phases, a dose-titration phase and a maintenance phase.
-In this trial severe hypercalcemia was defined as a screening serum calcium level of > 12.5 mg/dL.
+In this trial, severe hypercalcemia was defined as a screening serum calcium level of > 12.5 mg/dL.
 Patients initially received 30 mg cinacalcet twice daily and then were titrated every 2 weeks to a maximum dose of 90 mg 4 times daily.
 Dosage escalation during the variable-length (2 to 16 weeks) titration phase continued until the serum calcium concentration was ≤ 10 mg/dL (2.5 mmol/L), the patient reached the highest possible dosage, or adverse events precluded further dosage increases.
 
@@ -92,14 +103,18 @@ At the end of the titration phase the mean (SE) serum calcium was 10.4 (0.3) mg/
 Figure 4 illustrates mean serum calcium (mg/dL) over time for all patients still on study at each time point from the beginning of titration to study visit week 80.
 Daily dose during the study ranged from 30 mg twice a day to 90 mg four times a day.
 
+Figure 4.
+Mean Serum Calcium (SE) at Baseline, End of Titration, and Scheduled Maintenance Visits (Patients with Severe intractable primary HPT)
+
 n = Number of patients with non-missing values at the timepoint.
+
 End of Titration (EOT) phase could occur at any visit from week 2 to 16.
 Patients at EOT are those who completed titration.
 
-Sixty-seven patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (> 11.3 mg/dl [2.82 mmol/L] and ≤ 12.5 mg/dl [3.12 mmol/L]), but who were unable to undergo parathyroidectomy participated in a randomized, double-blind, placebo-controlled study.
+Sixty-seven patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (> 11.3 mg/dL [2.82 mmol/L] and ≤ 12.5 mg/dL [3.12 mmol/L]), but who were unable to undergo parathyroidectomy participated in a randomized, double-blind, placebo-controlled study.
 A total of 33 patients were randomized to Sensipar and 34 patients randomized to placebo.
 The mean age of the patients was 72 years, 52% were female, 61% were Caucasian, and 5% were Blacks.
 The study started with a 12-week titration phase, followed by a 16-week efficacy assessment phase.
 Cinacalcet was initiated at a dose of 30 mg twice daily and titrated to maintain a corrected total serum calcium concentration within the normal range.
-During the efficacy period a significantly higher percentage of cinacalcet treated patients compared with the placebo treated patients achieved mean corrected total serum calcium concentration (≤ 10.3 mg/dL [2.57 mmol/L], 75.8% vs 0%, p < 0.001) and ≥ 1 mg/dL [0.25 mmol/L] decrease from baseline in mean corrected total serum calcium concentration (84.8% vs 5.9%, p < 0.001).
+During the efficacy period a significantly higher percentage of cinacalcet-treated patients compared with the placebo-treated patients achieved mean corrected total serum calcium concentration (≤ 10.3 mg/dL [2.57 mmol/L], 75.8% vs 0%, p < 0.001) and ≥ 1 mg/dL [0.25 mmol/L] decrease from baseline in mean corrected total serum calcium concentration (84.8% vs 5.9%, p < 0.001).
 The median dose of Sensipar at the completion of the study was 60 mg/day.

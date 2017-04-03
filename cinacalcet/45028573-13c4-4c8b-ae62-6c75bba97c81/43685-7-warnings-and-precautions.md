@@ -7,7 +7,7 @@ Life threatening events and fatal outcomes associated with hypocalcemia have bee
 Potential manifestations of hypocalcemia include paresthesias, myalgias, muscle cramping, tetany, and convulsions.
 
 Sensipar is not indicated for patients with CKD not on dialysis [see Indications and Usage (1)].
-In patients with secondary HPT and CKD not on dialysis, the long term safety and efficacy of Sensipar have not been established.
+In patients with secondary HPT and CKD not on dialysis, the long-term safety and efficacy of Sensipar have not been established.
 Clinical studies indicate that Sensipar-treated patients with CKD not on dialysis have an increased risk for hypocalcemia compared with Sensipar-treated patients with CKD on dialysis, which may be due to lower baseline calcium levels.
 In a phase 3 study of 32 weeks duration and including 404 patients with CKD not on dialysis (302 cinacalcet, 102 placebo), in which the median dose for cinacalcet was 60 mg per day at the completion of the study, 80% of Sensipar-treated patients experienced at least one serum calcium value < 8.4 mg/dL compared with 5% of patients receiving placebo.
 
@@ -26,7 +26,16 @@ Hypotension and/or Worsening Heart Failure
 
 In postmarketing safety surveillance, isolated, idiosyncratic cases of hypotension, worsening heart failure, and/or arrhythmia have been reported in patients with impaired cardiac function, in which a causal relationship to Sensipar could not be completely excluded and which may be mediated by reductions in serum calcium levels [see Adverse Reactions (6.2)].
 
-## 5.2 Adynamic Bone Disease
+## 5.2 Upper Gastrointestinal Bleeding
+
+Cases of gastrointestinal bleeding, mostly upper gastrointestinal bleeding, have occurred in patients using calcimimetics, including Sensipar, from postmarketing and clinical trial sources.
+The exact cause of GI bleeding in these patients is unknown.
+
+Patients with risk factors for upper GI bleeding (such as known gastritis, esophagitis, ulcers or severe vomiting) may be at increased risk for GI bleeding when receiving Sensipar treatment.
+Monitor patients for worsening of common GI adverse reactions of nausea and vomiting associated with Sensipar [see Adverse Reactions (6.1)] and for signs and symptoms of GI bleeding and ulcerations during Sensipar therapy.
+Promptly evaluate and treat any suspected GI bleeding.
+
+## 5.3 Adynamic Bone Disease
 
 Adynamic bone disease may develop if iPTH levels are suppressed below 100 pg/mL.
 One clinical study evaluated bone histomorphometry in patients treated with Sensipar for 1 year.
@@ -35,7 +44,7 @@ Two of these patients had iPTH levels below 100 pg/mL at multiple time points du
 In three 6-month, phase 3 studies conducted in patients with CKD on dialysis, 11% of patients treated with Sensipar had mean iPTH values below 100 pg/mL during the efficacy-assessment phase.
 If iPTH levels decrease below 150 pg/mL in patients treated with Sensipar, the dose of Sensipar and/or vitamin D sterols should be reduced or therapy discontinued.
 
-## 5.3 Hepatic Impairment
+## 5.4 Hepatic Impairment
 
 Cinacalcet exposure, as defined by the Area Under the Plasma Drug Concentration Time Curve (AUC0-infinite), is increased by 2.4 and 4.2 fold in patients with moderate and severe hepatic impairment, respectively.
 These patients should be monitored throughout treatment with Sensipar [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
