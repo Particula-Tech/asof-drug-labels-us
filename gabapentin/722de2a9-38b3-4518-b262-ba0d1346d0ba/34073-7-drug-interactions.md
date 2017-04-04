@@ -22,4 +22,4 @@ It is recommended that gabapentin be taken at least 2 hours following Maalox adm
 
 ## 7.4 Drug/Laboratory Test Interactions
 
-Because false positive readings were reported withthe Ames N-Multistix SG® dipstick test for urinary protein whengabapentin was added to other antiepileptic drugs, the more specificsulfosalicylic acid precipitation procedure is recommended to determine thepresence of urine protein.
+Because false positive readings were reported with the Ames N-Multistix SG® dipstick test for urinary protein when gabapentin was added to other antiepileptic drugs, the more specific sulfosalicylic acid precipitation procedure is recommended to determine the presence of urine protein.

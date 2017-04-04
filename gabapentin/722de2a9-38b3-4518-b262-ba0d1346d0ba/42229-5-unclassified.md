@@ -100,8 +100,6 @@ What is gabapentin?
 
 Gabapentin is a prescription medicine used to treat:
 
-· Pain from damaged nerves (postherpetic pain) that follows healing of shingles (a painful rash that comes after a herpes zoster infection) in adults.
-
 · Partial seizures when taken together with other medicines in adults and children 3 years of age and older with seizures.
 
 Who should not take gabapentin?
@@ -225,7 +223,7 @@ You can ask your healthcare provider or pharmacist for information about gabapen
 
 What are the ingredients in gabapentin?
 
-Active ingredient: gabapentin
+Active ingredient: gabapentin USP
 
 Inactive ingredients in the capsules: anhydrous lactose, cornstarch, and talc.
 The 100-mg capsule shell also contains: gelatin, sodium lauryl sulfate, and titanium dioxide.
@@ -245,8 +243,8 @@ Mumbai – 400 013, INDIA
 
 Distributed by:
 
-Ascend Laboratories, LCC.
+Ascend Laboratories, LCC
 
-Montvale, NJ 07645
+Parsippany, NJ 07054
 
-Revised October 2015 PT 1702-03
+Revised:October 2016

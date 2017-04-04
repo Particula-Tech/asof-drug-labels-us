@@ -34,6 +34,8 @@ To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Spe
 This product’s label may have been updated.
 For full prescribing information, please visit www.dailymed.nlm.nih.gov.
 
+Trademarks are the property of their respective owners.
+
 Manufactured by:
 
 Alkem Laboratories Limited
@@ -46,4 +48,4 @@ Distributed by:
 
 Ascend Laboratories, LCC
 
-Montvale, NJ 07645 PT 1702-03
+Parsippany, NJ 07054 Revised: January 2017 PT 1702-05
