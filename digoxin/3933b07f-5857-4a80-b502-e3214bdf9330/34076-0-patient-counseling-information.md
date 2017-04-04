@@ -18,8 +18,8 @@ Distributed by:
 
 WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
 
-Revised August 2016
+Revised January 2017
 
-462-636-03
+462-636-04
 
-PIN299-WES/4
+PIN299-WES/5
