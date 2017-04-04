@@ -20,7 +20,7 @@ It should be noted that aripiprazole is not approved as a single agent for treat
 Pathological Gambling and Other Compulsive Behaviors
 
 Advise patients and their caregivers of the possibility that they may experience compulsive urges to shop, intense urges to gamble, compulsive sexual urges, binge eating and/or other compulsive urges and the inability to control these urges while taking aripiprazole.
-In some cases, but not all, the urges were reported to have stopped when the dose was reduced or stopped [see WARNINGS AND PRECAUTIONS, (5.7)].
+In some cases, but not all, the urges were reported to have stopped when the dose was reduced or stopped [see WARNINGS AND PRECAUTIONS (5.7)].
 
 Interference with Cognitive and Motor Performance
 
@@ -48,7 +48,7 @@ Manufactured For:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8062661 Revised November 2016
+8063672 Revised March 2017
 
 | MEDICATION GUIDE Aripiprazole (AR-i-PIP-ra-zole) Tablets, USP |
 | --- |
