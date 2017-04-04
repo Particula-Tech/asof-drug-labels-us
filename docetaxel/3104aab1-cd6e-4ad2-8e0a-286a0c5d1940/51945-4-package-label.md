@@ -98,3 +98,44 @@ Check concentration prior to preparation.
 See package insert for complete instructions.
 
 # 434446
+
+# PRINCIPAL DISPLAY PANEL - 8 mL Vial Label
+
+8 mL Multi-use Vial
+
+Sterile
+
+NDC 0409-0368-01
+
+Docetaxel Injection, USP 160 mg/8 mL
+
+(20 mg/mL)
+
+For Intravenous Infusion only
+
+Rx only
+
+Ready to add to infusion solution.
+Check concentration prior to preparation.
+See package insert for complete instructions.
+
+# PRINCIPAL DISPLAY PANEL - 8 mL Vial Carton
+
+160 mg/8 mL (20 mg/mL)
+
+1 x 8 mL Multi-use vial
+
+NDC 0409-0368-01
+
+Docetaxel Injection, USP 160 mg/8 mL
+
+(20 mg/mL)
+
+For Intravenous Infusion only
+
+Ready to add to infusion solution
+
+Caution: Cytotoxic Agent
+
+Check concentration prior to preparation.
+See package insert for complete instructions.

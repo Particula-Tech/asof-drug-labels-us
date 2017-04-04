@@ -5,9 +5,10 @@
 Docetaxel Injection, USP is supplied in single use or multi-use vials as a sterile, pyrogen-free, non-aqueous solution.
 The following strengths are available in a one-vial formulation:
 
-- •Docetaxel Injection, USP 20 mg/1 mL single use vials in cartons containing 1 vial each (NDC 0409-0366-01)
-- •Docetaxel Injection, USP 80 mg/4 mL multi-use vials in cartons containing 1 vial each (NDC 0409-0367-01)
-- •Docetaxel Injection, USP 120 mg/6 mL multi-use vials in cartons containing 1 vial each (NDC 0409-0369-01)
+- Docetaxel Injection, USP 20 mg/1 mL single use vials in cartons containing 1 vial each (NDC 0409-0366-01)
+- Docetaxel Injection, USP 80 mg/4 mL multi-use vials in cartons containing 1 vial each (NDC 0409-0367-01)
+- Docetaxel Injection, USP 120 mg/6 mL multi-use vials in cartons containing 1 vial each (NDC 0409-0369-01)
+- Docetaxel Injection, USP 160 mg/8 mL multi-use vials in cartons containing 1 vial each (NDC 0409-0368-01)
 
 ## 16.2 Storage
 

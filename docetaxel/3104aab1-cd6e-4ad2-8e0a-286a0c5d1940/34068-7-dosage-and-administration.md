@@ -116,9 +116,9 @@ Table 1 - Recommended Dose Modifications for Toxicities in Patients Treated with
 | Stomatitis/mucositis grade 3 | First episode: reduce fluorouracil dose by 20%. Second episode: stop fluorouracil only, at all subsequent cycles. Third episode: reduce Docetaxel Injection dose by 20%. |
 | Stomatitis/mucositis grade 4 | First episode: stop fluorouracil only, at all subsequent cycles. Second episode: reduce Docetaxel Injection dose by 20%. |
 
-Liver dysfunction: In case of AST/ALT >2.5 to ≤5 x ULN and AP ≤2.5 x ULN, or AST/ALT >1.5 to ≤5 x ULN and AP >2.5 to ≤5 x ULN, Docetaxel Injection should be reduced by 20%.
+Liver dysfunction: In case of AST/ALT >2.5 to ≤5 × ULN and AP ≤2.5 × ULN, or AST/ALT >1.5 to ≤5 × ULN and AP >2.5 to ≤5 × ULN, Docetaxel Injection should be reduced by 20%.
 
-In case of AST/ALT >5 x ULN and/or AP >5 x ULN Docetaxel Injection should be stopped.
+In case of AST/ALT >5 × ULN and/or AP >5 × ULN Docetaxel Injection should be stopped.
 The dose modifications for cisplatin and fluorouracil in the gastric cancer study are provided below:
 
 Cisplatin dose modifications and delays
@@ -128,24 +128,24 @@ Peripheral neuropathy
 A neurological examination should be performed before entry into the study, and then at least every 2 cycles and at the end of treatment.
 In the case of neurological signs or symptoms, more frequent examinations should be performed and the following dose modifications can be made according to NCIC-CTC grade:
 
-- •Grade 2: Reduce cisplatin dose by 20%.
-- •Grade 3: Discontinue treatment.
-- •Ototoxicity: In the case of grade 3 toxicity, discontinue treatment.
+- Grade 2: Reduce cisplatin dose by 20%.
+- Grade 3: Discontinue treatment.
+- Ototoxicity: In the case of grade 3 toxicity, discontinue treatment.
 
 Nephrotoxicity
 
-In the event of a rise in serum creatinine ≥grade 2 (>1.5 x normal value) despite adequate rehydration, CrCl should be determined before each subsequent cycle and the following dose reductions should be considered (see Table 2).
+In the event of a rise in serum creatinine ≥grade 2 (>1.5 × normal value) despite adequate rehydration, CrCl should be determined before each subsequent cycle and the following dose reductions should be considered (see Table 2).
 
 For other cisplatin dosage adjustments, also refer to the manufacturers' prescribing information.
 
 Table 2 – Dose Reductions for Evaluation of Creatinine Clearance
 
-| Creatinine Clearance Result Before Next Cycle | Cisplatin Dose Next Cycle |  |  |
-| --- | --- | --- | --- |
-| CrCl ≥60 mL/min | Full dose of cisplatin was given. CrCl was to be repeated before each treatment cycle. |  |  |
-| CrCl between 40 and 59 mL/min | Dose of cisplatin was reduced by 50% at subsequent cycle. If CrCl was >60 mL/min at end of cycle, full cisplatin dose was reinstituted at the next cycle. If no recovery was observed, then cisplatin was omitted from the next treatment cycle. |  |  |
-| CrCl <40 mL/min | Dose of cisplatin was omitted in that treatment cycle only. If CrCl was still <40 mL/min at the end of cycle, cisplatin was discontinued. If CrCl was >40 and <60 mL/min at end of cycle, a 50% cisplatin dose was given at the next cycle. If CrCl was >60 mL/min at end of cycle, full cisplatin dose was given at next cycle. |  |  |
-| CrCl = Creatinine clearance |  |  |  |
+| Creatinine Clearance Result Before Next Cycle | Cisplatin Dose Next Cycle |
+| --- | --- |
+| CrCl ≥60 mL/min | Full dose of cisplatin was given. CrCl was to be repeated before each treatment cycle. |
+| CrCl between 40 and 59 mL/min | Dose of cisplatin was reduced by 50% at subsequent cycle. If CrCl was >60 mL/min at end of cycle, full cisplatin dose was reinstituted at the next cycle. If no recovery was observed, then cisplatin was omitted from the next treatment cycle. |
+| CrCl <40 mL/min | Dose of cisplatin was omitted in that treatment cycle only. If CrCl was still <40 mL/min at the end of cycle, cisplatin was discontinued. If CrCl was >40 and <60 mL/min at end of cycle, a 50% cisplatin dose was given at the next cycle. If CrCl was >60 mL/min at end of cycle, full cisplatin dose was given at next cycle. |
+| CrCl = Creatinine clearance |  |
 
 Fluorouracil dose modifications and treatment delays
 
@@ -186,10 +186,10 @@ Docetaxel Injection, USP (20 mg/mL) requires NO prior dilution with a diluent an
 
 Dilution for Infusion
 
-1. 1.Aseptically withdraw the required amount of Docetaxel Injection, USP (20 mg docetaxel/mL) with a calibrated syringe and inject into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
+1. Aseptically withdraw the required amount of Docetaxel Injection, USP (20 mg docetaxel/mL) with a calibrated syringe and inject into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
    If a dose greater than 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL docetaxel is not exceeded.
-2. 2.Thoroughly mix the infusion by gentle manual rotation.
-3. 3.As with all parenteral products, Docetaxel Injection, USP should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.
+2. Thoroughly mix the infusion by gentle manual rotation.
+3. As with all parenteral products, Docetaxel Injection, USP should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.
    If the Docetaxel Injection, USP or diluted solution is not clear or appears to have precipitation, it should be discarded.
 
 The Docetaxel Injection, USP diluted solution for infusion should be administered intravenously as a 1-hour infusion under ambient room temperature (below 25°C) and lighting conditions.
