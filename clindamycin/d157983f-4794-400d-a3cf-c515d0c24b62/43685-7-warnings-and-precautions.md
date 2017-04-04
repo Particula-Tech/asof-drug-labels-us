@@ -84,6 +84,13 @@ During prolonged therapy periodic liver and kidney function tests and blood coun
 Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
 Therefore, it should be used with caution in patients receiving such agents.
 
+Clindamycin is metabolized predominantly by CYP3A4, and to a lesser extent by CYP3A5, to the major metabolite clindamycin sulfoxide and minor metabolite N-desmethylclindamycin.
+Therefore inhibitors of CYP3A4 and CYP3A5 may reduce clindamycin clearance and inducers of these isoenzymes may increase clindamycin clearance.
+In the presence of strong CYP3A4 inducers such as rifampicin, monitor for loss of effectiveness.
+
+In vitro studies indicate that clindamycin does not inhibit CYP1A2, CYP2C9, CYP2C19, CYP2E1 or CYP2D6 and only moderately inhibits CYP3A4.
+Therefore, clinically important interactions between clindamycin and co-administered drugs metabolized by these CYP enzymes are unlikely.
+
 Antagonism has been demonstrated between clindamycin and erythromycin in vitro.
 Because of possible clinical significance, the two drugs should not be administered concurrently.
 

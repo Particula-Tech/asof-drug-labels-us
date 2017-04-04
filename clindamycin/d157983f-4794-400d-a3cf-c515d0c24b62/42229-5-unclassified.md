@@ -30,8 +30,8 @@ Distributed by Pharmacia & Upjohn Co. Division of Pfizer Inc. New York, NY 10017
 
 PremierProRx® is a registered trademark of Premier, Inc., used under license.
 
-CLEOCIN PHOSPHATE IV Solution in the GALAXY plastic containers is manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015.
+CLEOCIN PHOSPHATE IV Solution in GALAXY plastic containers is manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015.
 
-GALAXY is a registered trademark of Baxter International Inc.
+Galaxy is a registered trademark of Baxter International Inc.
 
-LAB-0696-5.0 August 2016
+LAB-0696-6.0 March 2017
