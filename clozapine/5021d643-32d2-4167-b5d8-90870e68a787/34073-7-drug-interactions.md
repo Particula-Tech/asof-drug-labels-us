@@ -20,7 +20,7 @@ It may be necessary to increase the clozapine dose if used concomitantly with in
 However, concomitant use of clozapine and strong CYP3A4 inducers is not recommended [see Dosage and Administration (2.6)].
 Consider reducing the clozapine dosage when discontinuing coadministered enzyme inducers; because discontinuation of inducers can result in increased clozapine plasma levels and an increased risk of adverse reactions [see Dosage and Administration (2.6)].
 Drugs that Cause QT Interval Prolongation Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of clozapine.
-Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Warnings and Precautions (5.8)].
+Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Warnings and Precautions (5.9)].
 
 ## 7.2 Potential for Clozapine to Affect Other Drugs
 

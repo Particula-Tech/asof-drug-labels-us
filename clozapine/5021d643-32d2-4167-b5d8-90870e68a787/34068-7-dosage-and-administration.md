@@ -45,12 +45,12 @@ Dose Adjustment in Patients Taking Concomitant Medications
 | Co-medications | Scenarios |  |  |
 | --- | --- | --- | --- |
 |  | Initiating clozapine tablets while taking a co-medication | Adding a co-medication while taking clozapine tablets | Discontinuing a co-medication while continuing clozapine tablets |
-| Strong CYP1A2 Inhibitors | Use one third of the clozapine tablets dose. |  | Increase clozapine tablets dose based on clinical response. |
+| Strong CYP1A2 Inhibitors | Use one-third of the clozapine tablets dose. |  | Increase clozapine tablets dose based on clinical response. |
 | Moderate or Weak CYP1A2 Inhibitors | Monitor for adverse reactions. Consider reducing the clozapine tablets dose if necessary. |  | Monitor for lack of effectiveness. Consider increasing clozapine tablets dose if necessary. |
 | CYP2D6 or CYP3A4 Inhibitors |  |  |  |
 | Strong CYP3A4 Inducers | Concomitant use is not recommended. However, if the inducer is necessary, it may be necessary to increase the clozapine tablets dose. Monitor for decreased effectiveness. |  | Reduce clozapine tablets dose based on clinical response. |
 | Moderate or weak CYP1A2 or CYP3A4 Inducers | Monitor for decreased effectiveness. Consider increasing the clozapine tablets dose if necessary. |  | Monitor for adverse reactions. Consider reducing the clozapine tablets dose if necessary. |
 
-## 2.7 Renal or Hepatic Impairment or CYP2D6 Poor Metabolizers
+## 2.7 Renal or Hepatic Impairment, or CYP2D6 Poor Metabolizers
 
 It may be necessary to reduce the clozapine tablets dose in patients with significant renal or hepatic impairment, or in CYP2D6 poor metabolizers [see Use in Specific Populations (8.6, 8.7)].
