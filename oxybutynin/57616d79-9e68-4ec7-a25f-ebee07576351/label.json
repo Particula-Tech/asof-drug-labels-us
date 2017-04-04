@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022204"
+  ],
+  "inn": "oxybutynin",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-5812-11",
+    "0023-5812-30"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "oxybutynin chloride",
+      "name": "GELNIQUE"
+    }
+  ],
+  "setid": "57616d79-9e68-4ec7-a25f-ebee07576351",
+  "source": "dailymed"
+}
