@@ -10,6 +10,6 @@ GI: constipation; nausea; GI upset.
 
 Dermatologic: pruritus; skin eruptions.
 
-Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity.
+Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity.
 
 Deliberate or accidental overdose has resulted in death, particularly in children.
