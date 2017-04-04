@@ -451,6 +451,7 @@ Cutaneous
 Very rare cases of cutaneous lupus erythematosus and rare cases of bullous eruptions such as erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and Scleroderma-like changes usually preceded by peripheral lymphedema.
 In some cases multiple factors may have contributed to the development of these effects.
 Severe hand and foot syndrome has been reported.
+Cases of permanent alopecia have been reported.
 
 Gastrointestinal
 

@@ -13,7 +13,7 @@ See FDA-Approved Patient Labeling
 - Explain the significance of routine blood cell counts.
   Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever.
 - Instruct patients to report myalgia, cutaneous, or neurologic reactions.
-- Explain to patients that side effects such as nausea, vomiting, diarrhea, constipation, fatigue, excessive tearing, infusion site reactions, and hair loss are associated with Docetaxel Injection, USP administration.
+- Explain to patients that side effects such as nausea, vomiting, diarrhea, constipation, fatigue, excessive tearing, infusion site reactions, and hair loss (cases of permanent hair loss have been reported) are associated with Docetaxel Injection, USP administration.
 - Explain to patients the possible side effects of the alcohol content in Docetaxel Injection, including possible side effects on the central nervous system.
   Patients in whom alcohol should be avoided or minimized should consider the alcohol content of Docetaxel Injection.
   Alcohol could impair their ability to drive or use machines immediately after infusion.
@@ -149,7 +149,8 @@ The most common side effects of Docetaxel Injection include:
 - nausea and vomiting
 - diarrhea
 - mouth or lips sores
-- hair loss
+- hair loss: in most cases normal hair growth should return.
+  In some cases (frequency not known) permanent hair loss has been observed.
 - rash
 - redness of the eye, excess tearing
 - skin reactions at the site of Docetaxel Injection administration such as increased skin pigmentation, redness, tenderness, swelling, warmth or dryness of the skin
@@ -186,12 +187,12 @@ Inactive ingredients: polysorbate 80, Anhydrous Citric Acid USP, Dehydrated Alco
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-EN-3576
-
 Manufactured by: Zydus Hospira Oncology Private Ltd., Gujarat, India
 
 Distributed by: Hospira, Inc., Lake Forest, IL 60045 USA
 
-Revised: 7/2014
-
 GUJ-DRUGS/G/28/1267
+
+LAB-0978-1.0
+
+March 2017
