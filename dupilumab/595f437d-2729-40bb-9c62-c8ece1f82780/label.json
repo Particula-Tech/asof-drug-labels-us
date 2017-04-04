@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761055"
+  ],
+  "inn": "dupilumab",
+  "labeler": "sanofi-aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-5914-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dupilumab",
+      "name": "Dupixent"
+    }
+  ],
+  "setid": "595f437d-2729-40bb-9c62-c8ece1f82780",
+  "source": "dailymed"
+}
