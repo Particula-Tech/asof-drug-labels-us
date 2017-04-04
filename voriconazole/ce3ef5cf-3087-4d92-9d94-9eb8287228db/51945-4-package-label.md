@@ -1,8 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
-Pfizer
-
-NDC 0049-3170-30
+Pfizer NDC 0049-3170-30
 
 Vfend® (voriconazole)
 
@@ -14,9 +12,7 @@ Tablets
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
-Pfizer
-
-NDC 0049-3180-30
+Pfizer NDC 0049-3180-30
 
 Vfend® (voriconazole)
 
