@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA022462"
+  ],
+  "inn": "baclofen",
+  "labeler": "Piramal Critical Care Inc",
+  "package_ndcs": [
+    "66794-151-01",
+    "66794-155-01",
+    "66794-155-02",
+    "66794-156-01",
+    "66794-156-02",
+    "66794-157-01",
+    "66794-157-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "baclofen injection",
+      "name": "Gablofen"
+    }
+  ],
+  "setid": "00d3e846-dd92-448d-9ab8-6a07be823cc1",
+  "source": "dailymed"
+}
