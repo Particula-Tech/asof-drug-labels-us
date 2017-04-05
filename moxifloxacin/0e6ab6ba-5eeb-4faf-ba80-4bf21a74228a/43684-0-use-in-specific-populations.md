@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. Teratogenic Effects: Moxifloxacin was not teratogenic when administered to pregnant rats during organogenesis at oral doses as high as 500 mg/kg/day (approximately 21,700 times the highest recommended total daily human ophthalmic dose); however, decreased fetal body weights and slightly delayed fetal skeletal development were observed.
+Pregnancy Category C Teratogenic Effects: Moxifloxacin was not teratogenic when administered to pregnant rats during organogenesis at oral doses as high as 500 mg/kg/day (approximately 21,700 times the highest recommended total daily human ophthalmic dose); however, decreased fetal body weights and slightly delayed fetal skeletal development were observed.
 There was no evidence of teratogenicity when pregnant Cynomolgus monkeys were given oral doses as high as 100 mg/kg/day (approximately 4,300 times the highest recommended total daily human ophthalmic dose).
 An increased incidence of smaller fetuses was observed at 100 mg/kg/day.
 
@@ -15,7 +15,8 @@ Caution should be exercised when VIGAMOX® solution is administered to a nursing
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of VIGAMOX® solution in infants below 1 year of age have not been established.
+The safety and effectiveness of VIGAMOX® (moxifloxacin ophthalmic solution) 0.5% have been established in all ages.
+Use of VIGAMOX® is supported by evidence from adequate and well controlled studies of VIGAMOX® in adults, children, and neonates [see Clinical Studies (14)].
 
 There is no evidence that the ophthalmic administration of VIGAMOX® solution has any effect on weight bearing joints, even though oral administration of some quinolones has been shown to cause arthropathy in immature animals.
 

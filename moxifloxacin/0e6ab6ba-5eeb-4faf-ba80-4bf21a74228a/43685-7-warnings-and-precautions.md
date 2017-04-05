@@ -5,7 +5,7 @@
 NOT FOR INJECTION.
 VIGAMOX® solution is for topical ophthalmic use only and should not be injected subconjunctivally or introduced directly into the anterior chamber of the eye.
 
-## 5.2 Hypersensitivity Reaction
+## 5.2 Hypersensitivity Reactions
 
 In patients receiving systemically administered quinolones, including moxifloxacin, serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported, some following the first dose.
 Some reactions were accompanied by cardiovascular collapse, loss of consciousness, angioedema (including laryngeal, pharyngeal or facial edema), airway obstruction, dyspnea, urticaria, and itching.

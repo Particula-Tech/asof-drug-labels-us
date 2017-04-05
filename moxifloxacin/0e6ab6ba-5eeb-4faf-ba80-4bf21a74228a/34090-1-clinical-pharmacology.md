@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Moxifloxacin is a member of the fluoroquinolone class of anti-infective drugs (See 12.4 Microbiology).
+Moxifloxacin is a member of the fluoroquinolone class of anti-infective drugs [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -22,13 +22,13 @@ There is no cross-resistance between moxifloxacin and the aforementioned classes
 Cross resistance has been observed between systemic moxifloxacin and some other quinolones.
 
 In vitro resistance to moxifloxacin develops via multiple-step mutations.
-Resistance to moxifloxacin occurs in vitro at a general frequency of between 1.8 x 10-9 to < 1 x 10-11 for Gram-positive bacteria.
+Resistance to moxifloxacin occurs in vitro at a general frequency of between 1.8 x 10-9 to less than 1 x 10-11 for Gram-positive bacteria.
 
 Moxifloxacin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
 
 Aerobic Gram-positive microorganisms: Corynebacterium species* Micrococcus luteus* Staphylococcus aureus Staphylococcus epidermidis Staphylococcus haemolyticus Staphylococcus hominis Staphylococcus warneri* Streptococcus pneumoniae Streptococcus viridans group
 
-Aerobic Gram-negative microorganisms: Acinetobacter lwoffii* Haemophilus influenzae Haemophilus parainfluenzae*
+Aerobic Gram-negative microorganisms: Acinetobacter lwoffii* Haemophilus influenza Haemophilus parainfluenzae*
 
 Other microorganisms: Chlamydia trachomatis
 
@@ -40,7 +40,7 @@ The safety and effectiveness of VIGAMOX® solution in treating ophthalmological 
 The following organisms are considered susceptible when evaluated using systemic breakpoints.
 However, a correlation between the in vitro systemic breakpoint and ophthalmological efficacy has not been established.
 The list of organisms is provided as guidance only in assessing the potential treatment of conjunctival infections.
-Moxifloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 μg/ml or less (systemic susceptible breakpoint) against most (≥ 90%) strains of the following ocular pathogens.
+Moxifloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 microgram/mL or less (systemic susceptible breakpoint) against most (greater than or equal to 90%) strains of the following ocular pathogens.
 
 Aerobic Gram-positive microorganisms: Listeria monocytogenes Staphylococcus saprophyticus Streptococcus agalactiae Streptococcus mitis Streptococcus pyogenes Streptococcus Group C, G and F
 
