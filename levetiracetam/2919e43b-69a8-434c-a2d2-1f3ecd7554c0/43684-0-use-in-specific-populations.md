@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-KEPPRA XR levels may decrease during pregnancy [see Warnings and Precautions (5.8)].
+KEPPRA XR levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
 
 Pregnancy Category C
 

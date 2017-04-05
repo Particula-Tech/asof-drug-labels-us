@@ -112,7 +112,15 @@ In 0.5% of KEPPRA-treated patients and in 0.2% of placebo-treated patients, the 
 
 Somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
 
-## 5.4 Serious Dermatological Reactions
+## 5.4 Anaphylaxis and Angioedema
+
+KEPPRA XR can cause anaphylaxis or angioedema after the first dose or at any time during treatment.
+Signs and symptoms in cases reported in the postmarketing setting in patients treated with levetiracetam have included hypotension, hives, rash, respiratory distress, and swelling of the face, lip, mouth, eye, tongue, throat, and feet.
+In some reported cases, reactions were life-threatening and required emergency treatment.
+If a patient develops signs or symptoms of anaphylaxis or angioedema, KEPPRA XR should be discontinued and the patient should seek immediate medical attention.
+KEPPRA XR should be discontinued permanently if a clear alternative etiology for the reaction cannot be established [see Contraindications (4)].
+
+## 5.5 Serious Dermatological Reactions
 
 Serious dermatological reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in patients treated with levetiracetam.
 The median time of onset is reported to be 14 to 17 days, but cases have been reported at least four months after initiation of treatment.
@@ -120,7 +128,7 @@ Recurrence of the serious skin reactions following rechallenge with levetiraceta
 KEPPRA XR should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 
-## 5.5 Coordination Difficulties
+## 5.6 Coordination Difficulties
 
 Coordination difficulties were not observed in the KEPPRA XR controlled trial, however, the number of patients exposed to KEPPRA XR was considerably smaller than the number of patients exposed to immediate-release KEPPRA tablets in controlled trials.
 However, adverse reactions observed in the immediate-release KEPPRA controlled trials may also occur in patients receiving KEPPRA XR.
@@ -134,11 +142,11 @@ These events occurred most frequently within the first 4 weeks of treatment.
 
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on KEPPRA to gauge whether it could adversely affect their ability to drive or operate machinery.
 
-## 5.6 Withdrawal Seizures
+## 5.7 Withdrawal Seizures
 
 Antiepileptic drugs, including KEPPRA XR, should be withdrawn gradually to minimize the potential of increased seizure frequency.
 
-## 5.7 Hematologic Abnormalities
+## 5.8 Hematologic Abnormalities
 
 KEPPRA XR can cause hematologic abnormalities.
 Hematologic abnormalities occurred in clinical trials and included decreases in red blood cell (RBC) counts, hemoglobin, and hematocrit, and increases in eosinophil counts.
@@ -161,7 +169,7 @@ No patient was discontinued secondary to low WBC or neutrophil counts.
 
 In the controlled pediatric cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the immediate-release KEPPRA-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×109/L).
 
-## 5.8 Seizure Control During Pregnancy
+## 5.9 Seizure Control During Pregnancy
 
 Physiological changes may gradually decrease plasma levels of levetiracetam throughout pregnancy.
 This decrease is more pronounced during the third trimester.
