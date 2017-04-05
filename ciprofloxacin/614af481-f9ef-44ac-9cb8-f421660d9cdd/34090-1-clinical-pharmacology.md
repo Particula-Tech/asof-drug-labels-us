@@ -7,8 +7,7 @@ The mean concentration was usually less than 2.5 ng/mL.
 Microbiology: Ciprofloxacin has in vitro activity against a wide range of gram-negative and gram-positive organisms.
 The bactericidal action of ciprofloxacin results from interference with the enzyme DNA gyrase which is needed for the synthesis of bacterial DNA.
 
-Ciprofloxacin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections.
-(See INDICATIONS AND USAGE section).
+Ciprofloxacin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections [see Indications and Usage]:
 
 Gram-Positive:
 
@@ -72,7 +71,7 @@ Haemophilus ducreyi
 
 Haemophilus parainfluenzae
 
-Klebsiella pneumoniae
+Kiebsiella pneumoniae
 
 Klebsiella oxytoca
 
@@ -120,9 +119,3 @@ The minimal bactericidal concentration (MBC) generally does not exceed the minim
 Resistance to ciprofloxacin in vitro usually develops slowly (multiple-step mutation).
 
 Ciprofloxacin does not cross-react with other antimicrobial agents such as beta-lactams or aminoglycosides; therefore, organisms resistant to these drugs may be susceptible to ciprofloxacin.
-
-Clinical Studies:
-
-Following therapy with CILOXAN Ophthalmic Solution, 76% of the patients with corneal ulcers and positive bacterial cultures were clinically cured and complete re-epithelialization occurred in about 92% of the ulcers.
-
-In 3 and 7 day multicenter clinical trials, 52% of the patients with conjunctivitis and positive conjunctival cultures were clinically cured and 70-80% had all causative pathogens eradicated by the end of treatment.

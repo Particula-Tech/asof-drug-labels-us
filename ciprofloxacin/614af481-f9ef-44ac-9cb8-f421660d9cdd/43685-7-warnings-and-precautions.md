@@ -11,9 +11,7 @@ Remove contact lenses before using.
 
 # PRECAUTIONS
 
-## General:
-
-As with other antibacterial preparations, prolonged use of ciprofloxacin may result in overgrowth of nonsusceptible organisms, including fungi.
+General: As with other antibacterial preparations, prolonged use of ciprofloxacin may result in overgrowth of nonsusceptible organisms, including fungi.
 If superinfection occurs, appropriate therapy should be initiated.
 Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit lamp biomicroscopy and, where appropriate, fluorescein staining.
 
@@ -22,24 +20,17 @@ Ciprofloxacin should be discontinued at the first appearance of a skin rash or a
 In clinical studies of patients with bacterial corneal ulcer, a white crystalline precipitate located in the superficial portion of the corneal defect was observed in 35 (16.6%) of 210 patients.
 The onset of the precipitate was within 24 hours to 7 days after starting therapy.
 In one patient, the precipitate was immediately irrigated out upon its appearance.
-In 17 patients, resolution of the precipitate was seen in 1 to 8 days (seven within the first 24-72 hours), in five patients, resolution was noted in 10-13 days.
-In nine patients, exact resolution days were unavailable; however, at follow-up examinations, 18-44 days after onset of the event, complete resolution of the precipitate was noted.
+In 17 patients, resolution of the precipitate was seen in 1 to 8 days (seven within the first 24 to 72 hours), in five patients, resolution was noted in 10 to 13 days.
+In nine patients, exact resolution days were unavailable; however, at follow-up examinations, 18 to 44 days after onset of the event, complete resolution of the precipitate was noted.
 In three patients, outcome information was unavailable.
-The precipitate did not preclude continued use of ciprofloxacin, nor did it adversely affect the clinical course of the ulcer or visual outcome.
-(SEE ADVERSE REACTIONS).
+The precipitate did not preclude continued use of ciprofloxacin, nor did it adversely affect the clinical course of the ulcer or visual outcome [see Adverse Reactions].
 
-## Information for patients:
+Information for patients: Do not touch dropper tip to any surface, as this may contaminate the solution.
 
-Do not touch dropper tip to any surface, as this may contaminate the solution.
+Drug Interactions: Specific drug interaction studies have not been conducted with ophthalmic ciprofloxacin.
+However, the systemic administration of some quinolones has been shown to elevate plasma concentrations of theophylline, interfere with the metabolism of caffeine, enhance the effects of the oral anticoagulant, warfarin, and its derivatives, and has been associated with transient elevations in serum creatinine in patients receiving cyclosporine concomitantly.
 
-## Drug Interactions:
-
-Specific drug interaction studies have not been conducted with ophthalmic ciprofloxacin.
-However, the systemic administration of some quinolones has been shown to elevate plasma concentrations of theophylline, interfere with the metabolism of caffeine, enhance the effects of the oral anticoagulant, warfarin, and its derivatives and has been associated with transient elevations in serum creatinine in patients receiving cyclosporine concomitantly.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
-
-Eight in vitro mutagenicity tests have been conducted with ciprofloxacin and the test results are listed below:
+Carcinogenesis, Mutagenesis, Impairment of Fertility: Eight in vitro mutagenicity tests have been conducted with ciprofloxacin and the test results are listed below:
 
 Salmonella/Microsome Test (Negative)
 
@@ -68,9 +59,7 @@ Dominant Lethal Test (Mice)
 Long term carcinogenicity studies in mice and rats have been completed.
 After daily oral dosing for up to two years, there is no evidence that ciprofloxacin had any carcinogenic or tumorigenic effects in these species.
 
-## Pregnancy - Pregnancy Category C:
-
-Reproduction studies have been performed in rats and mice at doses up to six times the usual daily human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to ciprofloxacin.
+Pregnancy - Pregnancy Category C. Reproduction studies have been performed in rats and mice at doses up to six times the usual daily human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to ciprofloxacin.
 In rabbits, as with most antimicrobial agents, ciprofloxacin (30 and 100 mg/kg orally) produced gastrointestinal disturbances resulting in maternal weight loss and an increased incidence of abortion.
 No teratogenicity was observed at either dose.
 After intravenous administration, at doses up to 20 mg/kg, no maternal toxicity was produced and no embryotoxicity or teratogenicity was observed.
