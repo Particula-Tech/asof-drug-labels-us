@@ -14,9 +14,9 @@ No Latex No Preservative
 
 Rx only
 
-Amerinet Choice®
+INTALERE CHOICE℠
 
-# PRINCIPAL DISPLAY PANEL - 10 Vial Carton
+# PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
 
 10 Vials
 
@@ -26,8 +26,12 @@ Zithromax® (azithromycin for injection)
 
 500 mg/vial
 
-Sterile For I.V. infusion only Equivalent to 500 mg/vial of azithromycin To yield 100 mg/mL* of solution when reconstituted as directed
+Sterile
+
+For I.V. infusion only Equivalent to 500 mg/vial of azithromycin To yield 100 mg/mL* of solution when reconstituted as directed
 
 No Latex No Preservative
 
-Amerinet Choice® Rx only
+INTALERE CHOICE℠
+
+Rx only
