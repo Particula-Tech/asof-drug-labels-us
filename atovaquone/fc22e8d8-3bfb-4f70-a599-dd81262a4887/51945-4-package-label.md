@@ -1,4 +1,4 @@
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0675-01
 
@@ -16,7 +16,7 @@ Rx only
 
 See accompanying prescribing information for Dosage and Administration.
 
-Store at 25oC (77oF); excursions permitted to 15o to 30oC (59oto 86oF) (see USP Controlled Room Temperature).
+Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF) (see USP Controlled Room Temperature).
 
 Do not use if printed safety seal under cap is broken or missing.
 
@@ -27,11 +27,11 @@ Research Triangle Park, NC 27709
 Made in Canada
 
 Rev.
-3/10
+10/16
 
-A079205
+A142937
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0676-01
 
@@ -49,7 +49,7 @@ Rx only
 
 See accompanying prescribing information for Dosage and Administration.
 
-Store at 25oC (77oF); excursions permitted to 15o to 30oC (59oto 86oF) (see USP Controlled Room Temperature).
+Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF) (see USP Controlled Room Temperature).
 
 Do not use if printed safety seal under cap is broken or missing.
 
@@ -60,6 +60,6 @@ Research Triangle Park, NC 27709
 Made in Canada
 
 Rev.
-3/10
+9/16
 
-A079206
+A142938
