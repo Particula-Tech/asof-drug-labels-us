@@ -74,7 +74,7 @@ The total body clearance is 0.96 mL/min/kg and the renal clearance is 0.6 mL/min
 The mechanism of excretion is glomerular filtration with subsequent partial tubular reabsorption.
 The metabolite ucb L057 is excreted by glomerular filtration and active tubular secretion with a renal clearance of 4 mL/min/kg.
 Levetiracetam elimination is correlated to creatinine clearance.
-Levetiracetam clearance is reduced in patients with renal impairment [see Dosage and Administration (2.6) andUse in Specific Populations (8.6)].
+Levetiracetam clearance is reduced in patients with renal impairment [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
 
 Specific Populations
 
@@ -86,7 +86,7 @@ This is most likely due to the decrease in renal function in these subjects.
 
 Pediatric Patients
 
-- Intravenous Formulation A population pharmacokinetic analysis for the intravenous formulation was conducted in 49 pediatric patients (1 month to < 16 years of age) weighing 3-79 kg.
+- Intravenous FormulationA population pharmacokinetic analysis for the intravenous formulation was conducted in 49 pediatric patients (1 month to < 16 years of age) weighing 3-79 kg.
   Patients received levetiracetam as a 15-minute IV infusion at doses between 14 mg/kg/day and 60 mg/kg/day twice daily.
   Plasma concentrations and model derived steady-state exposure AUC (0-12) were within the range of the exposure observed in pediatric patients receiving equivalent doses of the oral solution.
 - Oral Formulations Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients (age 6-12 years) after single oral dose (20 mg/kg) of the immediate release formulation of KEPPRA.
@@ -96,7 +96,8 @@ Pediatric Patients
   The pharmacokinetics of levetiracetam in pediatric patients was linear between 20 to 60 mg/kg/day.
   The potential interaction of levetiracetam with other AEDs was also evaluated in these patients.
   Levetiracetam had no significant effect on the plasma concentrations of carbamazepine, valproic acid, topiramate or lamotrigine.
-  However, there was about a 22% increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED (e.g., carbamazepine).Following single dose administration (20 mg/kg) of a 10% oral solution to pediatric patients with epilepsy (1 month to < 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
+  However, there was about a 22% increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED (e.g., carbamazepine).
+  Following single dose administration (20 mg/kg) of a 10% oral solution to pediatric patients with epilepsy (1 month to < 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
   Levetiracetam half-life in pediatric patients 1 month to < 4 years with epilepsy was shorter (5.3 h) than in adults (7.2 h), and apparent clearance (1.5 mL/min/kg) was faster than in adults (0.96 mL/min/kg).
   Population pharmacokinetic analysis showed that body weight was significantly correlated to the clearance of levetiracetam in pediatric patients; clearance increased with an increase in body weight.
 

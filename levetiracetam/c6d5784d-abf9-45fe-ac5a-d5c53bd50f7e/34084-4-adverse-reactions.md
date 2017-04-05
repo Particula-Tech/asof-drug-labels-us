@@ -4,10 +4,11 @@ The following adverse reactions are discussed in more details in other sections 
 
 - Behavioral Abnormalities and Psychotic Symptoms [see Warnings and Precautions (5.1)]
 - Somnolence and Fatigue [see Warnings and Precautions (5.2)]
-- Serious Dermatological Reactions [see Warnings and Precautions (5.3)]
-- Coordination Difficulties [see Warnings and Precautions (5.4)]
-- Hematologic Abnormalities [see Warnings and Precautions (5.6)]
-- Increase in Blood Pressure [see Warnings and Precautions (5.7)]
+- Anaphylaxis and Angioedema [see Warnings and Precautions (5.3)]
+- Serious Dermatological Reactions [see Warnings and Precautions (5.4)]
+- Coordination Difficulties [see Warnings and Precautions (5.5)]
+- Hematologic Abnormalities [see Warnings and Precautions (5.7)]
+- Increase in Blood Pressure [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -210,5 +211,5 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The following adverse reactions have been reported in patients receiving KEPPRA worldwide.
-The listing is alphabetized: abnormal liver function test, acute kidney injury, choreoathetosis, drug reaction with eosinophilia and systemic symptoms (DRESS), dyskinesia, erythema multiforme, hepatic failure, hepatitis, hyponatremia, muscular weakness, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, and weight loss.
+The listing is alphabetized: abnormal liver function test, acute kidney injury, anaphylaxis, angioedema, choreoathetosis, drug reaction with eosinophilia and systemic symptoms (DRESS), dyskinesia, erythema multiforme, hepatic failure, hepatitis, hyponatremia, muscular weakness, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, and weight loss.
 Alopecia has been reported with KEPPRA use; recovery was observed in majority of cases where KEPPRA was discontinued.

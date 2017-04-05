@@ -1,3 +1,3 @@
 KEPPRA injection manufactured for UCB, Inc. Smyrna, GA 30080
 
-KEPPRA is a registered trademark of the UCB Group of Companies © 2016, UCB, Inc., Smyrna, GA 30080 All rights reserved.
+KEPPRA is a registered trademark of the UCB Group of Companies © 2017, UCB, Inc., Smyrna, GA 30080 All rights reserved.

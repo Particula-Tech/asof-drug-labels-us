@@ -51,7 +51,15 @@ In 0.5% of KEPPRA-treated patients and in 0.2% of placebo-treated patients, the 
 Somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
 In general, the incidences of somnolence and fatigue in the pediatric partial onset seizure studies, and in pediatric and adult myoclonic and primary generalized tonic-clonic studies were comparable to those of the adult partial onset seizure studies.
 
-## 5.3 Serious Dermatological Reactions
+## 5.3 Anaphylaxis and Angioedema
+
+KEPPRA can cause anaphylaxis or angioedema after the first dose or at any time during treatment.
+Signs and symptoms in cases reported in the postmarketing setting have included hypotension, hives, rash, respiratory distress, and swelling of the face, lip, mouth, eye, tongue, throat, and feet.
+In some reported cases with levetiracetam, reactions were life-threatening and required emergency treatment.
+If a patient develops signs or symptoms of anaphylaxis or angioedema, KEPPRA should be discontinued and the patient should seek immediate medical attention.
+KEPPRA should be discontinued permanently if a clear alternative etiology for the reaction cannot be established [see Contraindications (4)].
+
+## 5.4 Serious Dermatological Reactions
 
 Serious dermatological reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in both pediatric and adult patients treated with KEPPRA.
 The median time of onset is reported to be 14 to 17 days, but cases have been reported at least four months after initiation of treatment.
@@ -59,7 +67,7 @@ Recurrence of the serious skin reactions following rechallenge with KEPPRA has a
 KEPPRA should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 
-## 5.4 Coordination Difficulties
+## 5.5 Coordination Difficulties
 
 KEPPRA may cause coordination difficulties.
 
@@ -70,11 +78,11 @@ These events occurred most frequently within the first 4 weeks of treatment.
 
 Patients should be monitored for signs and symptoms of coordination difficulties and advised not to drive or operate machinery until they have gained sufficient experience on KEPPRA to gauge whether it could adversely affect their ability to drive or operate machinery.
 
-## 5.5 Withdrawal Seizures
+## 5.6 Withdrawal Seizures
 
 Antiepileptic drugs, including KEPPRA, should be withdrawn gradually to minimize the potential of increased seizure frequency.
 
-## 5.6 Hematologic Abnormalities
+## 5.7 Hematologic Abnormalities
 
 KEPPRA can cause hematologic abnormalities.
 Hematologic abnormalities occurred in clinical trials and included decreases in red blood cells count (RBC), hemoglobin, and hematocrit, and increases in eosinophil counts.
@@ -102,7 +110,7 @@ No patient was discontinued because of low WBC or neutrophil count.
 
 In a randomized, double-blind, placebo-controlled study to assess the neurocognitive and behavioral effects of an oral formulation of KEPPRA as adjunctive therapy in pediatric patients (4 to 16 years of age), 5 patients (8.6%) in the KEPPRA-treated group and two patients (6.1%) in the placebo-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×109/L).
 
-## 5.7 Increase in Blood Pressure
+## 5.8 Increase in Blood Pressure
 
 In a randomized, placebo-controlled study in patients 1 month to <4 years of age using an oral formulation of KEPPRA, a significantly higher risk of increased diastolic blood pressure was observed in the KEPPRA-treated patients (17%), compared to placebo-treated patients (2%).
 There was no overall difference in mean diastolic blood pressure between the treatment groups.
@@ -110,7 +118,7 @@ This disparity between the KEPPRA and placebo treatment groups was not observed 
 
 Monitor patients 1 month to <4 years of age for increases in diastolic blood pressure.
 
-## 5.8 Seizure Control During Pregnancy
+## 5.9 Seizure Control During Pregnancy
 
 Physiological changes may gradually decrease plasma levels of levetiracetam throughout pregnancy.
 This decrease is more pronounced during the third trimester.
