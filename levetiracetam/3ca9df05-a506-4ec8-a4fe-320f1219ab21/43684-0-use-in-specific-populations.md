@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Levetiracetam blood levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
+Levetiracetam blood levels may decrease during pregnancy [see Warnings and Precautions (5.10)].
 
 Pregnancy Category C
 

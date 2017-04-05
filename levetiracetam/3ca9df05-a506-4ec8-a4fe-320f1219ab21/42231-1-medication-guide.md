@@ -58,6 +58,10 @@ Tell your pharmacist immediately if you think you have been given the wrong medi
 1000 mg KEPPRA tablets are white, oblong-shaped, scored, film-coated tablets marked with "ucb 1000" on one side.
 KEPPRA oral solution is a clear, colorless, grape-flavored liquid.
 
+Who should not take KEPPRA?
+
+Do not take KEPPRA if you are allergic to levetiracetam.
+
 What should I tell my healthcare provider before starting KEPPRA?
 
 Before taking KEPPRA, tell your healthcare provider about all of your medical conditions, including if you:
@@ -119,6 +123,7 @@ Call your healthcare provider right away if you have any of these symptoms:
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
 - extreme sleepiness, tiredness, and weakness
 - problems with muscle coordination (problems walking and moving)
+- allergic reactions such as swelling of the face, lips, eyes, tongue, and throat, trouble swallowing or breathing, and hives.
 - a skin rash.
   Serious skin rashes can happen after you start taking KEPPRA.
   There is no way to tell if a mild rash will become a serious reaction.
@@ -181,7 +186,7 @@ This Medication Guide has been approved by the US Food and Drug Administration.
 
 Distributed by UCB, Inc. Smyrna, GA 30080
 
-KEPPRA is a registered trademark of the UCB Group of companies © 2013, UCB, Inc., Smyrna, GA 30080 All rights reserved.
+KEPPRA is a registered trademark of the UCB Group of companies © 2017, UCB, Inc., Smyrna, GA 30080 All rights reserved.
 
 Rev.
-09/2013
+03/2017
