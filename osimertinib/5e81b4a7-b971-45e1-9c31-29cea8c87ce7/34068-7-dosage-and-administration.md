@@ -2,7 +2,7 @@
 
 ## 2.1 Patient Selection
 
-Confirm the presence of a T790M EGFR mutation in tumor or, in the absence of tumor, plasma specimens prior to initiation of treatment with TAGRISSO [see Indications and Usage (1) and Clinical Studies (14)].
+Confirm the presence of a T790M EGFR mutation in tumor or plasma specimens prior to initiation of treatment with TAGRISSO [see Indications and Usage (1) and Clinical Studies (14)].
 Testing for the presence of the mutation in plasma specimens is recommended only in patients for whom a tumor biopsy cannot be obtained.
 If this mutation is not detected in a plasma specimen, re-evaluate the feasibility of biopsy for tumor tissue testing.
 Information on FDA-approved tests for the detection of T790M mutations is available at http://www.fda.gov/companiondiagnostics.
@@ -19,9 +19,9 @@ If a dose of TAGRISSO is missed, do not make up the missed dose and take the nex
 Disperse tablet in 60 mL (2 ounces) of non-carbonated water only.
 Stir until tablet is dispersed into small pieces (the tablet will not completely dissolve) and swallow immediately.
 Do not crush, heat, or ultrasonicate during preparation.
-Rinse the container with 120 mL to 240 mL (4 to 8 ounces) of water and immediately drink.
+Rinse the container with 120 mL to 240 mL (4 to 8 ounces of) water and immediately drink.
 
-If administration via naso-gastric tube is required, disperse the tablet as above in 15 mL of non-carbonated water, and then use an additional 15 mL of water to transfer any residues to the syringe.
+If administration via nasogastric tube is required, disperse the tablet as above in 15 mL of non-carbonated water, and then use an additional 15 mL of water to transfer any residues to the syringe.
 The resulting 30 mL liquid should be administered as per the nasogastric tube instructions with appropriate water flushes (approximately 30 mL).
 
 ## 2.4 Dosage Modification
@@ -35,12 +35,11 @@ Table 1 Recommended Dose Modifications for TAGRISSO
 | Pulmonary | Interstitial lung disease (ILD)/Pneumonitis | Permanently discontinue TAGRISSO. |
 | Cardiac | QTc† interval greater than 500 msec on at least 2 separate ECGsb | Withhold TAGRISSO until QTc interval is less than 481 msec or recovery to baseline if baseline QTc is greater than or equal to 481 msec, then resume at 40 mg dose. |
 | QTc interval prolongation with signs/symptoms of life-threatening arrhythmia | Permanently discontinue TAGRISSO. |  |
-| Asymptomatic, absolute decrease in LVEFc of 10% from baseline and below 50% | Withhold TAGRISSO for up to 4 weeks. •If improved to baseline LVEF, resume.•If not improved to baseline, permanently discontinue. |  |
-| Symptomatic congestive heart failure | Permanently discontinue TAGRISSO. |  |
-| Other | Grade 3 or higher adverse reaction | Withhold TAGRISSO for up to 3 weeks. |
+| Symptomatic congestive heart failure or asymptomatic left ventricular dysfunction that persists ≥4 weeks | Permanently discontinue TAGRISSO. |  |
+| Other | Adverse reaction of Grade 3 or greater severity | Withhold TAGRISSO for up to 3 weeks. |
 | If improvement to Grade 0-2 within 3 weeks | Resume at 80 mg or 40 mg daily. |  |
 | If no improvement within 3 weeks | Permanently discontinue TAGRISSO. |  |
-| a Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 (NCI CTCAE v4.0). b ECGs = Electrocardiograms c LVEF = Left Ventricular Ejection Fraction † QTc = QT interval corrected for heart rate |  |  |
+| a Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 (NCI CTCAE v4.0). b ECGs = Electrocardiograms † QTc = QT interval corrected for heart rate |  |  |
 
 Drug Interactions
 

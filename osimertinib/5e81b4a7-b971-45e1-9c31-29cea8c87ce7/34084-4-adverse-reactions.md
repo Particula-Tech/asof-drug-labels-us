@@ -6,71 +6,88 @@ Interstitial Lung Disease/Pneumonitis [see Warnings and Precautions (5.1)]
 
 QTc Interval Prolongation [see Warnings and Precautions (5.2)]
 
+Cardiomyopathy [see Warnings and Precautions (5.3)]
+
+Keratitis [see Warnings and Precautions (5.4)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure to TAGRISSO (80 mg daily) in 411 patients with EGFR T790M mutation-positive non-small cell lung cancer who received prior EGFR TKI therapy, in two single-arm studies, Study 1 and Study 2.
-Patients with a past medical history of ILD or radiation pneumonitis that required steroid treatment, serious arrhythmia or baseline QTc interval greater than 470 ms were excluded from Study 1 and Study 2.
-Baseline patient and disease characteristics were: median age 63 years, 13% of patients were ≥75 years old, female (68%), White (36%), Asian (60%), metastatic (96%), sites of brain metastases (39%), World Health Organization (WHO) performance status of 0 (37%) or 1 (63%), 1 prior line of therapy [EGFR-TKI treatment only, second line, chemotherapy-naïve (31%)], 2 or more prior lines of therapy (69%).
-Of the 411 patients, 333 patients were exposed to TAGRISSO for at least 6 months; 97 patients were exposed for at least 9 months; however, no patient was exposed to TAGRISSO for 12 months.
+The data described below reflect exposure to TAGRISSO (80 mg daily) in patients with EGFR T790M mutation-positive metastatic NSCLC in an open-label, randomized, active-controlled trial (AURA3, n=279) and in two single arm trials, AURA Extension (n=201) and AURA2 (n=210).
+Patients with a history of interstitial lung disease, drug induced interstitial disease or radiation pneumonitis that required: steroid treatment, serious arrhythmia or baseline QTc interval greater than 470 msec on electrocardiogram were excluded from trial enrollment.
 
-In Studies 1 and 2, the most common (>20%) adverse reactions (all grades) observed in TAGRISSO-treated patients were diarrhea (42%), rash (41%), dry skin (31%), and nail toxicity (25%).
-Dose reductions occurred in 4.4% of patients treated with TAGRISSO.
-The most frequent adverse reactions that led to dose reductions or interruptions were: electrocardiogram QTc prolonged (2.2%) and neutropenia (1.9%).
-Serious adverse reactions reported in 2% or more patients were pneumonia and pulmonary embolus.
-There were 4 patients (1%) treated with TAGRISSO who developed fatal adverse reactions of ILD/pneumonitis.
-Other fatal adverse reactions occurring in more than 1 patient included pneumonia (4 patients) and CVA/cerebral hemorrhage (2 patients).
-Discontinuation of therapy due to adverse reactions occurred in 5.6% of patients treated with TAGRISSO.
-The most frequent adverse reactions that led to discontinuation were ILD/pneumonitis and cerebrovascular accidents/infarctions.
+AURA3 Trial
 
-Tables 2 and 3 summarize the common adverse reactions and laboratory abnormalities observed in TAGRISSO-treated patients.
+The safety of TAGRISSO was evaluated in AURA3, a multicenter international open label randomized (2:1) controlled trial conducted in 419 patients with unresectable or metastatic EGFR T790M mutation-positive NSCLC who had progressive disease following first line EGFR TKI treatment.
+A total of 279 patients received TAGRISSO 80 mg orally once daily until intolerance to therapy, disease progression, or investigator determination that the patient was no longer benefiting from treatment.
+A total of 136 patients received pemetrexed plus either carboplatin or cisplatin every three weeks for up to 6 cycles; patients without disease progression after 4 cycles of chemotherapy could continue maintenance pemetrexed until disease progression, unacceptable toxicity, or investigator determination that the patient was no longer benefiting from treatment.
+Left Ventricular Ejection Fraction (LVEF) was evaluated at screening and every 12 weeks.
+The median duration of treatment was 8.1 months for patients treated with TAGRISSO and 4.2 months for chemotherapy-treated patients.
+The trial population characteristics were: median age 62 years, age less than 65 (58%), female (64%), Asian (65%), never smokers (68%), and ECOG PS 0 or 1 (100%).
 
-Table 2 Adverse Reactions (>10% for all NCI CTCAE* Grades or >2% for Grades 3-4) in Study 1 and Study 2
+The most common adverse reactions (≥20%) in patients treated with TAGRISSO were diarrhea (41%), rash (34%), dry skin (23%), nail toxicity (22%), and fatigue (22%).
+Serious adverse reactions were reported in 18% of patients treated with TAGRISSO and 26% in the chemotherapy group.
+No single serious adverse reaction was reported in 2% or more patients treated with TAGRISSO.
+One patient (0.4%) treated with TAGRISSO experienced a fatal adverse reaction (ILD/pneumonitis).
 
-| Adverse Reaction | TAGRISSON=411 |  |
-| --- | --- | --- |
-| All Grades | Grade 3-4f |  |
-| % | % |  |
-| Gastrointestinal disorders |  |  |
-| Diarrhea | 42 | 1.0 |
-| Nausea | 17 | 0.5 |
-| Decreased appetite | 16 | 0.7 |
-| Constipation | 15 | 0.2 |
-| Stomatitis | 12 | 0 |
-| Skin disorders |  |  |
-| Rasha | 41 | 0.5 |
-| Dry skinb | 31 | 0 |
-| Nail toxicityc | 25 | 0 |
-| Pruritus | 14 | 0 |
-| Eye Disordersd | 18 | 0.2 |
-| Respiratory |  |  |
-| Cough | 14 | 0.2 |
-| General |  |  |
-| Fatigue | 14 | 0.5 |
-| Musculoskeletal |  |  |
-| Back pain | 13 | 0.7 |
-| Central Nervous System |  |  |
-| Headache | 10 | 0.2 |
-| Infections |  |  |
-| Pneumonia | 4 | 2.2 |
-| Vascular events |  |  |
-| Venous thromboembolisme | 7 | 2.4 |
-| * NCI CTCAE v4.0. a Includes cases reported within the clustered terms for rash adverse events: Rash, rash generalized, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, erythema, folliculitis, acne, dermatitis and acneform dermatitis. b Includes dry skin, eczema, skin fissures, xerosis. c Includes nail disorders, nail bed disorders, nail bed inflammation, nail bed tenderness, nail discoloration, nail disorder, nail dystrophy, nail infection, nail ridging, onychoclasis, onycholysis, onychomadesis, paronychia. d Includes dry eye, vision blurred, keratitis, cataract, eye irritation, blepharitis, eye pain, lacrimation increased, vitreous floaters. Other ocular toxicities occurred in <1% of patients. e Includes deep vein thrombosis, jugular venous thrombosis, and pulmonary embolism. f No grade 4 events have been reported. |  |  |
+Dose reductions occurred in 2.9% of patients treated with TAGRISSO.
+The most frequent adverse reactions leading to dose reductions or interruptions were prolongation of the QT interval as assessed by ECG (1.8%), neutropenia (1.1%), and diarrhea (1.1%).
+Adverse reactions resulting in permanent discontinuation of TAGRISSO occurred in 7% of patients treated with TAGRISSO.
+The most frequent adverse reaction leading to discontinuation of TAGRISSO was ILD/pneumonitis (3%).
 
-Additional clinically significant adverse reactions occurring in 2% or more of patients treated with TAGRISSO included cerebrovascular accident (2.7%).
+Tables 2 and 3 summarize common adverse reactions and laboratory abnormalities which occurred in TAGRISSO-treated patients in AURA3.
+AURA3 was not designed to demonstrate a statistically significant reduction in adverse reaction rates for TAGRISSO, or for the control arm, for any adverse reaction listed in Tables 2 and 3.
 
-Table 3 Laboratory Abnormalities (>20% for all NCI CTCAE Grades) in Study 1 and Study 2
+Table 2 Adverse Reactions Reported in ≥10% of Patients Receiving TAGRISSO in AURA3
 
-| Laboratory Abnormality | TAGRISSON=411 |  |  |  |  |
+| Adverse Reaction | TAGRISSO(N=279) |  |  | Chemotherapy(Pemetrexed/Cisplatin orPemetrexed/Carboplatin)(N=136) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| All Gradesa(%) |  | Grade 3/4a(%) | All Gradesa(%) |  | Grade 3/4a(%) |  |
+| Gastrointestinal disorders |  |  |  |  |  |  |
+| Diarrhea | 41 | 1.1 |  | 11 | 1.5 |  |
+| Nausea | 16 | 0.7 |  | 49 | 3.7 |  |
+| Stomatitis | 15 | 0 |  | 15 | 1.5 |  |
+| Constipation | 14 | 0 |  | 35 | 0 |  |
+| Vomiting | 11 | 0.4 |  | 20 | 2.2 |  |
+| Skin disorders |  |  |  |  |  |  |
+| Rashb | 34 | 0.7 |  | 5.9 | 0 |  |
+| Dry skinc | 23 | 0 |  | 4.4 | 0 |  |
+| Nail toxicityd | 22 | 0 |  | 1.5 | 0 |  |
+| Prurituse | 13 | 0 |  | 5.1 | 0 |  |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |  |
+| Decreased appetite | 18 |  | 1.1 | 36 |  | 2.9 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |
+| Cough | 17 |  | 0 | 14 |  | 0 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |  |
+| Back pain | 10 |  | 0.4 | 9 |  | 0.7 |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |  |
+| Fatiguef | 22 | 1.8 |  | 40 | 5.1 |  |
+| * NCI CTCAE v4.0. a No grade 4 events were reported. b Includes rash, rash generalized, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, erythema, folliculitis, acne, dermatitis and acneform dermatitis. c Includes dry skin, eczema, skin fissures, xerosis. d Includes nail disorders, nail bed disorders, nail bed inflammation, nail bed tenderness, nail discoloration, nail disorder, nail dystrophy, nail infection, nail ridging, nail toxicity, onychoclasis, onycholysis, onychomadesis, paronychia. e Includes pruritus, pruritus generalized, eyelid pruritus. |  |  |  |  |  |  |
+| f Includes fatigue, asthenia. |  |  |  |  |  |  |
+
+Table 3 Common Laboratory Abnormalities (>20% for all NCI CTCAE Grades) in AURA3
+
+| Laboratory Abnormality | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131a) |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Change from Baseline All Grades(%) | Change from Baselineto Grade 3 or Grade 4(%)a |  |  |  |  |
-| Clinical Chemistry |  |  |  |  |  |
-| Hyponatremia | 26 | 3.4 |  |  |  |
-| Hypermagnesemia | 20 | 0.7 |  |  |  |
+| Change from Baseline All Grades(%) | Change from Baseline to Grade 3 or Grade 4(%) | Change from BaselineAll Grades(%) |  | Change from Baseline to Grade 3 or Grade 4(%) |  |
 | Hematologic |  |  |  |  |  |
-| Lymphopenia | 63 | 3.3 |  |  |  |
-| Thrombocytopenia | 54 | 1.2a |  |  |  |
-| Anemia | 44 | 0.2 |  |  |  |
-| Neutropenia | 33 | 3.4 |  |  |  |
-| a The only grade 4 laboratory abnormality was 1 patient with grade 4 thrombocytopenia. |  |  |  |  |  |
+| Leukopenia | 61 | 1.1 |  | 75 | 5.3 |
+| Lymphopenia | 61 | 1.1 |  | 75 | 5.3 |
+| Thrombocytopenia | 46 | 0.7 |  | 48 | 7.4 |
+| Neutropenia | 27 | 2.2 |  | 49 | 12 |
+
+a Based on the number of patients with available follow-up laboratory data
+
+AURA Extension and AURA2 Trials
+
+The safety of TAGRISSO was evaluated in two single arm trials, AURA Extension (n=201) and AURA2 (n=210).
+A total of 411 patients with EGFR 790M mutation-positive NSLC who received one or more prior EGFR therapies including an EGFR TKI were treated with TAGRISSO (80 mg daily).
+The majority of patients were heavily pretreated.
+Prior to enrollment, 68% of patients had received at least 2 prior treatment regimens, 46% had received 3 or more prior lines of therapy, and 63% had received prior platinum-based chemotherapy.
+
+Median duration of exposure to TAGRISSO was 7.7 months (range: <0.1 to 11.6 months).
+The toxicity profile of TAGRISSO observed in the AURA Extension and AURA2 trials was generally consistent with the toxicity profile observed in the AURA3 trial.
+Four patients (1%) treated with TAGRISSO developed fatal adverse reactions of ILD/pneumonitis.
+Discontinuation of therapy due to adverse reactions occurred in 5.6% of patients treated with TAGRISSO.
+The most frequent adverse reactions that led to discontinuation were ILD/pneumonitis.

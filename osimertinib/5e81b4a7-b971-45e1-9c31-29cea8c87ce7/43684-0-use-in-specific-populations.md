@@ -52,16 +52,16 @@ The safety and effectiveness of TAGRISSO in pediatric patients have not been est
 
 ## 8.5 Geriatric Use
 
-One hundred eighty-seven (45%) of the 411 patients in clinical trials of TAGRISSO were 65 years of age and older, and 54 patients (13%) were 75 years of age and older.
+Three hundred and forty-six (42%) of the 833 patients in AURA3 (n=279), AURA Extension (n=201), AURA2 (n=210), and an expansion cohort in the first-in-human trial of osimertinib (AURA1, n=143) were 65 years of age and older.
 No overall differences in effectiveness were observed based on age.
-Exploratory analysis suggests a higher incidence of Grade 3 and 4 adverse reactions (32% versus 25%) and more frequent dose modifications for adverse reactions (23% versus 17%) in patients 65 years or older as compared to those younger than 65 years.
+Exploratory analysis suggests a higher incidence of Grade 3 and 4 adverse reactions (9.8% versus 6.8%) and more frequent dose modifications for adverse reactions (10.1% versus 6.0%) in patients 65 years or older as compared to those younger than 65 years.
 
 ## 8.6 Renal Impairment
 
-No dose adjustment is recommended in patients with mild [creatinine clearance (CLcr) 60-89 mL/min, as estimated by the Cockcroft Gault method (C-G)] or moderate (CLcr 30-59 mL/min, as estimated by C-G) renal impairment.
-There is no recommended dose of TAGRISSO for patients with severe renal impairment (CLcr <30 mL/min) or end-stage renal disease [see Clinical Pharmacology (12.3)].
+No dose adjustment is recommended in patients with mild, [creatinine clearance (CLcr) 60-89 mL/min, as estimated by the Cockcroft Gault method (C-G)] moderate, (CLcr 30‑59 mL/min, as estimated by C-G) or severe (CLcr 15-29 mL/min) renal impairment.
+There is no recommended dose of TAGRISSO for patients with end-stage renal disease [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-No dose adjustment is recommended in patients with mild hepatic impairment [total bilirubin less than or equal to upper limit of normal (ULN) and AST greater than ULN or total bilirubin between 1.0 to 1.5 times ULN and any AST].
-There is no recommended dose for TAGRISSO for patients with moderate or severe hepatic impairment [see Clinical Pharmacology (12.3)].
+No dose adjustment is recommended in patients with mild hepatic impairment [total bilirubin less than or equal to upper limit of normal (ULN) and AST greater than ULN or total bilirubin between 1.0 to 1.5 times ULN and any AST] or moderate hepatic impairment (total bilirubin between 1.5 to 3 times ULN and any AST).
+There is no recommended dose for TAGRISSO for patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].

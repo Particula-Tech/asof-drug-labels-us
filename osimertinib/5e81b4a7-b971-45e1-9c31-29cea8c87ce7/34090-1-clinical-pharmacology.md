@@ -3,23 +3,28 @@
 ## 12.1 Mechanism of Action
 
 Osimertinib is a kinase inhibitor of the epidermal growth factor receptor (EGFR), which binds irreversibly to certain mutant forms of EGFR (T790M, L858R, and exon 19 deletion) at approximately 9-fold lower concentrations than wild-type.
-In cultured cells and animal tumor implantation models, osimertinib exhibited anti-tumor activity against NSCLC lines harboring EGFR-mutations (T790M/L858R, L858R, T790M/exon 19 deletion, and exon 19 deletion) and, to a lesser extent, wild-type EGFR amplifications.
 Two pharmacologically-active metabolites (AZ7550 and AZ5104 circulating at approximately 10% of the parent) with similar inhibitory profiles to osimertinib have been identified in the plasma after oral administration of osimertinib.
-AZ7550 showed a similar potency to osimertinib, while AZ5104 showed greater potency against exon 19 deletion and T790M mutants (approximately 8-fold) and wild-type (approximately 15-fold) EGFR.
-In vitro, osimertinib also inhibited the activity of HER2, HER3, HER4, ACK1, and BLK at clinically relevant concentrations.
+AZ7550 showed a similar potency to osimertinib, while AZ5104 showed greater potency against exon 19 deletion and T790M mutants (approximately 8-fold) and wild-type (approximately 15-fold) EGFR. _12.3_Pharmacokinetics_1In vitro, osimertinib also inhibited the activity of HER2, HER3, HER4, ACK1, and BLK at clinically relevant concentrations.
+
+In cultured cells and animal tumor implantation models, osimertinib exhibited anti-tumor activity against NSCLC lines harboring EGFR-mutations (T790M/L858R, L858R, T790M/exon 19 deletion, and exon 19 deletion) and, to a lesser extent, wild-type EGFR amplifications.
+Osimertinib distributed to the brain in multiple animal species (monkey, rat, and mouse) with brain to plasma AUC ratios of approximately 2 following oral dosing.
+These data are consistent with observations of tumor regression and increased survival in osimertinib- versus control-treated animals in a pre-clinical mutant-EGFR intracranial mouse metastasis xenograft model (PC9; exon 19 del)..
 
 ## 12.2 Pharmacodynamics
 
+Based on an analysis of dose-exposure response relationships over the dose range of 20 mg (0.25 times the recommended dose) to 240 mg (3 times the recommended dose), no apparent relationship between osimertinib exposure and objective response rate, duration of response and progression-free survival was identified; however, there were limited data available at the 20 mg dose.
+Over the same dose range, increased exposure led to increased probability of adverse reactions, specifically rash, diarrhea and ILD.
+
 Cardiac Electrophysiology
 
-The QTc interval prolongation potential of osimertinib was assessed in 210 patients who received TAGRISSO 80 mg daily in Study 2.
+The QTc interval prolongation potential of osimertinib was assessed in 210 patients who received TAGRISSO 80 mg daily in AURA2.
 A central tendency analysis of the QTcF data at steady-state demonstrated that the maximum mean change from baseline was 16.2 msec (upper bound of two-sided 90% confidence interval (CI) 17.6 msec).
-A pharmacokinetic/pharmacodynamic analysis in Study 2 suggested a concentration-dependent QTc interval prolongation of 14 msec (upper bound of two-sided 90% CI: 16 msec) at a dose of TAGRISSO 80 mg.
+A pharmacokinetic/pharmacodynamic analysis in AURA2 suggested a concentration-dependent QTc interval prolongation of 14 msec (upper bound of two-sided 90% CI: 16 msec) at a dose of TAGRISSO 80 mg.
 
 ## 12.3 Pharmacokinetics
 
 The area under the plasma concentration-time curve (AUC) and maximal plasma concentration (Cmax) of osimertinib increased dose proportionally over 20 to 240 mg dose range (i.e., 0.25 to 3 times the recommended dosage) after oral administration and exhibited linear pharmacokinetics (PK).
-Administration of TAGRISSO orally once daily resulted in approximately 3-fold accumulation with steady state exposures achieved after 15 days of dosing.
+Administration of TAGRISSO orally once daily resulted in approximately 3-fold accumulation with steady-state exposures achieved after 15 days of dosing.
 At steady state, the Cmax to Cmin (minimal concentration) ratio was 1.6-fold.
 
 Absorption
@@ -30,7 +35,7 @@ Following administration of a 20 mg TAGRISSO tablet with a high-fat, high-calori
 
 Distribution
 
-The mean volume of distribution at steady-state (Vss/F) of osimertinib was 986 L. Plasma protein binding of osimertinib is likely high based on its physiochemical properties.
+The mean volume of distribution at steady-state (Vss/F) of osimertinib was 997 L. Plasma protein binding of osimertinib is likely high based on its physiochemical properties.
 
 Elimination
 
@@ -49,8 +54,8 @@ Unchanged osimertinib accounted for approximately 2% of the elimination.
 
 Specific Populations
 
-No clinically significant differences in the pharmacokinetics of osimertinib were observed based on age, sex, ethnicity, body weight, smoking status, mild (CLcr 60-89 mL/min, as estimated by C-G) or moderate (CLcr 30-59 mL/min, as estimated by C-G) renal impairment, or mild hepatic impairment (total bilirubin less than or equal to ULN and AST greater than ULN or total bilirubin between 1 to 1.5 times ULN and any AST).
-The pharmacokinetics of osimertinib in patients with severe renal impairment (CLcr less than 30 mL/min) or with moderate to severe hepatic impairment (moderate: total bilirubin between 1.5 to 3 times ULN and any AST, and severe: total bilirubin between 3 to 10 times ULN and any AST) are unknown.
+No clinically significant differences in the pharmacokinetics of osimertinib were observed based on age, sex, ethnicity, body weight, baseline albumin, smoking status, mild (CLcr 60-89 mL/min, as estimated by C-G), moderate (CLcr 30-59 mL/min, as estimated by C-G), or severe (CLcr 15-29 mL/min) renal impairment, or mild (total bilirubin less than or equal to ULN and AST greater than ULN or total bilirubin between 1 to 1.5 times ULN and any AST) or moderate (total bilirubin between 1.5 to 3 times ULN and any AST) hepatic impairment.
+The pharmacokinetics of osimertinib in patients with end-stage renal disease (CLcr less than 15 mL/min) or with severe hepatic impairment (total bilirubin between 3 to 10 times ULN and any AST) are unknown.
 
 Drug Interactions
 
