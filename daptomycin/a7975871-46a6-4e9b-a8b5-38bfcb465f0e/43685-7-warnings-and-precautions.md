@@ -13,9 +13,9 @@ Rhabdomyolysis, with or without acute renal failure, has been reported [see Adve
 Patients receiving CUBICIN should be monitored for the development of muscle pain or weakness, particularly of the distal extremities.
 In patients who receive CUBICIN, CPK levels should be monitored weekly, and more frequently in patients who received recent prior or concomitant therapy with an HMG-CoA reductase inhibitor or in whom elevations in CPK occur during treatment with CUBICIN.
 
-In patients with renal impairment, both renal function and CPK should be monitored more frequently than once weekly [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+In adult patients with renal impairment, both renal function and CPK should be monitored more frequently than once weekly [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-In Phase 1 studies and Phase 2 clinical trials, CPK elevations appeared to be more frequent when CUBICIN was dosed more than once daily.
+In Phase 1 studies and Phase 2 clinical trials in adults, CPK elevations appeared to be more frequent when CUBICIN was dosed more than once daily.
 Therefore, CUBICIN should not be dosed more frequently than once a day.
 
 CUBICIN should be discontinued in patients with unexplained signs and symptoms of myopathy in conjunction with CPK elevations to levels >1,000 U/L (~5× ULN), and in patients without reported symptoms who have marked elevations in CPK, with levels >2,000 U/L (≥10× ULN).
@@ -34,6 +34,7 @@ Treatment with systemic steroids is recommended.
 
 Cases of peripheral neuropathy have been reported during the CUBICIN postmarketing experience [see Adverse Reactions (6.2)].
 Therefore, physicians should be alert to signs and symptoms of peripheral neuropathy in patients receiving CUBICIN.
+Monitor for neuropathy and consider discontinuation.
 
 ## 5.5 Potential Nervous System and/or Muscular System Effects in Pediatric Patients Younger than 12 Months
 
@@ -58,14 +59,14 @@ Patients with persisting or relapsing S. aureus bacteremia/endocarditis or poor 
 If a blood culture is positive for S. aureus, minimum inhibitory concentration (MIC) susceptibility testing of the isolate should be performed using a standardized procedure, and diagnostic evaluation of the patient should be performed to rule out sequestered foci of infection.
 Appropriate surgical intervention (e.g., debridement, removal of prosthetic devices, valve replacement surgery) and/or consideration of a change in antibacterial regimen may be required.
 
-Failure of treatment due to persisting or relapsing S. aureus bacteremia/endocarditis may be due to reduced daptomycin susceptibility (as evidenced by increasing MIC of the S. aureus isolate) [see Clinical Trials (14.2)].
+Failure of treatment due to persisting or relapsing S. aureus bacteremia/endocarditis may be due to reduced daptomycin susceptibility (as evidenced by increasing MIC of the S. aureus isolate) [see Clinical Studies (14.2)].
 
 ## 5.8 Decreased Efficacy in Patients with Moderate Baseline Renal Impairment
 
-Limited data are available from the two Phase 3 complicated skin and skin structure infection (cSSSI) trials regarding clinical efficacy of CUBICIN treatment in patients with creatinine clearance (CLCR) <50 mL/min; only 31/534 (6%) patients treated with CUBICIN in the intent-to-treat (ITT) population had a baseline CLCR <50 mL/min.
-Table 2 shows the number of patients by renal function and treatment group who were clinical successes in the Phase 3 cSSSI trials.
+Limited data are available from the two Phase 3 complicated skin and skin structure infection (cSSSI) trials regarding clinical efficacy of CUBICIN treatment in adult patients with creatinine clearance (CLCR) <50 mL/min; only 31/534 (6%) patients treated with CUBICIN in the intent-to-treat (ITT) population had a baseline CLCR <50 mL/min.
+Table 3 shows the number of adult patients by renal function and treatment group who were clinical successes in the Phase 3 cSSSI trials.
 
-Table 2: Clinical Success Rates by Renal Function and Treatment Group in Phase 3 cSSSI Trials (Population: ITT)
+Table 3: Clinical Success Rates by Renal Function and Treatment Group in Phase 3 cSSSI Trials in Adult Patients (Population: ITT)
 
 | CUBICIN 4 mg/kg q24h | Comparator |  |
 | --- | --- | --- |
@@ -73,10 +74,10 @@ Table 2: Clinical Success Rates by Renal Function and Treatment Group in Phase 3
 | 50-70 mL/min | 25/38 (66%) | 30/48 (63%) |
 | 30-<50 mL/min | 7/15 (47%) | 20/35 (57%) |
 
-In a subgroup analysis of the ITT population in the Phase 3 S. aureus bacteremia/endocarditis trial, clinical success rates, as determined by a treatment-blinded Adjudication Committee [see Clinical Trials (14.2)], in the CUBICIN-treated patients were lower in patients with baseline CLCR <50 mL/min (see Table 3).
-A decrease of the magnitude shown in Table 3 was not observed in comparator-treated patients.
+In a subgroup analysis of the ITT population in the Phase 3 S. aureus bacteremia/endocarditis trial, clinical success rates, as determined by a treatment-blinded Adjudication Committee [see Clinical Studies (14.2)], in the CUBICIN-treated adult patients were lower in patients with baseline CLCR <50 mL/min (see Table 4).
+A decrease of the magnitude shown in Table 4 was not observed in comparator-treated patients.
 
-Table 3: Adjudication Committee Clinical Success Rates at Test of Cure by Baseline Creatinine Clearance and Treatment Subgroup in the S. aureus Bacteremia/Endocarditis Trial (Population: ITT)
+Table 4: Adjudication Committee Clinical Success Rates at Test of Cure by Baseline Creatinine Clearance and Treatment Subgroup in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
 
 | Bacteremia | Right-Sided Infective Endocarditis | Bacteremia | Right-Sided Infective Endocarditis |  |
 | --- | --- | --- | --- | --- |
@@ -86,7 +87,7 @@ Table 3: Adjudication Committee Clinical Success Rates at Test of Cure by Baseli
 | 50–80 mL/min | 12/26 (46%) | 1/4 (25%) | 13/31 (42%) | 1/2 (50%) |
 | 30–<50 mL/min | 2/14 (14%) | 0/1 (0%) | 7/17 (41%) | 1/1 (100%) |
 
-Consider these data when selecting antibacterial therapy for use in patients with baseline moderate to severe renal impairment.
+Consider these data when selecting antibacterial therapy for use in adult patients with baseline moderate to severe renal impairment.
 
 ## 5.9 Drug-Laboratory Test Interactions
 
@@ -95,6 +96,6 @@ Clinically relevant plasma concentrations of daptomycin have been observed to ca
 ## 5.10 Non-Susceptible Microorganisms
 
 The use of antibacterials may promote the overgrowth of non-susceptible microorganisms.
-If superinfection occurs during therapy, appropriate measures should be taken.
+If these infections occur during therapy, appropriate measures should be taken.
 
 Prescribing CUBICIN in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

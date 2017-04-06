@@ -1,33 +1,66 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Administration Duration
+## 2.1 Important Administration Duration Instructions
 
-CUBICIN should be administered intravenously either by injection over a two (2) minute period or by infusion over a thirty (30) minute period.
+Adults
 
-## 2.2 Complicated Skin and Skin Structure Infections
+Administer the appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL) to adult patients intravenously either by injection over a two (2) minute period or by intravenous infusion over a thirty (30) minute period [see Dosage and Administration (2.2, 2.6)].
 
-CUBICIN 4 mg/kg should be administered intravenously in 0.9% sodium chloride injection once every 24 hours for 7 to 14 days.
+Pediatric Patients (1 to 17 Years of Age)
 
-## 2.3 Staphylococcus aureus Bloodstream Infections (Bacteremia), Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
+Unlike in adults, do NOT administer CUBICIN by injection over a two (2) minute period to pediatric patients.
 
-CUBICIN 6 mg/kg should be administered intravenously in 0.9% sodium chloride injection once every 24 hours for 2 to 6 weeks.
+- Pediatric Patients 7 to 17 years of Age: Administer CUBICIN intravenously by infusion over a 30-minute period [see Dosage and Administration (2.3, 2.6)].
+- Pediatric Patients 1 to 6 years of Age: Administer CUBICIN intravenously by infusion over a 60-minute period [see Dosage and Administration (2.3, 2.6)].
+
+## 2.2 Dosage in Adults for cSSSI
+
+Administer CUBICIN 4 mg/kg to adult patients intravenously in 0.9% sodium chloride injection once every 24 hours for 7 to 14 days.
+
+## 2.3 Dosage in Pediatric Patients (1 to 17 Years of Age) for cSSSI
+
+The recommended dosage regimens based on age for pediatric patients with cSSSI are shown in Table 1.
+Administer CUBICIN intravenously in 0.9% sodium chloride injection once every 24 hours for up to 14 days.
+
+Table 1: Recommended Dosage of CUBICIN in Pediatric Patients (1 to 17 Years of Age) with cSSSI, Based on Age
+
+| Age Range | Dosage RegimenRecommended dosage regimen is for pediatric patients (1 to 17 years of age) with normal renal function. Dosage adjustment for pediatric patients with renal impairment has not been established. | Duration of therapy |
+| --- | --- | --- |
+| 12 to 17 years | 5 mg/kg once every 24 hours infused over 30 minutes |  |
+| 7 to 11 years | 7 mg/kg once every 24 hours infused over 30 minutes |  |
+| 2 to 6 years | 9 mg/kg once every 24 hours infused over 60 minutes | Up to 14 days |
+| 1 to < 2 years | 10 mg/kg once every 24 hours infused over 60 minutes |  |
+
+## 2.4 Dosage in Adult Patients with Staphylococcus aureus Bloodstream Infections (Bacteremia), Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
+
+Administer CUBICIN 6 mg/kg to adult patients intravenously in 0.9% sodium chloride injection once every 24 hours for 2 to 6 weeks.
 There are limited safety data for the use of CUBICIN for more than 28 days of therapy.
-In the Phase 3 trial, there were a total of 14 patients who were treated with CUBICIN for more than 28 days.
+In the Phase 3 trial, there were a total of 14 adult patients who were treated with CUBICIN for more than 28 days.
 
-## 2.4 Patients with Renal Impairment
+## 2.5 Dosage in Patients with Renal Impairment
 
-The recommended dosage regimen for patients with creatinine clearance (CLCR) less than 30 mL/min, including patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 1).
+Adult Patients:
+
+No dosage adjustment is required in adult patients with creatinine clearance (CLCR) greater than or equal to 30 mL/min.
+The recommended dosage regimen for CUBICIN in adult patients with CLCR less than 30 mL/min, including adult patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 2).
 When possible, CUBICIN should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.8), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
-Table 1: Recommended Dosage of CUBICIN in Adult Patients
+Table 2: Recommended Dosage of CUBICIN in Adult Patients
 
 | cSSSI | S. aureus Bloodstream Infections |  |
 | --- | --- | --- |
-| Creatinine Clearance (CLCR) | Dosage Regimen |  |
-| ≥30 mL/min | 4 mg/kg once every 24 hours | 6 mg/kg once every 24 hours |
-| <30 mL/min, including hemodialysis and CAPD | 4 mg/kg once every 48 hoursWhen possible, administer CUBICIN following the completion of hemodialysis on hemodialysis days. | 6 mg/kg once every 48 hours |
+| Creatinine Clearance (CLCR) | Dosage Regimen in Adults |  |
+| Greater than or equal to 30 mL/min | 4 mg/kg once every 24 hours | 6 mg/kg once every 24 hours |
+| Less than 30 mL/min, including hemodialysis and CAPD | 4 mg/kg once every 48 hoursWhen possible, administer CUBICIN following the completion of hemodialysis on hemodialysis days. | 6 mg/kg once every 48 hours |
 
-## 2.5 Preparation of CUBICIN for Administration
+Pediatric Patients:
+
+The dosage regimen for CUBICIN in pediatric patients with renal impairment has not been established.
+
+## 2.6 Preparation and Administration of CUBICIN
+
+There are two formulations of daptomycin that have differences concerning storage and reconstitution.
+Carefully follow the reconstitution and storage procedures in labeling.
 
 Reconstitution of CUBICIN Vial
 
@@ -51,13 +84,25 @@ Parenteral drug products should be inspected visually for particulate matter pri
 Slowly remove reconstituted liquid (50 mg daptomycin/mL) from the vial using a beveled sterile needle that is 21 gauge or smaller in diameter.
 Administer as an intravenous injection or infusion as described below:
 
+Adults
+
 Intravenous Injection over a period of 2 minutes
 
-For intravenous (IV) injection over a period of 2 minutes, administer the appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL).
+- For intravenous (IV) injection over a period of 2 minutes in adult patients only: Administer the appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL).
 
 Intravenous Infusion over a period of 30 minutes
 
-For IV infusion over a period of 30 minutes, the appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
+- For IV infusion over a period of 30 minutes in adult patients: The appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
+
+Pediatric Patients (1 to 17 Years of Age)
+
+Intravenous Infusion over a period of 30 or 60 minutes
+
+- Unlike in Adults, do NOT administer CUBICIN by injection over a two (2) minute period to pediatric patients [see Dosage and Administration (2.1)].
+- For Intravenous infusion over a period of 60 minutes in pediatric patients 1 to 6 years of age: The appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into an intravenous infusion bag containing 25 mL of 0.9% sodium chloride injection.
+  The infusion rate should be maintained at 0.42 mL/minute over the 60-minute period.
+- For Intravenous infusion over a period of 30 minutes in pediatric patients 7 to 17 years of age: The appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
+  The infusion rate should be maintained at 1.67 mL/minute over the 30-minute period.
 
 No preservative or bacteriostatic agent is present in this product.
 Aseptic technique must be used in the preparation of final IV solution.
@@ -71,11 +116,11 @@ Stability studies have shown that the reconstituted solution is stable in the vi
 The diluted solution is stable in the infusion bag for 12 hours at room temperature and 48 hours if stored under refrigeration.
 The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) should not exceed 12 hours at room temperature or 48 hours under refrigeration.
 
-## 2.6 Compatible Intravenous Solutions
+## 2.7 Compatible Intravenous Solutions
 
 CUBICIN is compatible with 0.9% sodium chloride injection and lactated Ringer's injection.
 
-## 2.7 Incompatibilities
+## 2.8 Incompatibilities
 
 CUBICIN is not compatible with dextrose-containing diluents.
 

@@ -5,7 +5,7 @@
 Long-term carcinogenicity studies in animals have not been conducted to evaluate the carcinogenic potential of CUBICIN.
 However, neither mutagenic nor clastogenic potential was found in a battery of genotoxicity tests, including the Ames assay, a mammalian cell gene mutation assay, a test for chromosomal aberrations in Chinese hamster ovary cells, an in vivo micronucleus assay, an in vitro DNA repair assay, and an in vivo sister chromatid exchange assay in Chinese hamsters.
 
-Daptomycin did not affect the fertility or reproductive performance of male and female rats when administered intravenously at doses up to 150 mg/kg/day, which is approximately 9 times the estimated human exposure level based upon AUCs.
+Daptomycin did not affect the fertility or reproductive performance of male and female rats when administered intravenously at doses of 25, 75, or 150 mg/kg/day, which is approximately up to 9 times the estimated human exposure level based upon AUCs (or approximately up to 4 times the recommended human dose of 6 mg/kg based on body surface area comparison).
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
