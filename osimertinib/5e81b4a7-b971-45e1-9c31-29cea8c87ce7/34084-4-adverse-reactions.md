@@ -43,7 +43,7 @@ Table 2 Adverse Reactions Reported in ≥10% of Patients Receiving TAGRISSO in A
 
 | Adverse Reaction | TAGRISSO(N=279) |  |  | Chemotherapy(Pemetrexed/Cisplatin orPemetrexed/Carboplatin)(N=136) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| All Gradesa(%) |  | Grade 3/4a(%) | All Gradesa(%) |  | Grade 3/4a(%) |  |
+| All GradesNo grade 4 events were reported.(%) |  | Grade 3/4(%) | All Grades(%) |  | Grade 3/4(%) |  |
 | Gastrointestinal disorders |  |  |  |  |  |  |
 | Diarrhea | 41 | 1.1 |  | 11 | 1.5 |  |
 | Nausea | 16 | 0.7 |  | 49 | 3.7 |  |
@@ -51,10 +51,10 @@ Table 2 Adverse Reactions Reported in ≥10% of Patients Receiving TAGRISSO in A
 | Constipation | 14 | 0 |  | 35 | 0 |  |
 | Vomiting | 11 | 0.4 |  | 20 | 2.2 |  |
 | Skin disorders |  |  |  |  |  |  |
-| Rashb | 34 | 0.7 |  | 5.9 | 0 |  |
-| Dry skinc | 23 | 0 |  | 4.4 | 0 |  |
-| Nail toxicityd | 22 | 0 |  | 1.5 | 0 |  |
-| Prurituse | 13 | 0 |  | 5.1 | 0 |  |
+| RashIncludes rash, rash generalized, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, erythema, folliculitis, acne, dermatitis and acneform dermatitis. | 34 | 0.7 |  | 5.9 | 0 |  |
+| Dry skinIncludes dry skin, eczema, skin fissures, xerosis. | 23 | 0 |  | 4.4 | 0 |  |
+| Nail toxicityIncludes nail disorders, nail bed disorders, nail bed inflammation, nail bed tenderness, nail discoloration, nail disorder, nail dystrophy, nail infection, nail ridging, nail toxicity, onychoclasis, onycholysis, onychomadesis, paronychia. | 22 | 0 |  | 1.5 | 0 |  |
+| PruritusIncludes pruritus, pruritus generalized, eyelid pruritus. | 13 | 0 |  | 5.1 | 0 |  |
 | Metabolism and Nutrition Disorders |  |  |  |  |  |  |
 | Decreased appetite | 18 |  | 1.1 | 36 |  | 2.9 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |
@@ -62,13 +62,11 @@ Table 2 Adverse Reactions Reported in ≥10% of Patients Receiving TAGRISSO in A
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |  |
 | Back pain | 10 |  | 0.4 | 9 |  | 0.7 |
 | General Disorders and Administration Site Conditions |  |  |  |  |  |  |
-| Fatiguef | 22 | 1.8 |  | 40 | 5.1 |  |
-| * NCI CTCAE v4.0. a No grade 4 events were reported. b Includes rash, rash generalized, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, erythema, folliculitis, acne, dermatitis and acneform dermatitis. c Includes dry skin, eczema, skin fissures, xerosis. d Includes nail disorders, nail bed disorders, nail bed inflammation, nail bed tenderness, nail discoloration, nail disorder, nail dystrophy, nail infection, nail ridging, nail toxicity, onychoclasis, onycholysis, onychomadesis, paronychia. e Includes pruritus, pruritus generalized, eyelid pruritus. |  |  |  |  |  |  |
-| f Includes fatigue, asthenia. |  |  |  |  |  |  |
+| FatigueIncludes fatigue, asthenia. | 22 | 1.8 |  | 40 | 5.1 |  |
 
 Table 3 Common Laboratory Abnormalities (>20% for all NCI CTCAE Grades) in AURA3
 
-| Laboratory Abnormality | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131a) |  |  |
+| Laboratory Abnormality | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131Based on the number of patients with available follow-up laboratory data) |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Change from Baseline All Grades(%) | Change from Baseline to Grade 3 or Grade 4(%) | Change from BaselineAll Grades(%) |  | Change from Baseline to Grade 3 or Grade 4(%) |  |
 | Hematologic |  |  |  |  |  |
@@ -76,8 +74,6 @@ Table 3 Common Laboratory Abnormalities (>20% for all NCI CTCAE Grades) in AURA3
 | Lymphopenia | 61 | 1.1 |  | 75 | 5.3 |
 | Thrombocytopenia | 46 | 0.7 |  | 48 | 7.4 |
 | Neutropenia | 27 | 2.2 |  | 49 | 12 |
-
-a Based on the number of patients with available follow-up laboratory data
 
 AURA Extension and AURA2 Trials
 

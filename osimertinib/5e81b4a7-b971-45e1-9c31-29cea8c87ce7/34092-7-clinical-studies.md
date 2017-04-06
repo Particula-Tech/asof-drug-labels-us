@@ -29,28 +29,21 @@ Table 4 AURA3 Efficacy Results According to Investigator Assessment
 | Progression-Free Survival |  |  |
 | Number of Events (%) | 140 (50) | 110 (79) |
 | Progressive disease | 129 (46) | 104 (74) |
-| Deatha | 11 (4) | 6(4) |
+| DeathWithout documented radiological disease progression | 11 (4) | 6(4) |
 | Median PFS in Months (95% CI) | 10.1 (8.3, 12.3) | 4.4 (4.2, 5.6) |
 | Hazard Ratio (95% CI) | 0.30 (0.23, 0.41) |  |
-| P-valueb, d | <0.001 |  |
-| Objective Response Ratee |  |  |
+| P-valueStratified by ethnicity (Asian vs. non-Asian)Stratified log-rank test | <0.001 |  |
+| Objective Response RateConfirmed |  |  |
 | Objective Response Rate | 65% | 29% |
-| (95% CI)b, f | (59%, 70%) | 21%, 37%) |
+| (95% CI)Chi-square test | (59%, 70%) | 21%, 37%) |
 | Complete response | 1% | 1% |
 | Partial response | 63% | 27% |
 | P-value | <0.001 |  |
 | Duration of Response (DoR) |  |  |
 | Median Duration of Response in Months (95% CI) | 11.0 (8.6, 12.6) | 4.2 (3.0, 5.9) |
 
-1. a Without documented radiological disease progression
-2. b Stratified by ethnicity (Asian vs. non-Asian)
-3. c Pike estimator
-4. d Stratified log-rank test
-5. e Confirmed
-6. f Chi-square test
-
 Figure 1.
-Kaplan-Meier Curves of Progression-Free Survival as Assessed by Investigator in Study 1
+Kaplan-Meier Curves of PFS by Investigator Assessment in AURA#
 
 In a sensitivity analysis of PFS according to blinded independent central review, median PFS was 11 months in the TAGRISSO arm compared to 4.2 months in the chemotherapy arm (HR 0.28; 95% CI: 0.20, 0.38).
 
@@ -63,19 +56,13 @@ CNS Efficacy by BICR in Patients with Measurable CNS Lesions at Baseline Brain S
 
 | Efficacy Parameter | TAGRISSON=30 | ChemotherapyN=16 |
 | --- | --- | --- |
-| CNS Objective Response Ratea,b |  |  |
+| CNS Objective Response RateNRNot ReachedBased on confirmed response. |  |  |
 | CNS Objective Response Rate | 57% | 25% |
 | (95% CI) | (37%, 75%) | (7%, 52%) |
 | Complete response | 7% | 0% |
 | Partial response | 50% | 25% |
-| CNS Duration of Responsec |  |  |
-| Median Duration of Response, Months (Range) | NR (1.4, 12.5) | 5.7 (1.4, 5.7) |
-
-1. NRNot Reached
-2. a According to RECIST v1.1.
-3. b Based on confirmed response.
-
-c Based on patients with response only; DoR definedas the time from the date of first documented response (complete response or partial response) until progression or death event.
+| CNS Duration of ResponseBased on patients with response only; DoR definedas the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
+| Median Duration of Response, Months (Range) | NR (1.4, 12.5) | 7.%2(1.4, 5.7) |
 
 Pretreated T790M Positive NSCLC Patients – AURA Extension and AURA2
 
@@ -94,15 +81,11 @@ The majority (96%) of patients with confirmed objective responses had ongoing re
 
 Table 6 Efficacy Results by BICR in AURA Extension and AURA2
 
-| Efficacy Parameter | Study 1 (N=201) | Study 2 (N=210) | Overall2(N=411) |
+| Efficacy Parameter | Study 1 (N=201) | Study 2 (N=210) | OverallPooled analysis of AURA Extension and AURA2.(N=411) |
 | --- | --- | --- | --- |
-| Objective Response Rate1 (95% CI) | 57% (50, 64) | 61% (54, 68) | 59%(54, 64) |
+| Objective Response RateObjective response rate according to RECIST v1.1. (95% CI) | 57% (50, 64) | 61% (54, 68) | 59%(54, 64) |
 | Complete Response | 0 | 1% | 0.5% |
 | Partial Response | 57% | 60% | 59% |
-
-1 Objective response rate according to RECIST v1.1.
-
-2 Pooled analysis of AURA Extension and AURA2.
 
 In a separate dose finding part of AURA Extension, 63 patients with centrally confirmed T790M-positive NSCLC progressed on prior systemic therapy, including an EGFR TKI were administered TAGRISSO 80 mg.
 In these patients, the BICR-confirmed objective response rate was 51% (32/63) and the median duration of response was 12.4 months from the time of first documented response.
