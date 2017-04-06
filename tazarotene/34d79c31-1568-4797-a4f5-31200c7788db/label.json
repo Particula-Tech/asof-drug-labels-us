@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA208258"
+  ],
+  "inn": "tazarotene",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-1374-2"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "tazarotene",
+      "name": "Tazarotene"
+    }
+  ],
+  "setid": "34d79c31-1568-4797-a4f5-31200c7788db",
+  "source": "dailymed"
+}
