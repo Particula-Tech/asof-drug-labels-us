@@ -15,7 +15,7 @@ Data
 
 Animal Data
 
-In pregnant rats given dietary doses of 0.5, 1.5 or 4.5 g/kg/day of sevelamer hydrochloride during organogenesis, reduced or irregular ossification of fetal bones, probably due to a reduced absorption of fat-soluble vitamin D, occurred in mid- and high-dose groups (human equivalent doses approximately equal to 3–4 times the maximum clinical trial dose of 13 g). In pregnant rabbits given oral doses of 100, 500 or 1000 mg/kg/day of sevelamer hydrochloride by gavage during organogenesis, an increase of early resorptions occurred in the high-dose group (human equivalent dose twice the maximum clinical trial dose).
+In pregnant rats given dietary doses of 0.5, 1.5, or 4.5 g/kg/day of sevelamer hydrochloride during organogenesis, reduced or irregular ossification of fetal bones, probably due to a reduced absorption of fat-soluble vitamin D, occurred in mid and high-dose groups (human equivalent doses approximately equal to 3–4 times the maximum clinical trial dose of 13 g). In pregnant rabbits given oral doses of 100, 500, or 1000 mg/kg/day of sevelamer hydrochloride by gavage during organogenesis, an increase of early resorptions occurred in the high-dose group (human equivalent dose twice the maximum clinical trial dose).
 
 ## 8.2 Lactation
 

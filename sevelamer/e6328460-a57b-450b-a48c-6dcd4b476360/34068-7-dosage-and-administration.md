@@ -6,13 +6,12 @@ Starting Dose for Adult Patients Not Taking a Phosphate Binder.
 The recommended starting dose of Renvela is 0.8 to 1.6 g taken orally with meals based on serum phosphorus level.
 Table 1 provides recommended starting doses of Renvela for adult patients not taking a phosphate binder.
 
-Table 1.
-Starting Dose for Adult Dialysis Patients Not Taking a Phosphate Binder
+Table 1: Starting Dose for Adult Dialysis Patients Not Taking a Phosphate Binder
 
 | Serum Phosphorus | Renvela |
 | --- | --- |
-| > 5.5 and < 7.5 mg/dL | 0.8 g three times daily with meals |
-| ≥ 7.5 mg/dL | 1.6 g three times daily with meals |
+| >5.5 and <7.5 mg/dL | 0.8 g three times daily with meals |
+| ≥7.5 mg/dL | 1.6 g three times daily with meals |
 
 Dose Titration for Adult Patients Taking Renvela.
 Titrate the Renvela dose by 0.8 g three times per day with meals at two-week intervals as necessary to achieve target serum phosphorus levels.
@@ -20,12 +19,11 @@ Based on clinical studies, the average prescribed adult daily dose of sevelamer 
 The highest daily adult dose of sevelamer carbonate studied was 14 grams in CKD patients on dialysis.
 
 Starting Dose for Pediatric Patients Not Taking a Phosphate Binder.
-The recommended starting dose for pediatric patients 6 years of age and older is 0.8 g to 1.6 g taken three times per day with meals based on the patient's Body Surface Area (BSA) category; see Table 2.
+The recommended starting dose for pediatric patients 6 years of age and older is 0.8 g to 1.6 g taken three times per day with meals based on the patient's body surface area (BSA) category; see Table 2.
 
-Table 2.
-Recommended Starting Dosage and Titration Increment based on Pediatric Patient's Body Surface Area (m2)
+Table 2: Recommended Starting Dosage and Titration Increment Based on Pediatric Patient's Body Surface Area (m2)
 
-| BSA (m2) | Starting dose per meal/snack | Titration increases/decreases per dose Titrate by 0.4 g Titrate by 0.8 g |
+| BSA (m2) | Starting Dose Per Meal/Snack | Titration Increases/Decreases Per Dose |
 | --- | --- | --- |
 | ≥0.75 to <1.2 | 0.8 g | Titrate by 0.4 g |
 | ≥1.2 | 1.6 g | Titrate by 0.8 g |
@@ -42,8 +40,7 @@ Use the same dose in grams.
 Switching from Calcium Acetate.
 Table 3 gives recommended starting doses of Renvela based on a patient's current calcium acetate dose.
 
-Table 3.
-Starting Dose for Dialysis Patients Switching From Calcium Acetate to Renvela
+Table 3: Starting Dose for Dialysis Patients Switching from Calcium Acetate to Renvela
 
 | Calcium Acetate 667 mg (Tablets per meal) | Renvela |
 | --- | --- |
@@ -57,17 +54,16 @@ Sevelamer carbonate powder is available in 0.8 or 2.4 g packets.
 For dose increments of 0.4 g, use one half of a 0.8 g packet.
 Place the sevelamer carbonate powder in a cup and suspend in the amount of water described in Table 4.
 
-Table 4.
-Sevelamer Carbonate Powder Preparation Instructions
+Table 4: Sevelamer Carbonate Powder Preparation Instructions
 
-|  | ounces | mL | Tablespoons |
+|  | Ounces | mL | Tablespoons |
 | --- | --- | --- | --- |
-| Renvela Powder Packet Strength | Minimum amount of water for dose preparation (either ounces, mL or Tablespoon) |  |  |
+| Amount of Renvela Powder | Minimum Amount of Water for Dose Preparation (either ounces, mL, or tablespoon) |  |  |
 | 0.4 g | 1 | 30 | 2 |
 | 0.8 g | 1 | 30 | 2 |
 | 2.4 g | 2 | 60 | 4 |
 
-Instruct patients to stir the mixture vigorously (it does not dissolve), resuspend, if necessary, right before administration and drink the entire preparation within 30 minutes.
+Instruct patients to stir the mixture vigorously (it does not dissolve), resuspend, if necessary, right before administration, and drink the entire preparation within 30 minutes.
 
 As an alternative to water, the entire contents of the sachet may be pre-mixed with a small amount of food or beverage and consumed immediately (within 30 minutes) as part of the meal.
 Do not heat Renvela Powder (e.g., microwave) or add to heated foods or liquids.
