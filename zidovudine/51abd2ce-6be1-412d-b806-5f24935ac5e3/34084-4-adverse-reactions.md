@@ -100,20 +100,19 @@ The long-term consequences of in utero and infant exposure to zidovudine are unk
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postmarketing use of zidovudine.
+The following adverse reactions have been identified during post-approval use of zidovudine.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Body as a Whole: Back pain, chest pain, flu-like syndrome, generalized pain, redistribution/accumulation of body fat [see Warnings and Precautions (5.8)].
-
-Cardiovascular: Cardiomyopathy, syncope.
-Eye: Macular edema.
-Gastrointestinal: Constipation, dysphagia, flatulence, oral mucosa pigmentation, mouth ulcer.
-General: Sensitization reactions including anaphylaxis and angioedema, vasculitis.
-Hematologic: Aplastic anemia, hemolytic anemia, leukopenia, lymphadenopathy, pancytopenia with marrow hypoplasia, pure red cell aplasia.
-Hepatobiliary: Hepatitis, hepatomegaly with steatosis, jaundice, lactic acidosis, pancreatitis.
-Musculoskeletal: Increased CPK, increased LDH, muscle spasm, myopathy and myositis with pathological changes (similar to that produced by HIV-1 disease), rhabdomyolysis, tremor.
-Nervous: Anxiety, confusion, depression, dizziness, loss of mental acuity, mania, paresthesia, seizures, somnolence, vertigo.
-Reproductive System and Breast: Gynecomastia.
-Respiratory: Dyspnea, rhinitis, sinusitis.
-Skin and Subcutaneous Tissue: Changes in skin and nail pigmentation, pruritus, Stevens-Johnson syndrome, toxic epidermal necrolysis, sweating, urticaria.
-Special Senses: Amblyopia, hearing loss, photophobia, taste perversion.
-Renal and Urinary: Urinary frequency, urinary hesitancy.
+Body as a Whole Back pain, chest pain, flu-like syndrome, generalized pain, redistribution/accumulation of body fat [see Warnings and Precautions (5.7)].
+Cardiovascular Cardiomyopathy, syncope.
+Eye Macular edema.
+Gastrointestinal Constipation, dysphagia, flatulence, oral mucosa pigmentation, mouth ulcer.
+General Sensitization reactions including anaphylaxis and angioedema, vasculitis.
+Hematologic Aplastic anemia, hemolytic anemia, leukopenia, lymphadenopathy, pancytopenia with marrow hypoplasia, pure red cell aplasia.
+Hepatobiliary Hepatitis, hepatomegaly with steatosis, jaundice, lactic acidosis, pancreatitis.
+Musculoskeletal Increased CPK, increased LDH, muscle spasm, myopathy and myositis with pathological changes (similar to that produced by HIV-1 disease), rhabdomyolysis, tremor.
+Nervous Anxiety, confusion, depression, dizziness, loss of mental acuity, mania, paresthesia, seizures, somnolence, vertigo.
+Reproductive System and Breast Gynecomastia.
+Respiratory Dyspnea, rhinitis, sinusitis.
+Skin and Subcutaneous Tissue Changes in skin and nail pigmentation, pruritus, Stevens-Johnson syndrome, toxic epidermal necrolysis, sweating, urticaria.
+Special Senses Amblyopia, hearing loss, photophobia, taste perversion.
+Renal and Urinary Urinary frequency, urinary hesitancy.

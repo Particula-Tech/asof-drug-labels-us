@@ -8,10 +8,10 @@ Oral Dosing The recommended oral dose of zidovudine oral solution is 300 mg twic
 
 Healthcare professionals should pay special attention to accurate calculation of the dose of zidovudine oral solution, transcription of the medication order, dispensing information, and dosing instructions to minimize risk for medication dosing errors.
 Prescribers should calculate the appropriate dose of zidovudine oral solution for each child based on body weight (kg) and should not exceed the recommended adult dose.
-Before prescribing zidovudine capsules or tablets, children should be assessed for the ability to swallow capsules or tablets.
-If a child is unable to reliably swallow a zidovudine capsule or tablet, the zidovudine syrup (zidovudine oral solution, USP) formulation should be prescribed.
-The recommended oral dosage in pediatric patients 4 weeks to less than 18 years and weighing greater than or equal to 4 kg is provided in Table 1.
-Zidovudine oral solution should be used to provide accurate dosage when whole tablets or capsules are not appropriate.
+Before prescribing zidovudine capsules, children should be assessed for the ability to swallow capsules.
+If a child is unable to reliably swallow a zidovudine capsule, the zidovudine syrup (zidovudine oral solution) formulation should be prescribed.
+The recommended oral dosage in pediatric patients aged 4 weeks to less than 18 years and weighing greater than or equal to 4 kg is provided in Table 1.
+Zidovudine oral solution should be used to provide accurate dosage when capsules are not appropriate.
 
 Table 1: Recommended Pediatric Oral Dosage of Zidovudine Oral Solution
 
@@ -42,17 +42,17 @@ Recommended Neonatal Dosages of Zidovudine
 | Oral | 8 mg/kg/day | 2 mg/kg every 6 hours |
 | Intravenous | 6 mg/kg/day | 1.5 mg/kg infused over 30 minutes, every 6 hours |
 
-## 2.4 Patients With Severe Anemia and/or Neutropenia
+## 2.4 Patients with Severe Anemia and/or Neutropenia
 
 Significant anemia (hemoglobin less than 7.5 g per dL or reduction greater than 25% of baseline) and/or significant neutropenia (granulocyte count less than 750 cells per mm3 or reduction greater than 50% from baseline) may require a dose interruption until evidence of marrow recovery is observed [see Warnings and Precautions (5.1)].
 In patients who develop significant anemia, dose interruption does not necessarily eliminate the need for transfusion.
-If marrow recovery occurs following dose interruption, resumption in dose may be appropriate using adjunctive measures such as epoetin alfa at recommended doses, depending on hematologic indices such as serum erythropoetin level and patient tolerance.
+If marrow recovery occurs following dose interruption, resumption in dose may be appropriate using adjunctive measures such as epoetin alfa at recommended doses, depending on hematologic indices such as serum erythropoietin level and patient tolerance.
 
-## 2.5 Patients With Renal Impairment
+## 2.5 Patients with Renal Impairment
 
-In patients maintained on hemodialysis or peritoneal dialysis or with creatinine clearance (CrCl) by Cockcroft-Gault less than 15 mL per min, the recommended oral dosage is 100 mg every 6 to 8 hours [see Use in Specific Populations (8.6),Clinical Pharmacology (12.3)].
+In patients maintained on hemodialysis or peritoneal dialysis or with creatinine clearance (CrCl) by Cockcroft-Gault less than 15 mL per min, the recommended oral dosage is 100 mg every 6 to 8 hours [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-## 2.6 Patients With Hepatic Impairment
+## 2.6 Patients with Hepatic Impairment
 
 There are insufficient data to recommend dose adjustment of zidovudine oral solution in patients with impaired hepatic function or liver cirrhosis.
 Frequent monitoring of hematologic toxicities is advised [see Use in Specific Populations (8.7)].
