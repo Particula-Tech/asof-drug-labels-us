@@ -67,8 +67,9 @@ ACTEMRA for intravenous infusion should be diluted by a healthcare professional 
   - –Step 2.
     Withdraw the amount of ACTEMRA for intravenous infusion from the vial(s) and add slowly into the 0.9% or 0.45% Sodium Chloride infusion bag or bottle.
     To mix the solution, gently invert the bag to avoid foaming.
-- The fully diluted ACTEMRA solutions for infusion may be stored at 2° to 8°C (36° to 46°F) or room temperature for up to 24 hours and should be protected from light.
-  ACTEMRA solutions do not contain preservatives; therefore, unused product remaining in the vials should not be used.
+- The fully diluted ACTEMRA solutions for infusion using 0.9% Sodium Chloride may be stored at 2° to 8°C (36° to 46°F) or room temperature for up to 24 hours and should be protected from light.
+- The fully diluted ACTEMRA solutions for infusion using 0.45% Sodium Chloride may be stored at 2° to 8°C (36° to 46°F) for up to 24 hours or room temperature for up to 4 hours and should be protected from light.
+- ACTEMRA solutions do not contain preservatives; therefore, unused product remaining in the vials should not be used.
 - Allow the fully diluted ACTEMRA solution to reach room temperature prior to infusion.
 - The infusion should be administered over 60 minutes, and must be administered with an infusion set.
   Do not administer as an intravenous push or bolus.
