@@ -166,6 +166,8 @@ Digestive System — Infrequent: dysphagia, gastritis, gastroenteritis, melena, 
 
 Hemic and Lymphatic System — Infrequent: ecchymosis; Rare: petechia, purpura.
 
+Investigations — Frequent: QT interval prolongation (QTcF ≥450 msec)3.
+
 Nervous System — Frequent: emotional lability; Infrequent: akathisia, ataxia, balance disorder1, bruxism1, buccoglossal syndrome, depersonalization, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction; Rare: delusions.
 
 Respiratory System — Rare: larynx edema.
@@ -180,6 +182,8 @@ Urogenital System — Frequent: micturition disorder; Infrequent: dysuria, gynec
 
 2 Group term that includes individual MedDRA terms: cervix hemorrhage uterine, dysfunctional uterine bleeding, genital hemorrhage, menometrorrhagia, menorrhagia, metrorrhagia, polymenorrhea, postmenopausal hemorrhage, uterine hemorrhage, vaginal hemorrhage.
 Adjusted for gender.
+
+3 QT prolongation data are based on routine ECG measurements in clinical trials.
 
 ## 6.3 Postmarketing Experience
 

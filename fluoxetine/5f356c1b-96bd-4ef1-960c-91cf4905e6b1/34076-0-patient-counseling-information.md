@@ -92,13 +92,13 @@ Height and weight should be monitored periodically in pediatric patients receivi
 
 Pediatric Use of PROZAC and olanzapine in combination - Safety and efficacy of PROZAC and olanzapine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions (5.16) and Use in Specific Populations (8.4)].
 
-Literature revised October 24, 2016
+Literature revised March 24, 2017
 
 Marketed by: Lilly USA, LLC
 
 Indianapolis, IN 46285, USA
 
-Copyright © 1987, 2016, Eli Lilly and Company.
+Copyright © 1987, 2017, Eli Lilly and Company.
 All rights reserved.
 
-PRZ-0004-USPI-20161024
+PRZ-0005-USPI-20170324
