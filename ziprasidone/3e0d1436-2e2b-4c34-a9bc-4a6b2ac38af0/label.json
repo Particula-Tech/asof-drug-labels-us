@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA204375"
+  ],
+  "inn": "ziprasidone",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-144-09",
+    "33342-144-12",
+    "33342-144-51",
+    "33342-145-09",
+    "33342-145-12",
+    "33342-145-51",
+    "33342-146-09",
+    "33342-146-12",
+    "33342-146-51",
+    "33342-147-09",
+    "33342-147-12",
+    "33342-147-51"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "ziprasidone hydrochloride",
+      "name": "Ziprasidone Hydrochloride"
+    }
+  ],
+  "setid": "3e0d1436-2e2b-4c34-a9bc-4a6b2ac38af0",
+  "source": "dailymed"
+}
