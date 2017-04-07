@@ -10,7 +10,8 @@ By inhibiting FXa, rivaroxaban decreases thrombin generation.
 
 ## 12.2 Pharmacodynamics
 
-Dose-dependent inhibition of FXa activity was observed in humans and the Neoplastin® prothrombin time (PT), activated partial thromboplastin time (aPTT) and HepTest® are prolonged dose-dependently.
+Dose-dependent inhibition of FXa activity was observed in humans.
+Neoplastin® prothrombin time (PT), activated partial thromboplastin time (aPTT) and HepTest® are also prolonged dose-dependently.
 Anti-factor Xa activity is also influenced by rivaroxaban.
 
 Specific Populations

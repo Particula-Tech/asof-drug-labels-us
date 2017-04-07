@@ -3,39 +3,28 @@
 ## 7.1 General Inhibition and Induction Properties
 
 Rivaroxaban is a substrate of CYP3A4/5, CYP2J2, and the P-gp and ATP-binding cassette G2 (ABCG2) transporters.
-Inhibitors and inducers of these CYP450 enzymes or transporters (e.g., P-gp) may result in changes in rivaroxaban exposure.
+Combined P-gp and strong CYP3A4 inhibitors increase exposure to rivaroxaban and may increase the risk of bleeding.
+Combined P-gp and strong CYP3A4 inducers decrease exposure to rivaroxaban and may increase the risk of thromboembolic events.
 
 ## 7.2 Drugs that Inhibit Cytochrome P450 3A4 Enzymes and Drug Transport Systems
 
-In drug interaction studies, conducted in subjects with normal renal function, evaluating the concomitant use with drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, ritonavir), increases in rivaroxaban exposure and pharmacodynamic effects (i.e., factor Xa inhibition and PT prolongation) were observed.
-Significant increases in rivaroxaban exposure may increase bleeding risk [see Clinical Pharmacology (12.3)].
+Interaction with Combined P-gp and Strong CYP3A4 Inhibitors
 
-Avoid concomitant administration of XARELTO with combined P-gp and strong CYP3A4 inhibitors [see Warnings and Precautions (5.6)].
+Avoid concomitant administration of XARELTO with known combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole and ritonavir) [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
+
+Although clarithromycin is a combined P-gp and strong CYP3A4 inhibitor, pharmacokinetic data suggests that no precautions are necessary with concomitant administration with XARELTO as the change in exposure is unlikely to affect the bleeding risk [see Clinical Pharmacology (12.3)].
+
+Interaction with Combined P-gp and Moderate CYP3A4 Inhibitors in Patients with Renal Impairment
+
+XARELTO should not be used in patients with CrCl 15 to <80 mL/min who are receiving concomitant combined P-gp and moderate CYP3A4 inhibitors (e.g., erythromycin) unless the potential benefit justifies the potential risk [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 ## 7.3 Drugs that Induce Cytochrome P450 3A4 Enzymes and Drug Transport Systems
 
-Results from drug interaction studies and population PK analyses from clinical studies indicate coadministration of XARELTO with a combined P-gp and strong CYP3A4 inducer (e.g., rifampicin, phenytoin) decreased rivaroxaban exposure by up to 50%.
-Similar decreases in pharmacodynamic effects were also observed.
-These decreases in exposure to rivaroxaban may decrease efficacy [see Clinical Pharmacology (12.3)].
-
-Avoid concomitant use of XARELTO with drugs that are combined P-gp and strong CYP3A4 inducers (e.g., carbamazepine, phenytoin, rifampin, St. John's wort) [see Warnings and Precautions (5.6)].
+Avoid concomitant use of XARELTO with drugs that are combined P-gp and strong CYP3A4 inducers (e.g., carbamazepine, phenytoin, rifampin, St. John's wort) [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
 
 ## 7.4 Anticoagulants and NSAIDs/Aspirin
 
-Single doses of enoxaparin and XARELTO given concomitantly resulted in an additive effect on anti-factor Xa activity.
-Single doses of warfarin and XARELTO resulted in an additive effect on factor Xa (FXa) inhibition and PT.
-Concomitant aspirin use has been identified as an independent risk factor for major bleeding in efficacy trials.
-NSAIDs are known to increase bleeding, and bleeding risk may be increased when NSAIDs are used concomitantly with XARELTO.
-Coadministration of the platelet aggregation inhibitor clopidogrel and XARELTO resulted in an increase in bleeding time for some subjects [see Clinical Pharmacology (12.3)].
+Coadministration of enoxaparin, warfarin, aspirin, clopidogrel and chronic NSAID use may increase the risk of bleeding [see Clinical Pharmacology (12.3)].
 
 Avoid concurrent use of XARELTO with other anticoagulants due to increased bleeding risk unless benefit outweighs risk.
 Promptly evaluate any signs or symptoms of blood loss if patients are treated concomitantly with aspirin, other platelet aggregation inhibitors, or NSAIDs [see Warnings and Precautions (5.2)].
-
-## 7.5 Drug-Disease Interactions with Drugs that Inhibit Cytochrome P450 3A4 Enzymes and Drug Transport Systems
-
-Results from a pharmacokinetic trial with erythromycin indicated that patients with renal impairment coadministered XARELTO with drugs classified as combined P-gp and moderate CYP3A4 inhibitors (e.g., diltiazem, verapamil, dronedarone, and erythromycin) have increased exposure compared with patients with normal renal function and no inhibitor use.
-Significant increases in rivaroxaban exposure may increase bleeding risk.
-
-While increases in rivaroxaban exposure can be expected under such conditions, results from an analysis in the ROCKET AF trial, which allowed concomitant use with combined P-gp and either weak (e.g., amiodarone) or moderate CYP3A4 inhibitors (e.g., diltiazem, verapamil, and erythromycin), did not show an increase in bleeding in patients with CrCl 30 to <50 mL/min [Hazard Ratio (95% CI): 1.05 (0.77, 1.42)] [see Use in Specific Populations (8.7)].
-
-XARELTO should not be used in patients with CrCl 15 to <80 mL/min who are receiving concomitant combined P-gp and moderate CYP3A4 inhibitors (e.g., diltiazem, verapamil, dronedarone, and erythromycin) unless the potential benefit justifies the potential risk [see Clinical Pharmacology (12.3)].

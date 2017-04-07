@@ -18,7 +18,7 @@ The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy sub
 Concomitant use of other drugs that impair hemostasis increases the risk of bleeding.
 These include aspirin, P2Y12 platelet inhibitors, other antithrombotic agents, fibrinolytic therapy, non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.4)], selective serotonin reuptake inhibitors, and serotonin norepinephrine reuptake inhibitors.
 
-Concomitant use of drugs that are combined P-gp and CYP3A4 inhibitors (e.g., ketoconazole and ritonavir) increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.2)].
+Concomitant use of drugs that are known combined P-gp and strong CYP3A4 inhibitors increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.2)].
 
 Reversal of Anticoagulant Effect
 
@@ -35,7 +35,7 @@ When neuraxial anesthesia (spinal/epidural anesthesia) or spinal puncture is emp
 To reduce the potential risk of bleeding associated with the concurrent use of rivaroxaban and epidural or spinal anesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of rivaroxaban [see Clinical Pharmacology (12.3)].
 Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of rivaroxaban is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.
 
-An indwelling epidural or intrathecal catheter should not be removed before at least 2 half-lifes have elapsed (i.e., 18 hours in young patients aged 20 to 45 years and 26 hours in elderly patients aged 60 to 76 years), after the last administration of XARELTO [see Clinical Pharmacology (12.3)].
+An indwelling epidural or intrathecal catheter should not be removed before at least 2 half-lives have elapsed (i.e., 18 hours in young patients aged 20 to 45 years and 26 hours in elderly patients aged 60 to 76 years), after the last administration of XARELTO [see Clinical Pharmacology (12.3)].
 The next XARELTO dose should not be administered earlier than 6 hours after the removal of the catheter.
 If traumatic puncture occurs, delay the administration of XARELTO for 24 hours.
 
@@ -68,9 +68,9 @@ Avoid use of XARELTO in patients with moderate (Child-Pugh B) and severe (Child-
 
 ## 5.6 Use with P-gp and Strong CYP3A4 Inhibitors or Inducers
 
-Avoid concomitant use of XARELTO with combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, lopinavir/ritonavir, ritonavir, indinavir, and conivaptan) [see Drug Interactions (7.2)].
+Avoid concomitant use of XARELTO with known combined P-gp and strong CYP3A4 inhibitors [see Drug Interactions (7.2)].
 
-Avoid concomitant use of XARELTO with drugs that are combined P-gp and strong CYP3A4 inducers (e.g., carbamazepine, phenytoin, rifampin, St. John's wort) [see Drug Interactions (7.3)].
+Avoid concomitant use of XARELTO with drugs that are known combined P-gp and strong CYP3A4 inducers [see Drug Interactions (7.3)].
 
 ## 5.7 Risk of Pregnancy-Related Hemorrhage
 
