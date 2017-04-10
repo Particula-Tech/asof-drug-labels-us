@@ -49,7 +49,7 @@ Swirl until dissolved.
 Compatible Reconstitution Diluents for Single Dose Vials 0.9% sodium chloride for injection Sterile water for injection Dextrose 5% Bacteriostatic saline/parabens Bacteriostatic water/parabens Bacteriostatic saline/benzyl alcohol Bacteriostatic water/benzyl alcohol Reconstituted piperacillin and tazobactam for injection solutions for single dose vials should be further diluted (recommended volume per dose of 50 mL to 150 mL) in a compatible intravenous solution listed below.
 Administer by infusion over a period of at least 30 minutes.
 During the infusion it is desirable to discontinue the primary infusion solution.
-Compatible Intravenous Solutions for Single Dose Vials 0.9% sodium chloride for injection sterile water for injection‡ Dextran 6% in saline Dextrose 5% LACTATED RINGER'S SOLUTION IS NOT COMPATIBLE WITH PIPERACILLIN AND TAZOBACTAM FOR INJECTION. ‡Maximum recommended volume per dose of sterile water for injection is 50 mL.
+Compatible Intravenous Solutions for Single Dose Vials 0.9% sodium chloride for injection sterile water for injection‡ Dextran 6% in saline Dextrose 5% LACTATED RINGER'S SOLUTION IS NOT COMPATIBLE WITH PIPERACILLIN AND TAZOBACTAM FOR INJECTION. ‡ Maximum recommended volume per dose of sterile water for injection is 50 mL.
 Piperacillin and tazobactam should not be mixed with other drugs in a syringe or infusion bottle since compatibility has not been established.
 Piperacillin and tazobactam is not chemically stable in solutions that contain only sodium bicarbonate and solutions that significantly alter the pH.
 Piperacillin and tazobactam should not be added to blood products or albumin hydrolysates.
