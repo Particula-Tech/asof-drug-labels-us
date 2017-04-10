@@ -16,7 +16,7 @@ Dermal carcinogenicity studies were not conducted.
 Results from the studies of carcinogenesis, mutagenesis, and fertility are not included in the full prescribing information for ZOVIRAX Ointment 5% due to the minimal exposures of acyclovir that result from dermal application.
 Information on these studies is available in the full prescribing information for ZOVIRAX Capsules, Tablets, and Suspension and ZOVIRAX for Injection.
 
-Pregnancy: Teratogenic Effects: Pregnancy Category B. Acyclovir was not teratogenic in the mouse, rabbit, or rat at exposures greatly in excess of human exposure.
+Pregnancy: Teratogenic Effects: Acyclovir was not teratogenic in the mouse, rabbit, or rat at exposures greatly in excess of human exposure.
 There are no adequate and well-controlled studies of systemic acyclovir in pregnant women.
 A prospective epidemiologic registry of acyclovir use during pregnancy was established in 1984 and completed in April 1999.
 There were 749 pregnancies followed in women exposed to systemic acyclovir during the first trimester of pregnancy resulting in 756 outcomes.
@@ -27,7 +27,7 @@ Systemic acyclovir should be used during pregnancy only if the potential benefit
 Nursing Mothers: It is not known whether topically applied acyclovir is excreted in breast milk.
 Systemic exposure following topical administration is minimal.
 After oral administration of ZOVIRAX, acyclovir concentrations have been documented in breast milk in 2 women and ranged from 0.6 to 4.1 times the corresponding plasma levels.
-These concentrations would potentially expose the nursing infant to a dose of acyclovir up to 0.3 mg/kg per day.
+These concentrations would potentially expose the nursing infant to a dose of acyclovir up to 0.3 mg/kg/day.
 Nursing mothers who have active herpetic lesions near or on the breast should avoid nursing.
 
 Geriatric Use: Clinical studies of ZOVIRAX Ointment did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.

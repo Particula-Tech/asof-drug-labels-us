@@ -2,12 +2,13 @@
 
 ZOVIRAX® (ACYCLOVIR) OINTMENT 5%
 
-Distributed by Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 Made in Canada
+FOR CUTANEOUS USE ONLY
 
 NDC 0187-0993-95
 
-Each gram contains acyclovir 50 mg in a polyethylene glycol base.
-
+Net Wt.
 30 g
+
+Each gram contains: 50 mg acyclovir in a polyethylene glycol base.
 
 Rx only
