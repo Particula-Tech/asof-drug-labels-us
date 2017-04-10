@@ -1,15 +1,15 @@
 # WARNINGS
 
-In patients with hepatic cirrhosis and ascites, FUROSEMIDE TABLET therapy is best initiated in the hospital.
+In patients with hepatic cirrhosis and ascites, Furosemide tablets therapy is best initiated in the hospital.
 In hepatic coma and in states of electrolyte depletion, therapy should not be instituted until the basic condition is improved.
 Sudden alterations of fluid and electrolyte balance in patients with cirrhosis may precipitate hepatic coma; therefore, strict observation is necessary during the period of diuresis.
 Supplemental potassium chloride and, if required, an aldosterone antagonist are helpful in preventing hypokalemia and metabolic alkalosis.
 
-If increasing azotemia and oliguria occur during treatment of severe progressive renal disease, FUROSEMIDE TABLET should be discontinued.
+If increasing azotemia and oliguria occur during treatment of severe progressive renal disease, Furosemide tablets should be discontinued.
 
 Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported.
-Reports usually indicate that FUROSEMIDE TABLET ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hypoproteinemia or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
-If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg FUROSEMIDE TABLET per minute has been used).
+Reports usually indicate that Furosemide tablets ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hypoproteinemia or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
+If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg Furosemide tablets per minute has been used).
 (See PRECAUTIONS: Drug Interactions)
 
 # PRECAUTIONS
@@ -17,30 +17,30 @@ If the physician elects to use high dose parenteral therapy, controlled intraven
 ## General
 
 Excessive diuresis may cause dehydration and blood volume reduction with circulatory collapse and possibly vascular thrombosis and embolism, particularly in elderly patients.
-As with any effective diuretic, electrolyte depletion may occur during FUROSEMIDE TABLET therapy, especially in patients receiving higher doses and a restricted salt intake.
-Hypokalemia may develop with FUROSEMIDE TABLET, especially with brisk diuresis, inadequate oral electrolyte intake, when cirrhosis is present, or during concomitant use of corticosteroids or ACTH,licorice in large amounts, or prolonged use of laxatives.
+As with any effective diuretic, electrolyte depletion may occur during Furosemide tablets therapy, especially in patients receiving higher doses and a restricted salt intake.
+Hypokalemia may develop with Furosemide tablets, especially with brisk diuresis, inadequate oral electrolyte intake, when cirrhosis is present, or during concomitant use of corticosteroids, ACTH, licorice in large amounts, or prolonged use of laxatives.
 Digitalis therapy may exaggerate metabolic effects of hypokalemia, especially myocardial effects.
 
-All patients receiving FUROSEMIDE TABLET therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia, or gastrointestinal disturbances such as nausea and vomiting.
+All patients receiving Furosemide tablets therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia, or gastrointestinal disturbances such as nausea and vomiting.
 Increases in blood glucose and alterations in glucose tolerance tests (with abnormalities of the fasting and 2-hour postprandial sugar) have been observed, and rarely, precipitation of diabetes mellitus has been reported.
 
 In patients with severe symptoms of urinary retention (because of bladder emptying disorders, prostatic hyperplasia, urethral narrowing), the administration of furosemide can cause acute urinary retention related to increased production and retention of urine.
 Thus, these patients require careful monitoring, especially during the initial stages of treatment.
 
-In patients at high risk for radiocontrast nephropathy FUROSEMIDE TABLET can lead to a higher incidence of deterioration in renal function after receiving radiocontrast compared to high-risk patients who received only intravenous hydration prior to receiving radiocontrast.
+In patients at high risk for radiocontrast nephropathy Furosemide tablets can lead to a higher incidence of deterioration in renal function after receiving radiocontrast compared to high-risk patients who received only intravenous hydration prior to receiving radiocontrast.
 
-In patients with hypoproteinemia (e.g., associated with nephrotic syndrome) the effect of FUROSEMIDE TABLET may be weakened and its ototoxicity potentiated.
+In patients with hypoproteinemia (e.g., associated with nephrotic syndrome) the effect of Furosemide tablets may be weakened and its ototoxicity potentiated.
 
 Asymptomatic hyperuricemia can occur and gout may rarely be precipitated.
 
-Patients allergic to sulfonamides may also be allergic to FUROSEMIDE TABLET.
+Patients allergic to sulfonamides may also be allergic to Furosemide tablets.
 The possibility exists of exacerbation or activation of systemic lupus erythematosus.
 
 As with many other drugs, patients should be observed regularly for the possible occurrence of blood dyscrasias, liver or kidney damage, or other idiosyncratic reactions.
 
-## Information for Patients
+## Information For Patients
 
-Patients receiving FUROSEMIDE TABLET should be advised that they may experience symptoms from excessive fluid and/or electrolyte losses.
+Patients receiving Furosemide tablets should be advised that they may experience symptoms from excessive fluid and/or electrolyte losses.
 The postural hypotension that sometimes occurs can usually be managed by getting up slowly.
 Potassium supplements and/or dietary measures may be needed to control or avoid hypokalemia.
 
@@ -51,70 +51,68 @@ Hypertensive patients should avoid medications that may increase blood pressure,
 
 ## Laboratory Tests
 
-Serum electrolytes (particularly potassium), CO2, creatinine and BUN should be determined frequently during the first few months of FUROSEMIDE TABLET therapy and periodically thereafter.
+Serum electrolytes (particularly potassium), CO2, creatinine and BUN should be determined frequently during the first few months of Furosemide tablets therapy and periodically thereafter.
 Serum and urine electrolyte determinations are particularly important when the patient is vomiting profusely or receiving parenteral fluids.
 Abnormalities should be corrected or the drug temporarily withdrawn.
 Other medications may also influence serum electrolytes.
 
 Reversible elevations of BUN may occur and are associated with dehydration, which should be avoided, particularly in patients with renal insufficiency.
 
-Urine and blood glucose should be checked periodically in diabetics receiving FUROSEMIDE TABLET, even in those suspected of latent diabetes.
+Urine and blood glucose should be checked periodically in diabetics receiving Furosemide tablets, even in those suspected of latent diabetes.
 
-FUROSEMIDE TABLET may lower serum levels of calcium (rarely cases of tetany have been reported) and magnesium.
+Furosemide tablets may lower serum levels of calcium (rarely cases of tetany have been reported) and magnesium.
 Accordingly, serum levels of these electrolytes should be determined periodically.
 
-In premature infants FUROSEMIDE TABLET may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed.
-(seePRECAUTIONS: Pediatric Use)
+In premature infants Furosemide tablets may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed.
+(see PRECAUTIONS: Pediatric Use)
 
 ## Drug Interactions
 
-FUROSEMIDE TABLET may increase the ototoxic potential of aminoglycoside antibiotics, especially in the presence of impaired renal function.
+Furosemide tablets may increase the ototoxic potential of aminoglycoside antibiotics, especially in the presence of impaired renal function.
 Except in life-threatening situations, avoid this combination.
 
-FUROSEMIDE TABLET should not be used concomitantly with ethacrynic acid because of the possibility of ototoxicity.
-Patients receiving high doses of salicylates concomitantly with FUROSEMIDE TABLET, as in rheumatic disease, may experience salicylate toxicity at lower doses because of competitive renal excretory sites.
+Furosemide tablets should not be used concomitantly with ethacrynic acid because of the possibility of ototoxicity.
+Patients receiving high doses of salicylates concomitantly with Furosemide tablets, as in rheumatic disease, may experience salicylate toxicity at lower doses because of competitive renal excretory sites.
 
-There is a risk of ototoxic effects if cisplatin and FUROSEMIDE TABLET are given concomitantly.
-In addition, nephrotoxicity of nephrotoxic drugs such as cisplatin may be enhanced if FUROSEMIDE TABLET is not given in lower doses and with positive fluid balance when used to achieve forced diuresis during cisplatin treatment.
+There is a risk of ototoxic effects if cisplatin and Furosemide tablets are given concomitantly.
+In addition, nephrotoxicity of nephrotoxic drugs such as cisplatin may be enhanced if Furosemide tablets are not given in lower doses and with positive fluid balance when used to achieve forced diuresis during cisplatin treatment.
 
-FUROSEMIDE TABLET has a tendency to antagonize the skeletal muscle relaxing effect of tubocurarine and may potentiate the action of succinylcholine.
+Furosemide tablets have a tendency to antagonize the skeletal muscle relaxing effect of tubocurarine and may potentiate the action of succinylcholine.
 
 Lithium generally should not be given with diuretics because they reduce lithium’s renal clearance and add a high risk of lithium toxicity.
 
-FUROSEMIDE TABLET combined with angiotensin converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe hypotension and deterioration in renal function, including renal failure.
-An interruption or reduction in the dosage of FUROSEMIDE, angiotensin converting enzyme inhibitors, or angiotensin receptor blockers may be necessary.
+Furosemide tablets combined with angiotensin converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe hypotension and deterioration in renal function, including renal failure.
+An interruption or reduction in the dosage of Furosemide tablets, angiotensin converting enzyme inhibitors, or angiotensin receptor blockers may be necessary.
 
 Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.
 
-FUROSEMIDE TABLET may decrease arterial responsiveness to norepinephrine.
+Furosemide tablets may decrease arterial responsiveness to norepinephrine.
 However, norepinephrine may still be used effectively.
 
-Simultaneous administration of sucralfate and FUROSEMIDE TABLET may reduce the natriuretic and antihypertensive effects of FUROSEMIDE TABLET.
-Patients receiving both drugs should be observed closely to determine if the desired diuretic and/or antihypertensive effect of FUROSEMIDE TABLET is achieved.
-The intake of FUROSEMIDE TABLET and sucralfate should be separated by at least two hours.
+Simultaneous administration of sucralfate and Furosemide tablets may reduce the natriuretic and antihypertensive effects of Furosemide tablets.
+Patients receiving both drugs should be observed closely to determine if the desired diuretic and/or antihypertensive effect of Furosemide tablets is achieved.
+The intake of Furosemide tablets and sucralfate should be separated by at least two hours.
 
-In isolated cases, intravenous administration of FUROSEMIDE TABLET within 24 hours of taking chloral hydrate may lead to flushing, sweating attacks, restlessness, nausea, increase in blood pressure, and tachycardia.
-Use of FUROSEMIDE TABLET concomitantly with chloral hydrate is therefore not recommended.
+In isolated cases, intravenous administration of Furosemide tablets within 24 hours of taking chloral hydrate may lead to flushing, sweating attacks, restlessness, nausea, increase in blood pressure, and tachycardia.
+Use of Furosemide tablets concomitantly with chloral hydrate is, therefore, not recommended.
 
-Phenytoin interferes directly with renal action of FUROSEMIDE TABLET.
-There is evidence that treatment with phenytoin leads to decrease intestinal absorption of FUROSEMIDE TABLET, and consequently to lower peak serum furosemide concentrations.
+Phenytoin interferes directly with renal action of Furosemide tablets.
+There is evidence that treatment with phenytoin leads to decrease intestinal absorption of Furosemide tablets, and consequently to lower peak serum furosemide concentrations.
 
-Methotrexate and other drugs that, like FUROSEMIDE TABLET, undergo significant renal tubular secretion may reduce the effect of FUROSEMIDE TABLET.
-Conversely, FUROSEMIDE TABLET may decrease renal elimination of other drugs that undergo tubular secretion.
-High-dose treatment of both FUROSEMIDE TABLET and these other drugs may result in elevated serum levels of these drugs and may potentiate their toxicity as well as the toxicity of FUROSEMIDE TABLET.
+Methotrexate and other drugs that, like Furosemide tablets, undergo significant renal tubular secretion may reduce the effect of Furosemide tablets.
+Conversely, Furosemide tablets may decrease renal elimination of other drugs that undergo tubular secretion.
+High-dose treatment of both Furosemide tablets and these other drugs may result in elevated serum levels of these drugs and may potentiate their toxicity as well as the toxicity of Furosemide tablets.
 
-FUROSEMIDE TABLET can increase the risk of cephalosporin-induced nephrotoxicity even in the setting of minor or transient renal impairment.
+Furosemide tablets can increase the risk of cephalosporin-induced nephrotoxicity even in the setting of minor or transient renal impairment.
 
-Concomitant use of cyclosporine and FUROSEMIDE TABLET is associated with increased risk of gouty arthritis secondary to FUROSEMIDE TABLET- induced hyperurecemia and cyclosporine impairment of renal urate excretion.
-
-High doses (>80 mg) of furosemide may inhibit the binding of thyroid hormones to carrier proteins and result in transient increase in free thyroid hormones, followed by an overall decrease in total thyroid hormone levels.
+Concomitant use of cyclosporine and Furosemide tablets is associated with increased risk of gouty arthritis secondary to Furosemide tablets-induced hyperurecemia and cyclosporine impairment of renal urate excretion.
 
 One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency.
 There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.
 
-Literature reports indicate that coadministration of indomethacin may reduce the natriuretic and antihypertensive effects of FUROSEMIDE TABLET (furosemide) in some patients by inhibiting prostaglandin synthesis.
+Literature reports indicate that coadministration of indomethacin may reduce the natriuretic and antihypertensive effects of Furosemide tablets (furesomide) in some patients by inhibiting prostaglandin synthesis.
 Indomethacin may also affect plasma renin levels, aldosterone excretion, and renin profile evaluation.
-Patients receiving both indomethacin and FUROSEMIDE TABLET should be observed closely to determine if the desired diuretic and/or antihypertensive effect of FUROSEMIDE TABLET is achieved.
+Patients receiving both indomethacin and Furosemide tablets should be observed closely to determine if the desired diuretic and/or antihypertensive effect of Furosemide tablets is achieved.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -128,13 +126,13 @@ In Chinese hamster cells it induced chromosomal damage but was questionably posi
 Studies on the induction by furosemide of chromosomal aberrations in mice were inconclusive.
 The urine of rats treated with this drug did not induce gene conversion in Saccharomyces cerevisiae.
 
-FUROSEMIDE TABLET (furosemide) produced no impairment of fertility in male or female rats, at 100 mg/kg/day (the maximum effective diuretic dose in the rat and 8 times the maximal human dose of 600 mg/day).
+Furosemide tablets (furosemide) produced no impairment of fertility in male or female rats, at 100 mg/kg/day (the maximum effective diuretic dose in the rat and 8 times the maximal human dose of 600 mg/day).
 
 ## Pregnancy
 
 PREGNANCY CATEGORY C - Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4 and 8 times the maximal recommended human dose.
 There are no adequate and well-controlled studies in pregnant women.
-FUROSEMIDE TABLET should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Furosemide tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Treatment during pregnancy requires monitoring of fetal growth because of the potential for higher birth weights.
 
@@ -149,21 +147,22 @@ The results of the mouse study and one of the three rabbit studies also showed a
 
 ## Nursing Mothers
 
-Because it appears in breast milk, caution should be exercised when FUROSEMIDE TABLET is administered to a nursing mother.
+Because it appears in breast milk, caution should be exercised when Furosemide is administered to a nursing mother.
 
-FUROSEMIDE TABLET may inhibit lactation.
+Furosemide may inhibit lactation.
 
 ## Pediatric Use
 
-In premature infants FUROSEMIDE TABLET may precipitate nephrocalcinosis/nephrolithiasis.
-Nephrocalcinosis/ nephrolithiasis has also been observed in children under 4 years of age with no history of prematurity who have been treated chronically with FUROSEMIDE TABLET.
-Monitor renal function, and renal ultrasonograph should be considered, in pediatric patients receiving FUROSEMIDE TABLET.
+In premature infants Furosemide tablets may precipitate nephrocalcinosis/nephrolithiasis.
 
-If FUROSEMIDE TABLET is administered to premature infants during the first weeks of life, it may increase the risk of persistence of patent ductus arteriosus.
+Nephrocalcinosis/ nephrolithiasis has also been observed in children under 4 years of age with no history of prematurity who have been treated chronically with Furosemide tablets.
+Monitor renal function, and renal ultrasonography should be considered, in pediatric patients receiving Furosemide tablets.
+
+If Furosemide tablets are administered to premature infants during the first weeks of life, it may increase the risk of persistence of patent ductus arteriosus.
 
 ## Geriatric Use
 
-Controlled clinical studies of FUROSEMIDE TABLET did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Controlled clinical studies of Furosemide tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
 

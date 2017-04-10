@@ -4,7 +4,7 @@ Adverse reactions are categorized below by organ system and listed by decreasing
 
 ## Gastrointestinal System Reactions
 
-1. hepatic encephalopathy in patients with hepatocellular insufficiency
+1. hepatic encephalopathy in patients with hepato-cellular insufficiency
 2. pancreatitis
 3. jaundice (intrahepatic cholestatic jaundice)
 4. increased liver enzymes
@@ -55,7 +55,7 @@ Adverse reactions are categorized below by organ system and listed by decreasing
 8. purpura
 9. photosensitivity
 10. rash
-11. pruritus
+11. pruritis
 12. urticaria
 
 ## Cardiovascular Reaction
@@ -75,7 +75,7 @@ Adverse reactions are categorized below by organ system and listed by decreasing
 8. thrombophlebitis
 9. fever
 
-Whenever adverse reactions are moderate or severe, FUROSEMIDE TABLET dosage should be reduced or therapy withdrawn.
+Whenever adverse reactions are moderate or severe, Furosemide tablets dosage should be reduced or therapy withdrawn.
 
 CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
-YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088 OR LEADING PHARMA, LLC AT 1-844-740-7500
+YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088 OR LEADING PHARMA, LLC AT 1-844-740-7500.
