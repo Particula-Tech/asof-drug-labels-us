@@ -40,11 +40,11 @@ Table 2
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
-| < 18 | 14 additional cases |
+| <18 | 14 additional cases |
 | 18 to 24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
 | 25 to 64 | 1 fewer case |
-| ≥ 65 | 6 fewer cases |
+| ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
@@ -259,13 +259,18 @@ Consider dose reduction or stopping the medication if a patient develops such ur
 ## 5.8 Orthostatic Hypotension
 
 Aripiprazole may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
-The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole (n=2467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0 %), and syncope (0.2%, 0%) [see ADVERSE REACTIONS (6.1)].
+The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole (n=2467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0 %), and syncope (0.2%, 0%)[see ADVERSE REACTIONS (6.1)].
 
 The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 bpm when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole -treated patients (4%, 2%), in pediatric oral aripiprazole -treated patients aged 6 to 18 years (0.4%, 1%).
 
 Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) [see DRUG INTERACTIONS (7.1)].
 
-## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
+## 5.9 Falls
+
+Aripiprazole may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## 5.10 Leukopenia, Neutropenia, and Agranulocytosis
 
 In clinical trials and/or postmarketing experience, events of leukopenia and neutropenia have been reported temporally related to antipsychotic agents, including aripiprazole.
 Agranulocytosis has also been reported.
@@ -277,31 +282,31 @@ In such patients, consider discontinuation of aripiprazole at the first sign of 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
 Discontinue aripiprazole in patients with severe neutropenia (absolute neutrophil count less than 1000/mm3) and follow their WBC counts until recovery.
 
-## 5.10 Seizures/Convulsions
+## 5.11 Seizures/Convulsions
 
 In short-term, placebo-controlled trials, patients with a history of seizures excluded seizures/convulsions occurred in 0.1% (3/2467) of undiagnosed adult patients treated with oral aripiprazole, in 0.1% (1/732) of pediatric patients (6 to 18 years).
 
 As with other antipsychotic drugs, aripiprazole should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
-## 5.11 Potential for Cognitive and Motor Impairment
+## 5.12 Potential for Cognitive and Motor Impairment
 
 Aripiprazole, like other antipsychotics, may have the potential to impair judgment, thinking, or motor skills.
 For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (aripiprazole incidence, placebo incidence): in adult patients (n=2467) treated with oral aripiprazole (11%, 6%), in pediatric patients ages 6 to 17 (n=611) (24%, 6%).
 Somnolence (including sedation) led to discontinuation in 0.3% (8/2467) of adult patients and 3% (20/732) of pediatric patients (6 to 18 years) on oral aripiprazole in short- term, placebo-controlled trials.
 Despite the relatively modest increased incidence of these events compared to placebo, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that therapy with aripiprazole does not affect them adversely.
 
-## 5.12 Body Temperature Regulation
+## 5.13 Body Temperature Regulation
 
 Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing aripiprazole for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see ADVERSE REACTIONS (6.2)].
 
-## 5.13 Suicide
+## 5.14 Suicide
 
 The possibility of a suicide attempt is inherent in psychotic illnesses, bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for aripiprazole should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see ADVERSE REACTIONS (6.1, 6.2)].
 
-## 5.14 Dysphagia
+## 5.15 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use, including aripiprazole.
 Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer’s dementia.

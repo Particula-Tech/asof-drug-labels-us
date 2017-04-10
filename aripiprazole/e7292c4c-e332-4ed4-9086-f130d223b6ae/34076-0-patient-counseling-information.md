@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION and MEDICATION GUIDE
+# 17 PATIENT COUNSELING INFORMATION AND MEDICATION GUIDE
 
 See Medication Guide
 
@@ -24,7 +24,7 @@ In some cases, but not all, the urges were reported to have stopped when the dos
 
 Interference with Cognitive and Motor Performance
 
-Because aripiprazole may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that aripiprazole therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.10)].
+Because aripiprazole may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that aripiprazole therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.12)].
 
 Nursing
 
@@ -36,9 +36,19 @@ Patients should be advised to inform their physicians if they are taking, or pla
 
 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see WARNINGS AND PRECAUTIONS (5.11)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see WARNINGS AND PRECAUTIONS (5.13)].
 
 All registered trademarks are the property of their respective owners.
 
-Manufactured by: Silarx Pharmaceuticals, Inc. Carmel, NY 10512 USA PI# 0570-0816 Rev.
-08/16
+Distributed by:
+
+Lannett Company, Inc.
+
+Philadelphia, PA 19154
+
+Made in the USA
+
+PI# 0570-0117
+
+Rev.
+01/17

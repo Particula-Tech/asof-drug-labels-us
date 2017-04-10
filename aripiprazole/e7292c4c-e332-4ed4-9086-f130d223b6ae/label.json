@@ -3,7 +3,7 @@
     "ANDA204171"
   ],
   "inn": "aripiprazole",
-  "labeler": "Silarx Pharmaceuticals, Inc",
+  "labeler": "Silarx Pharmaceuticals, Inc.",
   "package_ndcs": [
     "54838-570-59",
     "54838-570-70"
@@ -12,7 +12,7 @@
     {
       "form": "SOLUTION",
       "generic": "aripiprazole",
-      "name": "Aripiprazole Oral Solution"
+      "name": "Aripiprazole"
     }
   ],
   "setid": "e7292c4c-e332-4ed4-9086-f130d223b6ae",

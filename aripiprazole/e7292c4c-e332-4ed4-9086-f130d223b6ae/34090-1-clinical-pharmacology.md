@@ -8,7 +8,7 @@ Actions at receptors other than D2, 5-HT1A, and 5-HT2A may explain some of the o
 
 ## 12.2 Pharmacodynamics
 
-Aripiprazole exhibits high affinity for dopamine D 2 and D 3, serotonin 5-HT 1 A and 5-HT 2A receptors (K i values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D 4, serotonin 5-HT 2C and 5-HT 7, alpha1-adrenergic and histamine H 1 receptors (K i values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (Ki=98 nM).
+Aripiprazole exhibits high affinity for dopamine D 2 and D 3, serotonin 5-HT 1A and 5-HT 2A receptors (K i values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D 4, serotonin 5-HT 2C and 5-HT 7, alpha1-adrenergic and histamine H 1 receptors (K i values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (Ki=98 nM).
 Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC50>1000 nM).
 Aripiprazole functions as a partial agonist at the dopamine D 2 and the serotonin 5-HT 1A receptors, and as an antagonist at serotonin 5-HT 2A receptor.
 
@@ -33,7 +33,7 @@ Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did 
 Oral Solution: Aripiprazole is well absorbed when administered orally as the solution.
 At equivalent doses, the plasma concentrations of aripiprazole from the solution were higher than that from the tablet formulation.
 In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean Cmax and AUC values were 122% and 114%, respectively [see DOSAGE AND ADMINISTRATION (2.6)].
-The single-dose pharmacokinetics of aripiprazole were linear and dose-proportional between the doses of 5 mg to 30 mg.
+The single-dose pharmacokinetics of aripiprazole were linear and dose-proportional between the doses of 5 mg to 30 mg
 
 Distribution
 

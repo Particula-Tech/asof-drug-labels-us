@@ -16,11 +16,11 @@ Serious side effects may happen when you take Aripiprazole Oral Solution, includ
   Aripiprazole is not approved for the treatment of patients with dementia-related psychosis.
 - Risk of suicidal thoughts or actions: Antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions:
 
-1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-   Some people may have a particularly high risk of having suicidal thoughts or actions.
-   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+- Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+- Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+  Some people may have a particularly high risk of having suicidal thoughts or actions.
+  These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+- How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 
 - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
   This is very important when an antidepressant medicine is started or when the dose is changed.
@@ -59,7 +59,7 @@ What else do I need to know about antidepressant medicines?
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child’s healthcare provider for more information.
 
-WhatisAripiprazole?
+What is Aripiprazole?
 
 - Aripiprazole Oral Solution is prescription medicine used to treat:
   - Schizophrenia
@@ -219,13 +219,15 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 All registered trademarks are the property of their respective owners.
 
-Manufactured by:
+Distributed by:
 
-Silarx Pharmaceuticals, Inc.
+Lannett Company, Inc.
 
-Carmel, NY 10512 USA
+Philadelphia, PA 19154
 
-PI# 0570-0816
+Made in the USA
+
+PI# 0570-0117
 
 Rev.
-08/16
+01/17

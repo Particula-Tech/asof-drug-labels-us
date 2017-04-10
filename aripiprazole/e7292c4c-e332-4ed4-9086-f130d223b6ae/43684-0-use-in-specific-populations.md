@@ -68,7 +68,9 @@ Although maintenance efficacy in pediatric patients has not been systematically 
 
 Bipolar I Disorder
 
-Safety and effectiveness in pediatric patients with bipolar mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see DOSAGE AND ADMINISTRATION (2.2), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.2)].
+Safety and effectiveness in pediatric patients with bipolar mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see DOSAGE AND ADMINISTRATION (2.2), ADVERSE REACTIONS (6.1), and CLINICAL
+
+STUDIES (14.2)].
 Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 The efficacy of adjunctive aripiprazole with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated.

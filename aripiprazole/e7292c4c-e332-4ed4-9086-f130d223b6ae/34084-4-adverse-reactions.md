@@ -2,7 +2,23 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The following are discussed in more detail in other sections of the labeling: • Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)] • Cerebrovascular Adverse Events, Including Stroke [see WARNINGS AND PRECAUTIONS (5.2)] • Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.3)] • Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.4)] • Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.5)] • Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.6)] • Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.8)] • Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.9)] • Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.10)] • Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.11)] • Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.12)] • Suicide [see WARNINGS AND PRECAUTIONS (5.13)] • Dysphagia [see WARNINGS AND PRECAUTIONS (5.14)]
+The following are discussed in more detail in other sections of the labeling:
+
+- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
+- Cerebrovascular Adverse Events, Including Stroke [see WARNINGS AND PRECAUTIONS (5.2)]
+- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.3)]
+- Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.4)]
+- Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.5)]
+- Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.6)]
+- Pathological Gambling and Other Compulsive Behaviors [see WARNINGS AND PRECAUTIONS (5.7)].
+- Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.8)]
+- Falls [see WARNINGS AND PRECAUTIONS (5.9)].
+- Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.10)]
+- Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.11)]
+- Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.12)]
+- Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.13)]
+- Suicide [see WARNINGS AND PRECAUTIONS (5.14)]
+- Dysphagia [see WARNINGS AND PRECAUTIONS (5.15)]
 
 The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
 
@@ -162,7 +178,7 @@ The incidence of discontinuation due to adverse reactions between aripiprazole-t
 
 Commonly Observed Adverse Reactions
 
-Commonly observed adverse reactions associated with the use of aripiprazole in pediatric patients with bipolar mania (incidence of 5% or greater and aripiprazole incidence at least twice that for placebo) are shown in Table 12
+Commonly observed adverse reactions associated with the use of aripiprazole in pediatric patients with bipolar mania (incidence of 5% or greater and aripiprazole incidence at least twice that for placebo) are shown in Table 12.
 
 Table 12: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (10 to 17 years) with Bipolar Mania Treated with Oral Aripiprazole
 
