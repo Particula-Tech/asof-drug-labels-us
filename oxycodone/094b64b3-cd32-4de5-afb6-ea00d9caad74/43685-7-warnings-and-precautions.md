@@ -1,143 +1,130 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Respiratory Depression:
+## 5.1 Addiction, Abuse, and Misuse
 
-Respiratory depression is the chief hazard from all opioid agonist preparations.
-Respiratory depression occurs most frequently in elderly or debilitated patients, usually following large initial doses in non-tolerant patients, or when opioids are given in conjunction with other agents that depress respiration.
+Oxycodone HCl tablets contains oxycodone, a Schedule II controlled substance.
+As an opioid, oxycodone HCl exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
 
-Oxycodone hydrochloride should be used with extreme caution in patients with significant chronic obstructive pulmonary disease or cor pulmonale, and in patients having substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression.
-In such patients, even usual therapeutic doses of oxycodone hydrochloride may decrease respiratory drive to the point of apnea.
-In these patients alternative non-opioid analgesics should be considered, and opioids should be employed only under careful medical supervision at the lowest effective dose.
+Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed oxycodone HCl.
+Addiction can occur at recommended dosages and if the drug is misused or abused.
 
-Hypotensive Effect:
+Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing oxycodone HCl, and monitor all patients receiving oxycodone HCl for the development of these behaviors and conditions.
+Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+The potential for these risks should not, however, prevent the proper management of pain in any given patient.
+Patients at increased risk may be prescribed opioids such as oxycodone HCl, but use in such patients necessitates intensive counseling about the risks and proper use of oxycodone HCl along with intensive monitoring for signs of addiction, abuse, and misuse.
 
-Oxycodone hydrochloride, like all opioid analgesics, may cause severe hypotension in an individual whose ability to maintain blood pressure has been compromised by a depleted blood volume, or after concurrent administration with drugs such as phenothiazines or other agents which compromise vasomotor tone.
-Oxycodone hydrochloride may produce orthostatic hypotension in ambulatory patients.
-Oxycodone hydrochloride, like all opioid analgesics, should be administered with caution to patients in circulatory shock, since vasodilatation produced by the drug may further reduce cardiac output and blood pressure.
+Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
+Consider these risks when prescribing or dispensing oxycodone HCl.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drugs [see Patient Counseling Information (17)].
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-Head Injury and Increased Intracranial Pressure:
+## 5.2 Life-Threatening Respiratory Depression
 
-The respiratory depressant effects of narcotics and their capacity to elevate cerebrospinal fluid pressure may be markedly exaggerated in the presence of head injury, other intracranial lesions or a pre-existing increase in intracranial pressure.
-Furthermore, narcotics produce adverse reactions which may obscure the clinical course of patients with head injuries.
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
+Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
-# PRECAUTIONS
+While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of oxycodone HCl, the risk is greatest during the initiation of therapy or following a dosage increase.
+Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy with and following dosage increases of oxycodone HCl.
 
-General:
+To reduce the risk of respiratory depression, proper dosing and titration of oxycodone HCl are essential [see Dosage and Administration (2)].
+Overestimating the oxycodone HCl dosage when converting patients from another opioid product can result in fatal overdose with the first dose.
 
-Oxycodone hydrochloride tablets are intended for use in patients who require oral pain therapy with an opioid agonist.
-As with any opioid analgesic, it is critical to adjust the dosing regimen individually for each patient (see DOSAGE AND ADMINISTRATION).
+Accidental ingestion of even one dose of oxycodone HCl, especially by children, can result in respiratory depression and death due to an overdose of oxycodone.
 
-Selection of patients for treatment with oxycodone hydrochloride should be governed by the same principles that apply to the use of other potent opioid analgesics.
-Opioid analgesics given on a fixed-dosage schedule have a narrow therapeutic index in certain patient populations, especially when combined with other drugs, and should be reserved for cases where the benefits of opioid analgesia outweigh the known risks of respiratory depression, altered mental state, and postural hypotension.
-Physicians should individualize treatment in every case, using nonopioid analgesics, prn opioids and /or combination products, and chronic opioid therapy with drugs such as oxycodone hydrochloride in a progressive plan of pain management such as outlined by the World Health Organization, the Agency for Health Care Policy and Research, and the American Pain Society.
+## 5.3 Neonatal Opioid Withdrawal Syndrome
 
-Use of oxycodone hydrochloride is associated with increased potential risks and should be used only with caution in the following conditions: acute alcoholism; adrenocortical insufficiency (e.g., Addison's disease); convulsive disorders; CNS depression or coma; delirium tremens; debilitated patients; kyphoscoliosis associated with respiratory depression; myxedema or hypothyroidism; prostatic hypertrophy or urethral stricture; severe impairment of hepatic, pulmonary or renal function; and toxic psychosis.
+Prolonged use of oxycodone HCl during pregnancy can result in withdrawal in the neonate.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
-The administration of oxycodone hydrochloride, like all opioid analgesics, may obscure the diagnosis or clinical course in patients with acute abdominal conditions.
-Oxycodone may aggravate convulsions in patients with convulsive disorders, and all opioids may induce or aggravate seizures in some clinical settings.
+## 5.4 Risks of Concomitant Use or Discontinuation of Cytochrome P450 3A4 Inhibitors and Inducers
 
-Tolerance and Physical Dependence:
+Concomitant use of oxycodone HCl with a CYP3A4 inhibitor, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), may increase plasma concentrations of oxycodone and prolong opioid adverse reactions, which may cause potentially fatal respiratory depression [see Warnings and Precautions (5.2)], particularly when an inhibitor is added after a stable dose of oxycodone HCl is achieved.
+Similarly, discontinuation of a CYP3A4 inducer, such as rifampin, carbamazepine, and phenytoin, in oxycodone HCl-treated patients may increase oxycodone plasma concentrations and prolong opioid adverse reactions.
+When using oxycodone HCl with CYP3A4 inhibitors or discontinuing CYP3A4 inducers in oxycodone HCl-treated patients, monitor patients closely at frequent intervals and consider dosage reduction of oxycodone HCl until stable drugs effects are achieved [see Drug Interactions (7)].
 
-Physical dependence and tolerance are not unusual during chronic opioid therapy.
-Significant tolerance should not occur in most patients treated with the lowest doses of oxycodone.
-It should be expected, however, that a fraction of patients will develop some degree of tolerance and require progressively higher dosages of oxycodone hydrochloride to maintain pain control during chronic treatment.
-The dosage should be selected according to the patient's individual analgesic response and ability to tolerate side effects.
-Tolerance to the analgesic effects of opioids is usually paralleled by tolerance to side effects except for constipation.
+Concomitant use of oxycodone HCl with CYP3A4 inducers or discontinuation of a CYP3A4 inhibitor could decrease oxycodone plasma concentrations, decrease opioid efficacy or, possibly, lead to a withdrawal syndrome in a patient who had developed physical dependence to oxycodone.
+When using oxycodone HCl with CYP3A4 inducers or discontinuing CYP3A4 inhibitors, monitor patients closely at frequent intervals and consider increasing the opioid dosage if needed to maintain adequate analgesia or if symptoms of opioid withdrawal occur [see Drug Interactions (7)].
 
-Physical dependence results in withdrawal symptoms in patients who abruptly discontinue the drug or may be precipitated through the administration of drugs with opioid antagonist activity.
-If oxycodone hydrochloride is abruptly discontinued in a physically dependent patient, an abstinence syndrome may occur (see DRUG ABUSE AND DEPENDENCE).
-If signs and symptoms of withdrawal occur, patients should be treated by reinstitution of opioid therapy followed by gradual tapered dose reduction of oxycodone hydrochloride combined with symptomatic support (see DOSAGE AND ADMINISTRATION: Cessation of Therapy).
+## 5.5 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Use In Pancreatic/Biliary Tract Disease:
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of oxycodone HCl with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
-Oxycodone hydrochloride may cause spasm of the sphincter of Oddi and should be used with caution in patients with biliary tract disease, including acute pancreatitis.
-Opioids like oxycodone hydrochloride may cause increases in the serum amylase level.
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
+Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
 
-Information for Patients/Caregivers:
+If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
+If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
+Follow patients closely for signs and symptoms of respiratory depression and sedation.
 
-If clinically advisable, patients (or their caregivers) receiving oxycodone hydrochloride tablets should be given the following information by the physician, nurse, pharmacist or caregiver:
+Advise both patients and caregivers about the risks of respiratory depression and sedation when oxycodone HCl is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
+Advise patients not to drive or operate dangerous machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
 
-1. Patients should be advised to report episodes of breakthrough pain and adverse experiences occurring during therapy.
-   Individualization of dosage is essential to make optimal use of this medication.
-2. Patients should be advised not to adjust the dose of oxycodone hydrochloride without consulting the prescribing professional.
-3. Patients should be advised that oxycodone hydrochloride may impair mental and/or physical ability required for the performance of potentially hazardous tasks (e.g. driving, operating heavy machinery).
-4. Patients should not combine oxycodone hydrochloride with alcohol or other central nervous system depressants (sleep aids, tranquilizers) except by the orders of the prescribing physician, because additive effects may occur.
-5. Women of childbearing potential who become, or are planning to become, pregnant should be advised to consult their physician regarding the effects of analgesics and other drug use during pregnancy on themselves and their unborn child.
-6. Patients should be advised that oxycodone hydrochloride is a potential drug of abuse.
-   They should protect it from theft, and it should never be given to anyone other than the individual for whom it was prescribed.
-7. Patients should be advised that if they have been receiving treatment with oxycodone hydrochloride for more than a few weeks and cessation of therapy is indicated, it may be appropriate to taper the oxycodone hydrochloride dose, rather than abruptly discontinue it, due to the risk of precipitating withdrawal symptoms.
-   Their physician can provide a dose schedule to accomplish a gradual discontinuation of the medication.
+## 5.6 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
-Drug Interactions:
+The use of oxycodone HCl in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Oxycodone is metabolized in part to oxymorphone via the cytochrome p450 isoenzyme CYP2D6.
-While this pathway may be blocked by a variety of drugs (e.g., certain cardiovascular drugs and antidepressants), such blockade has not yet been shown to be of clinical significance with this agent.
-However, clinicians should be aware of this possible interaction.
+Patients with Chronic Pulmonary Disease: Oxycodone HCl-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of oxycodone HCl [see Warnings and Precautions (5.2)].
 
-Neuromuscular Blocking Agents: Oxycodone, as well as other opioid analgesics, may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
-CNS Depressants: Patients receiving narcotic analgesics, general anesthetics, phenothiazines, other tranquilizers, sedative-hypnotics or other CNS depressants (including alcohol) concomitantly with oxycodone hydrochloride may exhibit an additive CNS depression.
-Interactive effects resulting in respiratory depression, hypotension, profound sedation, or coma may result if these drugs are taken in combination with the usual dosage of oxycodone hydrochloride.
-When such combined therapy is contemplated, the dose of one or both agents should be reduced.
+Monitor patients closely, particularly when initiating and titrating oxycodone HCl and when oxycodone HCl is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2)].
+Alternatively, consider the use of non-opioid analgesics in these patients.
 
-Mixed Agonist/Antagonist Opioid Analgesics: Agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, butorphanol and buprenorphine) should be administered with caution to patients who have received or are receiving a course of therapy with a pure opioid agonist analgesic such as oxycodone hydrochloride.
-In this situation, mixed agonist/antagonist analgesics may reduce the analgesic effect of oxycodone hydrochloride and/or may precipitate withdrawal symptoms in these patients.
+## 5.7 Adrenal Insufficiency
 
-Monoamine Oxidase Inhibitors (MAOIs): MAOIs have been reported to intensify the effects of at least one opioid drug causing anxiety, confusion and significant depression of respiration or coma.
-The use of oxycodone hydrochloride is not recommended for patients taking MAOIs or within 14 days of stopping such treatment.
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
+If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
+Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
+Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
+The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility:
+## 5.8 Severe Hypotension
 
-Long-term studies have not been performed in animals to evaluate the carcinogenic potential of oxycodone hydrochloride or oxycodone.
-The possible effects on male or female fertility have not been studied in animals.
+Oxycodone HCl may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
+Monitor these patients for signs of hypotension after initiating or titrating the dosage of oxycodone HCl.
+In patients with circulatory shock, use of oxycodone HCl may cause vasodilation that can further reduce cardiac output and blood pressure.
+Avoid use of oxycodone HCl in patients with circulatory shock.
 
-Oxycodone hydrochloride was genotoxic in an in vitro mouse lymphoma assay in the presence of metabolic activation.
-There was no evidence of genotoxic potential in an in vitro bacterial reverse mutation assay (Salmonella typhimurium and Escherichia coli) or in an assay for chromosomal aberrations (in vivo mouse bone marrow micronucleus assay).
+## 5.9 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-Pregnancy:
+In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), oxycodone HCl may reduce the respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with oxycodone HCl.
 
-Teratogenic Effects: Category B: Reproduction studies in Sprague-Dawley rats and New Zealand rabbits revealed that when oxycodone was administered orally at doses up to 16 mg/kg (approximately 2 times the daily oral dose of 90 mg for adults on a mg/m2 basis) and 25 mg/kg (approximately 5 times the daily oral dose of 90 mg on a mg/m2 basis), respectively was not teratogenic or embryo-fetal toxic.
-There are no adequate and well controlled studies of oxycodone in pregnant women.
-Because animal reproductive studies are not always predictive of human responses, oxycodone hydrochloride should be used during pregnancy only if potential benefit justifies the potential risk to the fetus.
+Opioids may obscure the clinical course in a patient with a head injury.
+Avoid the use of oxycodone HCl in patients with impaired consciousness or coma.
 
-Nonteratogenic Effects: Neonates whose mothers have taken oxycodone chronically may exhibit respiratory depression and/or withdrawal symptoms, either at birth and/or in the nursery.
+## 5.10 Risks of Use in Patients with Gastrointestinal Conditions
 
-Labor and Delivery:
+Oxycodone HCl is contraindicated in patients with gastrointestinal obstruction, including paralytic ileus.
 
-Oxycodone hydrochloride is not recommended for use in women during or immediately prior to labor.
-Occasionally, opioid analgesics may prolong labor through actions which temporarily reduce the strength, duration and frequency of uterine contractions.
-Neonates, whose mothers received opioid analgesics during labor, should be observed closely for signs of respiratory depression.
-A specific narcotic antagonist, naloxone, should be available for reversal of narcotic-induced respiratory depression in the neonate.
+The oxycodone in oxycodone HCl tablets may cause spasm of the sphincter of Oddi.
+Opioids may cause increases in serum amylase.
+Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
 
-Nursing Mothers:
+## 5.11 Increased Risk of Seizures in Patients with Seizure Disorders
 
-Oxycodone has been detected in breast milk.
-Withdrawal symptoms can occur in breast-feeding infants when maternal administration of an opioid analgesic is stopped.
-Ordinarily, nursing should not be undertaken while a patient is receiving oxycodone hydrochloride since oxycodone may be excreted in milk.
+The oxycodone in oxycodone HCl may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
+Monitor patients with a history of seizure disorders for worsened seizure control during oxycodone HCl therapy.
 
-Pediatric Use:
+## 5.12 Withdrawal
 
-The safety and efficacy of oxycodone in pediatric patients have not been evaluated.
+Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including oxycodone HCl.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
-Geriatric Use:
+When discontinuing oxycodone HCl in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.4)].
+Do not abruptly discontinue oxycodone HCl in these patients [see Drug Abuse and Dependence (9.3)].
 
-Of the total number of subjects in clinical studies of oxycodone hydrochloride, 20.8% (112/538) were 65 and over, while 7.2% (39/538) were 75 and over.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+## 5.13 Risks of Driving and Operating Machinery
 
-Hepatic Impairment:
-
-Since oxycodone is extensively metabolized, its clearance may decrease in hepatic failure patients.
-Dose initiation in patients with hepatic impairment should follow a conservative approach.
-Dosages should be adjusted according to the clinical situation.
-
-Renal Impairment:
-
-Published data reported that elimination of oxycodone was impaired in end-stage renal failure.
-Mean elimination half-life was prolonged in uremic patients due to increased volume of distribution and reduced clearance.
-Dose initiation should follow a conservative approach.
-Dosages should be adjusted according to the clinical situation.
-
-Ambulatory Patients:
-
-Oxycodone hydrochloride may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery.
-The patient using this drug should be cautioned accordingly.
+Oxycodone HCl may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
+Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of oxycodone HCl and know how they will react to the medication [see Patient Counseling Information (17)].

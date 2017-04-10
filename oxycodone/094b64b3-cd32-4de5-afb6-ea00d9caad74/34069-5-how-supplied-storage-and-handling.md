@@ -1,6 +1,6 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Oxycodone hydrochloride tablets, USP 5 mg are supplied as white, round, biconvex tablets debossed with “A” on the left and “04” on the right of the score on one side and plain on the other side.
+Oxycodone HCl tablets, USP 5 mg are supplied as white, round, biconvex tablets debossed with “A” on the left and “04” on the right of the score on one side and plain on the other side.
 
 They are available as follows:
 
@@ -12,7 +12,7 @@ Bottles of 250: NDC 65162-047-25
 
 Bottles of 500: NDC 65162-047-50
 
-Oxycodone hydrochloride tablets, USP 10 mg are supplied as pink, round, biconvex tablets debossed with “A” on the left and “48” on the right of the score on one side and plain on the other side.
+Oxycodone HCl tablets, USP 10 mg are supplied as pink, round, biconvex tablets debossed with “A” on the left and “48” on the right of the score on one side and plain on the other side.
 
 They are available as follows:
 
@@ -22,7 +22,7 @@ Bottles of 100: NDC 65162-048-10
 
 Bottles of 250: NDC 65162-048-25
 
-Oxycodone hydrochloride tablets, USP 15 mg are supplied as green, round, biconvex tablets debossed with “A” on the left and “49” on the right of the score on one side and plain on the other side.
+Oxycodone HCl tablets, USP 15 mg are supplied as green, round, biconvex tablets debossed with “A” on the left and “49” on the right of the score on one side and plain on the other side.
 
 They are available as follows:
 
@@ -34,7 +34,7 @@ Bottles of 250: NDC 65162-049-25
 
 Bottles of 500: NDC 65162-049-50
 
-Oxycodone hydrochloride tablets, USP 20 mg are supplied as gray, round, biconvex tablets debossed with “A” on the left and “50” on the right of the score on one side and plain on the other side.
+Oxycodone HCl tablets, USP 20 mg are supplied as gray, round, biconvex tablets debossed with “A” on the left and “50” on the right of the score on one side and plain on the other side.
 
 They are available as follows:
 
@@ -44,7 +44,7 @@ Bottles of 100: NDC 65162-050-10
 
 Bottles of 250: NDC 65162-050-25
 
-Oxycodone hydrochloride tablets, USP 30 mg are supplied as blue, round, biconvex tablets debossed with “A” on the left and “51” on the right of the score on one side and plain on the other side.
+Oxycodone HCl tablets, USP 30 mg are supplied as blue, round, biconvex tablets debossed with “A” on the left and “51” on the right of the score on one side and plain on the other side.
 
 They are available as follows:
 
@@ -62,11 +62,4 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 
 Protect from moisture.
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
-
-To request medical information or to report suspected adverse reactions, contact Amneal Pharmaceuticals at 1-877-835-5472.
-
-Manufactured by: Amneal Pharmaceuticals of NY Hauppauge, NY 11788
-
-Rev.
-12-2015-02
+Store at 20° to 25°C (68° to 77°F); excursions are permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
