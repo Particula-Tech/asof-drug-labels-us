@@ -1,13 +1,13 @@
-# BOXED WARNING
+# WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS
 
 Cardiovascular Thrombotic Events
 
 - Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal.
-  This risk may occur early in treatment and may increase with duration of use [see WARNINGS and PRECAUTIONS].
-- Indomethacin extended-release capsules are contraindicated in the setting of coronary artery bypass graft (CABG) surgery [see CONTRAINDICATIONS and WARNINGS].
+  This risk may occur early in treatment and may increase with duration of use [see Warnings and Precautions (5.1)].
+- Indomethacin extended-release capsules are contraindicated in the setting of coronary artery bypass graft (CABG) surgery [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-Gastrointestinal Risk
+Gastrointestinal Bleeding, Ulceration, and Perforation
 
-- NSAIDs cause an increased risk of serious gastrointestinal adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal.
+- NSAIDs cause an increased risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal.
   These events can occur at any time during use and without warning symptoms.
-  Elderly patients are at greater risk for serious gastrointestinal events [see WARNINGS].
+  Elderly patients and patients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events [see Warnings and Precautions (5.2)].

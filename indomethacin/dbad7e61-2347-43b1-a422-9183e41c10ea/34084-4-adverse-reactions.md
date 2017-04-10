@@ -1,96 +1,67 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The adverse reactions for indomethacin capsules listed in the following table have been arranged into two groups: 1) incidence greater than 1% and (2) incidence less than 1%.
-The incidence for group (1) was obtained from 33 double-blind controlled clinical trails reported in the literature (1,092 patients).
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
+- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Hypertension [see Warnings and Precautions (5.4)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Hematologic Toxicity [see Warnings and Precautions (5.11)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+In a gastroscopic study in 45 healthy subjects, the number of gastric mucosal abnormalities was significantly higher in the group receiving indomethacin immediate-release capsules than in the group taking indomethacin suppositories or placebo.
+
+In a double-blind comparative clinical study involving 175 patients with rheumatoid arthritis, however, the incidence of upper gastrointestinal adverse effects with indomethacin immediate-release capsules or suppositories was comparable.
+The incidence of lower gastrointestinal adverse effects was greater in the suppository group.
+
+The adverse reactions for indomethacin immediate-release capsules listed in the following table have been arranged into two groups: (1) incidence greater than 1%; and (2) incidence less than 1%.
+The incidence for group (1) was obtained from 33 double-blind controlled clinical trials reported in the literature (1,092 patients).
 The incidence for group (2) was based on reports in clinical trials, in the literature, and on voluntary reports since marketing.
-The probability of a causal relationship exists between indomethacin and these adverse reactions, some of which have been reported only rarely.
+The probability of a causal relationship exists between indomethacin immediate-release capsules and these adverse reactions, some of which have been reported only rarely.
 
-In controlled clinical trials, the incidence of adverse reactions to indomethacin extended-release capsules and equal 24-hour doses of indomethacin capsules were similar.
+The adverse reactions reported with indomethacin immediate-release capsules may occur with use of the suppositories.
+In addition, rectal irritation and tenesmus have been reported in patients who have received the capsules.
 
-| Incidence greater than 1% | Incident less than 1% |  |
+| Table 1 Summary of Adverse Reactions for Indomethacin Immediate-Release Capsules |  |  |
 | --- | --- | --- |
+| Incidence greater than 1% | Incidence less than 1% |  |
 | GASTROINTESTINAL |  |  |
-| nausea* with or without | anorexia | gastrointestinal bleeding without |
-| vomiting | bloating (including distention) | obvious ulcer formation and |
-| dyspepsia* (including | flatulence | perforation of preexisting sigmoid |
-| indigestion, heartburn and | peptic ulcer | lesions (diverticulum, carcinoma, |
-| epigastric pain) | gastroenteritis | etc.) development of ulcerative |
-| diarrhea | rectal bleeding | and regional ileitis |
-| abdominal distress or pain | proctitis | ulcerative stomatitis |
-| colitis constipation | single or multiple ulcerations, | toxic hepatitis and jaundice (some |
-|  | including perforation and | fatal cases have been reported) |
-|  | hemorrhage of the esophagus, |  |
-|  | stomach, duodenum or small |  |
-|  | and large intestines |  |
+| nausea* with or without vomiting dyspepsia* (including indigestion, heartburn and epigastric pain) diarrhea abdominal distress or pain constipation | anorexia bloating (includes distension) flatulence peptic ulcer gastroenteritis rectal bleeding proctitis single or multiple ulcerations, including perforation and hemorrhage of the esophagus, stomach, duodenum or small and large intestines intestinal ulceration associated with stenosis and obstruction | gastrointestinal bleeding without obvious ulcer formation and perforation of preexisting sigmoid lesions (diverticulum, carcinoma, etc.) development of ulcerative colitis and regional ileitis ulcerative stomatitis toxic hepatitis and jaundice (some fatal cases have been reported) intestinal strictures (diaphragms) |
 | CENTRAL NERVOUS SYSTEM |  |  |
-| headache (11.7%) | anxiety (includes nervousness) | light-headedness |
-| dizziness | muscle weakness | syncope |
-| vertigo | involuntary muscle movements | parathesia |
-| somnolence | insomnia | aggravation of epilepsy and |
-| depression and fatigue | muzziness | parkinsonism |
-| (including malaise and | psychic disturbances including | depersonalization |
-| listlessness) | psychotic episodes | coma |
-|  | mental confusion | peripheral neuropathy |
-|  | drowsiness | convulsions |
-|  |  | dysarthria |
+| headache (11.7%) dizziness* vertigo somnolence depression and fatigue (including malaise and listlessness) | anxiety (includes nervousness) muscle weakness involuntary muscle movements insomnia muzziness psychic disturbances including psychotic episodes mental confusion drowsiness | light-headedness syncope paresthesia aggravation of epilepsy and parkinsonism depersonalization coma peripheral neuropathy convulsion dysarthria |
 | SPECIAL SENSES |  |  |
-| tinnitus | ocular-corneal deposits and | blurred vision |
-|  | retinal disturbances, including | diplopia |
-|  | those of macula, have been | hearing disturbances, deafness |
-|  | reported in some patients on |  |
-|  | prolonged therapy with |  |
-|  | indomethacin |  |
+| tinnitus | ocular — corneal deposits and retinal disturbances, including those of the macula, have been reported in some patients on prolonged therapy with indomethacin immediate-release capsules | blurred vision diplopia hearing disturbances, deafness |
 | CARDIOVASCULAR |  |  |
-| none | hypertension | congestive heart failure |
-|  | hypotension | arrhythmia; palpitations |
-|  | tachycardia |  |
-|  | chest pain |  |
+| None | hypertension hypotension tachycardia chest pain | congestive heart failure arrhythmia; palpitations |
 | METABOLIC |  |  |
-| none | edema | hyperglycemia |
-|  | weight gain | glycosuria |
-|  | fluid retention | hyperkalemia |
-|  | flushing or sweating |  |
+| None | edema weight gain fluid retention flushing or sweating | hyperglycemia glycosuria hyperkalemia |
 | INTEGUMENTARY |  |  |
-| none | pruritus | exfoliative dermatitis |
-|  | rash; urticaria | erythema nodosum |
-|  | petechiae or ecchymosis | loss of hair |
-|  |  | Stevens-Johnson syndrome |
-|  |  | erythema multiforme |
-|  |  | toxic epidermal necrolysis |
+| none | pruritus rash; urticaria petechiae or ecchymosis | exfoliative dermatitis erythema nodosum loss of hair Stevens-Johnson syndrome erythema multiforme toxic epidermal necrolysis |
 | HEMATOLOGIC |  |  |
-| none | leukopenia | aplastic anemia |
-|  | bone marrow depression | hemolytic anemia |
-|  | anemia secondary to obvious or | agranulocytosis |
-|  | occult gastrointestinal bleeding | thrombocytopenic purpura |
-|  |  | disseminated intravascular |
-|  |  | coagulation |
+| None | leukopenia bone marrow depression anemia secondary to obvious or occult gastrointestinal bleeding | aplastic anemia hemolytic anemia agranulocytosis thrombocytopenic purpura disseminated intravascular coagulation |
 | HYPERSENSITIVITY |  |  |
-| none | acute anaphylaxis | dyspnea |
-|  | acute respiratory distress | asthma |
-|  | rapid fall in blood pressure | purpura |
-|  | resembling a shock-like state | angilitis |
-|  | angioedema | pulmonary edema |
-| GENITOUINARY |  |  |
-| none | hematuria | BUN elevation |
-|  | vaginal bleeding | renal insufficiency including |
-|  | proteinuria | renal failure |
-|  | nephrotic syndrome |  |
-|  | interstital nephritis |  |
+| None | acute anaphylaxis acute respiratory distress rapid fall in blood pressure resembling a shock-like state angioedema | dyspnea asthma purpura angiitis pulmonary edema fever |
+| GENITOURINARY |  |  |
+| None | hematuria vaginal bleeding proteinuria nephrotic syndrome interstitial nephritis | BUN elevation renal insufficiency, including renal failure |
 | MISCELLANEOUS |  |  |
-| none | epistasis |  |
-|  | breast changes, including |  |
-|  | enlargement or tenderness, or |  |
-|  | gynomastia |  |
-| *Reactions occurring in 3% to 9% of patients treated with Indomethacin. (Those reactions occurring in less than 3% of the patients are unmarked.) |  |  |
+| None | epistaxis breast changes, including enlargement and tenderness, or gynecomastia |  |
+| * Reactions occurring in 3% to 9% of patients treated with indomethacin immediate-release capsules. (Those reactions occurring in less than 3% of the patients are unmarked.) |  |  |
 
-Causal Relationship Unknown: Other reactions have been reported but occurred under circumstances where a causal relationship could not be established.
+Causal relationship unknown: Other reactions have been reported but occurred under circumstances where a causal relationship could not be established.
 However, in these rarely reported events, the possibility cannot be excluded.
 Therefore, these observations are being listed to serve as alerting information to physicians:
 
-A rare occurrence of fulminant necrotizing fasciitis, particularly in association with Group A β-hemolytic streptococcus, has been described in persons treated with nonsteroidal anti-inflammatory agents, including indomethacin, sometimes with fatal outcome [see also PRECAUTIONS, General].
+Cardiovascular: Thrombophlebitis
 
-Cardiovascular: Thrombophlebitis.
+Hematologic: Although there have been several reports of leukemia, the supporting information is weak
 
-Hematologic: Although there have been several reports of leukemia, the supporting information is weak.
+Genitourinary: Urinary frequency
 
-Genitourinary: Urinary frequency.
+A rare occurrence of fulminant necrotizing fasciitis, particularly in association with Group Aβ hemolytic streptococcus, has been described in persons treated with nonsteroidal anti-inflammatory agents, including indomethacin, sometimes with fatal outcome.

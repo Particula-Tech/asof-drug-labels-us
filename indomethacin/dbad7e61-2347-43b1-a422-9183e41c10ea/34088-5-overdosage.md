@@ -1,15 +1,12 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-The following symptoms may be observed following overdosage: nausea, vomiting, intense headache, dizziness, mental confusion, disorientation, or lethargy.
-There have been reports of paraesthesias, numbness, and convulsions.
+Symptoms following acute NSAID overdosages have been typically limited to lethargy, drowsiness, nausea, vomiting, and epigastric pain, which have been generally reversible with supportive care.
+Gastrointestinal bleeding has occurred.
+Hypertension, acute renal failure, respiratory depression, and coma have occurred, but were rare [see Warnings and Precautions (5.1, 5.2, 5.4, 5.6)].
 
-Treatment is symptomatic and supportive.
-The stomach should be emptied as quickly as possible if the ingestion is recent.
-If vomiting has not occurred spontaneously, the patient should be induced to vomit with syrup of Ipecac.
-If the patient is unable to vomit, gastric lavage should be performed.
-Once the stomach has been emptied, 25 or 50 g of activated charcoal may be given.
-Depending on the condition of the patient, close medical observation and nursing care may be required.
-The patient should be followed for several days because gastrointestinal ulceration and hemorrhage have been reported as adverse reactions of indomethacin.
-Use of antacids may be helpful.
+Manage patients with symptomatic and supportive care following an NSAID overdosage.
+There are no specific antidotes.
+Consider emesis and/or activated charcoal (60 to 100 grams in adults, 1 to 2 grams per kg of body weight in pediatric patients) and/or osmotic cathartic in symptomatic patients seen within four hours of ingestion or in patients with a large overdosage (5 to 10 times the recommended dosage).
+Forced diuresis, alkalinization of urine, hemodialysis, or hemoperfusion may not be useful due to high protein binding.
 
-The oral LD50 of indomethacin in mice and rats (based on 14 day mortality response) was 50 and 12 mg/kg, respectively.
+For additional information about overdosage treatment contact a poison control center (1-800-222-1222).
