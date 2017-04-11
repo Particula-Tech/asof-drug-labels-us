@@ -2,7 +2,7 @@
 
 ## 5.1 Never Share NOVOLOG FlexPen, NOVOLOG FlexTouch, PenFill Cartridge or PenFill Cartridge Device Between Patients
 
-NOVOLOG FlexPen, NOVOLOG FlexTouch, PenFill cartridge, and PenFill cartridge devices should never be shared between patients, even if the needle if changed.
+NOVOLOG FlexPen, NOVOLOG FlexTouch, PenFill cartridge, and PenFill cartridge devices should never be shared between patients, even if the needle is changed.
 Patients using NOVOLOG vials must never share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
