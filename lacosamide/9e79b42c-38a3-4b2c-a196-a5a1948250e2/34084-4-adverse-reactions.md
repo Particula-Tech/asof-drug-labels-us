@@ -6,7 +6,7 @@ The following serious adverse reactions are described below and elsewhere in the
 - Dizziness and Ataxia [see Warnings and Precautions (5.2)]
 - Cardiac Rhythm and Conduction Abnormalities [see Warnings and Precautions (5.3)]
 - Syncope [see Warnings and Precautions (5.4)]
-- Multiorgan Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
+- Multiorgan Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -71,7 +71,7 @@ Table 2: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Contr
 | Pruritus | 1 | 3 | 2 | 3 | 2 |
 
 The overall adverse reaction rate was similar in male and female patients.
-Although there were few non-Caucasian patients, no differences in the incidences of adverse events compared to Caucasian patients were observed.
+Although there were few non-Caucasian patients, no differences in the incidences of adverse reactions compared to Caucasian patients were observed.
 
 Laboratory Abnormalities
 

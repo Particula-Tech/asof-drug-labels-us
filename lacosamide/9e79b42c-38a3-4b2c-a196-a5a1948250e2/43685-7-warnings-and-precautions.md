@@ -82,7 +82,7 @@ These cases were associated with a history of risk factors for cardiac disease a
 
 As with all AEDs, VIMPAT should be withdrawn gradually (over a minimum of 1 week) to minimize the potential of increased seizure frequency in patients with seizure disorders.
 
-## 5.6 Multiorgan Hypersensitivity Reactions
+## 5.6 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity
 
 One case of symptomatic hepatitis and nephritis was observed among 4011 subjects exposed to VIMPAT during clinical development.
 The event occurred in a healthy volunteer, 10 days after stopping VIMPAT treatment.
@@ -91,9 +91,14 @@ The subject fully recovered within a month, without specific treatment.
 The case is consistent with a delayed multiorgan hypersensitivity reaction.
 Additional potential cases included 2 with rash and elevated liver enzymes and 1 with myocarditis and hepatitis of uncertain etiology.
 
-Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptoms, or DRESS) have been reported with other antiepileptics and typically, although not exclusively, present with fever and rash associated with other organ system involvement, that may or may not include eosinophilia, hepatitis, nephritis, lymphadenopathy, and/or myocarditis.
-Because this disorder is variable in its expression, other organ system signs and symptoms not noted here may occur.
-If this reaction is suspected, VIMPAT should be discontinued and alternative treatment started.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has been reported with other antiepileptics.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+This disorder is variable in its expression, and other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+VIMPAT should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 
 ## 5.7 Phenylketonurics
 

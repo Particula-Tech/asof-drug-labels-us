@@ -28,7 +28,7 @@ When discontinuing VIMPAT, a gradual withdrawal over at least 1 week is recommen
 
 Intravenous VIMPAT can be administered in the same dosing regimens described for oral dosing, including the loading dose.
 These dosages may be infused intravenously over a period of 15 minutes to 60 minutes.
-Intravenous infusion of 30 to 60 minutes is preferable, and should be used when a 15 minute administration is not required [see Adverse Reactions (6.1), Clinical Pharmacology (12.3))].
+Intravenous infusion of 30 to 60 minutes is preferable, and should be used when a 15 minute administration is not required [see Adverse Reactions (6.1), Clinical Pharmacology (12.3)].
 
 Monitor closely patients with known cardiac conduction problems, on concomitant medications that prolong PR interval, or with severe cardiac disease (e.g., myocardial ischemia, heart failure), as intravenous infusion of VIMPAT may cause bradycardia or AV blocks in these patients [see Warnings and Precautions (5.3)].
 

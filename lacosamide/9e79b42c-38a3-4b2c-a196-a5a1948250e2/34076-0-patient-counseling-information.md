@@ -17,7 +17,7 @@ Cardiac Rhythm and Conduction Abnormalities
 Patients should be counseled that VIMPAT is associated with electrocardiographic changes that may predispose to irregular beat and syncope, particularly in patients with underlying cardiovascular disease, with heart conduction problems or who are taking other medications that affect the heart.
 Patients who develop syncope should lay down with raised legs and contact their health care provider.
 
-Multiorgan Hypersensitivity Reactions
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity
 
 Patients should be aware that VIMPAT may cause serious hypersensitivity reactions affecting multiple organs such as the liver and kidney.
 VIMPAT should be discontinued if a serious hypersensitivity reaction is suspected.
