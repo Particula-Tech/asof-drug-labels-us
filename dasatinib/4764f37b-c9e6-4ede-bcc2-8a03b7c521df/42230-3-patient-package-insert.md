@@ -20,4 +20,4 @@
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-1360013A0 Revised: October 2015
+XXXXXXXXX Revised: October 2015

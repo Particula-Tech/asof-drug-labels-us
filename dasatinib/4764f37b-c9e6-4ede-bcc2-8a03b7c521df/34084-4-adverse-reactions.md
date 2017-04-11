@@ -309,3 +309,5 @@ Cardiac disorders: atrial fibrillation/atrial flutter
 Respiratory, thoracic, and mediastinal disorders: interstitial lung disease
 
 Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome
+
+Renal and urinary disorders: nephrotic syndrome

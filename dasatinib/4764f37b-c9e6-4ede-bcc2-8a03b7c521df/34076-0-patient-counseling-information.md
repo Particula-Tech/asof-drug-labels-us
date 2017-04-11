@@ -54,4 +54,4 @@ If the patient misses a dose of SPRYCEL, the patient should take the next schedu
 The patient should not take two doses at the same time.
 Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1360013A0
+XXXXXXXXX

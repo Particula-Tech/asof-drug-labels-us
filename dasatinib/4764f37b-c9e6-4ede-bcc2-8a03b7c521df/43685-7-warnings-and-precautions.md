@@ -12,9 +12,9 @@ Myelosuppression is generally reversible and usually managed by withholding SPRY
 ## 5.2 Bleeding-Related Events
 
 In addition to causing thrombocytopenia in human subjects, dasatinib caused platelet dysfunction in vitro.
-In all CML or Ph+ ALL clinical studies, ≥grade 3 central nervous system (CNS) hemorrhages, including fatalities, occurred in <1% of patients receiving SPRYCEL.
+In all CML or Ph+ ALL clinical studies, ≥Grade 3 central nervous system (CNS) hemorrhages, including fatalities, occurred in <1% of patients receiving SPRYCEL.
 Grade 3 or greater gastrointestinal hemorrhage, including fatalities, occurred in 4% of patients and generally required treatment interruptions and transfusions.
-Other cases of ≥grade 3 hemorrhage occurred in 2% of patients.
+Other cases of ≥Grade 3 hemorrhage occurred in 2% of patients.
 Most bleeding events in clinical studies were associated with severe thrombocytopenia.
 
 Concomitant medications that inhibit platelet function or anticoagulants may increase the risk of hemorrhage.
@@ -22,9 +22,9 @@ Concomitant medications that inhibit platelet function or anticoagulants may inc
 ## 5.3 Fluid Retention
 
 SPRYCEL may cause fluid retention.
-After 5 years of follow-up in the randomized newly diagnosed chronic phase CML study (n=258), grade 3 or 4 fluid retention was reported in 5% of patients, including 3% of patients with grade 3 or 4 pleural effusion.
-In patients with newly diagnosed or imatinib-resistant or -intolerant chronic phase CML, grade 3 or 4 fluid retention occurred in 6% of patients treated with SPRYCEL at the recommended dose (n=548).
-In patients with advanced phase CML or Ph+ ALL treated with SPRYCEL at the recommended dose (n=304), grade 3 or 4 fluid retention was reported in 8% of patients, including grade 3 or 4 pleural effusion reported in 7% of patients.
+After 5 years of follow-up in the randomized newly diagnosed chronic phase CML study (n=258), Grade 3 or 4 fluid retention was reported in 5% of patients, including 3% of patients with Grade 3 or 4 pleural effusion.
+In patients with newly diagnosed or imatinib-resistant or -intolerant chronic phase CML, Grade 3 or 4 fluid retention occurred in 6% of patients treated with SPRYCEL at the recommended dose (n=548).
+In patients with advanced phase CML or Ph+ ALL treated with SPRYCEL at the recommended dose (n=304), Grade 3 or 4 fluid retention was reported in 8% of patients, including Grade 3 or 4 pleural effusion reported in 7% of patients.
 
 Evaluate patients who develop symptoms of pleural effusion or other fluid retention, such as new or worsened dyspnea on exertion or at rest, pleuritic chest pain, or dry cough, promptly with a chest x-ray or additional diagnostic imaging as appropriate.
 Fluid retention events were typically managed by supportive care measures that may include diuretics or short courses of steroids.
