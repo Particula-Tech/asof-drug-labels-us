@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA017744"
+  ],
+  "inn": "atropine",
+  "labeler": "Sebela Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "54766-200-04",
+    "54766-200-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "difenoxin and atropine sulfate",
+      "name": "Motofen"
+    }
+  ],
+  "setid": "4cd3f029-a5e3-5812-e054-00144ff8d46c",
+  "source": "dailymed"
+}
