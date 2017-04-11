@@ -14,6 +14,11 @@ Risk Summary E-Z-HD is not absorbed systemically by the mother following oral ad
 
 Double-contrast radiographic examinations of the esophagus, stomach and duodenum may be used in pediatric patients 12 years and older.
 
+E-Z-HD is contraindicated in pediatric patients with tracheo-esophageal fistula.
+[see Contraindications (4)].
+Pediatric patients with a history of asthma or food allergies may be at increased risk for development of hypersensitivity reactions [see Warnings and Precautions (5.1)].
+Pediatric patients with cystic fibrosis or Hirschsprung disease should be monitored for bowel obstruction after use [see Warnings and Precautions (5.3)]
+
 ## 8.5 Geriatric Use
 
 Clinical studies of E-Z-HD did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.

@@ -1,10 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients to inform their healthcare provider if they have:
+After administration advise patients to:
 
-- allergies to any drug or food, or if they have had any reactions to barium sulfate products
-- any swallowing disorders or history of aspiration
-- carcinoma, stenosis, or obstruction of the GI tract
-- had any recent GI surgery, colonoscopy procedure or radiation therapy treatment
+- Maintain adequate hydration
+- Seek medical attention for worsening of constipation or slow gastrointestinal passage
+- Seek medical attention for any delayed onset of hypersensitivity: rash, urticaria, or respiratory difficulty
 
-Manufactured for Bracco Diagnostics Inc. Monroe Township, NJ 08831 by EZEM Canada Inc Anjou (Quebec) Canada H1J 2Z4
+Manufactured by EZEM Canada Inc Anjou (Quebec) Canada H1J 2Z4 For Bracco Diagnostics Inc. Monroe Township, NJ 08831 Revised February 2017
