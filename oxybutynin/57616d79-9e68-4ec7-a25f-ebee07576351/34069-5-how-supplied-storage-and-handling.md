@@ -6,7 +6,7 @@ Carton of 1 metered-dose Pump (NDC 0023-5812-30)
 
 Unit Dose: Heat-sealed sachet containing 1 gram (1.14 mL) of GELNIQUE gel for topical use.
 
-Carton of 30 Sachets (NDC 0023-5812-11)
+Carton of 30 Sachets (NDC 0023-5861-11)
 
 Storage
 
