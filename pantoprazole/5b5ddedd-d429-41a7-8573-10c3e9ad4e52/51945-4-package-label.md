@@ -26,7 +26,7 @@ Contains 1 mg edetate disodium No filter required
 
 Amerinet Choice®
 
-# PRINCIPAL DISPLAY PANEL - 25 Vial Carton
+# PRINCIPAL DISPLAY PANEL - 25 Vial Carton Package
 
 NDC 0008-2001-25 Contains 25 of NDC 0008-2001-01 Rx only
 
@@ -39,7 +39,7 @@ Equivalent to 40 mg pantoprazole per vial
 
 For I.V. infusion only.
 
-Amerinet Choice®
+INTALERE CHOICE℠
 
 # PRINCIPAL DISPLAY PANEL - 10 Vial Bundle Label
 
