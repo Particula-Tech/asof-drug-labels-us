@@ -8,7 +8,7 @@ Assess each patient’s risk prior to prescribing Butalbital, Acetaminophen, Caf
 1. Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
-Monitor for respiratory depression, especially during initiation of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules or following a dose increase [see Warnings and Precautions (5.2)].
+Monitor for respiratory depression, especially during initiation of Butalbital,Acetaminophen, Caffeine, and Codeine Phosphate Capsules or following a dose increase [see Warnings and Precautions (5.2)].
 
 Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 

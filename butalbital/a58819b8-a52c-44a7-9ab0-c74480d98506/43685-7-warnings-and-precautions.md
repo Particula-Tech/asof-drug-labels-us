@@ -81,30 +81,20 @@ The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducer
 Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules require careful consideration of the effects on codeine and the active metabolite, morphine.
 
 - •Cytochrome P450 3A4 Interaction
-
-The concomitant use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules with all cytochrome P450 3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir) or discontinuation of a cytochrome P450 3A4 inducer such as rifampin, carbamazepine, and phenytoin, may result in an increase in codeine plasma concentrations with subsequently greater metabolism by cytochrome P450 2D6, resulting in greater morphine levels, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
-
-The concomitant use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules with all cytochrome P450 3A4 inducers or discontinuation of a cytochrome P450 3A4 inhibitor may result in lower codeine levels, greater norcodeine levels, and less metabolism via 2D6 with resultant lower morphine levels.
-This may be associated with a decrease in efficacy, and in some patients, may result in signs and symptoms of opioid withdrawal.
-
-Follow patients receiving Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules and any CYP3A4 inhibitor or inducer for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are used in conjunction with inhibitors and inducers of CYP3A4.
-
-If concomitant use of a CYP3A4 inhibitor is necessary or if a CYP3A4 inducer is discontinued, consider dosage reduction of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules until stable drug effects are achieved.
-Monitor patients for respiratory depression and sedation at frequent intervals.
-
-If concomitant use of a CYP3A4 inducer is necessary or if a CYP3A4 inhibitor is discontinued, consider increasing the Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules dosage until stable drug effects are achieved.
-Monitor for signs of opioid withdrawal [see Drug Interactions (7)].
-
+- The concomitant use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules with all cytochrome P450 3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir) or discontinuation of a cytochrome P450 3A4 inducer such as rifampin, carbamazepine, and phenytoin, may result in an increase in codeine plasma concentrations with subsequently greater metabolism by cytochrome P450 2D6, resulting in greater morphine levels, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
+- The concomitant use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules with all cytochrome P450 3A4 inducers or discontinuation of a cytochrome P450 3A4 inhibitor may result in lower codeine levels, greater norcodeine levels, and less metabolism via 2D6 with resultant lower morphine levels.
+  This may be associated with a decrease in efficacy, and in some patients, may result in signs and symptoms of opioid withdrawal.
+- Follow patients receiving Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules and any CYP3A4 inhibitor or inducer for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are used in conjunction with inhibitors and inducers of CYP3A4.
+- If concomitant use of a CYP3A4 inhibitor is necessary or if a CYP3A4 inducer is discontinued, consider dosage reduction of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules until stable drug effects are achieved.
+  Monitor patients for respiratory depression and sedation at frequent intervals.
+- If concomitant use of a CYP3A4 inducer is necessary or if a CYP3A4 inhibitor is discontinued, consider increasing the Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules dosage until stable drug effects are achieved.
+  Monitor for signs of opioid withdrawal [see Drug Interactions (7)].
 - •Risks of Concomitant Use or Discontinuation of Cytochrome P450 2D6 Inhibitors
-
-The concomitant use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules with all cytochrome P450 2D6 inhibitors (e.g., amiodarone, quinidine) may result in an increase in codeine plasma concentrations and a decrease in active metabolite morphine plasma concentration which could result in an analgesic efficacy reduction or symptoms of opioid withdrawal.
-
-Discontinuation of a concomitantly used cytochrome P450 2D6 inhibitor may result in a decrease in codeine plasma concentration and an increase in active metabolite morphine plasma concentration which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
-
-Follow patients receiving Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules and any CYP2D6 inhibitor for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are used in conjunction with inhibitors of CYP2D6.
-
-If concomitant use with a CYP2D6 inhibitor is necessary, follow the patient for signs of reduced efficacy or opioid withdrawal and consider increasing the Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules dosage.
-After stopping use of a CYP2D6 inhibitor, consider reducing the Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules dosage and follow the patient for signs and symptoms of respiratory depression or sedation [see Drug Interactions (7)].
+- The concomitant use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules with all cytochrome P450 2D6 inhibitors (e.g., amiodarone, quinidine) may result in an increase in codeine plasma concentrations and a decrease in active metabolite morphine plasma concentration which could result in an analgesic efficacy reduction or symptoms of opioid withdrawal.
+- Discontinuation of a concomitantly used cytochrome P450 2D6 inhibitor may result in a decrease in codeine plasma concentration and an increase in active metabolite morphine plasma concentration which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
+- Follow patients receiving Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules and any CYP2D6 inhibitor for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are used in conjunction with inhibitors of CYP2D6.
+- If concomitant use with a CYP2D6 inhibitor is necessary, follow the patient for signs of reduced efficacy or opioid withdrawal and consider increasing the Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules dosage.
+  After stopping use of a CYP2D6 inhibitor, consider reducing the Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules dosage and follow the patient for signs and symptoms of respiratory depression or sedation [see Drug Interactions (7)].
 
 ## 5.7 Hepatotoxicity
 
