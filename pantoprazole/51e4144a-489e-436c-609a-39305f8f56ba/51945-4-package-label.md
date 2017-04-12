@@ -27,11 +27,13 @@ Pfizer Injectables
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 25 Vial Carton
+# PRINCIPAL DISPLAY PANEL - 25 Vial Carton
 
 NDC 0008-0923-60 Contains 25 of NDC 0008-0923-51
 
-25 x 40 mg Vials PROTONIX® I.V.
+25 x 40 mg Vials
+
+PROTONIX® I.V.
 (pantoprazole sodium) for Injection
 
 Equivalent to 40 mg pantoprazole per vial
