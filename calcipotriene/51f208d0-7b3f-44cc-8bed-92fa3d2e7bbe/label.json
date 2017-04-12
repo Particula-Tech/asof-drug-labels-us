@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022563"
+  ],
+  "inn": "calcipotriene",
+  "labeler": "Mayne Pharma LLC",
+  "package_ndcs": [
+    "51862-376-12",
+    "51862-376-60"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "calcipotriene",
+      "name": "SORILUX"
+    }
+  ],
+  "setid": "51f208d0-7b3f-44cc-8bed-92fa3d2e7bbe",
+  "source": "dailymed"
+}
