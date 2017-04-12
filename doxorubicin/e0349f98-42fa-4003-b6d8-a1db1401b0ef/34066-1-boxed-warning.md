@@ -1,4 +1,4 @@
-# BOXED WARNING
+# WARNING
 
 1. Severe local tissue necrosis will occur if there is extravasation during administration (see DOSAGE AND ADMINISTRATION).
    Doxorubicin must not be given by the intramuscular or subcutaneous route.
@@ -10,10 +10,10 @@
    Pediatric patients are at increased risk for developing delayed cardiotoxicity.
 3. Secondary acute myelogenous leukemia (AML) or myelodysplastic syndrome (MDS) has been reported in patients treated with anthracyclines, including doxorubicin (see ADVERSE REACTIONS).
    The occurrence of refractory secondary AML or MDS is more common when anthracyclines are given in combination with DNA-damaging anti-neoplastic agents or radiotherapy, when patients have been heavily pretreated with cytotoxic drugs, or when doses of anthracyclines have been escalated.
-   The rate of developing secondary AML or MDS has been estimated in an analysis of 8563 patients with early breast cancer treated in 6 studies conducted by the National Surgical Adjuvant Breast and Bowel Project (NSABP), including NSABP B-15.
+   The rate of developing secondary AML or MDS has been estimated in an analysis of 8,563 patients with early breast cancer treated in 6 studies conducted by the National Surgical Adjuvant Breast and Bowel Project (NSABP), including NSABP B-15.
    Patients in these studies received standard doses of doxorubicin and standard or escalated doses of cyclophosphamide (AC) adjuvant chemotherapy and were followed for 61,810 patient years.
-   Among 4483 such patients who received conventional doses of AC, 11 cases of AML or MDS were identified, for an incidence of 0.32 cases per 1000 patient years (95% Cl, 0.16 to 0.57) and a cumulative incidence at 5 years of 0.21% (95% Cl, 0.11 to 0.41%).
-   In another analysis of 1474 patients with breast cancer who received adjuvant treatment with doxorubicin-containing regimens in clinical trials conducted at University of Texas M.D.
+   Among 4,483 such patients who received conventional doses of AC, 11 cases of AML or MDS were identified, for an incidence of 0.32 cases per 1,000 patient years (95% Cl, 0.16 to 0.57) and a cumulative incidence at 5 years of 0.21% (95% Cl, 0.11 to 0.41%).
+   In another analysis of 1,474 patients with breast cancer who received adjuvant treatment with doxorubicin-containing regimens in clinical trials conducted at University of Texas M.D.
    Anderson Cancer Center, the incidence was estimated at 1.5% at 10 years.
    In both experiences, patients who received regimens with higher cyclophosphamide dosages, who received radiotherapy, or who were aged 50 or older had an increased risk of secondary AML or MDS.
    Pediatric patients are also at risk of developing secondary AML.

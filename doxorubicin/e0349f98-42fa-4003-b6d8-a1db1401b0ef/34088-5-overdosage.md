@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# OVERDOSAGE:
 
 Acute overdosage with doxorubicin enhances the toxic effects of mucositis, leukopenia and thrombocytopenia.
 Treatment of acute overdosage consists of treatment of the severely myelosuppressed patient with hospitalization, antimicrobials, platelet transfusions and symptomatic treatment of mucositis.

@@ -1,6 +1,6 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
-When possible, to reduce the risk of developing cardiotoxicity in patients receiving doxorubicin after stopping treatment with other cardiotoxic agents, especially those with long half-lives sch as trastuzumab, doxorubicin-based therapy should be delayed until the other agents have cleared from the circulation (see WARNINGS and PRECAUTIONS, General).
+When possible, to reduce the risk of developing cardiotoxicity in patients receiving doxorubicin after stopping treatment with other cardiotoxic agents, especially those with long half-lives such as trastuzumab, doxorubicin-based therapy should be delayed until the other agents have cleared from the circulation (see WARNINGS and PRECAUTIONS, General).
 
 Care in the administration of doxorubicin will reduce the chance of perivenous infiltration (see WARNINGS).
 It may also decrease the chance of local reactions such as urticaria and erythematous streaking.
@@ -25,7 +25,7 @@ Four cycles of treatment were administered.
 ## Dose Modifications
 
 Patients in the NSABP B-15 study could have dose modifications of AC to 75% of the starting doses for neutropenic fever/infection.
-When necessary, the next cycle of treatment cycle was delayed until the absolute neutrophil count (ANC) was ≥ 1000 cells/mm3 and the platelet count was ≥ 100,000 cells/mm3 and nonhematologic toxicities had resolved.
+When necessary, the next cycle of treatment cycle was delayed until the absolute neutrophil count (ANC) was ≥ 1,000 cells/mm3 and the platelet count was ≥ 100,000 cells/mm3 and nonhematologic toxicities had resolved.
 
 Doxorubicin dosage must be reduced in case of hyperbilirubinemia as follows:
 

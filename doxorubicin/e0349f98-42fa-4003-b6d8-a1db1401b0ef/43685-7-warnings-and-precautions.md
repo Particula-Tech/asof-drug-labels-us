@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 ## General
 
@@ -31,7 +31,7 @@ The risk of developing CHF increases rapidly with increasing total cumulative do
 Cardiotoxicity may occur at lower doses in patients with prior mediastinal/pericardial irradiation, concomitant use of other cardiotoxic drugs, doxorubicin exposure at an early age, and advanced age.
 Data also suggest that pre-existing heart disease is a co-factor for increased risk of doxorubicin cardiotoxicity.
 In such cases, cardiac toxicity may occur at doses lower than the recommended cumulative dose of doxorubicin.
-Studies have suggested that concomitant administration of doxorubicin and calcium channel entry blockers or cardiotoxic drugs, especially those with long half-lives, e.g., trastuzumab, may increase the risk of doxorubicin cardiotoxicity (see PRECAUTIONS, General; DOSAGE AND ADMINISTRATION).
+Studies have suggested that concomitant administration of doxorubicin and calcium channel entry blockers or cardiotoxic drugs, especially those with long half-lives, e.g. trastuzumab, may increase the risk of doxorubicin cardiotoxicity (see PRECAUTIONS, General, DOSAGE AND ADMINISTRATION).
 The total dose of doxorubicin administered to the individual patient should also take into account previous or concomitant therapy with related compounds such as daunorubicin, idarubicin and mitoxantrone.
 Although not formally tested, it is probable that the toxicity of doxorubicin and other anthracyclines or anthracenediones is additive.
 Cardiomyopathy and/or congestive heart failure may be encountered several months or years after discontinuation of doxorubicin therapy.
@@ -78,10 +78,10 @@ Clinical consequences of severe myelosuppression include fever, infections, seps
 
 The occurrence of secondary AML or MDS has been reported most commonly in patients treated with chemotherapy regimens containing anthracyclines (including doxorubicin) and DNA-damaging antineoplastic agents, in combination with radiotherapy, when patients have been heavily pretreated with cytotoxic drugs, or when doses of anthracyclines have been escalated.
 Such cases generally have a 1 to 3 year latency period.
-The rate of developing secondary AML or MDS has been estimated in an analysis of 8563 patients with early breast cancer treated in 6 studies conducted by the National Surgical Adjuvant Breast and Bowel Project (NSABP), including NSABP B-15.
+The rate of developing secondary AML or MDS has been estimated in an analysis of 8,563 patients with early breast cancer treated in 6 studies conducted by the National Surgical Adjuvant Breast and Bowel Project (NSABP), including NSABP B-15.
 Patients in these studies received standard doses of doxorubicin and standard or escalated doses of cyclophosphamide (AC) adjuvant chemotherapy and were followed for 61,810 patient years.
-Among 4483 such patients who received conventional doses of AC, 11 cases of AML or MDS were identified, for an incidence of 0.32 cases per 1000 patient years (95% Cl, 0.16 to 0.57) and a cumulative incidence at 5 years of 0.21% (95% Cl, 0.11 to 0.41%).
-In another analysis of 1474 patients with breast cancer who received adjuvant treatment with doxorubicin-containing regimens in clinical trials conducted at University of Texas M.D.
+Among 4,483 such patients who received conventional doses of AC, 11 cases of AML or MDS were identified, for an incidence of 0.32 cases per 1,000 patient years (95% Cl, 0.16 to 0.57) and a cumulative incidence at 5 years of 0.21% (95% Cl, 0.11 to 0.41%).
+In another analysis of 1,474 patients with breast cancer who received adjuvant treatment with doxorubicin-containing regimens in clinical trials conducted at University of Texas M.D.
 Anderson Cancer Center, the incidence was estimated at 1.5% at 10 years.
 In both experiences, patients who received regimens with higher cyclophosphamide dosages, who received radiotherapy, or who were aged 50 or older had an increased risk of secondary AML or MDS.
 
@@ -120,14 +120,14 @@ There are no adequate and well-controlled studies in pregnant women.
 If doxorubicin is to be used during pregnancy, or if the patient becomes pregnant during therapy, the patient should be apprised of the potential hazard to the fetus.
 Women of childbearing age should be advised to avoid becoming pregnant.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 
 Doxorubicin is not an anti-microbial agent.
 Doxorubicin is emetigenic.
 Antiemetics may reduce nausea and vomiting; prophylactic use of antiemetics should be considered before administration of doxorubicin, particularly when given in conjunction with other emetigenic drugs.
-Doxorubicin should not be administered in combination with other cardiotoxic agents unless the patient’s cardiac function is closely monitored.
+Doxorubicin should not be administered in combination with other cardiotoxic agents unless the patient's cardiac function is closely monitored.
 Patients receiving doxorubicin after stopping treatment with other cardiotoxic agents, especially those with long half-lives such as trastuzumab, may also be at an increased risk of developing cardiotoxicity.
 Physicians should avoid doxorubicin-based therapy for up to 24 weeks after stopping trastuzumab when possible.
 If doxorubicin used before this time, careful monitoring of cardiac function is recommended (see WARNINGS, DOSAGE AND ADMINISTRATION).
@@ -182,7 +182,6 @@ Sorafenib
 
 In clinical studies, both an increase of 21% and 47% and no change in the AUC of doxorubicin were observed with concomitant treatment with sorafenib 400 mg twice daily.
 The clinical significance of these findings is unknown.
-
 Cyclophosphamide
 
 The addition of cyclophosphamide to doxorubicin treatment does not affect exposure to doxorubicin, but may result in an increase in exposure to doxorubicinol, a metabolite.
@@ -192,13 +191,13 @@ Acute myeloid leukemia has been reported as a second malignancy after treatment 
 
 Literature reports have also described the following drug interactions
 
-Phenobarbital increases the elimination of doxorubicin; phenytoin levels may be decreased by doxorubicin; streptozocin (Zanosar®) may inhibit hepatic metabolism of doxorubicin; saquinavir in combination with cyclophosphamide, doxorubicin, and etoposide increased mucosal toxicity in patients with HIV-associated non-Hodgkin’s lymphoma; and administration of live vaccines to immunosuppressed patients including those undergoing cytotoxic chemotherapy may be hazardous (seeWARNINGS).
+Phenobarbital increases the elimination of doxorubicin; phenytoin levels may be decreased by doxorubicin; streptozocin (Zanosar®) may inhibit hepatic metabolism of doxorubicin; saquinavir in combination with cyclophosphamide, doxorubicin, and etoposide increased mucosal toxicity in patients with HIV-associated non-Hodgkin's lymphoma; and administration of live vaccines to immunosuppressed patients including those undergoing cytotoxic chemotherapy may be hazardous (see WARNINGS).
 
 ## Laboratory Tests
 
 Initial treatment with doxorubicin requires observation of the patient and periodic monitoring of complete blood counts, hepatic function tests, and left ventricular ejection fraction (see WARNINGS).
 Abnormalities of hepatic function tests may occur.
-Like other cytotoxic drugs, doxorubicin may induce “tumor-lysis syndrome” and hyperuricemia in patients with rapidly growing tumors.
+Like other cytotoxic drugs, doxorubicin may induce "tumor-lysis syndrome" and hyperuricemia in patients with rapidly growing tumors.
 Blood uric acid levels, potassium, calcium, phosphate, and creatinine should be evaluated after initial treatment.
 Hydration, urine alkalinization, and prophylaxis with allopurinol to prevent hyperuricemia may minimize potential complications of tumor-lysis syndrome.
 
@@ -250,10 +249,10 @@ Follow-up cardiac evaluations are recommended periodically to monitor for this d
 Doxorubicin, as a component of intensive chemotherapy regimens administered to pediatric patients, may contribute to prepubertal growth failure.
 It may also contribute to gonadal impairment, which is usually temporary.
 Pediatric patients treated with doxorubicin or other topoisomerase II inhibitors are at a risk for developing acute myelogenous leukemia and other neoplasms.
-Pediatric patients receiving concomitant doxorubicin and actinomycin-D have manifested acute “recall” pneumonitis at variable times after local radiation therapy.
+Pediatric patients receiving concomitant doxorubicin and actinomycin-D have manifested acute "recall" pneumonitis at variable times after local radiation therapy.
 
 ## Geriatric Use
 
-An estimated 4600 patients who were 65 and over were included in the reported clinical experience of doxorubicin use for various indications.
+An estimated 4,600 patients who were 65 and over were included in the reported clinical experience of doxorubicin use for various indications.
 No overall differences in safety and effectiveness were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 The decision to use doxorubicin in the treatment of older patients should be based upon a consideration of overall performance status and concurrent illnesses, in addition to age of the individual patient.

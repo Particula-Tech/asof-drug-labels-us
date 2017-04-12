@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 Dose limiting toxicities of therapy are myelosuppression and cardiotoxicity.
 Other reactions reported are:
@@ -51,8 +51,8 @@ Malaise/asthenia have been reported.
 
 ## Adverse Reactions in Patients with Early Breast Cancer Receiving Doxorubicin-Containing Adjuvant Therapy
 
-Safety data were collected from approximately 2300 women who participated in a randomized, open-label trial (NSABP B-15) evaluating the use of AC versus CMF in the treatment of early breast cancer involving axillary lymph nodes.
-In the safety analysis, the follow-up data from all patients receiving AC were combined (N=1492 evaluable patients) and compared with data from patients receiving conventional CMF (i.e., oral cyclophosphamide; N=739 evaluable patients).
+Safety data were collected from approximately 2,300 women who participated in a randomized, open-label trial (NSABP B-15) evaluating the use of AC versus CMF in the treatment of early breast cancer involving axillary lymph nodes.
+In the safety analysis, the follow-up data from all patients receiving AC were combined (N=1,492 evaluable patients) and compared with data from patients receiving conventional CMF (i.e., oral cyclophosphamide; N=739 evaluable patients).
 The most relevant adverse events reported in this study are provided in Table 2.
 
 Table 2.
@@ -60,10 +60,10 @@ Relevant Adverse Events in Patients with Early Breast Cancer Involving Axillary 
 
 |  | AC* | Conventional CMF |
 | --- | --- | --- |
-|  | N=1492 | N=739 |
+|  | N=1,492 | N=739 |
 | Treatment administration |  |  |
 | Mean number of cycles | 3.8 | 5.5 |
-| Total cycles | 5676 | 4068 |
+| Total cycles | 5,676 | 4,068 |
 | Adverse events, % of patients |  |  |
 | Leukopenia |  |  |
 | Grade 3 (1,000 to 1,999 /mm3) | 3.4 | 9.4 |
@@ -93,4 +93,4 @@ Relevant Adverse Events in Patients with Early Breast Cancer Involving Axillary 
 | Symptomatic | 0.1 | 0 |
 | Treatment-related death | 0 | 0 |
 
-*Includes pooled data from patients who received either AC alone for 4 cycles, or who were treated with AC for 4 cycles followed by 3 cycle s of CMF
+*Includes pooled data from patients who received either AC alone for 4 cycles, or who were treated with AC for 4 cycles followed by 3 cycles of CMF

@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-DOXORUBICIN Hydrochloride Injection, USP
+Doxorubicin (dakse-RU-besen) Hydrochloride Injection, USP
 
 Read this Patient information before you start receiving doxorubicin and before each infusion.
 This information leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -121,7 +121,7 @@ What are the possible side effects of doxorubicin?
 
 Doxorubicin can cause serious side effects including:
 
-• See “What is the most important information I should know about doxorubicin?”
+• See "What is the most important information I should know about doxorubicin?"
 
 Infusion site reactions.
 Serious infusion site reactions can happen with doxorubicin.
@@ -161,7 +161,7 @@ Tell your doctor if you do have unprotected sexual contact with a female who cou
 Talk to your doctor if this is a concern for you.
 
 Irreversible amenorrhea or early menopause.
-Your periods (menstrual cycle) may completely stop when your receive doxorubicin.
+Your periods (menstrual cycle) may completely stop when you receive doxorubicin.
 Your periods may or may not return after you complete your treatment of doxorubicin.
 
 The most common side effects of doxorubicin include:

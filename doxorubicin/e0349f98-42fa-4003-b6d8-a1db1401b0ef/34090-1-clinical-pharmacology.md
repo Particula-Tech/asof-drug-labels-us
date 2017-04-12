@@ -1,8 +1,8 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 The cytotoxic effect of doxorubicin on malignant cells and its toxic effects on various organs are thought to be related to nucleotide base intercalation and cell membrane lipid binding activities of doxorubicin.
 Intercalation inhibits nucleotide replication and action of DNA and RNA polymerases.
-The interaction of doxorubicin with topoisomerase II to form DNA cleavable complexes appears to be an important mechanism of doxorubicin cytocidal activity.
+The interaction of doxorubicin with topoisomerase II to form DNA-cleavable complexes appears to be an important mechanism of doxorubicin cytocidal activity.
 
 Doxorubicin cellular membrane binding may affect a variety of cellular functions.
 Enzymatic electron reduction of doxorubicin by a variety of oxidases, reductases and dehydrogenases generates highly reactive species including the hydroxyl free radical OH•.
@@ -21,7 +21,7 @@ In four patients, doxorubicin has demonstrated dose-independent pharmacokinetics
 Distribution
 
 The initial distribution half-life of approximately 5 minutes suggests rapid tissue uptake of doxorubicin, while its slow elimination from tissues is reflected by a terminal half-life of 20 to 48 hours.
-Steady-state distribution volume ranges from 809 to 1214 L/m2 and is indicative of extensive drug uptake into tissues.
+Steady-state distribution volume ranges from 809 to 1,214 L/m2 and is indicative of extensive drug uptake into tissues.
 Binding of doxorubicin and its major metabolite, doxorubicinol, to plasma proteins is about 74 to 76% and is independent of plasma concentration of doxorubicin up to 1.1 mcg/mL.
 
 Doxorubicin was excreted in the milk of one lactating patient, with peak milk concentration at 24 hours after treatment being approximately 4.4-fold greater than the corresponding plasma concentration.
@@ -49,8 +49,8 @@ There was a significant reduction in clearance without any change in volume of d
 
 Pediatric
 
-Following administration of 10 to 75 mg/m2 doses of doxorubicin to 60 children and adolescents ranging from 2 months to 20 years of age, doxorubicin clearance averaged 1443 ± 114 mL/min/m2.
-Further analysis demonstrated that clearance in 52 children greater than 2 years of age (1540 mL/min/m2) was increased compared with adults.
+Following administration of 10 to 75 mg/m2 doses of doxorubicin to 60 children and adolescents ranging from 2 months to 20 years of age, doxorubicin clearance averaged 1,443 ± 114 mL/min/m2.
+Further analysis demonstrated that clearance in 52 children greater than 2 years of age (1,540 mL/min/m2) was increased compared with adults.
 However, clearance in infants younger than 2 years of age (813 mL/min/m2) was decreased compared with older children and approached the range of clearance values determined in adults.
 
 Geriatric
@@ -59,7 +59,7 @@ While the pharmacokinetics of elderly subjects (≥65 years of age) have been ev
 
 Gender
 
-A published clinical study involving 6 men and 21 women with no prior anthracycline therapy reported a significantly higher median doxorubicin clearance in the men compared to the women (1088 mL/min/m2 versus 433 mL/min/m2).
+A published clinical study involving 6 men and 21 women with no prior anthracycline therapy reported a significantly higher median doxorubicin clearance in the men compared to the women (1,088 mL/min/m2 versus 433 mL/min/m2).
 However, the terminal half-life of doxorubicin was longer in men compared to the women (54 versus 35 hours).
 
 Race

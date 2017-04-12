@@ -1,71 +1,42 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY - Doxorubicin 5 mL Single Dose Vial Label
 
-NDC 63323-883-05
+DOXOrubicin Hydrochloride Injection, USP
 
-88305
+10 mg per 5 mL (2 mg per mL)
 
-Doxorubicin HCl Injection, USP
+For intravenous use only.
+Preservative free.
 
-10 mg/5 mL (2 mg/mL)
-
-For IV Use Only
-
-Sterile, Isotonic Solution
-
-5 mL Single Dose Vial
-
-Rx only
+5 mL Single Dose Vial Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Doxorubicin 5 mL Single Dose Vial Carton Panel
 
-NDC 63323-883-05
+DOXOrubicin Hydrochloride Injection, USP 10 mg per 5 mL (2 mg per mL)
 
-88305
+For intravenous use only.
 
-Doxorubicin HCl Injection, USP
-
-10 mg/5 mL (2 mg/mL)
-
-For Intravenous Use Only
-
-Sterile, Isotonic Solution
-
-5 mL Single Dose Vial
-
-Rx only
+Preservative free.
+Rx only 5 mL Single Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Doxorubicin 100 mL Multiple Dose Vial Label
 
-NDC 63323-101-61
+DOXOrubicin Hydrochloride Injection, USP
 
-100161
+200 mg per 100 mL (2 mg per mL)
 
-Doxorubicin HCl Injection, USP
+For intravenous use only.
 
-200 mg/100 mL (2 mg/mL)
+Preservative free.
 
-For IV Use Only
-
-Sterile, Isotonic Solution
-
-100 mL Multiple Dose Vial
-
-Rx only
+100 mL Multiple Dose Vial Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Doxorubicin 100 mL Multiple Dose Vial Carton Panel
 
-NDC 63323-101-61
+DOXOrubicin Hydrochloride Injection, USP
 
-100161
+200 mg per 100 mL (2 mg per mL)
 
-Doxorubicin HCl Injection, USP
+For intravenous use only.
+Preservative free.
 
-200 mg/100 mL (2 mg/mL)
-
-For Intravenous Use Only
-
-Sterile, Isotonic Solution
-
-100 mL Multiple Dose Vial
-
-Rx only
+Rx only 100 mL Multiple Dose Vial
