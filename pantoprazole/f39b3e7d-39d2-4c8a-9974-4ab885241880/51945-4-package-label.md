@@ -57,4 +57,4 @@ Equivalent to 40 mg pantoprazole per vial
 
 For I.V. infusion only.
 
-PREMIERPro™Rx
+PREMIERProRx®
