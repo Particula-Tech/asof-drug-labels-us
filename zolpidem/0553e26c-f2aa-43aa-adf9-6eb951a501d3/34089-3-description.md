@@ -8,4 +8,4 @@ It has the following structure:
 Zolpidem tartrate is a white to off-white crystalline powder that is sparingly soluble in water, alcohol, and propylene glycol.
 It has a molecular weight of 764.88.
 
-Each zolpidem tartrate tablet contains either 5 mg or 10 mg zolpidem tartrate with the following inactive ingredients: colloidal silicon dioxide, lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, povidone, magnesium stearate, hypromellose, hydroxypropyl cellulose, polyethylene glycol, talc, titanium dioxide, carnauba wax; the 10-mg tablet also contains ferric oxide.
+Each zolpidem tartrate tablet contains either 5 mg or 10 mg zolpidem tartrate with the following inactive ingredients: colloidal silicon dioxide, lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, povidone, magnesium stearate, hypromellose, hydroxypropyl cellulose, polyethylene glycol, talc, titanium dioxide, carnauba wax; the 10-mg tablet also contains ferric oxide yellow.

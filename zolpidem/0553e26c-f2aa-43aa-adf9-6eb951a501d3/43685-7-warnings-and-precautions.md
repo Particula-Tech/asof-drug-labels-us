@@ -5,10 +5,13 @@
 Zolpidem tartrate, like other sedative-hypnotic drugs, has central nervous system (CNS) depressant effects.
 Co-administration with other CNS depressants (e.g., benzodiazepines, opioids, tricyclic antidepressants, alcohol) increases the risk of CNS depression.
 Dosage adjustments of zolpidem tartrate and of other concomitant CNS depressants may be necessary when zolpidem tartrate is administered with such agents because of the potentially additive effects.
-The use of zolpidem tartrate with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended [see DOSAGE AND ADMINISTRATION (2.3)].
+The use of zolpidem tartrate with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended [see Dosage and Administration (2.3)].
 
-The risk of next-day psychomotor impairment, including impaired driving, is increased if zolpidem tartrate is taken with less than a full night of sleep remaining (7 to 8 hours); if a higher than the recommended dose is taken; if co-administered with other CNS depressants; or if co-administered with other drugs that increase the blood levels of zolpidem.
-Patients should be cautioned against driving and other activities requiring complete mental alertness if zolpidem tartrate is taken in these circumstances [see DOSAGE AND ADMINISTRATION (2) and CLINICAL STUDIES (14.3)].
+The risk of next-day psychomotor impairment, including impaired driving, is increased if zolpidem tartrate is taken with less than a full night of sleep remaining (7 to 8 hours); if a higher than the recommended dose is taken; if co-administered with other CNS depressants or alcohol; or if co-administered with other drugs that increase the blood levels of zolpidem.
+Patients should be warned against driving and other activities requiring complete mental alertness if zolpidem tartrate is taken in these circumstances [see Dosage and Administration (2) and Clinical Studies (14.3)].
+
+Vehicle drivers and machine operators should be warned that, as with other hypnotics, there may be a possible risk of adverse reactions including drowsiness, prolonged reaction time, dizziness, sleepiness, blurred/double vision, reduced alertness and impaired driving the morning after therapy.
+In order to minimize this risk a full night of sleep (7 to 8 hours) is recommended.
 
 ## 5.2 Need to Evaluate for Co-morbid Diagnoses
 
@@ -32,7 +35,7 @@ Some of these changes included decreased inhibition (e.g., aggressiveness and ex
 Visual and auditory hallucinations have been reported.
 
 In controlled trials of zolpidem tartrate 10 mg taken at bedtime < 1% of adults with insomnia reported hallucinations.
-In a clinical trial, 7% of pediatric patients treated with zolpidem tartrate 0.25 mg/kg taken at bedtime reported hallucinations versus 0% treated with placebo [see USE IN SPECIFIC POPULATIONS (8.4)].
+In a clinical trial, 7% of pediatric patients treated with zolpidem tartrate 0.25 mg/kg taken at bedtime reported hallucinations versus 0% treated with placebo [see Use in Specific Populations (8.4)].
 
 Complex behaviors such as "sleep-driving" (i.e., driving while not fully awake after ingestion of a sedative-hypnotic, with amnesia for the event) have been reported in sedative-hypnotic-naive as well as in sedative-hypnotic-experienced persons.
 Although behaviors such as "sleep-driving" have occurred with zolpidem tartrate alone at therapeutic doses, the co-administration of zolpidem tartrate with alcohol and other CNS depressants increases the risk of such behaviors, as does the use of zolpidem tartrate at doses exceeding the maximum recommended dose.
@@ -58,12 +61,18 @@ Since sedative-hypnotics have the capacity to depress respiratory drive, precaut
 Post-marketing reports of respiratory insufficiency in patients receiving 10 mg of zolpidem tartrate, most of whom had pre-existing respiratory impairment, have been reported.
 The risk of respiratory depression should be considered prior to prescribing zolpidem tartrate in patients with respiratory impairment including sleep apnea and myasthenia gravis.
 
-## 5.7 Withdrawal Effects
+## 5.7 Precipitation of Hepatic Encephalopathy
+
+GABA agonists such as zolpidem tartrate have been associated with precipitation of hepatic encephalopathy in patients with hepatic insufficiency.
+In addition, patients with hepatic insufficiency do not clear zolpidem tartrate as rapidly as patients with normal hepatic function.
+Avoid zolpidem tartrate use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+
+## 5.8 Withdrawal Effects
 
 There have been reports of withdrawal signs and symptoms following the rapid dose decrease or abrupt discontinuation of zolpidem.
-Monitor patients for tolerance, abuse, and dependence [see DRUG ABUSE AND DEPENDENCE (9.2) AND (9.3)].
+Monitor patients for tolerance, abuse, and dependence [see Drug Abuse and Dependence (9.2) AND (9.3)].
 
-## 5.8 Severe Injuries
+## 5.9 Severe Injuries
 
 Zolpidem can cause drowsiness and a decreased level of consciousness, which may lead to falls and consequently to severe injuries.
 Severe injuries such as hip fractures and intracranial hemorrhage have been reported.

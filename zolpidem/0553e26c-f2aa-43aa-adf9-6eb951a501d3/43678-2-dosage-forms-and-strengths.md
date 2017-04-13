@@ -5,4 +5,4 @@ Tablets are not scored.
 
 Zolpidem tartrate tablets, USP 5 mg are white, round-shaped, biconvex, film coated tablets, with ZLP debossed on one side and 5 on the other side.
 
-The 10 mg tablets are yellow, round-shaped, biconvex, film coated tablets, with ZLP debossed on one side and 10 on the other side.
+Zolpidem tartrate tablets, USP 10 mg tablets are yellow, round-shaped, biconvex, film coated tablets, with ZLP debossed on one side and 10 on the other side.

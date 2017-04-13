@@ -146,15 +146,15 @@ What are the ingredients in zolpidem tartrate tablets?
 
 Active Ingredient: Zolpidem tartrate
 
-Inactive Ingredients: colloidal silicon dioxide, lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, povidone, magnesium stearate, hypromellose, hydroxypropyl cellulose, polyethylene glycol, talc, titanium dioxide, carnauba wax; the 10-mg tablet also contains ferric oxide.
+Inactive Ingredients: colloidal silicon dioxide, lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, povidone, magnesium stearate, hypromellose, hydroxypropyl cellulose, polyethylene glycol, talc, titanium dioxide, carnauba wax; the 10-mg tablet also contains ferric oxide yellow.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 The brands listed are trademarks of their respective owners and are not trademarks of Sandoz Inc.
 
-Manufactured in Slovenia by Lek Pharmaceuticals d.d.
+Finished Drug Product Manufactured by Lek Pharmaceuticals d.d.
 
-for Sandoz Inc., Princeton, NJ 08540
+SI-1526 Ljubljana, Slovenia, for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-October 2014
+March 2017

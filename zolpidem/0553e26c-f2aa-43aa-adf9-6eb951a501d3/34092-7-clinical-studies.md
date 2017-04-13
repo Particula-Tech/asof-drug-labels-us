@@ -22,16 +22,24 @@ Increased wakefulness during the last third of the night as measured by polysomn
 
 ## 14.3 Studies Pertinent to Safety Concerns for Sedative/Hypnotic Drugs
 
-Next-day Residual Effects: Next-day residual effects of zolpidem tartrate were evaluated in seven studies involving normal subjects.
+Next-day Residual Effects
+
+Next-day residual effects of zolpidem tartrate were evaluated in seven studies involving normal subjects.
 In three studies in adults (including one study in a phase advance model of transient insomnia) and in one study in elderly subjects, a small but statistically significant decrease in performance was observed in the Digit Symbol Substitution Test (DSST) when compared to placebo.
 Studies of zolpidem tartrate in non-elderly patients with insomnia did not detect evidence of next-day residual effects using the DSST, the Multiple Sleep Latency Test (MSLT), and patient ratings of alertness.
 
-Rebound Effects: There was no objective (polysomnographic) evidence of rebound insomnia at recommended doses seen in studies evaluating sleep on the nights following discontinuation of zolpidem tartrate.
+Rebound Effects
+
+There was no objective (polysomnographic) evidence of rebound insomnia at recommended doses seen in studies evaluating sleep on the nights following discontinuation of zolpidem tartrate.
 There was subjective evidence of impaired sleep in the elderly on the first post-treatment night at doses above the recommended elderly dose of 5 mg.
 
-Memory Impairment: Controlled studies in adults utilizing objective measures of memory yielded no consistent evidence of next-day memory impairment following the administration of zolpidem tartrate.
+Memory Impairment
+
+Controlled studies in adults utilizing objective measures of memory yielded no consistent evidence of next-day memory impairment following the administration of zolpidem tartrate.
 However, in one study involving zolpidem doses of 10 and 20 mg, there was a significant decrease in next-morning recall of information presented to subjects during peak drug effect (90 minutes post-dose), i.e., these subjects experienced anterograde amnesia.
 There was also subjective evidence from adverse event data for anterograde amnesia occurring in association with the administration of zolpidem tartrate, predominantly at doses above 10 mg.
 
-Effects on Sleep Stages: In studies that measured the percentage of sleep time spent in each sleep stage, zolpidem tartrate has generally been shown to preserve sleep stages.
+Effects on Sleep Stages
+
+In studies that measured the percentage of sleep time spent in each sleep stage, zolpidem tartrate has generally been shown to preserve sleep stages.
 Sleep time spent in stages 3 and 4 (deep sleep) was found comparable to placebo with only inconsistent, minor changes in REM (paradoxical) sleep at the recommended dose.

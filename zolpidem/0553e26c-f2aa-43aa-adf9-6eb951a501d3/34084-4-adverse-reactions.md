@@ -2,10 +2,10 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •CNS-depressant effects and next-day impairment [see WARNINGS AND PRECAUTIONS (5.1)]
-- •Serious anaphylactic and anaphylactoid reactions [see WARNINGS AND PRECAUTIONS (5.3)]
-- •Abnormal thinking and behavior changes, and complex behaviors [see WARNINGS AND PRECAUTIONS (5.4)]
-- •Withdrawal effects [see WARNINGS AND PRECAUTIONS (5.7)]
+- •CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
+- •Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)]
+- •Abnormal thinking and behavior changes, and complex behaviors [see Warnings and Precautions (5.4)]
+- •Withdrawal effects [see Warnings And Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -31,7 +31,7 @@ The table is limited to data from doses up to and including 10 mg, the highest d
 
 Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (Percentage of Patients Reporting)
 
-| Body System/ Adverse EventReactions reported by at least 1% of patients treated with zolpidem and at a greater frequency than placebo. | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
+| Body System/ Adverse Event* | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
 | --- | --- | --- |
 | Central and Peripheral Nervous System |  |  |
 | Headache | 7 | 6 |
@@ -40,6 +40,8 @@ Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinic
 | Gastrointestinal System |  |  |
 | Diarrhea | 1 | - |
 
+*Reactions reported by at least 1% of patients treated with zolpidem tartrate and at a greater frequency than placebo.
+
 The following table was derived from results of three placebo-controlled long-term efficacy trials involving zolpidem tartrate.
 These trials involved patients with chronic insomnia who were treated for 28 to 35 nights with zolpidem at doses of 5, 10, or 15 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
@@ -47,7 +49,7 @@ The table includes only adverse events occurring at an incidence of at least 1% 
 
 Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (Percentage of patients reporting)
 
-| Body System/ Adverse EventReactions reported by at least 1% of patients treated with zolpidem tartrate and at a greater frequency than placebo. | Zolpidem (≤10 mg) (N=152) | Placebo (N=161) |
+| Body System/ Adverse Event* | Zolpidem (≤10 mg) (N=152) | Placebo (N=161) |
 | --- | --- | --- |
 | Autonomic Nervous System |  |  |
 | Dry mouth | 3 | 1 |
@@ -78,6 +80,8 @@ Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinic
 | Skin and Appendages |  |  |
 | Rash | 2 | 1 |
 
+*Reactions reported by at least 1% of patients treated with zolpidem and at a greater frequency than placebo.
+
 Dose Relationship for Adverse Reactions: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
 
 Adverse Event Incidence Across the Entire Preapproval Database
@@ -92,52 +96,111 @@ It is important to emphasize that, although the events reported did occur during
 
 Adverse events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in greater than 1/100 subjects; infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; rare events are those occurring in less than 1/1,000 patients.
 
-Autonomic Nervous System: Infrequent: increased sweating, pallor, postural hypotension, syncope.
+Autonomic Nervous System
+
+Infrequent: increased sweating, pallor, postural hypotension, syncope.
+
 Rare: abnormal accommodation, altered saliva, flushing, glaucoma, hypotension, impotence, increased saliva, tenesmus.
 
-Body as a Whole: Frequent: asthenia.
+Body as a Whole
+
+Frequent: asthenia.
+
 Infrequent: edema, falling, fatigue, fever, malaise, trauma.
+
 Rare: allergic reaction, allergy aggravated, anaphylactic shock, face edema, hot flashes, increased ESR, pain, restless legs, rigors, tolerance increased, weight decrease.
 
-Cardiovascular System: Infrequent: cerebrovascular disorder, hypertension, tachycardia.
+Cardiovascular System
+
+Infrequent: cerebrovascular disorder, hypertension, tachycardia.
+
 Rare: angina pectoris, arrhythmia, arteritis, circulatory failure, extrasystoles, hypertension aggravated, myocardial infarction, phlebitis, pulmonary embolism, pulmonary edema, varicose veins, ventricular tachycardia.
 
-Central and Peripheral Nervous System: Frequent: ataxia, confusion, euphoria, headache, insomnia, vertigo Infrequent: agitation, anxiety, decreased cognition, detached, difficulty concentrating, dysarthria, emotional lability, hallucination, hypoesthesia, illusion, leg cramps, migraine, nervousness, paresthesia, sleeping (after daytime dosing), speech disorder, stupor, tremor.
+Central and Peripheral Nervous System
+
+Frequent: ataxia, confusion, euphoria, headache, insomnia, vertigo
+
+Infrequent: agitation, anxiety, decreased cognition, detached, difficulty concentrating, dysarthria, emotional lability, hallucination, hypoesthesia, illusion, leg cramps, migraine, nervousness, paresthesia, sleeping (after daytime dosing), speech disorder, stupor, tremor.
+
 Rare: abnormal gait, abnormal thinking, aggressive reaction, apathy, appetite increased, decreased libido, delusion, dementia, depersonalization, dysphasia, feeling strange, hypokinesia, hypotonia, hysteria, intoxicated feeling, manic reaction, neuralgia, neuritis, neuropathy, neurosis, panic attacks, paresis, personality disorder, somnambulism, suicide attempts, tetany, yawning.
 
-Gastrointestinal System: Frequent: dyspepsia, hiccup, nausea.
+Gastrointestinal System
+
+Frequent: dyspepsia, hiccup, nausea.
+
 Infrequent: anorexia, constipation, dysphagia, flatulence, gastroenteritis, vomiting.
+
 Rare: enteritis, eructation, esophagospasm, gastritis, hemorrhoids, intestinal obstruction, rectal hemorrhage, tooth caries.
 
-Hematologic and Lymphatic System: Rare: anemia, hyperhemoglobinemia, leukopenia, lymphadenopathy, macrocytic anemia, purpura, thrombosis.
+Hematologic and Lymphatic System
 
-Immunologic System: Infrequent: infection.
+Rare: anemia, hyperhemoglobinemia, leukopenia, lymphadenopathy, macrocytic anemia, purpura, thrombosis.
+
+Immunologic System
+
+Infrequent: infection.
+
 Rare: abscess herpes simplex herpes zoster, otitis externa, otitis media.
 
-Liver and Biliary System: Infrequent: abnormal hepatic function, increased SGPT.
+Liver and Biliary System
+
+Infrequent: abnormal hepatic function, increased SGPT.
+
 Rare: bilirubinemia, increased SGOT.
 
-Metabolic and Nutritional: Infrequent: hyperglycemia, thirst.
+Metabolic and Nutritional
+
+Infrequent: hyperglycemia, thirst.
+
 Rare: gout, hypercholesteremia, hyperlipidemia, increased alkaline phosphatase, increased BUN, periorbital edema.
 
-Musculoskeletal System: Frequent: arthralgia, myalgia.
+Musculoskeletal System
+
+Frequent: arthralgia, myalgia.
+
 Infrequent: arthritis.
+
 Rare: arthrosis, muscle weakness, sciatica, tendinitis.
 
-Reproductive System: Infrequent: menstrual disorder, vaginitis.
+Reproductive System
+
+Infrequent: menstrual disorder, vaginitis.
+
 Rare: breast fibroadenosis, breast neoplasm, breast pain.
 
-Respiratory System: Frequent: upper respiratory infection, lower respiratory infection.
+Respiratory System
+
+Frequent: upper respiratory infection, lower respiratory infection.
+
 Infrequent: bronchitis, coughing, dyspnea, rhinitis.
+
 Rare: bronchospasm, respiratory depression, epistaxis, hypoxia, laryngitis, pneumonia.
 
-Skin and Appendages: Infrequent: pruritus.
+Skin and Appendages
+
+Infrequent: pruritus.
+
 Rare: acne, bullous eruption, dermatitis, furunculosis, injection-site inflammation, photosensitivity reaction, urticaria.
 
-Special Senses: Frequent: diplopia, vision abnormal.
+Special Senses
+
+Frequent: diplopia, vision abnormal.
+
 Infrequent: eye irritation, eye pain, scleritis, taste perversion, tinnitus.
+
 Rare: conjunctivitis, corneal ulceration, lacrimation abnormal, parosmia, photopsia.
 
-Urogenital System: Frequent: urinary tract infection.
+Urogenital System
+
+Frequent: urinary tract infection.
+
 Infrequent: cystitis, urinary incontinence.
+
 Rare: acute renal failure, dysuria, micturition frequency, nocturia, polyuria, pyelonephritis, renal pain, urinary retention.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of zolpidem.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Liver and biliary system: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2x ULN, alkaline phosphatase ≥2x ULN, transaminase ≥5x ULN).
