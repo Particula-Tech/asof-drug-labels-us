@@ -1,8 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Bottle Label
 
-Pfizer
-
-NDC 0009-0057-07
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0009-0057-07 Pfizer
 
 Xanax XR® CIV
 
@@ -14,9 +12,7 @@ alprazolam extended-release tablets
 
 # PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
 
-Pfizer
-
-NDC 0009-0059-07
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0009-0059-07 Pfizer
 
 Xanax XR® CIV
 
@@ -28,9 +24,7 @@ alprazolam extended-release tablets
 
 # PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
-Pfizer
-
-NDC 0009-0066-07
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0009-0066-07 Pfizer
 
 Xanax XR® CIV
 
@@ -42,9 +36,7 @@ alprazolam extended-release tablets
 
 # PRINCIPAL DISPLAY PANEL - 3 mg Tablet Bottle Label
 
-Pfizer
-
-NDC 0009-0068-07
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0009-0068-07 Pfizer
 
 Xanax XR® CIV
 
