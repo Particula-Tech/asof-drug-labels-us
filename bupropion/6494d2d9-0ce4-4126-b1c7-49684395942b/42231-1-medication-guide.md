@@ -19,8 +19,8 @@ Talk to your healthcare provider or your family member’s healthcare provider a
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
 - •Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
-- •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-  Some people may have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+- •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.Some people may havea particularly high risk of having suicidal thoughts or actions.
+  These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 
 How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 
@@ -142,7 +142,7 @@ Do not take APLENZIN if you:
 
 - •have or had a seizure disorder or epilepsy.
 - •have or had an eating disorder such as anorexia nervosa or bulimia.
-- •are taking any other medicines that contain bupropion, including ZYBAN (used to help people stop smoking), WELLBUTRIN®, FORFIVO XL™, WELLBUTRIN SR®, or WELLBUTRIN XL®.
+- •are taking any other medicines that contain bupropion, including ZYBAN (used to help people stop smoking), WELLBUTRIN®, FORFIVO XL™, WELLBUTRIN® SR, or WELLBUTRIN XL®.
   Bupropion is the same active ingredient that is in APLENZIN.
 - •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines or anti-seizure medicines, and you stop using them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
@@ -173,7 +173,7 @@ See “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, 
   - •are pregnant or plan to become pregnant.
   - •are breastfeeding.
     APLENZIN passes into your milk in small amounts.
-- •Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+- Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
   Many medicines increase your chances of having seizures or cause other serious side effects if you take them while you are taking APLENZIN.
 
 How should I take APLENZIN?
@@ -214,7 +214,6 @@ The most common side effects of APLENZIN include:
 - •Nervousness
 - •Constipation
 - •Headache
-- •Shakiness
 - •Nausea and vomiting
 - •Trouble sleeping
 - •Dizziness
@@ -272,10 +271,10 @@ Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 0880
 
 By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
 
-APLENZIN is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+APLENZIN is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 All other product/brand names are the trademarks of their respective owners.
 
-©Valeant Pharmaceuticals International, Inc.
+©Valeant Pharmaceuticals North America LLC
 
 9386804
 

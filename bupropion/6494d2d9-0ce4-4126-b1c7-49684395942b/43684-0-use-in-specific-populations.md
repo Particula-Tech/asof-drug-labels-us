@@ -61,7 +61,7 @@ Reported clinical experience has not identified differences in responses between
 
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and excreted by the kidneys.
 The risk of adverse reactions may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, it may be necessary to consider this factor in dose selection; it may be useful to monitor renal function [see Dosage and Administration (2.7),Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+Because elderly patients are more likely to have decreased renal function, it may be necessary to consider this factor in dose selection; it may be useful to monitor renal function [see Dosage and Administration (2.7), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
