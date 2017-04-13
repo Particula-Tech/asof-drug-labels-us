@@ -30,7 +30,7 @@ Dermatological: pruritus.
 
 Ophthalmological: diplopia, visual abnormalities.
 
-Miscellaneous: Injection site reaction, urinary retention, dreaming, flushing/warmth, chills/cold, tinnitus, conjunctivitis, Wenckebach block, and psychosis.
+Miscellaneous: injection site reaction, urinary retention, dreaming, flushing/warmth, chills/cold, tinnitus, conjunctivitis, Wenckebach block, and psychosis.
 
 Other effects observed infrequently include malaise, hallucinations, depersonalization, coma, dyspepsia, flatulence, apnea, rash, amblyopia, tremor, and pallor.
 
@@ -44,3 +44,17 @@ A history of hypersensitivity to buprenorphine is a contraindication to buprenor
 In the United Kingdom, buprenorphine hydrochloride was made available under monitored release regulation during the first year of sale, and yielded data from 1,736 physicians on 9,123 patients (17,120 administrations).
 Data on 240 children under the age of 18 years were included in this monitored release program.
 No important new adverse effects attributable to buprenorphine hydrochloride were observed.
+
+## Postmarketing Experience
+
+### Serotonin syndrome
+
+Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+### Adrenal insufficiency
+
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+### Androgen deficiency
+
+Cases of androgen deficiency have occurred with chronic use of opioids [see CLINICAL PHARMACOLOGY: Pharmacodynamics].
