@@ -21,29 +21,29 @@ Table 3: Summary of Mean Daily Number of Moderate to Severe Hot Flushes-ITTInten
 
 Table 4: Summary of Mean Severity of Moderate to Severe Hot Flushes-ITTITT= Intent-to-Treat population
 
-|  |  | Baselineb | Week 4(day 7) | Week 8(day 7) | Week 12(day 7) |
+|  |  | BaselineA subject was included at baseline only if the subject had at least 1 post-baseline value. | Week 4(day 7) | Week 8(day 7) | Week 12(day 7) |
 | --- | --- | --- | --- | --- | --- |
-| Placebo | nc | 89 | 76 | 68 | 57 |
+| Placebo | n | 89 | 76 | 68 | 57 |
 |  | Mean (SD)d | 2.42(0.282) | 1.99(0.875) | 1.93(0.955) | 1.8(1.034) |
-|  | Mean Changefrom baseline(SD)d | NA | -0.4(0.865) | -0.48(0.922) | -0.57(1.044) |
-| 0.045/.03 | nc | 92 | 83 | 72 | 55 |
-|  | Mean (SD)d | 2.48(0.295) | 1.1(1.191) | 0.82(1.226) | 0.44(0.96) |
-|  | Mean Changefrom baseline(SD)d | NA | -1.4(1.164) | -1.67(1.245) | -2.06(1.005) |
-| p-value e |  | NA | <0.001f | NA | <0.001f |
+|  | Mean Changefrom baseline(SD)SD= standard deviation Severity scores are: 1 = Mild, 2 = Moderate, 3 = Severe. Mean severity of hot flushes by day is [(2X number of moderate hot flushes) + (3X number of severe hot flushes)] / total number of moderate to severe hot flushes on that day. If no moderate to severe hot flush was indicated, the mean severity was 0. | NA | -0.4(0.865) | -0.48(0.922) | -0.57(1.044) |
+| 0.045/.03 | n | 92 | 83 | 72 | 55 |
+|  | Mean (SD) | 2.48(0.295) | 1.1(1.191) | 0.82(1.226) | 0.44(0.96) |
+|  | Mean Changefrom baseline(SD) | NA | -1.4(1.164) | -1.67(1.245) | -2.06(1.005) |
+| p-value p-value for comparison to placebo, adjusted by the method of Bonferroni |  | NA | <0.001 p <0.025 | NA | <0.001 |
 
 ## 14.2 Effects on the Endometrium
 
 In a 1-year clinical trial of 412 postmenopausal women (with intact uteri) treated with a continuous regimen of Climara Pro or with an continuous estradiol-only transdermal system, results of evaluable endometrial biopsies show that no hyperplasia was seen with Climara Pro.
 Table 5 below summarizes these results (Intent-to-Treat populations).
 
-Table 5: Incidence of Endometrial Hyperplasia during Continuous Combined Treatment with Climara Pro, ITTn = number of intent-to-treat subjects.
+Table 5: Incidence of Endometrial Hyperplasia during Continuous Combined Treatment with Climara Pro, ITTITT = Intent-to-Treat population
 
 |  | Climara ProE2 0.045 mg / LNG 0.015 mg | EstradiolE2 0.045 mg |
 | --- | --- | --- |
-| na = 210 | na = 202 |  |
-| No. of Patients with Biopsies at >6 monthsb | 124 | 139 |
-| No. of Patients with Biopsies at 1 yearc | 102 | 110 |
-| No. (%) of Patients with Hyperplasiad | 0 (0%)e | 19 (17.3%) |
+| nn = number of intent-to-treat subjects. = 210 | na = 202 |  |
+| No. of Patients with Biopsies at >6 monthsDefined as at least 180 days of treatment. | 124 | 139 |
+| No. of Patients with Biopsies at 1 yearDefined as ≥ 323 days of treatment. | 102 | 110 |
+| No. (%) of Patients with HyperplasiaIncludes hyperplasia occurring at any time after initiation of treatment as a proportion of patients with biopsies at 1 year. | 0 (0%)p < 0.0167 p-value for comparison to unopposed estradiol dose using the Fisher Exact test. P-values were adjusted by the method of Bonferroni. | 19 (17.3%) |
 | 95% Confidence Interval | 0-3.55% | 9.75–24.79% |
 
 ## 14.3 Effects on Uterine Bleeding or Spotting
@@ -103,9 +103,10 @@ For those outcomes included in the WHI “global index” that reached statistic
 Results of the CE plus MPA substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other) are presented in Table 7.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
-Table 7: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Years
+Table 7: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 YearsAdapted from numerous WHI publications.
+WHI publications can be viewed at www.nhlbi.nih.gov/whi.Results are based on centrally adjudicated data.
 
-| Event | Relative Risk CE/MPA vs. Placebo (95% nCIc) | CE/MPA n = 8,506 Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. | Placebo n = 8,102 |
+| Event | Relative Risk CE/MPA vs. Placebo (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons) | CE/MPA n = 8,506 | Placebo n = 8,102 |
 | --- | --- | --- | --- |
 | Absolute Risk per 10,000 Women-Years |  |  |  |
 | CHD events Non-fatal MI CHD death | 1.23 (0.99-1.53) 1.28 (1.00-1.63) 1.10 (0.70-1.75) | 41 | 34 |
@@ -113,7 +114,7 @@ Table 7: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy
 | 8 | 8 |  |  |
 | All strokes | 1.31 (1.03-1.68) | 33 | 25 |
 | Ischemic stroke | 1.44 (1.09-1.90) | 26 | 18 |
-| Deep vein thrombosisNot included in “global index”. | 1.95 (1.43-2.67) | 26 | 13 |
+| Deep vein thrombosisNot included in “global index.” | 1.95 (1.43-2.67) | 26 | 13 |
 | Pulmonary embolism | 2.13 (1.45-3.11) | 18 | 8 |
 | Invasive breast cancerIncludes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. | 1.24 (1.01-1.54) | 41 | 33 |
 | Colorectal cancer | 0.61 (0.42-0.87) | 10 | 16 |
@@ -125,22 +126,6 @@ Table 7: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy
 | Total fractures | 0.76 (0.69-0.83) | 152 | 199 |
 | Overall MortalityAll deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease. | 1.00 (0.83-1.19) | 52 | 52 |
 | Global IndexA subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. | 1.13 (1.02-1.25) | 184 | 165 |
-| Adapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi. Results are based on centrally adjudicated data. |  |  |  |
-
-a) Adapted from numerous WHI publications.
-WHI publications can be viewed at www.nhlbi.nih.gov/whi.
-
-b) Results are based on centrally adjudicated data.
-
-c) Nominal confidence intervals unadjusted for multiple looks and multiple comparisons
-
-d) Not included in “global index”.
-
-e) Includes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer.
-
-f) All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease.
-
-g) A subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes.
 
 Timing of the initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen plus progestin substudy stratified by age showed in women 50 to 59 years of age, a non-significant trend toward reduced risk for overall mortality [hazard ratio (HR) 0.69 (95 percent CI, 0.44–1.07)].
@@ -172,7 +157,6 @@ Table 8: Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHI
 | Death due to other causesResults are based on an average follow-up of 6.8 years., All deaths, except from breast or colorectal cancer, definite/probable CHD, PE or cerebrovascular disease. | 1.08 (0.88-1.32) | 53 | 50 |
 | Overall Mortality, | 1.04 (0.88-1.22) | 79 | 75 |
 | Global IndexA subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. | 1.02 (0.92-1.13) | 206 | 201 |
-| Adapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi. |  |  |  |
 
 For those outcomes included in the WHI "global index" that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE- alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures.9 The absolute excess risk of events included in the "global index" was a non-significant 5 events per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
