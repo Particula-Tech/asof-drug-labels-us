@@ -7,7 +7,7 @@ Hypersensitivity reactions, including anaphylaxis and bronchospasm, have been re
 ## 5.2 QT Prolongation
 
 Ondansetron prolongs the QT interval in a dose-dependent manner [see Clinical Pharmacology (12.2)].
-In addition, post-marketing cases of Torsade de Pointes have been reported in patients using ondansetron.
+In addition, postmarketing cases of Torsade de Pointes have been reported in patients using ondansetron.
 Avoid Ondansetron Injection in patients with congenital long QT syndrome.
 ECG monitoring is recommended in patients with electrolyte abnormalities (e.g., hypokalemia or hypomagnesemia), congestive heart failure, bradyarrhythmias, or patients taking other medicinal products that lead to QT prolongation.
 

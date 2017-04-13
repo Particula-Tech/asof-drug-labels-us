@@ -3,7 +3,7 @@
 ## 7.1 Drugs Affecting Cytochrome P-450 Enzymes
 
 Ondansetron does not appear to induce or inhibit the cytochrome P-450 drug-metabolizing enzyme system of the liver.
-Because ondansetron is metabolized by hepatic cytochrome P‑450 drug‑metabolizing enzymes (CYP3A4, CYP2D6, CYP1A2), inducers or inhibitors of these enzymes may change the clearance and, hence, the half-life of ondansetron [see Clinical Pharmacology (12.3)].
+Because ondansetron is metabolized by hepatic cytochrome P-450 drug-metabolizing enzymes (CYP3A4, CYP2D6, CYP1A2), inducers or inhibitors of these enzymes may change the clearance and, hence, the half-life of ondansetron [see Clinical Pharmacology (12.3)].
 On the basis of limited available data, no dosage adjustment is recommended for patients on these drugs.
 
 ## 7.2 Apomorphine
@@ -17,17 +17,18 @@ However, on the basis of available data, no dosage adjustment for ondansetron is
 
 ## 7.4 Tramadol
 
-Although there are no data on pharmacokinetic drug interactions between ondansetron and tramadol, data from two small studies indicate that concomitant use of ondansetron may result in reduced analgesic activity of tramadol.
-Patients on concomitant ondansetron self administered tramadol more frequently in these studies, leading to an increased cumulative dose in patient controlled administration (PCA) of tramadol.
+Although there are no data on pharmacokinetic drug interactions between ondansetron and tramadol, data from two small trials indicate that concomitant use of ondansetron may result in reduced analgesic activity of tramadol.
+Patients on concomitant ondansetron self administered tramadol more frequently in these trials, leading to an increased cumulative dose in patient-controlled administration (PCA) of tramadol.
 
 ## 7.5 Serotonergic Drugs
 
-Serotonin syndrome (including altered mental status, autonomic instability, and neuromuscular symptoms) has been described following the concomitant use of 5-HT3 receptor antagonists and other serotonergic drugs, including selective serotonin reuptake inhibitors (SSRIs) and serotonin and noradrenaline reuptake inhibitors (SNRIs) [see Warnings andPrecautions (5.3)].
+Serotonin syndrome (including altered mental status, autonomic instability, and neuromuscular symptoms) has been described following the concomitant use of 5-HT3 receptor antagonists and other serotonergic drugs, including selective serotonin reuptake inhibitors (SSRIs) and serotonin and noradrenaline reuptake inhibitors (SNRIs) [see Warnings and Precautions (5.3)].
 
 ## 7.6 Chemotherapy
 
 In humans, carmustine, etoposide, and cisplatin do not affect the pharmacokinetics of ondansetron.
-In a crossover study in 76 pediatric patients, intravenous ondansetron did not increase blood levels of high-dose methotrexate.
+
+In a crossover trial in 76 pediatric patients, intravenous ondansetron did not increase blood levels of high-dose methotrexate.
 
 ## 7.7 Temazepam
 
