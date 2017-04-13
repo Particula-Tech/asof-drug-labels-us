@@ -89,7 +89,8 @@ How should I take zolpidem tartrate extended-release tablets?
 - •Take zolpidem tartrate extended-release tablets exactly as prescribed.
   Only take one zolpidem tartrate extended-release tablet a night if needed.
 - •Do not take zolpidem tartrate extended-release tablets if you drank alcohol that evening or before bed.
-- •You should not take zolpidem tartrate extended-release tablets with or right after a meal. zolpidem tartrate extended-release tablets may help you fall asleep faster if you take it on an empty stomach.
+- •You should not take zolpidem tartrate extended-release tablets with or right after a meal.
+  Zolpidem tartrate extended-release tablets may help you fall asleep faster if you take it on an empty stomach.
 - •Take zolpidem tartrate extended-release tablets whole.
   Do not break, crush, dissolve or chew zolpidem tartrate extended-release tablets before swallowing.
   If you cannot swallow zolpidem tartrate extended-release tablets whole, tell your healthcare provider.
@@ -175,7 +176,5 @@ Finished Drug Product Manufactured by Lek Pharmaceuticals d.d.,
 
 SI-1526 Ljubljana, Slovenia for Sandoz Inc., Princeton, NJ 08540
 
-Product of Israel
-
 Rev.
-November 2015
+March 2017

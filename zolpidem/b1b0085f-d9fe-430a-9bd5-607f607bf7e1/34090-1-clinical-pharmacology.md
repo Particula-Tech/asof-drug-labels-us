@@ -51,7 +51,7 @@ Zolpidem tartrate extended-release was not studied in patients with hepatic impa
 The pharmacokinetics of an immediate-release formulation of zolpidem tartrate in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
 Following a single 20-mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng∙hr/mL) higher, respectively, in hepatically compromised patients.
 Tmax did not change.
-The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr). Dosing should be modified accordingly in patients with hepatic insufficiency [see DOSAGE AND ADMINISTRATION (2.2)].
+The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr) [see Dosage and Administration (2.2), Warnings and Precautions (5.7), Use in Specific Populations (8.7)].
 
 Renal Impairment:
 
@@ -67,14 +67,15 @@ Drug Interactions
 
 CNS-depressants
 
-Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [see WARNINGS AND PRECAUTIONS (5.1)].Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
+Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [see Warnings and Precautions (5.1)].
+Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
 Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness.
 Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance.
 
 A study involving haloperidol and zolpidem revealed no effect of haloperidol on the pharmacokinetics or pharmacodynamics of zolpidem.
 The lack of a drug interaction following single-dose administration does not predict the absence of an effect following chronic administration.
 
-An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see WARNINGS AND PRECAUTIONS (5.1)].
+An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see Warnings and Precautions (5.1)].
 
 Following five consecutive nightly doses at bedtime of oral zolpidem tartrate 10 mg in the presence of sertraline 50 mg (17 consecutive daily doses, at 7:00 am, in healthy female volunteers), zolpidem Cmax was significantly higher (43%) and Tmax was significantly decreased (-53%).
 Pharmacokinetics of sertraline and N-desmethylsertraline were unaffected by zolpidem.
@@ -92,10 +93,13 @@ A single-dose interaction study with zolpidem tartrate 10 mg and itraconazole 20
 There were no pharmacodynamic effects of zolpidem detected on subjective drowsiness, postural sway, or psychomotor performance.
 
 A single-dose interaction study with zolpidem tartrate 10 mg and rifampin 600 mg at steady-state levels in female subjects showed significant reductions of the AUC (-73%), Cmax (-58%), and T1/2 (-36 %) of zolpidem together with significant reductions in the pharmacodynamic effects of zolpidem tartrate.
-Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem.
+Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem [see Drug Interactions (7.2)].
 
-A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem.
-Consideration should be given to using a lower dose of zolpidem when ketoconazole and zolpidem are given together.
+Similarly, St. John’s wort, a CYP3A4 inducer, may also decrease the blood levels of zolpidem.
+
+A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem [see Drug Interactions (7.2)].
+
+Additionally, fluvoxamine (a strong inhibitor of CYP1A2 and a weak inhibitor of CYP3A4 and CYP2C9) and ciprofloxacin (a strong inhibitor of CYP1A2 and a moderate inhibitor of CYP3A4) are also likely to inhibit zolpidem’s metabolic pathways, potentially leading to an increase in zolpidem exposure.
 
 Other Drugs with No Interactions with Zolpidem
 

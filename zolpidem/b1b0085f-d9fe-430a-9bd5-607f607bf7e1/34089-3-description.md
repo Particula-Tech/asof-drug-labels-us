@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Zolpidem tartrate extended-release tablet, USP contains zolpidem tartrate, a gamma-aminobutyric acid (GABA) A agonist of the imidazopyridine class.
-Zolpidem tartrate extended-release tablets are available in 6.25 mg and 12.5 mg strengths for oral administration.
+Zolpidem tartrate extended-release tablets, USP are available in 6.25 mg and 12.5 mg strengths for oral administration.
 
 Chemically, zolpidem is N,N,6-trimethyl-2-p-tolylimidazo[1,2-a] pyridine-3-acetamide L-(+)-tartrate (2:1).
 It has the following structure:
