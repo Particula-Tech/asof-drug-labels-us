@@ -72,7 +72,7 @@ Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 | Gastrointestinal Disorders | gastritis stomatitis pancreatitis esophagitis gastroenteritis glossitis pseudomembranous / C. difficile colitis [see WARNINGS AND PRECAUTIONS (5.9)] |
 | Hepatobiliary Disorders | abnormal hepatic function increased hepatic enzymes increased alkaline phosphatase |
 | Skin and Subcutaneous Tissue Disorders | urticaria [see WARNINGS AND PRECAUTIONS (5.7)] |
-| Musculoskeletal and Connective Tissue Disorders | arthralgia tendinitis [see WARNINGS AND PRECAUTIONS (5.11)] myalgia skeletal pain |
+| Musculoskeletal and Connective Tissue Disorders | arthralgia tendinitis [see WARNINGS AND PRECAUTIONS (5.2)] myalgia skeletal pain |
 | Renal and Urinary Disorders | abnormal renal function acute renal failure [see WARNINGS AND PRECAUTIONS (5.6)] |
 
 In clinical trials using multiple-dose therapy, ophthalmologic abnormalities, including cataracts and multiple punctate lenticular opacities, have been noted in patients undergoing treatment with quinolones, including levofloxacin.
@@ -81,7 +81,7 @@ The relationship of the drugs to these events is not presently established.
 ## 6.3 Postmarketing Experience
 
 Table 6 lists adverse reactions that have been identified during post-approval use of levofloxacin.
-Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Table 6: Postmarketing Reports Of Adverse Drug Reactions
 
@@ -89,15 +89,15 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | --- | --- |
 | Blood and Lymphatic System Disorders | pancytopenia aplastic anemia leukopenia hemolytic anemia [see WARNINGS AND PRECAUTIONS (5.6)] eosinophilia |
 | Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see WARNINGS AND PRECAUTIONS (5.6, 5.7)] |
-| Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see WARNINGS AND PRECAUTIONS (5.4)] |
-| Nervous System Disorders | exacerbation of myasthenia gravis [see WARNINGS AND PRECAUTIONS (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreversible) [see WARNINGS AND PRECAUTIONS (5.3)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see WARNINGS AND PRECAUTIONS (5.4)] |
+| Psychiatric Disorders | psychosis paranoia isolated reports of suicidal ideation, suicide attempt and completed suicide [see WARNINGS AND PRECAUTIONS (5.4)] |
+| Nervous System Disorders | exacerbation of myasthenia gravis [see WARNINGS AND PRECAUTIONS (5.5)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreversible) [see WARNINGS AND PRECAUTIONS (5.3)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see WARNINGS AND PRECAUTIONS (5.4)] |
 | Eye Disorders | uveitis vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see WARNINGS AND PRECAUTIONS (5.10)] tachycardia |
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic and Mediastinal Disorders | isolated reports of allergic pneumonitis [see WARNINGS AND PRECAUTIONS (5.6)] |
 | Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see WARNINGS AND PRECAUTIONS (5.6, 5.8)] |
-| Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis erythema multiforme [see WARNINGS AND PRECAUTIONS (5.6)] photosensitivity/phototoxicity reaction [see WARNINGS AND PRECAUTIONS (5.13)] leukocytoclastic vasculitis |
+| Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis Acute Generalized Exanthematous Pustulosis (AGEP) fixed drug eruptions erythema multiforme [see WARNINGS AND PRECAUTIONS (5.6)] photosensitivity/phototoxicity reaction [see WARNINGS AND PRECAUTIONS (5.13)] leukocytoclastic vasculitis |
 | Musculoskeletal andConnective Tissue Disorders | tendon rupture [see WARNINGS AND PRECAUTIONS (5.2)] muscle injury, including rupture rhabdomyolysis |
 | Renal and Urinary Disorders | interstitial nephritis [see WARNINGS AND PRECAUTIONS (5.6)] |
 | General Disorders andAdministration Site Conditions | multi-organ failure pyrexia |

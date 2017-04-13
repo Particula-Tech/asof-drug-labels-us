@@ -23,7 +23,7 @@ Table 1: Dosage in Adult Patients with Normal Renal Function (creatinine clearan
 | Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)6 | 250 mg | 10 |
 | Uncomplicated Urinary Tract Infection | 250 mg | 3 |
 | Acute Bacterial Exacerbation of Chronic Bronchitis (ABECB) | 500 mg | 7 |
-| Acute Bacterial Sinusitis (ABS) | 750 mg | 5 |
+| Acute Bacterial Sinusitis | 750 mg | 5 |
 | 500 mg | 10-14 |  |
 
 1 Due to the designated pathogens [see INDICATIONS AND USAGE (1)].
@@ -94,7 +94,7 @@ Levofloxacin injection should be administered only by intravenous infusion.
 It is not for intramuscular, intrathecal, intraperitoneal, or subcutaneous administration.
 
 Hydration for Patients Receiving Levofloxacin Injection Adequate hydration of patients receiving intravenous levofloxacin should be maintained to prevent the formation of highly concentrated urine.
-Crystalluria and cylindruria have been reported with quinolones [see ADVERSE REACTIONS (6.1); PATIENT COUNSELING INFORMATION (17.2)].
+Crystalluria and cylindruria have been reported with quinolones [see ADVERSE REACTIONS (6.1); PATIENT COUNSELING INFORMATION (17)].
 
 ## 2.6 Preparation of Intravenous Product
 
