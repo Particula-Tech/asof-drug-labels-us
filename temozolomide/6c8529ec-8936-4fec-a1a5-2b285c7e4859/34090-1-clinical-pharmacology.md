@@ -12,7 +12,10 @@ Absorption: Temozolomide is rapidly and completely absorbed after oral administr
 Food reduces the rate and extent of temozolomide absorption.
 Mean peak plasma concentration and AUC decreased by 32% and 9%, respectively, and median Tmax increased by 2-fold (from 1 to 2.25 hours) when temozolomide was administered after a modified high-fat breakfast.
 
+A pharmacokinetic study comparing oral and intravenous temozolomide in 19 patients with primary CNS malignancies showed that 150 mg/m2 temozolomide for injection administered over 90 minutes is bioequivalent to 150 mg/m2 temozolomide oral capsules with respect to both Cmax and AUC of temozolomide and MTIC.
+Following a single 90-minute intravenous infusion of 150 mg/m2, the geometric mean Cmax values for temozolomide and MTIC were 7.3 mcg/mL and 276 ng/mL, respectively.
 Following a single oral dose of 150 mg/m2, the geometric mean Cmax values for temozolomide and MTIC were 7.5 mcg/mL and 282 ng/mL, respectively.
+Following a single 90-minute intravenous infusion of 150 mg/m2, the geometric mean AUC values for temozolomide and MTIC were 24.6 mcg·hr/mL and 891 ng·hr/mL, respectively.
 Following a single oral dose of 150 mg/m2, the geometric mean AUC values for temozolomide and MTIC were 23.4 mcg·hr/mL and 864 ng·hr/mL, respectively.
 
 Distribution: Temozolomide has a mean apparent volume of distribution of 0.4 L/kg (%CV=13%).
@@ -48,4 +51,4 @@ Effect of Other Drugs on Temozolomide Pharmacokinetics: In a multiple-dose study
 
 A population analysis indicated that administration of valproic acid decreases the clearance of temozolomide by about 5% [see Drug Interactions (7.1)].
 
-A population analysis did not demonstrate any influence of coadministered dexamethasone, prochlorperazine, phenytoin, carbamazepine, ondansetron, H2-receptor antagonists, or phenobarbital on the clearance of orally administered temozolomide.
+A population analysis did not demonstrate any influence of co-administered dexamethasone, prochlorperazine, phenytoin, carbamazepine, ondansetron, H2-receptor antagonists, or phenobarbital on the clearance of orally administered temozolomide.

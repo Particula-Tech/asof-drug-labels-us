@@ -4,7 +4,7 @@
 
 Patients treated with temozolomide may experience myelosuppression, including prolonged pancytopenia, which may result in aplastic anemia, which in some cases has resulted in a fatal outcome.
 In some cases, exposure to concomitant medications associated with aplastic anemia, including carbamazepine, phenytoin, and sulfamethoxazole/trimethoprim, complicates assessment.
-Prior to dosing, patients must have an absolute neutrophil count (ANC) ≥1.5 x 109/L and a platelet count ≥100 x 109/L.
+Prior to dosing, patients must have an absolute neutrophil count (ANC) greater than or equal to 1.5 x 109/L and a platelet count greater than or equal to 100 x 109/L.
 A complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 x 109/L and platelet count exceeds 100 x 109/L.
 Geriatric patients and women have been shown in clinical trials to have a higher risk of developing myelosuppression.
 

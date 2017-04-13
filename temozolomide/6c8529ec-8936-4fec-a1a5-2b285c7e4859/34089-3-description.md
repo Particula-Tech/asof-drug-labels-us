@@ -1,16 +1,16 @@
 # 11 DESCRIPTION
 
-Temozolomide capsules contain temozolomide, an imidazotetrazine derivative.
-The chemical name of temozolomide is 3,4-dihydro-3-methyl-4-oxoimidazo[5,1d]-as-tetrazine-8-carboxamide.
+Temozolomide capsules contain temozolomide, USP, an imidazotetrazine derivative.
+The chemical name of temozolomide, USP is 3,4-dihydro-3-methyl-4-oxoimidazo[5,1d]-as-tetrazine-8-carboxamide.
 The structural formula is:
 
 The material is a white to light tan/light pink powder with a molecular formula of C6H6N6O2 and a molecular weight of 194.15.
-The molecule is stable at acidic pH (<5) and labile at pH >7; hence temozolomide can be administered orally and intravenously.
-The prodrug, temozolomide, is rapidly hydrolyzed to the active 5-(3-methyltriazen-1-yl) imidazole-4-carboxamide (MTIC) at neutral and alkaline pH values, with hydrolysis taking place even faster at alkaline pH.
+The molecule is stable at acidic pH (<5) and labile at pH >7; hence temozolomide, USP can be administered orally and intravenously.
+The prodrug, temozolomide, USP, is rapidly hydrolyzed to the active 5-(3-methyltriazen-1-yl) imidazole-4-carboxamide (MTIC) at neutral and alkaline pH values, with hydrolysis taking place even faster at alkaline pH.
 
 Temozolomide Capsules:
 
-Each capsule for oral use contains either 5 mg, 20 mg, 100 mg, 140 mg, 180 mg, or 250 mg of temozolomide.
+Each capsule for oral use contains either 5 mg, 20 mg, 100 mg, 140 mg, 180 mg, or 250 mg of temozolomide, USP.
 
 The inactive ingredients for temozolomide capsules are as follows: colloidal silicon dioxide, ethyl alcohol, lactose anhydrous, sodium starch glycolate, stearic acid and tartaric acid.
 

@@ -80,7 +80,7 @@ The median nadirs occurred at 26 days for platelets (range: 21 to 40 days) and 2
 Only 14% (22/158) of patients had a neutrophil nadir and 20% (32/158) of patients had a platelet nadir, which may have delayed the start of the next cycle.
 Less than 10% of patients required hospitalization, blood transfusion, or discontinuation of therapy due to myelosuppression.
 
-In clinical trial experience with 110 to 111 women and 169 to 174 men (depending on measurements), there were higher rates of Grade 4 neutropenia (ANC<500 cells/μL) and thrombocytopenia (<20,000 cells/μL) in women than men in the first cycle of therapy (12% vs. 5% and 9% vs. 3%, respectively).
+In clinical trial experience with 110 to 111 women and 169 to 174 men (depending on measurements), there were higher rates of Grade 4 neutropenia (ANC less than 500 cells/μL) and thrombocytopenia (less than 20,000 cells/μL) in women than men in the first cycle of therapy (12% vs. 5% and 9% vs. 3%, respectively).
 
 In the entire safety database for which hematologic data exist (N=932), 7% (4/61) and 9.5% (6/63) of patients over age 70 experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively.
 For patients less than or equal to age 70, 7% (62/871) and 5.5% (48/879) experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively.
@@ -88,7 +88,7 @@ Pancytopenia, leukopenia, and anemia have also been reported.
 
 TABLE 8: Adverse Reactions in the Anaplastic Astrocytoma Trial in Adults (≥5%)
 
-|  |  | No. (%) of TemozolomidePatients (N=158) |  |
+|  |  | No. (%) of Temozolomide Patients (N=158) |  |
 | --- | --- | --- | --- |
 |  |  | All Reactions | Grade 3/4 |
 | Any Adverse Reaction |  | 153 (97) | 79 (50) |

@@ -12,5 +12,9 @@ Physicians should discuss the following with their patients:
 - Capsules should not be opened.
   If capsules are accidentally opened or damaged, rigorous precautions should be taken with the capsule contents to avoid inhalation or contact with the skin or mucous membranes.
 
-- The medication should be kept away from children and pets.Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807Rev.
-  01-2016-03
+- The medication should be kept away from children and pets.
+
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+
+Rev.
+01-2017-04

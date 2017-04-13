@@ -9,10 +9,10 @@ For suggested capsule combinations on a daily dose see Table 6.
 Patients with Newly Diagnosed High Grade Glioma: Concomitant Phase: Temozolomide capsules are administered at 75 mg/m2 daily for 42 days concomitant with focal radiotherapy (60 Gy administered in 30 fractions) followed by maintenance temozolomide capsules for 6 cycles.
 Focal RT includes the tumor bed or resection site with a 2- to 3-cm margin.
 No dose reductions are recommended during the concomitant phase; however, dose interruptions or discontinuation may occur based on toxicity.
-The temozolomide capsules dose should be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count ≥1.5 x 109 /L, platelet count ≥100 x 109/L, common toxicity criteria (CTC) nonhematological toxicity ≤Grade 1 (except for alopecia, nausea, and vomiting).
+The temozolomide capsules dose should be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count greater than or equal to 1.5 x 109 /L, platelet count greater than or equal to 100 x 109/L, common toxicity criteria (CTC) nonhematological toxicity less than or equal to Grade 1 (except for alopecia, nausea, and vomiting).
 During treatment a complete blood count should be obtained weekly.
 Temozolomide dosing should be interrupted or discontinued during concomitant phase according to the hematological and nonhematological toxicity criteria as noted in Table 1.
-Pneumocystis pneumonia (PCP) prophylaxis is required during the concomitant administration of temozolomide capsules and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade ≤1).
+Pneumocystis pneumonia (PCP) prophylaxis is required during the concomitant administration of temozolomide capsules and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade less than or equal to 1).
 
 TABLE 1: Temozolomide Dosing Interruption or Discontinuation
 
@@ -20,11 +20,11 @@ During Concomitant Radiotherapy and Temozolomide
 
 | Toxicity | TMZ Interruption* | TMZ Discontinuation |
 | --- | --- | --- |
-| Absolute Neutrophil Count | ≥0.5 and <1.5 x 109/L | <0.5 x 109/L |
-| Platelet Count | ≥10 and <100 x 109/L | <10 x 109/L |
+| Absolute Neutrophil Count | greater than or equal to 0.5 and less than 1.5 x 109/L | less than 0.5 x 109/L |
+| Platelet Count | greater than or equal to 10 and less than 100 x 109/L | less than 10 x 109/L |
 | CTC Nonhematological Toxicity (except for alopecia, nausea, vomiting) | CTC Grade 2 | CTC Grade 3 or 4 |
 
-*Treatment with concomitant TMZ could be continued when all of the following conditions were met: absolute neutrophil count ≥1.5 x 109/L; platelet count ≥100 x 109/L; CTC nonhematological toxicity ≤Grade 1 (except for alopecia, nausea, vomiting).
+*Treatment with concomitant TMZ could be continued when all of the following conditions were met: absolute neutrophil count greater than or equal to 1.5 x 109/L; platelet count greater than or equal to 100 x 109/L; CTC nonhematological toxicity less than or equal to Grade 1 (except for alopecia, nausea, vomiting).
 TMZ=temozolomide; CTC=Common Toxicity Criteria.
 
 Maintenance Phase:
@@ -32,7 +32,7 @@ Maintenance Phase:
 Cycle 1: Four weeks after completing the temozolomide capsules+RT phase, temozolomide capsules are administered for an additional 6 cycles of maintenance treatment.
 Dosage in Cycle 1 (maintenance) is 150 mg/m2 once daily for 5 days followed by 23 days without treatment.
 
-Cycles 2 to 6: At the start of Cycle 2, the dose can be escalated to 200 mg/m2, if the CTC nonhematologic toxicity for Cycle 1 is Grade ≤2 (except for alopecia, nausea, and vomiting), absolute neutrophil count (ANC) is ≥1.5 x 109/L, and the platelet count is ≥100 x 109/L.
+Cycles 2 to 6: At the start of Cycle 2, the dose can be escalated to 200 mg/m2, if the CTC nonhematologic toxicity for Cycle 1 is Grade less than or equal to 2 (except for alopecia, nausea, and vomiting), absolute neutrophil count (ANC) is greater than or equal to 1.5 x 109/L, and the platelet count is greater than or equal to 100 x 109/L.
 The dose remains at 200 mg/m2 per day for the first 5 days of each subsequent cycle except if toxicity occurs.
 If the dose was not escalated at Cycle 2, escalation should not be done in subsequent cycles.
 
@@ -47,7 +47,7 @@ TABLE 2: Temozolomide Dose Levels for Maintenance Treatment
 
 | Dose Level | Dose (mg/m2/day) | Remarks |
 | --- | --- | --- |
-| –1 | 100 | Reduction for prior toxicity |
+| -1 | 100 | Reduction for prior toxicity |
 | 0 | 150 | Dose during Cycle 1 |
 | 1 | 200 | Dose during Cycles 2 to 6 in absence of toxicity |
 
@@ -55,20 +55,20 @@ TABLE 3: Temozolomide Dose Reduction or Discontinuation During Maintenance Treat
 
 | Toxicity | Reduce TMZ by 1 Dose Level* | Discontinue TMZ |
 | --- | --- | --- |
-| Absolute Neutrophil Count | <1.0 x 109/L | See footnote † |
-| Platelet Count | <50 x 109/L | See footnote † |
+| Absolute Neutrophil Count | less than 1 x 109/L | See footnote † |
+| Platelet Count | less than 50 x 109/L | See footnote † |
 | CTC Nonhematological Toxicity (except for alopecia, nausea, vomiting) | CTC Grade 3 | CTC Grade 4† |
 
 *TMZ dose levels are listed in Table 2.
 
-†TMZ is to be discontinued if dose reduction to <100 mg/m2 is required or if the same Grade 3 nonhematological toxicity (except for alopecia, nausea, vomiting) recurs after dose reduction.
+†TMZ is to be discontinued if dose reduction to less than 100 mg/m2 is required or if the same Grade 3 nonhematological toxicity (except for alopecia, nausea, vomiting) recurs after dose reduction.
 TMZ=temozolomide; CTC=Common Toxicity Criteria.
 
 Patients with Refractory Anaplastic Astrocytoma: For adults the initial dose is 150 mg/m2 once daily for 5 consecutive days per 28-day treatment cycle.
-For adult patients, if both the nadir and day of dosing (Day 29, Day 1 of next cycle) ANC are ≥1.5 x 109/L (1500/μL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are ≥100 x 109/L (100,000/μL), the temozolomide capsules dose may be increased to 200 mg/m2/day for 5 consecutive days per 28-day treatment cycle.
+For adult patients, if both the nadir and day of dosing (Day 29, Day 1 of next cycle) ANC are greater than or equal to 1.5 x 109/L (1500/μL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are greater than or equal to 100 x 109/L (100,000/μL), the temozolomide capsules dose may be increased to 200 mg/m2/day for 5 consecutive days per 28-day treatment cycle.
 During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 x 109/L (1500/μL) and the platelet count exceeds 100 x 109/L (100,000/μL).
 The next cycle of temozolomide capsules should not be started until the ANC and platelet count exceed these levels.
-If the ANC falls to <1.0 x 109/L (1000/μL) or the platelet count is <50 x 109/L (50,000/μL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose (see Table 4).
+If the ANC falls to less than 1 x 109/L (1000/μL) or the platelet count is less than 50 x 109/L (50,000/μL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose (see Table 4).
 Temozolomide capsules therapy can be continued until disease progression.
 In the clinical trial, treatment could be continued for a maximum of 2 years, but the optimum duration of therapy is not known.
 
@@ -78,7 +78,7 @@ TABLE 5: Daily Dose Calculations by Body Surface Area (BSA)
 
 | Total BSA (m2) | 75 mg/m2 (mg daily) | 150 mg/m2 (mg daily) | 200 mg/m2 (mg daily) |
 | --- | --- | --- | --- |
-| 1.0 | 75 | 150 | 200 |
+| 1 | 75 | 150 | 200 |
 | 1.1 | 82.5 | 165 | 220 |
 | 1.2 | 90 | 180 | 240 |
 | 1.3 | 97.5 | 195 | 260 |
@@ -88,7 +88,7 @@ TABLE 5: Daily Dose Calculations by Body Surface Area (BSA)
 | 1.7 | 127.5 | 255 | 340 |
 | 1.8 | 135 | 270 | 360 |
 | 1.9 | 142.5 | 285 | 380 |
-| 2.0 | 150 | 300 | 400 |
+| 2 | 150 | 300 | 400 |
 | 2.1 | 157.5 | 315 | 420 |
 | 2.2 | 165 | 330 | 440 |
 | 2.3 | 172.5 | 345 | 460 |
