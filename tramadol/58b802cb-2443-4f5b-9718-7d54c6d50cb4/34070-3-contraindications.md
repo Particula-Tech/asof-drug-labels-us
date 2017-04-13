@@ -1,5 +1,9 @@
 # CONTRAINDICATIONS
 
-Tramadol hydrochloride tablets, USP should not be administered to patients who have previously demonstrated hypersensitivity to tramadol, any other component of this product or opioids.
-Tramadol hydrochloride tablets, USP are contraindicated in any situation where opioids are contraindicated, including acute intoxication with any of the following: alcohol, hypnotics, narcotics, centrally acting analgesics, opioids or psychotropic drugs.
-Tramadol hydrochloride tablets, USP may worsen central nervous system and respiratory depression in these patients.
+Tramadol HCl tablets contraindicated in patients with:
+
+- Significant respiratory depression (see WARNINGS).
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment (see WARNINGS).
+- Known or suspected gastrointestinal obstruction, including paralytic ileus (see WARNINGS).
+- Hypersensitivity to tramadol, any other component of this product or opioids (see WARNINGS).
+- Concurrent use of monoamine oxidase inhibitors (MAOIs) or use of MAOIs within the last 14 days (see PRECAUTIONS; Drug Interactions).
