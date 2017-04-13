@@ -2,9 +2,9 @@
 
 EpiPen (epinephrine injection, USP) 0.3 mg and EpiPen Jr (epinephrine injection, USP) 0.15 mg are auto-injectors and combination products containing drug and device components.
 
-Each EpiPen Auto-Injector, 0.3 mg delivers a single dose of 0.3 mg epinephrine from epinephrine injection, USP 1:1000 (0.3 mL) in a sterile solution.
+Each EpiPen Auto-Injector, 0.3 mg delivers a single dose of 0.3 mg epinephrine from epinephrine injection, USP 0.3 mg/0.3 mL in a sterile solution.
 
-Each EpiPen Jr Auto-Injector, 0.15 mg delivers a single dose of 0.15 mg epinephrine from epinephrine injection, USP 1:2000 (0.3 mL) in a sterile solution.
+Each EpiPen Jr Auto-Injector, 0.15 mg delivers a single dose of 0.15 mg epinephrine from epinephrine injection, USP 0.15 mg/0.3 mL in a sterile solution.
 
 The EpiPen and EpiPen Jr each contain 2 mL epinephrine solution.
 Approximately 1.7 mL remains in the auto-injector after activation, but is not available for future use, and should be discarded.

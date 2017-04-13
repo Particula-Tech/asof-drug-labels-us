@@ -8,16 +8,14 @@ For Allergic Emergencies (Anaphylaxis)
 
 EpiPen 2-PAK® (epinephrine injection, USP) Auto-Injectors 0.3 mg
 
-Each carton contains: Two yellow EpiPen® Auto-Injectors
-
-One grey Trainer
+Each carton contains:
 
 Never put thumb, fingers or hand over orange tip.
 Do not remove blue safety release until ready to use.
 
 EpiPen 2-Pak®contains 2 EpiPen®Auto-Injectors and 1 Trainer.
 
-Each EpiPen®Auto-Injector delivers one 0.3 mg intramuscular dose of epinephrine from epinephrine injection 1:1000 USP (0.3 mL).
+Each EpiPen®Auto-Injector delivers one 0.3 mg intramuscular dose of epinephrine from epinephrine injection, USP 0.3 mg/0.3mL.
 
 Discard unit after use.
 The Trainer contains no medicine and no needle.
@@ -42,8 +40,10 @@ Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, USA by Meridian Med
 
 EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L.P. of Morgantown, WV 26505, USA
 
-Copyright © 2016 Meridian Medical Technologies.
+Copyright © 2017 Meridian Medical Technologies.
 All rights reserved.
+
+MS:50002:2C:R3
 
 # PRINCIPAL DISPLAY PANEL – 0.15 mg
 
@@ -55,16 +55,14 @@ For Allergic Emergencies (Anaphylaxis)
 
 EpiPen Jr 2-PAK® (epinephrine injection, USP) Auto-Injectors 0.15 mg
 
-Each carton contains: Two yellow EpiPen Jr® Auto-Injectors
-
-One grey Trainer
+Each carton contains:
 
 Never put thumb, fingers or hand over orange tip.
 Do not remove blue safety release until ready to use.
 
 EpiPen Jr 2-Pak®contains 2 EpiPen® Auto-Injector Jr®Auto-Injectors and 1 Trainer.
 
-Each EpiPen Jr®Auto-Injector delivers one 0.15 mg intramuscular dose of epinephrine from epinephrine injection 1:2000 USP (0.3 mL).
+Each EpiPen Jr®Auto-Injector delivers one 0.15 mg intramuscular dose of epinephrine from epinephrine injection, USP 0.15 mg/0.3 mL.
 
 Discard unit after use.
 The Trainer contains no medicine and no needle.
@@ -89,6 +87,7 @@ Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, USA by Meridian Med
 
 EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L.P. of Morgantown, WV 26505, USA
 
-Copyright © 2016 Meridian Medical Technologies.
+Copyright © 2017 Meridian Medical Technologies.
 All rights reserved.
-NDC 49502-500-02
+
+MS:50102:2C:R3

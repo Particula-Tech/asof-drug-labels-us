@@ -1,8 +1,8 @@
 # PATIENT INFORMATION and INSTRUCTIONS FOR USE
 
-EPIPEN® (epinephrine injection, USP) Auto-Injector 0.3 mg EpiPen® = one dose of 0.3 mg epinephrine (USP, 1:1000, 0.3 mL)
+EPIPEN® (epinephrine injection, USP) Auto-Injector 0.3 mg EpiPen® = one dose of 0.3 mg epinephrine, USP 0.3 mg/0.3 mL
 
-EPIPEN JR® (epinephrine injection, USP) Auto-Injector 0.15 mg EpiPen® = one dose of 0.15 mg epinephrine (USP, 1:2000, 0.3 mL)
+EPIPEN JR® (epinephrine injection, USP) Auto-Injector 0.15 mg EpiPen Jr® = one dose of 0.15 mg epinephrine, USP 0.15 mg/0.3 mL
 
 For allergic emergencies (anaphylaxis)
 
@@ -207,9 +207,9 @@ Important Information
 
 Instructions for Use
 
-EPIPEN® (epinephrine injection, USP) Auto-Injector 0.3 mg EpiPen® = one dose of 0.3 mg epinephrine (USP, 1:1000, 0.3 mL)
+EPIPEN® (epinephrine injection, USP) Auto-Injector 0.3 mg EpiPen® = one dose of 0.3 mg epinephrine, USP 0.3 mg/0.3 mL
 
-EPIPEN JR® (epinephrine injection, USP) Auto-Injector 0.15 mg EpiPen® = one dose of 0.15 mg epinephrine (USP, 1:2000, 0.3 mL)
+EPIPEN JR® (epinephrine injection, USP) Auto-Injector 0.15 mg EpiPen Jr® = one dose of 0.15 mg epinephrine, USP 0.15 mg/0.3 mL
 
 For allergic emergencies (anaphylaxis)
 
@@ -281,16 +281,14 @@ Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian Medical Technolog
 
 EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L.P. of, Morgantown, WV 26505, U.S.A.
 
-Copyright © 2016 Meridian Medical Technologies.
+Copyright © 2017 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: May 2016 MS:PIL:EPI:R2
+Revised: 2/2017 MS:PIL:EPI:R3 0001984
 
-0001927
+EPIPEN® (epinephrine injection, USP) Auto-Injector 0.3 mg EpiPen® = one dose of 0.3 mg epinephrine, USP 0.3 mg/0.3 mL
 
-EPIPEN® (epinephrine injection, USP) Auto-Injector 0.3 mg EpiPen® = one dose of 0.3 mg epinephrine (USP, 1:1000, 0.3 mL)
-
-EPIPEN JR® (epinephrine injection, USP) Auto-Injector 0.15 mg EpiPen® = one dose of 0.15 mg epinephrine (USP, 1:2000, 0.3 mL)
+EPIPEN JR® (epinephrine injection, USP) Auto-Injector 0.15 mg EpiPen Jr® = one dose of 0.15 mg epinephrine, USP 0.15 mg/0.3 mL
 
 MyEpiPen.com
 
@@ -385,7 +383,7 @@ Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian 
 
 EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L. P. of Morgantown, WV 26505, U.S.A.
 
-Copyright © 2016 Meridian Medical Technologies.
+Copyright © 2017 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: May 2016 MS:EPIT:R3 0001947
+Revised: 2/2017 MS:EPIT:R4 0001994

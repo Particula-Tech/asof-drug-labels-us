@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-EpiPen Auto-Injectors (epinephrine injections, USP, 1:1000, 0.3 mL) are available as EpiPen 2-Pak®, NDC 49502-500-02, a pack that contains two EpiPen Auto-Injectors (epinephrine injections, USP, 1:1000, 0.3 mL) and one EpiPen Auto-Injector trainer device.
+EpiPen Auto-Injectors (epinephrine injections, USP 0.3 mg/0.3 mL) are available as EpiPen 2-Pak®, NDC 49502-500-02, a pack that contains two EpiPen Auto-Injectors (epinephrine injections, USP 0.3 mg/0.3 mL) and one EpiPen Auto-Injector trainer device.
 
-EpiPen Jr Auto-Injectors (epinephrine injections, USP, 1:2000, 0.3 mL) are available as EpiPen Jr 2-Pak®, NDC 49502-501-02, a pack that contains two EpiPen Jr Auto-Injectors (epinephrine injections, USP, 1:2000, 0.3 mL) and one EpiPen Auto-Injector trainer device.
+EpiPen Jr Auto-Injectors (epinephrine injections, USP 0.15 mg/0.3 mL) are available as EpiPen Jr 2-Pak®, NDC 49502-501-02, a pack that contains two EpiPen Jr Auto-Injectors (epinephrine injections, USP 0.15 mg/0.3 mL) and one EpiPen Auto-Injector trainer device.
 
 EpiPen 2-Pak® and EpiPen Jr 2-Pak® also include an S-clip to clip two carrier tubes together.
 
