@@ -38,44 +38,6 @@ Dispense the accompanying Medication Guide to each patient.
 
 AstraZeneca
 
-# Package/Label Display Panel
-
-NDC 0186-5022-28
-
-NEXIUM®
-
-(esomeprazole magnesium)
-
-100 Delayed-Release Capsules
-
-20 mg*
-
-*Each delayed-release capsule contains 20 mg esomeprazole
-
-Rx only
-
-Dispense the accompanying Medication Guide to each patient.
-
-AstraZeneca
-
-# Package/Label Display Panel
-
-NEXIUM®
-
-(esomeprazole magnesium)
-
-100 Delayed-Release Capsules
-
-40 mg*
-
-*Each delayed-release capsule contains 40 mg esomeprazole
-
-Rx only
-
-Dispense the accompanying Medication Guide to each patient.
-
-AstraZeneca
-
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 2.5 mg Oral Suspension
 
 NDC 0186-4025-01
