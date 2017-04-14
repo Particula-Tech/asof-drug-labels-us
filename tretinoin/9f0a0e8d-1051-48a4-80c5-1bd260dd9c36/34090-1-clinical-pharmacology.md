@@ -15,6 +15,6 @@ Generalized amyloid deposition in the basal layer of tretinoin-treated skin was 
 In a different study, hyalinization at tretinoin-treated skin sites was noted at doses beginning at 0.25 mg/kg in CD-1 mice.
 
 The transdermal absorption of tretinoin from various topical formulations ranged from 1% to 31% of applied dose, depending on whether it was applied to healthy skin or dermatitic skin.
-No percutaneous absorption study was conducted with RENOVA® (tretinoin cream) 0.02% in human volunteers.
+No percutaneous absorption study was conducted with RENOVA (tretinoin cream) 0.02% in human volunteers.
 When percutaneous absorption of the oil-in-water emulsion formulation at 0.05% concentration was assessed in healthy male subjects with radiolabeled cream after a single application (n=7), as well as after repeated daily applications (n=7) for 28 days, the absorption of tretinoin was less than 2% and the extent of bioavailability was less after repeated application.
 No significant difference in endogenous concentrations of tretinoin was observed between single and repeated daily applications.

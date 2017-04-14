@@ -6,19 +6,17 @@ NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE.
 Physicians and Pharmacists can call 1-800-321-4576, from 8:30 a.m. to 4:30 p.m.
 Eastern Time, Monday through Friday.
 
-Rx only.
-
 Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-By:
+By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
-Valeant Pharmaceuticals International Inc.
+U.S. Patent 6,531,141 Renova is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-Laval, Quebec H7L 4A8, Canada
-
-Made in Canada
+©Valeant Pharmaceuticals North America LLC
 
 Rev.
-04/2015
+03/2017
 
-9418701
+9418702
+
+50104761C

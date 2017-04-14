@@ -4,4 +4,4 @@ RENOVA® (tretinoin cream), 0.02% is available in tubes containing 20 grams (NDC
 
 ## Storage
 
-Store at 25°C (77°F), excursions permitted to 15-30°C (59°-86°F).
+Store at 25°C (77°F), excursions permitted to 15° to 30°C (59° to 86°F).
