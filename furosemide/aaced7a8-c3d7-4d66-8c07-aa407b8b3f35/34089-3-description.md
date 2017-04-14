@@ -1,12 +1,13 @@
 # DESCRIPTION
 
-Furosemide is a diuretic which is an anthranilic acid derivative, chemically identified as 4-chloro-N-furfuryl-5-sulfamoylanthranilic acid.
+Furosemide is a diuretic which is an anthranilic acid derivative.
+Chemically it is 4‑chloro-N-furfuryl-5-sulfamoylanthranilic acid.
 
 Furosemide is a white to slightly-yellow crystalline powder.
 It is practically insoluble in water, sparingly soluble in alcohol, freely soluble in dilute alkali solutions and insoluble in dilute acids.
 It has the following structural formula:
 
-Molecular formula: C12H11Cl N2O5S
+Molecular formula: C12H11CI N2O5S
 
 Molecular weight: 330.75
 

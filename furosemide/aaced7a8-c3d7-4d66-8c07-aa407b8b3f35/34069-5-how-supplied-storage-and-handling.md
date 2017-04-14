@@ -17,11 +17,6 @@ Protect from light.
 Do not remove from carton until ready to use.
 
 Discard unused portion.
+Revised: 5/2016 EN-4308
 
-Revised: 7/2015
-
-EN-3982
-
-Manufactured by Hospira, Inc., Lake Forest, IL 60045 USA
-
-N+ and NOVAPLUS are registered trademarks of Vizient, Inc.
+Manufactured by Hospira, Inc., Lake Forest, IL 60045 USA N+ and NOVAPLUS are registered trademarks of Vizient, Inc.

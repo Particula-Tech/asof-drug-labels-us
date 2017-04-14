@@ -17,10 +17,10 @@ Therapy should be individualized according to patient response to gain maximal t
 Close medical supervision is necessary.
 
 When furosemide is given for prolonged periods, careful clinical observation and laboratory monitoring are particularly advisable.
-(See PRECAUTIONS: Laboratory Tests.)
+(See PRECAUTIONS, Laboratory Tests.)
 
-If the physician elects to use high dose parenteral therapy, add the Furosemide Injection to either Sodium Chloride Injection, USP, Lactated Ringer's Injection, USP, or Dextrose (5%) Injection, USP after pH has been adjusted to above 5.5, and administer as a controlled intravenous infusion at a rate not greater than 4 mg/min.
-Furosemide Injection is a buffered alkaline solution with a pH of about 9 and drug may precipitate at pH values below 7.
+If the physician elects to use high dose parenteral therapy, add the furosemide to either Sodium Chloride Injection USP, Lactated Ringer’s Injection USP, or Dextrose Injection 5% USP, after pH has been adjusted to above 5.5, and administer as a controlled intravenous infusion at a rate not greater than 4 mg/min.
+Furosemide Injection is a buffered alkaline solution with a pH of about 9 and the drug may precipitate at pH values below 7.
 Care must be taken to ensure that the pH of the prepared infusion solution is in the weakly alkaline to neutral range.
 Acid solutions, including other parenteral medications (e.g., labetalol, ciprofloxacin, amrinone, milrinone) must not be administered concurrently in the same infusion because they may cause precipitation of the furosemide.
 In addition, furosemide injection should not be added to a running intravenous line containing any of these acidic products.
@@ -40,13 +40,13 @@ In general, dose selection for the elderly patient should be cautious, usually s
 
 Parenteral therapy should be used only in patients unable to take oral medication or in emergency situations and should be replaced with oral therapy as soon as practical.
 
-The usual initial dose of Furosemide (intravenously or intramuscularly) in pediatric patients is 1 mg/kg body weight and should be given slowly under close medical supervision.
+The usual initial dose of furosemide injection (intravenously or intramuscularly) in pediatric patients is 1 mg/kg body weight and should be given slowly under close medical supervision.
 If the diuretic response to the initial dose is not satisfactory, dosage may be increased by 1 mg/kg not sooner than 2 hours after the previous dose, until the desired diuretic effect has been obtained.
 Doses greater than 6 mg/kg body weight are not recommended.
 
 Literature reports suggest that the maximum dose for premature infants should not exceed 1 mg/kg/day (see WARNINGS, Pediatric Use).
 
-Furosemide Injection should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+Furosemide Injection should be inspected visually for particulate matter and discoloration before administration.
 Do not use if solution is discolored.
 
 To prevent needle-stick injuries, needles should not be recapped, purposely bent, or broken by hand.

@@ -7,10 +7,9 @@ Supplemental potassium chloride and, if required, an aldosterone antagonist are 
 
 If increasing azotemia and oliguria occur during treatment of severe progressive renal disease, furosemide should be discontinued.
 
-Cases of tinnitus and reversible or irreversible hearing impairment have been reported.
+Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported.
 Reports usually indicate that furosemide ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hypoproteinemia or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
-If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used).
-(See PRECAUTIONS, Drug Interactions.)
+If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used) (see PRECAUTIONS, Drug Interactions).
 
 ## Pediatric Use
 
@@ -29,7 +28,7 @@ As with any effective diuretic, electrolyte depletion may occur during furosemid
 Hypokalemia may develop with furosemide, especially with brisk diuresis, inadequate oral electrolyte intake, when cirrhosis is present, or during concomitant use of corticosteroids, ACTH, licorice in large amounts, or prolonged use of laxatives.
 Digitalis therapy may exaggerate metabolic effects of hypokalemia, especially myocardial effects.
 
-All patients receiving furosemide therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia, or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia, or gastrointestinal disturbances such as nausea and vomiting.
+All patients receiving furosemide therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia, or gastrointestinal disturbances such as nausea and vomiting.
 
 Increases in blood glucose and alterations in glucose tolerance tests (with abnormalities of the fasting and 2-hour postprandial sugar) have been observed, and rarely, precipitation of diabetes mellitus has been reported.
 
@@ -89,29 +88,35 @@ In addition, nephrotoxicity of nephrotoxic drugs such as cisplatin may be enhanc
 
 Furosemide has a tendency to antagonize the skeletal muscle relaxing effect of tubocurarine and may potentiate the action of succinylcholine.
 
-Lithium generally should not be given with diuretics because they reduce lithium's renal clearance and add a high risk of lithium toxicity.
+Lithium generally should not be given with diuretics because they reduce lithium’s renal clearance and add a high risk of lithium toxicity.
 
 Furosemide combined with angiotensin converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe hypotension and deterioration in renal function, including renal failure.
 An interruption or reduction in the dosage of furosemide, angiotensin converting enzyme inhibitors, or angiotensin receptor blockers may be necessary.
 
-Furosemide may add to or potentiate the therapeutic effect of other antihypertensive drugs.
 Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.
 
 Furosemide may decrease arterial responsiveness to norepinephrine.
 However, norepinephrine may still be used effectively.
 
+Simultaneous administration of sucralfate and Furosemide Injection may reduce the natriuretic and antihypertensive effects of furosemide.
+Patients receiving both drugs should be observed closely to determine if the desired diuretic and/or antihypertensive effect of furosemide is achieved.
+The intake of furosemide and sucralfate should be separated by at least 2 hours.
+
 In isolated cases, intravenous administration of furosemide within 24 hours of taking chloral hydrate may lead to flushing, sweating attacks, restlessness, nausea, increase in blood pressure, and tachycardia.
 Use of furosemide concomitantly with chloral hydrate is therefore not recommended.
 
 Phenytoin interferes directly with renal action of furosemide.
+There is evidence that treatment with phenytoin leads to decrease intestinal absorption of furosemide, and consequently to lower peak serum furosemide concentrations.
 
-Methotrexate and other drugs that, like furosemide, undergo significant renal tubular secretion may reduce the effect of Furosemide.
+Methotrexate and other drugs that, like furosemide, undergo significant renal tubular secretion may reduce the effect of furosemide.
 Conversely, furosemide may decrease renal elimination of other drugs that undergo tubular secretion.
 High-dose treatment of both furosemide and these other drugs may result in elevated serum levels of these drugs and may potentiate their toxicity as well as the toxicity of furosemide.
 
 Furosemide can increase the risk of cephalosporin-induced nephrotoxicity even in the setting of minor or transient renal impairment.
 
-Concomitant use of cyclosporine and furosemide is associated with increased risk of gouty arthritis secondary to Furosemide-induced hyperurecemia and cyclosporine impairment of renal urate excretion.
+Concomitant use of cyclosporine and furosemide is associated with increased risk of gouty arthritis secondary to furosemide-induced hyperurecemia and cyclosporine impairment of renal urate excretion.
+
+High doses (>80 mg) of furosemide may inhibit the binding of thyroid hormones to carrier proteins and result in transient increase in free thyroid hormones, followed by an overall decrease in total thyroid hormone levels.
 
 One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency.
 There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.
@@ -144,7 +149,7 @@ Furosemide has been shown to cause unexplained maternal deaths and abortions in 
 There are no adequate and well-controlled studies in pregnant women.
 Furosemide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Treatment during pregnancy requires monitoring of fetal growth because of the potential for higher birth weights.
+Treatment during pregnancy requires monitoring of fetal growth because of the potential for higher fetal birth weights.
 
 The effects of furosemide on embryonic and fetal development and on pregnant dams were studied in mice, rats and rabbits.
 
@@ -163,14 +168,14 @@ Furosemide may inhibit lactation.
 
 ## Pediatric Use
 
+Renal calcifications (from barely visible on x-ray to staghorn) have occurred in some severely premature infants treated with intravenous furosemide for edema due to patent ductus arteriosus and hyaline membrane disease.
+The concurrent use of chlorothiazide has been reported to decrease hypercalcinuria and dissolve some calculi.
+
 In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis.
 Nephrocalcinosis/nephrolithiasis has also been observed in children under 4 years of age with no history of prematurity who have been treated chronically with furosemide.
 Monitor renal function, and renal ultrasonography should be considered, in pediatric patients receiving furosemide.
 
 If furosemide is administered to premature infants during the first weeks of life, it may increase the risk of persistence of patent ductus arteriosus.
-
-Renal calcifications (from barely visible on x-ray to staghorn) have occurred in some severely premature infants treated with intravenous furosemide for edema due to patent ductus arteriosus and hyaline membrane disease.
-The concurrent use of chlorothiazide has been reported to decrease hypercalciuria and dissolve some calculi.
 
 ## Geriatric Use
 
@@ -179,4 +184,4 @@ Other reported clinical experience has not identified differences in responses b
 In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function (see PRECAUTIONS, General and DOSAGE AND ADMINISTRATION).
