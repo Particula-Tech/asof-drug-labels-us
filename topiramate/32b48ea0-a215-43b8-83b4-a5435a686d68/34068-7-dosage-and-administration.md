@@ -3,7 +3,6 @@
 ## 2.1 Epilepsy
 
 It is not necessary to monitor topiramate plasma concentrations to optimize topiramate tablets therapy.
-
 On occasion, the addition of topiramate tablets to phenytoin may require an adjustment of the dose of phenytoin to achieve optimal clinical outcome.
 Addition or withdrawal of phenytoin and/or carbamazepine during adjunctive therapy with topiramate tablets may require adjustment of the dose of topiramate tablets.
 
@@ -74,10 +73,10 @@ In the study of primary generalized tonic-clonic seizures, the initial titration
 
 ## 2.2 Migraine
 
-The recommended total daily dose of topiramate tablets as treatment for adults for prophylaxis of migraine headache is 100 mg/day administered in two divided doses (Table 3).
+The recommended total daily dose of topiramate tablets as treatment for adults and adolescents 12 years of age and older for prophylaxis of migraine headache is 100 mg/day administered in two divided doses (Table 3).
 The recommended titration rate for topiramate for migraine prophylaxis to 100 mg/day is:
 
-Table 3: Migraine Prophylaxis Titration Schedule for Adults
+Table 3: Migraine Prophylaxis Titration Schedule for Adults and Adolescents Patients 12 Years and Older
 
 |  | Morning Dose | Evening Dose |
 | --- | --- | --- |
@@ -90,9 +89,6 @@ Dose and titration rate should be guided by clinical outcome.
 If required, longer intervals between dose adjustments can be used.
 
 Topiramate tablets can be taken without regard to meals.
-
-Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.’s TOPAMAX (topiramate) Tablets.
-However, due to Janssen Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.4 Patients with Renal Impairment
 

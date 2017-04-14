@@ -88,7 +88,7 @@ Topiramate tablets are a prescription medicine used:
 
 - to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 2 years and older,
 - with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older,
-- to prevent migraine headaches in adults.
+- to prevent migraine headaches in adults and adolescents 12 years and older.
 
 What should I tell my healthcare provider before taking topiramate tablets?
 
@@ -228,15 +228,8 @@ For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 
 What are the ingredients in topiramate tablets?
 
-Active ingredient: topiramate
-
-Inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, sodium starch glycolate, and titanium dioxide.
+Active ingredient: topiramate Inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, sodium starch glycolate, and titanium dioxide.
 In addition, the 50 mg and 100 mg tablets contain iron oxide yellow and 200 mg tablet contains iron oxide red.
-
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.’s TOPAMAX (topiramate) Tablets.
-However, due to Janssen Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 05/2016
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 04/2017

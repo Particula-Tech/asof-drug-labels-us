@@ -11,7 +11,5 @@ Topiramate tablets are indicated as adjunctive therapy for adults and pediatric 
 
 ## 1.3 Migraine
 
-Topiramate tablets are indicated for adults for the prophylaxis of migraine headache [see Clinical Studies (14.3)].
+Topiramate tablets are indicated for adults and adolescents 12 years of age and older for the prophylaxis of migraine headache [see Clinical Studies (14.3)].
 The usefulness of topiramate tablets in the acute treatment of migraine headache has not been studied.
-Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.’s TOPAMAX (topiramate) Tablets.
-However, due to Janssen Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
