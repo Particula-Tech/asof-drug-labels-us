@@ -1,8 +1,8 @@
 # PATIENT INFORMATION and INSTRUCTIONS FOR USE
 
-Epinephrine Injection, USP Auto-Injector 0.3 mg one dose of 0.3 mg epinephrine (USP, 1:1000, 0.3 mL)
+Epinephrine Injection, USP Auto-Injector 0.3 mg one dose of 0.3 mg epinephrine, USP 0.3 mg/0.3 mL
 
-Epinephrine Injection, USP Auto-Injector 0.15 mg one dose of 0.15 mg epinephrine (USP, 1:2000, 0.3 mL)
+Epinephrine Injection, USP Auto-Injector 0.15 mg one dose of 0.15 mg epinephrine, USP 0.15 mg/0.3 mL
 
 Authorized generic for EpiPen® and EpiPen Jr® Auto-Injectors
 
@@ -208,9 +208,9 @@ Important Information
 
 Instructions for Use
 
-Epinephrine Injection, USP Auto-Injector 0.3 mg one dose of 0.3 mg epinephrine (USP, 1:1000, 0.3 mL)
+Epinephrine Injection, USP Auto-Injector 0.3 mg one dose of 0.3 mg epinephrine, USP 0.3 mg/0.3 mL
 
-Epinephrine Injection, USP Auto-Injector 0.15 mg one dose of 0.15 mg epinephrine (USP, 1:2000, 0.3 mL)
+Epinephrine Injection, USP Auto-Injector 0.15 mg one dose of 0.15 mg epinephrine, USP 0.15 mg/0.3 mL
 
 For allergic emergencies (anaphylaxis)
 
@@ -274,14 +274,14 @@ This Patient Information and Instructions for Use has been approved by the U.S. 
 
 Manufactured for: Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian Medical Technologies, Inc., Columbia, MD 21046, U.S.A., a Pfizer company
 
-Copyright © 2016 Meridian Medical Technologies.
+Copyright © 2017 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: May 2016 MS:PIL:EPIG:R1 0001964
+Revised: 2/2017 MS:PIL:EPIG:R2 0001998
 
-Epinephrine Injection, USP Auto-Injector 0.3 mg one dose of 0.3 mg epinephrine (USP, 1:1000, 0.3 mL)
+Epinephrine Injection, USP Auto-Injector 0.3 mg one dose of 0.3 mg epinephrine, USP 0.3 mg/0.3 mL
 
-Epinephrine Injection, USP Auto-Injector 0.15 mg one dose of 0.15 mg epinephrine (USP, 1:2000, 0.3 mL)
+Epinephrine Injection, USP Auto-Injector 0.15 mg one dose of 0.15 mg epinephrine, USP 0.15 mg/0.3 mL
 
 MyGenericEAI.com
 
@@ -373,7 +373,7 @@ This Trainer Instructions for Use has been approved by the U.S. Food and Drug Ad
 
 Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian Medical Technologies, Inc., Columbia, MD 21046, U.S.A., a Pfizer company
 
-Copyright © 2016 Meridian Medical Technologies.
+Copyright © 2017 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: May 2016 MS:EPITG:R1 0001965
+Revised: 2/2017 MS:EPITG:R2 0001999

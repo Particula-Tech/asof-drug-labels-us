@@ -2,9 +2,9 @@
 
 Epinephrine injection, USP auto-injectors, 0.3 mg and 0.15 mg, are auto-injectors and combination products containing drug and device components.
 
-Each epinephrine injection, USP auto-injector, 0.3 mg delivers a single dose of 0.3 mg epinephrine from epinephrine injection, USP 1:1000 (0.3 mL) in a sterile solution.
+Each epinephrine injection, USP auto-injector, 0.3 mg delivers a single dose of 0.3 mg epinephrine from epinephrine injection, USP 0.3 mg/0.3 mL in a sterile solution.
 
-Each epinephrine injection, USP auto-injector, 0.15 mg delivers a single dose of 0.15 mg epinephrine from epinephrine injection, USP 1:2000 (0.3 mL) in a sterile solution.
+Each epinephrine injection, USP auto-injector, 0.15 mg delivers a single dose of 0.15 mg epinephrine from epinephrine injection, USP 0.15 mg/0.3 mL in a sterile solution.
 
 The epinephrine injection, USP auto-injector contains 2 mL epinephrine solution.
 Approximately 1.7 mL remains in the auto-injector after activation, but is not available for future use, and should be discarded.

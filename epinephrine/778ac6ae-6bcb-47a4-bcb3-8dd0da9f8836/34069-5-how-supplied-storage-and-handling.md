@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-Epinephrine Injection, USP Auto-Injectors, 0.3 mg (epinephrine injections, USP, 1:1000, 0.3 mL) are available as NDC 49502-102-02, a pack that contains two Epinephrine Injection, USP Auto-Injectors, 0.3 mg (epinephrine injections, USP, 1:1000, 0.3 mL) and one Epinephrine Injection, USP Auto-Injector Trainer device.
+Epinephrine Injection, USP Auto-Injectors, 0.3 mg (epinephrine injections, USP 0.3 mg/0.3 mL) are available as NDC 49502-102-02, a pack that contains two Epinephrine Injection, USP Auto-Injectors, 0.3 mg (epinephrine injections, USP 0.3 mg/0.3 mL) and one Epinephrine Injection, USP Auto-Injector Trainer device.
 
-Epinephrine Injection, USP Auto-Injectors, 0.15 mg (epinephrine injections, USP, 1:2000, 0.3 mL) are available as NDC 49502-101-02, a pack that contains two Epinephrine Injection, USP Auto-Injectors, 0.15 mg (epinephrine injections, USP, 1:2000, 0.3 mL) and one Epinephrine Injection, USP Auto-Injector Trainer device.
+Epinephrine Injection, USP Auto-Injectors, 0.15 mg (epinephrine injections, USP 0.15 mg/0.3 mL) are available as NDC 49502-101-02, a pack that contains two Epinephrine Injection, USP Auto-Injectors, 0.15 mg (epinephrine injections, USP 0.15 mg/0.3 mL) and one Epinephrine Injection, USP Auto-Injector Trainer device.
 
 Epinephrine Injection, USP Auto-Injectors also include an S-clip to clip two carrier tubes together.
 

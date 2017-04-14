@@ -54,7 +54,7 @@ Complete patient information, including dosage, directions for proper administra
 
 Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian Medical Technologies, Inc., Columbia, MD 21046, U.S.A., a Pfizer company
 
-Copyright © 2016 Meridian Medical Technologies.
+Copyright © 2017 Meridian Medical Technologies.
 All rights reserved.
 
-May 2016 MS:EPIG:R1 0001963
+Revised: 2/2017 MS:EPIG:R2 0001997
