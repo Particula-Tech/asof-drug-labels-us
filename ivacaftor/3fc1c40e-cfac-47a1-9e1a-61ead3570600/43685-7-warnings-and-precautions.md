@@ -2,7 +2,7 @@
 
 ## 5.1 Use in Patients with Advanced Liver Disease
 
-Worsening of liver function, including hepatic encephalopathy, in patients with advanced liver disease has been reported in some patients with CF while receiving ORKAMBI.
+Liver function decompensation, including liver failure leading to death, has been reported in CF patients with pre-existing cirrhosis with portal hypertension while receiving ORKAMBI.
 Use ORKAMBI with caution in patients with advanced liver disease and only if the benefits are expected to outweigh the risks.
 If ORKAMBI is used in these patients, they should be closely monitored after the initiation of treatment and the dose should be reduced [see Dosage and Administration (2.2) and Adverse Reactions (6.1)].
 
@@ -22,7 +22,8 @@ Following resolution of transaminase elevations, consider the benefits and risks
 ## 5.3 Respiratory Events
 
 Respiratory events (e.g., chest discomfort, dyspnea, and respiration abnormal) were observed more commonly in patients during initiation of ORKAMBI compared to those who received placebo.
-Clinical experience in patients with percent predicted FEV1 (ppFEV1) <40 is limited, and additional monitoring of these patients is recommended during initiation of therapy [see Adverse Reactions (6.1)].
+These events have led to drug discontinuation and can be serious, particularly in patients with percent predicted FEV1 (ppFEV1) <40.
+Clinical experience in patients with ppFEV1 <40 is limited, and additional monitoring of these patients is recommended during initiation of therapy [see Adverse Reactions (6.1)].
 
 ## 5.4 Effect on Blood Pressure
 
