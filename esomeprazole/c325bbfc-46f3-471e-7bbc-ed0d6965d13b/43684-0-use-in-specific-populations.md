@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Risk Summary
+Risk Summary
 
 There are no adequate and well-controlled studies with NEXIUM in pregnant women.
 Esomeprazole is the s-isomer of omeprazole.
