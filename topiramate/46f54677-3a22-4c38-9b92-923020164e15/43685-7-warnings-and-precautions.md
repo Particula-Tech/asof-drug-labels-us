@@ -18,7 +18,7 @@ Elevated intraocular pressure of any etiology, if left untreated, can lead to se
 
 Visual field defects have been reported in patients receiving topiramate independent of elevated intraocular pressure.
 In clinical trials, most of these events were reversible after topiramate discontinuation.
-If visual problems occur at any time during topiramate treatment, consideration should be given to discontinuing the drug.
+If visual problems occur at any time during treatment with QUDEXY XR, consideration should be given to discontinuing the drug.
 
 ## 5.3 Oligohydrosis and Hyperthermia
 
@@ -28,7 +28,7 @@ Some of the cases were reported after exposure to elevated environmental tempera
 
 The majority of the reports have been in pediatric patients.
 Patients, especially pediatric patients, treated with QUDEXY XR should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather.
-Caution should be used when QUDEXY XR is prescribed with other drugs that predispose patients to heat-related disorders; these drugs include, but are not limited to, other carbonic anhydrase inhibitors and drugs with anticholinergic activity.
+Caution should be used when QUDEXY XR is prescribed with other drugs that predispose patients to heat-related disorders; these drugs include, but are not limited to, other carbonic anhydrase inhibitors and drugs with anticholinergic activity [see Drug Interactions (7.4)].
 
 ## 5.4 Metabolic Acidosis
 
@@ -38,30 +38,6 @@ Such electrolyte imbalance has been observed with the use of topiramate in place
 Generally, topiramate-induced metabolic acidosis occurs early in treatment although cases can occur at any time during treatment.
 Bicarbonate decrements are usually mild-moderate (average decrease of 4 mEq/L at daily doses of 400 mg in adults and at approximately 6 mg/kg/day in pediatric patients); rarely, patients can experience severe decrements to values below 10 mEq/L.
 Conditions or therapies that predispose patients to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhea, ketogenic diet or specific drugs) may be additive to the bicarbonate lowering effects of topiramate.
-
-Adult Patients
-
-In adults, the incidence of persistent treatment-emergent decreases in serum bicarbonate (levels of less than 20 mEq/L at two consecutive visits or at the final visit) in controlled clinical trials for adjunctive treatment of epilepsy was 32% for 400 mg per day, and 1% for placebo.
-Metabolic acidosis has been observed at doses as low as 50 mg per day.
-The incidence of a markedly abnormal low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in the adjunctive therapy trials was 3% for 400 mg per day and 0% for placebo.
-The incidence of persistent treatment-emergent decreases in serum bicarbonate in adult patients (≥16 years of age) in the epilepsy controlled clinical trial for monotherapy was 14% for 50 mg per day and 25% for 400 mg per day.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in this trial for adults was 1% for 50 mg per day and 6% for 400 mg per day.
-Serum bicarbonate levels have not been systematically evaluated at daily doses greater than 400 mg per day.
-
-Pediatric Patients (2 years to 16 years of age)
-
-The incidence of persistent treatment-emergent decreases in serum bicarbonate in placebo-controlled trials for adjunctive treatment of Lennox-Gastaut syndrome or refractory partial onset seizures in patients age 2 years to 16 years was 67% for topiramate (at approximately 6 mg/kg/day), and 10% for placebo.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in these trials was 11% for topiramate and 0% for placebo.
-Cases of moderately severe metabolic acidosis have been reported in patients as young as 5 months old, especially at daily doses above 5 mg/kg/day.
-
-In pediatric patients (6 years to 15 years of age), the incidence of persistent treatment-emergent decreases in serum bicarbonate in the epilepsy controlled clinical trial for monotherapy performed with topiramate was 9% for 50 mg per day and 25% for 400 mg per day.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in this trial was 1% for 50 mg per day and 6% for 400 mg per day.
-
-Pediatric Patients (under 2 years of age)
-
-Although QUDEXY XR is not approved for use in patients less than 2 years of age with partial onset seizures, a study of topiramate as adjunctive use in patients under 2 years of age revealed that topiramate produced a metabolic acidosis that is notably greater in magnitude than that observed in controlled trials in older children and adults.
-The mean treatment difference (25 mg/kg/day topiramate-placebo) was -5.9 mEq/L for bicarbonate.
-The incidence of metabolic acidosis (defined by a serum bicarbonate less than 20 mEq/L) was 0% for placebo, 30% for 5 mg/kg/day, 50% for 15 mg/kg/day, and 45% for 25 mg/kg/day [see Use in Specific Populations (8.4)].
 
 Manifestations of Metabolic Acidosis
 
@@ -74,7 +50,47 @@ Long-term, open-label treatment of infants/toddlers, with intractable partial ep
 Reductions in Z SCORES for length and weight were correlated to the degree of acidosis [see Use in Specific Populations (8.4)].
 Topiramate treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
 
-Measurement of Serum Bicarbonate in Epilepsy Patients
+Epilepsy
+
+Adult Patients
+
+In adults, the incidence of persistent decreases in serum bicarbonate (levels of less than 20 mEq/L at two consecutive visits or at the final visit) in controlled clinical trials for adjunctive treatment of epilepsy was 32% for 400 mg per day, and 1% for placebo.
+Metabolic acidosis has been observed at doses as low as 50 mg per day.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in the adjunctive therapy trials was 3% for 400 mg per day and 0% for placebo.
+The incidence of persistent decreases in serum bicarbonate in adult patients (≥16 years of age) in the epilepsy controlled clinical trial for monotherapy was 14% for 50 mg per day and 25% for 400 mg per day.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in this trial for adults was 1% for 50 mg per day and 6% for 400 mg per day.
+Serum bicarbonate levels have not been systematically evaluated at daily doses greater than 400 mg per day.
+
+Pediatric Patients (2 years to 16 years of age)
+
+The incidence of persistent decreases in serum bicarbonate in placebo-controlled trials for adjunctive treatment of Lennox-Gastaut syndrome or refractory partial onset seizures in patients age 2 years to 16 years was 67% for topiramate (at approximately 6 mg/kg/day), and 10% for placebo.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in these trials was 11% for topiramate and 0% for placebo.
+Cases of moderately severe metabolic acidosis have been reported in patients as young as 5 months old, especially at daily doses above 5 mg/kg/day.
+
+In pediatric patients (6 years to 15 years of age), the incidence of persistent decreases in serum bicarbonate in the epilepsy controlled clinical trial for monotherapy performed with topiramate was 9% for 50 mg per day and 25% for 400 mg per day.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in this trial was 1% for 50 mg per day and 6% for 400 mg per day.
+
+Pediatric Patients (under 2 years of age)
+
+Although QUDEXY XR is not approved for use in patients less than 2 years of age, a study of topiramate as adjunctive use in patients under 2 years of age with partial onset seizures revealed that topiramate produced a metabolic acidosis that is notably greater in magnitude than that observed in controlled trials in older children and adults.
+The mean treatment difference (25 mg/kg/day topiramate-placebo) was -5.9 mEq/L for bicarbonate.
+The incidence of metabolic acidosis (defined by a serum bicarbonate less than 20 mEq/L) was 0% for placebo, 30% for 5 mg/kg/day, 50% for 15 mg/kg/day, and 45% for 25 mg/kg/day.
+The incidence of markedly abnormal changes (i.e., less than 17 mEq/L and greater than 5 mEq/L decrease from baseline of greater than or equal to 20 mEq/L) was 0% for placebo, 4% for 5 mg/kg/day, 5% for 15 mg/kg/day and 5% for 25 mg/kg/day [see Use in Specific Populations (8.4)].
+
+Migraine
+
+Adult Patients
+
+The incidence of persistent decreases in serum bicarbonate in placebo-controlled trials in adults for the prophylaxis of migraine was 44% for 200 mg/day, 39% for 100 mg/day, 23% for 50 mg/day, and 7% for placebo.
+The incidence of markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in these trials was 11% for 200 mg/day, 9% for 100 mg/day, 2% for 50 mg/day, and <1% for placebo.
+
+Adolescent Patients
+
+In pooled, double-blind migraine prophylaxis studies in adolescent patients (12 to 17 years of age), the incidence of persistent decreases in serum bicarbonate was 77% for 200 mg/day, 27% for 100 mg/day, 30% for 50 mg/day, and 9% for placebo.
+The incidence of markedly low serum bicarbonate (i.e., absolute value <17 mEq/L and >5 mEq/L decrease from pretreatment) was 6% for 100 mg/day, 2% for 50 mg/day, and 2% for placebo.
+This bicarbonate criterion was not met by any patients in the 200 mg/day group, which had a low number of subjects (n=13).
+
+Measurement of Serum Bicarbonate in Epilepsy and Migraine Patients
 
 Measurement of baseline and periodic serum bicarbonate during topiramate treatment is recommended.
 If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing topiramate (using dose tapering).
@@ -96,9 +112,9 @@ The risk of suicidal thoughts or behavior was generally consistent among drugs i
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 
-Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 4 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 3: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 4: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events per 1,000 Patients | Drug Patients with Events per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/ Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1,000 Patients |
 | --- | --- | --- | --- | --- |
@@ -111,14 +127,14 @@ The relative risk for suicidal thoughts or behavior was higher in clinical trial
 
 Anyone considering prescribing QUDEXY XR or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
-Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated..
+Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior or the emergence of suicidal thoughts, behavior or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.6 Cognitive/Neuropsychiatric Adverse Reactions
 
-Adverse reactions most often associated with the use of topiramate, and therefore expected to be associated with the use of QUDEXY XR were related to the central nervous system and were observed in the epilepsy population.
+Adverse reactions most often associated with the use of topiramate, and therefore expected to be associated with the use of QUDEXY XR, were related to the central nervous system and were observed in both the epilepsy and migraine populations.
 In adults, the most frequent of these can be classified into three general categories: 1) Cognitive-related dysfunction (e.g. confusion, psychomotor slowing, difficulty with concentration/attention, difficulty with memory, speech or language problems, particularly word-finding difficulties), 2) Psychiatric/behavioral disturbances (e.g. depression or mood problems), and 3) Somnolence or fatigue.
 
 Adult Patients
@@ -135,39 +151,64 @@ Some patients who experienced one or more cognitive-related adverse reactions in
 
 In the monotherapy epilepsy controlled trial conducted with topiramate, the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg per day and 26% for 400 mg per day.
 
+In the 6-month migraine prophylaxis controlled trials using a slower titration regimen (25 mg/day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg/day, 22% for 100 mg/day (the recommended dose), 28% for 200 mg/day, and 10% for placebo.
+These dose-related adverse reactions typically began in the titration phase and often persisted into the maintenance phase, but infrequently began in the maintenance phase.
+Some patients experienced a recurrence of one or more of these cognitive adverse reactions and this recurrence was typically in the titration phase.
+A relatively small proportion of topiramate-treated patients experienced more than one concurrent cognitive adverse reaction.
+The most common cognitive adverse reactions occurring together included difficulty with memory along with difficulty with concentration/attention, difficulty with memory along with language problems, and difficulty with concentration/attention along with language problems.
+Rarely, topiramate-treated patients experienced three concurrent cognitive reactions.
+
 Psychiatric/Behavioral Disturbances
 
-Psychiatric/behavioral disturbances (depression or mood) were dose-related for the epilepsy population treated with topiramate [see Adverse Reactions (6.1)].
+Psychiatric/behavioral disturbances (depression or mood) were dose-related for both the epilepsy and migraine populations treated with topiramate [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
 
 Somnolence/Fatigue
 
 Somnolence and fatigue were the adverse reactions most frequently reported during clinical trials of topiramate for adjunctive epilepsy.
 For the adjunctive epilepsy population, the incidence of somnolence did not differ substantially between 200 mg per day and 1,000 mg per day, but the incidence of fatigue was dose-related and increased at dosages above 400 mg per day.
 For the monotherapy epilepsy population in the 50 mg per day and 400 mg per day groups, the incidence of somnolence was dose-related (9% for the 50 mg per day group and 15% for the 400 mg per day group) and the incidence of fatigue was comparable in both treatment groups (14% each).
-For other uses not approved for QUDEXY XR, somnolence and fatigue were more common in the titration phase.
+For the migraine population, somnolence and fatigue were dose-related and more common in the titration phase.
 
 Additional nonspecific CNS events commonly observed with topiramate in the adjunctive epilepsy population include dizziness or ataxia.
 
 Pediatric Patients
+
+Epilepsy
 
 In double-blind adjunctive therapy and monotherapy epilepsy clinical studies conducted with topiramate, the incidences of cognitive/neuropsychiatric adverse reactions in pediatric patients were generally lower than observed in adults.
 These reactions included psychomotor slowing, difficulty with concentration/attention, speech disorders/related speech problems and language problems.
 The most frequently reported neuropsychiatric reactions in pediatric patients during adjunctive therapy double-blind studies were somnolence and fatigue.
 The most frequently reported neuropsychiatric reactions in pediatric patients in the 50 mg per day and 400 mg per day groups during the monotherapy double-blind study were headache, dizziness, anorexia, and somnolence.
 
-No patients discontinued treatment due to any adverse events in the adjunctive epilepsy double-blind trials.
-In the monotherapy epilepsy double-blind trial conducted with immediate-release topiramate product, 1 pediatric patient (2%) in the 50 mg per day group and 7 pediatric patients (12%) in the 400 mg per day group discontinued treatment due to any adverse events.
+No patients discontinued treatment due to any adverse reactions in the adjunctive epilepsy double-blind trials.
+In the monotherapy epilepsy double-blind trial conducted with immediate-release topiramate product, 1 pediatric patient (2%) in the 50 mg per day group and 7 pediatric patients (12%) in the 400 mg per day group discontinued treatment due to any adverse reactions.
 The most common adverse reaction associated with discontinuation of therapy was difficulty with concentration/attention; all occurred in the 400 mg per day group.
+
+Migraine
+
+The incidence of cognitive adverse reactions was increased in topiramate-treated patients (7%) versus placebo (4%) in pooled, double-blind placebo-controlled studies in which adolescent patients (12 to 17 years) were randomized to placebo or one of several fixed daily doses of topiramate (50 mg, 100 mg, 200 mg).
+
+The incidence of cognitive adverse reactions was also increased in a placebo-controlled study of pediatric patients (6 to 16 years) treated with 2 to 3 mg/kg/day of topiramate (10%) versus placebo treatment (2%).
+QUDEXY XR is not approved for prophylaxis of migraine in pediatric patients under 12 years of age.
+
+The risk for cognitive adverse reactions was dose-dependent, and was particularly evident at the 200 mg dose.
+This risk for cognitive adverse reactions was also greater in younger patients (6 to 11 years) than in older patients (12 to 17 years).
+The most common cognitive adverse reaction in these trials was difficulty with concentration/attention.
+Cognitive adverse reactions most commonly developed in the titration period and sometimes persisted into the maintenance period.
+These adverse reactions typically occurred in isolation as single type of cognitive adverse reaction.
+Cognitive adverse reactions that led to study discontinuation occurred in one patient (difficulty with concentration/attention and language problems).
+The Cambridge Neuropsychological Test Automated Battery (CANTAB) was administered to adolescents (12 to 17 years) to assess the effects of topiramate on cognitive function at baseline and at the end of the Study 3 [see Clinical Studies (14.7)].
+Mean change from baseline in certain CANTAB tests suggests that topiramate treatment may result in psychomotor slowing and decreased verbal fluency.
 
 ## 5.7 Fetal Toxicity
 
 Topiramate can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts).
-When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
+Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age.
+In multiple species, oral administration of topiramate to pregnant animals at clinically relevant doses resulted in structural malformations, including craniofacial defects, and reduced body weights in offspring [see Use in Specific Populations (8.1)].
 
-Consider the benefits and risks of topiramate when administering the drug in women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.9)].
-Topiramate should be used during pregnancy only if the potential benefit outweighs the potential risk.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be informed of the potential hazard to a fetus [see Use in Specific Populations (8.1 and 8.9)].
+Consider the benefits and risks of QUDEXY XR when administering the drug in women of childbearing potential, particularly when QUDEXY XR is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.1)].
+QUDEXY XR should be used during pregnancy only if the potential benefit outweighs the potential risk.
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be informed of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
 ## 5.8 Withdrawal of Antiepileptic Drugs
 
@@ -178,10 +219,16 @@ In situations where rapid withdrawal of QUDEXY XR is medically required, appropr
 
 Hyperammonemia/Encephalopathy Without Concomitant Valproic Acid (VPA)
 
-Topiramate treatment has produced hyperammonemia (in some instances dose-related) in clinical investigational programs in very young pediatric patients (1 month to 24 months) who were treated with adjunctive topiramate for partial onset epilepsy (8% for placebo, 10% for 5 mg/kg/day, 0% for 15 mg/kg/day, 9% for 25 mg/kg/day).
+Topiramate treatment has produced hyperammonemia (in some instances dose-related) in a clinical investigational program in adolescent patients (12 to 17 years) who were treated with topiramate for migraine prophylaxis.
+The incidence of hyperammonemia (above the upper limit of normal reference) at any time in the trial was 9% for placebo, 14% for 50 mg, and 26% for 100 mg topiramate daily.
+In some patients, hyperammonemia was observed at the end of the trial at the final visit.
+The incidence of markedly increased hyperammonemia (at least 50% or higher above upper limit of normal) at any time in the trial in adolescent patients was also increased at 100 mg/day (9%) compared to 50 mg topiramate (0%) or placebo (3%).
+During this trial, markedly increased ammonia levels returned to normal in all but one patient (in whom the ammonia level fell to high instead of markedly abnormal).
+
+Topiramate treatment has produced hyperammonemia in a clinical investigational program in very young pediatric patients (1 month to 24 months) who were treated with adjunctive topiramate for partial onset epilepsy (8% for placebo, 10% for 5 mg/kg/day, 0% for 15 mg/kg/day, 9% for 25 mg/kg/day).
 QUDEXY XR is not approved as adjunctive treatment of partial onset seizures in pediatric patients less than 2 years old.
 In some patients, ammonia was markedly increased (greater than 50% above upper limit of normal).
-The hyperammonemia associated with topiramate treatment occurred with and without encephalopathy in placebo-controlled trials, and in an open-label, extension trial.
+The hyperammonemia associated with topiramate treatment occurred with and without encephalopathy in placebo-controlled trials, and in an open-label, extension trial of infants with refractory epilepsy.
 Dose-related hyperammonemia was also observed in the extension trial in pediatric patients up to 2 years old.
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
 
@@ -194,7 +241,7 @@ Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic
 In most cases, symptoms and signs abated with discontinuation of either drug.
 This adverse reaction is not due to a pharmacokinetic interaction.
 
-Although QUDEXY XR is not indicated for use in infants/toddlers (1 month to 24 months), topiramate with concomitant VPA clearly produced a dose-related increase in the incidence of treatment-emergent hyperammonemia (above the upper limit of normal, 0% for placebo, 12% for 5 mg/kg/day, 7% for 15 mg/kg/day, 17% for 25 mg/kg/day) in an investigational program using topiramate.
+Although QUDEXY XR is not indicated for use in infants/toddlers (1 month to 24 months), topiramate with concomitant VPA clearly produced a dose-related increase in the incidence of hyperammonemia (above the upper limit of normal, 0% for placebo, 12% for 5 mg/kg/day, 7% for 15 mg/kg/day, 17% for 25 mg/kg/day) in an investigational program using topiramate.
 Markedly increased, dose-related hyperammonemia (0% for placebo and 5 mg/kg/day, 7% for 15 mg/kg/day, and 8% for 25 mg/kg/day) also occurred in these infants/toddlers.
 Dose-related hyperammonemia was similarly observed in a long-term, extension trial utilizing topiramate in these very young, pediatric patients [see Use in Specific Populations (8.4)].
 
@@ -214,15 +261,19 @@ In patients who develop unexplained lethargy, vomiting, or changes in mental sta
 A total of 32/2086 (1.5%) of adults exposed to topiramate during its adjunctive epilepsy therapy development reported the occurrence of kidney stones, an incidence about 2 to 4 times greater than expected in a similar, untreated population.
 In the double-blind monotherapy epilepsy study, a total of 4/319 (1.3%) of adults exposed to topiramate reported the occurrence of kidney stones.
 As in the general population, the incidence of stone formation among topiramate-treated patients was higher in men.
-Kidney stones have also been reported in pediatric patients taking topiramate for epilepsy.
+Kidney stones have also been reported in pediatric patients taking topiramate for epilepsy or migraine.
 
 During long-term (up to 1 year) topiramate treatment in an open-label extension study of 284 pediatric patients 1 month to 24 months old with epilepsy, 7% developed kidney or bladder stones that were diagnosed clinically or by sonogram.
 QUDEXY XR is not approved for pediatric patients less than 2 years old [see Use in Specific Populations (8.4)].
 
+Kidney stones have also been reported in pediatric patients taking topiramate for migraine prophylaxis.
+For the double-blind migraine prophylaxis studies, one adverse event (renal calculus) occurred in a topiramate-treated subject in the age 12 to 17 years group.
+The overall experience with open-label, long-term, topiramate treatment for migraine prophylaxis is limited in pediatric patients.
+
 QUDEXY XR would be expected to have the same effect as topiramate on the formation of kidney stones.
 An explanation for the association of topiramate and kidney stones may lay in the fact that topiramate is a carbonic anhydrase inhibitor.
 Carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) can promote stone formation by reducing urinary citrate excretion and by increasing urinary pH [see Warnings and Precautions (5.4), Drug Interactions (7.4) and Clinical Pharmacology (12.3)].
-The concomitant use of QUDEXY XR with any other drug producing metabolic acidosis, or potentially in patients on a ketogenic diet may create a physiological environment that increases the risk of kidney stone formation, and should therefore be avoided.
+The concomitant use of QUDEXY XR with any other drug producing metabolic acidosis, or potentially in patients on a ketogenic diet, may create a physiological environment that increases the risk of kidney stone formation, and should therefore be avoided.
 
 Increased fluid intake increases the urinary output, lowering the concentration of substances involved in stone formation.
 Hydration is recommended to reduce new stone formation.
@@ -237,7 +288,7 @@ Clinical management and assessment should include examination of blood ammonia l
 ## 5.12 Paresthesia
 
 Paresthesia (usually tingling of the extremities), an effect associated with the use of other carbonic anhydrase inhibitors, appears to be a common effect of topiramate in adult and pediatric patients.
-Paresthesia was more frequently reported in the monotherapy epilepsy trials conducted with immediate-release topiramate than in the adjunctive therapy epilepsy trials conducted with the same product.
+Paresthesia was more frequently reported in the monotherapy epilepsy trials and migraine prophylaxis trials conducted with immediate-release topiramate than in the adjunctive therapy epilepsy trials conducted with the same product.
 In the majority of instances, paresthesia did not lead to treatment discontinuation [see Adverse Reactions (6.1)].
 
 ## 5.13 Interaction with Other CNS Depressants

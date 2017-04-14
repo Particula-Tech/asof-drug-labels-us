@@ -44,9 +44,9 @@ Following randomization, patients began the double-blind phase of treatment.
 In five of the six studies, patients received active drug beginning at 100 mg per day; the dose was then increased by 100 mg or 200 mg per day increments weekly or every other week until the assigned dose was reached, unless intolerance prevented increases.
 In Study 7, the 25 or 50 mg per day initial doses of topiramate were followed by respective weekly increments of 25 or 50 mg per day until the target dose of 200 mg per day was reached.
 After titration, patients entered a 4, 8 or 12-week stabilization period.
-The numbers of patients randomized to each dose, and the actual mean and median doses in the stabilization period are shown in Table 11.
+The numbers of patients randomized to each dose, and the actual mean and median doses in the stabilization period are shown in Table 15.
 
-Table 11: Immediate Release Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial Onset SeizuresDose-response studies were not conducted for other indications or pediatric partial-onset seizures
+Table 15: Immediate Release Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial Onset SeizuresDose-response studies were not conducted for other indications or pediatric partial-onset seizures
 
 | Study | Stabilization Dose | PlaceboPlacebo dosages are given as the number of tablets. Placebo target dosages were as follows: Study 4 (4 tablets/day); Studies 2 and 5 (6 tablets/day); Studies 6 and 7 (8 tablets/day); Study 3 (10 tablets/day) | 200 | 400 | 600 | 800 | 1,000 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -67,8 +67,8 @@ Table 11: Immediate Release Topiramate Dose Summary During the Stabilization Per
 | 6 | Mean Dose | 8.0 | -- | -- | -- | 568 | -- |
 |  | Median Dose | 8.0 | -- | -- | -- | 600 | -- |
 |  | N | 90 | 157 | -- | -- | -- | -- |
-| 7 | Mean Dose | 8 | 200 | -- | -- | -- | -- |
-|  | Median Dose | 8 | 200 | -- | -- | -- | -- |
+| 7 | Mean Dose | 8.0 | 200 | -- | -- | -- | -- |
+|  | Median Dose | 8.0 | 200 | -- | -- | -- | -- |
 
 Pediatric Patients Ages 2 to 16 Years with Partial Onset Seizures
 
@@ -106,12 +106,12 @@ After titration, patients entered an 8-week stabilization period.
 The primary measures of effectiveness were the percent reduction in drop attacks and a parental global rating of seizure severity.
 
 In all adjunctive topiramate trials, the reduction in seizure rate from baseline during the entire double-blind phase was measured.
-The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 12.
+The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 16.
 As described above, a global improvement in seizure severity was also assessed in the Lennox-Gastaut trial.
 
-Table 12: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
+Table 16: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
 
-| Study # | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6 mg/kg/dayFor Studies 8 and 9, specified target dosages (less than 9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6 mg/kg/day; these dosages corresponded to mg per day dosages of 125 mg per day, 175 mg per day, 225 mg per day, and 400 mg per day |
+| Study # | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6 mg/kg/dayFor Studies 8 and 9, specified target dosages (less than 9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6mg/kg/day; these dosages corresponded to mg per day dosages of 125 mg per day, 175 mg per day, 225 mg per day, and 400 mg per day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | Target Topiramate Dosage (mg per day) |  |  |  |  |  |
 | Partial Onset Seizures Studies in Adults |  |  |  |  |  |  |  |  |
@@ -164,11 +164,11 @@ Patients then entered the maintenance period at the assigned dose of 200 mg once
 
 The percent reduction in the frequency of partial-onset seizure, baseline period compared to the treatment phase, was the primary endpoint.
 Data was analyzed by the Wilcoxon rank-sum test, with the criteria of statistical significance of p<0.05.
-The results of the analysis are presented in Table 13.
+The results of the analysis are presented in Table 17.
 The median percent reduction in seizure rate was 39.5% in patients taking QUDEXY XR (N=124) and 21.7% in patients taking placebo (N=125).
 This difference was statistically significant.
 
-Table 13: Percent Reduction From Baseline in Partial-Onset Seizure Frequency During 11-week Treatment Period in Study 11
+Table 17: Percent Reduction From Baseline in Partial-Onset Seizure Frequency During 11-week Treatment Period in Study 11
 
 | Study End Point | QUDEXY XR (N=124) | Placebo (N=125) |
 | --- | --- | --- |
@@ -179,3 +179,71 @@ Patients in whom the seizure frequency increased are shown as "worse."
 Patients in whom the seizure frequency decreased are shown in four categories of reduction in seizure frequency.
 
 Figure 2: Proportion of Patients by Category of Seizure Response to QUDEXY XR and Placebo
+
+## 14.7 Immediate-Release: Migraine Prophylaxis
+
+Adult Patients
+
+The results of 2 multicenter, randomized, double-blind, placebo-controlled, parallel-group clinical trials established the effectiveness of topiramate in the prophylactic treatment of migraine headache.
+The design of both trials (Study 1 was conducted in the U.S. and Study 2 was conducted in the U.S. and Canada) was identical, enrolling patients with a history of migraine, with or without aura, for at least 6 months, according to the International Headache Society (IHS) diagnostic criteria.
+Patients with a history of cluster headaches or basilar, ophthalmoplegic, hemiplegic, or transformed migraine headaches were excluded from the trials.
+Patients were required to have completed up to a 2-week washout of any prior migraine preventive medications before starting the baseline phase.
+
+Patients who experienced 3 to 12 migraine headaches over the 4 weeks in the baseline phase were randomized to either topiramate 50 mg/day, 100 mg/day, 200 mg/day (twice the recommended daily dosage for migraine prophylaxis), or placebo and treated for a total of 26 weeks (8-week titration period and 18-week maintenance period).
+Treatment was initiated at 25 mg/day for one week, and then the daily dosage was increased by 25 mg increments each week until reaching the assigned target dose or maximum tolerated dose (administered twice daily).
+
+Effectiveness of treatment was assessed by the reduction in migraine headache frequency, as measured by the change in 4-week migraine rate (according to migraines classified by HIS criteria) from the baseline phase to double-blind treatment period in each topiramate treatment group compared to placebo in the Intent-To-Treat (ITT) population.
+
+In Study 1, a total of 469 patients (416 females, 53 males), ranging in age from 13 to 70 years, were randomized and provided efficacy data.
+Two hundred sixty-five patients completed the entire 26-week double-blind phase.
+The median average daily dosages were 48 mg/day, 88 mg/day, and 132 mg/day in the target dose groups of topiramate 50, 100, and 200 mg/day, respectively.
+
+The mean migraine headache frequency rate at baseline was approximately 5.5 migraine headaches/28 days and was similar across treatment groups.
+The change in the mean 4-week migraine headache frequency from baseline to the double-blind phase was -1.3, -2.1, and -2.2 in the topiramate 50, 100, and 200 mg/day groups, respectively, versus -0.8 in the placebo group (see Figure 3).
+The treatment differences between the topiramate 100 and 200 mg/day groups versus placebo were similar and statistically significant (p<0.001 for both comparisons).
+
+In Study 2, a total of 468 patients (406 females, 62 males), ranging in age from 12 to 65 years, were randomized and provided efficacy data.
+Two hundred fifty-five patients completed the entire 26-week double-blind phase.
+The median average daily dosages were 47 mg/day, 86 mg/day, and 150 mg/day in the target dose groups of topiramate 50, 100, and 200 mg/day, respectively.
+
+The mean migraine headache frequency rate at baseline was approximately 5.5 migraine headaches/28 days and was similar across treatment groups.
+The change in the mean 4-week migraine headache period frequency from baseline to the double-blind phase was -1.4, -2.1, and -2.4 in the topiramate 50, 100, and 200 mg/day groups, respectively, versus -1.1 in the placebo group (see Figure 3).
+The differences between the topiramate 100 and 200 mg/day groups versus placebo were similar and statistically significant (p=0.008 and p <0.001, respectively).
+
+In both studies, there were no apparent differences in treatment effect within age or gender subgroups.
+Because most patients were Caucasian, there were insufficient numbers of patients from different races to make a meaningful comparison of race.
+
+For patients withdrawing from topiramate, daily dosages were decreased in weekly intervals by 25 to 50 mg/day.
+
+| Figure 3: Reduction in 4-Week Migraine Headache Frequency |
+| --- |
+
+Adolescent Patients Age 12 to 17 Years
+
+The effectiveness of topiramate as prophylaxis for migraine headache in adolescents was established in a multicenter, randomized, double-blind, parallel-group trial.
+The study enrolled 103 patients (40 male, 63 female) age 12 to 17 years with episodic migraine headaches with or without aura.
+Patient selection was based on IHS criteria for migraines (using proposed revisions to the 1988 IHS pediatric migraine criteria [IHS-R criteria]).
+
+Patients who experienced 3 to 12 migraine attacks (according to migraines classified by patient reported diaries) and ≤14 headache days (migraine and non-migraine) during the 4-week prospective baseline period were randomized to either topiramate 50 mg/day, 100 mg/day, or placebo and treated for a total of 16 weeks (4-week titration period followed by a 12-week maintenance period).
+Treatment was initiated at 25 mg/day for one week, and then the daily dosage was increased by 25 mg increments each week until reaching the assigned target dose or maximum tolerated dose (administered twice daily).
+Approximately 80% or more patients in each treatment group completed the study.
+The median average daily dosages were 45 and 79 mg/day in the target dose groups of topiramate 50 and 100 mg/day, respectively.
+
+Effectiveness of treatment was assessed by comparing each topiramate treatment group to placebo (ITT population) for the percent reduction from baseline to the last 12 weeks of the double-blind phase in the monthly migraine attack rate (primary endpoint).
+The percent reduction from baseline to the last 12 weeks of the double-blind phase in average monthly migraine attack rate is shown in Table 18.
+The 100 mg topiramate dose produced a statistically significant treatment difference relative to placebo of 28% reduction from baseline in the monthly migraine attack rate.
+
+The mean reduction from baseline to the last 12 weeks of the double-blind phase in average monthly attack rate, a key secondary efficacy endpoint in Study 3 (and the primary efficacy endpoint in Studies 1 and 2, of adults) was 3.0 for 100 mg topiramate dose and 1.7 for placebo.
+This 1.3 treatment difference in mean reduction from baseline of monthly migraine rate was statistically significant (p = 0.0087).
+
+Table 18: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind Phase in Average Monthly Attack Rate: Study 3 (Intent-to-Treat Analysis Set)
+
+| Category | Placebo (N=33) | Topiramate 50 mg/day (N=35) | Topiramate 100 mg/day (N=35) |
+| --- | --- | --- | --- |
+| Baseline |  |  |  |
+| Median | 3.6 | 4.0 | 4.0 |
+| Last 12 Weeks of Double-Blind Phase |  |  |  |
+| Median | 2.3 | 2.3 | 1.0 |
+| Percent Reduction (%) |  |  |  |
+| Median | 44.4 | 44.6 | 72.2 |
+| P-value versus PlaceboP-values (two-sided) for comparisons relative to placebo are generated by applying an ANCOVA model on ranks that includes subject's stratified age at baseline, treatment group, and analysis center as factors and monthly migraine attack rate during baseline period as a covariate.,P-values for the dose groups are the adjusted p-value according to the Hochberg multiple comparison procedure. |  | 0.7975 | 0.0164Indicates p-value is < 0.05 (two-sided). |

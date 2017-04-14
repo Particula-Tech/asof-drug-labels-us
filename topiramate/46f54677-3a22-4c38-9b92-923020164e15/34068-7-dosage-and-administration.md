@@ -1,11 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Monotherapy Use
+## 2.1 Epilepsy
+
+Monotherapy Use
 
 Adults and Pediatric Patients 10 Years and Older with Partial Onset or Primary Generalized Tonic-Clonic Seizures
 
 The recommended dose for QUDEXY XR monotherapy in adults and pediatric patients 10 years of age and older is 400 mg orally once daily.
-Titrate QUDEXY XR according to the following schedule (Table 1):
+Titrate QUDEXY XR according to the following schedule [Table 1]:
 
 Table 1: Monotherapy Titration Schedule for Adults and Pediatric Patients 10 years and older
 
@@ -25,7 +27,7 @@ During the titration period, the initial dose of QUDEXY XR should be 25 mg once 
 Based upon tolerability, the dosage can be increased to 50 mg once daily in the second week.
 Dosage can be increased by 25 mg to 50 mg once daily each subsequent week, as tolerated.
 Titration to the minimum maintenance dose should be attempted over 5 to 7 weeks.
-Based upon tolerability and clinical response, additional titration to a higher dose (up to the maximum maintenance dose) can be attempted in weekly increments by 25 mg to 50 mg once daily, up to the maximum recommended maintenance dose for each range of body weight (see Table 2).
+Based upon tolerability and clinical response, additional titration to a higher dose (up to the maximum maintenance dose) can be attempted in weekly increments by 25 mg to 50 mg once daily, up to the maximum recommended maintenance dose for each range of body weight [see Table 2].
 
 Table 2: Monotherapy Target Once Daily Maintenance Dosing for Patients 2 to Less Than 10 Years
 
@@ -37,7 +39,7 @@ Table 2: Monotherapy Target Once Daily Maintenance Dosing for Patients 2 to Less
 | 32 to 38 | 250 | 350 |
 | Greater than 38 | 250 | 400 |
 
-## 2.2 Adjunctive Therapy Use
+Adjunctive Therapy Use
 
 Adults (17 Years of Age and Older) - Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
 
@@ -58,6 +60,23 @@ Dose titration should be guided by clinical outcome.
 If required, longer intervals between dose adjustments can be used.
 
 In the study of primary generalized tonic-clonic seizures, the assigned dose of 6 mg/kg once daily was reached at the end of 8 weeks [see Clinical Studies (14.3, 14.4, and 14.5)].
+
+## 2.2 Migraine
+
+The recommended total daily dose of QUDEXY XR as treatment for prophylaxis of migraine headache in adults and adolescents 12 years of age and older is 100 mg once daily.
+The recommended titration rate for QUDEXY XR for migraine prophylaxis to 100 mg/day is:
+
+Table 3: Migraine Prophylaxis Titration Schedule for Adults and Adolescents 12 years of Age and Older
+
+|  | QUDEXY XR Once Daily Dose |
+| --- | --- |
+| Week 1 | 25 mg |
+| Week 2 | 50 mg |
+| Week 3 | 75 mg |
+| Week 4 | 100 mg |
+
+Dose and titration rate should be guided by clinical outcome.
+If required, longer intervals between dose adjustments can be used.
 
 ## 2.3 Dose Modifications in Patients with Renal Impairment
 

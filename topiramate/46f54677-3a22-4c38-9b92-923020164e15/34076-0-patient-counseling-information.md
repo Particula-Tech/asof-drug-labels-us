@@ -1,9 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise patients and caregivers to read the FDA-approved patient labeling (Medication Guide).
-See FDA-approved Medication Guide.
-Inform patients and their caregivers of the availability of a Medication Guide, and instruct them to read this prior to taking Qudexy XR.
-Instruct patients to take QUDEXY XR only as prescribed.
 
 Administration Instructions
 
@@ -40,17 +37,17 @@ Discuss the appropriate level of caution with their patients, before patients wi
 Fetal Toxicity
 
 Counsel pregnant women and women of childbearing potential that use of topiramate during pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
-There may also be risks to the fetus from chronic metabolic acidosis with use of QUDEXY XR during pregnancy [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1 and 8.9)].
+Also inform patients that infants exposed to topiramate monotherapy in utero may be small for their gestational age.
+There may also be risks to the fetus from chronic metabolic acidosis with use of QUDEXY XR during pregnancy [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
 
 When appropriate, prescribers should counsel pregnant women and women of childbearing potential about alternative therapeutic options.
 This is particularly important when QUDEXY XR use is considered for a condition not usually associated with permanent injury or death.
-
 Advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using topiramate, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Drug Interactions (7.1)].
 
 Encourage pregnant women using topiramate to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number, 1-888-233-2334.
-Information about the North American Drug Pregnancy Registry can be found at http://www.massgeneral.org/aed/ [see Use in Specific Populations (8.1)].
+Information about the North American Drug Pregnancy Registry can be found at http://www.aedpregnancyregistry.org [see Use in Specific Populations (8.1)].
 
 Hyperammonemia and Encephalopathy
 
