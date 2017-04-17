@@ -55,13 +55,3 @@ Inform patients that moxifloxacin hydrochloride tablets should be taken at least
 
 Plague Studies Inform patients given moxifloxacin for plague that efficacy studies could not be conducted in humans for feasibility reasons.
 Therefore, approval for plague was based on efficacy studies conducted in animals.
-
-Rx only
-
-Manufactured by:
-
-Dr. Reddy’s Laboratories Limited
-
-Bachupally – 500 090 INDIA
-
-Revised: 0816

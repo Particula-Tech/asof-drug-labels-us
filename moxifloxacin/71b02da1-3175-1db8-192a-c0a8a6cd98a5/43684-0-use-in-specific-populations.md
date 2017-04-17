@@ -47,59 +47,10 @@ In lactating rats given a single oral dose of 4.59 mg/kg moxifloxacin (approxima
 
 Effectiveness in pediatric patients and adolescents less than 18 years of age has not been established.
 Moxifloxacin causes arthropathy in juvenile animals.
-Limited information on the safety of moxifloxacin in 301 pediatric patients is available from the cIAI trial [see Boxed Warning, Warnings and Precautions (5.9) and Nonclinical Toxicology (13.2)].
+Limited information on the safety of moxifloxacin in 301 pediatric patients is available from the cIAI trial [see Boxed Warning, Warnings and Precautions (5.10) and Nonclinical Toxicology (13.2)].
 
-Active Controlled Trial in Complicated Intra-Abdominal Infection (cIAI)
-
-The safety and efficacy of moxifloxacin in pediatric patients for the treatment of cIAI has not been demonstrated.
-
-Pediatric patients 3 months to <18 years of age (mean age of 12 ± 4 years) were enrolled in a single randomized, doubleblind, active controlled trial in cIAI including appendicitis with perforation, abscesses and peritonitis.
-
-Pediatric patients were randomized (2:1) to receive either moxifloxacin or comparator.
-This study enrolled 451 patients who received study medication, 301 treated with moxifloxacin, and 150 with comparator.
-Of the 301 pediatric patients treated with moxifloxacin, 15 were below the age of 6 years and 286 were between the ages of 6 to <18 years.
-
-Patients received sequential intravenous/oral moxifloxacin or comparator (intravenous ertapenem followed by oral amoxicillin/clavulanate) for 5 to 14 days (mean duration was 9 days with a range of 1 to 24 days).
-
-The overall adverse reaction profile in pediatric patients was comparable to that of adult patients.
-The most frequently occurring adverse reactions in pediatric patients treated with moxifloxacin were QT prolongation 9.3% (28/301), vomiting, 6.6% (20/301) diarrhea 3.7% (11/301), arthralgia 3.0% (9/301), and phlebitis 2.7% (8/301) (see Table 5).
-Discontinuation of study drug due to an adverse reaction was reported in 5.3% (16/301) of moxifloxacin -treated patients versus 1.3% (2/150) of comparator-treated patients.
-The adverse reaction profile of moxifloxacin or comparator was similar across all age groups studied.
-
-Musculoskeletal adverse reactions were monitored and followed up to 5 years after the end of study treatment.
-The rates of musculoskeletal adverse reactions were 4.3% (13/301) in the moxifloxacin -treated group versus 3.3% (5/150) in the comparator-treated group.
-The majority of musculoskeletal adverse reactions were reported between 12 and 53 weeks after start of study treatment with complete resolution at the end of the study [see Warnings and Precautions (5.9) and Nonclinical Toxicology (13.2)].
-
-Table 5 Incidence (%) of Selected Adverse Reactions in ≥2% of Pediatric Patients Treated with Moxifloxacin in cIAI Clinical Trial
-
-| System Organ Class | Adverse Reactions | MoxifloxacinN = 301 (%) | ComparatorN = 150 (%) |
-| --- | --- | --- | --- |
-| Gastrointestinal disorders | Abdominal pain | 8 (2.7) | 3 (2) |
-|  | Diarrhea | 11 (3.7) | 1 (0.7) |
-|  | Vomiting | 20 (6.6) | 12 (8) |
-| General disorders andadministration site conditions | Pyrexia | 6 (2) | 4 (2.7) |
-| Investigations | Aspartate aminotransferase increased | 2 (0.7) | 3 (2) |
-|  | Electrocardiogram QT prolonged | 28 (9.3) | 4 (2.7) |
-| Musculoskeletal andconnective tissue disorders | Arthralgia | 9 (3) | 2 (1.3) |
-| Nervous system disorders | Headache | 6 (2) | 2 (1.3) |
-| Vascular disorders | Phlebitis | 8 (2.7) | 0 (0) |
-
-Clinical response was assessed at the test-of-cure visit (28 to 42 days after end of treatment).
-The clinical response rates observed in the modified intent to treat population were 83.9% (208/248) for moxifloxacin and 95.5% (127/133) for comparator; see Table 6.
-
-Table 6: Clinical Response Rates at 28–42 Days After End of Treatment in Pediatric Patients with cIAI
-
-|  | Moxifloxacinn (%) | Comparatorn (%) | Difference2(95% CI) |
-| --- | --- | --- | --- |
-| mITT Population1 | N=248 | N=133 |  |
-| Cure | 208 (83.9) | 127 (95.5) | -12.2 (-17.9, -6.4) |
-| Failure | 17 (6.9) | 3 (2.3) |  |
-| Indeterminate | 21 (8.5) | 3 (2.3) |  |
-| Missing | 2 (0.8) | 0 |  |
-
-1 The modified intent-to-treat (mITT) population is defined as all subjects who were treated with at least one dose of study medication and who have at least one pre-treatment causative organism from the intra-abdominal site of infection or from blood cultures.
-
-2 Difference in clinical cure rates (Moxifloxacin - Comparator) and 95% confidence intervals, presented as percentages, are based on stratified analysis by age group using Mantel-Haenszel methods.
+Information describing a clinical study in cIAI in which efficacy was not demonstrated in pediatric patients is approved for Bayer Healthcare Pharmaceuticals Inc.’s AVELOX (moxifloxacin hydrochloride).
+However, due to Bayer Healthcare Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
