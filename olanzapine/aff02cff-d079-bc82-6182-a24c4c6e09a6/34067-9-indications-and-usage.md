@@ -7,7 +7,7 @@ Efficacy was established in three clinical trials in adult patients with schizop
 In adolescent patients with schizophrenia (ages 13 to 17), efficacy was established in one 6-week trial [see Clinical Studies (14.1)].
 
 When deciding among the alternative treatments available for adolescents, clinicians should consider the increased potential (in adolescents as compared with adults) for weight gain and dyslipidemia.
-Clinicians should consider the potential long-term risks when prescribing to adolescents, and in many cases this may lead them to consider prescribing other drugs first in adolescents [see Warnings and Precautions (5.4)].
+Clinicians should consider the potential long-term risks when prescribing to adolescents, and in many cases this may lead them to consider prescribing other drugs first in adolescents [see Warnings and Precautions (5.5)].
 
 ## 1.2 Bipolar I Disorder (Manic or Mixed Episodes)
 
@@ -18,7 +18,7 @@ Efficacy was established in three clinical trials in adult patients with manic o
 In adolescent patients with manic or mixed episodes associated with bipolar I disorder (ages 13 to 17), efficacy was established in one 3-week trial [see Clinical Studies (14.2)].
 
 When deciding among the alternative treatments available for adolescents, clinicians should consider the increased potential (in adolescents as compared with adults) for weight gain and dyslipidemia.
-Clinicians should consider the potential long-term risks when prescribing to adolescents, and in many cases this may lead them to consider prescribing other drugs first in adolescents [see Warnings and Precautions (5.4].
+Clinicians should consider the potential long-term risks when prescribing to adolescents, and in many cases this may lead them to consider prescribing other drugs first in adolescents [see Warnings and Precautions (5.5)].
 
 ### Adjunctive Therapy to Lithium or Valproate
 

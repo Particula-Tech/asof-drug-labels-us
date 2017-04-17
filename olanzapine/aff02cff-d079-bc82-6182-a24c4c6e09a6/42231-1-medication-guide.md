@@ -89,9 +89,6 @@ Olanzapine orally disintegrating tabletsare prescription medicine used to treat:
 Olanzapine orally disintegrating tablets have not been approved for use in children under 13 years of age.
 Olanzapine in combination with fluoxetine has not been approved for use in children under 10 years of age.
 
-Safety and effectiveness information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s olanzapine orally disintegrating tablets.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 The symptoms of schizophrenia include hearing voices, seeing things that are not there, having beliefs that are not true, and being suspicious or withdrawn.
 
 The symptoms of Bipolar I Disorder include alternating periods of depression and high or irritable mood, increased activity and restlessness, racing thoughts, talking fast, impulsive behavior, and a decreased need for sleep.
@@ -178,6 +175,9 @@ Serious side effects may happen when you take olanzapine orally disintegrating t
   - rigid muscles
   - confusion
   - changes in your breathing, heartbeat, and blood pressure
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS): DRESS can occur with olanzapine.
+  Features of DRESS may include rash, fever, swollen glands and other internal organ involvement such as liver, kidney, lung and heart.
+  DRESS is sometimes fatal; therefore, tell your doctor immediately if you experience any of these signs.
 - Tardive Dyskinesia: This condition causes body movements that keep happening and that you can not control.
   These movements usually affect the face and tongue.
   Tardive dyskinesia may not go away, even if you stop taking olanzapine orally disintegrating tablets.
@@ -234,8 +234,6 @@ Orally Disintegrating Tablets — aspartame, colloidal silicon dioxide, crospovi
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-To reorder additional medguides, please contact Dr. Reddy’s Customer Service at 1-866-733-3952.
-
 Rx Only
 
 Manufactured by:
@@ -244,4 +242,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 0815
+Revised: 0317
+
+Dispense with Medication Guide available at:www.drreddys.com/medguide/olanzapineodtabs.pdf
