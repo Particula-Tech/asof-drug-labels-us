@@ -26,7 +26,7 @@ Rebound or withdrawal symptoms may occur over varying time periods, depending in
 
 The syndrome of withdrawal from sedative/hypnotic/anxiolytic drugs can appear as any combination of irritability, anxiety, agitation, insomnia, tremor, abdominal cramps, muscle cramps, vomiting, sweating, flu-like symptoms without fever, and occasionally, even as seizures.
 
-Possible Concerns Related to Buspirone’s Binding to Dopamine Receptors:
+Possible Concerns Related to Buspirone's Binding to Dopamine Receptors:
 
 Because buspirone can bind to central dopamine receptors, a question has been raised about its potential to cause acute and chronic changes in dopamine-mediated neurological function (e.g., dystonia, pseudo-parkinsonism, akathisia, and tardive dyskinesia).
 Clinical experience in controlled trials has failed to identify any significant neuroleptic-like activity; however, a syndrome of restlessness, appearing shortly after initiation of treatment, has been reported in some small fraction of buspirone-treated patients.

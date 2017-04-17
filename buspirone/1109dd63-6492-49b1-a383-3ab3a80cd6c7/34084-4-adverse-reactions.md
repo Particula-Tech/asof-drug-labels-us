@@ -76,7 +76,7 @@ In the absence of appropriate controls in some of the studies, a causal relation
 The list includes all undesirable events reasonably associated with the use of the drug.
 
 The following enumeration by organ system describes events in terms of their relative frequency of reporting in this data base.
-Events of major clinical importance are also described in the PRECAUTIONSsection.
+Events of major clinical importance are also described in the PRECAUTIONS section.
 
 The following definitions of frequency are used: Frequent adverse events are defined as those occurring in at least 1/100 patients.
 Infrequent adverse events are those occurring in 1/100 to 1/1000 patients, while rare events are those occurring in less than 1/1000 patients.

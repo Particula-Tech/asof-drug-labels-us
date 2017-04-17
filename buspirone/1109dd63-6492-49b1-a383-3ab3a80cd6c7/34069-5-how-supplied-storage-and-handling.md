@@ -26,7 +26,11 @@ The bisected side is debossed with 'ZE', on one bisect and '38' on other bisect 
 
 NDC 65841-783-14 in bottle of 60 tablets
 
+NDC 65841-783-01 in bottle of 100 tablets
+
 NDC 65841-783-28 in bottle of 180 tablets
+
+NDC 65841-783-05 in bottle of 500 tablets
 
 NDC 65841-783-10 in bottle of 1000 tablets
 
@@ -52,6 +56,6 @@ Dispense in a tight, light-resistant container.
 
 1. American Psychiatric Association, Ed.: Diagnostic and Statistical Manual of Mental Disorders—III, American Psychiatric Association, May 1980.
 
-Desyrel® is the registered trademark of Bristol Myers Squibb Company.
+Desyrel®is the registered trademark of Bristol Myers Squibb Company.
 
 Synthroid® is the registered trademark of Abbott Laboratories
