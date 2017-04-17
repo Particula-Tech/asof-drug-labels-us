@@ -13,6 +13,9 @@ Talk with your doctor.
 
 Esomeprazole magnesium delayed-release capsules can cause serious side effects, including:
 
+- A type of kidney problem (acute interstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including esomeprazole magnesium delayed-release capsules, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with esomeprazole magnesium delayed-release capsules.
+  Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - Diarrhea.
   Esomeprazole magnesium delayed-release capsules may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
@@ -20,9 +23,13 @@ Esomeprazole magnesium delayed-release capsules can cause serious side effects, 
 Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
 
 - Bone fractures.
-  People who take multiple daily doses of Proton Pump Inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
+  People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
   You should take esomeprazole magnesium delayed-release capsules exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
   Talk to your doctor about your risk of bone fracture if you take esomeprazole magnesium delayed-release capsules.
+- Certain types of lupus erythematosus.
+  Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
+  Some people who take PPI medicines, including esomeprazole magnesium delayed-release capsules, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
+  Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
 
 Esomeprazole magnesium delayed-release capsules can have other serious side effects.
 See “What are the possible side effects of esomeprazole magnesium delayed-release capsules?”
@@ -54,14 +61,14 @@ Do not take esomeprazole magnesium delayed-release capsules if you:
 
 - are allergic to esomeprazole magnesium or any of the ingredients in esomeprazole magnesium delayed-release capsules.
   See the end of this Medication Guide for a complete list of ingredients in esomeprazole magnesium delayed-release capsules.
-- are allergic to any other Proton Pump Inhibitor (PPI) medicine.
+- are allergic to any other PPI medicine.
 
 What should I tell my doctor before taking esomeprazole magnesium delayed-release capsules?
 
 Before you take esomeprazole magnesium delayed-release capsules, tell your doctor if you:
 
-- have been told that you have low magnesium levels in your blood
-- have liver problems
+- have been told that you have low magnesium levels in your blood.
+- have liver problems.
 - are pregnant or plan to become pregnant.
   It is not known if esomeprazole magnesium delayed-release capsules can harm your unborn baby.
 - are breastfeeding or planning to breastfeed.
@@ -116,17 +123,13 @@ What are the possible side effects of esomeprazole magnesium delayed-release cap
 Esomeprazole magnesium delayed-release capsules can cause serious side effects, including:
 
 - See “What is the most important information I should know about esomeprazole magnesium delayed-release capsules?”
-- Chronic (lasting a long time) inflammation of the stomach lining (Atrophic Gastritis).
-  Using esomeprazole magnesium delayed-release capsules for a long period of time may increase the risk of inflammation to your stomach lining.
-  You may or may not have symptoms.
-  Tell your doctor if you have stomach pain, nausea, vomiting, or weight loss.
 - Vitamin B-12 deficiency.
   Esomeprazole magnesium reduces the amount of acid in your stomach.
   Stomach acid is needed to absorb vitamin B-12 properly.
   Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on esomeprazole magnesium for a long time (more than 3 years).
 - Low magnesium levels in your body.
   This problem can be serious.
-  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
   You may or may not have symptoms of low magnesium.
 
@@ -232,4 +235,8 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0416
+Revised: 1216
+
+Dispense with medication guide available at:
+
+www.drreddys.com/medguide/esomeprazolecaps.pdf

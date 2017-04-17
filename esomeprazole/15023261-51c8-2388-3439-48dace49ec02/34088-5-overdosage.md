@@ -13,4 +13,4 @@ Since esomeprazole is extensively protein bound, it is not expected to be remove
 In the event of overdosage, treatment should be symptomatic and supportive.
 
 As with the management of any overdose, the possibility of multiple drug ingestion should be considered.
-For current information on treatment of any drug overdose contact Med Com number 1-888-375-3784.
+For current information on treatment of any drug overdose contact Dr. Reddy's at 1-888-375-3784.

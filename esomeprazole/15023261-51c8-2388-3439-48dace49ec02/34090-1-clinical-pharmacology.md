@@ -19,15 +19,15 @@ Table 3: Effect on Intragastric pH on Day 5 (N=36)
 
 | Parameter | Esomeprazole magnesium 40 mg | Esomeprazole magnesium 20 mg |
 | --- | --- | --- |
-| % Time Gastric | 70%* | 53% |
-| pH >4† (Hours) | (16.8 h) | (12.7 h) |
+| % Time Gastric | 70%2 | 53% |
+| pH >41 (Hours) | (16.8 h) | (12.7 h) |
 | Coefficient of variation | 26% | 37% |
-| Median 24 Hour pH | 4.9* | 4.1 |
+| Median 24 Hour pH | 4.92 | 4.1 |
 | Coefficient of variation | 16% | 27% |
 
-† Gastric pH was measured over a 24-hour period
+1 Gastric pH was measured over a 24-hour period
 
-*p< 0.01 esomeprazole magnesium 40 mg vs esomeprazole magnesium 20 mg
+2p< 0.01 esomeprazole magnesium 40 mg vs esomeprazole magnesium 20 mg
 
 In a second study, the effect on intragastric pH of esomeprazole magnesium 40 mg administered once daily over a five day period was similar to the first study, (% time with pH > 4 was 68% or 16.3 hours).
 
@@ -77,20 +77,22 @@ The results are shown in the Table 4:
 
 Table 4: Pharmacokinetic Parameters of Esomeprazole magnesium on Day 5 Following Oral Dosing for 5 Days
 
-| Parameter* (CV) | Esomeprazole magnesium 40 mg | Esomeprazole magnesium 20 mg |
+| Parameter1 (CV) | Esomeprazole magnesium 40 mg | Esomeprazole magnesium 20 mg |
 | --- | --- | --- |
 | AUC (μmol.h/L) | 12.6 (42%) | 4.2 (59%) |
 | Cmax (μmol/L) | 4.7 (37%) | 2.1 (45%) |
 | Tmax (h) | 1.6 | 1.6 |
 | t1/2(h) | 1.5 | 1.2 |
 
-*Values represent the geometric mean, except the Tmax, which is the arithmetic mean; CV = Coefficient of variation
+1 Values represent the geometric mean, except the Tmax, which is the arithmetic mean; CV = Coefficient of variation
 
 Distribution
 
 Esomeprazole is 97% bound to plasma proteins.
 Plasma protein binding is constant over the concentration range of 2 to 20 µmol/L.
 The apparent volume of distribution at steady state in healthy volunteers is approximately 16 L.
+
+Elimination
 
 Metabolism
 
@@ -109,7 +111,7 @@ The plasma elimination half-life of esomeprazole is approximately 1 to 1.5 hours
 Less than 1% of parent drug is excreted in the urine.
 Approximately 80% of an oral dose of esomeprazole is excreted as inactive metabolites in the urine, and the remainder is found as inactive metabolites in the feces.
 
-Pharmacokinetics: Combination Therapy with Antimicrobials
+Combination Therapy with Antimicrobials
 
 Esomeprazole magnesium 40 mg once daily was given in combination with clarithromycin 500 mg twice daily and amoxicillin 1000 mg twice daily for 7 days to 17 healthy male and female subjects.
 The mean steady state AUC and Cmax of esomeprazole increased by 70% and 18%, respectively during triple combination therapy compared to treatment with esomeprazole alone.
@@ -129,28 +131,32 @@ Concomitant Use with Mycophenolate Mofetil
 
 Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
 
-Special Populations
+SpecificPopulations
 
-Geriatric
+Age: Geriatric Population
 
 The AUC and Cmax values were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
 Dosage adjustment based on age is not necessary.
 
-Pediatric (1 to 11 month of age)
+Age: Pediatric Population
+
+1 to 11 month of Age
 
 The pharmacokinetic parameters following repeated dose administration of 1 mg/kg esomeprazole in 1 to 11 month old infants are summarized in Table 5.
 
-Table 5: Summary of PK parameters in 1 month to < 1 year Olds with GERD Following 7/8 Days of Once-Daily Oral Esomeprazole Treatment
+Table 5: Summary of PK Parameters in 1 Month to < 1 Year Olds with GERD Following 7/8 Days of Once-Daily Oral Esomeprazole Treatment
 
 |  | 1 month to < 1 year |
 | --- | --- |
 | Parameter | 1 mg/kg |
-| AUC (μmol˙h/L) (n=7)* | 3.51 |
-| Css,max (μmol/L) (n=15)* | 0.87 |
-| t½ (hours) (n=8)* | 0.93 |
-| tmax (hours) (n=15)** | 3 |
+| AUC (μmol˙h/L) (n=7)1 | 3.51 |
+| Css,max (μmol/L) (n=15)1 | 0.87 |
+| t½ (hours) (n=8)1 | 0.93 |
+| tmax (hours) (n=15)2 | 3 |
 
-*Geometric mean; ** Median
+1Geometric mean;
+
+2 Median
 
 Subsequent pharmacokinetic simulation analyses showed that a dosage regimen of 2.5 mg once-daily for pediatric patients with body weight 3 to 5 kg, 5 mg once-daily for >5 to 7.5 kg and 10 mg once-daily for >7.5 to 12 kg would achieve comparable steady-state plasma exposures (AUC) to that observed after 10 mg in 1 to 11 year olds, and 20 mg in 12 to 18 year-olds as well as adults.
 
@@ -167,13 +173,15 @@ Table 6: Summary of PK Parameters in 1 to 11 Year Olds with GERD following 5 Day
 | ­ | ­ 1 to 5 Year Olds ­ | ­ 6 to 11 Year Olds ­ |  |
 | --- | --- | --- | --- |
 | ­ Parameter ­ | ­ 10 mg (N=8) ­ | ­ 10 mg (N=7) ­ | ­ 20 mg (N=6) ­ |
-| ­ AUC (μmol˙h/L)­* | ­ 4.83­ | ­ 3.70­ | ­ 6.28­ |
-| ­ Cmax (μmol/L)* ­ | ­ 2.98­ | ­ 1.77­ | ­ 3.73­ |
-| ­ tmax (h)† ­ | ­ 1.44­ | ­ 1.79­ | ­ 1.75­ |
-| ­ t½λz (h)* ­ | ­ 0.74­ | ­ 0.88­ | ­ 0.73­ |
-| ­ Cl/F (L/h)* ­ | ­ 5.99­ | ­ 7.84­ | ­ 9.22 |
+| ­ AUC (μmol˙h/L)­1 | ­ 4.83­ | ­ 3.70­ | ­ 6.28­ |
+| ­ Cmax (μmol/L)­1 ­ | ­ 2.98­ | ­ 1.77­ | ­ 3.73­ |
+| ­ tmax (h)2 ­ | ­ 1.44­ | ­ 1.79­ | ­ 1.75­ |
+| ­ t½λz (h)1 ­ | ­ 0.74­ | ­ 0.88­ | ­ 0.73­ |
+| ­ Cl/F (L/h)1 ­ | ­ 5.99­ | ­ 7.84­ | ­ 9.22 |
 
-*Geometric mean; †arithmetic mean
+1Geometric mean;
+
+2Arithmetic mean
 
 12 to 17 Years of Age
 
@@ -183,7 +191,7 @@ Mean Cmax and AUC values of esomeprazole were not affected by body weight or age
 Overall, esomeprazole magnesium pharmacokinetics in adolescent patients aged 12 to 17 years were similar to those observed in adult patients with symptomatic GERD.
 See Table 7.
 
-Table 7: Comparison of PK Parameters in 12 to 17 Year Olds with GERD and Adults with Symptomatic GERD Following the Repeated Daily Oral Dose Administration of Esomeprazole*
+Table 7: Comparison of PK Parameters in 12 to 17 Year Olds with GERD and Adults with Symptomatic GERD Following the Repeated Daily Oral Dose Administration of Esomeprazole1
 
 | ­ | ­ 12 to 17 Year Olds (N=28) ­ | ­ Adults (N=36) ­ |  |  |
 | --- | --- | --- | --- | --- |
@@ -195,7 +203,7 @@ Table 7: Comparison of PK Parameters in 12 to 17 Year Olds with GERD and Adults 
 
 Data presented are geometric means for AUC, Cmax and t½lz, and median value for tmax.
 
-*Duration of treatment for 12 to 17 year olds and adults were 8 days and 5 days, respectively.
+1Duration of treatment for 12 to 17 year olds and adults were 8 days and 5 days, respectively.
 Data were obtained from two independent studies.
 
 Gender
@@ -205,10 +213,10 @@ Dosage adjustment based on gender is not necessary.
 
 Hepatic Insufficiency
 
-The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child Pugh A), moderate (Child Pugh Class B), and severe (Child Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
+The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child-Pugh A), moderate (Child-Pugh Class B), and severe (Child-Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
 In patients with mild and moderate hepatic insufficiency, the AUCs were within the range that could be expected in patients with normal liver function.
 In patients with severe hepatic insufficiency the AUCs were 2 to 3 times higher than in the patients with normal liver function.
-No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2)].
+No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child-Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child-Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2)].
 
 Renal Insufficiency
 

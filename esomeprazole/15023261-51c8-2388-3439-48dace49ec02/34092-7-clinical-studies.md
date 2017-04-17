@@ -7,34 +7,34 @@ The healing rates at Weeks 4 and 8 were evaluated and are shown in the Table 9:
 
 Table 9: Erosive Esophagitis Healing Rate (Life-Table Analysis)
 
-| Study | No. of Patients | Treatment Groups | Week 4 | Week 8 | Significance Level* |
+| Study | No. of Patients | Treatment Groups | Week 4 | Week 8 | Significance Level1 |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 588 588 | Esomeprazole magnesium 20 mg Omeprazole 20 mg | 68.7% 69.5% | 90.6% 88.3% | N.S. |
 | 2 | 654 656 650 | Esomeprazole magnesium 40 mg Esomeprazole magnesium 20 mg Omeprazole 20 mg | 75.9% 70.5% 64.7% | 94.1% 89.9% 86.9% | p < 0.001 p< 0.05 |
 | 3 | 576 572 | Esomeprazole magnesium 40 mg Omeprazole 20 mg | 71.5% 68.6% | 92.2% 89.8% | N.S. |
 | 4 | 1216 1209 | Esomeprazole magnesium 40 mg Omeprazole 20 mg | 81.7% 68.7% | 93.7% 84.2% | p < 0.001 |
 
-*log-rank test vs. omeprazole 20 mg
+1log-rank test vs. omeprazole 20 mg
 
 N.S. = not significant (p > 0.05).
 
 In these same studies of patients with erosive esophagitis, sustained heartburn resolution and time to sustained heartburn resolution were evaluated and are shown in the Table 10:
 
-Table 10: Sustained Resolution‡ of Heartburn (Erosive Esophagitis Patients)
+Table 10: Sustained Resolution1 of Heartburn (Erosive Esophagitis Patients)
 
-|  |  |  | Cumulative Percent# with Sustained Resolution |  |  |
+|  |  |  | Cumulative Percent2 with Sustained Resolution |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Study | No. of Patients | Treatment Groups | Day 14 | Day 28 | SignificanceLevel * |
+| Study | No. of Patients | Treatment Groups | Day 14 | Day 28 | SignificanceLevel 3 |
 | 1 | 573 555 | Esomeprazole magnesium 20 mg Omeprazole 20 mg | 64.3% 64.1% | 72.7% 70.9% | N.S. |
 | 2 | 621 620 626 | Esomeprazole magnesium 40 mg Esomeprazole magnesium 20 mg Omeprazole 20 mg | 64.8% 62.9% 56.5% | 74.2% 70.1% 66.6% | p <0.001 |
 | 3 | 568 551 | Esomeprazole magnesium 40 mg Omeprazole 20 mg | 65.4% 65.5% | 73.9% 73.1% | N.S. |
 | 4 | 1187 1188 | Esomeprazole magnesium 40 mg Omeprazole 20 mg | 67.6% 62.5% | 75.1% 70.8% | p <0.001 |
 
-‡Defined as 7 consecutive days with no heartburn reported in daily patient diary.
+1Defined as 7 consecutive days with no heartburn reported in daily patient diary.
 
-#Defined as the cumulative proportion of patients who have reached the start of sustained resolution
+2Defined as the cumulative proportion of patients who have reached the start of sustained resolution
 
-*log-rank test vs. omeprazole 20 mg
+3log-rank test vs. omeprazole 20 mg
 
 N.S. = not significant (p > 0.05).
 
@@ -114,7 +114,7 @@ See Table 11.
 No additional benefit was seen with esomeprazole magnesium 40 mg over esomeprazole magnesium 20 mg.
 These studies did not demonstrate significant reduction in the development of NSAID-associated duodenal ulcer due to the low incidence.
 
-Table 11: Cumulative percentage of patients without gastric ulcers at 26 weeks:
+Table 11: Cumulative Percentage of Patients without Gastric Ulcers at 26 weeks:
 
 | Study | No. of Patients | Treatment Group | % of Patients Remaining Gastric Ulcer Free1 |
 | --- | --- | --- | --- |
@@ -135,10 +135,10 @@ See Table 13.
 
 Table 13: Adequate Acid Suppression at Final Visit by Dose Regimen
 
-| Esomeprazole magnesium dose at the Month 12 visit | BAO under adequate control at the Month 12 visit (N=20)* |
+| Esomeprazole magnesium dose at the Month 12 visit | BAO under adequate control at the Month 12 visit (N=20)1 |
 | --- | --- |
 | 40 mg twice daily | 13/15 |
 | 80 mg twice daily | 4/4 |
 | 80 mg three times daily | 1/1 |
 
-*One patient was not evaluated.
+1One patient was not evaluated.
