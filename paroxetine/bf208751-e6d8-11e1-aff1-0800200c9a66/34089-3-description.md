@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 BRISDELLE (paroxetine) is an orally administered selective serotonin reuptake inhibitor (SSRI) for the treatment of moderate to severe VMS associated with menopause.
-It is identified chemically as (-)-trans -4R- (4’-fluorophenyl) - 3S - [(3’, 4’-methylenedioxyphenoxy) methyl] piperidine mesylate and has the empirical formula of C19H20FNO3•CH3SO3H.
+It is identified chemically as (-)- trans -4R- (4’-fluorophenyl) - 3S - [(3’, 4’-methylenedioxyphenoxy) methyl] piperidine mesylate and has the empirical formula of C 19H 20FNO 3•CH 3SO 3H.
 The molecular weight is 425.5 (329.4 as free base).
 The structural formula is:
 

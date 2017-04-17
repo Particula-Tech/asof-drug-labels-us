@@ -12,7 +12,7 @@ Cardiac malformations are a common congenital abnormality.
 These data would suggest that the risk of a cardiac abnormality following paroxetine exposure in the first trimester may increase the risk from 1% to 2%.
 Exposure to SSRIs in late pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding, and/or persistent pulmonary hypertension of the newborn (PPHN).
 No teratogenicity was seen in reproductive development studies conducted in rats and rabbits.
-However, an increase in rat pup deaths was seen during the first 4 days of lactation when dosing occurred during the last trimester of gestation and continued throughout lactation, at a dose approximately equal to the maximum recommended human dose (MRHD) for VMS (7.5 mg) on an mg/m2 basis.
+However, an increase in rat pup deaths was seen during the first 4 days of lactation when dosing occurred during the last trimester of gestation and continued throughout lactation, at a dose approximately equal to the maximum recommended human dose (MRHD) for VMS (7.5 mg) on an mg/m 2 basis.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
 
 Human Data
@@ -39,10 +39,10 @@ Third-Trimester Pregnancy Exposure
 Animal Data
 
 Reproduction studies were performed at doses up to 50 mg/kg/day in rats and 6 mg/kg/day in rabbits administered during organogenesis.
-These doses are approximately 65 (rat) and 16 (rabbit) times the maximum recommended human dose (MRHD) for VMS on an mg/m2 basis.
+These doses are approximately 65 (rat) and 16 (rabbit) times the maximum recommended human dose (MRHD) for VMS on an mg/m 2 basis.
 There were no teratogenic effects.
 However, in rats, there was an increase in pup deaths during the first 4 days of lactation when dosing occurred during the last trimester of gestation and continued throughout lactation.
-This effect occurred at a dose of 1 mg/kg/day or approximately equal to the MRHD for VMS on an mg/m2 basis.
+This effect occurred at a dose of 1 mg/kg/day or approximately equal to the MRHD for VMS on an mg/m 2 basis.
 The no-effect dose for rat pup mortality was not determined.
 The cause of these deaths is unknown.
 

@@ -45,7 +45,7 @@ Use caution if co-administering BRISDELLE with other drugs that inhibit CYP2D6 (
 Monoamine Oxidase Inhibitors (MAOIs) Serious adverse reactions such as serotonin syndrome have been reported in patients receiving a concomitant SSRI and MAOI, in patients started on an SSRI who recently received an MAOI and in patients started on an MAOI who recently received an SSRI.
 Therefore, concomitant use of MAOIs with BRISDELLE or use of BRISDELLE and an MAOI within 14 days of each other is contraindicated [see Dosage and Administration (2.2), Contraindications (4.1) and Warnings and Precautions (5.2)].
 
-Serotonergic Drugs If concomitant use of BRISDELLE with other serotonergic drugs (e.g., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) is clinically warranted, consider the increased risk of serotonin syndrome and carefully observe the patient, particularly during treatment initiation [see Warnings and Precautions (5.2)].
+Serotonergic Drugs If concomitant use of BRISDELLE with other serotonergic drugs (e.g., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) is clinically warranted, consider the increased risk of serotonin syndrome and carefully observe the patient, particularly during treatment initiation [see Warnings and Precautions (5.2)].
 
 An interaction between paroxetine and tryptophan may occur when they are co-administered.
 Adverse experiences, consisting primarily of headache, nausea, sweating, and dizziness, have been reported when tryptophan was administered to patients taking paroxetine.

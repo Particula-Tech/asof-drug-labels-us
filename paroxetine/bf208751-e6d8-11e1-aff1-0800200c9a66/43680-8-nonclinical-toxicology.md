@@ -17,6 +17,6 @@ Paroxetine produced no genotoxic effect in a battery of 5 in vitro and 2 in vivo
 
 Impairment of Fertility
 
-A reduced pregnancy rate was found in reproduction studies in rats at a paroxetine dose of 15 mg/kg/day, which is 19 times the MRHD for VMS on an mg/m2 basis.
+A reduced pregnancy rate was found in reproduction studies in rats at a paroxetine dose of 15 mg/kg/day, which is 19 times the MRHD for VMS on an mg/m 2 basis.
 Irreversible lesions occurred in the reproductive tract of male rats after dosing in toxicity studies for 2 to 52 weeks.
-These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (65 times and 32 times the MHRD for VMS on an mg/m2 basis, respectively).
+These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (65 times and 32 times the MHRD for VMS on an mg/m 2 basis, respectively).

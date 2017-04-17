@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-BRISDELLE® (bris-del)
+BRISDELLE ® (bris-del)
 
 (Paroxetine)
 
@@ -176,6 +176,7 @@ Especially tell your healthcare provider if you take:
 - triptans used to treat migraine headache
 - medicines used to treat mood, anxiety, psychotic or thought disorders, including MAOIs, SSRIs, tricyclics, lithium, buspirone, or antipsychotics
 - tramadol, fentanyl or over-the-counter supplements such as tryptophan or St. John’s Wort
+- amphetamines
 - thioridazine
 - pimozide
 - tamoxifen
@@ -215,7 +216,7 @@ What are the possible side effects of BRISDELLE?
 
 BRISDELLE may cause serious side effects, including:
 
-- See “What is the most important information I should know about BRISDELLE?”
+- See “ What is the most important information I should know about BRISDELLE?”
 
 The most common side effects of BRISDELLE include:
 
@@ -258,9 +259,12 @@ Inactive ingredients: dibasic calcium phosphate, sodium starch glycolate, magnes
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Noven Therapeutics, LLC, Miami, FL 33186.
+Distributed by: Sebela Pharmaceuticals Inc. 645 Hembree Parkway, Suite I
 
-BRISDELLE® is a registered trademark of Noven Therapeutics, LLC. © 2013-2014 Noven Therapeutics, LLC.
-All rights reserved.
+Roswell, GA 30076
 
-Revised 12/2014
+www.sebelapharma.com
+
+BRISDELLE ® is a registered trademark of Sebela International Ltd. © 2017 Sebela Pharmaceuticals Inc. All rights reserved.
+
+Revised 03/2017

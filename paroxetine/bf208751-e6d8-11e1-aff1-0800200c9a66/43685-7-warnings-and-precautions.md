@@ -19,7 +19,7 @@ Families and caregivers of patients being treated with BRISDELLE should be alert
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SSRIs, including paroxetine, alone but particularly with concomitant use of serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort), and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat depression and others such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SSRIs, including paroxetine, alone but particularly with concomitant use of serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort), and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat depression and others such as linezolid and intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Monitor patients for the emergence of serotonin syndrome.
@@ -31,7 +31,7 @@ No reports involved the administration of methylene blue by other routes (such a
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking BRISDELLE.
 BRISDELLE should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.2)].
 
-If concomitant use of BRISDELLE with other serotonergic drugs (e.g., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) is clinically warranted, consider the increased risk of serotonin syndrome and carefully observe the patient, particularly during treatment initiation [see Contraindications (4.1) Drug Interactions (7.3)].
+If concomitant use of BRISDELLE with other serotonergic drugs (e.g., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) is clinically warranted, consider the increased risk of serotonin syndrome and carefully observe the patient, particularly during treatment initiation [see Contraindications (4.1) Drug Interactions (7.3)].
 
 Discontinue BRISDELLE and any concomitant serotonergic agents immediately if the above events occur and initiate supportive symptomatic treatment.
 

@@ -22,12 +22,12 @@ Table 4 Study 1: Changes in the Daily Frequency and Daily Severity of Moderate t
 | n | 289 | 293 |  | 281 | 289 |
 | Median | -4.3 | -3.1 |  | -0.05 | 0.00 |
 | Treatment Difference* | -1.2 |  |  | -0.05 |  |
-| P-value# | <0.01 |  |  | <0.01 |  |
+| P-value # | <0.01 |  |  | <0.01 |  |
 | Change from baseline at Week 12 |  |  |  |  |  |
 | n | 264 | 274 |  | 236 | 253 |
 | Median | -5.9 | -5.0 |  | -0.06 | -0.02 |
 | Treatment Difference* | -0.9 |  |  | -0.04 |  |
-| P-value# | <0.01 |  |  | 0.17 |  |
+| P-value # | <0.01 |  |  | 0.17 |  |
 | MITT population: all consented and randomized subjects with valid baseline daily hot flash diary data who had taken at least 1 dose of study medication and had at least 1 day of on-treatment daily hot flash diary data. * Treatment Difference: the difference between the median changes from baseline. #P-value is obtained from rank-ANCOVA model. |  |  |  |  |  |
 
 Table 5 Study 2: Changes in the Daily Frequency and Daily Severity of Moderate to Severe VMS at Weeks 4 and 12 (MITT Population)
@@ -42,12 +42,12 @@ Table 5 Study 2: Changes in the Daily Frequency and Daily Severity of Moderate t
 | n | 276 | 274 |  | 268 | 271 |
 | Median | -3.8 | -2.5 |  | -0.04 | -0.01 |
 | Treatment Difference* | -1.3 |  |  | -0.03 |  |
-| P-value# | <0.01 |  |  | 0.04 |  |
+| P-value # | <0.01 |  |  | 0.04 |  |
 | Change from baseline at Week 12 |  |  |  |  |  |
 | n | 257 | 244 |  | 245 | 236 |
 | Median | -5.6 | -3.9 |  | -0.05 | 0.00 |
 | Treatment Difference* | -1.7 |  |  | -0.05 |  |
-| P-value# | <0.01 |  |  | <0.01 |  |
+| P-value # | <0.01 |  |  | <0.01 |  |
 | MITT population: all consented and randomized subjects with valid baseline daily hot flash diary data who had taken at least 1 dose of study medication and had at least 1 day of on-treatment daily hot flash diary data. * Treatment Difference: the difference between the median changes from baseline. #P-value is obtained from rank-ANCOVA model. |  |  |  |  |  |
 
 Persistence of benefit at 24 weeks in Study 2 was evaluated with a responder analysis where responders were defined as those patients who achieved ≥ 50% reduction from baseline in the frequency of moderate to severe VMS at Week 24.

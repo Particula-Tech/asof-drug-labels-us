@@ -7,7 +7,7 @@ Instruct patients to read the Medication Guide before starting therapy with BRIS
 - Advise patients, their families, and their caregivers to look for the emergence of suicidality, especially early during treatment [see Boxed Warning and Warnings and Precautions (5.1)].
 - Instruct patients not to take BRISDELLE with an MAOI or within 14 days of stopping an MAOI and allow 14 days after stopping BRISDELLE before starting an MAOI [see Dosage and Administration (2.2) and Contraindications (4.1)].
 - Advise patients not to take BRISDELLE with thioridazine or pimozide [see Contraindications (4.2 and 4.3)].
-- Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of BRISDELLE with triptans, tricyclic antidepressants, linezolid, tramadol, St. John’s Wort, lithium, tryptophan supplements, other serotonergic agents, or antipsychotic drugs [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
+- Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of BRISDELLE with triptans, tricyclic antidepressants, linezolid, tramadol, amphetamines, St. John’s Wort, lithium, tryptophan supplements, other serotonergic agents, or antipsychotic drugs [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
 - Caution patients that efficacy of tamoxifen may be reduced when administered concomitantly and counsel them about the likely benefit of paroxetine for treating VMS vs. the risk of possible decreased tamoxifen effectiveness [see Warnings and Precautions (5.3)].
 - Caution patients about the concomitant use of BRISDELLE and NSAIDs, aspirin, warfarin, and other anticoagulants because combined use of drugs that interfere with serotonin reuptake has been associated with an increased risk of bleeding [see Warnings and Precautions (5.4)].
 - Advise patients that taking BRISDELLE can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
@@ -21,7 +21,10 @@ Instruct patients to read the Medication Guide before starting therapy with BRIS
 - Advise patients to inform their healthcare provider if they are taking, or plan to take, any prescription or over-the-counter drugs, including herbal supplements, because there is a potential for interaction with paroxetine [see Drug Interactions (7.3)].
 - Advise patients that paroxetine, the active ingredient in BRISDELLE, is also the active ingredient in certain other drugs and these medications should not be taken concomitantly [see Indications and Usage (1) and Drug Interactions (7.3)].
 
-Distributed by: Noven Therapeutics, LLC, Miami, FL 33186.
+Distributed by: Sebela Pharmaceuticals Inc., 645 Hembree Parkway, Suite I, Roswell, GA 30076
 
-BRISDELLE® is a registered trademark of Noven Therapeutics, LLC. © 2013-2014 Noven Therapeutics, LLC.
-All rights reserved.
+www.sebelapharma.com
+
+Toll Free 1-844-732-3521
+
+BRISDELLE is a registered trademark of Sebela International Limited. © 2017 Sebela Pharmaceuticals Inc. All rights reserved.
