@@ -26,7 +26,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 0515
+Revised: 1116
 
 or
 
@@ -36,4 +36,4 @@ Dr. Reddy’s Laboratories Limited
 
 Srikakulam - 532 409 INDIA
 
-Revised: 0515
+Revised: 1116
