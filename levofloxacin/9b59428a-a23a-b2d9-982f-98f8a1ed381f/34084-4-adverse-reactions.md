@@ -94,7 +94,7 @@ The relationship of the drugs to these events is not presently established.
 ## 6.3 Postmarketing Experience
 
 Table 6 lists adverse reactions that have been identified during post-approval use of levofloxacin.
-Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Table 6: Postmarketing Reports Of Adverse Drug Reactions
 
@@ -102,15 +102,15 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | --- | --- |
 | Blood and Lymphatic System Disorders | pancytopenia aplastic anemia leukopenia hemolytic anemia [see Warnings and Precautions (5.6)] eosinophilia |
 | Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see Warnings and Precautions (5.6, 5.7)] |
-| Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see Warnings and Precautions (5.4)] |
-| Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreversible) [see Warnings and Precautions (5.3)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see Warnings and Precautions (5.4)] |
+| Psychiatric Disorders | psychosis paranoia isolated reports of suicidal ideation, suicide attempt and completed suicide [see Warnings and Precautions (5.4)] |
+| Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.5)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreversible) [see Warnings and Precautions (5.3)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see Warnings and Precautions (5.4)] |
 | Eye Disorders | uveitis vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.10)] tachycardia |
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic andMediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.6)] |
 | Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.6), (5.8)] |
-| Skin and Subcutaneous TissueDisorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis erythema multiforme [see Warnings and Precautions (5.6)]] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.13)] leukocytoclastic vasculitis |
+| Skin and Subcutaneous TissueDisorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis Acute Generalized Exanthematous Pustulosis (AGEP) fixed drug eruptions erythema multiforme [see Warnings and Precautions (5.6)]] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.13)] leukocytoclastic vasculitis |
 | Musculoskeletal and ConnectiveTissue Disorders | tendon rupture [see Warnings and Precautions (5.2)] muscle injury, including rupture rhabdomyolysis |
 | Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.6)] |
 | General Disorders andAdministration Site Conditions | multi-organ failure pyrexia |

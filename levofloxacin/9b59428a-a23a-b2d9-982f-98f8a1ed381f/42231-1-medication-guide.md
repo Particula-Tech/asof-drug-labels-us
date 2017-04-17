@@ -2,6 +2,8 @@ MEDICATION GUIDE
 
 Levofloxacin Tablets, 250 mg, 500 mg and 750 mg Tablets
 
+(lee'' voe flox' a sin)
+
 Read this Medication Guide before you start taking levofloxacin tablets and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
@@ -237,7 +239,7 @@ Levofloxacin tablets can cause serious side effects, including:
   - skin rash
 
 Skin rash may happen in people taking levofloxacin tablets, even after only 1 dose.
-Stop taking levofloxacin tablets at the first sign of a skin rash and call your healthcare provider.
+Stop taking levofloxacin tablets at the first sign of a skin rash and immediately call your healthcare provider.
 Skin rash may be a sign of a more serious reaction to levofloxacin tablets.
 
 - Liver damage (hepatotoxicity): Hepatotoxicity can happen in people who take levofloxacin tablets.
@@ -351,6 +353,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0816
+Revised: 0317
 
-Dispense the medication guide available at: www.drreddys.com/medguide/levofloxacintabs.pdf
+Dispense the Medication Guide available at: www.drreddys.com/medguide/levofloxacintabs.pdf
