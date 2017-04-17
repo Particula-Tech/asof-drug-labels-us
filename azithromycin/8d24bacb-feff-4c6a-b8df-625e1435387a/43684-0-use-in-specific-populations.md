@@ -36,4 +36,4 @@ The geriatric population may respond with a blunted natriuresis to salt loading.
 The total sodium content from dietary and non-dietary sources may be clinically important with regard to such diseases as congestive heart failure.
 
 Elderly patients may be more susceptible to development of torsades de pointes arrhythmias than younger patients.
-[see Warnings and Precautions (5.3)]
+[see Warnings and Precautions (5.4)]
