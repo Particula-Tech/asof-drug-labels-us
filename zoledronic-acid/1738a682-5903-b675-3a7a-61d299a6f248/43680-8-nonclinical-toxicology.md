@@ -4,9 +4,9 @@
 
 Standard lifetime carcinogenicity bioassays were conducted in mice and rats.
 Mice were given oral doses of zoledronic acid of 0.1, 0.5, or 2 mg/kg/day.
-There was an increased incidence of Harderian gland adenomas in males and females in all treatment groups (at doses ≥0.002 times a human intravenous dose of 4 mg, based on a comparison of relative body surface areas).
+There was an increased incidence of Harderian gland adenomas in males and females in all treatment groups (at doses greater than or equal to 0.002 times a human intravenous dose of 4 mg, based on a comparison of relative body surface areas).
 Rats were given oral doses of zoledronic acid of 0.1, 0.5, or 2 mg/kg/day.
-No increased incidence of tumors was observed (at doses ≤0.2 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas).
+No increased incidence of tumors was observed (at doses less than or equal to 0.2 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas).
 
 Zoledronic acid was not genotoxic in the Ames bacterial mutagenicity assay, in the Chinese hamster ovary cell assay, or in the Chinese hamster gene mutation assay, with or without metabolic activation.
 Zoledronic acid was not genotoxic in the in vivo rat micronucleus assay.

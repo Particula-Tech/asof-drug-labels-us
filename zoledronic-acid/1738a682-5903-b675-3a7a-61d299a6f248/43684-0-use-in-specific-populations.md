@@ -13,8 +13,8 @@ Therefore, there is a theoretical risk of fetal harm (e.g., skeletal and other a
 The impact of variables such as time between cessation of bisphosphonate therapy to conception, the particular bisphosphonate used, and the route of administration (intravenous versus oral) on this risk has not been established.
 If this drug is used during pregnancy or if the patient becomes pregnant while taking or after taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
-In female rats given subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg/day beginning 15 days before mating and continuing through gestation, the number of stillbirths was increased and survival of neonates was decreased in the mid- and high-dose groups (≥0.2 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison).
-Adverse maternal effects were observed in all dose groups (with a systemic exposure of ≥0.07 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison) and included dystocia and periparturient mortality in pregnant rats allowed to deliver.
+In female rats given subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg/day beginning 15 days before mating and continuing through gestation, the number of stillbirths was increased and survival of neonates was decreased in the mid- and high-dose groups (greater than or equal to 0.2 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison).
+Adverse maternal effects were observed in all dose groups (with a systemic exposure of greater than or equal to 0.07 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison) and included dystocia and periparturient mortality in pregnant rats allowed to deliver.
 Maternal mortality may have been related to drug-induced inhibition of skeletal calcium mobilization, resulting in periparturient hypocalcemia.
 This appears to be a bisphosphonate-class effect.
 
@@ -25,11 +25,11 @@ Other adverse fetal effects observed in the high-dose group included reduced len
 Skeletal variations were also observed in the low-dose group (with systemic exposure of 1.2 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison).
 Signs of maternal toxicity were observed in the high-dose group and included reduced body weights and food consumption, indicating that maximal exposure levels were achieved in this study.
 
-In pregnant rabbits given subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg/day during gestation (≤0.5 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas), no adverse fetal effects were observed.
-Maternal mortality and abortion occurred in all treatment groups (at doses ≥0.05 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas).
+In pregnant rabbits given subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg/day during gestation (less than or equal to 0.5 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas), no adverse fetal effects were observed.
+Maternal mortality and abortion occurred in all treatment groups (at doses greater than or equal to 0.05 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas).
 Adverse maternal effects were associated with, and may have been caused by, drug-induced hypocalcemia.
 
-## 8.2 Nursing Mothers
+## 8.3 Nursing Mothers
 
 It is not known whether zoledronic acid is excreted in human milk.
 Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from zoledronic acid injection, a decision should be made to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.

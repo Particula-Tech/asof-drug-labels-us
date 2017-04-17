@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -22,7 +22,7 @@ The most frequently observed adverse events were fever, nausea, constipation, an
 Table 3 provides adverse events that were reported by 10% or more of the 189 patients treated with zoledronic acid injection 4 mg or pamidronate 90 mg from the two HCM trials.
 Adverse events are listed regardless of presumed causality to study drug.
 
-Table 3: Percentage of Patients with Adverse Events ≥10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
+Table 3: Percentage of Patients with Adverse Events greater than or equal to 10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
 
 |  | Zoledronic Acid Injection 4 mg n (%) |  | Pamidronate 90 mg n (%) |  |
 | --- | --- | --- | --- | --- |
@@ -123,7 +123,7 @@ The median duration of exposure for safety analysis for zoledronic acid injectio
 Table 6 describes adverse events that were reported by 10% or more of patients.
 Adverse events are listed regardless of presumed causality to study drug.
 
-Table 6: Percentage of Patients with Adverse Events ≥10% Reported in Three Bone Metastases Clinical Trials by Body System
+Table 6: Percentage of Patients with Adverse Events greater than or equal to 10% Reported in Three Bone Metastases Clinical Trials by Body System
 
 |  | Zoledronic Acid Injection |  | Pamidronate |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -290,4 +290,4 @@ Cases of Stevens-Johnson syndrome and toxic epidermal necrolysis have also been 
 
 Additional adverse reactions reported in postmarketing use include:
 
-CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; uveitis; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive rechallenge; Renal: hematuria, proteinuria; General Disorders and Administration Site: weight increase,influenza-like illness (pyrexia, asthenia, fatigue, or malaise) persisting for greater than 30 days;Laboratory Abnormalities: hyperkalemia, hypernatremia, hypocalcemia (cardiac arrhythmias and neurologic adverse events including seizures, tetany, and numbness have been reported due to severe hypocalcemia).
+CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; uveitis; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive rechallenge; Renal: hematuria, proteinuria; acquired Fanconi syndrome; General Disorders and Administration Site: weight increase,influenza-like illness (pyrexia, asthenia, fatigue, or malaise) persisting for greater than 30 days;Laboratory Abnormalities: hyperkalemia, hypernatremia, hypocalcemia (cardiac arrhythmias and neurologic adverse events including seizures, tetany, and numbness have been reported due to severe hypocalcemia).
