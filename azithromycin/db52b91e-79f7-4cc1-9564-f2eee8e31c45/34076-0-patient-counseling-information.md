@@ -21,9 +21,9 @@ If this occurs, patients should contact their physician as soon as possible.
 
 ## See FDA-approved Patient Labeling
 
-Licensed from Pliva
+Rx only
 
-This product's label may have been updated.
+Licensed from Pliva This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-LAB-0023-17.0
+LAB-0023-18.0
