@@ -57,7 +57,7 @@ The study endpoints were overall response rate (complete response + partial resp
 Responses were classified using the MDS International Working Group (IWG) criteria; patients were required to be RBC and platelet transfusion independent during the time of response.
 Response criteria are given in Table 5:
 
-Table 5 Response Criteria for Phase 3 Trial*
+Table 5 Response Criteria for Phase 3 MDS Trial*
 
 | Complete Response (CR) ≥ 8 weeks | Bone Marrow | On repeat aspirates: • < 5% myeloblasts • No dysplastic changes |
 | --- | --- | --- |

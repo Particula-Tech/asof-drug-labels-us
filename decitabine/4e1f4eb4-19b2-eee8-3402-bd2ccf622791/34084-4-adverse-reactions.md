@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Most Commonly Occurring Adverse Reactions: neutropenia, thrombocytopenia, anemia, fatigue, pyrexia, nausea, cough, petechiae, constipation, diarrhea, and hyperglycemia.Adverse Reactions Most Frequently (≥ 1%) Resulting in Clinical Intervention in the Phase 3 Trial in the decitabine for injection Arm:
+Most Commonly Occurring Adverse Reactions: neutropenia, thrombocytopenia, anemia, fatigue, pyrexia, nausea, cough, petechiae, constipation, diarrhea, and hyperglycemia.Adverse Reactions Most Frequently (≥ 1%) Resulting in Clinical Intervention in the Phase 3 Trials in the decitabine for injection Arm:
 
 - Discontinuation: thrombocytopenia, neutropenia, pneumonia, Mycobacterium avium complex infection, cardio-respiratory arrest, increased blood bilirubin, intracranial hemorrhage, abnormal liver function tests.
 - Dose Delayed: neutropenia, pulmonary edema, atrial fibrillation, central line infection, febrile neutropenia.
@@ -70,9 +70,9 @@ Table 1 Adverse Events Reported in ≥ 5% of Patients in the Decitabine For Inje
 | Catheter site erythema |  | 4 (5) |  | 1 (1) |  |  |  |
 | Catheter site pain |  | 4 (5) |  | 0 (0) |  |  |  |
 | Injection site swelling |  | 4 (5) |  | 0 (0) |  |  |  |
-| Hepatobiliary Disorders |  |  |  |  |  |  |  |
+| Hepatobiliary disorders |  |  |  |  |  |  |  |
 | Hyperbilirubinemia |  | 12 (14) |  | 4 (5) |  |  |  |
-| Infections and Infestations |  |  |  |  |  |  |  |
+| Infections and infestations |  |  |  |  |  |  |  |
 | Pneumonia NOS |  |  | 18 (22) | 11 (14) |  |  |  |
 | Cellulitis |  |  | 10 (12) | 6 (7) |  |  |  |
 | Candidal infection NOS |  |  | 8 (10) | 1 (1) |  |  |  |
@@ -153,7 +153,7 @@ Bone marrow suppression was the most frequent cause of dose reduction, delay and
 Six patients had fatal events associated with their underlying disease and myelosuppression (anemia, neutropenia, and thrombocytopenia) that were considered at least possibly related to drug treatment [See Warnings and Precautions (5.1)].
 Of the 83 decitabine for injection-treated patients, 8 permanently discontinued therapy for adverse events; compared to 1 of 81 patients in the supportive care arm.
 
-In a single-arm study (N=99) decitabine for injection was dosed at 20 mg/m2 intravenous, infused over one hour daily for 5 consecutive days of a 4 week cycle.
+In a single-arm MDS study (N=99) decitabine for injection was dosed at 20 mg/m2 intravenous, infused over one hour daily for 5 consecutive days of a 4 week cycle.
 Table 2 presents all adverse events regardless of causality occurring in at least 5% of patients.
 
 Table 2 Adverse Events Reported in ≥ 5% of Patients in a Single-arm Study*

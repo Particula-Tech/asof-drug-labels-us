@@ -35,8 +35,8 @@ Procedures for proper handling and disposal of antineoplastic drugs should be ap
 Several guidances on this subject have been published.1-4.
 
 Decitabine for injection should be aseptically reconstituted with 10 mL of Sterile Water for Injection (USP); upon reconstitution, each mL contains approximately 5 mg of decitabine at pH 6.7 to 7.3.
-Immediately after reconstitution, the solution should be further diluted with 0.9% Sodium Chloride Injection, 5% Dextrose Injection, or Lactated Ringer’s Injection to a final drug concentration of 0.1 to 1 mg/mL.
-Unless used within 15 minutes of reconstitution, the diluted solution must be prepared using cold (2˚C - 8˚C) infusion fluids and stored at 2˚C - 8˚C (36˚F - 46˚F) for up to a maximum of 7 hours until administration.
+Immediately after reconstitution, the solution should be further diluted with 0.9% Sodium Chloride Injection or 5% Dextrose Injection to a final drug concentration of 0.1 to 1 mg/mL.
+Unless used within 15 minutes of reconstitution, the diluted solution must be prepared using cold (2˚C - 8˚C) infusion fluids and stored at 2˚C - 8˚C (36˚F - 46˚F) for up to a maximum of 4 hours until administration.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Do not use if there is evidence of particulate matter or discoloration.

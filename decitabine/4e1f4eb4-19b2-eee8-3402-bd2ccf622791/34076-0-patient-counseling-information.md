@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Instructions for Patients
+Instructions for Patients
 
 Women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with decitabine for injection and for I month afterwards, and to use effective contraception during this time, [See Warnings and Precautions (5.3)].
 Men should be advised not to father a child while receiving treatment with decitabine for injection, and for 2 months afterwards.
@@ -21,7 +21,7 @@ Dr. Reddy’s Laboratories Inc.,
 
 Princeton, NJ 08540
 
-Revised: 0914
+Revised: 1116
 
 OR
 
@@ -37,4 +37,4 @@ Dr. Reddy’s Laboratories Inc.,
 
 Princeton, NJ 08540
 
-Issued: 0414
+Revised: 1116

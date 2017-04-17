@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.2)]
-
 Decitabine for injection can cause fetal harm when administered to a pregnant woman.
 There are no adequate and well-controlled studies of decitabine for injection in pregnant women.
 The developmental toxicity of decitabine was examined in mice exposed to single IP (intraperitoneal) injections (0, 0.9 and 3 mg/m2, approximately 2% and 7% of the recommended daily clinical dose, respectively) over gestation days 8, 9, 10 or 11.
