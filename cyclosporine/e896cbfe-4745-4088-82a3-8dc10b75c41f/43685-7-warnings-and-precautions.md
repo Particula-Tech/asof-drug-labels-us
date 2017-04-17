@@ -263,13 +263,13 @@ Gengraf® should be discontinued if reversibility (within 25% of baseline) of se
 It is advisable to monitor serum creatinine after an increase of the dose of nonsteroidal anti-inflammatory drug and after initiation of new nonsteroidal anti-inflammatory therapy during Gengraf® treatment.
 
 Blood pressure should be evaluated every 2 weeks during the initial 3 months of therapy and then monthly if the patient is stable, or more frequently when dosage adjustments are made.
-Patients without a history of previous hypertension before initiation of treatment with Gengraf®, should have the drug reduced by 25%-50% if found to have sustained hypertension.
+Patients without a history of previous hypertension before initiation of treatment with Gengraf®, should have the drug reduced by 25% to 50% if found to have sustained hypertension.
 If the patient continues to be hypertensive despite multiple reductions of Gengraf®, then Gengraf® should be discontinued.
 For patients with treated hypertension, before the initiation of Gengraf® therapy, their medication should be adjusted to control hypertension while on Gengraf®.
 Gengraf® should be discontinued if a change in hypertension management is not effective or tolerable.
 
 CBC, uric acid, potassium, lipids, and magnesium should also be monitored every 2 weeks for the first 3 months of therapy, and then monthly if the patient is stable or more frequently when dosage adjustments are made.
-Gengraf® dosage should be reduced by 25%-50% for any abnormality of clinical concern.
+Gengraf® dosage should be reduced by 25% to 50% for any abnormality of clinical concern.
 
 In controlled trials of cyclosporine in psoriasis patients, cyclosporine blood concentrations did not correlate well with either improvement or with side effects such as renal dysfunction.
 

@@ -35,8 +35,8 @@ In the original unit-dose container at controlled room temperature 68°-77°F (2
 
 Sandimmune® is a registered trademark of Novartis Pharmaceuticals Corporation.
 
-© AbbVie Inc. 2015
+© AbbVie Inc. 2017
 
 AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
-03-B247 December, 2015
+03-B486 February, 2017

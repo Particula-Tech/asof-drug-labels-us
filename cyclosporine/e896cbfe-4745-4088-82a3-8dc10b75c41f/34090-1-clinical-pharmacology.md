@@ -106,24 +106,24 @@ Since severe hepatic impairment may result in significantly increased cyclospori
 Pediatric Population
 
 Pharmacokinetic data from pediatric patients administered cyclosporine (MODIFIED) or Sandimmune® are very limited.
-In 15 renal transplant patients aged 3-16 years, cyclosporine whole blood clearance after IV administration of Sandimmune® was 10.6±3.7 mL/min/kg (assay: Cyclo-trac specific RIA).
-In a study of 7 renal transplant patients aged 2-16, the cyclosporine clearance ranged from 9.8-15.5 mL/min/kg.
-In 9 liver transplant patients aged 0.6-5.6 years, clearance was 9.3±5.4 mL/min/kg (assay: HPLC).
+In 15 renal transplant patients aged 3 to 16 years, cyclosporine whole blood clearance after IV administration of Sandimmune® was 10.6±3.7 mL/min/kg (assay: Cyclo-trac specific RIA).
+In a study of 7 renal transplant patients aged 2 to 16, the cyclosporine clearance ranged from 9.8 to 15.5 mL/min/kg.
+In 9 liver transplant patients aged 0.6 to 5.6 years, clearance was 9.3±5.4 mL/min/kg (assay: HPLC).
 
 In the pediatric population, cyclosporine (MODIFIED) also demonstrates an increased bioavailability as compared to Sandimmune®.
-In 7 liver de novo transplant patients aged 1.4-10 years, the absolute bioavailability of cyclosporine (MODIFIED) was 43% (range 30%-68%) and for Sandimmune® in the same individuals absolute bioavailability was 28% (range 17%-42%).
+In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioavailability of cyclosporine (MODIFIED) was 43% (range 30% to 68%) and for Sandimmune® in the same individuals absolute bioavailability was 28% (range 17% to 42%).
 
 | Pediatric Pharmacokinetic Parameters (mean±SD) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Patient Population | Dose/day (mg/d) | Dose/weight (mg/kg/d) | AUC1 (ng·hr/mL) | Cmax (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
 | Stable liver transplant2 |  |  |  |  |  |  |
-| Age 2-8, Dosed TID (N=9) | 101±25 | 5.95±1.32 | 2163±801 | 629±219 | 285±94 | 16.6±4.3 |
-| Age 8-15, Dosed BID (N=8) | 188±55 | 4.96±2.09 | 4272±1462 | 975±281 | 378±80 | 10.2±4.0 |
+| Age 2 to 8, Dosed TID (N=9) | 101±25 | 5.95±1.32 | 2163±801 | 629±219 | 285±94 | 16.6±4.3 |
+| Age 8 to 15, Dosed BID (N=8) | 188±55 | 4.96±2.09 | 4272±1462 | 975±281 | 378±80 | 10.2±4.0 |
 | Stable liver transplant3 |  |  |  |  |  |  |
 | Age 3, Dosed BID (N=1) | 120 | 8.33 | 5832 | 1050 | 171 | 11.9 |
-| Age 8-15, Dosed BID (N=5) | 158±55 | 5.51±1.91 | 4452±2475 | 1013±635 | 328±121 | 11.0±1.9 |
+| Age 8 to 15, Dosed BID (N=5) | 158±55 | 5.51±1.91 | 4452±2475 | 1013±635 | 328±121 | 11.0±1.9 |
 | Stable renal transplant3 |  |  |  |  |  |  |
-| Age 7-15, Dosed BID (N=5) | 328±83 | 7.37±4.11 | 6922±1988 | 1827±487 | 418±143 | 8.7±2.9 |
+| Age 7 to 15, Dosed BID (N=5) | 328±83 | 7.37±4.11 | 6922±1988 | 1827±487 | 418±143 | 8.7±2.9 |
 | 1AUC was measured over one dosing interval 2Assay: Cyclo-trac specific monoclonal radioimmunoassay 3Assay: TDx specific monoclonal fluorescence polarization immunoassay |  |  |  |  |  |  |
 
 Geriatric Population

@@ -71,10 +71,10 @@ In this population the cyclosporine blood trough concentration should be measure
 The initial dose of Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) is 2.5 mg/kg/day, taken twice daily as a divided (BID) oral dose.
 Salicylates, NSAIDs, and oral corticosteroids may be continued.
 (See WARNINGS and PRECAUTIONS, Drug Interactions) Onset of action generally occurs between 4 and 8 weeks.
-If insufficient clinical benefit is seen and tolerability is good (including serum creatinine less than 30% above baseline), the dose may be increased by 0.5-0.75 mg/kg/day after 8 weeks and again after 12 weeks to a maximum of 4 mg/kg/day.
+If insufficient clinical benefit is seen and tolerability is good (including serum creatinine less than 30% above baseline), the dose may be increased by 0.5 to 0.75 mg/kg/day after 8 weeks and again after 12 weeks to a maximum of 4 mg/kg/day.
 If no benefit is seen by 16 weeks of therapy, Gengraf® therapy should be discontinued.
 
-Dose decreases by 25%-50% should be made at any time to control adverse events, e.g., hypertension elevations in serum creatinine (30% above patient's pretreatment level) or clinically significant laboratory abnormalities.
+Dose decreases by 25% to 50% should be made at any time to control adverse events, e.g., hypertension elevations in serum creatinine (30% above patient's pretreatment level) or clinically significant laboratory abnormalities.
 (See WARNINGS and PRECAUTIONS)
 
 If dose reduction is not effective in controlling abnormalities or if the adverse event or abnormality is severe, Gengraf® should be discontinued.

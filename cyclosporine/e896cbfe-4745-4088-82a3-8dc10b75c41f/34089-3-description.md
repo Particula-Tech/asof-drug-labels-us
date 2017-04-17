@@ -23,6 +23,6 @@ cyclosporine, 100 mg, alcohol, USP, absolute, 12.8% v/v (10.1% wt/vol.).
 
 ## Inactive Ingredients
 
-FD&C Blue No. 2, gelatin NF, polyethylene glycol NF, polyoxyl 35 castor oil NF, polysorbate 80 NF, propylene glycol USP, sorbitan monooleate NF, titanium dioxide.
+FD&C Blue No. 2, gelatin NF, polyethylene glycol USP, polyoxyl 35 castor oil NF, polysorbate 80 NF, propylene glycol USP, sorbitan monooleate NF, titanium dioxide.
 
 The chemical structure for cyclosporine USP is:

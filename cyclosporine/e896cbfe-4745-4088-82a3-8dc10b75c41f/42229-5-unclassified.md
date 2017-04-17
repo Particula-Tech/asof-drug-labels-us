@@ -26,7 +26,7 @@ See Graph below.
 Study 654 enrolled 148 patients who remained with active joint counts of 6 or more despite treatment with maximally tolerated methotrexate doses for at least three months.
 Patients continued to take their current dose of methotrexate and were randomized to receive, in addition, one of the following medications: (1) cyclosporine 2.5 mg/kg/day with dose increases of 0.5 mg/kg/day at weeks 2 and 4 if there was no evidence of toxicity and further increases of 0.5 mg/kg/day at weeks 8 and 16 if a <30% decrease in active joint count occurred without any significant toxicity; dose decreases could be made at any time for toxicity or (2) placebo.
 Treatment duration was 24 weeks.
-The mean cyclosporine dose at the last visit was 2.8 mg/kg/day (range: 1.3-4.1).
+The mean cyclosporine dose at the last visit was 2.8 mg/kg/day (range: 1.3 to 4.1).
 See Graph below.
 
 Study 302 enrolled 299 patients with severe active RA, 99% of whom were unresponsive or intolerant to at least one prior major RA drug.
