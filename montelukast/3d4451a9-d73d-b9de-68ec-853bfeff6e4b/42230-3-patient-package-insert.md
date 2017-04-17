@@ -4,6 +4,8 @@ Montelukast Sodium Tablets
 
 Montelukast Sodium Chewable Tablets
 
+(mon te loo' kast soe' dee um)
+
 Read the Patient Information Leaflet that comes with montelukast sodium before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your healthcare provider about your medical condition or your treatment.
@@ -149,6 +151,8 @@ Tell your healthcare provider right away if you or your child have any of these 
 
 • trouble sleeping
 
+• uncontrolled muscle movements
+
 • Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).
 Rarely, this can happen in people with asthma who take montelukast sodium.
 This sometimes happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
@@ -251,8 +255,6 @@ The film coating consists of: hypromellose, iron oxide yellow, iron oxide red, i
 
 People with Phenylketonuria: Montelukast sodium 4 mg (montelukast) chewable tablets contain 0.6 mg of phenylalanine, and montelukast sodium 5 mg (montelukast) chewable tablets contain 0.75 mg of phenylalanine.
 
-To reorder additional patient information sheets, please contact Dr. Reddy’s Customer Service at 1-866-733-3952.
-
 Rx only
 
 Manufactured by:
@@ -261,4 +263,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0615
+Revised: 0217
+
+Dispense with Patient Information Leaflet available at: www.drreddys.com/pi/montelukasttabsandchewtabs.pdf

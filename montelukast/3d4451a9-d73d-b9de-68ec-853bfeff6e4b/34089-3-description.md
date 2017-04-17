@@ -7,8 +7,8 @@ Montelukast sodium USP is described chemically as [R-(E)]-1-[[[1-[3-[2-(7-chloro
 The empirical formula is C35H35CINNaO3S, and its molecular weight is 608.18.
 The structural formula is:
 
-Montelukast sodium USP is a hygroscopic, optically active, white to off-white powder.
-Montelukast sodium USP is soluble in ethanol, methanol, and water and practically insoluble in acetonitrile.
+Montelukast sodium USP is white or almost white amorphous powder, hygroscopic in nature.
+Montelukast Sodium USP is freely soluble in water, methylene chloride and ethanol (96%).
 
 Each 10 mg film-coated montelukast sodium tablet contains 10.4 mg montelukast sodium USP, which is equivalent to 10 mg of montelukast, and the following inactive ingredients: croscarmellose sodium, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate and microcrystalline cellulose.
 The film coating consists of: hypromellose, iron oxide yellow, iron oxide red, iron oxide black, polyethyleneglycol 400 and titanium dioxide.
