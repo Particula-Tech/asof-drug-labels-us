@@ -29,16 +29,17 @@ GLUMETZA is not recommended in pediatric patients below the age of 18 years.
 Clinical studies of GLUMETZA did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
-Assess renal function more frequently in elderly patients [See Warnings and Precautions (5.1) and Dosage and Administration (2.2)]
+Assess renal function more frequently in elderly patients.
+[See Warnings and Precautions (5.1) and Dosage and Administration (2.2)].
 
 ## 8.6 Renal Impairment
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
 GLUMETZA is contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2.
-[See Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)]
+[See Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
 GLUMETZA is not recommended in patients with hepatic impairment.
-[See Warnings and Precautions (5.1)]
+[See Warnings and Precautions (5.1)].

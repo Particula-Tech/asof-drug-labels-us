@@ -12,7 +12,7 @@ Assess renal function prior to initiation of GLUMETZA and periodically thereafte
 
 GLUMETZA is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m2.
 
-Initiation of GLUMETZA in patients with an eGFR between 30 – 45 mL/minute/1.73 m2 is not recommended.
+Initiation of GLUMETZA in patients with an eGFR between 30–45 mL/minute/1.73 m2 is not recommended.
 
 In patients taking GLUMETZA whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit risk of continuing therapy.
 
@@ -25,10 +25,10 @@ If switching from immediate-release metformin to GLUMETZA, initiate GLUMETZA onc
 ## 2.4 Discontinuation for Iodinated Contrast Imaging Procedures
 
 Discontinue GLUMETZA at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
-Re-evaluate eGFR 48 hours after the imaging procedure; restart GLUMETZA if renal function is stable [See Warnings and Precautions (5.1)].
+Re-evaluate eGFR 48 hours after the imaging procedure; restart GLUMETZA if renal function is stable [see Warnings and Precautions (5.1)].
 
 ## 2.5 Important Administration Instructions
 
 Administer GLUMETZA orally, once daily with the evening meal.
 GLUMETZA tablets must be swallowed whole and never split, crushed or chewed.
-If a dose of GLUMETZA is missed, instruct patients not to take two doses the same day and to resume their usual dose of GLUMETZA with the next schedule dose [See Patient Counseling Information (17)].
+If a dose of GLUMETZA is missed, instruct patients not to take two doses the same day and to resume their usual dose of GLUMETZA with the next schedule dose [see Patient Counseling Information (17)].

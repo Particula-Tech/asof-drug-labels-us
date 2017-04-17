@@ -1,4 +1,4 @@
-# Patient Information
+# PATIENT INFORMATION
 
 GLUMETZA (Gloo-met-za)
 
@@ -31,12 +31,12 @@ Call your doctor right away if you have any of the following symptoms, which cou
 Most people who have had lactic acidosis with metformin have other things that, combined with the metformin, led to the lactic acidosis.
 Tell your doctor if you have any of the following, because you have a higher chance for getting lactic acidosis with GLUMETZA if you:
 
-- •have severe kidney problems or your kidneys are affected by certain x-ray tests that use injectable dye.
+- •have severe kidney problems or your kidneys are affected by certain x-ray tests that use injectable dye
 - •have liver problems
 - •drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking
 - •get dehydrated (lose a large amount of body fluids).
   This can happen if you are sick with a fever, vomiting, or diarrhea.
-  Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids
+  Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids.
 - •have surgery
 - •have a heart attack, severe infection, or stroke
 
@@ -64,7 +64,7 @@ Do not take GLUMETZA if you:
 - •are going to get an injection of dye or contrast agents for an x-ray procedure, GLUMETZA may need to be stopped for a short time.
   Talk to your doctor about when you should stop GLUMETZA and when you should start GLUMETZA again.
   See “What is the most important information I should know about GLUMETZA?”
-- •have a condition called metabolic acidosis or diabetic ketoacidosis (increased ketones in your blood or urine).
+- •have a condition called metabolic acidosis or diabetic ketoacidosis (increased ketones in your blood or urine)
 
 What should I tell my doctor before taking GLUMETZA?
 
@@ -78,7 +78,7 @@ Before you take GLUMETZA, tell your doctor if you:
 - •are going to get an injection of dye or contrast agents for an x-ray procedure, GLUMETZA may need to be stopped for a short time.
   Talk to your doctor about when you should stop GLUMETZA and when you should start GLUMETZA again.
 - •have liver problems
-- •have heart problems, including congestive heart failure.
+- •have heart problems, including congestive heart failure
 - •drink alcohol very often, or drink a lot of alcohol in short-term (binge) drinking
 - •are taking insulin
 - •have any other medical conditions
@@ -118,7 +118,7 @@ How should I take GLUMETZA?
 - •If you miss a dose of GLUMETZA, resume dosing according to schedule.
 - •If you take too much GLUMETZA, call your doctor, or go to the nearest hospital emergency room right away.
 
-What are the side effects of GLUMETZA?
+What are the possible side effects of GLUMETZA?
 
 GLUMETZA can cause serious side effects, including:
 
@@ -197,19 +197,21 @@ High blood sugar can be lowered by diet and exercise, and by certain medicines w
 
 Talk to your doctor about how to prevent, recognize, and take care of low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and problems you have because of your diabetes.
 
-Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC
-
-Bridgewater, NJ 08807 USA
+Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 www.GlumetzaXR.com
 
 For prescription only
 
-Rev.
-04/2016
-
 U.S. Patents 6,488,962; 7,780,987; and 8,323,692
 
 Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-© Valeant Pharmaceuticals North America LLC
+©Valeant Pharmaceuticals North America LLC
+
+Rev.
+03/2017
+
+9519001
+
+LI001802

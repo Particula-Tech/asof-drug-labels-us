@@ -13,24 +13,21 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
   Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
 - •Patients should be advised to notify their health practitioner or call the Poison Control Center immediately in case of GLUMETZA overdose.
 - •Patients should be informed about the importance of regular testing of renal function and hematological parameters when receiving treatment with GLUMETZA.
+- •Instruct patients to inform their doctor that they are taking GLUMETZA prior to any surgical or radiological procedure, as temporary discontinuation of GLUMETZA may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
 - •Patients should be counseled against excessive alcohol intake, either acute or chronic, while receiving GLUMETZA.
 - •GLUMETZA (metformin hydrochloride extended-release tablets) alone does not usually cause hypoglycemia, although it may occur when GLUMETZA is used in conjunction with insulin secretagogues, such as sulfonylureas and insulin.
 - •Patients should be informed that GLUMETZA must be swallowed whole and not crushed or chewed, and that the inactive ingredients may occasionally be eliminated in the feces as a soft mass that may resemble the original tablet.
 
+Salix
+
 Manufactured for:
 
-Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC
-
-Bridgewater, NJ 08807 USA
+Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 U.S. Patents 6,488,962; 7,780,987; and 8,323,692
 
-Salix
-
 Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-© Valeant Pharmaceuticals North America LLC
+©Valeant Pharmaceuticals North America LLC
 
-- Rev.
-  04/2016
-- new p/n to be assigned
+- 9519001 LI001802

@@ -9,4 +9,4 @@ A carcinogenicity study was also performed in Tg.AC transgenic mice at doses up 
 No evidence of carcinogenicity was observed in male or female mice.
 
 Genotoxicity assessments in the Ames test, gene mutation test (mouse lymphoma cells), chromosomal aberrations test (human lymphocytes) and in vivo mouse micronucleus tests were negative.
-Fertility of male or female rats was not affected by metformin when administered at dose up to 600 mg/kg/day, which is approximately 3 times the maximum recommended human daily dose based on body surface area comparisons.
+Fertility of male or female rats was not affected by metformin when administered at doses up to 600 mg/kg/day, which is approximately 3 times the maximum recommended human daily dose based on body surface area comparisons.

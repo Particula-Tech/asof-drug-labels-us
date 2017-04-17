@@ -4,7 +4,7 @@
 
 There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases.
 These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
-Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate/pyruvate ratio; metformin plasma levels generally >5 mcg/mL.
+Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (> 5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate/pyruvate ratio; metformin plasma levels generally > 5 mcg/mL.
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
 If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of GLUMETZA.
@@ -16,16 +16,18 @@ Educate patients and their families about the symptoms of lactic acidosis and if
 For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
-The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
+Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]:
 
 - •Before initiating GLUMETZA, obtain an estimated glomerular filtration rate (eGFR).
 - •GLUMETZA is contraindicated in patients with an eGFR less than 30 mL/minute/1.73 m2.
-  Initiation of GLUMETZA is not recommended in patients with eGFR between 30 – 45 mL/minute/1.73 m2.
+  [see Contraindications (4)].
+- •Initiation of GLUMETZA is not recommended in patients with eGFR between 30–45 mL/minute/1.73 m2.
 - •Obtain an eGFR at least annually in all patients taking GLUMETZA.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
-- •In patients taking GLUMETZA whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy [see Dosage and Administration (2.2), Contraindications (4) and Clinical Pharmacology (12.3)].
+- •In patients taking GLUMETZA whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy.
 
-Drug Interactions: The concomitant use of GLUMETZA with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g. cationic drugs) [see Drug Interactions (7)].
+Drug Interactions: The concomitant use of GLUMETZA with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation [see Drug Interactions (7)].
 Therefore, consider more frequent monitoring of patients.
 
 Age 65 or Greater: The risk of metformin-associated lactic acidosis increases with the patient’s age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
@@ -42,7 +44,7 @@ Hypoxic States: Several of the postmarketing cases of metformin-associated lacti
 Cardiovascular collapse (shock), acute myocardial infarction, sepsis, and other conditions associated with hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia.
 When such events occur, discontinue GLUMETZA.
 
-Excessive Alcohol Intake: Alcohol potentiates the effect of metformin on lactate metabolism and this may increase the risk of metformin-associated lactic acidosis.
+Excessive Alcohol Intake: Alcohol potentiates the effect of metformin on lactate metabolism, and this may increase the risk of metformin-associated lactic acidosis.
 Warn patients against excessive alcohol intake while receiving GLUMETZA.
 
 Hepatic Impairment: Patients with hepatic impairment have developed cases of metformin-associated lactic acidosis.
@@ -51,9 +53,9 @@ Therefore, avoid use of GLUMETZA in patients with clinical or laboratory evidenc
 
 ## 5.2 Vitamin B12 Levels
 
-In controlled, 29-week clinical trials of immediate release metformin, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
+In controlled, 29-week clinical trials of immediate-release metformin, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of GLUMETZA or Vitamin B12 supplementation.
-Measurement of hematologic parameters on an annual basis is advised in patients on GLUMETZA and any apparent abnormalities should be appropriately investigated and managed.
+Measurement of hematologic parameters on an annual basis is advised in patients on GLUMETZA, and any apparent abnormalities should be appropriately investigated and managed.
 Certain individuals (those with inadequate Vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal Vitamin B12 levels.
 In these patients, routine serum Vitamin B12 measurements at two- to three-year intervals may be useful.
 
@@ -61,8 +63,8 @@ In these patients, routine serum Vitamin B12 measurements at two- to three-year 
 
 Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as sulfonylureas and insulin) or ethanol.
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
-Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking beta-adrenergic blocking drugs.
+Hypoglycemia may be difficult to recognize in the elderly and in people who are taking beta-adrenergic blocking drugs.
 
 ## 5.4 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with GLUMETZA or any other oral anti-diabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with GLUMETZA or any other oral antidiabetic drug.
