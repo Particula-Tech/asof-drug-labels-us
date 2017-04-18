@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA206206"
+  ],
+  "inn": "rocuronium",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-225-05",
+    "55150-226-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "rocuronium bromide",
+      "name": "Rocuronium Bromide"
+    }
+  ],
+  "setid": "116385ea-69fc-4f44-b463-6210291032df",
+  "source": "dailymed"
+}
