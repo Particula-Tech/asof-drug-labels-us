@@ -90,9 +90,8 @@ Adverse reaction reports tend to decrease over time.
 In an open-label trial of one year’s duration, 580 hypertensive subjects were given guanfacine, titrated to achieve goal blood pressure, alone (51%), with diuretic (38%), with beta blocker (3%), with diuretic plus beta blocker (6%), or with diuretic plus vasodilator (2%).
 The mean daily dose of guanfacine reached was 4.7 mg.
 
-| Adverse Reaction | Incidence of adverse reactions at any time during the study | Incidence of adverse reactions at end of one year |
+| Adverse Reaction | Incidence of adverse reactions at any time during the studyn=580 | Incidence of adverse reactions at end of one yearn=580 |
 | --- | --- | --- |
-|  | n=580 | n=580 |
 | Dry Mouth | 60% | 15% |
 | Drowsiness | 33% | 6% |
 | Dizziness | 15% | 1% |

@@ -26,7 +26,7 @@ In the standing position there was some increase in response with dose.
 
 | Mean Decreases (mm Hg) in Seated and Standing Blood Pressure for Patients Treated with Guanfacine in Combination with Chlorthalidone |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | n= | Placebo 63 | 0.5 mg 63 | 1 mg 64 | 2 mg 58 | 3 mg 59 |
+| Mean Change | n= | Placebo 63 | 0.5 mg 63 | 1 mg 64 | 2 mg 58 | 3 mg 59 |
 | S/D* Seated |  | -5/-7 | -5/-6 | -14/-13 | -12/-13 | -16/-13 |
 | S/D* Standing |  | -3/-5 | -5/-4 | -11/-9 | -9/-10 | -15/-12 |
 | *S/D = Systolic/diastolic blood pressure |  |  |  |  |  |  |

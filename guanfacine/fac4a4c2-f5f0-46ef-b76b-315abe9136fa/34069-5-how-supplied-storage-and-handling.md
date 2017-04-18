@@ -16,8 +16,8 @@ Laurelton, NY 11413
 
 Manufactured in USA
 
-Revised November 2014
+Revised February 2016
 
-MF048REV11/14
+MF048REV02/16
 
 OE1126
