@@ -1,5 +1,16 @@
 # WARNINGS
 
+Concomitant use of benzodiazepiones, including diazepam, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe diazepam concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of diazepam than indicated in the absence of an opioid and titrate based on clinical response.
+If an opioid is initiated in a patient already taking diazepam, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when diazepam is used with opioids.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see Drug Interactions).
+
 Diazepam is not recommended in the treatment of psychotic patients and should not be employed instead of appropriate treatment.
 
 Since diazepam has a central nervous system depressant effect, patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during diazepam therapy.
@@ -63,6 +74,13 @@ As is true of most CNS-acting drugs, patients receiving diazepam should be cauti
 
 ## Drug Interactions
 
+### Opioids
+
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
+
 ### Centrally Acting Agents
 
 If diazepam is to be combined with other centrally acting agents, careful consideration should be given to the pharmacology of the agents employed particularly with compounds that may potentiate or be potentiated by the action of diazepam, such as phenothiazines, antipsychotics, anxiolytics/sedatives, hypnotics, anticonvulsants, narcotic analgesics, anesthetics, sedative antihistamines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
@@ -97,8 +115,6 @@ No adverse effects on fertility or offspring viability were noted at a dose of 8
 
 ## Pregnancy
 
-### Teratogenic Effects
-
 Category D (see WARNINGS, Pregnancy).
 
 ## Pediatric Use
@@ -115,7 +131,7 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## Hepatic Insufficiency
 
-Decreases in clearance and protein binding, and increases in volume of distribution and half-life has been reported in patients with cirrhosis.
+Decreases in clearance and protein binding, and increases in volume of distribution and half-life have been reported in patients with cirrhosis.
 In such patients, a 2 to 5 fold increase in mean half-life has been reported.
 Delayed elimination has also been reported for the active metabolite desmethyldiazepam.
 Benzodiazepines are commonly implicated in hepatic encephalopathy.
