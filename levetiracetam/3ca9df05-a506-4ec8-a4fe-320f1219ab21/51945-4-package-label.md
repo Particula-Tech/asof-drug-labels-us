@@ -48,10 +48,12 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
 
-NDC 50474-001-48 16 fl oz (473 mL)
+NDC 50474-001-48
 
 Keppra® (levetiracetam) 100 mg/mL oral solution
 
 Dispense accompanying Medication Guide to each patient.
 
 Rx only
+
+16 fl oz (473 mL)
