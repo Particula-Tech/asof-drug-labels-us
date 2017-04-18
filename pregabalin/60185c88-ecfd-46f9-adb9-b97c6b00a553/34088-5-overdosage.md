@@ -4,6 +4,8 @@ Signs, Symptoms and Laboratory Findings of Acute Overdosage in Humans
 
 There is limited experience with overdose of LYRICA.
 The highest reported accidental overdose of LYRICA during the clinical development program was 8000 mg, and there were no notable clinical consequences.
+In the postmarketing experience, the most commonly reported adverse events observed when LYRICA was taken in overdose included affective disorder, somnolence, confusional state, depression, agitation, and restlessness.
+Seizures were also reported.
 
 Treatment or Management of Overdose
 
