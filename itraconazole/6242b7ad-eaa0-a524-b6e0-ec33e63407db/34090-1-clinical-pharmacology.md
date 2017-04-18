@@ -6,10 +6,10 @@
 
 Peak plasma concentrations of itraconazole are reached within 2 to 5 hours following oral administration.
 As a consequence of non-linear pharmacokinetics, itraconazole accumulates in plasma during multiple dosing.
-Steady-state concentrations are generally reached within about 15 days, with Cmax values of 0.5 µg/mL, 1.1 µg/mL and 2.0 µg/mL after oral administration of 100 mg once daily, 200 mg once daily and 200 mg b.i.d., respectively.
+Steady-state concentrations are generally reached within about 15 days, with Cmax values of 0.5 µg/ml, 1.1 µg/ml and 2.0 µg/ml after oral administration of 100 mg once daily, 200 mg once daily and 200 mg b.i.d., respectively.
 The terminal half-life of itraconazole generally ranges from 16 to 28 hours after single dose and increases to 34 to 42 hours with repeated dosing.
 Once treatment is stopped, itraconazole plasma concentrations decrease to an almost undetectable concentration within 7 to 14 days, depending on the dose and duration of treatment.
-Itraconazole mean total plasma clearance following intravenous administration is 278 mL/min.
+Itraconazole mean total plasma clearance following intravenous administration is 278 ml/min.
 Itraconazole clearance decreases at higher doses due to saturable hepatic metabolism.
 
 ### Absorption
@@ -62,7 +62,7 @@ A pharmacokinetic study using a single 200-mg oral dose of itraconazole was cond
 In uremic subjects with a mean creatinine clearance of 13 mL/min. × 1.73 m2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
 This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC0–8h).
 Plasma concentration-versus-time profiles showed wide intersubject variation in all three groups.
-After a single intravenous dose, the mean terminal half-lives of itraconazole in patients with mild (defined in this study as CrCl 50–79 mL/min), moderate (defined in this study as CrCl 20–49 mL/min), and severe renal impairment (defined in this study as CrCl <20 mL/min) were similar to that in healthy subjects (range of means 42–49 hours vs 48 hours in renally impaired patients and healthy subjects, respectively).
+After a single intravenous dose, the mean terminal half-lives of itraconazole in patients with mild (defined in this study as CrCl 50–79 ml/min), moderate (defined in this study as CrCl 20–49 ml/min), and severe renal impairment (defined in this study as CrCl <20 ml/min) were similar to that in healthy subjects (range of means 42–49 hours vs 48 hours in renally impaired patients and healthy subjects, respectively).
 Overall exposure to itraconazole, based on AUC, was decreased in patients with moderate and severe renal impairment by approximately 30% and 40%, respectively, as compared with subjects with normal renal function.
 Data are not available in renally impaired patients during long-term use of itraconazole.
 Dialysis has no effect on the half-life or clearance of itraconazole or hydroxy-itraconazole.

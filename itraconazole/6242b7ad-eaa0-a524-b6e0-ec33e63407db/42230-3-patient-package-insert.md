@@ -190,7 +190,7 @@ You can ask your doctor or pharmacist for information about Itraconazole that is
 
 This patient information has been approved by the U.S. Food and Drug Administration.
 
-Revised October 2016
+Revised: October 2016
 
 Product of Ireland
 
