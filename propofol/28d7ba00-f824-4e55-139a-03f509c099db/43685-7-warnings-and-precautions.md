@@ -98,7 +98,7 @@ Thus, titration to clinical response and daily evaluation of sedation levels are
 Opioids and paralytic agents should be discontinued and respiratory function optimized prior to weaning patients from mechanical ventilation.
 Infusions of propofol injectable emulsion should be adjusted to maintain a light level of sedation prior to weaning patients from mechanical ventilatory support.
 Throughout the weaning process, this level of sedation may be maintained in the absence of respiratory depression.
-Because of the rapid clearance of propofol injectable emulsion, abrupt discontinuation of a patient’s infusion may result in rapid awakening with associated anxiety, agitation, and resistance to mechanical ventilation, making weaning from mechanical ventilation difficult.
+Because of the rapid clearance of propofol injectable emulsion, abrupt discontinuation of a patient's infusion may result in rapid awakening with associated anxiety, agitation, and resistance to mechanical ventilation, making weaning from mechanical ventilation difficult.
 It is therefore recommended that administration of propofol injectable emulsion be continued in order to maintain a light level of sedation throughout the weaning process until 10 to 15 minutes prior to extubation at which time the infusion can be discontinued.
 
 Since propofol injectable emulsion is formulated in an oil-in-water emulsion, elevations in serum triglycerides may occur when propofol injectable emulsion is administered for extended periods of time.
@@ -188,10 +188,10 @@ In pediatric patients, abrupt discontinuation following prolonged infusion may r
 Increased incidences of bradycardia (5%), agitation (4%), and jitteriness (9%) have also been observed.
 
 Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
-The “gasping syndrome,” (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth weight neonates.
+The "gasping syndrome," (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth weight neonates.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 
-Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome,” the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome," the minimum amount of benzyl alcohol at which toxicity may occur is not known.
 Premature and low-birth weight infants, as well as patients receiving high dosages, may be more likely to develop toxicity.
 Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
 

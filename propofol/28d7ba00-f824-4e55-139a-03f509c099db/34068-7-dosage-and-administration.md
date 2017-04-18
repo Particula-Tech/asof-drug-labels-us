@@ -59,7 +59,7 @@ As with other anesthetic agents, propofol injectable emulsion reduces myocardial
 Further studies are needed to confirm and delineate the extent of these effects on the myocardium and the coronary vascular system.
 
 Morphine premedication (0.15 mg/kg) with nitrous oxide 67% in oxygen has been shown to decrease the necessary propofol injectable emulsion maintenance infusion rates and therapeutic blood concentrations when compared to non-narcotic (lorazepam) premedication.
-The rate of propofol injectable emulsion administration should be determined based on the patient’s premedication and adjusted according to clinical responses.
+The rate of propofol injectable emulsion administration should be determined based on the patient's premedication and adjusted according to clinical responses.
 
 A rapid bolus induction should be avoided.
 A slow rate of approximately 20 mg every 10 seconds until induction onset (0.5 to 1.5 mg/kg) should be used.
@@ -90,7 +90,7 @@ Propofol injectable emulsion has been used with a variety of agents commonly use
 In the elderly, debilitated, or ASA-PS III or IV patients, rapid bolus doses should not be used, as this will increase cardiorespiratory effects including hypotension, apnea, airway obstruction, and oxygen desaturation.
 
 Adult Patients: In adults, anesthesia can be maintained by administering propofol injectable emulsion by infusion or intermittent I.V. bolus injection.
-The patient’s clinical response will determine the infusion rate or the amount and frequency of incremental injections.
+The patient's clinical response will determine the infusion rate or the amount and frequency of incremental injections.
 
 Continuous Infusion: Propofol injectable emulsion 100 to 200 mcg/kg/min administered in a variable rate infusion with 60% to 70% nitrous oxide and oxygen provides anesthesia for patients undergoing general surgery.
 Maintenance by infusion of propofol injectable emulsion should immediately follow the induction dose in order to provide satisfactory or continuous anesthesia during the induction phase.
@@ -171,11 +171,11 @@ With medical ICU patients or patients who have recovered from the effects of gen
 These higher rates of administration may increase the likelihood of patients developing hypotension.
 Administration should not exceed 4 mg/kg/hour unless the benefits outweigh the risks (see WARNINGS).
 
-Dosage and rate of administration should be individualized and titrated to the desired effect, according to clinically relevant factors including the patient’s underlying medical problems, preinduction and concomitant medications, age, ASA-PS classification, and level of debilitation of the patient.
+Dosage and rate of administration should be individualized and titrated to the desired effect, according to clinically relevant factors including the patient's underlying medical problems, preinduction and concomitant medications, age, ASA-PS classification, and level of debilitation of the patient.
 The elderly, debilitated, and ASA-PS III or IV patients may have exaggerated hemodynamic and respiratory responses to rapid bolus doses.
 (See WARNINGS.)
 
-Propofol injectable emulsion should be individualized according to the patient’s condition and response, blood lipid profile, and vital signs.
+Propofol injectable emulsion should be individualized according to the patient's condition and response, blood lipid profile, and vital signs.
 (See PRECAUTIONS - Intensive Care Unit Sedation.)
 For intubated, mechanically ventilated adult patients, Intensive Care Unit (ICU) sedation should be initiated slowly with a continuous infusion in order to titrate to desired clinical effect and minimize hypotension.
 When indicated, initiation of sedation should begin at 5 mcg/kg/min (0.3 mg/kg/h).
