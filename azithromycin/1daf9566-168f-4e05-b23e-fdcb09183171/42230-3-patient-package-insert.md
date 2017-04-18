@@ -66,7 +66,7 @@ Do I need to prepare Zmax?
 
 How do I take Zmax?
 
-- Keep Zmax at room temperature between 59ºF to 86ºF (15º to 30ºC).
+- Keep Zmax at room temperature between 59°F to 86°F (15° to 30°C).
 - Shake the bottle well before using.
 - Take Zmax or give it to your child within 12 hr after it has been prepared by the pharmacy or you add water to the powder.
 - Take Zmax or give it to your child exactly how your doctor prescribes it.
@@ -145,11 +145,14 @@ Active ingredient: azithromycin dihydrate
 Inactive ingredients: glyceryl behenate, poloxamer 407, sucrose, sodium phosphate tribasic anhydrous, magnesium hydroxide, hydroxypropyl cellulose, xanthan gum, colloidal silicon dioxide, titanium dioxide, artificial cherry flavor, and artificial banana flavor
 
 Brand names are registered trademarks of their respective owners.
-Coumadin® is a registered trademark of Bristol-Myers Squibb, Inc. Ketek® is a registered trademark of Aventis Pharmaceuticals Inc.
+
+Coumadin® is a registered trademark of Bristol-Myers Squibb, Inc.
+
+Ketek® is a registered trademark of Aventis Pharmaceuticals Inc.
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0606-5.0 February 2017
+LAB-0606-5.0 July 2016

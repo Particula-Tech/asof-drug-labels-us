@@ -51,7 +51,7 @@ Adverse events reported with azithromycin immediate release formulations during 
 
 Allergic: Arthralgia, edema, urticaria and angioedema Cardiovascular: Palpitations and arrhythmias including ventricular tachycardia and hypotension There have been reports of QT prolongation and torsades de pointes.
 Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and rare reports of tongue discoloration General: Asthenia, paresthesia, fatigue, malaise and anaphylaxis Genitourinary: Interstitial nephritis, acute renal failure and vaginitis Hematopoietic: Thrombocytopenia, mild neutropenia Liver/biliary: Adverse reactions related to hepatic dysfunction have been reported in postmarketing experience with azithromycin.
-[See Warnings and Precautions (5.2)] Nervous system: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope Psychiatric: Aggressive reaction and anxiety Skin/appendages: Pruritus, rash, photosensitivity, serious skin reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
+[See Warnings and Precautions (5.2)] Nervous system: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope Psychiatric: Aggressive reaction and anxiety Skin/appendages: Pruritus, rash, photosensitivity, serious skin reactions including erythema multiforme, AGEP, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
 Special senses: Hearing disturbances including hearing loss, deafness and/or tinnitus and reports of taste/smell perversion and/or loss
 
 ## 6.3 Laboratory Abnormalities

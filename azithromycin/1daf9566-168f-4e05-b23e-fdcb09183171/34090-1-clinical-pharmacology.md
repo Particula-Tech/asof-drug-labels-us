@@ -58,9 +58,9 @@ The clinical significance of this distribution data is unknown.
 Table 3.
 Azithromycin Exposure Data in White Blood Cells and Lung Following a 2 g Single Dose of Zmax in Adults
 
-| A single 2 g dose of Zmax |  |  |  |  |
+| WBC | Cmax (mcg/mL) | AUC0–24 (mcg∙hr/mL) | AUC0–120 (mcg∙hr/mL) | Ct=120 Azithromycin concentration at 120 hr after the start of dosing(mcg/mL) |
 | --- | --- | --- | --- | --- |
-| WBC | Cmax (mcg/mL) | AUC0–24 (mcg∙hr/mL) | AUC0–120 (mcg∙hr/mL) | Ct=120Azithromycin concentration at 120 hr after the start of dosing (mcg/mL) |
+| A single 2 g dose of Zmax |  |  |  |  |
 | MNLData are presented as mean (standard deviation) | 116 (40.2) | 1790 (540) | 4710 (1100) | 16.2 (5.51) |
 | PMNL | 146 (66.0) | 2080 (650) | 10000 (2690) | 81.7 (23.3) |
 | LUNG | Cmax (mcg/mL) | AUC0–24 (mcg∙hr/mL) | AUC0–72 (mcg∙hr/mL) |  |
@@ -105,7 +105,7 @@ Although there was high inter-patient variability in systemic exposure (AUC and 
 Table 4.
 Mean (SD) Pharmacokinetic Parameters for Azithromycin Following Administration of a Single Dose of Zmax (60 mg/kg, maximum dose of 2 g) to Pediatric Subjects Aged 3 Months to 16 Years
 
-| Cmax (mcg/mL) | TmaxMedian (range) presented only for Tmax (hr) | AUC(0–24) (mcg∙hr/mL) | AUC(0–∞) (mcg∙hr/mL) |  |
+| Cmax (mcg/mL) | TmaxMedian (range) presented only for Tmax(hr) | AUC(0–24) (mcg∙hr/mL) | AUC(0–∞) (mcg∙hr/mL) |  |
 | --- | --- | --- | --- | --- |
 | Treatment Group | Pharmacokinetic Parameters |  |  |  |
 | Group 1 (N = 6) [3 to 18 months] | 0.74 (0.20) | 3 (3–3) | 6.29 (1.17) | 14.1 (2.16) (n = 3) |
@@ -116,7 +116,8 @@ Mean (SD) Pharmacokinetic Parameters for Azithromycin Following Administration o
 | Group 6 (N = 6) [>12 to 16 years] | 0.98 (0.35) | 3 (3–6) | 11.0 (4.78) | 21.3 (9.37) |
 | Pooled 1–6 (N = 36) [On an empty stomach] | 1.27 (0.53) | 3 (3–6) | 13.1 (5.78) | 25.2 (10.7) (n = 32) |
 | Group 7One subject vomited immediately after dosing and discontinued from the study (N = 7) [Fed; 18 months to 8 years] | 1.41 (0.62) | 3 (1.5–3.1) | 7.43 (3.00) | 18.9 (3.57) (n = 3) |
-| Empty stomach = dosed with Zmax at least 1 hr before or 2 hr after a meal (Groups I–VI) Fed = dosed with Zmax within 5 minutes of consuming an age-appropriate high-fat breakfast (Group VII) |  |  |  |  |
+| Empty stomach = dosed with Zmax at least 1 hr before or 2 hr after a meal (Groups I-VI) |  |  |  |  |
+| Fed = dosed with Zmax within 5 minutes of consuming an age-appropriate high-fat breakfast (Group VII) |  |  |  |  |
 
 Gender
 
@@ -159,7 +160,7 @@ Drug Interactions: Pharmacokinetic Parameters of Co-administered Drugs in the Pr
 | Theophylline | 4 mg/kg IV on days 1, 11, 25 | 500 mg orally on day 7, then 250 mg/day on days 8–11 | 10 | 1.19 (1.02 to 1.40) | 1.02 (0.86 to 1.22) |
 | Theophylline | 300 mg orally twice a day for 15 days | 500 mg orally on day 6, then 250 mg/day on days 7–10 | 8 | 1.09 (0.92 to 1.29) | 1.08 (0.89 to 1.31) |
 | Triazolam | 0.125 mg on day 2 | 500 mg orally on day 1, then 250 mg/day on day 2 | 12 | 1.06 | 1.02 |
-| Trimethoprim/Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/ 0.90 (0.78 to 1.03) | 0.87 (0.80 to 0.95)/ 0.96 (0.88 to 1.03) |
+| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/ 0.90 (0.78 to 1.03) | 0.87 (0.80 to 0.95)/ 0.96 (0.88 to 1.03) |
 | Zidovudine | 500 mg/day orally for 21 days | 600 mg/day oraly for 14 days | 5 | 1.12 (0.42 to 3.02) | 0.94 (0.52 to 1.70) |
 | Zidovudine | 500 mg/day orally for 21 days | 1,200 mg/day orally for 14 days | 4 | 1.31 (0.43 to 3.97) | 1.30 (0.69 to 2.43) |
 
@@ -189,11 +190,19 @@ Ribosomal modifications can determine cross resistance to other macrolides, linc
 Azithromycin has been shown to be active against the following microorganisms, both in vitro and in clinical infections.
 [See Indications and Usage (1)].
 
-Gram-Positive Bacteria Streptococcus pneumoniae
+Gram-Positive Bacteria
 
-Gram-Negative Bacteria Haemophilus influenzae Moraxella catarrhalis
+- Streptococcus pneumoniae
 
-"Other" Bacteria Chlamydophila pneumoniae Mycoplasma pneumoniae
+Gram-Negative Bacteria
+
+- Haemophilus influenzae
+- Moraxella catarrhalis
+
+"Other" Bacteria
+
+- Chlamydophila pneumoniae
+- Mycoplasma pneumoniae
 
 Susceptibility Testing Methods
 
