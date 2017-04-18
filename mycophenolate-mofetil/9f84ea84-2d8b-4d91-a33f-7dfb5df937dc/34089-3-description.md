@@ -16,3 +16,4 @@ The capsule shells contain gelatin, sodium lauryl sulphate, FD&C blue 2, red iro
 The capsule is printed with edible black ink comprised of shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, black iron oxide, and potassium hydroxide.
 
 Inactive ingredients in mycophenolate mofetil tablets 500 mg include croscarmellose sodium, povidone (K-90), isopropyl alcohol, microcrystalline cellulose, magnesium stearate, hypromellose, polyethylene glycol, titanium dioxide, red iron oxide, black iron oxide, and yellow iron oxide.
+USPdissolution test is pending

@@ -7,11 +7,11 @@ NDC Number Size
 
 NDC 67877-266-01 Bottle of 100
 
-NDC 67877-266-05 Bottle of 500
+NDC 67877-266-05 Bottle of 500 NDC 67877-266-84 Carton of 30 (3 x 10 unit-dose capsules) NDC 67877-266-38 Carton of 100 (10 x 10 unit-dose capsules)
 
 Storage
 
-Store at 25°C (77°F); excursions permitted to 15° to 30° C (59° to 86° F).
+Storeat 25°C (77°F); excursions permitted to 15° to30° C (59° to 86° F)
 
 Mycophenolate mofetil tablets USP 500 mg
 
@@ -22,9 +22,9 @@ NDC Number Size
 
 NDC 67877-225-01 Bottle of 100
 
-NDC 67877-225-05 Bottle of 500 Storage and Dispensing Information
+NDC 67877-225-05 Bottle of 500 NDC 67877-225-84 Carton of 30 (3 x 10 unit-dose capsules) NDC 67877-225-38 Carton of 100 (10 x 10 unit-dose capsules) Storage and Dispensing Information
 
-Store at 25°C (77°F); excursions permitted to 15 ° to 30 ° C (59 ° to 86 ° F). Dispense in a tight light-resistant container, as defined in the USP with a child resistant cap.
+Storeat 25°C (77°F); excursions permitted to 15° to30° C (59° TO 86° F) [SeeUSP Controlled Room Temperature].Dispense in a tight light-resistantcontainer, as defined in theUSP with a child resistant cap.
 
 Manufactured in India by:
 
@@ -38,8 +38,8 @@ Mumbai - 400013, INDIA
 
 Distributed by:
 
-Ascend Laboratories, LLC, Montvale, NJ 07645
+Ascend Laboratories, LLC Parsippany, NJ 07054
 
-PT2075-02
+PT 2075-04
 
-Revised: October, 2015
+Revised: January, 2017

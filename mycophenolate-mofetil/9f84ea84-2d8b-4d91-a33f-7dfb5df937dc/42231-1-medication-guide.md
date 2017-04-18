@@ -261,10 +261,10 @@ Lower Parel, Mumbai – 400 013, INDIA
 
 Distributed by:
 
-Ascend Laboratories, LLC,
+Ascend Laboratories, LLC
 
-Montvale, NJ 07645
+Parsippany, NJ 07054
 
-PT1264-03
+PT1264-04
 
-Revised: October, 2015
+Revised: November, 2016
