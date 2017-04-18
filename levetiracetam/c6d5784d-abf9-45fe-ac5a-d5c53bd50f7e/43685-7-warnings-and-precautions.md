@@ -55,7 +55,7 @@ In general, the incidences of somnolence and fatigue in the pediatric partial on
 
 KEPPRA can cause anaphylaxis or angioedema after the first dose or at any time during treatment.
 Signs and symptoms in cases reported in the postmarketing setting have included hypotension, hives, rash, respiratory distress, and swelling of the face, lip, mouth, eye, tongue, throat, and feet.
-In some reported cases with levetiracetam, reactions were life-threatening and required emergency treatment.
+In some reported cases, reactions were life-threatening and required emergency treatment.
 If a patient develops signs or symptoms of anaphylaxis or angioedema, KEPPRA should be discontinued and the patient should seek immediate medical attention.
 KEPPRA should be discontinued permanently if a clear alternative etiology for the reaction cannot be established [see Contraindications (4)].
 

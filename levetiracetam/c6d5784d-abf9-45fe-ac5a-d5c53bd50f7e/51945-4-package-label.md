@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 100 mg/mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 5 mL Vial Carton
 
 NDC 50474-002-63 10 single-use 5 mL vials
 
