@@ -29,9 +29,10 @@ The median duration of treatment with ZYTIGA was 8 months.
 
 Table 1: Adverse Reactions due to ZYTIGA in Study 1
 
-| System/Organ Class Adverse reaction | All GradesAdverse events graded according to CTCAE version 3.0. % | Grade 3–4 % | All Grades % | Grade 3–4 % |
+| Adverse reaction | % | % | % | % |
 | --- | --- | --- | --- | --- |
 |  | ZYTIGA with Prednisone (N=791) |  | Placebo with Prednisone (N=394) |  |
+| System/Organ Class | All GradesAdverse events graded according to CTCAE version 3.0. | Grade 3–4 | All Grades | Grade 3–4 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Joint swelling/discomfortIncludes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness. | 29.5 | 4.2 | 23.4 | 4.1 |
 | Muscle discomfortIncludes terms Muscle spasms, Musculoskeletal pain, Myalgia, Musculoskeletal discomfort, and Musculoskeletal stiffness. | 26.2 | 3.0 | 23.1 | 2.3 |
@@ -83,9 +84,10 @@ The median duration of treatment with ZYTIGA was 13.8 months.
 
 Table 3: Adverse Reactions in ≥5% of Patients on the ZYTIGA Arm in Study 2
 
-| System/Organ Class Adverse reaction | All GradesAdverse events graded according to CTCAE version 3.0. % | Grade 3–4 % | All Grades % | Grade 3–4 % |
+| Adverse reaction | % | % | % | % |
 | --- | --- | --- | --- | --- |
 |  | ZYTIGA with Prednisone (N=542) |  | Placebo with Prednisone (N=540) |  |
+| System/Organ Class | All GradesAdverse events graded according to CTCAE version 3.0. | Grade 3–4 | All Grades | Grade 3–4 |
 | General disorders |  |  |  |  |
 | Fatigue | 39.1 | 2.2 | 34.3 | 1.7 |
 | EdemaIncludes terms Edema peripheral, Pitting edema, and Generalized edema. | 25.1 | 0.4 | 20.7 | 1.1 |
@@ -133,7 +135,7 @@ Table 4: Laboratory Abnormalities in >15% of Patients in the ZYTIGA Arm of Study
 | Hypernatremia | 32.8 | 0.4 | 25.0 | 0.2 |
 | Hypokalemia | 17.2 | 2.8 | 10.2 | 1.7 |
 
-Cardiovascular Adverse Reactions:
+Cardiovascular Adverse Reactions
 
 In the combined data for studies 1 and 2, cardiac failure occurred more commonly in patients treated with ZYTIGA compared to patients on the placebo arm (2.1% versus 0.7%).
 Grade 3–4 cardiac failure occurred in 1.6% of patients taking ZYTIGA and led to 5 treatment discontinuations and 2 deaths.

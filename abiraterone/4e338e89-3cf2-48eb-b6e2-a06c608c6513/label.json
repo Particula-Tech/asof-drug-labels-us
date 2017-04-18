@@ -5,11 +5,19 @@
   "inn": "abiraterone",
   "labeler": "Janssen Biotech, Inc.",
   "package_ndcs": [
-    "57894-150-12"
+    "57894-150-12",
+    "57894-184-12",
+    "57894-195-06",
+    "57894-195-15"
   ],
   "products": [
     {
       "form": "TABLET",
+      "generic": "abiraterone acetate",
+      "name": "Zytiga"
+    },
+    {
+      "form": "TABLET, FILM COATED",
       "generic": "abiraterone acetate",
       "name": "Zytiga"
     }

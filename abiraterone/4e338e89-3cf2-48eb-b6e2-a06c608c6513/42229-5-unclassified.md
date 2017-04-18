@@ -1,5 +1,19 @@
-Manufactured by: Patheon Inc. Mississauga, Canada
+500 mg Manufactured by:
 
-Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044
+Patheon France S.A.S.
 
-© Janssen Biotech, Inc. 2012 Revised: May 2016
+Bourgoin Jallieu, France
+
+250 mg Manufactured by: Patheon Inc.
+
+Mississauga, Canada
+
+Manufactured for:
+
+Janssen Biotech, Inc.
+
+Horsham, PA 19044
+
+© 2011, 2017 Janssen Pharmaceutical Companies
+
+Revised: April 2017

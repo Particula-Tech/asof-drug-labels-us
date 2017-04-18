@@ -4,9 +4,7 @@ The efficacy and safety of ZYTIGA in patients with metastatic castration-resista
 Patients with prior ketoconazole treatment for prostate cancer and a history of adrenal gland or pituitary disorders were excluded from these trials.
 Concurrent use of spironolactone was not allowed during the study period.
 
-Study 1
-
-Patients with metastatic CRPC who had received prior docetaxel chemotherapy:
+Study 1: Patients with metastatic CRPC who had received prior docetaxel chemotherapy
 
 A total of 1195 patients were randomized 2:1 to receive either ZYTIGA orally at a dose of 1,000 mg once daily in combination with prednisone 5 mg orally twice daily (N=797) or placebo once daily plus prednisone 5 mg orally twice daily (N=398).
 Patients randomized to either arm were to continue treatment until disease progression (defined as a 25% increase in PSA over the patient's baseline/nadir together with protocol-defined radiographic progression and symptomatic or clinical progression), initiation of new treatment, unacceptable toxicity or withdrawal.
@@ -38,9 +36,7 @@ Table 5: Overall Survival of Patients Treated with Either ZYTIGA or Placebo in C
 
 Figure 1: Kaplan-Meier Overall Survival Curves in Study 1 (Intent-to-Treat Analysis)
 
-Study 2
-
-Patients with metastatic CRPC who had not received prior cytotoxic chemotherapy
+Study 2: Patients with metastatic CRPC who had not received prior cytotoxic chemotherapy
 
 In Study 2, 1088 patients were randomized 1:1 to receive either ZYTIGA at a dose of 1,000 mg once daily (N=546) or Placebo once daily (N=542).
 Both arms were given concomitant prednisone 5 mg twice daily.

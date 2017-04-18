@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X [see Contraindications (4.1)].
+Pregnancy Category X
+
+[see Contraindications (4.1)].
 
 ZYTIGA can cause fetal harm when administered to a pregnant woman based on its mechanism of action and findings in animals.
 While there are no adequate and well-controlled studies with ZYTIGA in pregnant women and ZYTIGA is not indicated for use in women, it is important to know that maternal use of a CYP17 inhibitor could affect development of the fetus.
