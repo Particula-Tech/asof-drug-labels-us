@@ -2,14 +2,23 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Lactic Acidosis/Severe Hepatomegaly with Steatosis [See Boxed Warning, Warnings and Precautions (5.1)].
-- Severe Acute Exacerbations of Hepatitis B [See Boxed Warning, Warnings and Precautions (5.2)].
-- Skin and Hypersensitivity Reactions [See Warnings and Precautions (5.3)].
-- New Onset or Worsening Renal Impairment [See Warnings and Precautions (5.4)].
-- Depressive Disorders [See Warnings and Precautions (5.6)].
-- Hepatotoxicity [See Warnings and Precautions (5.7)].
-- Bone Effects of Tenofovir DF [See Warnings and Precautions (5.8)].
-- Immune Reconstitution Syndrome [See Warnings and Precautions (5.11)].
+Severe Acute Exacerbations of Hepatitis B [See Boxed Warning, Warnings and Precautions (5.1)].
+
+Skin and Hypersensitivity Reactions [See Warnings and Precautions (5.2)].
+
+New Onset or Worsening Renal Impairment [See Warnings and Precautions (5.3)].
+
+Lactic Acidosis/Severe Hepatomegaly with Steatosis [See Warnings and Precautions (5.4)].
+
+Drug Interactions [See Warnings and Precautions (5.5)].
+
+Depressive Disorders [See Warnings and Precautions (5.6)].
+
+Hepatotoxicity [See Warnings and Precautions (5.7)].
+
+Bone Effects of Tenofovir DF [See Warnings and Precautions (5.8)].
+
+Immune Reconstitution Syndrome [See Warnings and Precautions (5.10)].
 
 ## 6.1 Adverse Reactions from Clinical Trials Experience in Adult Subjects
 
@@ -58,7 +67,7 @@ In Virologically-Suppressed HIV-1-Infected Adult Subjects
 
 No new adverse reactions to COMPLERA were identified in stable, virologically-suppressed subjects switching to COMPLERA from a regimen containing a ritonavir-boosted protease inhibitor; however, the frequency of adverse reactions increased by 20% (Study 106) after switching to COMPLERA.
 
-Emtricitabine and Tenofovir Disoproxil Fumarate: The most common adverse reactions that occurred in at least 10% of HIV-1-infected treatment-naïve adult subjects in a Phase 3 clinical trial of emtricitabine and tenofovir DF in combination with another antiretroviral agent were diarrhea, nausea, fatigue, headache, dizziness, depression, insomnia, abnormal dreams, and rash.
+Emtricitabine and Tenofovir DF: The most common adverse reactions that occurred in at least 10% of HIV-1-infected treatment-naïve adult subjects in a Phase 3 clinical trial of emtricitabine and tenofovir DF in combination with another antiretroviral agent were diarrhea, nausea, fatigue, headache, dizziness, depression, insomnia, abnormal dreams, and rash.
 Adverse reactions that occurred in at least 5% of treatment-experienced or treatment-naïve subjects receiving emtricitabine or tenofovir DF with other antiretroviral agents in clinical trials included abdominal pain, dyspepsia, vomiting, fever, pain, nasopharyngitis, pneumonia, sinusitis, upper respiratory tract infection, arthralgia, back pain, myalgia, paresthesia, peripheral neuropathy (including peripheral neuritis and neuropathy), anxiety, increased cough, and rhinitis.
 
 Skin discoloration has been reported with higher frequency among emtricitabine-treated subjects; it was manifested by hyperpigmentation on the palms and/or soles and was generally mild and asymptomatic.
@@ -107,7 +116,7 @@ Table 2 Selected Laboratory Abnormalities (Grades 1–4) Reported in Adult Subje
 | Grade 4 | >1200 mg/dL | 0 | 1% |  |
 | N=number of subjects per treatment group Note: Percentages were calculated versus the number of subjects in ITT population with emtricitabine + tenofovir DF as background regimen. |  |  |  |  |
 
-Emtricitabine or Tenofovir Disoproxil Fumarate: The following Grade 3 or 4 laboratory abnormalities have been previously reported in subjects treated with emtricitabine or tenofovir DF with other antiretroviral agents in other clinical trials: increased pancreatic amylase (>2.0 × ULN), increased serum amylase (>175 U/L), increased lipase (>3.0 × ULN), increased alkaline phosphatase (>550 U/L), increased or decreased serum glucose (<40 or >250 mg/dL), increased glycosuria (≥3+), increased creatine kinase (M: >990 U/L; F: >845 U/L), decreased neutrophils (<750/mm3), and increased hematuria (>75 RBC/HPF).
+Emtricitabine or Tenofovir DF: The following Grade 3 or 4 laboratory abnormalities have been previously reported in subjects treated with emtricitabine or tenofovir DF with other antiretroviral agents in other clinical trials: increased pancreatic amylase (>2.0 × ULN), increased serum amylase (>175 U/L), increased lipase (>3.0 × ULN), increased alkaline phosphatase (>550 U/L), increased or decreased serum glucose (<40 or >250 mg/dL), increased glycosuria (≥3+), increased creatine kinase (M: >990 U/L; F: >845 U/L), decreased neutrophils (<750/mm3), and increased hematuria (>75 RBC/HPF).
 
 Adrenal Function: In the pooled Phase 3 trials of C209 and C215, in subjects treated with rilpivirine plus any of the allowed background regimens (N=686), at Week 96 there was an overall mean change from baseline in basal cortisol of –0.69 (−1.12, 0.27) micrograms/dL in the rilpivirine group, and of −0.02 (−0.48, 0.44) micrograms/dL in the efavirenz group.
 
@@ -129,8 +138,8 @@ Table 3 Lipid Values Reported in Adult Subjects Receiving Rilpivirine or Efavire
 | Mean |  | Mean (mg/dL) | Mean (mg/dL) | Mean ChangeThe change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 96 values. (mg/dL) |  | Mean (mg/dL) | Mean (mg/dL) | Mean Change (mg/dL) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Pooled Data from the Week 96 Analysis of C209 and C215 Trials |  |  |  |  |  |  |  |
-| Rilpivirine + FTC/TDF N=550 |  |  |  | Efavirenz + FTC/TDF N=546 |  |  |  |  |
-| N | Baseline | Week 96 |  | N | Baseline | Week 96 |  |  |
+|  | Rilpivirine + FTC/TDF N=550 |  |  |  | Efavirenz + FTC/TDF N=546 |  |  |  |
+|  | N | Baseline | Week 96 |  | N | Baseline | Week 96 |  |
 | Total Cholesterol (fasted) | 430 | 162 | 164 | 2 | 401 | 160 | 186 | 26 |
 | HDL-cholesterol (fasted) | 429 | 42 | 45 | 4 | 399 | 40 | 50 | 11 |
 | LDL-cholesterol (fasted) | 427 | 97 | 97 | –1 | 397 | 96 | 110 | 14 |
@@ -167,7 +176,7 @@ Three of these subjects had an abnormal 250 micrograms ACTH stimulation test at 
 Overall, there were no serious adverse events, deaths, or treatment discontinuations that could clearly be attributed to adrenal insufficiency.
 The clinical significance of the abnormal 250 micrograms ACTH stimulation tests is not known.
 
-Tenofovir Disoproxil Fumarate: In a pediatric clinical trial conducted in subjects 12 to less than 18 years of age, the adverse reactions observed in pediatric subjects who received treatment with VIREAD were consistent with those observed in clinical trials of VIREAD in adults [See Warnings and Precautions (5.8)].
+Tenofovir DF: In a pediatric clinical trial conducted in subjects 12 to less than 18 years of age, the adverse reactions observed in pediatric subjects who received treatment with VIREAD were consistent with those observed in clinical trials of VIREAD in adults [See Warnings and Precautions (5.8)].
 For additional information, including information on bone mineral density changes, please consult the VIREAD prescribing information.
 
 ## 6.4 Postmarketing Experience
@@ -195,24 +204,42 @@ Emtricitabine:
 
 No postmarketing adverse reactions have been identified for inclusion in this section.
 
-Tenofovir Disoproxil Fumarate:
+Tenofovir DF:
 
-Immune System Disorders allergic reaction, including angioedema
+Immune System Disorders
 
-Metabolism and Nutrition Disorders lactic acidosis, hypokalemia, hypophosphatemia
+allergic reaction, including angioedema
 
-Respiratory, Thoracic, and Mediastinal Disorders dyspnea
+Metabolism and Nutrition Disorders
 
-Gastrointestinal Disorders pancreatitis, increased amylase, abdominal pain
+lactic acidosis, hypokalemia, hypophosphatemia
 
-Hepatobiliary Disorders hepatic steatosis, hepatitis, increased liver enzymes (most commonly AST, ALT, gamma GT)
+Respiratory, Thoracic, and Mediastinal Disorders
 
-Skin and Subcutaneous Tissue Disorders rash
+dyspnea
 
-Musculoskeletal and Connective Tissue Disorders rhabdomyolysis, osteomalacia (manifested as bone pain and which may contribute to fractures), muscular weakness, myopathy
+Gastrointestinal Disorders
 
-Renal and Urinary Disorders acute renal failure, renal failure, acute tubular necrosis, Fanconi syndrome, proximal renal tubulopathy, interstitial nephritis (including acute cases), nephrogenic diabetes insipidus, renal insufficiency, increased creatinine, proteinuria, polyuria
+pancreatitis, increased amylase, abdominal pain
 
-General Disorders and Administration Site Conditions asthenia
+Hepatobiliary Disorders
+
+hepatic steatosis, hepatitis, increased liver enzymes (most commonly AST, ALT, gamma GT)
+
+Skin and Subcutaneous Tissue Disorders
+
+rash
+
+Musculoskeletal and Connective Tissue Disorders
+
+rhabdomyolysis, osteomalacia (manifested as bone pain and which may contribute to fractures), muscular weakness, myopathy
+
+Renal and Urinary Disorders
+
+acute renal failure, renal failure, acute tubular necrosis, Fanconi syndrome, proximal renal tubulopathy, interstitial nephritis (including acute cases), nephrogenic diabetes insipidus, renal insufficiency, increased creatinine, proteinuria, polyuria
+
+General Disorders and Administration Site Conditions
+
+asthenia
 
 The following adverse reactions, listed under the body system headings above, may occur as a consequence of proximal renal tubulopathy: rhabdomyolysis, osteomalacia, hypokalemia, muscular weakness, myopathy, hypophosphatemia.

@@ -22,7 +22,7 @@ Rilpivirine did not induce chromosomal damage in the in vivo micronucleus test i
 In a study conducted in rats, there were no effects on mating or fertility with rilpivirine up to 400 mg per kg per day, a dose of rilpivirine that showed maternal toxicity.
 This dose is associated with an exposure that is approximately 40 times higher than the exposure in humans at the recommended dose of 25 mg once daily.
 
-Tenofovir Disoproxil Fumarate: Long-term oral carcinogenicity studies of tenofovir DF in mice and rats were carried out at exposures up to approximately 16 times (mice) and 5 times (rats) those observed in humans at the therapeutic dose for HIV-1 infection.
+Tenofovir DF: Long-term oral carcinogenicity studies of tenofovir DF in mice and rats were carried out at exposures up to approximately 16 times (mice) and 5 times (rats) those observed in humans at the therapeutic dose for HIV-1 infection.
 At the high dose in female mice, liver adenomas were increased at exposures 16 times that in humans.
 In rats, the study was negative for carcinogenic findings at exposures up to 5 times that observed in humans at the therapeutic dose.
 
@@ -34,7 +34,7 @@ There was, however, an alteration of the estrous cycle in female rats.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Tenofovir Disoproxil Fumarate: Tenofovir and tenofovir DF administered in toxicology studies to rats, dogs, and monkeys at exposures (based on AUCs) greater than or equal to 6-fold those observed in humans caused bone toxicity.
+Tenofovir DF: Tenofovir and tenofovir DF administered in toxicology studies to rats, dogs, and monkeys at exposures (based on AUCs) greater than or equal to 6-fold those observed in humans caused bone toxicity.
 In monkeys the bone toxicity was diagnosed as osteomalacia.
 Osteomalacia observed in monkeys appeared to be reversible upon dose reduction or discontinuation of tenofovir.
 In rats and dogs, the bone toxicity manifested as reduced bone mineral density.

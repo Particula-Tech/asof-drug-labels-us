@@ -10,7 +10,7 @@ Rilpivirine: Studies in animals have shown no evidence of embryonic or fetal tox
 In offspring from rat and rabbit dams treated with rilpivirine during pregnancy and lactation, there were no toxicologically significant effects on developmental endpoints.
 The exposures at the embryo-fetal No Observed Adverse Effects Levels in rats and rabbits were respectively 15 and 70 times higher than the exposure in humans at the recommended dose of 25 mg once daily.
 
-Tenofovir Disoproxil Fumarate: Reproduction studies have been performed in rats and rabbits at doses up to 14 and 19 times the human dose based on body surface area comparisons and revealed no evidence of impaired fertility or harm to the fetus due to tenofovir.
+Tenofovir DF: Reproduction studies have been performed in rats and rabbits at doses up to 14 and 19 times the human dose based on body surface area comparisons and revealed no evidence of impaired fertility or harm to the fetus due to tenofovir.
 
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, COMPLERA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -29,7 +29,7 @@ Other emtricitabine-associated risks in infants breastfed by mothers being treat
 Rilpivirine: Studies in lactating rats and their offspring indicate that rilpivirine was present in rat milk.
 It is not known whether rilpivirine is secreted in human milk.
 
-Tenofovir Disoproxil Fumarate: Samples of breast milk obtained from 5 HIV-1-infected mothers in the first postpartum week show that tenofovir is excreted in human milk.
+Tenofovir DF: Samples of breast milk obtained from 5 HIV-1-infected mothers in the first postpartum week show that tenofovir is excreted in human milk.
 The impact of this exposure in breastfed infants is unknown.
 
 Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving COMPLERA.
@@ -47,7 +47,7 @@ In general, dose selection for elderly patients should be cautious, keeping in m
 
 ## 8.6 Renal Impairment
 
-Because COMPLERA is a fixed-dose combination, it should not be prescribed for patients requiring dosage adjustment, such as those with moderate, severe, or end-stage renal impairment (estimated creatinine clearance below 50 mL per minute) or that require dialysis [See Warnings and Precautions (5.4), Clinical Pharmacology (12.3)].
+Because COMPLERA is a fixed-dose combination, it should not be prescribed for patients requiring dosage adjustment, such as those with moderate, severe, or end-stage renal impairment (estimated creatinine clearance below 50 mL per minute) or that require dialysis [See Warnings and Precautions (5.3), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

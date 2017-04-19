@@ -20,9 +20,9 @@ Treatment outcomes through 96 weeks for the subset of subjects receiving emtrici
 The incidence of virologic failure was higher in the rilpivirine arm than the efavirenz arm at Week 96.
 Virologic failures and discontinuations due to adverse events mostly occurred in the first 48 weeks of treatment.
 
-Table 10 Virologic Outcome of Randomized Treatment of Studies C209 and C215 (Pooled Data for Subjects Receiving Rilpivirine or Efavirenz in Combination with Emtricitabine/Tenofovir DF) at Week 96 Analyses were based on the last observed viral load data within the Week 96 window (Week 90–103).
+Table 10 Virologic Outcome of Randomized Treatment of Studies C209 and C215 (Pooled Data for Subjects Receiving Rilpivirine or Efavirenz in Combination with Emtricitabine/Tenofovir DF) at Week 96Analyses were based on the last observed viral load data within the Week 96 window (Week 90–103).
 
-| N=550 | N=546 |  |
+|  | N=550 | N=546 |
 | --- | --- | --- |
 |  | Rilpivirine + FTC/TDF | Efavirenz + FTC/TDF |
 | HIV-1 RNA <50 copies/mL Predicted difference (95% CI) of response rate is 0.5% (–4.5% to 5.5%) at Week 96. | 77% | 77% |

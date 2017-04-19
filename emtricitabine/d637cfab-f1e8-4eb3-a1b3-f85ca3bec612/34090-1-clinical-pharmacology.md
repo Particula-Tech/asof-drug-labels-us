@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-COMPLERA is a fixed-dose combination of the antiretroviral drugs emtricitabine, rilpivirine, and tenofovir disoproxil fumarate [See Microbiology (12.4)].
+COMPLERA is a fixed-dose combination of the antiretroviral drugs emtricitabine, rilpivirine, and tenofovir DF [See Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -30,7 +30,7 @@ The metabolites of emtricitabine include 3′-sulfoxide diastereomers (approxima
 Emtricitabine is eliminated by a combination of glomerular filtration and active tubular secretion, with a renal clearance in adults with creatinine clearance above 80 mL per minute of 213 ± 89 mL per minute (mean ± SD).
 The plasma emtricitabine half-life is approximately 10 hours.
 
-Rilpivirine: The pharmacokinetic properties of rilpivirine have been evaluated in adult healthy subjects and in adult antiretroviral treatment-naïve HIV-1-infected subjects [See Table 5].
+Rilpivirine: The pharmacokinetic properties of rilpivirine have been evaluated in adult healthy subjects and in adult antiretroviral treatment-naïve HIV-1-infected subjects (See Table 5).
 Exposure to rilpivirine was generally lower in HIV-1-infected subjects than in healthy subjects.
 After oral administration, the Cmax of rilpivirine is achieved within 4–5 hours.
 The absolute bioavailability of rilpivirine is unknown.
@@ -53,7 +53,7 @@ After single-dose oral administration of 14C-rilpivirine, on average 85% and 6.1
 In feces, unchanged rilpivirine accounted for on average 25% of the administered dose.
 Only trace amounts of unchanged rilpivirine (less than 1% of dose) were detected in urine.
 
-Tenofovir Disoproxil Fumarate: Following oral administration of a single 300 mg dose of VIREAD to HIV-1-infected subjects in the fasted state, Cmax was achieved in 1 hour.
+Tenofovir DF: Following oral administration of a single 300 mg dose of VIREAD to HIV-1-infected subjects in the fasted state, Cmax was achieved in 1 hour.
 Cmax and AUC values were 0.30 ± 0.09 µg per mL and 2.29 ± 0.69 µg∙hr per mL, respectively.
 The oral bioavailability of tenofovir from VIREAD in fasted subjects is approximately 25%.
 Less than 0.7% of tenofovir binds to human plasma proteins in vitro over the range of 0.01–25 µg per mL.
@@ -82,7 +82,7 @@ Emtricitabine: No pharmacokinetic differences due to race have been identified f
 
 Rilpivirine: Population pharmacokinetic analysis of rilpivirine in HIV-1-infected subjects indicated that race had no clinically relevant effect on the exposure to rilpivirine.
 
-Tenofovir Disoproxil Fumarate: There were insufficient numbers from racial and ethnic groups other than Caucasian to adequately determine potential pharmacokinetic differences among these populations following the administration of VIREAD.
+Tenofovir DF: There were insufficient numbers from racial and ethnic groups other than Caucasian to adequately determine potential pharmacokinetic differences among these populations following the administration of VIREAD.
 
 Sex
 
@@ -90,7 +90,7 @@ No clinically relevant pharmacokinetic differences have been observed between me
 
 Pediatric Patients
 
-Pediatric trials have not been conducted using the emtricitabine, rilpivirine, tenofovir disoproxil fumarate fixed-dose combination tablets.
+Pediatric trials have not been conducted using the emtricitabine, rilpivirine, tenofovir DF fixed-dose combination tablets.
 Pediatric information is based on trials conducted with the individual entities.
 In pediatric subjects, emtricitabine has been studied from 0 months to 17 years of age and tenofovir DF has been studied in 2 years of age and older.
 Information on the pharmacokinetics of rilpivirine is currently available only for pediatric subjects from 12 to less than 18 years of age [See Use in Specific Populations (8.4)].
@@ -99,7 +99,7 @@ Emtricitabine: The pharmacokinetics of emtricitabine at steady state were determ
 Mean (± SD) Cmax and AUC were 2.7 ± 0.9 μg/mL and 12.6 ± 5.4 μg∙hr/mL, respectively.
 Exposures achieved in pediatric subjects 12 to less than 18 years of age were similar to those achieved in adults receiving a once daily dose of 200 mg.
 
-Rilpivirine: The pharmacokinetics of rilpivirine in antiretroviral treatment-naïve HIV-1- infected pediatric subjects 12 to less than 18 years of age receiving rilpivirine 25 mg once daily were comparable to those in treatment-naïve HIV-1-infected adults receiving rilpivirine 25 mg once daily [See Table 6].
+Rilpivirine: The pharmacokinetics of rilpivirine in antiretroviral treatment-naïve HIV-1- infected pediatric subjects 12 to less than 18 years of age receiving rilpivirine 25 mg once daily were comparable to those in treatment-naïve HIV-1-infected adults receiving rilpivirine 25 mg once daily (See Table 6).
 There was no clinically significant impact of body weight on rilpivirine pharmacokinetics in pediatric subjects in trial C213 (33 to 93 kg).
 
 Table 6 Population Pharmacokinetic Estimates of Rilpivirine 25 mg once daily in Antiretroviral Treatment-Naïve HIV-1-Infected Pediatric Subjects aged 12 to less than 18 years (Data from Phase 2 Trial through Week 48)
@@ -113,7 +113,7 @@ Table 6 Population Pharmacokinetic Estimates of Rilpivirine 25 mg once daily in 
 | Mean ± Standard Deviation | 85 ± 40 |
 | Median (Range) | 79 (7– 202) |
 
-Tenofovir Disoproxil Fumarate: Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1-infected pediatric subjects (12 to less than 18 years).
+Tenofovir DF: Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1-infected pediatric subjects (12 to less than 18 years).
 Mean (± SD) Cmax and AUCtau are 0.38 ± 0.13 μg/mL and 3.39 ± 1.22 μg∙hr/mL, respectively.
 Tenofovir exposure achieved in these pediatric subjects receiving oral daily doses of VIREAD 300 mg was similar to exposures achieved in adults receiving once-daily doses of VIREAD 300 mg.
 
@@ -123,8 +123,8 @@ The pharmacokinetics of emtricitabine, rilpivirine, and tenofovir have not been 
 
 Patients with Renal Impairment
 
-Emtricitabine and Tenofovir Disoproxil Fumarate: The pharmacokinetics of emtricitabine and tenofovir DF are altered in subjects with renal impairment.
-In subjects with creatinine clearance below 50 mL per minute or with end stage renal disease requiring dialysis, Cmax and AUC of emtricitabine and tenofovir were increased [See Warnings and Precautions (5.4) and Use in Specific Populations (8.6)].
+Emtricitabine and Tenofovir DF: The pharmacokinetics of emtricitabine and tenofovir DF are altered in subjects with renal impairment.
+In subjects with creatinine clearance below 50 mL per minute or with end stage renal disease requiring dialysis, Cmax and AUC of emtricitabine and tenofovir were increased [See Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
 
 Rilpivirine: Population pharmacokinetic analysis indicated that rilpivirine exposure was similar in HIV-1-infected subjects with mild renal impairment relative to HIV-1-infected subjects with normal renal function.
 There is limited or no information regarding the pharmacokinetics of rilpivirine in patients with moderate or severe renal impairment or in patients with end-stage renal disease, and rilpivirine concentrations may be increased due to alteration of drug absorption, distribution, and metabolism secondary to renal dysfunction [See Use in Specific Populations (8.6)].
@@ -136,7 +136,7 @@ Emtricitabine: The pharmacokinetics of emtricitabine have not been studied in su
 Rilpivirine: Rilpivirine is primarily metabolized and eliminated by the liver.
 In a study comparing 8 subjects with mild hepatic impairment (Child-Pugh score A) to 8 matched controls and 8 subjects with moderate hepatic impairment (Child-Pugh score B) to 8 matched controls, the multiple dose exposure of rilpivirine was 47% higher in subjects with mild hepatic impairment and 5% higher in subjects with moderate hepatic impairment [See Use in Specific Populations (8.7)].
 
-Tenofovir Disoproxil Fumarate: The pharmacokinetics of tenofovir following a 300 mg dose of VIREAD have been studied in non-HIV-infected subjects with moderate to severe hepatic impairment.
+Tenofovir DF: The pharmacokinetics of tenofovir following a 300 mg dose of VIREAD have been studied in non-HIV-infected subjects with moderate to severe hepatic impairment.
 There were no substantial alterations in tenofovir pharmacokinetics in subjects with hepatic impairment compared with unimpaired subjects.
 
 Hepatitis B and/or Hepatitis C Virus Coinfection
@@ -156,7 +156,11 @@ COMPLERA: A drug interaction study for COMPLERA was performed with HARVONI (ledi
 No effect on the pharmacokinetic parameters of ledipasvir, sofosbuvir, and GS-331007 (the predominant circulating metabolite of sofosbuvir) was observed.
 There was no effect on the Cmax, AUC, and Cmin of emtricitabine or rilpivirine; tenofovir Cmax increased by 32% (90% confidence interval [CI]: [↑25% to ↑39%]), tenofovir AUC increased by 40% (90% CI: [↑31% to ↑50%]), and tenofovir Cmin increased by 91% (90% CI: [↑74% to ↑110%]) [See Drug Interactions (7.5)].
 
-Emtricitabine and Tenofovir Disoproxil Fumarate: In vitro and clinical pharmacokinetic drug-drug interaction studies have shown that the potential for CYP-mediated interactions involving emtricitabine and tenofovir with other medicinal products is low.
+A drug interaction study for COMPLERA was performed with EPCLUSA (sofosbuvir/velpatasvir).
+No effect on the pharmacokinetic parameters of sofosbuvir, velpatasvir, and GS-331007 (the predominant circulating metabolite of sofosbuvir) was observed.
+There was no effect on the Cmax, AUC, and Cmin of emtricitabine or rilpivirine; tenofovir Cmax increased by 44% (90% confidence interval [CI]: [↑33% to ↑55%]), tenofovir AUC increased by 40% (90% CI: [↑34% to ↑46%]), and tenofovir Cmin increased by 84% (90% CI: [↑76% to ↑92%]) [See Drug Interactions (7.5)].
+
+Emtricitabine and Tenofovir DF: In vitro and clinical pharmacokinetic drug-drug interaction studies have shown that the potential for CYP-mediated interactions involving emtricitabine and tenofovir with other medicinal products is low.
 
 Emtricitabine and tenofovir are primarily excreted by the kidneys by a combination of glomerular filtration and active tubular secretion.
 No drug-drug interactions due to competition for renal excretion have been observed; however, coadministration of emtricitabine and tenofovir DF with drugs that are eliminated by active tubular secretion may increase concentrations of emtricitabine, tenofovir, and/or the coadministered drug [See Drug Interactions (7.3, 7.6)].
@@ -209,7 +213,7 @@ Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Rilpivirine
 | Simeprevir | 25 mg once daily | 150 mg once daily | 23 | ↑ 4 (↓ 5 to ↑ 13) | ↑ 12 (↑ 5 to ↑ 19) | ↑ 25 (↑ 16 to ↑ 35) |
 | Sildenafil | 50 mg single dose | 75 mg once daily | 16 | ↓8 (↓15 to ↓1) | ↓2 (↓8 to ↑5) | ↑4 (↓2 to ↑9) |
 | Telaprevir | 750 mg every 8 hours | 25 mg once daily | 16 | ↑49 (↑20 to ↑84) | ↑78 (↑44 to ↑120) | ↑93 (↑55 to ↑141) |
-| Tenofovir Disoproxil Fumarate | 300 mg once daily | 150 mg once daily | 16 | ↓4 (↓19 to ↑13) | ↑1 (↓13 to ↑18) | ↓1 (↓17 to ↑16) |
+| Tenofovir DF | 300 mg once daily | 150 mg once daily | 16 | ↓4 (↓19 to ↑13) | ↑1 (↓13 to ↑18) | ↓1 (↓17 to ↑16) |
 | NA=not available |  |  |  |  |  |  |
 
 Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Presence of Rilpivirine
@@ -225,11 +229,11 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | R(-) methadone | 60–100 mg once daily individualized dose | 25 mg once daily | 13 | ↓ 14 (↓ 22 to ↓ 5) | ↓ 16 (↓ 26 to ↓ 5) | ↓ 22 (↓ 33 to ↓ 9) |
 | S(+) methadone | 13 | ↓ 13 (↓ 22 to ↓ 3) | ↓ 16 (↓ 26 to ↓ 4) | ↓ 21 (↓ 33 to ↓ 8) |  |  |
 | Omeprazole | 20 mg once daily | 150 mg once daily | 15 | ↓ 14 (↓ 32 to ↑ 9) | ↓ 14 (↓ 24 to ↓ 3) | NA |
-| Rifampin | 600 mg once daily | 150 mg once dailyc | 16 | ↑ 2 (↓ 7 to ↑ 12) | ↓ 1 (↓ 8 to ↑ 7) | NA |
+| Rifampin | 600 mg once daily | 150 mg once daily | 16 | ↑ 2 (↓ 7 to ↑ 12) | ↓ 1 (↓ 8 to ↑ 7) | NA |
 | 25-desacetylrifampin | 16 | ↔ (↓ 13 to ↑ 15) | ↓ 9 (↓ 23 to ↑ 7) | NA |  |  |
 | Simeprevir | 150 mg once daily | 25 mg once daily | 21 | ↑ 10 (↓ 3 to ↑ 26) | ↑ 6 (↓ 6 to ↑ 19) | ↓ 4 (↓ 17 to ↑ 11) |
 | Telaprevir | 750 mg every 8 hours | 25 mg once daily | 13 | ↓ 3 (↓ 21 to ↑ 21) | ↓ 5 (↓ 24 to ↑ 18) | ↓ 11 (↓ 33 to ↑ 18) |
-| Tenofovir Disoproxil Fumarate | 300 mg once daily | 150 mg once daily | 16 | ↑19 (↑6 to ↑34) | ↑23 (↑16 to ↑31) | ↑24 (↑10 to ↑38) |
+| Tenofovir DF | 300 mg once daily | 150 mg once daily | 16 | ↑19 (↑6 to ↑34) | ↑23 (↑16 to ↑31) | ↑24 (↑10 to ↑38) |
 | NA = not available |  |  |  |  |  |  |
 
 No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with rilpivirine: acetaminophen, chlorzoxazone (administered 2 hours after rilpivirine), digoxin, ledipasvir, norethindrone, metformin, sildenafil (and its metabolite, N-desmethyl-sildenafil), and sofosbuvir (and its predominant circulating metabolite, GS-331007).
@@ -240,19 +244,19 @@ Mechanism of Action
 
 Emtricitabine: Emtricitabine, a synthetic nucleoside analog of cytidine, is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate.
 Emtricitabine 5'-triphosphate inhibits the activity of the HIV-1 RT by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA, which results in chain termination.
-Emtricitabine 5′-triphosphate is a weak inhibitor of mammalian DNA polymerase α, β, ε, and mitochondrial DNA polymerase γ.
+Emtricitabine 5′-triphosphate is a weak inhibitor of mammalian DNA polymerases α, β, ε, and mitochondrial DNA polymerase γ.
 
 Rilpivirine: Rilpivirine is a diarylpyrimidine non-nucleoside reverse transcriptase inhibitor of HIV-1 and inhibits HIV-1 replication by non-competitive inhibition of HIV-1 RT.
 Rilpivirine does not inhibit the human cellular DNA polymerases α, β, and mitochondrial DNA polymerase γ.
 
-Tenofovir Disoproxil Fumarate: Tenofovir DF is an acyclic nucleoside phosphonate diester analog of adenosine monophosphate.
+Tenofovir DF: Tenofovir DF is an acyclic nucleoside phosphonate diester analog of adenosine monophosphate.
 Tenofovir DF requires initial diester hydrolysis for conversion to tenofovir and subsequent phosphorylations by cellular enzymes to form tenofovir diphosphate.
 Tenofovir diphosphate inhibits the activity of HIV-1 RT by competing with the natural substrate deoxyadenosine 5′-triphosphate and, after incorporation into DNA, by DNA chain termination.
 Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases α, β, and mitochondrial DNA polymerase γ.
 
 Antiviral Activity
 
-Emtricitabine, Rilpivirine, and Tenofovir Disoproxil Fumarate: The triple combination of emtricitabine, rilpivirine, and tenofovir was not antagonistic in cell culture.
+Emtricitabine, Rilpivirine, and Tenofovir DF: The triple combination of emtricitabine, rilpivirine, and tenofovir was not antagonistic in cell culture.
 
 Emtricitabine: The antiviral activity of emtricitabine against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, the MAGI-CCR5 cell line, and peripheral blood mononuclear cells.
 The 50% effective concentration (EC50) values for emtricitabine were in the range of 0.0013–0.64 µM.
@@ -264,7 +268,7 @@ Rilpivirine demonstrated limited activity in cell culture against HIV-2 with a m
 Rilpivirine demonstrated antiviral activity against a broad panel of HIV-1 group M (subtype A, B, C, D, F, G, H) primary isolates with EC50 values ranging from 0.07–1.01 nM and was less active against group O primary isolates with EC50 values ranging from 2.88–8.45 nM.
 The antiviral activity of rilpivirine was not antagonistic when combined with the NNRTIs efavirenz, etravirine, or nevirapine; the N(t)RTIs abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, or zidovudine; the PIs amprenavir, atazanavir, darunavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, or tipranavir; the fusion inhibitor enfuvirtide; the CCR5 co-receptor antagonist maraviroc; or the integrase strand transfer inhibitor raltegravir.
 
-Tenofovir Disoproxil Fumarate: The antiviral activity of tenofovir against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, primary monocyte/macrophage cells, and peripheral blood lymphocytes.
+Tenofovir DF: The antiviral activity of tenofovir against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, primary monocyte/macrophage cells, and peripheral blood lymphocytes.
 The EC50 values for tenofovir were in the range of 0.04–8.5 µM.
 Tenofovir displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, G, and O (EC50 values ranged from 0.5–2.2 µM) and showed strain specific activity against HIV-2 (EC50 values ranged from 1.6–5.5 µM).
 In drug combination studies of tenofovir with NRTIs (abacavir, didanosine, emtricitabine, lamivudine, stavudine, and zidovudine), NNRTIs (delavirdine, efavirenz, nevirapine, and rilpivirine), and PIs (amprenavir, indinavir, nelfinavir, ritonavir, saquinavir), no antagonistic effects were observed.
@@ -273,7 +277,7 @@ Resistance
 
 In Cell Culture
 
-Emtricitabine and Tenofovir Disoproxil Fumarate: HIV-1 isolates with reduced susceptibility to emtricitabine or tenofovir have been selected in cell culture.
+Emtricitabine and Tenofovir DF: HIV-1 isolates with reduced susceptibility to emtricitabine or tenofovir have been selected in cell culture.
 Reduced susceptibility to emtricitabine was associated with M184V/I substitutions in HIV-1 RT.
 HIV-1 isolates selected by tenofovir expressed a K65R substitution in HIV-1 RT and showed a 2–4 fold reduction in susceptibility to tenofovir.
 In addition, a K70E substitution in HIV-1 RT has been selected by tenofovir and results in low-level reduced susceptibility to abacavir, emtricitabine, lamivudine, and tenofovir.
@@ -289,7 +293,7 @@ Moreover, genotypic and/or phenotypic resistance to emtricitabine or tenofovir e
 
 Emerging NNRTI substitutions in the rilpivirine resistance analysis of subjects' viruses included V90I, K101E/P/T, E138K/A/Q/G, V179I/L, Y181C/I, V189I, H221Y, F227C/L, and M230L, which were associated with a rilpivirine phenotypic fold change range of 2.6–621.
 The E138K substitution emerged most frequently during rilpivirine treatment, commonly in combination with the M184I substitution.
-The emtricitabine and lamivudine resistance-associated substitutions M184I or V and NRTI resistance-associated substitutions (K65R/N, A62V, D67N/G, K70E, Y115F, K219E/R) emerged more frequently in the rilpivirine resistance analysis subjects than in efavirenz resistance analysis subjects [See Table 9].
+The emtricitabine and lamivudine resistance-associated substitutions M184I or V and NRTI resistance-associated substitutions (K65R/N, A62V, D67N/G, K70E, Y115F, K219E/R) emerged more frequently in the rilpivirine resistance analysis subjects than in efavirenz resistance analysis subjects (See Table 9).
 
 NNRTI- and NRTI-resistance substitutions emerged less frequently in the resistance analysis of viruses from subjects with baseline viral loads of ≤100,000 copies/mL compared to viruses from subjects with baseline viral loads of >100,000 copies/mL: 23% (10/44) compared to 77% (34/44) of NNRTI-resistance substitutions and 20% (9/44) compared to 80% (35/44) of NRTI-resistance substitutions.
 This difference was also observed for the individual emtricitabine/lamivudine and tenofovir resistance substitutions: 22% (9/41) compared to 78% (32/41) for M184I/V and 0% (0/8) compared to 100% (8/8) for K65R/N.
@@ -297,10 +301,10 @@ Additionally, NNRTI and/or NRTI-resistance substitutions emerged less frequently
 
 Table 9 Proportion of Frequently Emerging Reverse Transcriptase Substitutions in the HIV-1 Virus of Resistance Analysis Adult SubjectsSubjects who qualified for resistance analysis Who Received Rilpivirine or Efavirenz in Combination with Emtricitabine/Tenofovir DF from Pooled Phase 3 TMC278-C209 and TMC278-C215 Trials in the Week 96 Analysis
 
-| N=550 | N=546 |  |
+|  | N=550 | N=546 |
 | --- | --- | --- |
 |  | C209 and C215 N=1096 |  |
-| Rilpivirine + FTC/TDF | Efavirenz + FTC/TDF |  |
+|  | Rilpivirine + FTC/TDF | Efavirenz + FTC/TDF |
 | Subjects who Qualified for Resistance Analysis | 14% (77/550) | 8% (43/546) |
 | Subjects with Evaluable Postbaseline Resistance Data | 70 | 31 |
 | Emergent NNRTI SubstitutionsV90, L100, K101, K103, V106, V108, E138, V179, Y181, Y188, V189, G190, H221, P225, F227, and M230 |  |  |
@@ -327,7 +331,7 @@ All 4 of the subjects who had resistance emergence on COMPLERA had evidence of e
 
 Cross Resistance
 
-Rilpivirine, Emtricitabine, and Tenofovir Disoproxil Fumarate:
+Rilpivirine, Emtricitabine, and Tenofovir DF:
 
 In Cell Culture
 
@@ -360,7 +364,7 @@ HIV-1 isolates containing the K65R substitution, selected in vivo by abacavir, d
 Viruses harboring substitutions conferring reduced susceptibility to stavudine and zidovudine (M41L, D67N, K70R, L210W, T215Y/F, K219Q/E), or didanosine (L74V), remained sensitive to emtricitabine.
 HIV-1 containing the substitutions associated with NNRTI resistance K103N or rilpivirine-associated substitutions were susceptible to emtricitabine.
 
-Tenofovir Disoproxil Fumarate: The K65R and K70E substitutions selected by tenofovir are also selected in some HIV-1-infected patients treated with abacavir or didanosine.
+Tenofovir DF: The K65R and K70E substitutions selected by tenofovir are also selected in some HIV-1-infected patients treated with abacavir or didanosine.
 HIV-1 isolates with the K65R and K70E substitutions also showed reduced susceptibility to emtricitabine and lamivudine.
 Therefore, cross-resistance among these NRTIs may occur in patients whose virus harbors the K65R substitution.
 HIV-1 isolates from patients (N=20) whose HIV-1 expressed a mean of 3 zidovudine-associated RT amino acid substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N) showed a 3.1-fold decrease in the susceptibility to tenofovir.

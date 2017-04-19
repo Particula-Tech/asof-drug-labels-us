@@ -17,7 +17,7 @@ Since rilpivirine is highly bound to plasma protein, dialysis is unlikely to res
 
 Administration of activated charcoal may be used to aid in removal of unabsorbed active substance.
 
-Tenofovir Disoproxil Fumarate: Limited clinical experience at doses higher than the therapeutic dose of VIREAD 300 mg is available.
+Tenofovir DF: Limited clinical experience at doses higher than the therapeutic dose of VIREAD 300 mg is available.
 In one study, 600 mg tenofovir DF was administered to 8 subjects orally for 28 days, and no severe adverse reactions were reported.
 The effects of higher doses are not known.
 

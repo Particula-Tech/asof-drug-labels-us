@@ -27,7 +27,7 @@ Rilpivirine hydrochloride has the following structural formula:
 Rilpivirine hydrochloride is a white to almost white powder.
 Rilpivirine hydrochloride is practically insoluble in water over a wide pH range.
 
-Tenofovir Disoproxil Fumarate: Tenofovir DF is a fumaric acid salt of the bis-isopropoxycarbonyloxymethyl ester derivative of tenofovir.
+Tenofovir DF: Tenofovir DF is a fumaric acid salt of the bis-isopropoxycarbonyloxymethyl ester derivative of tenofovir.
 The chemical name of tenofovir DF is 9-[(R)-2 [[bis[[(isopropoxycarbonyl)oxy]- methoxy]phosphinyl]methoxy]propyl]adenine fumarate (1:1).
 It has a molecular formula of C19H30N5O10P ∙ C4H4O4 and a molecular weight of 635.52.
 It has the following structural formula:
