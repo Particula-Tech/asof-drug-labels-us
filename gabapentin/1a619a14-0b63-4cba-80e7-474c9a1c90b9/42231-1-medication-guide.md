@@ -53,7 +53,7 @@ Do not stop taking gabapentin capsules without first talking to a healthcare pro
 Changes in behavior and thinking - Using gabapentin capsules in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
 
 3.
-Gabapentin capsules may cause a serious or life-threatening allergic reactions that may affect your skin or other parts of your body such as your liver or blood cells.
+Gabapentin capsules may cause serious or life-threatening allergic reactions that may affect your skin or other parts of your body such as your liver or blood cells.
 This may cause you to be hospitalized or to stop gabapentin capsules.
 You may or may not have a rash with an allergic reaction caused by gabapentin capsules.
 Call a healthcare provider right away if you have any of the following symptoms:
@@ -136,7 +136,7 @@ Gabapentin capsules may cause serious side effects including:
 See “What is the most important information I should know about gabapentin capsules?”
 
 - problems driving while using gabapentin capsules.
-  See “What should I avoid while taking gabapentin capsules?”
+  See “What I should avoid while taking gabapentin capsules?”
 - sleepiness and dizziness, which could increase the occurrence of accidental injury, including falls
 - The most common side effects of gabapentin capsules include:
   - lack of coordination
@@ -192,7 +192,4 @@ The capsules are printed with edible ink containing black iron oxide and shellac
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 * All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
-
-Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 06/2016
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 04/2017

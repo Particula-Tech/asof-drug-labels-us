@@ -154,17 +154,6 @@ Other reactions in more than 2% of pediatric patients 3 to 12 years of age but e
 The following adverse reactions have been identified during postmarketing use of gabapentin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hepatobiliary disorders: jaundice
-
-Investigations: elevated creatine kinase, elevated liver function tests Metabolism and nutrition disorders: hyponatremia
-
-Musculoskeletal and connective tissue disorder: rhabdomyolysis
-
-Nervous system disorders: movement disorder
-
-Reproductive system and breast disorders: breast enlargement, changes in libido, ejaculation disorders and anorgasmia
-
-Skin and subcutaneous tissue disorders: angioedema [see Warnings and Precautions (5.2], erythema multiforme, Stevens-Johnson syndrome.
-
+Hepatobiliary disorders: jaundice Investigations: elevated creatine kinase, elevated liver function tests Metabolism and nutrition disorders: hyponatremia Musculoskeletal and connective tissue disorder: rhabdomyolysis Nervous system disorders: movement disorder Psychiatric disorders: agitation Reproductive system and breast disorders: breast enlargement, changes in libido, ejaculation disorders and anorgasmia Skin and subcutaneous tissue disorders: angioedema [see Warnings and Precautions (5.2)], erythema multiforme, Stevens-Johnson syndrome.
 Adverse reactions following the abrupt discontinuation of gabapentin have also been reported.
 The most frequently reported reactions were anxiety, insomnia, nausea, pain, and sweating.
