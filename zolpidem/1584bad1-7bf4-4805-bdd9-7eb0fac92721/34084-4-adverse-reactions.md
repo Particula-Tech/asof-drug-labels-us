@@ -145,4 +145,4 @@ Rare: acute renal failure, dysuria, micturition frequency, nocturia, polyuria, p
 The following adverse reactions have been identified during post-approval use of zolpidem tartrate tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Liver and biliary system: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2x ULN, alkaline phosphatase ≥2x ULN, transaminase ≥5x ULN).
+Liver and biliary system: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2xULN, alkaline phosphatase ≥2xULN, transaminase ≥5xULN).

@@ -11,7 +11,7 @@ The risk of next-day psychomotor impairment, including impaired driving, is incr
 Patients should be warned against driving and other activities requiring complete mental alertness if zolpidem tartrate tablets are taken in these circumstances [see Dosage and Administration (2) and Clinical Studies (14.3)].
 
 Vehicle drivers and machine operators should be warned that, as with other hypnotics, there may be a possible risk of adverse reactions including drowsiness, prolonged reaction time, dizziness, sleepiness, blurred/double vision, reduced alertness and impaired driving the morning after therapy.
-In order to minimize this risk a full night of sleep (7-8 hours) is recommended.
+In order to minimize this risk a full night of sleep (7 to 8 hours) is recommended.
 
 ## 5.2 Need to Evaluate for Co-morbid Diagnoses
 

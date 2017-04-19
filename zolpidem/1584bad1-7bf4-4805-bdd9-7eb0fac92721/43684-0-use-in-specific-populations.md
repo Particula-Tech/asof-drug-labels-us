@@ -32,7 +32,7 @@ Caution should be exercised when zolpidem is administered to a nursing woman.
 Zolpidem is not recommended for use in children.
 Safety and effectiveness of zolpidem in pediatric patients below the age of 18 years have not been established.
 
-In an 8-week study, in pediatric patients (aged 6-17 years) with insomnia associated with attention-deficit/hyperactivity disorder (ADHD) an oral solution of zolpidem tartrate dosed at 0.25 mg/kg at bedtime did not decrease sleep latency compared to placebo.
+In an 8-week study, in pediatric patients (aged 6 to 17 years) with insomnia associated with attention-deficit/hyperactivity disorder (ADHD) an oral solution of zolpidem tartrate dosed at 0.25 mg/kg at bedtime did not decrease sleep latency compared to placebo.
 Psychiatric and nervous system disorders comprised the most frequent (> 5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs. 1.5%), headache (12.5% vs. 9.2%), and hallucinations were reported in 7% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [see Warnings and Precautions (5.4)].
 Ten patients on zolpidem (7.4%) discontinued treatment due to an adverse reaction.
 
@@ -54,7 +54,7 @@ Of these 18 patients, 14 (78%) were receiving zolpidem doses >10 mg.
 
 The dose of zolpidem tartrate tablets in elderly patients is 5 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative/hypnotic drugs [see Warnings and Precautions (5.1)].
 
-## 8.6 Gender Differences in Pharmacokinetics
+## 8.6 Gender Difference in Pharmacokinetics
 
 Women clear zolpidem tartrate from the body at a lower rate than men.
 Cmax and AUC parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
