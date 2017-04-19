@@ -13,3 +13,8 @@ Advise patients that if loss of strength, muscle weakness, blurred vision, dizzi
 Voiding Symptoms after Bladder Injections
 
 After bladder injections for urinary incontinence, advise patients to contact their physician if they experience difficulties in voiding or burning sensation upon voiding.
+
+Manufactured by:Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2017 Allergan.
+All rights reserved.
+All trademarks are the property of their respective owners.
+Patented. www.allergan.com/patent Irvine, CA 92612

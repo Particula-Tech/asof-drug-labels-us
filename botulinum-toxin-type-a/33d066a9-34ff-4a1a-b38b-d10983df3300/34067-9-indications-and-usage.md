@@ -14,7 +14,7 @@ BOTOX is indicated for the treatment of urinary incontinence due to detrusor ove
 
 BOTOX is indicated for the prophylaxis of headaches in adult patients with chronic migraine (≥15 days per month with headache lasting 4 hours a day or longer).
 
-Important limitations
+Important Limitations
 
 Safety and effectiveness have not been established for the prophylaxis of episodic migraine (14 headache days or fewer per month) in seven placebo-controlled studies.
 
@@ -28,7 +28,7 @@ Lower Limb Spasticity
 
 BOTOX is indicated for the treatment of lower limb spasticity in adult patients to decrease the severity of increased muscle tone in ankle and toe flexors (gastrocnemius, soleus, tibialis posterior, flexor hallucis longus, and flexor digitorum longus).
 
-Important limitations
+Important Limitations
 
 Safety and effectiveness of BOTOX have not been established for the treatment of other upper or lower limb muscle groups.
 Safety and effectiveness of BOTOX have not been established for the treatment of spasticity in pediatric patients under age 18 years.
@@ -43,7 +43,7 @@ BOTOX is indicated for the treatment of adults with cervical dystonia, to reduce
 
 BOTOX is indicated for the treatment of severe primary axillary hyperhidrosis that is inadequately managed with topical agents.
 
-Important limitations
+Important Limitations
 
 The safety and effectiveness of BOTOX for hyperhidrosis in other body areas have not been established.
 Weakness of hand muscles and blepharoptosis may occur in patients who receive BOTOX for palmar hyperhidrosis and facial hyperhidrosis, respectively.

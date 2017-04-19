@@ -1,4 +1,4 @@
-| MEDICATION GUIDE BOTOX® BOTOX® Cosmetic (Boe-tox) (onabotulinumtoxinA) for Injection |  |
+| MEDICATION GUIDE BOTOX® BOTOX®Cosmetic (Boe-tox) (onabotulinumtoxinA) for Injection |  |
 | --- | --- |
 | What is the most important information I should know about BOTOX and BOTOX Cosmetic? BOTOX and BOTOX Cosmetic may cause serious side effects that can be life threatening, including: Problems breathing or swallowingSpread of toxin effects |  |
 | These problems can happen hours, days, to weeks after an injection of BOTOX or BOTOX Cosmetic. Call your doctor or get medical help right away if you have any of these problems after treatment with BOTOX or BOTOX Cosmetic: 1. Problems swallowing, speaking, or breathing. These problems can happen hours, days, to weeks after an injection of BOTOX or BOTOX Cosmetic usually because the muscles that you use to breathe and swallow can become weak after the injection. Death can happen as a complication if you have severe problems with swallowing or breathing after treatment with BOTOX or BOTOX Cosmetic. People with certain breathing problems may need to use muscles in their neck to help them breathe. These people may be at greater risk for serious breathing problems with BOTOX or BOTOX Cosmetic. Swallowing problems may last for several months. People who cannot swallow well may need a feeding tube to receive food and water. If swallowing problems are severe, food or liquids may go into your lungs. People who already have swallowing or breathing problems before receiving BOTOX or BOTOX Cosmetic have the highest risk of getting these problems. |  |
@@ -20,4 +20,4 @@
 | Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 ©2016 Allergan. All rights reserved. All trademarks are the property of their respective owners. Patented. See: www.allergan.com/products/patent_notices |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: 1/2016 |
 
-72309US18 72312US18 72511US15
+72309US19 72312US19 72511US15

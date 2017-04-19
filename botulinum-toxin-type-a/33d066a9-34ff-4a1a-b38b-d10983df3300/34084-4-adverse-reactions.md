@@ -55,19 +55,34 @@ No change was observed in the overall safety profile with repeat dosing during a
 
 Detrusor Overactivity associated with a Neurologic Condition
 
-Table 13 presents the most frequently reported adverse reactions in double-blind, placebo-controlled studies within 12 weeks of injection for detrusor overactivity associated with a neurologic condition.
+Table 13 presents the most frequently reported adverse reactions in the two Phase 3 double-blind, placebo-controlled studies (NDO-1 and NDO-2) within 12 weeks of injection for patients with detrusor overactivity associated with a neurologic condition treated with BOTOX 200 Units.
 
-Table 13: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients Within the First 12 Weeks after Intradetrusor Injection in Double-blind, Placebo-controlled Clinical Trials
+Table 13: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients Within the First 12 Weeks after Intradetrusor Injection in Double-blind, Placebo-controlled Clinical Trials (NDO-1 and NDO-2)
 
 | Adverse Reactions | BOTOX 200 Units (N=262) | Placebo (N=272) |
 | --- | --- | --- |
 | Urinary tract infection Urinary retention Hematuria | 64 (24%) 45 (17%) 10 (4%) | 47 (17%) 8 (3%) 8 (3%) |
 
-The following adverse reactions with BOTOX 200 Units were reported at any time following initial injection and prior to re-injection or study exit (median duration of 44 weeks of exposure): urinary tract infections (49%), urinary retention (17%), constipation (4%), muscular weakness (4%), dysuria (4%), fall (3%), gait disturbance (3%), and muscle spasm (2%).
+The following adverse reactions with BOTOX 200 Units were reported at any time following initial injection and prior to re-injection or study exit (median duration of exposure was 44 weeks): urinary tract infections (49%), urinary retention (17%), constipation (4%), muscular weakness (4%), dysuria (4%), fall (3%), gait disturbance (3%), and muscle spasm (2%).
 
-In the MS patients enrolled in the double-blind, placebo-controlled trials, the MS exacerbation annualized rate (i.e., number of MS exacerbation events per patient-year) was 0.23 for BOTOX and 0.20 for placebo.
+In the Multiple Sclerosis (MS) patients enrolled in the double-blind, placebo-controlled trials, the MS exacerbation annualized rate (i.e., number of MS exacerbation events per patient-year) was 0.23 for BOTOX and 0.20 for placebo.
 
 No change was observed in the overall safety profile with repeat dosing.
+
+Table 14 presents the most frequently reported adverse reactions in a placebo-controlled, double-blind post-approval 52 week study with BOTOX 100 Units (Study NDO-3) conducted in MS patients with urinary incontinence due to detrusor overactivity associated with a neurologic condition.
+These patients were not adequately managed with at least one anticholinergic agent and not catheterized at baseline.
+The table below presents the most frequently reported adverse reactions within 12 weeks of injection.
+
+Table 14: Adverse Reactions Reported by >2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients Within the First 12 Weeks after Intradetrusor Injection (NDO-3)
+
+| Adverse Reactions | BOTOX 100 Unit (N=66) | Placebo (N=78) |
+| --- | --- | --- |
+| Urinary tract infection Bacteriuria Urinary retention Dysuria Residual urine volume* | 17 (26%) 6 (9%) 10 (15%) 3 (5%) 11 (17%) | 5 (6%) 4 (5%) 1 (1%) 1 (1%) 1 (1%) |
+| * Elevated PVR not requiring catheterization. Catheterization was required for PVR ≥350 mL regardless of symptoms, and for PVR ≥200 mL to <350 mL with symptoms (e.g., voiding difficulty). |  |  |
+
+The following adverse events with BOTOX 100 Units were reported at any time following initial injection and prior to re-injection or study exit (median duration of exposure was 51 weeks): urinary tract infections (39%), bacteriuria (18%), urinary retention (17%), residual urine volume* (17%), dysuria (9%), and hematuria (5%).
+
+No difference in the MS exacerbation annualized rate (i.e., number of MS exacerbating events per patient-year) was observed (BOTOX =0, placebo =0.07).
 
 Chronic Migraine
 
@@ -75,9 +90,9 @@ In double-blind, placebo-controlled chronic migraine efficacy trials (Study 1 an
 Discontinuations due to an adverse event were 4% in the BOTOX group and 1% in the placebo group.
 The most frequent adverse events leading to discontinuation in the BOTOX group were neck pain, headache, worsening migraine, muscular weakness and eyelid ptosis.
 
-The most frequently reported adverse reactions following injection of BOTOX for chronic migraine appear in Table 14.
+The most frequently reported adverse reactions following injection of BOTOX for chronic migraine appear in Table 15.
 
-Table 14: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients in Two Chronic Migraine Double-blind, Placebo-controlled Clinical Trials
+Table 15: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients in Two Chronic Migraine Double-blind, Placebo-controlled Clinical Trials
 
 | Adverse Reactions by System Organ Class | BOTOX 155 Units-195 Units (N=687) | Placebo (N=692) |
 | --- | --- | --- |
@@ -94,9 +109,9 @@ Severe worsening of migraine requiring hospitalization occurred in approximately
 
 Upper Limb Spasticity
 
-The most frequently reported adverse reactions following injection of BOTOX for adult upper limb spasticity appear in Table 15.
+The most frequently reported adverse reactions following injection of BOTOX for adult upper limb spasticity appear in Table 16.
 
-Table 15: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients in Adult Upper Limb Spasticity Double-blind, Placebo-controlled Clinical Trials
+Table 16: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients in Adult Upper Limb Spasticity Double-blind, Placebo-controlled Clinical Trials
 
 | Adverse Reactions by System Organ Class | BOTOX 251 Units- 360 Units (N=115) | BOTOX 150 Units- 250 Units (N=188) | BOTOX <150 Units (N=54) | Placebo (N=182) |
 | --- | --- | --- | --- | --- |
@@ -111,17 +126,22 @@ The type and frequency of adverse reactions observed in patients treated with 40
 
 Lower Limb Spasticity
 
-The most frequently reported adverse reactions following injection of BOTOX for adult lower limb spasticity appear in Table 16.
+The most frequently reported adverse reactions following injection of BOTOX for adult lower limb spasticity appear in Table 17.
 Two hundred thirty one patients enrolled in a double-blind placebo controlled study (Study 6) received 300 Units to 400 Units of BOTOX, and were compared with 233 patients who received placebo.
 Patients were followed for an average of 91 days after injection.
 
-Table 16: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients in Adult Lower Limb Spasticity Double-blind, Placebo-controlled Clinical Trial (Study 6)
+Table 17: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients in Adult Lower Limb Spasticity Double-blind, Placebo-controlled Clinical Trial (Study 6)
 
 | Adverse Reactions | BOTOX (N=231) | Placebo (N=233) |
 | --- | --- | --- |
-| Musculoskeletal and connective tissue disorders Arthralgia Back pain Myalgia | 8 (3%) 6 (3%) 4 (2%) | 2 (1%) 4 (2%) 3 (1%) |
-| Infections and infestations Upper respiratory tract infection | 4 (2%) | 2 (1%) |
-| General disorders and administration site conditions Injection site pain | 5 (2%) | 2 (1%) |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Arthralgia | 8 (3%) | 2 (1%) |
+| Back pain | 6 (3%) | 4 (2%) |
+| Myalgia | 4 (2%) | 3 (1%) |
+| Infections and infestations |  |  |
+| Upper respiratory tract infection | 4 (2%) | 2 (1%) |
+| General disorders and administration site conditions |  |  |
+| Injection site pain | 5 (2%) | 2 (1%) |
 
 Cervical Dystonia
 
@@ -165,19 +185,25 @@ In a series of 5587 injections, retrobulbar hemorrhage occurred in 0.3% of cases
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
-Formation of neutralizing antibodies to botulinum toxin type A may reduce the effectiveness of BOTOX treatment by inactivating the biological activity of the toxin.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to onabotulinumtoxinA in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 
 In a long term, open-label study evaluating 326 cervical dystonia patients treated for an average of 9 treatment sessions with the current formulation of BOTOX, 4 (1.2%) patients had positive antibody tests.
 All 4 of these patients responded to BOTOX therapy at the time of the positive antibody test.
 However, 3 of these patients developed clinical resistance after subsequent treatment, while the fourth patient continued to respond to BOTOX therapy for the remainder of the study.
 
-One patient among the 445 hyperhidrosis patients (0.2%), two patients among the 380 adult upper limb spasticity patients (0.5%), no patients among 406 migraine patients, no patients among 615 overactive bladder patients, and no patients among 475 detrusor overactivity associated with a neurologic condition patients with analyzed specimens developed the presence of neutralizing antibodies.
+One patient among the 445 hyperhidrosis patients (0.2%), two patients among the 380 adult upper limb spasticity patients (0.5%) and no patients among 406 migraine patients with analyzed specimens developed the presence of neutralizing antibodies.
 
-The data reflect the patients whose test results were considered positive or negative for neutralizing activity to BOTOX in a mouse protection assay.
-The results of these tests are highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of neutralizing activity to BOTOX with the incidence of antibodies to other products may be misleading.
+In overactive bladder patients with analyzed specimens from the two phase 3 studies and the open-label extension study, neutralizing antibodies developed in 0 of 954 patients (0.0%) while receiving BOTOX 100 Unit doses and 3 of 260 patients (1.2%) after subsequently receiving at least one 150 Unit dose.
+Response to subsequent BOTOX treatment was not different following seroconversion in these three patients.
 
+In detrusor overactivity associated with neurologic condition patients with analyzed specimens in the drug development program (including the open-label extension study), neutralizing antibodies developed in 3 of 300 patients (1.0%) after receiving only BOTOX 200 Unit doses and 5 of 258 patients (1.9%) after receiving at least one 300 Unit dose.
+Following development of neutralizing antibodies in these 8 patients, 4 continued to experience clinical benefit, 2 did not experience clinical benefit, and the effect on the response to BOTOX in the remaining 2 patients is not known.
+
+The data reflect the patients whose test results were considered positive for neutralizing activity to BOTOX in a mouse protection assay or negative based on a screening ELISA assay or mouse protection assay.
+
+Formation of neutralizing antibodies to botulinum toxin type A may reduce the effectiveness of BOTOX treatment by inactivating the biological activity of the toxin.
 The critical factors for neutralizing antibody formation have not been well characterized.
 The results from some studies suggest that BOTOX injections at more frequent intervals or at higher doses may lead to greater incidence of antibody formation.
 The potential for antibody formation may be minimized by injecting with the lowest effective dose given at the longest feasible intervals between injections.

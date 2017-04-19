@@ -265,7 +265,7 @@ The paralysis lasts for 2-6 weeks and gradually resolves over a similar time per
 Overcorrections lasting over six months have been rare.
 About one half of patients will require subsequent doses because of inadequate paralytic response of the muscle to the initial dose, or because of mechanical factors such as large deviations or restrictions, or because of the lack of binocular motor fusion to stabilize the alignment.
 
-Initial doses in Units
+Initial Doses in Units
 
 Use the lower listed doses for treatment of small deviations.
 Use the larger doses only for large deviations.
@@ -274,7 +274,7 @@ Use the larger doses only for large deviations.
 - For horizontal strabismus of 20 prism diopters to 50 prism diopters: 2.5 Units-5 Units in any one muscle.
 - For persistent VI nerve palsy of one month or longer duration: 1.25 Units-2.5 Units in the medial rectus muscle.
 
-Subsequent doses for residual or recurrent strabismus
+Subsequent Doses for Residual or Recurrent Strabismus
 
 - It is recommended that patients be re-examined 7-14 days after each injection to assess the effect of that dose.
 - Patients experiencing adequate paralysis of the target muscle that require subsequent injections should receive a dose comparable to the initial dose.
