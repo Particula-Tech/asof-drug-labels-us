@@ -6,6 +6,6 @@ A 3% (approx.) total concentration of sorbitol-mannitol contains sufficient solu
 Any solution that is absorbed intravascularly during transurethral prostatic or bladder surgery, although variable in amount depending primarily on the extent of surgery, will be excreted by the kidney.
 When absorbed intravascularly, sorbitol and mannitol act as osmotic diuretics.
 
-Intravascular absorption of sorbitol has been shown to produce elevations of serum lactate after TUR above preoperative values owing to sorbitol’s favored metabolism to lactate from pyruvate.
+Intravascular absorption of sorbitol has been shown to produce elevations of serum lactate after TUR above preoperative values owing to sorbitol's favored metabolism to lactate from pyruvate.
 Increased lactate levels were not sufficient to produce evidence of metabolic acidosis.
 Mannitol is only slightly metabolized and rapidly excreted by the kidney.
