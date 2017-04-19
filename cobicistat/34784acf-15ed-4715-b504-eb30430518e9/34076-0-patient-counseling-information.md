@@ -6,28 +6,24 @@ Drug Interactions
 
 GENVOYA may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or non-prescription medication or herbal products including St. John's wort [see Contraindications (4) and Drug Interactions (7)].
 
-Lactic Acidosis
-
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with use of drugs similar to GENVOYA.
-Advise patients that they should stop GENVOYA if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.1)].
-
 Post-treatment Acute Exacerbation of Hepatitis B in Patients with HBV Co-Infection
 
-Severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued products containing emtricitabine and/or TDF, and may likewise occur with discontinuation of GENVOYA [see Warnings and Precautions (5.2)].
+Severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued products containing emtricitabine and/or TDF, and may likewise occur with discontinuation of GENVOYA [see Warnings and Precautions (5.1)].
 Advise the patient to not discontinue GENVOYA without first informing their healthcare provider.
-
-Fat Redistribution
-
-Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known [see Warnings and Precautions (5.4)].
 
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started [see Warnings and Precautions (5.5)].
+Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started [see Warnings and Precautions (5.3)].
 
 Renal Impairment
 
 Advise patients to avoid taking GENVOYA with concurrent or recent use of nephrotoxic agents.
-Renal impairment including cases of acute renal failure has been reported in association with the use of tenofovir prodrugs [see Warnings and Precautions (5.6)].
+Renal impairment including cases of acute renal failure has been reported in association with the use of tenofovir prodrugs [see Warnings and Precautions (5.4)].
+
+Lactic Acidosis and Severe Hepatomegaly
+
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with use of drugs similar to GENVOYA.
+Advise patients that they should stop GENVOYA if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.5)].
 
 Missed Dosage
 

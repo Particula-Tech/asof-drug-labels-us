@@ -116,7 +116,7 @@ The pharmacokinetics, safety, and virologic and immunologic responses of GENVOYA
 
 GENVOYA is not recommended in patients with severe renal impairment (estimated creatinine clearance below 30 mL per minute).
 No dosage adjustment of GENVOYA is recommended in patients with estimated creatinine clearance greater than or equal to 30 mL per minute.
-The safety of GENVOYA has not been established in patients with estimated creatinine clearance that declines below 30 mL per minute [see Dosage and Administration (2.3), Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
+The safety of GENVOYA has not been established in patients with estimated creatinine clearance that declines below 30 mL per minute [see Dosage and Administration (2.3), Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

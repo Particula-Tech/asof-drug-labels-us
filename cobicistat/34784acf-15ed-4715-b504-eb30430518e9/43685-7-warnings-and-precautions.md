@@ -1,14 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Lactic Acidosis/Severe Hepatomegaly with Steatosis
-
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs in combination with other antiretrovirals.
-A majority of these cases have been in women.
-Obesity and prolonged nucleoside exposure may be risk factors.
-Particular caution should be exercised when administering nucleoside analogs to any patient with known risk factors for liver disease; however, cases have also been reported in patients with no known risk factors.
-Since TAF and emtricitabine are nucleos(t)ide analogs, treatment with GENVOYA should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
-
-## 5.2 Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV
+## 5.1 Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV
 
 Patients with HIV-1 should be tested for the presence of hepatitis B virus (HBV) before initiating antiretroviral therapy [see Dosage and Administration (2.1)].
 GENVOYA is not approved for the treatment of chronic HBV infection and the safety and efficacy of GENVOYA have not been established in patients coinfected with HIV-1 and HBV.
@@ -17,7 +9,7 @@ Severe acute exacerbations of hepatitis B (e.g., liver decompensation and liver 
 Patients coinfected with HIV-1 and HBV who discontinue GENVOYA should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
 If appropriate, anti-hepatitis B therapy may be warranted, especially in patients with advanced liver disease or cirrhosis, since post-treatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
 
-## 5.3 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
+## 5.2 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
 The concomitant use of GENVOYA and other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4) and Drug Interactions (7.5)]:
 
@@ -27,20 +19,14 @@ The concomitant use of GENVOYA and other drugs may result in known or potentiall
 See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
 Consider the potential for drug interactions prior to and during GENVOYA therapy; review concomitant medications during GENVOYA therapy; and monitor for the adverse reactions associated with the concomitant drugs.
 
-## 5.4 Fat Redistribution
-
-Redistribution or accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy.
-The mechanism and long-term consequences of these events are currently unknown.
-A causal relationship has not been established.
-
-## 5.5 Immune Reconstitution Syndrome
+## 5.3 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including emtricitabine, a component of GENVOYA.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections [such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis], which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
-## 5.6 New Onset or Worsening Renal Impairment
+## 5.4 New Onset or Worsening Renal Impairment
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir prodrugs in both animal toxicology studies and human trials.
 In clinical trials of GENVOYA, there have been no cases of Fanconi syndrome or Proximal Renal Tubulopathy (PRT).
@@ -56,3 +42,8 @@ Discontinue GENVOYA in patients who develop clinically significant decreases in 
 Cobicistat, a component of GENVOYA, produces elevations of serum creatinine due to inhibition of tubular secretion of creatinine without affecting glomerular filtration [see Adverse Reactions (6.1)].
 The elevation is typically seen within 2 weeks of starting therapy and is reversible after discontinuation.
 Patients who experience a confirmed increase in serum creatinine of greater than 0.4 mg per dL from baseline should be closely monitored for renal safety.
+
+## 5.5 Lactic Acidosis/Severe Hepatomegaly with Steatosis
+
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including emtricitabine, a component of GENVOYA, and tenofovir DF, another prodrug of tenofovir, alone or in combination with other antiretrovirals.
+Treatment with GENVOYA should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).

@@ -2,10 +2,10 @@
 
 The following adverse drug reactions are discussed in other sections of the labeling:
 
-- Lactic Acidosis/Severe Hepatomegaly with Steatosis [see Boxed Warning and Warnings and Precautions (5.1)]
-- Severe Acute Exacerbations of Hepatitis B [see Boxed Warning and Warnings and Precautions (5.2)]
-- Immune Reconstitution Syndrome [see Warnings and Precautions (5.5)]
-- New Onset or Worsening Renal Impairment [see Warnings and Precautions (5.6)]
+- Severe Acute Exacerbations of Hepatitis B [see Boxed Warning and Warnings and Precautions (5.1)]
+- Immune Reconstitution Syndrome [see Warnings and Precautions (5.3)]
+- New Onset or Worsening Renal Impairment [see Warnings and Precautions (5.4)]
+- Lactic Acidosis/Severe Hepatomegaly with Steatosis [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 

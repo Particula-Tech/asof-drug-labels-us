@@ -3,7 +3,7 @@
 ## 7.1 Not Recommended with Other Antiretroviral Medications
 
 GENVOYA is a complete regimen for the treatment of HIV-1 infection; therefore, coadministration of GENVOYA with other antiretroviral medications for treatment of HIV-1 infection should be avoided.
-Complete information regarding potential drug-drug interactions with other antiretroviral medications is not provided [see Contraindications, Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+Complete information regarding potential drug-drug interactions with other antiretroviral medications is not provided [see Contraindications, Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Potential for GENVOYA to Affect Other Drugs
 
@@ -31,7 +31,7 @@ Drugs that induce P-gp activity are expected to decrease the absorption of TAF, 
 ## 7.4 Drugs Affecting Renal Function
 
 Because emtricitabine and tenofovir are primarily excreted by the kidneys by a combination of glomerular filtration and active tubular secretion, coadministration of GENVOYA with drugs that reduce renal function or compete for active tubular secretion may increase concentrations of emtricitabine, tenofovir, and other renally eliminated drugs and this may increase the risk of adverse reactions.
-Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.6)].
+Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.4)].
 
 ## 7.5 Established and Other Potentially Significant Interactions
 
