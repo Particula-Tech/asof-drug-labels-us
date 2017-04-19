@@ -1,4 +1,4 @@
-PATIENT INFORMATION VIREAD® (VEER-ee-ad) (tenofovir disoproxil fumarate) tablets and oral powder
+# PATIENT INFORMATION VIREAD® (VEER-ee-ad) (tenofovir disoproxil fumarate) tablets and oral powder
 
 Read this Patient Information before you start taking VIREAD and each time you get a refill.
 There may be new information.
@@ -8,43 +8,15 @@ What is the most important information I should know about VIREAD?
 
 VIREAD can cause serious side effects, including:
 
-- 1.Build-up of an acid in your blood (lactic acidosis).
-  Lactic acidosis can happen in some people who take VIREAD.
-  Lactic acidosis is a serious medical emergency that can lead to death.
-  Lactic acidosis can be hard to identify early, because the symptoms could seem like symptoms of other health problems.
-  Call your healthcare provider right away if you get the following symptoms which could be signs of lactic acidosis:
-  - feeling very weak or tired
-  - have unusual (not normal) muscle pain
-  - have trouble breathing
-  - have stomach pain with
-    - nausea (feel sick to your stomach)
-    - vomiting
-  - feel cold, especially in your arms and legs
-  - feel dizzy or lightheaded
-  - have a fast or irregular heartbeat
-- 2.Severe liver problems.
-  Severe liver problems can happen in people who take VIREAD or similar medicines.
-  In some cases these liver problems can lead to death.
-  Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis) when you take VIREAD.
-  Call your healthcare provider right away if you have any of the following symptoms of liver problems:
-  - your skin or the white part of your eyes turns yellow (jaundice).
-  - dark "tea-colored" urine
-  - light-colored bowel movements (stools)
-  - loss of appetite for several days or longer
-  - nausea
-  - stomach pain
+Worsening of your Hepatitis B infection.
+Your hepatitis B Virus (HBV) infection may become worse (flare-up) if you take VIREAD and then stop it.
+A "flare-up" is when your HBV infection suddenly returns in a worse way than before.
 
-You may be more likely to get lactic acidosis or severe liver problems if you are female, very overweight (obese), or have been taking VIREAD for a long time.
-
-- 3.Worsening of your Hepatitis B infection.
-  Your hepatitis B Virus (HBV) infection may become worse (flare-up) if you take VIREAD and then stop it.
-  A "flare-up" is when your HBV infection suddenly returns in a worse way than before.
-  - Do not let your VIREAD run out.
-    Refill your prescription or talk to your healthcare provider before your VIREAD is all gone.
-  - Do not stop taking VIREAD without first talking to your healthcare provider.
-  - If you stop taking VIREAD, your healthcare provider will need to check your health often and do blood tests regularly to check your HBV infection.
-    Tell your healthcare provider about any new or unusual symptoms you may have after you stop taking VIREAD.
-- 4.Talk to your doctor about taking an HIV test before starting treatment with VIREAD for chronic hepatitis B. You should also get a test for HBV if you are taking VIREAD for treatment of HIV.
+- Do not let your VIREAD run out.
+  Refill your prescription or talk to your healthcare provider before your VIREAD is all gone.
+- Do not stop taking VIREAD without first talking to your healthcare provider.
+- If you stop taking VIREAD, your healthcare provider will need to check your health often and do blood tests regularly to check your HBV infection.
+  Tell your healthcare provider about any new or unusual symptoms you may have after you stop taking VIREAD.Talk to your doctor about taking an HIV test before starting treatment with VIREAD for chronic hepatitis B. You should also get a test for HBV if you are taking VIREAD for treatment of HIV.
 
 What is VIREAD?
 
@@ -77,8 +49,7 @@ Before you take VIREAD, tell your healthcare provider if you:
 - have bone problems.
 - have any other medical conditions, including HIV infection.
 - are pregnant or plan to become pregnant.
-  It is not known if VIREAD will harm your unborn baby.
-  Pregnancy Registry.
+  It is not known if VIREAD will harm your unborn baby.Pregnancy Registry.
   There is a pregnancy registry for women who take antiviral medicines during pregnancy.
   Its purpose is to collect information about the health of you and your baby.
   Talk to your healthcare provider about how you can take part in this registry.
@@ -89,11 +60,12 @@ Before you take VIREAD, tell your healthcare provider if you:
   Talk to your healthcare provider about the best way to feed your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+
 VIREAD may affect the way other medicines work, and other medicines may affect how VIREAD works.
 
 Do not take VIREAD if you also take:
 
-- other medicines that contain tenofovir (ATRIPLA®, COMPLERA®, STRIBILD®, TRUVADA®)
+- other medicines that contain tenofovir (ATRIPLA®, COMPLERA®, DESCOVY®, GENVOYA®, ODEFSEY®, STRIBILD®, TRUVADA®, VEMLIDY®)
 - adefovir (HEPSERA®)
 
 Especially tell your healthcare provider if you take the following medications.
@@ -103,6 +75,7 @@ Especially tell your healthcare provider if you take the following medications.
 - darunavir (Prezista)
 - lopinavir with ritonavir (Kaletra)
 - ledipasvir with sofosbuvir (HARVONI®)
+- sofosbuvir with velpatasvir (EPCLUSA®)
 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.
@@ -133,13 +106,15 @@ VIREAD may cause serious side effects, including:
 - New or worse kidney problems, including kidney failure, can happen in some people who take VIREAD.
   Your healthcare provider should do blood tests to check your kidneys before you start treatment with VIREAD.
   If you have had kidney problems in the past or need to take another medicine that can cause kidney problems, your healthcare provider may need to do blood tests to check your kidneys during your treatment with VIREAD.
+- Too much lactic acid in your blood (lactic acidosis).
+  Too much lactic acid is a serious but rare medical emergency that can lead to death.
+  Tell your healthcare provider right away if you get these symptoms: weakness or being more tired than usual, unusual muscle pain, being short of breath or fast breathing, stomach pain with nausea and vomiting, cold or blue hands and feet, feel dizzy or lightheaded, or a fast or abnormal heartbeat.
+- Severe liver problems.
+  In rare cases, severe liver problems can happen that can lead to death.
+  Tell your healthcare provider right away if you get these symptoms: skin or the white part of your eyes turns yellow, dark "tea-colored" urine, light-colored stools, loss of appetite for several days or longer, nausea, or stomach-area pain.
 - Bone problems can happen in some people who take VIREAD.
   Bone problems include bone pain, softening or thinning (which may lead to fractures).
   Your healthcare provider may need to do additional tests to check your bones.
-- Changes in body fat can happen in some people who take antiviral medicines.
-  These changes may include increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the main part of your body (trunk).
-  Loss of fat from the legs, arms, and face may also happen.
-  The cause and long-term health effects of these conditions are not known.
 - Changes in your immune system (Immune Reconstitution Syndrome) can happen when you start taking HIV medicines.
   Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
   Tell your healthcare provider if you start having new symptoms after starting your HIV medicine.
@@ -183,10 +158,12 @@ It may harm them.
 
 Avoid doing things that can spread HIV-1 or HBV infection to others.
 
-- Do not share or re-use needles or other injection equipment.
-- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-- Do not have any kind of sex without protection.
-  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+Do not share or re-use needles or other injection equipment.
+
+Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+
+Do not have any kind of sex without protection.
+Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 
 A vaccine is available to protect people at risk for becoming infected with HBV.
 You can ask your healthcare provider for information about this vaccine.
@@ -212,3 +189,42 @@ Tablet Coating:
 VIREAD tablets 300 mg: Opadry II Y-30-10671-A, which contains FD&C blue #2 aluminum lake, hypromellose 2910, lactose monohydrate, titanium dioxide, and triacetin.
 
 VIREAD tablets 150, 200 and 250 mg: Opadry II 32K-18425, which contains hypromellose 2910, lactose monohydrate, titanium dioxide, and triacetin.
+
+Instructions for Use of VIREAD oral powder
+
+Read the Instructions for Use below before you give VIREAD oral powder.
+Be sure you can understand and follow them.
+If you have any questions, ask your healthcare provider or pharmacist.
+
+Important information
+
+- VIREAD oral powder comes in a box that has a bottle of VIREAD and a dosing scoop (see Figure A).
+- Only use the dosing scoop to measure VIREAD oral powder.
+- Only mix VIREAD oral powder with soft foods that can be swallowed without chewing.
+  Examples of soft foods you can use are: applesauce, baby food, or yogurt.
+- Do not mix VIREAD oral powder with liquid.
+  The powder may float to the top even after stirring.
+- Give the entire dose right away after mixing to avoid a bad taste.
+
+How do I prepare and give VIREAD oral powder?
+
+1. Wash and dry your hands.
+2. Measure ¼ to ½ cup of soft food into a cup or bowl.
+3. To open a new bottle of powder, press down on the bottle lid and turn to remove (see picture on the top of the bottle cap).
+   Peel off the foil.
+4. Measure the number of scoops prescribed by your healthcare provider.
+   - For each full scoop prescribed:
+     - Fill the dosing scoop to the top.
+     - Use the flat edge of clean knife to make the powder even with the top of the scoop (see Figure B).
+   - For ½ scoop:
+     - Fill the dosing scoop up to the "½ line" on the side (see Figure C).
+5. Sprinkle the VIREAD oral powder on the soft food.
+   Stir with a spoon until well mixed.
+   Give the entire dose right away after mixing to avoid a bad taste.
+6. Close the bottle of VIREAD tightly.
+7. Wash and dry the dosing scoop.
+   Do not store the dosing scoop in the bottle.
+
+See the section "How should I store VIREAD?" for information about how to store VIREAD oral powder.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.

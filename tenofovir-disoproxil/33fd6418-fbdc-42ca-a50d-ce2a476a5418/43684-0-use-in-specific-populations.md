@@ -12,13 +12,13 @@ Healthcare providers are encouraged to register patients by calling 1-800-258-42
 
 Risk Summary
 
-#### Animal Data
+Animal Data
 
 Reproduction studies have been performed in rats and rabbits at doses up to 14 and 19 times the human dose based on body surface area comparisons and revealed no evidence of impaired fertility or harm to the fetus due to tenofovir.
 
 ## 8.3 Nursing Mothers
 
-Nursing Mothers: The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
+Nursing Mothers: The Centers for Disease Control and Prevention recommend that HIV-1 infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 Samples of breast milk obtained from five HIV-1 infected mothers in the first post-partum week show that tenofovir is secreted in human milk.
 The impact of this exposure in breastfed infants is unknown.
 Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving VIREAD.
@@ -30,7 +30,7 @@ Pediatric Patients 2 Years of Age and Older with HIV-1 infection
 The safety of VIREAD in pediatric patients aged 2 to less than 18 years is supported by data from two randomized trials in which VIREAD was administered to HIV-1 infected treatment-experienced subjects.
 In addition, the pharmacokinetic profile of tenofovir in patients 2 to less than 18 years of age at the recommended doses was similar to that found to be safe and effective in adult clinical trials [See Clinical Pharmacology (12.3)].
 
-In Study 352, 92 treatment-experienced subjects 2 to less than 12 years of age with stable, virologic suppression on stavudine- or zidovudine-containing regimen were randomized to either replace stavudine or zidovudine with VIREAD (N = 44) or continue their original regimen (N = 48) for 48 weeks.
+In Study 352, 92 treatment-experienced subjects 2 to less than 12 years of age with stable, virologic suppression on stavudine- or zidovudine-containing regimen were randomized to either replace stavudine or zidovudine with VIREAD (N=44) or continue their original regimen (N=48) for 48 weeks.
 Five additional subjects over the age of 12 were enrolled and randomized (VIREAD N=4, original regimen N=1) but are not included in the efficacy analysis.
 After 48 weeks, all eligible subjects were allowed to continue in the study receiving open-label VIREAD.
 At Week 48, 89% of subjects in the VIREAD treatment group and 90% of subjects in the stavudine or zidovudine treatment group had HIV-1 RNA concentrations less than 400 copies/mL.
@@ -49,7 +49,7 @@ Safety and effectiveness of VIREAD in pediatric patients younger than 2 years of
 
 Pediatric Patients 12 Years of Age and Older with Chronic Hepatitis B
 
-In Study 115, 106 HBeAg negative (9%) and positive (91%) subjects aged 12 to less than 18 years with chronic HBV infection were randomized to receive blinded treatment with VIREAD 300 mg (N = 52) or placebo (N = 54) for 72 weeks.
+In Study 115, 106 HBeAg negative (9%) and positive (91%) subjects aged 12 to less than 18 years with chronic HBV infection were randomized to receive blinded treatment with VIREAD 300 mg (N=52) or placebo (N=54) for 72 weeks.
 At study entry, the mean HBV DNA was 8.1 log10 copies/mL and mean ALT was 101 U/L.
 Of 52 subjects treated with VIREAD, 20 subjects were nucleos(t)ide-naïve and 32 subjects were nucleos(t)ide-experienced.
 Thirty-one of the 32 nucleos(t)ide-experienced subjects had prior lamivudine experience.
