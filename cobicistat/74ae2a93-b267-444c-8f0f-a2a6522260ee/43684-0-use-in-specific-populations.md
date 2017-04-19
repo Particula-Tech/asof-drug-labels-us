@@ -84,7 +84,7 @@ Cobicistat: During the prenatal and postnatal developmental toxicology study at 
 
 ## 8.4 Pediatric Use
 
-The pharmacokinetics, safety, and virologic and immunologic responses were evaluated in 50 treatment-naïve, HIV-1-infected subjects aged 12 to less than 18 years weighing at least 35 kg (77 lbs) receiving STRIBILD through 48 weeks in an open-label trial (Study 112).
+The pharmacokinetics, safety, and virologic and immunologic responses were evaluated in 50 treatment-naïve, HIV-1 infected subjects aged 12 to less than 18 years weighing at least 35 kg (77 lbs) receiving STRIBILD through 48 weeks in an open-label trial (Study 112).
 The safety and efficacy of STRIBILD in these subjects was similar to that in antiretroviral treatment-naïve adults [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.4)].
 
 Safety and effectiveness of STRIBILD in pediatric patients less than 12 years of age or weighing less than 35 kg (77 lbs) have not been established.
@@ -97,13 +97,13 @@ In general, caution should be exercised in the administration of STRIBILD in eld
 ## 8.6 Renal Impairment
 
 Initiation of STRIBILD in patients with estimated creatinine clearance below 70 mL per min is not recommended.
-Because STRIBILD is a fixed-dose combination tablet, STRIBILD should be discontinued if estimated creatinine clearance declines below 50 mL per minute during treatment with STRIBILD as dose interval adjustment required for emtricitabine and tenofovir DF cannot be achieved [see Warnings and Precautions (5.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+Because STRIBILD is a fixed-dose combination tablet, STRIBILD should be discontinued if estimated creatinine clearance declines below 50 mL per minute during treatment with STRIBILD as dose interval adjustment required for emtricitabine and tenofovir DF cannot be achieved [see Warnings and Precautions (5.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
 No data are available to make dose recommendations for pediatric patients with renal impairment.
 
 Clinical Trials in Adult Subjects with Mild to Moderate Renal Impairment
 
-In Study 118, 33 HIV-1-infected treatment-naïve subjects with mild to moderate renal impairment (eGFR by Cockcroft-Gault method between 50 and 89 mL/minute) were studied in an open-label clinical trial evaluating the safety of 48 weeks of treatment with STRIBILD.
+In Study 118, 33 HIV-1 infected treatment-naïve subjects with mild to moderate renal impairment (eGFR by Cockcroft-Gault method between 50 and 89 mL/minute) were studied in an open-label clinical trial evaluating the safety of 48 weeks of treatment with STRIBILD.
 After 48 weeks of treatment, the mean change in serum creatinine was 0.17 ± 0.14 mg/dL and the mean change in eGFR by Cockcroft-Gault method was –6.9 ± 9.0 mL/minute for subjects treated with STRIBILD.
 
 Twelve of the 33 subjects studied had baseline eGFR between 50 and 70 mL/minute.

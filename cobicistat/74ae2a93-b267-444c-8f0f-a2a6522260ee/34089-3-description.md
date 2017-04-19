@@ -6,7 +6,7 @@ STRIBILD is a fixed-dose combination tablet containing elvitegravir, cobicistat,
 - Cobicistat is a mechanism-based inhibitor of cytochrome P450 (CYP) enzymes of the CYP3A family.
 - Emtricitabine is a synthetic nucleoside analog of cytidine.
   EMTRIVA is the brand name for emtricitabine.
-- Tenofovir DF is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5′-monophosphate.
+- Tenofovir DF is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5'-monophosphate.
   VIREAD is the brand name for tenofovir DF.
 
 Each tablet contains 150 mg of elvitegravir, 150 mg of cobicistat, 200 mg of emtricitabine, and 300 mg of tenofovir DF (equivalent to 245 mg of tenofovir disoproxil).
@@ -36,7 +36,7 @@ It has the following structural formula:
 
 Emtricitabine is a white to off-white crystalline powder with a solubility of approximately 112 mg per mL in water at 25 °C.
 
-Tenofovir Disoproxil Fumarate: Tenofovir DF is a fumaric acid salt of the bis-isopropoxycarbonyloxymethyl ester derivative of tenofovir.
+Tenofovir DF: Tenofovir DF is a fumaric acid salt of the bis-isopropoxycarbonyloxymethyl ester derivative of tenofovir.
 The chemical name of tenofovir DF is 9-[(R)-2-[[bis[[(isopropoxycarbonyl)oxy]-methoxy]phosphinyl]methoxy]propyl]adenine fumarate (1:1).
 It has a molecular formula of C19H30N5O10P ∙ C4H4O4 and a molecular weight of 635.51.
 It has the following structural formula:

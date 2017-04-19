@@ -13,39 +13,15 @@ What is the most important information I should know about STRIBILD?
 
 STRIBILD can cause serious side effects, including:
 
-- 1.Build-up of lactic acid in your blood (lactic acidosis).
-  Lactic acidosis can happen in some people who take STRIBILD or similar (nucleoside analogs) medicines.
-  Lactic acidosis is a serious medical emergency that can lead to death.
-  Lactic acidosis can be hard to identify early, because the symptoms could seem like symptoms of other health problems.
-  Call your healthcare provider right away if you get any of the following symptoms which could be signs of lactic acidosis:
-  - feel very weak or tired
-  - have unusual (not normal) muscle pain
-  - have trouble breathing
-  - have stomach pain with
-    - nausea
-    - vomiting
-  - feel cold, especially in your arms and legs
-  - feel dizzy or lightheaded
-  - have a fast or irregular heartbeat
-- 2.Severe liver problems.
-  Severe liver problems can happen in people who take STRIBILD.
-  In some cases, these liver problems can lead to death.
-  Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis).
-  Call your healthcare provider right away if you get any of the following symptoms of liver problems:You may be more likely to get lactic acidosis or severe liver problems if you are female, very overweight (obese), or have been taking STRIBILD for a long time.
-  - your skin or the white part of your eyes turns yellow (jaundice)
-  - dark "tea-colored" urine
-  - light-colored bowel movements (stools)
-  - loss of appetite for several days or longer
-  - nausea
-  - stomach pain
-- 3.Worsening of Hepatitis B infection.
-  If you have hepatitis B virus (HBV) infection and take STRIBILD, your HBV may get worse (flare-up) if you stop taking STRIBILD.
-  A "flare-up" is when your HBV infection suddenly returns in a worse way than before.
-  - Do not run out of STRIBILD.
-    Refill your prescription or talk to your healthcare provider before your STRIBILD is all gone.
-  - Do not stop taking STRIBILD without first talking to your healthcare provider.
-  - If you stop taking STRIBILD, your healthcare provider will need to check your health often and do blood tests regularly for several months to check your HBV infection.
-    Tell your healthcare provider about any new or unusual symptoms you may have after you stop taking STRIBILD.
+Worsening of Hepatitis B infection.
+If you have hepatitis B virus (HBV) infection and take STRIBILD, your HBV may get worse (flare-up) if you stop taking STRIBILD.
+A "flare-up" is when your HBV infection suddenly returns in a worse way than before.
+
+- Do not run out of STRIBILD.
+  Refill your prescription or talk to your healthcare provider before your STRIBILD is all gone.
+- Do not stop taking STRIBILD without first talking to your healthcare provider.
+- If you stop taking STRIBILD, your healthcare provider will need to check your health often and do blood tests regularly for several months to check your HBV infection.
+  Tell your healthcare provider about any new or unusual symptoms you may have after you stop taking STRIBILD.
 
 For more information about side effects, see the section "What are the possible side effects of STRIBILD?"
 
@@ -146,13 +122,15 @@ STRIBILD may cause the following serious side effects, including:
 - New or worse kidney problems, including kidney failure.
   Your healthcare provider should do blood and urine tests to check your kidneys before you start and while you are taking STRIBILD.
   Your healthcare provider may tell you to stop taking STRIBILD if you develop new or worse kidney problems.
+- Too much lactic acid in your blood (lactic acidosis).
+  Too much lactic acid is a serious but rare medical emergency that can lead to death.
+  Tell your healthcare provider right away if you get these symptoms: weakness or being more tired than usual, unusual muscle pain, being short of breath or fast breathing, stomach pain with nausea and vomiting, cold or blue hands and feet, feel dizzy or lightheaded, or a fast or abnormal heartbeat.
+- Severe liver problems.
+  In rare cases, severe liver problems can happen that can lead to death.
+  Tell your healthcare provider right away if you get these symptoms: skin or the white part of your eyes turns yellow, dark "tea-colored" urine, light-colored stools, loss of appetite for several days or longer, nausea, or stomach-area pain.
 - Bone problems can happen in some people who take STRIBILD.
   Bone problems include bone pain, softening, or thinning (which may lead to fractures).
   Your healthcare provider may need to do tests to check your bones.
-- Changes in body fat can happen in people who take HIV-1 medicine.
-  These changes may include increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the middle of your body (trunk).
-  Loss of fat from the legs, arms, and face may also happen.
-  The exact cause and long-term health effects of these conditions are not known.
 - Changes in your immune system (Immune Reconstitution Syndrome) can happen when you start taking HIV-1 medicines.
   Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
   Tell your healthcare provider right away if you start having any new symptoms after starting your HIV-1 medicine.
@@ -203,12 +181,11 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured and distributed by: Gilead Sciences, Inc. Foster City, CA 94404
 
-Revised: 01/2017
+Revised: April 2017
 
 © 2017 Gilead Sciences, Inc. All rights reserved.
 
-COMPLERA, EMTRIVA, STRIBILD, TRUVADA, TYBOST, VIREAD, and VITEKTA are trademarks of Gilead Sciences, Inc., or its related companies.
-ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
+EMTRIVA, STRIBILD, TYBOST, VIREAD, and VITEKTA are trademarks of Gilead Sciences, Inc., or its related companies.
 All other trademarks referenced herein are the property of their respective owners.
 
-203100-GS-008
+203100-GS-009

@@ -10,8 +10,7 @@ Table 1 Drugs that are Contraindicated with STRIBILD
 | Alpha 1-Adrenoreceptor Antagonist | Alfuzosin | Potential for increased alfuzosin concentrations, which can result in hypotension. |
 | Anticonvulsants | Carbamazepine Phenobarbital Phenytoin | Potential for decreased cobicistat and elvitegravir plasma concentrations, which may result in loss of therapeutic effect and development of resistance. |
 | Antimycobacterial | Rifampin | Rifampin is a potent inducer of CYP450 metabolism and may cause significant decrease in the plasma concentration of elvitegravir and cobicistat. This may result in loss of therapeutic effect to STRIBILD. |
-| Antipsychotic | Lurasidone | Potential for serious and/or life-threatening reactions. |
-|  | Pimozide | Potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
+| Antipsychotic | Lurasidone Pimozide | Potential for serious and/or life-threatening reactions. Potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
 | Ergot Derivatives | Dihydroergotamine Ergotamine Methylergonovine | Potential for serious and/or life-threatening events such as acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
 | GI Motility Agent | Cisapride | Potential for serious and/or life-threatening events such as cardiac arrhythmias. |
 | Herbal Products | St. John's wort (Hypericum perforatum) | Coadministration of products containing St. John's wort and STRIBILD may result in reduced plasma concentrations of elvitegravir and cobicistat. This may result in loss of therapeutic effect and development of resistance. |

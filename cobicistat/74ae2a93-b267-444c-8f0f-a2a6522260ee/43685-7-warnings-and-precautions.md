@@ -1,14 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Lactic Acidosis/Severe Hepatomegaly with Steatosis
-
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including tenofovir DF, a component of STRIBILD, in combination with other antiretrovirals.
-A majority of these cases have been in women.
-Obesity and prolonged nucleoside exposure may be risk factors.
-Particular caution should be exercised when administering nucleoside analogs to any patient with known risk factors for liver disease; however, cases have also been reported in patients with no known risk factors.
-Treatment with STRIBILD should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
-
-## 5.2 Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV
+## 5.1 Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV
 
 All patients with HIV-1 should be tested for the presence of hepatitis B virus (HBV) before initiating antiretroviral therapy [see Dosage and Administration (2.1)].
 STRIBILD is not approved for the treatment of chronic HBV infection, and the safety and efficacy of STRIBILD have not been established in patients coinfected with HIV-1 and HBV.
@@ -17,7 +9,7 @@ Severe acute exacerbations of hepatitis B (e.g., liver decompensated and liver f
 Patients who are coinfected with HIV-1 and HBV should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with STRIBILD.
 If appropriate, initiation of anti-hepatitis B therapy may be warranted, especially in patients with advanced liver disease or cirrhosis, since post-treatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
 
-## 5.3 New Onset or Worsening Renal Impairment
+## 5.2 New Onset or Worsening Renal Impairment
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir DF, a component of STRIBILD, and with the use of STRIBILD [see Adverse Reactions (6.2)].
 
@@ -44,6 +36,11 @@ Although cobicistat (a component of STRIBILD) may cause modest increases in seru
 The emtricitabine and tenofovir DF components of STRIBILD are primarily excreted by the kidney.
 STRIBILD should be discontinued if estimated creatinine clearance declines below 50 mL per minute as dose interval adjustment required for emtricitabine and tenofovir DF cannot be achieved with the fixed-dose combination tablet [see Use in Specific Populations (8.6)].
 
+## 5.3 Lactic Acidosis/Severe Hepatomegaly with Steatosis
+
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including tenofovir DF and emtricitabine, components of STRIBILD, alone or in combination with other antiretrovirals.
+Treatment with STRIBILD should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
+
 ## 5.4 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
 The concomitant use of STRIBILD and other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4) and Drug Interactions (7.5)]:
@@ -58,19 +55,19 @@ Consider the potential for drug interactions prior to and during STRIBILD therap
 
 Bone Mineral Density
 
-In clinical trials in HIV-1-infected adults, tenofovir DF (a component of STRIBILD) was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
+In clinical trials in HIV-1 infected adults, tenofovir DF (a component of STRIBILD) was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving tenofovir DF.
 For additional information, [see Adverse Reactions (6.1)] and consult the tenofovir DF prescribing information.
 
 Clinical trials evaluating tenofovir DF in pediatric and adolescent subjects were conducted.
 Under normal circumstances, BMD increases rapidly in pediatric patients.
-In HIV-1-infected subjects aged 2 years to less than 18 years, bone effects were similar to those observed in adult subjects and suggest increased bone turnover.
-Total body BMD gain was less in the tenofovir DF-treated HIV-1-infected pediatric subjects as compared to the control groups.
+In HIV-1 infected subjects aged 2 years to less than 18 years, bone effects were similar to those observed in adult subjects and suggest increased bone turnover.
+Total body BMD gain was less in the tenofovir DF-treated HIV-1 infected pediatric subjects as compared to the control groups.
 In all pediatric trials, skeletal growth (height) appeared to be unaffected.
 For more information, please consult the tenofovir DF prescribing information.
 
 The effects of tenofovir DF-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
-Assessment of BMD should be considered for HIV-1-infected adult and pediatric patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
+Assessment of BMD should be considered for HIV-1 infected adult and pediatric patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial in all patients.
 If bone abnormalities are suspected, then appropriate consultation should be obtained.
 
@@ -78,15 +75,9 @@ Mineralization Defects
 
 Cases of osteomalacia associated with proximal renal tubulopathy, manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with the use of tenofovir DF [see Adverse Reactions (6.2)].
 Arthralgias and muscle pain or weakness have also been reported in cases of proximal renal tubulopathy.
-Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should be considered in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving products containing tenofovir DF [see Warnings and Precautions (5.3)].
+Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should be considered in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving products containing tenofovir DF [see Warnings and Precautions (5.2)].
 
-## 5.6 Fat Redistribution
-
-Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy.
-The mechanism and long-term consequences of these events are currently unknown.
-A causal relationship has not been established.
-
-## 5.7 Immune Reconstitution Syndrome
+## 5.6 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including STRIBILD.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis), which may necessitate further evaluation and treatment.

@@ -32,7 +32,7 @@ Emtricitabine was not genotoxic in the reverse mutation bacterial test (Ames tes
 Emtricitabine did not affect fertility in male rats at approximately 140-fold or in male and female mice at approximately 60-fold higher exposures (AUC) than in humans given the recommended 200 mg daily dose.
 Fertility was normal in the offspring of mice exposed daily from before birth (in utero) through sexual maturity at daily exposures (AUC) of approximately 60-fold higher than human exposures at the recommended 200 mg daily dose.
 
-Tenofovir Disoproxil Fumarate: Long-term oral carcinogenicity studies of tenofovir DF in mice and rats were carried out at exposures up to approximately 10 times (mice) and 4 times (rats) those observed in humans at the therapeutic dose for HIV-1 infection.
+Tenofovir DF: Long-term oral carcinogenicity studies of tenofovir DF in mice and rats were carried out at exposures up to approximately 10 times (mice) and 4 times (rats) those observed in humans at the therapeutic dose for HIV-1 infection.
 At the high dose in female mice, liver adenomas were increased at exposures 10 times of that in humans.
 In rats, the study was negative for carcinogenic findings at exposures up to 4 times that observed in humans at the therapeutic dose.
 
