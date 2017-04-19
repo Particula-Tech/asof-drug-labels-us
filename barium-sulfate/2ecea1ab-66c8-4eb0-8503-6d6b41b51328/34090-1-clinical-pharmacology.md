@@ -1,4 +1,9 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Barium sulfate, due to its high molecular density is opaque to x-rays and, therefore, acts as a positive contrast agent for radiographic studies.
-Barium sulfate is biologically inert and, therefore, is not absorbed or metabolized by the body and is eliminated unchanged from the body.
+## 12.1 Mechanism of Action
+
+Due to its high atomic number, barium (the active ingredient in Liquid E-Z-PAQUE) is opaque to x-rays and therefore acts as a positive contrast agent for radiographic studies.
+
+## 12.3 Pharmacokinetics
+
+Under physiological conditions, barium sulfate passes through the gastrointestinal tract in an unchanged form and is absorbed only in pharmacologically insignificant amounts.

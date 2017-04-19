@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-For radiographic visualization of the gastrointestinal tract.
+Liquid E-Z-PAQUE is indicated for use in single contrast radiographic examinations of the esophagus, stomach, and small bowel to visualize the gastrointestinal (GI) tract in adult and pediatric patients.

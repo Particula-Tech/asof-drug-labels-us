@@ -1,5 +1,7 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-LIQUID E-Z-PAQUE® is supplied in the following quantities: 1900 mL jugs, Cat.
-No. L186, NDC 32909-186-01; 355 mL bottles, Cat.
-No. L196, NDC 32909-186-02.
+How Supplied Liquid E-Z-PAQUE (barium sulfate) is a suspension (60% w/v) supplied as a unit dose in a single use HDPE plastic bottle containing 213 grams of barium sulfate in 355 mL.
+
+Provided as: 24 x 355 mL bottles (NDC 32909-186-02).
+
+Storage and Handling Store at USP controlled room temperature 20 to 25°C (68 to 77° F). Protect from freezing.

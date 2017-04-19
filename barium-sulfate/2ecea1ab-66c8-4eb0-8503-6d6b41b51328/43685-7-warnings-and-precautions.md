@@ -1,44 +1,39 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Rarely, severe allergic reactions of an anaphylactoid nature, have been reported following administration of barium sulfate contrast agents.
-Appropriately trained personnel and facilities should be available for emergency treatment of severe reactions and should remain available for at least 30 to 60 minutes following administration, since delayed reactions can occur.
+## 5.1 Hypersensitivity Reactions
 
-# PRECAUTIONS
+Barium sulfate preparations contain a number of excipients, including natural and artificial flavors and may induce serious hypersensitivity reactions.
+The manifestations include hypotension, bronchospasm and other respiratory impairments, dermal reactions including rashes, urticaria and itching.
+A history of bronchial asthma, atopy or a previous reaction to a contrast agent may increase the risk for hypersensitivity reactions.
+Emergency equipment and trained personnel should be immediately available for treatment of a hypersensitivity reaction.
 
-## General
+## 5.2 Intra-abdominal Barium Leakage
 
-Diagnostic procedures which involve the use of radiopaque contrast agents should be carried out under the direction of personnel with the requisite training and with a thorough knowledge of the particular procedure to be performed.
-A history of bronchial asthma, atopy, as evidenced by hay fever and eczema, or a previous reaction to a contrast agent, warrant special attention.
-Caution should be exercised with the use of radiopaque media in severely debilitated patients and in those with marked hypertension or advanced cardiac disease.
+The use of Liquid E-Z-PAQUE is contraindicated in patients at high risk of perforation of the GI tract [see Contraindications (4)].
+Administration of Liquid E-Z-PAQUE may result in leakage of barium from the GI tract in the presence of conditions such as carcinomas, GI fistula, inflammatory bowel disease, gastric or duodenal ulcer, appendicitis, diverticulitis, and in patients with a severe stenosis at any level of the GI tract, especially distal to the stomach.
+Barium leakage has been associated with peritonitis and granuloma formation.
 
-Ingestion of this product is not recommended in patients with a history of food aspiration.
-If barium studies are required in these patients or in patients in whom integrity of the swallowing mechanism is unknown, proceed with caution.
-If this product is aspirated into the larynx, further administration should be immediately discontinued.
+## 5.3 Delayed Gastrointestinal Transit and Obstruction
 
-After any barium study of the GI tract, it is important to rehydrate the patient as quickly as possible to prevent impaction of the bowel by barium sulfate.
-To prevent barium sulfate impaction in the bowel, the use of mild laxatives such as milk of magnesia or lactulose, following completion of the examination may also be required.
-These mild laxatives are recommended on a routine basis and in patients with a history of constipation unless contraindicated.
+Orally administered barium sulfate may accumulate proximal to a constricting lesion of the colon, causing obstruction or impaction with development of baroliths (inspissated barium associated with feces) and may cause abdominal pain, appendicitis, bowel obstruction, or rarely perforation.
+Patients with the following conditions are at higher risk for developing obstruction or baroliths: severe stenosis at any level of the GI tract, impaired GI motility, electrolyte imbalance, dehydration, on a low residue diet, on medications that delay GI motility, constipation, cystic fibrosis or Hirschsprung disease, and the elderly [see Use in Specific Populations (8.4, 8.5)].
+To reduce the risk of delayed GI transit and obstruction, patients should maintain adequate hydration following a barium sulfate procedure.
 
-Use with caution in patients with complete or nearly complete obstruction of the GI tract.
+## 5.4 Aspiration Pneumonitis
 
-## Information for Patients
+The use of Liquid E-Z-PAQUE is contraindicated in patients at high risk of aspiration [see Contraindications (4)].
+Oral administration of barium is associated with aspiration pneumonitis, especially in patients with a history of food aspiration or with compromised swallowing mechanism.
+Vomiting following oral administration of barium sulfate may lead to aspiration pneumonitis.
+In patients at risk for aspiration, begin the procedure with a small ingested volume of Liquid E-Z-PAQUE.
+Discontinue administration of Liquid E-Z-PAQUE immediately if aspiration is suspected.
 
-Before administration of this product patients should be instructed to:
+## 5.5 Systemic Embolization
 
-1. Inform their physician if they are pregnant.
-2. Inform their physician if they are allergic to any drugs or food, or if they have had any prior reactions to barium sulfate products or other contrast agents used for x-ray procedures (see PRECAUTIONS: General).
-3. Inform their physician about any other medications they are currently taking.
+Barium sulfate products may occasionally intravasate into the venous drainage of the large bowel and enter the circulation as a "barium embolus" leading to potentially fatal complications which include systemic and pulmonary embolism, disseminated intravascular coagulation, septicemia and prolonged severe hypotension.
+Although this complication is exceedingly uncommon after oral administration of barium sulfate suspension, monitor patients for potential intravasation when administering barium sulfate.
 
-## Drug Interactions
+## 5.6 Risk with Hereditary Fructose Intolerance
 
-The presence of barium sulfate formulations in the GI tract may alter the absorption of therapeutic agents taken concomitantly.
-In order to minimize any potential change in absorption, the separate administration of barium sulfate from that of other agents should be considered.
-
-## Usage in Pregnancy
-
-Radiation is known to cause harm to the unborn fetus exposed in utero.
-Therefore, radiographic procedures should only be used when, in the judgement of the physician, its use is deemed essential to the welfare of the pregnant patient.
-
-## Nursing Mothers
-
-Barium sulfate products may be used during lactation.
+Liquid E-Z-PAQUE contains sorbitol which may cause severe symptoms if ingested by patients with hereditary fructose intolerance.
+Severe symptoms may include the following: vomiting, hypoglycemia, jaundice, hemorrhage, hepatomegaly, hyperuricemia, and kidney failure.
+Before administration of Liquid E-Z-PAQUE assess patients for a history of hereditary fructose intolerance and avoid use in these patients.
