@@ -148,7 +148,8 @@ Body as a Whole — Frequent: chills; Infrequent: suicide attempt; Rare: acute a
 Cardiovascular System — Frequent: palpitation; Infrequent: arrhythmia, hypotension1.
 Digestive System — Infrequent: dysphagia, gastritis, gastroenteritis, melena, stomach ulcer; Rare: bloody diarrhea, duodenal ulcer, esophageal ulcer, gastrointestinal hemorrhage, hematemesis, hepatitis, peptic ulcer, stomach ulcer hemorrhage.
 Hemic and Lymphatic System — Infrequent: ecchymosis; Rare: petechia, purpura.
-Nervous System — Frequent: emotional lability; Infrequent: akathisia, ataxia, balance disorder1, bruxism1, buccoglossal syndrome, depersonalization, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction; Rare: delusions.
+Investigations —Frequent: QT interval prolongation (QTcF ≥450 msec)3.
+Nervous System— Frequent: emotional lability; Infrequent: akathisia, ataxia, balance disorder1, bruxism1, buccoglossal syndrome, depersonalization, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction; Rare: delusions.
 Respiratory System — Rare: larynx edema.
 Skin and Appendages — Infrequent: alopecia; Rare: purpuric rash.
 Special Senses — Frequent: taste perversion; Infrequent: mydriasis.
@@ -156,6 +157,7 @@ Urogenital System — Frequent: micturition disorder; Infrequent: dysuria, gynec
 1 MedDRA dictionary term from integrated database of placebo controlled trials of 15870 patients, of which 9673 patients received fluoxetine.
 2 Group term that includes individual MedDRA terms: cervix hemorrhage uterine, dysfunctional uterine bleeding, genital hemorrhage, menometrorrhagia, menorrhagia, metrorrhagia, polymenorrhea, postmenopausal hemorrhage, uterine hemorrhage, vaginal hemorrhage.
 Adjusted for gender.
+3 QT prolongation data are based on routine ECG measurements in clinical trials.
 
 ## 6.3 Postmarketing Experience
 
