@@ -11,9 +11,9 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Protect from moisture.
 
-Distributed by: Lannett Company, Inc. Philadelphia, PA 19136 Made in the USA
+Distributed by: Lannett Company, Inc. Philadelphia, PA 19154 Made in the USA
 
-CIB70308B
+CIB70308C
 
 Rev.
-05/16
+04/17
