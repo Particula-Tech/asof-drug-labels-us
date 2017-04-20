@@ -1,4 +1,4 @@
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 EMTRIVA® (em-treev'-ah) capsules
 
@@ -16,29 +16,10 @@ Talk to your healthcare provider or pharmacist if you have any questions about E
 
 What is the most important information I should know about EMTRIVA?
 
-- Some people who have taken medicines like EMTRIVA (a nucleoside analog) have developed a serious condition called lactic acidosis (buildup of an acid in the blood).
-  Lactic acidosis can be a medical emergency and may need to be treated in the hospital.
-  Call your healthcare provider right away if you get the following signs of lactic acidosis.
-  - You feel very weak or tired.
-  - You have unusual (not normal) muscle pain.
-  - You have trouble breathing.
-  - You have stomach pain with nausea and vomiting.
-  - You feel cold, especially in your arm and legs.
-  - You feel dizzy or lightheaded.
-  - You have a fast or irregular heartbeat.
-- Some people who have taken medicines like EMTRIVA have developed serious liver problems called hepatotoxicity, with liver enlargement (hepatomegaly) and fat in the liver (steatosis).
-  Call your healthcare provider right away if you get the following signs of liver problems.
-  - Your skin or the white part of your eyes turns yellow (jaundice).
-  - Your urine turns dark.
-  - Your bowel movements (stools) turn light in color.
-  - You don't feel like eating food for several days or longer.
-  - You feel sick to your stomach (nausea).
-  - You have lower stomach area (abdominal) pain.
-- You may be more likely to get lactic acidosis or liver problems if you are female, very overweight (obese), or have been taking nucleoside analog medicines, like EMTRIVA, for a long time.
-- If you are also infected with the Hepatitis B Virus (HBV), you need close medical follow-up for several months after stopping treatment with EMTRIVA.
-  Follow-up includes medical exams and blood tests to check for HBV that is getting worse.
-  Patients with HBV infection, who take EMTRIVA and then stop it, may get "flare-ups" of their hepatitis.
-  A "flare-up" is when the disease suddenly returns in a worse way than before.
+If you are also infected with the Hepatitis B Virus (HBV), you need close medical follow-up for several months after stopping treatment with EMTRIVA.
+Follow-up includes medical exams and blood tests to check for HBV that is getting worse.
+Patients with HBV infection who take EMTRIVA and then stop it may get "flare-ups" of their hepatitis.
+A "flare-up" is when the disease suddenly returns in a worse way than before.
 
 What is EMTRIVA?
 
@@ -52,7 +33,7 @@ After a large number of T cells are destroyed, acquired immune deficiency syndro
 
 EMTRIVA helps to block HIV-1 reverse transcriptase, a chemical in your body (enzyme) that is needed for HIV-1 to multiply.
 EMTRIVA may lower the amount of HIV-1 in the blood (viral load).
-EMTRIVA may also help to increase the number of T cells called CD4+ cells.
+EMTRIVA may also help to increase the number of T cells, called CD4+ cells.
 Lowering the amount of HIV-1 in the blood lowers the chance of death or infections that happen when your immune system is weak (opportunistic infections).
 
 EMTRIVA does not cure HIV-1 infection or AIDS.
@@ -64,52 +45,65 @@ It is very important that you see your healthcare provider regularly while takin
 
 Who should not take EMTRIVA?
 
-- Do not take EMTRIVA if you are allergic to EMTRIVA or any of its ingredients.
-  The active ingredient is emtricitabine.
-  See the end of this leaflet for a complete list of ingredients.
-- Do not take EMTRIVA if you are already taking ATRIPLA®, COMPLERA®, STRIBILD™, TRUVADA®, Combivir, Epivir, Epivir-HBV, Epzicom, or Trizivir because these medicines contain the same or similar active ingredients.
+Do not take EMTRIVA if you are allergic to EMTRIVA or any of its ingredients.
+The active ingredient is emtricitabine.
+See the end of this leaflet for a complete list of ingredients.
+
+Do not take EMTRIVA if you are already taking ATRIPLA®, COMPLERA®, DESCOVY®, GENVOYA®, ODEFSEY®, STRIBILD®, TRUVADA®, Combivir, Epivir, Epivir-HBV, Epzicom, Triumeq, or Trizivir because these medicines contain the same or similar active ingredients.
 
 What should I tell my healthcare provider before taking EMTRIVA?
 
 Tell your healthcare provider
 
-- If you are pregnant or planning to become pregnant.
-  We do not know if EMTRIVA can harm your unborn child.
-  You and your healthcare provider will need to decide if EMTRIVA is right for you.
-  If you use EMTRIVA while you are pregnant, talk to your healthcare provider about how you can be on the EMTRIVA Antiviral Pregnancy Registry.
-- If you are breast-feeding.
-  You should not breast feed if you are HIV-positive because of the chance of passing the HIV virus to your baby.
-  Also, EMTRIVA can pass into your breast milk and it is not known if it can harm your baby.
-  If you are a woman who has or will have a baby, talk with your healthcare provider about the best way to feed your baby.
-- If you have kidney problems.
-  You may need to take EMTRIVA less often.
-- If you have any liver problems including Hepatitis B Virus infection.
-- Tell your healthcare provider about all your medical conditions.
-- Tell your healthcare provider about all the medicines you take such as prescription and non-prescription medicines and dietary supplements.
-  Keep a complete list of all the medicines that you take.
-  Make a new list when medicines are added or stopped.
-  Give copies of this list to all of your healthcare providers and pharmacist every time you visit or fill a prescription.
+If you are pregnant or planning to become pregnant.
+We do not know if EMTRIVA can harm your unborn child.
+You and your healthcare provider will need to decide if EMTRIVA is right for you.
+If you use EMTRIVA while you are pregnant, talk to your healthcare provider about how you can be on the EMTRIVA Antiviral Pregnancy Registry.
+
+If you are breastfeeding.
+You should not breastfeed if you are HIV-positive because of the chance of passing the HIV virus to your baby.
+Also, EMTRIVA can pass into your breast milk and it is not known if it can harm your baby.
+If you are a woman who has or will have a baby, talk with your healthcare provider about the best way to feed your baby.
+
+If you have kidney problems.
+You may need to take EMTRIVA less often.
+
+If you have any liver problems including Hepatitis B Virus infection.
+
+Tell your healthcare provider about all your medical conditions.
+
+Tell your healthcare provider about all the medicines you take such as prescription and nonprescription medicines and dietary supplements.
+Keep a complete list of all the medicines that you take.
+Make a new list when medicines are added or stopped.
+Give copies of this list to all of your healthcare providers and pharmacist every time you visit or fill a prescription.
 
 How should I take EMTRIVA?
 
-- Take EMTRIVA by mouth exactly as your healthcare provider prescribed it.
-  Follow the directions from your healthcare provider, exactly as written on the label.
+Take EMTRIVA by mouth exactly as your healthcare provider prescribed it.
+Follow the directions from your healthcare provider, exactly as written on the label.
+
 - Dosing in adults: The usual dose of EMTRIVA is 1 capsule once a day.
 - Dosing in children: The child's doctor will calculate the right dose of EMTRIVA (oral solution or capsule) based on the child's weight.
-- EMTRIVA is always used with other anti-HIV-1 medicines.
-- EMTRIVA may be taken with or without a meal.
-  Food does not affect how EMTRIVA works.
-- If you forget to take EMTRIVA, take it as soon as you remember that day.
-  Do not take more than 1 dose of EMTRIVA in a day.
-  Do not take 2 doses at the same time.
-  Call your healthcare provider or pharmacist if you are not sure what to do.
-  It is important that you do not miss any doses of EMTRIVA or your other anti-HIV-1 medicines.
-- When your EMTRIVA supply starts to run low, get more from your healthcare provider or pharmacy.
-  This is very important because the amount of virus in your blood may increase if the medicine is stopped for even a short time.
-  The virus may develop resistance to EMTRIVA and become harder to treat.
-- Stay under a healthcare provider's care when taking EMTRIVA.
-  Do not change your treatment or stop treatment without first talking with your healthcare provider.
-- If you take too much EMTRIVA, call your local poison control center or emergency room right away.
+
+EMTRIVA is always used with other anti-HIV-1 medicines.
+
+EMTRIVA may be taken with or without a meal.
+Food does not affect how EMTRIVA works.
+
+If you forget to take EMTRIVA, take it as soon as you remember that day.
+Do not take more than 1 dose of EMTRIVA in a day.
+Do not take 2 doses at the same time.
+Call your healthcare provider or pharmacist if you are not sure what to do.
+It is important that you do not miss any doses of EMTRIVA or your other anti-HIV-1 medicines.
+
+When your EMTRIVA supply starts to run low, get more from your healthcare provider or pharmacy.
+This is very important because the amount of virus in your blood may increase if the medicine is stopped for even a short time.
+The virus may develop resistance to EMTRIVA and become harder to treat.
+
+Stay under a healthcare provider's care when taking EMTRIVA.
+Do not change your treatment or stop treatment without first talking with your healthcare provider.
+
+If you take too much EMTRIVA, call your local poison control center or emergency room right away.
 
 What should I avoid while taking EMTRIVA?
 
@@ -127,23 +121,19 @@ What are the possible side effects of EMTRIVA?
 
 EMTRIVA may cause the following serious side effects (See "What is the most important information I should know about EMTRIVA?"):
 
-- lactic acidosis (buildup of an acid in the blood).
-  Lactic acidosis can be a medical emergency and may need to be treated in the hospital.
-  Call your doctor right away if you get signs of lactic acidosis (See "What is the most important information I should know about EMTRIVA?").
-- serious liver problems (hepatotoxicity), with liver enlargement (hepatomegaly) and fat in the liver (steatosis).
-  Call your healthcare provider right away if you get any signs of liver problems (See "What is the most important information I should know about EMTRIVA?").
-- "flare-ups" of Hepatitis B Virus infection, in which the disease suddenly returns in a worse way than before, can occur if you stop taking EMTRIVA.
-  EMTRIVA is not for the treatment of Hepatitis B Virus (HBV) infection.
+"flare-ups" of Hepatitis B Virus infection, in which the disease suddenly returns in a worse way than before, can occur if you stop taking EMTRIVA.
+EMTRIVA is not for the treatment of Hepatitis B Virus (HBV) infection.
 
-Other side effects with EMTRIVA when used with other anti-HIV-1 medicines include:
+Too much lactic acid in your blood (lactic acidosis).
+Too much lactic acid is a serious but rare medical emergency that can lead to death.
+Tell your healthcare provider right away if you get these symptoms: weakness or being more tired than usual, unusual muscle pain, being short of breath or fast breathing, stomach pain with nausea and vomiting, cold or blue hands and feet, feel dizzy or lightheaded, or a fast or abnormal heartbeat.
 
-- Changes in body fat have been seen in some patients taking EMTRIVA and other anti-HIV-1 medicines.
-  These changes may include increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the main part of your body (trunk).
-  Loss of fat from the legs, arms and face may also happen.
-  The cause and long term health effects of these conditions are not known at this time.
+Severe liver problems.
+In rare cases, severe liver problems can happen that can lead to death.
+Tell your healthcare provider right away if you get these symptoms: skin or the white part of your eyes turns yellow, dark "tea-colored" urine, light-colored stools, loss of appetite for several days or longer, nausea, or stomach-area pain.
 
 The most common side effects of EMTRIVA used with other anti-HIV-1 medicines are headache, diarrhea, and nausea.
-Other side effects include allergic reaction, dizziness, sleeping problems, abnormal dreams, vomiting, indigestion, stomach pain, pain, weakness and rash.
+Other side effects include allergic reaction, dizziness, sleeping problems, abnormal dreams, vomiting, indigestion, stomach pain, pain, weakness, and rash.
 Skin discoloration may also happen with EMTRIVA.
 
 There have been other side effects in patients taking EMTRIVA.
@@ -182,15 +172,23 @@ What are the ingredients of EMTRIVA?
 
 Active Ingredient: emtricitabine
 
-Inactive Ingredients for EMTRIVA capsules: crospovidone, magnesium stearate, microcrystalline cellulose, povidone, titanium dioxide, gelatin, and FD&C blue No. 2.
+Inactive Ingredients for EMTRIVA capsules: Crospovidone, magnesium stearate, microcrystalline cellulose, povidone, titanium dioxide, gelatin, and FD&C blue No. 2.
 
 Inactive Ingredients for EMTRIVA oral solution: Cotton candy flavor, FD&C yellow No. 6, edetate disodium, methylparaben and propylparaben, sodium phosphate (monobasic), propylene glycol, water, and xylitol.
 Sodium hydroxide and hydrochloric acid may be used to adjust pH.
 
-November 2012
+Revised: April 2017
 
-COMPLERA, EMTRIVA, STRIBILD, TRUVADA, and VIREAD are trademarks or registered trademarks of Gilead Sciences, Inc., or its related companies.
-ATRIPLA is a registered trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
+© 2017 Gilead Sciences, Inc. All rights reserved.
+
+Manufactured for and distributed by:
+
+Gilead Sciences, Inc.
+
+Foster City, CA 94404
+
+COMPLERA, DESCOVY, EMTRIVA, GENVOYA, ODEFSEY, STRIBILD, and TRUVADA are trademarks of Gilead Sciences, Inc., or its related companies.
+ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-21-500-896-GS-017
+21-500-896-GS-018

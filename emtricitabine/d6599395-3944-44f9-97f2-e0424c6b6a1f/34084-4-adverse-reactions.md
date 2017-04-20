@@ -2,9 +2,9 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Lactic acidosis/severe hepatomegaly with steatosis [See Boxed Warning, Warnings and Precautions (5.1)].
-- Severe acute exacerbations of Hepatitis B [See Boxed Warning, Warnings and Precautions (5.2)].
-- Immune reconstitution syndrome [See Warnings and Precautions (5.6)].
+- Severe Acute Exacerbations of Hepatitis B [See Boxed Warning, Warnings and Precautions (5.1)].
+- Lactic acidosis/severe hepatomegaly with steatosis [See Warnings and Precautions (5.2)].
+- Immune Reconstitution Syndrome [See Warnings and Precautions (5.5)].
 
 ## 6.1 Adverse Reactions from Clinical Trials Experience
 
@@ -14,20 +14,20 @@ More than 2,000 adult subjects with HIV-1 infection have been treated with EMTRI
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The most common adverse reactions (incidence greater than or equal to 10%, any severity) identified from any of the 3 large controlled clinical trials include headache, diarrhea nausea, fatigue, dizziness, depression, insomnia, abnormal dreams, rash, abdominal pain, asthenia, increased cough, and rhinitis.
+The most common adverse reactions (incidence greater than or equal to 10%, any severity) identified from any of the three large, controlled clinical trials include headache, diarrhea nausea, fatigue, dizziness, depression, insomnia, abnormal dreams, rash, abdominal pain, asthenia, increased cough, and rhinitis.
 
-Studies 301A and 303 - Treatment Emergent Adverse Reactions: The most common adverse reactions that occurred in subjects receiving EMTRIVA with other antiretroviral agents in clinical trials 301A and 303 were headache, diarrhea, nausea, and rash, which were generally of mild to moderate severity.
+Studies 301A and 303 – Treatment Emergent Adverse Reactions: The most common adverse reactions that occurred in subjects receiving EMTRIVA with other antiretroviral agents in clinical trials 301A and 303 were headache, diarrhea, nausea, and rash, which were generally of mild to moderate severity.
 Approximately 1% of subjects discontinued participation in the clinical trials due to these events.
-All adverse reactions were reported with similar frequency in EMTRIVA and control treatment groups with the exception of skin discoloration which was reported with higher frequency in the EMTRIVA treated group.
+All adverse reactions were reported with similar frequency in EMTRIVA and control treatment groups with the exception of skin discoloration, which was reported with higher frequency in the EMTRIVA-treated group.
 
-Skin discoloration, manifested by hyperpigmentation on the palms and/or soles was generally mild and asymptomatic.
+Skin discoloration, manifested by hyperpigmentation on the palms and/or soles, was generally mild and asymptomatic.
 The mechanism and clinical significance are unknown.
 
 A summary of EMTRIVA treatment-emergent clinical adverse reactions in Studies 301A and 303 is provided in Table 2.
 
 Table 2 Selected Treatment-Emergent Adverse Reactions (All Grades, Regardless of Causality) Reported in ≥3% of EMTRIVA-Treated Subjects in Either Study 301A or 303 (0–48 Weeks)
 
-| EMTRIVA + ZDV/d4T + NNRTI/PI (N=294) | Lamivudine + ZDV/d4T + NNRTI/PI (N=146) | EMTRIVA + didanosine + efavirenz (N=286) | Stavudine + didanosine + efavirenz (N=285) |  |
+|  | EMTRIVA + ZDV/d4T + NNRTI/PI (N=294) | Lamivudine + ZDV/d4T + NNRTI/PI (N=146) | EMTRIVA + didanosine + efavirenz (N=286) | Stavudine + didanosine + efavirenz (N=285) |
 | --- | --- | --- | --- | --- |
 |  | 303 |  | 301A |  |
 | Body as a Whole |  |  |  |  |
@@ -55,12 +55,12 @@ Table 2 Selected Treatment-Emergent Adverse Reactions (All Grades, Regardless of
 | Skin |  |  |  |  |
 | Rash eventRash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, pustular rash, and allergic reaction. | 17% | 14% | 30% | 33% |
 
-Studies 301A and 303 - Laboratory Abnormalities: Laboratory abnormalities in these trials occurred with similar frequency in the EMTRIVA and comparator groups.
-A summary of Grades 3–4 laboratory abnormalities is provided in Table 3 below.
+Studies 301A and 303 – Laboratory Abnormalities: Laboratory abnormalities in these trials occurred with similar frequency in the EMTRIVA and comparator groups.
+A summary of Grades 3–4 laboratory abnormalities is provided in Table 3.
 
 Table 3 Treatment-Emergent Grades 3–4 Laboratory Abnormalities Reported in ≥1% of EMTRIVA-Treated Subjects in Either Study 301A or 303
 
-| EMTRIVA + ZDV/d4T + NNRTI/PI (N=294) | Lamivudine + ZDV/d4T + NNRTI/PI (N=146) | EMTRIVA + Didanosine + Efavirenz (N=286) | Stavudine + Didanosine + Efavirenz (N=285) |  |
+|  | EMTRIVA + ZDV/d4T + NNRTI/PI (N=294) | Lamivudine + ZDV/d4T + NNRTI/PI (N=146) | EMTRIVA + Didanosine + Efavirenz (N=286) | Stavudine + Didanosine + Efavirenz (N=285) |
 | --- | --- | --- | --- | --- |
 |  | 303 |  | 301A |  |
 | Percentage with grade 3 or grade 4 laboratory abnormality | 31% | 28% | 34% | 38% |
@@ -75,7 +75,7 @@ Table 3 Treatment-Emergent Grades 3–4 Laboratory Abnormalities Reported in ≥
 | Serum lipase (>2.0 × ULN) | <1% | <1% | 1% | 2% |
 | Triglycerides (>750 mg/dL) | 10% | 8% | 9% | 6% |
 
-Study 934 - Treatment Emergent Adverse Reactions: In Study 934, 511 antiretroviral-naïve subjects received either VIREAD® + EMTRIVA administered in combination with efavirenz (N=257) or zidovudine/lamivudine administered in combination with efavirenz (N=254).
+Study 934 – Treatment Emergent Adverse Reactions: In Study 934, 511 antiretroviral-naïve subjects received either VIREAD® + EMTRIVA administered in combination with efavirenz (N=257) or zidovudine/lamivudine administered in combination with efavirenz (N=254).
 Adverse reactions observed in this trial were generally consistent with those seen in previous trials in treatment-experienced or treatment-naïve subjects (Table 4).
 
 Table 4 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
@@ -112,11 +112,17 @@ Table 5 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in An
 |  | TDFFrom Weeks 96 to 144 of the trial, subjects received TRUVADA with efavirenz in place of VIREAD + EMTRIVA with efavirenz. + EMTRIVA + EFV | AZT/3TC + EFV |
 | Any ≥ Grade 3 Laboratory Abnormality | 30% | 26% |
 | Fasting Cholesterol (>240 mg/dL) | 22% | 24% |
-| Creatine Kinase (M: >990 U/L) (F: >845 U/L) | 9% | 7% |
+| Creatine Kinase |  |  |
+| (M: >990 U/L) | 9% | 7% |
+| (F: >845 U/L) |  |  |
 | Serum Amylase (>175 U/L) | 8% | 4% |
 | Alkaline Phosphatase (>550 U/L) | 1% | 0% |
-| AST (M: >180 U/L) (F: >170 U/L) | 3% | 3% |
-| ALT (M: >215 U/L) (F: >170 U/L) | 2% | 3% |
+| AST |  |  |
+| (M: >180 U/L) | 3% | 3% |
+| (F: >170 U/L) |  |  |
+| ALT |  |  |
+| (M: >215 U/L) | 2% | 3% |
+| (F: >170 U/L) |  |  |
 | Hemoglobin (<8.0 mg/dL) | 0% | 4% |
 | Hyperglycemia (>250 mg/dL) | 2% | 1% |
 | Hematuria (>75 RBC/HPF) | 3% | 2% |
@@ -126,7 +132,7 @@ Table 5 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in An
 
 Clinical Trials in Pediatric Subjects
 
-Assessment of adverse reactions is based on data from Study 203, an open label, uncontrolled trial of 116 HIV-1-infected pediatric subjects who received emtricitabine through 48 weeks.
+Assessment of adverse reactions is based on data from Study 203, an open label, uncontrolled trial of 116 HIV-1 infected pediatric subjects who received emtricitabine through 48 weeks.
 The adverse reaction profile in pediatric subjects was generally comparable to that observed in clinical trials of EMTRIVA in adult subjects [See Adverse Reactions (6.1)].
 Hyperpigmentation was more frequent in children.
 Additional adverse reactions identified from this trial include anemia.

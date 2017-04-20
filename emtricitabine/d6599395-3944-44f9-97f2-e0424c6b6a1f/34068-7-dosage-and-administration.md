@@ -6,22 +6,24 @@ EMTRIVA may be taken without regard to food.
 
 ## 2.2 Adult Patients (18 years of age and older)
 
-- EMTRIVA capsules: one 200 mg capsule administered once daily orally.
-- EMTRIVA oral solution: 240 mg (24 mL) administered once daily orally.
+EMTRIVA capsules: One 200 mg capsule administered once daily orally.
+
+EMTRIVA oral solution: 240 mg (24 mL) administered once daily orally.
 
 ## 2.3 Pediatric Patients (0–3 months of age)
 
-- EMTRIVA oral solution: 3 mg per kg administered once daily orally.
+EMTRIVA oral solution: 3 mg per kg administered once daily orally.
 
 ## 2.4 Pediatric Patients (3 months through 17 years)
 
-- EMTRIVA oral solution: 6 mg per kg up to a maximum of 240 mg (24 mL) administered once daily orally.
-- EMTRIVA capsules: for children weighing more than 33 kg who can swallow an intact capsule, one 200 mg capsule administered once daily orally.
+EMTRIVA oral solution: 6 mg per kg up to a maximum of 240 mg (24 mL) administered once daily orally.
+
+EMTRIVA capsules: For children weighing more than 33 kg who can swallow an intact capsule, one 200 mg capsule administered once daily orally.
 
 ## 2.5 Dose Adjustment in Adult Patients with Renal Impairment
 
 Significantly increased drug exposures were seen when EMTRIVA was administered to subjects with renal impairment [See Clinical Pharmacology (12.3)].
-Therefore, the dosing interval or dose of EMTRIVA should be adjusted in patients with baseline creatinine clearance less than 50 mL per min using the following guidelines (see Table 1).
+Therefore, the dosing interval or dose of EMTRIVA should be adjusted in patients with baseline creatinine clearance less than 50 mL/min using the following guidelines (Table 1).
 The safety and effectiveness of these dose adjustment guidelines have not been clinically evaluated.
 Therefore, clinical response to treatment and renal function should be closely monitored in these patients.
 

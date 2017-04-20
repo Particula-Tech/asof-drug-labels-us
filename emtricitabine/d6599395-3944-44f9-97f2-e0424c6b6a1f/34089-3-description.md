@@ -9,7 +9,7 @@ It has a molecular formula of C8H10FN3O3S and a molecular weight of 247.24.
 It has the following structural formula:
 
 Emtricitabine is a white to off-white powder with a solubility of approximately 112 mg/mL in water at 25 °C.
-The log P for emtricitabine is -0.43 and the pKa is 2.65.
+The log P for emtricitabine is −0.43 and the pKa is 2.65.
 
 EMTRIVA is available as capsules or as an oral solution.
 

@@ -13,17 +13,17 @@ Healthcare providers are encouraged to register patients by calling 1–800–25
 
 ## 8.3 Nursing Mothers
 
-Nursing Mothers: The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV-1.
+Nursing Mothers: The Centers for Disease Control and Prevention recommend that HIV-1 infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 Samples of breast milk obtained from five HIV-1 infected mothers show that emtricitabine is secreted in human milk.
 Breastfeeding infants whose mothers are being treated with emtricitabine may be at risk for developing viral resistance to emtricitabine.
 Other emtricitabine-associated risks in infants breastfed by mothers being treated with emtricitabine are unknown.
-Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breast-feed if they are receiving EMTRIVA.
+Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving EMTRIVA.
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of emtricitabine in patients between 3 months and 21 years of age is supported by data from three open-label, non-randomized clinical trials in which emtricitabine was administered to 169 HIV-1 infected treatment-naive and experienced (defined as virologically suppressed on a lamivudine containing regimen for which emtricitabine was substituted for lamivudine) subjects [See Clinical Studies(14.3)].
+The safety and efficacy of emtricitabine in patients between 3 months and 21 years of age is supported by data from three open-label, nonrandomized clinical trials in which emtricitabine was administered to 169 HIV-1 infected treatment-naïve and experienced (defined as virologically suppressed on a lamivudine containing regimen for which emtricitabine was substituted for lamivudine) subjects [See Clinical Studies(14.3)].
 
-The pharmacokinetics of emtricitabine were studied in 20 neonates born to HIV-1-positive mothers [See Clinical Studies (14.3)].
+The pharmacokinetics of emtricitabine were studied in 20 neonates born to HIV-1 positive mothers [See Clinical Studies (14.3)].
 All neonates were HIV-1 negative at the end of the trial; the efficacy of emtricitabine in preventing or treating HIV-1 could not be determined.
 
 ## 8.5 Geriatric Use
