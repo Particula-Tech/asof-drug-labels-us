@@ -2,4 +2,4 @@ Pfizer Injectables Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfiz
 
 under license from Takeda GmbH D78467 Konstanz, Germany
 
-LAB-0462-12.0
+LAB-0462-13.0
