@@ -31,6 +31,8 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## 8.6 Renal Impairment
 
-Phentermine was not studied in patients with renal impairment.
 Based on the reported excretion of phentermine in urine, exposure increases can be expected in patients with renal impairment.
-Use caution when administering phentermine to patients with renal impairment [see Clinical Pharmacology (12.3)].
+[see Clinical Pharmacology (12.3)].
+
+Use caution when administering phentermine to patients with renal impairment.
+In patients with severe renal impairment (eGFR 15 to 29 mL/min/1.73m2), limit the dosage of phentermine to 15 mg daily [see Dosage and Administration (2.2)].Phentermine has not been studied in patients with eGFR less than 15 mL/min/1.73m2, including end-stage renal disease requiring dialysis; avoid use in these populations.
