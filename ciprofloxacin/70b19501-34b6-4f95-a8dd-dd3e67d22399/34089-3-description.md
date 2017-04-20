@@ -8,5 +8,5 @@ Sodium hydroxide or hydrochloric acid may be added for adjustment of pH.
 Ciprofloxacin, a fluoroquinolone, is available as the monohydrochloride monohydrate salt of 1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-(1-piperazinyl)-3-quinolinecarboxylic acid.
 Its empirical formula is C17H18FN3O3•HCI•H2O and its chemical structure is as follows:
 
-Hydrocortisone, pregn-4-ene-3, 20-dione, 11, 17, 21-trihydroxy-(11β)-, is an anti-inflammatory corticosteroid.
+Hydrocortisone, pregn-4-ene-3, 20-dione, 11, 17, 21-trihydroxy-(11(β)-, is an anti-inflammatory corticosteroid.
 Its empirical formula is C21H30O5 and its chemical structure is:

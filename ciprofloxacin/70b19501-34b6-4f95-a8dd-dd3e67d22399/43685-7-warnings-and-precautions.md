@@ -6,6 +6,7 @@ NOT FOR INJECTION.
 CIPRO® HC OTIC should be discontinued at the first appearance of a skin rash or any other sign of hypersensitivity.
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions, some following the first dose, have been reported in patients receiving systemic quinolones.
 Serious acute hypersensitivity reactions may require immediate emergency treatment.
+The dropper cap contains natural rubber (latex) which may cause severe allergic reactions.
 
 # PRECAUTIONS
 
@@ -66,7 +67,7 @@ This would be over 1000 times the maximum recommended clinical dose of ototopica
 Long term studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of topical hydrocortisone.
 Mutagenicity studies with hydrocortisone were negative.
 
-## Pregnancy: Teratogenic Effects. Pregnancy Category C:
+## Pregnancy: Teratogenic Effects:
 
 Reproduction studies have been performed in rats and mice using oral doses of up to 100 mg/kg and IV doses up to 30 mg/kg and have revealed no evidence of harm to the fetus as a result of ciprofloxacin.
 In rabbits, ciprofloxacin (30 and 100 mg/kg orally) produced gastrointestinal disturbances resulting in maternal weight loss and an increased incidence of abortion, but no teratogenicity was observed at either dose.

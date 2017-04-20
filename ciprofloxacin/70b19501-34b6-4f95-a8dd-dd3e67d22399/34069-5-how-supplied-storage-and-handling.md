@@ -7,22 +7,12 @@ NDC 0065-8531-10
 Store below 77° F (25° C). Avoid freezing.
 Protect from light.
 
-U.S. Patent Nos. 5,843,930; 5,965,549.
+U.S. Pat.: www.alconpatents.com
 
-Licensed to Alcon, Inc. by Bayer Schering Pharma AG.
+CIPRO is a registered trademark of Bayer Intellectual Property GmbH, licensed to Alcon by Bayer Intellectual Property AG.
 
-CIPRO® is a registered trademark of Bayer AG, licensed to Alcon, Inc. by Bayer AG.
+Distributed by: Alcon Laboratories, Inc. 6201 South Freeway Fort Worth, Texas 76134
 
-Rx Only
+© 2006, 2009, 2016 Novartis
 
-Mfd. by:
-
-ALCON CUSI, S.A.
-
-08320 El Masnou - Barcelona
-
-SPAIN
-
-© 2006, 2009 Alcon, Inc.
-
-6-13-932
+T2017-38 March 2017

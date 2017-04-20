@@ -2,7 +2,7 @@
 
 The plasma concentrations of ciprofloxacin were not measured following three drops of otic suspension administration because the systemic exposure to ciprofloxacin is expected to be below the limit of quantitation of the assay (0.05 μg/mL).
 
-Similarly, the predicted Cmax of hydrocortisone is within the range of endogenous hydrocortisone concentration (0-150 ng/mL), and therefore can not be differentiated from the endogenous cortisol.
+Similarly, the predicted Cmax of hydrocortisone is within the range of endogenous hydrocortisone concentration (0-150 ng/mL), and therefore cannot be differentiated from the endogenous cortisol.
 
 Preclinical studies have shown that CIPRO® HC OTIC was not toxic to the guinea pig cochlea when administered intratympanically twice daily for 30 days and was only weakly irritating to rabbit skin upon repeated exposure.
 
@@ -13,7 +13,6 @@ Microbiology
 Ciprofloxacin has in vitro activity against a wide range of gram-positive and gram-negative microorganisms.
 The bactericidal action of ciprofloxacin results from interference with the enzyme, DNA gyrase, which is needed for the synthesis of bacterial DNA.
 Cross-resistance has been observed between ciprofloxacin and other fluoroquinolones.
-
 There is generally no cross-resistance between ciprofloxacin and other classes of antibacterial agents such as beta-lactams or aminoglycosides.
 
 Ciprofloxacin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections of acute otitis externa as described in the INDICATIONS AND USAGE section:
