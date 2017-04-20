@@ -1,6 +1,8 @@
 {
   "application_numbers": [
-    "ANDA201146"
+    "ANDA201146",
+    "ANDA201787",
+    "ANDA202631"
   ],
   "inn": "donepezil",
   "labeler": "Macleods Pharmaceuticals Limited",
@@ -16,11 +18,27 @@
     "33342-028-12",
     "33342-028-15",
     "33342-028-31",
-    "33342-028-44"
+    "33342-028-44",
+    "33342-029-06",
+    "33342-029-07",
+    "33342-029-12",
+    "33342-029-60",
+    "33342-030-06",
+    "33342-030-07",
+    "33342-030-12",
+    "33342-030-60",
+    "33342-061-07",
+    "33342-061-10",
+    "33342-061-12"
   ],
   "products": [
     {
       "form": "TABLET, FILM COATED",
+      "generic": "donepezil hydrochloride",
+      "name": "Donepezil Hydrochloride"
+    },
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
       "generic": "donepezil hydrochloride",
       "name": "Donepezil Hydrochloride"
     }

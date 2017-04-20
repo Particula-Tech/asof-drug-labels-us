@@ -11,6 +11,6 @@ Pregnancy Category C
 There are no adequate or well-controlled studies in pregnant women.
 Donepezil hydrochloride tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Oral administration of donepezil to pregnant rats and rabbits during the period of organogenesis did not produce any teratogenic effects at doses up to 16 mg/kg/day (approximately 6 times the maximum recommended human dose [MRHD] of 23 mg/day on a mg/m2basis) and 10 mg/kg/day (approximately 7 times the MRHD on a mg/m2basis), respectively.
+Oral administration of donepezil to pregnant rats and rabbits during the period of organogenesis did not produce any teratogenic effects at doses up to 16 mg/kg/day (approximately 6 times the maximum recommended human dose [MRHD] of 23 mg/day on a mg/m2 basis) and 10 mg/kg/day (approximately 7 times the MRHD on a mg/m2 basis), respectively.
 Oral administration of donepezil (1, 3, 10 mg/kg/day) to rats during late gestation and throughout lactation to weaning produced an increase in stillbirths and reduced offspring survival through postpartum day 4 at the highest dose.
-The no-effect dose of 3 mg/kg/day is approximately equal to the MRHD on a mg/m2basis.
+The no-effect dose of 3 mg/kg/day is approximately equal to the MRHD on a mg/m2 basis.

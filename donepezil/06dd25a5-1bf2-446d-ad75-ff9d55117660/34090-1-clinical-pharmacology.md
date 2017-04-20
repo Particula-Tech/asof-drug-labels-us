@@ -10,9 +10,13 @@ There is no evidence that donepezil alters the course of the underlying dementin
 ## 12.3 Pharmacokinetics
 
 Pharmacokinetics of donepezil are linear over a dose range of 1-10 mg given once daily.
-The rate and extent of absorption of donepezil hydrochloride tablets are not influenced by food.
+The rate and extent of absorption of donepezil hydrochloride is not influenced by food.
+Based on population pharmacokinetic analysis of plasma donepezil concentrations measured in patients with Alzheimer’s disease, following oral dosing, peak plasma concentration is achieved for donepezil hydrochloride 23 mg tablets in approximately 8 hours, compared with 3 hours for donepezil hydrochloride 10 mg tablets.
+Peak plasma concentrations were about 2-fold higher for donepezil hydrochloride 23 mg tablets than donepezil hydrochloride 10 mg tablets.
 
-Based on population pharmacokinetic analysis of plasma donepezil concentrations measured in patients with Alzheimer’s disease, following oral dosing, peak plasma concentration is achieved in 3 hours for donepezil hydrochloride 10 mg tablets.
+Donepezil hydrochloride orally disintegrating tablets 5 mg and 10 mg are bioequivalent to donepezil hydrochloride 5 mg and 10 mg tablets, respectively.
+A food effect study has not been conducted with donepezil hydrochloride orally disintegrating tablets; however, the effect of food with donepezil hydrochloride orally disintegrating tablets is expected to be minimal.
+Donepezil hydrochloride orally disintegrating tablets can be taken without regard to meals.
 
 The elimination half life of donepezil is about 70 hours, and the mean apparent plasma clearance (Cl/F) is 0.13-0.19 L/hr/kg.
 Following multiple dose administration, donepezil accumulates in plasma by 4-7 fold, and steady state is reached within 15 days.
@@ -25,61 +29,43 @@ Following administration of 14C-labeled donepezil, plasma radioactivity, express
 Approximately 57% and 15% of the total radioactivity was recovered in urine and feces, respectively, over a period of 10 days, while 28% remained unrecovered, with about 17% of the donepezil dose recovered in the urine as unchanged drug.
 Examination of the effect of CYP2D6 genotype in Alzheimer’s patients showed differences in clearance values among CYP2D6 genotype subgroups.
 When compared to the extensive metabolizers, poor metabolizers had a 31.5% slower clearance and ultra-rapid metabolizers had a 24% faster clearance.
+Hepatic Disease In a study of 10 patients with stable alcoholic cirrhosis, the clearance of donepezil hydrochloride was decreased by 20% relative to 10 healthy age-and sex-matched subjects.
 
-Hepatic Disease
+Renal Disease In a study of 11 patients with moderate to severe renal impairment (ClC < 18 mL/min/1.73 m2) the clearance of donepezil hydrochloride did not differ from 11 age-and sex-matched healthy subjects.
 
-In a study of 10 patients with stable alcoholic cirrhosis, the clearance of donepezil hydrochloride tablets was decreased by 20% relative to 10 healthy age-and sex-matched subjects.
-
-Renal Disease
-
-In a study of 11 patients with moderate to severe renal impairment (ClC < 18 mL/min/1.73 m2) the clearance of donepezil hydrochloride did not differ from 11 age-and sex-matched healthy subjects.
-
-Age
-
-No formal pharmacokinetic study was conducted to examine age-related differences in the pharmacokinetics of donepezil hydrochloride tablets.
+Age No formal pharmacokinetic study was conducted to examine age-related differences in the pharmacokinetics of donepezil hydrochloride.
 Population pharmacokinetic analysis suggested that the clearance of donepezil in patients decreases with increasing age.
 When compared with 65-year old, subjects, 90-year old subjects have a 17% decrease in clearance, while 40-year old subjects have a 33% increase in clearance.
 The effect of age on donepezil clearance may not be clinically significant.
 
-Gender and Race
-
-No specific pharmacokinetic study was conducted to investigate the effects of gender and race on the disposition of donepezil hydrochloride tablets.
+Gender and Race No specific pharmacokinetic study was conducted to investigate the effects of gender and race on the disposition of donepezil hydrochloride.
 However, retrospective pharmacokinetic analysis and population pharmacokinetic analysis of plasma donepezil concentrations measured in patients with Alzheimer’s disease indicates that gender and race (Japanese and Caucasians) did not affect the clearance of donepezil hydrochloride to an important degree.
 
-Body Weight
-
-There was a relationship noted between body weight and clearance.
+Body Weight There was a relationship noted between body weight and clearance.
 Over the range of body weight from 50 kg to 110 kg, clearance increased from 7.77 L/h to 14.04 L/h, with a value of 10 L/hr for 70 kg individuals.
 
 Drug Interactions
 
-Effect of donepezil hydrochloride tablets on the Metabolism of Other Drugs
+Effect of donepezil hydrochloride on the Metabolism of Other Drugs
 
-No in vivo clinical trials have investigated the effect of donepezil hydrochloride tablets on the clearance of drugs metabolized by CYP 3A4 (e.g., cisapride, terfenadine) or by CYP 2D6 (e.g., imipramine).
+No in vivo clinical trials have investigated the effect of donepezil hydrochloride on the clearance of drugs metabolized by CYP 3A4 (e.g., cisapride, terfenadine) or by CYP 2D6 (e.g., imipramine).
 However, in vitro studies show a low rate of binding to these enzymes (mean Ki about 50-130 μM), that, given the therapeutic plasma concentrations of donepezil (164 nM), indicates little likelihood of interference.
 Based on in vitro studies, donepezil shows little or no evidence of direct inhibition of CYP2B6, CYP2C8, and CYP2C19 at clinically relevant concentrations.
 
-Whether donepezil hydrochloride tablets has any potential for enzyme induction is not known.
-Formal pharmacokinetic studies evaluated the potential of donepezil hydrochloride tablets for interaction with theophylline, cimetidine, warfarin, digoxin, and ketoconazole.
-No effects of donepezil hydrochloride tablets on the pharmacokinetics of these drugs were observed.
+Whether donepezil hydrochloride has any potential for enzyme induction is not known.
+Formal pharmacokinetic studies evaluated the potential of donepezil hydrochloride for interaction with theophylline, cimetidine, warfarin, digoxin, and ketoconazole.
+No effects of donepezil hydrochloride on the pharmacokinetics of these drugs were observed.
 
-Effect of Other Drugs on the Metabolism of donepezil hydrochloride tablets
-
-Ketoconazole and quinidine, strong inhibitors of CYP450 3A and 2D6, respectively, inhibit donepezil metabolism in vitro.
+Effect of Other Drugs on the Metabolism of donepezil hydrochloride Ketoconazole and quinidine, strong inhibitors of CYP450 3A and 2D6, respectively, inhibit donepezil metabolism in vitro.
 Whether there is a clinical effect of quinidine is not known.
 Population pharmacokinetic analysis showed that in the presence of concomitant CYP2D6 inhibitors donepezil AUC was increased by approximately 17% to 20% in Alzheimer’s disease patients taking donepezil hydrochloride tablets 10 and 23 mg.
 This represented an average effect of weak, moderate, and strong CYP2D6 inhibitors.
 In a 7-day crossover study in 18 healthy volunteers, ketoconazole (200 mg q.d.) increased mean donepezil (5 mg q.d.) concentrations (AUC0-24 and Cmax) by 36%.
 The clinical relevance of this increase in concentration is unknown.
 
-Inducers of CYP 3A (e.g., phenytoin, carbamazepine, dexamethasone, rifampin, and phenobarbital) could increase the rate of elimination of donepezil hydrochloride tablets.
-
-Formal pharmacokinetic studies demonstrated that the metabolisms of donepezil hydrochloride tablets are not significantly affected by concurrent administration of digoxin or cimetidine.
-
+Inducers of CYP 3A (e.g., phenytoin, carbamazepine, dexamethasone, rifampin, and phenobarbital) could increase the rate of elimination of donepezil hydrochloride.
+Formal pharmacokinetic studies demonstrated that the metabolisms of donepezil hydrochloride are not significantly affected by concurrent administration of digoxin or cimetidine.
 An in vitro study showed that donepezil was not a substrate of P-glycoprotein.
-
-Drugs Highly Bound to Plasma Proteins
-
-Drug displacement studies have been performed in vitro between this highly bound drug (96%) and other drugs such as furosemide, digoxin, and warfarin.
-Donepezil hydrochloride tablets at concentrations of 0.3-10 micrograms/mL did not affect the binding of furosemide (5 micrograms/mL), digoxin (2 ng/mL), and warfarin (3 micrograms/mL) to human albumin.
+Drugs Highly Bound to Plasma Proteins Drug displacement studies have been performed in vitro between this highly bound drug (96%) and other drugs such as furosemide, digoxin, and warfarin.
+Donepezil hydrochloride at concentrations of 0.3-10 micrograms/mL did not affect the binding of furosemide (5 micrograms/mL), digoxin (2 ng/mL), and warfarin (3 micrograms/mL) to human albumin.
 Similarly, the binding of donepezil hydrochloride to human albumin was not affected by furosemide, digoxin, and warfarin.
