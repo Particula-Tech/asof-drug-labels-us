@@ -8,4 +8,4 @@ Distributed by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
 
 TARO is a registered trademark of Taro Pharmaceuticals U.S.A., Inc.
 
-Revised: January 2014 PK-7380-1 226
+Revised: May 2016 PK-7380-2 17
