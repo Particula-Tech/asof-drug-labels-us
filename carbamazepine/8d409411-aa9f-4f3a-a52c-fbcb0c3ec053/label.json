@@ -1,18 +1,15 @@
 {
   "application_numbers": [
     "NDA016608",
-    "NDA018281",
     "NDA018927",
     "NDA020234"
   ],
   "inn": "carbamazepine",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
-    "0078-0492-05",
-    "0078-0492-35",
-    "0078-0492-61",
     "0078-0508-83",
     "0078-0509-05",
+    "0078-0509-20",
     "0078-0510-05",
     "0078-0511-05",
     "0078-0512-05"
@@ -25,11 +22,6 @@
     },
     {
       "form": "TABLET",
-      "generic": "carbamazepine",
-      "name": "Tegretol"
-    },
-    {
-      "form": "TABLET, CHEWABLE",
       "generic": "carbamazepine",
       "name": "Tegretol"
     },

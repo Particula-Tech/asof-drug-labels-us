@@ -19,9 +19,9 @@ Though clinical activity for the epoxide has been postulated, the significance o
 In clinical studies, Tegretol suspension, conventional tablets, and XR tablets delivered equivalent amounts of drug to the systemic circulation.
 However, the suspension was absorbed somewhat faster, and the XR tablet slightly slower, than the conventional tablet.
 The bioavailability of the XR tablet was 89% compared to suspension.
-Following a b.i.d. dosage regimen, the suspension provides higher peak levels and lower trough levels than those obtained from the conventional tablet for the same dosage regimen.
-On the other hand, following a t.i.d. dosage regimen, Tegretol suspension affords steady-state plasma levels comparable to Tegretol tablets given b.i.d. when administered at the same total mg daily dose.
-Following a b.i.d. dosage regimen, Tegretol-XR tablets afford steady-state plasma levels comparable to conventional Tegretol tablets given q.i.d., when administered at the same total mg daily dose.
+Following a twice a day dosage regimen, the suspension provides higher peak levels and lower trough levels than those obtained from the conventional tablet for the same dosage regimen.
+On the other hand, following a three times a day dosage regimen, Tegretol suspension affords steady-state plasma levels comparable to Tegretol tablets given twice a day when administered at the same total mg daily dose.
+Following a twice a day dosage regimen, Tegretol-XR tablets afford steady-state plasma levels comparable to conventional Tegretol tablets given four times a day, when administered at the same total mg daily dose.
 Tegretol in blood is 76% bound to plasma proteins.
 Plasma levels of Tegretol are variable and may range from 0.5 to 25 mcg/mL, with no apparent relationship to the daily intake of the drug.
 Usual adult therapeutic levels are between 4 and 12 mcg/mL.

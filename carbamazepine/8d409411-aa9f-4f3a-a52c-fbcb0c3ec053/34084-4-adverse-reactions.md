@@ -52,7 +52,7 @@ Hyponatremia (see WARNINGS, General).
 Decreased levels of plasma calcium have been reported.
 Osteoporosis has been reported.
 
-Isolated cases of a lupus erythematosus like syndrome have been reported.
+Isolated cases of a lupus erythematosus-like syndrome have been reported.
 There have been occasional reports of elevated levels of cholesterol, HDL cholesterol, and triglycerides in patients taking anticonvulsants.
 
 A case of aseptic meningitis, accompanied by myoclonus and peripheral eosinophilia, has been reported in a patient taking carbamazepine in combination with other medications.

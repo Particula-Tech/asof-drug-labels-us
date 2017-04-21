@@ -19,6 +19,8 @@ Tablets 200 mg - capsule-shaped, pink, single-scored (imprinted Tegretol on one 
 
 Bottles of 100.............................................................................................................................NDC 0078-0509-05
 
+Bottles of 60...............................................................................................................................NDC 0078-0509-20
+
 Do not store above 30°C (86°F).
 Protect from moisture.
 
@@ -53,4 +55,4 @@ Dispense in tight, light-resistant container (USP).
 
 *Thorazine® is a registered trademark of GlaxoSmithKline.
 
-T2015-136 September 2015
+T2017-50 April 2017

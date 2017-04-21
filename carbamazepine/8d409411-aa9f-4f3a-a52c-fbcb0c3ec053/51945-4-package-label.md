@@ -1,21 +1,5 @@
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – 100 mg
-
-Rx Only NDC 0078-0492-05
-
-Tegretol® 100 mg
-
-carbamazepine USP
-
-Chewable Tablets
-
-100 Tablets
-
-PHARMACIST: Dispense with Medication Guide attached or provided separately.
-
-# PRINCIPAL DISPLAY PANEL
-
 Package Label – 200 mg
 
 Rx Only NDC 0078-0509-05
