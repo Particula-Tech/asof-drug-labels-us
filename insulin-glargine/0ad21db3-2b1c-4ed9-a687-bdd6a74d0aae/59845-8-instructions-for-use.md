@@ -160,7 +160,7 @@ Instructions for Use revised: August 5, 2016
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA and Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877, USA
 
-Copyright © 2015, 2016, Eli Lilly and Company.
+Copyright © 2015, 2017, Eli Lilly and Company.
 All rights reserved.
 
 | BASAGLAR KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1:2014. |
@@ -170,4 +170,4 @@ BI (logo)
 
 Lilly (red script)
 
-BASKP-0003-IFU-20160805
+BASKP-0004-IFU-20170420
