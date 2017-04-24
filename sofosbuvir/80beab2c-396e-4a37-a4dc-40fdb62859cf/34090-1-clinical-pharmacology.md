@@ -60,7 +60,18 @@ No clinically relevant pharmacokinetic differences have been observed between me
 
 Pediatric Patients
 
-The pharmacokinetics of sofosbuvir in pediatric patients have not been established [see Use in Specific Populations (8.4)].
+The pharmacokinetics of sofosbuvir and GS-331007 were determined in 50 pediatric subjects 12 years of age and older, infected with HCV genotype 2 or 3, receiving a daily dose of SOVALDI (400 mg sofosbuvir).
+The pharmacokinetic properties of sofosbuvir and GS-331007 in pediatric subjects 12 years of age and older are provided in Table 7.
+Exposures in pediatric subjects were similar to those observed in adults.
+
+Table 7 Pharmacokinetic Properties of SOVALDI in HCV-infected Pediatric Subjects 12 Years of Age and OlderPopulation PK derived parameters
+
+| Geometric Mean | SofosbuvirSofosbuvir N=28; GS-331007 N=50 | GS-331007 |
+| --- | --- | --- |
+| AUCtau (ng∙hr/mL) | 1060 | 7570 |
+| Cmax (ng/mL) | 472 | 572 |
+
+The pharmacokinetics of sofosbuvir have not been established in pediatric subjects less than 12 years of age [see Use in Specific Populations (8.4)].
 
 Geriatric Patients
 
@@ -74,7 +85,7 @@ In subjects with ESRD, relative to subjects with normal renal function, sofosbuv
 A 4 hour hemodialysis session removed approximately 18% of administered dose.
 No dosage adjustment is required for patients with mild or moderate renal impairment.
 The safety and efficacy of SOVALDI have not been established in patients with severe renal impairment or ESRD.
-No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
+No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
@@ -92,43 +103,43 @@ Sofosbuvir and GS-331007 are not inhibitors of P-gp and BCRP and thus are not ex
 
 The intracellular metabolic activation pathway of sofosbuvir is mediated by generally low affinity and high capacity hydrolase and nucleotide phosphorylation pathways that are unlikely to be affected by concomitant drugs.
 
-The effects of coadministered drugs on the exposure of sofosbuvir and GS-331007 are shown in Table 5.
-The effects of sofosbuvir on the exposure of coadministered drugs are shown in Table 6 [see Drug Interactions (7.2)].
+The effects of coadministered drugs on the exposure of sofosbuvir and GS-331007 are shown in Table 8.
+The effects of sofosbuvir on the exposure of coadministered drugs are shown in Table 9 [see Drug Interactions (7.2)].
 
-Table 5 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers
+Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers
 
-|  | Cmax | AUC | Cmin |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Co-administered Drug | Dose of Coadministered Drug (mg) | Sofosbuvir Dose (mg) | N | Mean Ratio (90% CI) of Sofosbuvir and GS-331007 PK With/Without Coadministered Drug No Effect=1.00 |  |  |  |  |
-| Cyclosporine | 600 single dose | 400 single dose | 19 | sofosbuvir | 2.54 (1.87, 3.45) | 4.53 (3.26, 6.30) | NA |  |
-| GS-331007 | 0.60 (0.53, 0.69) | 1.04 (0.90, 1.20) | NA |  |  |  |  |  |
-| Darunavir (boosted with ritonavir) | 800/100 once daily | 400 single dose | 18 | sofosbuvir | 1.45 (1.10, 1.92) | 1.34 (1.12, 1.59) | NA |  |
-| GS-331007 | 0.97 (0.90, 1.05) | 1.24 (1.18, 1.30) | NA |  |  |  |  |  |
-| EfavirenzAdministered as efavirenz/emtricitabine/tenofovir disoproxil fumarate fixed dose tablet | 600 once daily | 400 single dose | 16 | sofosbuvir | 0.81 (0.60, 1.10) | 0.94 (0.76, 1.16) | NA |  |
-| Emtricitabine | 200 once daily |  |  |  |  |  |  |  |
-| Tenofovir disoproxil fumarate | 300 once daily | GS-331007 | 0.77 (0.70, 0.84) | 0.84 (0.76, 0.92) | NA |  |  |  |
-| Methadone | 30 to 130 once daily | 400 once daily | 14 | sofosbuvir | 0.95Comparison based on historic control (0.68, 1.33) | 1.30 (1.00, 1.69) | NA |  |
-| GS-331007 | 0.73 (0.65, 0.83) | 1.04 (0.89, 1.22) | NA |  |  |  |  |  |
-| Rilpivirine | 25 once daily | 400 single dose | 17 | sofosbuvir | 1.21 (0.90, 1.62) | 1.09 (0.94, 1.27) | NA |  |
-| GS-331007 | 1.06 (0.99, 1.14) | 1.01 (0.97, 1.04) | NA |  |  |  |  |  |
-| Tacrolimus | 5 single dose | 400 single dose | 16 | sofosbuvir | 0.97 (0.65, 1.43) | 1.13 (0.81, 1.57) | NA |  |
-| GS-331007 | 0.97 (0.83, 1.14) | 1.00 (0.87, 1.13) | NA |  |  |  |  |  |
-| NA = not available/not applicable |  |  |  |  |  |  |  |  |
+|  | Cmax | AUC | Cmin |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Co-administered Drug | Dose of Coadministered Drug (mg) | Sofosbuvir Dose (mg) | N | Mean Ratio (90% CI) of Sofosbuvir and GS-331007 PK With/Without Coadministered Drug No Effect=1.00 |  |  |  |
+| Cyclosporine | 600 single dose | 400 single dose | 19 | sofosbuvir | 2.54 (1.87, 3.45) | 4.53 (3.26, 6.30) | NA |
+| GS-331007 | 0.60 (0.53, 0.69) | 1.04 (0.90, 1.20) | NA |  |  |  |  |
+| Darunavir (boosted with ritonavir) | 800/100 once daily | 400 single dose | 18 | sofosbuvir | 1.45 (1.10, 1.92) | 1.34 (1.12, 1.59) | NA |
+| GS-331007 | 0.97 (0.90, 1.05) | 1.24 (1.18, 1.30) | NA |  |  |  |  |
+| EfavirenzAdministered as efavirenz/emtricitabine/tenofovir disoproxil fumarate fixed dose tablet | 600 once daily | 400 single dose | 16 | sofosbuvir | 0.81 (0.60, 1.10) | 0.94 (0.76, 1.16) | NA |
+| Emtricitabine | 200 once daily |  |  |  |  |  |  |
+| Tenofovir disoproxil fumarate | 300 once daily | GS-331007 | 0.77 (0.70, 0.84) | 0.84 (0.76, 0.92) | NA |  |  |
+| Methadone | 30 to 130 once daily | 400 once daily | 14 | sofosbuvir | 0.95Comparison based on historic control (0.68, 1.33) | 1.30 (1.00, 1.69) | NA |
+| GS-331007 | 0.73 (0.65, 0.83) | 1.04 (0.89, 1.22) | NA |  |  |  |  |
+| Rilpivirine | 25 once daily | 400 single dose | 17 | sofosbuvir | 1.21 (0.90, 1.62) | 1.09 (0.94, 1.27) | NA |
+| GS-331007 | 1.06 (0.99, 1.14) | 1.01 (0.97, 1.04) | NA |  |  |  |  |
+| Tacrolimus | 5 single dose | 400 single dose | 16 | sofosbuvir | 0.97 (0.65, 1.43) | 1.13 (0.81, 1.57) | NA |
+| GS-331007 | 0.97 (0.83, 1.14) | 1.00 (0.87, 1.13) | NA |  |  |  |  |
+| NA = not available/not applicable |  |  |  |  |  |  |  |
 
 No effect on the pharmacokinetic parameters of sofosbuvir and GS-331007 was observed with raltegravir.
 
-Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of SofosbuvirAll interaction studies conducted in healthy volunteers
+Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of SofosbuvirAll interaction studies conducted in healthy volunteers
 
-| Cmax | AUC | Cmin |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | Sofosbuvir Dose (mg) | N | Mean Ratio (90% CI) of Coadministered Drug PK With/Without Sofosbuvir No Effect=1.00 |  |  |
-| Norelgestromin | norgestimate 0.18/0.215/0.25/ ethinyl estradiol 0.025 once daily | 400 once daily | 15 | 1.07 (0.94, 1.22) | 1.06 (0.92, 1.21) | 1.07 (0.89, 1.28) |
-| Norgestrel | 1.18 (0.99, 1.41) | 1.19 (0.98, 1.45) | 1.23 (1.00, 1.51) |  |  |  |
-| Ethinyl estradiol | 1.15 (0.97, 1.36) | 1.09 (0.94, 1.26) | 0.99 (0.80, 1.23) |  |  |  |
-| Raltegravir | 400 twice daily | 400 single dose | 19 | 0.57 (0.44, 0.75) | 0.73 (0.59, 0.91) | 0.95 (0.81, 1.12) |
-| Tacrolimus | 5 single dose | 400 single dose | 16 | 0.73 (0.59, 0.90) | 1.09 (0.84, 1.40) | NA |
-| Tenofovir disoproxil fumarateAdministered as efavirenz/emtricitabine/tenofovir disoproxil fumarate fixed dose tablet | 300 once daily | 400 single dose | 16 | 1.25 (1.08, 1.45) | 0.98 (0.91, 1.05) | 0.99 (0.91, 1.07) |
-| NA = not available/not applicable |  |  |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | Sofosbuvir Dose (mg) | N | Mean Ratio (90% CI) of Coadministered Drug PK With/Without Sofosbuvir No Effect=1.00 |  |  |  |
+| Norelgestromin | norgestimate 0.18/0.215/0.25/ ethinyl estradiol 0.025 once daily | 400 once daily | 15 | 1.07 (0.94, 1.22) | 1.06 (0.92, 1.21) | 1.07 (0.89, 1.28) |  |
+| Norgestrel | 1.18 (0.99, 1.41) | 1.19 (0.98, 1.45) | 1.23 (1.00, 1.51) |  |  |  |  |
+| Ethinyl estradiol | 1.15 (0.97, 1.36) | 1.09 (0.94, 1.26) | 0.99 (0.80, 1.23) |  |  |  |  |
+| Raltegravir | 400 twice daily | 400 single dose | 19 | 0.57 (0.44, 0.75) | 0.73 (0.59, 0.91) | 0.95 (0.81, 1.12) |  |
+| Tacrolimus | 5 single dose | 400 single dose | 16 | 0.73 (0.59, 0.90) | 1.09 (0.84, 1.40) | NA |  |
+| Tenofovir disoproxil fumarateAdministered as efavirenz/emtricitabine/tenofovir disoproxil fumarate fixed dose tablet | 300 once daily | 400 single dose | 16 | 1.25 (1.08, 1.45) | 0.98 (0.91, 1.05) | 0.99 (0.91, 1.07) |  |
+| NA = not available/not applicable |  |  |  |  |  |  |  |
 
 No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with sofosbuvir: cyclosporine, darunavir/ritonavir, efavirenz, emtricitabine, methadone, or rilpivirine.
 
