@@ -64,9 +64,7 @@ Adverse Reactions by Body System Occurring in ≥ 2% of Subjects in the Paricalc
 | Hypotension | 5 | (5%) | 3 | (3%) |
 | a. Includes only events more common in the paricalcitol treatment group. |  |  |  |  |
 
-Additional Adverse Reactions
-
-The following additional adverse reactions occurred in <2% of the paricalcitol-treated patients in the above double-blind, placebo-controlled clinical trial.
+Additional Adverse Reactions The following additional adverse reactions occurred in <2% of the paricalcitol-treated adult patients in the above double-blind, placebo-controlled clinical trial.
 
 Gastrointestinal Disorders: Dry mouth
 
@@ -74,8 +72,8 @@ Investigations: Hepatic enzyme abnormal
 
 Nervous System Disorders: Dysgeusia
 
-Skin and Subcutaneous Tissue Disorders: Urticaria
-
+Skin and Subcutaneous Tissue Disorders: Urticaria Pediatric use information for patients 10 to 16 years of age is approved for AbbVie Inc.’s Zemplar (paricalcitol) capsules.
+However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 CKD Stage 5
 
 Adults
@@ -129,7 +127,8 @@ Metabolism and Nutrition Disorders: Decreased appetite, hypercalcemia, hypocalce
 
 Reproductive System and Breast Disorders: Breast tenderness
 
-Skin and Subcutaneous Tissue Disorders: Acne
+Skin and Subcutaneous Tissue Disorders: Acne Pediatric use information for patients 10 to 16 years of age is approved for AbbVie Inc.’s Zemplar (paricalcitol) capsules.
+However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Postmarketing Experience
 

@@ -34,21 +34,13 @@ If a further dose reduction is required, the drug should be withheld as needed a
 
 ## 2.2 Chronic Kidney Disease Stage 5 in Adults
 
-Initial Dose
-
-Administer the dose of paricalcitol capsules orally three times a week, no more frequently than every other day based upon the following formula: Dose (micrograms) = baseline iPTH (pg/mL) divided by 80
-
-Treat patients only after their baseline serum calcium has been adjusted to 9.5 mg/dL or lower to minimize the risk of hypercalcemia [see Clinical Pharmacology (12.2) and Clinical Studies (14.2)].
-
-Dose Titration
-
-Individualize the dose of paricalcitol capsules based on iPTH, serum calcium and phosphorus levels.
-Titrate paricalcitol capsules dose based on the following formula: Dose (micrograms) = most recent iPTH level (pg/ml) divided by 80
-
-If serum calcium is elevated, the dose should be decreased by 2 to 4 micrograms.
-
+Initial Dose Administer the dose of paricalcitol capsules orally three times a week, no more frequently than every other day based upon the following formula: Dose (micrograms) = baseline iPTH (pg/mL) divided by 80 Treat patients only after their baseline serum calcium has been adjusted to 9.5 mg/dL or lower to minimize the risk of hypercalcemia [see Clinical Pharmacology (12.2) and Clinical Studies (14.2)].
+Dose Titration Individualize the dose of paricalcitol capsules based on iPTH, serum calcium and phosphorus levels.
+Titrate paricalcitol capsules dose based on the following formula: Dose (micrograms) = most recent iPTH level (pg/ml) divided by 80 If serum calcium is elevated, the dose should be decreased by 2 to 4 micrograms.
 As iPTH approaches the target range, small, individualized dose adjustments may be necessary in order to achieve a stable iPTH.
 In situations where monitoring of iPTH, Ca or P occurs less frequently than once per week, a more modest initial and dose titration ratio (e.g., iPTH divided by 100) may be warranted.
+Pediatric use information for patients 10 to 16 years of age is approved for AbbVie Inc.’s Zemplar (paricalcitol) capsules.
+However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.4 Monitoring
 

@@ -20,7 +20,6 @@ Use caution when paricalcitol capsules are prescribed concomitantly with digital
 ## 5.3 Laboratory Tests
 
 During the initial dosing or following any dose adjustment of medication, serum calcium, serum phosphorus, and serum or plasma iPTH should be monitored at least every two weeks for 3 months, then monthly for 3 months, and every 3 months thereafter.
-
 In pre-dialysis patients, paricalcitol capsules may increase serum creatinine and therefore decrease the estimated GFR (eGFR).
 Similar effects have also been seen with calcitriol.
 

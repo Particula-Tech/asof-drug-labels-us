@@ -28,33 +28,20 @@ The predicted incidence of hypercalcemia is 12.4% (95% CI: 11.7% to 13%) [see Cl
 
 ## 12.3 Pharmacokinetics
 
-Absorption
-
-The mean absolute bioavailability of paricalcitol capsules under low-fat fed condition ranged from 72% to 86% in healthy adult volunteers, CKD Stage 5 patients on HD, and CKD Stage 5 patients on PD.
+Absorption The mean absolute bioavailability of paricalcitol capsules under low-fat fed condition ranged from 72% to 86% in healthy adult volunteers, CKD Stage 5 patients on HD, and CKD Stage 5 patients on PD.
 A food effect study in healthy adult volunteers indicated that the Cmax and AUC0-∞ were unchanged when paricalcitol was administered with a high fat meal compared to fasting.
 Food delayed Tmax by about 2 hours.
 The AUC0-∞ of paricalcitol increased proportionally over the dose range of 0.06 to 0.48 mcg/kg in healthy adult volunteers.
-
-Distribution
-
-Paricalcitol is extensively bound to plasma proteins (≥ 99.8%).
-The mean apparent volume of distribution following a 0.24 mcg/kg dose of paricalcitol in healthy adult volunteers was 34 L. The mean apparent volume of distribution following a 4 mcg dose of paricalcitol in CKD Stage 3 and a 3 mcg dose in CKD Stage 4 patients is between 44 and 46 L.
-
-Metabolism
-
-After oral administration of a 0.48 mcg/kg dose of 3H-paricalcitol, parent drug was extensively metabolized, with only about 2% of the dose eliminated unchanged in the feces, and no parent drug was found in the urine.
+Distribution Paricalcitol is extensively bound to plasma proteins (≥ 99.8%).
+The mean apparent volume of distribution following a 0.24 mcg/kg dose of paricalcitol in healthy adult volunteers was 34 L. The mean apparent volume of distribution following a 4 mcg dose of paricalcitol in CKD Stage 3 and a 3 mcg dose in CKD Stage 4 patients is between 44 and 46 L. Metabolism After oral administration of a 0.48 mcg/kg dose of 3H-paricalcitol, parent drug was extensively metabolized, with only about 2% of the dose eliminated unchanged in the feces, and no parent drug was found in the urine.
 Several metabolites were detected in both the urine and feces.
 Most of the systemic exposure was from the parent drug.
 Two minor metabolites, relative to paricalcitol, were detected in human plasma.
 One metabolite was identified as 24(R)-hydroxy paricalcitol, while the other metabolite was unidentified.
 The 24(R)-hydroxy paricalcitol is less active than paricalcitol in an in vivo rat model of PTH suppression.
-
 In vitro data suggest that paricalcitol is metabolized by multiple hepatic and non-hepatic enzymes, including mitochondrial CYP24, as well as CYP3A4 and UGT1A4.
 The identified metabolites include the product of 24(R)-hydroxylation, 24,26- and 24,28-dihydroxylation and direct glucuronidation.
-
-Elimination
-
-Paricalcitol is eliminated primarily via hepatobiliary excretion; approximately 70% of the radiolabeled dose is recovered in the feces and 18% is recovered in the urine.
+Elimination Paricalcitol is eliminated primarily via hepatobiliary excretion; approximately 70% of the radiolabeled dose is recovered in the feces and 18% is recovered in the urine.
 While the mean elimination half-life of paricalcitol is 4 to 6 hours in healthy adult volunteers, the mean elimination half-life of paricalcitol in CKD Stages 3, 4, and 5 (on HD and PD) patients ranged from 14 to 20 hours.
 
 Table 7.
@@ -67,43 +54,22 @@ Paricalcitol Capsule Pharmacokinetic Parameters (mean ± SD) in CKD Stages 3, 4,
 | CL/F (L/h) | 1.77 ± 0.5 | 1.52 ± 0.36 | 1.82 ± 0.75 | 1.76 ± 0.77 |
 | V/F (L) | 43.7 ± 14.4 | 46.4 ± 12.4 | 38 ± 16.4 | 48.7 ± 15.6 |
 | t1/2 | 16.8 ± 2.65 | 19.7 ± 7.2 | 13.9 ± 5.1 | 17.7 ± 9.6 |
-| HD: hemodialysis; PD: peritoneal dialysis. * Four mcg paricalcitol capsules were given to CKD Stage 3 patients; three mcg paricalcitol capsules were given to CKD Stage 4 patients. |  |  |  |  |
-| ** CKD Stage 5 HD and PD patients received a 0.24 mcg/kg dose of paricalcitol as capsules. |  |  |  |  |
+| HD: hemodialysis; PD: peritoneal dialysis. * Four mcg paricalcitol capsules were given to CKD Stage 3 patients; three mcg paricalcitol capsules were given to CKD Stage 4 patients. ** CKD Stage 5 HD and PD patients received a 0.24 mcg/kg dose of paricalcitol as capsules. |  |  |  |  |
 
-Specific Populations
-
-Geriatric
-
-The pharmacokinetics of paricalcitol has not been investigated in geriatric patients greater than 65 years [see Use in Specific Populations (8.5)].
-
-Gender
-
-The pharmacokinetics of paricalcitol following single doses over the 0.06 to 0.48 mcg/kg dose range was gender independent.
-
-Hepatic Impairment
-
-The disposition of paricalcitol (0.24 mcg/kg) was compared in patients with mild (n = 5) and moderate (n = 5) hepatic impairment (as indicated by the Child-Pugh method) and subjects with normal hepatic function (n = 10).
+Specific Populations Geriatric The pharmacokinetics of paricalcitol has not been investigated in geriatric patients greater than 65 years [see Use in Specific Populations (8.5)].
+Pediatric Pediatric use information for patients 10 to 16 years of age is approved for AbbVie Inc.’s Zemplar (paricalcitol) capsules.
+However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Gender The pharmacokinetics of paricalcitol following single doses over the 0.06 to 0.48 mcg/kg dose range was gender independent.
+Hepatic Impairment The disposition of paricalcitol (0.24 mcg/kg) was compared in patients with mild (n = 5) and moderate (n = 5) hepatic impairment (as indicated by the Child-Pugh method) and subjects with normal hepatic function (n = 10).
 The pharmacokinetics of unbound paricalcitol was similar across the range of hepatic function evaluated in this study.
 No dose adjustment is required in patients with mild and moderate hepatic impairment.
 The influence of severe hepatic impairment on the pharmacokinetics of paricalcitol has not been evaluated.
-
-Renal Impairment
-
-Following administration of paricalcitol capsules, the pharmacokinetic profile of paricalcitol for CKD Stage 5 on HD or PD was comparable to that in CKD 3 or 4 patients.
+Renal Impairment Following administration of paricalcitol capsules, the pharmacokinetic profile of paricalcitol for CKD Stage 5 on HD or PD was comparable to that in CKD 3 or 4 patients.
 Therefore, no special dose adjustments are required other than those recommended in the Dosage and Administration section [see Dosage and Administration (2)].
-
-Drug Interactions
-
-An in vitro study indicates that paricalcitol is neither an inhibitor of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A nor an inducer of CYP2B6, CYP2C9 or CYP3A.
+Drug Interactions An in vitro study indicates that paricalcitol is neither an inhibitor of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A nor an inducer of CYP2B6, CYP2C9 or CYP3A.
 Hence, paricalcitol is neither expected to inhibit nor induce the clearance of drugs metabolized by these enzymes.
-
-Omeprazole
-
-The effect of omeprazole (40 mg capsule), a strong inhibitor of CYP2C19, on paricalcitol (four 4 mcg capsules) pharmacokinetics was investigated in a single dose, crossover study in healthy subjects.
+Omeprazole The effect of omeprazole (40 mg capsule), a strong inhibitor of CYP2C19, on paricalcitol (four 4 mcg capsules) pharmacokinetics was investigated in a single dose, crossover study in healthy subjects.
 The pharmacokinetics of paricalcitol was not affected when omeprazole was administered approximately 2 hours prior to the paricalcitol dose.
-
-Ketoconazole
-
-The effect of multiple doses of ketoconazole, a strong inhibitor of CYP3A, administered as 200 mg BID for 5 days on the pharmacokinetics of paricalcitol (4 mcg capsule) has been studied in healthy subjects.
+Ketoconazole The effect of multiple doses of ketoconazole, a strong inhibitor of CYP3A, administered as 200 mg BID for 5 days on the pharmacokinetics of paricalcitol (4 mcg capsule) has been studied in healthy subjects.
 The Cmax of paricalcitol was minimally affected, but AUC0-∞ approximately doubled in the presence of ketoconazole.
 The mean half-life of paricalcitol was 17 hours in the presence of ketoconazole as compared to 9.8 hours, when paricalcitol was administered alone [see Drug Interactions (7)].
