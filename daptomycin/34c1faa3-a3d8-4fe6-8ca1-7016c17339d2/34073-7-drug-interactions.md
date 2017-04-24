@@ -2,10 +2,10 @@
 
 ## 7.1 HMG-CoA Reductase Inhibitors
 
-In healthy subjects, concomitant administration of CUBICIN and simvastatin had no effect on plasma trough concentrations of simvastatin, and there were no reports of skeletal myopathy [see Clinical Pharmacology (12.3)].
+In healthy adult subjects, concomitant administration of CUBICIN and simvastatin had no effect on plasma trough concentrations of simvastatin, and there were no reports of skeletal myopathy [see Clinical Pharmacology (12.3)].
 
 However, inhibitors of HMG-CoA reductase may cause myopathy, which is manifested as muscle pain or weakness associated with elevated levels of creatine phosphokinase (CPK).
-In the Phase 3 S. aureus bacteremia/endocarditis trial, some patients who received prior or concomitant treatment with an HMG-CoA reductase inhibitor developed elevated CPK [see Adverse Reactions (6.1)].
+In the adult Phase 3 S. aureus bacteremia/endocarditis trial, some patients who received prior or concomitant treatment with an HMG-CoA reductase inhibitor developed elevated CPK [see Adverse Reactions (6.1)].
 Experience with the coadministration of HMG-CoA reductase inhibitors and CUBICIN in patients is limited; therefore, consideration should be given to suspending use of HMG-CoA reductase inhibitors temporarily in patients receiving CUBICIN RF.
 
 ## 7.2 Drug-Laboratory Test Interactions
