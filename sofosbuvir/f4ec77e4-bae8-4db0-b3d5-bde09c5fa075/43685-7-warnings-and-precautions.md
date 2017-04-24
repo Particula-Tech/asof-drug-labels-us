@@ -45,7 +45,3 @@ Therefore, the use of HARVONI with P-gp inducers (e.g., rifampin or St. John's w
 
 If HARVONI is administered with ribavirin, the warnings and precautions for ribavirin, in particular the pregnancy avoidance warning, apply to this combination regimen.
 Refer to the ribavirin prescribing information for a full list of the warnings and precautions for ribavirin [see Dosage and Administration (2.2)].
-
-## 5.5 Related Products Not Recommended
-
-The use of HARVONI with other products containing sofosbuvir is not recommended.

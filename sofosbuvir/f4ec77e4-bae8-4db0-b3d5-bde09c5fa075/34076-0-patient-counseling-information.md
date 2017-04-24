@@ -18,7 +18,7 @@ Advise patients to report to their healthcare provider the use of any other pres
 
 Pregnancy
 
-Advise patients to avoid pregnancy during combination treatment with HARVONI and ribavirin; and for 6 months after completion of treatment.
+Advise patients to avoid pregnancy during combination treatment with HARVONI and ribavirin and for 6 months after completion of treatment.
 Inform patients to notify their healthcare provider immediately in the event of a pregnancy [see Use in Specific Populations (8.1)].
 
 Administration

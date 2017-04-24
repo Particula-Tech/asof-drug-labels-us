@@ -5,7 +5,7 @@
 Risk Summary
 
 If HARVONI is administered with ribavirin, the combination regimen is contraindicated in pregnant women and in men whose female partners are pregnant.
-Refer to the ribavirin prescribing information for more information on use in pregnancy.
+Refer to the ribavirin prescribing information for more information on ribavirin-associated risks of use during pregnancy.
 
 No adequate human data are available to establish whether or not HARVONI poses a risk to pregnancy outcomes.
 In animal reproduction studies, no evidence of adverse developmental outcomes was observed with the components of HARVONI (ledipasvir or sofosbuvir) at exposures greater than those in humans at the recommended human dose (RHD) [see Data].
@@ -57,7 +57,11 @@ Refer to ribavirin prescribing information for additional information.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of HARVONI have not been established in pediatric patients.
+The safety, pharmacokinetics, and efficacy of HARVONI for treatment of HCV genotype 1 infection in treatment-naïve and treatment-experienced pediatric patients 12 years of age and older without cirrhosis or with compensated cirrhosis have been established in an open-label, multicenter clinical trial (Study 1116, N=100; 80 treatment-naïve, 20 treatment-experienced) and are comparable to that observed in adults.
+
+The safety and efficacy of HARVONI for treatment of HCV genotypes 4, 5, or 6 infection in pediatric patients 12 years of age and older or weighing at least 35 kg without cirrhosis or with compensated cirrhosis is supported by comparable ledipasvir, sofosbuvir, and GS-331007 exposures between adults and adolescents with HCV genotype 1 and similar efficacy and exposures across HCV genotypes 1, 4, 5, and 6 in adults [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3 and 14.6)].
+
+The safety and efficacy of HARVONI have not been established in pediatric patients less than 12 years of age and weighing less than 35 kg, in pediatric patients with decompensated cirrhosis, or in pediatric liver transplant recipients.
 
 ## 8.5 Geriatric Use
 

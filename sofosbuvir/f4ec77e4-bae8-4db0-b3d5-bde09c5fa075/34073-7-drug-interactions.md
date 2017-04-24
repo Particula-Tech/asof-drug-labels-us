@@ -14,10 +14,10 @@ P-gp inducers (e.g., rifampin or St. John's wort) may decrease ledipasvir and so
 
 ## 7.2 Established and Potentially Significant Drug Interactions
 
-Table 4 provides a listing of established or potentially clinically significant drug interactions.
+Table 5 provides a listing of established or potentially clinically significant drug interactions.
 The drug interactions described are based on studies conducted with either HARVONI, the components of HARVONI (ledipasvir and sofosbuvir) as individual agents, or are predicted drug interactions that may occur with HARVONI [see Warnings and Precautions (5.2, 5.3) and Clinical Pharmacology (12.3)].
 
-Table 4 Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted InteractionThis table is not all inclusive.
+Table 5 Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted InteractionThis table is not all inclusive.
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration↓ = decrease, ↑ = increase | Clinical Comment |
 | --- | --- | --- |
@@ -30,16 +30,16 @@ Table 4 Potentially Significant Drug Interactions: Alteration in Dose or Regimen
 | Anticonvulsants: carbamazepine phenytoin phenobarbital oxcarbazepine | ↓ ledipasvir ↓ sofosbuvir | Coadministration of HARVONI with carbamazepine, phenytoin, phenobarbital, or oxcarbazepine is expected to decrease the concentration of ledipasvir and sofosbuvir, leading to reduced therapeutic effect of HARVONI. Coadministration is not recommended. |
 | Antimycobacterials: rifabutin rifampin rifapentine | ↓ ledipasvir ↓ sofosbuvir | Coadministration of HARVONI with rifabutin or rifapentine is expected to decrease the concentration of ledipasvir and sofosbuvir, leading to reduced therapeutic effect of HARVONI. Coadministration is not recommended. Coadministration of HARVONI with rifampin, a P-gp inducer, is not recommended [see Warnings and Precautions (5.3)]. |
 | HIV Antiretrovirals: |  |  |
-| Regimens containing tenofovir DF without a HIV protease inhibitor/ritonavir or cobicistat | ↑ tenofovir | Monitor for tenofovir-associated adverse reactions in patients receiving HARVONI concomitantly with a regimen containing tenofovir DF without a HIV protease inhibitor/ritonavir or cobicistat. Refer to VIREAD or TRUVADA prescribing information for recommendations on renal monitoring. |
-| Regimens containing tenofovir DF and a HIV protease inhibitor/ritonavir or cobicistat atazanavir/ritonavir or cobicistat + emtricitabine/tenofovir DFdarunavir/ritonavir or cobicistat + emtricitabine/tenofovir DFlopinavir/ritonavir + emtricitabine/tenofovir DF | ↑ tenofovir | The safety of increased tenofovir concentrations in the setting of HARVONI and a HIV protease inhibitor/ritonavir or cobicistat has not been established. Consider alternative HCV or antiretroviral therapy to avoid increases in tenofovir exposures. If coadministration is necessary, monitor for tenofovir-associated adverse reactions. Refer to VIREAD or TRUVADA prescribing information for recommendations on renal monitoring. |
+| Regimens containing tenofovir DF without an HIV protease inhibitor/ritonavir or cobicistat | ↑ tenofovir | Monitor for tenofovir-associated adverse reactions in patients receiving HARVONI concomitantly with a regimen containing tenofovir DF without an HIV protease inhibitor/ritonavir or cobicistat. Refer to VIREAD or TRUVADA prescribing information for recommendations on renal monitoring. |
+| Regimens containing tenofovir DF and an HIV protease inhibitor/ritonavir or cobicistat atazanavir/ritonavir or cobicistat + emtricitabine/tenofovir DFdarunavir/ritonavir or cobicistat + emtricitabine/tenofovir DFlopinavir/ritonavir + emtricitabine/tenofovir DF | ↑ tenofovir | The safety of increased tenofovir concentrations in the setting of HARVONI and an HIV protease inhibitor/ritonavir or cobicistat has not been established. Consider alternative HCV or antiretroviral therapy to avoid increases in tenofovir exposures. If coadministration is necessary, monitor for tenofovir-associated adverse reactions. Refer to VIREAD or TRUVADA prescribing information for recommendations on renal monitoring. |
 | elvitegravir, cobicistat, emtricitabine, tenofovir DF | ↑ tenofovir | The safety of increased tenofovir concentrations in the setting of HARVONI and the combination of elvitegravir, cobicistat, emtricitabine and tenofovir DF has not been established. Coadministration is not recommended. |
 | tipranavir/ritonavir | ↓ ledipasvir ↓ sofosbuvir | Coadministration of HARVONI with tipranavir/ritonavir is expected to decrease the concentration of ledipasvir and sofosbuvir, leading to reduced therapeutic effect of HARVONI. Coadministration is not recommended. |
 | HCV Products: simeprevir | ↑ ledipasvir ↑ simeprevir | Concentrations of ledipasvir and simeprevir are increased when simeprevir is coadministered with ledipasvir. Coadministration of HARVONI with simeprevir is not recommended. |
-| Herbal Supplements: St. John's wort (Hypericum perforatum) | ↓ ledipasvir ↓ sofosbuvir | Coadministration of HARVONI with St. John's wort, a P-gp inducer is not recommended [see Warnings and Precautions (5.3)]. |
+| Herbal Supplements: St. John's wort (Hypericum perforatum) | ↓ ledipasvir ↓ sofosbuvir | Coadministration of HARVONI with St. John's wort, a P-gp inducer, is not recommended [see Warnings and Precautions (5.3)]. |
 | HMG-CoA Reductase Inhibitors: rosuvastatin | ↑ rosuvastatin | Coadministration of HARVONI with rosuvastatin may significantly increase the concentration of rosuvastatin which is associated with increased risk of myopathy, including rhabdomyolysis. Coadministration of HARVONI with rosuvastatin is not recommended. |
 | tenofovir DF = tenofovir disoproxil fumarate |  |  |
 
 ## 7.3 Drugs without Clinically Significant Interactions with HARVONI
 
 Based on drug interaction studies conducted with the components of HARVONI (ledipasvir or sofosbuvir) or HARVONI, no clinically significant drug interactions have been either observed or are expected when HARVONI is used with the following drugs [see Clinical Pharmacology (12.3)]: abacavir, atazanavir/ritonavir, cyclosporine, darunavir/ritonavir, dolutegravir, efavirenz, elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide, emtricitabine, lamivudine, methadone, oral contraceptives, pravastatin, raltegravir, rilpivirine, tacrolimus, or verapamil.
-See Table 4 for use of HARVONI with certain HIV antiretroviral regimens [see Drug Interactions (7.2)].
+See Table 5 for use of HARVONI with certain HIV antiretroviral regimens [see Drug Interactions (7.2)].
