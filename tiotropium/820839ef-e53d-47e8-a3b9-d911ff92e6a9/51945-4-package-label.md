@@ -4,4 +4,4 @@ SPIRIVA HandiHaler 90 capsules (9 blister cards) 1 HandiHaler Inhalation Device 
 
 SPIRIVA HandiHaler 5 capsules (1 blister card) 1 HandiHaler Inhalation Device NDC 0597-0075-75
 
-Professional Sample
+SPIRIVA HandiHaler Professional Sample 10 capsules (1 blister card) 1 HandiHaler Inhalation Device NDC 0597-0075-27
