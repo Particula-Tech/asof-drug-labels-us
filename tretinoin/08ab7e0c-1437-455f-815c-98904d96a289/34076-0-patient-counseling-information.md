@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 The patient should be instructed to:
 

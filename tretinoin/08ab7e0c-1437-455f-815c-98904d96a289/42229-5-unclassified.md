@@ -2,23 +2,20 @@ Manufactured for:
 
 Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-by:
+By:
 
-Valeant Pharmaceuticals International Inc.
+Valeant Pharmaceuticals International, Inc.
 
 Laval, Quebec H7L 4A8, Canada
 
-Made in Canada
-
 Retin-A Micro is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-Microsponge is a registered trademark of Amcol International Corporation.
-
+Microsponge is a registered trademark of AMCOL International Corporation.
 Any other product/brand names are trademarks of their respective owners.
 
-©2015 Valeant Pharmaceuticals North America LLC
+©Valeant Pharmaceuticals North America LLC
 
-9470901
+945703 50105472D
 
 Rev.
-09/2015
+09/2016

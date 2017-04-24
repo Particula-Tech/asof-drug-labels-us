@@ -3,7 +3,7 @@
 ## 8.1 Pregnancy
 
 There are no adequate and well-controlled studies in pregnant women.
-Retin-A Micro® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Retin-A Micro should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Thirty human cases of temporally associated congenital malformations have been reported during two decades of clinical use of Retin-A Micro® (tretinoin) Gel microsphere, 0.1% and 0.04%.
 Although no definite pattern of teratogenicity and no causal association has been established from these cases, five of the reports describe the rare birth defect category holoprosencephaly (defects associated with incomplete midline development of the forebrain).
@@ -11,10 +11,10 @@ The significance of these spontaneous reports in terms of risk to the fetus is n
 
 For purposes of comparison of the animal exposure to systemic human exposure, the Maximum Recommended Human Dose (MRHD) applied topically is defined as 1 gram of Retin-A Micro® (tretinoin) Gel microsphere 0.1% applied daily to a 60 kg person (0.017 mg tretinoin/kg body weight).
 
-Pregnant rats were treated with Retin-A Micro (tretinoin) Gel microsphere, 0.1%, at daily dermal doses of 0.5 to 1 mg/kg/day on gestation days 6-15.
+Pregnant rats were treated with Retin-A Micro® (tretinoin) Gel microsphere, 0.1%, at daily dermal doses of 0.5 to 1 mg/kg/day on gestation days 6-15.
 Alterations were seen in vertebrae and ribs of offspring at 5 to 10 times the MRHD based on the body surface area (BSA) comparison.
 
-Pregnant New Zealand White rabbits were treated with Retin-A Micro (tretinoin) Gel microsphere, 0.1%, at daily dermal doses of 0.2, 0.5, and 1.0 mg/kg/day tretinoin on gestation days 7-19.
+Pregnant New Zealand White rabbits were treated with Retin-A Micro® (tretinoin) Gel microsphere, 0.1%, at daily dermal doses of 0.2, 0.5, and 1.0 mg/kg/day tretinoin on gestation days 7-19.
 Doses were administered topically for 24 hours a day while wearing Elizabethan collars to prevent ingestion of the drug.
 Increased incidences of certain alterations, including domed head and hydrocephaly, typical of retinoid-induced fetal malformations in this species, were observed at 0.5 and 1.0 mg/kg/day.
 Similar malformations were not observed at 0.2 mg/kg/day, 4 times the MRHD based on BSA comparison.
@@ -42,7 +42,7 @@ Topical tretinoin has been shown to be fetotoxic in rabbits when administered in
 ## 8.3 Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Retin-A Micro (tretinoin) Gel microsphere, 0.1%, 0.08% or 0.04%, is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when Retin-A Micro® (tretinoin) Gel microsphere, 0.1%, 0.08% or 0.04%, is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
