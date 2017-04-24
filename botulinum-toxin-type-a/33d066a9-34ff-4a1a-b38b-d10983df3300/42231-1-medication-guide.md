@@ -17,7 +17,7 @@
 | Tell your doctor if you have any side effect that bothers you or that does not go away. These are not all the possible side effects of BOTOX and BOTOX Cosmetic. For more information, ask your doctor or pharmacist. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
 | General information about BOTOX and BOTOX Cosmetic: Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. This Medication Guide summarizes the most important information about BOTOX and BOTOX Cosmetic. If you would like more information, talk with your doctor. You can ask your doctor or pharmacist for information about BOTOX and BOTOX Cosmetic that is written for healthcare professionals. |  |
 | What are the ingredients in BOTOX and BOTOX Cosmetic? Active ingredient: botulinum toxin type A Inactive ingredients: human albumin and sodium chloride |  |
-| Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 ©2016 Allergan. All rights reserved. All trademarks are the property of their respective owners. Patented. See: www.allergan.com/products/patent_notices |  |
+| Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 ©2016 Allergan. All rights reserved. All trademarks are the property of their respective owners. Patented. See: www.allergan.com/patents |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: 1/2016 |
 
-72309US19 72312US19 72511US15
+72309US20 72312US20 72511US16

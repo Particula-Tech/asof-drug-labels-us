@@ -17,4 +17,4 @@ After bladder injections for urinary incontinence, advise patients to contact th
 Manufactured by:Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2017 Allergan.
 All rights reserved.
 All trademarks are the property of their respective owners.
-Patented. www.allergan.com/patent Irvine, CA 92612
+Patented. www.allergan.com/patents Irvine, CA 92612

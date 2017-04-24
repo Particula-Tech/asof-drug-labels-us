@@ -35,7 +35,7 @@ One fatal case of anaphylaxis has been reported in which lidocaine was used as t
 ## 5.5 Increased Risk of Clinically Significant Effects with Pre-Existing Neuromuscular Disorders
 
 Individuals with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis or neuromuscular junction disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) should be monitored when given botulinum toxin.
-Patients with neuromuscular disorders may be at increased risk of clinically significant effects including generalized muscle weakness, diplopia, ptosis, dysphonia, dysarthria, severe dysphagia and respiratory compromise from therapeutic doses of BOTOX [see Warnings and Precautions (5.6)].
+Patients with known or unrecognized neuromuscular disorders or neuromuscular junction disorders may be at increased risk of clinically significant effects including generalized muscle weakness, diplopia, ptosis, dysphonia, dysarthria, severe dysphagia and respiratory compromise from therapeutic doses of BOTOX [see Warnings and Precautions (5.2, 5.6)].
 
 ## 5.6 Dysphagia and Breathing Difficulties
 
@@ -169,7 +169,7 @@ Among patients not using CIC at baseline, those with Multiple Sclerosis (MS) wer
 
 Table 10: Proportion of Patients by Etiology (MS and SCI) Not Using CIC at Baseline and then Catheterizing for Urinary Retention Following an Injection in Double-blind, Placebo-controlled Clinical Trials
 
-| Timepoint/ | MS |  | SCI |  |
+| Timepoint | MS |  | SCI |  |
 | --- | --- | --- | --- | --- |
 | BOTOX 200 Units (N=86) | Placebo (N=88) | BOTOX 200 Units (N=22) | Placebo (N=16) |  |
 | At any time during complete treatment cycle | 31% (n=27) | 5% (n=4) | 27% (n=6) | 19% (n=3) |
@@ -181,6 +181,6 @@ The median duration of post-injection catheterization for those who developed ur
 ## 5.14 Human Albumin and Transmission of Viral Diseases
 
 This product contains albumin, a derivative of human blood.
-Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases.
-A theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD) is also considered extremely remote.
-No cases of transmission of viral diseases or CJD have ever been reported for albumin.
+Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases and variant Creutzfeldt-Jakob disease (vCJD).
+There is a theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD), but if that risk actually exists, the risk of transmission would also be considered extremely remote.
+No cases of transmission of viral diseases, CJD or vCJD have ever been identified for licensed albumin or albumin contained in other licensed products.

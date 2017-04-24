@@ -28,7 +28,7 @@ The developmental no-effect level for a single maternal dose in rats (16 Units/k
 
 Risk Summary
 
-There are no data on the presence of BOTOX in human or animal milk, the effects on the breastfed child, or the effects on milk production.
+There are no data on the presence of BOTOX in human or animal milk, the effects on the breastfed infant, or the effects on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for BOTOX and any potential adverse effects on the breastfed infant from BOTOX or from the underlying maternal conditions.
 
 ## 8.4 Pediatric Use
@@ -59,14 +59,15 @@ Safety and effectiveness in pediatric patients below the age of 12 years have no
 
 ## 8.5 Geriatric Use
 
-Overall, with the exception of Overactive Bladder (see below), clinical studies of BOTOX did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-There were too few patients over the age of 75 to enable any comparisons.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Of the 2145 patients in placebo-controlled clinical studies of BOTOX for the treatment of spasticity, 33.5% were 65 or older, and 7.7% were 75 years of age or older.
+No overall differences in safety were observed between elderly patients and younger patients.
+
+In clinical studies of BOTOX across other indications, no overall differences in safety were observed between elderly patients and younger patients, with the exception of Overactive Bladder (see below).
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 Overactive Bladder
 
-Of 1242 overactive bladder patients in placebo-controlled clinical studies of BOTOX, 41.4% (n=514) were 65 years of age or older, and 14.7% (n=182) were 75 years of age or older.
+Of 1242 overactive bladder patients in placebo-controlled clinical studies of BOTOX, 41.4% were 65 years of age or older, and 14.7% were 75 years of age or older.
 Adverse reactions of UTI and urinary retention were more common in patients 65 years of age or older in both placebo and BOTOX groups compared to younger patients (see Table 18).
 Otherwise, there were no overall differences in the safety profile following BOTOX treatment between patients aged 65 years and older compared to younger patients in these studies.
 

@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-BOTOX blocks neuromuscular transmission by binding to acceptor sites on motor or sympathetic nerve terminals, entering the nerve terminals, and inhibiting the release of acetylcholine.
+BOTOX blocks neuromuscular transmission by binding to acceptor sites on motor or autonomic nerve terminals, entering the nerve terminals, and inhibiting the release of acetylcholine.
 This inhibition occurs as the neurotoxin cleaves SNAP-25, a protein integral to the successful docking and release of acetylcholine from vesicles situated within nerve endings.
 When injected intramuscularly at therapeutic doses, BOTOX produces partial chemical denervation of the muscle resulting in a localized reduction in muscle activity.
 In addition, the muscle may atrophy, axonal sprouting may occur, and extrajunctional acetylcholine receptors may develop.

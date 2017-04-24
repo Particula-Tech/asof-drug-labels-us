@@ -22,9 +22,10 @@ Because clinical trials are conducted under widely varying conditions, the adver
 BOTOX and BOTOX Cosmetic contain the same active ingredient in the same formulation, but with different labeled Indications and Usage.
 Therefore, adverse reactions observed with the use of BOTOX Cosmetic also have the potential to be observed with the use of BOTOX.
 
-In general, adverse reactions occur within the first week following injection of BOTOX and while generally transient, may have a duration of several months or longer.
+In general, adverse reactions occur within the first week following injection of BOTOX and, while generally transient, may have a duration of several months or longer.
 Localized pain, infection, inflammation, tenderness, swelling, erythema, and/or bleeding/bruising may be associated with the injection.
-Needle-related pain and/or anxiety may result in vasovagal responses (including e.g., syncope, hypotension), which may require appropriate medical therapy.
+Symptoms associated with flu-like symptoms (e.g., nausea, fever, myalgia) have been reported after treatment.
+Needle-related pain and/or anxiety may result in vasovagal responses (including syncope, hypotension), which may require appropriate medical therapy.
 
 Local weakness of the injected muscle(s) represents the expected pharmacological action of botulinum toxin.
 However, weakness of nearby muscles may also occur due to spread of toxin [see Warnings and Precautions (5.2)].
