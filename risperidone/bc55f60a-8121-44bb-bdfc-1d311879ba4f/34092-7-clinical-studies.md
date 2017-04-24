@@ -33,8 +33,8 @@ Pediatrics
 
 The efficacy of risperidone in the treatment of schizophrenia in adolescents aged 13 to 17 years was demonstrated in two short-term (6 and 8 weeks), double-blind controlled trials.
 All patients met DSM-IV diagnostic criteria for schizophrenia and were experiencing an acute episode at time of enrollment.
-In the first trial (study #1), patients were randomized into one of three treatment groups: risperidone 1 to 3 mg/day (n = 55, mean modal dose = 2.6 mg), risperidone 4 to 6 mg/day (n = 51, mean modal dose = 5.3 mg), or placebo (n = 54).
-In the second trial (study #2), patients were randomized to either risperidone 0.15 to 0.6 mg/day (n = 132, mean modal dose = 0.5 mg) or risperidone 1.5 to 6 mg/day (n = 125, mean modal dose = 4 mg).
+In the first trial (study #1), patients were randomized into one of three treatment groups: risperidone 1 to 3 mg/day (n=55, mean modal dose = 2.6 mg), risperidone 4 to 6 mg/day (n=51, mean modal dose = 5.3 mg), or placebo (n=54).
+In the second trial (study #2), patients were randomized to either risperidone 0.15 to 0.6 mg/day (n=132, mean modal dose = 0.5 mg) or risperidone 1.5 to 6 mg/day (n=125, mean modal dose = 4 mg).
 In all cases, study medication was initiated at 0.5 mg/day (with the exception of the 0.15 to 0.6 mg/day group in study #2, where the initial dose was 0.05 mg/day) and titrated to the target dosage range by approximately Day 7.
 Subsequently, dosage was increased to the maximum tolerated dose within the target dose range by Day 14.
 The primary efficacy variable in all studies was the mean change from baseline in total PANSS score.
@@ -61,7 +61,7 @@ The results of the trials follow:
 Pediatrics
 
 The efficacy of risperidone in the treatment of mania in children or adolescents with Bipolar I disorder was demonstrated in a 3-week, randomized, double-blind, placebo-controlled, multicenter trial including patients ranging in ages from 10 to 17 years who were experiencing a manic or mixed episode of bipolar I disorder.
-Patients were randomized into one of three treatment groups: risperidone 0.5 to 2.5 mg/day (n = 50, mean modal dose = 1.9 mg), risperidone 3 to 6 mg/day (n = 61, mean modal dose = 4.7 mg), or placebo (n = 58).
+Patients were randomized into one of three treatment groups: risperidone 0.5 to 2.5 mg/day (n=50, mean modal dose = 1.9 mg), risperidone 3 to 6 mg/day (n=61, mean modal dose = 4.7 mg), or placebo (n=58).
 In all cases, study medication was initiated at 0.5 mg/day and titrated to the target dosage range by Day 7, with further increases in dosage to the maximum tolerated dose within the targeted dose range by Day 10.
 The primary rating instrument used for assessing efficacy in this study was the mean change from baseline in the total YMRS score.
 
@@ -94,10 +94,10 @@ The CGI-C rating at endpoint was a co-primary outcome measure in one of the stud
 
 The results of these trials are as follows:
 
-- (1) In one of the 8-week, placebo-controlled trials, children and adolescents with autistic disorder (n=101), aged 5 to 16 years, received twice daily doses of placebo or risperidone 0.5 to 3.5 mg/day on a weight-adjusted basis.
-  Risperidone, starting at 0.25 mg/day or 0.5 mg/day depending on baseline weight (< 20 kg and ≥ 20 kg, respectively) and titrated to clinical response (mean modal dose of 1.9 mg/day, equivalent to 0.06 mg/kg/day), significantly improved scores on the ABC-I subscale and on the CGI-C scale compared with placebo.
+(1) In one of the 8-week, placebo-controlled trials, children and adolescents with autistic disorder (n=101), aged 5 to 16 years, received twice daily doses of placebo or risperidone 0.5 to 3.5 mg/day on a weight-adjusted basis.
+Risperidone, starting at 0.25 mg/day or 0.5 mg/day depending on baseline weight (< 20 kg and ≥ 20 kg, respectively) and titrated to clinical response (mean modal dose of 1.9 mg/day, equivalent to 0.06 mg/kg/day), significantly improved scores on the ABC-I subscale and on the CGI-C scale compared with placebo.
 
-1. In the other 8-week, placebo-controlled trial in children with autistic disorder (n=55), aged 5 to 12 years, risperidone 0.02 to 0.06 mg/kg/day given once or twice daily, starting at 0.01 mg/kg/day and titrated to clinical response (mean modal dose of 0.05 mg/kg/day, equivalent to 1.4 mg/day), significantly improved scores on the ABC-I subscale compared with placebo.
+(2) In the other 8-week, placebo-controlled trial in children with autistic disorder (n=55), aged 5 to 12 years, risperidone 0.02 to 0.06 mg/kg/day given once or twice daily, starting at 0.01 mg/kg/day and titrated to clinical response (mean modal dose of 0.05 mg/kg/day, equivalent to 1.4 mg/day), significantly improved scores on the ABC-I subscale compared with placebo.
 
 A third trial was a 6-week, multicenter, randomized, double-blind, placebo-controlled, fixed-dose study to evaluate the efficacy and safety of a lower than recommended dose of risperidone in subjects (N=96) 5 to 17 years of age with autistic disorder (defined by DSM-IV criteria) and associated irritability and related behavioral symptoms.
 Approximately 77% of patients were younger than 12 years of age (mean age = 9), and 88% were male.
@@ -111,10 +111,10 @@ The dose was administered once daily in the morning, or in the evening if sedati
 
 The primary efficacy endpoint was the mean change in the Aberrant Behavior Checklist -
 
-Irritability subscale (ABC-I) score from baseline to the end of Week 6.
+-Irritability subscale (ABC-I) score from baseline to the end of Week 6.
 The study demonstrated the efficacy of high-dose risperidone, as measured by the mean change in ABC-I score.
 It did not demonstrate efficacy for low-dose risperidone.
-The mean baseline ABC-I scores were 29 in the placebo group (n = 35), 27 in the risperidone low-dose group (n = 30) and 28 in the risperidone high-dose group (n = 31).
+The mean baseline ABC-I scores were 29 in the placebo group (n=35), 27 in the risperidone low-dose group (n=30) and 28 in the risperidone high-dose group (n=31).
 The mean changes in ABC-I scores were -3.5, -7.4 and -12.4 in the placebo, low-dose and high-dose group respectively.
 The results in the high-dose group were statistically significant (p< 0.001) but not in the low-dose group (p=0.164).
 

@@ -6,7 +6,7 @@ Its molecular formula is C23H27FN4O2 and its molecular weight is 410.49.
 The structural formula is:
 
 Risperidone, USP is a white to slightly beige powder.
-It is practically insoluble in water, freely soluble in methylene chloride, and soluble in methanol and 0.1 N HCl.
+It is practically insoluble in water, freely soluble in methylene chloride and soluble in methanol and 0.1 N HCl.
 
 Risperidone oral solution, USP is available as a 1 mg/mL oral solution.
 Risperidone oral solution, USP contains the following inactive ingredients: benzoic acid and purified water.

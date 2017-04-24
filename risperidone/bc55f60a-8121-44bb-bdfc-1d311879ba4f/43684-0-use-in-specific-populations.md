@@ -31,8 +31,8 @@ The causal relationship to risperidone therapy is unknown.
 
 Animal Data
 
-The teratogenic potential of risperidone was studied in three Segment II studies in Sprague-Dawley and Wistar rats (0.63 to 10 mg/kg or 0.4 to 6 times the maximum recommended human dose [MRHD] on a mg/m2 basis) and in one Segment II study in New Zealand rabbits (0.31 to 5 mg/kg or 0.4 to 6 times the MRHD on a mg/m2 body surface area basis).
-There were no teratogenic effects in offspring of rats or rabbits given 0.4 to 6 times the MRHD on a mg/m2 basis.
+The teratogenic potential of risperidone was studied in three Segment II studies in Sprague-Dawley and Wistar rats (0.63 to 10 mg/kg or 0.4 to 6 times the maximum recommended human dose [MRHD] on a mg/m2 body surface area basis) and in one Segment II study in New Zealand rabbits (0.31 to 5 mg/kg or 0.4 to 6 times the MRHD on a mg/m2 body surface area basis).
+There were no teratogenic effects in offspring of rats or rabbits given 0.4 to 6 times the MRHD on a mg/m2 body surface area basis.
 In three reproductive studies in rats (two Segment III and a multigenerational study), there was an increase in pup deaths during the first 4 days of lactation at doses of 0.16 to 5 mg/kg or 0.1 to 3 times the MRHD on a mg/m2 body surface area basis.
 It is not known whether these deaths were due to a direct effect on the fetuses or pups or to effects on the dams.
 
@@ -78,8 +78,8 @@ Additional safety information was also assessed in a long-term study in patients
 
 A third study was a 6-week, multicenter, randomized, double-blind, placebo-controlled, fixed-dose study to evaluate the efficacy and safety of a lower than recommended dose of risperidone in subjects 5 to 17 years of age with autistic disorder and associated irritability, and related behavioral symptoms.
 There were two weight-based, fixed doses of risperidone (high-dose and low-dose).
-The high dose was 1.25 mg per day for patients weighing 20 to < 45 kg, and it was 1.75 mg per day for patients weighing > 45 kg.
-The low dose was 0.125 mg per day for patients for patients weighing 20 to < 45 kg, and it was 0.175 mg per day for patients weighing > 45 kg.
+The high dose was 1.25 mg per day for patients weighing 20 to < 45 kg, and it was 1.75 mg per day for patients weighing ≥ 45 kg.
+The low dose was 0.125 mg per day for patients for patients weighing 20 to < 45 kg, and it was 0.175 mg per day for patients weighing ≥ 45 kg.
 The study demonstrated the efficacy of high-dose risperidone, but it did not demonstrate efficacy for low-dose risperidone.
 
 Adverse Reactions in Pediatric Patients
@@ -95,7 +95,7 @@ Clinical monitoring of weight is recommended during treatment.
 
 Data derive from short-term placebo-controlled trials and longer-term uncontrolled studies in pediatric patients (ages 5 to 17 years) with schizophrenia, bipolar disorder, autistic disorder, or other psychiatric disorders.
 In the short-term trials (3 to 8 weeks), the mean weight gain for risperidone-treated patients was 2 kg, compared to 0.6 kg for placebo-treated patients.
-In these trials, approximately 33% of the risperidone group had weight gain >7%, compared to 7% in the placebo group.
+In these trials, approximately 33% of the risperidone group had weight gain ≥7%, compared to 7% in the placebo group.
 In longer-term, uncontrolled, open-label pediatric studies, the mean weight gain was 5.5 kg at Week 24 and 8 kg at Week 48 [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
 
 Somnolence
@@ -104,7 +104,7 @@ Somnolence was frequently observed in placebo-controlled clinical trials of pedi
 Most cases were mild or moderate in severity.
 These events were most often of early onset with peak incidence occurring during the first two weeks of treatment, and transient with a median duration of 16 days.
 Somnolence was the most commonly observed adverse reaction in the clinical trial of bipolar disorder in children and adolescents, as well as in the schizophrenia trials in adolescents.
-As was seen in the autistic disorder trials, these adverse reactions were most often of early onset and transient in duration [see Adverse Reactions (6.1 and 6.2)] Patients experiencing persistent somnolence may benefit from a change in dosing regimen [see Dosage and Administration (2.1,2.2 and 2.3)].
+As was seen in the autistic disorder trials, these adverse reactions were most often of early onset and transient in duration [see Adverse Reactions (6.1 and 6.2)] Patients experiencing persistent somnolence may benefit from a change in dosing regimen [see Dosage and Administration (2.1, 2.2 and 2.3)].
 
 Hyperprolactinemia
 
@@ -136,7 +136,7 @@ This dose produced plasma levels (AUC) of risperidone plus paliperidone which we
 
 Clinical studies of risperidone in the treatment of schizophrenia did not include sufficient numbers of patients aged 65 and over to determine whether or not they respond differently than younger patients.
 Other reported clinical experience has not identified differences in responses between elderly and younger patients.
-In general, a lower starting dose is recommended for an elderly patient, reflecting a decreased pharmacokinetic clearance in the elderly, as well as a greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3) and Dosage and Administration (2.4,2.5)].
+In general, a lower starting dose is recommended for an elderly patient, reflecting a decreased pharmacokinetic clearance in the elderly, as well as a greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3) and Dosage and Administration (2.4, 2.5)].
 While elderly patients exhibit a greater tendency to orthostatic hypotension, its risk in the elderly may be minimized by limiting the initial dose to 0.5 mg twice daily followed by careful titration [see Warnings and Precautions (5.7)].
 Monitoring of orthostatic vital signs should be considered in patients for whom this is of concern.
 

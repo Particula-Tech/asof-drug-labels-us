@@ -17,15 +17,14 @@ Risperidone is not approved for the treatment of dementia-related psychosis [see
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 Cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients (mean age 85 years; range 73 to 97) in trials of risperidone in elderly patients with dementia-related psychosis.
-In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse reactions in patients treated with risperidone compared to patients treated with placebo.
-Risperidone is not approved for the treatment of patients with dementia-related psychosis.
-[See also Boxed Warnings and Warnings and Precautions (5.1)]
+In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with risperidone compared to patients treated with placebo.
+Risperidone is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
 Antipsychotic drugs including risperidone can cause a potentially fatal symptom complex referred to as Neuroleptic Malignant Syndrome (NMS).
-Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered mental status and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
-Additional signs may include elevated creatine phosphokinase (CPK), myoglobinuria (rhabdomyolysis), and acute renal failure.
+Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered mental status and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia).
+Additional signs may include elevated creatine phosphokinase (CPK), myoglobinuria, rhabdomyolysis, and acute renal failure.
 
 The diagnostic evaluation of patients with this syndrome is complicated.
 In arriving at a diagnosis, it is important to identify cases in which the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
@@ -74,7 +73,7 @@ Patients with an established diagnosis of diabetes mellitus who are started on a
 Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics, including risperidone, should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics, including risperidone, should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics, including risperidone, should undergo fasting blood glucose testing.
-In some cases, hyperglycemia has resolved when the atypical antipsychotic, including risperidone oral solution, was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of risperidone.
+In some cases, hyperglycemia has resolved when the atypical antipsychotic, including risperidone, was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of risperidone.
 
 Pooled data from three double-blind, placebo-controlled schizophrenia studies and four double-blind, placebo-controlled bipolar monotherapy studies are presented in Table 2.
 
@@ -98,7 +97,7 @@ Data from the placebo-controlled 3- to 6-week study in children and adolescents 
 Table 3.
 Change in Fasting Glucose from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 years of age), Bipolar Mania (10 to 17 years of age), or Autistic Disorder (5 to 17 years of age)
 
-|  |  | Risperidone |
+|  | Risperidone |  |
 | --- | --- | --- |
 |  | Placebo | 0.5 to 6 mg/day |
 |  | Mean change from baseline (mg/dL) |  |
@@ -117,7 +116,7 @@ Undesirable alterations in lipids have been observed in patients treated with at
 Pooled data from 7 placebo-controlled, 3- to 8- week, fixed- or flexible-dose studies in adult subjects with schizophrenia or bipolar mania are presented in Table 4.
 
 Table 4.
-Change in Random Lipids From Seven Placebo-Controlled, 3-to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania
+Change in Random Lipids from Seven Placebo-Controlled, 3-to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects with Schizophrenia or Bipolar Mania
 
 |  |  | Risperidone |  |
 | --- | --- | --- | --- |
@@ -139,7 +138,7 @@ In longer-term, controlled and uncontrolled studies, risperidone was associated 
 Pooled data from 3 placebo-controlled, 3- to 6-week, fixed-dose studies in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), or autistic disorder (5 to 17 years of age) are presented in Table 5.
 
 Table 5.
-Change in Fasting Lipids From Three Placebo-Controlled, 3- to 6-Week, Fixed-Dose Studies in Children and Adolescents With Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), or Autistic Disorder (5 to 17 Years of Age)
+Change in Fasting Lipids from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), or Autistic Disorder (5 to 17 Years of Age)
 
 |  |  | Risperidone |
 | --- | --- | --- |
@@ -173,7 +172,7 @@ Clinical monitoring of weight is recommended.
 Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of 7% or greater of body weight from 7 placebo-controlled, 3- to 8- week, fixed- or flexible-dose studies in adult subjects with schizophrenia or bipolar mania are presented in Table 6.
 
 Table 6.
-Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥7% Gain in Body Weight From Seven Placebo-Controlled, 3- to 8-Week, Fixed-or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania
+Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥7% Gain in Body Weight From Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania
 
 |  |  | Risperidone |  |
 | --- | --- | --- | --- |
@@ -226,20 +225,25 @@ Galactorrhea, amenorrhea, gynecomastia and impotence have been reported in patie
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
-An increase in pituitary gland, mammary gland and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Non-Clinical Toxicology (13.1)].
+An increase in pituitary gland, mammary gland and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see NonClinical Toxicology (13.1)].
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
 
 ## 5.7 Orthostatic Hypotension
 
 Risperidone may induce orthostatic hypotension associated with dizziness, tachycardia and in some patients, syncope, especially during the initial dose-titration period, probably reflecting its alpha-adrenergic antagonistic properties.
 Syncope was reported in 0.2% (6/2607) of risperidone-treated patients in Phase 2 and 3 studies in adults with schizophrenia.
-The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 2 mg total (either once daily or 1 mg twice daily) in normal adults and 0.5 mg twice daily in the elderly and patients with renal or hepatic impairment [see Dosage and Administration (2.1,2.4)].
+The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 2 mg total (either once daily or 1 mg twice daily) in normal adults and 0.5 mg twice daily in the elderly and patients with renal or hepatic impairment [see Dosage and Administration (2.1, 2.4)].
 Monitoring of orthostatic vital signs should be considered in patients for whom this is of concern.
 A dose reduction should be considered if hypotension occurs.
 Risperidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia.
 Clinically significant hypotension has been observed with concomitant use of risperidone and antihypertensive medication.
 
-## 5.8 Leukopenia, Neutropenia and Agranulocytosis
+## 5.8 Falls
+
+Somnolence, postural hypotension, motor and sensory instability have been reported with the use of antipsychotics, including risperidone, which may lead to falls and, consequently, fractures or other fall-related injuries.
+For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## 5.9 Leukopenia, Neutropenia and Agranulocytosis
 
 Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including risperidone.
 Agranulocytosis has also been reported.
@@ -250,31 +254,30 @@ Patients with a history of a clinically significant low WBC or a drug-induced le
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue risperidone and have their WBC followed until recovery.
 
-## 5.9 Potential for Cognitive and Motor Impairment
+## 5.10 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse reaction associated with risperidone treatment, especially when ascertained by direct questioning of patients.
 This adverse reaction is dose-related, and in a study utilizing a checklist to detect adverse events, 41% of the high-dose patients (risperidone 16 mg/day) reported somnolence compared to 16% of placebo patients.
 Direct questioning is more sensitive for detecting adverse events than spontaneous reporting, by which 8% of risperidone 16 mg/day patients and 1% of placebo patients reported somnolence as an adverse reaction.
 Since risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that risperidone therapy does not affect them adversely.
 
-## 5.10 Seizures
+## 5.11 Seizures
 
 During premarketing testing in adult patients with schizophrenia, seizures occurred in 0.3% (9/2607) of risperidone-treated patients, two in association with hyponatremia.
 Risperidone should be used cautiously in patients with a history of seizures.
 
-## 5.11 Dysphagia
+## 5.12 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer’s dementia.
-Risperidone and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
-[See also Boxed Warning and Warnings and Precautions (5.1)]
+Risperidone and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia [see Boxed Warning and Warnings and Precautions (5.1)].
 
-## 5.12 Priapism
+## 5.13 Priapism
 
 Priapism has been reported during postmarketing surveillance.
 Severe priapism may require surgical intervention.
 
-## 5.13 Body Temperature Regulation
+## 5.14 Body Temperature Regulation
 
 Disruption of body temperature regulation has been attributed to antipsychotic agents.
 Both hyperthermia and hypothermia have been reported in association with oral risperidone use.

@@ -5,7 +5,7 @@
 The mechanism of action of risperidone, in schizophrenia, is unknown.
 However, it has been proposed that the drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D2) and serotonin Type 2 (5HT2) receptor antagonism.
 The clinical effect from risperidone results from the combined concentrations of risperidone and its major metabolite, 9-hydroxyrisperidone [see Clinical Pharmacology (12.3)].
-Antagonism at receptors other than D2 and 5HT2[see Clinical Pharmacology (12.1)] may explain some of the other effects of risperidone.
+Antagonism at receptors other than D2 and 5HT2 [see Clinical Pharmacology (12.1)] may explain some of the other effects of risperidone.
 
 ## 12.2 Pharmacodynamics
 
@@ -41,7 +41,7 @@ The volume of distribution is 1 to 2 L/kg.
 In plasma, risperidone is bound to albumin and α1-acid glycoprotein.
 The plasma protein binding of risperidone is 90%, and that of its major metabolite, 9-hydroxyrisperidone, is 77%.
 Neither risperidone nor 9-hydroxyrisperidone displaces each other from plasma binding sites.
-High therapeutic concentrations of sulfamethazine (100 mcg/mL), warfarin (10 mcg/mL) and carbamazepine (10mcg/mL) caused only a slight increase in the free fraction of risperidone at 10 ng/mL and 9-hydroxyrisperidone at 50 ng/mL, changes of unknown clinical significance.
+High therapeutic concentrations of sulfamethazine (100 mcg/mL), warfarin (10 mcg/mL) and carbamazepine (10 mcg/mL) caused only a slight increase in the free fraction of risperidone at 10 ng/mL and 9-hydroxyrisperidone at 50 ng/mL, changes of unknown clinical significance.
 
 Metabolism
 
@@ -52,7 +52,7 @@ The main metabolite, 9-hydroxyrisperidone, has similar pharmacological activity 
 Consequently, the clinical effect of the drug results from the combined concentrations of risperidone plus 9-hydroxyrisperidone.
 
 CYP 2D6, also called debrisoquin hydroxylase, is the enzyme responsible for metabolism of many neuroleptics, antidepressants, antiarrhythmics and other drugs.
-CYP 2D6 is subject to genetic polymorphism (about 6%-8% of Caucasians, and a very low percentage of Asians, have little or no activity and are “poor metabolizers”) and to inhibition by a variety of substrates and some non-substrates, notably quinidine.
+CYP 2D6 is subject to genetic polymorphism (about 6% to 8% of Caucasians, and a very low percentage of Asians, have little or no activity and are “poor metabolizers”) and to inhibition by a variety of substrates and some non-substrates, notably quinidine.
 Extensive CYP 2D6 metabolizers convert risperidone rapidly into 9-hydroxyrisperidone, whereas poor CYP 2D6 metabolizers convert it much more slowly.
 Although extensive metabolizers have lower risperidone and higher 9-hydroxyrisperidone concentrations than poor metabolizers, the pharmacokinetics of risperidone and 9-hydroxyrisperidone combined, after single and multiple doses, are similar in extensive and poor metabolizers.
 
@@ -60,7 +60,7 @@ Risperidone could be subject to two kinds of drug-drug interactions.
 First, inhibitors of CYP 2D6 interfere with conversion of risperidone to 9-hydroxyrisperidone [see Drug Interactions (7)].
 This occurs with quinidine, giving essentially all recipients a risperidone pharmacokinetic profile typical of poor metabolizers.
 The therapeutic benefits and adverse effects of risperidone in patients receiving quinidine have not been evaluated, but observations in a modest number (n≅70) of poor metabolizers given risperidone do not suggest important differences between poor and extensive metabolizers.
-Second, co-administration of known enzyme inducers (e.g., carbamazepine, phenytoin, rifampin, and phenobarbital) with risperidone may cause a decrease in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone [see Drug Interactions (7)].
+Second, co-administration of known enzyme inducers (e.g., carbamazepine, phenytoin, rifampin and phenobarbital) with risperidone may cause a decrease in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone [see Drug Interactions (7)].
 It would also be possible for risperidone to interfere with metabolism of other drugs metabolized by CYP 2D6.
 Relatively weak binding of risperidone to the enzyme suggests this is unlikely [see Drug Interactions (7)].
 
