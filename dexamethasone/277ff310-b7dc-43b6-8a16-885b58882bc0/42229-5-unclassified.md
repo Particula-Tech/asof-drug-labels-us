@@ -1,11 +1,7 @@
-Revised: April 2008
+© 2000, 2007, 2008, 2016 Novartis
 
-Printed in USA
+Distributed by: ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA
 
-© 2000, 2007, 2008 Alcon, Inc.
+Alcon® a Novartis company
 
-ALCON LABORATORIES, INC.
-
-Fort Worth, Texas 76134 USA
-
-9003574-0408
+T2017-51 April 2017

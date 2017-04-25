@@ -5,5 +5,3 @@ In severe disease, drops may be used hourly, being tapered to discontinuation as
 In mild disease, drops may be used up to four to six times daily.
 
 Not more than 20 mL should be prescribed initially and the prescription should not be refilled without further evaluation as outlined in PRECAUTIONS above.
-
-FOR TOPICAL OPHTHALMIC USE ONLY.

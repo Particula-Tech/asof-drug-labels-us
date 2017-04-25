@@ -12,5 +12,5 @@ The structural formula for neomycin sulfate is:
 
 The structural formula for polymyxin B sulfate is:
 
-Each mL contains: Actives: neomycin sulfate equivalent to neomycin 3.5 mg, polymyxin B sulfate 10,000 units, dexamethasone 0.1%.
+Each mL of MAXITROL® contains: Actives: neomycin sulfate equivalent to neomycin 3.5 mg, polymyxin B sulfate 10,000 units, dexamethasone 0.1%.
 Inactives: hypromellose 2910 0.5%, sodium chloride, polysorbate 20, hydrochloric acid and/or sodium hydroxide (to adjust pH), purified water, benzalkonium chloride 0.004% (preservative).
