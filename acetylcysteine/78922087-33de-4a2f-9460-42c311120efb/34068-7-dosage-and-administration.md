@@ -12,14 +12,14 @@ For recommendations related to repeated supratherapeutic exposure see Dosage and
    Acetaminophen concentrations obtained earlier than 4 hours post-ingestion may be misleading as they may not represent maximum acetaminophen concentrations.
 4. If the time of acute acetaminophen ingestion is unknown:
    - Administer a loading dose of CETYLEV immediately [see Dosage and Administration (2.3, 2.4)].
-   - Obtain an acetaminophen concentration to determine need for continued treatment [see Dosage and Administration (2.2)]
+   - Obtain an acetaminophen concentration to determine need for continued treatment [see Dosage and Administration (2.2)].
 5. If the acetaminophen concentration cannot be obtained (or is unavailable or uninterpretable) within the 8-hour time interval after acetaminophen ingestion or there is clinical evidence of acetaminophen toxicity:
    - Administer a loading dose of CETYLEV immediately and continue treatment for a total of 17 doses [see Dosage and Administration (2.3)].
 6. If the patient presents more than 8 hours after ingestion and the time of acute acetaminophen ingestion is known:
    - Administer a loading dose of CETYLEV immediately [see Dosage and Administration (2.3)].
    - Obtain acetaminophen concentration to determine need for continued treatment [see Dosage and Administration (2.2)].
 7. If the patient presents less than 8 hours after ingestion and the time of acute acetaminophen ingestion is known and the acetaminophen concentration is known:
-   - Use the Rumack-Matthew nomogram (Figure 1) to determine whether or not to initiate treatment with CETYLEV [see Dosage and Administration (2.2)]
+   - Use the Rumack-Matthew nomogram (Figure 1) to determine whether or not to initiate treatment with CETYLEV [see Dosage and Administration (2.2)].
 
 ## 2.2 Nomogram for Estimating Potential for Hepatotoxicity from Acute Acetaminophen Ingestion and Need for CETYLEV Treatment
 
@@ -47,7 +47,7 @@ For patients whose values are below the "possible" toxicity line, but time of in
 
 For patients whose values are below the "possible" toxicity line and time of ingestion is known and the sample was obtained more than 4 hours after ingestion, do not administer CETYLEV because there is minimal risk of hepatotoxicity.
 
-|  | Figure 1 Rumack-Matthew Nomogram for Estimating Potential for Hepatotoxicity from Acetaminophen Poisoning – Plasma or Serum Acetaminophen Concentration versus Time (hours) Post-acetaminophen Ingestion (Adapted from Rumack and Matthew, Pediatrics 1975; 55:871−876.) |
+|  | Figure 1: Rumack-Matthew Nomogram for Estimating Potential for Hepatotoxicity from Acetaminophen Poisoning – Plasma or Serum Acetaminophen Concentration versus Time (hours) Post-acetaminophen Ingestion (Adapted from Rumack and Matthew, Pediatrics 1975; 55:871−876.) |
 | --- | --- |
 
 Maintenance Dose
@@ -72,7 +72,7 @@ For patients whose acetaminophen concentration is below the "possible" toxicity 
 The acetaminophen concentration was in the non-toxic range, but time of ingestion was unknown or less than 4 hours:
 
 - Obtain a second sample for acetaminophen concentration and consider the patient's clinical status to decide whether or not to continue CETYLEV treatment.
-- If there is any uncertainty as to patient's risk of developing hepatotoxicity, it is recommended to administer a complete treatment course.
+- If there is any uncertainty as to patient's risk of developing hepatotoxicity, it is recommended to administer a complete treatment course under medical observation with appropriate monitoring.
 
 Continued Therapy After Completion of Loading and Maintenance Doses
 
@@ -143,7 +143,7 @@ Table 2: CETYLEV Maintenance Dose
 Patients Weighing 1 to 19 kg
 
 Dissolve two 2.5 gram CETYLEV effervescent tablets in 100 mL of water to create a 50 mg/mL solution.
-Calculate the loading and maintenances doses using the patient's kilogram weight:
+Calculate the loading and maintenance doses using the patient's kilogram weight:
 
 Loading dose: Calculate the dose by multiplying the patient's kilogram weight by 140 mg/kg and dividing by the concentration of the solution (50 mg/mL).
 The result is the dose in mL for administration using an oral syringe.

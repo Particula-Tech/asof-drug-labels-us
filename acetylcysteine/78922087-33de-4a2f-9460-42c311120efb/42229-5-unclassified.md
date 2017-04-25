@@ -4,6 +4,7 @@ arbor PHARMACEUTICALS, LLC
 
 Atlanta, GA 30328
 
-Made in Switzerland
+Made in Switzerland by Alpex Pharma SA.
 
-CET-PI-01
+CET-PI-02 Rev.
+04/2017
