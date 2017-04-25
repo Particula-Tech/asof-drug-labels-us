@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA208799"
+  ],
+  "inn": "fluticasone",
+  "labeler": "Teva Respiratory, LLC",
+  "package_ndcs": [
+    "59310-805-06",
+    "59310-805-08",
+    "59310-812-06",
+    "59310-812-08",
+    "59310-822-06",
+    "59310-822-08"
+  ],
+  "products": [
+    {
+      "form": "POWDER, METERED",
+      "generic": "fluticasone propionate and salmeterol",
+      "name": "AirDuo RespiClick"
+    }
+  ],
+  "setid": "9c122b91-a11f-49ca-80bb-3eec5112db87",
+  "source": "dailymed"
+}
