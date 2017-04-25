@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA203012"
+  ],
+  "inn": "olmesartan",
+  "labeler": "Alembic Pharmaceuticals Limited",
+  "package_ndcs": [
+    "46708-131-10",
+    "46708-131-30",
+    "46708-131-90",
+    "46708-131-91",
+    "46708-132-10",
+    "46708-132-30",
+    "46708-132-90",
+    "46708-132-91",
+    "46708-133-10",
+    "46708-133-30",
+    "46708-133-90",
+    "46708-133-91"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "olmesartan medoxomil",
+      "name": "Olmesartan Medoxomil"
+    }
+  ],
+  "setid": "ac08ea7d-f529-42ca-850a-a0ecce7dc830",
+  "source": "dailymed"
+}
