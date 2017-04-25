@@ -2,6 +2,10 @@ CIV
 
 Rx only
 
+NOT FOR USE IN NEONATES
+
+CONTAINS BENZYL ALCOHOL
+
 Printed in USA Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0851-2.0 February 2017
+LAB-0851-3.0 April 2017

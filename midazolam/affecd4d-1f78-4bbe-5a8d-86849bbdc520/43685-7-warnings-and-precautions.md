@@ -71,6 +71,7 @@ The amount of benzyl alcohol from medications is usually considered negligible c
 Administration of high dosages of medications (including midazolam) containing this preservative must take into account the total amount of benzyl alcohol administered.
 The recommended dosage range of midazolam for preterm and term infants includes amounts of benzyl alcohol well below that associated with toxicity; however, the amount of benzyl alcohol at which toxicity may occur is not known.
 If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources.
+(see WARNINGS and PRECAUTIONS - Pediatric Use)
 
 ## Pediatric Neurotoxicity
 
@@ -215,6 +216,16 @@ The health care practitioner who uses this medication in pediatric patients shou
 
 Midazolam should not be administered by rapid injection in the neonatal population.
 Severe hypotension and seizures have been reported following rapid IV administration, particularly, with concomitant use of fentanyl.
+
+Midazolam injection contains benzyl alcohol as a preservative.
+Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
+The "gasping syndrome", (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages greater than 99 mg/kg/day in neonates and low-birth-weight neonates.
+Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
+Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+Premature and low-birth-weight infants, as well as patients receiving high dosages, may be more likely to develop toxicity.
+Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
+
+## Animal Data
 
 Published juvenile animal studies of ketamine, isoflurane demonstrate that the administration of anesthetic and sedation drugs, that either block NMDA receptors or potentiate the activity of GABA during the period of rapid brain growth or synaptogenesis, results in widespread neuronal and oligodendrocyte cell loss in the developing brain and alterations in synaptic morphology and neurogenesis.
 Based on comparisons across species, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately 3 years of age in humans.
