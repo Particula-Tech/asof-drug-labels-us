@@ -1,47 +1,41 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 CNS Depressants
+Table 1 includes clinically significant drug interactions with Oxycodone Hydrochloride Oral Solution
 
-Other central nervous system (CNS) depressants including sedatives, hypnotics, general anesthetics, antiemetics, phenothiazines, or other tranquilizers or alcohol increases the risk of respiratory depression, hypotension, profound sedation, or coma.
-Use oxycodone hydrochloride with caution and in reduced dosages in patients taking these agents.
+Table 1: Clinically Significant Drug Interactions with Oxycodone Hydrochloride Oral Solution
 
-## 7.2 Muscle Relaxants
-
-Oxycodone hydrochloride may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
-
-## 7.3 Mixed Agonist/Antagonist Opioid Analgesics
-
-Do not administer mixed agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, butorphanol and buprenorphine) to patients who have received or are receiving a course of therapy with a pure opioid agonist analgesic such as oxycodone hydrochloride.
-In these patients, mixed agonist/antagonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.
-
-## 7.4 Agents Affecting Cytochrome P450 Enzymes
-
-CYP3A4 Inhibitors
-
-A published study showed that the co-administration with voriconazole, a CYP3A4 inhibitor, significantly increased the plasma concentrations of oxycodone.
-Inhibition of CYP3A4 activity by its inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), may prolong opioid effects.
-If co-administration is necessary, caution is advised when initiating therapy with, currently taking, or discontinuing CYP3A4 inhibitors.
-Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved.
-[see Clinical Pharmacology (12.3)]
-
-CYP3A4 Inducers
-
-A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, significantly decreased plasma oxycodone concentrations.
-Induction of CYP3A4 activity by its inducers, such as rifampin, carbamazepine, and phenytoin, may lead to a lack of efficacy or, possibly, development of an abstinence syndrome in a patient who had developed physical dependence to oxycodone.
-If co-administration is necessary, caution is advised when initiating therapy with, currently taking, or discontinuing CYP3A4 inducers.
-Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved.
-[see Clinical Pharmacology (12.3)]
-
-CYP2D6 Inhibitors
-
-Oxycodone is metabolized in part to oxymorphone via the cytochrome p450 isoenzyme CYP2D6.
-While this pathway may be blocked by a variety of drugs (e.g., certain cardiovascular drugs and antidepressants), such blockade has not yet been shown to be of clinical significance with this agent.
-However, clinicians should be aware of this possible interaction.
-
-## 7.5 Monoamine Oxidase Inhibitors (MAOIs)
-
-No specific interaction between oxycodone and monoamine oxidase inhibitors has been observed, but caution in the use of any opioid in patients taking this class of drugs is appropriate.
-
-## 7.6 Anticholinergics
-
-Anticholinergics or other medications with anticholinergic activity when used concurrently with opioid analgesics may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
+| Inhibitors of CYP3A4 and CYP2D6 |  |
+| --- | --- |
+| Clinical Impact: | The concomitant use of Oxycodone Hydrochloride Oral Solution and CYP3A4 inhibitors can increase the plasma concentration of oxycodone, resulting in increased or prolonged opioid effects. These effects could be more pronounced with concomitant use of Oxycodone Hydrochloride Oral Solution and CYP2D6 and CYP3A4 inhibitors, particularly when an inhibitor is added after a stable dose of Oxycodone Hydrochloride Oral Solution is achieved [see Warnings and Precautions (5.5)]. After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the oxycodone plasma concentration will decrease [see Clinical Pharmacology (12.3)], resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to oxycodone. |
+| Intervention: | If concomitant use is necessary, consider dosage reduction of Oxycodone Hydrochloride Oral Solution until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals. If a CYP3A4 inhibitor is discontinued, consider increasing the Oxycodone Hydrochloride Oral Solution dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. |
+| Examples | Macrolide antibiotics (e.g., erythromycin, azole-antifungal agents (e.g., ketoconazole), protease inhibitors (e.g., ritonavir) |
+| CYP3A4 Inducers |  |
+| Clinical Impact: | The concomitant use of Oxycodone Hydrochloride Oral Solution and CYP3A4 inducers can decrease the plasma concentration of oxycodone [see Clinical Pharmacology (12.3)], resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to oxycodone [see Warnings and Precautions (5.5)]. After stopping a CYP3A4 inducer, as the effects of the inducer decline, the oxycodone plasma concentration will increase [see Clinical Pharmacology (12.3)], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression. |
+| Intervention: | If concomitant use is necessary, consider increasing the Oxycodone Hydrochloride Oral Solution dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider Oxycodone Hydrochloride Oral Solution dosage reduction and monitor for signs of respiratory depression. |
+| Examples | Rifampin, carbamazepine, phenytoin |
+| Benzodiazepines and other Central Nervous System (CNS) Depressants |  |
+| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants including alcohol, increases the risk of respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.6)]. |
+| Examples | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Serotonergic Drugs |  |
+| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin. |
+| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue Oxycodone Hydrochloride Oral Solution if serotonin syndrome is suspected. |
+| Examples | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.3)]. |
+| Intervention: | The use of Oxycodone Hydrochloride Oral Solution is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. If urgent use of an opioid is necessary, use test doses and frequent titration of small doses to treat pain while closely monitoring blood pressure and signs and symptoms of CNS and respiratory depression. |
+| Examples: | phenelzine, tranylcypromine, linezolid |
+| Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
+| Clinical Impact: | May reduce the analgesic effect of Oxycodone Hydrochloride Oral Solution and/or precipitate withdrawal symptoms. |
+| Intervention: | Avoid concomitant use. |
+| Examples | butorphanol, nalbuphine, pentazocine, buprenorphine |
+| Muscle Relaxants |  |
+| Clinical Impact: | Oxycodone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Oxycodone Hydrochloride Oral Solution and/or the muscle relaxant as necessary. |
+| Diuretics |  |
+| Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic antidiuretic hormone. |
+| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and |
+|  | increase the dosage of the diuretic as needed. |
+| Anticholinergic Drugs |  |
+| Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation,which may lead to paralytic ileus. |
+| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when Oxycodone Hydrochloride Oral Solution is used concomitantly with anticholinergic drugs. |

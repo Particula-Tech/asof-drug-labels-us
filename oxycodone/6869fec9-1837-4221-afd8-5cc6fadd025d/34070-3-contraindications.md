@@ -1,9 +1,8 @@
 # 4 CONTRAINDICATIONS
 
-Oxycodone hydrochloride is contraindicated in patients with respiratory depression in the absence of resuscitative equipment.
+Oxycodone Hydrochloride Oral Solution is contraindicated in patients with:
 
-Oxycodone hydrochloride is contraindicated in any patient who has or is suspected of having paralytic ileus.
-
-Oxycodone hydrochloride is contraindicated in patients with acute or severe bronchial asthma or hypercarbia.
-
-Oxycodone hydrochloride is contraindicated in patients with known hypersensitivity to oxycodone, oxycodone salts, or any components of the product.
+- Significant respiratory depression [see Warnings and Precautions (5.3)]
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see Warnings and Precautions (5.7)]
+- Known or suspected gastrointestinal obstruction, including paralytic ileus [see Warnings and Precautions (5.11)]
+- Hypersensitivity to oxycodone (e.g., angioedema) [see Adverse Reactions (6)]

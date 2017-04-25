@@ -1,78 +1,48 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Oxycodone Hydrochloride Oral Solution is available in two concentrations: 5 mg per 5 mL and 100 mg per 5 mL (20 mg per mL).
-Take care when prescribing and administering Oxycodone Hydrochloride Oral Solution to avoid dosing errors due to confusion between mg and mL, which could result in accidental overdose and death.
-Take care to ensure the proper dose is communicated and dispensed.
+## 2.1 Important Dosage and Administration Instructions
+
+Ensure accuracy when prescribing, dispensing, and administering Oxycodone Hydrochloride Oral Solution to avoid dosing errors due to confusion between mg and mL, and with other oxycodone hydrochloride solutions of different concentrations, which could result in accidental overdose and death.
+Ensure the proper dose is communicated and dispensed.
 When writing prescriptions, include both the total dose in mg and the total dose in volume.
-Always use the enclosed calibrated oral syringe when administering Oxycodone Hydrochloride Oral Solution, 100 mg per 5 mL (20 mg per mL), to ensure the dose is measured and administered accurately.
 
-Selection of patients for treatment with oxycodone hydrochloride should be governed by the same principles that apply to the use of similar opioid analgesics.
-Individualize treatment in every case, using non-opioid analgesics, opioids on an as needed basis and/or combination products, and chronic opioid therapy in a progressive plan of pain management such as outlined by the World Health Organization, the Agency for Healthcare Research and Quality, and the American Pain Society.
+Always use the enclosed calibrated measuring cup when administering Oxycodone Hydrochloride Oral Solution 5 mg per 5 mL and always use the enclosed calibrated oral syringe when administering Oxycodone Hydrochloride Oral Solution 100 mg per 5 mL (20 mg per mL) to ensure that the dose is measured and administered accurately.
 
-## 2.1 Individualization of Dosage
+Do not use household teaspoons or tablespoons to measure Oxycodone Hydrochloride Oral Solution, as using a tablespoon instead of a teaspoon could lead to overdosage.
 
-As with any opioid drug product, adjust the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience.
-In the selection of the initial dose of oxycodone hydrochloride, give attention to the following:
+Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
-- the total daily dose, potency and specific characteristics of the opioid the patient has been taking previously;
-- the reliability of the relative potency estimate used to calculate the equivalent oxycodone hydrochloride dose needed;
-- the patient's degree of opioid tolerance;
-- the general condition and medical status of the patient;
-- concurrent medications;
-- the type and severity of the patient's pain;
-- risk factors for abuse, addiction or diversion, including a prior history of abuse, addiction or diversion.
+Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
 
-The following dosing recommendations, therefore, can only be considered suggested approaches to what is actually a series of clinical decisions over time in the management of the pain of each individual patient.
+Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with Oxycodone Hydrochloride Oral Solution and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
-Continual re-evaluation of the patient receiving oxycodone hydrochloride is important, with special attention to the maintenance of pain control and the relative incidence of side effects associated with therapy.
-During chronic therapy, especially for non-cancer-related pain, periodically re-assess the continued need for the use of opioid analgesics.
+## 2.2 Initial Dosage
 
-During periods of changing analgesic requirements, including initial titration, frequent contact is recommended between physician, other members of the healthcare team, the patient, and the caregiver/family.
+Use of Oxycodone Hydrochloride Oral Solution as the First Opioid Analgesic
 
-## 2.2 Initiation of Therapy in Opioid Naïve Patients
+Initiate treatment with Oxycodone Hydrochloride Oral Solution in a dosing range of 5 to 15 mg every 4 to 6 hours as needed for pain.
 
-Start patients who have not been receiving opioid analgesics on oxycodone hydrochloride in the following dosing range using oral solution, 5 mg per 5 mL strength.
-Oxycodone HCl Oral Solution: 5 to 15 mg every 4 to 6 hours as needed for pain.
-
-Titrate the dose based upon the individual patient's response to their initial dose of oxycodone hydrochloride.
-Adjust the dose to an acceptable level of analgesia taking into account the improvement in pain intensity and tolerability of the oxycodone by the patient.
-
-The 100 mg per 5 mL (20 mg per mL) oral solution formulation is for use in opioid-tolerant patients only who have already been receiving opioid therapy.
-Use this strength only for patients that have already been titrated to a stable analgesic regimen using lower strengths of oxycodone hydrochloride and who can benefit from use of a smaller volume of oral solution.
-
-- Instruct patients how to measure and take the correct dose of Oxycodone Hydrochloride Oral Solution.
-- Advise patients to always use the enclosed oral syringe when administering Oxycodone Hydrochloride Oral Solution 100 mg per 5 mL (20 mg per mL) to ensure the dose is measured and administered accurately.
-
-## 2.3 Conversion to Oral Oxycodone Hydrochloride
+Conversion from Other Opioids to Oxycodone Hydrochloride Oral Solution
 
 There is inter-patient variability in the potency of opioid drugs and opioid formulations.
-Therefore, a conservative approach is advised when determining the total daily dose of Oxycodone Hydrochloride.
-It is better to underestimate a patient's 24-hour oral Oxycodone Hydrochloride dose and make available rescue medication than to overestimate the 24-hour oral Oxycodone Hydrochloride dose and manage an adverse experience of overdose.
+Therefore, a conservative approach is advised when determining the total daily dosage of Oxycodone Hydrochloride Oral Solution.
+It is safer to underestimate a patient's 24-hour Oxycodone Hydrochloride Oral Solution dosage than to overestimate the 24-hour Oxycodone Hydrochloride Oral Solution dosage and manage an adverse reaction due to overdose.
 
-Consider the following general points regarding opioid conversions.
+Conversion from Oxycodone Hydrochloride Oral Solution to Extended-Release Oxycodone Hydrochloride The relative bioavailability of Oxycodone Hydrochloride Oral Solution compared to extended-release oxycodone is unknown, so conversion to extended-release tablets must be accompanied by close observation for signs of excessive sedation and respiratory depression.
 
-Conversion From Non-Oxycodone Opioids to Oral Oxycodone Hydrochloride.
+## 2.3 Titration and Maintenance of Therapy
 
-In converting patients from other opioids to oxycodone hydrochloride, close observation and adjustment of dosage based upon the patient's response to oxycodone hydrochloride is imperative.
-Physicians and other healthcare professionals are advised to refer to published relative potency information, keeping in mind that conversion ratios are only approximate.
+Individually titrate Oxycodone Hydrochloride Oral Solution to a dose that provides adequate analgesia and minimizes adverse reactions.
+Continually reevaluate patients receiving Oxycodone Hydrochloride Oral Solution to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.2)].
 
-Conversion From Controlled-Release Oral Oxycodone to Oral Oxycodone Hydrochloride.
+Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 
-The relative bioavailability of Oxycodone Hydrochloride Oral Solution compared to controlled-release oxycodone is unknown.
-The extended duration of release of oxycodone hydrochloride from controlled-release tablets results in reduced maximum and increased minimum plasma oxycodone hydrochloride concentrations than with shorter acting oxycodone hydrochloride products.
-Conversion from controlled-release tablets could lead to excessive sedation at peak serum levels.
-Therefore, dosage adjustment with close observation is necessary.
+If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the Oxycodone Hydrochloride Oral Solution dosage.
+If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
+Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-Conversion From Oral Oxycodone Hydrochloride to Controlled-Release Oral Oxycodone
+## 2.4 Discontinuation of Oxycodone Hydrochloride Oral Solution
 
-The relative bioavailability of Oxycodone Hydrochloride Oral Solution compared to controlled-release oxycodone is unknown, so conversion to controlled-release tablets must be accompanied by close observation for signs of excessive sedation.
-
-## 2.4 Maintenance of Therapy
-
-Continual re-evaluation of the patient receiving oxycodone hydrochloride is important, with special attention to the maintenance of pain management and the relative incidence of side effects associated with therapy.
-If the level of pain increases, effort should be made to identify the source of increased pain, while adjusting the dose as described above to decrease the level of pain.
-During chronic therapy, especially for non-cancer-related pain (or pain associated with other terminal illnesses), periodically reassess the continued need for the use of opioid analgesics.
-
-## 2.5 Cessation of Therapy
-
-When a patient no longer requires therapy with oxycodone hydrochloride gradually taper the dose to prevent signs and symptoms of withdrawal in the physically dependent patient.
+When a patient who has been taking Oxycodone Hydrochloride Oral Solution regularly and may be physically dependent no longer requires therapy with Oxycodone Hydrochloride Oral Solution, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
+If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
+Do not abruptly discontinue Oxycodone Hydrochloride Oral Solution in a physically-dependent patient [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].

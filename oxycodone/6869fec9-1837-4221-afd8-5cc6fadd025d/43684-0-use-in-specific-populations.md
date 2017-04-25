@@ -2,32 +2,71 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B: There are no adequate and well-controlled studies of oxycodone use during pregnancy.
-Based on limited human data in the literature, oxycodone does not appear to increase the risk of congenital malformations.
-Because animal reproduction studies are not always predictive of human response, oxycodone should be used during pregnancy only if clearly needed.
+Risk Summary
 
-Teratogenic effects
+Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
+Available data with Oxycodone Hydrochloride Oral Solution are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 
-Reproduction studies in Sprague-Dawley rats and New Zealand rabbits revealed that when oxycodone was administered orally at doses up to 16 mg/kg (approximately 2 times the daily oral dose of 90 mg for adults on a mg/m2 basis) and 25 mg/kg (approximately 5 times the daily oral dose of 90 mg on a mg/m2 basis), respectively, was not teratogenic or embryo-fetal toxic.
+Animal reproduction studies with oral administrations of oxycodone hydrochloride in rats and rabbits during the period of organogenesis at doses 2.6 and 8.1 times, respectively, the human dose of 60 mg/day did not reveal evidence of teratogenicity or embryo-fetal toxicity.
+In several published studies, treatment of pregnant rats with oxycodone at clinically relevant doses and below, resulted in neurobehavioral effects in offspring [see Data].
+Based on animal data, advise pregnant women of the potential risk to a fetus.
 
-Nonteratogenic effects
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S.general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Neonates whose mothers have taken oxycodone chronically may exhibit respiratory depression and / or withdrawal symptoms, either at birth and/or in the nursery.
+Clinical Considerations
 
-## 8.2 Labor and Delivery
+Fetal/Neonatal Adverse Reactions
+
+Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+
+Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
+The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
+
+Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-Oxycodone hydrochloride is not recommended for use in women during and immediately prior to labor.
-Occasionally, opioid analgesics may prolong labor through actions which temporarily reduce the strength, duration and frequency of uterine contractions.
-However this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
-Closely observe neonates whose mothers received opioid analgesics during labor for signs of respiratory depression.
-Have a specific opioid antagonist, such as naloxone or nalmefene, available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+Oxycodone Hydrochloride Oral Solution is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
+Opioid analgesics, including Oxycodone Hydrochloride Oral Solution, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
+However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
+Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
-## 8.3 Nursing Mothers
+Data
 
-Low levels of oxycodone have been detected in maternal milk.
-The amount of oxycodone hydrochloride delivered to the infant depends on the plasma concentration of the mother, the amount of milk ingested by the infant, and the extent of first-pass metabolism.
-Because of the potential for serious adverse reactions in nursing infants from oxycodone hydrochloride including respiratory depression, sedation and possibly withdrawal symptoms, upon cessation of oxycodone hydrochloride administration to the mother, decide whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Animal Data
+
+In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of oxycodone hydrochloride administered during the period of organogenesis up to 16 mg/kg/day and up 25 mg/kg/day, respectively.
+These studies revealed no evidence of teratogenicity or embryo-fetal toxicity due to oxycodone.
+The highest doses tested in rats and rabbits were equivalent to approximately 2.6 and 8.1 times an adult human dose of 60 mg/day, respectively, on a mg/m2 basis.
+In published studies, offspring of pregnant rats administered oxycodone during gestation have been reported to exhibit neurobehavioral effects including altered stress responses, increased anxiety-like behavior (2 mg/kg/day IV from Gestation
+
+Day 8 to 21 and Postnatal Day 1, 3, and 5; 0.3-times an adult human dose of 60 mg/day, on a mg/m2 basis) and altered learning and memory (15 mg/kg/day orally from breeding through parturition; 2.4 times an adult human dose of 60 mg/day,on a mg/m2 basis).
+
+## 8.2 Lactation
+
+Risk Summary
+
+Oxycodone is present in breast milk.
+Published lactation studies report variable concentrations of oxycodone in breast milk with administration of immediate-release oxycodone to nursing mothers in the early postpartum period.
+The lactation studies did not assess breastfed infants for potential adverse reactions.
+Lactation studies have not been conducted with Oxycodone Hydrochloride Oral Solution, and no information is available on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Oxycodone Hydrochloride Oral Solution and any potential adverse effects on the breastfed infant from Oxycodone Hydrochloride Oral Solution or from the underlying maternal condition.
+
+Clinical Considerations
+
+Monitor infants exposed to Oxycodone Hydrochloride Oral Solution through breast milk for excess sedation and respiratory depression.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
 ## 8.4 Pediatric Use
 
@@ -35,15 +74,23 @@ The safety and effectiveness and the pharmacokinetics of Oxycodone Hydrochloride
 
 ## 8.5 Geriatric Use
 
-Elderly patients (aged 65 years or older) may have increased sensitivity to oxycodone hydrochloride.
+Elderly patients (aged 65 years or older) may have increased sensitivity to oxycodone.
 In general, use caution when selecting a dose for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
+
+Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
+Titrate the dosage of Oxycodone Hydrochloride Oral Solution slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.7)].
+
+Oxycodone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
 ## 8.6 Hepatic Impairment
 
-Since oxycodone is extensively metabolized, its clearance may be decreased in patients with hepatic impairment.
-Follow a conservative approach to dose initiation in patients with hepatic impairment, monitor patients closely and adjust the dose based on clinical response.
+Since oxycodone is extensively metabolized in the liver, its clearance may decrease in patients with hepatic impairment.
+Initiate therapy in these patients with a lower than usual dosage of Oxycodone Hydrochloride Oral Solution and titrate carefully.
+Monitor closely for adverse events such as respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
-Information from oxycodone tablets indicate that patients with renal impairment (defined as a creatinine clearance <60 mL/min) had higher plasma concentrations of oxycodone than subjects with normal renal function.
-Use a conservative approach to dose initiation in patients with renal impairment, monitor patients closely and adjust the dose based on clinical response.
+Information from oxycodone tablets indicate that patients with renal impairment had higher plasma concentrations of oxycodone than subjects with normal renal function.
+Initiate therapy with a lower than usual dosage of Oxycodone Hydrochloride Oral Solution and titrate carefully.
+Monitor closely for adverse events such as respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
