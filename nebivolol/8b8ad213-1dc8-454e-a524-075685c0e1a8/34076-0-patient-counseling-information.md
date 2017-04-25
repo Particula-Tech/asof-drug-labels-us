@@ -15,12 +15,15 @@ Advise patients to consult a physician if any difficulty in breathing occurs, or
 
 Caution patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, that β-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
 
-Distributed by: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045, USA
+Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
 Licensed from Mylan Laboratories, Inc.
 
 Under license from Janssen Pharmaceutica N.V., Beerse, Belgium
 
-Actidose-Aqua® is a registered trademark of Paddock Laboratories, Inc.
+Bystolic® is a registered trademark of Forest Laboratories, LLC, an Allergan affiliate.
 
-© 2010-2013 Forest Laboratories, Inc
+Actidose®-Aqua is a registered trademark of Paddock Laboratories, LLC
+
+© 2016 Allergan.
+All rights reserved.

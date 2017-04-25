@@ -119,14 +119,17 @@ BYSTOLIC tablets can help your blood vessels relax so your blood pressure is low
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 
 Rev.
-December 2011
+October 2016
 
-Distributed by: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045, USA
+Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
 Licensed from Mylan Laboratories, Inc.
 
 Under license from Janssen Pharmaceutica N.V., Beerse, Belgium
 
-Actidose-Aqua® is a registered trademark of Paddock Laboratories, Inc.
+Bystolic® is a registered trademark of Forest Laboratories, LLC, an Allergan affiliate.
 
-© 2010-2013 Forest Laboratories, Inc.
+Actidose®-Aqua is a registered trademark of Paddock Laboratories, LLC
+
+© 2016 Allergan.
+All rights reserved.
