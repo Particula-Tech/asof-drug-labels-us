@@ -36,13 +36,13 @@ Diabetic Macular Edema
 On average, CPT reductions were observed in Studies D-1 and D-2 beginning at Day 7 following the first LUCENTIS injection through Month 36.
 CPT data did not provide information useful in influencing treatment decisions [see Clinical Studies (14.3)].
 
-Diabetic Retinopathy in patients with Diabetic Macular Edema
+Diabetic Retinopathy
 
 Improvements from baseline in DR severity as assessed on fundus photography were observed in Studies D-1 and D-2 at Month 3 (first scheduled DR photographic assessment after randomization) through Month 36 [see Clinical Studies (14.4)].
 
 Myopic Choroidal Neovascularization
 
-On average CFT reductions were observed as early as Month 1, and were greater in the LUCENTIS groups compared to vPDT [see Clinical Studies (14.5)].
+On average CFT reductions were observed as early as Month 1, and were greater in the LUCENTIS groups compared to PDT [see Clinical Studies (14.5)].
 
 ## 12.3 Pharmacokinetics
 

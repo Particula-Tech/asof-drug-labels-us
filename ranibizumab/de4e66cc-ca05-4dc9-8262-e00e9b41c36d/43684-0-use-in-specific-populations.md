@@ -39,8 +39,8 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Infertility
 
-No studies on the effects of ranibizumab on fertility have been conducted. and it is not known whether ranibizumab can affect reproduction capacity.
-Based on the anti-VEGF mechanism of action for ranibizumab, treatment with LUCENTIS may pose a risk to reproductive capacity..
+No studies on the effects of ranibizumab on fertility have been conducted and it is not known whether ranibizumab can affect reproduction capacity.
+Based on the anti-VEGF mechanism of action for ranibizumab, treatment with LUCENTIS may pose a risk to reproductive capacity.
 
 ## 8.4 Pediatric Use
 

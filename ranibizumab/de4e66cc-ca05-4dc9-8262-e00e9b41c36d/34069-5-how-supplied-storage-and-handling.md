@@ -9,7 +9,7 @@
 
 EACH CARTON IS FOR SINGLE-EYE USE ONLY.
 
-LUCENTIS should be refrigerated at 2º-8ºC (36º-46ºF).
+LUCENTIS should be refrigerated at 2°-8°C (36°-46°F).
 DO NOT FREEZE.
 Do not use beyond the date stamped on the label.
 Protect LUCENTIS prefilled syringe and vials from light and store in the original carton until time of use.

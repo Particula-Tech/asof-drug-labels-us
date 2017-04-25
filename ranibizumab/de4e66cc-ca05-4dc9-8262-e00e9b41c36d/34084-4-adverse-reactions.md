@@ -18,7 +18,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The data below reflect exposure to 0.5 mg LUCENTIS in 440 patients with neovascular AMD in Studies AMD-1, AMD-2, and AMD-3; in 259 patients with macular edema following RVO.
 The data also reflect exposure to 0.3 mg LUCENTIS in 250 patients with DME and DR at baseline [see Clinical Studies (14)].
 
-Safety data observed in Study AMD-4 and in 224 patients with mCNV were consistent with these results.
+Safety data observed in 224 patients with mCNV, as well as Studies AMD-4 and D-3, were consistent with these results.
 On average, the rates and types of adverse reactions in patients were not significantly affected by dosing regimen.
 
 Ocular Reactions
@@ -27,7 +27,7 @@ Table 1 shows frequently reported ocular adverse reactions in LUCENTIS-treated p
 
 Table 1 Ocular Reactions in the DME and DR, AMD, and RVO Studies
 
-| n=250 | n=250 | n=379 | n=379 | n=440 | n=441 | n=259 | n=260 |  |
+|  | n=250 | n=250 | n=379 | n=379 | n=440 | n=441 | n=259 | n=260 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | DME and DR 2-year |  | AMD 2-year |  | AMD 1-year |  | RVO 6-month |  |
 | Adverse Reaction | LUCENTIS 0.3 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control |
@@ -61,7 +61,7 @@ Though less common, wound healing complications were also observed in some studi
 
 Table 2 Non-Ocular Reactions in the DME and DR, AMD, and RVO Studies
 
-| n=250 | n=250 | n=379 | n=379 | n=440 | n=441 | n=259 | n=260 |  |
+|  | n=250 | n=250 | n=379 | n=379 | n=440 | n=441 | n=259 | n=260 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | DME and DR 2-year |  | AMD 2-year |  | AMD 1-year |  | RVO 6-month |  |
 | Adverse Reaction | LUCENTIS 0.3 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control |
