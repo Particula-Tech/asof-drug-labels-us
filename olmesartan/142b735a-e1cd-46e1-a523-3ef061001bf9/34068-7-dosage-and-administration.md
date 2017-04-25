@@ -1,0 +1,39 @@
+# 2 DOSAGE & ADMINISTRATION
+
+## 2.1 Adult Hypertension
+
+Dosage must be individualized.
+The usual recommended starting dose of Olmesartan Medoxomil Tablets is 20 mg once daily when used as monotherapy in patients who are not volume-contracted.
+For patients requiring further reduction in blood pressure after 2 weeks of therapy, the dose of Olmesartan Medoxomil Tablets may be increased to 40 mg.
+Doses above 40 mg do not appear to have greater effect.
+Twice-daily dosing offers no advantage over the same total dose given once daily.
+
+No initial dosage adjustment is recommended for elderly patients, for patients with moderate to marked renal impairment (creatinine clearance <40 mL/min) or with moderate to marked hepatic dysfunction [see Warnings and Precautions (5.4), Use in Specific Populations (8.5,8.6,8.7) and Clinical Pharmacology (12.3)].
+For patients with possible depletion of intravascular volume (e.g., patients treated with diuretics, particularly those with impaired renal function), initiate Olmesartan Medoxomil Tablets under close medical supervision and give consideration to use of a lower starting dose [see Warnings and Precautions (5.3)].
+
+Olmesartan Medoxomil Tablets may be administered with or without food.
+
+If blood pressure is not controlled by Olmesartan Medoxomil Tablets alone, a diuretic may be added.
+Olmesartan Medoxomil Tablets may be administered with other antihypertensive agents.
+
+## 2.2 Pediatric Hypertension (6 to 16 years of age)
+
+Dosage must be individualized.
+For children who can swallow tablets, the usual recommended starting dose of Olmesartan Medoxomil Tablets is 10 mg once daily for patients who weigh 20 to <35 kg (44 to 77 lb), or 20 mg once daily for patients who weigh ≥35 kg.
+For patients requiring further reduction in blood pressure after 2 weeks of therapy, the dose of Olmesartan Medoxomil Tablets may be increased to a maximum of 20 mg once daily for patients who weigh <35 kg or 40 mg once daily for patients who weigh ≥35 kg.
+
+Children <1 year of age must not receive Olmesartan Medoxomil Tablets for hypertension.
+
+For children who cannot swallow tablets, the same dose can be given using an extemporaneous suspension as described below [see Clinical Pharmacology (12.3)].
+Follow the suspension preparation instructions below to administer Olmesartan Medoxomil Tablets as a suspension.
+
+Preparation of Suspension (for 200 mL of a 2 mg/mL suspension)
+
+Add 50 mL of Purified Water to an amber polyethylene terephthalate (PET) bottle containing twenty Olmesartan Medoxomil Tablets 20 mg and allow to stand for a minimum of 5 minutes.
+Shake the container for at least 1 minute and allow the suspension to stand for at least 1 minute.
+Repeat 1-minute shaking and 1-minute standing for four additional times.
+Add 100 mL of Ora-Sweet®* and 50 mL of Ora-Plus®* to the suspension and shake well for at least 1 minute.
+The suspension should be refrigerated at 2 to 8°C (36 to 46°F) and can be stored for up to 4 weeks.
+Shake the suspension well before each use and return promptly to the refrigerator.
+
+* Ora-Sweet® and Ora-Plus® are registered trademarks of Paddock Laboratories, Inc.

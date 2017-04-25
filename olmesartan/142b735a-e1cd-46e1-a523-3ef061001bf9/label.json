@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA206763"
+  ],
+  "inn": "olmesartan",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-445-05",
+    "67877-445-10",
+    "67877-445-30",
+    "67877-445-90",
+    "67877-446-05",
+    "67877-446-10",
+    "67877-446-30",
+    "67877-446-33",
+    "67877-446-38",
+    "67877-446-74",
+    "67877-446-84",
+    "67877-446-90",
+    "67877-447-05",
+    "67877-447-10",
+    "67877-447-30",
+    "67877-447-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "olmesartan medoxomil",
+      "name": "Olmesartan Medoxomil"
+    }
+  ],
+  "setid": "142b735a-e1cd-46e1-a523-3ef061001bf9",
+  "source": "dailymed"
+}
