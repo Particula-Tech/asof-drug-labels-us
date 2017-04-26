@@ -1,0 +1,36 @@
+{
+  "application_numbers": [
+    "ANDA204798"
+  ],
+  "inn": "olmesartan",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-741-01",
+    "65862-741-05",
+    "65862-741-30",
+    "65862-741-90",
+    "65862-742-01",
+    "65862-742-05",
+    "65862-742-10",
+    "65862-742-30",
+    "65862-742-78",
+    "65862-742-90",
+    "65862-742-99",
+    "65862-743-01",
+    "65862-743-05",
+    "65862-743-10",
+    "65862-743-30",
+    "65862-743-78",
+    "65862-743-90",
+    "65862-743-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "olmesartan medoxomil",
+      "name": "Olmesartan Medoxomil"
+    }
+  ],
+  "setid": "8c94d403-809b-43b9-834f-3ecd330d2dd9",
+  "source": "dailymed"
+}
