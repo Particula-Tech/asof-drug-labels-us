@@ -10,9 +10,9 @@ The clinical response for the primary population, Clinical Per Protocol Subjects
 
 Table 9: Clinical Response in Patients with Acute Bacterial Maxillary Sinusitis
 
-|  | ZMAX | LEVOFLOXACIN |
-| --- | --- | --- |
 | RESPONSE AT TOC | N = 255 | N = 254 |
+| --- | --- | --- |
+|  | ZMAX | LEVOFLOXACIN |
 | CURE | 241 (94.5%) | 236 (92.9%) |
 | FAILURE | 14 (5.5%) | 18 (7.1%) |
 

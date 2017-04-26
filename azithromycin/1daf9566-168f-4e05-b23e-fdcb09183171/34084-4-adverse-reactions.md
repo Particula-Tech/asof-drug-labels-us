@@ -17,7 +17,19 @@ The incidence of treatment-related gastrointestinal adverse reactions was 17% fo
 
 Treatment-related adverse reactions following Zmax treatment that occurred with a frequency of <1% included the following:
 
-Cardiovascular: Palpitations, chest pain Gastrointestinal: Constipation, dyspepsia, flatulence, gastritis, oral moniliasis Genitourinary: Vaginitis Nervous system: Dizziness, vertigo General: Asthenia Allergic: Rash, pruritus, urticaria Special senses: Taste perversion
+Cardiovascular: Palpitations, chest pain
+
+Gastrointestinal: Constipation, dyspepsia, flatulence, gastritis, oral moniliasis
+
+Genitourinary: Vaginitis
+
+Nervous system: Dizziness, vertigo
+
+General: Asthenia
+
+Allergic: Rash, pruritus, urticaria
+
+Special senses: Taste perversion
 
 Pediatric Patients:
 
@@ -41,7 +53,21 @@ The rate was numerically lower but not statistically different from the vomiting
 
 Treatment-related adverse reactions with a frequency of < 1% following Zmax treatment in all 907 pediatric subjects in the Phase 3 studies were:
 
-Body as a whole: Chills, fever, flu syndrome, headache; Digestive: Abnormal stools, constipation, dyspepsia, flatulence, gastritis, gastrointestinal disorder, hepatitis; Hematologic and lymphatic: Leukopenia; Nervous system: Agitation, emotional liability, hostility, hyperkinesia, insomnia, irritability, paresthesia, Somnolence; Respiratory: Asthma, bronchitis, cough, dyspnea, pharyngitis, rhinitis; Skin and appendages: Dermatitis, fungal dermatitis, maculopapular rash, pruritus, urticaria; Special senses: Otitis media, taste perversion; Urogenital: Dysuria.
+Body as a whole: Chills, fever, flu syndrome, headache;
+
+Digestive: Abnormal stools, constipation, dyspepsia, flatulence, gastritis, gastrointestinal disorder, hepatitis;
+
+Hematologic and lymphatic: Leukopenia;
+
+Nervous system: Agitation, emotional liability, hostility, hyperkinesia, insomnia, irritability, paresthesia, Somnolence;
+
+Respiratory: Asthma, bronchitis, cough, dyspnea, pharyngitis, rhinitis;
+
+Skin and appendages: Dermatitis, fungal dermatitis, maculopapular rash, pruritus, urticaria;
+
+Special senses: Otitis media, taste perversion;
+
+Urogenital: Dysuria.
 
 ## 6.2 Postmarketing Experience with Other Azithromycin Products
 
@@ -49,9 +75,29 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Adverse events reported with azithromycin immediate release formulations during the postmarketing period for which a causal relationship may not be established include:
 
-Allergic: Arthralgia, edema, urticaria and angioedema Cardiovascular: Palpitations and arrhythmias including ventricular tachycardia and hypotension There have been reports of QT prolongation and torsades de pointes.
-Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and rare reports of tongue discoloration General: Asthenia, paresthesia, fatigue, malaise and anaphylaxis Genitourinary: Interstitial nephritis, acute renal failure and vaginitis Hematopoietic: Thrombocytopenia, mild neutropenia Liver/biliary: Adverse reactions related to hepatic dysfunction have been reported in postmarketing experience with azithromycin.
-[See Warnings and Precautions (5.2)] Nervous system: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope Psychiatric: Aggressive reaction and anxiety Skin/appendages: Pruritus, rash, photosensitivity, serious skin reactions including erythema multiforme, AGEP, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
+Allergic: Arthralgia, edema, urticaria and angioedema
+
+Cardiovascular: Palpitations and arrhythmias including ventricular tachycardia and hypotension
+
+There have been reports of QT prolongation and torsades de pointes.
+
+Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and rare reports of tongue discoloration
+
+General: Asthenia, paresthesia, fatigue, malaise and anaphylaxis
+
+Genitourinary: Interstitial nephritis, acute renal failure and vaginitis
+
+Hematopoietic: Thrombocytopenia, mild neutropenia
+
+Liver/biliary: Adverse reactions related to hepatic dysfunction have been reported in postmarketing experience with azithromycin.
+[See Warnings and Precautions (5.2)]
+
+Nervous system: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope
+
+Psychiatric: Aggressive reaction and anxiety
+
+Skin/appendages: Pruritus, rash, photosensitivity, serious skin reactions including erythema multiforme, AGEP, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
+
 Special senses: Hearing disturbances including hearing loss, deafness and/or tinnitus and reports of taste/smell perversion and/or loss
 
 ## 6.3 Laboratory Abnormalities

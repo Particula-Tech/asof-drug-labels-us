@@ -155,4 +155,6 @@ For current full prescribing information, please visit www.pfizer.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0606-5.0 July 2016
+LAB-0606-5.0
+
+February 2017
