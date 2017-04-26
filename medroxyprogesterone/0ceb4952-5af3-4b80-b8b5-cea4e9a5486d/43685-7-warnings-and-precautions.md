@@ -65,9 +65,8 @@ Do not resume use until markers of liver function return to normal.
 
 ## 9. Decrease in Bone Mineral Density
 
-Medroxyprogesterone acetate given as 150 mg intramuscularly every three months reduces serum estrogen levels and is associated with loss of bone mineral density (BMD).
-This loss of BMD is of particular concern during adolescence and early adulthood, a critical period of bone accretion.
-It is unknown if use of Depo-Provera by younger women will reduce peak bone mass and increase the risk for osteoporotic fracture in later life.
+Studies in pre-menopausal women show that medroxyprogesterone acetate given as 150 mg intramuscularly every three months reduces serum estrogen levels and is associated with loss of bone mineral density (BMD).
+It is unknown if use of Depo-Provera during adolescence and early adulthood, a critical period of bone accretion, will reduce peak bone mass.
 An evaluation of BMD may be appropriate in some patients who use higher doses of medroxyprogesterone acetate for long-term treatment of endometrial or renal carcinoma.
 
 ## 10. Effects on the Hypothalmic-Pituitary-Adrenal Axis
@@ -118,5 +117,6 @@ Caution should be exercised when medroxyprogesterone acetate is administered to 
 
 Safety and efficacy of DEPO- PROVERA for endometrial and renal carcinoma have not been established in pediatric patients.
 
-Depo-Provera is associated with loss of BMD which is of particular concern during adolescence and early adulthood, a critical period of bone accretion.
+Studies in pre-menopausal women show that Depo-Provera is associated with loss of BMD.
+It is unknown if use of Depo-Provera during adolescence and early adulthood, a critical period of bone accretion, will reduce peak bone mass.
 (See PRECAUTIONS: Decrease in Bone Mineral Density)
