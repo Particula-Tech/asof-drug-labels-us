@@ -40,7 +40,7 @@ In the US study, 6.9% of patients on montelukast sodium and 9.9% of patients on 
 
 Onset of Action and Maintenance of Effects
 
-In each placebo-controlled trial in adults, the treatment effect of montelukast sodium, measured by daily diary card parameters, including symptom scores, “as-needed” β-agonist use, and PEFR measurements, was achieved after the first dose and was maintained throughout the dosing interval (24 hours).
+In each placebo-controlled trial in adults, the treatment effect of montelukast sodium measured by daily diary card parameters, including symptom scores, “as-needed” β-agonist use, and PEFR measurements, was achieved after the first dose and was maintained throughout the dosing interval (24 hours).
 No significant change in treatment effect was observed during continuous once-daily evening administration in non-placebo-controlled extension trials for up to one year.
 Withdrawal of montelukast sodium in asthmatic patients after 12 weeks of continuous use did not cause rebound worsening of asthma.
 
@@ -82,9 +82,6 @@ Table 3: Mean Maximum Percent Fall in FEV 1 Following Exercise Challenge in Stud
 | 2 hours | 13 | 22 | -9 (-12, -5) |
 | 8.5 hours | 12 | 17 | -5 (-9, -2) |
 | 24 hours | 10 | 14 | -4 (-7, -1) |
-
-Pediatric use information for patients ages 6 to 14 years of age for acute prevention of exercise-induced bronchoconstriction (EIB) is approved for Merck Sharp & Dohme Corp’s montelukast tablet products.
-However, due to Merck Sharp & Dohme Corp’s marketing exclusivity rights, this drug product is not labeled with that pediatric information
 
 The efficacy of montelukast sodium for prevention of EIB in patients below 6 years of age has not been established.
 

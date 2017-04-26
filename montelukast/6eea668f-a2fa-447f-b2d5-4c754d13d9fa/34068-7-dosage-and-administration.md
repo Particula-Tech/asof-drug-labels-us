@@ -23,9 +23,6 @@ All patients should have available for rescue a short-acting β-agonist.
 Safety and efficacy in patients younger than 15 years of age have not been established.
 Daily administration of montelukast sodium tablets for the chronic treatment of asthma has not been established to prevent acute episodes of EIB.
 
-Pediatric use information for patients ages 6 to 14 years of age for acute prevention of exercise-induced bronchoconstriction (EIB) is approved for Merck Sharp & Dohme Corp’s montelukast tablet products.
-However, due to Merck Sharp & Dohme Corp’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 ## 2.3 Allergic Rhinitis
 
 For allergic rhinitis, montelukast sodium tablets should be taken once daily.

@@ -97,12 +97,12 @@ Montelukast sodium tablets may cause serious side effects.
 - Behavior and mood-related changes.
   Tell your healthcare provider right away if you or your child have any of these symptoms while taking montelukast sodium tablets:
 
-| agitation including aggressive behavior or hostilityattention problemsbad or vivid dreamsdepressiondisorientation (confusion)feeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilitymemory problemsrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleeping |
+| agitation including aggressive behavior or hostilityattention problemsbad or vivid dreamsdepressiondisorientation (confusion)feeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilitymemory problemsrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleepinguncontrolled muscle movements |
 | --- | --- |
 
 - Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).
-  Rarely, This sometimes happens in people with asthma who take montelukast sodium tablets.
-  This usually, but not always, happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
+  Rarely, This can happen in people with asthma who take montelukast sodium tablets.
+  This sometimes happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
   Tell your healthcare provider right away if you get one or more of these symptoms:
   - a feeling of pins and needles or numbness of arms or legs
   - a flu-like illness
@@ -163,6 +163,8 @@ This leaflet summarizes information about montelukast sodium tablets.
 If you would like more information, talk to your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about montelukast sodium tablets that is written for health professionals.
 
+For more information, go to www.accordhealthcare.us or call Accord Healthcare at 1-866-941-7875.
+
 What are the ingredients in montelukast sodium tablets?
 
 Active ingredient: montelukast sodium
@@ -171,9 +173,6 @@ Inactive ingredients:
 
 - 10-mg tablet: microcelac 100, croscarmellose sodium, low substituted hydroxypropyl cellulose, and magnesium stearate.
   The film coating consists of hypromellose, hydroxypropyl cellulose, titanium dioxide, polyethylene glycol 6000, iron oxide red and iron oxide yellow.
-
-Pediatric use information for patients ages 6 to 14 years of age for prevention of exercise-induced asthma is approved for Merck Sharp & Dohme Corp’s montelukast tablet products.
-However, due to Merck Sharp & Dohme Corp’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 Manufactured For:
 
@@ -201,6 +200,6 @@ Dist.- Ahmedabad: 382 210.
 
 INDIA.
 
-10 9988 7 660346
+10 1653 0 672871
 
-Issued April 2015
+Issued December 2016

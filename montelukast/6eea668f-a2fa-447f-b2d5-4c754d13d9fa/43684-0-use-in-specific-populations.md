@@ -22,9 +22,6 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 The safety and effectiveness in pediatric patients below the age of 12 months with asthma and 6 months with perennial allergic rhinitis have not been established.
 The safety and effectiveness in pediatric patients below the age of 6 years with exercise-induced bronchoconstriction have not been established.
 
-Pediatric use information for patients ages 6 to 14 years of age for acute prevention of exercise-induced bronchoconstriction (EIB) is approved for Merck Sharp & Dohme Corp’s montelukast tablet products.
-However, due to Merck Sharp & Dohme Corp’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 ## 8.5 Geriatric Use
 
 Of the total number of subjects in clinical studies of montelukast, 3.5% were 65 years of age and over, and 0.4% were 75 years of age and over.

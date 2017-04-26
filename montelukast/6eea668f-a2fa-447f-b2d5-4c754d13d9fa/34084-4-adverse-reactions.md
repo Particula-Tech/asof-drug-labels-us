@@ -50,11 +50,11 @@ The incidence of somnolence was similar to that of placebo.
 The following adverse reactions have been identified during post-approval use of montelukast sodium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic system disorders: increased bleeding tendency thrombocytopenia.
+Blood and lymphatic system disorders: increased bleeding tendency, thrombocytopenia.
 
 Immune system disorders: hypersensitivity reactions including anaphylaxis, hepatic eosinophilic infiltration.
 
-Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, restlessness, somnambulism, suicidal thinking and behavior (including suicide), and tremor [see Warnings and Precautions (5.4)].
+Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tic, and tremor [see Warnings and Precautions (5.4)].
 
 Nervous system disorders: drowsiness, paraesthesia/hypoesthesia, seizures.
 
