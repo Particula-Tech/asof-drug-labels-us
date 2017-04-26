@@ -1,4 +1,4 @@
-# PATIENT INFORMATION:
+# Patient Information
 
 WARNING TO FEMALE PATIENTS
 
@@ -32,16 +32,14 @@ General guidelines for taking your medication...
   If there is anything you don’t understand, ask your doctor or pharmacist to explain it to you.
 - Keep tretinoin capsules and all medications out of the reach of children.
 
-Store at 20° to 25°C (68° to 77°F) [see USP controlled room temperature].
+Store at 68º to 77ºF (20 to 25°C)
 
 Protect from light.
 
 Manufactured for:
 
-Par Pharmaceutical Companies, Inc. Spring Valley, NY 10977
+Par Pharmaceutical Chestnut Ridge, NY 10977
 
 Made in France
 
-Issued: 12/11
-
-PI268A-01-6-01
+Revised: 01/17 OS268A-01-82-02

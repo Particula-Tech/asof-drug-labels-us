@@ -1,6 +1,6 @@
 # WARNINGS
 
-Pregnancy Category D – See Boxed WARNINGS
+## Pregnancy Category D – See Boxed WARNINGS
 
 Tretinoin has teratogenic and embryotoxic effects in mice, rats, hamsters, rabbits and pigtail monkeys, and may be expected to cause fetal harm when administered to a pregnant woman.
 Tretinoin causes fetal resorptions and a decrease in live fetuses in all animals studied.
@@ -18,14 +18,14 @@ Contraception must be used even when there is a history of infertility or menopa
 Whenever contraception is required, it is recommended that two reliable forms of contraception be used simultaneously, unless abstinence is the chosen method.
 If pregnancy does occur during treatment, the physician and patient should discuss the desirability of continuing or terminating the pregnancy.
 
-## Patients Without the t(15;17) Translocation
+Patients Without the t(15;17) Translocation
 
 Initiation of therapy with tretinoin capsules may be based on the morphological diagnosis of acute promyelocytic leukemia.
 Confirmation of the diagnosis of APL should be sought by detection of the t(15;17) genetic marker by cytogenetic studies.
 If these are negative, PML/RARα fusion should be sought using molecular diagnostic techniques.
 The response rate of other AML subtypes to tretinoin capsules has not been demonstrated; therefore, patients who lack the genetic marker should be considered for alternative treatment.
 
-## Retinoic Acid-APL (RA-APL) Syndrome
+Retinoic Acid-APL (RA-APL) Syndrome
 
 In up to 25% of patients with APL treated with tretinoin capsules, a syndrome occurs which can be fatal (see boxed WARNINGS and ADVERSE REACTIONS).
 
@@ -33,19 +33,19 @@ Leukocytosis at Presentation and Rapidly Evolving Leukocytosis During Tretinoin 
 
 See boxed WARNINGS.
 
-## Pseudotumor Cerebri
+Pseudotumor Cerebri
 
 Retinoids, including tretinoin capsules, have been associated with pseudotumor cerebri (benign intracranial hypertension), especially in pediatric patients.
 The concomitant use of other agents known to cause pseudotumor cerebri/intracranial hypertension, such as tetracyclines, might increase the risk of this condition (see PRECAUTIONS: Drug Interactions).
-[2] Early signs and symptoms of pseudotumor cerebri include papilledema, headache, nausea and vomiting, and visual disturbances.
-Patients with these symptoms should be evaluated for pseudo - tumor cerebri, and, if present, appropriate care should be instituted in concert with neurological assessment.
+Early signs and symptoms of pseudotumor cerebri include papilledema, headache, nausea and vomiting, and visual disturbances.
+Patients with these symptoms should be evaluated for pseudotumor cerebri, and, if present, appropriate care should be instituted in concert with neurological assessment.
 
-## Lipids
+Lipids
 
 Up to 60% of patients experienced hypercholesterolemia and/or hypertriglyceridemia, which were reversible upon completion of treatment.
 The clinical consequences of temporary elevation of triglycerides and cholesterol are unknown, but venous thrombosis and myocardial infarction have been reported in patients who ordinarily are at low risk for such complications.
 
-## Elevated Liver Function Test Results
+Elevated Liver Function Test Results
 
 Elevated liver function test results occur in 50% to 60% of patients during treatment.
 Liver function test results should be carefully monitored during treatment and consideration be given to a temporary withdrawal of tretinoin capsules if test results reach >5 times the upper limit of normal values.
@@ -61,12 +61,10 @@ Supportive care appropriate for APL patients, eg, prophylaxis for bleeding, prom
 
 There is a risk of thrombosis (both venous and arterial) which may involve any organ system, during the first month of treatment (see ADVERSE REACTIONS).
 Therefore, caution should be exercised when treating patients with the combination of tretinoin capsules and anti-fibrinolytic agents, such as tranexamic acid, aminocaproic acid or aprotinin (see Drug Interactions).
-[3,4]
 
 The ability to drive or operate machinery might be impaired in patients treated with tretinoin capsules, particularly if they are experiencing dizziness or severe headache.
 
 Microdosed progesterone preparations (“minipill”) may be an inadequate method of contraception during treatment with tretinoin capsules.
-[5]
 
 ## Laboratory Tests
 
@@ -76,28 +74,28 @@ The patient’s hematologic profile, coagulation profile, liver function test re
 
 Limited clinical data on potential drug interactions are available.
 
-### Drugs Metabolized By the Hepatic P450 System
+Drugs Metabolized By the Hepatic P450 System
 
 As tretinoin capsules are metabolized by the hepatic P450 system, there is a potential for alteration of pharmacokinetics parameters in patients administered concomitant medications that are also inducers or inhibitors of this system.
 Medications that generally induce hepatic P450 enzymes include rifampicin, glucocorticoids, phenobarbital and pentobarbital.
 Medications that generally inhibit hepatic P450 enzymes include ketoconazole, cimetidine, erythromycin, verapamil, diltiazem and cyclosporine.
 To date there are no data to suggest that co-use with these medications increases or decreases either efficacy or toxicity of tretinoin capsules.
 
-### Agents Known to Cause Pseudotumor Cerebri/Intracranial Hypertension (Such as Tetracyclines)
+Agents Known to Cause Pseudotumor Cerebri/Intracranial Hypertension (Such as Tetracyclines)
 
 Tretinoin capsules may cause pseudotumor cerebri/intracranial hypertension.
 Concomitant administration of tretinoin capsules and agents known to cause pseudotumor cerebri/intracranial hypertension as well might increase the risk of this condition (see WARNINGS).
 
-### Vitamin A
+Vitamin A
 
 As with other retinoids, tretinoin capsules must not be administered in combination with vitamin A because symptoms of hypervitaminosis A could be aggravated.
 
-### Anti-fibrinolytic Agents (Such as Tranexamic Acid, Aminocaproic Acid, or Aprotinin)
+Anti-fibrinolytic Agents (Such as Tranexamic Acid, Aminocaproic Acid, or Aprotinin)
 
 Cases of fatal thrombotic complications have been reported rarely in patients concomitantly treated with tretinoin capsules and anti-fibrinolytic agents.
 Therefore, caution should be exercised when administering tretinoin capsules concomitantly with these agents (see PRECAUTIONS: General).
 
-## Effect of Food
+Effect of Food
 
 No data on the effect of food on the absorption of tretinoin capsules are available.
 The absorption of retinoids as a class has been shown to be enhanced when taken together with food.
@@ -109,7 +107,7 @@ In short-term carcinogenicity studies, tretinoin at a dose of 30 mg/kg/day (abou
 Tretinoin was negative when tested in the Ames and Chinese hamster V79 cell HGPRT assays for mutagenicity.
 A twofold increase in the sister chromatid exchange (SCE) has been demonstrated in human diploid fibroblasts, but other chromosome aberration assays, including an in vitro assay in human peripheral lymphocytes and an in vivo mouse micronucleus assay, did not show a clastogenic or aneuploidogenic effect.
 Adverse effects on fertility and reproductive performance were not observed in studies conducted in rats at doses up to 5 mg/kg/day (about 2/3 the human dose on a mg/m2 basis).
-In a 6-week toxicology study in dogs, minimal to marked testicular degeneration, with increased numbers of immature spermatozoa, were observed at 10 mg/kg/day (about 4 times the equivalent human dose in mg/m 2).
+In a 6-week toxicology study in dogs, minimal to marked testicular degeneration, with increased numbers of immature spermatozoa, were observed at 10 mg/kg/day (about 4 times the equivalent human dose in mg/m2).
 
 ## Nursing Mothers
 
