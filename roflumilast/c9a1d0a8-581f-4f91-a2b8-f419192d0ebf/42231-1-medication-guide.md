@@ -123,8 +123,6 @@ Active ingredient: roflumilast Inactive ingredients: lactose monohydrate, corn s
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-07/2015
+04/2017
 
 Distributed by: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
-
-Under license of Takeda GmbH

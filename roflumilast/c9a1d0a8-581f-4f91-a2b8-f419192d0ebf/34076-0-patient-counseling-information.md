@@ -28,8 +28,6 @@ The use of strong cytochrome P450 enzyme inducers (e.g., rifampicin, phenobarbit
 
 Distributed by: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-Under license of Takeda GmbH
+Daliresp® is a registered trademark of AstraZeneca group of companies.
 
-Daliresp® is a registered trademark of Takeda GmbH.
-
-© AstraZeneca 2015
+© AstraZeneca 2017
