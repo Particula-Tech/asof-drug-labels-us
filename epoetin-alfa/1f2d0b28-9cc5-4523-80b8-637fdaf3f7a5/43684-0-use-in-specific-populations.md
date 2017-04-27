@@ -1,9 +1,9 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-The multidose vials are formulated with benzyl alcohol.
-Do not administer Epogen from multidose vials, or Epogen from single-dose vials admixed with bacteriostatic saline containing benzyl alcohol, to pregnant women.
+The multiple-dose vials are formulated with benzyl alcohol.
+Do not administer Epogen from multiple-dose vials, or Epogen from single-dose vials admixed with bacteriostatic saline containing benzyl alcohol, to pregnant women.
 When therapy with Epogen is needed during pregnancy, use a benzyl alcohol-free formulation [see Dosage and Administration (2) and Contraindications (4)].
 
 Pregnancy Category C (single-dose vials only)
@@ -29,8 +29,8 @@ Patients or their physicians should call 1-800-772-6436 (1-800-77-AMGEN) to enro
 
 ## 8.3 Nursing Mothers
 
-The multidose vials of Epogen are formulated with benzyl alcohol.
-Do not administer Epogen from multidose vials, or Epogen from single-dose vials admixed with bacteriostatic saline containing benzyl alcohol, to a nursing woman.
+The multiple-dose vials of Epogen are formulated with benzyl alcohol.
+Do not administer Epogen from multiple-dose vials, or Epogen from single-dose vials admixed with bacteriostatic saline containing benzyl alcohol, to a nursing woman.
 When therapy with Epogen is needed in nursing women, use a benzyl alcohol-free formulation [see Dosage and Administration (2) and Contraindications (4)].
 
 It is not known whether Epogen is excreted in human milk.
@@ -38,8 +38,8 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
-The multidose vials are formulated with benzyl alcohol.
-Do not administer Epogen from multidose vials, or Epogen from single-dose vials admixed with bacteriostatic saline containing benzyl alcohol, to neonates or infants.
+The multiple-dose vials are formulated with benzyl alcohol.
+Do not administer Epogen from multiple-dose vials, or Epogen from single-dose vials admixed with bacteriostatic saline containing benzyl alcohol, to neonates or infants.
 When therapy with Epogen is needed in neonates and infants, use a benzyl alcohol-free formulation [see Dosage and Administration (2) and Contraindications (4)].
 
 Benzyl alcohol has been associated with serious adverse events and death, particularly in pediatric patients.

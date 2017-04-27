@@ -1,9 +1,9 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2DOSAGE AND ADMINISTRATION
 
 ## 2.1 Evaluation of Iron Stores and Nutritional Factors
 
 Evaluate the iron status in all patients before and during treatment and maintain iron repletion.
-Correct or exclude other causes of anemia (e.g., vitamin deficiency, metabolic or chronic inflammatory conditions, bleeding, etc.) before initiating Epogen [see Warnings and Precautions (5.11)].
+Correct or exclude other causes of anemia (e.g., vitamin deficiency, metabolic or chronic inflammatory conditions, bleeding, etc.) before initiating Epogen [see Warnings and Precautions (5.10)].
 
 ## 2.2 Patients with Chronic Kidney Disease
 
@@ -38,13 +38,11 @@ For patients with CKD on dialysis:
 
 For patients with CKD not on dialysis:
 
-- Consider initiating Epogen treatment only when the hemoglobin level is less than 10 g/dL and the following considerations apply:
-  - The rate of hemoglobin decline indicates the likelihood of requiring a RBC transfusion and,
-  - Reducing the risk of alloimmunization and/or other RBC transfusion-related risks is a goal
+- Consider initiating Epogen treatment only when the hemoglobin level is less than 10 g/dL and the following considerations apply: ° The rate of hemoglobin decline indicates the likelihood of requiring a RBC transfusion and, ° Reducing the risk of alloimmunization and/or other RBC transfusion-related risks is a goal
 - If the hemoglobin level exceeds 10 g/dL, reduce or interrupt the dose of Epogen, and use the lowest dose of Epogen sufficient to reduce the need for RBC transfusions.
 - The recommended starting dose for adult patients is 50 to 100 Units/kg 3 times weekly intravenously or subcutaneously.
 
-When treating patients who have chronic kidney disease and cancer, physicians should refer to Warnings and Precautions (5.1 and 5.3).
+When treating patients who have chronic kidney disease and cancer, physicians should refer to Warnings and Precautions (5.1 and 5.2).
 
 Refer patients who self-administer Epogen to the Instructions for Use [see Patient Counseling Information (17)].
 
@@ -117,9 +115,8 @@ Deep venous thrombosis prophylaxis is recommended during Epogen therapy [see War
   Do not use any vials exhibiting particulate matter or discoloration.
 - Discard unused portions of Epogen in preservative-free vials.
   Do not re-enter preservative-free vials.
-- Store unused portions of Epogen in multidose vials at 36°F to 46° F (2°C to 8°C).
+- Store unused portions of Epogen in multiple-dose vials at 36°F to 46°F (2°C to 8°C).
   Discard 21 days after initial entry.
 - Do not dilute.
-  Do not mix with other drug solutions except for admixing as described below:
-  - Preservative-free Epogen from single-use vials may be admixed in a syringe with bacteriostatic 0.9% sodium chloride injection, USP, with benzyl alcohol 0.9% (bacteriostatic saline) in a 1:1 ratio using aseptic technique at the time of administration.
-    Risks are associated with benzyl alcohol in neonates, infants, pregnant women, and nursing mothers [see Use in Specific Populations (8.1, 8.3, 8.4)].
+  Do not mix with other drug solutions except for admixing as described below: ° Preservative-free Epogen from single-dose vials may be admixed in a syringe with bacteriostatic 0.9% sodium chloride injection, USP, with benzyl alcohol 0.9% (bacteriostatic saline) in a 1:1 ratio using aseptic technique at the time of administration.
+  Risks are associated with benzyl alcohol in neonates, infants, pregnant women, and nursing mothers [see Use in Specific Populations (8.1, 8.3, 8.4)].

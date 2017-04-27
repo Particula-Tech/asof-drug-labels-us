@@ -1,19 +1,19 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
 - Increased Mortality, Myocardial Infarction, Stroke, and Thromboembolism [see Warnings and Precautions (5.1)]
-- Increased mortality and/or increased risk of tumor progression or recurrence in Patients With Cancer [see Warnings and Precautions (5.3)]
-- Hypertension [see Warnings and Precautions (5.4)]
-- Seizures [see Warnings and Precautions (5.5)]
-- PRCA [see Warnings and Precautions (5.7)]
-- Serious allergic reactions [see Warnings and Precautions (5.8)]
+- Increased mortality and/or increased risk of tumor progression or recurrence in Patients With Cancer [see Warnings and Precautions (5.2)]
+- Hypertension [see Warnings and Precautions (5.3)]
+- Seizures [see Warnings and Precautions (5.4)]
+- PRCA [see Warnings and Precautions (5.6)]
+- Serious allergic reactions [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of other drugs and may not reflect the rates observed in practice.
 
-### Patients with Chronic Kidney Disease
+Patients with Chronic Kidney Disease
 
 Adult Patients
 
@@ -50,7 +50,7 @@ The adverse reactions with a reported incidence of ≥ 5% in Epogen-treated pati
 Table 4.
 Adverse Reactions in Patients With CKD Not on Dialysis
 
-| Adverse Reactions | Epogen-treated Patients (n = 131) | Placebo-treated Patients (n=79) |
+| Adverse Reactions | Epogen-treated Patients (n = 131) | Placebo-treated Patients (n = 79) |
 | --- | --- | --- |
 | Hypertension | 13.7% | 10.1% |
 | Arthralgia | 12.2% | 7.6% |
@@ -61,7 +61,7 @@ Pediatric Patients
 
 In pediatric patients with CKD on dialysis, the pattern of adverse reactions was similar to that found in adults.
 
-### Zidovudine-treated HIV-infected Patients
+Zidovudine-treated HIV-infected Patients
 
 A total of 297 zidovudine-treated HIV-infected patients were studied in 4 placebo-controlled studies.
 A total of 144 (48%) patients were randomly assigned to receive Epogen and 153 (52%) patients were randomly assigned to receive placebo.
@@ -85,7 +85,7 @@ Adverse Reactions in Zidovudine-treated HIV-infected Patients
 | Respiratory tract congestion | 1% | Not reported |
 | Pulmonary embolism | 1% | Not reported |
 
-### Cancer Patients on Chemotherapy
+Cancer Patients on Chemotherapy
 
 The data below were obtained in Study C1, a 16-week, double-blind, placebo-controlled study that enrolled 344 patients with anemia secondary to chemotherapy.
 There were 333 patients who were evaluable for safety; 168 of 174 patients (97%) randomized to Epogen received at least 1 dose of study drug, and 165 of 170 patients (97%) randomized to placebo received at least 1 placebo dose.
@@ -98,7 +98,7 @@ The adverse reactions with a reported incidence of ≥ 5% in Epogen-treated pati
 Table 6.
 Adverse Reactions in Cancer Patients
 
-| Adverse Reaction | Epogen(n = 168) | Placebo(n = 165) |
+| Adverse Reaction | Epogen (n = 168) | Placebo (n = 165) |
 | --- | --- | --- |
 | Nausea | 35% | 30% |
 | Vomiting | 20% | 16% |
@@ -118,7 +118,7 @@ Adverse Reactions in Cancer Patients
 | Hypokalemia | 5% | 3% |
 | Thrombosis | 5% | 3% |
 
-### Surgery Patients
+Surgery Patients
 
 Four hundred sixty-one patients undergoing major orthopedic surgery were studied in a placebo-controlled study (S1) and a comparative dosing study (2 dosing regimens, S2).
 A total of 358 patients were randomly assigned to receive Epogen and 103 (22%) patients were randomly assigned to receive placebo.
@@ -134,8 +134,8 @@ Adverse Reactions in Surgery Patients
 
 | Adverse Reaction | Study S1 |  |  | Study S2 |  |
 | --- | --- | --- | --- | --- | --- |
-| Epogen 300 U/kg | Epogen 100 U/kg | Placebo | Epogen 600 U/kg x 4 weeks | Epogen 300 U/kg x 15 days |  |
-| (n = 112)a | (n = 101)a | (n = 103)a | (n = 73)b | (n = 72)b |  |
+|  | Epogen 300 U/kg | Epogen 100 U/kg | Placebo | Epogen 600 U/kg x 4 weeks | Epogen 300 U/kg x 15 days |
+|  | (n = 112)a | (n = 101)a | (n = 103)a | (n = 73)b | (n = 72)b |
 | Nausea | 47% | 43% | 45% | 45% | 56% |
 | Vomiting | 21% | 12% | 14% | 19% | 28% |
 | Pruritus | 16% | 16% | 14% | 12% | 21% |
@@ -148,24 +148,28 @@ Adverse Reactions in Surgery Patients
 | Rash | 2% | 2% | 1% | 3% | 3% |
 | Edema | 1% | 2% | 2% | 1% | 3% |
 
-aStudy included patients undergoing orthopedic surgery treated with Epogen or placebo for 15 days. bStudy included patients undergoing orthopedic surgery treated with Epogen 600 U/kg weekly for 4 weeks or 300 U/kg daily for 15 days. cDVTs were determined by clinical symptoms.
+aStudy included patients undergoing orthopedic surgery treated with Epogen or placebo for 15 days.
+
+bStudy included patients undergoing orthopedic surgery treated with Epogen 600 U/kg weekly for 4 weeks or 300 U/kg daily for 15 days.
+
+cDVTs were determined by clinical symptoms.
 
 ## 6.2 Postmarketing Experience
 
-Because postmarketing reporting of adverse reactions is voluntary and from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post-approval use of Epogen.
 
-The following adverse reactions have been identified during postmarketing use of Epogen:
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Seizures [see Warnings and Precautions (5.5)]
-- PRCA [see Warnings and Precautions (5.7)]
-- Serious allergic reactions [see Warnings and Precautions (5.8)]
+- Seizures [see Warnings and Precautions (5.4)]
+- PRCA [see Warnings and Precautions (5.6)]
+- Serious allergic reactions [see Warnings and Precautions (5.7)]
 - Injection site reactions, including irritation and pain
 - Porphyria
 
 ## 6.3 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
-Neutralizing antibodies to epoetin alfa that cross-react with endogenous erythropoietin and other ESAs can result in PRCA or severe anemia (with or without other cytopenias) [see Warnings and Precautions (5.7)].
+Neutralizing antibodies to epoetin alfa that cross-react with endogenous erythropoietin and other ESAs can result in PRCA or severe anemia (with or without other cytopenias) [see Warnings and Precautions (5.6)].
 
 The incidence of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
