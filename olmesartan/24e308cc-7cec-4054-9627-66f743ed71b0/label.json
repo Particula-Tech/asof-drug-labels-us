@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA204814"
+  ],
+  "inn": "olmesartan",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-178-07",
+    "33342-178-10",
+    "33342-178-12",
+    "33342-178-44",
+    "33342-179-07",
+    "33342-179-10",
+    "33342-179-12",
+    "33342-179-44",
+    "33342-180-07",
+    "33342-180-10",
+    "33342-180-12",
+    "33342-180-44"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "olmesartan medoxomil",
+      "name": "Olmesartan medoxomil"
+    }
+  ],
+  "setid": "24e308cc-7cec-4054-9627-66f743ed71b0",
+  "source": "dailymed"
+}
