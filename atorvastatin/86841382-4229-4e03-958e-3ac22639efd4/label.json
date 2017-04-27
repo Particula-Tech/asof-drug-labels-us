@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA205300"
+  ],
+  "inn": "atorvastatin",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-5056-98",
+    "0093-5057-98",
+    "0093-5058-98",
+    "0093-5059-98"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "atorvastatin calcium",
+      "name": "Atorvastatin Calcium"
+    }
+  ],
+  "setid": "86841382-4229-4e03-958e-3ac22639efd4",
+  "source": "dailymed"
+}
