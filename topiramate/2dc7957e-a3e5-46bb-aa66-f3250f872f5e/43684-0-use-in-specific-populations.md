@@ -31,9 +31,9 @@ Labor or Delivery
 
 Although the effect of topiramate on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus' ability to tolerate labor [see Use in Specific Populations (8.1)].
 
-Topiramate treatment can cause metabolic acidosis [see Warnings and Precautions (5.3)].
+Topiramate treatment can cause metabolic acidosis [see Warnings and Precautions (5.4)].
 The effect of topiramate-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) can cause decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus' ability to tolerate labor.
-Pregnant patients should be monitored for metabolic acidosis and treated as in the nonpregnant state [see Warnings and Precautions (5.3)].
+Pregnant patients should be monitored for metabolic acidosis and treated as in the nonpregnant state [see Warnings and Precautions (5.4)].
 Newborns of mothers treated with topiramate should be monitored for metabolic acidosis because of transfer of topiramate to the fetus and possible occurrence of transient metabolic acidosis following birth.
 
 Data
@@ -57,21 +57,22 @@ Animal Data
 When topiramate (20, 100, and 500 mg/kg/day) was administered orally to pregnant mice during the period of organogenesis, the incidence of fetal malformations (primarily craniofacial defects) was increased at all doses.
 Fetal body weights and skeletal ossification were reduced at the highest dose tested in conjunction with decreased maternal body weight gain.
 A no-effect dose for embryofetal developmental toxicity in mice was not identified.
-The lowest dose tested, which was associated with teratogenic effects, is less than the maximum recommended human dose (MRHD) of 400 mg/day on a body surface area (mg/m2) basis.
+The lowest dose tested, which was associated with teratogenic effects, is less than the maximum recommended human dose (MRHD) for epilepsy (400 mg/day) or migraine (100 mg/day) on a body surface area (mg/m2) basis.
 
 In pregnant rats administered topiramate (20, 100, and 500 mg/kg/day or 0.2, 2.5, 30, and 400 mg/kg/day) orally during the period of organogenesis, the frequency of limb malformations (ectrodactyly, micromelia, and amelia) was increased in fetuses at 400 or 500 mg/kg/day.
 Embryotoxicity (reduced fetal body weights, increased incidences of structural variations) was observed at doses as low as 20 mg/kg/day.
 Clinical signs of maternal toxicity were seen at 400 mg/kg/day and above, and maternal body weight gain was reduced at doses of 100 mg/kg/day or greater.
-The no-effect dose for embryofetal developmental toxicity in rats is less than the MRHD on a mg/m2 basis.
+The no-effect dose for embryofetal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m2 basis.
 
 In pregnant rabbits administered topiramate (20, 60, and 180 mg/kg/day or 10, 35, and 120 mg/kg/day) orally during organogenesis, embryofetal mortality was increased at 35 mg/kg/day and teratogenic effects (primarily rib and vertebral malformations) were observed at 120 mg/kg/day.
 Evidence of maternal toxicity (decreased body weight gain, clinical signs, and/or mortality) was seen at 35 mg/kg/day and above.
-The no-effect dose (20 mg/kg/day) for embryofetal developmental toxicity in rabbits is equivalent to the MRHD on a mg/m2 basis.
+The no-effect dose (20 mg/kg/day) for embryofetal developmental toxicity in rabbits is equivalent to the MRHD for epilepsy and approximately 4 times the MRHD for migraine on a mg/m2 basis.
 
 When topiramate (0.2, 4, 20, and 100 mg/kg/day or 2, 20, and 200 mg/kg/day) was administered orally to female rats during the latter part of gestation and throughout lactation, offspring exhibited decreased viability and delayed physical development at 200 mg/kg/day and reductions in pre-and/or postweaning body weight gain at 2 mg/kg/day and above.
-Maternal toxicity (decreased body weight gain, clinical signs) was evident at 100 mg/kg or greater.
-In a rat embryofetal development study which included postnatal assessment of offspring, oral administration of topiramate (0.2, 2.5, 30, and 400 mg/kg/day) to pregnant animals during the period of organogenesis resulted in delayed physical development at 400 mg/kg/day and persistent reductions in body weight gain at 30 mg/kg/day and higher in the offspring.
-The no-effect dose (0.2 mg/kg/day) for pre- and postnatal developmental toxicity is less than the MRHD on a mg/m2 basis.
+Maternal toxicity (decreased body weight gain, clinical signs) was evident at 100 mg/kg/day or greater.
+
+In a rat embryo/fetal development study which included postnatal assessment of offspring, oral administration of topiramate (0.2, 2.5, 30, and 400 mg/kg/day) to pregnant animals during the period of organogenesis resulted in delayed physical development at 400 mg/kg/day and persistent reductions in body weight gain at 30 mg/kg/day and higher in the offspring.
+The no-effect dose (0.2 mg/kg/day) for pre- and postnatal developmental toxicity is less than the MRHD for epilepsy or migraine on a mg/m2 basis.
 
 ## 8.2 Lactation
 
@@ -80,7 +81,7 @@ Risk Summary
 Topiramate is excreted in human milk [see Data].
 The effects of topiramate exposure in breastfed infants are unknown.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for TROKENDI XR® and any potential adverse effects on the breastfed infant from TROKENDI XR® or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for TROKENDI XR and any potential adverse effects on the breastfed infant from TROKENDI XR or from the underlying maternal condition.
 
 Data
 
@@ -102,13 +103,13 @@ The adverse reactions in pediatric patients treated for partial onset seizure, p
 
 These include, but are not limited to:
 
-- oligohydrosis and hyperthermia [see Warnings and Precautions (5.2)]
-- dose-related increased incidence of metabolic acidosis [see Warnings and Precautions (5.3)]
-- dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.9)]
+- oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)]
+- dose-related increased incidence of metabolic acidosis [see Warnings and Precautions (5.4)]
+- dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.10)]
 
 Not Recommended for Pediatric Patients Younger than 6 Years of Age
 
-The safety and effectiveness of TROKENDI XR® for treatment of partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndromes in pediatric patients younger than 6 years of age has not been established.
+The safety and effectiveness of TROKENDI XR for treatment of partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndromes in pediatric patients younger than 6 years of age has not been established.
 
 Because the capsule must be swallowed whole, and may not be sprinkled on food, crushed or chewed, TROKENDI XR® is recommended only for children age 6 or older.
 
@@ -134,11 +135,13 @@ The incidence of these abnormal shifts was 6 % for placebo, 10% for 5 mg/kg/day,
 There was a mean dose-related increase in alkaline phosphatase.
 The significance of these findings is uncertain.
 
-Treatment with immediate-release topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.3) and Adverse Reactions (6)].
+Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.10)].
+
+Treatment with immediate-release topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
 
 In open-label, uncontrolled experience, increasing impairment of adaptive behavior was documented in behavioral testing over time in this population.
 There was a suggestion that this effect was dose-related.
-However, because of the absence of an appropriate control group, it is not known if this decrement in function was treatment related or reflects the patient's underlying disease (e.g., patients who received higher doses may have more severe underlying disease) [see Warnings and Precautions (5.6)].
+However, because of the absence of an appropriate control group, it is not known if this decrement in function was treatment related or reflects the patient's underlying disease (e.g., patients who received higher doses may have more severe underlying disease) [see Warnings and Precautions (5.7)].
 
 In this open-label, uncontrolled study, the mortality was 37 deaths/1000 patient years.
 It is not possible to know whether this mortality rate is related to immediate-release topiramate treatment, because the background mortality rate for a similar, significantly refractory, young pediatric population (1 month to 24 months) with partial epilepsy is not known.
@@ -147,16 +150,51 @@ Other Pediatric Studies
 
 Topiramate treatment produced a dose-related increased shift in serum creatinine from normal at baseline to an increased value at the end of 4 months treatment in adolescent patients (ages 12 years to 16 years) in a double-blind, placebo-controlled study [see Adverse Reactions (6.1)].
 
+Migraine Prophylaxis in Adolescents 12 to 17 Years
+
+Safety and effectiveness of topiramate in the prophylaxis of migraine was studied in 5 double-blind, randomized, placebo-controlled, parallel-group trials in a total of 219 pediatric patients, at doses of 50 mg/day to 200 mg/day, or 2 to 3 mg/kg/day.
+These comprised a fixed dose study in 103 adolescents age 12 to 17 years [see Clinical Studies (14.6)], a flexible dose (2 to 3 mg/kg/day), placebo-controlled study in 157 pediatric patients age 6 to 16 years (including 67 adolescent patients age 12 to 16 years), and a total of 49 adolescents age 12 to 17 years in 3 studies of migraine prophylaxis primarily in adults.
+Open-label extension phases of 3 studies enabled evaluation of long-term safety for up to 6 months after the end of the double-blind phase.
+
+Efficacy of topiramate for migraine prophylaxis in adolescents is demonstrated for a 100 mg daily dose in Study 3 [see Clinical Studies (14.6)].
+Efficacy of topiramate (2 to 3 mg/kg/day) for migraine prophylaxis was not demonstrated in a placebo-controlled trial of 157 pediatric patients (6 to 16 years) that included treatment of 67 adolescents (12 to 16 years) for 20 weeks.
+
+In the adolescent trials (12 to 17 years) in which patients were randomized to placebo or a fixed daily dose of immediate-release topiramate, the most commonly observed adverse reactions associated with the use of immediate-release topiramate that were seen at an incidence higher (≥5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain [see Adverse Reactions (6.1)].
+
+The most common cognitive adverse reaction in pooled double-blind studies in adolescent patients age 12 to 17 years was difficulty with concentration/attention [see Warnings and Precautions (5.7)].
+
+Markedly abnormally low serum bicarbonate values indicative of metabolic acidosis were reported in topiramate-treated adolescent migraine patients [see Warnings and Precautions (5.4)].
+
+In topiramate-treated adolescent patients (12 to 17 years) compared to placebo-treated patients, abnormally increased results were more frequent for creatinine, BUN, uric acid, chloride, ammonia, total protein, and platelets.
+Abnormally decreased results were observed with topiramate vs placebo treatment for phosphorus and bicarbonate [see Warnings and Precautions(5.4 and Adverse Reactions (6.1))].
+
+Notable changes (increases and decreases) from baseline in systolic blood pressure, diastolic blood pressure, and pulse that were observed occurred more commonly in adolescents treated with topiramate compared to adolescents treated with placebo [see Clinical Pharmacology (12.2)].
+
+Migraine Prophylaxis in Children 6-11 Years Old
+
+Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the prophylaxis treatment of migraine headache.
+
+In a double-blind study in 90 children age 6 to 11 years (including 59 topiramate-treated and 31 placebo patients), the adverse reaction profile was generally similar to that in pooled double-blind studies of adolescents age 12 to 17 years.
+The adverse reactions that occurred most commonly in immediate-release topiramate-treated children age 6 to 11 years, and at least twice as frequently than placebo, were gastroenteritis (12% topiramate, 6% placebo), sinusitis (10% topiramate, 3% placebo), weight decrease (8% topiramate, 3% placebo) and paresthesia (7% topiramate, 0% placebo).
+Difficulty with concentration/attention occurred in 3 topiramate-treated patients (5%) and 0 placebo patients.
+
+The risk for cognitive adverse reactions was greater in younger patients (6 to 11 years) than in older patients (12 to 17 years) [see Warnings and Precautions (5.7)].
+
+For patients 6 to 11 years, the following were noted to be abnormally increased more frequently with topiramate than with placebo: alkaline phosphatase, creatinine, and eosinophils.
+Analytes abnormally decreased were: total white count and neutrophils [see Adverse Reactions (6.1)].
+
+Serum bicarbonate, chloride, phosphorus, and ammonia data were not collected for pediatric patients 6 to 11 years of age.
+
 Juvenile Animal Studies
 
-When topiramate (30, 90 and 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose tested.
+When topiramate (30, 90, and 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose tested.
 The higher of the doses not associated with effects on bone (90 mg/kg/day) is approximately 2 times the maximum recommended pediatric dose for epilepsy (9 mg/kg/day) on a body surface area (mg/m2) basis.
 
 ## 8.5 Geriatric Use
 
 Clinical studies of immediate-release topiramate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently than younger subjects.
 Dosage adjustment is necessary for elderly with creatinine clearance less than 70 mL/min/1.73 m2.
-Estimate GFR should be measured prior to dosing [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Estimate GFR should be measured prior to dosing [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Race and Gender Effects
 
@@ -165,11 +203,11 @@ Evaluation of effectiveness and safety of topiramate in clinical trials has show
 ## 8.7 Renal Impairment
 
 The clearance of topiramate was reduced by 42% in moderately renally impaired (creatinine clearance 30 to 69 mL/min/1.73m2) and by 54% in severely renally impaired subjects (creatinine clearance less than 30 mL/min/1.73m2) compared to normal renal function subjects (creatinine clearance greater than 70 mL/min/1.73m2).
-One-half the usual starting and maintenance dose is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+One-half the usual starting and maintenance dose is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Patients Undergoing Hemodialysis
 
 Topiramate is cleared by hemodialysis at a rate that is 4 to 6 times greater than a normal individual.
 Accordingly, a prolonged period of dialysis may cause topiramate concentration to fall below that required to maintain an anti-seizure effect.
 To avoid rapid drops in topiramate plasma concentration during hemodialysis, a supplemental dose of topiramate may be required.
-The actual adjustment should take into account the duration of dialysis period, the clearance rate of the dialysis system being used, and the effective renal clearance of topiramate in the patient being dialyzed [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+The actual adjustment should take into account the duration of dialysis period, the clearance rate of the dialysis system being used, and the effective renal clearance of topiramate in the patient being dialyzed [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].

@@ -14,7 +14,13 @@ Other measures, in conjunction with discontinuation of TROKENDI XR®, may be hel
 
 Elevated intraocular pressure of any etiology, if left untreated, can lead to serious sequelae including permanent vision loss.
 
-## 5.2 Oligohydrosis and Hyperthermia
+## 5.2 Visual Field Defects
+
+Visual field defects (independent of elevated intraocular pressure) have been reported in clinical trials and in postmarketing experience in patients receiving topiramate.
+In clinical trials, most of these events were reversible after topiramate discontinuation.
+If visual problems occur at any time during treatment with TROKENDI XR, consideration should be given to discontinuing the drug.
+
+## 5.3 Oligohydrosis and Hyperthermia
 
 Oligohydrosis (decreased sweating), resulting in hospitalization in some cases, has been reported in association with topiramate use.
 Decreased sweating and an elevation in body temperature above normal characterized these cases.
@@ -22,9 +28,9 @@ Some of the cases were reported after exposure to elevated environmental tempera
 
 The majority of the reports have been in pediatric patients.
 Patients, especially pediatric patients, treated with TROKENDI XR® should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather.
-Caution should be used when TROKENDI XR® is prescribed with other drugs that predispose patients to heat-related disorders; these drugs include, but are not limited to, other carbonic anhydrase inhibitors and drugs with anticholinergic activity.
+Caution should be used when TROKENDI XR® is prescribed with other drugs that predispose patients to heat-related disorders; these drugs include, but are not limited to, other carbonic anhydrase inhibitors and drugs with anticholinergic activity [see Drug Interactions (7.5)].
 
-## 5.3 Metabolic Acidosis
+## 5.4 Metabolic Acidosis
 
 Hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) is associated with topiramate, and can be expected with treatment with TROKENDI XR®.
 This metabolic acidosis is caused by renal bicarbonate loss due to the inhibitory effect of topiramate on carbonic anhydrase.
@@ -42,14 +48,16 @@ A reduction in growth rate may eventually decrease the maximal height achieved.
 The effect of topiramate on growth and bone-related sequelae has not been systematically investigated in long-term, placebo-controlled trials.
 Long-term, open-label treatment of infants/toddlers, with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in Z SCORES for length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal infants.
 Reductions in Z SCORES for length and weight were correlated to the degree of acidosis [see Pediatric Use (8.4)].
-Topiramate treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
+Topiramate treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
 
-Adults
+Epilepsy
+
+Adult Patients
 
 In adults, the incidence of persistent decreases in serum bicarbonate (levels of less than 20 mEq/L at two consecutive visits or at the final visit) in controlled clinical trials for adjunctive treatment of epilepsy was 32% for 400 mg per day, and 1% for placebo.
 Metabolic acidosis has been observed at doses as low as 50 mg per day.
 The incidence of persistent decreases in serum bicarbonate in adult patients (≥16 years of age) in the epilepsy controlled clinical trial for monotherapy was 14% for 50 mg per day and 25% for 400 mg per day.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in the adjunctive therapy trials was 3% for 400 mg per day, and 0% for placebo, and in the monotherapy trial was 1% for 50 mg per day and 6% for 400 mg per day.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in the adjunctive therapy trials was 3% for 400 mg per day, and 0% for placebo and in the monotherapy trial was 1% for 50 mg per day and 6% for 400 mg per day.
 Serum bicarbonate levels have not been systematically evaluated at daily doses greater than 400 mg per day.
 
 Pediatric Patients (2 Years to 16 Years of Age)
@@ -68,19 +76,32 @@ The mean treatment difference (25 mg/kg/day topiramate-placebo) was -5.9 mEq/L f
 The incidence of metabolic acidosis (defined by a serum bicarbonate less than 20 mEq/L) was 0% for placebo, 30% for 5 mg/kg/day, 50% for 15 mg/kg/day, and 45% for 25 mg/kg/day.
 The incidence of markedly abnormal changes (i.e., less than 17 mEq/L and greater than 5 mEq/L decrease from baseline of greater than or equal to 20 mEq/L) was 0% for placebo, 4% for 5 mg/kg/day, 5% for 15 mg/kg/day, and 5% for 25 mg/kg/day [see Use in Specific Populations(8.4)].
 
+Migraine
+
+Adult Patients
+
+The incidence of persistent decreases in serum bicarbonate in placebo-controlled trials with immediate-release topiramate in adults for the prophylaxis of migraine was 44% for 200 mg per day, 39% for 100 mg per day, 23% for 50 mg per day, and 7% for placebo.
+The incidence of a markedly abnormally low serum bicarbonate (i.e. absolute value less than 17mEq/L, and greater than 5mEq/L decrease from pretreatment) in these trials was 11% for 200 mg per day, 9% for 100 mg per day, 2% for 50 mg per day, and less than 1% for placebo.
+
+Adolescent Patients
+
+In pooled, double-blind migraine prophylaxis studies in adolescent patients (12 to 17 years of age), the incidence of persistent decreases in serum bicarbonate was 77% for 200 mg/day, 27% for 100 mg/day, 30% for 50 mg/day, and 9% for placebo.
+The incidence of markedly low serum bicarbonate (i.e., absolute value <17 mEq/L and >5 mEq/L decrease from pretreatment) was 6% for 100 mg/day, 2% for 50 mg/day, and 2% for placebo.
+This bicarbonate criterion was not met by any patients in the 200 mg/day group, which had a low number of subjects (n=13).
+
 Risk Mitigation Strategies
 
 Measurement of baseline and periodic serum bicarbonate during topiramate treatment is recommended.
 If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing topiramate (using dose tapering).
 If the decision is made to continue patients on topiramate in the face of persistent acidosis, alkali treatment should be considered.
 
-## 5.4 Interaction with Alcohol
+## 5.5 Interaction with Alcohol
 
 In vitro data show that, in the presence of alcohol, the pattern of topiramate release from TROKENDI XR® capsules is significantly altered.
 As a result, plasma levels of topiramate with TROKENDI XR® may be markedly higher soon after dosing and subtherapeutic later in the day.
 Therefore, alcohol use should be completely avoided within 6 hours prior to and 6 hours after TROKENDI XR® administration.
 
-## 5.5 Suicidal Behavior and Ideation
+## 5.6 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs) increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED, including TROKENDI XR® for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
@@ -100,7 +121,7 @@ Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events per 1,000 Patients | Drug Patients with Events per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1,000 Patients |
+| Indication | Placebo Patients with Events per 1,000 Patients | Drug Patients with Events per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/ Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1,000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -116,9 +137,9 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior or the emergence of suicidal thoughts, behavior or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.6 Cognitive/Neuropsychiatric Adverse Reactions
+## 5.7 Cognitive/Neuropsychiatric Adverse Reactions
 
-Adverse reactions most often associated with the use of topiramate, and therefore expected to be associated with the use of TROKENDI XR® were related to the central nervous system and were observed in the epilepsy population.
+Adverse reactions most often associated with the use of topiramate, and therefore expected to be associated with the use of TROKENDI XR®, were related to the central nervous system and were observed in both the epilepsy and migraine populations.
 In adults, the most frequent of these can be classified into three general categories: 1) Cognitive-related dysfunction (e.g., confusion, psychomotor slowing, difficulty with concentration/attention, difficulty with memory, speech or language problems, particularly word-finding difficulties), 2) Psychiatric/behavioral disturbances (e.g.,depression or mood problems), and 3) Somnolence or fatigue.
 
 Adult Patients
@@ -135,20 +156,29 @@ Some patients who experienced one or more cognitive-related adverse reactions in
 
 In the monotherapy epilepsy controlled trial conducted with topiramate, the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg per day and 26% for 400 mg per day.
 
+In the 6-month migraine prophylaxis controlled trials of immediate release topiramate using a slower titration regimen (25mg per day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg per day, 22% for 100 mg per day (the recommended dose), 28% for 200 mg per day and 10% for placebo.
+These dose-related adverse reactions typically began in the titration phase and often persisted into the maintenance phase, but infrequently began in the maintenance phase.
+Some patients experienced a recurrence of one or more of these cognitive adverse reactions and this recurrence was typically in the titration phase.
+A relatively small proportion of topiramate-treated patients experienced more than one concurrent cognitive adverse reaction.
+The most common cognitive adverse reactions occurring together included difficulty with memory along with difficulty with concentration/attention, difficulty with memory along with language problems, and difficulty with concentration/attention along with language problems.
+Rarely, topiramate-treated patients experienced three concurrent cognitive reactions.
+
 Psychiatric/Behavioral Disturbances
 
-Psychiatric/behavioral disturbances (depression or mood) were dose-related for the epilepsy population treated with topiramate.
+Psychiatric/behavioral disturbances (depression or mood) were dose-related for both the epilepsy and migraine populations treated with topiramate [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
 
 Somnolence/Fatigue
 
 Somnolence and fatigue were the adverse reactions most frequently reported during clinical trials of topiramate for adjunctive epilepsy.
 For the adjunctive epilepsy population, the incidence of somnolence did not differ substantially between 200 mg per day and 1,000 mg per day, but the incidence of fatigue was dose-related and increased at dosages above 400 mg per day.
 For the monotherapy epilepsy population in the 50 mg per day and 400 mg per day groups, the incidence of somnolence was dose-related (9% for the 50 mg per day group and 15% for the 400 mg per day group) and the incidence of fatigue was comparable in both treatment groups (14% each).
-For other uses not approved for TROKENDI XR®, somnolence and fatigue were dose-related and more common in the titration phase.
+For the migraine population, somnolence and fatigue were dose-related and more common in the titration phase.
 
 Additional nonspecific CNS events commonly observed with topiramate in the adjunctive epilepsy population include dizziness or ataxia.
 
 Pediatric Patients
+
+Epilepsy
 
 In double-blind adjunctive therapy and monotherapy epilepsy clinical studies conducted with topiramate, the incidences of cognitive/neuropsychiatric adverse reactions in pediatric patients were generally lower than observed in adults.
 These reactions included psychomotor slowing, difficulty with concentration/attention, speech disorders/related speech problems and language problems.
@@ -159,7 +189,23 @@ No patients discontinued treatment due to any adverse reactions in the adjunctiv
 In the monotherapy epilepsy double-blind trial conducted with immediate-release topiramate product, 1 pediatric patient (2%) in the 50 mg per day group and 7 pediatric patients (12%) in the 400 mg per day group discontinued treatment due to any adverse reactions.
 The most common adverse reaction associated with discontinuation of therapy was difficulty with concentration/attention; all occurred in the 400 mg per day group.
 
-## 5.7 Fetal Toxicity
+Migraine
+
+The incidence of cognitive adverse reactions was increased in topiramate-treated patients (7%) versus placebo (4%) in pooled, double-blind placebo-controlled studies in which adolescent patients (12 to 17 years) were randomized to placebo or one of several fixed daily doses of immediate release topiramate (50 mg, 100 mg, 200 mg).
+
+The incidence of cognitive adverse reactions was also increased in a placebo-controlled study of pediatric patients (6 to 16 years) treated with 2 to 3 mg/kg/day of immediate release topiramate (10%) versus placebo treatment (2%).
+TROKENDI XR is not approved for prophylaxis of migraine in pediatric patients under 12 years of age.
+
+The risk for cognitive adverse reactions was dose-dependent, and was particularly evident at the 200 mg dose.
+This risk for cognitive adverse reactions was also greater in younger patients (6 to 11 years) than in older patients (12 to 17 years).
+The most common cognitive adverse reaction in these trials was difficulty with concentration/attention.
+Cognitive adverse reactions most commonly developed in the titration period and sometimes persisted into the maintenance period.
+These adverse reactions typically occurred in isolation as single type of cognitive adverse reaction.
+Cognitive adverse reactions that led to study discontinuation occurred in one patient (difficulty with concentration/attention and language problems).
+The Cambridge Neuropsychological Test Automated Battery (CANTAB) was administered to adolescents (12 to 17 years) to assess the effects of topiramate on cognitive function at baseline at the end of the Study 3 [see Clinical Studies (14.6)].
+Mean change from baseline in certain CANTAB tests suggests that topiramate treatment may result in psychomotor slowing and decreased verbal fluency.
+
+## 5.8 Fetal Toxicity
 
 Topiramate can cause fetal harm when administered to a pregnant woman.
 Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age.
@@ -169,16 +215,22 @@ Consider the benefits and risks of TROKENDI XR® when administering the drug in 
 TROKENDI XR® should be used during pregnancy only if the potential benefit outweighs the potential risk.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be informed of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
-## 5.8 Withdrawal of Antiepileptic Drugs
+## 5.9 Withdrawal of Antiepileptic Drugs
 
 In patients with or without a history of seizures or epilepsy, antiepileptic drugs including TROKENDI XR® should be gradually withdrawn to minimize the potential for seizures or increased seizure frequency [see Clinical Studies (14)].
 In situations where rapid withdrawal of TROKENDI XR® is medically required, appropriate monitoring is recommended.
 
-## 5.9 Hyperammonemia and Encephalopathy
+## 5.10 Hyperammonemia and Encephalopathy
 
 Hyperammonemia/Encephalopathy Without Concomitant Valproic Acid (VPA)
 
-Topiramate treatment has produced hyperammonemia (in some instances dose-related) in clinical investigational programs in very young pediatric patients (1 month to 24 months) who were treated with adjunctive topiramate for partial onset epilepsy (8% for placebo, 10% for 5 mg/kg/day, 0% for 15 mg/kg/day, 9% for 25 mg/kg/day).
+Topiramate treatment has produced hyperammonemia (in some instances dose-related) in a clinical investigational program in adolescent patients (12 to 17 years) who were treated with topiramate for migraine prophylaxis.
+The incidence of hyperammonemia (above the upper limit of normal reference) at any time in the trial was 9% for placebo, 14% for 50 mg, and 26% for 100 mg topiramate daily.
+In some patients, hyperammonemia was observed at the end of the trial at the final visit.
+The incidence of markedly increased hyperammonemia (at least 50% or higher above upper limit of normal) at any time in the trial in adolescent patients was also increased at 100 mg/day (9%) compared to 50 mg topiramate (0%) or placebo (3%).
+During this trial, markedly increased ammonia levels returned to normal in all but one patient (in whom the ammonia level fell to high instead of markedly abnormal).
+
+Topiramate treatment has produced hyperammonemia in a clinical investigational program in very young pediatric patients (1 month to 24 months) who were treated with adjunctive topiramate for partial onset epilepsy (8% for placebo, 10% for 5 mg/kg/day, 0% for 15 mg/kg/day, 9% for 25 mg/kg/day).
 TROKENDI XR® is not approved as adjunctive treatment of partial onset seizures in pediatric patients less than 6 years old.
 In some patients, ammonia was markedly increased (greater than or equal to 50% above upper limit of normal).
 The hyperammonemia associated with topiramate treatment occurred with and without encephalopathy in placebo-controlled trials, and in an open-label, extension trial of infants with refractory epilepsy.
@@ -209,44 +261,42 @@ Although not studied, topiramate or TROKENDI XR® treatment or an interaction of
 
 In patients who develop unexplained lethargy, vomiting, or changes in mental status associated with any topiramate treatment, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
 
-## 5.10 Kidney Stones
+## 5.11 Kidney Stones
 
 A total of 32/2086 (1.5%) of adults exposed to topiramate during its adjunctive epilepsy therapy development reported the occurrence of kidney stones, an incidence about 2 to 4 times greater than expected in a similar, untreated population.
 In the double-blind monotherapy epilepsy study, a total of 4/319 (1.3%) of adults exposed to topiramate reported the occurrence of kidney stones.
 As in the general population, the incidence of stone formation among topiramate treated patients was higher in men.
-Kidney stones have also been reported in pediatric patients taking topiramate for epilepsy.
+Kidney stones have also been reported in pediatric patients taking topiramate for epilepsy or migraine.
 During long-term (up to 1 year) topiramate treatment in an open-label extension study of 284 pediatric patients 1 month to 24 months old with epilepsy, 7% developed kidney or bladder stones that were diagnosed clinically or by sonogram.
 TROKENDI XR® is not approved for pediatric patients less than 6 years old [see Use in Specific Populations (8.4)].
 
+Kidney stones have also been reported in pediatric patients taking topiramate for migraine prophylaxis.
+For the double-blind migraine prophylaxis studies, one adverse event (renal calculus) occurred in a topiramate-treated subject in the age 12 to 17 years group.
+The overall experience with open-label, long-term, topiramate treatment for migraine prophylaxis is limited in pediatric patients.
+
 TROKENDI XR® would be expected to have the same effect as topiramate on the formation of kidney stones.
 An explanation for the association of topiramate and kidney stones may lay in the fact that topiramate is a carbonic anhydrase inhibitor.
-Carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) can promote stone formation by reducing urinary citrate excretion and by increasing urinary pH [see Warnings and Precautions (5.3)].
+Carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) can promote stone formation by reducing urinary citrate excretion and by increasing urinary pH [see Warnings and Precautions (5.4)].
 The concomitant use of TROKENDI XR® with any other drug producing metabolic acidosis, or potentially in patients on a ketogenic diet may create a physiological environment that increases the risk of kidney stone formation, and should therefore be avoided.
 
 Increased fluid intake increases the urinary output, lowering the concentration of substances involved in stone formation.
 Hydration is recommended to reduce new stone formation.
 
-## 5.11 Hypothermia with Concomitant Valproic Acid Use
+## 5.12 Hypothermia with Concomitant Valproic Acid Use
 
 Hypothermia, defined as an unintentional drop in body core temperature to less than 35ºC (95ºF) has been reported in association with topiramate use with concomitant valproic acid (VPA) both in the presence and in the absence of hyperammonemia.
 This adverse reaction in patients using concomitant topiramate and valproate can occur after starting topiramate treatment or after increasing the daily dose of topiramate [see Drug Interactions (7.5)].
 Consideration should be given to stopping topiramate or valproate in patients who develop hypothermia, which may be manifested by a variety of clinical abnormalities including lethargy, confusion, coma, and significant alterations in other major organ systems such as the cardiovascular and respiratory systems.
 Clinical management and assessment should include examination of blood ammonia levels.
 
-## 5.12 Paresthesia
+## 5.13 Paresthesia
 
 Paresthesia (usually tingling of the extremities), an effect associated with the use of other carbonic anhydrase inhibitors, appears to be a common effect of topiramate.
-Paresthesia was more frequently reported in the monotherapy epilepsy trials conducted with topiramate than in the adjunctive therapy epilepsy trials conducted with the same product.
+Paresthesia was more frequently reported in the monotherapy epilepsy and migraine prophylaxis trials conducted with topiramate than in the adjunctive therapy epilepsy trials conducted with the same product.
 In the majority of instances, paresthesia did not lead to treatment discontinuation.
 
-## 5.13 Interaction with Other CNS Depressants
+## 5.14 Interaction with Other CNS Depressants
 
 Topiramate is a CNS depressant.
 Concomitant administration of topiramate with other CNS depressant drugs can result in significant CNS depression.
 Patients should be watched carefully when TROKENDI XR® is co-administered with other CNS depressant drugs.
-
-## 5.14 Visual Field Defects
-
-Visual field defects (independent of elevated intraocular pressure) have been reported in clinical trials and in postmarketing experience in patients receiving topiramate.
-In clinical trials, most of these events were reversible after topiramate discontinuation.
-If visual problems occur at any time during topiramate treatment, consideration should be given to discontinuing the drug.

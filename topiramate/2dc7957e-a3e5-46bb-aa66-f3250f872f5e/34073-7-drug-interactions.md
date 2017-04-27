@@ -2,7 +2,7 @@
 
 ## 7.1 Alcohol
 
-Alcohol use is contraindicated within 6 hours prior to and 6 hours after TROKENDI XR® administration [see Contraindications (4) and Warnings and Precautions (5.4)].
+Alcohol use is contraindicated within 6 hours prior to and 6 hours after TROKENDI XR® administration [see Contraindications (4) and Warnings and Precautions (5.5)].
 
 ## 7.2 Oral Contraceptives
 
@@ -21,7 +21,7 @@ Concomitant administration of phenytoin or carbamazepine with topiramate decreas
 
 Concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy.
 Concomitant administration of topiramate with valproic acid has also been associated with hypothermia (with and without hyperammonemia) in patients who have tolerated either drug alone.
-It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.8,5.9) and Clinical Pharmacology (12.3)].
+It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.10, 5.12) and Clinical Pharmacology (12.3)].
 
 Numerous AEDs are substrates of the CYP enzyme system.
 In vitro studies indicate that topiramate does not inhibit enzyme activity for CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, and CYP3A4/5 isozymes.
@@ -31,7 +31,7 @@ The same drug interactions can be expected with the use of TROKENDI XR®.
 ## 7.4 CNS Depressants
 
 Topiramate is a CNS depressant.
-Concomitant administration of topiramate with other CNS depressant drugs or alcohol can result in significant CNS depression [see Warnings and Precautions (5.13)].
+Concomitant administration of topiramate with other CNS depressant drugs or alcohol can result in significant CNS depression [see Warnings and Precautions (5.14)].
 
 ## 7.5 Other Carbonic Anhydrase Inhibitors
 

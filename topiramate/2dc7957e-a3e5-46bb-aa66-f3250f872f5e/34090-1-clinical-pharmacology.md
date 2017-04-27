@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The precise mechanisms by which topiramate exerts its anticonvulsant effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy.
+The precise mechanisms by which topiramate exerts its anticonvulsant and migraine prophylaxis effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and migraine prophylaxis.
 Electrophysiological and biochemical evidence suggests that topiramate, at pharmacologically relevant concentrations, blocks voltage-dependent sodium channels, augments the activity of the neurotransmitter gamma-aminobutyrate at some subtypes of the GABA-A receptor, antagonizes the AMPA/kainate subtype of the glutamate receptor, and inhibits the carbonic anhydrase enzyme, particularly isozymes II and IV.
 
 ## 12.2 Pharmacodynamics
@@ -10,6 +10,13 @@ Electrophysiological and biochemical evidence suggests that topiramate, at pharm
 Topiramate has anticonvulsant activity in rat and mouse maximal electroshock seizure (MES) tests.
 Topiramate is only weakly effective in blocking clonic seizures induced by the GABA-A receptor antagonist, pentylenetetrazole.
 Topiramate is also effective in rodent models of epilepsy, which include tonic and absence-like seizures in the spontaneous epileptic rat (SER) and tonic and clonic seizures induced in rats by kindling of the amygdala or by global ischemia.
+
+Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for migraine prophylaxis.
+The most notable changes were SBP < 90 mm Hg, DBP < 50 mm Hg, SBP or DBP increases or decreases ≥ 20 mm Hg, and pulse increases or decreases ≥ 30 beats per minute.
+These changes were often dose-related, and were most frequently associated with the greatest treatment difference at the 200 mg dose level.
+When a position was specified for measurement of vital signs in a trial, measurements were made in a sitting position.
+Systematic collection of orthostatic vital signs has not been conducted.
+The clinical significance of these various changes in vital signs has not been clearly established.
 
 ## 12.3 Pharmacokinetics
 
@@ -22,7 +29,7 @@ The peak plasma concentrations (Cmax) of topiramate occurred at approximately 24
 At steady-state, the (AUC0-24, Cmax, and Cmin) of topiramate from TROKENDI XR® administered once-daily and the immediate-release tablet administered twice-daily were shown to be bioequivalent.
 Fluctuation of topiramate plasma concentrations at steady-state for TROKENDI XR® administered once-daily was approximately 26% and 42% in healthy subjects and in epileptic patients, respectively, compared to approximately 40% and 51%, respectively, for immediate-release topiramate [see Clinical Pharmacology (12.6)].
 
-Compared to the fasted state, high-fat meal increased the Cmax of topiramate by 37% and shortened the Tmax to approximately 8 hours following a single dose of TROKENDI XR®, while having no effect on the AUC.
+Compared to the fasted state, high-fat meal increased the Cmax of topiramate by 37% and shortened the Tmax to approximately 8 hour following a single dose of TROKENDI XR®, while having no effect on the AUC.
 Modeling of the observed single dose fed data with simulation to steady state showed that the effect on Cmax is significantly reduced following repeat administrations.
 TROKENDI XR® can be taken without regard to meals.
 
@@ -51,14 +58,14 @@ Renal Impairment
 The clearance of topiramate was reduced by 42% in moderately renally impaired (creatinine clearance 30 to 69 mL/min/1.73m2) and by 54% in severely renally impaired subjects (creatinine clearance less than 30 mL/min/1.73m2) compared to normal renal function subjects (creatinine clearance greater than 70 mL/min/1.73m2).
 Since topiramate is presumed to undergo significant tubular reabsorption, it is uncertain whether this experience can be generalized to all situations of renal impairment.
 It is conceivable that some forms of renal disease could differentially affect glomerular filtration rate and tubular reabsorption resulting in a clearance of topiramate not predicted by creatinine clearance.
-In general, however, use of one-half the usual starting and maintenance dose is recommended in patients with creatinine clearance less than 70 mL/min/1.73 m2 [see Dosage and Administration (2.4), (2.5)].
+In general, however, use of one-half the usual starting and maintenance dose is recommended in patients with creatinine clearance less than 70 mL/min/1.73 m2 [see Dosage and Administration (2.5)].
 
 Hemodialysis
 
 Topiramate is cleared by hemodialysis.
 Using a high-efficiency, counterflow, single pass-dialysate hemodialysis procedure, topiramate dialysis clearance was 120 mL/min with blood flow through the dialyzer at 400 mL/min.
 This high clearance (compared to 20 mL/min to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period.
-Therefore, a supplemental dose may be required [see Dosage and Administration (2.5)].
+Therefore, a supplemental dose may be required [see Dosage and Administration (2.6)].
 
 Hepatic Impairment
 
@@ -77,7 +84,7 @@ Topiramate clearance is decreased in the elderly only to the extent that renal f
 In a study of 13 healthy elderly subjects and 18 healthy young adults who received TROKENDI XR®, 30% higher mean Cmax and 44% higher AUC values were observed in elderly compared to young subjects.
 Elderly subjects exhibited shorter median Tmax at 16 hours versus 24 hours in young subjects.
 The apparent elimination half-life was similar across age groups.
-As recommended for all patients, dosage adjustment is indicated in elderly patients with a creatinine clearance rate less than 70 mL/min/1.73 m2) [see Dosage and Administration (2.4)].
+As recommended for all patients, dosage adjustment is indicated in elderly patients with a creatinine clearance rate less than 70 mL/min/1.73 m2) [see Dosage and Administration (2.5)].
 
 Clearance of topiramate in adults was not affected by gender or race.
 
@@ -99,13 +106,13 @@ Drug-Drug Interaction Studies
 Antiepileptic Drugs
 
 Potential interactions between immediate-release topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in Table 9.
+The effects of these interactions on mean plasma AUCs are summarized in Table 12.
 Interaction of TROKENDI XR® and standard AEDs is not expected to differ from the experience with immediate-release topiramate products.
 
-In Table 9, the second column (AED concentration) describes what happened to the concentration of the AED listed in the first column when topiramate was added.
+In Table 12, the second column (AED concentration) describes what happened to the concentration of the AED listed in the first column when topiramate was added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modified the concentration of topiramate in experimental settings when topiramate was given alone.
 
-Table 9: Summary of AED Interactions with topiramate
+Table 12: Summary of AED Interactions with topiramate
 
 | AED Coadministered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
@@ -121,11 +128,11 @@ Table 9: Summary of AED Interactions with topiramate
 | NE=Not evaluated |  |  |
 | TPM=topiramate |  |  |
 
-In addition to the pharmacokinetic interaction described in the above table, concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy and hypothermia [see Warnings and Precautions (5.9), (5.11) and Drug Interactions (7.5)].
+In addition to the pharmacokinetic interaction described in the above table, concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy and hypothermia [see Warnings and Precautions (5.10), (5.12) and Drug Interactions (7.5)].
 
 CNS Depressants or Alcohol
 
-Concomitant administration of TROKENDI XR® and other CNS depressant drugs or alcohol has not been evaluated in clinical studies [see Contraindications (4), Warnings and Precautions (5.4), (5.13), and Drug Interactions (7.1), (7.4)].
+Concomitant administration of TROKENDI XR® and other CNS depressant drugs or alcohol has not been evaluated in clinical studies [see Contraindications (4), Warnings and Precautions (5.5), (5.14), and Drug Interactions (7.1), (7.4)].
 
 Oral Contraceptives
 

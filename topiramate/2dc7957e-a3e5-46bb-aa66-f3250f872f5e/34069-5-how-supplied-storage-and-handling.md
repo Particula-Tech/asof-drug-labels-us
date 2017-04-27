@@ -6,13 +6,13 @@ TROKENDI XR® (topiramate) extended-release capsules are available as extended-r
 
 Bottles
 
-25 mg (light green opaque body/yellow opaque cap) topiramate extended-release capsules (black print "SPN" and "25") - bottles of 100 count (NDC-17772-101-01)
+25 mg (light green opaque body/yellow opaque cap) topiramate extended-release capsules (black print "SPN" and "25") – bottles of 30 count (NDC-17772-101-30) and 100 count (NDC-17772-101-01)
 
-50 mg (light green opaque body/orange opaque cap) topiramate extended-release capsules (black print "SPN" and "50") - bottles of 100 count (NDC-17772-102-01)
+50 mg (light green opaque body/orange opaque cap) topiramate extended-release capsules (black print "SPN" and "50") – bottles of 30 count (NDC-17772-102-30) and 100 count (NDC-17772-102-01)
 
-100 mg (green opaque body/blue opaque cap) topiramate extended-release capsules (black print "SPN" and "100") - bottles of 100 count (NDC-17772-103-01)
+100 mg (green opaque body/blue opaque cap) topiramate extended-release capsules (black print "SPN" and "100") – bottles of 30 count (NDC-17772-103-30) and 100 count (NDC-17772-103-01)
 
-200 mg (pink opaque body/blue opaque cap) topiramate extended-release capsules (black print "SPN" and "200") - bottles of 100 count (NDC-17772-104-01)
+200 mg (pink opaque body/blue opaque cap) topiramate extended-release capsules (black print "SPN" and "200") – bottles of 30 count (NDC-17772-104-30) and 100 count (NDC-17772-104-01)
 
 Blister package
 
