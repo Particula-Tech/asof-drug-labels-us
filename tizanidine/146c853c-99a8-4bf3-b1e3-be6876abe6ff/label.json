@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA208622"
+  ],
+  "inn": "tizanidine",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "70710-1111-4",
+    "70710-1111-5",
+    "70710-1111-8",
+    "70710-1112-4",
+    "70710-1112-5",
+    "70710-1112-8",
+    "70710-1113-4",
+    "70710-1113-5",
+    "70710-1113-8"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tizanidine hydrochloride",
+      "name": "tizanidine hydrochloride"
+    }
+  ],
+  "setid": "146c853c-99a8-4bf3-b1e3-be6876abe6ff",
+  "source": "dailymed"
+}
