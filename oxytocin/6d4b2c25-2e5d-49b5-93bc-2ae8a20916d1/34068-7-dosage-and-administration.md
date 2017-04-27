@@ -33,10 +33,12 @@ This is done in the following way.
 
 ## B. Control of Postpartum Uterine Bleeding
 
-- 1.Intravenous infusion (drip method).
+- 1.
+  Intravenous infusion (drip method).
   If the patient has an intravenous infusion running, 10 to 40 units of oxytocin may be added to the bottle, depending on the amount of electrolyte or dextrose solution remaining (maximum 40 units to 1000 mL).
   Adjust the infusion rate to sustain uterine contraction and control uterine atony.
-- 2.Intramuscular administration.
+- 2.
+  Intramuscular administration.
   1 mL (10 units) of Pitocin can be given after the delivery of the placenta.
 
 ## C. Treatment of Incomplete, Inevitable, or Elective Abortion
