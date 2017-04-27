@@ -1,15 +1,21 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed elsewhere in the labeling:
+The following serious adverse reactions are described, or described in greater detail, in other sections:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - QT Prolongation [see Warnings and Precautions (5.3)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-- Interactions with Other CNS Depressants [see Warnings and Precautions (5.5)]
-- Hypotensive Effect [see Warnings and Precautions (5.8)]
-- Gastrointestinal Effects [see Warnings and Precautions (5.10)]
-- Seizures [see Warnings and Precautions (5.11)]
+- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.6)]
+- Serotonin Syndrome [see Warnings and Precautions (5.8)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.9)]
+- Severe Hypotension [see Warnings and Precautions (5.10)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.12)]
+- Seizures [see Warnings and Precautions (5.13)]
+- Withdrawal [see Warnings and Precautions (5.14)]
+
+The following adverse reactions associated with the use of methadone were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The major hazards of methadone are respiratory depression and, to a lesser degree, systemic hypotension.
 Respiratory arrest, shock, cardiac arrest, and death have occurred.
@@ -26,7 +32,7 @@ Cardiovascular: arrhythmias, bigeminal rhythms, bradycardia, cardiomyopathy, ECG
 
 Central Nervous System: agitation, confusion, disorientation, dysphoria, euphoria, insomnia, hallucinations, seizures, visual disturbances
 
-Endocrine: hypogonadism
+Endocrine: hypogonadism, decreased testosterone
 
 Gastrointestinal: abdominal pain, anorexia, biliary tract spasm, constipation, dry mouth, glossitis
 
@@ -43,11 +49,9 @@ Respiratory: pulmonary edema, respiratory depression
 Skin and Subcutaneous Tissue: pruritus, urticaria, other skin rashes, and rarely, hemorrhagic urticaria
 
 Hypersensitivity: Anaphylaxis has been reported with ingredients contained in methadone hydrochloride tablets.
-Advise patients how to recognize such a reaction and when to seek medical attention.
 
-Maintenance on a Stabilized Dose: During prolonged administration of methadone, as in a methadone maintenance treatment program, constipation and sweating often persist and hypogonadism, decreased serum testosterone and reproductive effects are thought to be related to chronic opioid use.
+Serotonin Syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 
-Methadone Hydrochloride Tablets for the Detoxification and Maintenance Treatment of Opioid Dependence
+Adrenal Insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-During the induction phase of methadone maintenance treatment, patients are being withdrawn from illicit opioids and may have opioid withdrawal symptoms.
-Monitor patients for signs and symptoms including: lacrimation, rhinorrhea, sneezing, yawning, excessive perspiration, goose-flesh, fever, chilling alternating with flushing, restlessness, irritability, weakness, anxiety, depression, dilated pupils, tremors, tachycardia, abdominal cramps, body aches, involuntary twitching and kicking movements, anorexia, nausea, vomiting, diarrhea, intestinal spasms, and weight loss and consider dose adjustment as indicated.
+Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

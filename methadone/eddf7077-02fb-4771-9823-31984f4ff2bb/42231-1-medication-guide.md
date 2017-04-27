@@ -6,7 +6,7 @@ Methadone hydrochloride tablets are:
 
 - A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage pain severe enough to require daily around-the-clock, long-term treatment with an opioid, when other pain treatments such as non-opioid pain medicines or immediate-release opioid medicines do not treat your pain well enough or you cannot tolerate them.
 - A long-acting opioid pain medicine that can put you at risk for overdose and death.
-  Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse that can lead to death.
+  Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse than can lead to death.
 - Not for use to treat pain that is not around-the-clock.
 - Also used to manage drug addiction.
 
@@ -14,6 +14,7 @@ Important information about methadone hydrochloride tablets:
 
 - Get emergency help right away if you take too much methadone hydrochloride tablets (overdose).
   When you first start taking methadone hydrochloride tablets, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur.
+- Taking methadone hydrochloride tablets with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
 - Never give anyone your methadone hydrochloride tablets.
   They could die from taking it.
   Store methadone hydrochloride tablets away from children and in a safe place to prevent stealing or abuse.
@@ -35,10 +36,11 @@ Before taking methadone hydrochloride tablets, tell your healthcare provider if 
 
 Tell your healthcare provider if you are:
 
-- pregnant or planning to become pregnant.
-  Prolonged use of methadone hydrochloride tablets during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
+- pregnant or plan to become pregnant.
+  If you take methadone hydrochloride tablets while pregnant, your baby may have symptoms of opioid withdrawal or respiratory depression at birth.
+  Talk to your doctor if you are pregnant or plan to become pregnant.
 - breastfeeding.
-  Methadone passes into breast milk and may harm your baby.
+  Methadone hydrochloride tablets passes into breast milk and may harm your baby.
 - taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
   Taking methadone hydrochloride tablets with certain other medicines may cause serious side effects.
 
@@ -46,12 +48,13 @@ When taking methadone hydrochloride tablets:
 
 - Do not change your dose.
   Take methadone hydrochloride tablets exactly as prescribed by your healthcare provider.
+  Use the lowest dose possible for the shortest time needed.
 - Do not take more than your prescribed dose in 24 hours.
   If you take methadone hydrochloride tablets for pain and miss a dose, take methadone hydrochloride tablets as soon as possible and then take your next dose 8 or 12 hours later as directed by your healthcare provider.
   If it is almost time for your next dose, skip the missed dose and go back to your regular dosing schedule.
 - If you take methadone hydrochloride tablets for opioid addiction and miss a dose, take your next dose the following day as scheduled.
   Do not take extra doses.
-  Taking more than the prescribed dose may cause you to overdose because methadone builds up in your body over time.
+  Taking more than the prescribed dose may cause you to overdose because methadone hydrochloride tablets builds up in your body over time.
 - Do not crush, dissolve, snort or inject methadone hydrochloride tablets because this may cause you to overdose and die.
 - Call your healthcare provider if the dose you are taking does not control your pain.
 - Do not stop taking methadone hydrochloride tablets without talking to your healthcare provider.
@@ -59,7 +62,7 @@ When taking methadone hydrochloride tablets:
 
 While taking methadone hydrochloride tablets DO NOT:
 
-- Drive or operate heavy machinery, until you know how methadone hydrochloride tablets affect you.
+- Drive or operate heavy machinery, until you know how methadone hydrochloride tablets affects you.
   Methadone hydrochloride tablets can make you sleepy, dizzy, or lightheaded.
 - Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
   Using products containing alcohol during treatment with methadone hydrochloride tablets may cause you to overdose and die.
@@ -71,7 +74,7 @@ The possible side effects of methadone hydrochloride tablets are:
 
 Get emergency medical help if you have:
 
-- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, light-headedness when changing positions, or you are feeling faint.
+- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion.
 
 These are not all the possible side effects of methadone hydrochloride tablets.
 Call your doctor for medical advice about side effects.
@@ -80,8 +83,9 @@ For more information go to dailymed.nlm.nih.gov
 
 Manufactured by: Mallinckrodt Inc., Hazelwood, MO 63042 USA, www.Mallinckrodt.com or call 1-800-778-7898
 
+Mallinckrodt™
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: January 2017
 
-Revised: April 2015
-
-Mallinckrodt™ Pharmaceuticals
+L20M28

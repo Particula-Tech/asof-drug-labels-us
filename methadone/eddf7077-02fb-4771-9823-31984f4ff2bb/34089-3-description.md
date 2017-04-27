@@ -1,5 +1,6 @@
 # 11 DESCRIPTION
 
+Methadone Hydrochloride Tablets contain methadone, an opioid agonist, available as 5 and 10 mg tablets for oral administration.
 Methadone hydrochloride is chemically described as 6-(dimethylamino)-4,4-diphenyl-3-hepatanone hydrochloride.
 Methadone hydrochloride is a white, crystalline material that is water-soluble.
 Methadone hydrochloride has a melting point of 235°C, and a pKa of 8.25 in water at 20°C.
