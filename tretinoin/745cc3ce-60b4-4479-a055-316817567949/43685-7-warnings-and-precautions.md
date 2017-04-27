@@ -29,9 +29,7 @@ Although the significance of these studies to man is not clear, patients should 
 
 ## Pregnancy
 
-Teratogenic effects.
-
-Pregnancy Category C. Oral tretinoin has been shown to be teratogenic in rats when given in doses 1000 times the topical human dose.
+Oral tretinoin has been shown to be teratogenic in rats when given in doses 1000 times the topical human dose.
 Oral tretinoin has been shown to be fetotoxic in rats when given in doses 500 times the topical human dose.
 Topical tretinoin has not been shown to be teratogenic in rats and rabbits when given in doses of 100 and 320 times the topical human dose, respectively (assuming a 50 kg adult applies 250 mg of 0.1% cream topically).
 However, at these topical doses, delayed ossification of a number of bones occurred in both species.

@@ -2,8 +2,6 @@
 
 For Topical Use Only
 
-Rx Only
-
 Acne Treatment
 
 IMPORTANT
@@ -67,7 +65,7 @@ Use a mild, non-medicated soap.
 Avoid frequent washings and harsh scrubbing.
 Acne isn’t caused by dirt, so no matter how hard you scrub, you can’t wash it away.
 Washing too frequently or scrubbing too roughly may at times actually make your acne worse.
-Wash your skin gently with mild, bland soap.
+Wash your skin gently with a mild, bland soap.
 Two or three times a day should be sufficient.
 Pat skin dry with a towel.
 Let the face dry 20 to 30 minutes before applying tretinoin.
@@ -128,7 +126,7 @@ All questions of a medical nature should be taken up with your doctor.
 
 Manufactured for:
 
-Obagi Medical Products, Inc., a division of
+Obagi Medical Products, a division of
 
 Valeant Pharmaceuticals North America LLC
 
@@ -136,17 +134,17 @@ Bridgewater, NJ 08807 USA
 
 By:
 
-Valeant Pharmaceuticals International Inc.
+Valeant Pharmaceuticals International, Inc.
 
 Laval, Quebec H7L 4A8, Canada
 
 Made in Canada
 
-© 2015 Obagi Medical Products, Inc
+©OMP, Inc.
 
 www.obagi.com
 
 Rev.
-01/15
+03/2017
 
-9441000
+9441001 20000283B
