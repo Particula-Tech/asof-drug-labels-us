@@ -85,14 +85,14 @@ Other serious side effects include:
 Common side effects include:
 
 - fast heartbeat
-- tremors
-- trouble sleeping
-- stomach upset
-- dry mouth
 - decreased appetite
+- tremors
 - headache
+- trouble sleeping
 - dizziness
+- stomach upset
 - weight loss
+- dry mouth
 
 Dextroamphetamine sulfate extended-release capsules may affect your or your child’s ability to drive or do other dangerous activities.
 Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
@@ -125,10 +125,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-© 2014 Mallinckrodt.
+© 2017 Mallinckrodt.
 
 Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Rev 10/2014
+Rev 02/2017 L20D09
 
 Mallinckrodt™ Pharmaceuticals

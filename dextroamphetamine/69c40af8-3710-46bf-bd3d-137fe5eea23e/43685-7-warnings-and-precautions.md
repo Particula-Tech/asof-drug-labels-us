@@ -52,6 +52,20 @@ Signs and symptoms generally improve after reduction in dose or discontinuation 
 Careful observation for digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
+## Serotonin Syndrome
+
+Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort (see Drug Interactions).
+Amphetamines and amphetamine derivatives are known to be metabolized, to some degree, by cytochrome P450 2D6 (CYP2D6) and display minor inhibition of CYP2D6 metabolism (see CLINICAL PHARMACOLOGY).
+The potential for a pharmacokinetic interaction exists with the co-administration of CYP2D6 inhibitors which may increase the risk with increased exposure to dextroamphetamine sulfate extended-release capsules.
+In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 (see Drug Interactions).
+
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
+Concomitant use of dextroamphetamine sulfate extended-release capsules with MAOI drugs is contraindicated (see CONTRAINDICATIONS).
+
+Discontinue treatment with dextroamphetamine sulfate extended-release capsules and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of dextroamphetamine sulfate extended-release capsules with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate dextroamphetamine sulfate extended-release capsules with lower doses, monitor patients for the emergence of serotonin syndrome during drug initiation or titration, and inform patients of the increased risk for serotonin syndrome.
+
 ## Visual Disturbance
 
 Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
@@ -75,33 +89,72 @@ Circulation problems in fingers and toes [Peripheral vasculopathy, including Ray
 
 ## Drug Interactions
 
-Acidifying Agents – Gastrointestinal acidifying agents (guanethidine, reserpine, glutamic acid HCl, ascorbic acid, fruit juices, etc.) lower absorption of amphetamines.
-Urinary acidifying agents (ammonium chloride, sodium acid phosphate, etc.) increase the concentration of the ionized species of the amphetamine molecule, thereby increasing urinary excretion.
-Both groups of agents lower blood levels and efficacy of amphetamines.
+Acidifying Agents – Lower blood levels and efficacy of amphetamines.
+Increase dose based on clinical response.
+Examples of acidifying agents include gastrointestinal acidifying agents (e.g., guanethidine, reserpine, glutamic acid HCl, ascorbic acid) and urinary acidifying agents (e.g., ammonium chloride, sodium acid phosphate, methenamine salts).
+
 Adrenergic Blockers – Adrenergic blockers are inhibited by amphetamines.
-Alkalinizing Agents – Gastrointestinal alkalinizing agents (sodium bicarbonate, etc.) increase absorption of amphetamines.
-Urinary alkalinizing agents (acetazolamide, some thiazides) increase the concentration of the non-ionized species of the amphetamine molecule, thereby decreasing urinary excretion.
-Both groups of agents increase blood levels and therefore potentiate the actions of amphetamines.
-Antidepressants, Tricyclic – Amphetamines may enhance the activity of tricyclic or sympathomimetic agents; d-amphetamine with desipramine or protriptyline and possibly other tricyclics cause striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.
-MAO Inhibitors – MAOI antidepressants, as well as a metabolite of furazolidone, slow amphetamine metabolism.
-This slowing potentiates amphetamines, increasing their effect on the release of norepinephrine and other monoamines from adrenergic nerve endings; this can cause headaches and other signs of hypertensive crisis.
-A variety of neurological toxic effects and malignant hyperpyrexia can occur, sometimes with fatal results.
+
+Alkalinizing Agents – Increase blood levels and potentiate the action of amphetamine.
+Co-administration of dextroamphetamine sulfate extended-release capsules and gastrointestinal alkalinizing agents should be avoided.
+Examples of alkalinizing agents include gastrointestinal alkalinizing agents (e.g., sodium bicarbonate) and urinary alkalinizing agents (e.g., acetazolamide, some thiazides).
+
+Tricyclic Antidepressants – May enhance the activity of tricyclic or sympathomimetic agents causing striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.
+Monitor frequently and adjust or use alternative therapy based on clinical response.
+Examples of tricyclic antidepressants include desipramine, Protriptyline.
+
+CYP2D6 Inhibitors – The concomitant use of dextroamphetamine sulfate extended-release capsules and CYP2D6 inhibitors may increase the exposure of dextroamphetamine sulfate extended-release capsules compared to the use of the drug alone and increase the risk of serotonin syndrome.
+Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during dextroamphetamine sulfate extended-release capsules initiation and after a dosage increase.
+If serotonin syndrome occurs, discontinue dextroamphetamine sulfate extended-release capsules and the CYP2D6 inhibitor (see WARNINGS, OVERDOSAGE).
+Examples of CYP2D6 Inhibitors include paroxetine and fluoxetine (also serotonergic drugs), quinidine, ritonavir.
+
+Serotonergic Drugs – The concomitant use of dextroamphetamine sulfate extended-release capsules and serotonergic drugs increases the risk of serotonin syndrome.
+Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during dextroamphetamine sulfate extended-release capsules initiation or dosage increase.
+If serotonin syndrome occurs, discontinue dextroamphetamine sulfate extended-release capsules and the concomitant serotonergic drug(s) (see WARNINGS and PRECAUTIONS).
+Examples of serotonergic drugs include selective serotonin reuptake inhibitors (SSRI), serotonin norepinephrine reuptake inhibitors (SNRI), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort.
+
+MAO Inhibitors – Concomitant use of MAOIs and CNS stimulants can cause hypertensive crisis.
+Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure.
+Do not administer dextroamphetamine sulfate extended-release capsules concomitantly or within 14 days after discontinuing MAOI (see CONTRAINDICATIONS and WARNINGS).
+Examples of MAOIs include selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue.
+
+Proton Pump Inhibitors – Time to maximum concentration (Tmax) of amphetamine is decreased compared to when administered alone.
+Monitor patients for changes in clinical effect and adjust therapy based on clinical response.
+An example of a proton pump inhibitor is omeprazole.
+
 Antihistamines – Amphetamines may counteract the sedative effect of antihistamines.
+
 Antihypertensives – Amphetamines may antagonize the hypotensive effects of antihypertensives.
+
 Chlorpromazine – Chlorpromazine blocks dopamine and norepinephrine reuptake, thus inhibiting the central stimulant effects of amphetamines, and can be used to treat amphetamine poisoning.
+
 Ethosuximide – Amphetamines may delay intestinal absorption of ethosuximide.
+
 Haloperidol – Haloperidol blocks dopamine and norepinephrine reuptake, thus inhibiting the central stimulant effects of amphetamines.
+
 Lithium Carbonate – The stimulatory effects of amphetamines may be inhibited by lithium carbonate.
+
 Meperidine – Amphetamines potentiate the analgesic effect of meperidine.
+
 Methenamine Therapy – Urinary excretion of amphetamines is increased, and efficacy is reduced, by acidifying agents used in methenamine therapy.
+
 Norepinephrine – Amphetamines enhance the adrenergic effect of norepinephrine.
+
 Phenobarbital – Amphetamines may delay intestinal absorption of phenobarbital; co-administration of phenobarbital may produce a synergistic anticonvulsant action.
+
 Phenytoin – Amphetamines may delay intestinal absorption of phenytoin; co-administration of phenytoin may produce a synergistic anticonvulsant action.
+
 Propoxyphene – In cases of propoxyphene overdosage, amphetamine CNS stimulation is potentiated and fatal convulsions can occur.
+
 Veratrum Alkaloids – Amphetamines inhibit the hypotensive effect of veratrum alkaloids.
-Drug/Laboratory Test Interactions Amphetamines can cause a significant elevation in plasma corticosteroid levels.
+
+Drug/Laboratory Test Interactions
+
+Amphetamines can cause a significant elevation in plasma corticosteroid levels.
 This increase is greatest in the evening.
+
 Amphetamines may interfere with urinary steroid determinations.
+
 Carcinogenesis/Mutagenesis – Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of dextroamphetamine sulfate extended-release capsules have not been performed.
 
 ## Pregnancy

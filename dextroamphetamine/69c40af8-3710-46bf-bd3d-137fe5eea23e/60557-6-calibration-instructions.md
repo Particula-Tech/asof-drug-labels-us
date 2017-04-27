@@ -3,7 +3,7 @@
 Dextroamphetamine sulfate extended-release capsules are indicated in:
 
 Narcolepsy Attention Deficit Disorder with Hyperactivity – As an integral part of a total treatment program that typically includes other measures (psychological, educational, social) for patients (ages 6 years to 16 years) with this syndrome.
-A diagnosis of Attention Deficit Hyperactivity Disorder (ADHD; DSM-IV) implies the presence of hyperactive-impulsive or inattentive symptoms that caused impairment and were present before age 7 years.
+A diagnosis of Attention Deficit Hyperactivity Disorder (ADHD; DSM-IV) implies the presence of the hyperactive-impulsive or inattentive symptoms that caused impairment and were present before age 7 years.
 The symptoms must cause clinically significant impairment, e.g., in social, academic, or occupational functioning, and be present in 2 or more settings, e.g., school (or work) and at home.
 The symptoms must not be better accounted for by another mental disorder.
 For the Inattentive Type, at least 6 of the following symptoms must have persisted for at least 6 months: lack of attention to details/careless mistakes; lack of sustained attention; poor listener; failure to follow through on tasks; poor organization; avoids tasks requiring sustained mental effort; loses things; easily distracted; forgetful.
