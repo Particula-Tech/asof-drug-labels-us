@@ -27,6 +27,15 @@ Table 1
 
 Pharmacokinetic Parameters of Ibuprofen Oral Suspension [Mean values (% coefficient of variation)]
 
+| Dose | 200 mg (2.8 mg/kg) in Adults | 10 mg/kg in Febrile Children |
+| --- | --- | --- |
+| Formulation | Suspension | Suspension |
+| Number of Patients | 24 | 18 |
+| AUCinf (µg•h/mL) | 64(27%) | 155(24%) |
+| Cmax (µg/mL) | 19(22%) | 55(23%) |
+| Tmax (h) | 0.79(69%) | 0.97(57%) |
+| Cl/F (mL/h/kg) | 45.6(22%) | 68.6(22%) |
+
 Legend: AUCinf = Area-under-the-curve to infinity
 
 Tmax = Time-to-peak plasma concentration
@@ -52,7 +61,7 @@ When taken with food, Tmax is delayed by approximately 30 to 60 minutes, and pea
 ## Distribution -
 
 Ibuprofen, like most drugs of its class, is highly protein bound (>99% bound at 20 μg/mL).
-Protein binding is saturable and at concentrations >20 µg/mL binding is non-linear.
+Protein binding is saturable and at concentrations >20 μg/mL binding is non-linear.
 Based on oral dosing data there is an age- or fever-related change in volume of distribution for ibuprofen.
 Febrile children <11 years old have a volume of approximately 0.2 L/kg while adults have a volume of approximately 0.12 L/kg.
 The clinical significance of these findings is unknown.
@@ -69,15 +78,15 @@ Ibuprofen is rapidly metabolized and eliminated in the urine.
 The excretion of ibuprofen is virtually complete 24 hours after the last dose.
 It has a biphasic plasma elimination time curve with a half-life of approximately 2.0 hours.
 There is no difference in the observed terminal elimination rate or half-life between children and adults, however, there is an age- or fever-related change in total clearance.
-This suggests that the observed change in clearance is due to changes in the volume of distribution of ibuprofen (see Table 1 for CI/F values).
+This suggests that the observed change in clearance is due to changes in the volume of distribution of ibuprofen (see Table 1 for Cl/F values).
 
 ## Clinical Studies -
 
 Controlled clinical trials comparing doses of 5 and 10 mg/kg ibuprofen oral suspension and 10-15 mg/kg of acetaminophen elixir have been conducted in children 6 months to 12 years of age with fever primarily due to viral illnesses.
 In these studies there were no differences between treatments in fever reduction for the first hour and maximum fever reduction occurred between 2 and 4 hours.
 Response after 1 hour was dependent on both the level of temperature elevation as well as the treatment.
-In children with baseline temperatures at or below 102.5°F both ibuprofen doses and acetaminophen were equally effective in their maximum effect.
-In children with temperatures above 102.5°F, the ibuprofen 10 mg/kg dose was more effective.
+In children with baseline temperatures at or below 102.5ºF both ibuprofen doses and acetaminophen were equally effective in their maximum effect.
+In children with temperatures above 102.5ºF, the ibuprofen 10 mg/kg dose was more effective.
 By 6 hours, children treated with ibuprofen 5 mg/kg tended to have recurrence of fever, whereas children treated with ibuprofen 10 mg/kg still had significant fever reduction at 8 hours.
 In control groups treated with 10 mg/kg acetaminophen, fever reduction resembled that seen in children treated with 5 mg/kg of ibuprofen, with the exception that temperature elevation tended to return 1-2 hours earlier.
 

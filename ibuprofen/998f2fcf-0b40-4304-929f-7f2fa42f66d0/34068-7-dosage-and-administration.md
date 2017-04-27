@@ -3,14 +3,14 @@
 Carefully consider the potential benefits and risks of Ibuprofen Oral Suspension and other treatment options before deciding to use Ibuprofen Oral Suspension.
 Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
 
-After observing the response to initial therapy with Ibuprofen Oral Suspension, the dose and frequency should be adjusted to suit an individual patient's needs.
+After observing the response to initial therapy with Ibuprofen Oral Suspension, the dose and frequency should be adjusted to suit an individual patient’s needs.
 
 ## PEDIATRIC PATIENTS
 
 ### Fever Reduction:
 
 For reduction of fever in children, 6 months up to 2 years of age, the dosage should be adjusted on the basis of the initial temperature level (see CLINICAL PHARMACOLOGY).
-The recommended dose is 5 mg/kg if the baseline temperature is less than 102.5°F, or 10 mg/kg if the baseline temperature is 102.5°F or greater.
+The recommended dose is 5 mg/kg if the baseline temperature is less than 102.5ºF, or 10 mg/kg if the baseline temperature is 102.5ºF or greater.
 The duration of fever reduction is generally 6 to 8 hours.
 The recommended maximum daily dose is 40 mg/kg.
 
@@ -33,7 +33,7 @@ Pediatric patients receiving doses above 30 mg/kg/day or if abnormal liver funct
 
 ## ADULTS
 
-### Primary Dysmenorrhea
+### Primary Dysmenorrhea:
 
 For the treatment of primary dysmenorrhea, beginning with the earliest onset of such pain, Ibuprofen Oral Suspension should be given in a dose of 400 mg every 4 hours, as necessary, for the relief of pain.
 

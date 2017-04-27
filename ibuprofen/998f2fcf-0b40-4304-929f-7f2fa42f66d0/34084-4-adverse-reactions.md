@@ -15,17 +15,14 @@ Additional adverse experiences reported occasionally include:
 | Skin and appendages - | alopecia, photosensitivity, sweat |
 | Special senses - | blurred vision |
 | Urogenital system - | cystitis, dysuria, hematuria, interstitial nephritis, oliguria/polyuria, proteinuria, acute renal failure in patients with pre-existing significantly impaired renal function |
-
-Other adverse reactions, which occur rarely are:
-
+| Other adverse reactions, which occur rarely are: |  |
 | Body as a whole - | anaphylactic reactions, anaphylactoid reactions, appetite changes |
-| --- | --- |
 | Cardiovascular system - | arrhythmia, cerebrovascular accident, hypotension, myocardial infarction, palpitations, vasculitis |
 | Digestive system - | eructation, gingival ulcer, hepatorenal syndrome, liver necrosis, liver failure, pancreatitis |
 | Hemic and lymphatic system - | agranulocystosis, hemolytic anemia, aplastic anemia, lymphadenopathy, neutropenia, pancytopenia |
 | Metabolic and nutritional - | hyperglycemia |
 | Nervous system - | convulsions, coma, emotional lability, hallucinations, aseptic meningitis |
-| Respiratory - | apnea, respiratory depression, pneumonia,rhinitis |
+| Respiratory - | apnea, respiratory depression, pneumonia, rhinitis |
 | Skin and appendages - | angioedema, toxic epidermal necrosis, erythema multiforme, exfoliative dermatitis, Stevens Johnson syndrome, urticaria, vesiculobullous eruptions |
 | Special senses - | amblyopia (blurred and/or diminished vision, scotomata and/or changes in color vision), conjunctivitis, dry eyes, hearing impairment |
 | Urogenital - | azotemia, decreased creatinine clearance, glomerulitis, renal papillary necrosis, tubular necrosis |
