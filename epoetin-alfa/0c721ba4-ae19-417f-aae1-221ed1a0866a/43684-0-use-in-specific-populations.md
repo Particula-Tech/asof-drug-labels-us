@@ -2,8 +2,8 @@
 
 ## 8.1 Pregnancy
 
-The multidose vials are formulated with benzyl alcohol.
-Do not administer PROCRIT from multidose vials, or PROCRIT from single-dose vials admixed with bacteriostatic saline containing benzyl alcohol, to pregnant women.
+The multiple-dose vials are formulated with benzyl alcohol.
+Do not administer PROCRIT from multiple-dose vials, or PROCRIT from single-dose vials admixed with bacteriostatic saline containing benzyl alcohol, to pregnant women.
 When therapy with PROCRIT is needed during pregnancy, use a benzyl alcohol-free formulation [see Dosage and Administration (2) and Contraindications (4)].
 
 Pregnancy Category C (single-dose vials only)
@@ -26,8 +26,8 @@ When healthy pregnant rats received PROCRIT at doses of 500 Units/kg/day late in
 
 ## 8.3 Nursing Mothers
 
-The multidose vials of PROCRIT are formulated with benzyl alcohol.
-Do not administer PROCRIT from multidose vials, or PROCRIT from single-dose vials admixed with bacteriostatic saline containing benzyl alcohol, to a nursing woman.
+The multiple-dose vials of PROCRIT are formulated with benzyl alcohol.
+Do not administer PROCRIT from multiple-dose vials, or PROCRIT from single-dose vials admixed with bacteriostatic saline containing benzyl alcohol, to a nursing woman.
 When therapy with PROCRIT is needed in nursing women, use a benzyl alcohol-free formulation [see Dosage and Administration (2) and Contraindications (4)].
 
 It is not known whether PROCRIT is excreted in human milk.
@@ -35,8 +35,8 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
-The multidose vials are formulated with benzyl alcohol.
-Do not administer PROCRIT from multidose vials, or PROCRIT from single-dose vials admixed with bacteriostatic saline containing benzyl alcohol, to neonates or infants.
+The multiple-dose vials are formulated with benzyl alcohol.
+Do not administer PROCRIT from multiple-dose vials, or PROCRIT from single-dose vials admixed with bacteriostatic saline containing benzyl alcohol, to neonates or infants.
 When therapy with PROCRIT is needed in neonates and infants, use a benzyl alcohol-free formulation [see Dosage and Administration (2) and Contraindications (4)].
 
 Benzyl alcohol has been associated with serious adverse events and death, particularly in pediatric patients.

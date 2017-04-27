@@ -3,7 +3,7 @@
 ## 2.1 Evaluation of Iron Stores and Nutritional Factors
 
 Evaluate the iron status in all patients before and during treatment and maintain iron repletion.
-Correct or exclude other causes of anemia (e.g., vitamin deficiency, metabolic or chronic inflammatory conditions, bleeding, etc.) before initiating PROCRIT [see Warnings and Precautions (5.11)].
+Correct or exclude other causes of anemia (e.g., vitamin deficiency, metabolic or chronic inflammatory conditions, bleeding, etc.) before initiating PROCRIT [see Warnings and Precautions (5.10)].
 
 ## 2.2 Patients with Chronic Kidney Disease
 
@@ -18,16 +18,15 @@ When initiating or adjusting therapy, monitor hemoglobin levels at least weekly 
 When adjusting therapy consider hemoglobin rate of rise, rate of decline, ESA responsiveness and hemoglobin variability.
 A single hemoglobin excursion may not require a dosing change.
 
-- 
-  - Do not increase the dose more frequently than once every 4 weeks.
-    Decreases in dose can occur more frequently.
-    Avoid frequent dose adjustments.
-  - If the hemoglobin rises rapidly (e.g., more than 1 g/dL in any 2-week period), reduce the dose of PROCRIT by 25% or more as needed to reduce rapid responses.
-  - For patients who do not respond adequately, if the hemoglobin has not increased by more than 1 g/dL after 4 weeks of therapy, increase the dose by 25%.
-  - For patients who do not respond adequately over a 12-week escalation period, increasing the PROCRIT dose further is unlikely to improve response and may increase risks.
-    Use the lowest dose that will maintain a hemoglobin level sufficient to reduce the need for RBC transfusions.
-    Evaluate other causes of anemia.
-    Discontinue PROCRIT if responsiveness does not improve.
+- Do not increase the dose more frequently than once every 4 weeks.
+  Decreases in dose can occur more frequently.
+  Avoid frequent dose adjustments.
+- If the hemoglobin rises rapidly (e.g., more than 1 g/dL in any 2-week period), reduce the dose of PROCRIT by 25% or more as needed to reduce rapid responses.
+- For patients who do not respond adequately, if the hemoglobin has not increased by more than 1 g/dL after 4 weeks of therapy, increase the dose by 25%.
+- For patients who do not respond adequately over a 12-week escalation period, increasing the PROCRIT dose further is unlikely to improve response and may increase risks.
+  Use the lowest dose that will maintain a hemoglobin level sufficient to reduce the need for RBC transfusions.
+  Evaluate other causes of anemia.
+  Discontinue PROCRIT if responsiveness does not improve.
 
 For patients with CKD on dialysis:
 
@@ -45,7 +44,7 @@ For patients with CKD not on dialysis:
 - If the hemoglobin level exceeds 10 g/dL, reduce or interrupt the dose of PROCRIT, and use the lowest dose of PROCRIT sufficient to reduce the need for RBC transfusions.
 - The recommended starting dose for adult patients is 50 to 100 Units/kg 3 times weekly intravenously or subcutaneously.
 
-When treating patients who have chronic kidney disease and cancer, physicians should refer to Warnings and Precautions (5.1 and 5.3).
+When treating patients who have chronic kidney disease and cancer, physicians should refer to Warnings and Precautions (5.1 and 5.2).
 
 Refer patients who self-administer PROCRIT to the Instructions for Use [see Patient Counseling Information (17)].
 
@@ -118,9 +117,9 @@ Deep venous thrombosis prophylaxis is recommended during PROCRIT therapy [see Wa
   Do not use any vials exhibiting particulate matter or discoloration.
 - Discard unused portions of PROCRIT in preservative-free vials.
   Do not re-enter preservative-free vials.
-- Store unused portions of PROCRIT in multidose vials at 36°F to 46°F (2°C to 8°C).
+- Store unused portions of PROCRIT in multiple-dose vials at 36°F to 46°F (2°C to 8°C).
   Discard 21 days after initial entry.
 - Do not dilute.
   Do not mix with other drug solutions except for admixing as described below:
-  - Preservative-free PROCRIT from single-use vials may be admixed in a syringe with bacteriostatic 0.9% sodium chloride injection, USP, with benzyl alcohol 0.9% (bacteriostatic saline) in a 1:1 ratio using aseptic technique at the time of administration.
+  - Preservative-free PROCRIT from single-dose vials may be admixed in a syringe with bacteriostatic 0.9% sodium chloride injection, USP, with benzyl alcohol 0.9% (bacteriostatic saline) in a 1:1 ratio using aseptic technique at the time of administration.
     Risks are associated with benzyl alcohol in neonates, infants, pregnant women, and nursing mothers [see Use in Specific Populations (8.1, 8.3, 8.4)].

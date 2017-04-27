@@ -15,7 +15,7 @@ The design and overall results of the 3 large trials comparing higher and lower 
 
 Table 1: Randomized Controlled Trials Showing Adverse Cardiovascular Outcomes in Patients With CKD
 
-|  | Normal Hematocrit Study (NHS) (N = 1265) | CHOIR (N = 1432) | TREAT (N = 4038) |
+|  | Normal Hematocrit Study (NHS) (N=1265) | CHOIR (N=1432) | TREAT (N=4038) |
 | --- | --- | --- | --- |
 | Time Period of Trial | 1993 to 1996 | 2003 to 2006 | 2004 to 2009 |
 | Population | CKD patients on hemodialysis with coexisting CHF or CAD, hematocrit 30 ± 3% on epoetin alfa | CKD patients not on dialysis with hemoglobin < 11 g/dL not previously administered epoetin alfa | CKD patients not on dialysis with type II diabetes, hemoglobin ≤ 11 g/dL |
@@ -32,12 +32,12 @@ Normal Hematocrit Study (NHS): A prospective, randomized, open-label study of 12
 In this study, patients were randomized to epoetin alfa treatment targeted to a maintenance hemoglobin of either 14 ± 1 g/dL or 10 ± 1 g/dL.
 The trial was terminated early with adverse safety findings of higher mortality in the high hematocrit target group.
 Higher mortality (35% vs. 29%) was observed for the patients randomized to a target hemoglobin of 14 g/dL than for the patients randomized to a target hemoglobin of 10 g/dL.
-For all-cause mortality, the HR = 1.27; 95% CI (1.04, 1.54); p = 0.018.
+For all-cause mortality, the HR=1.27; 95% CI (1.04, 1.54); p=0.018.
 The incidence of nonfatal myocardial infarction, vascular access thrombosis, and other thrombotic events was also higher in the group randomized to a target hemoglobin of 14 g/dL.
 
 CHOIR: A randomized, prospective trial, 1432 patients with anemia due to CKD who were not undergoing dialysis and who had not previously received epoetin alfa therapy were randomized to epoetin alfa treatment targeting a maintenance hemoglobin concentration of either 13.5 g/dL or 11.3 g/dL.
 The trial was terminated early with adverse safety findings.
-A major cardiovascular event (death, myocardial infarction, stroke, or hospitalization for congestive heart failure) occurred in 125 of the 715 patients (18%) in the higher hemoglobin group compared to 97 of the 717 patients (14%) in the lower hemoglobin group [hazard ratio (HR) 1.34, 95% CI: 1.03, 1.74; p = 0.03].
+A major cardiovascular event (death, myocardial infarction, stroke, or hospitalization for congestive heart failure) occurred in 125 of the 715 patients (18%) in the higher hemoglobin group compared to 97 of the 717 patients (14%) in the lower hemoglobin group [hazard ratio (HR) 1.34, 95% CI: 1.03, 1.74; p=0.03].
 
 TREAT: A randomized, double-blind, placebo-controlled, prospective trial of 4038 patients with: CKD not on dialysis (eGFR of 20 – 60 mL/min), anemia (hemoglobin levels ≤ 11 g/dL), and type 2 diabetes mellitus, patients were randomized to receive either darbepoetin alfa treatment or a matching placebo.
 Placebo group patients also received darbepoetin alfa when their hemoglobin levels were below 9 g/dL.
@@ -50,92 +50,93 @@ Patients with Cancer
 
 An increased incidence of thromboembolic reactions, some serious and life-threatening, occurred in patients with cancer treated with ESAs.
 
-In a randomized, placebo-controlled study (Study 1 in Table 2 [see Warnings and Precautions (5.3)]) of 939 women with metastatic breast cancer receiving chemotherapy, patients received either weekly epoetin alfa or placebo for up to a year.
+In a randomized, placebo-controlled study (Study 2 in Table 2 [see Warnings and Precautions (5.2)]) of 939 women with metastatic breast cancer receiving chemotherapy, patients received either weekly epoetin alfa or placebo for up to a year.
 This study was designed to show that survival was superior when epoetin alfa was administered to prevent anemia (maintain hemoglobin levels between 12 and 14 g/dL or hematocrit between 36% and 42%).
 This study was terminated prematurely when interim results demonstrated a higher mortality at 4 months (8.7% vs. 3.4%) and a higher rate of fatal thrombotic reactions (1.1% vs. 0.2%) in the first 4 months of the study among patients treated with epoetin alfa.
-Based on Kaplan-Meier estimates, at the time of study termination, the 12-month survival was lower in the epoetin alfa group than in the placebo group (70% vs. 76%; HR 1.37, 95% CI: 1.07, 1.75; p = 0.012).
+Based on Kaplan-Meier estimates, at the time of study termination, the 12-month survival was lower in the epoetin alfa group than in the placebo group (70% vs. 76%; HR 1.37, 95% CI: 1.07, 1.75; p=0.012).
 
 Patients Having Surgery
 
 An increased incidence of deep venous thrombosis (DVT) in patients receiving epoetin alfa undergoing surgical orthopedic procedures was demonstrated [see Adverse Reactions (6.1)].
-In a randomized, controlled study, 680 adult patients, not receiving prophylactic anticoagulation and undergoing spinal surgery, were randomized to 4 doses of 600 Units/kg epoetin alfa (7, 14, and 21 days before surgery, and the day of surgery) and standard of care (SOC) treatment (n = 340) or to SOC treatment alone (n = 340).
+In a randomized, controlled study, 680 adult patients, not receiving prophylactic anticoagulation and undergoing spinal surgery, were randomized to 4 doses of 600 Units/kg epoetin alfa (7, 14, and 21 days before surgery, and the day of surgery) and standard of care (SOC) treatment (n=340) or to SOC treatment alone (n=340).
 A higher incidence of DVTs, determined by either color flow duplex imaging or by clinical symptoms, was observed in the epoetin alfa group (16 [4.7%] patients) compared with the SOC group (7 [2.1%] patients).
-In addition to the 23 patients with DVTs included in the primary analysis, 19 [2.8%] patients (n = 680) experienced 1 other thrombovascular event (TVE) each (12 [3.5%] in the epoetin alfa group and 7 [2.1%] in the SOC group).
+In addition to the 23 patients with DVTs included in the primary analysis, 19 [2.8%] patients (n=680) experienced 1 other thrombovascular event (TVE) each (12 [3.5%] in the epoetin alfa group and 7 [2.1%] in the SOC group).
 Deep venous thrombosis prophylaxis is strongly recommended when ESAs are used for the reduction of allogeneic RBC transfusions in surgical patients [see Dosage and Administration (2.5)].
 
 Increased mortality was observed in a randomized, placebo-controlled study of PROCRIT in adult patients who were undergoing CABG surgery (7 deaths in 126 patients randomized to PROCRIT versus no deaths among 56 patients receiving placebo).
 Four of these deaths occurred during the period of study drug administration and all 4 deaths were associated with thrombotic events.
 
-## 5.2 Prescribing and Distribution Program for PROCRIT in Patients With Cancer
+## 5.2 Increased Mortality and/or Increased Risk of Tumor Progression or Recurrence in Patients With Cancer
 
-In order to prescribe and/or dispense PROCRIT to patients with cancer and anemia due to myelosuppressive chemotherapy, prescribers and hospitals must enroll in and comply with the ESA APPRISE Oncology Program requirements.
-To enroll, visit www.esa-apprise.com or call 1-866-284-8089 for further assistance.
-Additionally, prior to each new course of PROCRIT in patients with cancer, prescribers and patients must provide written acknowledgment of a discussion of the risks of PROCRIT.
+ESAs resulted in decreased locoregional control/progression-free survival (PFS) and/or overall survival (OS) (see Table 2).
+Adverse effects on PFS and/or OS were observed in studies of patients receiving chemotherapy for breast cancer (Studies 1, 2, and 4), lymphoid malignancy (Study 3), and cervical cancer (Study 5); in patients with advanced head and neck cancer receiving radiation therapy (Studies 6 and 7); and in patients with non-small cell lung cancer or various malignancies who were not receiving chemotherapy or radiotherapy (Studies 8 and 9).
 
-## 5.3 Increased Mortality and/or Increased Risk of Tumor Progression or Recurrence in Patients With Cancer
+Table 2: Randomized, Controlled Studies With Decreased Survival and/or Decreased Locoregional Control
 
-ESAs resulted in decreased locoregional control/progression-free survival and/or overall survival (see Table 2).
-These findings were observed in studies of patients with advanced head and neck cancer receiving radiation therapy (Studies 5 and 6), in patients receiving chemotherapy for metastatic breast cancer (Study 1) or lymphoid malignancy (Study 2), and in patients with non-small cell lung cancer or various malignancies who were not receiving chemotherapy or radiotherapy (Studies 7 and 8).
-
-Table 2.
-Randomized, Controlled Studies With Decreased Survival and/or Decreased Locoregional Control
-
-| Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin (Median; Q1, Q3Q1= 25th percentile Q3= 75th percentile) | Primary Efficacy Outcome | Adverse Outcome for ESA-containing Arm |
+| Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin (Median; Q1, Q3Q1=25th percentile Q3=75th percentile) | Primary Efficacy Outcome | Adverse Outcome for ESA-containing Arm |
 | --- | --- | --- | --- | --- |
 | Chemotherapy |  |  |  |  |
-| Study 1 Metastatic breast cancer (n = 939) | 12–14 g/dL | 12.9 g/dL; 12.2, 13.3 g/dL | 12-month overall survival | Decreased 12-month survival |
-| Study 2 Lymphoid malignancy (n = 344) | 13–15 g/dL (M) 13–14 g/dL (F) | 11 g/dL; 9.8, 12.1 g/dL | Proportion of patients achieving a hemoglobin response | Decreased overall survival |
-| Study 3 Early breast cancer (n = 733) | 12.5–13 g/dL | 13.1 g/dL; 12.5, 13.7 g/dL | Relapse-free and overall survival | Decreased 3-year relapse-free and overall survival |
-| Study 4 Cervical cancer (n = 114) | 12–14 g/dL | 12.7 g/dL; 12.1, 13.3 g/dL | Progression-free and overall survival and locoregional control | Decreased 3-year progression-free and overall survival and locoregional control |
+| Study 1 Metastatic breast cancer (n=2098) | ≤12 g/dLThis study did not include a defined hemoglobin target. Doses were titrated to achieve and maintain the lowest hemoglobin level sufficient to avoid transfusion and not to exceed 12 g/dL. | 11.6 g/dL 10.7, 12.1 g/dL | Progression-free survival (PFS) | Decreased progression-free and overall survival |
+| Study 2 Metastatic breast cancer (n=939) | 12–14 g/dL | 12.9 g/dL; 12.2, 13.3 g/dL | 12-month overall survival | Decreased 12-month survival |
+| Study 3 Lymphoid malignancy (n=344) | 13–15 g/dL (M) 13–14 g/dL (F) | 11 g/dL; 9.8, 12.1 g/dL | Proportion of patients achieving a hemoglobin response | Decreased overall survival |
+| Study 4 Early breast cancer (n=733) | 12.5–13 g/dL | 13.1 g/dL; 12.5, 13.7 g/dL | Relapse-free and overall survival | Decreased 3-year relapse-free and overall survival |
+| Study 5 Cervical cancer (n=114) | 12–14 g/dL | 12.7 g/dL; 12.1, 13.3 g/dL | Progression-free and overall survival and locoregional control | Decreased 3-year progression-free and overall survival and locoregional control |
 | Radiotherapy Alone |  |  |  |  |
-| Study 5 Head and neck cancer (n = 351) | ≥ 15 g/dL (M) ≥ 14 g/dL (F) | Not available | Locoregional progression-free survival | Decreased 5-year locoregional progression-free and overall survival |
-| Study 6 Head and neck cancer (n = 522) | 14–15.5 g/dL | Not available | Locoregional disease control | Decreased locoregional disease control |
+| Study 6 Head and neck cancer (n=351) | ≥ 15 g/dL (M) ≥ 14 g/dL (F) | Not available | Locoregional progression-free survival | Decreased 5-year locoregional progression-free and overall survival |
+| Study 7 Head and neck cancer (n=522) | 14–15.5 g/dL | Not available | Locoregional disease control | Decreased locoregional disease control |
 | No Chemotherapy or Radiotherapy |  |  |  |  |
-| Study 7 Non-small cell lung cancer (n = 70) | 12–14 g/dL | Not available | Quality of life | Decreased overall survival |
-| Study 8 Non-myeloid malignancy (n = 989) | 12–13 g/dL | 10.6 g/dL; 9.4, 11.8 g/dL | RBC transfusions | Decreased overall survival |
+| Study 8 Non-small cell lung cancer (n=70) | 12–14 g/dL | Not available | Quality of life | Decreased overall survival |
+| Study 9 Non-myeloid malignancy (n=989) | 12–13 g/dL | 10.6 g/dL; 9.4, 11.8 g/dL | RBC transfusions | Decreased overall survival |
 
 Decreased Overall Survival
 
-Study 1 was described in the previous section [see Warnings and Precautions (5.1)].
+Study 2 was described in the previous section [see Warnings and Precautions (5.1)].
 Mortality at 4 months (8.7% vs. 3.4%) was significantly higher in the epoetin alfa arm.
 The most common investigator-attributed cause of death within the first 4 months was disease progression; 28 of 41 deaths in the epoetin alfa arm and 13 of 16 deaths in the placebo arm were attributed to disease progression.
 Investigator-assessed time to tumor progression was not different between the 2 groups.
-Survival at 12 months was significantly lower in the epoetin alfa arm (70% vs. 76%; HR 1.37, 95% CI: 1.07, 1.75; p = 0.012).
+Survival at 12 months was significantly lower in the epoetin alfa arm (70% vs. 76%; HR 1.37, 95% CI: 1.07, 1.75; p=0.012).
 
-Study 2 was a randomized, double-blind study (darbepoetin alfa vs. placebo) conducted in 344 anemic patients with lymphoid malignancy receiving chemotherapy.
+Study 3 was a randomized, double-blind study (darbepoetin alfa vs. placebo) conducted in 344 anemic patients with lymphoid malignancy receiving chemotherapy.
 With a median follow-up of 29 months, overall mortality rates were significantly higher among patients randomized to darbepoetin alfa as compared to placebo (HR 1.36, 95% CI: 1.02, 1.82).
 
-Study 7 was a multicenter, randomized, double-blind study (epoetin alfa vs. placebo) in which patients with advanced non-small cell lung cancer receiving only palliative radiotherapy or no active therapy were treated with epoetin alfa to achieve and maintain hemoglobin levels between 12 and 14 g/dL.
-Following an interim analysis of 70 patients (planned accrual 300 patients), a significant difference in survival in favor of the patients in the placebo arm of the study was observed (median survival 63 vs. 129 days; HR 1.84; p = 0.04).
+Study 8 was a multicenter, randomized, double-blind study (epoetin alfa vs. placebo) in which patients with advanced non-small cell lung cancer receiving only palliative radiotherapy or no active therapy were treated with epoetin alfa to achieve and maintain hemoglobin levels between 12 and 14 g/dL.
+Following an interim analysis of 70 patients (planned accrual 300 patients), a significant difference in survival in favor of the patients in the placebo arm of the study was observed (median survival 63 vs. 129 days; HR 1.84; p=0.04).
 
-Study 8 was a randomized, double-blind study (darbepoetin alfa vs. placebo) in 989 anemic patients with active malignant disease, neither receiving nor planning to receive chemotherapy or radiation therapy.
+Study 9 was a randomized, double-blind study (darbepoetin alfa vs. placebo) in 989 anemic patients with active malignant disease, neither receiving nor planning to receive chemotherapy or radiation therapy.
 There was no evidence of a statistically significant reduction in proportion of patients receiving RBC transfusions.
 The median survival was shorter in the darbepoetin alfa treatment group than in the placebo group (8 months vs. 10.8 months; HR 1.30, 95% CI: 1.07, 1.57).
 
 Decreased Progression-free Survival and Overall Survival
 
-Study 3 was a randomized, open-label, controlled, factorial design study in which darbepoetin alfa was administered to prevent anemia in 733 women receiving neo-adjuvant breast cancer treatment.
+Study 1 was a randomized, open label, multicenter study in 2,098 anemic women with metastatic breast cancer, who received first line or second line chemotherapy.
+This was a non-inferiority study designed to rule out a 15% risk increase in tumor progression or death of epoetin alfa plus standard of care (SOC) as compared with SOC alone.
+The median progression free survival (PFS) per investigator assessment of disease progression was 7.4 months in each arm (HR 1.09, 95% CI: 0.99, 1.20), indicating the study objective was not met.
+At the time of clinical data cutoff, 1337 deaths were reported.
+Median overall survival in the epoetin alfa plus SOC group was 17.2 months compared with 17.4 months in the SOC alone group (HR 1.06, 95% CI: 0.95, 1.18).
+There were more deaths from disease progression in the epoetin alfa plus SOC arm (59% vs. 56%) and more thrombotic vascular events in the epoetin alfa plus SOC arm (3% vs. 1%).
+
+Study 4 was a randomized, open-label, controlled, factorial design study in which darbepoetin alfa was administered to prevent anemia in 733 women receiving neo-adjuvant breast cancer treatment.
 A final analysis was performed after a median follow-up of approximately 3 years.
 The 3-year survival rate was lower (86% vs. 90%; HR 1.42, 95% CI: 0.93, 2.18) and the 3-year relapse-free survival rate was lower (72% vs. 78%; HR 1.33, 95% CI: 0.99, 1.79) in the darbepoetin alfa-treated arm compared to the control arm.
 
-Study 4 was a randomized, open-label, controlled study that enrolled 114 of a planned 460 cervical cancer patients receiving chemotherapy and radiotherapy.
+Study 5 was a randomized, open-label, controlled study that enrolled 114 of a planned 460 cervical cancer patients receiving chemotherapy and radiotherapy.
 Patients were randomized to receive epoetin alfa to maintain hemoglobin between 12 and 14 g/dL or to RBC transfusion support as needed.
 The study was terminated prematurely due to an increase in thromboembolic adverse reactions in epoetin alfa-treated patients compared to control (19% vs. 9%).
 Both local recurrence (21% vs. 20%) and distant recurrence (12% vs. 7%) were more frequent in epoetin alfa-treated patients compared to control.
 Progression-free survival at 3 years was lower in the epoetin alfa-treated group compared to control (59% vs. 62%; HR 1.06, 95% CI: 0.58, 1.91).
 Overall survival at 3 years was lower in the epoetin alfa-treated group compared to control (61% vs. 71%; HR 1.28, 95% CI: 0.68, 2.42).
 
-Study 5 was a randomized, placebo-controlled study in 351 head and neck cancer patients where epoetin beta or placebo was administered to achieve target hemoglobins ≥ 14 and ≥ 15 g/dL for women and men, respectively.
-Locoregional progression-free survival was significantly shorter in patients receiving epoetin beta (HR 1.62, 95% CI: 1.22, 2.14; p = 0.0008) with medians of 406 days and 745 days in the epoetin beta and placebo arms, respectively.
-Overall survival was significantly shorter in patients receiving epoetin beta (HR 1.39, 95% CI: 1.05, 1.84; p = 0.02).
+Study 6 was a randomized, placebo-controlled study in 351 head and neck cancer patients where epoetin beta or placebo was administered to achieve target hemoglobins ≥ 14 and ≥ 15 g/dL for women and men, respectively.
+Locoregional progression-free survival was significantly shorter in patients receiving epoetin beta (HR 1.62, 95% CI: 1.22, 2.14; p=0.0008) with medians of 406 days and 745 days in the epoetin beta and placebo arms, respectively.
+Overall survival was significantly shorter in patients receiving epoetin beta (HR 1.39, 95% CI: 1.05, 1.84; p=0.02).
 
 Decreased Locoregional Control
 
-Study 6 was a randomized, open-label, controlled study conducted in 522 patients with primary squamous cell carcinoma of the head and neck receiving radiation therapy alone (no chemotherapy) who were randomized to receive darbepoetin alfa to maintain hemoglobin levels of 14 to15.5 g/dL or no darbepoetin alfa.
-An interim analysis performed on 484 patients demonstrated that locoregional control at 5 years was significantly shorter in patients receiving darbepoetin alfa (RR 1.44, 95% CI: 1.06, 1.96; p = 0.02).
-Overall survival was shorter in patients receiving darbepoetin alfa (RR 1.28, 95% CI: 0.98, 1.68; p = 0.08).
+Study 7 was a randomized, open-label, controlled study conducted in 522 patients with primary squamous cell carcinoma of the head and neck receiving radiation therapy alone (no chemotherapy) who were randomized to receive darbepoetin alfa to maintain hemoglobin levels of 14 to15.5 g/dL or no darbepoetin alfa.
+An interim analysis performed on 484 patients demonstrated that locoregional control at 5 years was significantly shorter in patients receiving darbepoetin alfa (RR 1.44, 95% CI: 1.06, 1.96; p=0.02).
+Overall survival was shorter in patients receiving darbepoetin alfa (RR 1.28, 95% CI: 0.98, 1.68; p=0.08).
 
-## 5.4 Hypertension
+## 5.3 Hypertension
 
 PROCRIT is contraindicated in patients with uncontrolled hypertension.
 Following initiation and titration of PROCRIT, approximately 25% of patients on dialysis required initiation of or increases in antihypertensive therapy; hypertensive encephalopathy and seizures have been reported in patients with CKD receiving PROCRIT.
@@ -144,19 +145,19 @@ Appropriately control hypertension prior to initiation of and during treatment w
 Reduce or withhold PROCRIT if blood pressure becomes difficult to control.
 Advise patients of the importance of compliance with antihypertensive therapy and dietary restrictions [see Patient Counseling Information (17)].
 
-## 5.5 Seizures
+## 5.4 Seizures
 
 PROCRIT increases the risk of seizures in patients with CKD.
 During the first several months following initiation of PROCRIT, monitor patients closely for premonitory neurologic symptoms.
 Advise patients to contact their healthcare practitioner for new-onset seizures, premonitory symptoms or change in seizure frequency.
 
-## 5.6 Lack or Loss of Hemoglobin Response to PROCRIT
+## 5.5 Lack or Loss of Hemoglobin Response to PROCRIT
 
 For lack or loss of hemoglobin response to PROCRIT, initiate a search for causative factors (e.g., iron deficiency, infection, inflammation, bleeding).
-If typical causes of lack or loss of hemoglobin response are excluded, evaluate for PRCA [see Warnings and Precautions (5.7)].
+If typical causes of lack or loss of hemoglobin response are excluded, evaluate for PRCA [see Warnings and Precautions (5.6)].
 In the absence of PRCA, follow dosing recommendations for management of patients with an insufficient hemoglobin response to PROCRIT therapy [see Dosage and Administration (2.2)].
 
-## 5.7 Pure Red Cell Aplasia
+## 5.6 Pure Red Cell Aplasia
 
 Cases of PRCA and of severe anemia, with or without other cytopenias that arise following the development of neutralizing antibodies to erythropoietin have been reported in patients treated with PROCRIT.
 This has been reported predominantly in patients with CKD receiving ESAs by subcutaneous administration.
@@ -167,24 +168,24 @@ Contact Janssen Products, LP at 1-800-JANSSEN (1-800-526-7736) to perform assays
 Permanently discontinue PROCRIT in patients who develop PRCA following treatment with PROCRIT or other erythropoietin protein drugs.
 Do not switch patients to other ESAs.
 
-## 5.8 Serious Allergic Reactions
+## 5.7 Serious Allergic Reactions
 
 Serious allergic reactions, including anaphylactic reactions, angioedema, bronchospasm, skin rash, and urticaria may occur with PROCRIT.
 Immediately and permanently discontinue PROCRIT and administer appropriate therapy if a serious allergic or anaphylactic reaction occurs.
 
-## 5.9 Albumin (Human)
+## 5.8 Albumin (Human)
 
 PROCRIT contains albumin, a derivative of human blood [see Description (11)].
 Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases.
 A theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD) also is considered extremely remote.
 No cases of transmission of viral diseases or CJD have ever been identified for albumin.
 
-## 5.10 Dialysis Management
+## 5.9 Dialysis Management
 
 Patients may require adjustments in their dialysis prescriptions after initiation of PROCRIT.
 Patients receiving PROCRIT may require increased anticoagulation with heparin to prevent clotting of the extracorporeal circuit during hemodialysis.
 
-## 5.11 Laboratory Monitoring
+## 5.10 Laboratory Monitoring
 
 Evaluate transferrin saturation and serum ferritin prior to and during PROCRIT treatment.
 Administer supplemental iron therapy when serum ferritin is less than 100 mcg/L or when serum transferrin saturation is less than 20% [see Dosage and Administration (2.1)].

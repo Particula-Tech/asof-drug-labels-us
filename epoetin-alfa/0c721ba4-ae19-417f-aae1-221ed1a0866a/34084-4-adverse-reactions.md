@@ -3,11 +3,11 @@
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
 - Increased Mortality, Myocardial Infarction, Stroke, and Thromboembolism [see Warnings and Precautions (5.1)]
-- Increased mortality and/or increased risk of tumor progression or recurrence in Patients With Cancer [see Warnings and Precautions (5.3)]
-- Hypertension [see Warnings and Precautions (5.4)]
-- Seizures [see Warnings and Precautions (5.5)]
-- PRCA [see Warnings and Precautions (5.7)]
-- Serious allergic reactions [see Warnings and Precautions (5.8)]
+- Increased mortality and/or increased risk of tumor progression or recurrence in Patients With Cancer [see Warnings and Precautions (5.2)]
+- Hypertension [see Warnings and Precautions (5.3)]
+- Seizures [see Warnings and Precautions (5.4)]
+- PRCA [see Warnings and Precautions (5.6)]
+- Serious allergic reactions [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -29,10 +29,9 @@ The racial distribution was as follows: 164 (78%) patients were white, 38 (18%) 
 
 The adverse reactions with a reported incidence of ≥ 5% in PROCRIT-treated patients and that occurred at a ≥ 1% higher frequency than in placebo-treated patients are shown in the table below:
 
-Table 3.
-Adverse Reactions in Patients With CKD on Dialysis
+Table 3: Adverse Reactions in Patients With CKD on Dialysis
 
-| Adverse Reaction | PROCRIT-treated Patients (n = 148) | Placebo-treated Patients (n = 96) |
+| Adverse Reaction | PROCRIT-treated Patients (n=148) | Placebo-treated Patients (n=96) |
 | --- | --- | --- |
 | Hypertension | 27.7% | 12.5% |
 | Arthralgia | 16.2% | 3.1% |
@@ -47,10 +46,9 @@ An additional serious adverse reaction that occurred in less than 5% of epoetin 
 
 The adverse reactions with a reported incidence of ≥ 5% in PROCRIT-treated patients and that occurred at a ≥ 1% higher frequency than in placebo-treated patients are shown in the table below:
 
-Table 4.
-Adverse Reactions in Patients With CKD Not on Dialysis
+Table 4: Adverse Reactions in Patients With CKD Not on Dialysis
 
-| Adverse Reactions | PROCRIT-treated Patients (n = 131) | Placebo-treated Patients (n = 79) |
+| Adverse Reactions | PROCRIT-treated Patients (n=131) | Placebo-treated Patients (n=79) |
 | --- | --- | --- |
 | Hypertension | 13.7% | 10.1% |
 | Arthralgia | 12.2% | 7.6% |
@@ -72,10 +70,9 @@ The racial distribution of the combined PROCRIT treatment groups was as follows:
 
 In double-blind, placebo-controlled studies of 3 months duration involving approximately 300 zidovudine-treated HIV-infected patients, adverse reactions with an incidence of ≥ 1% in patients treated with PROCRIT were:
 
-Table 5.
-Adverse Reactions in Zidovudine-treated HIV-infected Patients
+Table 5: Adverse Reactions in Zidovudine-treated HIV-infected Patients
 
-| Adverse Reaction | PROCRIT (n = 144) | Placebo (n = 153) |
+| Adverse Reaction | PROCRIT (n=144) | Placebo (n=153) |
 | --- | --- | --- |
 | Pyrexia | 42% | 34% |
 | Cough | 26% | 14% |
@@ -95,10 +92,9 @@ PROCRIT was administered once weekly for an average of 13 weeks at a dose of 20,
 
 The adverse reactions with a reported incidence of ≥ 5% in PROCRIT-treated patients that occurred at a higher frequency than in placebo-treated patients are shown in the table below:
 
-Table 6.
-Adverse Reactions in Cancer Patients
+Table 6: Adverse Reactions in Cancer Patients
 
-| Adverse Reaction | PROCRIT (n = 168) | Placebo (n = 165) |
+| Adverse Reaction | PROCRIT (n=168) | Placebo (n=165) |
 | --- | --- | --- |
 | Nausea | 35% | 30% |
 | Vomiting | 20% | 16% |
@@ -129,10 +125,9 @@ The racial distribution of the combined PROCRIT treatment groups was as follows:
 
 The adverse reactions with a reported incidence of ≥ 1% in PROCRIT-treated patients that occurred at a higher frequency than in placebo-treated patients are shown in the table below:
 
-Table 7.
-Adverse Reactions in Surgery Patients
+Table 7: Adverse Reactions in Surgery Patients
 
-| (n = 112)Study included patients undergoing orthopedic surgery treated with PROCRIT or placebo for 15 days. | (n = 101) | (n = 103) | (n = 73)Study included patients undergoing orthopedic surgery treated with PROCRIT 600 U/kg weekly for 4 weeks or 300 U/kg daily for 15 days. | (n = 72) |  |
+| (n=112)Study included patients undergoing orthopedic surgery treated with PROCRIT or placebo for 15 days. | (n=101) | (n=103) | (n=73)Study included patients undergoing orthopedic surgery treated with PROCRIT 600 U/kg weekly for 4 weeks or 300 U/kg daily for 15 days. | (n=72) |  |
 | --- | --- | --- | --- | --- | --- |
 | Adverse Reaction | Study S1 |  |  | Study S2 |  |
 | PROCRIT 300 U/kg | PROCRIT 100 U/kg | Placebo | PROCRIT 600 U/kg × 4 weeks | PROCRIT 300 U/kg × 15 days |  |
@@ -150,20 +145,20 @@ Adverse Reactions in Surgery Patients
 
 ## 6.2 Postmarketing Experience
 
-Because postmarketing reporting of adverse reactions is voluntary and from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post approval use of PROCRIT.
 
-The following adverse reactions have been identified during postmarketing use of PROCRIT:
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Seizures [see Warnings and Precautions (5.5)]
-- PRCA [see Warnings and Precautions (5.7)]
-- Serious allergic reactions [see Warnings and Precautions (5.8)]
+- Seizures [see Warnings and Precautions (5.4)]
+- PRCA [see Warnings and Precautions (5.6)]
+- Serious allergic reactions [see Warnings and Precautions (5.7)]
 - Injection site reactions, including irritation and pain
 - Porphyria
 
 ## 6.3 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
-Neutralizing antibodies to epoetin alfa that cross-react with endogenous erythropoietin and other ESAs can result in PRCA or severe anemia (with or without other cytopenias) [see Warnings and Precautions (5.7)].
+Neutralizing antibodies to epoetin alfa that cross-react with endogenous erythropoietin and other ESAs can result in PRCA or severe anemia (with or without other cytopenias) [see Warnings and Precautions (5.6)].
 
 The incidence of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.

@@ -15,8 +15,8 @@ Single-dose, Preservative-free Vial (Tray): Each 1 mL of solution contains 10,00
 
 Single-dose, Preservative-free Vial (in phosphate-buffered formulation): Each 1 mL of solution contains 40,000 Units (NDC 59676-340-01) of epoetin alfa and is supplied in dispensing packs containing 4 single-dose vials.
 
-Multidose, Preserved Vial: 2 mL (20,000 Units total; 10,000 Units/mL).
-Each 1 mL of solution contains 10,000 Units (NDC 59676-312-04) of epoetin alfa and is supplied in dispensing packs containing 4 multidose vials.
+Multiple-dose, Preserved Vial: 2 mL (20,000 Units total; 10,000 Units/mL).
+Each 1 mL of solution contains 10,000 Units (NDC 59676-312-04) of epoetin alfa and is supplied in dispensing packs containing 4 multiple-dose vials.
 
-Multidose, Preserved Vial: 1 mL (20,000 Units/mL).
-Each 1 mL of solution contains 20,000 Units (NDC 59676-320-04) of epoetin alfa and is supplied in dispensing packs containing 4 multidose vials.
+Multiple-dose, Preserved Vial: 1 mL (20,000 Units/mL).
+Each 1 mL of solution contains 20,000 Units (NDC 59676-320-04) of epoetin alfa and is supplied in dispensing packs containing 4 multiple-dose vials.

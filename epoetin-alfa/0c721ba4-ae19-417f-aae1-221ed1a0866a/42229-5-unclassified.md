@@ -1,6 +1,6 @@
 PROCRIT® (epoetin alfa)
 
-Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A.
+Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A. U.S. License Number 1080
 
 Manufactured for: Janssen Products, LP Horsham, Pennsylvania 19044 ©Janssen Products, LP 2000 Printed in U. S. A.
 

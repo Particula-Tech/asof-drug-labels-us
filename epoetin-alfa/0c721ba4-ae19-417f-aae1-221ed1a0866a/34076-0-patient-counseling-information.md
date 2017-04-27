@@ -1,15 +1,13 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Prior to treatment, inform patients of the risks and benefits of PROCRIT.
-
-Inform patients with cancer that they must sign the patient-healthcare provider acknowledgment form before the start of each treatment course with PROCRIT and that healthcare providers must enroll and comply with the ESA APPRISE Oncology Program in order to prescribe PROCRIT.
 
 Inform patients:
 
 - To read the Medication Guide.
-- Of the increased risks of mortality, serious cardiovascular reactions, thromboembolic reactions, stroke, and tumor progression [see Warnings and Precautions (5.1, 5.3)].
+- Of the increased risks of mortality, serious cardiovascular reactions, thromboembolic reactions, stroke, and tumor progression [see Warnings and Precautions (5.1, 5.2)].
 - To undergo regular blood pressure monitoring, adhere to prescribed anti-hypertensive regimen and follow recommended dietary restrictions.
 - To contact their healthcare provider for new-onset neurologic symptoms or change in seizure frequency.
 - Of the need to have regular laboratory tests for hemoglobin.

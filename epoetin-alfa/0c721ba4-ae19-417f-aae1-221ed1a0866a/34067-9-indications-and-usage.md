@@ -25,6 +25,7 @@ PROCRIT is not indicated for use:
 
 - In patients with cancer receiving hormonal agents, biologic products, or radiotherapy, unless also receiving concomitant myelosuppressive chemotherapy.
 - In patients with cancer receiving myelosuppressive chemotherapy when the anticipated outcome is cure.
+- In patients with cancer receiving myelosuppressive chemotherapy in whom the anemia can be managed by transfusion.
 - In patients scheduled for surgery who are willing to donate autologous blood.
 - In patients undergoing cardiac or vascular surgery.
-- As a substitute for RBC transfusions in patients who require immediate correction of anemia [see Clinical Pharmacology (12.2)].
+- As a substitute for RBC transfusions in patients who require immediate correction of anemia.

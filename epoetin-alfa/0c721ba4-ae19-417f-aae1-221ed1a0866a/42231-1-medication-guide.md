@@ -18,7 +18,7 @@ PROCRIT may cause serious side effects that can lead to death, including:
 For people with cancer:
 
 - Your tumor may grow faster and you may die sooner if you choose to take PROCRIT.
-  Your healthcare provider has received special training in order to prescribe PROCRIT and will talk with you in detail about these risks.
+  Your healthcare provider will talk with you about these risks.
 
 For all people who take PROCRIT, including people with cancer or chronic kidney disease:
 
@@ -68,6 +68,7 @@ PROCRIT should not be used for treatment of anemia:
 - If you have cancer and you will not be receiving chemotherapy that may cause anemia.
 - If you have a cancer that has a high chance of being cured.
   Talk with your healthcare provider about the kind of cancer you have.
+- If your anemia caused by chemotherapy treatment can be managed by RBC transfusion.
 - In place of emergency treatment for anemia (RBC transfusions).
 
 PROCRIT has not been proven to improve quality of life, fatigue, or well-being.
@@ -86,7 +87,7 @@ Do not take PROCRIT if you:
 - Have been told by your healthcare provider that you have or have ever had a type of anemia called Pure Red Cell Aplasia (PRCA) that starts after treatment with PROCRIT or other erythropoietin protein medicines.
 - Have had a serious allergic reaction to PROCRIT.
 
-Do not give PROCRIT from multidose vials to:
+Do not give PROCRIT from multiple-dose vials to:
 
 - Pregnant or breastfeeding women
 - Babies
@@ -144,8 +145,8 @@ PROCRIT may cause serious side effects.
 - Serious allergic reactions.
   Serious allergic reactions can cause a rash over your whole body, shortness of breath, wheezing, dizziness and fainting because of a drop in blood pressure, swelling around your mouth or eyes, fast pulse, or sweating.
   If you have a serious allergic reaction, stop using PROCRIT and call your healthcare provider or get medical help right away.
-- Dangers of using PROCRIT from multi-dose vials in newborns, infants, and pregnant or breastfeeding women.
-  Do not use PROCRIT from multi-dose vials in newborns, infants, pregnant or breastfeeding women because the PROCRIT in these vials contains benzyl alcohol.
+- Dangers of using PROCRIT from multiple-dose vials in newborns, infants, and pregnant or breastfeeding women.
+  Do not use PROCRIT from multiple-dose vials in newborns, infants, pregnant or breastfeeding women because the PROCRIT in these vials contains benzyl alcohol.
   Benzyl alcohol has been shown to cause brain damage, other serious side effects, and death in newborn and premature babies.
   PROCRIT that comes in single-dose vials does not contain benzyl alcohol.
   See "Who should not take PROCRIT?"
@@ -177,7 +178,7 @@ How should I store PROCRIT?
 - Store PROCRIT in the refrigerator between 36°F to 46°F (2°C to 8°C).
 - Do not freeze PROCRIT.
   Do not use PROCRIT that has been frozen.
-- Throw away multidose vials of PROCRIT no later than 21 days from the first day that you put a needle into the vial.
+- Throw away multiple-dose vials of PROCRIT no later than 21 days from the first day that you put a needle into the vial.
 - Single-dose vials of PROCRIT should be used only one time.
   Throw the vial away after use even if there is medicine left in the vial.
 
@@ -201,7 +202,7 @@ Active Ingredient: epoetin alfa
 
 Inactive Ingredients:
 
-- Multidose vials contain benzyl alcohol.
+- Multiple-dose vials contain benzyl alcohol.
 - All vials contain albumin (human), sodium citrate, sodium chloride, and citric acid.
 - Single-dose vials containing 40,000 Units of PROCRIT also contain sodium phosphate monobasic monohydrate and sodium phosphate dibasic anhydrate.
 
@@ -215,4 +216,4 @@ Manufactured for:
 
 Janssen Products, LP Horsham, Pennsylvania 19044 © Janssen Products, LP 2000 Printed in U. S. A.
 
-Revised: 12/2013
+Revised: 04/2017

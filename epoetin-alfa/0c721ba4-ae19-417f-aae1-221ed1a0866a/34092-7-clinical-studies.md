@@ -10,8 +10,7 @@ In clinical studies of CKD patients on dialysis, PROCRIT increased hemoglobin le
 Overall, more than 95% of patients were RBC transfusion-independent after receiving PROCRIT for 3 months.
 In clinical studies at starting doses of 50 to 150 Units/kg 3 times weekly, adult patients responded with an average rate of hemoglobin rise as presented in Table 8.
 
-Table 8.
-Average Rate of Hemoglobin Rise in 2 Weeks
+Table 8: Average Rate of Hemoglobin Rise in 2 Weeks
 
 | Starting Dose (3 Times Weekly Intravenously) | Hemoglobin Increase in 2 Weeks |
 | --- | --- |
@@ -46,7 +45,7 @@ The dose of study drug was titrated to achieve either a hemoglobin of 10 to 12 g
 At the end of the initial 12 weeks, a statistically significant rise in mean hemoglobin (3.1 g/dL vs. 0.3 g/dL) was observed only in the PROCRIT arm.
 The proportion of children achieving a hemoglobin of 10 g/dL, or an increase in hemoglobin of 2 g/dL over baseline, at any time during the first 12 weeks was higher in the PROCRIT arm (96% vs. 58%).
 Within 12 weeks of initiating PROCRIT therapy, 92.3% of the pediatric patients were RBC transfusion independent as compared to 65.4% who received placebo.
-Among patients who received 36 weeks of PROCRIT, hemodialysis patients received a higher median maintenance dose [167 Units/kg/week (n = 28) vs. 76 Units/kg/week (n = 36)] and took longer to achieve a hemoglobin of 10 to 12 g/dL (median time to response 69 days vs. 32 days) than patients undergoing peritoneal dialysis.
+Among patients who received 36 weeks of PROCRIT, hemodialysis patients received a higher median maintenance dose [167 Units/kg/week (n=28) vs. 76 Units/kg/week (n=36)] and took longer to achieve a hemoglobin of 10 to 12 g/dL (median time to response 69 days vs. 32 days) than patients undergoing peritoneal dialysis.
 
 Adult Patients With CKD Not Requiring Dialysis
 
@@ -73,7 +72,7 @@ The safety and efficacy of PROCRIT were evaluated in 4 placebo-controlled studie
 In the subgroup of patients (89/125 PROCRIT and 88/130 placebo) with pre-study endogenous serum erythropoietin levels ≤ 500 mUnits/mL, PROCRIT reduced the mean cumulative number of units of blood transfused per patient by approximately 40% as compared to the placebo group.
 Among those patients who required RBC transfusions at baseline, 43% of patients treated with PROCRIT versus 18% of placebo-treated patients were RBC transfusion-independent during the second and third months of therapy.
 PROCRIT therapy also resulted in significant increases in hemoglobin in comparison to placebo.
-When examining the results according to the weekly dose of zidovudine received during month 3 of therapy, there was a statistically significant reduction (p < 0.003) in RBC transfusion requirements in patients treated with PROCRIT (n = 51) compared to placebo-treated patients (n = 54) whose mean weekly zidovudine dose was ≤ 4200 mg/week.
+When examining the results according to the weekly dose of zidovudine received during month 3 of therapy, there was a statistically significant reduction (p < 0.003) in RBC transfusion requirements in patients treated with PROCRIT (n=51) compared to placebo-treated patients (n=54) whose mean weekly zidovudine dose was ≤ 4200 mg/week.
 
 Approximately 17% of the patients with endogenous serum erythropoietin levels ≤ 500 mUnits/mL receiving PROCRIT in doses from 100 to 200 Units/kg 3 times weekly achieved a hemoglobin of 12.7 g/dL without administration of RBC transfusions or significant reduction in zidovudine dose.
 In the subgroup of patients whose pre-study endogenous serum erythropoietin levels were > 500 mUnits/mL, PROCRIT therapy did not reduce RBC transfusion requirements or increase hemoglobin compared to the corresponding responses in placebo-treated patients.
@@ -89,27 +88,26 @@ In the pooled analysis, efficacy was demonstrated by a reduction in the proporti
 Study C1
 
 Study C1 was conducted in anemic patients (hemoglobin < 11.5 g/dL for males; < 10.5 g/dL for females) with non-myeloid malignancies receiving myelosuppressive chemotherapy.
-Randomization was stratified by type of malignancy (lung vs. breast vs. other), concurrent radiation therapy planned (yes or no), and baseline hemoglobin (< 9 g/dL vs. ≥ 9 g/dL); patients were randomized to epoetin alfa 40,000 Units (n = 174) or placebo (n = 170) as a weekly subcutaneous injection commencing on the first day of the chemotherapy cycle.
+Randomization was stratified by type of malignancy (lung vs. breast vs. other), concurrent radiation therapy planned (yes or no), and baseline hemoglobin (< 9 g/dL vs. ≥ 9 g/dL); patients were randomized to epoetin alfa 40,000 Units (n=174) or placebo (n=170) as a weekly subcutaneous injection commencing on the first day of the chemotherapy cycle.
 
 Ninety-one percent of patients were white, 44% were male, and the median age of patients was 66 years (range: 20 to 88 years).
 The proportion of patients withdrawn from the study prior to week 5 was less than 10% for placebo-treated or epoetin-treated patients.
 Per protocol, the last available hemoglobin values from patients who dropped out were included in the efficacy analyses.
 Efficacy results are shown in Table 9.
 
-Table 9.
-Study C1: Proportion of Patients Transfused
+Table 9: Study C1: Proportion of Patients Transfused
 
-| Chemotherapy Regimen | PROCRIT (n = 174) | Placebo (n = 170) |
+| Chemotherapy Regimen | PROCRIT (n=174) | Placebo (n=170) |
 | --- | --- | --- |
 |  | Week 5 Through Week 16 or End of StudyLast-known RBC transfusion status carried forward for patients who discontinued treatment. |  |
-| All Regimens | 14% (25/174)Two-sided p < 0.001, logistic regression analysis adjusting for accrual rate and stratification variables | 28% (48/170) |
+| All Regimens | 14% (25/174)Two-sided p < 0.001, logistic regression analysis adjusting for accrual rate and stratification variables. | 28% (48/170) |
 | Regimens without cisplatin | 14% (21/148) | 26% (35/137) |
 | Regimens containing cisplatin | 15% (4/26) | 39% (13/33) |
 
 Study C2
 
 Study C2 was conducted in 222 anemic patients, ages 5 to 18, receiving chemotherapy for the treatment of various childhood malignancies.
-Randomization was stratified by cancer type (solid tumors, Hodgkin's disease, acute lymphocytic leukemia, vs. non-Hodgkin's lymphoma); patients were randomized to receive epoetin alfa at 600 Units/kg maximum 40,000 Units (n = 111) or placebo (n = 111) as a weekly intravenous injection.
+Randomization was stratified by cancer type (solid tumors, Hodgkin's disease, acute lymphocytic leukemia, vs. non-Hodgkin's lymphoma); patients were randomized to receive epoetin alfa at 600 Units/kg maximum 40,000 Units (n=111) or placebo (n=111) as a weekly intravenous injection.
 
 Sixty-nine percent of patients were white, 55% were male, and the median age of patients was 12 years (range: 5 to 18 years).
 Two (2%) of placebo-treated patients and 3 (3%) of epoetin alfa-treated patients dropped out of the study prior to week 5.
@@ -119,7 +117,7 @@ There was no evidence of an improvement in health-related quality of life, inclu
 Pooled Analysis (Three Times Per Week Dosing)
 
 The results of 6 studies of similar design and that randomized 131 patients to epoetin alfa or placebo were pooled to assess the safety and effectiveness of epoetin alfa.
-Patients were randomized to receive epoetin alfa at 150 Units/kg (n = 63) or placebo (n = 68), subcutaneously three times per week for 12 weeks in each study.
+Patients were randomized to receive epoetin alfa at 150 Units/kg (n=63) or placebo (n=68), subcutaneously three times per week for 12 weeks in each study.
 Across all studies, 72 patients were treated with concomitant non cisplatin-containing chemotherapy regimens and 59 patients were treated with concomitant cisplatin-containing chemotherapy regimens.
 Twelve patients (19%) in the epoetin alfa arm and 10 patients (15%) in the placebo-arm dropped out prior to week 6 and are excluded from efficacy analyses.
 
@@ -128,20 +126,20 @@ Table 10: Proportion of Patients Transfused in the Pooled Analysis for Three Tim
 | Chemotherapy Regimen | PROCRIT | Placebo |
 | --- | --- | --- |
 |  | Week 5 Through Week 12 or End of StudyLimited to patients remaining on study beyond week 6 and includes only RBC transfusions during weeks 5–12. |  |
-| All Regimens | 22% (11/51)Two-sided p < 0.05, unadjusted | 43% (25/58) |
+| All Regimens | 22% (11/51)Two-sided p < 0.05, unadjusted. | 43% (25/58) |
 | Regimens without cisplatin | 21% (6/29) | 33% (11/33) |
 | Regimens containing cisplatin | 23% (5/22) | 56% (14/25) |
 
 ## 14.4 Surgery Patients
 
 The safety and efficacy of PROCRIT were evaluated in a placebo-controlled, double-blind study (S1) enrolling 316 patients scheduled for major, elective orthopedic hip or knee surgery who were expected to require ≥ 2 units of blood and who were not able or willing to participate in an autologous blood donation program.
-Patients were stratified into 1 of 3 groups based on their pretreatment hemoglobin [≤ 10 g/dL (n = 2), > 10 to ≤ 13 g/dL (n = 96), and > 13 to ≤ 15 g/dL (n = 218)] and then randomly assigned to receive 300 Units/kg PROCRIT, 100 Units/kg PROCRIT, or placebo by subcutaneous injection for 10 days before surgery, on the day of surgery, and for 4 days after surgery.
+Patients were stratified into 1 of 3 groups based on their pretreatment hemoglobin [≤ 10 g/dL (n=2), > 10 to ≤ 13 g/dL (n=96), and > 13 to ≤ 15 g/dL (n=218)] and then randomly assigned to receive 300 Units/kg PROCRIT, 100 Units/kg PROCRIT, or placebo by subcutaneous injection for 10 days before surgery, on the day of surgery, and for 4 days after surgery.
 All patients received oral iron and a low-dose, postoperative warfarin regimen.
 
-Treatment with PROCRIT 300 Units/kg significantly (p = 0.024) reduced the risk of allogeneic RBC transfusion in patients with a pretreatment hemoglobin of > 10 to ≤ 13 g/dL; 5/31 (16%) of patients treated with PROCRIT 300 Units/kg, 6/26 (23%) of patients treated with PROCRIT 100 Units/kg, and 13/29 (45%) of placebo-treated patients were transfused.
+Treatment with PROCRIT 300 Units/kg significantly (p=0.024) reduced the risk of allogeneic RBC transfusion in patients with a pretreatment hemoglobin of > 10 to ≤ 13 g/dL; 5/31 (16%) of patients treated with PROCRIT 300 Units/kg, 6/26 (23%) of patients treated with PROCRIT 100 Units/kg, and 13/29 (45%) of placebo-treated patients were transfused.
 There was no significant difference in the number of patients transfused between PROCRIT (9% 300 Units/kg, 6% 100 Units/kg) and placebo (13%) in the > 13 to ≤ 15 g/dL hemoglobin stratum.
 There were too few patients in the ≤ 10 g/dL group to determine if PROCRIT is useful in this hemoglobin strata.
-In the > 10 to ≤ 13 g/dL pretreatment stratum, the mean number of units transfused per PROCRIT-treated patient (0.45 units blood for 300 Units/kg, 0.42 units blood for 100 Units/kg) was less than the mean transfused per placebo-treated patient (1.14 units) (overall p = 0.028).
+In the > 10 to ≤ 13 g/dL pretreatment stratum, the mean number of units transfused per PROCRIT-treated patient (0.45 units blood for 300 Units/kg, 0.42 units blood for 100 Units/kg) was less than the mean transfused per placebo-treated patient (1.14 units) (overall p=0.028).
 In addition, mean hemoglobin, hematocrit, and reticulocyte counts increased significantly during the presurgery period in patients treated with PROCRIT.
 
 PROCRIT was also evaluated in an open-label, parallel-group study (S2) enrolling 145 patients with a pretreatment hemoglobin level of ≥ 10 to ≤ 13 g/dL who were scheduled for major orthopedic hip or knee surgery and who were not participating in an autologous program.
