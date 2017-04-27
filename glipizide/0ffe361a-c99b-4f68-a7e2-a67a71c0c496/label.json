@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA204720"
+  ],
+  "inn": "glipizide",
+  "labeler": "Rising Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64980-279-03",
+    "64980-280-01",
+    "64980-280-05",
+    "64980-280-10",
+    "64980-281-01",
+    "64980-281-05",
+    "64980-281-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "glipizide",
+      "name": "Glipizide"
+    }
+  ],
+  "setid": "0ffe361a-c99b-4f68-a7e2-a67a71c0c496",
+  "source": "dailymed"
+}

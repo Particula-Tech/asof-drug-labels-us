@@ -1,0 +1,5 @@
+# 15 REFERENCES
+
+1.
+Diabetes, 19, SUPP.
+2: 747–830, 1970
