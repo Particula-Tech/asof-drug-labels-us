@@ -83,5 +83,5 @@ SSRIs and SNRIs, including escitalopram oxalate, have been associated with cases
 In two pharmacokinetic studies, escitalopram half-life was increased by approximately 50% in elderly subjects as compared to young subjects and Cmax was unchanged [see Clinical Pharmacology (12.3)].
 10 mg/day is the recommended dose for elderly patients [see Dosage and Administration (2.3)].
 
-Of 4422 patients in clinical studies of racemic citalopram, 1357 were 60 and over, 1034 were 65 and over, and 457 were 75 and over.
+Of 4,422 patients in clinical studies of racemic citalopram, 1,357 were 60 and over, 1,034 were 65 and over, and 457 were 75 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but again, greater sensitivity of some elderly individuals cannot be ruled out.

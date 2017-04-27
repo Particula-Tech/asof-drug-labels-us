@@ -25,7 +25,7 @@ Although escitalopram oxalate did not potentiate the cognitive and motor effects
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.
-Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are co-administered with warfarin.
 Patients receiving warfarin therapy should be carefully monitored when escitalopram oxalate is initiated or discontinued.
 
 ## 7.7 Cimetidine
@@ -39,9 +39,9 @@ In subjects who had received 21 days of 40 mg/day racemic citalopram, combined a
 
 ## 7.9 Lithium
 
-Coadministration of racemic citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.
+Co-administration of racemic citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.
 Nevertheless, plasma lithium levels should be monitored with appropriate adjustment to the lithium dose in accordance with standard clinical practice.
-Because lithium may enhance the serotonergic effects of escitalopram, caution should be exercised when escitalopram oxalate and lithium are coadministered.
+Because lithium may enhance the serotonergic effects of escitalopram, caution should be exercised when escitalopram oxalate and lithium are co-administered.
 
 ## 7.10 Pimozide and Celexa
 
@@ -67,7 +67,7 @@ Prothrombin time was increased by 5%, the clinical significance of which is unkn
 ## 7.14 Carbamazepine
 
 Combined administration of racemic citalopram (40 mg/day for 14 days) and carbamazepine (titrated to 400 mg/day for 35 days) did not significantly affect the pharmacokinetics of carbamazepine, a CYP3A4 substrate.
-Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of escitalopram should be considered if the two drugs are coadministered.
+Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of escitalopram should be considered if the two drugs are co-administered.
 
 ## 7.15 Triazolam
 
@@ -84,22 +84,22 @@ Combined administration of a single dose of ritonavir (600 mg), both a CYP3A4 su
 ## 7.18 CYP3A4 and -2C19 Inhibitors
 
 In vitro studies indicated that CYP3A4 and -2C19 are the primary enzymes involved in the metabolism of escitalopram.
-However, coadministration of escitalopram (20 mg) and ritonavir (600 mg), a potent inhibitor of CYP3A4, did not significantly affect the pharmacokinetics of escitalopram.
+However, co-administration of escitalopram (20 mg) and ritonavir (600 mg), a potent inhibitor of CYP3A4, did not significantly affect the pharmacokinetics of escitalopram.
 Because escitalopram is metabolized by multiple enzyme systems, inhibition of a single enzyme may not appreciably decrease escitalopram clearance.
 
 ## 7.19 Drugs Metabolized by Cytochrome P4502D6
 
 In vitro studies did not reveal an inhibitory effect of escitalopram on CYP2D6.
-In addition, steady-state levels of racemic citalopram were not significantly different in poor metabolizers and extensive CYP2D6 metabolizers after multiple-dose administration of citalopram, suggesting that coadministration, with escitalopram, of a drug that inhibits CYP2D6, is unlikely to have clinically significant effects on escitalopram metabolism.
-However, there are limited in vivo data suggesting a modest CYP2D6 inhibitory effect for escitalopram, i.e., coadministration of escitalopram (20 mg/day for 21 days) with the tricyclic antidepressant desipramine (single dose of 50 mg), a substrate for CYP2D6, resulted in a 40% increase in Cmax and a 100% increase in AUC of desipramine.
+In addition, steady-state levels of racemic citalopram were not significantly different in poor metabolizers and extensive CYP2D6 metabolizers after multiple-dose administration of citalopram, suggesting that co-administration, with escitalopram, of a drug that inhibits CYP2D6, is unlikely to have clinically significant effects on escitalopram metabolism.
+However, there are limited in vivo data suggesting a modest CYP2D6 inhibitory effect for escitalopram, i.e., co-administration of escitalopram (20 mg/day for 21 days) with the tricyclic antidepressant desipramine (single dose of 50 mg), a substrate for CYP2D6, resulted in a 40% increase in Cmaxand a 100% increase in AUC of desipramine.
 The clinical significance of this finding is unknown.
-Nevertheless, caution is indicated in the coadministration of escitalopram and drugs metabolized by CYP2D6.
+Nevertheless, caution is indicated in the co-administration of escitalopram and drugs metabolized by CYP2D6.
 
 ## 7.20 Metoprolol
 
 Administration of 20 mg/day escitalopram oxalate for 21 days in healthy volunteers resulted in a 50% increase in Cmax and 82% increase in AUC of the beta-adrenergic blocker metoprolol (given in a single dose of 100 mg).
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
-Coadministration of escitalopram oxalate and metoprolol had no clinically significant effects on blood pressure or heart rate.
+Co-administration of escitalopram oxalate and metoprolol had no clinically significant effects on blood pressure or heart rate.
 
 ## 7.21 Electroconvulsive Therapy (ECT)
 

@@ -106,7 +106,7 @@ Stopping escitalopram oral solution too quickly may cause serious symptoms inclu
 - headache, sweating, nausea, dizziness
 - electric shock-like sensations, shaking, confusion
 
-What isescitalopram oral solution?
+What is escitalopram oral solution?
 
 Escitalopram oral solution is a prescription medicine used to treat depression.
 It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
@@ -118,7 +118,7 @@ Escitalopram oral solution is also used to treat:
 
 Talk to your healthcare provider if you do not think that your condition is getting better with escitalopram oral solution treatment.
 
-Who should not takeescitalopram oral solution?
+Who should not take escitalopram oral solution?
 
 Do not take escitalopram oral solution if you:
 
@@ -148,8 +148,8 @@ Before starting escitalopram oral solution, tell your healthcare provider if you
 
 - Are taking certain drugs such as:
 - Triptans used to treat migraine headache
-- Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, or antipsychotics
-- tramadol
+- Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
+- Tramadol
 - Over-the-counter supplements such as tryptophan or St. John’s Wort
 
 - have liver problems
@@ -233,7 +233,7 @@ YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
 
 How should I storeescitalopram oral solution?
 
-- Store escitalopram oral solution at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+- Store escitalopram oral solution at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 - Keep escitalopram oral solution bottle closed tightly.
 
 Keep escitalopram oral solution and all medicines out of the reach of children.
@@ -265,9 +265,9 @@ Inactive ingredients:
 
 3 Orap® is manufactured by Teva Pharmaceuticals USA
 
-Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-12-2015-02
+04-2017-03
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
