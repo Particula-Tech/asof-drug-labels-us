@@ -1,10 +1,13 @@
 # DESCRIPTION
 
-Hydrocodone bitartrate and ibuprofen is supplied in a fixed combination tablet form for oral administration.
+Each hydrocodone bitartrate and ibuprofen tablet contains either:
 
-Hydrocodone bitartrate and ibuprofen tablets combine the opioid analgesic agent, hydrocodone bitartrate, with the nonsteroidal anti-inflammatory (NSAID) agent, ibuprofen.
+Hydrocodone Bitartrate, USP 2.5 mg, 5 mg, 7.5 mg, or 10 mg and Ibuprofen, USP 200 mg
 
-Hydrocodone bitartrate, USP is a semisynthetic and centrally acting opioid analgesic.
+Hydrocodone bitartrate and ibuprofen tablets are supplied in a fixed combination tablet form for oral administration.
+Hydrocodone bitartrate and ibuprofen tablets combine the opioid agonist, hydrocodone bitartrate, USP, with the nonsteroidal anti-inflammatory (NSAID) agent, ibuprofen, USP.
+
+Hydrocodone bitartrate, USP is a semisynthetic opioid agonist.
 Its chemical name is: 4,5 α-epoxy-3-methoxy-17-methylmorphinan-6-one tartrate (1:1) hydrate (2:5).
 Its chemical formula is: C18H21NO3•C4H6O6•2½H2O, and the molecular weight is 494.50.
 Its structural formula is:

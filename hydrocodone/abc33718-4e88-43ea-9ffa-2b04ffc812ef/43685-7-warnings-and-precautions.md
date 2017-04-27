@@ -1,294 +1,729 @@
 # WARNINGS
 
-CARDIOVASCULAR EFFECTS
+Hydrocodone Component
+
+Addiction, Abuse, and Misuse
+
+Hydrocodone bitartrate and ibuprofen contains hydrocodone, a Schedule II controlled substance.
+As an opioid-containing product, hydrocodone bitartrate and ibuprofen exposes users to the risks of addiction, abuse, and misuse (see DRUG ABUSE AND DEPENDENCE).
+
+Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed hydrocodone bitartrate and ibuprofen.
+Addiction can occur at recommended dosages and if the drug is misused or abused.
+
+Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing hydrocodone bitartrate and ibuprofen, and monitor all patients receiving hydrocodone bitartrate and ibuprofen for the development of these behaviors and conditions.
+Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+The potential for these risks should not, however, prevent the proper management of pain in any given patient.
+Patients at increased risk may be prescribed opioid-containing products such as hydrocodone bitartrate and ibuprofen, but use in such patients necessitates intensive counseling about the risks and proper use of hydrocodone bitartrate and ibuprofen along with intensive monitoring for signs of addiction, abuse, and misuse.
+
+Opioids are sought by drug abusers and people with addiction disorders, and are subject to criminal diversion.
+Consider these risks when prescribing or dispensing hydrocodone bitartrate and ibuprofen.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug (see PRECAUTIONS: Information for Patients).
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+
+Life-Threatening Respiratory Depression
+
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
+Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status (see OVERDOSAGE).
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+
+While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of hydrocodone bitartrate and ibuprofen, the risk is greatest during the initiation of therapy or following a dosage increase.
+Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy with and following dosage increases of hydrocodone bitartrate and ibuprofen.
+
+To reduce the risk of respiratory depression, proper dosing and titration of hydrocodone bitartrate and ibuprofen are essential (see DOSAGE AND ADMINISTRATION).
+Overestimating the hydrocodone bitartrate and ibuprofen dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
+
+Accidental ingestion of even one dose of hydrocodone bitartrate and ibuprofen, especially by children, can result in respiratory depression and death due to an overdose of hydrocodone bitartrate and ibuprofen.
+
+Neonatal Opioid Withdrawal Syndrome
+
+Prolonged use of hydrocodone bitartrate and ibuprofen during pregnancy can result in withdrawal in the neonate.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available (see PRECAUTIONS: Pregnancy, Information for Patients).
+
+Risks of Concomitant Use or Discontinuation of Cytochrome P450 3A4 Inhibitors and Inducers
+
+Concomitant use of hydrocodone bitartrate and ibuprofen with a CYP3A4 inhibitor, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), may increase plasma concentrations of hydrocodone and prolong opioid adverse reactions, which may cause potentially fatal respiratory depression (see WARNINGS: Life-Threatening Respiratory Depression), particularly when an inhibitor is added after a stable dose of hydrocodone bitartrate and ibuprofen is achieved.
+Similarly, discontinuation of a CYP3A4 inducer, such as rifampin, carbamazepine, and phenytoin, in hydrocodone bitartrate and ibuprofen-treated patients may increase hydrocodone plasma concentrations and prolong opioid adverse reactions.
+When using hydrocodone bitartrate and ibuprofen with CYP3A4 inhibitors or discontinuing CYP3A4 inducers in hydrocodone bitartrate and ibuprofen-treated patients, monitor patients closely at frequent intervals and consider dosage reduction of hydrocodone bitartrate and ibuprofen until stable drug effects are achieved (see DOSAGE AND ADMINISTRATION, PRECAUTIONS: Drug Interactions).
+
+Concomitant use of hydrocodone bitartrate and ibuprofen with CYP3A4 inducers or discontinuation of a CYP3A4 inhibitor could decrease hydrocodone plasma concentrations, decrease opioid efficacy or, possibly, lead to a withdrawal syndrome in a patient who had developed physical dependence to hydrocodone.
+When using hydrocodone bitartrate and ibuprofen with CYP3A4 inducers or discontinuing CYP3A4 inhibitors, monitor patients closely at frequent intervals and consider increasing the opioid dosage if needed to maintain adequate analgesia or if symptoms of opioid withdrawal occur (see DOSAGE AND ADMINISTRATION, PRECAUTIONS: Drug Interactions).
+
+Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of hydrocodone bitartrate and ibuprofen with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
+Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics (see PRECAUTIONS: Drug Interactions).
+
+If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
+If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
+Follow patients closely for signs and symptoms of respiratory depression and sedation.
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when hydrocodone bitartrate and ibuprofen is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs (see PRECAUTIONS: Drug Interactions, Information for Patients).
+
+Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
+
+The use of hydrocodone bitartrate and ibuprofen in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
+
+Patients with Chronic Pulmonary Disease: hydrocodone bitartrate and ibuprofen-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of hydrocodone bitartrate and ibuprofen (see WARNINGS: Life-Threatening Respiratory Depression).
+
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients (see WARNINGS: Life-Threatening Respiratory Depression).
+
+Monitor such patients closely, particularly when initiating and titrating hydrocodone bitartrate and ibuprofen and when hydrocodone bitartrate and ibuprofen is given concomitantly with other drugs that depress respiration (see WARNINGS: Life-Threatening Respiratory Depression).
+Alternatively, consider the use of non-opioid analgesics in these patients.
+
+Adrenal Insufficiency
+
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
+If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
+Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
+Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
+The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
+
+Severe Hypotension
+
+Hydrocodone bitartrate and ibuprofen may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) (see PRECAUTIONS: Drug Interactions).
+Monitor these patients for signs of hypotension after initiating or titrating the dosage of hydrocodone bitartrate and ibuprofen.
+In patients with circulatory shock, hydrocodone bitartrate and ibuprofen may cause vasodilation that can further reduce cardiac output and blood pressure.
+Avoid the use of hydrocodone bitartrate and ibuprofen in patients with circulatory shock.
+
+Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+
+In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), hydrocodone bitartrate and ibuprofen may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with hydrocodone bitartrate and ibuprofen.
+
+Opioids may also obscure the clinical course in a patient with a head injury.
+Avoid the use of hydrocodone bitartrate and ibuprofen in patients with impaired consciousness or coma.
+
+Risks of Use in Patients with Gastrointestinal Conditions
+
+Hydrocodone bitartrate and ibuprofen is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
+
+The hydrocodone in hydrocodone bitartrate and ibuprofen may cause spasm of the sphincter of Oddi.
+Opioids may cause increases in serum amylase.
+Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+Increased Risk of Seizures in Patients with Seizure Disorders
+
+The hydrocodone in hydrocodone bitartrate and ibuprofen may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
+Monitor patients with a history of seizure disorders for worsened seizure control during hydrocodone bitartrate and ibuprofen therapy.
+
+Withdrawal
+
+Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including hydrocodone bitartrate and ibuprofen.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms (see PRECAUTIONS: Drug Interactions).
+When discontinuing hydrocodone bitartrate and ibuprofen in a physically-dependent patient, gradually taper the dosage (see DOSAGE AND ADMINISTRATION).
+Do not abruptly discontinue hydrocodone bitartrate and ibuprofen in these patients (see DRUG ABUSE AND DEPENDENCE).
+
+Risks of Driving and Operating Machinery
+
+Hydrocodone bitartrate and ibuprofen may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
+Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of hydrocodone bitartrate and ibuprofen and know how they will react to the medication (see PRECAUTIONS: Information for Patients).
+
+Ibuprofen Component
 
 Cardiovascular Thrombotic Events
 
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, myocardial infarction, and stroke, which can be fatal.
-All NSAIDs, both COX-2 selective and nonselective, may have a similar risk.
-Patients with known CV disease or risk factors for CV disease may be at greater risk.
-To minimize the potential risk for an adverse CV event in patients treated with an NSAID, the lowest effective dose should be used for the shortest duration possible.
-Physicians and patients should remain alert for the development of such events, even in the absence of previous CV symptoms.
-Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI), and stroke, which can be fatal.
+Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
+The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
+However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
+Some observational studies found that this increased risk of serious CV thrombotic events began as early as the first weeks of treatment.
+The increase in CV thrombotic risk has been observed most consistently at higher doses.
+
+To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
+Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
+Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see GI WARNINGS).
+The concurrent use of aspirin and an NSAID, such as ibuprofen, increases the risk of serious gastrointestinal (GI) events (see WARNINGS: Gastrointestinal Bleeding, Ulceration, and Perforation).
 
-Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
+Status Post Coronary Artery Bypass Graft (CABG) Surgery
+
+Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+NSAIDs are contraindicated in the setting of CABG (see CONTRAINDICATIONS).
+
+Post-MI Patients
+
+Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
+In this same cohort, the incidence of death in the first year post-MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
+Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
+
+Avoid the use of hydrocodone bitartrate and ibuprofen in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
+If hydrocodone bitartrate and ibuprofen is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
+
+Gastrointestinal Bleeding, Ulceration, and Perforation
+
+NSAIDs, including ibuprofen, cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
+These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with hydrocodone bitartrate and ibuprofen.
+Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3 to 6 months, and in about 2% to 4% of patients treated for one year.
+However, even short-term NSAID therapy is not without risk.
+
+Risk Factors for GI Bleeding, Ulceration, and Perforation
+
+Patients with a prior history of peptic ulcer disease and/or gastrointestinal bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
+Other factors that increase the risk for GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
+Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
+Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
+
+Strategies to Minimize the GI Risks in NSAID-treated patients:
+
+- Use the lowest effective dosage for the shortest possible duration.
+- Avoid administration of more than one NSAID at a time.
+- Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
+  For high risk patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
+- Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
+- If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue hydrocodone bitartrate and ibuprofen until a serious GI adverse event is ruled out.
+- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding (see PRECAUTIONS: Drug Interactions).
+
+Hepatotoxicity
+
+Elevations of ALT or AST (three or more times the upper limit of normal [ULN]) have been reported in approximately 1% of NSAID-treated patients in clinical trials with NSAIDS.
+In addition, rare, sometimes fatal, cases of severe hepatic injury, including fulminant hepatitis, liver necrosis, and hepatic failure have been reported.
+
+Elevations of ALT or AST (less than three times ULN) may occur in up to 15% of patients taking NSAIDs including ibuprofen.
+
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and “flulike” symptoms).
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue hydrocodone bitartrate and ibuprofen immediately, and perform a clinical evaluation of the patient.
 
 Hypertension
 
-NSAID-containing products, including hydrocodone bitartrate and ibuprofen tablets, can lead to onset of new hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
-Patients taking thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs.
-NSAID-containing products, including hydrocodone bitartrate and ibuprofen tablets, should be used with caution in patients with hypertension.
-Blood pressure (BP) should be monitored closely during the initiation of NSAID treatment and throughout the course of therapy.
+NSAID-containing products, including hydrocodone bitartrate and ibuprofen, can lead to new onset or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
+Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs (see PRECAUTIONS: Drug Interactions).
 
-Congestive Heart Failure and Edema
+Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
 
-Fluid retention and edema have been observed in some patients taking NSAIDs.
-Hydrocodone bitartrate and ibuprofen should be used with caution in patients with fluid retention or heart failure.
+Heart Failure and Edema
 
-Misuse Abuse and Diversion of Opioids
+The Coxib and Traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
-Hydrocodone bitartrate and ibuprofen tablets contain hydrocodone an opioid agonist, and is a Schedule II controlled substance.
-Opioid agonists have the potential for being abused and are sought by abusers and people with addiction disorders, and are subject to diversion.
+Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
+Use of hydrocodone bitartrate and ibuprofen may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) (see PRECAUTIONS: Drug Interactions).
 
-Hydrocodone bitartrate and ibuprofen tablets can be abused in a manner similar to other opioid agonists, legal or illicit.
-This should be considered when prescribing or dispensing hydrocodone bitartrate and ibuprofen tablets in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse or diversion (see DRUG ABUSE AND DEPENDENCE).
+Avoid the use of hydrocodone bitartrate and ibuprofen in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
+If hydrocodone bitartrate and ibuprofen is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
 
-Respiratory Depression
+Renal Toxicity and Hyperkalemia
 
-At high doses or in opioid-sensitive patients, hydrocodone may produce dose-related respiratory depression by acting directly on the brain stem respiratory centers.
-Hydrocodone also affects the center that controls respiratory rhythm, and may produce irregular and periodic breathing.
-
-Head Injury and Increased Intracranial Pressure
-
-The respiratory depressant effects of opioids and their capacity to elevate cerebrospinal fluid pressure may be markedly exaggerated in the presence of head injury, intracranial lesions or a pre-existing increase in intracranial pressure.
-Furthermore, opioids produce adverse reactions, which may obscure the clinical course of patients with head injuries.
-
-Acute Abdominal Conditions
-
-The administration of opioids may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
-
-## Gastrointestinal (GI) Effects - Risk of GI Ulceration, Bleeding and Perforation
-
-NSAIDs, including hydrocodone bitartrate and ibuprofen tablets, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
-These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
-Only one in five patients who develops a serious upper GI adverse event on NSAID therapy, is symptomatic.
-Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occur in approximately 1% of patients treated for 3 to 6 months, and in about 2% to 4% of patients treated for one year.
-These trends continue with longer duration of use, increasing the likelihood of developing a serious GI event at some time during the course of therapy.
-However, even short-term therapy is not without risk.
-
-NSAIDs should be prescribed with extreme caution in those with a prior history of ulcer disease or gastrointestinal bleeding.
-Patients with a prior history of peptic ulcer disease and/or gastrointestinal bleeding who use NSAIDs have a greater than 10-fold increased risk for developing a GI bleed compared to patients with neither of these risk factors.
-Other factors that increase the risk for GI bleeding in patients treated with NSAIDs include concomitant use of oral corticosteroids or anticoagulants, longer duration of NSAID therapy, smoking, use of alcohol, older age, and poor general health status.
-Most spontaneous reports of fatal GI events are in elderly or debilitated patients and therefore, special care should be taken in treating this population.
-
-To minimize the potential risk for an adverse GI event in patients treated with an NSAID, the lowest effective dose should be used for the shortest possible duration.
-Patients and physicians should remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
-This should include discontinuation of the NSAID until a serious GI adverse event is ruled out.
-For high-risk patients, alternate therapies that do not involve NSAIDs should be considered.
-
-## Renal Effects
+Renal Toxicity
 
 Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
-In these patients, administration of a nonsteroidal anti-inflammatory drug may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
-Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors, and the elderly.
-Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
-
-Advanced Renal Disease
+In these patients, administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
+Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors or angiotensin receptor blockers (ARBs), and the elderly.
+Discontinuation of NSAID therapy was usually followed by recovery to the pretreatment state.
 
 No information is available from controlled clinical studies regarding the use of hydrocodone bitartrate and ibuprofen in patients with advanced renal disease.
-Therefore, treatment with hydrocodone bitartrate and ibuprofen is not recommended in patients with advanced renal disease.
-If hydrocodone bitartrate and ibuprofen therapy must be initiated, close monitoring of the patient&apos;s renal function is advisable.
+The renal effects of hydrocodone bitartrate and ibuprofen may hasten the progression of renal dysfunction in patients with pre-existing renal disease.
 
-## Anaphylactoid Reactions
+Correct volume status in dehydrated or hypovolemic patients prior to initiating hydrocodone bitartrate and ibuprofen.
+Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of hydrocodone bitartrate and ibuprofen (see PRECAUTIONS: Drug Interactions).
+Avoid the use of hydrocodone bitartrate and ibuprofen in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
+If hydrocodone bitartrate and ibuprofen is used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
 
-As with other NSAID-containing products, anaphylactoid reactions may occur in patients without known prior exposure to hydrocodone bitartrate and ibuprofen.
-Hydrocodone bitartrate and ibuprofen should not be given to patients with the aspirin triad.
-This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs.
-Fatal reactions to NSAIDs have been reported in such patients (see CONTRAINDICATIONS and PRECAUTIONS - Pre-existing Asthma).
-Emergency help should be sought in cases where an anaphylactoid reaction occurs.
+Hyperkalemia
 
-Skin Reactions
+Increases in serum potassium concentration, including hyperkalemia, have been reported with use of NSAIDs, even in some patients without renal impairment.
+In patients with normal renal function, those effects have been attributed to a hyporeninemic-hypoaldosteronism state.
 
-Products containing NSAIDs, including hydrocodone bitartrate and ibuprofen tablets, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+Anaphylactic Reactions
+
+Ibuprofen has been associated with anaphylactic reactions in patients with and without known hypersensitivity to ibuprofen and in patients with aspirin-sensitive asthma (see CONTRAINDICATIONS, WARNINGS: Exacerbation of Asthma Related to Aspirin Sensitivity).
+
+Seek emergency help if an anaphylactic reaction occurs.
+
+Exacerbation of Asthma Related to Aspirin Sensitivity
+
+A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
+Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, hydrocodone bitartrate and ibuprofen is contraindicated in patients with this form of aspirin sensitivity (see CONTRAINDICATIONS).
+When hydrocodone bitartrate and ibuprofen is used in patients with pre-existing asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
+
+Serious Skin Reactions
+
+NSAIDs, including ibuprofen, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
-Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of hydrocodone bitartrate and ibuprofen at the first appearance of skin rash or any other sign of hypersensitivity.
+Hydrocodone bitartrate and ibuprofen is contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
 
-Pregnancy
+Premature Closure of Fetal Ductus Arteriosus
 
-As with other NSAID-containing products, hydrocodone bitartrate and ibuprofen should be avoided in late pregnancy because it may cause premature closure of the ductus arteriosus.
+Ibuprofen may cause premature closure of the fetal ductus arteriosus.
+Avoid use of NSAID-containing products, including hydrocodone bitartrate and ibuprofen, in pregnant women starting at 30 weeks of gestation (third trimester) (see PRECAUTIONS: Pregnancy).
 
-# PRECAUTIONS
+Hematologic Toxicity
 
-General
+Anemia has occurred in NSAID-treated patients.
+This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
+If a patient treated with hydrocodone bitartrate and ibuprofen has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
 
-Hydrocodone bitartrate and ibuprofen cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
-Abrupt discontinuation of corticosteroids may lead to disease exacerbation.
-Patients on prolonged corticosteroid therapy should have their therapy tapered slowly if a decision is made to discontinue corticosteroids.
-
-The pharmacological activity of hydrocodone bitartrate and ibuprofen in reducing fever and inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious, painful conditions.
-
-Special Risk Patients
-
-As with any opioid analgesic agent, hydrocodone bitartrate and ibuprofen tablets should be used with caution in elderly or debilitated patients, and those with severe impairment of hepatic or renal function, hypothyroidism, Addison's disease, prostatic hypertrophy or urethral stricture.
-The usual precautions should be observed and the possibility of respiratory depression should be kept in mind.
-
-Cough Reflex
-
-Hydrocodone suppresses the cough reflex; as with opioids, caution should be exercised when hydrocodone bitartrate and ibuprofen is used postoperatively and in patients with pulmonary disease.
-
-Hepatic Effects
-
-Borderline elevations of one or more liver enzymes may occur in up to 15% of patients taking NSAIDs including ibuprofen as found in hydrocodone bitartrate and ibuprofen tablets.
-These laboratory abnormalities may progress, may remain essentially unchanged, or may be transient with continued therapy.
-Notable elevations of SGPT (ALT) or SGOT (AST) (approximately three or more times the upper limit of normal) have been reported in approximately 1% of patients in clinical trials with NSAIDS.
-In addition, rare cases of severe hepatic reactions, including jaundice and fatal fulminant hepatitis, liver necrosis and hepatic failure, some of them with fatal outcomes have been reported.
-
-A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of more severe hepatic reactions while on hydrocodone bitartrate and ibuprofen therapy.
-If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), hydrocodone bitartrate and ibuprofen should be discontinued.
-
-Hematological Effects
-
-Anemia is sometimes seen in patients receiving NSAIDs including ibuprofen as found in hydrocodone bitartrate and ibuprofen tablets.
-This may be due to fluid retention, occult or gross GI blood loss, or an incompletely described effect upon erythropoiesis.
-Patients on long-term treatment with NSAIDs including ibuprofen, should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
-
-NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time in some patients.
-Unlike aspirin, their effect on platelet function is quantitatively less, of shorter duration, and reversible.
-Patients receiving hydrocodone bitartrate and ibuprofen who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants, should be carefully monitored.
-
-## Pre-existing Asthma
-
-Patients with asthma may have aspirin-sensitive asthma.
-The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm, which may be fatal.
-Since cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, hydrocodone bitartrate and ibuprofen should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with pre-existing asthma.
+NSAID-containing products, including hydrocodone bitartrate and ibuprofen, may increase the risk of bleeding events.
+Co-morbid conditions such as coagulation disorders, concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
+Monitor these patients for signs of bleeding (see PRECAUTIONS: Drug Interactions).
 
 Aseptic Meningitis
 
-Aseptic meningitis with fever and coma has been observed on rare occasions in patients on ibuprofen therapy as found in hydrocodone bitartrate and ibuprofen tablets.
+Aseptic meningitis with fever and coma has been observed on rare occasions in patients on ibuprofen therapy as found in hydrocodone bitartrate and ibuprofen.
 Although it is probably more likely to occur in patients with systemic lupus erythematosus and related connective tissue diseases, it has been reported in patients who do not have an underlying chronic disease.
 If signs or symptoms of meningitis develop in a patient on hydrocodone bitartrate and ibuprofen, the possibility of its being related to ibuprofen should be considered.
 
+# PRECAUTIONS
+
+Masking of Inflammation and Fever
+
+The pharmacological activity of hydrocodone bitartrate and ibuprofen in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
+
+Ophthalmological Effects
+
+Blurred or diminished vision, scotomata, and changes in color vision have been reported with oral ibuprofen.
+Discontinue ibuprofen if a patient develops such complaints, and refer the patient for an ophthalmologic examination that includes central visual fields and color vision testing.
+
 Information for Patients
 
-Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
-Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide) that accompanies each prescription dispensed.
+Patients, families, or their caregivers should be informed of the following information before initiating therapy with hydrocodone bitartrate and ibuprofen and periodically during the course of ongoing therapy.
 
-1. Hydrocodone bitartrate and ibuprofen tablets, like other opioid-containing analgesics, may impair mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery; patients should be cautioned accordingly.
-2. Alcohol and other CNS depressants may produce an additive CNS depression, when taken with this combination product, and should be avoided.
-3. Hydrocodone bitartrate and ibuprofen tablets can be abused in a manner similar to other opioid agonists, legal or illicit.
-   Hydrocodone bitartrate and ibuprofen tablets may be habit-forming.
-   Patients should take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed.
-4. Hydrocodone bitartrate and ibuprofen tablets, like other NSAID-containing products, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
-   Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Cardiovascular Effects).
-5. Hydrocodone bitartrate and ibuprofen tablets, like other NSAID-containing products, can cause GI discomfort and serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-   Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation).
-6. Hydrocodone bitartrate and ibuprofen tablets, like other NSAID-containing products, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
-   Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
-   Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
-7. Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
-8. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and &apos;flu-like&apos; symptoms).
-   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
-9. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
-10. In late pregnancy, as with other NSAIDs, hydrocodone bitartrate and ibuprofen tablets should be avoided because it may cause premature closure of the ductus arteriosus.
-11. Patients should be instructed to report any signs of blurred vision or other eye symptoms.
+1.
+Addiction, Abuse, and Misuse
 
-Laboratory Tests
+Inform patients that the use of hydrocodone bitartrate and ibuprofen, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death (see WARNINGS: Addiction, Abuse, and Misuse).
+Instruct patients not to share hydrocodone bitartrate and ibuprofen with others and to take steps to protect hydrocodone bitartrate and ibuprofen from theft or misuse.
 
-Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding.
-Patients on long-term treatment with NSAIDs should have their CBC and a chemistry profile checked periodically.
-If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, hydrocodone bitartrate and ibuprofen should be discontinued.
+2.
+Life-Threatening Respiratory Depression
 
-Drug Interactions
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting hydrocodone bitartrate and ibuprofen or when the dosage is increased, and that it can occur even at recommended dosages (see WARNINGS: Life-Threatening Respiratory Depression).
+Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
-ACE-inhibitors
+3.
+Accidental Ingestion
 
-Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhibitors.
-This interaction should be given consideration in patients taking hydrocodone bitartrate and ibuprofen concomitantly with ACE-inhibitors.
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death (see WARNINGS: Life-Threatening Respiratory Depression).
+Instruct patients to take steps to store hydrocodone bitartrate and ibuprofen securely and to dispose of unused hydrocodone bitartrate and ibuprofen appropriately as described below.
+
+4.
+Interactions with Benzodiazepines and Other CNS Depressants
+
+Inform patients and caregivers that potentially fatal additive effects may occur if hydrocodone bitartrate and ibuprofen is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider (see WARNINGS: Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants, PRECAUTIONS: Drug Interactions).
+
+5.
+Serotonin Syndrome
+
+Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
+Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
+Instruct patients to inform their healthcare providers if they are taking, or plan to take serotonergic medications (see PRECAUTIONS: Drug Interactions).
+
+6.
+MAOI Interaction
+
+Inform patients to avoid taking hydrocodone bitartrate and ibuprofen while using any drugs that inhibit monoamine oxidase.
+Patients should not start MAOIs while taking hydrocodone bitartrate and ibuprofen (see PRECAUTIONS: Drug Interactions).
+
+7.
+Adrenal Insufficiency
+
+Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
+Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+Advise patients to seek medical attention if they experience a constellation of these symptoms (see WARNINGS: Adrenal Insufficiency).
+
+8.
+Important Administration Instructions
+
+Instruct patients how to properly take hydrocodone bitartrate and ibuprofen.
+For the short-term (generally less than 10 days) management of acute pain, the recommended dose of hydrocodone bitartrate and ibuprofen is one tablet every 4 to 6 hours, as necessary.
+Inform patients that the dosage should not exceed 5 tablets in a 24-hour period (see DOSAGE AND ADMINISTRATION).
+
+9.
+Hypotension
+
+Inform patients that hydrocodone bitartrate and ibuprofen may cause orthostatic hypotension and syncope.
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) (see WARNINGS: Severe Hypotension).
+
+10.
+Anaphylaxis
+
+Inform patients that anaphylaxis has been reported with ingredients contained in hydrocodone bitartrate and ibuprofen.
+Advise patients how to recognize such a reaction and when to seek medical attention (see CONTRAINDICATIONS, WARNINGS: Anaphylactic Reactions).
+
+11.
+Pregnancy
+
+Neonatal Opioid Withdrawal Syndrome
+
+Inform female patients of reproductive potential that prolonged use of hydrocodone bitartrate and ibuprofen during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated (see Boxed Warning, WARNINGS: Neonatal Opioid Withdrawal Syndrome, PRECAUTIONS: Pregnancy).
+
+Embryo-Fetal Toxicity
+
+Inform female patients of reproductive potential that hydrocodone bitartrate and ibuprofen can cause fetal harm and to inform the prescriber of a known or suspected pregnancy.
+Inform pregnant women to avoid use of hydrocodone bitartrate and ibuprofen and other NSAIDs starting at 30 weeks gestation because of the risk of premature closing of the fetal ductus arteriosus (see WARNINGS: Premature Closure of Fetal Ductus Arteriosis, PRECAUTIONS: Pregnancy).
+
+12.
+Lactation
+
+Advise nursing mothers to monitor infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
+Instruct nursing mothers to seek immediate medical care if they notice these signs (see PRECAUTIONS: Nursing Mothers).
+
+13.
+Infertility
+
+Inform patients that chronic use of opioids may cause reduced fertility.
+It is not known whether these effects on fertility are reversible.
+Advise female patients of reproductive potential who desire pregnancy that NSAIDs, including hydrocodone bitartrate and ibuprofen, may be associated with a reversible delay in ovulation (see PRECAUTIONS: Carcinogenicity, Mutagenicity, Impairment of Fertility).
+
+14.
+Driving or Operating Heavy Machinery
+
+Inform patients that hydrocodone bitartrate and ibuprofen may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
+Advise patients not to perform such tasks until they know how they will react to the medication (see WARNINGS: Risks of Driving and Operating Machinery).
+
+15.
+Constipation
+
+Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention (see ADVERSE REACTIONS: Clinical Trials Experience).
+
+16.
+Cardiovascular Thrombotic Events
+
+Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their healthcare provider immediately (see WARNINGS: Cardiovascular Thrombotic Events).
+
+17.
+Gastrointestinal Bleeding, Ulceration, and Perforation
+
+Advise patients to report symptoms of ulcerations and bleeding, including epigastric pain, dyspepsia, melena, and hematemesis to their healthcare provider.
+In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, inform patients of the increased risk for and the signs and symptoms of GI bleeding (see WARNINGS: Gastrointestinal Bleeding, Ulceration, and Perforation).
+
+18.
+Hepatotoxicity
+
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+If these occur, instruct patients to stop hydrocodone bitartrate and ibuprofen and seek immediate medical therapy (see WARNINGS: Hepatotoxicity).
+
+19.
+Heart Failure and Edema
+
+Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS: Heart Failure and Edema).
+
+20.
+Serious Skin Reactions
+
+Advise patients to stop hydrocodone bitartrate and ibuprofen immediately if they develop any type of rash and to contact their healthcare provider as soon as possible (see WARNINGS: Serious Skin Reactions).
+
+21.
+Avoid Concomitant use of NSAIDs
+
+Inform patients that the concomitant use of hydrocodone bitartrate and ibuprofen with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy (see WARNINGS: Gastrointestinal Bleeding, Ulceration, and Perforation, PRECAUTIONS: Drug Interactions).
+Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
+
+22.
+Use of NSAIDS and Low-Dose Aspirin
+
+Inform patients not to use low-dose aspirin concomitantly with hydrocodone bitartrate and ibuprofen until they talk to their healthcare provider (see PRECAUTIONS: Drug Interactions).
+
+23.
+Ophthalmological Effects
+
+Instruct patients to report any signs of blurred vision or other eye symptoms (see PRECAUTIONS: Ophthalmological Effects).
+
+24.
+Disposal of Unused Hydrocodone Bitartrate and Ibuprofen
+
+Advise patients to flush the unused tablets down the toilet when hydrocodone bitartrate and ibuprofen is no longer needed or to contact the Drug Enforcement Agency (DEA) to find the location of an authorized collector (1-800-882-9539).
+
+## Laboratory Monitoring
+
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients with a CBC and a chemistry profile periodically (see WARNINGS: Gastrointestinal Bleeding, Ulceration, and Perforation, Renal Toxicity and Hyperkalemia, Hepatotoxicity).
+
+## Drug Interactions
+
+Inhibitors of CYP3A4 and CYP2D6
+
+The concomitant use of hydrocodone bitartrate and ibuprofen and CYP3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir), can increase the plasma concentration of hydrocodone, resulting in increased or prolonged opioid effects.
+These effects could be more pronounced with concomitant use of hydrocodone bitartrate and ibuprofen and CYP2D6 and CYP3A4 inhibitors, particularly when an inhibitor is added after a stable dose of hydrocodone bitartrate and ibuprofen is achieved (see WARNINGS: Risks of Concomitant Use or Discontinuation of Cytochrome P450 3A4 Inhibitors and Inducers).
+
+After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the hydrocodone plasma concentration will decrease (see CLINICAL PHARMACOLOGY: Pharmacokinetics), resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to hydrocodone bitartrate and ibuprofen.
+
+If concomitant use is necessary, consider dosage reduction of hydrocodone bitartrate and ibuprofen until stable drug effects are achieved.
+Monitor patients for respiratory depression and sedation at frequent intervals.
+If a CYP3A4 inhibitor is discontinued, consider a dosage increase of hydrocodone bitartrate and ibuprofen until stable drug effects are achieved.
+Monitor for signs of opioid withdrawal.
+
+CYP3A4 Inducers
+
+The concomitant use of hydrocodone bitartrate and ibuprofen and CYP3A4 inducers, such as rifampin, carbamazepine, and phenytoin, can decrease the plasma concentration of hydrocodone (see CLINICAL PHARMACOLOGY: Pharmacokinetics), resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to hydrocodone (see WARNINGS: Withdrawal).
+
+After stopping a CYP3A4 inducer, as the effects of the inducer decline, the hydrocodone plasma concentration will increase (see CLINICAL PHARMACOLOGY: Pharmacokinetics), which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression.
+
+If concomitant use is necessary, consider a dosage increase of hydrocodone bitartrate and ibuprofen until stable drug effects are achieved.
+Monitor for signs of opioid withdrawal.
+If a CYP3A4 inducer is discontinued, consider hydrocodone bitartrate and ibuprofen dosage reduction and monitor for signs of respiratory depression.
+
+Benzodiazepines and Other Central Nervous System (CNS) Depressants
+
+Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants such as benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, and other opioids, including alcohol, increase the risk of hypotension, respiratory depression, profound sedation, coma, and death.
+Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+Limit dosages and durations to the minimum required.
+Follow patients closely for signs of respiratory depression and sedation (see WARNINGS: Life-Threatening Respiratory Depression).
+
+Serotonergic Drugs
+
+The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system, such as selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue), has resulted in serotonin syndrome (see PRECAUTIONS: Information for Patients).
+
+If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment.
+Discontinue hydrocodone bitartrate and ibuprofen if serotonin syndrome is suspected.
+
+Monoamine Oxidase Inhibitors (MAOIs)
+
+MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma).
+
+If urgent use of an opioid is necessary with MAOIs such as phenelzine, tranylcypromine, linezolid, use test doses and frequent titration of small doses to treat pain while closely monitoring blood pressure and signs and symptoms of CNS and respiratory depression.
+
+The use of hydrocodone bitartrate and ibuprofen is not recommended for patients taking MAOIs or within 14 days of stopping such treatment.
+
+Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
+
+Agonist/antagonist analgesics such as pentazocine, nalbuphine, butorphanol and buprenorphine may reduce the analgesic effect of hydrocodone bitartrate and ibuprofen and/or precipitate withdrawal symptoms in these patients.
+
+Avoid concomitant use of these drugs.
+
+Muscle Relaxants
+
+Hydrocodone, as well as other opioid analgesics, may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of hydrocodone bitartrate and ibuprofen and/or the muscle relaxant as necessary.
 
 Anticholinergics
 
-The concurrent use of anticholinergics with hydrocodone preparations may produce paralytic ileus.
+The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
 
-Antidepressants
+Monitor patients for signs of urinary retention or reduced gastric motility when hydrocodone bitartrate and ibuprofen is used concomitantly with anticholinergic drugs.
 
-The use of Monoamine Oxidase Inhibitors (MAOIs) or tricyclic antidepressants with hydrocodone bitartrate and ibuprofen may increase the effect of either the antidepressant or hydrocodone.
+Drugs That Interfere With Hemostasis
 
-MAOIs have been reported to intensify the effects of at least one opioid drug causing anxiety, confusion and significant depression of respiration or coma.
-The use of hydrocodone is not recommended for patients taking MAOIs or within 14 days of stopping such treatment.
+Ibuprofen and anticoagulants such as warfarin have a synergistic effect on bleeding.
+The concomitant use of ibuprofen and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone.
+
+Serotonin release by platelets plays an important role in hemostasis.
+Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone.
+
+Monitor patients with concomitant use of hydrocodone bitartrate and ibuprofen with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), SSRIs, and SNRIs for signs of bleeding (see WARNINGS: Hematologic Toxicity).
 
 Aspirin
 
-When hydrocodone bitartrate and ibuprofen is administered with aspirin, the protein binding of aspirin is reduced, although the clearance of free hydrocodone bitartrate and ibuprofen is not altered.
-The clinical significance of this interaction is not known; however, as with other NSAID-containing products, concomitant administration of hydrocodone bitartrate and ibuprofen tablets and aspirin is not generally recommended because of the potential of increased adverse effects.
+Controlled clinical studies showed that the concomitant use of NSAIDs and analgesic doses of aspirin does not produce any greater therapeutic effect than the use of NSAIDs alone.
+In a clinical study, the concomitant use of an NSAID and aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone (see WARNINGS: Gastrointestinal Bleeding, Ulceration, and Perforation).
 
-CNS Depressants
+Concomitant use of hydrocodone bitartrate and ibuprofen and analgesic doses of aspirin is not generally recommended because of the increased risk of bleeding (see WARNINGS: Hematologic Toxicity).
 
-Patients receiving other opioids, antihistamines, antipsychotics, antianxiety agents, or other CNS depressants (including alcohol) concomitantly with hydrocodone bitartrate and ibuprofen may exhibit an additive CNS depression.
-When combined therapy is contemplated, the dose of one or both agents should be reduced.
+ACE-Inhibitors, Angiotensin Receptor Blockers, and Beta-blockers
+
+NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), or beta-blockers (including propranolol).
+
+During concomitant use of hydrocodone bitartrate and ibuprofen and ACE-inhibitors, ARBs, or beta-blockers, monitor blood pressure to ensure that the desired blood pressure is obtained.
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, co-administration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure.
+Monitor for signs of worsening renal function (see WARNINGS: Renal Toxicity and Hyperkalemia).
+These effects are usually reversible.
+
+When these drugs are administered concomitantly, patients should be adequately hydrated.
+Assess renal function at the beginning of the concomitant treatment and periodically thereafter.
 
 Diuretics
 
-Ibuprofen has been shown to reduce the natriuretic effect of furosemide and thiazides in some patients.
-This response has been attributed to inhibition of renal prostaglandin synthesis.
-During concomitant therapy with hydrocodone bitartrate and ibuprofen the patient should be observed closely for signs of renal failure (see WARNINGS - Renal Effects), as well as diuretic efficacy.
+Clinical studies, as well as post-marketing observations, showed that NSAIDs reduced the natriuretic effect of loop diuretics (e.g., furosemide) and thiazide diuretics in some patients.
+This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis.
+
+During concomitant use of hydrocodone bitartrate and ibuprofen with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects (see WARNINGS: Renal Toxicity and Hyperkalemia).
+
+Digoxin
+
+The concomitant use of ibuprofen with digoxin has been reported to increase the serum concentration and prolong the half-life of digoxin.
+
+During concomitant use of hydrocodone bitartrate and ibuprofen and digoxin, monitor serum digoxin levels.
 
 Lithium
 
-Ibuprofen has been shown to elevate plasma lithium concentration and reduce renal lithium clearance.
-The mean minimum lithium concentration increased 15% and the renal clearance was decreased by approximately 20%.
-This effect has been attributed to inhibition of renal prostaglandin synthesis by ibuprofen.
-Thus, when hydrocodone bitartrate and ibuprofen and lithium are administered concurrently, patients should be observed for signs of lithium toxicity.
+NSAIDs have produced elevations in plasma lithium concentration and reductions in renal lithium clearance.
+The mean minimum lithium concentration increased 15%, and the renal clearance decreased by approximately 20%.
+This effect has been attributed to NSAID inhibition of renal prostaglandin synthesis.
+
+During concomitant use of hydrocodone bitartrate and ibuprofen and lithium, monitor patients for signs of lithium toxicity.
 
 Methotrexate
 
-Ibuprofen, as well as other NSAIDs, has been reported to competitively inhibit methotrexate accumulation in rabbit kidney slices.
-This may indicate that ibuprofen could enhance the toxicity of methotrexate.
-Caution should be used when hydrocodone bitartrate and ibuprofen is administered concomitantly with methotrexate.
+Concomitant use of NSAIDs and methotrexate may increase the risk for methotrexate toxicity (e.g., neutropenia, thrombocytopenia, renal dysfunction).
 
-Mixed Agonist/Antagonist Opioid Analgesics
+During concomitant use of hydrocodone bitartrate and ibuprofen and methotrexate, monitor patients for methotrexate toxicity.
 
-Agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, butorphanol and buprenorphine) should be administered with caution to patients who have received or are receiving a course of therapy with a pure opioid agonist analgesic such as hydrocodone.
-In this situation, mixed agonist/antagonist analgesics may reduce the analgesic effect of hydrocodone and/or may precipitate withdrawal symptoms in these patients.
+Cyclosporine
 
-Neuromuscular Blocking Agents
+Concomitant use of hydrocodone bitartrate and ibuprofen and cyclosporine may increase cyclosporine’s nephrotoxicity.
 
-Hydrocodone, as well as other opioid analgesics, may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+During concomitant use of hydrocodone bitartrate and ibuprofen and cyclosporine, monitor patients for signs of worsening renal function.
 
-Warfarin
+NSAIDs and Salicylates
 
-The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious GI bleeding higher than users of either drug alone.
+Concomitant use of ibuprofen with other NSAIDs or salicylates (e.g., diflunisal, salsalate) increases the risk of GI toxicity, with little or no increase in efficacy (see WARNINGS: Gastrointestinal Bleeding, Ulceration, and Perforation).
 
-Carcinogenicity, Mutagenicity, and Impairment of Fertility
+The concomitant use of ibuprofen with other NSAIDs or salicylates is not recommended.
 
-The carcinogenic and mutagenic potential of hydrocodone bitartrate and ibuprofen has not been investigated.
-The ability of hydrocodone bitartrate and ibuprofen to impair fertility has not been assessed.
+Pemetrexed
 
-Pregnancy
+Concomitant use of hydrocodone bitartrate and ibuprofen and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information).
 
-Pregnancy Category C.
+During concomitant use of hydrocodone bitartrate and ibuprofen and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity.
 
-Teratogenic Effects
+NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of pemetrexed.
 
-Reproductive studies conducted in rats and rabbits have not demonstrated evidence of developmental abnormalities.
+In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration.
 
-Hydrocodone bitartrate and ibuprofen, administered to rabbits at 95 mg/kg (5.72 and 1.9 times the maximum clinical dose based on body weight and surface area, respectively), a maternally toxic dose, resulted in an increase in the percentage of litters and fetuses with any major abnormality and an increase in the number of litters and fetuses with one or more nonossified metacarpals (a minor abnormality).
-Hydrocodone bitartrate and ibuprofen, administered to rats at 166 mg/kg (10 and 1.66 times the maximum clinical dose based on body weight and surface area, respectively), a maternally toxic dose, did not result in any reproductive toxicity.
-However, animal reproduction studies are not always predictive of human response.
-There are no adequate and well-controlled studies in pregnant women.
-Hydrocodone bitartrate and ibuprofen should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+## Carcinogenicity, Mutagenicity, Impairment of Fertility
 
-Nonteratogenic Effects
+Carcinogenesis
 
-Because of the known effects of nonsteroidal anti-inflammatory drugs on the fetal cardiovascular system (closure of the ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
-Babies born to mothers who have been taking opioids regularly prior to delivery will be physically dependent.
-The withdrawal signs include irritability and excessive crying, tremors, hyperactive reflexes, increased respiratory rate, increased stools, sneezing, yawning, vomiting, and fever.
-The intensity of the syndrome does not always correlate with the duration of maternal opioid use or dose.
-There is no consensus on the best method of managing withdrawal.
+Long-term animal studies to evaluate the carcinogenic potential of the combination of hydrocodone and ibuprofen, ibuprofen alone, or hydrocodone alone have not been conducted.
+
+Mutagenesis
+
+The mutagenic potential of the combination of hydrocodone and ibuprofen or hydrocodone alone has not been investigated.
+
+In published studies, ibuprofen was not mutagenic in the in vitro bacterial reverse mutation assay (Ames assay).
+
+Impairment of Fertility
+
+Animal studies evaluating the impact of the combination of hydrocodone and ibuprofen or hydrocodone alone on fertility have not been conducted.
+
+In a published study, dietary administration of ibuprofen to male and female rats 8-weeks prior to and during mating at dose levels of 20 mg/kg (0.2-times the MRHD of 1000 mg ibuprofen based on body surface area comparison) did not impact male or female fertility or litter size.
+
+In other studies, adult mice were administered ibuprofen intraperitoneally at a dose of 5.6 mg/kg/day (0.03-times the MRHD based on body surface area comparison) for 35 or 60 days in males and 35 days in females.
+There was no effect on sperm motility or viability in males but decreased ovulation was reported in females.
+
+Based on the mechanism of action, the use of prostaglandin-mediated NSAIDs, including ibuprofen, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women.
+Small studies in women treated with NSAIDs have also shown a reversible delay in ovulation.
+Consider withdrawal of NSAID-containing products, including hydrocodone bitartrate and ibuprofen, in women who have difficulties conceiving or who are undergoing investigation of infertility.
+
+Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+It is not known whether these effects on fertility are reversible (see ADVERSE REACTIONS: Postmarketing Experience).
+
+## Pregnancy
+
+Risk Summary
+
+Use of drug products containing NSAIDs, including hydrocodone bitartrate and ibuprofen, during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+Avoid use of NSAIDs, including hydrocodone bitartrate and ibuprofen, in pregnant women starting at 30 weeks gestation (third trimester).
+Prolonged use of opioid analgesics during pregnancy can cause neonatal opioid withdrawal syndrome (see WARNINGS: Neonatal Opioid Withdrawal Syndrome).
+There are no available data with hydrocodone bitartrate and ibuprofen in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
+Data from observational studies regarding potential
+
+embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+
+In animal reproduction studies, an increase in the percentage of litters and fetuses with any major abnormality and an increase in the number of litters and fetuses with one or more nonossified metacarpals was observed when the combination of hydrocodone and ibuprofen was administered orally to pregnant rabbits during organogenesis at 1.8 times the maximum daily dose.
+There are no animal reproductive and developmental toxicology studies with hydrocodone alone.
+
+In published animal reproduction studies testing ibuprofen alone, there were no clear developmental effects at doses up to 1.2 times the maximum recommended human dose (MRHD) in the rabbit and 1.8 times in the MRHD rat when dosed throughout gestation.
+In contrast, an increase in membranous ventricular septal defects was reported in rats treated on Gestation Days 9 & 10 with 3 times the MRHD.
+Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
+In animal studies, administration of prostaglandin synthesis inhibitors such as ibuprofen, resulted in increased pre- and post-implantation loss (see Data).
+Based on animal data, advise pregnant women of the potential risk to a fetus.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations
+
+Fetal/neonatal adverse reactions
+
+Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+
+Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high-pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
+The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly (see WARNINGS: Neonatal Opioid Withdrawal Syndrome).
 
 Labor and Delivery
 
-As with other drugs known to inhibit prostaglandin synthesis, an increased incidence of dystocia and delayed parturition occurred in rats.
-Administration of hydrocodone bitartrate and ibuprofen is not recommended during labor and delivery.
-The effects of hydrocodone bitartrate and ibuprofen on labor and delivery in pregnant women are unknown.
+Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
+An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
+There are no studies on the effects of hydrocodone bitartrate and ibuprofen during labor or delivery.
+In animal studies, NSAIDs, including ibuprofen, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
 
-Nursing Mothers
+Hydrocodone bitartrate and ibuprofen is not recommended for use in women during and immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
+Opioid analgesics, including hydrocodone bitartrate and ibuprofen, can prolong labor through actions that temporarily reduce the strength, duration, and frequency of uterine contractions.
+However, this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
+Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
-It is not known whether hydrocodone is excreted in human milk.
-In limited studies, an assay capable of detecting 1 mcg/mL did not demonstrate ibuprofen in the milk of lactating mothers.
-However, because of the limited nature of the studies, and because of the potential for serious adverse reactions in nursing infants from hydrocodone bitartrate and ibuprofen, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Data
 
-Pediatric Use
+Animal Data
+
+Pregnant rabbits were treated with 10, 33, or 95 mg/kg of 1:27 ratio of hydrocodone:ibuprofen (the high dose is 1.8 times the maximum daily dose of both compounds based on surface area) from Gestation Day 5 to 18.
+The dose of 95 mg/kg of the combination, which also produced maternal toxicity (44% decrease in body weight gain compared to control), resulted in an increase in the percentage of litters and fetuses with any major abnormality and an increase in the number of litters and fetuses with one or more nonossified metacarpals (a minor abnormality).
+
+Pregnant rats were treated with 50, 100, or 166 mg/kg of a 1:27 ratio of hydrocodone:ibuprofen (the high dose is 1.6 times the maximum daily dose of both compounds based on body surface area) from Gestation Day 5 to 15.
+No reproductive toxicity was noted despite the presence of maternal toxicity in the 100 and 166 mg/kg groups (21% and 60% decrease in body weight gain compared to control).
+
+In a published study, female rabbits given 7.5, 20, or 60 mg/kg ibuprofen (0.15, 0.39, or 1.2 times the maximum recommended human daily dose of 1000 mg of ibuprofen based on body surface area) from Gestation Days 1 to 29, no clear treatment-related adverse developmental effects were noted.
+This dose was associated with significant maternal toxicity (stomach ulcers, gastric lesions).
+In the same publication, female rats were administered 7.5, 20, 60, 180 mg/kg ibuprofen (0.07, 0.2, 0.6, 1.8 times the maximum daily dose) did not result in clear adverse developmental effects.
+Maternal toxicity (gastrointestinal lesions) was noted at 20 mg/kg and above.
+
+In a published study, rats were orally dosed with 300 mg/kg ibuprofen (3 times the maximum human daily dose of 1000 mg based on body surface area) during Gestation Days 9 and 10 (critical time points for heart development in rats).
+Ibuprofen treatment resulted in an increase in the incidence of membranous ventricular septal defects.
+This dose was associated with significant maternal toxicity including gastrointestinal toxicity (1 out of 20 animals).
+In the same study/publication rabbits were dosed on Gestation Day 9, 10 and 11 with 500 mg/kg (9.7 times the maximum human daily dose), and only one incidence each of a membranous ventricular septal defect and gastroschisis was noted in the rabbit fetuses.
+This dose was also associated with maternal toxicity.
+
+## Nursing Mothers
+
+Risk Summary
+
+Hydrocodone is present in human milk.
+A published lactation study reports variable concentrations of hydrocodone and hydromorphone (an active metabolite) in breast milk with administration of immediate-release hydrocodone to nursing mothers in the early post-partum period.
+This lactation study did not assess breastfed infants for potential adverse drug reactions.
+
+Limited published literature reports that, following oral administration, ibuprofen is present in human milk at relative infant doses of 0.06% to 0.6% of the maternal weight-adjusted daily dose.
+
+Lactation studies have not been conducted with hydrocodone bitartrate and ibuprofen, and no information is available on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for hydrocodone bitartrate and ibuprofen and any potential adverse effects on the breastfed infant from hydrocodone bitartrate and ibuprofen or from the underlying maternal condition.
+
+Clinical Considerations
+
+Monitor infants exposed to hydrocodone bitartrate and ibuprofen through breast milk for excess sedation and respiratory depression.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of hydrocodone is stopped, or when breastfeeding is stopped.
+
+## Pediatric Use
 
 The safety and effectiveness of hydrocodone bitartrate and ibuprofen in pediatric patients below the age of 16 have not been established.
 
-Geriatric Use
+## Geriatric Use
 
 In controlled clinical trials there was no difference in tolerability between patients < 65 years of age and those ≥ 65, apart from an increased tendency of the elderly to develop constipation.
-However, because the elderly may be more sensitive to the renal and gastrointestinal effects of nonsteroidal anti-inflammatory agents as well as possible increased risk of respiratory depression with opioids, extra caution and reduced dosages should be used when treating the elderly with hydrocodone bitartrate and ibuprofen.
+However, elderly patients are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and renal adverse reactions as well as possible increased risk of respiratory depression with opioids.
+In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy (see WARNINGS: Cardiovascular Thrombotic Events, Gastrointestinal Bleeding, Ulceration, and Perforation, Renal Toxicity and Hyperkalemia).
+
+Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
+Titrate the dosage of hydrocodone bitartrate and ibuprofen slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression (see WARNINGS: Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients).
+
+Both hydrocodone and ibuprofen are known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+
+## Hepatic Impairment
+
+Patients with hepatic impairment may have higher hydrocodone plasma concentrations than those with normal function.
+In patients with severe hepatic impairment, use a low initial dose.
+Monitor these patients closely for adverse events such as respiratory depression, sedation, and hypotension.
+
+## Renal Impairment
+
+Patients with renal impairment may have higher hydrocodone plasma concentrations than those with normal function.
+Use a low initial dose in patients with renal impairment and monitor closely for adverse events such as respiratory depression, sedation, and hypotension.

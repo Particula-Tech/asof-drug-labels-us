@@ -1,18 +1,75 @@
 # CLINICAL PHARMACOLOGY
 
+Mechanism of Action
+
 Hydrocodone Component
 
-Hydrocodone is a semisynthetic opioid analgesic and antitussive with multiple actions qualitatively similar to those of codeine.
-Most of these involve the central nervous system and smooth muscle.
-The precise mechanism of action of hydrocodone and other opioids is not known, although it is believed to relate to the existence of opiate receptors in the central nervous system.
-In addition to analgesia, opioids may produce drowsiness, changes in mood, and mental clouding.
+Hydrocodone is a full opioid agonist with relative selectivity for the mu-opioid receptor, although it can interact with other opioid receptors at higher doses.
+The principal therapeutic action of hydrocodone is analgesia.
+Like all full opioid agonists, there is no ceiling effect for analgesia with hydrocodone.
+Clinically, dosage is titrated to provide adequate analgesia and may be limited by adverse reactions, including respiratory and CNS depression.
+
+The precise mechanism of the analgesic action is unknown.
+However, specific CNS opioid receptors for endogenous compounds with opioid-like activity have been identified throughout the brain and spinal cord and are thought to play a role in the analgesic effects of this drug.
 
 Ibuprofen Component
 
-Ibuprofen is a non-steroidal anti-inflammatory agent that possesses analgesic and antipyretic activities.
-Its mode of action, like that of other NSAIDs, is not completely understood, but may be related to inhibition of cyclooxygenase activity and prostaglandin synthesis.
-Ibuprofen is a peripherally acting analgesic.
-Ibuprofen does not have any known effects on opiate receptors.
+Ibuprofen has analgesic, anti-inflammatory, and antipyretic properties.
+
+The mechanism of action, like that of other NSAIDs, is not completely understood, but involves inhibition of cyclooxygenase (COX-1 and COX-2).
+
+Ibuprofen is a potent inhibitor of prostaglandin synthesis in vitro.
+Ibuprofen concentrations reached during therapy have produced in vivo effects.
+Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models.
+Prostaglandins are mediators of inflammation.
+Because ibuprofen is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
+
+Pharmacodynamics
+
+Effects on the Central Nervous System
+
+Hydrocodone produces respiratory depression by direct action on brain stem respiratory centers.
+The respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.
+
+Hydrocodone causes miosis, even in total darkness.
+Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
+Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situations.
+
+Effects on the Gastrointestinal Tract and Other Smooth Muscle
+
+Hydrocodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
+Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
+Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+
+Effects on the Cardiovascular System
+
+Hydrocodone produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
+Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
+
+Effects on the Endocrine System
+
+Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans (see ADVERSE REACTIONS: Postmarketing Experience).
+They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
+
+Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date (see ADVERSE REACTIONS: Postmarketing Experience).
+
+Effects on the Immune System
+
+Opioids have been shown to have a variety of effects on components of the immune system in both in vitro and animal models.
+The clinical significance of these findings is unknown.
+Overall, the effects of opioids appear to be modestly immunosuppressive.
+
+Concentration-Efficacy Relationships
+
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance (see DOSAGE AND ADMINISTRATION).
+
+Concentration-Adverse Reaction Relationships
+
+There is a relationship between increasing hydrocodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions (see DOSAGE AND ADMINISTRATION).
 
 Pharmacokinetics
 
@@ -27,22 +84,24 @@ Ibuprofen is highly protein-bound (99%) like most other non-steroidal anti-infla
 Although the extent of protein binding of hydrocodone in human plasma has not been definitely determined, structural similarities to related opioid analgesics suggest that hydrocodone is not extensively protein bound.
 As most agents in the 5-ring morphinan group of semi-synthetic opioids bind plasma protein to a similar degree (range 19% [hydromorphone] to 45% [oxycodone]), hydrocodone is expected to fall within this range.
 
+Elimination
+
 Metabolism
 
 Hydrocodone exhibits a complex pattern of metabolism, including O-demethylation, N-demethylation, and 6-keto reduction to the corresponding 6-α-and 6-β-hydroxy metabolites.
 Hydromorphone, a potent opioid, is formed from the O-demethylation of hydrocodone and contributes to the total analgesic effect of hydrocodone.
-The O-and N-demethylation processes are mediated by separate P-450 isoenzymes: CYP2D6 and CYP3A4, respectively.
+The O- and N- demethylation processes are mediated by separate P-450 isoenzymes: CYP2D6 and CYP3A4, respectively.
 
 Ibuprofen is present in this product as a racemate, and following absorption it undergoes interconversion in the plasma from the R-isomer to the S-isomer.
 Both the R- and S- isomers are metabolized to two primary metabolites: (+)-2-4'-(2hydroxy-2-methyl-propyl) phenyl propionic acid and (+)-2-4'-(2carboxypropyl) phenyl propionic acid, both of which circulate in the plasma at low levels relative to the parent.
 
-Elimination
+Excretion
 
 Hydrocodone and its metabolites are eliminated primarily in the kidneys, with a mean plasma half-life of 4.5 hours.
 Ibuprofen is excreted in the urine, 50% to 60% as metabolites and approximately 15% as unchanged drug and conjugate.
 The plasma half-life is 2.2 hours.
 
-Special Populations
+Specific Populations
 
 No significant pharmacokinetic differences based on age or gender have been demonstrated.
 The pharmacokinetics of hydrocodone and ibuprofen from hydrocodone bitartrate and ibuprofen tablets has not been evaluated in children.
@@ -50,3 +109,10 @@ The pharmacokinetics of hydrocodone and ibuprofen from hydrocodone bitartrate an
 Renal Impairment
 
 The effect of renal insufficiency on the pharmacokinetics of the hydrocodone bitartrate and ibuprofen dosage form has not been determined.
+
+Drug Interaction Studies
+
+Aspirin
+
+When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
+The clinical significance of this interaction is not known (see PRECAUTIONS: Drug Interactions).
