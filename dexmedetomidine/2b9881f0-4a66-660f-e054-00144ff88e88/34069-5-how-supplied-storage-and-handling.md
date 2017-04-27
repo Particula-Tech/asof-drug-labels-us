@@ -2,7 +2,7 @@
 
 Dexmedetomidine hydrochloride injection, 200 mcg/2 mL (100 mcg/mL) is available in 2 mL clear glass Vials.
 The strength is based on the dexmedetomidine base.
-Vials are intended for single use only.
+Vials are intended for single dose only.
 
 | NDC No. | Container | Size |
 | --- | --- | --- |

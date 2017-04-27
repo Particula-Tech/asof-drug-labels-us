@@ -1,16 +1,16 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of Dexmedetomidine has been evaluated in two randomized, double-blind, placebo-controlled multicenter clinical trials in 431 adult patients.
+The safety and efficacy of dexmedetomidine has been evaluated in two randomized, double-blind, placebo-controlled multicenter clinical trials in 431 adult patients.
 
-## 14.1 Procedural Sedation
+## 14.2 Procedural Sedation
 
-The safety and efficacy of Dexmedetomidine for sedation of non-intubated patients prior to and/or during surgical and other procedures was evaluated in two randomized, double-blind, placebo-controlled multicenter clinical trials.
-Study 1 evaluated the sedative properties of Dexmedetomidine in patients having a variety of elective surgeries/procedures performed under monitored anesthesia care.
-Study 2 evaluated Dexmedetomidine in patients undergoing awake fiberoptic intubation prior to a surgical or diagnostic procedure.
+The safety and efficacy of dexmedetomidine for sedation of non-intubated patients prior to and/or during surgical and other procedures was evaluated in two randomized, double-blind, placebo-controlled multicenter clinical trials.
+Study 1 evaluated the sedative properties of dexmedetomidine in patients having a variety of elective surgeries/procedures performed under monitored anesthesia care.
+Study 2 evaluated dexmedetomidine in patients undergoing awake fiberoptic intubation prior to a surgical or diagnostic procedure.
 
-In Study 1, the sedative properties of Dexmedetomidine were evaluated by comparing the percent of patients not requiring rescue midazolam to achieve a specified level of sedation using the standardized Observer’s Assessment of Alertness/Sedation Scale (see Table 5).
+In Study 1, the sedative properties of dexmedetomidine were evaluated by comparing the percent of patients not requiring rescue midazolam to achieve a specified level of sedation using the standardized Observer’s Assessment of Alertness/Sedation Scale (see Table 12).
 
-Table 5: Observer’s Assessment of Alertness/Sedation
+Table 12: Observer’s Assessment of Alertness/Sedation
 
 | Assessment Categories |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -21,17 +21,17 @@ Table 5: Observer’s Assessment of Alertness/Sedation
 | Responds only after mild prodding or shaking | Few recognizable words | — | — | 2 |
 | Does not respond to mild prodding or shaking | — | — | — | 1 (deep sleep) |
 
-Patients were randomized to receive a loading infusion of either Dexmedetomidine 1 mcg/kg, Dexmedetomidine 0.5 mcg/kg, or placebo (normal saline) given over 10 minutes and followed by a maintenance infusion started at 0.6 mcg/kg/hr.
+Patients were randomized to receive a loading infusion of either dexmedetomidine 1 mcg/kg, dexmedetomidine 0.5 mcg/kg, or placebo (normal saline) given over 10 minutes and followed by a maintenance infusion started at 0.6 mcg/kg/hr.
 The maintenance infusion of study drug could be titrated from 0.2 mcg/kg/hr to 1 mcg/kg/hr to achieve the targeted sedation score (Observer’s Assessment of Alertness/Sedation Scale ≤ 4).
 Patients were allowed to receive rescue midazolam as needed to achieve and/or maintain an Observer’s Assessment of Alertness/Sedation Scale ≤ 4.
 After achieving the desired level of sedation, a local or regional anesthetic block was performed.
-Demographic characteristics were similar between the Dexmedetomidine and comparator groups.
-Efficacy results showed that Dexmedetomidine was more effective than the comparator group when used to sedate non- intubated patients requiring monitored anesthesia care during surgical and other procedures.
-(see Table 7)
+Demographic characteristics were similar between the dexmedetomidine and comparator groups.
+Efficacy results showed that dexmedetomidine was more effective than the comparator group when used to sedate non- intubated patients requiring monitored anesthesia care during surgical and other procedures.
+(see Table 13)
 
-In Study 2, the sedative properties of Dexmedetomidine were evaluated by comparing the percent of patients requiring rescue midazolam to achieve or maintain a specified level of sedation using the Ramsay Sedation Scale score ≥ 2 (see Table 6).
+In Study 2, the sedative properties of dexmedetomidine were evaluated by comparing the percent of patients requiring rescue midazolam to achieve or maintain a specified level of sedation using the Ramsay Sedation Scale score ≥ 2 (see Table 9).
 
-Table 6: Ramsay Level of Sedation Scale
+Table 9: Ramsay Level of Sedation Scale
 
 | Clinical Score | Level of Sedation Achieved |
 | --- | --- |
@@ -42,13 +42,13 @@ Table 6: Ramsay Level of Sedation Scale
 | 2 | Patient cooperative, oriented, and tranquil |
 | 1 | Patient anxious, agitated, or restless |
 
-Patients were randomized to receive a loading infusion of Dexmedetomidine 1 mcg/kg or placebo (normal saline) given over 10 minutes and followed by a fixed maintenance infusion of 0.7 mcg/kg/hr.
+Patients were randomized to receive a loading infusion of dexmedetomidine 1 mcg/kg or placebo (normal saline) given over 10 minutes and followed by a fixed maintenance infusion of 0.7 mcg/kg/hr.
 After achieving the desired level of sedation, topicalization of the airway occurred.
 Patients were allowed to receive rescue midazolam as needed to achieve and/or maintain a Ramsay Sedation Scale ≥ 2.
-Demographic characteristics were similar between the Dexmedetomidine and comparator groups.
-For efficacy results see Table 7.
+Demographic characteristics were similar between the dexmedetomidine and comparator groups.
+For efficacy results (see Table 13).
 
-Table 7: Key Efficacy Results of Procedural Sedation Studies
+Table 13: Key Efficacy Results of Procedural Sedation Studies
 
 | Study | Loading Infusion Treatment Arm | Number of Patients EnrolledBased on ITT population defined as all randomized and treated patients. | % Not Requiring Midazolam Rescue | ConfidenceNormal approximation to the binomial with continuity correction. Interval on the Difference vs. Placebo | Mean (SD) Total Dose (mg) of Rescue Midazolam Required | Confidence Intervals of the Mean Rescue Dose |
 | --- | --- | --- | --- | --- | --- | --- |

@@ -17,23 +17,22 @@ Table 1: Dosage Information
 
 ## 2.3 Dosage Adjustment
 
-Due to possible pharmacodynamic interactions, a reduction in dosage of Dexmedetomidine hydrochloride injection or other concomitant anesthetics, sedatives, hypnotics or opioids may be required when co-administered.
-[see Drug Interactions (7.1)].
+Due to possible pharmacodynamic interactions, a reduction in dosage of dexmedetomidine hydrochloride injection or other concomitant anesthetics, sedatives, hypnotics or opioids may be required when co-administered [see Drug Interactions (7.1)].
 
 Dosage reductions may need to be considered for adult patients with hepatic impairment, and geriatric patients [see Warnings and Precautions (5.7), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.4 Preparation of Solution
 
-Strict aseptic technique must always be maintained during handling of Dexmedetomidine hydrochloride injection.
+Strict aseptic technique must always be maintained during handling of dexmedetomidine hydrochloride injection.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 Dexmedetomidine hydrochloride injection, 200 mcg/2 mL (100 mcg/mL)
 
-Dexmedetomidine hydrochloride injection must be diluted with 0.9% sodium chloride solution to achieve required concentration (4 mcg/mL) prior to administration.
+Dexmedetomidine hydrochloride injection must be diluted with 0.9% sodium chloride injection to achieve required concentration (4 mcg/mL) prior to administration.
 Preparation of solutions is the same, whether for the loading dose or maintenance infusion.
 
-To prepare the infusion, withdraw 2 mL of Dexmedetomidine hydrochloride injection and add to 48 mL of 0.9% sodium chloride injection to a total of 50 mL.
+To prepare the infusion, withdraw 2 mL of dexmedetomidine hydrochloride injection and add to 48 mL of 0.9% sodium chloride injection to a total of 50 mL.
 Shake gently to mix well.
 
 ## 2.5 Administration with Other Fluids
@@ -44,14 +43,14 @@ Dexmedetomidine hydrochloride injection has been shown to be incompatible when a
 
 Dexmedetomidine hydrochloride injection has been shown to be compatible when administered with the following intravenous fluids:
 
-- 0.9% sodium chloride in water 0.9% sodium chloride in water
-- 5% dextrose in water 5% dextrose in water
-- 20% mannitol 20% mannitol
-- Lactated Ringer's solution Lactated Ringer's solution
-- 100 mg/mL magnesium sulfate solution 100 mg/mL magnesium sulfate solution
-- 0.3% potassium chloride solution 0.3% potassium chloride solution
+- 0.9% sodium chloride in water
+- 5% dextrose in water
+- 20% mannitol
+- Lactated Ringer's solution
+- 100 mg/mL magnesium sulfate solution
+- 0.3% potassium chloride solution
 
 ## 2.6 Compatibility with Natural Rubber
 
-Compatibility studies have demonstrated the potential for absorption of Dexmedetomidine hydrochloride injection to some types of natural rubber.
-Although Dexmedetomidine hydrochloride injection is dosed to effect, it is advisable to use administration components made with synthetic or coated natural rubber gaskets.
+Compatibility studies have demonstrated the potential for absorption of dexmedetomidine hydrochloride injection to some types of natural rubber.
+Although dexmedetomidine hydrochloride injection is dosed to effect, it is advisable to use administration components made with synthetic or coated natural rubber gaskets.
