@@ -9,7 +9,11 @@ Pregnancy Inform patients that rizatriptan benzoate tablets, USP should not be u
 Nursing Mothers Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.3)].
 Ability To Perform Complex Tasks Since migraines or treatment with rizatriptan benzoate tablets, USP may cause somnolence and dizziness, instruct patients to evaluate their ability to perform complex tasks during migraine attacks and after administration of rizatriptan benzoate tablets, USP.
 Medication Overuse Headache Inform patients that use of acute migraine drugs for 10 or more days per month may lead to an exacerbation of headache, and encourage patients to record headache frequency and drug use (e.g., by keeping a headache diary) [see Warnings and Precautions (5.6)].
-Manufactured in India by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai – 400 013, INDIA Distributed by: Ascend Laboratories, LLC, Montvale, NJ 07645 Revised: 03/2016
+Manufactured in India by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai – 400 013, INDIA Distributed by: Ascend Laboratories, LLC
+
+Parsippany, NJ 07054
+
+Revised: 07/2016
 
 Patient Information
 
@@ -24,7 +28,6 @@ Rizatriptan benzoate tablets, USP is not to be used to prevent migraine attacks.
 Rizatriptan benzoate tablets, USP is not for the treatment of hemiplegic or basilar migraines.
 It is not known if rizatriptan benzoate tablets, USP is safe and effective for the treatment of cluster headaches.
 It is not known if taking more than 1 dose of rizatriptan benzoate tablet, USP in 24 hours is safe and effective in children 6 to 17 years of age.
-
 It is not known if rizatriptan benzoate tablet, USP is safe and effective in children under 6 years of age.
 Who should not take rizatriptan benzoate tablets, USP?
 Do not take rizatriptan benzoate tablets, USP if you:
@@ -163,4 +166,8 @@ Active ingredient in rizatriptan benzoate tablets, USP: rizatriptan benzoate.
 Inactive ingredients in rizatriptan benzoate tablets, USP: lactose monohydrate, microcrystalline cellulose, pregelatinized starch (maize), and magnesium stearate.
 Proprietary names mentioned in this leaflet are trademarks of their owners.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Manufactured in India by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai – 400 013, INDIA Distributed by: Ascend Laboratories, LLC, Montvale, NJ 07645 Revised: 03/2016
+Manufactured in India by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai – 400 013, INDIA Distributed by: Ascend Laboratories, LLC
+
+Parsippany, NJ 07054
+
+Revised: 07/2016

@@ -49,29 +49,32 @@ Adverse reaction frequencies were also unchanged by concomitant use of drugs com
 The incidences of adverse reactions were not affected by age or gender.
 There were insufficient data to assess the impact of race on the incidence of adverse reactions.
 
-Other Events Observed in Association with the Administration of Rizatriptan benzoate tablets, USP in Adults
+Other E vents Ob ser ved in A sso ciation with the Admini s tration of Rizatriptan benzoate tablets, USP in Adults
 
-Inthefollowing section, the frequencies of less commonly reported adverse events are presented that were not reported in othersectionsofthelabeling.Becausethereportsincludeevents observed in open studies, the role of rizatriptan benzoate tablets, USP in their causation cannot be reliably determined.
-Furthermore, variabilityassociatedwithadverse event reporting, the terminology used to describe adverse events, limit thevalueofthequantitativefrequencyestimatesprovided.Eventfrequencies are calculated as the numberofpatientswhousedrizatriptan benzoate tablets, USP andreportedaneventdividedbythetotal number of patients exposed to rizatriptan benzoate tablets, USP (N=3716).
-All reported events occurred at an incidence≥1%, or are believed to be reasonablyassociated withtheuse of the drug.
-Events are further classified within body system categoriesandenumeratedin order of decreasing frequency using the following definitions: frequent adverseeventsarethosedefinedasthoseoccurringinatleast(>)1/100patients; infrequent adverse experiencesarethoseoccurringin1/100to1/1000patients;andrare adverse experiences are those occurring in fewer than 1/1000 patients.
+In the following section, the frequencies of less commonly reported adverse events are presented that were not reported in other s ections of the labeling.
+Because the reports include events observed in open studies, the role of rizatriptan benzoate tablets, USP in their cau sation cannot be reliably determined.
+Furthermore, variability associated with adverse event reporting, the terminology used to describe adverse events, limit the value of the quantitative frequency estimates p rovided.
+Event frequencies are calculated as the number of patients who used rizatriptan benzoate tablets, USP and reported an event divided by the total number of patients exposed to rizatriptan benzoate tablets, USP (N=3716).
+All reported events occurred at an incidence ≥1%, or are believed to be reasonably associated with the use of the drug.
+E vents are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are those defined as those occurring in at least (>)1/100 patients; infrequent adverse experiences are those occurring in 1/100 to 1/1000 patients; and rare adverse experiences are those occurring in fewer than 1/1000 patients.
 
-General:Infrequent was facial edema.
+General: Infrequent was facial edema.
 Rare were syncope and edema/swelling.
 
 Atypical Sensations: Frequent were warm sensations.
 
-Cardiovascular:Frequent was palpitation.
+Cardiovascular: Frequent was palpitation.
 Infrequent were tachycardia, cold extremities, and bradycardia.
 
-Digestive:Frequent were diarrhea and vomiting.Infrequent were dyspepsia, tongue edema and abdominal distention.
+Digestive: Frequent were diarrhea and vomiting.
+Infrequent were dyspepsia, tongue edema and abdominal distention.
 
-Musculoskeletal: Infrequent were muscle weakness, stiffness, myalgia and muscle cramp/spasm.
+Musculoskeletal: Infrequent were muscle weakness, stif fness, myalgia and muscle cramp/spasm.
 
 Neurological/Psychiatric: Frequent were hypoesthesia, euphoria and tremor.
-Infrequent were vertigo, insomnia, confusion/disorientation,gait abnormality, memory impairment, and agitation.
+Infrequent were vertigo, insomnia, confusion/disorientation, gait abnormality, memory impairment, and agitation.
 
-Respiratory:Frequent was dyspnea.
+Respiratory: Frequent was dyspnea.
 Infrequent was pharyngeal edema.
 
 Special Senses: Infrequent were blurred vision and tinnitus.
