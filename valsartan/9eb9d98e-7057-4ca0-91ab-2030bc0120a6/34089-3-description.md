@@ -2,7 +2,7 @@
 
 Valsartan is a nonpeptide, orally active, and specific angiotensin II receptor blocker acting on the AT1 receptor subtype.
 
-Valsartan is chemically described as N-(1-oxopentyl)-N-[[2 ′-(1H-tetrazol-5-yl) [1,1 ′-biphenyl]-4-yl]methyl]-L-valine.
+Valsartan is chemically described as N-(1-oxopentyl)-N-[[2′-(1H-tetrazol-5-yl) [1,1′-biphenyl]-4-yl]methyl]-L-valine.
 Its empirical formula is C24H29N5O3, its molecular weight is 435.52, and its structural formula is:
 
 Valsartan is a white to practically white fine powder.

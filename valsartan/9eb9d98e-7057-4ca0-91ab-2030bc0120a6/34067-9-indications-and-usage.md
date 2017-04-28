@@ -26,4 +26,8 @@ Valsartan tablets may be used alone or in combination with other antihypertensiv
 
 Valsartan tablets are indicated for the treatment of heart failure (NYHA class II-IV).
 In a controlled clinical trial, valsartan tablets significantly reduced hospitalizations for heart failure.
-There is no evidence that valsartan tablets provides added benefits when it is used with an adequate dose of an ACE inhibitor [see CLINICAL STUDIES (14.2).
+There is no evidence that valsartan tablets provides added benefits when it is used with an adequate dose of an ACE inhibitor [see CLINICAL STUDIES (14.2)].
+
+## 1.3 Post-Myocardial Infarction
+
+In clinically stable patients with left ventricular failure or left ventricular dysfunction following myocardial infarction, valsartan tablets is indicated to reduce cardiovascular mortality [see CLINICAL STUDIES (14.3)].

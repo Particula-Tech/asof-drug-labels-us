@@ -15,21 +15,22 @@ Valsartan tablets can cause harm or death to an unborn baby.
 Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
 If you get pregnant while taking valsartan tablets, tell your doctor right away.
 
-What is valsartan?
+What is valsartan tablets?
 
-Valsartan is a prescription medicine called an angiotensin receptor blocker (ARB).
+Valsartan tablet is a prescription medicine called an angiotensin receptor blocker (ARB).
 It is used in adults to:
 
 - lower high blood pressure (hypertension) in adults and children, 6 to 16 years of age.
 - treat heart failure in adults.
   In these patients, valsartan tablets may lower the need for hospitalization that happens from heart failure.
+- improve the chance of living longer after a heart attack (myocardial infarction) in adults.
 
-Valsartan is not for children under 6 years of age or children with certain kidney problems.
+Valsartan tablet is not for children under 6 years of age or children with certain kidney problems.
 
 High Blood Pressure (Hypertension).
 Blood pressure is the force in your blood vessels when your heart beats and when your heart rests.
 You have high blood pressure when the force is too much.
-Valsartan can help your blood vessels relax so your blood pressure is lower.
+Valsartan tablet can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to the blood vessels.
@@ -38,27 +39,23 @@ If high blood pressure is not treated, it can lead to stroke, heart attack, hear
 Heart Failure occurs when the heart is weak and cannot pump enough blood to your lungs and the rest of your body.
 Just walking or moving can make you short of breath, so you may have to rest a lot.
 
+Heart Attack (Myocardial Infarction): A heart attack is caused by a blocked artery that results in damage to the heart muscle.
+
 What should I tell my doctor before taking valsartan tablets?
 
 Tell your doctor about all your medical conditions including whether you:
 
-have any allergies.
-See the end of this leaflet for a complete list of ingredients in valsartan tablets.
-
-have a heart condition
-
-have liver problems
-
-have kidney problems
-
-are pregnant or planning to become pregnant.
-See"What is the most important information I should know about valsartan tablets?"
-
-are breastfeeding.
-It is not known if valsartan passes into your breast milk.
-You and your doctor should decide if you will take valsartan tablets or breastfeed, but not both.
-Talk with your doctor about the best way to feed your baby if you take valsartan tablets.
-
+- have any allergies.
+  See the end of this leaflet for a complete list of ingredients in valsartan tablets.
+- have a heart condition
+- have liver problems
+- have kidney problems
+- are pregnant or planning to become pregnant.
+  See "What is the most important information I should know about valsartan tablets?"
+- are breastfeeding.
+  It is not known if valsartan passes into your breast milk.
+  You and your doctor should decide if you will take valsartan tablets or breastfeed, but not both.
+  Talk with your doctor about the best way to feed your baby if you take valsartan tablets.
 - have ever had a reaction called angioedema, to another blood pressure medicine.
   Angioedema causes swelling of the face, lips, tongue and/or throat, and may cause difficulty breathing.
 
@@ -88,7 +85,7 @@ How should I take valsartan tablets?
 - If your child cannot swallow tablets, or if tablets are not available in the prescribed strength, your pharmacist will mix valsartan tablets as a liquid suspension for your child.
   If your child switches between taking the tablet and the suspension, your doctor will adjust the dose as needed.
   Shake the bottle of suspension well for at least 10 seconds before pouring the dose of medicine to give to your child.
-- For adult patients with heart failure, take valsartan tablets two times each day, at the same time each day.
+- For adult patients with heart failure or who have had a heart attack, take valsartan tablets two times each day, at the same time each day.
   Your doctor may start you on a low dose of valsartan tablets and may increase the dose during your treatment.
 - Valsartan tablets can be taken with or without food.
 - If you miss a dose, take it as soon as you remember.
@@ -134,7 +131,15 @@ The most common side effects of valsartan tablets used to treat people with hear
 - tiredness
 - high blood potassium
 
+Common side effects of valsartan tablets used to treat people after a heart attack which caused them to stop taking the drug include:
+
+- low blood pressure
+- cough
+- high blood creatinine (decreased kidney function)
+- rash
+
 Tell your doctor if you get any side effect that bothers you or that does not go away.
+
 These are not all the possible side effects of valsartan tablets.
 For a complete list, ask your doctor or pharmacist.
 
@@ -180,4 +185,4 @@ Goa - 403 722
 
 INDIA.
 
-Revised: October 2015 ID#: 242875
+Revised: May 2017 ID#: 251210

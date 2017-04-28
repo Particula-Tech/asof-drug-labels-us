@@ -47,7 +47,7 @@ Metabolism and Elimination
 
 Valsartan, when administered as an oral solution, is primarily recovered in feces (about 83% of dose) and urine (about 13% of dose).
 The recovery is mainly as unchanged drug, with only about 20% of dose recovered as metabolites.
-The primary metabolite, accounting for about 9% of dose, is valeryl-4-hydroxy valsartan.
+The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan.
 In vitro metabolism studies involving recombinant CYP 450 enzymes indicated that the CYP 2C9 isoenzyme is responsible for the formation of valeryl-4-hydroxy valsartan.
 Valsartan does not inhibit CYP 450 isozymes at clinically relevant concentrations.
 CYP 450 mediated drug interaction between valsartan and coadministered drugs are unlikely because of the low extent of metabolism.
@@ -64,9 +64,7 @@ Special Populations
 Pediatric: In a study of pediatric hypertensive patients (n=26, 1 to 16 years of age) given single doses of a suspension of valsartan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
 
 Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
-No dosage adjustment is necessary [see
-
-DOSAGE AND ADMINISTRATION (2.1)].
+No dosage adjustment is necessary [see DOSAGE AND ADMINISTRATION (2.1)].
 
 Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.
 

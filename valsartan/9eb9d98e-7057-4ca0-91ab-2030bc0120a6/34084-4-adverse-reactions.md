@@ -2,16 +2,16 @@
 
 ## 6.1 Clinical Studies Experience
 
-Because clinical studies are conducted under widely varying conditions, adverse reactions rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-Adult Hypertension
+### Adult Hypertension
 
 Valsartan has been evaluated for safety in more than 4,000 patients, including over 400 treated for over 6 months, and more than 160 for over 1 year.
 Adverse reactions have generally been mild and transient in nature and have only infrequently required discontinuation of therapy.
 The overall incidence of adverse reactions with valsartan was similar to placebo.
 
 The overall frequency of adverse reactions was neither dose-related nor related to gender, age, race, or regimen.
-Discontinuation of therapy due to side effects was required in 2.3% of valsartan patients and 2% of placebo patients.
+Discontinuation of therapy due to side effects was required in 2.3% of valsartan patients and 2.0% of placebo patients.
 The most common reasons for discontinuation of therapy with valsartan were headache and dizziness.
 
 The adverse reactions that occurred in placebo-controlled clinical trials in at least 1% of patients treated with valsartan and at a higher incidence in valsartan (n=2,316) than placebo (n=888) patients included viral infection (3% vs. 2%), fatigue (2% vs. 1%), and abdominal pain (2% vs. 1%).
@@ -49,7 +49,7 @@ Urogenital: Impotence
 
 Other reported events seen less frequently in clinical trials included chest pain, syncope, anorexia, vomiting, and angioedema.
 
-Pediatric Hypertension
+### Pediatric Hypertension
 
 Valsartan has been evaluated for safety in over 400 pediatric patients aged 6 to 17 years and more than 160 pediatric patients aged 6 months to 5 years.
 No relevant differences were identified between the adverse experience profile for pediatric patients aged 6 to 16 years and that previously reported for adult patients.
@@ -61,9 +61,9 @@ Valsartan tablets are not recommended for pediatric patients under 6 years of ag
 In a study (n=90) of pediatric patients (1 to 5 years), two deaths and three cases of on-treatment transaminase elevations were seen in the one-year open-label extension phase.
 These 5 events occurred in a study population in which patients frequently had significant co-morbidities.
 A causal relationship to valsartan tablets has not been established.
-In a second study in which 75 children aged 1 to 6 years were randomized, no deaths and one case of marked liver transaminase elevations occurred during a 1 year open-label extension.
+In a second study of 6-months duration in 75 children aged 1 to 5 years, there were no deaths; one case of marked liver transaminase elevations occurred following 6 months of treatment.
 
-Heart Failure
+### Heart Failure
 
 The adverse experience profile of valsartan in heart failure patients was consistent with the pharmacology of the drug and the health status of the patients.
 In the Valsartan Heart Failure Trial, comparing valsartan in total daily doses up to 320 mg (n=2,506) to placebo (n=2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
@@ -91,37 +91,53 @@ Other adverse reactions with an incidence greater than 1% and greater than place
 
 From the long-term data in the Valsartan Heart Failure Trial, there did not appear to be any significant adverse reactions not previously identified.
 
+### Post-Myocardial Infarction
+
+The safety profile of valsartan was consistent with the pharmacology of the drug and the background diseases, cardiovascular risk factors, and clinical course of patients treated in the post-myocardial infarction setting.
+The table shows the percentage of patients discontinued in the valsartan and captopril-treated groups in the Valsartan in Acute Myocardial Infarction Trial (VALIANT) with a rate of at least 0.5% in either of the treatment groups.
+
+Discontinuations due to renal dysfunction occurred in 1.1% of valsartan-treated patients and 0.8% of captopril-treated patients.
+
+|  | Valsartan (n=4,885) | Captopril (n=4,879) |
+| --- | --- | --- |
+| Discontinuation for adverse reaction | 5.8% | 7.7% |
+| Adverse reactions |  |  |
+| Hypotension NOS | 1.4% | 0.8% |
+| Cough | 0.6% | 2.5% |
+| Blood creatinine increased | 0.6% | 0.4% |
+| Rash NOS | 0.2% | 0.6% |
+
 ## 6.2 Postmarketing Experience
 
 The following additional adverse reactions have been reported in postmarketing experience:
 
-Hypersensitivity
+### Hypersensitivity
 
 There are rare reports of angioedema.
 Some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
 Valsartan tablets should not be re-administered to patients who have had angioedema.
 
-Digestive
+### Digestive
 
 Elevated liver enzymes and very rare reports of hepatitis
 
-Renal
+### Renal
 
 Impaired renal function, renal failure
 
-Clinical Laboratory Tests
+### Clinical Laboratory Tests
 
 Hyperkalemia
 
-Dermatologic
+### Dermatologic
 
 Alopecia, bullous dermatitis
 
-Blood and Lymphatic
+### Blood and Lymphatic
 
 There are very rare reports of thrombocytopenia
 
-Vascular
+### Vascular
 
 Vasculitis
 

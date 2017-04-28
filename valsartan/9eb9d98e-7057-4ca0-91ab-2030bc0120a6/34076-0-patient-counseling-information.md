@@ -24,6 +24,6 @@ Lupin Limited
 
 Goa - 403 722
 
-INDIA.
+INDIA
 
-Revised: February 2016 ID#: 244625
+Revised: May 2017 ID#: 251189
