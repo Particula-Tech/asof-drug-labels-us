@@ -104,32 +104,34 @@ For in-institution use only
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer Rx only
+NDC 0049-0050-01
 
-Zoloft® (sertraline HCl)
+Pfizer Zoloft® (sertraline hydrochloride) oral solution equivalent to
 
-oral concentrate
+20 mg/mL*
 
-equivalent to 20 mg/mL* of sertraline
+of sertraline Must Be Diluted Before Use (see side panel for instructions)
 
-60 mL
+60 mL Rx only
 
 # PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-NDC 0049-4940-23
+NDC 0049-0050-01
 
 Pfizer
 
-Zoloft® (sertraline HCl)
+New Label, Same Product.
 
-oral concentrate
+Zoloft® (sertraline hydrochloride)
+
+oral solution
 
 equivalent to 20 mg/mL* of sertraline
 
+Must Be Diluted Before Use (see side panel for instructions)
+
 CALIBRATED DROPPER ENCLOSED
 
-60 mL
-
-Rx only
+60 mL Rx only

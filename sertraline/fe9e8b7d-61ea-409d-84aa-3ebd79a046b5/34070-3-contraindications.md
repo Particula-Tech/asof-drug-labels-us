@@ -1,16 +1,12 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-## All Dosage Forms of ZOLOFT
+ZOLOFT is contraindicated in patients:
 
-The use of MAOIs intended to treat psychiatric disorders with ZOLOFT or within 14 days of stopping treatment with ZOLOFT is contraindicated because of an increased risk of serotonin syndrome.
-The use of ZOLOFT within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated (see WARNINGS and DOSAGE AND ADMINISTRATION).
+- Taking, or within 14 days of stopping, MAOIs, (including the MAOIs linezolid and intravenous methylene blue) because of an increased risk of serotonin syndrome [See Warnings and Precautions (5.2), Drug Interactions (7.1)].
+- Taking pimozide [See Drug Interactions (7.1)].
+- With known hypersensitivity to sertraline (e.g., anaphylaxis, angioedema) [See Adverse Reactions (6.1, 6.2)].
 
-Starting ZOLOFT in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome (see WARNINGS and DOSAGE AND ADMINISTRATION).
+In addition to the contraindications for all ZOLOFT formulations listed above, ZOLOFT oral solution is contraindicated in patients:
 
-Concomitant use in patients taking pimozide is contraindicated (see PRECAUTIONS).
-
-ZOLOFT is contraindicated in patients with a hypersensitivity to sertraline or any of the inactive ingredients in ZOLOFT.
-
-## Oral Concentrate
-
-ZOLOFT oral concentrate is contraindicated with ANTABUSE (disulfiram) due to the alcohol content of the concentrate.
+- Taking disulfiram.
+  ZOLOFT oral solution contains alcohol, and concomitant use of ZOLOFT and disulfiram may result in a disulfiram-alcohol reaction.

@@ -1,5 +1,1 @@
-Rx only
-
-LAB-0218-35.0
-
-November 2016
+LAB-0218-36.0
