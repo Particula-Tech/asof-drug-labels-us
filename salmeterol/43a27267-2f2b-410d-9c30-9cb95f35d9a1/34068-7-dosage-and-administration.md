@@ -1,0 +1,51 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 General
+
+Fluticasone propionate/salmeterol MDPI should be administered as one inhalation twice daily by the orally inhaled route only.
+Advise the patient to rinse his/her mouth with water without swallowing after each dose.
+
+## 2.2 Dosing
+
+Fluticasone propionate/salmeterol MDPI should be administered as 1 inhalation twice daily (approximately 12 hours apart) by the orally inhaled route.
+Fluticasone propionate/salmeterol MDPI should be used at approximately the same time every day.
+Do not use fluticasone propionate/salmeterol MDPI more than 2 times every 24 hours.
+
+The starting dosage for fluticasone propionate/salmeterol MDPI is based upon patients’ asthma severity.
+The usual recommended starting dose for patients not on inhaled corticosteroids is 55/14 mcg twice daily.
+For other patients, the starting dose should be based on previous asthma drug therapy and disease severity.
+For patients switching to fluticasone propionate/salmeterol MDPI from another inhaled corticosteroid or combination product, select the low (55/14 mcg), medium (113/14 mcg) or high (232/14 mcg) dose strength of fluticasone propionate/salmeterol MDPI based on the strength of the previous inhaled corticosteroid product or the strength of the inhaled corticosteroid from a combination product and disease severity.
+For patients who do not respond to fluticasone propionate/salmeterol MDPI 55/14 mcg after 2 weeks of therapy, increasing the dose may provide additional asthma control.
+
+If a dosage regimen of fluticasone propionate/salmeterol MDPI fails to provide adequate control of asthma, the therapeutic regimen should be re-evaluated and additional therapeutic options (e.g., replacing the current strength of fluticasone propionate/salmeterol MDPI with a higher strength, or adding additional controller therapies) should be considered.
+
+The highest recommended dose of fluticasone propionate/salmeterol MDPI is 232/14 mcg twice daily.
+More frequent administration or a greater number of inhalations (more than one inhalation twice daily) of the prescribed strength of fluticasone propionate/salmeterol MDPI is not recommended as some patients are more likely to experience adverse effects with higher doses of salmeterol.
+Patients using fluticasone propionate/salmeterol MDPI should not use additional LABA for any reason [see Warnings and Precautions (5.3, 5.11)].
+
+If asthma symptoms arise in the period between doses, an inhaled, short-acting beta2-agonist should be taken for immediate relief.
+
+Improvement in asthma control following inhaled administration of fluticasone propionate/salmeterol MDPI can occur within 15 minutes of beginning treatment, although maximum benefit may not be achieved for 1 week or longer after starting treatment.
+Individual patients will experience a variable time to onset and degree of symptom relief.
+
+After asthma stability has been achieved, it is desirable to titrate to the lowest effective dosage to reduce the possibility of side effects.
+
+For patients who do not respond adequately to the starting dose after 2 weeks of therapy, replacing the current strength of fluticasone propionate/salmeterol MDPI with a higher strength may provide additional improvement in asthma control.
+
+If a previously effective dosage regimen fails to provide adequate improvement in asthma control, the therapeutic regimen should be reevaluated and additional therapeutic options (e.g., replacing the current strength of fluticasone propionate/salmeterol MDPI with a higher strength, adding additional controller therapies) should be considered.
+
+Fluticasone propionate/salmeterol MDPI does not require priming.
+Do not use fluticasone propionate/salmeterol MDPI with a spacer or volume holding chamber.
+
+Cleaning:
+
+- •Keep the inhaler in a cool dry place.
+  Never wash or put any part of the inhaler in water.
+- •Routine maintenance is not required.
+  If the mouthpiece needs cleaning, gently wipe the mouthpiece with a dry cloth or tissue as needed.
+
+Dose Counter: The fluticasone propionate/salmeterol MDPI inhaler has a dose counter.
+When the patient receives the inhaler, the number 60 will be displayed.
+The dose counter will count down each time the mouthpiece is opened and closed.
+The dose counter window displays the number of actuations (inhalations) left in the inhaler in units of two (e.g., 60, 58, 56, etc.). When the dose counter reaches 20, the color of the numbers will change to red to remind the patient to contact their pharmacist for a refill of medication or consult their physician for a prescription refill.
+When the dose counter reaches 0, the background will change to solid red and the color of the numbers will change to black.

@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA208799"
+  ],
+  "inn": "salmeterol",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-3607-82",
+    "0093-3608-82",
+    "0093-3609-82"
+  ],
+  "products": [
+    {
+      "form": "POWDER, METERED",
+      "generic": "fluticasone propionate and salmeterol",
+      "name": "Fluticasone Propionate and Salmeterol"
+    }
+  ],
+  "setid": "43a27267-2f2b-410d-9c30-9cb95f35d9a1",
+  "source": "dailymed"
+}
