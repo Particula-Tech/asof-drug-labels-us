@@ -1,4 +1,4 @@
-# PATIENT INFORMATION
+# Patient Information
 
 Xulane® [zhoo’ lane] (norelgestromin and ethinyl estradiol transdermal system) 150 mcg/day norelgestromin and 35 mcg/day ethinyl estradiol
 
@@ -127,7 +127,7 @@ How should I use Xulane?
   Make sure you remove your old Xulane patch before applying your new Xulane patch.
 - •Do not skip using any Xulane patches, even if you do not have sex often.
 - •Xulane is applied in a 4-week cycle.
-  - oApply your Xulane patch one time each week for 3 weeks (21 total days).
+  - oApply your Xulane patch 1 time each week for 3 weeks (21 total days).
   - oApply each new Xulane patch on the same day of the week.
     This day will be your "Patch Change Day."
     For example, if you apply your first Xulane patch on a Monday, all of your Xulane patches should be applied on a Monday.
@@ -223,7 +223,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store and throw away used Xulane patches?
 
-- •Store at 20° to 25°C (68° to 77°F).
+- •Store at room temperature between 20° to 25°C (68° to 77°F).
 - •Do not store Xulane patches outside of their pouches.
   Apply immediately upon removal from the protective pouch.
 - •Do not store in the refrigerator or freezer.

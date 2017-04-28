@@ -17,7 +17,7 @@ The use of combination hormonal contraceptives (CHCs) increases the risk of VTE.
 Known risk factors for VTE include smoking, obesity and family history of VTE, in addition to other factors that contraindicate use of CHCs [see Contraindications (4)].
 
 Five epidemiologic studies1- 9 that assessed the risk of VTE associated with use of norelgestromin and ethinyl estradiol transdermal system are described below.
-These are four case control studies, that compared VTE rates among women using norelgestromin and ethinyl estradiol transdermal system to rates among women using an OC comparator, and an FDA-funded cohort study that estimated and compared VTE rates among women using various hormonal contraceptives, including norelgestromin and ethinyl estradiol transdermal system.
+These are 4 case control studies, that compared VTE rates among women using norelgestromin and ethinyl estradiol transdermal system to rates among women using an OC comparator, and an FDA-funded cohort study that estimated and compared VTE rates among women using various hormonal contraceptives, including norelgestromin and ethinyl estradiol transdermal system.
 All five studies were retrospective studies from U.S. electronic healthcare databases and included women aged 15 to 44 (10 to 55 in the FDA-funded study) who used norelgestromin and ethinyl estradiol transdermal system or oral contraceptives containing 20 mcg to 35 mcg of ethinyl estradiol (EE) and levonorgestrel (LNG), norethindrone, or norgestimate (NGM).
 NGM is the prodrug for NGMN, the progestin in Xulane.
 

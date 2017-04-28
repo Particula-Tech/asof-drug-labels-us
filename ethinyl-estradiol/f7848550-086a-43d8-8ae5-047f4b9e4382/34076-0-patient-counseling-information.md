@@ -32,4 +32,4 @@ Counsel patients about the following information:
     She should start a new cycle immediately by applying a new patch.
     Back-up contraception, such as a condom and spermicide or diaphragm and spermicide, must be used for the first week of the new cycle.
 
-**The brand names mentioned are registered trademarks of their respective manufacturers.
+The brands listed are trademarks of their respective owners.

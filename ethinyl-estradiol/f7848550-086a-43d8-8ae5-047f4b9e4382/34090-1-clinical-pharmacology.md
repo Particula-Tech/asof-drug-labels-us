@@ -18,7 +18,7 @@ One clinical trial assessed the return of hypothalamic-pituitary-ovarian axis fu
 
 The systemic delivery rate of NGMN and EE from norelgestromin and ethinyl estradiol transdermal system is approximately 150 mcg of NGMN and 35 mcg of EE per day based on a comparative analysis with intravenous (IV) data.
 Following a single application of norelgestromin and ethinyl estradiol transdermal system, both NGMN and EE reach a plateau by approximately 48 hours.
-Pooled data from the three clinical studies have demonstrated that steady state is reached within 2 weeks of application.
+Pooled data from the 3 clinical studies have demonstrated that steady state is reached within 2 weeks of application.
 In one of the clinical studies, Css concentrations across all subjects ranged from 0.305 to 1.53 ng/mL for NGMN and from 23 to 137 pg/mL for EE.
 
 Absorption of NGMN and EE following application of norelgestromin and ethinyl estradiol transdermal system to the buttock, upper outer arm, abdomen and upper torso (excluding breast) was examined.
@@ -32,16 +32,16 @@ Upon removal of the patch, serum levels of EE and NGMN reach very low or non-mea
 
 Table 5: Mean (%CV%CV is % of Coefficient of variation = 100 (standard deviation/mean)) PK Parameters of NGMN and EE Following Three Consecutive Cycles of Norelgestromin and Ethinyl Estradiol Transdermal System Wear on the Buttock
 
-|  | Analyte | Parameter | Cycle 1 | Cycle 3 | Cycle 3 | Cycle 3 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Week 1 | Week 1 | Week 2 | Week 3 |
-|  | NGMN | Css (ng/mL) | 0.70 (39.4) | 0.70 (41.8) | 0.80 (28.7) | 0.70 (45.3) |
-|  |  | AUC0-168 (ng·h/mL) | 107 (44.2) | 105 (43.2) | 132 (43.4) | 120 (43.9) |
-|  |  | t1/2 (h) | nc | nc | nc | 32.1 (40.3) |
-|  | EE | Css (pg/mL) | 46.4 (38.5) | 47.6 (36.4) | 59.0 (42.5) | 49.6 (54.4) |
-|  |  | AUC0-168 (pg·h/mL) | 6796 (39.3) | 7160 (40.4) | 10054 (41.8) | 8840 (58.6) |
-|  |  | t1/2 (h) | nc | nc | nc | 21.0 (43.2) |
-| nc = not calculated |  |  |  |  |  |  |
+| Analyte | Parameter | Cycle 1 | Cycle 3 | Cycle 3 | Cycle 3 |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Week 1 | Week 1 | Week 2 | Week 3 |
+| NGMN | Css (ng/mL) | 0.70 (39.4) | 0.70 (41.8) | 0.80 (28.7) | 0.70 (45.3) |
+|  | AUC0-168 (ng·h/mL) | 107 (44.2) | 105 (43.2) | 132 (43.4) | 120 (43.9) |
+|  | t1/2 (h) | nc | nc | nc | 32.1 (40.3) |
+| EE | Css (pg/mL) | 46.4 (38.5) | 47.6 (36.4) | 59.0 (42.5) | 49.6 (54.4) |
+|  | AUC0-168 (pg·h/mL) | 6796 (39.3) | 7160 (40.4) | 10054 (41.8) | 8840 (58.6) |
+|  | t1/2 (h) | nc | nc | nc | 21.0 (43.2) |
+| nc = not calculated |  |  |  |  |  |
 
 Figure 3: Mean Serum NGMN Concentrations (ng/mL) in Healthy Female Volunteers Following Application of Norelgestromin and Ethinyl Estradiol Transdermal System on the Buttock for Three Consecutive Cycles (Vertical arrow indicates time of patch removal)
 
@@ -77,10 +77,10 @@ The metabolites of NGMN and EE are eliminated by renal and fecal pathways.
 The norelgestromin and ethinyl estradiol transdermal system delivers EE and NGMN over a 7-day period while oral contraceptives (containing NGM 250 mcg / EE 35 mcg) are administered on a daily basis.
 Figures 5 and 6 present mean PK profiles for EE and NGMN following administration of an oral contraceptive (containing NGM 250 mcg / EE 35 mcg) compared to the 7-day norelgestromin and ethinyl estradiol transdermal system (containing NGMN 4.86 mg / EE 0.53 mg) during Cycle 2 in 32 healthy female volunteers.
 
-Figure 5: Mean Serum Concentration-Time Profiles of NGMN Following Once-Daily Administration of an Oral Contraceptive for two cycles or Application of Norelgestromin and Ethinyl Estradiol Transdermal System for two cycles to the Buttock in Healthy Female Volunteers.
+Figure 5: Mean Serum Concentration-Time Profiles of NGMN Following Once-Daily Administration of an Oral Contraceptive for Two Cycles or Application of Norelgestromin and Ethinyl Estradiol Transdermal System for Two Cycles to the Buttock in Healthy Female Volunteers.
 [Oral contraceptive: Cycle 2, Days 15 to 21, Norelgestromin and Ethinyl Estradiol Transdermal System: Cycle 2, Week 3]
 
-Figure 6: Mean Serum Concentration-Time Profiles of EE Following Once-Daily Administration of an Oral Contraceptive for two cycles or Application of Norelgestromin and Ethinyl Estradiol Transdermal System for two cycles to the Buttock in Healthy Female Volunteers.
+Figure 6: Mean Serum Concentration-Time Profiles of EE Following Once-Daily Administration of an Oral Contraceptive for Two Cycles or Application of Norelgestromin and Ethinyl Estradiol Transdermal System for Two Cycles to the Buttock in Healthy Female Volunteers.
 [Oral contraceptive: Cycle 2, Days 15 to 21, Norelgestromin and Ethinyl Estradiol Transdermal System: Cycle 2, Week 3]
 
 Table 6 provides the mean (%CV) for NGMN and EE pharmacokinetic (PK) parameters.

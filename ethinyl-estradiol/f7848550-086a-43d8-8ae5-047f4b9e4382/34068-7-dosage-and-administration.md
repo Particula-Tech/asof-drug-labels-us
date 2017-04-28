@@ -38,7 +38,7 @@ The woman has two options for starting the patch and she should choose the optio
 
 Start contraceptive therapy with Xulane in women who elect not to breastfeed no sooner than 4 weeks after childbirth due to increased risk of thromboembolism.
 If a woman begins using Xulane postpartum, and has not yet had a period, consider the possibility of ovulation and conception occurring prior to use of Xulane, and instruct her to use an additional method of contraception, such as a condom and spermicide or diaphragm and spermicide, for the first 7 days.
-[see Warnings and Precautions (5.1) and Pregnancy (8.1).]
+[See Warnings and Precautions (5.1) and Pregnancy (8.1).]
 
 ### Use after Abortion or Miscarriage
 
@@ -49,7 +49,7 @@ In the meantime she should be advised to use a non-hormonal contraceptive method
 Ovulation may occur within 10 days of an abortion or miscarriage.
 
 Start Xulane no earlier than 4 weeks after a second trimester abortion or miscarriage, due to the increased risk of thromboembolic disease.
-[see Contraindications (4) and Warnings and Precautions (5.1).]
+[See Contraindications (4) and Warnings and Precautions (5.1).]
 
 ## 2.3 How to Apply Xulane
 
@@ -77,7 +77,7 @@ HOW TO APPLY THE PATCH
 
 WHEN TO CHANGE THE XULANE PATCH
 
-- •The patch works for 7 days (one week).
+- •The patch works for 7 days (1 week).
   The woman should apply a new patch on the same day each week (her Patch Change Day) for 3 weeks in a row.
   She must make sure she has removed her old patch prior to applying the new patch.
 - •During Week 4, she DOES NOT wear a patch.
@@ -120,7 +120,7 @@ IF THE WOMAN FORGETS TO CHANGE HER PATCH
   - -for more than 2 days (48 hours or more), SHE MAY NOT BE PROTECTED FROM PREGNANCY.
     She should stop the current contraceptive cycle and start a new 4-week cycle immediately by putting on a new patch.
     There is now a new “Patch Change Day” and a new “Day 1.”
-    The woman must use back-up contraception for one week.
+    The woman must use back-up contraception for 1 week.
 - •at the end of the patch cycle (Week 4/Day 22),
   - -If the woman forgets to remove her patch, she should take it off as soon as she remembers.
     The next cycle should be started on the usual “Patch Change Day,” which is the day after Day 28.

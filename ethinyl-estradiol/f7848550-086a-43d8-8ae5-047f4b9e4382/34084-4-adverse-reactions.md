@@ -18,7 +18,7 @@ Adverse reactions commonly reported by users of combination hormonal contracepti
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 The data described below reflect exposure to norelgestromin and ethinyl estradiol transdermal system in 3330 sexually active women (3322 of whom had safety data) who participated in three Phase 3 clinical trials designed to evaluate contraceptive efficacy and safety.
-These subjects received six or 13 cycles of contraception (norelgestromin and ethinyl estradiol transdermal system or an oral contraceptive comparator in two of the trials).
+These subjects received six or 13 cycles of contraception (norelgestromin and ethinyl estradiol transdermal system or an oral contraceptive comparator in 2 of the trials).
 The women ranged in age from 18 to 45 years and were predominantly white (91%).
 
 The most common adverse reactions (≥ 5%) reported during clinical trials were breast symptoms, nausea/vomiting, headache, application site disorder, abdominal pain, dysmenorrhea, vaginal bleeding and menstrual disorders, and mood, affect and anxiety disorders.

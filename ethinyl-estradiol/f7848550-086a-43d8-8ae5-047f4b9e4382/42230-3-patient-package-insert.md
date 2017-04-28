@@ -1,4 +1,4 @@
-# INSTRUCTIONS FOR USE
+# Instructions for Use
 
 Xulane is for skin use only.
 
@@ -15,9 +15,9 @@ How to start using your Xulane patch:
 - •If you are changing from the pill or vaginal contraceptive ring to the Xulane patch:
   - oComplete your current pill cycle or vaginal ring cycle.
     Apply your first Xulane patch on the day you would normally start your next pill or insert your next vaginal ring.
-  - oIf you do not get your period within one week after taking your last active pill or removing your last vaginal ring, check with your healthcare provider to make sure you are not pregnant.
+  - oIf you do not get your period within 1 week after taking your last active pill or removing your last vaginal ring, check with your healthcare provider to make sure you are not pregnant.
     You may still go ahead and start Xulane for contraception.
-  - oIf you apply your Xulane patch more than one week after taking your last active pill or removing your last vaginal ring, use a non-hormonal contraceptive method with the Xulane patch for the first 7 days of patch use.
+  - oIf you apply your Xulane patch more than 1 week after taking your last active pill or removing your last vaginal ring, use a non-hormonal contraceptive method with the Xulane patch for the first 7 days of patch use.
 - •If you are starting Xulane after childbirth:
   - oIf you are not breastfeeding, wait 4 weeks before using Xulane and use a non-hormonal contraceptive method of birth control, such as a condom and spermicide or diaphragm and spermicide, for the first 7 days of your first cycle only.
     If you have had sex since your baby was born, wait for your first period, or see your healthcare provider to make sure you are not pregnant before starting Xulane.
@@ -25,7 +25,7 @@ How to start using your Xulane patch:
   - oYou may start Xulane immediately after a miscarriage or abortion that occurs in the first 12 weeks (first trimester) of pregnancy.
     You do not need to use another contraceptive method.
   - oIf you do not start Xulane within 5 days after a first trimester miscarriage or abortion, use a non-hormonal contraceptive method of birth control, such as a condom and spermicide or diaphragm and spermicide, while you wait for your period to start.
-    You have two ways to begin using your Xulane patch.
+    You have 2 ways to begin using your Xulane patch.
     Choose the way that is best for you:
     - ▪First day start: Apply your first Xulane patch during the first 24 hours of your menstrual period.
     - ▪Sunday start: Apply your first Xulane patch on the first Sunday after your menstrual period begins.
@@ -111,6 +111,6 @@ Important notes:
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED MARCH 2016 NEETS:R12
+Revised: 3/2017 NEETS:R13

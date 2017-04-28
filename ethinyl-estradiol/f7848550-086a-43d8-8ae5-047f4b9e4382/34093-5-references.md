@@ -7,9 +7,9 @@
    Contraception 2006; 73: 223-228.
 3. 3.Jick S, Kaye JA, Jick H. Further results on the risk of nonfatal venous thromboembolism in users of the contraceptive transdermal patch compared to users of oral contraceptives containing norgestimate and 35 µg of EE.
    Contraception 2007; 76: 4-7.
-4. 4.Jick S, Hagberg K, Hernandez R, Kaye J. Postmarketing study of ORTHO EVRA®** and levonorgestrel oral contraceptives containing hormonal contraceptives with 30 mcg of ethinyl estradiol in relation to nonfatal venous thromboembolism.
+4. 4.Jick S, Hagberg K, Hernandez R, Kaye J. Postmarketing study of ORTHO EVRA® and levonorgestrel oral contraceptives containing hormonal contraceptives with 30 mcg of ethinyl estradiol in relation to nonfatal venous thromboembolism.
    Contraception 2010; 81: 16-21.
-5. 5.Jick S, Hagberg K, Kaye J. ORTHO EVRA®** and venous thromboembolism: an update.
+5. 5.Jick S, Hagberg K, Kaye J. ORTHO EVRA® and venous thromboembolism: an update.
    Letter to the Editor.
    Contraception 2010; 81: 452-453.
 6. 6.Dore D, Norman H, Loughlin J, Seeger D. Extended case-control study results on thromboembolic outcomes among transdermal contraceptive users.
