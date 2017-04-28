@@ -1,18 +1,7 @@
-© 2002, 2003 Alcon, Inc.
+© 2002, 2003, 2016 Novartis
 
-Revised: October 2003
+Distributed by: ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA
 
-1002 45016-A
+Alcon® a Novartis company
 
-Manufactured for:
-
-ALCON LABORATORIES, INC.
-
-Fort Worth, Texas 76134 USA
-
-Manufactured by:
-
-S.A.
-ALCON-COUVREUR N.V.
-
-Puurs, Belgium
+T2017-55 April 2017
