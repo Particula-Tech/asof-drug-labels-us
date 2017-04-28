@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "part333C"
+  ],
+  "inn": "clotrimazole",
+  "labeler": "Famar Montreal Inc",
+  "package_ndcs": [
+    "69213-6549-1"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "clotrimazole",
+      "name": "Lotrimin"
+    }
+  ],
+  "setid": "4e2cd6ec-ed9e-1f45-e054-00144ff88e88",
+  "source": "dailymed"
+}
