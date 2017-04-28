@@ -1,6 +1,12 @@
 # 1 INDICATIONS AND USAGE
 
-Morphine sulfate oral solution 100 mg per 5 mL (20 mg/mL) is an opioid analgesic indicated for the relief of moderate to severe acute and chronic pain in opioid-tolerant patients.
+Morphine sulfate oral solution is indicated for the management of acute and chronic pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate.
 
-Morphine sulfate oral solution 100 mg per 5 mL (20 mg/mL) may cause fatal respiratory depression when administered to patients not previously exposed to opioids.
-Patients considered to be opioid tolerant are those who are taking at least 60 mg oral morphine per day, or at least 30 mg of oral oxycodone per day, or at least 12 mg hydromorphone per day, or an equianalgesic dose of another opioid, for a week or longer.
+Morphine sulfate oral solution 100 mg per 5 mL (20 mg/mL) is indicated for the relief of acute and chronic pain in opioid-tolerant patients.
+
+Limitations of Use
+
+Because of the risks of addiction, abuse, and misuse with opioids, even at recommended doses [see Warnings and Precautions (5.2)], reserve morphine sulfate oral solution for use in patients for whom alternative treatment options [e.g., non-opioid analgesics or opioid combination products]:
+
+- Have not been tolerated, or are not expected to be tolerated,
+- Have not provided adequate analgesia, or are not expected to provide adequate analgesia

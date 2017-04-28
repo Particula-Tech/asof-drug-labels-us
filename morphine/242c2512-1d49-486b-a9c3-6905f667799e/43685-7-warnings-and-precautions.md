@@ -1,78 +1,142 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Risk of Medication Errors
+## 5.1 Risk of Accidental Overdose and Death due to Medication Errors
 
-Morphine sulfate oral solution is available in the 100 mg per 5 mL (20 mg/mL) concentration.
-Use caution when prescribing, dispensing, and administering morphine sulfate oral solution to avoid dosing errors due to confusion between different concentrations and between mg and mL, which could result in accidental overdose and death.
-Use caution to ensure the dose is communicated clearly and dispensed accurately.
-Always use the enclosed calibrated oral syringe when administering morphine sulfate oral solution 100 mg per 5 mL (20 mg/mL) to ensure the dose is measured and administered accurately.
+Dosing errors can result in accidental overdose and death.
+Avoid dosing errors that may result from confusion between mg and mL and confusion with morphine solutions of different concentrations, when prescribing, dispensing, and administering morphine sulfate oral solution.
+Ensure that the dose is communicated clearly and dispensed accurately.
+Always use the enclosed calibrated oral syringe when administering morphine sulfate oral solution to ensure the dose is measured and administered accurately.
+A household teaspoon or tablespoon is not an adequate measuring device.
+Given the inexactitude of the household spoon measure and the possibility of using a tablespoon instead of a teaspoon, which could lead to overdosage, it is strongly recommended that caregivers obtain and use a calibrated measuring device.
+Healthcare providers should recommend a calibrated device that can measure and deliver the prescribed dose accurately, and instruct caregivers to use extreme caution in measuring the dosage.
 
-## 5.2 Respiratory Depression
+## 5.2 Addiction, Abuse, and Misuse
 
-Respiratory depression is the primary risk of morphine sulfate.
-Respiratory depression occurs more frequently in elderly or debilitated patients and in those suffering from conditions accompanied by hypoxia, hypercapnia, or upper airway obstruction, in whom even moderate therapeutic doses may significantly decrease pulmonary ventilation.
+Morphine sulfate oral solution contains morphine, a Schedule II controlled substance.
+As an opioid, morphine sulfate oral solution exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
 
-Use morphine sulfate with extreme caution in patients with chronic obstructive pulmonary disease or cor pulmonale and in patients having a substantially decreased respiratory reserve (e.g., severe kyphoscoliosis), hypoxia, hypercapnia, or preexisting respiratory depression.
-In such patients, even usual therapeutic doses of morphine sulfate may increase airway resistance and decrease respiratory drive to the point of apnea.
-Consider alternative non-opioid analgesics, and use morphine sulfate only under careful medical supervision at the lowest effective dose in such patients.
+Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed morphine sulfate.
+Addiction can occur at recommended dosages and if the drug is misused or abused.
+
+Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing morphine sulfate oral solution, and monitor all patients receiving morphine sulfate oral solution for the development of these behaviors and conditions.
+Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+The potential for these risks should not, however, prevent the proper management of pain in any given patient.
+Patients at increased risk may be prescribed opioids such as morphine sulfate oral solution, but use in such patients necessitates intensive counseling about the risks and proper use of morphine sulfate oral solution along with intensive monitoring for signs of addiction, abuse, and misuse.
+
+Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
+Consider these risks when prescribing or dispensing morphine sulfate oral solution.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+
+## 5.3 Life-Threatening Respiratory Depression
+
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
+Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+
+While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of morphine sulfate oral solution, the risk is greatest during the initiation of therapy or following a dosage increase.
+Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy with and following dosage increases of morphine sulfate oral solution.
+
+To reduce the risk of respiratory depression, proper dosing and titration of morphine sulfate oral solution are essential [see Dosage and Administration (2)].
+Overestimating the morphine sulfate oral solution dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
 Morphine sulfate oral solution 100 mg per 5 mL (20 mg/mL) is for use in opioid-tolerant patients only.
 Administration of this formulation may cause fatal respiratory depression when administered to patients who are not tolerant to the respiratory depressant effects of opioids.
 
-## 5.3 Misuse, Abuse and Diversion of Opioids
+Accidental ingestion of even one dose of morphine sulfate oral solution, especially by children, can result in respiratory depression and death due to an overdose of morphine.
 
-Morphine sulfate is an opioid agonist and a Schedule II controlled substance.
-Such drugs are sought by drug abusers and people with addiction disorders.
-Diversion of Schedule II products is an act subject to criminal penalty.
+## 5.4 Neonatal Opioid Withdrawal Syndrome
 
-Morphine sulfate can be abused in a manner similar to other opioid agonists, legal or illicit.
-This should be considered when prescribing or dispensing morphine sulfate in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse, or diversion.
+Prolonged use of morphine sulfate oral solution during pregnancy can result in withdrawal in the neonate.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
-Morphine sulfate may be abused by inhaling or injecting the product.
-These practices pose a significant risk to the abuser that could result in overdose and death [see Drug Abuse and Dependence (9)].
+## 5.5 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Concerns about abuse, addiction, and diversion should not prevent the proper management of pain.
-Healthcare professionals should contact their State Professional Licensing Board or State Controlled Substances Authority for information on how to prevent and detect abuse or diversion of this product.
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of morphine sulfate oral solution with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
-## 5.4 Interactions with Alcohol and Drugs of Abuse
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
+Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
+If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
+If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
+Follow patients closely for signs and symptoms of respiratory depression and sedation.
 
-Morphine sulfate may be expected to have additive effects when used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression because respiratory depression, hypotension, profound sedation, coma or death may result.
+Advise both patients and caregivers about the risks of respiratory depression and sedation when morphine sulfate oral solution is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7) and Patient Counseling Information (17)].
 
-## 5.5 Use in Head Injury and Increased Intracranial Pressure
+## 5.6 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
-In the presence of head injury, intracranial lesions or a preexisting increase in intracranial pressure, the possible respiratory depressant effects of morphine sulfate and its potential to elevate cerebrospinal fluid pressure (resulting from vasodilation following CO2 retention) may be markedly exaggerated.
-Furthermore, morphine sulfate can produce effects on pupillary response and consciousness, which may obscure neurologic signs of further increases in intracranial pressure in patients with head injuries.
+The use of morphine sulfate oral solution in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-## 5.6 Hypotensive Effects
+Patients with Chronic Pulmonary Disease
 
-Morphine sulfate may cause severe hypotension in an individual whose ability to maintain blood pressure has already been compromised by a depleted blood volume or concurrent administration of drugs such as phenothiazines or general anesthetics.
-Morphine sulfate may produce orthostatic hypotension and syncope in ambulatory patients.
+Morphine sulfate oral solution-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of morphine sulfate oral solution [see Warnings and Precautions (5.3)].
 
-Administer morphine sulfate with caution to patients in circulatory shock, as vasodilation produced by the drug may further reduce cardiac output and blood pressure.
+Elderly, Cachectic, or Debilitated Patients
 
-## 5.7 Gastrointestinal Effects
+Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
 
-Do not administer morphine sulfate to patients with gastrointestinal obstruction, especially paralytic ileus because morphine sulfate diminishes propulsive peristaltic waves in the gastrointestinal tract and may prolong the obstruction.
+Monitor such patients closely, particularly when initiating and titrating morphine sulfate oral solution and when morphine sulfate oral solution is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.3)].
+Alternatively, consider the use of non-opioid analgesics in these patients.
 
-The administration of morphine sulfate may obscure the diagnosis or clinical course in patients with acute abdominal condition.
+## 5.7 Interaction with Monoamine Oxidase Inhibitors
 
-## 5.8 Use in Pancreatic/Biliary Tract Disease
+Monoamine oxidase inhibitors (MAOIs) may potentiate the effects of morphine, including respiratory depression, coma, and confusion.
+Morphine sulfate oral solution should not be used in patients taking MAOIs or within 14 days of stopping such treatment.
 
-Use morphine sulfate with caution in patients with biliary tract disease, including acute pancreatitis, as morphine sulfate may cause spasm of the sphincter of Oddi and diminish biliary and pancreatic secretions.
+## 5.8 Adrenal Insufficiency
 
-## 5.9 Special Risk Groups
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
+If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
+Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
+Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
+The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-Use morphine sulfate with caution and in reduced dosages in patients with severe renal or hepatic impairment, Addison’s disease, hypothyroidism, prostatic hypertrophy, or urethral stricture, and in elderly or debilitated patients [see Use in Specific Populations (8.5)].
+## 5.9 Severe Hypotension
 
-Exercise caution in the administration of morphine sulfate to patients with CNS depression, toxic psychosis, acute alcoholism and delirium tremens.
+Morphine sulfate oral solution may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
+Monitor these patients for signs of hypotension after initiating or titrating the dosage of morphine sulfate oral solution.
+In patients with circulatory shock, morphine sulfate oral solution may cause vasodilation that can further reduce cardiac output and blood pressure.
+Avoid the use of morphine sulfate oral solution in patients with circulatory shock.
 
-All opioids may aggravate convulsions in patients with convulsive disorders, and all opioids may induce or aggravate seizures in some clinical settings.
+## 5.10 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-Keep morphine sulfate oral solution out of the reach of children.
-In case of accidental ingestion, seek emergency medical help immediately.
+In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), morphine sulfate oral solution may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with morphine sulfate oral solution.
 
-## 5.10 Driving and Operating Machinery
+Opioids may also obscure the clinical course in a patient with a head injury.
+Avoid the use of morphine sulfate oral solution in patients with impaired consciousness or coma.
 
-Caution patients that morphine sulfate could impair the mental and/or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
+## 5.11 Risks of Use in Patients with Gastrointestinal Conditions
 
-Caution patients about the potential combined effects of morphine sulfate with other CNS depressants, including other opioids, phenothiazines, sedative/hypnotics and alcohol [see Drug Interactions (7)].
+Morphine sulfate oral solution is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
+
+The morphine in morphine sulfate oral solution may cause spasm of the sphincter of Oddi.
+Opioids may cause increases in serum amylase.
+Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+## 5.12 Increased Risk of Seizures in Patients with Seizure Disorders
+
+The morphine in morphine sulfate oral solution may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
+Monitor patients with a history of seizure disorders for worsened seizure control during morphine sulfate oral solution therapy.
+
+## 5.13 Withdrawal
+
+Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including morphine sulfate oral solution.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
+
+When discontinuing morphine sulfate oral solution, gradually taper the dosage [see Dosage and Administration (2.4)].
+Do not abruptly discontinue morphine sulfate oral solution [see Drug Abuse and Dependence (9.3)].
+
+## 5.14 Risks of Driving and Operating Machinery
+
+Morphine sulfate oral solution may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
+Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of morphine sulfate oral solution and know how they will react to the medication [see Patient Counseling Information (17)].
