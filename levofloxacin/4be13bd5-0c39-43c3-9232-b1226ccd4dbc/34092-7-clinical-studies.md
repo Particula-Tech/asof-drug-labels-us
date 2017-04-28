@@ -258,7 +258,7 @@ A placebo-controlled animal study in African green monkeys exposed to an inhaled
 The minimal inhibitory concentration (MIC) of levofloxacin for the Y. pestis strain used in this study was 0.03 mcg/mL.
 Mean plasma concentrations of levofloxacin achieved at the end of a single 30 min infusion ranged from 2.84 to 3.50 mcg/mL in African green monkeys.
 Trough concentrations at 24 hours post-dose ranged from <0.03 to 0.06 mcg/mL.
-Mean (SD) AUC0-24 was 11.9 (3.1) mcg.h/mL (range 9.5 to 16.86 mcg.h/mL).
+Mean (SD) AUC0-24 was 11.9 (3.1) mcg.h/mL (range 9.50 to 16.86 mcg.h/mL).
 Animals were randomized to receive either a 10-day regimen of i.v. levofloxacin or placebo beginning within 6 hrs of the onset of telemetered fever (≥ 39οC for more than 1 hour).
 Mortality in the levofloxacin group was significantly lower (1/17) compared to the placebo group (7/7) [p<0.001, Fisher's Exact Test; exact 95% confidence interval (-99.9%, -55.5%) for the difference in mortality].
 One levofloxacin-treated animal was euthanized on Day 9 post-exposure to Y. pestis due to a gastric complication; it had a blood culture positive for Y. pestis on Day 3 and all subsequent daily blood cultures from Day 4 through Day 7 were negative.

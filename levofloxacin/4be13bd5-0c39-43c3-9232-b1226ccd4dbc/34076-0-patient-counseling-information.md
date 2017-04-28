@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-Approved Medication Guide (17.6)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-## 17.1 Serious Adverse Reactions
+Serious Adverse Reactions
 
 Advise patients to stop taking levofloxacin tablets if they experience an adverse reaction and to call their healthcare provider for advice on completing the full course of treatment with another antibacterial drug.
 
@@ -36,14 +36,14 @@ Inform patients of the following serious adverse reactions that have been associ
   If patients need to be outdoors while using fluoroquinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
 
-## 17.2 Antibacterial Resistance
+Antibacterial Resistance
 
 Antibacterial drugs including levofloxacin should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When levofloxacin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by levofloxacin or other antibacterial drugs in the future.
 
-## 17.3 Administration with Food, Fluids, and Concomitant Medications
+Administration with Food, Fluids, and Concomitant Medications
 
 Patients should be informed that levofloxacin tablets may be taken with or without food.
 The tablet should be taken at the same time each day.
@@ -52,14 +52,14 @@ Patients should drink fluids liberally while taking levofloxacin tablets to avoi
 
 Antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine should be taken at least two hours before or two hours after oral levofloxacin administration.
 
-## 17.4 Drug Interactions with Insulin, Oral Hypoglycemic Agents, and Warfarin
+Drug Interactions with Insulin, Oral Hypoglycemic Agents, and Warfarin
 
 Patients should be informed that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue levofloxacin and consult a physician.
 
 Patients should be informed that concurrent administration of warfarin and levofloxacin has been associated with increases of the International Normalized Ratio (INR) or prothrombin time and clinical episodes of bleeding.
 Patients should notify their physician if they are taking warfarin, be monitored for evidence of bleeding, and also have their anticoagulation tests closely monitored while taking warfarin concomitantly.
 
-## 17.5 Plague and Anthrax Studies
+Plague and Anthrax Studies
 
 Patients given levofloxacin for these conditions should be informed that efficacy studies could not be conducted in humans for ethical and feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
@@ -80,6 +80,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: August 27, 2016 ID#: 248635
-
-## 17.6 FDA-Approved Medication Guide
+Revised: May 2017 ID#: 251300

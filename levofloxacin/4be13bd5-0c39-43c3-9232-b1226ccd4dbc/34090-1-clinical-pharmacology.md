@@ -46,7 +46,7 @@ Absorption
 Levofloxacin is rapidly and essentially completely absorbed after oral administration.
 Peak plasma concentrations are usually attained one to two hours after oral dosing.
 The absolute bioavailability of levofloxacin from a 500 mg tablet and a 750 mg tablet of levofloxacin are both approximately 99%, demonstrating complete oral absorption of levofloxacin.
-Following a single intravenous dose of levofloxacin to healthy volunteers, the mean ± SD peak plasma concentration attained was 6.2 ± 1 mcg/mL after a 500 mg dose infused over 60 minutes and 11.5 ± 4 mcg/mL after a 750 mg dose infused over 90 minutes.
+Following a single intravenous dose of levofloxacin to healthy volunteers, the mean ± SD peak plasma concentration attained was 6.2 ± 1.0 mcg/mL after a 500 mg dose infused over 60 minutes and 11.5 ± 4.0 mcg/mL after a 750 mg dose infused over 90 minutes.
 Levofloxacin Oral Solution and Tablet formulations are bioequivalent.
 
 Levofloxacin pharmacokinetics are linear and predictable after single and multiple oral or IV dosing regimens.

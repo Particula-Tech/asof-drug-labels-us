@@ -223,7 +223,7 @@ Levofloxacin tablets can cause serious side effects, including:
 - skin rash
 
 Skin rash may happen in people taking levofloxacin tablets, even after only 1 dose.
-Stop taking levofloxacin tablets at the first sign of a skin rash and call your healthcare provider.
+Stop taking levofloxacin tablets at the first sign of a skin rash and immediately call your healthcare provider.
 Skin rash may be a sign of a more serious reaction to levofloxacin.
 
 - Liver damage (hepatotoxicity): Hepatotoxicity can happen in people who take levofloxacin tablets.
@@ -346,6 +346,6 @@ Goa 403 722
 
 INDIA.
 
-Revised: August 27, 2016 ID#: 248636
+Revised: May 2017 ID#: 251301
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
