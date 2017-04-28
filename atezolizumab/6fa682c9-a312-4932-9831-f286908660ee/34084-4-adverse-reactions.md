@@ -16,40 +16,113 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Urothelial Carcinoma
 
-The data described in Table 1 reflects exposure to TECENTRIQ in Cohort 2 of Study 1.
-This cohort enrolled 310 patients in a single arm trial with locally advanced or metastatic urothelial carcinoma who had disease progression during or following at least one platinum-containing chemotherapy regimen or who had disease progression within 12 months of treatment with a platinum-containing neoadjuvant or adjuvant chemotherapy regimen [see Clinical Studies (14.1)].
+Cisplatin-Ineligible Patients with Locally Advanced or Metastatic Urothelial Carcinoma
+
+The safety of TECENTRIQ was evaluated in Study 4, a multicenter, open-label, single-arm trial that included 119 patients with locally advanced or metastatic urothelial carcinoma who were ineligible for cisplatin-containing chemotherapy and were either previously untreated or had disease progression at least 12 months after neoadjuvant or adjuvant chemotherapy [see Clinical Studies (14.1)].
+Patients received 1200 mg of TECENTRIQ intravenously every 3 weeks until either unacceptable toxicity or disease progression.
+The median duration of exposure was 15.0 weeks (range 0, 87 weeks).
+
+The most common adverse reactions (≥ 20%) were fatigue (52%), decreased appetite (24%), diarrhea (24%), and nausea (22%).
+The most common Grade 3–4 adverse reactions (≥ 2%) were fatigue, urinary tract infection, anemia, diarrhea, blood creatinine increase, intestinal obstruction, ALT increase, hyponatremia, decreased appetite, sepsis, back/neck pain, renal failure, and hypotension.
+
+Five patients (4.2%) who were treated with TECENTRIQ experienced one of the following events which led to death: sepsis, cardiac arrest, myocardial infarction, respiratory failure, or respiratory distress.
+One additional patient (0.8%) was experiencing herpetic meningoencephalitis and disease progression at the time of death.
+TECENTRIQ was discontinued for adverse reactions in 4.2% (5/119) of patients.
+The adverse reactions leading to discontinuation were diarrhea/colitis (1.7%), fatigue (0.8%), hypersensitivity (0.8%), and dyspnea (0.8%).
+Adverse reactions leading to interruption of TECENTRIQ occurred in 35% of patients, the most common (≥ 1%) were intestinal obstruction, fatigue, diarrhea, urinary tract infection, infusion related reaction, cough, abdominal pain, peripheral edema, pyrexia, respiratory tract infection, upper respiratory tract infection, creatinine increase, decreased appetite, hyponatremia, back pain, pruritus, and venous thromboembolism.
+Serious adverse reactions occurred in 37% of patients.
+The most frequent serious adverse reactions (≥ 2%) were diarrhea, intestinal obstruction, sepsis, acute kidney injury, and renal failure.
+
+Immune-related adverse reactions requiring systemic corticosteroids or hormone replacement therapy occurred in 19.3% (23/119) patients, including 12.6% (15/119) patients who required systemic corticosteroid therapy and 6.7% (8/119) patients who required only hormone replacement therapy.
+
+Six patients (5.0%) received an oral prednisone dose equivalent to ≥40 mg daily for an immune-mediated adverse reaction [see Warnings and Precautions (5)].
+
+Table 1 summarizes the adverse reactions that occurred in ≥ 10% of patients and Table 2 summarizes Grade 3–4 selected laboratory abnormalities that occurred in ≥ 1% of patients treated with TECENTRIQ in Study 4.
+
+Table 1: All Grade Adverse Reactions in ≥ 10% of Patients with Urothelial Carcinoma in Study 4
+
+| Adverse Reaction | All Grades (%) | Grades 3–4 (%) |
+| --- | --- | --- |
+|  | TECENTRIQ N = 119 |  |
+| General Disorders |  |  |
+| FatigueIncludes fatigue, asthenia, lethargy, and malaise | 52 | 8 |
+| Peripheral edemaIncludes edema peripheral, scrotal edema, lymphedema, and edema | 17 | 2 |
+| Pyrexia | 14 | 0.8 |
+| Gastrointestinal Disorders |  |  |
+| DiarrheaIncludes diarrhea, colitis, frequent bowel movements, autoimmune colitis | 24 | 5 |
+| Nausea | 22 | 2 |
+| Vomiting | 16 | 0.8 |
+| Constipation | 15 | 2 |
+| Abdominal painIncludes abdominal pain, upper abdominal pain, lower abdominal pain, and flank pain | 15 | 0.8 |
+| Metabolism and Nutrition Disorders |  |  |
+| Decreased appetiteIncludes decreased appetite and early satiety | 24 | 3 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Back/Neck pain | 18 | 3 |
+| Arthralgia | 13 | 0 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Pruritus | 18 | 0.8 |
+| RashIncludes rash, dermatitis, dermatitis acneiform, rash maculo-papular, rash erythematous, rash pruritic, rash macular, and rash papular | 17 | 0.8 |
+| Infections |  |  |
+| Urinary tract infectionIncludes urinary tract infection, urinary tract infection bacterial, cystitis, and urosepsis | 17 | 5 |
+| Respiratory, Thoracic, and Mediastinal Disorders |  |  |
+| CoughIncludes cough and productive cough | 14 | 0 |
+| DyspneaIncludes dyspnea and exertional dyspnea | 12 | 0 |
+
+Table 2: Grade 3–4 Laboratory Abnormalities in Patients with Urothelial Carcinoma in Study 4 in ≥ 1% of Patients
+
+| Laboratory Test | Grades 3–4 (%) |
+| --- | --- |
+| Hyponatremia | 15 |
+| Hyperglycemia | 10 |
+| Lymphopenia | 9 |
+| Anemia | 7 |
+| Increased Alkaline phosphatase | 7 |
+| Increased Creatinine | 5 |
+| Hypophosphatemia | 4 |
+| Increased ALT | 4 |
+| Increased AST | 4 |
+| Hyperkalemia | 3 |
+| Hypermagnesemia | 3 |
+| Hyperbilirubinemia | 3 |
+
+Previously Treated Patients with Locally Advanced or Metastatic Urothelial Carcinoma
+
+The safety of TECENTRIQ was evaluated in Study 1, a multicenter, open-label, single-arm trial that included 310 patients in a single arm trial with locally advanced or metastatic urothelial carcinoma who had disease progression during or following at least one platinum-containing chemotherapy regimen or who had disease progression within 12 months of treatment with a platinum-containing neoadjuvant or adjuvant chemotherapy regimen [see Clinical Studies (14.1)].
 Patients received 1200 mg of TECENTRIQ intravenously every 3 weeks until unacceptable toxicity or either radiographic or clinical progression.
 The median duration of exposure was 12.3 weeks (range: 0.1, 46 weeks).
 
 The most common adverse reactions (≥ 20%) were fatigue (52%), decreased appetite (26%), nausea (25%), urinary tract infection (22%), pyrexia (21%), and constipation (21%).
 The most common Grade 3–4 adverse reactions (≥ 2%) were urinary tract infection, anemia, fatigue, dehydration, intestinal obstruction, urinary obstruction, hematuria, dyspnea, acute kidney injury, abdominal pain, venous thromboembolism, sepsis, and pneumonia.
 
-Three patients (0.9%) who were treated with TECENTRIQ experienced either sepsis, pneumonitis, or intestinal obstruction which led to death.
+Three patients (1.0%) who were treated with TECENTRIQ experienced one of the following events which led to death: sepsis, pneumonitis, or intestinal obstruction.
 TECENTRIQ was discontinued for adverse reactions in 3.2% (10/310) of the 310 patients.
 Sepsis led to discontinuation in 0.6% (2/310) of patients.
 Adverse reactions leading to interruption of TECENTRIQ occurred in 27% of patients; the most common (> 1%) were liver enzyme increase, urinary tract infection, diarrhea, fatigue, confusional state, urinary obstruction, pyrexia, dyspnea, venous thromboembolism, and pneumonitis.
 Serious adverse reactions occurred in 45% of patients.
 The most frequent serious adverse reactions (> 2%) were urinary tract infection, hematuria, acute kidney injury, intestinal obstruction, pyrexia, venous thromboembolism, urinary obstruction, pneumonia, dyspnea, abdominal pain, sepsis, and confusional state.
 
-Table 1 summarizes the adverse reactions that occurred in ≥ 10% of patients while Table 2 summarizes Grade 3–4 selected laboratory abnormalities that occurred in ≥ 1% of patients treated with TECENTRIQ in Cohort 2 of Study 1.
+Immune-related adverse reactions requiring systemic corticosteroids or hormone replacement therapy occurred in 11.0% (34/310) patients, including 8.4% (26/310) patients who required systemic corticosteroid therapy and 2.6% (8/310) patients who required only hormone replacement therapy.
 
-Table 1: All Grade Adverse Reactions in ≥ 10% of Patients with Urothelial Carcinoma in Study 1
+Eighteen patients (5.8%) received an oral prednisone dose equivalent to ≥40 mg daily for an immune-mediated adverse reaction [see Warnings and Precautions (5)].
 
-| All Adverse Reactions | 96 | 50 |
+Table 3 summarizes the adverse reactions that occurred in ≥ 10% of patients while Table 4 summarizes Grade 3–4 selected laboratory abnormalities that occurred in ≥ 1% of patients treated with TECENTRIQ in Study 1.
+
+Table 3: All Grade Adverse Reactions in ≥ 10% of Patients with Urothelial Carcinoma in Study 1
+
+| Adverse Reaction | All Grades (%) | Grades 3–4 (%) |
 | --- | --- | --- |
-|  | TECENTRIQ N = 310 |  |
-| Adverse Reaction | All Grades (%) | Grades 3 – 4 (%) |
+|  | TECENTRIQ N=310 |  |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 25 | 2 |
 | Constipation | 21 | 0.3 |
 | Diarrhea | 18 | 1 |
 | Abdominal pain | 17 | 4 |
 | Vomiting | 17 | 1 |
-| General Disorders and Administration |  |  |
+| General Disorders |  |  |
 | Fatigue | 52 | 6 |
 | Pyrexia | 21 | 1 |
 | Peripheral edema | 18 | 1 |
-| Infections and Infestations |  |  |
+| Infections |  |  |
 | Urinary tract infection | 22 | 9 |
 | Metabolism and Nutrition Disorders |  |  |
 | Decreased appetite | 26 | 1 |
@@ -65,7 +138,7 @@ Table 1: All Grade Adverse Reactions in ≥ 10% of Patients with Urothelial Carc
 | Rash | 15 | 0.3 |
 | Pruritus | 13 | 0.3 |
 
-Table 2: Grade 3–4 Laboratory Abnormalities in Patients with Urothelial Carcinoma in Study 1 in ≥ 1% of Patients
+Table 4: Grade 3–4 Laboratory Abnormalities in Patients with Urothelial Carcinoma in Study 1 in ≥ 1% of Patients
 
 | Laboratory Test | Grades 3–4 (%) |
 | --- | --- |
@@ -81,7 +154,7 @@ Table 2: Grade 3–4 Laboratory Abnormalities in Patients with Urothelial Carcin
 
 NSCLC
 
-The safety of TECENTRIQ was evaluated in Study 3, a multi-center, international, randomized, open-label trial in patients with metastatic NSCLC who progressed during or following a platinum-containing regimen, regardless of PD-L1 expression [see Clinical Studies (14.2)].
+The safety of TECENTRIQ was evaluated in Study 3, a multicenter, international, randomized, open-label trial in patients with metastatic NSCLC who progressed during or following a platinum-containing regimen, regardless of PD-L1 expression [see Clinical Studies (14.2)].
 Patients received 1200 mg of TECENTRIQ (n=142) administered intravenously every 3 weeks until unacceptable toxicity or either radiographic or clinical progression or docetaxel (n=135) administered intravenously at 75 mg/m2 every 3 weeks until unacceptable toxicity or disease progression.
 The median duration of exposure was 3.7 months (range: 0–19 months) in TECENTRIQ-treated patients and 2.1 months (range: 0–17 months) in docetaxel-treated patients.
 
@@ -94,22 +167,22 @@ Adverse reactions leading to interruption of TECENTRIQ occurred in 24% of patien
 Serious adverse reactions occurred in 37% of patients.
 The most frequent serious adverse reactions (> 2%) were pneumonia, dyspnea, pleural effusion, pyrexia, and venous thromboembolism.
 
-Table 3 summarizes adverse reactions that occurred in at least 10% of TECENTRIQ-treated patients and at a higher incidence than in the docetaxel arm.
-Table 4 summarizes selected laboratory abnormalities worsening from baseline that occurred in ≥10% of TECENTRIQ-treated patients and at a higher incidence than in the docetaxel arm.
+Table 5 summarizes adverse reactions that occurred in at least 10% of TECENTRIQ-treated patients and at a higher incidence than in the docetaxel arm.
+Table 6 summarizes selected laboratory abnormalities worsening from baseline that occurred in ≥10% of TECENTRIQ-treated patients and at a higher incidence than in the docetaxel arm.
 
-Table 3: Adverse Reactions Occurring in ≥10% of TECENTRIQ-Treated Patients with NSCLC and at a Higher Incidence than in the Docetaxel Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3–4]) (Study 3)
+Table 5: Adverse Reactions Occurring in ≥10% of TECENTRIQ-Treated Patients with NSCLC and at a Higher Incidence than in the Docetaxel Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3–4]) (Study 3)
 
 | Adverse Reaction | All grades | Grade 3–4 | All grades | Grade 3–4 |
 | --- | --- | --- | --- | --- |
 |  | TECENTRIQ (n=142) |  | Docetaxel (n=135) |  |
 |  | Percentage (%) of Patients |  |  |  |
-| General Disorders and Administration Site Conditions |  |  |  |  |
+| General Disorders |  |  |  |  |
 | Pyrexia | 18 | 0 | 13 | 0 |
-| Infections and infestations |  |  |  |  |
+| Infections |  |  |  |  |
 | Pneumonia | 18 | 6 | 4 | 2 |
 | Metabolism and nutrition disorders |  |  |  |  |
 | Decreased appetite | 35 | 1 | 22 | 0 |
-| Musculosketal and connective tissue disorders |  |  |  |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Arthralgia | 16 | 2 | 9 | 2 |
 | Back pain | 14 | 1 | 9 | 1 |
 | Psychiatric Disorders |  |  |  |  |
@@ -118,7 +191,7 @@ Table 3: Adverse Reactions Occurring in ≥10% of TECENTRIQ-Treated Patients wit
 | Dyspnea | 32 | 7 | 24 | 2 |
 | Cough | 30 | 1 | 25 | 0 |
 
-Table 4: Selected Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of TECENTRIQ-Treated Patients with NSCLC and at a Higher Incidence than in the Docetaxel Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3–4]) (Study 3)
+Table 6: Selected Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of TECENTRIQ-Treated Patients with NSCLC and at a Higher Incidence than in the Docetaxel Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3–4]) (Study 3)
 
 | Test | All grades % | Grade 3–4 % | All grades % | Grade 3–4 % |
 | --- | --- | --- | --- | --- |
@@ -138,8 +211,9 @@ Table 4: Selected Laboratory Abnormalities Worsening from Baseline Occurring in 
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
 Among 275 patients in Study 1, 114 patients (41.5%) tested positive for treatment-emergent (treatment-induced or treatment-enhanced) anti-therapeutic antibodies (ATA) at one or more post-dose time points.
-Among 135 patients in Study 3, 73 patients (54.1%) tested positive for treatment-emergent (treatment-induced or treatment-enhanced) anti-therapeutic antibodies (ATA) at one or more post-dose time points.
-In Study 1 and Study 3, the presence of ATAs did not appear to have a clinically significant impact on pharmacokinetics, safety or efficacy.
+Among 135 patients in Study 3, 73 patients (54.1%) tested positive for treatment-emergent ATAs at one or more post-dose time points.
+Among 111 patients in Study 4, 53 patients (47.7%) tested positive for treatment-emergent ATAs at one or more post-dose time points.
+In Study 1, Study 3, and Study 4, the presence of ATAs did not appear to have a clinically significant impact on pharmacokinetics, safety or efficacy.
 
 Immunogenicity assay results are highly dependent on several factors, including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications and underlying disease.
 For these reasons, comparison of incidence of ATAs to TECENTRIQ with the incidence of antibodies to other products may be misleading.

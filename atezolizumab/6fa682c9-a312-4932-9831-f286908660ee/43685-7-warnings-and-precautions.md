@@ -15,10 +15,11 @@ Urothelial Carcinoma
 
 In 523 patients with urothelial carcinoma who received TECENTRIQ, pneumonitis occurred in six (1.1%) patients.
 Of these patients, there was one patient with fatal pneumonitis, one patient with Grade 3, three patients with Grade 2, and one patient with Grade 1 pneumonitis.
-TECENTRIQ was held in all cases and five patients were treated with corticosteroids.
+TECENTRIQ was held in all cases.
 Pneumonitis resolved in three patients.
 The median time to onset was 2.6 months (range: 15 days to 4.2 months).
 The median duration was 15 days (range: 6 days to 3.1+ months).
+Immune-mediated pneumonitis occurred in 5 (1.0%) patients.
 
 NSCLC
 
@@ -43,7 +44,7 @@ Across clinical trials (n=1978), Grade 3 or 4 elevation occurred in ALT (2.5%), 
 Urothelial Carcinoma
 
 In patients with urothelial carcinoma (n=523), Grade 3 or 4 elevation occurred in ALT (2.5%), AST (2.5%), and total bilirubin (2.1%).
-Immune-mediated hepatitis occurred in 1.3% of patients.
+Immune-mediated hepatitis occurred in 1.3% (7/523) of patients.
 Of these cases, one patient died from hepatitis, five patients had Grade 3, and one patient had Grade 2 hepatitis.
 The median time to onset was 1.1 months (range: 0.4 to 7.7 months).
 TECENTRIQ was temporarily interrupted in four patients; none of these patients developed recurrence of hepatitis after resuming TECENTRIQ.

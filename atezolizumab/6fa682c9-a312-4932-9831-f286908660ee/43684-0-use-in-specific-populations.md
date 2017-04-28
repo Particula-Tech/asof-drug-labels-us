@@ -50,9 +50,14 @@ The safety and effectiveness of TECENTRIQ have not been established in pediatric
 
 ## 8.5 Geriatric Use
 
-Of the 310 patients with urothelial carcinoma treated with TECENTRIQ in Study 1, 59% were 65 years or older.
+Of the 310 previously-treated patients with urothelial carcinoma treated with TECENTRIQ in Study 1, 59% were 65 years or older.
 Of the 142 patients with NSCLC treated with TECENTRIQ in Study 3, 39% were 65 years or older.
 No overall differences in safety or efficacy were observed between patients ≥ 65 years of age and younger patients.
+
+Of the 119 cisplatin-ineligible patients with urothelial carcinoma treated with TECENTRIQ in Study 4, 83% were 65 years or older and 41% were 75 years or older.
+The overall response rate in patients 65 years or older was 23% (23/99) and in patients 75 years or older was 29% (14/49).
+Grade 3 or 4 adverse reactions occurred in 53% (52/99) of patients 65 years or older and 51% (25/49) of patients 75 years or older.
+No overall differences in safety or efficacy were observed between patients ≥ 75 years of age and younger patients.
 
 ## 8.6 Renal Impairment
 

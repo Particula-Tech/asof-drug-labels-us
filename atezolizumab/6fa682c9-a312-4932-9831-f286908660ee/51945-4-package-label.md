@@ -2,7 +2,7 @@
 
 NDC 50242-917-01
 
-Tecentriq ™ (atezolizumab) Injection
+Tecentriq® (atezolizumab) Injection
 
 1200 mg/20 mL (60 mg/mL)
 
@@ -16,4 +16,4 @@ Rx only
 
 Genentech
 
-10168531
+10181373

@@ -15,7 +15,7 @@ Patients' exposures to atezolizumab increased dose proportionally over the dose 
 Based on a population analysis that included 472 patients in the dose range, the typical population clearance was 0.20 L/day, volume of distribution at steady state was 6.9 L, and the terminal half-life was 27 days.
 The population PK analysis suggests steady state is obtained after 6 to 9 weeks (2 to 3 cycles) of repeated dosing.
 The systemic accumulation in area under the curve (AUC), maximum concentration (Cmax) and trough concentration (Cmin) was 1.91, 1.46 and 2.75-fold, respectively.
-In a posthoc analysis, atezolizumab clearance was found to decrease over time, with a mean maximal reduction (% coefficient of variation [CV%]) from baseline value of approximately 17.1% (40.6%).
+In a post hoc analysis, atezolizumab clearance was found to decrease over time, with a mean maximal reduction (% coefficient of variation [CV%]) from baseline value of approximately 17.1% (40.6%).
 However, the decrease in CL was not considered clinically relevant.
 
 Specific Populations: Age (21–89 years), body weight, gender, positive anti-therapeutic antibody (ATA) status, albumin levels, tumor burden, region or race, mild or moderate renal impairment (estimated glomerular filtration rate (eGFR) 30 to 89 mL/min/1.73 m2), mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin < 1.0 to 1.5 × ULN and any AST), level of PD-L1 expression, or ECOG status had no clinically significant effect on the systemic exposure of atezolizumab.
