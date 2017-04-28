@@ -1,0 +1,9 @@
+# PRINCIPAL DISPLAY PANEL - 24 g Tube Carton
+
+LOTRIMIN ®AF
+
+clotrimazole cream
+
+ANTIFUNGAL
+
+NET WT 24g (0.85 OZ)
