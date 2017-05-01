@@ -6,22 +6,22 @@ The efficacy of doxazosin was evaluated extensively in over 900 patients with BP
 Doxazosin tablets treatment was superior to placebo in improving patient symptoms and urinary flow rate.
 Significant relief with doxazosin tablets was seen as early as one week into the treatment regimen, with doxazosin tablets-treated patients (N=173) showing a significant (p<0.01) increase in maximum flow rate of 0.8 mL/sec compared to a decrease of 0.5 mL/sec in the placebo group (N=41).
 In long-term studies, improvement was maintained for up to 2 years of treatment.
-In 66–71% of patients, improvements above baseline were seen in both symptoms and maximum urinary flow rate.
+In 66 to 71% of patients, improvements above baseline were seen in both symptoms and maximum urinary flow rate.
 
-In three placebo-controlled studies of 14–16 weeks’ duration, obstructive symptoms (hesitation, intermittency, dribbling, weak urinary stream, incomplete emptying of the bladder) and irritative symptoms (nocturia, daytime frequency, urgency, burning) of BPH were evaluated at each visit by patient-assessed symptom questionnaires.
+In three placebo-controlled studies of 14 to 16 weeks’ duration, obstructive symptoms (hesitation, intermittency, dribbling, weak urinary stream, incomplete emptying of the bladder) and irritative symptoms (nocturia, daytime frequency, urgency, burning) of BPH were evaluated at each visit by patient-assessed symptom questionnaires.
 The bothersomeness of symptoms was measured with a modified Boyarsky questionnaire.
 Symptom severity/frequency was assessed using a modified Boyarsky questionnaire or an AUA-based questionnaire.
 Uroflowmetric evaluations were performed at times of peak (2 to 6 hours post-dose) and/or trough (24 hours post-dose) plasma concentrations of doxazosin.
 
 The results from the three placebo-controlled studies (N=609) showing significant efficacy with 4 mg and 8 mg doxazosin are summarized in Table 3.
 In all three studies, doxazosin resulted in statistically significant relief of obstructive and irritative symptoms compared to placebo.
-Statistically significant improvements of 2.3–3.3 mL/sec in maximum flow rate were seen with doxazosin tablets in Studies 1 and 2, compared to 0.1–0.7 mL/sec with placebo.
+Statistically significant improvements of 2.3 to 3.3 mL/sec in maximum flow rate were seen with doxazosin tablets in Studies 1 and 2, compared to 0.1 to 0.7 mL/sec with placebo.
 
 Table 3
 
-In one fixed-dose study (Study 2), doxazosin tablets therapy (4 to 8 mg, once daily) resulted in a significant and sustained improvement in maximum urinary flow rate of 2.3–3.3 mL/sec (Table 3) compared to placebo (0.1 mL/sec).
+In one fixed-dose study (Study 2), doxazosin tablets therapy (4 to 8 mg, once daily) resulted in a significant and sustained improvement in maximum urinary flow rate of 2.3 to 3.3 mL/sec (Table 3) compared to placebo (0.1 mL/sec).
 In this study, the only study in which weekly evaluations were made, significant improvement with doxazosin tablets vs. placebo was seen after one week.
-The proportion of patients who responded with a maximum flow rate improvement of ≥3 mL/sec was significantly larger with doxazosin tablets (34–42%) than placebo (13–17%).
+The proportion of patients who responded with a maximum flow rate improvement of ≥3 mL/sec was significantly larger with doxazosin tablets (34 to 42%) than placebo (13 to 17%).
 A significantly greater improvement was also seen in average flow rate with doxazosin tablets (1.6 mL/sec) than with placebo (0.2 mL/sec).
 The onset and time course of symptom relief and increased urinary flow from Study 1 are illustrated in Figure 1.
 

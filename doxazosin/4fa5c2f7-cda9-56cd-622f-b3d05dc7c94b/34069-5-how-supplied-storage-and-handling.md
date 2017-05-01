@@ -9,6 +9,6 @@ Bottles of 100: 1 mg (NDC 60505-0093-0) 2 mg (NDC 60505-0094-0) 4 mg (NDC 60505-
 
 Bottles of 1,000: 1 mg (NDC 60505-0093-1) 2 mg (NDC 60505-0094-1) 4 mg (NDC 60505-0095-1) 8 mg (NDC 60505-0096-1)
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted from 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted from 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container [see USP].

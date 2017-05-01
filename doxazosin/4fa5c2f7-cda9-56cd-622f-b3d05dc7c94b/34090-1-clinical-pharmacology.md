@@ -22,16 +22,16 @@ The 6’- and 7’-hydroxy metabolites have demonstrated antioxidant properties 
 Benign Prostatic Hyperplasia (BPH) Administration of doxazosin tablets to patients with symptomatic BPH resulted in a statistically significant improvement in maximum urinary flow rate [see Clinical Studies (14.1)].
 
 Effect on Normotensive Patients with Benign Prostatic Hyperplasia (BPH) Although blockade of alpha1 adrenoceptors also lowers blood pressure in hypertensive patients with increased peripheral vascular resistance, doxazosin tablets treatment of normotensive men with BPH did not result in a clinically significant blood pressure lowering effect (Table 4).
-The proportion of normotensive patients with a sitting systolic blood pressure less than 90 mmHg and/or diastolic blood pressure less than 60 mmHg at any time during treatment with doxazosin tablets 1–8 mg once daily was 6.7% with doxazosin and not significantly different (statistically) from that with placebo (5%).
+The proportion of normotensive patients with a sitting systolic blood pressure less than 90 mmHg and/or diastolic blood pressure less than 60 mmHg at any time during treatment with doxazosin tablets 1 to 8 mg once daily was 6.7% with doxazosin and not significantly different (statistically) from that with placebo (5%).
 
 Hypertension Administration of doxazosin tablets results in a reduction in systemic vascular resistance.
 In patients with hypertension, there is little change in cardiac output.
-Maximum reductions in blood pressure usually occur 2–6 hours after dosing and are associated with a small increase in standing heart rate.
+Maximum reductions in blood pressure usually occur 2 to 6 hours after dosing and are associated with a small increase in standing heart rate.
 Like other alpha1-adrenergic blocking agents, doxazosin has a greater effect on blood pressure and heart rate in the standing position.
 
 ## 12.3 Pharmacokinetics
 
-Absorption After oral administration of therapeutic doses, peak plasma levels of doxazosin occur at about 2–3 hours.
+Absorption After oral administration of therapeutic doses, peak plasma levels of doxazosin occur at about 2 to 3 hours.
 Bioavailability is approximately 65%, reflecting first-pass metabolism of doxazosin by the liver.
 The effect of food on the pharmacokinetics of doxazosin was examined in a crossover study with twelve hypertensive subjects.
 Reductions of 18% in mean maximum plasma concentration (Cmax) and 12% in the area under the concentration-time curve (AUC) occurred when doxazosin tablets were administered with food.

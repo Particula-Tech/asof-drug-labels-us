@@ -21,12 +21,12 @@ Adverse Reactions Occurring more than 1% More Frequently in BPH Patients Treated
 | CARDIAC DISORDERS |  |  |
 | Hypotension | 1.7% | 0% |
 | RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS |  |  |
-| Dyspnoea | 2.6% | 0.3% |
+| Dyspnea | 2.6% | 0.3% |
 | GASTROINTESTINAL DISORDERS |  |  |
 | Dry Mouth | 1.4% | 0.3% |
 | GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS |  |  |
 | Fatigue | 8.0% | 1.7% |
-| Oedema | 2.7% | 0.7% |
+| edema | 2.7% | 0.7% |
 
 Other adverse reactions occurring less than 1% more frequently in BPH patients treated with doxazosin tablets vs placebo but plausibly related to doxazosin tablets include: palpitations.
 
@@ -54,7 +54,7 @@ Adverse Reactions Occurring more than 1% More Frequently in Hypertensive Patient
 | REPRODUCTIVE SYSTEM AND BREAST DISORDERS GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS |  |  |
 | Fatigue / Malaise | 12% | 6% |
 
-Other adverse reactions occurring less than 1% more frequently in hypertensive patients treated with doxazosin tablets vs placebo but plausibly related to doxazosin tablets use include vertigo, hypotension, hot flushes, epistaxis and oedema.
+Other adverse reactions occurring less than 1% more frequently in hypertensive patients treated with doxazosin tablets vs placebo but plausibly related to doxazosin tablets use include vertigo, hypotension, hot flushes, epistaxis and edema.
 
 Doxazosin tablets have been associated with decreases in white blood cell counts
 
@@ -69,4 +69,4 @@ No patients became symptomatic as a result of the low WBC or neutrophil counts.
 The following adverse reactions have been identified during post-approval use of doxazosin tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-In post-marketing experience, the following additional adverse reactions have been reported: Blood and Lymphatic System Disorders: leukopenia, thrombocytopenia; Immune System Disorders: allergic reaction; Nervous System Disorders: hypoesthesia; Eye Disorders: Intraoperative Floppy Iris Syndrome [see Warnings and precautions (5.4)]; Cardiac Disorders: bradycardia; Respiratory, Thoracic and Mediastinal Disorders: bronchospasm aggravated; Gastrointestinal Disorders: vomiting; Hepatobiliary Disorders: cholestasis, hepatitis cholestatic; Skin and Subcutaneous Tissue Disorders: urticaria; Musculoskeletal and Connective Tissue Disorders: muscle cramps, muscle weakness; Renal and Urinary Disorders: hematuria, micturition disorder, micturition frequency, nocturia; Reproductive System and Breast Disorders: gynecomastia, priapism.
+In post-marketing experience, the following additional adverse reactions have been reported: Blood and Lymphatic System Disorders: leukopenia, thrombocytopenia; Immune System Disorders: allergic reaction; Nervous System Disorders: hypoesthesia; Eye Disorders: Intraoperative Floppy Iris Syndrome [see Warnings and Precautions (5.2)]; Cardiac Disorders: bradycardia; Respiratory, Thoracic and Mediastinal Disorders: bronchospasm aggravated; Gastrointestinal Disorders: vomiting; Hepatobiliary Disorders: cholestasis, hepatitis cholestatic; Skin and Subcutaneous Tissue Disorders: urticaria; Musculoskeletal and Connective Tissue Disorders: muscle cramps, muscle weakness; Renal and Urinary Disorders: hematuria, micturition disorder, micturition frequency, nocturia; Reproductive System and Breast Disorders: gynecomastia, priapism.
