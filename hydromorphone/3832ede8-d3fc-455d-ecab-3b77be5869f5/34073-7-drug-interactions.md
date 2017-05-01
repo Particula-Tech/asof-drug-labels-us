@@ -1,22 +1,32 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Interactions with other CNS Depressants
+Table 1 includes clinically significant drug interactions with Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY).
 
-Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) should be used with caution and in reduced dosages when administered to patients concurrently receiving other central nervous system depressants including sedatives or hypnotics, general anesthetics, phenothiazines, centrally acting anti-emetics, tranquilizers, and alcohol because respiratory depression, hypotension, and profound sedation or coma may result.
+Table 1: Clinically Significant Drug Interactions with Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY)
 
-When such combined therapy is contemplated, the dose of one or both agents should be reduced.
-Opioid analgesics, including Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY), may enhance the action of neuromuscular blocking agents and produce an increased degree of respiratory depression.
-
-## 7.2 Interactions with Mixed Agonist/Antagonist Opioid Analgesics
-
-Agonist/antagonist analgesics (e.g., pentazocine, nalbuphine, and butorphanol) and partial agonist analgesics (buprenorphine) should be administered with caution to a patient who has received or is receiving a course of therapy with a pure opioid agonist analgesic such as Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY).
-In this situation, mixed agonist/antagonist analgesics may reduce the analgesic effect of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) and/or may precipitate withdrawal symptoms in these patients.
-
-## 7.3 Monoamine Oxidase Inhibitors (MAOIs)
-
-MAOIs may potentiate the action of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY).
-Allow at least 14 days after stopping treatment with MAOIs before initiating treatment with Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY).
-
-## 7.4 Anticholinergics
-
-Anticholinergics or other medications with anticholinergic activity when used concurrently with Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) may result in increased risk of urinary retention and severe constipation, which may lead to paralytic ileus.
+| Benzodiazepines and other Central Nervous System (CNS) Depressants |  |
+| --- | --- |
+| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines and other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.3)]. |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Serotonergic Drugs |  |
+| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
+| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) if serotonin syndrome is suspected. |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.3)].If urgent use of an opioid is necessary, use test doses and frequent titration of small doses to treat pain while closely monitoring blood pressure and signs and symptoms of CNS and respiratory depression. |
+| Intervention: | The use of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
+| Examples: | phenelzine, tranylcypromine, linezolid |
+| Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
+| Clinical Impact: | May reduce the analgesic effect of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) and/or precipitate withdrawal symptoms. |
+| Intervention: | Avoid concomitant use. |
+| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
+| Muscle Relaxants |  |
+| Clinical Impact: | Hydromorphone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) and/or the muscle relaxant as necessary. |
+| Diuretics |  |
+| Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
+| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
+| Anticholinergic Drugs |  |
+| Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
+| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) is used concomitantly with anticholinergic drugs. |

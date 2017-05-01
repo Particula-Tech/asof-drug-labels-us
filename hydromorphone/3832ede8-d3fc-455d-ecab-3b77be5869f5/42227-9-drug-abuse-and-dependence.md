@@ -2,60 +2,52 @@
 
 ## 9.1 Controlled Substance
 
-Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) is a Schedule II controlled substance with an abuse liability similar to morphine.
-Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) can be abused and is subject to criminal diversion.
+Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) contains hydromorphone, which is a Schedule II controlled substance.
 
 ## 9.2 Abuse
 
-Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) is intended for parenteral use only under the direct supervision of an appropriately licensed health care professional.
+Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) contains hydromorphone hydrochloride, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, methadone, morphine, oxycodone, oxymorphone, and tapentadol.
+Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.2)].
 
-Abuse of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) poses a hazard of overdose and death.
-This risk is increased with concurrent abuse of alcohol or other substances.
-Parenteral drug abuse is commonly associated with transmission of infectious diseases, such as hepatitis and HIV.
+All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 
-Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) can be abused in a manner similar to other opioid agonists, legal or illicit.
-This should be considered when prescribing, dispensing, ordering, or administering Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse, or diversion.
-Prescribers should monitor all patients receiving opioids for signs of abuse, misuse, and addiction.
-Furthermore, patients should be assessed for their potential for opioid abuse prior to being prescribed opioid therapy.
-Persons at increased risk for opioid abuse include those with a personal or family history of substance abuse (including drug or alcohol abuse) or mental illness (e.g., depression).
-Opioids may still be appropriate for use in these patients, however, they will require intensive monitoring for indications of abuse.
+Prescription drug abuse is the intentional non-therapeutic use of a prescription drug, even once, for its rewarding psychological or physiological effects.
 
-Opioid drugs are sought by people with substance use disorders (abuse or addiction, the latter of which is also called “substance dependence”) and criminals who supply them by diverting medicines out of legitimate distribution channels.
-Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) is a target for diversion.
-
-“Drug-seeking” behavior is very common in persons with substance use disorders.
-Drug-seeking tactics include, but are not limited to, emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated “loss” of prescriptions, altering or forging of prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
-“Doctor shopping” to obtain additional prescriptions is common among people with untreated substance use disorders and criminals who divert controlled substances.
-
-The risks of misuse and abuse should be considered when prescribing or dispensing Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY).
-Concerns about abuse and addiction, should not prevent the proper management of pain, however.
-Treatment of pain should be individualized, balancing the potential benefits and risks for each patient.
-
-Addiction is defined as a chronic, neurobiological disorder, with genetic, psychosocial, and environmental aspects, characterized by one or more of the following: impaired control over drug use, compulsive use, continued use despite harm, and craving.
-Drug addiction is a treatable disease, utilizing a multidisciplinary approach, but relapse is common.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
+"Drug-seeking" behavior is very common in persons with substance use disorders.
+Drug-seeking tactics include, emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated "loss" of prescriptions, tampering of prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare providers.
+"Doctor shopping" (visiting multiple prescribers to obtain additional prescriptions) is common among drug abusers and people suffering from untreated addiction.
+Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with poor pain control.
 
 Abuse and addiction are separate and distinct from physical dependence and tolerance.
-Physicians should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
-In addition, abuse of opioids can occur in the absence of addiction and is characterized by misuse for non-medical purposes, often in combination with other psychoactive substances.
-Careful record keeping of prescribing information, including quantity, frequency, and renewal requests is strongly advised.
+Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
+In addition, abuse of opioids can occur in the absence of true addiction.
 
-Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, proper dispensing and correct storage and handling are appropriate measures that help to limit misuse and abuse of opioid drugs.
-Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests is strongly advised.
+Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY), like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests as required by state and federal law, is strongly advised.
 
-Healthcare professionals should contact their State Professional Licensing Board or State Controlled Substances Authority for information on how to prevent and detect abuse or diversion of this product.
+Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
+
+Risks Specific to Abuse of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY)
+
+Abuse of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) poses a risk of overdose and death.
+The risk is increased with concurrent use of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) with alcohol and other central nervous system depressants.
+
+Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
 
 ## 9.3 Dependence
 
-Tolerance to opioids is demonstrated by the need for increasing doses to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
-Tolerance to different effects of opioids may develop to varying degrees and at varying rates in a given individual.
-There is also interpatient variability in the rate and extent of tolerance that develops to various opioid effects, whether the effect is desirable (e.g., analgesia) or undesirable (e.g., nausea).
-In general, patients taking opioid analgesics that are appropriately titrated for pain control develop tolerance to the respiratory depressant effects fairly reliably.
-Conversely, tolerance to the constipating effects of opioids rarely develops, even when they are administered over long periods of time.
+Both tolerance and physical dependence can develop during chronic opioid therapy.
+Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
+Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
 
-Physical dependence is manifested by withdrawal symptoms after abrupt discontinuation of a drug or upon administration of an antagonist.
-Physical dependence and tolerance are not unusual during chronic opioid therapy.
+Physical dependence results in withdrawal symptoms after abrupt discontinuation of a significant dosage reduction of a drug.
+Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-The opioid abstinence or withdrawal syndrome is characterized by some or all of the following: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
-Other signs and symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) should not be abruptly discontinued in a physically-dependent patient [see Dosage and Administration (2.6)].
+If Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
+Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
+Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
-In general, opioids used regularly should not be abruptly discontinued.
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].
