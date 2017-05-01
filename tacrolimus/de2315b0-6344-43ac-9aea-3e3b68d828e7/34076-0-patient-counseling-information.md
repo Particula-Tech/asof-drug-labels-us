@@ -12,9 +12,9 @@ Advise patients to:
 - Take once-daily ENVARSUS XR at the same time every day (preferably in the morning) on an empty stomach to ensure consistent and maximum possible drug concentrations in the blood.
 - Swallow tablet whole with liquid, preferably water.
   Do not chew, divide or crush tablet.
-- Avoid alcohol, grapefruit, and grapefruit juice while on ENVARSUS XR [see Dosage and Administration (2.1), Drug Interactions (7.2)].
+- Avoid alcohol, grapefruit, and grapefruit juice while on ENVARSUS XR [see Dosage and Administration (2.1) and Drug Interactions (7.2)].
 - Take a missed dose as soon as possible but not more than 15 hours after the scheduled time.
-  Beyond the 14-hour timeframe, instruct the patient to wait until the usual scheduled time the following morning to take the next regularly scheduled dose.
+  Beyond the 15-hour timeframe, instruct the patient to wait until the usual scheduled time the following morning to take the next regularly scheduled dose.
   Do not take two doses at the same time.
   [see Dosage and Administration (2.1)].
 
@@ -53,7 +53,7 @@ Inform patients that ENVARSUS XR can cause high blood pressure which may require
 Drug Interactions
 
 Instruct patients to tell their health care providers when they start or stop taking any concomitant medications, including prescription and non-prescription medicines, herbal and dietary supplements.
-Some medications could alter tacrolimus concentrations in the blood and thus may require the adjustment of theAvoid alcohol, grapefruit, dosage of ENVARSUS XR [see Warnings and Precautions (5.9), Drug Interactions (7)].
+Some medications could alter tacrolimus concentrations in the blood and thus may require the adjustment of theAvoid alcohol, grapefruit, dosage of ENVARSUS XR [see Warnings and Precautions (5.9) and Drug Interactions (7)].
 
 Immunizations
 
@@ -63,4 +63,4 @@ Product of Germany
 
 Manufactured by: Rottendorf Pharma GmbH 59320 Ennigerloh North Rhine-Westphalia Germany
 
-Manufactured for: Veloxis Pharmaceuticals, Inc. 499 Thornall Street, 3rd floor, Edison, New Jersey 08837 United States
+Manufactured for: Veloxis Pharmaceuticals, Inc. Cary, North Carolina 27513 United States

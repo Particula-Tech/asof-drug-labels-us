@@ -72,7 +72,7 @@ Adverse Reactions (≥ 5%) in Stable Kidney Transplant Patients Through 1 Year P
 
 The following adverse reactions have been reported from marketing experience with tacrolimus in the U.S. and outside the U.S. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders: Agranulocytosis, decreased blood fibrinogen, disseminated intravascular coagulation, hemolytic anemia, hemolytic uremic syndrome, pancytopenia, prolonged activated partial thromboplastin time, pure red cell aplasia [see Warnings and Precaution (5.12)], thrombocytopenic purpura, thrombotic thrombocytopenic purpura
+Blood and Lymphatic System Disorders: Agranulocytosis, decreased blood fibrinogen, disseminated intravascular coagulation, hemolytic anemia, hemolytic uremic syndrome, pancytopenia, prolonged activated partial thromboplastin time, pure red cell aplasia [see Warnings and Precautions (5.12)], thrombocytopenic purpura, thrombotic thrombocytopenic purpura
 
 Cardiac Disorders: Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial hypertrophy, myocardial infarction, myocardial ischaemia, pericardial effusion, QT prolongation, supraventricular extrasystoles, supraventricular tachycardia, Torsade de Pointes, deep limb venous thrombosis, ventricular fibrillation
 

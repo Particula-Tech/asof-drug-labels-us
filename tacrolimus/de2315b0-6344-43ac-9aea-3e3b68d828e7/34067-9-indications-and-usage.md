@@ -4,4 +4,4 @@ ENVARSUS XR is indicated for the prophylaxis of organ rejection in kidney transp
 
 Limitation of Use
 
-ENVARSUS XR extended-release tablets are not interchangeable or substitutable with other tacrolimus extended- release or immediate-release products [see Warnings and Precautions (5.3)].
+ENVARSUS XR extended-release tablets are not interchangeable or substitutable with other tacrolimus extended-release or immediate-release products [see Warnings and Precautions (5.3)].

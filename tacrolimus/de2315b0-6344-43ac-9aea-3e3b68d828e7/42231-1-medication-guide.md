@@ -146,7 +146,7 @@ What are the ingredients in ENVARSUS XR?
 
 Active ingredient: tacrolimus USP Inactive ingredients: hypromellose USP, lactose monohydrate NF, polyethylene glycol NF, poloxamer NF, magnesium stearate NF, tartaric acid NF, butylated hydroxytoluene NF, and dimethicone NF
 
-Manufactured by: Rottendorf Pharma GmbH, 59320 Ennigerloh, North Rhine-Westphalia, Germany Marketed by: Veloxis Pharmaceuticals Inc. 499 Thornall Street, 3rd floor Edison, New Jersey 08837, United States
+Manufactured by: Rottendorf Pharma GmbH, 59320 Ennigerloh, North Rhine-Westphalia, Germany Manufactured for: Veloxis Pharmaceuticals Inc. Cary, North Carolina 27513, United States
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Approved: Month/Year
+Revised: April 2017

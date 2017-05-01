@@ -21,13 +21,14 @@ Pharmacokinetic Parameters of ENVARSUS XR by Study Day in Healthy Subjects and K
 | Population | ENVARSUS XR Dosea | Dayb | Pharmacokinetic Parameters of ENVARSUS XR |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Cmaxc (ng/mL) | Tmaxd (hr) | AUC24c (ng•hr/mL) | C24h (ng/mL) |  |  |  |
-| Healthy Subjects (n=19) | 2 mg 2 mg | Day 1 Day 10 | 11.9 ± 3.8 8.3 ± 2.9 | 14.0 [6 - 28] 8.0 [1.0-12.0] | 50 ± 14 140 ± 50 | 1.8 ± 0.6 4.6 ± 1.7 |
-| Adult Kidney De novoe (n=21) | 11.8 mg f 10 mg 9.5 mg | Day 1 Day 7 Day 14 | 11.8 ± 7.2 25.1 ± 16.3 27.1 ± 13.4 | 8.0 [4-24] 6.0 [2-12] 4.0 [1-8] | 138 ± 80 335 ± 129 371 ± 104 | 5.2 ± 2.7 9.9 ± 4.4 11.4 ± 4.1j |
-| Adult Kidney De novo (n=10) | 15.5 mg g 11.4 mg 11.1 mg | Day 1 Day 14 Day 28 | 33.6 ± 21.8 31.1 ± 14.6 35.9± 18.7 | 6.0 [4-24] 4.0 [1-18] 4.0 [1-14] | 377 ± 257 376 ± 140 396 ± 150 | 11.0 ± 6.1 9.1 ± 3.0 10.5 ± 3.2 |
-| Adult Kidney (≥ 6 months post- transplant) (n=47) | 5.3 mg | Day 7i | 13.5 ± 4.8 | 6.0 [1 - 16] | 216 ± 63 | 7.0 ± 2.3 |
-| a) Healthy ault subjects (administered mg/day dose); Adult de novo kidney transplant patients (group average of administered mg/day dose); Adult kidney ≥ 6 months post-transplant (group average of administered mg/day dose of ENVARSUS XR, following conversion to 67% to 80% of the daily tacrolimus immediate-release capsules dose) b) Day of ENVARSUS XR dosing and PK profiling c) Arithmetic means ± S.D. d) Median [range] e) “De novo” refers to immunosuppression starting at the time of transplantation f) Starting ENVARSUS XR dose = 0.14 mg/kg/day g) Starting ENVARSUS XR dose = 0.17 mg/kg/day. In de novo kidney transplant patients who received ENVARSUS XR starting dose of 0.17 mg/kg/day achieved higher than recommended target tacrolimus trough concentrations, as high as 57 ng/mL during the first 1 to 2 weeks post-transplant h) Tacrolimus trough concentration before the next dose i) After 7 days of stable dosing with ENVARSUS XR j) AUC0-24 –to- C24 correlation coefficient (r) at steady state was 0.80 or higher |  |  |  |  |  |  |
+| Healthy Subjectsa (n=19) | 2 mg 2 mg | Day 1 Day 10 | 11.9 ± 3.8 8.3 ± 2.9 | 14.0 [6 - 28] 8.0 [1.0-12.0] | 50 ± 14 140 ± 50 | 1.8 ± 0.6 4.6 ± 1.7 |
+| Adult Kidneya De novoe (n=21) | 11.8 mg f 10 mg 9.5 mg | Day 1 Day 7 Day 14 | 11.8 ± 7.2 25.1 ± 16.3 27.1 ± 13.4 | 8.0 [4-24] 6.0 [2-12] 4.0 [1-8] | 138 ± 80 335 ± 129 371 ± 104 | 5.2 ± 2.7 9.9 ± 4.4 11.4 ± 4.1j |
+| Adult Kidneya De novo (n=10) | 15.5 mg g 11.4 mg 11.1 mg | Day 1 Day 14 Day 28 | 33.6 ± 21.8 31.1 ± 14.6 35.9± 18.7 | 6.0 [4-24] 4.0 [1-18] 4.0 [1-14] | 377 ± 257 376 ± 140 396 ± 150 | 11.0 ± 6.1 9.1 ± 3.0 10.5 ± 3.2 |
+| Adult Kidneya (≥ 6 months post- transplant) (n=47) | 5.3 mg | Day 7i | 13.5 ± 4.8 | 6.0 [1 - 16] | 216 ± 63 | 7.0 ± 2.3j |
+| Adult African- American Kidneyk (≥ 6 months post-transplant) (n=46) | 7.8 mg | Day 7i | 18.4 ± 7.2 | 5.0 [1 - 16] | 272 ± 97 | 7.8 ± 2.9j |
+| a) Healthy adult subjects (administered mg/day dose); Adult de novo kidney transplant patients (group average of administered mg/day dose); Adult kidney ≥ 6 months post-transplant (group average of administered mg/day dose of ENVARSUS XR, following conversion to 67% to 80% of the daily tacrolimus immediate-release capsules dose) b) Day of ENVARSUS XR dosing and PK profiling c) Arithmetic means ± S.D. d) Median [range] e) “De novo” refers to immunosuppression starting at the time of transplantation f) Starting ENVARSUS XR dose = 0.14 mg/kg/day g) Starting ENVARSUS XR dose = 0.17 mg/kg/day. In de novo kidney transplant patients who received ENVARSUS XR starting dose of 0.17 mg/kg/day achieved higher than recommended target tacrolimus trough concentrations, as high as 57 ng/mL during the first 1 to 2 weeks post-transplant h) Tacrolimus trough concentration before the next dose i) After 7 days of stable dosing with ENVARSUS XR j) AUC0-24 –to- C24 correlation coefficient (r) at steady state was 0.80 or higher k) Conversion to ENVARSUS XR at a mean dose of 80% of the total daily dose of tacrolimus immediate-release resulted in equivalent exposure with a 30% reduction in Cmax. |  |  |  |  |  |  |
 
-In adult kidney transplant patients ≥ 6 months post-transplant switched to ENVARSUS XR® XR at 67% to 80% of the daily dose of tacrolimus immediate-release capsules, the steady state tacrolimus exposures (AUC24) and tacrolimus trough concentrations (C24) were comparable to the AUC24 and C24 measured prior to the switch.
+In adult kidney transplant patients ≥ 6 months post-transplant switched to ENVARSUS XR at 67% to 80% of the daily dose of tacrolimus immediate-release capsules, the steady state tacrolimus exposures (AUC24) and tacrolimus trough concentrations (C24) were comparable to the AUC24 and C24 measured prior to the switch.
 However, the mean Cmax estimate was 30% lower and the median Tmax was more prolonged (6 hours versus 2 hours) following administration of ENVARSUS XR as compared to that of tacrolimus immediate-release capsules.
 
 Absorption
@@ -72,8 +73,6 @@ The elimination half-life of tacrolimus after oral administration of 2 mg ENVARS
 
 Specific Populations
 
-No dedicated pharmacokinetic studies in specific populations were conducted with ENVARSUS XR.
-
 Renal Impairment
 
 Tacrolimus pharmacokinetics following a single administration of tacrolimus (administered as a continuous IV infusion) were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9±1.6 and 12.0±2.4 mg/dL, respectively) prior to their kidney transplant.
@@ -84,16 +83,13 @@ Hepatic Impairment
 Tacrolimus pharmacokinetics have been determined in 6 patients with mild hepatic impairment (mean Pugh score: 6.2) following single oral administration of tacrolimus immediate-release.
 The mean clearance of tacrolimus in patients with mild hepatic impairment was not substantially different from that in healthy subjects.
 Tacrolimus pharmacokinetics were studied in 6 patients with severe hepatic impairment (mean Pugh score: >10).
-The mean clearance was substantially lower in patients with severe hepatic impairment [see Dosage and Administration (2.2), Use in Specific Populations (8.7)].
+The mean clearance was substantially lower in patients with severe hepatic impairment [see Dosage and Administration (2.2) and Use in Specific Populations (8.7)].
 
 Race
 
-The pharmacokinetics of tacrolimus was studied following single oral administration of tacrolimus immediate-release (5 mg) in 10 African-American, 12 Latino-American, and 12 Caucasian healthy subjects:
-
-- The mean (±SD) tacrolimus Cmax in African-Americans (23.6±12.1 ng/mL) was lower than in Caucasians (40.2±12.6 ng/mL) and Latino-Americans (36.2±15.8 ng/mL).
-- Mean AUC0-inf tended to be lower in African-Americans (203±115 ng•hr/mL) than Caucasians (344±186 ng•hr/mL) and Latino-Americans (274±150 ng•hr/mL).
-- The mean (±SD) absolute oral bioavailability (F) in African-Americans (12±4.5%) and Latino-Americans (14±7.4%) was lower than in Caucasians (19±5.8%).
-- There was no significant difference in mean terminal half-life among the three ethnic groups (range from approximately 25 to 30 hours) [see Dosage and Administration (2.1), Use in Specific Populations (8.8)].
+The pharmacokinetics of ENVARSUS XR were evaluated in a study of 46 stable African American kidney transplant recipients converted from tacrolimus immediate-release to ENVARSUS XR.
+Approximately 80% of the African American patients were carriers of the active, wild type CYP3A5*1 allele.
+Regardless of genotype status, the PK results demonstrated similar exposure, lower Cmax, prolonged Tmax, and increased bioavailability compared to tacrolimus immediate-release [see Dosage and Administration (2.2) and Use in Specific Populations (8.8)].
 
 Gender
 
@@ -105,4 +101,4 @@ Drug Interaction Studies
 No drug-drug interaction studies were conducted specifically with ENVARSUS XR.
 
 Because tacrolimus is metabolized mainly by CYP3A enzymes, drugs or substances known to inhibit these enzymes and/or are known CYP3A substrates may increase tacrolimus whole blood concentrations.
-Drugs known to induce CYP3A enzymes may decrease tacrolimus whole blood concentrations [see Warnings and Precautions (5.9), Drug Interactions (7.2)].
+Drugs known to induce CYP3A enzymes may decrease tacrolimus whole blood concentrations [see Warnings and Precautions (5.9) and Drug Interactions (7.2)].

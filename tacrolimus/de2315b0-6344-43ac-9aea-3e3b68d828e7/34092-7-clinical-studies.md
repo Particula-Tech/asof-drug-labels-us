@@ -29,8 +29,8 @@ Incidence of BPAR, Graft Loss, Death or Lost to Follow-up at 12 Months in Stable
 
 |  | ENVARSUS XR ± Steroids ± MMF, MPS, or AZA N=162 | Tacrolimus Immediate-Release ± Steroids ± MMF, MPS, or AZA N=162 |
 | --- | --- | --- |
-| Overall Treatment Difference of efficacy failure compared to tacrolimus immediate-release (95% CI)a | 0% (-4.2%, 4.2%) |  |
 | Treatment Failure | 4 (2.5%) | 4 (2.5%) |
+| Overall Treatment Difference of efficacy failure compared to tacrolimus immediate-release (95% CI)a | 0% (-4.2%, 4.2%) |  |
 | Biopsy Proven Acute Rejection | 2 (1.2%) | 2 (1.2%) |
 | Graft Failure | 0% | 0% |
 | Death | 2 (1.2%) | 1 (0.6%) |

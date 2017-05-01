@@ -35,7 +35,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 ## 8.6 Renal Impairment
 
 The pharmacokinetics of tacrolimus in patients with renal impairment was similar to that in healthy subjects with normal renal function.
-However, due to its potential for nephrotoxicity, monitoring of renal function in patients with renal impairment is recommended; tacrolimus dosage should be reduced if indicated [see Warnings and Precautions (5.5), Clinical Pharmacology (12.2)].
+However, due to its potential for nephrotoxicity, monitoring of renal function in patients with renal impairment is recommended; tacrolimus dosage should be reduced if indicated [see Warnings and Precautions (5.5) and Clinical Pharmacology (12.2)].
 
 ## 8.7 Hepatic Impairment
 
@@ -46,4 +46,6 @@ For patients with mild hepatic impairment, no dosage adjustments are needed.
 
 ## 8.8 Race
 
-African-American patients may need to be titrated to higher ENVARSUS XR dosages to attain comparable trough concentrations compared to Caucasian patients [see Dosage and Administration (2.1), Clinical Pharmacology (12.2))]
+African-American patients may need to be titrated to higher ENVARSUS XR dosages to attain comparable trough concentrations compared to Caucasian patients [see Dosage and Administration (2.1) and Clinical Pharmacology (12.2)].
+
+The pharmacokinetics of ENVARSUS XR were evaluated in a study of 46 stable African-American kidney transplant recipients converted from tacrolimus immediate-release to ENVARSUS XR and indicated that an 80% conversion factor is appropriate for African-American patients [see Dosage and Administration (2.1) and Clinical Pharmacology (12.2)].
