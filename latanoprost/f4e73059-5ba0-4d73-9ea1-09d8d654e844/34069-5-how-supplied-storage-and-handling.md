@@ -5,8 +5,6 @@ It is supplied as a 2.5 mL solution in a 5 mL clear low density polyethylene bot
 
 2.5 mL fill, 0.005% (50 mcg/mL): Package of 1 bottle: NDC 0013-8303-04
 
-2.5 mL fill, 0.005% (50 mcg/mL): Multi-pack of 3 bottles: NDC 0013-8303-01
-
 Storage: Protect from light.
 Store unopened bottle(s) under refrigeration at 2° to 8°C (36° to 46°F).
 During shipment to the patient, the bottle may be maintained at temperatures up to 40°C (104°F) for a period not exceeding 8 days.

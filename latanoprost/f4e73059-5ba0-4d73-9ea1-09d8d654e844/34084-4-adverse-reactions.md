@@ -17,53 +17,59 @@ Patients received 50 mcg/mL XALATAN once daily or 5 mg/mL active-comparator (tim
 The patient population studied had a mean age of 65±10 years.
 Seven percent of patients withdrew before the 6-month endpoint.
 
-Table 1: Ocular Adverse Reactions and ocular signs/symptoms reported by 5–15% of patients receiving Latanoprost
+Table 1: Ocular Adverse Reactions and Ocular Signs/Symptoms Reported by 5–15% of Patients Receiving Latanoprost
 
 | Latanoprost (n=460) | Timolol (n=369) |  |
 | --- | --- | --- |
 | Symptom/Finding | Adverse Reactions (incidence (%)) |  |
 | Foreign body sensation | 13 | 8 |
-| Punctate epithelial keratopathy | 10 | 9 |
+| Punctate keratitis | 10 | 9 |
 | Stinging | 9 | 12 |
 | Conjunctival hyperemia | 8 | 3 |
 | Blurred vision | 8 | 8 |
 | Itching | 8 | 8 |
 | Burning | 7 | 8 |
-| Increased pigmentation of the iris | 7 | 0 |
+| Increased pigmentation of the Iris | 7 | 0 |
 
 Less than 1% of the patients treated with XALATAN required discontinuation of therapy because of intolerance to conjunctival hyperemia.
 
-Table 2: Adverse Reactions that were reported in 1–5% of patients receiving Latanoprost
+Table 2: Adverse Reactions That Were Reported in 1–5% of Patients Receiving Latanoprost
 
 | Latanoprost (n=460) | Timolol (n=369) |  |
 | --- | --- | --- |
 |  | Adverse Reactions (incidence (%)) |  |
 | Ocular Events/Signs and Symptoms |  |  |
 | Excessive tearing | 4 | 6 |
-| Lid discomfort/pain | 4 | 2 |
+| Eyelid discomfort/pain | 4 | 2 |
 | Dry eye | 3 | 3 |
 | Eye pain | 3 | 3 |
-| Lid crusting | 3 | 3 |
-| Lid erythema | 3 | 2 |
+| Eyelid margin crusting | 3 | 3 |
+| Erythema of the eyelid | 3 | 2 |
 | Photophobia | 2 | 1 |
-| Lid edema | 1 | 3 |
+| Eyelid edema | 1 | 3 |
 | Systemic Events |  |  |
-| Upper respiratory tract infection/cold/flu | 3 | 3 |
-| Muscle/joint/back pain | 1 | 0.5 |
+| Upper respiratory tract infection/nasopharyngitis/influenza | 3 | 3 |
+| Myalgia/arthralgia/back pain | 1 | 0.5 |
 | Rash/allergic skin reaction | 1 | 0.3 |
+
+The ocular event/signs and symptoms of blepharitis have been identified as "commonly observed" through analysis of clinical trial data.
 
 ## 6.2 Postmarketing Experience
 
 The following reactions have been identified during postmarketing use of XALATAN in clinical practice.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
+Because they are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to XALATAN, or a combination of these factors, include:
 
-Nervous System disorders: dizziness, headache, and toxic epidermal necrolysis
+Nervous System disorders: Dizziness; headache; toxic epidermal necrolysis
 
-Eye Disorders: eyelash and vellus hair changes (increased length, thickness, pigmentation, and number); keratitis; corneal edema and erosions; intraocular inflammation (iritis/uveitis); macular edema, including cystoid macular edema; misdirected eyelashes sometimes resulting in eye irritation; periorbital and lid changes resulting in deepening of the eyelid sulcus
+Eye Disorders: Eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation, and number of eyelashes); keratitis; corneal edema and erosions; intraocular inflammation (iritis/uveitis); macular edema, including cystoid macular edema; trichiasis; periorbital and lid changes resulting in deepening of the eyelid sulcus; iris cyst; eyelid skin darkening; localised skin reaction on the eyelids; conjunctivitis; pseudopemphigoid of the ocular conjunctiva
 
-Respiratory, Thoracic and Mediastinal Disorders: asthma and exacerbation of asthma; dyspnea
+Respiratory, Thoracic and Mediastinal Disorders: Asthma and exacerbation of asthma; dyspnea
 
-Skin and Subcutaneous Tissue Disorders: eyelid skin darkening
+Skin and Subcutaneous Tissue Disorders: Pruritus
 
 Infections and Infestations: Herpes keratitis
+
+Cardiac Disorders: Angina; palpitations; angina unstable
+
+General Disorders and Administration Site Conditions: Chest pain

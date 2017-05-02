@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-XALATAN Sterile Ophthalmic Solution is indicated for the reduction of elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension.
+XALATAN is indicated for the reduction of elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension.

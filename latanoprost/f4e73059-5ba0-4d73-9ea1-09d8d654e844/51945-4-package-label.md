@@ -17,19 +17,3 @@ STERILE 0.005%
 125 mcg/2.5 mL*
 
 One 2.5 mL Bottle Rx only
-
-# PRINCIPAL DISPLAY PANEL - 3 2.5 mL Bottles Carton
-
-NDC 0013-8303-01
-
-Pfizer
-
-Xalatan® latanoprost ophthalmic solution
-
-STERILE 0.005%
-
-125 µg/2.5 mL*
-
-Multi-Pack Three 2.5 mL bottles Not to be sold separately.
-
-Rx only

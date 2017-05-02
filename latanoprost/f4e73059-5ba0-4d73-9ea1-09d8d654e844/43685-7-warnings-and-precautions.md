@@ -14,12 +14,12 @@ Beyond 5 years the effects of increased pigmentation are not known [see Clinical
 Iris color change may not be noticeable for several months to years.
 Typically, the brown pigmentation around the pupil spreads concentrically towards the periphery of the iris and the entire iris or parts of the iris become more brownish.
 Neither nevi nor freckles of the iris appear to be affected by treatment.
-While treatment with XALATAN can be continued in patients who develop noticeably increased iris pigmentation, these patients should be examined regularly [see Patient Counseling Information (17.1)].
+While treatment with XALATAN can be continued in patients who develop noticeably increased iris pigmentation, these patients should be examined regularly [see Patient Counseling Information (17)].
 
 ## 5.2 Eyelash Changes
 
 XALATAN may gradually change eyelashes and vellus hair in the treated eye; these changes include increased length, thickness, pigmentation, the number of lashes or hairs, and misdirected growth of eyelashes.
-Eyelash changes are usually reversible upon discontinuation of treatment [see Patient Counseling Information (17.2)].
+Eyelash changes are usually reversible upon discontinuation of treatment [see Patient Counseling Information (17)].
 
 ## 5.3 Intraocular Inflammation
 
@@ -39,7 +39,7 @@ XALATAN should be avoided in cases of active herpes simplex keratitis because in
 ## 5.6 Bacterial Keratitis
 
 There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
-These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see Patient Counseling Information (17.3)].
+These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see Patient Counseling Information (17)].
 
 ## 5.7 Use with Contact Lenses
 
