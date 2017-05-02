@@ -101,7 +101,7 @@ Itraconazole is not active against Zygomycetes (e.g., Rhizopus spp., Rhizomucor 
 
 Cross-resistance:
 
-Several in vitro studies have reported that some fungal clinical isolateswith reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
+Several in vitro studies have reported that some fungal clinical isolates with reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
 The finding of cross-resistance is dependent on a number of factors, including the species evaluated, its clinical history, the particular azole compounds compared, and the type of susceptibility test that is performed.
 
 Studies (both in vitro and in vivo) suggest that the activity of amphotericin B may be suppressed by prior azole antifungal therapy.

@@ -9,8 +9,9 @@ NDC 62332-204-30 Bottle of 30 Capsules NDC 62332-204-90 Bottle of 90 Capsules ND
 Store at controlled room temperature 15° to 25°C (59° to 77°F).
 Protect from light and moisture.
 Keep out of reach of children.
+Medication Guide available at http://www.alembicusa.com/medicationguide.aspx or call 1-866 210 9797.
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India
 
 Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA
 
-Revised: 02/2016
+Revised: 04/2017

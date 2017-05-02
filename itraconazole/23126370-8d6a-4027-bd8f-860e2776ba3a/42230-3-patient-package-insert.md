@@ -59,7 +59,7 @@ Never take itraconazole if you:
 - are taking any of the medicines listed below.
   Dangerous or even life-threatening side effects could result:
 
-•cisapride (such as Propulsid®) •colchicine (such as Colcrys™) [if you also have pre-existing kidney or liver impairment] •disopyramide (such as Norpace®) •dofetilide (such as Tikosyn™) •dronedarone (such as Multaq®) •eplerenone (such as Inspra®) •ergot alkaloids (such as Migranal®, Ergonovine, Cafergot®, Methergine®) •felodipine (such as Plendil®) •fesoterodine (such as Toviaz®) [if you also have pre-existing kidney or liver impairment] •irinotecan (such as Camptosar®) •lovastatin (such as Mevacor®, Advicor®, Altocor™) •lurasidone (such as Latuda®) •methadone (such as Dolophine®) •midazolam (such as Versed®) •nisoldipine (such as Sular®) •pimozide (such as Orap®) •quinidine (such as Cardioquin®, Quinaglute®, Quinidex®) •ranolazine (such as Ranexa®) •simvastatin (such as Zocor®) •solifenacin (such as Vesicare®) [if you also have pre-existing kidney or liver impairment] •telithromycin (such as Ketek®) [if you also have pre-existing kidney or liver impairment] •ticagrelor (such as Brilinta®) •triazolam (such as Hacion®)
+•cisapride (such as Propulsid®) •colchicine (such as Colcrys™) [if you also have pre-existing kidney or liver impairment] •disopyramide (such as Norpace®) •dofetilide (such as Tikosyn™) •dronedarone (such as Multaq®) •eplerenone (such as Inspra®) •ergot alkaloids (such as Migranal®, Ergonovine, Cafergot®, Methergine®) •felodipine (such as Plendil®) •fesoterodine (such as Toviaz®) [if you also have pre-existing kidney or liver impairment] •irinotecan (such as Camptosar®) • ivabradine (such as Corlanor ®) •lovastatin (such as Mevacor®, Advicor®, Altocor™) •lurasidone (such as Latuda®) •methadone (such as Dolophine®) •midazolam (such as Versed®) •nisoldipine (such as Sular®) •pimozide (such as Orap®) •quinidine (such as Cardioquin®, Quinaglute®, Quinidex®) •ranolazine (such as Ranexa®) •simvastatin (such as Zocor®) •solifenacin (such as Vesicare®) [if you also have pre-existing kidney or liver impairment] •telithromycin (such as Ketek®) [if you also have pre-existing kidney or liver impairment] •ticagrelor (such as Brilinta®) •triazolam (such as Hacion®)
 
 · have ever had an allergic reaction to itraconazole
 
@@ -143,8 +143,9 @@ You may report side effects to Alembic Pharmaceuticals Limited at 1-866 210 9797
 
 This patient information has been approvedby the U.S. Food and Drug Administration.
 
-The brands listed are the registered trademarks of their respective owners, and are not trademarks of Alembic Pharmaceuticals Ltd. Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India
+The brands listed are the registered trademarks of their respective owners, and are not trademarks of Alembic Pharmaceuticals Ltd. Medication Guide available at http://www.alembicusa.com/medicationguide.aspx or call 1-866 210 9797.
+Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India
 
 Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA
 
-Revised: 02/2016
+Revised: 04/2017
