@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Screening for HLA-B*5701 Allele Prior to Starting Abacavir Tablets
+## 2.1 Screening for HLA-B*5701 Allele prior to Starting Abacavir Tablets
 
 Screen for the HLA-B*5701 allele prior to initiating therapy with abacavir tablets [see Boxed Warning, Warnings and Precautions (5.1)].
 
@@ -18,12 +18,12 @@ The recommended oral dosage of abacavir tablets for HIV-1-infected pediatric pat
 Table 1.
 Dosing Recommendations for Abacavir Scored Tablets in Pediatric Patients
 
-| Weight (kg) | Twice-daily Dosing Regimen |  |  |
+| Weight (kg) | Twice-Daily Dosing Regimen |  |  |
 | --- | --- | --- | --- |
 | AM Dose | PM Dose | Total Daily Dose |  |
 | 14 to <20 | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |
-| >20 to <25 | ½ tablet (150 mg) | 1 tablet (300 mg) | 450 mg |
-| ≥25 | 1 tablet (300 mg) | 1 tablet (300 mg) | 600 mg |
+| > 20 to <25 | ½ tablet (150 mg) | 1 tablet (300 mg) | 450 mg |
+| ≥ 25 | 1 tablet (300 mg) | 1 tablet (300 mg) | 600 mg |
 
 Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company’s ZIAGEN® (abacavir sulfate) tablets.
 However, due to ViiV Healthcare Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

@@ -2,7 +2,7 @@
 
 ## 14.1 Adult Trials
 
-Therapy-naive Adults CNA30024 was a multicenter, double-blind, controlled trial in which 649 HIV-1-infected, therapy-naive adults were randomized and received either abacavir (300 mg twice daily), lamivudine (150 mg twice daily), and efavirenz (600 mg once daily); or zidovudine (300 mg twice daily), lamivudine (150 mg twice daily), and efavirenz (600 mg once daily).
+Therapy-Naive Adults CNA30024 was a multicenter, double-blind, controlled trial in which 649 HIV-1-infected, therapy-naive adults were randomized and received either abacavir (300 mg twice daily), lamivudine (150 mg twice daily), and efavirenz (600 mg once daily); or zidovudine (300 mg twice daily), lamivudine (150 mg twice daily), and efavirenz (600 mg once daily).
 The duration of double-blind treatment was at least 48 weeks.
 Trial participants were male (81%), white (51%), black (21%), and Hispanic (26%).
 The median age was 35 years; the median pretreatment CD4+ cell count was 264 cells per mm3, and median plasma HIV-1 RNA was 4.79 log10 copies per mL.
@@ -46,7 +46,7 @@ Proportions of Responders through Week 48 by Screening Plasma HIV-1 RNA Levels (
 | Screening HIV-1 RNA (copies/mL) | Abacavir plus Lamivudine/Zidovudine (n = 262) |  | Indinavir plus Lamivudine/Zidovudine (n = 265) |  |
 | --- | --- | --- | --- | --- |
 | <400 copies/mL | n | <400 copies/mL | n |  |
-| ≥10,000 - ≤100,000 >100,000 | 50% 48% | 166 96 | 48% 52% | 165 100 |
+| ≥10,000 to ≤100,000 >100,000 | 50% 48% | 166 96 | 48% 52% | 165 100 |
 
 In subjects with baseline viral load greater than 100,000 copies per mL, percentages of subjects with HIV-1 RNA levels less than 50 copies per mL were 31% in the group receiving abacavir versus 45% in the group receiving indinavir.
 Through Week 48, an overall mean increase in CD4+ cell count of about 150 cells per mm3 was observed in both treatment arms.
@@ -74,7 +74,7 @@ None of the deaths were attributed to trial medications.
 
 ## 14.2 Pediatric Trials
 
-Therapy-experienced Pediatric Subjects
+Therapy-Experienced Pediatric Subjects
 
 CNA3006 was a randomized, double-blind trial comparing abacavir 8 mg per kg twice daily plus lamivudine 4 mg per kg twice daily plus zidovudine 180 mg per m2 twice daily versus lamivudine 4 mg per kg twice daily plus zidovudine 180 mg per m2 twice daily.
 Two hundred and five therapy-experienced pediatric subjects were enrolled: female (56%), white (17%), black (50%), Hispanic (30%), median age of 5.4 years, baseline CD4+ cell percent greater than 15% (median = 27%), and median baseline plasma HIV-1 RNA of 4.6 log10 copies per mL.

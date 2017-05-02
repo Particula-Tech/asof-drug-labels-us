@@ -21,6 +21,8 @@ A list of these symptoms is on the Warning Card your pharmacist gives you.
 Carry this Warning Card with you at all times.
 If you stop abacavir tablets because of an allergic reaction, never take abacavir or any other abacavir-containing medicine (EPZICOM®, TRIUMEQ®, or TRIZIVIR®) again.
 
+- If you have an allergic reaction, dispose of any unused abacavir tablets.
+  Ask your pharmacist how to properly dispose of medicines.
 - If you take abacavir tablets or any other abacavir-containing medicine again after you have had an allergic reaction, within hours you may get life-threatening symptoms that may include very low blood pressure or death.
 - If you stop abacavir tablets for any other reason, even for a few days, and you are not allergic to abacavir tablets, talk with your healthcare provider before taking them again.
   Taking abacavir tablets again can cause a serious allergic or life-threatening reaction, even if you never had an allergic reaction to them before.
@@ -66,14 +68,6 @@ Reducing the amount of HIV-1 and increasing the CD4+ (T) cells in your blood may
 This may reduce your risk of death or getting infections that can happen when your immune system is weak (opportunistic infections).
 Abacavir tablets do not cure HIV-1 infection or AIDS.
 You must keep taking HIV-1 medicines to control HIV- 1 infection and decrease HIV-related illnesses.
-Avoid doing things that can spread HIV-1 infection to others.
-
-- Do not share or re-use needles or other injection equipment.
-- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-- Do not have any kind of sex without protection.
-  Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
-
-Ask your healthcare provider if you have any questions about how to prevent passing HIV to other people.
 Who should not take abacavir tablets?
 Do not take abacavir tablet if you:
 
@@ -91,7 +85,6 @@ Before you take abacavir tablets, tell your healthcare provider if you:
 - have heart problems, smoke, or have diseases that increase your risk of heart disease such as high blood pressure, high cholesterol, or diabetes.
 - drink alcohol or take medicines that contain alcohol.
 - are pregnant or plan to become pregnant.
-  Taking abacavir tablets during pregnancy has not been associated with an increased risk of birth defects.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 
 Pregnancy Registry.
@@ -109,9 +102,6 @@ Keep a list of your medicines to show your healthcare provider and pharmacist.
 You can ask your healthcare provider or pharmacist for a list of medicines that interact with abacavir tablets.
 Do not start taking a new medicine without telling your healthcare provider.
 Your healthcare provider can tell you if it is safe to take abacavir tablets with other medicines.
-You should not take abacavir tablets if you also take:
-
-- abacavir (EPZICOM, TRIUMEQ, or TRIZIVIR)
 
 Tell your healthcare provider if you take:
 
@@ -189,4 +179,4 @@ The tablets are coated with a film that is made of hypromellose, iron oxide yell
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 The brands listed are trademarks of their respective owners and are not trademarks of the Aurobindo Pharma Limited.
 The markers of these brands are not affiliated with and do not endorse the Aurobindo Pharma Limited or its products.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 05/2016
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 04/2017

@@ -12,7 +12,7 @@ Due to the potential for severe, serious, and possibly fatal hypersensitivity re
 
 - All patients should be screened for the HLA-B*5701 allele prior to initiating therapy with abacavir or reinitiation of therapy with abacavir, unless patients have a previously documented HLA-B*5701 allele assessment.
 - Abacavir is contraindicated in patients with a prior hypersensitivity reaction to abacavir and in HLA-B*5701-positive patients.
-- Before starting abacavir, review medical history for prior exposure to any abacavir containing product.
+- Before starting abacavir, review medical history for prior exposure to any abacavir-containing product.
   NEVER restart abacavir or any other abacavir-containing product following a hypersensitivity reaction to abacavir, regardless of HLA-B*5701 status.
 - To reduce the risk of a life-threatening hypersensitivity reaction, regardless of HLA-B*5701 status, discontinue abacavir immediately if a hypersensitivity reaction is suspected, even when other diagnoses are possible (e.g., acute onset respiratory diseases such as pneumonia, bronchitis, pharyngitis, or influenza; gastroenteritis; or reactions to other medications).
 - If a hypersensitivity reaction cannot be ruled out, do not restart abacavir or any other abacavir-containing products because more severe symptoms which may include life-threatening hypotension and death, can occur within hours.
@@ -33,7 +33,6 @@ Treatment with abacavir should be suspended in any patient who develops clinical
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including abacavir.
 During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
-
 Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.
 
 ## 5.4 Fat Redistribution
@@ -48,8 +47,3 @@ In a published prospective, observational, epidemiological trial designed to inv
 In a sponsor-conducted pooled analysis of clinical trials, no excess risk of MI was observed in abacavir-treated subjects as compared with control subjects.
 In totality, the available data from the observational cohort and from clinical trials are inconclusive.
 As a precaution, the underlying risk of coronary heart disease should be considered when prescribing antiretroviral therapies, including abacavir, and action taken to minimize all modifiable risk factors (e.g., hypertension, hyperlipidemia, diabetes mellitus, smoking).
-
-## 5.6 Related Products that are Not Recommended
-
-Abacavir is one of multiple abacavir-containing products.
-Concomitant administration of abacavir with other products containing abacavir is not recommended.
