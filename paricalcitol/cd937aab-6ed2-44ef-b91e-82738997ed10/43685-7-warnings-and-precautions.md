@@ -5,9 +5,7 @@ Excessive administration of vitamin D compounds, including paricalcitol capsules
 ## 5.1 Hypercalcemia
 
 Progressive hypercalcemia due to overdosage of vitamin D and its metabolites may be so severe as to require emergency attention [see Overdosage (10)].
-Acute hypercalcemia may exacerbate
-
-tendencies for cardiac arrhythmias and seizures and may potentiate the action of digitalis.
+Acute hypercalcemia may exacerbate tendencies for cardiac arrhythmias and seizures and may potentiate the action of digitalis.
 Chronic hypercalcemia can lead to generalized vascular calcification and other soft-tissue calcification.
 Concomitant administration of high doses of calcium-containing preparations or thiazide diuretics with paricalcitol may increase the risk of hypercalcemia.
 High intake of calcium and phosphate concomitant with vitamin D compounds may lead to serum abnormalities requiring more frequent patient monitoring and individualized dose titration.

@@ -1,14 +1,15 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 CYP3A Inhibitors
+Table 6 shows the clinically significant drug interactions with paricalcitol capsules.
 
-Since paricalcitol is partially metabolized by CYP3A, exposure of paricalcitol will be increased while paricalcitol is co-administered with strong CYP3A inhibitors including the following drugs but not limited to: ketoconazole, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin or voriconazole.
-Dose adjustment of paricalcitol capsules may be required, and iPTH and serum calcium concentrations should be closely monitored if a patient initiates or discontinues therapy with a strong CYP3A4 inhibitor [see Clinical Pharmacology (12.3)].
-
-## 7.2 Cholestyramine
-
-Drugs that impair intestinal absorption of fat-soluble vitamins, such as cholestyramine, may interfere with the absorption of paricalcitol capsules.
-
-## 7.3 Mineral Oil
-
-The use of mineral oil or other substances that may affect absorption of fat may influence the absorption of paricalcitol capsules.
+| Table 6: Clinically Significant Drug Interactions with Paricalcitol |  |
+| --- | --- |
+| CYP3A Inhibitors |  |
+| Clinical Impact | Paricalcitol is partially metabolized by CYP3A. Hence, exposure of paricalcitol will increase upon co-administration with strong CYP3A inhibitors such as but not limited to: boceprevir, clarithromycin, conivaptan, grapefruit juice, indinavir, itraconazole, ketoconazole, lopinavir/ritonavir, mibefradil, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, voriconazole. |
+| Intervention | Dose adjustment of paricalcitol capsules may be necessary. Monitor closely for iPTH and serum calcium concentrations, if a patient initiates or discontinues therapy with a strong CYP3A4 inhibitor. |
+| Cholestyramine |  |
+| Clinical Impact | Drugs that impair intestinal absorption of fat-soluble vitamins, such as cholestyramine, may interfere with the absorption of paricalcitol. |
+| Intervention | Recommend to take paricalcitol capsules at least 1 hour before or 4 to 6 hours after taking cholestyramine (or at as great an interval as possible) to avoid impeding absorption of paricalcitol. |
+| Mineral Oil |  |
+| Clinical Impact | Mineral oil or other substances that may affect absorption of fat may influence the absorption of paricalcitol. |
+| Intervention | Recommend to take paricalcitol capsules at least 1 hour before or 4 to 6 hours after taking mineral oil (or at as great an interval as possible) to avoid affecting absorption of paricalcitol. |
