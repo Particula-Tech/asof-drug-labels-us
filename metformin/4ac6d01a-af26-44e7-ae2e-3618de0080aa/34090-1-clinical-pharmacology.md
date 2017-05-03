@@ -12,8 +12,8 @@ With metformin therapy, insulin secretion remains unchanged while fasting insuli
 
 ### Absorption and Bioavailability
 
-The absolute bioavailability of a metformin hydrochloride 500 mg tablet given under fasting conditions is approximately 50 to 60%.
-Studies using single oral doses of metformin hydrochloride tablets 500 mg to 1500 mg, and 850 mg to 2550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
+The absolute bioavailability of a metformin hydrochloride 500 mg tablet given under fasting conditions is approximately 50% to 60%.
+Studies using single oral doses of metformin hydrochloride tablets 500 to 1500 mg, and 850 to 2550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
 Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower mean peak plasma concentration (Cmax), a 25% lower area under the plasma concentration versus time curve (AUC), and a 35-minute prolongation of time to peak plasma concentration (Tmax) following administration of a single 850 mg tablet of metformin with food, compared to the same tablet strength administered fasting.
 The clinical relevance of these decreases is unknown.
 
@@ -31,25 +31,24 @@ Renal clearance (see Table 1) is approximately 3.5 times greater than creatinine
 Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
 In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
-## Special Populations
+## Specific Populations
 
 ### Patients with Type 2 Diabetes
 
 In the presence of normal renal function, there are no differences between single- or multiple-dose pharmacokinetics of metformin between patients with type 2 diabetes and normal subjects (see Table 1), nor is there any accumulation of metformin in either group at usual clinical doses.
 
-### Renal Insufficiency
+### Renal Impairment
 
-In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance (see Table 1; also see WARNINGS).
+In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased (see Table 1; also see CONTRAINDICATIONS, WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 
-### Hepatic Insufficiency
+### Hepatic Impairment
 
-No pharmacokinetic studies of metformin have been conducted in patients with hepatic insufficiency.
+No pharmacokinetic studies of metformin have been conducted in patients with hepatic insufficiency (see PRECAUTIONS).
 
 ### Geriatrics
 
 Limited data from controlled pharmacokinetic studies of metformin hydrochloride tablets in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
-From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see Table 1).
-Metformin hydrochloride tablets treatment should not be initiated in patients ≥ 80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced (see WARNINGS and DOSAGE AND ADMINISTRATION).
+From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see Table 1; also see WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 
 Table 1: Select Mean (±S.D.)
 Metformin Pharmacokinetic Parameters Following Single or Multiple Oral Doses of Metformin Hydrochloride Tablets
@@ -91,11 +90,11 @@ Table 2: Metformin Hydrochloride Tablets vs Placebo Summary of Mean Changes from
 
 A 29-week, double-blind, placebo-controlled study of metformin hydrochloride tablets and glyburide, alone and in combination, was conducted in obese patients with type 2 diabetes who had failed to achieve adequate glycemic control while on maximum doses of glyburide (baseline FPG of approximately 250 mg/dL) (see Table 3).
 Patients randomized to the combination arm started therapy with metformin hydrochloride tablets 500 mg and glyburide 20 mg.
-At the end of each week of the first four weeks of the trial, these patients had their dosages of metformin hydrochloride tablets increased by 500 mg if they had failed to reach target fasting plasma glucose.
-After week four, such dosage adjustments were made monthly, although no patient was allowed to exceed metformin hydrochloride tablets 2500 mg.
+At the end of each week of the first 4 weeks of the trial, these patients had their dosages of metformin hydrochloride tablets increased by 500 mg if they had failed to reach target fasting plasma glucose.
+After week 4, such dosage adjustments were made monthly, although no patient was allowed to exceed metformin hydrochloride tablets 2500 mg.
 Patients in the metformin hydrochloride tablets only arm (metformin plus placebo) followed the same titration schedule.
 At the end of the trial, approximately 70% of the patients in the combination group were taking metformin hydrochloride tablets 2000 mg/glyburide 20 mg or metformin hydrochloride tablets 2500 mg/glyburide 20 mg.
-Patients randomized to continue of glyburide experienced worsening of glycemic control, with mean increases in FPG, PPG, and HbA1c of 14 mg/dL, 3 mg/dL, and 0.2% respectively.
+Patients randomized to continue on glyburide experienced worsening of glycemic control, with mean increases in FPG, PPG, and HbA1c of 14 mg/dL, 3 mg/dL, and 0.2% respectively.
 In contrast, those randomized to metformin hydrochloride tablets (up to 2500 mg/day) experienced a slight improvement, with mean reductions in FPG, PPG, and HbA1c of 1 mg/dL, 6 mg/dL, and 0.4%, respectively.
 The combination of metformin hydrochloride tablets and glyburide was effective in reducing FPG, PPG, and HbA1c levels by 63 mg/dL, 65 mg/dL, and 1.7%, respectively.
 Compared to results of glyburide treatment alone, the net differences with combination treatment were -77 mg/dL, -68 mg/dL, and -1.9%, respectively (see Table 3).
@@ -112,7 +111,7 @@ Table 3: Combined Metformin Hydrochloride Tablets/Glyburide (Comb) vs Glyburide 
 
 The magnitude of the decline in fasting blood glucose concentration following the institution of metformin hydrochloride tablets therapy was proportional to the level of fasting hyperglycemia.
 Patients with type 2 diabetes with higher fasting glucose concentrations experienced greater declines in plasma glucose and glycosylated hemoglobin.
-In clinical studies, metformin hydrochloride tablets, alone or in combination with a sulfonylurea, lowered mean fasting serum triglycerides, total cholesterol, and LDL cholesterol levels and had no adverse effects on other lipid levels (see Table 4).
+In clinical studies, metformin hydrochloride tablets, alone or in combination with a sulfonylurea, lowered mean fasting serum triglycerides, total cholesterol, and LDL cholesterol levels, and had no adverse effects on other lipid levels (see Table 4).
 
 Table 4: Summary of Mean Percent Change From Baseline of Major Serum Lipid Variables at Final Visit (29-week studies)
 
@@ -137,14 +136,14 @@ Table 5: Combined Metformin Hydrochloride Tablets/Insulin vs Placebo/Insulin Sum
 | Insulin Dose (U/day) Baseline Change at FINAL VISIT | 93.12 -0.15 | 94.64 15.93 | -16.08 ± 7.77b |
 | a Statistically significant using analysis of covariance with baseline as covariate (p=0.04) Not significant using analysis of variance (values shown in table) b Statistically significant for insulin (p=0.04) |  |  |  |
 
-A second double-blind, placebo-controlled study (n=51), with 16 weeks of randomized treatment, demonstrated that in patients with type 2 diabetes controlled on insulin for 8 weeks with an average HbA1c of 7.46 ± 0.97%, the addition of metformin hydrochloride tablets maintained similar glycemic control (HbA1c 7.15 ± 0.61 versus 6.97 ± 0.62 for metformin hydrochloride tablets plus insulin and placebo plus insulin, respectively) with 19% less insulin versus baseline (reduction of 23.68 ± 30.22 versus an increase of 0.43 ± 25.2 units for metformin hydrochloride tablets plus insulin and placebo plus insulin, p<0.01).
+A second double-blind, placebo-controlled study (n=51), with 16 weeks of randomized treatment, demonstrated that in patients with type 2 diabetes controlled on insulin for 8 weeks with an average HbA1c of 7.46 ± 0.97%, the addition of metformin hydrochloride tablets maintained similar glycemic control (HbA1c 7.15 ± 0.61 vs 6.97 ± 0.62 for metformin hydrochloride tablets plus insulin and placebo plus insulin, respectively) with 19% less insulin versus baseline (reduction of 23.68 ± 30.22 vs an increase of 0.43 ± 25.2 units for metformin hydrochloride tablets plus insulin and placebo plus insulin, p<0.01).
 In addition, this study demonstrated that the combination of metformin hydrochloride tablets plus insulin resulted in reduction in body weight of 3.11 ± 4.3 lbs, compared to an increase of 1.3 ± 6.08 lbs for placebo plus insulin, p=0.01.
 
 ## Pediatric Clinical Studies
 
-In a double-blind, placebo-controlled study in pediatric patients aged 10 to 16 years with type 2 diabetes (mean FPG 182.2 mg/dL), treatment with metformin hydrochloride tablets (up to 2000 mg/day) for up to 16 weeks (mean duration of treatment 11 weeks) resulted in significant mean net reduction in FPG of 64.3 mg/dL, compared with placebo (see Table 6).
+In a double-blind, placebo-controlled study in pediatric patients aged 10 to 16 years with type 2 diabetes (mean FPG 182.2 mg/dL), treatment with metformin hydrochloride tablets (up to 2000 mg/day) for up to 16 weeks (mean duration of treatment 11 weeks) resulted in a significant mean net reduction in FPG of 64.3 mg/dL, compared with placebo (see Table 10).
 
-Table 6: Metformin Hydrochloride Tablets vs Placebo (Pediatricsa) Summary of Mean Changes from Baseline* in Plasma Glucose and Body weight at Final Visit
+Table 10: Metformin Hydrochloride Tablets vs Placebo (Pediatricsa) Summary of Mean Changes from Baseline* in Plasma Glucose and Body weight at Final Visit
 
 |  | Metformin Hydrochloride Tablets | Placebo | p-Value |
 | --- | --- | --- | --- |
