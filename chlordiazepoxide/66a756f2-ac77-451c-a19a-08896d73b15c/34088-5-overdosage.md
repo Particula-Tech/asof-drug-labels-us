@@ -32,7 +32,7 @@ Emesis is contraindicated.
 
 ### Cardiovascular
 
-A maximal limb lead QRS duration of ≥ 0.10 seconds may be the best indication of the severity of the overdose.
+A maximal limb-lead QRS duration of ≥ 0.10 seconds may be the best indication of the severity of the overdose.
 Serum alkalinization, to a pH of 7.45 to 7.56, using intravenous sodium bicarbonate and hyperventilation (as needed) should be instituted for patients with dysrhythmias and/or QRS widening.
 A pH > 7.60 or a pCO2 < 20 mm Hg is undesirable.
 Dysrhythmias unresponsive to sodium bicarbonate therapy/hyperventilation may respond to lidocaine, bretylium or phenytoin.
@@ -45,7 +45,7 @@ However, hemodialysis, peritoneal dialysis, exchange transfusions and forced diu
 
 In patients with CNS depression, early intubation is advised because of the potential for abrupt deterioration.
 Seizures should be controlled with benzodiazepines, or if these are ineffective, other anticonvulsants (e.g., phenobarbital, phenytoin).
-Physostigmine is not recommended except to treat life threatening symptoms that have been unresponsive to other therapies, and then only in consultation with a poison control center.
+Physostigmine is not recommended except to treat life-threatening symptoms that have been unresponsive to other therapies, and then only in consultation with a poison control center.
 
 ### Psychiatric Follow-up
 
@@ -59,12 +59,12 @@ It is strongly recommended that the physician contact the local poison control c
 
 *Poisindex® Toxicologic Management.
 Topic: Antidepressants, Tricyclic.
-Micromedex Inc. Vol. 85
+Micromedex Inc. Vol. 85.
 
 ### Chlordiazepoxide Overdosage
 
 Manifestations of benzodiazepine overdosage include somnolence, confusion, coma and diminished reflexes.
 Dialysis is of limited value.
 There have been occasional reports of excitation in patients following benzodiazepine overdosage; if this occurs, barbiturates should not be used.
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).
-Since chlordiazepoxide and amitriptyline hydrochloride contains amitriptyline, it is important to note that use of the benzodiazepine antagonist flumazenil is contraindicated in patients who are showing signs of serious cyclic antidepressant overdose.
+Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE section).
+Since chlordiazepoxide and amitriptyline hydrochloride tablets contain amitriptyline, it is important to note that use of the benzodiazepine antagonist flumazenil is contraindicated in patients who are showing signs of serious cyclic antidepressant overdose.
