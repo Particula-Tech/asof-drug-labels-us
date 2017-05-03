@@ -7,7 +7,7 @@ TRUVADA®, a combination of EMTRIVA® and VIREAD®, is indicated in combination 
 The following points should be considered when initiating therapy with TRUVADA for the treatment of HIV-1 infection:
 
 - It is not recommended that TRUVADA be used as a component of a triple nucleoside regimen.
-- TRUVADA should not be coadministered with ATRIPLA®, COMPLERA®, EMTRIVA, GENVOYA®, ODEFSEY®, STRIBILD®, VIREAD or lamivudine-containing products [see Warnings and Precautions (5.4)].
+- TRUVADA should not be coadministered with ATRIPLA®, COMPLERA®, DESCOVY®, EMTRIVA, GENVOYA®, ODEFSEY®, STRIBILD®, VEMLIDY®, VIREAD, or lamivudine-containing products [see Warnings and Precautions (5.4)].
 - In treatment experienced patients, the use of TRUVADA should be guided by laboratory testing and treatment history [see Microbiology (12.4)].
 
 ## 1.2 Pre-Exposure Prophylaxis
@@ -28,8 +28,8 @@ When considering TRUVADA for pre-exposure prophylaxis the following factors may 
 
 When prescribing TRUVADA for pre-exposure prophylaxis, healthcare providers must:
 
-- prescribe TRUVADA as part of a comprehensive prevention strategy because TRUVADA is not always effective in preventing the acquisition of HIV-1 infection [see Warnings and Precautions (5.9)];
-- counsel all uninfected individuals to strictly adhere to the recommended TRUVADA dosing schedule because the effectiveness of TRUVADA in reducing the risk of acquiring HIV-1 was strongly correlated with adherence as demonstrated by measurable drug levels in clinical trials [see Warnings and Precautions (5.9)];
+- prescribe TRUVADA as part of a comprehensive prevention strategy because TRUVADA is not always effective in preventing the acquisition of HIV-1 infection [see Warnings and Precautions (5.8)];
+- counsel all uninfected individuals to strictly adhere to the recommended TRUVADA dosing schedule because the effectiveness of TRUVADA in reducing the risk of acquiring HIV-1 was strongly correlated with adherence as demonstrated by measurable drug levels in clinical trials [see Warnings and Precautions (5.8)];
 - confirm a negative HIV-1 test immediately prior to initiating TRUVADA for a PrEP indication.
-  If clinical symptoms consistent with acute viral infection are present and recent (<1 month) exposures are suspected, delay starting PrEP for at least one month and reconfirm HIV-1 status or use a test approved by the FDA as an aid in the diagnosis of HIV-1 infection, including acute or primary HIV-1 infection [see Warnings and Precautions (5.9)]; and
+  If clinical symptoms consistent with acute viral infection are present and recent (<1 month) exposures are suspected, delay starting PrEP for at least one month and reconfirm HIV-1 status or use a test approved by the FDA as an aid in the diagnosis of HIV-1 infection, including acute or primary HIV-1 infection [see Warnings and Precautions (5.8)]; and
 - screen for HIV-1 infection at least once every 3 months while taking TRUVADA for PrEP.

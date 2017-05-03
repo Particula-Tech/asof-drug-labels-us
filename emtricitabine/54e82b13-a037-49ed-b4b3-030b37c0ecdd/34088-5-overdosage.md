@@ -9,8 +9,8 @@ No severe adverse reactions were reported.
 Hemodialysis treatment removes approximately 30% of the emtricitabine dose over a 3-hour dialysis period starting within 1.5 hours of emtricitabine dosing (blood flow rate of 400 mL/min and a dialysate flow rate of 600 mL/min).
 It is not known whether emtricitabine can be removed by peritoneal dialysis.
 
-Tenofovir Disoproxil Fumarate: Limited clinical experience at doses higher than the therapeutic dose of VIREAD 300 mg is available.
-In one trial, 600 mg tenofovir disoproxil fumarate was administered to 8 subjects orally for 28 days, and no severe adverse reactions were reported.
+Tenofovir DF: Limited clinical experience at doses higher than the therapeutic dose of VIREAD 300 mg is available.
+In one trial, 600 mg tenofovir DF was administered to 8 subjects orally for 28 days, and no severe adverse reactions were reported.
 The effects of higher doses are not known.
 
 Tenofovir is efficiently removed by hemodialysis with an extraction coefficient of approximately 54%.

@@ -17,27 +17,27 @@ If an uninfected individual becomes pregnant while taking TRUVADA for a PrEP ind
 
 Clinical Considerations
 
-As of July 2011, the APR has received prospective reports of 764 and 1,219 exposures to emtricitabine- and tenofovir-containing regimens, respectively in the first trimester, 321 and 455 exposures, respectively, in second trimester, and 140 and 257 exposures, respectively, in the third trimester.
-Birth defects occurred in 18 of 764 (2.4%) live births for emtricitabine-containing regimens and 27 of 1219 (2.2%) live births for tenofovir-containing regimens (first trimester exposure) and 10 of 461 (2.2%) live births for emtricitabine-containing regimens and 15 of 714 (2.1%) live births for tenofovir-containing regimens (second/third trimester exposure).
+As of July 2011, the APR has received prospective reports of 764 and 1219 exposures to emtricitabine- and tenofovir-containing regimens, respectively, in the first trimester; 321 and 455 exposures, respectively, in second trimester; and 140 and 257 exposures, respectively, in the third trimester.
+Birth defects occurred in 18 of 764 (2.4%) live births for emtricitabine-containing regimens and 27 of 1219 (2.2%) live births for tenofovir-containing regimens (first trimester exposure); and 10 of 461 (2.2%) live births for emtricitabine-containing regimens and 15 of 714 (2.1%) live births for tenofovir-containing regimens (second/third trimester exposure).
 Among pregnant women in the U.S. reference population, the background rate of birth defects is 2.7%.
 There was no association between emtricitabine or tenofovir and overall birth defects observed in the APR.
 
 Animal Data
 
-Emtricitabine:
+Emtricitabine
 
 The incidence of fetal variations and malformations was not increased in embryofetal toxicity studies performed with emtricitabine in mice at exposures (AUC) approximately 60-fold higher and in rabbits at approximately 120-fold higher than human exposures at the recommended daily dose.
 
-Tenofovir Disoproxil Fumarate:
+Tenofovir DF
 
 Reproduction studies have been performed in rats and rabbits at doses up to 14 and 19 times the human dose based on body surface area comparisons and revealed no evidence of impaired fertility or harm to the fetus due to tenofovir.
 
 ## 8.3 Nursing Mothers
 
-Nursing Mothers: The Centers for Disease Control and Prevention recommend that HIV-1 infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV-1.
+Nursing Mothers: The Centers for Disease Control and Prevention recommend that HIV-1 infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 
 Studies in humans have shown that both tenofovir and emtricitabine are excreted in human milk.
-Because the risks of low level exposure to emtricitabine and tenofovir to infants are unknown, mothers should be instructed not to breast-feed if they are receiving TRUVADA, whether they are taking TRUVADA for treatment or to reduce the risk of acquiring HIV-1.
+Because the risks of low-level exposure to emtricitabine and tenofovir to infants are unknown, mothers should be instructed not to breastfeed if they are receiving TRUVADA, whether they are taking TRUVADA for treatment or to reduce the risk of acquiring HIV-1.
 
 Emtricitabine
 
@@ -45,10 +45,10 @@ Samples of breast milk obtained from five HIV-1 infected mothers show that emtri
 Breastfeeding infants whose mothers are being treated with emtricitabine may be at risk for developing viral resistance to emtricitabine.
 Other emtricitabine-associated risks in infants breastfed by mothers being treated with emtricitabine are unknown.
 
-Tenofovir Disoproxil Fumarate
+Tenofovir DF
 
 Samples of breast milk obtained from five HIV-1 infected mothers show that tenofovir is secreted in human milk.
-Tenofovir-associated risks, including the risk of viral resistance to tenofovir, in infants breastfed by mothers being treated with tenofovir disoproxil fumarate are unknown.
+Tenofovir-associated risks, including the risk of viral resistance to tenofovir, in infants breastfed by mothers being treated with tenofovir DF are unknown.
 
 ## 8.4 Pediatric Use
 
