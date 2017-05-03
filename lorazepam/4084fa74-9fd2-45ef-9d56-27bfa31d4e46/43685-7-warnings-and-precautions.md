@@ -1,5 +1,12 @@
 # WARNINGS
 
+Concomitant use of benzodiazepines, including Lorazepam Injection, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe Lorazepam Injection concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+Advise both patients and caregivers about the risks of respiratory depression and sedation when Lorazepam Injection is used with opioids (see PRECAUTIONS, Drug Interactions).
+
 ## Use in Status Epilepticus
 
 ### MANAGEMENT OF STATUS EPILEPTICUS
@@ -78,6 +85,18 @@ The possibility that a woman of childbearing potential may be pregnant at the ti
 There are insufficient data regarding obstetrical safety of parenteral lorazepam, including use in cesarean section.
 Such use, therefore, is not recommended.
 
+## Pediatric Neurotoxicity
+
+Published animal studies demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity increase neuronal apoptosis in the developing brain and result in long-term cognitive deficits when used for longer than 3 hours.
+The clinical significance of these findings is not clear.
+However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (See Pregnancy, Pediatric Use, and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
+
+Some published studies in children suggest that similar deficits may occur after repeated or prolonged exposures to anesthetic agents early in life and may result in adverse cognitive or behavioral effects.
+These studies have substantial limitations, and it is not clear if the observed effects are due to the anesthetic/sedation drug administration or other factors such as the surgery or underlying illness.
+
+Anesthetic and sedation drugs are a necessary part of the care of children and pregnant women needing surgery, other procedures, or tests that cannot be delayed, and no specific medications have been shown to be safer than any other.
+Decisions regarding the timing of any elective procedures requiring anesthesia should take into consideration the benefits of the procedure weighed against the potential risks.
+
 ## Endoscopic Procedures
 
 There are insufficient data to support the use of Lorazepam Injection for outpatient endoscopic procedures.
@@ -116,12 +135,24 @@ Since tolerance for CNS depressants will be diminished in the presence of Loraze
 Alcoholic beverages should not be consumed for at least 24 to 48 hours after receiving lorazepam injectable due to the additive effects on central-nervous-system depression seen with benzodiazepines in general.
 Elderly patients should be told that Lorazepam Injection may make them very sleepy for a period longer than 6 to 8 hours following surgery.
 
+EFFECT OF ANESTHETIC AND SEDATION DRUGS ON EARLY BRAIN DEVELOPMENT
+
+Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
+Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
+
+Because some animal data suggest that the window of vulnerability includes the 3rd trimester of pregnancy, discuss with pregnant women the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs (See WARNINGS/Pediatric Neurotoxicity).
+
 ## Laboratory Tests
 
 In clinical trials, no laboratory test abnormalities were identified with either single or multiple doses of Lorazepam Injection.
 These tests included: CBC, urinalysis, SGOT, SGPT, bilirubin, alkaline phosphatase, LDH, cholesterol, uric acid, BUN, glucose, calcium, phosphorus, and total proteins.
 
 ## Drug Interactions
+
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
 
 Lorazepam Injection, like other injectable benzodiazepines, produces additive depression of the central nervous system when administered with other CNS depressants such as ethyl alcohol, phenothiazines, barbiturates, MAO inhibitors, and other antidepressants.
 
@@ -168,11 +199,15 @@ The results of a preimplantation study in rats, in which the oral lorazepam dose
 
 ## Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects—Pregnancy Category D (See WARNINGS.)
 
-#### Pregnancy Category D
+Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours.
+There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans.
 
-(See WARNINGS.)
+In a published study, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
+In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring.
+With respect to brain development, this time period corresponds to the third trimester of gestation in the human.
+The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (See WARNINGS/Pediatric Neurotoxicity, Pediatric Use, and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY.)
 
 ## Labor and Delivery
 
@@ -212,6 +247,14 @@ The “gasping syndrome”, characterized by central nervous system depression, 
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 Central nervous system toxicity, including seizures and intraventricular hemorrhage, as well as unresponsiveness, tachypnea, tachycardia, and diaphoresis have been associated with propylene glycol toxicity.
 Although normal therapeutic doses of Lorazepam Injection contain very small amounts of these compounds, premature and low-birth-weight infants as well as pediatric patients receiving high doses may be more susceptible to their effects.
+
+Published juvenile animal studies demonstrate that the administration of anesthetic and sedation drugs, such as lorazepam that either block NMDA receptors or potentiate the activity of GABA during the period of rapid brain growth or synaptogenesis, results in widespread neuronal and oligodendrocyte cell loss in the developing brain and alterations in synaptic morphology and neurogenesis.
+Based on comparisons across species, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately 3 years of age in humans.
+
+In primates, exposure to 3 hours of ketamine that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer of isoflurane increased neuronal cell loss.
+Data from isoflurane-treated rodents and ketamine-treated primates suggest that the neuronal and oligodendrocyte cell losses are associated with prolonged cognitive deficits in learning and memory.
+The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women, neonates and young children who require procedures with the potential risks suggested by the nonclinical data.
+(See WARNINGS/Pediatric Neurotoxicity, Pregnancy, and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
 
 ## Geriatric Use
 
