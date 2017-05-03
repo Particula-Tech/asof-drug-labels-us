@@ -1,0 +1,6 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Methadone
+
+In a trial of 11 HIV-1-infected subjects receiving methadone-maintenance therapy with 600 mg of abacavir sulfate twice daily (twice the currently recommended dose), oral methadone clearance increased [see Clinical Pharmacology (12.3)].
+This alteration will not result in a methadone dose modification in the majority of patients; however, an increased methadone dose may be required in a small number of patients.

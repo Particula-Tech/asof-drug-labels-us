@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "abacavir",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-514-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "abacavir",
+      "name": "Abacavir"
+    }
+  ],
+  "setid": "0d791375-e311-41f9-87b8-940657e6318c",
+  "source": "dailymed"
+}
