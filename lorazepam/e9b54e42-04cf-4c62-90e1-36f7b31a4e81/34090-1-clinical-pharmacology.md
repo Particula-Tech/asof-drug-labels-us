@@ -27,7 +27,7 @@ Upper airway obstruction has been observed in rare instances where the patient r
 Clinically employed doses of Lorazepam Injection do not greatly affect the circulatory system in the supine position or employing a 70-degree tilt test.
 Doses of 8 mg to 10 mg of intravenous lorazepam (2 to 2-1/2 times the maximum recommended dosage) will produce loss of lid reflexes within 15 minutes.
 
-Studies in 6 healthy young adults who received lorazepam injection and no other drugs revealed that visual tracking (the ability to keep a moving line centered) was impaired for a mean of 8 hours following administration of 4 mg of intramuscular lorazepam and 4 hours following administration of 2 mg intramuscularly with considerable subject variation.
+Studies in 6 healthy young adults who received Lorazepam Injection and no other drugs revealed that visual tracking (the ability to keep a moving line centered) was impaired for a mean of 8 hours following administration of 4 mg of intramuscular lorazepam and 4 hours following administration of 2 mg intramuscularly with considerable subject variation.
 Similar findings were noted with pentobarbital, 150 and 75 mg.
 Although this study showed that both lorazepam and pentobarbital interfered with eye-hand coordination, the data are insufficient to predict when it would be safe to operate a motor vehicle or engage in a hazardous occupation or sport.
 

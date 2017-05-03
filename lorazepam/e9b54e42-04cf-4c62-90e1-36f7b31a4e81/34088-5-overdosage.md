@@ -19,4 +19,4 @@ The value of dialysis has not been adequately determined for lorazepam.
 
 The benzodiazepine antagonist flumazenil may be used in hospitalized patients as an adjunct to, not as a substitute for, proper management of benzodiazepine overdose.
 The prescriber should be aware of a risk of seizure in association with flumazenil treatment, particularly in long-term benzodiazepine users and in cyclic antidepressant overdose.
-The complete flumazenil package insert including CONTRAINDICATIONS, WARNINGS AND PRECAUTIONS should be consulted prior to use.
+The complete flumazenil package insert including CONTRAINDICATIONS, WARNINGS and PRECAUTIONS should be consulted prior to use.
