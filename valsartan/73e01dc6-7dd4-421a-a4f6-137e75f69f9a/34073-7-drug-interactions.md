@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-No clinically significant pharmacokinetic interactions were observed when valsartan was coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin.
+No clinically significant pharmacokinetic interactions were observed when valsartan tablets were coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin.
 The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
 
 Coadministration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
@@ -19,7 +19,7 @@ Potassium
 Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, salt substitutes containing potassium or other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
 If co-medication is considered necessary, monitoring of serum potassium is advisable.
 
-Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including valsartan, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
@@ -30,26 +30,27 @@ The antihypertensive effect of angiotensin II receptor antagonists, including va
 Dual Blockade of the Renin-Angiotensin System (RAS)
 
 Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
-Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
+Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy [see Clinical Trials (14.3)].
 In general, avoid combined use of RAS inhibitors.
-Closely monitor blood pressure, renal function and electrolytes in patients on valsartan and other agents that affect the RAS.
+Closely monitor blood pressure, renal function and electrolytes in patients on valsartan tablets and other agents that affect the RAS.
 
-Do not coadminister aliskiren with valsartan in patients with diabetes.
-Avoid use of aliskiren with valsartan in patients with renal impairment (GFR < 60 mL/min).
+Do not coadminister aliskiren with valsartan tablets in patients with diabetes.
+Avoid use of aliskiren with valsartan tablets in patients with renal impairment (GFR < 60 mL/min).
 
 Lithium
 
-Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists, including valsartan.
+Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists, including valsartan tablets.
 Monitor serum lithium levels during concomitant use.
 
 ## 7.1 Clinical Laboratory Test Findings
 
-In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of valsartan.
+In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of valsartan tablets.
 
 ### Creatinine
 
-Minor elevations in creatinine occurred in 0.8% of patients taking valsartan and 0.6% given placebo in controlled clinical trials of hypertensive patients.
-In heart failure trials, greater than 50% increases in creatinine were observed in 3.9% of valsartan-treated patients compared to 0.9% of placebo-treated patients.
+Minor elevations in creatinine occurred in 0.8% of patients taking valsartan tablets and 0.6% given placebo in controlled clinical trials of hypertensive patients.
+In heart failure trials, greater than 50% increases in creatinine were observed in 3.9% of valsartan tablet-treated patients compared to 0.9% of placebo-treated patients.
+In post-myocardial infarction patients, doubling of serum creatinine was observed in 4.2% of valsartan-treated patients and 3.4% of captopril-treated patients.
 
 ### Hemoglobin and Hematocrit
 
@@ -58,18 +59,18 @@ One valsartan patient discontinued treatment for microcytic anemia.
 
 ### Liver Function Tests
 
-Occasional elevations (greater than 150%) of liver chemistries occurred in valsartan-treated patients.
+Occasional elevations (greater than 150%) of liver chemistries occurred in valsartan tablet-treated patients.
 Three patients (< 0.1%) treated with valsartan discontinued treatment for elevated liver chemistries.
 
 ### Neutropenia
 
-Neutropenia was observed in 1.9% of patients treated with valsartan and 0.8% of patients treated with placebo.
+Neutropenia was observed in 1.9% of patients treated with valsartan tablets and 0.8% of patients treated with placebo.
 
 ### Serum Potassium
 
-In hypertensive patients, greater than 20% increases in serum potassium were observed in 4.4% of valsartan-treated patients compared to 2.9% of placebo-treated patients.
-In heart failure patients, greater than 20% increases in serum potassium were observed in 10.0% of valsartan-treated patients compared to 5.1% of placebo-treated patients.
+In hypertensive patients, greater than 20% increases in serum potassium were observed in 4.4% of valsartan tablet-treated patients compared to 2.9% of placebo-treated patients.
+In heart failure patients, greater than 20% increases in serum potassium were observed in 10.0% of valsartan tablet-treated patients compared to 5.1% of placebo-treated patients.
 
 ### Blood Urea Nitrogen (BUN)
 
-In heart failure trials, greater than 50% increases in BUN were observed in 16.6% of valsartan-treated patients compared to 6.3% of placebo-treated patients.
+In heart failure trials, greater than 50% increases in BUN were observed in 16.6% of valsartan tablet-treated patients compared to 6.3% of placebo-treated patients.

@@ -4,8 +4,6 @@ NDC 0378-5807-93
 
 Valsartan Tablets, USP 40 mg
 
-PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
-
 Rx only 30 Tablets
 
 Each film-coated scored tablet contains: Valsartan, USP 40 mg
@@ -25,7 +23,7 @@ Made in India
 
 Mylan.com
 
-RMX5807H3
+RMX5807H4
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -38,8 +36,6 @@ PRINCIPAL DISPLAY PANEL - 80 mg
 NDC 0378-5813-77
 
 Valsartan Tablets, USP 80 mg
-
-PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
 Rx only 90 Tablets
 
@@ -60,7 +56,7 @@ Made in India
 
 Mylan.com
 
-RMX5813MM3
+RMX5813MM4
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -68,13 +64,11 @@ Keep container tightly closed.
 
 Code No.: MH/DRUGS/25/NKD/89
 
-PRINCIPAL DISPLAY PANEL - 160 mg
+# PRINCIPAL DISPLAY PANEL - 160 mg
 
 NDC 0378-5814-77
 
 Valsartan Tablets, USP 160 mg
-
-PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
 Rx only 90 Tablets
 
@@ -95,7 +89,7 @@ Made in India
 
 Mylan.com
 
-RMX5814MM3
+RMX5814MM4
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -108,8 +102,6 @@ PRINCIPAL DISPLAY PANEL - 320 mg
 NDC 0378-5815-77
 
 Valsartan Tablets, USP 320 mg
-
-PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
 Rx only 90 Tablets
 
@@ -130,7 +122,7 @@ Made in India
 
 Mylan.com
 
-RMX5815MM3
+RMX5815MM4
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

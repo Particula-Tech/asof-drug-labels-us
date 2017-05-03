@@ -4,7 +4,7 @@
 
 ### Adult Hypertension
 
-The antihypertensive effects of valsartan were demonstrated principally in seven placebo-controlled, 4- to 12-week trials (one in patients over 65 years) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95 to 115 mmHg.
+The antihypertensive effects of valsartan tablets were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (1 in patients over 65 years) of dosages from 10 mg/day to 320 mg/day in patients with baseline diastolic blood pressures of 95 to 115 mmHg.
 The studies allowed comparison of once-daily and twice-daily regimens of 160 mg/day; comparison of peak and trough effects; comparison (in pooled data) of response by gender, age, and race; and evaluation of incremental effects of hydrochlorothiazide.
 
 Administration of valsartan to patients with essential hypertension results in a significant reduction of sitting, supine, and standing systolic and diastolic blood pressure, usually with little or no orthostatic change.
@@ -16,14 +16,14 @@ During repeated dosing, the reduction in blood pressure with any dose is substan
 In long-term follow-up studies (without placebo control), the effect of valsartan appeared to be maintained for up to 2 years.
 The antihypertensive effect is independent of age, gender or race.
 The latter finding regarding race is based on pooled data and should be viewed with caution, because antihypertensive drugs that affect the renin-angiotensin system (that is, ACE inhibitors and angiotensin-II blockers) have generally been found to be less effective in low-renin hypertensives (frequently blacks) than in high-renin hypertensives (frequently whites).
-In pooled, randomized, controlled trials of valsartan that included a total of 140 blacks and 830 whites, valsartan and an ACE inhibitor control were generally at least as effective in blacks as whites.
+In pooled, randomized, controlled trials of valsartan tablets that included a total of 140 blacks and 830 whites, valsartan and an ACE inhibitor control were generally at least as effective in blacks as whites.
 The explanation for this difference from previous findings is unclear.
 
 Abrupt withdrawal of valsartan has not been associated with a rapid increase in blood pressure.
 
 The blood pressure-lowering effect of valsartan and thiazide-type diuretics are approximately additive.
 
-The seven studies of valsartan monotherapy included over 2,000 patients randomized to various doses of valsartan and about 800 patients randomized to placebo.
+The 7 studies of valsartan monotherapy included over 2,000 patients randomized to various doses of valsartan and about 800 patients randomized to placebo.
 Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80 mg, 160 mg and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6 to 9/3 to 5 mmHg at 80 mg to 160 mg and 9/6 mmHg at 320 mg.
 In a controlled trial the addition of HCTZ to valsartan 80 mg resulted in additional lowering of systolic and diastolic blood pressure by approximately 6/3 and 12/5 mmHg for 12.5 mg and 25 mg of HCTZ, respectively, compared to valsartan 80 mg alone.
 
@@ -31,7 +31,7 @@ Patients with an inadequate response to 80 mg once daily were titrated to either
 
 In controlled trials, the antihypertensive effect of once-daily valsartan 80 mg was similar to that of once-daily enalapril 20 mg or once-daily lisinopril 10 mg.
 
-There are no trials of valsartan demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.
+There are no trials of valsartan tablets demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.
 
 There was essentially no change in heart rate in valsartan-treated patients in controlled trials.
 
@@ -93,3 +93,36 @@ In patients not receiving an ACE inhibitor, valsartan-treated patients had an in
 
 Effects were generally consistent across subgroups defined by age and gender for the population of patients not receiving an ACE inhibitor.
 The number of black patients was small and does not permit a meaningful assessment in this subset of patients.
+
+## 14.3 Post-Myocardial Infarction
+
+The VALsartan In Acute myocardial iNfarcTion trial (VALIANT) was a randomized, controlled, multinational, double-blind study in 14,703 patients with acute myocardial infarction and either heart failure (signs, symptoms or radiological evidence) or left ventricular systolic dysfunction (ejection fraction ≤ 40% by radionuclide ventriculography or ≤ 35% by echocardiography or ventricular contrast angiography).
+Patients were randomized within 12 hours to 10 days after the onset of myocardial infarction symptoms to one of three treatment groups: valsartan (titrated from 20 mg or 40 mg twice daily to the highest tolerated dose up to a maximum of 160 mg twice daily), the ACE inhibitor, captopril (titrated from 6.25 mg three times daily to the highest tolerated dose up to a maximum of 50 mg three times daily), or the combination of valsartan plus captopril.
+In the combination group, the dose of valsartan was titrated from 20 mg twice daily to the highest tolerated dose up to a maximum of 80 mg twice daily; the dose of captopril was the same as for monotherapy.
+The population studied was 69% male, 94% Caucasian, and 53% were 65 years of age or older.
+Baseline therapy included aspirin (91%), beta-blockers (70%), ACE inhibitors (40%), thrombolytics (35%) and statins (34%).
+The mean treatment duration was 2 years.
+The mean daily dose of valsartan tablets in the monotherapy group was 217 mg.
+
+The primary endpoint was time to all-cause mortality.
+Secondary endpoints included (1) time to cardiovascular (CV) mortality, and (2) time to the first event of cardiovascular mortality, reinfarction, or hospitalization for heart failure.
+The results are summarized in the following table.
+
+|  | Valsartan vs. Captopril |  |  | Valsartan + Captopril vs. Captopril |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | (N = 4,909) (N = 4,909) |  |  | (N = 4,885) (N = 4,909) |  |  |
+|  | No. of Deaths Valsartan/Captopril | Hazard Ratio CI | p-value | No. of Deaths Comb/Captopril | Hazard Ratio CI | p-value |
+| All-cause mortality | 979 (19.9%)/958 (19.5%) | 1.001(0.902, 1.111) | 0.98 | 941 (19.3%)/958 (19.5%) | 0.984(0.886, 1.093) | 0.73 |
+| CV mortality | 827 (16.8%)/830 (16.9%) | 0.976(0.875, 1.090) |  |  |  |  |
+| CV mortality, hospitalization for HF, and recurrent nonfatal MI | 1,529 (31.1%)/1,567 (31.9%) | 0.955(0.881, 1.035) |  |  |  |  |
+
+There was no difference in overall mortality among the three treatment groups.
+There was thus no evidence that combining the ACE inhibitor captopril and the angiotensin II blocker valsartan was of value.
+
+The data were assessed to see whether the effectiveness of valsartan could be demonstrated by showing in a non-inferiority analysis that it preserved a fraction of the effect of captopril, a drug with a demonstrated survival effect in this setting.
+A conservative estimate of the effect of captopril (based on a pooled analysis of 3 post-infarction studies of captopril and 2 other ACE inhibitors) was a 14% to 16% reduction in mortality compared to placebo.
+Valsartan would be considered effective if it preserved a meaningful fraction of that effect and unequivocally preserved some of that effect.
+As shown in the table, the upper bound of the CI for the hazard ratio (valsartan/captopril) for overall or CV mortality is 1.09 to 1.11, a difference of about 9% to 11%, thus making it unlikely that valsartan has less than about half of the estimated effect of captopril and clearly demonstrating an effect of valsartan.
+The other secondary endpoints were consistent with this conclusion.
+
+There were no clear differences in all-cause mortality based on age, gender, race, or baseline therapies, as shown in the figure above.
