@@ -38,9 +38,9 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Subjects with As
 
 | Test (Abnormal Level) | Zidovudine 500 mg/day (n = 453) | Placebo (n = 428) |
 | --- | --- | --- |
-| Anemia (Hgb<8 g/dL) | 1% | <1% |
+| Anemia (Hgb <8 g/dL) | 1% | <1% |
 | Granulocytopenia (<750 cells/mm3) | 2% | 2% |
-| Thrombocytopenia (platelets<50,000/mm3) | 0% | <1% |
+| Thrombocytopenia (platelets <50,000/mm3) | 0% | <1% |
 | ALT (>5 x ULN) | 3% | 3% |
 | AST (>5 x ULN) | 1% | 2% |
 | ULN = Upper limit of normal. |  |  |
@@ -80,9 +80,9 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Subjec
 
 | Test (Abnormal Level) | EPIVIR plus Zidovudine | Didanosine |
 | --- | --- | --- |
-| Neutropenia (ANC<400 cells/mm3) | 8% | 3% |
-| Anemia (Hgb<7 g/dL) | 4% | 2% |
-| Thrombocytopenia (platelets<50,000/mm3) | 1% | 3% |
+| Neutropenia (ANC <400 cells/mm3) | 8% | 3% |
+| Anemia (Hgb <7 g/dL) | 4% | 2% |
+| Thrombocytopenia (platelets <50,000/mm3) | 1% | 3% |
 | ALT (>10 x ULN) | 1% | 3% |
 | AST (>10 x ULN) | 2% | 4% |
 | Lipase (>2.5 x ULN) | 3% | 3% |
@@ -101,19 +101,57 @@ The long-term consequences of in utero and infant exposure to zidovudine are unk
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postmarketing use of zidovudine.
+The following adverse reactions have been identified during post-approval use of zidovudine.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Body as a Whole: Back pain, chest pain, flu-like syndrome, generalized pain, redistribution/accumulation of body fat [see Warnings and Precautions (5.8)].
-Cardiovascular: Cardiomyopathy, syncope.
-Eye: Macular edema.
-Gastrointestinal: Constipation, dysphagia, flatulence, oral mucosa pigmentation, mouth ulcer.
-General: Sensitization reactions including anaphylaxis and angioedema, vasculitis.
-Hematologic: Aplastic anemia, hemolytic anemia, leukopenia, lymphadenopathy, pancytopenia with marrow hypoplasia, pure red cell aplasia.
-Hepatobiliary: Hepatitis, hepatomegaly with steatosis, jaundice, lactic acidosis, pancreatitis.
-Musculoskeletal: Increased CPK, increased LDH, muscle spasm, myopathy and myositis with pathological changes (similar to that produced by HIV-1 disease), rhabdomyolysis, tremor.
-Nervous: Anxiety, confusion, depression, dizziness, loss of mental acuity, mania, paresthesia, seizures, somnolence, vertigo.
-Reproductive System and Breast: Gynecomastia.
-Respiratory: Dyspnea, rhinitis, sinusitis.
-Skin and Subcutaneous Tissue: Changes in skin and nail pigmentation, pruritus, Stevens-Johnson syndrome, toxic epidermal necrolysis, sweating, urticaria.
-Special Senses: Amblyopia, hearing loss, photophobia, taste perversion.
-Renal and Urinary: Urinary frequency, urinary hesitancy.
+
+Body as a Whole
+
+Back pain, chest pain, flu-like syndrome, generalized pain, redistribution/accumulation of body fat [see Warnings and Precautions (5.7)].
+
+Cardiovascular
+
+Cardiomyopathy, syncope.
+
+Eye
+
+Macular edema.
+
+Gastrointestinal
+
+Constipation,dysphagia, flatulence, oral mucosa pigmentation, mouth ulcer.
+
+General
+
+Sensitization reactions including anaphylaxis and angioedema, vasculitis.
+
+Hematologic
+
+Aplastic anemia, hemolytic anemia, leukopenia, lymphadenopathy, pancytopenia with marrow hypoplasia, pure red cell aplasia.
+
+Hepatobiliary
+
+Hepatitis, hepatomegaly with steatosis, jaundice, lactic acidosis, pancreatitis.
+
+Musculoskeletal
+
+Increased CPK, increased LDH, muscle spasm, myopathy and myositis with pathological changes (similar to that produced by HIV-1 disease), rhabdomyolysis, tremor.
+
+Nervous Anxiety, confusion, depression, dizziness, loss of mental acuity, mania, paresthesia, seizures, somnolence, vertigo.
+
+Reproductive System and Breast
+
+Gynecomastia.
+
+Respiratory
+
+Dyspnea, rhinitis, sinusitis.
+
+Skin and Subcutaneous Tissue Changes in skin and nail pigmentation, pruritus, Stevens-Johnson syndrome, toxic epidermal necrolysis, sweating, urticaria.
+
+Special Senses
+
+Amblyopia, hearing loss, photophobia, taste perversion.
+
+Renal and Urinary
+
+Urinary frequency, urinary hesitancy.

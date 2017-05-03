@@ -7,13 +7,17 @@ Oral Dosing The recommended oral dose of zidovudine tablets is 300 mg twice dail
 ## 2.2 Pediatric Patients (Aged 4 Weeks to Less than 18 Years)
 
 Healthcare professionals should pay special attention to accurate calculation of the dose of zidovudine tablets, transcription of the medication order, dispensing information, and dosing instructions to minimize risk for medication dosing errors.
+
 Prescribers should calculate the appropriate dose of zidovudine tablets for each child based on body weight (kg) and should not exceed the recommended adult dose.
+
 Before prescribing zidovudine tablets, children should be assessed for the ability to swallow tablets.
 If a child is unable to reliably swallow a zidovudine tablet, the zidovudine syrup formulation should be prescribed.
-The recommended oral dosage in pediatric patients aged 4 weeks to less than 18 years and weighing greater than or equal to 4 kg is provided in Table 1.
-Zidovudine syrup should be used to provide accurate dosage when whole tablets are not appropriate.
 
-Table 1: Recommended Pediatric Oral Dosage of Zidovudine Tablets
+The recommended oral dosage in pediatric patients aged 4 weeks to less than 18 years and weighing greater than or equal to 4 kg is provided in Table 1.
+Zidovudine syrup should be used to provide accurate dosage when tablets are not appropriate.
+
+Table 1.
+Recommended Pediatric Oral Dosage of Zidovudine Tablets
 
 | Body Weight (kg) | Total Daily Dose | Dosage Regimen and Dose |  |
 | --- | --- | --- | --- |
@@ -23,7 +27,9 @@ Table 1: Recommended Pediatric Oral Dosage of Zidovudine Tablets
 | ≥30 | 600 mg/day | 300 mg | 200 mg |
 
 Alternatively, dosing for zidovudine tablets can be based on body surface area (BSA) for each child.
-The recommended oral dose of zidovudine tablets is 480 mg per m2 per day in divided doses (240 mg per m2 twice daily or 160 mg per m2 three times daily).
+The recommended oral dose of zidovudine tablets is 480 mg per m2 per
+
+day in divided doses (240 mg per m2 twice daily or 160 mg per m2 three times daily).
 In some cases the dose calculated by mg per kg will not be the same as that calculated by BSA.
 
 ## 2.3 Prevention of Maternal-Fetal HIV-1 Transmission
