@@ -2,7 +2,7 @@
 
 Lidocaine Hydrochloride and 5% Dextrose Injection USP is supplied sterile and nonpyrogenic in Full Fill 500 mL and 250 mL EXCEL® Containers packaged 24 per case.
 
-| Fill | NDC | Cat. No. | Solution |
+| Fill | NDC | REF | Solution |
 | --- | --- | --- | --- |
 | 2 g Lidocaine Hydrochloride: |  |  |  |
 | 500 mL | 0264-9594-10 | P5941 | 0.4% Lidocaine Hydrochloride |

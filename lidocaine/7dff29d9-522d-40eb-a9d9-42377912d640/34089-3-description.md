@@ -19,7 +19,7 @@ The formulas of the active ingredients are:
 | Lidocaine Hydrochloride Anhydrous USP (M.W. 270.80) | Hydrous Dextrose USP (M.W. 198.17) |
 | --- | --- |
 
-The EXCEL® Container is Latex-free; PVC-free; and DEHP-free.
+Not made with natural rubber latex, PVC or DEHP.
 
 The plastic container is made from a multilayered film specifically developed for parenteral drugs.
 It contains no plasticizers and exhibits virtually no leachables.

@@ -23,7 +23,7 @@ Most potent anesthetic agents, local anesthetics of the amide type which include
 
 Care should be taken in the administration of intravenous fluids in patients with compromised myocardial function to avoid fluid overload or disturbances of serum electrolyte concentrations which might interfere with cardiac conduction or result in congestive heart failure.
 
-Do not use plastic container in series connection.
+Do not use plastic containers in series connection.
 
 If administration is controlled by a pumping device, care must be taken to discontinue pumping action before the container runs dry or air embolism may result.
 If administration is not controlled by a pumping device, refrain from applying excessive pressure (>300mmHg) causing distortion to the container such as wringing or twisting.

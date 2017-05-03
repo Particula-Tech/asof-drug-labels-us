@@ -2,7 +2,7 @@
 
 Do not admix with other drugs.
 
-Caution: Do not use plastic container in series connection.
+Caution: Do not use plastic containers in series connection.
 
 To Open
 
