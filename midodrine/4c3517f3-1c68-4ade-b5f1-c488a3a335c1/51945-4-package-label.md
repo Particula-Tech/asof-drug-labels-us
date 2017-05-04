@@ -1,35 +1,35 @@
-# PRINCIPAL DISPLAY PANEL - 2.5 mg Tablet Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 2.5 mg Tablet Bottle Label
 
-NDC 0245-0211-01
+NDC 0245-0211-11
 
-Midodrine HCl Tablets, USP
+Midodrine Hydrochloride Tablets, USP
 
 2.5 mg
 
-Unit Dose, 100 Tablets (10 Cards/10 Tablets Each) Rx only
+100 Tablets Rx only
 
 UPSHER-SMITH
 
-# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
-NDC 0245-0212-01
+NDC 0245-0212-11
 
-Midodrine HCl Tablets, USP
+Midodrine Hydrochloride Tablets, USP
 
 5 mg
 
-Unit Dose, 100 Tablets (10 Cards/10 Tablets Each) Rx only
+100 Tablets Rx only
 
 UPSHER-SMITH
 
-# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
-NDC 0245-0213-01
+NDC 0245-0213-11
 
-Midodrine HCl Tablets, USP
+Midodrine Hydrochloride Tablets, USP
 
 10 mg
 
-Unit Dose, 100 Tablets (10 Cards/10 Tablets Each) Rx only
+100 Tablets Rx only
 
 UPSHER-SMITH

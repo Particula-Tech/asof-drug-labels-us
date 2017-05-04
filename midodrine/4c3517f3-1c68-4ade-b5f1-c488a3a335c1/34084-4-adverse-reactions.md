@@ -4,6 +4,8 @@ The most frequent adverse reactions seen in controlled trials were supine and si
 
 The frequency of these events in a 3-week placebo-controlled trial is shown in the following table:
 
+Adverse Events
+
 |  | Placebo n=88 |  | Midodrine n=82 |  |
 | --- | --- | --- | --- | --- |
 | Event | # of reports | % of patients | # of reports | % of patients |
@@ -16,7 +18,6 @@ The frequency of these events in a 3-week placebo-controlled trial is shown in t
 | Chills | 0 | 0 | 4 | 4.9 |
 | Pain5 | 0 | 0 | 4 | 4.9 |
 | Rash | 1 | 1.1 | 2 | 2.4 |
-| Adverse Events |  |  |  |  |
 | 1Includes hyperesthesia and scalp paresthesia |  |  |  |  |
 | 2Includes dysuria (1), increased urinary frequency (2), impaired urination (1), urinary retention (5), urinary urgency (2) |  |  |  |  |
 | 3Includes scalp pruritus |  |  |  |  |

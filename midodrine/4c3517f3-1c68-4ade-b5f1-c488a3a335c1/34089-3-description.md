@@ -1,12 +1,12 @@
 # DESCRIPTION
 
-Name: Midodrine HCl Tablets, USP
+Name: Midodrine hydrochloride tablets, USP
 
 Dosage Form: 2.5 mg, 5 mg and 10 mg tablets for oral administration
 
-Active Ingredient: Midodrine Hydrochloride, USP 2.5 mg, 5 mg and 10 mg
+Active Ingredient: Midodrine hydrochloride, USP 2.5 mg, 5 mg and 10 mg
 
-Inactive Ingredients: Colloidal Silicon Dioxide NF, Corn Starch NF, FD&C Blue No. 1 Lake (10 mg tablets), FD&C Red No. 40 Lake (5 mg and 10 mg tablets), Magnesium Stearate NF, Microcrystalline Cellulose NF, Talc USP
+Inactive Ingredients: colloidal silicon dioxide, corn starch, FD&C Blue No. 1 Lake (10 mg tablets), FD&C Red No. 40 Lake (5 mg and 10 mg tablets), magnesium stearate, microcrystalline cellulose and talc.
 
 Pharmacological Classification: Vasopressor/Antihypotensive
 
@@ -26,4 +26,4 @@ Organoleptic Properties: Odorless, white, crystalline powder
 
 pKa: 7.8 (0.3% aqueous solution) pH: 3.5 to 5.5 (5% aqueous solution)
 
-Melting Range: 200 to 203°C
+Melting Range: 200° to 203°C

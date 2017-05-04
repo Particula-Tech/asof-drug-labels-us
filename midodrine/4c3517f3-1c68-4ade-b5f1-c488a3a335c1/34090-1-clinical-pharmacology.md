@@ -16,14 +16,12 @@ The bioavailability of desglymidodrine is not affected by food.
 Approximately the same amount of desglymidodrine is formed after intravenous and oral administration of midodrine.
 Neither midodrine nor desglymidodrine is bound to plasma proteins to any significant extent.
 
-Special Populations: A study with 16 patients undergoing hemodialysis demonstrated that midodrine is removed by dialysis.
-
 Metabolism and Excretion: Thorough metabolic studies have not been conducted, but it appears that deglycination of midodrine to desglymidodrine takes place in many tissues, and both compounds are metabolized in part by the liver.
 Neither midodrine nor desglymidodrine is a substrate for monoamine oxidase.
 
 Renal elimination of midodrine is insignificant.
-The renal clearance of desgly-midodrine is of the order of 385 mL/minute, most, about 80%, by active renal secretion.
-The actual mechanism of active secretion has not been studied, but it is possible that it occurs by the base-secreting pathway responsible for the secretion of several other drugs that are bases (see also Potential for Drug Interactions).
+The renal clearance of desglymidodrine is of the order of 385 mL/minute, most, about 80%, by active renal secretion.
+The actual mechanism of active secretion has not been studied, but it is possible that it occurs by the base-secreting pathway responsible for the secretion of several other drugs that are bases [see also Potential for Drug Interactions].
 
 ## Clinical Studies
 
@@ -41,3 +39,7 @@ There were increases in standing time seen intermittently 1 hour after dosing, b
 In a 1-day, dose-response trial, single doses of 0, 2.5, 10 and 20 mg of midodrine were given to 25 patients.
 The 10 and 20 mg doses produced increases in standing 1-minute systolic pressure of about 30 mmHg at 1 hour; the increase was sustained in part for 2 hours after 10 mg and 4 hours after 20 mg.
 Supine systolic pressure was ≥200 mmHg in 22% of patients on 10 mg and 45% of patients on 20 mg; elevated pressures often lasted 6 hours or more.
+
+## Special Populations
+
+A study with 16 patients undergoing hemodialysis demonstrated that midodrine is removed by dialysis.

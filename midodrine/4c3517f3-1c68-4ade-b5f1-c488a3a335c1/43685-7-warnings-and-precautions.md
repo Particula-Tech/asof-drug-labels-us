@@ -7,6 +7,7 @@ There is no experience in patients with initial supine systolic pressure above 1
 Use of midodrine in such patients is not recommended.
 Sitting blood pressures were also elevated by midodrine therapy.
 It is essential to monitor supine and sitting blood pressures in patients maintained on midodrine.
+Uncontrolled hypertension increased the risk of cardiovascular events, particularly stroke.
 
 # PRECAUTIONS
 
@@ -26,28 +27,31 @@ Midodrine should be used cautiously in patients with urinary retention problems,
 Midodrine should be used with caution in orthostatic hypotensive patients who are also diabetic, as well as those with a history of visual problems who are also taking fludrocortisone acetate, which is known to cause an increase in intraocular pressure and glaucoma.
 
 Midodrine use has not been studied in patients with renal impairment.
-Because desglymidodrine is eliminated via the kidneys, and higher blood levels would be expected in such patients, midodrine should be used with caution in patients with renal impairment, with a starting dose of 2.5 mg (see DOSAGE AND ADMINISTRATION).
+Because desglymidodrine is eliminated via the kidneys, and higher blood levels would be expected in such patients, midodrine should be used with caution in patients with renal impairment, with a starting dose of 2.5 mg [see DOSAGE AND ADMINISTRATION].
 Renal function should be assessed prior to initial use of midodrine.
 
 Midodrine use has not been studied in patients with hepatic impairment.
 Midodrine should be used with caution in patients with hepatic impairment, as the liver has a role in the metabolism of midodrine.
 
-Information for Patients: Patients should be told that certain agents in over-the-counter products, such as cold remedies and diet aids, can elevate blood pressure, and therefore, should be used cautiously with midodrine, as they may enhance or potentiate the pressor effects of midodrine (see Drug Interactions).
+Information for Patients: Patients should be told that certain agents in over-the-counter products, such as cold remedies and diet aids, can elevate blood pressure, and therefore, should be used cautiously with midodrine, as they may enhance or potentiate the pressor effects of midodrine [see Drug Interactions].
 Patients should also be made aware of the possibility of supine hypertension.
 They should be told to avoid taking their dose if they are to be supine for any length of time, i.e., they should take their last daily dose of midodrine 3 to 4 hours before bedtime to minimize nighttime supine hypertension.
 
 Laboratory Tests: Since desglymidodrine is eliminated by the kidneys and the liver has a role in its metabolism, evaluation of the patient should include assessment of renal and hepatic function prior to initiating therapy and subsequently, as appropriate.
 
-Drug Interactions: When administered concomitantly with Midodrine HCl Tablets, cardiac glycosides may enhance or precipitate bradycardia, AV block or arrhythmia.
+Drug Interactions: When administered concomitantly with midodrine hydrochloride tablets, cardiac glycosides may enhance or precipitate bradycardia, A.V. block or arrhythmia.
 
-The use of drugs that stimulate alpha-adrenergic receptors (e.g., phenylephrine, pseudoephedrine, ephedrine, phenylpropanolamine or dihydroergotamine) may enhance or potentiate the pressor effects of midodrine.
-Therefore, caution should be used when midodrine is administered concomitantly with agents that cause vasoconstriction.
+The risk of hypertension increases with concomitant administration of drugs that increase blood pressure (phenylephrine, pseudoephedrine, ephedrine, dihydroergotamine, thyroid hormones or droxidopa).
+Avoid concomitant use of drugs that increase blood pressure.
+If concomitant use cannot be avoided, monitor blood pressure closely.
+
+Avoid use of MAO inhibitors or linezolid with midodrine.
 
 Midodrine has been used in patients concomitantly treated with salt-retaining steroid therapy (i.e., fludrocortisone acetate), with or without salt supplementation.
 The potential for supine hypertension should be carefully monitored in these patients and may be minimized by either reducing the dose of fludrocortisone acetate or decreasing the salt intake prior to initiation of treatment with midodrine.
 Alpha-adrenergic blocking agents, such as prazosin, terazosin, and doxazosin, can antagonize the effects of midodrine.
 
-Potential for Drug Interaction: It appears possible, although there is no supporting experimental evidence, that the high renal clearance of desyglymidodrine (a base) is due to active tubular secretion by the base-secreting system also responsible for the secretion of such drugs as metformin, cimetidine, ranitidine, procainamide, triamterene, flecainide, and quinidine.
+Potential for Drug Interaction: It appears possible, although there is no supporting experimental evidence that the high renal clearance of desyglymidodrine (a base) is due to active tubular secretion by the base-secreting system also responsible for the secretion of such drugs as metformin, cimetidine, ranitidine, procainamide, triamterene, flecainide, and quinidine.
 Thus there may be a potential for drug-drug interactions with these drugs.
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility: Long-term studies have been conducted in rats and mice at dosages 3 to 4 times the maximum recommended daily human dose on a mg/m2 basis, with no indication of carcinogenic effects related to midodrine.
