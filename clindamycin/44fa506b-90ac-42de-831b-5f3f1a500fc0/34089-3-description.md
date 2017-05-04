@@ -1,0 +1,16 @@
+# 11 DESCRIPTION
+
+Clindamycin is a lincosamide antibacterial and a semisynthetic drug produced by a 7(S) chloro substitution of the 7(R) hydroxyl group of the parent compound lincomycin.
+
+The chemical name of clindamycin phosphate is L-threo-α-D-galacto-Octopyranoside, methyl-7-chloro-6,7,8-trideoxy-6-[[(1-methyl-4-propyl-2-pyrrolidinyl)carbonyl]amino]‑1-thio-, 2-(dihydrogen phosphate), (2S-trans)-.
+
+The molecular formula is C18H34CIN2O8PS and the molecular weight is 504.96.
+
+The structural formula is represented below:
+
+Clindamycin in 0.9% Sodium Chloride Injection is a clear, cloroless and sterile solution for intravenous infusion.
+Each 50 mL Clindamycin in 0.9% Sodium Chloride Injection, 300 mg/50 mL, 600 mg/50 mL, and 900 mg/50 mL, contains 300 mg, 600 mg or 900 mg clindamycin, respectively (as clindamycin phosphate, USP), 450 mg of sodium chloride USP, 2 mg of edetate disodium dihydrate USP, and water for Injection USP.
+The pH is adjusted with sodium hydroxide and /or hydrochloric acid.
+Clindamycin in 0.9% Sodium Chloride Injection is filled in GALAXY plastic container fabricated from a specially designed multilayer plastic, PL 2501.
+Solutions in contact with the plastic container can leach out certain of its chemical components in very small amounts within the expiration period.
+The suitability of the plastic has been confirmed in tests in animals according to the USP biological tests for plastic containers, as well as by tissue culture toxicity studies.

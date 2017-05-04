@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA208083"
+  ],
+  "inn": "clindamycin",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "0338-9545-24",
+    "0338-9545-50",
+    "0338-9549-24",
+    "0338-9549-60",
+    "0338-9553-24",
+    "0338-9553-90"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "clindamycin phosphate",
+      "name": "clindamycin phosphate"
+    }
+  ],
+  "setid": "44fa506b-90ac-42de-831b-5f3f1a500fc0",
+  "source": "dailymed"
+}
