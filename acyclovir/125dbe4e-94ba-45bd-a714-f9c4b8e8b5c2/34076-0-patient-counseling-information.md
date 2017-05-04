@@ -17,7 +17,7 @@ Instructions for Use
 
 Treatment should be initiated at the earliest sign or symptom of recurrence.
 Patients should be instructed to wash hands prior to application and ensure the face and/or lips are clean and dry.
-Patients should be advised to apply ZOVIRAX Cream topically five times per day for four days.
+Patients should be advised to apply ZOVIRAX Cream topically 5 times per day for 4 days.
 Patients should be instructed to topically apply a quantity of ZOVIRAX Cream sufficient to cover the affected area, including the outer margin.
 Patients should be advised to avoid unnecessary rubbing of the affected area to avoid aggravating or transferring the infection.
 Patients should be instructed to wash their hands with soap and water after using ZOVIRAX Cream.

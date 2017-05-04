@@ -1,4 +1,4 @@
-# PATIENT INFORMATION ZOVIRAX (zho-vahy-rex) (acyclovir) Cream, 5%
+# PATIENT INFORMATION ZOVIRAX (zho-vahy-rex) (acyclovir) Cream 5%
 
 Important information: ZOVIRAX Cream is for use on cold sores on the lips and around the mouth only.
 ZOVIRAX Cream should not be used in your eyes, mouth, nose, or on your genitals.
@@ -20,7 +20,7 @@ What should I tell my healthcare provider before using ZOVIRAX Cream?
 
 Before using ZOVIRAX Cream, tell your healthcare provider about all of your medical conditions, including if you:
 
-- •become sick very easily (have a weak immune system)
+- •become sick very easily (have a weak immune system).
 - •are pregnant or plan to become pregnant.
   It is not known if ZOVIRAX Cream will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
@@ -49,7 +49,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ZOVIRAX Cream?
 
-- •Store ZOVIRAX Cream at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Store ZOVIRAX Cream at room temperature between 68° to 77°F (20° to 25°C).
 - •Keep ZOVIRAX Cream and all medicines out of the reach of children.
 
 General information about the safe and effective use of ZOVIRAX Cream
@@ -66,14 +66,14 @@ Active ingredient: acyclovir
 
 Inactive ingredients: cetostearyl alcohol, mineral oil, poloxamer 407, propylene glycol, sodium lauryl sulfate, water, and white petrolatum
 
-Manufactured for: Valeant Pharmaceuticals North America LLC,
+Manufactured for: Valeant Pharmaceuticals North America LLC
 
 Bridgewater NJ 08807 USA
 
-By: Valeant Pharmaceuticals International Inc. Laval, Quebec H7L 4A8, Canada
+By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
 For more information, call 1-800-321-4576.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 06/2015
+Revised: 01/2017 9462201 20000875B

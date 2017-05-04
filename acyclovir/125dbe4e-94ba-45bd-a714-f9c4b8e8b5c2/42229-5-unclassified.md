@@ -1,12 +1,14 @@
-Manufactured for: Valeant Pharmaceuticals North America LLC,
+Manufactured for: Valeant Pharmaceuticals North America LLC
 
 Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International Inc.
+By: Valeant Pharmaceuticals International, Inc.
 
 Laval, Quebec H7L 4A8, Canada
 
-ZOVIRAX® is a registered trademark of the GlaxoSmithKline group of companies and used under license by Valeant.
+ZOVIRAX is a registered trademark of the GlaxoSmithKline group of companies and used under license by Valeant.
+
+©Valeant Pharmaceuticals North America LLC
 
 Rev.
-06/2015 9462200
+01/2017 9462201 20000875B

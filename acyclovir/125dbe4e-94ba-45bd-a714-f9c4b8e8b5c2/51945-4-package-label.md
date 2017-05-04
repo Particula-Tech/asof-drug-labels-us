@@ -2,11 +2,12 @@
 
 ZOVIRAX® (ACYCLOVIR) CREAM 5%
 
-USE ONLY FOR COLD SORES.
-Distributed by Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 Made in Canada
-
-NDC 0187-0994-45
-
-Each gram contains 50 mg acyclovir.
-
+NDC 0187-0994-45 Net Wt.
 5 g
+
+Each gram contains: 50 mg acyclovir, cetostearyl alcohol, mineral oil, poloxamer 407, propylene glycol, sodium lauryl sulfate, water and white petrolatum.
+
+USE ONLY FOR COLD SORES.
+FOR CUTANEOUS USE ONLY.
+
+Rx only

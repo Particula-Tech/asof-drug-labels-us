@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category B
+### Pregnancy Category B.
 
 There are no adequate and well-controlled studies of acyclovir cream in pregnant women.
 Acyclovir cream should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -22,7 +22,7 @@ Nursing mothers who have active herpetic lesions near or on the breast should av
 
 ## 8.4 Pediatric Use
 
-An open-label, uncontrolled trial with ZOVIRAX Cream 5% was conducted in 113 patients aged 12 to 17 years with recurrent herpes labialis.
+An open-label, uncontrolled trial with ZOVIRAX Cream was conducted in 113 patients aged 12 to 17 years with recurrent herpes labialis.
 In this trial, therapy was applied using the same dosing regimen as in adults and subjects were followed for adverse events.
 The safety profile was similar to that observed in adults.
 Safety and effectiveness in pediatric patients less than 12 years of age have not been established.
