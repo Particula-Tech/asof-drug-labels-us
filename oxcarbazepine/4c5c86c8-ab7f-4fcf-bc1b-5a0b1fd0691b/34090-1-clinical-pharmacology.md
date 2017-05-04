@@ -88,7 +88,7 @@ When TRILEPTAL is administered as a single 300 mg dose in renally-impaired patie
 Hepatic Impairment
 
 The pharmacokinetics and metabolism of oxcarbazepine and MHD were evaluated in healthy volunteers and hepatically-impaired subjects after a single 900-mg oral dose.
-Mild-to-moderate hepatic impairment did not affect the pharmacokinetics of oxcarbazepine and MHD[see Dosage and Administration (2.8)].
+Mild-to-moderate hepatic impairment did not affect the pharmacokinetics of oxcarbazepine and MHD [see Dosage and Administration (2.8)].
 
 Pregnancy
 
