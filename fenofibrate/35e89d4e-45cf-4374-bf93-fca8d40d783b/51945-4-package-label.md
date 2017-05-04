@@ -14,10 +14,12 @@ NDC 68012-495-90 Fenoglide®
 
 (fenofibrate)
 
-Tablets
+tablets
 
 120 mg
 
 Rx only 90 Tablets
+
+Salix
 
 Salix

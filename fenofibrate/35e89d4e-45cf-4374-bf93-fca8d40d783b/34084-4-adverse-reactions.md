@@ -33,4 +33,4 @@ Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate an
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of fenofibrate: myalgia, rhabdomyolysis, pancreatitis, acute renal failure, muscle spasms, hepatitis, cirrhosis, anemia, arthralgia, decreases in hematocrit, white blood cell decreases, asthenia, and severely depressed HDL cholesterol levels.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure.
