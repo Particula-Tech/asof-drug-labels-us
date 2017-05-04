@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 120 mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 120 mL Bottle Carton
 
 NDC 50458-680-08
 
@@ -10,5 +10,3 @@ Rx only.
 (120 mL)
 
 janssen
-
-US - 987863
