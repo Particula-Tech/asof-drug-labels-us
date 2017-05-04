@@ -18,7 +18,7 @@ Post-marketing cases of hypersensitivity have been reported with the use of sucr
 
 Cases of bronchospasm, laryngeal edema and respiratory tract edema have been reported with an unknown oral formulation of sucralfate.
 
-Cases of hyperglycemia have been reported with sucralfate
+Cases of hyperglycemia have been reported with sucralfate.
 
 Bezoars have been reported in patients treated with sucralfate.
 The majority of patients had underlying medical conditions that may predispose to bezoar formation (such as delayed gastric emptying) or were receiving concomitant enteral tube feedings.

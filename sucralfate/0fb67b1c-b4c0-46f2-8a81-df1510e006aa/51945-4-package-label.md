@@ -1,3 +1,13 @@
-# Principal Display Panel
+# Principal Display Panel - Carafate Suspension Label
 
-Carafate Suspension, Bottle Carafate Suspension, Box - Sample Carafate Suspension, Foil - Sample
+NDC 58914-170-14
+
+Carafate® (sucralfate)
+
+Suspension
+
+1 g/10 mL
+
+One 14 fl oz Bottle
+
+Allergan™
