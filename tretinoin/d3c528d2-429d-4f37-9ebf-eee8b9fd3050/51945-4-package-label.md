@@ -1,19 +1,30 @@
-# PRINCIPAL DISPLAY PANEL - 0.1% 20g Tube
+# Package/Label Display Panel
 
-NDC 68682-513-82
+NDC 68682-513-82 Rx only
 
-TRETINOIN gel microsphere, 0.1%
+TRETINOIN Gel microsphere 0.1% For Topical Use Only Net wt.
+20 g
 
-For Topical Use Only Dosage: See package insert.
+OCEANSIDE PHARMACEUTICALS
 
-OCEANSIDE® PHARMACEUTICALS
+# Package/Label Display Panel
 
-# PRINCIPAL DISPLAY PANEL - 0.04% 20g Tube
+NDC 68682-514-95 Rx only
 
-NDC 68682-514-92
+TRETINOIN Gel microsphere 0.04% PUMP
 
-TRETINOIN gel microsphere, 0.04%
+OCEANSIDE PHARMACEUTICALS
 
-For Topical Use Only Dosage: See package insert.
+For Topical Use Only Net Wt.
+50 g
 
-OCEANSIDE® PHARMACEUTICALS
+# Package/Label Display Panel
+
+NDC 68682-515-95 Rx only
+
+TRETINOIN Gel microsphere 0.08% PUMP
+
+OCEANSIDE PHARMACEUTICALS
+
+For Topical Use Only NET WT.
+50 grams
