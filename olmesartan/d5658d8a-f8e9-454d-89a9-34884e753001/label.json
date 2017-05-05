@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA205482"
+  ],
+  "inn": "olmesartan",
+  "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "59746-463-01",
+    "59746-463-10",
+    "59746-463-30",
+    "59746-463-32",
+    "59746-465-01",
+    "59746-465-10",
+    "59746-465-30",
+    "59746-465-32",
+    "59746-465-90",
+    "59746-466-01",
+    "59746-466-10",
+    "59746-466-30",
+    "59746-466-32",
+    "59746-466-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "olmesartan medoxomil",
+      "name": "olmesartan medoxomil"
+    }
+  ],
+  "setid": "d5658d8a-f8e9-454d-89a9-34884e753001",
+  "source": "dailymed"
+}
