@@ -26,23 +26,13 @@ The pharmacokinetics of diclofenac following intravenous administration of DYLOJ
 
 Table 3: Single-dose and Multiple-dose Pharmacokinetics of DYLOJECT (diclofenac sodium) Injection and Oral Immediate Release (IR) Diclofenac Potassium
 
-| ParameterCL and Vz are CL/F and Vz/F for oral immediate release diclofenac | DYLOJECT 37.5 mg IV | Oral IR Diclofenac 50 mg PO |
+| Parameter1 | DYLOJECT 37.5 mgIV | Oral IR Diclofenac50 mgPO |
 | --- | --- | --- |
 | Single Dose |  |  |
-| Cmax (ng/mL) | 6,031 ± 1,178 | 1,246 ±732 |
-| Tmax (h) | 0.083 | 1.5 |
-| AUC(inf) (h∙ng/mL) | 1,859 ± 376 | 1,562 ± 519 |
-| t1/2 (h) | 1.44 ± 0.27 | 1.28 ± 0.27 |
-| CL (mL/min) | 324 ± 63.0 | 526 ± 179 |
-| Vz (L) | 40.1 ± 9.77 | 57.3 ± 20.4 |
+| Cmax (ng/mL)Tmax (h)AUC(inf) (h∙ng/mL)t1/2 (h)CL (mL/min)Vz (L) | 6,031 ± 1,1780.0831,859 ± 3761.44 ± 0.27324 ± 63.040.1 ± 9.77 | 1,246 ±7321.51,562 ± 5191.28 ± 0.27526 ± 17957.3 ± 20.4 |
 | Multiple Dose |  |  |
-| Cmax (ng/mL) | 5,617 ± 1,799 | 851 ± 462 |
-| Tmax (h) | 0.083 | 1.49 |
-| AUC(0–t) (h∙ng/mL) | 1,839 ± 506 | 1,350 ± 601 |
-| t1/2 (h) | 2.29 ± 0.63 | 2.80 ± 0.66 |
-| CL (mL/min) | 387 ± 394 | 894 ± 1,392 |
-| Vz (L) | 83.4 ± 127 | 242 ± 486 |
-| IV=intravenous; PO=oral; |  |  |
+| Cmax (ng/mL)Tmax (h)AUC(0-t) (h∙ng/mL)t1/2 (h)CL (mL/min)Vz (L) | 5,617 ± 1,7990.0831,839 ± 5062.29 ± 0.63387 ± 39483.4 ± 127 | 851 ± 4621.491,350 ± 6012.80 ± 0.66894 ± 1,392242 ± 486 |
+| IV=intravenous; PO=oral; 1CL and Vz are CL/F and Vz/F for oral immediate release diclofenac |  |  |
 
 DYLOJECT administered as an intravenous bolus dose of 37.5 mg every 6 hours for 4 doses to healthy subjects (N=36) showed minimal accumulation with mean values for Cmax and AUC equivalent between the first and the fourth dose.
 
@@ -53,7 +43,7 @@ Distribution
 Following administration of DYLOJECT, the apparent volume of distribution during the terminal elimination phase (Vz) of diclofenac is 40.1 ± 9.77 L.
 
 Diclofenac is more than 99% bound to human serum proteins, primarily albumin.
-Serum binding is constant over the concentration range (0.15–105 mcg/mL) achieved with the recommended doses.
+Serum binding is constant over the concentration range (0.15-105 mcg/mL) achieved with the recommended doses.
 
 Diclofenac diffuses into and out of the synovial fluid.
 Diffusion into the joint occurs when plasma levels are higher than those in the synovial fluid, after which the process reverses and synovial fluid levels are higher than plasma levels.

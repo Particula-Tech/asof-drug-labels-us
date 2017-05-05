@@ -17,5 +17,4 @@ Approximately 74% of subjects in the DYLOJECT group and 92% of subjects in the p
 Efficacy was demonstrated by a reduction in pain intensity as measured by the sum of the pain intensity differences over 0 to 48 hours in patients receiving DYLOJECT as compared to placebo.
 The average pain intensities over time are depicted for the treatment groups in Figure 2.
 
-| Figure 1: Pain Intensity Score Versus Time | Figure 2: Pain Intensity Score Versus Time |
-| --- | --- |
+Figure 1: Pain Intensity Score Versus Time Figure 2: Pain Intensity Score Versus Time
