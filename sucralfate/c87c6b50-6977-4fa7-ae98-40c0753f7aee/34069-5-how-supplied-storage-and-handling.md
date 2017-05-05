@@ -6,16 +6,11 @@ Light pink, scored, oblong tablets are embossed with CARAFATE on one side and 17
 Rx Only
 
 Prescribing Information rev.
-March 2013
+November 2016
 
-Aptalis Pharma US, Inc.
+Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
-100 Somerset Corporate Boulevard
+© 2016 Allergan.
+All rights reserved.
 
-Bridgewater, NJ 08807
-
-USA
-
-CARAFATE® is a registered trademark of Aptalis Pharma Canada Inc., which is an affiliate of Aptalis Pharma US, Inc.
-
-www.aptalispharma.com
+CARAFATE® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan affiliate.

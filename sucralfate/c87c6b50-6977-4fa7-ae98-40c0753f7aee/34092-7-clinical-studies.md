@@ -3,20 +3,18 @@
 ## Acute Duodenal Ulcer
 
 Over 600 patients have participated in well-controlled clinical trials worldwide.
-Multicenter trials conducted in the United States, both of them placebo-controlled studies with endoscopic evaluation at 2 and 4 weeks,showed:
+Multicenter trials conducted in the United States, both of them placebo-controlled studies with endoscopic evaluation at 2 and 4 weeks, showed:
 
-STUDY 1
-
-| Treatment Groups | Ulcer Healing/ No. Patients |  |
+| STUDY 1 |  |  |
 | --- | --- | --- |
+| Treatment Groups | Ulcer Healing/ No. Patients |  |
 | 2 wk | 4 wk (Overall) |  |
 | Sucralfate | 37/105 (35.2%) | 82/109 (75.2%) |
 | Placebo | 26/106 (24.5%) | 68/107 (63.6%) |
 
-STUDY 2
-
-| Treatment Groups | Ulcer Healing/ No. Patients |  |
+| STUDY 2 |  |  |
 | --- | --- | --- |
+| Treatment Groups | Ulcer Healing/ No. Patients |  |
 | 2 wk | 4 wk (Overall) |  |
 | Sucralfate | 8/24 (33%) | 22/24 (92%) |
 | Placebo | 4/31 (13%) | 18/31 (58%) |
@@ -36,8 +34,9 @@ Of the 254 patients who enrolled, 239 were analyzed in the intention-to-treat li
 | --- | --- | --- | --- | --- | --- |
 | Drug | Months of Therapy |  |  |  |  |
 | n | 1 | 2 | 3 | 4 |  |
-| CARAFATE | 122 | 20P<0.05 | 30 | 38P<0.01 | 42 |
+| CARAFATE | 122 | 20* | 30* | 38† | 42† |
 | Placebo | 117 | 33 | 46 | 55 | 63 |
+| *P<0.05, †P<0.01 |  |  |  |  |  |
 
 In this study, prn antacids were not permitted.
 
@@ -48,8 +47,9 @@ A life table intention-to-treat analysis for the 94 patients enrolled in the tri
 | Duodenal Ulcer Recurrence Rate (%) |  |  |  |
 | --- | --- | --- | --- |
 | Drug | n | 6 months | 12 months |
-| CARAFATE | 48 | 19P<0.002 | 27 |
+| CARAFATE | 48 | 19* | 27* |
 | Placebo | 46 | 54 | 65 |
+| *P<0.002 |  |  |  |
 
 In this study, prn antacids were permitted.
 

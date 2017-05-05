@@ -1,6 +1,6 @@
 # PRECAUTIONS
 
-The physician should read the "PRECAUTIONS" section when considering the use of this drug in pregnant or pediatric patients, or patients of childbearing potential.
+The physician should read the " PRECAUTIONS " section when considering the use of this drug in pregnant or pediatric patients, or patients of childbearing potential.
 
 Duodenal ulcer is a chronic, recurrent disease.
 While short-term treatment with sucralfate can result in complete healing of the ulcer, a successful course of treatment with sucralfate should not be expected to alter the post healing frequency or severity of duodenal ulceration.
@@ -31,7 +31,7 @@ In these cases, patients should be monitored appropriately.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Chronic oral toxicity studies of 24 months’ duration were conducted in mice and rats at doses up to 1 g/kg (12 times the human dose).
+Chronic oral toxicity studies of 24 months' duration were conducted in mice and rats at doses up to 1 g/kg (12 times the human dose).
 
 There was no evidence of drug-related tumorigenicity.
 A reproduction study in rats at doses up to 38 times the human dose did not reveal any indication of fertility impairment.
@@ -39,7 +39,8 @@ Mutagenicity studies were not conducted.
 
 ## Pregnancy
 
-### Teratogenic effects. Pregnancy Category B.
+Teratogenic effects.
+Pregnancy Category B.
 
 Teratogenicity studies have been performed in mice, rats, and rabbits at doses up to 50 times the human dose and have revealed no evidence of harm to the fetus due to sucralfate.
 There are, however, no adequate and well-controlled studies in pregnant women.
