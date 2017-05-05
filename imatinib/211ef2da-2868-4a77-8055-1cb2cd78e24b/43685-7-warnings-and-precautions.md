@@ -8,7 +8,7 @@ Investigate unexpected rapid weight gain carefully and provide appropriate treat
 The probability of edema was increased with higher Gleevec dose and age greater than 65 years in the CML studies.
 Severe superficial edema was reported in 1.5% of newly diagnosed CML patients taking Gleevec, and in 2%-6% of other adult CML patients taking Gleevec.
 In addition, other severe fluid retention (e.g., pleural effusion, pericardial effusion, pulmonary edema, and ascites) reactions were reported in 1.3% of newly diagnosed CML patients taking Gleevec, and in 2%-6% of other adult CML patients taking Gleevec.
-Severe fluid retention was reported in 9% to 13.1% of patients taking Gleevec for GIST [see Adverse Reactions (6.9)].
+Severe fluid retention was reported in 9% to 13.1% of patients taking Gleevec for GIST [see Adverse Reactions (6.1)].
 In a randomized trial in patients with newly diagnosed Ph+CML in chronic phase comparing Gleevec and nilotinib, severe (Grade 3 or 4) fluid retention occurred in 2.5% of patients receiving Gleevec and in 3.9% of patients receiving nilotinib 300 mg twice daily.
 Effusions (including pleural effusion, pericardial effusion, ascites) or pulmonary edema were observed in 2.1% (none were Grade 3 or 4) of patients in the Gleevec arm and 2.2% (0.7% Grade 3 or 4) of patients in the nilotinib 300 mg twice daily arm.
 
@@ -87,7 +87,7 @@ If this drug is used during pregnancy or if the patient becomes pregnant while t
 
 Growth retardation has been reported in children and pre-adolescents receiving Gleevec.
 The long term effects of prolonged treatment with Gleevec on growth in children are unknown.
-Therefore, monitor growth in children under Gleevec treatment [see Adverse Reactions (6.11)].
+Therefore, monitor growth in children under Gleevec treatment [see Adverse Reactions (6.1)].
 
 ## 5.12 Tumor Lysis Syndrome
 
