@@ -38,8 +38,7 @@ Because of the potential for serious adverse reactions in nursing infants from a
 ## 8.4 Pediatric Use
 
 The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients, 10 to 17 years of age, were similar to those in adults after correcting for the differences in body weight [see CLINICAL PHARMACOLOGY (12.3)].
-Schizophrenia Safety and effectiveness in pediatric patients with schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see DOSAGE AND ADMINISTRATION (2.1), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.1)].
-Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
+Schizophrenia Safety and effectiveness in pediatric patients with schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see DOSAGE AND ADMINISTRATION (2.1),ADVERSE REACTIONS (6.1),and CLINICAL STUDIES (14.1)].Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 Information describing a clinical study in which efficacy was not demonstrated in patients ages 6 to 17 years is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole).
 Additional pediatric use information in patients ages 6 to 18 years is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole) product.
 However, due to Otsuka America Pharmaceutical, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

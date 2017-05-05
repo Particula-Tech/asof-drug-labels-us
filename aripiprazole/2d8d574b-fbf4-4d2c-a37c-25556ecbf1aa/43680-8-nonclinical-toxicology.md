@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
 
-Carcinogenesis Lifetime carcinogenicity studies were conducted in ICR mice and in Sprague-Dawley (SD) rats, and F344 rats.
+Carcinogenesis Lifetime carcinogenicity studies were conducted in ICR mice, Sprague-Dawley (SD) rats, and F344 rats.
 Aripiprazole was administered for 2 years in the diet at doses of 1, 3, 10, and 30 mg/kg/day to ICR mice and 1, 3, and 10 mg/kg/day to F344 rats (0.2 to 5 times and 0.3 to 3 times the maximum recommended human dose [MRHD] based on mg/m2, respectively).
 In addition, SD rats were dosed orally for 2 years at 10, 20, 40, and 60 mg/kg/day (3 to 19 times the MRHD based on mg/m2).
 Aripiprazole did not induce tumors in male mice or male rats.

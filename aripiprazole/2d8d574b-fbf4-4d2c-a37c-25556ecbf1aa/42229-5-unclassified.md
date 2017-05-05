@@ -23,7 +23,7 @@ Aripiprazole tablets are not approved for the treatment of patients with dementi
 Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 2.
 Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-Some people may have particularly high risk of having suicidal thoughts or actions.
+Some people may have a particularly high risk of having suicidal thoughts or actions.
 These include people who have (or have a family history of) suicidal thoughts or actions.
 
 3.
@@ -95,7 +95,7 @@ It is not known if aripiprazole tablets are safe or effective in children:
 
 Do not take aripiprazole tablets if you are allergic to aripiprazole or any of the ingredients in aripiprazole tablets.
 See the end of this Medication Guide for a complete list of ingredients in aripiprazole tablets.
-Before taking aripiprazole tablets, tell your healthcare provider about all your medical conditions, including if you have or had: • diabetes or high blood sugar in you or your family; your healthcare provider should check your blood sugar before you start aripiprazole tablets and also during therapy.
+Before taking aripiprazole tablets, tell your healthcare providerabout all your medical conditions, including ifyou have or had: • diabetes or high blood sugar in you or your family; your healthcare provider should check your blood sugar before you start aripiprazole tablets and also during therapy.
 
 • seizures (convulsions).
 
@@ -120,7 +120,9 @@ Aripiprazole tablets may affect the way other medicines work, and other medicine
 Your healthcare provider can tell you if it is safe to take aripiprazole tablets with your other medicines.
 Do not start or stop any medicines while taking aripiprazole tablets without talking to your healthcare provider first.
 Know the medicines you take.
-Keep a list of your medicines to show your healthcare provider and pharmacist when you get a new medicine.
+Keep a
+
+list of your medicines to show your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take aripiprazole tablets?
 
@@ -161,7 +163,8 @@ Aripiprazole tablets may cause serious side effects, including:
 
 • Stroke in elderly people (cerebrovascular problems) that can lead to death
 
-• Neuroleptic malignant syndrome (NMS): Tell your healthcare provider right away if you have some or all of the following symptoms: high fever, stiff muscles, confusion, sweating, changes in pulse, heart rate, and blood pressure.
+• Neuroleptic malignant syndrome (NMS).
+Tell your healthcare provider right away if you have some or all of the following symptoms: high fever, stiff muscles, confusion, sweating, changes in pulse, heart rate, and blood pressure.
 These may be symptoms of a rare and serious condition that can lead to death.
 Call your healthcare provider right away if you have any of these symptoms.
 
@@ -170,9 +173,10 @@ Aripiprazole tablets may cause movements that you cannot control in your face, t
 Tardive dyskinesia may not go away, even if you stop receiving aripiprazole tablets.
 Tardive dyskinesia may also start after you stop receiving aripiprazole tablets.
 
-•Problems with your metabolism such as:
+• Problems with your metabolism such as:
 
-•High blood sugar (hyperglycemia) and diabetes: Increases in blood sugar can happen in some people who take aripiprazole tablets.
+•High blood sugar (hyperglycemia) and diabetes.
+Increases in blood sugar can happen in some people who take aripiprazole tablets.
 Extremely high blood sugar can lead to coma or death.
 If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes), your healthcare provider should check your blood sugar before you start aripiprazole tablets and during your treatment.
 
@@ -198,7 +202,8 @@ Some people taking aripiprazole tablets have had unusual urges, such as gambling
 
 If you or your family members notice that you are having unusual urges or behaviors, talk to your healthcare provider.
 
-• Orthostatic hypotension (decreased blood pressure): Lightheadedness or fainting may happen when rising too quickly from a sitting or lying position.
+• Orthostatic hypotension (decreased blood pressure).
+Lightheadedness or fainting may happen when rising too quickly from a sitting or lying position.
 
 • Low white blood cell count
 
@@ -233,8 +238,7 @@ The most common side effects of aripiprazole tablets in children include:
 
 • fatigue • weight gain
 
-• increased or decreased appetite • uncontrolled movement such as restlessness, tremor • increased saliva or drooling • muscle stiffness
-
+• increased or decreased appetite • uncontrolled movement such as restlessness, tremor • increased saliva or drooling • muscle stiffness These are not all the possible side effects of aripiprazole tablets.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
@@ -271,4 +275,4 @@ Manufactured by: HETEROTM HETERO LABS LIMITED Unit V, Polepally, Jadcherla, Maha
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-Revised: September 2016
+Revised: March 2017

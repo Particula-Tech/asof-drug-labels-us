@@ -6,15 +6,13 @@ Adults The recommended starting and target dose for aripiprazole tablets is 10 o
 Aripiprazole tablets have been systematically evaluated and shown to be effective in a dose range of 10 to 30 mg/day, when administered as the tablet formulation; however, doses higher than 10 or 15 mg/day were not more effective than 10 or 15 mg/day.
 Dosage increases should generally not be made before 2 weeks, the time needed to achieve steady-state [see CLINICAL STUDIES (14.1)].
 Maintenance Treatment: Maintenance of efficacy in schizophrenia was demonstrated in a trial involving patients with schizophrenia who had been symptomatically stable on other antipsychotic medications for periods of 3 months or longer.
-These patients were discontinued from those medications and randomized to either aripiprazole tablets 15 mg/day or placebo, and observed for relapse [see CLINICAL STUDIES (14.1)].
-Patients should be periodically reassessed to determine the continued need for maintenance treatment.
+These patients were discontinued from those medications and randomized to either aripiprazole tablets 15 mg/day or placebo, and observed for relapse [see CLINICAL STUDIES(14.1)].Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 Adolescents The recommended target dose of aripiprazole tablets is 10 mg/day.
 Aripiprazole was studied in adolescent patients 13 to 17 years of age with schizophrenia at daily doses of 10 mg and 30 mg.
 The starting daily dose of the tablet formulation in these patients was 2 mg, which was titrated to 5 mg after 2 days and to the target dose of 10 mg after 2 additional days.
 Subsequent dose increases should be administered in 5 mg increments.
 The 30 mg/day dose was not shown to be more efficacious than the 10 mg/day dose.
-Aripiprazole tablets can be administered without regard to meals [see CLINICAL STUDIES (14.1)].
-Patients should be periodically reassessed to determine the need for maintenance treatment.
+Aripiprazole tablets can be administered without regard to meals [see CLINICAL STUDIES (14.1)].Patients should be periodically reassessed to determine the need for maintenance treatment.
 Switching from Other Antipsychotics There are no systematically collected data to specifically address switching patients with schizophrenia from other antipsychotics to aripiprazole tablets or concerning concomitant administration with other antipsychotics.
 While immediate discontinuation of the previous antipsychotic treatment may be acceptable for some patients with schizophrenia, more gradual discontinuation may be most appropriate for others.
 In all cases, the period of overlapping antipsychotic administration should be minimized.
@@ -40,4 +38,4 @@ Table 1: Dose Adjustments for aripiprazole tablets in Patients who are known CYP
 ## 2.8 Dosing of Oral Solution
 
 The oral solution can be substituted for tablets on a mg-per-mg basis up to the 25 mg dose level.
-Patients receiving 30 mg tablets should receive 25 mg of the solution [see CLINICAL PHARMACOLOGY (12.3)].
+Patients receiving 30 mg tablets should receive 25 mg of the solution [see CLINICAL PHARMACOLOGY(12.3)].

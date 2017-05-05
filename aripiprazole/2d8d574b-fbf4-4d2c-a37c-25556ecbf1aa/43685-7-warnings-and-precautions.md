@@ -4,7 +4,7 @@
 
 Increased Mortality Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Aripiprazole tablets are not approved for the treatment of patients with dementia-related psychosis [see BOXED WARNING].
-Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer's Disease In three, 10-week, placebo-controlled studies of aripiprazole tablets in elderly patients with psychosis associated with Alzheimer's disease (n=938; mean age: 82.4 years; range: 56 to 99 years), the adverse reactions that were reported at an incidence of ≥3% and aripiprazole tablets incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole tablets 5%], somnolence (including sedation) [placebo 3%, aripiprazole tablets 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole tablets 5%], excessive salivation [placebo 0%, aripiprazole tablets 4%], and lightheadedness [placebo 1%, aripiprazole tablets 4%].
+Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer’s Disease In three, 10-week, placebo-controlled studies of aripiprazole tablets in elderly patients with psychosis associated with Alzheimer's disease (n=938; mean age: 82.4 years; range: 56 to 99 years), the adverse reactions that were reported at an incidence of ≥3% and aripiprazole tablets incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole tablets 5%], somnolence (including sedation) [placebo 3%, aripiprazole tablets 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole tablets 5%], excessive salivation [placebo 0%, aripiprazole tablets 4%], and lightheadedness [placebo 1%, aripiprazole tablets 4%].
 The safety and efficacy of aripiprazole tablets in the treatment of patients with psychosis associated with dementia have not been established.
 If the prescriber elects to treat such patients with aripiprazole tablets, assess for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see BOXED WARNING].
 
@@ -40,7 +40,7 @@ Table 3:
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
-It is unknown whether the suicidality risk extends to longer-term use, ie, beyond several months.
+It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for MDD as well as for other indications, both psychiatric and nonpsychiatric.
@@ -86,15 +86,14 @@ However, some patients may require treatment with aripiprazole tablets despite t
 
 Atypical antipsychotic drugs have been associated with metabolic changes that include hyperglycemia/diabetes mellitus, dyslipidemia, and body weight gain.
 While all drugs in the class have been shown to produce some metabolic changes, each drug has its own specific risk profile.
-Hyperglycemia/Diabetes Mellitus Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated atypical antipsychotics.
-There have been reports of hyperglycemia in patients treated with aripiprazole tablets [see ADVERSE REACTIONS (6.1, 6.2)].
-Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
+Hyperglycemia/Diabetes Mellitus Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics.
+There have been reports of hyperglycemia in patients treated with aripiprazole tablets [see ADVERSE REACTIONS (6.1,6.2)].Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
 However, epidemiological studies suggest an increased risk of hyperglycemia-related adverse reactions in patients treated with the atypical antipsychotics.
 Because aripiprazole tablets were not marketed at the time these studies were performed, it is not known if aripiprazole tablets are associated with this increased risk.
 Precise risk estimates for hyperglycemia-related adverse reactions in patients treated with atypical antipsychotics are not available.
 Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
-Patients with risk factors for diabetes mellitus (eg, obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
+Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
@@ -111,14 +110,14 @@ Table 4: Changes in Fasting Glucose From Placebo-Controlled Monotherapy Trials i
 
 At 24 weeks, the mean change in fasting glucose in aripiprazole tablets-treated patients was not significantly different than in placebo-treated patients [+2.2 mg/dL (n=42) and +9.6 mg/dL (n=28), respectively].
 Pediatric Patients and Adolescents In an analysis of two placebo-controlled trials in adolescents with schizophrenia (13 to 17 years) and pediatric patients with another indication (10 to 17 years), the mean change in fasting glucose in aripiprazole tablets-treated patients (+4.8 mg/dL; with a median exposure of 43 days; N=259) was not significantly different than in placebo-treated patients (+1.7 mg/dL; with a median exposure of 42 days; N=123).
-Table 5 shows the proportion of patients with changes in fasting glucose levels from the pooled adolescent schizophrenia and another indication (median exposure of 42 to 43 days).
-Table5: Changes in Fasting Glucose From Placebo-Controlled Trials in Pediatric and Adolescent Patients
+Table 5 shows the proportion of patients with changes in fasting glucose levels from the pooled patients with adolescent schizophrenia and another indication (median exposure of 42 to 43 days).
+Table 5: Changes in Fasting Glucose From Placebo-Controlled Trials in Pediatric and Adolescent Patients
 
-| CategoryChange (at least once) fromBaseline | Indication | Treatment Arm | n/N | % |
+| Category Change (at least once) from Baseline | Indication | Treatment Arm | n/N | % |
 | --- | --- | --- | --- | --- |
-| FastingGlucose Normal to High (<100 mg/dL to ≥ 126 mg/dL) | Pooled Schizophrenia and another indication | Aripiprazole tablets | 2/236 | 0.8 |
+| Fasting Glucose Normal to High (<100 mg/dL to ≥ 126 mg/dL) | Pooled Schizophrenia and another indication | Aripiprazole tablets | 2/236 | 0.8 |
 | Placebo | 2/110 | 1.8 |  |  |
-| Fasting Glucose Borderlineto High (≥100 mg/dL and <126 mg/dL to ≥ 126 mg/dL) | Pooled Schizophrenia and another indication | Aripiprazole tablets | 1/22 | 4.5 |
+| Fasting Glucose Borderline to High (≥100 mg/dL and <126 mg/dL to ≥ 126 mg/dL) | Pooled Schizophrenia and another indication | Aripiprazole tablets | 1/22 | 4.5 |
 | Placebo | 0/12 | 0 |  |  |
 
 At 12 weeks in the pooled adolescent schizophrenia and another indication trials, the mean change in fasting glucose in aripiprazole tablets-treated patients was not significantly different than in placebo-treated patients [+2.4 mg/dL (n=81) and +0.1 mg/dL (n=15), respectively].
@@ -139,8 +138,8 @@ Table 6: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy T
 | HDL Cholesterol Normal to Low (≥40 mg/dL to<40 mg/dL) | Aripiprazole tablets | 121/1066 | 11.4 |
 | Placebo | 99/794 | 12.5 |  |
 
-In monotherapy trials in adults, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole tablets- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 1/71 (1.4%) vs. 3/74 (4.1%); Fasting Triglycerides, 8/62 (12.9%) vs. 5/37 (13.5%); Fasting LDL Cholesterol, 0/34 (0%) vs. 1/25 (4 %), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 1/42 (2.4%) vs. 3/37 (8.1%); Fasting Triglycerides, 5/34 (14.7%) vs. 5/20 (25%); Fasting LDL Cholesterol, 0/22 (0%) vs. 1/18 (5.6%), respectively.
-Pediatric Patients and Adolescents Table 7 shows the proportion of adolescents with schizophrenia (13 to 17 years) and pediatric patients with other indication (10 to 17 years) with changes in total cholesterol and HDL cholesterol (pooled from two placebo-controlled trials; median exposure 42 to 43 days), and fasting triglycerides (pooled from two placebo-controlled trials; median exposure 42 to 44 days).
+In monotherapy trials in adults, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole tablets- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 1/71 (1.4%) vs. 3/74 (4.1%); Fasting Triglycerides, 8/62 (12.9%) vs. 5/37 (13.5%); Fasting LDL Cholesterol, 0/34 (0%) vs. 1/25 (4%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 1/42 (2.4%) vs. 3/37 (8.1%); Fasting Triglycerides, 5/34 (14.7%) vs. 5/20 (25%); Fasting LDL Cholesterol, 0/22 (0%) vs. 1/18 (5.6%), respectively.
+Pediatric Patients and Adolescents Table 7 shows the proportion of adolescents with schizophrenia (13 to 17 years) and pediatric patients with other indication (10 to 17 years) with changes in total cholesterol and HDL cholesterol (pooled from two placebo-controlled trials; median exposure 42 to 43 days) and fasting triglycerides (pooled from two placebo-controlled trials; median exposure 42 to 44 days).
 Table 7: Changes in Blood Lipid Parameters from Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients in Schizophrenia and Another Indication
 
 | Total Cholesterol Normal to High (<170 mg/dL to ≥200 mg/dL) | Treatment Arm | n/N | % |
@@ -152,7 +151,7 @@ Table 7: Changes in Blood Lipid Parameters from Placebo-Controlled Monotherapy T
 | HDL Cholesterol Normal to High (≥40 mg/dL to <40 mg/dL) | Aripiprazole tablets | 27/236 | 11.4 |
 | Placebo | 22/109 | 20.2 |  |
 
-In monotherapy trials of adolescents with schizophrenia and pediatric patients with another indication, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole tablets- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 0/57 (0%) vs. 0/15 (0%); Fasting Triglycerides, 2/72 (2.8%) vs. 1/14 (7.1%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 0/36 (0%) vs. 0/12 (0%); Fasting Triglycerides, 1/47 (2.1%) vs. 1/10 (10 %), respectively.
+In monotherapy trials of adolescents with schizophrenia and pediatric patients with another indication, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole tablets- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 0/57 (0%) vs. 0/15 (0%); Fasting Triglycerides, 2/72 (2.8%) vs. 1/14 (7.1%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 0/36 (0%) vs. 0/12 (0%); Fasting Triglycerides, 1/47 (2.1%) vs. 1/10 (10%), respectively.
 Weight Gain Weight gain has been observed with atypical antipsychotic use.
 Clinical monitoring of weight is recommended.
 Adults In an analysis of 13 placebo-controlled monotherapy trials, primarily from pooled schizophrenia and another indication, with a median exposure of 21 to 25 days, the mean change in body weight in aripiprazole tablets-treated patients was +0.3 kg (N=1673) compared to –0.1 kg (N=1100) in placebo-controlled patients.
@@ -191,7 +190,7 @@ However, due to Otsuka America Pharmaceutical, Inc.'s marketing exclusivity righ
 ## 5.7 Pathological Gambling and Other Compulsive Behaviors
 
 Post-marketing case reports suggest that patients can experience intense urges, particularly for gambling, and the inability to control these urges while taking aripiprazole.
-Other compulsive urges, reported less frequently include: sexual urges, shopping, eating or binge eating, and other impulsive or compulsive behaviors.
+Other compulsive urges, reported less frequently, include: sexual urges, shopping, eating or binge eating, and other impulsive or compulsive behaviors.
 Because patients may not recognize these behaviors as abnormal, it is important for prescribers to ask patients or their caregivers specifically about the development of new or intense gambling urges, compulsive sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole.
 It should be noted that impulse-control symptoms can be associated with the underlying disorder.
 In some cases, although not all, urges were reported to have stopped when the dose was reduced or the medication was discontinued.
@@ -201,45 +200,49 @@ Consider dose reduction or stopping the medication if a patient develops such ur
 ## 5.8 Orthostatic Hypotension
 
 Aripiprazole tablets may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
-The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole tablets (n=2467) included (aripiprazole tablets incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole tablets included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0%), and syncope (0.2%, 0%).
-[see ADVERSE REACTIONS (6.1)] The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 bpm when comparing standing to supine values) for aripiprazole tablets was not meaningfully different from placebo (aripiprazole tablets incidence, placebo incidence): in adult oral aripiprazole tablets-treated patients (4%, 2%), in pediatric oral aripiprazole tablets-treated patients aged 6 to 18 years (0.4%, 1%).
-Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
-[see DRUG INTERACTIONS (7.1)].
+The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole tablets (n=2467) included (aripiprazole tablets incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole tablets included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0%), and syncope (0.2%, 0%) [see ADVERSE REACTIONS (6.1)].
+The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 bpm when comparing standing to supine values) for aripiprazole tablets was not meaningfully different from placebo (aripiprazole tablets incidence, placebo incidence): in adult oral aripiprazole tablets-treated patients (4%, 2%), in pediatric oral aripiprazole tablets-treated patients aged 6 to 18 years (0.4%, 1%).
+Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) [see DRUG INTERACTIONS (7.1)].
 
-## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
+## 5.9 Falls
+
+Antipsychotics, including aripiprazole tablets, may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## 5.10 Leukopenia, Neutropenia, and Agranulocytosis
 
 In clinical trials and/or postmarketing experience, events of leukopenia and neutropenia have been reported temporally related to antipsychotic agents, including aripiprazole tablets.
 Agranulocytosis has also been reported.
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC)/ absolute neutrophil count (ANC) and history of drug-induced leukopenia/neutropenia.
 In patients with a history of a clinically significant low WBC/ANC or drug-induced leukopenia/neutropenia, perform a complete blood count (CBC) frequently during the first few months of therapy.
 In such patients, consider discontinuation of aripiprazole tablets at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
-Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
 Discontinue aripiprazole tablets in patients with severe neutropenia (absolute neutrophil count <1000/mm3) and follow their WBC counts until recovery.
 
-## 5.10 Seizures/Convulsions
+## 5.11 Seizures/Convulsions
 
 In short-term, placebo-controlled trials, patients with a history of seizures excluded seizures/convulsions occurred in 0.1% (3/2467) of undiagnosed adult patients treated with oral aripiprazole tablets, in 0.1% (1/732) of pediatric patients (6 to 18 years).
 As with other antipsychotic drugs, aripiprazole tablets should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
-## 5.11 Potential for Cognitive and Motor Impairment
+## 5.12 Potential for Cognitive and Motor Impairment
 
 Aripiprazole tablets, like other antipsychotics, may have the potential to impair judgment, thinking, or motor skills.
 For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (aripiprazole incidence, placebo incidence): in adult patients (n=2467) treated with oral aripiprazole tablets (11%, 6%), in pediatric patients ages 6 to 17 (n=611) (24%, 6%).
 Somnolence (including sedation) led to discontinuation in 0.3% (8/2467) of adult patients and 3% (20/732) of pediatric patients (6 to 18 years) on oral aripiprazole tablets in short-term, placebo-controlled trials.
 Despite the relatively modest increased incidence of these events compared to placebo, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that therapy with aripiprazole tablets does not affect them adversely.
 
-## 5.12 Body Temperature Regulation
+## 5.13 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing aripiprazole tablets for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see ADVERSE REACTIONS (6.2)].
 
-## 5.13 Suicide
+## 5.14 Suicide
 
 The possibility of a suicide attempt is inherent in psychotic illnesses and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for aripiprazole tablets should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see ADVERSE REACTIONS (6.1, 6.2)].
 
-## 5.14 Dysphagia
+## 5.15Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use, including aripiprazole tablets.
 Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer's dementia.
