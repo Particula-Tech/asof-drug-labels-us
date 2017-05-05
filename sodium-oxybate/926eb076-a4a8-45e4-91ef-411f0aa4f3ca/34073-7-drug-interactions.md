@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Alcohol, Sedative Hypnotics, and CNS Depressants
+## 7.1 Alcohol, Sedative Hypnotics, and CNS depressants
 
 Xyrem should not be used in combination with alcohol or sedative hypnotics.
 Use of other CNS depressants may potentiate the CNS-depressant effects of Xyrem.
