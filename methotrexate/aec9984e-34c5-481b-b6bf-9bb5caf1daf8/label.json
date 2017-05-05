@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208400"
+  ],
+  "inn": "methotrexate",
+  "labeler": "Silvergate Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "52652-2001-1"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "methotrexate",
+      "name": "Xatmep"
+    }
+  ],
+  "setid": "aec9984e-34c5-481b-b6bf-9bb5caf1daf8",
+  "source": "dailymed"
+}
