@@ -2,18 +2,15 @@
 
 ## 12.1 Mechanism of Action
 
-Morphine sulfate, an opioid agonist, is relatively selective for the mu receptor, although it can interact with other opioid receptors at higher doses.
-In addition to analgesia, the widely diverse effects of morphine sulfate include analgesia, dysphoria, euphoria, somnolence, respiratory depression, diminished gastrointestinal motility, altered circulatory dynamics, histamine release, physical dependence, and alterations of the endocrine and autonomic nervous systems.
+Morphine is a full opioid agonist and is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses.
+The principal therapeutic action of morphine is analgesia.
+Like all full opioid agonists, there is no ceiling effect for analgesia with morphine.
+Clinically, dosage is titrated to provide adequate analgesia and may be limited by adverse reactions, including respiratory and CNS depression.
 
-Morphine produces both its therapeutic and its adverse effects by interaction with one or more classes of specific opioid receptors located throughout the body.
-Morphine acts as a full agonist, binding with and activating opioid receptors at sites in the peri-aqueductal and peri-ventricular grey matter, the ventro-medial medulla and the spinal cord to produce analgesia.
+The precise mechanism of the analgesic action is unknown.
+However, specific CNS opioid receptors for endogenous compounds with opioid-like activity have been identified throughout the brain and spinal cord and are thought to play a role in the analgesic effects of this drug.
 
 ## 12.2 Pharmacodynamics
-
-Plasma Level-Analgesia Relationships
-
-While plasma morphine-efficacy relationships can be demonstrated in non-tolerant individuals, they are influenced by a wide variety of factors and are not generally useful as a guide to the clinical use of morphine.
-Dosages of morphine should be chosen and must be titrated on the basis of clinical evaluation of the patient and the balance between therapeutic and adverse effects.
 
 CNS Depressant/Alcohol Interaction
 
@@ -21,35 +18,32 @@ Additive pharmacodynamic effects may be expected when morphine sulfate extended-
 
 Effects on the Central Nervous System
 
-The principal actions of therapeutic value of morphine are analgesia and sedation.
-Specific CNS opiate receptors for endogenous compounds with opioid-like activity have been identified throughout the brain and spinal cord and are likely to play a role in the expression of analgesic effects.
-
 Morphine produces respiratory depression by direct action on brainstem respiratory centers.
-The mechanism of respiratory depression involves a reduction in the responsiveness of the brainstem respiratory centers to increases in carbon dioxide tension, and to electrical stimulation.
+The respiratory depression involves a reduction in the responsiveness of the brainstem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.
 
-Morphine depresses the cough reflex by direct effect on the cough center in the medulla.
 Morphine causes miosis, even in total darkness.
 Pinpoint pupils are a sign of narcotic overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
-Marked mydriasis rather than miosis may be seen with worsening hypoxia.
+Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
 
 Effects on the Gastrointestinal Tract and Other Smooth Muscle
 
 Morphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and in the duodenum.
-Digestion of food is delayed in the small intestine and propulsive contractions are decreased.
-Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm.
-The end result is constipation.
-Morphine can cause a marked reduction in gastric, biliary and pancreatic secretions, spasm of the sphincter of Oddi, and transient elevations in serum amylase.
+Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
+Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
+Other opioid-induced effects may include reduction in biliary and pancreatic secretions, spasm of the sphincter of Oddi, and transient elevations in serum amylase.
 
 Effects on the Cardiovascular System
 
-Morphine produces peripheral vasodilation which may result in orthostatic hypotension.
-Release of histamine can occur and may contribute to opioid-induced hypotension.
-Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, and sweating.
+Morphine produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
+Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 
 Effects on the Endocrine System
 
-Opioids inhibit the secretion of ACTH, cortisol, testosterone, and luteinizing hormone (LH) in humans.
+Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
+
+Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
 
@@ -57,14 +51,24 @@ Opioids have been shown to have a variety of effects on components of the immune
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
+Concentration-Efficacy Relationships
+
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.2)].
+
+Concentration-Adverse Reaction Relationships
+
+There is a relationship between increasing morphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+
 ## 12.3 Pharmacokinetics
+
+Absorption
 
 Morphine sulfate extended-release tablets are extended-release tablets containing morphine sulfate.
 Morphine is released from morphine sulfate extended-release tablets somewhat more slowly than from immediate-release oral preparations.
 Following oral administration of a given dose of morphine, the amount ultimately absorbed is essentially the same whether the source is morphine sulfate extended-release tablets or an immediate-release formulation.
 Because of pre-systemic elimination (i.e., metabolism in the gut wall and liver) only about 40% of the administered dose reaches the central compartment.
-
-Absorption
 
 The oral bioavailability of morphine is approximately 20 to 40%.
 When morphine sulfate extended-release tablets are given on a fixed dosing regimen, steady-state is achieved in about a day.
@@ -79,6 +83,8 @@ Distribution
 Once absorbed, morphine is distributed to skeletal muscle, kidneys, liver, intestinal tract, lungs, spleen, and brain.
 Morphine also crosses placental membranes and has been found in breast milk.
 The volume of distribution (Vd) for morphine is approximately 3 to 4 liters per kilogram and morphine is 30 to 35% reversibly bound to plasma proteins.
+
+Elimination
 
 Metabolism
 
@@ -95,27 +101,19 @@ A small amount of the glucuronide conjugate is excreted in the bile, and there i
 
 Specific Populations
 
-Geriatric Patients
+Sex
 
-The pharmacokinetics of morphine sulfate extended-release tablets have not been studied in elderly patients.
+A sex analysis of pharmacokinetic data from healthy subjects taking morphine sulfate extended-release tablets indicated that morphine concentrations were similar in males and females.
 
-Pediatric Patients
-
-The pharmacokinetics of morphine sulfate extended-release tablets have not been studied in pediatric patients below the age of 18.
-
-Gender
-
-A gender analysis of pharmacokinetic data from healthy subjects taking morphine sulfate extended-release tablets indicated that morphine concentrations were similar in males and females.
-
-Race
+Race/Ethnicity
 
 Chinese subjects given intravenous morphine had a higher clearance when compared to Caucasian subjects (1852 +/- 116 ml/min compared to 1495 +/- 80 ml/min).
 
 Hepatic Impairment
 
-Morphine pharmacokinetics are altered in individuals with cirrhosis.
+Morphine pharmacokinetics are altered in patients with cirrhosis.
 Clearance was found to decrease with a corresponding increase in half-life.
-The M3G and M6G to morphine plasma AUC ratios also decreased in these subjects, indicating diminished metabolic activity.
+The M3G and M6G to morphine plasma AUC ratios also decreased in these patients, indicating diminished metabolic activity.
 Adequate studies of the pharmacokinetics of morphine in patients with severe hepatic impairment have not been conducted.
 
 Renal Impairment

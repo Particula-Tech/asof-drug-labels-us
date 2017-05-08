@@ -15,6 +15,7 @@ Important information about morphine sulfate extended-release tablets:
 
 - Get emergency help right away if you take too many morphine sulfate extended-release tablets (overdose).
   When you first start taking morphine sulfate extended-release tablets, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur.
+- Taking morphine sulfate extended-release tablets with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
 - Never give anyone else your morphine sulfate extended-release tablets.
   They could die from taking it.
   Store morphine sulfate extended-release tablets away from children and in a safe place to prevent stealing or abuse.
@@ -38,7 +39,8 @@ Tell your healthcare provider if you are:
 - pregnant or planning to become pregnant.
   Prolonged use of morphine sulfate extended-release tablets during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
 - breastfeeding.
-  Morphine passes into breast milk and may harm your baby.
+  Not recommended during treatment with morphine sulfate extended-release tablets.
+  It may harm your baby.
 - taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
   Taking morphine sulfate extended-release tablets with certain other medicines can cause serious side effects.
 
@@ -46,6 +48,7 @@ When taking morphine sulfate extended-release tablets:
 
 - Do not change your dose.
   Take morphine sulfate extended-release tablets exactly as prescribed by your healthcare provider.
+  Use the lowest dose possible for the shortest duration.
 - Take your prescribed dose every 8 to 12 hours, as directed by your healthcare provider.
   Do not take more than your prescribed dose.
   If you miss a dose, take your next dose at the usual time.
@@ -69,19 +72,17 @@ The possible side effects of morphine sulfate extended-release tablets are:
 
 Get emergency medical help if you have:
 
-- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, light-headedness when changing positions, or you are feeling faint.
+- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion.
 
 These are not all the possible side effects of morphine sulfate extended-release tablets.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov
 
+Manufactured by: Mallinckrodt Inc., Hazelwood, MO 63042 USA, www.Mallinckrodt.com or call 1-800-778-7898
+
+Mallinckrodt™
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and M are trademarks of a Mallinckrodt company. © 2014 Mallinckrodt.
-
-Mallinckrodt Inc. Hazelwood, MO 63042 USA
-
-Issued 10/2014
-
-Mallinckrodt™ Pharmaceuticals
+Revised: February 2017

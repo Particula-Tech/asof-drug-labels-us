@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Morphine sulfate extended-release tablets are for oral use and contain morphine sulfate, an agonist at the mu-opioid receptor.
+Morphine sulfate extended-release tablets are for oral use and contain morphine sulfate, an opioid agonist.
 
 Each tablet contains the following inactive ingredients common to all strengths: hydroxypropyl methylcellulose, lactose monohydrate, magnesium stearate, silicone dioxide, titanium dioxide, and triacetine.
 
