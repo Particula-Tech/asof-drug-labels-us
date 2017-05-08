@@ -63,8 +63,12 @@ Tell your doctor if you:
 
 •have an illness that causes severe vomiting, diarrhea or fever, or if you drink a much lower amount of liquid than normal.
 These conditions can lead to severe dehydration (loss of water in your body).
-You may need to stop taking GLUCOPHAGE or GLUCOPHAGE XR for a short time.•plan to have surgery or an x-ray procedure with injection of dye (contrast agent).
-You may need to stop taking GLUCOPHAGE or GLUCOPHAGE XR for a short time.•start to take other medicines or change how you take a medicine.
+You may need to stop taking GLUCOPHAGE or GLUCOPHAGE XR for a short time.
+
+•plan to have surgery or an x-ray procedure with injection of dye (contrast agent).
+You may need to stop taking GLUCOPHAGE or GLUCOPHAGE XR for a short time.
+
+•start to take other medicines or change how you take a medicine.
 GLUCOPHAGE and GLUCOPHAGE XR can affect how well other drugs work, and some drugs can affect how well GLUCOPHAGE and GLUCOPHAGE XR work.
 Some medicines may cause high blood sugar.
 
@@ -85,14 +89,38 @@ Lactic acidosis is a medical emergency and must be treated in the hospital.
 
 Call your doctor right away if you have any of the following symptoms, which could be signs of lactic acidosis:
 
-•you feel cold in your hands or feet•you feel dizzy or lightheaded•you have a slow or irregular heartbeat•you feel very weak or tired•you have unusual (not normal) muscle pain•you have trouble breathing•you feel sleepy or drowsy•you have stomach pains, nausea or vomiting
+•you feel cold in your hands or feet
+
+•you feel dizzy or lightheaded
+
+•you have a slow or irregular heartbeat
+
+•you feel very weak or tired
+
+•you have unusual (not normal) muscle pain
+
+•you have trouble breathing
+
+•you feel sleepy or drowsy
+
+•you have stomach pains, nausea or vomiting
 
 Most people who have had lactic acidosis with metformin have other things that, combined with the metformin, led to the lactic acidosis.
 Tell your doctor if you have any of the following, because you have a higher chance for getting lactic acidosis with GLUCOPHAGE or GLUCOPHAGE XR if you:
 
-•have severe kidney problems, or your kidneys are affected by certain x-ray tests that use injectable dye•have liver problems•drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking•get dehydrated (lose a large amount of body fluids).
+•have severe kidney problems, or your kidneys are affected by certain x-ray tests that use injectable dye
+
+•have liver problems
+
+•drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking
+
+•get dehydrated (lose a large amount of body fluids).
 This can happen if you are sick with a fever, vomiting, or diarrhea.
-Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids•have surgery•have a heart attack, severe infection, or stroke
+Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids
+
+•have surgery
+
+•have a heart attack, severe infection, or stroke
 
 The best way to keep from having a problem with lactic acidosis from metformin is to tell your doctor if you have any of the problems in the list above.
 Your doctor may decide to stop your GLUCOPHAGE or GLUCOPHAGE XR for a while if you have any of these things.
@@ -121,4 +149,4 @@ Do not share your medicine with other people.
 GLUCOPHAGE® is a registered trademark of Merck Santé S.A.S., an associate of Merck KGaA of Darmstadt, Germany.
 Licensed to Bristol-Myers Squibb Company.
 Other brands listed are the trademarks of their respective owners.
-Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA [print code] Rev 2/2017
+Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA [print code] Rev 4/2017

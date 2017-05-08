@@ -1,7 +1,5 @@
 # WARNINGS
 
-# PRECAUTIONS
-
 ## PRECAUTIONS
 
 ### General
@@ -21,10 +19,9 @@ For each of the known and possible risk factors for metformin-associated lactic 
 Renal impairment—The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
 
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
-Clinical recommendations based upon the patient’s renal function include: (see DOSAGE AND ADMINISTRATION, CLINICAL PHARMACOLOGY)
+Clinical recommendations based upon the patient’s renal function include (see DOSAGE AND ADMINISTRATION, CLINICAL PHARMACOLOGY):
 
-• Before initiating GLUCOPHAGE or GLUCOPHAGE XR, obtain an estimated glomerular filtration rate (eGFR) • GLUCOPHAGE or GLUCOPHAGE XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 (see CONTRAINDICATIONS). • Initiation of GLUCOPHAGE or GLUCOPHAGE XR is not recommended in patients with eGFR between 30-45 mL/min/1.73 m2. • Obtain an eGFR at least annually in all patients taking GLUCOPHAGE or GLUCOPHAGE XR.
-In patients at risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently. • In patients taking GLUCOPHAGE or GLUCOPHAGE XR whose eGFR falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy.
+• Before initiating GLUCOPHAGE or GLUCOPHAGE XR, obtain an estimated glomerular filtration rate (eGFR) • GLUCOPHAGE or GLUCOPHAGE XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 (see CONTRAINDICATIONS). • Initiation of GLUCOPHAGE or GLUCOPHAGE XR is not recommended in patients with eGFR between 30-45 mL/min/1.73 m2. • Obtain an eGFR at least annually in all patients taking GLUCOPHAGE or GLUCOPHAGE XR.In patients at risk for the development of renal impairment (e.g., the elderly); renal function should be assessed more frequently. • In patients taking GLUCOPHAGE or GLUCOPHAGE XR whose eGFR falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy.
 
 - Drug interactions—The concomitant use of GLUCOPHAGE or GLUCOPHAGE XR with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance, or increase metformin accumulation.
   Consider more frequent monitoring of patients.
@@ -155,9 +152,7 @@ Determination of fetal concentrations demonstrated a partial placental barrier t
 
 Studies in lactating rats show that metformin is excreted into milk and reaches levels comparable to those in plasma.
 Similar studies have not been conducted in nursing mothers.
-Because the potential for hypoglycemia in nursing infants may exist, a decision should be made
-
-whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because the potential for hypoglycemia in nursing infants may exist, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 If GLUCOPHAGE or GLUCOPHAGE XR is discontinued, and if diet alone is inadequate for controlling blood glucose, insulin therapy should be considered.
 
 ## Pediatric Use

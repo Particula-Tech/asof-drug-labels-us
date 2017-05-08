@@ -60,12 +60,10 @@ In patients with decreased renal function, the plasma and blood half-life of met
 
 No pharmacokinetic studies of metformin have been conducted in patients with hepatic insufficiency (see PRECAUTIONS).
 
-### Table 1
-
 Geriatrics
 
 Limited data from controlled pharmacokinetic studies of GLUCOPHAGE in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
-From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see Table 1; also see WARNINGS,PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see Table 1; also see WARNINGS, PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 Table 1: Select Mean (±S.D.)
 Metformin Pharmacokinetic Parameters Following Single or Multiple Oral Doses of GLUCOPHAGE
