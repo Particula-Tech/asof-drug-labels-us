@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208218"
+  ],
+  "inn": "vigabatrin",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "49884-358-03",
+    "49884-358-52"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SOLUTION",
+      "generic": "vigabatrin",
+      "name": "VIGABATRIN"
+    }
+  ],
+  "setid": "e7cbc0a5-8c28-4451-9176-b608e228ba66",
+  "source": "dailymed"
+}
