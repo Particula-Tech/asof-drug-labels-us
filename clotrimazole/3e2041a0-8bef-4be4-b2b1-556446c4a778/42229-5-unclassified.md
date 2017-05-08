@@ -6,8 +6,8 @@ This product is also available without a prescription.
 
 Rx Only
 
-Mfd. by: TARO Pharmaceuticals Inc. Brampton, Ontario, CANADA L6T 1C1
+Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, CANADA L6T 1C1 Dist by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532
 
-Revised: December, 2008
+Revised: December, 2012
 
-PK-1632-3 1208-3 105
+PK-6729-1 59
