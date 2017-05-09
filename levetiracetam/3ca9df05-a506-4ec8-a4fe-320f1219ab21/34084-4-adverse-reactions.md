@@ -209,5 +209,6 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The following adverse reactions have been reported in patients receiving marketed KEPPRA worldwide.
-The listing is alphabetized: abnormal liver function test, acute kidney injury, anaphylaxis, angioedema, choreoathetosis, drug reaction with eosinophilia and systemic symptoms (DRESS), dyskinesia, erythema multiforme, hepatic failure, hepatitis, hyponatremia, muscular weakness, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, and weight loss.
+The listing is alphabetized: abnormal liver function test, acute kidney injury, anaphylaxis, angioedema, agranulocytosis, choreoathetosis, drug reaction with eosinophilia and systemic symptoms (DRESS), dyskinesia, erythema multiforme, hepatic failure, hepatitis, hyponatremia, leukopenia, muscular weakness, neutropenia, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, and weight loss.
 Alopecia has been reported with KEPPRA use; recovery was observed in majority of cases where KEPPRA was discontinued.
+Rhabdomyolysis and increase in blood creatinine phosphokinase have been reported with KEPPRA use; prevalence was significantly higher in Japanese patients than non-Japanese patients.
