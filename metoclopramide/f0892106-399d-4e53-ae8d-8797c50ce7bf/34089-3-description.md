@@ -10,6 +10,6 @@ Its molecular formula is C14H22ClN3O2•HCl•H2O.
 Its molecular weight is 354.3.
 The structural formula is shown in Figure 1.
 
-Figure 1
+FIGURE 1
 
 METOZOLV ODT includes the following inactive ingredients: gelatin, mannitol, mint flavoring, Acesulfame potassium (artificial sweetener), and trace amounts of sodium chloride and sodium hydroxide.

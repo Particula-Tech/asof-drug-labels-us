@@ -50,9 +50,10 @@ A single dose study of 12 subjects showed that the area under the drug concentra
 Peak concentrations increase linearly with dose; time to peak concentrations remains the same; whole body clearance is unchanged; and the elimination rate remains the same.
 The average elimination half-life in individuals with normal renal function is 5 to 6 hr. Linear kinetic processes adequately describe the absorption and elimination of metoclopramide.
 
-| Table 2: Adult Pharmacokinetic Data |  |
-| --- | --- |
+Table 2: Adult Pharmacokinetic Data
+
 | Parameter | Value |
+| --- | --- |
 | Vd (L/kg) | ~ 3.5 |
 | Plasma Protein Binding | ~ 30% |
 | T ½ | 5 to 6 hours |

@@ -13,15 +13,14 @@ Thirty-three (33) adverse reactions were reported after receiving METOZOLV ODT a
 
 Table 1: Adverse Reactions in BE and Food-Effect Study in ≥ 2% of Subjects
 
-| Adverse Reaction | METOZOLV ODT N1,3 (%)2 | Metoclopramide tabletsN1,4 (%)2 |  |
-| --- | --- | --- | --- |
-| Nausea | 4 (4.2 %) | 4 (5.6 %) |  |
-| Vomiting | 2 (2.1 %) | 1 (1.4 %) |  |
-| Fatigue | 2 (2.1 %) | 2 (2.8 %) |  |
-| Headache | 5 (5.2 %) | 3 (4.2 %) |  |
-| Somnolence | 2 (2.1 %) | 2 (2.8 %) |  |
-| Dizziness | 1 (1.0 %) | 3 (4.2 %) |  |
-| 1 N = number of subjects that reported adverse reactions 2 Percent (%) occurrence = N divided by number of subjects dosed with respective study drug 3 Number of subjects dosed with METOZOLV ODT: 68 under fasted conditions and 28 under fed conditions. 4 Number of subjects dosed with metoclopramide tablets: 28 under fed conditions and 44 under fasted conditions. |  |  |  |
+| Adverse Reaction | METOZOLV ODT NN = number of subjects that reported adverse reactionsNumber of subjects dosed with METOZOLV ODT: 68 under fasted conditions and 28 under fed conditions. (%)Percent (%) occurrence = N divided by number of subjects dosed with respective study drug | Metoclopramide tabletsNNumber of subjects dosed with metoclopramide tablets: 28 under fed conditions and 44 under fasted conditions. (%) |
+| --- | --- | --- |
+| Nausea | 4 (4.2 %) | 4 (5.6 %) |
+| Vomiting | 2 (2.1 %) | 1 (1.4 %) |
+| Fatigue | 2 (2.1 %) | 2 (2.8 %) |
+| Headache | 5 (5.2 %) | 3 (4.2 %) |
+| Somnolence | 2 (2.1 %) | 2 (2.8 %) |
+| Dizziness | 1 (1.0 %) | 3 (4.2 %) |
 
 The most frequently reported adverse reactions (greater than 2%) associated with METOZOLV ODT were: nausea, vomiting, fatigue, somnolence and headache.
 The most frequently reported adverse reactions (greater than 2%) associated with metoclopramide tablets were: nausea, headache, fatigue, somnolence, and dizziness.
