@@ -16,8 +16,6 @@ Twice-A-Day
 
 100 mg
 
-60 Tablets
-
 Each sustained-release tablet contains 100 mg bupropion HCl.
 
 WARNING: Do not use with other medicines that contain bupropion HCl.
@@ -26,8 +24,10 @@ Federal Law requires dispensing of Wellbutrin® SR with the Medication Guide und
 
 See prescribing information for dosage information.
 
-Store at room temperature between 59oF and 86oF (15oCto 30oC).
+Store at controlled room temperature, 20o to 25oC (68o to 77oF) [see USP].
 Keep dry and out of light.
+
+60 Tablets
 
 GlaxoSmithKline
 
@@ -35,8 +35,8 @@ RTP, NC 27709
 
 Made in Germany
 
-1. 10000000129439 Rev.
-   11/14
+1. 10000000142525 Rev.
+   8/16
 
 PRINCIPAL DISPLAY PANEL
 
@@ -56,8 +56,6 @@ Twice-A-Day
 
 150 mg
 
-60 Tablets
-
 Each sustained-release tablet contains 150 mg bupropion HCl.
 
 WARNING: Do not use with other medicines that contain bupropion HCl.
@@ -66,8 +64,10 @@ Federal Law requires dispensing of Wellbutrin® SR with the Medication Guide und
 
 See prescribing information for dosage information.
 
-Store at room temperature between 59oF and 86oF (15oCto 30oC).
+Store at controlled room temperature, 20o to 25oC (68o to 77oF) [see USP].
 Keep dry and out of light.
+
+60 Tablets
 
 GlaxoSmithKline
 
@@ -75,8 +75,8 @@ RTP, NC 27709
 
 Made in Germany
 
-1. 10000000129437 Rev.
-   11/14
+1. 10000000142523 Rev.
+   8/16
 
 PRINCIPAL DISPLAY PANEL
 
@@ -96,8 +96,6 @@ Twice-A-Day
 
 200 mg
 
-60 Tablets
-
 Each sustained-release tablet contains 200 mg bupropion HCl.
 
 WARNING: Do not use with other medicines that contain bupropion HCl.
@@ -106,8 +104,10 @@ Federal Law requires dispensing of Wellbutrin® SR with the Medication Guide und
 
 See prescribing information for dosage information.
 
-Store at room temperature between 59oF and 86oF (15oCto 30oC).
+Store at controlled room temperature, 20o to 25oC (68o to 77oF) [see USP].
 Keep dry and out of light.
+
+60 Tablets
 
 GlaxoSmithKline
 
@@ -115,5 +115,5 @@ RTP, NC 27709
 
 Made in Germany
 
-1. 10000000129438 Rev.
-   11/14
+1. 10000000142524 Rev.
+   8/16
