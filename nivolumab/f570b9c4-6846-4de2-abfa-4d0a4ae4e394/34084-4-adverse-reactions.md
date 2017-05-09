@@ -359,105 +359,107 @@ In addition, among patients with TSH less than ULN at baseline, a greater propor
 
 ### Classical Hodgkin Lymphoma
 
-The safety of OPDIVO 3 mg/kg every 2 weeks was evaluated in 263 adult patients with cHL (240 patients in Trial 7 and 23 patients in Trial 8).
+The safety of OPDIVO 3 mg/kg every 2 weeks was evaluated in 266 adult patients with cHL (243 patients in Trial 7 and 23 patients in Trial 8).
 Treatment could continue until disease progression, maximal clinical benefit, or unacceptable toxicity.
 
-The median age was 34 years (range 18 to 72), 98% of patients had received autologous HSCT, none had received allogeneic HSCT, and 74% had received brentuximab vedotin.
-The median number of prior systemic regimens was 4 (range: 1 to 15).
-Patients received a median of 10 doses (cycles) of OPDIVO (range: 1 to 48), with a median duration of therapy of 4.8 months (range: 0.3 to 24 months).
+The median age was 34 years (range: 18 to 72), 98% of patients had received autologous HSCT, none had received allogeneic HSCT, and 74% had received brentuximab vedotin.
+The median number of prior systemic regimens was 4 (range: 2 to 15).
+Patients received a median of 23 doses (cycles) of OPDIVO (range: 1 to 48), with a median duration of therapy of 11 months (range: 0 to 23 months).
 
-OPDIVO was discontinued due to adverse reactions in 4.2% of patients.
-Twenty-three percent (23%) of patients had a dose delay for an adverse reaction.
-Serious adverse reactions occurred in 21% of patients.
-The most frequent serious adverse reactions reported in at least 1% of patients were infusion-related reaction, pneumonia, pleural effusion, pyrexia, rash, and pneumonitis.
-Ten patients died from causes other than disease progression, including 6 who died from complications of allogeneic HSCT.
+OPDIVO was discontinued due to adverse reactions in 7% of patients.
+Dose delay for an adverse reaction occurred in 34% of patients.
+Serious adverse reactions occurred in 26% of patients.
+The most frequent serious adverse reactions reported in at least 1% of patients were pneumonia, infusion-related reaction, pyrexia, colitis or diarrhea, pleural effusion, pneumonitis, and rash.
+Eleven patients died from causes other than disease progression: 3 from adverse reactions within 30 days of the last nivolumab dose, 2 from infection 8 to 9 months after completing nivolumab, and 6 from complications of allogeneic HSCT.
 
-The most common adverse reactions (reported in at least 20%) among all patients (safety population), were fatigue, upper respiratory tract infection, pyrexia, diarrhea, and cough.
+The most common adverse reactions (reported in at least 20%) among all patients were upper respiratory tract infection, fatigue, cough, diarrhea, pyrexia, musculoskeletal pain, rash, nausea, and pruritus.
 
-Among the subset of patients in the efficacy population, the most common adverse reactions also included rash, musculoskeletal pain, pruritus, nausea, arthralgia, and peripheral neuropathy.
-Serious adverse reactions occurred in 27% of these patients.
+Table 12 summarizes the adverse reactions, excluding laboratory terms, that occurred in at least 10% of patients in the safety population.
 
-Table 12 summarizes both the adverse reactions that occurred in at least 10% of patients in the safety population (n=263) and the efficacy population (n=95).
-There is a greater incidence of adverse reactions in the subset of patients evaluated for efficacy; these patients received a median of 17 doses of OPDIVO and a median of 5 prior systemic regimens [see Clinical Studies (14.4)].
+Table 12: Non-Laboratory Adverse Reactions Occurring in ≥10% of Patients with cHL (Trials 7 and 8)
 
-Table 12: Non-Hematologic Adverse Reactions Occurring in ≥10% of Patients with cHL (Trials 7 and 8)
-
-|  | OPDIVO cHL Safety Population (n=263) |  | OPDIVO cHL Efficacy Population (n=95) |  |
-| --- | --- | --- | --- | --- |
-| Percentage (%) of Patients |  |  |  |  |
-| Adverse Reactiona | All Grades | Grades 3-4 | All Grades | Grades 3-4 |
-| General Disorders and Administration Site Conditions |  |  |  |  |
-| Fatigueb | 32 | 1.1 | 43 | 1.1 |
-| Pyrexia | 24 | 0.8 | 35 | 1.1 |
-| Gastrointestinal Disorders |  |  |  |  |
-| Diarrhea | 23 | 0.8 | 30 | 1.1 |
-| Nausea | 17 | 0 | 23 | 0 |
-| Vomiting | 15 | 0.8 | 16 | 1.1 |
-| Abdominal painc | 11 | 0.8 | 13 | 2.1 |
-| Constipation | 9 | 0.4 | 14 | 0 |
-| Infections |  |  |  |  |
-| Upper respiratory tract infectiond | 28 | 0.4 | 48 | 1.1 |
-| Pneumonia/bronchopneumoniae | 9 | 3.0 | 19 | 5.3 |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
-| Cough/productive cough | 22 | 0 | 35 | 0 |
-| Dyspnea/exertional dyspnea | 10 | 0.8 | 16 | 2.1 |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
-| Rashf | 19 | 1.5 | 31 | 3.2 |
-| Pruritus | 17 | 0 | 25 | 0 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
-| Musculoskeletal paing | 19 | 1.1 | 27 | 1.1 |
-| Arthralgia | 11 | 0 | 21 | 0 |
-| Endocrine Disorders |  |  |  |  |
-| Hypothyroidism/thyroiditis | 12 | 0 | 17 | 0 |
-| Hyperglycemia/Blood Glucose Increased | 9 | 0.4 | 14 | 1.1 |
-| Nervous System Disorders |  |  |  |  |
-| Headache | 12 | 0.4 | 12 | 1.1 |
-| Neuropathy peripheralh | 11 | 0.4 | 21 | 0 |
-| Injury, Poisoning and Procedural Complications |  |  |  |  |
-| Infusion-related reaction | 12 | 0.4 | 18 | 0 |
-| Toxicity was graded per NCI CTCAE v4. |  |  |  |  |
-| a Includes events occurring up to 30 days after last nivolumab dose, regardless of causality. After an immune-mediated adverse reaction, reactions following nivolumab rechallenge were included if they occurred up to 30 days after completing the initial nivolumab course. b Includes asthenia. c Includes abdominal discomfort and upper abdominal pain. d Includes nasopharyngitis, pharyngitis, rhinitis, and sinusitis. e Includes pneumonia bacterial, pneumonia mycoplasmal, pneumocystis jirovecii pneumonia. f Includes dermatitis, dermatitis acneiform, dermatitis exfoliative, and rash described as macular, papular, maculopapular, pruritic, exfoliative, or acneiform. g Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, and pain in extremity. h Includes hyperesthesia, hypoesthesia, paresthesia, dysesthesia, peripheral motor neuropathy, peripheral sensory neuropathy, and polyneuropathy. |  |  |  |  |
+| Adverse Reactiona | OPDIVO cHL Safety Population (n=266) |  |
+| --- | --- | --- |
+| Percentage (%) |  |  |
+| All Grades | Grades 3-4 |  |
+| General Disorders and Administration Site Conditions |  |  |
+| Fatigueb | 39 | 1.9 |
+| Pyrexia | 29 | <1 |
+| Gastrointestinal Disorders |  |  |
+| Diarrheac | 33 | 1.5 |
+| Nausea | 20 | 0 |
+| Vomiting | 19 | <1 |
+| Abdominal paind | 16 | <1 |
+| Constipation | 14 | 0.4 |
+| Infections |  |  |
+| Upper respiratory tract infectione | 44 | 0.8 |
+| Pneumonia/bronchopneumoniaf | 13 | 3.8 |
+| Nasal congestion | 11 | 0 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Cough/productive cough | 36 | 0 |
+| Dyspnea/exertional dyspnea | 15 | 1.5 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Rashg | 24 | 1.5 |
+| Pruritus | 20 | 0 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Musculoskeletal painh | 26 | 1.1 |
+| Arthralgia | 16 | <1 |
+| Endocrine Disorders |  |  |
+| Hypothyroidism/thyroiditis | 12 | 0 |
+| Nervous System Disorders |  |  |
+| Headache | 17 | <1 |
+| Neuropathy peripherali | 12 | <1 |
+| Injury, Poisoning and Procedural Complications |  |  |
+| Infusion-related reaction | 14 | <1 |
+| Toxicity was graded per NCI CTCAE v4. |  |  |
+| a Includes events occurring up to 30 days after last nivolumab dose, regardless of causality. After an immune-mediated adverse reaction, reactions following nivolumab rechallenge were included if they occurred up to 30 days after completing the initial nivolumab course. b Includes asthenia. c Includes colitis. d Includes abdominal discomfort and upper abdominal pain. e Includes nasopharyngitis, pharyngitis, rhinitis, and sinusitis. f Includes pneumonia bacterial, pneumonia mycoplasmal, pneumocystis jirovecii pneumonia. g Includes dermatitis, dermatitis acneiform, dermatitis exfoliative, and rash described as macular, papular, maculopapular, pruritic, exfoliative, or acneiform. h Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, and pain in extremity. i Includes hyperesthesia, hypoesthesia, paresthesia, dysesthesia, peripheral motor neuropathy, peripheral sensory neuropathy, and polyneuropathy. These numbers are specific to treatment-emergent events. |  |  |
 
 Additional information regarding clinically important adverse reactions:
 
-Immune-mediated pneumonitis: In Trials 7 and 8, pneumonitis, including interstitial lung disease, occurred in 4.9% (13/263) of patients receiving OPDIVO.
-Immune-mediated pneumonitis occurred in 3.4% (9/263) of patients receiving OPDIVO (one Grade 3 and eight Grade 2).
-The median time to onset was 2.2 months (range: 1 day to 10.1 months).
-All nine patients received systemic corticosteroids, with resolution in seven.
-One patient permanently discontinued OPDIVO due to Grade 2 pneumonitis.
-Dose delay occurred in three patients.
-Five patients resumed OPDIVO, of whom none had recurrence of pneumonitis.
+Immune-mediated pneumonitis: In Trials 7 and 8, pneumonitis, including interstitial lung disease, occurred in 6.0% (16/266) of patients receiving OPDIVO.
+Immune-mediated pneumonitis occurred in 4.9% (13/266) of patients receiving OPDIVO (one Grade 3 and 12 Grade 2).
+The median time to onset was 4.5 months (range: 5 days to 12 months).
+All 13 patients received systemic corticosteroids, with resolution in 12.
+Four patients permanently discontinued OPDIVO due to pneumonitis.
+Eight patients continued OPDIVO (three after dose delay), of whom two had recurrence of pneumonitis.
 
-Peripheral neuropathy: In Trials 7 and 8, peripheral neuropathy was observed in 11% (30/263) of all patients receiving OPDIVO.
-Twenty-two patients (8%) had new-onset peripheral neuropathy, and four patients had worsening from baseline.
-Four additional patients with peripheral neuropathy at baseline (three Grade 1 and one Grade 2) did not worsen.
-All events were Grade 1 or 2, except for 1 Grade 3 event (0.4%).
+Peripheral neuropathy: In Trials 7 and 8, treatment-emergent peripheral neuropathy was reported in 14% (31/266) of all patients receiving OPDIVO.
+Twenty-eight patients (11%) had new-onset peripheral neuropathy, and 3 of 40 patients had worsening of neuropathy from baseline.
+These adverse reactions were Grade 1 or 2, except for 1 Grade 3 event (<1%).
+The median time to onset was 50 (range: 1 to 309) days.
 
 Complications of allogeneic HSCT after OPDIVO: [see Warnings and Precautions (5.10)].
 
-Table 13: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated cHL Patients (Trials 7 and 8)
+Table 13 summarizes laboratory abnormalities that developed or worsened in at least 10% of patients with cHL.
+The most common (reported in at least 20%) treatment-emergent laboratory events included cytopenias, liver function abnormalities, and elevated lipase.
+Other common findings (reported in at least 10%) included elevated creatinine, electrolyte abnormalities, and elevated amylase.
 
-|  | OPDIVO cHL Safety Populationa |  | OPDIVO cHL Efficacy Populationb |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Abnormality | Percentage (%) of Patientsc |  |  |  |  |  |  |  |  |
-| All Grades | Grades 3-4 | All Grades | Grades 3-4 |  |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |
-| Neutropenia | 29 | 3.6 | 37 | 6 |  |  |  |  |  |
-| Thrombocytopenia | 28 | 2.4 | 33 | 3.2 |  |  |  |  |  |
-| Lymphopenia | 24 | 8 | 32 | 7 |  |  |  |  |  |
-| Anemia | 22 | 2.8 | 27 | 2.1 |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |
-| Increased ALT | 24 | 2.0 | 25 | 2.1 |  |  |  |  |  |
-| Increased AST | 23 | 2.4 | 32 | 3.2 |  |  |  |  |  |
-| Increased alkaline phosphatase | 17 | 1.6 | 21 | 2.1 |  |  |  |  |  |
-| Increased lipase | 16 | 6.5 | 28 | 12 |  |  |  |  |  |
-| Hyponatremia | 14 | 0.8 | 15 | 1.1 |  |  |  |  |  |
-| Hypokalemia | 11 | 1.6 | 14 | 3.2 |  |  |  |  |  |
-| Hypocalcemia | 11 | 0.4 | 14 | 1.1 |  |  |  |  |  |
-| Hypomagnesemia | 10 | 0.4 | 15 | 1.3 |  |  |  |  |  |
-| Increased creatinine | 10 | 0 | 15 | 0 |  |  |  |  |  |
-| Increased bilirubin | 9 | 0.8 | 10 | 0 |  |  |  |  |  |
-| a Number of evaluable patients for the safety population ranges from 226 to 253. b Number of evaluable patients for the efficacy population ranges from 80 to 85. c Includes events occurring up to 30 days after last nivolumab dose. After an immune-mediate adverse reaction, reactions following nivolumab rechallenge were included if they occurred within 30 days of completing the initial nivolumab course. |  |  |  |  |  |  |  |  |  |
+Table 13: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated Patients with cHL (Trials 7 and 8)
+
+|  | OPDIVO cHL Safety Populationa (n=266) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Laboratory Abnormality | Percentage (%)b |  |  |  |  |
+| All Grades | Grades 3-4 |  |  |  |  |
+| Hematology |  |  |  |  |  |
+| Leukopenia | 38 | 4.5 |  |  |  |
+| Neutropenia | 37 | 5 |  |  |  |
+| Thrombocytopenia | 37 | 3.0 |  |  |  |
+| Lymphopenia | 32 | 11 |  |  |  |
+| Anemia | 26 | 2.6 |  |  |  |
+| Chemistryc |  |  |  |  |  |
+| Increased AST | 33 | 2.6 |  |  |  |
+| Increased ALT | 31 | 3.4 |  |  |  |
+| Increased lipase | 22 | 9 |  |  |  |
+| Increased alkaline phosphatase | 20 | 1.5 |  |  |  |
+| Hyponatremia | 20 | 1.1 |  |  |  |
+| Hypokalemia | 16 | 1.9 |  |  |  |
+| Increased creatinine | 16 | <1 |  |  |  |
+| Hypocalcemia | 15 | <1 |  |  |  |
+| Hypomagnesemia | 14 | <1 |  |  |  |
+| Hyperkalemia | 15 | 1.5 |  |  |  |
+| Increased amylase | 13 | 1.5 |  |  |  |
+| Increased bilirubin | 11 | 1.5 |  |  |  |
+| a Number of evaluable patients for the safety population ranges from 203 to 266. b Includes events occurring up to 30 days after last nivolumab dose. After an immune-mediated adverse reaction, reactions following nivolumab rechallenge were included if they occurred within 30 days of completing the initial nivolumab course. c In addition, in the safety population, fasting hyperglycemia (all grade 1-2) was reported in 27 of 69 (39%) evaluable patients and fasting hypoglycemia (all grade 1-2) in 11 of 69 (16%). |  |  |  |  |  |
 
 ### Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck
 
@@ -468,7 +470,7 @@ Patients received 3 mg/kg of OPDIVO (n=236) administered intravenously (IV) over
 - •or methotrexate (n=46) 40 to 60 mg/m2 IV weekly, or
 - •docetaxel (n=52) 30 to 40 mg/m2 IV weekly.
 
-The median duration of exposure to nivolumab was 1.9 months (range 1 day to 16.1+ months) in OPDIVO-treated patients.
+The median duration of exposure to nivolumab was 1.9 months (range: 1 day to 16.1+ months) in OPDIVO-treated patients.
 In this trial, 18% of patients received OPDIVO for greater than 6 months and 2.5% of patients received OPDIVO for greater than 1 year.
 
 Trial 9 excluded patients with active autoimmune disease, medical conditions requiring systemic immunosuppression, or recurrent or metastatic carcinoma of the nasopharynx, squamous cell carcinoma of unknown primary histology, salivary gland or non-squamous histologies (e.g., mucosal melanoma).
@@ -480,7 +482,7 @@ OPDIVO was discontinued in 14% of patients and was delayed in 24% of patients fo
 Serious adverse reactions occurred in 49% of patients receiving OPDIVO.
 The most frequent serious adverse reactions reported in at least 2% of patients receiving OPDIVO were pneumonia, dyspnea, respiratory failure, respiratory tract infection, and sepsis.
 Adverse reactions and laboratory abnormalities occurring in patients with SCCHN were generally similar to those occurring in patients with melanoma and NSCLC.
-The most common adverse reactions occurring in >10% of OPDIVO-treated patients and at a higher incidence than investigator’s choice were cough and dyspnea.
+The most common adverse reactions occurring in ≥10% of OPDIVO-treated patients and at a higher incidence than investigator’s choice were cough and dyspnea.
 
 The most common laboratory abnormalities occurring in ≥10% of OPDIVO-treated patients and at a higher incidence than investigator’s choice were increased alkaline phosphatase, increased amylase, hypercalcemia, hyperkalemia, and increased TSH.
 
@@ -514,7 +516,7 @@ Table 14: Adverse Reactions Occurring in ≥10% of Patients (Trial 10)
 | Pyrexia/tumor associated fever | 17 | 0.4 |
 | Edema/peripheral edema/peripheral swelling | 13 | 0.4 |
 | Infections and Infestations |  |  |
-| Urinary Tract Infection/eschericia/fungal urinary tract infection | 17 | 7 |
+| Urinary tract infection/eschericia/fungal urinary tract infection | 17 | 7 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |
 | Cough/productive cough | 18 | 0 |
 | Dyspnea/exertional dyspnea | 14 | 3.3 |
@@ -534,7 +536,7 @@ Table 14: Adverse Reactions Occurring in ≥10% of Patients (Trial 10)
 | Decreased appetite | 22 | 2.2 |
 | Endocrine Disorders |  |  |
 | Thyroid disordersd | 15 | 0 |
-| Toxicity was graded per NCI CTCAE v4. a Includes abdominal discomfort, lower and upper abdominal pain. b Includes dermatitis, dermatitis acneiform, dermatitis bullous, and rash described as generalized, macular, maculo-papular, or pruritic. c Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity and spinal pain. d Includes autoimmune thyroiditis, blood TSH decrease, blood TSH increase, hyperthyroidism, hypothyroidism, thyroiditis, thyroxine decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine free increased, tri-iodothyronine increased. |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes abdominal discomfort, lower and upper abdominal pain. b Includes dermatitis, dermatitis acneiform, dermatitis bullous, and rash described as generalized, macular, maculopapular, or pruritic. c Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity and spinal pain. d Includes autoimmune thyroiditis, blood TSH decrease, blood TSH increase, hyperthyroidism, hypothyroidism, thyroiditis, thyroxine decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine free increased, tri-iodothyronine increased. |  |  |
 
 Table 15: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of Patients (Trial 10)
 
@@ -565,7 +567,7 @@ Table 15: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% o
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
 
-Of 2022 patients who were treated with OPDIVO as a single agent 3 mg/kg every 2 weeks and evaluable for the presence of anti-nivolumab antibodies, 231 patients (11.4%) tested positive for treatment-emergent anti-nivolumab antibodies by an electrochemiluminescent (ECL) assay and fifteen patients (0.7%) had neutralizing antibodies against nivolumab.
+Of 2085 patients who were treated with OPDIVO as a single agent 3 mg/kg every 2 weeks and evaluable for the presence of anti-nivolumab antibodies, 233 patients (11.2%) tested positive for treatment-emergent anti-nivolumab antibodies by an electrochemiluminescent (ECL) assay and 15 patients (0.7%) had neutralizing antibodies against nivolumab.
 There was no evidence of altered pharmacokinetic profile or increased incidence of infusion reactions with anti-nivolumab antibody development.
 
 Of 394 patients who were treated with OPDIVO with ipilimumab and evaluable for the presence of anti-nivolumab antibodies, 149 patients (37.8%) tested positive for treatment-emergent anti-nivolumab antibodies by an ECL assay and 18 patients (4.6%) had neutralizing antibodies against nivolumab.

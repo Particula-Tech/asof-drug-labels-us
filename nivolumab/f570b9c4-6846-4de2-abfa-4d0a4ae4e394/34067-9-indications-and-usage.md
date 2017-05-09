@@ -21,21 +21,24 @@ OPDIVO is indicated for the treatment of patients with advanced renal cell carci
 
 ## 1.4 Classical Hodgkin Lymphoma
 
-OPDIVO is indicated for the treatment of patients with classical Hodgkin lymphoma (cHL) that has relapsed or progressed after autologous hematopoietic stem cell transplantation (HSCT) and post-transplantation brentuximab vedotin [see Clinical Studies (14.4)].
+OPDIVO is indicated for the treatment of adult patients with classical Hodgkin lymphoma (cHL) that has relapsed or progressed after:
+
+- •autologous hematopoietic stem cell transplantation (HSCT) and brentuximab vedotin, or
+- •3 or more lines of systemic therapy that includes autologous HSCT.
+
 This indication is approved under accelerated approval based on overall response rate.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials [see Clinical Studies (14.4)].
 
 ## 1.5 Squamous Cell Carcinoma of the Head and Neck
 
-OPDIVO is indicated for the treatment of patients with recurrent or metastatic squamous cell carcinoma of the head and neck (SCCHN) with disease progression on or after platinum-based therapy [seeClinical Studies (14.5)].
+OPDIVO is indicated for the treatment of patients with recurrent or metastatic squamous cell carcinoma of the head and neck (SCCHN) with disease progression on or after platinum-based therapy [see Clinical Studies (14.5)].
 
 ## 1.6 Urothelial Carcinoma
 
 OPDIVO (nivolumab) is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who:
 
-have disease progression during or following platinum-containing chemotherapy
-
-have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
+- •have disease progression during or following platinum-containing chemotherapy
+- •have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
 
 This indication is approved under accelerated approval based on tumor response rate and duration of response.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials [see Clinical Studies (14.6)].

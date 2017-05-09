@@ -82,7 +82,7 @@ Do not shake the vial.
 ### Preparation
 
 - •Withdraw the required volume of OPDIVO and transfer into an intravenous container.
-- •Dilute OPDIVO with either 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP to prepare an infusion with a final concentration ranging from 1 mg/mL to 10 mg/mL.
+- •Dilute OPDIVO with either 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP to prepare a final concentration ranging from 1 mg/mL to 10 mg/mL.
 - •Mix diluted solution by gentle inversion.
   Do not shake.
 - •Discard partially used vials or empty vials of OPDIVO.
@@ -93,7 +93,7 @@ The product does not contain a preservative.
 
 After preparation, store the OPDIVO infusion either:
 
-- •at room temperature for no more than 4 hours from the time of preparation.
+- •at room temperature for no more than 8 hours from the time of preparation.
   This includes room temperature storage of the infusion in the IV container and time for administration of the infusion or
 - •under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 24 hours from the time of infusion preparation.
 

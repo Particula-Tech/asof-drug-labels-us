@@ -163,7 +163,7 @@ Administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents 
 Administer corticosteroids at a dose of 0.5 to 1 mg/kg/day prednisone equivalents for moderate (Grade 2) or severe (Grade 3) increased serum creatinine, if worsening or no improvement occurs, increase dose of corticosteroids to 1 to 2 mg/kg/day prednisone equivalents.
 
 Withhold OPDIVO for moderate (Grade 2) or severe (Grade 3) increased serum creatinine.
-Permanently discontinue OPDIVO for life-threatening (Grade 4) increased serum creatinine [see Dosage and Administration (2.6) and Adverse Reactions (6.1)].
+Permanently discontinue OPDIVO for life-threatening (Grade 4) increased serum creatinine [see Dosage and Administration (2.7) and Adverse Reactions (6.1)].
 
 ### OPDIVO as a Single Agent
 
@@ -253,7 +253,7 @@ In patients receiving OPDIVO with ipilimumab, infusion-related reactions occurre
 ## 5.10 Complications of Allogeneic HSCT after OPDIVO
 
 Complications, including fatal events, occurred in patients who received allogeneic HSCT after OPDIVO.
-Outcomes were evaluated in 17 patients from Trials 8 and 9 who underwent allogeneic HSCT after discontinuing OPDIVO (15 with reduced-intensity conditioning, two with myeloablative conditioning).
+Outcomes were evaluated in 17 patients from Trials 7 and 8 who underwent allogeneic HSCT after discontinuing OPDIVO (15 with reduced-intensity conditioning, two with myeloablative conditioning).
 The median age at HSCT was 33 (range: 18 to 56), and a median of 9 doses of OPDIVO had been administered (range: 4 to 16).
 Six of 17 patients (35%) died from complications of allogeneic HSCT after OPDIVO.
 Five deaths occurred in the setting of severe or refractory GVHD.

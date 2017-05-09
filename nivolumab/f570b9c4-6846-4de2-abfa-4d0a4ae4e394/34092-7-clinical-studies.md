@@ -55,7 +55,7 @@ Table 16: Efficacy Results - Trial 4
 | Disease progression or death (%) | 108 (51) | 163 (78) |
 | Median, months (95% CI) | 5.1 (3.5, 10.8) | 2.2 (2.1, 2.4) |
 | Hazard ratio (95% CI)a | 0.43 (0.34, 0.56) |  |
-| p-value | <0.0001a |  |
+| p-valueb,c | <0.0001 |  |
 | Objective Response Rate | 34% | 9% |
 | (95% CI) | (28, 41) | (5, 13) |
 | Complete response rate | 4% | 1% |
@@ -130,7 +130,7 @@ Figure 5: Forest Plot: PFS Based on PD-L1 Expression Comparing OPDIVO-Containing
 
 Trial 2 was a randomized (1:1), open-label study enrolling 272 patients with metastatic squamous NSCLC who had experienced disease progression during or after one prior platinum doublet-based chemotherapy regimen.
 Patients received OPDIVO (n=135) administered intravenously at 3 mg/kg every 2 weeks or docetaxel (n=137) administered intravenously at 75 mg/m2 every 3 weeks.
-Randomization was stratified by prior paclitaxel vs other prior treatment and region (US/Canada vs. Europe vs. Rest of World).
+Randomization was stratified by prior paclitaxel vs. other prior treatment and region (US/Canada vs. Europe vs. Rest of World).
 This study included patients regardless of their PD-L1 status.
 The trial excluded patients with autoimmune disease, medical conditions requiring systemic immunosuppression, symptomatic interstitial lung disease, or untreated brain metastasis.
 Patients with treated brain metastases were eligible if neurologically returned to baseline at least 2 weeks prior to enrollment, and either off corticosteroids, or on a stable or decreasing dose of <10 mg daily prednisone equivalents.
@@ -164,8 +164,8 @@ Table 18: Efficacy Results in Trial 2
 | Progression-free Survival |  |  |
 | Disease progression or death (%) | 105 (78%) | 122 (89%) |
 | Median (months) | 3.5 | 2.8 |
-| p-valuea | 0.0004 |  |
-| Hazard ratio (95% CI)c | 0.62 (0.47, 0.81) |  |
+| Hazard ratio (95% CI)a | 0.62 (0.47, 0.81) |  |
+| p-valueb | 0.0004 |  |
 | a Based on a stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with.0315 of the allocated alpha for this interim analysis. d Based on the stratified Cochran-Mantel-Haenszel test. |  |  |
 
 Figure 6: Overall Survival - Trial 2
@@ -203,8 +203,8 @@ Table 19: Efficacy Results in Trial 3
 | Overall Survival |  |  |
 | Deaths (%) | 190 (65%) | 223 (77%) |
 | Median (months) (95% CI) | 12.2 (9.7, 15.0) | 9.4 (8.0, 10.7) |
-| p-valuea,b | 0.0015 |  |
-| Hazard ratio (95% CI)c | 0.73 (0.60, 0.89) |  |
+| Hazard ratio (95% CI)a | 0.73 (0.60, 0.89) |  |
+| p-valueb,c | 0.0015 |  |
 | Objective Response Rate | 56 (19%) | 36 (12%) |
 | (95% CI) | (15, 24) | (9, 17) |
 | p-valued | 0.02 |  |
@@ -213,8 +213,8 @@ Table 19: Efficacy Results in Trial 3
 | Progression-free Survival |  |  |
 | Disease progression or death (%) | 234 (80%) | 245 (84%) |
 | Median (months) | 2.3 | 4.2 |
-| p-valuea | 0.39 |  |
-| Hazard ratio (95% CI)c | 0.92 (0.77, 1.11) |  |
+| Hazard ratio (95% CI)a | 0.92 (0.77, 1.11) |  |
+| p-valueb | 0.39 |  |
 | a Based on a stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with.0408 of the allocated alpha for this interim analysis. d Based on the stratified Cochran-Mantel-Haenszel test. |  |  |
 
 Figure 7: Overall Survival - Trial 3
@@ -269,7 +269,7 @@ Figure 10: Overall Survival - Trial 5
 
 ## 14.4 Classical Hodgkin Lymphoma
 
-Two studies evaluated the efficacy of OPDIVO as a single agent in patients with cHL after failure of autologous HSCT and post-transplantation brentuximab vedotin.
+Two studies evaluated the efficacy of OPDIVO as a single agent in adult patients with cHL after failure of autologous HSCT.
 
 Trial 7 was a single-arm, open-label, multicenter, multicohort study in cHL.
 Trial 8 was an open-label, multicenter, dose escalation study that included cHL.
@@ -281,25 +281,45 @@ A cycle consisted of one dose.
 Dose reduction was not permitted.
 
 Efficacy was evaluated by objective response rate (ORR) as determined by an independent radiographic review committee (IRRC).
-Additional outcome measures included duration of response.
-Efficacy was evaluated in 95 patients in Trials 7 and 8 combined who had received brentuximab vedotin after failure of autologous HSCT.
+Additional outcome measures included duration of response (DOR).
+
+Efficacy was evaluated in 95 patients in Trials 7 and 8 combined who had failure of autologous HSCT and post-transplantation brentuximab vedotin.
 The median age was 37 years (range: 18 to 72).
 The majority were male (64%) and white (87%).
-Patients had received a median of 5 prior systemic regimens (range: 3 to 15).
-
+Patients had received a median of 5 prior systemic regimens (range: 2 to 15).
+They received a median of 27 doses of OPDIVO (range: 3 to 48), with a median duration of therapy of 14 months (range: 1 to 23 months).
 Results are shown in Table 21.
-Patients received a median of 17 doses of OPDIVO (range 3 to 48), with a median duration of therapy of 8.3 months (range 1.9 to 24 months).
 
-Table 21: Efficacy in cHL after Autologous HSCT and Brentuximab Vedotin
+Table 21: Efficacy in cHL after Autologous HSCT and Post-transplantation Brentuximab Vedotin
 
-|  | Trial 7 and Trial 8(n=95) |
+|  | Trial 7 and Trial 8 (n=95) |
 | --- | --- |
-| Objective Response Rate, n (%)a (95% CI) | 62 (65%) (55, 75) |
-| Complete Remission Rate (95% CI) | 7 (7%) (3, 15) |
-| Partial Remission Rate (95% CI) | 55 (58%) (47, 68) |
-| Median Duration of Response (months) (95% CI) Range | 8.7 (6.8, NE) 0.0+, 23.1+ |
-| Median Time to Response (months) Range | 2.1 0.7, 5.7 |
-| a Per 2007 revised International Working Group criteria. |  |
+| Objective Response Rate, n (%)a (95% CI) | 63 (66%)(56, 76) |
+| Complete Remission Rate (95% CI) | 6 (6%)(2, 13) |
+| Partial Remission Rate (95% CI) | 57 (60%)(49, 70) |
+| Duration of Response (months) Medianb (95% CI) Rangec | 13.1(9.5, NE)0+, 23.1+ |
+| Time to Response (months) Median Range | 2.00.7, 11.1 |
+| a Per 2007 revised International Working Group criteria. b Kaplan-Meier estimate. Among responders, the median follow-up for DOR, measured from the date of first response, was 9.9 months. c A + sign indicates a censored value. |  |
+
+Efficacy was also evaluated in 258 patients in Trials 7 and 8 combined who had relapsed or progressive cHL after autologous HSCT.
+The analysis included the group described above.
+The median age was 34 years (range: 18 to 72).
+The majority were male (59%) and white (86%).
+Patients had a median of 4 prior systemic regimens (range: 2 to 15), with 85% having 3 or more prior systemic regimens and 76% having prior brentuximab vedotin.
+Of the 195 patients having prior brentuximab vedotin, 17% received it only before autologous HSCT, 78% received it only after HSCT, and 5% received it both before and after HSCT.
+Patients received a median of 21 doses of OPDIVO (range: 1 to 48), with a median duration of therapy of 10 months (range: 0 to 23 months).
+Results are shown in Table 22.
+
+Table 22: Efficacy in cHL after Autologous HSCT
+
+|  | Trial 7 and Trial 8 (n=258) |  |  |
+| --- | --- | --- | --- |
+| Objective Response Rate, n (%) (95% CI) | 179 (69%)(63, 75) |  |  |
+| Complete Remission Rate (95% CI) | 37 (14%)(10, 19) |  |  |
+| Partial Remission Rate (95% CI) | 142 (55%)(49, 61) |  |  |
+| Duration of Response (months) Mediana,b (95% CI) Range | NE(12.0, NE)0+, 23.1+ |  |  |
+| Time to Response (months) Median Range | 2.00.7, 11.1 |  |  |
+| a Kaplan-Meier estimate. Among responders, the median follow-up for DOR, measured from the date of first response, was 6.7 months. b The estimated median duration of PR was 13.1 months (95% CI, 9.5, NE). The median duration of CR was not reached. |  |  |  |
 
 ## 14.5 Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck (SCCHN)
 
@@ -311,7 +331,6 @@ Patients were randomized to receive OPDIVO administered intravenously (IV) at 3 
 - •cetuximab 400 mg/m2 loading dose IV followed by 250 mg/m2 weekly,
 - •methotrexate 40 to 60 mg/m2 IV weekly, or
 - •docetaxel 30 to 40 mg/m2 IV weekly.
-- 
 
 Randomization was stratified by prior cetuximab treatment (yes/no).
 The first tumor assessments were conducted 9 weeks after randomization and continued every 6 weeks thereafter.
@@ -323,10 +342,10 @@ The median age was 60 years (range: 28 to 83) with 31% ≥65 years of age, 83% w
 Baseline ECOG performance status was 0 (20%) or 1 (78%), 76% were former/current smokers, 90% had Stage IV disease, 45% of patients received only one prior line of systemic therapy, the remaining 55% received two or more prior lines of systemic therapy, and 25% had HPVp16-positive tumors, 24% had HPV p16-negative tumors, and 51% had unknown status.
 
 The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with investigator’s choice at a pre-specified interim analysis (78% of the planned number of events for final analysis).
-The survival results are displayed in Table 22 and Figure 11.
-There were no statistically significant differences between the two arms for PFS (HR=0.89; 95% CI: 0.70, 1.13) or ORR (13.3% [95% CI: 9.3, 18.3] vs 5.8% [95% CI: 2.4, 11.6] for nivolumab and investigator’s choice, respectively).
+The survival results are displayed in Table 23 and Figure 11.
+There were no statistically significant differences between the two arms for PFS (HR=0.89; 95% CI: 0.70, 1.13) or ORR (13.3% [95% CI: 9.3, 18.3] vs. 5.8% [95% CI: 2.4, 11.6] for nivolumab and investigator’s choice, respectively).
 
-Table 22: Overall Survival in Trial 9
+Table 23: Overall Survival in Trial 9
 
 |  | OPDIVO (n=240) | Investigator’s Choice (n=121) |
 | --- | --- | --- |
@@ -353,7 +372,7 @@ Patients received an intravenous infusion of 3 mg/kg of OPDIVO every 2 weeks unt
 Tumor response assessments were conducted every 8 weeks for the first 48 weeks and every 12 weeks thereafter.
 Major efficacy outcome measures included confirmed objective response rate (ORR) as assessed by independent radiographic review committee (IRRC) using Response Evaluation Criteria in Solid Tumors (RECIST v1.1) and duration of response (DOR).
 
-The median age was 66 years (range 38 to 90), 78% were male, 86% of patients were white.
+The median age was 66 years (range: 38 to 90), 78% were male, 86% of patients were white.
 Twenty-seven percent had non-bladder urothelial carcinoma and 84% had visceral metastases.
 Thirty-four percent of patients had disease progression following prior platinum-containing neoadjuvant or adjuvant therapy.
 Twenty-nine percent of patients had received ≥2 prior systemic regimens in the metastatic setting.
@@ -365,13 +384,13 @@ Patients were included regardless of their PD-L1 status.
 Tumor specimens were evaluated prospectively using the PD-L1 IHC 28-8 pharmDx assay at a central laboratory and the results were used to define subgroups for pre-specified analyses.
 Of the 270 patients, 46% were defined as having PD-L1 expression of ≥1% (defined as ≥1% of tumor cells expressing PD-L1).
 The remaining 54% of patients, were classified as having PD-L1 expression of <1% (defined as <1% of tumor cells expressing PD-L1).
-Confirmed ORR in all patients and the two PD-L1 subgroups are summarized in Table 23.
-Median time to response was 1.9 months (range; 1.6-7.2).
+Confirmed ORR in all patients and the two PD-L1 subgroups are summarized in Table 24.
+Median time to response was 1.9 months (range: 1.6-7.2).
 In 77 patients who received prior systemic therapy only in the neoadjuvant or adjuvant setting, the ORR was 23.4% (95% CI: 14.5%, 34.4%).
 
-Table 23: Efficacy Results in Trial 10
+Table 24: Efficacy Results in Trial 10
 
-|  | All Patients | PD-L1 < 1% | PD-L1 > 1% |
+|  | All Patients | PD-L1 <1% | PD-L1 ≥1% |
 | --- | --- | --- | --- |
 |  | N=270 | N=146 | N=124 |
 | Confirmed Objective Response Rate, n (%) (95% CI) | 53 (19.6%)(15.1, 24.9) | 22 (15.1%)(9.7, 21.9) | 31 (25.0%)(17.7, 33.6) |

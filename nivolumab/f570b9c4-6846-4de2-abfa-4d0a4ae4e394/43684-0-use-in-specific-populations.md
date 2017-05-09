@@ -47,12 +47,12 @@ The safety and effectiveness of OPDIVO have not been established in pediatric pa
 Of the 1359 patients randomized to single-agent OPDIVO in Trials 2 through 6, 39% were 65 years or older and 9% were 75 years or older.
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
 
+In Trial 10 (Urothelial Cancer), 55% of patients were 65 year or older and 14% were 75 years or older.
+No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
+
 Trials 1, 7, 8, and 9 did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
 
 Of the 314 patients randomized to OPDIVO administered with ipilimumab in Trial 6, 41% were 65 years or older and 11% were 75 years or older.
-No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
-
-In Trial 10 (Urothelial Cancer), 55% of patients were 65 year or older and 14% were 75 years or older.
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
 
 ## 8.6 Renal Impairment
