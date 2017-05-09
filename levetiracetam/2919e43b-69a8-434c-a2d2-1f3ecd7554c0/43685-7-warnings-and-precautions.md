@@ -149,9 +149,9 @@ Antiepileptic drugs, including KEPPRA XR, should be withdrawn gradually to minim
 ## 5.8 Hematologic Abnormalities
 
 KEPPRA XR can cause hematologic abnormalities.
-Hematologic abnormalities occurred in clinical trials and included decreases in red blood cell (RBC) counts, hemoglobin, and hematocrit, and increases in eosinophil counts.
-Decreased white blood cell (WBC) and neutrophil counts also occurred in clinical trials.
-Cases of agranulocytosis have been reported in the postmarketing setting.
+Hematologic abnormalities occurred in clinical trials and included decreases in white blood cell (WBC) and neutrophil counts, decreases in red blood cell (RBC) counts, hemoglobin, and hematocrit, and increases in eosinophil counts.
+Cases of agranulocytosis, leukopenia, neutropenia, pancytopenia, and thrombocytopenia have also been reported in the postmarketing setting.
+A complete blood count is recommended in patients experiencing significant weakness, pyrexia, recurrent infections, or coagulation disorders.
 
 In controlled trials of immediate-release KEPPRA tablets in patients experiencing partial onset seizures, minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in immediate-release KEPPRA-treated patients.
 
