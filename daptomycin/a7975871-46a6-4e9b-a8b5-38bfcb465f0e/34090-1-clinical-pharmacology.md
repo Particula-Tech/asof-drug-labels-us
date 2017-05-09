@@ -83,7 +83,7 @@ Table 10: Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following I
 | Normal (CLCR >80 mL/min) | 9.39 (4.74) N=165 | 0.13 (0.05) N=165 | 10.9 (4.0) N=165 | 417 (155) N=165 | 545 (296) N=62 | 6.9 (3.5) N=61 |
 | Mild Renal Impairment (CLCR 50–80 mL/min) | 10.75 (8.36) N=64 | 0.12 (0.05) N=64 | 9.9 (4.0) N=64 | 466 (177) N=64 | 637 (215) N=29 | 12.4 (5.6) N=29 |
 | Moderate Renal Impairment (CLCR 30–<50 mL/min) | 14.70 (10.50) N=24 | 0.15 (0.06) N=24 | 8.5 (3.4) N=24 | 560 (258) N=24 | 868 (349) N=15 | 19.0 (9.0) N=14 |
-| Severe Renal Impairment (CLCR <30 mL/min) | 27.83 (14.85) N=8 | 0.20 (0.15) N=8 | 5.9 (3.9) N=8 | 925 (467) N=8 | 1050, 892 N=2 | 24.4, 21.4 N=2 |
+| Severe Renal Impairment (CLCR <30 mL/min) | 27.83 (14.85) N=8 | 0.20 (0.15) N=8 | 5.9 (3.9) N=8 | 925 (467) N=8 | 1050 (892) N=2 | 24.4 (21.4) N=2 |
 | Hemodialysis | 30.51 (6.51) N=16 | 0.16 (0.04) N=16 | 3.9 (2.1) N=16 | 1193 (399) N=16 | NA | NA |
 | CAPD | 27.56 (4.53) N=5 | 0.11 (0.02) N=5 | 2.9 (0.4) N=5 | 1409 (238) N=5 | NA | NA |
 | Note: CUBICIN was administered over a 30-minute period. |  |  |  |  |  |  |
@@ -208,8 +208,7 @@ An E. faecium was isolated from a patient in a vancomycin-resistant enterococci 
 
 Antimicrobial Activity
 
-Daptomycin has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections.
-[see Indications and Usage (1)].
+Daptomycin has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections [see Indications and Usage (1)].
 
 - Gram-Positive Bacteria
 - Enterococcus faecalis (vancomycin-susceptible isolates only)

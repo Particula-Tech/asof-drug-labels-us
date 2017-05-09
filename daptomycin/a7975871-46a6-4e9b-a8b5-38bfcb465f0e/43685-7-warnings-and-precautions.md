@@ -24,7 +24,7 @@ In addition, consideration should be given to suspending agents associated with 
 ## 5.3 Eosinophilic Pneumonia
 
 Eosinophilic pneumonia has been reported in patients receiving CUBICIN [see Adverse Reactions (6.2)].
-In reported cases associated with CUBICIN, patients developed fever, dyspnea with hypoxic respiratory insufficiency, and diffuse pulmonary infiltrates.
+In reported cases associated with CUBICIN, patients developed fever, dyspnea with hypoxic respiratory insufficiency, and diffuse pulmonary infiltrates or organizing pneumonia.
 In general, patients developed eosinophilic pneumonia 2 to 4 weeks after starting CUBICIN and improved when CUBICIN was discontinued and steroid therapy was initiated.
 Recurrence of eosinophilic pneumonia upon re-exposure has been reported.
 Patients who develop these signs and symptoms while receiving CUBICIN should undergo prompt medical evaluation, and CUBICIN should be discontinued immediately.

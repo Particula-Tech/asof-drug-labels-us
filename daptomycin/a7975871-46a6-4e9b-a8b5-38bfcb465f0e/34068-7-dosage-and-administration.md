@@ -2,11 +2,11 @@
 
 ## 2.1 Important Administration Duration Instructions
 
-Adults
+Adults:
 
 Administer the appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL) to adult patients intravenously either by injection over a two (2) minute period or by intravenous infusion over a thirty (30) minute period [see Dosage and Administration (2.2, 2.6)].
 
-Pediatric Patients (1 to 17 Years of Age)
+Pediatric Patients (1 to 17 Years of Age):
 
 Unlike in adults, do NOT administer CUBICIN by injection over a two (2) minute period to pediatric patients.
 
@@ -92,7 +92,7 @@ Intravenous Injection over a period of 2 minutes
 
 Intravenous Infusion over a period of 30 minutes
 
-- For IV infusion over a period of 30 minutes in adult patients: The appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
+- For intravenous (IV) infusion over a period of 30 minutes in adult patients: The appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
 
 Pediatric Patients (1 to 17 Years of Age)
 

@@ -214,7 +214,7 @@ Infections and Infestations: Clostridium difficile–associated diarrhea [see Wa
 
 Musculoskeletal Disorders: myoglobin increased; rhabdomyolysis (some reports involved patients treated concurrently with CUBICIN and HMG-CoA reductase inhibitors) [see Warnings and Precautions (5.2), Drug Interactions (7.1), and Clinical Pharmacology (12.3)]
 
-Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia [see Warnings and Precautions (5.3)]
+Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia, organizing pneumonia [see Warnings and Precautions (5.3)]
 
 Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5.4)]
 

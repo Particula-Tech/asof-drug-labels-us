@@ -50,7 +50,7 @@ The cSSSI pediatric trial was a single prospective multi-center, randomized, com
 A total of 396 pediatric patients aged 1 to 17 years with cSSSI caused by Gram positive pathogens were enrolled into the study.
 Patients known to have bacteremia, osteomyelitis, endocarditis, and pneumonia at baseline were excluded.
 Patients were enrolled in a stepwise approach into four age groups and given age-dependent doses of CUBICIN once daily for up to 14 days.
-The different age groups and doses evaluated were as follows: Adolescents (12 to 17 years) treated with 5 mg/kg of CUBICIN (n=113), Children (7 to 11 years) treated with 7 mg/kg of CUBICIN (n-113), Children (2 to 6 years) treated with 9 mg/kg of CUBICIN (n=125) and Infants (1 to < 2 years) treated with 10 mg/kg (n= 45).
+The different age groups and doses evaluated were as follows: Adolescents (12 to 17 years) treated with 5 mg/kg of CUBICIN (n=113), Children (7 to 11 years) treated with 7 mg/kg of CUBICIN (n=113), Children (2 to 6 years) treated with 9 mg/kg of CUBICIN (n=125) and Infants (1 to <2 years) treated with 10 mg/kg (n= 45).
 
 Patients were randomized 2:1 to receive CUBICIN or a standard of care (SOC) comparator, which included intravenous therapy with either vancomycin, clindamycin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin, or cloxacillin).
 Patients could switch to oral therapy after clinical improvement was demonstrated (no minimum IV dosing was required).
@@ -62,7 +62,7 @@ Of the 396 subjects randomized in the study, 389 subjects were treated with CUBI
 Of these, 257 subjects were randomized to the CUBICIN group and 132 subjects were randomized to the comparator group.
 Approximately 95% of subjects switched to oral therapy.
 The mean day of switch was day 4, and ranged from day 1 to day 14.
-The clinical success rates determined at 7 – 14 days after last dose of therapy (IV and oral) (TOC visit) were 88% (227/257) for CUBICIN and 86% (114/132) for comparator.
+The clinical success rates determined at 7–14 days after last dose of therapy (IV and oral) (TOC visit) were 88% (227/257) for CUBICIN and 86% (114/132) for comparator.
 
 ## 14.2 S. aureus Bacteremia/Endocarditis
 
