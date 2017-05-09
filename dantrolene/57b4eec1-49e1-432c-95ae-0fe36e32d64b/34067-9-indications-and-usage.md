@@ -15,11 +15,11 @@ Brief withdrawal of Dantrium for a period of 2 to 4 days will frequently demonst
 
 A decision to continue the administration of Dantrium on a long-term basis is justified if introduction of the drug into the patient's regimen:
 
-- produces a significant reduction in painful and/or disabling spasticity such as clonus, or
-- 
-- permits a significant reduction in the intensity and/or degree of nursing care required, or
-- 
-- rids the patient of any annoying manifestation of spasticity considered important by the patient himself.
+produces a significant reduction in painful and/or disabling spasticity such as clonus, or
+
+permits a significant reduction in the intensity and/or degree of nursing care required, or
+
+rids the patient of any annoying manifestation of spasticity considered important by the patient himself.
 
 ## In Malignant Hyperthermia
 
