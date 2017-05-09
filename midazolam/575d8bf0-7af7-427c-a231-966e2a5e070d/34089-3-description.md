@@ -7,7 +7,7 @@ In addition, each mL contains the following inactive ingredients: 0.8% sodium ch
 Midazolam is a white to light yellow crystalline compound, insoluble in water.
 The hydrochloride salt of midazolam, which is formed in situ, is soluble in aqueous solutions.
 Chemically, midazolam HCl is 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine hydrochloride.
-Midazolam hydrochloride has the molecular formula C18H13CIFN3• HCl, a calculated molecular weight of 362.25 and the following structural formula:
+Midazolam hydrochloride has the molecular formula C18H13ClFN3 • HCl, a calculated molecular weight of 362.25 and the following structural formula:
 
 Under the acidic conditions required to solubilize midazolam in the product, midazolam is present as an equilibrium mixture (shown below) of the closed-ring form and an open-ring structure formed by the acid-catalyzed ring opening of the 4,5-double bond of the diazepine ring.
 The amount of open-ring form is dependent upon the pH of the solution.

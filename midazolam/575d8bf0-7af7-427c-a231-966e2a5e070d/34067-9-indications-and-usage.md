@@ -8,5 +8,3 @@ Midazolam Injection is indicated:
   With the use of narcotic premedication, induction of anesthesia can be attained within a relatively narrow dose range and in a short period of time.
   Intravenous midazolam can also be used as a component of intravenous supplementation of nitrous oxide and oxygen (balanced anesthesia);
 - continuous intravenous infusion for sedation of intubated and mechanically ventilated patients as a component of anesthesia or during treatment in a critical care setting.
-
-Midazolam is associated with a high incidence of partial or complete impairment of recall for the next several hours (see CLINICAL PHARMACOLOGY).
