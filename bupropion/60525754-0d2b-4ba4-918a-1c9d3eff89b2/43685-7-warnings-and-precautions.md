@@ -45,16 +45,20 @@ Families and caregivers of patients being treated with antidepressants for MDD o
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for WELLBUTRIN should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
-## 5.2 Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
+## 5.2 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
-WELLBUTRIN is not approved for smoking cessation treatment; however, bupropion HCl sustained-release is approved for this use.
-Serious neuropsychiatric symptoms have been reported in patients taking bupropion for smoking cessation.
-These have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Boxed Warning, Adverse Reactions (6.2)].
-Observe patients for the occurrence of neuropsychiatric reactions.
-Instruct patients to contact a healthcare professional if such reactions occur.
+WELLBUTRIN is not approved for smoking cessation treatment; however, it contains the same active ingredient as the smoking cessation medication ZYBAN®.
+Serious neuropsychiatric adverse events have been reported in patients taking bupropion for smoking cessation.
+These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Adverse Reactions (6.2)].
+Some patients who stopped smoking may have been experiencing symptoms of nicotine withdrawal, including depressed mood.
+Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking cessations attempt without medication.
+However, some of these adverse events occurred in patients taking bupropion who continued to smoke.
 
-In many of these cases, a causal relationship to bupropion treatment is not certain, because depressed mood can be a symptom of nicotine withdrawal.
-However, some of the cases occurred in patients taking bupropion who continued to smoke.
+Neuropsychiatric adverse events occurred in patients without and with pre-existing psychiatric disease; some patients experienced worsening of their psychiatric illnesses.
+Observe patients for the occurrence of neuropsychiatric adverse events.
+Advise patients and caregivers that the patient should stop taking WELLBUTRIN and contact a healthcare provider immediately if agitation, depressed mood, or changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
+In many postmarketing cases, resolution of symptoms after discontinuation of bupropion was reported.
+However, the symptoms persisted in some cases; therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
 
 ## 5.3 Seizure
 
