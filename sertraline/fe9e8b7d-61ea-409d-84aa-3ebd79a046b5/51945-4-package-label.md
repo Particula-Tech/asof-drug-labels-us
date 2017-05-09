@@ -6,7 +6,7 @@ NDC 0049-4960-30
 
 Pfizer
 
-Zoloft® (sertraline HCl) tablets
+Zoloft ® (sertraline HCl) tablets
 
 25 mg*
 
@@ -106,11 +106,13 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 NDC 0049-0050-01
 
-Pfizer Zoloft® (sertraline hydrochloride) oral solution equivalent to
+Pfizer
 
-20 mg/mL*
+Zoloft® (sertraline hydrochloride) oral solution
 
-of sertraline Must Be Diluted Before Use (see side panel for instructions)
+equivalent to 20 mg/mL* of sertraline
+
+Must Be Diluted Before Use (see side panel for instructions)
 
 60 mL Rx only
 
@@ -118,15 +120,11 @@ of sertraline Must Be Diluted Before Use (see side panel for instructions)
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-NDC 0049-0050-01
+NDC 0049-0050-01 New Label, Same Product.
 
 Pfizer
 
-New Label, Same Product.
-
-Zoloft® (sertraline hydrochloride)
-
-oral solution
+Zoloft® (sertraline hydrochloride) oral solution
 
 equivalent to 20 mg/mL* of sertraline
 

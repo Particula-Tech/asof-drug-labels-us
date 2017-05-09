@@ -48,11 +48,11 @@ In addition, at least 14 days must elapse after stopping ZOLOFT before starting 
 Adverse reactions may occur upon discontinuation of ZOLOFT [See Warnings and Precautions (5.5)].
 Gradually reduce the dosage rather than stopping ZOLOFT abruptly whenever possible.
 
-## 2.7 Preparation of ZOLOFT Oral Solution
+## 2.7 Preparation of ZOLOFT Oral Concentrate and Oral Solution
 
-ZOLOFT oral solution must be diluted before use.
+ZOLOFT oral concentrate and oral solution must be diluted before use.
 
-- Use the supplied calibrated dropper to measure the amount of ZOLOFT oral solution needed
+- Use the supplied calibrated dropper to measure the amount of ZOLOFT oral concentrate and oral solution needed
 - Note: The supplied calibrated dropper has 25 mg and 50 mg graduation marks only
 - Mix with 4 ounces (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
   After mixing, a slight haze may appear, which is normal.

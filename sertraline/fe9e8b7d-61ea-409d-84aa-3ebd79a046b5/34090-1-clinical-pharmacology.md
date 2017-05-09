@@ -24,7 +24,7 @@ Following oral once-daily ZOLOFT dosing over the range of 50 to 200 mg for 14 da
 The average terminal elimination half-life of plasma sertraline is about 26 hours.
 Consistent with the terminal elimination half-life, there is an approximately two-fold accumulation up to steady-state concentrations, which are achieved after one week of once-daily dosing.
 Linear dose-proportional pharmacokinetics were demonstrated in a single dose study in which the Cmax and area under the plasma concentration time curve (AUC) of sertraline were proportional to dose over a range of 50 to 200 mg.
-The single dose bioavailability of ZOLOFT tablets is approximately equal to an equivalent dose of ZOLOFT oral solution.
+The single dose bioavailability of ZOLOFT tablets is approximately equal to an equivalent dose of ZOLOFT oral concentrate and oral solution.
 Administration with food causes a small increase in Cmax and AUC.
 
 Metabolism

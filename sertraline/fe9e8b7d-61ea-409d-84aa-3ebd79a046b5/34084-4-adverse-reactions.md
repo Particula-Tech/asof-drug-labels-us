@@ -3,7 +3,7 @@
 The following adverse reactions are described in more detail in other sections of the prescribing information:
 
 - Hypersensitivity reactions to sertraline [See Contraindications (4)]
-- Disulfiram-alcohol reaction when ZOLOFT oral solution is taken with disulfiram [See Contraindications (4)]
+- Disulfiram-alcohol reaction when ZOLOFT oral concentrate and oral solution are taken with disulfiram [See Contraindications (4)]
 - QT prolongation and ventricular arrhythmias when taken with pimozide [See Contraindications (4)]
 - Suicidal thoughts and behaviors [See Warnings and Precautions (5.1)]
 - Serotonin syndrome [See Contraindications (4), Warnings and Precautions (5.2), Drug Interactions (7.1)]

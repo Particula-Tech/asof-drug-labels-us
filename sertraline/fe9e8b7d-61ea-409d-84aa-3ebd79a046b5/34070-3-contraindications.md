@@ -6,7 +6,7 @@ ZOLOFT is contraindicated in patients:
 - Taking pimozide [See Drug Interactions (7.1)].
 - With known hypersensitivity to sertraline (e.g., anaphylaxis, angioedema) [See Adverse Reactions (6.1, 6.2)].
 
-In addition to the contraindications for all ZOLOFT formulations listed above, ZOLOFT oral solution is contraindicated in patients:
+In addition to the contraindications for all ZOLOFT formulations listed above, ZOLOFT oral concentrate and oral solution are contraindicated in patients:
 
 - Taking disulfiram.
-  ZOLOFT oral solution contains alcohol, and concomitant use of ZOLOFT and disulfiram may result in a disulfiram-alcohol reaction.
+  ZOLOFT oral concentrate and oral solution contain alcohol, and concomitant use of ZOLOFT and disulfiram may result in a disulfiram-alcohol reaction.
