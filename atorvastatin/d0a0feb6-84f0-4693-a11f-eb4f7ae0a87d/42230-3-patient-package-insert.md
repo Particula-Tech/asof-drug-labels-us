@@ -168,7 +168,7 @@ What are the ingredients in atorvastatin calcium tablets?
 
 Active Ingredient: atorvastatin calcium, USP
 
-Inactive Ingredients: anhydrous lactose, anhydrous sodium carbonate, colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, L-Arginine, lecithin, magnesium stearate, microcrystalline cellulose, polyvinyl alcohol, talc, titanium dioxide and xanthan gum.
+Inactive Ingredients: anhydrous lactose, anhydrous sodium carbonate, colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, L-Arginine, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, talc and titanium dioxide.
 
 For more information, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
 
@@ -176,6 +176,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-75057302
+75060626
 
-REVISED AUGUST 2015 MX:ATOR:R9ppt
+Revised: 2/2017 MX:ATOR:R10ppt
