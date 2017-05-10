@@ -13,4 +13,4 @@ In an uncontrolled study, orally administered folic acid was reported to increas
 Another investigator reported decreased diphenylhydantoin serum levels in folate-deficient patients receiving diphenylhydantoin who were treated with 5 mg or 15 mg of folic acid daily.
 
 CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
-YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088 OR LEADING PHARMA, LLC AT 844-740-7500.
+YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088 OR LEADING PHARMA, LLC AT 1-844-740-7500.

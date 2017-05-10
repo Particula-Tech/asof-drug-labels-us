@@ -17,7 +17,7 @@ Adequate doses of vitamin B12 may prevent, halt, or improve the neurologic chang
 There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid.
 A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given.
 
-Folic deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin.
+Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin.
 
 False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei.
 
@@ -41,4 +41,4 @@ Because studies cannot rule out the possibility of harm, however, folic acid sho
 ## Nursing Mothers
 
 Folic acid is excreted in the milk of lactating mothers.
-During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in lowbirth-weight infants, in those who are breast-fed by mothers with folic deficiency (50 mcg daily), or in those with infections or prolonged diarrhea.
+During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low-birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 µg daily), or in those with infections or prolonged diarrhea.
