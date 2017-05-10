@@ -1,8 +1,8 @@
-# PATIENT INFORMATION BUSPIRONE HYDROCHLORIDE TABLETS USP (byoo-SPY-rone-HIGH-droe-KLOR-ide)
+# PATIENT INFORMATION BUSPIRONE HYDROCHLORIDE TABLETS (byoo-SPY-rone-HIGH-droe-KLOR-ide)
 
 HOW TO USE:
 
-BusPIRone Hydrochloride Tablets, USP 15 mg and 30 mg
+BusPIRone Hydrochloride Tablets 15 mg and 30 mg
 
 Response to buspirone varies among individuals.
 Your physician may find it necessary to adjust your dosage to obtain the proper response.
@@ -15,30 +15,13 @@ Then, with the tablet score facing you, apply pressure and snap the tablet segme
 
 Manufactured For:
 
-Accord Healthcare, Inc.,
-
-1009 Slater Road,
-
-Suite 210-B,
-
-Durham, NC 27703,
-
-USA.
+Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
 Manufactured By:
 
-Intas Pharmaceuticals Limited,
-
-Plot No.: 457, 458,
-
-Village – Matoda,
-
-Bavla Road, Ta.- Sanand,
-
-Dist.- Ahmedabad – 382 210.
-
+Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210.
 India.
 
-10 9713 0 626412
+10 1652 0 672870
 
-Issued July, 2015.
+Issued December, 2016.
