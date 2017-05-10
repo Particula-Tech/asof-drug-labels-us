@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA091656"
+  ],
+  "inn": "ofloxacin",
+  "labeler": "Cadila Pharmaceuticals Limited",
+  "package_ndcs": [
+    "71209-001-02",
+    "71209-001-05",
+    "71209-001-10",
+    "71209-002-02",
+    "71209-002-05",
+    "71209-002-10",
+    "71209-003-02",
+    "71209-003-05",
+    "71209-003-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ofloxacin",
+      "name": "OFLOXACIN"
+    }
+  ],
+  "setid": "c677b35c-0432-4ee5-af57-1f95449c48b6",
+  "source": "dailymed"
+}
