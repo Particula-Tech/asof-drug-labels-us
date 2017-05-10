@@ -14,7 +14,7 @@ Studies in healthy young animals and in premature infants with patent ductus art
 Similar decreases in mesenteric blood flow and velocity have been observed.
 The clinical significance of these effects has not been established.
 
-In double-blind, placebo-controlled studies of Indomethacin for Injection in 460 small pre-term infants, weighing 1750 g or less, the neonates treated with placebo had a ductus closure rate after 48 hours of 25 to 30 percent, whereas those treated with Indomethacin for Injection had a 75 to 80 percent closure rate.
+In double-blind, placebo-controlled studies of Indomethacin for Injection in 460 small pre-term infants, weighing 1,750 g or less, the neonates treated with placebo had a ductus closure rate after 48 hours of 25 to 30 percent, whereas those treated with Indomethacin for Injection had a 75 to 80 percent closure rate.
 In one of these studies, a multicenter study, involving 405 pre-term infants, later reopening of the ductus arteriosus occurred in 26 percent of neonates treated with Indomethacin for Injection however, 70 percent of these closed subsequently without the need for surgery or additional indomethacin.
 
 ## 12.3 Pharmacokinetics
@@ -23,7 +23,7 @@ The disposition of indomethacin following intravenous administration (0.2 mg/kg)
 Even though the plasma half-life of indomethacin was variable among premature infants, it was shown to vary inversely with postnatal age and weight.
 In one study, of 28 neonates who could be evaluated, the plasma half-life in those less than 7 days old averaged 20 hours (range: 3 to 60 hours, n=18).
 In neonates older than 7 days, the mean plasma half-life of indomethacin was 12 hours (range: 4 to 38 hours, n=10).
-Grouping the neonates by weight, mean plasma half-life in those weighing less than 1000 g was 21 hours (range: 9 to 60 hours, n=10); in those neonates weighing more than 1000 g, the mean plasma half-life was 15 hours (range: 3 to 52 hours, n=18).
+Grouping the neonates by weight, mean plasma half-life in those weighing less than 1,000 g was 21 hours (range: 9 to 60 hours, n=10); in those neonates weighing more than 1,000 g, the mean plasma half-life was 15 hours (range: 3 to 52 hours, n=18).
 
 Following intravenous administration in adults, indomethacin is eliminated via renal excretion, metabolism, and biliary excretion.
 Indomethacin undergoes appreciable enterohepatic circulation.

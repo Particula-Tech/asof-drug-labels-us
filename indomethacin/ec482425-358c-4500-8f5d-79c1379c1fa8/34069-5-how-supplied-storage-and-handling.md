@@ -4,11 +4,11 @@
 
 Sterile Indomethacin for Injection is a lyophilized white to yellow powder or plug supplied as single dose vials containing indomethacin for injection, equivalent to 1 mg indomethacin.
 
-| ProductNo. | NDCNo. |  |
+| Product No. | NDC No. |  |
 | --- | --- | --- |
 | 605903 | 63323-659-03 | 1 mg per vial, Packaged individually. |
 
-This container closure is not made with natural rubber latex.
+The container closure is not made with natural rubber latex.
 
 ## 16.2 Storage
 

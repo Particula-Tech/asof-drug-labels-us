@@ -10,6 +10,3 @@ The pH of the product does not meet the USP monograph [FD&C Act Chapter V, SEC. 
 
 Indomethacin is designated chemically as 1-(4-chlorobenzoyl)-5-methoxy-2-methyl-1H-indole-3-acetic acid.
 The structural formula is:
-
-C19H16ClNO4 M.W.
-357.8
