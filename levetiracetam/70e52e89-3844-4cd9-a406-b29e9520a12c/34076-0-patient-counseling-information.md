@@ -27,8 +27,8 @@ To enroll, patients can call the toll free number 1-888-233-2334 [see Use In Spe
 
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A
 
-Manufactured by: ACS Dobfar Info SA Campascio, Switzerland
+Manufactured by: InfoRLife SA Campascio, Switzerland
 
-Revised: 11/2016 HQ:LEVETIJ:R3
+Revised: 3/2017 HQ:LEVETIJ:R4
 
-L52USLEVET04
+L52USLEVET05
