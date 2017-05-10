@@ -3,7 +3,7 @@
 ## 8.1 Pregnancy
 
 There are no adequate and well-controlled studies in pregnant women.
-Tretinoin Gel Microsphereshould be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Tretinoin Gel Microsphere should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Thirty human cases of temporally associated congenital malformations have been reported during two decades of clinical use of Tretinoin Gel Microsphere, 0.1% and 0.04%.
 Although no definite pattern of teratogenicity and no causal association has been established from these cases, five of the reports describe the rare birth defect category holoprosencephaly (defects associated with incomplete midline development of the forebrain).

@@ -28,7 +28,7 @@ Table 2: Mean Percent Reduction in Lesion Counts Tretinoin Gel Microsphere, 0.04
 |  | Tretinoin Gel Microsphere, 0.04% |  | Vehicle Gel |  |
 | --- | --- | --- | --- | --- |
 |  | Study #1108 pts | Study #2111 pts | Study #1110 pts | Study #2103 pts |
-| Non-inflammatorylesion counts | 37% | 29% | -2% | 14% |
+| Non-inflammatorylesion counts | 37% | 29% | -2%– That is, a mean percent increase of 2% | 14% |
 | Inflammatory lesion counts | 44% | 41% | 13% | 30% |
 | Total lesion counts | 40% | 35% | 8% | 20% |
 
