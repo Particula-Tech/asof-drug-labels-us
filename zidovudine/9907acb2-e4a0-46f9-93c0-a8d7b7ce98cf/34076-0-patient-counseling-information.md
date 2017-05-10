@@ -29,4 +29,4 @@ Missed Dose Instruct patients that if they miss a dose of zidovudine, to take it
 Advise patients not to double their next dose or take more than the prescribed dose [see Dosage and Administration (2)].
 EPIVIR is registered trademark of the ViiV Healthcare group of companies.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 03/2017
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 05/2017

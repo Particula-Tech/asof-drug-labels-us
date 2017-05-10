@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Zidovudine is an anti retroviral agent [see Microbiology (12.4)].
+Zidovudine is an antiretroviral agent [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
