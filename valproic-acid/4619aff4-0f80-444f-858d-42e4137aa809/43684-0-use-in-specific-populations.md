@@ -34,7 +34,7 @@ Clinical Considerations
 - Because of the risks of decreased IQ, neural tube defects, and other fetal adverse events, which may occur very early in pregnancy:
   - Valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
     This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
-  - Depakote Sprinkles should not be used to treat women with epilepsy who are pregnant or who plan to become pregnant unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
+  - Valproate should not be used to treat women with epilepsy who are pregnant or who plan to become pregnant unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
     In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.
     When treating a pregnant woman or a woman of childbearing potential, carefully consider both the potential risks and benefits of treatment and provide appropriate counseling.
 - To prevent major seizures, women with epilepsy should not discontinue valproate abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
@@ -91,14 +91,15 @@ Caution should be exercised when valproate is administered to a nursing woman.
 ## 8.4 Pediatric Use
 
 Experience has indicated that pediatric patients under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions [see Boxed Warning and Warnings and Precautions (5.1)].
-When valproate is used in this patient group, it should be used with extreme caution and as a sole agent.
+When Depakote Sprinkle Capsules are used in this patient group, it should be used with extreme caution and as a sole agent.
 The benefits of therapy should be weighed against the risks.
 Above the age of 2 years, experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
 
 Younger children, especially those receiving enzyme inducing drugs, will require larger maintenance doses to attain targeted total and unbound valproate concentrations.
 Pediatric patients (i.e., between 3 months and 10 years) have 50% higher clearances expressed on weight (i.e., mL/min/kg) than do adults.
 Over the age of 10 years, children have pharmacokinetic parameters that approximate those of adults.
-The variability in free fraction limits the clinical usefulness of monitoring total serum valproic acid concentration.
+
+The variability in free fraction limits the clinical usefulness of monitoring total serum valproic acid concentrations.
 Interpretation of valproic acid concentrations in children should include consideration of factors that affect hepatic metabolism and protein binding.
 
 Pediatric Clinical Trials
@@ -132,11 +133,10 @@ It is not clear whether these events indicate additional risk or whether they re
 A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.14)].
 The starting dose should be reduced in these patients, and dosage reductions or discontinuation should be considered in patients with excessive somnolence [see Dosage and Administration (2.2)].
 
-The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26) [see Clinical Pharmacology (12.3)].
+The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26 years) [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Effect of Disease
 
 Liver Disease
 
-[See Boxed Warning, Contraindications (4), Warnings and Precautions (5), and Clinical Pharmacology (12.3)].
-Liver disease impairs the capacity to eliminate valproate.
+Liver disease impairs the capacity to eliminate valproate [see Boxed Warning, Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].

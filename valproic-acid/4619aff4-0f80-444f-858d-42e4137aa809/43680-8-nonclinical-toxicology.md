@@ -5,7 +5,7 @@
 Carcinogenesis
 
 Valproate was administered orally to rats and mice at doses of 80 and 170 mg/kg/day (less than the maximum recommended human dose on a mg/m2 basis) for two years.
-The primary findings were an increase in the incidence of subcutaneous fibrosarcomas in high dose male rats receiving valproate and a dose-related trend for benign pulmonary adenomas in male mice receiving valproate.
+The primary findings were an increase in the incidence of subcutaneous fibrosarcomas in high‑dose male rats receiving valproate and a dose-related trend for benign pulmonary adenomas in male mice receiving valproate.
 The significance of these findings for humans is unknown.
 
 Mutagenesis

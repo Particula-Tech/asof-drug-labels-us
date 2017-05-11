@@ -26,7 +26,7 @@ To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Spe
 
 Suicidal Thinking and Behavior
 
-Counsel patients, their caregivers, and families that AEDs, including Depakote, may increase the risk of suicidal thoughts and behavior and to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Counsel patients, their caregivers, and families that AEDs, including Depakote Sprinkle Capsules, may increase the risk of suicidal thoughts and behavior and to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Instruct patients, caregivers, and families to report behaviors of concern immediately to the healthcare providers [see Warnings and Precautions (5.7)].
 
 Hyperammonemia
@@ -51,9 +51,9 @@ North Chicago, IL 60064, U.S.A.
 
 ©2017 AbbVie Inc.
 
-Revised: March 2017
+Revised: May 2017
 
-03-B502
+03-B526
 
 Administration Guide
 
@@ -69,11 +69,11 @@ Serving Suggestions
 
 Depakote® Sprinkle Capsules (divalproex sodium delayed release capsules) provide the medicine that your healthcare provider has prescribed.
 The sprinkles are flavorless.
-Soft foods such as applesauce or pudding are best to use for mixing and taking Depakote Sprinkles.
+Soft foods such as applesauce or pudding are best to use for mixing and taking Depakote Sprinkle Capsules.
 
 TO ADMINISTER WITH FOOD:
 
-| 1 |  | Hold the capsule so that the end marked "THIS END UP" is straight up and the arrow on the capsule is up. The capsule is extra large to help prevent spilling the DEPAKOTE Sprinkles, but it still must be handled carefully. |
+| 1 |  | Hold the capsule so that the end marked "THIS END UP" is straight up and the arrow on the capsule is up. The capsule is extra large to help prevent spilling the DEPAKOTE Sprinkle Capsules, but it still must be handled carefully. |
 | --- | --- | --- |
 | 2 |  | To open the capsule, hold it carefully. As shown in the picture, gently twist the capsule apart to separate the top from the bottom. It may be helpful to hold the capsule over the food to which you will add the sprinkles. If you spill any of the capsule contents, start over with a new capsule and a new portion of food. |
 | 3 |  | Place all the sprinkles onto a small amount (about a teaspoonful) of soft food such as applesauce or pudding. |
@@ -99,6 +99,6 @@ North Chicago, IL 60064, U.S.A.
 
 ©2017 AbbVie Inc.
 
-Revised: March 2017
+Revised: May 2017
 
-03-B502
+03-B526

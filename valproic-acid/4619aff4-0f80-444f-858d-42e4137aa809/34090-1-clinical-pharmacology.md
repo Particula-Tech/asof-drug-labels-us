@@ -32,7 +32,7 @@ For example, in single dose studies, the effect of feeding had a greater influen
 While the absorption rate from the G.I. tract and fluctuation in valproate plasma concentrations vary with dosing regimen and formulation, the efficacy of valproate as an anticonvulsant in chronic use is unlikely to be affected.
 Experience employing dosing regimens from once-a-day to four-times-a-day, as well as studies in primate epilepsy models involving constant rate infusion, indicate that total daily systemic bioavailability (extent of absorption) is the primary determinant of seizure control and that differences in the ratios of plasma peak to trough concentrations between valproate formulations are inconsequential from a practical clinical standpoint.
 
-Co-administration of oral valproate products with food and substitution among the various Depakote and DEPAKENE formulations should cause no clinical problems in the management of patients with epilepsy.
+Co-administration of oral valproate products with food and substitution among the various Depakote and Depakene formulations should cause no clinical problems in the management of patients with epilepsy [see Dosage and Administration (2.1)].
 
 Distribution
 
@@ -73,12 +73,12 @@ Effect of Age
 
 Children
 
-Pediatric patients (i.e., between 3 and 10 years) have 50% higher clearances expressed on weight (i.e., mL/min/kg) than do adults.
+Pediatric patients (i.e., between 3 months and 10 years) have 50% higher clearances expressed on weight (i.e., mL/min/kg) than do adults.
 Over the age of 10 years, children have pharmacokinetic parameters that approximate those of adults.
 
 Elderly
 
-The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26).
+The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26 years).
 Intrinsic clearance is reduced by 39%; the free fraction is increased by 44%.
 Accordingly, the initial dosage should be reduced in the elderly [see Dosage and Administration (2.2)].
 

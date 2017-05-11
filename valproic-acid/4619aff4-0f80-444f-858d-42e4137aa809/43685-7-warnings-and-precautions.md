@@ -9,7 +9,7 @@ These incidents usually have occurred during the first six months of treatment.
 Serious or fatal hepatotoxicity may be preceded by non-specific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
 In patients with epilepsy, a loss of seizure control may also occur.
 Patients should be monitored closely for appearance of these symptoms.
-Serum liver tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months.
+Serum liver tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months of valproate therapy.
 However, healthcare providers should not rely totally on serum biochemistry since these tests may not be abnormal in all instances, but should also consider the results of careful interim medical history and physical examination.
 
 Caution should be observed when administering valproate products to patients with a prior history of hepatic disease.
@@ -17,7 +17,7 @@ Patients on multiple anticonvulsants, children, those with congenital metabolic 
 See below, “Patients with Known or Suspected Mitochondrial Disease.”
 
 Experience has indicated that children under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions.
-When Depakote is used in this patient group, it should be used with extreme caution and as a sole agent.
+When Depakote Sprinkle Capsules are used in this patient group, it should be used with extreme caution and as a sole agent.
 The benefits of therapy should be weighed against the risks.
 In progressively older patient groups experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably.
 
@@ -40,7 +40,7 @@ In some cases, hepatic dysfunction has progressed in spite of discontinuation of
 ## 5.2 Birth Defects
 
 Valproate can cause fetal harm when administered to a pregnant woman.
-Pregnancy registry data show maternal valproate use can cause neural tube defects and other structural abnormalities (e.g., craniofacial defects, cardiovascular malformations, hypospadias, limb malformations).
+Pregnancy registry data show that maternal valproate use can cause neural tube defects and other structural abnormalities (e.g., craniofacial defects, cardiovascular malformations, hypospadias, limb malformations).
 The rate of congenital malformations among babies born to mothers using valproate is about four times higher than the rate among babies born to epileptic mothers using other anti-seizure monotherapies.
 Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
 
@@ -84,19 +84,20 @@ Some cases have occurred shortly after initial use as well as after several year
 The rate based upon the reported cases exceeds that expected in the general population and there have been cases in which pancreatitis recurred after rechallenge with valproate.
 In clinical trials, there were 2 cases of pancreatitis without alternative etiology in 2,416 patients, representing 1,044 patient-years experience.
 Patients and guardians should be warned that abdominal pain, nausea, vomiting, and/or anorexia can be symptoms of pancreatitis that require prompt medical evaluation.
-If pancreatitis is diagnosed, Depakote should ordinarily be discontinued.
+If pancreatitis is diagnosed, Depakote Sprinkle Capsules should ordinarily be discontinued.
 Alternative treatment for the underlying medical condition should be initiated as clinically indicated [see Boxed Warning].
 
 ## 5.6 Urea Cycle Disorders
 
-Depakote is contraindicated in patients with known urea cycle disorders (UCD).
+Depakote Sprinkle Capsules are contraindicated in patients with known urea cycle disorders (UCD).
+
 Hyperammonemic encephalopathy, sometimes fatal, has been reported following initiation of valproate therapy in patients with urea cycle disorders, a group of uncommon genetic abnormalities, particularly ornithine transcarbamylase deficiency.
-Prior to the initiation of Depakote therapy, evaluation for UCD should be considered in the following patients: 1) those with a history of unexplained encephalopathy or coma, encephalopathy associated with a protein load, pregnancy-related or postpartum encephalopathy, unexplained mental retardation, or history of elevated plasma ammonia or glutamine; 2) those with cyclical vomiting and lethargy, episodic extreme irritability, ataxia, low BUN, or protein avoidance; 3) those with a family history of UCD or a family history of unexplained infant deaths (particularly males); 4) those with other signs or symptoms of UCD.
+Prior to the initiation of Depakote Sprinkle Capsules therapy, evaluation for UCD should be considered in the following patients: 1) those with a history of unexplained encephalopathy or coma, encephalopathy associated with a protein load, pregnancy-related or postpartum encephalopathy, unexplained mental retardation, or history of elevated plasma ammonia or glutamine; 2) those with cyclical vomiting and lethargy, episodic extreme irritability, ataxia, low BUN, or protein avoidance; 3) those with a family history of UCD or a family history of unexplained infant deaths (particularly males); 4) those with other signs or symptoms of UCD.
 Patients who develop symptoms of unexplained hyperammonemic encephalopathy while receiving valproate therapy should receive prompt treatment (including discontinuation of valproate therapy) and be evaluated for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.10)].
 
 ## 5.7 Suicidal Behavior and Ideation
 
-Antiepileptic drugs (AEDs), including Depakote, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Antiepileptic drugs (AEDs), including Depakote Sprinkle Capsules, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
@@ -124,7 +125,7 @@ Risk by indication for antiepileptic drugs in the pooled analysis
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
 
-Anyone considering prescribing Depakote or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
+Anyone considering prescribing Depakote Sprinkle Capsules or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
@@ -142,13 +143,13 @@ The therapeutic benefit which may accompany the higher doses should therefore be
 Valproate use has also been associated with decreases in other cell lines and myelodysplasia.
 
 Because of reports of cytopenias, inhibition of the secondary phase of platelet aggregation, and abnormal coagulation parameters, (e.g., low fibrinogen, coagulation factor deficiencies, acquired von Willebrand’s disease), measurements of complete blood counts and coagulation tests are recommended before initiating therapy and at periodic intervals.
-It is recommended that patients receiving Depakote be monitored for blood counts and coagulation parameters prior to planned surgery and during pregnancy [see Use in Specific Populations (8.1)].
+It is recommended that patients receiving Depakote Sprinkle Capsules be monitored for blood counts and coagulation parameters prior to planned surgery and during pregnancy [see Use in Specific Populations (8.1)].
 Evidence of hemorrhage, bruising, or a disorder of hemostasis/coagulation is an indication for reduction of the dosage or withdrawal of therapy.
 
 ## 5.9 Hyperammonemia
 
 Hyperammonemia has been reported in association with valproate therapy and may be present despite normal liver function tests.
-In patients who develop unexplained lethargy and vomiting or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured [see Contraindications (4) and Warnings and Precautions (5.6, 5.10)].
+In patients who develop unexplained lethargy and vomiting or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
 Hyperammonemia should also be considered in patients who present with hypothermia [see Warnings and Precautions (5.11)].
 If ammonia is increased, valproate therapy should be discontinued.
 Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.6, 5.10)].
@@ -156,13 +157,13 @@ Appropriate interventions for treatment of hyperammonemia should be initiated, a
 Asymptomatic elevations of ammonia are more common and when present, require close monitoring of plasma ammonia levels.
 If the elevation persists, discontinuation of valproate therapy should be considered.
 
-## 5.10 Hyperammonemia and Encephalopathy associated with Concomitant Topiramate Use
+## 5.10 Hyperammonemia and Encephalopathy Associated with Concomitant Topiramate Use
 
 Concomitant administration of topiramate and valproate has been associated with hyperammonemia with or without encephalopathy in patients who have tolerated either drug alone.
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
 Hypothermia can also be a manifestation of hyperammonemia [see Warnings and Precautions (5.11)].
 In most cases, symptoms and signs abated with discontinuation of either drug.
-This adverse event is not due to a pharmacokinetic interaction.
+This adverse reaction is not due to a pharmacokinetic interaction.
 Patients with inborn errors of metabolism or reduced hepatic mitochondrial activity may be at an increased risk for hyperammonemia with or without encephalopathy.
 Although not studied, an interaction of topiramate and valproate may exacerbate existing defects or unmask deficiencies in susceptible persons.
 In patients who develop unexplained lethargy, vomiting, or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured [see Contraindications (4) and Warnings and Precautions (5.6, 5.9)].
@@ -210,7 +211,7 @@ Since valproate may interact with concurrently administered drugs which are capa
 Valproate is partially eliminated in the urine as a keto-metabolite which may lead to a false interpretation of the urine ketone test.
 
 There have been reports of altered thyroid function tests associated with valproate.
-The clinical significance of these is unknown [see Adverse Reactions (6.2)].
+The clinical significance of these is unknown.
 
 ## 5.17 Effect on HIV and CMV Viruses Replication
 

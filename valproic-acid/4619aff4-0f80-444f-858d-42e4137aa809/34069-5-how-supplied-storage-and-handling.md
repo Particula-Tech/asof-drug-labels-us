@@ -2,6 +2,4 @@
 
 Depakote Sprinkle Capsules (divalproex sodium delayed release capsules), for oral use 125 mg, are white opaque and blue, and are supplied in bottles of 100 (NDC 0074-6114-13) and Unit Dose Packages of 100 (NDC 0074-6114-11).
 
-Recommended Storage
-
-Store capsules below 77°F (25°C).
+Recommended Storage: Store capsules below 77°F (25°C).
