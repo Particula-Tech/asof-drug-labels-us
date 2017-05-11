@@ -1,3 +1,1 @@
-SAGENTTM
-
-Rx only
+SAGENT® Rx only

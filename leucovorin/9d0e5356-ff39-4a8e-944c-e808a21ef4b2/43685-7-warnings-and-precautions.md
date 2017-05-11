@@ -1,18 +1,17 @@
 # WARNINGS
 
 In the treatment of accidental overdosages of folic acid antagonists, intravenous leucovorin should be administered as promptly as possible.
-As the time interval between antifolate administration [e.g., methotrexate (MTX)] and leucovorin rescue increases, leucovorin's effectiveness in counteracting toxicity decreases.
+As the time interval between antifolate administration (e.g., methotrexate) and leucovorin rescue increases, leucovorin's effectiveness in counteracting toxicity decreases.
 In the treatment of accidental overdosages of intrathecally administered folic acid antagonists, do not administer leucovorin intrathecally.
 LEUCOVORIN MAY BE HARMFUL OR FATAL IF GIVEN INTRATHECALLY.
 
-Monitoring of the serum MTX concentration is essential in determining the optimal dose and duration of treatment with leucovorin.
+Monitoring of the serum methotrexate concentration is essential in determining the optimal dose and duration of treatment with leucovorin.
 
-Delayed MTX excretion may be caused by a third space fluid accumulation (i.e., ascites, pleural effusion), renal insufficiency, or inadequate hydration.
+Delayed methotrexate excretion may be caused by a third space fluid accumulation (i.e., ascites, pleural effusion), renal insufficiency, or inadequate hydration.
 Under such circumstances, higher doses of leucovorin or prolonged administration may be indicated.
 Doses higher than those recommended for oral use must be given intravenously.
 
-Because of the benzyl alcohol contained in certain diluents used for Leucovorin Calcium for Injection, when doses greater than 10 mg/m2 are administered, Leucovorin Calcium for Injection should be reconstituted with Sterile Water for Injection, USP, and used immediately.
-(See DOSAGE AND ADMINISTRATION.)
+Because of the benzyl alcohol contained in certain diluents used for reconstituting Leucovorin Calcium for Injection, when doses greater than 10 mg/m2 are administered, Leucovorin Calcium for Injection should be reconstituted with Sterile Water for Injection, USP, and used immediately (see DOSAGE AND ADMINISTRATION).
 
 Because of the calcium content of the leucovorin solution, no more than 160 mg of leucovorin should be injected intravenously per minute (16 mL of a 10 mg/mL, or 8 mL of a 20 mg/mL solution per minute).
 
@@ -22,9 +21,9 @@ Although the toxicities observed in patients treated with the combination of leu
 
 In the first Mayo/NCCTG controlled trial, toxicity, primarily gastrointestinal, resulted in 7% of patients requiring hospitalization when treated with 5-fluorouracil alone or 5-fluorouracil in combination with 200 mg/m2 of leucovorin and 20% when treated with 5-fluorouracil in combination with 20 mg/m2 of leucovorin.
 In the second Mayo/NCCTG trial, hospitalizations related to treatment toxicity also appeared to occur more often in patients treated with the low dose leucovorin/5-fluorouracil combination than in patients treated with the high dose combination — 11% versus 3%.
-Therapy with leucovorin/5-fluorouracil must not be initiated or continued in patients who have symptoms of gastrointestinal toxicity of any severity, until those symptoms have completely resolved.
+Therapy with leucovorin and 5-fluorouracil must not be initiated or continued in patients who have symptoms of gastrointestinal toxicity of any severity, until those symptoms have completely resolved.
 Patients with diarrhea must be monitored with particular care until the diarrhea has resolved, as rapid clinical deterioration leading to death can occur.
-In an additional study utilizing higher weekly doses of 5-FU and leucovorin, elderly and/or debilitated patients were found to be at greater risk for severe gastrointestinal toxicity.
+In an additional study utilizing higher weekly doses of 5-fluorouracil and leucovorin, elderly and/or debilitated patients were found to be at greater risk for severe gastrointestinal toxicity.
 
 Seizures and/or syncope have been reported rarely in cancer patients receiving leucovorin, usually in association with fluoropyrimidine administration, and most commonly in those with CNS metastases or other predisposing factors, however, a causal relationship has not been established.
 
@@ -35,7 +34,7 @@ The concomitant use of leucovorin with trimethoprim-sulfamethoxazole for the acu
 ## General
 
 Parenteral administration is preferable to oral dosing if there is a possibility that the patient may vomit and not absorb the leucovorin.
-Leucovorin has no effect on non-hematologic toxicities of MTX, such as the nephrotoxicity resulting from drug and/or metabolite precipitation in the kidney.
+Leucovorin has no effect on non-hematologic toxicities of methotrexate such as the nephrotoxicity resulting from drug and/or metabolite precipitation in the kidney.
 
 Since leucovorin enhances the toxicity of fluorouracil, leucovorin/5-fluorouracil combination therapy for advanced colorectal cancer should be administered under the supervision of a physician experienced in the use of antimetabolite cancer chemotherapy.
 Particular care should be taken in the treatment of elderly or debilitated colorectal cancer patients, as these patients may be at increased risk of severe toxicity.
@@ -49,11 +48,11 @@ Dosage modifications of fluorouracil should be instituted as follows, based on t
 
 | Diarrhea and/or Stomatitis | WBC/mm3 Nadir | Platelets/mm3 Nadir | 5-FU Dose |
 | --- | --- | --- | --- |
-| Moderate | 1,000-1,900 | 25-75,000 | decrease 20% |
+| Moderate | 1,000 - 1,900 | 25 - 75,000 | decrease 20% |
 | Severe | < 1,000 | < 25,000 | decrease 30% |
 
 If no toxicity occurs, the 5-fluorouracil dose may increase 10%.
-Treatment should be deferred until WBC's are 4,000/mm3 and platelets 130,000/mm3.
+Treatment should be deferred until WBCs are 4,000/mm3 and platelets 130,000/mm3.
 If blood counts do not reach these levels within two weeks, treatment should be discontinued.
 Patients should be followed up with physical examination prior to each treatment course and appropriate radiological examination as needed.
 Treatment should be discontinued when there is clear evidence of tumor progression.
@@ -65,8 +64,7 @@ Folic acid in large amounts may counteract the antiepileptic effect of phenobarb
 Preliminary animal and human studies have shown that small quantities of systemically administered leucovorin enter the CSF primarily as 5-methyltetrahydrofolate and, in humans, remain 1 to 3 orders of magnitude lower than the usual methotrexate concentrations following intrathecal administration.
 However, high doses of leucovorin may reduce the efficacy of intrathecally administered methotrexate.
 
-Leucovorin may enhance the toxicity of 5-fluorouracil.
-(See WARNINGS.)
+Leucovorin may enhance the toxicity of 5-fluorouracil (see WARNINGS).
 
 ## Pregnancy
 
@@ -85,11 +83,11 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use
 
-See Drug Interactions.
+See PRECAUTIONS, Drug Interactions.
 
 ## Geriatric Use
 
-Clinical studies of Leucovorin Calcium did not show differences in safety or effectiveness between subjects over 65 and younger subjects.
+Clinical studies of leucovorin calcium did not show differences in safety or effectiveness between subjects over 65 and younger subjects.
 Other clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older patients cannot be ruled out.
 This drug is known to be excreted by the kidney and the risk of toxic reactions to the drug may be greater in patients with impaired renal function.
 Because elder patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

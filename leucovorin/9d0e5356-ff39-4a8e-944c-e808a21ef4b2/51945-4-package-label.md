@@ -8,7 +8,7 @@ Leucovorin Calcium for Injection
 
 50 mg per vial
 
-For IV or IM Use
+For Intravenous or Intramuscular Use
 
 Must Be Diluted
 
@@ -26,7 +26,7 @@ Leucovorin Calcium for Injection
 
 100 mg per vial
 
-For IV or IM Use
+For Intravenous or Intramuscular Use
 
 Must Be Diluted
 
@@ -44,7 +44,7 @@ Leucovorin Calcium for Injection
 
 200 mg per vial
 
-For IV or IM Use
+For Intravenous or Intramuscular Use
 
 Must Be Diluted
 
@@ -62,7 +62,7 @@ Leucovorin Calcium for Injection
 
 350 mg per vial
 
-For IV or IM Use
+For Intravenous or Intramuscular Use
 
 Must Be Diluted
 

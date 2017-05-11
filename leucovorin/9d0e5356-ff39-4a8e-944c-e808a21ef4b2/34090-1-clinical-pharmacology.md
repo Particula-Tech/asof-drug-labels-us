@@ -1,8 +1,8 @@
 # CLINICAL PHARMACOLOGY
 
 Leucovorin is a mixture of the diastereoisomers of the 5-formyl derivative of tetrahydrofolic acid (THF).
-The biologically active compound of the mixture is the (-)-l-isomer, known as Citrovorum factor, or (-)-folinic acid.
-Leucovorin does not require reduction by the enzyme dihydrofolate reductase in order to participate in reactions utilizing folates as a source of “one-carbon” moieties. l-Leucovorin (l-5-formyltetrahydrofolate) is rapidly metabolized (via 5,10-methenyltetrahydrofolate then 5,10-methylenetetrahydrofolate) to l-5-methyltetrahydrofolate. l-5-Methyltetrahydrofolate can in turn be metabolized via other pathways back to 5,10-methylenetetrahydrofolate, which is converted to 5-methyltetrahydrofolate by an irreversible, enzyme catalyzed reduction using the cofactors FADH2 and NADPH.
+The biologically active compound of the mixture is the (-)-l-isomer, known as Citrovorum factor or (-)-folinic acid.
+Leucovorin does not require reduction by the enzyme dihydrofolate reductase in order to participate in reactions utilizing folates as a source of “one-carbon” moieties. l-Leucovorin (l-5-formyltetrahydrofolate) is rapidly metabolized (via 5, 10-methenyltetrahydrofolate then 5, 10-methylenetetrahydrofolate) to l,5-methyltetrahydrofolate. l,5-Methyltetrahydrofolate can in turn be metabolized via other pathways back to 5, 10-methylenetetrahydrofolate, which is converted to 5-methyltetrahydrofolate by an irreversible, enzyme catalyzed reduction using the cofactors FADH2 and NADPH.
 
 Administration of leucovorin can counteract the therapeutic and toxic effects of folic acid antagonists such as methotrexate, which act by inhibiting dihydrofolate reductase.
 
@@ -46,18 +46,18 @@ The apparent bioavailability of leucovorin was 97% for 25 mg, 75% for 50 mg, and
 
 In a randomized clinical study conducted by the Mayo Clinic and the North Central Cancer Treatment Group (Mayo/NCCTG) in patients with advanced metastatic colorectal cancer three treatment regimens were compared: Leucovorin (LV) 200 mg/m2 and 5-fluorouracil (5-FU) 370 mg/m2 versus LV 20 mg/m2 and 5-FU 425 mg/m2 versus 5-FU 500 mg/m2.
 All drugs were administered by slow intravenous infusion daily for 5 days repeated every 28 to 35 days.
-Response rates were 26% (p = 0.04 versus 5-FU alone), 43% (p = 0.001 versus 5-FU alone) and 10% for the high dose leucovorin, low dose leucovorin and 5-FU alone groups respectively.
-Respective median survival times were 12.2 months (p = 0.037), 12 months (p = 0.050), and 7.7 months.
+Response rates were 26% (p=0.04 versus 5-FU alone), 43% (p=0.001 versus 5-FU alone) and 10% for the high dose leucovorin, low dose leucovorin and 5-FU alone groups respectively.
+Respective median survival times were 12.2 months (p=0.037), 12 months (p=0.050), and 7.7 months.
 The low dose LV regimen gave a statistically significant improvement in weight gain of more than 5%, relief of symptoms, and improvement in performance status.
 The high dose LV regimen gave a statistically significant improvement in performance status and trended toward improvement in weight gain and in relief of symptoms but these were not statistically significant.
 
 In a second Mayo/NCCTG randomized clinical study the 5-FU alone arm was replaced by a regimen of sequentially administered methotrexate (MTX), 5-FU, and LV.
-Response rates with LV 200 mg/m2 and 5-FU 370 mg/m2 versus LV 20 mg/m2 and 5-FU 425 mg/m2 versus sequential MTX and 5-FU and LV were respectively 31% (p = < 0.01), 42% (p = < 0.01), and 14%.
-Respective median survival times were 12.7 months (p = < 0.04), 12.7 months (p = < 0.01), and 8.4 months.
+Response rates with LV 200 mg/m2 and 5-FU 370 mg/m2 versus LV 20 mg/m2 and 5-FU 425 mg/m2 versus sequential MTX and 5-FU and LV were respectively 31% (p=<0.01), 42% (p=<0.01), and 14%.
+Respective median survival times were 12.7 months (p=<0.04), 12.7 months (p=<0.01), and 8.4 months.
 No statistically significant difference in weight gain of more than 5% or in improvement in performance status was seen between the treatment arms.
 
-The pharmacokinetics of 200 mg doses of Leucovorin administered intravenously and orally (reconstituted powder, not tablets) have been evaluated.
-The serum clearance corrected for bioavailability, terminal half-life, and apparent volume of distribution of total folate were not significantly different between the routes of administration.
+The pharmacokinetics of 200 mg doses of leucovorin administered intravenously and orally (reconstituted powder, not tablets) have been evaluated in healthy male subjects.
+The serum clearance corrected for bioavailability, terminal half-life, and apparent volume of distribution of total folate were not significantly different between routes of administration.
 The oral bioavailability of the 200 mg dose was 31%.
 Eighty-three percent of the biologically active IV dose was recovered in the urine within 24 hours, 31% as 5-methyltetrahydrofolate.
-Twenty percent of the same oral dose was excreted in 24 hours, 16% as 5-methyltetrahydrofolate.1
+Twenty percent of the same oral dose was excreted in 24 hours, 16% as 5-methyltetrahydrofolate.

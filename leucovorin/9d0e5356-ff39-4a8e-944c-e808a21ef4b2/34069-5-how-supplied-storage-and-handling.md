@@ -17,5 +17,12 @@ Store dry product and reconstituted solution at 20° to 25°C (68° to 77°F); e
 Protect from light.
 Retain in carton until time of use.
 
+Lyophilized.
+
 Sterile, Nonpyrogenic, Preservative-free.
+
 The container closure is not made with natural rubber latex.
+
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2016 Sagent Pharmaceuticals, Inc.
+
+Revised: April 2016

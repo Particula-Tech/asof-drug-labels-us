@@ -1,12 +1,12 @@
 # ADVERSE REACTIONS
 
-Allergic sensitization, including anaphylactoid reactions and urticaria, has been reported following administration of both oral and parenteral leucovorin.
+Allergic sensitization, including anaphylactoid reactions and urticaria, has been reported following the administration of both oral and parenteral leucovorin.
 No other adverse reactions have been attributed to the use of leucovorin per se.
 
-Table 1 summarizes significant adverse events occurring in 316 patients treated with the leucovorin/5-fluorouracil combinations compared against 70 patients treated with 5-fluorouracil alone for advanced colorectal carcinoma.
+The following table summarizes significant adverse events occurring in 316 patients treated with the leucovorin/5-fluorouracil combinations compared against 70 patients treated with 5-fluorouracil alone for advanced colorectal carcinoma.
 These data are taken from the Mayo/NCCTG large multicenter prospective trial evaluating the efficacy and safety of the combination regimen.
 
-TABLE 1 PERCENTAGE OF PATIENTS TREATED WITH LEUCOVORIN/FLUOROURACIL FOR ADVANCED COLORECTAL CARCINOMA REPORTING ADVERSE EXPERIENCES OR HOSPITALIZED FOR TOXICITY
+PERCENTAGE OF PATIENTS TREATED WITH LEUCOVORIN/FLUOROURACIL FOR ADVANCED COLORECTAL CARCINOMA REPORTING ADVERSE EXPERIENCES OR HOSPITALIZED FOR TOXICITY
 
 |  | (High LV)/5-FU (N=155) |  | (Low LV)/5-FU (N=161) |  | 5-FU Alone (N=70) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -25,14 +25,8 @@ TABLE 1 PERCENTAGE OF PATIENTS TREATED WITH LEUCOVORIN/FLUOROURACIL FOR ADVANCED
 | Dermatitis | 21 | 2 | 25 | 1 | 13 | - |
 | Anorexia | 14 | 1 | 22 | 4 | 14 | - |
 | Hospitalization for Toxicity | 5% |  | 15% |  | 7% |  |
-| High LV = Leucovorin 200 mg/m2, Low LV = Leucovorin 20 mg/m2 Any = percentage of patients reporting toxicity of any severityGrade 3+ = percentage of patients reporting toxicity of grade 3 or higher |  |  |  |  |  |  |
-
-TABLE 2 GUIDELINES FOR LEUCOVORIN DOSAGE AND ADMINISTRATION DO NOT ADMINISTER LEUCOVORIN INTRATHECALLY
-
-| Clinical Situation | Laboratory Findings | Leucovorin Dosage and Duration |
-| --- | --- | --- |
-| Normal Methotrexate Elimination | Serum methotrexate level approximately 10 micromolar at 24 hours after administration, 1 micromolar at 48 hours, and less than 0.2 micromolar at 72 hours. | 15 mg PO, IM, or IV q 6 hours for 60 hours (10 doses starting at 24 hours after start of methotrexate infusion). |
-| Delayed Late Methotrexate Elimination | Serum methotrexate level remaining above 0.2 micromolar at 72 hours, and more than 0.05 micromolar at 96 hours after administration. | Continue 15 mg PO, IM, or IV q 6 hours, until methotrexate level is less than 0.05 micromolar. |
-| Delayed Early Methotrexate Elimination and/or Evidence of Acute Renal Injury | Serum methotrexate level of 50 micromolar or more at 24 hours, or 5 micromolar or more at 48 hours after administration, OR; a 100% or greater increase in serum creatinine level at 24 hours after methotrexate administration (e.g., an increase from 0.5 mg/dL to a level of 1 mg/dL or more) | 150 mg IV q 3 hours, until methotrexate level is less than 1 micromolar; then 15 mg IV q 3 hours until methotrexate level is less than 0.05 micromolar. |
+| High LV = Leucovorin 200 mg/m2, Low LV = Leucovorin 20 mg/m2 |  |  |  |  |  |  |
+| Any = percentage of patients reporting toxicity of any severity |  |  |  |  |  |  |
+| Grade 3+ = percentage of patients reporting toxicity of Grade 3 or higher |  |  |  |  |  |  |
 
 To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals, Inc. at 1-866-625-1618 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
