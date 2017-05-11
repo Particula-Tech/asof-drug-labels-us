@@ -94,7 +94,7 @@ Caution should be exercised when valproate is administered to a nursing woman.
 ## 8.4 Pediatric Use
 
 Experience has indicated that pediatric patients under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions [see Boxed Warning and Warnings and Precautions (5.1)].
-When valproate is used in this patient group, it should be used with extreme caution and as a sole agent.
+When Depakote is used in this patient group, it should be used with extreme caution and as a sole agent.
 The benefits of therapy should be weighed against the risks.
 Above the age of 2 years, experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
 

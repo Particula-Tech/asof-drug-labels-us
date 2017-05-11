@@ -24,6 +24,4 @@ Bottles of 500……………………………………….(NDC 0074-6215-53)
 
 Unit Dose Packages of 100................……………...(NDC 0074-6215-11)
 
-Recommended storage
-
-Store tablets below 86°F (30°C).
+Recommended Storage: Store tablets below 86°F (30°C).

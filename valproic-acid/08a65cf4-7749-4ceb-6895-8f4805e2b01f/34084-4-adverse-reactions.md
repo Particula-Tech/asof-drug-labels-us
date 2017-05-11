@@ -36,10 +36,10 @@ Adverse Reactions Reported by > 5% of Depakote-Treated Patients During Placebo-C
 | Vomiting | 12% | 3% |
 | Accidental Injury | 11% | 5% |
 | Asthenia | 10% | 7% |
-| Abdominal pain | 9% | 8% |
+| Abdominal Pain | 9% | 8% |
 | Dyspepsia | 9% | 8% |
 | Rash | 6% | 3% |
-| 1. The following adverse reactions occurred at an equal or greater incidence for placebo than for Depakote: back pain, headache, constipation, diarrhea, tremor, and pharyngitis. |  |  |
+| 1 The following adverse reactions occurred at an equal or greater incidence for placebo than for Depakote: back pain, headache, constipation, diarrhea, tremor, and pharyngitis. |  |  |
 
 The following additional adverse reactions were reported by greater than 1% but not more than 5% of the 89 Depakote-treated patients in controlled clinical trials:
 
@@ -151,7 +151,7 @@ Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the C
 | Special Senses |  |  |
 | Amblyopia/Blurred Vision | 8 | 4 |
 | Tinnitus | 7 | 1 |
-| 1. Headache was the only adverse reaction that occurred in ≥ 5% of patients in the high dose group and at an equal or greater incidence in the low dose group. |  |  |
+| 1 Headache was the only adverse reaction that occurred in ≥ 5% of patients in the high dose group and at an equal or greater incidence in the low dose group. |  |  |
 
 The following additional adverse reactions were reported by greater than 1% but less than 5% of the 358 patients treated with valproate in the controlled trials of complex partial seizures:
 
@@ -196,18 +196,18 @@ Adverse Reactions Reported by > 5% of Depakote-Treated Patients During Migraine 
 | Dyspepsia | 13% | 9% |
 | Diarrhea | 12% | 7% |
 | Vomiting | 11% | 1% |
-| Abdominal pain | 9% | 4% |
-| Increased appetite | 6% | 4% |
+| Abdominal Pain | 9% | 4% |
+| Increased Appetite | 6% | 4% |
 | Nervous System |  |  |
 | Asthenia | 20% | 9% |
 | Somnolence | 17% | 5% |
 | Dizziness | 12% | 6% |
 | Tremor | 9% | 0% |
 | Other |  |  |
-| Weight gain | 8% | 2% |
-| Back pain | 8% | 6% |
+| Weight Gain | 8% | 2% |
+| Back Pain | 8% | 6% |
 | Alopecia | 7% | 1% |
-| 1. The following adverse reactions occurred in at least 5% of Depakote-treated patients and at an equal or greater incidence for placebo than for Depakote: flu syndrome and pharyngitis. |  |  |
+| 1 The following adverse reactions occurred in at least 5% of Depakote-treated patients and at an equal or greater incidence for placebo than for Depakote: flu syndrome and pharyngitis. |  |  |
 
 The following additional adverse reactions were reported by greater than 1% but not more than 5% of the 202 Depakote-treated patients in the controlled clinical trials:
 
@@ -242,14 +242,14 @@ Dermatologic: Hair texture changes, hair color changes, photosensitivity, erythe
 
 Psychiatric: Emotional upset, psychosis, aggression, psychomotor hyperactivity, hostility, disturbance in attention, learning disorder, and behavioral deterioration.
 
-Neurologic: There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
+Neurologic: Paradoxical convulsion There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
 
 There have been reports of acute or subacute encephalopathy in the absence of elevated ammonia levels, elevated valproate levels, or neuroimaging changes.
 The encephalopathy reversed partially or fully after valproate discontinuation.
 
 Musculoskeletal: Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weakness.
 
-Hematologic: Relative lymphocytosis, macrocytosis, leucopenia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
+Hematologic: Relative lymphocytosis, macrocytosis, leukopenia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
 Endocrine: Irregular menses, secondary amenorrhea, hyperandrogenism, hirsutism, elevated testosterone level, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
 
