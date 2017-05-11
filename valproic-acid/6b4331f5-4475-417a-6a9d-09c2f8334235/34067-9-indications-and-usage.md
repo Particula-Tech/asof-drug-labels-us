@@ -8,7 +8,7 @@ Depakene (valproic acid) is indicated for use as sole and adjunctive therapy in 
 Simple absence is defined as very brief clouding of the sensorium or loss of consciousness accompanied by certain generalized epileptic discharges without other detectable clinical signs.
 Complex absence is the term used when other signs are also present.
 
-See Warnings and Precaution (5.1) for statement regarding fatal hepatic dysfunction.
+See Warnings and Precautions (5.1) for statement regarding fatal hepatic dysfunction.
 
 ## 1.2 Important Limitations
 

@@ -20,7 +20,7 @@ Advise patients to read the Medication Guide, which appears as the last section 
 
 Advise women of childbearing potential to discuss pregnancy planning with their doctor and to contact their doctor immediately if they think they are pregnant.
 
-Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
@@ -43,7 +43,7 @@ Instruct patients that a fever associated with other organ system involvement (r
 
 ©2017 AbbVie Inc.
 
-Revised: March 2017
+Revised: May 2017
 
 Depakene Capsules
 
@@ -51,7 +51,7 @@ Mfd. by Banner Pharmacaps, Inc., High Point, NC 27265 U.S.A.
 
 For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
-Depakene Oral solution
+Depakene Oral Solution
 
 Mfd. by AbbVie Inc., North Chicago, IL 60064, U.S.A.
 

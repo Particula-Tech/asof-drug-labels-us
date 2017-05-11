@@ -19,15 +19,17 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 
 The data described in the following section were obtained using Depakote (divalproex sodium) tablets.
 
-Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, Depakote was generally well tolerated with most adverse reactions rated as mild to moderate in severity.
+Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, Depakote (divalproex sodium) was generally well tolerated with most adverse reactions rated as mild to moderate in severity.
 Intolerance was the primary reason for discontinuation in the Depakote-treated patients (6%), compared to 1% of placebo-treated patients.
 
-Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5% of Depakote-treated patients and for which the incidence was greater than in the placebo group, in a placebo-controlled trial of adjunctive therapy for the treatment of complex partial seizures.
+Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5% of Depakote-treated patients and for which the incidence was greater than in the placebo group, in a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
 Since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases, to determine whether the following adverse reactions can be ascribed to Depakote alone, or the combination of Depakote and other antiepilepsy drugs.
 
-| Table 3. Adverse Reactions Reported by ≥ 5% of Patients Treated with Depakote During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures |  |  |
-| --- | --- | --- |
+Table 3.
+Adverse Reactions Reported by ≥ 5% of Patients Treated with Depakote During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
+
 | Body System/Reaction | Depakote (%) (n = 77) | Placebo (%) (n = 70) |
+| --- | --- | --- |
 | Body as a Whole |  |  |
 | Headache | 31 | 21 |
 | Asthenia | 27 | 7 |
@@ -63,9 +65,11 @@ Since patients were also treated with other antiepilepsy drugs, it is not possib
 Table 4 lists treatment-emergent adverse reactions which were reported by ≥ 5% of patients in the high dose Depakote group, and for which the incidence was greater than in the low dose group, in a controlled trial of Depakote monotherapy treatment of complex partial seizures.
 Since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases, to determine whether the following adverse reactions can be ascribed to Depakote alone, or the combination of Depakote and other antiepilepsy drugs.
 
-| Table 4. Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Depakote Monotherapy for Complex Partial Seizures1 |  |  |
-| --- | --- | --- |
+Table 4.
+Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Depakote Monotherapy for Complex Partial Seizures1
+
 | Body System/Reaction | High Dose (%) (n = 131) | Low Dose (%) (n = 134) |
+| --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 21 | 10 |
 | Digestive System |  |  |
@@ -127,7 +131,7 @@ Urogenital System: Urinary incontinence, vaginitis, dysmenorrhea, amenorrhea, ur
 
 ## 6.2 Mania
 
-Although Depakene has not been evaluated for safety and efficacy in the treatment of manic episodes associated with bipolar disorder, the following adverse reactions not listed above were reported by 1% or more of patients from two placebo-controlled clinical trials of Depakote tablets.
+Although Depakene has not been evaluated for safety and efficacy in the treatment of manic episodes associated with bipolar disorder, the following adverse reactions not listed above were reported by 1% or more of patients from two placebo-controlled clinical trials of Depakote (divalproex sodium) tablets.
 
 Body as a Whole: Chills, neck pain, neck rigidity.
 
@@ -147,7 +151,7 @@ Urogenital System: Dysuria.
 
 ## 6.3 Migraine
 
-Although Depakene has not been evaluated for safety and efficacy in the treatment of prophylaxis of migraine headaches, the following adverse reactions not listed above were reported by 1% or more of patients from two placebo-controlled clinical trials of Depakote tablets.
+Although Depakene has not been evaluated for safety and efficacy in the prophylactic treatment of migraine headaches, the following adverse reactions not listed above were reported by 1% or more of patients from two placebo-controlled clinical trials of Depakote (divalproex sodium) tablets.
 
 Body as a Whole: Face edema.
 
@@ -164,14 +168,16 @@ Dermatologic: Hair texture changes, hair color changes, photosensitivity, erythe
 
 Psychiatric: Emotional upset, psychosis, aggression, psychomotor hyperactivity, hostility, disturbance in attention, learning disorder, and behavioral deterioration.
 
-Neurologic: There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
+Neurologic: Paradoxical convulsion
+
+There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
 
 There have been reports of acute or subacute encephalopathy in the absence of elevated ammonia levels, elevated valproate levels, or neuroimaging changes.
 The encephalopathy reversed partially or fully after valproate discontinuation.
 
 Musculoskeletal: Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weakness.
 
-Hematologic: Relative lymphocytosis, macrocytosis, leucopenia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
+Hematologic: Relative lymphocytosis, macrocytosis, leukopenia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
 Endocrine: Irregular menses, secondary amenorrhea, hyperandrogenism, hirsutism, elevated testosterone level, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
 

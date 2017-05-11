@@ -2,7 +2,7 @@
 
 Hepatotoxicity
 
-General Population: Hepatic failure resulting in fatalities has occurred in patients receiving valproate.
+General Population: Hepatic failure resulting in fatalities has occurred in patients receiving valproate and its derivatives.
 These incidents usually have occurred during the first six months of treatment.
 Serious or fatal hepatotoxicity may be preceded by non-specific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
 In patients with epilepsy, a loss of seizure control may also occur.

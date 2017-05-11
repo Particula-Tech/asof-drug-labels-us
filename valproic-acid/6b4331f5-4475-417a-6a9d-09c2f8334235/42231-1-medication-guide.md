@@ -1,28 +1,12 @@
 # MEDICATION GUIDE
 
-DEPAKOTE ER (dep-a-kOte)
+DEPAKOTE ER (dep-a-kOte) (divalproex sodium) Extended-Release Tablets
 
-(divalproex sodium)
+DEPAKOTE (dep-a-kOte) (divalproex sodium) Tablets
 
-Extended Release Tablets
+DEPAKOTE (dep-a-kOte) (divalproex sodium delayed release capsules) Sprinkle Capsules
 
-DEPAKOTE (dep-a-kOte)
-
-(divalproex sodium)
-
-Tablets
-
-DEPAKOTE (dep-a-kOte)
-
-(divalproex sodium delayed release capsules)
-
-Sprinkle Capsules
-
-DEPAKENE (dep-a-keen)
-
-(valproic acid)
-
-Capsules and Oral Solution
+DEPAKENE (dep-a-keen) (valproic acid) Capsules and Oral Solution
 
 Read this Medication Guide before you start taking Depakote or Depakene and each time you get a refill.
 There may be new information.
@@ -38,7 +22,7 @@ Depakote and Depakene can cause serious side effects, including:
 
 1. Serious liver damage that can cause death, especially in children younger than 2 years old.
    The risk of getting this serious liver damage is more likely to happen within the first 6 months of treatment.
-   Call your healthcare provider right away if you get any of the following symptoms:In some cases, liver damage may continue despite stopping the drug.
+   Call your healthcare provider right away if you get any of the following symptoms: In some cases, liver damage may continue despite stopping the drug.
    - nausea or vomiting that does not go away
    - loss of appetite
    - pain on the right side of your stomach (abdomen)
@@ -55,17 +39,25 @@ Depakote and Depakene can cause serious side effects, including:
    - If you take Depakote or Depakene during pregnancy for any medical condition, your child is at risk for having a lower IQ.
    - There may be other medicines to treat your condition that have a lower chance of causing birth defects and decreased IQ in your child.
    - Women who are pregnant must not take Depakote or Depakene to prevent migraine headaches.
-   - All women of child-bearing age should talk to their healthcare provider about using other possible treatments instead of Depakote or Depakene.
+   - All women of childbearing age should talk to their healthcare provider about using other possible treatments instead of Depakote or Depakene.
      If the decision is made to use Depakote or Depakene, you should use effective birth control (contraception).
    - Tell your healthcare provider right away if you become pregnant while taking Depakote or Depakene.
      You and your healthcare provider should decide if you will continue to take Depakote or Depakene while you are pregnant.
    - Pregnancy Registry: If you become pregnant while taking Depakote or Depakene, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
      You can enroll in this registry by calling 1-888-233-2334.
      The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-3. Inflammation of your pancreas that can cause death.Call your healthcare provider right away if you have any of these symptoms:
+3. Inflammation of your pancreas that can cause death.
+   Call your healthcare provider right away if you have any of these symptoms:
    - severe stomach pain that you may also feel in your back
    - nausea or vomiting that does not go away
-4. Like other antiepileptic drugs, Depakote or Depakene may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:How can I watch for early symptoms of suicidal thoughts and actions?Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+4. Like other antiepileptic drugs, Depakote or Depakene may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+   Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:How can I watch for early symptoms of suicidal thoughts and actions?
+   Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+   Do not stop Depakote or Depakene without first talking to a healthcare provider.
+   Stopping Depakote or Depakene suddenly can cause serious problems.
+   Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
+   Suicidal thoughts or actions can be caused by things other than medicines.
+   If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
    - thoughts about suicide or dying
    - attempts to commit suicide
    - new or worse depression
@@ -81,26 +73,19 @@ Depakote and Depakene can cause serious side effects, including:
    - Pay attention to any changes, especially sudden changes in mood, behaviors, thoughts, or feelings.
    - Keep all follow-up visits with your healthcare provider as scheduled.
 
-Do not stop Depakote or Depakene without first talking to a healthcare provider.
-Stopping Depakote or Depakene suddenly can cause serious problems.
-Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that do not stop (status epilepticus).
-
-Suicidal thoughts or actions can be caused by things other than medicines.
-If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
-
 What are Depakote and Depakene?
 
 Depakote and Depakene come in different dosage forms with different usages.
 
-Depakote Tablets and Depakote Extended Release Tablets are prescription medicines used:
+Depakote Tablets and Depakote Extended-Release Tablets are prescription medicines used:
 
-- to treat manic episodes associated with bipolar disorder.
+- to treat manic episodes associated with bipolar disorder
 - alone or with other medicines to treat:
   - complex partial seizures in adults and children 10 years of age and older
   - simple and complex absence seizures, with or without other seizure types
 - to prevent migraine headaches
 
-Depakene (solution and liquid capsules) and Depakote Sprinkles are prescription medicines used alone or with other medicines, to treat:
+Depakene (solution and liquid capsules) and Depakote Sprinkle Capsules are prescription medicines used alone or with other medicines, to treat:
 
 - complex partial seizures in adults and children 10 years of age and older
 - simple and complex absence seizures, with or without other seizure types
@@ -151,7 +136,7 @@ How should I take Depakote or Depakene?
   Tell your healthcare provider if you cannot swallow Depakote or Depakene whole.
   You may need a different medicine.
 - Depakote Sprinkle Capsules may be swallowed whole, or they may be opened and the contents may be sprinkled on a small amount of soft food, such as applesauce or pudding.
-  See the Patient Instructions for Use at the end of this Medication Guide for detailed instructions on how to use Depakote Sprinkle Capsules.
+  See the Administration Guide at the end of this Medication Guide for detailed instructions on how to use Depakote Sprinkle Capsules.
 - If you take too much Depakote or Depakene, call your healthcare provider or local Poison Control Center right away.
 
 What should I avoid while taking Depakote or Depakene?
@@ -159,17 +144,19 @@ What should I avoid while taking Depakote or Depakene?
 - Depakote and Depakene can cause drowsiness and dizziness.
   Do not drink alcohol or take other medicines that make you sleepy or dizzy while taking Depakote or Depakene, until you talk with your doctor.
   Taking Depakote or Depakene with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
-- Do not drive a car or operate dangerous machinery until you know how Depakote or Depakene affect you.
+- Do not drive a car or operate dangerous machinery until you know how Depakote or Depakene affects you.
   Depakote and Depakene can slow your thinking and motor skills.
 
 What are the possible side effects of Depakote or Depakene?
 
 - See “What is the most important information I should know about Depakote or Depakene?”
-  Depakote or Depakene may cause other serious side effects including:
+
+Depakote or Depakene can cause serious side effects including:
+
 - Bleeding problems: red or purple spots on your skin, bruising, pain and swelling into your joints due to bleeding or bleeding from your mouth or nose.
 - High ammonia levels in your blood: feeling tired, vomiting, changes in mental status.
 - Low body temperature (hypothermia): drop in your body temperature to less than 95°F, feeling tired, confusion, coma.
-- Allergic (hypersensitivity) reactions: fever, skin rash, hives, sores in your mouth, skin blistering and peeling of your skin, swelling of your lymph nodes, swelling of your face, eyes, lips, tongue, or throat, trouble swallowing or breathing.
+- Allergic (hypersensitivity) reactions: fever, skin rash, hives, sores in your mouth, blistering and peeling of your skin, swelling of your lymph nodes, swelling of your face, eyes, lips, tongue, or throat, trouble swallowing or breathing.
 - Drowsiness or sleepiness in the elderly.
   This extreme drowsiness may cause you to eat or drink less than you normally would.
   Tell your doctor if you are not able to eat or drink as you normally do.
@@ -206,7 +193,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Depakote or Depakene?
 
-- Store Depakote Extended Release Tablets between 59°F to 86°F (15°C to 30°C).
+- Store Depakote Extended-Release Tablets between 59°F to 86°F (15°C to 30°C).
 - Store Depakote Delayed Release Tablets below 86°F (30°C).
 - Store Depakote Sprinkle Capsules below 77°F (25°C).
 - Store Depakene Capsules at 59°F to 77°F (15°C to 25°C).
@@ -235,18 +222,10 @@ Active ingredient: divalproex sodium
 
 Inactive ingredients:
 
-- Depakote Extended Release Tablets: FD&C Blue No. 1, hypromellose, lactose, microcrystalline cellulose, polyethylene glycol, potassium sorbate, propylene glycol, silicon dioxide, titanium dioxide, and triacetin.
+- Depakote Extended-Release Tablets: FD&C Blue No. 1, hypromellose, lactose, microcrystalline cellulose, polyethylene glycol, potassium sorbate, propylene glycol, silicon dioxide, titanium dioxide, and triacetin.
   The 500 mg tablets also contain iron oxide and polydextrose.
 - Depakote Tablets: cellulosic polymers, diacetylated monoglycerides, povidone, pregelatinized starch (contains corn starch), silica gel, talc, titanium dioxide, and vanillin.
-
-Individual tablets also contain:
-
-125 mg tablets: FD&C Blue No. 1 and FD&C Red No. 40,
-
-250 mg tablets: FD&C Yellow No. 6 and iron oxide,
-
-500 mg tablets: D&C Red No. 30, FD&C Blue No. 2, and iron oxide.
-
+  - Individual tablets also contain: 125 mg tablets: FD&C Blue No. 1 and FD&C Red No. 40, 250 mg tablets: FD&C Yellow No. 6 and iron oxide, 500 mg tablets: D&C Red No. 30, FD&C Blue No. 2, and iron oxide.
 - Depakote Sprinkle Capsules: cellulosic polymers, D&C Red No. 28, FD&C Blue No. 1 gelatin, iron oxide, magnesium stearate, silica gel, titanium dioxide, and triethyl citrate.
 
 Depakene:
@@ -258,42 +237,18 @@ Inactive ingredients:
 - Depakene Capsules: corn oil, FD&C Yellow No. 6, gelatin, glycerin, iron oxide, methylparaben, propylparaben, and titanium dioxide.
 - Depakene Oral Solution: FD&C Red No. 40, glycerin, methylparaben, propylparaben, sorbitol, sucrose, water, and natural and artificial flavors.
 
-Depakote ER:
+Depakote ER: 250 mg is Mfd. by AbbVie LTD, Barceloneta, PR 00617 500 mg is Mfd. by AbbVie Inc., North Chicago, IL 60064 U.S.A. or AbbVie LTD, Barceloneta, PR 00617 For AbbVie Inc., North Chicago, IL 60064 U.S.A.
 
-250 mg is Mfd. by AbbVie LTD, Barceloneta, PR 00617
+Depakote Tablets: Mfd. by AbbVie LTD, Barceloneta, PR 00617 For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
-500 mg is Mfd. by AbbVie Inc., North Chicago, IL 60064 U.S.A. or
+Depakote Sprinkle Capsules: AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
-AbbVie LTD, Barceloneta, PR 00617
+Depakene Capsules: Mfd. by Banner Pharmacaps, Inc., High Point, NC 27265 U.S.A. For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
-For AbbVie Inc., North Chicago, IL 60064 U.S.A.
-
-Depakote Tablets:
-
-Mfd. by AbbVie LTD, Barceloneta, PR 00617
-
-For AbbVie Inc., North Chicago, IL 60064, U.S.A.
-
-Depakote Sprinkle Capsules:
-
-AbbVie Inc., North Chicago, IL 60064, U.S.A.
-
-Depakene Capsules:
-
-Mfd. by Banner Pharmacaps, Inc., High Point, NC 27265 U.S.A.
-
-For AbbVie Inc., North Chicago, IL 60064, U.S.A.
-
-Depakene Oral solution:
-
-Mfd. by AbbVie Inc., North Chicago, IL 60064, U.S.A.
-
-OR by DPT Laboratories, Ltd., San Antonio, TX 78215, U.S.A.
-
-For AbbVie Inc., North Chicago, IL 60064, U.S.A.
+Depakene Oral Solution: Mfd. by AbbVie Inc., North Chicago, IL 60064, U.S.A. OR by DPT Laboratories, Ltd., San Antonio, TX 78215, U.S.A. For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 ©2017 AbbVie Inc.
 
-Revised: March 2017
+Revised: May 2017

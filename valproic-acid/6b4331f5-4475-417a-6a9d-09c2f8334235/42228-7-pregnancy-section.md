@@ -4,7 +4,7 @@ Pregnancy Category D for epilepsy [see Warnings and Precautions (5.2, 5.3)].
 
 Pregnancy Registry
 
-To collect information on the effects of in utero exposure to Depakene, physicians should encourage pregnant patients taking Depakene to enroll in the NAAED Pregnancy Registry.
+To collect information on the effects of in utero exposure to Depakene, physicians should encourage pregnant patients taking Depakene to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling toll free 1-888-233-2334, and must be done by the patients themselves.
 Information on the registry can be found at the website, http://www.aedpregnancyregistry.org/.
 
@@ -32,7 +32,7 @@ Clinical Considerations
 - Because of the risks of decreased IQ, neural tube defects, and other fetal adverse events, which may occur very early in pregnancy:
   - Valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
     This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
-  - Depakene should not be used to treat women with epilepsy who are pregnant or who plan to become pregnant unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
+  - Valproate should not be used to treat women with epilepsy who are pregnant or who plan to become pregnant unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
     In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.
     When treating a pregnant woman or a woman of childbearing potential, carefully consider both the potential risks and benefits of treatment and provide appropriate counseling.
 - To prevent major seizures, women with epilepsy should not discontinue valproate abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
@@ -93,7 +93,7 @@ When Depakene is used in this patient group, it should be used with extreme caut
 The benefits of therapy should be weighed against the risks.
 Above the age of 2 years, experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
 
-Younger children, especially those receiving enzyme-inducing drugs, will require larger maintenance doses to attain targeted total and unbound valproic acid concentrations.
+Younger children, especially those receiving enzyme-inducing drugs, will require larger maintenance doses to attain targeted total and unbound valproate concentrations.
 Pediatric patients (i.e., between 3 months and 10 years) have 50% higher clearances expressed on weight (i.e., mL/min/kg) than do adults.
 Over the age of 10 years, children have pharmacokinetic parameters that approximate those of adults.
 
@@ -113,7 +113,7 @@ Two six-month pediatric studies were conducted to evaluate the long-term safety 
 Two twelve-month pediatric studies were conducted to evaluate the long-term safety of Depakote ER for the indication of migraine (353 patients aged 12 to 17 years).
 One twelve-month study was conducted to evaluate the safety of Depakote Sprinkle Capsules in the indication of partial seizures (169 patients aged 3 to 10 years).
 
-In these seven trials, the safety and tolerability of Depakote in pediatric patients were shown to be comparable to those in adults [see Adverse Reactions (6)].
+In these seven clinical trials, the safety and tolerability of Depakote in pediatric patients were shown to be comparable to those in adults [see Adverse Reactions (6)].
 
 Juvenile Animal Toxicology
 
