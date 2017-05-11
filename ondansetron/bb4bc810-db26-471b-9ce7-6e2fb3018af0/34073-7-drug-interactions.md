@@ -17,8 +17,8 @@ However, on the basis of available data, no dosage adjustment for ondansetron is
 
 ## 7.4 Tramadol
 
-Although there are no data on pharmacokinetic drug interactions between ondansetron and tramadol, data from two small studies indicate that concomitant use of ondansetron may result in reduced analgesic activity of tramadol.
-Patients on concomitant ondansetron self-administered tramadol more frequently in these studies, leading to an increased cumulative dose in patient controlled administration (PCA) of tramadol.
+Although there are no data on pharmacokinetic drug interactions between ondansetron and tramadol, data from two small trials indicate that concomitant use of ondansetron may result in reduced analgesic activity of tramadol.
+Patients on concomitant ondansetron self-administered tramadol more frequently in these trials, leading to an increased cumulative dose in patient-controlled administration (PCA) of tramadol.
 
 ## 7.5 Serotonergic Drugs
 
@@ -27,7 +27,8 @@ Serotonin syndrome (including altered mental status, autonomic instability, and 
 ## 7.6 Chemotherapy
 
 In humans, carmustine, etoposide, and cisplatin do not affect the pharmacokinetics of ondansetron.
-In a crossover study in 76 pediatric patients, intravenous ondansetron did not increase blood levels of high-dose methotrexate.
+
+In a crossover trial in 76 pediatric patients, intravenous ondansetron did not increase blood levels of high-dose methotrexate.
 
 ## 7.7 Temazepam
 
