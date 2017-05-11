@@ -48,7 +48,7 @@ Protein Binding
 
 The plasma protein binding of valproate is concentration dependent and the free fraction increases from approximately 10% at 40 mcg/mL to 18.5% at 130 mcg/mL.
 Protein binding of valproate is reduced in the elderly, in patients with chronic hepatic diseases, in patients with renal impairment, and in the presence of other drugs (e.g., aspirin).
-Conversely, valproate may displace certain protein-bound drugs (e.g., phenytoin, carbamazepine, warfarin, and tolbutamide) (see Drug Interactions (7.2) for more detailed information on the pharmacokinetic interactions of valproate with other drugs).
+Conversely, valproate may displace certain protein-bound drugs (e.g., phenytoin, carbamazepine, warfarin, and tolbutamide) [see Drug Interactions (7.2) for more detailed information on the pharmacokinetic interactions of valproate with other drugs].
 
 CNS Distribution
 
@@ -91,7 +91,7 @@ Over the age of 10 years, children have pharmacokinetic parameters that approxim
 
 Elderly
 
-The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26).
+The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26 years).
 Intrinsic clearance is reduced by 39%; the free fraction is increased by 44%.
 Accordingly, the initial dosage should be reduced in the elderly [see Dosage and Administration (2.2)].
 

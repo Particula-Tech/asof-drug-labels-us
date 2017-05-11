@@ -35,4 +35,4 @@ Manufactured by Hospira, Inc. Lake Forest, IL 60045 USA
 
 For AbbVie Inc. North Chicago, IL 60064, U.S.A.
 
-Revised: March 2017
+Revised: May 2017

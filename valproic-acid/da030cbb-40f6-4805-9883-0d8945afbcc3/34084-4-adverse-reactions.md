@@ -26,9 +26,11 @@ The maximum rate of infusion studied was 200 mg/min.
 
 Adverse reactions reported by at least 0.5% of all subjects/patients in clinical trials of Depacon are summarized in Table 1.
 
-| Table 1. Adverse Reactions Reported During Studies of Depacon |  |
-| --- | --- |
+Table 1.
+Adverse Reactions Reported During Studies of Depacon
+
 | Body System/Reaction | N = 463 |
+| --- | --- |
 | Body as a Whole |  |
 | Chest Pain | 1.7% |
 | Headache | 4.3% |
@@ -67,15 +69,19 @@ Hyperammonemia with encephalopathy has been reported in 2 patients after infusio
 
 ## 6.1 Epilepsy
 
+The data described in the following section were obtained using Depakote (divalproex sodium) tablets.
+
 Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, Depakote (divalproex sodium) was generally well tolerated with most adverse reactions rated as mild to moderate in severity.
 Intolerance was the primary reason for discontinuation in the Depakote-treated patients (6%), compared to 1% of placebo-treated patients.
 
 Table 2 lists treatment-emergent adverse reactions which were reported by ≥ 5% of Depakote-treated patients and for which the incidence was greater than in the placebo group, in the placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
 Since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases, to determine whether the following adverse reactions can be ascribed to Depakote alone, or the combination of Depakote and other antiepilepsy drugs.
 
-| Table 2. Adverse Reactions Reported by ≥ 5% of Patients Treated with Depakote During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures |  |  |
-| --- | --- | --- |
+Table 2.
+Adverse Reactions Reported by ≥ 5% of Patients Treated with Depakote During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
+
 | Body System/Reaction | Depakote (%) (n = 77) | Placebo (%) (n = 70) |
+| --- | --- | --- |
 | Body as a Whole |  |  |
 | Headache | 31 | 21 |
 | Asthenia | 27 | 7 |
@@ -111,9 +117,11 @@ Since patients were also treated with other antiepilepsy drugs, it is not possib
 Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5% of patients in the high dose valproate group, and for which the incidence was greater than in the low dose group, in a controlled trial of Depakote monotherapy treatment of complex partial seizures.
 Since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases, to determine whether the following adverse reactions can be ascribed to Depakote alone, or the combination of valproate and other antiepilepsy drugs.
 
-| Table 3. Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures1 |  |  |
-| --- | --- | --- |
+Table 3.
+Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures1
+
 | Body System/Reaction | High Dose (%) (n = 131) | Low Dose (%) (n = 134) |
+| --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 21 | 10 |
 | Digestive System |  |  |
@@ -175,7 +183,7 @@ Urogenital System: Urinary incontinence, vaginitis, dysmenorrhea, amenorrhea, ur
 
 ## 6.2 Mania
 
-Although Depacon has not been evaluated for safety and efficacy in the treatment of manic episodes associated with bipolar disorder, the following adverse reactions not listed above were reported by 1% or more of patients from two placebo-controlled clinical trials of Depakote (Divalproex Sodium) tablets.
+Although Depacon has not been evaluated for safety and efficacy in the treatment of manic episodes associated with bipolar disorder, the following adverse reactions not listed above were reported by 1% or more of patients from two placebo-controlled clinical trials of Depakote (divalproex sodium) tablets.
 
 Body as a Whole: Chills, neck pain, neck rigidity.
 
@@ -195,7 +203,7 @@ Urogenital: Dysuria.
 
 ## 6.3 Migraine
 
-Although Depacon has not been evaluated for safety and efficacy in the prophylactic treatment of migraine headaches, the following adverse reactions not listed above were reported by 1% or more of patients from two placebo-controlled clinical trials of Depakote (Divalproex Sodium) tablets.
+Although Depacon has not been evaluated for safety and efficacy in the prophylactic treatment of migraine headaches, the following adverse reactions not listed above were reported by 1% or more of patients from two placebo-controlled clinical trials of Depakote (divalproex sodium) tablets.
 
 Body as a Whole: Face edema.
 
@@ -210,12 +218,14 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Dermatologic: Hair texture changes, hair color changes, photosensitivity, erythema multiforme, toxic epidermal necrolysis, nail and nail bed disorders, and Stevens-Johnson syndrome.
 
-Neurologic: There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
+Psychiatric: Emotional upset, psychosis, aggression, psychomotor hyperactivity, hostility, disturbance in attention, learning disorder, and behavioral deterioration.
+
+Neurologic: Paradoxical convulsion
+
+There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
 
 There have been reports of acute or subacute encephalopathy in the absence of elevated ammonia levels, elevated valproate levels, or neuroimaging changes.
 The encephalopathy reversed partially or fully after valproate discontinuation.
-
-Psychiatric: Emotional upset, psychosis, aggression, psychomotor hyperactivity, hostility, disturbance in attention, learning disorder, and behavioral deterioration.
 
 Musculoskeletal: Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weakness.
 

@@ -7,4 +7,4 @@ In overdose situations, the fraction of drug not bound to protein is high and he
 General supportive measures should be applied with particular attention to the maintenance of adequate urinary output.
 
 Naloxone has been reported to reverse the CNS depressant effects of valproate overdosage.
-Because naloxone could theoretically also reverse the antiepilepsy effects of valproate, it should be used with caution in patients with epilepsy.
+Because naloxone could theoretically also reverse the antiepileptic effects of valproate, it should be used with caution in patients with epilepsy.

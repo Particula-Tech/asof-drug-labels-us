@@ -18,5 +18,5 @@ The biological significance of an increase in SCE frequency is not known.
 Impairment of Fertility
 
 Chronic toxicity studies of valproate in juvenile and adult rats and dogs demonstrated reduced spermatogenesis and testicular atrophy at oral doses of 400 mg/kg/day or greater in rats (approximately equivalent to or greater than the maximum recommended human dose (MRHD) on a mg/m2 basis) and 150 mg/kg/day or greater in dogs (approximately 1.4 times the MRHD or greater on a mg/m2 basis).
-Fertility studies in rats have shown no effect on fertility at oral doses of valproate up to 350 mg/kg/day (approximately equal to the MRHD dose on a mg/m2 basis) for 60 days.
+Fertility studies in rats have shown no effect on fertility at oral doses of valproate up to 350 mg/kg/day (approximately equal to the MRHD on a mg/m2 basis) for 60 days.
 The effect of valproate on testicular development and on sperm parameters and fertility in humans is unknown.

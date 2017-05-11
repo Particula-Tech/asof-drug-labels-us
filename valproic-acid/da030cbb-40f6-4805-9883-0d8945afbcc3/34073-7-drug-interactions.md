@@ -36,8 +36,8 @@ Prescribers should monitor serum valproate concentrations and clinical response 
 
 Felbamate
 
-A study involving the co-administration of 1200 mg/day of felbamate with valproate to patients with epilepsy (n = 10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone.
-Increasing the felbamate dose to 2400 mg/day increased the mean valproate peak concentration to 133 mcg/mL (another 16% increase).
+A study involving the co-administration of 1,200 mg/day of felbamate with valproate to patients with epilepsy (n = 10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone.
+Increasing the felbamate dose to 2,400 mg/day increased the mean valproate peak concentration to 133 mcg/mL (another 16% increase).
 A decrease in valproate dosage may be necessary when felbamate therapy is initiated.
 
 Rifampin
@@ -65,7 +65,7 @@ Cimetidine and ranitidine do not affect the clearance of valproate.
 
 ## 7.2 Effects of Valproate on Other Drugs
 
-Valproate has been found to be a weak inhibitor of some P450 isozymes, epoxide hydrase, and glucuronyl transferases.
+Valproate has been found to be a weak inhibitor of some P450 isozymes, epoxide hydrase, and glucuronosyltransferases.
 
 The following list provides information about the potential for an influence of valproate co-administration on the pharmacokinetics or pharmacodynamics of several commonly prescribed medications.
 The list is not exhaustive, since new interactions are continuously being reported.
@@ -182,10 +182,10 @@ Co-administration of valproate (500 mg BID) and olanzapine (5 mg) to healthy adu
 
 Oral Contraceptive Steroids
 
-Administration of a single-dose of ethinyloestradiol (50 mcg)/levonorgestrel (250 µg) to 6 women on valproate (200 mg BID) therapy for 2 months did not reveal any pharmacokinetic interaction.
+Administration of a single-dose of ethinyloestradiol (50 mcg)/levonorgestrel (250 mcg) to 6 women on valproate (200 mg BID) therapy for 2 months did not reveal any pharmacokinetic interaction.
 
 ## 7.3 Topiramate
 
-Concomitant administration of valproate and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.8, 5.9)].
+Concomitant administration of valproate and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.6, 5.8, 5.9)].
 Concomitant administration of topiramate with valproate has also been associated with hypothermia in patients who have tolerated either drug alone.
 It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.8, 5.10)].
