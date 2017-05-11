@@ -1,17 +1,42 @@
-ESTROGENS INCREASE THE RISK OF ENDOMETRIAL CANCER
+# WARNING: ENDOMETRIAL CANCER, CARDIOVASCULAR DISORDERS, BREAST CANCER AND PROBABLE DEMENTIA
 
-Close clinical surveillance of all women taking estrogens is important.
-Adequate diagnostic measures, including endometrial sampling when indicated, should be undertaken to rule out malignancy in all cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
-There is no evidence that the use of “natural” estrogens results in a different endometrial risk profile than synthetic estrogens at equivalent estrogen doses (see WARNINGS, Malignant neoplasms, Endometrial cancer).
+Estrogen-Alone Therapy
 
-CARDIOVASCULAR AND OTHER RISKS
+Endometrial Cancer
 
-Estrogens with or without progestins should not be used for the prevention of cardiovascular disease (see WARNINGS, Cardiovascular disorders).
+There is an increased risk of endometrial cancer in a woman with a uterus who uses unopposed estrogens.
+Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
+Adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding.
+[see WARNINGS, Malignant Neoplasms, Endometrial Cancer].
 
-The Women’s Health Initiative (WHI) study reported increased risks of myocardial infarction, stroke, invasive breast cancer, pulmonary emboli, and deep vein thrombosis in postmenopausal women (50 to 79 years of age) during 5 years of treatment with oral conjugated estrogens (CE 0.625 mg) combined with medroxyprogesterone acetate (MPA 2.5 mg) relative to placebo (see CLINICAL PHARMACOLOGY, Clinical Studies).
+Cardiovascular Disorders and Probable Dementia
 
-The Women’s Health Initiative Memory Study (WHIMS), a substudy of WHI, reported increased risk of developing probable dementia in postmenopausal women 65 years of age or older during 4 years of treatment with oral conjugated estrogens-plus-medroxyprogesterone acetate relative to placebo.
-It is unknown whether this finding applies to younger postmenopausal women or to women taking estrogen-alone therapy (see CLINICAL PHARMACOLOGY, Clinical Studies).
+Estrogen-alone therapy should not be used for the prevention of cardiovascular disease or dementia [see CLINICAL STUDIES and WARNINGS, Cardiovascular Disorders, and Probable Dementia).
 
-Other doses of oral conjugated estrogens with medroxyprogesterone acetate, and other combinations and dosage forms of estrogens and progestins were not studied in the WHI clinical trials and, in the absence of comparable data, these risks should be assumed to be similar.
-Because of these risks, estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
+The Women’s Health Initiative (WHI) estrogen-alone substudy reported increased risks of stroke and deep vein thrombosis (DVT) in postmenopausal women (50 to 79 years of age) during 7.1 years of treatment with daily oral conjugated estrogens (CE) [0.625 mg]-alone, relative to placebo [see CLINICAL STUDIES and WARNINGS, Cardiovascular Disorders].
+
+The WHI Memory Study (WHIMS) estrogen-alone ancillary study of WHI reported an increased risk of developing probable dementia in postmenopausal women 65 years of age or older during 5.2 years of treatment with daily CE (0.625 mg) -alone, relative to placebo.
+It is unknown whether this finding applies to younger postmenopausal women [see CLINICAL STUDIES and WARNINGS, Probable Dementia and PRECAUTIONS, Geriatric Use].
+
+In the absence of comparable data, these risks should be assumed to be similar for other doses of CE and other dosage forms of estrogens.
+
+Estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
+
+Estrogen Plus Progestin Therapy
+
+Cardiovascular Disorders and Probable Dementia
+
+Estrogen plus progestin therapy should not be used for the prevention of cardiovascular disease or dementia [see CLINICAL STUDIES and WARNINGS, Cardiovasular Disorders, and Probable Dementia].
+
+The WHI estrogen plus profestin substudy reported increased risks of DVT, pulmonary embolism (PE), stroke and myocardial infarction (MI) in postmenopausal women (50 to 79 years of age) during 5.6 years of treatment with daily oral CE (0.625 mg) combined with medroxyprogesterone acetate (MPA) [2.5 mg], relative to placebo [see CLINICAL STUDIES and WARNINGS, Cardiovascular Disorders].
+
+The WHIMS estrogen plus progestin ancillary study of the WHI reported an increased risk of developing probable dementia in postmenopausal women 65 years of age or older during 4 years of treatment with daily CE (0.625 mg) combined with MPA (2.5 mg), relative to placebo.
+It is unknown whether this finding applies to younger postmenopausal women [see CLINICAL STUDIES and WARNINGS, Probable Dementia and PRECAUTIONS, Geriatric Use].
+
+Breast Cancer
+
+The WHI estrogen plus substudy also demonstrated an increased risk of invasive breast cancer [see CLINICAL STUDIES and WARNINGS, Malignant Neoplasms, Breast Cancer].
+
+In the absence of comparable data, these risks should be assumed to be similar for other doses of CE and MPA, and other combinations and dosage forms of estrogens and progestins.
+
+Estrogen with or without progestin should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
