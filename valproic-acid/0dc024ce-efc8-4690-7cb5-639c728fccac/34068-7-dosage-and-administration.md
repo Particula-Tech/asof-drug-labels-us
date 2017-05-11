@@ -16,7 +16,7 @@ While it is generally agreed that pharmacological treatment beyond an acute resp
 
 ## 2.2 Epilepsy
 
-Depakote ER (divalproex sodium) extended release tablets are administered orally, and must be swallowed whole.
+Depakote ER (divalproex sodium) extended-release tablets are administered orally, and must be swallowed whole.
 As Depakote ER dosage is titrated upward, concentrations of clonazepam, diazepam, ethosuximide, lamotrigine, tolbutamide, phenobarbital, carbamazepine, and/or phenytoin may be affected [see Drug Interactions (7.2)].
 
 Complex Partial Seizures
@@ -75,8 +75,8 @@ Antiepilepsy drugs should not be abruptly discontinued in patients in whom the d
 
 Depakote ER is indicated for prophylaxis of migraine headaches in adults.
 
-The recommended starting dose is 500 mg once daily for 1 week, thereafter increasing to 1000 mg once daily.
-Although doses other than 1000 mg once daily of Depakote ER have not been evaluated in patients with migraine, the effective dose range of Depakote (divalproex sodium delayed-release tablets) in these patients is 500-1000 mg/day.
+The recommended starting dose is 500 mg once daily for 1 week, thereafter increasing to 1,000 mg once daily.
+Although doses other than 1,000 mg once daily of Depakote ER have not been evaluated in patients with migraine, the effective dose range of Depakote (divalproex sodium delayed-release tablets) in these patients is 500-1,000 mg/day.
 As with other valproate products, doses of Depakote ER should be individualized and dose adjustment may be necessary.
 If a patient requires smaller dose adjustments than that available with Depakote ER, Depakote should be used instead.
 
@@ -90,20 +90,20 @@ For patients whose Depakote total daily dose cannot be directly converted to Dep
 | Depakote | Depakote ER |
 | Total Daily Dose (mg) | (mg) |
 | 500* - 625 | 750 |
-| 750* - 875 | 1000 |
-| 1000*-1125 | 1250 |
-| 1250-1375 | 1500 |
-| 1500-1625 | 1750 |
-| 1750 | 2000 |
-| 1875-2000 | 2250 |
-| 2125-2250 | 2500 |
-| 2375 | 2750 |
-| 2500-2750 | 3000 |
-| 2875 | 3250 |
-| 3000-3125 | 3500 |
+| 750* - 875 | 1,000 |
+| 1,000*-1,125 | 1,250 |
+| 1,250-1,375 | 1,500 |
+| 1,500-1,625 | 1,750 |
+| 1,750 | 2,000 |
+| 1,875-2,000 | 2,250 |
+| 2,125-2,250 | 2,500 |
+| 2,375 | 2,750 |
+| 2,500-2,750 | 3,000 |
+| 2,875 | 3,250 |
+| 3,000-3,125 | 3,500 |
 | * These total daily doses of Depakote cannot be directly converted to an 8 to 20% higher total daily dose of Depakote ER because the required dosing strengths of Depakote ER are not available. Consideration may be given at the clinician's discretion to increase the patient's Depakote total daily dose to the next higher dosage before converting to the appropriate total daily dose of Depakote ER. |  |
 
-There is insufficient data to allow a conversion factor recommendation for patients with DEPAKOTE doses above 3125 mg/day.
+There is insufficient data to allow a conversion factor recommendation for patients with DEPAKOTE doses above 3,125 mg/day.
 Plasma valproate Cmin concentrations for DEPAKOTE ER on average are equivalent to DEPAKOTE, but may vary across patients after conversion.
 If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50 to 100 mcg/mL) [see Clinical Pharmacology (12.2)].
 

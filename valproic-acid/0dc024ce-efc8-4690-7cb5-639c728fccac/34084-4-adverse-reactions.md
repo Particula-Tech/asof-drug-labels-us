@@ -33,11 +33,11 @@ Table 3 summarizes those adverse reactions reported for patients in these trials
 | Diarrhea | 12% | 8% |
 | Dizziness | 12% | 7% |
 | Pain | 11% | 10% |
-| Abdominal pain | 10% | 5% |
-| Accidental injury | 6% | 5% |
+| Abdominal Pain | 10% | 5% |
+| Accidental Injury | 6% | 5% |
 | Asthenia | 6% | 5% |
 | Pharyngitis | 6% | 5% |
-| 1. The following adverse reactions/event occurred at an equal or greater incidence for placebo than for Depakote ER: headache |  |  |
+| 1 The following adverse reactions/event occurred at an equal or greater incidence for placebo than for Depakote ER: headache |  |  |
 
 The following additional adverse reactions were reported by greater than 1% of the Depakote ER-treated patients in controlled clinical trials:
 
@@ -81,7 +81,7 @@ Since patients were also treated with other antiepilepsy drugs, it is not possib
 | Gastrointestinal System |  |  |
 | Nausea | 48 | 14 |
 | Vomiting | 27 | 7 |
-| Abdominal pain | 23 | 6 |
+| Abdominal Pain | 23 | 6 |
 | Diarrhea | 13 | 6 |
 | Anorexia | 12 | 0 |
 | Dyspepsia | 8 | 4 |
@@ -118,7 +118,7 @@ Since patients were being titrated off another antiepilepsy drug during the firs
 | Nausea | 34 | 26 |
 | Diarrhea | 23 | 19 |
 | Vomiting | 23 | 15 |
-| Abdominal pain | 12 | 9 |
+| Abdominal Pain | 12 | 9 |
 | Anorexia | 11 | 4 |
 | Dyspepsia | 11 | 10 |
 | Hemic/Lymphatic System |  |  |
@@ -145,7 +145,7 @@ Since patients were being titrated off another antiepilepsy drug during the firs
 | Special Senses |  |  |
 | Amblyopia/Blurred Vision | 8 | 4 |
 | Tinnitus | 7 | 1 |
-| 1. Headache was the only adverse event that occurred in ≥5% of patients in the high dose group and at an equal or greater incidence in the low dose group. |  |  |
+| 1 Headache was the only adverse event that occurred in ≥5% of patients in the high dose group and at an equal or greater incidence in the low dose group. |  |  |
 
 The following additional adverse reactions were reported by greater than 1% but less than 5% of the 358 patients treated with valproate in the controlled trials of complex partial seizures:
 
@@ -193,7 +193,7 @@ Table 6 includes those adverse reactions reported for patients in the placebo-co
 | Somnolence | 7% | 2% |
 | Other |  |  |
 | Infection | 15% | 14% |
-| 1. The following adverse reactions occurred in greater than 5% of Depakote ER-treated patients and at a greater incidence for placebo than for Depakote ER: asthenia and flu syndrome. |  |  |
+| 1 The following adverse reactions occurred in greater than 5% of Depakote ER-treated patients and at a greater incidence for placebo than for Depakote ER: asthenia and flu syndrome. |  |  |
 
 The following additional adverse reactions were reported by greater than 1% but not more than 5% of Depakote ER-treated patients and with a greater incidence than placebo in the placebo-controlled clinical trial for migraine prophylaxis:
 
@@ -221,18 +221,18 @@ Table 7 includes those adverse reactions reported for patients in the placebo-co
 | Dyspepsia | 13% | 9% |
 | Diarrhea | 12% | 7% |
 | Vomiting | 11% | 1% |
-| Abdominal pain | 9% | 4% |
-| Increased appetite | 6% | 4% |
+| Abdominal Pain | 9% | 4% |
+| Increased Appetite | 6% | 4% |
 | Nervous System |  |  |
 | Asthenia | 20% | 9% |
 | Somnolence | 17% | 5% |
 | Dizziness | 12% | 6% |
 | Tremor | 9% | 0% |
 | Other |  |  |
-| Weight gain | 8% | 2% |
-| Back pain | 8% | 6% |
+| Weight Gain | 8% | 2% |
+| Back Pain | 8% | 6% |
 | Alopecia | 7% | 1% |
-| 1. The following adverse reactions occurred in greater than 5% of Depakote-treated patients and at a greater incidence for placebo than for Depakote: flu syndrome and pharyngitis. |  |  |
+| 1 The following adverse reactions occurred in greater than 5% of Depakote-treated patients and at a greater incidence for placebo than for Depakote: flu syndrome and pharyngitis. |  |  |
 
 The following additional adverse reactions were reported by greater than 1% but not more than 5% of the 202 valproate-treated patients in the controlled clinical trials:
 
@@ -265,7 +265,9 @@ Dermatologic: Hair texture changes, hair color changes, photosensitivity, erythe
 
 Psychiatric: Emotional upset, psychosis, aggression, psychomotor hyperactivity, hostility, disturbance in attention, learning disorder, and behavioral deterioration.
 
-Neurologic: There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
+Neurologic: Paradoxical convulsion
+
+There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
 
 There have been reports of acute or subacute encephalopathy in the absence of elevated ammonia levels, elevated valproate levels, or neuroimaging changes.
 The encephalopathy reversed partially or fully after valproate discontinuation.
@@ -274,7 +276,7 @@ Musculoskeletal: Fractures, decreased bone mineral density, osteopenia, osteopor
 
 Hematologic: Relative lymphocytosis, macrocytosis, leukopenia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
-Endocrine: Irregular menses, secondary amenorrhea, hyperandrogenism, hirsutism, elevated testosterone level, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decrease carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
+Endocrine: Irregular menses, secondary amenorrhea, hyperandrogenism, hirsutism, elevated testosterone level, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
 
 There have been rare reports of Fanconi's syndrome occurring chiefly in children.
 

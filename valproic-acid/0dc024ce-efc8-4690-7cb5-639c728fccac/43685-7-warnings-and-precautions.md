@@ -9,7 +9,7 @@ These incidents usually have occurred during the first six months of treatment.
 Serious or fatal hepatotoxicity may be preceded by non-specific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
 In patients with epilepsy, a loss of seizure control may also occur.
 Patients should be monitored closely for appearance of these symptoms.
-Serum liver tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months.
+Serum liver tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months of valproate therapy.
 However, healthcare providers should not rely totally on serum biochemistry since these tests may not be abnormal in all instances, but should also consider the results of careful interim medical history and physical examination.
 
 Caution should be observed when administering valproate products to patients with a prior history of hepatic disease.
@@ -83,7 +83,7 @@ Cases of life-threatening pancreatitis have been reported in both children and a
 Some of the cases have been described as hemorrhagic with rapid progression from initial symptoms to death.
 Some cases have occurred shortly after initial use as well as after several years of use.
 The rate based upon the reported cases exceeds that expected in the general population and there have been cases in which pancreatitis recurred after rechallenge with valproate.
-In clinical trials, there were 2 cases of pancreatitis without alternative etiology in 2416 patients, representing 1044 patient-years experience.
+In clinical trials, there were 2 cases of pancreatitis without alternative etiology in 2,416 patients, representing 1,044 patient-years experience.
 Patients and guardians should be warned that abdominal pain, nausea, vomiting, and/or anorexia can be symptoms of pancreatitis that require prompt medical evaluation.
 If pancreatitis is diagnosed, Depakote ER should ordinarily be discontinued.
 Alternative treatment for the underlying medical condition should be initiated as clinically indicated [see Boxed Warning].
@@ -91,6 +91,7 @@ Alternative treatment for the underlying medical condition should be initiated a
 ## 5.6 Urea Cycle Disorders
 
 Depakote ER is contraindicated in patients with known urea cycle disorders (UCD).
+
 Hyperammonemic encephalopathy, sometimes fatal, has been reported following initiation of valproate therapy in patients with urea cycle disorders, a group of uncommon genetic abnormalities, particularly ornithine transcarbamylase deficiency.
 Prior to the initiation of Depakote ER therapy, evaluation for UCD should be considered in the following patients: 1) those with a history of unexplained encephalopathy or coma, encephalopathy associated with a protein load, pregnancy-related or postpartum encephalopathy, unexplained mental retardation, or history of elevated plasma ammonia or glutamine; 2) those with cyclical vomiting and lethargy, episodic extreme irritability, ataxia, low BUN, or protein avoidance; 3) those with a family history of UCD or a family history of unexplained infant deaths (particularly males); 4) those with other signs or symptoms of UCD.
 Patients who develop symptoms of unexplained hyperammonemic encephalopathy while receiving valproate therapy should receive prompt treatment (including discontinuation of valproate therapy) and be evaluated for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.10)].
@@ -115,7 +116,7 @@ Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 | Table 2. Risk by indication for antiepileptic drugs in the pooled analysis |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
+| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
 | Other | 1.0 | 1.8 | 1.9 | 0.9 |
@@ -157,13 +158,13 @@ During the placebo controlled pediatric mania trial, one (1) in twenty (20) adol
 Asymptomatic elevations of ammonia are more common and when present, require close monitoring of plasma ammonia levels.
 If the elevation persists, discontinuation of valproate therapy should be considered.
 
-## 5.10 Hyperammonemia and Encephalopathy associated with Concomitant Topiramate Use
+## 5.10 Hyperammonemia and Encephalopathy Associated with Concomitant Topiramate Use
 
 Concomitant administration of topiramate and valproate has been associated with hyperammonemia with or without encephalopathy in patients who have tolerated either drug alone.
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
 Hypothermia can also be a manifestation of hyperammonemia [see Warnings and Precautions (5.11)].
 In most cases, symptoms and signs abated with discontinuation of either drug.
-This adverse event is not due to a pharmacokinetic interaction.
+This adverse reaction is not due to a pharmacokinetic interaction.
 Patients with inborn errors of metabolism or reduced hepatic mitochondrial activity may be at an increased risk for hyperammonemia with or without encephalopathy.
 Although not studied, an interaction of topiramate and valproate may exacerbate existing defects or unmask deficiencies in susceptible persons.
 In patients who develop unexplained lethargy, vomiting, or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured [see Contraindications (4) and Warnings and Precautions (5.6, 5.9)].

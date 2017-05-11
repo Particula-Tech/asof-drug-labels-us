@@ -16,6 +16,4 @@ Bottles of 500..................................................................
 
 Unit Dose Packages of 100...............................................(NDC 0074-7126-11).
 
-Recommended Storage
-
-Store tablets at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Recommended Storage: Store tablets at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].

@@ -45,8 +45,8 @@ Additionally, valproate Cmax was lower, and Cmin was either higher or not differ
 | --- | --- | --- | --- | --- |
 | Study Population | Regimens | Relative Bioavailability |  |  |
 |  | Depakote ER vs. Depakote | AUC24 | Cmax | Cmin |
-| Healthy Volunteers (N=35) | 1000 & 1500 mg Depakote ER vs. 875 & 1250 mg Depakote | 1.059 | 0.882 | 1.173 |
-| Patients with epilepsy on concomitant enzyme-inducing antiepilepsy drugs (N = 64) | 1000 to 5000 mg Depakote ER vs. 875 to 4250 mg Depakote | 1.008 | 0.899 | 1.022 |
+| Healthy Volunteers (N=35) | 1,000 & 1,500 mg Depakote ER vs. 875 & 1,250 mg Depakote | 1.059 | 0.882 | 1.173 |
+| Patients with epilepsy on concomitant enzyme-inducing antiepilepsy drugs (N = 64) | 1,000 to 5,000 mg Depakote ER vs. 875 to 4,250 mg Depakote | 1.008 | 0.899 | 1.022 |
 
 Concomitant antiepilepsy drugs (topiramate, phenobarbital, carbamazepine, phenytoin, and lamotrigine were evaluated) that induce the cytochrome P450 isozyme system did not significantly alter valproate bioavailability when converting between Depakote and Depakote ER.
 
@@ -77,7 +77,7 @@ Elimination
 
 Mean plasma clearance and volume of distribution for total valproate are 0.56 L/hr/1.73 m2 and 11 L/1.73 m2, respectively.
 Mean plasma clearance and volume of distribution for free valproate are 4.6 L/hr/1.73 m2 and 92 L/1.73 m2.
-Mean terminal half-life for valproate monotherapy ranged from 9 to 16 hours following oral dosing regimens of 250 to 1000 mg.
+Mean terminal half-life for valproate monotherapy ranged from 9 to 16 hours following oral dosing regimens of 250 to 1,000 mg.
 
 The estimates cited apply primarily to patients who are not taking drugs that affect hepatic metabolizing enzyme systems.
 For example, patients taking enzyme-inducing antiepileptic drugs (carbamazepine, phenytoin, and phenobarbital) will clear valproate more rapidly.
@@ -90,12 +90,12 @@ Effect of Age
 Pediatric
 
 The valproate pharmacokinetic profile following administration of Depakote ER was characterized in a multiple-dose, non-fasting, open label, multi-center study in children and adolescents.
-Depakote ER once daily doses ranged from 250-1750 mg.
+Depakote ER once daily doses ranged from 250-1,750 mg.
 Once daily administration of Depakote ER in pediatric patients (10-17 years) produced plasma VPA concentration-time profiles similar to those that have been observed in adults.
 
 Elderly
 
-The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26).
+The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26 years).
 Intrinsic clearance is reduced by 39%; the free fraction is increased by 44%.
 Accordingly, the initial dosage should be reduced in the elderly [see Dosage and Administration (2.4)].
 

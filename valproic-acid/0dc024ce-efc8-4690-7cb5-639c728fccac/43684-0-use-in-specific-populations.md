@@ -94,7 +94,7 @@ Caution should be exercised when valproate is administered to a nursing woman.
 ## 8.4 Pediatric Use
 
 Experience has indicated that pediatric patients under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions [see Boxed Warning and Warnings and Precautions (5.1)].
-When valproate is used in this patient group, it should be used with extreme caution and as a sole agent.
+When Depakote ER is used in this patient group, it should be used with extreme caution and as a sole agent.
 The benefits of therapy should be weighed against the risks.
 Above the age of 2 years, experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
 
@@ -102,7 +102,7 @@ Younger children, especially those receiving enzyme inducing drugs, will require
 Pediatric patients (i.e., between 3 months and 10 years) have 50% higher clearances expressed on weight (i.e., mL/min/kg) than do adults.
 Over the age of 10 years, children have pharmacokinetic parameters that approximate those of adults.
 
-The variability in free fraction limits the clinical usefulness of monitoring total serum valproic acid concentration.
+The variability in free fraction limits the clinical usefulness of monitoring total serum valproic acid concentrations.
 Interpretation of valproic acid concentrations in children should include consideration of factors that affect hepatic metabolism and protein binding.
 
 Pediatric Clinical Trials
@@ -144,5 +144,4 @@ The capacity of elderly patients (age range: 68 to 89 years) to eliminate valpro
 
 Liver Disease
 
-[(See Boxed Warning, Contraindications (4), Warnings and Precautions (5), and Clinical Pharmacology (12.3)].
-Liver disease impairs the capacity to eliminate valproate.
+Liver disease impairs the capacity to eliminate valproate [(see Boxed Warning, Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].

@@ -25,7 +25,7 @@ Whether or not the interaction observed in this study applies to adults is unkno
 Carbapenem Antibiotics
 
 A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics (for example, ertapenem, imipenem, meropenem; this is not a complete list) and may result in loss of seizure control.
-The mechanism of this interaction in not well understood.
+The mechanism of this interaction is not well understood.
 Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
 Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.13)].
 
@@ -36,8 +36,8 @@ Prescribers should monitor serum valproate concentrations and clinical response 
 
 Felbamate
 
-A study involving the co-administration of 1200 mg/day of felbamate with valproate to patients with epilepsy (n=10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone.
-Increasing the felbamate dose to 2400 mg/day increased the mean valproate peak concentration to 133 mcg/mL (another 16% increase).
+A study involving the co-administration of 1,200 mg/day of felbamate with valproate to patients with epilepsy (n=10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone.
+Increasing the felbamate dose to 2,400 mg/day increased the mean valproate peak concentration to 133 mcg/mL (another 16% increase).
 A decrease in valproate dosage may be necessary when felbamate therapy is initiated.
 
 Rifampin
@@ -91,14 +91,14 @@ The concomitant use of valproate and clonazepam may induce absence status in pat
 Diazepam
 
 Valproate displaces diazepam from its plasma albumin binding sites and inhibits its metabolism.
-Co-administration of valproate (1500 mg daily) increased the free fraction of diazepam (10 mg) by 90% in healthy volunteers (n=6).
+Co-administration of valproate (1,500 mg daily) increased the free fraction of diazepam (10 mg) by 90% in healthy volunteers (n=6).
 Plasma clearance and volume of distribution for free diazepam were reduced by 25% and 20%, respectively, in the presence of valproate.
 The elimination half-life of diazepam remained unchanged upon addition of valproate.
 
 Ethosuximide
 
 Valproate inhibits the metabolism of ethosuximide.
-Administration of a single ethosuximide dose of 500 mg with valproate (800 to 1600 mg/day) to healthy volunteers (n=6) was accompanied by a 25% increase in elimination half-life of ethosuximide and a 15% decrease in its total clearance as compared to ethosuximide alone.
+Administration of a single ethosuximide dose of 500 mg with valproate (800 to 1,600 mg/day) to healthy volunteers (n=6) was accompanied by a 25% increase in elimination half-life of ethosuximide and a 15% decrease in its total clearance as compared to ethosuximide alone.
 Patients receiving valproate and ethosuximide, especially along with other anticonvulsants, should be monitored for alterations in serum concentrations of both drugs.
 
 Lamotrigine

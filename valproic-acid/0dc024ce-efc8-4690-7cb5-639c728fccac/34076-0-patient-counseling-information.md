@@ -37,10 +37,16 @@ CNS Depression
 
 Since valproate products may produce CNS depression, especially when combined with another CNS depressant (e.g., alcohol), advise patients not to engage in hazardous activities, such as driving an automobile or operating dangerous machinery, until it is known that they do not become drowsy from the drug.
 
-Multiorgan Hypersensitivity Reaction
+Multiorgan Hypersensitivity Reactions
 
 Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related and should be reported to the physician immediately [see Warnings and Precautions (5.12)].
 
 Medication Residue in the Stool
 
 Instruct patients to notify their healthcare provider if they notice a medication residue in the stool [see Warnings and Precautions (5.18)].
+
+- 250 mg is Mfd. by AbbVie LTD, Barceloneta, PR 00617 500 mg is Mfd. by AbbVie Inc., North Chicago, IL 60064 U.S.A. or AbbVie LTD, Barceloneta, PR 00617 For AbbVie Inc., North Chicago, IL 60064 U.S.A.
+
+©2017 AbbVie Inc. Revised: May 2017
+
+03-B524
