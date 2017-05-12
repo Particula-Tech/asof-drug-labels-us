@@ -12,7 +12,7 @@ Bupropion is a racemic mixture.
 The pharmacologic activity and pharmacokinetics of the individual enantiomers have not been studied.
 
 Following chronic dosing, the mean steady-state plasma concentration of bupropion was reached within 8 days.
-The mean elimination half-life (±SD) of bupropion 21 (±9) hours.
+The mean elimination half-life (±SD) of bupropion is 21 (±9) hours.
 
 In a study comparing 14-day dosing with WELLBUTRIN XL, 300 mg once-daily to the immediate-release formulation of bupropion at 100 mg 3 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the three metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion).
 Additionally, in a study comparing 14-day dosing with WELLBUTRIN XL 300 mg once daily to the sustained-release formulation of bupropion at 150 mg 2 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the three metabolites.

@@ -44,9 +44,9 @@ In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider re
 
 ## 2.7 Dose Adjustment in Patients with Renal Impairment
 
-Consider reducing the dose and/or frequency of WELLBUTRIN in patients with renal impairment (Glomerular Filtration Rate less than 90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Consider reducing the dose and/or frequency of WELLBUTRIN in patients with renal impairment (glomerular filtration rate less than 90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-## 2.8 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
+## 2.8 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with WELLBUTRIN XL.
 Conversely, at least 14 days should be allowed after stopping WELLBUTRIN XL before starting an MAOI antidepressant [see Contraindications (4) and Drug Interactions (7.6)].
