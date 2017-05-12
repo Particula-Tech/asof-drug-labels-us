@@ -1,8 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection
+## 2.1 Patient Selection for Treatment of NSCLC
 
-Select patients for treatment of metastatic NSCLC with KEYTRUDA based on the presence of positive PD-L1 expression [see Clinical Studies (14.2)].
+Select patients for treatment of metastatic NSCLC with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression [see Clinical Studies (14.2)].
 Information on FDA-approved tests for the detection of PD-L1 expression in NSCLC is available at: http://www.fda.gov/CompanionDiagnostics.
 
 ## 2.2 Recommended Dosage for Melanoma
@@ -12,6 +12,9 @@ The recommended dose of KEYTRUDA is 2 mg/kg administered as an intravenous infus
 ## 2.3 Recommended Dosage for NSCLC
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.2)].
+
+When administering KEYTRUDA in combination with chemotherapy, KEYTRUDA should be administered prior to chemotherapy when given on the same day [see Clinical Studies (14.2)].
+See also the Prescribing Information for pemetrexed and carboplatin.
 
 ## 2.4 Recommended Dosage for HNSCC
 

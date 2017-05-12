@@ -40,7 +40,7 @@ Advise females of reproductive potential to use effective contraception during t
 ## 8.4 Pediatric Use
 
 There is limited experience in pediatric patients.
-KEYTRUDA was evaluated in a study of 40 pediatric patients with advanced melanoma, PD-L1 positive advanced, relapsed, or refractory solid tumors or lymphoma; 2 of the 38 had hematologic malignancies, 1 of whom had cHL.
+KEYTRUDA was evaluated in a study of 40 pediatric patients with advanced melanoma, PD-L1 positive advanced, relapsed, or refractory solid tumors or lymphoma; 2 of the 40 had hematologic malignancies, 1 of whom had cHL.
 The median age was 13 years (range: 2 to 18 years), and included 16 children (2 years to less than 12 years) and 24 adolescents (12 years to 18 years).
 KEYTRUDA was administered at the recommended dose of 2 mg/kg every 3 weeks.
 Patients were treated for a median of 43 days (range 1-414 days), with 24 patients (60%) receiving treatment for 42 days or more.

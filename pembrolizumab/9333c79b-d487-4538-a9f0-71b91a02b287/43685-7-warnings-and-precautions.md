@@ -119,7 +119,7 @@ KEYTRUDA can cause severe or life-threatening infusion-related reactions, which 
 Monitor patients for signs and symptoms of infusion-related reactions including rigors, chills, wheezing, pruritus, flushing, rash, hypotension, hypoxemia, and fever.
 For severe (Grade 3) or life-threatening (Grade 4) infusion-related reactions, stop infusion and permanently discontinue KEYTRUDA [see Dosage and Administration (2.6)].
 
-## 5.8 Complications of Allogeneic HSCT After KEYTRUDA
+## 5.8 Complications of Allogeneic HSCT after KEYTRUDA
 
 Immune-mediated complications, including fatal events, occurred in patients who underwent allogeneic hematopoietic stem cell transplantation (HSCT) after being treated with KEYTRUDA.
 Of 23 patients with cHL who proceeded to allogeneic HSCT after treatment with KEYTRUDA on any trial, 6 patients (26%) developed graft-versus-host-disease (GVHD), one of which was fatal, and 2 patients (9%) developed severe hepatic veno-occlusive disease (VOD) after reduced-intensity conditioning, one of which was fatal.
