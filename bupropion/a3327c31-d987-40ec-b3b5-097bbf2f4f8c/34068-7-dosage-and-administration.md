@@ -42,7 +42,7 @@ A new quit attempt should be encouraged when factors that contributed to failure
 ## 2.4 Maintenance
 
 Tobacco dependence is a chronic condition.
-Some patients may need on-going treatment.
+Some patients may need ongoing treatment.
 Whether to continue treatment with ZYBAN for periods longer than 12 weeks for smoking cessation must be determined for individual patients.
 
 ## 2.5 Combination Treatment with ZYBAN and a Nicotine Transdermal System (NTS)

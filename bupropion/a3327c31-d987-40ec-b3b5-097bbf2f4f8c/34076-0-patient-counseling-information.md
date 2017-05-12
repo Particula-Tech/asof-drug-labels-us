@@ -2,28 +2,17 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Although ZYBAN is not indicated for treatment of depression, it contains the same active ingredient as the antidepressant medications WELLBUTRIN, WELLBUTRIN SR, and WELLBUTRIN XL.
-Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with ZYBAN and counsel them in its appropriate use.
-
-A patient Medication Guide about “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions,” and “What Other Important Information Should I Know About ZYBAN?” is available for ZYBAN.
-Instruct patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
-
-Advise patients regarding the following issues and to alert their prescriber if these occur while taking ZYBAN.
-
-Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
-
-Inform patients that quitting smoking, with or without ZYBAN, may be associated with nicotine withdrawal symptoms (including depression or agitation), or exacerbation of pre-existing psychiatric illness.
-Furthermore, some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking ZYBAN.
-If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
-
 Suicidal Thoughts and Behaviors
 
 Instruct patients, their families, and/or their caregivers to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Advise families and caregivers of patients to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or healthcare professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
-Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Boxed Warning, Warnings and Precautions (5.1)].
+
+Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
+
+Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking ZYBAN.
+Instruct patients to discontinue ZYBAN and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2), Adverse Reactions (6.2)].
 
 Severe Allergic Reactions
 
@@ -67,7 +56,7 @@ Advise patients that ZYBAN is present in human milk in small amounts.
 
 Storage Information
 
-Instruct patients to store ZYBAN at room temperature, between 59°F and 86°F (15°C to 30°C) and keep the tablets dry and out of the light.
+Instruct patients to store ZYBAN at room temperature, between 68°F and 77°F (20°C to 25°C) and keep the tablets dry and out of the light.
 
 Administration Information
 
@@ -86,7 +75,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2016 the GSK group of companies.
+©2017 the GSK group of companies.
 All rights reserved.
 
-ZYB:11PI
+ZYB:12PI

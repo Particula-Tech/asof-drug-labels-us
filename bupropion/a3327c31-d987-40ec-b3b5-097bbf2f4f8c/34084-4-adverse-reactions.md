@@ -2,8 +2,8 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Boxed Warning, Warnings and Precautions (5.1)]
-- •Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning, Warnings and Precautions (5.2)]
+- •Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning, Warnings and Precautions (5.1)]
+- •Neuropsychiatric adverse events and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
 - •Seizure [see Warnings and Precautions (5.3)]
 - •Hypertension [see Warnings and Precautions (5.4)]
 - •Activation of mania or hypomania [see Warnings and Precautions (5.5)]
@@ -117,6 +117,12 @@ Adverse Reactions Reported by at Least 1% of Subjects on Active Treatment and at
 aSubjects randomized to ZYBAN or placebo received placebo patches.
 
 Adverse reactions in a 1-year maintenance trial and a 12-week COPD trial with ZYBAN were quantitatively and qualitatively similar to those observed in the dose‑response and comparator trials.
+
+In the trial of patients without or with a history of psychiatric disorder, the most common adverse events in subjects treated with ZYBAN were broadly similar to those observed in premarketing studies.
+Adverse events reported in >10% of subjects treated with ZYBAN in the entire study population were nausea, insomnia, and anxiety disorders.
+Additionally, the following psychiatric adverse events were reported in >2% of patients in either treatment group (ZYBAN vs. placebo) by cohort.
+For the non-psychiatric cohort, these adverse events were anxiety, nervousness, abnormal dreams, and insomnia.
+For the psychiatric cohort, these adverse events were agitation, anxiety, panic, abnormal dreams, insomnia, and crying.
 
 Other Adverse Reactions Observed during the Clinical Development of Bupropion
 

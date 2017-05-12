@@ -15,9 +15,9 @@ Clinical Considerations
 
 Pregnant smokers should be encouraged to attempt cessation using educational and behavioral interventions before pharmacological approaches are used.
 
-Human Data
+Data
 
-Data from the international bupropion Pregnancy Registry (675 first trimester exposures) and a retrospective cohort study using the United Healthcare database (1,213 first trimester exposures) did not show an increased risk for malformations overall.
+Human Data: Data from the international bupropion Pregnancy Registry (675 first trimester exposures) and a retrospective cohort study using the United Healthcare database (1,213 first trimester exposures) did not show an increased risk for malformations overall.
 
 No increased risk for cardiovascular malformations overall has been observed after bupropion exposure during the first trimester.
 The prospectively observed rate of cardiovascular malformations in pregnancies with exposure to bupropion in the first trimester from the international Pregnancy Registry was 1.3% (9 cardiovascular malformations/675 first trimester maternal bupropion exposures), which is similar to the background rate of cardiovascular malformations (approximately 1%).
@@ -32,9 +32,7 @@ The NBDPS and United Healthcare database study did not find an association betwe
 
 For the findings of LVOTO and VSD, the studies were limited by the small number of exposed cases, inconsistent findings among studies, and the potential for chance findings from multiple comparisons in case control studies.
 
-Animal Data
-
-In studies conducted in rats and rabbits, bupropion was administered orally during the period of organogenesis at doses of up to 450 and 150 mg per kg per day, respectively (approximately 15 and 10 times the MRHD respectively, on a mg per m2 basis).
+Animal Data: In studies conducted in rats and rabbits, bupropion was administered orally during the period of organogenesis at doses of up to 450 and 150 mg per kg per day, respectively (approximately 15 and 10 times the MRHD respectively, on a mg per m2 basis).
 No clear evidence of teratogenic activity was found in either species; however, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg per kg per day, approximately 2 times the MRHD on a mg per m2 basis) and greater.
 Decreased fetal weights were observed at 50 mg per kg and greater.
 
@@ -49,7 +47,7 @@ Exercise caution when ZYBAN is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established [see Boxed Warning, Warnings and Precautions (5.2)].
+Safety and effectiveness in the pediatric population have not been established [see Boxed Warning, Warnings and Precautions (5.1)].
 
 ## 8.5 Geriatric Use
 

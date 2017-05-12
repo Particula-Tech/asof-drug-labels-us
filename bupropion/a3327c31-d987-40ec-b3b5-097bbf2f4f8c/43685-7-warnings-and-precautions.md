@@ -1,22 +1,11 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
+## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
-Serious neuropsychiatric symptoms have been reported in patients taking ZYBAN for smoking cessation.
-These have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Boxed Warning, Adverse Reactions (6.2)].
-Observe patients for the occurrence of neuropsychiatric reactions.
-Instruct patients to contact a healthcare professional if such reactions occur.
+Although ZYBAN is not indicated for treatment of depression, it contains the same active ingredient as the antidepressant medications WELLBUTRIN, WELLBUTRIN SR, and WELLBUTRIN XL.
+Antidepressants increased the risk of suicidal thoughts and behavior in children, adolescents, and young adults in short-term trials.
 
-In many of these cases, a causal relationship to bupropion treatment is not certain, because depressed mood can be a symptom of nicotine withdrawal.
-However, some of the cases occurred in patients taking ZYBAN who continued to smoke.
-
-The risks of ZYBAN should be weighed against the benefits of its use.
-ZYBAN has been demonstrated to increase the likelihood of abstinence from smoking for as long as 6 months compared with treatment with placebo.
-The health benefits of quitting smoking are immediate and substantial.
-
-## 5.2 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
-
-Patients with MDD, both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
+Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
 
@@ -58,6 +47,29 @@ Consideration should be given to changing the therapeutic regimen, including pos
 Families and caregivers of patients being treated with antidepressants for MDD or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.Prescriptions for ZYBAN should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
+## 5.2 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
+
+Serious neuropsychiatric adverse events have been reported in patients taking ZYBAN for smoking cessation.
+These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Adverse Reactions (6.2)].
+Some patients who stopped smoking may have been experiencing symptoms of nicotine withdrawal, including depressed mood.
+Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking cessation attempt without medication.
+However, some of these adverse events occurred in patients taking ZYBAN who continued to smoke.
+
+Neuropsychiatric adverse events occurred in patients without and with pre-existing psychiatric disease; some patients experienced worsening of their psychiatric illness.
+Observe patients for the occurrence of neuropsychiatric adverse events.
+Advise patients and caregivers that the patient should stop taking ZYBAN and contact a healthcare provider immediately if agitation, depressed mood, or changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
+The healthcare provider should evaluate the severity of the adverse events and the extent to which the patient is benefiting from treatment, and consider options including continued treatment under closer monitoring or discontinuing treatment.
+In many postmarketing cases, resolution of symptoms after discontinuation of ZYBAN was reported.
+However, the symptoms persisted in some cases; therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
+
+The neuropsychiatric safety of ZYBAN was evaluated in a randomized, double-blind, active- and placebo-controlled study that included patients without a history of psychiatric disorder (non-psychiatric cohort, n = 3,912) and patients with a history of psychiatric disorder (psychiatric cohort n = 4,003).
+In the non-psychiatric cohort, ZYBAN was not associated with an increase composite of the following neuropsychiatric (NPS) adverse events: severe events of anxiety, depression, feeling abnormal, or hostility, and moderate or severe events of agitation, aggression, delusions, hallucinations, homicidal ideation, mania, panic, and irritability.
+In the psychiatric cohort, there were more events reported in each treatment group compared with the non-psychiatric cohort and the incidence of events in the composite endpoint was higher for ZYBAN compared with placebo: Risk Difference (95% CI) vs. placebo was 2.2% (-0.5, 4.9) for ZYBAN.
+
+In the non-psychiatric cohort, neuropsychiatric adverse events of a serious nature were reported in 0.5% of patients treated with ZYBAN and 0.4% of placebo-treated patients.
+In the psychiatric cohort, neuropsychiatric events of a serious nature were reported in 0.8% of patients treated with ZYBAN, all involving psychiatric hospitalization.
+In placebo-treated patients, serious neuropsychiatric events occurred in 0.6%, with 0.2% requiring psychiatric hospitalization [see Clinical Studies (14)].
+
 ## 5.3 Seizure
 
 ZYBAN can cause seizure.
@@ -84,8 +96,8 @@ Treatment with ZYBAN can result in elevated blood pressure and hypertension.
 Assess blood pressure before initiating treatment with ZYBAN, and monitor periodically during treatment.
 The risk of hypertension is increased if ZYBAN is used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity [see Contraindications (4)].
 
-Data from a comparative trial of ZYBAN, nicotine transdermal system (NTS), the combination of ZYBAN plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of ZYBAN and NTS.
-In this trial, 6.1% of subjects treated with the combination of ZYBAN and NTS had treatment‑emergent hypertension compared to 2.5%, 1.6%, and 3.1% of subjects treated with ZYBAN, NTS, and placebo, respectively.
+Data from a comparative trial of ZYBAN, NTS, the combination of ZYBAN plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of ZYBAN and NTS.
+In this trial, 6.1% of subjects treated with the combination of ZYBAN and NTS had treatment‑emergent hypertension compared with 2.5%, 1.6%, and 3.1% of subjects treated with ZYBAN, NTS, and placebo, respectively.
 The majority of these subjects had evidence of pre-existing hypertension.
 Three subjects (1.2%) treated with the combination of ZYBAN and NTS and 1 subject (0.4%) treated with NTS had study medication discontinued due to hypertension compared with none of the subjects treated with ZYBAN or placebo.
 Monitoring of blood pressure is recommended in patients who receive the combination of bupropion and nicotine replacement.
@@ -97,7 +109,8 @@ There are no controlled trials assessing the safety of bupropion in patients wit
 
 Antidepressant treatment can precipitate a manic, mixed, or hypomanic episode.
 The risk appears to be increased in patients with bipolar disorder or who have risk factors for bipolar disorder.
-There were no reports of activation of psychosis or mania in clinical trials with ZYBAN conducted in nondepressed smokers.
+There were no reports of activation of psychosis or mania in premarketing clinical trials with ZYBAN conducted in nondepressed smokers.
+However, events of this nature were seen in patients with pre-existing psychiatric diagnoses in a smoking cessation trial [see Warnings and Precautions (5.2)].
 Bupropion is not approved for use in treating bipolar depression.
 
 ## 5.6 Psychosis and Other Neuropsychiatric Reactions
@@ -107,8 +120,8 @@ Some of these patients had a diagnosis of bipolar disorder.
 In some cases, these symptoms abated upon dose reduction and/or withdrawal of treatment.
 Instruct patients to contact a healthcare professional if such reactions occur.
 
-In clinical trials with ZYBAN conducted in nondepressed smokers, the incidence of neuropsychiatric side effects was generally comparable to placebo.
-However, in the postmarketing experience, patients taking ZYBAN to quit smoking have reported similar types of neuropsychiatric symptoms to those reported by patients in the clinical trials of bupropion for depression.
+In premarketing clinical trials with ZYBAN conducted in non-depressed smokers, the incidence of neuropsychiatric side effects was generally comparable to placebo.
+However, in the postmarketing experience, patients taking ZYBAN to quit smoking have reported similar types of neuropsychiatric symptoms to those reported by patients in the clinical trials of bupropion for depression [see Warnings and Precautions (5.2)].
 
 ## 5.7 Angle-Closure Glaucoma
 

@@ -4,7 +4,7 @@ NDC 0173-0556-01
 
 ZYBAN®
 
-(bupropionHCl)
+(bupropion HCl)
 
 Sustained-Release Tablets 150 mg
 
@@ -20,7 +20,7 @@ Federal Law requires dispensing of ZYBAN® with the Medication Guide under this 
 
 See prescribing information for dosage information.
 
-Store at room temperature between 59oF to 86oF (15oC to 30oC).
+Store at controlled room temperature, 20o to 25oC (68oto 77oF) [see USP].
 
 Keep dry and out of the light.
 
@@ -34,5 +34,5 @@ RTP, NC 27709
 
 Made in Germany
 
-1. 10000000129830 Rev.
-   11/14
+1. 10000000142522 Rev.
+   8/16
