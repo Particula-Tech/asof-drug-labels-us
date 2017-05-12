@@ -1,41 +1,33 @@
-# PACKAGE LABEL. PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-NDC 10631-238-01
+10631-206-01
 
-Riomet®
-
-(metformin hydrochloride oral solution)
+RIOMET®(metformin hydrochloride oral solution)
 
 500 mg/5 mL
 
 Each 5 mL contains: 500 mg of metformin hydrochloride, USP.
 
-StrawberryFlavor
+Cherry Flavor
 
 Rx only
 
-4 fl. oz.118 mL
-
-Strawberry Flavor
-
-Strawberry Flavor
+4 fl.
+Oz.
+118 mL
 
 # Package/Label Display Panel
 
-NDC 10631-206-01
+NDC 10631-238-01
 
-Riomet®
+RIOMET®(metformin hydrochloride oral solution)
 
-(metformin hydrochloride oral solution)
+500 mg/5 mL E
 
-500 mg/5 mL
+ach 5 mL contains: 500 mg of metformin hydrochloride, USP.
 
-Each 5 mL contains: 500 mg of metformin hydrochloride, USP.
+Strawberry Flavor
 
-CherryFlavor
-
-Rx only
-
-4 fl. oz.118 mL
-
-Cherry Flavor
+Rx only 4 fl.
+Oz.
+118 mL
