@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA074973"
+  ],
+  "inn": "trimethoprim",
+  "labeler": "Allegis Holdings, LLC",
+  "package_ndcs": [
+    "71297-500-16",
+    "71297-500-20"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "trimethoprim hydrochloride",
+      "name": "PrimSol"
+    }
+  ],
+  "setid": "f40d6d72-31c3-4ef8-b86c-0230e06a9383",
+  "source": "dailymed"
+}
