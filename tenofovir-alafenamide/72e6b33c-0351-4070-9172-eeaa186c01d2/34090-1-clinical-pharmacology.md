@@ -81,7 +81,6 @@ Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir A
 | CobicistatA representative inhibitor of P-glycoprotein. | 150 once daily | 8 once daily | 12 | 2.83 (2.20, 3.65) | 2.65 (2.29, 3.07) | NC |
 | Ledipasvir/Sofosbuvir | 90/400 once daily | 25 once dailyStudy conducted with emtricitabine/rilpivirine/tenofovir alafenamide. | 42 | 1.03 (0.94, 1.14) | 1.32 (1.24, 1.40) | NC |
 | Sertraline | 50 once daily | 10 once dailyStudy conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. | 19 | 1.00 (0.86, 1.16) | 0.96 (0.89, 1.03) | NC |
-| Sofosbuvir/Velpatasvir | 400/100 once daily | 10 once daily | 24 | 0.80 (0.68, 0.94) | 0.87 (0.81, 0.94) | NC |
 | NC = not calculated |  |  |  |  |  |  |
 
 Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir AlafenamideAll interaction studies conducted in healthy subjects.
@@ -98,9 +97,6 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | Norgestrel | 1.10 (1.02, 1.18) | 1.09 (1.01, 1.18) | 1.11 (1.03, 1.20) |  |  |  |
 | Ethinyl estradiol | 1.22 (1.15, 1.29) | 1.11 (1.07, 1.16) | 1.02 (0.93, 1.12) |  |  |  |
 | Sertraline | 50 single dose | 10 once dailyStudy conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. | 19 | 1.14 (0.94, 1.38) | 1.09 (0.90, 1.32) | NC |
-| Sofosbuvir | 400 once daily | 10 once daily | 23 | 1.23 (1.07, 1.42) | 1.37 (1.24, 1.52) | NC |
-| GS-331007 | 1.29 (1.25, 1.33) | 1.48 (1.43, 1.53) | 1.58 (1.52, 1.65) |  |  |  |
-| Velpatasvir | 100 once daily | 15 | 1.30 (1.17, 1.45) | 1.50 (1.35, 1.66) | 1.60 (1.44, 1.78) |  |
 | NC = not calculated |  |  |  |  |  |  |
 
 ## 12.4 Microbiology

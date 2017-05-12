@@ -2,9 +2,9 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Lactic Acidosis/Severe Hepatomegaly with Steatosis [see Boxed Warning and Warnings and Precautions (5.1)]
-- Severe Acute Exacerbation of Hepatitis B [see Boxed Warning and Warnings and Precautions (5.2)]
-- New Onset or Worsening of Renal Impairment [see Warnings and Precautions (5.4)]
+- Severe Acute Exacerbation of Hepatitis B [see Boxed Warning and Warnings and Precautions (5.1)]
+- New Onset or Worsening of Renal Impairment [see Warnings and Precautions (5.3)]
+- Lactic Acidosis/Severe Hepatomegaly with Steatosis [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 

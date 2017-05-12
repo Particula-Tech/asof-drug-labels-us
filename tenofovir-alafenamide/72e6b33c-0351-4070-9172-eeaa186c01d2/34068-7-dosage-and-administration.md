@@ -3,9 +3,9 @@
 ## 2.1 Testing Prior to Initiation of VEMLIDY
 
 Prior to initiation of VEMLIDY, patients should be tested for HIV-1 infection.
-VEMLIDY alone should not be used in patients with HIV infection [see Warnings and Precautions (5.3)].
+VEMLIDY alone should not be used in patients with HIV infection [see Warnings and Precautions (5.2)].
 
-It is recommended that serum creatinine, serum phosphorous, estimated creatinine clearance, urine glucose, and urine protein be assessed before initiating VEMLIDY and during therapy in all patients as clinically appropriate [see Warnings and Precautions (5.4)].
+It is recommended that serum creatinine, serum phosphorous, estimated creatinine clearance, urine glucose, and urine protein be assessed before initiating VEMLIDY and during therapy in all patients as clinically appropriate [see Warnings and Precautions (5.3)].
 
 ## 2.2 Recommended Dosage in Adults
 

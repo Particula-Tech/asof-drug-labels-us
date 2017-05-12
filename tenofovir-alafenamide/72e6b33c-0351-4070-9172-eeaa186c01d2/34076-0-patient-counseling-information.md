@@ -2,22 +2,22 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Lactic Acidosis and Severe Hepatomegaly
-
-Advise patients that lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with use of drugs similar to VEMLIDY.
-Advise patients to contact their healthcare provider immediately and stop VEMLIDY if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.1)].
-
 Severe Acute Exacerbation of Hepatitis after Discontinuation of Treatment
 
-Inform patients that discontinuation of anti-hepatitis B therapy, including VEMLIDY, may result in severe acute exacerbations of hepatitis B. Advise the patient to not discontinue VEMLIDY without first informing their healthcare provider [see Warnings and Precautions (5.2)].
+Inform patients that discontinuation of anti-hepatitis B therapy, including VEMLIDY, may result in severe acute exacerbations of hepatitis B. Advise the patient to not discontinue VEMLIDY without first informing their healthcare provider [see Warnings and Precautions (5.1)].
 
 Risk of Development of HIV-1 Resistance in Patients with HIV-1 Coinfection
 
-Inform patients that if they have or develop HIV infection and are not receiving effective HIV treatment, VEMLIDY may increase the risk of development of resistance to HIV medication [see Dosage and Administration (2.1) and Warnings and Precautions (5.3)].
+Inform patients that if they have or develop HIV infection and are not receiving effective HIV treatment, VEMLIDY may increase the risk of development of resistance to HIV medication [see Dosage and Administration (2.1) and Warnings and Precautions (5.2)].
 
 New Onset or Worsening Renal Impairment
 
-Advise patients that renal impairment, including cases of acute renal failure, has been reported in association with the use of tenofovir prodrugs [see Warnings and Precautions (5.4)].
+Advise patients that renal impairment, including cases of acute renal failure, has been reported in association with the use of tenofovir prodrugs [see Warnings and Precautions (5.3)].
+
+Lactic Acidosis and Severe Hepatomegaly
+
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with use of drugs similar to VEMLIDY.
+Advise patients to contact their healthcare provider immediately and stop VEMLIDY if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.4)].
 
 Drug Interactions
 

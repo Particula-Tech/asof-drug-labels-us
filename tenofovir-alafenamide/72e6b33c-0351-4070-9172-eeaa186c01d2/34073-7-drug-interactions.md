@@ -10,7 +10,7 @@ Coadministration of VEMLIDY with other drugs that inhibit P-gp and BCRP may incr
 ## 7.2 Drugs Affecting Renal Function
 
 Because tenofovir is primarily excreted by the kidneys by a combination of glomerular filtration and active tubular secretion, coadministration of VEMLIDY with drugs that reduce renal function or compete for active tubular secretion may increase concentrations of tenofovir and other renally eliminated drugs and this may increase the risk of adverse reactions.
-Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.4)].
+Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.3)].
 
 ## 7.3 Established and Other Potentially Significant Interactions
 
@@ -30,4 +30,4 @@ Table 4 Established and Other Potentially Significant Drug InteractionsThis tabl
 
 ## 7.4 Drugs without Clinically Significant Interactions with VEMLIDY
 
-Based on drug interaction studies conducted with VEMLIDY, no clinically significant drug interactions have been observed with: ethinyl estradiol, itraconazole, ketoconazole, ledipasvir/sofosbuvir, midazolam, norgestimate, sertraline, sofosbuvir, and sofosbuvir/velpatasvir.
+Based on drug interaction studies conducted with VEMLIDY, no clinically significant drug interactions have been observed with: ethinyl estradiol, itraconazole, ketoconazole, ledipasvir/sofosbuvir, midazolam, norgestimate, sertraline, and sofosbuvir.
