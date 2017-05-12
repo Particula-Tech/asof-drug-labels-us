@@ -42,10 +42,12 @@ Table 8: Population Predicted Steady State PK Exposures (Median with 5th - 95th 
 | MGC | 274 | 32.9 (6.1 - 88.9) | 131 (72.5 - 251) | 1338 (557 - 2875) | 9 | 0.189 - 0.337 |  |
 | 4 mg/kg + 2 mg/kg qw | Breast cancer | 1195 | 66.1 (14.9 - 142) | 109 (51.0 - 209) | 1765 (647 - 3578) | 12 | 0.201 - 0.244 |
 
-Specific Populations: Based on a population pharmacokinetic analysis, no clinically significant differences were observed in the pharmacokinetics of trastuzumab based on age (<65 (n=1294); ≥65 (n=288)), race (Asian (n=264); non-Asian (n=1324)) and renal impairment (mild (creatinine clearance [CLcr] 60 to 90 mL/min) (n=636) or moderate (CLcr 30 to 60 mL/min) (n=133)).
+Specific Populations
+
+Based on a population pharmacokinetic analysis, no clinically significant differences were observed in the pharmacokinetics of trastuzumab based on age (< 65 (n = 1294); ≥ 65 (n = 288)), race (Asian (n = 264); non-Asian (n = 1324)) and renal impairment (mild (creatinine clearance [CLcr] 60 to 90 mL/min) (n = 636) or moderate (CLcr 30 to 60 mL/min) (n = 133)).
 The pharmacokinetics of trastuzumab in patients with severe renal impairment, end-stage renal disease with or without hemodialysis, or hepatic impairment is unknown.
 
-Drug Interaction Studies:
+Drug Interaction Studies
 
 There have been no formal drug interaction studies performed with Herceptin in humans.
 Clinically significant interactions between Herceptin and concomitant medications used in clinical trials have not been observed.

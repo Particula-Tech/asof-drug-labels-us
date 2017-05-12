@@ -6,7 +6,7 @@ Herceptin administration can result in sub-clinical and clinical cardiac failure
 The incidence and severity was highest in patients receiving Herceptin with anthracycline-containing chemotherapy regimens.
 
 Evaluate left ventricular function in all patients prior to and during treatment with Herceptin.
-Discontinue Herceptin treatment in patients receiving adjuvant therapy and withhold Herceptin in patients with metastatic disease for clinically significant decrease in left ventricular function [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
+Discontinue Herceptin treatment in patients receiving adjuvant therapy and withhold Herceptin in patients with metastatic disease for clinically significant decrease in left ventricular function [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
 
 Infusion Reactions; Pulmonary Toxicity
 

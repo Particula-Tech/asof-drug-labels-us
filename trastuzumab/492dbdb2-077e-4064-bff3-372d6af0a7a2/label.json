@@ -5,9 +5,16 @@
   "inn": "trastuzumab",
   "labeler": "Genentech, Inc.",
   "package_ndcs": [
-    "50242-134-68"
+    "50242-132-01",
+    "50242-134-68",
+    "50242-333-01"
   ],
   "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "trastuzumab",
+      "name": "Herceptin"
+    },
     {
       "form": "KIT",
       "generic": "trastuzumab",

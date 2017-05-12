@@ -1,12 +1,22 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Doses and Schedules
+## 2.1 Patient Selection
+
+Select patients based on HER2 protein overexpression or HER2 gene amplification in tumor specimens [see Indications and Usage (1) and Clinical Studies (14)].
+Assessment of HER2 protein overexpression and HER2 gene amplification should be performed using FDA-approved tests specific for breast or gastric cancers by laboratories with demonstrated proficiency.
+Information on the FDA-approved tests for the detection of HER2 protein overexpression and HER2 gene amplification is available at: http://www.fda.gov/CompanionDiagnostics.
+
+Assessment of HER2 protein overexpression and HER2 gene amplification in metastatic gastric cancer should be performed using FDA-approved tests specifically for gastric cancers due to differences in gastric vs. breast histopathology, including incomplete membrane staining and more frequent heterogeneous expression of HER2 seen in gastric cancers.
+
+Improper assay performance, including use of suboptimally fixed tissue, failure to utilize specified reagents, deviation from specific assay instructions, and failure to include appropriate controls for assay validation, can lead to unreliable results.
+
+## 2.2 Recommended Doses and Schedules
 
 - Do not administer as an intravenous push or bolus.
   Do not mix Herceptin with other drugs.
 - Do not substitute Herceptin (trastuzumab) for or with ado-trastuzumab emtansine.
 
-Adjuvant Treatment, Breast Cancer:
+Adjuvant Treatment, Breast Cancer
 
 Administer according to one of the following doses and schedules for a total of 52 weeks of Herceptin therapy:
 
@@ -18,18 +28,18 @@ During and following paclitaxel, docetaxel, or docetaxel/carboplatin:
 As a single agent within three weeks following completion of multi-modality, anthracycline-based chemotherapy regimens:
 
 - Initial dose at 8 mg/kg as an intravenous infusion over 90 minutes
-- Subsequent doses at 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks [see Dosage and Administration (2.2)].
+- Subsequent doses at 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks [see Dosage and Administration (2.3)].
 - Extending adjuvant treatment beyond one year is not recommended [see Adverse Reactions (6.1)].
 
-Metastatic Treatment, Breast Cancer:
+Metastatic Treatment, Breast Cancer
 
 - Administer Herceptin, alone or in combination with paclitaxel, at an initial dose of 4 mg/kg as a 90-minute intravenous infusion followed by subsequent once weekly doses of 2 mg/kg as 30-minute intravenous infusions until disease progression.
 
-Metastatic Gastric Cancer:
+Metastatic Gastric Cancer
 
-- Administer Herceptin at an initial dose of 8 mg/kg as a 90-minute intravenous infusion followed by subsequent doses of 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks until disease progression [see Dosage and Administration (2.2)].
+- Administer Herceptin at an initial dose of 8 mg/kg as a 90-minute intravenous infusion followed by subsequent doses of 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks until disease progression [see Dosage and Administration (2.3)].
 
-## 2.2 Important Dosing Considerations
+## 2.3 Important Dosing Considerations
 
 If the patient has missed a dose of Herceptin by one week or less, then the usual maintenance dose (weekly schedule: 2 mg/kg; three-weekly schedule: 6 mg/kg) should be administered as soon as possible.
 Do not wait until the next planned cycle.
@@ -40,7 +50,7 @@ Subsequent Herceptin maintenance doses (weekly schedule: 2 mg/kg; three-weekly s
 
 Infusion Reactions
 
-[see Boxed Warning, Warnings and Precautions (5.2)]
+[See Boxed Warning, Warnings and Precautions (5.2)]
 
 - Decrease the rate of infusion for mild or moderate infusion reactions
 - Interrupt the infusion in patients with dyspnea or clinically significant hypotension
@@ -48,7 +58,7 @@ Infusion Reactions
 
 Cardiomyopathy
 
-[see Boxed Warning, Warnings and Precautions (5.1)]
+[See Boxed Warning, Warnings and Precautions (5.1)]
 
 Assess left ventricular ejection fraction (LVEF) prior to initiation of Herceptin and at regular intervals during treatment.
 Withhold Herceptin dosing for at least 4 weeks for either of the following:
@@ -60,19 +70,22 @@ Herceptin may be resumed if, within 4–8 weeks, the LVEF returns to normal limi
 
 Permanently discontinue Herceptin for a persistent (> 8 weeks) LVEF decline or for suspension of Herceptin dosing on more than 3 occasions for cardiomyopathy.
 
-## 2.3 Preparation for Administration
+## 2.4 Preparation for Administration
 
 To prevent medication errors, it is important to check the vial labels to ensure that the drug being prepared and administered is Herceptin (trastuzumab) and not ado-trastuzumab emtansine.
 
+420 mg Multiple-dose vial
+
 Reconstitution
 
-Reconstitute each 440 mg vial of Herceptin with 20 mL of Bacteriostatic Water for Injection (BWFI), USP, containing 1.1% benzyl alcohol as a preservative to yield a multi-dose solution containing 21 mg/mL trastuzumab.
+Reconstitute each 420 mg vial of Herceptin with 20 mL of Bacteriostatic Water for Injection (BWFI), USP, containing 1.1% benzyl alcohol as a preservative to yield a multiple-dose solution containing 21 mg/mL trastuzumab that delivers 20 mL (420 mg trastuzumab).
 In patients with known hypersensitivity to benzyl alcohol, reconstitute with 20 mL of Sterile Water for Injection (SWFI) without preservative to yield a single use solution.
 
 Use appropriate aseptic technique when performing the following reconstitution steps:
 
 - Using a sterile syringe, slowly inject the 20 mL of diluent into the vial containing the lyophilized cake of Herceptin.
   The stream of diluent should be directed into the lyophilized cake.
+  The reconstituted vial yields a solution for multiple-dose use, containing 21 mg/mL trastuzumab.
 - Swirl the vial gently to aid reconstitution.
   DO NOT SHAKE.
 - Slight foaming of the product may be present upon reconstitution.
@@ -80,12 +93,48 @@ Use appropriate aseptic technique when performing the following reconstitution s
 - Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   Inspect visually for particulates and discoloration.
   The solution should be free of visible particulates, clear to slightly opalescent and colorless to pale yellow.
-- Store reconstituted Herceptin at 2–8° C; discard unused Herceptin after 28 days.
+- Store reconstituted Herceptin in the refrigerator at 2°C to 8° C (36°F to 46°F); discard unused Herceptin after 28 days.
   If Herceptin is reconstituted with SWFI without preservative, use immediately and discard any unused portion.
+  Do not freeze.
+
+Dilution
+
+- Determine the dose (mg) of Herceptin [see Dosage and Administration (2.2)].
+  Calculate the volume of the 21 mg/mL reconstituted Herceptin solution needed, withdraw this amount from the vial and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection, USP.
+  DO NOT USE DEXTROSE (5%) SOLUTION.
+- Gently invert the bag to mix the solution.
+- The solution of Herceptin for infusion diluted in polyvinylchloride or polyethylene bags containing 0.9% Sodium Chloride Injection, USP, should be stored at 2°C to 8°C (36°F to 46°F) for no more than 24 hours prior to use.
+  Do not freeze.
+
+150 mg Single-dose vial
+
+Reconstitution
+
+Reconstitute each 150 mg vial of Herceptin with 7.4 mL of Sterile Water for Injection (SWFI) (not supplied) to yield a single-dose solution containing 21 mg/mL trastuzumab that delivers 7.15 mL (150 mg trastuzumab).
+
+Use appropriate aseptic technique when performing the following reconstitution steps:
+
+- Using a sterile syringe, slowly inject 7.4 mL of SWFI (not supplied) into the vial containing the lyophilized 150 mg Herceptin, directing the diluent stream into the lyophilized cake.
+  The reconstituted vial yields a solution for single-dose use, containing 21 mg/mL trastuzumab.
+- Swirl the vial gently to aid reconstitution.
+  DO NOT SHAKE.
+- Slight foaming of the product may be present upon reconstitution.
+  Allow the vial to stand undisturbed for approximately 5 minutes.
+- Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+  Inspect visually for particulates and discoloration.
+  The solution should be free of visible particulates, clear to slightly opalescent and colorless to pale yellow.
+- Use the Herceptin solution immediately following reconstitution with SWFI, as it contains no preservative and is intended for single-dose only.
+  If not used immediately, store the reconstituted Herceptin solution for up to 24 hours at 2°C to 8°C (36°F to 46°F); discard any unused Herceptin after 24 hours.
+  Do not freeze.
 
 Dilution
 
 - Determine the dose (mg) of Herceptin [see Dosage and Administration (2.1)].
-  Calculate the volume of the 21 mg/mL reconstituted Herceptin solution needed, withdraw this amount from the vial and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection, USP.
+- Calculate the volume of the 21 mg/mL reconstituted Herceptin solution needed.
+- Withdraw this amount from the vial and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection, USP.
   DO NOT USE DEXTROSE (5%) SOLUTION.
 - Gently invert the bag to mix the solution.
+- The solution of Herceptin for infusion diluted in polyvinylchloride or polyethylene bags containing 0.9% Sodium Chloride Injection, USP, should be stored at 2°C to 8°C (36°F to 46°F) for no more than 24 hours prior to use.
+  Discard after 24 hours.
+  This storage time is additional to the time allowed for the reconstituted vials.
+  Do not freeze.

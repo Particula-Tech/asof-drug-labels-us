@@ -8,7 +8,7 @@ Herceptin can also cause asymptomatic decline in left ventricular ejection fract
 There is a 4–6 fold increase in the incidence of symptomatic myocardial dysfunction among patients receiving Herceptin as a single agent or in combination therapy compared with those not receiving Herceptin.
 The highest absolute incidence occurs when Herceptin is administered with an anthracycline.
 
-Withhold Herceptin for ≥ 16% absolute decrease in LVEF from pre-treatment values or an LVEF value below institutional limits of normal and ≥ 10% absolute decrease in LVEF from pretreatment values [see Dosage and Administration (2.2)].
+Withhold Herceptin for ≥ 16% absolute decrease in LVEF from pre-treatment values or an LVEF value below institutional limits of normal and ≥ 10% absolute decrease in LVEF from pretreatment values [see Dosage and Administration (2.3)].
 The safety of continuation or resumption of Herceptin in patients with Herceptin-induced left ventricular cardiac dysfunction has not been studied.
 
 Patients who receive anthracycline after stopping Herceptin may also be at increased risk of cardiac dysfunction [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
@@ -20,16 +20,16 @@ The following schedule is recommended:
 
 - Baseline LVEF measurement immediately prior to initiation of Herceptin
 - LVEF measurements every 3 months during and upon completion of Herceptin
-- Repeat LVEF measurement at 4 week intervals if Herceptin is withheld for significant left ventricular cardiac dysfunction [see Dosage and Administration (2.2)]
+- Repeat LVEF measurement at 4 week intervals if Herceptin is withheld for significant left ventricular cardiac dysfunction [see Dosage and Administration (2.3)]
 - LVEF measurements every 6 months for at least 2 years following completion of Herceptin as a component of adjuvant therapy.
 
 In Study 1, 15% (158/1031) of patients discontinued Herceptin due to clinical evidence of myocardial dysfunction or significant decline in LVEF after a median follow-up duration of 8.7 years in the AC-TH arm.
 In Study 3 (one-year Herceptin treatment), the number of patients who discontinued Herceptin due to cardiac toxicity at 12.6 months median duration of follow-up was 2.6% (44/1678).
 In Study 4, a total of 2.9% (31/1056) of patients in the TCH arm (1.5% during the chemotherapy phase and 1.4% during the monotherapy phase) and 5.7% (61/1068) of patients in the AC-TH arm (1.5% during the chemotherapy phase and 4.2% during the monotherapy phase) discontinued Herceptin due to cardiac toxicity.
 
-Among 64 patients receiving adjuvant chemotherapy (Studies 1 and 2) who developed congestive heart failure, one patient died of cardiomyopathy, one patient died suddenly without documented etiology and 33 patients were receiving cardiac medication at last follow-up.
+Among 64 patients receiving adjuvant chemotherapy (Studies 1 and 2) who developed congestive heart failure, one patient died of cardiomyopathy, one patient died suddenly without documented etiology, and 33 patients were receiving cardiac medication at last follow-up.
 Approximately 24% of the surviving patients had recovery to a normal LVEF (defined as ≥50%) and no symptoms on continuing medical management at the time of last follow-up.
-Incidence of congestive heart failure is presented in Table 1.
+Incidence of congestive heart failure (CHF) is presented in Table 1.
 The safety of continuation or resumption of Herceptin in patients with Herceptin-induced left ventricular cardiac dysfunction has not been studied.
 
 Table 1: Incidence of Congestive Heart Failure in Adjuvant Breast Cancer Studies
@@ -93,21 +93,3 @@ Patients with symptomatic intrinsic lung disease or with extensive tumor involve
 
 In randomized, controlled clinical trials, the per-patient incidences of NCI-CTC Grade 3–4 neutropenia and of febrile neutropenia were higher in patients receiving Herceptin in combination with myelosuppressive chemotherapy as compared to those who received chemotherapy alone.
 The incidence of septic death was similar among patients who received Herceptin and those who did not [see Adverse Reactions (6.1)].
-
-## 5.6 HER2 Testing
-
-Detection of HER2 protein overexpression is necessary for selection of patients appropriate for Herceptin therapy because these are the only patients studied and for whom benefit has been shown.
-Due to differences in tumor histopathology, use FDA-approved tests for the specific tumor type (breast or gastric/gastroesophageal adenocarcinoma) to assess HER2 protein overexpression and HER2 gene amplification.
-Tests should be performed by laboratories with demonstrated proficiency in the specific technology being utilized.
-Improper assay performance, including use of suboptimally fixed tissue, failure to utilize specified reagents, deviation from specific assay instructions, and failure to include appropriate controls for assay validation, can lead to unreliable results.
-
-Several FDA-approved commercial assays are available to aid in the selection of breast cancer and metastatic gastric cancer patients for Herceptin therapy.
-Users should refer to the package inserts of specific assay kits for information on the Intended Use, and the validation and performance of each assay.
-
-Limitations in assay precision make it inadvisable to rely on a single method to rule out potential Herceptin benefit.
-
-Treatment outcomes for adjuvant breast cancer (Studies 2 and 3) and for metastatic breast cancer (Study 5) as a function of IHC and FISH testing are provided in Tables 10 and 12.
-
-Assessment of HER2 protein overexpression and HER2 gene amplification in metastatic gastric cancer should be performed using FDA-approved tests specifically for gastric cancers due to differences in gastric vs. breast histopathology, including incomplete membrane staining and more frequent heterogeneous expression of HER2 seen in gastric cancers.
-Study 7 demonstrated that gene amplification and protein overexpression were not as well correlated as with breast cancer.
-Treatment outcomes for metastatic gastric cancer (Study 7) based on HER2 gene amplification (FISH) and HER2 protein overexpression (IHC) test results are provided in Table 14.

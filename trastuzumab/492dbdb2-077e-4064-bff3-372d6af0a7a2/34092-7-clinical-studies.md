@@ -14,7 +14,7 @@ Patients were randomized (1:1) to receive doxorubicin and cyclophosphamide follo
 In both trials, patients received four 21-day cycles of doxorubicin 60 mg/m2 and cyclophosphamide 600 mg/m2.
 Paclitaxel was administered either weekly (80 mg/m2) or every 3 weeks (175 mg/m2) for a total of 12 weeks in Study 1; paclitaxel was administered only by the weekly schedule in Study 2.
 Herceptin was administered at 4 mg/kg on the day of initiation of paclitaxel and then at a dose of 2 mg/kg weekly for a total of 52 weeks.
-Herceptin treatment was permanently discontinued in patients who developed congestive heart failure, or persistent/recurrent LVEF decline [see Dosage and Administration (2.2)].
+Herceptin treatment was permanently discontinued in patients who developed congestive heart failure, or persistent/recurrent LVEF decline [see Dosage and Administration (2.3)].
 Radiation therapy, if administered, was initiated after the completion of chemotherapy.
 Patients with ER+ and/or PR+ tumors received hormonal therapy.
 The primary endpoint of the combined efficacy analysis was Disease-Free Survival (DFS), defined as the time from randomization to recurrence, occurrence of contralateral breast cancer, other second primary cancer, or death.
@@ -43,7 +43,7 @@ The main outcome measure was Disease-Free Survival (DFS), defined as in Studies 
 A protocol specified interim efficacy analysis comparing one-year Herceptin treatment to observation was performed at a median follow-up duration of 12.6 months in the Herceptin arm and formed the basis for the definitive DFS results from this study.
 Among the 3386 patients randomized to the observation (n = 1693) and Herceptin one-year (n = 1693) treatment arms, the median age was 49 years (range 21–80), 83% were Caucasian, and 13% were Asian.
 Disease characteristics: 94% infiltrating ductal carcinoma, 50% ER+ and/or PgR+, 57% node positive, 32% node negative, and in 11% of patients, nodal status was not assessable due to prior neo-adjuvant chemotherapy.
-Ninety-six percent (1055/1098) of patients with node-negative disease had high risk features: among the 1098 patients with node-negative disease, 49% (543) were ER− and PgR−, and 47% (512) were ER and/or PgR + and had at least one of the following high risk features: pathological tumor size greater than 2 cm, Grade 2–3, or age < 35 years.
+Ninety-six percent (1055/1098) of patients with node-negative disease had high risk features: among the 1098 patients with node-negative disease, 49% (543) were ER− and PgR−, and 47% (512) were ER and/or PgR+ and had at least one of the following high risk features: pathological tumor size greater than 2 cm, Grade 2–3, or age < 35 years.
 Prior to randomization, 94% of patients had received anthracycline-based chemotherapy regimens.
 
 After the definitive DFS results comparing observation to one-year Herceptin treatment were disclosed, a prospectively planned analysis that included comparison of one year versus two years of Herceptin treatment at a median follow-up duration of 8 years was performed.
@@ -53,7 +53,7 @@ Study 4
 
 In Study 4, breast tumor specimens were required to show HER2 gene amplification (FISH+ only) as determined at a central laboratory.
 Patients were required to have either node-positive disease, or node-negative disease with at least one of the following high-risk features: ER/PR-negative, tumor size > 2 cm, age < 35 years, or histologic and/or nuclear Grade 2 or 3.
-Patients with a history of CHF, myocardial infarction, Grade 3 or 4 cardiac arrhythmia, angina requiring medication, clinically significant valvular heart disease, poorly controlled hypertension (diastolic > 100 mm Hg), any T4 or N2 or known N3 or M1 breast cancer were not eligible.
+Patients with a history of CHF, myocardial infarction, Grade 3 or 4 cardiac arrhythmia, angina requiring medication, clinically significant valvular heart disease, poorly controlled hypertension (diastolic > 100 mm Hg), any T4 or N2, or known N3 or M1 breast cancer were not eligible.
 
 Patients were randomized (1:1:1) to receive doxorubicin and cyclophosphamide followed by docetaxel (AC-T), doxorubicin and cyclophosphamide followed by docetaxel plus Herceptin (AC-TH), or docetaxel and carboplatin plus Herceptin (TCH).
 In both the AC-T and AC-TH arms, doxorubicin 60 mg/m2 and cyclophosphamide 600 mg/m2 were administered every 3 weeks for four cycles; docetaxel 100 mg/m 2 was administered every 3 weeks for four cycles.
@@ -136,7 +136,7 @@ Patients were randomized to receive chemotherapy alone or in combination with He
 For those who had received prior anthracycline therapy in the adjuvant setting, chemotherapy consisted of paclitaxel (175 mg/m2 over 3 hours every 21 days for at least six cycles); for all other patients, chemotherapy consisted of anthracycline plus cyclophosphamide (AC: doxorubicin 60 mg/m2 or epirubicin 75 mg/m2 plus 600 mg/m2 cyclophosphamide every 21 days for six cycles).
 Sixty-five percent of patients randomized to receive chemotherapy alone in this study received Herceptin at the time of disease progression as part of a separate extension study.
 
-Based upon the determination by an independent response evaluation committee the patients randomized to Herceptin and chemotherapy experienced a significantly longer median time to disease progression, a higher overall response rate (ORR), and a longer median duration of response, as compared with patients randomized to chemotherapy alone.
+Based upon the determination by an independent response evaluation committee, the patients randomized to Herceptin and chemotherapy experienced a significantly longer median time to disease progression, a higher overall response rate (ORR), and a longer median duration of response as compared with patients randomized to chemotherapy alone.
 Patients randomized to Herceptin and chemotherapy also had a longer median survival (see Table 11).
 These treatment effects were observed both in patients who received Herceptin plus paclitaxel and in those who received Herceptin plus AC; however the magnitude of the effects was greater in the paclitaxel subgroup.
 
@@ -181,7 +181,7 @@ Herceptin was studied as a single agent in a multicenter, open-label, single-arm
 Of 222 patients enrolled, 66% had received prior adjuvant chemotherapy, 68% had received two prior chemotherapy regimens for metastatic disease, and 25% had received prior myeloablative treatment with hematopoietic rescue.
 Patients were treated with a loading dose of 4 mg/kg IV followed by weekly doses of Herceptin at 2 mg/kg IV.
 
-The ORR (complete response+partial response), as determined by an independent Response Evaluation Committee, was 14%, with a 2% complete response rate and a 12% partial response rate.
+The ORR (complete response + partial response), as determined by an independent Response Evaluation Committee, was 14%, with a 2% complete response rate and a 12% partial response rate.
 Complete responses were observed only in patients with disease limited to skin and lymph nodes.
 The overall response rate in patients whose tumors tested as CTA 3+ was 18% while in those that tested as CTA 2+, it was 6%.
 
@@ -195,7 +195,7 @@ Patients were also required to have adequate cardiac function (e.g., LVEF > 50%)
 
 On the Herceptin-containing arm, Herceptin was administered as an IV infusion at an initial dose of 8 mg/kg followed by 6 mg/kg every 3 weeks until disease progression.
 On both study arms cisplatin was administered at a dose of 80 mg/m2 Day 1 every 3 weeks for 6 cycles as a 2 hour IV infusion.
-On both study arms capecitabine was administered at 1000 mg/m2 dose orally twice daily (total daily dose 2000 mg/m2) for 14 days of each 21 day cycle for 6 cycles.
+On both study arms, capecitabine was administered at 1000 mg/m2 dose orally twice daily (total daily dose 2000 mg/m2) for 14 days of each 21 day cycle for 6 cycles.
 Alternatively, continuous intravenous infusion (CIV) 5-fluorouracil was administered at a dose of 800 mg/m2/day from Day 1 through Day 5 every three weeks for 6 cycles.
 
 The median age of the study population was 60 years (range: 21-83); 76% were male; 53% were Asian, 38% Caucasian, 5% Hispanic, 5% other racial/ethnic groups; 91% had ECOG PS of 0 or 1; 82% had primary gastric cancer and 18% had primary gastroesophageal adenocarcinoma.

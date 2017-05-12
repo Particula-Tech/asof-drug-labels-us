@@ -6,10 +6,10 @@ The following adverse reactions are discussed in greater detail in other section
 - Infusion Reactions [see Warnings and Precautions (5.2)]
 - Embryo-Fetal Toxicity [see Warnings and Precautions (5.3)]
 - Pulmonary Toxicity [see Warnings and Precautions (5.4)]
-- Exacerbation of Chemotherapy-induced Neutropenia [see Warnings and Precautions (5.5)]
+- Exacerbation of Chemotherapy-Induced Neutropenia [see Warnings and Precautions (5.5)]
 
 The most common adverse reactions in patients receiving Herceptin in the adjuvant and metastatic breast cancer setting are fever, nausea, vomiting, infusion reactions, diarrhea, infections, increased cough, headache, fatigue, dyspnea, rash, neutropenia, anemia, and myalgia.
-Adverse reactions requiring interruption or discontinuation of Herceptin treatment include CHF, significant decline in left ventricular cardiac function, severe infusion reactions, and pulmonary toxicity [see Dosage and Administration (2.2)].
+Adverse reactions requiring interruption or discontinuation of Herceptin treatment include CHF, significant decline in left ventricular cardiac function, severe infusion reactions, and pulmonary toxicity [see Dosage and Administration (2.3)].
 
 In the metastatic gastric cancer setting, the most common adverse reactions (≥ 10%) that were increased (≥ 5% difference) in the Herceptin arm as compared to the chemotherapy alone arm were neutropenia, diarrhea, fatigue, anemia, stomatitis, weight loss, upper respiratory tract infections, fever, thrombocytopenia, mucosal inflammation, nasopharyngitis, and dysgeusia.
 The most common adverse reactions which resulted in discontinuation of treatment on the Herceptin-containing arm in the absence of disease progression were infection, diarrhea, and febrile neutropenia.
@@ -93,11 +93,11 @@ The safety data from Studies 1 and 2 were obtained from 3655 patients, of whom 2
 The median age was 49 years (range: 24–80); 84% of patients were White, 7% Black, 4% Hispanic, and 3% Asian.
 
 In Study 1, only Grade 3–5 adverse events, treatment-related Grade 2 events, and Grade 2–5 dyspnea were collected during and for up to 3 months following protocol-specified treatment.
-The following non-cardiac adverse reactions of Grade 2–5 occurred at an incidence of at least 2% greater among patients receiving Herceptin plus chemotherapy as compared to chemotherapy alone: fatigue (29.5% vs. 22.4%), infection (24.0% vs. 12.8%), hot flashes (17.1% vs. 15.0%), anemia (12.3% vs. 6.7%), dyspnea (11.8% vs. 4.6%), rash/desquamation (10.9% vs. 7.6%), leukopenia (10.5% vs. 8.4%), neutropenia (6.4% vs. 4.3%), headache (6.2% vs. 3.8%), pain (5.5% vs. 3.0%), edema (4.7% vs. 2.7%) and insomnia (4.3% vs. 1.5%).
+The following non-cardiac adverse reactions of Grade 2–5 occurred at an incidence of at least 2% greater among patients receiving Herceptin plus chemotherapy as compared to chemotherapy alone: fatigue (29.5% vs. 22.4%), infection (24.0% vs. 12.8%), hot flashes (17.1% vs. 15.0%), anemia (12.3% vs. 6.7%), dyspnea (11.8% vs. 4.6%), rash/desquamation (10.9% vs. 7.6%), leukopenia (10.5% vs. 8.4%), neutropenia (6.4% vs. 4.3%), headache (6.2% vs. 3.8%), pain (5.5% vs. 3.0%), edema (4.7% vs. 2.7%), and insomnia (4.3% vs. 1.5%).
 The majority of these events were Grade 2 in severity.
 
-In Study 2, data collection was limited to the following investigator-attributed treatment-related adverse reactions: NCI-CTC Grade 4 and 5 hematologic toxicities, Grade 3–5 non-hematologic toxicities, selected Grade 2–5 toxicities associated with taxanes (myalgia, arthralgias, nail changes, motor neuropathy, sensory neuropathy) and Grade 1–5 cardiac toxicities occurring during chemotherapy and/or Herceptin treatment.
-The following non-cardiac adverse reactions of Grade 2–5 occurred at an incidence of at least 2% greater among patients receiving Herceptin plus chemotherapy as compared to chemotherapy alone: arthralgia (12.2% vs. 9.1%), nail changes (11.5% vs.6.8%), dyspnea (2.4% vs. 0.2%), and diarrhea (2.2% vs. 0%).
+In Study 2, data collection was limited to the following investigator-attributed treatment-related adverse reactions: NCI-CTC Grade 4 and 5 hematologic toxicities, Grade 3–5 non-hematologic toxicities, selected Grade 2–5 toxicities associated with taxanes (myalgia, arthralgias, nail changes, motor neuropathy, and sensory neuropathy) and Grade 1–5 cardiac toxicities occurring during chemotherapy and/or Herceptin treatment.
+The following non-cardiac adverse reactions of Grade 2–5 occurred at an incidence of at least 2% greater among patients receiving Herceptin plus chemotherapy as compared to chemotherapy alone: arthralgia (12.2% vs. 9.1%), nail changes (11.5% vs. 6.8%), dyspnea (2.4% vs. 0.2%), and diarrhea (2.2% vs. 0%).
 The majority of these events were Grade 2 in severity.
 
 Safety data from Study 4 reflect exposure to Herceptin as part of an adjuvant treatment regimen from 2124 patients receiving at least one dose of study treatment [AC-TH: n = 1068; TCH: n = 1056].
@@ -112,7 +112,7 @@ The data below reflect exposure to Herceptin in one randomized, open-label study
 Data in Table 4 are based on Studies 5 and 6.
 
 Among the 464 patients treated in Study 5, the median age was 52 years (range: 25–77 years).
-Eighty-nine percent were White, 5% Black, 1% Asian and 5% other racial/ethnic groups.
+Eighty-nine percent were White, 5% Black, 1% Asian, and 5% other racial/ethnic groups.
 All patients received 4 mg/kg initial dose of Herceptin followed by 2 mg/kg weekly.
 The percentages of patients who received Herceptin treatment for ≥ 6 months and ≥ 12 months were 58% and 9%, respectively.
 
@@ -213,7 +213,7 @@ Table 5: Study 7: Per Patient Incidence of Adverse Reactions of All Grades (Inci
 | Nervous System Disorders |  |  |  |  |
 | Dysgeusia | 28 (10) | 0 (0) | 14 (5) | 0 (0) |
 
-The following subsections provide additional detail regarding adverse reactions observed in clinical trials of adjuvant breast, metastatic breast cancer, metastatic gastric cancer, or post-marketing experience.
+The following subsections provide additional detail regarding adverse reactions observed in clinical trials of adjuvant breast cancer, metastatic breast cancer, metastatic gastric cancer, or post-marketing experience.
 
 Cardiomyopathy
 
@@ -229,7 +229,7 @@ For Study 4, events are counted from the date of randomization.: Per-patient Inc
 
 |  | LVEF < 50% | ≥ 10% decrease | ≥ 16% decrease | < 20% and ≥ 10% | ≥ 20% |
 | --- | --- | --- | --- | --- | --- |
-|  | LVEF <50% and Absolute Decrease from Baseline |  |  | Absolute LVEF Decrease |  |
+|  | LVEF < 50% and Absolute Decrease from Baseline |  |  | Absolute LVEF Decrease |  |
 | Studies 1 & 2Studies 1 and 2 regimens: doxorubicin and cyclophosphamide followed by paclitaxel (AC→T) or paclitaxel plus Herceptin (AC→TH).,Median duration of follow-up for Studies 1 and 2 combined was 8.3 years in the AC→TH arm. |  |  |  |  |  |
 | AC→TH (n = 1856) | 23.1% (428) | 18.5% (344) | 11.2% (208) | 37.9% (703) | 8.9% (166) |
 | AC→T (n = 1170) | 11.7% (137) | 7.0% (82) | 3.0% (35) | 22.1% (259) | 3.4% (40) |

@@ -31,10 +31,10 @@ Data
 
 Human Data
 
-In post-marketing reports, use of Herceptin during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting in the fetus as pulmonary hypoplasia, skeletal abnormalities and neonatal death.
+In post-marketing reports, use of Herceptin during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting in the fetus as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
 These case reports described oligohydramnios in pregnant women who received Herceptin either alone or in combination with chemotherapy.
 In some case reports, amniotic fluid index increased after Herceptin was stopped.
-In one case, Herceptin therapy resumed after amniotic index improved, and oligohydramnios recurred.
+In one case, Herceptin therapy resumed after amniotic index improved and oligohydramnios recurred.
 
 Animal Data
 
@@ -80,7 +80,7 @@ The safety and effectiveness of Herceptin in pediatric patients have not been es
 Herceptin has been administered to 386 patients who were 65 years of age or over (253 in the adjuvant treatment and 133 in metastatic breast cancer treatment settings).
 The risk of cardiac dysfunction was increased in geriatric patients as compared to younger patients in both those receiving treatment for metastatic disease in Studies 5 and 6, or adjuvant therapy in Studies 1 and 2.
 Limitations in data collection and differences in study design of the 4 studies of Herceptin in adjuvant treatment of breast cancer preclude a determination of whether the toxicity profile of Herceptin in older patients is different from younger patients.
-The reported clinical experience is not adequate to determine whether the efficacy improvements (ORR, TTP, OS, DFS) of Herceptin treatment in older patients is different from that observed in patients <65 years of age for metastatic disease and adjuvant treatment.
+The reported clinical experience is not adequate to determine whether the efficacy improvements (ORR, TTP, OS, DFS) of Herceptin treatment in older patients is different from that observed in patients < 65 years of age for metastatic disease and adjuvant treatment.
 
 In Study 7 (metastatic gastric cancer), of the 294 patients treated with Herceptin, 108 (37%) were 65 years of age or older, while 13 (4.4%) were 75 and over.
 No overall differences in safety or effectiveness were observed.
