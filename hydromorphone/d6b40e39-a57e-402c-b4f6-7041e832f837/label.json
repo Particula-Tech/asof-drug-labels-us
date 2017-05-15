@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "NDA019891",
+    "NDA019892"
+  ],
+  "inn": "hydromorphone",
+  "labeler": "Rhodes Pharmaceuticals L.P.",
+  "package_ndcs": [
+    "42858-122-01",
+    "42858-122-25",
+    "42858-234-01",
+    "42858-234-25",
+    "42858-234-50",
+    "42858-338-01",
+    "42858-416-16"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Dilaudid"
+    },
+    {
+      "form": "TABLET",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Dilaudid"
+    }
+  ],
+  "setid": "d6b40e39-a57e-402c-b4f6-7041e832f837",
+  "source": "dailymed"
+}

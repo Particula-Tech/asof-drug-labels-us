@@ -1,0 +1,8 @@
+# 4 CONTRAINDICATIONS
+
+DILAUDID Oral Solution and DILAUDID Tablets are contraindicated in patients with:
+
+- Significant respiratory depression [see Warnings and Precautions (5.6)]
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see Warnings and Precautions (5.6)]
+- Known or suspected gastrointestinal obstruction, including paralytic ileus [see Warnings and Precautions (5.10)]
+- Hypersensitivity to hydromorphone, hydromorphone salts, any other components of the product, or sulfite-containing medications (e.g., anaphylaxis) [see Warnings and Precautions (5.14), Adverse Reactions (6.1)]
