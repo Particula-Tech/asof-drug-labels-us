@@ -1,12 +1,12 @@
 # ADVERSE REACTIONS
 
-The most frequently reported nondental treatment-emergent adverse events in the 3 multicenter US trials were headache, infection, flu syndrome, and pain.
+The most frequently reported non-dental treatment-emergent adverse events in the 3 multicenter US trials were headache, infection, flu syndrome, and pain.
 
 Table 5: Adverse Events (AEs) Reported in ≥3% of the Combined Clinical Trial Population of 3 Multicenter US Trials by Treatment Group
 
-|  | SRP Alone N=250 | SRP + Vehicle N=249 | SRP + ARESTIN® N=423 |
+|  | SRP Alone N=250 | SRP+ Vehicle N=249 | SRP+ ARESTIN® N=423 |
 | --- | --- | --- | --- |
-| Number (%) of Patients Treatment-emergent AEs | 62.4% | 71.9% | 68.1% |
+| Number (%) of Subjects Treatment-emergent AEs | 62.4% | 71.9% | 68.1% |
 | Total Number of AEs | 543 | 589 | 987 |
 | Periodontitis | 25.6% | 28.1% | 16.3% |
 | Tooth Disorder | 12.0% | 13.7% | 12.3% |
@@ -24,6 +24,6 @@ Table 5: Adverse Events (AEs) Reported in ≥3% of the Combined Clinical Trial P
 | Infection Dental | 4.0% | 3.6% | 3.8% |
 | Mucous Membrane Disorder | 2.4% | 0.8% | 3.3% |
 
-The change in clinical attachment levels was similar across all study arms, suggesting that neither the vehicle nor ARESTIN® compromise clinical attachment.
+The change in clinical attachment levels was similar across all study arms, suggesting that neither the vehicle nor ARESTIN compromise clinical attachment.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

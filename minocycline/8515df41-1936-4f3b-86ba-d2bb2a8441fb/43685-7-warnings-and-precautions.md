@@ -12,40 +12,42 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 
 # PRECAUTIONS
 
-## Hypersensitivity Reactions
+## Hypersensitivity Reactions and Hypersensitivity Syndrome
 
-- Hypersensitivity reactions that included, but were not limited to anaphylaxis, angioneurotic edema, urticaria, rash, swelling of the face, and pruritus have been reported with the use of ARESTIN®.
+- The following adverse events have been reported with minocycline products when taken orally.
+  Hypersensitivity reactions and hypersensitivity syndrome that included, but were not limited to anaphylaxis, anaphylactoid reaction, angioneurotic edema, urticaria, rash, eosinophilia, and one or more of the following: hepatitis, pneumonitis, nephritis, myocarditis, and pericarditis may be present.
+  Swelling of the face, pruritus, fever and lymphadenopathy have been reported with the use of ARESTIN.
   Some of these reactions were serious.
   Post-marketing cases of anaphylaxis and serious skin reactions such as Stevens-Johnson syndrome and erythema multiforme have been reported with oral minocycline.
 
 ## Autoimmune Syndromes
 
 - Tetracyclines, including oral minocycline, have been associated with the development of autoimmune syndromes including a Lupus-like syndrome manifested by arthralgia, myalgia, rash, and swelling.
-  Sporadic cases of serum sickness have presented shortly after oral minocycline use, manifested by fever, rash, arthralgia, and malaise.
+  Sporadic cases of serum sickness-like reaction have presented shortly after oral minocycline use, manifested by fever, rash, arthralgia, lymphadenopathy and malaise.
   In symptomatic patients, liver function tests, ANA, CBC, and other appropriate tests should be performed to evaluate the patients.
-  No further treatment with ARESTIN® should be administered to the patient.
+  No further treatment with ARESTIN should be administered to the patient.
 
-The use of ARESTIN® in an acutely abscessed periodontal pocket has not been studied and is not recommended.
+The use of ARESTIN in an acutely abscessed periodontal pocket has not been studied and is not recommended.
 
-While no overgrowth by opportunistic microorganisms, such as yeast, were noted during clinical studies, as with other antimicrobials, the use of ARESTIN® may result in overgrowth of non-susceptible microorganisms including fungi.
-The effects of treatment for greater than 6 months has not been studied.
+While no overgrowth by opportunistic microorganisms, such as yeast, were noted during clinical studies, as with other antimicrobials, the use of ARESTIN may result in overgrowth of non-susceptible microorganisms including fungi.
+The effects of treatment for greater than 6 months have not been studied.
 
-ARESTIN® should be used with caution in patients having a history of predisposition to oral candidiasis.
-The safety and effectiveness of ARESTIN® has not been established for the treatment of periodontitis in patients with coexistent oral candidiasis.
+ARESTIN should be used with caution in patients having a history of predisposition to oral candidiasis.
+The safety and effectiveness of ARESTIN has not been established for the treatment of periodontitis in patients with coexistent oral candidiasis.
 
-ARESTIN® has not been clinically tested in immunocompromised patients (such as those immunocompromised by diabetes, chemotherapy, radiation therapy, or infection with HIV).
+ARESTIN has not been clinically tested in immunocompromised patients (such as those immunocompromised by diabetes, chemotherapy, radiation therapy, or infection with HIV).
 
 If superinfection is suspected, appropriate measures should be taken.
 
-ARESTIN® has not been clinically tested in pregnant women.
+ARESTIN has not been clinically tested in pregnant women.
 
-ARESTIN® has not been clinically tested for use in the regeneration of alveolar bone, either in preparation for or in conjunction with the placement of endosseous (dental) implants or in the treatment of failing implants.
+ARESTIN has not been clinically tested for use in the regeneration of alveolar bone, either in preparation for or in conjunction with the placement of endosseous (dental) implants or in the treatment of failing implants.
 
 ## Information for Patients
 
 After treatment, patients should avoid chewing hard, crunchy, or sticky foods (i.e., carrots, taffy, and gum) with the treated teeth for 1 week, as well as avoid touching treated areas.
-Patients should also postpone the use of interproximal cleaning devices around the treated sites for 10 days after administration of ARESTIN®.
-Patients should be advised that although some mild to moderate sensitivity is expected during the first week after SRP and administration of ARESTIN®, they should notify the dentist promptly if pain, swelling, or other problems occur.
+Patients should also postpone the use of interproximal cleaning devices around the treated sites for 10 days after administration of ARESTIN.
+Patients should be advised that although some mild to moderate sensitivity is expected during the first week after SRP and administration of ARESTIN, they should notify the dentist promptly if pain, swelling, or other problems occur.
 Patients should be notified to inform the dentist if itching, swelling, rash, papules, reddening, difficulty breathing, or other signs and symptoms of possible hypersensitivity occur.
 
 ## Carcinogenicity, Mutagenicity, Impairment of Fertility
@@ -57,11 +59,9 @@ Minocycline demonstrated no potential to cause genetic toxicity in a battery of 
 
 Fertility and general reproduction studies have provided evidence that minocycline impairs fertility in male rats.
 
-## Teratogenic Effects
+## Pregnancy
 
-### Pregnancy Category D.
-
-(See WARNINGS.)
+Teratogenic Effects: (See WARNINGS).
 
 ## Labor and Delivery
 
@@ -70,9 +70,8 @@ The effects of tetracyclines on labor and delivery are unknown.
 ## Nursing Mothers
 
 Tetracyclines are excreted in human milk.
-Because of the potential for serious adverse reactions in nursing infants from the tetracyclines, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
-(See WARNINGS.)
+Because of the potential for serious adverse reactions in nursing infants from the tetracyclines, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother (See WARNINGS).
 
 ## Pediatric Use
 
-Since adult periodontitis does not affect children, the safety and effectiveness of ARESTIN® in pediatric patients cannot be established.
+Since adult periodontitis does not affect children, the safety and effectiveness of ARESTIN in pediatric patients cannot be established.

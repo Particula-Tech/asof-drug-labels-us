@@ -1,4 +1,4 @@
-Rx only
+Rx Only
 
 Manufactured for:
 
@@ -10,7 +10,10 @@ Bridgewater, NJ 08807 USA
 
 Arestin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-9443901
+U.S. Pat.
+Nos. 6,682,348; 7,699,609
+
+Part number
 
 Rev.
-06/2016
+05/2017
