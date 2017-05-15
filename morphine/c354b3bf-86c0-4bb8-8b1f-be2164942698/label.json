@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA019516"
+  ],
+  "inn": "morphine",
+  "labeler": "Rhodes Pharmaceuticals L.P.",
+  "package_ndcs": [
+    "42858-515-01",
+    "42858-631-01",
+    "42858-631-50",
+    "42858-760-01",
+    "42858-760-50",
+    "42858-799-01",
+    "42858-799-50",
+    "42858-900-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "morphine sulfate",
+      "name": "MS Contin"
+    }
+  ],
+  "setid": "c354b3bf-86c0-4bb8-8b1f-be2164942698",
+  "source": "dailymed"
+}
