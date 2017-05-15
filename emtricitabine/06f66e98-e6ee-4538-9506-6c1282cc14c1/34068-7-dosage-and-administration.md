@@ -2,9 +2,9 @@
 
 ## 2.1 Testing Prior to Initiation of DESCOVY
 
-Prior to initiation of DESCOVY, patients should be tested for hepatitis B virus infection [see Warnings and Precautions (5.2)].
+Prior to initiation of DESCOVY, patients should be tested for hepatitis B virus infection [see Warnings and Precautions (5.1)].
 
-Estimated creatinine clearance, urine glucose, and urine protein should be assessed before initiating DESCOVY therapy and should be monitored during therapy in all patients [see Warnings and Precautions (5.5)].
+Estimated creatinine clearance, urine glucose, and urine protein should be assessed before initiating DESCOVY therapy and should be monitored during therapy in all patients [see Warnings and Precautions (5.3)].
 
 ## 2.2 Recommended Dosage
 
@@ -15,4 +15,4 @@ For specific dosing recommendations for coadministered third agents, refer to th
 
 ## 2.3 Not Recommended in Patients with Severe Renal Impairment
 
-DESCOVY is not recommended in patients with estimated creatinine clearance below 30 mL per minute [see Warnings and Precautions (5.5) and Use in Specific Populations (8.6)].
+DESCOVY is not recommended in patients with estimated creatinine clearance below 30 mL per minute [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].

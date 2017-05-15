@@ -13,7 +13,7 @@ TAF is not an inhibitor or inducer of CYP3A in vivo.
 ## 7.2 Drugs Affecting Renal Function
 
 Because FTC and tenofovir are primarily excreted by the kidneys by a combination of glomerular filtration and active tubular secretion, coadministration of DESCOVY with drugs that reduce renal function or compete for active tubular secretion may increase concentrations of FTC, tenofovir, and other renally eliminated drugs and this may increase the risk of adverse reactions.
-Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.5)].
+Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.3)].
 
 ## 7.3 Established and Other Potentially Significant Interactions
 
