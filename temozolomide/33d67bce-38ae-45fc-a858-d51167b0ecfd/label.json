@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA207658"
+  ],
+  "inn": "temozolomide",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-537-07",
+    "67877-537-14",
+    "67877-538-07",
+    "67877-538-14",
+    "67877-539-07",
+    "67877-539-14",
+    "67877-540-07",
+    "67877-540-14",
+    "67877-541-07",
+    "67877-541-14",
+    "67877-542-07"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "temozolomide",
+      "name": "Temozolomide"
+    }
+  ],
+  "setid": "33d67bce-38ae-45fc-a858-d51167b0ecfd",
+  "source": "dailymed"
+}

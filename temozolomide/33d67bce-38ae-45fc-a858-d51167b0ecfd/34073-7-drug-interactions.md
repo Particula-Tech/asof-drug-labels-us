@@ -1,0 +1,6 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Valproic Acid
+
+Administration of valproic acid decreases oral clearance of temozolomide by about 5%.
+The clinical implication of this effect is not known [see Clinical Pharmacology (12.3)].
