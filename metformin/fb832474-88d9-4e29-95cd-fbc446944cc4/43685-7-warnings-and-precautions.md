@@ -4,11 +4,11 @@
 
 There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases.
 These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
-Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (> 5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate/pyruvate ratio; metformin plasma levels generally > 5 mcg/mL.
+Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate/pyruvate ratio; metformin plasma levels generally >5 mcg/mL.
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
 If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of GLUMETZA.
-In GLUMETZA -treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/minute under good hemodynamic conditions).
+In GLUMETZA-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/minute under good hemodynamic conditions).
 Hemodialysis has often resulted in reversal of symptoms and recovery.
 
 Educate patients and their families about the symptoms of lactic acidosis and if these symptoms occur instruct them to discontinue GLUMETZA and report these symptoms to their healthcare provider.
@@ -20,8 +20,7 @@ The risk of metformin accumulation and metformin-associated lactic acidosis incr
 Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]:
 
 - •Before initiating GLUMETZA, obtain an estimated glomerular filtration rate (eGFR).
-- •GLUMETZA is contraindicated in patients with an eGFR less than 30 mL/minute/1.73 m2.
-  [see Contraindications (4)].
+- •GLUMETZA is contraindicated in patients with an eGFR less than 30 mL/minute/1.73 m2[see Contraindications (4)].
 - •Initiation of GLUMETZA is not recommended in patients with eGFR between 30–45 mL/minute/1.73 m2.
 - •Obtain an eGFR at least annually in all patients taking GLUMETZA.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.

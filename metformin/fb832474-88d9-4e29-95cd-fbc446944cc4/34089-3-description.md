@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-GLUMETZA (metformin hydrochloride) extended-release tablet is an oral antihyperglycemic medication used in the management of type 2 diabetes.
+GLUMETZA (metformin hydrochloride extended-release tablet) is an oral antihyperglycemic medication used in the management of type 2 diabetes.
 Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
 The structural formula of metformin hydrochloride (metformin HCl) is as shown:
 

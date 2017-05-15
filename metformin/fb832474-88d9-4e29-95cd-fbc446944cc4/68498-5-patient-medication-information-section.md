@@ -61,9 +61,6 @@ Do not take GLUMETZA if you:
 - •have severe kidney problems
 - •are allergic to the metformin hydrochloride in GLUMETZA or any of the ingredients in GLUMETZA.
   See the end of this leaflet for a list of ingredients in GLUMETZA.
-- •are going to get an injection of dye or contrast agents for an x-ray procedure, GLUMETZA may need to be stopped for a short time.
-  Talk to your doctor about when you should stop GLUMETZA and when you should start GLUMETZA again.
-  See “What is the most important information I should know about GLUMETZA?”
 - •have a condition called metabolic acidosis or diabetic ketoacidosis (increased ketones in your blood or urine)
 
 What should I tell my doctor before taking GLUMETZA?
@@ -77,6 +74,7 @@ Before you take GLUMETZA, tell your doctor if you:
 - •have severe kidney problems
 - •are going to get an injection of dye or contrast agents for an x-ray procedure, GLUMETZA may need to be stopped for a short time.
   Talk to your doctor about when you should stop GLUMETZA and when you should start GLUMETZA again.
+  See “What is the most important information I should know about GLUMETZA?”
 - •have liver problems
 - •have heart problems, including congestive heart failure
 - •drink alcohol very often, or drink a lot of alcohol in short-term (binge) drinking
@@ -158,7 +156,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store GLUMETZA?
 
-- •Store GLUMETZA at 68°F to 77°F (20° to 25°C).
+- •Store GLUMETZA at 68° to 77°F (20° to 25°C).
 
 Keep GLUMETZA and all medicines out of the reach of children.
 
@@ -203,15 +201,13 @@ www.GlumetzaXR.com
 
 For prescription only
 
-U.S. Patents 6,488,962; 7,780,987; and 8,323,692
+U.S. Patent Numbers: 6,488,962; 7,780,987; and 8,323,692
 
 Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
 ©Valeant Pharmaceuticals North America LLC
 
 Rev.
-03/2017
+04/2017
 
-9519001
-
-LI001802
+9519001 (Patheon) 9519101 (Steinbach)

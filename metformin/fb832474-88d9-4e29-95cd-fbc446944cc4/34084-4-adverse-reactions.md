@@ -15,22 +15,22 @@ In the 24-week monotherapy trial comparing GLUMETZA to immediate-release metform
 In the add-on to sulfonylurea study, patients receiving background glyburide therapy were randomized to receive add-on treatment of either one of three different regimens of GLUMETZA or placebo.
 In total, 431 patients received GLUMETZA and glyburide and 144 patients received placebo and glyburide.
 A serious adverse reaction was reported in 2.1% (9/431) of the GLUMETZA and glyburide-treated patients compared to 1.4% (2/144) of the placebo and glyburide-treated patients.
-When the data from the monotherapy and add-on to sulfonylurea clinical trials were combined, the most frequently (incidence ≥ 0.5 %) reported serious adverse reactions classified by system organ class were gastrointestinal disorders (1.0% of GLUMETZA-treated patients compared to 0% of patients not treated with GLUMETZA) and cardiac disorders (0.4% of GLUMETZA-treated patients compared to 0.5% of patients not treated with GLUMETZA).
-Only 2 serious adverse reactions (unstable angina [n = 2] and pancreatitis [n = 2]) were reported in more than one GLUMETZA-treated patient.
+When the data from the monotherapy and add-on to sulfonylurea clinical trials were combined, the most frequently (incidence ≥0.5 %) reported serious adverse reactions classified by system organ class were gastrointestinal disorders (1.0% of GLUMETZA-treated patients compared to 0% of patients not treated with GLUMETZA) and cardiac disorders (0.4% of GLUMETZA-treated patients compared to 0.5% of patients not treated with GLUMETZA).
+Only 2 serious adverse reactions (unstable angina [n=2] and pancreatitis [n=2]) were reported in more than one GLUMETZA-treated patient.
 
 Adverse reactions reported in greater than 5% of patients treated with GLUMETZA that were more common in the combined GLUMETZA and glyburide group than in the placebo and glyburide group are shown in Table 1.
 
 In 0.7% of patients treated with GLUMETZA and glyburide, diarrhea was responsible for discontinuation of study medication compared to no patients in the placebo and glyburide group.
 
-Table 1: Treatment-Emergent Adverse Reactions Reported by > 5%ARs that were more common in the GLUMETZA-treated than in the placebo-treated patients. of Patients for the Combined GLUMETZA Groups Versus Placebo Group
+Table 1: Treatment-Emergent Adverse Reactions Reported by >5%ARs that were more common in the GLUMETZA-treated than in the placebo-treated patients. of Patients for the Combined GLUMETZA Groups Versus Placebo Group
 
-| Adverse Reaction | GLUMETZA + Glyburide (n = 431) | Placebo + Glyburide (n = 144) |
+| Adverse Reaction | GLUMETZA + Glyburide (n=431) | Placebo + Glyburide (n=144) |
 | --- | --- | --- |
 | Hypoglycemia | 13.7% | 4.9% |
 | Diarrhea | 12.5% | 5.6% |
 | Nausea | 6.7% | 4.2% |
 
-Laboratory Tests Vitamin B12Concentrations
+Laboratory Tests Vitamin B12 Concentrations
 
 Metformin may lower serum vitamin B12 concentrations.
 Measurement of hematologic parameters on an annual basis is advised in patients on GLUMETZA, and any apparent abnormalities should be appropriately investigated and managed.
@@ -41,4 +41,4 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 The following adverse reactions have been identified during post-approval use.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cholestatic, hepatocellular, and mixed hepatocellular liver injury
+Cholestatic, hepatocellular, and mixed hepatocellular liver injury.
