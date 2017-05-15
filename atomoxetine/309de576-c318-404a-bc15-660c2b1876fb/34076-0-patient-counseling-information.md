@@ -60,11 +60,11 @@ If patients miss a dose, they should be instructed to take it as soon as possibl
 
 Patients should be instructed to use caution when driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected by atomoxetine.
 
-Literature revised April 6, 2015
+Literature revised May 12, 2017
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA www.strattera.com
 
-Copyright © 2002, 2015, Eli Lilly and Company.
+Copyright © 2002, 2017, Eli Lilly and Company.
 All rights reserved.
 
-STR-0002-USPI-20150406
+STR-0003-USPI-20170512
