@@ -9,7 +9,7 @@ ODEFSEY is a fixed dose combination of antiretroviral drugs emtricitabine, rilpi
 Cardiac Electrophysiology
 
 When higher than recommended RPV doses of 75 mg (3 times the recommended dosage in ODEFSEY) once daily and 300 mg (12 times the recommended dosage in ODEFSEY) once daily were studied in healthy adults, the maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline correction were 10.7 (15.3) and 23.3 (28.4) milliseconds, respectively.
-Steady-state administration of RPV 75 mg once daily and 300 mg once daily resulted in a mean steady-state Cmax approximately 2.6 times and 6.7 times, respectively, higher than the mean Cmax observed with the recommended 25 mg once daily dose of RPV [see Warnings and Precautions (5.5)].
+Steady-state administration of RPV 75 mg once daily and 300 mg once daily resulted in a mean steady-state Cmax approximately 2.6 times and 6.7 times, respectively, higher than the mean Cmax observed with the recommended 25 mg once daily dose of RPV [see Warnings and Precautions (5.4)].
 
 The effect of RPV at the recommended dose of 25 mg once daily on the QTcF interval was evaluated in a randomized, placebo-, and active- (moxifloxacin 400 mg once daily) controlled crossover study in 60 healthy adults, with 13 measurements over 24 hours at steady state.
 The maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline correction was 2 (5) milliseconds (i.e., below the threshold of clinical concern).

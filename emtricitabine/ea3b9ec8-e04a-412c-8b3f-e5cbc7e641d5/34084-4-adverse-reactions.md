@@ -2,14 +2,14 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Lactic Acidosis/Severe Hepatomegaly with Steatosis [See Boxed Warning and Warnings and Precautions (5.1)]
-- Severe Acute Exacerbations of Hepatitis B [See Boxed Warning and Warnings and Precautions (5.2)]
-- Skin and Hypersensitivity Reactions [See Warnings and Precautions (5.3)]
-- Depressive Disorders [See Warnings and Precautions (5.6)]
-- Hepatotoxicity [See Warnings and Precautions (5.7)]
-- Immune Reconstitution Syndrome [See Warnings and Precautions (5.9)]
-- New Onset or Worsening Renal Impairment [see Warnings and Precautions (5.10)]
-- Bone Loss and Mineralization Defects [see Warnings and Precautions (5.11)]
+- Severe Acute Exacerbations of Hepatitis B [See Boxed Warning and Warnings and Precautions (5.1)]
+- Skin and Hypersensitivity Reactions [See Warnings and Precautions (5.2)]
+- Depressive Disorders [See Warnings and Precautions (5.5)]
+- Hepatotoxicity [See Warnings and Precautions (5.6)]
+- Immune Reconstitution Syndrome [See Warnings and Precautions (5.7)]
+- New Onset or Worsening Renal Impairment [see Warnings and Precautions (5.8)]
+- Lactic Acidosis/Severe Hepatomegaly with Steatosis [See Warnings and Precautions (5.9)]
+- Bone Loss and Mineralization Defects [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 

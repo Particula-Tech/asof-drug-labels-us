@@ -2,9 +2,9 @@
 
 ## 2.1 Testing Prior to Initiation of ODEFSEY
 
-Prior to initiation of ODEFSEY, patients should be tested for hepatitis B virus infection [see Warnings and Precautions (5.2)].
+Prior to initiation of ODEFSEY, patients should be tested for hepatitis B virus infection [see Warnings and Precautions (5.1)].
 
-Estimated creatinine clearance, urine glucose, and urine protein should be assessed before initiating ODEFSEY therapy and should be monitored during therapy in all patients [see Warnings and Precautions (5.10)].
+Estimated creatinine clearance, urine glucose, and urine protein should be assessed before initiating ODEFSEY therapy and should be monitored during therapy in all patients [see Warnings and Precautions (5.8)].
 
 ## 2.2 Recommended Dosage
 
@@ -17,4 +17,4 @@ In virologically-suppressed patients, additional monitoring of HIV-1 RNA and reg
 
 ## 2.4 Not Recommended in Patients with Severe Renal Impairment
 
-ODEFSEY is not recommended in patients with estimated creatinine clearance below 30 mL per minute [see Warnings and Precautions (5.10) and Use in Specific Populations (8.6)].
+ODEFSEY is not recommended in patients with estimated creatinine clearance below 30 mL per minute [see Warnings and Precautions (5.8) and Use in Specific Populations (8.6)].

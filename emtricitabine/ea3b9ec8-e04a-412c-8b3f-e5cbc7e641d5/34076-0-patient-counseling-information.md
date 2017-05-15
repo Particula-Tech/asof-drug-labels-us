@@ -2,53 +2,49 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Lactic Acidosis
-
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with use of drugs similar to ODEFSEY.
-Advise patients to stop taking ODEFSEY if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.1)].
-
 Post-treatment Acute Exacerbation of Hepatitis B in Patients with HBV Coinfection
 
-Severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued products containing FTC and/or TDF, and may likewise occur with discontinuation of ODEFSEY [see Warnings and Precautions (5.2)].
+Severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued products containing FTC and/or TDF, and may likewise occur with discontinuation of ODEFSEY [see Warnings and Precautions (5.1)].
 Advise the patient to not discontinue ODEFSEY without first informing their healthcare provider.
 
 Severe Skin Reactions and Hypersensitivity
 
 Inform patients that skin reactions ranging from mild to severe, including Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported with RPV-containing products.
 Instruct patients to immediately stop taking ODEFSEY and seek medical attention if they develop a rash associated with any of the following symptoms: fever, blisters, mucosal involvement, eye inflammation (conjunctivitis), severe allergic reaction causing swelling of the face, eyes, lips, mouth, tongue or throat which may lead to difficulty swallowing or breathing, and any signs and symptoms of liver problems, as they may be a sign of a more serious reaction.
-Patients should understand that if severe rash occurs, they will be closely monitored, laboratory tests will be performed and appropriate therapy will be initiated [see Warnings and Precautions (5.3)].
+Patients should understand that if severe rash occurs, they will be closely monitored, laboratory tests will be performed and appropriate therapy will be initiated [see Warnings and Precautions (5.2)].
 
 Drug Interactions
 
 ODEFSEY may interact with many drugs and is not recommended to be coadministered with numerous drugs.
-Advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort [see Contraindications (4), Warnings and Precautions (5.4) and Drug Interactions (7)].
+Advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort [see Contraindications (4), Warnings and Precautions (5.3) and Drug Interactions (7)].
 
 Depressive Disorders
 
 Inform patients that depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) have been reported with RPV.
-Inform patients to seek immediate medical evaluation if they experience depressive symptoms [see Warnings and Precautions (5.6)].
+Inform patients to seek immediate medical evaluation if they experience depressive symptoms [see Warnings and Precautions (5.5)].
 
 Hepatotoxicity
 
-Inform patients that hepatotoxicity has been reported with RPV, therefore, it is important to inform the healthcare professional if patients have underlying hepatitis B or C or elevations in liver-associated tests prior to treatment [see Dosage and Administration (2.1) and Warnings and Precautions (5.7)].
-
-Fat Redistribution
-
-Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known [see Warnings and Precautions (5.8)].
+Inform patients that hepatotoxicity has been reported with RPV, therefore, it is important to inform the healthcare professional if patients have underlying hepatitis B or C or elevations in liver-associated tests prior to treatment [see Dosage and Administration (2.1) and Warnings and Precautions (5.6)].
 
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started [see Warnings and Precautions (5.9)].
+Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started [see Warnings and Precautions (5.7)].
 
 New Onset or Worsening Renal Impairment
 
 Advise patients to avoid taking ODEFSEY with concurrent or recent use of nephrotoxic agents.
-Renal impairment, including cases of acute renal failure, has been reported in association with the use of tenofovir prodrugs [see Warnings and Precautions (5.10)].
+Renal impairment, including cases of acute renal failure, has been reported in association with the use of tenofovir prodrugs [see Warnings and Precautions (5.8)].
+
+Lactic Acidosis and Severe Hepatomegaly
+
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with use of drugs similar to ODEFSEY.
+Advise patients to stop taking ODEFSEY if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.9)].
 
 Decrease in Bone Mineral Density
 
 Advise patients that decreases in bone mineral density have been observed with the use of drugs similar to ODEFSEY.
-Consider assessment of bone mineral density (BMD) in patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss [see Warnings and Precautions (5.11)].
+Consider assessment of bone mineral density (BMD) in patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss [see Warnings and Precautions (5.10)].
 
 Missed Dosage
 

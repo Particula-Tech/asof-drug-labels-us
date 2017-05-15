@@ -22,13 +22,13 @@ Coadministration of RPV with drugs that increase gastric pH (e.g., famotidine) m
 ## 7.2 QT Prolonging Drugs
 
 There is limited information available on the potential for a pharmacodynamic interaction between RPV and drugs that prolong the QTc interval.
-In a study of healthy subjects, higher than recommended doses of RPV, 75 mg once daily and 300 mg once daily (3 times and 12 times recommended daily dose in ODEFSEY) prolonged the QTc interval [see Warnings and Precautions (5.5) and Clinical Pharmacology (12.2)].
+In a study of healthy subjects, higher than recommended doses of RPV, 75 mg once daily and 300 mg once daily (3 times and 12 times recommended daily dose in ODEFSEY) prolonged the QTc interval [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.2)].
 Consider alternative medications to ODEFSEY in patients taking a drug with a known risk of Torsade de Pointes.
 
 ## 7.3 Drugs that Affect Renal Function
 
 Because FTC and tenofovir are primarily excreted by the kidneys by a combination of glomerular filtration and active tubular secretion, coadministration of ODEFSEY with drugs that reduce renal function or compete for active tubular secretion may increase concentrations of FTC, tenofovir, and other renally eliminated drugs and this may increase the risk of adverse reactions.
-Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.10)].
+Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.8)].
 
 ## 7.4 Established and Other Potentially Significant Drug Interactions
 
