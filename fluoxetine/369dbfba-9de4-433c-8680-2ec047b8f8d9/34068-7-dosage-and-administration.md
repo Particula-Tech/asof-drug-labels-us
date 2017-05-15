@@ -19,6 +19,7 @@ Consider a dose increase to 20 mg/day after several weeks if insufficient clinic
 In the short-term (8 to 9 week) controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Major Depressive Disorder, patients were administered fluoxetine doses of 10 to 20 mg/day [see Clinical Studies (14.1)].
 
 All patients — As with other drugs effective in the treatment of Major Depressive Disorder, the full effect may be delayed until 4 weeks of treatment or longer.
+
 Periodically reassess to determine the need for maintenance treatment.
 
 Switching Patients to a Tricyclic Antidepressant (TCA) — Dosage of a TCA may need to be reduced, and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued [see Warnings and Precautions (5.2) and Drug Interactions (7.7)].
@@ -48,6 +49,7 @@ A dose range of 20 to 30 mg/day is recommended.
 Experience with daily doses greater than 20 mg is very minimal, and there is no experience with doses greater than 60 mg.
 
 In the controlled clinical trial of fluoxetine supporting its effectiveness in the treatment of OCD, patients were administered fluoxetine doses in the range of 10 to 60 mg/day [see Clinical Studies (14.2)].
+
 Periodically reassess to determine the need for treatment.
 
 ## 2.3 Bulimia Nervosa
