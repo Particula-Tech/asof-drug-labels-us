@@ -6,4 +6,4 @@ APLENZIN® Extended-Release Tablets, 348 mg of bupropion hydrobromide, are white
 
 APLENZIN® Extended-Release Tablets, 522 mg of bupropion hydrobromide, are white to off-white, round tablets printed with "BR" over "522" in bottles of 30 tablets (NDC 0187-5812-30).
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].

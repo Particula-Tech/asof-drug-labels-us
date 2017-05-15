@@ -13,7 +13,7 @@ See Table 1 for equivalent daily doses of APLENZIN (bupropion hydrobromide) and 
 
 Table 1: Equivalent Daily Doses of APLENZIN (Bupropion hydrobromide) and Bupropion hydrochloride
 
-| APLENZIN (bupropion hydrobromide) | Bupropion hydrochloride |
+| APLENZIN (Bupropion hydrobromide) | Bupropion hydrochloride |
 | --- | --- |
 | 522 mg | 450 mg |
 | 348 mg | 300 mg |
@@ -51,9 +51,9 @@ In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider re
 
 ## 2.7 Dosage Adjustment in Patients with Renal Impairment
 
-Consider reducing the dose and/or frequency of APLENZIN in patients with renal impairment (Glomerular filtration rate less than 90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Consider reducing the dose and/or frequency of APLENZIN in patients with renal impairment (glomerular filtration rate less than 90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-## 2.8 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
+## 2.8 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with APLENZIN.
 Conversely, at least 14 days should be allowed after stopping APLENZIN before starting an MAOI antidepressant [see Contraindications (4) and Drug Interactions (7.6)].

@@ -18,12 +18,11 @@ Advise families and caregivers of patients to observe for the emergence of such 
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
-Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
+Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
-Although APLENZIN is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN which is approved for this use.
-Advise patients, families and caregivers that quitting smoking, with or without ZYBAN, may trigger nicotine withdrawal symptoms (e.g., including depression or agitation) or worsen pre-existing psychiatric illness.
-Some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking ZYBAN.
-If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
+Although APLENZIN is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
+Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
+Instruct patients to discontinue APLENZIN and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2) and Adverse Reactions (6.2)].
 
 Severe Allergic Reactions
 
@@ -49,13 +48,13 @@ In addition, there are a number of generic bupropion HCl products for the immedi
 
 Potential for Cognitive and Motor Impairment
 
-Advise patients that any CNS-active drug like APLENZIN Tablets may impair their ability to perform tasks requiring judgment or motor and cognitive skills.
-Advise patients that until they are reasonably certain that APLENZIN Tablets do not adversely affect their performance, they should refrain from driving an automobile or operating complex, hazardous machinery.
+Advise patients that any CNS-active drug like APLENZIN tablets may impair their ability to perform tasks requiring judgment or motor and cognitive skills.
+Advise patients that until they are reasonably certain that APLENZIN tablets do not adversely affect their performance, they should refrain from driving an automobile or operating complex, hazardous machinery.
 APLENZIN treatment may lead to decreased alcohol tolerance.
 
 Concomitant Medications
 
-Counsel patients to notify their healthcare provider if they are taking or plan to take any prescription or over-the-counter drugs, because APLENZIN Tablets and other drugs may affect each other’s metabolism.
+Counsel patients to notify their healthcare provider if they are taking or plan to take any prescription or over-the-counter drugs, because APLENZIN tablets and other drugs may affect each other’s metabolism.
 
 Pregnancy
 
@@ -68,7 +67,7 @@ Instruct patients to immediately contact the infant’s healthcare provider if t
 
 Administration Information
 
-Instruct patients to swallow APLENZIN Tablets whole so that the release rate is not altered.
+Instruct patients to swallow APLENZIN tablets whole so that the release rate is not altered.
 Instruct patients if they miss a dose, not to take an extra tablet to make up for the missed dose and to take the next tablet at the regular time because of the dose-related risk of seizure.
 Instruct patients that APLENZIN tablets should be swallowed whole and not crushed, divided, or chewed.
 APLENZIN can be taken with or without food.
@@ -86,9 +85,6 @@ All other product/brand names are the trademarks of their respective owners.
 
 ©Valeant Pharmaceuticals North America LLC
 
-9386804
+Update p/n
 
-20001584
-
-Rev.
-8/2016
+Update p/n
