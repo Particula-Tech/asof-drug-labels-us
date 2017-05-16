@@ -11,10 +11,10 @@ The results of these trials are summarized below.
 - •Trial 3 was a randomized, partially-blind trial conducted primarily in North America and Europe in 238 subjects who had ongoing evidence of active chronic hepatitis B despite previous treatment with interferon alfa.
   The trial compared EPIVIR-HBV 100 mg once daily for 52 weeks, followed by either EPIVIR-HBV 100 mg or matching placebo once daily for 16 weeks (Arm 1), versus placebo once daily for 68 weeks (Arm 2).
 
-Principal endpoint comparisons for the histologic and serologic outcomes in subjects receiving EPIVIR- HBV (100 mg daily) or placebo in these trials are shown in the following tables.
+Principal endpoint comparisons for the histologic and serologic outcomes in subjects receiving EPIVIR-HBV (100 mg daily) or placebo in these trials are shown in the following tables.
 
 Table 7.
-Histologic Response at Week 52 Among Adult Subjects Receiving EPIVIR-HBV 100 mg Once Daily or Placebo
+Histologic Response at Week 52 among Adult Subjects Receiving EPIVIR-HBV 100 mg Once Daily or Placebo
 
 | Assessment | Trial 1 |  | Trial 2 |  | Trial 3 |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -22,22 +22,18 @@ Histologic Response at Week 52 Among Adult Subjects Receiving EPIVIR-HBV 100 mg 
 | Improvementa | 55% | 25% | 56% | 26% | 56% | 26% |
 | No Improvement | 27% | 59% | 36% | 62% | 25% | 54% |
 | Missing Data | 18% | 16% | 8% | 12% | 19% | 20% |
-
-aImprovement was defined as a greater than or equal to 2-point decrease in the Knodell Histologic Activity Index (HAI) at Week 52 compared with pretreatment HAI.
-Subjects with missing data at baseline were excluded.
+| a Improvement was defined as a greater than or equal to 2-point decrease in the Knodell Histologic Activity Index (HAI) at Week 52 compared with pretreatment HAI. Subjects with missing data at baseline were excluded. |  |  |  |  |  |  |
 
 Table 8.
-HBeAg Seroconvertersa at Week 52 Among Adult Subjects Receiving EPIVIR-HBV 100 mg Once Daily or Placebo
+HBeAg Seroconvertersa at Week 52 among Adult Subjects Receiving EPIVIR-HBV 100 mg Once Daily or Placebo
 
-| Seroconversion | Trial 1 |  | Trial 2 |  | Trial 3 |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| EPIVIR-HBV(n = 63) | Placebo(n = 69) | EPIVIR-HBV(n = 140) | Placebo(n = 70) | EPIVIR-HBV(n = 108) | Placebo(n = 53) |  |
-| Seroconverters | 17% | 6% | 16% | 4% | 15% | 13% |
+| Seroconversion | Trial 1 |  | Trial 2 |  | Trial 3 |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| EPIVIR-HBV(n = 63) | Placebo(n = 69) | EPIVIR-HBV(n = 140) | Placebo(n = 70) | EPIVIR-HBV(n = 108) | Placebo(n = 53) |  |  |  |  |  |  |  |  |
+| Seroconverters | 17% | 6% | 16% | 4% | 15% | 13% |  |  |  |  |  |  |  |
+| a Three-component seroconversion was defined as Week 52 values showing loss of HBeAg, gain of HBeAb, and reduction of HBV DNA to below the solution-hybridization assay limit. Subjects with negative baseline HBeAg or HBV DNA assay were excluded from the analysis. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-a Three-component seroconversion was defined as Week 52 values showing loss of HBeAg, gain of HBeAb, and reduction of HBV DNA to below the solution-hybridization assay limit.
-Subjects with negative baseline HBeAg or HBV DNA assay were excluded from the analysis.
-
-Normalization of serum ALT levels was more frequent with EPIVIR-HBV treatment compared with placebo in Trials 1-3.
+Normalization of serum ALT levels was more frequent with treatment of EPIVIR-HBV compared with placebo in Trials 1-3.
 
 The majority of subjects treated with EPIVIR-HBV showed a decrease of HBV DNA to below the assay limit early in the course of therapy.
 However, reappearance of assay-detectable HBV DNA during treatment with EPIVIR-HBV was observed in approximately one-third of subjects after this initial response.
