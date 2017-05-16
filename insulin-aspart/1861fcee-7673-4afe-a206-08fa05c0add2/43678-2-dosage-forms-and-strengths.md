@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-NovoLog Mix 70/30 is available in the following package sizes: each presentation contains 100 units of insulin aspart per mL (U-100).
+NOVOLOG MIX 70/30 is 100 units per mL (U-100), 70% insulin aspart protamine and 30% insulin aspart, is available as a white and cloudy injectable suspension:
 
 - •10 mL vials
-- •3 mL NovoLog Mix 70/30 FlexPen
+- •3 mL NOVOLOG MIX 70/30 FlexPen

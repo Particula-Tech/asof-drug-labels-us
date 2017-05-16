@@ -1,41 +1,57 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[see FDA-Approved Patient Labeling]
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-## 17.1 Never Share a NovoLog Mix 70/30 FlexPen Between Patients
+Never Share a NOVOLOG MIX 70/30 FlexPen between Patients
 
-Advise patients that they must never share a NovoLog Mix 70/30 FlexPen with another person, even if the needle is changed, because doing so carries a risk for transmission of bloodborne pathogens.
+Advise patients that they must never share NOVOLOG MIX 70/30 FlexPen device with another person even if the needle is changed.
+Advise patients using NOVOLOG MIX 70/30 vials not to share needles or syringes with another person.
+Sharing poses a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.1)].
 
-## 17.2 Physician Instructions
+Hypoglycemia
 
-Maintenance of normal or near-normal glucose control is a treatment goal in diabetes mellitus and has been associated with a reduction in diabetic complications.
-Patients should be informed about potential risks and advantages of NovoLog Mix 70/30 therapy including the possible adverse reactions.
-Patients should also be offered continued education and advice on insulin therapies, injection technique, life-style management, regular glucose monitoring, periodic glycosylated hemoglobin testing, recognition and management of hypo- and hyperglycemia, adherence to meal planning, complications of insulin therapy, timing of dose, instruction for use of injection devices, and proper storage of insulin.
-See Patient Information supplied with the product.
-Patients should be informed that frequent, patient-performed blood glucose measurements are needed to achieve optimal glycemic control and avoid both hyper- and hypoglycemia, and diabetic ketoacidosis.
+Inform patients that hypoglycemia is the most common adverse reaction with insulin.
+Instruct patients on self-management procedures including glucose monitoring, proper injection technique, and management of hypoglycemia and hyperglycemia, especially at initiation of NOVOLOG MIX 70/30 therapy.
+Instruct patients on handling of special situations such as intercurrent conditions (illness, stress, or emotional disturbances), an inadequate or skipped insulin dose, inadvertent administration of an increased insulin dose, inadequate food intake, and skipped meals.
+Instruct patients on the management of hypoglycemia [see Warnings and Precautions (5.3)].
 
-The patient’s ability to concentrate and react may be impaired as a result of hypoglycemia.
-This may present a risk in situations where these abilities are especially important, such as driving or operating other machinery.
-Patients who have frequent hypoglycemia or reduced or absent warning signs of hypoglycemia should be advised to use caution when driving or operating machinery.
+Inform patients that their ability to concentrate and react may be impaired as a result of hypoglycemia.
+Advise patients who have frequent hypoglycemia or reduced or absent warning signs of hypoglycemia to use caution when driving or operating machinery.
 
-Accidental substitutions between NovoLog Mix 70/30 and other insulin products have been reported.
-Patients should be instructed to always carefully check that they are administering the appropriate insulin to avoid medication errors between NovoLog Mix 70/30 and any other insulin.
-The prescription for NovoLog Mix 70/30 should be written clearly in order to avoid confusion with other insulin products, for example, NovoLog or Novolin 70/30.
-In addition, the written prescription should clearly indicate the presentation, for example FlexPen or vial.
+Hypoglycemia with Medication Errors
 
-Rx only
+Instruct patients to always check the insulin label before each injection to avoid mix-ups between insulin products [see Warnings and Precautions (5.4)].
 
-Date of Issue: February 2015
+Hypersensitivity Reactions
 
-Version: 13
+Advise patients that hypersensitivity reactions have occurred with NOVOLOG MIX 70/30.
+Inform patients of the symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
 
-Novo Nordisk®, NovoLog®, FlexPen®, and Novolin® are registered trademarks of Novo Nordisk® A/S.
+Women of Reproductive Potential
 
-NovoLog® Mix 70/30 is covered by US Patent No. 5,866,538 and other patents pending.
+Advise patients to inform their health care professional if they are pregnant or are contemplating pregnancy.
 
-FlexPen® is covered by US Patent Nos. 6,004,297, RE 43,834, RE 41,956 and other patents pending.
+Administration
 
-© 2002 – 2015 Novo Nordisk
+- •Advise patients to inspect NOVOLOG MIX 70/30 visually before use.
+  It should appear uniformly white and cloudy.
+  Instruct them to not use it if it looks clear or contains solid particles.
+- •NOVOLOG MIX 70/30 must be resuspended immediately before use.
+  Resuspension is easier when the insulin has reached room temperature.
+- •Instruct patients when using the vial, to roll the vial gently in their hands in a horizontal position 10 times until the suspension appears uniformly white and cloudy.
+  The patient should use immediately after resuspension.
+- •Instruct patients when using the FlexPen, to roll the FlexPen gently between their hands in a horizontal position 10 times.
+  Then, to turn the FlexPen upside down so that the glass ball moves from one end of the reservoir to the other 10 times until the suspension appears uniformly white and cloudy.
+  The patient should use immediately after resuspension.
+- •Instruct patients to administer NOVOLOG MIX 70/30 by subcutaneous injection in the abdominal region, buttocks, thigh, or upper arm and to rotate injection sites within the same region to reduce the risk of lipodystrophy.
+
+Version: 14
+
+Novo Nordisk®, NOVOLOG®, FlexPen®, and Novolin® are registered trademarks of Novo Nordisk® A/S.
+
+Patent Information: http://novonordisk-us.com/patients/products/product-patents.html
+
+© 2002 – 2017 Novo Nordisk
 
 Manufactured by:
 
@@ -43,7 +59,7 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-For information about NovoLog Mix 70/30 contact:
+For information about NOVOLOG MIX 70/30 contact:
 
 Novo Nordisk Inc.
 

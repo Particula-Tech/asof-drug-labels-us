@@ -1,82 +1,58 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Never Share a NovoLog Mix 70/30 FlexPen Between Patients
+## 5.1 Never Share NOVOLOG MIX 70/30 FlexPen Between Patients
 
-NovoLog Mix 70/30 FlexPens must never be shared between patients, even if the needle is changed.
-Pen-sharing poses a risk for transmission of blood-borne pathogens.
+NOVOLOG MIX 70/30 FlexPen should never be shared between patients, even if the needle is changed.
+Patients using NOVOLOG MIX 70/30 vials must never share needles or syringes with another person.
+Sharing poses a risk for transmission of blood-borne pathogens.
 
-## 5.2 Administration
+## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
-The short and long-acting components of insulin mixes, including NovoLog Mix 70/30, cannot be titrated independently.
-Because NovoLog Mix 70/30 has peak pharmacodynamic activity between 1-4 hours after injection, it should be administered within 15 minutes of meal initiation [see Clinical Pharmacology (12)].
-The dose of insulin required to provide adequate glycemic control for one of the meals may result in hyper- or hypoglycemia for the other meal.
-The pharmacodynamic profile may also be inadequate for patients who require more frequent meals.
-
-NovoLog Mix 70/30 should not be mixed with any other insulin product.
-
-NovoLog Mix 70/30 should not be used intravenously.
-
-NovoLog Mix 70/30 should not be used in insulin infusion pumps.
-
-Glucose monitoring is recommended for all patients with diabetes.
-Any change of insulin dose should be made cautiously and only under medical supervision.
-Changing from one insulin product to another or changing the insulin strength may result in the need for a change in dosage.
-Changes may also be necessary during illness, emotional stress, and other physiologic stress in addition to changes in meals and exercise.
-
-The pharmacokinetic and pharmacodynamic profiles of all insulins may be altered by the site used for injection and the degree of vascularization of the site.
-Smoking, temperature, and exercise contribute to variations in blood flow and insulin absorption.
-These and other factors contribute to inter- and intra-patient variability.
+Changes in insulin strength, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)]or hyperglycemia.
+These changes should be made cautiously and only under close medical supervision, and the frequency of blood glucose monitoring should be increased.
+For patients with type 2 diabetes, dosage adjustments of concomitant anti-diabetic products may be needed.
 
 ## 5.3 Hypoglycemia
 
-Hypoglycemia is the most common adverse effect of insulin therapy, including NovoLog Mix 70/30.
-Severe hypoglycemia may lead to unconsciousness and/or convulsions and may result in temporary or permanent impairment of brain function or even death.
-Severe hypoglycemia requiring the assistance of another person and/or parenteral glucose infusion or glucagon administration has been observed in clinical trials with insulin, including trials with NovoLog Mix 70/30.
+Hypoglycemia is the most common adverse effect of all insulin therapies, including NOVOLOG MIX 70/30.
+Severe hypoglycemia can cause seizures, may lead to unconsciousness, may be life threatening or cause death.
+Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g. driving or operating other machinery).
 
-The timing of hypoglycemia may reflect the time-action profile of the insulin formulation [see Clinical Pharmacology (12)].
-Other factors, such as changes in dietary intake (e.g., amount of food or timing of meals), injection site, exercise, and concomitant medications may also alter the risk of hypoglycemia [see Drug Interactions (7)].
-As with all insulins, use caution in patients with hypoglycemia unawareness and in patients who may be predisposed to hypoglycemia (e.g. patients who are fasting or have erratic food intake).
-The patient’s ability to concentrate and react may be impaired as a result of hypoglycemia.
-This may present a risk in situations where these abilities are especially important, such as driving or operating machinery.
+Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual.
+Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)], or in patients who experience recurrent hypoglycemia.
 
-Rapid changes in serum glucose levels may induce symptoms of hypoglycemia in persons with diabetes, regardless of the glucose value.
-Early warning symptoms of hypoglycemia may be different or less pronounced under certain conditions, such as long duration of diabetes, diabetic nerve disease, use of medications such as beta-blockers, or intensified diabetes control [see Drug Interactions (7)].
+Risk Factors for Hypoglycemia
 
-## 5.4 Hypokalemia
+The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.
+As with all insulin preparations, the glucose lowering effect time course of NOVOLOG MIX 70/30 may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
+Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7)].Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
 
-All insulin products, including NovoLog Mix 70/30, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia that, if left untreated, may cause respiratory paralysis, ventricular arrhythmia, and death.
-Use caution in patients who may be at risk for hypokalemia (e.g. patients using potassium-lowering medications or patients taking medications sensitive to potassium concentrations).
+Risk Mitigation Strategies for Hypoglycemia
 
-## 5.5 Renal Impairment
+Patients and caregivers must be educated to recognize and manage hypoglycemia.
+Self-monitoring of blood glucose plays an essential role in the prevention and management of hypoglycemia; increased frequency of blood glucose monitoring is recommended.
+In patients at higher risk for hypoglycemia and patients who have reduced symptomatic awareness of hypoglycemia, increased frequency of blood glucose monitoring is recommended.
 
-Clinical or pharmacology studies with NovoLog Mix 70/30 in diabetic patients with various degrees of renal impairment have not been conducted.
-As with other insulins, the requirements for NovoLog Mix 70/30 may be reduced in patients with renal impairment [see Clinical Pharmacology (12.3)].
+## 5.4 Hypoglycemia Due to Medication Errors
 
-## 5.6 Hepatic Impairment
+Accidental mix-ups between NOVOLOG MIX 70/30 and other insulin products have been reported.
+To avoid medication errors between NOVOLOG MIX 70/30 and other insulins, instruct patients to always check the insulin label before each injection.
 
-Clinical or pharmacology studies with NovoLog Mix 70/30 in diabetic patients with various degrees of hepatic impairment have not been conducted.
-As with other insulins, the requirements for NovoLog Mix 70/30 may be reduced in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
+## 5.5 Hypersensitivity and Allergic Reactions
 
-## 5.7 Hypersensitivity and Allergic Reactions
+Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including NOVOLOG MIX 70/30.
+If hypersensitivity reactions occur, discontinue NOVOLOG MIX 70/30; treat per standard of care and monitor until symptoms and signs resolve [see Adverse Reactions (6)].
+NOVOLOG MIX 70/30 is contraindicated in patients who have had hypersensitivity reactions to insulin aspart or one of the excipients [see Contraindications (4)].
 
-Local Reactions- As with other insulin therapy, patients may experience reactions such as erythema, edema or pruritus at the site of NovoLog Mix 70/30 injection.
-These reactions usually resolve in a few days to a few weeks, but in some occasions, may require discontinuation of NovoLog Mix 70/30.
-In some instances, these reactions may be related to the insulin molecule, other components in the insulin preparation including protamine and cresol, components in skin cleansing agents, or injection techniques.
-Localized reactions and generalized myalgias have been reported with the use of cresol as an injectable excipient.
+## 5.6 Hypokalemia
 
-Systemic Reactions- Less common, but potentially more serious, is generalized allergy to insulin, which may cause rash (including pruritus) over the whole body, shortness of breath, wheezing, reduction in blood pressure, rapid pulse, or sweating.
-Severe cases of generalized allergy, including anaphylactic reaction, may be life threatening.
+All insulin products, including NOVOLOG MIX 70/30, can cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
+Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
+Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentration).
 
-## 5.8 Antibody Production
-
-Specific anti-insulin antibodies as well as cross-reacting anti-insulin antibodies were monitored in a 3-month, open-label comparator trial as well as in a long-term extension trial.
-Changes in cross-reactive antibodies were more common after NovoLog Mix 70/30 than with Novolin 70/30 but these changes did not correlate with change in HbA1c or increase in insulin dose.
-In this study, antibodies did not increase further after long-term exposure (>6 months) to NovoLog Mix 70/30.
-The presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency towards hyperglycemia or hypoglycemia.
-
-## 5.9 Fluid Retention and Heart Failure Can Occur with Concomitant Use of PPAR-gamma Agonists
+## 5.7 Fluid Retention and Heart Failure with Concomitant Use of PPAR-gamma Agonists
 
 Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
 Fluid retention may lead to or exacerbate heart failure.
-Patients treated with insulin, including NovoLog Mix 70/30, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+Patients treated with insulin, including NOVOLOG MIX 70/30, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
 If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.

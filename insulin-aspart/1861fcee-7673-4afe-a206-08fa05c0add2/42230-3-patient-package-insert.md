@@ -2,7 +2,7 @@
 
 NovoLog® Mix 70/30 (NŌ-vō-log-MIX-SEV-en-tee-THIR-tee)
 
-(70% insulin aspart protamine suspension and 30% insulin aspart injection, [rDNA origin])
+(insulin aspart protamine and insulin aspart injectable suspension)
 
 Do not share your NovoLog Mix 70/30 FlexPen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
@@ -98,7 +98,7 @@ It may harm them.
 
 What are the ingredients in NovoLog Mix 70/30?
 
-Active Ingredient: 70% insulin aspart protamine suspension and 30% insulin aspart (rDNA origin).
+Active Ingredient: 70% insulin aspart protamine and 30% insulin aspart.
 
 Inactive Ingredients: glycerol, phenol, metacresol, zinc, disodium hydrogen phosphate dihydrate, sodium chloride, protamine sulfate, water for injection, hydrochloric acid or sodium hydroxide.
 
@@ -108,13 +108,13 @@ For more information, go to www.novonordisk-us.com or call 1-800-727-6500.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 04/2015
+Revised: 05/2017
 
 INSTRUCTIONS FOR USE
 
 NovoLog® Mix 70/30 (NŌ-vō-Log-MIX-SEV-en-tee-THIR-tee)
 
-(70% insulin aspart protamine suspension and 30% insulin aspart [rDNA origin] injection)
+(insulin aspart protamine and insulin aspart injectable suspension)
 
 10 mL vial (100 Units/mL, U-100)
 
@@ -220,13 +220,13 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: March 2013
+Revised: May 2017
 
 NovoLog® is a registered trademark of Novo Nordisk A/S.
 
-NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
+PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2002-2013 Novo Nordisk
+© 2002-2017 Novo Nordisk
 
 For information about NovoLog® Mix 70/30 contact:
 
@@ -356,7 +356,7 @@ Giving the injection
 - •Do the injection exactly as shown to you by your healthcare provider.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
   Wipe the skin with an alcohol swab and let the area dry.
-- •NovoLog Mix 70/30 can be injected under the skin (subcutaneously) or your stomach area, buttocks, upper legs (thighs), or upper arms.
+- •NovoLog Mix 70/30 can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs (thighs), or upper arms.
 - •For each injection, change (rotate) your injection site within the area of skin that you use.
   Do not use the same injection site for each injection.
 
@@ -446,6 +446,6 @@ You may give other people a serious infection, or get a serious infection from t
 Δ Remember to keep the disposable NovoLog Mix 70/30 FlexPen with you.
 Do not leave it in a car or other location where it can get too hot or too cold.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Revised: 04/2015

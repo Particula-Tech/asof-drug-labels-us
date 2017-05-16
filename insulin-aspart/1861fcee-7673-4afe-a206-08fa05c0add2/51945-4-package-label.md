@@ -2,13 +2,15 @@
 
 NovoLog® Mix 70/30
 
-70% insulin aspart protamine
+NDC 0169-3685-12
 
-suspension and 30% insulin
+List 368512
 
-aspart injection, (rDNA origin)
+insulin aspart protamine
 
-100 units/mL 10mL
+and insulin aspart injectable suspension
+
+100 units/mL 10 mL
 
 Shake carefully before using.
 See enclosed insert for proper technique.
@@ -16,10 +18,6 @@ See enclosed insert for proper technique.
 Rx only
 
 U-100
-
-NDC 0169-3685-12
-
-List 368512
 
 novo nordisk®
 
@@ -33,20 +31,19 @@ NovoLog® Mix 70/30
 
 FlexPen® Prefilled Syringe
 
-70% insulin aspart protamine, suspension and
+insulin aspart protamine and
 
-30% insulin aspart injection, (rDNA origin)
+insulin aspart injectable suspension
 
 For Single Patient Use Only
 
 100 units/mL (U-100)
 
-5x3 mL Prefilled Insulin Syringes
+5x3 mL Prefilled insulin Syringes
 
 Shake carefully before using.
-See enclosed insert for
 
-proper technique.
+See enclosed insert for proper technique.
 
 Rx only
 

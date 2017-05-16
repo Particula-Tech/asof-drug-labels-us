@@ -1,38 +1,32 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosing
+## 2.1 Important Administration Information
 
-NovoLog Mix 70/30 is an insulin analog with an earlier onset and intermediate duration of action in comparison to the basal human insulin premix.
-The addition of protamine to the rapid-acting aspart insulin analog (NovoLog) results in insulin activity that is 30% short-acting and 70% long-acting.
-NovoLog Mix 70/30 is typically dosed on a twice-daily basis (with each dose intended to cover 2 meals or a meal and a snack).
-The dosage of NovoLog Mix 70/30 must be individualized.
-The written prescription for NovoLog Mix 70/30 should include the full name, to avoid confusion with NovoLog (insulin aspart) and Novolin 70/30 (human premix).
+- •Always check insulin labels before administration [see Warnings and Precautions (5.4)].
+- •Inject NOVOLOG MIX 70/30 subcutaneously in the abdominal region, buttocks, thigh, or upper arm.
+- •Administer the dose within 15 minutes before meal initiation.
+  For patients with type 2 diabetes, the dose may also be given after meal initiation.
+- •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- •Inspect NOVOLOG MIX 70/30 visually before use.
+  It should appear uniformly white and cloudy.
+  Do not use it if it looks clear or if it contains solid particles.
+- •NOVOLOG MIX 70/30 must be resuspended immediately before use.
+  Resuspension is easier when the insulin has reached room temperature.
+- •When using the vial, roll the vial gently in hands in a horizontal position 10 times until the suspension appears uniformly white and cloudy.
+  Inject immediately.
+- •When using the FlexPen, roll the FlexPen gently between hands in a horizontal position 10 times.
+  Then, turn the FlexPen upside down so that the glass ball moves from one end of the reservoir to the other 10 times until the suspension appears uniformly white and cloudy.
+  Inject immediately.
+- •Do not administer NOVOLOG MIX 70/30 intravenously or use in insulin infusion pumps.
+- •Do not mix NOVOLOG MIX 70/30 with any other insulins.
 
-NovoLog Mix 70/30 should appear uniformly white and cloudy.
-Do not use it if it looks clear or if it contains solid particles.
-NovoLog Mix 70/30 should not be used after the printed expiration date.
+## 2.2 Dosage Information
 
-NovoLog Mix 70/30 should be administered by subcutaneous injection in the abdominal region, buttocks, thigh, or upper arm.
-NovoLog Mix 70/30 has a faster onset of action than human insulin premix 70/30 and should be dosed within 15 minutes before meal initiation for patients with type 1 diabetes.
-For patients with type 2 diabetes, dosing should occur within 15 minutes before or after meal initiation.
-Injection sites should be rotated within the same region to reduce the risk of lipodystrophy.
-As with all insulins, the duration of action may vary according to the dose, injection site, blood flow, temperature, and level of physical activity.
+- •NOVOLOG MIX 70/30 is typically dosed twice-daily (with each dose intended to cover 2 meals or a meal and a snack).
+- •Individualize and adjust the dosage of NOVOLOG MIX 70/30 based on the individual's metabolic needs, blood glucose monitoring results and glycemic control goal.
+- •Dosage adjustments may be needed with changes in physical activity, changes in meal patterns (i.e., macronutrient content or timing of food intake), changes in renal or hepatic function or during acute illness [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6, 8.7)].
+- •Dosage adjustment may be needed when switching from another insulin to NOVOLOG MIX 70/30 [see Warnings and Precautions (5.2)].
 
-NovoLog Mix 70/30 should not be administered intravenously or used in insulin infusion pumps.
-Dose regimens of NovoLog Mix 70/30 will vary among patients and should be determined by the health care professional familiar with the patient’s recommended glucose treatment goals, metabolic needs, eating habits, and other lifestyle variables.
+## 2.3 Dosage Adjustment Due to Drug Interactions
 
-## 2.2 Resuspension
-
-NovoLog Mix 70/30 is a suspension that must be visually inspected and resuspended immediately before use.
-The NovoLog Mix 70/30 vial should be rolled gently in your hands in a horizontal position 10 times to mix it.
-The rolling procedure must be repeated until the suspension appears uniformly white and cloudy.
-Inject immediately.
-Resuspension is easier when the insulin has reached room temperature.
-
-The NovoLog Mix 70/30 FlexPen should be rolled 10 times gently between your hands in a horizontal position.
-Thereafter, turn the NovoLog Mix 70/30 FlexPen upside down so that the glass ball moves from one end of the reservoir to the other.
-Do this at least 10 times.
-The rolling and turning procedure must be repeated until the suspension appears uniformly white and cloudy.
-Inject immediately.
-Before each subsequent injection, turn the disposable NovoLog Mix 70/30 FlexPen upside down so that the glass ball moves from one end of the reservoir to the other at least 10 times and until the suspension appears uniformly white and cloudy.
-Inject immediately.
+- •Dosage adjustment may be needed when NOVOLOG MIX 70/30 is coadministered with certain drugs [see Drug Interactions (7)].

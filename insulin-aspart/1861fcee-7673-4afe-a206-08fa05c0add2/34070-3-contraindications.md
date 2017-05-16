@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-NovoLog Mix 70/30 is contraindicated
+NOVOLOG MIX 70/30 is contraindicated
 
-- •during episodes of hypoglycemia
-- • in patients with hypersensitivity to NovoLog Mix 70/30 or one of its excipients.
+- •During episodes of hypoglycemia [see Warnings and Precautions (5.3)]
+- •In patients with hypersensitivity to NOVOLOG MIX 70/30 or one of its excipients [see Warnings and Precautions (5.5)]
