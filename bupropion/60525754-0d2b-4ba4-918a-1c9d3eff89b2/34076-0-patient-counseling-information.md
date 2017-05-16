@@ -43,7 +43,7 @@ Patients may wish to be examined to determine whether they are susceptible to an
 
 Bupropion-Containing Products
 
-Educate patients that WELLBUTRIN contains the same active ingredient (bupropion hydrochloride) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that WELLBUTRIN should not be used in combination with ZYBAN or any other medications that contain bupropion (such as WELLBUTRIN SR®, the sustained-release formulation and WELLBUTRIN XL® or FORFIVO XL®, the extended-release formulations, and APLENZIN®, the extended-release formulation of bupropion hydrobromide).
+Educate patients that WELLBUTRIN contains the same active ingredient (bupropion hydrochloride) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that WELLBUTRIN should not be used in combination with ZYBAN or any other medications that contain bupropion (such as WELLBUTRIN SR, the sustained-release formulation and WELLBUTRIN XL or FORFIVO XL, the extended-release formulations, and APLENZIN, the extended-release formulation of bupropion hydrobromide).
 In addition, there are a number of generic bupropion HCl products for the immediate-, sustained-, and extended-release formulations.
 
 Potential for Cognitive and Motor Impairment
@@ -66,7 +66,7 @@ Advise patients that WELLBUTRIN is present in human milk in small amounts.
 
 Storage Information
 
-Instruct patients to store WELLBUTRIN at room temperature, between 59°F and 86°F (15°C to 30°C) and keep the tablets dry and out of the light.
+Instruct patients to store WELLBUTRIN at room temperature, between 68°F and 77°F (20°C to 25°C) and keep the tablets dry and out of the light.
 
 Administration Information
 
@@ -75,8 +75,8 @@ Instruct patients if they miss a dose, not to take an extra tablet to make up fo
 Instruct patients that WELLBUTRIN tablets should be swallowed whole and not crushed, divided, or chewed.
 WELLBUTRIN can be taken with or without food.
 
-WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and ZYBAN are registered trademarks of the GSK group of companies.
-The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
+The other brands listed are trademarks owned by or licensed to their respective owners and are not owned by or licensed to the GSK group of companies.
 The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
 Manufactured for:
@@ -85,7 +85,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 the GSK group of companies.
-All rights reserved.
+©2017 GSK group of companies or its licensor.
 
-WLT:14PI
+WLT:15PI
