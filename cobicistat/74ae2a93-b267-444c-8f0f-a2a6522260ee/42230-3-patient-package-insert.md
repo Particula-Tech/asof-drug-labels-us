@@ -181,11 +181,11 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured and distributed by: Gilead Sciences, Inc. Foster City, CA 94404
 
-Revised: April 2017
+Revised: May 2017
 
 © 2017 Gilead Sciences, Inc. All rights reserved.
 
 EMTRIVA, STRIBILD, TYBOST, VIREAD, and VITEKTA are trademarks of Gilead Sciences, Inc., or its related companies.
 All other trademarks referenced herein are the property of their respective owners.
 
-203100-GS-009
+203100-GS-010
