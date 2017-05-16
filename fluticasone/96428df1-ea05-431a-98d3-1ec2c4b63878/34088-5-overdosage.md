@@ -4,7 +4,7 @@ No human overdosage data has been reported for BREO ELLIPTA.
 
 BREO ELLIPTA contains both fluticasone furoate and vilanterol; therefore, the risks associated with overdosage for the individual components described below apply to BREO ELLIPTA.
 Treatment of overdosage consists of discontinuation of BREO ELLIPTA together with institution of appropriate symptomatic and/or supportive therapy.
-The judicious use of a cardioselective beta‑receptor blocker may be considered, bearing in mind that such medicine can produce bronchospasm.
+The judicious use of a cardioselective beta-receptor blocker may be considered, bearing in mind that such medicine can produce bronchospasm.
 Cardiac monitoring is recommended in cases of overdosage.
 
 ## 10.1 Fluticasone Furoate

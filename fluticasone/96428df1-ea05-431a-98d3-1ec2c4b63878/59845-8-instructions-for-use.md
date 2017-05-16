@@ -1,0 +1,143 @@
+| INSTRUCTIONS FOR USEBREO ELLIPTA (BRE-oh e-LIP-ta) 100/25(fluticasone furoate 100 mcg and vilanterol 25 mcg inhalation powder)BREO ELLIPTA (BRE-oh e-LIP-ta) 200/25(fluticasone furoate 200 mcg and vilanterol 25 mcg inhalation powder)for oral inhalation |
+| --- |
+
+Read this before you start:
+
+- •If you open and close the cover without inhaling the medicine, you will lose the dose.
+- •The lost dose will be securely held inside the inhaler, but it will no longer be available to be inhaled.
+- •It is not possible to accidentally take a double dose or an extra dose in 1 inhalation.
+
+Your BREO ELLIPTA inhaler
+
+How to use your inhaler
+
+- •BREO ELLIPTA comes in a foil tray.
+- •Peel back the lid to open the tray.
+  See Figure A.
+- •The tray contains a desiccant to reduce moisture.
+  Do not eat or inhale.
+  Throw it away in the household trash out of reach of children and pets.
+  See Figure B.
+
+Figure A
+
+Figure B
+
+Important Notes:
+
+- •Your inhaler contains 30 doses (14 doses if you have a sample or institutional pack).
+- •Each time you fully open the cover of the inhaler (you will hear a clicking sound), a dose is ready to be inhaled.
+  This is shown by a decrease in the number on the counter.
+- •If you open and close the cover without inhaling the medicine, you will lose the dose.
+  The lost dose will be held in the inhaler, but it will no longer be available to be inhaled.
+  It is not possible to accidentally take a double dose or an extra dose in 1 inhalation.
+- •Do not open the cover of the inhaler until you are ready to use it.
+  To avoid wasting doses after the inhaler is ready, do not close the cover until after you have inhaled the medicine.
+- •Write the “Tray opened” and “Discard” dates on the inhaler label.
+  The “Discard” date is 6 weeks from the date you open the tray.
+
+Check the counter.
+See Figure C.
+
+Figure C
+
+- •Before the inhaler is used for the first time, the counter should show the number 30 (14 if you have a sample or institutional pack).
+  This is the number of doses in the inhaler.
+- •Each time you open the cover, you prepare 1 dose of medicine.
+- •The counter counts down by 1 each time you open the cover.
+
+Prepare your dose:
+
+Wait to open the cover until you are ready to take your dose.
+
+1. Step 1.
+   Open the cover of the inhaler.
+   See Figure D.
+2. •Slide the cover down to expose the mouthpiece.
+   You should hear a “click.”
+   The counter will count down by 1 number.
+   You do not need to shake this kind of inhaler.
+   Your inhaler is now ready to use.
+3. •If the counter does not count down as you hear the click, the inhaler will not deliver the medicine.
+   Call your healthcare provider or pharmacist if this happens.
+
+Figure D
+
+1. Step 2.
+   Breathe out.
+   See Figure E.
+2. •While holding the inhaler away from your mouth, breathe out (exhale) fully.
+   Do not breathe out into the mouthpiece.
+
+Figure E
+
+1. Step 3.
+   Inhale your medicine.
+   See Figure F.
+2. •Put the mouthpiece between your lips, and close your lips firmly around it.
+   Your lips should fit over the curved shape of the mouthpiece.
+3. •Take 1 long, steady, deep breath in through your mouth.
+   Do not breathe in through your nose.
+
+Figure F
+
+- •Do not block the air vent with your fingers.
+  See Figure G.
+
+Figure G
+
+- •Remove the inhaler from your mouth and hold your breath for about 3 to 4 seconds (or as long as comfortable for you).
+  See Figure H.
+
+Figure H
+
+1. Step 4.
+   Breathe out slowly and gently.
+   See Figure I.
+2. •You may not taste or feel the medicine, even when you are using the inhaler correctly.
+3. •Do not take another dose from the inhaler even if you do not feel or taste the medicine.
+
+Figure I
+
+1. Step 5.
+   Close the inhaler.
+   See Figure J.
+2. •You can clean the mouthpiece if needed, using a dry tissue, before you close the cover.
+   Routine cleaning is not required.
+3. •Slide the cover up and over the mouthpiece as far as it will go.
+
+Figure J
+
+1. Step 6.
+   Rinse your mouth.
+   See Figure K.
+2. •Rinse your mouth with water after you have used the inhaler and spit the water out.
+   Do not swallow the water.
+
+Figure K
+
+Important Note: When should you get a refill?
+
+- •When you have less than 10 doses remaining in your inhaler, the left half of the counter shows red as a reminder to get a refill.
+  See Figure L.
+- •After you have inhaled the last dose, the counter will show “0” and will be empty.
+- •Throw the empty inhaler away in your household trash out of reach of children and pets.
+
+Figure L
+
+If you have questions about BREO ELLIPTA or how to use your inhaler, call GlaxoSmithKline (GSK) at 1-888-825-5249 or visit www.myBREO.com.
+
+Trademarks are owned by or licensed to the GSK group of companies.
+
+BREO ELLIPTA was developed in collaboration with Innoviva.
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+©2017 GSK group of companies or its licensor.
+
+BRE:1IFU
+
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: May 2017 |
+| --- |

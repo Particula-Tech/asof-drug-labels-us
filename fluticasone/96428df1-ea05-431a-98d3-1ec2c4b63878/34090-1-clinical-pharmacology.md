@@ -33,7 +33,7 @@ Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhi
 
 ## 12.2 Pharmacodynamics
 
-Cardiovascular Effects
+Cardiac Electrophysiology
 
 Healthy Subjects: QTc interval prolongation was studied in a double-blind, multiple-dose, placebo- and positive-controlled crossover study in 85 healthy volunteers.
 The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline-correction was 4.9 (7.5) milliseconds and 9.6 (12.2) milliseconds seen 30 minutes after dosing for fluticasone furoate/vilanterol 200 mcg/25 mcg and fluticasone furoate/vilanterol 800 mcg/100 mcg, respectively.
@@ -93,7 +93,7 @@ Following repeat-dose inhaled administration, the plasma elimination phase half-
 Vilanterol: Following oral administration, vilanterol was eliminated mainly by metabolism followed by excretion of metabolites in urine and feces (approximately 70% and 30% of the recovered radioactive dose, respectively).
 The plasma elimination half-life of vilanterol, as determined from inhalation administration of multiple doses of vilanterol 25 mcg, is 21.3 hours in subjects with COPD and 16.0 hours in subjects with asthma.
 
-Special Populations
+Specific Populations
 
 The effect of renal and hepatic impairment and other intrinsic factors on the pharmacokinetics of fluticasone furoate and vilanterol is shown in Figure 1.
 
@@ -103,7 +103,7 @@ Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate 
 1. a Severe renal impairment (CrCl less than 30 mL/min) compared with healthy subjects; mild (Child-Pugh A), moderate (Child-Pugh B), and severe (Child-Pugh C) hepatic impairment compared with healthy subjects.
 2. b For COPD and asthma, the following comparisons were made: age compared with less than or equal to 65 years, gender compared with female, and ethnicity compared with white.
 
-Race: Systemic exposure [AUC(0-24)] to inhaled fluticasone furoate 200 mcg was 27% to 49% higher in healthy subjects of Japanese, Korean, and Chinese heritage compared with white subjects.
+Racial Groups: Systemic exposure [AUC(0-24)] to inhaled fluticasone furoate 200 mcg was 27% to 49% higher in healthy subjects of Japanese, Korean, and Chinese heritage compared with white subjects.
 Similar differences were observed for subjects with COPD or asthma (Figure 1).
 However, there is no evidence that this higher exposure to fluticasone furoate results in clinically relevant effects on urinary cortisol excretion or on efficacy in these racial groups.
 
@@ -111,7 +111,7 @@ There was no effect of race on the pharmacokinetics of vilanterol in subjects wi
 In subjects with asthma, vilanterol Cmax is estimated to be higher (3-fold) and AUC(0-24) comparable for those subjects from an Asian heritage compared with subjects from a non-Asian heritage.
 However, the higher Cmax values are similar to those seen in healthy subjects.
 
-Hepatic Impairment: Fluticasone Furoate: Following repeat dosing of fluticasone furoate/vilanterol 200 mcg/25 mcg (100 mcg/12.5 mcg in the severe impairment group) for 7 days, there was an increase of 34%, 83%, and 75% in fluticasone furoate systemic exposure (AUC) in subjects with mild, moderate, and severe hepatic impairment, respectively, compared with healthy subjects (Figure 1).
+Patients with Hepatic Impairment: Fluticasone Furoate: Following repeat dosing of fluticasone furoate/vilanterol 200 mcg/25 mcg (100 mcg/12.5 mcg in the severe impairment group) for 7 days, there was an increase of 34%, 83%, and 75% in fluticasone furoate systemic exposure (AUC) in subjects with mild, moderate, and severe hepatic impairment, respectively, compared with healthy subjects (Figure 1).
 
 In subjects with moderate hepatic impairment receiving fluticasone furoate/vilanterol 200 mcg/25 mcg, mean serum cortisol (0 to 24 hours) was reduced by 34% (90% CI: 11%, 51%) compared with healthy subjects.
 In subjects with severe hepatic impairment receiving fluticasone furoate/vilanterol 100 mcg/12.5 mcg, mean serum cortisol (0 to 24 hours) was increased by 14% (90% CI: -16%, 55%) compared with healthy subjects.
@@ -121,10 +121,10 @@ Vilanterol: Hepatic impairment had no effect on vilanterol systemic exposure [Cm
 
 There were no additional clinically relevant effects of the fluticasone furoate/vilanterol combinations on heart rate or serum potassium in subjects with mild or moderate hepatic impairment (vilanterol 25 mcg combination) or with severe hepatic impairment (vilanterol 12.5 mcg combination) compared with healthy subjects.
 
-Renal Impairment: Fluticasone furoate systemic exposure was not increased and vilanterol systemic exposure [AUC(0-24)] was 56% higher in subjects with severe renal impairment compared with healthy subjects (Figure 1).
+Patients with Renal Impairment: Fluticasone furoate systemic exposure was not increased and vilanterol systemic exposure [AUC(0-24)] was 56% higher in subjects with severe renal impairment compared with healthy subjects (Figure 1).
 There was no evidence of greater corticosteroid or beta-agonist class-related systemic effects (assessed by serum cortisol, heart rate, and serum potassium) in subjects with severe renal impairment compared with healthy subjects.
 
-Drug Interactions
+Drug Interaction Studies
 
 There were no clinically relevant differences in the pharmacokinetics or pharmacodynamics of either fluticasone furoate or vilanterol when administered in combination compared with administration alone.
 The potential for fluticasone furoate and vilanterol to inhibit or induce metabolic enzymes and transporter systems is negligible at low inhalation doses.

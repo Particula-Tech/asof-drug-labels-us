@@ -18,8 +18,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ## 6.1 Clinical Trials Experience in Chronic Obstructive Pulmonary Disease
 
-The clinical program for BREO ELLIPTA included 7,700 subjects with COPD in two 6-month lung function trials, two 12-month exacerbation trials, and 6 other trials of shorter duration.
-A total of 2,034 subjects with COPD received at least 1 dose of BREO ELLIPTA 100/25, and 1,087 subjects received a higher strength of fluticasone furoate/vilanterol.
+The clinical program for BREO ELLIPTA included more than 24,000 subjects with COPD in two 6-month lung function trials, two 12-month exacerbation trials, 1 mortality trial, and 6 other trials of shorter duration.
+A total of 6,174 subjects with COPD received at least 1 dose of BREO ELLIPTA 100/25, and 1,087 subjects received a higher strength of fluticasone furoate/vilanterol.
 The safety data described below are based on the confirmatory 6- and 12-month trials.
 Adverse reactions observed in the other trials were similar to those observed in the confirmatory trials.
 
@@ -48,12 +48,18 @@ Adverse Reactions with BREO ELLIPTA 100/25 with ≥3% Incidence and More Common 
 
 12-Month Trials
 
-Long-term safety data is based on two 12-month trials (Trials 3 and 4; n = 1,633 and n = 1,622, respectively).
+Long-term safety data are based on two 12-month trials (Trials 3 and 4; n = 1,633 and n = 1,622, respectively).
 Trials 3 and 4 included 3,255 subjects, of which 57% were male and 85% were white.
 They had a mean age of 64 years and an average smoking history of 46 pack years, with 44% identified as current smokers.
 At screening, the mean postbronchodilator percent predicted FEV1 was 45% (range: 12% to 91%), and the mean postbronchodilator FEV1/FVC ratio was 46% (range: 17% to 81%), indicating that the subject population had moderate to very severely impaired airflow obstruction.
 Subjects received 1 inhalation once daily of the following: BREO ELLIPTA 100/25, BREO ELLIPTA 200/25, fluticasone furoate/vilanterol 50 mcg/25 mcg, or vilanterol 25 mcg.
 In addition to the reactions shown in Table 1, adverse reactions occurring in greater than or equal to 3% of the subjects treated with BREO ELLIPTA 100/25 (n = 806) for 12 months included back pain, pneumonia [see Warnings and Precautions (5.5)], bronchitis, sinusitis, cough, oropharyngeal pain, arthralgia, influenza, pharyngitis, and pyrexia.
+
+Mortality Trial
+
+Safety data are available from a mortality trial in subjects with moderate COPD (moderate airflow limitation [≥50% and ≤70% predicted FEV1]) who either had a history of, or were at risk of, cardiovascular disease and were treated for up to 4 years (median treatment duration of 1.5 years).
+The trial included 16,568 subjects, 4,140 of whom received BREO ELLIPTA 100/25.
+In addition to the events in COPD trials shown in Table 1, adverse reactions occurring in greater than or equal to 3% of the subjects treated with BREO ELLIPTA 100/25 and more common than placebo included pneumonia, back pain, hypertension, and influenza.
 
 ## 6.2 Clinical Trials Experience in Asthma
 
@@ -115,7 +121,7 @@ In addition to the reactions shown in Tables 2 and 3, adverse reactions occurrin
 
 12-Month Trial
 
-Long-term safety data is based on a 12-month trial that evaluated the safety of BREO ELLIPTA 100/25 once daily (n = 201), BREO ELLIPTA 200/25 once daily (n = 202), and fluticasone propionate 500 mcg twice daily (n = 100) in adolescent and adult subjects with asthma (Trial 4).
+Long-term safety data are based on a 12-month trial that evaluated the safety of BREO ELLIPTA 100/25 once daily (n = 201), BREO ELLIPTA 200/25 once daily (n = 202), and fluticasone propionate 500 mcg twice daily (n = 100) in adolescent and adult subjects with asthma (Trial 4).
 Overall, 63% were female and 67% were white.
 The mean age was 39 years; adolescents (aged 12 to 17 years) made up 16% of the population.
 In addition to the reactions shown in Tables 2 and 3, adverse reactions occurring in greater than or equal to 2% of the subjects treated with BREO ELLIPTA 100/25 or BREO ELLIPTA 200/25 for 12 months included pyrexia, back pain, extrasystoles, upper abdominal pain, respiratory tract infection, allergic rhinitis, pharyngitis, rhinitis, arthralgia, supraventricular extrasystoles, ventricular extrasystoles, acute sinusitis, and pneumonia.
@@ -125,7 +131,7 @@ Exacerbation Trial
 In a 24- to 76-week trial, subjects received BREO ELLIPTA 100/25 (n = 1,009) or fluticasone furoate 100 mcg (n = 1,010) (Trial 5).
 Subjects participating in this trial had a history of one or more asthma exacerbations that required treatment with oral/systemic corticosteroids or emergency department visit or in-patient hospitalization for the treatment of asthma in the year prior to trial entry.
 Overall, 67% were female and 73% were white; the mean age was 42 years (adolescents aged 12 to 17 years made up 14% of the population).
-While subjects aged 12 to 17 years were included in this trial, BREO ELLIPTA is not approved for use in this age-group [see Use in Specific Populations (8.4)].
+While subjects aged 12 to 17 years were included in this trial, BREO ELLIPTA is not approved for use in this age group [see Use in Specific Populations (8.4)].
 Asthma-related hospitalizations occurred in 10 subjects (1%) treated with BREO ELLIPTA 100/25 compared with 7 subjects (0.7%) treated with fluticasone furoate 100 mcg.
 Among subjects aged 12 to 17 years, asthma-related hospitalizations occurred in 4 subjects (2.6%) treated with BREO ELLIPTA 100/25 (n = 151) compared with 0 subjects treated with fluticasone furoate 100 mcg (n = 130).
 There were no asthma-related deaths or asthma-related intubations observed in this trial.

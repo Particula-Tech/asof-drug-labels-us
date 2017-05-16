@@ -2,39 +2,50 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+Risk Summary
 
-Pregnancy Category C. There are no adequate and well-controlled trials with BREO ELLIPTA in pregnant women.
-Corticosteroids and beta2-agonists have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Because animal reproduction studies are not always predictive of human response, BREO ELLIPTA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Women should be advised to contact their physicians if they become pregnant while taking BREO ELLIPTA.
+There are insufficient data on the use of BREO ELLIPTA, fluticasone furoate, or vilanterol in pregnant women.
+There are clinical considerations with use of BREO ELLIPTA in pregnant women [see Clinical Considerations].
+In an animal reproduction study, fluticasone furoate and vilanterol administered by inhalation alone or in combination to pregnant rats during the period of organogenesis produced no fetal structural abnormalities.
+The highest fluticasone furoate and vilanterol doses in this study were approximately 5 and 40 times the maximum recommended human daily inhalation doses (MRHDID) of 200 and 25 mcg in adults, respectively.
+[See Data.]
 
-Fluticasone Furoate and Vilanterol: There was no evidence of teratogenic interactions between fluticasone furoate and vilanterol in rats at approximately 5 and 40 times, respectively, the maximum recommended human daily inhalation dose (MRHDID) in adults (on a mcg/m2 basis at maternal inhaled doses of fluticasone furoate and vilanterol, alone or in combination, up to approximately 95 mcg/kg/day).
+The estimated risk of major birth defects and miscarriage for the indicated populations is unknown.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Fluticasone Furoate: There were no teratogenic effects in rats and rabbits at approximately 4 and 1 times, respectively, the MRHDID in adults (on a mcg/m2 basis at maternal inhaled doses up to 91 and 8 mcg/kg/day in rats and rabbits, respectively).
-There were no effects on perinatal and postnatal development in rats at approximately 1 time the MRHDID in adults (on a mcg/m2 basis at maternal doses up to 27 mcg/kg/day).
+Clinical Considerations
 
-Vilanterol: There were no teratogenic effects in rats and rabbits at approximately 13,000 and 160 times, respectively, the MRHDID in adults (on a mcg/m2 basis at maternal inhaled doses up to 33,700 mcg/kg/day in rats and on an AUC basis at maternal inhaled doses up to 591 mcg/kg/day in rabbits).
-However, fetal skeletal variations were observed in rabbits at approximately 1,000 times the MRHDID in adults (on an AUC basis at maternal inhaled or subcutaneous doses of 5,740 or 300 mcg/kg/day, respectively).
+Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or moderately controlled asthma, there is an increased risk of several perinatal outcomes such as pre-eclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
+
+Pregnant women should be closely monitored and medication adjusted as necessary to maintain optimal control of asthma.
+
+Labor and Delivery: There are no human studies evaluating the effects of BREO ELLIPTA during labor and delivery.
+Because of the potential for beta-agonist interference with uterine contractility, use of BREO ELLIPTA during labor should be restricted to those patients in whom the benefits clearly outweigh the risks.
+
+Data
+
+Animal Data: Fluticasone Furoate and Vilanterol: In an embryofetal developmental study, pregnant rats received fluticasone furoate and vilanterol during the period of organogenesis at doses up to approximately 5 and 40 times the MRHDID, respectively, alone or in combination (on a mcg/m2 basis at inhalation doses up to approximately 95 mcg/kg/day).
+No evidence of structural abnormalities was observed.
+
+Fluticasone Furoate: In two separate embryofetal developmental studies, pregnant rats and rabbits received fluticasone furoate during the period of organogenesis at doses up to approximately 4 and 1 times the MRHDID, respectively (on a mcg/m2 basis at maternal inhalation doses up to 91 and 8 mcg/kg/day).
+No evidence of structural abnormalities in fetuses was observed in either species.
+In a perinatal and postnatal developmental study in rats, dams received fluticasone furoate during late gestation and lactation periods at doses up to approximately 1 time the MRHDID (on a mcg/m2 basis at maternal inhalation doses up to 27 mcg/kg/day).
+No evidence of effects on offspring development was observed.
+
+Vilanterol: In two separate embryofetal developmental studies, pregnant rats and rabbits received vilanterol during the period of organogenesis at doses up to approximately 13,000 and 1,000 times, respectively, the MRHDID (on a mcg/m2 basis at maternal inhalation doses up to 33,700 mcg/kg/day in rats and on an AUC basis at maternal inhaled doses up to 5,740 mcg/kg/day in rabbits).
+No evidence of structural abnormalities was observed at any dose in rats or in rabbits up to approximately 160 times the MRHDID (on an AUC basis at maternal doses up to 591 mcg/kg/day).
+However, fetal skeletal variations were observed in rabbits at approximately 1,000 times the MRHDID (on an AUC basis at maternal inhaled or subcutaneous doses of 5,740 or 300 mcg/kg/day, respectively).
 The skeletal variations included decreased or absent ossification in cervical vertebral centrum and metacarpals.
-There were no effects on perinatal and postnatal development in rats at approximately 3,900 times the MRHDID in adults (on a mcg/m2 basis at maternal oral doses up to 10,000 mcg/kg/day).
+In a perinatal and postnatal developmental study in rats, dams received vilanterol during late gestation and the lactation periods at doses up to approximately 3,900 times the MRHDID (on a mcg/m2 basis at maternal oral doses up to 10,000 mcg/kg/day).
+No evidence of effects in offspring development was observed.
 
-Nonteratogenic Effects
+## 8.2 Lactation
 
-Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
-Such infants should be carefully monitored.
+Risk Summary
 
-## 8.2 Labor and Delivery
-
-There are no adequate and well-controlled human trials that have investigated the effects of BREO ELLIPTA during labor and delivery.
-
-Because beta-agonists may potentially interfere with uterine contractility, BREO ELLIPTA should be used during labor only if the potential benefit justifies the potential risk.
-
-## 8.3 Nursing Mothers
-
-It is not known whether fluticasone furoate or vilanterol are excreted in human breast milk.
-However, other corticosteroids and beta2-agonists have been detected in human milk.
-Since there are no data from controlled trials on the use of BREO ELLIPTA by nursing mothers, caution should be exercised when it is administered to a nursing woman.
+There is no information available on the presence of fluticasone furoate or vilanterol in human milk, the effects on the breastfed child, or the effects on milk production.
+Low concentrations of other inhaled corticosteroids have been detected in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for BREO ELLIPTA and any potential adverse effects on the breastfed child from fluticasone furoate or vilanterol or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -73,7 +84,7 @@ The mean reduction in growth velocity was 0.27 cm/year (95% CI: 0.06 to 0.48) [s
 
 Based on available data, no adjustment of the dosage of BREO ELLIPTA in geriatric patients is necessary, but greater sensitivity in some older individuals cannot be ruled out.
 
-Clinical trials of BREO ELLIPTA for COPD included 2,508 subjects aged 65 and older and 564 subjects aged 75 and older.
+Clinical trials of BREO ELLIPTA for COPD included 4,820 subjects aged 65 and older and 1,118 subjects aged 75 and older.
 Clinical trials of BREO ELLIPTA for asthma included 854 subjects aged 65 years and older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects.
 

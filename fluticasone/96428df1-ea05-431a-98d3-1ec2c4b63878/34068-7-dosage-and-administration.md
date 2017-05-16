@@ -1,8 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-BREO ELLIPTA should be administered once daily every day by the orally inhaled route only.
+BREO ELLIPTA should be administered as 1 inhalation once daily by the orally inhaled route only.
 
-BREO ELLIPTA should be taken at the same time every day.
+BREO ELLIPTA should be used at the same time every day.
 Do not use BREO ELLIPTA more than 1 time every 24 hours.
 
 After inhalation, the patient should rinse his/her mouth with water without swallowing to help reduce the risk of oropharyngeal candidiasis.
@@ -26,8 +26,8 @@ The recommended starting dosage is BREO ELLIPTA 100/25 or BREO ELLIPTA 200/25 ad
 The maximum recommended dosage is 1 inhalation of BREO ELLIPTA 200/25 once daily.
 
 The starting dosage is based on patients’ asthma severity.
-For patients previously treated with low- to mid-dose corticosteroid–containing treatment, BREO ELLIPTA 100/25 should be considered.
-For patients previously treated with mid- to high-dose corticosteroid–containing treatment, BREO ELLIPTA 200/25 should be considered.
+For patients previously treated with low- to mid-dose corticosteroid-containing treatment, BREO ELLIPTA 100/25 should be considered.
+For patients previously treated with mid- to high-dose corticosteroid-containing treatment, BREO ELLIPTA 200/25 should be considered.
 
 The median time to onset, defined as a 100-mL increase from baseline in mean forced expiratory volume in 1 second (FEV1), was approximately 15 minutes after beginning treatment.
 Individual patients will experience a variable time to onset and degree of symptom relief.

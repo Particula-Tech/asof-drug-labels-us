@@ -20,10 +20,10 @@ Federal Law requires the dispensing of BREO ELLIPTA with the Medication Guide in
 
 1 ELLIPTA® Inhaler containing 30 doses (60 blisters total)
 
-©2015, the GSK group of companies
+©2016 the GSK group of companies
 
-1. 10000000133978 Rev.
-   4/15
+1. 10000000142559 Rev.
+   8/16
 
 PRINCIPAL DISPLAY PANEL
 
@@ -47,7 +47,7 @@ Federal Law requires the dispensing of BREO ELLIPTA with the Medication Guide in
 
 1 ELLIPTA® Inhaler containing 30 doses (60 blisters total)
 
-©2015, the GSK group of companies
+©2016 the GSK group of companies
 
-1. 10000000133357 Rev.
-   4/15
+1. 10000000142647 Rev.
+   10/16

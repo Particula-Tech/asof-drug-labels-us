@@ -13,8 +13,6 @@ A 28-week, placebo-controlled, US trial that compared the safety of another LABA
 The increased risk of asthma-related death is considered a class effect of LABA, including vilanterol, one of the active ingredients in BREO ELLIPTA.
 No trial adequate to determine whether the rate of asthma-related death is increased in subjects treated with BREO ELLIPTA has been conducted.
 
-Data are not available to determine whether the rate of death in patients with COPD is increased by LABA.
-
 ## 5.2 Deterioration of Disease and Acute Episodes
 
 BREO ELLIPTA should not be initiated in patients during rapidly deteriorating or potentially life-threatening episodes of COPD or asthma.
@@ -56,9 +54,12 @@ There was also an increased incidence of pneumonias resulting in hospitalization
 In some incidences these pneumonia events were fatal.
 Physicians should remain vigilant for the possible development of pneumonia in patients with COPD as the clinical features of such infections overlap with the symptoms of COPD exacerbations.
 
-In replicate 12-month trials in 3,255 subjects with COPD who had experienced a COPD exacerbation in the previous year, there was a higher incidence of pneumonia reported in subjects receiving fluticasone furoate/vilanterol 50 mcg/25 mcg: 6% (48 of 820 subjects); BREO ELLIPTA 100/25: 6% (51 of 806 subjects); or BREO ELLIPTA 200/25: 7% (55 of 811 subjects) than in subjects receiving vilanterol 25 mcg: 3% (27 of 818 subjects).
+In replicate 12-month trials in 3,255 subjects with moderate to severe COPD who had experienced a COPD exacerbation in the previous year, there was a higher incidence of pneumonia reported in subjects receiving fluticasone furoate/vilanterol 50 mcg/25 mcg: 6% (48 of 820 subjects); BREO ELLIPTA 100/25: 6% (51 of 806 subjects); or BREO ELLIPTA 200/25: 7% (55 of 811 subjects) than in subjects receiving vilanterol 25 mcg: 3% (27 of 818 subjects).
 There was no fatal pneumonia in subjects receiving vilanterol or fluticasone furoate/vilanterol 50 mcg/25 mcg.
 There was fatal pneumonia in 1 subject receiving BREO ELLIPTA 100/25 and in 7 subjects receiving BREO ELLIPTA 200/25 (less than 1% for each treatment group).
+
+In a mortality trial with a median treatment duration of 1.5 years in 16,568 subjects with moderate COPD and cardiovascular disease, the annualized incidence rate of pneumonia was 3.4 per 100 patient-years for BREO ELLIPTA 100/25, 3.2 for placebo, 3.3 for fluticasone furoate 100 mcg, and 2.3 for vilanterol 25 mcg.
+Adjudicated, on-treatment deaths due to pneumonia occurred in 13 subjects receiving BREO ELLIPTA 100/25, 9 subjects receiving placebo, 10 subjects receiving fluticasone furoate 100 mcg, and 6 subjects receiving vilanterol 25 mcg (less than 0.2 per 100 patient-years for each treatment group).
 
 ## 5.6 Immunosuppression
 
@@ -132,6 +133,9 @@ Fatalities have been reported in association with excessive use of inhaled sympa
 In healthy subjects, large doses of inhaled fluticasone furoate/vilanterol (4 times the recommended dose of vilanterol, representing a 12- or 10-fold higher systemic exposure than seen in subjects with COPD or asthma, respectively) have been associated with clinically significant prolongation of the QTc interval, which has the potential for producing ventricular arrhythmias.
 Therefore, BREO ELLIPTA, like other sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
 
+In a mortality trial with a median treatment duration of 1.5 years in 16,568 subjects with moderate COPD and cardiovascular disease, the annualized incidence rate of adjudicated cardiovascular events (composite of myocardial infarction, stroke, unstable angina, transient ischemic attack, or on-treatment death due to cardiovascular events) was 2.5 per 100 patient-years for BREO ELLIPTA 100/25, 2.7 for placebo, 2.4 for fluticasone furoate 100 mcg, and 2.6 for vilanterol 25 mcg.
+Adjudicated, on-treatment deaths due to cardiovascular events occurred in 82 subjects receiving BREO ELLIPTA 100/25, 86 subjects receiving placebo, 80 subjects receiving fluticasone furoate 100 mcg, and 90 subjects receiving vilanterol 25 mcg (annualized incidence rate ranged from 1.2 to 1.3 per 100 patient-years for the treatment groups).
+
 ## 5.13 Reduction in Bone Mineral Density
 
 Decreases in bone mineral density (BMD) have been observed with long-term administration of products containing inhaled corticosteroids.
@@ -139,6 +143,10 @@ The clinical significance of small changes in BMD with regard to long-term conse
 Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, postmenopausal status, tobacco use, advanced age, poor nutrition, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants, oral corticosteroids) should be monitored and treated with established standards of care.
 Since patients with COPD often have multiple risk factors for reduced BMD, assessment of BMD is recommended prior to initiating BREO ELLIPTA and periodically thereafter.
 If significant reductions in BMD are seen and BREO ELLIPTA is still considered medically important for that patient’s COPD therapy, use of medicine to treat or prevent osteoporosis should be strongly considered.
+
+In replicate 12-month trials in 3,255 subjects with moderate to severe COPD, bone fractures were reported by 2% of subjects receiving the fluticasone furoate/vilanterol combination (50 mcg/25 mcg: 2% [14 of 820 subjects]; 100 mcg/25 mcg: 2% [19 of 806 subjects]; or 200 mcg/25 mcg: 2% [14 of 811 subjects]) compared with less than 1% of subjects receiving vilanterol 25 mcg alone (8 of 818 subjects).
+
+Similar findings were seen in a mortality trial with a median treatment duration of 1.5 years in 16,568 subjects with moderate COPD and cardiovascular disease.
 
 ## 5.14 Glaucoma and Cataracts
 

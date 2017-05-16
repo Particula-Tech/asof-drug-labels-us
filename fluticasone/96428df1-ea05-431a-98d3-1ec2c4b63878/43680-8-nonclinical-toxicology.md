@@ -13,7 +13,7 @@ Fluticasone furoate produced no treatment-related increases in the incidence of 
 Fluticasone furoate did not induce gene mutation in bacteria or chromosomal damage in a mammalian cell mutation test in mouse lymphoma L5178Y cells in vitro.
 There was also no evidence of genotoxicity in the in vivo micronucleus test in rats.
 
-No evidence of impairment of fertility was observed in male and female rats at inhaled fluticasone furoate doses up to 29 and 91 mcg/kg/day, respectively (approximately 1 and 4 times, respectively, the MRHDID in adults on a mcg/m2 basis).
+No evidence of impairment of fertility was observed in male and female rats at inhaled fluticasone furoate doses up to 29 and 91 mcg/kg/day, respectively (approximately 3 and 8 times, respectively, the MRHDID based on AUC) [see Use in Specific Populations (8.1)].
 
 Vilanterol
 
@@ -29,4 +29,4 @@ The relevance of these findings to human use is unknown.
 Vilanterol tested negative in the following genotoxicity assays: the in vitro Ames assay, in vivo rat bone marrow micronucleus assay, in vivo rat unscheduled DNA synthesis (UDS) assay, and in vitro Syrian hamster embryo (SHE) cell assay.
 Vilanterol tested equivocal in the in vitro mouse lymphoma assay.
 
-No evidence of impairment of fertility was observed in reproductive studies conducted in male and female rats at inhaled vilanterol doses up to 31,500 and 37,100 mcg/kg/day, respectively (approximately 12,000 and 14,000 times, respectively, the MRHDID in adults on a mcg/m2 basis).
+No evidence of impairment of fertility was observed in male and female rats at inhaled vilanterol doses up to 31,500 and 37,100 mcg/kg/day, respectively (approximately 5,490 times the MRHDID based on AUC).

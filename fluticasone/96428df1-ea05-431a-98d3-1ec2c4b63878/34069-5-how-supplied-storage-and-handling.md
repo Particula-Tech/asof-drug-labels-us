@@ -10,7 +10,7 @@ The inhaler is packaged within a moisture-protective foil tray with a desiccant 
 3. NDC 0173-0882-10 BREO ELLIPTA 200/25 30 inhalations (60 blisters)
 4. NDC 0173-0882-14 BREO ELLIPTA 200/25 14 inhalations (28 blisters), institutional pack
 
-Store at room temperature between 68°F and 77°F (20°C and 25°C); excursions permitted from 59°F to 86°F (15°C to 30°C) [See USP Controlled Room Temperature].
+Store at room temperature between 68°F and 77°F (20° and 25°C); excursions permitted from 59°F to 86°F (15°C to 30°C) [See USP Controlled Room Temperature].
 Store in a dry place away from direct heat or sunlight.
 Keep out of reach of children.
 

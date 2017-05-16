@@ -2,8 +2,8 @@
 
 ## 14.1 Chronic Obstructive Pulmonary Disease
 
-The safety and efficacy of BREO ELLIPTA were evaluated in 7,700 subjects with COPD.
-The development program included 4 confirmatory trials of 6 and 12 months’ duration, three 12-week active comparator trials with fluticasone propionate/salmeterol 250 mcg/50 mcg, and dose-ranging trials of shorter duration.
+The safety and efficacy of BREO ELLIPTA were evaluated in more than 24,000 subjects with COPD.
+The development program included 4 confirmatory trials of 6 and 12 months’ duration, three 12-week active comparator trials with fluticasone propionate/salmeterol 250 mcg/50 mcg, 1 long-term trial, and dose-ranging trials of shorter duration.
 The efficacy of BREO ELLIPTA is based primarily on the dose-ranging trials and the 4 confirmatory trials described below.
 
 Dose Selection for Vilanterol
@@ -59,7 +59,7 @@ Least Squares Mean Change from Baseline in Weighted Mean FEV1 (0-4 h) and Trough
 
 a At Day 168.
 
-bAt Day 169.
+b At Day 169.
 
 Serial spirometric evaluations were performed predose and up to 4 hours after dosing.
 Results from Trial 1 at Day 1 and Day 168 are shown in Figure 4.
@@ -131,6 +131,34 @@ At screening in the treatment group using fluticasone propionate/salmeterol 250 
 In Trial 5, the mean (SE) change from baseline in weighted mean FEV1 (0 to 24 hours) with BREO ELLIPTA 100/25 was 174 (15) mL compared with 94 (16) mL with fluticasone propionate/salmeterol 250 mcg/50 mcg (treatment difference 80 mL; 95% CI: 37, 124; P<0.001).
 In Trials 6 and 7, the mean (SE) change from baseline in weighted mean FEV1(0 to 24 hours)with BREO ELLIPTA 100/25 was 142 (18) mL and 168 (12) mL, respectively, compared with 114 (18) mL and 142 (12) mL, respectively, for fluticasone propionate/salmeterol 250 mcg/50 mcg (Trial 6 treatment difference 29 mL; 95% CI: -22, 80; P = 0.267; Trial 7 treatment difference 25 mL; 95% CI: -8, 59; P = 0.137).
 
+Mortality Trial
+
+A randomized, double-blind, multicenter, multinational trial prospectively evaluated the efficacy of BREO ELLIPTA 100/25 compared with placebo on survival.
+The trial was event-driven and patients were followed until a sufficient number of deaths occurred.
+In this trial, 16,568 subjects aged 40 to 80 years received BREO ELLIPTA 100/25 (n = 4,140), fluticasone furoate 100 mcg (n = 4,157), vilanterol 25 mcg (n = 4,140), or placebo (n = 4,131).
+Subjects were treated for up to 4 years, with a median treatment duration of 1.5 years.
+Median duration of follow-up for the endpoint of survival was 1.8 years for all treatment groups.
+All subjects had COPD with moderate airflow limitation (≥50% and ≤70% predicted FEV1) and either had a history of, or were at risk of, cardiovascular disease.
+The primary endpoint was all-cause mortality.
+Secondary efficacy endpoints included the rate of decline in FEV1, annual rate of moderate/severe COPD exacerbations, and health-related quality of life as measured by the St. George’s Respiratory Questionnaire for COPD patients (SGRQ-C).
+
+Survival: Survival with BREO ELLIPTA 100/25 was not significantly improved compared with placebo (hazard ratio 0.88; 95% CI: 0.74, 1.04).
+Mortality per 100 patient-years was 3.1 for BREO ELLIPTA 100/25, 3.5 for placebo, 3.2 for fluticasone furoate, and 3.4 for vilanterol.
+
+Lung Function: A reduction of 8 mL/year was estimated on-treatment for BREO ELLIPTA 100/25 compared with placebo in the rate of lung function decline as measured by FEV1 (95% CI: 1, 15).
+
+Exacerbations: Treatment with BREO ELLIPTA 100/25 reduced the on-treatment annual rate of moderate/severe exacerbations by 29% compared with placebo (95% CI: 22, 35).
+Treatment with BREO ELLIPTA 100/25 reduced the annual rate of moderate/severe exacerbations by 19% compared with fluticasone furoate (95% CI: 12, 26) and by 21% compared with vilanterol (95% CI: 14, 28).
+The on-treatment annual rate of moderate/severe exacerbations was 0.25 for BREO ELLIPTA 100/25, 0.35 for placebo, 0.31 for fluticasone furoate, and 0.31 for vilanterol.
+
+Treatment with BREO ELLIPTA 100/25 reduced the on-treatment annual rate of severe exacerbations (i.e., requiring hospitalization) by 27% compared with placebo (95% CI: 13, 39).
+Treatment with BREO ELLIPTA 100/25 reduced the on-treatment annual rate of exacerbations requiring hospitalization by 11% compared with fluticasone furoate (95% CI: -6, 25) and by 9% compared with vilanterol (95% CI: -8, 24).
+
+Health-Related Quality of Life: The St. George’s Respiratory Questionnaire (SGRQ) is a disease-specific patient-reported instrument that measures symptoms, activities, and impact on daily life.
+The SGRQ-C, a shorter version derived from the original SGRQ, was used in this trial.
+Results were transformed to the SGRQ for reporting purposes.
+In a subset of 4,443 subjects, the on-treatment SGRQ responder rates at one year (defined as a change in score of 4 or more as threshold) were 49% for BREO ELLIPTA 100/25, 47% for placebo, 48% for fluticasone furoate, and 48% for vilanterol (odds ratio 1.18; 95% CI: 0.97, 1.44 for BREO ELLIPTA 100/25 compared with placebo).
+
 ## 14.2 Asthma
 
 The safety and efficacy of BREO ELLIPTA were evaluated in 9,969 subjects with asthma.
@@ -166,12 +194,12 @@ FF = fluticasone furoate, FP = fluticasone propionate, QD = once daily, BID = tw
 
 Confirmatory Trials
 
-The efficacy of BREO ELLIPTA was evaluated in 4 randomized, double‑blind, parallel-group clinical trials in adolescent and adult subjects with asthma.
+The efficacy of BREO ELLIPTA was evaluated in 4 randomized, double-blind, parallel-group clinical trials in adolescent and adult subjects with asthma.
 Three trials were designed to evaluate the safety and efficacy of BREO ELLIPTA given once daily in subjects who were not controlled on their current treatments of inhaled corticosteroid or combination therapy consisting of an inhaled corticosteroid plus a LABA (Trials 1, 2, and 3).
 A 24- to 76-week exacerbation trial was designed to demonstrate that treatment with BREO ELLIPTA 100/25 significantly decreased the risk of asthma exacerbations as measured by time to first asthma exacerbation when compared with fluticasone furoate 100 mcg (Trial 5).
 This trial enrolled subjects who had one or more asthma exacerbations in the year prior to trial entry.
 The demographics of these 4 trials and the comparator trial (Trial 6) are provided in Table 6.
-While subjects aged 12 to 17 years were included in these trials, BREO ELLIPTA is not approved for use in this age-group [see Indications (1.2), Adverse Reactions (6.2), Use in Specific Populations (8.4)].
+While subjects aged 12 to 17 years were included in these trials, BREO ELLIPTA is not approved for use in this age group [see Indications (1.2), Adverse Reactions (6.2), Use in Specific Populations (8.4)].
 
 Table 6.
 Demography of Asthma Trials 1, 2, 3, 5, and 6
@@ -204,7 +232,7 @@ In Trials 1 and 3, change from baseline in weighted mean FEV1 (0 to 24 hours) an
 In Trial 2, change from baseline in weighted mean FEV1 (0 to 24 hours) at Week 12 was the primary efficacy endpoint; change from baseline in trough FEV1 at approximately 24 hours after the last dose at Week 12 was a secondary endpoint.
 (See Table 7.)
 Weighted mean FEV1 (0 to 24 hours) was derived from serial measurements taken within 30 minutes prior to dosing and postdose assessments at 5, 15, and 30 minutes and 1, 2, 3, 4, 5, 12, 16, 20, 23, and 24 hours after the final dose.
-Other secondary endpoints included change from baseline in percentage of rescue‑free 24-hour periods and percentage of symptom‑free 24-hour periods over the treatment period.
+Other secondary endpoints included change from baseline in percentage of rescue-free 24-hour periods and percentage of symptom-free 24-hour periods over the treatment period.
 
 Table 7.
 Change from Baseline in Weighted Mean FEV1 (0-24 h) (mL) and Trough FEV1 (mL) at Study Endpoint (Trials 1, 2, and 3)

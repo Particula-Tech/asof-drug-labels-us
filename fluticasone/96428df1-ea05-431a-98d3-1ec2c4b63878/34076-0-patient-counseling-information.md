@@ -56,7 +56,7 @@ Inform patients that long-term use of inhaled corticosteroids may increase the r
 
 Risks Associated with Beta-agonist Therapy
 
-Inform patients of adverse effects associated with beta2‑agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
+Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
 Hypersensitivity Reactions, Including Anaphylaxis
 
@@ -64,15 +64,14 @@ Advise patients that hypersensitivity reactions (e.g., anaphylaxis, angioedema, 
 Instruct patients to discontinue BREO ELLIPTA if such reactions occur.
 There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder medications containing lactose; therefore, patients with severe milk protein allergy should not use BREO ELLIPTA.
 
-BREO and ELLIPTA are registered trademarks of the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
 
-BREO ELLIPTA was developed in collaboration with Theravance.
+BREO ELLIPTA was developed in collaboration with Innoviva.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2016 the GSK group of companies.
-All rights reserved.
+©2017 GSK group of companies or its licensor.
 
-BRE:7PI
+BRE:8PI

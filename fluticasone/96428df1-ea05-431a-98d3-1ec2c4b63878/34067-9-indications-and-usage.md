@@ -2,7 +2,7 @@
 
 ## 1.1 Maintenance Treatment of Chronic Obstructive Pulmonary Disease
 
-BREO® ELLIPTA® 100/25 is a combination inhaled corticosteroid/long-acting beta2-adrenergic agonist (ICS/LABA) indicated for the long-term, once-daily, maintenance treatment of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema.
+BREO ELLIPTA 100/25 is a combination inhaled corticosteroid/long-acting beta2-adrenergic agonist (ICS/LABA) indicated for the long-term, once-daily, maintenance treatment of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema.
 BREO ELLIPTA 100/25 is also indicated to reduce exacerbations of COPD in patients with a history of exacerbations.
 BREO ELLIPTA 100/25 once daily is the only strength indicated for the treatment of COPD.
 
