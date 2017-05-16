@@ -49,8 +49,7 @@ Tell your doctor if you:
 Your doctor will decide if amlodipine besylate tablets, USP is the best treatment for you.
 
 • are breast-feeding.
-Do not breast-feed while taking amlodipine besylate tablets,USP.
-You can stop breast-feeding or take a different medicine.
+Amlodipine besylate tablets, USP passes into your milk.
 
 How should I take amlodipine besylate tablets, USP?
 
@@ -71,9 +70,6 @@ If you take nitroglycerin for angina, don't stop taking it while you are taking 
 • If you took too much amlodipine besylate tablets, USP, call your doctor or Poison Control Center, or go to the nearest hospital emergency room right away.
 
 What should I avoid while taking amlodipine besylate tablets, USP?
-
-• Do not breast-feed.
-It is not known if amlodipine besylate tablets, USP will pass through your milk.
 
 • Do not start any new prescription or non-prescription medicines or supplements, unless you check with your doctor first.
 
@@ -129,6 +125,8 @@ Manufactured for:
 
 Cipla USA, Inc.
 
-9100 S. Dadeland Blvd., Suite 1500 Miami, FL 33156
+1560 Sawgrass Corporate Parkway,
 
-Revised: 12/2015
+Suite 130, Sunrise, FL 33323
+
+Revised: 4/2017

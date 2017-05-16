@@ -11,13 +11,13 @@ In controlled clinical trials directly comparing amlodipine (N=1730) at doses up
 The most commonly reported side effects more frequent than placebo are reflected in the table below.
 The incidence (%) of side effects that occurred in a dose related manner are as follows:
 
-|  |  | Amlodipine besylate |  | Placebo |
-| --- | --- | --- | --- | --- |
-|  | 2.5mg N=275 | 5mg N=296 | 10mg N=268 | N=520 |
-| Edema | 1.8 | 3.0 | 10.8 | 0.6 |
-| Dizziness | 1.1 | 3.4 | 3.4 | 1.5 |
-| Flushing | 0.7 | 1.4 | 2.6 | 0.0 |
-| Palpitation | 0.7 | 1.4 | 4.5 | 0.6 |
+|  |  | Amlodipine besylate |  |  | Placebo |
+| --- | --- | --- | --- | --- | --- |
+|  | 2.5mg N=275 | 5mg N=296 | 10mg N=268 |  | N=520 |
+| Edema | 1.8 | 3.0 | 10.8 |  | 0.6 |
+| Dizziness | 1.1 | 3.4 | 3.4 |  | 1.5 |
+| Flushing | 0.7 | 1.4 | 2.6 |  | 0.0 |
+| Palpitation | 0.7 | 1.4 | 4.5 |  | 0.6 |
 
 Other adverse reactions that were not clearly dose related but were reported with an incidence greater than 1.0% in placebo-controlled clinical trials include the following:
 
@@ -74,7 +74,7 @@ No clinically relevant changes were noted in serum potassium, serum glucose, tot
 
 In the CAMELOT and PREVENT studies [see Clinical Studies (14.4)], the adverse event profile was similar to that reported previously (see above), with the most common adverse event being peripheral edema.
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 

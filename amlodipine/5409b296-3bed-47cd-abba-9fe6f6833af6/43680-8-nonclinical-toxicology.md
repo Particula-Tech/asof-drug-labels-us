@@ -7,6 +7,6 @@ For the mouse, the highest dose was, on a mg/m2 basis, similar to the maximum re
 
 Mutagenicity studies conducted with amlodipine maleate revealed no drug related effects at either the gene or chromosome level.
 
-There was no effect on the fertility of rats treated orally with amlodipine maleate (males for 64 days and females for 14 days prior to mating) at doses up to 10 mg amlodipine/kg/day (8 times the maximum recommended human dose3 of 10 mg/day on a mg/m2 basis).
+There was no effect on the fertility of rats treated orally with amlodipine maleate (males for 64 days and females for 14 days prior to mating) at doses up to 10 mg amlodipine/kg/day (8 times the maximum recommended human dose3of 10 mg/day on a mg/m2 basis).
 
 3 Based on patient weight of 50 kg
