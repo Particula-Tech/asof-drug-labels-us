@@ -30,6 +30,11 @@ When used concomitantly with WELLBUTRIN SR, it may be necessary to decrease the 
 Drugs that require metabolic activation by CYP2D6 to be effective (e.g., tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
 Patients treated concomitantly with WELLBUTRIN SR and such drugs may require increased doses of the drug [see Clinical Pharmacology (12.3)].
 
+Digoxin
+
+Coadministration of WELLBUTRIN SR with digoxin may decrease plasma digoxin levels.
+Monitor plasma digoxin levels in patients treated concomitantly with WELLBUTRIN SR and digoxin [seeClinical Pharmacology (12.3).
+
 ## 7.3 Drugs that Lower Seizure Threshold
 
 Use extreme caution when coadministering WELLBUTRIN SR with other drugs that lower seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).
