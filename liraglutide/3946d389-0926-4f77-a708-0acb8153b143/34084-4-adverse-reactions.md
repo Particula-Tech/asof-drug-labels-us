@@ -17,10 +17,11 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Saxenda was evaluated for safety in 5 double-blind, placebo controlled trials that included 3384 overweight or obese patients treated with Saxenda for a treatment period up to 56 weeks (3 trials), 52 weeks (1 trial), and 32 weeks (1 trial).
 All patients received study drug in addition to diet and exercise counseling.
-In these trials, patients received Saxenda for a mean treatment duration of 45.9 weeks (median, 55.9 weeks).
-Of these, 1087 Saxenda-treated patients and 497 placebo-treated patients have been exposed in their original randomized groups beyond the primary endpoint for an additional mean duration of 53.0 weeks (median, 56.9 weeks).
+In these trials, patients received Saxenda for a mean treatment duration of 46 weeks (median, 56 weeks).
 Baseline characteristics included a mean age of 47 years, 71% women, 85% white, 39% with hypertension, 15% with type 2 diabetes, 34% with dyslipidemia, 29% with a BMI greater than 40 kg/m2, and 9% with cardiovascular disease.
-Dosing was initiated and increased weekly to reach the 3 mg dose.
+In one of the 56-week trials, a subset of patients (with abnormal glucose measurements at randomization) [see Clinical Studies (14)] were enrolled for a placebo-controlled 160-week period instead, followed by a 12-week off-treatment follow-up.
+For those participating in this 160-week period, patients received Saxenda for a mean treatment duration of 110 weeks (median, 159 weeks).
+For all trials, dosing was initiated and increased weekly to reach the 3 mg dose.
 
 In clinical trials, 9.8% of patients treated with Saxenda and 4.3% of patients treated with placebo prematurely discontinued treatment as a result of adverse reactions.
 The most common adverse reactions leading to discontinuation were nausea (2.9% versus 0.2% for Saxenda and placebo, respectively), vomiting (1.7% versus less than 0.1%), and diarrhea (1.4% versus 0%).
@@ -28,7 +29,7 @@ The most common adverse reactions leading to discontinuation were nausea (2.9% v
 Adverse reactions reported in greater than or equal to 2% of Saxenda-treated patients and more frequently than in placebo-treated patients are shown in Table 3.
 
 1. Table 3.
-   Adverse Reactions Reported in Greater Than or Equal to 2% of Saxenda-treated Patients and More Frequently than with Placebo
+   Adverse Reactions Reported in Greater Than or Equal to 2% of Saxenda-treated Patients and More Frequently than with Placebo*
 
 |  | PlaceboN = 1941% | SaxendaN = 3384% |
 | --- | --- | --- |
@@ -66,9 +67,10 @@ Adverse reactions reported in greater than or equal to 2% of Saxenda-treated pat
 | Insomnia | 1.7 | 2.4 |
 | Anxiety | 1.6 | 2.0 |
 
-1. 1Documented symptomatic (defined as documented symptoms of hypoglycemia in combination with a plasma glucose less than or equal to 70 mg/dL) in patients with type 2 diabetes (Study 2).
-   See text below for further information regarding hypoglycemia in patients with and without type 2 diabetes.
-   T2DM = type 2 diabetes mellitus
+- •Documented symptomatic (defined as documented symptoms of hypoglycemia in combination with a plasma glucose less than or equal to 70 mg/dL) in patients with type 2 diabetes (Study 2).
+  See text below for further information regarding hypoglycemia in patients with and without type 2 diabetes.
+  T2DM = type 2 diabetes mellitus
+- * Adverse reactions for trials with treatment period up to 56 weeks
 
 Hypoglycemia
 
@@ -123,20 +125,20 @@ The most common reactions, each reported by 1% to 2.5% of Saxenda-treated patien
 
 Breast Cancer
 
-In Saxenda clinical trials, breast cancer confirmed by adjudication was reported in 14 (0.6%) of 2379 Saxenda-treated women compared with 3 (0.2%) of 1300 placebo-treated women, including invasive cancer (11 Saxenda- and 2 placebo-treated women) and ductal carcinoma in situ (3 Saxenda- and 1 placebo-treated woman).
+In Saxenda clinical trials, breast cancer confirmed by adjudication was reported in 17 (0.7%) of 2379 Saxenda-treated women compared with 3 (0.2%) of 1300 placebo-treated women, including invasive cancer (13 Saxenda- and 2 placebo-treated women) and ductal carcinoma in situ (4 Saxenda- and 1 placebo-treated woman).
 The majority of cancers were estrogen- and progesterone-receptor positive.
 There were too few cases to determine whether these cases were related to Saxenda.
 In addition, there are insufficient data to determine whether Saxenda has an effect on pre-existing breast neoplasia.
 
 Papillary Thyroid Cancer
 
-In Saxenda clinical trials, papillary thyroid carcinoma confirmed by adjudication was reported in 7 (0.2%) of 3291 Saxenda-treated patients compared with no cases among 1843 placebo-treated patients.
+In Saxenda clinical trials, papillary thyroid carcinoma confirmed by adjudication was reported in 8 (0.2%) of 3291 Saxenda-treated patients compared with no cases among 1843 placebo-treated patients.
 Four of these papillary thyroid carcinomas were less than 1 cm in greatest diameter and 4 were diagnosed in surgical pathology specimens after thyroidectomy prompted by findings identified prior to treatment.
 
 Colorectal Neoplasms
 
-In Saxenda clinical trials, benign colorectal neoplasms (mostly colon adenomas) confirmed by adjudication were reported in 17 (0.5%) of 3291 Saxenda-treated patients compared with 4 (0.2%) of 1843 placebo-treated patients.
-Two positively adjudicated cases of malignant colorectal carcinoma were reported in Saxenda-treated patients (0.1%) and none in placebo-treated patients.
+In Saxenda clinical trials, benign colorectal neoplasms (mostly colon adenomas) confirmed by adjudication were reported in 20 (0.6%) of 3291 Saxenda-treated patients compared with 7 (0.4%) of 1843 placebo-treated patients.
+Six positively adjudicated cases of malignant colorectal neoplasms were reported in 5 Saxenda-treated patients (0.2%, mostly adenocarcinomas) and 1 in a placebo-treated patient (0.1%, neuroendocrine tumor of the rectum).
 
 Cardiac Conduction Disorders
 
@@ -170,7 +172,7 @@ Among Saxenda-treated patients, 2.1% had a lipase value at anytime during treatm
 0.1% of Saxenda-treated patients had an amylase value at anytime in the trial of greater than or equal to 3 times the upper limit of normal versus 0.1% of placebo-treated patients.
 The clinical significance of elevations in lipase or amylase with Saxenda is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.2)].
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been reported during post-approval use of liraglutide, the active ingredient of Saxenda.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -201,4 +203,4 @@ Immune System Disorders
 
 Hepatobiliary Disorders
 
-Elevations of liver enzymes, hyperbilirubinemia, cholestasis and hepatitis [see Adverse Reactions (6.1)]
+1. Elevations of liver enzymes, hyperbilirubinemia, cholestasis and hepatitis [see Adverse Reactions (6.1)]

@@ -12,7 +12,7 @@ A Saxenda pen should never be shared between patients, even if the needle is cha
 
 ## 16.2 Recommended Storage
 
-Prior to first use, Saxenda should be stored in a refrigerator between 36ºF to 46ºF (2ºC to 8ºC) (Table 7).
+Prior to first use, Saxenda should be stored in a refrigerator between 36ºF to 46ºF (2ºC to 8ºC) (Table 8).
 Do not store in the freezer or directly adjacent to the refrigerator cooling element.
 Do not freeze Saxenda and do not use Saxenda if it has been frozen.
 
@@ -22,7 +22,7 @@ Saxenda should be protected from excessive heat and sunlight.
 Always remove and safely discard the needle after each injection and store the Saxenda pen without an injection needle attached.
 This will reduce the potential for contamination, infection, and leakage while also ensuring dosing accuracy.
 
-1. Table 7.
+1. Table 8.
    Recommended Storage Conditions for Saxenda
 
 | Prior to first use | After first use |  |

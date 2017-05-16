@@ -24,15 +24,16 @@ After initiation of Saxenda, observe patients carefully for signs and symptoms o
 If pancreatitis is suspected, Saxenda should promptly be discontinued and appropriate management should be initiated.
 If pancreatitis is confirmed, Saxenda should not be restarted.
 
-In Saxenda clinical trials, acute pancreatitis was confirmed by adjudication in 9 (0.3%) of 3291 Saxenda-treated patients and 1 (0.1%) of 1843 placebo-treated patients.
-In addition, there were 2 cases of acute pancreatitis in Saxenda-treated patients who prematurely withdrew from these clinical trials, occurring 74 and 124 days after the last dose, and 1 additional case in a Saxenda-treated patient during an off-treatment follow-up period within 2 weeks of discontinuing Saxenda.
+In Saxenda clinical trials, acute pancreatitis was confirmed by adjudication in 9 (0.3%) of 3291 Saxenda-treated patients and 2 (0.1%) of 1843 placebo-treated patients.
+In addition, there were 2 cases of acute pancreatitis in Saxenda-treated patients who prematurely withdrew from these clinical trials, occurring 74 and 124 days after the last dose.
+There were 2 additional cases in Saxenda-treated patients, 1 during an off-treatment follow-up period within 2 weeks of discontinuing Saxenda, and 1 that occurred in a patient who completed treatment and was off-treatment for 106 days.
 
 It is unknown whether patients with a history of pancreatitis are at increased risk for pancreatitis while using Saxenda, since these patients were excluded from clinical trials.
 
 ## 5.3 Acute Gallbladder Disease
 
-In Saxenda clinical trials, 1.5% of Saxenda-treated patients reported adverse events of cholelithiasis versus 0.5% of placebo-treated patients.
-The incidence of cholecystitis was 0.6% in Saxenda-treated patients versus 0.2% in placebo-treated patients.
+In Saxenda clinical trials, 2.2% of Saxenda-treated patients reported adverse events of cholelithiasis versus 0.8% of placebo-treated patients.
+The incidence of cholecystitis was 0.8% in Saxenda-treated patients versus 0.4% in placebo-treated patients.
 The majority of Saxenda-treated patients with adverse events of cholelithiasis and cholecystitis required cholecystectomy.
 Substantial or rapid weight loss can increase the risk of cholelithiasis; however, the incidence of acute gallbladder disease was greater in Saxenda-treated patients than in placebo-treated patients even after accounting for the degree of weight loss.
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
@@ -81,7 +82,7 @@ Use caution in a patient with a history of angioedema with another GLP-1 recepto
 
 ## 5.8 Suicidal Behavior and Ideation
 
-In Saxenda clinical trials, 6 (0.2%) of 3384 Saxenda-treated patients and none of the 1941 placebo-treated patients reported suicidal ideation; one of these Saxenda-treated patients attempted suicide.
+In Saxenda clinical trials, 9 (0.3%) of 3384 Saxenda-treated patients and 2 (0.1%) of the 1941 placebo-treated patients reported suicidal ideation; one of these Saxenda-treated patients attempted suicide.
 Patients treated with Saxenda should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 Discontinue Saxenda in patients who experience suicidal thoughts or behaviors.
 Avoid Saxenda in patients with a history of suicidal attempts or active suicidal ideation.

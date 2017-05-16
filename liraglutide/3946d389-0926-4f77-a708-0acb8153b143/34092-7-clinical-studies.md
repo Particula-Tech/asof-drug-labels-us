@@ -4,9 +4,12 @@ The safety and efficacy of Saxenda for chronic weight management in conjunction 
 In all studies, Saxenda was titrated to 3 mg daily during a 4-week period.
 All patients received instruction for a reduced calorie diet (approximately 500 kcal/day deficit) and exercise counseling (recommended increase in physical activity of minimum 150 mins/week) that began with the first dose of study medication or placebo and continued throughout the trial.
 
-Study 1 was a 56-week trial that enrolled 3731 patients with obesity (BMI greater than or equal to 30 kg/m2) or with overweight (BMI 27-29.9 kg/m2) and at least one weight-related comorbid condition such as treated or untreated dyslipidemia or hypertension; patients with type 2 diabetes mellitus were excluded.
+Study 1 enrolled 3731 patients with obesity (BMI greater than or equal to 30 kg/m2) or with overweight (BMI 27-29.9 kg/m2) and at least one weight-related comorbid condition such as treated or untreated dyslipidemia or hypertension; patients with type 2 diabetes mellitus were excluded.
 Patients were randomized in a 2:1 ratio to either Saxenda or placebo.
-The mean age was 45 years (range 18-78), 79% were women, 85% were Caucasian, 10% were African American, and 11% were Hispanic/Latino.
+Patients were stratified based on the presence or absence of abnormal blood glucose measurements at randomization.
+All patients were treated for up to 56 weeks.
+Those patients with abnormal glucose measurements at randomization (2254 of the 3731 patients) were treated for a total of 160 weeks.
+At baseline, mean age was 45 years (range 18-78), 79% were women, 85% were Caucasian, 10% were African American, and 11% were Hispanic/Latino.
 Mean baseline body weight was 106.3 kg and mean BMI was 38.3 kg/m2.
 
 Study 2 was a 56-week trial that enrolled 635 patients with type 2 diabetes and with either overweight or obesity (as defined above).
@@ -21,11 +24,12 @@ Patients who lost at least 5% of their screening body weight after 4 to 12 weeks
 The mean age was 46 years (range 18-73), 81% were women, 84% were Caucasian, 13% were African American, and 7% were Hispanic/Latino.
 Mean baseline body weight was 99.6 kg and mean BMI was 35.6 kg/m2.
 
-The proportions of patients who discontinued study drug in the 56-week trials were 27% for the Saxenda-treated group and 35% for the placebo-treated group.
-Approximately 10% of patients treated with Saxenda and 4% of patients treated with placebo discontinued treatment due to an adverse reaction [see Adverse Reactions (6.1)].
+The proportions of patients who discontinued study drug in the 56-week trials were 27% for the Saxenda-treated group and 35% for the placebo-treated group, and in the 160-week trial the proportions of patients who discontinued were 47% and 55%, respectively.
+In the 56-week trials, approximately 10% of patients treated with Saxenda and 4% of patients treated with placebo discontinued treatment due to an adverse reaction [see Adverse Reactions (6.1)].
 The majority of patients who discontinued Saxenda due to adverse reactions did so during the first few months of treatment.
+In the 160-week trial the proportions of patients who discontinued due to an adverse reaction was 13% and 6% for Saxenda- and placebo-treated patients, respectively.
 
-Effect of Saxenda on Body Weight
+Effect of Saxenda on Body Weight in 56-week Trials
 
 For Study 1 and Study 2, the primary efficacy parameters were mean percent change in body weight and the percentages of patients achieving greater than or equal to 5% and 10% weight loss from baseline to week 56.
 For Study 3, the primary efficacy parameters were mean percent change in body weight from randomization to week 56, the percentage of patients not gaining more than 0.5% body weight from randomization (i.e., after run-in) to week 56, and the percentage of patients achieving greater than or equal to 5% weight loss from randomization to week 56.
@@ -69,12 +73,31 @@ The time courses of weight loss with Saxenda and placebo from baseline through w
 1. Figure 4.
    Change from baseline (%) in body weight during Study 3
 
-Effect of Saxenda on Anthropometry and Cardiometabolic Parameters
+Effect of Saxenda on Body Weight in a 160-week Trial (Study 1, Subset of Patients with Abnormal Blood Glucose at Randomization)
 
-Changes in waist circumference and cardiometabolic parameters with Saxenda are shown in Table 5 for Study 1 (patients without diabetes mellitus) and Table 6 for Study 2 (patients with type 2 diabetes).
+The numbers and percentages of patients known to have lost greater than or equal to 5% body weight at week 56 and/or week 160 in Study 1 (patients with abnormal glucose at randomization only) are summarized in Table 5 for descriptive purposes.
+
+1. Table 5.Changes in Weight at Week 56 and Week 160 for Study 1 (Subset of Patients with Abnormal Blood Glucose at Randomization)
+
+|  | SaxendaN=1505 | PlaceboN=749 |
+| --- | --- | --- |
+| Baseline mean body weight (SD) (kg) | 107.5 (21.6) | 107.9 (21.8) |
+| Number (%) of patients known to lose greater than or equal to 5% body weight at 56 weeks | 817 (56%) | 182 (25%) |
+| Number (%) of patients known to lose greater than or equal to 5% body weight at 160 weeks | 424 (28%) | 102 (14%) |
+| Number (%) of patients known to lose greater than or equal to 5% body weight at both 56 weeks and 160 weeks | 391 (26%) | 74 (10%) |
+| Number (%) of patients with weight assessment at 160 weeks | 747 (50%) | 322 (43%) |
+
+SD = Standard Deviation
+
+Includes all randomized subjects who had a baseline body weight measurement.
+All available body weight data at 56 and 160 weeks are included in the analysis.
+
+Effect of Saxenda on Anthropometry and Cardiometabolic Parameters in 56-week Trials
+
+Changes in waist circumference and cardiometabolic parameters with Saxenda are shown in Table 6 for Study 1 (patients without diabetes mellitus) and Table 7 for Study 2 (patients with type 2 diabetes).
 Results from Study 3, which also enrolled patients without diabetes mellitus, were similar to Study 1.
 
-1. Table 5.
+1. Table 6.
    Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 1 (Patients without Diabetes)
 
 |  | SaxendaN = 2487 |  | PlaceboN = 1244 |  |  |
@@ -96,7 +119,7 @@ Based on last observation carried forward method while on study drug
 
 * Baseline value is the geometric mean †Values are baseline median, median % change, and the Hodges-Lehmann estimate of the median treatment difference.
 
-1. Table 6.
+1. Table 7.
    Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 2 (Patients with Diabetes Mellitus)
 
 |  | SaxendaN = 423 |  | PlaceboN = 212 |  |  |

@@ -2,7 +2,7 @@
 
 FDA-Approved Medication Guide
 
-Advise the patient to read the FDA-Approved patient labeling (Medication Guide and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Instructions
 
@@ -64,26 +64,16 @@ Never Share a Saxenda Pen Between Patients
 Patients should be informed that they should never share a Saxenda pen with another person, even if the needle is changed.
 Sharing of the pen between patients may pose a risk of transmission of infection.
 
-Version: 3
+Version: 4
 
 Saxenda® and Victoza® are registered trademarks of Novo Nordisk A/S.
 
-PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
+PATENT Information:http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2014-2016 Novo Nordisk
+© 2014-2017 Novo Nordisk
 
-Manufactured by:
+Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
 
-Novo Nordisk A/S
-
-DK-2880 Bagsvaerd, Denmark
-
-For information about Saxenda contact:
-
-Novo Nordisk Inc.
-
-800 Scudders Mill Road
-
-Plainsboro, NJ 08536
+For information about Saxenda contact: Novo Nordisk Inc. 800 Scudders Mill Road Plainsboro, NJ 08536
 
 1-844-363-4448

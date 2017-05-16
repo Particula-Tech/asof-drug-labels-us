@@ -113,9 +113,7 @@ Tell your healthcare provider if you take diabetes medicines, especially sulfony
 
 What are the possible side effects of Saxenda?
 
-- Saxendamay cause serious side effects, including:
-
-- •possible thyroid tumors, including cancer.
+- •Saxendamay cause serious side effects, including: possible thyroid tumors, including cancer.
   See “What is the most important information I should know about Saxenda?”
 - •inflammation of the pancreas (pancreatitis).
   Stop using Saxenda and call your healthcare provider right away if you have severe pain in your stomach area (abdomen) that will not go away, with or without vomiting.
@@ -161,7 +159,7 @@ Call your healthcare provider right away if you have nausea, vomiting, or diarrh
 - •serious allergic reactions.
   Serious allergic reactions can happen with Saxenda.
   Stop using Saxenda, and get medical help right away if you have any symptoms of a serious allergic reaction.
-  See “Who should not use Saxenda”
+  See “Who should not use Saxenda”.
 - •depression or thoughts of suicide.
   You should pay attention to any mental changes, especially sudden changes, in your mood, behaviors, thoughts, or feelings.
   Call your healthcare provider right away if you have any mental changes that are new, worse, or worry you.
@@ -262,4 +260,4 @@ Get help from a person with good eyesight who is trained to use the Saxenda pen.
 
 This Medication Guide and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-October 2016
+October, 2016

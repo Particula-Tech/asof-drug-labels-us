@@ -2,16 +2,26 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X.
-
 Risk Summary
 
-Saxenda is contraindicated during pregnancy because weight loss offers no potential benefit to a pregnant woman and may result in fetal harm.
-There are no adequate and well-controlled studies of Saxenda in pregnant women.
-Saxenda should not be used during pregnancy.
-If a patient wishes to become pregnant, or pregnancy occurs, treatment with Saxenda should be discontinued.
+SAXENDA is contraindicated during pregnancy because weight loss offers no potential benefit to a pregnant woman and may result in fetal harm [see Clinical Considerations].
+There are no available data with liraglutide in pregnant women to inform a drug associated risk for major birth defects and miscarriage.
+SAXENDA should not be used during pregnancy.
+If a patient wishes to become pregnant, or pregnancy occurs, treatment with SAXENDA should be discontinued.
+
+Animal reproduction studies identified increased adverse embryofetal developmental outcomes from exposure during pregnancy.
+Liraglutide exposure was associated with early embryonic deaths and an imbalance in some fetal abnormalities in pregnant rats administered liraglutide during organogenesis at doses that approximate clinical exposures at the maximum recommended human dose (MRHD) of 3 mg/day.
+In pregnant rabbits administered liraglutide during organogenesis, decreased fetal weight and an increased incidence of major fetal abnormalities were seen at exposures below the human exposures at the MRHD [see Animal Data].
+
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage of
+
+clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
+
+Disease-associated maternal and/or embryofetal risk
 
 A minimum weight gain, and no weight loss, is recommended for all pregnant women, including those who are already overweight or obese, due to the necessary weight gain that occurs in maternal tissues during pregnancy.
 
@@ -39,11 +49,18 @@ Group mean body weight of neonatal rats from liraglutide-treated dams was lower 
 Bloody scabs and agitated behavior occurred in male rats descended from dams treated with 1 mg/kg/day liraglutide.
 Group mean body weight from birth to postpartum day 14 trended lower in F2 generation rats descended from liraglutide-treated rats compared to F2 generation rats descended from controls, but differences did not reach statistical significance for any group.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether Saxenda is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for tumorigenicity shown for liraglutide in animal studies, a decision should be made whether to discontinue nursing or to discontinue Saxenda, taking into account the importance of the drug to the mother.
-In lactating rats, liraglutide was excreted unchanged in milk at concentrations approximately 50% of maternal plasma concentrations.
+Risk Summary
+
+There are no data on the presence of liraglutide in human milk, the effects on the breastfed infant, or effects on milk production.
+Liraglutide was present in the milk of lactating rats (see Data).
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for SAXENDA and any potential adverse effects on the breastfed infant from SAXENDA or from the underlying maternal condition.
+
+Data
+
+In lactating rats, liraglutide was present unchanged in milk at concentrations approximately 50% of maternal plasma concentrations.
 
 ## 8.4 Pediatric Use
 
