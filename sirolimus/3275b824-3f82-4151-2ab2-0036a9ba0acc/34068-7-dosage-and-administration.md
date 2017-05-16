@@ -18,7 +18,7 @@ The maximum Rapamune dose administered on any day should not exceed 40 mg.
 If an estimated daily dose exceeds 40 mg due to the addition of a loading dose, the loading dose should be administered over 2 days.
 Sirolimus trough concentrations should be monitored at least 3 to 4 days after a loading dose(s).
 
-Two milligrams (2 mg) of Rapamune Oral Solution have been demonstrated to be clinically equivalent to 2 mg Rapamune Tablets; hence, are interchangeable on a mg-to-mg basis.
+Two milligrams (2 mg) of Rapamune Oral Solution have been demonstrated to be clinically equivalent to 2 mg Rapamune Tablets; hence, at this dose these two formulations are interchangeable.
 However, it is not known if higher doses of Rapamune Oral Solution are clinically equivalent to higher doses of Rapamune Tablets on a mg-to-mg basis [see Clinical Pharmacology (12.3)].
 
 ## 2.2 Renal Transplant Patients at Low- to Moderate-Immunologic Risk
@@ -86,7 +86,7 @@ The loading dose should be 3 mg/m2.
 ## 2.7 Patients with Hepatic Impairment
 
 It is recommended that the maintenance dose of Rapamune be reduced by approximately one third in patients with mild or moderate hepatic impairment and by approximately one half in patients with severe hepatic impairment.
-It is not necessary to modify the Rapamune loading dose [see Clinical Pharmacology (12.3)].
+It is not necessary to modify the Rapamune loading dose [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.8 Patients with Renal Impairment
 

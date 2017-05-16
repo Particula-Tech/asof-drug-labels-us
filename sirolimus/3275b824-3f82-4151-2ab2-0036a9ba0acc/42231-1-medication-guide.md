@@ -152,7 +152,6 @@ RAPAMUNE may cause serious side effects, including:
     - confusion
     - sudden change in thinking, walking, strength on one side of your body
     - other problems that have lasted over several days.
-
 - Lung or breathing problems.
   This can sometimes lead to death.
   Tell your doctor if you have a new or worsening cough, shortness of breath, difficulty breathing or any new breathing problems.

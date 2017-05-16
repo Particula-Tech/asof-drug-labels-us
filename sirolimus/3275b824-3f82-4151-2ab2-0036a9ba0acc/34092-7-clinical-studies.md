@@ -86,10 +86,12 @@ TABLE 11: PERCENTAGE OF EFFICACY FAILURE BY RACE AT 6 MONTHSPatients received cy
 | --- | --- | --- | --- | --- |
 | Study 1 |  |  |  |  |
 | Black (n = 166) | 34.9 (n = 63) | 18.0 (n = 61) | 33.3 (n = 42) |  |
-| Non-Black (n = 553) | 14.0 (n = 221) | 16.4 (n = 213) | 31.9 (n = 119) |  |
+| Non-Black | 14.0 (n = 221) | 16.4 (n = 213) | 31.9 (n = 119) |  |
+| (n = 553) |  |  |  |  |
 | Study 2 |  |  |  |  |
 | Black (n = 66) | 30.8 (n = 26) | 33.7 (n = 27) |  | 38.5 (n = 13) |
-| Non-Black (n = 510) | 29.9 (n = 201) | 24.5 (n = 192) |  | 48.7 (n = 117) |
+| Non-Black | 29.9 (n = 201) | 24.5 (n = 192) |  | 48.7 (n = 117) |
+| (n = 510) |  |  |  |  |
 
 Mean glomerular filtration rates (GFR) post-transplant were calculated by using the Nankivell equation at 12 and 24 months for Study 1, and 12 and 36 months for Study 2.
 Mean GFR was lower in patients treated with cyclosporine and Rapamune Oral Solution compared with those treated with cyclosporine and the respective azathioprine or placebo control.
@@ -157,8 +159,8 @@ TABLE 14: INCIDENCE OF FIRST BIOPSY-PROVEN ACUTE REJECTION (%) BY TREATMENT GROU
 | Post-randomization through 36 months | 5.6 | 10.2 |
 | Total at 36 months | 14.9 | 20.5 |
 
-Patients receiving renal allografts with ≥ 4 HLA mismatches experienced significantly higher rates of acute rejection following randomization to the cyclosporine withdrawal group, compared with patients who continued cyclosporine (15.3% vs. 3.0%).
-Patients receiving renal allografts with ≤ 3 HLA mismatches demonstrated similar rates of acute rejection between treatment groups (6.8% vs. 7.7%) following randomization.
+Patients receiving renal allografts with ≥ 4 HLA mismatches experienced significantly higher rates of acute rejection following randomization to the cyclosporine withdrawal group, compared with patients who continued cyclosporine (15.3% versus 3.0%).
+Patients receiving renal allografts with ≤ 3 HLA mismatches demonstrated similar rates of acute rejection between treatment groups (6.8% versus 7.7%) following randomization.
 
 The following table summarizes the mean calculated GFR in Study 3 (cyclosporine withdrawal study).
 
@@ -208,7 +210,7 @@ The incidence of biopsy-confirmed acute rejection was 17.4% and the majority of 
 
 Conversion from calcineurin inhibitors (CNI) to Rapamune was assessed in maintenance renal transplant patients 6 months to 10 years post-transplant (Study 5).
 This study was a randomized, multicenter, controlled trial conducted at 111 centers globally, including US and Europe, and was intended to show that renal function was improved by conversion from CNI to Rapamune.
-Eight hundred thirty (830) patients were enrolled and stratified by baseline calculated glomerular filtration rate (GFR, 20–40 mL/min vs. greater than 40 mL/min).
+Eight hundred thirty (830) patients were enrolled and stratified by baseline calculated glomerular filtration rate (GFR, 20–40 mL/min versus greater than 40 mL/min).
 In this trial there was no benefit associated with conversion with regard to improvement in renal function and a greater incidence of proteinuria in the Rapamune conversion arm.
 In addition, enrollment of patients with baseline calculated GFR less than 40 mL/min was discontinued due to a higher rate of serious adverse events, including pneumonia, acute rejection, graft loss and death [see Adverse Reactions (6.4)].
 
@@ -233,8 +235,8 @@ The rates of pneumonia were significantly higher for the sirolimus conversion gr
 While the mean and median values for urinary protein to creatinine ratio were similar between treatment groups at baseline, significantly higher mean and median levels of urinary protein excretion were seen in the Rapamune conversion arm at 1 year and at 2 years, as shown in the table below [see Warnings and Precautions (5.9)].
 In addition, when compared to patients who continued to receive calcineurin inhibitors, a higher percentage of patients had urinary protein to creatinine ratios > 1 at 1 and 2 years after sirolimus conversion.
 This difference was seen in both patients who had a urinary protein to creatinine ratio ≤ 1 and those who had a protein to creatinine ratio > 1 at baseline.
-More patients in the sirolimus conversion group developed nephrotic range proteinuria, as defined by a urinary protein to creatinine ratio > 3.5 (46/482 [9.5%] vs. 9/239 [3.8%]), even when the patients with baseline nephrotic range proteinuria were excluded.
-The rate of nephrotic range proteinuria was significantly higher in the sirolimus conversion group compared to the calcineurin inhibitor continuation group with baseline urinary protein to creatinine ratio > 1 (13/29 vs. 1/14), excluding patients with baseline nephrotic range proteinuria.
+More patients in the sirolimus conversion group developed nephrotic range proteinuria, as defined by a urinary protein to creatinine ratio > 3.5 (46/482 [9.5%] versus 9/239 [3.8%]), even when the patients with baseline nephrotic range proteinuria were excluded.
+The rate of nephrotic range proteinuria was significantly higher in the sirolimus conversion group compared to the calcineurin inhibitor continuation group with baseline urinary protein to creatinine ratio > 1 (13/29 versus 1/14), excluding patients with baseline nephrotic range proteinuria.
 
 TABLE 18: MEAN AND MEDIAN VALUES FOR URINARY PROTEIN TO CREATININE RATIO (mg/mg) BETWEEN TREATMENT GROUPS AT BASELINE, 1 AND 2 YEARS IN THE STRATUM WITH BASELINE CALCULATED GFR > 40 mL/min
 
@@ -269,10 +271,10 @@ There was one death in each group.
 The use of Rapamune in combination with calcineurin inhibitors and corticosteroids was associated with an increased risk of deterioration of renal function, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and cholesterol), and urinary tract infections [see Warnings and Precautions (5.8)].
 This study does not support the addition of Rapamune to calcineurin-inhibitor-based immunosuppressive therapy in this subpopulation of pediatric renal transplant patients.
 
-## 14.7 Lymphangioleiomyomatosis (LAM) Patients
+## 14.7 Lymphangioleiomyomatosis Patients
 
-The safety and efficacy of Rapamune for treatment of lymphangioleiomyomatosis were assessed in a randomized, double-blind, multicenter, controlled trial.
-This study compared Rapamune (dose-adjusted to maintain blood trough concentrations between 5-15 ng/mL) with placebo for a 12-month treatment period, followed by a 12-month observation period.
+The safety and efficacy of Rapamune for treatment of lymphangioleiomyomatosis (LAM) were assessed in a randomized, double-blind, multicenter, controlled trial.
+This study compared Rapamune (dose-adjusted to maintain blood trough concentrations between 5–15 ng/mL) with placebo for a 12-month treatment period, followed by a 12-month observation period.
 Eighty-nine (89) patients were enrolled; 43 patients were randomized to receive placebo and 46 patients to receive Rapamune.
 The primary endpoint was the difference between the groups in the rate of change (slope) per month in forced expiratory volume in 1 second (FEV1).
 During the treatment period, the FEV1 slope was -12±2 mL per month in the placebo group and 1±2 mL per month in the Rapamune group (treatment difference = 13 mL (95% CI: 7, 18).
