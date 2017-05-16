@@ -1,0 +1,72 @@
+# 8 USE IN SPECIFIC POPULATIONS
+
+## 8.1 Pregnancy
+
+### Pregnancy Category C
+
+Risk Summary
+
+Data from epidemiological studies including pregnant women exposed to bupropion in the first trimester indicate no increased risk of congenital malformations.
+All pregnancies regardless of drug exposure have a background rate of 2% to 4% for major malformations and 15% to 20% for pregnancy loss.
+No clear evidence of teratogenic activity was found in reproductive developmental studies conducted in rats and rabbits.
+However, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at doses approximately equal to the maximum recommended human dose (MRHD) and greater and decreased fetal weights were seen at doses twice the MRHD and greater.
+FORFIVO XL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Clinical Considerations
+
+Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medications during pregnancy and postpartum.
+
+Human Data
+
+Data from the international bupropion Pregnancy Registry (675 first-trimester exposures) and a retrospective cohort study using the United Healthcare database (1213 first-trimester exposures) did not show an increased risk for malformations overall.
+
+No increased risk for cardiovascular malformations overall has been observed after bupropion exposure during the first trimester.
+The prospectively observed rate of cardiovascular malformations in pregnancies with exposure to bupropion in the first trimester from the international Pregnancy Registry was 1.3% (9 cardiovascular malformations/675 first-trimester maternal bupropion exposures), which is similar to the background rate of cardiovascular malformations (approximately 1%).
+Data from the United Healthcare database and a case-control study (6853 infants with cardiovascular malformations and 5753 with non-cardiovascular malformations) from the National Birth Defects Prevention Study (NBDPS) did not show an increased risk for cardiovascular malformations overall after bupropion exposure during the first trimester.
+
+Study findings on bupropion exposure during the first trimester and risk for left ventricular outflow tract obstruction (LVOTO) are inconsistent and do not allow conclusions regarding possible association.
+The United Healthcare database lacked sufficient power to evaluate this association; the NBDPS found increased risk for LVOTO (N = 10; adjusted OR = 2.6; 95% CI: 1.2, 5.7) and the Slone Epidemiology case-control study did not find increased risk for LVOTO.
+
+Study findings on bupropion exposure during the first trimester and risk for ventricular septal defect (VSD) are inconsistent and do not allow conclusions regarding a possible association.
+The Slone Epidemiology study found an increased risk for VSD following first-trimester maternal bupropion exposure (N = 17; adjusted OR = 2.5; 95% CI: 1.3, 5.0) but did not find an increased risk for any other cardiovascular malformations studied (including LVOTO, as above).
+The NBDPS and United Healthcare database study did not find an association between first-trimester maternal bupropion exposure and VSD.
+
+For the findings of LVOTO and VSD, the studies were limited by the small number of exposed cases, inconsistent findings among studies, and the potential for chance findings from multiple comparisons in case-control studies.
+
+Animal Data
+
+In studies conducted in rats and rabbits, bupropion was administered orally at doses of up to 450 and 150 mg/kg/day, respectively (approximately 11 and 7 times the MRHD, respectively, on a mg/m2 basis), during the period of organogenesis.
+No clear evidence of teratogenic activity was found in either species; however, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately equal to the MRHD on a mg/m2 basis) and greater.
+Decreased fetal weights were observed at 50 mg/kg and greater.
+When rats were administered bupropion at oral doses of up to 300 mg/kg/day (approximately 7 times the MRHD on a mg/m2 basis) prior to mating and throughout pregnancy and lactation, there were no apparent adverse effects on offspring development.
+
+## 8.3 Nursing Mothers
+
+Bupropion and its metabolites are present in human milk.
+In a lactation study of 10 women, levels of orally dosed bupropion and its active metabolites were measured in expressed milk.
+The average daily infant exposure (assuming 150 mL/kg daily consumption) to bupropion and its active metabolites was 2% of the maternal weight-adjusted dose.
+Exercise caution when FORFIVO XL is administered to a nursing woman.
+
+## 8.4 Pediatric Use
+
+Safety and effectiveness in the pediatric population have not been established.
+When considering the use of FORFIVO XL in a child or adolescent, balance the potential risks with the clinical need [see Boxed Warning, and Warnings and Precautions (5.1)].
+
+## 8.5 Geriatric Use
+
+Of the approximately 6000 patients who participated in clinical trials with bupropion hydrochloride sustained-release tablets (depression and smoking cessation studies), 275 were ≥ 65 years of age and 47 were ≥ 75 years of age.
+In addition, several hundred patients ≥ 65 years of age participated in clinical trials using the immediate-release formulation of bupropion hydrochloride (depression studies).
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
+Reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and excreted by the kidneys.
+The risk of adverse reactions may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, it may be necessary to consider this factor in dose selection; it may be useful to monitor renal function [see Dosage and Administration (2.6), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+
+## 8.6 Renal Impairment
+
+Because there is no lower strength for FORFIVO XL, FORFIVO XL is not recommended in patients with renal impairment [see Clinical Pharmacology (12.3)].
+
+## 8.7 Hepatic Impairment
+
+Because there is no lower strength for FORFIVO XL, FORFIVO XL is not recommended in patients with hepatic impairment [see Clinical Pharmacology (12.3)].

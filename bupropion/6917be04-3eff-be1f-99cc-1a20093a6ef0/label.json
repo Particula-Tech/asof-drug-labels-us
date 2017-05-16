@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022497"
+  ],
+  "inn": "bupropion",
+  "labeler": "Almatica Pharma Inc.",
+  "package_ndcs": [
+    "52427-575-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "bupropion hydrochloride",
+      "name": "Forfivo"
+    }
+  ],
+  "setid": "6917be04-3eff-be1f-99cc-1a20093a6ef0",
+  "source": "dailymed"
+}
