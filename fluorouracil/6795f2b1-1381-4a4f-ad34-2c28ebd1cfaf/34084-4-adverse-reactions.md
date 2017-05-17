@@ -27,24 +27,22 @@ These adverse events occurred across all treatment arms in one of the two Phase 
 
 Summary of All Adverse Events Reported in ≥1% of Patients in the Combined Active Treatment and Vehicle Groups - Pooled Phase 3 Studies
 
-|  | n | (%) | n | (%) | n | (%) | n | (%) | n | (%) |
+|  | n (%) |  | n (%) |  | n (%) |  | n (%) |  | n (%) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9721 and 9722 Combined |  |  |  |  |  |  |  |  |  |  |
 | Adverse Event | Active One Week N= 85 |  | Active Two Week N= 87 |  | Active Four Week N= 85 |  | ALL Active Treatments N=257 |  | Vehicle Treatments N=127 |  |
 | BODY AS A WHOLE | 7 | (8.2) | 6 | (6.9) | 12 | (14.1) | 25 | (9.7) | 15 | (11.8) |
 | Headache | 3 | (3.5) | 2 | (2.3) | 3 | (3.5) | 8 | (3.1) | 3 | (2.4) |
-| Common Cold | 4 | (4.7) |  | 0 | 2 | (2.4) | 6 | (2.3) | 3 | (2.4) |
-| Allergy |  | 0 | 2 | (2.3) | 1 | (1.2) | 3 | (1.2) | 2 | (1.6) |
-| Infection Upper |  | 0 |  | 0 |  | 0 |  | 0 | 2 | (1.6) |
-| Respiratory |  |  |  |  |  |  |  |  |  |  |
+| Common Cold | 4 | (4.7) | 0 |  | 2 | (2.4) | 6 | (2.3) | 3 | (2.4) |
+| Allergy | 0 |  | 2 | (2.3) | 1 | (1.2) | 3 | (1.2) | 2 | (1.6) |
+| Infection Upper Respiratory | 0 |  | 0 |  | 0 |  | 0 |  | 2 | (1.6) |
 | MUSCULOSKELETAL | 1 | (1.2) | 1 | (1.1) | 1 | (1.2) | 3 | (1.2) | 5 | (3.9) |
-| Muscle Soreness |  | 0 |  | 0 |  | 0 |  | 0 | 2 | (1.6) |
-| RESPIRATORY | 5 | (5.9) |  | 0 | 1 | (1.2) | 6 | (2.3) | 6 | (4.7) |
-| Sinusitis | 4 | (4.7) |  | 0 |  | 0 | 4 | (1.6) | 2 | (1.6) |
+| Muscle Soreness | 0 |  | 0 |  | 0 |  | 0 |  | 2 | (1.6) |
+| RESPIRATORY | 5 | (5.9) | 0 |  | 1 | (1.2) | 6 | (2.3) | 6 | (4.7) |
+| Sinusitis | 4 | (4.7) | 0 |  | 0 |  | 4 | (1.6) | 2 | (1.6) |
 | SKIN & APPENDAGES | 78 | (91.8) | 83 | (95.4) | 82 | (96.5) | 243 | (94.6) | 85 | (66.9) |
-| Application Site | 78 | (91.8) | 83 | (95.4) | 82 | (96.5) | 243 | (94.6) | 83 | (65.4) |
-| Reaction |  |  |  |  |  |  |  |  |  |  |
-| Irritation Skin | 1 | (1.2) |  | 0 | 2 | (2.4) | 3 | (1.2) |  | 0 |
+| Application Site Reaction | 78 | (91.8) | 83 | (95.4) | 82 | (96.5) | 243 | (94.6) | 83 | (65.4) |
+| Irritation Skin | 1 | (1.2) | 0 |  | 2 | (2.4) | 3 | (1.2) | 0 |  |
 | SPECIAL SENSES | 6 | (7.1) | 4 | (4.6) | 6 | (7.1) | 16 | (6.2) | 6 | (4.7) |
 | Eye Irritation | 5 | (5.9) | 3 | (3.4) | 6 | (7.1) | 14 | (5.4) | 3 | (2.4) |
 
