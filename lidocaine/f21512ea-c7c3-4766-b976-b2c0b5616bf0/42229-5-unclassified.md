@@ -1,33 +1,10 @@
-# DIRECTIONS FOR USE OF VIAFLEX PLUS PLASTIC CONTAINER
+Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-Visually inspect the container.
-If the administration port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
+Printed in USA
 
-Caution: Do not use plastic containers in series connections.
-Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
-
-## To Open:
-
-Tear overwrap down side at slit and remove solution container.
-Some opacity of the plastic due to moisture absorption during the sterilization process may be observed.
-This is normal and does not affect the solution quality or safety.
-The opacity will diminish gradually.
-Check for minute leaks by squeezing inner bag firmly.
-If leaks are found, discard solution as sterility may be impaired.
-Do not add supplementary medication.
-
-## Preparation for Administration:
-
-- 1.Suspend container from eyelet support.
-- 2.Remove protector from administration port at bottom of container.
-- 3.Attach administration set.
-  Refer to complete directions accompanying set.
-
-Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
-
-07-19-72-995
+07-19-76-975
 
 Rev.
-Apr 2014
+February 2017
 
 BAXTER, VIAFLEX, and PL 146 are trademarks of Baxter International Inc.
