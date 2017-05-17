@@ -4,11 +4,13 @@
 
 NDC 0093-1122-01
 
-ETODOLAC EXTENDED-RELEASE Tablets 400 mg
+Etodolac Extended-Release
 
-Each tablet contains: etodolac, USP 400 mg
+Tablets 400 mg
 
-ATTENTION PHARMACIST: Each patient is required to receive a Medication Guide.
+PHARMACIST: Dispense the Medication Guide
+
+provided separately to each patient.
 
 Rx only
 
@@ -22,11 +24,11 @@ TEVA
 
 NDC 0093-7172-01
 
-ETODOLAC EXTENDED-RELEASE Tablets 500 mg
+Etodolac Extended-Release Tablets 500 mg
 
-Each tablet contains: etodolac, USP 500 mg
+PHARMACIST: Dispense the Medication Guide
 
-ATTENTION PHARMACIST: Each patient is required to receive a Medication Guide.
+provided separately to each patient.
 
 Rx only
 
@@ -40,11 +42,13 @@ TEVA
 
 NDC 0093-1118-01
 
-ETODOLAC EXTENDED-RELEASE Tablets 600 mg
+Etodolac Extended-Release
 
-Each tablet contains: etodolac, USP 600 mg
+Tablets 600 mg
 
-ATTENTION PHARMACIST: Each patient is required to receive a Medication Guide.
+PHARMACIST: Dispense the Medication Guide
+
+provided separately to each patient.
 
 Rx only
 
