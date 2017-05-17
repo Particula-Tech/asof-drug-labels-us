@@ -42,7 +42,8 @@ Exchange transfusions or dialysis may be required as a means of reversing hypote
 In the controlled clinical trials of valsartan, 1,214 (36.2%) hypertensive patients treated with valsartan were ≥65 years and 265 (7.9%) were ≥75 years.
 No overall difference in the efficacy or safety of valsartan was observed in this patient population, but greater sensitivity of some older individuals cannot be ruled out.
 Of the 2,511 patients with heart failure randomized to valsartan in the Valsartan Heart Failure Trial, 45% (1,141) were 65 years of age or older.
-There were no notable differences in efficacy or safety between older and younger patients in this trial.
+In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), 53% (2,596) of the 4,909 patients treated with valsartan and 51% (2,515) of the 4,885 patients treated with valsartan + captopril were 65 years of age or older.
+There were no notable differences in efficacy or safety between older and younger patients in either trial.
 
 ## 8.6 Renal Impairment
 

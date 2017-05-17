@@ -13,7 +13,7 @@ These effects are usually reversible.
 Monitor renal function periodically in patients receiving valsartan and NSAID therapy.
 The antihypertensive effect of angiotensin II receptor antagonists, including valsartan, may be attenuated by NSAIDs including selective COX-2 inhibitors.
 Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
-Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
+Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy [see Clinical Trials (14.3)].
 In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on valsartan and other agents that affect the RAS.
 Do not coadminister aliskiren with valsartan in patients with diabetes.
@@ -27,6 +27,7 @@ In controlled clinical trials, clinically important changes in standard laborato
 
 Creatinine: Minor elevations in creatinine occurred in 0.8% of patients taking valsartan and 0.6% given placebo in controlled clinical trials of hypertensive patients.
 In heart failure trials, greater than 50% increases in creatinine were observed in 3.9% of valsartan-treated patients compared to 0.9% of placebo-treated patients.
+In post-myocardial infarction patients, doubling of serum creatinine was observed in 4.2% of valsartan-treated patients and 3.4% of captopril-treated patients.
 
 Hemoglobin and Hematocrit: Greater than 20% decreases in hemoglobin and hematocrit were observed in 0.4% and 0.8%, respectively, of valsartan patients, compared with 0.1% and 0.1% in placebo-treated patients.
 One valsartan patient discontinued treatment for microcytic anemia.

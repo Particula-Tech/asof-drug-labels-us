@@ -12,9 +12,10 @@ When pregnancy is detected, discontinue valsartan as soon as possible [see Use i
 Excessive hypotension was rarely seen (0.1%) in patients with uncomplicated hypertension treated with valsartan alone.
 In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients receiving high doses of diuretics, symptomatic hypotension may occur.
 This condition should be corrected prior to administration of valsartan, or the treatment should start under close medical supervision.
-Caution should be observed when initiating therapy in patients with heart failure.
-Patients with heart failure given valsartan commonly have some reduction in blood pressure, but discontinuation of therapy because of continuing symptomatic hypotension usually is not necessary when dosing instructions are followed.
+Caution should be observed when initiating therapy in patients with heart failure or post-mycardial infarction patients.
+Patients with heart failure or post-mycardial infarction patients given valsartan commonly have some reduction in blood pressure, but discontinuation of therapy because of continuing symptomatic hypotension usually is not necessary when dosing instructions are followed.
 In controlled trials in heart failure patients, the incidence of hypotension in valsartan-treated patients was 5.5% compared to 1.8% in placebo-treated patients.
+In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), hypotension in post-myocardial infarction patients led to permanent discontinuation of therapy in 1.4% of valsartan-treated patients and 0.8% of captopril-treated patients.
 If excessive hypotension occurs, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 

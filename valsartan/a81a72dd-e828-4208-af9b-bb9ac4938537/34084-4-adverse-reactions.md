@@ -52,6 +52,19 @@ Other adverse reactions with an incidence greater than 1% and greater than place
 (NOS = not otherwise specified).
 From the long-term data in the Valsartan Heart Failure Trial, there did not appear to be any significant adverse reactions not previously identified.
 
+Post-Myocardial Infarction The safety profile of valsartan was consistent with the pharmacology of the drug and the background diseases, cardiovascular risk factors, and clinical course of patients treated in the post-myocardial infarction setting.
+The table shows the percentage of patients discontinued in the valsartan and captopril-treated groups in the Valsartan in Acute Myocardial Infarction Trial (VALIANT) with a rate of at least 0.5% in either of the treatment groups.
+Discontinuations due to renal dysfunction occurred in 1.1% of valsartan-treated patients and 0.8% of captopril-treated patients.
+
+|  | Valsartan (n=4,885) | Captopril (n=4,879) |
+| --- | --- | --- |
+| Discontinuation for adverse reaction | 5.8% | 7.7% |
+| Adverse reactions |  |  |
+| Hypotension NOS | 1.4% | 0.8% |
+| Cough | 0.6% | 2.5% |
+| Blood creatinine increased | 0.6% | 0.4% |
+| Rash NOS | 0.2% | 0.6% |
+
 ## 6.2 Postmarketing Experience
 
 The following additional adverse reactions have been reported in postmarketing experience: Hypersensitivity: There are rare reports of angioedema.

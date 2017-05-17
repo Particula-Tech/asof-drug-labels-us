@@ -37,3 +37,11 @@ The recommended starting dose of valsartan tablets is 40 mg twice daily.
 Uptitration to 80 mg and 160 mg twice daily should be done to the highest dose, as tolerated by the patient.
 Consideration should be given to reducing the dose of concomitant diuretics.
 The maximum daily dose administered in clinical trials is 320 mg in divided doses.
+
+## 2.4 Post-Myocardial Infarction
+
+Valsartan tablets may be initiated as early as 12 hours after a myocardial infarction.
+The recommended starting dose of valsartan tablets is 20 mg twice daily.
+Patients may be uptitrated within 7 days to 40 mg twice daily, with subsequent titrations to a target maintenance dose of 160 mg twice daily, as tolerated by the patient.
+If symptomatic hypotension or renal dysfunction occurs, consideration should be given to a dosage reduction.
+Valsartan tablets may be given with other standard post-myocardial infarction treatment, including thrombolytics, aspirin, beta-blockers, and statins.

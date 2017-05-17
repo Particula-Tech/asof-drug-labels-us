@@ -76,3 +76,35 @@ Secondary end points in the subgroup not receiving ACE inhibitors were as follow
 In patients not receiving an ACE inhibitor, valsartan-treated patients had an increase in ejection fraction and reduction in left ventricular internal diastolic diameter (LVIDD).
 Effects were generally consistent across subgroups defined by age and gender for the population of patients not receiving an ACE inhibitor.
 The number of black patients was small and does not permit a meaningful assessment in this subset of patients.
+
+## 14.3 Post-Myocardial Infarction
+
+The VALsartan In Acute myocardial iNfarcTion trial (VALIANT) was a randomized, controlled, multinational, double-blind study in 14,703 patients with acute myocardial infarction and either heart failure (signs, symptoms or radiological evidence) or left ventricular systolic dysfunction (ejection fraction ≤40% by radionuclide ventriculography or ≤35% by echocardiography or ventricular contrast angiography).
+Patients were randomized within 12 hours to 10 days after the onset of myocardial infarction symptoms to one of three treatment groups: valsartan (titrated from 20 or 40 mg twice daily to the highest tolerated dose up to a maximum of 160 mg twice daily), the ACE inhibitor, captopril (titrated from 6.25 mg three times daily to the highest tolerated dose up to a maximum of 50 mg three times daily), or the combination of valsartan plus captopril.
+In the combination group, the dose of valsartan was titrated from 20 mg twice daily to the highest tolerated dose up to a maximum of 80 mg twice daily; the dose of captopril was the same as for monotherapy.
+The population studied was 69% male, 94% Caucasian, and 53% were 65 years of age or older.
+Baseline therapy included aspirin (91%), beta-blockers (70%), ACE inhibitors (40%), thrombolytics (35%) and statins (34%).
+The mean treatment duration was 2 years.
+The mean daily dose of valsartan in the monotherapy group was 217 mg.
+
+The primary endpoint was time to all-cause mortality.
+Secondary endpoints included (1) time to cardiovascular (CV) mortality, and (2) time to the first event of cardiovascular mortality, reinfarction, or hospitalization for heart failure.
+The results are summarized in the following table.
+
+|  | Valsartan vs. Captopril (N=4,909) (N=4,909) |  |  | Valsartan + Captopril vs. Captopril (N=4,885) (N=4,909) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| No. of Deaths Valsartan/ Captopril | Hazard Ratio CI | p-value | No. of Deaths Comb/ Captopril | Hazard Ratio CI | p-value |  |
+| All-cause mortality | 979 (19.9%) /958 (19.5%) | 1.001 (0.902, 1.111) | 0.98 | 941 (19.3%) /958 (19.5%) | 0.984 (0.886, 1.093) | 0.73 |
+| CV mortality | 827 (16.8%) /830 (16.9%) | 0.976 (0.875, 1.090) |  |  |  |  |
+| CV mortality, hospitalization for HF, and recurrent non-fatal MI | 1,529 (31.1%) /1,567 (31.9%) | 0.955 (0.881, 1.035) |  |  |  |  |
+
+There was no difference in overall mortality among the three treatment groups.
+There was thus no evidence that combining the ACE inhibitor captopril and the angiotensin II blocker valsartan was of value.
+
+The data were assessed to see whether the effectiveness of valsartan could be demonstrated by showing in a non-inferiority analysis that it preserved a fraction of the effect of captopril, a drug with a demonstrated survival effect in this setting.
+A conservative estimate of the effect of captopril (based on a pooled analysis of 3 post-infarction studies of captopril and 2 other ACE inhibitors) was a 14% to 16% reduction in mortality compared to placebo.
+Valsartan would be considered effective if it preserved a meaningful fraction of that effect and unequivocally preserved some of that effect.
+As shown in the table, the upper bound of the CI for the hazard ratio (valsartan/captopril) for overall or CV mortality is 1.09 to 1.11, a difference of about 9% to 11%, thus making it unlikely that valsartan has less than about half of the estimated effect of captopril and clearly demonstrating an effect of valsartan.
+The other secondary endpoints were consistent with this conclusion.
+
+There were no clear differences in all-cause mortality based on age, gender, race, or baseline therapies, as shown in the figure above.
