@@ -5,9 +5,7 @@ Mechanism of Action
 Timolol maleate is a beta1 and beta2 (non-selective) adrenergic receptor blocking agent that does not have significant intrinsic sympathomimetic, direct myocardial depressant, or local anesthetic (membrane-stabilizing) activity.
 
 Beta-adrenergic receptor blockade reduces cardiac output in both healthy subjects and patients with heart disease.
-In patients with severe impairment of myocardial function, beta-adrenergic receptor blockade may inhibit the stimulatory effect of the sympathetic nervous system necessary to maintain adequate
-
-cardiac function.
+In patients with severe impairment of myocardial function, beta-adrenergic receptor blockade may inhibit the stimulatory effect of the sympathetic nervous system necessary to maintain adequate cardiac function.
 
 Beta-adrenergic receptor blockade in the bronchi and bronchioles results in increased airway resistance from unopposed parasympathetic activity.
 Such an effect in patients with asthma or other bronchospastic conditions is potentially dangerous.

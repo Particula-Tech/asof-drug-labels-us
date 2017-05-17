@@ -14,20 +14,21 @@ NDC 0187-1496-05; 60 Individual Unit Doses.
 
 Storage
 
-Store at room temperature, 15 to 30°C (59 to 86°F).
+Store at room temperature, 15° to 30°C (59° to 86°F).
 Protect from freezing.
 Protect from light.
+
 Because evaporation can occur through the unprotected polyethylene unit dose container and prolonged exposure to direct light can modify the product, the unit dose container should be kept in the protective foil overwrap and used within one month after the foil package has been opened.
 
-Distributed by: Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Manufactured for: Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 Manufactured by: Laboratoire Unither Zl de la Guérie F-50211 Coutances Cedex France
 
-Timoptic and Ocudose are trademarks of Bausch & Lomb Incorporated or its affiliates.
+®/™ are trademarks of Bausch & Lomb Incorporated or its affiliates.
 
-© Bausch & Lomb Incorporated
-
-Part number
+©Bausch & Lomb Incorporated
 
 Rev.
-TBD
+02/17
+
+65NOT8556/B 9390302

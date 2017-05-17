@@ -14,7 +14,7 @@ At the first sign or symptom of cardiac failure, Preservative-free TIMOPTIC in O
 
 Obstructive Pulmonary Disease
 
-Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which TIMOPTIC in OCUDOSE is contraindicated (see CONTRAINDICATIONS)) should, in general, not receive beta-blockers, including Preservative-free TIMOPTIC in OCUDOSE.
+Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which TIMOPTIC in OCUDOSE is contraindicated [see CONTRAINDICATIONS]) should, in general, not receive beta-blockers, including Preservative-free TIMOPTIC in OCUDOSE.
 
 Major Surgery
 
@@ -62,7 +62,7 @@ Patients should be instructed about the use of Preservative-free TIMOPTIC in OCU
 
 Since sterility cannot be maintained after the individual unit is opened, patients should be instructed to use the product immediately after opening and to discard the individual unit and any remaining contents immediately after use.
 
-Patients with bronchial asthma, a history of bronchial asthma, severe chronic obstructive pulmonary disease, sinus bradycardia, second or third degree atrioventricular block, or cardiac failure should be advised not to take this product (See CONTRAINDICATIONS.)
+Patients with bronchial asthma, a history of bronchial asthma, severe chronic obstructive pulmonary disease, sinus bradycardia, second or third degree atrioventricular block, or cardiac failure should be advised not to take this product (see CONTRAINDICATIONS).
 
 ## Drug Interactions
 
@@ -77,7 +77,6 @@ In patients with impaired cardiac function, coadministration should be avoided.
 Catecholamine-depleting drugs: Close observation of the patient is recommended when a beta-blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.
 
 Digitalis and calcium antagonists: The concomitant use of beta-adrenergic blocking agents with digitalis and calcium antagonists may have additive effects in prolonging atrioventricular conduction time.
-
 CYP2D6 inhibitors: Potentiated systemic beta-blockade (e.g., decreased heart rate, depression) has been reported during combined treatment with CYP2D6 inhibitors (e.g., quinidine, SSRIs) and timolol.
 
 Clonidine: Oral beta-adrenergic blocking agents may exacerbate the rebound hypertension which can follow the withdrawal of clonidine.
@@ -106,7 +105,9 @@ Reproduction and fertility studies in rats demonstrated no adverse effect on mal
 
 ## Pregnancy:
 
-Teratogenic Effects: Teratogenicity studies with timolol in mice, rats and rabbits at oral doses up to 50 mg/kg/day (7,000 times the systemic exposure following the maximum recommended human ophthalmic dose) demonstrated no evidence of fetal malformations.
+Teratogenic effects
+
+Teratogenicity studies with timolol in mice, rats and rabbits at oral doses up to 50 mg/kg/day (7,000 times the systemic exposure following the maximum recommended human ophthalmic dose) demonstrated no evidence of fetal malformations.
 Although delayed fetal ossification was observed at this dose in rats, there were no adverse effects on postnatal development of offspring.
 Doses of 1,000 mg/kg/day (142,000 times the systemic exposure following the maximum recommended human ophthalmic dose) were maternotoxic in mice and resulted in an increased number of fetal resorptions.
 Increased fetal resorptions were also seen in rabbits at doses of 14,000 times the systemic exposure following the maximum recommended human ophthalmic dose, in this case without apparent maternotoxicity.
