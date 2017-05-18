@@ -231,8 +231,6 @@ The 0.5 mg capsule shell contains gelatin, iron oxide red, iron oxide yellow and
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-To reorder additional Patient Information Sheets, Contact Dr. Reddy's Customer Service at 1-866-733-3952.
-
 Rx Only
 
 Manufactured by
@@ -241,4 +239,8 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 0615
+Revised: 1016
+
+Dispense with Patient Information Sheet available at:
+
+www.drreddys.com/pi/tacrolimuscaps.pdf
