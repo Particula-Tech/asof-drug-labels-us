@@ -7,7 +7,7 @@ Long-term carcinogenicity studies of mometasone furoate were conducted by the in
 In a 2-year carcinogenicity study in Sprague Dawley rats, mometasone furoate demonstrated no statistically significant increase of tumors at inhalation doses up to 67 mcg/kg (approximately 0.04 times the estimated maximum clinical topical dose from mometasone furoate lotion on a mcg/m2 basis).
 In a 19-month carcinogenicity study in Swiss CD-1 mice, mometasone furoate demonstrated no statistically significant increase in the incidence of tumors at inhalation doses up to 160 mcg/kg (approximately 0.05 times the estimated maximum clinical topical dose from mometasone furoate lotion on a mcg/m2 basis).
 
-Mometasone furoate increased chromosomal aberrations in an in vitro Chinese hamster ovary cell assay, but did not increase chromosomal aberrations in an invitro Chinese hamster lung cell assay.
+Mometasone furoate increased chromosomal aberrations in an in vitro Chinese hamster ovary cell assay, but did not increase chromosomal aberrations in an in vitro Chinese hamster lung cell assay.
 Mometasone furoate was not mutagenic in the Ames test or mouse lymphoma assay, and was not clastogenic in an in vivo mouse micronucleus assay, a rat bone marrow chromosomal aberration assay, or a mouse male germ-cell chromosomal aberration assay.
 Mometasone furoate also did not induce unscheduled DNA synthesis in vivo in rat hepatocytes.
 

@@ -10,6 +10,6 @@ Perrigo®
 
 Allegan, MI 49010 • www.perrigo.com
 
-5D800 RC J4
+: 5D800 RC J5
 
-Rev 10-13
+Rev 09-15
