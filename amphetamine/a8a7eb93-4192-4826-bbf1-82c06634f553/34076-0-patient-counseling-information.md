@@ -1,6 +1,6 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Controlled Substance Status/Potential for Abuse, Misuse, and Dependence
 
@@ -13,12 +13,14 @@ Dosage and Administration Instructions
 
 Provide the following instructions on administration to the patient:
 
-- Use with an oral dosing device or other suitable measuring device.
+- Use with the oral dosing dispenser provided by the pharmacist.
+- Ensure that the bottle adapter has been firmly inserted into the bottle by the pharmacist.
+  Once the bottle adapter has been inserted into the bottle it should not be removed.
 - Shake the bottle of DYANAVEL XR before each dose.
 - Measure the appropriate dose as prescribed by the physician.
-- Using the filled oral dosing syringe or measuring device, dispense DYANAVEL XR directly into mouth.
+- Using the filled oral dosing dispenser, dispense DYANAVEL XR directly into mouth.
 - Replace bottle cap and store bottle as directed.
-- Wash oral dosing syringe or measuring device after each use.
+- Wash oral dosing dispenser after each use.
 
 Serious Cardiovascular Risks
 
@@ -49,8 +51,7 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome with concomitant use of DYANAVEL XR and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see Contraindications (4), Warnings and Precautions (5.7) and Drug Interactions (7.1)].
-Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
+Caution patients about the risk of serotonin syndrome with concomitant use of DYANAVEL XR and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see Contraindications (4), Warnings and Precautions (5.7) and Drug Interactions (7.1)].Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
 
 Concomitant Medications
 

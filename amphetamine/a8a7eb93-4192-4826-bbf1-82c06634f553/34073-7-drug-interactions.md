@@ -2,6 +2,9 @@
 
 ## 7.1 Drugs Having Clinically Important Interactions with Amphetamines
 
+Table 2.
+Drugs having clinically important interactions with amphetamines.
+
 | MAO Inhibitors (MAOI) |  |
 | --- | --- |
 | Clinical Impact | Concomitant use of MAOIs and CNS stimulants can cause hypertensive crisis. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure. |
@@ -10,7 +13,7 @@
 | Serotonergic Drugs |  |
 | Clinical Impact | The concomitant use of DYANAVEL XR and serotonergic drugs increases the risk of serotonin syndrome. |
 | Intervention | Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during DYANAVEL XR initiation or dosage increase. If serotonin syndrome occurs, discontinue DYANAVEL XR and the concomitant serotonergic drug(s) [see Warnings and Precautions (5.7)]. |
-| Examples | Selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St.John’s Wort. |
+| Examples | Selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort. |
 | CYP2D6 Inhibitors |  |
 | Clinical Impact | The concomitant use of DYANAVEL XR and CYP2D6 inhibitors may increase the exposure of DYANAVEL XR compared to the use of the drug alone and increase the risk of serotonin syndrome. |
 | Intervention | Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during DYANAVEL XR initiation and after a dosage increase. If serotonin syndrome occurs, discontinue DYANAVEL XR and the CYP2D6 inhibitor [see Warnings and Precautions (5.7), Overdosage (10)]. |

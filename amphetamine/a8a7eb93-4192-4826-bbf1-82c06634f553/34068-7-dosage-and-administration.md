@@ -5,7 +5,7 @@
 Prior to treating children, adolescents, and adults with CNS stimulants, including DYANAVEL XR, assess for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
 
 Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
-Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate the need for DYANAVEL XR use [see Precautions (5.1), and Drug Abuse and Dependence (9)].
+Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate the need for DYANAVEL XR use [see Warnings and Precautions (5.1), and Drug Abuse and Dependence (9)].
 
 ## 2.2General Dosing Information
 
