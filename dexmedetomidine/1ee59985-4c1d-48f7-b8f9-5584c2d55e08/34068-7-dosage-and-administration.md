@@ -2,9 +2,9 @@
 
 ## 2.1 Dosing Guidelines
 
-- •Dexmedetomidine hydrochloride injection dosing should be individualized and titrated to desired clinical response.
-- •Dexmedetomidine hydrochloride injection is not indicated for infusions lasting longer than 24 hours.
-- •Dexmedetomidine hydrochloride injection should be administered using a controlled infusion device.
+- Dexmedetomidine hydrochloride injection dosing should be individualized and titrated to desired clinical response.
+- Dexmedetomidine hydrochloride injection is not indicated for infusions lasting longer than 24 hours.
+- Dexmedetomidine hydrochloride injection should be administered using a controlled infusion device.
 
 ## 2.2 Dosage Information
 
@@ -33,10 +33,10 @@ Strict aseptic technique must always be maintained during handling of dexmedetom
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-Dexmedetomidine hydrochloride injection must be diluted with 0.9% sodium chloride solution to achieve required concentration (4 mcg/mL) prior to administration.
+Dexmedetomidine hydrochloride injection must be diluted with 0.9% sodium chloride injection to achieve required concentration (4 mcg/mL) prior to administration.
 Preparation of solutions is the same, whether for the loading dose or maintenance infusion.
 
-To prepare the infusion, withdraw 2 mL of dexmedetomidine hydrochloride injection concentrate, and add to 48 mL of 0.9% sodium chloride injection to a total of 50 mL.
+To prepare the infusion, withdraw 2 mL of dexmedetomidine hydrochloride injection, and add to 48 mL of 0.9% sodium chloride injection to a total of 50 mL.
 Shake gently to mix well.
 
 ## 2.5 Administration with Other Fluids
@@ -47,12 +47,12 @@ Dexmedetomidine hydrochloride has been shown to be incompatible when administere
 
 Dexmedetomidine hydrochloride has been shown to be compatible when administered with the following intravenous fluids:
 
-- •0.9% sodium chloride in water
-- •5% dextrose in water
-- •20% mannitol
-- •Lactated Ringer's solution
-- •100 mg/mL magnesium sulfate solution
-- •0.3% potassium chloride solution
+- 0.9% sodium chloride in water
+- 5% dextrose in water
+- 20% mannitol
+- Lactated Ringer's solution
+- 100 mg/mL magnesium sulfate solution
+- 0.3% potassium chloride solution
 
 ## 2.6 Compatibility with Natural Rubber
 

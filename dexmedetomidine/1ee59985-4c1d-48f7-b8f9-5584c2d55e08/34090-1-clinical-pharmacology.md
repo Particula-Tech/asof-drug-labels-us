@@ -25,11 +25,11 @@ Table 4: Mean ± SD Pharmacokinetic Parameters
 | --- | --- | --- | --- | --- |
 | Parameter | Loading Infusion (min)/Total Infusion Duration (hrs) |  |  |  |
 | 10 min/12 hrs | 10 min/24 hrs | 10 min/24 hrs | 35 min/24 hrs |  |
-| Dexmedetomidine Hydrochloride Target Plasma Concentration (ng/mL) and Dose (mcg/kg/hr) |  |  |  |  |
+| Dexmedetomidine Target Plasma Concentration (ng/mL) and Dose (mcg/kg/hr) |  |  |  |  |
 | t1/2Presented as harmonic mean and pseudo standard deviation., hour | 1.78 ± 0.30 | 2.22 ± 0.59 | 2.23 ± 0.21 | 2.50 ± 0.61 |
 | CL, liter/hour | 46.3 ± 8.3 | 43.1 ± 6.5 | 35.3 ± 6.8 | 36.5 ± 7.5 |
 | Vss, liter | 88.7 ± 22.9 | 102.4 ± 20.3 | 93.6 ± 17.0 | 99.6 ± 17.8 |
-| Avg CssMean Css = Average steady-state concentration of dexmedetomidine hydrochloride. The mean Css was calculated based on post-dose sampling from 2.5 to 9 hours samples for 12 hour infusion and post-dose sampling from 2.5 to 18 hours for 24 hour infusions. The loading doses for each of the above indicated groups were 0.5, 0.5, 1 and 2.2 mcg/kg, respectively., ng/mL | 0.27 ± 0.05 | 0.27 ± 0.05 | 0.67 ± 0.10 | 1.37 ± 0.20 |
+| Avg CssMean Css = Average steady-state concentration of Dexmedetomidine. The mean Css was calculated based on post-dose sampling from 2.5 to 9 hours samples for 12 hour infusion and post-dose sampling from 2.5 to 18 hours for 24 hour infusions. The loading doses for each of the above indicated groups were 0.5, 0.5, 1 and 2.2 mcg/kg, respectively., ng/mL | 0.27 ± 0.05 | 0.27 ± 0.05 | 0.67 ± 0.10 | 1.37 ± 0.20 |
 
 Dexmedetomidine pharmacokinetic parameters after dexmedetomidine hydrochloride maintenance doses of 0.2 to 1.4 mcg/kg/hr for >24 hours were similar to the PK parameters after dexmedetomidine hydrochloride maintenance dosing for < 24 hours in other studies.
 The values for clearance (CL), volume of distribution (V), and t1/2 were 39.4 L/hr, 152 L, and 2.67 hours, respectively.
@@ -49,7 +49,7 @@ Metabolism
 
 Dexmedetomidine undergoes almost complete biotransformation with very little unchanged dexmedetomidine excreted in urine and feces.
 Biotransformation involves both direct glucuronidation as well as cytochrome P450 mediated metabolism.
-The major metabolic pathways of dexmedetomidine are: direct N-glucuronidation to inactive metabolites; aliphatic hydroxylation (mediated primarily by CYP2A6) of dexmedetomidine to generate 3-hydroxy-dexmedetomidine, the glucuronide of 3-hydroxy‑dexmedetomidine, and 3-carboxy-dexmedetomidine; and N-methylation of dexmedetomidine to generate 3-hydroxy N-methyl-dexmedetomidine, 3-carboxy N-methyl-dexmedetomidine, and dexmedetomidine-N-methyl O-glucuronide.
+The major metabolic pathways of dexmedetomidine are: direct N-glucuronidation to inactive metabolites; aliphatic hydroxylation (mediated primarily by CYP2A6 with a minor role of CYP1A2, CYP2E1, CYP2D6 and CYP2C19) of dexmedetomidine to generate 3-hydroxy-dexmedetomidine, the glucuronide of 3-hydroxy‑dexmedetomidine, and 3-carboxy-dexmedetomidine; and N-methylation of dexmedetomidine to generate 3-hydroxy N-methyl-dexmedetomidine, 3-carboxy N-methyl-dexmedetomidine, and dexmedetomidine-N-methyl O-glucuronide.
 
 Elimination
 
@@ -82,7 +82,7 @@ Although dexmedetomidine hydrochloride injection is dosed to effect, it may be n
 
 Renal Impairment
 
-Dexmedetomidine hydrochloride pharmacokinetics (Cmax, Tmax, AUC, t1/2, CL, and Vss) were not significantly different in patients with severe renal impairment (creatinine clearance: <30 mL/min) compared to healthy subjects.
+Dexmedetomidine pharmacokinetics (Cmax, Tmax, AUC, t1/2, CL, and Vss) were not significantly different in patients with severe renal impairment (creatinine clearance: <30 mL/min) compared to healthy subjects.
 
 Drug Interactions
 

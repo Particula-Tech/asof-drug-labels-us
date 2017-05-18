@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Dexmedetomidine Hydrochloride Injection, Concentrate
+Dexmedetomidine Hydrochloride Injection
 
-NDC 42023-146-25: 200 mcg (dexmedetomidine)/2 mL [100 mcg (dexmedetomidine)/mL] is available in 2 mL clear glass vial supplied in packages of twenty-five.
+NDC 42023-146-25: 200 mcg (dexmedetomidine)/2 mL [100 mcg (dexmedetomidine)/mL] is available in 2 mL clear glass vials supplied in packages of twenty-five.
 Vials are intended for single use only.
 
 Vial stoppers do not contain natural rubber latex.

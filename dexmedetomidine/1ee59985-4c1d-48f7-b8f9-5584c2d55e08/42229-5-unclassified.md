@@ -1,7 +1,7 @@
-Manufactured by: Par Pharmaceutical Companies, Inc. Spring Valley, NY 10977
+Distributed by: Par Pharmaceutical Chestnut Ridge, NY 10977
 
-I09/14
+I05/17
 
-OS146J-01-90-01
+OS146J-01-90-03
 
-3003391B
+3003391D

@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C:
+Pregnancy Category C
 
 There are no adequate and well-controlled studies of dexmedetomidine hydrochloride use in pregnant women.
 In an in vitro human placenta study, placental transfer of dexmedetomidine occurred.
@@ -28,9 +28,9 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## 8.4 Pediatric Use
 
 Safety and efficacy have not been established for Procedural Sedation in pediatric patients.
-Additional information describing clinical studies in a different indication in which efficacy was not demonstrated in pediatric patients is approved for Hospira's dexmedetomidine injection.
-However, due to Hospira's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-The use of dexmedetomidine hydrochloride for procedural sedation in pediatric patients has not been evaluated.
+The use of dexmedetomidine for procedural sedation in pediatric patients has not been evaluated.
+Additional information describing clinical studies in a different indication in which efficacy was not demonstrated in pediatric patients is approved for Hospira’s dexmedetomidine injection.
+However, due to Hospira’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
