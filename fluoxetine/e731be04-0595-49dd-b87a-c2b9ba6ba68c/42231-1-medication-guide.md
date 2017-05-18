@@ -1,5 +1,3 @@
-# 01/2017
-
 Medication Guide
 
 SARAFEM® (SAIR-a-fem) (fluoxetine hydrochloride)

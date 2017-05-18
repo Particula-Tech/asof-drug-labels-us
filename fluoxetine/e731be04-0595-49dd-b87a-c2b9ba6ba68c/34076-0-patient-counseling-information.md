@@ -76,3 +76,5 @@ Because fluoxetine is excreted in human milk, nursing while taking SARAFEM is no
 
 Distributed by: Allergan USA, Inc. Irvine, CA 92612 Sarafem® is a registered trademark of Allergan Pharmaceuticals International Limited © 2016 Allergan.
 All rights reserved.
+
+01/2017
