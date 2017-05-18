@@ -52,6 +52,7 @@ Table 2 – CABG-related bleeding (PLATO)
 
 |  | BRILINTA90 mg BIDN=770 | ClopidogrelN=814 |
 | --- | --- | --- |
+|  | n (%) patientswith event | n (%) patientswith event |
 | PLATO Total Major | 626 (81.3) | 666 (81.8) |
 | Fatal/Life-threatening | 337 (43.8) | 350 (43.0) |
 | Fatal | 6 (0.8) | 7 (0.9) |
@@ -94,7 +95,7 @@ Adverse reactions that occurred in PEGASUS at rates of 3% or more are shown in T
 
 Table 5 – Non-hemorrhagic adverse reactions reported in >3.0% of patients in the ticagrelor 60 mg treatment group (PEGASUS)
 
-|  | BRILINTA60 mg BID N=6958 | Clopidogrel N=6996 |
+|  | BRILINTA60 mg BIDAspirin N=6958 | Aspirin Alone N=6996 |
 | --- | --- | --- |
 | Dyspnea | 14.2 | 5.5 |
 | Dizziness | 4.5 | 4.1 |
@@ -128,3 +129,12 @@ Treatment groups in PLATO did not differ for renal-related serious adverse event
 
 In PEGASUS, serum creatinine concentration increased by >50% in approximately 4% of patients receiving BRILINTA 60 mg, similar to aspirin alone.
 The frequency of renal related adverse events was similar for ticagrelor and aspirin alone regardless of age and baseline renal function.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of BRILINTA.
+Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency.
+
+Immune system disorders: Hypersensitivity reactions including angioedema [see Contraindications (4.3)].
+
+Skin and subcutaneous tissue disorders: Rash

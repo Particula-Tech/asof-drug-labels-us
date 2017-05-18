@@ -32,8 +32,9 @@ Resume BRILINTA as soon as hemostasis is achieved.
 
 ## 5.5 Bradyarrhythmias
 
-Due to observations of mostly asymptomatic ventricular pauses in an earlier clinical study, patients with an increased risk of bradycardic events (e.g., patients without a pacemaker who have sick sinus syndrome, 2nd or 3rd degree AV block or bradycardic-related syncope) were excluded from the main studies evaluating the safety and efficacy of BRILINTA.
-Therefore, due to the limited clinical experience in these patients, caution is advised [see Adverse Reactions (6.1)].
+Ticagrelor can cause ventricular pauses [see Adverse Reactions (6.1)].
+Bradyarrhythmias including AV block have been reported in the postmarketing setting.
+Patients with a history of sick sinus syndrome, 2nd or 3rd degree AV block or bradycardia-related syncope not protected by a pacemaker were excluded from PLATO and PEGASUS and may be at increased risk of developing bradyarrhythmias with ticagrelor.
 
 ## 5.6 Severe Hepatic Impairment
 
