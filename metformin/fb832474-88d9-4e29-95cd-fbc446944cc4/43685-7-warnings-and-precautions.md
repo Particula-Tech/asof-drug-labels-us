@@ -20,7 +20,7 @@ The risk of metformin accumulation and metformin-associated lactic acidosis incr
 Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]:
 
 - •Before initiating GLUMETZA, obtain an estimated glomerular filtration rate (eGFR).
-- •GLUMETZA is contraindicated in patients with an eGFR less than 30 mL/minute/1.73 m2[see Contraindications (4)].
+- •GLUMETZA is contraindicated in patients with an eGFR less than 30 mL/minute/1.73 m2 [see Contraindications (4)].
 - •Initiation of GLUMETZA is not recommended in patients with eGFR between 30–45 mL/minute/1.73 m2.
 - •Obtain an eGFR at least annually in all patients taking GLUMETZA.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.

@@ -21,7 +21,7 @@ Table 4: Mean±SE Changes from Baseline to Final Visit in HbA1c, Fasting Plasma 
 | Parameter | GLUMETZA |  |  | Metformin Immediate-Release 1500 mg in Divided Doses (n=174) |
 | HbA1c (%) |  |  |  |  |
 | N | 169 | 175 | 159 | 170 |
-| Baseline | 8.2 ± 0.3 | 8.5±0.2 | 8.3±0.2 | 8.7±0.3 |
+| Baseline | 8.2±0.3 | 8.5±0.2 | 8.3±0.2 | 8.7±0.3 |
 | Mean Change±SE at Final Visit | -0.7±0.1 | -0.7±0.1 | -1.1±0.1 | -0.7±0.1 |
 | Mean Difference± SE from Metformin IR | 0±0.1 | 0±0.1 | -0.4±0.1 | N/A |
 | 98.4% CI for Difference | (-0.3, 0.3) | (-0.3, 0.3) | (-0.7, -0.1) |  |
@@ -78,5 +78,5 @@ A 24-week, double-blind, placebo-controlled trial of immediate-release metformin
 Patients randomized to receive metformin plus insulin achieved a mean reduction in HbA1c of 2.10%, compared to a 1.56% reduction in HbA1c achieved by insulin plus placebo.
 The improvement in glycemic control was achieved at the final study visit with 16% less insulin, 93.0 U/day vs. 110.6 U/day, metformin plus insulin versus insulin plus placebo, respectively, p=0.04.
 
-A second double-blind, placebo-controlled study (n=51), with 16 weeks of randomized treatment, demonstrated that in patients with type 2 diabetes controlled on insulin for 8 weeks with an average HbA1c of 7.46±0.97%, the addition of metformin maintained similar glycemic control (HbA1c 7.15±0.61 versus 6.97±0.62 for metformin plus insulin and placebo plus insulin, respectively) with 19% less insulin versus baseline (reduction of 23.68±30.22 versus an increase of 0.43±25.20 units for metformin plus insulin and placebo plus insulin, p <0.01).
+A second double-blind, placebo-controlled study (n=51), with 16 weeks of randomized treatment, demonstrated that in patients with type 2 diabetes controlled on insulin for 8 weeks with an average HbA1c of 7.46±0.97%, the addition of metformin maintained similar glycemic control (HbA1c 7.15±0.61 versus 6.97±0.62 for metformin plus insulin and placebo plus insulin, respectively) with 19% less insulin versus baseline (reduction of 23.68±30.22 versus an increase of 0.43±25.20 units for metformin plus insulin and placebo plus insulin, p<0.01).
 In addition, this study demonstrated that the combination of metformin plus insulin resulted in reduction in body weight of 3.11±4.30 lbs, compared to an increase of 1.30±6.08 lbs for placebo plus insulin, p=0.01.

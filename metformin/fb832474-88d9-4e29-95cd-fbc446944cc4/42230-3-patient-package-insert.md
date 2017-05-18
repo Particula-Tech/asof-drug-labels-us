@@ -1,4 +1,6 @@
-# PATIENT INFORMATION
+# Patient Package Insert
+
+PATIENT INFORMATION
 
 GLUMETZA (Gloo-met-za)
 

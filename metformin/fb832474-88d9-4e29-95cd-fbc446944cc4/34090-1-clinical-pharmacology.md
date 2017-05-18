@@ -45,31 +45,31 @@ Renal Impairment: Following a single-dose administration of GLUMETZA 500 mg in s
 Metformin peak and systemic exposure was 27% and 61% greater, respectively in subjects with mild renal impairment and 74% and 2.36-fold greater in subjects with moderate renal impairment as compared to healthy subjects.
 [See Dosage and Administration (2.2), Contraindications (4), and Warnings and Precautions (5.1).]
 
-Hepatic Impairment: No pharmacokinetic studies of GLUMETZA have been conducted in subjects with hepatic impairment.
+Hepatic Impairment:No pharmacokinetic studies of GLUMETZA have been conducted in subjects with hepatic impairment.
 [See Warnings and Precautions (5.1).]
 
 Geriatrics: Limited data from controlled pharmacokinetic studies of metformin hydrochloride in healthy elderly subjects suggest that total plasma clearance of metformin is decreased by 35%, the half-life is prolonged by 64% and Cmax is increased by 76%, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
 [See Warnings and Precautions (5.1) and Dosage and Administration (2).]
 
-Gender: In the pharmacokinetic studies in healthy volunteers, there were no important differences between male and female subjects with respect to metformin AUC and t1/2.
+Gender:In the pharmacokinetic studies in healthy volunteers, there were no important differences between male and female subjects with respect to metformin AUC and t1/2.
 However, Cmax for metformin was 40% higher in female subjects as compared to males.
 The gender differences for Cmax are unlikely to be clinically important.
 Similarly, in controlled clinical studies in patients with type 2 diabetes, the antihyperglycemic effect of metformin hydrochloride tablets was comparable in males and females.
 
-Race: There were no definitive conclusions on the differences between the races with respect to the pharmacokinetics of metformin because of the imbalance in the respective sizes of the racial groups.
+Race:There were no definitive conclusions on the differences between the races with respect to the pharmacokinetics of metformin because of the imbalance in the respective sizes of the racial groups.
 However, the data suggest a trend towards higher metformin Cmax and AUC values for metformin are obtained in Asian subjects when compared to Caucasian, Hispanic and Black subjects.
 The differences between the Asian and Caucasian groups are unlikely to be clinically important.
 In controlled clinical studies of metformin hydrochloride in patients with type 2 diabetes, the antihyperglycemic effect was comparable in whites (n=249), blacks (n=51) and Hispanics (n=24).
 
-Pediatrics: No pharmacokinetic data from studies of GLUMETZA in pediatric subjects are available.
+Pediatrics:No pharmacokinetic data from studies of GLUMETZA in pediatric subjects are available.
 
-Drug Interactions: Specific pharmacokinetic drug interaction studies with GLUMETZA have not been performed except for one with glyburide.
+Drug Interactions:Specific pharmacokinetic drug interaction studies with GLUMETZA have not been performed except for one with glyburide.
 However, such studies have been performed on metformin.
 
 Table 2: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
-| Coadministered Drug | Dose of Co-administered DrugAll metformin and coadministered drugs were given as single doses. | Dose of Metformin | Geometric Mean Ratio (ratio with/without coadministered drug)No effect=1.00 |  |
+| Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses. | Dose of Metformin | Geometric Mean Ratio (ratio with/without coadministered drug)No effect=1.00 |  |
 | --- | --- | --- | --- | --- |
 | AUCAUC=AUC0–∞ | Cmax |  |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |
