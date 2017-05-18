@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA206904"
+  ],
+  "inn": "chlorthalidone",
+  "labeler": "Rising Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64980-303-01",
+    "64980-303-10",
+    "64980-304-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "chlorthalidone",
+      "name": "CHLORTHALIDONE"
+    }
+  ],
+  "setid": "f96b2d0b-a141-4efb-8ccc-c447dfc6024a",
+  "source": "dailymed"
+}
