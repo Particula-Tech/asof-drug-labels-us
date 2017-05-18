@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.4)
+See FDA-Approved Patient Labeling 17.4
 
 Please refer to the patient package insert.
 To assure safe and effective use of ziprasidone, the information and instructions provided in the patient information should be discussed with patients.
@@ -17,8 +17,8 @@ Patients should be advised to inform their health care providers of the followin
 Patients should be instructed to report the onset of any conditions that put them at risk for significant electrolyte disturbances, hypokalemia in particular, including but not limited to the initiation of diuretic therapy or prolonged diarrhea.
 In addition, patients should be instructed to report symptoms such as dizziness, palpitations, or syncope to the prescriber [see Warnings and Precautions (5.2)].
 
-## 17.3 DRESS
+## 17.3 Severe Cutaneous Adverse Reactions
 
-Patients should be instructed to report to their health care provider at the earliest onset any signs or symptoms that may be associated with Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.4)].
+Patients should be instructed to report to their health care provider at the earliest onset any signs or symptoms that may be associated with Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) or with severe cutaneous adverse reactions, such as Stevens-Johnson syndrome [see Warnings and Precautions (5.4)].
 
 ## 17.4 FDA-Approved Patient Labeling

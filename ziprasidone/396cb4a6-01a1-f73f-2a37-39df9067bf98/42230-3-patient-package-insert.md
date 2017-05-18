@@ -2,6 +2,8 @@
 
 Ziprasidone Hydrochloride Capsules
 
+(zi pras' i done hye'' droe klor' ide)
+
 Information for patients taking ziprasidone hydrochloride capsules or their caregivers
 
 This summary contains important information about ziprasidone hydrochloride capsules.
@@ -84,7 +86,9 @@ Therefore, tell your doctor if you experience any of these signs.
 
 Delayed-onset drug reaction called drug reaction with eosinophilia and systemic symptoms (DRESS) can occur with ziprasidone.
 Signs of DRESS may include rash, fever, and swollen lymph nodes.
-DRESS is sometimes fatal; therefore, tell your doctor immediately if you experience any of these signs.
+Other severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome can occur with ziprasidone.
+Signs of Stevens-Johnson syndrome may include rash with blisters which could include ulcers in mouth, skin shedding, fever and target-like spots in the skin.
+DRESS and other SCAR are sometimes fatal; therefore, tell your doctor immediately if you experience any of these signs.
 
 Adverse reactions related to high blood sugar (hyperglycemia), sometimes serious, have been reported in patients treated with atypical antipsychotics.
 There have been few reports of hyperglycemia or diabetes in patients treated with ziprasidone hydrochloride capsules, and it is not known if ziprasidone hydrochloride capsules are associated with these reactions.
@@ -114,9 +118,7 @@ For more information about ziprasidone hydrochloride capsules
 
 This sheet is only a summary.
 Ziprasidone hydrochloride capsules are a prescription medicine and only your doctor can decide if it is right for you.
-If you have any questions or want more information about ziprasidone hydrochloride capsules, talk with your doctor or pharmacist.
-
-To reorder additional Patient Information Sheets, contact Dr. Reddy’s Customer Service at1-866-733-3952.
+If you have any questions or want more information about ziprasidone hydrochloride capsules, talk with your doctor or pharmacist or call, 1-888-375-3784.
 
 Rx only
 
@@ -126,4 +128,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 0115
+Revised: 0317
+
+Dispense with Patient Information Sheet available at: www.drreddys.com/pi/ziprasidonecaps.pdf

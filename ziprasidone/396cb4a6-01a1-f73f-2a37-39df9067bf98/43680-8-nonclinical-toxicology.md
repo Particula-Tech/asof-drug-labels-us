@@ -12,7 +12,7 @@ In female mice, there were dose-related increases in the incidences of pituitary
 Proliferative changes in the pituitary and mammary glands of rodents have been observed following chronic administration of other antipsychotic agents and are considered to be prolactin-mediated.
 Increases in serum prolactin were observed in a 1-month dietary study in female, but not male, mice at 100 and 200 mg/kg/day (or 2.5 and 5 times the MRHD on a mg/m2 basis).
 Ziprasidone had no effect on serum prolactin in rats in a 5-week dietary study at the doses that were used in the carcinogenicity study.
-The relevance for human risk of the findings of prolactin-mediated endocrine tumors in rodents is unknown [see Warnings and Precautions (5.12)].
+The relevance for human risk of the findings of prolactin-mediated endocrine tumors in rodents is unknown [see Warnings and Precautions (5.13)].
 
 Mutagenesis
 

@@ -31,9 +31,9 @@ The most common reaction associated with dropout was rash, including 7 dropouts 
 
 Adverse Reactions Occurring at an Incidence of 2% or More among Ziprasidone-Treated Patients in Short-Term, Oral, Placebo-Controlled Trials
 
-Table 6 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy (up to 6 weeks) in predominantly patients with schizophrenia, including only those reactions that occurred in 2% or more of patients treated with ziprasidone and for which the incidence in patients treated with ziprasidone was greater than the incidence in placebo-treated patients.
+Table 11 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy (up to 6 weeks) in predominantly patients with schizophrenia, including only those reactions that occurred in 2% or more of patients treated with ziprasidone and for which the incidence in patients treated with ziprasidone was greater than the incidence in placebo-treated patients.
 
-Table 6: Treatment-Emergent Adverse Reaction Incidence In Short-Term Oral Placebo-Controlled Trials – Schizophrenia
+Table 11: Treatment-Emergent Adverse Reaction Incidence In Short-Term Oral Placebo-Controlled Trials – Schizophrenia
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -89,7 +89,7 @@ In the schizophrenia trials, ziprasidone was associated with a mean increase in 
 Other Adverse Reactions Observed During the Premarketing Evaluation of Oral Ziprasidone
 
 Following is a list of COSTART terms that reflect treatment-emergent adverse reactions as defined in the introduction to the ADVERSE REACTIONS section reported by patients treated with ziprasidone in schizophrenia trials at multiple doses >4 mg/day within the database of 3834 patients.
-All reported reactions are included except those already listed in Table 6 or elsewhere in labeling, those reaction terms that were so general as to be uninformative, reactions reported only once and that did not have a substantial probability of being acutely life-threatening, reactions that are part of the illness being treated or are otherwise common as background reactions, and reactions considered unlikely to be drug-related.
+All reported reactions are included except those already listed in Table 11 or elsewhere in labeling, those reaction terms that were so general as to be uninformative, reactions reported only once and that did not have a substantial probability of being acutely life-threatening, reactions that are part of the illness being treated or are otherwise common as background reactions, and reactions considered unlikely to be drug-related.
 It is important to emphasize that, although the reactions reported occurred during treatment with ziprasidone, they were not necessarily caused by it.
 
 Adverse reactions are further categorized by body system and listed in order of decreasing frequency according to the following definitions:
