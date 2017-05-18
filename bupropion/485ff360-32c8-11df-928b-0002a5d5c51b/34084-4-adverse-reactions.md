@@ -2,8 +2,8 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.1)]
-- Neuropsychiatric Symptoms [see Warnings and Precautions (5.2)]
+- Suicidal Behavior and Ideation [see Boxed Warning, Warnings and Precautions (5.1)]
+- Neuropsychiatric Adverse Events [see Warnings and Precautions (5.2)]
 - Seizures [see Contraindications (4), Warnings and Precautions (5.3)]
 - Increase in Blood Pressure and Heart Rate [see Warnings and Precautions (5.5)]
 - Allergic Reactions [see Warnings and Precautions (5.6)]
@@ -88,3 +88,10 @@ An in vitro drug-drug interaction study demonstrated that bupropion and its meta
 
 Based on in vitro results and FDA guidance for Drug Interaction Studies, the ratios of the free (unbound) Cmax and IC50 value of bupropion and hydroxybupropion were well below 0.1 suggesting a drug-drug interaction between CONTRAVE and OCT2 substrate due to bupropion and hydroxybupropion is unlikely.
 The ratio for the threohydrobupropion and erythrohydrobupropion metabolite mixture was 0.29, suggesting a drug-drug interaction between CONTRAVE and OCT2 due to threohydrobupropion and erythrohydrobupropion is possible.
+
+## 6.2 Postmarketing Experience
+
+Additional adverse reactions have been identified during post approval use of CONTRAVE.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Loss of consciousness, malaise

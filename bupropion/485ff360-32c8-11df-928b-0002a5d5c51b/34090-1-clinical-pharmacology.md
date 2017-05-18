@@ -191,6 +191,8 @@ Effect of Naltrexone/Bupropion Coadministration on Systemic Exposure of Other Dr
 | Naltrexone/Bupropion 16 mg/180 mg single dose | Valsartan 320 mg single dose | No Effect |
 | Bupropion 150 mg twice daily for 12 days | Lamotrigine 100 mg single dose | No Effect |
 
+Digoxin: Literature data showed that digoxin exposure was decreased when a single oral dose of 0.5 mg digoxin was administered 24 hours after a single oral dose of extended-release 150 mg bupropion in healthy volunteers.
+
 Effects of Other Drugs on the Pharmacokinetics of Naltrexone/Bupropion
 
 Drug interactions between CYP2B6 inhibitors (ticlopidine, clopidogrel, prasugrel), CYP2B6 inducers (ritonavir, lopinavir) and bupropion (one of the CONTRAVE components), or between other drugs (atorvastatin, glyburide, metoprolol, lisinopril, nifedipine, valsartan) and CONTRAVE have been evaluated.

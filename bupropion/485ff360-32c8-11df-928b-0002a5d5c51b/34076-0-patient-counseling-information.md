@@ -8,10 +8,10 @@ This information and the instructions provided in the Medication Guide should be
 Patients should be advised to take CONTRAVE exactly as prescribed.
 Patients should be instructed to follow the dose escalation schedule and not to take more than the recommended dose of CONTRAVE.
 
-Patients should be made aware that CONTRAVE contains the same active ingredient (bupropion) found in certain antidepressants and smoking cessation products (including, but not limited to, WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and APLENZIN) and that CONTRAVE should not be used in combination with any other medications that contain bupropion.
+Patients should be made aware that CONTRAVE contains the same active ingredient (bupropion) found in certain antidepressants and smoking cessation products (including, but not limited to, WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, APLENZIN and ZYBAN) and that CONTRAVE should not be used in combination with any other medications that contain bupropion.
 
-Patients should be advised that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking bupropion.
-If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
+Patients should be advised that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking bupropion.
+Instruct patients to discontinue CONTRAVE and contact a healthcare professional if they experience such symptoms.
 
 Patients should be advised of the potential serious risks associated with the use of CONTRAVE, including suicidality, seizures, and increases in blood pressure or heart rate.
 
@@ -53,6 +53,6 @@ Distributed by: Orexigen Therapeutics, Inc. La Jolla, CA 92037
 
 CONTRAVE® is a registered trademark of Orexigen Therapeutics, Inc.
 
-All other trademarks are the property of their respective owners. ©2016 Orexigen Therapeutics, Inc.
+All other trademarks are the property of their respective owners. ©2017 Orexigen Therapeutics, Inc.
 
-LBL-00022
+LBL-00033.3

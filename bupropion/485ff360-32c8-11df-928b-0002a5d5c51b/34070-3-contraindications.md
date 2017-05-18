@@ -4,7 +4,7 @@ CONTRAVE is contraindicated in
 
 - Uncontrolled hypertension [see Warnings and Precautions (5.5)]
 - Seizure disorder or a history of seizures [see Warnings and Precautions (5.3)]
-- Use of other bupropion-containing products (including, but not limited to, WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and APLENZIN)
+- Use of other bupropion-containing products (including, but not limited to, WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, APLENZIN and ZYBAN)
 - Bulimia or anorexia nervosa, which increase the risk for seizure [see Warnings and Precautions (5.3)]
 - Chronic opioid or opiate agonist (e.g., methadone) or partial agonists (e.g., buprenorphine) use, or acute opiate withdrawal [see Warnings and Precautions (5.4) and Drug Interactions (7.2)]
 - Patients undergoing an abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Warnings and Precautions (5.3) and Drug Interactions (7.7)]

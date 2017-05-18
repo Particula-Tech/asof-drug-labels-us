@@ -10,7 +10,7 @@ The COR-Diabetes trial enrolled patients with BMI greater than 27 kg/m2 with typ
 
 Treatment was initiated with a three-week dose-escalation period followed by approximately 1 year of continued therapy.
 Patients were instructed to take CONTRAVE with food.
-COR I and COR II included a program consisting of a reduced-calorie diet resulting in an approximate 500 kcal/day decrease in caloric intake, behavioral counseling, and increased physical activity.
+COR-I and COR-II included a program consisting of a reduced-calorie diet resulting in an approximate 500 kcal/day decrease in caloric intake, behavioral counseling, and increased physical activity.
 COR-BMOD included an intensive behavioral modification program consisting of 28 group counseling sessions over 56 weeks as well as a prescribed diet and exercise regimen.
 COR-Diabetes evaluated patients with type 2 diabetes not achieving glycemic goal of a HbA1c less than 7% either with oral antidiabetic agents or with diet and exercise alone.
 Of the overall population from these four trials, 24% had hypertension, 54% had dyslipidemia at study entry, and 10% had type 2 diabetes.
@@ -118,4 +118,4 @@ Changes in Cardiometabolic Parameters and Waist Circumference in Patients with T
 Effect on Body Composition
 
 In a subset of 124 patients (79 CONTRAVE, 45 placebo), body composition was measured using dual energy X-ray absorptiometry (DEXA).
-The DEXA assessment showed that mean total body fat mass decreased by 4.7 kg (11.7%) in the CONTRAVE group vs 1.4 kg (4.3%) in the placebo group at Week 52/LOCF (treatment difference, 3.3 kg [7.4%], p<0.01).
+The DEXA assessment showed that mean total body fat mass decreased by 4.7 kg (11.7%) in the CONTRAVE group vs 1.4 kg (4.3%) in the placebo group at Week 52/LOCF (treatment difference, -3.3 kg [-7.4%], p<0.01).

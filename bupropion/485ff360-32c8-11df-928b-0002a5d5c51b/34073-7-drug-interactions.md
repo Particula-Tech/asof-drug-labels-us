@@ -27,6 +27,11 @@ Similar clinical drug interactions resulting in increased pharmacokinetic exposu
 Coadministration of CONTRAVE with drugs that are metabolized by CYP2D6 isozyme including certain antidepressants (SSRIs and many tricyclics), antipsychotics (e.g., haloperidol, risperidone and thioridazine), beta-blockers (e.g., metoprolol) and Type 1C antiarrhythmics (e.g., propafenone and flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.
 If CONTRAVE is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6, the need to decrease the dose of the original medication should be considered, particularly for those concomitant medications with a narrow therapeutic index [see Clinical Pharmacology (12.3)].
 
+Digoxin
+
+Coadministration of CONTRAVE with digoxin may decrease plasma digoxin levels.
+Monitor plasma digoxin levels in patients treated concomitantly with CONTRAVE and digoxin [see Clinical Pharmacology (12.3)].
+
 ## 7.4 Potential for Other Drugs to Affect CONTRAVE
 
 Bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
