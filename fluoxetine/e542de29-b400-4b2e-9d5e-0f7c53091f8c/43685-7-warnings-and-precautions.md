@@ -4,16 +4,16 @@
 
 Patients with Major Depressive Disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
-There has been a long standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short term placebo controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with Major Depressive Disorder (MDD) and other psychiatric disorders.
-Short term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
+There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with Major Depressive Disorder (MDD) and other psychiatric disorders.
+Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-The pooled analyses of placebo controlled trials in children and adolescents with MDD, Obsessive Compulsive Disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
-The pooled analyses of placebo controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, Obsessive Compulsive Disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
+The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug versus placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
 Table 1: Suicidality per 1000 Patients Treated
 
@@ -29,7 +29,7 @@ Table 1: Suicidality per 1000 Patients Treated
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
 
-It is unknown whether the suicidality risk extends to longer term use, that is, beyond several months.
+It is unknown whether the suicidality risk extends to longer-term use, that is, beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
 
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
@@ -49,7 +49,7 @@ It should be noted that SARAFEM is not approved for treating any indication in t
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including SARAFEM, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including SARAFEM, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (for example, agitation, hallucinations, delirium, and coma), autonomic instability (for example, tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (for example, tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (for example, nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
@@ -61,7 +61,7 @@ No reports involved the administration of methylene blue by other routes (such a
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking SARAFEM.
 SARAFEM should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.5)].
 
-If concomitant use of SARAFEM with other serotonergic drugs, that is, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+If concomitant use of SARAFEM with other serotonergic drugs, that is, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
 Treatment with SARAFEM and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
@@ -79,7 +79,7 @@ In premarketing clinical trials for conditions other than PMDD, 2 patients are k
 In neither patient was there an unequivocal diagnosis, but one was considered to have a leukocytoclastic vasculitis, and the other, a severe desquamating syndrome that was considered variously to be a vasculitis or erythema multiforme.
 Other patients have had systemic syndromes suggestive of serum sickness.
 
-Since the introduction of fluoxetine, systemic reactions, possibly related to vasculitis and including lupus like syndrome, have developed in patients with rash.
+Since the introduction of fluoxetine, systemic reactions, possibly related to vasculitis and including lupus-like syndrome, have developed in patients with rash.
 Although these reactions are rare, they may be serious, involving the lung, kidney, or liver.
 Death has been reported to occur in association with these systemic reactions.
 
@@ -186,7 +186,7 @@ Caution is advisable in using fluoxetine in patients with diseases or conditions
 
 Cardiovascular — Fluoxetine has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were systematically excluded from clinical studies during the product’s premarket testing.
-However, the electrocardiograms of 312 patients who received fluoxetine in double blind trials, for a condition other than PMDD, were retrospectively evaluated; no conduction abnormalities that resulted in heart block were observed.
+However, the electrocardiograms of 312 patients who received fluoxetine in double-blind trials, for a condition other than PMDD, were retrospectively evaluated; no conduction abnormalities that resulted in heart block were observed.
 The mean heart rate was reduced by approximately 3 beats/min.
 
 Glycemic Control — In patients with diabetes, fluoxetine may alter glycemic control.
@@ -200,13 +200,13 @@ Patients should be cautioned about operating hazardous machinery, including auto
 
 ## 5.13 Long Elimination Half-Life
 
-Because of the long elimination half lives of the parent drug and its major active metabolite, changes in dose will not be fully reflected in plasma for several weeks, affecting both strategies for titration to final dose and withdrawal from treatment.
+Because of the long elimination half-lives of the parent drug and its major active metabolite, changes in dose will not be fully reflected in plasma for several weeks, affecting both strategies for titration to final dose and withdrawal from treatment.
 This is of potential consequence when drug discontinuation is required or when drugs are prescribed that might interact with fluoxetine and norfluoxetine following the discontinuation of fluoxetine [see Clinical Pharmacology (12.3) and Drug Interactions (7)].
 
 ## 5.14 Discontinuation of Treatment
 
 During marketing of SARAFEM, SNRIs, and SSRIs, there have been spontaneous reports of adverse reactions occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (for example, paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
-While these reactions are generally self limiting, there have been reports of serious discontinuation symptoms.
+While these reactions are generally self-limiting, there have been reports of serious discontinuation symptoms.
 
 Patients should be monitored for these symptoms when discontinuing treatment with SARAFEM.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.

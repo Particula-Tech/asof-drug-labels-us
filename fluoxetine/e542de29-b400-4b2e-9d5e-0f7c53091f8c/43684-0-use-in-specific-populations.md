@@ -13,9 +13,7 @@ However, one prospective cohort study conducted by the European Network of Terat
 There was no specific pattern of cardiovascular malformations.
 Overall, however, a causal relationship has not been established.
 
-Nonteratogenic Effects — Neonates exposed to fluoxetine and other SSRIs or serotonin and norepinephrine
-
-reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Nonteratogenic Effects — Neonates exposed to fluoxetine and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
@@ -68,7 +66,7 @@ Therefore, height and weight should be monitored periodically in pediatric patie
 In a study in which fluoxetine (3, 10, or 30 mg/kg) was orally administered to young rats from weaning (Postnatal Day 21) through adulthood (Day 90), male and female sexual development was delayed at all doses, and growth (body weight gain, femur length) was decreased during the dosing period in animals receiving the highest dose.
 At the end of the treatment period, serum levels of creatine kinase (marker of muscle damage) were increased at the intermediate and high doses, and abnormal muscle and reproductive organ histopathology (skeletal muscle degeneration and necrosis, testicular degeneration and necrosis, epididymal vacuolation and hypospermia) was observed at the high dose.
 When animals were evaluated after a recovery period (up to 11 weeks after cessation of dosing), neurobehavioral abnormalities (decreased reactivity at all doses and learning deficit at the high dose) and reproductive functional impairment (decreased mating at all doses and impaired fertility at the high dose) were seen; in addition, testicular and epididymal microscopic lesions and decreased sperm concentrations were found in the high dose group, indicating that the reproductive organ effects seen at the end of treatment were irreversible.
-The reversibility of fluoxetine induced muscle damage was not assessed.
+The reversibility of fluoxetine-induced muscle damage was not assessed.
 Adverse effects similar to those observed in rats treated with fluoxetine during the juvenile period have not been reported after administration of fluoxetine to adult animals.
 Plasma exposures (AUC) to fluoxetine in juvenile rats receiving the low, intermediate, and high dose in this study were approximately 0.1 to 0.2, 1 to 2, and 5 to 10 times, respectively, the average exposure in pediatric patients receiving the maximum recommended dose (MRD) of 20 mg/day.
 Rat exposures to the major metabolite, norfluoxetine, were approximately 0.3 to 0.8, 1 to 8, and 3 to 20 times, respectively, pediatric exposure at the MRD.
@@ -88,6 +86,6 @@ The diagnosis of PMDD is not applicable to postmenopausal women.
 
 ## 8.6 Hepatic Impairment
 
-In subjects with cirrhosis of the liver, the clearances of fluoxetine and its active metabolite, norfluoxetine, were decreased, thus increasing the elimination half lives of these substances.
+In subjects with cirrhosis of the liver, the clearances of fluoxetine and its active metabolite, norfluoxetine, were decreased, thus increasing the elimination half-lives of these substances.
 A lower or less frequent dose of fluoxetine should be used in patients with cirrhosis.
 Caution is advised when using SARAFEM in patients with diseases or conditions that could affect its metabolism [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].

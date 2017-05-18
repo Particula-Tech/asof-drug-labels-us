@@ -137,7 +137,7 @@ Ask if you are not sure.
 
 Before starting SARAFEM, tell your healthcare provider if you:
 
-- Are taking certain drugs or treatments such as: ○ Triptans used to treat migraine headache ○ Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics ○ Tramadol and fentanyl ○ Over-the-counter supplements such as tryptophan or St. John’s Wort ○ Electroconvulsive therapy (ECT)
+- Are taking certain drugs or treatments such as: ○ Triptans used to treat migraine headache ○ Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, amphetamines, SSRIs, SNRIs, MAOIs or antipsychotics ○ Tramadol and fentanyl ○ Over-the-counter supplements such as tryptophan or St. John’s Wort ○ Electroconvulsive therapy (ECT)
 
 - have liver problems
 - have kidney problems
@@ -250,5 +250,4 @@ Sarafem® is a registered trademark of Allergan Pharmaceuticals International Li
 © 2016 Allergan.
 All rights reserved.
 
-Rev.
-September 2016
+01/2017

@@ -15,13 +15,13 @@ Patients should be advised of the following issues and asked to alert their heal
 ## 17.2 Clinical Worsening and Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
-Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day to day basis, since changes may be abrupt.
+Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 17.3 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of SARAFEM and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John’s Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of SARAFEM and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan, and St. John’s Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
 
 Patients should be advised of the signs and symptoms associated with serotonin syndrome that may include mental status changes (for example, agitation, hallucinations, delirium, and coma), autonomic instability (for example, tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (for example, tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (for example, nausea, vomiting, diarrhea).
 Patients should be cautioned to seek medical care immediately if they experience these symptoms.
@@ -57,7 +57,7 @@ Patients should be advised to avoid driving a car or operating hazardous machine
 
 ## 17.9 Use of Concomitant Medications
 
-Patients should be advised to inform their physician if they are taking, or plan to take, any prescription medication, including Symbyax, Prozac, Prozac Weekly, or over the counter drugs, including herbal supplements or alcohol.
+Patients should be advised to inform their physician if they are taking, or plan to take, any prescription medication, including Symbyax, Prozac, Prozac Weekly, or over-the-counter drugs, including herbal supplements or alcohol.
 Patients should also be advised to inform their physicians if they plan to discontinue any medications they are taking while on SARAFEM.
 
 ## 17.10 Discontinuation of Treatment
@@ -76,3 +76,5 @@ Because fluoxetine is excreted in human milk, nursing while taking SARAFEM is no
 
 Distributed by: Allergan USA, Inc. Irvine, CA 92612 Sarafem® is a registered trademark of Allergan Pharmaceuticals International Limited © 2016 Allergan.
 All rights reserved.
+
+01/2017
