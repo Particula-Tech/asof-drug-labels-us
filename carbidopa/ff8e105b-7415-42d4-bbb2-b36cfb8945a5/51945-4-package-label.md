@@ -1,13 +1,15 @@
 # PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
 
-Rx only
-
 NDC 25010-711-15
 
-LODOSYN® (Carbidopa) Tablets
+Rx only
 
-25 mg (Anhydrous equivalent)
+LODOSYN® (carbidopa) Tablets (anhydrous equivalent)
+
+Each tablet contains 25 mg of carbidopa (anhydrous equivalent).
+
+25 mg
 
 100 Tablets
 
-Valeant® Pharmaceuticals North America
+Valeant

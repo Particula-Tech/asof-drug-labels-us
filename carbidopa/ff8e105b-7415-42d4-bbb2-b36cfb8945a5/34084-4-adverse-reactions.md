@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
 Carbidopa has not been demonstrated to have any overt pharmacodynamic actions in the recommended doses.
-The only adverse reactions that have been observed have been with concomitant use of carbidopa with other drugs such as levodopa, and with carbidopalevodopa combination products.
+The only adverse reactions that have been observed have been with concomitant use of carbidopa with other drugs such as levodopa, and with carbidopa-levodopa combination products.
 
 When LODOSYN is administered concomitantly with levodopa or carbidopa-levodopa combination products, the most common adverse reactions have included dyskinesias such as choreiform, dystonic, and other involuntary movements, and nausea.
 Other adverse reactions reported with LODOSYN when administered concomitantly with levodopa alone or carbidopa-levodopa combination products were psychotic episodes including delusions, hallucinations, and paranoid ideation, depression with or without development of suicidal tendencies, and dementia.
@@ -26,7 +26,7 @@ Musculoskeletal: back pain, leg pain, muscle cramps, shoulder pain.
 
 Nervous System/Psychiatric: Psychotic episodes including delusions, hallucinations and
 
-paranoid ideation, neuroleptic malignant syndrome (NMS, see WARNINGS), bradykinetic
+paranoid ideation, NMS,(see WARNINGS), bradykinetic
 
 episodes (“on-off” phenomenon), confusion, agitation, dizziness, somnolence, dream
 
@@ -39,7 +39,9 @@ Convulsions also have occurred; however, a causal
 
 relationship with LODOSYN and levodopa, has not been established.
 
-Skin: flushing, increased sweating, malignant melanoma (see also CONTRAINDICATIONS), rash, alopecia, dark sweat.
+Respiratory: upper respiratory infection, dyspnea, pharyngea pain, cough.
+
+Skin: flushing, increased sweating, malignant melanoma (see CONTRAINDICATIONS), rash, alopecia, dark sweat.
 
 Special Senses: oculogyric crises, diplopia, blurred vision, dilated pupils.
 
@@ -48,3 +50,5 @@ Urogenital: dark urine, priapism, urinary frequency, urinary incontinence, urina
 Laboratory Tests: abnormalities in alkaline phosphatase, SGOT (AST), SGPT (ALT), lactic dehydrogenase, bilirubin, blood urea nitrogen (BUN), Coombs test; elevated serum glucose; decreased hemoglobin and hematocrit; decreased white blood cell count and serum potassium; increased serum creatinine and uric acid; white blood cells, bacteria and blood in the urine; protein and glucose in the urine.
 
 Miscellaneous: bizarre breathing patterns, faintness, hoarseness, hot flashes, malaise, neuroleptic malignant syndrome, sense of stimulation.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -1,16 +1,16 @@
 # WARNINGS
 
-LODOSYN (Carbidopa) has no antiparkinsonian effect when given alone.
+LODOSYN (carbidopa) has no antiparkinsonian effect when given alone.
 It is indicated
 
 for use with carbidopa-levodopa or levodopa.
-LODOSYN (Carbidopa) does not decrease
+LODOSYN (carbidopa) does not decrease
 
 adverse reactions due to central effects of levodopa.
 
-When LODOSYN (Carbidopa) is to be given to carbidopa-naive patients who are being treated with levodopa alone, the two drugs should be given at the same time.
-At least twelve hours should elapse between the last dose of levodopa and initiation of therapy with LODOSYN (Carbidopa) and levodopa in combination.
-Start with no more than one-fifth (20%) to one-fourth (25%) of the previous daily dosage of levodopa when given without LODOSYN (Carbidopa).
+When LODOSYN (carbidopa) is to be given to carbidopa-naive patients who are being treated with levodopa alone, the two drugs should be given at the same time.
+At least twelve hours should elapse between the last dose of levodopa and initiation of therapy with LODOSYN (carbidopa) and levodopa in combination.
+Start with no more than one-fifth (20%) to one-fourth (25%) of the previous daily dosage of levodopa when given without LODOSYN (carbidopa).
 See the DOSAGE AND ADMINISTRATION section before initiating therapy.
 
 The addition of LODOSYN with levodopa or carbidopa-levodopa reduces the peripheral
@@ -84,16 +84,14 @@ There is insufficient information to establish that dose reduction
 
 will eliminate episodes of falling asleep while engaged in activities of daily living.
 
-As with levodopa alone there is a possibility of upper gastrointestinal hemorrhage in patients with a history of peptic ulcer.
-
-## Hyperpyrexia and Confusion
+## Hyperpyrexia and Confusion:
 
 Sporadic cases of a symptom complex resembling neuroleptic malignant syndrome (NMS) have
 
 been reported in association with dose reductions or withdrawal of certain antiparkinsonian
 
-agents such as levodopa, carbidopa-levodopa, or carbidopa-levodopa extended-release.
-Therefore, patients should be observed carefully when the dosage of levodopa or arbidopalevodopa is reduced abruptly or discontinued, especially if the patient is receiving
+agents such as levodopa, carbidopa-levodopa, or carbidopa-levodopa extended release.
+Therefore, patients should be observed carefully when the dosage of levodopa or carbidopa-levodopa is reduced abruptly or discontinued, especially if the patient is receiving
 
 neuroleptics.
 
@@ -139,7 +137,7 @@ As with levodopa alone, periodic evaluations of hepatic, hematopoietic, cardiova
 
 renal function are recommended during extended concomitant therapy with LODOSYN and
 
-levodopa, or with LODOSYN and carbidopa-levodopa or any combination of these drugs.
+levodopa, or with LODOSYN and carbidopa-levodopa, or any combination of these drugs.
 
 ### Impulse Control/Compulsive Behaviors
 
@@ -152,7 +150,7 @@ Patients may be unable to control these
 
 urges while taking one or more of the medications that are used for the treatment of Parkinson’s
 
-disease and that increase central dopaminergic tone, including Lodosyn taken with levodopa and
+disease and that increase central dopaminergic tone, including LODOSYN taken with levodopa and
 
 carbidopa.
 In some cases, although not all, these urges were reported to have stopped when the
@@ -164,16 +162,16 @@ recognize these behaviors as abnormal it is important for prescribers to specifi
 
 or their caregivers about the development of new or increased gambling urges, sexual urges,
 
-uncontrolled spending or other urges while being treated with Lodosyn.
+uncontrolled spending or other urges while being treated with LODOSYN.
 Physicians should
 
-consider dose reduction or stopping Lodosyn or levodopa if a patient develops such urges while
+consider dose reduction or stopping LODOSYN or levodopa if a patient develops such urges while
 
-taking Lodosyn with carbidopa/levodopa.
+taking LODOSYN with carbidopa/levodopa.
 
 ### Hallucinations/Psychotic-Like Behavior
 
-Hallucinations and psychotic like behavior have been reported with dopaminergic medications.
+Hallucinations and psychotic-like behavior have been reported with dopaminergic medications.
 
 In general, hallucinations present shortly after the initiation of therapy and may be responsive to
 
@@ -201,7 +199,7 @@ may decrease the effectiveness of LODOSYN.
 
 ### Dyskinesia
 
-LODOSYN (Carbidopa) may potentiate the dopaminergic side effects of levodopa and may
+LODOSYN (carbidopa) may potentiate the dopaminergic side effects of levodopa and may
 
 cause or exacerbate preexisting dyskinesia.
 
@@ -215,7 +213,7 @@ development of depression with concomitant suicidal tendencies.
 
 Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk
 
-(2-to approximately 6-fold higher) of developing melanoma than the general population.
+(2- to approximately 6-fold higher) of developing melanoma than the general population.
 
 Whether the observed increased risk was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
 
@@ -238,9 +236,9 @@ dosage regimen and not to add any additional antiparkinson medications, includin
 
 carbidopa-levodopa preparations without first consulting a physician.
 
-Advise patients that sometimes a ‘wearing-off’ effect may occur at the end of the dosing
+Advise patients that sometimes a “wearing-off” effect may occur at the end of the dosing
 
-Interval.
+interval.
 Tell patients to notify the prescriber if such response poses a problem to lifestyle.
 
 Patients should be advised that occasionally dark color (red, brown, or black) may appear in
@@ -252,7 +250,7 @@ to be clinically insignificant, garments may become discolored.
 
 The patient should be advised that a change in diet to foods that are high in protein may delay
 
-The absorption of levodopa and may reduce the amount taken up in the circulation.
+the absorption of levodopa and may reduce the amount taken up in the circulation.
 Excessive acidity also delays stomach emptying thus delaying the absorption of levodopa.
 Iron salts (such as in multivitamin tablets) may also reduce the amount of levodopa available in the body.
 The above factors may reduce the clinical effectiveness of the LODOSYN and levodopa therapy.
@@ -267,18 +265,14 @@ Advise patients to exercise caution while driving or operating machinery and tha
 they have experience somnolence and/or sudden sleep onset, they must refrain from these
 
 activities.
-(See WARNINGS, Falling Asleep During Activities of Daily Living and Somnolence
-
-General.)
+(See WARNINGS, Falling Asleep During Activities of Daily Living and Somnolence).
 
 There have been reports of patients experiencing intense urges to gamble, increased sexual
 
 urges, and other intense urges, and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease, including LODOSYN and levodopa.
 Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
 Prescribers should ask patients about the development of new or increased gambling urges, sexual urges, or other intense urges while taking LODOSYN and levodopa.
-Physicians should consider dose reduction or stopping
-
-Lodosyn and levodopa if a patient develops such urges while taking Lodosyn with carbidopa/levodopa (See PRECAUTIONS, Impulse Control/Compulsive Behaviors).
+Physicians should consider dose reduction or stopping LODOSYN if a patient develops such urges while taking LODOSYN with carbidopa/levodopa (See PRECAUTIONS, Impulse Control/Compulsive Behaviors).
 
 ## Laboratory Tests
 
@@ -298,7 +292,7 @@ glucose-oxidase methods of testing for glucosuria.
 
 ## Drug Interactions
 
-Caution should be exercised when the following drugs are administered concomitantly with LODOSYN (Carbidopa) given with levodopa or carbidopa-levodopa combination products.
+Caution should be exercised when the following drugs are administered concomitantly with LODOSYN (carbidopa) given with levodopa or carbidopa-levodopa fixed dose combination products.
 
 Symptomatic postural hypotension has occurred when LODOSYN, given with levodopa or
 
@@ -307,8 +301,8 @@ Therefore, when therapy with LODOSYN, given with or without levodopa or carbidop
 
 the antihypertensive drug may be required.
 
-For patients receiving monoamine oxidase inhibitors (Type A or B), see CONTRAINDICATIONS.
-Concomitant therapy with selegiline and carbidopa-levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa-levodopa alone (see CONTRAINDICATIONS).
+For patients receiving monoamine oxidase inhibitors (Type A or B), (see CONTRAINDICATIONS).
+Concomitant therapy with selegiline or rasigiline and LODOSYN and carbidopa-levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa-levodopa alone (see CONTRAINDICATIONS).
 
 There have been rare reports of adverse reactions, including hypertension and dyskinesia, resulting from the concomitant use of tricyclic antidepressants and carbidopa-levodopa preparations.
 
@@ -316,7 +310,7 @@ Dopamine D2 receptor antagonists (e.g., phenothiazines, butyrophenones, risperid
 In addition, the beneficial effects of levodopa in Parkinson's disease have been reported to be reversed by phenytoin and papaverine.
 Patients taking these drugs with LODOSYN and levodopa or carbidopa-levodopa combination products should be carefully observed for loss of therapeutic response.
 
-LODOSYN and iron salts or multi vitamins containing iron salts should be co administered
+LODOSYN and iron salts or multivitamins containing iron salts should be coadministered
 
 with caution.
 Iron salts can form chelates with levodopa and carbidopa and
@@ -333,7 +327,8 @@ There were no significant differences between treated and control rats with resp
 
 mortality or neoplasia in a 96-week study of carbidopa at oral doses of 25, 45, or 135
 
-mg/kg/day.Combinations of carbidopa and levodopa (10-20, 10-50, 10-100 mg/kg/day) were
+mg/kg/day.
+Combinations of carbidopa and levodopa (10-20, 10-50, 10-100 mg/kg/day) were
 
 given orally to rats for 106 weeks.
 No effect on mortality or incidence and type of neoplasia
@@ -352,8 +347,6 @@ The highest dose caused a moderate decrease in body weight gain in males.
 The administration of carbidopa-levodopa at dose levels of 10-20, 10-50, or 10-100 mg/kg/day did not adversely affect the fertility of male or female rats, their reproductive performance, or the growth and survival of the young.
 
 ## Pregnancy
-
-### Pregnancy Category C
 
 There are no adequate and well-controlled studies with LODOSYN in pregnant women.
 It has been reported from individual cases that levodopa crosses the human placental barrier, enters the fetus, and is metabolized.

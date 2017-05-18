@@ -25,11 +25,11 @@ vomiting when the dosage of carbidopa is less than 70 mg a day, and the dosage o
 
 is less than 700 mg a day.
 When these patients are taking carbidopa-levodopa, 25 mg of LODOSYN may be given with the first dose of carbidopa-levodopa each day.
-Additional doses of 12.5 mg or 25 mg may be given during the day with each dose of carbidopalevodopa.
-LODOSYN may be given with any dose carbidopa-levodopa as required for optimum therapeutic response.
+Additional doses of 12.5 mg or 25 mg may be given during the day with each dose of carbidopa-levodopa.
+LODOSYN may be given with any dose of carbidopa-levodopa as required for optimum therapeutic response.
 The maximum daily dosage of carbidopa, given as LODOSYN
 
-and as carbidopa- levodopa), should not exceed 200 mg.
+and as carbidopa-levodopa, should not exceed 200 mg.
 
 ## Patients Requiring Individual Titration of Carbidopa and Levodopa Dosage
 
@@ -45,12 +45,12 @@ The two drugs should be given at the same time,
 
 starting with no more than one-fifth (20%) to one-fourth (25%) of the previous or
 
-recommended daily dosage of levodopa when given without LODOSYN (Carbidopa).
+recommended daily dosage of levodopa when given without LODOSYN (carbidopa).
 In
 
 patients already receiving levodopa therapy, at least twelve hours should elapse between
 
-the last dose of levodopa and initiation of therapy with LODOSYN (Carbidopa) and
+the last dose of levodopa and initiation of therapy with LODOSYN (carbidopa) and
 
 levodopa.
 A convenient way to initiate therapy in these patients is in the morning
@@ -78,12 +78,12 @@ may require adjustment.
 
 Sporadic cases of hyperpyrexia and confusion have been associated with dose reductions and
 
-withdrawal of carbidopa-Levodopa) or carbidopa-levodopa Extended Release.
+withdrawal of carbidopa-levodopa) or carbidopa-levodopa extended release.
 Patients should
 
 be observed carefully if abrupt reduction or discontinuation of carbidopa-levodopa or
 
-carbidopa-levodopa Extended-Release is required, especially if the patient is receiving
+carbidopa-levodopa extended release is required, especially if the patient is receiving
 
 neuroleptics.
 (See WARNINGS.)

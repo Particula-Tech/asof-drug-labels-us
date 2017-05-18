@@ -14,7 +14,7 @@ carbidopa.
 
 LODOSYN is for use with levodopa in the occasional patient whose dosage requirement of
 
-carbidopa and levodopa necessitates separate titration of each medication
+carbidopa and levodopa necessitates separate titration of each medication.
 
 LODOSYN is used with carbidopa-levodopa or with levodopa to permit the administration
 

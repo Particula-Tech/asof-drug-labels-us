@@ -32,7 +32,7 @@ Carbidopa reduces the amount of levodopa required to produce a given response by
 
 In clinical pharmacologic studies, simultaneous administration of separate tablets of carbidopa and levodopa produced greater urinary excretion of levodopa in proportion to the excretion of dopamine when compared to the two drugs administered at separate times.
 
-Supplemental pyridoxine (vitamin B6) can be given to patients when they are receiving carbidopa and levodopa concomitantly or the fixed combination carbidopa-levodopa or carbidopa-levodopa extended release.
+Supplemental pyridoxine (vitamin B6) can be given to patients when they are receiving LODOSYN and levodopa concomitantly or the fixed combination carbidopa-levodopa or carbidopa-levodopa extended release.
 Previous reports in the medical literature cautioned that high doses of vitamin B6 should not be taken by patients on levodopa therapy alone because exogenously administered pyridoxine would enhance the metabolism of levodopa to dopamine.
 The introduction of carbidopa to levodopa therapy, which inhibits the peripheral decarboxylation of levodopa to dopamine, counteracts the metabolic-enhancing effect of pyridoxine.
 
