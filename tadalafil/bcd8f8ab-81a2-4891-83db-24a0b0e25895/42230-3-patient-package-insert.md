@@ -226,7 +226,7 @@ Priapism must be treated as soon as possible or lasting damage can happen to you
 Color vision changes, such as seeing a blue tinge (shade) to objects or having difficulty telling the difference between the colors blue and green.
 
 In rare instances, men taking PDE5 inhibitors (oral erectile dysfunction medicines, including CIALIS) reported a sudden decrease or loss of vision in one or both eyes.
-It is not possible to determine whether these events are related directly to these medicines, to other factors such as high blood pressure or diabetes, or to a combination of these.
+It is uncertain whether PDE5 inhibitors directly cause the vision loss.
 If you experience sudden decrease or loss of vision, stop taking PDE5 inhibitors, including CIALIS, and call a healthcare provider right away.
 
 Sudden loss or decrease in hearing, sometimes with ringing in the ears and dizziness, has been rarely reported in people taking PDE5 inhibitors, including CIALIS.
@@ -269,13 +269,13 @@ CIALIS® (tadalafil) is a registered trademark of Eli Lilly and Company.
 *The brands listed are trademarks of their respective owners and are not trademarks of Eli Lilly and Company.
 The makers of these brands are not affiliated with and do not endorse Eli Lilly and Company or its products.
 
-Revision Date 09/2015
+Revision Date: 05/2017
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 www.cialis.com
 
-Copyright © 2003, 2015, Eli Lilly and Company.
+Copyright © 2003, 2017, Eli Lilly and Company.
 All rights reserved.
 
-CLS-0001-PPI-20150916
+CLS-0002-PPI-20170505

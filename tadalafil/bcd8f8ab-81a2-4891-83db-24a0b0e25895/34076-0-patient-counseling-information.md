@@ -41,7 +41,6 @@ Physicians should advise patients who have an erection lasting greater than 4 ho
 
 Physicians should advise patients to stop use of all PDE5 inhibitors, including CIALIS, and seek medical attention in the event of a sudden loss of vision in one or both eyes.
 Such an event may be a sign of non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision, including possible permanent loss of vision, that has been reported rarely postmarketing in temporal association with the use of all PDE5 inhibitors.
-It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors.
 Physicians should discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye.
 Physicians should also discuss with patients the increased risk of NAION among the general population in patients with a "crowded" optic disc, although evidence is insufficient to support screening of prospective users of PDE5 inhibitors, including CIALIS, for this uncommon condition [see Warnings and Precautions (5.4) and Adverse Reactions (6.2)].
 
@@ -74,13 +73,13 @@ Cialis is effective at improving erectile function over the course of therapy.
 
 For CIALIS for once daily use in men with BPH, patients should be instructed to take one tablet at approximately the same time every day.
 
-Revision Date: 4/2016
+Revision Date: 05/2017
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 www.cialis.com
 
-Copyright © 2003, 2016, Eli Lilly and Company.
+Copyright © 2003, 2017, Eli Lilly and Company.
 All rights reserved.
 
-CLS-0002-USPI-20160422
+CLS-0003-USPI-20170505

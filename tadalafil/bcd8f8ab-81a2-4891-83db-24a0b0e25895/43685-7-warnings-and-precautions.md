@@ -48,9 +48,13 @@ CIALIS should be used with caution in patients who have conditions that might pr
 Physicians should advise patients to stop use of all phosphodiesterase type 5 (PDE5) inhibitors, including CIALIS, and seek medical attention in the event of a sudden loss of vision in one or both eyes.
 Such an event may be a sign of non-arteritic anterior ischemic optic neuropathy (NAION), a rare condition and a cause of decreased vision, including permanent loss of vision, that has been reported rarely postmarketing in temporal association with the use of all PDE5 inhibitors.
 Based on published literature, the annual incidence of NAION is 2.5-11.8 cases per 100,000 in males aged ≥50.
-An observational study evaluated whether recent use of PDE5 inhibitors, as a class, was associated with acute onset of NAION.
-The results suggest an approximate 2-fold increase in the risk of NAION within 5 half-lives of PDE5 inhibitor use.
-From this information, it is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or other factors [see Adverse Reactions (6.2)].
+
+An observational case-crossover study evaluated the risk of NAION when PDE5 inhibitor use, as a class, occurred immediately before NAION onset (within 5 half-lives), compared to PDE5 inhibitor use in a prior time period.
+The results suggest an approximate 2-fold increase in the risk of NAION, with a risk estimate of 2.15 (95% CI 1.06, 4.34).
+A similar study reported a consistent result, with a risk estimate of 2.27 (95% CI 0.99, 5.20).
+Other risk factors for NAION, such as the presence of "crowded" optic disc, may have contributed to the occurrence of NAION in these studies.
+
+Neither the rare postmarketing reports, nor the association of PDE5 inhibitor use and NAION in the observational studies, substantiate a causal relationship between PDE5 inhibitor use and NAION [see Adverse Reactions (6.2)].
 
 Physicians should consider whether their patients with underlying NAION risk factors could be adversely affected by use of PDE5 inhibitors.
 Individuals who have already experienced NAION are at increased risk of NAION recurrence.
