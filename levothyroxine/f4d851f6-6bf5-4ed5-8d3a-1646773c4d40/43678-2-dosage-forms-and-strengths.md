@@ -1,5 +1,18 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-TIROSINT Capsules: 13 mcg, 25 mcg, 50 mcg, 75 mcg, 88 mcg, 100 mcg, 112 mcg, 125 mcg, 137 mcg, 150 mcg.
+TIROSINT capsules are amber-colored, round/biconvex capsules, imprinted with a dosage strength specific letter on one side and containing a viscous amber-colored liquid and are available as follows:
 
-TIROSINT Capsules are amber-colored, round/biconvex capsules that contain a viscous amber-colored liquid.
+| Strength (mcg) | Imprint Code |
+| --- | --- |
+| 13 | A |
+| 25 | E |
+| 50 | G |
+| 75 | H |
+| 88 | J |
+| 100 | K |
+| 112 | M |
+| 125 | N |
+| 137 | P |
+| 150 | S |
+| 175 | U |
+| 200 | Y |

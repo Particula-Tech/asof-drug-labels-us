@@ -1,10 +1,10 @@
 Manufactured for Akrimax Pharmaceuticals, LLC by:
 
-IBSA Institut Biochimique SA 6903 Lugano Switzerland
+IBSA Institut Biochimique SA 6915 Pambio-Noranco Switzerland
 
 Distributed by:
 
 Akrimax Pharmaceuticals, LLC, Cranford, NJ07016 USA
 
-Version April 2012 FI/164 9004 Ed.
-IV/04.12 1047F003 Rev 04/12
+Version April 2017 FI/164 9004 Ed.
+V/04.17 1047F004 Rev 04/17

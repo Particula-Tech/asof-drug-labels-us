@@ -2,38 +2,70 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy category A. Levothyroxine should not be discontinued during pregnancy and hypothyroidism diagnosed during pregnancy should be promptly treated.
-Hypothyroidism during pregnancy is associated with a higher rate of complications, including spontaneous abortion, pre-eclampsia, stillbirth, and premature delivery.
-Maternal hypothyroidism may have an adverse effect on fetal and childhood growth and development.
+Risk Summary
 
-During pregnancy, serum thyroxine (T4) levels may decrease and serum thyrotropin-stimulating hormone (TSH) levels increase to values outside the normal range.
-Since elevations in serum TSH may occur as early as 4 weeks gestation, pregnant women taking TIROSINT should have their TSH measured during each trimester.
-An elevated serum TSH level should be corrected by an increase in the dose of TIROSINT.
-Since postpartum TSH levels are similar to preconception values, the TIROSINT dosage should return to the pre-pregnancy dose immediately after delivery.
-A serum TSH level should be obtained 6-8 weeks postpartum.
+Experience with levothyroxine use in pregnant women, including data from post-marketing studies, have not reported increased rates of major birth defects or miscarriages [see Data].
+There are risks to the mother and fetus associated with untreated hypothyroidism in pregnancy.
+Since thyroid-stimulating hormone (TSH) levels may increase during pregnancy, TSH should be monitored and TIROSINT dosage adjusted during pregnancy [see Clinical Considerations].
+There are no animal studies conducted with levothyroxine during pregnancy.
+TIROSINT should not be discontinued during pregnancy and hypothyroidism diagnosed during pregnancy should be promptly treated.
 
-Thyroid hormones cross the placental barrier to some extent as evidenced by levels in cord blood of athyreotic fetuses being approximately one-third maternal levels.
-Transfer of thyroid hormone from the mother to the fetus, however, may not be adequate to prevent in utero hypothyroidism.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-## 8.3 Nursing Mothers
+Clinical Considerations
 
-Thyroid hormones are excreted only minimally in human milk.
-Adequate replacement doses of levothyroxine are generally needed to maintain normal lactation.
+Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+Maternal hypothyroidism during pregnancy is associated with a higher rate of complications, including spontaneous abortion, gestational hypertension, pre-eclampsia, stillbirth, and premature delivery.
+Untreated maternal hypothyroidism may have an adverse effect on fetal neurocognitive development.
+
+Dose Adjustments During Pregnancy and the Postpartum Period
+
+Pregnancy may increase TIROSINT requirements.
+Serum TSH level should be monitored and the TIROSINT dosage adjusted during pregnancy.
+Since postpartum TSH levels are similar to preconception values, the TIROSINT dosage should return to the pre-pregnancy dose immediately after delivery[see Dosage and Administration (2.3)].
+
+Data
+
+Human Data
+
+Levothyroxine is approved for use as a replacement therapy for hypothyroidism.
+There is a long experience of levothyroxine use in pregnant women, including data from post-marketing studies that have not reported increased rates of fetal malformations, miscarriages or other adverse maternal or fetal outcomes associated with levothyroxine use in pregnant women.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Limited published studies report that levothyroxine is present in human milk.
+However, there is insufficient information to determine the effects of levothyroxine on the breastfed infant and no available information on the effects of levothyroxine on milk production.
+Adequate levothyroxine treatment during lactation may normalize milk production in hypothyroid lactating mothers.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for TIROSINT and any potential adverse effects on the breastfed infant from TIROSINT or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The goal of treatment in pediatric patients with hypothyroidism is to achieve and maintain normal intellectual and physical growth and development.
+TIROSINT is indicated for use in pediatric patients 6 years and older.
+The initial dose of TIROSINT varies with age and body weight.
+Dosing adjustments are based on an assessment of the individual patient's clinical and laboratory parameters [see Dosage and Administration (2.3, 2.4)]
 
-The initial dose of levothyroxine varies with age and body weight [See Dosage and Administration (2.2)].
-Dosing adjustments are based on an assessment of the individual patient's clinical and laboratory parameters [See Warnings and Precautions (5.1)]
+In children in whom a diagnosis of permanent hypothyroidism has not been established, discontinue TIROSINT administration for a trial period.
+Obtain serum T4 and TSH levels at the end of the trial period, and use laboratory test results and clinical assessments to guide diagnosis and treatment, if warranted.
 
-In children in whom a diagnosis of permanent hypothyroidism has not been established, it is recommended that at an appropriate age levothyroxine be discontinued for a trial period.
-Serum T4 and TSH levels should be obtained at the end of the trial period, and laboratory test results and clinical assessments should then guide diagnosis and treatment, if warranted.
+Congenital Hypothyroidism [see Dosage and Administration (2.3, 2.4)]
 
 Rapid restoration of normal serum T4 concentrations is essential for preventing the adverse effects of congenital hypothyroidism on intellectual development as well as on overall physical growth and maturation.
-Therefore, levothyroxine therapy should be initiated immediately upon diagnosis and is generally continued for life.
+Therefore, initiate levothyroxine therapy immediately upon diagnosis.
+Levothyroxine is generally continued for life in these patients.
 
-The patient should be monitored closely to avoid undertreatment and overtreatment.
+Closely monitor children during the first two weeks of TIROSINT therapy for cardiac overload and arrhythmias.
+
+Closely monitor patients to avoid undertreatment and overtreatment.
+Undertreatment may have deleterious effects on intellectual development and linear growth.
+Overtreatment may adversely affect the tempo of brain maturation and accelerate the bone age with resultant premature closure of the epiphyses and compromised adult stature.
+
+Acquired Hypothyroidism in Pediatric Patients
+
+Closely monitor patients to avoid undertreatment and overtreatment.
 Undertreatment may result in poor school performance due to impaired concentration and slowed mentation and in reduced adult height.
 Overtreatment may accelerate the bone age and result in premature epiphyseal closure and compromised adult stature.
 
@@ -42,5 +74,6 @@ In children with severe or prolonged hypothyroidism, catch-up growth may not be 
 
 ## 8.5 Geriatric Use
 
-Because of the increased prevalence of cardiovascular disease among the elderly, levothyroxine therapy should not be initiated at the full replacement dose.
-Atrial fibrillation is a common side effect associated with levothyroxine treatment in the elderly [See Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+Because of the increased prevalence of cardiovascular disease among the elderly, initiate TIROSINT therapy at less than the full replacement dose [see Warnings and Precautions (5.1) and Dosage and Administration (2.3)].
+Atrial arrhythmias can occur in elderly patients.
+Atrial fibrillation is the most common of the arrhythmias observed with levothyroxine overtreatment in the elderly.

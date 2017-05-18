@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 13 mcg Carton
+# PRINCIPAL DISPLAY PANEL - 13 mcg Capsule Blister Pack Carton
 
 TIROSINT® (levothyroxine sodium) capsules
 
@@ -12,9 +12,9 @@ Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
-4 blisters × 7 capsules
+4 blisters x 7 capsules
 
-PRINCIPAL DISPLAY PANEL - 25 mcg Carton
+# PRINCIPAL DISPLAY PANEL - 25 mcg Capsule Blister Pack Carton
 
 TIROSINT® (levothyroxine sodium) capsules
 
@@ -28,9 +28,9 @@ Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
-4 blisters × 7 capsules
+4 blisters x 7 capsules
 
-PRINCIPAL DISPLAY PANEL - 50 mcg Carton
+# PRINCIPAL DISPLAY PANEL - 50 mcg Capsule Blister Pack Carton
 
 TIROSINT® (levothyroxine sodium) capsules
 
@@ -44,9 +44,9 @@ Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
-4 blisters × 7 capsules
+4 blisters x 7 capsules
 
-PRINCIPAL DISPLAY PANEL - 75 mcg Carton
+# PRINCIPAL DISPLAY PANEL - 75 mcg Capsule Blister Pack Carton
 
 TIROSINT® (levothyroxine sodium) capsules
 
@@ -60,9 +60,9 @@ Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
-4 blisters × 7 capsules
+4 blisters x 7 capsules
 
-PRINCIPAL DISPLAY PANEL - 88 mcg Carton
+# PRINCIPAL DISPLAY PANEL - 88 mcg Capsule Blister Pack Carton
 
 TIROSINT® (levothyroxine sodium) capsules
 
@@ -76,9 +76,9 @@ Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
-4 blisters × 7 capsules
+4 blisters x 7 capsules
 
-PRINCIPAL DISPLAY PANEL - 100 mcg Carton
+# PRINCIPAL DISPLAY PANEL - 100 mcg Capsule Blister Pack Carton
 
 TIROSINT® (levothyroxine sodium) capsules
 
@@ -92,9 +92,9 @@ Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
-4 blisters × 7 capsules
+4 blisters x 7 capsules
 
-PRINCIPAL DISPLAY PANEL - 112 mcg Carton
+# PRINCIPAL DISPLAY PANEL - 112 mcg Capsule Blister Pack Carton
 
 TIROSINT® (levothyroxine sodium) capsules
 
@@ -108,9 +108,9 @@ Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
-4 blisters × 7 capsules
+4 blisters x 7 capsules
 
-PRINCIPAL DISPLAY PANEL - 125 mcg Carton
+# PRINCIPAL DISPLAY PANEL - 125 mcg Capsule Blister Pack Carton
 
 TIROSINT® (levothyroxine sodium) capsules
 
@@ -124,9 +124,9 @@ Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
-4 blisters × 7 capsules
+4 blisters x 7 capsules
 
-PRINCIPAL DISPLAY PANEL - 137 mcg Carton
+# PRINCIPAL DISPLAY PANEL - 137 mcg Capsule Blister Pack Carton
 
 TIROSINT® (levothyroxine sodium) capsules
 
@@ -140,9 +140,9 @@ Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
-4 blisters × 7 capsules
+4 blisters x 7 capsules
 
-PRINCIPAL DISPLAY PANEL - 150 mcg Carton
+# PRINCIPAL DISPLAY PANEL - 150 mcg Capsule Blister Pack Carton
 
 TIROSINT® (levothyroxine sodium) capsules
 
@@ -156,4 +156,36 @@ Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
-4 blisters × 7 capsules
+4 blisters x 7 capsules
+
+# PRINCIPAL DISPLAY PANEL - 175 mcg Capsule Blister Pack Carton
+
+TIROSINT® (levothyroxine sodium) capsules
+
+NDC 24090-500-84
+
+175 mcg per capsule
+
+Rx Only
+
+Do not remove individual capsules from blister packaging until ready to use
+
+AKRIMAX PHARMACEUTICALS
+
+4 blisters x 7 capsules
+
+# PRINCIPAL DISPLAY PANEL - 200 mcg Capsule Blister Pack Carton
+
+TIROSINT® (levothyroxine sodium) capsules
+
+NDC 24090-501-84
+
+200 mcg per capsule
+
+Rx Only
+
+Do not remove individual capsules from blister packaging until ready to use
+
+AKRIMAX PHARMACEUTICALS
+
+4 blisters x 7 capsules

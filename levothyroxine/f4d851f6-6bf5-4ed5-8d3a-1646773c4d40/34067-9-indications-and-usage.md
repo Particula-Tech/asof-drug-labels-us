@@ -1,11 +1,14 @@
 # 1 INDICATION AND USAGE
 
-## 1.1 Hypothyroidism
+Hypothyroidism
 
-TIROSINT is indicated as a replacement or supplemental therapy in congenital or acquired hypothyroidism of any etiology, except transient hypothyroidism during the recovery phase of subacute thyroiditis.
-Specific indications include: primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) hypothyroidism.
-Primary hypothyroidism may result from functional deficiency, primary atrophy, partial or total congenital absence of the thyroid gland, or from the effects of surgery, radiation, or drugs, with or without the presence of goiter.
+TIROSINT is indicated as a replacement therapy in adults and pediatric patients 6 years and older with primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) congenital or acquired hypothyroidism.
 
-## 1.2 Pituitary Thyrotropin-Stimulating Hormone (TSH) Suppression
+Pituitary Thyrotropin (Thyroid-Stimulating Hormone, TSH) Suppression
 
-TIROSINT is indicated as an adjunct to surgery and radioiodine therapy in the management of thyrotropin- dependent well-differentiated thyroid cancer.
+TIROSINT is indicated as an adjunct to surgery and radioiodine therapy in the management of adults and pediatric patients 6 years and older with thyrotropin-dependent well-differentiated thyroid cancer.
+
+Limitations of Use:
+
+- TIROSINT is not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients as there are no clinical benefits and overtreatment with TIROSINT may induce hyperthyroidism [see Warnings and Precautions (5.4)].
+- TIROSINT is not indicated for treatment of transient hypothyroidism during the recovery phase of subacute thyroiditis.
