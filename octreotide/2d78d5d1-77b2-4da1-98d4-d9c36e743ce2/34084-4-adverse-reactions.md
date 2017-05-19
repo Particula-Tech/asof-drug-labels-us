@@ -13,7 +13,7 @@ In acromegalics, sinus bradycardia (< 50 bpm) developed in 25%; conduction abnor
 Diarrhea, loose stools, nausea and abdominal discomfort were each seen in 34% to 61% of acromegalic patients in U.S. studies although only 2.6% of the patients discontinued therapy due to these symptoms.
 These symptoms were seen in 5% to 10% of patients with other disorders.
 
-The frequency of these symptoms was not dose related, but diarrhea and abdominal discomfort generally resolved more quickly in patients treated with 300 mcg/day than in those treated with 750 mcg/day.
+The frequency of these symptoms was not dose-related, but diarrhea and abdominal discomfort generally resolved more quickly in patients treated with 300 mcg/day than in those treated with 750 mcg/day.
 Vomiting, flatulence, abnormal stools, abdominal distension, and constipation were each seen in less than 10% of patients.
 
 In rare instances, gastrointestinal side effects may resemble acute intestinal obstruction, with progressive abdominal distension, severe epigastric pain, abdominal tenderness and guarding.
@@ -65,7 +65,7 @@ Evaluation of 20 patients treated for at least 6 months has failed to demonstrat
 However, antibody titers to octreotide acetate were subsequently reported in three patients and resulted in prolonged duration of drug action in two patients.
 Anaphylactoid reactions, including anaphylactic shock, have been reported in several patients receiving octreotide acetate.
 
-## Post-Marketing Experience
+## Postmarketing Experience
 
 The following adverse reactions have been identified during the postapproval use of octreotide acetate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

@@ -2,9 +2,7 @@
 
 NDC 67457-239-01
 
-Octreotide Acetate Injection
-
-50 mcg (base)/mL
+Octreotide Acetate Injection 50 mcg/mL
 
 Needle shield may contain latex
 
@@ -36,15 +34,13 @@ Made in Italy
 
 Mylan.com
 
-MI:239:10C:R3
+MI:239:10C:R4
 
 # PRINCIPAL DISPLAY PANEL - 100 mcg
 
 NDC 67457-245-01
 
-Octreotide Acetate Injection
-
-100 mcg (base)/mL
+Octreotide Acetate Injection 100 mcg/mL
 
 Needle shield may contain latex
 
@@ -76,7 +72,7 @@ Made in Italy
 
 Mylan.com
 
-MI:245:10C:R3
+MI:245:10C:R4
 
 # PRINCIPAL DISPLAY PANEL - 500 mcg
 
@@ -84,7 +80,7 @@ NDC 67457-246-01
 
 Octreotide Acetate Injection
 
-500 mcg (base)/mL
+500 mcg/mL
 
 Needle shield may contain latex
 
@@ -116,4 +112,4 @@ Made in Italy
 
 Mylan.com
 
-MI:246:10C:R3
+MI:246:10C:R4

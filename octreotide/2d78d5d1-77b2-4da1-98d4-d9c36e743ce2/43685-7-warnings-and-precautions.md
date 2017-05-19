@@ -3,7 +3,7 @@
 Single doses of octreotide acetate have been shown to inhibit gallbladder contractility and decrease bile secretion in normal volunteers.
 In clinical trials (primarily patients with acromegaly or psoriasis), the incidence of biliary tract abnormalities was 63% (27% gallstones, 24% sludge without stones, 12% biliary duct dilatation).
 The incidence of stones or sludge in patients who received octreotide acetate for 12 months or longer was 52%.
-Less than 2% of patients treated with octreotide acetate for one month or less developed gallstones.
+Less than 2% of patients treated with octreotide acetate for 1 month or less developed gallstones.
 The incidence of gallstones did not appear related to age, sex or dose.
 Like patients without gallbladder abnormalities, the majority of patients developing gallbladder abnormalities on ultrasound had gastrointestinal symptoms.
 The symptoms were not specific for gallbladder disease.
@@ -86,32 +86,30 @@ Since it cannot be excluded that octreotide may have this effect, other drugs ma
 
 No known interference exists with clinical laboratory tests, including amine or peptide determinations.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis/Mutagenesis/Impairment of Fertility
 
 Studies in laboratory animals have demonstrated no mutagenic potential of octreotide acetate.
 
-No carcinogenic potential was demonstrated in mice treated subcutaneously for 85 to 99 weeks at doses up to 2000 mcg/kg/day (8x the human exposure based on body surface area).
-In a 116-week subcutaneous study in rats, a 27% and 12% incidence of injection site sarcomas or squamous cell carcinomas was observed in males and females, respectively, at the highest dose level of 1250 mcg/kg/day (10x the human exposure based on body surface area) compared to an incidence of 8% to 10% in the vehicle control groups.
+No carcinogenic potential was demonstrated in mice treated subcutaneously for 85 to 99 weeks at doses up to 2,000 mcg/kg/day (8x the human exposure based on body surface area).
+In a 116-week subcutaneous study in rats, a 27% and 12% incidence of injection site sarcomas or squamous cell carcinomas was observed in males and females, respectively, at the highest dose level of 1,250 mcg/kg/day (10x the human exposure based on body surface area) compared to an incidence of 8% to 10% in the vehicle control groups.
 The increased incidence of injection site tumors was most probably caused by irritation and the high sensitivity of the rat to repeated subcutaneous injections at the same site.
 Rotating injection sites would prevent chronic irritation in humans.
 There have been no reports of injection site tumors in patients treated with octreotide acetate for up to 5 years.
-There was also a 15% incidence of uterine adenocarcinomas in the 1250 mcg/kg/day females compared to 7% in the saline control females and 0% in the vehicle control females.
+There was also a 15% incidence of uterine adenocarcinomas in the 1,250 mcg/kg/day females compared to 7% in the saline-control females and 0% in the vehicle-control females.
 The presence of endometritis coupled with the absence of corpora lutea, the reduction in mammary fibroadenomas, and the presence of uterine dilatation suggest that the uterine tumors were associated with estrogen dominance in the aged female rats which does not occur in humans.
 
-Octreotide acetate did not impair fertility in rats at doses up to 1000 mcg/kg/day, which represents 7x the human exposure based on body surface area.
+Octreotide acetate did not impair fertility in rats at doses up to 1,000 mcg/kg/day, which represents 7x the human exposure based on body surface area.
 
 ## Pregnancy
 
-### Teratogenic Effects
+### Teratogenic Effects. Pregnancy Category B
 
-#### Pregnancy Category B
-
-There are no adequate and well controlled studies of octreotide use in pregnant women.
+There are no adequate and well-controlled studies of octreotide use in pregnant women.
 Reproduction studies have been performed in rats and rabbits at doses up to 16 times the highest recommended human dose based on body surface area and revealed no evidence of harm to the fetus due to octreotide.
 However, because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-In post-marketing data, a limited number of exposed pregnancies have been reported in patients with acromegaly.
-Most women were exposed to octreotide during the first trimester of pregnancy at doses ranging from 100 to 300 mcg/day of octreotide acetate injection subcutaneously or 20 to 30 mg/month of octreotide acetate for injectable suspension, however some women elected to continue octreotide therapy throughout pregnancy.
+In postmarketing data, a limited number of exposed pregnancies have been reported in patients with acromegaly.
+Most women were exposed to octreotide during the first trimester of pregnancy at doses ranging from 100 mcg/day to 300 mcg/day of octreotide acetate injection subcutaneously or 20 mg/month to 30 mg/month of octreotide acetate for injectable suspension, however some women elected to continue octreotide therapy throughout pregnancy.
 In cases with a known outcome, no congenital malformations were reported.
 
 ## Nursing Mothers
@@ -127,9 +125,9 @@ No formal controlled clinical trials have been performed to evaluate the safety 
 In post-marketing reports, serious adverse events, including hypoxia, necrotizing enterocolitis, and death, have been reported with octreotide acetate use in children, most notably in children under 2 years of age.
 The relationship of these events to octreotide has not been established as the majority of these pediatric patients had serious underlying co-morbid conditions.
 
-The efficacy and safety of octreotide using the octreotide acetate for injectable suspension formulation was examined in a single randomized, double-blind, placebo-controlled, 6-month, pharmacokinetics study in 60 pediatric patients age 6 to 17 years with hypothalamic obesity resulting from cranial insult.
-The mean octreotide concentration after six doses of 40 mg octreotide acetate for injectable suspension administered by intramuscular injection every 4 weeks was approximately 3 ng/mL.
-Steady-state concentrations were achieved after three injections of a 40 mg dose.
+The efficacy and safety of octreotide using the octreotide acetate for injectable suspension formulation was examined in a single randomized, double-blind, placebo-controlled, six-month, pharmacokinetics study in 60 pediatric patients age 6 to 17 years with hypothalamic obesity resulting from cranial insult.
+The mean octreotide concentration after 6 doses of 40 mg octreotide acetate for injectable suspension administered by intramuscular injection every four weeks was approximately 3 ng/mL.
+Steady-state concentrations were achieved after 3 injections of a 40 mg dose.
 Mean BMI increased 0.1 kg/m2 in octreotide acetate for injectable suspension treated subjects compared to 0.0 kg/m2 in saline control-treated subjects.
 Efficacy was not demonstrated.
 Diarrhea occurred in 11 of 30 (37%) patients treated with octreotide acetate for injectable suspension.
@@ -138,6 +136,6 @@ However, with octreotide acetate for injectable suspension 40 mg once a month, t
 
 ## Geriatric Use
 
-Clinical studies of octreotide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of octreotide acetate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

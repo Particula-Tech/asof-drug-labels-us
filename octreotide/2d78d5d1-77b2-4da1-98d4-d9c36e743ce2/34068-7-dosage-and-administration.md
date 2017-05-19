@@ -28,18 +28,18 @@ Alternatively, multiple growth hormone levels at 0 to 8 hours after octreotide a
 The goal is to achieve growth hormone levels less than 5 ng/mL or IGF-I (somatomedin C) levels less than 1.9 U/mL in males and less than 2.2 U/mL in females.
 The dose most commonly found to be effective is 100 mcg t.i.d., but some patients require up to 500 mcg t.i.d. for maximum effectiveness.
 Doses greater than 300 mcg/day seldom result in additional biochemical benefit, and if an increase in dose fails to provide additional benefit, the dose should be reduced.
-IGF-I (somatomedin C) or growth hormone levels should be reevaluated at 6 month intervals.
+IGF-I (somatomedin C) or growth hormone levels should be re-evaluated at 6-month intervals.
 
 Octreotide acetate should be withdrawn yearly for approximately 4 weeks from patients who have received irradiation to assess disease activity.
 If growth hormone or IGF-I (somatomedin C) levels increase and signs and symptoms recur, octreotide acetate therapy may be resumed.
 
 ## Carcinoid Tumors
 
-The suggested daily dosage of octreotide acetate during the first 2 weeks of therapy ranges from 100 to 600 mcg/day in 2 to 4 divided doses (mean daily dosage is 300 mcg).
-In the clinical studies, the median daily maintenance dosage was approximately 450 mcg, but clinical and biochemical benefits were obtained in some patients with as little as 50 mcg, while others required doses up to 1500 mcg/day.
+The suggested daily dosage of octreotide acetate during the first 2 weeks of therapy ranges from 100 mcg/day to 600 mcg/day in 2 to 4 divided doses (mean daily dosage is 300 mcg).
+In the clinical studies, the median daily maintenance dosage was approximately 450 mcg, but clinical and biochemical benefits were obtained in some patients with as little as 50 mcg, while others required doses up to 1,500 mcg/day.
 However, experience with doses above 750 mcg/day is limited.
 
 ## VIPomas
 
-Daily dosages of 200 to 300 mcg in 2 to 4 divided doses are recommended during the initial 2 weeks of therapy (range 150 to 750 mcg) to control symptoms of the disease.
+Daily dosages of 200 mcg to 300 mcg in 2 to 4 divided doses are recommended during the initial 2 weeks of therapy (range 150 mcg to 750 mcg) to control symptoms of the disease.
 On an individual basis, dosage may be adjusted to achieve a therapeutic response, but usually doses above 450 mcg/day are not required.
