@@ -9,7 +9,7 @@ In syngeneic mouse tumor models, blocking PD-1 activity resulted in decreased tu
 
 ## 12.2 Pharmacodynamics
 
-Based on dose/exposure efficacy and safety relationships, there are no clinically significant differences in efficacy and safety between pembrolizumab doses of 200 mg or 2 mg/kg every 3 weeks in patients with NSCLC.
+Based on dose/exposure efficacy and safety relationships, there are no clinically significant differences in efficacy and safety between pembrolizumab doses of 200 mg or 2 mg/kg every 3 weeks in patients with melanoma or NSCLC.
 
 ## 12.3 Pharmacokinetics
 

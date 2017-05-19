@@ -7,7 +7,7 @@ Information on FDA-approved tests for the detection of PD-L1 expression in NSCLC
 
 ## 2.2 Recommended Dosage for Melanoma
 
-The recommended dose of KEYTRUDA is 2 mg/kg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity [see Clinical Studies (14.1)].
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity [see Clinical Studies (14.1)].
 
 ## 2.3 Recommended Dosage for NSCLC
 

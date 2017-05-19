@@ -8,7 +8,7 @@ The safety and efficacy of KEYTRUDA were evaluated in Study KEYNOTE-006 (NCT0186
 Patients were randomized to receive KEYTRUDA at a dose of 10 mg/kg every 2 weeks or 10mg/kg every 3 weeks as an intravenous infusion until disease progression or unacceptable toxicity or to ipilimumab 3 mg/kg every 3 weeks as an intravenous infusion for 4 doses unless discontinued earlier for disease progression or unacceptable toxicity.
 Patients with disease progression could receive additional doses of treatment unless disease progression was symptomatic, was rapidly progressive, required urgent intervention, occurred with a decline in performance status, or was confirmed at 4 to 6 weeks with repeat imaging.
 Randomization was stratified by line of therapy (0 vs. 1), ECOG PS (0 vs. 1), and PD-L1 expression (≥1% of tumor cells [positive] vs. <1% of tumor cells [negative]) according to an investigational use only (IUO) assay.
-Key eligibility criteria were unresectable or metastatic melanoma with progression of disease; no prior ipilimumab; and no more than one prior systemic treatment for metastatic melanoma.
+Key eligibility criteria were unresectable or metastatic melanoma; no prior ipilimumab; and no more than one prior systemic treatment for metastatic melanoma.
 Patients with BRAF V600E mutation-positive melanoma were not required to have received prior BRAF inhibitor therapy.
 Patients with autoimmune disease; a medical condition that required immunosuppression; previous severe hypersensitivity to other monoclonal antibodies; and HIV, hepatitis B or hepatitis C infection, were ineligible.
 Assessment of tumor status was performed at 12 weeks, then every 6 weeks through Week 48, followed by every 12 weeks thereafter.
@@ -42,7 +42,7 @@ Table 11: Efficacy Results in KEYNOTE-006
 Among the 91 patients randomized to KEYTRUDA 10 mg/kg every 3 weeks with an objective response, response durations ranged from 1.4+ to 8.1+ months.
 Among the 94 patients randomized to KEYTRUDA 10 mg/kg every 2 weeks with an objective response, response durations ranged from 1.4+ to 8.2 months.
 
-| Figure 1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-006 |  |
+| Figure 1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-006based on the final analysis with an additional follow-up of 9 months (total of 383 deaths as pre-specified in the protocol) |  |
 | --- | --- |
 
 Ipilimumab-Refractory Melanoma
@@ -64,7 +64,7 @@ Among the 540 randomized patients, the median age was 62 years (range: 15 to 89 
 Twenty-three percent of patients were BRAF V600 mutation positive, 40% had elevated LDH at baseline, 82% had M1c disease, and 73% had two or more prior therapies for advanced or metastatic disease.
 
 The study demonstrated a statistically significant improvement in PFS for patients randomized to KEYTRUDA as compared to control arm (Table 12).
-There was no statistically significant difference between KEYTRUDA 2 mg/kg and chemotherapy or between KEYTRUDA 10 mg/kg and chemotherapy in the interim OS analysis with 220 deaths (59% of required events for the final analysis).
+There was no statistically significant difference between KEYTRUDA 2 mg/kg and chemotherapy or between KEYTRUDA 10 mg/kg and chemotherapy in the OS analysis in which 55% of the patients who had been randomized to receive chemotherapy had crossed over to receive KEYTRUDA.
 
 Table 12: Efficacy Results in KEYNOTE-002
 
@@ -78,6 +78,11 @@ Table 12: Efficacy Results in KEYNOTE-002
 | Median in months (95% CI) | 2.9 (2.8, 3.8) | 2.9 (2.8, 4.7) | 2.7 (2.5, 2.8) |
 | P Value (stratified log-rank) | <0.001 | <0.001 | --- |
 | Hazard ratioHazard ratio (KEYTRUDA compared to chemotherapy) based on the stratified Cox proportional hazard model (95% CI) | 0.57 (0.45, 0.73) | 0.50 (0.39, 0.64) | --- |
+| Overall SurvivalWith additional follow-up of 18 months after the PFS analysis |  |  |  |
+| Deaths (%) | 123 (68%) | 117 (65%) | 128 (72%) |
+| Hazard ratio (95% CI) | 0.86 (0.67, 1.10) | 0.74 (0.57, 0.96) | --- |
+| p-Value (stratified log-rank) | 0.117 | 0.011Not statistically significant compared to multiplicity adjusted significance level of 0.01 | --- |
+| Median in months (95% CI) | 13.4 (11.0, 16.4) | 14.7 (11.3, 19.5) | 11.0 (8.9, 13.8) |
 | Objective Response Rate |  |  |  |
 | ORR (95% CI) | 21% (15, 28) | 25% (19, 32) | 4% (2, 9) |
 | Complete response rate | 2% | 3% | 0% |
@@ -154,9 +159,9 @@ Patients with autoimmune disease that required systemic therapy within 2 years o
 Randomization was stratified by PD-L1 tumor expression (TPS <1% vs. TPS ≥1%).
 Patients were randomized (1:1) to one of the following treatment arms:
 
-- KEYTRUDA 200 mg, pemetrexed 500 mg/m2, and carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21 day cycle for 4 cycles followed by KEYTRUDA 200 mg intravenously every 3 weeks.
+- KEYTRUDA 200 mg, pemetrexed 500 mg/m2, and carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles followed by KEYTRUDA 200 mg intravenously every 3 weeks.
   KEYTRUDA was administered prior to chemotherapy on Day 1.
-- Pemetrexed 500 mg/m2 and carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21 day cycle for 4 cycles.
+- Pemetrexed 500 mg/m2 and carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles.
 
 At the investigator's discretion, maintenance pemetrexed 500 mg/m2 every 3 weeks was permitted in both treatment arms.
 

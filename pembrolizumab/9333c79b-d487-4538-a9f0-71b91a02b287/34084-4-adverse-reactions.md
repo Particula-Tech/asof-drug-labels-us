@@ -34,14 +34,14 @@ The median duration of exposure was 5.6 months (range: 1 day to 11.0 months) for
 Fifty-one and 46% of patients received KEYTRUDA 10 mg/kg every 2 or 3 weeks, respectively, for ≥6 months.
 No patients in either arm received treatment for more than one year.
 
-The study population characteristics were: median age of 62 years (range: 18 to 89 years), 60% male, 98% White, 32% had an elevated lactate dehydrogenase (LDH) value at baseline, 65% had M1c stage disease, 9% with history of brain metastasis, and approximately 36% had been previously treated with one or more lines of systemic therapy which included a BRAF inhibitor (15%), chemotherapy (13%), and immunotherapy (6%).
+The study population characteristics were: median age of 62 years (range: 18 to 89 years), 60% male, 98% White, 32% had an elevated lactate dehydrogenase (LDH) value at baseline, 65% had M1c stage disease, 9% with history of brain metastasis, and approximately 36% had been previously treated with systemic therapy which included a BRAF inhibitor (15%), chemotherapy (13%), and immunotherapy (6%).
 
 In KEYNOTE-006, the adverse reaction profile was similar for the every 2 week and every 3 week schedule, therefore summary safety results are provided in a pooled analysis (n=555) of both KEYTRUDA arms.
 Adverse reactions leading to permanent discontinuation of KEYTRUDA occurred in 9% of patients.
 Adverse reactions leading to discontinuation of KEYTRUDA in more than one patient were colitis (1.4%), autoimmune hepatitis (0.7%), allergic reaction (0.4%), polyneuropathy (0.4%), and cardiac failure (0.4%).
 Adverse reactions leading to interruption of KEYTRUDA occurred in 21% of patients; the most common (≥1%) was diarrhea (2.5%).
 The most common adverse reactions (reported in at least 20% of patients) were fatigue and diarrhea.
-Table 1 and Table 2 summarize the incidence of selected adverse reactions and laboratory abnormalities, respectively, that occurred in at least 10% of patients receiving KEYTRUDA.
+Table 1 and Table 2 summarize the incidence of selected adverse reactions and laboratory abnormalities that occurred in patients receiving KEYTRUDA.
 
 Table 1: SelectedAdverse reactions occurring at same or higher incidence than in the ipilimumab arm Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA in KEYNOTE-006
 
