@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-MINOCIN® [my-no-sin] (minocycline hydrochloride) Pellet-Filled Capsules, 50 mg, 75 mg and 100 mg
+MINOCIN® [my-no-sin] (minocycline hydrochloride) Pellet-Filled Capsules, 50 mg and 100 mg
 
 Read the Patient Information that comes with MINOCIN® capsules before you or a family member starts taking it and each time you get a refill.
 There may be new information.
@@ -52,9 +52,9 @@ Especially tell your doctor if you take:
   The dose of your blood thinner may have to be lowered.
 - •a penicillin antibiotic medicine.
   MINOCIN and penicillins should not be used together.
-- •Migraine medicines called ergot alkaloids.
-- •An acne medicine called isotretinoin (Accutane, Amnesteem, Claravis, Sotret).
-- •Antacids that contain aluminum, calcium, or magnesium, or iron-containing products.
+- •migraine medicines called ergot alkaloids.
+- •an acne medicine called isotretinoin (Accutane, Amnesteem, Claravis, Sotret).
+- •antacids that contain aluminum, calcium, or magnesium, or iron-containing products.
 
 Know the medicines you take, keep a list of them to show your doctor and pharmacist each time you get a new medicine.
 
@@ -67,7 +67,7 @@ How should I take MINOCIN capsules?
 - •Take MINOCIN with a full glass of liquid.
   Taking MINOCIN with enough liquid may lower your chance of getting irritation or ulcers in your esophagus.
   Your esophagus is the tube that connects your mouth to your stomach.
-- •MINOCINcapsules may be taken with or without food.
+- •MINOCIN capsules may be taken with or without food.
   If you forget to take MINOCIN, take it as soon as you remember.
 - •If you take too much MINOCIN, call your doctor or poison control center right away.
 
@@ -126,10 +126,10 @@ For more information, you can also call Valeant Pharmaceuticals North America LL
 
 What are the ingredients in MINOCIN capsules?
 
-Active ingred1ient: minocycline hydrochloride, 50 mg, 75 mg and 100 mg
+Active ingredient: minocycline hydrochloride, 50 mg and 100 mg
 
 Inactive ingredients: Blue 1, gelatin, titanium dioxide and yellow 10.
-The 50 mg and 75 mg capsule shells also contain black and yellow iron oxides.
+The 50 mg capsule shell also contains black and yellow iron oxides.
 
 Manufactured for:
 
@@ -137,15 +137,11 @@ Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 By:
 
-Patheon Pharmaceuticals Inc., Cincinnati, OH 45237
+Patheon Pharmaceuticals Inc. Cincinnati, OH 45237 USA
 
 Minocin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-All other product/brand names are trademarks of their respective owners.
-
 ©Valeant Pharmaceuticals North America LLC
 
-Rev.
-11/2016
-
-9438601
+New p/n Rev.
+03/2017

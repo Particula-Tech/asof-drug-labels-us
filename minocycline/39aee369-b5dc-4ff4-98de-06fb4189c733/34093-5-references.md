@@ -16,13 +16,11 @@
 
 Manufactured for:
 
-Valeant Pharmaceuticals North America LLC
-
-Bridgewater, NJ 08807 USA
+Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 By:
 
-Patheon Pharmaceuticals Inc., Cincinnati, OH 45237
+Patheon Pharmaceuticals Inc. Cincinnati, OH 45237
 
 Minocin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
@@ -30,7 +28,4 @@ All other product/brand names are trademarks of their respective owners.
 
 ©Valeant Pharmaceuticals North America LLC
 
-Rev.
-11/2016
-
-9438601
+New p/n Rev.03/2017

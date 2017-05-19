@@ -7,4 +7,4 @@ Hepatotoxicity has been reported with minocycline; therefore, minocycline should
 
 Incision and drainage or other surgical procedures should be performed in conjunction with antibiotic therapy when indicated.
 
-Prescribing MINOCIN® (minocycline hydrochloride) Pellet-Filled Capsules in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing MINOCIN (minocycline hydrochloride) Pellet-Filled Capsules in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
