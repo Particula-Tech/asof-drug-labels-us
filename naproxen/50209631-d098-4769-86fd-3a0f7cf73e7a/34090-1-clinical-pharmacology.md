@@ -1,0 +1,97 @@
+# CLINICAL PHARMACOLOGY
+
+## Mechanism of Action
+
+Naproxen has analgesic and antipyretic properties.
+
+The mechanism of action of naproxen, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
+
+Naproxen is a potent inhibitor of prostaglandin synthesis in vitro.
+Naproxen concentrations reached during therapy have produced in vivo effects.
+Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models.
+Prostaglandins are mediators of inflammation.
+Because naproxen is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
+
+## Pharmacokinetics
+
+Naproxen is rapidly and completely absorbed from the gastrointestinal tract with an in vivo bioavailability of 95%.
+The elimination half-life of naproxen ranges from 12 to 17 hours.
+Steady-state levels of naproxen are reached in 4 to 5 days, and the degree of naproxen accumulation is consistent with this half-life.
+
+### Absorption
+
+Peak plasma levels of naproxen given as NAPROSYN Suspension are attained in 1 to 4 hours.
+
+When NAPROSYN Suspension and immediate release naproxen tablets were given to fasted subjects (n=12) in a single-dose, crossover study, there were comparable pharmacokinetic parameters between the two formulations.
+
+|  | NAPROSYN Suspension | Naproxen Tablets 500 mg |
+| --- | --- | --- |
+| Cmax (µg/mL) | 64.3 | 71.1 |
+| Tmax (hours) | 2.6 | 2.3 |
+| T1/2 (hours) | 16.8 | 16.3 |
+| AUC0–t (μg∙hr/mL) | 1249 | 1218 |
+
+### Distribution
+
+Naproxen has a volume of distribution of 0.16 L/kg.
+At therapeutic levels naproxen is greater than 99% albumin-bound.
+At doses of naproxen greater than 500 mg/day there is less than proportional increase in plasma levels due to an increase in clearance caused by saturation of plasma protein binding at higher doses (average trough Css 36.5, 49.2 and 56.4 mg/L with 500, 1000 and 1500 mg daily doses of naproxen, respectively).
+The naproxen anion has been found in the milk of lactating women at a concentration equivalent to approximately 1% of maximum naproxen concentration in plasma (see PRECAUTIONS; Nursing Mothers).
+
+### Elimination
+
+#### Metabolism
+
+Naproxen is extensively metabolized in the liver to 6-0-desmethyl naproxen, and both parent and metabolites do not induce metabolizing enzymes.
+Both naproxen and 6-0-desmethyl naproxen are further metabolized to their respective acylglucuronide conjugated metabolites.
+
+#### Excretion
+
+The clearance of naproxen is 0.13 mL/min/kg.
+Approximately 95% of the naproxen from any dose is excreted in the urine, primarily as naproxen (<1%), 6-0-desmethyl naproxen (<1%) or their conjugates (66% to 92%).
+The plasma half-life of the naproxen anion in humans ranges from 12 to 17 hours.
+The corresponding half-lives of both naproxen's metabolites and conjugates are shorter than 12 hours, and their rates of excretion have been found to coincide closely with the rate of naproxen disappearance from the plasma.
+Small amounts, 3% or less of the administered dose, are excreted in the feces.
+In patients with renal failure metabolites may accumulate (see WARNINGS; Renal Toxicity and Hyperkalemia).
+
+### Special Populations
+
+#### Pediatric Patients
+
+In pediatric patients aged 5 to 16 years with arthritis, plasma naproxen levels following a 5 mg/kg single dose of NAPROSYN Suspension (see DOSAGE AND ADMINISTRATION) were found to be similar to those found in normal adults following a 500 mg dose.
+The terminal half-life appears to be similar in pediatric and adult patients.
+Pharmacokinetic studies of naproxen were not performed in pediatric patients younger than 5 years of age.
+Pharmacokinetic parameters appear to be similar following administration of NAPROSYN Suspension or naproxen tablets in pediatric patients.
+
+#### Geriatric Patients
+
+Studies indicate that although total plasma concentration of naproxen is unchanged, the unbound plasma fraction of naproxen is increased in the elderly, although the unbound fraction is <1% of the total naproxen concentration.
+Unbound trough naproxen concentrations in elderly subjects have been reported to range from 0.12% to 0.19% of total naproxen concentration, compared with 0.05% to 0.075% in younger subjects.
+The clinical significance of this finding is unclear, although it is possible that the increase in free naproxen concentration could be associated with an increase in the rate of adverse events per a given dosage in some elderly patients.
+
+#### Race
+
+Pharmacokinetic differences due to race have not been studied.
+
+#### Hepatic Impairment
+
+Naproxen pharmacokinetics has not been determined in subjects with hepatic insufficiency.
+
+Chronic alcoholic liver disease and probably other diseases with decreased or abnormal plasma proteins (albumin) reduce the total plasma concentration of naproxen, but the plasma concentration of unbound naproxen is increased.
+Caution is advised when high doses are required and some adjustment of dosage may be required in these patients.
+It is prudent to use the lowest effective dose.
+
+#### Renal Impairment
+
+Naproxen pharmacokinetics has not been determined in subjects with renal insufficiency.
+Given that naproxen, its metabolites and conjugates are primarily excreted by the kidney, the potential exists for naproxen metabolites to accumulate in the presence of renal insufficiency.
+Elimination of naproxen is decreased in patients with severe renal impairment.
+Naproxen-containing products are not recommended for use in patients with moderate to severe and severe renal impairment (creatinine clearance <30 mL/min) (see WARNINGS; Renal Toxicity and Hyperkalemia).
+
+#### Drug Interaction Studies
+
+##### Aspirin
+
+When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
+The clinical significance of this interaction is not known.
+See Table 1 for clinically significant drug interactions of NSAIDs with aspirin (see PRECAUTIONS; Drug Interactions).

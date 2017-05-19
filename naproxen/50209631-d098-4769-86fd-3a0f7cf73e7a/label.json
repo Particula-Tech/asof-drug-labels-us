@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA018965"
+  ],
+  "inn": "naproxen",
+  "labeler": "Key Therapeutics, LLC",
+  "package_ndcs": [
+    "70868-700-16"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "naproxen",
+      "name": "Naprosyn"
+    }
+  ],
+  "setid": "50209631-d098-4769-86fd-3a0f7cf73e7a",
+  "source": "dailymed"
+}
