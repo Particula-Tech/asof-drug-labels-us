@@ -244,13 +244,9 @@ Discontinuation-emergent symptoms have been reported when stopping duloxetine.
 The most commonly reported symptoms following discontinuation of duloxetine in pediatric clinical trials have included headache, dizziness, insomnia, and abdominal pain [see Warnings and Precautions (5.7) and Adverse Reactions (6.2)].
 
 Growth (Height and Weight) — Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
-In studies up to 9 months, CYMBALTA-treated pediatric patients experienced an increase in height of 1.7 cm on average (2.2 cm increase in children [7 to 11 years of age] and
-
-1.3 cm increase in adolescents [12 to 17 years of age]).
+In studies up to 9 months, duloxetine-treated pediatric patients experienced an increase in height of 1.7 cm on average (2.2 cm increase in children [7 to 11 years of age] and 1.3 cm increase in adolescents [12 to 17 years of age]).
 While height increase was observed during these studies, a mean decrease of 1% in height percentile was observed (decrease of 2% in children [7 to 11 years of age] and increase of 0.3% in adolescents [12 to 17 years of age]).
-Weight and height should be monitored regularly in children and adolescents
-
-treated with CYMBALTA.
+Weight and height should be monitored regularly in children and adolescents treated with duloxetine.
 
 Information describing two additional clinical studies in which efficacy was not demonstrated in patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.’s CYMBALTA® (duloxetine) delayed-release capsules.
 Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.

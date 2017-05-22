@@ -60,8 +60,11 @@ See FDA-approved patient labeling (Medication Guide).
   Although in controlled studies duloxetine has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.
   Therefore, caution patients about operating hazardous machinery including automobiles, until they are reasonably certain that duloxetine therapy does not affect their ability to engage in such activities.
 
-Literature revised August, 2015
+Literature revised August, 2016
 
 Manufactured by: Alkem Laboratories Ltd. Mumbai - 400 013, INDIA.
-Distributed by: Ascend Laboratories, LLC Montvale, NJ 07645.
+Distributed by: Ascend Laboratories, LLC
+
+Parsippany, NJ 07054
+
 PT1663

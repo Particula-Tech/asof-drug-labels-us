@@ -14,6 +14,8 @@ Duloxetine Delayed-Release Capsules USP are available as delayed release capsule
 | Capsule size | 3 | 2 | 0 |
 | Presentations and NDC Codes |  |  |  |
 | Bottles of 30 | 67877-263-30 | 67877-264-30 | 67877-265-30 |
+| Bottles of 60 | 67877-263-60 |  |  |
+| Bottles of 90 | 67877-263-90 | 67877-264-90 | 67877-265-90 |
 | Bottles of 100 | 67877-263-01 | 67877-264-01 | 67877-265-01 |
 | Bottles of 1000 | 67877-263-10 | 67877-264-10 | 67877-265-10 |
 

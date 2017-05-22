@@ -298,7 +298,7 @@ The printing ink contains shellac, dehydrated alcohol, isopropyl alcohol, butyl 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised: June, 2015
+Medication Guide revised: August, 2016
 
 Coumadin, Jantoven, and Mellaril are trademarks of their respective owners and not trademarks of Ascend Laboratories LLC.
 
@@ -312,5 +312,6 @@ Distributed by:
 
 Ascend Laboratories, LLC
 
-Montvale, NJ 07645.
+Parsippany, NJ 07054
+
 PT2473
