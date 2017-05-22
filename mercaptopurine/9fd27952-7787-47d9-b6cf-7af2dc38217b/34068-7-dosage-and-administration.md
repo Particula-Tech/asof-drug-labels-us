@@ -2,7 +2,7 @@
 
 ## 2.1 Maintenance Therapy
 
-The starting dose of PURIXAN in multi-agent combination chemotherapy maintenance regimens is 1.5 to 2.5mg/kg (50 to 75 mg/m2) as a single daily dose.
+The recommended starting dose of PURIXAN in multi-agent combination chemotherapy maintenance regimens is 1.5 to 2.5mg/kg (50 to 75 mg/m2) as a single daily dose.
 After initiating PURIXAN, continuation of appropriate dosing requires periodic monitoring of absolute neutrophil count (ANC) and platelet count to assure sufficient drug exposure (that is to maintain ANC at a desirable level) and to adjust for excessive hematological toxicity.
 
 ## 2.2 Dosage in TPMT-deficient Patients
@@ -14,13 +14,14 @@ Most patients with heterozygous TPMT deficiency tolerated recommended mercaptopu
 
 ## 2.3 Administration Instructions
 
-Prior to initiation of Purixan and on each visit to the clinic, train patients or caregivers on proper handling, storage, administration, disposal and clean-up of accidental spillage of the medication.
-Since Purixan is supplied with 1 mL and 5 mL oral dispensing syringes, provide appropriate instructions regarding which syringe to use and how to administer a specified dose.
+Prior to initiation of PURIXAN and on each visit to the clinic, train patients or caregivers on proper handling, storage, administration, disposal and clean-up of accidental spillage of the medication.
+Since PURIXAN is supplied with 1 mL and 5 mL oral dispensing syringes, provide appropriate instructions regarding which syringe to use and how to administer a specified dose.
 The bottle should be shaken vigorously for at least 30 seconds to ensure the oral suspension is well mixed.
 PURIXAN is a pink to brown viscous oral suspension.
-Once opened, PURIXAN should be used within 6 weeks.
+Once opened, PURIXAN should be used within 8 weeks.
 A press-in bottle adapter and two oral dispensing syringes (one 1 mL and one 5 mL) are provided.
 The oral dispensing syringe is intended for multiple use: wash the oral dispensing syringe with warm ‘soapy’ water and rinse well; hold the oral dispensing syringe under water and move the plunger up and down several times to make sure the inside of the oral dispensing syringe is clean; ensure the oral dispensing syringe is completely dry before use of the oral dispensing syringe again for dosing; and store the oral dispensing syringe in a hygienic place with the medicine.
+Instruct patients to minimize sun exposure due to risk of photosensitivity.
 PURIXAN is a cytotoxic drug.
 Follow special handling and disposal procedures.1
 
@@ -75,10 +76,21 @@ Women of childbearing potential should be advised to avoid becoming pregnant whi
 
 ## 5.5 Treatment Related Malignancies
 
-Cases of hepatosplenic T-cell lymphoma have been reported in patients treated with mercaptopurine for inflammatory bowel disease, for which mercaptopurine is not approved.
+Cases of hepatosplenic T-cell lymphoma have been reported in patients treated with mercaptopurine for inflammatory bowel disease (IBD), an unapproved use.
 Mercaptopurine is mutagenic in animals and humans, carcinogenic in animals, and may increase the risk of secondary malignancies.
+Patients receiving immunosuppressive therapy, including mercaptopurine, are at an increased risk of developing lymphoproliferative disorders and other malignancies, notably skin cancers (melanoma and non-melanoma), sarcomas (Kaposi's and non-Kaposi's) and uterine cervical cancer in situ.
+The increased risk appears to be related to the degree and duration of immunosuppression.
+It has been reported that discontinuation of immunosuppression may provide partial regression of the lymphoproliferative disorder.
+A treatment regimen containing multiple immunosuppressants (including thiopurines) should therefore be used with caution as this could lead to lymphoproliferative disorders, some with reported fatalities.
+A combination of multiple immunosuppressants, given concomitantly increases the risk of Epstein-Barr virus (EBV)-associated lymphoproliferative disorders.
 
-## 5.6 Laboratory Tests
+## 5.6 Macrophage Activation Syndrome
+
+Macrophage activation syndrome (MAS) (hemophagocytic lymphohistiocytosis) is a known, life-threatening disorder that may develop in patients with autoimmune conditions, in particular with inflammatory bowel disease (IBD), and there could potentially be an increased susceptibility for developing the condition with the use of mercaptopurine (an unapproved use).
+If MAS occurs, or is suspected, discontinue mercaptopurine.
+Monitor for and promptly treat infections such as EBV and cytomegalovirus (CMV), as these are known triggers for MAS.
+
+## 5.7 Laboratory Tests
 
 Monitor the following laboratory tests in patients receiving PURIXAN: Complete blood counts (CBCs), transaminases, and bilirubin.
 Evaluate the bone marrow in patients with prolonged or repeated marrow suppression to assess leukemia status and marrow cellularity.
@@ -93,24 +105,27 @@ The following serious adverse reactions are described elsewhere in the prescribi
 - Immunosuppression [see Warnings and Precautions (5.3)]
 - Embryo-Fetal Toxicity [see Warnings and Precautions (5.4)]
 - Treatment Related Malignancies [see Warnings and Precautions (5.5)]
+- Macrophage Activation Syndrome [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 Based on multicenter cooperative group ALL trials, the most common adverse reaction occurring in > 20% of patients is mylelosuppression including anemia, neutropenia, lymphopenia and thrombocytopenia.
 Adverse reactions occurring 5 to 20 % include anorexia, nausea, vomiting, diarrhea, malaise, and rash.
-Rare adverse reactions occuring < 5 % include urticaria, hyperuricemia, oral lesions, elevated transaminases, hyperbilirubinemia, hyperpigmentation, pancreatitis.
+Adverse reactions occurring in < 5 % of patients include urticaria, hyperuricemia, oral lesions, elevated transaminases, hyperbilirubinemia, hyperpigmentation, and pancreatitis.
 Oral lesions resemble thrush rather than antifolic ulcerations.
 Delayed or late toxicities include hepatic fibrosis, hyperbilirubinemia, alopecia, pulmonary fibrosis, oligospermia and secondary malignancies.
 [see Warnings and Precautions (5.1 and 5.2)].
-Drug fever has been very rarely reported with PURIXAN.
+Drug fever has been reported with PURIXAN.
 Before attributing fever to PURIXAN, every attempt should be made to exclude more common causes of pyrexia, such as sepsis, in patients with acute leukemia.
 
-## 7. DRUG INTERACTIONS
+## 6.2 Postmarketing Experience
 
-Certain drugs have been shown to interact with PURIXAN through pharmacokinetic and pharmacodynamic mechanisms.
-Interactions known to decrease the clearance of PURIXAN include inhibition of first-pass oxidative metabolism by xanthine oxidase and inhibition of thiopurine methyltransferase (TPMT).
-Consult the labeling of all concurrently used drugs to obtain further information about drug interactions with PURIXAN.
+The following adverse reactions have been identified during post-approval use of PURIXAN.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+These reactions include: photosensitivity, hypoglycemia, portal hypertension and pancreatitis.
+
+## 7. DRUG INTERACTIONS
 
 ## 7.1 Allopurinol
 
@@ -155,9 +170,9 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of mercaptopurine for the treatment of ALL in pediatric patients have not been established in adequate and well-controlled trials.
-The evidence for efficacy of mercaptopurine is derived from the published literature and clinical experience.
-The toxicities of mercaptopurine are similar in adults and children.
+The evidence for efficacy of mercaptopurine in children with ALL is derived from the published literature and clinical experience.
+Cases of symptomatic hypoglycemia have been reported in children with ALL receiving mercaptopurine.
+Reported cases were in children under the age of six or with a low body mass index.
 
 ## 8.5 Geriatric Use
 

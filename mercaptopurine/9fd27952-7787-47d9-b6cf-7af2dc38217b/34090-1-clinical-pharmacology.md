@@ -13,11 +13,6 @@ Some mercaptopurine is converted to nucleotide derivatives of 6-thioguanine (6-T
 
 ## 12.3 Pharmacokinetics
 
-The relative bioavailability of PURIXAN was compared to mercaptopurine 50 mg tablets in 62 healthy subjects in a single-dose, two-period, crossover study under fasting conditions.
-Bioequivalence was demonstrated based on the primary PK parameters AUC(0-t) and AUC(0-∞).
-Cmax did not demonstrate bioequivalence.
-The mean Cmax following PURIXAN administration was 34% higher than the tablet.
-
 Absorption and Bioavailability Clinical studies have shown that the absorption of an oral dose of mercaptopurine in humans is incomplete and variable, averaging approximately 50% of the administered dose.
 The factors influencing absorption are unknown.
 Following a single 50 mg dose of PURIXAN under fasting conditions the median (range) AUC was 136 h*ng/mL (74.2-264.8 h*ng/mL) and Cmax was 95 ng/mL (39.5-204 ng/mL).
