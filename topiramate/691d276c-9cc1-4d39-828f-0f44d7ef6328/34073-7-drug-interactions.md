@@ -2,7 +2,7 @@
 
 ## 7.1 Oral Contraceptives
 
-The possibility of decreased contraceptive efficacy and increased breakthrough bleeding should be considered in patients taking combination oral contraceptive products with Topiramate Extended-Release Capsules.
+The possibility of decreased contraceptive efficacy and increased breakthrough bleeding should be considered in patients taking combination oral contraceptive products with topiramate extended-release capsules.
 Patients taking estrogen-containing contraceptives should be asked to report any change in their bleeding patterns.
 Contraceptive efficacy can be decreased even in the absence of breakthrough bleeding [see Clinical Pharmacology (12.3)].
 
@@ -17,7 +17,7 @@ It may be prudent to examine blood ammonia levels in patients in whom the onset 
 Numerous AEDs are substrates of the CYP enzyme system.
 In vitro studies indicate that topiramate does not inhibit enzyme activity for CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, and CYP3A4/5 isozymes.
 In vitro studies indicate that immediate-release topiramate is a mild inhibitor of CYP2C19 and a mild inducer of CYP3A4.
-The same drug interactions can be expected with the use of Topiramate Extended-Release Capsules.
+The same drug interactions can be expected with the use of topiramate extended-release capsules.
 
 ## 7.3 CNS Depressants and Alcohol
 
@@ -28,14 +28,14 @@ Concomitant use of alcohol should be avoided [see Warnings and Precautions (5.13
 ## 7.4 Other Carbonic Anhydrase Inhibitors
 
 Concomitant use of topiramate, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., zonisamide, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Patients should be monitored for the appearance or worsening of metabolic acidosis when Topiramate Extended-Release Capsules are given concomitantly with another carbonic anhydrase inhibitor [see Clinical Pharmacology (12.3)].
+Patients should be monitored for the appearance or worsening of metabolic acidosis when topiramate extended-release capsules are given concomitantly with another carbonic anhydrase inhibitor [see Clinical Pharmacology (12.3)].
 
 ## 7.5 Metformin
 
 Topiramate treatment can frequently cause metabolic acidosis, a condition for which the use of metformin is contraindicated.
-The concomitant use of Topiramate Extended-Release Capsules and metformin is contraindicated in patients with metabolic acidosis [see Contraindications (4), Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
+The concomitant use of topiramate extended-release capsules and metformin is contraindicated in patients with metabolic acidosis [see Contraindications (4), Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 ## 7.6 Lithium
 
 In patients, there was an observed increase in systemic exposure of lithium following topiramate doses of up to 600 mg per day.
-Lithium levels should be monitored when co-administered with high-dose Topiramate Extended-Release Capsules [see Clinical Pharmacology (12.3)].
+Lithium levels should be monitored when co-administered with high-dose topiramate extended-release capsules [see Clinical Pharmacology (12.3)].

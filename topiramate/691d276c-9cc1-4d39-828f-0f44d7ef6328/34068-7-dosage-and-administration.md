@@ -1,15 +1,17 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Monotherapy Use
+## 2.1 Epilepsy
+
+Monotherapy Use
 
 Adults and Pediatric Patients 10 Years and Older with Partial Onset or Primary Generalized Tonic-Clonic Seizures
 
 The recommended dose for topiramate monotherapy in adults and pediatric patients 10 years of age and older is 400 mg orally once daily.
-Titrate Topiramate Extended-Release Capsules according to the following schedule [Table 1]:
+Titrate topiramate extended-release capsules according to the following schedule [Table 1]:
 
 Table 1: Monotherapy Titration Schedule for Adults and Pediatric Patients 10 years and older
 
-|  | Topiramate Extended-Release Capsules Once Daily Dose |
+|  | Topiramate Extended-release Capsules Once Daily Dose |
 | --- | --- |
 | Week 1 | 50 mg |
 | Week 2 | 100 mg |
@@ -21,7 +23,7 @@ Table 1: Monotherapy Titration Schedule for Adults and Pediatric Patients 10 yea
 Pediatric Patients 2 to less than 10 Years with Partial Onset or Primary Generalized Tonic-Clonic Seizures
 
 Dosing in patients 2 to less than 10 years is based on weight.
-During the titration period, the initial dose of Topiramate Extended-Release Capsules should be 25 mg once daily given at nighttime for the first week.
+During the titration period, the initial dose of topiramate extended-release capsules should be 25 mg once daily given at nighttime for the first week.
 Based upon tolerability, the dosage can be increased to 50 mg once daily in the second week.
 Dosage can be increased by 25 mg to 50 mg once daily each subsequent week, as tolerated.
 Titration to the minimum maintenance dose should be attempted over 5 to 7 weeks.
@@ -37,11 +39,11 @@ Table 2: Monotherapy Target Once Daily Maintenance Dosing for Patients 2 to Less
 | 32 to 38 | 250 | 350 |
 | Greater than 38 | 250 | 400 |
 
-## 2.2 Adjunctive Therapy Use
+Adjunctive Therapy Use
 
 Adults (17 Years of Age and Older) - Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
 
-The recommended total daily dose of Topiramate Extended-Release Capsules as adjunctive therapy in adults with partial onset seizures or Lennox-Gastaut Syndrome is 200 mg to 400 mg orally once daily.
+The recommended total daily dose of topiramate extended-release capsules as adjunctive therapy in adults with partial onset seizures or Lennox-Gastaut Syndrome is 200 mg to 400 mg orally once daily.
 The recommended total dose for adults with primary generalized tonic-clonic seizures is 400 mg orally once daily.
 
 Initiate therapy at 25 mg to 50 mg once daily followed by titration to an effective dose in increments of 25 mg to 50 mg every week.
@@ -51,13 +53,30 @@ In the study of primary generalized tonic-clonic seizures using topiramate, the 
 
 Pediatric Patients (Ages 2 Years to 16 Years) - Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
 
-The recommended total daily dose of Topiramate Extended-Release Capsules as adjunctive therapy for pediatric patients with partial onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome is approximately 5 mg/kg to 9 mg/kg orally once daily.
+The recommended total daily dose of topiramate extended-release capsules as adjunctive therapy for pediatric patients with partial onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome is approximately 5 mg/kg to 9 mg/kg orally once daily.
 Begin titration at 25 mg once daily (based on a range of 1 mg/kg/day to 3 mg/kg/day) given nightly for the first week.
 Subsequently, increase the dosage at 1 or 2 week intervals by increments of 1 mg/kg to 3 mg/kg to achieve optimal clinical response.
 Dose titration should be guided by clinical outcome.
 If required, longer intervals between dose adjustments can be used.
 
 In the study of primary generalized tonic-clonic seizures, the assigned dose of 6 mg/kg once daily was reached at the end of 8 weeks [see Clinical Studies (14.3, 14.4, and 14.5)].
+
+## 2.2 Migraine
+
+The recommended total daily dose of topiramate extended-release capsules as treatment for prophylaxis of migraine headache in adults and adolescents 12 years of age and older is 100 mg once daily.
+The recommended titration rate for topiramate extended-release capsules for migraine prophylaxis to 100 mg/day is:
+
+Table 3: Migraine Prophylaxis Titration Schedule for Adults and Adolescents 12 years of Age and Older
+
+|  | Topiramate Extended-release Capsules Once Daily Dose |
+| --- | --- |
+| Week 1 | 25 mg |
+| Week 2 | 50 mg |
+| Week 3 | 75 mg |
+| Week 4 | 100 mg |
+
+Dose and titration rate should be guided by clinical outcome.
+If required, longer intervals between dose adjustments can be used.
 
 ## 2.3 Dose Modifications in Patients with Renal Impairment
 
@@ -67,9 +86,9 @@ Such patients will require a longer time to reach steady-state at each dose [see
 Prior to dosing, obtain an estimated creatinine clearance (CrCl) in patients at high risk for renal insufficiency (e.g., older patients, or those with diabetes mellitus, hypertension, or autoimmune disease).
 CrCl can be estimated using the following equation (multiply by 0.85 for women):
 
-| CrCl = | (140 – age) × weight(kg) |  |
-| --- | --- | --- |
-| SerumCr(mg / dl) × 72 |  |  |
+| CrCl = | (140 - age) × weight(kg) |
+| --- | --- |
+| SerumCr(mg / dl) × 72 |  |
 
 ## 2.4 Dosage Modifications in Patients Undergoing Hemodialysis
 
@@ -84,20 +103,20 @@ The actual adjustment should take into account the:
 
 ## 2.5 Laboratory Testing Prior to Treatment Initiation
 
-Measurement of baseline and periodic serum bicarbonate during Topiramate Extended-Release Capsules treatment is recommended [see Warnings and Precautions (5.4)].
+Measurement of baseline and periodic serum bicarbonate during topiramate extended-release capsules treatment is recommended [see Warnings and Precautions (5.4)].
 
 ## 2.6 Dosing Modifications in Patients Taking Phenytoin and/or Carbamazepine
 
-The co-administration of Topiramate Extended-Release Capsules with phenytoin may require an adjustment of the dose of phenytoin to achieve optimal clinical outcome.
-Addition or withdrawal of phenytoin and/or carbamazepine during adjunctive therapy with Topiramate Extended-Release Capsules may require adjustment of the dose of Topiramate Extended-Release Capsules [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+The co-administration of topiramate extended-release capsules with phenytoin may require an adjustment of the dose of phenytoin to achieve optimal clinical outcome.
+Addition or withdrawal of phenytoin and/or carbamazepine during adjunctive therapy with topiramate extended-release capsules may require adjustment of the dose of topiramate extended-release capsules [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
 ## 2.7 Monitoring for Therapeutic Blood Levels
 
-It is not necessary to monitor topiramate plasma concentrations to optimize Topiramate Extended-Release Capsules therapy.
+It is not necessary to monitor topiramate plasma concentrations to optimize topiramate extended-release capsules therapy.
 
 ## 2.8 Administration Instructions
 
-Topiramate Extended-Release Capsules may be swallowed whole or may be administered by carefully opening the capsule and sprinkling the entire contents on a small amount (teaspoon) of soft food.
+Topiramate extended-release capsules may be swallowed whole or may be administered by carefully opening the capsule and sprinkling the entire contents on a small amount (teaspoon) of soft food.
 This drug/food mixture should be swallowed immediately and not chewed or crushed.
 Do not store drug/food mixture for further use.
-Topiramate Extended-Release Capsules can be taken without regard to meals [see Clinical Pharmacology (12.3)].
+Topiramate extended-release capsules can be taken without regard to meals [see Clinical Pharmacology (12.3)].

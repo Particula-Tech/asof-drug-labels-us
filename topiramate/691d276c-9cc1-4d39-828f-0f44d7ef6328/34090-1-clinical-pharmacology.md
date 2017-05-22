@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The precise mechanisms by which topiramate exerts its anticonvulsant effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy.
+The precise mechanisms by which topiramate exerts its anticonvulsant and migraine prophylaxis effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and migraine prophylaxis.
 Electrophysiological and biochemical evidence suggests that topiramate, at pharmacologically relevant concentrations, blocks voltage-dependent sodium channels, augments the activity of the neurotransmitter gamma-aminobutyrate at some subtypes of the GABA-A receptor, antagonizes the AMPA/kainate subtype of the glutamate receptor, and inhibits the carbonic anhydrase enzyme, particularly isozymes II and IV.
 
 ## 12.2 Pharmacodynamics
@@ -11,23 +11,30 @@ Topiramate has anticonvulsant activity in rat and mouse maximal electroshock sei
 Topiramate is only weakly effective in blocking clonic seizures induced by the GABA-A receptor antagonist, pentylenetetrazole.
 Topiramate is also effective in rodent models of epilepsy, which include tonic and absence-like seizures in the spontaneous epileptic rat (SER) and tonic and clonic seizures induced in rats by kindling of the amygdala or by global ischemia.
 
+Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for migraine prophylaxis.
+The most notable changes were SBP < 90 mm Hg, DBP < 50 mm Hg, SBP or DBP increases or decreases ≥ 20 mm Hg, and pulse increases or decreases ≥ 30 beats per minute.
+These changes were often dose-related, and were most frequently associated with the greatest treatment difference at the 200 mg dose level.
+When a position was specified for measurement of vital signs in a trial, measurements were made in a sitting position.
+Systematic collection of orthostatic vital signs has not been conducted.
+The clinical significance of these various changes in vital signs has not been clearly established.
+
 ## 12.3 Pharmacokinetics
 
 Absorption and Distribution
 
-The pharmacokinetics of Topiramate Extended-Release Capsules are linear with dose proportional increases in plasma concentration when administered as a single oral dose over the range of 50 mg to 1,400 mg.
-At 25 mg, the pharmacokinetics of Topiramate Extended-Release Capsules are nonlinear, possibly due to the binding of topiramate to carbonic anhydrase in red blood cells.
+The pharmacokinetics of topiramate extended-release capsules are linear with dose proportional increases in plasma concentration when administered as a single oral dose over the range of 50 mg to 1,400 mg.
+At 25 mg, the pharmacokinetics of topiramate extended-release capsules are nonlinear, possibly due to the binding of topiramate to carbonic anhydrase in red blood cells.
 
-Topiramate Extended-Release Capsules sprinkled on a spoonful of soft food is bioequivalent to the intact capsule formulation.
+Topiramate extended-release capsules sprinkled on a spoonful of soft food is bioequivalent to the intact capsule formulation.
 
-Following a single 200 mg oral dose of Topiramate Extended-Release Capsules, peak plasma concentrations (Tmax) occurred approximately 20 hours after dosing.
-Steady-state was reached in about 5 days following daily dosing of Topiramate Extended-Release Capsules in subjects with normal renal function, with a Tmax of approximately 6 hours.
+Following a single 200 mg oral dose of topiramate extended-release capsules, peak plasma concentrations (Tmax) occurred approximately 20 hours after dosing.
+Steady-state was reached in about 5 days following daily dosing of topiramate extended-release capsules in subjects with normal renal function, with a Tmax of approximately 6 hours.
 
-At steady-state, the plasma exposure (AUC0-24hr, Cmax, and Cmin) of topiramate from Topiramate Extended-Release Capsules administered once daily and the immediate-release topiramate tablets administered twice-daily were shown to be bioequivalent.
-Fluctuation of topiramate plasma concentrations at steady-state for Topiramate Extended-Release Capsules administered once daily was approximately 40% in healthy subjects, compared to approximately 53% for immediate-release topiramate [see Clinical Pharmacology (12.6)].
+At steady-state, the plasma exposure (AUC0-24hr, Cmax, and Cmin) of topiramate from topiramate extended-release capsules administered once daily and the immediate-release topiramate tablets administered twice-daily were shown to be bioequivalent.
+Fluctuation of topiramate plasma concentrations at steady-state for topiramate extended-release capsules administered once daily was approximately 40% in healthy subjects, compared to approximately 53% for immediate-release topiramate [see Clinical Pharmacology (12.6)].
 
-Compared to the fasted state, high-fat meal had no effect on bioavailability (AUC and Cmax) but delayed the Tmax by approximately 4 hours following a single dose of Topiramate Extended-Release Capsules.
-Topiramate Extended-Release Capsules can be taken without regard to meals.
+Compared to the fasted state, high-fat meal had no effect on bioavailability (AUC and Cmax) but delayed the Tmax by approximately 4 hours following a single dose of topiramate extended-release capsules.
+Topiramate extended-release capsules can be taken without regard to meals.
 
 Topiramate is 15% to 41% bound to human plasma proteins over the blood concentration range of 0.5 mcg/mL to 250 mcg/mL.
 The fraction bound decreased as blood concentration increased.
@@ -45,14 +52,14 @@ There is evidence of renal tubular reabsorption of topiramate.
 In rats, given probenecid to inhibit tubular reabsorption, along with topiramate, a significant increase in renal clearance of topiramate was observed.
 This interaction has not been evaluated in humans.
 Overall, oral plasma clearance (CL/F) is approximately 20 mL/min to 30 mL/min in adults following oral administration.
-The mean effective half-life of Topiramate Extended-Release Capsules is approximately 56 hours.
-Steady-state is reached in about 5 days after Topiramate Extended-Release Capsules dosing in subjects with normal renal function.
+The mean effective half-life of topiramate extended-release capsules is approximately 56 hours.
+Steady-state is reached in about 5 days after topiramate extended-release capsules dosing in subjects with normal renal function.
 
 Specific Populations
 
 Renal Impairment
 
-The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in subjects with severe renal impairment (creatinine clearance less than 30 mL/min/1.73 m2) compared to subjects with normal renal function (creatinine clearance greater than70 mL/min/1.73 m2).
+The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in subjects with severe renal impairment (creatinine clearance less than 30 mL/min/1.73 m2) compared to subjects with normal renal function (creatinine clearance greater than 70 mL/min/1.73 m2).
 Since topiramate is presumed to undergo significant tubular reabsorption, it is uncertain whether this experience can be generalized to all situations of renal impairment.
 It is conceivable that some forms of renal disease could differentially affect glomerular filtration rate and tubular reabsorption resulting in a clearance of topiramate not predicted by creatinine clearance.
 In general, however, use of one-half the usual starting and maintenance dose is recommended in patients with creatinine clearance less than 70 mL/min/1.73 m2 [see Dosage and Administration (2.3) and Use in Specific Populations (8.7)].
@@ -100,13 +107,13 @@ Drug-Drug Interaction Studies
 Antiepileptic Drugs
 
 Potential interactions between immediate-release topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in Table 9.
-Interaction of Topiramate Extended-Release Capsules and standard AEDs is not expected to differ from the experience with immediate-release topiramate products.
+The effects of these interactions on mean plasma AUCs are summarized in Table 14.
+Interaction of topiramate extended-release capsules and standard AEDs is not expected to differ from the experience with immediate-release topiramate products.
 
-In Table 10, the second column (AED concentration) describes what happened to the concentration of the AED listed in the first column when topiramate was added.
+In Table 14, the second column (AED concentration) describes what happened to the concentration of the AED listed in the first column when topiramate was added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modified the concentration of topiramate in experimental settings when topiramate was given alone.
 
-Table 10: Summary of AED Interactions with topiramate
+Table 14: Summary of AED Interactions with topiramate
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
@@ -135,7 +142,7 @@ In another study, exposure to EE was statistically significantly decreased at do
 In both studies, topiramate (50 mg per day to 800 mg per day) did not significantly affect exposure to NET.
 Although there was a dose-dependent decrease in EE exposure for doses between 200 to 800 mg per day, there was no significant dose-dependent change in EE exposure for doses of 50 to 200 mg per day.
 The clinical significance of the changes observed is not known.
-The possibility of decreased contraceptive efficacy and increased breakthrough bleeding should be considered in patients taking combination oral contraceptive products with Topiramate Extended-Release Capsules.
+The possibility of decreased contraceptive efficacy and increased breakthrough bleeding should be considered in patients taking combination oral contraceptive products with topiramate extended-release capsules.
 Patients taking estrogen-containing contraceptives should be asked to report any change in their bleeding patterns.
 Contraceptive efficacy can be decreased even in the absence of breakthrough bleeding [see Drug Interactions (7.1)].
 
@@ -149,21 +156,21 @@ Hydrochlorothiazide
 A drug-drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of hydrochlorothiazide (HCTZ) (25 mg every 24 hours) and topiramate (96 mg every 12 hours) when administered alone and concomitantly.
 The results of this study indicate that topiramate Cmax increased by 27% and AUC increased by 29% when HCTZ was added to topiramate.
 The clinical significance of this change is unknown.
-The addition of HCTZ to Topiramate Extended-Release Capsules therapy may require an adjustment of the Topiramate Extended-Release Capsules dose.
+The addition of HCTZ to topiramate extended-release capsules therapy may require an adjustment of the topiramate extended-release capsules dose.
 The steady-state pharmacokinetics of HCTZ were not significantly influenced by the concomitant administration of topiramate.
 Clinical laboratory results indicated decreases in serum potassium after topiramate or HCTZ administration, which were greater when HCTZ and topiramate were administered in combination.
 
 Metformin
 
 Topiramate treatment can frequently cause metabolic acidosis, a condition for which the use of metformin is contraindicated.
-Topiramate Extended-Release Capsules are expected to exhibit the same degree of metabolic acidosis as topiramate.
+Topiramate extended-release capsules are expected to exhibit the same degree of metabolic acidosis as topiramate.
 
 A drug-drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of metformin (500 mg every 12 hr) and topiramate in plasma when metformin was given alone and when metformin and topiramate (100 mg every 12 hr) were given simultaneously.
 The results of this study indicated that the mean metformin Cmax and AUC0-12h increased by 18% and 25%, respectively, when topiramate was added.
-Topiramate did not affect metformin tmax.
+Topiramate did not affect metformin Tmax.
 The clinical significance of the effect of topiramate on metformin pharmacokinetics is not known.
 Oral plasma clearance of topiramate appears to be reduced when administered with metformin.
-The clinical significance of the effect of metformin on Topiramate Extended-Release Capsules pharmacokinetics is unclear [see Contraindications (4), Warnings and Precautions (5.4) and Drug Interactions (7.5)].
+The clinical significance of the effect of metformin on topiramate extended-release capsules pharmacokinetics is unclear [see Contraindications (4), Warnings and Precautions (5.4) and Drug Interactions (7.5)].
 
 Pioglitazone
 
@@ -173,7 +180,7 @@ This finding was not statistically significant.
 In addition, a 13% and 16% decrease in Cmax,ss and AUCτ,ss respectively, of the active hydroxy-metabolite was noted as well as a 60% decrease in Cmax,ss and AUCτ,ss of the active keto-metabolite.
 The clinical significance of these findings is not known.
 
-When Topiramate Extended-Release Capsules are added to pioglitazone therapy or pioglitazone is added to Topiramate Extended-Release Capsules therapy, careful attention should be given to the routine monitoring of patients for adequate control of their diabetic disease state.
+When topiramate extended-release capsules are added to pioglitazone therapy or pioglitazone is added to topiramate extended-release capsules therapy, careful attention should be given to the routine monitoring of patients for adequate control of their diabetic disease state.
 
 Glyburide
 
@@ -185,7 +192,7 @@ The steady-state pharmacokinetics of topiramate were unaffected by concomitant a
 Lithium
 
 In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg per day; however, there was an observed increase in systemic exposure of lithium (27% for Cmax and 26% for AUC) following topiramate doses up to 600 mg per day.
-Lithium levels should be monitored when co-administered with high-dose Topiramate Extended-Release Capsules [see Drug Interactions (7.6)].
+Lithium levels should be monitored when co-administered with high-dose topiramate extended-release capsules [see Drug Interactions (7.6)].
 
 Haloperidol
 
@@ -194,7 +201,7 @@ The pharmacokinetics of a single dose of haloperidol (5 mg) were not affected fo
 Amitriptyline
 
 There was a 12% increase in AUC and Cmax for amitriptyline (25 mg per day) in 18 normal subjects (9 males, 9 females) receiving 200 mg per day of topiramate.
-Some subjects may experience a large increase in amitriptyline concentration in the presence of Topiramate Extended-Release Capsules and any adjustments in amitriptyline dose should be made according to the patient's clinical response and not on the basis of plasma levels.
+Some subjects may experience a large increase in amitriptyline concentration in the presence of topiramate extended-release capsules and any adjustments in amitriptyline dose should be made according to the patient's clinical response and not on the basis of plasma levels.
 
 Sumatriptan
 
@@ -229,19 +236,19 @@ Multiple dosing of venlafaxine (150 mg) did not affect the pharmacokinetics of t
 
 Other Carbonic Anhydrase Inhibitors
 
-Concomitant use of Topiramate Extended-Release Capsules, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., zonisamide, acetazolamide, or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Therefore, if Topiramate Extended-Release Capsules are given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis [see Drug Interactions (7.4)].
+Concomitant use of topiramate extended-release capsules, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., zonisamide, acetazolamide, or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
+Therefore, if topiramate extended-release capsules are given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis [see Drug Interactions (7.4)].
 
 Drug/Laboratory Tests Interactions
 
-There are no known interactions of Topiramate Extended-Release Capsules with commonly used laboratory tests.
+There are no known interactions of topiramate extended-release capsules with commonly used laboratory tests.
 
-## 12.6 Relative Bioavailability of Topiramate Extended-Release Capsules Compared to Immediate-Release Topiramate in Healthy Volunteers
+## 12.6 Relative Bioavailability of Topiramate Extended-release Capsules Compared to Immediate-Release Topiramate in Healthy Volunteers
 
-Topiramate Extended-Release Capsules, taken once daily, provides similar steady-state topiramate concentrations to immediate-release topiramate taken every 12 hours, when administered at the same total daily dose.
+Topiramate extended-release capsules, taken once daily, provides similar steady-state topiramate concentrations to immediate-release topiramate taken every 12 hours, when administered at the same total daily dose.
 In a healthy volunteer, multiple-dose crossover study, the 90% CI for the ratios of AUC0-24, Cmax and Cmin, as well as partial AUC (the area under the concentration-time curve from time 0 to time p (post dose)) for multiple time points were within the 80 to 125% bioequivalence limits, indicating no clinically significant difference between the two formulations.
 In addition, the 90% CI for the ratios of topiramate plasma concentration at each of multiple time points over 24 hours for the two formulations were within the 80 to 125% bioequivalence limits, except for the initial time points before 3 hours and at 8 hours post-dose, which is not expected to have a significant clinical impact.
 
-The effects of switching between Topiramate Extended-Release Capsules and immediate-release topiramate were also evaluated in the same multiple-dose, crossover, comparative bioavailability study.
-In healthy subjects switched from immediate-release topiramate given every 12 hours to Topiramate Extended-Release Capsules given once daily, similar concentrations were maintained immediately after the formulation switch.
-On the first day following the switch, there were no significant differences in AUC0-24, Cmax, and Cmin, as the 90% CI for the ratios were contained within the 80 to 125% equivalence limits.
+The effects of switching between topiramate extended-release capsules and immediate-release topiramate were also evaluated in the same multiple-dose, crossover, comparative bioavailability study.
+In healthy subjects switched from immediate-release topiramate given every 12 hours to topiramate extended-release capsules given once daily, similar concentrations were maintained immediately after the formulation switch.
+On the first day following the switch, there were no significant differences in AUC0-24, Cmax, and Cmin, as the 90% CI for the ratios were contained within the 80% to 125% equivalence limits.

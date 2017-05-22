@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Topiramate Extended-Release Capsules
+## 16.1 Topiramate Extended-release Capsules
 
-Topiramate Extended-Release Capsules contain beads of topiramate in a capsule and are available in the following strengths and colors:
+Topiramate extended-release capsules contain beads of topiramate in a capsule and are available in the following strengths and colors:
 
 25 mg: light pink and grey capsules, printed with "UPSHER-SMITH" on the cap in black ink and "25 mg" on the body in black ink.
 25 mg capsules are available in the following package configurations:
@@ -41,6 +41,7 @@ Topiramate Extended-Release Capsules contain beads of topiramate in a capsule an
 
 ## 16.2 Storage and Handling
 
-Topiramate Extended-Release Capsules should be stored in a tightly-closed container at 20 to 25°C (68 to 77°F).
-Excursions permitted 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
+Topiramate extended-release capsules should be stored in a tightly-closed container at 20 to 25°C (68 to 77°F).
+Excursions permitted between 15 to 30°C (59 to 86°F).
+[See USP Controlled Room Temperature].
 Protect from moisture.

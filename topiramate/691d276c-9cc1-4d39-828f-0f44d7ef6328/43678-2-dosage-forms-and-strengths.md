@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Topiramate Extended-Release Capsules are available in the following strengths and colors:
+Topiramate extended-release capsules are available in the following strengths and colors:
 
 - 25 mg: light pink and grey capsules, printed with "UPSHER-SMITH" on the cap in black ink and "25 mg" on the body in black ink
 - 50 mg: golden yellow and grey capsules, printed with "UPSHER-SMITH" on the cap in black ink and "50 mg" on the body in black ink
