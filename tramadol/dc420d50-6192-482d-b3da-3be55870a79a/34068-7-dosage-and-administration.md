@@ -9,7 +9,7 @@ Tramadol hydrochloride extended-release tablets should be prescribed only by hea
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see WARNINGS].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see WARNINGS]
 - Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with tramadol hydrochloride extended-release tablets and adjust the dosage accordingly [see WARNINGS].
-- Instruct patients to swallow tramadol hydrochloride extended-release tablets whole [see Patient Counseling Information (17)], and to take it with liquid.
+- Instruct patients to swallow tramadol hydrochloride extended-release tablets whole [see Patient Counseling Information], and to take it with liquid.
   Crushing, chewing, splitting, or dissolving tramadol hydrochloride extended-release tablets will result in uncontrolled delivery of tramadol and can lead to overdose or death [see WARNINGS].
 - Tramadol hydrochloride extended-release tablets may be taken without regard to food, it is recommended that it be taken in a consistent manner [see CLINICAL PHARMACOLOGY].
 

@@ -2,7 +2,7 @@
 
 Mechanism of Action
 
-Tramadol hydrochloride extended-release tablets, contain tramadol, an opioid agonist inhibitor of norepinephrine and serotonin re-uptake.
+Tramadol hydrochloride extended-release tablets, contain tramadol, an opioid agonist inhibitor of norepinenphrine and serotonin re-uptake.
 Although the mode of action of tramadol is not completely understood, the analgesic effect of tramadol is believed to be due to binding to μ-opioid receptors and weak inhibition of reuptake of norepinephrine and serotonin.
 
 Opioid activity of tramadol is due to both low affinity binding of the parent compound and higher affinity binding of the O-demethylated metabolite (M1) to mu-opioid receptors.
@@ -156,7 +156,7 @@ Drug Interaction Studies
 Potential for Tramadol to Affect Other Drugs
 
 In vitro studies indicate that tramadol is unlikely to inhibit the CYP3A4-mediated metabolism of other drugs when tramadol is administered concomitantly at therapeutic doses.
-Tramadol does not appear to induce its own metabolism in humans, since observed maximal plasma concentrations after multiple oral doses are higher than expected based on single-dose data.’
+Tramadol does not appear to induce its own metabolism in humans, since observed maximal plasma concentrations after multiple oral doses are higher than expected based on single-dose data.
 
 Poor/Extensive Metabolizers, CYP2D6
 

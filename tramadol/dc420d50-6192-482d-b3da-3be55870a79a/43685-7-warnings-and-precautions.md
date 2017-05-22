@@ -34,11 +34,39 @@ Monitor patients closely for respiratory depression, especially within the first
 To reduce the risk of respiratory depression, proper dosing and titration of tramadol hydrochloride extended-release tablets are essential [see DOSAGE AND ADMINISTRATION].
 Overestimating the tramadol hydrochloride extended-release tablets dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
-Accidental ingestion of tramadol hydrochloride extended-release tablets, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
+Accidental ingestion of even one dose of tramadol hydrochloride extended-release tablets, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
 
-Neonatal Opioid Withdrawal Syndrome
+Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
-Prolonged use of tramadol hydrochloride extended-release tablets during pregnancy can result in withdrawal in the neonate.
+Life-threatening respiratory depression and death have occurred in children who received tramadol.
+Tramadol and codeine are subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to increased exposure to an active metabolite.
+Based upon postmarketing reports with tramadol or with codeine, children less than 12 years old may be more susceptible to the respiratory depressant effects of tramadol.
+Furthermore, children with obstructive sleep apnea who are treated with opioids for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to their respiratory depressant effect.
+Because of the risk of life-threatening respiratory depression and death:
+
+- Tramadol hydrochloride extended-release tablets are contraindicated for all children younger than age 12 years of age [see CONTRAINDICATIONS].
+- Tramadol hydrochloride extended-release tablets are contraindicated for post-operative pain management in pediatric patients of any age undergoing tonsillectomy and/or adenoidectomy [see CONTRAINDICATIONS].
+- Avoid the use of tramadol hydrochloride extended-release tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
+  Risk factors include postoperative status, obstructive sleep apnea, obesity and other conditions associated with hypoventilation syndromes (e.g. neuromuscular disease), concomitant use of other medications that cause respiratory depression, and severe pulmonary disease.
+- As with adults, when prescribing opioids for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of opioid overdose [see Use in Specific Populations, Overdosage].
+
+Nursing Mothers
+
+Tramadol is subject to the same polymorphic metabolism as codeine, with ultra-rapid metabolizers of CYP2D6 substrates being potentially exposed to life-threatening levels of O-desmethyltramadol (M1).
+A death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
+A baby nursing from an ultra-rapid metabolizer mother taking tramadol hydrochloride extended-release tablets could potentially be exposed to high levels of M1, and experience life-threatening respiratory depression.
+For this reason, breastfeeding is not recommended during treatment with tramadol hydrochloride extended-release tablets [see Use in Specific Populations].
+
+CYP2D6 Genetic Variability: Ultra-rapid metabolizer
+
+Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (e.g., gene duplications denoted as *1/*1xN or *1/*2xN).
+The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1 to 10% in Caucasians, 3-4% in African Americans, 1-2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
+These individuals convert tramadol into its active metabolite, O-desmethyltramadol (M1), more rapidly and completely than other people.
+This rapid conversion results in higher than expected serum M1 levels.
+Even at labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) [see Overdosage].
+Therefore, individuals who are ultra-rapid metabolizers should not use tramadol hydrochloride extended-release tablets.
+
+Neonatal Opioid Withdrawal Syndrome Prolonged use of tramadol hydrochloride extended-release tablets during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
 Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see PRECAUTIONS, Information for Patients, Pregnancy].
@@ -219,6 +247,10 @@ Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see WARNINGS].
 Instruct patients to take steps to store tramadol hydrochloride extended-release tablets securely and to dispose of unused tramadol hydrochloride extended-release tablets in accordance with the local state guidelines and/or regulations.
+Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
+
+Advise patients that tramadol hydrochloride extended-release tablets should not be used in children younger than 12 years of age or in a child of any age for pain treatment after tonsillectomy and/or adenoidectomy.
+Advise caregivers of children ages 12 to 18 receiving tramadol hydrochloride extended-release tablets to monitor for signs of respiratory depression [see Warnings and Precautions].
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
@@ -232,7 +264,7 @@ Instruct patients to inform their healthcare provider if they are taking, or pla
 
 Seizures
 
-Inform patients that tramadol hydrochloride extended-release tablets may cause seizures with concomitant use of serotonergic agents (including SSRIs, SNRIs, and triptans) or drugs that significantly reduce the metabolic clearance of tramadol[see WARNINGS].
+Inform patients that tramadol hydrochloride extended-release tablets may cause seizures with concomitant use of serotonergic agents (including SSRIs, SNRIs, and triptans) or drugs that significantly reduce the metabolic clearance of tramadol [see WARNINGS].
 
 MAOI Interaction
 
@@ -277,14 +309,14 @@ Inform female patients of reproductive potential that tramadol hydrochloride ext
 
 Lactation
 
-Advise patients that breastfeeding is not recommended during treatment with tramadol hydrochloride extended-release tablets [see PRECAUTIONS; Nursing Mothers].
+Advise women that breastfeeding is not recommended during treatment with tramadol hydrochloride extended-release tablets [see PRECAUTIONS; Nursing Mothers].
 
 Infertility
 
 Inform patients that chronic use of opioids may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see ADVERSE REACTIONS].
 
-Driving or Operating Heavy Machinery
+Driving or Operating Heavy Machinerys
 
 Inform patients that tramadol hydrochloride extended-release tablets may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
 Advise patients not to perform such tasks until they know how they will react to the medication[see WARNINGS].
@@ -424,28 +456,19 @@ It is not known whether these effects on fertility are reversible [see ADVERSE R
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see WARNINGS].
-Available data with tramadol hydrochloride extended-release tablets in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
+Tramadol hydrochloride extended-release tablets are not recommended for obstetrical preoperative medication or for post-delivery analgesia in nursing mothers because its safety in infants and newborns has not been studied.
 
-In animal reproduction studies, tramadol administration during organogenesis decreased fetal weights and reduced ossification in mice, rats, and rabbits at 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD).
-Tramadol decreased pup body weight and increased pup mortality at 1.2 and 1.9 times the MRHD [see Data].
-Based on animal data, advise pregnant women of the potential risk to a fetus.
-
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
-
+Tramadol and its metabolite, O-desmethyl tramadol (M1), are present in human milk.
+There is no information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+The M1 metabolite is more potent than tramadol in mu opioid receptor binding [see Clinical Pharmacology].
+Published studies have reported tramadol and M1 in colostrum with administration of tramadol to nursing mothers in the early post-partum period.
+Women who are ultra-rapid metabolizers of tramadol may have higher than expected serum levels of M1, potentially leading to higher levels of M1 in breast milk that can be dangerous in their breastfed infants.
+In women with normal tramadol metabolism, the amount of tramadol secreted into human milk is low and dose-dependent.
+Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with tramadol hydrochloride extended-release tablets.
 Clinical Considerations
 
-Fetal/Neonatal Adverse Reactions
-
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
-
-Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
-The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms and signs of neonatal opioid withdrawal syndrome and manage accordingly [see WARNINGS].
-
-Neonatal seizures, neonatal withdrawal syndrome, fetal death and stillbirth have been reported with tramadol hydrochloride during post-approval use of tramadol hydrochloride extended-release tablets.
+If infants are exposed to tramadol through breast milk, they should be monitored for excess sedation and respiratory depression.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
 
 ## Labor and Delivery
 
@@ -494,8 +517,19 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 
 ## Pediatric Use
 
-The safety and efficacy of tramadol hydrochloride extended-release tablets in patients under 16 years of age has not been established.
+The safety and efficacy of tramadol hydrochloride extended-release tablets in patients under 18 years of age have not been established.
 The use of tramadol hydrochloride extended-release tablets in the pediatric population is not recommended.
+
+Life-threatening respiratory depression and death have occurred in children who received tramadol [seeWarnings and Precautions].
+In some of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and one of the children had evidence of being an ultra-rapid metabolizer of tramadol (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
+Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of tramadol.
+
+Because of the risk of life-threatening respiratory depression and death:
+
+- Tramadol hydrochloride extended-release tablets are contraindicated for all children younger than age 12 years of age [seeContraindications].
+- Tramadol hydrochloride extended-release tablets are contraindicated for post-operative pain management in pediatric patients of any age undergoing tonsillectomy and/or adenoidectomy [seeContraindications].
+- Avoid the use of tramadol hydrochloride extended-release tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
+  Risk factors include postoperative status, obstructive sleep apnea, obesity and other conditions associated with hypoventilation syndromes (e.g. neuromuscular disease), concomitant use of other medications that cause respiratory depression, and severe pulmonary disease [see Warnings and Precautions].
 
 ## Geriatric Use
 

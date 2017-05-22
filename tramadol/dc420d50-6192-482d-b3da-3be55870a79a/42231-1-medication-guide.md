@@ -21,6 +21,12 @@ Important information about tramadol hydrochloride extended-release tablets:
   Store tramadol hydrochloride extended-release tablets away from children and in a safe place to prevent stealing or abuse.
   Selling or giving away tramadol hydrochloride extended-release tablets is against the law.
 
+Important Information Guiding Use in Pediatric Patients:
+
+- Do not give tramadol hydrochloride extended-release tablets to a child younger than 12.
+- Do not give tramadol hydrochloride extended-release tablets to a child younger than 18 to treat pain after surgery to remove the tonsils and/or adenoids.
+- Avoid giving tramadol hydrochloride extended-release tablets to children between 12 to 18 years of age who have risk factors for breathing problems such as obstructive sleep apnea, obesity, or underlying lung problems.
+
 Do not take tramadol hydrochloride extended-release tablets if you have:
 
 - severe asthma, trouble breathing, or other lung problems.
@@ -38,8 +44,7 @@ Tell your healthcare provider if you are:
 - pregnant or planning to become pregnant.
   Prolonged use of tramadol hydrochloride extended-release tablets during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
 - breastfeeding.
-  Not recommended during treatment with tramadol hydrochloride extended-release tablets.
-  It may harm your baby.
+  Not recommended; it may harm your baby.
 - taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
   Taking tramadol hydrochloride extended-release tablets with certain other medicines can cause serious side effects that could lead to death.
 
@@ -95,6 +100,6 @@ Halol-Baroda Highway,
 Halol-389 350, Gujarat, India.
 
 ISS.
-12/2016
+05/2017
 
-PJPI0263D
+PJPI0263E
