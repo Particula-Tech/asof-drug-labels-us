@@ -28,7 +28,7 @@ Valsartan are not recommended for pediatric patients under 6 years of age.
 In a study (n=90) of pediatric patients (1 to 5 years), two deaths and three cases of on-treatment transaminase elevations were seen in the one-year open-label extension phase.
 These 5 events occurred in a study population in which patients frequently had significant co-morbidities.
 A causal relationship to valsartan tablets has not been established.
-In a second study in which 75 children aged 1 to 6 years were randomized, no deaths and one case of marked liver transaminase elevations occurred during a 1 year open-label extension.
+In a second study of 6-months duration in 75 children aged 1 to 5 years, there were no deaths; and one case of marked liver transaminase elevations occurred following 6 months of treatment.
 Heart Failure The adverse experience profile of valsartan in heart failure patients was consistent with the pharmacology of the drug and the health status of the patients.
 In the Valsartan Heart Failure Trial, comparing valsartan in total daily doses up to 320 mg (n=2,506) to placebo (n=2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
 The table shows adverse reactions in double-blind short-term heart failure trials, including the first 4 months of the Valsartan Heart Failure Trial, with an incidence of at least 2% that were more frequent in valsartan-treated patients than in placebo-treated patients.

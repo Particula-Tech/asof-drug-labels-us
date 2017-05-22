@@ -1,6 +1,6 @@
 # SPL MEDGUIDE SECTION
 
-Valsartan Tablets, USP (val SAR tan) Read the Patient Information that comes with valsartan tablets before you take it and each time you get a refill.
+Valsartan Tablets (val SAR tan) Read the Patient Information that comes with valsartan tablets before you take it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or treatment.
 If you have any questions about valsartan tablets, ask your doctor or pharmacist.
@@ -53,7 +53,7 @@ Lie down, if you feel faint or dizzy.
 Call your doctor right away.
 Kidney problems.
 Kidney problems may get worse if you already have kidney disease.
-Some people will have changes on blood tests for kidney function and may need a lower dose of valsartan tablets.
+Some patients will have changes on blood tests for kidney function and may need a lower dose of valsartan tablets.
 Call your doctor if you get swelling in your feet, ankles, or hands, or unexplained weight gain.
 If you have heart failure, your doctor should check your kidney function before prescribing valsartan tablets.
 The most common side effects of valsartan tablets used to treat people with high blood pressure include: • headache • dizziness • flu symptoms • tiredness • stomach (abdominal) pain Side effects were generally mild and brief.
@@ -78,7 +78,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for:
 
-Camber Pharmaceuticals, Inc., 2031056
+Camber Pharmaceuticals, Inc., 2040229
 
 Piscataway, NJ 08854
 
@@ -87,4 +87,4 @@ By:HETEROTM
 Hetero Labs Limited,Unit V, Polepally,
 
 Jadcherla, Mahaboob Nagar-509 301, India.
-Revised: August 2015
+Revised: February 2017
