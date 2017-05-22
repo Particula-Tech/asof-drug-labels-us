@@ -51,8 +51,8 @@ Absorption In healthy subjects, the bioavailability of a tramadol hydrochloride 
 Consistent with the extended-release nature of the formulation, there is a lag time in drug absorption following tramadol hydrochloride extended-release tablets administration.
 The mean peak plasma concentrations of tramadol and M1 after administration of tramadol hydrochloride extended-release tablets to healthy volunteers are attained at about 12 h and 15 h, respectively, after dosing (see Table 2 and Figure 2).
 Following administration of the tramadol hydrochloride extended-release tablets, steady-state plasma concentrations of both tramadol and M1 are achieved within four days with once daily dosing.
-The mean (%CV) pharmacokinetic parameter values for tramadol hydrochloride extended-release tablet 200 mg administered once daily and tramadol HCl IR 50 mg administered every six hours are provided in Table 2.
-Table 2.
+The mean (%CV) pharmacokinetic parameter values for tramadol hydrochloride extended-release tablet 200 mg administered once daily and tramadol HCl IR 50 mg administered every six hours are provided in Table 3.
+Table 3.
 Mean (%CV) Steady-State Pharmacokinetic Parameter Values (n=32)
 
 |  | Tramadol |  | M1 Metabolite |  |
@@ -107,11 +107,11 @@ These individuals are “poor metabolizers” of debrisoquine, dextromethorphan 
 Based on a population PK analysis of Phase 1 studies with IR tablets in healthy subjects, concentrations of tramadol were approximately 20% higher in "poor metabolizers" versus "extensive metabolizers," while M1 concentrations were 40% lower.
 CYP2D6 Inhibitors In vitro drug interaction studies in human liver microsomes indicate that concomitant administration with inhibitors of CYP2D6 such as fluoxetine, paroxetine, and amitriptyline could result in some inhibition of the metabolism of tramadol.
 Quinidine Tramadol is metabolized to active metabolite M1 by CYP2D6.
-Coadministration of quinidine, a selective inhibitor of CYP2D6, with tramadol hydrochloride extended-release tablets resulted in a 50-60% increase in tramadol exposure and a 50-60% decrease in M1 exposure.
+Coadministration of quinidine, a selective inhibitor of CYP2D6, with tramadol hydrochloride extended-release tablets resulted in a 50 to 60% increase in tramadol exposure and a 50 to 60% decrease in M1 exposure.
 The clinical consequences of these findings are unknown.
 To evaluate the effect of tramadol, a CYP2D6 substrate on quinidine, an in vitro drug interaction study in human liver microsomes was conducted.
-The results from this study indicate that tramadol has no effect on quinidine metabolism [see Warnings and Precautions (5.4), Drug Interactions (7)].
-CYP3A4 Inhibitors and Inducers Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John’s Wort, with tramadol hydrochloride extended-release tablets may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.4), Drug Interactions (7)].
+The results from this study indicate that tramadol has no effect on quinidine metabolism [see Warnings and Precautions (5.5), Drug Interactions (7)].
+CYP3A4 Inhibitors and Inducers Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John’s Wort, with tramadol hydrochloride extended-release tablets may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.5), Drug Interactions (7)].
 Cimetidine Concomitant administration of tramadol IR tablets with cimetidine, a weak CYP3A4 inhibitor, does not result in clinically significant changes in tramadol pharmacokinetics.
 No alteration of the tramadol hydrochloride extended-release tablets dosage regimen with cimetidine is recommended.
 Carbamazepine Carbamazepine, a CYP3A4 inducer, increases tramadol metabolism.

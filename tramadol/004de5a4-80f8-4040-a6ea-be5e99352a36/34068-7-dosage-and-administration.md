@@ -1,12 +1,12 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Important Dosage and Administration Instructions
 
 Tramadol hydrochloride extended-release tablets should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
-- Do not use tramadol hydrochloride extended-release tablets concomitantly with other tramadol products [see Warnings and Precautions (5.4), (5.12)].
+- Do not use tramadol hydrochloride extended-release tablets concomitantly with other tramadol products [see Warnings and Precautions (5.5), (5.12)].
 - Do not administer tramadol hydrochloride extended-release tablets at a dose exceeding 300 mg per day.
-- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.5)].
+- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.6)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)]
 - Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with tramadol hydrochloride extended-release tablets and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
 - Instruct patients to swallow tramadol hydrochloride extended-release tablets whole [see Patient Counseling Information (17)], and to take it with liquid.
@@ -49,4 +49,4 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 When a patient no longer requires therapy with tramadol hydrochloride extended-release tablets, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue tramadol hydrochloride extended-release tablets [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue tramadol hydrochloride extended-release tablets [see Warnings and Precautions (5.16), Drug Abuse and Dependence (9.3)].

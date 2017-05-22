@@ -2,18 +2,18 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.3)].
+Risk Summary Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 Available data with tramadol hydrochloride extended-release tablets in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 In animal reproduction studies, tramadol administration during organogenesis decreased fetal weights and reduced ossification in mice, rats, and rabbits at 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD).
 Tramadol decreased pup body weight and increased pup mortality at 1.2 and 1.9 times the MRHD [see Data].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 Clinical Considerations Fetal/Neonatal Adverse Reactions Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms and signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.3)].
+Observe newborns for symptoms and signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
 Neonatal seizures, neonatal withdrawal syndrome, fetal death and stillbirth have been reported with tramadol during post-approval use of tramadol immediate-release products.
 Labor or Delivery Opioids cross the placenta and may produce respiratory depression and psychophysiologic effects in neonates.
 An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
@@ -36,11 +36,21 @@ Progeny of dams receiving oral (gavage) dose levels of 50 mg/kg (1.6 times the M
 
 ## 8.2 Lactation
 
-Risk Summary Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within sixteen hours post-dose was 100 mcg of tramadol (0.1% of the maternal dose) and 27 mcg of M1.
-It is not known whether this drug is excreted in human milk following an oral dose.
+Risk Summary
+
 Tramadol hydrochloride extended-release tablets are not recommended for obstetrical preoperative medication or for post-delivery analgesia in nursing mothers because its safety in infants and newborns has not been studied.
+
+Tramadol and its metabolite, O-desmethyl tramadol (M1), are present in human milk.
+There is no information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+The M1 metabolite is more potent than tramadol in mu opioid receptor binding [seeClinical Pharmacology (12.1)].
+Published studies have reported tramadol and M1 in colostrum with administration of tramadol to nursing mothers in the early post-partum period.
+Women who are ultra-rapid metabolizers of tramadol may have higher than expected serum levels of M1, potentially leading to higher levels of M1 in breast milk that can be dangerous in their breastfed infants.
+In women with normal tramadol metabolism, the amount of tramadol secreted into human milk is low and dose-dependent.
 Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with tramadol hydrochloride extended-release tablets.
-Clinical Considerations Monitor infants exposed to tramadol hydrochloride extended-release tablets through breast milk for excess sedation and respiratory depression.
+
+Clinical Considerations
+
+IF infants are exposed to tramadol hydrochloride extended-release tablets through breast milk, they should be monitored for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
@@ -51,7 +61,17 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 ## 8.4 Pediatric Use
 
 The safety and efficacy of tramadol hydrochloride extended-release tablets in patients under 18 years of age have not been established.
-The use of tramadol hydrochloride extended-release tablets in the pediatric population is not recommended.
+
+Life-threatening respiratory depression and death have occurred in children who received tramadol [see Warnings and Precautions (5.3)].
+In some of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and one of the children had evidence of being an ultra-rapid metabolizer of tramadol (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
+Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of tramadol.
+
+Because of the risk of life-threatening respiratory depression and death:
+
+- Tramadol hydrochloride extended-release tablets are contraindicated for all children younger than age 12 years of age [see Contraindications (4)].
+- Tramadol hydrochloride extended-release tablets are contraindicated for post-operative pain management in pediatric patients of any age undergoing tonsillectomy and/or adenoidectomy [seeContraindications (4)].
+- Avoid the use of tramadol hydrochloride extended-release tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
+  Risk factors include postoperative status, obstructive sleep apnea, obesity and other conditions associated with hypoventilation syndromes (e.g. neuromuscular disease), concomitant use of other medications that cause respiratory depression, and severe pulmonary disease [see Warnings and Precautions (5.3)].
 
 ## 8.5 Geriatric Use
 
@@ -60,7 +80,7 @@ Of those subjects, 156 were 75 years of age and older.
 In general, higher incidence rates of adverse events were observed for patients older than 65 years of age compared with patients 65 years and younger, particularly for the following adverse events: constipation, fatigue, weakness, postural hypotension and dyspepsia.
 For this reason, tramadol hydrochloride extended-release tablets should be used with caution in patients over 65 years of age, and with even greater caution in patients older than 75 years of age [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioidtolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of tramadol hydrochloride extended-release tablets slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.10)].
+Titrate the dosage of tramadol hydrochloride extended-release tablets slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.11)].
 Tramadol is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 

@@ -1,4 +1,4 @@
-# 1 INDICATIONS & USAGE
+# 1 INDICATIONS AND USAGE
 
 Tramadol hydrochloride extended-release tablets are indicated for the management of pain severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate.
 

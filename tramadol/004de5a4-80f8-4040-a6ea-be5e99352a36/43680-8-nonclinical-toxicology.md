@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis Carcinogenicity assessment has been conducted in mice, rats and p53(+/-) heterozygous mice.
 A slight but statistically significant increase in two common murine tumors, pulmonary and hepatic, was observed in an NMRI mouse carcinogenicity study, particularly in aged mice.
