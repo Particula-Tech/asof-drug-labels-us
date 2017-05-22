@@ -1,30 +1,29 @@
-# PRINCIPAL DISPLAY PANEL - 2 mg Ring Label
+# PRINCIPAL DISPLAY PANEL - 2 mg Pouch Label
 
-Pfizer
+NDC 0013-2150-36
 
-Estring® estradiol vaginal ring
+Rx only
 
-2 mg
+Estring® (estradiol vaginal ring) 2 mg
 
 Store at controlled room temperature 15 °C to 25 °C (59 °F to 77 °F).
 
 DOSAGE AND USE See accompanying prescribing information.
 
 Package Not Child-Resistant.
-
 Keep out of reach of children.
 
-7.5 mcg/24 hrs of estradiol is released over 90 days.
+One ring, 7.5 mcg/24 hrs of estradiol is released over 90 days.
 
-61 27 37
+612796
+
+Pfizer
 
 Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
-Rx only
-
 LOT EXP
 
-# PRINCIPAL DISPLAY PANEL - 2 mg Ring Carton
+# PRINCIPAL DISPLAY PANEL - 2 mg Pouch Carton
 
 NDC 0013-2150-36
 
@@ -32,12 +31,8 @@ Pfizer
 
 Estring®
 
-estradiol
+(estradiol vaginal ring) 2 mg
 
-2 mg
-
-vaginal ring
-
-1 Unit
+1 UNIT
 
 Rx only
