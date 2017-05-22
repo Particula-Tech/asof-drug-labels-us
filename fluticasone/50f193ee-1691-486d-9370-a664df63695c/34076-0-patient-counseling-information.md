@@ -45,13 +45,13 @@ Use Daily for Best Effect: Advise patients to use ARNUITY ELLIPTA at regular int
 Maximum benefit may not be achieved for 1 week or longer after starting treatment.
 If symptoms do not improve after 2 weeks of therapy or if the condition worsens, instruct patients to contact their physicians.
 
-ARNUITY is a trademark and ELLIPTA is a registered trademark of the GSK group of companies.
+ARNUITY and ELLIPTA are registered trademarks of the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
+©2016 the GSK group of companies.
 All rights reserved.
 
-ARN:4PI
+ARN:5PI

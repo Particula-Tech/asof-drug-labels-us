@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0874-10
 
-ARNUITY™ ELLIPTA®
+ARNUITY® ELLIPTA®
 
 (fluticasone furoate inhalation powder)
 
@@ -18,16 +18,16 @@ Each blister contains 100 mcg of fluticasone furoate and lactose monohydrate.
 
 Made in Singapore
 
-©2014, the GSK group of companies
+©2017 the GSK group of companies
 
-1. 10000000127598 Rev.
-   9/14
+1. 10000000145651 Rev.
+   2/17
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0876-10
 
-ARNUITY™ ELLIPTA®
+ARNUITY®ELLIPTA®
 
 (fluticasone furoate inhalation powder)
 
@@ -43,7 +43,7 @@ Each blister contains 200 mcg of fluticasone furoate and lactose monohydrate.
 
 Made in Singapore
 
-©2014, the GSK group of companies
+©2017 the GSK group of companies
 
-1. 10000000127628 Rev.
-   10/14
+1. 10000000145660 Rev.
+   2/17

@@ -1,10 +1,10 @@
 Patient Information
 
-ARNUITY™ ELLIPTA® [ar-NEW-i-tee ee-LIP-ta]
+ARNUITY® ELLIPTA® [ar-NEW-i-tee ee-LIP-ta]
 
 (fluticasone furoate inhalation powder) 100 mcg
 
-ARNUITY™ ELLIPTA®
+ARNUITY® ELLIPTA®
 
 (fluticasone furoate inhalation powder) 200 mcg
 
@@ -100,18 +100,18 @@ ARNUITY ELLIPTA can cause serious side effects, including:
   This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled corticosteroid (such as ARNUITY ELLIPTA).
   When your body is under stress from fever, trauma (such as a car accident), infection, surgery, or worse asthma symptoms, adrenal insufficiency can get worse and may cause death.
 - Symptoms of adrenal insufficiency include:
-  1. 1.feeling tired
-  2. 2.lack of energy
-  3. 3.weakness
-  4. 4.nausea and vomiting
-  5. 5.low blood pressure
+  1. •feeling tired
+  2. •lack of energy
+  3. •weakness
+  4. •nausea and vomiting
+  5. •low blood pressure
 - •sudden breathing problems immediately after inhaling your medicine
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
-  - 6.rash
-  - 7.hives
-  - 8.swelling of your face, mouth, and tongue
-  - 9.breathing problems
+  - •rash
+  - •hives
+  - •swelling of your face, mouth, and tongue
+  - •breathing problems
 - •bone thinning or weakness (osteoporosis)
 - •slow growth in adolescents.
   An adolescent’s growth should be checked often.
@@ -295,15 +295,15 @@ If you have questions about ARNUITY ELLIPTA or how to use your inhaler, call Gla
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-ARNUITY is a trademark and ELLIPTA is a registered trademark of the GSK group of companies.
+ARNUITY and ELLIPTA are registered trademarks of the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
+©2016 the GSK group of companies.
 All rights reserved.
 
-August 2014
+November 2016
 
-ARN:1PIL
+ARN:2PIL
