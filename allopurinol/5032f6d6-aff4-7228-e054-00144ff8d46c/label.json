@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA016084"
+  ],
+  "inn": "allopurinol",
+  "labeler": "Sebela Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "54766-991-10",
+    "54766-993-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "allopurinol",
+      "name": "ZYLOPRIM"
+    }
+  ],
+  "setid": "5032f6d6-aff4-7228-e054-00144ff8d46c",
+  "source": "dailymed"
+}
