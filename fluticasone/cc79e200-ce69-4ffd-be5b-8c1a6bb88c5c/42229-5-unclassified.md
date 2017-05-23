@@ -1,4 +1,4 @@
-- Manufactured by:
+1. Manufactured by:
 
 Patent No. 7300669
 
