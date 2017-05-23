@@ -1,49 +1,35 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
-See also Clinical Pharmacology (12.3).
+See Table 3 for clinically significant drug interactions with meloxicam.
+See also Warnings and Precautions (5.2, 5.6, 5.11) and Clinical Pharmacology (12.3).
 
-## 7.1 ACE-inhibitors
+Table 3 Clinically Significant Drug Interactions with Meloxicam
 
-NSAIDs may diminish the antihypertensive effect of ACE-inhibitors.
-This interaction should be given consideration in patients taking meloxicam concomitantly with ACE-inhibitors.
-
-## 7.2 Aspirin
-
-When meloxicam is administered with aspirin (1000 mg three times daily) to healthy volunteers, an increase in the AUC (10%) and Cmax (24%) of meloxicam was noted.
-The clinical significance of this interaction is not known; however, as with other NSAIDs concomitant administration of meloxicam and aspirin is not generally recommended because of the potential for increased adverse effects.
-
-Concomitant administration of low-dose aspirin with meloxicam may result in an increased rate of GI ulceration or other complications, compared to use of meloxicam alone.
-Meloxicam is not a substitute for aspirin for cardiovascular prophylaxis.
-
-## 7.3 Diuretics
-
-Clinical studies, as well as post marketing observations, have shown that NSAIDs can reduce the natriuretic effect of furosemide and thiazides in some patients.
-This response has been attributed to inhibition of renal prostaglandin synthesis.
-However, studies with furosemide agents and meloxicam have not demonstrated a reduction in natriuretic effect.
-Furosemide single and multiple dose pharmacodynamics and pharmacokinetics are not affected by multiple doses of meloxicam.
-Nevertheless, during concomitant therapy with meloxicam, patients should be observed closely for signs of renal failure [see Warnings and Precautions (5.6)], as well as to ensure diuretic efficacy.
-
-## 7.4 Lithium
-
-In a study conducted in healthy subjects, mean pre-dose lithium concentration and AUC were increased by 21% in subjects receiving lithium doses ranging from 804 to 1072 mg twice daily with meloxicam 15 mg every day as compared to subjects receiving lithium alone.
-These effects have been attributed to inhibition of renal prostaglandin synthesis by meloxicam.
-Closely monitor patients on lithium treatment for signs of lithium toxicity when meloxicam is introduced, adjusted, or withdrawn.
-
-## 7.5 Methotrexate
-
-NSAIDs have been reported to competitively inhibit methotrexate accumulation in rabbit kidney slices.
-Therefore, NSAIDs may reduce the elimination of methotrexate, thereby enhancing the toxicity of methotrexate.
-Use caution when meloxicam is administered concomitantly with methotrexate [see Clinical Pharmacology (12.3)].
-
-## 7.6 Cyclosporine
-
-Meloxicam, like other NSAIDs, may affect renal prostaglandins, thereby altering the renal toxicity of certain drugs.
-Therefore, concomitant therapy with meloxicam may increase cyclosporine's nephrotoxicity.
-Use caution when meloxicam is administered concomitantly with cyclosporine.
-
-## 7.7 Warfarin
-
-The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious GI bleeding higher than users of either drug alone.
-
-Monitor anticoagulant activity, particularly in the first few days after initiating or changing meloxicam therapy in patients receiving warfarin or similar agents, since these patients are at an increased risk of bleeding than with the use of either drug alone.
-Use caution when administering meloxicam with warfarin since patients on warfarin may experience changes in INR and an increased risk of bleeding complications when a new medication is introduced [see Clinical Pharmacology (12.3)].
+| Drugs that Interfere with Hemostasis |  |
+| --- | --- |
+| Clinical Impact: | Meloxicam and anticoagulants such as warfarin have a synergistic effect on bleeding. The concomitant use of meloxicam and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone. Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
+| Intervention: | Monitor patients with concomitant use of Meloxicam with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding [see Warnings and Precautions (5.11)]. |
+| Aspirin |  |
+| Clinical Impact: | Controlled clinical studies showed that the concomitant use of NSAIDs and analgesic doses of aspirin does not produce any greater therapeutic effect than the use of NSAIDs alone. In a clinical study, the concomitant use of an NSAID and aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone [see Warnings and Precautions (5.2)]. |
+| Intervention: | Concomitant use of Meloxicam and low dose aspirin or analgesic doses of aspirin is not generally recommended because of the increased risk of bleeding [see Warnings and Precautions (5.11)]. Meloxicam is not a substitute for low dose aspirin for cardiovascular protection. |
+| ACE Inhibitors, Angiotensin Receptor Blockers, or Beta-Blockers |  |
+| Clinical Impact: | NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), or beta-blockers (including propranolol). In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, coadministration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. |
+| Intervention: | During concomitant use of Meloxicam and ACE inhibitors, ARBs, or beta-blockers, monitor blood pressure to ensure that the desired blood pressure is obtained. During concomitant use of Meloxicam and ACE inhibitors or ARBs in patients who are elderly, volume-depleted, or have impaired renal function, monitor for signs of worsening renal function [see Warnings and Precautions (5.6)]. When these drugs are administered concomitantly, patients should be adequately hydrated. Assess renal function at the beginning of the concomitant treatment and periodically thereafter. |
+| Diuretics |  |
+| Clinical Impact: | Clinical studies, as well as post-marketing observations, showed that NSAIDs reduced the natriuretic effect of loop diuretics (e.g., furosemide) and thiazide diuretics in some patients. This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis. However, studies with furosemide agents and meloxicam have not demonstrated a reduction in natriuretic effect. Furosemide single and multiple dose pharmacodynamics and pharmacokinetics are not affected by multiple doses of meloxicam. |
+| Intervention: | During concomitant use of Meloxicam with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects [see Warnings and Precautions (5.6)]. |
+| Lithium |  |
+| Clinical Impact: | NSAIDs have produced elevations in plasma lithium levels and reductions in renal lithium clearance. The mean minimum lithium concentration increased 15%, and the renal clearance decreased by approximately 20%. This effect has been attributed to NSAID inhibition of renal prostaglandin synthesis [see Clinical Pharmacology (12.3)]. |
+| Intervention: | During concomitant use of Meloxicam and lithium, monitor patients for signs of lithium toxicity. |
+| Methotrexate |  |
+| Clinical Impact: | Concomitant use of NSAIDs and methotrexate may increase the risk for methotrexate toxicity (e.g., neutropenia, thrombocytopenia, renal dysfunction). |
+| Intervention: | During concomitant use of Meloxicam and methotrexate, monitor patients for methotrexate toxicity. |
+| Cyclosporine |  |
+| Clinical Impact: | Concomitant use of Meloxicam and cyclosporine may increase cyclosporine's nephrotoxicity. |
+| Intervention: | During concomitant use of Meloxicam and cyclosporine, monitor patients for signs of worsening renal function. |
+| NSAIDs and Salicylates |  |
+| Clinical Impact: | Concomitant use of meloxicam with other NSAIDs or salicylates (e.g., diflunisal, salsalate) increases the risk of GI toxicity, with little or no increase in efficacy [see Warnings and Precautions (5.2)]. |
+| Intervention: | The concomitant use of meloxicam with other NSAIDs or salicylates is not recommended. |
+| Pemetrexed |  |
+| Clinical Impact: | Concomitant use of Meloxicam and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
+| Intervention: | During concomitant use of Meloxicam and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. Patients taking meloxicam should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. In patients with creatinine clearance below 45 mL/min, the concomitant administration of meloxicam with pemetrexed is not recommended. |

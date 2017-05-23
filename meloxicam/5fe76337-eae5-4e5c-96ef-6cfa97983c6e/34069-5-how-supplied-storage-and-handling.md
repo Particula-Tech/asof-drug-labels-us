@@ -1,6 +1,6 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Meloxicam Tablets USP are available as light yellow, round, flat, uncoated tablets containing meloxicam 7.5 mg or as light yellow, oblong, biconvex, uncoated tablets containing meloxicam 15 mg.
+Meloxicam tablets USP are available as a light yellow, round, flat, uncoated tablet containing meloxicam 7.5 mg or as light yellow, oblong, biconvex, uncoated tablet containing meloxicam 15 mg.
 The 7.5 mg tablet is impressed with letter U and L on one side and tablet code 7.5 on the other side.
 The 15 mg tablet is impressed with letter U and L on one side and tablet code 15 on the other side.
 
@@ -24,10 +24,8 @@ NDC 29300-125-10; Bottles of 1000
 
 NDC 29300-125-50; Bottles of 5000
 
-Storage
-
-Store at 200 to 250C (680 to 770F) [See USP Controlled Room Temperature].
-Keep Meloxicam Tablets USP in a dry place.
+Storage Store at 200 to 250C (680 to 770F) [See USP Controlled Room Temperature].
+Keep Meloxicam Tablets USP in a dry place
 
 Dispense tablets in a tight container.
 

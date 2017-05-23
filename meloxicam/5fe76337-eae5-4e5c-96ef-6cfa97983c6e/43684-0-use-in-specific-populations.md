@@ -1,64 +1,85 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C; Category D starting 30 weeks gestation
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
-Meloxicam crosses the placental barrier.
-Prior to 30 weeks gestation, use meloxicam during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Starting at 30 weeks gestation, avoid meloxicam and other NSAIDs, in pregnant women as premature closure of the ductus arteriosus in the fetus may occur.
-If this drug is used during this time period in pregnancy, inform the patient of the potential hazard to a fetus [see Warnings and Precautions (5.9) and Patient Counseling Information (17.8)].
+Use of NSAIDs, including Meloxicam, during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+Avoid use of NSAIDs, including Meloxicam, in pregnant women starting at 30 weeks of gestation (third trimester) [see Warnings and Precautions (5.10)].
 
-Teratogenic Effects
+There are no adequate and well-controlled studies of Meloxicam in pregnant women.
+Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2-4% for major malformations, and 15-20% for pregnancy loss.
 
-Meloxicam was not teratogenic when administered to pregnant rats during fetal organogenesis at oral doses up to 4 mg/kg/day (2.6-fold greater than the maximum recommended human daily dose [MRHD] based on body surface area [BSA] comparison).
-Administration of meloxicam to pregnant rabbits throughout embryogenesis produced an increased incidence of septal defects of the heart at an oral dose of 60 mg/kg/day.
+In animal reproduction studies, embryofetal death was observed in rats and rabbits treated during the period of organogenesis with meloxicam at oral doses equivalent to 0.65- and 6.5-times the maximum recommended human dose (MRHD) of Meloxicam.
+Increased incidence of septal heart defects were observed in rabbits treated throughout embryogenesis with meloxicam at an oral dose equivalent to 78-times the MRHD.
+In pre- and post-natal reproduction studies, there was an increased incidence of dystocia, delayed parturition, and decreased offspring survival at 0.08-times MRHD of meloxicam.
+No teratogenic effects were observed in rats and rabbits treated with meloxicam during organogenesis at an oral dose equivalent to 2.6 and 26-times the MRHD [see Data].
+
+Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
+In animal studies, administration of prostaglandin synthesis inhibitors, such as meloxicam, resulted in increased pre- and post-implantation loss.
+
+Clinical Considerations
+
+Labor or Delivery
+
+There are no studies on the effects of Meloxicam during labor or delivery.
+In animal studies, NSAIDs, including meloxicam, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
+
+Data
+
+Animal Data
+
+Meloxicam was not teratogenic when administered to pregnant rats during fetal organogenesis at oral doses up to 4 mg/kg/day (2.6-fold greater than the MRHD of 15 mg of Meloxicam based on BSA comparison).
+Administration of meloxicam to pregnant rabbits throughout embryogenesis produced an increased incidence of septal defects of the heart at an oral dose of 60 mg/kg/day (78-fold greater than the MRHD based on BSA comparison).
 The no effect level was 20 mg/kg/day (26-fold greater than the MRHD based on BSA conversion).
+In rats and rabbits, embryolethality occurred at oral meloxicam doses of 1 mg/kg/day and 5 mg/kg/day, respectively (0.65and 6.5-fold greater, respectively, than the MRHD based on BSA comparison) when administered throughout organogenesis.
 
-Nonteratogenic Effects
+Oral administration of meloxicam to pregnant rats during late gestation through lactation increased the incidence of dystocia, delayed parturition, and decreased offspring survival at meloxicam doses of 0.125 mg/kg/day or greater (0.08-times MRHD based on BSA comparison).
 
-In rats and rabbits, embryolethality occurred at oral meloxicam doses of 1 mg/kg/day and 5 mg/kg/day, respectively (0.65- and 6.5-fold greater, respectively, than the MRHD based on BSA comparison) when administered throughout organogenesis.
+## 8.2 Lactation
 
-## 8.2 Labor and Delivery
+Risk Summary
 
-The effects of meloxicam on labor and delivery of pregnant women are unknown.
-Oral administration of meloxicam to pregnant rats during late gestation through lactation increased the incidence of dystocia, delayed parturition, and decreased offspring survival at meloxicam doses of 0.125 mg/kg/day or greater (at least 12.5 times lower than the maximum recommended human daily dose based on body surface area comparison).
+There are no human data available on whether meloxicam is present in human milk, or on the effects on breastfed infants, or on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Meloxicam and any potential adverse effects on the breastfed infant from the Meloxicam or from the underlying maternal condition.
 
-## 8.3 Nursing Mothers
+Data
 
-It is not known whether this drug is excreted in human milk; however, meloxicam was excreted in the milk of lactating rats at concentrations higher than those in plasma.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from meloxicam, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Animal Data
+
+Meloxicam was present in the milk of lactating rats at concentrations higher than those in plasma.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Females
+
+Based on the mechanism of action, the use of prostaglandin-mediated NSAIDs, including Meloxicam, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women.
+Published animal studies have shown that administration of prostaglandin synthesis inhibitors has the potential to disrupt prostaglandin-mediated follicular rupture required for ovulation.
+Small studies in women treated with NSAIDs have also shown a reversible delay in ovulation.
+Consider withdrawal of NSAIDs, including Meloxicam, in women who have difficulties conceiving or who are undergoing investigation of infertility.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of meloxicam in pediatric JRA patients from 2 to 17 years of age has been evaluated in three clinical trials [see Dosage and Administration (2.3), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+The safety and effectiveness of meloxicam in pediatric JRA patients from 2 to 17 years of age has been evaluated in three clinical trials [see Dosage and Administration (2.3), Adverse Reactions (6.1) and Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 
-As with any NSAID, caution should be exercised in treating the elderly (65 years and older).
-
-Of the total number of subjects in clinical studies, 5157 were age 65 and over (4044 in OA studies and 1113 in RA studies).
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
+If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.13)].
 
 ## 8.6 Hepatic Impairment
 
 No dose adjustment is necessary in patients with mild to moderate hepatic impairment.
 Patients with severe hepatic impairment have not been adequately studied.
-Since meloxicam is significantly metabolized in the liver, the use of meloxicam in these patients should be done with caution [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)]
+Since meloxicam is significantly metabolized in the liver and hepatotoxicity may occur, use meloxicam with caution in patients with hepatic impairment [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 No dose adjustment is necessary in patients with mild to moderate renal impairment.
 Patients with severe renal impairment have not been studied.
-The use of meloxicam in subjects with severe renal impairment is not recommended.
-Following a single dose of meloxicam, the free Cmax plasma concentrations were higher in patients with renal failure on chronic hemodialysis (1% free fraction) in comparison to healthy volunteers (0.3% free fraction).
-Therefore, it is recommended that meloxicam dosage in this population not exceed 7.5 mg per day.
-Hemodialysis did not lower the total drug concentration in plasma; therefore, additional doses are not necessary after hemodialysis.
-Meloxicam is not dialyzable.
-[see Dosage and Administration (2.1), Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
-
-## 8.8 Females of Reproductive Potential
-
-Data from several small studies in humans and from studies in animals indicate that NSAIDs, including meloxicam, may be associated with a reversible delay in ovulation.
-Therefore, in women who have difficulties conceiving, or who are undergoing investigation of infertility, use of meloxicam is not recommended.
+The use of Meloxicam in subjects with severe renal impairment is not recommended.
+In patients on hemodialysis, meloxicam should not exceed 7.5 mg per day.
+Meloxicam is not dialyzable [see Dosage and Administration (2.1) and Clinical Pharmacology (12.3)].

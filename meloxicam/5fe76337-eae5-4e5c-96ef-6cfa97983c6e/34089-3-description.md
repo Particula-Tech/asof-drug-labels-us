@@ -1,10 +1,10 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
-Meloxicam, an oxicam derivative, is a member of the enolic acid group of nonsteroidal anti-inflammatory drugs (NSAIDs).
+Meloxicam Tablets USP are a nonsteroidal anti-inflammatory drug (NSAID).
 Each tablet contains 7.5 mg or 15 mg meloxicam for oral administration.
 Meloxicam is chemically designated as 4-hydroxy-2-methyl-N-(5-methyl-2-thiazolyl)-2H-1,2-benzothiazine-3-carboxamide-1,1-dioxide.
 The molecular weight is 351.4.
-Its empirical formula is C14H13N3O4S2 and it has the following structural formula.
+Its empirical formula is C14H13N3O4S2 and it has the following structural formula:
 
 Meloxicam is a pastel yellow solid, practically insoluble in water, with higher solubility observed in strong acids and bases.
 It is very slightly soluble in methanol.
