@@ -1,5 +1,3 @@
-Rx only
+LAB-0107-13.0
 
-LAB-0107-12.0
-
-April 2016
+April 2017
