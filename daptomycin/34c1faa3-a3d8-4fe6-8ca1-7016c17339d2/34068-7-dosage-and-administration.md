@@ -94,7 +94,7 @@ Intravenous Injection over a period of 2 minutes
 
 Intravenous Infusion over a period of 30 minutes
 
-For intravenous (IV) infusion over a period of 30 minutes in adult patients: The appropriate volume of the reconstituted CUBICIN RF (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
+- For intravenous (IV) infusion over a period of 30 minutes in adult patients: The appropriate volume of the reconstituted CUBICIN RF (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
 
 Pediatric Patients (1 to 17 Years of Age)
 

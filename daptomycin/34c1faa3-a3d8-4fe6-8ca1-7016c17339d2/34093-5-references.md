@@ -11,12 +11,11 @@
    Ann Pharmacother 48(5):652-655, 2014.
 5. Clinical and Laboratory Standards Institute (CLSI).
    Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard - Tenth Edition.
-   CLSI document M07-A10, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
-   2015.
+   CLSI document M07-A10, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015.
 6. Clinical and Laboratory Standards Institute (CLSI).
    Performance Standards for Antimicrobial Susceptibility Testing; Twenty-seventh Informational Supplement, CLSI document M100-S27, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2017.
 7. Clinical and Laboratory Standards Institute (CLSI).
-   Performance Standards for Antimicrobial Disk Diffusion Susceptibility Tests; Approved Standard–Twelfth Edition.
+   Performance Standards for Antimicrobial Disk Diffusion Susceptibility Tests; Approved Standard – Twelfth Edition.
    CLSI document M02-A12, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015.
 8. Li JS, Sexton DJ, Mick N, Nettles R, Fowler VG Jr, Ryan T, Bashore T, Corey GR.
    Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis.

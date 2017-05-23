@@ -140,7 +140,7 @@ Complicated Skin and Skin Structure Infection Trials in Adults
 In Phase 3 cSSSI trials of adult patients receiving CUBICIN at a dose of 4 mg/kg, elevations in CPK were reported as clinical adverse events in 15/534 (2.8%) CUBICIN-treated patients, compared with 10/558 (1.8%) comparator-treated patients.
 Of the 534 patients treated with CUBICIN, 1 (0.2%) had symptoms of muscle pain or weakness associated with CPK elevations to greater than 4 times the upper limit of normal (ULN).
 The symptoms resolved within 3 days and CPK returned to normal within 7 to 10 days after treatment was discontinued [see Warnings and Precautions (5.2)].
-Table 8 summarizes the CPK shifts from Baseline through End of Therapy in the cSSSI trials.
+Table 8 summarizes the CPK shifts from Baseline through End of Therapy in the cSSSI adult trials.
 
 Table 8: Incidence of CPK Elevations from Baseline during Therapy in Either the CUBICIN Treatment Group or the Comparator Treatment Group in Phase 3 cSSSI Adult Trials
 
@@ -214,7 +214,7 @@ Infections and Infestations: Clostridium difficile–associated diarrhea [see Wa
 
 Musculoskeletal Disorders: myoglobin increased; rhabdomyolysis (some reports involved patients treated concurrently with CUBICIN and HMG-CoA reductase inhibitors) [see Warnings and Precautions (5.2), Drug Interactions (7.1), and Clinical Pharmacology (12.3)]
 
-Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia [see Warnings and Precautions (5.3)]
+Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia, organizing pneumonia [see Warnings and Precautions (5.3)]
 
 Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5.4)]
 

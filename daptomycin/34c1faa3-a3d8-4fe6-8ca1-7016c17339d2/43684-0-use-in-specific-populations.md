@@ -5,7 +5,9 @@
 Risk Summary
 
 Limited published data on use of CUBICIN RF in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
-In animal reproduction studies performed in rats and rabbits daptomycin was administered intravenously during organogenesis at doses 2 and 4–times, respectively, the recommended 6 mg/kg human dose (on a body surface area basis).No evidence of adverse developmental outcomes was observed.
+In animal reproduction studies performed in rats and rabbits daptomycin was administered intravenously during organogenesis at doses 2 and 4–times, respectively, the recommended 6 mg/kg human dose (on a body surface area basis).
+No evidence of adverse developmental outcomes was observed.
+
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
@@ -31,13 +33,12 @@ Risk Summary
 
 Limited published data report that daptomycin is present in human milk at infant doses of 0.1% of the maternal dose [see Data]2,3,4.
 There is no information on the effects of daptomycin on the breastfed infant or the effects of daptomycin on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for CUBICIN and any potential adverse effects on the breastfed infant from CUBICIN RF or from the underlying maternal condition
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for CUBICIN and any potential adverse effects on the breastfed infant from CUBICIN RF or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of CUBICIN RF in the treatment of cSSSI has been established in the age groups 1 to 17 years of age.
-Use of CUBICIN RF in these age groups is supported by evidence from adequate and well-controlled studies with CUBICIN in adults, with additional data from pharmacokinetic studies in pediatric patients and additional data from a safety, efficacy and PK study in pediatric patients 1 to 17 years of age with cSSSI.
-[see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
+Use of CUBICIN RF in these age groups is supported by evidence from adequate and well-controlled studies with CUBICIN in adults, with additional data from pharmacokinetic studies in pediatric patients and additional data from a safety, efficacy and PK study in pediatric patients 1 to 17 years of age with cSSSI [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
 
 Safety and effectiveness in pediatric patients below the age of one year have not been established.
 Avoid use of CUBICIN RF in pediatric patients younger than one year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5) and Nonclinical Toxicology (13.2)].
