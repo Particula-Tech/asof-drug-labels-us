@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA203266"
+  ],
+  "inn": "gemfibrozil",
+  "labeler": "Cadila Pharmaceuticals Limited",
+  "package_ndcs": [
+    "71209-008-03",
+    "71209-008-08",
+    "71209-008-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "gemfibrozil",
+      "name": "Gemfibrozil"
+    }
+  ],
+  "setid": "0b50849a-66b6-4e8f-9f45-5425a875d366",
+  "source": "dailymed"
+}
