@@ -8,7 +8,9 @@ ZYTIGA® (abiraterone acetate) Tablets are available in the strengths and packag
 
 Storage and Handling
 
-Store at 20°C to 25°C (68°F to 77°F); excursions permitted in the range from 15°C to 30°C (59°F to 86°F) [see USP controlled room temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted in the range from 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+
+Keep out of reach of children.
 
 ZYTIGA 250 mg uncoated Tablets
 
