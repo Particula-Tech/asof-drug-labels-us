@@ -19,7 +19,7 @@ In addition, these data reflect exposure to KEYTRUDA in a non-randomized, open-l
 Across all studies, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among the 2799 patients, 41% were exposed for 6 months or more and 21% were exposed for 12 months or more.
 
-The data described in this section were obtained in four randomized, open-label, active-controlled clinical trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, and KEYNOTE-021) in which KEYTRUDA was administered to 912 patients with melanoma and 741 patients with NSCLC, and two non-randomized, open-label, multi-cohort trials (KEYNOTE-012 and KEYNOTE-087) in which KEYTRUDA was administered to 192 patients with HNSCC and 210 patients with cHL.
+The data described in this section were obtained in five randomized, open-label, active-controlled clinical trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-021, and KEYNOTE-045) in which KEYTRUDA was administered to 912 patients with melanoma, 741 patients with NSCLC, and 542 patients with urothelial carcinoma, and three non-randomized, open-label trials (KEYNOTE-012, KEYNOTE-087, and KEYNOTE-052) in which KEYTRUDA was administered to 192 patients with HNSCC, 210 patients with cHL, and 370 patients with urothelial carcinoma.
 In these trials, KEYTRUDA was administered at 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks.
 
 Melanoma
@@ -349,6 +349,130 @@ Table 10: Selected Laboratory Abnormalities Worsened from Baseline Occurring in 
 | Neutropenia | 24% | 7% |
 
 Hyperbilirubinemia occurred in less than 15% of patients on KEYNOTE-087 (10% all Grades, 2.4% Grade 3-4).
+
+Urothelial Carcinoma
+
+Cisplatin Ineligible Patients with Urothelial Carcinoma
+
+The safety of KEYTRUDA was investigated in Study KEYNOTE-052, a single-arm trial that enrolled 370 patients with locally advanced or metastatic urothelial carcinoma who were not eligible for cisplatin-containing chemotherapy.
+Patients with autoimmune disease or medical conditions that required systemic corticosteroids or other immunosuppressive medications were ineligible.
+Patients received KEYTRUDA 200 mg every 3 weeks until unacceptable toxicity or either radiographic or clinical disease progression.
+The median duration of exposure to KEYTRUDA was 2.8 months (range: 1 day to 15.8 months).
+
+The most common adverse reactions (reported in at least 20% of patients) were fatigue, musculoskeletal pain, decreased appetite, constipation, rash and diarrhea.
+KEYTRUDA was discontinued due to adverse reactions in 11% of patients.
+Eighteen patients (5%) died from causes other than disease progression.
+Five patients (1.4%) who were treated with KEYTRUDA experienced sepsis which led to death, and three patients (0.8%) experienced pneumonia which led to death.
+Adverse reactions leading to interruption of KEYTRUDA occurred in 22% of patients; the most common (≥1%) were liver enzyme increase, diarrhea, urinary tract infection, acute kidney injury, fatigue, joint pain, and pneumonia.
+Serious adverse reactions occurred in 42% of patients.
+The most frequent serious adverse reactions (≥2%) were urinary tract infection, hematuria, acute kidney injury, pneumonia, and urosepsis.
+
+Immune-related adverse reactions that required systemic glucocorticoids occurred in 8% of patients, use of hormonal supplementation due to an immune-related adverse reaction occurred in 8% of patients, and 5% of patients required at least one steroid dose ≥ 40 mg oral prednisone equivalent.
+
+Table 11 summarizes the incidence of adverse reactions occurring in at least 10% of patients receiving KEYTRUDA.
+
+Table 11: Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA in KEYNOTE-052
+
+| Adverse Reaction | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3 – 4 (%) |
+| --- | --- | --- |
+|  | KEYTRUDA 200 mg every 3 weeks N=370 |  |
+| All Adverse Reactions | 96 | 49 |
+| Blood and Lymphatic System Disorders |  |  |
+| Anemia | 17 | 7 |
+| Gastrointestinal Disorders |  |  |
+| Constipation | 21 | 1.1 |
+| DiarrheaIncludes diarrhea, colitis, enterocolitis, gastroenteritis, frequent bowel movements | 20 | 2.4 |
+| Nausea | 18 | 1.1 |
+| Abdominal painIncludes abdominal pain, pelvic pain, flank pain, abdominal pain lower, tumor pain, bladder pain, hepatic pain, suprapubic pain, abdominal discomfort, abdominal pain upper | 18 | 2.7 |
+| Elevated LFTsIncludes autoimmune hepatitis, hepatitis, hepatitis toxic, liver injury, transaminases increased, hyperbilirubinemia, blood bilirubin increased, alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzymes increased, liver function tests increased | 13 | 3.5 |
+| Vomiting | 12 | 0 |
+| General Disorders and Administration Site Conditions |  |  |
+| FatigueIncludes fatigue, asthenia | 38 | 6 |
+| Pyrexia | 11 | 0.5 |
+| Weight decreased | 10 | 0 |
+| Infections and Infestations |  |  |
+| Urinary tract infection | 19 | 9 |
+| Metabolism and Nutrition Disorders |  |  |
+| Decreased appetite | 22 | 1.6 |
+| Hyponatremia | 10 | 4.1 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Musculoskeletal painIncludes back pain, bone pain, musculoskeletal chest pain, musculoskeletal pain, myalgia, neck pain, pain in extremity, spinal pain | 24 | 4.9 |
+| Arthralgia | 10 | 1.1 |
+| Renal and Urinary Disorders |  |  |
+| Blood creatinine increased | 11 | 1.1 |
+| Hematuria | 13 | 3.0 |
+| Respiratory, Thoracic, and Mediastinal Disorders |  |  |
+| Cough | 14 | 0 |
+| Dyspnea | 11 | 0.5 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| RashIncludes dermatitis, dermatitis bullous, eczema, erythema, rash, rash macular, rash maculo-papular, rash pruritic, rash pustular, skin reaction, dermatitis acneform, seborrheic dermatitis, palmar-plantar erythrodysesthesia syndrome, rash generalized | 21 | 0.5 |
+| Pruritis | 19 | 0.3 |
+| Edema peripheral | 14 | 1.1 |
+
+Previously Treated Urothelial Carcinoma
+
+The safety of KEYTRUDA for the treatment of patients with locally advanced or metastatic urothelial carcinoma with disease progression following platinum-containing chemotherapy was investigated in Study KEYNOTE-045.
+KEYNOTE-045 was a multicenter, open-label, randomized (1:1), active-controlled trial in which 266 patients received KEYTRUDA 200 mg every 3 weeks or investigator's choice of chemotherapy (n=255), consisting of paclitaxel (n=84), docetaxel (n=84) or vinflunine (n=87) [see Clinical Studies (14.5)].
+Patients with autoimmune disease or a medical condition that required systemic corticosteroids or other immunosuppressive medications were ineligible.
+The median duration of exposure was 3.5 months (range: 1 day to 20 months) in patients who received KEYTRUDA and 1.5 months (range: 1 day to 14 months) in patients who received chemotherapy.
+
+KEYTRUDA was discontinued due to adverse reactions in 8% of patients.
+The most common adverse reaction resulting in permanent discontinuation of KEYTRUDA was pneumonitis (1.9%).
+Adverse reactions leading to interruption of KEYTRUDA occurred in 20% of patients; the most common (≥1%) were urinary tract infection (1.5%), diarrhea (1.5%), and colitis (1.1%).
+The most common adverse reactions (occurring in at least 20% of patients who received KEYTRUDA) were fatigue, musculoskeletal pain, pruritus, decreased appetite, nausea and rash.
+Serious adverse reactions occurred in 39% of KEYTRUDA-treated patients.
+The most frequent serious adverse reactions (≥2%) in KEYTRUDA-treated patients were urinary tract infection, pneumonia, anemia, and pneumonitis.
+
+Table 12 summarizes the incidence of adverse reactions occurring in at least 10% of patients receiving KEYTRUDA.
+Table 13 summarizes the incidence of laboratory abnormalities that occurred in at least 20% of patients receiving KEYTRUDA.
+
+Table 12: Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA in KEYNOTE-045
+
+| Adverse Reaction | All GradesGraded per NCI CTCAE v4.0 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
+| --- | --- | --- | --- | --- |
+|  | KEYTRUDA 200 mg every 3 weeks |  | ChemotherapyChemotherapy: paclitaxel, docetaxel, or vinflunine |  |
+|  | n=266 |  | n=255 |  |
+| Gastrointestinal Disorders |  |  |  |  |
+| Nausea | 21 | 1.1 | 29 | 1.6 |
+| Constipation | 19 | 1.1 | 32 | 3.1 |
+| DiarrheaIncludes diarrhea, gastroenteritis, colitis, enterocolitis | 18 | 2.3 | 19 | 1.6 |
+| Vomiting | 15 | 0.4 | 13 | 0.4 |
+| Abdominal pain | 13 | 1.1 | 13 | 2.7 |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| FatigueIncludes asthenia, fatigue, malaise lethargy | 38 | 4.5 | 56 | 11 |
+| Pyrexia | 14 | 0.8 | 13 | 1.2 |
+| Infections and Infestations |  |  |  |  |
+| Urinary tract infection | 15 | 4.9 | 14 | 4.3 |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Decreased appetite | 21 | 3.8 | 21 | 1.2 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
+| Musculoskeletal painIncludes back pain, myalgia, bone pain, musculoskeletal pain, pain in extremity, musculoskeletal chest pain, musculoskeletal discomfort, neck pain | 32 | 3.0 | 27 | 2.0 |
+| Renal and Urinary Disorders |  |  |  |  |
+| HematuriaIncludes blood urine present, hematuria, chromaturia | 12 | 2.3 | 8 | 1.6 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| CoughIncludes cough, productive cough | 15 | 0.4 | 9 | 0 |
+| DyspneaIncludes dyspnea, dyspnea exertional, wheezing | 14 | 1.9 | 12 | 1.2 |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
+| Pruritus | 23 | 0 | 6 | 0.4 |
+| RashIncludes rash maculo-papular, rash genital rash, rash erythematous, rash papular, rash pruritic, rash pustular, erythema, drug eruption, eczema, eczema asteatotic, dermatitis contact, dermatitis acneiform, dermatitis, seborrhoeic keratosis, lichenoid keratosis | 20 | 0.4 | 13 | 0.4 |
+
+Table 13: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Urothelial Carcinoma Patients Receiving KEYTRUDA in KEYNOTE-045
+
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 240 to 248 patients) and chemotherapy (range: 238 to 244 patients); phosphate decreased: KEYTRUDA n=232 and chemotherapy n=222. | All GradesGraded per NCI CTCAE v4.0 % | Grades 3-4 % | All Grades % | Grades 3-4 % |
+| --- | --- | --- | --- | --- |
+|  | KEYTRUDA 200 mg every 3 weeks |  | Chemotherapy |  |
+| Chemistry |  |  |  |  |
+| Glucose increased | 52 | 8 | 60 | 7 |
+| Hemoglobin decreased | 52 | 13 | 68 | 18 |
+| Lymphocytes decreased | 45 | 15 | 53 | 25 |
+| Albumin decreased | 43 | 1.7 | 50 | 3.8 |
+| Sodium decreased | 37 | 9 | 47 | 13 |
+| Alkaline phosphatase increased | 37 | 7 | 33 | 4.9 |
+| Creatinine increased | 35 | 4.4 | 28 | 2.9 |
+| Phosphate decreased | 29 | 8 | 34 | 14 |
+| Aspartate aminotransferase increased | 28 | 4.1 | 20 | 2.5 |
+| Potassium increased | 28 | 0.8 | 27 | 6 |
+| Calcium decreased | 26 | 1.6 | 34 | 2.1 |
 
 ## 6.2 Immunogenicity
 

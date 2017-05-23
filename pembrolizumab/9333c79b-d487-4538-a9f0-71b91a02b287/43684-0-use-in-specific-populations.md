@@ -52,5 +52,5 @@ The concentrations of pembrolizumab were comparable in adult and pediatric patie
 
 ## 8.5 Geriatric Use
 
-Of 3355 patients with melanoma, NSCLC, HNSCC or cHL who were treated with KEYTRUDA in clinical studies, 41% were 65 years and over and 12% were 75 years and over.
+Of 3991 patients with melanoma, NSCLC, HNSCC, cHL or urothelial carcinoma who were treated with KEYTRUDA in clinical studies, 46% were 65 years and over and 16% were 75 years and over.
 No overall differences in safety or effectiveness were observed between elderly patients and younger patients.

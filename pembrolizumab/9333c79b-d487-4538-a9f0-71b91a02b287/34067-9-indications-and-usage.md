@@ -28,3 +28,12 @@ KEYTRUDA is indicated for the treatment of adult and pediatric patients with ref
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+
+## 1.5 Urothelial Carcinoma
+
+KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who are not eligible for cisplatin-containing chemotherapy [see Clinical Studies (14.5)].
+
+This indication is approved under accelerated approval based on tumor response rate and duration of response.
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
+
+KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who have disease progression during or following platinum-containing chemotherapy or within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy [see Clinical Studies (14.5)].
