@@ -58,7 +58,7 @@ Contains: 1 Starting Pack (0.5 mg* × 11 tablets) and (1 mg† × 14 tablets) 1 
 
 ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0069-0468-56
 
