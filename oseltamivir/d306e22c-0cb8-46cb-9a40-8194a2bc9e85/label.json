@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA209093"
+  ],
+  "inn": "oseltamivir",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1264-1",
+    "69238-1265-1",
+    "69238-1266-1"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "oseltamivir",
+      "name": "Oseltamivir Phosphate"
+    }
+  ],
+  "setid": "d306e22c-0cb8-46cb-9a40-8194a2bc9e85",
+  "source": "dailymed"
+}
