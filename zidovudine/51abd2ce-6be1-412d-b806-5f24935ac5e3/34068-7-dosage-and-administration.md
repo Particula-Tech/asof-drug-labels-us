@@ -28,9 +28,9 @@ In some cases the dose calculated by mg per kg will not be the same as that calc
 
 ## 2.3 Prevention of Maternal-Fetal HIV-1 Transmission
 
-The recommended dosage regimen for administration to pregnant women (greater than 14 weeks of pregnancy) and their neonates is: Maternal Dosing: 100 mg orally 5 times per day until the start of labor [see Clinical Studies (14.3)].
+The recommended dosage regimen for administration to pregnant women (greater than 14 weeks of pregnancy) and their neonates is: Maternal Dosing 100 mg orally 5 times per day until the start of labor [see Clinical Studies (14.3)].
 During labor and delivery, intravenous zidovudine should be administered at 2 mg per kg (total body weight) over 1 hour followed by a continuous intravenous infusion of 1 mg per kg per hour (total body weight) until clamping of the umbilical cord.
-Neonatal Dosing: Start neonatal dosing within 12 hours after birth and continue through 6 weeks of age.
+Neonatal Dosing Start neonatal dosing within 12 hours after birth and continue through 6 weeks of age.
 Neonates unable to receive oral dosing may be administered zidovudine intravenously.
 See Table 2.
 

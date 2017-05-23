@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Zidovudine is an anti retroviral agent [see Microbiology (12.4)].
+Zidovudine is an antiretroviral agent [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -102,7 +102,7 @@ Effect of Coadministered Drugs on Zidovudine AUCa
 | Lamivudine 300 mg every 12 h | single 200 mg | 12 | ↑13% | 90% CI: 2% to 27% | ↔ |
 | Methadone 30 to 90 mg daily | 200 mg every 4 h | 9 | ↑43% | Range: 16% to 64%b | ↔ |
 | Nelfinavir 750 mg every 8 h x 7 to 10 days | single 200 mg | 11 | ↓35% | Range: 28% to 41%b | ↔ |
-| Probenecid 500 mg every 6 h x 2 days | 2 mg/kg every 8 h x 3 days | 3 | ↑106% | Range 100% to 170%b | Not Assessed |
+| Probenecid 500 mg every 6 h x 2 days | 2 mg/kg every 8 h x 3 days | 3 | ↑106% | Range: 100% to 170%b | Not Assessed |
 | Rifampin 600 mg daily x 14 days | 200 mg every 8 h x 14 days | 8 | ↓47% | 90% CI: 41% to 53% | Not Assessed |
 | Ritonavir 300 mg every 6 h x 4 days | 200 mg every 8 h x 4 days | 9 | ↓25% | 95% CI: 15% to 34% | ↔ |
 | Valproic acid 250 mg or 500 mg every 8 h x 4 days | 100 mg every 8 h x 4 days | 6 | ↑80% | Range: 64% to 130%b | Not Assessed |

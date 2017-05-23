@@ -38,9 +38,9 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Subjects with As
 
 | Test (Abnormal Level) | Zidovudine 500 mg/day (n = 453) | Placebo (n = 428) |
 | --- | --- | --- |
-| Anemia (Hgb<8 g/dL) | 1% | <1% |
+| Anemia (Hgb <8 g/dL) | 1% | <1% |
 | Granulocytopenia (<750 cells/mm3) | 2% | 2% |
-| Thrombocytopenia (platelets<50,000/mm3) | 0% | <1% |
+| Thrombocytopenia (platelets <50,000/mm3) | 0% | <1% |
 | ALT (>5 x ULN) | 3% | 3% |
 | AST (>5 x ULN) | 1% | 2% |
 | ULN = Upper limit of normal. |  |  |
@@ -79,9 +79,9 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Subjec
 
 | Test (Abnormal Level) | EPIVIR plus Zidovudine | Didanosine |
 | --- | --- | --- |
-| Neutropenia (ANC<400 cells/mm3) | 8% | 3% |
-| Anemia (Hgb<7 g/dL) | 4% | 2% |
-| Thrombocytopenia (platelets<50,000/mm3) | 1% | 3% |
+| Neutropenia (ANC <400 cells/mm3) | 8% | 3% |
+| Anemia (Hgb <7 g/dL) | 4% | 2% |
+| Thrombocytopenia (platelets <50,000/mm3) | 1% | 3% |
 | ALT (>10 x ULN) | 1% | 3% |
 | AST (>10 x ULN) | 2% | 4% |
 | Lipase (>2.5 x ULN) | 3% | 3% |

@@ -23,8 +23,8 @@ However, no embryotoxicity was observed at doses that produced systemic exposure
 
 Data
 
-Human Data: Based on prospective reports to the APR of over 13,000 exposures to zidovudine during pregnancy resulting in live births (including over 4,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for zidovudine (2.9%) compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 3.2% (95% CI: 2.7% to 3.8%) following first trimester exposure to zidovudine-containing regimens.
+Human Data: Based on prospective reports to the APR of over 13,000 exposures to zidovudine during pregnancy resulting in live births (including over 4,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for zidovudine compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 3.2% (95% CI: 2.7% to 3.8%) following first trimester exposure to zidovudine-containing regimens and 2.8% (95% CI: 2.5% to 3.2%) following second/third trimester exposure to zidovudine-containing regimens.
 
 A randomized, double-blind, placebo-controlled trial was conducted in HIV-1-infected pregnant women to determine the utility of zidovudine for the prevention of maternal-fetal HIV-1-transmission [see Clinical Studies (14.3)].
 Zidovudine treatment during pregnancy reduced the rate of maternal-fetal HIV-1 transmission from 24.9% for infants born to placebo-treated mothers to 7.8% for infants born to mothers treated with zidovudine.

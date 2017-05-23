@@ -62,4 +62,4 @@ Advise patients not to double their next dose or take more than the prescribed d
 
 EPIVIR is a registered trademarks of the ViiV Healthcare group of companies.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 04/2017
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 05/2017

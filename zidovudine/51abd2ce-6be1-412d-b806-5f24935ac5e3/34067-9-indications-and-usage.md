@@ -2,7 +2,7 @@
 
 ## 1.1 Treatment of HIV-1
 
-Zidovudine oral solution a nucleoside reverse transcriptase inhibitor, is indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection.
+Zidovudine oral solution, a nucleoside reverse transcriptase inhibitor, is indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection.
 
 ## 1.2 Prevention of Maternal-Fetal HIV-1 Transmission
 
@@ -11,7 +11,7 @@ The indication is based on a dosing regimen that included 3 components:
 
 1. antepartum therapy of HIV-1- infected mothers
 2. intrapartum therapy of HIV-1- infected mothers
-3. post-partum therapy of HIV-1- exposed neonate.
+3. post-partum therapy of HIV-1- exposed neonate
 
 Points to consider prior to initiating zidovudine oral solution in pregnant women for the prevention of maternal-fetal HIV-1 transmission include:
 
