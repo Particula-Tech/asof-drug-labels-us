@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA076313",
+    "ANDA076330"
+  ],
+  "inn": "octreotide",
+  "labeler": "West-Ward Pharmaceuticals Corp.",
+  "package_ndcs": [
+    "0641-6174-01",
+    "0641-6174-10",
+    "0641-6175-01",
+    "0641-6175-10",
+    "0641-6176-01",
+    "0641-6176-10",
+    "0641-6177-01",
+    "0641-6178-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "octreotide acetate",
+      "name": "Octreotide Acetate"
+    }
+  ],
+  "setid": "9502860d-0261-4d69-a4be-827a5376d356",
+  "source": "dailymed"
+}
