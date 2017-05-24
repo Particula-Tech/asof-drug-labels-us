@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 300 mL Bag Label
+# PRINCIPAL DISPLAY PANEL - 300 mL Bag Label
 
 NDC 0009-7807-01 Rx only
 
@@ -6,7 +6,7 @@ ZYVOX® (linezolid) injection
 
 600 mg/300 mL
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 25ºC (77ºF); excursions permitted to 15-30ºC (59-86ºF) [see USP Controlled Room Temperature].
 Do not freeze.
 Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64 mg citric acid, USP 0.85 mg water for injection, USP qs
 
@@ -21,35 +21,46 @@ Check linezolid solution for clarity; it may exhibit a yellow color that intensi
 DOSAGE AND USE: See accompanying prescribing information.
 MADE IN SINGAPORE
 
-PREMIERProRx™
+PREMIERProRx®
 
 7 OTHER
 
-Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 PREMIERProRx™ is a trademark of Premier, Inc., used under license.
+Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
 LOT EXP
 
 freeflex
 
-FSU 0703 01-68-26-050
+1234567890 FSU 0703 01-68-26-050B
 
-PRINCIPAL DISPLAY PANEL - 300 mL Bag Box Label
+# PRINCIPAL DISPLAY PANEL - 300 mL Bag Box Label
 
-NDC 0009-7807-02 Contains 10 of NDC 0009-7807-01 QUANTITY: 1 (10 IV BAGS X 300 mL)
+NDC 0009-7807-01 Rx only
 
-ZYVOX® 600 mg/300 mL
+ZYVOX® (linezolid) injection
 
-(LINEZOLID) INJECTION
+600 mg/300 mL
 
-RX ONLY PREMIERProRx™
+Store at 25ºC (77ºF); excursions permitted to 15-30ºC (59-86ºF) [see USP Controlled Room Temperature].
+Do not freeze.
+Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64 mg citric acid, USP 0.85 mg water for injection, USP qs pH adjusted to 4.8 with sodium hydroxide or hydrochloric acid.
+Sterile and nonpyrogenic.
+Single dose container.
 
-STORE AT 25°C (77°F); EXCURSIONS PERMITTED TO 15-30°C (59-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE].
-DO NOT FREEZE.
-818 100 002
-
-EXP 00/0000 LOT 00 00 00
-
-DISTRIBUTED BY PHARMACIA & UPJOHN DIVISION OF PFIZER INC, NY, NY 10017 PREMIERProRx™ is a trademark of Premier, Inc., used under license.
+Do not use in series connections.
+For intravenous administration Check for leaks by squeezing container.
+If leaks are found, discard, as sterility may be impaired.
+Linezolid is sensitive to light.
+Retain overwrap prior to use.
+DOSAGE AND USE: See accompanying prescribing information.
 MADE IN SINGAPORE
 
-FSU 0703 01-88-26-050
+PREMIERProRx®
+
+7 OTHER
+
+Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
+
+LOT EXP
+
+FSU 0703 01-78-26-050B
