@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204516"
+  ],
+  "inn": "paroxetine",
+  "labeler": "Sebela Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "54766-907-53"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "paroxetine",
+      "name": "BRISDELLE"
+    }
+  ],
+  "setid": "50361fc8-8fba-1c45-e054-00144ff88e88",
+  "source": "dailymed"
+}
