@@ -29,11 +29,18 @@ Use of NSAIDS and Low-Dose Aspirin Inform patients not to use low-dose aspirin c
 
 APOTEX INC. CELECOXIB CAPSULES 50 mg, 100 mg and 200 mg
 
-| Manufactured by | Manufactured for |
-| --- | --- |
-| Apotex Inc | Apotex Corp. |
-| Toronto, Ontario | Weston, Florida |
-| Canada M9L 1T9 | USA 33326 |
+| Manufactured by: |
+| --- |
+| Apotex Inc. |
+| Toronto, Ontario |
+| Canada M9LIT9 |
+| Manufactured by: |
+| Apotex Research Pvt. Ltd. |
+| Bangalore - 560 099 |
+| India |
+| Manufactured for: |
+| Apotex Corp. |
+| Weston, Florida |
+| 33326 |
 
-Revised: November 2016 Rev.
-7
+Revised: November 2016

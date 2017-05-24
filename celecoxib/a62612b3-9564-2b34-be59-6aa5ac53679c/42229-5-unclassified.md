@@ -127,12 +127,17 @@ You can ask your pharmacist or healthcare provider for information about NSAIDs 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-| Manufactured by | Manufactured for |
-| --- | --- |
-| Apotex Inc | Apotex Corp. |
-| Toronto, Ontario | Weston, Florida |
-| Canada M9L 1T9 | USA 33326 |
+| Manufactured by |
+| --- |
+| Apotex Inc |
+| Toronto, Ontario |
+| Canada M9L 1T9 |
+| Manufactured by |
+| Apotex Research Pvt. Ltd. |
+| Bangalore - 560 099 |
+| Manufactured for |
+| Apotex Corp. |
+| Weston, Florida |
+| USA 33326 |
 
 Revised: November 2016
-
-Revision: 7
