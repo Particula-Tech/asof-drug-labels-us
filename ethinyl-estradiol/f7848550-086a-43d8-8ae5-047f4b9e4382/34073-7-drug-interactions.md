@@ -28,8 +28,12 @@ CHCs have been shown to decrease plasma concentrations of acetaminophen, clofibr
 Significant decrease in plasma concentration of lamotrigine has been shown, likely due to induction of lamotrigine glucuronidation.
 This may reduce seizure control; therefore, dosage adjustments of lamotrigine may be necessary.
 
-Women on thyroid hormone replacement therapy may need increased doses of thyroid hormone because serum concentration of thyroid-binding globulin increases with use of CHCs [see Warnings and Precautions (5.12)].
+Women on thyroid hormone replacement therapy may need increased doses of thyroid hormone because serum concentration of thyroid-binding globulin increases with use of CHCs [see Warnings and Precautions (5.13)].
 
-## 7.3 Interference with Laboratory Tests
+## 7.3 Concomitant Use with HCV Combination Therapy – Liver Enzyme Elevation
+
+Do not co-administer Xulane with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations [see Warnings and Precautions (5.4)].
+
+## 7.4 Interference with Laboratory Tests
 
 The use of contraceptive steroids may influence the results of certain laboratory tests, such as coagulation factors, lipids, glucose tolerance, and binding proteins.

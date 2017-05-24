@@ -113,4 +113,4 @@ This Patient Information and Instructions for Use have been approved by the U.S.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 3/2017 NEETS:R13
+Revised: 4/2017 NEETS:R14

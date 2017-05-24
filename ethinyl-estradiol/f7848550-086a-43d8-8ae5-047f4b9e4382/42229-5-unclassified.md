@@ -57,7 +57,8 @@ Do not use Xulane if you:
 - •have high blood pressure that medicine cannot control
 - •have diabetes with kidney, eye, nerve, or blood vessel damage
 - •have had certain kinds of severe migraine headaches with aura, numbness, weakness or changes in vision, or have any migraine headaches if you are over age 35
-- •have liver disease, including liver tumors
+- •have liver disease, including liver tumors, take any Hepatitis C drug combination containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir.
+  This may increase levels of the liver enzyme “alanine aminotransferase” (ALT) in the blood.
 - •have unexplained vaginal bleeding
 - •are pregnant or think you may be pregnant.
   However, Xulane is not known to cause birth defects when used by accident during pregnancy.

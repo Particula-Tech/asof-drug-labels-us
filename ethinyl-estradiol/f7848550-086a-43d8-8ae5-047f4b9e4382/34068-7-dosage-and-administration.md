@@ -114,15 +114,15 @@ IF THE WOMAN FORGETS TO CHANGE HER PATCH
   There is now a new “Patch Change Day” and a new “Day 1.”
   The woman must use back-up contraception, such as a condom and spermicide or diaphragm and spermicide, for the first week of the new cycle.
 - •in the middle of the patch cycle (Week 2/Day 8 or Week 3/Day 15),
-  - -for 1 or 2 days (up to 48 hours), she should apply a new patch immediately.
+  - •for 1 or 2 days (up to 48 hours), she should apply a new patch immediately.
     The next patch should be applied on the usual “Patch Change Day.”
     No back-up contraception is needed.
-  - -for more than 2 days (48 hours or more), SHE MAY NOT BE PROTECTED FROM PREGNANCY.
+  - •for more than 2 days (48 hours or more), SHE MAY NOT BE PROTECTED FROM PREGNANCY.
     She should stop the current contraceptive cycle and start a new 4-week cycle immediately by putting on a new patch.
     There is now a new “Patch Change Day” and a new “Day 1.”
     The woman must use back-up contraception for 1 week.
 - •at the end of the patch cycle (Week 4/Day 22),
-  - -If the woman forgets to remove her patch, she should take it off as soon as she remembers.
+  - •If the woman forgets to remove her patch, she should take it off as soon as she remembers.
     The next cycle should be started on the usual “Patch Change Day,” which is the day after Day 28.
     No back-up contraception is needed.
 

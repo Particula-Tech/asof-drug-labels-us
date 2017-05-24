@@ -103,7 +103,13 @@ Rupture of hepatic adenomas may cause death through intra-abdominal hemorrhage.
 Studies have shown an increased risk of developing hepatocellular carcinoma in long-term (> 8 years) CHC users.
 However, the risk of liver cancers in CHC users is less than one case per million users.
 
-## 5.4 High Blood Pressure
+## 5.4 Risk of Liver Enzyme Elevations with Concomitant Hepatitis C Treatment
+
+During clinical trials with the Hepatitis C combination drug regimen that contains ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, ALT elevations greater than 5 times the upper limit of normal (ULN), including some cases greater than 20 times the ULN, were significantly more frequent in women using ethinyl estradiol-containing medications, such as CHCs.
+Discontinue Xulane prior to starting therapy with the combination drug regimen ombitasvir/paritaprevir/ritonavir, with or without dasabuvir [see Contraindications (4)].
+Xulane can be restarted approximately 2 weeks following completion of treatment with the Hepatitis C combination drug regimen.
+
+## 5.5 High Blood Pressure
 
 Xulane is contraindicated in women with uncontrolled hypertension or hypertension with vascular disease [see Contraindications (4)].
 For women with well-controlled hypertension, monitor blood pressure and stop Xulane if blood pressure rises significantly.
@@ -111,14 +117,14 @@ For women with well-controlled hypertension, monitor blood pressure and stop Xul
 An increase in blood pressure has been reported in women taking hormonal contraceptives, and this increase is more likely in older women with extended duration of use.
 The incidence of hypertension increases with increasing concentrations of progestin.
 
-## 5.5 Gallbladder Disease
+## 5.6 Gallbladder Disease
 
 Studies suggest a small increased relative risk of developing gallbladder disease among CHC users.
 Use of CHCs may also worsen existing gallbladder disease.
 A past history of CHC-related cholestasis predicts an increased risk with subsequent CHC use.
 Women with a history of pregnancy-related cholestasis may be at an increased risk for CHC-related cholestasis.
 
-## 5.6 Carbohydrate and Lipid Metabolic Effects
+## 5.7 Carbohydrate and Lipid Metabolic Effects
 
 Carefully monitor prediabetic and diabetic women who take Xulane.
 CHCs may decrease glucose tolerance in a dose-related fashion.
@@ -129,13 +135,13 @@ A small proportion of women will have adverse lipid changes while on hormonal co
 
 Women with hypertriglyceridemia, or a family history thereof, may be at an increased risk of pancreatitis when using hormonal contraceptives.
 
-## 5.7 Headache
+## 5.8 Headache
 
 If a woman taking Xulane develops new headaches that are recurrent, persistent or severe, evaluate the cause and discontinue Xulane if indicated.
 
 Consider discontinuation of Xulane in the case of increased frequency or severity of migraine during hormonal contraceptive use (which may be prodromal of a cerebrovascular event).
 
-## 5.8 Bleeding Irregularities
+## 5.9 Bleeding Irregularities
 
 ### Unscheduled Bleeding and Spotting
 
@@ -178,7 +184,7 @@ If the patient has adhered to the prescribed regimen and misses two consecutive 
 
 Some women may encounter amenorrhea or oligomenorrhea after discontinuation of hormonal contraceptive use, especially when such a condition was pre-existent.
 
-## 5.9 Hormonal Contraceptive Use Before or During Early Pregnancy
+## 5.10 Hormonal Contraceptive Use Before or During Early Pregnancy
 
 Extensive epidemiological studies have revealed no increased risk of birth defects in women who have used oral contraceptives prior to pregnancy.
 Studies also do not suggest a teratogenic effect, particularly in so far as cardiac anomalies and limb reduction defects are concerned, when oral contraceptives are taken inadvertently during early pregnancy.
@@ -186,11 +192,11 @@ Discontinue Xulane use if pregnancy is confirmed.
 
 Administration of CHCs should not be used as a test for pregnancy [see Use in Specific Populations (8.1)].
 
-## 5.10 Depression
+## 5.11 Depression
 
 Carefully observe women with a history of depression and discontinue Xulane if depression recurs to a serious degree.
 
-## 5.11 Carcinoma of Breasts and Cervix
+## 5.12 Carcinoma of Breasts and Cervix
 
 Xulane is contraindicated in women who currently have or have had breast cancer because breast cancer may be hormonally sensitive [see Contraindications (4)].
 
@@ -200,20 +206,20 @@ Although some past studies have suggested that CHCs might increase the incidence
 Some studies suggest that combination oral contraceptive use has been associated with an increase in the risk of cervical cancer or intraepithelial neoplasia.
 However, there continues to be controversy about the extent to which such findings may be due to differences in sexual behavior and other factors.
 
-## 5.12 Effect on Binding Globulins
+## 5.13 Effect on Binding Globulins
 
 The estrogen component of CHCs may raise the serum concentrations of thyroxine-binding globulin, sex hormone-binding globulin and cortisol-binding globulin.
 The dose of replacement thyroid hormone or cortisol therapy may need to be increased.
 
-## 5.13 Monitoring
+## 5.14 Monitoring
 
 A woman who is taking hormonal contraceptive should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated healthcare.
 
-## 5.14 Hereditary Angioedema
+## 5.15 Hereditary Angioedema
 
 In women with hereditary angioedema, exogenous estrogens may induce or exacerbate symptoms of angioedema.
 
-## 5.15 Chloasma
+## 5.16 Chloasma
 
 Chloasma may occasionally occur, especially in women with a history of chloasma gravidarum.
 Women with a tendency to chloasma should avoid exposure to the sun or ultraviolet radiation while using Xulane.
