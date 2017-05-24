@@ -8,7 +8,7 @@ Overdose of benzodiazepines in combination with other CNS depressants (including
 ## Management of Overdosage
 
 Following overdose with oral benzodiazepines, general supportive measures should be employed including the monitoring of respiration, pulse, and blood pressure.
-Vomiting should be induced (within one hour) if the patient is conscious.
+Vomiting should be induced (within 1 hour) if the patient is conscious.
 Gastric lavage should be undertaken with the airway protected if the patient is unconscious.
 Intravenous fluids should be administered.
 If there is no advantage in emptying the stomach, activated charcoal should be given to reduce absorption.

@@ -4,6 +4,8 @@ NDC 0378-0271-01
 
 Diazepam Tablets, USP CIV 2 mg
 
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
 Rx only 100 Tablets
 
 Each tablet contains 2 mg of diazepam, USP.
@@ -25,13 +27,15 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0271A8
+RM0271A9
 
 # PRINCIPAL DISPLAY PANEL - 5 mg
 
 NDC 0378-0345-01
 
 Diazepam Tablets, USP CIV 5 mg
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Tablets
 
@@ -54,13 +58,15 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0345A8
+RM0345A9
 
 # PRINCIPAL DISPLAY PANEL - 10 mg
 
 NDC 0378-0477-01
 
 Diazepam Tablets, USP CIV 10 mg
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Tablets
 
@@ -83,4 +89,4 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0477A10
+RM0477A11

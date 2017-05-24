@@ -1,11 +1,22 @@
 # WARNINGS
 
-Diazepam is not recommended in the treatment of psychotic patients and should not be employed instead of appropriate treatment.
+Concomitant use of benzodiazepiones, including diazepam tablets, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
-Since diazepam has a central nervous system depressant effect, patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during diazepam therapy.
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe diazepam tablets concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of diazepam tablets than indicated in the absence of an opioid and titrate based on clinical response.
+If an opioid is initiated in a patient already taking diazepam tablets, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
 
-As with other agents that have anticonvulsant activity, when diazepam is used as an adjunct in treating convulsive disorders, the possibility of an increase in the frequency and/or severity of grand mal seizures may require an increase in the dosage of standard anticonvulsant medication.
-Abrupt withdrawal of diazepam in such cases may also be associated with a temporary increase in the frequency and/or severity of seizures.
+Advise both patients and caregivers about the risks of respiratory depression and sedation when diazepam tablets are used with opioids.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see Drug Interactions).
+
+Diazepam tablets are not recommended in the treatment of psychotic patients and should not be employed instead of appropriate treatment.
+
+Since diazepam tablets have a central nervous system depressant effect, patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during diazepam tablets therapy.
+
+As with other agents that have anticonvulsant activity, when diazepam tablets are used as an adjunct in treating convulsive disorders, the possibility of an increase in the frequency and/or severity of grand mal seizures may require an increase in the dosage of standard anticonvulsant medication.
+Abrupt withdrawal of diazepam tablets in such cases may also be associated with a temporary increase in the frequency and/or severity of seizures.
 
 ## Pregnancy
 
@@ -25,19 +36,19 @@ Patients should also be advised that if they become pregnant during therapy or i
 
 ## Labor and Delivery
 
-Special care must be taken when diazepam is used during labor and delivery, as high single doses may produce irregularities in the fetal heart rate and hypotonia, poor sucking, hypothermia, and moderate respiratory depression in the neonates.
+Special care must be taken when diazepam tablets are used during labor and delivery, as high single doses may produce irregularities in the fetal heart rate and hypotonia, poor sucking, hypothermia, and moderate respiratory depression in the neonates.
 With newborn infants it must be remembered that the enzyme system involved in the breakdown of the drug is not yet fully developed (especially in premature infants).
 
 ## Nursing Mothers
 
 Diazepam passes into breast milk.
-Breastfeeding is therefore not recommended in patients receiving diazepam.
+Breastfeeding is therefore not recommended in patients receiving diazepam tablets.
 
 # PRECAUTIONS
 
 ## General
 
-If diazepam is to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed - particularly with known compounds that may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants (see Drug Interactions).
+If diazepam tablets are to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed - particularly with known compounds that may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants (see Drug Interactions).
 
 The usual precautions are indicated for severely depressed patients or those in whom there is any evidence of latent depression or anxiety associated with depression, particularly the recognition that suicidal tendencies may be present and protective measures may be necessary.
 
@@ -51,21 +62,28 @@ Benzodiazepines should be used with extreme caution in patients with a history o
 
 In debilitated patients, it is recommended that the dosage be limited to the smallest effective amount to preclude the development of ataxia or oversedation (2 mg to 2.5 mg once or twice daily, initially, to be increased gradually as needed and tolerated).
 
-Some loss of response to the effects of benzodiazepines may develop after repeated use of diazepam for a prolonged time.
+Some loss of response to the effects of benzodiazepines may develop after repeated use of diazepam tablets for a prolonged time.
 
 ## Information for Patients
 
 To assure the safe and effective use of benzodiazepines, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug.
 The risk of dependence increases with duration of treatment; it is also greater in patients with a history of alcohol or drug abuse.
 
-Patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during diazepam therapy.
-As is true of most CNS-acting drugs, patients receiving diazepam should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
+Patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during diazepam tablets therapy.
+As is true of most CNS-acting drugs, patients receiving diazepam tablets should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
 
 ## Drug Interactions
 
+### Opioids
+
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
+
 ### Centrally Acting Agents
 
-If diazepam is to be combined with other centrally acting agents, careful consideration should be given to the pharmacology of the agents employed particularly with compounds that may potentiate or be potentiated by the action of diazepam, such as phenothiazines, antipsychotics, anxiolytics/sedatives, hypnotics, anticonvulsants, narcotic analgesics, anesthetics, sedative antihistamines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
+If diazepam tablets are to be combined with other centrally acting agents, careful consideration should be given to the pharmacology of the agents employed particularly with compounds that may potentiate or be potentiated by the action of diazepam tablets, such as phenothiazines, antipsychotics, anxiolytics/sedatives, hypnotics, anticonvulsants, narcotic analgesics, anesthetics, sedative antihistamines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
 
 ### Alcohol
 
@@ -97,7 +115,7 @@ No adverse effects on fertility or offspring viability were noted at a dose of 8
 
 ## Pregnancy
 
-### Teratogenic Effects. Pregnancy Category D
+### Pregnancy Category D
 
 (see WARNINGS: Pregnancy).
 
@@ -115,8 +133,8 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## Hepatic Insufficiency
 
-Decreases in clearance and protein binding, and increases in volume of distribution and half-life has been reported in patients with cirrhosis.
-In such patients, a 2-fold to 5-fold increase in mean half-life has been reported.
+Decreases in clearance and protein binding, and increases in volume of distribution and half-life have been reported in patients with cirrhosis.
+In such patients, a 2- to 5-fold increase in mean half-life has been reported.
 Delayed elimination has also been reported for the active metabolite desmethyldiazepam.
 Benzodiazepines are commonly implicated in hepatic encephalopathy.
 Increases in half-life have also been reported in hepatic fibrosis and in both acute and chronic hepatitis (see CLINICAL PHARMACOLOGY: Pharmacokinetics in Special Populations: Hepatic Insufficiency).

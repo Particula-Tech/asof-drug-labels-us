@@ -27,13 +27,13 @@ Other: changes in salivation, including dry mouth, hypersalivation
 Antegrade amnesia may occur using therapeutic dosages, the risk increasing at higher dosages.
 Amnestic effects may be associated with inappropriate behavior.
 
-Minor changes in EEG patterns, usually low-voltage fast activity, have been observed in patients during and after diazepam therapy and are of no known significance.
+Minor changes in EEG patterns, usually low-voltage fast activity, have been observed in patients during and after diazepam tablets therapy and are of no known significance.
 
 Because of isolated reports of neutropenia and jaundice, periodic blood counts and liver function tests are advisable during long-term therapy.
 
 ## Postmarketing Experience
 
-### Injury, Poisoning, and Procedural Complications
+### Injury, Poisoning and Procedural Complications
 
 There have been reports of falls and fractures in benzodiazepine users.
-The risk is increased in those taking concomitant sedatives (including alcohol) and in the elderly.
+The risk is increased in those taking concomitant sedatives (including alcohol), and in the elderly.

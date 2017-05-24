@@ -17,7 +17,7 @@ Chronic use (even at therapeutic doses) may lead to the development of physical 
 
 ## Rebound Anxiety
 
-A transient syndrome whereby the symptoms that led to treatment with diazepam recur in an enhanced form.
+A transient syndrome whereby the symptoms that led to treatment with diazepam tablets recur in an enhanced form.
 This may occur upon discontinuation of treatment.
 It may be accompanied by other reactions including mood changes, anxiety, and restlessness.
 

@@ -17,9 +17,9 @@ This results in an average decrease in Cmax of 20% in addition to a 27% decrease
 
 Diazepam and its metabolites are highly bound to plasma proteins (diazepam 98%).
 Diazepam and its metabolites cross the blood-brain and placental barriers and are also found in breast milk in concentrations approximately one tenth of those in maternal plasma (days 3 to 9 post-partum).
-In young healthy males, the volume of distribution at steady-state is 0.8 to 1 L/kg.
+In young healthy males, the volume of distribution at steady-state is 0.8 to 1.0 L/kg.
 The decline in the plasma concentration-time profile after oral administration is biphasic.
-The initial distribution phase has a half-life of approximately one hour, although it may range up to > 3 hours.
+The initial distribution phase has a half-life of approximately 1 hour, although it may range up to > 3 hours.
 
 ### Metabolism
 
@@ -49,7 +49,7 @@ Longer half-lives in infants may be due to incomplete maturation of metabolic pa
 
 ### Geriatric
 
-Elimination half-life increases by approximately one hour for each year of age beginning with a half-life of 20 hours at 20 years of age.
+Elimination half-life increases by approximately 1 hour for each year of age beginning with a half-life of 20 hours at 20 years of age.
 This appears to be due to an increase in volume of distribution with age and a decrease in clearance.
 Consequently, the elderly may have lower peak concentrations, and on multiple dosing higher trough concentrations.
 It will also take longer to reach steady-state.
