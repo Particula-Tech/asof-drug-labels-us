@@ -1,14 +1,10 @@
 # HOW SUPPLIED
 
-Midazolam HCl Syrup is supplied as a clear, red to purplish-red, cherry-brandy flavored syrup containing midazolam hydrochloride equivalent to 2 mg of midazolam/mL; each amber glass bottle of 118 mL of syrup is supplied with 1 press-in bottle adapter, 4 single-use, graduated, oral dispensers and 4 tip caps.
+Midazolam Hydrochloride Syrup
 
-NDC 0054-3566-99 Bottle of 118 mL.
+Midozalam HCl Syrup is supplied as a clear, red to purplish-red, cherry-brandy flavored syrup containing midazolam hydrochloride equivalent to 2 mg of midazolam/mL; each amber glass bottle of 118 mL of syrup is supplied with 1 press-in bottle adapter, 4 single-use, graduated, oral dispensers and 4 tip caps.
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
-[See USP Controlled Room Temperature].
+NDC 0054-3566-99: Bottle of 118 mL
 
-Rxane Laboratories, Inc. Columbus, Ohio 43216
-
-10000075/04 Revised September 2012
-
-© RLI, 2012
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]

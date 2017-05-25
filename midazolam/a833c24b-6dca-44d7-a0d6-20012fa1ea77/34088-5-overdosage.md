@@ -1,9 +1,11 @@
 # OVERDOSAGE
 
+## Symptoms
+
 The manifestations of midazolam overdosage reported are similar to those observed with other benzodiazepines, including sedation, somnolence, confusion, impaired coordination, diminished reflexes, coma, and deleterious effects on vital signs.
 No evidence of specific organ toxicity from midazolam overdosage has been reported.
 
-## Treatment of Overdosage
+## Treatment
 
 Treatment of midazolam overdosage is the same as that followed for overdosage with other benzodiazepines.
 Respiration, pulse rate and blood pressure should be monitored and general supportive measures should be employed.
