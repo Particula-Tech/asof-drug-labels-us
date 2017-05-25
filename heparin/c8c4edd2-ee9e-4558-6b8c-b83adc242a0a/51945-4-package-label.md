@@ -12,9 +12,11 @@ NDC 0409-1402-27 Rx only
 
 Hospira
 
-RL-5113
+RL-5660
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Cartridge Box Label
+
+BREAK SEAL TO OPEN
 
 1 mL Single-use 50 Carpuject™ Sterile Cartridge Units with Luer Lock Needle not included
 
@@ -47,6 +49,8 @@ Hospira
 RL-5111
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mL Cartridge Container Label
+
+BREAK SEAL TO OPEN
 
 0.5 mL Single-use 50 Carpuject™ Sterile Cartridge Units with Luer Lock Preservative-Free Needle not included
 
