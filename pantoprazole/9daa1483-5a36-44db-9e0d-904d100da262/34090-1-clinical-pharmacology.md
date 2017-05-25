@@ -113,9 +113,9 @@ Children and Adolescents 6 through 16 Years of Age
 
 The pharmacokinetics of Pantoprazole Sodium Delayed-Release Tablets were evaluated in children ages 6 through 16 years with a clinical diagnosis of GERD.
 The PK parameters following a single oral dose of 20 mg or 40 mg of pantoprazole sodium delayed-release tablets in children ages 6 through 16 years were highly variable (%CV ranges 40 to 80%).
-The geometric mean AUC estimated from population PK analysis after a 40 mg pantoprazole sodium delayed-release tablet in pediatric patients was about 39% and 10% higher respectively in 6 to 11 and 12 to 16 year-old children, compared to that of adults (Table 5).
+The geometric mean AUC estimated from population PK analysis after a 40 mg pantoprazole sodium delayed-release tablet in pediatric patients was about 39% and 10% higher respectively in 6 to 11 and 12 to 16 year-old children, compared to that of adults (Table 6).
 
-Table 5: PK Parameters in Children and Adolescents 6 through 16 years with GERD receiving 40 mg Pantoprazole Sodium Delayed-Release Tablets
+Table 6: PK Parameters in Children and Adolescents 6 through 16 years with GERD receiving 40 mg Pantoprazole Sodium Delayed-Release Tablets
 
 |  | 6-11 years (n=12) | 12-16 years (n=11) |
 | --- | --- | --- |

@@ -3,7 +3,7 @@
 ## 7.1 Interference with Antiretroviral Therapy
 
 Concomitant use of atazanavir or nelfinavir with proton pump inhibitors is not recommended.
-Coadministration of atazanavir or nelfinavir with proton pump inhibitors is expected to substantially decrease atazanavir or nelfinavir plasma concentrations and may result in a loss of therapeutic effect and development of drug resistance.
+Co-administration of atazanavir or nelfinavir with proton pump inhibitors is expected to substantially decrease atazanavir or nelfinavir plasma concentrations and may result in a loss of therapeutic effect and development of drug resistance.
 
 ## 7.2 Coumarin Anticoagulants
 

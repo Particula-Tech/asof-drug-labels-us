@@ -56,7 +56,7 @@ In this trial, the adverse reactions that were reported more commonly (differenc
 
 In a population pharmacokinetic analysis, the systemic exposure was higher in patients less
 
-than 1 year of age with GERD compared to adults who received a single 40 mg dose (geometric mean AUC was 103% higher in preterm infants and neonates receiving single dose of 2.5 mg of pantoprazole sodium and 23% higher in infants 1 through 11 months of age receiving a single dose of approximately 1.2 mg/kg).
+than 1 year of age with GERD compared to adults who received a single 40 mg dose (geometric mean AUC was 103% higher in preterm infants and neonates receiving single dose of 2.5 mg of pantoprazole sodium, and 23% higher in infants 1 through 11 months of age receiving a single dose of approximately 1.2 mg/kg).
 In these patients, the apparent clearance (CL/F) increased with age (median clearance: 0.6 L/hr, range: 0.03 to 3.2 L/hr).
 
 These doses resulted in pharmacodynamic effects on gastric but not esophageal pH.

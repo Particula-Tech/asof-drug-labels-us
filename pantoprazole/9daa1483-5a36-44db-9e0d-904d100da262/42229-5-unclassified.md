@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Pantoprazole Sodium Delayed-Release Tablets, USP
+Pantoprazole Sodium Delayed-Release Tablets
 
 pan toe’ pra zole soe’ dee um
 
@@ -13,15 +13,20 @@ What is the most important information I should know about pantoprazole sodium d
 Pantoprazole sodiumdelayed-release tablets may help your acid-related symptoms, but you could still have serious stomach problems.
 Talk with your doctor.
 
-Pantoprazole sodiumdelayed-release tablets can cause serious side effects, including:
+Pantoprazole sodiumdelayed-release tablets can cause serious side effects, including: • A type of kidney problem (acute interstitial nephritis).
+Some people who take proton pump inhibitor (PPI) medicines, including pantoprazole sodium delayed-release tablets, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with pantoprazole sodium delayed-release tablets.
+Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
 
 • Diarrhea.
 Pantoprazole sodium delayed-release tablets may increase your risk of getting severe diarrhea.
 This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
 
-Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away. • Bone fractures People who take multiple daily doses of proton pump inhibitor medicines for a long period of time (a year or longer) may have an increased risk offractures of the hip, wrist or spine.
+Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away. • Bone fractures People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk offractures of the hip, wrist or spine.
 You should take pantoprazole sodium delayed-release tablets exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
-Talk to your doctor about your risk of bone fracture if you take pantoprazole sodium delayed-release tablet.
+Talk to your doctor about your risk of bone fracture if you take pantoprazole sodium delayed-release tablet. • Certain types of lupus erythematosus.
+Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
+Some people who take PPI medicines, including pantoprazole sodium delayed-release tablet, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
+Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
 
 Pantoprazole sodium delayed-release tablets can have other serious side effects.
 See “What are the possible side effects of pantoprazole sodium delayed-release tablets?”
@@ -60,34 +65,23 @@ Do not take pantoprazole sodium delayed-release tablets if you are:
 See the end of this Medication Guide for a complete list of ingredients in pantoprazole sodium delayed-release tablets.
 
 • allergic to any proton pump inhibitor (PPI) medicine.
-
 What should I tell my doctor before taking pantoprazole sodium delayed-release
 
 tablets?
 
 Before taking pantoprazole sodiumdelayed-release tablets, tell your doctor if you:
 
-• have been told that you have low magnesium levels in your blood.
+• have been told that you have low magnesium levels in your blood
 
 - have liver problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
-  It is not known if Pantoprazole sodium
-
-delayed-release tablets will harm your unborn baby.
-
+  It is not known if pantoprazole sodium delayed-release tablets will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
-  Pantoprazole sodium delayed-release tablets
-
-may pass into your milk.
-You and your doctor should decide if you will take
-
-pantoprazole sodium delayed-release tablets or breastfeed.
-You should not do both.
-
-Talk with your doctor about the best way to feed your baby if you take pantoprazole
-
-sodium delayed-release tablets.
+  Pantoprazole sodium may pass into your milk.
+  You and your doctor should decide if you will take pantoprazole sodium delayed-release tablets or breastfeed.
+  You hould not do both.
+  Talk with your doctor about the best way to feed your baby if you take pantoprazole sodium delayed-release tablets.
 
 Tell your doctor about all of the medicines you take, including prescription and non­prescription drugs, vitamins and herbal supplements.
 Pantoprazole sodium delayed-release tablets may affect how other medicines work, and other medicines may affect how pantoprazole sodium delayed-release tablets works.
@@ -130,13 +124,6 @@ Pantoprazole sodium delayed-release tablets may cause serious side effects, incl
 
 See “What is the most important information I should know about sodium delayed-release tablets?”
 
-• Chronic (lasting a long time) inflammation of the lining of the stomach (Atrophic Gastritis).
-Taking pantoprazole sodium delayed-release tablets for a long period of time
-
-may increase the risk of inflammation to your stomach lining.
-You may or may not have symptoms.
-Tell your doctor if you have stomach pain, nausea, vomiting or weight loss.
-
 • Vitamin B-12 deficiency.
 Pantoprazole sodium delayed-release tablets reduces the amount of acid in your stomach.
 Stomach acid is needed to absorb vitamin B-12 properly.
@@ -145,8 +132,7 @@ Talk with your doctor about the possibility of vitamin B-12 deficiency if you ha
 
 • Low magnesium levels in your body.
 This problem can be serious.
-Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
-
+Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
 If low magnesium levels happen, it is usually after a year of treatment.
 You may or may not have symptoms of low magnesium.
 
@@ -162,7 +148,7 @@ Tell your doctor right away if you have any of these symptoms:
 - cramps or muscle aches
 - spasm of the voice box
 
-Your doctor may check the level of magnesium in your body before you start taking pantoprazole sodium delayed-release tablets or during treatment; if you will be taking pantoprazole sodium delayed-release tablets for a long period of time.
+Your doctor may check the level of magnesium in your body before you start taking pantoprazole sodium delayed-release tablets or during treatment if you will be taking pantoprazole sodium delayed-release tablets for a long period of time.
 
 The most common side effects with pantoprazole sodium delayed-release tablets in adults include:
 
@@ -202,7 +188,7 @@ USP Controlled Room Temperature].
 
 Keep pantoprazole sodium delayed-release tablets and all medicines out of the reach of children.
 
-General Information about pantoprazole sodium delayed-release tablets
+General information about pantoprazole sodium delayed-release tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use pantoprazole sodium delayed-release tablets for a condition for which it was not prescribed.
@@ -236,4 +222,4 @@ Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854
 
 By: HETEROTM Hetero Labs Limited Unit V, Polepally, Jadcherla, Mahaboob Nagar – 509 301, India.
 
-Revised: February 2015
+Revised: December 2016
