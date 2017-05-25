@@ -51,7 +51,7 @@ Pregnancy: Abacavir: Abacavir pharmacokinetics were studied in 25 pregnant women
 Abacavir exposure (AUC) during pregnancy was similar to those in postpartum and in HIV-infected non-pregnant historical controls.
 Consistent with passive diffusion of abacavir across the placenta, abacavir concentrations in neonatal plasma cord samples at birth were essentially equal to those in maternal plasma at delivery.
 
-Pediatric Patients: The pharmacokinetics of abacavir have been studied after either single or repeat doses of abacavir sulfate in 169 pediatric subjects.
+Pediatric Patients: The pharmacokinetics of abacavir have been studied after either single or repeat doses of abacavir sulfate in pediatric subjects.
 Subjects receiving abacavir oral solution according to the recommended dosage regimen achieved plasma concentrations of abacavir similar to adults.
 Subjects receiving abacavir oral tablets achieved higher plasma concentrations of abacavir than subjects receiving oral solution.
 

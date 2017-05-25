@@ -51,7 +51,7 @@ Instruct patients to inform their physician or pharmacist if they develop any un
 
 Disclaimer: Other brands listed are the registered trademarks of their respective owners and are not trademarks of Cipla Limited.
 
-Revised: April 2017
+Revised: May 2017
 
 Manufactured by
 
