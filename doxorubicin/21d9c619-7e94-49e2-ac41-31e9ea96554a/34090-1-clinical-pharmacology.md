@@ -27,7 +27,7 @@ DOXIL displayed linear pharmacokinetics over the range of 10 to 20 mg/m2.
 Relative to DOXIL doses at or below 20 mg/m2, the pharmacokinetics of total doxorubicin following a 50 mg/m2 DOXIL dose are nonlinear.
 At this dose, the elimination half-life of DOXIL is longer and the clearance lower compared to a 20 mg/m2 dose.
 
-Distribution:
+Distribution
 
 Direct measurement of liposomal doxorubicin shows that at least 90% of the drug (the assay used cannot quantify less than 5–10% free doxorubicin) remains liposome-encapsulated during circulation.
 
@@ -35,11 +35,11 @@ In contrast to doxorubicin, which displays a large volume of distribution (range
 Doxorubicin becomes available after the liposomes are extravasated.
 Plasma protein binding of DOXIL has not been determined; the plasma protein binding of doxorubicin is approximately 70%.
 
-Metabolism:
+Metabolism
 
 Doxorubicinol, the major metabolite of doxorubicin, was detected at concentrations of 0.8 to 26.2 ng/mL in the plasma of patients who received 10 or 20 mg/m2 DOXIL.
 
-Elimination:
+Elimination
 
 The plasma clearance of total doxorubicin from DOXIL was 0.041 L/h/m2 at a dose of 20 mg/m2.
 Following administration of doxorubicin HCl, the plasma clearance of doxorubicin is 24 to 35 L/h/m2.
