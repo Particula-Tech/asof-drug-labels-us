@@ -10,7 +10,7 @@ Advise patients to take imatinib mesylate with a meal and a large glass of water
 Fluid Retention and Edema
 
 Inform patients of the possibility of developing edema and fluid retention.
-Advise patients to contact their health care provide if unexpected rapid weight gain occurs [see Warnings and Precautions (5.1)].
+Advise patients to contact their health care provider if unexpected rapid weight gain occurs [see Warnings and Precautions (5.1)].
 
 Hepatotoxicity
 
@@ -34,7 +34,7 @@ Pediatric
 
 Advise patients that growth retardation has been reported in children and pre-adolescents receiving imatinib mesylate.
 The long term effects of prolonged treatment with imatinib mesylate on growth in children are unknown.
-Therefore, closely monitor growth in children under imatinib mesylate treatment [see Warnings and Precauttions (5.11)].
+Therefore, closely monitor growth in children under imatinib mesylate treatment [see Warnings and Precautions (5.11)].
 
 Driving and Using Machines
 
@@ -45,4 +45,4 @@ Manufactured In Israel By: Teva Pharmaceutical Ind.
 Ltd. Jerusalem, 9777402, Israel Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-H 8/2016
+I 4/2017

@@ -19,7 +19,7 @@ This was not seen at doses less than or equal to 20 mg/kg (one-fourth the maximu
 The fertility of male and female rats was not affected.
 
 Fertility was not affected in the preclinical fertility and early embryonic development study although lower testes and epididymal weights as well as a reduced number of motile sperm were observed in the high dose males rats.
-In the preclinical pre-and postnatal study in rats, fertility in the first generation offspring was also not affected by imatinib mesylate.
+In the preclinical pre- and postnatal study in rats, fertility in the first generation offspring was also not affected by imatinib mesylate.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

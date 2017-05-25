@@ -15,9 +15,6 @@ Protect from moisture.
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-Imatinib mesylate is a cytotoxic drug.
-Follow applicable handling and disposal procedures1
-
 Do not crush imatinib mesylate tablets.
 Avoid direct contact of crushed tablets with the skin or mucous membranes.
 If such contact occurs, wash thoroughly as outlined in the references.

@@ -1,7 +1,5 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates on other clinical trials and may not reflect the rates observed in clinical practice.
-
 The following serious adverse reactions are described elsewhere in the labeling:
 
 - •Fluid Retention and Edema [see Warnings and Precautions (5.1)]
@@ -17,7 +15,11 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - •Tumor Lysis Syndrome [see Warnings and Precautions (5.12)]
 - •Impairments Related to Driving and Using Machinery [see Warnings and Precautions (5.13)]
 
-## 6.1 Chronic Myeloid Leukemia
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Chronic Myeloid Leukemia
 
 The majority of imatinib mesylate-treated patients experienced adverse reactions at some time.
 Imatinib mesylate was discontinued due to drug-related adverse reactions in 2.4% of patients receiving imatinib mesylate in the randomized trial of newly diagnosed patients with Ph+ CML in chronic phase comparing imatinib mesylate versus IFN+Ara-C, and in 12.5% of patients receiving imatinib mesylate in the randomized trial of newly diagnosed patients with Ph+ CML in chronic phase comparing imatinib mesylate and nilotinib.
@@ -168,7 +170,7 @@ In patients with newly diagnosed CML, cytopenias were less frequent than in the 
 The frequency of Grade 3 or 4 neutropenia and thrombocytopenia was between 2 and 3 fold higher in blast crisis and accelerated phase compared to chronic phase (see Tables 4 and 5).
 The median duration of the neutropenic and thrombocytopenic episodes varied from 2 to 3 weeks, and from 2 to 4 weeks, respectively.
 
-These reactions can usually be managed with either a reduction of the dose or an interruption of treatment with imatinib mesylate, but in rare cases require permanent discontinuation of treatment.
+These reactions can usually be managed with either a reduction of the dose or an interruption of treatment with imatinib mesylate, but may require permanent discontinuation of treatment.
 
 Table 5: Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Imatinib Mesylate versus IFN+Ara-C)
 
@@ -232,31 +234,23 @@ Severe elevation of transaminases or bilirubin occurred in approximately 5% of C
 Treatment was discontinued permanently because of liver laboratory abnormalities in less than 1.0% of CML patients.
 One patient, who was taking acetaminophen regularly for fever, died of acute liver failure.
 
-## 6.2 Adverse Reactions in Pediatric Population
-
-Single agent therapy
+Adverse Reactions in Pediatric Population Single agent therapy
 
 The overall safety profile of pediatric patients treated with imatinib mesylate in 93 children studied was similar to that found in studies with adult patients, except that musculoskeletal pain was less frequent (20.5%) and peripheral edema was not reported.
 Nausea and vomiting were the most commonly reported individual adverse reactions with an incidence similar to that seen in adult patients.
 Most patients experienced adverse reactions at some time during the study.
 The incidence of Grade 3/4 events across all types of adverse reactions was 75%; the events with the highest Grade 3/4 incidence in CML pediatric patients were mainly related to myelosuppression.
 
-## 6.3 Adverse Reactions in Other Subpopulations
-
-In older patients (greater than or equal to 65 years old), with the exception of edema, where it was more frequent, there was no evidence of an increase in the incidence or severity of adverse reactions.
+Adverse Reactions in Other Subpopulations In older patients (greater than or equal to 65 years old), with the exception of edema, where it was more frequent, there was no evidence of an increase in the incidence or severity of adverse reactions.
 In women there was an increase in the frequency of neutropenia, as well as Grade 1/2 superficial edema, headache, nausea, rigors, vomiting, rash, and fatigue.
 No differences were seen that were related to race but the subsets were too small for proper evaluation.
 
-## 6.4 Acute Lymphoblastic Leukemia
-
-The adverse reactions were similar for Ph+ ALL as for Ph+ CML.
+Acute Lymphoblastic Leukemia The adverse reactions were similar for Ph+ ALL as for Ph+ CML.
 The most frequently reported drug-related adverse reactions reported in the Ph+ ALL studies were mild nausea and vomiting, diarrhea, myalgia, muscle cramps and rash.
 Superficial edema was a common finding in all studies and were described primarily as periorbital or lower limb edemas.
-These edemas were reported as Grade 3/4 events in 6.3% of the patients and may be managed with diuretics, other supportive measures, or in some patients by reducing the dose of imatinib mesylate.
+These edemas were reported as Grade 3/4 events in 6.3% of the patients and may be managed with diuretics, other supportive measures, or in some patients by reducing the dose of imatinib mesylate
 
-## 6.5 Myelodysplastic/Myeloproliferative Diseases
-
-Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the patients treated with imatinib mesylate for MDS/MPD in the phase 2 study, are shown in Table 9.
+Myelodysplastic/Myeloproliferative Diseases Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the patients treated with imatinib mesylate for MDS/MPD in the Phase 2 study, are shown in Table 9.
 
 Table 9: Adverse Reactions Regardless of Relationship to Study Drug Reported (More Than One Patient) in MPD Patients in the Phase 2 Study (greater than or equal to 10% All Patients) All Grades
 
@@ -270,21 +264,15 @@ Table 9: Adverse Reactions Regardless of Relationship to Study Drug Reported (Mo
 | Arthralgia | 2 (28.6) |
 | Periorbital Edema | 2 (28.6) |
 
-## 6.6 Aggressive Systemic Mastocytosis
-
-All ASM patients experienced at least one adverse reaction at some time.
+Aggressive Systemic Mastocytosis All ASM patients experienced at least one adverse reaction at some time.
 The most frequently reported adverse reactions were diarrhea, nausea, ascites, muscle cramps, dyspnea, fatigue, peripheral edema, anemia, pruritus, rash and lower respiratory tract infection.
-None of the 5 patients in the phase 2 study with ASM discontinued imatinib mesylate due to drug-related adverse reactions or abnormal laboratory values.
+None of the 5 patients in the Phase 2 study with ASM discontinued imatinib mesylate due to drug-related adverse reactions or abnormal laboratory values.
 
-## 6.7 Hypereosinophilic Syndrome and Chronic Eosinophilic Leukemia
-
-The safety profile in the HES/CEL patient population does not appear to be different from the safety profile of imatinib mesylate observed in other hematologic malignancy populations, such as Ph+ CML.
+Hypereosinophilic Syndrome and Chronic Eosinophilic Leukemia The safety profile in the HES/CEL patient population does not appear to be different from the safety profile of imatinib mesylate observed in other hematologic malignancy populations, such as Ph+ CML.
 All patients experienced at least one adverse reaction, the most common being gastrointestinal, cutaneous and musculoskeletal disorders.
 Hematological abnormalities were also frequent, with instances of CTC Grade 3 leukopenia, neutropenia, lymphopenia, and anemia.
 
-## 6.8 Dermatofibrosarcoma Protuberans
-
-Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the 12 patients treated with imatinib mesylate for DFSP in the phase 2 study are shown in Table 10.
+Dermatofibrosarcoma Protuberans Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the 12 patients treated with imatinib mesylate for DFSP in the Phase 2 study are shown in Table 10.
 
 Table 10: Adverse Reactions Regardless of Relationship to Study Drug Reported in DFSP Patients in the Phase 2 Study (greater than or equal to 10% All Patients) All Grades
 
@@ -306,7 +294,7 @@ Table 10: Adverse Reactions Regardless of Relationship to Study Drug Reported in
 | Rhinitis | 2 (16.7) |
 | Anorexia | 2 (16.7) |
 
-Clinically relevant or severe laboratory abnormalities in the 12 patients treated with imatinib mesylate for DFSP in the phase 2 study are presented in Table 11.
+Clinically relevant or severe laboratory abnormalities in the 12 patients treated with imatinib mesylate for DFSP in the Phase 2 study are presented in Table 11.
 
 Table 11: Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Study
 
@@ -320,9 +308,7 @@ Table 11: Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Stud
 | Biochemistry Parameters |  |  |
 | – Elevated Creatinine | 0 | 8 |
 
-## 6.10 Additional Data from Multiple Clinical Trials
-
-The following adverse reactions have been reported during clinical trials of imatinib mesylate.
+Adverse Reactions from Multiple Clinical Trials
 
 Cardiac Disorders:
 
@@ -368,7 +354,7 @@ Estimated 0.1% to 1%: malaise
 
 Blood and Lymphatic System Disorders:
 
-Estimated 1% to 10%: pancytopenia, febrile neutropenia, lymphopenia, eosinophila
+Estimated 1% to 10%: pancytopenia, febrile neutropenia, lymphopenia, eosinophilia
 
 Estimated 0.1% to 1%: thrombocythemia, bone marrow depression, lymphadenopathy
 
@@ -436,7 +422,7 @@ Estimated 0.01% to 0.1%: papilledema1, glaucoma
 
 1 Including some fatalities
 
-## 6.11 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following additional adverse reactions have been identified during post approval use of imatinib mesylate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -452,11 +438,9 @@ Vascular Disorders: thrombosis/embolism, anaphylactic shock
 
 Respiratory, Thoracic and Mediastinal Disorders: acute respiratory failure1, interstitial lung disease
 
-Gastrointestinal Disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor necrosis, gastrointestinal
+Gastrointestinal Disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor necrosis, gastrointestinal perforation1 [see Warnings and Precautions (5.6)], diverticulitis, gastric antral vascular ectasia
 
-perforation1 [see Warnings and Precautions (5.6)], diverticulitis, gastric antral vascular ectasia
-
-Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome, drug rash with eosinophilia and systemic symptoms (DRESS) Musculoskeletal and Connective Tissue Disorders: avascular necrosis/hip osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children
+Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome, drug rash with eosinophilia and systemic symptoms (DRESS) Musculoskeletal and Connective Tissue Disorders: avascular necrosis/hip osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthalgia, bone pain)
 
 Reproduction Disorders: hemorrhagic corpus luteum/hemorrhagic ovarian cyst
 

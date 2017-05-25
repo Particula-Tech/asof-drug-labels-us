@@ -89,7 +89,7 @@ The mean dose normalized AUC for imatinib in the patients receiving EIAED’s de
 Concomitant administration of imatinib mesylate and St. John’s Wort led to a 30% reduction in the AUC of imatinib.
 
 Consider alternative therapeutic agents with less enzyme induction potential in patients when rifampin or other CYP3A4 inducers are indicated.
-Imatinib mesylate doses up to 1200 mg/day (600 mg BID) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.12)].
+Imatinib mesylate doses up to 1200 mg/day (600 mg twice daily) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.12)].
 
 Agents Inhibiting CYP3A Metabolism
 
