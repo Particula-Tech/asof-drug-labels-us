@@ -316,6 +316,9 @@ Neurologic
 
 There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
 
+There have been reports of acute or subacute encephalopathy in the absence of elevated ammonia levels, elevated valproate levels, or neuroimaging changes.
+The encephalopathy reversed partially or fully after valproate discontinuation.
+
 Musculoskeletal
 
 Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weakness.

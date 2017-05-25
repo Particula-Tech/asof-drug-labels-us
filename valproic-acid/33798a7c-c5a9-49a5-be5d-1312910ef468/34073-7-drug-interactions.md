@@ -29,6 +29,11 @@ The mechanism of this interaction in not well understood.
 Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
 Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see WARNINGS AND PRECAUTIONS (5.13)].
 
+Estrogen-Containing Hormonal Contraceptives
+
+Estrogen-containing hormonal contraceptives may increase the clearance of valproate, which may result in decreased concentration of valproate and potentially increased seizure frequency.
+Prescribers should monitor serum valproate concentrations and clinical response when adding or discontinuing estrogen containing products.
+
 Felbamate:
 
 A study involving the co-administration of 1,200 mg/day of felbamate with valproate to patients with epilepsy (n=10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone.
