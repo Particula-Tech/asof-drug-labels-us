@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA203844"
+  ],
+  "inn": "rivastigmine",
+  "labeler": "Cadila Pharmaceuticals Limited",
+  "package_ndcs": [
+    "71209-012-03",
+    "71209-012-10",
+    "71209-013-03",
+    "71209-013-10",
+    "71209-014-03",
+    "71209-014-10",
+    "71209-015-03",
+    "71209-015-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "rivastigmine tartrate",
+      "name": "Rivastigmine Tartrate"
+    }
+  ],
+  "setid": "e7e641fe-39bd-4681-a430-6dedeb6d6af5",
+  "source": "dailymed"
+}
