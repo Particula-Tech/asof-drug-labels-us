@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA205570"
+  ],
+  "inn": "argatroban",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-141-01",
+    "68083-141-02"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "argatroban",
+      "name": "Argatroban"
+    }
+  ],
+  "setid": "e5ccb93c-f411-4e7e-824a-4a592b4947ec",
+  "source": "dailymed"
+}
