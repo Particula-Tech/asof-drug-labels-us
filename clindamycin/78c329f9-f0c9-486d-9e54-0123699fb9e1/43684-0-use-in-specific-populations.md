@@ -5,24 +5,24 @@
 Pregnancy Category C. There are no well-controlled trials in pregnant women treated with ZIANA Gel.
 ZIANA Gel should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 ZIANA Gel was tested for maternal and developmental toxicity in New Zealand White Rabbits with topical doses of 60, 180 and 600 mg/kg/day.
-ZIANA Gel at 600 mg/kg/day (approximately 12 times the recommended clinical dose assuming 100% absorption and based on body surface area comparison) was considered to be the no-observed-adverse-effect level (NOAEL) for maternal and developmental toxicity following dermal administration of ZIANA Gel for two weeks prior to artificial insemination and continuing until gestation day 18, inclusive.
+ZIANA Gel at 600 mg/kg/day (approximately 12 times the recommended clinical dose assuming 100% absorption and based on body surface area comparison) was considered to be the no-observed-adverse-effect level (NOAEL) for maternal and developmental toxicity following dermal administration of ZIANA Gel for 2 weeks prior to artificial insemination and continuing until gestation day 18, inclusive.
 For purposes of comparisons of the animal exposure to human exposure, the recommended clinical dose is defined as 1 g of ZIANA Gel applied daily to a 60 kg person.
 
 Clindamycin
 
-Teratology (Segment II) studies using clindamycin were performed orally in rats (up to 600 mg/kg/day) and mice (up to 100 mg/kg/day) (583 and 49 times amount of clindamycin in the recommended clinical dose based on a body surface area comparison, respectively) or with subcutaneous doses of clindamycin up to 180 mg/kg/day (175 and 88 times the amount of clindamycin in the recommended clinical dose based on a body surface area comparison, respectively) revealed no evidence of teratogenicity.
+Teratology (Segment II) studies using clindamycin were performed orally in rats (up to 600 mg/kg/day) and mice (up to 100 mg/kg/day) (583 and 49 times amount of clindamycin in the recommended clinical dose based on body surface area comparison, respectively) or with subcutaneous doses of clindamycin up to 180 mg/kg/day (175 and 88 times the amount of clindamycin in the recommended clinical dose based on body surface area comparison, respectively) revealed no evidence of teratogenicity.
 
 Tretinoin
 
-In oral Segment III studies in rats with tretinoin, decreased survival of neonates and growth retardation were observed at doses in excess of 2 mg/kg/day (~ 78 times the recommended clinical dose assuming 100% absorption and based on body surface area comparison).
+In oral Segment III studies in rats with tretinoin, decreased survival of neonates and growth retardation were observed at doses in excess of 2 mg/kg/day (~78 times the recommended clinical dose assuming 100% absorption and based on body surface area comparison).
 
 With widespread use of any drug, a small number of birth defect reports associated temporally with the administration of the drug would be expected by chance alone.
 Thirty cases of temporally associated congenital malformations have been reported during two decades of clinical use of another formulation of topical tretinoin.
-Although no definite pattern of teratogenicity and no causal association have been established from these cases, 5 of the reports describe the rare birth defect category, holoprosencephaly (defects associated with incomplete midline development of the forebrain).
+Although no definite pattern of teratogenicity and no causal association have been established from these cases, five of the reports describe the rare birth defect category, holoprosencephaly (defects associated with incomplete midline development of the forebrain).
 The significance of these spontaneous reports in terms of risk to the fetus is not known.
 
-Dermal tretinoin has been shown to be fetotoxic in rabbits when administered in doses 40 times the recommended human clinical dose based on a body surface area comparison.
-Oral tretinoin has been shown to be fetotoxic in rats when administered in doses 78 times the recommended clinical dose based on a body surface area comparison.
+Dermal tretinoin has been shown to be fetotoxic in rabbits when administered in doses 40 times the recommended human clinical dose based on body surface area comparison.
+Oral tretinoin has been shown to be fetotoxic in rats when administered in doses 78 times the recommended clinical dose based on body surface area comparison.
 
 ## 8.3 Nursing Mothers
 
@@ -37,7 +37,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 Safety and effectiveness of ZIANA Gel in pediatric patients under the age of 12 have not been established.
 
 Clinical trials of ZIANA Gel included patients 12–17 years of age.
-[See Clinical Studies (14)]
+[See Clinical Studies (14).]
 
 ## 8.5 Geriatric Use
 

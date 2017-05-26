@@ -1,4 +1,4 @@
-PATIENT INFORMATION ZIANA (ZEE-AH-NA) (clindamycin phosphate 1.2% and tretinoin 0.025%) Gel
+PATIENT INFORMATION ZIANA® (ZEE-AH-NA) (clindamycin phosphate 1.2% and tretinoin 0.025%) Gel
 
 IMPORTANT: Not for mouth, eye, or vaginal use.
 
@@ -46,7 +46,7 @@ At bedtime:
 In the morning:
 
 - •Apply a sunscreen and reapply during the day as needed.
-- •Do not apply ZIANA Gel more than once a day
+- •Do not apply ZIANA Gel more than once a day.
 - •Do not use too much ZIANA Gel.
   Too much ZIANA Gel may irritate your skin.
 - •Do not wash your face more than 2 to 3 times a day.
@@ -58,7 +58,7 @@ Avoid:
   Weather extremes can dry and burn the skin.
   Always use a sunscreen on ZIANA Gel treated skin, even on cloudy days.
   Use other protective clothing such as a hat when you are in the sun.
-- •the use of sunlamps and tanning booths
+- •the use of sunlamps and tanning booths.
 
 If your face becomes sunburned, stop ZIANA Gel until your skin has healed.
 
@@ -80,11 +80,11 @@ Ask your doctor or pharmacist for more information.
 
 How should I store ZIANA Gel?
 
-- •Store ZIANA Gel at room temperature, 59 to 86°F (15 to 30°C).
+- •Store ZIANA Gel at room temperature, 59° to 86°F (15° to 30°C).
   Do not freeze.
 - •Keep ZIANA Gel away from heat and light.
 - •Keep the tube tightly closed.
-- •Keep ZIANA Gel and all medicines out of the reach of children
+- •Keep ZIANA Gel and all medicines out of reach of children.
 
 General information about ZIANA Gel
 
@@ -97,22 +97,25 @@ This leaflet summarizes the most important information about ZIANA Gel.
 If you would like more information, talk with your doctor.
 You can also ask your pharmacist or doctor for information about ZIANA Gel that is written for healthcare professionals.
 
-If you have questions about ZIANA Gel you can also call: 1-800-900-6389 (this is a toll-free number) between 10:00 a.m. and 4:00 p.m.
+If you have questions about ZIANA Gel you can also call: 1-800-321-4576 (this is a toll-free number) between 10:00 a.m. and 4:00 p.m.
 Eastern Time, Monday through Friday.
 
 What are the ingredients in ZIANA Gel?
 
 Active Ingredients: clindamycin phosphate 1.2% and tretinoin 0.025%
 
-Inactive Ingredients: purified water USP, glycerin USP, carbomer 981 NF, methylparaben NF, polysorbate 80 NF, edetate disodium USP, citric acid USP, propylparaben NF, butylated hydroxytoluene NF, and tromethamine USP.
+Inactive Ingredients: butylated hydroxytoluene NF, carbomer 981 NF, citric acid USP, edetate disodium USP, glycerin USP, methylparaben NF, polysorbate 80 NF, propylparaben NF, purified water USP and tromethamine USP.
 
-Manufactured for: Medicis, The Dermatology Company Scottsdale, AZ 85256
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-By: Contract Pharmaceuticals Limited Mississauga, Ontario, Canada L5N 6L6
+By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
-Made in Canada
+U.S. Patent 6,387,383
 
-U.S. Patent 6,387,383 and RE 41,134
+Ziana is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-05100256 Rev.
-03/2012
+©Valeant Pharmaceuticals North America LLC
+
+9480201 20001130B
+
+Revised: 03/2017

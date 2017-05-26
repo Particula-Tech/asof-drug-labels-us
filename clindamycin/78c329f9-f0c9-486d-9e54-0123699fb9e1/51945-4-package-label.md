@@ -1,8 +1,12 @@
 PRINCIPAL DISPLAY PANEL - 30 g Carton
 
+NDC 99207-300-30
+
 ZIANA® (clindamycin phosphate 1.2% and tretinoin 0.025%) Gel
 
-1. NDC 99207-300-30 Rx only
+- Rx only
 
-Net wt.
+Net Wt.
 30 g
+
+FOR TOPICAL USE ONLY NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE
