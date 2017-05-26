@@ -1,4 +1,4 @@
-# click.easy® Reconstitution Device Saizen® [somatropin (rDNA origin) for injection], for subcutaneous use 8.8 mg INSTRUCTIONS FOR USE
+# click.easy® Reconstitution Device Saizen® (somatropin) for injection, for subcutaneous use 8.8 mg INSTRUCTIONS FOR USE
 
 | For complete dosing and safety information, please refer to the SAIZEN Package Insert. |
 | --- |
@@ -102,7 +102,7 @@ saizenprep®
 
 For use only with
 
-Saizen® [somatropin (rDNA origin) for injection] 8.8 mg
+Saizen® (somatropin) for injection 8.8 mg
 
 Important information
 
@@ -112,14 +112,14 @@ Always follow all directions and training provided by your healthcare provider.
 
 For children, use of the saizenprep® device must be supervised by an adult.
 
-Contact our patient support services at 1-800-582-7989 for questions related to the device or Saizen® [somatropin (rDNA origin) for injection].
+Contact our patient support services at 1-800-582-7989 for questions related to the device or Saizen® (somatropin) for injection.
 
-What is in the box?
-You will also need: sharps container, pen and alcohol wipes (not included)
+What is in the box? †
 
 | Tray |  |  |
 | --- | --- | --- |
 | Patient Information Leaflet | saizenprep® Instructions for Use |  |
+| † You will also need: sharps container, pen and alcohol wipes (not included) |  |  |
 
 Important information
 
@@ -158,10 +158,6 @@ Note: Prepare a clean, hard, flat surface as a working area.
 
 - 1.2
 
-STEP 1
-
-Check supplies
-
 - 1.3 SAIZEN Vial:
   - □Confirm vial label says SAIZEN
   - □Confirm product is not expired
@@ -179,10 +175,6 @@ Check supplies
 - 1.3 Vial
 
 - 1.4 Cartridge
-
-STEP 1
-
-Check supplies
 
 - 1.5 saizenprep® Packaging and Sterility Seal: Warning: Do not use if any items are damaged or expired.
   Call patient support services at 1-800-582-7989 for assistance.
@@ -206,10 +198,6 @@ SAIZEN Vial:
 
 - 2.2
 
-STEP 2
-
-Prepare saizenprep®
-
 Diluent Cartridge:
 
 - 2.3 Grasp arrow tab to peel outer label and tear off at perforation before discarding in the trash.
@@ -219,10 +207,6 @@ Diluent Cartridge:
 - 2.3
 
 - 2.4
-
-STEP 2
-
-Prepare saizenprep®
 
 saizenprep® Packaging:
 
@@ -261,10 +245,6 @@ Attach cartridge
 
 - 4.2
 
-STEP 4
-
-Attach cartridge
-
 - 4.3Screw transfer unit back onto cartridge holder.
   You will feel and hear a "click" confirming that it is attached correctly.
   Caution: Let the plunger rod rise by itself from the transfer unit during attachment step.
@@ -285,10 +265,6 @@ Caution: To avoid foaming, always perform transfers slowly (minimum 10 sec).
   Warning: You may have to perform this step again if there is still Diluent visible in cartridge.
 
 - 5.1
-
-STEP 5
-
-Mix SAIZEN and Diluent in vial
 
 - 5.2 Thoroughly mix SAIZEN and Diluent in vial by gently swirling device in circular motion.
   Do not shake!
@@ -323,10 +299,6 @@ Caution: Hold saizenprep® straight up - not at an angle when transferring SAIZE
 
 - 6.2
 
-STEP 6
-
-Draw mixed SAIZEN into cartridge
-
 - 6.3Push up on plunger rod again to remove any remaining air inside cartridge.
 
 - 6.4 Slowly pull plunger rod downward until it stops.
@@ -336,10 +308,6 @@ Draw mixed SAIZEN into cartridge
 - 6.3
 
 - 6.4
-
-STEP 6
-
-Draw mixed SAIZEN into cartridge
 
 - 6.5 Hold the device so the top of the cartridge is at eye level and inspect for air bubbles inside the cartridge.
   The liquid should be at or above the cartridge shoulder line.
@@ -366,10 +334,6 @@ Remove cartridge
 - 7.1
 
 - 7.2
-
-STEP 7
-
-Remove cartridge
 
 - 7.3 Put the used cartridge holder with attached vial in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) the cartridge holder with attached vial in your household trash.
@@ -409,4 +373,4 @@ Approved: January 2017
 
 EMD Serono, Inc. is a subsidiary of Merck KGaA, Darmstadt, Germany
 
-20067247 MDT-535 US N12H0101A
+20067247 MDT-535 US MC-2724-2017

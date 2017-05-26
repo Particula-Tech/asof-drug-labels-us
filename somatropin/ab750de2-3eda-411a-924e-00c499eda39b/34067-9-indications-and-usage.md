@@ -2,7 +2,7 @@
 
 ## 1.1 Pediatric Patients
 
-SAIZEN [somatropin (rDNA origin) for injection] is indicated for the treatment of pediatric patients with growth failure due to inadequate secretion of endogenous growth hormone.
+SAIZEN (somatropin) is indicated for the treatment of pediatric patients with growth failure due to inadequate secretion of endogenous growth hormone.
 
 ## 1.2 Adult Patients
 
