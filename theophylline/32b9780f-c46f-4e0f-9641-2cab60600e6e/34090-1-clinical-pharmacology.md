@@ -127,9 +127,7 @@ The difference between peak and trough concentrations is larger in patients with
 In patients with high theophylline clearance and half-lives of about 4-5 hours, such as children age 1 to 9 years, the trough serum theophylline concentration may be only 30% of peak with a 6-hour dosing interval.
 In these patients a slow release formulation would allow a longer dosing interval (8-12 hours) with a smaller peak/trough difference.
 
-### Special Populations
-
-(See Table I for mean clearance and half-life values)
+### Special Populations (See Table I for mean clearance and half-life values)
 
 #### Geriatric
 
