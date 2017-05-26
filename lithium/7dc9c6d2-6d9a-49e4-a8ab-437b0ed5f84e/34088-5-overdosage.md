@@ -3,7 +3,7 @@
 The toxic concentrations for lithium (≥ 1.5 mEq/L) are close to the therapeutic concentrations [see Warnings and Precautions (5.1)].
 At lithium concentrations greater than 3 mEq/L, patients may progress to seizures, coma, and irreversible brain damage.
 
-## Treatment
+Treatment
 
 For current information on the management of poisoning or overdosage, contact the National Poison Control Center at 1-800-222-1222 or www.poison.org.
 

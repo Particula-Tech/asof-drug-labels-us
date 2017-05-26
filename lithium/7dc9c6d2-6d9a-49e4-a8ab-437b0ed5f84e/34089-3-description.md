@@ -1,14 +1,19 @@
 # 11 DESCRIPTION
 
-Lithium is an element of the alkali-metal group with atomic weight of 6.94.
+Each tablet for oral administration contains lithium carbonate USP, 300 mg and the following inactive ingredients: calcium stearate, microcrystalline cellulose, povidone, purified water, sodium lauryl sulfate and sodium starch glycolate.
 
-Lithium Carbonate is a white, light, alkaline powder with molecular formula Li2CO3 and molecular weight 73.89.
+Each capsule for oral administration contains lithium carbonate USP, 150 mg, 300 mg or 600 mg and the following inactive ingredient: talc.
+The capsule shells contain black monogramming ink, FD&C Red No. 40 (300 mg and 600 mg only), gelatin and titanium dioxide.
+The black monogramming ink contains ammonium hydroxide, ethanol, iron oxide black, isopropyl alcohol, N-butyl alcohol, propylene glycol and shellac glaze.
 
-Each 5 mL of oral solution contains 8 mEq of lithium ion (equivalent to the amount of lithium in 300 mg of lithium carbonate) and the following inactive ingredients: alcohol 0.3% v/v, citric acid, raspberry blend, sodium benzoate, sorbitol, and water.
+Each 5 mL of solution for oral administration contains lithium ion (Li+), 8 mEq (equivalent to amount of lithium in 300 mg of lithium carbonate), alcohol 0.3% v/v and the following other inactive ingredients: citric acid, purified water, raspberry blend, sodium benzoate and sorbitol solution.
 
 Lithium Oral Solution is a palatable oral dosage form of lithium ion.
 It is prepared in solution from lithium hydroxide and citric acid in a ratio approximately di-lithium citrate.
 
-Each tablet contains 300 mg of lithium carbonate, USP and the following inactive ingredients: calcium stearate, microcrystalline cellulose, povidone, sodium lauryl sulfate, and sodium starch glycolate.
+Lithium is an element of the alkali-metal group with atomic number 3, atomic weight 6.94, and an emission line at 671 nm on the flame photometer.
 
-Each capsule contains 150 mg, 300 mg, or 600 mg lithium carbonate, USP and the following inactive ingredients: FD&C Red No. 40, gelatin, sodium lauryl sulfate, talc, titanium dioxide, and the imprinting ink contains FD&C Blue No. 2, FD&C Yellow No. 6, FD&C Red No. 40, iron oxide, polyvinyl pyrrolidone, and shellac.
+The empirical formula for Lithium Citrate is C6H5Li3O7; molecular weight 209.93.
+Lithium acts as an antimanic.
+
+Lithium Carbonate is a white powder with molecular formula Li2CO3 and molecular weight 73.89.
