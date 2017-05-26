@@ -8,9 +8,12 @@ Note: Store at 15°-25°C (59°-77°F)
 
 Rx only
 
-Revised: 11/2016
+Revised: 04/2017
 
-© 2016 Allergan, All rights reserved.
-Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Made in the U.S.A.
+© 2017 Allergan.
+All rights reserved.
+All trademarks are the property of their respective owners.
+
+Irvine, CA 92612, U.S.A. Made in the U.S.A.
 
 71589US13
