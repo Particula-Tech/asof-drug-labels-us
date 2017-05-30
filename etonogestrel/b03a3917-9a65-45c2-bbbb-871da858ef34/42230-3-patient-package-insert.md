@@ -3,6 +3,7 @@ FDA-Approved Patient Labeling
 NEXPLANON® (etonogestrel implant) Radiopaque Subdermal Use Only
 
 NEXPLANON® does not protect against HIV infection (the virus that causes AIDS) or other sexually transmitted diseases.
+
 Read this Patient Information leaflet carefully before you decide if NEXPLANON is right for you.
 This information does not take the place of talking with your healthcare provider.
 If you have any questions about NEXPLANON, ask your healthcare provider.
@@ -74,6 +75,7 @@ Interaction with Other Medicines
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 Certain medicines may make NEXPLANON less effective, including:
 
+- aprepitant
 - barbiturates
 - bosentan
 - carbamazepine
@@ -85,11 +87,12 @@ Certain medicines may make NEXPLANON less effective, including:
 - St. John's wort
 - topiramate
 - HIV medicines
+- Hepatitis C Virus medicines
 
 Ask your healthcare provider if you are not sure if your medicine is one listed above.
 
-If there are medicines that you have been taking for a long time, that make NEXPLANON less effective, tell your healthcare provider.
-Your healthcare provider may remove the NEXPLANON implant and recommend a birth control method that can be used effectively with these medicines.
+If you are taking medicines or herbal products that might make NEXPLANON less effective, you and your doctor may decide to leave NEXPLANON in place; in that case, an additional non-hormonal contraceptive should be used.
+Because the effect of another medicine on NEXPLANON may last up to 28 days after stopping the medicine, it is necessary to use the additional non-hormonal contraceptive for that long.
 
 When you are using NEXPLANON, tell all of your healthcare providers that you have NEXPLANON in place in your arm.
 
@@ -198,7 +201,7 @@ Other problems related to insertion and removal are:
 - Scar tissue may form around the implant making it difficult to remove
 - The implant may come out by itself.
   You may become pregnant if the implant comes out by itself.
-  Use a back up birth control method and call your healthcare provider right away if the implant comes out.
+  Use a back-up birth control method and call your healthcare provider right away if the implant comes out.
 - The need for surgery in the hospital to remove the implant
 - Injury to nerves or blood vessels in your arm
 - The implant breaks making removal difficult
@@ -295,8 +298,8 @@ Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Sta
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2011 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2011-2017 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 03/2016
+Revised: 05/2017
 
-usppi-mk8415-iptx-1603r017
+usppi-mk8415-iptx-1705r018
