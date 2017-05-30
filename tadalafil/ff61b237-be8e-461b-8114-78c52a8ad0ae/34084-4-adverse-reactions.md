@@ -19,7 +19,7 @@ The rates of discontinuation because of AEs, other than those related to worseni
 In the placebo-controlled study, the most common AEs were generally transient and mild to moderate in intensity.
 Table 1 presents treatment-emergent adverse events reported by ≥9% of patients in the ADCIRCA 40 mg group and occurring more frequently than with placebo.
 
-TABLE 1: Treatment-Emergent Adverse Events Reported by ≥9% of Patients in ADCIRCA and More Frequent than Placebo by 2%
+Table 1: Treatment-Emergent Adverse Events Reported by ≥9% of Patients in ADCIRCA and More Frequent than Placebo by 2%
 
 | EVENT | Placebo (%) (N=82) | ADCIRCA 20 mg (%) (N=82) | ADCIRCA 40 mg (%) (N=79) |
 | --- | --- | --- | --- |
@@ -51,7 +51,7 @@ Body as a whole — Hypersensitivity reactions including urticaria, Stevens–Jo
 
 Nervous — Migraine, seizure and seizure recurrence, and transient global amnesia
 
-Ophthalmologic — Visual field defect, retinal vein occlusion, and retinal artery occlusion
+Ophthalmologic — Visual field defect, retinal vein occlusion, retinal artery occlusion, and NAION [see Warnings and Precautions (5.5) and Patient Counseling Information (17)].
 
 Otologic — Cases of sudden decrease or loss of hearing have been reported postmarketing in temporal association with the use of PDE5 inhibitors, including tadalafil.
 In some of the cases, medical conditions and other factors were reported that may have also played a role in the otologic adverse events.

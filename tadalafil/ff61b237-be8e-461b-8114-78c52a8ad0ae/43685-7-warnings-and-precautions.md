@@ -85,13 +85,16 @@ Avoid use of ADCIRCA [see Dosage and Administration (2.2) and Clinical Pharmacol
 ## 5.5 Visual Loss
 
 Physicians should advise patients to seek immediate medical attention in the event of a sudden loss of vision in one or both eyes.
-Such an event may be a sign of non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision, including permanent loss of vision, that has been reported postmarketing in temporal association with the use of all PDE5 inhibitors.
-Most, but not all, of these patients had underlying anatomic or vascular risk factors for development of NAION, including but not necessarily limited to: low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia, and smoking.
+Such an event may be a sign of non–arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision, including permanent loss of vision, that has been reported postmarketing in temporal association with the use of all PDE5 inhibitors.
+Most, but not all, of these patients had underlying anatomic or vascular risk factors for development of NAION, including but not necessarily limited to: low cup to disc ratio (“crowded disc”), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia, and smoking.
 Based on published literature, the annual incidence of NAION is 2.5-11.8 cases per 100,000 in males aged ≥50 in the general population.
-An observational study evaluated whether recent episodic use of PDE5 inhibitors, as a class, typical of erectile dysfunction treatment, was associated with acute onset of NAION.
-The results suggest an approximate 2-fold increase in the risk of NAION within 1 to 4 days of PDE5 inhibitor use.
+An observational case-crossover study evaluated the risk of NAION when PDE5 inhibitor use, as a class, typical of erectile dysfunction treatment, occurred immediately before NAION onset (within 5 half-lives), compared to PDE5 inhibitor use in a prior time period.
+The results suggest an approximate 2-fold increase in the risk of NAION, with a risk estimate of 2.15 (95% CI 1.06, 4.34).
+A similar study reported a consistent result, with a risk estimate of 2.27 (95% CI 0.99, 5.20).
+Other risk factors for NAION, such as the presence of “crowded” optic disc, may have contributed to the occurrence of NAION in these studies.
 
-It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or other factors.
+Neither the rare postmarketing reports, nor the association of PDE5 inhibitor use and NAION in the observational studies, substantiate a causal relationship between PDE5 inhibitor use and NAION [see Adverse Reactions (6.2)].
+
 Physicians should also discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators such as PDE5 inhibitors.
 
 Patients with known hereditary degenerative retinal disorders, including retinitis pigmentosa, were not included in the clinical trials, and use in these patients is not recommended.
