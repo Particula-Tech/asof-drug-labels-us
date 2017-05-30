@@ -42,7 +42,6 @@ Distribution
 The serum protein binding of azithromycin is variable in the concentration range approximating human exposure, decreasing from 51% at 0.02 mcg/mL to 7% at 2 mcg/mL.
 
 Tissue concentrations have not been obtained following intravenous infusions of azithromycin, but following oral administration in humans azithromycin has been shown to penetrate into tissues, including skin, lung, tonsil, and cervix.
-
 Tissue levels were determined following a single oral dose of 500 mg azithromycin in 7 gynecological patients.
 Approximately 17 hr after dosing, azithromycin concentrations were 2.7 mcg/g in ovarian tissue, 3.5 mcg/g in uterine tissue, and 3.3 mcg/g in salpinx.
 Following a regimen of 500 mg on the first day followed by 250 mg daily for 4 days, concentrations in the cerebrospinal fluid were less than 0.01 mcg/mL in the presence of non-inflamed meninges.
@@ -117,7 +116,7 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the P
 | Theophylline | 4 mg/kg IV on days 1, 11, 25 | 500 mg orally on day 7, 250 mg/day on days 8–11 | 10 | 1.19 (1.02 to 1.40) | 1.02 (0.86 to 1.22) |
 | Theophylline | 300 mg orally BID ×15 days | 500 mg orally on day 6, then 250 mg/day on days 7–10 | 8 | 1.09 (0.92 to 1.29) | 1.08 (0.89 to 1.31) |
 | Triazolam | 0.125 mg on day 2 | 500 mg orally on day 1, then 250 mg/day on day 2 | 12 | 1.06 | 1.02 |
-| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/ 0.90 (0.78 to 1.03) | 0.87 (0.80 to 0.95/ 0.96 (0.88 to 1.03) |
+| Trimethoprim/Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/ 0.90 (0.78 to 1.03) | 0.87 (0.80 to 0.95/ 0.96 (0.88 to 1.03) |
 | Zidovudine | 500 mg/day orally for 21 days | 600 mg/day orally for 14 days | 5 | 1.12 (0.42 to 3.02) | 0.94 (0.52 to 1.70) |
 | Zidovudine | 500 mg/day orally for 21 days | 1,200 mg/day orally for 14 days | 4 | 1.31 (0.43 to 3.97) | 1.30 (0.69 to 2.43) |
 
@@ -148,37 +147,23 @@ Antimicrobial Activity
 Azithromycin has been shown to be active against the following microorganisms, both in vitro and in clinical infections.
 [see Indications and Usage (1)]
 
-Gram-positive Bacteria
+Gram-positive Bacteria Staphylococcus aureus Streptococcus pneumoniae
 
-Staphylococcus aureus Streptococcus pneumoniae
+Gram-negative Bacteria Haemophilus influenzae Moraxella catarrhalis Neisseria gonorrhoeae Legionella pneumophila
 
-Gram-negative Bacteria
-
-Haemophilus influenzae Moraxella catarrhalis Neisseria gonorrhoeae Legionella pneumophila
-
-Other Bacteria
-
-Chlamydophila pneumoniae Chlamydia trachomatis Mycoplasma hominis Mycoplasma pneumoniae
+Other Bacteria Chlamydophila pneumoniae Chlamydia trachomatis Mycoplasma hominis Mycoplasma pneumoniae
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for azithromycin against isolates of similar genus or organism group.
 However, the efficacy of azithromycin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
-Aerobic Gram-Positive Bacteria
+Aerobic Gram-Positive Bacteria Streptococci (Groups C, F, G) Viridans group streptococci
 
-Streptococci (Groups C, F, G) Viridans group streptococci
+Gram-Negative Bacteria Bordetella pertussis
 
-Gram-Negative Bacteria
+Anaerobic Bacteria Peptostreptococcus species Prevotella bivia
 
-Bordetella pertussis
-
-Anaerobic Bacteria
-
-Peptostreptococcus species Prevotella bivia
-
-Other Bacteria
-
-Ureaplasma urealyticum
+Other Bacteria Ureaplasma urealyticum
 
 Susceptibility Testing Methods
 

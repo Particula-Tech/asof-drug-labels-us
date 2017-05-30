@@ -34,32 +34,14 @@ Dilution
 
 To provide azithromycin over a concentration range of 1.0–2.0 mg/mL, transfer 5 mL of the 100 mg/mL azithromycin solution into the appropriate amount of any of the diluents listed below:
 
-Normal Saline (0.9% sodium chloride)
-
-1/2 Normal Saline (0.45% sodium chloride)
-
-5% Dextrose in Water
-
-Lactated Ringer's Solution
-
-5% Dextrose in 1/2 Normal Saline (0.45% sodium chloride) with 20 mEq KCl
-
-5% Dextrose in Lactated Ringer's Solution
-
-5% Dextrose in 1/3 Normal Saline (0.3% sodium chloride)
-
-5% Dextrose in 1/2 Normal Saline (0.45% sodium chloride)
-
-Normosol®-M in 5% Dextrose
-
-Normosol®-R in 5% Dextrose
+Normal Saline (0.9% sodium chloride) 1/2 Normal Saline (0.45% sodium chloride) 5% Dextrose in Water Lactated Ringer's Solution 5% Dextrose in 1/2 Normal Saline (0.45% sodium chloride) with 20 mEq KCl 5% Dextrose in Lactated Ringer's Solution 5% Dextrose in 1/3 Normal Saline (0.3% sodium chloride) 5% Dextrose in 1/2 Normal Saline (0.45% sodium chloride) Normosol®-M in 5% Dextrose Normosol®-R in 5% Dextrose
 
 When used with the Vial-Mate® drug reconstitution device, please reference the Vial-Mate® instructions for assembly and reconstitution.
 
-| Final Infusion Solution Concentration (mg/mL) |  | Amount of Diluent (mL) |
-| --- | --- | --- |
-| 1.0 mg/mL |  | 500 mL |
-| 2.0 mg/mL |  | 250 mL |
+| Final Infusion Solution Concentration (mg/mL) | Amount of Diluent (mL) |
+| --- | --- |
+| 1.0 mg/mL | 500 mL |
+| 2.0 mg/mL | 250 mL |
 
 Other intravenous substances, additives, or medications should not be added to ZITHROMAX for injection, or infused simultaneously through the same intravenous line.
 

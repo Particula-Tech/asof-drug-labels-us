@@ -57,7 +57,7 @@ Nervous system: Convulsions, dizziness/vertigo, headache, somnolence, hyperactiv
 
 Psychiatric: Aggressive reaction and anxiety.
 
-Skin/appendages: Pruritus, serious skin reactions including, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
+Skin/appendages: Pruritus, serious skin reactions including, erythema multiforme, AGEP, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
 
 Special senses: Hearing disturbances including hearing loss, deafness and/or tinnitus and reports of taste/smell perversion and/or loss.
 

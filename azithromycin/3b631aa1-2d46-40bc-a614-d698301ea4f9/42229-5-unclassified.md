@@ -6,4 +6,4 @@ U.S. Pat and TM Off.
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-LAB-0024-16.0
+LAB-0024-17.0

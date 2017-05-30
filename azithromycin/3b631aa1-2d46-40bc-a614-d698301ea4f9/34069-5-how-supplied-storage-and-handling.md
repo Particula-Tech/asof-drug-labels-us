@@ -5,6 +5,6 @@ Each vial also contains sodium hydroxide and 413.6 mg citric acid.
 
 These are packaged as follows:
 
-|  | 10 vials of 500 mg |  | NDC 0069-3150-83 |
-| --- | --- | --- | --- |
-|  | 10 vials of 500 mg with 1 Vial-Mate® Adaptor each |  | NDC 0069-3150-14 |
+|  | 10 vials of 500 mg | NDC 0069-3150-83 |
+| --- | --- | --- |
+|  | 10 vials of 500 mg with 1 Vial-Mate® Adaptor each | NDC 0069-3150-14 |
