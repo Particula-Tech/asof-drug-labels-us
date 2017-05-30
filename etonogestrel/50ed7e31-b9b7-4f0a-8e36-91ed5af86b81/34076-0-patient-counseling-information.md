@@ -10,7 +10,3 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 - Counsel women to contact their healthcare provider immediately if, at any time, they are unable to palpate the implant.
 - Counsel women that IMPLANON does not protect against HIV infection (AIDS) or other sexually transmitted diseases.
 - Counsel women that the use of IMPLANON may be associated with changes in their normal menstrual bleeding patterns so that they know what to expect.
-
-FDA-Approved Patient Labeling
-
-See the full patient product information for IMPLANON.

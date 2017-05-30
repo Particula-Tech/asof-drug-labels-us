@@ -75,6 +75,7 @@ Interaction with Other Medicines
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 Certain medicines may make IMPLANON less effective, including:
 
+- aprepitant
 - barbiturates
 - bosentan
 - carbamazepine
@@ -86,11 +87,12 @@ Certain medicines may make IMPLANON less effective, including:
 - St. John's wort
 - topiramate
 - HIV medicines
+- Hepatitis C Virus medicines
 
 Ask your healthcare provider if you are not sure if your medicine is one listed above.
 
-If there are medicines that you have been taking for a long time, that make IMPLANON less effective, tell your healthcare provider.
-Your healthcare provider may remove the IMPLANON implant and recommend a birth control method that can be used effectively with these medicines.
+If you are taking medicines or herbal products that might make IMPLANON less effective, you and your doctor may decide to leave IMPLANON in place; in that case, an additional non-hormonal contraceptive should be used.
+Because the effect of another medicine on IMPLANON may last up to 28 days after stopping the medicine, it is necessary to use the additional non-hormonal contraceptive for that long.
 
 When you are using IMPLANON, tell all of your healthcare providers that you have IMPLANON in place in your arm.
 
@@ -188,7 +190,7 @@ What are the possible risks of using IMPLANON?
   - Scar tissue may form around the implant making it difficult to remove
   - The implant may come out by itself.
     You may become pregnant if the implant comes out by itself.
-    Use a back up birth control method and call your healthcare provider right away if the implant comes out.
+    Use a back-up birth control method and call your healthcare provider right away if the implant comes out.
   - The need for surgery in the hospital to remove the implant
   - Injury to nerves or blood vessels in your arm
   - The implant breaks making removal difficult

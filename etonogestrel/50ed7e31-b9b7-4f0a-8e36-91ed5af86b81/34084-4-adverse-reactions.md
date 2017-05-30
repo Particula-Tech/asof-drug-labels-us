@@ -90,7 +90,7 @@ Skin and subcutaneous tissue disorders: angioedema, aggravation of angioedema an
 Vascular disorders: hot flush.
 
 Complications related to insertion or removal of the implant reported include: bruising, slight local irritation, pain or itching, fibrosis at the implant site, paresthesia or paresthesia-like events, scarring and abscess.
-Expulsion or migration of the implant have been reported, including to the chest wall.
+Expulsion or migration of the implant has been reported, including to the chest wall.
 In some cases implants have been found within the vasculature including the pulmonary artery.
 Some cases of implants found within the pulmonary artery reported chest pain and/or dyspnea; others have been reported as asymptomatic [see Warnings and Precautions (5.1)].
 Surgical intervention might be necessary when removing the implant.

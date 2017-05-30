@@ -5,9 +5,9 @@ Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Sta
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2006-2016 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2006-2017 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk8415-ipt-1612r013
+uspi-mk8415-ipt-1705r014
 
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
@@ -16,11 +16,11 @@ Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Sta
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2012 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2012-2017 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 03/2016
+Revised: 05/2017
 
-usppi-mk8415-ipt-1603r012
+usppi-mk8415-ipt-1705r013
 
 IMPLANON® (etonogestrel implant) 68 mg For Subdermal Use Only
 

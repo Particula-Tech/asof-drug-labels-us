@@ -47,7 +47,7 @@ Timing of insertion depends on the woman's recent contraceptive history, as foll
     If inserted as recommended, back-up contraception is not necessary.
     If deviating from the recommended timing of insertion, the woman should be advised to use a barrier method until 7 days after insertion.
     If intercourse has already occurred, pregnancy should be excluded.
-  - Breastfeeding: IMPLANON should be inserted after the fourth postpartum week [see Use in Specific Populations (8.3)].
+  - Breastfeeding: IMPLANON should not be inserted until after the fourth postpartum week.
     The woman should be advised to use a barrier method until 7 days after insertion.
     If intercourse has already occurred, pregnancy should be excluded.
 
@@ -202,7 +202,7 @@ Preparation
 
 Before initiating the removal procedure, the healthcare provider should carefully read the instructions for removal and consult the USER CARD and/or the PATIENT CHART LABEL for the location of the implant.
 The exact location of the implant in the arm should be verified by palpation.
-[See Dosage and Administration (2.3), Localization and Removal of a Non-Palpable Implant.]
+[See Dosage and Administration (2.3) and Localization and Removal of a Non-Palpable Implant.]
 
 Procedure for Removal of an Implant that is Palpable
 

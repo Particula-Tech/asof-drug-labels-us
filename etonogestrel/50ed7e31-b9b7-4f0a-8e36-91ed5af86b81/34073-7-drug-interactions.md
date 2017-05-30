@@ -1,34 +1,30 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Changes in Contraceptive Effectiveness Associated with Coadministration of Other Products
+Consult the labeling of concurrently-used drugs to obtain further information about interactions with hormonal contraceptives or the potential for enzyme alterations.
 
-Drugs or herbal products that induce enzymes, including CYP3A4, that metabolize progestins may decrease the plasma concentrations of progestins, and may decrease the effectiveness of IMPLANON.
-In women on long-term treatment with hepatic enzyme inducing drugs, it is recommended to remove the implant and to advise a contraceptive method that is unaffected by the interacting drug.
+## 7.1 Effects of Other Drugs on Hormonal Contraceptives
 
-Some of these drugs or herbal products that induce enzymes, including CYP3A4, include:
+Substances decreasing the plasma concentrations of hormonal contraceptives (HCs) and potentially diminishing the efficacy of HCs:
 
-- barbiturates
-- bosentan
-- carbamazepine
-- felbamate
-- griseofulvin
-- oxcarbazepine
-- phenytoin
-- rifampin
-- St. John's wort
-- Topiramate
+Drugs or herbal products that induce certain enzymes, including cytochrome P450 3A4 (CYP3A4), may decrease the plasma concentrations of HCs and potentially diminish the effectiveness of HCs or increase breakthrough bleeding.
 
-HIV Antiretrovirals
+Some drugs or herbal products that may decrease the effectiveness of HCs include efavirenz, phenytoin, barbiturates, carbamazepine, bosentan, felbamate, griseofulvin, oxcarbazepine, rifampicin, topiramate, rifabutin, rufinamide, aprepitant, and products containing St. John's wort.
+Interactions between HCs and other drugs may lead to breakthrough bleeding and/or contraceptive failure.
+Counsel women to use an alternative non-hormonal method of contraception or a back-up method when enzyme inducers are used with HCs, and to continue back-up non-hormonal contraception for 28 days after discontinuing the enzyme inducer to ensure contraceptive reliability.
 
-Significant changes (increase or decrease) in the plasma levels of progestin have been noted in some cases of co-administration with HIV protease inhibitors or with non-nucleoside reverse transcriptase inhibitors.
-Consult the labeling of all concurrently-used drugs to obtain further information about interactions with hormonal contraceptives or the potential for enzyme alterations.
+Substances increasing the plasma concentrations of HCs:
 
-## 7.2 Increase in Plasma Concentrations of Etonogestrel Associated with Coadministered Drugs
+Co-administration of certain HCs and strong or moderate CYP3A4 inhibitors such as itraconazole, voriconazole, fluconazole, grapefruit juice, or ketoconazole may increase the serum concentrations of progestins, including etonogestrel.
 
-CYP3A4 inhibitors such as itraconazole or ketoconazole may increase plasma concentrations of etonogestrel.
+Human Immunodeficiency Virus (HIV)/Hepatitis C Virus (HCV) protease inhibitors and non-nucleoside reverse transcriptase inhibitors:
 
-## 7.3 Changes in Plasma Concentrations of Coadministered Drugs
+Significant changes (increase or decrease) in the plasma concentrations of progestin have been noted in cases of co-administration with HIV protease inhibitors (decrease [e.g., nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir] or increase [e.g., indinavir and atazanavir/ritonavir])/HCV protease inhibitors (decrease [e.g., boceprevir and telaprevir]) or with non-nucleoside reverse transcriptase inhibitors (decrease [e.g., nevirapine, efavirenz] or increase [e.g., etravirene]).
+These changes may be clinically relevant in some cases.
+
+Consult the prescribing information of anti-viral and anti-retroviral concomitant medications to identify potential interactions.
+
+## 7.2 Effects of Hormonal Contraceptives on Other Drugs
 
 Hormonal contraceptives may affect the metabolism of other drugs.
-Consequently, plasma concentrations may either increase (for example, cyclosporin) or decrease (for example, lamotrigine).
+Consequently, plasma concentrations may either increase (for example, cyclosporine) or decrease (for example, lamotrigine).
 Consult the labeling of all concurrently-used drugs to obtain further information about interactions with hormonal contraceptives or the potential for enzyme alterations.
