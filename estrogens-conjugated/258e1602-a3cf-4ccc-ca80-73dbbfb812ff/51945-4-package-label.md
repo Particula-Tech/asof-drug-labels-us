@@ -184,7 +184,7 @@ PREMARIN® (conjugated estrogens tablets, USP)
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 1.25 MG – BOTTLE CARTON
+PRINCIPAL DISPLAY PANEL - 1.25 mg Tablet Bottle Carton
 
 Pfizer
 
