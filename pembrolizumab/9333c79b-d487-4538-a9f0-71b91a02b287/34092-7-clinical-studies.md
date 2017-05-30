@@ -144,7 +144,7 @@ Table 16: Efficacy Results in KEYNOTE-024
 | ORR (95% CI) | 45% (37, 53) | 28% (21, 36) |
 | Complete response rate | 4% | 1% |
 | Partial response rate | 41% | 27% |
-| p-Value (Miettenen-Nurminen) | 0.001 |  |
+| p-Value (Miettinen-Nurminen) | 0.001 |  |
 | Median duration of response in months (range) | NR (1.9+, 14.5+) | 6.3 (2.1+, 12.6+) |
 | NR = not reached |  |  |
 
@@ -243,7 +243,7 @@ Table 18: Efficacy Results of the Subgroup of Patients with TPS ≥50% in KEYNOT
 | p-Value (stratified log-rank) | <0.001 | <0.001 | --- |
 | Objective response rate |  |  |  |
 | ORRAll responses were partial responses (95% CI) | 30% (23, 39) | 29% (22, 37) | 8% (4, 13) |
-| p-Value (Miettenen-Nurminen) | <0.001 | <0.001 | --- |
+| p-Value (Miettinen-Nurminen) | <0.001 | <0.001 | --- |
 | Median duration of response in months (range) | NR (0.7+, 16.8+) | NR (2.1+, 17.8+) | 8.1 (2.1+, 8.8+) |
 | NR = not reached |  |  |  |
 
@@ -263,7 +263,7 @@ Table 19: Efficacy Results of All Randomized Patients (TPS ≥1%) in KEYNOTE-010
 | p-Value (stratified log-rank) | 0.068 | 0.005 | --- |
 | Objective response rate |  |  |  |
 | ORRAll responses were partial responses (95% CI) | 18% (14, 23) | 19% (15, 23) | 9% (7, 13) |
-| p-Value (Miettenen-Nurminen) | <0.001 | <0.001 | --- |
+| p-Value (Miettinen-Nurminen) | <0.001 | <0.001 | --- |
 | Median duration of response in months (range) | NR (0.7+, 20.1+) | NR (2.1+, 17.8+) | 6.2 (1.4+, 8.8+) |
 | NR = not reached |  |  |  |
 
@@ -402,3 +402,72 @@ Table 22: Efficacy Results in KEYNOTE-045
 
 | Figure 5: Kaplan-Meier Curve for Overall Survival in KEYNOTE-045 |
 | --- |
+
+## 14.6 Microsatellite Instability-High Cancer
+
+The efficacy of KEYTRUDA was evaluated in patients with MSI-H or mismatch repair deficient (dMMR), solid tumors enrolled in one of five uncontrolled, open-label, multi-cohort, multi-center, single-arm trials.
+Patients with active autoimmune disease or a medical condition that required immunosuppression were ineligible across the five trials.
+Patients received either KEYTRUDA 200 mg every 3 weeks or KEYTRUDA 10 mg/kg every 2 weeks.
+Treatment continued until unacceptable toxicity or disease progression that was either symptomatic, rapidly progressive, required urgent intervention, or occurred with a decline in performance status.
+A maximum of 24 months of treatment with KEYTRUDA was administered.
+For the purpose of assessment of anti-tumor activity across these 5 trials, the major efficacy outcome measures were ORR as assessed by blinded independent central radiologists' (BICR) review according to RECIST 1.1 and duration of response.
+
+Table 23: MSI-H Trials
+
+| Study | Design and Patient Population | Number of patients | MSI-H/dMMR testing | Dose | Prior therapy |
+| --- | --- | --- | --- | --- | --- |
+| KEYNOTE-016 NCT01876511 | prospective, investigator-initiated6 sitespatients with CRC and other tumors | 28 CRC 30 non-CRC | local PCR or IHC | 10 mg/kg every 2 weeks | CRC: ≥ 2 prior regimensNon-CRC: ≥1 prior regimen |
+| KEYNOTE-164 NCT02460198 | prospective international multi-centerCRC | 61 | local PCR or IHC | 200 mg every 3 weeks | Prior fluoropyrimidine, oxaliplatin, and irinotecan +/- anti-VEGF/EGFR mAb |
+| KEYNOTE-012 NCT01848834 | retrospectively identified patients with PD-L1-positive gastric, bladder, or triple-negative breast cancer | 6 | central PCR | 10 mg/kg every 2 weeks | ≥1 prior regimen |
+| KEYNOTE-028 NCT02054806 | retrospectively identified patients with PD-L1-positive esophageal, biliary, breast, endometrial, or CRC | 5 | central PCR | 10 mg/kg every 2 weeks | ≥1 prior regimen |
+| KEYNOTE-158 NCT02628067 | prospective international multi-center enrollment of patients with MSI-H/dMMR non-CRCretrospectively identified patients who were enrolled in specific rare tumor non-CRC cohorts | 19 | local PCR or IHC (central PCR for patients in rare tumor non-CRC cohorts) | 200 mg every 3 weeks | ≥1 prior regimen |
+| Total |  | 149 |  |  |  |
+| CRC = colorectal cancer PCR = polymerase chain reaction IHC = immunohistochemistry |  |  |  |  |  |
+
+A total of 149 patients with MSI-H or dMMR cancers were identified across the five clinical trials.
+Among these 149 patients, the baseline characteristics were: median age 55 years (36% age 65 or older); 56% male; 77% White, 19% Asian, 2% Black; and ECOG PS 0 (36%) or 1 (64%).
+Ninety-eight percent of patients had metastatic disease and 2% had locally advanced, unresectable disease.
+The median number of prior therapies for metastatic or unresectable disease was two.
+Eighty-four percent of patients with metastatic CRC and 53% of patients with other solid tumors received two or more prior lines of therapy.
+
+The identification of MSI-H or dMMR tumor status for the majority of patients (135/149) was prospectively determined using local laboratory-developed, polymerase chain reaction (PCR) tests for MSI-H status or immunohistochemistry (IHC) tests for dMMR.
+Fourteen of the 149 patients were retrospectively identified as MSI-H by testing tumor samples from a total of 415 patients using a central laboratory developed PCR test.
+Forty-seven patients had dMMR cancer identified by IHC, 60 had MSI-H identified by PCR, and 42 were identified using both tests.
+
+Efficacy results are summarized in Table 24.
+
+Table 24: Efficacy Results for Patients with MSI-H/dMMR Cancer
+
+| Endpoint | n=149 |
+| --- | --- |
+| Objective response rate |  |
+| ORR (95% CI) | 39.6% (31.7, 47.9) |
+| Complete response rate | 7.4 |
+| Partial response rate | 32.2 |
+| Response duration |  |
+| Median in months (range) | NR (1.6+, 22.7+) |
+| % with duration ≥6 months | 78% |
+| NR = not reached |  |
+
+Table 25: Response by Tumor Type
+
+|  | N | n (%) | 95% CI | (months) |
+| --- | --- | --- | --- | --- |
+|  |  | Objective response rate |  | DOR range |
+| CRC | 90 | 32 (36%) | (26%, 46%) | (1.6+, 22.7+) |
+| Non-CRC | 59 | 27 (46%) | (33%, 59%) | (1.9+, 22.1+) |
+| Endometrial cancer | 14 | 5 (36%) | (13%, 65%) | (4.2+, 17.3+) |
+| Biliary cancer | 11 | 3 (27%) | (6%, 61%) | (11.6+, 19.6+) |
+| Gastric or GE junction cancer | 9 | 5 (56%) | (21%, 86%) | (5.8+, 22.1+) |
+| Pancreatic cancer | 6 | 5 (83%) | (36%, 100%) | (2.6+, 9.2+) |
+| Small intestinal cancer | 8 | 3 (38%) | (9%, 76%) | (1.9+, 9.1+) |
+| Breast cancer | 2 | PR, PR |  | (7.6, 15.9) |
+| Prostate cancer | 2 | PR, SD |  | 9.8+ |
+| Bladder cancer | 1 | NE |  |  |
+| Esophageal cancer | 1 | PR |  | 18.2+ |
+| Sarcoma | 1 | PD |  |  |
+| Thyroid cancer | 1 | NE |  |  |
+| Retroperitoneal adenocarcinoma | 1 | PR |  | 7.5+ |
+| Small cell lung cancer | 1 | CR |  | 8.9+ |
+| Renal cell cancer | 1 | PD |  |  |
+| CR = complete response PR = partial response SD = stable disease PD = progressive disease NE = not evaluable |  |  |  |  |

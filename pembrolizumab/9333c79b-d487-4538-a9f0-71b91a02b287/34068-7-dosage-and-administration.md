@@ -30,7 +30,13 @@ The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maxim
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.5)].
 
-## 2.7 Dose Modifications
+## 2.7 Recommended Dosage for MSI-H Cancer
+
+The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.6)].
+
+The recommended dose of KEYTRUDA in children is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
+
+## 2.8 Dose Modifications
 
 Withhold KEYTRUDA for any of the following:
 
@@ -56,7 +62,7 @@ Permanently discontinue KEYTRUDA for any of the following:
 - Persistent Grade 2 or 3 adverse reactions (excluding endocrinopathies controlled with hormone replacement therapy) that do not recover to Grade 0-1 within 12 weeks after last dose of KEYTRUDA
 - Any severe or Grade 3 treatment-related adverse reaction that recurs [see Warnings and Precautions (5.6)]
 
-## 2.8 Preparation and Administration
+## 2.9 Preparation and Administration
 
 Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
 

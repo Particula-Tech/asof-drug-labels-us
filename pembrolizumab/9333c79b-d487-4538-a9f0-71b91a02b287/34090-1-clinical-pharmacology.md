@@ -14,10 +14,10 @@ Based on dose/exposure efficacy and safety relationships, there are no clinicall
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics (PK) of pembrolizumab was characterized using a population PK analysis with concentration data collected from 2841 patients with various cancers who received pembrolizumab doses of 1 to 10 mg/kg every 2 weeks or 2 to 10 mg/kg every 3 weeks.
-Pembrolizumab clearance (CV%) is approximately 20% lower [geometric mean, 212 mL/day (46%)] at steady state than that after the first dose [267 mL/day (43.1%)]; this decrease in clearance with time is not considered clinically important.
-The geometric mean value (CV%) for volume of distribution at steady state is 6.1 L (21%) and for terminal half-life (t1/2) is 23 days (30%).
+Pembrolizumab clearance (CV%) is approximately 21% lower [geometric mean, 196 mL/day (41%)] at steady state than that after the first dose [249 mL/day (38%)]; this decrease in clearance with time is not considered clinically important.
+The geometric mean value (CV%) for volume of distribution at steady state is 6.0 L (21%) and for terminal half-life (t1/2) is 22 days (32%).
 
-Steady-state concentrations of pembrolizumab were reached by 19 weeks of repeated dosing with an every 3-week regimen and the systemic accumulation was 2.2-fold.
+Steady-state concentrations of pembrolizumab were reached by 16 weeks of repeated dosing with an every 3-week regimen and the systemic accumulation was 2.2-fold.
 The peak concentration (Cmax), trough concentration (Cmin), and area under the plasma concentration versus time curve at steady state (AUCss) of pembrolizumab increased dose proportionally in the dose range of 2 to 10 mg/kg every 3 weeks.
 
 Specific Populations: The following factors had no clinically important effect on the CL of pembrolizumab: age (range: 15 to 94 years), sex, race (94% White), renal impairment (eGFR greater than or equal to 15 mL/min/1.73 m2), mild hepatic impairment (total bilirubin less than or equal to upper limit of normal (ULN) and AST greater than ULN or total bilirubin between 1 and 1.5 times ULN and any AST), or tumor burden.
