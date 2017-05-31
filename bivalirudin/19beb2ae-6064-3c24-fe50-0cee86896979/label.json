@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA201577"
+  ],
+  "inn": "bivalirudin",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-652-07",
+    "55111-652-37"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bivalirudin",
+      "name": "Bivalirudin"
+    }
+  ],
+  "setid": "19beb2ae-6064-3c24-fe50-0cee86896979",
+  "source": "dailymed"
+}
