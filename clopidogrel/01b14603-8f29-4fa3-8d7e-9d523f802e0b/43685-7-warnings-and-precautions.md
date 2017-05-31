@@ -7,7 +7,7 @@ Inhibition of platelet aggregation by clopidogrel is achieved through an active 
 The metabolism of clopidogrel to its active metabolite can be impaired by genetic variations in CYP2C19 [see Boxed Warning].
 
 The metabolism of clopidogrel can also be impaired by drugs that inhibit CYP2C19, such as omeprazole or esomeprazole.
-Avoid concomitant use of Plavix with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of Plavix [see Drug Interactions (7.1).
+Avoid concomitant use of Plavix with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of Plavix [see Drug Interactions (7.1)].
 
 ## 5.2 General Risk of Bleeding
 

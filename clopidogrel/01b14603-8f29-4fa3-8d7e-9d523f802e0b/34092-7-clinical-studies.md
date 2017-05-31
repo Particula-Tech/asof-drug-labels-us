@@ -65,7 +65,7 @@ Table 5: Outcome Events in COMMIT
 | Non-fatal MINon-fatal MI and non-fatal stroke exclude patients who died (of any cause). | 270 (1.2%) | 330 (1.4%) | 0.81 (0.69, 0.95) | 0.011 |
 | Non-fatal Stroke | 127 (0.6%) | 142 (0.6%) | 0.89 (0.70, 1.13) | 0.33 |
 
-| Figure 4: Cumulative Event Rates for Death in the COMMIT Study All treated patients received aspirin. |
+| Figure 4: Cumulative Event Rates for Death in the COMMIT StudyAll treated patients received aspirin. |
 | --- |
 
 | Figure 5: Cumulative Event Rates for the Combined Endpoint Re-Infarction, Stroke or Death in the COMMIT Study All treated patients received aspirin. |

@@ -12,11 +12,11 @@ Dispense with Medication Guide
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 300 mg 100 Tablet Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 300 mg Tablet Blister Pack Carton
 
-List No. 1176-30
+List No. 1332-20
 
-NDC 63653-1332-3
+NDC 63653-1332-2
 
 Plavix® (clopidogrel bisulfate)
 
@@ -26,6 +26,6 @@ Dispense with Medication Guide
 
 Rx only
 
-100 film-coated tablets
+30 film-coated tablets
 
 Bristol-Myers Squibb Company sanofi aventis

@@ -4,7 +4,7 @@ Advise patients to read FDA approved patient labeling (Medication Guide).
 
 Discontinuation
 
-Advise patients not to discontinue Plavix without first discussing it with the health care provider who prescribed it [see Warnings and Precautions (5.3)].
+Advise patients not to discontinue Plavix without first discussing it with the healthcare provider who prescribed it [see Warnings and Precautions (5.3)].
 
 Bleeding
 
