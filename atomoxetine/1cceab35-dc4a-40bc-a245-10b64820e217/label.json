@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA079016"
+  ],
+  "inn": "atomoxetine",
+  "labeler": "Rising Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64980-373-03",
+    "64980-374-03",
+    "64980-375-03",
+    "64980-376-03",
+    "64980-376-10",
+    "64980-377-03",
+    "64980-377-10",
+    "64980-378-03",
+    "64980-379-03"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "atomoxetine",
+      "name": "Atomoxetine"
+    }
+  ],
+  "setid": "1cceab35-dc4a-40bc-a245-10b64820e217",
+  "source": "dailymed"
+}
