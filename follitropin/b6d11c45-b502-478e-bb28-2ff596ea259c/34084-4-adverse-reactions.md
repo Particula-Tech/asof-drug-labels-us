@@ -75,6 +75,8 @@ Table 2: Common Adverse Reactions Reported at a Frequency of ≥ 2% in an Assist
 The following adverse reactions have been reported during postmarketing use of Gonal-f® RFF.
 Because these reactions were reported voluntarily from a population of uncertain size, the frequency or a causal relationship to Gonal-f® RFF cannot be reliably determined.
 
-Body as a Whole - General: Hypersensitivity reactions including anaphylactoid reactions [see Warnings and Precautions (5.1)]
+Body as a Whole - General: hypersensitivity reactions including anaphylactoid reactions [see Warnings and Precautions (5.1)]
 
-Respiratory System: Asthma
+Respiratory System: asthma
+
+Vascular disorders: thromboembolism [see Warnings and Precautions (5.4)]

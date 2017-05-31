@@ -1,7 +1,5 @@
 Manufactured for: EMD Serono, Inc., Rockland, MA 02370 U.S.A.
 
-N19Z0104C
-
 Manufactured for: EMD Serono, Inc. Rockland, MA 02370
 
 Revised: January 2014

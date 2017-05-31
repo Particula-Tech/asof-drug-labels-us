@@ -62,7 +62,7 @@ During clinical trials with Gonal-f® RFF, OHSS occurred in 7.2% of 83 women and
 ## 5.4 Pulmonary and Vascular Complications
 
 Serious pulmonary conditions (e.g., atelectasis, acute respiratory distress syndrome and exacerbation of asthma) have been reported in women treated with gonadotropins.
-In addition, thromboembolic events both in association with, and separate from OHSS have been reported in women treated with gonadotropins.
+In addition, thromboembolic events both in association with, and separate from OHSS have been reported in women treated with gonadotropins including Gonal-f® RFF.
 Intravascular thrombosis and embolism, which may originate in venous or arterial vessels, can result in reduced blood flow to critical organs or the extremities.
 Women with generally recognized risk factors for thrombosis, such as personal or family history, severe obesity, or thrombophilia, may have an increased risk of venous or arterial thromboembolic events, during or following treatment with gonadotropins.
 Sequelae of such reactions have included venous thrombophlebitis, pulmonary embolism, pulmonary infarction, cerebral vascular occlusion (stroke), and arterial occlusion resulting in loss of limb and rarely in myocardial infarctions.
