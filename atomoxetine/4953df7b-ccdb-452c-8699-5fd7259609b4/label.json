@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA079022"
+  ],
+  "inn": "atomoxetine",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-3542-56",
+    "0093-3543-56",
+    "0093-3544-56",
+    "0093-3545-56",
+    "0093-3546-56",
+    "0093-3547-56",
+    "0093-3548-56"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "atomoxetine",
+      "name": "Atomoxetine"
+    }
+  ],
+  "setid": "4953df7b-ccdb-452c-8699-5fd7259609b4",
+  "source": "dailymed"
+}
