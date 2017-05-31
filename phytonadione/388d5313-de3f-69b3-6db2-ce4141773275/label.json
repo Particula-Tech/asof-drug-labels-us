@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA012223"
+  ],
+  "inn": "phytonadione",
+  "labeler": "Teligent Pharma, Inc.",
+  "package_ndcs": [
+    "52565-092-01",
+    "52565-093-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, EMULSION",
+      "generic": "phytonadione",
+      "name": "AquaMEPHYTON"
+    }
+  ],
+  "setid": "388d5313-de3f-69b3-6db2-ce4141773275",
+  "source": "dailymed"
+}
