@@ -1,11 +1,9 @@
 # WARNINGS
 
-Concomitant use of benzodiazepines, including ATIVAN Injection, and opioids may result in profound sedation, respiratory depression, coma, and death.
-Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are inadequate.
+## Risks From Concomitant Use with Opioids
 
-Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
-If a decision is made to prescribe ATIVAN Injection concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
-Advise both patients and caregivers about the risks of respiratory depression and sedation when ATIVAN Injection is used with opioids (see PRECAUTIONS, Drug Interactions).
+Concomitant use of benzodiazepines, including ATIVAN Injection, and opioids may result in profound sedation, respiratory depression, coma, and death.
+If a decision is made to use ATIVAN Injection concomitantly with opioids, monitor patients closely for respiratory depression and sedation (see PRECAUTIONS, Drug Interactions).
 
 ## Use in Status Epilepticus
 
@@ -85,16 +83,26 @@ The possibility that a woman of childbearing potential may be pregnant at the ti
 There are insufficient data regarding obstetrical safety of parenteral lorazepam, including use in cesarean section.
 Such use, therefore, is not recommended.
 
+## Usage in Preterm Infants and Neonates
+
+ATIVAN Injection contains benzyl alcohol.
+Exposure to excessive amounts of benzyl alcohol has been associated with toxicity (hypotension, metabolic acidosis), particularly in neonates, and an increased incidence of kernicterus, particularly in small preterm infants.
+There have been rare reports of deaths, primarily in preterm infants, associated with exposure to excessive amounts of benzyl alcohol.
+The amount of benzyl alcohol from medications is usually considered negligible compared to that received in flush solutions containing benzyl alcohol.
+Administration of high dosages of medications (including ATIVAN) containing this preservative must take into account the total amount of benzyl alcohol administered.
+The recommended dosage range of ATIVAN for preterm and term infants includes amounts of benzyl alcohol well below that associated with toxicity; however, the amount of benzyl alcohol at which toxicity may occur is not known.
+If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see WARNINGS and PRECAUTIONS - Pediatric Use).
+
 ## Pediatric Neurotoxicity
 
 Published animal studies demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity increase neuronal apoptosis in the developing brain and result in long-term cognitive deficits when used for longer than 3 hours.
 The clinical significance of these findings is not clear.
-However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (See Pregnancy, Pediatric Use, and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
+However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (See PRECAUTIONS, Pregnancy, Pediatric Use; ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
 
 Some published studies in children suggest that similar deficits may occur after repeated or prolonged exposures to anesthetic agents early in life and may result in adverse cognitive or behavioral effects.
 These studies have substantial limitations, and it is not clear if the observed effects are due to the anesthetic/sedation drug administration or other factors such as the surgery or underlying illness.
 
-Anesthetic and sedation drugs are a necessary part of the care of children and pregnant women needing surgery, other procedures, or tests that cannot be delayed, and no specific medications have been shown to be safer than any other.
+Anesthetic and sedation drugs are a necessary part of the care of children needing surgery, other procedures, or tests that cannot be delayed, and no specific medications have been shown to be safer than any other.
 Decisions regarding the timing of any elective procedures requiring anesthesia should take into consideration the benefits of the procedure weighed against the potential risks.
 
 ## Endoscopic Procedures
@@ -138,9 +146,7 @@ Elderly patients should be told that ATIVAN Injection may make them very sleepy 
 EFFECT OF ANESTHETIC AND SEDATION DRUGS ON EARLY BRAIN DEVELOPMENT
 
 Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
-Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
-
-Because some animal data suggest that the window of vulnerability includes the 3rd trimester of pregnancy, discuss with pregnant women the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs (See WARNINGS/Pediatric Neurotoxicity).
+Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drug (See WARNINGS/Pediatric Neurotoxicity).
 
 ## Laboratory Tests
 
@@ -149,10 +155,12 @@ These tests included: CBC, urinalysis, SGOT, SGPT, bilirubin, alkaline phosphata
 
 ## Drug Interactions
 
+### INTERACTION WITH BENZODIAZEPINES AND OTHER CNS DEPRESSANTS
+
 The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
 Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
-Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
+Monitor patients closely for respiratory depression and sedation.
 
 ATIVAN Injection, like other injectable benzodiazepines, produces additive depression of the central nervous system when administered with other CNS depressants such as ethyl alcohol, phenothiazines, barbiturates, MAO inhibitors, and other antidepressants.
 
@@ -204,7 +212,7 @@ Teratogenic Effects—Pregnancy Category D (See WARNINGS.)
 Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours.
 There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans.
 
-In a published study, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
+In a published study in primates, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
 In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring.
 With respect to brain development, this time period corresponds to the third trimester of gestation in the human.
 The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (See WARNINGS/Pediatric Neurotoxicity, Pediatric Use, and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
@@ -235,6 +243,14 @@ Pediatric patients (as well as adults) with atypical petit mal status epilepticu
 This “paradoxical” effect was also reported for diazepam and clonazepam.
 Nevertheless, the development of seizures after treatment with benzodiazepines is probably rare, based on the incidence in the uncontrolled treatment series reported (i.e., seizures were not observed for 112 pediatric patients and 18 adults or during approximately 400 doses).
 
+ATIVAN Injection contains benzyl alcohol as a preservative.
+Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
+The “gasping syndrome”, (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages greater than 99 mg/kg/day in neonates and low-birth-weight neonates.
+Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
+Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome”, the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+Premature and low-birth-weight infants, as well as patients receiving high dosages, may be more likely to develop toxicity.
+Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
+
 ### PREANESTHETIC
 
 There are insufficient data to support the efficacy of injectable lorazepam as a preanesthetic agent in patients less than 18 years of age.
@@ -249,13 +265,13 @@ Additional symptoms may include gradual neurological deterioration, seizures, in
 Central nervous system toxicity, including seizures and intraventricular hemorrhage, as well as unresponsiveness, tachypnea, tachycardia, and diaphoresis have been associated with propylene glycol toxicity.
 Although normal therapeutic doses of ATIVAN Injection contain very small amounts of these compounds, premature and low-birth-weight infants as well as pediatric patients receiving high doses may be more susceptible to their effects.
 
-Published juvenile animal studies demonstrate that the administration of anesthetic and sedation drugs, such as Ativan that either block NMDA receptors or potentiate the activity of GABA during the period of rapid brain growth or synaptogenesis, results in widespread neuronal and oligodendrocyte cell loss in the developing brain and alterations in synaptic morphology and neurogenesis.
+Published juvenile animal studies demonstrate that the administration of anesthetic and sedation drugs, such as ATIVAN that either block NMDA receptors or potentiate the activity of GABA during the period of rapid brain growth or synaptogenesis, results in widespread neuronal and oligodendrocyte cell loss in the developing brain and alterations in synaptic morphology and neurogenesis.
 Based on comparisons across species, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately 3 years of age in humans.
 
 In primates, exposure to 3 hours of ketamine that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer of isoflurane increased neuronal cell loss.
 Data from isoflurane-treated rodents and ketamine-treated primates suggest that the neuronal and oligodendrocyte cell losses are associated with prolonged cognitive deficits in learning and memory.
 The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women, neonates and young children who require procedures with the potential risks suggested by the nonclinical data.
-(See WARNINGS/Pediatric Neurotoxicity, Pregnancy, and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
+(See WARNINGS, Pediatric Neurotoxicity; PRECAUTIONS, Pregnancy; ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
 
 ## Geriatric Use
 
