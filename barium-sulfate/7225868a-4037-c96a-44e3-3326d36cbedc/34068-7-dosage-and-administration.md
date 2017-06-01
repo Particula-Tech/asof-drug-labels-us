@@ -1,27 +1,44 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The volume and concentration of E-Z-PAQUE® to be administered will depend on the degree and extent of contrast required in the area(s) under examination and on the equipment and technique employed.
+## 2.1 Recommended Dosage
 
-## Mixing Instructions:
+The optimal oral dose of E-Z-PAQUE will vary depending on the size and anatomy of the patient and the procedure being performed.
+The recommended oral dose of reconstituted E-Z-PAQUE:
 
-Add water to the desired % w/w fill line on the bottle.
-Replace the lid, invert the bottle and tap with fingers to mix contrast with water.
-Shake vigorously for 30 seconds.
-Wait five minutes, then add more water as necessary to achieve the % w/w desired.
-Replace the lid and shake vigorously for 30 seconds.
-To use with the straw (Cat.
-No. 841), remove the adhesive label on top of cap.
-Remove the cap and use the straw to push out cap liner.
-Replace the cap.
+- Adults: 150 to 750 mL, 169 to 450 g barium sulfate, depending on the reconstituted concentration [see Dosage and Administration (2.2)].
+  - Volumes closer to 150 mL are recommended for examination of the esophagus and stomach.
+  - Volumes up to 750 mL are recommended for examination of the small bowel.
+- Pediatric Patients: Adjust dose of reconstituted E-Z-PAQUE based on GI volume.
+  - For examinations of the upper GI tract, administer a volume sufficient to fully distend the esophagus or stomach.
+  - For small bowel examinations:
+    - Age birth to less than 2 years: 30 mL to 75 mL.
+    - Age 2 years to less than 17 years: 75 mL to 480 mL.
 
-## Typical Adult Dose
+## 2.2 Instructions for Reconstitution
 
-- Upper GI: 150 mL to 340 mL
-- Small Bowel: 340 mL to 750 mL
+The reconstituted concentration will vary, depending on the procedure being performed.
 
-After reconstitution with water, product must be refrigerated and used within 48 hours.
-Discard any unused portion.
+- A barium suspension up to 115% w/v is recommended for examinations of the esophagus and upper GI
+- A barium suspension of 60% w/v is recommended for examinations of the small bowel.
 
-## MRI Technical Note
+Reconstitute the E-Z-PAQUE prior to administration according to the following instructions:
 
-If the patient is scheduled for an MR study immediately or shortly after an upper GI procedure with this product, the regions of the GI tract which still contain this product may appear as areas of lowered signal intensity (black) with certain pulse sequences.
+- Tap bottle on a hard surface (right side up) several times to compact the product in the bottle.
+- Add water to the blue line marked ‘Initial Fill Line’ on the bottle.
+- Replace cap securely on the bottle.
+- Invert bottle and tap with fingers to mix contrast into the water.
+- Shake vigorously for 30 seconds; wait 5 minutes.
+- Add more water as needed to achieve the desired % w/v concentration using the fill lines marked on the bottle.
+  Then, re-shake vigorously for 30 seconds.
+- To use with straw, remove adhesive label on top of cap.
+- Remove cap and use straw to push out cap liner; replace cap.
+
+## 2.3 Administration Instructions
+
+- Use immediately after reconstitution.
+- Ensure patients have nothing by mouth for the following time period prior to the examination:
+  - Neonates and infants < 3 months 2 hours
+  - Infants 3-12 months 3 hours
+  - > 12 months of age 4 hours
+- Discard any unused suspension.
+- Encourage patients to maintain hydration following the barium sulfate procedure.

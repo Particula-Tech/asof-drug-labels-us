@@ -1,11 +1,11 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-E-Z-PAQUE® is supplied in the following quantities: 176 g bottles, Cat.
-No. 750, NDC 32909-750-03;
+How Supplied
 
-Manufactured by
+E-Z-PAQUE (barium sulfate) is supplied as a fine white to lightly colored powder (96 % w/w) in a single dose HDPE plastic bottle containing 169 g of barium sulfate.
 
-E-Z-EM Canada Inc., for E-Z-EM, Inc. a subsidiary of Bracco Diagnostics Inc. Monroe Township, NJ 08831 Tel: 1-516-333-8230 1-800-544-4624
+Provided as: 24 bottles per pack (NDC 32909-750-03)
 
-rev.
-01/15 TX1652-1
+Storage and Handling
+
+Store at USP controlled room temperature 20 to 25°C (68 to 77° F).
