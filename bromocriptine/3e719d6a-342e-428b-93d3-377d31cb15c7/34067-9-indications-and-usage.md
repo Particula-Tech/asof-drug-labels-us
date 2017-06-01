@@ -6,6 +6,6 @@ CYCLOSET is indicated as an adjunct to diet and exercise to improve glycemic con
 
 ## 1.2 Important Limitations of Use
 
-- CYCLOSET should not be used to treat type 1 diabetes or diabetic ketoacidosis.
-- Limited efficacy data in combination with thiazolidinediones.
-- Efficacy has not been confirmed in combination with insulin.
+- •CYCLOSET should not be used to treat type 1 diabetes or diabetic ketoacidosis.
+- •Limited efficacy data in combination with thiazolidinediones.
+- •Efficacy has not been confirmed in combination with insulin.

@@ -13,7 +13,7 @@ A total of 159 overweight (body mass index ≥26.0 kg/m2 for males and ≥28.0 k
 Mean body weight at baseline was 93 kg in the CYCLOSET group and 96 kg in the placebo group.
 Mean HbA1c at baseline was 9.0% in the CYCLOSET group and 8.8% in the placebo group.
 Mean duration of diabetes at baseline was 5 years in the CYCLOSET group and 4 years in the placebo group.
-Of the 80 patients in the CYLCOSET group, 69% (N = 55) achieved the maximum daily dose of 4.8 mg.
+Of the 80 patients in the CYCLOSET group, 69% (N = 55) achieved the maximum daily dose of 4.8 mg.
 CYCLOSET improved HbA1c and fasting plasma glucose compared to placebo (Table 2).
 Mean change from baseline in body weight was +0.2 kg in the CYCLOSET group (N = 78) and +0.5 kg in the placebo group (N = 77).
 
