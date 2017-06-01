@@ -208,7 +208,7 @@ Susceptibility Interpretive Criteria for Azithromycin
 | S | I | R | S | I | R |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
-| Haemophilus influenzae.Insufficient information is available to determine Intermediate or Resistant interpretive criteria | ≤ 4 | -- | -- | ≥ 12 | -- | -- |
+| Haemophilus influenzaeInsufficient information is available to determine Intermediate or Resistant interpretive criteria | ≤ 4 | -- | -- | ≥ 12 | -- | -- |
 | Staphylococcus aureus | ≤ 2 | 4 | ≥ 8 | ≥ 18 | 14–17 | ≤ 13 |
 | Streptococci including S. pneumoniae | ≤ 0.5 | 1 | ≥ 2 | ≥ 18 | 14–17 | ≤ 13 |
 | Moraxella catarrhalis | ≤ 0.25 | - | - | ≥ 26 | - | - |

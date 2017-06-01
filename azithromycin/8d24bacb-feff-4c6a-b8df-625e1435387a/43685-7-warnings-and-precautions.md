@@ -2,7 +2,7 @@
 
 ## 5.1 Hypersensitivity
 
-Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens-Johnson Syndrome, and toxic epidermal necrolysis have been reported in patients on azithromycin therapy.
+Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Acute Generalized Exanthematous Pustulosis (AGEP), Stevens-Johnson Syndrome, and toxic epidermal necrolysis have been reported in patients on azithromycin therapy.
 [see Contraindications (4.1)]
 
 Fatalities have been reported.
