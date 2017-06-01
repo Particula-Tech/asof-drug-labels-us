@@ -23,8 +23,8 @@ This test is not recommended for assessing the anticoagulant effect of apixaban.
 There is no clinical experience to reverse bleeding with the use of 4-factor PCC products in individuals who have received ELIQUIS.
 
 Effects of 4-factor PCCs on the pharmacodynamics of apixaban were studied in healthy subjects.
-Following administration of apixaban dosed to steady state, endogenous thrombin potential (ETP) returned to pre-apixaban levels 4 hours after the initiation of a 30 minute PCC infusion, compared to 45 hours with placebo.
-Mean ETP levels continued to increase and exceeded pre-apixaban levels reaching a maximum (34 – 51% increase over pre-apixaban levels) at 21 hours after initiating PCC and remained elevated (21 – 27% increase) at the end of the study (69 hours after initiation of PCC).
+Following administration of apixaban dosed to steady state, endogenous thrombin potential (ETP) returned to pre-apixaban levels 4 hours after the initiation of a 30-minute PCC infusion, compared to 45 hours with placebo.
+Mean ETP levels continued to increase and exceeded pre-apixaban levels reaching a maximum (34%-51% increase over pre-apixaban levels) at 21 hours after initiating PCC and remained elevated (21%-27% increase) at the end of the study (69 hours after initiation of PCC).
 The clinical relevance of this increase in ETP is unknown.
 
 ### Pharmacodynamic Drug Interaction Studies

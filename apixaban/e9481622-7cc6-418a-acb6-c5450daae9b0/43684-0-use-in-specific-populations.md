@@ -57,7 +57,6 @@ It is not known whether these concentrations will lead to similar stroke reducti
 ### Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery, and Treatment of DVT and PE and Reduction in the Risk of Recurrence of DVT and PE
 
 No dose adjustment is recommended for patients with renal impairment, including those with ESRD on dialysis [see Dosage and Administration (2.1)].
-
 Clinical efficacy and safety studies with ELIQUIS did not enroll patients with ESRD on dialysis or patients with a CrCl <15 mL/min; therefore, dosing recommendations are based on pharmacokinetic and pharmacodynamic (anti-FXa activity) data in subjects with ESRD maintained on dialysis [see Clinical Pharmacology 12.3)].
 
 ## 8.7 Hepatic Impairment

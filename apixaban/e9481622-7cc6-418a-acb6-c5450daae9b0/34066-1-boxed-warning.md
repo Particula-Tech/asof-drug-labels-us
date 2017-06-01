@@ -14,11 +14,11 @@ These hematomas may result in long-term or permanent paralysis.
 Consider these risks when scheduling patients for spinal procedures.
 Factors that can increase the risk of developing epidural or spinal hematomas in these patients include:
 
-- ●use of indwelling epidural catheters
-- ●concomitant use of other drugs that affect hemostasis, such as nonsteroidal anti-inflammatory drugs (NSAIDs), platelet inhibitors, other anticoagulants
-- ●a history of traumatic or repeated epidural or spinal punctures
-- ●a history of spinal deformity or spinal surgery
-- ●optimal timing between the administration of ELIQUIS and neuraxial procedures is not known
+- •use of indwelling epidural catheters
+- •concomitant use of other drugs that affect hemostasis, such as nonsteroidal anti-inflammatory drugs (NSAIDs), platelet inhibitors, other anticoagulants
+- •a history of traumatic or repeated epidural or spinal punctures
+- •a history of spinal deformity or spinal surgery
+- •optimal timing between the administration of ELIQUIS and neuraxial procedures is not known
 
 [see Warnings and Precautions (5.3)]
 

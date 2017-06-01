@@ -5,16 +5,16 @@
 ### ARISTOTLE
 
 Evidence for the efficacy and safety of ELIQUIS was derived from ARISTOTLE, a multinational, double-blind study in patients with nonvalvular AF comparing the effects of ELIQUIS and warfarin on the risk of stroke and non-central nervous system (CNS) systemic embolism.
-In ARISTOTLE, patients were randomized to ELIQUIS 5 mg orally twice daily (or 2.5 mg twice daily in subjects with at least 2 of the following characteristics: age ≥80 years, body weight ≤60 kg, or serum creatinine ≥1.5 mg/dL) or to warfarin (targeted to an INR range of 2.0–3.0).
+In ARISTOTLE, patients were randomized to ELIQUIS 5 mg orally twice daily (or 2.5 mg twice daily in subjects with at least 2 of the following characteristics: age ≥80 years, body weight ≤60 kg, or serum creatinine ≥1.5 mg/dL) or to warfarin (targeted to an INR range of 2.0-3.0).
 Patients had to have one or more of the following additional risk factors for stroke:
 
-- ●prior stroke or transient ischemic attack (TIA)
-- ●prior systemic embolism
-- ●age ≥75 years
-- ●arterial hypertension requiring treatment
-- ●diabetes mellitus
-- ●heart failure ≥New York Heart Association Class 2
-- ●left ventricular ejection fraction ≤40%
+- •prior stroke or transient ischemic attack (TIA)
+- •prior systemic embolism
+- •age ≥75 years
+- •arterial hypertension requiring treatment
+- •diabetes mellitus
+- •heart failure ≥New York Heart Association Class 2
+- •left ventricular ejection fraction ≤40%
 
 The primary objective of ARISTOTLE was to determine whether ELIQUIS 5 mg twice daily (or 2.5 mg twice daily) was effective (noninferior to warfarin) in reducing the risk of stroke (ischemic or hemorrhagic) and systemic embolism.
 Superiority of ELIQUIS to warfarin was also examined for the primary endpoint (rate of stroke and systemic embolism), major bleeding, and death from any cause.
@@ -25,7 +25,7 @@ The mean age was 69 years and the mean CHADS2 score (a scale from 0 to 6 used to
 The population was 65% male, 83% Caucasian, 14% Asian, and 1% Black.
 There was a history of stroke, TIA, or non-CNS systemic embolism in 19% of patients.
 Concomitant diseases of patients in this study included hypertension 88%, diabetes 25%, congestive heart failure (or left ventricular ejection fraction ≤40%) 35%, and prior myocardial infarction 14%.
-Patients treated with warfarin in ARISTOTLE had a mean percentage of time in therapeutic range (INR 2.0–3.0) of 62%.
+Patients treated with warfarin in ARISTOTLE had a mean percentage of time in therapeutic range (INR 2.0-3.0) of 62%.
 
 ELIQUIS was superior to warfarin for the primary endpoint of reducing the risk of stroke and systemic embolism (Table 9 and Figure 4).
 Superiority to warfarin was primarily attributable to a reduction in hemorrhagic stroke and ischemic strokes with hemorrhagic conversion compared to warfarin.
@@ -56,7 +56,7 @@ In ARISTOTLE, the results for the primary efficacy endpoint were generally consi
 
 Figure 5: Stroke and Systemic Embolism Hazard Ratios by Baseline Characteristics – ARISTOTLE Study
 
-Note: The figure above presents effects in various subgroups, all of which are baseline characteristics and all of which were pre-specified, if not the groupings.
+Note: The figure above presents effects in various subgroups, all of which are baseline characteristics and all of which were prespecified, if not the groupings.
 The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
 Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 

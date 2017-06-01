@@ -27,7 +27,7 @@ Activated oral charcoal reduces absorption of apixaban, thereby lowering apixaba
 Hemodialysis does not appear to have a substantial impact on apixaban exposure [see Clinical Pharmacology (12.3)].
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of apixaban.
 There is no experience with antifibrinolytic agents (tranexamic acid, aminocaproic acid) in individuals receiving apixaban.
-There is no experience with systemic hemostatics (desmopressin and aprotinin) in individuals receiving apixaban and they are not expected to be effective as a reversal agent.
+There is no experience with systemic hemostatics (desmopressin and aprotinin) in individuals receiving apixaban, and they are not expected to be effective as a reversal agent.
 
 ## 5.3 Spinal/Epidural Anesthesia or Puncture
 

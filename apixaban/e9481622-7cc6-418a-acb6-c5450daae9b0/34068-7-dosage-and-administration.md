@@ -8,17 +8,17 @@ The recommended dose of ELIQUIS for most patients is 5 mg taken orally twice dai
 
 The recommended dose of ELIQUIS is 2.5 mg twice daily in patients with at least two of the following characteristics:
 
-- ●age ≥80 years
-- ●body weight ≤60 kg
-- ●serum creatinine ≥1.5 mg/dL
+- •age ≥80 years
+- •body weight ≤60 kg
+- •serum creatinine ≥1.5 mg/dL
 
 ### Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
 The recommended dose of ELIQUIS is 2.5 mg taken orally twice daily.
 The initial dose should be taken 12 to 24 hours after surgery.
 
-- ●In patients undergoing hip replacement surgery, the recommended duration of treatment is 35 days.
-- ●In patients undergoing knee replacement surgery, the recommended duration of treatment is 12 days.
+- •In patients undergoing hip replacement surgery, the recommended duration of treatment is 35 days.
+- •In patients undergoing knee replacement surgery, the recommended duration of treatment is 12 days.
 
 ### Treatment of DVT and PE
 

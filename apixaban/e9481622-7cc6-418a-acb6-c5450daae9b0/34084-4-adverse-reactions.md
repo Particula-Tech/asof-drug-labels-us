@@ -2,9 +2,9 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the prescribing information.
 
-- ●Increased risk of thrombotic events after premature discontinuation [see Warnings and Precautions (5.1)]
-- ●Bleeding [see Warnings and Precautions (5.2)]
-- ●Spinal/epidural anesthesia or puncture [see Warnings and Precautions (5.3)]
+- •Increased risk of thrombotic events after premature discontinuation [see Warnings and Precautions (5.1)]
+- •Bleeding [see Warnings and Precautions (5.2)]
+- •Spinal/epidural anesthesia or puncture [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -45,7 +45,7 @@ Subjects treated with apixaban with diabetes bled more (3.0% per year) than did 
 
 Figure 1: Major Bleeding Hazard Ratios by Baseline Characteristics – ARISTOTLE Study
 
-Note: The figure above presents effects in various subgroups, all of which are baseline characteristics and all of which were pre-specified, if not the groupings.
+Note: The figure above presents effects in various subgroups, all of which are baseline characteristics and all of which were prespecified, if not the groupings.
 The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
 Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
@@ -97,7 +97,7 @@ Table 4: Adverse Reactions Occurring in ≥1% of Patients in Either Group Underg
 | Anemia (including postoperative and hemorrhagic anemia, and respective laboratory parameters) | 153 (2.6) | 178 (3.0) |
 | Contusion | 83 (1.4) | 115 (1.9) |
 | Hemorrhage (including hematoma, and vaginal and urethral hemorrhage) | 67 (1.1) | 81 (1.4) |
-| Postprocedural hemorrhage (including postprocedural hematoma, wound hemorrhage, vessel puncture site hematoma and catheter site hemorrhage) | 54 (0.9) | 60 (1.0) |
+| Postprocedural hemorrhage (including postprocedural hematoma, wound hemorrhage, vessel puncture-site hematoma, and catheter-site hemorrhage) | 54 (0.9) | 60 (1.0) |
 | Transaminases increased (including alanine aminotransferase increased and alanine aminotransferase abnormal) | 50 (0.8) | 71 (1.2) |
 | Aspartate aminotransferase increased | 47 (0.8) | 69 (1.2) |
 | Gamma-glutamyltransferase increased | 38 (0.6) | 65 (1.1) |

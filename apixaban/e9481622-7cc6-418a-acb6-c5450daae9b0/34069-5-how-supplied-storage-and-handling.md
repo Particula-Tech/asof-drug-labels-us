@@ -7,10 +7,9 @@ ELIQUIS (apixaban) tablets are available as listed in the table below.
 | Tablet Strength | Tablet Color/Shape | Tablet Markings | Package Size | NDC Code |
 | --- | --- | --- | --- | --- |
 | 2.5 mg | Yellow, round, | Debossed with “893” on | Bottles of 60 | 0003-0893-21 |
-|  | biconvex | one side and “2½” on the | Bottles of 180 | 0003-0893-41 |
-|  |  | other side | Hospital Unit-Dose Blister Package of 100 | 0003-0893-31 |
+|  | biconvex | one side and “2½” on theother side | Hospital Unit-Dose Blister Package of 100 | 0003-0893-31 |
 | 5 mg | Pink, oval, biconvex | Debossed with “894” on | Bottles of 60 | 0003-0894-21 |
-|  |  | one side and “5” on the | Bottles of 180 | 0003-0894-41 |
+|  |  | one side and “5” on the | Bottles of 74 | 0003-0894-70 |
 |  |  | other side | Hospital Unit-Dose Blister Package of 100 | 0003-0894-31 |
 
 ### Storage and Handling
