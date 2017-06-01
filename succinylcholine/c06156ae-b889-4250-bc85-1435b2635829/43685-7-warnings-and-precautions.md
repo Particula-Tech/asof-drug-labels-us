@@ -55,7 +55,7 @@ Tachyphylaxis was not associated with the transition to Phase II block, and 50% 
 
 When Phase II block is suspected in cases of prolonged neuromuscular blockade, positive diagnosis should be made by peripheral nerve stimulation, prior to administration of any anticholinesterase drug.
 Reversal of Phase II block is a medical decision which must be made upon the basis of the individual, clinical pharmacology and the experience and judgment of the physician.
-The presence of Phase II block is indicated by fade of responses to successive stimuli (preferably “train of four”).
+The presence of Phase II block is indicated by fade of responses to successive stimuli (preferably "train of four").
 The use of an anticholinesterase drug to reverse Phase II block should be accompanied by appropriate doses of an anticholinergic drug to prevent disturbances of cardiac rhythm.
 After adequate reversal of Phase II block with an anticholinesterase agent, the patient should be continually observed for at least 1 hour for signs of return of muscle relaxation.
 Reversal should not be attempted unless: (1) a peripheral nerve stimulator is used to determine the presence of Phase II block (since anticholinesterase agents will potentiate succinylcholine-induced Phase I block), and (2) spontaneous recovery of muscle twitch has been observed for at least 20 minutes and has reached a plateau with further recovery proceeding slowly; this delay is to ensure complete hydrolysis of succinylcholine by plasma cholinesterase prior to administration of the anticholinesterase agent.
@@ -107,7 +107,7 @@ Because many drugs are excreted in human milk, caution should be exercised follo
 
 Pediatric Use: Safety and effectiveness of succinylcholine chloride have been established in pediatric patient age groups, neonate to adolescent.
 There are rare reports of ventricular dysrhythmias and cardiac arrest secondary to acute rhabdomyolysis with hyperkalemia in apparently healthy pediatric patients who receive succinylcholine (see BOX WARNING).
-Many of these pediatric patients were subsequently found to have a skeletal muscle myopathy such as Duchenne’s muscular dystrophy whose clinical signs were not obvious.
+Many of these pediatric patients were subsequently found to have a skeletal muscle myopathy such as Duchenne's muscular dystrophy whose clinical signs were not obvious.
 The syndrome often presents as sudden cardiac arrest within minutes after the administration of succinylcholine.
 These pediatric patients are usually, but not exclusively, males, and most frequently 8 years of age or younger.
 There have also been reports in adolescents.
