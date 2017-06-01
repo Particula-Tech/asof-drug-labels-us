@@ -17,4 +17,5 @@ Clinical Laboratory and Standards Institute (CLSI).
 Performance Standards for Antimicrobial Susceptibility Testing: 21st Informational Supplement, CLSI document M100-S21.
 CLSI, 940 West Valley Road, Suite 1400, Wayne, PA, 19087, 2011.
 
-Manufactured for: AuroMedics Pharma LLC 6 Wheeling Road Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited IDA, Pashamylaram - 502307 India Revised: April 2016
+Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500038 India Revised: March 2017
