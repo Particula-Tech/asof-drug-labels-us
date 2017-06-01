@@ -12,7 +12,7 @@ JADENU is indicated for the treatment of chronic iron overload in patients 10 ye
 This indication is approved under accelerated approval based on a reduction of liver iron concentrations (to less than 5 mg Fe/g dw) and serum ferritin levels [see Clinical Studies (14)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
 
-## 1.3 Limitation of Use
+## 1.3 Limitations of Use
 
 Controlled clinical trials of JADENU with myelodysplastic syndromes (MDS) and chronic iron overload due to blood transfusions have not been performed [see Clinical Studies (14)].
 

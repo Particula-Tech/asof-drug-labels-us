@@ -15,7 +15,7 @@ The following adverse reactions are also discussed in other sections of the labe
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 JADENU was evaluated in healthy volunteer trials.
-Currently, there are no clinical data in patients with JADENU tablets.
+Currently, there are no clinical data in patients with JADENU tablets and JADENU Sprinkle granules.
 JADENU contains the same active ingredient as Exjade (deferasirox) tablets for oral suspension.
 The following adverse reactions have been reported with Exjade tablets for oral suspension.
 
@@ -29,7 +29,7 @@ Median treatment duration among the sickle cell patients was 51 weeks.
 Of the 700 patients treated, 469 (403 beta-thalassemia and 66 rare anemias) were entered into extensions of the original clinical protocols.
 In ongoing extension studies, median durations of treatment were 88 to 205 weeks.
 
-Six hundred twenty-seven (627) patients with MDS were enrolled across 5 uncontrolled trials.
+Six hundred twenty-seven patients with MDS were enrolled across 5 uncontrolled trials.
 These studies varied in duration from 1 to 5 years.
 The discontinuation rate across studies in the first year was 46% (AEs 20%, withdrawal of consent 10%, death 8%, other 4%, lab abnormalities 3%, and lack of efficacy 1%).
 Among 47 patients enrolled in the study of 5-year duration, 10 remained on deferasirox at the completion of the study.
@@ -39,7 +39,7 @@ Abdominal pain, nausea, vomiting, diarrhea, skin rashes, and increases in serum 
 Gastrointestinal symptoms, increases in serum creatinine, and skin rash were dose related.
 
 Table 1.
-Adverse Reactions* Occurring in Greater Than 5% of Deferasirox-treated Patients in Study 1, Study 3, and MDS Pool
+Adverse Reactions* Occurring in >5% of Deferasirox-treated Patients in Study 1, Study 3, and MDS Pool
 
 |  | Study 1 (Beta-thalassemia) |  | Study 3 (Sickle Cell Disease) |  | MDS Pool |
 | --- | --- | --- | --- | --- | --- |
@@ -91,7 +91,7 @@ Table 3 displays adverse reactions occurring in greater than 5% in any group.
 The most frequent adverse reactions with a suspected relationship to study drug were nausea, rash, and diarrhea.
 
 Table 3.
-Adverse Reactions Occurring in Greater Than 5% in NTDT Patients
+Adverse Reactions Occurring in >5% in NTDT Patients
 
 |  | Study 4 |  | Study 5 |
 | --- | --- | --- | --- |
@@ -132,7 +132,7 @@ Adverse reactions which most frequently led to dose interruption or dose adjustm
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been spontaneously reported during postapproval use of deferasirox in the transfusional iron overload setting.
+The following adverse reactions have been spontaneously reported during post-approval use of deferasirox in the transfusional iron overload setting.
 Because these reactions are reported voluntarily from a population of uncertain size, in which patients may have received concomitant medication, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure.
 
 Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome (SJS), leukocytoclastic vasculitis, urticaria, alopecia, toxic epidermal necrolysis (TEN)

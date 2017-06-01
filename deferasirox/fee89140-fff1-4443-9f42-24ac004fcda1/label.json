@@ -1,15 +1,27 @@
 {
   "application_numbers": [
-    "NDA206910"
+    "NDA206910",
+    "NDA207968"
   ],
   "inn": "deferasirox",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0078-0654-15",
     "0078-0655-15",
-    "0078-0656-15"
+    "0078-0656-15",
+    "0078-0713-15",
+    "0078-0713-19",
+    "0078-0720-15",
+    "0078-0720-19",
+    "0078-0727-15",
+    "0078-0727-19"
   ],
   "products": [
+    {
+      "form": "GRANULE",
+      "generic": "deferasirox",
+      "name": "Jadenu"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "deferasirox",

@@ -2,7 +2,7 @@
 
 JADENU is contraindicated in patients with:
 
-- Serum creatinine greater than 2 times the age-appropriate ULN or ClCr less than 40 mL/min [see Warnings and Precautions (5.1)];
+- Serum creatinine greater than two times the age-appropriate upper limit of normal or creatinine clearance less than 40 mL/min [see Warnings and Precautions (5.1)];
 - Poor performance status;
 - High-risk myelodysplastic syndromes;
 - Advanced malignancies;

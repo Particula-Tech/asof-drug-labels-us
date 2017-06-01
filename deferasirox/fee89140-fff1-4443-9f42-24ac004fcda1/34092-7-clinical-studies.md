@@ -2,8 +2,8 @@
 
 JADENU was evaluated in healthy subjects.
 There are no clinical data in patients with JADENU.
-JADENU contains the same active ingredient as EXJADE® (deferasirox) tablets for oral suspension.
-The following information is based on clinical trials conducted with EXJADE tablets for oral suspension.
+JADENU contains the same active ingredient as Exjade (deferasirox) tablets for oral suspension.
+The following information is based on clinical trials conducted with Exjade tablets for oral suspension.
 
 Transfusional Iron Overload
 
@@ -44,8 +44,8 @@ One-hundred five (105) patients with thalassemia major and cardiac iron overload
 Cardiac T2* values at baseline ranged from 5 to less than 20 ms. The geometric mean of cardiac T2* in the 68 patients who completed 3 years of deferasirox tablets for oral suspension therapy increased from 11.98 ms at baseline to 17.12 ms at 3 years.
 Cardiac T2* values improved in patients with severe cardiac iron overload (less than 10 ms) and in those with mild to moderate cardiac iron overload (greater than or equal to 10 to less than 20 ms). The clinical significance of these observations is unknown.
 
-Six hundred twenty-seven (627) patients with MDS were enrolled across 5 uncontrolled trials.
-Two hundred thirty-nine (239) of the 627 patients were enrolled in trials that limited enrollment to patients with IPSS Low or Intermediate 1 risk MDS and the remaining 388 patients were enrolled in trials that did not specify MDS risk stratification but required a life expectancy of greater than 1 year.
+Six hundred twenty-seven patients with MDS were enrolled across 5 uncontrolled trials.
+Two hundred thirty-nine of the 627 patients were enrolled in trials that limited enrollment to patients with IPSS Low or Intermediate 1 risk MDS and the remaining 388 patients were enrolled in trials that did not specify MDS risk stratification but required a life expectancy of greater than 1 year.
 Planned duration of treatment in these trials ranged from 1 year (365 patients) to 5 years (47 patients).
 These trials evaluated the effects of deferasirox tablets for oral suspension therapy on parameters of iron overload, including LIC (125 patients) and serum ferritin (627 patients).
 Percent of patients completing planned duration of treatment was 51% in the largest 1 year study, 52% in the 3-year study and 22% in the 5 year study.
@@ -68,12 +68,12 @@ There were 17 pediatric patients in the study.
 Caucasians comprised 57% of the study population and Asians comprised 42%.
 The median baseline LIC (range) for all patients was 12.1 (2.6 to 49.1) mg Fe/g dw.
 Follow-up was for 1 year.
-The primary efficacy endpoint of change in LIC from baseline to Week 52 was statistically significant in favor of both deferasirox dose groups compared with placebo (p ≤0.001) (Table 5).
+The primary efficacy endpoint of change in LIC from baseline to Week 52 was statistically significant in favor of both deferasirox dose groups compared with placebo (p less than or equal to 0.001) (Table 5).
 Furthermore, a statistically significant dose effect of deferasirox was observed in favor of the 10 mg/kg/day dose group (10 versus 5 mg/kg/day, p=0.009).
 In a descriptive analysis, the target LIC (less than 5 mg Fe/g dw) was reached by 15 (27%) of 55 patients in the 10 mg/kg/day arm, 8 (15%) of 55 patients in the 5 mg/kg/day arm and 2 (4%) of 56 patients in the combined placebo groups.
 
 Table 5.
-Absolute Change in LIC at Week 52 In NTDT Patients
+Absolute Change in LIC at Week 52 in NTDT Patients
 
 |  |  | Deferasirox tablets for oral suspension Starting Dose1 |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -96,7 +96,7 @@ Patients could continue on 5 mg/kg/day if they had previously exhibited at least
 Doses could be increased to a maximum of 20 mg/kg/day after 6 months if the LIC was more than 7 mg Fe/g dw and the LIC reduction from baseline was less than 15%.
 The primary efficacy endpoint in Study 5 was the proportion of patients achieving an LIC less than 5 mg Fe/g dw.
 A total of 133 patients were enrolled.
-Twenty (20) patients began Study 5 with an LIC less than 5 mg Fe/g dw.
+Twenty patients began Study 5 with an LIC less than 5 mg Fe/g dw.
 Of the 113 patients with a baseline LIC of at least 5 mg Fe/g dw in Study 5, the target LIC (less than 5 mg Fe/g dw) was reached by 39 (35%).
 The responders included 4 (10%) of 39 patients treated at 20 mg/kg/day for a baseline LIC exceeding 15 mg Fe/g dw, and 31 (51%) of 61 patients treated at 10 mg/kg/day for a baseline LIC between 5 and 15 mg Fe/g dw.
 The absolute change in LIC at Week 52 by starting dose is shown in Table 5.

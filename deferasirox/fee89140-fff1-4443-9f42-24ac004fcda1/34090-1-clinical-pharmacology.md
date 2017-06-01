@@ -23,17 +23,27 @@ Absorption
 
 Based on studies in patients with the tablet for oral suspension, deferasirox is absorbed following oral administration with median times to maximum plasma concentration (tmax) of about 1.5 to 4 hours.
 In healthy subjects, JADENU showed comparable tmax.
-The Cmax and AUC of deferasirox increase approximately linearly with dose after both single administration and under steady-state conditions.
+The maximal concentrations (Cmax) and area under the curve (AUC0-24h, AUCτ) of deferasirox increase approximately linearly with dose after both single administration and under steady-state conditions.
 Exposure to deferasirox increased by an accumulation factor of 1.3 to 2.3 after multiple doses with the tablet for oral suspension formulation.
 
-The absolute bioavailability (AUC) of deferasirox tablets for oral suspension is 70% compared to an intravenous dose.
-The bioavailability (AUC) of JADENU was 36% greater than with deferasirox tablets for oral suspension.
-After strength-adjustment, JADENU (i.e., 360 mg strength) was equivalent to deferasirox tablets for oral suspension (i.e., 500 mg strength) with respect to the mean AUC under fasting conditions, however the mean Cmax was increased by 30%.
-The exposure-response analysis for safety indicated that 30% increase in JADENU Cmax is not clinically meaningful.
+Tablets
 
-A food-effect study involving administration of JADENU to healthy subjects under fasting conditions and with a low-fat (fat content less than 7% of total calories) or high-fat (fat content greater than 50% of total calories) meal indicated that the AUC and Cmax were slightly decreased after a low-fat meal (by 11% and 16%, respectively).
-After a high-fat meal, AUC and Cmax were increased by 18% and 29%, respectively.
-The increases in Cmax due to the change in formulation and due to the effect of a high-fat meal may be additive and therefore, it is recommended that JADENU should be taken on an empty stomach or with a light meal (contains less than 7% fat content and approximately 250 calories) [see Dosage and Administration (2.3)].
+The absolute bioavailability [as measured by area under the curve over time to infinity (AUCinf)] of deferasirox tablets for oral suspension is 70% compared to an intravenous dose.
+The bioavailability (as measured by AUCinf) of JADENU tablets was 36% greater than with deferasirox tablets for oral suspension.
+After strength-adjustment, the mean AUCinf of JADENU tablets (i.e., 360 mg strength) was similar to that of deferasirox tablets for oral suspension (i.e., 500 mg strength) under fasting conditions; however the mean Cmax was increased by 30%.
+The 30% increase in Cmax observed with JADENU tablets is not clinically meaningful.
+
+The administration of JADENU tablets with a light meal (approximately 250 calories with fat content less than 7% of total calories) indicated that the AUCinf and Cmax were similar to that under fasting conditions.
+The administration of JADENU tablets with a high-fat meal (approximately 1000 calories with fat content greater than 50% of total calories), increased AUCinf by 18% and Cmax by 29% compared to that under fasting conditions [see Dosage and Administration (2.3)].
+
+Granules
+
+The bioavailability (as measured by AUCinf) of JADENU Sprinkle granules was 52% greater than with deferasirox tablets for oral suspension.
+After strength-adjustment, the mean AUCinf of the JADENU Sprinkle granules (i.e., 4 x 90 mg strength) was similar to that of deferasirox tablets for oral suspension (i.e., 500 mg strength) under fasting conditions; however, the mean Cmax was increased by 34%.
+The 34% increase in Cmax observed with JADENU Sprinkle granules is not clinically meaningful.
+
+The administration of JADENU Sprinkle granules with a soft meal (e.g., yogurt and apple sauce) or with a low-fat (approximately 450 calories with fat content approximately 30% of total calories) indicated that the AUCinf and Cmax after a low-fat meal or soft foods were similar to that under fasting conditions.
+The administration of JADENU Sprinkle granules with a high-fat meal (approximately 1000 calories with fat content greater than 50% of total calories) increased AUCinf by 18% with no changes in Cmax compared to that under fasting conditions [see Dosage and Administration (2.3)].
 
 Distribution
 
@@ -47,42 +57,43 @@ Glucuronidation is the main metabolic pathway for deferasirox, with subsequent b
 Deconjugation of glucuronidates in the intestine and subsequent reabsorption (enterohepatic recycling) is likely to occur.
 Deferasirox is mainly glucuronidated by UGT1A1 and to a lesser extent UGT1A3.
 CYP450-catalyzed (oxidative) metabolism of deferasirox appears to be minor in humans (about 8%).
-Deconjugation of glucuronide metabolites in the intestine and subsequent reabsorption (enterohepatic recycling) was confirmed in a healthy subjects study in which the administration of cholestyramine 12 g twice daily (strongly binds to deferasirox and its conjugates) 4 and 10 hours after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUC) by interfering with the enterohepatic recycling of deferasirox.
+Deconjugation of glucuronide metabolites in the intestine and subsequent reabsorption (enterohepatic recycling) was confirmed in a healthy subjects study in which the administration of cholestyramine 12 g twice daily (strongly binds to deferasirox and its conjugates) 4 and 10 hours after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUCinf) by interfering with the enterohepatic recycling of deferasirox.
 
 Excretion
 
 Deferasirox and metabolites are primarily (84% of the dose) excreted in the feces.
-Renal excretion of deferasirox and metabolites is minimal (8% of the administered dose).
+Renal excretion of deferasirox and metabolites is minimal (8% of the dose).
 The mean elimination half-life (t1/2) ranged from 8 to 16 hours following oral administration.
 
 Drug Interactions
 
-Midazolam: In healthy subjects, the concomitant administration of deferasirox tablets for oral suspension and midazolam (a CYP3A4 probe substrate) resulted in a decrease of midazolam peak concentration by 23% and exposure by 17%.
-In the clinical setting, this effect may be more pronounced.
-The study was not adequately designed to conclusively assess the potential induction of CYP3A4 by deferasirox [see Drug Interactions (7.2)].
+Midazolam: The concomitant administration of deferasirox tablets for oral suspension and CYP3A4 probe substrate midazolam resulted in a decrease of midazolam Cmax by 23% and AUCinf by 17%.
+In the clinical setting, this effect may be more pronounced, as the study was not adequately designed to conclusively assess the potential induction of CYP3A4 by deferasirox [see Drug Interactions (7.2)].
 
-Repaglinide: In a healthy volunteer study, the concomitant administration of deferasirox tablets for oral suspension (30 mg per kg/day for 4 days) and the CYP2C8 probe substrate repaglinide (single dose of 0.5 mg) resulted in an increase in repaglinide systemic exposure (AUC) to 2.3-fold of control and an increase in Cmax of 62% [see Drug Interactions (7.3)].
+Repaglinide: The concomitant administration of deferasirox tablets for oral suspension (30 mg per kg/day for 4 days) and the CYP2C8 probe substrate repaglinide (single dose of 0.5 mg) increased repaglinide AUCinf to 2.3-fold and Cmax of 1.6-fold [see Drug Interactions (7.3)].
 
-Theophylline: In a healthy volunteer study, the concomitant administration of deferasirox tablets for oral suspension (repeated dose of 30 mg per kg/day) and the CYP1A2 substrate theophylline (single dose of 120 mg) resulted in an approximate doubling of the theophylline AUC and elimination half-life.
+Theophylline: The concomitant administration of deferasirox tablets for oral suspension (repeated dose of 30 mg per kg/day) and the CYP1A2 substrate theophylline (single dose of 120 mg) resulted in an approximate doubling of the theophylline AUCinf and elimination half-life.
 The single dose Cmax was not affected, but an increase in theophylline Cmax is expected to occur with chronic dosing [see Drug Interactions (7.4)].
 
-Rifampicin: In a healthy volunteer study, the concomitant administration of deferasirox tablets for oral suspension (single dose of 30 mg per kg) and the potent UDP-glucuronosyltransferase (UGT) inducer rifampicin (600 mg/day for 9 days) resulted in a decrease of deferasirox systemic exposure (AUC) by 44% [see Drug Interactions (7.5)].
+Rifampicin: The concomitant administration of deferasirox tablets for oral suspension (single dose of 30 mg per kg) and the strong uridine diphosphate glucuronosyltransferase (UGT) inducer rifampicin (600 mg per day for 9 days) decreased deferasirox AUCinf by 44% [see Drug Interactions (7.5)].
 
-Cholestyramine: The concomitant use of deferasirox with bile acid sequestrants may result in a decrease in deferasirox efficacy.
-In healthy subjects, the administration of cholestyramine after a single dose of deferasirox tablets for oral suspension resulted in a 45% decrease in deferasirox exposure (AUC) [see Drug Interactions (7.6)].
+Cholestyramine: The concomitant administration of cholestyramine after a single dose of deferasirox tablets for oral suspension decreased deferasirox AUCinf by 45% [see Drug Interactions (7.6)].
 
 In vitro studies:
 
-- Cytochrome P450 Enzymes: Deferasirox inhibits human CYP3A4, CYP2C8, CYP1A2, CYP2A6, CYP2D6, and CYP2C19 in vitro.
-- Transporter Systems: The addition of cyclosporin A (PgP/MRP1/MRP2 inhibitor) or verapamil (PgP/MRP1 inhibitor) did not influence ICL670 permeability in vitro.
+Deferasirox inhibited human CYP2A6, CYP2D6, and CYP2C19 in vitro.
+
+Deferasirox is not a substrate of P-glycoprotein, MRP1 or MRP2.
 
 Pharmacokinetics in Specific Populations
 
 Pediatric: Following oral administration of single or multiple doses, systemic exposure of adolescents and children to deferasirox was less than in adult patients.
 In children less than 6 years of age, systemic exposure was about 50% lower than in adults.
 
-Geriatric: The pharmacokinetics of deferasirox have not been studied in elderly patients (65 years of age or older).
+Sex: The apparent clearance is 17.5% lower in females compared to males.
 
-Gender: Females have a moderately lower apparent clearance (by 17.5%) for deferasirox compared to males.
+Renal Impairment: Compared to patients with MDS and CLcr greater than 60 mL/min, patients with MDS and CLcr 40 to 60 mL/min (n=34) had approximately 50% higher mean deferasirox trough plasma concentrations.
 
-Renal Impairment: Compared to patients with MDS and ClCr greater than 60 mL/min, patients with MDS and ClCr 40 to 60 mL/min (n=34) had approximately 50% higher mean deferasirox trough plasma concentrations.
+Hepatic Impairment: In a single dose (20 mg/kg) study in patients with varying degrees of hepatic impairment, deferasirox exposure was increased compared to patients with normal hepatic function.
+The average total (free and bound) AUCinf of deferasirox increased 16% in 6 patients with mild (Child-Pugh A) hepatic impairment, and 76% in 6 patients with moderate (Child-Pugh B) hepatic impairment compared to 6 patients with normal hepatic function.
+The impact of severe (Child-Pugh C) hepatic impairment was assessed in only 1 patient.

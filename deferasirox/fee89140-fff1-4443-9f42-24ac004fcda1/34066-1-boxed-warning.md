@@ -3,7 +3,7 @@
 Renal Failure
 
 - JADENU can cause acute renal failure and death, particularly in patients with comorbidities and those who are in the advanced stages of their hematologic disorders.
-- Measure serum creatinine and determine creatinine clearance (ClCr) in duplicate prior to initiation of therapy and monitor renal function at least monthly thereafter.
+- Measure serum creatinine and determine creatinine clearance (CLcr) in duplicate prior to initiation of therapy and monitor renal function at least monthly thereafter.
   For patients with baseline renal impairment or increased risk of acute renal failure, monitor creatinine weekly for the first month, then at least monthly.
   Consider dose reduction, interruption, or discontinuation based on increases in serum creatinine [see Dosage and Administration (2.4, 2.5), Warnings and Precautions (5.1)].
 

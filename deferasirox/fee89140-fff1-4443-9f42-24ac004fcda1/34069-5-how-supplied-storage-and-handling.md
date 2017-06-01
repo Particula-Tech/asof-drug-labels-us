@@ -11,3 +11,18 @@ They are available in bottles of 30 tablets (NDC 0078-0656-15).
 
 Store JADENU tablets at 25°C (77°F); excursions are permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Protect from moisture.
+
+JADENU Sprinkle 90 mg granules are white to almost white granules in sachet.
+They are available in cartons of 30 sachets.
+(NDC 0078-0727-15).
+
+JADENU Sprinkle 180 mg granules are white to almost white granules in sachet.
+They are available in cartons of 30 sachets.
+(NDC 0078-0713-15).
+
+JADENU Sprinkle 360 mg granules are white to almost white granules in sachet.
+They are available in cartons of 30 sachets.
+(NDC 0078-0720-15).
+
+Store JADENU Sprinkle granules at 25°C (77°F); excursions are permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Protect from moisture.

@@ -7,12 +7,12 @@ Postmarketing experience showed that most fatalities occurred in patients with m
 In the clinical trials, deferasirox-treated patients experienced dose-dependent increases in serum creatinine.
 In patients with transfusional iron overload, these increases in creatinine occurred at a greater frequency compared to deferoxamine-treated patients (38% versus 14%, respectively, in Study 1 and 36% versus 22%, respectively, in Study 3) [see Adverse Reactions (6.1, 6.2)].
 
-Measure serum creatinine in duplicate (due to variations in measurements) and determine the ClCr (estimated by the Cockcroft-Gault method) before initiating therapy in all patients in order to establish a reliable pretreatment baseline.
+Measure serum creatinine in duplicate (due to variations in measurements) and determine the CLcr (estimated by the Cockcroft-Gault method) before initiating therapy in all patients in order to establish a reliable pretreatment baseline.
 Monitor serum creatinine weekly during the first month after initiation or modification of therapy and at least monthly thereafter.
-Monitor serum creatinine and/or ClCr more frequently if creatinine levels are increasing.
+Monitor serum creatinine and/or CLcr more frequently if creatinine levels are increasing.
 Dose reduction, interruption, or discontinuation based on increases in serum creatinine may be necessary [see Dosage and Administration (2.5)].
 
-JADENU is contraindicated in patients with ClCr less than 40 mL/minute or serum creatinine greater than 2 times the age appropriate ULN.
+JADENU is contraindicated in patients with CLcr less than 40 mL/minute or serum creatinine greater than 2 times the age appropriate ULN.
 
 Renal tubular damage, including Fanconi’s Syndrome, has been reported in patients treated with deferasirox, most commonly in children and adolescents with beta-thalassemia and serum ferritin levels less than 1500 mcg/L.
 

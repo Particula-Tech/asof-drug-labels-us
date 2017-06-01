@@ -3,7 +3,7 @@
 ## 7.1 Aluminum Containing Antacid Preparations
 
 The concomitant administration of JADENU and aluminum-containing antacid preparations has not been formally studied.
-Although deferasirox has a lower affinity for aluminum than for iron, avoid use of JADENU with aluminum-containing antacid preparations due to the mechanism of action of JADENU.
+Although deferasirox has a lower affinity for aluminum than for iron, avoid use of JADENU with aluminum-containing antacid preparations.
 
 ## 7.2 Agents Metabolized by CYP3A4
 
@@ -27,8 +27,8 @@ Closely monitor patients for signs of exposure related toxicity when JADENU is c
 ## 7.5 Agents Inducing UDP-glucuronosyltransferase (UGT) Metabolism
 
 Deferasirox is a substrate of UGT1A1 and to a lesser extent UGT1A3.
-The concomitant use of JADENU with potent UGT inducers (e.g., rifampicin, phenytoin, phenobarbital, ritonavir) may result in a decrease in JADENU efficacy due to a possible decrease in deferasirox concentration.
-Avoid the concomitant use of potent UGT inducers with JADENU.
+The concomitant use of JADENU with strong UGT inducers (e.g., rifampicin, phenytoin, phenobarbital, ritonavir) may result in a decrease in JADENU efficacy due to a possible decrease in deferasirox concentration.
+Avoid the concomitant use of strong UGT inducers with JADENU.
 Consider increasing the initial dose of JADENU if you must coadminister these agents together [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
 ## 7.6 Bile Acid Sequestrants
