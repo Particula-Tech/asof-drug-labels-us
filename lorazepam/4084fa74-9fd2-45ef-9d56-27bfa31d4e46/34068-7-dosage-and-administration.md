@@ -1,5 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
+NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS - Pediatric Use).
+
 Lorazepam must never be used without individualization of dosage particularly when used with other medications capable of producing central-nervous-system depression.
 
 EQUIPMENT NECESSARY TO MAINTAIN A PATENT AIRWAY SHOULD BE IMMEDIATELY AVAILABLE PRIOR TO INTRAVENOUS ADMINISTRATION OF LORAZEPAM (see WARNINGS).
