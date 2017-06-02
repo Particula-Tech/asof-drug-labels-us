@@ -66,7 +66,7 @@ During controlled clinical trials of metformin, maximum metformin plasma levels 
 
 Metabolism Intravenous single-dose studies in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) nor biliary excretion.
 
-Elimination Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicatesthat tubular secretion is the major route of metformin elimination.
+Elimination Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
 Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
 In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 

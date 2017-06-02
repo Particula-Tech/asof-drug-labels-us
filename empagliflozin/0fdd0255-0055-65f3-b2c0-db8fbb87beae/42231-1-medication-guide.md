@@ -1,4 +1,4 @@
-# Medguide
+MEDICATION GUIDE
 
 | MEDICATION GUIDE SYNJARDY® (sin-JAR-dee) (empagliflozin and metformin hydrochloride) Tablets |  |  |  |  |
 | --- | --- | --- | --- | --- |
