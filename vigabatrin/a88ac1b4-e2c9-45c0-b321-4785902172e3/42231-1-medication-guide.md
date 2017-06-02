@@ -1,5 +1,3 @@
-# ​
-
 MEDICATION GUIDE
 
 SABRIL®(SAY-bril) (vigabatrin) Tablets
@@ -63,10 +61,11 @@ Tell your healthcare provider right away if you think that your baby is:
 | All people who take SABRIL: You are at risk for permanent vision loss with any amount of SABRIL.Your risk of vision loss may be higher the more SABRIL you take daily and the longer you take it.It is not possible for your healthcare provider to know when vision loss will happen. It could happen soon after starting SABRIL or any time during treatment. It may even happen after treatment has stopped. |
 | --- |
 
-- Because SABRIL might cause permanent vision loss, it is available to healthcare providers and patients only under a special program called the SABRIL Risk Evaluation and Mitigation Strategy (REMS) Program.
+- Because SABRIL might cause permanent vision loss, it is available to healthcare providers and patients only under a special program called the Vigabatrin Risk Evaluation and Mitigation Strategy (REMS) Program.
   SABRIL can only be prescribed to people who are enrolled in this program.
-  As part of the SABRIL REMS Program, it is recommended that your healthcare provider test your (or your child’s) vision from time to time (periodically) while you (or your child) are being treated with SABRIL, and even after you (or your child) stop treatment.
-  Your healthcare provider will explain the details of the SABRIL REMS Program to you.
+  As part of the Vigabatrin REMS Program, it is recommended that your healthcare provider test your (or your child’s) vision from time to time (periodically) while you (or your child) are being treated with SABRIL, and even after you (or your child) stop treatment.
+  Your healthcare provider will explain the details of the Vigabatrin REMS Program to you.
+  For more information, go to www.vigabatrinREMS.com or call 1-866-244-8175.
 
 2.
 Magnetic resonance imaging (MRI) changes in babies with infantile spasms:
@@ -242,6 +241,7 @@ Keep SABRIL and all medicines out of the reach of children.
 General information about the safe and effective use of SABRIL.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+You can ask your pharmacist or healthcare provider for information about SABRIL that is written for health professionals.
 Do not use SABRIL for a condition for which it was not prescribed.
 Do not give SABRIL to other people, even if they have the same symptoms that you have.
 It may harm them.
@@ -256,6 +256,6 @@ Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
 
 SABRIL is a registered trademark of Lundbeck
 
-For more information, go to www.SABRIL.net or call 1-888-457-4273
+For more information, go to www.SABRIL.net or call 1-866-402-8520.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 06/2016
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 04/2017

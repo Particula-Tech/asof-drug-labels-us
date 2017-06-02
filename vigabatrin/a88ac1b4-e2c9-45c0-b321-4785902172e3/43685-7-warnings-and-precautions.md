@@ -49,17 +49,17 @@ It is expected that even with frequent monitoring, some SABRIL patients will dev
 Consider drug discontinuation, balancing benefit and risk, if vision loss is documented.
 It is possible that vision loss can worsen despite discontinuation of SABRIL.
 
-## 5.2 SABRIL REMS Program
+## 5.2 Vigabatrin REMS Program
 
-SABRIL is available only through a restricted distribution program called the SABRIL REMS Program, because of the risk of permanent vision loss.
+SABRIL is available only through a restricted distribution program called the Vigabatrin REMS Program, because of the risk of permanent vision loss.
 
-Notable requirements of the SABRIL REMS Program include the following:
+Notable requirements of the Vigabatrin REMS Program include the following:
 
 - Prescribers must be certified by enrolling in the program, agreeing to counsel patients on the risk of vision loss and the need for periodic monitoring of vision, and reporting any event suggestive of vision loss to Lundbeck.
 - Patients must enroll in the program.
 - Pharmacies must be certified and must only dispense to patients authorized to receive SABRIL.
 
-Further information is available at www.SabrilREMS.com, or call 1-888-457-4273.
+Further information is available at www.vigabatrinREMS.com, or call 1-866-244-8175.
 
 ## 5.3 Magnetic Resonance Imaging (MRI) Abnormalities in Infants
 
