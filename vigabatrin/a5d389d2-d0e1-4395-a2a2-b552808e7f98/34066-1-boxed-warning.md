@@ -18,5 +18,5 @@
 - SABRIL should not be used with other drugs associated with serious adverse ophthalmic effects such as retinopathy or glaucoma unless the benefits clearly outweigh the risks.
 - Use the lowest dosage and shortest exposure to SABRIL consistent with clinical objectives [see Dosage and Administration (2.1)].
 
-Because of the risk of permanent vision loss, SABRIL is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the SABRIL REMS Program [see Warnings and Precautions (5.2)].
-Further information is available at www.SabrilREMS.com or 1-888-457-4273.
+Because of the risk of permanent vision loss, SABRIL is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the Vigabatrin REMS Program [see Warnings and Precautions (5.2)].
+Further information is available at www.vigabatrinREMS.com or 1-866-244-8175.

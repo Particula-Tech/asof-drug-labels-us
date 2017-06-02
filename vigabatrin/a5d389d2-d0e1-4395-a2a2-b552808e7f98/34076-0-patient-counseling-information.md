@@ -18,11 +18,11 @@ Ensure that both of these points are understood by patients and caregivers.
 
 Patients and caregivers should be informed that if changes in vision are suspected, they should notify their physician immediately.
 
-SABRIL REMS Program SABRIL is available only through a restricted program called SABRIL REMS Program [see Warnings and Precautions (5.2)].
+Vigabatrin REMS Program SABRIL is available only through a restricted program called the Vigabatrin REMS Program [see Warnings and Precautions (5.2)].
 Inform patients/caregivers of the following:
 
 - Patients must be enrolled in the program.
-- SABRIL is only available through pharmacies that are enrolled in the SHARE REMS Program.
+- SABRIL is only available through pharmacies that are enrolled in the Vigabatrin REMS Program.
 
 MRI Abnormalities in Infants Inform caregiver(s) of the possibility that infants may develop an abnormal MRI signal of unknown clinical significance [see Warnings and Precautions (5.3)].
 

@@ -40,14 +40,13 @@ Tell your healthcare provider right away if you (or your child):
 - If you drive and your vision is damaged by SABRIL, driving might be more dangerous, or you may not be able to drive safely at all.
   Talk about this with your healthcare provider.
 - Vision loss in babies: Because of the risk of vision loss, SABRIL is used in babies 1 month to 2 years of age with infantile spasms (IS) only when you and your healthcare provider decide that the possible benefits of SABRIL are more important than the risks.
-
-- Parents or caregivers are not likely to recognize the symptoms of vision loss in babies until it is severe.
-  Healthcare providers may not find vision loss in babies until it is severe.
-- It is difficult to test vision in babies, but, to the extent possible, all babies should have their vision tested before starting SABRIL or within 4 weeks after starting SABRIL, and every 3 months after that until SABRIL is stopped.
-  Your baby should also have a vision test about 3 to 6 months after SABRIL is stopped.
-- Your baby may not be able to be tested.
-  Your healthcare provider will determine if your baby can be tested.
-  If your baby cannot be tested, your healthcare provider may continue prescribing SABRIL, but your healthcare provider will not be able to watch for any vision loss.
+  - Parents or caregivers are not likely to recognize the symptoms of vision loss in babies until it is severe.
+    Healthcare providers may not find vision loss in babies until it is severe.
+  - It is difficult to test vision in babies, but, to the extent possible, all babies should have their vision tested before starting SABRIL or within 4 weeks after starting SABRIL, and every 3 months after that until SABRIL is stopped.
+    Your baby should also have a vision test about 3 to 6 months after SABRIL is stopped.
+  - Your baby may not be able to be tested.
+    Your healthcare provider will determine if your baby can be tested.
+    If your baby cannot be tested, your healthcare provider may continue prescribing SABRIL, but your healthcare provider will not be able to watch for any vision loss.
 
 Tell your healthcare provider right away if you think that your baby is:
 
@@ -60,10 +59,11 @@ Tell your healthcare provider right away if you think that your baby is:
 | All people who take SABRIL: You are at risk for permanent vision loss with any amount of SABRIL.Your risk of vision loss may be higher the more SABRIL you take daily and the longer you take it.It is not possible for your healthcare provider to know when vision loss will happen. It could happen soon after starting SABRIL or any time during treatment. It may even happen after treatment has stopped. |
 | --- |
 
-- Because SABRIL might cause permanent vision loss, it is available to healthcare providers and patients only under a special program called the SABRIL Risk Evaluation and Mitigation Strategy (REMS) program.
+- Because SABRIL might cause permanent vision loss, it is available to healthcare providers and patients only under a special program called the Vigabatrin Risk Evaluation and Mitigation Strategy (REMS) program.
   SABRIL can only be prescribed to people who are enrolled in this program.
-  As part of the SABRIL REMS Program, it is recommended that your healthcare provider test you (or your child’s) vision from time to time (periodically) while you (or your child) are being treated with SABRIL, and even after you (or your child) stop treatment.
-  Your healthcare provider will explain the details of the SABRIL REMS program to you.
+  As part of the Vigabatrin REMS Program, it is recommended that your healthcare provider test you (or your child’s) vision from time to time (periodically) while you (or your child) are being treated with SABRIL, and even after you (or your child) stop treatment.
+  Your healthcare provider will explain the details of the Vigabatrin REMS program to you.
+  For more information, go to www.vigabatrinREMS.com or call 1-866-244-8175.
 
 2.
 Magnetic resonance imaging (MRI) changes in babies with infantile spasms:
@@ -240,6 +240,7 @@ Keep SABRIL and all medicines out of the reach of children.
 General information about the safe and effective use of SABRIL.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+You can ask your pharmacist or healthcare provider for information about SABRIL that is written for health professionals.
 Do not use SABRIL for a condition for which it was not prescribed.
 Do not give SABRIL to other people, even if they have the same symptoms that you have.
 It may harm them.
@@ -252,7 +253,7 @@ Active Ingredient: vigabatrin Inactive Ingredients:
 
 Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A. SABRIL is a registered trademark of Lundbeck
 
-For more information, go to www.SABRIL.net or call 1-888-457-4273.
+For more information, go to www.SABRIL.net or call 1-866-402-8520.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: 06/2016
+Revised: 04/2017
