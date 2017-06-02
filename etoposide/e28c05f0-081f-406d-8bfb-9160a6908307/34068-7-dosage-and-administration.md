@@ -9,7 +9,9 @@ The recommended dose of ETOPOPHOS is:
 
 ## 2.2 Small Cell Lung Cancer
 
-The recommended dose of ETOPOPHOS is 35 mg/m2 per day administered intravenously over 5 minutes to 3.5 hours for 4 days or 50 mg/m2 per day administered for 5 days.
+The recommended dose of ETOPOPHOS is:
+
+• 35 mg/m2 per day administered intravenously over 5 minutes to 3.5 hours for 4 days, or • 50 mg/m2 per day administered intravenously over 5 minutes to 3.5 hours for 5 days.
 
 ## 2.3 Dosage Modification
 
