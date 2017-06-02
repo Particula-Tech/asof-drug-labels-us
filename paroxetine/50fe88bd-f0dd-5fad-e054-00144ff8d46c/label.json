@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021299"
+  ],
+  "inn": "paroxetine",
+  "labeler": "Sebela Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "54766-201-01",
+    "54766-202-01",
+    "54766-203-01",
+    "54766-204-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "paroxetine mesylate",
+      "name": "PEXEVA"
+    }
+  ],
+  "setid": "50fe88bd-f0dd-5fad-e054-00144ff8d46c",
+  "source": "dailymed"
+}
