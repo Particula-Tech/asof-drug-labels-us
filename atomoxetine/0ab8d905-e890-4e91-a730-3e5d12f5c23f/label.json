@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA079019"
+  ],
+  "inn": "atomoxetine",
+  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "package_ndcs": [
+    "68462-265-23",
+    "68462-265-30",
+    "68462-266-23",
+    "68462-266-30",
+    "68462-267-23",
+    "68462-267-30",
+    "68462-268-23",
+    "68462-268-30",
+    "68462-269-23",
+    "68462-269-30",
+    "68462-270-23",
+    "68462-270-30",
+    "68462-271-30",
+    "68462-271-51"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "atomoxetine",
+      "name": "atomoxetine"
+    }
+  ],
+  "setid": "0ab8d905-e890-4e91-a730-3e5d12f5c23f",
+  "source": "dailymed"
+}
