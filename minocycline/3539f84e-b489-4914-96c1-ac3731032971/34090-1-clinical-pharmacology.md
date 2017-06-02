@@ -18,7 +18,7 @@ The tetracyclines are primarily bacteriostatic and are thought to exert their an
 The tetracyclines, including minocycline, have a similar antimicrobial spectrum of activity against a wide range of gram-positive and gram-negative organisms.
 Cross-resistance of these organisms to tetracycline is common.
 
-List of Microorganisms
+Antimicrobial Activity
 
 Minocycline has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
 
@@ -98,7 +98,7 @@ Ureaplasma urealyticum
 
 Susceptibility Test Methods
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drugs used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug for treatment.
 
 Dilution techniques:
@@ -112,7 +112,7 @@ Diffusion techniques:
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized method.2,3This procedure uses paper disks impregnated with 30 mcg tetracycline (class disk) or 30 mcg minocycline to test the susceptibility of microorganisms to minocycline.
+The zone size should be determined using a standardized method.2,3This procedure uses paper disks impregnated with 30 µg tetracycline (class disk) or 30 µg minocycline to test the susceptibility of microorganisms to minocycline.
 The disk diffusion interpretive criteria are provided in Table 1.
 
 Table 1: Susceptibility Test Interpretive Criteria for Minocycline and Tetracycline
@@ -134,11 +134,11 @@ Table 1: Susceptibility Test Interpretive Criteria for Minocycline and Tetracycl
 | a Organisms that are susceptible to tetracycline are also considered susceptible to minocycline. However, some organisms that are intermediate or resistant to tetracycline may be susceptible to minocycline. |  |  |  |  |  |  |  |  |  |
 | b The current absence of resistance isolates precludes defining any result other than “susceptible”. If isolates yielding MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. |  |  |  |  |  |  |  |  |  |
 
-A report of "Susceptible" indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "Resistant" indicates that the antimicrobial drug is not likely to inhibit growth of the microorganism, if the antimicrobial drug-reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the microorganism, if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 Quality Control
 

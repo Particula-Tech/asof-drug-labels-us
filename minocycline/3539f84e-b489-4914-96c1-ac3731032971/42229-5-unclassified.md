@@ -94,6 +94,7 @@ Stop minocycline hydrochloride tablets, USP and call your doctor if you have:
 - rash
 - joint pain
 - feeling very tired
+- swollen lymph nodes
 
 Minocycline hydrochloride tablets, USP may also cause:
 
@@ -150,4 +151,4 @@ Manufactured for
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8055928 Revised July 2015
+8064300 Revised May 2017
