@@ -107,7 +107,7 @@ Because many drugs are excreted in human milk, caution should be exercised follo
 
 Pediatric Use: Safety and effectiveness of succinylcholine chloride have been established in pediatric patient age groups, neonate to adolescent.
 There are rare reports of ventricular dysrhythmias and cardiac arrest secondary to acute rhabdomyolysis with hyperkalemia in apparently healthy pediatric patients who receive succinylcholine (see BOX WARNING).
-Many of these pediatric patients were subsequently found to have a skeletal muscle myopathy such as Duchenne’s muscular dystrophy whose clinical signs were not obvious.
+Many of these pediatric patients were subsequently found to have a skeletal muscle myopathy such as Duchenne's muscular dystrophy whose clinical signs were not obvious.
 The syndrome often presents as sudden cardiac arrest within minutes after the administration of succinylcholine.
 These pediatric patients are usually, but not exclusively, males, and most frequently 8 years of age or younger.
 There have also been reports in adolescents.
