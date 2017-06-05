@@ -1,6 +1,6 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Midazolam is subject to Schedule IV control under the Controlled Substances Act of 1970.
+Midazolam Injection contains midazolam a Schedule IV substance.
 
 Midazolam was actively self-administered in primate models used to assess the positive reinforcing effects of psychoactive drugs.
 

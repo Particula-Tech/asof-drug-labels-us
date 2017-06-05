@@ -1,9 +1,13 @@
 # OVERDOSAGE
 
+## Symptoms
+
 The manifestations of midazolam overdosage reported are similar to those observed with other benzodiazepines, including sedation, somnolence, confusion, impaired coordination, diminished reflexes, coma and untoward effects on vital signs.
 No evidence of specific organ toxicity from midazolam overdosage has been reported.
 
-Treatment of Overdosage: Treatment of injectable midazolam overdosage is the same as that followed for overdosage with other benzodiazepines.
+## Treatment
+
+Treatment of injectable midazolam overdosage is the same as that followed for overdosage with other benzodiazepines.
 Respiration, pulse rate and blood pressure should be monitored and general supportive measures should be employed.
 Attention should be given to the maintenance of a patent airway and support of ventilation, including administration of oxygen.
 An intravenous infusion should be started.
