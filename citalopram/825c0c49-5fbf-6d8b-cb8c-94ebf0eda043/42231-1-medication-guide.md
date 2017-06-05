@@ -1,6 +1,6 @@
-# MEDICATION GUIDE
+# Medication Guide
 
-CITALOPRAM TABLETS, USP (cye tal′ oh pram) 10 mg, 20 mg and 40 mg
+Citalopram Tablets, USP (sye tal′ oh pram)
 
 Read the Medication Guide that comes with citalopram tablets before you start taking them and each time you get a refill.
 There may be new information.
@@ -25,7 +25,7 @@ Citalopram tablets and other antidepressant medicines may cause serious side eff
    4. •thoughts about suicide or dying
    5. •new or worse depression
    6. •new or worse anxiety or panic attacks
-   7. •feeling agitated, restless, angry or irritable
+   7. •feeling agitated, restless, angry, or irritable
    8. •trouble sleeping
    9. •an increase in activity or talking more than what is normal for you
    10. •other unusual changes in behavior or mood
@@ -40,7 +40,7 @@ Citalopram tablets and other antidepressant medicines may cause serious side eff
    4. •dizziness or fainting
 6. 3.Serotonin Syndrome.
    This condition can be life-threatening and may include:
-   1. •agitation, hallucinations, coma or other changes in mental status
+   1. •agitation, hallucinations, coma, or other changes in mental status
    2. •coordination problems or muscle twitching (overactive reflexes)
    3. •racing heartbeat, high or low blood pressure
    4. •sweating or fever
@@ -48,7 +48,7 @@ Citalopram tablets and other antidepressant medicines may cause serious side eff
    6. •muscle rigidity
 7. 4.Severe allergic reactions:
    1. •trouble breathing
-   2. •swelling of the face, tongue, eyes or mouth
+   2. •swelling of the face, tongue, eyes, or mouth
    3. •rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 8. 5.Abnormal bleeding: Citalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 9. 6.Seizures or convulsions
@@ -78,7 +78,7 @@ Citalopram tablets and other antidepressant medicines may cause serious side eff
 Do not stop citalopram tablets without first talking to your healthcare provider.
 Stopping citalopram tablets too quickly may cause serious symptoms including:
 
-- •anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
+- •anxiety, irritability, high or low mood, feeling restless, or changes in sleep habits
 - •headache, sweating, nausea, dizziness
 - •electric shock-like sensations, shaking, confusion
 
@@ -91,7 +91,7 @@ Citalopram tablets are also used to treat:
 
 - •Major Depressive Disorder (MDD)
 
-Talk to your healthcare provider if you do not think that your condition is getting better with citalopram treatment.
+Talk to your healthcare provider if you do not think that your condition is getting better with citalopram tablet treatment.
 
 Who should not take citalopram tablets?
 
@@ -119,12 +119,12 @@ Ask if you are not sure.
 
 Before starting citalopram tablets, tell your healthcare provider if you:
 
-- •Are taking certain drugs such as:
+- •are taking certain drugs such as:
   - •medicines for heart problems
   - •medicines that lower your potassium or magnesium levels in your body
   - •cimetidine
   - •triptans used to treat migraine headache
-  - •medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, or antipsychotics
+  - •medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
   - •tramadol
   - •over-the-counter supplements such as tryptophan or St. John’s Wort
 - •have liver problems
@@ -212,7 +212,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store citalopram tablets?
 
 - •Store citalopram tablets at 20° to 25°C (68° to 77°F).
-- •Keep citalopram tablets bottle closed tightly.
+- •Keep the citalopram tablet bottle closed tightly.
 
 Keep citalopram tablets and all medicines out of the reach of children.
 
@@ -227,15 +227,17 @@ This Medication Guide summarizes the most important information about citalopram
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about citalopram tablets that is written for healthcare professionals.
 
-For more information about citalopram tablets call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
+For more information about citalopram tablets, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients in citalopram tablets?
 
-Active ingredient: citalopram hydrobromide, USP
+Active ingredient: citalopram hydrobromide
 
-Inactive ingredients: colloidal silicon dioxide, corn starch, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium lauryl sulfate, titanium dioxide and triacetin.
-The 10 mg and 20 mg tablets also contain FD&C Yellow No. 6 Aluminum Lake.
-The 20 mg tablets also contain FD&C Red No. 40 Aluminum Lake.
+Inactive ingredients:
+
+- •Tablets: colloidal silicon dioxide, corn starch, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium lauryl sulfate, titanium dioxide and triacetin.
+  The 10 mg and 20 mg tablets also contain FD&C Yellow No. 6 Aluminum Lake.
+  The 20 mg tablets also contain FD&C Red No. 40 Aluminum Lake.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -243,8 +245,8 @@ The brands listed are trademarks of their respective owners.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-75057532
+75060933
 
-REVISED OCTOBER 2015 MX:CTLP:R7mmh/MX:MG:CTLP:R3m/MX:MG:CTLP:R3mh
+Revised: 2/2017 MX:CTLP:R8mmh/MX:MG:CTLP:R4m/MX:MG:CTLP:R4mh

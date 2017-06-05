@@ -7,7 +7,7 @@ During the postmarketing evaluation of citalopram, citalopram overdoses, includi
 As with other SSRIs, a fatal outcome in a patient who has taken an overdose of citalopram has been rarely reported.
 
 Symptoms most often accompanying citalopram overdose, alone or in combination with other drugs and/or alcohol, included dizziness, sweating, nausea, vomiting, tremor, somnolence, and sinus tachycardia.
-In more rare cases, observed symptoms included amnesia, confusion, coma, convulsions, hyperventilation, cyanosis, rhabdomyolysis, and ECG changes (including QTc prolongation, nodal rhythm, ventricular arrhythmia, and very rare cases of torsades de pointes).
+In more rare cases, observed symptoms included amnesia, confusion, coma, convulsions, hyperventilation, cyanosis, rhabdomyolysis, and ECG changes (including QTc prolongation, nodal rhythm, ventricular arrhythmia, and very rare cases of Torsades de Pointes).
 Acute renal failure has been very rarely reported accompanying overdose.
 
 ## Management of Overdose
@@ -16,7 +16,7 @@ Establish and maintain an airway to ensure adequate ventilation and oxygenation.
 Gastric evacuation by lavage and use of activated charcoal should be considered.
 Careful observation and cardiac and vital sign monitoring are recommended, along with general symptomatic and supportive care.
 Due to the large volume of distribution of citalopram, forced diuresis, dialysis, hemoperfusion, and exchange transfusion are unlikely to be of benefit.
-There are no specific antidotes for citalopram.
+There are no specific antidotes for citalopram tablets.
 
 In managing overdosage, consider the possibility of multiple-drug involvement.
 The physician should consider contacting a poison control center for additional information on the treatment of any overdose.

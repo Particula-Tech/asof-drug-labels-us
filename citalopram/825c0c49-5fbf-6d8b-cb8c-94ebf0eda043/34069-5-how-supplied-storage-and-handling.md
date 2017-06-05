@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-Citalopram Tablets, USP are available containing 10 mg, 20 mg or 40 mg of citalopram base.
+Citalopram Tablets, USP are available containing citalopram hydrobromide, USP equivalent to 10 mg, 20 mg or 40 mg of citalopram base.
 
-The 10 mg tablets are beige, film-coated, round, unscored tablets debossed with MX31 on one side of the tablet and blank on the other side.
+The 10 mg tablets are orange, film-coated, round, unscored tablets debossed with MX31 on one side of the tablet and blank on the other side.
 They are available as follows:
 
 NDC 0378-6231-01 bottles of 100 tablets

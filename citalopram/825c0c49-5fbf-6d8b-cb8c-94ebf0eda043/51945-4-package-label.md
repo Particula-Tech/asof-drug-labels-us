@@ -21,9 +21,9 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-Mylan.com
+RMX6231A5
 
-RMX6231A3
+Mylan.com
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -54,9 +54,9 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-Mylan.com
+RMX6232A5
 
-RMX6232A3
+Mylan.com
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -87,9 +87,9 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-Mylan.com
+RMX6233A5
 
-RMX6233A3
+Mylan.com
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

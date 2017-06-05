@@ -5,13 +5,13 @@ Citalopram hydrobromide is a racemic bicyclic phthalane derivative designated (Â
 
 The molecular formula is C20H22BrFN2O and its molecular weight is 405.35.
 
-Citalopram hydrobromide, USP occurs as a fine, white to off-white powder.
+Citalopram hydrobromide, USP occurs as a white to almost white, crystalline powder.
 Citalopram hydrobromide is sparingly soluble in water and soluble in ethanol.
 
 Citalopram hydrobromide is available only in tablet dosage form.
 
-Citalopram 10 mg are beige, film-coated, round tablets containing citalopram hydrobromide in strengths equivalent to 10 mg citalopram base.
-Citalopram 20 mg and 40 mg are pink and white respectively, film-coated, round, scored tablets containing citalopram hydrobromide in strengths equivalent to 20 mg or 40 mg citalopram base.
+Citalopram tablets 10 mg are orange, film-coated, round, unscored tablets containing citalopram hydrobromide in strengths equivalent to 10 mg citalopram base.
+Citalopram tablets 20 mg and 40 mg are pink and white respectively, film-coated, round, scored tablets containing citalopram hydrobromide in strengths equivalent to 20 mg or 40 mg citalopram base.
 The tablets also contain the following inactive ingredients: colloidal silicon dioxide, corn starch, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium lauryl sulfate, titanium dioxide and triacetin.
 The 10 mg and 20 mg tablets also contain FD&C Yellow No. 6 Aluminum Lake.
 The 20 mg tablets also contain FD&C Red No. 40 Aluminum Lake.
