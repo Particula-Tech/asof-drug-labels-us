@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA021081"
+  ],
+  "inn": "insulin-glargine",
+  "labeler": "sanofi-aventis U.S. LLC",
+  "package_ndcs": [
+    "0088-5020-01",
+    "0088-5020-05",
+    "0088-5021-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin glargine",
+      "name": "Lantus"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin glargine",
+      "name": "Lantus Solostar"
+    }
+  ],
+  "setid": "6328c99d-d75f-43ef-b19e-7e71f91e57f6",
+  "source": "dailymed"
+}

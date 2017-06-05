@@ -1,0 +1,61 @@
+# 5. WARNINGS AND PRECAUTIONS
+
+## 5.1 Never Share a LANTUS SoloStar Prefilled Pen, Syringe, or Needle between Patients
+
+LANTUS SoloStar prefilled pens must never be shared between patients, even if the needle is changed.
+Patients using LANTUS vials must never reuse or share needles or syringes with another person.
+Sharing poses a risk for transmission of blood-borne pathogens.
+
+## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
+
+Changes in insulin strength, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
+These changes should be made cautiously and only under close medical supervision, and the frequency of blood glucose monitoring should be increased.
+For patients with type 2 diabetes, dosage adjustments of concomitant oral and anti-diabetic products may be needed.
+
+## 5.3 Hypoglycemia
+
+Hypoglycemia is the most common adverse reaction associated with insulin, including LANTUS.
+Severe hypoglycemia can cause seizures, may be life-threatening or cause death.
+Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
+
+Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual.
+Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)], or in patients who experience recurrent hypoglycemia.
+
+Risk Factors for Hypoglycemia
+
+The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.
+As with all insulin preparations, the glucose lowering effect time course of LANTUS may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
+Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7)].
+Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [See Use in Specific Populations (8.6, 8.7)].
+
+Risk Mitigation Strategies for Hypoglycemia
+
+Patients and caregivers must be educated to recognize and manage hypoglycemia.
+Self-monitoring of blood glucose plays an essential role in the prevention and management of hypoglycemia.
+In patients at higher risk for hypoglycemia and patients who have reduced symptomatic awareness of hypoglycemia, increased frequency of blood glucose monitoring is recommended.
+
+The long-acting effect of LANTUS may delay recovery from hypoglycemia.
+
+## 5.4 Medication Errors
+
+Accidental mix-ups among insulin products, particularly between long-acting insulins and rapid-acting insulins, have been reported.
+To avoid medication errors between LANTUS and other insulins, instruct patients to always check the insulin label before each injection [see Adverse Reactions (6.3)].
+
+## 5.5 Hypersensitivity and Allergic Reactions
+
+Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including LANTUS.
+If hypersensitivity reactions occur, discontinue LANTUS; treat per standard of care and monitor until symptoms and signs resolve [see Adverse Reactions (6.1)].
+LANTUS is contraindicated in patients who have had hypersensitivity reactions to insulin glargine or one of the excipients [see Contraindications (4)].
+
+## 5.6 Hypokalemia
+
+All insulin products, including LANTUS, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
+Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
+Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).
+
+## 5.7 Fluid Retention and Heart Failure with Concomitant Use of PPAR-gamma Agonists
+
+Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
+Fluid retention may lead to or exacerbate heart failure.
+Patients treated with insulin, including LANTUS, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
