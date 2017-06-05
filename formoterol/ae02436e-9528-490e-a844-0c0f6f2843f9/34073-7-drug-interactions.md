@@ -23,7 +23,7 @@ However, caution is advised in the coadministration of BEVESPI AEROSPHERE with n
 BEVESPI AEROSPHERE, as with other beta2-agonists, should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants or other drugs known to prolong the QTc interval because the action of adrenergic agonists on the cardiovascular system may be potentiated by these agents.
 Drugs that are known to prolong the QTc interval may be associated with an increased risk of ventricular arrhythmias.
 
-## 7.5 Beta-Blockers
+## 7.5. Beta-Blockers
 
 Beta-adrenergic receptor antagonists (beta-blockers) and BEVESPI AEROSPHERE may interfere with the effect of each other when administered concurrently.
 Beta-blockers not only block the therapeutic effects of beta2-agonists, but may produce severe bronchospasm in COPD patients.

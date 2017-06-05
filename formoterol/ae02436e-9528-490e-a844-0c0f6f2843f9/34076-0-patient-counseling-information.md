@@ -60,4 +60,4 @@ BEVESPI®, AEROSPHERETM and BEVESPI AEROSPHERETM are trademarks of the AstraZene
 
 Manufactured for: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-By: Aventis Pharma LTD, Holmes Chapel CW48BE, United Kingdom
+By: Aventis Pharma LTD, Holmes Chapel CW48BE, United Kingdom or By: AstraZeneca Dunkerque Production (AZDP), Dunkerque France

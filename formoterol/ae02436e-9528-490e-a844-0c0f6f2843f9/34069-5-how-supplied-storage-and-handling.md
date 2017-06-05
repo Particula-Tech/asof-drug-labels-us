@@ -1,9 +1,9 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 BEVESPI AEROSPHERE Inhalation Aerosol is supplied as a pressurized aluminum canister with an attached dose indicator, a white plastic actuator and mouthpiece, and an orange dust cap.
-Each 120 inhalation canister has a net fill weight of 10.7 grams.
+Each 120 inhalation canister has a net fill weight of 10.7 grams (NDC 0310-4600-12) and each 28 inhalation canister (institutional pack) has a net fill weight of 5.9 grams (NDC 0310-4600-39).
 Each canister is packaged in a foil pouch with desiccant sachet and is placed into a carton.
-Each carton contains one canister and a Medication Guide (NDC 0310-4600-12).
+Each carton contains one canister and a Medication Guide.
 
 The BEVESPI AEROSPHERE canister should only be used with the BEVESPI AEROSPHERE actuator, and the BEVESPI AEROSPHERE actuator should not be used with any other inhalation drug product.
 

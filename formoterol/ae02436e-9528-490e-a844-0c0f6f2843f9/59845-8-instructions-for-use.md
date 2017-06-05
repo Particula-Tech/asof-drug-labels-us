@@ -25,7 +25,7 @@ Parts of your BEVESPI AEROSPHERE inhaler (See Figure 1):
   A puff of medicine is released each time you press the center of the dose indicator.
 
 Before you use BEVESPI AEROSPHERE for the first time make sure that the pointer on the dose indicator is pointing to the right of the “120” inhalation mark in the dose indicator display window (See Figure 1).
-(Note, the pointer will point to the right of the “30” inhalation mark if you have a 7-day inhaler.)
+(Note, the pointer will point to the right of the “30” inhalation mark if you have a 7-day inhaler, 28 inhalation canister.)
 
 - •The pointer will be pointing to 120 after 10 puffs are delivered from BEVESPI AEROSPHERE.
   This means that there are 120 puffs of medicine left in the canister (See Figure 2a).
@@ -38,8 +38,8 @@ Before you use BEVESPI AEROSPHERE for the first time make sure that the pointer 
   The number in the dose indicator display window will continue to change after every 20 puffs.
 
 - •The color in the dose indicator display window will change to red, as shown in the shaded area, when there are only 20 puffs of medicine left in your inhaler (See Figure 2d).
-- •The dose indicator for the 7-day inhaler moves after every 10 puffs; with markings for 30, 15 and 0 puffs.
-  The color in the 7-day inhaler dose indicator display window will change to red when there are only 10 puffs of medicine left in your inhaler.
+- •The dose indicator for the 7-day inhaler, 28 inhalation canister, moves after every 10 puffs; with markings for 30, 15 and 0 puffs.
+  The color in the 7-day inhaler, 28 inhalation canister, dose indicator display window will change to red when there are only 10 puffs of medicine left in your inhaler.
 
 Preparing your BEVESPI AEROSPHERE inhaler for use:
 
@@ -125,6 +125,8 @@ Manufactured for: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
 By: Aventis Pharma LTD, Holmes Chapel CW48BE, United Kingdom
 
+Or By: AstraZeneca Dunkerque Production (AZDP), Dunkerque France
+
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: October 2016
+Revised: June 2017

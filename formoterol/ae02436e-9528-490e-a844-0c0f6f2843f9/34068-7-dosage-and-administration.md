@@ -3,7 +3,7 @@
 BEVESPI AEROSPHERE (glycopyrrolate/formoterol fumarate 9 mcg/4.8 mcg) should be administered as two inhalations taken twice daily in the morning and in the evening by the orally inhaled route only.
 Do not take more than two inhalations twice daily.
 
-BEVESPI AEROSPHERE contains 120 inhalations per canister.
+BEVESPI AEROSPHERE contains 28 or 120 inhalations per canister.
 The canister has an attached dose indicator, which indicates how many inhalations remain.
 The dose indicator display will move after every tenth actuation.
 When nearing the end of the usable inhalations, the color behind the number in the dose indicator display window changes to red.
