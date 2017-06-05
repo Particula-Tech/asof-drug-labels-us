@@ -6,6 +6,12 @@ They are supplied as follows:
 - NDC 0006-0227-61 unit-of-use bottles of 60.
 - No. 3894
 
+ISENTRESS HD tablets 600 mg are yellow, oval-shaped, film-coated tablets with Merck logo and "242" on one side and plain on the other side.
+They are supplied as follows:
+
+- NDC 0006-3080-01 unit-of-use bottles of 60.
+- No. 3080
+
 ISENTRESS tablets 100 mg are pale orange, oval-shaped, orange-banana flavored, chewable tablets scored on both sides and imprinted on one face with the Merck logo and "477" on opposite sides of the score.
 They are supplied as follows:
 
@@ -27,12 +33,12 @@ It is supplied as follows:
 
 Storage and Handling
 
-400 mg Film-coated Tablets, Chewable Tablets and For Oral Suspension
+400 mg Film-coated Tablets, 600 mg Film-coated Tablets, Chewable Tablets and For Oral Suspension
 
 Store at 20-25°C (68-77°F); excursions permitted to 15-30°C (59-86°F).
 See USP Controlled Room Temperature.
 
-Chewable Tablets
+400 mg Film-coated Tablets, 600 mg Film-coated Tablets and Chewable Tablets
 
 Store in the original package with the bottle tightly closed.
 Keep the desiccant in the bottle to protect from moisture.

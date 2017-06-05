@@ -1,5 +1,11 @@
 # 1 INDICATIONS AND USAGE
 
-ISENTRESS® is indicated in combination with other antiretroviral agents for the treatment of human immunodeficiency virus (HIV-1) infection in patients 4 weeks of age and older.
+Adult Patients:
 
-- The use of other active agents with ISENTRESS is associated with a greater likelihood of treatment response [see Clinical Studies (14)].
+ISENTRESS® and ISENTRESS® HD are indicated in combination with other antiretroviral agents for the treatment of human immunodeficiency virus (HIV-1) infection in adult patients.
+
+Pediatric Patients:
+
+ISENTRESS is indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection in pediatric patients 4 weeks of age and older.
+
+ISENTRESS HD is indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection in pediatric patients weighing at least 40 kg.

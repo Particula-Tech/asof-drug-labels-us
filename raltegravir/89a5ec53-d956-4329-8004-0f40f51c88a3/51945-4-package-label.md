@@ -14,6 +14,24 @@ Rx only
 
 60 Tablets
 
+# PRINCIPAL DISPLAY PANEL - 600 mg Bottle Label
+
+NDC 0006-3080-01
+
+Isentress® HD (raltegravir) tablets
+
+600 mg
+
+RECOMMENDED DOSAGE: Two tablets once daily.
+
+See Package Insert.
+
+Each tablet contains 651.6 mg raltegravir potassium, equivalent to 600 mg raltegravir.
+
+Rx only
+
+60 Tablets
+
 PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
 
 NDC 0006-0477-61

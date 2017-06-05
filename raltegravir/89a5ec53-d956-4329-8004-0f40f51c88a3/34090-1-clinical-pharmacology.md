@@ -8,14 +8,9 @@ Raltegravir is an HIV-1 antiviral drug [see Microbiology (12.4)].
 
 In a monotherapy study raltegravir (400 mg twice daily) demonstrated rapid antiviral activity with mean viral load reduction of 1.66 log10 copies/mL by Day 10.
 
-In the randomized, double-blind, placebo-controlled, dose-ranging trial, Protocol 005, and Protocols 018 and 019, antiviral responses were similar among subjects regardless of dose.
+Cardiac Electrophysiology
 
-Effects on Electrocardiogram
-
-In a randomized, placebo-controlled, crossover study, 31 healthy subjects were administered a single oral supratherapeutic dose of raltegravir 1600 mg and placebo.
-Peak raltegravir plasma concentrations were approximately 4-fold higher than the peak concentrations following a 400 mg dose.
-ISENTRESS did not appear to prolong the QTc interval for 12 hours postdose.
-After baseline and placebo adjustment, the maximum mean QTc change was -0.4 msec (1-sided 95% upper Cl: 3.1 msec).
+At a dose 1.33 times the maximum approved recommended dose (and peak concentrations 1.25-fold higher than the maximum approved dose), raltegravir does not prolong the QT interval or PR interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
@@ -23,36 +18,37 @@ Adults
 
 Absorption
 
-Raltegravir (film-coated tablet) is absorbed with a Tmax of approximately 3 hours postdose in the fasted state.
-Raltegravir AUC and Cmax increase dose proportionally over the dose range 100 mg to 1600 mg.
-Raltegravir C12hr increases dose proportionally over the dose range of 100 to 800 mg and increases slightly less than dose proportionally over the dose range 100 mg to 1600 mg.
-With twice-daily dosing, pharmacokinetic steady state is achieved within approximately the first 2 days of dosing.
-There is little to no accumulation in AUC and Cmax.
-The average accumulation ratio for C12hr ranged from approximately 1.2 to 1.6.
+Raltegravir, given 400 mg twice daily, is absorbed with a Tmax of approximately 3 hours postdose in the fasted state in healthy subjects.
+Raltegravir 1200 mg once daily is rapidly absorbed with median Tmax of ~1.5 to 2 hours in the fasted state.
+
+Raltegravir increases dose proportionally (AUC and Cmax) or slightly less than dose proportionally (C12hr) over the dose range 100 mg to 1600 mg.
 
 The absolute bioavailability of raltegravir has not been established.
-Based on a formulation comparison study in healthy adult volunteers, the chewable tablet and oral suspension have higher oral bioavailability compared to the 400 mg film-coated tablet.
+The chewable tablet and oral suspension have higher oral bioavailability compared to the 400 mg film-coated tablet.
 
-In subjects who received 400 mg twice daily alone, raltegravir drug exposures were characterized by a geometric mean AUC0-12hr of 14.3 µM∙hr and C12hr of 142 nM.
+Relative to the raltegravir 400 mg formulation, the raltegravir 600 mg formulation has higher relative bioavailability.
 
-Considerable variability was observed in the pharmacokinetics of raltegravir.
-For observed C12hr in Protocols 018 and 019, the coefficient of variation (CV) for inter-subject variability = 212% and the CV for intra-subject variability = 122%.
+Steady-state is generally reached in 2 days, with little to no accumulation with multiple dose administration for the 400 mg twice daily and 1200 once daily formulation.
 
 Effect of Food on Oral Absorption
 
-ISENTRESS may be administered with or without food.
-Raltegravir was administered without regard to food in the pivotal safety and efficacy studies in HIV-1-infected patients.
-The effect of consumption of low-, moderate- and high-fat meals on steady-state raltegravir pharmacokinetics was assessed in healthy volunteers administered the 400 mg film-coated tablet.
-Administration of multiple doses of raltegravir following a moderate-fat meal (600 Kcal, 21 g fat) did not affect raltegravir AUC to a clinically meaningful degree with an increase of 13% relative to fasting.
-Raltegravir C12hr was 66% higher and Cmax was 5% higher following a moderate-fat meal compared to fasting.
-Administration of raltegravir following a high-fat meal (825 Kcal, 52 g fat) increased AUC and Cmax by approximately 2-fold and increased C12hr by 4.1-fold.
-Administration of raltegravir following a low-fat meal (300 Kcal, 2.5 g fat) decreased AUC and Cmax by 46% and 52%, respectively; C12hr was essentially unchanged.
-Food appears to increase pharmacokinetic variability relative to fasting.
+The food effect of various formulations are presented in Table 11.
 
-Administration of the chewable tablet with a high fat meal led to an average 6% decrease in AUC, 62% decrease in Cmax, and 188% increase in C12hr compared to administration in the fasted state.
-Administration of the chewable tablet with a high fat meal does not affect raltegravir pharmacokinetics to a clinically meaningful degree and the chewable tablet can be administered without regard to food.
+Table 11: Effect of Food on the Pharmacokinetics of Raltegravir Formulations
 
-The effect of food on the formulation for oral suspension was not studied.
+| Formulation | Meal Type | AUC Ratio (90% CI) | Cmax Ratio (90% CI) | Cmin Ratio (90% CI) |
+| --- | --- | --- | --- | --- |
+|  |  | PK parameter ratio (fed/fasted) |  |  |
+| 400 mg twice daily | Low Fat | 0.54 (0.41-0.71) | 0.48 (0.35-0.67) | 0.86 (0.54-1.36) |
+|  | Moderate Fat | 1.13 (0.85-1.49) | 1.05 (0.75-1.46) | 1.66 (1.04-2.64) |
+|  | High Fat | 2.11 (1.60-2.80) | 1.96 (1.41-2.73) | 4.13 (2.60-6.57) |
+| 1200 mg once daily | Low Fat | 0.58 (0.46-0.74) | 0.48 (0.37-0.62) | 0.84 (0.63-1.10) |
+|  | High Fat | 1.02 (0.86-1.21) | 0.72 (0.58-0.90) | 0.88 (0.66-1.18) |
+| Chewable tablet | High Fat | 0.94 (0.78-1.14) | 0.38 (0.28-0.52) | 2.88 (2.21-3.75) |
+| Oral suspension | The effect of food on oral suspension was not studied. |  |  |  |
+| Low-fat meal: 300 Kcal, 2.5 g fat |  |  |  |  |
+| Moderate-fat meal: 600 Kcal, 21 g fat |  |  |  |  |
+| High-fat meal: 825 Kcal, 52 g fat |  |  |  |  |
 
 Distribution
 
@@ -70,100 +66,118 @@ Following administration of an oral dose of radiolabeled raltegravir, approximat
 In feces, only raltegravir was present, most of which is likely derived from hydrolysis of raltegravir-glucuronide secreted in bile as observed in preclinical species.
 Two components, namely raltegravir and raltegravir-glucuronide, were detected in urine and accounted for approximately 9 and 23% of the dose, respectively.
 The major circulating entity was raltegravir and represented approximately 70% of the total radioactivity; the remaining radioactivity in plasma was accounted for by raltegravir-glucuronide.
-Studies using isoform-selective chemical inhibitors and cDNA-expressed UDP-glucuronosyltransferases (UGT) show that UGT1A1 is the main enzyme responsible for the formation of raltegravir-glucuronide.
-Thus, the data indicate that the major mechanism of clearance of raltegravir in humans is UGT1A1-mediated glucuronidation.
+The major mechanism of clearance of raltegravir in humans is UGT1A1-mediated glucuronidation.
+
+Table 12: Multiple-Dose Pharmacokinetic Parameters of Raltegravir Following the Administration of 400 mg Twice Daily and 1200 mg Once Daily in HIV-infected Subjects
+
+| Parameter | 400 mg BID Geometric Mean (%CV) N=6 | 1200 mg QD Geometric Mean (%CV) N=524 |
+| --- | --- | --- |
+| AUC (µM∙hr) | AUC0-12= 14.3 (88.6) | AUC0-24 = 55.3 (41.5) |
+| Cmax (µM) | 4.5 (128) | 15.7 (45.8) |
+| Cmin (nM) | C12 = 142 (63.8) | C24 = 107 (97.5) |
 
 Special Populations
 
 Pediatric
 
+ISENTRESS
+
 Two pediatric formulations were evaluated in healthy adult volunteers, where the chewable tablet and oral suspension were compared to the 400 mg tablet.
 The chewable tablet and oral suspension demonstrated higher oral bioavailability, thus higher AUC, compared to the 400 mg tablet.
 In the same study, the oral suspension resulted in higher oral bioavailability compared to the chewable tablet.
 These observations resulted in proposed pediatric doses targeting 6 mg/kg/dose for the chewable tablets and oral suspension.
-As displayed in Table 9, the doses recommended for HIV-infected infants, children and adolescents 4 weeks to 18 years of age [see Dosage and Administration (2.3)] resulted in a pharmacokinetic profile of raltegravir similar to that observed in adults receiving 400 mg twice daily.
+As displayed in Table 13, the doses recommended for HIV-infected infants, children and adolescents 4 weeks to 18 years of age [see Dosage and Administration (2.3)] resulted in a pharmacokinetic profile of raltegravir similar to that observed in adults receiving 400 mg twice daily.
 
 Overall, dosing in pediatric patients achieved exposures (Ctrough) above 45 nM in the majority of subjects, but some differences in exposures between formulations were observed.
 Pediatric patients above 25 kg administered the chewable tablets had lower trough concentrations (113 nM) compared to pediatric patients above 25 kg administered the 400 mg tablet formulation (233 nM) [see Clinical Studies (14.3)].
 As a result, the 400 mg film-coated tablet is the recommended dose in patients weighing at least 25 kg; however, the chewable tablet offers an alternative regimen in patients weighing at least 25 kg who are unable to swallow the film-coated tablet [see Dosage and Administration (2.3)].
 In addition, pediatric patients weighing 11 to 25 kg who were administered the chewable tablets had the lowest trough concentrations (82 nM) compared to all other pediatric subgroups.
 
-Table 9: Raltegravir Steady State Pharmacokinetic Parameters in Pediatric Patients Following Administration of Recommended Doses
+Table 13: Raltegravir Steady State Pharmacokinetic Parameters in Pediatric Patients Following Administration of Recommended Twice-Daily Doses
 
 | Body Weight | Formulation | Dose | NNumber of patients with intensive pharmacokinetic (PK) results at the final recommended dose. | Geometric Mean (%CVGeometric coefficient of variation.) AUC0-12hr (µM∙hr) | Geometric Mean (%CV) C12hr (nM) |
 | --- | --- | --- | --- | --- | --- |
 | ≥25 kg | Film-coated tablet | 400 mg twice daily | 18 | 14.1 (121%) | 233 (157%) |
-| ≥25 kg | Chewable tablet | Weight based dosing, see Table 1 | 9 | 22.1 (36%) | 113 (80%) |
-| 11 to less than 25 kg | Chewable tablet | Weight based dosing, see Table 2 | 13 | 18.6 (68%) | 82 (123%) |
-| 3 to less than 20 kg | Oral suspension | Weight based dosing, see Table 2 | 19 | 24.5 (43%) | 113 (69%) |
+| ≥25 kg | Chewable tablet | Weight based dosing, see Table 3 | 9 | 22.1 (36%) | 113 (80%) |
+| 11 to less than 25 kg | Chewable tablet | Weight based dosing, see Table 4 | 13 | 18.6 (68%) | 82 (123%) |
+| 3 to less than 20 kg | Oral suspension | Weight based dosing, see Table 4 | 19 | 24.5 (43%) | 113 (69%) |
 
 The pharmacokinetics of raltegravir in infants under 4 weeks of age has not been established.
 
-Age
+ISENTRESS HD
 
-The effect of age (18 years and older) on the pharmacokinetics of raltegravir was evaluated in the composite analysis.
-No dosage adjustment is necessary.
+ISENTRESS HD 1200 mg (2 × 600 mg) was not evaluated in a pediatric clinical study.
+Exposures for pediatric subjects weighing at least 40 kg administered ISENTRESS HD are predicted to be comparable to adult exposures observed from Phase III ONCEMRK.
 
-Race
+Age/Race/Gender
 
-The effect of race on the pharmacokinetics of raltegravir in adults was evaluated in the composite analysis.
-No dosage adjustment is necessary.
-
-Gender
-
-A study of the pharmacokinetics of raltegravir was performed in healthy adult males and females.
-Additionally, the effect of gender was evaluated in a composite analysis of pharmacokinetic data from 103 healthy subjects and 28 HIV-1 infected subjects receiving raltegravir monotherapy with fasted administration.
-No dosage adjustment is necessary.
+There is no clinically meaningful effect of age (18 years and older), race, or gender on the pharmacokinetics of raltegravir.
 
 Hepatic Impairment
 
 Raltegravir is eliminated primarily by glucuronidation in the liver.
-A study of the pharmacokinetics of raltegravir was performed in adult subjects with moderate hepatic impairment.
-Additionally, hepatic impairment was evaluated in the composite pharmacokinetic analysis.
-There were no clinically important pharmacokinetic differences between subjects with moderate hepatic impairment and healthy subjects.
-No dosage adjustment is necessary for patients with mild to moderate hepatic impairment.
-The effect of severe hepatic impairment on the pharmacokinetics of raltegravir has not been studied.
+The pharmacokinetics of a single 400-mg dose of raltegravir were not altered in patients with moderate (Child-Pugh Score 7 to 9) hepatic impairment.
+
+No hepatic impairment study has been conducted with ISENTRESS HD 1200 mg (2 × 600 mg) once daily.The effect of severe hepatic impairment on the pharmacokinetics of raltegravir has not been studied.
 
 Renal Impairment
 
 Renal clearance of unchanged drug is a minor pathway of elimination.
-A study of the pharmacokinetics of raltegravir was performed in adult subjects with severe renal impairment.
-Additionally, renal impairment was evaluated in the composite pharmacokinetic analysis.
-There were no clinically important pharmacokinetic differences between subjects with severe renal impairment and healthy subjects.
-No dosage adjustment is necessary.
-Because the extent to which ISENTRESS may be dialyzable is unknown, dosing before a dialysis session should be avoided.
+The pharmacokinetics of a single 400-mg dose of raltegravir were not altered in patients with severe (24-hour creatinine clearance of <30 mL/min/1.73 m2) renal impairment.
 
-UGT1A1 Polymorphism
+No renal impairment study was conducted with ISENTRESS HD 1200 mg (2 × 600 mg) once daily.
 
-There is no evidence that common UGT1A1 polymorphisms alter raltegravir pharmacokinetics to a clinically meaningful extent.
-In a comparison of 30 adult subjects with *28/*28 genotype (associated with reduced activity of UGT1A1) to 27 adult subjects with wild-type genotype, the geometric mean ratio (90% CI) of AUC was 1.41 (0.96, 2.09).
+The extent to which ISENTRESS may be dialyzable is unknown.
 
-Drug Interactions [see Drug Interactions (7)]
+Drug Interactions
 
-Table 10: Effect of Other Agents on the Pharmacokinetics of Raltegravir in Adults
+In vitro, raltegravir does not inhibit (IC50>100 µM) CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A.
+In vivo, raltegravir does not inhibit CYP3A4.
+Moreover, in vitro, raltegravir did not induce CYP1A2, CYP2B6 or CYP3A4.
+Similarly, raltegravir is not an inhibitor (IC50>50 µM) of UGT1A1 or UGT2B7, and raltegravir does not inhibit P-glycoprotein-mediated transport.
 
-| n | Cmax | AUC | Cmin |  |  |  |
+Raltegravir drug interaction study results are shown in Tables 14 and 15.
+For information regarding clinical recommendations [see Drug Interactions (7)].
+
+Table 14: Effect of Other Agents on the Pharmacokinetics of Raltegravir in Adults
+
+|  |  |  | n | Cmax | AUC | Cmin |
 | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Coadministered Drug Dose/Schedule | Raltegravir Dose/Schedule | Ratio (90% Confidence Interval) of Raltegravir Pharmacokinetic Parameters with/without Coadministered Drug; No Effect = 1.00 |  |  |  |
-| aluminum and magnesium hydroxide antacid | 20 mL single dose given with raltegravir | 400 mg twice daily | 25 | 0.56 (0.42, 0.73) | 0.51 (0.40, 0.65) | 0.37 (0.29, 0.48) |
-| 20 mL single dose given 2 hours before raltegravir | 23 | 0.49 (0.33, 0.71) | 0.49 (0.35, 0.67) | 0.44 (0.34, 0.55) |  |  |
+| aluminum and magnesium hydroxide antacidStudy conducted in HIV-infected subjects. | 20 mL single dose given with raltegravir | 400 mg twice daily | 25 | 0.56 (0.42, 0.73) | 0.51 (0.40, 0.65) | 0.37 (0.29, 0.48) |
+|  | 20 mL single dose given 2 hours before raltegravir |  | 23 | 0.49 (0.33, 0.71) | 0.49 (0.35, 0.67) | 0.44 (0.34, 0.55) |
 | 20 mL single dose given 2 hours after raltegravir | 23 | 0.78 (0.53, 1.13) | 0.70 (0.50, 0.96) | 0.43 (0.34, 0.55) |  |  |
 | 20 mL single dose given 4 hours before raltegravir | 17 | 0.78 (0.55, 1.10) | 0.81 (0.63, 1.05) | 0.40 (0.31, 0.52) |  |  |
 | 20 mL single dose given 4 hours after raltegravir | 18 | 0.70 (0.48, 1.04) | 0.68 (0.50, 0.92) | 0.38 (0.30, 0.49) |  |  |
 | 20 mL single dose given 6 hours before raltegravir | 16 | 0.90 (0.58, 1.40) | 0.87 (0.64, 1.18) | 0.50 (0.39, 0.65) |  |  |
 | 20 mL single dose given 6 hours after raltegravir | 16 | 0.90 (0.58, 1.41) | 0.89 (0.64, 1.22) | 0.51 (0.40, 0.64) |  |  |
+| aluminum and magnesium hydroxide antacid | 20 mL single dose given 12 hours after raltegravir | 1200 mg single dose | 19 | 0.86 (0.65, 1.15) | 0.86 (0.73, 1.03) | 0.42 (0.34, 0.52) |
 | atazanavir | 400 mg daily | 100 mg single dose | 10 | 1.53 (1.11, 2.12) | 1.72 (1.47, 2.02) | 1.95 (1.30, 2.92) |
+| atazanavir | 400 mg daily | 1200 mg single dose | 14 | 1.16 (1.01, 1.33) | 1.67 (1.34, 2.10) | 1.26 (1.08, 1.46) |
 | atazanavir/ritonavir | 300 mg/100 mg daily | 400 mg twice daily | 10 | 1.24 (0.87, 1.77) | 1.41 (1.12, 1.78) | 1.77 (1.39, 2.25) |
 | boceprevir | 800 mg three times daily | 400 mg single dose | 22 | 1.11 (0.91-1.36) | 1.04 (0.88-1.22) | 0.75 (0.45-1.23) |
 | calcium carbonate antacid | 3000 mg single dose given with raltegravir | 400 mg twice daily | 24 | 0.48 (0.36, 0.63) | 0.45 (0.35, 0.57) | 0.68 (0.53, 0.87) |
+| calcium carbonate antacid | 3000 mg single dose given with raltegravir | 1200 mg single dose | 19 | 0.26 (0.21, 0.32) | 0.28 (0.24, 0.32) | 0.52 (0.45, 0.61) |
+|  | 3000 mg single dose given 12 hours after raltegravir |  |  | 0.98 (0.81, 1.17) | 0.90 (0.80, 1.03) | 0.43 (0.36, 0.51) |
 | efavirenz | 600 mg daily | 400 mg single dose | 9 | 0.64 (0.41, 0.98) | 0.64 (0.52, 0.80) | 0.79 (0.49, 1.28) |
+| efavirenz | 600 mg daily | 1200 mg single dose | 21 | 0.91 (0.70, 1.17) | 0.86 (0.73, 1.01) | 0.94 (0.76, 1.17) |
 | etravirine | 200 mg twice daily | 400 mg twice daily | 19 | 0.89 (0.68, 1.15) | 0.90 (0.68, 1.18) | 0.66 (0.34, 1.26) |
-| omeprazole | 20 mg daily | 400 mg single dose | 14 (10 for AUC) | 4.15 (2.82, 6.10) | 3.12 (2.13, 4.56) | 1.46 (1.10, 1.93) |
+| omeprazole | 20 mg daily | 400 mg twice daily | 18 | 1.51 (0.98, 2.35) | 1.37 (0.99, 1.89) | 1.24 (0.95, 1.62) |
 | rifampin | 600 mg daily | 400 mg single dose | 9 | 0.62 (0.37, 1.04) | 0.60 (0.39, 0.91) | 0.39 (0.30, 0.51) |
 | rifampin | 600 mg daily | 400 mg twice daily when administered alone; 800 mg twice daily when administered with rifampin | 14 | 1.62 (1.12, 2.33) | 1.27 (0.94, 1.71) | 0.47 (0.36, 0.61) |
 | ritonavir | 100 mg twice daily | 400 mg single dose | 10 | 0.76 (0.55, 1.04) | 0.84 (0.70, 1.01) | 0.99 (0.70, 1.40) |
-| tenofovir | 300 mg daily | 400 mg twice daily | 9 | 1.64 (1.16, 2.32) | 1.49 (1.15, 1.94) | 1.03 (0.73, 1.45) |
+| tenofovir disoproxil fumarate | 300 mg daily | 400 mg twice daily | 9 | 1.64 (1.16, 2.32) | 1.49 (1.15, 1.94) | 1.03 (0.73, 1.45) |
 | tipranavir/ritonavir | 500 mg/200 mg twice daily | 400 mg twice daily | 15 (14 for Cmin) | 0.82 (0.46, 1.46) | 0.76 (0.49, 1.19) | 0.45 (0.31, 0.66) |
+
+Table 15: Effect of Raltegravir on the Pharmacokinetics of Other Agents in Adults
+
+| n | Cmax | AUC | Cmin |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Substrate Drug | Raltegravir Dose/Schedule | Ratio (90% Confidence Interval) of Substrate Pharmacokinetic Parameters with/without Coadministered Drug; No Effect = 1.00 |  |  |  |
+| Tenofovir disoproxil fumarate 300 mg | 400 mg | 9 | 0.77 (0.69, 0.85) | 0.90 (0.82, 0.99) | C24hr 0.87 (0.74, 1.02) |
+| Etravirine 200 mg | 400 mg | 19 | 1.04 (0.97, 1.12) | 1.10 (1.03, 1.16) | 1.17 (1.10, 1.26) |
+
+In drug interaction studies, there was no effect of raltegravir on the PK of ethinyl estradiol, methadone, midazolam or boceprevir.
 
 ## 12.4 Microbiology
 
@@ -180,7 +194,7 @@ Raltegravir at concentrations of 31 ± 20 nM resulted in 95% inhibition (EC95) o
 In addition, 5 clinical isolates of HIV-1 subtype B had EC95 values ranging from 9 to 19 nM in cultures of mitogen-activated human peripheral blood mononuclear cells.
 In a single-cycle infection assay, raltegravir inhibited infection of 23 HIV-1 isolates representing 5 non-B subtypes (A, C, D, F, and G) and 5 circulating recombinant forms (AE, AG, BF, BG, and cpx) with EC50 values ranging from 5 to 12 nM.
 Raltegravir also inhibited replication of an HIV-2 isolate when tested in CEMx174 cells (EC95 value = 6 nM).
-Additive to synergistic antiretroviral activity was observed when human T-lymphoid cells infected with the H9IIIB variant of HIV-1 were incubated with raltegravir in combination with non-nucleoside reverse transcriptase inhibitors (delavirdine, efavirenz, or nevirapine); nucleoside analog reverse transcriptase inhibitors (abacavir, didanosine, lamivudine, stavudine, tenofovir, or zidovudine); protease inhibitors (amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, or saquinavir); or the entry inhibitor enfuvirtide.
+No antagonism was observed when human T-lymphoid cells infected with the H9IIIB variant of HIV-1 were incubated with raltegravir in combination with non-nucleoside reverse transcriptase inhibitors (delavirdine, efavirenz, or nevirapine); nucleoside analog reverse transcriptase inhibitors (abacavir, didanosine, lamivudine, stavudine, tenofovir, or zidovudine); protease inhibitors (amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, or saquinavir); or the entry inhibitor enfuvirtide.
 
 Resistance
 
@@ -188,6 +202,8 @@ The mutations observed in the HIV-1 integrase coding sequence that contributed t
 E92Q and F121C are occasionally seen in the absence of substitutions at Y143, Q148, or N155 in raltegravir-treatment failure subjects.
 
 Treatment-Naïve Adult Subjects: By Week 240 in the STARTMRK trial, the primary raltegravir resistance-associated substitutions were observed in 4 (2 with Y143H/R and 2 with Q148H/R) of the 12 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
+By Week 48 in the ONCEMRK trial, primary resistance substitutions were observed in on-treatment isolates obtained from 4 (N155H/I203M, N155H/V151I/D232N, N155H, E92Q/L74M) of the 14 virologic failure subjects with evaluable genotypic data.
+These isolates exhibited 9.3- to 19-fold reductions in susceptibility to raltegravir.
 
 Treatment-Experienced Adult Subjects: By Week 96 in the BENCHMRK trials, at least one of the primary raltegravir resistance-associated substitutions, Y143C/H/R, Q148H/K/R, and N155H, was observed in 76 of the 112 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
 The emergence of the primary raltegravir resistance-associated substitutions was observed cumulatively in 70 subjects by Week 48 and 78 subjects by Week 96, 15.2% and 17% of the raltegravir recipients, respectively.
@@ -199,3 +215,10 @@ Cross resistance has been observed among HIV-1 integrase strand transfer inhibit
 Amino acid substitutions in HIV-1 integrase conferring resistance to raltegravir generally also confer resistance to elvitegravir.
 Substitutions at amino acid Y143 confer greater reductions in susceptibility to raltegravir than to elvitegravir, and the E92Q substitution confers greater reductions in susceptibility to elvitegravir than to raltegravir.
 Viruses harboring a substitution at amino acid Q148, along with one or more other raltegravir resistance substitutions, may also have clinically significant resistance to dolutegravir.
+
+## 12.5 Pharmacogenomics
+
+UGT1A1 Polymorphism
+
+There is no evidence that common UGT1A1 polymorphisms alter raltegravir pharmacokinetics to a clinically meaningful extent.
+In a comparison of 30 adult subjects with *28/*28 genotype (associated with reduced activity of UGT1A1) to 27 adult subjects with wild-type genotype, the geometric mean ratio (90% CI) of AUC was 1.41 (0.96, 2.09).
