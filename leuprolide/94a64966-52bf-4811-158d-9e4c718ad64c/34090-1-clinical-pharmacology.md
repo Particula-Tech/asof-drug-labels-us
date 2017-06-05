@@ -15,15 +15,15 @@ Leuprolide acetate is not active when given orally.
 
 ## Pharmacokinetics
 
-### Absorption
+Absorption
 
 Bioavailability by subcutaneous administration is comparable to that by intravenous administration.
 
-### Distribution
+Distribution
 
 The mean steady-state volume of distribution of leuprolide following intravenous bolus administration to healthy male volunteers was 27 L. In vitro binding to human plasma proteins ranged from 43% to 49%.
 
-### Metabolism
+Metabolism
 
 In healthy male volunteers, a 1 mg bolus of leuprolide administered intravenously revealed that the mean systemic clearance was 7.6 L/h, with a terminal elimination half-life of approximately 3 hours based on a two compartment model.
 In rats and dogs, administration of 14C-labeled leuprolide was shown to be metabolized to smaller inactive peptides, a pentapeptide (Metabolite I), tripeptides (Metabolites II and III) and a dipeptide (Metabolite IV).
@@ -32,15 +32,15 @@ These fragments may be further catabolized.
 The major metabolite (M-I) plasma concentrations measured in 5 prostate cancer patients reached maximum concentration 2 to 6 hours after dosing and were approximately 6% of the peak parent drug concentration.
 One week after dosing, mean plasma M-I concentrations were approximately 20% of mean leuprolide concentrations.
 
-### Excretion
+Excretion
 
 Following administration of LUPRON DEPOT 3.75 mg to 3 patients, less than 5% of the dose was recovered as parent and M-I metabolite in the urine.
 
-### Special Populations
+Special Populations
 
 The pharmacokinetics of the drug in hepatically and renally impaired patients has not been determined.
 
-### Drug Interactions
+Drug Interactions
 
 No pharmacokinetic-based drug-drug interaction studies have been conducted with leuprolide acetate.
 However, because leuprolide acetate is a peptide that is primarily degraded by peptidase and not by cytochrome P-450 enzymes as noted in specific studies, and the drug is only about 46% bound to plasma proteins, drug interactions would not be expected to occur.

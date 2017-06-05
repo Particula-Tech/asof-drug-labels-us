@@ -74,7 +74,7 @@ Localized reactions including induration and abscess have been reported at the s
 
 Symptoms consistent with fibromyalgia (e.g., joint and muscle pain, headaches, sleep disorders, gastrointestinal distress, and shortness of breath) have been reported individually and collectively.
 
-Cardiovascular System – Hypotension, Myocardial infarction; Endocrine System - Diabetes; Gastrointestinal System – Hepatic dysfunction; Hemic and Lymphatic System – Decreased WBC; Integumentary System – Hair growth; Central/Peripheral Nervous System – Convulsion, Spinal fracture/paralysis, Hearing disorder; Miscellaneous – Hard nodule in throat, Weight gain, Increased uric acid; Musculoskeletal System – Tenosynovitis-like symptoms; Respiratory System – Respiratory disorders.
+Cardiovascular System - Hypotension, Myocardial infarction; Endocrine System - Diabetes; Gastrointestinal System - Hepatic dysfunction; Hemic and Lymphatic System - Decreased WBC; Integumentary System - Hair growth; Central/Peripheral Nervous System - Convulsion, Spinal fracture/paralysis, Hearing disorder; Miscellaneous - Hard nodule in throat, Weight gain, Increased uric acid; Musculoskeletal System - Tenosynovitis-like symptoms; Respiratory System - Respiratory disorders.
 
 Changes in Bone Density: Decreased bone density has been reported in the medical literature in men who have had orchiectomy or who have been treated with an LH-RH agonist analog.
 In a clinical trial, 25 men with prostate cancer, 12 of whom had been treated previously with leuprolide acetate for at least six months, underwent bone density studies as a result of pain.
@@ -108,7 +108,7 @@ Reactions considered not drug related are excluded.
 | Integumentary System (Skin and Appendages) |  |  |
 | Acne/Seborrhea | 13 | (3) |
 | Rash Including Erythema Multiforme | 12 | (3) |
-| Nervous System |  |  |
+| Psychiatric System |  |  |
 | Emotional Lability | 19 | (5) |
 | Urogenital System |  |  |
 | Vaginitis/Vaginal Bleeding/Vaginal Discharge | 13 | (3) |
@@ -116,7 +116,7 @@ Reactions considered not drug related are excluded.
 
 In those same studies, the following adverse reactions were reported in less than 2% of the patients.
 
-Body as a Whole – Aggravation of preexisting tumor and decreased vision, Allergic Reaction, Body Odor, Fever, Flu Syndrome, Hypertrophy, Infection; Cardiovascular System – Bradycardia, Hypertension, Peripheral Vascular Disorder, Syncope; Digestive System – Constipation, Dyspepsia, Dysphagia, Gingivitis, Increased Appetite, Nausea/Vomiting; Endocrine System - Accelerated Sexual Maturity, Feminization, Goiter; Hemic and Lymphatic System – Purpura; Metabolic and Nutritional Disorders – Growth Retarded, Peripheral Edema, Weight Gain; Musculoskeletal System – Arthralgia, Joint Disorder, Myalgia, Myopathy; Nervous System – Depression, Hyperkinesia, Nervousness, Somnolence; Respiratory System – Asthma, Epistaxis, Pharyngitis, Rhinitis, Sinusitis; Integumentary System (Skin and Appendages) - Alopecia, Hair Disorder, Hirsutism, Leukoderma, Nail Disorder, Skin Hypertrophy; Urogenital System - Cervix Disorder/Neoplasm, Dysmenorrhea, Gynecomastia/Breast Disorders, Menstrual Disorder, Urinary Incontinence.
+Body as a Whole - Aggravation of preexisting tumor and decreased vision, Allergic Reaction, Body Odor, Fever, Flu Syndrome, Hypertrophy, Infection; Cardiovascular System - Bradycardia, Hypertension, Peripheral Vascular Disorder, Syncope; Digestive System - Constipation, Dyspepsia, Dysphagia, Gingivitis, Increased Appetite, Nausea/Vomiting; Endocrine System - Accelerated Sexual Maturity, Feminization, Goiter; Hemic and Lymphatic System - Purpura; Metabolic and Nutritional Disorders - Growth Retarded, Peripheral Edema, Weight Gain; Musculoskeletal System - Arthralgia, Joint Disorder, Myalgia, Myopathy; Nervous System - Hyperkinesia, Somnolence; Psychiatric System - Depression, Nervousness; Respiratory System - Asthma, Epistaxis, Pharyngitis, Rhinitis, Sinusitis; Integumentary System (Skin and Appendages) - Alopecia, Hair Disorder, Hirsutism, Leukoderma, Nail Disorder, Skin Hypertrophy; Urogenital System - Cervix Disorder/Neoplasm, Dysmenorrhea, Gynecomastia/Breast Disorders, Menstrual Disorder, Urinary Incontinence.
 
 Laboratory: The following laboratory events were reported as adverse reactions, antinuclear antibody present and increased sedimentation rate.
 
@@ -129,7 +129,10 @@ Rash, urticaria, and photosensitivity reactions have also been reported.
 Localized reactions including induration and abscess have been reported at the site of injection.
 Symptoms consistent with fibromyalgia (e.g., joint and muscle pain, headaches, sleep disorders, gastrointestinal distress, and shortness of breath) have been reported individually and collectively.
 
-Cardiovascular System – Hypotension, Pulmonary embolism; Gastrointestinal System – Hepatic dysfunction; Hemic and Lymphatic System – Decreased WBC; Integumentary System – Hair growth; Central/Peripheral Nervous System – Peripheral neuropathy, Convulsion, Spinal fracture/paralysis, Hearing disorder; Miscellaneous – Hard nodule in throat, Weight gain, Increased uric acid; Musculoskeletal System – Tenosynovitis-like symptoms; Respiratory System – Respiratory disorders; Urogenital System – Prostate pain.
+Cardiovascular System – Hypotension, Pulmonary embolism; Gastrointestinal System – Hepatic dysfunction; Hemic and Lymphatic System – Decreased WBC; Integumentary System – Hair growth; Psychiatric adverse events: Emotional lability, such as crying, irritability, impatience, anger, and aggression, has been observed with GnRH agonists, including leuprolide acetate (see WARNINGS); Depression, including rare reports of suicidal ideation and attempt, has been reported for GnRH agonists, including leuprolide acetate, in children treated for central precocious puberty.
+Many, but not all, of these patients had a history of psychiatric illness or other comorbidities with an increased risk of depression.
+
+Central/Peripheral Nervous System – Peripheral neuropathy, Convulsion, Spinal fracture/paralysis, Hearing disorder; Miscellaneous – Hard nodule in throat, Weight gain, Increased uric acid; Musculoskeletal System – Tenosynovitis-like symptoms; Respiratory System – Respiratory disorders; Urogenital System – Prostate pain.
 
 Changes in Bone Density: Decreased bone density has been reported in the medical literature in men who have had orchiectomy or who have been treated with an LH-RH agonist analog.
 In a clinical trial, 25 men with prostate cancer, 12 of whom had been treated previously with leuprolide acetate for at least six months, underwent bone density studies as a result of pain.

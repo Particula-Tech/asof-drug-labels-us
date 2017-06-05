@@ -26,6 +26,13 @@ Increased risk of developing myocardial infarction, sudden cardiac death and str
 The risk appears low based on the reported odds ratios, and should be evaluated carefully along with cardiovascular risk factors when determining a treatment for patients with prostate cancer.
 Patients receiving a GnRH agonist should be monitored for symptoms and signs suggestive of development of cardiovascular disease and be managed according to current clinical practice.
 
+## Effect on QT/QTc Interval
+
+Androgen deprivation therapy may prolong the QT/QTc interval.
+Providers should consider whether the benefits of androgen deprivation therapy outweigh the potential risks in patients with congenital long QT syndrome, congestive heart failure, frequent electrolyte abnormalities, and in patients taking drugs known to prolong the QT interval.
+Electrolyte abnormalities should be corrected.
+Consider periodic monitoring of electrocardiograms and electrolytes.
+
 ## Information for Patients
 
 See INFORMATION FOR PATIENTS which appears after the REFERENCE section.
@@ -61,9 +68,9 @@ However, no clinical studies have been conducted with leuprolide acetate to asse
 
 ## Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects
 
-#### Pregnancy Category X
+Pregnancy Category X
 
 (see CONTRAINDICATIONS and WARNINGS sections)
 
@@ -91,6 +98,14 @@ Therefore, the labeling reflects the pharmacokinetics, efficacy and safety of LU
 During the early phase of therapy, gonadotropins and sex steroids rise above baseline because of the natural stimulatory effect of the drug.
 Therefore, an increase in clinical signs and symptoms may be observed (see CLINICAL PHARMACOLOGY section).
 
+Psychiatric events have been reported in patients taking GnRH agonists, including leuprolide acetate.
+Postmarketing reports with this class of drugs include symptoms of emotional lability, such as crying, irritability, impatience, anger, and aggression.
+Monitor for development or worsening of psychiatric symptoms during treatment with LUPRON (see ADVERSE REACTIONS).
+
+Postmarketing reports of convulsions have been observed in patients receiving GnRH agonists, including leuprolide acetate.
+These have included patients with a history of seizures, epilepsy, cerebrovascular disorders, central nervous system anomalies or tumors, and patients on concomitant medications that have been associated with convulsions such as bupropion and SSRIs.
+Convulsions have also been reported in patients in the absence of any of the conditions mentioned above.
+
 Noncompliance with drug regimen or inadequate dosing may result in inadequate control of the pubertal process.
 The consequences of poor control include the return of pubertal signs such as menses, breast development, and testicular growth.
 The long-term consequences of inadequate control of gonadal steroid secretion are unknown, but may include a further compromise of adult stature.
@@ -99,7 +114,7 @@ The long-term consequences of inadequate control of gonadal steroid secretion ar
 
 Patients with known allergies to benzyl alcohol, an ingredient of the vehicle of LUPRON INJECTION, may present symptoms of hypersensitivity, usually local, in the form of erythema and induration at the injection site.
 
-## Information for Parents
+## Information for Caregivers
 
 Prior to starting therapy with LUPRON INJECTION, the parent or guardian must be aware of the importance of continuous therapy.
 Adherence to daily drug administration schedules must be accepted if therapy is to be successful.
@@ -110,6 +125,10 @@ Irregular dosing could restart the maturation process.
 - Any irritation at the injection site should be reported to the physician immediately.
   If the child has experienced an allergic reaction to other drugs like LUPRON, this drug should not be used.
 - Report any unusual signs or symptoms to the physician, like continued pubertal changes, substantial mood swings or behavioral changes.
+- Inform caregivers that symptoms of emotional lability, such as crying, irritability, impatience, anger and aggression, have been observed in patients receiving GnRH agonists, including leuprolide acetate.
+  Alert caregivers to the possibility of development or worsening of psychiatric symptoms, including depression, during treatment with LUPRON (see WARNINGS and ADVERSE REACTIONS).
+- Inform caregivers that reports of convulsions have been observed in patients receiving GnRH agonists, including leuprolide acetate.
+  Patients with a history of seizures, epilepsy, cerebrovascular disorders, central nervous system anomalies or tumors, and patients on concomitant medications that have been associated with convulsions may be at increased risk (see WARNINGS).
 
 ## Laboratory Tests
 

@@ -74,32 +74,115 @@ SOME SPECIAL ADVICE
 - Do not leave your drug or hypodermic syringes where anyone can pick them up.
 - Keep this and all other medications out of reach of children.
 
-# ADMINISTERING THE INJECTION
+Manufactured for AbbVie Inc. North Chicago, IL 60064, U.S.A.
 
-1. Wash hands thoroughly.
-2. Check the liquid in the container.
-   It should look clear.
-   DO NOT USE if it is not clear or if it has particles in it.
-   If using a new bottle, flip off the plastic cover to expose the grey rubber stopper.
-   Use an alcohol swab to cleanse the metal ring and rubber stopper on medication bottle every day, just before you use it.
-3. Remove outer wrapping from one syringe.
-4. Pull the syringe plunger back until its tip is at the proper mark.
-5. Uncover needle.
-   Do not touch the needle.
-6. Place the bottle on a clean, flat surface and push the needle through the center of the rubber stopper on the bottle.
-   Push the plunger all the way in to inject air into the bottle.
-7. Keep the needle in the bottle.
-   Lift the bottle and turn it straight upside down.
-   Check to see that the needle tip is in the liquid.
-8. With the needle tip in the liquid, slowly pull back the plunger until syringe fills to the proper mark.
-   If any bubbles appear in the syringe, remove them by pushing the plunger up slowly.
-   With the needle tip still in the liquid, pull the plunger until it is once more at the proper mark.
-9. Choose a different injection site each day.
-   Cleanse the injection site with a new alcohol swab.
-   Hold the skin the way you were instructed.
-   Slide the needle quickly all the way through the skin, into the subcutaneous tissue, at a 90° angle.
-10. Push the plunger to inject the medication.
-    Withdraw the needle at the same angle it was inserted (90°).
-    Wipe the skin with an alcohol swab.
-11. Dispose of the syringe and alcohol swabs as you were instructed.
-    Remember: use the disposable syringe only once.
+Rev.
+05/2017
+
+INSTRUCTIONS FOR USE
+
+LUPRON INJECTION (loo-proninˈjekSH(ə)n)
+
+(leuprolide acetate)
+
+Read the Instructions for Use before you start using LUPRON INJECTION and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to your doctor about your medical condition or your treatment.
+Your doctor should show you how to draw up LUPRON INJECTION and give the injection the right way before you inject the first time.
+
+Do not share your syringes with other people, even if the needle has been changed.
+You may give other people a serious infection or get a serious infection from them.
+
+Supplies you will need for the LUPRON INJECTION:
+
+- 1 vial of LUPRON INJECTION
+- a sterile 1 ml syringe (See Figure A)
+- a 27 gauge, ½ inch sterile needle
+- 1 cotton gauze
+- 2 alcohol swabs
+- 1 puncture resistant sharps container (See “Disposal of used syringes, needles, and vials”)
+
+Preparing the LUPRON INJECTION
+
+Step 1.
+
+Wash hands thoroughly (See Figure B) and dry them with a clean towel.
+
+Step 2.
+
+- Check the liquid in the container.
+  It should look clear.
+  Do not use if it is not clear or if it has particles in it.
+- If using a new vial, flip off the plastic cover to expose the grey rubber stopper.
+- Use an alcohol swab to clean the metal ring and the grey rubber stopper on the medicine vial every day, just before you use it (See Figure C).
+
+Step 3.
+
+Remove outer wrapping from 1 syringe(See Figure D).
+
+Step 4.
+
+- Remove outer wrapping from 1 needle.
+- Place needle on top of syringe and turn it forward (clockwise) until it is tight and firmly attached (See Figure E).
+
+Step 5.
+
+Pull the syringe plunger back until the tip is at the proper mark for the prescribed dose (See Figure F).
+
+Step 6.
+
+Uncover needle by pulling the cap straight off (See Figure G). Do not touch the needle.
+
+Step 7.
+
+- Place the vial on a clean flat surface.
+- Push the needle through the center of the rubber stopper on the vial (See Figure H).
+- Push the plunger all the way in to inject air into the vial.
+
+Step 8.
+
+- Keep the needle in the vial.
+- Lift the vial and turn it straight upside down.
+- Check to see that the needle tip is in the liquid (See Figure I).
+
+Step 9.
+
+- With the needle tip still in the liquid, slowly pull back the plunger until syringe fills to the proper mark (See Figure J).
+- If any bubbles appear in the syringe, remove them by pushing the plunger up slowly.
+
+Giving LUPRON INJECTION
+
+Step 10.
+
+- Choose a different injection site each day.
+- Clean the injection site with a new alcohol swab.
+- Hold the skin fold between your thumb and your index finger or as you were instructed by your doctor.
+- Insert the needle straight into the skin quickly, as shown by your doctor in a 90° angle (See Figure K).
+- Push the plunger to inject the medicine.
+
+Step 11.
+
+- Remove the needle at the same angle it was inserted (90°) (See Figure L).
+- Wipe the skin with a cotton gauze.
+
+Disposal of used needles, syringes, and vials
+
+Step 12.
+
+- Put the used needles, syringes, and vials in a FDA‑cleared sharps disposal container right away after use (See Figure M). Do not throw away (dispose of) loose needles, syringes, or vials in your household trash.
+- If you do not have a FDA‑cleared sharps disposal container, you may use a household container that is:
+  - made of a heavy‑duty plastic,
+  - can be closed with a tight‑fitting, puncture‑resistant lid, without sharps being able to come out,
+  - upright and stable during use,
+  - leak‑resistant, and
+  - properly labeled to warn of hazardous waste inside the container.
+- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles, syringes, and vials.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+- Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
+
+AbbVie Inc. North Chicago, IL 60064, U.S.A.
+
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Revised: May, 2017 |
+| --- | --- |
