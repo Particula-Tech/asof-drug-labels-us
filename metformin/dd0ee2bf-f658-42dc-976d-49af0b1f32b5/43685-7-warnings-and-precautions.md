@@ -4,95 +4,109 @@
 
 ## General
 
-### Macrovascular Outcomes
+### • Lactic acidosis
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with metformin or any other antidiabetic drug.
+There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases.
+These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
+Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (> 5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate: pyruvate ratio; metformin plasma levels were generally > 5 mcg/mL.
+Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
-### Monitoring of renal function
+If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of metformin hydrochloride extended-release tablets.
+In metformin hydrochloride extended-release tablets treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable with a clearance of up to 170 mL/min under good hemodynamic conditions).
+Hemodialysis has often resulted in reversal of symptoms and recovery.
 
-Metformin is known to be substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of impairment of renal function.
-Thus, patients with serum creatinine levels above the upper limit of normal for their age should not receive metformin.
-In patients with advanced age, metformin should be carefully titrated to establish the minimum dose for adequate glycemic effect, because aging is associated with reduced renal function.
-In elderly patients, particularly those ≥ 80 years of age, renal function should be monitored regularly and, generally, metformin should not be titrated to the maximum dose (see WARNINGS and DOSAGE AND ADMINISTRATION).
+Educate patients and their families about the symptoms of lactic acidosis and, if these symptoms occur, instruct them to discontinue metformin hydrochloride extended-release tablets and report these symptoms to their healthcare provider.
 
-Before initiation of metformin therapy and at least annually thereafter, renal function should be assessed and verified as normal.
-In patients in whom development of renal dysfunction is anticipated, renal function should be assessed more frequently and metformin discontinued if evidence of renal impairment is present.
+For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
-### Use of concomitant medications that may affect renal function or metformin disposition
+### • Renal impairment
 
-Concomitant medication(s) that may affect renal function or result in significant hemodynamic change or may interfere with the disposition of metformin, such as cationic drugs that are eliminated by renal tubular secretion (see PRECAUTIONS: Drug Interactions), should be used with caution.
+The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
 
-### Radiologic studies involving the use of intravascular iodinated contrast materials (for example, intravenous urogram, intravenous cholangiography, angiography, and computed tomography (CT) scans with intravascular contrast materials)
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
+Clinical recommendations based upon the patient's renal function include (see DOSAGE AND ADMINISTRATION, CLINICAL PHARMACOLOGY):
 
-Intravascular contrast studies with iodinated materials can lead to acute alteration of renal function and have been associated with lactic acidosis in patients receiving metformin (see CONTRAINDICATIONS).
-Therefore, in patients in whom any such study is planned, metformin should be temporarily discontinued at the time of or prior to the procedure, and withheld for 48 hours subsequent to the procedure and reinstituted only after renal function has been re-evaluated and found to be normal.
+- Before initiating metformin hydrochloride extended-release tablets, obtain an estimated glomerular filtration rate (eGFR)
+- Metformin hydrochloride extended-release tablets are contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 (see CONTRAINDICATIONS).
+- Initiation of metformin hydrochloride extended-release tablets is not recommended in patients with eGFR between 30 to 45 mL/min/1.73 m2.
+- Obtain an eGFR at least annually in all patients taking metformin hydrochloride extended-release tablets.
+  In patients at risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
+- In patients taking metformin hydrochloride extended-release tablets whose eGFR falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy.
 
-### Hypoxic states
+### • Drug interactions
 
-Cardiovascular collapse (shock) from whatever cause, acute congestive heart failure, acute myocardial infarction and other conditions characterized by hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia.
-When such events occur in patients on metformin therapy, the drug should be promptly discontinued.
+The concomitant use of metformin hydrochloride extended-release tablets with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance, or increase metformin accumulation.
+Consider more frequent monitoring of patients.
 
-### Surgical procedures
+### • Age 65 or greater
 
-Metformin therapy should be temporarily suspended for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and should not be restarted until the patient's oral intake has resumed and renal function has been evaluated as normal.
+The risk of metformin-associated lactic acidosis increases with the patient's age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
+Assess renal function more frequently in elderly patients.
 
-### Alcohol intake
+### • Radiologic studies with contrast
+
+Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis.
+Stop metformin hydrochloride extended-release tablets at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of hepatic impairment, alcoholism or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Re-evaluate eGFR 48 hours after the imaging procedure, and restart metformin hydrochloride extended-release tablets if renal function is stable.
+
+### • Surgery and other procedures
+
+Withholding of food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension, and renal impairment.
+Metformin hydrochloride extended-release tablets should be temporarily discontinued while patients have restricted food and fluid intake.
+
+### • Hypoxic states
+
+Several of the postmarketing cases of metformin-associated lactic acidosis occurred in the setting of acute congestive heart failure (particularly when accompanied by hypoperfusion and hypoxemia).
+Cardiovascular collapse (shock), acute myocardial infarction, sepsis, and other conditions associated with hypoxemia have been associated with lactic acidosis and may cause prerenal azotemia.
+When such an event occurs, discontinue metformin hydrochloride extended-release tablets.
+
+### • Excessive alcohol intake
 
 Alcohol is known to potentiate the effect of metformin on lactate metabolism.
-Patients, therefore, should be warned against excessive alcohol intake, acute or chronic, while receiving metformin.
+Patients, therefore, should be warned against excessive alcohol intake, acute or chronic, while receiving metformin hydrochloride extended-release tablets.
 
-### Impaired hepatic function
+### • Hepatic impairment
 
-Since impaired hepatic function has been associated with some cases of lactic acidosis, metformin should generally be avoided in patients with clinical or laboratory evidence of hepatic disease.
+Patients with hepatic impairment have developed cases of metformin-associated lactic acidosis.
+This may be due to impaired lactate clearance resulting in higher lactate blood levels.
+Therefore, avoid use of metformin hydrochloride extended-release tablets in patients with clinical or laboratory evidence of hepatic disease.
 
 ### Vitamin B12 levels
 
-In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
-Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
-Measurement of hematologic parameters on an annual basis is advised in patients on metformin and any apparent abnormalities should be appropriately investigated and managed (see PRECAUTIONS: Laboratory Tests).
+In controlled clinical trials of metformin hydrochloride tablets of 29 weeks duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
+Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin hydrochloride tablets or vitamin B12 supplementation.
+Measurement of hematologic parameters on an annual basis is advised in patients on metformin hydrochloride extended-release tablets and any apparent abnormalities should be appropriately investigated and managed (see PRECAUTIONS: Laboratory Tests).
 
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurements at 2- to 3-year intervals may be useful.
 
-### Change in clinical status of patients with previously controlled type 2 diabetes
-
-A patient with type 2 diabetes previously well controlled on metformin who develops laboratory abnormalities or clinical illness (especially vague and poorly defined illness) should be evaluated promptly for evidence of ketoacidosis or lactic acidosis.
-Evaluation should include serum electrolytes and ketones, blood glucose and, if indicated, blood pH, lactate, pyruvate, and metformin levels.
-If acidosis of either form occurs, metformin must be stopped immediately and other appropriate corrective measures initiated (see also WARNINGS).
-
 ### Hypoglycemia
 
-Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as sulfonylureas and insulin) or ethanol.
+Hypoglycemia does not occur in patients receiving metformin hydrochloride extended-release tablets alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as sulfonylureas and insulin) or ethanol.
 
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking beta-adrenergic blocking drugs.
 
-### Loss of control of blood glucose
+### Macrovascular outcomes
 
-When a patient stabilized on any diabetic regimen is exposed to stress such as fever, trauma, infection, or surgery, a temporary loss of glycemic control may occur.
-At such times, it may be necessary to withhold metformin and temporarily administer insulin.
-Metformin may be reinstituted after the acute episode is resolved.
-
-The effectiveness of oral antidiabetic drugs in lowering blood glucose to a targeted level decreases in many patients over a period of time.
-This phenomenon, which may be due to progression of the underlying disease or to diminished responsiveness to the drug, is known as secondary failure, to distinguish it from primary failure in which the drug is ineffective during initial therapy.
-Should secondary failure occur either with metformin or sulfonylurea monotherapy, combined therapy with metformin and sulfonylurea may result in a response.
-Should secondary failure occur with combined metformin/sulfonylurea therapy, it may be necessary to consider therapeutic alternatives including initiation of insulin therapy.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with metformin hydrochloride extended-release tablets or any other antidiabetic drug.
 
 ## Information for Patients
 
-Patients should be informed of the potential risks and benefits of metformin and of alternative modes of therapy.
+Patients should be informed of the potential risks and benefits of metformin hydrochloride extended-release tablets and of alternative modes of therapy.
 They should also be informed about the importance of adherence to dietary instructions, of a regular exercise program, and of regular testing of blood glucose, glycosylated hemoglobin, renal function, and hematologic parameters.
 
 The risks of lactic acidosis, its symptoms, and conditions that predispose to its development, as noted in the WARNINGS and PRECAUTIONS sections, should be explained to patients.
-Patients should be advised to discontinue metformin immediately and to promptly notify their health practitioner if unexplained hyperventilation, myalgia, malaise, unusual somnolence, or other nonspecific symptoms occur.
-Once a patient is stabilized on any dose level of metformin, gastrointestinal symptoms, which are common during initiation of metformin therapy, are unlikely to be drug related.
+Patients should be advised to discontinue metformin hydrochloride extended-release tablets immediately and to promptly notify their health practitioner if unexplained hyperventilation, myalgia, malaise, unusual somnolence, or other nonspecific symptoms occur.
+Once a patient is stabilized on any dose level of metformin hydrochloride extended-release tablets, gastrointestinal symptoms, which are common during initiation of metformin therapy, are unlikely to be drug related.
 Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
 
-Patients should be counselled against excessive alcohol intake, either acute or chronic, while receiving metformin.
+Patients should be counselled against excessive alcohol intake, either acute or chronic, while receiving metformin hydrochloride extended-release tablets.
 
-Metformin alone do not usually cause hypoglycemia, although it may occur when metformin is used in conjunction with oral sulfonylureas and insulin.
+Metformin hydrochloride extended-release tablets alone do not usually cause hypoglycemia, although it may occur when metformin hydrochloride extended-release tablets are used in conjunction with oral sulfonylureas and insulin.
 When initiating combination therapy, the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development should be explained to patients and responsible family members.
 (See Patient Information printed below.)
+
 Patients should be informed that metformin hydrochloride extended-release tablets must be swallowed whole and not crushed or chewed, and that the inactive ingredients may occasionally be eliminated in the feces as a soft mass that may resemble the original tablet.
 
 ## Laboratory Tests
@@ -105,13 +119,15 @@ Measurements of glycosylated hemoglobin may be especially useful for evaluating 
 Initial and periodic monitoring of hematologic parameters (e.g., hemoglobin/hematocrit and red blood cell indices) and renal function (serum creatinine) should be performed, at least on an annual basis.
 While megaloblastic anemia has rarely been seen with metformin therapy, if this is suspected, vitamin B12 deficiency should be excluded.
 
-## Drug Interactions (Clinical Evaluation of Drug Interactions Conducted with Metformin)
+Instruct patients to inform their doctor that they are taking metformin hydrochloride extended-release tablets prior to any surgical or radiological procedure, as temporary discontinuation of metformin hydrochloride extended-release tablets may be required until renal function has been confirmed to be normal (see PRECAUTIONS).
+
+## Drug Interactions (Clinical Evaluation of Drug Interactions Conducted with Metformin Hydrochloride Tablets)
 
 ### Glyburide
 
 In a single-dose interaction study in type 2 diabetes patients, coadministration of metformin and glyburide did not result in any changes in either metformin pharmacokinetics or pharmacodynamics.
 Decreases in glyburide AUC and Cmax were observed, but were highly variable.
-The single-dose nature of this study and the lack of correlation between glyburide blood levels and pharmacodynamic effects, makes the clinical significance of this interaction uncertain (see DOSAGE AND ADMINISTRATION: Concomitant Metformin and Oral Sulfonylurea Therapy in Adult Patients).
+The single-dose nature of this study and the lack of correlation between glyburide blood levels and pharmacodynamic effects, makes the clinical significance of this interaction uncertain (see DOSAGE AND ADMINISTRATION: Concomitant Metformin Hydrochloride Extended-Release Tablets and Oral Sulfonylurea Therapy in Adult Patients).
 
 ### Furosemide
 
@@ -127,24 +143,35 @@ Tmax and half-life were unaffected.
 Nifedipine appears to enhance the absorption of metformin.
 Metformin had minimal effects on nifedipine.
 
-### Cationic drugs
+### Drugs that reduce metformin clearance
 
-Cationic drugs (e.g., amiloride, digoxin, morphine, procainamide, quinidine, quinine, ranitidine, triamterene, trimethoprim, or vancomycin) that are eliminated by renal tubular secretion theoretically have the potential for interaction with metformin by competing for common renal tubular transport systems.
+Concomitant use of drugs that interfere with common renal tubular transport systems involved in the renal elimination of metformin (e.g., organic cationic transporter-2 [OCT2] / multidrug and toxin extrusion [MATE] inhibitors such as ranolazine, vandetanib, dolutegravir, and cimetidine) could increase systemic exposure to metformin and may increase the risk for lactic acidosis.
+Consider the benefits and risks of concomitant use.
 Such interaction between metformin and oral cimetidine has been observed in normal healthy volunteers in both single- and multiple-dose, metformin-cimetidine drug interaction studies, with a 60% increase in peak metformin plasma and whole blood concentrations and a 40% increase in plasma and whole blood metformin AUC.
 There was no change in elimination half-life in the single-dose study.
 Metformin had no effect on cimetidine pharmacokinetics.
-Although such interactions remain theoretical (except for cimetidine), careful patient monitoring and dose adjustment of metformin and/or the interfering drug is recommended in patients who are taking cationic medications that are excreted via the proximal renal tubular secretory system.
+
+In healthy volunteers, the pharmacokinetics of metformin and propranolol, and metformin and ibuprofen were not affected when coadministered in single-dose interaction studies.
+
+Metformin is negligibly bound to plasma proteins and is, therefore, less likely to interact with highly protein-bound drugs such as salicylates, sulfonamides, chloramphenicol, and probenecid, as compared to the sulfonylureas, which are extensively bound to serum proteins.
 
 ### Other
 
 Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control.
 These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs, and isoniazid.
-When such drugs are administered to a patient receiving metformin, the patient should be closely observed for loss of blood glucose control.
-When such drugs are withdrawn from a patient receiving metformin, the patient should be observed closely for hypoglycemia.
+When such drugs are administered to a patient receiving metformin hydrochloride extended-release tablets, the patient should be closely observed for loss of blood glucose control.
+When such drugs are withdrawn from a patient receiving metformin hydrochloride extended-release tablets, the patient should be observed closely for hypoglycemia.
 
-In healthy volunteers, the pharmacokinetics of metformin and propranolol, and metformin and ibuprofen were not affected when coadministered in single-dose interaction studies.
+### Carbonic anhydrase inhibitors
 
-Metformin is negligibly bound to plasma proteins and is, therefore, less likely to interact with highly protein-bound drugs such as salicylates, sulfonamides, chloramphenicol, and probenecid, as compared to the sulfonylureas, which are extensively bound to serum proteins.
+Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently cause a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
+Concomitant use of these drugs with metformin hydrochloride extended-release tablets may increase the risk for lactic acidosis.
+Consider more frequent monitoring of these patients.
+
+### Alcohol
+
+Alcohol is known to potentiate the effect of metformin on lactate metabolism.
+Warn patients against excessive alcohol intake while receiving metformin hydrochloride extended-release tablets.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -167,9 +194,9 @@ Fertility of male or female rats was unaffected by metformin when administered a
 
 Recent information strongly suggests that abnormal blood glucose levels during pregnancy are associated with a higher incidence of congenital abnormalities.
 Most experts recommend that insulin be used during pregnancy to maintain blood glucose levels as close to normal as possible.
-Because animal reproduction studies are not always predictive of human response, metformin should not be used during pregnancy unless clearly needed.
+Because animal reproduction studies are not always predictive of human response, metformin hydrochloride extended-release tablets should not be used during pregnancy unless clearly needed.
 
-There are no adequate and well-controlled studies in pregnant women with metformin.
+There are no adequate and well-controlled studies in pregnant women with metformin hydrochloride extended-release tablets.
 Metformin was not teratogenic in rats and rabbits at doses up to 600 mg/kg/day.
 This represents an exposure of about 2 and 6 times the maximum recommended human daily dose of 2,000 mg based on body surface area comparisons for rats and rabbits, respectively.
 Determination of fetal concentrations demonstrated a partial placental barrier to metformin.
@@ -179,7 +206,7 @@ Determination of fetal concentrations demonstrated a partial placental barrier t
 Studies in lactating rats show that metformin is excreted into milk and reaches levels comparable to those in plasma.
 Similar studies have not been conducted in nursing mothers.
 Because the potential for hypoglycemia in nursing infants may exist, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-If metformin is discontinued, and if diet alone is inadequate for controlling blood glucose, insulin therapy should be considered.
+If metformin hydrochloride extended-release tablets are discontinued, and if diet alone is inadequate for controlling blood glucose, insulin therapy should be considered.
 
 ## Pediatric Use
 
@@ -187,8 +214,7 @@ Safety and effectiveness of metformin hydrochloride extended-release tablets in 
 
 ## Geriatric Use
 
-Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-Metformin is known to be substantially excreted by the kidney and because the risk of serious adverse reactions to the drug is greater in patients with impaired renal function, metformin should only be used in patients with normal renal function (see CONTRAINDICATIONS, WARNINGS, and CLINICAL PHARMACOLOGY: Pharmacokinetics).
-Because aging is associated with reduced renal function, metformin should be used with caution as age increases.
-Care should be taken in dose selection and should be based on careful and regular monitoring of renal function.
-Generally, elderly patients should not be titrated to the maximum dose of metformin (see also WARNINGS and DOSAGE AND ADMINISTRATION).
+Controlled clinical studies of metformin hydrochloride extended-release tablets did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
+Assess renal function more frequently in elderly patients (see WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
