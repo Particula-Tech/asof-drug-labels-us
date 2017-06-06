@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-Desloratadine Tablets, 5 mg are light blue, circular, biconvex, film-coated tablets debossed "LU" on one side and "S71" on other side, containing 5 mg desloratadine, an antihistamine, to be administered orally.
-Desloratadine Tablets also contain the following excipients: anhydrous lactose, colloidal silicon dioxide, FD&C Blue#2/Indigo Carmine Aluminium Lake, hydrogenated vegetable oil, hypromellose, microcrystalline cellulose, polyethylene glycol, pregelatinised starch and titanium dioxide.
+Desloratadine tablets USP, 5 mg are light blue, circular, biconvex, film-coated tablets debossed "LU" on one side and "S71" on other side, containing 5 mg desloratadine, an antihistamine, to be administered orally.
+Desloratadine tablets USP also contain the following excipients: anhydrous lactose, colloidal silicon dioxide, FD&C Blue#2/Indigo Carmine Aluminium Lake, hydrogenated vegetable oil, hypromellose, microcrystalline cellulose, polyethylene glycol, pregelatinised starch and titanium dioxide.
 
 Desloratadine is a white to off-white crystalline powder that is freely soluble in dichloromethane and in methanol.
 It has an empirical formula: C19H19ClN2 and a molecular weight of 310.8.

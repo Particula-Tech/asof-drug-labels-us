@@ -2,7 +2,7 @@ PATIENT INFORMATION LEAFLET
 
 DESLORATADINE (DES-lor-A-ta-deen)
 
-TABLETS
+TABLETS USP
 
 Rx only
 
@@ -145,4 +145,4 @@ Goa 403 722
 
 INDIA
 
-Revised: June 2015 ID#: 241268
+Revised: May 2017 ID#: 251572

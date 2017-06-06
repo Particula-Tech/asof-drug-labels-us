@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Desloratadine Tablets, 5 mg are light blue, circular, biconvex, film-coated tablets, debossed "LU" on one side and "S71" on other side.
+Desloratadine tablets USP, 5 mg are light blue, circular, biconvex, film-coated tablets, debossed "LU" on one side and "S71" on other side.
 They are supplied as follows:
 
 NDC 68180-153-06 Bottles of 30
