@@ -1,9 +1,7 @@
 Rx only
 
-Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1
+Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
 
-Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
+Revised: March, 2014
 
-Revised: June, 2005
-
-PK-2925-3 221
+PK-2925-4 354
