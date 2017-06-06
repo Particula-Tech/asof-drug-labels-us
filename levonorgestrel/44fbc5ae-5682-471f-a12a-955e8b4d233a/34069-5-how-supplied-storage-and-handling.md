@@ -8,3 +8,16 @@ Levonorgestrel and ethinyl estradiol tablets USP (0.09 mg levonorgestrel USP and
 Store at 20o to 25oC (68° to 77oF); excursions permitted to 15º to 30oC (59º to 86oF) [See USP controlled room temperature].
 
 References available upon request.
+
+Manufactured by:
+
+Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
+
+Manufactured for:
+
+Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+
+Questions?
+1 (888)721-7115 www.glenmarkpharma.com/usa
+
+May 2017

@@ -35,3 +35,5 @@ Hepatic adenomas or carcinomas, or active liver disease
 Known or suspected pregnancy
 
 Hypersensitivity to any of the components of levonorgestrel and ethinyl estradiol.
+
+Are receiving Hepatitis C drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to the potential for ALT elevations (see Warnings, RISK OF LIVER ENZYME ELEVATIONS WITH CONCOMITANT HEPATITIS C TREATMENT).

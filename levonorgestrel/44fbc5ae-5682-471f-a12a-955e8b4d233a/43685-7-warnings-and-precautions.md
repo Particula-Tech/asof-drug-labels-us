@@ -157,6 +157,12 @@ Rupture of rare, benign, hepatic adenomas may cause death through intra-abdomina
 Studies from Britain have shown an increased risk of developing hepatocellular carcinoma in long-term (>8 years) oral contraceptive user.
 However, these cancers are extremely rare in the U.S. and the attributable risk (the excess incidence) of liver cancers in oral contraceptive users approaches less than one per million users.
 
+### RISK OF LIVER ENZYME ELEVATIONS WITH CONCOMITANT HEPATITIS C TREATMENT
+
+During clinical trials with the Hepatitis C combination drug regimen that contains ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, ALT elevations greater than 5 times the upper limit of normal (ULN), including some cases greater than 20 times the ULN, were significantly more frequent in women using ethinyl estradiol-containing medications such as COCs.
+Discontinue levonorgestrel and ethinyl estradiol prior to starting therapy with the combination drug regimen ombitasvir/paritaprevir/ritonavir, with or without dasabuvir [see Contraindications (4)].
+Levonorgestrel and ethinyl estradiol can be restarted approximately 2 weeks following completion of treatment with the combination drug regimen.
+
 ## 5. Ocular Lesions
 
 There have been clinical case reports of retinal thrombosis associated with the use of oral contraceptives that may lead to partial or complete loss of vision.
@@ -314,6 +320,10 @@ Increased plasma concentrations of cyclosporine, prednisolone and other corticos
 Decreased plasma concentrations of acetaminophen and lamotrigine, and increased clearance of temazepam, salicylic acid, morphine, and clofibric acid, due to induction of conjugation (particularly glucuronidation), have been noted when these drugs were administered with oral contraceptives.
 
 The prescribing information of concomitant medications should be consulted to identify potential interactions.
+
+Concomitant Use with HCV Combination Therapy - Liver Enzyme Elevation
+
+Do not co-administer levonorgestrel and ethinyl estradiol with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations (see Warnings, RISK OF LIVER ENZYME ELEVATIONS WITH CONCOMITANT HEPATITIS C TREATMENT).
 
 ## 10. Interactions with Laboratory Tests
 

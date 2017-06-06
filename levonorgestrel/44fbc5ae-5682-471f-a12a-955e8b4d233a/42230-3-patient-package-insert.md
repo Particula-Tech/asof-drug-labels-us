@@ -50,14 +50,16 @@ For example, you should not take the pill if you have any of the following condi
 6. •Known or suspected breast cancer or cancer of the lining of the uterus, cervix or vagina, or certain hormonally-sensitive cancers.
 7. •Unexplained vaginal bleeding (until a diagnosis is reached by your health care professional).
 8. •Liver tumor (benign or cancerous) or active liver disease.
-9. •Yellowing of the whites of the eyes or of the skin (jaundice) during pregnancy or during previous use of the pill.
-10. •Known or suspected pregnancy.
-11. •A need for surgery with prolonged bedrest.
-12. •Heart valve or heart rhythm disorders that may be associated with formation of blood clots.
-13. •Diabetes affecting your circulation.
-14. •Headaches with neurological symptoms such as aura.
-15. •Uncontrolled high blood pressure.
-16. •Allergy or hypersensitivity to any of the components of levonorgestrel and ethinyl estradiol tablets
+9. •Take any Hepatitis C drug combination containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir.
+   This may increase levels of the liver enzyme "alanine aminotransferase" (ALT) in the blood.
+10. •Yellowing of the whites of the eyes or of the skin (jaundice) during pregnancy or during previous use of the pill.
+11. •Known or suspected pregnancy.
+12. •A need for surgery with prolonged bedrest.
+13. •Heart valve or heart rhythm disorders that may be associated with formation of blood clots.
+14. •Diabetes affecting your circulation.
+15. •Headaches with neurological symptoms such as aura.
+16. •Uncontrolled high blood pressure.
+17. •Allergy or hypersensitivity to any of the components of levonorgestrel and ethinyl estradiol tablets
 
 Tell your health care professional if you have had any of these conditions.
 Your health care professional can recommend another method of birth control.
@@ -457,4 +459,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkpharma.com/usa
 
-June 2016
+May 2017
