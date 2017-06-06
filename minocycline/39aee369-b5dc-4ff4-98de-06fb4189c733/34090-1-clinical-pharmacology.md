@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Following a single dose of two MINOCIN 100 mg pellet-filled capsules administered to 18 normal fasting adult volunteers, maximum serum concentrations were attained in 1 to 4 hours (average 2.1 hours) and ranged from 2.1 to 5.1 mcg/mL (average 3.5 mcg/mL).
+Following a single dose of two MINOCIN 100 mg Pellet-Filled Capsules administered to 18 normal fasting adult volunteers, maximum serum concentrations were attained in 1 to 4 hours (average 2.1 hours) and ranged from 2.1 to 5.1 mcg/mL (average 3.5 mcg/mL).
 The serum half-life in the normal volunteers ranged from 11.1 to 22.1 hours (average 15.5 hours).
 
 When MINOCIN Pellet-Filled Capsules were given concomitantly with a high-fat meal, which included dairy products, the extent of absorption of MINOCIN Pellet-Filled Capsules was unchanged compared to dosing under fasting conditions.

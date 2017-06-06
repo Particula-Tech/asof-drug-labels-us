@@ -28,9 +28,9 @@ If this syndrome is recognized, the drug should be discontinued immediately.
 
 Antianabolic Action
 
-The antianabolic action of the tetracyclines may cause an increase in BUN.
+The antianabolic action of the tetracyclines may cause an increase in blood urea nitrogen (BUN).
 While this is not a problem in those with normal renal function, in patients with significantly impaired function, higher serum levels of tetracycline may lead to azotemia, hyperphosphatemia, and acidosis.
-Under such conditions, monitoring of creatinine and BUN is recommended, and the total daily dosage should not exceed 200 mg in 24 hours (See DOSAGE AND ADMINISTRATION).
+Under such conditions, monitoring of creatinine and BUN is recommended, and the total daily dosage should not exceed 200 mg in 24 hours (see DOSAGE AND ADMINISTRATION).
 If renal impairment exists, even usual oral or parenteral doses may lead to systemic accumulation of the drug and possible liver toxicity.
 
 Photosensitivity
@@ -40,7 +40,7 @@ This has been reported with minocycline.
 
 Central Nervous System
 
-Central nervous system side effects including light-headedness, dizziness, or vertigo have been reported with minocycline therapy.
+Central nervous system side effects including lightheadedness, dizziness, or vertigo have been reported with minocycline therapy.
 Patients who experience these symptoms should be cautioned about driving vehicles or using hazardous machinery while on minocycline therapy.
 These symptoms may disappear during therapy and usually disappear rapidly when the drug is discontinued.
 
@@ -66,6 +66,6 @@ Concomitant use of isotretinoin and MINOCIN should be avoided because isotretino
 
 Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists.
 If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted.
-Since intracranial pressure can remain elevated for weeks after drug cessation patients, should be monitored until they stabilize.
+Since intracranial pressure can remain elevated for weeks after drug cessation, patients should be monitored until they stabilize.
 
 # PRECAUTIONS

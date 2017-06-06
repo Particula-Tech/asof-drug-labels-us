@@ -2,7 +2,7 @@
 
 MINOCIN® [my-no-sin] (minocycline hydrochloride) Pellet-Filled Capsules, 50 mg and 100 mg
 
-Read the Patient Information that comes with MINOCIN® capsules before you or a family member starts taking it and each time you get a refill.
+Read the Patient Information that comes with MINOCIN® Pellet-Filled Capsules before you or a family member starts taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking to your doctor about your medical condition or treatment.
 
@@ -13,7 +13,7 @@ MINOCIN is used to treat certain infections caused by bacteria.
 These include infections of the skin, respiratory tract, urinary tract, some sexually transmitted diseases, and others.
 MINOCIN may be used along with other treatments for severe acne.
 
-Sometimes, other germs, called viruses cause infections.
+Sometimes other germs, called viruses, cause infections.
 The common cold is a virus.
 MINOCIN, like other antibiotics, does not treat viruses.
 
@@ -62,8 +62,8 @@ How should I take MINOCIN capsules?
 
 - •Take MINOCIN capsules exactly as your doctor tells you to take them.
   Skipping doses or not taking all your MINOCIN may:
-  - •Decrease the effectiveness of the treatment
-  - •Increase the chance that bacteria will develop resistance to MINOCIN
+  - oDecrease the effectiveness of the treatment
+  - oIncrease the chance that bacteria will develop resistance to MINOCIN
 - •Take MINOCIN with a full glass of liquid.
   Taking MINOCIN with enough liquid may lower your chance of getting irritation or ulcers in your esophagus.
   Your esophagus is the tube that connects your mouth to your stomach.
@@ -117,31 +117,33 @@ Do not use MINOCIN capsules for a condition for which it was not prescribed.
 Do not give MINOCIN® capsules to other people, even if they have the same symptoms you have.
 It may harm them.
 
-This Patient Information leaflet summarizes the most important information about MINOCIN®.
+This Patient Information leaflet summarizes the most important information about MINOCIN.
 
 If you would like more information, talk with your doctor.
 
-Your doctor or pharmacist can give you information about MINOCIN® that is written for health care professionals.
+Your doctor or pharmacist can give you information about MINOCINthat is written for healthcare professionals.
 For more information, you can also call Valeant Pharmaceuticals North America LLC at 1-800-321-4576.
 
 What are the ingredients in MINOCIN capsules?
 
 Active ingredient: minocycline hydrochloride, 50 mg and 100 mg
 
-Inactive ingredients: Blue 1, gelatin, titanium dioxide and yellow 10.
+Inactive ingredients: FD&C Blue #1, gelatin, titanium dioxide and FD&C Yellow #10.
 The 50 mg capsule shell also contains black and yellow iron oxides.
 
 Manufactured for:
 
 Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-By:
+Manufactured by:
 
 Patheon Pharmaceuticals Inc. Cincinnati, OH 45237 USA
 
 Minocin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
+All other product/brand names are trademarks of their respective owners.
+
 ©Valeant Pharmaceuticals North America LLC
 
-New p/n Rev.
-03/2017
+1. Rev.
+   04/2017 9438602

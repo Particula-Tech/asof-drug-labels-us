@@ -7,7 +7,7 @@ Its structural formula is:
 C23H27N3O7•HCl M.W.
 493.94
 
-MINOCIN Pellet-Filled Capsules for oral administration contain pellets of minocycline hydrochloride equivalent to 50 mg, or 100 mg of minocycline in microcrystalline cellulose.
+MINOCIN Pellet-Filled Capsules for oral administration contain pellets of minocycline hydrochloride equivalent to 50 mg or 100 mg of minocycline in microcrystalline cellulose.
 
-The capsule shells contain the following inactive ingredients: Blue 1, Gelatin, Titanium Dioxide and Yellow 10.
+The capsule shells contain the following inactive ingredients: FD&C Blue #1, Gelatin, Titanium Dioxide and FD&C Yellow #10.
 The 50 mg capsule shell also contains Black and Yellow Iron Oxides.

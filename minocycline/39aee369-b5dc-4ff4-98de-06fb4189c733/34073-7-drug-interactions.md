@@ -11,6 +11,6 @@ The concurrent use of tetracycline and methoxyflurane has been reported to resul
 Concurrent use of tetracyclines with oral contraceptives may render oral contraceptives less effective.
 
 Administration of isotretinoin should be avoided shortly before, during, and shortly after minocycline therapy.
-Each drug alone has been associated with pseudotumor cerebri (See WARNINGS).
+Each drug alone has been associated with pseudotumor cerebri (see WARNINGS).
 
 Increased risk of ergotism when ergot alkaloids or their derivatives are given with tetracyclines.
