@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA203512"
+  ],
+  "inn": "spironolactone",
+  "labeler": "Accord Healthcare, Inc.",
+  "package_ndcs": [
+    "16729-225-01",
+    "16729-225-16",
+    "16729-225-19",
+    "16729-226-01",
+    "16729-226-16",
+    "16729-227-01",
+    "16729-227-16"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "spironolactone",
+      "name": "Spironolactone"
+    }
+  ],
+  "setid": "8a96e2c9-049a-43ab-abf3-21baedeb736f",
+  "source": "dailymed"
+}
