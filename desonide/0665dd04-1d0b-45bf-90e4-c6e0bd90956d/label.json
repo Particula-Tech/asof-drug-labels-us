@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA073548"
+  ],
+  "inn": "desonide",
+  "labeler": "NORTHSTAR RX LLC",
+  "package_ndcs": [
+    "16714-729-01",
+    "16714-729-02"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "desonide",
+      "name": "Desonide"
+    }
+  ],
+  "setid": "0665dd04-1d0b-45bf-90e4-c6e0bd90956d",
+  "source": "dailymed"
+}
