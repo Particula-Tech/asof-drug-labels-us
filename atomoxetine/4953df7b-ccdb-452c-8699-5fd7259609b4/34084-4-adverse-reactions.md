@@ -111,7 +111,7 @@ Table 4: Common Treatment-Emergent Adverse Reactions Associated With the Use of 
 | Paraesthesia | 3 | 0 |
 | Psychiatric Disorders |  |  |
 | Abnormal dreams | 4 | 3 |
-| InsomniaInsomnia includes the terms: insomnia, initial insomnia, middle insomnia and terminal insomnia. | 15 | 8 |
+| InsomniaInsomnia includes the terms: insomnia, initial insomnia, middle insomnia, and terminal insomnia. | 15 | 8 |
 | Libido decreased | 3 | 1 |
 | Sleep disorder | 3 | 1 |
 | Renal and Urinary Disorders |  |  |
@@ -158,6 +158,6 @@ Seizures — Seizures have been reported in the postmarketing period.
 The postmarketing seizure cases include patients with preexisting seizure disorders and those with identified risk factors for seizures, as well as patients with neither a history of nor identified risk factors for seizures.
 The exact relationship between atomoxetine hydrochloride and seizures is difficult to evaluate due to uncertainty about the background risk of seizures in ADHD patients.
 
-Skin and subcutaneous tissue disorders — Hyperhidrosis.
+Skin and subcutaneous tissue disorders — Alopecia, hyperhidrosis.
 
 Urogenital system — Male pelvic pain; urinary hesitation in children and adolescents; urinary retention in children and adolescents.

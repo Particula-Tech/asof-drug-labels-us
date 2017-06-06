@@ -60,7 +60,7 @@ Atomoxetine hydrochloride should be used with caution in patients whose underlyi
 It should not be used in patients with severe cardiac or vascular disorders whose condition would be expected to deteriorate if they experienced clinically important increases in blood pressure or heart rate [see Contraindications (4.5)].
 Pulse and blood pressure should be measured at baseline, following atomoxetine hydrochloride dose increases, and periodically while on therapy to detect possible clinically important increases.
 
-The following table provides short-term, placebo-controlled clinical trial data for the proportions of patients having an increase in: diastolic blood pressure ≥ 15 mm Hg; systolic blood pressure ≥ 20 mm Hg; heart rate greater than or equal to 20 bpm, in both the pediatric and adult populations (see Table 1).
+The following table provides short-term, placebo-controlled clinical trial data for the proportions of patients having an increase in: diastolic blood pressure ≥ 15 mm Hg; systolic blood pressure ≥ 20 mm Hg; heart rate greater than or equal to 20 bpm, in both the pediatric and adult populations (seeTable 1).
 
 Table 1Abbreviations: bpm = beats per minute; DBP = diastolic blood pressure; HR = heart rate; mm Hg = millimeters mercury; SBP = systolic blood pressure.
 
