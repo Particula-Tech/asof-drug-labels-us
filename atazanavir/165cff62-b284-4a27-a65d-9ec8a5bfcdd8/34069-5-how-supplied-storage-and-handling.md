@@ -7,9 +7,9 @@ REYATAZ® (atazanavir) capsules are available in the following strengths and con
 | Product Strength* | Capsule Shell Color (cap/body) | Markings on Capsule (ink color) |  | Capsules per Bottle | NDC Number |
 | --- | --- | --- | --- | --- | --- |
 | cap | body |  |  |  |  |
-| 150 mg | blue/powder blue | BMS 150 mg (white) | 3624 (blue) | 60 | 150 mg |
-| 200 mg | blue/blue | BMS 200 mg (white) | 3631 (white) | 60 | 200 mg |
-| 300 mg | red/blue | BMS 300 mg (white) | 3622 (white) | 30 | 300 mg |
+| 150 mg | blue/powder blue | BMS 150 mg (white) | 3624 (blue) | 60 | 0003-3624-12 |
+| 200 mg | blue/blue | BMS 200 mg (white) | 3631 (white) | 60 | 0003-3631-12 |
+| 300 mg | red/blue | BMS 300 mg (white) | 3622 (white) | 30 | 0003-3622-12 |
 | * 150 mg atazanavir equivalent to 170.8 mg atazanavir sulfate. 200 mg atazanavir equivalent to 227.8 mg atazanavir sulfate. 300 mg atazanavir equivalent to 341.69 mg atazanavir sulfate. |  |  |  |  |  |
 
 Store REYATAZ capsules at 25°C (77°F); excursions permitted to 15°C-30°C (59°F-86°F) [see USP Controlled Room Temperature].

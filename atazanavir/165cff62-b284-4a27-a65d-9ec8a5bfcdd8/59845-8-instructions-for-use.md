@@ -92,4 +92,5 @@ Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 Product of Ireland
 
-Revised: September 2016
+| 1341313A3 | Revised: May 2017 |
+| --- | --- |

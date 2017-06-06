@@ -8,8 +8,7 @@ There have been reports of second-degree AV block and other conduction abnormali
 In clinical trials that included electrocardiograms, asymptomatic first-degree AV block was observed in 5.9% of atazanavir-treated patients (n=920), 5.2% of lopinavir/ritonavir-treated patients (n=252), 10.4% of nelfinavir-treated patients (n=48), and 3.0% of efavirenz-treated patients (n=329).
 In Study AI424-045, asymptomatic first-degree AV block was observed in 5% (6/118) of atazanavir/ritonavir-treated patients and 5% (6/116) of lopinavir/ritonavir-treated patients who had on-study electrocardiogram measurements.
 Because of limited clinical experience in patients with preexisting conduction system disease (eg, marked first-degree AV block or second- or third-degree AV block).
-ECG monitoring should be considered in these patients.
-[See Clinical Pharmacology (12.2).]
+ECG monitoring should be considered in these patients [see Clinical Pharmacology (12.2)].
 
 ## 5.2 Severe Skin Reactions
 
@@ -19,8 +18,7 @@ Rashes were generally mild-to-moderate maculopapular skin eruptions.
 Treatment-emergent adverse reactions of moderate or severe rash (occurring at a rate of ≥2%) are presented for the individual clinical studies [see Adverse Reactions (6.1)].
 Dosing with REYATAZ was often continued without interruption in patients who developed rash.
 The discontinuation rate for rash in clinical trials was <1%.
-Cases of Stevens-Johnson syndrome, erythema multiforme, and toxic skin eruptions, including drug rash, eosinophilia, and systemic symptoms (DRESS) syndrome, have been reported in patients receiving REYATAZ.
-[See Contraindications (4) and Adverse Reactions (6.1).]
+Cases of Stevens-Johnson syndrome, erythema multiforme, and toxic skin eruptions, including drug rash, eosinophilia, and systemic symptoms (DRESS) syndrome, have been reported in patients receiving REYATAZ [see Contraindications (4) and Adverse Reactions (6.1)].
 REYATAZ should be discontinued if severe rash develops.
 
 ## 5.3 Hyperbilirubinemia
@@ -30,8 +28,7 @@ This hyperbilirubinemia is reversible upon discontinuation of REYATAZ.
 Hepatic transaminase elevations that occur with hyperbilirubinemia should be evaluated for alternative etiologies.
 No long-term safety data are available for patients experiencing persistent elevations in total bilirubin >5 times the upper limit of normal (ULN).
 Alternative antiretroviral therapy to REYATAZ may be considered if jaundice or scleral icterus associated with bilirubin elevations presents cosmetic concerns for patients.
-Dose reduction of atazanavir is not recommended since long-term efficacy of reduced doses has not been established.
-[See Adverse Reactions (6.1).]
+Dose reduction of atazanavir is not recommended since long-term efficacy of reduced doses has not been established [see Adverse Reactions (6.1)].
 
 ## 5.4 Patients with Phenylketonuria
 
@@ -43,16 +40,14 @@ REYATAZ capsules do not contain phenylalanine.
 ## 5.5 Hepatotoxicity
 
 Patients with underlying hepatitis B or C viral infections or marked elevations in transaminases before treatment may be at increased risk for developing further transaminase elevations or hepatic decompensation.
-In these patients, hepatic laboratory testing should be conducted prior to initiating therapy with REYATAZ and during treatment.
-[See Adverse Reactions (6.1) and Use in Specific Populations (8.8).]
+In these patients, hepatic laboratory testing should be conducted prior to initiating therapy with REYATAZ and during treatment [see Adverse Reactions (6.1) and Use in Specific Populations (8.8)].
 
 ## 5.6 Nephrolithiasis and Cholelithiasis
 
 Cases of nephrolithiasis and/or cholelithiasis have been reported during postmarketing surveillance in HIV-infected patients receiving REYATAZ therapy.
 Some patients required hospitalization for additional management and some had complications.
 Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made.
-If signs or symptoms of nephrolithiasis and/or cholelithiasis occur, temporary interruption or discontinuation of therapy may be considered.
-[See Adverse Reactions (6.2).]
+If signs or symptoms of nephrolithiasis and/or cholelithiasis occur, temporary interruption or discontinuation of therapy may be considered [see Adverse Reactions (6.2)].
 
 ## 5.7 Risk of Serious Adverse Reactions Due to Drug Interactions
 
@@ -73,8 +68,7 @@ New-onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and 
 Some patients required either initiation or dose adjustments of insulin or oral hypoglycemic agents for treatment of these events.
 In some cases, diabetic ketoacidosis has occurred.
 In those patients who discontinued protease inhibitor therapy, hyperglycemia persisted in some cases.
-Because these events have been reported voluntarily during clinical practice, estimates of frequency cannot be made and a causal relationship between protease inhibitor therapy and these events has not been established.
-[See Adverse Reactions (6.2).]
+Because these events have been reported voluntarily during clinical practice, estimates of frequency cannot be made and a causal relationship between protease inhibitor therapy and these events has not been established [see Adverse Reactions (6.2)].
 
 ## 5.9 Immune Reconstitution Syndrome
 
@@ -99,5 +93,4 @@ A causal relationship between protease inhibitor therapy and these events has no
 ## 5.12 Resistance/Cross-Resistance
 
 Various degrees of cross-resistance among protease inhibitors have been observed.
-Resistance to atazanavir may not preclude the subsequent use of other protease inhibitors.
-[See Microbiology (12.4).]
+Resistance to atazanavir may not preclude the subsequent use of other protease inhibitors [see Microbiology (12.4)].

@@ -2,21 +2,8 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-REYATAZ is not a cure for HIV infection and patients may continue to experience illnesses associated with HIV infection, including opportunistic infections.
-Tell patients that sustained decreases in plasma HIV RNA have been associated with a reduced risk of progression to AIDS and death.
+REYATAZ is not a cure for HIV infection.
 Advise patients to remain under the care of a healthcare provider while using REYATAZ.
-
-### HIV Transmission
-
-Advise patients to avoid doing things that can spread HIV infection to others.
-
-- •Do not share or reuse needles or other injection equipment.
-- •Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-- •Do not have any kind of sex without protection.
-  Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
-- •Do not breastfeed.
-  REYATAZ can be passed to your baby in your breast milk and it is not known whether it could harm your baby.
-  Also, mothers with HIV should not breastfeed because HIV can be passed to the baby in breast milk.
 
 ### Cardiac Conduction Abnormalities
 
@@ -47,9 +34,13 @@ Discontinuation of REYATAZ may be necessary as part of the medical management of
 
 REYATAZ may lead to significant interaction with some drugs; therefore, advise patients to report the use of any other prescription, nonprescription medication, or herbal products, particularly St. John’s wort, to their healthcare provider prior to use [see Contraindications (4), Warnings and Precautions (5.7)].
 
+Immune Reconstitution Syndrome
+
+Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started [see Warnings and Precautions (5.9)].
+
 ### Fat Redistribution
 
-Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy including protease inhibitors and that the cause and long-term health effects of these conditions are not known at this time.
+Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy including protease inhibitors and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.10)].
 
 ### Dosing Instructions
 
@@ -62,3 +53,8 @@ Tell patients if a dose of REYATAZ is missed, they should take the dose as soon 
 
 Inform pregnant patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to REYATAZ during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk.
+REYATAZ can also be passed to the baby in breast milk and it is not known whether it could harm the baby [see Use in Specific Populations (8.2)].
