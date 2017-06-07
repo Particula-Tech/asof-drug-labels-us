@@ -1,4 +1,4 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
 ## 14.1 Secondary Hyperparathyroidism in Patients with Chronic Kidney Disease on Dialysis
 
@@ -116,5 +116,5 @@ A total of 33 patients were randomized to Sensipar and 34 patients randomized to
 The mean age of the patients was 72 years, 52% were female, 61% were Caucasian, and 5% were Blacks.
 The study started with a 12-week titration phase, followed by a 16-week efficacy assessment phase.
 Cinacalcet was initiated at a dose of 30 mg twice daily and titrated to maintain a corrected total serum calcium concentration within the normal range.
-During the efficacy period a significantly higher percentage of cinacalcet-treated patients compared with the placebo-treated patients achieved mean corrected total serum calcium concentration (≤ 10.3 mg/dL [2.57 mmol/L], 75.8% vs 0%, p < 0.001) and ≥ 1 mg/dL [0.25 mmol/L] decrease from baseline in mean corrected total serum calcium concentration (84.8% vs 5.9%, p < 0.001).
+During the efficacy period a significantly higher percentage of cinacalcet treated patients compared with the placebo treated patients achieved mean corrected total serum calcium concentration (≤ 10.3 mg/dL [2.57 mmol/L], 75.8% vs 0%, p < 0.001) and ≥ 1 mg/dL [0.25 mmol/L] decrease from baseline in mean corrected total serum calcium concentration (84.8% vs 5.9%, p < 0.001).
 The median dose of Sensipar at the completion of the study was 60 mg/day.

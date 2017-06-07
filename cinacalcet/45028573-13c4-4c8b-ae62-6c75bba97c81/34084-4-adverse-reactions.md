@@ -4,8 +4,8 @@ The following adverse reactions are discussed in greater detail in other section
 
 - Hypocalcemia [see Warnings and Precautions (5.1)]
 - Upper Gastrointestinal Bleeding [see Warnings and Precautions (5.2)]
-- Adynamic Bone Disease [see Warnings and Precautions (5.3)]
-- Hepatic Impairment [see Warnings and Precautions (5.4)]
+- Hypotension, Worsening Heart Failure and/or Arrhythmias [see Warnings and Precautions (5.3)]
+- Adynamic Bone Disease [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -16,29 +16,29 @@ Secondary Hyperparathyroidism in Patients with Chronic Kidney Disease on Dialysi
 In three double-blind, placebo-controlled clinical trials, 1126 patients with CKD on dialysis received study drug (656 Sensipar, 470 placebo) for up to 6 months.
 The most frequently reported adverse reactions are listed in Table 1.
 
-Seizures were observed in 1.4% (13/910) of Sensipar-treated patients and 0.7% (5/641) of placebo-treated patients across all completed placebo-controlled trials.
+Seizures were observed in 1.4% (13/910) of Sensipar-treated patients and 0.7% (5/641) of placebo-treated patients across all completed placebo controlled trials.
 
 Table 1.
 Adverse Reactions with Frequency ≥ 5% in Patients on Dialysis in Short-Term Studies for up to 6 Months
 
-|  |  | Placebo | Sensipar |
-| --- | --- | --- | --- |
-|  |  | (n = 470) | (n = 656) |
-| Event*: |  | (%) | (%) |
-| Nausea |  | 19 | 31 |
-| Vomiting |  | 15 | 27 |
-| Diarrhea |  | 20 | 21 |
-| Myalgia |  | 14 | 15 |
-| Dizziness |  | 8 | 10 |
-| Hypertension |  | 5 | 7 |
-| Asthenia |  | 4 | 7 |
-| Anorexia |  | 4 | 6 |
-| Pain Chest, Non-Cardiac |  | 4 | 6 |
-| Dialysis Access Site Infection |  | 4 | 5 |
+|  |  | Placebo | Sensipar |  |
+| --- | --- | --- | --- | --- |
+|  |  | (n = 470) | (n = 656) |  |
+| Event*: |  | (%) | (%) |  |
+| Nausea |  | 19 | 31 |  |
+| Vomiting |  | 15 | 27 |  |
+| Diarrhea |  | 20 | 21 |  |
+| Myalgia |  | 14 | 15 |  |
+| Dizziness |  | 8 | 10 |  |
+| Hypertension |  | 5 | 7 |  |
+| Asthenia |  | 4 | 7 |  |
+| Anorexia |  | 4 | 6 |  |
+| Pain Chest, Non-Cardiac |  | 4 | 6 |  |
+| Dialysis Access Site Infection |  | 4 | 5 |  |
 
 *Included are events that were reported at a greater incidence in the Sensipar group than in the placebo group.
 
-In a randomized, double-blind placebo-controlled study of 3883 patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the Sensipar group), the most frequently reported adverse reactions (incidence of ≥ 5% in the Sensipar group and a difference ≥ 1% compared to placebo) are listed in Table 2.
+In a randomized, double-blind placebo controlled study of 3883 patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the Sensipar group), the most frequently reported adverse reactions (incidence of ≥ 5% in the Sensipar group and a difference ≥ 1% compared to placebo) are listed in Table 2.
 
 Table 2.
 Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months in a Long-Term Study1
@@ -66,18 +66,18 @@ Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months 
 | Asthenia | 3.8 | 5.4 |
 | Constipation | 3.8 | 5.0 |
 
-1 Adverse reactions that occurred in ≥ 5% Frequency in the Sensipar group and a difference ≥ 1% compared to the placebo group (Safety Analysis Set)
+1 Adverse reactions that occurred in ≥ 5% frequency in the Sensipar group and a difference ≥ 1% compared to the placebo group (Safety Analysis Set)
 
-Crude incidence rate = 100 * Total number of subjects with event/N
+Crude incidence rate = 100 * Total number of subjects with event/ n
 
 n = Number of subjects receiving at least one dose of study drug
 
-Additional adverse reaction rates from the long-term, randomized, double-blind placebo-controlled study for Sensipar versus placebo are as follows: seizure (2.5%, 1.6%), rash (2.2%, 1.9%), hypersensitivity reactions (9.4%, 8.3%).
+Additional adverse reaction rates from the long-term, randomized, double-blind placebo controlled study for Sensipar versus placebo are as follows: seizure (2.5%, 1.6%), rash (2.2%, 1.9%), hypersensitivity reactions (9.4%, 8.3%).
 
-Parathyroid Carcinoma and Primary Hyperparathyroidism
+Patients with Parathyroid Carcinoma and Primary Hyperparathyroidism
 
 The safety profile of Sensipar in these patient populations is generally consistent with that seen in patients with CKD on dialysis.
-Forty-six patients were treated with Sensipar in a single-arm study, 29 with Parathyroid Carcinoma and 17 with intractable pHPT.
+Forty six patients were treated with Sensipar in a single arm study, 29 with Parathyroid Carcinoma and 17 with intractable pHPT.
 Nine (20%) of the patients withdrew from the study due to adverse events.
 The most frequent adverse reactions and the most frequent cause of withdrawal in these patient populations were nausea and vomiting.
 Severe or prolonged cases of nausea and vomiting can lead to dehydration and worsening hypercalcemia so careful monitoring of electrolytes is recommended in patients with these symptoms.
@@ -89,7 +89,7 @@ Adverse events of hypocalcemia were reported in three patients (7%).
 Seizures were observed in 0.7% (1/140) of cinacalcet-treated patients and 0.0% (0/46) of placebo-treated patients in all clinical studies.
 
 Table 3.
-Adverse Reactions with Frequency ≥ 10% in a Single-Arm, Open-Label Study in Patients with Primary Hyperparathyroidism or Parathyroid Carcinoma
+Adverse Reactions with Frequency ≥ 10% in a Single Arm, Open-Label Study in Patients with Primary Hyperparathyroidism or Parathyroid Carcinoma
 
 |  | Sensipar |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -113,9 +113,9 @@ Adverse Reactions with Frequency ≥ 10% in a Single-Arm, Open-Label Study in Pa
 | Infection Upper Respiratory | 3 (10) | 2 (12) |  |  | 5 (11) |
 | Pain Limb | 3 (10) | 2 (12) |  |  | 5 (11) |
 
-n=Number of subjects receiving at least one dose of study drug.
+n = Number of subjects receiving at least one dose of study drug.
 
-pHPT=primary hyperparathyroidism
+pHPT = primary hyperparathyroidism
 
 In a randomized double-blind, placebo-controlled study of 67 patients with primary hyperparathyroidism for whom parathyroidectomy would be indicated on the basis of serum calcium levels, but who are unable to undergo surgery, the most common adverse reactions are listed in Table 4.
 
@@ -140,13 +140,14 @@ In a randomized, double-blind, placebo-controlled study in patients with seconda
 Most of the cases of severe hypocalcemia less than 7.5 mg/dL (21/33=64%) occurred during the first 6 months.
 In this trial, 1.1% of patients receiving Sensipar and 0.1% of patients receiving placebo permanently discontinued study drug due to hypocalcemia.
 
-During a placebo-controlled part of a 52-week study in patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (> 11.3 mg/dL [2.82 mmol/L] and ≤ 12.5 mg/dL [3.12 mmol/L]), serum calcium less than 8.4 mg/dL was observed in 6.1% (2/33) of Sensipar-treated patients and 0% (0/34) of placebo-treated patients.
+During a placebo-controlled part of a 52-week study in patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (> 11.3 mg/dL [2.82 mmol/L] and ≤ 12.5 mg/dL [3.12 mmol/L]), serum calcium less than 8.4 mg/dL was observed in 6.1% (2/33) of Sensipar treated patients and 0% (0/34) of placebo treated patients.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of Sensipar.
+The following adverse reactions have been identified during post approval use of Sensipar.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Rash and hypersensitivity reactions (including angioedema and urticaria), and myalgia
-- Isolated, idiosyncratic cases of hypotension, worsening heart failure, and/or arrhythmia have been reported in patients with impaired cardiac function
+- Isolated, idiosyncratic cases of hypotension, worsening heart failure, and/or arrhythmia have been
+- reported in patients with impaired cardiac function
 - Gastrointestinal bleeding

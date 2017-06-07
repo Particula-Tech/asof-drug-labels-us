@@ -11,5 +11,5 @@ Sensipar 90 mg tablets are formulated as light-green, film-coated, oval-shaped t
 
 Storage
 
-Store at 25°C (77°F); excursions permitted from 15°C to 30°C (59°F to 86°F).
-[See USP controlled room temperature].
+Store at 25ºC (77ºF); excursions permitted from 15°C to 30ºC (59°F to 86ºF).
+[See USP controlled room temperature.]

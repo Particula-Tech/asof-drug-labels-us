@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of action
+## 12.1 Mechanism of Action
 
 The calcium-sensing receptor on the surface of the chief cell of the parathyroid gland is the principal regulator of PTH synthesis and secretion.
 Cinacalcet, the active ingredient in Sensipar, directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to extracellular calcium.
@@ -22,7 +22,7 @@ After oral administration of cinacalcet, Cmax is achieved in approximately 2 to 
 Cinacalcet Cmax and AUC(0-infinite) were increased by 82% and 68%, respectively, following administration with a high-fat meal compared with fasting in healthy volunteers.
 The Cmax and AUC(0-infinite) of cinacalcet were increased by 65% and 50%, respectively, when cinacalcet was administered with a low-fat meal compared with fasting.
 
-After absorption, cinacalcet concentrations decline in a biphasic fashion with a terminal half-life of 30 to 40 hours.
+After absorption, cinacalcet concentrations decline in a biphasic fashion with an initial half-life of approximately 6 hours and terminal half-life of 30 to 40 hours.
 Steady-state drug levels are achieved within 7 days, and the mean accumulation ratio is approximately 2 with once daily oral administration.
 The median accumulation ratio is approximately 2 to 5 with twice daily oral administration.
 The AUC and Cmax of cinacalcet increase proportionally over the dose range of 30 to 180 mg once daily.
@@ -46,17 +46,13 @@ Age: Geriatric Population
 
 The pharmacokinetic profile of cinacalcet in geriatric patients (age ≥ 65 years, n = 12) is similar to that for patients who are < 65 years of age (n = 268) [see Use in Specific Populations (8.5)].
 
-Age: Pediatric Population
-
-The pharmacokinetics of cinacalcet has not been studied in patients < 18 years of age [see Use in Specific Populations (8.4)].
-
 Hepatic Impairment
 
 The disposition of a 50 mg Sensipar single dose was compared between patients with hepatic impairment and patients with normal hepatic function.
 Cinacalcet exposure (AUC(0-infinite)) was comparable between healthy volunteers and patients with mild hepatic impairment.
 However, in patients with moderate and severe hepatic impairment (as indicated by the Child-Pugh method), cinacalcet exposures (AUC(0-infinite)) were 2.4 and 4.2 fold higher, respectively, than that in healthy volunteers.
 The mean half-life of cinacalcet increased from 49 hours in healthy volunteers to 65 hours and 84 hours in patients with moderate and severe hepatic impairment, respectively.
-Protein binding of cinacalcet is not affected by impaired hepatic function [see Warnings and Precautions (5.4) and Use in Specific Populations (8.7)].
+Protein binding of cinacalcet is not affected by impaired hepatic function [see Use in Specific Populations (8.7)].
 
 Renal Impairment
 
@@ -69,28 +65,28 @@ In vitro induction studies indicate that cinacalcet is not an inducer of CYP450 
 Tables 5 and 6 list the findings from in vivo drug-drug interaction studies.
 
 Table 5.
-Effect of co-administered drugs on cinacalcet
+Effect of co administered drugs on cinacalcet
 
-| Co-administered drug and dosing regimen | Cinacalcet |  |  |
-| --- | --- | --- | --- |
-|  | Dose* | Mean change in AUC(0-inf) | Mean change in Cmax |
-| 200 mg ketoconazole twice daily for 7 days | 90 mg on day 5 | ↑127% | ↑116% |
-| 1500 mg calcium carbonate, single dose | 100 mg | ↓6% | ↓5% |
-| 80 mg pantoprazole daily for 3 days | 90 mg on day 3 | ↑1% | ↓3% |
-| 2400 mg sevelamer HCl three times a day for 2 days | 90 mg on day 1 with first dose of sevelamer | ↓4% | ↓7% |
+| Co-administered drug and dosing regimen | Cinacalcet |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Dose* | Mean change in AUC(0-inf) |  | Mean change in Cmax |  |
+| 200 mg ketoconazole twice daily for 7 days | 90 mg on day 5 | ↑127% | ↑116% |  |  |
+| 1500 mg calcium carbonate, single dose | 100 mg | ↓6% | ↓5% |  |  |
+| 80 mg pantoprazole daily for 3 days | 90 mg on day 3 | ↑1% | ↓3% |  |  |
+| 2400 mg sevelamer HCl three times a day for 2 days | 90 mg on day 1 with first dose of sevelamer | ↓4% | ↓7% |  |  |
 
 *Single dose.
 
 Table 6.
 Effect of cinacalcet co-administration on other drugs
 
-| Cinacalcet dosing regimen | Co-administered drug |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Name and Dose | Mean change in AUC(0-inf) |  | Mean change in Cmax |  |
-| 30 mg twice daily for 8 days | 25 mg warfarin* tablet† | ↑1 % for R-warfarin ↓1% S-warfarin | ↓10 % for R-warfarin ↓12 % for S-warfarin |  |  |
-| 90 mg daily for 7 days to CYP2D6 extensive metabolizers | 50 mg desipramine† | ↑264% | ↑75% |  |  |
-| 90 mg daily for 5 days | 2 mg midazolam† | ↑5% | ↓5% |  |  |
-| 25 or 100 mg single dose to CYP2D6 extensive metabolizers | 50 mg amitriptyline single dose | ↑21-22% for amitriptyline ↑17-23% for nortriptyline‡ | ↑13-21% for amitriptyline ↑11-15% for nortriptyline‡ |  |  |
+| Cinacalcet dosing regimen | Co-administered drug |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Name and Dose | Mean change in AUC(0-inf) | Mean change in Cmax |  |
+| 30 mg twice daily for 8 days | 25 mg warfarin* tablet† | ↑1% for R-warfarin ↓1% for S-warfarin | ↓10% for R-warfarin ↓12% for S-warfarin |  |
+| 90 mg daily for 7 days to CYP2D6 extensive metabolizers | 50 mg desipramine† | ↑264% | ↑75% |  |
+| 90 mg daily for 5 days | 2 mg midazolam† | ↑5% | ↓5% |  |
+| 25 or 100 mg single dose to CYP2D6 extensive metabolizers | 50 mg amitriptyline single dose | ↑21-22% for amitriptyline ↑17-23% for nortriptyline‡ | ↑13-21% for amitriptyline ↑11-15% for nortriptyline‡ |  |
 
 *No significant change in prothrombin time.
 

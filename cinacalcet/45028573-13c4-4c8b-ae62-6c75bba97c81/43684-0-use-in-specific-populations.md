@@ -1,37 +1,48 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy: Category C
+## 8.1 Pregnancy
 
-In pregnant female rats given oral gavage doses of 2, 25, 50 mg/kg/day cinacalcet during gestation, no teratogenicity was observed at doses up to 50 mg/kg/day (exposure 4 times those resulting with a human oral dose of 180 mg/day based on Area Under the Curve [AUC] comparison).
+Risk Summary
+
+Limited case reports of Sensipar use in pregnant women are insufficient to inform a drug associated risk of adverse developmental outcomes.
+In animal reproduction studies, when female rats were exposed to cinacalcet during the period of organogenesis through to weaning at 2-3 times the systemic drug levels (based on AUC) at the maximum recommended human dose (MRHD) of 180 mg/day, peripartum and early postnatal pup loss and reduced pup body weight gain were observed in the presence of maternal hypocalcemia [see Data].
+
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+Data
+
+Animal Data
+
+In pregnant female rats given oral gavage doses of 2, 25, 50 mg/kg/day cinacalcet during gestation, no teratogenicity was observed at doses up to 50 mg/kg/day (exposure 4 times those resulting with a human oral dose of 180 mg/day based on AUC comparison).
 Decreased fetal body weights were observed at all doses (less than 1 to 4 times a human oral dose of 180 mg/day based on AUC comparison) in conjunction with maternal toxicity (decreased food consumption and body weight gain).
 
 In pregnant female rabbits given oral gavage doses of 2, 12, 25 mg/kg/day cinacalcet during gestation, no adverse fetal effects were observed (exposures less than with a human oral dose of 180 mg/day based on AUC comparisons).
 Reductions in maternal food consumption and body weight gain were seen at doses of 12 and 25 mg/kg/day.
-Sensipar has been shown to cross the placental barrier in rabbits.
+Cinacalcet has been shown to cross the placental barrier in rabbits.
 
 In pregnant rats given oral gavage doses of 5, 15, 25 mg/kg/day cinacalcet during gestation through lactation, no adverse fetal or pup (post-weaning) effects were observed at 5 mg/kg/day (exposures less than with a human therapeutic dose of 180 mg/day based on AUC comparisons).
 Higher doses of 15 and 25 mg/kg/day cinacalcet (exposures 2 to 3 times a human oral dose of 180 mg/day based on AUC comparisons) were accompanied by maternal signs of hypocalcemia (periparturient mortality and early postnatal pup loss), and reductions in postnatal maternal and pup body-weight gain.
 
-There are no adequate and well-controlled studies of Sensipar in pregnant women.
-Sensipar should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+## 8.2 Lactation
 
-Women who become pregnant during Sensipar treatment are encouraged to enroll in Amgen’s Pregnancy Surveillance Program.
-Patients or their physicians should call 1-800-77-AMGEN (1-800-772-6436) to enroll.
+Risk Summary
 
-## 8.3 Nursing Mothers
-
-Studies in rats have shown that Sensipar is excreted in the milk with a high milk-to-plasma ratio.
-It is not known whether this drug is excreted in human milk.
-Considering these data in rats, and because many drugs are excreted in human milk and there is a potential for clinically significant adverse reactions in infants who ingest Sensipar, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the lactating woman.
-
-Women who choose to continue Sensipar treatment while nursing are encouraged to enroll in Amgen’s Lactation Surveillance Program.
-Patients or their physicians should call 1-800-77-AMGEN (1-800-772-6436) to enroll.
+There are no data regarding the presence of Sensipar in human milk or effects on the breastfed infant or on milk production.
+Studies in rats showed that cinacalcet was excreted in the milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Sensipar and any potential adverse effects on the breastfed infant from Sensipar or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of Sensipar in pediatric patients have not been established.
-Sensipar is not indicated for use in pediatric patients.
-A fatal outcome was reported in a pediatric clinical trial patient with severe hypocalcemia [see Warnings and Precautions (5.1)].
+The safety and efficacy of Sensipar have not been established in pediatric patients.
+
+The use of Sensipar for the treatment of secondary HPT in pediatric patients with CKD on dialysis was evaluated in two randomized, controlled studies (Pediatric Study 1 and Study 2) where 47 pediatric patients aged 6 years to less than 18 years received at least one dose of Sensipar and in one single-arm study (Pediatric Study 3) where 17 pediatric patients aged 28 days to less than 6 years received at least one dose of Sensipar.
+Dosing with Sensipar in Pediatric Study 1 was stopped because of a fatality in a Sensipar-treated individual.
+The individual was noted to be severely hypocalcemic at the time of death.
+The cause of death was multifactorial and a contribution of Sensipar to the death could not be excluded [see Warnings and Precautions (5.1)].
+Study 1 was terminated and changes to Sensipar dosing after the fatality were implemented in Pediatric Study 2 and Study 3 to minimize the risk of severe hypocalcemia.
+The data in Pediatric Studies 2 and 3 were insufficient to establish the safety and efficacy of Sensipar for the treatment of secondary HPT in pediatric patients with CKD on dialysis.
+In aggregate, the pediatric studies did not establish a safe and effective Sensipar dosing regimen for the pediatric population.
 
 ## 8.5 Geriatric Use
 
@@ -44,4 +55,4 @@ No dosage adjustment is necessary for renal impairment [see Clinical Pharmacolog
 
 ## 8.7 Hepatic Impairment
 
-Patients with moderate and severe hepatic impairment should have serum calcium, serum phosphorus, and iPTH levels monitored closely throughout treatment with Sensipar because cinacalcet exposure (AUC0-infinite) is increased by 2.4 and 4.2 fold, respectively, in these patients [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
+Patients with moderate and severe hepatic impairment should have serum calcium, serum phosphorus, and iPTH levels monitored closely throughout treatment with Sensipar because cinacalcet exposure (AUC0-infinite) is increased by 2.4 and 4.2 fold, respectively, in these patients [see Clinical Pharmacology (12.3)].

@@ -1,4 +1,4 @@
-# 1 INDICATIONS AND USAGE
+# 1INDICATIONS AND USAGE
 
 ## 1.1 Secondary Hyperparathyroidism
 
@@ -6,7 +6,7 @@ Sensipar is indicated for the treatment of secondary hyperparathyroidism (HPT) i
 
 Limitations of Use:
 
-Sensipar is not indicated for use in adult patients with CKD who are not on dialysis because of an increased risk of hypocalcemia [see Warnings and Precautions (5.1)].
+Sensipar is not indicated for use in patients with CKD who are not on dialysis because of an increased risk of hypocalcemia [see Warnings and Precautions (5.1)].
 
 ## 1.2 Parathyroid Carcinoma
 
