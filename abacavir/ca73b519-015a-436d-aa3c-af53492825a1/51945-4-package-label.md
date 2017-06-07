@@ -20,10 +20,10 @@ Each time ZIAGEN is dispensed, give the patient a Medication Guide and Warning C
 
 Made in UK
 
-2015 the ViiV Healthcare group of companies
+©2017 the ViiV Healthcare group of companies
 
-1. 10000000138133 Rev.
-   12/15
+1. 10000000146300 Rev.
+   5/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -49,7 +49,7 @@ Each time ZIAGEN is dispensed, give the patient a Medication Guide and Warning C
 
 Made in Canada
 
-©2015, the ViiV Healthcare group of companies
+©2017 the ViiV Healthcare group of companies
 
-1. 10000000138827 Rev.
-   11/15
+1. 62000000014384 Rev.
+   4/17
