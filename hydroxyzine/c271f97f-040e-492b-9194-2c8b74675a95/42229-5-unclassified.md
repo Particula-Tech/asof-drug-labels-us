@@ -1,3 +1,3 @@
 Rx only
 
-LAB-0126-5.0 January 2016
+LAB-0126-6.0 November 2016

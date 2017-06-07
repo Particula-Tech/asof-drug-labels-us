@@ -2,7 +2,7 @@
 
 Side effects reported with the administration of Vistaril are usually mild and transitory in nature.
 
-Skin and Appendages: Oral hydroxyzine hydrochloride is associated with fixed drug eruptions in post-marketing reports.
+Skin and Appendages: Oral hydroxyzine hydrochloride is associated with Acute Generalized Exanthematous Pustulosis (AGEP) and fixed drug eruptions in post-marketing reports.
 
 Anticholinergic: Dry mouth.
 
