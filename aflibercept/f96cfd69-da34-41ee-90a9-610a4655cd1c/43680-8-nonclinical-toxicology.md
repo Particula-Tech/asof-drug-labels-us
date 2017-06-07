@@ -8,7 +8,7 @@ Absent or irregular menses associated with alterations in female reproductive ho
 In addition, females showed decreased ovarian and uterine weight accompanied by compromised luteal development and reduction of maturing follicles.
 These changes correlated with uterine and vaginal atrophy.
 A No Observed Adverse Effect Level (NOAEL) was not identified.
-Intravenous administration of the lowest dose of aflibercept assessed in monkeys (3 mg per kg) resulted in systemic exposure (AUC) that was approximately 1500 times higher than the systemic exposure observed in humans after an intravitreal dose of 2 mg.
+Intravenous administration of the lowest dose of aflibercept assessed in monkeys (3 mg per kg) resulted in systemic exposure (AUC) for free aflibercept that was approximately 1500 times higher than the systemic exposure observed in humans after an intravitreal dose of 2 mg.
 All changes were reversible within 20 weeks after cessation of treatment.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
