@@ -77,7 +77,7 @@ In the all-exposure population, the pattern and incidence of decreases in platel
 Elevated Liver Enzymes
 
 Liver enzyme abnormalities are summarized in Table 1.
-In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of ACTEMRA-IV, or reduction in ACTEMRA-IV dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.5)].
+In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of ACTEMRA-IV, or reduction in ACTEMRA-IV dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.6)].
 These elevations were not associated with clinically relevant increases in direct bilirubin, nor were they associated with clinical evidence of hepatitis or hepatic insufficiency [see Warnings and Precautions (5.3)].
 
 Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period of Studies I to VFor a description of these studies, see Section 14, Clinical Studies.
@@ -210,22 +210,30 @@ There was no clear relationship between decreases in neutrophils below 1 × 109/
 
 Thrombocytopenia
 
-During routine laboratory monitoring in the ACTEMRA-SC 6-month controlled clinical trials, none of the patients had a decrease in platelet count to ≤50 × 103/mcL.
+During routine laboratory monitoring in the ACTEMRA-SC 6-month controlled clinical trials, none of the patients had a decrease in platelet count to ≤50,000/mm3.
 
 Elevated Liver Enzymes
 
 During routine laboratory monitoring in the 6-month controlled clinical trials, elevation in ALT or AST ≥3 × ULN occurred in 6.5% and 1.4% of patients, respectively, receiving ACTEMRA-SC weekly and 3.4% and 0.7% receiving ACTEMRA SC every other week.
 
-Lipids
+Lipid Parameters Elevations
 
 During routine laboratory monitoring in the ACTEMRA-SC 6-month clinical trials, 19% of patients dosed weekly and 19.6% of patients dosed every other week and 10.2% of patients on placebo experienced sustained elevations in total cholesterol > 6.2 mmol/l (240 mg/dL), with 9%, 10.4% and 5.1% experiencing a sustained increase in LDL to 4.1 mmol/l (160 mg/dL) receiving ACTEMRA-SC weekly, every other week and placebo, respectively.
 
-## 6.3 Clinical Trials Experience in Polyarticular Juvenile Idiopathic Arthritis Patients Treated With Intravenous ACTEMRA (ACTEMRA-IV)
+## 6.3 Clinical Trials Experience in Giant Cell Arteritis Patients Treated with Subcutaneous ACTEMRA (ACTEMRA-SC)
+
+The safety of subcutaneous ACTEMRA (tocilizumab) has been studied in one Phase III study (WA28119) with 251 GCA patients.
+The total patient years duration in the ACTEMRA GCA all exposure population was 138.5 patient years during the 12-month double blind, placebo-controlled phase of the study.
+The overall safety profile observed in the ACTEMRA treatment groups was generally consistent with the known safety profile of ACTEMRA.
+There was an overall higher incidence of infections in GCA patients relative to RA patients.
+The rate of infection/serious infection events was 200.2/9.7 events per 100 patient years in the ACTEMRA weekly group and 160.2/4.4 events per 100 patient years in the ACTEMRA every other week group as compared to 156.0/4.2 events per 100 patient years in the placebo + 26 week prednisone taper and 210.2/12.5 events per 100 patient years in the placebo + 52 week taper groups.
+
+## 6.4 Clinical Trials Experience in Polyarticular Juvenile Idiopathic Arthritis Patients Treated With Intravenous ACTEMRA (ACTEMRA-IV)
 
 The safety of ACTEMRA-IV was studied in 188 pediatric patients 2 to 17 years of age with PJIA who had an inadequate clinical response or were intolerant to methotrexate.
 The total patient exposure in the ACTEMRA-IV all exposure population (defined as patients who received at least one dose of ACTEMRA-IV) was 184.4 patient years.
 At baseline, approximately half of the patients were taking oral corticosteroids and almost 80% were taking methotrexate.
-In general, the types of adverse drug reactions in patients with PJIA were consistent with those seen in RA and SJIA patients [see Adverse Reactions (6.1 and 6.4)].
+In general, the types of adverse drug reactions in patients with PJIA were consistent with those seen in RA and SJIA patients [see Adverse Reactions (6.1 and 6.5)].
 
 Infections
 
@@ -239,7 +247,7 @@ Infusion Reactions
 In PJIA patients, infusion-related reactions are defined as all events occurring during or within 24 hours of an infusion.
 In the ACTEMRA-IV all exposure population, 11 patients (6%) experienced an event during the infusion, and 38 patients (20.2%) experienced an event within 24 hours of an infusion.
 The most common events occurring during infusion were headache, nausea and hypotension, and occurring within 24 hours of infusion were dizziness and hypotension.
-In general, the adverse drug reactions observed during or within 24 hours of an infusion were similar in nature to those seen in RA and SJIA patients [see Adverse Reactions (6.1 and 6.4)].
+In general, the adverse drug reactions observed during or within 24 hours of an infusion were similar in nature to those seen in RA and SJIA patients [see Adverse Reactions (6.1 and 6.5)].
 
 No clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported.
 
@@ -257,7 +265,7 @@ There was no clear relationship between decreases in neutrophils below 1 × 109 
 
 Thrombocytopenia
 
-During routine laboratory monitoring in the ACTEMRA-IV all exposure population, 1% of patients had a decrease in platelet count at or less than 50 × 103 per mcL without associated bleeding events.
+During routine laboratory monitoring in the ACTEMRA-IV all exposure population, 1% of patients had a decrease in platelet count at or less than 50,000 per mm3 without associated bleeding events.
 
 Elevated Liver Enzymes
 
@@ -267,7 +275,7 @@ Lipids
 
 During routine laboratory monitoring in the tocilizumab all exposure population, elevation in total cholesterol greater than 1.5-2 × ULN occurred in one patient (0.5%) and elevation in LDL greater than 1.5-2 × ULN occurred in one patient (0.5%).
 
-## 6.4 Clinical Trials Experience in Systemic Juvenile Idiopathic Arthritis Patients Treated with Intravenous ACTEMRA (ACTEMRA-IV)
+## 6.5 Clinical Trials Experience in Systemic Juvenile Idiopathic Arthritis Patients Treated with Intravenous ACTEMRA (ACTEMRA-IV)
 
 The data described below reflect exposure to ACTEMRA-IV in one randomized, double-blind, placebo-controlled trial of 112 pediatric patients with SJIA 2 to 17 years of age who had an inadequate clinical response to nonsteroidal anti-inflammatory drugs (NSAIDs) or corticosteroids due to toxicity or lack of efficacy.
 At baseline, approximately half of the patients were taking 0.3 mg/kg/day corticosteroids or more, and almost 70% were taking methotrexate.
@@ -324,7 +332,7 @@ There was no clear relationship between decrease in neutrophils below 1 × 109 p
 
 Thrombocytopenia
 
-During routine monitoring in the 12 week controlled phase, 1% of patients in the ACTEMRA-IV group and 3% in the placebo group had a decrease in platelet count to no more than 100 × 103 per mcL.
+During routine monitoring in the 12 week controlled phase, 1% of patients in the ACTEMRA-IV group and 3% in the placebo group had a decrease in platelet count to no more than 100,000 per mm3.
 
 In the open label extension over an average duration of 73 weeks of treatment, decreased platelet count occurred in 4% of patients in the ACTEMRA-IV group, with no associated bleeding.
 
@@ -341,9 +349,9 @@ Elevation in LDL greater than 1.5× ULN – 2× ULN occurred in 1.9% of patients
 
 In the open label extension study over an average duration of 73 weeks of treatment, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled study data.
 
-## 6.5 Postmarketing Experience
+## 6.6 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of intravenous ACTEMRA.
+The following adverse reactions have been identified during post-approval use of intravenous ACTEMRA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Fatal anaphylaxis [see Warnings and Precautions (5.5)]

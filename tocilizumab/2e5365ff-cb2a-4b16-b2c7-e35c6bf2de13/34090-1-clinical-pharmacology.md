@@ -9,14 +9,14 @@ IL-6 is also produced by synovial and endothelial cells leading to local product
 
 ## 12.2 Pharmacodynamics
 
-In clinical studies with the 4 mg per kg and 8 mg per kg IV doses or the 162 mg weekly and every other weekly SC doses of ACTEMRA, decreases in levels of C-reactive protein (CRP) to within normal ranges were seen as early as week 2.
+In clinical studies in RA patients with the 4 mg per kg and 8 mg per kg IV doses or the 162 mg weekly and every other weekly SC doses of ACTEMRA, decreases in levels of C-reactive protein (CRP) to within normal ranges were seen as early as week 2.
 Changes in pharmacodynamic parameters were observed (i.e., decreases in rheumatoid factor, erythrocyte sedimentation rate (ESR), serum amyloid A and increases in hemoglobin) with doses, however the greatest improvements were observed with 8 mg per kg ACTEMRA.
-Pharmacodynamic changes were also observed to occur after ACTEMRA administration in PJIA and SJIA patients (decreases in CRP, ESR, and increases in hemoglobin).
+Pharmacodynamic changes were also observed to occur after ACTEMRA administration in GCA, PJIA, and SJIA patients (decreases in CRP, ESR, and increases in hemoglobin).
 The relationship between these pharmacodynamic findings and clinical efficacy is not known.
 
 In healthy subjects administered ACTEMRA in doses from 2 to 28 mg per kg intravenously and 81 to 162 mg subcutaneously, absolute neutrophil counts decreased to the nadir 3 to 5 days following ACTEMRA administration.
 Thereafter, neutrophils recovered towards baseline in a dose dependent manner.
-Rheumatoid arthritis patients demonstrated a similar pattern of absolute neutrophil counts following ACTEMRA administration [see Warnings and Precautions (5.3)].
+Rheumatoid arthritis and GCA patients demonstrated a similar pattern of absolute neutrophil counts following ACTEMRA administration [see Warnings and Precautions (5.3)].
 
 ## 12.3 Pharmacokinetics
 
@@ -59,6 +59,18 @@ For the 162 mg every other week dose, the estimated mean (±SD) steady-state AUC
 The accumulation ratios for AUC, Cmin, and Cmax were 2.67, 5.6, and 2.12, respectively.
 Steady state was reached after 12 weeks for AUC and Cmin, and after 10 weeks for Cmax.
 
+Giant Cell Arteritis – Subcutaneous Administration
+
+The pharmacokinetics of tocilizumab in GCA patients was determined using a population pharmacokinetic analysis on a dataset composed of 149 GCA patients treated with 162 mg SC every week or with 162 mg SC every other week.
+
+For the 162 mg every week dose, the estimated mean (±SD) steady-state Cavg, Cmin and Cmax of tocilizumab were 71.3 ± 30.1 mcg/mL, 68.1± 29.5 mcg/mL, and 73 ± 30.4 mcg/mL, respectively.
+The accumulation ratios for Cavg or AUCtau, Cmin, and Cmax were 10.9, 9.6, and 8.9, respectively.
+Steady state was reached after 17 weeks.
+
+For the 162 mg every other week dose, the estimated mean (±SD) steady-state Cavg, Cmin, and Cmax of tocilizumab were 16.2 ± 11.8 mcg/mL, 11.1 ± 10.3 mcg/mL, and 19.3 ± 12.8 mcg/mL, respectively.
+The accumulation ratios for Cavg or AUCtau, Cmin, and Cmax were 2.8, 5.6, and 2.3 respectively.
+Steady-state was reached after 14 weeks.
+
 Polyarticular Juvenile Idiopathic Arthritis—Intravenous Administration
 
 The pharmacokinetics of tocilizumab was determined using a population pharmacokinetic analysis on a database composed of 188 patients with polyarticular juvenile idiopathic arthritis.
@@ -80,13 +92,19 @@ Mean estimated tocilizumab exposure parameters were similar between the two dose
 
 Absorption
 
-Following SC dosing in rheumatoid arthritis patients, the absorption half-life was around 4 days.
+Following SC dosing in RA and GCA patients, the absorption half-life was around 4 days.
 The bioavailability for the SC formulation was 0.8.
+
+In RA patients the median values of Tmax were 2.8 days after the tocilizumab every week dose and 4.7 days after the tocilizumab every other week dose.
+
+In GCA patients, the median values of Tmax were 3 days after the tocilizumab every week dose and 4.5 days after the tocilizumab every other week dose.
 
 Distribution
 
 Following intravenous dosing, tocilizumab undergoes biphasic elimination from the circulation.
 In rheumatoid arthritis patients the central volume of distribution was 3.5 L and the peripheral volume of distribution was 2.9 L, resulting in a volume of distribution at steady state of 6.4 L.
+
+In GCA patients, the central volume of distribution was 4.09 L, the peripheral volume of distribution was 3.37 L resulting in a volume of distribution at steady state of 7.46 L.
 
 In pediatric patients with PJIA, the central volume of distribution was 1.98 L, the peripheral volume of distribution was 2.1 L, resulting in a volume of distribution at steady state of 4.08 L.
 
@@ -94,25 +112,38 @@ In pediatric patients with SJIA, the central volume of distribution was 0.94 L, 
 
 Elimination
 
-The total clearance of tocilizumab is concentration-dependent and is the sum of the linear clearance and the nonlinear clearance.
-The linear clearance in the population pharmacokinetic analysis was estimated to be 12.5 mL per h in RA, 5.8 mL per h in pediatric patients with PJIA, and 7.1 mL per h in pediatric patients with SJIA.
-The concentration-dependent nonlinear clearance plays a major role at low tocilizumab concentrations.
-Once the nonlinear clearance pathway is saturated, at higher tocilizumab concentrations, clearance is mainly determined by the linear clearance.
+ACTEMRA is eliminated by a combination of linear clearance and nonlinear elimination.
+The concentration-dependent nonlinear elimination plays a major role at low tocilizumab concentrations.
+Once the nonlinear pathway is saturated, at higher tocilizumab concentrations, clearance is mainly determined by the linear clearance.
+The saturation of the nonlinear elimination leads to an increase in exposure that is more than dose-proportional.
+The pharmacokinetic parameters of ACTEMRA do not change with time.
 
-The t1/2 of tocilizumab is concentration-dependent.
-For IV administration, the concentration-dependent apparent t1/2 is up to 11 days for 4 mg per kg and up to 13 days for 8 mg per kg every 4 weeks in patients with RA at steady-state.
-For SC administration, the concentration-dependent apparent t1/2 is up to 13 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.
+Population pharmacokinetic analyses in any patient population tested so far indicate no relationship between apparent clearance and the presence of anti-drug antibodies.
 
-The t1/2 of tocilizumab in children with PJIA is up to 16 days for the two body weight categories (8 mg/kg for body weight at or above 30 kg or 10 mg/kg for body weight less than 30 kg) during a dosing interval at steady state.
+The linear clearance in the population pharmacokinetic analysis was estimated to be 12.5 mL per h in RA patients, 6.7 mL per h in GCA patients, 5.8 mL per h in pediatric patients with PJIA, and 7.1 mL per h in pediatric patients with SJIA.
+
+Due to the dependence of total clearance on ACTEMRA serum concentrations, the half-life of ACTEMRA is also concentration-dependent and varies depending on the serum concentration level.
+
+For IV administration in RA patients, the concentration-dependent apparent t1/2 is up to 11 days for 4 mg per kg and up to 13 days for 8 mg per kg every 4 weeks in patients with RA at steady-state.
+For SC administration in RA patients, the concentration-dependent apparent t1/2 is up to 13 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.
+
+In GCA patients at steady state, the effective t1/2 of tocilizumab varied between 18.3 and 18.9 days for 162 mg SC every week dosing regimen and between 4.2 and 7.9 days for 162 mg SC every other week dosing regimen.
+
+The t1/2 of tocilizumab in children with PJIA is up to 16 days for the two body weight categories (8 mg/kg for body weight at or above 30 kg or 10 mg/kg for body weight below 30 kg) during a dosing interval at steady state.
 
 The t1/2 of tocilizumab in pediatric patients with SJIA is up to 23 days for the two body weight categories at week 12.
 
 Pharmacokinetics in Special Populations
 
-Population pharmacokinetic analyses in adult rheumatoid arthritis patients showed that age, gender and race did not affect the pharmacokinetics of tocilizumab.
+Population pharmacokinetic analyses in adult rheumatoid arthritis patients and GCA patients showed that age, gender and race did not affect the pharmacokinetics of tocilizumab.
 Linear clearance was found to increase with body size.
-The body weight-based dose (8 mg per kg) resulted in approximately 86% higher exposure in patients who are greater than 100 kg in comparison to patients who are less than 60 kg.
+In RA patients, the body weight-based dose (8 mg per kg) resulted in approximately 86% higher exposure in patients who are greater than 100 kg in comparison to patients who are less than 60 kg.
 There was an inverse relationship between tocilizumab exposure and body weight for flat dose SC regimens.
+
+In GCA patients, higher exposure was observed in patients with lower body weight.
+For the 162 mg every week dosing regimen, the steady-state Cavg was 51% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg.
+For the 162 mg every other week regimen, the steady-state Cavg was 129% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg.
+There is limited data for patients above 100 kg (n=7).
 
 Hepatic Impairment
 
@@ -122,9 +153,13 @@ Renal Impairment
 
 No formal study of the effect of renal impairment on the pharmacokinetics of tocilizumab was conducted.
 
-Most of the RA patients in the population pharmacokinetic analysis had normal renal function or mild renal impairment.
-Mild renal impairment (creatinine clearance less than 80 mL per min and at or above 50 mL per min based on Cockcroft-Gault) did not impact the pharmacokinetics of tocilizumab.
-No dose adjustment is required in patients with mild renal impairment.
+Most of the RA and GCA patients in the population pharmacokinetic analysis had normal renal function or mild renal impairment.
+Mild renal impairment (estimated creatinine clearance less than 80 mL per min and at or above 50 mL per min based on Cockcroft-Gault formula) did not impact the pharmacokinetics of tocilizumab.
+
+Approximately one-third of the patients in the GCA clinical trial had moderate renal impairment at baseline (estimated creatinine clearance of 30-59 mL/min).
+No impact on tocilizumab exposure was noted in these patients.
+
+No dose adjustment is required in patients with mild or moderate renal impairment.
 
 Drug Interactions
 

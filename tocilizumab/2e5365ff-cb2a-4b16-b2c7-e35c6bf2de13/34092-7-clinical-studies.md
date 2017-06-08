@@ -29,7 +29,7 @@ The primary endpoint was the proportion of patients who achieved an ACR 20 respo
 Study V evaluated patients with moderate to severe active rheumatoid arthritis who had an inadequate clinical response or were intolerant to one or more TNF antagonist therapies.
 The TNF antagonist therapy was discontinued prior to randomization.
 Patients received ACTEMRA 8 mg per kg, ACTEMRA 4 mg per kg, or placebo every four weeks, in combination with MTX (10 to 25 mg weekly).
-The primary endpoint was the proportion of patients who achieved an ACR 20response at week 24.
+The primary endpoint was the proportion of patients who achieved an ACR 20 response at week 24.
 
 Clinical Response
 
@@ -40,22 +40,22 @@ During the 24 week controlled portions of Studies I to V, patients treated with 
 
 Table 3 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Trials of Intravenous ACTEMRA (Percent of Patients)
 
-| N=284 | N=286 (95% CI)CI: 95% confidence interval of the weighted difference to placebo adjusted for site (and disease duration for Study I only) | N=393 | N=399 (95% CI) | N=398 (95% CI) | N=204 | N=213 (95% CI) | N=205 (95% CI) | N=413 | N=803 (95% CI) | N=158 | N=161 (95% CI) | N=170 (95% CI) |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Percent of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Response Rate |  | Study I |  | Study II |  |  | Study III |  |  | Study IV |  | Study V |  |  |
-| MTX | ACTEMRA 8 mg per kg | Placebo + MTX | ACTEMRA 4 mg per kg + MTX | ACTEMRA 8 mg per kg + MTX | Placebo + MTX | ACTEMRA 4 mg per kg + MTX | ACTEMRA 8 mg per kg + MTX | Placebo + DMARDs | ACTEMRA 8 mg per kg + DMARDs | Placebo + MTX | ACTEMRA 4 mg per kg + MTX | ACTEMRA 8 mg per kg + MTX |  |  |
-| ACR 20 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Week 24 |  | 53% | 70% (0.11, 0.27) | 27% | 51% (0.17, 0.29) | 56% (0.23, 0.35) | 27% | 48% (0.15, 0.32) | 59% (0.23, 0.41) | 24% | 61% (0.30, 0.40) | 10% | 30% (0.15, 0.36) | 50% (0.36, 0.56) |
-| Week 52 |  | N/A | N/A | 25% | 47% (0.15, 0.28) | 56% (0.25, 0.38) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| ACR 50 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Week 24 |  | 34% | 44% (0.04, 0.20) | 10% | 25% (0.09, 0.20) | 32% (0.16, 0.28) | 11% | 32% (0.13, 0.29) | 44% (0.25, 0.41) | 9% | 38% (0.23, 0.33) | 4% | 17% (0.05, 0.25) | 29% (0.21, 0.41) |
-| Week 52 |  | N/A | N/A | 10% | 29% (0.14, 0.25) | 36% (0.21, 0.32) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| ACR 70 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Week 24 |  | 15% | 28% (0.07, 0.22) | 2% | 11% (0.03, 0.13) | 13% (0.05, 0.15) | 2% | 12% (0.04, 0.18) | 22% (0.12, 0.27) | 3% | 21% (0.13, 0.21) | 1% | 5% (-0.06, 0.14) | 12% (0.03, 0.22) |
-| Week 52 |  | N/A | N/A | 4% | 16% (0.08, 0.17) | 20% (0.12, 0.21) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| Major Clinical Responses Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week period |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Week 52 |  | N/A | N/A | 1% | 4% (0.01, 0.06) | 7% (0.03, 0.09) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+| Response Rate | N=284 | N=286 (95% CI) | N=393 | N=399 (95% CI)CI: 95% confidence interval of the weighted difference to placebo adjusted for site (and disease duration for Study I only) | N=398 (95% CI) | N=204 | N=213 (95% CI) | N=205 (95% CI) | N=413 | N=803 (95% CI) | N=158 | N=161 (95% CI) | N=170 (95% CI) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percent of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Study I |  | Study II |  |  | Study III |  |  | Study IV |  | Study V |  |  |
+|  | MTX | ACTEMRA 8 mg per kg | Placebo + MTX | ACTEMRA 4 mg per kg + MTX | ACTEMRA 8 mg per kg + MTX | Placebo + MTX | ACTEMRA 4 mg per kg + MTX | ACTEMRA 8 mg per kg + MTX | Placebo + DMARDs | ACTEMRA 8 mg per kg + DMARDs | Placebo + MTX | ACTEMRA 4 mg per kg + MTX | ACTEMRA 8 mg per kg + MTX |
+| ACR 20 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Week 24 | 53% | 70% (0.11, 0.27) | 27% | 51% (0.17, 0.29) | 56% (0.23, 0.35) | 27% | 48% (0.15, 0.32) | 59% (0.23, 0.41) | 24% | 61% (0.30, 0.40) | 10% | 30% (0.15, 0.36) | 50% (0.36, 0.56) |
+| Week 52 | N/A | N/A | 25% | 47% (0.15, 0.28) | 56% (0.25, 0.38) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+| ACR 50 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Week 24 | 34% | 44% (0.04, 0.20) | 10% | 25% (0.09, 0.20) | 32% (0.16, 0.28) | 11% | 32% (0.13, 0.29) | 44% (0.25, 0.41) | 9% | 38% (0.23, 0.33) | 4% | 17% (0.05, 0.25) | 29% (0.21, 0.41) |
+| Week 52 | N/A | N/A | 10% | 29% (0.14, 0.25) | 36% (0.21, 0.32) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+| ACR 70 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Week 24 | 15% | 28% (0.07, 0.22) | 2% | 11% (0.03, 0.13) | 13% (0.05, 0.15) | 2% | 12% (0.04, 0.18) | 22% (0.12, 0.27) | 3% | 21% (0.13, 0.21) | 1% | 5% (-0.06, 0.14) | 12% (0.03, 0.22) |
+| Week 52 | N/A | N/A | 4% | 16% (0.08, 0.17) | 20% (0.12, 0.21) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+| Major Clinical Responses Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week period |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Week 52 | N/A | N/A | 1% | 4% (0.01, 0.06) | 7% (0.03, 0.09) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 
 In study II, a greater proportion of patients treated with 4 mg per kg and 8 mg per kg ACTEMRA + MTX achieved a low level of disease activity as measured by a DAS 28-ESR less than 2.6 compared with placebo +MTX treated patients at week 52.
 The proportion of ACTEMRA-treated patients achieving DAS 28-ESR less than 2.6, and the number of residual active joints in these responders in Study II are shown in Table 4.
@@ -196,7 +196,39 @@ General health status was assessed by the SF-36 in Studies SC-I and SC-II.
 In Study SC-II, patients receiving ACTEMRA every other week demonstrated greater improvement from baseline compared to placebo in the PCS, MCS, and in all 8 domains of the SF-36.
 In Study SC-I, improvements in these scores were similar between ACTEMRA SC every week and ACTEMRA IV 8 mg/kg.
 
-## 14.3 Polyarticular Juvenile Idiopathic Arthritis-Intravenous Administration
+## 14.3 Giant Cell Arteritis – Subcutaneous Administration
+
+The efficacy and safety of subcutaneously administered ACTEMRA was assessed in a single, randomized, double-blind, multicenter study in patients with active GCA.
+In Study WA28119, 251 screened patients with new-onset or relapsing GCA were randomized to one of four treatment arms.
+Two SC doses of ACTEMRA (162 mg every week and 162 mg every other week) were compared to two different placebo control groups (pre-specified prednisone-taper regimen over 26 weeks and 52 weeks) randomized 2:1:1:1.
+The study consisted of a 52-week blinded period, followed by a 104-week open-label extension.
+
+All patients received background glucocorticoid (prednisone) therapy.
+Each of the ACTEMRA-treated groups and one of the placebo-treated groups followed a pre-specified prednisone-taper regimen with the aim to reach 0 mg by 26 weeks, while the second placebo-treated group followed a pre-specified prednisone-taper regimen with the aim to reach 0 mg by 52 weeks designed to be more in keeping with standard practice.
+
+The primary efficacy endpoint was the proportion of patients achieving sustained remission from Week 12 through Week 52.
+Sustained remission was defined by a patient attaining a sustained (1) absence of GCA signs and symptoms from Week 12 through Week 52, (2) normalization of erythrocyte sedimentation rate (ESR) (to < 30 mm/hr without an elevation to ≥ 30 mm/hr attributable to GCA) from Week 12 through Week 52, (3) normalization of C-reactive protein (CRP) (to < 1 mg/dL, with an absence of successive elevations to ≥ 1mg/dL) from Week 12 through Week 52, and (4) successful adherence to the prednisone taper defined by not more than 100 mg of excess prednisone from Week 12 through Week 52.
+ACTEMRA 162 mg weekly and 162 mg every other week + 26 weeks prednisone taper both showed superiority in achieving sustained remission from Week 12 through Week 52 compared with placebo + 26 weeks prednisone taper (Table 8).
+Both ACTEMRA treatment arms also showed superiority compared to the placebo + 52 weeks prednisone taper (Table 8).
+
+Table 8 Efficacy Results from Study WA28119
+
+|  | PBO + 26 weeks prednisone taper N=50 | PBO + 52 weeks prednisone taper N=51 | TCZ 162mg SC QW + 26 weeks prednisone taper N=100 | TCZ 162 mg SC Q2W + 26 weeks prednisone taper N=49 |
+| --- | --- | --- | --- | --- |
+| Sustained remissionSustained remission was achieved by a patient meeting all of the following components: absence of GCA signs and symptoms†, normalization of ESR‡, normalization of CRP§ and adherence to the prednisone taper regimen¶. |  |  |  |  |
+| Responders, n (%) | 7 (14.0%) | 9 (17.6%) | 56 (56.0%) | 26 (53.1%) |
+| Unadjusted difference in proportions vs PBO + 26 weeks taper (99.5% CI) | N/A | N/A | 42.0% (18.0, 66.0) | 39.1% (12.5, 65.7) |
+| Unadjusted difference in proportions vs PBO + 52 weeks taper (99.5% CI) | N/A | N/A | 38.4% (14.4, 62.3) | 35.4% (8.6, 62.2) |
+| Components of Sustained Remission |  |  |  |  |
+| Sustained absence of GCA signs and symptomsPatients who did not have any signs or symptoms of GCA recorded from Week 12 up to Week 52., n (%) | 20 (40.0%) | 23 (45.1%) | 69 (69.0%) | 28 (57.1%) |
+| Sustained ESR<30 mm/hrPatients who did not have an elevated ESR ≥30 mm/hr which was classified as attributed to GCA from Week 12 up to Week 52., n (%) | 20 (40.0%) | 22 (43.1%) | 83 (83.0%) | 37 (75.5%) |
+| Sustained CRP normalizationPatients who did not have two or more consecutive CRP records of ≥ 1mg/dL from Week 12 up to Week 52., n (%) | 17 (34.0%) | 13 (25.5%) | 72 (72.0%) | 34 (69.4%) |
+| Successful prednisone taperingPatients who did not enter escape therapy and received ≤ 100mg of additional concomitant prednisone from Week 12 up to Week 52., n (%) | 10 (20.0%) | 20 (39.2%) | 60 (60.0%) | 28 (57.1%) |
+| Patients not completing the study to week 52 were classified as non-responders in the primary and key secondary analysis: PBO+26: 6 (12.0%), PBO+52: 5 (9.8%), TCZ QW: 15 (15.0%), TCZ Q2W: 9 (18.4%). CRP = C-reactive protein ESR = erythrocyte sedimentation rate PBO = placebo Q2W = every other week dose QW = every week dose TCZ = tocilizumab |  |  |  |  |
+
+The estimated annual cumulative prednisone dose was lower in the two ACTEMRA dose groups (medians of 1887 mg and 2207 mg on ACTEMRA QW and Q2W, respectively) relative to the placebo arms (medians of 3804 mg and 3902 mg on placebo + 26 weeks prednisone and placebo + 52 weeks prednisone taper, respectively).
+
+## 14.4 Polyarticular Juvenile Idiopathic Arthritis-Intravenous Administration
 
 The efficacy of ACTEMRA was assessed in a three-part study including an open-label extension in children 2 to 17 years of age with active polyarticular juvenile idiopathic arthritis (PJIA), who had an inadequate response to methotrexate or inability to tolerate methotrexate.
 Patients had at least 6 months of active disease (mean disease duration of 4.2 ± 3.7 years), with at least five joints with active arthritis (swollen or limitation of movement accompanied by pain and/or tenderness) and/or at least 3 active joints having limitation of motion (mean, 20 ± 14 active joints).
@@ -220,7 +252,7 @@ ACTEMRA treated patients experienced significantly fewer disease flares compared
 
 During the withdrawal phase (Part II), more patients treated with ACTEMRA showed JIA ACR 30/50/70 responses at Week 40 compared to patients withdrawn to placebo.
 
-## 14.4 Systemic Juvenile Idiopathic Arthritis-Intravenous Administration
+## 14.5 Systemic Juvenile Idiopathic Arthritis-Intravenous Administration
 
 The efficacy of ACTEMRA for the treatment of active SJIA was assessed in a 12-week randomized, double blind, placebo-controlled, parallel group, 2-arm study.
 Patients treated with or without MTX, were randomized (ACTEMRA:placebo = 2:1) to one of two treatment groups: 75 patients received ACTEMRA infusions every two weeks at either 8 mg per kg for patients at or above 30 kg or 12 mg per kg for patients less than 30 kg and 37 were randomized to receive placebo infusions every two weeks.
@@ -231,9 +263,9 @@ The primary endpoint was the proportion of patients with at least 30% improvemen
 JIA ACR (American College of Rheumatology) responses are defined as the percentage improvement (e.g., 30%, 50%, 70%) in 3 of any 6 core outcome variables compared to baseline, with worsening in no more than 1 of the remaining variables by 30% or more.
 Core outcome variables consist of physician global assessment, parent per patient global assessment, number of joints with active arthritis, number of joints with limitation of movement, erythrocyte sedimentation rate (ESR), and functional ability (childhood health assessment questionnaire-CHAQ).
 
-Primary endpoint result and JIA ACR response rates at Week 12 are shown in Table 8.
+Primary endpoint result and JIA ACR response rates at Week 12 are shown in Table 9.
 
-Table 8 Efficacy Findings at Week 12
+Table 9 Efficacy Findings at Week 12
 
 |  | ACTEMRA N=75 | Placebo N=37 |
 | --- | --- | --- |

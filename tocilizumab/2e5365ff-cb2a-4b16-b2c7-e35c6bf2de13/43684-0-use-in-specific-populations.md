@@ -75,5 +75,5 @@ The safety and efficacy of ACTEMRA have not been studied in patients with hepati
 
 ## 8.7 Renal Impairment
 
-No dose adjustment is required in patients with mild renal impairment.
-ACTEMRA has not been studied in patients with moderate to severe renal impairment [see Clinical Pharmacology (12.3)].
+No dose adjustment is required in patients with mild or moderate renal impairment.
+ACTEMRA has not been studied in patients with severe renal impairment [see Clinical Pharmacology (12.3)].

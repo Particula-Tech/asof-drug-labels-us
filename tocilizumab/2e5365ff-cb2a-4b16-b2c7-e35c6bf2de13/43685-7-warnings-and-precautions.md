@@ -2,7 +2,7 @@
 
 ## 5.1 Serious Infections
 
-Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, protozoal, or other opportunistic pathogens have been reported in patients receiving immunosuppressive agents including ACTEMRA for rheumatoid arthritis.
+Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, protozoal, or other opportunistic pathogens have been reported in patients receiving immunosuppressive agents including ACTEMRA.
 The most common serious infections included pneumonia, urinary tract infection, cellulitis, herpes zoster, gastroenteritis, diverticulitis, sepsis and bacterial arthritis [see Adverse Reactions (6.1)].
 Among opportunistic infections, tuberculosis, cryptococcus, aspergillosis, candidiasis, and pneumocystosis were reported with ACTEMRA.
 Other serious infections, not reported in clinical studies, may also occur (e.g., histoplasmosis, coccidioidomycosis, listeriosis).
@@ -17,7 +17,7 @@ The risks and benefits of treatment should be considered prior to initiating ACT
 - who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
 - with underlying conditions that may predispose them to infection.
 
-Closely monitor patients for the development of signs and symptoms of infection during and after treatment with ACTEMRA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.4), Adverse Reactions (6.1), and Patient Counseling Information (17)].
+Closely monitor patients for the development of signs and symptoms of infection during and after treatment with ACTEMRA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.5), Adverse Reactions (6.1), and Patient Counseling Information (17)].
 
 Hold ACTEMRA if a patient develops a serious infection, an opportunistic infection, or sepsis.
 A patient who develops a new infection during treatment with ACTEMRA should undergo a prompt and complete diagnostic workup appropriate for an immunocompromised patient, initiate appropriate antimicrobial therapy, and closely monitor the patient.
@@ -42,13 +42,13 @@ No cases of Hepatitis B reactivation were observed in the trials; however patien
 
 ## 5.2 Gastrointestinal Perforations
 
-Events of gastrointestinal perforation have been reported in clinical trials, primarily as complications of diverticulitis in RA patients.
+Events of gastrointestinal perforation have been reported in clinical trials, primarily as complications of diverticulitis in patients treated with ACTEMRA.
 Use ACTEMRA with caution in patients who may be at increased risk for gastrointestinal perforation.
 Promptly evaluate patients presenting with new onset abdominal symptoms for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
 
 ## 5.3 Laboratory Parameters
 
-Rheumatoid Arthritis
+Approved Adult Indications
 
 Neutropenia
 
@@ -58,7 +58,7 @@ Infections have been uncommonly reported in association with treatment-related n
 - –It is not recommended to initiate ACTEMRA treatment in patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) less than 2000 per mm3.
   In patients who develop an absolute neutrophil count less than 500 per mm3 treatment is not recommended.
 - –Monitor neutrophils 4 to 8 weeks after start of therapy and every 3 months thereafter [see Clinical Pharmacology (12.2)].
-  For recommended modifications based on ANC results see [Dosage and Administration (2.7)].
+  For recommended modifications based on ANC results see [Dosage and Administration (2.8)].
 
 Thrombocytopenia
 
@@ -68,7 +68,7 @@ Treatment-related reduction in platelets was not associated with serious bleedin
 - –It is not recommended to initiate ACTEMRA treatment in patients with a platelet count below 100,000 per mm3.
   In patients who develop a platelet count less than 50,000 per mm3 treatment is not recommended.
 - –Monitor platelets 4 to 8 weeks after start of therapy and every 3 months thereafter.
-  For recommended modifications based on platelet counts see [Dosage and Administration (2.7)].
+  For recommended modifications based on platelet counts see [Dosage and Administration (2.8)].
 
 Elevated Liver Enzymes
 
@@ -84,7 +84,7 @@ Elevations resolved when MTX and ACTEMRA were discontinued.
   In patients who develop elevated ALT or AST greater than 5× ULN treatment is not recommended.
 - –Monitor ALT and AST levels 4 to 8 weeks after start of therapy and every 3 months thereafter.
   When clinically indicated, other liver function tests such as bilirubin should be considered.
-  For recommended modifications based on transaminases see [Dosage and Administration (2.7)].
+  For recommended modifications based on transaminases see [Dosage and Administration (2.8)].
 
 Lipid Abnormalities
 
@@ -97,7 +97,7 @@ Polyarticular and Systemic Juvenile Idiopathic Arthritis
 
 A similar pattern of liver enzyme elevation, low neutrophil count, low platelet count and lipid elevations is noted with ACTEMRA treatment in the PJIA and SJIA populations.
 Monitor neutrophils, platelets, ALT and AST at the time of the second infusion and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
-Monitor lipids as above for RA [see Dosage and Administration (2.7)].
+Monitor lipids as above for approved adult indications [see Dosage and Administration (2.8)].
 
 ## 5.4 Immunosuppression
 
@@ -110,10 +110,10 @@ Hypersensitivity reactions, including anaphylaxis, have been reported in associa
 Anaphylaxis and other hypersensitivity reactions that required treatment discontinuation were reported in 0.1% (3 out of 2644) of patients in the 6-month controlled trials of intravenous ACTEMRA, 0.2% (8 out of 4009) of patients in the intravenous all-exposure RA population, 0.7% (8 out of 1068) in the subcutaneous 6-month controlled RA trials, and in 0.7% (10 out of 1465) of patients in the subcutaneous all-exposure population.
 In the SJIA controlled trial with intravenous ACTEMRA, 1 out of 112 patients (0.9%) experienced hypersensitivity reactions that required treatment discontinuation.
 In the PJIA controlled trial with intravenous ACTEMRA, 0 out of 188 patients (0%) in the ACTEMRA all-exposure population experienced hypersensitivity reactions that required treatment discontinuation.
-Reactions that required treatment discontinuation included generalized erythema, rash, and uticaria.
+Reactions that required treatment discontinuation included generalized erythema, rash, and urticaria.
 Injection site reactions were categorized separately [see Adverse Reactions (6)].
 
-In the postmarketing setting, events of hypersensitivity reactions, including anaphylaxis and death have occurred in patients treated with a range of doses of intravenous ACTEMRA, with or without concomitant arthritis therapies.
+In the postmarketing setting, events of hypersensitivity reactions, including anaphylaxis and death have occurred in patients treated with a range of doses of intravenous ACTEMRA, with or without concomitant therapies.
 Events have occurred in patients who received premedication.
 Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of ACTEMRA [see Adverse Reactions (6.5)].
 ACTEMRA for intravenous use should only be infused by a healthcare professional with appropriate medical support to manage anaphylaxis.
@@ -137,5 +137,5 @@ Avoid use of live vaccines concurrently with ACTEMRA as clinical safety has not 
 No data are available on the secondary transmission of infection from persons receiving live vaccines to patients receiving ACTEMRA.
 
 No data are available on the effectiveness of vaccination in patients receiving ACTEMRA.
-Because IL-6 inhibition may interfere with the normal immune response to new antigens, it is recommended that all patients, particularly PJIA and SJIA patients, if possible, be brought up to date with all immunizations in agreement with current immunization guidelines prior to initiating ACTEMRA therapy.
+Because IL-6 inhibition may interfere with the normal immune response to new antigens, it is recommended that all patients, particularly pediatric or elderly patients, if possible, be brought up to date with all immunizations in agreement with current immunization guidelines prior to initiating ACTEMRA therapy.
 The interval between live vaccinations and initiation of ACTEMRA therapy should be in accordance with current vaccination guidelines regarding immunosuppressive agents.
