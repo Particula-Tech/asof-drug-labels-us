@@ -15,4 +15,4 @@ Do not use by any other route.
 
 BETHKIS is administered by inhalation using a hand‑held PARI LC PLUS Reusable Nebulizer with a PARI Vios Air compressor over an approximately 15 minute period and until sputtering from the output of the nebulizer has occurred for at least one minute.
 
-Further patient instructions on how to administer BETHKIS are provided in the PATIENT COUNSELING INFORMATION (17) and the PATIENT’S INSTRUCTIONS FOR USE.
+Further patient instructions on how to administer BETHKIS are provided in the Patient's Instructions for Use [see Patient Counseling Information (17)].

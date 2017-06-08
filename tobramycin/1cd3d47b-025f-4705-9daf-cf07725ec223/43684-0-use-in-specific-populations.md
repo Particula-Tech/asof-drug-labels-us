@@ -28,12 +28,12 @@ The safety and efficacy of BETHKIS have not been studied in pediatric cystic fib
 
 Clinical studies of BETHKIS did not include patients aged 65 years and over.
 Tobramycin is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function (see WARNINGS AND PRECAUTIONS – Nephrotoxicity (5.2); Serum Concentrations (5.5.2)).
+Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function [see Warnings and Precautions (5.2, 5.5)].
 
 ## 8.6 Renal Impairment
 
 Tobramycin is primarily excreted unchanged in the urine and renal function is expected to affect the exposure of tobramycin.
 The risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Patients with serum creatinine > 2mg/dL and blood urea nitrogen (BUN) > 40mg/dL have not been included in clinical studies and there are no data in this population to support a recommendation for or against dose adjustment [See WARNINGS AND PRECAUTIONS (5.2, 5.5)].
+Patients with serum creatinine > 2mg/dL and blood urea nitrogen (BUN) > 40mg/dL have not been included in clinical studies and there are no data in this population to support a recommendation for or against dose adjustment [see Warnings and Precautions (5.2, 5.5)].
 
 Serum concentrations of tobramycin in patients with renal dysfunction, or patients treated with concomitant parenteral tobramycin should be monitored at the discretion of the treating physician.

@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs with Neurotoxic or Ototoxic Potential
+## 7.1 Drugs with Neurotoxic, Nephrotoxic, or Ototoxic Potential
 
 Concurrent and/or sequential use of BETHKIS with other drugs with neurotoxic, nephrotoxic, or ototoxic potential should be avoided.
 

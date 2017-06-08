@@ -52,12 +52,12 @@ Table 1: Patients with Selected Treatment-Emergent Adverse Reactions Occurring i
 The following adverse reactions have been identified during postapproval use of tobramycin inhalation solution.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Ear and labyrinth disorders: Hearing loss, Tinnitus (see WARNINGS AND PRECAUTIONS, Ototoxicity (5.1))
+Ear and labyrinth disorders: Hearing loss, Tinnitus [see Warnings and Precautions (5.1)]
 
 Skin and subcutaneous tissue disorders: Hypersensitivity, pruritus, urticaria, rash
 
 Nervous system disorders: Aphonia, dysgeusia
 
-Respiratory, thoracic, and mediastinal disorders: Bronchospasm (see WARNINGS AND PRECAUTIONS, Bronchospasm(5.4)), oropharyngeal pain
+Respiratory, thoracic, and mediastinal disorders: Bronchospasm [see Warnings and Precautions (5.4)], oropharyngeal pain
 
 Metabolism and Nutrition Disorders: Decreased appetite

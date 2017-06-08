@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Information for Patients
 
@@ -64,6 +64,6 @@ Rx Only U.S. Patent 6,987,094.
 
 Manufactured for Chiesi USA, Inc. by Catalent Pharma Solutions, LLC Woodstock, Illinois 60098
 
-DATE OF ISSUANCE 12/2016 © Chiesi USA, Inc. 2016 Printed in USA
+© Chiesi USA, Inc. 2017 Printed in USA
 
-CTB-004-0416-04-SPL
+CTB-004-0416-04A-SPL

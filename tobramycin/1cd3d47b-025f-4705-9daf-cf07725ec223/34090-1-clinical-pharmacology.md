@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-BETHKIS is an antibacterial drug (see 12.4 Microbiology).
+BETHKIS is an antibacterial drug [see Clinical Pharmacology (12.4)].
 
 ## 12.3 Pharmacokinetics
 

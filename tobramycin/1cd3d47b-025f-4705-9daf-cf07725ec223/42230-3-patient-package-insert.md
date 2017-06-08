@@ -256,6 +256,6 @@ Manufactured for Chiesi USA, Inc. by Catalent Pharma Solutions, LLC Woodstock, I
 
 All trademarks referenced herein are the property of their prospective owners.
 
-Issued: 12/2016
+Issued: 6/2017
 
-CTB-006-0416-03-SPL
+CTB-006-0416-03A-SPL

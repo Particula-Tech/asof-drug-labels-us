@@ -11,7 +11,7 @@ Dizziness occurred in two (1.1%) BETHKIS-treated patients and one (0.9%) placebo
 None of the BETHKIS patients discontinued their therapy due to hearing loss, dizziness or vertigo.
 
 Tinnitus may be a sentinel symptom of ototoxicity.
-No reports of tinnitus occurred in patients during clinical studies with BETHKIS, but because it has been observed with inhaled tobramycin solutions, onset of this symptom warrants caution.
+No reports of tinnitus occurred in patients during clinical studies with BETHKIS, but because it has been observed with inhaled tobramycin solutions [see Adverse Reactions (6.2)], onset of this symptom warrants caution.
 Ototoxicity, manifested as both auditory and vestibular toxicity, has been reported with parenteral aminoglycosides.
 Vestibular toxicity may be manifested by vertigo, ataxia or dizziness.
 
@@ -39,22 +39,21 @@ Bronchospasm and wheezing should be treated as medically appropriate.
 
 ## 5.5 Laboratory Tests
 
-### 5.5.1 Audiograms
+### Audiograms
 
 Clinical studies of inhaled tobramycin solutions did not identify hearing loss using audiometric tests which evaluated hearing up to 8000 Hz.
 Physicians should consider an audiogram for patients who show any evidence of auditory dysfunction, or who are at increased risk for auditory dysfunction.Tinnitus may be a sentinel symptom of ototoxicity, and therefore the onset of this symptom warrants caution.
 
-### 5.5.2 Serum Concentrations
+### Serum Concentrations
 
 In patients with normal renal function treated with BETHKIS, serum tobramycin concentrations range from approximately 0.06-1.89 mcg/mL one hour after dose administration and do not require routine monitoring.
-Serum concentrations of tobramycin in patients with renal dysfunction or patients treated with concomitant parenteral tobramycin should be monitored at the discretion of the treating physician.
-(See 12.3)
+Serum concentrations of tobramycin in patients with renal dysfunction or patients treated with concomitant parenteral tobramycin should be monitored at the discretion of the treating physician [see Clinical Pharmacology (12.3)].
 
 The serum concentration of tobramycin should only be monitored through venipuncture and not finger prick blood sampling.
 Contamination of the skin of the fingers with tobramycin may lead to falsely increased measurements of serum levels of the drug.
 This contamination cannot be completely avoided by hand washing before testing.
 
-### 5.5.3 Renal Function
+### Renal Function
 
 The clinical studies of BETHKIS did not reveal any imbalance in the percentage of patients who experienced at least a 50% rise in serum creatinine from baseline in either the BETHKIS group (n=26, 14%) or the placebo group (n=15, 13%).
 Laboratory tests of urine and renal function should be conducted at the discretion of the treating physician.
