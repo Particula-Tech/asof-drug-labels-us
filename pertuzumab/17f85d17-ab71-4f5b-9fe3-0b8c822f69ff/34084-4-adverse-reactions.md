@@ -31,7 +31,7 @@ Table 1 Summary of Adverse Reactions Occurring in ≥ 10% of Patients on the PER
 
 |  | All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % |
 | --- | --- | --- | --- | --- |
-| Body System/Adverse Reactions | PERJETA + trastuzumab + docetaxel n=407 Frequency rate % |  | Placebo + trastuzumab + docetaxel n=397 Frequency rate % |  |
+| Body System/ Adverse Reactions | PERJETA + trastuzumab + docetaxel n=407 Frequency rate % |  | Placebo + trastuzumab + docetaxel n=397 Frequency rate % |  |
 | General disorders and administration site conditions |  |  |  |  |
 | Fatigue | 37.6 | 2.2 | 36.8 | 3.3 |
 | Asthenia | 26.0 | 2.5 | 30.2 | 1.5 |
@@ -161,10 +161,11 @@ Table 3 reports the adverse reactions that occurred in patients who received neo
 
 Table 3 Summary of Adverse Reactions Occurring in ≥ 10% of Patients Receiving Neoadjuvant Treatment with PERJETA in Study 3
 
-|  | All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % |
+| All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | PERJETA + trastuzumab + FEC followed by PERJETA + trastuzumab + docetaxel |  | PERJETA + trastuzumab + docetaxel following FEC |  | PERJETA + TCH |  |
-| Body System/Adverse Reactions | n=72 Frequency rate % |  | n=75 Frequency rate % |  | n=76 Frequency rate % |  |
+| Body System/Adverse Reactions | PERJETA + trastuzumab + FEC followed by PERJETA + trastuzumab + docetaxel |  | PERJETA + trastuzumab + docetaxel following FEC |  | PERJETA + TCH |  |
+| n=72 |  | n=75 |  | n=76 |  |  |
+| Frequency rate % |  | Frequency rate % |  | Frequency rate % |  |  |
 | General disorders and administration site conditions |  |  |  |  |  |  |
 | Fatigue | 36.1 | 0.0 | 36.0 | 0.0 | 42.1 | 3.9 |
 | Asthenia | 9.7 | 0.0 | 14.7 | 1.3 | 13.2 | 1.3 |

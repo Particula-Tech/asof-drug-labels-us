@@ -15,7 +15,7 @@ Risk Summary
 Based on its mechanism of action and findings in animal studies, PERJETA can cause fetal harm when administered to a pregnant woman.
 There are no available data on the use of PERJETA in pregnant women.
 However, in post-marketing reports, use of another HER2/neu receptor antagonist (trastuzumab) during pregnancy resulted in cases of oligohydramnios and oligohydramnios sequence manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
-In an animal reproduction study, administration of pertuzumab to pregnant cynomolgus monkeys during the period of organogenesis resulted in oligohydramnios, delayed fetal kidney development, and embryo-fetal deaths at clinically relevant exposures that were 2.5 to 20-fold greater than exposures in humans receiving the recommended dose, based on Cmax[see Data].
+In an animal reproduction study, administration of pertuzumab to pregnant cynomolgus monkeys during the period of organogenesis resulted in oligohydramnios, delayed fetal kidney development, and embryo-fetal deaths at clinically relevant exposures that were 2.5 to 20-fold greater than exposures in humans receiving the recommended dose, based on Cmax [see Data].
 Apprise the patient of the potential risks to a fetus.
 There are clinical considerations if PERJETA in combination with trastuzumab is used during pregnancy or within 7 months prior to conception [see Clinical Considerations].
 
