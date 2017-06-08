@@ -76,10 +76,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
 
-© 2014 Mallinckrodt.
+© 2017 Mallinckrodt.
 
 Manufactured by Patheon Inc. Whitby, Ontario, Canada L1N 5Z5 for Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Rev 06/2014
+Rev 04/2017
 
 Mallinckrodt™ Pharmaceuticals

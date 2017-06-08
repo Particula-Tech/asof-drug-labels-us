@@ -90,6 +90,11 @@ Thus a causal association between Anafranil treatment and these fatalities has n
 
 Physicians should discuss with patients the risk of taking Anafranil while engaging in activities in which sudden loss of consciousness could result in serious injury to the patient or others, e.g., the operation of complex machinery, driving, swimming, climbing.
 
+## DRESS
+
+Rare cases of drug rash with eosinophilia and systemic symptoms (DRESS) have been reported with the use of clomipramine.
+In the event of severe acute reactions such as DRESS, discontinue clomipramine therapy immediately and institute appropriate treatment.
+
 # PRECAUTIONS
 
 ## General

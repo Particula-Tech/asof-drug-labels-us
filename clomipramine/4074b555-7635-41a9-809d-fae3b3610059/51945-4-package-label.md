@@ -3,24 +3,24 @@
 NDC 0406-9906-03 30 Capsules Anafranil™ (clomipramine hydrochloride) Capsules USP 25 mg Rx only Each capsule contains: Clomipramine Hydrochloride USP...
 25 mg PHARMACIST: PLEASE DISPENSE WITH ATTACHED MEDICATION GUIDE MALLINCKRODT™
 
-Rev 06/2014
+Rev 04/2017
 
-2000006586
+2000009069
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 50 mg Bottle
 
 NDC 0406-9907-03 30 Capsules Anafranil™ (clomipramine hydrochloride) Capsules USP 50 mg Rx only Each capsule contains: Clomipramine Hydrochloride USP...
 50 mg PHARMACIST: PLEASE DISPENSE WITH ATTACHED MEDICATION GUIDE MALLINCKRODT™
 
-Rev 06/2014
+Rev 04/2017
 
-2000006587
+2000009070
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 75 mg Bottle
 
 NDC 0406-9908-03 30 Capsules Anafranil™ (clomipramine hydrochloride) Capsules USP 75 mg Rx only Each capsule contains: Clomipramine Hydrochloride USP...
 75 mg PHARMACIST: PLEASE DISPENSE WITH ATTACHED MEDICATION GUIDE MALLINCKRODT™
 
-Rev 06/2014
+Rev 04/2017
 
-2000006588
+2000009071

@@ -210,3 +210,5 @@ The following adverse drug reaction has been reported during post-approval use o
 Because this reaction is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency.
 
 Eye Disorders – angle-closure glaucoma.
+
+Immune System Disorders – Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
