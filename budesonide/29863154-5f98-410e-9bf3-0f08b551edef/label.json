@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA206134"
+  ],
+  "inn": "budesonide",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "68382-720-01",
+    "68382-720-05",
+    "68382-720-06",
+    "68382-720-10",
+    "68382-720-16",
+    "68382-720-30",
+    "68382-720-77"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, COATED PELLETS",
+      "generic": "budesonide",
+      "name": "budesonide"
+    }
+  ],
+  "setid": "29863154-5f98-410e-9bf3-0f08b551edef",
+  "source": "dailymed"
+}
