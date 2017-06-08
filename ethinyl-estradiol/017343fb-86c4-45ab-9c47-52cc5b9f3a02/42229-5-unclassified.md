@@ -5,9 +5,9 @@ Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Sta
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2001-2016 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2001-2017 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk8342a-rng-1609r007
+uspi-mk8342a-rng-1705r008
 
 Instructions for Use
 
@@ -104,6 +104,7 @@ Note:
   There is no danger of NuvaRing being pushed too far up in the vagina or getting lost (See Figure G).
 - Some women have accidently inserted NuvaRing into their bladder.
   If you have pain during or after insertion and you cannot find NuvaRing in your vagina, call your healthcare provider right away.
+- Regularly check that NuvaRing is in your vagina (for example, before and after intercourse) to ensure you are protected from pregnancy.
 
 Step 5.
 How do I remove NuvaRing?
@@ -154,6 +155,8 @@ NuvaRing can slip or accidentally come out (expelled) of your vagina, for exampl
       - -Option 2.
         Insert a new ring no later than 7 days from the time the previous ring was removed or expelled.
         During this time, you may have your period.
+- If NuvaRing was out of the vagina for an unknown amount of time, you may not be protected from pregnancy.
+  Perform a pregnancy test prior to inserting a new ring and consult your healthcare provider.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
@@ -164,11 +167,11 @@ Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Sta
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2001-2016 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2001-2017 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 09/2016
+Revised: 05/2017
 
-usppi-mk8342a-rng-1609r007
+usppi-mk8342a-rng-1705r008
 
 # Instructions for Use
 

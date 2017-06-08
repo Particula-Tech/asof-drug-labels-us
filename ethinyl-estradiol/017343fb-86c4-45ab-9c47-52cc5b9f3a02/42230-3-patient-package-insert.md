@@ -89,25 +89,26 @@ Tell your healthcare provider about all medicines and herbal products you take, 
 
 Some medicines and herbal products may make hormonal birth control less effective, including, but not limited to:
 
-- certain anti-seizure medicines (such as barbiturates, carbamazepine, felbamate, oxcarbazepine, phenytoin, rufinamide, topiramate)
+- certain anti-seizure medicines (such as barbiturates, carbamazepine, felbamate, oxcarbazepine, phenytoin, rufinamide and topiramate)
 - medicine to treat fungal infections (griseofulvin)
-- certain combinations of HIV medicines, (such as nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir)
-- certain hepatitis C (HCV) medicines (such as boceprevir, telaprevir)
-- non-nucleoside reverse transcriptase inhibitors (such as nevirapine)
+- certain combinations of HIV medicines, (such as nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir and tipranavir/ritonavir)
+- certain hepatitis C (HCV) medicines (such as boceprevir and telaprevir)
+- non-nucleoside reverse transcriptase inhibitors (such as efavirenz and nevirapine)
 - medicine to treat tuberculosis (such as rifampicin and rifabutin)
 - medicine to treat high blood pressure in the vessels of the lung (bosentan)
 - medicine to treat chemotherapy-induced nausea and vomiting (aprepitant)
 - St John's wort
 
-Use an additional birth control method (such as a male condom with spermicide) when you take medicines that may make NuvaRing less effective.
-Continue back-up birth control for 28 days after stopping the medicine to help prevent you from becoming pregnant.
+Use an additional barrier contraceptive method (such as a male condom with spermicide) when you take medicines that may make NuvaRing less effective.
+Since the effect of another medicine on NuvaRing may last up to 28 days after stopping the medicine, it is necessary to use the additional barrier contraceptive method for that long to help prevent you from becoming pregnant.
+While using NuvaRing, you should not use certain female barrier contraceptive methods such as a vaginal diaphragm or female condom as your back-up method of birth control because NuvaRing may interfere with the correct placement and position of a diaphragm or female condom.
 
 Some medicines and grapefruit juice may increase the level of ethinyl estradiol in your blood if used together, including:
 
 - the pain reliever acetaminophen
 - ascorbic acid (vitamin C)
-- medicines that affect how your liver breaks down other medicines (such as itraconazole, ketoconazole, voriconazole, and fluconazole)
-- certain HIV medicines (atazanavir/ritonavir, indinavir)
+- medicines that affect how your liver breaks down other medicines (such as itraconazole, ketoconazole, voriconazole, fluconazole, clarithromycin, erythromycin and diltiazem)
+- certain HIV medicines (atazanavir/ritonavir and indinavir)
 - non-nucleoside reverse transcriptase inhibitors (such as etravirine)
 - medicines to lower cholesterol such as atorvastatin and rosuvastatin
 
@@ -125,13 +126,13 @@ How should I use NuvaRing?
 - Read the Instructions for Use at the end of this Patient Information that comes with your NuvaRing for information about the right way to use NuvaRing.
 - Use NuvaRing exactly as your healthcare provider tells you to use it.
 - NuvaRing is used in a 4 week cycle.
-  - Insert 1 NuvaRing in the vagina and keep it in place for 3 weeks (21 days).
+  - Insert 1 NuvaRing in the vagina and keep it in place for 3 weeks (21 days).Regularly check that NuvaRing is in your vagina (for example, before and after intercourse) to ensure that you are protected from pregnancy.
   - Remove the NuvaRing for a 1 week break (7 days).
     During the 1-week break (7 days), you will usually have your menstrual period.
     Note: Insert and remove NuvaRing on the same day of the week and at the same time:
     - For example, if you insert your NuvaRing on a Monday at 8:00 am, you should remove it on the Monday 3 weeks later at 8:00 am.
     - After your 1 week (7 days) break, you should insert a new NuvaRing on the next Monday at 8:00 am.
-- While using NuvaRing, you should not use a vaginal diaphragm as your back-up method of birth control because NuvaRing may interfere with the correct placement and position of a diaphragm.
+- While using NuvaRing, you should not use certain female barrier contraceptive methods such as a vaginal diaphragm or female condom as your back-up method of birth control because NuvaRing may interfere with the correct placement and position of a diaphragm or female condom.
 - Use of spermicides or vaginal yeast products will not make NuvaRing less effective at preventing pregnancy.
 - Use of tampons will not make NuvaRing less effective or stop NuvaRing from working.
 - If NuvaRing has been left inside your vagina for more than 4 weeks (28 days), you may not be protected from pregnancy and you should see your healthcare provider to be sure you are not pregnant.
@@ -245,7 +246,7 @@ This leaflet summarizes the most important information about NuvaRing.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about NuvaRing that is written for health professionals.
 
-For more information, go to www.nuvaring.com or call 1-877-NUVARING (1-877-688-2746).
+For more information on NuvaRing and the applicator for NuvaRing, go to www.nuvaring.com or call 1-877-NUVARING (1-877-688-2746).
 
 What are the ingredients in NuvaRing?
 

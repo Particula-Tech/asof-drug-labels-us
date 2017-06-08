@@ -8,6 +8,8 @@ NuvaRing is contraindicated during pregnancy because there is no need for pregna
 Epidemiologic studies and meta-analyses have not shown an increased risk of genital or non-genital birth defects (including cardiac anomalies and limb-reduction defects) following maternal exposure to low dose CHCs prior to conception or during early pregnancy.
 No adverse developmental outcomes were observed in pregnant rats and rabbits with the administration of etonogestrel during organogenesis at doses approximately 300 times the anticipated daily vaginal human dose (~0.002 mg/kg/day).
 
+No adverse developmental outcomes were observed in pregnant rats and rabbits with the co-administration of the combination desogestrel/ethinyl estradiol during organogenesis at desogestrel/ethinyl estradiol doses at least 2/5 times, respectively, the anticipated daily vaginal human dose (~0.002 desogestrel/0.00025 ethinyl estradiol mg/kg/day).
+
 Discontinue NuvaRing use if pregnancy is confirmed.
 
 Data
@@ -15,6 +17,10 @@ Data
 Animal Data
 
 In rats and rabbits at dosages up to 300 times the anticipated dose, etonogestrel is neither embryotoxic nor teratogenic.
+Co-administration of a maternally toxic dose of desogestrel/ethinyl estradiol to pregnant rats was associated with embryolethality and wavy ribs at a desogestrel/ethinyl estradiol dose that was 40/130 times, respectively, the anticipated vaginal human dose (0.002 desogestrel/0.00025 ethinyl estradiol mg/kg/day).
+No adverse embryofetal effects were observed when the combination was administered to pregnant rats at a desogestrel/ethinyl estradiol dose that was 4/13 times, respectively, the anticipated vaginal human dose.
+When desogestrel/ethinyl estradiol was given to pregnant rabbits, pre-implantation loss was observed at a desogestrel/ethinyl estradiol dose that was 3/10 times, respectively, the anticipated vaginal human dose.
+No adverse embryofetal effects were observed when the combination was administered to pregnant rabbits at a desogestrel/ethinyl estradiol dose that was 2/5 times the anticipated vaginal human dose.
 
 ## 8.2 Lactation
 

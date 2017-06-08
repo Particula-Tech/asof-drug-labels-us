@@ -64,6 +64,7 @@ If she has not yet had a period, consider the possibility of ovulation and conce
 
 To prevent loss of contraceptive efficacy, advise women not to deviate from the recommended regimen.
 NuvaRing should be left in the vagina for a continuous period of three weeks.
+Advise women to regularly check for the presence of NuvaRing in the vagina (for example, before and after intercourse).
 
 Inadvertent Removal or Expulsion
 
@@ -90,6 +91,9 @@ One of the following two options should be chosen:
    This option should only be chosen if the ring was used continuously for at least seven days prior to inadvertent removal/expulsion.
 
 In either case, a barrier method such as condoms with spermicides must be used until the new ring has been used continuously for seven days.
+
+If NuvaRing was out of the vagina for an unknown amount of time, the possibility of pregnancy should be considered.
+A pregnancy test should be performed prior to inserting a new ring.
 
 Prolonged Ring-Free Interval
 
@@ -118,7 +122,7 @@ If a woman discovers that her NuvaRing has disconnected, she should discard the 
 
 ## 2.5 Use with Other Vaginal Products
 
-NuvaRing may interfere with the correct placement and position of a diaphragm.
-A diaphragm is therefore not recommended as a back-up method with NuvaRing use.
+NuvaRing may interfere with the correct placement and position of certain female barrier methods such as a diaphragm or female condom.
+These methods are not recommended as back-up methods with NuvaRing use.
 
 Pharmacokinetic data show that the use of tampons has no effect on the systemic absorption of the hormones released by NuvaRing.

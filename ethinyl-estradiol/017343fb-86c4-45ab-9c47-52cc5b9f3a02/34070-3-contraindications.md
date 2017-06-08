@@ -16,6 +16,6 @@ Do not prescribe NuvaRing to women who are known to have the following:
     - Women over age 35 with any migraine headaches [see Warnings and Precautions (5.8)]
 - Liver tumors, benign or malignant or liver disease [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)]
 - Undiagnosed abnormal uterine bleeding [see Warnings and Precautions (5.9)]
-- Pregnancy, because there is no reason to use CHCs during pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)]
+- Pregnancy, because there is no reason to use CHCs during pregnancy [see Use in Specific Populations (8.1)]
 - Breast cancer or other estrogen- or progestin-sensitive cancer, now or in the past [see Warnings and Precautions (5.12)]
 - Hypersensitivity to any of the components of NuvaRing [see Adverse Reactions (6)]
