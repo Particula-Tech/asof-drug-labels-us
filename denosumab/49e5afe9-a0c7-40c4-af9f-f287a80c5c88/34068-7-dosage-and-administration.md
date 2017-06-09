@@ -1,6 +1,6 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage
+## 2.1Recommended Dosage
 
 Prolia should be administered by a healthcare professional.
 
@@ -11,7 +11,7 @@ All patients should receive calcium 1000 mg daily and at least 400 IU vitamin D 
 If a dose of Prolia is missed, administer the injection as soon as the patient is available.
 Thereafter, schedule injections every 6 months from the date of the last injection.
 
-## 2.2 Preparation and Administration
+## 2.2Preparation and Administration
 
 Visually inspect Prolia for particulate matter and discoloration prior to administration whenever solution and container permit.
 Prolia is a clear, colorless to pale yellow solution that may contain trace amounts of translucent to white proteinaceous particles.
@@ -39,6 +39,7 @@ Step 2: Administer Subcutaneous Injection
 
 | Choose an injection site. The recommended injection sites for Prolia include: the upper arm OR the upper thigh OR the abdomen. |  |
 | --- | --- |
+| Insert needle and inject all the liquid subcutaneously. Do not administer into muscle or blood vessel. |  |
 
 DO NOT put grey needle cap back on needle.
 
@@ -48,13 +49,11 @@ With the needle pointing away from you…
 
 Hold the prefilled syringe by the clear plastic finger grip with one hand.
 Then, with the other hand, grasp the green safety guard by its base and gently slide it towards the needle until the green safety guard locks securely in place and/or you hear a “click.”
-DO NOT grip the green safety guard too firmly – it will move easily if you hold and slide it gently.
+DO NOT grip the green safety guard too firmly - it will move easily if you hold and slide it gently.
+
+| Hold clear finger grip. |  |
+| --- | --- |
+| Gently slide green safety guard over needle and lock securely in place. Do not grip green safety guard too firmly when sliding over needle. |  |
 
 Immediately dispose of the syringe and needle cap in the nearest sharps container.
 DO NOT put the needle cap back on the used syringe.
-
-Instructions for Single-use Vial
-
-For administration of Prolia from the single-use vial, use a 27-gauge needle to withdraw and inject the 1 mL dose.
-Do not re-enter the vial.
-Discard vial and any liquid remaining in the vial.

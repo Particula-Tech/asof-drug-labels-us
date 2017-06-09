@@ -1,11 +1,10 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16HOW SUPPLIED/STORAGE AND HANDLING
 
-Prolia is supplied in a single-use prefilled syringe with a safety guard or in a single-use vial.
+Prolia is supplied in a single-use prefilled syringe with a safety guard.
 The grey needle cap on the single-use prefilled syringe contains dry natural rubber (a derivative of latex).
 
 | 60 mg/1 mL in a single-use prefilled syringe | 1 per carton | NDC 55513-710-01 |
 | --- | --- | --- |
-| 60 mg/1 mL in a single-use vial | 1 per carton | NDC 55513-720-01 |
 
 Store Prolia in a refrigerator at 2°C to 8°C (36°F to 46°F) in the original carton.
 Do not freeze.

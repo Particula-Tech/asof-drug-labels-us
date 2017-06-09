@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
 The following serious adverse reactions are discussed below and also elsewhere in the labeling:
 
@@ -20,7 +20,7 @@ The most common adverse reactions leading to discontinuation of Prolia in patien
 
 To report Adverse Reactions with Prolia®, please call Amgen Medical Information at 1-800-772-6436, email medinfo@amgen.com, or report the event at FDA MedWatch.
 
-## 6.1 Clinical Trials Experience
+## 6.1Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
 
@@ -36,7 +36,7 @@ The percentage of patients who withdrew from the study due to adverse events was
 
 Adverse reactions reported in ≥ 2% of postmenopausal women with osteoporosis and more frequently in the Prolia-treated women than in the placebo-treated women are shown in the table below.
 
-Table 1.
+Table1.
 Adverse Reactions Occurring in ≥ 2% of Patients with Osteoporosis and More Frequently than in Placebo-treated Patients
 
 | SYSTEM ORGAN CLASS Preferred Term | Prolia (N = 3886) n (%) | Placebo (N = 3876) n (%) |
@@ -78,9 +78,7 @@ Adverse Reactions Occurring in ≥ 2% of Patients with Osteoporosis and More Fre
 | Rash | 96 (2.5) | 79 (2.0) |
 | Pruritus | 87 (2.2) | 82 (2.1) |
 
-Hypocalcemia
-
-Decreases in serum calcium levels to less than 8.5 mg/dL at any visit were reported in 0.4% women in the placebo group and 1.7% women in the Prolia group.
+Hypocalcemia Decreases in serum calcium levels to less than 8.5 mg/dL at any visit were reported in 0.4% women in the placebo group and 1.7% women in the Prolia group.
 The nadir in serum calcium level occurs at approximately day 10 after Prolia dosing in subjects with normal renal function.
 
 In clinical studies, subjects with impaired renal function were more likely to have greater reductions in serum calcium levels compared to subjects with normal renal function.
@@ -89,9 +87,7 @@ These included no subjects in the normal renal function group, 10% of subjects i
 These subjects did not receive calcium and vitamin D supplementation.
 In a study of 4550 postmenopausal women with osteoporosis, the mean change from baseline in serum calcium level 10 days after Prolia dosing was -5.5% in subjects with creatinine clearance < 30 mL/min vs. -3.1% in subjects with creatinine clearance ≥ 30 mL/min.
 
-Serious Infections
-
-Receptor activator of nuclear factor kappa-B ligand (RANKL) is expressed on activated T and B lymphocytes and in lymph nodes.
+Serious Infections Receptor activator of nuclear factor kappa-B ligand (RANKL) is expressed on activated T and B lymphocytes and in lymph nodes.
 Therefore, a RANKL inhibitor such as Prolia may increase the risk of infection.
 
 In the clinical study of 7808 postmenopausal women with osteoporosis, the incidence of infections resulting in death was 0.2% in both placebo and Prolia treatment groups.
@@ -103,37 +99,25 @@ Skin infections, including erysipelas and cellulitis, leading to hospitalization
 
 The incidence of opportunistic infections was similar to that reported with placebo.
 
-Dermatologic Reactions
-
-A significantly higher number of patients treated with Prolia developed epidermal and dermal adverse events (such as dermatitis, eczema, and rashes), with these events reported in 8.2% of the placebo and 10.8% of the Prolia groups (p < 0.0001).
+Dermatologic Reactions A significantly higher number of patients treated with Prolia developed epidermal and dermal adverse events (such as dermatitis, eczema, and rashes), with these events reported in 8.2% of the placebo and 10.8% of the Prolia groups (p < 0.0001).
 Most of these events were not specific to the injection site [see Warnings and Precautions (5.8)].
 
-Osteonecrosis of the Jaw
+Osteonecrosis of the Jaw ONJ has been reported in the osteoporosis clinical trial program in patients treated with Prolia [see Warnings and Precautions (5.4)].
 
-ONJ has been reported in the osteoporosis clinical trial program in patients treated with Prolia [see Warnings and Precautions (5.4)].
-
-Atypical Subtrochanteric and Diaphyseal Fractures
-
-In the osteoporosis clinical trial program, atypical femoral fractures were reported in patients treated with Prolia.
+Atypical Subtrochanteric and Diaphyseal Fractures In the osteoporosis clinical trial program, atypical femoral fractures were reported in patients treated with Prolia.
 The duration of Prolia exposure to time of atypical femoral fracture diagnosis was as early as 2½ years [see Warnings and Precautions (5.5)].
 
-Multiple Vertebral Fractures (MVF) Following Discontinuation of Prolia Treatment
-
-In the osteoporosis clinical trial program, multiple vertebral fractures were reported in patients after discontinuation of Prolia.
+Multiple Vertebral Fractures (MVF) Following Discontinuation of Prolia Treatment In the osteoporosis clinical trial program, multiple vertebral fractures were reported in patients after discontinuation of Prolia.
 In the phase 3 trial in women with postmenopausal osteoporosis, 6% of women who discontinued Prolia and remained in the study developed new vertebral fractures, and 3% of women who discontinued Prolia and remained in the study developed multiple new vertebral fractures.
-The mean time to onset of multiple vertebral fractures was 17 months (range 7- 43 months) after the last injection of Prolia.
+The mean time to onset of multiple vertebral fractures was 17 months (range: 7-43 months) after the last injection of Prolia.
 Prior vertebral fracture was a predictor of multiple vertebral fractures after discontinuation [see Warnings and Precautions (5.6)].
 
-Pancreatitis
-
-Pancreatitis was reported in 4 patients (0.1%) in the placebo and 8 patients (0.2%) in the Prolia groups.
+Pancreatitis Pancreatitis was reported in 4 patients (0.1%) in the placebo and 8 patients (0.2%) in the Prolia groups.
 Of these reports, 1 patient in the placebo group and all 8 patients in the Prolia group had serious events, including one death in the Prolia group.
 Several patients had a prior history of pancreatitis.
 The time from product administration to event occurrence was variable.
 
-New Malignancies
-
-The overall incidence of new malignancies was 4.3% in the placebo and 4.8% in the Prolia groups.
+New Malignancies The overall incidence of new malignancies was 4.3% in the placebo and 4.8% in the Prolia groups.
 New malignancies related to the breast (0.7% placebo vs. 0.9% Prolia), reproductive system (0.2% placebo vs. 0.5% Prolia), and gastrointestinal system (0.6% placebo vs. 0.9% Prolia) were reported.
 A causal relationship to drug exposure has not been established.
 
@@ -149,25 +133,15 @@ The percentage of patients who withdrew from the study due to adverse events was
 
 Adverse reactions reported in ≥ 5% of men with osteoporosis and more frequently with Prolia than in the placebo-treated patients were: back pain (6.7% placebo vs. 8.3% Prolia), arthralgia (5.8% placebo vs. 6.7% Prolia), and nasopharyngitis (5.8% placebo vs. 6.7% Prolia).
 
-Serious Infections
+Serious Infections Serious infection was reported in 1 patient (0.8%) in the placebo group and no patients in the Prolia group.
 
-Serious infection was reported in 1 patient (0.8%) in the placebo group and no patients in the Prolia group.
+Dermatologic Reactions Epidermal and dermal adverse events (such as dermatitis, eczema, and rashes) were reported in 4 patients (3.3%) in the placebo group and 5 patients (4.2%) in the Prolia group.
 
-Dermatologic Reactions
+Osteonecrosis of the Jaw No cases of ONJ were reported.
 
-Epidermal and dermal adverse events (such as dermatitis, eczema, and rashes) were reported in 4 patients (3.3%) in the placebo group and 5 patients (4.2%) in the Prolia group.
+Pancreatitis Pancreatitis was reported in 1 patient (0.8%) in the placebo group and 1 patient (0.8%) in the Prolia group.
 
-Osteonecrosis of the Jaw
-
-No cases of ONJ were reported.
-
-Pancreatitis
-
-Pancreatitis was reported in 1 patient (0.8%) in the placebo group and 1 patient (0.8%) in the Prolia group.
-
-New Malignancies
-
-New malignancies were reported in no patients in the placebo group and 4 (3.3%) patients (3 prostate cancers, 1 basal cell carcinoma) in the Prolia group.
+New Malignancies New malignancies were reported in no patients in the placebo group and 4 (3.3%) patients (3 prostate cancers, 1 basal cell carcinoma) in the Prolia group.
 
 Treatment of Bone Loss in Patients Receiving Androgen Deprivation Therapy for Prostate Cancer or Adjuvant Aromatase Inhibitor Therapy for Breast Cancer
 
@@ -202,7 +176,7 @@ The following adverse reactions have been identified during post approval use of
 - Parathyroid Hormone (PTH): Marked elevation in serum PTH in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis.
 - Multiple vertebral fractures following discontinuation of Prolia
 
-## 6.3 Immunogenicity
+## 6.3Immunogenicity
 
 Denosumab is a human monoclonal antibody.
 As with all therapeutic proteins, there is potential for immunogenicity.

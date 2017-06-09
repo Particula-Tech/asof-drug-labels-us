@@ -1,12 +1,12 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 Prolia binds to RANKL, a transmembrane or soluble protein essential for the formation, function, and survival of osteoclasts, the cells responsible for bone resorption.
 Prolia prevents RANKL from activating its receptor, RANK, on the surface of osteoclasts and their precursors.
 Prevention of the RANKL/RANK interaction inhibits osteoclast formation, function, and survival, thereby decreasing bone resorption and increasing bone mass and strength in both cortical and trabecular bone.
 
-## 12.2 Pharmacodynamics
+## 12.2Pharmacodynamics
 
 In clinical studies, treatment with 60 mg of Prolia resulted in reduction in the bone resorption marker serum type 1 C-telopeptide (CTX) by approximately 85% by 3 days, with maximal reductions occurring by 1 month.
 CTX levels were below the limit of assay quantitation (0.049 ng/mL) in 39% to 68% of patients 1 to 3 months after dosing of Prolia.
@@ -17,7 +17,7 @@ Upon reinitiation, the degree of inhibition of CTX by Prolia was similar to that
 Consistent with the physiological coupling of bone formation and resorption in skeletal remodeling, subsequent reductions in bone formation markers (i.e. osteocalcin and procollagen type 1 N-terminal peptide [PlNP]) were observed starting 1 month after the first dose of Prolia.
 After discontinuation of Prolia therapy, markers of bone resorption increased to levels 40% to 60% above pretreatment values but returned to baseline levels within 12 months.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 In a study conducted in healthy male and female volunteers (n = 73, age range: 18 to 64 years) following a single subcutaneously administered Prolia dose of 60 mg after fasting (at least for 12 hours), the mean maximum denosumab concentration (Cmax) was 6.75 mcg/mL (standard deviation [SD] = 1.89 mcg/mL).
 The median time to maximum denosumab concentration (Tmax) was 10 days (range: 3 to 21 days).
@@ -31,24 +31,18 @@ Prolia pharmacokinetics were not affected by the formation of binding antibodies
 A population pharmacokinetic analysis was performed to evaluate the effects of demographic characteristics.
 This analysis showed no notable differences in pharmacokinetics with age (in postmenopausal women), race, or body weight (36 to 140 kg).
 
-Seminal Fluid Pharmacokinetic Study
-
-Serum and seminal fluid concentrations of denosumab were measured in 12 healthy male volunteers (age range: 43-65 years).
+Seminal Fluid Pharmacokinetic Study Serum and seminal fluid concentrations of denosumab were measured in 12 healthy male volunteers (age range: 43-65 years).
 After a single 60 mg subcutaneous administration of denosumab, the mean (± SD) Cmax values in the serum and seminal fluid samples were 6170 (± 2070) and 100 (± 81.9) ng/mL, respectively, resulting in a maximum seminal fluid concentration of approximately 2% of serum levels.
 The median (range) Tmax values in the serum and seminal fluid samples were 8.0 (7.9 to 21) and 21 (8.0 to 49) days, respectively.
 Among the subjects, the highest denosumab concentration in seminal fluid was 301 ng/mL at 22 days post-dose.
 On the first day of measurement (10 days post-dose), nine of eleven subjects had quantifiable concentrations in semen.
-On the last day of measurement (106 days post-dose), five subjects still had quantifiable concentrations of denosumab in seminal fluid, with a mean (± SD) seminal fluid concentration of 21.1 (±36.5) ng/mL across all subjects (n = 12) [see Use in Specific Populations (8.1)].
+On the last day of measurement (106 days post-dose), five subjects still had quantifiable concentrations of denosumab in seminal fluid, with a mean (± SD) seminal fluid concentration of 21.1 (± 36.5) ng/mL across all subjects (n = 12).
 
-Drug Interactions
-
-In a study of 17 postmenopausal women with osteoporosis, midazolam (2 mg oral) was administered 2 weeks after a single dose of denosumab (60 mg subcutaneous injection), which approximates the Tmax of denosumab.
+Drug Interactions In a study of 17 postmenopausal women with osteoporosis, midazolam (2 mg oral) was administered 2 weeks after a single dose of denosumab (60 mg subcutaneous injection), which approximates the Tmax of denosumab.
 Denosumab did not affect the pharmacokinetics of midazolam, which is metabolized by cytochrome P450 3A4 (CYP3A4).
 This indicates that denosumab should not alter the pharmacokinetics of drugs metabolized by CYP3A4 in postmenopausal women with osteoporosis.
 
-Specific Populations
-
-Gender: Mean serum denosumab concentration-time profiles observed in a study conducted in healthy men ≥ 50 years were similar to those observed in a study conducted in postmenopausal women using the same dose regimen.
+Specific Populations Gender: Mean serum denosumab concentration-time profiles observed in a study conducted in healthy men ≥ 50 years were similar to those observed in a study conducted in postmenopausal women using the same dose regimen.
 
 Age: The pharmacokinetics of denosumab were not affected by age across all populations studied whose ages ranged from 28 to 87 years.
 

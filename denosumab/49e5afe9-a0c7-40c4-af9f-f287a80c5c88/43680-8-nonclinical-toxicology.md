@@ -1,20 +1,14 @@
-# 13 NONCLINICAL TOXICOLOGY
+# 13NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity
+Carcinogenicity The carcinogenic potential of denosumab has not been evaluated in long-term animal studies.
 
-The carcinogenic potential of denosumab has not been evaluated in long-term animal studies.
+Mutagenicity The genotoxic potential of denosumab has not been evaluated.
 
-Mutagenicity
+Impairment of Fertility Denosumab had no effect on female fertility or male reproductive organs in monkeys at doses that were 13- to 50-fold higher than the recommended human dose of 60 mg subcutaneously administered once every 6 months, based on body weight (mg/kg).
 
-The genotoxic potential of denosumab has not been evaluated.
-
-Impairment of Fertility
-
-Denosumab had no effect on female fertility or male reproductive organs in monkeys at doses that were 13- to 50-fold higher than the recommended human dose of 60 mg subcutaneously administered once every 6 months, based on body weight (mg/kg).
-
-## 13.2 Animal Toxicology and/or Pharmacology
+## 13.2Animal Toxicology and/or Pharmacology
 
 Denosumab is an inhibitor of osteoclastic bone resorption via inhibition of RANKL.
 

@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
@@ -6,10 +6,10 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Advise patients that denosumab is also marketed as Xgeva, and if taking Prolia, they should not receive Xgeva [see Warnings and Precautions (5.1)].
 
-## 17.2 Hypersensitivity
+## 17.2Hypersensitivity
 
 Advise patients to seek prompt medical attention if signs or symptoms of hypersensitivity reactions occur.
-Advise patients who have had signs or symptoms of systemic hypersensitivity reactions that they should not receive denosumab (Prolia or Xgeva) [see Warnings and Precautions (5.2), Contraindications (4.3)].
+Advise patients who have had signs or symptoms of systemic hypersensitivity reactions that they should not receive denosumab (Prolia or Xgeva) [see Warnings and Precautions (5.2), Contraindications (4)].
 
 ## 17.3 Hypocalcemia
 
@@ -25,7 +25,7 @@ Patients should inform their physician or dentist if they experience persistent 
 
 Advise patients to report new or unusual thigh, hip, or groin pain [see Warnings and Precautions (5.5)].
 
-## 17.6 Multiple Vertebral Fractures (MVF) Following Discontinuation of Prolia Treatment
+## 17.6Multiple Vertebral Fractures (MVF) Following Discontinuation of Prolia Treatment
 
 Advise patients not to interrupt Prolia therapy without talking to their physician [see Warnings and Precautions (5.6)].
 
@@ -42,17 +42,11 @@ Advise patients to seek prompt medical attention if they develop signs or sympto
 Inform patients that severe bone, joint, and/or muscle pain have been reported in patients taking Prolia.
 Patients should report severe symptoms if they develop [see Warnings and Precautions (5.9)].
 
-## 17.10 Embryo-Fetal Toxicity
+## 17.10Pregnancy
 
-Pregnancy
+Advise patients that Prolia is contraindicated in women who are pregnant and may cause fetal harm [see Contraindications (4), Use in Specific Populations (8.1)].
 
-Advise patients that Prolia is contraindicated in women who are pregnant and may cause fetal harm [see Contraindications (4.2), Use in Specific Populations (8.1)].
-
-## 17.11 Nursing Mothers
-
-Advise patients that because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Prolia, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother [see Use in Specific Populations (8.3)].
-
-## 17.12 Schedule of Administration
+## 17.11 Schedule of Administration
 
 If a dose of Prolia is missed, administer the injection as soon as convenient.
 Thereafter, schedule injections every 6 months from the date of the last injection.
@@ -63,4 +57,4 @@ Patent: http://pat.amgen.com/prolia/
 
 © 2010-2017 Amgen Inc. All rights reserved.
 
-1xxxxxx - v12
+1xxxxxx - v13
