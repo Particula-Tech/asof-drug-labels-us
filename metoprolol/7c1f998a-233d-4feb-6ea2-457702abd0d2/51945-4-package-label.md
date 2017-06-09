@@ -11,9 +11,11 @@ RL-5149
 
 Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 
-# PRINCIPAL DISPLAY PANEL - 10 x 5 mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 5 mL Vial Carton
 
-10 x 5 mL Single-dose Fliptop Vials NDC 0409-1778-05 Rx only
+10 x 5 mL Single-dose Fliptop Vials
+
+NDC 0409-1778-05 Rx only
 
 Metoprolol Tartrate Injection, USP
 
