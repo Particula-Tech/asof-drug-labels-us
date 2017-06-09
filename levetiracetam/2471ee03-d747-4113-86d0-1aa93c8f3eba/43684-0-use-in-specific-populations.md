@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Levetiracetam blood levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
+Levetiracetam blood levels may decrease during pregnancy [see Warnings and Precautions (5.10)].
 Teratogenic Effects Pregnancy Category C There are no adequate and controlled studies in pregnant women.
 In animal studies, levetiracetam produced evidence of developmental toxicity, including teratogenic effects, at doses similar to or greater than human therapeutic doses.
 Levetiracetam should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

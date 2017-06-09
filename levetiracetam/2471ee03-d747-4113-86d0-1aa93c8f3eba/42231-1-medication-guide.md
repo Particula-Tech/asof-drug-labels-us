@@ -49,6 +49,11 @@ Levetiracetam Tablets, 250 mg are blue oval shaped biconvex film-coated tablets 
 Levetiracetam Tablets, 500 mg are yellow oval shaped biconvex film-coated tablets debossed with a deep break line separating ‘E’ and ‘11’ on one side and plain on the other side.
 Levetiracetam Tablets, 750 mg are orange oval shaped biconvex film-coated tablets debossed with a deep break line separating ‘E’ and ‘12’ on one side and plain on the other side.
 Levetiracetam Tablets, 1000 mg are white to off-white modified oval shaped biconvex film-coated tablets debossed with a deep breakline separating ‘E’ and ‘13’ on one side and plain on the other side.
+
+Who should not take levetiracetam tablets?
+
+Do not take levetiracetam tablets if you are allergic to levetiracetam.
+
 What should I tell my healthcare provider before starting levetiracetam tablets?
 Before taking levetiracetam tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
@@ -105,6 +110,7 @@ Call your healthcare provider right away if you have any of these symptoms:
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
 - extreme sleepiness, tiredness, and weakness
 - problems with muscle coordination (problems walking and moving)
+- allergic reactions such as swelling of the face, lips, eyes, tongue, and throat, trouble swallowing or breathing, and hives.
 - a skin rash.
   Serious skin rashes can happen after you start taking levetiracetam tablets.
   There is no way to tell if a mild rash will become a serious reaction.
@@ -146,4 +152,4 @@ You can also get information about levetiracetam tablets by calling 1-866-850-28
 What are the ingredients of levetiracetam tablets?
 Active ingredient: levetiracetam Inactive ingredients: corn starch, colloidal silicon dioxide, povidone, talc, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, purified water and additional agents listed below: 250 mg tablets: FD&C Blue #2/indigo carmine aluminum lake 500 mg tablets: iron oxide yellow 750 mg tablets: FD&C Yellow #6/sunset yellow FCF aluminum lake, FD&C Blue #2/indigo carmine aluminum lake and iron oxide red.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 11/2016
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 06/2017
