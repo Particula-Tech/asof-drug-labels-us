@@ -77,7 +77,7 @@ Data indicate that oral absorption of tetracycline in infants is low due to the 
 Metronidazole transfers to human milk, and infant serum levels can be close to or comparable to infant therapeutic levels.
 Because of the potential risk of tumorigenicity shown in animal studies with metronidazole, a woman should pump and discard human milk for the duration of PYLERA therapy, and for 2 days after therapy ends, and feed her infant stored human milk (collected prior to therapy) or formula.
 
-## 8.3 Pediatric Use
+## 8.4 Pediatric Use
 
 Safety and effectiveness of PYLERA in pediatric patients infected with Helicobacter pylori have not been established.
 
@@ -85,7 +85,7 @@ Tetracycline use in children may cause permanent discoloration of the teeth.
 Enamel hypoplasia has also been reported.
 PYLERA should not be used in children up to 8 years of age [see Warnings and Precaution (5.4)].
 
-## 8.4 Geriatric Use
+## 8.5 Geriatric Use
 
 Clinical studies of PYLERA did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
@@ -93,12 +93,13 @@ In general, elderly patients may have a greater frequency of decreased hepatic, 
 Bismuth subcitrate potassium, a component of PYLERA, is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, additional monitoring may be required [see Contraindications (4.4)].
 
-## 8.5 Renal Impairment
+## 8.6 Renal Impairment
 
 The antianabolic action of the tetracyclines may cause an increase in blood urea nitrogen (BUN).
-While this is not a problem in those with normal renal function, in patients with severe renal impairment, higher serum concentrations of tetracycline may lead to azotemia, hyperphosphatemia, and acidosis [see Contraindications (4.4)].
+In patients with severe renal impairment, higher serum concentrations of tetracycline may lead to azotemia, hyperphosphatemia, and acidosis [see Contraindications (4.4)].
 
-## 8.6 Hepatic Impairment
+## 8.7 Hepatic Impairment
 
 Patients with severe hepatic disease metabolize metronidazole slowly, with resultant accumulation of metronidazole and its metabolites in plasma.
-Use PYLERA with caution in patients with hepatic impairment [see Warnings and Precautions (5.10)].
+Patients with mild to moderate hepatic impairment should be monitored for metronidazole associated adverse events.
+PYLERA is not recommended in patients with severe hepatic impairment [see Warnings and Precautions (5.10), Clinical Pharmacology (12.3)].

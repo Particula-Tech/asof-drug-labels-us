@@ -2,7 +2,7 @@
 
 ## 5.1 Potential for Carcinogenicity
 
-Metronidazole has been shown to be carcinogenic in mice and rats.
+Metronidazole, a component of PYLERA, has been shown to be carcinogenic in mice and rats.
 Tumors affecting the liver, lungs, mammary and lymphatic tissues have been detected in several studies of metronidazole in rats and mice, but not hamsters [see Nonclinical Toxicology (13)].
 It is unknown whether metronidazole is associated with carcinogenicity in humans.
 
@@ -11,12 +11,12 @@ It is unknown whether metronidazole is associated with carcinogenicity in humans
 Tetracycline can cause fetal harm when administered to a pregnant woman.
 Based on animal data, use of drugs of the tetracycline class during the second and third trimester of pregnancy can cause permanent discoloration of the teeth (yellow-gray brown) and possibly inhibit bone development [see Warnings and Precautions (5.4)].
 Administration of oral tetracycline to pregnant rats at various doses resulted in yellow fluorescence in teeth and bones in the newborn animals.
-If PYLERA is used during pregnancy, or if the patient becomes pregnant while taking PYLERA, advise the patient of the potential risk to the fetus [see Use in Specific Populations (8.1)].
+If PYLERA is used during pregnancy, or if the patient becomes pregnant while taking PYLERA, advise the patient of the potential risk to the fetus [see Contraindications (4.5) and Use in Specific Populations (8.1)].
 
 ## 5.3 Maternal Toxicity
 
-Tetracycline administered during pregnancy at high doses (> 2 g IV) was associated with rare but serious cases of maternal hepatotoxicity.
-This syndrome may result in stillborn or premature birth due to maternal pathology [see Use in Specific Populations (8.1)].
+Tetracycline, a component of PYLERA, administered during pregnancy at high doses (> 2 g IV) was associated with rare but serious cases of maternal hepatotoxicity.
+This syndrome may result in stillborn or premature birth due to maternal pathology [see Contraindications (4.5) and Use in Specific Populations (8.1)].
 
 ## 5.4 Tooth Enamel Discoloration and Hypoplasia
 
@@ -76,8 +76,8 @@ Total and differential leukocyte counts are recommended before and after therapy
 ## 5.10 Increased Plasma Concentrations in Patients with Hepatic Impairment
 
 Patients with hepatic impairment metabolize metronidazole slowly, with resultant accumulation of metronidazole in the plasma.
-Use PYLERA with caution in patients with mild to moderate hepatic impairment.
-PYLERA may not be appropriate for patients with severe hepatic impairment (Child-Pugh C) [see Clinical Pharmacology (12)].
+Patients with mild to moderate hepatic impairment should be monitored for metronidazole associated adverse events.
+PYLERA is not recommended in patients with severe hepatic impairment (Child-Pugh C) [see Clinical Pharmacology (12.3)].
 
 ## 5.11 Laboratory Test Interactions
 

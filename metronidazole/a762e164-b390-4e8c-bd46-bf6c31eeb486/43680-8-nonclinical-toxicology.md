@@ -23,7 +23,7 @@ Although metronidazole has shown mutagenic activity in a number of in vitro assa
 
 Fertility studies have been conducted with male rats and mice with divergent results.
 Metronidazole, at doses up to 400 mg/kg/day (approximately 3 times the indicated human dose based on mg/m2) for 28 days, failed to produce any adverse effects on fertility and testicular function in male rats.
-In another study where rats were treated with up to 400 mg/kg/day for 8 weeks, there was severe degeneration of the seminiferous epithelium in the testes which was associated with a marked decrease in testicular spermatid counts and epididymal sperm counts and a marked decrease in fecundity.
+Ratstreated with up to 400 mg/kg/day for 6 weeks or longer, showed severe degeneration of the seminiferous epithelium in the testes which was associated with a marked decrease in testicular spermatid counts and epididymal sperm counts and a marked decrease in fecundity.
 These effects were partially reversible.
 
 Fertility studies have been performed in male mice at doses up to six times the maximum recommended human dose based upon mg/m2 and have revealed no evidence of impaired fertility.
@@ -41,10 +41,6 @@ Two lifetime tumorigenicity studies in hamsters have been performed and reported
 
 Metronidazole has shown mutagenic activity in in vitro assay systems including the Ames test.
 Studies in mammals in vivo have failed to demonstrate a potential for genetic damage.
-
-Metronidazole failed to produce any adverse effects on fertility or testicular function in male rats at doses up at 400 mg/kg/day (similar to the maximum recommended clinical dose, based on body surface area comparisons) for 28 days.
-However, rats treated at the same dose for 6 weeks or longer were infertile and showed severe degeneration of the seminiferous epithelium in the testes as well as marked decreases in testicular spermatid counts and epididymal sperm counts.
-Fertility was restored in most rats after an eight week, drug-free recovery period.
 
 Tetracycline hydrochloride
 
