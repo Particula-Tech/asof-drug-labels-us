@@ -94,11 +94,11 @@ Although quinolones, including ofloxacin, have been shown to cause arthropathy i
 Store at 25ºC (77ºF), excursions permitted to 15º-30ºC (59º-86ºF).
 Protect from light.
 
-Revised August 2016
+Revised April 2017
 
 Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA ©Bausch & Lomb Incorporated
 
-9047603 (Folded)/9047703 (Flat)
+9047604 (Folded) / 9047704 (Flat)
 
 DO NOT USE IF IMPRINTED NECKBAND IS NOT INTACT
 
@@ -248,4 +248,4 @@ Revised 08/2016
 
 Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA ©Bausch & Lomb Incorporated
 
-9047603 (Folded)/9047703 (Flat)
+9047604 (Folded) / 9047704 (Flat)

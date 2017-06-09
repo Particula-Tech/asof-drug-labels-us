@@ -24,7 +24,7 @@ In once daily dosing studies, there were also single reports of nausea, seborrhe
 
 In twice daily dosing studies, the following treatment-related adverse events were each reported in a single subject: dermatitis, eczema, erythematous rash, follicular rash, hypoaesthesia, tinnitus, dyspepsia, hot flushes, flushing and otorrhagia
 
-Subjects with Acute Otitis Media with Tympanostomy Tubes (AOM TT) and Subjects with Chronic Suppurative Otitis Media (CSOM) with PerforatedTympanic Membranes
+Subjects with Acute Otitis Media with Tympanostomy Tubes (AOM TT) and Subjects with Chronic Suppurative Otitis Media (CSOM) with Perforated Tympanic Membranes
 
 In phase III clinical trials which formed the basis for approval, the following treatment-related adverse events occurred in 1% or more of the 656 subjects with non-intact membranes in AOM TT or CSOM treated twice daily with Ofloxacin Otic Solution:
 

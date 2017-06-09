@@ -6,5 +6,5 @@ The chemical name of ofloxacin is: (±)-9-fluoro-2,3-dihydro-3-methyl-10-(4-meth
 The empirical formula of ofloxacin is C18H20FN3O4 and its molecular weight is 361.38.
 The structural formula is:
 
-Each mL contains: Active:ofloxacin 0.3% (3 mg/mL); Inactives:benzalkonium chloride (0.0025%), sodium chloride (0.9%), and purified water.
+Each mL contains: Active: ofloxacin 0.3% (3 mg/mL); Inactives: benzalkonium chloride (0.0025%), sodium chloride (0.9%), and purified water.
 Hydrochloric acid and/or sodium hydroxide may be added to adjust the pH 6.5±0.5.
