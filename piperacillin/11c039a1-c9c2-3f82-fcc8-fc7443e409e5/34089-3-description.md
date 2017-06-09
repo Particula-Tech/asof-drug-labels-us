@@ -31,7 +31,7 @@ The components and dosage formulations are given in the table below:
 
 Table 5: ZOSYN In GALAXY Containers Premixed Frozen Solution
 
-|  |  | 2.25 g/50 mL | 3.375 g/50 mL | 4.5 g/100 mL |
+| 2.25 g/50 mL | 3.375 g/50 mL | 4.5 g/100 mL |  |  |
 | --- | --- | --- | --- | --- |
 | ComponentPiperacillin and tazobactam are present in the formulation as sodium salts. Dextrose hydrous, sodium citrate dihydrate, and edetate disodium dihydrate amounts are approximate. | Function | Dosage Formulations |  |  |
 | Piperacillin | active ingredient | 2 g | 3 g | 4 g |

@@ -292,3 +292,7 @@ Store at or below -20°C/-4°F.
 Do not refreeze
 
 Rx ONLY
+
+NOVAPLUS is a registered trademark of Vizient, Inc.
+
+LAB-0713-8.0

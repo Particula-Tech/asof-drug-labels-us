@@ -12,42 +12,17 @@ Table 3: Adverse Reactions from ZOSYN Monotherapy Clinical Trials
 
 | System Organ Class Adverse Reaction |
 | --- |
-| Gastrointestinal disorders |
-| Diarrhea (11.3%) |
-| Constipation (7.7%) |
-| Nausea (6.9%) |
-| Vomiting (3.3%) |
-| Dyspepsia (3.3%) |
-| Abdominal pain (1.3%) |
-| General disorders and administration site conditions |
-| Fever (2.4%) |
-| Injection site reaction (≤1%) |
-| Rigors (≤1%) |
-| Immune system disorders |
-| Anaphylaxis (≤1%) |
-| Infections and infestations |
-| Candidiasis (1.6%) |
-| Pseudomembranous colitis (≤1%) |
-| Metabolism and nutrition disorders |
-| Hypoglycemia (≤1%) |
-| Musculoskeletal and connective tissue disorders |
-| Myalgia(≤1%) |
-| Arthralgia (≤1%) |
-| Nervous system disorders |
-| Headache (7.7%) |
-| Psychiatric disorders |
-| Insomnia (6.6%) |
-| Skin and subcutaneous tissue disorders |
-| Rash (4.2%, including maculopapular, bullous, and urticarial) |
-| Pruritus (3.1%) |
-| Purpura (≤1%) |
-| Vascular disorders |
-| Phlebitis (1.3%) |
-| Thrombophlebitis (≤1%) |
-| Hypotension (≤1%) |
-| Flushing (≤1%) |
-| Respiratory, thoracic and mediastinal disorders |
-| Epistaxis (≤1%) |
+| Gastrointestinal disorders Diarrhea (11.3%) Constipation (7.7%) Nausea (6.9%) Vomiting (3.3%) Dyspepsia (3.3%) Abdominal pain (1.3%) |
+| General disorders and administration site conditions Fever (2.4%) Injection site reaction (≤1%) Rigors (≤1%) |
+| Immune system disorders Anaphylaxis (≤1%) |
+| Infections and infestations Candidiasis (1.6%) Pseudomembranous colitis (≤1%) |
+| Metabolism and nutrition disorders Hypoglycemia (≤1%) |
+| Musculoskeletal and connective tissue disorders Myalgia(≤1%) Arthralgia (≤1%) |
+| Nervous system disorders Headache (7.7%) |
+| Psychiatric disorders Insomnia (6.6%) |
+| Skin and subcutaneous tissue disorders Rash (4.2%, including maculopapular, bullous, and urticarial) Pruritus (3.1%) Purpura (≤1%) |
+| Vascular disorders Phlebitis (1.3%) Thrombophlebitis (≤1%) Hypotension (≤1%) Flushing (≤1%) |
+| Respiratory, thoracic and mediastinal disorders Epistaxis (≤1%) |
 
 Nosocomial Pneumonia Trials
 
@@ -62,47 +37,21 @@ Table 4: Adverse Reactions from ZOSYN Plus Aminoglycoside Clinical TrialsFor adv
 
 | System Organ Class Adverse Reaction |
 | --- |
-| Blood and lymphatic system disorders |
-| Thrombocythemia (1.4%) |
-| Anemia (≤1%) |
-| Thrombocytopenia (≤1%) |
-| Eosinophilia (≤1%) |
-| Gastrointestinal disorders |
-| Diarrhea (20%) |
-| Constipation (8.4%) |
-| Nausea (5.8%) |
-| Vomiting (2.7%) |
-| Dyspepsia (1.9%) |
-| Abdominal pain (1.8%) |
-| Stomatitis (≤1%) |
-| General disorders and administration site conditions |
-| Fever (3.2%) |
-| Injection site reaction (≤1%) |
-| Infections and infestations |
-| Oral candidiasis (3.9%) |
-| Candidiasis (1.8%) |
-| Investigations |
-| BUN increased (1.8%) |
-| Blood creatinine increased (1.8%) |
-| Liver function test abnormal (1.4%) |
-| Alkaline phosphatase increased (≤1%) |
-| Aspartate aminotransferase increased (≤1%) |
-| Alanine aminotransferase increased (≤1%) |
-| Metabolism and nutrition disorders |
-| Hypoglycemia (≤1%) |
-| Hypokalemia (≤1%) |
-| Nervous system disorders |
-| Headache (4.5%) |
-| Psychiatric disorders |
-| Insomnia (4.5%) |
-| Renal and urinary disorders |
-| Renal failure (≤1%) |
-| Skin and subcutaneous tissue disorders |
-| Rash (3.9%) |
-| Pruritus (3.2%) |
-| Vascular disorders |
-| Thrombophlebitis (1.3%) |
-| Hypotension (1.3%) |
+| Blood and lymphatic system disorders Thrombocythemia (1.4%) Anemia (≤1%) Thrombocytopenia (≤1%) Eosinophilia (≤1%) |
+| Gastrointestinal disorders Diarrhea (20%) Constipation (8.4%) Nausea (5.8%) Vomiting (2.7%) Dyspepsia (1.9%) Abdominal pain (1.8%) Stomatitis (≤1%) |
+| General disorders and administration site conditions Fever (3.2%) Injection site reaction (≤1%) |
+| Infections and infestations Oral candidiasis (3.9%) Candidiasis (1.8%) |
+| Investigations BUN increased (1.8%) Blood creatinine increased (1.8%) Liver function test abnormal (1.4%) Alkaline phosphatase increased (≤1%) Aspartate aminotransferase increased (≤1%) Alanine aminotransferase increased (≤1%) |
+| Metabolism and nutrition disorders Hypoglycemia (≤1%) Hypokalemia (≤1%) |
+| Nervous system disorders Headache (4.5%) |
+| Psychiatric disorders Insomnia (4.5%) |
+| Renal and urinary disorders Renal failure (≤1%) |
+| Skin and subcutaneous tissue disorders Rash (3.9%) Pruritus (3.2%) |
+| Vascular disorders Thrombophlebitis (1.3%) Hypotension (1.3%) |
+
+Other trials: Nephrotoxicity
+
+In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin/tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs1[see Warnings and Precautions (5.5)].
 
 Pediatrics
 

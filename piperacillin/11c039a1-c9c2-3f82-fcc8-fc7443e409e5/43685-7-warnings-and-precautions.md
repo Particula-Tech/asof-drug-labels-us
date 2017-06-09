@@ -26,13 +26,11 @@ Periodic assessment of hematopoietic function should be performed, especially wi
 
 As with other penicillins, patients may experience neuromuscular excitability or convulsions if higher than recommended doses are given intravenously (particularly in the presence of renal failure).
 
-## 5.5 Renal Impairment
+## 5.5 Nephrotoxicity in Critically Ill Patients
 
-Due to its potential nephrotoxicity [see Adverse Reactions (6.1)], piperacillin/tazobactam should be used with care in patients with renal impairment or in hemodialysis patients.
-Intravenous dosages and administration intervals should be adjusted to the degree of renal function impairment [see Dosage and Administration (2.3)].
-
-In a secondary analysis using data from a large multicenter, randomized-controlled trial when glomerular filtration rate (GFR) was examined after administration of frequently used antibiotics in critically ill patients, the use of piperacillin/tazobactam was associated with a lower rate of reversible GFR improvement compared with the other antibiotics.
-This secondary analysis concluded that piperacillin/tazobactam was a cause of delayed renal recovery in these patients.
+The use of ZOSYN was found to be an independent risk factor for renal failure and was associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs in a randomized, multicenter, controlled trial in critically ill patients [see Adverse Reactions (6.1)].
+Based on this study, alternative treatment options should be considered in the critically ill population.
+If alternative treatment options are inadequate or unavailable, monitor renal function during treatment with ZOSYN [see Dosage and Administration (2.3)].
 
 Combined use of piperacillin/tazobactam and vancomycin may be associated with an increased incidence of acute kidney injury [see Drug Interactions (7.3)].
 

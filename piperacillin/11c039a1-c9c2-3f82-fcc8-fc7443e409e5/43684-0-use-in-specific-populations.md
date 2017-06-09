@@ -2,21 +2,35 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic effects—Pregnancy Category B
-
-Piperacillin/tazobactam
-
-Teratology studies have been performed in mice and rats and have revealed no evidence of harm to the fetus when piperacillin/tazobactam is administered intravenously up to a dose of 3000/750 mg/kg piperacillin/tazobactam which is 1 to 2 times and 2 to 3 times the human dose of piperacillin and tazobactam, respectively, based on body-surface area (mg/m2).
+Risk Summary
 
 Piperacillin and tazobactam cross the placenta in humans.
+However, there are insufficient data with piperacillin and/or tazobactam in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
+No fetal structural abnormalities were observed in rats or mice when piperacillin/tazobactam was administered intravenously during organogenesis at doses 1 to 2 times and 2 to 3 times the human dose of piperacillin and tazobactam, respectively, based on body-surface area (mg/m2).
+However, fetotoxicity in the presence of maternal toxicity was observed in developmental toxicity and peri/postnatal studies conducted in rats (intraperitoneal administration prior to mating and throughout gestation or from gestation day 17 through lactation day 21) at doses less than the maximum recommended human daily dose based on body-surface area (mg/m2) [see Data].
 
-There are, however, no adequate and well-controlled studies with the piperacillin/tazobactam combination or with piperacillin or tazobactam alone in pregnant women.
-Because animal reproduction studies are not always predictive of the human response, this drug should be used during pregnancy only if clearly needed.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
-## 8.3 Nursing Mothers
+Data
 
-Piperacillin is excreted in low concentrations in human milk; tazobactam concentrations in human milk have not been studied.
-Caution should be exercised when ZOSYN is administered to a nursing woman.
+Animal Data
+
+In embryo-fetal development studies in mice and rats, pregnant animals received intravenous doses of piperacillin/tazobactam up to 3000/750 mg/kg/day during the period of organogenesis.
+There was no evidence of teratogenicity up to the highest dose evaluated, which is 1 to 2 times and 2 to 3 times the human dose of piperacillin and tazobactam, in mice and rats respectively, based on body-surface area (mg/m2).
+Fetal body weights were reduced in rats at maternally toxic doses at or above 500/62.5 mg/kg/day, minimally representing 0.4 times the human dose of both piperacillin and tazobactam based on body-surface area (mg/m2).
+
+A fertility and general reproduction study in rats using intraperitoneal administration of tazobactam or the combination piperacillin/tazobactam prior to mating and through the end of gestation, reported a decrease in litter size in the presence of maternal toxicity at 640 mg/kg/day tazobactam (4 times the human dose of tazobactam based on body-surface area), and decreased litter size and an increase in fetuses with ossification delays and variations of ribs, concurrent with maternal toxicity at ≥640/160 mg/kg/day piperacillin/tazobactam (0.5 times and 1 times the human dose of piperacillin and tazobactam, respectively, based on body-surface area).
+
+Peri/postnatal development in rats was impaired with reduced pup weights, increased stillbirths, and increased pup mortality concurrent with maternal toxicity after intraperitoneal administration of tazobactam alone at doses ≥320 mg/kg/day (2 times the human dose based on body surface area) or of the combination piperacillin/tazobactam at doses ≥640/160 mg/kg/day (0.5 times and 1 times the human dose of piperacillin and tazobactam, respectively, based on body-surface area) from gestation day 17 through lactation day 21.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Piperacillin is excreted in human milk; tazobactam concentrations in human milk have not been studied.
+No information is available on the effects of piperacillin and tazobactam on the breast-fed child or on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ZOSYN and any potential adverse effects on the breastfed child from ZOSYN or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

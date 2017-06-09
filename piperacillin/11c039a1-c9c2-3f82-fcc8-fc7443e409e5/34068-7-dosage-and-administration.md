@@ -153,8 +153,12 @@ Table 2: Compatibility with Aminoglycosides
 
 | Aminoglycoside | ZOSYN Dose (grams) | ZOSYN Diluent Volume Diluent volumes apply only to single vials and bulk pharmacy containers (mL) | Aminoglycoside Concentration Range The concentration ranges in Table 2 are based on administration of the aminoglycoside in divided doses (10–15 mg/kg/day in two daily doses for amikacin and 3–5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with ZOSYN containing EDTA has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions. (mg/mL) | Acceptable Diluents |
 | --- | --- | --- | --- | --- |
-| Amikacin | 2.25 3.375 4.5 | 50 100 150 | 1.75 – 7.5 | 0.9% sodium chloride or 5% dextrose |
-| Gentamicin | 2.25 3.375ZOSYN 3.375 g per 50 mL GALAXY containers are NOT compatible with gentamicin for co-administration via a Y-site due to the higher concentrations of piperacillin and tazobactam. 4.5 | 50 100 150 | 0.7 – 3.32 | 0.9% sodium chloride or 5% dextrose |
+| Amikacin | 2.25 | 50 | 1.75 – 7.5 | 0.9% sodium chloride or 5% dextrose |
+| 3.375 | 100 |  |  |  |
+| 4.5 | 150 |  |  |  |
+| Gentamicin | 2.25 | 50 | 0.7 – 3.32 | 0.9% sodium chloride or 5% dextrose |
+| 3.375ZOSYN 3.375 g per 50 mL GALAXY containers are NOT compatible with gentamicin for co-administration via a Y-site due to the higher concentrations of piperacillin and tazobactam. | 100 |  |  |  |
+| 4.5 | 150 |  |  |  |
 
 Only the concentration and diluents for amikacin or gentamicin with the dosages of ZOSYN listed above have been established as compatible for co-administration via Y-site infusion.
 Simultaneous co-administration via Y-site infusion in any manner other than listed above may result in inactivation of the aminoglycoside by ZOSYN.

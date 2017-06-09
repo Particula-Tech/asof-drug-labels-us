@@ -18,5 +18,4 @@ They do not treat viral infections (e.g., the common cold).
 When ZOSYN is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ZOSYN or other antibacterial drugs in the future.
 
-|  | This product's label may have been updated. For current package insert and further product information, please visit http://www.pfizer.com or call our medical communications department toll-free at 1-800-438-1985. |  |
-| --- | --- | --- |
+Counsel patients that ZOSYN can cross the placenta in humans and is excreted in human milk.

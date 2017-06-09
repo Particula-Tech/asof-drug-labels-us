@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ZOSYN (piperacillin and tazobactam) for Injection are supplied as single-dose vials and pharmacy bulk vials in the following sizes:
+ZOSYN® (piperacillin and tazobactam) for Injection are supplied as single-dose vials and pharmacy bulk vials in the following sizes:
 
 - Each ZOSYN 2.25 g vial provides piperacillin sodium equivalent to 2 grams of piperacillin and tazobactam sodium equivalent to 0.25 g of tazobactam.
   Each vial contains 5.68 mEq (130 mg) of sodium.
@@ -15,9 +15,9 @@ ZOSYN (piperacillin and tazobactam) for Injection are supplied as single-dose vi
   Each pharmacy bulk vial contains 100.4 mEq (2,304 mg) of sodium.
   NDC 0206-2416-01
 
-ZOSYN for Injection vials should be stored at controlled room temperature (20°C to 25°C [68°F to 77°F]) prior to reconstitution.
+ZOSYN® for Injection vials should be stored at controlled room temperature (20°C to 25°C [68°F to 77°F]) prior to reconstitution.
 
-ZOSYN (piperacillin and tazobactam) Injection in GALAXY Containers are supplied as a frozen, iso-osmotic, sterile, nonpyrogenic solution in single dose plastic containers as follows:
+ZOSYN® (piperacillin and tazobactam) Injection in GALAXY Containers are supplied as a frozen, iso-osmotic, sterile, nonpyrogenic solution in single dose plastic containers as follows:
 
 - 2.25 g (piperacillin sodium equivalent to 2 g piperacillin/tazobactam sodium equivalent to 0.25 g tazobactam) in 50 mL.
   Each container has 5.58 mEq (128 mg) of sodium.
@@ -29,4 +29,4 @@ ZOSYN (piperacillin and tazobactam) Injection in GALAXY Containers are supplied 
   Each container has 11.17 mEq (256 mg) of sodium.
   Supplied 12/box—NDC 0206-2413-02
 
-ZOSYN Injection in GALAXY Containers should be stored at or below -20°C (-4°F).
+ZOSYN® Injection in GALAXY Containers should be stored at or below -20°C (-4°F).
