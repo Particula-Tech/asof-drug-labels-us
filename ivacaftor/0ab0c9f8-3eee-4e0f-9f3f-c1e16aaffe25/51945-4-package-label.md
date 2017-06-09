@@ -1,20 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 150 mg Carton
+# PRINCIPAL DISPLAY PANEL - 150 mg Tablet Blister Card Carton
 
-NDC 51167-200-02
-
-Rx only
-
-kalydeco™ (ivacaftor) tablets
-
-150 mg
-
-60 tablets
-
-# PRINCIPAL DISPLAY PANEL - 56 Tablet Blister Card Carton
-
-NDC 51167-200-01
-
-Rx only
+NDC 51167-200-01 Rx only
 
 kalydeco® (ivacaftor) tablets
 
@@ -24,13 +10,23 @@ Carton contains 4 individual blister cards of 14 tablets per card.
 
 56 tablets
 
+# PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Carton
+
+NDC 51167-200-02 Rx only
+
+kalydeco™ (ivacaftor) tablets
+
+150 mg
+
+60 tablets
+
 # PRINCIPAL DISPLAY PANEL - 50 mg Granule Packet Carton
 
-NDC 51167-300-01
+Rx only NDC 51167-300-01
 
-Rx only
+kalydeco® (ivacaftor) oral granules
 
-kalydeco® (ivacaftor) Oral Granules 50 mg
+50 mg
 
 56 packets Each packet contains 50 mg ivacaftor
 
@@ -40,11 +36,11 @@ Lift here to open
 
 # PRINCIPAL DISPLAY PANEL - 75 mg Granule Packet Carton
 
-NDC 51167-400-01
+Rx only NDC 51167-400-01
 
-Rx only
+kalydeco® (ivacaftor) oral granules
 
-kalydeco® (ivacaftor) Oral Granules 75 mg
+75 mg
 
 56 packets Each packet contains 75 mg ivacaftor
 

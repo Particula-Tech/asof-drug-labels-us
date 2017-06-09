@@ -72,8 +72,3 @@ Therefore, use with caution at a dose of one tablet or one packet of granules on
 
 KALYDECO has not been studied in patients with mild, moderate, or severe renal impairment or in patients with end-stage renal disease.
 No dose adjustment is necessary for patients with mild to moderate renal impairment; however, caution is recommended while using KALYDECO in patients with severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or end-stage renal disease.
-
-## 8.8 Patients with CF who are Homozygous for the F508del Mutation in the CFTR Gene
-
-Efficacy results from a double-blind, placebo-controlled trial in patients with CF who are homozygous for the F508del mutation in the CFTR gene showed no statistically significant difference in forced expiratory volume exhaled in one second (FEV1) over 16 weeks of KALYDECO treatment compared to placebo [see Clinical Studies (14.4)].
-Therefore, KALYDECO should not be used in patients homozygous for the F508del mutation in the CFTR gene.

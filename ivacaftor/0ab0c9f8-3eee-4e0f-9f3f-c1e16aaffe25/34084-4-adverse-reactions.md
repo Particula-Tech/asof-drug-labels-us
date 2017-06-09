@@ -11,9 +11,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The overall safety profile of KALYDECO is based on pooled data from three placebo-controlled clinical trials conducted in 353 patients 6 years of age and older with CF who had a G551D mutation in the CFTR gene (Trials 1 and 2) or were homozygous for the F508del mutation (Trial 3).
 In addition, the following clinical trials have also been conducted [see Clinical Pharmacology (12) and Clinical Studies (14)]:
 
-- An 8-week crossover design trial (Trial 4) involving 39 patients between the ages of 6 and 57 years with a G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene.
-- A 24-week placebo-controlled trial (Trial 5) involving 69 patients between the ages of 6 and 68 years with an R117H mutation in the CFTR gene.
-- A 24-week open-label trial (Trial 6) in 34 patients 2 to less than 6 years of age.
+- An 8-week, crossover design trial (Trial 4) involving 39 patients between the ages of 6 and 57 years with a G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene.
+- A 24-week, placebo-controlled trial (Trial 5) involving 69 patients between the ages of 6 and 68 years with an R117H mutation in the CFTR gene.
+- A 24-week, open-label trial (Trial 6) in 34 patients 2 to less than 6 years of age.
   Patients eligible for Trial 6 were those with the G551D, G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene.
   Of 34 patients enrolled, 32 had the G551D mutation and 2 had the S549N mutation.
 

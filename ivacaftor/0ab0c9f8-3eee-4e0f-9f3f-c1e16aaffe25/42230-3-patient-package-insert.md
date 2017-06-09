@@ -8,12 +8,9 @@ This information does not take the place of talking to your doctor about your me
 
 What is KALYDECO?
 
-KALYDECO is a prescription medicine used for the treatment of cystic fibrosis (CF) in patients age 2 years and older who have one of the following mutations in their CF gene: G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, or S549R.
+KALYDECO is a prescription medicine used for the treatment of cystic fibrosis (CF) in patients age 2 years and older who have at least one mutation in their CF gene that is responsive to KALYDECO.
 
-KALYDECO is used for the treatment of CF in patients age 2 years and older who have an R117H mutation in their CF gene.
-
-KALYDECO is not for use in people with CF due to other mutations in the CF gene.
-KALYDECO is not effective in CF patients with two copies of the F508del mutation (F508del/F508del) in the CF gene.
+Talk to your doctor to learn if you have an indicated CF gene mutation.
 
 It is not known if KALYDECO is safe and effective in children under 2 years of age.
 
@@ -176,7 +173,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for: Vertex Pharmaceuticals Incorporated 50 Northern Avenue Boston, MA 02210
 
-Approved February 2017
+Approved May 2017
 
 KALYDECO, VERTEX, and the VERTEX triangle logo are registered trademarks of Vertex Pharmaceuticals Incorporated.
-All other trademarks referenced herein are the property of their respective owners. ©2017 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-08
+All other trademarks referenced herein are the property of their respective owners. ©2017 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-09

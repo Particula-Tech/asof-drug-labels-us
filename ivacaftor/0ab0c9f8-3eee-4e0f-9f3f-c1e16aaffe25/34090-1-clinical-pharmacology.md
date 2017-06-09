@@ -4,15 +4,42 @@
 
 Ivacaftor is a potentiator of the CFTR protein.
 The CFTR protein is a chloride channel present at the surface of epithelial cells in multiple organs.
-Ivacaftor facilitates increased chloride transport by potentiating the channel-open probability (or gating) of the CFTR protein.
+Ivacaftor facilitates increased chloride transport by potentiating the channel open probability (or gating) of CFTR protein located at the cell surface.
+The overall level of ivacaftor-mediated CFTR chloride transport is dependent on the amount of CFTR protein at the cell surface and how responsive a particular mutant CFTR protein is to ivacaftor potentiation.
 
-In vitro, ivacaftor increased CFTR-mediated transepithelial current (IT) in rodent cells expressing the G551D-CFTR protein following addition of a cyclic adenosine monophosphate (cAMP) agonist with an EC50 of 100 ± 47 nM; however, ivacaftor did not increase IT in the absence of cAMP agonist.
-Ivacaftor also increased IT in human bronchial epithelial cells expressing G551D-CFTR protein following addition of a cAMP agonist by 10-fold with an EC50 of 236 ± 200 nM.
-Ivacaftor increased the open probability of G551D-CFTR protein in single channel patch clamp experiments using membrane patches from rodent cells expressing G551D-CFTR protein by 6-fold versus untreated cells after addition of PKA and ATP.
-In addition to G551D-CFTR, ivacaftor increased the channel-open probability of other mutant CFTR forms expressed in rodent cells, resulting in enhanced CFTR-mediated IT.
-These mutant CFTR forms included G178R-, S549N-, S549R-, G551S-, G970R-, G1244E-, S1251N-, S1255P-, and G1349D-CFTR.
-Ivacaftor also potentiated the channel-open probability of R117H-CFTR, which has low channel-open probability (gating) and reduced channel current amplitude (conductance) compared to normal CFTR.
-In vitro responses do not necessarily correspond to in vivo pharmacodynamic response or clinical benefit.
+CFTR Chloride Transport Assay in Fisher Rat Thyroid (FRT) cells expressing mutant CFTR
+
+In order to evaluate the response of mutant CFTR protein to ivacaftor, total chloride transport was determined in Ussing chamber electrophysiology studies using a panel of FRT cell lines transfected with individual CFTR mutations.
+Ivacaftor increased chloride transport in FRT cells expressing CFTR mutations that result in CFTR protein being delivered to the cell surface.
+
+Data shown in Figure 1 are the mean (n=3-7) net change over baseline in CFTR mediated chloride transport following the addition of ivacaftor in FRT cells expressing mutant CFTR proteins.
+The in vitro CFTR chloride response threshold was designated as a net increase of at least 10% of normal over baseline (dotted line) because it is predictive or reasonably expected to predict clinical benefit.
+Mutations with an increase in chloride transport of 10% or greater are considered responsive.
+A patient must have at least one CFTR mutation responsive to ivacaftor to be indicated.
+
+Mutations including F508del that are not responsive to ivacaftor potentiation, based on the in vitro CFTR chloride response threshold, are listed in Figure 1 below the dotted line.
+
+Figure 1: Net Change Over Baseline (% of Normal) in CFTR-Mediated Chloride Transport Following Addition of Ivacaftor in FRT Cells Expressing Mutant CFTR (Ussing Chamber Electrophysiology Data)
+
+*Clinical data exist for these mutations [see Clinical Studies (14)]. #A46D, G85E, E92K, P205S, R334W,R347P, T338I, S492F, I507del, V520F, A559T, R560S, R560T, A561E, L927P, H1054D, G1061R, L1065P, R1066C, R1066H, R1066M, L1077P, H1085R, M1101K, W1282X, N1303K mutations in the CFTR gene do not meet the threshold of change in CFTR mediated chloride transport of at least 10% of normal over baseline.
+
+Note that splice mutations cannot be studied in this FRT assay and are not included in Figure 1.
+The G970R mutation causes a splicing defect resulting in little-to-no CFTR protein at the cell surface that can be potentiated by ivacaftor [see Clinical Studies (14.2)].
+
+Ivacaftor also increased chloride transport in cultured human bronchial epithelial (HBE) cells derived from CF patients who carried F508del on one CFTR allele and either G551D or R117H-5T on the second CFTR allele.
+
+Table 3 lists mutations that are responsive to ivacaftor based on 1) a positive clinical response and/or 2) in vitro data in FRT cells indicating that ivacaftor increases chloride transport to at least 10% over baseline (% of normal).
+
+Table 3: List of CFTR Gene Mutations that Produce CFTR Protein and are Responsive to KALYDECO
+
+| E56K | G178R | S549R | K1060T | G1244E |
+| --- | --- | --- | --- | --- |
+| P67L | E193K | G551D | A1067T | S1251N |
+| R74W | L206W | G551S | G1069R | S1255P |
+| D110E | R347H | D579G | R1070Q | D1270N |
+| D110H | R352Q | S945L | R1070W | G1349D |
+| R117C | A455E | S977F | F1074L |  |
+| R117H | S549N | F1052V | D1152H |  |
 
 ## 12.2 Pharmacodynamics
 
@@ -100,7 +127,7 @@ Following oral administration of KALYDECO tablets, 150 mg every 12 hours, the me
 
 Patients with Hepatic impairment
 
-Adult subjects with moderately impaired hepatic function (Child-Pugh Class B, score 7-9) had similar ivacaftor Cmax, but an approximately two-fold increase in ivacaftor AUC0-∞ compared with healthy subjects matched for demographics.
+Adult subjects with moderately impaired hepatic function (Child-Pugh Class B, score 7 -9) had similar ivacaftor Cmax, but an approximately two-fold increase in ivacaftor AUC0-∞ compared with healthy subjects matched for demographics.
 Based on simulations of these results, a reduced KALYDECO dose to one tablet or packet of granules once daily is recommended for patients with moderate hepatic impairment.
 The impact of mild hepatic impairment (Child-Pugh Class A) on the pharmacokinetics of ivacaftor has not been studied, but the increase in ivacaftor AUC0-∞ is expected to be less than two-fold.
 Therefore, no dose adjustment is necessary for patients with mild hepatic impairment.
@@ -130,9 +157,9 @@ Based on in vitro results, ivacaftor and metabolite M1 have the potential to inh
 Clinical studies showed that KALYDECO is a weak inhibitor of CYP3A and P-gp, but not an inhibitor of CYP2C8.
 In vitro studies suggest that ivacaftor and M1 may inhibit CYP2C9.
 In vitro, ivacaftor, M1, and M6 were not inducers of CYP isozymes.
-Dosing recommendations for co-administered drugs with KALYDECO are shown in Figure 1.
+Dosing recommendations for co-administered drugs with KALYDECO are shown in Figure 2.
 
-| Figure 1: Impact of KALYDECO on Other Drugs |
+| Figure 2: Impact of KALYDECO on Other Drugs |
 | --- |
 | Note: The data obtained with substrates but without co-administration of KALYDECO are used as reference. *NE: Norethindrone; **EE: Ethinyl Estradiol The vertical lines are at 0.8, 1.0, and 1.25, respectively. |
 
@@ -140,8 +167,8 @@ Potential for Other Drugs to Affect Ivacaftor
 
 In vitro studies showed that ivacaftor and metabolite M1 were substrates of CYP3A enzymes (i.e., CYP3A4 and CYP3A5).
 Exposure to ivacaftor is reduced by concomitant CYP3A inducers and increased by concomitant CYP3A inhibitors [see Dosage and Administration (2.6) and Drug Interactions (7)].
-KALYDECO dosing recommendations for co-administration with other drugs are shown in Figure 2.
+KALYDECO dosing recommendations for co-administration with other drugs are shown in Figure 3.
 
-| Figure 2: Impact of Other Drugs on KALYDECO |
+| Figure 3: Impact of Other Drugs on KALYDECO |
 | --- |
-| Note: The data obtained for KALYDECO without co-administration of inducers or inhibitors are used as reference. The vertical lines are at 0.8, 1.0 and 1.25, respectively. |
+| Note: The data obtained for KALYDECO without co-administration of inducers or inhibitors are used as reference. The vertical lines are at 0.8, 1.0, and 1.25, respectively. |

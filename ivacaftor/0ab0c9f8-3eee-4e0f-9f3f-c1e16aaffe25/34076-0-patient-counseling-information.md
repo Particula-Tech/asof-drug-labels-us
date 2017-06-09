@@ -30,7 +30,7 @@ KALYDECO® (ivacaftor) tablets 150 mg
 
 Inform patients that KALYDECO tablet is best absorbed by the body when taken with food that contains fat.
 A typical CF diet will satisfy this requirement.
-Examples include eggs, butter, peanut butter, cheese pizza, whole-milk dairy products (such as whole milk, cheese, and yogurt),etc.
+Examples include eggs, butter, peanut butter, cheese pizza, whole-milk dairy products (such as whole milk, cheese, and yogurt), etc.
 
 KALYDECO® (ivacaftor) oral granules 50 mg or 75 mg
 

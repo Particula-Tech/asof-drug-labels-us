@@ -5,7 +5,7 @@
 Dose Ranging:
 
 Dose ranging for the clinical program consisted primarily of one double-blind, placebo-controlled, crossover trial in 39 adult (mean age 31 years) Caucasian patients with CF who had FEV1 ≥40% predicted.
-Twenty patients with median predicted FEV1 at baseline of 56% (range: 42% to 109%) received KALYDECO 25, 75, 150 mg or placebo every 12 hours for 14 days and 19 patients with median predicted FEV1 at baseline of 69% (range: 40% to 122%) received KALYDECO 150, 250 mg or placebo every 12 hours for 28 days.
+Twenty patients with median predicted FEV1 at baseline of 56% (range: 42% to 109%) received KALYDECO 25, 75, 150 mg or placebo every 12 hours for 14 days and 19 patients with median predicted FEV1 at baseline of 69% (range: 40% to 122%) received KALYDECO 150, 250 mg, or placebo every 12 hours for 28 days.
 The selection of the 150 mg every 12 hours dose was primarily based on nominal improvements in lung function (pre-dose FEV1) and changes in pharmacodynamic parameters (sweat chloride and nasal potential difference).
 The twice-daily dosing regimen was primarily based on an apparent terminal plasma half-life of approximately 12 hours.
 
@@ -24,19 +24,19 @@ The use of inhaled hypertonic saline was not permitted.
 The primary efficacy endpoint in both studies was improvement in lung function as determined by the mean absolute change from baseline in percent predicted pre-dose FEV1 through 24 weeks of treatment.
 
 In both studies, treatment with KALYDECO resulted in a significant improvement in FEV1.
-The treatment difference between KALYDECO and placebo for the mean absolute change in percent predicted FEV1 from baseline through Week 24 was 10.6 percentage points (P<0.0001) in Trial 1 and 12.5 percentage points (P<0.0001) in Trial 2 (Figure 3).
+The treatment difference between KALYDECO and placebo for the mean absolute change in percent predicted FEV1 from baseline through Week 24 was 10.6 percentage points (P<0.0001) in Trial 1 and 12.5 percentage points (P<0.0001) in Trial 2 (Figure 4).
 These changes persisted through 48 weeks.
 Improvements in percent predicted FEV1 were observed regardless of age, disease severity, sex, and geographic region.
 
-| Figure 3: Mean Absolute Change from Baseline in Percent Predicted FEV1 Primary endpoint was assessed at the 24-week time point. |
+| Figure 4: Mean Absolute Change from Baseline in Percent Predicted FEV1 Primary endpoint was assessed at the 24-week time point. |
 | --- |
 
 Other efficacy variables included absolute change from baseline in sweat chloride [see Clinical Pharmacology (12.2)], time to first pulmonary exacerbation (Trial 1 only), absolute change from baseline in weight, and improvement from baseline in Cystic Fibrosis Questionnaire Revised (CFQ-R) respiratory domain score, a measure of respiratory symptoms relevant to patients with CF such as cough, sputum production, and difficulty breathing.
 For the purpose of the study, a pulmonary exacerbation was defined as a change in antibiotic therapy (IV, inhaled, or oral) as a result of 4 or more of 12 pre-specified sino-pulmonary signs/symptoms.
-Patients treated with KALYDECO demonstrated statistically significant improvements in risk of pulmonary exacerbations, CF symptoms (in Trial 1 only), and gain in body weight (Table 3).
+Patients treated with KALYDECO demonstrated statistically significant improvements in risk of pulmonary exacerbations, CF symptoms (in Trial 1 only), and gain in body weight (Table 4).
 Weight data, when expressed as body mass index normalized for age and sex in patients <20 years of age, were consistent with absolute change from baseline in weight.
 
-Table 3: Effect of KALYDECO on Other Efficacy Endpoints in Trials 1 and 2
+Table 4: Effect of KALYDECO on Other Efficacy Endpoints in Trials 1 and 2
 
 | Endpoint | Treatment differenceTreatment difference = effect of KALYDECO – effect of Placebo (95% CI) | P value | Treatment difference (95% CI) | P value |
 | --- | --- | --- | --- | --- |
@@ -71,10 +71,9 @@ The use of inhaled hypertonic saline was not permitted.
 
 The primary efficacy endpoint was improvement in lung function as determined by the mean absolute change from baseline in percent predicted FEV1 through 8 weeks of treatment.
 Other efficacy variables included absolute change from baseline in sweat chloride through 8 weeks of treatment [see Clinical Pharmacology (12.2)], absolute change from baseline in body mass index (BMI) at 8 weeks of treatment (including body weight at 8 weeks), and improvement in CFQ-R respiratory domain score through 8 weeks of treatment.
-For the overall population of the 9 mutations studied, treatment with KALYDECO compared to placebo resulted in significant improvement in percent predicted FEV1 [10.7 through Week 8 (P<0.0001)], BMI [0.66 kg/m2 at Week 8 (P<0.0001)], and CFQ-R respiratory domain score [9.6 through Week 8 (P=0.0004)]; however, there was a high degree of variability of efficacy responses among the 9 mutations (Table 4).
-Based on clinical and pharmacodynamic (sweat chloride) responses to ivacaftor, efficacy in patients with the G970R mutation could not be established [see Clinical Pharmacology (12.2)].
+For the overall population of the 9 mutations studied, treatment with KALYDECO compared to placebo resulted in significant improvement in percent predicted FEV1 [10.7 through Week 8 (P<0.0001)], BMI [0.66 kg/m2 at Week 8 (P<0.0001)], and CFQ-R respiratory domain score [9.6 through Week 8 (P=0.0004)]; however, there was a high degree of variability of efficacy responses among the 9 mutations (Table 5).
 
-Table 4: Effect of KALYDECO for Efficacy Variables in the Overall Populations and for Specific CFTR Mutations
+Table 5: Effect of KALYDECO for Efficacy Variables in the Overall Populations and for Specific CFTR Mutations
 
 |  | At Week 2 | At Week 4 | At Week 8 | At Week 8 | At Week 8 | At Week 8 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -106,15 +105,15 @@ Patients who had persistent Burkholderia cenocepacia, Burkholderia dolosa, or My
 Patients were randomized 1:1 to receive either 150 mg of KALYDECO (n=34) or placebo (n=35) every 12 hours with food containing fat for 24 weeks in addition to their prescribed CF therapies.
 
 The primary efficacy endpoint was improvement in lung function as determined by the mean absolute change from baseline in percent predicted FEV1 through 24 weeks of treatment.
-The treatment difference for absolute change in percent predicted FEV1 through Week 24 was 2.1 percentage points (analysis conducted with the full analysis set which included all 69 patients), and did not reach statistical significance (Table 5).
+The treatment difference for absolute change in percent predicted FEV1 through Week 24 was 2.1 percentage points (analysis conducted with the full analysis set which included all 69 patients), and did not reach statistical significance (Table 6).
 
-Other efficacy variables that were analyzed included absolute change in sweat chloride from baseline through Week 24, improvement in cystic fibrosis respiratory symptoms through Week 24 as assessed by the CFQ-R respiratory domain score (Table 5), absolute change in body mass index (BMI) at Week 24, and time to first pulmonary exacerbation.
+Other efficacy variables that were analyzed included absolute change in sweat chloride from baseline through Week 24, improvement in cystic fibrosis respiratory symptoms through Week 24 as assessed by the CFQ-R respiratory domain score (Table 6), absolute change in body mass index (BMI) at Week 24, and time to first pulmonary exacerbation.
 The overall treatment difference for the absolute change from baseline in BMI at Week 24 was 0.3 kg/m2 and the calculated hazard ratio for time to first pulmonary exacerbation was 0.93, which were not statistically significant.
 
 Statistically significant improvements in clinical efficacy (FEV1, CFQ-R respiratory domain) were seen in several subgroup analyses, and decreases in sweat chloride were observed in all subgroups.
-Subgroups analyzed included those based on age, lung function, and poly-T status (Table 5).
+Subgroups analyzed included those based on age, lung function, and poly-T status (Table 6).
 
-Table 5: Effect of KALYDECO on Overall Population (Percent Predicted FEV1, CFQ-R Respiratory Domain Score, and Sweat Chloride) and in Relevant Subgroups Through 24 Weeks
+Table 6: Effect of KALYDECO on Overall Population (Percent Predicted FEV1, CFQ-R Respiratory Domain Score, and Sweat Chloride) and in Relevant Subgroups Through 24 Weeks
 
 | Subgroup Parameter | Study Drug | n | Mean | Treatment Difference (95% CI) | n | Mean | Treatment Difference (95% CI) | n | Mean | Treatment Difference (95% CI) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -143,5 +142,16 @@ As in Trials 1 and 2, patients who had persistent Burkholderia cenocepacia, Burk
 The use of inhaled hypertonic saline was not permitted.
 
 The primary endpoint was improvement in lung function as determined by the mean absolute change from baseline through Week 16 in percent predicted FEV1.
-Treatment with KALYDECO resulted in no improvement in FEV1 relative to placebo in patients with CF homozygous for the F508del mutation in the CFTR gene [mean absolute change from baseline through Week 16 in percent predicted FEV1 was 1.5% and -0.2% for patients in the KALYDECO and placebo-treated groups, respectively (P=0.15)].
-There were no meaningful differences between patients treated with KALYDECO compared to placebo for secondary endpoints (change in CF symptoms, change in weight, or change in sweat chloride concentration [see Clinical Pharmacology (12.2)].
+The treatment difference from placebo for the mean absolute change in percent predicted FEV1 through Week 16 in patients with CF homozygous for the F508del mutation in the CFTR gene was 1.72 percentage points (1.5% and -0.2% for patients in the KALYDECO and placebo-treated groups, respectively) and did not reach statistical significance (Table 7).
+
+Other efficacy variables that were analyzed included absolute change in sweat chloride from baseline through Week 16, change in cystic fibrosis respiratory symptoms through Week 16 as assessed by the CFQ-R respiratory domain score (Table 7), change in weight through Week 16, and rate of pulmonary exacerbation.
+The overall treatment difference for change from baseline in weight through Week 16 was -0.16 kg (95% CI -1.06, 0.74); the rate ratio for pulmonary exacerbation was 0.677 (95% CI 0.33, 1.37).
+
+Table 7: Effect of KALYDECO on Overall Population (Percent Predicted FEV1, CFQ-R Respiratory Domain Score, and Sweat Chloride) Through 16 Weeks
+
+| Subgroup Parameter | Study Drug | n | Mean | Treatment Difference (95% CI) | n | Mean | Treatment Difference (95% CI) | n | Mean | Treatment Difference (95% CI) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Absolute Change through Week 16MMRM analysis with fixed effects for treatment, age week, baseline value, treatment by week, and subject as a random effect- Full Analysis Set |  |  |  |  |  |  |  |  |
+|  |  | % Predicted FEV1 (Percentage Points) |  |  | CFQ-R Respiratory Domain Score (Points) |  |  | Sweat Chloride (mmol/L) |  |  |
+| F508del homozygous |  |  |  |  |  |  |  |  |  |  |
+|  | Placebo Kalydeco | 28 111 | -0.2 1.5 | 1.72 (-0.6, 4.1) | 28 111 | -1.44 -0.12 | 1.3 (-2.9, 5.6) | 28 109 | 0.13 -2.74 | -2.9 (-5.6, -0.2) |
