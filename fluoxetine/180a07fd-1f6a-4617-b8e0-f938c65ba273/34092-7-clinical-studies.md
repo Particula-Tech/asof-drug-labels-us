@@ -1,10 +1,17 @@
 # 14 CLINICAL STUDIES
 
+Efficacy for fluoxetine was established for the:
+
+- Acute and maintenance treatment of Major Depressive Disorder in adults, and children and adolescents (8 to 18 years) in 7 short-term and 2 long-term, placebo-controlled trials [see Clinical Studies (14.1)].
+- Acute treatment of obsessions and compulsions in adults, and children and adolescents (7 to 17 years) with Obsessive Compulsive Disorder (OCD) in 3 short-term placebo-controlled trials [see Clinical Studies (14.2)].
+- Acute and maintenance treatment of binge-eating and vomiting behaviors in adult patients with moderate to severe Bulimia Nervosa in 3 short-term and 1 long-term, placebo-controlled trials [see Clinical Studies (14.3)].
+- Acute treatment of Panic Disorder, with or without agoraphobia, in adult patients in 2 short-term, placebo-controlled trials [see Clinical Studies (14.4)].
+
 ## 14.1 Major Depressive Disorder
 
-Daily Dosing
+### Daily Dosing
 
-Adult — The efficacy of fluoxetine was studied in 5- and 6-week placebo-controlled trials with depressed adult and geriatric outpatients (≥18 years of age) whose diagnoses corresponded most closely to the DSM-III (currently DSM-IV) category of Major Depressive Disorder.
+Adult - The efficacy of fluoxetine was studied in 5- and 6-week placebo-controlled trials with depressed adult and geriatric outpatients (≥18 years of age) whose diagnoses corresponded most closely to the DSM-III (currently DSM-IV) category of Major Depressive Disorder.
 Fluoxetine was shown to be significantly more effective than placebo as measured by the Hamilton Depression Rating Scale (HAM-D).
 Fluoxetine was also significantly more effective than placebo on the HAM-D subscores for depressed mood, sleep disturbance, and the anxiety subfactor.
 
@@ -16,7 +23,7 @@ A study was conducted involving depressed outpatients who had responded (modifie
 These patients (N=298) were randomized to continuation on double-blind fluoxetine 20 mg/day or placebo.
 At 38 weeks (50 weeks total), a statistically significantly lower relapse rate (defined as symptoms sufficient to meet a diagnosis of Major Depressive Disorder for 2 weeks or a modified HAMD-17 score of ≥14 for 3 weeks) was observed for patients taking fluoxetine compared with those on placebo.
 
-Pediatric (children and adolescents) — The efficacy of fluoxetine 20 mg/day in children and adolescents (N=315 randomized; 170 children ages 8 to <13, 145 adolescents ages 13 to ≤18) was studied in two 8- to 9-week placebo-controlled clinical trials in depressed outpatients whose diagnoses corresponded most closely to the DSM-III-R or DSM-IV category of Major Depressive Disorder.
+Pediatric (children and adolescents) - The efficacy of fluoxetine 20 mg/day in children and adolescents (N=315 randomized; 170 children ages 8 to <13,145 adolescents ages 13 to ≤18) was studied in two 8- to 9-week placebo-controlled clinical trials in depressed outpatients whose diagnoses corresponded most closely to the DSM-III-R or DSM-IV category of Major Depressive Disorder.
 
 In both studies independently, fluoxetine produced a statistically significantly greater mean change on the Childhood Depression Rating Scale-Revised (CDRS-R) total score from baseline to endpoint than did placebo.
 
@@ -24,14 +31,14 @@ Subgroup analyses on the CDRS-R total score did not suggest any differential res
 
 ## 14.2 Obsessive Compulsive Disorder
 
-Adult — The effectiveness of fluoxetine for the treatment of Obsessive Compulsive Disorder (OCD) was demonstrated in two 13-week, multicenter, parallel group studies (Studies 1 and 2) of adult outpatients who received fixed fluoxetine doses of 20, 40, or 60 mg/day (on a once-a-day schedule, in the morning) or placebo.
+Adult - The effectiveness of fluoxetine for the treatment of Obsessive Compulsive Disorder (OCD) was demonstrated in two 13-week, multicenter, parallel group studies (Studies 1 and 2) of adult outpatients who received fixed fluoxetine doses of 20, 40, or 60 mg/day (on a once-a-day schedule, in the morning) or placebo.
 Patients in both studies had moderate to severe OCD (DSM-III-R), with mean baseline ratings on the Yale-Brown Obsessive Compulsive Scale (YBOCS, total score) ranging from 22 to 26.
 In Study 1, patients receiving fluoxetine experienced mean reductions of approximately 4 to 6 units on the YBOCS total score, compared with a 1-unit reduction for placebo patients.
 In Study 2, patients receiving fluoxetine experienced mean reductions of approximately 4 to 9 units on the YBOCS total score, compared with a 1-unit reduction for placebo patients.
 While there was no indication of a dose-response relationship for effectiveness in Study 1, a dose-response relationship was observed in Study 2, with numerically better responses in the 2 higher dose groups.
 The following table provides the outcome classification by treatment group on the Clinical Global Impression (CGI) improvement scale for Studies 1 and 2 combined:
 
-Table 6
+Table 5
 
 | Outcome Classification | Placebo | 20 mg | 40 mg | 60 mg |
 | --- | --- | --- | --- | --- |
@@ -45,7 +52,7 @@ Table 6
 
 Exploratory analyses for age and gender effects on outcome did not suggest any differential responsiveness on the basis of age or sex.
 
-Pediatric (children and adolescents) — In one 13-week clinical trial in pediatric patients (N=103 randomized; 75 children ages 7 to <13, 28 adolescents ages 13 to <18) with OCD (DSM-IV), patients received fluoxetine 10 mg/day for 2 weeks, followed by 20 mg/day for 2 weeks.
+Pediatric (children and adolescents) — In one 13 week clinical trial in pediatric patients (N=103 randomized; 75 children ages 7 to <13, 28 adolescents ages 13 to <18) with OCD (DSM-IV), patients received fluoxetine 10 mg/day for 2 weeks, followed by 20 mg/day for 2 weeks.
 The dose was then adjusted in the range of 20 to 60 mg/day on the basis of clinical response and tolerability.
 Fluoxetine produced a statistically significantly greater mean change from baseline to endpoint than did placebo as measured by the Children's Yale-Brown Obsessive Compulsive Scale (CY-BOCS).
 

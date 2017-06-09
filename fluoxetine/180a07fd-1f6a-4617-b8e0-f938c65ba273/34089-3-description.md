@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Fluoxetine Oral Solution USP is a selective serotonin reuptake inhibitor for oral administration.
-It is designated (±)-N-methyl-3-phenyl-3-[(α,α,α -trifluoro-p-tolyl)oxy]propylamine hydrochloride and has the empirical formula of C17H18F3NO•HCl.
+It is designated (±)-N-methyl-3-phenyl-3-[(α,α,α-trifluoro- p-tolyl)oxy]propylamine hydrochloride and has the empirical formula of C 17H 18F 3NO∙HCl.
 Its molecular weight is 345.79.
 The structural formula is:
 
