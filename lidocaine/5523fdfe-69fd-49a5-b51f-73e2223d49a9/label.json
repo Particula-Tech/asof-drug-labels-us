@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA080407"
+  ],
+  "inn": "lidocaine",
+  "labeler": "West-Ward Pharmaceuticals Corp",
+  "package_ndcs": [
+    "0143-9575-01",
+    "0143-9575-10",
+    "0143-9576-01",
+    "0143-9576-25",
+    "0143-9577-01",
+    "0143-9577-10",
+    "0143-9578-01",
+    "0143-9578-10",
+    "0143-9579-01",
+    "0143-9579-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "lidocaine hydrochloride",
+      "name": "Lidocaine"
+    }
+  ],
+  "setid": "5523fdfe-69fd-49a5-b51f-73e2223d49a9",
+  "source": "dailymed"
+}
