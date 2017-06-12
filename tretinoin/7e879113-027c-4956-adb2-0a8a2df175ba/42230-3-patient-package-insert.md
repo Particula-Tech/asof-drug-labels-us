@@ -33,24 +33,24 @@ Who should not use Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04%?
 
 Do not use Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04% if:
 
-- you are sunburned.
+- •you are sunburned.
   Do not use Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04% until your skin has fully recovered.
-- you have eczema or other skin conditions.
+- •you have eczema or other skin conditions.
   Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04% can cause severe irritation if used on eczema.
-- you are allergic to any of the ingredients in Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04%.
+- •you are allergic to any of the ingredients in Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04%.
 
 The active ingredient is tretinoin.
 See the list of other ingredients at the end of this leaflet.
 
 Tell your doctor before using Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04% if:
 
-- you are pregnant, planning to become pregnant, or may be pregnant.
-- you are breastfeeding.
+- •you are pregnant, planning to become pregnant, or may be pregnant.
+- •you are breastfeeding.
   We do not know if Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04% can pass through your milk to the baby.
-- you are using any other medicines to treat your acne.
+- •you are using any other medicines to treat your acne.
   Do not use other medicines unless they are recommended by your doctor.
   Other acne medicines used with Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04% may make your face more likely to be dry and red and cause it to peel.
-- you are taking medicines for other health conditions.
+- •you are taking medicines for other health conditions.
   Some medicines may make your skin more sensitive to sunlight.
   Tell your doctor about all medicines that you are taking.
   (See "Who should not use Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04%?"

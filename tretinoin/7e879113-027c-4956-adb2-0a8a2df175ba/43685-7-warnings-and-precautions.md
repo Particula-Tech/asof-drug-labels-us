@@ -2,17 +2,17 @@
 
 ## General
 
-- The skin of certain individuals may become excessively dry, red, swollen, or blistered.
+- •The skin of certain individuals may become excessively dry, red, swollen, or blistered.
   If the degree of irritation warrants, patients should be directed to temporarily reduce the amount or frequency of application of the medication, discontinue use temporarily, or discontinue use all together.
   Efficacy at reduced frequencies of application had not been established.
   If a reaction suggesting sensitivity occurs, use of the medication should be discontinued.
   Excessive skin dryness may also be experienced; if so, use of an appropriate emollient during the day may be helpful.
-- Unprotected exposure to sunlight, including sunlamps, should be minimized during the use of Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04%, and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin.
+- •Unprotected exposure to sunlight, including sunlamps, should be minimized during the use of Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04%, and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin.
   Patients who may be required to have considerable sun exposure due to occupation and those with inherent sensitivity to the sun should exercise particular caution.
   Use of sunscreen products (SPF 15) and protective clothing over treated areas are recommended when exposure cannot be avoided.
-- Weather extremes, such as wind or cold, also may be irritating to patients under treatment with tretinoin.
-- Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04%, should be kept away from the eyes, the mouth, paranasal creases of the nose, and mucous membranes.
-- Tretinoin has been reported to cause severe irritation on eczematous skin and should be used with utmost caution in patients with this condition.
+- •Weather extremes, such as wind or cold, also may be irritating to patients under treatment with tretinoin.
+- •Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04%, should be kept away from the eyes, the mouth, paranasal creases of the nose, and mucous membranes.
+- •Tretinoin has been reported to cause severe irritation on eczematous skin and should be used with utmost caution in patients with this condition.
 
 ## Information for Patients
 
