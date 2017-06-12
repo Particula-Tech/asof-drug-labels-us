@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA207880"
+  ],
+  "inn": "desmopressin",
+  "labeler": "Heritage Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "23155-489-01",
+    "23155-489-05",
+    "23155-490-01",
+    "23155-490-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "desmopressin acetate",
+      "name": "Desmopressin Acetate"
+    }
+  ],
+  "setid": "e87b6cfd-5677-4398-883d-7ced5dd678ef",
+  "source": "dailymed"
+}
