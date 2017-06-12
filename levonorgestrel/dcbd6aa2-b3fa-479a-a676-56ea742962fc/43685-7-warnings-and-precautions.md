@@ -119,7 +119,7 @@ In clinical trials, a 4.5% expulsion rate was reported over the 5-year study dur
 
 Delay Mirena insertion a minimum of six weeks or until uterine involution is complete following a delivery or a second trimester abortion.
 Remove a partially expelled Mirena.
-If expulsion has occurred, Mirena may be replaced within 7 days after the onset of a menstrual period, after pregnancy has been ruled out.
+If expulsion has occurred, a new Mirena can be inserted any time the provider can be reasonably certain the woman is not pregnant..
 
 ## 5.8 Ovarian Cysts
 

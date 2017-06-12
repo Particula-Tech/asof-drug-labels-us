@@ -18,7 +18,7 @@ What is Mirena?
 - •Mirena is a hormone-releasing system placed in your uterus by your healthcare provider to prevent pregnancy for up to 5 years.
 - •Mirena can also lessen menstrual blood loss in women who have heavy menstrual flow and who also want to use a birth control method that is placed in the uterus to prevent pregnancy.
 - •Mirena can be removed by your healthcare provider at any time.
-- •Mirena is recommended for women who have had at least one child.
+- •Mirena • Mirena can be used whether or not you have had a child.
 
 Mirena is a small flexible plastic T-shaped system that slowly releases a progestin hormone called levonorgestrel that is often used in birth control pills.
 Because Mirena releases levonorgestrel into your uterus, only small amounts of the hormone enter your blood.
@@ -74,7 +74,6 @@ You might choose Mirena if you:
 - •Want birth control that works continuously for up to 5 years
 - •Want birth control that is reversible
 - •Want a birth control method that you do not need to take daily
-- •Have had at least one child
 - •Want treatment for heavy periods and are willing to use a birth control method that is placed in the uterus
 - •Want birth control that does not contain estrogen
 
@@ -272,7 +271,7 @@ For more information, go to www.mirena-us.com or call 1-888-842-2937
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-This patient information booklet was updated December 2016.
+This patient information booklet was updated June 2017.
 
 Manufactured for:
 

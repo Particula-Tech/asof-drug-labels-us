@@ -22,7 +22,7 @@ The frequencies of reported adverse drug reactions represent crude incidences.
 The most common adverse reactions (≥10% users) are alterations of menstrual bleeding patterns [including unscheduled uterine bleeding (31.9%), decreased uterine bleeding (23.4%), increased scheduled uterine bleeding (11.9%), and female genital tract bleeding (3.5%)], abdominal/pelvic pain (22.6%), amenorrhea (18.4%), headache/migraine (16.3%), genital discharge (14.9%), and vulvovaginitis (10.5%).
 Adverse reactions reported in ≥ 5% of users are shown in Table 1.
 
-Table 1 Adverse Reactions ≥ 5% Reported in Clinical Trials with Mirena
+Table 2: Adverse Reactions ≥ 5% Reported in Clinical Trials with Mirena
 
 | System Organ Class | Adverse Reactions | % (N= 5,091) |
 | --- | --- | --- |

@@ -7,6 +7,8 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
   Teach her to recognize and report to her healthcare provider promptly any symptoms of ectopic pregnancy.
   [See Warnings and Precautions (5.1).]
 - •Pregnancy or Suspected Pregnancy: Counsel the patient to inform her healthcare provider if she determines or suspects she is pregnant with Mirena in place.
+  Advise women of the potential risks if pregnancy occurs with Mirena in place.
+  If Mirena cannot be removed in a pregnant patient, advise her to report immediately any symptom that suggests complications of the pregnancy.
 - •Pelvic Infection: Inform the patient about the possibility of pelvic inflammatory disease (PID) and that PID can cause tubal damage leading to ectopic pregnancy or infertility, or infrequently can necessitate hysterectomy, or cause death.
   Teach the patient to recognize and report to her healthcare provider promptly any symptoms of PID.
   These symptoms include development of menstrual disorders (prolonged or heavy bleeding), unusual vaginal discharge, abdominal or pelvic pain or tenderness, dyspareunia, chills, and fever.

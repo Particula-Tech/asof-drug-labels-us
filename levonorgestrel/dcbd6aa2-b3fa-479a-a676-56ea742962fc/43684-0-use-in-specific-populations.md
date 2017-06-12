@@ -2,17 +2,25 @@
 
 ## 8.1 Pregnancy
 
-The use of Mirena during an existing or suspected pregnancy is contraindicated.
-Many studies have found no harmful effects on fetal development associated with long-term use of contraceptive doses of oral progestins.
-The few studies of infant growth and development that have been conducted with progestin-only pills have not demonstrated significant adverse effects.
-[See Contraindications (4) and Warnings and Precautions (5.1, 5.2).]
+### Risk Summary
 
-## 8.3 Nursing Mothers
+The use of Mirena is contraindicated in pregnancy or with a suspected pregnancy because there is no need for pregnancy prevention in a woman who is already pregnant and Mirena may cause adverse pregnancy outcomes [see Contraindications (4), Warnings and Precautions (5.1, 5.2)].
+If a woman becomes pregnant with Mirena in place, the likelihood of ectopic pregnancy is increased and there is an increased risk of miscarriage, sepsis, premature labor, and premature delivery.
+Remove Mirena, if possible, if pregnancy occurs in a woman using Mirena.
+If Mirena cannot be removed, follow the pregnancy closely [see Warnings and Precautions (5.1, 5.2)].
 
-In general, no adverse effects of progestin-only contraceptives have been found on breastfeeding performance or on the health, growth, or development of the infant.
-Isolated postmarketing cases of decreased milk production have been reported.
-Small amounts of progestins were observed to pass into the breast milk of nursing mothers who used Mirena, resulting in detectable steroid levels in infant serum.
-[See Warnings and Precautions (5.6).]
+Studies report no adverse effects on fetal and infant development associated with long-term use of contraceptive doses of oral progestins in a pregnant woman.
+However, there have been reported cases of masculinization of the external genitalia of the female fetus following exposure to progestins at doses greater than those currently used for oral contraception.
+
+## 8.2 Lactation
+
+### Risk Summary
+
+Published studies report the presence of LNG in human milk.
+Small amounts of progestins (approximately 0.1% of the total maternal doses) were detected in the breast milk of nursing mothers who used Mirena, resulting in exposure of LNG to the breastfed infants.
+There are no reports of adverse effects in breastfed infants with maternal use of progestin-only contraceptives.
+Isolated cases of decreased milk production have been reported with Mirena.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Mirena and any potential adverse effects on the breastfed child from Mirena or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

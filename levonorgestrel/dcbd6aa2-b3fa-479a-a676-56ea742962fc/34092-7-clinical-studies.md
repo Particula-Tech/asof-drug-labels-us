@@ -4,6 +4,7 @@
 
 Mirena has been studied for safety and efficacy in two large clinical trials in Finland and Sweden.
 In study sites having verifiable data and informed consent, 1,169 women 18 to 35 years of age at enrollment used Mirena for up to 5 years, for a total of 45,000 women-months of exposure.
+Of these, 5.6% (66) were nulliparous women.
 Subjects had previously been pregnant, had no history of ectopic pregnancy, had no history of pelvic inflammatory disease over the preceding 12 months, were predominantly Caucasian, and over 70% of the participants had previously used IUDs (intrauterine devices).
 The reported 12-month pregnancy rates were less than or equal to 0.2 per 100 women (0.2%) and the cumulative 5-year pregnancy rate was approximately 0.7 per 100 women (0.7%).
 

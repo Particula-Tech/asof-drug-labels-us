@@ -25,11 +25,17 @@ Use strict aseptic techniques throughout the insertion procedure [see Warnings a
 
 ### Timing of Insertion
 
-Insert Mirena into the uterine cavity during the first seven days of the menstrual cycle or immediately after a first trimester abortion.
-Back up contraception is not needed when Mirena is inserted as directed.
+Table 1: When to Insert Mirena
 
-Postpone postpartum insertion and insertions following second trimester abortions a minimum of six weeks or until the uterus is fully involuted.
-If involution is delayed, wait until involution is complete before insertion [see Warnings and Precautions (5.6, 5.7)].
+| Starting Mirena in women not currently using hormonal or intrauterine contraception | •Mirena can be inserted any time the provider can be reasonably certain the woman is not pregnant. Consider the possibility of ovulation and conception prior to initiation of this product [see Contraindications (4)].•If Mirena is inserted during the first seven days of the menstrual cycle or immediately after a first trimester abortion, back up contraception is not needed.•If Mirena is not inserted during the first seven days of the menstrual cycle, a barrier method of contraception should be used or the patient should abstain from vaginal intercourse for seven days to prevent pregnancy. |
+| --- | --- |
+| Switching to Mirena from an oral, transdermal or vaginal hormonal contraceptive | •Mirena may be inserted at any time, including during the hormone-free interval of the previous method.•If inserted during active use of the previous method, continue that method for 7 days after Mirena insertion or until the end of the current treatment cycle.•If the woman was using continuous hormonal contraception, discontinue that method seven days after Mirena insertion. |
+| Switching to Mirena from an injectable progestin contraceptive | •Mirena may be inserted at any time; a back-up method of contraception (such as condoms or spermicide) should also be used for 7 days if Mirena is inserted more than 3 months (13 weeks) after the last injection. |
+| Switching to Mirena from a contraceptive implant or another IUS | •Insert Mirena on the same day the implant or IUS is removed. •Mirena may be inserted at any time during the menstrual cycle. |
+| Inserting Mirena after abortion or miscarriage |  |
+| First-trimester | •Mirena may be inserted immediately after a first-trimester abortion or miscarriage. |
+| Second-trimester | •Do not insert Mirena until a minimum of 6 weeks after second trimester abortion or miscarriage, or until the uterus is fully involuted. If involution is delayed, wait until involution is complete before insertion [see Warnings and Precautions (5.6, 5.7)].•If the woman has not yet had a period, consider the possibility of ovulation and conception occurring prior to insertion of Mirena. [See Contraindications (4), Warnings and Precautions (5.2), and FDA-Approved Patient Labeling.] Mirena can be inserted any time the provider can be reasonably certain the woman is not pregnant.•If Mirena is not inserted during the first 7 days of the menstrual cycle, a back-up method of contraception should be used or the patient should abstain from vaginal intercourse for 7 days to prevent pregnancy. |
+| Inserting Mirena after Childbirth | •Do not insert Mirena until a minimum of 6 weeks after delivery, or until the uterus is fully involuted. If involution is delayed, wait until involution is complete before insertion [see Warnings and Precautions (5.6, 5.7)].•If the woman has not yet had a period, consider the possibility of ovulation and conception occurring prior to insertion of Mirena. [See Contraindications (4), Warnings and Precautions (5.2), and FDA-Approved Patient Labeling.] Mirena can be inserted any time the provider can be reasonably certain the woman is not pregnant.•If Mirena is not inserted during the first 7 days of the menstrual cycle, a back-up method of contraception should be used or the patient should abstain from vaginal intercourse for 7 days to prevent pregnancy.•There is an increased risk of perforation in lactating women. [See Warnings and Precautions (5.7).] |
 
 ### Tools for Insertion
 
