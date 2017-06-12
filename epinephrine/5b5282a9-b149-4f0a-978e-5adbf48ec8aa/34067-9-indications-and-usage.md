@@ -2,7 +2,7 @@
 
 ## 1.1 Hypotension associated with Septic Shock
 
-Epinephrine Injection USP, 1 mg/mL (1:1000) is indicated to increase mean arterial blood pressure in adult patients with hypotension associated with septic shock.
+Epinephrine Injection USP, 1 mg/mL is indicated to increase mean arterial blood pressure in adult patients with hypotension associated with septic shock.
 
 ## 1.2 Anaphylaxis
 

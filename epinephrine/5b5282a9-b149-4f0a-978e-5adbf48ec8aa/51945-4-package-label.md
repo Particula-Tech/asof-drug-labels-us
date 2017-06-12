@@ -1,4 +1,4 @@
-Epinephrine Injection, USP 1 mg/mL (1:1000)
+Epinephrine Injection, USP 1 mg/mL
 
 NDC 54288-103-10
 
@@ -16,8 +16,6 @@ WARNING: Do not use the solution if it is colored or cloudy, or if it contains p
 CONTAINS NO SULFITES OR PRESERVATIVES
 
 Rev.
-021916A
+R-1702
 
-LOT
-
-EXP
+LOT EXP

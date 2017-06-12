@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Epinephrine Injection USP, 1 mg/mL (1:1000) is a sterile solution containing 1 mg/1 mL epinephrine in a 2 mL clear glass ampule.
+Epinephrine Injection USP, 1 mg/mL is a sterile solution containing 1 mg/1 mL epinephrine in a 2 mL clear glass ampule.
 Supplied in a box of 10 single-use ampules (NDC 54288-103-10).
 
 Epinephrine is light sensitive.
