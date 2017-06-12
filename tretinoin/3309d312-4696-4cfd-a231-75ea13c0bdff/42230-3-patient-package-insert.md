@@ -90,29 +90,29 @@ AGAIN, FOLLOW INSTRUCTIONS – BE PATIENT – DON'T START AND STOP THERAPY ON YO
 
 To help you use the medication correctly, keep these simple instructions in mind.
 
-- Apply RETIN-A once daily before bedtime, or as directed by your physician.
+- •Apply RETIN-A once daily before bedtime, or as directed by your physician.
   Your physician may advise, especially if your skin is sensitive, that you start your therapy by applying RETIN-A every other night.
   First, wash with a mild soap and dry your skin gently.
   WAIT 20 to 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
-- It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.
+- •It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.
   Too much may irritate the skin, waste medication and won't give faster or better results.
-- Keep the medication away from the corners of the nose, mouth, eyes and open wounds.
+- •Keep the medication away from the corners of the nose, mouth, eyes and open wounds.
   Spread away from these areas when applying.
-- Cream: Squeeze about a half inch or less of medication onto the fingertip.
+- •Cream: Squeeze about a half inch or less of medication onto the fingertip.
   While that should be enough for your whole face, after you have some experience with the medication you may find you need slightly more or less to do the job.
   The medication should become invisible almost immediately.
   If it is still visible, you are using too much.
   Cover the affected area lightly with RETIN-A (tretinoin) Cream by first dabbing it on your forehead, chin and both cheeks, then spreading it over the entire affected area.
   Smooth gently into the skin.
-- Gel: Squeeze about a half inch or less of medication onto the fingertip.
+- •Gel: Squeeze about a half inch or less of medication onto the fingertip.
   While that should be enough for your whole face, after you have some experience with the medication you may find you need slightly more or less to do the job.
   The medication should become invisible almost immediately.
   If it is still visible, or if dry flaking occurs from the gel within a minute or so, you are using too much.
   Cover the affected area lightly with RETIN-A (tretinoin) Gel by first dabbing it on your forehead, chin and both cheeks, then spreading it over the entire affected area.
   Smooth gently into the skin.
-- Liquid: RETIN-A (tretinoin) Liquid may be applied to the skin where acne lesions appear, spreading the medication over the entire affected area, using a fingertip, gauze pad, or cotton swab.
+- •Liquid: RETIN-A (tretinoin) Liquid may be applied to the skin where acne lesions appear, spreading the medication over the entire affected area, using a fingertip, gauze pad, or cotton swab.
   If gauze or cotton is employed, care should be taken not to oversaturate it to the extent that the liquid would run into areas where treatment is not intended (such as corners of the mouth, eyes, and nose).
-- It is recommended that you apply a moisturizer or a moisturizer with sunscreen that will not aggravate your acne (noncomedogenic) every morning after you wash.
+- •It is recommended that you apply a moisturizer or a moisturizer with sunscreen that will not aggravate your acne (noncomedogenic) every morning after you wash.
 
 WHAT TO EXPECT WITH YOUR NEW TREATMENT
 
