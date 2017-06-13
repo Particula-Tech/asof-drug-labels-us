@@ -31,7 +31,7 @@ If hepatotoxicity recurs at the dose of 750 mg once daily, re-treatment may be r
 If hepatotoxicity recurs at the reduced dose of 500 mg once daily, discontinue treatment with ZYTIGA.
 The safety of ZYTIGA re-treatment of patients who develop AST or ALT greater than or equal to 20× ULN and/or bilirubin greater than or equal to 10× ULN is unknown.
 
-Permanently discontinue ZYTIGA for patients who develop a concurrent elevation of ALT greater than 3 × ULN and total bilirubin greater than 2 × ULN in the absence of biliary obstruction or other causes responsible for the concurrent elevation [see Warnings and Precautions (5.3)].
+Permanently discontinue ZYTIGA for patients who develop a concurrent elevation of ALT greater than 3 × ULN and total bilirubin greater than 2 × ULN in the absence of biliary obstruction or other causes responsible for the concurrent elevation [see Warnings and Precautions (5.3)]
 
 ## 2.3 Dose Modification Guidelines for Strong CYP3A4 Inducers
 
