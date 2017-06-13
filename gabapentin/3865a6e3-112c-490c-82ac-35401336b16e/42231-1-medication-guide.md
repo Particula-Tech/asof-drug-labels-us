@@ -85,7 +85,7 @@ Who should not take gabapentin tablets?
 Do not take gabapentin tablets if you are allergic to gabapentin or any of the other ingredients in gabapentin tablets.
 See the end of this Medication Guide for a complete list of ingredients in gabapentin tablets.
 
-What should I tell my healthcare provider before takinggabapentin tablets?
+What should I tell my healthcare provider before taking gabapentin tablets?
 
 Before taking gabapentin tablets, tell your healthcare provider if you:
 
@@ -96,7 +96,7 @@ Before taking gabapentin tablets, tell your healthcare provider if you:
   It is not known if gabapentin can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking gabapentin tablets.
   You and your healthcare provider will decide if you should take gabapentin tablets while you are pregnant.
-- oIf you become pregnant while taking gabapentin tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+- •If you become pregnant while taking gabapentin tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
   You can enroll in this registry by calling 1-888-233-2334.
 - •are breast-feeding or plan to breast-feed.
@@ -115,8 +115,8 @@ How should I take gabapentin tablets?
 
 - •Take gabapentin tablets exactly as prescribed.
   Your healthcare provider will tell you how much gabapentin to take.
-- oDo not change your dose of gabapentin tablets without talking to your healthcare provider.
-- oIf you take gabapentin tablets and break a tablet in half, the unused half of the tablet should be taken at your next scheduled dose.
+- •Do not change your dose of gabapentin tablets without talking to your healthcare provider.
+- •If you take gabapentin tablets and break a tablet in half, the unused half of the tablet should be taken at your next scheduled dose.
   Half tablets not used within 28 days of breaking should be thrown away
 - •Gabapentin tablets can be taken with or without food.
   If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin tablets.
@@ -183,9 +183,9 @@ For more information call 1(888)721-7115.
 
 What are the ingredients in gabapentin tablets?
 
-Active ingredient: gabapentin USP
+Active ingredient: gabapentin
 
-Inactive ingredients in the tablets: corn starch, copovidone, poloxamer 407, magnesium stearate, polyethylene glycol, talc, hypromellose, titanium dioxide, macrogol, polysorbate 80 and purified water.
+Inactive ingredients corn starch, copovidone, poloxamer 407, magnesium stearate, polyethylene glycol, talc, hypromellose, titanium dioxide, macrogol, polysorbate 80 and purified water.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
