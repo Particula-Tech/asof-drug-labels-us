@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA208803"
+  ],
+  "inn": "ezetimibe",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1154-1",
+    "69238-1154-3",
+    "69238-1154-5",
+    "69238-1154-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ezetimibe",
+      "name": "Ezetimibe"
+    }
+  ],
+  "setid": "3fadf4e9-017d-4ccd-91dc-a89b981eb138",
+  "source": "dailymed"
+}
