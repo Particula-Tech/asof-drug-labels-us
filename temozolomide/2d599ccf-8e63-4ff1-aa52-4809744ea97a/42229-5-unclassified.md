@@ -172,6 +172,8 @@ This leaflet summarizes the most important information about temozolomide capsul
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about temozolomide capsules that is written for health professionals.
 
+For more information, go to www.accordhealthcare.us or call Accord Healthcare at 1-866-941-7875.
+
 How are temozolomide capsules supplied?
 Temozolomide capsules contain a white capsule body with a color cap and the colors vary based on the dosage strength.
 The capsules are available in six different strengths.
@@ -213,7 +215,7 @@ India.
 
 10 6947 2 661726
 
-Issued April 2016
+Issued January 2017
 
 Temozolomide Capsules
 
@@ -338,8 +340,8 @@ The capsules contain a white capsule body with a color cap, and the colors vary 
 | 180 mg | Maroon Cap |
 | 250 mg | White Cap |
 
-The 5-mg, 100-mg, 140-mg, and 180-mg capsule strengths are available in 5 count and 14 count packages.
-The 20-mg and 250-mg capsule strengths are available in 5 count package.
+The 5-mg, 20-mg, 100-mg, 140-mg, and 180-mg capsule strengths are available in 5 count and 14 count packages.
+The 250-mg capsule strengths are available in 5 count package.
 
 How is temozolomide capsules dispensed?
 
@@ -369,6 +371,7 @@ For examples of other dosing regimens, please refer to the full Prescribing Info
 | 5-mg capsules (5 count) | 16729-048-53 |
 | 5-mg capsules (14 count) | 16729-048-54 |
 | 20-mg capsules (5 count) | 16729-049-53 |
+| 20-mg capsules (14 count) | 16729-049-54 |
 | 100-mg capsules (5 count) | 16729-050-53 |
 | 100-mg capsules (14 count) | 16729-050-54 |
 | 140-mg capsules (5 count) | 16729-129-53 |
@@ -383,4 +386,4 @@ India.
 
 10 6947 2 661726
 
-Issued April 2016
+Issued January 2017

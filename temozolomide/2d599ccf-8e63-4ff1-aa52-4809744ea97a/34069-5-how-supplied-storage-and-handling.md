@@ -23,7 +23,7 @@ They are supplied as follows: Amber Glass Bottles 5 count – NDC 16729-048-53 1
 Temozolomide Capsules 20 mg: have white bodies with yellow caps.
 The capsule body is imprinted with '20'.
 The cap is imprinted with 'TMZ'.
-They are supplied as follows: Amber Glass Bottles 5 count – NDC 16729-049-53
+They are supplied as follows: Amber Glass Bottles 5 count – NDC 16729-049-53 14 count – NDC 16729-049-54
 
 Temozolomide Capsules 100 mg: have white bodies with pink caps.
 The capsule body is imprinted with '100'.
