@@ -41,9 +41,6 @@ Table 2: Incidence of Adverse Drug Reactions in ≥5% of ORKAMBI-Treated Patient
 
 The safety profile from the 24-week, open-label, multicenter Phase 3 safety trial in 58 patients aged 6 through 11 years with CF who are homozygous for the F508del-CFTR mutation (Trial 3) was similar to that observed in Trials 1 and 2.
 
-The safety profile from a 24-week, placebo-controlled, Phase 3 clinical trial (Trial 4) in 204 patients (103 received lumacaftor 200 mg/ivacaftor 250 mg every 12 hours and 101 received placebo) aged 6 through 11 years was similar to that observed in Trials 1 and 2.
-Adverse reactions that are not listed in Table 2, and that occurred in ≥5% of lumacaftor/ivacaftor-treated patients with an incidence of ≥3% higher than placebo included: productive cough (17.5% vs 5.9%), nasal congestion (16.5% vs 7.9%), headache (12.6% vs 8.9%), abdominal pain upper (12.6% vs 6.9%), and sputum increased (10.7% vs 2.0%).
-
 Additional information on selected adverse reactions from these trials is detailed below.
 
 Description of Selected Adverse Drug Reactions
@@ -59,12 +56,8 @@ Among 6 patients with pre-existing cirrhosis and/or portal hypertension who rece
 The event occurred within 5 days of the start of dosing and resolved following discontinuation of ORKAMBI [see Warnings and Precautions (5.1, 5.2)].
 
 During the 24-week, open-label Phase 3 clinical trial in 58 patients aged 6 through 11 years (Trial 3), the incidence of maximum transaminase (ALT or AST) levels >8, >5, and >3 × ULN was 5%, 9%, and 19%.
-No patients had total bilirubin levels > 2 × ULN.
+No patients had an increase in total bilirubin levels > 2 × ULN.
 Lumacaftor/ivacaftor dosing was maintained or successfully resumed after interruption in all patients with transaminase elevations, except 1 patient who discontinued treatment permanently.
-
-During the 24 week, placebo-controlled Phase 3 clinical trial in 204 patients aged 6 through 11 years (Trial 4), the incidence of maximum transaminase (ALT or AST) levels >8, >5, and >3 × ULN was 1%, 5%, and 13% in the lumacaftor/ivacaftor patients, and 2%, 3%, and 8% in the placebo treated patients.
-No patients had total bilirubin levels > 2 × ULN.
-Two patients in the lumacaftor/ivacaftor group and two patients in the placebo group discontinued treatment permanently due to transaminase elevations.
 
 Respiratory Adverse Reactions
 
@@ -72,17 +65,7 @@ In Trials 1 and 2, the incidence of respiratory symptom-related adverse reaction
 The incidence of these adverse reactions was more common in patients treated with ORKAMBI with lower pre-treatment FEV1.
 In patients treated with ORKAMBI, the majority of the events began during the first week of treatment [see Warnings and Precautions (5.3)].
 
-During a 24-week, open label, Phase 3b clinical trial in 46 patients aged 12 years and older (Trial 5) with advanced lung disease (ppFEV1 <40) [mean ppFEV1 29.1 at baseline (range: 18.3 to 42.0)], the incidence of respiratory symptom-related adverse reactions was 65%.
-In the subgroup of 28 patients who were initiated at the full dose of lumacaftor/ivacaftor (2 tablets every 12 hours), the incidence was 71%, and in the 18 patients who were initiated at a reduced dose of lumacaftor/ivacaftor (1 tablet every 12 hours for up to 2 weeks, and subsequently increased to the full dose), the incidence was 56%.
-Of the patients who were initiated lumacaftor/ivacaftor at the full dose, one patient had a serious respiratory symptom-related adverse reaction, three patients subsequently had their dose reduced, and three patients discontinued treatment.
-No serious respiratory symptom-related adverse reactions, dose reductions or discontinuations were seen in patients who were initiated at the reduced dose [see Warnings and Precautions (5.3)].
-
 During the 24-week, open-label Phase 3 clinical trial (Trial 3) in 58 patients aged 6 through 11 years (mean baseline ppFEV1 was 91.4), the incidence of respiratory symptom-related adverse reactions was 3% (2/58).
-
-During the 24 week, placebo-controlled Phase 3 clinical trial (Trial 4) in patients aged 6 through 11 years (mean ppFEV1 89.8 at baseline [range: 48.6 to 119.6]), the incidence of respiratory symptom-related adverse reactions was 11% in lumacaftor/ivacaftor patients and 9% in placebo patients.
-A decline in ppFEV1 at initiation of therapy was observed during serial post dose spirometry assessments.
-The absolute change from pre-dose at 4-6 hours post-dose was -7.7 on Day 1 and -1.3 on Day 15 in lumacaftor/ivacaftor patients.
-The post-dose decline was resolved by Week 16.
 
 Menstrual Abnormalities
 
@@ -94,9 +77,3 @@ Increased Blood Pressure
 In Trials 1 and 2, adverse reactions related to increases in blood pressure (e.g., hypertension, blood pressure increased) were reported in 1.1% (4/369) of patients treated with ORKAMBI and in no patients who received placebo.
 
 The proportion of patients who experienced a systolic blood pressure value >140 mmHg or a diastolic blood pressure >90 mmHg on at least two occasions was 3.6% and 2.2% in patients treated with ORKAMBI, respectively, compared with 1.6% and 0.5% in patients who received placebo [see Warnings and Precautions (5.4)].
-
-## 6.2 Post-marketing Experience
-
-Because post-marketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
-Post –marketing cases of liver function decompensation including liver failure leading to death have been reported in CF patients with pre-existing cirrhosis with portal hypertension who were treated with ORKAMBI [see Warnings and Precautions (5.1)].

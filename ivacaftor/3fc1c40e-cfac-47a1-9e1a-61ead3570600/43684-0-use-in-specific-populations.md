@@ -4,7 +4,7 @@
 
 Risk Summary
 
-There are limited and incomplete human data from clinical trials and post-marketing reports on use of ORKAMBI or its individual components, lumacaftor or ivacaftor, in pregnant women to inform a drug-associated risk.
+There are limited and incomplete human data from clinical trials and postmarketing reports on use of ORKAMBI or its individual components, lumacaftor or ivacaftor, in pregnant women to inform a drug-associated risk.
 In animal reproduction studies, oral administration of lumacaftor to pregnant rats and rabbits during organogenesis demonstrated no teratogenicity or adverse effects on fetal development at doses that produced maternal exposures up to approximately 8 (rats) and 5 (rabbits) times the exposure at the maximum recommended human dose (MRHD).
 Oral administration of ivacaftor to pregnant rats and rabbits during organogenesis demonstrated no teratogenicity or adverse effects on fetal development at doses that produced maternal exposures up to approximately 7 (rats) and 45 (rabbits) times the exposure at the MRHD.
 No adverse developmental effects were observed after oral administration of either lumacaftor or ivacaftor to pregnant rats from organogenesis through lactation at doses that produced maternal exposures approximately 8 and 5 times the exposures at the MRHD, respectively (see Data).
@@ -70,9 +70,6 @@ The within-group LS mean absolute change from baseline in ppFEV1 at Week 24 was 
 At the Week 26 safety follow-up visit (following a planned discontinuation) ppFEV1 was also assessed.
 The within-group LS mean absolute change in ppFEV1 from Week 24 at Week 26 was -3.2 percentage points.
 
-Additional safety data were obtained from a 24-week, placebo-controlled, Phase 3 clinical trial in 204 patients aged 6 through 11 years (Trial 4).
-Trial 4 evaluated subjects with a screening ppFEV1 ≥ 70 (mean ppFEV1 89.8 at baseline [range: 48.6 to 119.6]).The safety profile of ORKAMBI in children 6 through 11 years of age was similar to those in patients 12 years and older [see Adverse Reactions (6.1)].
-
 The safety and efficacy of ORKAMBI in patients with CF younger than age 6 years have not been established.
 Cases of non-congenital lens opacities have been reported in pediatric patients treated with ORKAMBI and ivacaftor, a component of ORKAMBI.
 Although other risk factors were present in some cases (such as corticosteroid use and exposure to radiation), a possible risk attributable to ivacaftor cannot be excluded [see Warnings and Precautions (5.6)].
@@ -97,7 +94,7 @@ Therefore, use with caution at a maximum dose of 1 tablet in the morning and 1 t
 ## 8.7 Renal Impairment
 
 ORKAMBI has not been studied in patients with mild, moderate, or severe renal impairment or in patients with end-stage renal disease.
-No dose adjustment is necessary for patients with mild to moderate renal impairment.
+No dose adjustment is necessary for patients with mild and moderate renal impairment.
 Caution is recommended while using ORKAMBI in patients with severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or end-stage renal disease.
 
 ## 8.8 Patients with Severe Lung Dysfunction

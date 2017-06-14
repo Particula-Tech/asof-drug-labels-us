@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Advanced Liver Disease
 
-Inform patients liver function decompensation, including liver failure leading to death, has been reported in CF patients with pre-existing cirrhosis with portal hypertension while receiving ORKAMBI.
+Inform patients that worsening of liver function in patients with advanced liver disease occurred in some patients treated with ORKAMBI.
 If ORKAMBI is used in these patients, they should be closely monitored after the initiation of treatment and the dose should be reduced [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
 
 Abnormalities in Liver Function and Testing
@@ -14,7 +14,7 @@ Blood tests to measure transaminases (ALT and AST) and bilirubin will be perform
 
 Respiratory Events
 
-Inform patients that chest discomfort, dyspnea, and respiration abnormal were more common during initiation of ORKAMBI therapy, especially in patients with ppFEV1 <40.
+Inform patients that chest discomfort, dyspnea, and respiration abnormal were more common during initiation of ORKAMBI therapy.
 Additional monitoring of patients with ppFEV1 <40 is recommended during initiation of therapy [see Warnings and Precautions (5.3)].
 
 Effect on Blood Pressure
