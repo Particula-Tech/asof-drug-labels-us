@@ -4,9 +4,7 @@ NDC 60793-850-01
 
 Pfizer
 
-Levoxyl®
-
-(levothyroxine sodium tablets, USP) tablets
+Levoxyl® (levothyroxine sodium tablets, USP) tablets
 
 25 mcg
 
@@ -18,9 +16,7 @@ NDC 60793-851-01
 
 Pfizer
 
-Levoxyl®
-
-(levothyroxine sodium tablets, USP) tablets
+Levoxyl® (levothyroxine sodium tablets, USP) tablets
 
 50 mcg
 
@@ -32,9 +28,7 @@ NDC 60793-852-01
 
 Pfizer
 
-Levoxyl®
-
-(levothyroxine sodium tablets, USP) tablets
+Levoxyl® (levothyroxine sodium tablets, USP) tablets
 
 75 mcg
 
@@ -46,9 +40,7 @@ NDC 60793-853-01
 
 Pfizer
 
-Levoxyl®
-
-(levothyroxine sodium tablets, USP) tablets
+Levoxyl® (levothyroxine sodium tablets, USP) tablets
 
 88 mcg
 
@@ -60,9 +52,7 @@ NDC 60793-854-01
 
 Pfizer
 
-Levoxyl®
-
-(levothyroxine sodium tablets, USP) tablets
+Levoxyl® (levothyroxine sodium tablets, USP) tablets
 
 100 mcg
 
@@ -74,9 +64,7 @@ NDC 60793-855-01
 
 Pfizer
 
-Levoxyl®
-
-(levothyroxine sodium tablets, USP) tablets
+Levoxyl® (levothyroxine sodium tablets, USP) tablets
 
 112 mcg
 
@@ -88,9 +76,7 @@ NDC 60793-856-01
 
 Pfizer
 
-Levoxyl®
-
-(levothyroxine sodium tablets, USP) tablets
+Levoxyl® (levothyroxine sodium tablets, USP) tablets
 
 125 mcg
 
@@ -102,9 +88,7 @@ NDC 60793-857-01
 
 Pfizer
 
-Levoxyl®
-
-(levothyroxine sodium tablets, USP) tablets
+Levoxyl® (levothyroxine sodium tablets, USP) tablets
 
 137 mcg
 
@@ -116,9 +100,7 @@ NDC 60793-858-01
 
 Pfizer
 
-Levoxyl®
-
-(levothyroxine sodium tablets, USP) tablets
+Levoxyl® (levothyroxine sodium tablets, USP) tablets
 
 150 mcg
 
@@ -130,9 +112,7 @@ NDC 60793-859-01
 
 Pfizer
 
-Levoxyl®
-
-(levothyroxine sodium tablets, USP) tablets
+Levoxyl® (levothyroxine sodium tablets, USP) tablets
 
 175 mcg
 
@@ -144,9 +124,7 @@ NDC 60793-860-01
 
 Pfizer
 
-Levoxyl®
-
-(levothyroxine sodium tablets, USP) tablets
+Levoxyl® (levothyroxine sodium tablets, USP) tablets
 
 200 mcg
 
