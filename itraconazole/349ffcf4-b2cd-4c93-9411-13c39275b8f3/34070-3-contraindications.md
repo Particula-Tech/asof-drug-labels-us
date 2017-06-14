@@ -1,0 +1,19 @@
+# CONTRAINDICATIONS
+
+Congestive Heart Failure
+
+Itraconazole Capsules should not be administered for the treatment of onychomycosis in patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF.
+(See BOXED WARNINGS,WARNINGS,PRECAUTIONS: Drug Interactions-Calcium Channel Blockers,ADVERSE REACTIONS: Post-marketing Experience, and CLINICAL PHARMACOLOGY: Special Populations.)
+
+Drug Interactions
+
+Coadministration of a number of CYP3A4 substrates are contraindicated with Itraconazole Capsules.Plasma concentrations increase for the following drugs: methadone, disopyramide, dofetilide,dronedarone, quinidine, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine),ergotamine, methylergometrine (methylergonovine)), irinotecan, lurasidone, oral midazolam,pimozide, triazolam, felodipine, nisoldipine,ivabradine, ranolazine, eplerenone, cisapride, lovastatin, simvastatin ticagrelor, and, in subjects with varying degrees of renal or hepatic impairment, colchicines, fesoterodine, telithromycin and solifenacin.
+(See PRECAUTIONS: Drug Interactions Section for specific examples.)
+This increase in drug concentrations caused by coadministration with itraconazole may increase or prolong both the pharmacologic effect and/or adverse reactions to these drugs.
+For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and ventricular tachyarrhythmias including occurrences of torsade de pointes, a potentially fatal arrhythmia.Specific examples are listed in PRECAUTIONS: Drug Interactions.
+
+Itraconazole Capsules should not be administered for the treatment of onychomycosis to pregnant patients or to women contemplating pregnancy.
+
+Itraconazole Capsules is contraindicated for patients who have shown hypersensitivity to itraconazole.
+There is limited information regarding cross-hypersensitivity between itraconazole and other azole antifungal agents.
+Caution should be used when prescribing Itraconazole Capsules to patients with hypersensitivity to other azoles.

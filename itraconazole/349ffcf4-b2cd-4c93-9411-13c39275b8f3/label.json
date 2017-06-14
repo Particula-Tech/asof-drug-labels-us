@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA208591"
+  ],
+  "inn": "itraconazole",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-454-05",
+    "67877-454-30",
+    "67877-454-33",
+    "67877-454-84",
+    "67877-454-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, COATED PELLETS",
+      "generic": "itraconazole",
+      "name": "Itraconazole"
+    }
+  ],
+  "setid": "349ffcf4-b2cd-4c93-9411-13c39275b8f3",
+  "source": "dailymed"
+}
