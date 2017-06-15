@@ -140,7 +140,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hemic and Lymphatic - agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness
 - Immune system disorders - angioedema
 - Metabolism and nutrition disorders - hyponatremia, hyperglycemia
-- Musculoskeletal and connective tissue disorders - trismus
+- Musculoskeletal and connective tissue disorders - rhabdomyolysis, trismus
 - Nervous system disorders - serotonin syndrome, extrapyramidal symptoms (including akathisia and dystonia), oculogyric crisis
 - Psychiatric disorders - psychosis, enuresis, paroniria
 - Renal and urinary disorders - acute renal failure
