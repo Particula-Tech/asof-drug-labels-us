@@ -1,4 +1,4 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5. WARNINGS AND PRECAUTIONS
 
 ## 5.1 Local Nasal Effects
 
@@ -7,8 +7,7 @@ In the 52-week safety trial in patients with perennial allergic rhinitis, nasal 
 No nasal erosions or ulcerations were reported for patients who received placebo.
 In clinical trials conducted in pediatric patients ages 4 to 11 years, the local nasal effect was similar to those reported in patients 12 years of age and older.
 Patients using QNASL Nasal Aerosol over several months or longer should be examined periodically for possible changes in the nasal mucosa.
-If an adverse reaction (e.g., erosion, ulceration) is noted, discontinue QNASL Nasal Aerosol.
-[see Adverse Reactions (6.1)].
+If an adverse reaction (e.g., erosion, ulceration) is noted, discontinue QNASL Nasal Aerosol [see Adverse Reactions (6.1)].
 
 Candida Infection: In previous clinical trials with an aqueous formulation of beclomethasone dipropionate administered intranasally, localized infections of the nose and pharynx with Candida albicans had been reported.
 There were no instances of similar infections observed in clinical trials with QNASL Nasal Aerosol.
@@ -21,16 +20,16 @@ There was one report of nasal septal perforation observed in the dose-ranging pe
 
 Impaired Wound Healing: Because of the inhibitory effect of corticosteroids on wound healing, patients who have experienced recent nasal septal ulcers, nasal surgery, or nasal trauma should not use QNASL Nasal Aerosol until healing has occurred.
 
-## 5.2 Glaucoma and Cataracts
+## 5.2 Eye Disorders
 
-Use of intranasal and inhaled corticosteroids may result in the development of glaucoma and/or cataracts.
-Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
+Use of intranasal and inhaled corticosteroids may result in the development of increased intraocular pressure, blurred vision, glaucoma and/or cataracts.
+Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, blurred vision, glaucoma, and/or cataracts.
 
 Glaucoma and cataract formation was evaluated with ocular assessments that included intraocular pressure measurements and slit lamp examinations in 245 adolescent and adult patients (12 years of age and older) with perennial allergic rhinitis who were treated with QNASL Nasal Aerosol 320 mcg daily (N=197) or placebo (N=48) for up to 52 weeks.
 In 94% of patients, intraocular pressure (IOP) remained within the normal range (<21 mmHg) during the treatment portion of the trial.
 There were 10 patients (5%) treated with QNASL Nasal Aerosol and 1 patient (2%) treated with placebo that had intraocular pressure that increased above normal levels (≥21 mmHg) and greater than baseline during the treatment portion of the trial.
 Two of these occurrences in patients treated with QNASL Nasal Aerosol were reported as adverse reactions, one serious.
-No instances of cataract formation or other clinically significant ocular incidents were reported in this 52-week safety trial.[see Adverse Reactions (6.1)].
+No instances of cataract formation or other clinically significant ocular incidents were reported in this 52-week safety trial [see Adverse Reactions (6.1)].
 
 ## 5.3 Hypersensitivity Reactions Including Anaphylaxis
 

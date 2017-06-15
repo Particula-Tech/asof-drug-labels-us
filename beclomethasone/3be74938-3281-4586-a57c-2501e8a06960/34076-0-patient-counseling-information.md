@@ -9,9 +9,9 @@ Candida infection may also occur with treatment with QNASL Nasal Aerosol.
 In addition, nasal beclomethasone dipropionate products are known to be associated with nasal septal perforation and impaired wound healing.
 Patients who have experienced recent nasal ulcers, nasal surgery, or nasal trauma should not use QNASL Nasal Aerosol until healing has occurred [see Warnings and Precautions (5.1)].
 
-## 17.2 Cataracts and Glaucoma
+## 17.2 Eye Disorders
 
-Inform patients that glaucoma and cataracts are associated with nasal and inhaled corticosteroid use.
+Inform patients that blurred vision, glaucoma and cataracts are associated with nasal and inhaled corticosteroid use.
 Patients should inform their health care providers if a change in vision is noted while using QNASL Nasal Aerosol [see Warnings and Precautions (5.2)].
 
 ## 17.3 Hypersensitivity Reactions Including Anaphylaxis
@@ -35,14 +35,14 @@ The patient should not increase the prescribed dosage but should contact their p
 
 Patients should be informed to avoid spraying QNASL Nasal Aerosol in their eyes or mouth.
 
-Teva Respiratory, LLC Horsham, PA 19044 USA
+Teva Respiratory, LLC Frazer, PA 19355 USA
 
-©2014, Teva Respiratory, LLC.
+©2017, Teva Respiratory, LLC.
 All rights reserved.
 
-QNASL is a registered trademark of Teva Respiratory, LLC.
+QNASL® is a registered trademark of Teva Respiratory, LLC.
 
-Manufactured for Teva Respiratory, LLC Horsham, PA 19044 By: 3M Drug Delivery Systems Northridge, CA 91324
+Manufactured for Teva Respiratory, LLC Frazer, PA 19355 By: 3M Drug Delivery Systems Northridge, CA 91324
 
-- PE2768 Rev.
-  12/2014
+1. PE3533 Rev.
+   05/2017

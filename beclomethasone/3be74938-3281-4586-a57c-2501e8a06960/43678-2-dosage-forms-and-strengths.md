@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS AND STRENGTHS
+# 3. DOSAGE FORMS AND STRENGTHS
 
 QNASL Nasal Aerosol is a nonaqueous nasal spray solution.
 

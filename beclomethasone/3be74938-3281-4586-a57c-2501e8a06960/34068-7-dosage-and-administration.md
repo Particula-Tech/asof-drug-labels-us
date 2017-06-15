@@ -1,4 +1,4 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2. DOSAGE AND ADMINISTRATION
 
 Administer QNASL Nasal Aerosol by the intranasal route only.
 QNASL Nasal Aerosol must be primed prior to initial use by actuating four times.

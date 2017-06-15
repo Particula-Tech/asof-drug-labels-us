@@ -4,10 +4,9 @@ QNASL (kyoo nay' zel) (beclomethasone dipropionate) Nasal Aerosol
 
 For Intranasal Use Only
 
-- QNASL Nasal Aerosol is available in 2 different strengths:
-
-- •QNASL Nasal Aerosol 40 mcg is only for use in children 4 years to 11 years of age and should be given under the supervision of a parent, guardian or caregiver.
-- •QNASL Nasal Aerosol 80 mcg is only for use in adolescents and adults 12 years of age and older.
+1. QNASL Nasal Aerosol is available in 2 different strengths:
+2. •QNASL Nasal Aerosol 40 mcg is only for use in children 4 years to 11 years of age and should be given under the supervision of a parent, guardian or caregiver.
+3. •QNASL Nasal Aerosol 80 mcg is only for use in adolescents and adults 12 years of age and older.
 
 Read this Patient Information before your child starts using QNASL Nasal Aerosol and each time you get a refill.
 There may be new information.
@@ -33,7 +32,7 @@ What should you tell your child’s healthcare provider before using QNASL Nasal
 Before your child uses QNASL Nasal Aerosol, tell the healthcare provider if your child:
 
 - •Has had recent nose problems such as nasal sores, nasal surgery, or a nasal injury
-- •Has or have had eye problems, such as increased pressure in their eye (glaucoma) or cataracts
+- •Has or have had eye problems, such as blurred vision, increased pressure in their eye (glaucoma) or cataracts
 - •Has tuberculosis or any untreated fungal, bacterial, or viral infections, or eye infections caused by herpes
 - •Has not had or been vaccinated for chickenpox or measles
 - •Is pregnant or plans to become pregnant.
@@ -84,23 +83,23 @@ QNASL Nasal Aerosol may cause serious side effects, including:
   Tell the healthcare provider if your child has any redness or white colored patches in their mouth or throat.
 - •Slow wound healing.
   Your child should not use QNASL Nasal Aerosol until their nose has healed if there was a sore in their nose, they had surgery on their nose, or their nose has been injured.
-- •Eye problems such as glaucoma and cataracts.
+- •Eye problems such as blurred vision, glaucoma and cataracts.
   If there is a history of glaucoma or cataracts or a family history of eye problems, your child should have regular eye exams while using QNASL Nasal Aerosol.
 - •Adrenal insufficiency.
   Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
   Symptoms of adrenal insufficiency may include:
-  - Tiredness
-  - Weakness
-  - Dizziness
-  - Nausea
-  - Vomiting
+  - ∘Tiredness
+  - ∘Weakness
+  - ∘Dizziness
+  - ∘Nausea
+  - ∘Vomiting
 - •Allergic reactions.
   Serious allergic reactions can happen in people taking QNASL Nasal Aerosol.
   Stop using QNASL Nasal Aerosol and call your child’s healthcare provider right away or get emergency medical help if your child has:
-  - Shortness of breath or trouble breathing
-  - Skin rash, redness, or swelling
-  - Severe itching
-  - Swelling of your lips, tongue or face
+  - ∘Shortness of breath or trouble breathing
+  - ∘Skin rash, redness, or swelling
+  - ∘Severe itching
+  - ∘Swelling of your lips, tongue or face
 - •Immune system problems that may increase your child’s risk of infections.
   Your child is more likely to get infections if they take medicines that may weaken their body's ability to fight infection.
   Your child should avoid contact with people who have contagious diseases such as chicken pox or measles while using QNASL Nasal Aerosol.
@@ -241,7 +240,7 @@ Cleaning the QNASL Nasal Aerosol device
 - •Wipe the nasal actuator tip with a clean, dry tissue or cloth (See Figure H)
 - •Do not wash or put any part of the QNASL Nasal Aerosol canister or actuator in water
 - •Replace the protective dust cap.
-- •Keep QNASL Nasal Aerosol device clean and dry at all times
+- •Keep QNASL Nasal Aerosol device clean and dry at all times.
 
 How to know when to stop using the QNASL Nasal Aerosol device
 
@@ -256,17 +255,17 @@ This Patient Information and Instructions for Use has been approved by the U.S. 
 
 Manufactured for: Teva Respiratory, LLC
 
-Horsham, PA 19044
+Frazer, PA 19355
 
 By: 3M Drug Delivery Systems
 
 Northridge, CA 91324
 
-©2014 Teva Respiratory, LLC
+©2017 Teva Respiratory, LLC
 
 All rights reserved.
 
 QNASL is a registered trademark of Teva Respiratory, LLC
 
 Rev.
-12/2014 PE 2769
+05/2017 PE 3535
