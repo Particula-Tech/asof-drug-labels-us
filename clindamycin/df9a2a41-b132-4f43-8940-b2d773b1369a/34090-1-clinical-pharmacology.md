@@ -19,7 +19,7 @@ No significant levels of clindamycin are attained in the cerebrospinal fluid, ev
 
 ### Metabolism
 
-In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly oxidized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
+In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly metabolized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
 
 ### Excretion
 
@@ -118,10 +118,10 @@ The MIC values obtained should be interpreted according to the criteria provided
 Table 1.
 Susceptibility Test Interpretive Criteria for Clindamycin
 
-| Minimal Inhibitory Concentrations (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameters in mm) |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | Susceptibility Interpretive Criteria |  |  |  |  |  |
 |  | S | I | R | S | I | R |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Susceptibility Interpretive Criteria |  |  |  |  |  |
+| Pathogen | Minimal Inhibitory Concentrations (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameters in mm) |  |  |
 | Staphylococcus spp. | ≤ 0.5 | 1–2 | ≥4 | ≥21 | 15–20 | ≤14 |
 | Streptococcus pneumoniae and other Streptococcus spp. | ≤0.25 | 0.5 | ≥1 | ≥19 | 16–18 | ≤15 |
 | Anaerobic Bacteria | ≤2 | 4 | ≥8 | NA | NA | NA |
@@ -141,9 +141,9 @@ For the disk diffusion technique using the 2 mcg clindamycin disk the criteria p
 Table 2.
 Acceptable Quality Control Ranges for Clindamycin
 
-| Minimum Inhibitory Concentration Range (mcg/mL) | Disk Diffusion Range (Zone Diameters in mm) |  |
+| QC Strain | Minimum Inhibitory Concentration Range (mcg/mL) | Disk Diffusion Range (Zone Diameters in mm) |
 | --- | --- | --- |
-| QC Strain | Acceptable Quality Control Ranges |  |
+|  | Acceptable Quality Control Ranges |  |
 | Enterococcus faecalisEnterococcus faecalis has been included in this table for quality control purposes only. ATCC 29212 | 4–16 | NA |
 | Staphylococcus aureus ATCC 29213 | 0.06–0.25 | NA |
 | Staphylococcus aureus ATCC 25923 | NA | 24–30 |
