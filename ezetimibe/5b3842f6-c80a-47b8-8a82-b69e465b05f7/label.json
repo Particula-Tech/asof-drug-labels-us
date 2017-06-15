@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA207311"
+  ],
+  "inn": "ezetimibe",
+  "labeler": "Ohm Laboratories Inc.",
+  "package_ndcs": [
+    "51660-200-05",
+    "51660-200-30",
+    "51660-200-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ezetimibe",
+      "name": "Ezetimibe"
+    }
+  ],
+  "setid": "5b3842f6-c80a-47b8-8a82-b69e465b05f7",
+  "source": "dailymed"
+}

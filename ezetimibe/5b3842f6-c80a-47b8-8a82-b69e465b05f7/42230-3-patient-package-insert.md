@@ -1,0 +1,126 @@
+Patient Information
+
+EZETIMIBE TABLETS USP
+
+Rx only
+
+Read this information carefully before you start taking ezetimibe tablets, USPand each time you get more ezetimibe tablets, USP.
+There may be new information.
+This information does not take the place of talking with your doctor about your medical condition or your treatment.
+If you have any questions about ezetimibe tablets, USP, ask your doctor.
+Only your doctor can determine if ezetimibe tablets, USP are right for you.
+
+What are ezetimibe tablets, USP?
+
+Ezetimibe tablets, USP are a medicine used to lower levels of total cholesterol and LDL (bad) cholesterol in the blood.
+Ezetimibe tablets, USP are for patients who cannot control their cholesterol levels by diet and exercise alone.
+It can be used by itself or with other medicines to treat high cholesterol.
+You should stay on a cholesterol-lowering diet while taking this medicine.
+
+Ezetimibe tablets, USP work to reduce the amount of cholesterol your body absorbs.
+Ezetimibe tablets, USP do not help you lose weight.
+Ezetimibe tablets, USP have not been shown to prevent heart disease or heart attacks.
+
+For more information about cholesterol, see the “What should I know about high cholesterol?” section that follows.
+
+Who should not take ezetimibe tablets, USP?
+
+- •Do not take ezetimibe tablets, USP if you are allergic to ezetimibe, the active ingredient in ezetimibe tablets, USP, or to the inactive ingredients.
+  For a list of inactive ingredients, see the “Inactive ingredients” section that follows.
+- •If you have active liver disease, do not take ezetimibe tablets, USP while taking cholesterol-lowering medicines called statins.
+- •If you are pregnant or breast-feeding, do not take ezetimibe tablets, USP while taking a statin.
+- • If you are a woman of childbearing age, you should use an effective method of birth control to prevent pregnancy while using ezetimibe tablets, USP added to statin therapy.
+
+Ezetimibe tablets, USP have not been studied in children under age 10.
+
+What should I tell my doctor before and while taking ezetimibe tablets, USP?
+
+Tell your doctor about any prescription and non-prescription medicines you are taking or plan to take, including natural or herbal remedies.
+
+Tell your doctor about all your medical conditions including allergies.
+
+Tell your doctor if you:
+
+- •ever had liver problems.
+  Ezetimibe tablets, USP may not be right for you.
+- •are pregnant or plan to become pregnant.
+  Your doctor will discuss with you whether ezetimibe tablets, USP are right for you.
+- •are breast-feeding.
+  We do not know if ezetimibe can pass to your baby through your milk.
+  Your doctor will discuss with you whether ezetimibe tablets, USP are right for you.
+- • experience unexplained muscle pain, tenderness, or weakness.
+
+How should I take ezetimibe tablets, USP?
+
+- •Take ezetimibe tablets, USP once a day, with or without food.
+  It may be easier to remember to take your dose if you do it at the same time every day, such as with breakfast, dinner, or at bedtime.
+  If you also take another medicine to reduce your cholesterol, ask your doctor if you can take them at the same time.
+- •If you forget to take ezetimibe tablets, USP, take it as soon as you remember.
+  However, do not take more than one dose of ezetimibe tablets, USP a day.
+- •Continue to follow a cholesterol-lowering diet while taking ezetimibe tablets, USP.
+  Ask your doctor if you need diet information.
+- • Keep taking ezetimibe tablets, USP unless your doctor tells you to stop.
+  It is important that you keep taking ezetimibe tablets, USP even if you do not feel sick.
+
+See your doctor regularly to check your cholesterol level and to check for side effects.
+Your doctor may do blood tests to check your liver before you start taking ezetimibe tablets, USP with a statin and during treatment.
+
+What are the possible side effects of ezetimibe tablets, USP?
+
+In clinical studies patients reported few side effects while taking ezetimibe tablets, USP.
+These included diarrhea, joint pains, and feeling tired.
+
+Patients have experienced severe muscle problems while taking ezetimibe tablets, USP, usually when ezetimibe tablets, USP were added to a statin drug.
+If you experience unexplained muscle pain, tenderness, or weakness while taking ezetimibe tablets, USP, contact your doctor immediately.
+You need to do this promptly, because on rare occasions, these muscle problems can be serious, with muscle breakdown resulting in kidney damage.
+
+Additionally, the following side effects have been reported in general use: allergic reactions (which may require treatment right away) including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing, rash, and hives; raised red rash, sometimes with target-shaped lesions; joint pain; muscle aches; alterations in some laboratory blood tests; liver problems; stomach pain; inflammation of the pancreas; nausea; dizziness; tingling sensation; depression; headache; gallstones; inflammation of the gallbladder.
+
+Tell your doctor if you are having these or any other medical problems while on ezetimibe tablets, USP.
+For a complete list of side effects, ask your doctor or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+What should I know about high cholesterol?
+
+Cholesterol is a type of fat found in your blood.
+Your total cholesterol is made up of LDL and HDL cholesterol.
+
+LDL cholesterol is called “bad” cholesterol because it can build up in the wall of your arteries and form plaque.
+Over time, plaque build-up can cause a narrowing of the arteries.
+This narrowing can slow or block blood flow to your heart, brain, and other organs.
+High LDL cholesterol is a major cause of heart disease and one of the causes for stroke.
+
+HDL cholesterol is called “good” cholesterol because it keeps the bad cholesterol from building up in the arteries.
+
+Triglycerides also are fats found in your blood.
+
+General information about ezetimibe tablets, USP
+
+Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+Do not use ezetimibe tablets, USP for a condition for which it was not prescribed.
+Do not give ezetimibe tablets, USP to other people, even if they have the same condition you have.
+It may harm them.
+
+This summarizes the most important information about ezetimibe tablets, USP.
+If you would like more information, talk with your doctor.
+You can ask your pharmacist or doctor for information about ezetimibe tablets, USP that is written for health professionals.
+
+Inactive ingredients:
+
+Croscarmellose sodium, lactose monohydrate, magnesium stearate, povidone, pregelatinized starch (maize) and sodium lauryl sulfate.
+
+Manufactured by:
+
+Ohm Laboratories Inc.
+
+New Brunswick, NJ 08901
+
+Distributed by:
+
+Sun Pharmaceuticals Industries, Inc.
+
+Cranbury, NJ 08512
+
+1. April 2017 FDA-04
