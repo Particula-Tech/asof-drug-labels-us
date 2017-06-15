@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA207624"
+  ],
+  "inn": "sevelamer",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-930-08",
+    "65862-930-90",
+    "65862-931-08",
+    "65862-931-90"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "sevelamer carbonate",
+      "name": "SEVELAMER CARBONATE"
+    }
+  ],
+  "setid": "ea201bff-cdfb-4304-bdb1-d05c1dac2677",
+  "source": "dailymed"
+}
