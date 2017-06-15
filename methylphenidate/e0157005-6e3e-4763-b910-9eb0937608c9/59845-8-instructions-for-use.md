@@ -20,6 +20,6 @@
 | Figure L |  | Figure M |
 | Step 11. Clean the oral dosing dispenser after each use by placing in the dishwasher, or by rinsing with tap water (See Figure N). |  |  |
 | Figure N |  |  |
-| These Instructions for Use have been approved by the U.S. Food and Drug Administration. |  |  |
+| These Instructions for Use have been approved by the U.S. Food and Drug Administration. This product's label may have been updated. For current full prescribing information, please visit www.pfizer.com. |  |  |
 
-LAB-0658-4.0 January 2017
+LAB-0658-5.0 June 2017

@@ -25,13 +25,19 @@ Patients should be advised to avoid alcohol while taking QUILLIVANT XR [see Clin
 
 QUILLIVANT XR should be orally administered once daily in the morning with or without food [see Clinical Pharmacology (12.3)].
 
-## 2.4 Dose Reduction and Discontinuation
+## 2.4 Switching from other Methylphenidate Products
+
+If switching from other methylphenidate products, discontinue that treatment, and titrate with QUILLIVANT XR using the above titration schedule.
+
+Do not substitute for other methylphenidate products on a milligram-per-milligram basis, because of different methylphenidate base compositions and differing pharmacokinetic profiles [see Description (11), Clinical Pharmacology (12.3)].
+
+## 2.5 Dose Reduction and Discontinuation
 
 If paradoxical aggravation of symptoms or other adverse effects occur, reduce dosage, or, if necessary, discontinue the drug.
 QUILLIVANT XR should be periodically discontinued to assess the child's condition.
 If improvement is not observed after appropriate dosage adjustment over a one-month period, the drug should be discontinued.
 
-## 2.5 Reconstitution Instructions for the Pharmacist
+## 2.6 Reconstitution Instructions for the Pharmacist
 
 QUILLIVANT XR is supplied as a powder for oral suspension which must be reconstituted with water prior to dispensing.
 Preparation instructions: Tap bottle until powder flows freely.
