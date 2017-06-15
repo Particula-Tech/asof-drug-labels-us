@@ -8,7 +8,9 @@ Clindamycin phosphate IV administration should be diluted (see Dilution for IV u
 
 ## Adults
 
-Parenteral (IM or IV Administration): Serious infections due to aerobic gram-positive cocci and the more susceptible anaerobes (NOT generally including Bacteroides fragilis, Peptococcus species and Clostridium species other than Clostridium perfringens):
+### Parenteral (IM or IV Administration)
+
+Serious infections due to aerobic gram-positive cocci and the more susceptible anaerobes (NOT generally including Bacteroides fragilis, Peptococcus species and Clostridium species other than Clostridium perfringens):
 
 600–1200 mg/day in 2, 3 or 4 equal doses.
 
@@ -38,7 +40,9 @@ The lower dosage may be adequate for small prematures.
 
 ## Pediatric patients 1 month of age to 16 years
 
-Parenteral (IM or IV) Administration: 20 to 40 mg/kg/day in 3 or 4 equal doses.
+### Parenteral (IM or IV) Administration
+
+20 to 40 mg/kg/day in 3 or 4 equal doses.
 The higher doses would be used for more severe infections.
 As an alternative to dosing on a body weight basis, pediatric patients may be dosed on the basis of square meters body surface: 350 mg/m2/day for serious infections and 450 mg/m2/day for more severe infections.
 
@@ -75,14 +79,57 @@ For current information regarding compatibilities of clindamycin phosphate under
 
 ## Physico-Chemical Stability of Diluted Solutions of CLEOCIN PHOSPHATE
 
-Room Temperature: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or minibags, demonstrated physical and chemical stability for at least 16 days at 25°C.
+### Room Temperature
+
+6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or minibags, demonstrated physical and chemical stability for at least 16 days at 25°C.
 Also, 18 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, in minibags, demonstrated physical and chemical stability for at least 16 days at 25°C.
 
-Refrigeration: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or minibags, demonstrated physical and chemical stability for at least 32 days at 4°C.
+### Refrigeration
+
+6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or minibags, demonstrated physical and chemical stability for at least 32 days at 4°C.
 
 IMPORTANT: This chemical stability information in no way indicates that it would be acceptable practice to use this product well after the preparation time.
 Good professional practice suggests that compounded admixtures should be administered as soon after preparation as is feasible.
 
-Frozen: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in minibags demonstrated physical and chemical stability for at least eight weeks at -10°C.
+### Frozen
+
+6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in minibags demonstrated physical and chemical stability for at least eight weeks at -10°C.
 
 Frozen solutions should be thawed at room temperature and not refrozen.
+
+## DIRECTIONS FOR DISPENSING
+
+### Pharmacy Bulk Package — Not for Direct Infusion
+
+The Pharmacy Bulk Package is for use in a Pharmacy Admixture Service only under a laminar flow hood.
+Entry into the vial should be made with a small diameter sterile transfer set or other small diameter sterile dispensing device, and contents dispensed in aliquots using aseptic technique.
+Multiple entries with a needle and syringe are not recommended.
+AFTER ENTRY USE ENTIRE CONTENTS OF VIAL PROMPTLY.
+ANY UNUSED PORTION MUST BE DISCARDED WITHIN 24 HOURS AFTER INITIAL ENTRY.
+
+## DIRECTIONS FOR USE
+
+### CLEOCIN PHOSPHATE IV Solution in GALAXY Plastic Container
+
+Premixed CLEOCIN PHOSPHATE IV Solution is for intravenous administration using sterile equipment.
+Check for minute leaks prior to use by squeezing bag firmly.
+If leaks are found, discard solution as sterility may be impaired.
+Do not add supplementary medication.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+Do not use unless solution is clear and seal is intact.
+
+Caution: Do not use plastic containers in series connections.
+Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete.
+
+Preparation for Administration:
+
+1. Suspend container from eyelet support.
+2. Remove protector from outlet port at bottom of container.
+3. Attach administration set.
+   Refer to complete directions accompanying set.
+
+### Preparation of CLEOCIN PHOSPHATE in ADD-Vantage System
+
+For IV Use Only.
+CLEOCIN PHOSPHATE 300 mg, 600 mg and 900 mg may be reconstituted in 50 mL (for 300 mg and 600 mg) or 100 mL (for 900 mg) of dextrose injection 5% or sodium chloride injection 0.9% in the ADD-diluent container.
+Refer to separate instructions for ADD-Vantage System.

@@ -15,7 +15,7 @@ No significant levels of clindamycin are attained in the cerebrospinal fluid eve
 
 ## Metabolism
 
-In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly oxidized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
+In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly metabolized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
 
 ## Excretion
 
@@ -70,13 +70,13 @@ Macrolide-resistant isolates of staphylococci and beta-hemolytic streptococci sh
 
 Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitro and in clinical infections, as described in the INDICATIONS AND USAGE section.
 
-#### Gram-positive Bacteria
+Gram-positive Bacteria
 
 - Staphylococcus aureus (methicillin-susceptible strains)
 - Streptococcus pneumoniae (penicillin-susceptible strains)
 - Streptococcus pyogenes
 
-#### Anaerobic Bacteria
+Anaerobic Bacteria
 
 - Clostridium perfringens
 - Fusobacterium necrophorum
@@ -87,7 +87,7 @@ Clindamycin has been shown to be active against most of the isolates of the foll
 At least 90% of the microorganisms listed below exhibit in vitro minimum inhibitory concentrations (MICs) less than or equal to the clindamycin susceptible MIC breakpoint for organisms of a similar type to those shown in Table 2.
 However, the efficacy of clindamycin in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled clinical trials.
 
-#### Gram-positive Bacteria
+Gram-positive Bacteria
 
 - Staphylococcus epidermidis (methicillin-susceptible strains)
 - Streptococcus agalactiae
@@ -95,7 +95,7 @@ However, the efficacy of clindamycin in treating clinical infections due to thes
 - Streptococcus mitis
 - Streptococcus oralis
 
-#### Anaerobic Bacteria
+Anaerobic Bacteria
 
 - Actinomyces israelii
 - Clostridium clostridioforme
@@ -122,7 +122,7 @@ The MIC values should be interpreted according to the criteria provided in Table
 
 Quantitative methods that require the measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size should be determined using a standardized method2,5.
-This procedure uses paper disks impregnated with 2 mcg of clindamycin to test the susceptibility of bacteria to clindamycin..
+This procedure uses paper disks impregnated with 2 mcg of clindamycin to test the susceptibility of bacteria to clindamycin.
 The disk diffusion breakpoints are provided in Table 2.
 
 #### Anaerobic Techniques
@@ -133,10 +133,11 @@ The MIC values obtained should be interpreted according to the criteria provided
 Table 2.
 Susceptibility Test Interpretive Criteria for Clindamycin
 
-| Pathogen | Minimal Inhibitory Concentrations (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameters in mm) |  |  |
+|  | S | I | R | S | I | R |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Susceptibility Interpretive Criteria |  |  |  |  |  |
-| Staphylococcus spp. | S ≤0.5 | I 1–2 | R ≥4 | S ≥21 | I 15–20 | R ≤14 |
+| Pathogen | Minimal Inhibitory Concentrations (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameters in mm) |  |  |
+| Staphylococcus spp. | ≤0.5 | 1–2 | ≥4 | ≥21 | 15–20 | ≤14 |
 | Streptococcus pneumoniae and other Streptococcus spp. | ≤0.25 | 0.5 | ≥1 | ≥19 | 16–18 | ≤15 |
 | Anaerobic Bacteria | ≤2 | 4 | ≥8 | NA | NA | NA |
 | NA=not applicable |  |  |  |  |  |  |
@@ -167,5 +168,4 @@ Acceptable Quality Control Ranges for Clindamycin
 | Bacteroides thetaiotaomicron ATCC 29741 | 2–8 | NA |
 | Clostridium difficileQuality control for C. difficile is performed using the agar dilution method only, all other obligate anaerobes may be tested by either broth microdilution or agar dilution methods. ATCC 700057 | 2–8 | NA |
 | Eggerthella lenta ATCC 43055 | 0.06–0.25 | NA |
-| NA=Not applicable |  |  |
-| ATCC® is a registered trademark of the American Type Culture Collection |  |  |
+| NA=Not applicable ATCC® is a registered trademark of the American Type Culture Collection |  |  |
