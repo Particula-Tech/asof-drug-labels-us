@@ -17,6 +17,6 @@ Protect from light.
 
 Manfactured For: Claris Lifesciences, Inc. North Brunswick, NJ 08902 By: Claris Injectables Ltd., Ahmedabad, Gujarat, India.
 
-Issue date: 12/2014
+Issue date: 03/2015
 
-1400004802
+1400004881

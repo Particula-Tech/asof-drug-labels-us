@@ -6,7 +6,7 @@ FUROSEMIDE INJECTION, USP
 
 20 mg/2 mL (10 mg/mL)
 
-FOR IV OR IM USE 2 mL x SINGLE DOSE VIAL
+FOR IV OR IM USE 2 mL SINGLE DOSE VIAL
 
 Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
 
@@ -20,7 +20,7 @@ FUROSEMIDE INJECTION, USP
 
 FOR IV OR IM USE
 
-4 mL x SINGLE DOSE VIAL
+4 mL SINGLE DOSE VIAL
 
 Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
 
@@ -34,7 +34,7 @@ FUROSEMIDE INJECTION, USP
 
 FOR IV OR IM USE
 
-10 mL x SINGLE DOSE VIAL
+10 mL SINGLE DOSE VIAL
 
 Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
 
@@ -48,7 +48,7 @@ FUROSEMIDE INJECTION, USP
 
 FOR IV OR IM USE
 
-2 mL x SINGLE DOSE VIAL
+2 mL SINGLE DOSE VIAL
 
 Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
 
@@ -62,7 +62,7 @@ FUROSEMIDE INJECTION, USP
 
 FOR IV OR IM USE
 
-4 mL x SINGLE DOSE VIAL
+4 mL SINGLE DOSE VIAL
 
 Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
 
@@ -76,6 +76,6 @@ FUROSEMIDE INJECTION, USP
 
 FOR IV OR IM USE
 
-10 mL x SINGLE DOSE VIAL
+10 mL SINGLE DOSE VIAL
 
 Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
