@@ -53,7 +53,7 @@ Precedex has been shown to be compatible when administered with the following in
 - •0.9% sodium chloride in water
 - •5% dextrose in water
 - •20% mannitol
-- •Lactated Ringer’s solution
+- •Lactated Ringer's solution
 - •100 mg/mL magnesium sulfate solution
 - •0.3% potassium chloride solution
 

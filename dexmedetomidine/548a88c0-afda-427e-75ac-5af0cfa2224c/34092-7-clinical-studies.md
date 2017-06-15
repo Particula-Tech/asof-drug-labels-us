@@ -22,7 +22,7 @@ Table 9: Ramsay Level of Sedation Scale
 
 In the first study, 175 adult patients were randomized to receive placebo and 178 to receive Precedex by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
 The study drug infusion rate was adjusted to maintain a Ramsay sedation score of ≥3.
-Patients were allowed to receive “rescue” midazolam as needed to augment the study drug infusion.
+Patients were allowed to receive "rescue" midazolam as needed to augment the study drug infusion.
 In addition, morphine sulfate was administered for pain as needed.
 The primary outcome measure for this study was the total amount of rescue medication (midazolam) needed to maintain sedation as specified while intubated.
 Patients randomized to placebo received significantly more midazolam than patients randomized to Precedex (see Table 10).
@@ -48,7 +48,7 @@ In addition, 44% (79 of 178 patients) of Precedex patients received no morphine 
 
 In a second study, 198 adult patients were randomized to receive placebo and 203 to receive Precedex by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
 The study drug infusion was adjusted to maintain a Ramsay sedation score of ≥3.
-Patients were allowed to receive “rescue” propofol as needed to augment the study drug infusion.
+Patients were allowed to receive "rescue" propofol as needed to augment the study drug infusion.
 In addition, morphine sulfate was administered as needed for pain.
 The primary outcome measure for this study was the total amount of rescue medication (propofol) needed to maintain sedation as specified while intubated.
 
@@ -82,9 +82,9 @@ The safety and efficacy of Precedex for sedation of non-intubated patients prior
 Study 1 evaluated the sedative properties of Precedex in patients having a variety of elective surgeries/procedures performed under monitored anesthesia care.
 Study 2 evaluated Precedex in patients undergoing awake fiberoptic intubation prior to a surgical or diagnostic procedure.
 
-In Study 1, the sedative properties of Precedex were evaluated by comparing the percent of patients not requiring rescue midazolam to achieve a specified level of sedation using the standardized Observer’s Assessment of Alertness/Sedation Scale (see Table 12).
+In Study 1, the sedative properties of Precedex were evaluated by comparing the percent of patients not requiring rescue midazolam to achieve a specified level of sedation using the standardized Observer's Assessment of Alertness/Sedation Scale (see Table 12).
 
-Table 12: Observer’s Assessment of Alertness/Sedation
+Table 12: Observer's Assessment of Alertness/Sedation
 
 | Assessment Categories |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -96,8 +96,8 @@ Table 12: Observer’s Assessment of Alertness/Sedation
 | Does not respond to mild prodding or shaking | – | – | – | 1 (deep sleep) |
 
 Patients were randomized to receive a loading infusion of either Precedex 1 mcg/kg, Precedex 0.5 mcg/kg, or placebo (normal saline) given over 10 minutes and followed by a maintenance infusion started at 0.6 mcg/kg/hr.
-The maintenance infusion of study drug could be titrated from 0.2 mcg/kg/hr to 1 mcg/kg/hr to achieve the targeted sedation score (Observer’s Assessment of Alertness/Sedation Scale ≤4).
-Patients were allowed to receive rescue midazolam as needed to achieve and/or maintain an Observer’s Assessment of Alertness/Sedation Scale ≤4.
+The maintenance infusion of study drug could be titrated from 0.2 mcg/kg/hr to 1 mcg/kg/hr to achieve the targeted sedation score (Observer's Assessment of Alertness/Sedation Scale ≤4).
+Patients were allowed to receive rescue midazolam as needed to achieve and/or maintain an Observer's Assessment of Alertness/Sedation Scale ≤4.
 After achieving the desired level of sedation, a local or regional anesthetic block was performed.
 Demographic characteristics were similar between the Precedex and comparator groups.
 Efficacy results showed that Precedex was more effective than the comparator group when used to sedate non-intubated patients requiring monitored anesthesia care during surgical and other procedures (see Table 13).
