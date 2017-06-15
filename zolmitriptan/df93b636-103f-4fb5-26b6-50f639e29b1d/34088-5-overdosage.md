@@ -6,5 +6,5 @@ Clinical study subjects who received single 50 mg oral doses of ZOMIG commonly e
 There is no specific antidote to ZOMIG.
 In cases of severe intoxication, intensive care procedures are recommended, including establishing and maintaining a patent airway, ensuring adequate oxygenation and ventilation, and monitoring and support of the cardiovascular system.
 
-The elimination half-life of ZOMIG is 3 hours [see Clinical Pharmacology (12.1)];therefore, monitor patients after overdose with ZOMIG for at least 15 hours or until symptoms or signs resolve.
-It is unknown what effect hemodialysis or peritoneal dialysis has on the plasma concentrations of zolmitriptan..
+The elimination half-life of ZOMIG is 3 hours [see Clinical Pharmacology (12.1)]; therefore, monitor patients after overdose with ZOMIG for at least 15 hours or until symptoms or signs resolve.
+It is unknown what effect hemodialysis or peritoneal dialysis has on the plasma concentrations of zolmitriptan.

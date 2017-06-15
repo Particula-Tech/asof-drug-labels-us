@@ -28,7 +28,7 @@ Subsequently, instruct patients to peel the blister pack open, and to place the 
 The recommended dose of ZOMIG in patients with moderate to severe hepatic impairment is 1.25 mg (one-half of one 2.5 mg ZOMIG tablet) because of increased zolmitriptan blood levels in these patients and elevation of blood pressure in some of these patients.
 Limit the total daily dose in patients with severe hepatic impairment to no more than 5 mg per day.
 
-The use of ZOMIG-ZMT orally disintegrating tablets is not recommended in patients with moderate or severe hepatic impairment because these orally disintegrating tablets should not be broken in half [see Use in Specific Populations (8.6), andClinical Pharmacology (12.3)].
+The use of ZOMIG-ZMT orally disintegrating tablets is not recommended in patients with moderate or severe hepatic impairment because these orally disintegrating tablets should not be broken in half [see Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 ## 2.4 Dosing in Patients taking Cimetidine
 

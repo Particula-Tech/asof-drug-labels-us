@@ -14,10 +14,10 @@ Absorption, Distribution, Metabolism, and Excretion
 
 Absorption
 
-Zolmitriptan is well absorbed after oral administration for both ZOMIG tablets and the ZOMIG-ZMT orally disintegrating tablets.
+Zolmitriptan is well absorbed after oral administration for both ZOMIG tablets and the ZOMIG-ZMT Orally disintegrating tablets.
 Zolmitriptan displays linear kinetics over the dose range of 2.5 to 50 mg.
 
-The AUC and Cmax of zolmitriptan are similar following administration of ZOMIG tablets and ZOMIG-ZMT orally disintegrating tablets, but the Tmax is somewhat later with ZOMIG‑ZMT, with a median Tmax of 3 hours for ZOMIG‑ZMT orally disintegrating tablet compared with 1.5 hours for the ZOMIG tablet.
+The AUC and Cmax of zolmitriptan are similar following administration of ZOMIG tablets and ZOMIG-ZMT Orally disintegrating tablets, but the Tmax is somewhat later with ZOMIG‑ZMT, with a median Tmax of 3 hours for ZOMIG‑ZMT Orally disintegrating tablet compared with 1.5 hours for the ZOMIG tablet.
 The AUC, Cmax,and Tmax for the active N‑desmethyl metabolite are similar for the two formulations.
 
 During a moderate to severe migraine attack, mean AUC0-4 and Cmax for zolmitriptan, dosed as a ZOMIG tablet, were decreased by 40% and 25%, respectively, and mean Tmax was delayed by one‑half hour compared to the same patients during a migraine free period.
@@ -29,7 +29,7 @@ Distribution
 
 Mean absolute bioavailability is approximately 40%.
 The mean apparent volume of distribution is 7.0 L/kg.
-Plasma protein binding of zolmitriptan is 25% over the concentration range of 10- 1000 ng/mL.
+Plasma protein binding of zolmitriptan is 25% over the concentration range of 10-1000 ng/mL.
 
 Metabolism
 
@@ -52,7 +52,7 @@ Hepatic Impairment
 
 In patients with severe hepatic impairment, the mean Cmax, Tmax, and AUC0-∞ of zolmitriptan were increased 1.5-fold, 2-fold (2 vs. 4 hours), and 3-fold, respectively, compared to subjects with normal hepatic function.
 Seven out of 27 patients experienced 20 to 80 mm Hg elevations in systolic and/or diastolic blood pressure after a 10 mg ZOMIG dose.
-Adjust the ZOMIG Dose in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)]
+Adjust the ZOMIG Dose in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
 Renal Impairment
 

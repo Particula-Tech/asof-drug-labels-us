@@ -55,7 +55,7 @@ Tell your doctor if you are sensitive to phenylalanine, which can be found in th
 ZOMIG-ZMT contains phenylalanine.
 
 Tell your doctor if you are taking selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs), two types of drugs for depression or other disorders.
-Common SSRIs are CELEXA® (citalopram HBr), LEXAPRO® (escitalopram oxalate), PAXIL® (paroxetine), PROZAC® (fluoxetine), SYMBYAX® (olanzapine/fluoxetine), ZOLOFT® (sertraline), SARAFEM® (fluoxetine) and LUVOX® (fluvoxamine).
+Common SSRIs are CELEXA® (citalopram HBr), LEXAPRO® (escitalopram oxalate), PAXIL®(paroxetine), PROZAC® (fluoxetine), SYMBYAX® (olanzapine/fluoxetine), ZOLOFT® (sertraline), SARAFEM® (fluoxetine) and LUVOX® (fluvoxamine).
 Common SNRIs are CYMBALTA® (duloxetine) and EFFEXOR® (venlafaxine).
 Your doctor will decide if you can take ZOMIG with your other medicines.
 
@@ -67,12 +67,12 @@ How should I take ZOMIG?
 
 - •Take ZOMIG exactly as your doctor tells you to take it.
   Your doctor will tell you how much ZOMIG to take and when to take it.
-- •If you take ZOMIG-ZMT Oral Disintegrating tablets, do not remove the tablet from the blister pack until you are ready to take your medicine.
-- •You do not need to take any liquids with your ZOMIG-ZMT Oral Disintegrating tablets.
-- •Take ZOMIG‑ZMT Orally Disintegrating tablets whole.
-- •Place ZOMIG-ZMT Oral Disintegrating tablets on your tongue, where it will dissolve.
+- •If you take ZOMIG-ZMT Orally Disintegrating Tablets, do not remove the tablet from the blister pack until you are ready to take your medicine.
+- •You do not need to take any liquids with your ZOMIG-ZMT Orally Disintegrating Tablets.
+- •Take ZOMIG‑ZMT Orally Disintegrating Tablets whole.
+- •Place ZOMIG-ZMT Orally Disintegrating Tablets on your tongue, where it will dissolve.
 - •Safely throw away any unused tablets or pieces of tablets that have been removed from the blister packaging.
-- •If your headache comes back after your first dose, you may take a second dose anytime after 2 hours of taking the first dose.
+- •If your headache comes back after your first dose, you may take a second dose any time after 2 hours of taking the first dose.
   For any attack where the first dose did not work, do not take a second dose without talking with your doctor.
   Do not take more than a total of 10mg of ZOMIG (tablets or spray combined in any 24 hour period.
   If you take too much medicine, contact your doctor, hospital emergency department, or poison control center right away.
@@ -85,7 +85,7 @@ The side effects are usually mild and do not last long.
 
 The most common side effects of ZOMIG are:
 
-- •Pain, pressure or tightness in the neck, throat or jaw
+- •pain, pressure or tightness in the neck, throat or jaw
 - •dizziness
 - •tingling or other abnormal sensations
 - •tiredness
@@ -128,7 +128,7 @@ People may be harmed if they take medicines that have not been prescribed for th
 This leaflet summarizes the most important information about ZOMIG.
 If you would like more information about ZOMIG, talk to your doctor.
 You can ask your doctor or pharmacist for information on ZOMIG that is written for healthcare professionals.
-You can also call 1-877-994-6729or visit our website at www.
+You can also call 1-877-994-6729 or visit our website at www.
 ZOMIG.com.
 
 What are the Ingredients in ZOMIG?
@@ -156,8 +156,8 @@ The makers of these brands are not affiliated with AstraZeneca or its products.
 
 ©AstraZeneca 2012
 
-Distributed by: Impax Pharmaceuticals
+Distributed by: Impax Specialty Pharma
 
 Hayward, CA 94544
 
-Issued 11/2016
+Issued 04/2017

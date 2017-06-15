@@ -10,4 +10,4 @@ ZOMIG is contraindicated in patients with:
 - •Uncontrolled hypertension [see Warnings and Precautions (5.8)].
 - •Recent use (i.e., within 24 hours) of another 5-HT1 agonist, ergotamine-containing medication, or ergot-type medication (such as dihydroergotamine or methysergide) [see Drug Interactions (7.1, 7.3)].
 - •Concurrent administration of a monoamine oxidase (MAO)-A inhibitor or recent use of a MAO-A inhibitor (that is within 2 weeks) [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
-- •Known hypersensitivity to ZOMIG or ZOMIG ZMT (angioedema and anaphylaxis seen) [see Adverse Reactions (6.2)]
+- •Known hypersensitivity to ZOMIG or ZOMIG ZMT (angioedema and anaphylaxis seen) [see Adverse Reactions (6.2)].

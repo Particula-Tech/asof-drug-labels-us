@@ -25,7 +25,7 @@ Manufactured by: IPR Pharmaceuticals, Inc.
 
 Canóvanas, PR 00729
 
-Distriburted by: Impax Pharmaceuticals
+Distributed by: Impax Pharmaceuticals
 
 A Division of Impax Laboratories, Inc.
 
@@ -62,7 +62,7 @@ Manufactured by: IPR Pharmaceuticals, Inc.
 
 Canóvanas, PR 00729
 
-Distriburted by: Impax Pharmaceuticals
+Distributed by: Impax Pharmaceuticals
 
 A Division of Impax Laboratories, Inc.
 
@@ -107,7 +107,7 @@ Manufactured by: Cephalon Inc.
 
 Salt Lake City, UT 84416.
 
-Distriburted by: Impax Pharmaceuticals
+Distributed by: Impax Pharmaceuticals
 
 A Division of Impax Laboratories, Inc.
 
@@ -152,7 +152,7 @@ Manufactured by: Cephalon Inc.
 
 Salt Lake City, UT 84416
 
-Distriburted by: Impax Pharmaceuticals
+Distributed by: Impax Pharmaceuticals
 
 A Division of Impax Laboratories, Inc.
 

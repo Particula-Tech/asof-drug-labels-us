@@ -53,7 +53,7 @@ The efficacy of ZOMIG was unaffected by presence of aura; duration of headache p
 
 ZOMIG-ZMT Orally Disintegrating Tablets
 
-The efficacy of ZOMIG-ZMT 2.5 mg orally disintegrating tablets was demonstrated in a randomized, placebo-controlled trial (Study 6) that was similar in design to the trials of ZOMIG tablets.
+The efficacy of ZOMIG-ZMT 2.5 mg Orally disintegrating tablets was demonstrated in a randomized, placebo-controlled trial (Study 6) that was similar in design to the trials of ZOMIG tablets.
 Patients were instructed to treat a moderate to severe headache.
 Of the 471 patients treated in Study 6, 87% were female and 97% were Caucasian, with a mean age of 41 years (range 18-62).
 
@@ -74,4 +74,4 @@ Figure 4 The Estimated Probability of Patients Taking a Second Dose or Other Med
 *In this Kaplan-Meier plot, patients not taking additional treatments were censored at 24 hours.
 The plot includes both patients who had headache response at 2 hours and those who had no response to the initial dose.
 Taking another dose of study medication was allowed 2 hours post-dose in Study 6.
-In contrast to studies of ZOMIG tablets (Studies 1, 2, 3, 4, and 5), Study 6 allowed re-dosing of ZOMIG-ZMT oral disintegrating tablets prior to 4 hours.
+In contrast to studies of ZOMIG tablets (Studies 1, 2, 3, 4, and 5), Study 6 allowed re-dosing of ZOMIG-ZMT Orally disintegrating tablets prior to 4 hours.

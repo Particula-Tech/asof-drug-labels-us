@@ -10,5 +10,3 @@
 
 Store ZOMIG Tablets and ZOMIG‑ZMT Tablets at controlled room temperature, 20‑25ºC (68‑77ºF) [see USP].
 Protect from light and moisture.
-
-.

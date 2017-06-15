@@ -3,7 +3,7 @@
 The following adverse reactions are described elsewhere in other sections of the prescribing information:
 
 - •Myocardial Ischemia, Myocardial Infarction, and Prinzmetal Angina [see Warnings and Precautions (5.1)].
-- •Arrthymias [see Warnings and Precautions (5.2)].
+- •Arrhythmias [see Warnings and Precautions (5.2)].
 - •Chest and or Throat, Neck and Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)].
 - •Cerebrovascular Events [see Warnings and Precautions (5.4)].
 - •Other Vasospasm Reactions [see Warnings and Precautions (5.5)].
@@ -72,9 +72,9 @@ Skin: Infrequent were pruritus, rash and urticaria.
 
 Urogenital: Infrequent were polyuria, urinary frequency and urinary urgency.
 
-Adverse Reactions with ZOMIG-ZMT Oral Disintegrating Tablets
+Adverse Reactions with ZOMIG-ZMT Orally Disintegrating Tablets
 
-The adverse reaction profile seen with ZOMIG-ZMT oral disintegrating tablets was similar to that seen with ZOMIG tablets.
+The adverse reaction profile seen with ZOMIG-ZMT Orally disintegrating tablets was similar to that seen with ZOMIG tablets.
 
 ## 6.2 Postmarketing Experience
 

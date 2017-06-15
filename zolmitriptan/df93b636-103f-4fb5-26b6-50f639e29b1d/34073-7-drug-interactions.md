@@ -21,4 +21,4 @@ Cases of life-threatening serotonin syndrome have been reported during co-admini
 ## 7.5 Cimetidine
 
 Following administration of cimetidine, the half-life and blood levels of zolmitriptan and its active N-desmethyl metabolite were approximately doubled [see Clinical Pharmacology (12.3)].
-If cimetidine and ZOMIG are used concomitantly, limit the maximum single dose of ZOMIG to 2.5 mg, not to exceed 5 mg in any 24-hour period [seeDosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+If cimetidine and ZOMIG are used concomitantly, limit the maximum single dose of ZOMIG to 2.5 mg, not to exceed 5 mg in any 24-hour period [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
