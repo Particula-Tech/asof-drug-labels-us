@@ -10,30 +10,30 @@ Consistent dose delivery is achieved, whether using the 40 or 80 mcg strengths, 
 Rinsing the mouth after inhalation is advised.
 
 QVAR has a dose counter attached to the actuator.
-When the patient receives the inhaler, a black dot will appear in the viewing window until it has been primed 2 times, at which point the total number ofactuations will be displayed.
+When the patient receives the inhaler, a black dot will appear in the viewing window until it has been primed 2 times, at which point the total number of actuations will be displayed.
 The dose counter will count down each time a spray is released.
 The dose-counter window displays the number of sprays left in the inhaler in units of two (e.g., 120, 118, 116, etc). When the dose counter reaches 20, the color of the numbers will change to red to remind the patient to contact their pharmacist for a refill of medication or consult their physician for a prescription refill.
 When the dose counter reaches 0, the background will change to solid red.
 
-Discard QVAR inhaler when the dose counter displays 0 or after the expiration date on the product, whichever comesfirst.
+Discard QVAR inhaler when the dose counter displays 0 or after the expiration date on the product, whichever comes first.
 
 ## 2.2 Maintenance Treatment of Asthma
 
 QVAR should be administered by the oral inhaled route in patients 5 years of age and older.
 Use of QVAR with a spacer device in children less than 5 years of age is not recommended.
-[seeUse in Specific Populations (8.4)] The onset and degree of symptom relief will vary in individual patients.
+[see Use in Specific Populations (8.4)] The onset and degree of symptom relief will vary in individual patients.
 Improvement in asthma symptoms can occur within 24 hours of the beginning of treatment and should be expected within the first or second week, but maximum benefit should not be expected until 3 to 4 weeks of therapy.
 For patients who do not respond adequately to the starting dose after 3 to 4 weeks of therapy, higher doses may provide additional asthma control.
 The safety and efficacy of QVAR when administered in excess of recommended doses has not been established.
 
-Table 1 Recommended Dosing for Patients Aged 12 Years and Older
+1. Table 1 Recommended Dosing for Patients Aged 12 Years and Older
 
 | Patient’s Previous Therapy | Recommended Starting Dose | Highest Dose Recommended |
 | --- | --- | --- |
 | Bronchodilators Alone | 40 to 80 mcg twice daily | 320 mcg twice daily |
 | Inhaled Corticosteroids | 40 to 160 mcg twice daily | 320 mcg twice daily |
 
-Table 2 Recommended Dosing for Children 5 to 11 Years
+1. Table 2 Recommended Dosing for Children 5 to 11 Years
 
 | Patient’s Previous Therapy | Recommended Starting Dose | Highest Dose Recommended |
 | --- | --- | --- |

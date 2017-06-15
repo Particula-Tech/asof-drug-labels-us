@@ -5,8 +5,8 @@ Systemic and local corticosteroid use may result in the following:
 - •Candida albicans infection [see Warnings and Precautions (5.1)]
 - •Immunosuppression [see Warnings and Precautions (5.4)]
 - •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.7)]
-  - Growth effects [see Warnings and Precautions (5.8) and Use in Specific Populations (8.4)]
-- •Glaucoma and cataracts [see Warnings and Precautions (5.10)]
+  - •Growth effects [see Warnings and Precautions (5.8) and Use in Specific Populations (8.4)]
+- •Eye Disorders [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -16,7 +16,7 @@ The following reporting rates of common adverse experiences are based upon 4 cli
 Table 3 below includes all events reported by patients taking QVAR (whether considered drug related or not) that occurred at a rate over 3% for QVAR.
 In considering these data, difference in average duration of exposure and clinical trial design should be taken into account.
 
-Table 3 Adverse Events Reported by at Least 3% of the Patients for QVAR by Treatment and Daily Dose
+1. Table 3 Adverse Events Reported by at Least 3% of the Patients for QVAR by Treatment and Daily Dose
 
 | Total (N=624) % | 80-160 mcg (N=233) % | 320 mcg (N=335) % | 640 mcg (N=56) % |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -47,3 +47,5 @@ Because they are reported voluntarily from a population of uncertain size, it is
 Local Effects: Localized infections with Candida albicans have occurred in patients treated with QVAR or other orally inhaled corticosteroids [see Warnings and Precautions (5.1)].
 
 Psychiatric and Behavioral Changes: Aggression, depression, sleep disorders, psychomotor hyperactivity, and suicidal ideation have been reported (primarily in children).
+
+Eye Disorders: Blurred vision, central serous chorioretinopathy (CSC).

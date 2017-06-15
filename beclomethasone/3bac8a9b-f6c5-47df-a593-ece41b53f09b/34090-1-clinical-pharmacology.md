@@ -1,4 +1,4 @@
-# 12 Clinical Pharmacology
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -11,7 +11,7 @@ Beclomethasone dipropionate is a prodrug that is rapidly activated by hydrolysis
 Beclomethasone 17 monopropionate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor which is approximately 13 times that of dexamethasone, 6 times that of triamcinolone acetonide, 1.5 times that of budesonide and 25 times that of beclomethasone dipropionate.
 The clinical significance of these findings is unknown.
 
-Studies in patients with asthma have shown a favorable ratio between topical anti-inflammatory activity and systemic corticosteroid effects with recommended doses ofQVAR.
+Studies in patients with asthma have shown a favorable ratio between topical anti-inflammatory activity and systemic corticosteroid effects with recommended doses of QVAR.
 
 ## 12.2 Pharmacodynamics
 
@@ -45,7 +45,7 @@ There is no evidence of tissue storage of BDP or its metabolites.
 
 Elimination: The major route of elimination of inhaled BDP appears to be via hydrolysis.
 More than 90% of inhaled BDP is found as 17-BMP in the systemic circulation.
-The mean elimination half-life of17-BMP is 2.8 hours.
+The mean elimination half-life of 17-BMP is 2.8 hours.
 Irrespective of the route of administration (injection, oral or inhalation), BDP and its metabolites are mainly excreted in the feces.
 Less than 10% of the drug and its metabolites are excreted in the urine.
 
@@ -53,5 +53,5 @@ Special Populations: Formal pharmacokinetic studies using QVAR were not conducte
 
 Pediatrics: The pharmacokinetics of 17-BMP, including dose and strength proportionalities, is similar in children and adults, although the exposure is highly variable.
 In 17 children (mean age 10 years), the Cmax of 17-BMP was 787 pg/ml at 0.6 hour after inhalation of 160 mcg (4 actuations of the 40 mcg/actuation strength of HFA beclomethasone dipropionate).
-The systemic exposure to 17-BMP from 160 mcg of HFA-BDP administered without a spacer was comparable to the systemic exposure to 17-BMP from 336 mcgCFC-BDP administered with a large volume spacer in 14 children (mean age 12 years).
-This implies that approximately twice the systemic exposure to 17-BMP would be expected for comparable mg doses of HFA-BDP without a spacer and CFC-BDP with a large volumespacer.
+The systemic exposure to 17-BMP from 160 mcg of HFA-BDP administered without a spacer was comparable to the systemic exposure to 17-BMP from 336 mcg CFC-BDP administered with a large volume spacer in 14 children (mean age 12 years).
+This implies that approximately twice the systemic exposure to 17-BMP would be expected for comparable mg doses of HFA-BDP without a spacer and CFC-BDP with a large volume spacer.

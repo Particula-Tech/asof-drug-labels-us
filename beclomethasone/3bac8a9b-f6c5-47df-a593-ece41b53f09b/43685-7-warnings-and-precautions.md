@@ -1,5 +1,7 @@
 # 5 WARNINGS AND PRECAUTIONS
 
+Click here to enter Warnings and Precautions
+
 ## 5.1 Local Effects
 
 Localized infections with Candida albicans have occurred in the mouth and pharynx in some patients receiving QVAR.
@@ -69,11 +71,19 @@ Particular care should be taken in observing patients postoperatively or during 
 It is possible that systemic corticosteroid effects such as hypercorticism and adrenal suppression (including adrenal crisis) may appear in a small number of patients, particularly when beclomethasone dipropionate is administered at higher than recommended doses over prolonged periods of time.
 If such effects occur, the dosage of QVAR should be reduced slowly, consistent with accepted procedures for reducing systemic corticosteroids and for management of asthma symptoms.
 
-### 5.8 Effects on Growth
+## 5.8 Effects on Growth
 
-### 5.9 Reduction in Bone Mineral Density
+Orally inhaled corticosteroids, including QVAR, may cause a reduction in growth velocity when administered to pediatric patients.
+Monitor the growth of pediatric patients receiving QVAR routinely (e.g., via stadiometry).
+To minimize the systemic effects of orally inhaled corticosteroids, including QVAR, titrate each patient’s dose to the lowest dosage that effectively controls his/her symptoms [see Use in Specific Populations (8.4)].
 
-## 5.10 Glaucoma and Cataracts
+## 5.9 Reduction in Bone Mineral Density
 
-Glaucoma, increased intraocular pressure, and cataracts have been reported following the use of long-term administration of inhaled corticosteroids.
-Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts while using QVAR.
+Decreases in bone mineral density (BMD) have been observed with long-term administration of products containing inhaled corticosteroids.
+The clinical significance of small changes in BMD with regard to long-term outcomes, such as fracture, is unknown.
+Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants and corticosteroids) should be monitored and treated with established standards of care.
+
+## 5.10 Eye Disorders
+
+Glaucoma, increased intraocular pressure, blurred vision and cataracts have been reported following the use of long-term administration of inhaled corticosteroids.
+Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, blurred vision, glaucoma, and/or cataracts while using QVAR.

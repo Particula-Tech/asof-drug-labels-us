@@ -10,4 +10,4 @@ No significant clastogenic effect was seen in cultured CHO cells in vitro or in 
 
 In rats, beclomethasone dipropionate caused decreased conception rates at an oral dose of 16 mg/kg/day (approximately 250 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
 Impairment of fertility, as evidenced by inhibition of the estrous cycle in dogs, was observed following treatment by the oral route at a dose of 0.5 mg/kg/day (approximately 25 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
-No inhibition of the estrous cycle in dogs was seen following 12 months of exposure to beclomethasone dipropionate by the inhalation route at an estimated daily dose of 0.33 mg/kg (approximately 17 times the maximum recommended daily inhalation dose in adults on a mg/m2basis).
+No inhibition of the estrous cycle in dogs was seen following 12 months of exposure to beclomethasone dipropionate by the inhalation route at an estimated daily dose of 0.33 mg/kg (approximately 17 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).

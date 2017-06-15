@@ -9,7 +9,7 @@ QVAR 40 mcg is supplied in a box of one 8.7 g canister containing 120 actuations
 QVAR 80 mcg is supplied in a box of one 8.7 g canister containing 120 actuations with a dark mauve plastic actuator with a dose counter and gray dust cap, and Patient Information and Instructions for Use; box of one; 120 Actuations – NDC 59310-204-12.
 
 The correct amount of medication in each inhalation cannot be assured after 120 actuations from the 8.7 g canister even though the canister is not completely empty.
-Patients should be informed todiscard theQVAR inhaler when the dose counter displays 0 or after the expirationdate on the product, whichever comes first.
+Patients should be informed to discard the QVAR inhaler when the dose counter displays 0 or after the expiration date on the product, whichever comes first.
 
 ## 16.2 Storage and Handling
 
