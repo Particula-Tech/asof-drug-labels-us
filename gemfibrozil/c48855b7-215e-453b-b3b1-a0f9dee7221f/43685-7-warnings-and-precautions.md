@@ -149,7 +149,7 @@ Peroxisome proliferation has been shown to occur in humans with either of two ot
 Administration of approximately 2 times the human dose (based on surface area) to male rats for 10 weeks resulted in a dose-related decrease of fertility.
 Subsequent studies demonstrated that this effect was reversed after a drug-free period of about eight weeks, and it was not transmitted to the offspring.
 
-## 5. Pregnancy Category C
+## 5. Pregnancy
 
 LOPID has been shown to produce adverse effects in rats and rabbits at doses between 0.5 and 3 times the human dose (based on surface area).
 There are no adequate and well-controlled studies in pregnant women.
