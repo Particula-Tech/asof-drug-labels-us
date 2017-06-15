@@ -2,7 +2,7 @@
 
 QNASL Nasal Aerosol is supplied in 2 strengths and supplied as a pressurized aluminum canister inserted into a blue and white plastic nasal actuator with a built-in dose counter and white dust cap, as follows:
 
-QNASL 40 mcg Nasal Aerosol, contains 8.7 g of drug and excipients and provides 120 actuations (NDC 59310-206-12) and for the 60-actuation product, 4.9 g of drug and excipients (NDC 59310-206-06).
+QNASL 40 mcg Nasal Aerosol contains 8.7 g of drug and excipients and provides 120 actuations (NDC 59310-206-12) and for the 60-actuation product, 4.9 g of drug and excipients (NDC 59310-206-06).
 Each actuation delivers 40 mcg of beclomethasone dipropionate from the nasal actuator and 50 mcg from the valve.
 
 QNASL 80 mcg Nasal Aerosol contains 8.7 g of drug and excipients and provides 120 actuations (NDC 59310-210-12).

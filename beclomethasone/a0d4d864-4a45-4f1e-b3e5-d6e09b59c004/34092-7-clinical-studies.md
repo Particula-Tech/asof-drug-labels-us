@@ -66,7 +66,7 @@ In this trial, treatment with beclomethasone dipropionate nasal aerosol at the d
 | Reflective Total Nasal Symptom Scores (rTNSS) |  |  |  |  |  |
 | Beclomethasone dipropionate 80 mcg/day | 239 | 8.9 (1.62) | -1.9 (0.14) | -0.71 | -1.1, -0.3 |
 | Beclomethasone dipropionate 160 mcg/day | 241 | 9.0 (1.71) | -2.0 (0.14) | -0.76 | -1.1, -0.4 |
-| Placebo | 234 | 9.0 (1.70) | -1.2 (0.14) | - | -- |
+| Placebo | 234 | 9.0 (1.70) | -1.2 (0.14) | - | - |
 | Instantaneous Total Nasal Symptom Scores (iTNSS) |  |  |  |  |  |
 | Beclomethasone dipropionate 80 mcg/day | 238 | 8.1 (1.99) | -1.6 (0.13) | -0.63 | -1.0, -0.3 |
 | Beclomethasone dipropionate 160 mcg/day | 241 | 8.1 (2.13) | -1.7 (0.13) | -0.73 | -1.1, -0.4 |

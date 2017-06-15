@@ -28,7 +28,7 @@ What should I tell my healthcare provider before using QNASL Nasal Aerosol?
 Before you use QNASL Nasal Aerosol, tell your healthcare provider if you:
 
 - •Have had recent nose problems such as nasal sores, nasal surgery, or a nasal injury
-- •Have or have had eye problems, such as increased pressure in your eye (glaucoma) or cataracts
+- •Have or have had eye problems, such as blurred vision, increased pressure in your eye (glaucoma) or cataracts
 - •Have tuberculosis or any untreated fungal, bacterial, or viral infections, or eye infections caused by herpes
 - •Have not had or been vaccinated for chickenpox or measles
 - •Are pregnant or plan to become pregnant.
@@ -78,7 +78,7 @@ QNASL Nasal Aerosol may cause serious side effects, including:
   Tell your healthcare provider if you have any redness or white colored patches in your mouth or throat
 - •Slow wound healing.
   You should not use QNASL Nasal Aerosol until your nose has healed if you have a sore in your nose, you have had surgery on your nose, or your nose has been injured
-- •Eye problems such as glaucoma and cataracts.
+- •Eye problems such as blurred vision, glaucoma and cataracts.
   If you have a history of glaucoma or cataracts or have a family history of eye problems, you should have regular eye exams while you use QNASL Nasal Aerosol
 - •Adrenal insufficiency.
   Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
@@ -246,17 +246,17 @@ This PPI and Instructions for Use has been approved by the U.S. Food and Drug Ad
 
 Manufactured for: Teva Respiratory, LLC
 
-Horsham, PA 19044
+Frazer, PA 19355
 
 By: 3M Drug Delivery Systems
 
 Northridge, CA 91324
 
-©2013 Teva Respiratory, LLC
+©2017 Teva Respiratory, LLC
 
 All rights reserved.
 
 QNASL is a registered trademark of Teva Respiratory, LLC
 
 Rev.
-05/13 PE 2670
+05/2017 PE 3534

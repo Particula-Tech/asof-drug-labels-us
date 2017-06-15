@@ -3,7 +3,7 @@
 Systemic and local corticosteroid use may result in the following:
 
 - •Epistaxis, nasal discomfort, nasal ulcerations, Candida albicans infection, and impaired wound healing [see Warnings and Precautions (5.1)]
-- •Glaucoma and cataracts [see Warnings and Precautions (5.2)]
+- •Eye Disorders [see Warnings and Precautions (5.2)]
 - •Hypercorticism, adrenal suppression, and growth reduction [see Warnings and Precautions (5.5)(5.6), Use in Specific Populations (8.4)]
 - •Immunosuppression [see Warnings and Precautions (5.4)]
 
@@ -19,12 +19,12 @@ Of these, 575 (378 female and 197 male) received at least one dose of QNASL Nasa
 Patient ages ranged from 12 to 82 years and the racial distribution of patients was 81% white, 16% black, and 4% other.
 
 Short-Term (2–6 Weeks) Trials: Less than 2% of patients in the clinical trials discontinued treatment because of adverse reactions with the rate of withdrawal among patients who received QNASL Nasal Aerosol similar to or lower than the rate among patients who received placebo.
-Table displays the common adverse reactions (≥ 1% and greater than placebo-treated patients).
+Table 1 displays the common adverse reactions (≥ 1% and greater than placebo-treated patients).
 
 | Table 1. Adverse Events With ≥ 1% Incidence and Greater than Placebo in QNASL Nasal Aerosol-Treated Adult and Adolescent Patients with Seasonal or Perennial Allergic Rhinitis in Controlled Clinical Trials of 2 to 6 Weeks Duration (Safety Population) |  |  |
 | --- | --- | --- |
 |  | Adult and Adolescent Patients 12 Years of Age and Older |  |
-|  | QNASL Nasal Aerosol 320 mcg (N = 575) n (%) | Placebo (N = 578) n (%) |
+|  | QNASL Nasal Aerosol320 mcg(N = 575)n (%) | Placebo(N = 578)n (%) |
 | Nasal Discomfort | 30 (5.2) | 28 (4.8) |
 | Epistaxis | 11 (1.9) | 7 (1.2) |
 | Headache | 13 (2.3) | 9 (1.6) |
@@ -71,6 +71,6 @@ These events have been chosen for inclusion due to either their seriousness, fre
 
 QNASL Nasal Aerosol: sneezing, burning sensation
 
-Intranasal beclomethasone dipropionate: Nasal septal perforation, glaucoma, cataracts, loss of taste and smell, and hypersensitivity reactions including anaphylaxis, angioedema, rash, and urticaria have been reported following intranasal administration of beclomethasone dipropionate.
+Intranasal beclomethasone dipropionate: Nasal septal perforation, blurred vision, glaucoma, cataracts, central serous chorioretinopathy (CSC), loss of taste and smell, and hypersensitivity reactions including anaphylaxis, angioedema, rash, and urticaria have been reported following intranasal administration of beclomethasone dipropionate.
 
 Inhaled beclomethasone dipropionate: Hypersensitivity reactions, including anaphylaxis, angioedema, rash, urticaria, and bronchospasm have been reported following the oral inhalation of beclomethasone dipropionate.
