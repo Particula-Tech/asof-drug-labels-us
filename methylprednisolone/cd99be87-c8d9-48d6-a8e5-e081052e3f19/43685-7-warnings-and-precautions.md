@@ -23,6 +23,10 @@ Injection into the deltoid muscle should be avoided because of a high incidence 
 
 Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS).
 
+In patients receiving the 40 mg presentation of SOLU-MEDROL during the treatment for acute allergic conditions and where these symptoms worsen or any new allergic symptoms occur, consideration should be given to the potential for hypersensitivity reactions to cow's milk ingredients (see CONTRAINDICATIONS).
+If appropriate, administration of SOLU-MEDROL should be stopped, and the patient's condition should be treated accordingly.
+Alternative treatments, including the use of corticosteroid formulations that do not contain ingredients produced from cow's milk, should be considered for acute allergy management, where appropriate.
+
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy who are subjected to any unusual stress before, during, and after the stressful situation.
 
 Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an intravenous corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.

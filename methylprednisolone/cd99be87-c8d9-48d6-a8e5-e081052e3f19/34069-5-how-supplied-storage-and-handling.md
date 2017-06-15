@@ -9,3 +9,6 @@ SOLU-MEDROL Sterile Powder preservative-free is available in the following packa
 
 | 40 mg Act-O-Vial System (Single-Use Vial) 25 ×1 mL NDC 0009-0039-28 125 mg Act-O-Vial System (Single-Use Vial) 25 × 2 mL NDC 0009-0047-22 500 mg Act-O-Vial System (Single-Use Vial) 4 mL NDC 0009-0003-02 | 1 gram Act-O-Vial System (Single-Use Vial) 8 mL NDC 0009-0018-20 |
 | --- | --- |
+
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
