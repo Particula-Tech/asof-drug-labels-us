@@ -19,18 +19,18 @@ Under moderate fat conditions (857 kcal; 31% fat, 13% protein, 56% carbohydrates
 
 No information is available comparing NORVIR tablets to NORVIR capsules under fasting conditions.
 
+After administration of a single 100 mg dose under fed conditions (617 Kcal, 29% calories from fat), NORVIR oral powder demonstrated comparable bioavailability to the oral solution.
+
 Effect of Food on Oral Absorption
 
-When the oral solution was given under non-fasting conditions, peak ritonavir concentrations decreased 23% and the extent of absorption decreased 7% relative to fasting conditions.
+The bioavailability of NORVIR tablet, oral solution, and oral powder is decreased under fed conditions as compared to fasted conditions.
+
+Following the administration of a 100 mg tablet dose of NORVIR, Cmax and AUCinf of ritonavir were decreased by 21-23% under moderate fat (857 Kcal, 30% from fat) or high fat conditions (917 Kcal, 60% calories from fat) relative to fasting conditions.
+
+Following the administration of a 600 mg dose NORVIR oral solution, Cmax and AUCinf of ritonavir were decreased by 23% and 7%, respectively, under nonfasting conditions (514 Kcal, 10% from fat) relative to fasting conditions.
 Dilution of the oral solution, within one hour of administration, with 240 mL of chocolate milk, Advera® or Ensure® did not significantly affect the extent and rate of ritonavir absorption.
-Administration of a single 600 mg dose oral solution under non-fasting conditions yielded mean ± SD areas under the plasma concentration-time curve (AUCs) of 129.0 ± 39.3 mg•h per mL.
 
-A food effect is observed for NORVIR tablets.
-Food decreased the bioavailability of the ritonavir tablets when a single 100 mg dose of NORVIR was administered.
-Under high fat conditions (907 kcal; 52% fat, 15% protein, 33% carbohydrates), a 23% decrease in mean AUC(0-∞) [90% confidence intervals: ↓30%-↓15%], and a 23% decrease in mean Cmax [90% confidence intervals: ↓34%-↓11%]) was observed relative to fasting conditions.
-Under moderate fat conditions, a 21% decrease in mean AUC(0-∞) [90% confidence intervals: ↓28%-↓13%], and a 22% decrease in mean Cmax [90% confidence intervals: ↓33%-↓9%]) was observed relative to fasting conditions.
-
-However, the type of meal administered did not change ritonavir tablet bioavailability when high fat was compared to moderate fat meals.
+Following the administration of a 100 mg dose of NORVIR oral powder, Cmax and AUCinf of ritonavir were decreased by 23-49% under moderate fat (617 Kcal, 29% calories from fat) or high fat conditions (917 Kcal, 60% calories from fat) relative to fasting conditions.
 
 Metabolism
 
@@ -59,7 +59,7 @@ Ritonavir Pharmacokinetic Characteristics
 | Percent Bound* |  | 98 to 99% |
 | † SS = steady state; patients taking ritonavir 600 mg q12h. ‡ Single ritonavir 600 mg dose. * Primarily bound to human serum albumin and alpha-1 acid glycoprotein over the ritonavir concentration range of 0.01 to 30 µg/mL. |  |  |
 
-Effects on Electrocardiogram
+Cardiac Electrophysiology
 
 QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg once-daily) controlled crossover study in 45 healthy adults, with 10 measurements over 12 hours on Day 3.
 The maximum mean (95% upper confidence bound) time-matched difference in QTcF from placebo after baseline correction was 5.5 (7.6) milliseconds (msec) for 400 mg twice-daily ritonavir.

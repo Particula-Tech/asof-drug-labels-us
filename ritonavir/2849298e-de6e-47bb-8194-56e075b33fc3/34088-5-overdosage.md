@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-## 10.1 Acute Overdosage - Human Overdose Experience
+Acute Overdosage - Human Overdose Experience
 
 Human experience of acute overdose with NORVIR is limited.
 One patient in clinical trials took NORVIR 1500 mg per day for two days.
@@ -9,7 +9,7 @@ A post-marketing case of renal failure with eosinophilia has been reported with 
 
 The approximate lethal dose was found to be greater than 20 times the related human dose in rats and 10 times the related human dose in mice.
 
-## 10.2 Management of Overdosage
+Management of Overdosage
 
 NORVIR oral solution contains 43.2% (v/v) alcohol and 26.57% (w/v) propylene glycol.
 Ingestion of the product over the recommended dose by a young child could result in significant toxicity and could potentially be lethal.

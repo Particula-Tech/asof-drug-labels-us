@@ -13,7 +13,7 @@ These interactions may lead to:
 When co-administering NORVIR with other protease inhibitors, see the full prescribing information for that protease inhibitor including important Warnings and Precautions.
 
 See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
-Consider the potential for drug interactions prior to and during NORVIR therapy; review concomitant medications during NORVIR therapy, and monitor for the adverse reactions associated with the concomitant medications [see Contraindications(4) and Drug Interactions (7)].
+Consider the potential for drug interactions prior to and during NORVIR therapy; review concomitant medications during NORVIR therapy, and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.2 Toxicity in Preterm Neonates
 
@@ -26,7 +26,7 @@ NORVIR oral solution should not be used in preterm neonates in the immediate pos
 However, if the benefit of using NORVIR oral solution to treat HIV infection in infants immediately after birth outweighs the potential risks, infants should be monitored closely for increases in serum osmolality and serum creatinine, and for toxicity related to NORVIR oral solution including: hyperosmolality, with or without lactic acidosis, renal toxicity, CNS depression (including stupor, coma, and apnea), seizures, hypotonia, cardiac arrhythmias and ECG changes, and hemolysis.
 Total amounts of alcohol and propylene glycol from all medicines that are to be given to infants should be taken into account in order to avoid toxicity from these excipients [see Dosage and Administration (2.2) and Overdosage (10)].
 
-## 5.3 Hepatic Reactions
+## 5.3 Hepatotoxicity
 
 Hepatic transaminase elevations exceeding 5 times the upper limit of normal, clinical hepatitis, and jaundice have occurred in patients receiving NORVIR alone or in combination with other antiretroviral drugs (see Table 4).
 There may be an increased risk for transaminase elevations in patients with underlying hepatitis B or C. Therefore, caution should be exercised when administering NORVIR to patients with pre-existing liver diseases, liver enzyme abnormalities, or hepatitis.
@@ -58,7 +58,7 @@ NORVIR should be used with caution in patients with underlying structural heart 
 
 The impact on the PR interval of co-administration of ritonavir with other drugs that prolong the PR interval (including calcium channel blockers, beta-adrenergic blockers, digoxin and atazanavir) has not been evaluated.
 As a result, co-administration of ritonavir with these drugs should be undertaken with caution, particularly with those drugs metabolized by CYP3A.
-Clinical monitoring is recommended [see Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Clinical monitoring is recommended [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 ## 5.7 Lipid Disorders
 

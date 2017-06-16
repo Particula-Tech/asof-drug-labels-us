@@ -1,4 +1,4 @@
-NDC 0074–3333–30
+NDC 0074-333-30
 
 Norvir®
 
@@ -32,3 +32,5 @@ Do not cover expiration date on bottle.
 Package insert is provided with tear-off patient information.
 
 Rx only abbvie
+
+NDC 0074-3399-30

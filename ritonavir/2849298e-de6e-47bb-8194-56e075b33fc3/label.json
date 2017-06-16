@@ -1,15 +1,22 @@
 {
   "application_numbers": [
     "NDA020659",
-    "NDA022417"
+    "NDA022417",
+    "NDA209512"
   ],
   "inn": "ritonavir",
   "labeler": "AbbVie Inc.",
   "package_ndcs": [
     "0074-1940-63",
-    "0074-3333-30"
+    "0074-3333-30",
+    "0074-3399-30"
   ],
   "products": [
+    {
+      "form": "POWDER",
+      "generic": "ritonavir",
+      "name": "Norvir"
+    },
     {
       "form": "SOLUTION",
       "generic": "ritonavir",
