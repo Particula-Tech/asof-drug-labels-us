@@ -1,16 +1,10 @@
-# PRINCIPAL DISPLAY PANEL - 15 g Bottle Label
+# PRINCIPAL DISPLAY PANEL - 15 grams Bottle Label
 
-NDC 0832-0465-15
-
-Nyamyc™
-
-Nystatin Topical Powder, USP
+NDC 0832-0465-15 Nyamyc® Nystatin Topical Powder, USP
 
 100,000 USP units per gram
 
-15 grams
-
-Rx only
+15 grams Rx only
 
 FOR TOPICAL USE ONLY.
 
