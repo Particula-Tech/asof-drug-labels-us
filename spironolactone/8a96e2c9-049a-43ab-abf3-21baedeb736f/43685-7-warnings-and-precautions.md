@@ -18,8 +18,8 @@ Concomitant administration of spironolactone with the following drugs or potassi
 - salt substitutes containing potassium
 
 Spironolactone should not be administered concurrently with other potassium-sparing diuretics.
-Spironolactone tablets, when used with ACE inhibitors or indomethacin, even in the presence of a diuretic, has been associated with severe hyperkalemia.
-Extreme caution should be exercised when spironolactone are given concomitantly with these drugs.
+Spironolactone when used with ACE inhibitors or indomethacin, even in the presence of a diuretic, has been associated with severe hyperkalemia.
+Extreme caution should be exercised when spironolactone is given concomitantly with these drugs.
 
 Hyperkalemia in patients with severe heart failure.
 Hyperkalemia may be fatal.
@@ -29,7 +29,7 @@ Avoid using oral potassium supplements in patients with serum potassium > 3.5 mE
 The Randomized Spironolactone Evaluation Study excluded patients with a serum creatinine > 2.5 mg/dL or a recent increase in serum creatinine > 25%.
 The recommended monitoring for potassium and creatinine is one week after initiation or increase in dose of spironolactone, monthly for the first 3 months, then quarterly for a year, and then every 6 months.
 Discontinue or interrupt treatment for serum potassium > 5 mEq/L or for serum creatinine > 4 mg/dL.
-(See Clinical Studies, Severe heart failure, and Dosage and Administration, Severe heart failure.)
+(See Clinical Studies: Severe heart failure, and Dosage and Administration: Severe heart failure.)
 
 Spironolactone should be used with caution in patients with impaired hepatic function because minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
 
@@ -104,12 +104,12 @@ Drug/Laboratory test interactions: Several reports of possible interference with
 Neither the extent nor the potential clinical significance of its interference (which may be assay-specific) has been fully established.
 
 Carcinogenesis, mutagenesis, impairment of fertility: Orally administered spironolactone has been shown to be a tumorigen in dietary administration studies performed in rats, with its proliferative effects manifested on endocrine organs and the liver.
-In an 18-month study using doses of about 50, 150 and 500 mg/kg/day, there were statistically significant increases in benign adenomas of the thyroid and testes and, in male rats, a dose-related increase in proliferative changes in the liver (including hepatocytomegaly and hyperplastic nodules).
-In a 24-month study in which the same strain of rat was administered doses of about 10, 30, 100 and 150 mg spironolactone/kg/day, the range of proliferative effects included significant increases in hepatocellular adenomas and testicular interstitial cell tumors in males, and significant increases in thyroid follicular cell adenomas and carcinomas in both sexes.
+In an 18-month study using doses of about 50, 150, and 500 mg/kg/day, there were statistically significant increases in benign adenomas of the thyroid and testes and, in male rats, a dose-related increase in proliferative changes in the liver (including hepatocytomegaly and hyperplastic nodules).
+In a 24-month study in which the same strain of rat was administered doses of about 10, 30, 100, and 150 mg spironolactone/kg/day, the range of proliferative effects included significant increases in hepatocellular adenomas and testicular interstitial cell tumors in males, and significant increases in thyroid follicular cell adenomas and carcinomas in both sexes.
 There was also a statistically significant, but not dose-related, increase in benign uterine endometrial stromal polyps in females.
 
 A dose-related (above 20 mg/kg/day) incidence of myelocytic leukemia was observed in rats fed daily doses of potassium canrenoate (a compound chemically similar to spironolactone and whose primary metabolite, canrenone, is also a major product of spironolactone in man) for a period of one year.
-In two-year studies in the rat, oral administration of potassium canrenoate was associated with myelocytic leukemia and hepatic, thyroid, testicular and mammary tumors.
+In two-year studies in the rat, oral administration of potassium canrenoate was associated with myelocytic leukemia and hepatic, thyroid, testicular, and mammary tumors.
 
 Neither spironolactone nor potassium canrenoate produced mutagenic effects in tests using bacteria or yeast.
 In the absence of metabolic activation, neither spironolactone nor potassium canrenoate has been shown to be mutagenic in mammalian tests in vitro.

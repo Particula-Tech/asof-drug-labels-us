@@ -33,7 +33,7 @@ The pharmacological activity of spironolactone metabolites in man is not known.
 However, in the adrenalectomized rat the antimineralocorticoid activities of the metabolites C, TMS, and HTMS, relative to spironolactone were 1.10, 1.28, and 0.32, respectively.
 Relative to spironolactone, their binding affinities to the aldosterone receptors in rat kidney slices were 0.19, 0.86, and 0.06, respectively.
 
-In humans the potencies of TMS and 7-α-thiospirolactone in reversing the effects of the synthetic mineralocorticoid, fludrocortisone, on urinary electrolyte composition were 0.33 and 0.26, respectively, relative to spironolactone.
+In humans, the potencies of TMS and 7-α-thiospirolactone in reversing the effects of the synthetic mineralocorticoid, fludrocortisone, on urinary electrolyte composition were 0.33 and 0.26, respectively, relative to spironolactone.
 However, since the serum concentrations of these steroids were not determined, their incomplete absorption and/or first-pass metabolism could not be ruled out as a reason for their reduced in vivo activities.
 
 Spironolactone and its metabolites are more than 90% bound to plasma proteins.
