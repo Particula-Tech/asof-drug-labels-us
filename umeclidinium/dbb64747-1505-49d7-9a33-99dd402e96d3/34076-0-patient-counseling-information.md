@@ -21,7 +21,7 @@ Paradoxical Bronchospasm
 As with other inhaled medicines, INCRUSE ELLIPTA can cause paradoxical bronchospasm.
 If paradoxical bronchospasm occurs, instruct patients to discontinue INCRUSE ELLIPTA.
 
-Worsening of Narrow-Angle Glaucoma
+Worsening of Narrow-angle Glaucoma
 
 Instruct patients to be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
 Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
@@ -31,13 +31,12 @@ Worsening of Urinary Retention
 Instruct patients to be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination).
 Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
 
-INCRUSE and ELLIPTA are registered trademarks of the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2016 the GSK group of companies.
-All rights reserved.
+©2017 GSK group of companies or its licensor.
 
-INC:4PI
+INC:5PI

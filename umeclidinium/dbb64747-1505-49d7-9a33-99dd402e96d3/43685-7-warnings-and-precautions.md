@@ -22,10 +22,11 @@ If paradoxical bronchospasm occurs following dosing with INCRUSE ELLIPTA, it sho
 
 ## 5.3 Hypersensitivity Reactions
 
-Hypersensitivity reactions may occur after administration of INCRUSE ELLIPTA.
-There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder products containing lactose; therefore, patients with severe milk protein allergy should not use INCRUSE ELLIPTA [see Contraindications (4)].
+Hypersensitivity reactions such as anaphylaxis, angioedema, pruritus, rash, and urticaria may occur after administration of INCRUSE ELLIPTA.
+Discontinue INCRUSE ELLIPTA if such reactions occur.
+There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder products containing lactose; therefore, patients with severe milk protein allergy should not use INCRUSE ELLIPTA [see Contraindications (4), Adverse Reactions (6.2)].
 
-## 5.4 Worsening of Narrow-Angle Glaucoma
+## 5.4 Worsening of Narrow-angle Glaucoma
 
 INCRUSE ELLIPTA should be used with caution in patients with narrow-angle glaucoma.
 Prescribers and patients should be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).

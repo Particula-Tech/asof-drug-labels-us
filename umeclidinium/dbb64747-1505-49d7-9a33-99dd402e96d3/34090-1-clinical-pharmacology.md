@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Umeclidinium is a long-acting, antimuscarinic agent, which is often referred to as an anticholinergic.
+Umeclidinium is a long-acting antimuscarinic agent, which is often referred to as an anticholinergic.
 It has similar affinity to the subtypes of muscarinic receptors M1 to M5.
 In the airways, it exhibits pharmacological effects through inhibition of M3 receptor at the smooth muscle leading to bronchodilation.
 The competitive and reversible nature of antagonism was shown with human and animal origin receptors and isolated organ preparations.
@@ -19,7 +19,7 @@ Following repeat doses of umeclidinium 500 mcg once daily (8 times the recommend
 
 ## 12.3 Pharmacokinetics
 
-Linear pharmacokinetics were observed for umeclidinium (62.5 to 500 mcg).
+Linear pharmacokinetics was observed for umeclidinium (62.5 to 500 mcg).
 
 Absorption
 
@@ -55,7 +55,7 @@ There was no evidence of an increase in systemic exposure to umeclidinium (Cmax 
 There was no evidence of altered protein binding in subjects with moderate hepatic impairment compared with healthy subjects.
 INCRUSE ELLIPTA has not been evaluated in subjects with severe hepatic impairment.
 
-Renal Impairment: The pharmacokinetics of INCRUSE ELLIPTA have been evaluated in subjects with severe renal impairment (creatinine clearance less than 30 mL/min).
+Renal Impairment: The pharmacokinetics of INCRUSE ELLIPTA has been evaluated in subjects with severe renal impairment (creatinine clearance less than 30 mL/min).
 There was no evidence of an increase in systemic exposure to umeclidinium (Cmax and AUC) (Figure 1).
 There was no evidence of altered protein binding in subjects with severe renal impairment compared with healthy subjects.
 
