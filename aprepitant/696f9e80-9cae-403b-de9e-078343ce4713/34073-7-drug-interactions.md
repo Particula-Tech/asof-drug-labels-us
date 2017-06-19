@@ -2,7 +2,8 @@
 
 ## 7.1 Effect of Aprepitant on the Pharmacokinetics of Other Drugs
 
-Aprepitant is a substrate, a weak-to-moderate (dose-dependent) inhibitor, and an inducer of CYP3A4 and CYP2C9 [see Clinical Pharmacology (12.3)].
+Aprepitant is a substrate, a weak-to-moderate (dose-dependent) inhibitor, and an inducer of CYP3A4.
+Aprepitant is also an inducer of CYP2C9 [see Clinical Pharmacology (12.3)].
 
 Aprepitant acts as a moderate inhibitor of CYP3A4 when administered as a 3-day regimen (125-mg/80-mg/80-mg) and can increase plasma concentrations of concomitant drugs that are substrates for CYP3A4.
 Aprepitant acts as a weak inhibitor when administered as a single 40-mg dose and has not been shown to alter the plasma concentrations of concomitant drugs that are primarily metabolized through CYP3A4.

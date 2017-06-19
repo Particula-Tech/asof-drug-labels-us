@@ -89,14 +89,14 @@ A population pharmacokinetic analysis of aprepitant in pediatric patients (aged 
 
 Sex
 
-Following oral administration of a single dose of EMEND ranging from 40 mg to 375 mg (3 times the maximum recommended dose), the AUC0-24hr and Cmax are 14% and 22% higher in females as compared with males.
-The half-life of aprepitant is 25% lower in females as compared with males and Tmax occurs at approximately the same time.
+Following oral administration of a single dose of EMEND ranging from 40 mg to 375 mg (3 times the maximum recommended dose), the AUC0-24hr and Cmax are 9% and 17% higher in females as compared with males.
+The half-life of aprepitant is approximately 25% lower in females as compared with males and Tmax occurs at approximately the same time.
 These differences are not considered clinically meaningful.
 
 Race/Ethnicity
 
-Following oral administration of a single dose of EMEND ranging from 40 mg to 375 mg (3 times the maximum recommended dose), the AUC0-24hr and Cmax are approximately 42% and 29% higher in Hispanics as compared with Caucasians.
-The AUC0-24hr and Cmax were 62% and 41% higher in Asians as compared to Caucasians.
+Following oral administration of a single dose of EMEND ranging from 40 mg to 375 mg (3 times the maximum recommended dose), the AUC0-24hr and Cmax are approximately 27% and 19% higher in Hispanics as compared with Caucasians.
+The AUC0-24hr and Cmax were 74% and 47% higher in Asians as compared to Caucasians.
 There was no difference in AUC0-24hr or Cmax between Caucasians and Blacks.
 These differences are not considered clinically meaningful.
 
@@ -118,7 +118,7 @@ There are no clinical or pharmacokinetic data in patients with severe hepatic im
 
 Body Mass Index (BMI)
 
-For every 5 kg/m2 increase in BMI, AUC0-24hr and Cmax of aprepitant decrease by 11%.
+For every 5 kg/m2 increase in BMI, AUC0-24hr and Cmax of aprepitant decrease by 9% and 10%.
 BMI of subjects in the analysis ranged from 18 kg/m2 to 36 kg/m2.
 This change is not considered clinically meaningful.
 

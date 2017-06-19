@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The overall safety of EMEND was evaluated in approximately 6500 individuals.
+The overall safety of EMEND was evaluated in approximately 6800 individuals.
 
 Adverse Reactions in Adults in the Prevention of Nausea and Vomiting Associated with HEC and MEC
 
