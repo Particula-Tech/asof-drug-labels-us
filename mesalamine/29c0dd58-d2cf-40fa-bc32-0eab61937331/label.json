@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091640"
+  ],
+  "inn": "mesalamine",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "70771-1071-1",
+    "70771-1071-2"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "mesalamine",
+      "name": "mesalamine"
+    }
+  ],
+  "setid": "29c0dd58-d2cf-40fa-bc32-0eab61937331",
+  "source": "dailymed"
+}

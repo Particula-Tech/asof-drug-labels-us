@@ -1,0 +1,11 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 70771-1071-1
+
+Mesalamine Delayed-release Tablets, 1.2 g
+
+Rx only
+
+120 tablets
+
+ZYDUS

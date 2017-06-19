@@ -1,0 +1,96 @@
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+The mechanism of action of mesalamine is not fully understood, but appears to have a topical anti-inflammatory effect on the colonic epithelial cells.
+Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase and lipoxygenase pathways, is increased in patients with chronic inflammatory bowel disease, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon.
+
+Mesalamine has the potential to inhibit the activation of nuclear factor kappa B (NFкB) and consequently the production of key pro-inflammatory cytokines.
+It has been proposed that reduced expression of PPARγ nuclear receptors (γ-form of peroxisome proliferator-activated receptors) may be implicated in ulcerative colitis.
+There is evidence that mesalamine produces pharmacodynamic effects through direct activation of PPARγ receptors in the colonic/rectal epithelium.
+
+## 12.2 Pharmacodynamics
+
+The pharmacodynamic actions of mesalamine occur in the colonic/rectal mucosae local to the delivery of drug from mesalamine delayed-release tablets into the lumen.
+There is information suggesting that severity of colonic inflammation in ulcerative colitis patients treated with mesalamine is inversely correlated with mucosal concentrations of mesalamine.
+Plasma concentrations representing systemically absorbed mesalamine are not believed to contribute extensively to efficacy.
+
+## 12.3 Pharmacokinetics
+
+Absorption
+
+The total absorption of mesalamine from mesalamine delayed-release tablets 2.4 g or 4.8 g given once daily for 14 days to healthy volunteers was found to be approximately 21 to 22 % of the administered dose.
+
+Gamma-scintigraphy studies have shown that a single dose of mesalamine delayed-release tablets 1.2 g (one tablet) passed intact through the upper gastrointestinal tract of fasted healthy volunteers.
+Scintigraphic images showed a trail of radio-labeled tracer in the colon, suggesting that mesalamine had distributed through this region of the gastrointestinal tract.
+
+In a single dose study, mesalamine delayed-release tablets 1.2 g, 2.4 g and 4.8 g were administered in the fasted state to healthy subjects.
+Plasma concentrations of mesalamine were detectable after 2 hours and reached a maximum by 9 to 12 hours on average for the doses studied.
+The pharmacokinetic parameters are highly variable among subjects (Table 3).
+Mesalamine systemic exposure in terms of area under the plasma concentration-time curve (AUC) was slightly more than dose proportional between 1.2 g and 4.8 g mesalamine delayed-release tablets.
+Maximum plasma concentrations (Cmax) of mesalamine increased approximately dose proportionately between 1.2 g and 2.4 g and sub-proportionately between 2.4 g and 4.8 g mesalamine delayed-release tablets, with the dose normalized value at 4.8 g representing, on average, 74 % of that at 2.4 g based on geometric means.
+
+Table 3
+
+Mean (SD) PK Parameters for Mesalamine Following Single Dose Administration of Mesalamine Delayed-release Tablets Under Fasting Conditions
+
+| Parameter1 of Mesalamine | Mesalamine Delayed-release Tablets 1.2 g (N=47) | Mesalamine Delayed-release Tablets 2.4 g (N=48) | Mesalamine Delayed-release Tablets 4.8 g (N=48) |
+| --- | --- | --- | --- |
+| AUC0-t (ng.h/mL) | 9039+ (5054) | 20538 (12980) | 41434 (26640) |
+| AUC0-∞ (ng.h/mL) | 9578• (5214) | 21084 (13185) | 44775# (30302) |
+| Cmax (ng/mL) | 857 (638) | 1595 (1484) | 2154 (1140) |
+| Tmax* (h) | 9**(4 to 32.1) | 12 (4 to 34.1) | 12 (4 to 34) |
+| Tlag* (h) | 2** (0 to 8) | 2 (1 to 4) | 2 (1 to 4) |
+| T1/2 (h) (Terminal Phase) | 8.56• (6.38) | 7.05§ (5.54) | 7.25# (8.32) |
+
+1Arithmetic mean of parameter values are presented except for Tmax and Tlag.
+
+*Median (min, max); +N=43, •N=27, §N=33, #N=36, **N=46
+
+Administration of a single dose of mesalamine delayed-release tablets 4.8 g with a high fat meal resulted in further delay in absorption, and plasma concentrations of mesalamine were detectable 4 hours following dosing.
+However, a high fat meal increased systemic exposure of mesalamine (mean Cmax: ↑ 91 %; mean AUC: ↑ 16 %) compared to results in the fasted state.
+Mesalamine delayed-release tablets were administered with food in the controlled clinical trials that supported its approval.
+
+In a single and multiple dose pharmacokinetic study of mesalamine delayed-release tablets, 2.4 g or 4.8 g was administered once daily with standard meals to 28 healthy volunteers per dose group.
+Plasma concentrations of mesalamine were detectable after 4 hours and were maximal by 8 hours after the single dose.
+Steady state was achieved generally by 2 days after dosing.
+Mean AUC at steady state was only modestly greater (1.1- to 1.4-fold) than predictable from single dose pharmacokinetics.
+
+In a single dose pharmacokinetic study of mesalamine delayed-release tablets, 4.8 g was administered in the fasted state to 71 healthy male and female volunteers (28 young (18 to 35 yrs); 28 elderly (65 to 75 yrs); 15 elderly (> 75 yrs)).
+Increased age resulted in increased systemic exposure (approximately 2-fold in Cmax), to mesalamine and its metabolite N-acetyl-5-aminosalicylic acid.
+Increased age resulted in a slower apparent elimination of mesalamine, though there was high between-subject variability.
+Systemic exposures in individual subjects were inversely correlated with renal function as assessed by estimated creatinine clearance.
+
+Table 4
+
+Mean (SD) PK Parameters for Mesalamine Following Single Dose Administration of Mesalamine Delayed-release Tablets 4.8 g under Fasting Conditions to Young and Elderly Subjects
+
+| Parameter of 5-ASA | Young Subjects (18 to 35 yrs) (N=28) | Elderly Subjects (65 to 75 yrs) (N=28) | Elderly Subjects (> 75 yrs) (N=15) |
+| --- | --- | --- | --- |
+| AUC0-t (ng.h/mL) AUC0-∞ (ng.h/mL) Cmax (ng/mL) tmaxa (h) tlaga (h) t½ (h), terminal phase Renal clearance (L/h) | 51570 (23870) 58057b (22429) 2243 (1410) 22 (5.98 to 48) 2 (1 to 6) 5.68b (2.83) 2.05 (1.33) | 73001 (42608) 89612c (40596) 4999 (4381) 12.5 (4 to 36) 2 (1 to 4) 9.68c (7.47) 2.04 (1.16) | 65820 (25283) 63067d (22531) 4832 (4383) 16 (4 to 26) 2 (2 to 4) 8.67d (5.84) 2.13 (1.20) |
+
+Arithmetic mean (SD) data are presented, N = Number of subjects a Median (min - max), bN=15, cN=16, dN=13
+
+Distribution
+
+Mesalamine is approximately 43% bound to plasma proteins at the concentration of 2.5 mcg/mL.
+
+Metabolism
+
+The only major metabolite of mesalamine (5-aminosalicylic acid) is N-acetyl-5-aminosalicylic acid.
+Its formation is brought about by N-acetyltransferase (NAT) activity in the liver and intestinal mucosa cells, principally by NAT-1.
+
+Elimination
+
+Elimination of mesalamine is mainly via the renal route following metabolism to N-acetyl-5-aminosalicylic acid (acetylation).
+However, there is also limited excretion of the parent drug in urine.
+Of the approximately 21 to 22% of the dose absorbed, less than 8% of the dose was excreted unchanged in the urine after 24 hours, compared with greater than 13% for N-acetyl-5-aminosalicylic acid.
+The apparent terminal half-lives for mesalamine and its major metabolite after administration of mesalamine delayed-release tablets 2.4 g and 4.8 g were, on average, 7 to 9 hours and 8 to 12 hours, respectively.
+
+Drug Interactions
+
+The potential effect of mesalamine (4.8 g given once daily) on the pharmacokinetics of four commonly used antibiotics were evaluated in healthy subjects.
+The four antibiotics studied and their dosing regimens were as follows: amoxicillin (single 500 mg dose), ciprofloxacin XR (single 500 mg dose), metronidazole (750 mg twice daily for 3.5 days), and sulfamethoxazole/trimethoprim (800 mg/160 mg twice daily for 3.5 days).
+Coadministration of mesalamine did not result in clinically significant changes in the pharmacokinetics of any of the four antibiotics.
+The change in Cmax and AUC of amoxicillin, ciprofloxacin and metronidazole when they were coadministered with mesalamine were all ≤ 3%.
+There was an increase of 12% in Cmax and an increase of 15% in AUC of sulfamethoxazole when sulfamethoxazole/trimethoprim was coadministered with mesalamine [see Drug Interactions (7)].
