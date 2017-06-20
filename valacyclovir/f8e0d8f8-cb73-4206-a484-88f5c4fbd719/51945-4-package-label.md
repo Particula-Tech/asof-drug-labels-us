@@ -55,8 +55,6 @@ Store at 15o to 25oC (59o to 77oF).
 
 Do not use if printed safety seal under cap is broken or missing.
 
-VALTREX is a registered trademark of the GlaxoSmithKline group of companies
-
 Distributed by:
 
 GlaxoSmithKline
@@ -66,6 +64,6 @@ Research Triangle Park, NC 27709
 Made in India
 
 Rev.
-1/14
+5/17
 
-A123593
+10000000146410
