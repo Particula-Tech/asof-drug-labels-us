@@ -2,6 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
+No long-term studies in animals have been performed to evaluate the carcinogenic potential of nitisinone.
 Nitisinone was not genotoxic in the Ames test and the in vivo mouse liver unscheduled DNA synthesis (UDS) test.
 Nitisinone was mutagenic in the mouse lymphoma cell (L5178Y/TK+/-) forward mutation test and in an in vivo mouse bone marrow micronucleus test.
 

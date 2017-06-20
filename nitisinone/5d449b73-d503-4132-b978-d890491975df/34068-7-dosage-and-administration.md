@@ -2,13 +2,12 @@
 
 ## 2.1 Dosage
 
-The recommended starting dosage of ORFADIN is 1 mg/kg administered orally.
+The recommended starting dosage of ORFADIN is 0.5 mg/kg orally twice daily.
 Titrate the dose for individual patients, as needed based on biochemical and/or clinical response.
 Adjust the dose of nitisinone individually.
-It is recommended to administer the dose once daily.
 Monitor plasma and/or urine succinylacetone concentrations, liver function parameters and alpha-fetoprotein levels.
-If succinylacetone is still detectable one month after the start of nitisinone treatment, increase the nitisinone dosage to 1.5 mg/kg once daily.
-A maximum dosage of 2 mg/kg orally once daily may be needed based on the evaluation of all biochemical parameters.
+If succinylacetone is still detectable one month after the start of nitisinone treatment, increase the nitisinone dosage to 0.75 mg/kg twice daily.
+A maximum dosage of 1 mg/kg orally twice daily may be needed based on the evaluation of all biochemical parameters.
 
 If the biochemical response is satisfactory, the dosage should be adjusted only according to body weight gain.
 
