@@ -87,8 +87,8 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 AFREZZA® is a registered trademark owned by MannKind Corporation
 
-Patented: See http://www.mannkindcorp.com/our-technology-patent-notices.htm
+Patented: See http://www.mannkindcorp.com/research-development/patent-notices
 
 MannKind Corporation Danbury, CT 06810
 
-Revised: 04/2016
+Revised: 03/2017

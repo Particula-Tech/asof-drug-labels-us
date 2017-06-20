@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 90 Cartridge Carton
+# PRINCIPAL DISPLAY PANEL - 90 - 4 Unit Kit Carton
 
 NDC 47918-874-90 Rx ONLY
 
@@ -18,7 +18,51 @@ FOR ORAL INHALATION ONLY
 
 Carton Contains: 90 – 4 unit Cartridges + 2 Inhalers
 
-Dispense the enclosed Medicaton Guide to each patient
+Dispense the enclosed Medication Guide to each patient
+
+# PRINCIPAL DISPLAY PANEL - 90 - 8 Unit Kit Carton
+
+NDC 47918-878-90 Rx ONLY
+
+For FPO Only
+
+afrezza® (insulin human) Inhalation Powder
+
+Each green cartridge approximates 8 units of injected insulin
+
+MannKind Corporation
+
+8 units per cartridge
+
+90 cartridges
+
+FOR ORAL INHALATION ONLY
+
+Carton Contains: 90 – 8 unit Cartridges + 2 Inhalers
+
+Dispense the enclosed Medication Guide to each patient
+
+# PRINCIPAL DISPLAY PANEL - 90 - 12 Unit Kit Carton
+
+NDC 47918-891-90 Rx ONLY
+
+For FPO Only
+
+afrezza® (insulin human) Inhalation Powder
+
+Each yellow cartridge approximates 12 units of injected insulin
+
+MannKind Corporation
+
+12 units per cartridge
+
+90 cartridges
+
+FOR ORAL INHALATION ONLY
+
+Carton Contains: 90 – 12 unit Cartridges + 2 Inhalers
+
+Dispense the enclosed Medication Guide to each patient
 
 # PRINCIPAL DISPLAY PANEL - 60 – 4 Unit/30 – 8 Unit Kit Carton
 
@@ -44,7 +88,7 @@ FOR ORAL INHALATION ONLY
 
 Carton Contains: 60 – 4 unit Cartridges | + 2 Inhalers 30 – 8 unit Cartridges
 
-Dispense the enclosed Medicaton Guide to each patient
+Dispense the enclosed Medication Guide to each patient
 
 # PRINCIPAL DISPLAY PANEL - 30 – 4 Unit/60 – 8 Unit Kit Carton
 
@@ -70,7 +114,7 @@ FOR ORAL INHALATION ONLY
 
 Carton Contains: 30 – 4 unit Cartridges | + 2 Inhalers 60 – 8 unit Cartridges
 
-Dispense the enclosed Medicaton Guide to each patient
+Dispense the enclosed Medication Guide to each patient
 
 # PRINCIPAL DISPLAY PANEL - 60 – 8 Unit/30 – 12 Unit Kit Carton
 

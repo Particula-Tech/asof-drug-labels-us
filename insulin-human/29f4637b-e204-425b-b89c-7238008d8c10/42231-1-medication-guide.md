@@ -22,20 +22,20 @@ Who should not use AFREZZA?
 
 Do not use AFREZZA if you:
 
-- have chronic lung problems such as asthma or COPD.
-- are allergic to regular human insulin or any of the ingredients in AFREZZA.
+- Have chronic lung problems such as asthma or COPD.
+- Are allergic to regular human insulin or any of the ingredients in AFREZZA.
   See the end of this Medication Guide for a complete list of ingredients in AFREZZA.
 
 What should I tell my healthcare provider before using AFREZZA?
 
 Before using AFREZZA, tell your healthcare provider about all your medical conditions, including if you:
 
-- have lung problems such as asthma or COPD
-- have or have had lung cancer
-- are using any inhaled medications
-- smoke or have recently stopped smoking
-- have kidney or liver problems
-- are pregnant, planning to become pregnant, or are breastfeeding.
+- Have lung problems such as asthma or COPD
+- Have or have had lung cancer
+- Are using any inhaled medications
+- Smoke or have recently stopped smoking
+- Have kidney or liver problems
+- Are pregnant, planning to become pregnant, or are breastfeeding.
   AFREZZA may harm your unborn or breastfeeding baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins or herbal supplements.
@@ -62,9 +62,9 @@ What should I avoid while using AFREZZA?
 
 While using AFREZZA do not:
 
-- drive or operate heavy machinery, until you know how AFREZZA affects you
-- drink alcohol or use over-the-counter medicines that contain alcohol
-- smoke
+- Drive or operate heavy machinery, until you know how AFREZZA affects you
+- Drink alcohol or use over-the-counter medicines that contain alcohol
+- Smoke
 
 What are the possible side effects of AFREZZA?
 
@@ -72,36 +72,36 @@ AFREZZA may cause serious side effects that can lead to death, including:
 
 See "What is the most important information I should know about AFREZZA?"
 
-- low blood sugar (hypoglycemia).
+- Low blood sugar (hypoglycemia).
   Signs and symptoms that may indicate low blood sugar include:
   - dizziness or light-headedness, sweating, confusion, headache, blurred vision, slurred speech, shakiness, fast heartbeat, anxiety, irritability or mood change, hunger.
-- decreased lung function.
+- Decreased lung function.
   Your healthcare provider should check how your lungs are working before you start using AFREZZA, 6 months after you start using it and yearly after that.
-- lung cancer.
+- Lung cancer.
   In studies of AFREZZA in people with diabetes, lung cancer occurred in a few more people who were taking AFREZZA than in people who were taking other diabetes medications.
   There were too few cases to know if lung cancer was related to AFREZZA.
   If you have lung cancer, you and your healthcare provider should decide if you should use AFREZZA.
-- diabetic ketoacidosis.
+- Diabetic ketoacidosis.
   Talk to your healthcare provider if you have an illness.
   Your AFREZZA dose or how often you check your blood sugar may need to be changed.
-- severe allergic reaction (whole body reaction).
+- Severe allergic reaction (whole body reaction).
   Get medical help right away if you have any of these signs or symptoms of a severe allergic reaction:
-  - a rash over your whole body, trouble breathing, a fast heartbeat, or sweating.
-- low potassium in your blood (hypokalemia).
-- heart failure.Taking certain diabetes pills called thiazolidinediones or "TZDs" with AFREZZA may cause heart failure in some people.
+  - A rash over your whole body, trouble breathing, a fast heartbeat, or sweating.
+- Low potassium in your blood (hypokalemia).
+- Heart failure.Taking certain diabetes pills called thiazolidinediones or "TZDs" with AFREZZA may cause heart failure in some people.
   This can happen even if you have never had heart failure or heart problems before.
   If you already have heart failure it may get worse while you take TZDs with AFREZZA.
   Your healthcare provider should monitor you closely while you are taking TZDs with AFREZZA.
   Tell your healthcare provider if you have any new or worse symptoms of heart failure including:Treatment with TZDs and AFREZZA may need to be changed or stopped by your healthcare provider if you have new or worse heart failure.
-  - shortness of breath, swelling of your ankles or feet, sudden weight gain.
+  - Shortness of breath, swelling of your ankles or feet, sudden weight gain.
 
 Get emergency medical help if you have:
 
-- trouble breathing, shortness of breath, fast heartbeat, swelling of your face, tongue, or throat, sweating, extreme drowsiness, dizziness, confusion.
+- Trouble breathing, shortness of breath, fast heartbeat, swelling of your face, tongue, or throat, sweating, extreme drowsiness, dizziness, confusion.
 
 The most common side effects of AFREZZA include:
 
-- low blood sugar (hypoglycemia), cough, sore throat
+- Low blood sugar (hypoglycemia), cough, sore throat
 
 These are not all the possible side effects of AFREZZA.
 Call your doctor for medical advice about side effects.
@@ -129,8 +129,8 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 AFREZZA® is a registered trademark owned by MannKind Corporation
 
-Patented: http://www.mannkindcorp.com/our-technology-patent-notices.htm
+Patented: http://www.mannkindcorp.com/research-development/patent-notices
 
 MannKind Corporation Danbury, CT 06810
 
-Revised 04/2016
+Revised 03/2017
