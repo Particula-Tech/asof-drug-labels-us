@@ -101,3 +101,33 @@ NEEDLES NOT INCLUDED
 This device is recommended for use with Becton, Dickinson and Company's insulin pen needles.
 
 DO NOT TRANSFER TO A SYRINGE SEVERE OVERDOSE CAN RESULT
+
+PACKAGE CARTON – HUMALOG Junior KwikPen
+
+NDC 0002-7714-59
+
+Humalog®
+
+Junior KwikPen®
+
+insulin lispro injection
+
+For Single Patient Use Only
+
+100 units per mL (U-100)
+
+The pen can deliver 0.5 (½) to 30 units in one injection.
+
+5 x 3 mL prefilled pens
+
+prefilled insulin delivery device
+
+Rx only
+
+Read Humalog® Junior KwikPen® Instructions for Use.
+
+NEEDLES NOT INCLUDED
+
+This device is recommended for use with Becton, Dickinson and Company's insulin pen needles.
+
+Lilly
