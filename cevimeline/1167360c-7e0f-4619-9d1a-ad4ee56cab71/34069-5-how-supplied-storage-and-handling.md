@@ -2,7 +2,7 @@
 
 Cevimeline Hydrochloride Capsules
 
-30 mg capsules is supplied as a white opaque cap and white opaque body with “54 190” printed on the caop and body, containing a white powder.
+30 mg capsules is supplied as a white opaque cap and white opaque body with “54 190” printed on the cap and body, containing a white powder.
 
 NDC 0054-0334-25: Bottle of 100 Capsules
 
