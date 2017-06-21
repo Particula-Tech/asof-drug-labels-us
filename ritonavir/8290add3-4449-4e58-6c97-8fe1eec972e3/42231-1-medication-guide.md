@@ -83,6 +83,7 @@ Do not take KALETRA if you take any of the following medicines:
 - lovastatin (Advicor®, Altoprev®, Mevacor®)
 - midazolam oral syrup
 - lurasidone (Latuda®), pimozide (Orap®)
+- ranolazine (Ranexa®)
 - rifampin (Rifadin®, Rifamate®, Rifater®, Rimactane®)
 - sildenafil (Revatio®), when used for the treatment of pulmonary arterial hypertension
 - simvastatin (Zocor®, Vytorin®, Simcor®)
@@ -161,7 +162,7 @@ Especially tell your doctor if you take:
 - metronidazole
 - nicardipine (Cardene®)
 - nifedipine (Adalat CC®, Afeditab CR®, Procardia®)
-- ombitasvir/parataprevir/ritonavir and dasabuvir (Viekira Pak®)
+- ombitasvir/paritaprevir/ritonavir and dasabuvir (Viekira Pak®)
 - phenobarbital
 - phenytoin (Dilantin®, Phenytek®)
 - prednisone
@@ -174,7 +175,9 @@ Especially tell your doctor if you take:
 - simeprevir (Olysio®)
 - tadalafil (Adcirca®) for the treatment of pulmonary arterial hypertension
 - trazodone (Oleptro®)
+- triamcinolone (Kenalog®)
 - valproate (Depakote®, Depakene®, Depacon®)
+- venetoclax (Venclexta®)
 - voriconazole (Vfend®)
 - warfarin (Coumadin®, Jantoven®)
 
@@ -211,7 +214,7 @@ How should I take KALETRA?
 - If your child is prescribed KALETRA, tell your doctor if your child’s weight changes.
 - KALETRA should not be given one time each day in children.
   When giving KALETRA to your child, give KALETRA exactly as prescribed.
-- KALETRA oral solution contains propylene glycol and a large amount of alcohol.
+- KALETRA oral solution contains propylene glycol and a large amount of ethanol.
   KALETRA oral solution should not be given to babies younger than 14 days of age unless your doctor thinks it is right for your baby.
   - If a young child drinks more than the recommended dose, it could make them sick.
     Contact your local poison control center or emergency room right away.
@@ -221,6 +224,7 @@ How should I take KALETRA?
   It is important not to run out of KALETRA.
   The amount of HIV-1 virus in your blood may increase if the medicine is stopped for even a short time.
   The virus may become resistant to KALETRA and become harder to treat.
+- Contact your doctor if you are planning to take Kaletra Oral Solution through a feeding tube because some feeding tubes are not recommended for use with ethanol-containing products like KALETRA.
 
 What are the possible side effects of KALETRA?
 
@@ -263,7 +267,7 @@ KALETRA can cause serious side effects, including:
   Skin rashes, some of them severe, can occur in people who take KALETRA.
   Tell your doctor if you had a rash when you took another medicine for your HIV-1 infection or if you notice any skin rash when you take KALETRA.
 - Babies taking KALETRA oral solution may have side effects.
-  KALETRA oral solution contains alcohol and propylene glycol.
+  KALETRA oral solution contains ethanol and propylene glycol.
   Call your doctor right away if your baby appears too sleepy or their breathing has changed.
 
 Common side effects of KALETRA include:
@@ -323,11 +327,11 @@ KALETRA 200 mg lopinavir and 50 mg ritonavir tablets: copovidone, sorbitan monol
 The film coating contains: hypromellose, titanium dioxide, polyethylene glycol 400, hydroxypropyl cellulose, talc, colloidal silicon dioxide, polyethylene glycol 3350, yellow ferric oxide 172, and polysorbate 80.
 
 KALETRA 100 mg lopinavir and 25 mg ritonavir tablets: copovidone, sorbitan monolaurate, colloidal silicon dioxide, and sodium stearyl fumarate.
-The film coating contains: polyvinyl alcohol, titanium dioxide, talc, polyethylene glycol 3350, and yellow ferric oxide E172.
+The film coating contains: polyvinyl ethanol, titanium dioxide, talc, polyethylene glycol 3350, and yellow ferric oxide E172.
 
-KALETRA oral solution: acesulfame potassium, alcohol, artificial cotton candy flavor, citric acid, glycerin, high fructose corn syrup, Magnasweet-110 flavor, menthol, natural and artificial vanilla flavor, peppermint oil, polyoxyl 40 hydrogenated castor oil, povidone, propylene glycol, saccharin sodium, sodium chloride, sodium citrate, and water.
+KALETRA oral solution: acesulfame potassium, ethanol, artificial cotton candy flavor, citric acid, glycerin, high fructose corn syrup, Magnasweet-110 flavor, menthol, natural and artificial vanilla flavor, peppermint oil, polyoxyl 40 hydrogenated castor oil, povidone, propylene glycol, saccharin sodium, sodium chloride, sodium citrate, and water.
 
-KALETRA oral solution contains 42.4% alcohol (v/v).
+KALETRA oral solution contains approximately 42% (v/v) ethanol and approximately 15% (w/v) propylene glycol.
 “See How should I take KALETRA?”.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
@@ -342,10 +346,10 @@ KALETRA Tablets, 100 mg lopinavir and 25 mg ritonavir and KALETRA Oral Solution
 
 AbbVie Inc., North Chicago, IL 60064 USA
 
-Revised: November 2016
+Revised: June 2017
 
 The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 
-© 2016 AbbVie Inc. All rights reserved.
+© 2017 AbbVie Inc. All rights reserved.
 
-03-B419
+03-B465

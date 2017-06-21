@@ -6,6 +6,8 @@ KALETRA tablets may be taken with or without food.
 The tablets should be swallowed whole and not chewed, broken, or crushed.
 KALETRA oral solution must be taken with food.
 
+Because KALETRA oral solution contains ethanol, it is not recommended for use with polyurethane feeding tubes due to potential incompatibility.
+
 ## 2.2 Dosage Recommendations in Adults
 
 Considerations in Determining KALETRA Once Daily vs. Twice Daily Dosing Regimen:
@@ -59,10 +61,10 @@ If a child is unable to reliably swallow a KALETRA tablet, the KALETRA oral solu
 
 KALETRA oral solution should not be administered to neonates before a postmenstrual age (first day of the mother’s last menstrual period to birth plus the time elapsed after birth) of 42 weeks and a postnatal age of at least 14 days has been attained [see Warnings and Precautions (5.2)].
 
-KALETRA oral solution contains 42.4% (v/v) alcohol and 15.3% (w/v) propylene glycol.
+KALETRA oral solution contains approximately 42% (v/v) ethanol and approximately 15% (w/v) propylene glycol.
 Special attention should be given to accurate calculation of the dosage of KALETRA, transcription of the medication order, dispensing information and dosing instructions to minimize the risk for medication errors, and overdose.
 This is especially important for infants and young children.
-Total amounts of alcohol and propylene glycol from all medicines that are to be given to pediatric patients 14 days to 6 months of age should be taken into account in order to avoid toxicity from these excipients [see Warnings and Precautions (5.2) and Overdosage (10)].
+Total amounts of ethanol and propylene glycol from all medicines that are to be given to pediatric patients 14 days to 6 months of age should be taken into account in order to avoid toxicity from these excipients [see Warnings and Precautions (5.2) and Overdosage (10)].
 
 Pediatric Dosage Calculations
 

@@ -6,7 +6,7 @@ The following events have been reported in association with unintended overdoses
 Healthcare professionals should be aware that KALETRA oral solution is highly concentrated and therefore, should pay special attention to accurate calculation of the dose of KALETRA, transcription of the medication order, dispensing information and dosing instructions to minimize the risk for medication errors and overdose.
 This is especially important for infants and young children.
 
-KALETRA oral solution contains 42.4% alcohol (v/v) and 15.3% propylene glycol (w/v).
+KALETRA oral solution contains approximately 42% (v/v) ethanol and approximately 15% (w/v) propylene glycol.
 Ingestion of the product over the recommended dose by an infant or a young child could result in significant toxicity and could potentially be lethal.
 
 Human experience of acute overdosage with KALETRA is limited.
@@ -15,4 +15,4 @@ There is no specific antidote for overdose with KALETRA.
 If indicated, elimination of unabsorbed drug should be achieved by gastric lavage.
 Administration of activated charcoal may also be used to aid in removal of unabsorbed drug.
 Since lopinavir is highly protein bound, dialysis is unlikely to be beneficial in significant removal of the drug.
-However, dialysis can remove both alcohol and propylene glycol in the case of overdose with KALETRA oral solution.
+However, dialysis can remove both ethanol and propylene glycol in the case of overdose with KALETRA oral solution.

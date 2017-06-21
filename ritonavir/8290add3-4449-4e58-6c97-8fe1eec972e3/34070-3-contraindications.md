@@ -11,6 +11,7 @@ Drugs That are Contraindicated with KALETRA
 | Drug Class | Drugs Within Class That are Contraindicated with KALETRA | Clinical Comments |
 | --- | --- | --- |
 | Alpha 1- Adrenoreceptor Antagonist | Alfuzosin | Potentially increased alfuzosin concentrations can result in hypotension. |
+| Antianginal | Ranolazine | Potential for serious and/or life-threatening reactions. |
 | Antiarrhythmic | Dronedarone | Potential for cardiac arrhythmias. |
 | Anti-gout | Colchicinea | Potential for serious and/or life-threatening reactions in patients with renal and/or hepatic impairment. |
 | Antimycobacterial | Rifampin | May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors or other co-administered antiretroviral agents. |

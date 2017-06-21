@@ -22,8 +22,8 @@ No dose adjustment of KALETRA is required for patients during the postpartum per
 
 Once daily KALETRA dosing is not recommended in pregnancy.
 
-Avoid use of KALETRA oral solution during pregnancy due to the alcohol content.
-KALETRA oral solution contains the excipients alcohol (42.4% v/v) and propylene glycol (15.3% w/v).
+Avoid use of KALETRA oral solution during pregnancy due to the ethanol content.
+KALETRA oral solution contains the excipients ethanol, approximately 42% (v/v and propylene glycol, approximately 15%.
 
 Data
 
