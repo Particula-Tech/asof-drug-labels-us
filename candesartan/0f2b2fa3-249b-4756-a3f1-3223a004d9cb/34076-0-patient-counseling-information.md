@@ -1,0 +1,144 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise patient to read FDA-approved patient labeling (Patient Information).
+
+Pregnancy Advise female patients of childbearing age should be told about the consequences of exposure to candesartan cilexetil tablets during pregnancy.
+Discuss treatment options with women planning to become pregnant.
+Tell patients to report pregnancies to their physicians as soon as possible.
+
+Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India
+
+Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA
+
+Revised: 11/2016
+
+Patient Information Candesartan Cilexetil (kan-de-sar-tan sye-lex-e-til) Tablets
+
+Read the Patient information that comes with candesartan cilexetil tablets before you start taking it and each time you get a refill.
+There may be new information.
+This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
+If you have any questions about candesartan cilexetil tablets, ask your doctor or pharmacist.
+
+What is the most important information I should know about candesartan cilexetil tablets?
+Candesartan cilexetil tablets can cause harm or death to an unborn baby.
+Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
+If you get pregnant while taking candesartan cilexetil tablets, tell your doctor right away.
+
+What are candesartan cilexetil tablets?
+Candesartan cilexetil tablets are a prescription medicine called an angiotensin receptor blocker (ARB).
+
+Candesartan cilexetil tablets are used to: • treat high blood pressure in adults and children, 1 to 17 years of age • treat certain types of heart failure in adults, to reduce death and hospitalization for heart damage and heart failure
+
+Heart failure is a condition where the heart does not pump blood as well as it should.
+
+Candesartan cilexetil tablets must not be used in children less than 1 year of age for high blood pressure.
+
+Who should not take candesartan cilexetil tablets?
+
+Do not take candesartan cilexetil tablet if you: • are allergic to any of the ingredients in candesartan cilexetil tablets.
+See the end of this leaflet for a complete list of ingredients in candesartan cilexetil tablets. • are diabetic and taking aliskiren.
+
+What should I tell my doctor before taking candesartan cilexetil tablets?
+
+Before you take candesartan cilexetil tablets, tell your doctor if you: • have heart problems • have liver problems • have kidney problems • currently have vomiting or diarrhea • are scheduled for surgery or anesthesia.
+Low blood pressure can happen in people who take candesartan cilexetil tablets and have major surgery and anesthesia. • have any other medical conditions • are pregnant or planning to become pregnant.
+See “What is the most important information I should know about candesartan cilexetil tablets?” • are breast-feeding or plan to breast-feed.
+It is not known if candesartan cilexetil passes into your breast milk.
+You and your doctor should decide if you will take candesartan cilexetil tablets or breast-feed.
+You should not do both.
+
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+Candesartan cilexetil tablets and other medicines may affect each other causing serious side effects.
+Candesartan cilexetil tablets may affect the way other medicines work, and other medicines may affect how candesartan cilexetil tablets works.
+
+Especially tell your doctor if you take:
+
+• lithium carbonate (Lithobid) or lithium citrate, medicines used in some types of depression • other medicines for high blood pressure, especially water pills (diuretics) • potassium supplements • salt substitutes • non-steroidal anti-inflammatory drugs (NSAIDs)
+
+Know the medicines you take.
+Keep a list of your medications with you to show your doctor and pharmacist when a new medication is prescribed.
+Talk to your doctor or pharmacist before you start taking any new medicine.
+Your doctor or pharmacist will know what medicines are safe to take together.
+
+How should I take candesartan cilexetil tablets?
+
+• Take candesartan cilexetil tablets exactly as prescribed by your doctor. • Do not change your dose or stop candesartan cilexetil tablets without talking to your doctor, even if you are feeling well. • If your child cannot swallow tablets, or if tablets are not available in the prescribed strength, your pharmacist will prepare candesartan cilexetil as a liquid suspension for your child.
+If your child switches between taking the tablet and the suspension, your doctor will change the dose as needed.
+Shake the bottle of suspension well before each dose. • Candesartan cilexetil tablets are taken by mouth with or without food. • If you miss a dose of candesartan cilexetil tablets, take it as soon as you remember.
+If it is almost time for your next dose, skip the missed dose.
+Take the next dose on time.
+Do not take 2 doses at one time.
+If you are not sure about your dosing call your doctor or pharmacist. • If you take more candesartan cilexetil tablets than prescribed, call your doctor, local poison control center, or go to the nearest emergency room.
+
+What should I avoid while taking candesartan cilexetil tablets?
+Candesartan cilexetil tablets can cause you to feel dizzy or tired.
+Do not drive, operate machinery, or do other dangerous activities until you know how candesartan cilexetil tablets affects you.
+
+What are the possible side effects of candesartan cilexetil tablets?
+
+Candesartan cilexetil tablets may cause serious side effects, including:
+
+• Injury or death to your unborn baby.
+See “What is the most important information I should know about candesartan cilexetil tablets? • Low blood pressure (hypotension).
+Low blood pressure is most likely to happen if you: o take water pills (diuretics) o are on a low salt diet o get dialysis treatments o are dehydrated (decreased body fluids) due to vomiting and diarrhea o have heart problems
+
+If you feel dizzy or faint lie down and call your doctor right away.
+
+Low blood pressure can also happen if you have major surgery or anesthesia.
+You will be monitored for this and treated if needed.
+See “What should I tell my doctor before taking candesartan cilexetil tablets?” • Worsening kidney problems.
+Kidney problems may get worse in people that already have kidney disease or heart problems.
+Your doctor may do blood tests to check for this. • Increased potassium in your blood.
+Your doctor may do a blood test to check your potassium levels as needed. • Symptoms of allergic reaction.
+Call your doctor right away if you have any of these symptoms of an allergic reaction: o swelling of your face, lips, tongue or throat o rash o hives and itching
+
+The most common side effects of candesartan cilexetil tablets are: • back pain • dizziness • cold or flu symptoms (upper respiratory tract infection) • sore throat (pharyngitis) • nasal congestion and stuffiness (rhinitis)
+
+Tell your doctor or pharmacist about any side effect that bothers you or that does not go away.
+
+These are not all the side effects of candesartan cilexetil tablets.
+Ask your doctor or pharmacist for more information.
+
+Call your doctor for medical advice about side effects.
+You can report side effects to FDA at 1-800-FDA-1088.
+
+How should I store candesartan cilexetil tablets?
+
+• Do not keep medicine that is out of date or that you no longer need. • Store candesartan cilexetil tablets at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature]. • Store candesartan cilexetil oral suspension at room temperature below 30°C (86°F). • Use the oral suspension within 30 days after first opening the bottle.
+Do not use after the expiration date stated on the bottle. • Do not freeze. • Keep the container of candesartan cilexetil tablets closed tightly.
+
+Keep candesartan cilexetil tablets and all medicine out of the reach of children.
+
+General information about candesartan cilexetil tablets.
+Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+Do not use candesartan cilexetil tablets for a condition for which it was not prescribed.
+Do not give candesartan cilexetil tablets to other people, even if they have the same problem you have.
+It may harm them.
+
+This leaflet summarizes the most important information about candesartan cilexetil tablets.
+If you would like more information, talk with your doctor.
+You can ask your doctor or pharmacist for information about candesartan cilexetil tablets that is written for health professionals.
+
+For more information, call Alembic Pharmaceuticals Limited at 1-866 210 9797.
+
+What are the ingredients in candesartan cilexetil tablets?
+Active ingredient: candesartan cilexetil.
+Inactive ingredients in candesartan cilexetil tablets are: mannitol, pullulan, carboxymethylcellulose calcium, corn starch, polyethylene glycol, hydroxypropyl cellulose, magnesium stearate and lactose monohydrate.
+Iron oxide red is added to the 32-mg tablet as a colorant.
+
+In addition to the above, candesartan cilexetil oral suspension also includes the following inactive ingredients: Ora-Plus, Ora Sweet or Ora-Blend.
+
+How do candesartan cilexetil tablets work?
+Candesartan cilexetil tablets are a type of medicine called angiotensin receptor blocker, which blocks the effect of the hormone angiotensin II, causing the blood vessels to relax.
+This helps lower blood pressure.
+Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Ora-Plus®, Ora-Sweet SF®, and Ora-Blend SF® are registered trademarks of Paddock Laboratories, Inc.
+
+Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India
+
+Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA
+
+Revised: 11/2016
