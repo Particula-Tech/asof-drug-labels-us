@@ -1,4 +1,4 @@
-# CONTRAINDICATIONS
+# CONTRAINDICATIONS:
 
 Efudex may cause fetal harm when administered to a pregnant woman.
 

@@ -1,7 +1,7 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
 Efudex is recommended for the topical treatment of multiple actinic or solar keratoses.
-In the 5% strength it is also useful in the treatment of superficial basal cell carcinomas when conventional methods are impractical, such as with multiple lesions or difficult treatment sites.
+In the 5% strength, it is also useful in the treatment of superficial basal cell carcinomas when conventional methods are impractical, such as with multiple lesions or difficult treatment sites.
 Safety and efficacy in other indications have not been established.
 
 The diagnosis should be established prior to treatment, since this method has not been proven effective in other types of basal cell carcinomas.

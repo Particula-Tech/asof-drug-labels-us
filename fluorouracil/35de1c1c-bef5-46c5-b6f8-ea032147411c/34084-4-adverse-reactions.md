@@ -1,8 +1,8 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 The most frequent adverse reactions to Efudex occur locally and are often related to an extension of the pharmacological activity of the drug.
 These include burning, crusting, allergic contact dermatitis, pruritus, scarring, rash, soreness, and ulceration.
-Ulcerations, other local reactions, cases of miscarriage and a birth defect (ventricular septal defect) have been reported when Efudex was applied to mucous membrane areas.
+Ulcerations, other local reactions, cases of miscarriage, and a birth defect (ventricular septal defect) have been reported when Efudex was applied to mucous membrane areas.
 Leukocytosis is the most frequent hematological side effect.
 
 Although a causal relationship is remote, other adverse reactions which have been reported infrequently are:

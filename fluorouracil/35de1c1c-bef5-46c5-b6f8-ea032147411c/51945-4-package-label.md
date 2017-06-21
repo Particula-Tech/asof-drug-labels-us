@@ -30,22 +30,19 @@ VALEANT™
 
 Topical Solution 5% w/w
 
-# PRINCIPAL DISPLAY PANEL - 40 g Cream Tube
+# PRINCIPAL DISPLAY PANEL - 40 g Cream Carton
 
 NDC 0187-3204-47
 
-FOR EXTERNAL USE ONLY
+Rx only
 
 Efudex® (fluorouracil) Topical Cream, 5%
 
-FOR TOPICAL USE ONLY.
+FOR TOPICAL USE ONLY
 
-NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE.
+NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE
 
-TO OPEN: Remove cap and puncture seal with point on cap.
+VALEANT
 
-Apply preferably with a nonmetal applicator or suitable glove.
-
-Rx only
-
+Net Wt.
 40 g

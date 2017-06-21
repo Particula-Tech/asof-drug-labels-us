@@ -1,7 +1,7 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 There is evidence that the metabolism of fluorouracil in the anabolic pathway blocks the methylation reaction of deoxyuridylic acid to thymidylic acid.
-In this manner fluorouracil interferes with the synthesis of deoxyribonucleic acid (DNA) and to a lesser extent inhibits the formation of ribonucleic acid (RNA).
+In this manner, fluorouracil interferes with the synthesis of deoxyribonucleic acid (DNA) and to a lesser extent inhibits the formation of ribonucleic acid (RNA).
 Since DNA and RNA are essential for cell division and growth, the effect of fluorouracil may be to create a thymine deficiency which provokes unbalanced growth and death of the cell.
 The effects of DNA and RNA deprivation are most marked on those cells which grow more rapidly and take up fluorouracil at a more rapid rate.
 The catabolic metabolism of fluorouracil results in degradation products (e.g., CO2, urea, α-fluoro-β-alanine) which are inactive.
@@ -12,4 +12,4 @@ One gram of labeled preparation was applied to the entire face and neck and left
 Urine samples were collected.
 At the end of 3 days, the total recovery ranged between 0.48% and 0.94% with an average of 0.76%, indicating that approximately 5.98% of the topical dose was absorbed systemically.
 If applied twice daily, this would indicate systemic absorption of topical fluorouracil to be in the range of 5 to 6 mg per daily dose of 100 mg.
-In an additional study, negligible amounts of labeled material were found in plasma, urine and expired CO2 after 3 days of treatment with topically applied 14C-labeled fluorouracil.
+In an additional study, negligible amounts of labeled material were found in plasma, urine, and expired CO2 after 3 days of treatment with topically applied 14C-labeled fluorouracil.

@@ -1,18 +1,18 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
-When Efudex is applied to a lesion, a response occurs with the following sequence: erythema, usually followed by vesiculation, desquamation, erosion and reepithelialization.
+When Efudex is applied to a lesion, a response occurs with the following sequence: erythema, usually followed by vesiculation, desquamation, erosion, and re-epithelialization.
 
 Efudex should be applied preferably with a nonmetal applicator or suitable glove.
 If Efudex is applied with the fingers, the hands should be washed immediately afterward.
 
-## Actinic or Solar Keratosis
+## Actinic or Solar Keratosis:
 
 Apply cream or solution twice daily in an amount sufficient to cover the lesions.
 Medication should be continued until the inflammatory response reaches the erosion stage, at which time use of the drug should be terminated.
 The usual duration of therapy is from 2 to 4 weeks.
 Complete healing of the lesions may not be evident for 1 to 2 months following cessation of Efudex therapy.
 
-## Superficial Basal Cell Carcinomas
+## Superficial Basal Cell Carcinomas:
 
 Only the 5% strength is recommended.
 Apply cream or solution twice daily in an amount sufficient to cover the lesions.
