@@ -70,12 +70,12 @@ Wait to open the cover until you are ready to take your dose.
 1. Step 1.
    Open the cover of the inhaler.
    See Figure D.
-2. •Slide the cover down to expose the mouthpiece.
+2. 1.Slide the cover down to expose the mouthpiece.
    You should hear a “click.”
    The counter will count down by 1 number.
    You do not need to shake this kind of inhaler.
    Your inhaler is now ready to use.
-3. •If the counter does not count down as you hear the click, the inhaler will not deliver the medicine.
+3. 2.If the counter does not count down as you hear the click, the inhaler will not deliver the medicine.
    Call your healthcare provider or pharmacist if this happens.
 
 Figure D
@@ -83,7 +83,7 @@ Figure D
 1. Step 2.
    Breathe out.
    See Figure E.
-2. •While holding the inhaler away from your mouth, breathe out (exhale) fully.
+2. 1.While holding the inhaler away from your mouth, breathe out (exhale) fully.
    Do not breathe out into the mouthpiece.
 
 Figure E
@@ -91,9 +91,9 @@ Figure E
 1. Step 3.
    Inhale your medicine.
    See Figure F.
-2. •Put the mouthpiece between your lips, and close your lips firmly around it.
+2. 1.Put the mouthpiece between your lips, and close your lips firmly around it.
    Your lips should fit over the curved shape of the mouthpiece.
-3. •Take 1 long, steady, deep breath in through your mouth.
+3. 2.Take 1 long, steady, deep breath in through your mouth.
    Do not breathe in through your nose.
 
 Figure F
@@ -111,17 +111,17 @@ Figure H
 1. Step 4.
    Breathe out slowly and gently.
    See Figure I.
-2. •You may not taste or feel the medicine, even when you are using the inhaler correctly.
-3. •Do not take another dose from the inhaler even if you do not feel or taste the medicine.
+2. 1.You may not taste or feel the medicine, even when you are using the inhaler correctly.
+3. 2.Do not take another dose from the inhaler even if you do not feel or taste the medicine.
 
 Figure I
 
 1. Step 5.
    Close the inhaler.
    See Figure J.
-2. •You can clean the mouthpiece if needed, using a dry tissue, before you close the cover.
+2. 1.You can clean the mouthpiece if needed, using a dry tissue, before you close the cover.
    Routine cleaning is not required.
-3. •Slide the cover up and over the mouthpiece as far as it will go.
+3. 2.Slide the cover up and over the mouthpiece as far as it will go.
 
 Figure J
 
