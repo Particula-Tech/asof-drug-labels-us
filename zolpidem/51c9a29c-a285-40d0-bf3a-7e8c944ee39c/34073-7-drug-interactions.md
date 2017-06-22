@@ -19,7 +19,8 @@ There was no evidence of an additive effect in psychomotor performance [see Clin
 
 Some compounds known to induce or inhibit CYP3A may affect exposure to zolpidem.
 The effect of drugs that induce or inhibit other P450 enzymes on the exposure to zolpidem is not known.
-CYP3A4 Inducers Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem.
-Use of CYP3A4 inducers in combination with zolpidem may decrease the efficacy of zolpidem [see Clinical Pharmacology (12.3)].
-CYP3A4 Inhibitors Ketoconazole, a potent CYP3A4 inhibitor, increased the exposure to and pharmacodynamic effects of zolpidem.
+CYP3A4 Inducers Rifampin Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem.
+Use of Rifampin in combination with zolpidem may decrease the efficacy of zolpidem and is not recommended [see Clinical Pharmacology (12.3)].
+St. John's wort Use of St. John's wort, a CYP3A4 inducer, in combination with zolpidem may decrease blood levels of zolpidem and is not recommended.
+CYP3A4 Inhibitors Ketoconazole Ketoconazole, a potent CYP3A4 inhibitor, increased the exposure to and pharmacodynamic effects of zolpidem.
 Consideration should be given to using a lower dose of zolpidem when a potent CYP3A4 inhibitor and zolpidem are given together [see Clinical Pharmacology (12.3)].
