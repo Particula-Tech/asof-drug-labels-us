@@ -44,7 +44,7 @@ Drug Interactions
 
 Effect of Other Drugs on Daratumumab
 
-The coadministration of lenalidomide or bortezomib with DARZALEX did not affect the pharmacokinetics of daratumumab.
+The coadministration of lenalidomide, pomalidomide or bortezomib with DARZALEX did not affect the pharmacokinetics of daratumumab.
 
 Effect of Daratumumab on Other Drugs
 

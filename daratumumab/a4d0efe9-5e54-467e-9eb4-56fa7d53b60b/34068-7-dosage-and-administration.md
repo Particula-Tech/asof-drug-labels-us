@@ -6,11 +6,11 @@
 - Administer only as an intravenous infusion after dilution in 0.9% Sodium Chloride Injection, USP [see Dosage and Administration (2.4, 2.5)].
 - DARZALEX should be administered by a healthcare professional, with immediate access to emergency equipment and appropriate medical support to manage infusion reactions if they occur [see Warnings and Precautions (5.1)].
 
-Monotherapy and Combination Therapy with Lenalidomide and Low-Dose Dexamethasone (4-week cycle regimen)
+Monotherapy and Combination Therapy with Lenalidomide or Pomalidomide and Low-Dose Dexamethasone (4-week cycle regimens)
 
 The recommended dose of DARZALEX is 16 mg/kg actual body weight administered as an intravenous infusion according to the following dosing schedule in Table 1:
 
-Table 1: DARZALEX dosing schedule for monotherapy and in combination with lenalidomide (4-week cycle dosing regimen)
+Table 1: DARZALEX dosing schedule for monotherapy and in combination with lenalidomide or pomalidomide (4-week cycle dosing regimens)
 
 | Weeks | Schedule |
 | --- | --- |

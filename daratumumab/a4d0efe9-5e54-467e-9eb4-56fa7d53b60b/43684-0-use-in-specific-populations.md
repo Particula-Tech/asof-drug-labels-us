@@ -48,5 +48,5 @@ Safety and effectiveness of DARZALEX in pediatric patients have not been establi
 ## 8.5 Geriatric Use
 
 Of the 156 patients that received DARZALEX monotherapy at the recommended dose, 45% were 65 years of age or older, and 10% were 75 years of age or older.
-Of 561 patients that received DARZALEX with various combination therapies, 40% were 65 to 75 years of age, and 9% were 75 years of age or older.
+Of 664 patients that received DARZALEX with various combination therapies, 41% were 65 to 75 years of age, and 9% were 75 years of age or older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients [see Clinical Studies (14)].

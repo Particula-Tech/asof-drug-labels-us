@@ -23,9 +23,9 @@ Study 3 demonstrated an improvement in PFS in the DRd arm as compared to the Rd 
 
 Figure 1: Kaplan-Meier Curve of PFS in Study 3
 
-Additional efficacy results from Study 3 are presented in Table 10 below.
+Additional efficacy results from Study 3 are presented in Table 12 below.
 
-Table 10: Additional efficacy results from Study 3Based on Intent-to-treat population
+Table 12: Additional efficacy results from Study 3Based on Intent-to-treat population
 
 |  | DRd (n=286) | Rd (n=283) |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ Table 10: Additional efficacy results from Study 3Based on Intent-to-treat popul
 | Complete response (CR) | 70 (24.5%) | 33 (11.7%) |
 | Very good partial response (VGPR) | 92 (32.2%) | 69 (24.4%) |
 | Partial response (PR) | 48 (16.8%) | 89 (31.4%) |
-| DRd = daratumumab- lenalidomide-dexamethasone; Rd = lenalidomide-dexamethasone; CI = confidence interval |  |  |
+| DRd = daratumumab- lenalidomide-dexamethasone; Rd = lenalidomide-dexamethasone |  |  |
 
 In responders, the median time to response was 1 month (range: 0.9 to 13 months) in the DRd group and 1.1 months (range: 0.9 to 10 months) in the Rd group.
 The median duration of response had not been reached in the DRd group (range: 1+ to 19.8+ months) and was 17.4 months (range: 1.4 to 18.5+ months) in the Rd group.
@@ -66,9 +66,9 @@ Study 4 demonstrated an improvement in PFS in the DVd arm as compared to the Vd 
 
 Figure 2: Kaplan-Meier Curve of PFS in Study 4
 
-Additional efficacy results from Study 4 are presented in Table 11 below.
+Additional efficacy results from Study 4 are presented in Table 13 below.
 
-Table 11: Additional efficacy results from Study 4Based on Intent-to-treat population
+Table 13: Additional efficacy results from Study 4Based on Intent-to-treat population
 
 |  | DVd (n=251) | Vd (n=247) |
 | --- | --- | --- |
@@ -78,14 +78,44 @@ Table 11: Additional efficacy results from Study 4Based on Intent-to-treat popul
 | Complete response (CR) | 35 (13.9%) | 16 (6.5%) |
 | Very good partial response (VGPR) | 96 (38.2%) | 47 (19.0%) |
 | Partial response (PR) | 57 (22.7%) | 80 (32.4%) |
-| DVd = daratumumab- bortezomib-dexamethasone; Vd = bortezomib-dexamethasone; CI = confidence interval. |  |  |
+| DVd = daratumumab- bortezomib-dexamethasone; Vd = bortezomib-dexamethasone |  |  |
 
 In responders, the median time to response was 0.8 months (range: 0.7 to 4 months) in the DVd group and 1.5 months (range: 0.7 to 5 months) in the Vd group.
 The median duration of response had not been reached in the DVd group (range: 1.4+ to 14.1+ months) and was 7.9 months (1.4+ to 12+ months) in the Vd group.
 
 With a median follow-up of 7.4 months, 65 deaths were observed; 29 in the DVd group and 36 in the Vd group were observed.
 
-## 14.3 Monotherapy
+## 14.3 Combination Treatment with Pomalidomide and Dexamethasone
+
+Study 5 was an open-label trial in which 103 patients with multiple myeloma who had received a prior PI and an immunomodulatory agent, received 16 mg/kg DARZALEX in combination with pomalidomide and low-dose dexamethasone until disease progression.
+Pomalidomide (4 mg once daily orally on Days 1-21 of repeated 28-day [4-week] cycles) was given with low dose oral or intravenous dexamethasone 40 mg/ week (reduced dose of 20 mg/week for patients >75 years or body mass index [BMI] <18.5).
+On DARZALEX infusion days, 20 mg of the dexamethasone dose was given as a pre-infusion medication and the remainder given the day after the infusion.
+For patients on a reduced dexamethasone dose, the entire 20 mg dose was given as a DARZALEX pre-infusion medication.
+
+The median patient age was 64 years (range: 35 to 86 years) with 8% of patients ≥75 years of age.
+Patients in the study had received a median of 4 prior lines of therapy.
+Seventy-four percent (74%) of patients had received prior ASCT.
+Ninety-eight percent (98%) of patients received prior bortezomib treatment, and 33% of patients received prior carfilzomib.
+All patients received prior lenalidomide treatment, with 98% of patients previously treated with the combination of bortezomib and lenalidomide.
+Eighty nine percent (89%) of patients were refractory to lenalidomide and 71% refractory to bortezomib; 64% of patients were refractory to bortezomib and lenalidomide.
+
+Efficacy results were based on overall response rate as determined by Independent Review Committee using IMWG criteria (see Table 14).
+
+Table 14: Efficacy results for Study 5
+
+|  | N=103 |
+| --- | --- |
+| Overall response rate (ORR) 95% CI (%) | 61 (59.2%) (49.1, 68.8) |
+| Stringent complete response (sCR) | 8 (7.8%) |
+| Complete response (CR) | 6 (5.8%) |
+| Very good partial response (VGPR) | 29 (28.2%) |
+| Partial response (PR) | 18 (17.5%) |
+| ORR = sCR+CR+VGPR+PR CI=Confidence Interval |  |
+
+The median time to response was 1 month (range: 0.9 to 2.8 months).
+The median duration of response was 13.6 months (range: 0.9+ to 14.6+ months).
+
+## 14.4 Monotherapy
 
 Study 1, was an open-label trial evaluating DARZALEX monotherapy in patients with relapsed or refractory multiple myeloma who had received at least 3 prior lines of therapy including a proteasome inhibitor and an immunomodulatory agent or who were double-refractory to a proteasome inhibitor and an immunomodulatory agent.
 In 106 patients, DARZALEX 16 mg/kg was administered with pre- and post-infusion medication.
@@ -97,9 +127,9 @@ Eighty percent of patients had received prior autologous stem cell transplantati
 Prior therapies included bortezomib (99%), lenalidomide (99%), pomalidomide (63%) and carfilzomib (50%).
 At baseline, 97% of patients were refractory to the last line of treatment, 95% were refractory to both, a proteasome inhibitor (PI) and immunomodulatory agent, and 77% were refractory to alkylating agents.
 
-Efficacy results were based on overall response rate as determined by the Independent Review Committee assessment using IMWG criteria (see Table 12).
+Efficacy results were based on overall response rate as determined by the Independent Review Committee assessment using IMWG criteria (see Table 15).
 
-Table 12: Efficacy results for Study 1
+Table 15: Efficacy results for Study 1
 
 |  | N=106 |
 | --- | --- |
