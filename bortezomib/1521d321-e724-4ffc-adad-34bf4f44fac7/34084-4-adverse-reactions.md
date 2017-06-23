@@ -422,4 +422,20 @@ Vascular disorders: Cerebrovascular accident, cerebral hemorrhage, deep venous t
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified from the worldwide postmarketing experience with VELCADE.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: atrioventricular block complete, cardiac tamponade, ischemic colitis, encephalopathy, dysautonomia, deafness bilateral, disseminated intravascular coagulation, hepatitis, acute pancreatitis, progressive multifocal leukoencephalopathy (PML), acute diffuse infiltrative pulmonary disease, PRES (formerly RPLS), toxic epidermal necrolysis, acute febrile neutrophilic dermatosis (Sweet's syndrome), herpes meningoencephalitis, optic neuropathy, blindness and ophthalmic herpes.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
+
+Cardiac disorders: Cardiac tamponade
+
+Ear and labyrinth disorders: Deafness bilateral
+
+Eye disorders: Optic neuropathy, blindness
+
+Gastrointestinal disorders: Ischemic colitis
+
+Infections and infestations: Progressive multifocal leukoencephalopathy (PML), ophthalmic herpes, herpes meningoencephalitis
+
+Nervous system disorders: Posterior reversible encephalopathy syndrome (PRES, formerly RPLS)
+
+Respiratory, thoracic and mediastinal disorders: Acute diffuse infiltrative pulmonary disease
+
+Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN), acute febrile neutrophilic dermatosis (Sweet's syndrome)

@@ -101,7 +101,11 @@ Other reported hepatic reactions include hepatitis, increases in liver enzymes, 
 Interrupt VELCADE therapy to assess reversibility.
 There is limited re-challenge information in these patients.
 
-## 5.10 Embryo-fetal Risk
+## 5.10 Embryo-fetal Toxicity
 
-Women of reproductive potential should avoid becoming pregnant while being treated with VELCADE.
+Based on the mechanism of action and findings in animals, VELCADE can cause fetal harm when administered to a pregnant woman.
 Bortezomib administered to rabbits during organogenesis at a dose approximately 0.5 times the clinical dose of 1.3 mg/m2 based on body surface area caused post-implantation loss and a decreased number of live fetuses [see Use in Specific Populations (8.1)].
+
+Females of reproductive potential should avoid becoming pregnant while being treated with VELCADE.
+Advise females and males of reproductive potential that they must use contraception during treatment with VELCADE and for 2 months following treatment.
+If VELCADE is used during pregnancy or if the patient becomes pregnant during VELCADE treatment, the patient should be apprised of the potential risk to the fetus [see Use in Specific Populations (8.1, 8.3) and Nonclinical Toxicology (13.1)].

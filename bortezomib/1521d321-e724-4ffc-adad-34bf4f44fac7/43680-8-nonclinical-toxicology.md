@@ -9,7 +9,6 @@ Bortezomib was not genotoxic when tested in the in vitro mutagenicity assay (Ame
 
 Fertility studies with bortezomib were not performed but evaluation of reproductive tissues has been performed in the general toxicity studies.
 In the 6-month rat toxicity study, degenerative effects in the ovary were observed at doses ≥ 0.3 mg/m2 (one-fourth of the recommended clinical dose), and degenerative changes in the testes occurred at 1.2 mg/m2.
-VELCADE could have a potential effect on either male or female fertility.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

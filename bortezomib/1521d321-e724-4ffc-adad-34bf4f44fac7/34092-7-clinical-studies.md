@@ -222,7 +222,7 @@ A Randomized, Open-Label Clinical Study in Patients with Previously Untreated Ma
 A randomized, open-label, Phase 3 study was conducted in 487 adult patients with previously untreated mantle cell lymphoma (Stage II, III or IV) who were ineligible or not considered for bone marrow transplantation to determine whether VELCADE administered in combination with rituximab, cyclophosphamide, doxorubicin, and prednisone (VcR-CAP) resulted in improvement in progression free survival (PFS) when compared to the combination of rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP).
 This clinical study utilized independent pathology confirmation and independent radiologic response assessment.
 
-Patients in the VcR-CAP treatment arm received VELCADE (1.3 mg/m2) administered intravenously on days 1, 4, 8, and 11 (rest period days 12-21); rituximab (375 mg/m2) on Day 1; cyclophosphamide (750 mg/m2) on Day 1; doxorubicin (50 mg/m2) on Day 1; and prednisone (100 mg/m2) on Day 1 through Day 5 of the the 21-day treatment cycle.
+Patients in the VcR-CAP treatment arm received VELCADE (1.3 mg/m2) administered intravenously on days 1, 4, 8, and 11 (rest period days 12-21); rituximab (375 mg/m2) on Day 1; cyclophosphamide (750 mg/m2) on Day 1; doxorubicin (50 mg/m2) on Day 1; and prednisone (100 mg/m2) on Day 1 through Day 5 of the 21-day treatment cycle.
 For patients with a response first documented at cycle 6, two additional treatment cycles were allowed.
 
 Median patient age was 66 years, 74% were male, 66% were Caucasian and 32% were Asian.

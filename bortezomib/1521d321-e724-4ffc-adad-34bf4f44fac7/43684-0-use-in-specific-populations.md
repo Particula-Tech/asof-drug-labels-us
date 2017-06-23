@@ -2,29 +2,50 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.10)].
-
 Risk Summary
 
-VELCADE may cause fetal harm when administered to a pregnant woman.
-There are no adequate and well-controlled studies in pregnant women.
-If VELCADE is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
+Based on its mechanism of action [see Clinical Pharmacology (12.1)] and findings in animals, VELCADE can cause fetal harm when administered to a pregnant woman.
+There are no studies with the use of VELCADE in pregnant women to inform drug-associated risks.
+Bortezomib caused embryo-fetal lethality in rabbits at doses lower than the clinical dose [see Data].
+Advise pregnant women of the potential risk to the fetus.
 
-Bortezomib caused embryo-fetal lethality in rabbits at doses lower than the clinical dose.
+Adverse outcomes in pregnancy occur regardless of the health of the mother or the use of medications.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
 
 Animal Data
 
 Bortezomib was not teratogenic in nonclinical developmental toxicity studies in rats and rabbits at the highest dose tested (0.075 mg/kg; 0.5 mg/m2 in the rat and 0.05 mg/kg; 0.6 mg/m2 in the rabbit) when administered during organogenesis.
 These dosages are approximately 0.5 times the clinical dose of 1.3 mg/m2 based on body surface area.
 
+Bortezomib caused embryo-fetal lethality in rabbits at doses lower than the clinical dose (approximately 0.5 times the clinical dose of 1.3 mg/m2 based on body surface area).
 Pregnant rabbits given bortezomib during organogenesis at a dose of 0.05 mg/kg (0.6 mg/m2) experienced significant post-implantation loss and decreased number of live fetuses.
 Live fetuses from these litters also showed significant decreases in fetal weight.
-The dose is approximately 0.5 times the clinical dose of 1.3 mg/m2 based on body surface area.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether bortezomib is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from VELCADE, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Risk Summary
+
+There are no data on the presence of bortezomib or its metabolites in human milk, the effects of the drug on the breast fed infant, or the effects of the drug on milk production.
+Because many drugs are excreted in human milk and because the potential for serious adverse reactions in breastfed infants from VELCADE is unknown, advise nursing women not to breastfeed during treatment with VELCADE and for 2 months after treatment.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Based on its mechanism of action and findings in animals, VELCADE can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
+Pregnancy Testing
+
+Verify the pregnancy status of females of reproductive potential prior to initiating VELCADE treatment.
+
+Contraception
+
+Advise patients of reproductive potential to use effective contraception during treatment with VELCADE and for at least 2 months after treatment.
+
+Infertility
+
+Based on the mechanism of action and findings in animals, VELCADE may have an effect on either male or female fertility [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

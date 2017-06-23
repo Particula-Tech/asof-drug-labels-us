@@ -1,6 +1,11 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing Guidelines
+## 2.1 Important Dosing Guidelines
+
+VELCADE is for intravenous or subcutaneous use only.
+VELCADE should not be administered by any other route.
+
+Because each route of administration has a different reconstituted concentration, caution should be used when calculating the volume to be administered.
 
 The recommended starting dose of VELCADE is 1.3 mg/m2.
 VELCADE may be administered intravenously at a concentration of 1 mg/mL, or subcutaneously at a concentration of 2.5 mg/mL [see Dosage and Administration (2.10)].
@@ -9,10 +14,6 @@ VELCADE retreatment may be considered for patients with multiple myeloma who had
 Treatment may be started at the last tolerated dose [see Dosage and Administration (2.6)].
 
 When administered intravenously, VELCADE is administered as a 3 to 5 second bolus intravenous injection.
-VELCADE is for intravenous or subcutaneous use only.
-VELCADE should not be administered by any other route.
-
-Because each route of administration has a different reconstituted concentration, caution should be used when calculating the volume to be administered.
 
 ## 2.2 Dosage in Previously Untreated Multiple Myeloma
 

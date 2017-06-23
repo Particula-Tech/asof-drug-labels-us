@@ -9,10 +9,11 @@ Dehydration/Hypotension: Patients receiving VELCADE therapy may experience vomit
 Advise patients how to avoid dehydration.
 Instruct patients to seek medical advice if they experience symptoms of dizziness, light headedness or fainting spells, or muscle cramps.
 
-Pregnancy/Nursing: Advise patients to use effective contraceptive measures to prevent pregnancy during treatment with VELCADE.
-Instruct patients to report pregnancy to their physicians immediately.
-Advise patients that they should not receive VELCADE while pregnant or breast-feeding.
-If a patient wishes to restart breastfeeding after treatment, she should be advised to discuss the appropriate timing with her physician.
+Embryo-fetal Toxicity: Advise females of the potential risk to the fetus and to avoid pregnancy during treatment with VELCADE.
+Advise patients to use effective contraceptive measures to prevent pregnancy during treatment with VELCADE and for 2 months following treatment.
+Instruct patients to report pregnancy to their physicians immediately if they or their female partner becomes pregnant during treatment or within 2 months following treatment [see Warnings and Precautions (5.10)].
+
+Lactation: Advise patients to avoid breastfeeding while receiving VELCADE and for 2 months after treatment [see Use in Specific Populations (8.2)].
 
 Concomitant Medications: Advise patients to speak with their physicians about any other medication they are currently taking.
 
