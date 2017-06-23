@@ -10,7 +10,7 @@ Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav
 
 Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA
 
-Revised: 11/2016
+Revised: 04/2017
 
 Patient Information Candesartan Cilexetil (kan-de-sar-tan sye-lex-e-til) Tablets
 
@@ -141,4 +141,4 @@ Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav
 
 Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA
 
-Revised: 11/2016
+Revised: 04/2017
