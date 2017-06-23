@@ -38,7 +38,15 @@ Somnolence and asthenia occurred most frequently within the first 4 weeks of tre
 
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their ability to drive or operate machinery.
 
-## 5.3 Serious Dermatological Reactions
+## 5.3 Anaphylaxis and Angioedema
+
+Levetiracetam can cause anaphylaxis or angioedema after the first dose or at any time during treatment.
+Signs and symptoms in cases reported in the postmarketing setting with levetiracetam have included hypotension, hives, rash, respiratory distress, and swelling of the face, lip, mouth, eye, tongue, throat, and feet.
+In some reported cases, reactions were life-threatening and required emergency treatment.
+If a patient develops signs or symptoms of anaphylaxis or angioedema, levetiracetam should be discontinued and the patient should seek immediate medical attention.
+Levetiracetam should be discontinued permanently if a clear alternative etiology for the reaction cannot be established [see Contraindications (4)].
+
+## 5.4 Serious Dermatological Reactions
 
 Serious dermatological reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in patients treated with levetiracetam.
 The median time of onset is reported to be 14 to 17 days, but cases have been reported at least four months after initiation of treatment.
@@ -46,7 +54,7 @@ Recurrence of the serious skin reactions following rechallenge with levetiraceta
 Levetiracetam should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 
-## 5.4 Coordination Difficulties
+## 5.5 Coordination Difficulties
 
 Coordination difficulties were only observed in the adult partial onset seizure studies.
 A total of 3.4% of adult levetiracetam-treated patients experienced coordination difficulties, (reported as either ataxia, abnormal gait, or incoordination) compared to 1.6% of placebo patients.
@@ -56,11 +64,11 @@ These events occurred most frequently within the first 4 weeks of treatment.
 
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their ability to drive or operate machinery.
 
-## 5.5 Withdrawal Seizures
+## 5.6 Withdrawal Seizures
 
 Antiepileptic drugs, including levetiracetam, should be withdrawn gradually to minimize the potential of increased seizure frequency.
 
-## 5.6 Hematologic Abnormalities
+## 5.7 Hematologic Abnormalities
 
 Levetiracetam can cause hematologic abnormalities.
 Hematologic abnormalities occurred in clinical trials and included decreases in red blood cells count (RBC), hemoglobin, and hematocrit, and increases in eosinophil counts.
@@ -80,7 +88,7 @@ No patient was discontinued secondary to low neutrophil counts.
 Although there were no obvious hematologic abnormalities observed in patients with JME, the limited number of patients makes any conclusion tentative.
 The data from the partial seizure patients should be considered to be relevant for JME patients.
 
-## 5.7 Seizure Control During Pregnancy
+## 5.8 Seizure Control During Pregnancy
 
 Physiological changes may gradually decrease plasma levels of levetiracetam throughout pregnancy.
 This decrease is more pronounced during the third trimester.
