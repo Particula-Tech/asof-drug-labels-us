@@ -1,8 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 30 g Tube Carton
 
-Vanos® (fluocinonide) Cream, 0.1%
-
 NDC 99207-525-30
+
+Vanos® (fluocinonide) Cream, 0.1%
 
 FOR TOPICAL USE ONLY NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE
 
@@ -10,6 +10,6 @@ Rx only
 
 Net.
 Wt.
-30 grams
+30 g
 
-Valeant
+VALEANT

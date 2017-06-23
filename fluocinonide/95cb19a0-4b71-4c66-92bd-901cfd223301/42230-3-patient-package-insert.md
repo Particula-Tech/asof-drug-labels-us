@@ -1,4 +1,4 @@
-PATIENT INFORMATION VANOS® (VAN-ōs) (fluocinonide) Cream, 0.1%
+Patient Information VANOS® (VAN-ōs) (fluocinonide) Cream, 0.1%
 
 IMPORTANT: For skin use only.
 Do not get VANOS Cream in your eyes, mouth, or vagina.
@@ -14,8 +14,8 @@ VANOS Cream is a prescription corticosteroid medicine used on the skin (topical)
 
 - •You should not use VANOS Cream for longer than 2 weeks in a row.
 - •You should not use more than 60 grams of VANOS Cream or more than half of the 120 gram tube in 1 week.
-- •Vanos Cream should not be used:
-  - •if you have skin swelling or redness on the nose of face (rosacea)
+- •VANOS Cream should not be used:
+  - •if you have skin swelling or redness on the nose or face (rosacea)
   - •for a scaly or bumpy rash around your mouth (perioral dermatitis)
   - •on your face, underarms, or groin area
 
@@ -33,9 +33,9 @@ Before using VANOS Cream, tell your doctor if you:
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - •are breast-feeding or plan to breastfeed.
   It is not known if VANOS Cream passes into your breast milk.
-  Talk to your doctor about the best way to feed your baby if you use Vanos Cream.
+  Talk to your doctor about the best way to feed your baby if you use VANOS Cream.
 
-Tell your doctor about all the medicine you take including prescriptions and nonprescriptions medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicine you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Especially tell your doctor if you take a corticosteroid medicine by mouth or use other products on your skin that contain corticosteroids.
 Ask your doctor or pharmacist if you are not sure.
 
@@ -47,7 +47,7 @@ How should I use VANOS Cream?
 - •See "What is VANOS Cream?"
 - •Use VANOS Cream exactly as your doctor tells you.
 - •This medicine is for use on the skin only.
-  Do not use VANOS Cream in your eyes, mouth or vagina.
+  Do not use VANOS Cream in your eyes, mouth, or vagina.
 - •Wash your hands after you use VANOS Cream.
 - •Do not use VANOS Cream for longer than 2 weeks in a row.
 - •Talk to your doctor if your skin does not get better after 2 weeks of treatment with VANOS Cream.
@@ -71,9 +71,9 @@ VANOS Cream may cause side effects, including:
   Your doctor may do tests to check for this.
   Symptoms can include:
   - •weight gain, especially around your upper back and midsection
-  - •slow healing of cuts, insect bites and infections
+  - •slow healing of cuts, insect bites, and infections
   - •tiredness and muscle weakness
-  - •depression, anxiety and irritability
+  - •depression, anxiety, and irritability
   - •roundness of your face (moon face)
   - •new or worsening high blood pressure
 
@@ -94,7 +94,7 @@ How should I store VANOS Cream?
 - •Store VANOS Cream at room temperature, between 59° to 86°F (15° to 30°C).
 - •Keep the tube tightly closed.
 
-Keep VANOS Cream and all medicines out of the reach of children.
+Keep VANOS Cream and all medicines out of reach of children.
 
 General information about VANOS Cream
 
@@ -111,19 +111,21 @@ What are the ingredients in VANOS Cream?
 
 Active ingredient: fluocinonide 0.1%
 
-Inactive ingredients: propylene glycol, dimethyl isosorbide, glyceryl stearate (and) PEG-100 stearate, glyceryl monostearate, purified water, carbopol 980, diisopropanolamine, and anhydrous citric acid.
+Inactive ingredients: anhydrous citric acid USP, carbopol 980 NF, diisopropanolamine, dimethyl isosorbide, glyceryl monostearate NF, glyceryl stearate (and) PEG-100 stearate, propylene glycol USP, and purified water USP.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Made in Canada
+By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
-U.S. Patents 6,765,001; 7,217,422; 7,220,424; 7,771,733; 7,794,738 and Patents Pending
+U.S. Patent Numbers 6,765,001; 7,217,422; 7,220,424; 7,771,733; 7,794,738 and 8,232,264
 
-Vanos is a trademark of Valeant Pharmaceuticals International, INC. or its affiliates. ©Valeant Pharmaceuticals International, Inc.
+Vanos is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+
+©Valeant Pharmaceuticals North America LLC
 
 Rev.
-08/2015
+05/2017
 
-9481700
+9481801

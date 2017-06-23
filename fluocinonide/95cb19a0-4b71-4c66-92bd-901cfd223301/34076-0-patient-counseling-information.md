@@ -1,6 +1,6 @@
 # 17PATIENT COUNSELING INFORMATION
 
-[See FDA-approved patient labeling (Patient Information)]
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Patients using VANOS Cream should receive the following information and instructions.
 This information is intended to aid in the safe and effective use of this medication.
@@ -21,3 +21,15 @@ It is not a disclosure of all possible adverse or unintended effects:
   Do not use more than half of the 120 g tube per week.
 - • Patients should inform their physicians that they are using VANOS Cream if surgery is contemplated.
 - • Patients should wash their hands after applying medication.
+
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+
+By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
+
+U.S. Patent Numbers 6,765,001; 7,217,422; 7,220,424; 7,771,733; 7,794,738 and 8,232,264
+
+Vanos is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+
+©Valeant Pharmaceuticals North America LLC
+
+9481801

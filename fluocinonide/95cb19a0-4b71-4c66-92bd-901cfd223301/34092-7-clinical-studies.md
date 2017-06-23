@@ -19,4 +19,4 @@ Table 3: Atopic Dermatitis in Adults
 | Subjects cleared | 11 (10%) | 0 (0) | 17 (17%) | 0 (0) |
 | Subjects achieving treatment successCleared or almost cleared | 64 (59%) | 6 (12%) | 58 (57%) | 10 (19%) |
 
-No efficacy studies have been conducted to compare VANOS Cream, 0.1% with any other topical corticosteroid product, including fluocinonide cream 0.05%.
+No efficacy studies have been conducted to compare VANOS (fluocinonide) Cream, 0.1% with any other topical corticosteroid product, including fluocinonide cream 0.05%.
