@@ -1,19 +1,19 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Potential for PREZCOBIX to affect Other Drugs
+## 7.1 Potential for PREZCOBIX to Affect Other Drugs
 
-When evaluated separately, darunavir and cobicistat both inhibited CYP3A and CYP2D6.
-Cobicistat inhibits the following transporters: p-glycoprotein (P-gp), BCRP, OATP1B1 and OATP1B3.
-Therefore, co-administration of PREZCOBIX with drugs that are primarily metabolized by CYP3A and/or CYP2D6 or are substrates of P-gp, BCRP, OATP1B1 or OATP1B3 may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and can be associated with adverse events (see Table 2).
+Darunavir co-administered with cobicistat is an inhibitor of CYP3A and CYP2D6.
+Cobicistat inhibits the following transporters: P-glycoprotein (P-gp), BCRP, MATE1, OATP1B1 and OATP1B3.
+Therefore, co-administration of PREZCOBIX with drugs that are primarily metabolized by CYP3A and/or CYP2D6 or are substrates of P-gp, BCRP, MATE1, OATP1B1 or OATP1B3 may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and can be associated with adverse events (see Table 2).
 
-## 7.2 Potential for Other Drugs to affect PREZCOBIX
+## 7.2 Potential for Other Drugs to Affect PREZCOBIX
 
 Darunavir is metabolized by CYP3A.
 Cobicistat is metabolized by CYP3A, and to a minor extent, by CYP2D6.
-Drugs that induce CYP3A activity are expected to increase the clearance of darunavir and cobicistat, resulting in lowered plasma concentrations of darunavir and cobicistat which may lead to loss of therapeutic effect and development of resistance.
+Co-administration of PREZCOBIX and drugs that induce CYP3A activity are expected to increase the clearance of darunavir and cobicistat, resulting in lowered plasma concentrations of darunavir and cobicistat which may lead to loss of therapeutic effect and development of resistance.
 Co-administration of PREZCOBIX and other drugs that inhibit CYP3A may result in increased plasma concentrations of darunavir and cobicistat (see Table 2).
 
-## 7.3 Potentially significant Drug Interactions
+## 7.3 Potentially Significant Drug Interactions
 
 Table 2 provides dosing recommendations for expected clinically relevant interactions with PREZCOBIX.
 These recommendations are based on either drug interaction trials or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy.
@@ -64,9 +64,7 @@ Table 2: Potentially Significant Drug Interactions: Alterations in Dose or Regim
 |  |  | Initiation of quetiapine in patients taking PREZCOBIX: Refer to the quetiapine prescribing information for initial dosing and titration of quetiapine. |
 | β-Blockers: e.g. carvedilol, metoprolol, timolol | ↑ beta-blockers | Clinical monitoring is recommended for co-administration with beta-blockers that are metabolized by CYP2D6. |
 | Calcium channel blockers: e.g. amlodipine, diltiazem, felodipine, nifedipine, verapamil | ↑ calcium channel blockers | Clinical monitoring is recommended for co-administration with calcium channel blockers metabolized by CYP3A. |
-| Corticosteroids (inhaled/nasal) metabolized by CYP3A: e.g. budesonide, fluticasone | ↑ corticosteroid | Co-administration with inhaled or nasal fluticasone or other corticosteroids that are metabolized by CYP3A may result in reduced serum cortisol concentrations. Alternative corticosteroids should be considered, particularly for long-term use. |
-| Corticosteroid (systemic): e.g. dexamethasone | ↓ darunavir ↓ cobicistat ↑ corticosteroids | Co-administration with dexamethasone or other corticosteroids that induce CYP3A may result in loss of therapeutic effect of and development of resistance to darunavir. Consider alternative corticosteroids. |
-| Corticosteroids (systemic) metabolized by CYP3A: e.g. budesonide, prednisolone | ↑ corticosteroid | Co-administration with corticosteroids that are metabolized by CYP3A, particularly for long-term use, may increase the risk for development of systemic corticosteroid effects including Cushing's syndrome and adrenal suppression. Consider the potential benefit of treatment versus the risk of systemic corticosteroid effects. |
+| Systemic/Inhaled/Nasal/Ophthalmic Corticosteroids: e.g. betamethasone budesonide ciclesonide dexamethasone fluticasone methylprednisolone mometasone prednisone triamcinolone | ↓ darunavir ↓ cobicistat ↑ corticosteroids | Co-administration with systemic dexamethasone or other systemic corticosteroids that induce CYP3A may result in loss of therapeutic effect and development of resistance to PREZCOBIX. Consider alternative corticosteroids. Co-administration with corticosteroids of which exposures are significantly increased by strong CYP3A inhibitors can increase the risk for Cushing's syndrome and adrenal suppression. Alternative corticosteroids including beclomethasone and prednisolone (for which PK and/or PD are less affected by strong CYP3A inhibitors relative to other steroids) should be considered, particularly for long term use. |
 | Endothelin receptor antagonists: bosentan | ↓ darunavir ↓ cobicistat ↑ bosentan | Initiation of bosentan in patients taking PREZCOBIX: In patients who have been receiving PREZCOBIX for at least 10 days, start bosentan at 62.5 mg once daily or every other day based upon individual tolerability. |
 |  |  | Initiation of PREZCOBIX in patients on bosentan: Discontinue use of bosentan at least 36 hours prior to initiation of PREZCOBIX. After at least 10 days following the initiation of PREZCOBIX, resume bosentan at 62.5 mg once daily or every other day based upon individual tolerability. |
 |  |  | Switching from darunavir co-administered with ritonavir to PREZCOBIX in patients on bosentan: Maintain bosentan dose. |
@@ -87,7 +85,9 @@ Table 2: Potentially Significant Drug Interactions: Alterations in Dose or Regim
 |  |  | Use of PDE-5 inhibitors for pulmonary arterial hypertension (PAH): Co-administration with sildenafil is contraindicated [see Contraindications (4)]. The following dose adjustments are recommended for use of tadalafil with PREZCOBIX: Initiation of tadalafil in patients taking PREZCOBIX: In patients receiving PREZCOBIX for at least one week, start tadalafil at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability.Initiation of PREZCOBIX in patients taking tadalafil: Avoid use of tadalafil during the initiation of PREZCOBIX. Stop tadalafil at least 24 hours prior to starting PREZCOBIX. After at least one week following the initiation of PREZCOBIX, resume tadalafil at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability.Patients switching from darunavir co-administered with ritonavir to PREZCOBIX: Maintain tadalafil dose. |
 |  |  | Use of PDE-5 inhibitors for erectile dysfunction: Sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg dose in 72 hours, or tadalafil at a single dose not exceeding 10 mg dose in 72 hours can be used with increased monitoring for PDE-5 inhibitor-associated adverse reactions. |
 | Sedatives/hypnotics: |  | For contraindicated sedatives/hypnotics, [see Contraindications (4)]. |
-| metabolized by CYP3A: e.g. buspirone, diazepam, estazolam, zoldipem | ↑ sedatives/hypnotics | With concomitant use, titration is recommended with sedatives/hypnotics metabolized by CYP3A and a lower dose of the sedatives/hypnotics should be considered with monitoring for increased and prolonged effects or adverse reactions. |
+| metabolized by CYP3A: e.g. buspirone, diazepam, estazolam, zolpidem | ↑ sedatives/hypnotics | With concomitant use, titration is recommended with sedatives/hypnotics metabolized by CYP3A and a lower dose of the sedatives/hypnotics should be considered with monitoring for increased and prolonged effects or adverse reactions. |
 | parenterally administered midazolam |  | Co-administration of parenteral midazolam should be done in a setting that ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dose reduction for parenteral midazolam should be considered, especially if more than a single dose of midazolam is administered. |
+
+## 7.4 Drugs without Clinically Significant Interactions with PREZCOBIX
 
 Clinically relevant drug-drug interactions are not anticipated with concomitant use of darunavir and cobicistat with rilpivirine, dolutegravir, raltegravir, nucleoside reverse transcriptase inhibitors (NRTIs) other than didanosine, or acid modifying medications (antacids, H2-receptor antagonists, proton pump inhibitors).

@@ -11,9 +11,7 @@ Cardiac Electrophysiology
 Separate thorough QT trials have been conducted for darunavir co-administered with ritonavir and for cobicistat.
 The effect of darunavir co-administered with cobicistat on the QT interval has not been evaluated.
 
-Darunavir: In an open-label, randomized, placebo- and active-controlled, four-way crossover trial, 40 healthy subjects were administered supratheraputic doses of darunavir 1600 mg and ritonavir 100 mg once daily and darunavir 800 mg and ritonavir 100 mg twice daily (approximately 2 times the recommended darunavir dose) for seven days.
-At the mean maximum darunavir concentration of 6599 ng/mL observed in this trial, the mean increase in QTcF was 2.2 ms with a 90% two-sided confidence interval (CI) of -2.0 to 6.3 ms. When evaluating the 2-sided 90% CI on the time-matched mean changes in QTcF versus placebo control, the upper bounds of both darunavir co-administered with ritonavir groups never exceeded the 10 ms boundary.
-In the setting of this trial, darunavir co-administered with ritonavir did not appear to prolong the QTc interval.
+Darunavir: In a thorough QT/QTc study in 40 healthy subjects, darunavir doses (co-administered with 100 mg ritonavir) of approximately 2 times the recommended darunavir dose did not affect the QT/QTc interval.
 
 Cobicistat: The effect of a single dose of cobicistat 250 mg and 400 mg (approximately 1.7 and 2.7 times the recommended dose) on QTc interval was evaluated in a randomized, placebo- and active-controlled (moxifloxacin 400 mg) four-period crossover thorough QT trial in 48 healthy subjects.
 In this trial, no significant QTc prolongation effect of cobicistat was detected.
@@ -40,10 +38,11 @@ Under fed (535 total kcal, 171 kcal from fat, 268 kcal from carbohydrates, 96 kc
 Darunavir exposure when comparing darunavir co-administered with cobicistat (as single entities) to darunavir co-administered with ritonavir was evaluated in a relative bioavailability trial [see cobicistat full prescribing information].
 Table 3 displays the population pharmacokinetic estimates of darunavir after oral administration of darunavir 800 mg co-administered with ritonavir 100 mg once daily (based on sparse sampling in 335 subjects in Trial TMC114-C211 and 280 subjects in Trial TMC114-C229) and darunavir 800 mg co-administered with cobicistat 150 mg once daily administered as single entities (based on sparse sampling in 298 subjects in Trial GS-US-216-0130) to HIV-1 infected subjects.
 
-Table 3: Population Pharmacokinetic Estimates of Darunavir as Darunavir 800 mg Co-administered with Ritonavir 100 mg Once Daily (Trial TMC114-C211, 48 Week Analysis and Trial TMC114-C229, 48 Week Analysis) and Darunavir 800 mg co-administered with cobicistat 150 mg Once Daily (Study GS-US-216-130, 24 Week Analysis)
+Table 3: Population Pharmacokinetic Estimates of Darunavir as Darunavir 800 mg Co-administered with Ritonavir 100 mg Once Daily (Trial TMC114-C211, 48 Week Analysis and Trial TMC114-C229, 48 Week Analysis) and Darunavir 800 mg Co-administered with Cobicistat 150 mg Once Daily (Trial GS-US-216-130, 24 Week Analysis)
 
-| Parameter | Trial TMC114-C211 (treatment-naïve) Darunavir 800 mg co-administered with ritonavir 100 mg once daily N=335 | Trial TMC114-C229 (treatment-experienced) Darunavir 800 mg co-administered with ritonavir 100 mg once daily N=280 | Trial GS-US-216-0130 (treatment-naïve and experienced) Darunavir 800 mg co-administered with cobicistat 150 mg once daily N=298 |
+| Parameter | N=335 | N=280 | N=298 |
 | --- | --- | --- | --- |
+|  | Trial TMC114-C211 (treatment-naïve) Darunavir 800 mg co-administered with ritonavir 100 mg once daily | Trial TMC114-C229 (treatment-experienced) Darunavir 800 mg co-administered with ritonavir 100 mg once daily | Trial GS-US-216-0130 (treatment-naïve and experienced) Darunavir 800 mg co-administered with cobicistat 150 mg once daily |
 | AUC24h (ng∙h/mL) |  |  |  |
 | Mean ± Standard Deviation | 93026 ± 27050 | 93334 ± 28626 | 100152 ± 32042 |
 | Median (Range) | 87854 (45000–219240) | 87788 (45456–236920) | 96900 (34500–224000) |
@@ -90,7 +89,7 @@ With single dose administration of 14C-cobicistat after multiple dosing of cobic
 
 Specific Populations
 
-Hepatic impairment
+Hepatic Impairment
 
 Darunavir: Darunavir is primarily metabolized by the liver.
 The steady-state pharmacokinetic parameters of darunavir were similar after multiple dose co-administration of darunavir 600 mg co-administered with ritonavir 100 mg twice daily to subjects with normal hepatic function (n=16), mild hepatic impairment (Child-Pugh Class A, n=8), and moderate hepatic impairment (Child-Pugh Class B, n=8).
@@ -101,7 +100,7 @@ A trial evaluating the pharmacokinetics of cobicistat was performed in non-HIV-1
 No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects.
 The effect of severe hepatic impairment on the pharmacokinetics of cobicistat has not been evaluated [see Use in Specific Populations (8.6)].
 
-Hepatitis B or Hepatitis C Virus Co-infection
+Hepatitis B or Hepatitis C Virus Co-Infection
 
 Darunavir: In HIV-infected subjects taking darunavir co-administered with ritonavir, the 48 week analysis of the data from clinical studies in HIV-1 infected subjects indicated that hepatitis B and/or hepatitis C virus co-infection status had no apparent effect on the exposure of darunavir.
 
@@ -142,8 +141,8 @@ Drug Interactions
 
 Darunavir is metabolized by CYP3A.
 Cobicistat is metabolized by CYP3A, and to a minor extent, by CYP2D6.
-When evaluated separately, darunavir and cobicistat both inhibited CYP3A and CYP2D6.
-Cobicistat inhibits the following transporters: p-glycoprotein (P-gp), BCRP, OATP1B1 and OATP1B3.
+Darunavir co-administered with cobicistat is an inhibitor of CYP3A and CYP2D6.
+Cobicistat inhibits the following transporters: P-gp, BCRP, MATE1, OATP1B1 and OATP1B3.
 Based on in vitro data, cobicistat is not expected to induce CYP1A2 or CYP2B6 and based on in vivo data, cobicistat is not expected to induce MDR1 or, in general, CYP3A to a clinically significant extent.
 The induction effect of cobicistat on CYP2C9, CYP2C19, or UGT1A1 is unknown, but is expected to be low based on CYP3A in vitro induction data.
 

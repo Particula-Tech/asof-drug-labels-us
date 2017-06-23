@@ -5,8 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Instructions for Use
 
 Advise patients to take PREZCOBIX with food every day on a regular dosing schedule, as missed doses can result in development of resistance.
-Inform patients not to alter the dose of PREZCOBIX or discontinue therapy with PREZCOBIX without consulting their physician.
-[see Dosage and Administration (2.2)].
+Inform patients not to alter the dose of PREZCOBIX or discontinue therapy with PREZCOBIX without consulting their physician [see Dosage and Administration (2.2)].
 
 Hepatotoxicity
 
@@ -25,7 +24,7 @@ Inform patients that renal impairment, including cases of acute renal failure an
 Drug Interactions
 
 PREZCOBIX may interact with many drugs; therefore, inform patients of the potential serious drug interactions with PREZCOBIX, and that some drugs are contraindicated with PREZCOBIX and other drugs may require dosage adjustment.
-Advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's Wort.
+Advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort.
 
 Instruct patients receiving hormonal contraceptives to use additional or alternative contraceptive (non-hormonal) measures during therapy with PREZCOBIX because no data are available to make recommendations regarding use of hormonal contraceptives and PREZCOBIX [see Contraindications (4) and Drug Interactions (7)].
 
@@ -43,4 +42,4 @@ Inform patients that there is an antiretroviral pregnancy registry to monitor fe
 
 Lactation
 
-Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.3)].
+Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].

@@ -2,40 +2,88 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: PREZCOBIX should be used during pregnancy only if the potential benefit justifies the potential risk.
+Pregnancy Exposure Registry
 
-No adequate and well-controlled studies have been conducted in pregnant women using darunavir, cobicistat, or PREZCOBIX.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to PREZCOBIX during pregnancy.
+Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) 1-800-258-4263.
 
-Antiretroviral Pregnancy Registry: To monitor maternal-fetal outcomes of pregnant women exposed to PREZCOBIX, an Antiretroviral Pregnancy Registry has been established.
-Physicians are encouraged to register patients by calling 1-800-258-4263.
+Risk Summary
+
+There are insufficient data with PREZCOBIX in pregnant women from the APR to inform a drug-associated risk of pregnancy outcomes.
+Available data from the APR show no difference in rate of overall birth defects for darunavir compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) [see Data].
+The APR uses the MACDP as the U.S. reference population for birth defects in the general population.
+The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks gestation.
+
+The rate of miscarriage is not reported in the APR.
+The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15–20%.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+
+In animal reproduction studies, no adverse developmental effects were observed when the components of PREZCOBIX were administered separately at darunavir exposures less than 1 (mice and rabbits) and 3-times (rats), and at cobicistat exposures 1.6 (rats) and 3.8 (rabbits) times human exposures at the recommended daily dose of these components in PREZCOBIX [see Data].
+No adverse developmental effects were seen when cobicistat was administered to rats through lactation at cobicistat exposures up to 1.2 times the human exposure at the recommended therapeutic dose.
+
+Clinical Considerations
+
+Dose Adjustment During Pregnancy and the Postpartum Period
+
+Dosing recommendations cannot be made because the pharmacokinetics, safety, and efficacy of PREZCOBIX cannot be predicted from studies of other darunavir-containing regimens in pregnant women.
+
+Data
+
+Human Data
+
+Darunavir: Based on prospective reports to the APR of 615 live births following exposure to darunavir-containing regimens during pregnancy (including 385 exposed in the first trimester and 230 exposed in the second/third trimester), there was no difference in rate of overall birth defects for darunavir compared with the background rate for major birth defects in a U.S. reference population of the MACDP.
+
+The prevalence of birth defects in live births was 2.6% (95% CI: 1.2% to 4.7%) with first trimester exposure to darunavir-containing regimens and 1.7% (95% CI: 0.5% to 4.4%) with second/third trimester exposure to darunavir-containing regimens.
+
+Cobicistat: Insufficient numbers of pregnancies with exposure to cobicistat have been reported to the APR to estimate the rate of birth defects.
 
 Animal Data
 
-Cobicistat: Studies in animals have shown no evidence of teratogenicity or an effect on reproductive function.
-In offspring from rat and rabbit dams treated with cobicistat during pregnancy, there were no toxicologically significant effects on developmental endpoints.
-The exposures at the embryo-fetal No Observed Adverse Effects Levels (NOAELs) in rats and rabbits were respectively 1.4 and 3.3 times higher than the exposure in humans at the recommended daily dose of 150 mg.
-
-Darunavir: Reproduction studies conducted with darunavir showed no embryotoxicity or teratogenicity in mice and rats in the presence or absence of ritonavir as well as in rabbits with darunavir alone.
+Darunavir: Reproduction studies conducted with darunavir showed no embryotoxicity or teratogenicity in mice (doses up to 1000 mg/kg from gestation day (GD) 6–15 with darunavir alone) and rats (doses up to 1000 mg/kg from GD 7–19 in the presence or absence of ritonavir) as well as in rabbits (doses up to 1000 mg/kg/day from GD 8–20 with darunavir alone).
 In these studies, darunavir exposures (based on AUC) were higher in rats (3-fold), whereas in mice and rabbits, exposures were lower (less than 1-fold) compared to those obtained in humans at the recommended clinical dose of darunavir co-administered with ritonavir.
 
-In the rat pre- and postnatal development study, a reduction in pup body weight gain was observed with darunavir alone or co-administered with ritonavir during lactation.
-This was due to exposure of pups to drug substances via the milk.
-Sexual development, fertility and mating performance of offspring were not affected by maternal treatment with darunavir alone or co-administered with ritonavir.
-The maximal plasma exposures achieved in rats were approximately 50% of those obtained in humans at the recommended clinical dose boosted with ritonavir.
+Cobicistat: Cobicistat was administered orally to pregnant rats at doses up to 125 mg/kg/day on GD 6–17.
+Increases in post-implantation loss and decreased fetal weights were observed at a maternal toxic dose of 125 mg/kg/day.
+No malformations were noted at doses up to 125 mg/kg/day.
+Systemic exposures (AUC) at 50 mg/kg/day in pregnant females were 1.6 times higher than human exposures at the recommended daily dose of cobicistat.
 
-In the juvenile toxicity study where rats were directly dosed with darunavir, deaths occurred from post-natal day 5 through 11 at plasma exposure levels ranging from 0.1 to 1.0 of the human exposure levels.
-In a 4 week rat toxicology study, when dosing was initiated on post-natal day 23 (the human equivalent of 2 to 3 years of age), no deaths were observed with a plasma exposure (in combination with ritonavir) of 0.1 of the human plasma exposure levels.
+In pregnant rabbits, cobicistat was administered orally at doses up to 100 mg/kg/day during GD 7–20.
+No maternal or embryo/fetal effects were noted at the highest dose of 100 mg/kg/day.
+Systemic exposures (AUC) at 100 mg/kg/day were 3.8 times higher than human exposures at the recommended daily dose of cobicistat.
 
-## 8.3 Nursing Mothers
+In a pre/postnatal developmental study in rats, cobicistat was administered orally at doses up to 75 mg/kg from GD 6 to postnatal day 20, 21, or 22.
+At doses of 75 mg/kg/day, neither maternal nor developmental toxicity was noted.
+Systemic exposures (AUC) at this dose were 1.2 times the human exposures at the recommended daily dose of cobicistat.
+
+## 8.2 Lactation
+
+Risk Summary
 
 The Centers for Disease Control and Prevention recommend that HIV infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV.
-Although it is not known whether darunavir or cobicistat are secreted in human milk, darunavir and cobicistat are secreted into the milk of lactating rats.
-Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants, instruct mothers not to breastfeed.
+
+There are no data on the presence of darunavir or cobicistat in human milk, the effects on the breastfed infant, or the effects on milk production.
+Darunavir and cobicistat are secreted into the milk of lactating rats [see Data].
+Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) serious adverse reactions in breastfed infants, instruct mothers not to breastfeed if they are receiving PREZCOBIX.
+
+Data
+
+Animal Data
+
+Darunavir: Studies in rats (with darunavir alone or with ritonavir) have demonstrated that darunavir is secreted in the milk.
+In the rat pre- and postnatal development study, a reduction in pup body weight gain was observed due to exposure of pups to drug substances via milk.
+The maximal maternal plasma exposures achieved with darunavir (up to 1000 mg/kg with ritonavir) were approximately 50% of those obtained in humans at the recommended clinical dose of darunavir with ritonavir.
+
+Cobicistat: During the pre/postnatal developmental toxicology study at doses up to 75 mg/kg/day, mean cobicistat milk to plasma ratio of up to 1.9 was measured 2 hours after administration to rats on lactation day 10.
 
 ## 8.4 Pediatric Use
 
 Safety, effectiveness, and pharmacokinetics of PREZCOBIX in pediatric patients less than 18 years of age have not been established.
-Darunavir, and thus PREZCOBIX is not recommended in pediatric patients below 3 years of age in view of toxicity and mortality observed in juvenile rats dosed with darunavir [see Nonclinical Toxicology (13.2)].
+Darunavir, a component of PREZCOBIX is not recommended in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir.
+
+Juvenile Animal Toxicity Data
+
+Darunavir: In a juvenile toxicity study where rats were directly dosed with darunavir (up to 1000 mg/kg), deaths occurred from post-natal day 5 at plasma exposure levels ranging from 0.1 to 1.0 of the human exposure levels.
+In a 4-week rat toxicology study, when dosing was initiated on post-natal day 23 (the human equivalent of 2 to 3 years of age), no deaths were observed with a plasma exposure (in combination with ritonavir) 2 times the human plasma exposure levels.
 
 ## 8.5 Geriatric Use
 

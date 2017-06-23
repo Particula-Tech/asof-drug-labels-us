@@ -29,13 +29,13 @@ Mild-to-moderate rash was also reported and often occurred within the first four
 Cobicistat decreases estimated creatinine clearance due to inhibition of tubular secretion of creatinine without affecting actual renal glomerular function.
 This effect should be considered when interpreting changes in estimated creatinine clearance in patients initiating PREZCOBIX, particularly in patients with medical conditions or receiving drugs needing monitoring with estimated creatinine clearance.
 
-Prior to initiating therapy with PREZCOBIX, assess estimated creatinine clearance [see Dosage and Administration (2.4)].
+Prior to initiating therapy with PREZCOBIX, assess estimated creatinine clearance [see Dosage and Administration (2.2)].
 Dosage recommendations are not available for drugs that require dosage adjustments in PREZCOBIX-treated patients with renal impairment [see Drug Interactions (7.3) and Clinical Pharmacology (12.2)].
 Consider alternative medications that do not require dosage adjustments in patients with renal impairment.
 
 Although cobicistat may cause modest increases in serum creatinine and modest declines in estimated creatinine clearance without affecting renal glomerular function, patients who experience a confirmed increase in serum creatinine of greater than 0.4 mg/dL from baseline should be closely monitored for renal safety.
 
-## 5.4 New Onset or Worsening Renal Impairment when used with Tenofovir Disoproxil Fumarate
+## 5.4 New Onset or Worsening Renal Impairment When Used With Tenofovir Disoproxil Fumarate
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported when cobicistat, a component of PREZCOBIX, was used in an antiretroviral regimen that contained tenofovir DF.
 Co-administration of PREZCOBIX and tenofovir DF is not recommended in patients who have an estimated creatinine clearance below 70 mL/min [see Dosage and Administration (2.3)].
@@ -46,7 +46,7 @@ Co-administration of PREZCOBIX and tenofovir DF is not recommended in patients w
 
 See cobicistat full prescribing information for additional information regarding cobicistat.
 
-## 5.5 Risk of Serious Adverse Reactions or Loss of Virologic response due to Drug Interactions
+## 5.5 Risk of Serious Adverse Reactions or Loss of Virologic response Due to Drug Interactions
 
 Initiation of PREZCOBIX, which inhibits CYP3A, in patients receiving medications metabolized by CYP3A, or initiation of medications metabolized by CYP3A in patients already receiving PREZCOBIX may increase plasma concentrations of medications metabolized by CYP3A.
 Initiation of medications that inhibit or induce CYP3A may respectively increase or decrease concentrations of PREZCOBIX.
@@ -66,7 +66,7 @@ Consider the potential for drug interactions prior to and during PREZCOBIX thera
 When used with concomitant medications, PREZCOBIX may result in different drug interactions than those observed or expected with darunavir co-administered with ritonavir.
 Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with darunavir co-administered with ritonavir to certain PREZCOBIX interactions [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
-## 5.6 Antiretrovirals not Recommended
+## 5.6 Antiretrovirals Not Recommended
 
 PREZCOBIX is not recommended in combination with other antiretroviral drugs that require pharmacokinetic boosting (i.e., another protease inhibitor or elvitegravir) because dosing recommendations for such combinations have not been established and co-administration may result in decreased plasma concentrations of the antiretroviral agents, leading to loss of therapeutic effect and development of resistance.
 
