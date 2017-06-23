@@ -33,7 +33,7 @@ How should I store Taclonex® Topical Suspension?
 - Store the Taclonex® Topical® Suspension at room temperature between 68°F to 77°F (20°C to 25°C).
 - Do not refrigerate Taclonex® Topical Suspension.
 - Keep bottle in the outer carton when not in use.
-- Discard unused Taclonex® Topical Suspension 6 months after it has been opened
+- Discard unused Taclonex® Topical Suspension 6 months after it has been opened.
 
 Keep Taclonex® Topical Suspension and all medicines out of the reach of children.
 
@@ -49,8 +49,10 @@ Dublin 12, Ireland
 
 Distributed by:
 
-LEO Pharma Inc. 1 Sylvan Way
+LEO Pharma Inc.
 
-Parsippany, NJ 07054, USA
+Seven Giralda Farms
 
-Revised 01/2017
+Madison, NJ 07940, USA
+
+Revised 06/2017

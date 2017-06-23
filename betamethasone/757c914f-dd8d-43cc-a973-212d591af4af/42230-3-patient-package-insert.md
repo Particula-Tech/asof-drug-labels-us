@@ -124,9 +124,9 @@ Inactive ingredients: hydrogenated castor oil, polyoxypropylene stearyl ether, a
 
 Manufactured by: LEO Laboratories Ltd., 285 Cashel Road, Dublin 12, Ireland
 
-Distributed by: LEO Pharma Inc., 1 Sylvan Way, Parsippany, NJ 07054, USA
+Distributed by: LEO Pharma Inc., Seven Giralda Farms, Madison, NJ 07940, USA
 
 For more information, go to www.taclonex.com or call 1-877-494-4536.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised 01/2017
+Revised 06/2017

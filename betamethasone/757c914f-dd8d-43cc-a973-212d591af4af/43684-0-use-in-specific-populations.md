@@ -33,7 +33,7 @@ Safety and effectiveness of the use of Taclonex® Topical Suspension in pediatri
 
 The safety and effectiveness of Taclonex® Topical Suspension for the treatment of plaque psoriasis of the scalp have been established in the age group 12 to 17 years.
 Two prospective, uncontrolled trials (N=109) were conducted in pediatric subjects age 12 to 17 years with scalp psoriasis, including assessment of HPA axis suppression in 30 subjects.
-[See Warnings and Precautions (5.2), Adverse Reactions (6.1) and Clinical Pharmacology (12.2)].
+[See Warnings and Precautions (5.2), Adverse Reactions (6.1) and Clinical Pharmacology (12.2)]
 
 Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of systemic toxicity when treated with topical drugs.
 They are, therefore, also at greater risk of HPA axis suppression and adrenal insufficiency upon the use of topical corticosteroids.

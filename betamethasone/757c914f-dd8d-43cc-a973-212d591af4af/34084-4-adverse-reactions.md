@@ -9,14 +9,14 @@ Clinical Trials Conducted in Subjects 18 years and older with Scalp Psoriasis
 The rates of adverse reactions given below were derived from randomized, multicenter, prospective vehicle- and/or active controlled clinical trials in adult subjects with scalp psoriasis.
 Subjects applied study product once daily for 8 weeks, and the median weekly dose was 12.6 g.
 
-Adverse reactions that occurred in ≥1% of subjects treated with Taclonex® Topical Suspension and at a rate higher than in subjects treated with vehicle are presented in Table 1:
+Adverse reactions that occurred in 1% of subjects treated with Taclonex® Topical Suspension and at a rate higher than in subjects treated with vehicle are presented in Table 1:
 
 Table 1
 
-| Number and Percentage with Adverse Reactions in Scalp Psoriasis Trials(Events Reported by ≥1% of Subjects and for Which a Relationship is Possible) |  |  |  |  |
+| Number and Percentage with Adverse Reactions in Scalp Psoriasis Trials (Events Reported by 1% of Subjects and for Which a Relationship is Possible) |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Taclonex® Topical SuspensionN=1,953 | Betamethasone dipropionate in vehicle N=1,214 | Calcipotriene in vehicle N=979 | Vehicle N=173 |
-| Event | # of subjects (%) |  |  |  |
+|  | Taclonex® Topical SuspensionN=1,953 | Betamethasone dipropionate in vehicleN=1,214 | Calcipotriene in vehicleN=979 | Vehicle N=173 |
+| Event |  | # of subjects (%) |  |  |
 | Folliculitis | 16 (1%) | 12 (1%) | 5 (1%) | 0 (0%) |
 | Burning sensation of skin | 13 (1%) | 10 (1%) | 29 (3%) | 0 (0%) |
 
@@ -29,7 +29,7 @@ Clinical Trials Conducted in Subjects 18 years and older with Psoriasis on the B
 In randomized, multicenter, prospective vehicle- and/or active controlled clinical trials in adult subjects with plaque psoriasis on non-scalp areas, subjects applied study product once daily for 8 weeks.
 A total of 824 subjects were treated with Taclonex® Topical Suspension and the median weekly dose was 22.6 g.
 
-There were no adverse reactions that occurred in ≥1% of subjects treated with Taclonex® Topical Suspension and at a rate higher than in subjects treated with vehicle.
+There were no adverse reactions that occurred in 1% of subjects treated with Taclonex® Topical Suspension and at a rate higher than in subjects treated with vehicle.
 
 Other less common adverse reactions (<1% but >0.1%) were, in decreasing order of incidence: rash and folliculitis.
 
