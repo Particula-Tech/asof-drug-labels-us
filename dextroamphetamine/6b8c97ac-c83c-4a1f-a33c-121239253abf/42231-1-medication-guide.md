@@ -40,7 +40,7 @@ Dextroamphetamine sulfate tablets should be used as a part of a total treatment 
 
 Dextroamphetamine sulfate tablets are also used in the treatment of a sleep disorder called narcolepsy.
 
-| Dextroamphetamine sulfate tablets are a federally controlled substance (CII) because it can be abused or lead to dependence. Keep dextroamphetamine sulfate tablets in a safe place to prevent misuse and abuse. Selling or giving away dextroamphetamine sulfate tablets may harm others, and is against the law. |
+| Dextroamphetamine sulfate is a federally controlled substance (CII) because it can be abused or lead to dependence. Keep dextroamphetamine sulfate tablets in a safe place to prevent misuse and abuse. Selling or giving away dextroamphetamine sulfate tablets may harm others, and is against the law. |
 | --- |
 | Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs. |
 
@@ -112,6 +112,17 @@ Other serious side effects include:
 - Slowing of growth (height and weight) in children
 - Seizures, mainly in patients with a history of seizures
 - Eyesight changes or blurred vision
+- Serotonin syndrome.
+  A potentially life-threatening problem called serotonin syndrome can happen when medicines such as dextroamphetamine sulfate tablets are taken with certain other medicines.
+  Symptoms of serotonin syndrome may include:
+  - agitation, hallucinations, coma or other changes in mental status
+  - problems controlling your movements or muscle twitching
+  - fast heartbeat
+  - high or low blood pressure
+  - sweating or fever
+  - nausea or vomiting
+  - diarrhea
+  - muscle stiffness or tightness
 
 Common side effects include:
 
@@ -161,9 +172,9 @@ The 10 mg tablets contain FD&C Red #40, FD&C Yellow #6 and FD&C Blue #2.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by Mikart, Inc., Atlanta, GA 30318 for Wilshire Phamaceuticals Inc., Atlanta, GA 30328
+Manufactured by Mikart Inc. Atlanta, GA 30318 for Wilshire Pharmaceuticals, Inc., Atlanta, GA 30328
 
 Code 1029A00
 
 Rev.
-02/15
+02/17

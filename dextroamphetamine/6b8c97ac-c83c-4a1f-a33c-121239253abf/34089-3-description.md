@@ -7,5 +7,5 @@ The structural formula is as follows:
 Each tablet, for oral administration, contains dextroamphetamine sulfate, USP in either 5 mg or 10 mg.
 Each tablet also contains the following inactive ingredients: colloidal silicon dioxide, crospovidone, microcrystalline cellulose and stearic acid.
 
-The 5 mg tablets also contain D&C RED #27 and FD&C Yellow #6.
+The 5 mg tablets also contain D&C Red #27 and FD&C Yellow #6.
 The 10 mg tablets also contain FD&C Red #40, FD&C Yellow #6 and FD&C Blue #2.

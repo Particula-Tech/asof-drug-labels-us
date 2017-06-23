@@ -12,7 +12,9 @@ Rx only
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-Manufactured for Wilshire Pharmaceuticals, Inc., Atlanta, GA 30328
+Marketed by Wilshire Pharmaceuticals, Inc., Atlanta, GA 30328
+
+WILSHIRE PHARMACEUTICALS, INC
 
 # PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
