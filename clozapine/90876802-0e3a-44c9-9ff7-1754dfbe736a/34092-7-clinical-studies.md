@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Treatment Resistant Schizophrenia
+## 14.1 Treatment-Resistant Schizophrenia
 
 The efficacy of CLOZARIL in treatment-resistant schizophrenia was established in a multicenter, randomized, double-blind, active-controlled (chlorpromazine) study in patients with a DSM-III diagnosis of schizophrenia who had inadequate responses to at least 3 different antipsychotics (from at least 2 different chemical classes) during the preceding 5 years.
 The antipsychotic trials must have been judged adequate; the antipsychotic dosages must have been equivalent to or greater than 1000 mg per day of chlorpromazine for a period of at least 6 weeks, each without significant reduction of symptoms.
@@ -17,7 +17,7 @@ Patients with an inadequate response to haloperidol (n=268) were randomized to d
 The maximum daily CLOZARIL dose was 900 mg; the mean daily dose was >600 mg.
 The maximum daily chlorpromazine dose was 1800 mg; the mean daily dose was >1200 mg.
 
-The primary endpoint was treatment response, predefined as a decrease in BPRS score of at least 20% and either (1) a CGI-S score of <3 (mildly ill), or (2) a BPRS score of ≤35, at the end of 6 weeks of treatment.
+The primary endpoint was treatment response, predefined as a decrease in BPRS score of at least 20% and either (1) a CGI-S score of ≤3 (mildly ill), or (2) a BPRS score of ≤35, at the end of 6 weeks of treatment.
 Approximately 88% of patients from the CLOZARIL and chlorpromazine groups completed the 6-week trial.
 At the end of 6 weeks, 30% of the CLOZARIL group responded to treatment, and 4% of the chlorpromazine group responded to treatment.
 The difference was statistically significant (p <0.001).
@@ -29,7 +29,7 @@ These changes in the CLOZARIL group were statistically significantly greater tha
 The effectiveness of CLOZARIL in reducing the risk of recurrent suicidal behavior was assessed in the International Suicide Prevention Trial (InterSePT™, a trademark of Novartis Pharmaceuticals Corporation).
 This was a prospective, randomized, open-label, active-controlled, multicenter, international, parallel-group comparison of CLOZARIL versus olanzapine (*Zyprexa®, a registered trademark of Eli Lilly and Company) in 956 patients with schizophrenia or schizoaffective disorder (DSM-IV) who were judged to be at risk for recurrent suicidal behavior.
 Only about one-fourth of these patients (27%) were considered resistant to standard antipsychotic drug treatment.
-To enter the trial, patients must have met one of the following criteria:
+To enter the trial, patients must have met 1 of the following criteria:
 
 - They had attempted suicide within the three years prior to their baseline evaluation.
 - They had been hospitalized to prevent a suicide attempt within the three years prior to their baseline evaluation.

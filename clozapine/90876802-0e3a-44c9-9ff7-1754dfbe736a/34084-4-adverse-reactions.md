@@ -4,20 +4,22 @@ The following adverse reactions are discussed in more detail in other sections o
 
 - Severe Neutropenia [see Warnings and Precautions (5.1)].
 - Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)].
-- Seizures [see Warnings and Precautions (5.4)].
-- Myocarditis and Cardiomyopathy [see Warnings and Precautions (5.5)].
-- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.6)].
-- Eosinophilia [see Warnings and Precautions (5.7)].
-- QT Interval Prolongation [see Warnings and Precautions (5.8)].
-- Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.9)].
-- Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.10)].
-- Fever [see Warnings and Precautions (5.11)].
-- Pulmonary Embolism [see Warnings and Precautions (5.12)].
-- Anticholinergic Toxicity [see Warnings and Precautions (5.13)].
-- Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.14)].
-- Tardive Dyskinesia [see Warnings and Precautions (5.15)].
-- Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.16)].
-- Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.17)].
+- Falls [see Warnings and Precautions (5.4)].
+- Seizures [see Warnings and Precautions (5.5)].
+- Myocarditis, Cardiomyopathy, and Mitral Valve Incompetence [see Warnings and Precautions (5.6)].
+- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.7)].
+- Eosinophilia [see Warnings and Precautions (5.8)].
+- QT Interval Prolongation [see Warnings and Precautions (5.9)].
+- Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.10)].
+- Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.11)].
+- Hepatotoxicity [see Warnings and Precautions (5.12)].
+- Fever [see Warnings and Precautions (5.13)].
+- Pulmonary Embolism [see Warnings and Precautions (5.14)].
+- Anticholinergic Toxicity [see Warnings and Precautions (5.15)].
+- Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.16)].
+- Tardive Dyskinesia [see Warnings and Precautions (5.17)].
+- Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.18)].
+- Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.19)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -47,7 +49,7 @@ Table 10 summarizes the adverse reactions reported in CLOZARIL-treated patients 
 These rates are not adjusted for duration of exposure.
 
 Table 10.
-Adverse Reactions (≥2%) Reported in CLOZARIL-treated Patients (N=842) Across all CLOZARIL Studies (excluding the 2-year InterSePT TM Study)
+Adverse Reactions (≥2%) Reported in CLOZARIL-treated Patients (N=842) Across all CLOZARIL Studies (excluding the 2-year InterSePT™ Study)
 
 | Body System Adverse Reaction* | CLOZARIL N=842 Percentage of Patients |
 | --- | --- |
@@ -94,24 +96,24 @@ Adverse Reactions (≥2%) Reported in CLOZARIL-treated Patients (N=842) Across a
 | Weight Gain | 4 |
 | †Rate based on population of approximately 1700 exposed during premarket clinical evaluation of CLOZARIL. |  |
 
-Table 11 summarizes the most commonly reported adverse reactions (≥10% of the CLOZARIL or olanzapine group) in the InterSePT TM Study.
+Table 11 summarizes the most commonly reported adverse reactions (≥10% of the CLOZARIL or olanzapine group) in the InterSePT™ Study.
 This was an adequate and well-controlled, two-year study evaluating the efficacy of CLOZARIL relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
 The rates are not adjusted for duration of exposure.
 
 Table 11.
-Incidence of Adverse Reactions in Patients Treated with CLOZARIL or Olanzapine in the InterSePT TM Study (≥10% in the CLOZARIL or olanzapine group)
+Incidence of Adverse Reactions in Patients Treated with CLOZARIL or Olanzapine in the InterSePT™ Study (≥10% in the CLOZARIL or olanzapine group)
 
 | Adverse Reactions | CLOZARIL N=479 % Reporting | Olanzapine N=477 % Reporting |
 | --- | --- | --- |
-| Salivary hypersecretion | 48% | 6% |
-| Somnolence | 46% | 25% |
-| Weight increased | 31% | 56% |
-| Dizziness (excluding vertigo) | 27% | 12% |
-| Constipation | 25% | 10% |
-| Insomnia | 20% | 33% |
-| Nausea | 17% | 10% |
-| Vomiting | 17% | 9% |
-| Dyspepsia | 14% | 8% |
+| Salivary hypersecretion | 48 | 6 |
+| Somnolence | 46 | 25 |
+| Weight increased | 31 | 56 |
+| Dizziness (excluding vertigo) | 27 | 12 |
+| Constipation | 25 | 10 |
+| Insomnia | 20 | 33 |
+| Nausea | 17 | 10 |
+| Vomiting | 17 | 9 |
+| Dyspepsia | 14 | 8 |
 
 Dystonia
 
@@ -131,7 +133,7 @@ Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epile
 
 Cardiovascular System
 
-Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolongation, Torsades de Pointes, myocardial infarction, cardiac arrest, and periorbital edema.
+Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, and periorbital edema.
 
 Endocrine System
 
@@ -163,7 +165,7 @@ Myasthenic syndrome, rhabdomyolysis, and systemic lupus erythematosus.
 
 Respiratory System
 
-Aspiration, pleural effusion, pneumonia, lower respiratory tract infection.
+Aspiration, pleural effusion, pneumonia, lower respiratory tract infection, sleep apnea.
 
 Hemic and Lymphatic System
 

@@ -3,12 +3,12 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of clozapine is unknown.
-However, it has been proposed that the therapeutic efficacy of clozapine in schizophrenia is mediated through antagonism of the dopamine type 2 (D 2) and the serotonin type 2A (5-HT 2A) receptors.
+However, it has been proposed that the therapeutic efficacy of clozapine in schizophrenia is mediated through antagonism of the dopamine type 2 (D2) and the serotonin type 2A (5-HT2A) receptors.
 CLOZARIL also acts as an antagonist at adrenergic, cholinergic, histaminergic and other dopaminergic and serotonergic receptors.
 
 ## 12.2 Pharmacodynamics
 
-Clozapine demonstrated binding affinity to the following receptors: histamine H 1 (K i 1.1 nM), adrenergic α 1A (K i 1.6 nM), serotonin 5-HT 6 (K i 4 nM), serotonin 5-HT 2A (K i 5.4 nM), muscarinic M 1 (K i 6.2 nM), serotonin 5-HT 7 (K i 6.3 nM), serotonin 5-HT 2C (K i 9.4 nM), dopamine D 4 (K i 24 nM), adrenergic α 2A (K i 90 nM), serotonin 5-HT 3 (K i 95 nM), serotonin 5-HT 1A (K i 120 nM), dopamine D 2 (K i 160 nM), dopamine D 1 (K i 270 nM), dopamine D 5 (K i 454 nM), and dopamine D 3 (K i 555 nM).
+Clozapine demonstrated binding affinity to the following receptors: histamine H1 (Ki 1.1 nM), adrenergic α1A (Ki 1.6 nM), serotonin 5-HT6 (Ki 4 nM), serotonin 5-HT2A (Ki 5.4 nM), muscarinic M1 (Ki 6.2 nM), serotonin 5-HT7 (Ki 6.3 nM), serotonin 5-HT2C (Ki 9.4 nM), dopamine D4 (Ki 24 nM), adrenergic α2A (Ki 90 nM), serotonin 5-HT3 (Ki 95 nM), serotonin 5-HT1A (Ki 120 nM), dopamine D2 (Ki 160 nM), dopamine D1 (Ki 270 nM), dopamine D5 (Ki 454 nM), and dopamine D3 (Ki 555 nM).
 
 Clozapine causes little or no prolactin elevation.
 
@@ -23,7 +23,7 @@ In these patients, the onset of REM sleep occurred almost immediately after fall
 
 Absorption
 
-In man, CLOZARIL tablets (25 mg and 100 mg) are equally bioavailable relative to a CLOZARIL solution.
+In humans, CLOZARIL tablets (25 mg and 100 mg) are equally bioavailable relative to a CLOZARIL solution.
 Following oral administration of CLOZARIL 100 mg twice daily, the average steady-state peak plasma concentration was 319 ng/mL (range: 102 to 771 ng/mL), occurring at the average of 2.5 hours (range: 1 to 6 hours) after dosing.
 The average minimum concentration at steady state was 122 ng/mL (range: 41 to 343 ng/mL), after 100 mg twice daily dosing.
 Food does not appear to affect the systemic bioavailability of CLOZARIL.
@@ -41,7 +41,7 @@ Clozapine is a substrate for many cytochrome P450 isozymes, in particular CYP1A2
 Approximately 50% of the administered dose is excreted in the urine and 30% in the feces.
 The demethylated, hydroxylated, and N-oxide derivatives are components in both urine and feces.
 Pharmacological testing has shown the desmethyl metabolite (norclozapine) to have only limited activity, while the hydroxylated and N-oxide derivatives were inactive.
-The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to12 hours), compared to a mean elimination half-life of 12 hours (range: 4-66 hours), after achieving steady state with 100 mg twice daily dosing.
+The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to12 hours), compared to a mean elimination half-life of 12 hours (range: 4 to 66 hours), after achieving steady state with 100 mg twice daily dosing.
 
 A comparison of single-dose and multiple-dose administration of clozapine demonstrated that the elimination half-life increased significantly after multiple dosing relative to that after single-dose administration, suggesting the possibility of concentration-dependent pharmacokinetics.
 However, at steady state, approximately dose-proportional changes with respect to AUC (area under the curve), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5, 75, and 150 mg twice daily.
