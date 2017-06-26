@@ -22,18 +22,18 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 
 ## Autoimmune Syndromes
 
-- Tetracyclines, including oral minocycline, have been associated with the development of autoimmune syndromes including a Lupus-like syndrome manifested by arthralgia, myalgia, rash, and swelling.
+- Tetracyclines, including oral minocycline, have been associated with the development of autoimmune syndromes including a lupus-like syndrome manifested by arthralgia, myalgia, rash, and swelling.
   Sporadic cases of serum sickness-like reaction have presented shortly after oral minocycline use, manifested by fever, rash, arthralgia, lymphadenopathy and malaise.
   In symptomatic patients, liver function tests, ANA, CBC, and other appropriate tests should be performed to evaluate the patients.
   No further treatment with ARESTIN should be administered to the patient.
 
 The use of ARESTIN in an acutely abscessed periodontal pocket has not been studied and is not recommended.
 
-While no overgrowth by opportunistic microorganisms, such as yeast, were noted during clinical studies, as with other antimicrobials, the use of ARESTIN may result in overgrowth of non-susceptible microorganisms including fungi.
+While no overgrowth by opportunistic microorganisms, such as yeast, was noted during clinical studies, as with other antimicrobials, the use of ARESTIN may result in overgrowth of non-susceptible microorganisms including fungi.
 The effects of treatment for greater than 6 months have not been studied.
 
 ARESTIN should be used with caution in patients having a history of predisposition to oral candidiasis.
-The safety and effectiveness of ARESTIN has not been established for the treatment of periodontitis in patients with coexistent oral candidiasis.
+The safety and effectiveness of ARESTIN have not been established for the treatment of periodontitis in patients with coexistent oral candidiasis.
 
 ARESTIN has not been clinically tested in immunocompromised patients (such as those immunocompromised by diabetes, chemotherapy, radiation therapy, or infection with HIV).
 
@@ -61,7 +61,7 @@ Fertility and general reproduction studies have provided evidence that minocycli
 
 ## Pregnancy
 
-Teratogenic Effects: (See WARNINGS).
+Teratogenic Effects: (See WARNINGS.)
 
 ## Labor and Delivery
 
@@ -70,7 +70,7 @@ The effects of tetracyclines on labor and delivery are unknown.
 ## Nursing Mothers
 
 Tetracyclines are excreted in human milk.
-Because of the potential for serious adverse reactions in nursing infants from the tetracyclines, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother (See WARNINGS).
+Because of the potential for serious adverse reactions in nursing infants from the tetracyclines, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother (see WARNINGS).
 
 ## Pediatric Use
 

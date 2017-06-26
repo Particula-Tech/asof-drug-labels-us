@@ -1,10 +1,10 @@
 # ADVERSE REACTIONS
 
-The most frequently reported non-dental treatment-emergent adverse events in the 3 multicenter US trials were headache, infection, flu syndrome, and pain.
+The most frequently reported non-dental, treatment-emergent adverse events in the 3 multicenter US trials were headache, infection, flu syndrome, and pain.
 
 Table 5: Adverse Events (AEs) Reported in ≥3% of the Combined Clinical Trial Population of 3 Multicenter US Trials by Treatment Group
 
-|  | SRP Alone N=250 | SRP+ Vehicle N=249 | SRP+ ARESTIN® N=423 |
+|  | SRP Alone N=250 | SRP + Vehicle N=249 | SRP + ARESTIN® N=423 |
 | --- | --- | --- | --- |
 | Number (%) of Subjects Treatment-emergent AEs | 62.4% | 71.9% | 68.1% |
 | Total Number of AEs | 543 | 589 | 987 |
