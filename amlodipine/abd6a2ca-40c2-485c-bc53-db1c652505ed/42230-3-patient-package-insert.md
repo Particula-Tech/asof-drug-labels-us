@@ -37,8 +37,7 @@ Tell your doctor if you:
 - are pregnant, or plan to become pregnant.
   Your doctor will decide if NORVASC is the best treatment for you.
 - are breast-feeding.
-  Do not breast-feed while taking NORVASC.
-  You can stop breast-feeding or take a different medicine.
+  NORVASC passes into your milk.
 
 How should I take NORVASC?
 
@@ -55,8 +54,6 @@ How should I take NORVASC?
 
 What should I avoid while taking NORVASC?
 
-- Do not breast-feed.
-  It is not known if NORVASC will pass through your milk.
 - Do not start any new prescription or non-prescription medicines or supplements, unless you check with your doctor first.
 
 What are the possible side effects of NORVASC?
@@ -97,4 +94,4 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about NORVASC, or you can visit the Pfizer website at www.pfizer.com or call 1-800-438-1985.
 
-LAB-0015-9.0 April 2016
+LAB-0015-10.0 March 2017
