@@ -1,10 +1,10 @@
-PRINCIPAL DISPLAY PANEL - 50 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
 NDC 0025-1515-01
+
+Pfizer
 
 Celebrex® celecoxib capsules
 
@@ -12,13 +12,13 @@ Celebrex® celecoxib capsules
 
 60 Capsules Rx only
 
-PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
 NDC 0025-1520-31
+
+Pfizer
 
 Celebrex® celecoxib capsules
 
@@ -51,13 +51,13 @@ For in-institution use only
 
 100 Capsules UNIT DOSE
 
-PRINCIPAL DISPLAY PANEL - 200 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 200 mg Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
 NDC 0025-1525-31
+
+Pfizer
 
 Celebrex® celecoxib capsules
 
@@ -90,13 +90,13 @@ For in-institution use only
 
 100 Capsules UNIT DOSE
 
-PRINCIPAL DISPLAY PANEL - 400 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 400 mg Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
 NDC 0025-1530-02
+
+Pfizer
 
 Celebrex® celecoxib capsules
 
