@@ -4,7 +4,9 @@ Rx Only
 
 NDC 45802-626-26
 
-Cetirizine Hydrochloride Syrup, 1 mg/mL
+Cetirizine Hydrochloride Oral Solution, USP
+
+1 mg/mL
 
 For Oral Use
 

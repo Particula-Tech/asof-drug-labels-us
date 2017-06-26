@@ -4,9 +4,6 @@ Distributed By
 
 Perrigo®
 
-Allegan, MI 49010
+Allegan, MI 49010 • www.perrigo.com
 
-www.perrigo.com
-
-Rev.
-06/12
+Rev 11-16

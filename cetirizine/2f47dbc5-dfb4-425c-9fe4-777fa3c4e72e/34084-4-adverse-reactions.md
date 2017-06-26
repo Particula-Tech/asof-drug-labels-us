@@ -23,6 +23,20 @@ Table 1.
 
 Adverse Experiences Reported in Pediatric Patients Aged 6 to 11 Years in Placebo-Controlled United States Cetirizine Hydrochloride Trials (5 or 10 mg Dose) Which Occurred at a Frequency of ≥2% in Either the 5-mg or the 10-mg Cetirizine Hydrochloride Group, and More Frequently Than in the Placebo Group
 
+| Adverse Experiences | Placebo(N=309) | Cetirizine hydrochloride |  |
+| --- | --- | --- | --- |
+| 5 mg(N=161) | 10 mg(N=215) |  |  |
+| Headache | 12.3% | 11.0% | 14.0% |
+| Pharyngitis | 2.9% | 6.2% | 2.8% |
+| Abdominal pain | 1.9% | 4.4% | 5.6% |
+| Coughing | 3.9% | 4.4% | 2.8% |
+| Somnolence | 1.3% | 1.9% | 4.2% |
+| Diarrhea | 1.3% | 3.1% | 1.9% |
+| Epistaxis | 2.9% | 3.7% | 1.9% |
+| Bronchospasm | 1.9% | 3.1% | 1.9% |
+| Nausea | 1.9% | 1.9% | 2.8% |
+| Vomiting | 1.0% | 2.5% | 2.3% |
+
 The following events were observed infrequently (less than 2%), in either 3982 adults and children 12 years and older or in 659 pediatric patients aged 6 to 11 years who received cetirizine hydrochloride in U.S. trials, including an open adult study of six months duration.
 A causal relationship of these infrequent events with cetirizine hydrochloride administration has not been established.
 
@@ -63,4 +77,4 @@ Hepatitis with significant transaminase elevation and elevated bilirubin in asso
 
 Post-Marketing Experience
 
-In the post-marketing period, the following additional rare, but potentially severe adverse events have been reported: aggresive reaction, anaphylaxis, cholestasis, convulsions, glomerulonephritis, hallucinations, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, suicidal ideation, suicide and thrombocytopenia.
+In the post-marketing period, the following additional rare, but potentially severe adverse events have been reported: aggressive reaction, anaphylaxis, cholestasis, convulsions, glomerulonephritis, hallucinations, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, suicidal ideation, suicide, thrombocytopenia and acute generalized exanthematous postulosis (AGEP).

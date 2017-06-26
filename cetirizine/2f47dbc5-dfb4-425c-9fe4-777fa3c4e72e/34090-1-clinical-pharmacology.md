@@ -14,12 +14,12 @@ Ex vivo experiments in the mouse have shown that systemically administered cetir
 
 Absorption:
 
-Cetirizine was rapidly absorbed with a time to maximum concentration (Tmax) of approximately 1 hour following oral administration of tablets or syrup in adults.
-Comparable bioavailability was found between the tablet and syrup dosage forms.
+Cetirizine was rapidly absorbed with a time to maximum concentration (Tmax) of approximately 1 hour following oral administration of tablets or solution in adults.
+Comparable bioavailability was found between the tablet and solution dosage forms.
 When healthy volunteers were administered multiple doses of cetirizine (10 mg tablets once daily for 10 days), a mean peak plasma concentration (Cmax) of 311 ng/mL was observed.
 No accumulation was observed.
 Cetirizine pharmacokinetics were linear for oral doses ranging from 5 to 60 mg.
-Food had no effect on the extent of cetirizine exposure (AUC) but Tmax was delayed by 1.7 hours and Cmaxwas decreased by 23% in the presence of food.
+Food had no effect on the extent of cetirizine exposure (AUC) but Tmax was delayed by 1.7 hours and Cmax was decreased by 23% in the presence of food.
 
 Distribution:
 
@@ -66,7 +66,7 @@ No race-related differences in the kinetics of cetirizine have been observed.
 
 Cetirizine hydrochloride at doses of 5 and 10 mg strongly inhibited the wheal and flare caused by intradermal injection of histamine in 19 pediatric volunteers (aged 5 to 12 years) and the activity persisted for at least 24 hours.
 In a 35-day study in children aged 5 to 12, no tolerance to the antihistaminic (suppression of wheal and flare response) effects of cetirizine hydrochloride was found.
-In 10 infants 7 to 25 month of age who received 4 to 9 days of cetirizine in an oral solution (0.25 mg/kg bid), there was a 90% inhibition of histamine-induced (10 mg/mL) cutaneous wheal and 87% inhibition of the flare 12 hours after administration of the last dose.
+In 10 infants 7 to 25 months of age who received 4 to 9 days of cetirizine in an oral solution (0.25 mg/kg bid), there was a 90% inhibition of histamine-induced (10 mg/mL) cutaneous wheal and 87% inhibition of the flare 12 hours after administration of the last dose.
 The clinical relevance of this suppression of histamine-induced wheal and flare response on skin testing is unknown.
 
 The effects of intradermal injection of various other mediators or histamine releasers were also inhibited by cetirizine, as was response to a cold challenge in patients with cold-induced urticaria.
@@ -86,7 +86,7 @@ In the fourth study, a placebo-controlled parallel trial, cetirizine hydrochlori
 There was no significant increase in QTc with cetirizine hydrochloride 20 mg alone or in combination with azithromycin.
 
 In a four-week clinical trial in pediatric patients aged 6 to 11 years, results of randomly obtained ECG measurements before treatment and after 2 weeks of treatment showed that cetirizine hydrochloride 5 or 10 mg did not increase QTc versus placebo.
-In a one week clinical trial (N=86) of cetirizine hydrochloride syrup (0.25 mg/kg bid) compared with placebo in pediatric patients 6 to 11 months of age, ECG measurements taken within 3 hours of the last dose did not show any ECG abnormalities or increases in QTc interval in either group compared to baseline assessments.
+In a one week clinical trial (N=86) of cetirizine hydrochloride oral solution (0.25 mg/kg bid) compared with placebo in pediatric patients 6 to 11 months of age, ECG measurements taken within 3 hours of the last dose did not show any ECG abnormalities or increases in QTc interval in either group compared to baseline assessments.
 Data from other studies where cetirizine hydrochloride was administered to patients 6-23 months of age were consistent with the findings in this study.
 
 The effects of cetirizine hydrochloride on the QTc interval at doses higher than 10 mg have not been studied in children less than 12 years of age.
