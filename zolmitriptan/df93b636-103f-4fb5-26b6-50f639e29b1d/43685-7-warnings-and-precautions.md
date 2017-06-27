@@ -65,6 +65,6 @@ ZOMIG is contraindicated in patients with uncontrolled hypertension [see Contrai
 ## 5.9 Risks in Patients with Phenylketonuria
 
 Phenylalanine can be harmful to patients with phenylketonuria (PKU).
-ZOMIG-ZMT orally disintegrating tablets contain phenylalanine (a component of aspartame).
+ZOMIG-ZMT Orally Disintegrating Tablets contain phenylalanine (a component of aspartame).
 Each 2.5 mg and 5 mg orally disintegrating tablet contains 2.81 and 5.62 mg of phenylalanine, respectively.
 ZOMIG tablets do not contain phenylalanine.

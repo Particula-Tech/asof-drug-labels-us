@@ -10,7 +10,7 @@ ZOMIG-ZMT® (Zo-mig ZMT)
 
 (zolmitriptan)
 
-Oral Disintegrating Tablets
+Orally Disintegrating Tablets
 
 What is ZOMIG?
 
@@ -55,7 +55,7 @@ Tell your doctor if you are sensitive to phenylalanine, which can be found in th
 ZOMIG-ZMT contains phenylalanine.
 
 Tell your doctor if you are taking selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs), two types of drugs for depression or other disorders.
-Common SSRIs are CELEXA® (citalopram HBr), LEXAPRO® (escitalopram oxalate), PAXIL®(paroxetine), PROZAC® (fluoxetine), SYMBYAX® (olanzapine/fluoxetine), ZOLOFT® (sertraline), SARAFEM® (fluoxetine) and LUVOX® (fluvoxamine).
+Common SSRIs are CELEXA® (citalopram HBr), LEXAPRO® (escitalopram oxalate), PAXIL® (paroxetine), PROZAC® (fluoxetine), SYMBYAX® (olanzapine/fluoxetine), ZOLOFT® (sertraline), SARAFEM® (fluoxetine) and LUVOX® (fluvoxamine).
 Common SNRIs are CYMBALTA® (duloxetine) and EFFEXOR® (venlafaxine).
 Your doctor will decide if you can take ZOMIG with your other medicines.
 
@@ -128,10 +128,10 @@ People may be harmed if they take medicines that have not been prescribed for th
 This leaflet summarizes the most important information about ZOMIG.
 If you would like more information about ZOMIG, talk to your doctor.
 You can ask your doctor or pharmacist for information on ZOMIG that is written for healthcare professionals.
-You can also call 1-877-994-6729 or visit our website at www.
+You can also call 1-877-994-6729or visit our website at www.
 ZOMIG.com.
 
-What are the Ingredients in ZOMIG?
+What are the ingredients in ZOMIG?
 
 ZOMIG Tablets
 
@@ -160,4 +160,4 @@ Distributed by: Impax Specialty Pharma
 
 Hayward, CA 94544
 
-Issued 04/2017
+Issued 06/2017

@@ -23,7 +23,7 @@ The results of these controlled clinical studies are summarized in Table 2.
 
 Table 2 Percentage of Patients with Headache Response (Reduction in Headache Severity from Moderate or Severe Pain to Mild or No Headache) 2 Hours Following Treatment in Studies 1 through 5
 
-|  | Placebo | ZOMIG tablets1mg | ZOMIGTablets2.5 mg | ZOMIGTablets5 mg |
+|  | Placebo | ZOMIG Tablets1mg | ZOMIGTablets2.5 mg | ZOMIGTablets5 mg |
 | --- | --- | --- | --- | --- |
 | Study 1Study 1 was the only study in which patients treated the headache in a clinic setting. | 16%(nn = number of patients randomized=19) | 27%(n=22) | NANA = not applicable | 60%P<0.05 in comparison with placebo.P<0.05 in comparison with 1 mg.(n=20) |
 | Study 2 | 19%(n=88) | NA | NA | 66%(n=179) |
@@ -43,7 +43,7 @@ For patients with migraine associated photophobia, phonophobia, and nausea at ba
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment for pain relief in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment is summarized in Figure 2.
 
-Figure 2 The Estimated Probability Of Patients Taking A Second Dose Or Other Medication For Migraines Over The 24 Hours Following The Initial Dose Of Study Treatment in Pooled Studies 2, 3, and 5*
+Figure 2 The Estimated Probability of Patients Taking a Second Dose or Other Medication for Migraines over the 24 Hours Following the Initial Dose of Study Treatment in Pooled Studies 2, 3, and 5*
 
 *In this Kaplan-Meier plot, patients not using additional treatments were censored at 24 hours.
 The plot includes both patients who had headache response at 2 hours and those who had no response to the initial dose.
@@ -53,12 +53,12 @@ The efficacy of ZOMIG was unaffected by presence of aura; duration of headache p
 
 ZOMIG-ZMT Orally Disintegrating Tablets
 
-The efficacy of ZOMIG-ZMT 2.5 mg Orally disintegrating tablets was demonstrated in a randomized, placebo-controlled trial (Study 6) that was similar in design to the trials of ZOMIG tablets.
+The efficacy of ZOMIG-ZMT 2.5 mg Orally Disintegrating Tablets was demonstrated in a randomized, placebo-controlled trial (Study 6) that was similar in design to the trials of ZOMIG tablets.
 Patients were instructed to treat a moderate to severe headache.
 Of the 471 patients treated in Study 6, 87% were female and 97% were Caucasian, with a mean age of 41 years (range 18-62).
 
 At 2 hours post-dosing, there was a statistically significant greater percentage of patients treated with ZOMIG-ZMT 2.5 mg with a headache response (reduction in headache severity from moderate or severe pain to mild or no headache) compared to patients treated with placebo (63% vs. 22%).
-The estimated probability of achieving an initial headache response by 2 hours following treatment with ZOMIG-ZMT orally disintegrating tablets is depicted in Figure 3.
+The estimated probability of achieving an initial headache response by 2 hours following treatment with ZOMIG-ZMT Orally Disintegrating Tablets is depicted in Figure 3.
 
 Figure 3 Estimated Probability of Achieving Initial Headache Response (Reduction in Headache Severity from Moderate or Severe Pain to Mild or No Headache) Within 2 Hours in Study 6*
 
@@ -69,9 +69,9 @@ For patients with migraine-associated photophobia, phonophobia and nausea at bas
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment in Study 6 is summarized in Figure 4.
 
-Figure 4 The Estimated Probability of Patients Taking a Second Dose or Other Medication for Migraines Over the 24 Hours Following The Initial Dose of Study Treatment in Study 6*
+Figure 4 The Estimated Probability of Patients Taking a Second Dose or Other Medication for Migraines over the 24 Hours Following the Initial Dose of Study Treatment in Study 6*
 
 *In this Kaplan-Meier plot, patients not taking additional treatments were censored at 24 hours.
 The plot includes both patients who had headache response at 2 hours and those who had no response to the initial dose.
 Taking another dose of study medication was allowed 2 hours post-dose in Study 6.
-In contrast to studies of ZOMIG tablets (Studies 1, 2, 3, 4, and 5), Study 6 allowed re-dosing of ZOMIG-ZMT Orally disintegrating tablets prior to 4 hours.
+In contrast to studies of ZOMIG tablets (Studies 1, 2, 3, 4, and 5), Study 6 allowed re-dosing of ZOMIG-ZMT Orally Disintegrating Tablets prior to 4 hours.

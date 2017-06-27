@@ -63,10 +63,10 @@ Reactions were further classified within body system categories and enumerated i
 
 General: Infrequent were allergic reactions.
 
-Cardiovascular: Infrequent were arrhythmias, hypertension, and syncope.
+Cardiovascular:Infrequent were arrhythmias, hypertension, and syncope.
 Rare was tachycardia.
 
-Neurological: Infrequent were agitation, anxiety, depression, emotional lability and insomnia; Rare were amnesia, hallucinations, and cerebral ischemia.
+Neurological:Infrequent were agitation, anxiety, depression, emotional lability and insomnia; Rare were amnesia, hallucinations, and cerebral ischemia.
 
 Skin: Infrequent were pruritus, rash and urticaria.
 
@@ -74,7 +74,7 @@ Urogenital: Infrequent were polyuria, urinary frequency and urinary urgency.
 
 Adverse Reactions with ZOMIG-ZMT Orally Disintegrating Tablets
 
-The adverse reaction profile seen with ZOMIG-ZMT Orally disintegrating tablets was similar to that seen with ZOMIG tablets.
+The adverse reaction profile seen with ZOMIG-ZMT Orally Disintegrating Tablets was similar to that seen with ZOMIG tablets.
 
 ## 6.2 Postmarketing Experience
 

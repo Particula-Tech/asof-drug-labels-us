@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: There are no adequate and well- controlled studies in pregnant women; therefore, ZOMIG should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Pregnancy Category C: There are no adequate and well-controlled studies in pregnant women; therefore, ZOMIG should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 In reproductive toxicity studies in rats and rabbits, oral administration of zolmitriptan to pregnant animals resulted in embryolethality and fetal abnormalities (malformations and variations) at clinically relevant exposures.
 
 When zolmitriptan was administered to pregnant rats during the period of organogenesis at oral doses of 100, 400, and 1200 mg/kg/day (plasma exposures (AUCs) ≈280, 1100, and 5000 times the human AUC at the maximum recommended human dose (MRHD) of 10 mg/day), there was a dose-related increase in embryolethality.
@@ -43,4 +43,4 @@ The pharmacokinetics of zolmitriptan were similar in geriatric patients (aged > 
 ## 8.6 Patients with Hepatic Impairment
 
 After oral ZOMIG administration, zolmitriptan blood levels were increased in patients with moderate to severe hepatic impairment, and significant elevation in blood pressure was observed in some of these patients [see Warnings and Precautions (5.8)].
-Therefore, adjust the ZOMIG dose and administer with caution in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12)].
+Therefore, adjust the ZOMIG dose and administer with caution in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3), Clinical Pharmacology (12)].

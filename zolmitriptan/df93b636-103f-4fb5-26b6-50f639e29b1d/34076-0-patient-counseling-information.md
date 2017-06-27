@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA Approved Patient Labeling (Patient Information).
+See FDA Approved Patient Labeling (Patient Information)
 
 Myocardial Ischemia and/or Infarction, Prinzmetal’s Angina, Other Vasospastic Reactions, and Cerebrovascular Events
 
@@ -26,9 +26,9 @@ Advise patients to notify their healthcare provider if they are breastfeeding or
 
 Handling of ZOMIG-ZMT Orally Disintegrating Tablets
 
-Inform patients not to break ZOMIG-ZMT Orally disintegrating tablets.
+Inform patients not to break ZOMIG-ZMT Orally Disintegrating Tablets.
 Inform patients that the orally disintegrating tablet is packaged in a blister.
-Instruct patients not to remove the oral disintegrating tablet from the blister until just prior to dosing.
+Instruct patients not to remove the orally disintegrating tablet from the blister until just prior to dosing.
 Instruct patients that prior to dosing, peel open the blister pack and place the orally disintegrating tablet on the tongue, where it will dissolve and be swallowed with the saliva [see Dosage and Administration (2.2)].
 
 Patients with Phenylketonuria

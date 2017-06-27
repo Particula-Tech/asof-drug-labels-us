@@ -14,10 +14,10 @@ Absorption, Distribution, Metabolism, and Excretion
 
 Absorption
 
-Zolmitriptan is well absorbed after oral administration for both ZOMIG tablets and the ZOMIG-ZMT Orally disintegrating tablets.
+Zolmitriptan is well absorbed after oral administration for both ZOMIG tablets and the ZOMIG-ZMT Orally Disintegrating Tablets.
 Zolmitriptan displays linear kinetics over the dose range of 2.5 to 50 mg.
 
-The AUC and Cmax of zolmitriptan are similar following administration of ZOMIG tablets and ZOMIG-ZMT Orally disintegrating tablets, but the Tmax is somewhat later with ZOMIG‑ZMT, with a median Tmax of 3 hours for ZOMIG‑ZMT Orally disintegrating tablet compared with 1.5 hours for the ZOMIG tablet.
+The AUC and Cmax of zolmitriptan are similar following administration of ZOMIG tablets and ZOMIG-ZMT Orally Disintegrating Tablets, but the Tmax is somewhat later with ZOMIG‑ZMT, with a median Tmax of 3 hours for ZOMIG‑ZMT Orally Disintegrating Tablet compared with 1.5 hours for the ZOMIG tablet.
 The AUC, Cmax,and Tmax for the active N‑desmethyl metabolite are similar for the two formulations.
 
 During a moderate to severe migraine attack, mean AUC0-4 and Cmax for zolmitriptan, dosed as a ZOMIG tablet, were decreased by 40% and 25%, respectively, and mean Tmax was delayed by one‑half hour compared to the same patients during a migraine free period.
@@ -52,7 +52,7 @@ Hepatic Impairment
 
 In patients with severe hepatic impairment, the mean Cmax, Tmax, and AUC0-∞ of zolmitriptan were increased 1.5-fold, 2-fold (2 vs. 4 hours), and 3-fold, respectively, compared to subjects with normal hepatic function.
 Seven out of 27 patients experienced 20 to 80 mm Hg elevations in systolic and/or diastolic blood pressure after a 10 mg ZOMIG dose.
-Adjust the ZOMIG Dose in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+Adjust the ZOMIG dose in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
 
 Renal Impairment
 
@@ -60,7 +60,7 @@ Clearance of zolmitriptan was reduced by 25% in patients with severe renal impai
 
 Age
 
-Zolmitriptan pharmacokinetics in healthy elderly non-migraineur volunteers (age 65–76 years) was similar to those in younger non-migraineur volunteers (age 18 - 39 years).
+Zolmitriptan pharmacokinetics in healthy elderly non-migraineur volunteers (age 65–76 years) was similar to those in younger non-migraineur volunteers (age 18–39 years).
 
 Sex
 
@@ -72,7 +72,7 @@ Retrospective analysis of pharmacokinetic data between Japanese and Caucasians r
 
 Hypertensive Patients
 
-No differences in the pharmacokinetics of zolmitriptan or its effects on blood pressure were seen in mild to moderate hypertensivevolunteers compared with normotensive controls.
+No differences in the pharmacokinetics of zolmitriptan or its effects on blood pressure were seen in mild to moderate hypertensive volunteers compared with normotensive controls.
 
 Drug Interaction Studies
 
@@ -81,7 +81,7 @@ All drug interaction studies were performed in healthy volunteers using a single
 MAO Inhibitors
 
 Following one week of administration of moclobemide (150 mg twice daily), a specific MAO-A inhibitor, there was an increase of about 25% in both Cmax and AUC for zolmitriptan and a 3‑fold increase in the Cmax and AUC of the active N-desmethyl metabolite of zolmitriptan.
-MAO inhibitors are contraindicated in ZOMIG-treated patients [see Contraindications (4), Warnings and Precautions (5.7), and Drug Interactions (7.2, 7.4)].
+MAO inhibitors are contraindicated in ZOMIG-treated patients [see Contraindications (4), Warnings and Precautions (5.7), Drug Interactions (7.2, 7.4)].
 
 Selegiline, a selective MAO-B inhibitor, at a dose of 10 mg/day for 1 week, had no effect on the pharmacokinetics of zolmitriptan and its metabolite.
 
