@@ -17,18 +17,18 @@ Tizanidine is approximately 30% bound to plasma proteins.
 
 Differences between Zanaflex Capsules® and Zanaflex® Tablets
 
-Zanaflex Capsules® and Zanaflex® tablets are bioequivalent to each other under fasting conditions, but not under fed conditions.
+Zanaflex Capsules ® and Zanaflex ® tablets are bioequivalent to each other under fasting conditions, but not under fed conditions.
 A single dose of either two 4 mg tablets or two 4 mg capsules was administered under fed and fasting conditions in an open label, four period, randomized crossover study in 96 human volunteers, of whom 81 were eligible for the statistical analysis.
 Following oral administration of either the tablet or capsule (in the fasted state), peak plasma concentrations of tizanidine occurred 1.0 hours after dosing with a half-life of approximately 2 hours.
 When two 4 mg tablets were administered with food, the mean maximal plasma concentration was increased by approximately 30%, and the median time to peak plasma concentration was increased by 25 minutes, to 1 hour and 25 minutes.
 In contrast, when two 4 mg capsules were administered with food, the mean maximal plasma concentration was decreased by 20%, the median time to peak plasma concentration was increased 2 to 3 hours.
-Consequently, the mean Cmax for the capsule when administered with food is approximately 66% the Cmax for the tablet when administered with food.
+Consequently, the mean C max for the capsule when administered with food is approximately 66% the C max for the tablet when administered with food.
 
 Food also increased the extent of absorption for both the tablets and capsules.
 The increase with the tablet (~30%) was significantly greater than with the capsule (~10%).
 Consequently when each was administered with food, the amount absorbed from the capsule was about 80% of the amount absorbed from the tablet.
 Administration of the capsule contents sprinkled on applesauce was not bioequivalent to administration of an intact capsule under fasting conditions.
-Administration of the capsule contents on applesauce resulted in a 15%–20% increase in Cmax and AUC of tizanidine and a 15 minute decrease in the median lag time and time to peak concentration compared to administration of an intact capsule while fasting.
+Administration of the capsule contents on applesauce resulted in a 15%–20% increase in C max and AUC of tizanidine and a 15 minute decrease in the median lag time and time to peak concentration compared to administration of an intact capsule while fasting.
 
 Figure 1: Mean Tizanidine Concentration vs. Time Profiles For Zanaflex Tablets and Capsules (2 × 4 mg) Under Fasted and Fed Conditions
 
@@ -77,9 +77,9 @@ CYP1A2 Inhibitors
 
 The interaction between Zanaflex and either fluvoxamine or ciprofloxacin is most likely due to inhibition of CYP1A2 by fluvoxamine or ciprofloxacin.
 The effect of fluvoxamine on the pharmacokinetics of a single 4 mg dose of Zanaflex was studied in 10 healthy subjects.
-The Cmax, AUC, and half-life of tizanidine increased by 12-fold, 33-fold, and 3-fold, respectively.
+The C max, AUC, and half-life of tizanidine increased by 12-fold, 33-fold, and 3-fold, respectively.
 The effect of ciprofloxacin on the pharmacokinetics of a single 4 mg dose of Zanaflex was studied in 10 healthy subjects.
-The Cmax and AUC of tizanidine increased by 7-fold and 10-fold, respectively.
+The C max and AUC of tizanidine increased by 7-fold and 10-fold, respectively.
 [see Contraindications (4)]
 
 Although there have been no clinical studies evaluating the effects of other CYP1A2 inhibitors on tizanidine, other CYP1A2 inhibitors, such as zileuton, other fluoroquinolones, antiarrythmics (amiodarone, mexiletine, propafenone and verapamil), cimetidine, famotidine oral contraceptives, acyclovir and ticlopidine, may also lead to substantial increases in tizanidine blood concentrations [see Warnings and Precautions (5.5)].
@@ -93,11 +93,11 @@ Retrospective analysis of population pharmacokinetic data following single and m
 
 Acetaminophen
 
-Tizanidine delayed the Tmax of acetaminophen by 16 minutes.
+Tizanidine delayed the T max of acetaminophen by 16 minutes.
 Acetaminophen did not affect the pharmacokinetics of tizanidine.
 
 Alcohol
 
-Alcohol increased the AUC of tizanidine by approximately 20%, while also increasing its Cmax by approximately 15%.
+Alcohol increased the AUC of tizanidine by approximately 20%, while also increasing its C max by approximately 15%.
 This was associated with an increase in side effects of tizanidine.
 The CNS depressant effects of tizanidine and alcohol are additive.

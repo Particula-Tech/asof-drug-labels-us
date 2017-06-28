@@ -14,5 +14,5 @@ Withdrawal symptoms included hypertension, tachycardia, hypertonia, tremor, and 
 Withdrawal symptoms are more likely to occur in cases where high doses are used, especially for prolonged periods, or with concomitant use of narcotics.
 If therapy needs to be discontinued, the dose should be decreased slowly to minimize the risk of withdrawal symptoms [see Dosage and Administration (2.2)].
 
-Monkeys were shown to self-administer tizanidine in a dose-dependent manner, and abrupt cessation of tizanidine produced transient signs of withdrawal at doses > 35 times the maximum recommended human dose on a mg/m2 basis.
+Monkeys were shown to self-administer tizanidine in a dose-dependent manner, and abrupt cessation of tizanidine produced transient signs of withdrawal at doses > 35 times the maximum recommended human dose on a mg/m 2 basis.
 These transient withdrawal signs (increased locomotion, body twitching, and aversive behavior toward the observer) were not reversed by naloxone administration.

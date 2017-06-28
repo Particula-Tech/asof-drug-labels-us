@@ -2,7 +2,7 @@
 
 ## 2.1 Dosing Information
 
-Zanaflex Capsules® or Zanaflex® tablets may be prescribed with or without food.
+Zanaflex Capsules ® or Zanaflex ® tablets may be prescribed with or without food.
 Once the formulation has been selected and the decision to take with or without food has been made, this regimen should not be altered.
 
 Food has complex effects on tizanidine pharmacokinetics, which differ with the different formulations.

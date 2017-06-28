@@ -32,7 +32,7 @@ Table 1: Multiple Dose, Placebo-Controlled Studies—Frequent (>2%) Adverse Reac
 | --- | --- | --- |
 | Dry mouth | 10 | 49 |
 | Somnolence | 10 | 48 |
-| Asthenia(weakness, fatigue, and/or tiredness) | 16 | 41 |
+| Asthenia (weakness, fatigue, and/or tiredness) | 16 | 41 |
 | Dizziness | 4 | 16 |
 | UTI | 7 | 10 |
 | Infection | 5 | 6 |
@@ -59,7 +59,7 @@ Table 2: Single Dose, Placebo-Controlled Study—Common Adverse Reactions Report
 | --- | --- | --- | --- |
 | Somnolence | 31 | 78 | 92 |
 | Dry mouth | 35 | 76 | 88 |
-| Asthenia(weakness, fatigue, and/or tiredness) | 40 | 67 | 78 |
+| Asthenia (weakness, fatigue, and/or tiredness) | 40 | 67 | 78 |
 | Dizziness | 4 | 22 | 45 |
 | Hypotension | 0 | 16 | 33 |
 | Bradycardia | 0 | 2 | 10 |

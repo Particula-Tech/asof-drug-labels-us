@@ -1,4 +1,4 @@
-Zanaflex® is a registered trademark of Acorda Therapeutics, Inc. Zanaflex Capsules® is a registered trademark of Acorda Therapeutics, Inc.
+Zanaflex ® is a registered trademark of Acorda Therapeutics, Inc. Zanaflex Capsules ® is a registered trademark of Acorda Therapeutics, Inc.
 
 Marketed and Distributed by: Acorda Therapeutics Inc. Ardsley, NY 10502
 

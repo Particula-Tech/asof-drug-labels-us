@@ -6,10 +6,10 @@ Pregnancy Category C
 
 Zanaflex has not been studied in pregnant women.
 Zanaflex should be given to pregnant women only if the benefit outweighs the risk to the unborn fetus.
-Reproduction studies performed in rats at a dose of 3 mg/kg, equal to the maximum recommended human dose on a mg/m2 basis, and in rabbits at 30 mg/kg, 16 times the maximum recommended human dose on a mg/m2 basis, did not show evidence of teratogenicity.
-Tizanidine at doses that are equal to and up to 8 times the maximum recommended human dose on a mg/m2 basis increased gestation duration in rats.
+Reproduction studies performed in rats at a dose of 3 mg/kg, equal to the maximum recommended human dose on a mg/m 2 basis, and in rabbits at 30 mg/kg, 16 times the maximum recommended human dose on a mg/m 2 basis, did not show evidence of teratogenicity.
+Tizanidine at doses that are equal to and up to 8 times the maximum recommended human dose on a mg/m 2 basis increased gestation duration in rats.
 Prenatal and postnatal pup loss was increased and developmental retardation occurred.
-Post-implantation loss was increased in rabbits at doses of 1 mg/kg or greater, equal to or greater than 0.5 times the maximum recommended human dose on a mg/m2 basis.
+Post-implantation loss was increased in rabbits at doses of 1 mg/kg or greater, equal to or greater than 0.5 times the maximum recommended human dose on a mg/m 2 basis.
 
 ## 8.3 Nursing mothers
 
