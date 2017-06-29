@@ -45,9 +45,9 @@ Rx only
 
 Manufactured by:
 
-Par Pharmaceutical Companies, Inc.
+Par Pharmaceutical
 
-Spring Valley, NY 10977
+Chestnut Ridge, NY 10977
 
 Rev.
-02/2015
+06/2015
