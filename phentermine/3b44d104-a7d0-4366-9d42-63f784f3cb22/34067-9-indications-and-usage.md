@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Phentermine hydrochloride, USP 37.5 mg is indicated as a short-term (a few weeks) adjunct in a regimen of weight reduction based on exercise, behavioral modification and caloric restriction in the management of exogenous obesity for patients with an initial body mass index ≥30 kg/m2, or≥27 kg/m2 in the presence of other risk factors (e.g., controlled hypertension, diabetes, hyperlipidemia).
+Phentermine hydrochloride, USP 37.5 mg is indicated as short-term (a few weeks) adjunct in a regimen of weight reduction based on exercise, behavioral modification and caloric restriction in the management of exogenous obesity for patients with an initial body mass index greater than or equal to 30 kg/m2, or greater than or equal to 27 kg/m2 in the presence of other risk factors (e.g., controlled hypertension, diabetes, hyperlipidemia).
 
 Below is a chart of Body Mass Index (BMI) based on various heights and weights.
 

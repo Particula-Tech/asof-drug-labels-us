@@ -6,7 +6,7 @@ The least amount feasible should be prescribed or dispensed at one time in order
 
 Manifestations of acute overdosage include restlessness, tremor, hyperreflexia, rapid respiration, confusion, assaultiveness, hallucinations, and panic states.
 Fatigue and depression usually follow the central stimulation.
-Cardiovascular effects include arrhythmia, hypertension or hypotension, and circulatory collapse.
+Cardiovascular effects include tachycardia, arrhythmia, hypertension or hypotension, and circulatory collapse.
 Gastrointestinal symptoms include nausea, vomiting, diarrhea and abdominal cramps.
 Overdosage of pharmacologically similar compounds has resulted in fatal poisoning usually terminates in convulsions and coma.
 
@@ -15,7 +15,7 @@ Experience with hemodialysis or peritoneal dialysis is inadequate to permit reco
 Acidification of the urine increases phentermine excretion.
 Intravenous phentolamine (Regitine®, CIBA) has been suggested on pharmacologic grounds for possible acute, severe hypertension, if this complicates overdosage.
 
-### 10.2 Chronic Intoxication
+## 10.2 Chronic Intoxication
 
 Manifestations of chronic intoxication with anorectic drugs include severe dermatoses, marked insomnia, irritability, hyperactivity and personality changes.
 The most severe manifestation of chronic intoxications is psychosis, often clinically indistinguishable from schizophrenia.
