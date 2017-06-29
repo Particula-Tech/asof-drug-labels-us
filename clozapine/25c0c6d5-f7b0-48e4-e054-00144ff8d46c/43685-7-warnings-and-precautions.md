@@ -39,7 +39,7 @@ Table 2: Clozapine Treatment Recommendations Based on Absolute Neutrophil Count 
 Clozapine Treatment and Monitoring in Patients with Benign Ethnic Neutropenia (see Table 3)
 
 Benign ethnic neutropenia (BEN) is a condition observed in certain ethnic groups whose average ANC values are lower than “standard” laboratory ranges for neutrophils.
-It is most commonly observed in individuals of African descent (approximate prevalence of 25-50%), some Middle Eastern ethnic groups, and in other non-Caucasian ethnic groups with darker skin.
+It is most commonly observed in individuals of African descent (approximate prevalence of 25 to 50%), some Middle Eastern ethnic groups, and in other non-Caucasian ethnic groups with darker skin.
 BEN is more common in men.
 Patients with BEN have normal hematopoietic stem-cell number and myeloid maturation, are healthy, and do not suffer from repeated or severe infections.
 They are not at increased risk for developing clozapine-induced neutropenia.
@@ -63,13 +63,13 @@ General Guidelines for Management of All Patients with Fever or with Neutropenia
 
 - Fever: Interrupt clozapine as a precautionary measure in any patient who develops fever, defined as a temperature of 38.5°C [101.3°F] or greater, and obtain an ANC level.
   Fever is often the first sign of neutropenic infection.
-- ANC less than 1000/μL: If fever occurs in any patient with an ANC less than 1000/μL, initiate appropriate workup and treatment for infection and refer to Tables 2 and 3 for management.
+- ANC less than 1000/μL: If fever occurs in any patient with an ANC less than 1000/μL, initiate appropriate workup and treatment for infection and refer to Tables 2 or 3 for management.
 - Consider hematology consultation.
 - See Neuroleptic Malignant Syndrome [NMS] and Fever under WARNINGS and PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
 
 Rechallenge after an ANC less than 500/μL (severe neutropenia)
 
-For some patients who experience severe clozapine-related neutropenia, the risk of serious psychiatric illness from discontinuing clozapine treatment may be greater than the risk of rechallenge (e.g. patients with severe schizophrenic illness who have no treatment options other than clozapine).
+For some patients who experience severe clozapine-related neutropenia, the risk of serious psychiatric illness from discontinuing clozapine treatment may be greater than the risk of rechallenge (e.g., patients with severe schizophrenic illness who have no treatment options other than clozapine).
 A hematology consultation may be useful in deciding to rechallenge a patient.
 In general, however, do not rechallenge patients who develop severe neutropenia with clozapine or a clozapine product.
 
@@ -79,7 +79,7 @@ Using Clozapine with Other Drugs Associated with Neutropenia
 
 It is unclear if concurrent use of other drugs known to cause neutropenia increases the risk or severity of clozapine-induced neutropenia.
 There is no strong scientific rationale to avoid clozapine treatment in patients concurrently treated with these drugs.
-If clozapine is used concurrently with an agent known to cause neutropenia (e.g., some chemotherapeutic agents), consider monitoring patients more closely than the treatment the guidelines provided in Tables 2 and 3.
+If clozapine is used concurrently with an agent known to cause neutropenia (e.g., some chemotherapeutic agents), consider monitoring patients more closely than the treatment guidelines provided in Tables 2 and 3.
 Consult with the treating oncologist in patients receiving concomitant chemotherapy.
 
 ## 5.2 Clozapine REMS Program
@@ -112,7 +112,12 @@ When restarting patients who have had even a brief interval off clozapine (i.e.,
 
 Use clozapine cautiously in patients with cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (e.g., concomitant use of antihypertensives, dehydration and hypovolemia).
 
-## 5.4 Seizures
+## 5.4 Falls
+
+clozapine may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on longterm antipsychotic therapy.
+
+## 5.5 Seizures
 
 Seizure has been estimated to occur in association with clozapine use at a cumulative incidence at one year of approximately 5%, based on the occurrence of one or more seizures in 61 of 1743 patients exposed to clozapine during its clinical testing prior to domestic marketing (i.e., a crude rate of 3.5%).
 The risk of seizure is dose-related.
@@ -121,7 +126,7 @@ Initiate treatment with a low dose (12.5 mg), titrate slowly, and use divided do
 Use caution when administering clozapine to patients with a history of seizures or other predisposing risk factors for seizure (e.g., head trauma or other CNS pathology, use of medications that lower the seizure threshold, or alcohol abuse).
 Because of the substantial risk of seizure associated with clozapine use, caution patients about engaging in any activity where sudden loss of consciousness could cause serious risk to themselves or others (e.g., driving an automobile, operating complex machinery, swimming, climbing).
 
-## 5.5 Myocarditis and Cardiomyopathy
+## 5.6 Myocarditis, Cardiomyopathy and Mitral Valve Incompetence
 
 Myocarditis and cardiomyopathy have occurred with the use of clozapine.
 These reactions can be fatal.
@@ -130,14 +135,17 @@ Generally, patients with a history of clozapine-associated myocarditis or cardio
 However, if the benefit of clozapine treatment is judged to outweigh the potential risks of recurrent myocarditis or cardiomyopathy, the clinician may consider rechallenge with clozapine in consultation with a cardiologist, after a complete cardiac evaluation, and under close monitoring.
 
 Consider the possibility of myocarditis or cardiomyopathy in patients receiving clozapine who present with chest pain, dyspnea, persistent tachycardia at rest, palpitations, fever, flu-like symptoms, hypotension, other signs or symptoms of heart failure, or electrocardiographic findings (low voltages, ST-T abnormalities, arrhythmias, right axis deviation, and poor R wave progression).
-Myocarditis most frequently presents within the first two months of clozapine treatment.
+Myocarditis most frequently presents within the first 2 months of clozapine treatment.
 Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis and usually after 8 weeks of treatment.
 However, myocarditis and cardiomyopathy can occur at any period during treatment with clozapine.
 It is common for nonspecific flu-like symptoms such as malaise, myalgia, pleuritic chest pain, and low-grade fevers to precede more overt signs of heart failure.
 Typical laboratory findings include elevated troponin I or T, elevated creatinine kinase-MB, peripheral eosinophilia, and elevated C-reactive protein (CRP).
 Chest roentgenogram may demonstrate cardiac silhouette enlargement, and cardiac imaging (echocardiogram, radionucleotide studies, or cardiac catheterization) may reveal evidence of left ventricular dysfunction.
+In patients who are diagnosed with cardiomyopathy while taking clozapine mitral valve incompetence has been reported.
+These cases reported either mild or moderate mitral regurgitation on two-dimensional echocardiography.
+In patients with suspected cardiomyopathy, consider a 2D-echo Doppler examination to identify mitral valve incompetence.
 
-## 5.6 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+## 5.7 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
@@ -147,7 +155,7 @@ Observational studies suggest that, similar to atypical antipsychotic drugs, tre
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 Clozapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
-## 5.7 Eosinophilia
+## 5.8 Eosinophilia
 
 Eosinophilia, defined as a blood eosinophil count of greater than 700/µL, has occurred with clozapine treatment.
 In clinical trials, approximately 1% of patients developed eosinophilia.
@@ -164,7 +172,7 @@ There are reports of successful rechallenge after discontinuation of clozapine, 
 In the absence of organ involvement, continue clozapine under careful monitoring.
 If the total eosinophil count continues to increase over several weeks in the absence of systemic disease, the decision to interrupt clozapine therapy and rechallenge after the eosinophil count decreases should be based on the overall clinical assessment, in consultation with an internist or hematologist.
 
-## 5.8 QT Interval Prolongation
+## 5.9 QT Interval Prolongation
 
 QT prolongation, Torsade de Pointes and other life-threatening ventricular arrhythmias, cardiac arrest, and sudden death have occurred with clozapine treatment.
 When prescribing clozapine, consider the presence of additional risk factors for QT prolongation and serious cardiovascular reactions.
@@ -174,7 +182,7 @@ Prior to initiating treatment with clozapine, perform a careful physical examina
 Consider obtaining a baseline ECG and serum chemistry panel.
 Correct electrolyte abnormalities.
 Discontinue clozapine if the QTc interval exceeds 500 msec.
-If patients experience symptoms consistent with Torsades de Pointes or other arrhythmias, (e.g., syncope, presyncope, dizziness, or palpitations), obtain a cardiac evaluation and discontinue clozapine.
+If patients experience symptoms consistent with Torsades de Pointes, or other arrhythmias (e.g., syncope, presyncope, dizziness, or palpitations), obtain a cardiac evaluation and discontinue clozapine.
 
 Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of clozapine.
 Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmic medications (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus).
@@ -187,7 +195,7 @@ Use caution when treating patients at risk for significant electrolyte disturban
 Obtain baseline measurements of serum potassium and magnesium levels, and periodically monitor electrolytes.
 Correct electrolyte abnormalities before initiating treatment with clozapine.
 
-## 5.9 Metabolic Changes
+## 5.10 Metabolic Changes
 
 Atypical antipsychotic drugs, including clozapine have been associated with metabolic changes that can increase cardiovascular and cerebrovascular risk.
 These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
@@ -205,11 +213,11 @@ Patients with an established diagnosis of diabetes mellitus who are started on c
 Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
-In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
+In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of antidiabetic treatment despite discontinuation of the suspect drug.
 
 In a pooled data analysis of 8 studies in adult subjects with schizophrenia, the mean changes in fasting glucose concentration in the clozapine and chlorpromazine groups were +11 mg/dL and +4 mg/dL respectively.
 A higher proportion of the clozapine group demonstrated categorical increases from baseline in fasting glucose concentrations, compared to the chlorpromazine group (Table 4).
-The clozapine doses were 100–900 mg per day (mean modal dose: 512 mg per day).
+The clozapine doses were 100 mg to 900 mg per day (mean modal dose: 512 mg per day).
 The maximum chlorpromazine dose was 1800 mg per day (mean modal dose: 1029 mg per day).
 The median duration of exposure was 42 days for clozapine and chlorpromazine.
 
@@ -258,7 +266,7 @@ Categorical Changes in Lipid Concentrations in Studies in Adult Subjects with Sc
 | Chlorpromazine | 185 | 46 (25) |  |  |
 | Normal (<200 mg/dL) to High (≥240 mg/dL) | Clozapine | 222 | 18 (8) |  |
 | Chlorpromazine | 132 | 3 (2) |  |  |
-| Borderline (200 - 239 mg/dL) to High (≥240 mg/dL) | Clozapine | 79 | 30 (38) |  |
+| Borderline (200 to 239 mg/dL) to High (≥240 mg/dL) | Clozapine | 79 | 30 (38) |  |
 | Chlorpromazine | 34 | 14 (41) |  |  |
 | Triglycerides (fasting) | Increase by ≥50 mg/dL | Clozapine | 6 | 3 (50) |
 | Chlorpromazine | 7 | 3 (43) |  |  |
@@ -280,12 +288,12 @@ Mean Change in Body Weight (kg) by Duration of Exposure from Studies in Adult Su
 | Metabolic parameter | Exposure duration | Clozapine (N=669) |  | Olanzapine (N=442) |  | Chlorpromazine (N=155) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | Mean | n | Mean | n | Mean |  |  |
-| Weight change from baseline | 2 weeks (Day 11–17) | 6 | +0.9 | 3 | +0.7 | 2 | -0.5 |
-| 4 weeks (Day 21–35) | 23 | +0.7 | 8 | +0.8 | 17 | +0.6 |  |
-| 8 weeks (Day 49–63) | 12 | +1.9 | 13 | +1.8 | 16 | +0.9 |  |
-| 12 weeks (Day 70–98) | 17 | +2.8 | 5 | +3.1 | 0 | 0 |  |
-| 24 weeks (Day 154–182) | 42 | -0.6 | 12 | +5.7 | 0 | 0 |  |
-| 48 weeks (Day 322–350) | 3 | +3.7 | 3 | +13.7 | 0 | 0 |  |
+| Weight change from baseline | 2 weeks (Day 11 to 17) | 6 | +0.9 | 3 | +0.7 | 2 | -0.5 |
+| 4 weeks (Day 21 to 35) | 23 | +0.7 | 8 | +0.8 | 17 | +0.6 |  |
+| 8 weeks (Day 49 to 63) | 12 | +1.9 | 13 | +1.8 | 16 | +0.9 |  |
+| 12 weeks (Day 70 to 98) | 17 | +2.8 | 5 | +3.1 | 0 | 0 |  |
+| 24 weeks (Day 154 to 182) | 42 | -0.6 | 12 | +5.7 | 0 | 0 |  |
+| 48 weeks (Day 322 to 350) | 3 | +3.7 | 3 | +13.7 | 0 | 0 |  |
 
 Table 8 summarizes pooled data from 11 studies in adult subjects with schizophrenia demonstrating weight gain ≥7% of body weight relative to baseline.
 The median duration of exposure was 609, 728, and 42 days, in the clozapine, olanzapine, and chlorpromazine group, respectively.
@@ -298,7 +306,7 @@ Proportion of Adult Subjects in Schizophrenia Studies with Weight Gain ≥7% Rel
 | N | 669 | 442 | 155 |
 | ≥7% (inclusive) | 236 (35%) | 203 (46%) | 13 (8%) |
 
-## 5.10 Neuroleptic Malignant Syndrome
+## 5.11 Neuroleptic Malignant Syndrome
 
 Antipsychotic drugs including clozapine can cause a potentially fatal symptom complex referred to as Neuroleptic Malignant Syndrome (NMS).
 Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered mental status, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).
@@ -316,22 +324,28 @@ Monitor closely if restarting treatment with antipsychotics.
 
 NMS has occurred with clozapine monotherapy and with concomitant CNS-active medications, including lithium.
 
-## 5.11 Fever
+## 5.12 Hepatotoxicity
+
+Severe, life threatening, and in some cases fatal hepatotoxicity including hepatic failure, hepatic necrosis, and hepatitis have been reported in post marketing studies in patients treated with clozapine [see Adverse Reactions (6.2)].
+Monitor for the appearance of signs and symptoms of hepatotoxicity such as fatigue, malaise, anorexia, nausea, jaundice, bilirubinemia, coagulopathy, and hepatic encephalopathy.
+Perform serum tests for liver injury and consider permanently discontinuing treatment if hepatitis or transaminase elevations combined with other systemic symptoms are due to clozapine.
+
+## 5.13 Fever
 
 During clozapine therapy, patients have experienced transient, clozapine-related fever.
 The peak incidence is within the first 3 weeks of treatment.
 While this fever is generally benign and self-limited, it may necessitate discontinuing treatment.
 The fever can be associated with an increase or decrease in WBC count.
 Carefully evaluate patients with fever to rule out severe neutropenia or infection.
-Consider the possibility of NMS [see Warnings and Precautions (5.10)].
+Consider the possibility of NMS [see Warnings and Precautions (5.11)].
 
-## 5.12 Pulmonary Embolism
+## 5.14 Pulmonary Embolism
 
 Pulmonary embolism and deep-vein thrombosis have occurred in patients treated with clozapine.
 Consider the possibility of pulmonary embolism in patients who present with deep-vein thrombosis, acute dyspnea, chest pain, or with other respiratory signs and symptoms.
-Whether pulmonary embolus and deep vein thrombosis can be attributed to clozapine or some characteristic(s) of patients is not clear.
+Whether pulmonary embolus and deep-vein thrombosis can be attributed to clozapine or some characteristic(s) of patients is not clear.
 
-## 5.13 Anticholinergic Toxicity
+## 5.15 Anticholinergic Toxicity
 
 Clozapine has potent anticholinergic effects.
 Treatment with clozapine can result in CNS and peripheral anticholinergic toxicity.
@@ -342,14 +356,14 @@ Such reactions can be fatal.
 Constipation should be initially treated by ensuring adequate hydration and use of ancillary therapy such as bulk laxatives.
 Consultation with a gastroenterologist is advisable in more serious cases.
 
-## 5.14 Interference with Cognitive and Motor Performance
+## 5.16 Interference with Cognitive and Motor Performance
 
 Clozapine can cause sedation and impairment of cognitive and motor performance.
 Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that clozapine does not affect them adversely.
 These reactions may be dose-related.
 Consider reducing the dose if they occur.
 
-## 5.15 Tardive Dyskinesia
+## 5.17 Tardive Dyskinesia
 
 Tardive dyskinesia (TD) has occurred in patients treated with antipsychotic drugs, including clozapine.
 The syndrome consists of potentially irreversible, involuntary, dyskinetic movements.
@@ -366,13 +380,13 @@ However, the syndrome may remit partially or completely if treatment is disconti
 Antipsychotic treatment, itself, may suppress (or partially suppress) the signs and symptoms, and it has the potential to mask the underlying process.
 The effect of symptom suppression on the long-term course of TD is unknown.
 
-## 5.16 Cerebrovascular Adverse Reactions
+## 5.18 Cerebrovascular Adverse Reactions
 
 In controlled trials, elderly patients with dementia-related psychosis treated with some atypical antipsychotics had an increased risk (compared to placebo) of cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities.
 The mechanism for this increased risk is not known.
 An increased risk cannot be excluded for clozapine or other antipsychotics or other patient populations.
 Clozapine should be used with caution in patients with risk factors for cerebrovascular adverse reactions.
 
-## 5.17 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of Clozapine
+## 5.19 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of Clozapine
 
 If abrupt discontinuation of clozapine is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting and diarrhea.

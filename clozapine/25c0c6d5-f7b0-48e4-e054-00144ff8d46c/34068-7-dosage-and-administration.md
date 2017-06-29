@@ -34,7 +34,7 @@ Method of treatment discontinuation will vary depending on the patient’s last 
 
 When restarting clozapine in patients who have discontinued clozapine (i.e., 2 days or more since the last dose), re-initiate with 12.5 mg once daily or twice daily.
 This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Warnings and Precautions (5.3)].
-If that dose is well tolerated, the dose may be increased to the previously therapeutic dose more quickly than recommended for initial treatment.
+If that dose is well-tolerated, the dose may be increased to the previously therapeutic dose more quickly than recommended for initial treatment.
 
 ## 2.6 Dosage Adjustments with Concomitant use of CYP1A2, CYP2D6, CYP3A4 Inhibitors or CYP1A2, CYP3A4 Inducers
 

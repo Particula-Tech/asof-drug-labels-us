@@ -4,20 +4,22 @@ The following adverse reactions are discussed in more detail in other sections o
 
 - Severe Neutropenia [see Warnings and Precautions (5.1)].
 - Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)].
-- Seizures [see Warnings and Precautions (5.4)].
-- Myocarditis and Cardiomyopathy [see Warnings and Precautions (5.5)].
-- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.6)].
-- Eosinophilia [see Warnings and Precautions (5.7)].
-- QT Interval Prolongation [see Warnings and Precautions (5.8)].
-- Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.9)].
-- Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.10)].
-- Fever [see Warnings and Precautions (5.11)].
-- Pulmonary Embolism [see Warnings and Precautions (5.12)].
-- Anticholinergic Toxicity [see Warnings and Precautions (5.13)].
-- Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.14)].
-- Tardive Dyskinesia [see Warnings and Precautions (5.15)].
-- Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.16)].
-- Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.17)].
+- Falls [see Warnings and Precautions (5.4)].
+- Seizures [see Warnings and Precautions (5.5)].
+- Myocarditis, Cardiomyopathy, and Mitral Valve Incompetence [see Warnings and Precautions (5.6)].
+- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.7)].
+- Eosinophilia [see Warnings and Precautions (5.8)].
+- QT Interval Prolongation [see Warnings and Precautions (5.9)].
+- Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.10)].
+- Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.11)].
+- Hepatotoxicity [see Warnings and Precautions (5.12)].
+- Fever [see Warnings and Precautions (5.13)].
+- Pulmonary Embolism [see Warnings and Precautions (5.14)].
+- Anticholinergic Toxicity [see Warnings and Precautions (5.15)].
+- Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.16)].
+- Tardive Dyskinesia [see Warnings and Precautions (5.17)].
+- Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.18)].
+- Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.19)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -131,7 +133,7 @@ Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epile
 
 Cardiovascular System
 
-Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolongation, Torsades de Pointes, myocardial infarction, cardiac arrest, and periorbital edema.
+Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, and periorbital edema.
 
 Endocrine System
 
@@ -139,7 +141,7 @@ Pseudopheochromocytoma
 
 Gastrointestinal System
 
-Acute pancreatitis, dysphagia, salivary gland swelling.
+Acute pancreatitis, dysphagia, salivary gland swelling, colitis.
 
 Hepatobiliary System
 
@@ -163,11 +165,11 @@ Myasthenic syndrome, rhabdomyolysis and systemic lupus erythematosus.
 
 Respiratory System
 
-Aspiration, pleural effusion, pneumonia, lower respiratory tract infection.
+Aspiration, pleural effusion, pneumonia, lower respiratory tract infection, sleep apnea.
 
 Hemic and Lymphatic System
 
-Mild, moderate, or severeleukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep-vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
+Mild, moderate, or severe leukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep-vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
 
 Vision Disorders
 

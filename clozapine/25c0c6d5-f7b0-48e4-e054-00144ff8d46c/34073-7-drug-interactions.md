@@ -8,7 +8,7 @@ Use caution when administering clozapine concomitantly with drugs that are induc
 CYP1A2 Inhibitors
 
 Concomitant use of clozapine and CYP1A2 inhibitors can increase plasma levels of clozapine, potentially resulting in adverse reactions.
-Reduce the clozapine dose to one third of the original dose when clozapine is coadministered with strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin).
+Reduce the clozapine dose to one-third of the original dose when clozapine is coadministered with strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin).
 The clozapine dose should be increased to the original dose when coadministration of strong CYP1A2 inhibitors is discontinued [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
 
 Moderate or weak CYP1A2 inhibitors include oral contraceptives and caffeine.
@@ -34,7 +34,7 @@ Consider reducing the clozapine dosage when discontinuing coadministered enzyme 
 Drugs that Cause QT Interval Prolongation
 
 Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of clozapine.
-Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Warnings and Precautions (5.8)].
+Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Warnings and Precautions (5.9)].
 
 ## 7.2 Potential for Clozapine to Affect Other Drugs
 

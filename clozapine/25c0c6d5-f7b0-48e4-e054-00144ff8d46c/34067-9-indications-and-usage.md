@@ -3,7 +3,7 @@
 ## 1.1 Treatment-Resistant Schizophrenia
 
 Clozapine is indicated for the treatment of severely ill patients with schizophrenia who fail to respond adequately to standard antipsychotic treatment.
-Because of the risks of severe neutropenia and of seizure associated with its use, clozapine should be used only in patients who have failed to respond adequately to standard antipsychotic treatment [see Warnings and Precautions (5.1, 5.4)].
+Because of the risks of severe neutropenia and of seizure associated with its use, clozapine should be used only in patients who have failed to respond adequately to standard antipsychotic treatment [see Warnings and Precautions (5.1, 5.5)].
 
 The effectiveness of clozapine in treatment-resistant schizophrenia was demonstrated in a 6-week, randomized, double-blind, active-controlled study comparing clozapine and chlorpromazine in patients who had failed other antipsychotics [see Clinical Studies (14.1)].
 
