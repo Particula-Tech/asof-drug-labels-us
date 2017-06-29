@@ -45,7 +45,7 @@ If a patient cannot tolerate a daily dose of 60 mg/kg, the daily dose may be red
 In the clinical trial, the mean daily dose was 44 mg/kg.
 The maximum daily dose was 3000 mg/day.
 
-For levetiracetam tablets dosing in pediatric patients weighing 20 kg to 40 kg, initiate treatment with a daily dose of 500 mg given as twice daily dosing (250 mg twice daily).
+For levetiracetam tablets dosing in pediatric patients weighing 20 to 40 kg, initiate treatment with a daily dose of 500 mg given as twice daily dosing (250 mg twice daily).
 Increase the daily dose every 2 weeks by increments of 500 mg to a maximum recommended daily dose of 1500 mg (750 mg twice daily).
 
 For levetiracetam tablets dosing in pediatric patients weighing more than 40 kg, initiate treatment with a daily dose of 1000 mg/day given as twice daily dosing (500 mg twice daily).
@@ -95,4 +95,4 @@ Table 1: Dosing Adjustment Regimen for Adult Patients with Renal Impairment
 | Mild | 50 to 80 | 500 to 1,000 | Every 12 hours |
 | Moderate | 30 to 50 | 250 to 750 | Every 12 hours |
 | Severe | < 30 | 250 to 500 | Every 12 hours |
-| ESRD patients using dialysis | --- | 500 to 1,000Following dialysis, a 250 mg to 500 mg supplemental dose is recommended. | Every 24 hours |
+| ESRD patients using dialysis | --- | 500 to 1,000Following dialysis, a 250 to 500 mg supplemental dose is recommended. | Every 24 hours |

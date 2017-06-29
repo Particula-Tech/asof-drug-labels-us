@@ -35,7 +35,7 @@ Therefore, there was no evidence of significant QTc prolongation in this study.
 Absorption of levetiracetam is rapid, with peak plasma concentrations occurring in about an hour following oral administration in fasted subjects.
 The oral bioavailability of levetiracetam tablets is 100% and the tablets and oral solution are bioequivalent in rate and extent of absorption.
 Food does not affect the extent of absorption of levetiracetam but it decreases Cmax by 20% and delays Tmax by 1.5 hours.
-The pharmacokinetics of levetiracetam are linear over the dose range of 500 mg to 5000 mg.
+The pharmacokinetics of levetiracetam are linear over the dose range of 500 to 5000 mg.
 Steady state is achieved after 2 days of multiple twice-daily dosing.
 Levetiracetam and its major metabolite are less than 10% bound to plasma proteins; clinically significant interactions with other drugs through competition for protein binding sites are therefore unlikely.
 
@@ -75,7 +75,7 @@ The evaluation of the pharmacokinetic profile of levetiracetam and its metabolit
 The pharmacokinetics of levetiracetam in children was linear between 20 to 60 mg/kg/day.
 The potential interaction of levetiracetam with other AEDs was also evaluated in these patients.
 Levetiracetam had no significant effect on the plasma concentrations of carbamazepine, valproic acid, topiramate or lamotrigine.
-However, there was about a 22% increase of apparent clearance of levetiracetam when it was coadministered with an enzyme-inducing AED (e.g., carbamazepine).
+However, there was about a 22% increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED (e.g., carbamazepine).
 
 Following single dose administration (20 mg/kg) of a 10% oral solution to children with epilepsy (1 month to < 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
 The pharmacokinetic results indicated that half-life was shorter (5.3 h) than for adults (7.2 h) and apparent clearance was faster (1.5 mL/min/kg) than for adults (0.96 mL/min/kg).
@@ -138,7 +138,7 @@ These data indicate that levetiracetam does not influence the plasma concentrati
 
 #### Effect of AEDs in Pediatric Patients
 
-There was about a 22% increase of apparent total body clearance of levetiracetam when it was coadministered with enzyme-inducing AEDs.
+There was about a 22% increase of apparent total body clearance of levetiracetam when it was co-administered with enzyme-inducing AEDs.
 Dose adjustment is not recommended.
 Levetiracetam had no effect on plasma concentrations of carbamazepine, valproate, topiramate, or lamotrigine.
 

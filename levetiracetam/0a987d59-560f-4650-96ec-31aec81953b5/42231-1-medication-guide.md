@@ -52,13 +52,17 @@ Before taking your medicine, make sure you have received the correct medicine.
 Compare the name above with the name on your bottle and the appearance of your medicine with the description of levetiracetam tablets provided below.
 Tell your pharmacist immediately if you think you have been given the wrong medicine.
 
-The 250 mg tablets are white, film-coated, round tablets debossed with M above the score and 613 below the score on one side of the tablet and blank on the other side.
+The 250 mg tablets are white, film-coated, round, scored tablets debossed with M above the score and 613 below the score on one side of the tablet and blank on the other side.
 
-The 500 mg tablets are white, film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 615 to the right of the score on one side of the tablet and blank on the other side.
+The 500 mg tablets are white, film-coated, modified capsule-shaped, scored tablets debossed with M to the left of the score and 615 to the right of the score on one side of the tablet and blank on the other side.
 
-The 750 mg tablets are white, film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 617 to the right of the score on one side of the tablet and blank on the other side.
+The 750 mg tablets are white, film-coated, modified capsule-shaped, scored tablets debossed with M to the left of the score and 617 to the right of the score on one side of the tablet and blank on the other side.
 
-The 1000 mg tablets are white, film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 619 to the right of the score on one side of the tablet and blank on the other side.
+The 1000 mg tablets are white, film-coated, modified capsule-shaped, scored tablets debossed with M to the left of the score and 619 to the right of the score on one side of the tablet and blank on the other side.
+
+Who should not take levetiracetam tablets?
+
+Do not take levetiracetam tablets if you are allergic to levetiracetam.
 
 What should I tell my healthcare provider before starting levetiracetam tablets?
 
@@ -121,6 +125,7 @@ Call your healthcare provider right away if you have any of these symptoms:
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
 - •extreme sleepiness, tiredness, and weakness.
 - •problems with muscle coordination (problems walking and moving).
+- •allergic reactions such as swelling of the face, lips, eyes, tongue, and throat, trouble swallowing or breathing, and hives.
 - •a skin rash.
   Serious skin rashes can happen after you start taking levetiracetam tablets.
   There is no way to tell if a mild rash will become a serious reaction.
@@ -152,7 +157,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store levetiracetam tablets?
 
-- •Store levetiracetam tablets at 20° to 25°C (68° to 77°F).
+- •Store levetiracetam tablets at room temperature, 20° to 25°C (68° to 77°F) away from heat and light.
 - •Keep levetiracetam tablets and all medicines out of the reach of children.
 
 General information about levetiracetam tablets.
@@ -165,7 +170,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about levetiracetam tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about levetiracetam tablets that is written for health professionals.
-You can also get information about levetiracetam tablets at Mylan.com or call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
+You can also get information about levetiracetam tablets by calling Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients of levetiracetam tablets?
 
@@ -177,8 +182,6 @@ Levetiracetam tablets do not contain lactose or gluten.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured by: UNICHEM LABORATORIES LTD Ind.Area, Meerut Road, Ghaziabad – 201 003, India Code No.: UP/DRUG/14/74
-
-Revised: 12/2016 UN:LVTC:R13mpbmh
+Revised: 6/2017 LVTC:R14mpbmh

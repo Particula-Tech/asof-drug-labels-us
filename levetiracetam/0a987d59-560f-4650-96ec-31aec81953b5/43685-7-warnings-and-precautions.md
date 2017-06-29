@@ -47,7 +47,7 @@ Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
+| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -86,15 +86,23 @@ In 0.5% of levetiracetam tablets-treated patients and in 0.2% of placebo-treated
 Somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
 In general, the incidences of somnolence and fatigue in the pediatric partial onset seizure studies, and in pediatric and adult myoclonic and primary generalized tonic-clonic seizure studies were comparable to those of the adult partial onset seizure studies.
 
-## 5.4 Serious Dermatological Reactions
+## 5.4 Anaphylaxis and Angioedema
+
+Levetiracetam tablets can cause anaphylaxis or angioedema after the first dose or at any time during treatment.
+Signs and symptoms in cases reported in the postmarketing setting have included hypotension, hives, rash, respiratory distress, and swelling of the face, lip, mouth, eye, tongue, throat, and feet.
+In some reported cases, reactions were life-threatening and required emergency treatment.
+If a patient develops signs or symptoms of anaphylaxis or angioedema, levetiracetam tablets should be discontinued and the patient should seek immediate medical attention.
+Levetiracetam tablets should be discontinued permanently if a clear alternative etiology for the reaction cannot be established [see Contraindications (4)].
+
+## 5.5 Serious Dermatological Reactions
 
 Serious dermatological reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in both pediatric and adult patients treated with levetiracetam tablets.
 The median time of onset is reported to be 14 to 17 days, but cases have been reported at least four months after initiation of treatment.
-Recurrence of the serious skin reactions following rechallenge with levetiracetam tablets have also been reported.
+Recurrence of the serious skin reactions following rechallenge with levetiracetam tablets has also been reported.
 Levetiracetam tablets should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 
-## 5.5 Coordination Difficulties
+## 5.6 Coordination Difficulties
 
 Levetiracetam tablets may cause coordination difficulties.
 
@@ -105,11 +113,11 @@ These events occurred most frequently within the first 4 weeks of treatment.
 
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam tablets to gauge whether it could adversely affect their ability to drive or operate machinery.
 
-## 5.6 Withdrawal Seizures
+## 5.7 Withdrawal Seizures
 
 Antiepileptic drugs, including levetiracetam tablets, should be withdrawn gradually to minimize the potential of increased seizure frequency.
 
-## 5.7 Hematologic Abnormalities
+## 5.8 Hematologic Abnormalities
 
 Levetiracetam tablets can cause hematologic abnormalities.
 Hematologic abnormalities occurred in clinical trials and included decreases in red blood cell (RBC) counts, hemoglobin, and hematocrit, and increases in eosinophil counts.
@@ -122,7 +130,7 @@ Cases of agranulocytosis have been reported in the postmarketing setting.
 
 Minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 x 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in levetiracetam tablets-treated patients in controlled trials.
 
-A total of 3.2% of levetiracetam tablets-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤ 2.8 x 109/L) decreased WBC, and 2.4% of levetiracetam tablets-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤ 1 x 109/L) decreased neutrophil count.
+A total of 3.2% of levetiracetam tablets-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤ 2.8 x 109/L) decreased WBC, and 2.4% of levetiracetam tablets-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤ 1.0 x 109/L) decreased neutrophil count.
 Of the levetiracetam tablets-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
@@ -132,12 +140,12 @@ Statistically significant decreases in WBC and neutrophil counts were seen in le
 The mean decreases from baseline in the levetiracetam tablets-treated group were -0.4 × 109/L and -0.3 × 109/L, respectively, whereas there were small increases in the placebo group.
 Mean relative lymphocyte counts increased by 1.7% in levetiracetam tablets-treated patients, compared to a decrease of 4% in placebo patients (statistically significant).
 
-In the controlled trial, more levetiracetam tablets-treated patients had a possibly clinically significant abnormally low WBC value (3% of levetiracetam tablets-treated patients vs. 0% of placebo-treated patients), however, there was no apparent difference between treatment groups with respect to neutrophil count (5% of levetiracetam tablets-treated patients vs. 4.2% of placebo-treated patients).
+In the controlled trial, more levetiracetam tablets-treated patients had a possibly clinically significant abnormally low WBC value (3% of levetiracetam tablets-treated patients versus 0% of placebo-treated patients), however, there was no apparent difference between treatment groups with respect to neutrophil count (5% of levetiracetam tablets-treated patients versus 4.2% of placebo-treated patients).
 No patient was discontinued secondary to low WBC or neutrophil counts.
 
 In the controlled cognitive and neuropsychological safety study, 5 patients (8.6%) in the levetiracetam tablets-treated group and two patients (6.1%) in the placebo-treated group had high eosinophil count values that were possibly clinically significant (≥ 10% or ≥ 0.7 X 109/L).
 
-## 5.8 Increase in Blood Pressure
+## 5.9 Increase in Blood Pressure
 
 In a randomized, placebo-controlled study in patients 1 month to < 4 years of age, a significantly higher risk of increased diastolic blood pressure was observed in the levetiracetam tablets-treated patients (17%), compared to the placebo-treated patients (2%).
 There was no overall difference in mean diastolic blood pressure between the treatment groups.
@@ -145,7 +153,7 @@ This disparity between the levetiracetam tablets and placebo treatment groups wa
 
 Monitor patients 1 month to < 4 years of age for increases in diastolic blood pressure.
 
-## 5.9 Seizure Control during Pregnancy
+## 5.10 Seizure Control During Pregnancy
 
 Physiological changes may gradually decrease plasma levels of levetiracetam throughout pregnancy.
 This decrease is more pronounced during the third trimester.
