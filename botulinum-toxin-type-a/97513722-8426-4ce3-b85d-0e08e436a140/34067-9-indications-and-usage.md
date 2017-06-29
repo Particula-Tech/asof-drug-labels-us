@@ -8,9 +8,9 @@ DYSPORT® is indicated for the treatment of adults with cervical dystonia.
 
 DYSPORT® is indicated for the temporary improvement in the appearance of moderate to severe glabellar lines associated with procerus and corrugator muscle activity in adult patients less than 65 years of age.
 
-## 1.3 Upper Limb Spasticity
+## 1.3 Spasticity in Adults
 
-DYSPORT® is indicated for the treatment of upper limb spasticity in adult patients, to decrease the severity of increased muscle tone in elbow flexors, wrist flexors and finger flexors.
+DYSPORT® is indicated for the treatment of spasticity in adult patients.
 
 ## 1.4 Lower Limb Spasticity in Pediatric Patients
 

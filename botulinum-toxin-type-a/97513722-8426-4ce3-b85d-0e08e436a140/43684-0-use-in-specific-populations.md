@@ -16,7 +16,7 @@ The background risk of major birth defects and miscarriage for the indicated pop
 Data
 
 In a study in which pregnant rats received daily intramuscular injections of DYSPORT® (2.2, 6.6, or 22 Units/kg on gestation days 6 through 17 or intermittently 44 Units/kg on gestation days 6 and 12 only) during organogenesis, increased early embryonic death was observed with both schedules at the highest tested doses (22 and 44 Units/kg), which were associated with maternal toxicity.
-The no-effect dose for embryo-fetal developmental toxicity was 2.2 Units/kg (less than the maximum recommended human dose [MRHD] on a body weight basis).
+The no-effect dose for embryo-fetal developmental toxicity was 2.2 Units/kg (less than the maximum recommended human dose [MRHD] on a body weight basis.
 
 In a study in which pregnant rabbits received daily intramuscular injections of DYSPORT® (0.3, 3.3, or 6.7 Units/kg) on gestation days 6 through 19 or intermittently (13.3 Units/kg on gestation days 6 and 13 only) during organogenesis, no embryofetal data were available at the highest dose administered daily (6.7 Units/kg) because of premature death in all does at that dose.
 At the lower daily doses or with intermittent dosing, no adverse developmental effects were observed.
@@ -29,7 +29,7 @@ The no-effect dose for pre- and post-natal developmental toxicity was 22.2 Units
 
 Risk Summary
 
-There are no data on the presence of DYSPORT® in human or animal milk, the effects on the breastfed child, or the effects on milk production.
+There are no data on the presence of DYSPORT® in human or animal milk, the effects on the breastfed infant, or the effects on milk production.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for DYSPORT® and any potential adverse effects on the breastfed infant from DYSPORT® or from the underlying maternal condition.
 
@@ -82,11 +82,19 @@ Of the total number of subjects in the placebo-controlled clinical studies of DY
 Efficacy was not observed in subjects aged 65 years and over [see Clinical Studies (14.2)].
 For the entire safety database of geriatric subjects, although there was no increase in the incidence of eyelid ptosis, geriatric subjects did have an increase in the number of ocular adverse reactions compared to younger subjects (11% vs. 5%) [see Dosage and Administration (2.2)].
 
+Adult Spasticity
+
 Upper Limb Spasticity
 
-Of the total number of subjects in placebo-controlled clinical studies of DYSPORT®, 28.0 percent were aged 65 years and over, while 8.2 percent were aged 75 years and over.
+Of the total number of subjects in placebo-controlled clinical studies of DYSPORT®, 30 percent were aged 65 years and over, while 8 percent were aged 75 years and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+Lower Limb Spasticity
+
+Of the total number of subjects in placebo controlled clinical studies of DYSPORT®, 18% (n = 115) were 65 and over, while 3% (n = 20) were 75 and over.
+Subjects aged 65 years and over who were treated with DYSPORT® reported a greater percentage of adverse reactions as compared to younger subjects (46% versus 39%).
+Fall and asthenia were observed with greater frequency in older subjects, as compared to those younger (10% versus 6% and 4% versus 2%, respectively).
 
 ## 8.6 Ethnic Groups
 

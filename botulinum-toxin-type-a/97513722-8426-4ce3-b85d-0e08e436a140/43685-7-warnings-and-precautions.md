@@ -34,7 +34,7 @@ These reactions can occur within hours to weeks after injection with botulinum t
 
 ## 5.4 Facial Anatomy in the Treatment of Glabellar Lines
 
-Caution should be exercised when administering DYSPORT® to patients with surgical alterations to the facial anatomy, excessive weakness or atrophy in the target muscle(s), marked facial asymmetry, inflammation at the injection site(s), ptosis, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin [see Dosage and Administration (2.3] or the inability to substantially lessen glabellar lines by physically spreading them apart [see Clinical Studies (14.2)].
+Caution should be exercised when administering DYSPORT® to patients with surgical alterations to the facial anatomy, excessive weakness or atrophy in the target muscle(s), marked facial asymmetry, inflammation at the injection site(s), ptosis, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin [see Dosage and Administration (2.3)] or the inability to substantially lessen glabellar lines by physically spreading them apart [see Clinical Studies (14.2)].
 
 Do not exceed the recommended dosage and frequency of administration of DYSPORT®.
 In clinical trials, subjects who received a higher dose of DYSPORT® had an increased incidence of eyelid ptosis.
@@ -44,12 +44,12 @@ In clinical trials, subjects who received a higher dose of DYSPORT® had an incr
 Individuals with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis or neuromuscular junction disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) should be monitored particularly closely when given botulinum toxin.
 Patients with neuromuscular disorders may be at increased risk of clinically significant effects including severe dysphagia and respiratory compromise from typical doses of DYSPORT® [see Adverse Reactions (6.1)].
 
-## 5.6 Human Albumin
+## 5.6 Human Albumin and Transmission of Viral Diseases
 
 This product contains albumin, a derivative of human blood.
-Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases.
-A theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD) is also considered extremely remote.
-No cases of transmission of viral diseases or CJD have ever been reported for albumin.
+Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases and variant Creutzfeldt-Jakob disease (vCJD).
+There is a theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD), but if that risk actually exists, the risk of transmission would also be considered extremely remote.
+No cases of transmission of viral diseases, CJD, or vCJD have ever been identified for licensed albumin or albumin contained in other licensed products.
 
 ## 5.7 Intradermal Immune Reaction
 

@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 DYSPORT® for Injection is supplied in a sterile, single-use, glass vial.
-Unopened vials of DYSPORT® must be stored under refrigeration at 2°to 8°C (36°°F to 46°F).
+Unopened vials of DYSPORT® must be stored under refrigeration at 2°to 8°C (36°F to 46°F).
 Protect from light.
 
 Do not use after the expiration date on the vial.
@@ -11,7 +11,7 @@ DYSPORT® contains a unique hologram on the carton.
 If you do not see the hologram, do not use the product.
 Instead contact 877-397-7671.
 
-Cervical Dystonia, Upper Limb Spasticity in Adults, and Lower Limb Spasticity in Pediatric Patients
+Cervical Dystonia, Spasticity in Adults, and Lower Limb Spasticity in Pediatric Patients
 
 - 500 Unit Vial
   - Each vial contains 500 Units of freeze-dried abobotulinumtoxinA.
