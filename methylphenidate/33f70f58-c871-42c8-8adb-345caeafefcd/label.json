@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA205489"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "Neos Therapeutics, LP",
+  "package_ndcs": [
+    "70165-100-30",
+    "70165-200-30",
+    "70165-300-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "methylphenidate",
+      "name": "Cotempla XR-ODT"
+    }
+  ],
+  "setid": "33f70f58-c871-42c8-8adb-345caeafefcd",
+  "source": "dailymed"
+}
