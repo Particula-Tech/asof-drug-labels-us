@@ -14,11 +14,11 @@ Tablets
 
 VFEND 50 mg tablets; white, film-coated, round, debossed with "Pfizer" on one side and "VOR50" on the reverse.
 
-- Bottles of 30 (NDC 0049-3170-30)
+Bottles of 30 (NDC 0049-3170-30)
 
 VFEND 200 mg tablets; white, film-coated, capsule shaped, debossed with "Pfizer" on one side and "VOR200" on the reverse.
 
-- Bottles of 30 (NDC 0049-3180-30)
+Bottles of 30 (NDC 0049-3180-30)
 
 Powder for Oral Suspension
 

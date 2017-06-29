@@ -29,7 +29,7 @@ If infused through a multiple-lumen catheter, TPN needs to be administered using
 Invasive aspergillosis and serious fungal infections due to Fusarium spp. and Scedosporium apiospermum
 
 See Table 1.
-Therapy must be initiated with the specified loading dose regimen of intravenous VFEND on Day 1 followed by the recommended maintenance dose regimen.
+Therapy must be initiated with the specified loading dose regimen of intravenous VFEND on Day 1 followed by the recommended maintenance dose (RMD) regimen.
 Intravenous treatment should be continued for at least 7 days.
 Once the patient has clinically improved and can tolerate medication given by mouth, the oral tablet form or oral suspension form of VFEND may be utilized.
 The recommended oral maintenance dose of 200 mg achieves a voriconazole exposure similar to 3 mg/kg IV; a 300 mg oral dose achieves an exposure similar to 4 mg/kg IV.
@@ -164,7 +164,7 @@ It is recommended that the standard loading dose regimens be used but that the m
 
 VFEND has not been studied in patients with severe hepatic cirrhosis (Child-Pugh Class C) or in patients with chronic hepatitis B or chronic hepatitis C disease.
 VFEND has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
-Patients with hepatic insufficiency must be carefully monitored for drug toxicity.
+Patients with hepatic impairment must be carefully monitored for drug toxicity.
 
 ## 2.8 Use in Patients With Renal Impairment
 

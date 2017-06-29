@@ -33,9 +33,9 @@ Table 12 also summarizes the response (success) based on mycological confirmatio
 
 Table 12: Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasive Aspergillosis Study 307/602
 
-|  | n/N (%) | n/N (%) |  |
-| --- | --- | --- | --- |
 |  | Voriconazole | Ampho B Amphotericin B followed by other licensed antifungal therapy | Stratified Difference (95% CI) Difference and corresponding 95% confidence interval are stratified by protocol |
+| --- | --- | --- | --- |
+|  | n/N (%) | n/N (%) |  |
 | Efficacy as Primary Therapy |  |  |  |
 | Satisfactory Global Response Assessed by independent Data Review Committee (DRC) | 76/144 (53) | 42/133 (32) | 21.8% (10.5%, 33.0%) p<0.0001 |
 | Survival at Day 84 Proportion of subjects alive | 102/144 (71) | 77/133 (58) | 13.1% (2.1%, 24.2%) |
@@ -101,7 +101,7 @@ Table 14: Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-U
 | C. tropicalis | 17/53 (32%) | 1/16 (6%) |
 | C. parapsilosis | 24/45 (53%) | 10/19 (53%) |
 | C. glabrata | 12/36 (33%) | 7/21 (33%) |
-| C. krusei | ¼ | 0/1 |
+| C. krusei | 1/4 | 0/1 |
 
 In a secondary analysis, which counted DRC-assessed successes at any time point (EOT, or 2, 6, or 12 weeks after EOT), the response rates were 65% for voriconazole and 71% for the regimen of amphotericin B followed by fluconazole.
 
@@ -126,7 +126,7 @@ Table 15: Success Rates in Patients Treated for Esophageal Candidiasis
 
 Microbiologic success rates by Candida species are presented in Table 16.
 
-Table 16: Clinical and mycological outcome by baseline pathogen in patients with esophageal candidiasis (Study 150-305)
+Table 16: Clinical and mycological outcome by baseline pathogen in patients with esophageal candidiasis (Study-150-305)
 
 |  | Success/Total (%) | Eradication/Total (%) | Success/Total (%) | Eradication/Total (%) |
 | --- | --- | --- | --- | --- |
