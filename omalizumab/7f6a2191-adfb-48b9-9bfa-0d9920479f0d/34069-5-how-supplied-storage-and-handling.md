@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Xolair is supplied as a lyophilized, sterile powder in a single-use, 5 mL vial without preservatives.
+Xolair is supplied as a lyophilized, sterile powder in a single-use vial without preservatives.
 Each vial delivers 150 mg of Xolair upon reconstitution with 1.4 mL SWFI, USP.
 Each carton contains one single-use vial of Xolair® (omalizumab) NDC 50242-040-62.
 
