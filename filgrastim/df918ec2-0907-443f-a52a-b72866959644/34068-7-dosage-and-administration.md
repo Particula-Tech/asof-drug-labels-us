@@ -22,7 +22,7 @@ Instruct patients and caregivers to follow the Instructions for Use provided wit
 Visually inspect parenteral drug products for particulate matter and discoloration prior to administration.
 Do not administer GRANIX if discoloration or particulates are observed.
 
-The prefilled syringe is for single dose only.
+The prefilled syringe is for single-dose only.
 Discard unused portions.
 GRANIX and all its components are not made with natural rubber latex.
 

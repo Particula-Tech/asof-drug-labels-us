@@ -36,7 +36,13 @@ Other adverse reactions known to occur following administration of filgrastim pr
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
-The incidence of antibody development in patients receiving GRANIX has not been adequately determined.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay, and the observed incidence of antibody positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to GRANIX with the incidence of antibodies to other products may be misleading.
+
+Binding antibodies to GRANIX were detected using a validated bridging immunoassay.
+In three clinical trials in oncology patients receiving prior chemotherapy, the incidence of antibody binding to tbo-filgrastim was 1.6 % (7/436).
+None of these 7 patients had cross-reactive antibodies to the native G-CSF.
+All antibody responses were transient and of low titers.
 
 ## 6.3 Postmarketing Experience
 

@@ -4,7 +4,7 @@
 
 Risk Summary
 
-The limited published data on filgrastim product use during pregnancy are insufficient to inform a drug-associated risk..
+The limited published data on filgrastim product use during pregnancy are insufficient to inform a drug-associated risk.
 In animal reproduction studies, administration of tbo-filgrastim to pregnant rabbits during organogenesis resulted in increased spontaneous abortion and fetal malformations at systemic exposures 50-90 times the human exposure expected at the recommended human dose (see Data).
 GRANIX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 

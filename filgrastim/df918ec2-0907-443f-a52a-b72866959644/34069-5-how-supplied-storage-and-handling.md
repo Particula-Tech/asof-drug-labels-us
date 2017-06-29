@@ -7,19 +7,17 @@ The active substance is tbo-filgrastim.
 
 GRANIX 300 mcg/0.5 mL: Each prefilled syringe contains 300 mcg of tbo-filgrastim in 0.5 mL solution with a blue plunger in:
 
-- 
-  - •Pack of 1 with a safety needle guard in blister: NDC 63459-910-11
-  - •Packs of 10 with a safety needle guard in blisters: NDC 63459-910-15
-  - •Pack of 1 without a safety needle guard (for patients and caregivers): NDC 63459-910-17
-  - •Packs of 5 without a safety needle guard (for patients and caregivers): NDC 63459-910-36
+- •Pack of 1 with a safety needle guard in blister: NDC 63459-910-11
+- •Packs of 10 with a safety needle guard in blisters: NDC 63459-910-15
+- •Pack of 1 without a safety needle guard (for patients and caregivers): NDC 63459-910-17
+- •Packs of 5 without a safety needle guard (for patients and caregivers): NDC 63459-910-36
 
 GRANIX 480 mcg/0.8 mL: Each prefilled syringe contains 480 mcg of tbo-filgrastim in 0.8 mL solution with a clear plunger in:
 
-- 
-  - •Pack of 1 with a safety needle guard in blister: NDC 63459-912-11
-  - •Packs of 10 with a safety needle guard in blisters: NDC 63459-912-15
-  - •Pack of 1 without a safety needle guard (for patients and caregivers): NDC 63459-912-17
-  - •Packs of 5 without a safety needle guard (for patients and caregivers): NDC 63459-912-36
+- •Pack of 1 with a safety needle guard in blister: NDC 63459-912-11
+- •Packs of 10 with a safety needle guard in blisters: NDC 63459-912-15
+- •Pack of 1 without a safety needle guard (for patients and caregivers): NDC 63459-912-17
+- •Packs of 5 without a safety needle guard (for patients and caregivers): NDC 63459-912-36
 
 GRANIX and all its components are not made with natural rubber latex [see Dosage and Administration (2.2)].
 
