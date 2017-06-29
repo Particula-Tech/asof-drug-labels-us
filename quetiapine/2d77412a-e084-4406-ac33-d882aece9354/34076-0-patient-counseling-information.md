@@ -48,21 +48,20 @@ Patients should be advised of the risk of orthostatic hypotension (symptoms incl
 
 Increased Blood Pressure in Children and Adolescents
 
-Children and adolescent patients should have their blood pressure measured at the beginning of, and periodically during, treatment [see Warnings and Precautions (5.8)].
+Children and adolescent patients should have their blood pressure measured at the beginning of, and periodically during, treatment [see Warnings and Precautions (5.9)].
 
 Leukopenia/Neutropenia
 
-Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine [see Warnings and Precautions (5.9)].
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine [see Warnings and Precautions (5.10)].
 
 Interference with Cognitive and Motor Performance
 
 Patients should be advised of the risk of somnolence or sedation (which may lead to falls), especially during the period of initial dose titration.
-Patients should be cautioned about performing any activity requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating machinery, until they are reasonably certain quetiapine therapy does not affect them adversely.
-[see Warnings and Precautions (5.15)].
+Patients should be cautioned about performing any activity requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating machinery, until they are reasonably certain quetiapine therapy does not affect them adversely [see Warnings and Precautions (5.16)].
 
 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.16)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.17)].
 
 Concomitant Medication
 
@@ -70,8 +69,7 @@ As with other medications, patients should be advised to notify their physicians
 
 Pregnancy and Nursing
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with quetiapine.
-[see Use in Specific Populations (8.1 and 8.3)].
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with quetiapine [see Use in Specific Populations (8.1 and 8.3)].
 
 Need for Comprehensive Treatment Program
 
@@ -87,6 +85,6 @@ Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
 
-10 0210 0 665616
+10 0210 1 674302
 
-Issued July 2016
+Issued March 2017

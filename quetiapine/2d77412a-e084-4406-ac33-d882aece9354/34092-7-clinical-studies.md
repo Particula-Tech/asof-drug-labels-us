@@ -37,25 +37,25 @@ Table 19: Schizophrenia Short-Term Trials
 
 | Study Number | Treatment Group | Primary Efficacy Endpoint: BPRS Total |  |  |
 | --- | --- | --- | --- | --- |
-| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference a (95% CI) |  |  |
+| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference 3 (95% CI) |  |  |
 | Study 1 | Quetiapine (75 mg/day) | 45.7 (10.9) | -2.2 (2.0) | -4.0 (-11.2, 3.3) |
-| Quetiapine (150 mg/day)* | 47.2 (10.1) | -8.7 (2.1) | -10.4 (-17.8, -3.0) |  |
-| Quetiapine (300 mg/day)* | 45.3 (10.9) | -8.6 (2.1) | -10.3 (-17.6, -3.0) |  |
-| Quetiapine (600 mg/day)* | 43.5 (11.3) | -7.7 (2.1) | -9.4 (-16.7, -2.1) |  |
-| Quetiapine (750 mg/day)* | 45.7 (11.0) | -6.3 (2.0) | -8.0 (-15.2, -0.8) |  |
+| Quetiapine (150 mg/day) 1 | 47.2 (10.1) | -8.7 (2.1) | -10.4 (-17.8, -3.0) |  |
+| Quetiapine (300 mg/day) 1 | 45.3 (10.9) | -8.6 (2.1) | -10.3 (-17.6, -3.0) |  |
+| Quetiapine (600 mg/day) 1 | 43.5 (11.3) | -7.7 (2.1) | -9.4 (-16.7, -2.1) |  |
+| Quetiapine (750 mg/day) 1 | 45.7 (11.0) | -6.3 (2.0) | -8.0 (-15.2, -0.8) |  |
 | Placebo | 45.3 (9.2) | 1.7 (2.1) | -- |  |
 | Study 2 | Quetiapine (250 mg/day) | 38.9 (9.8) | -4.2 (1.6) | -3.2 (-7.6, 1.2) |
-| Quetiapine (750 mg/day)* | 41.0 (9.6) | -8.7 (1.6) | -7.8 (-12.2, -3.4) |  |
+| Quetiapine (750 mg/day) 1 | 41.0 (9.6) | -8.7 (1.6) | -7.8 (-12.2, -3.4) |  |
 | Placebo | 38.4 (9.7) | -1.0 (1.6) | -- |  |
 | Study 3 | Quetiapine (450 mg/day BID) | 42.1 (10.7) | -10.0 (1.3) | -4.6 (-7.8, -1.4) |
-| Quetiapine (450 mg/day TID) # | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0.0) |  |
+| Quetiapine (450 mg/day TID) 2 | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0.0) |  |
 | Quetiapine (50 mg BID) | 41.7 (10.0) | -5.4 (1.3) | -- |  |
 |  |  | Primary Efficacy Endpoint: PANSS Total |  |  |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference a (95% CI) |
-| Study 4 | Quetiapine (400 mg/day)* | 96.2 (17.7) | -27.3 (2.6) | -8.2 (-16.1, -0.3) |
-| Quetiapine (800 mg/day)* | 96.9 (15.3) | -28.4 (1.8) | -9.3 (-16.2, -2.4) |  |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference 3 (95% CI) |
+| Study 4 | Quetiapine (400 mg/day) 1 | 96.2 (17.7) | -27.3 (2.6) | -8.2 (-16.1, -0.3) |
+| Quetiapine (800 mg/day) 1 | 96.9 (15.3) | -28.4 (1.8) | -9.3 (-16.2, -2.4) |  |
 | Placebo | 96.2 (17.7) | -19.2 (3.0) | -- |  |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. * Doses that are statistically significant superior to placebo. # Doses that are statistically significant superior to quetiapine 50 mg BID. a Difference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. 1. Doses that are statistically significant superior to placebo. 2. Doses that are statistically significant superior to quetiapine 50 mg BID. 3. Difference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
 
 ## 14.2 Bipolar Disorder
 
@@ -83,8 +83,7 @@ Adjunct Therapy
 
 In this 3-week placebo-controlled trial, 170 patients with bipolar mania (YMRS ≥ 20) were randomized to receive quetiapine or placebo as adjunct treatment to lithium or divalproex.
 Patients may or may not have received an adequate treatment course of lithium or divalproex prior to randomization.
-Quetiapine was superior to placebo when added to lithium or divalproex alone in the reduction of YMRS total score.
-(study 3 in Table 20).
+Quetiapine was superior to placebo when added to lithium or divalproex alone in the reduction of YMRS total score (study 3 in Table 20).
 
 The majority of patients in this trial taking quetiapine were dosed in a range between 400 mg/day and 800 mg per day.
 In a similarly designed trial (n=200), quetiapine was associated with an improvement in YMRS scores but did not demonstrate superiority to placebo, possibly due to a higher placebo effect.

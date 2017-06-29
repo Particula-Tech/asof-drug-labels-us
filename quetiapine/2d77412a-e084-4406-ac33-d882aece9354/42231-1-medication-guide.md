@@ -1,5 +1,3 @@
-MEDGUIDE SECTION
-
 Medication Guide
 
 Quetiapine Tablets
@@ -161,6 +159,9 @@ o confusion
 
 o changes in your breathing, heartbeat, and blood pressure
 
+• falls can happen in some people who take quetiapine tablets.
+These falls may cause serious injuries.
+
 • high blood sugar (hyperglycemia).
 High blood sugar can happen if you have diabetes already or if you have never had diabetes.
 High blood sugar could lead to:
@@ -270,7 +271,7 @@ How should I store quetiapine tablets?
 
 • Keep quetiapine tablets and all medicines out of the reach of children.
 
-General information about the safe and effective use of quetiapine tablets.
+General information about the safe and effective use of quetiapine tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use quetiapine tablets for a condition for which it was not prescribed.
@@ -285,7 +286,7 @@ For more information, go to www.accordhealthcare.us or call Accord Healthcare In
 
 What are the ingredients in quetiapine tablets?
 
-Active ingredient: quetiapine
+Active ingredient: quetiapine fumarate
 
 Inactive ingredients: povidone, dibasic calcium phosphate dihydrate, microcrystalline cellulose, sodium starch glycolate, lactose monohydrate, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
 The 25 mg tablets contain iron oxide red and yellow.
@@ -301,6 +302,6 @@ Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
 
-10 0210 0 665616
+10 0210 1 674302
 
-Issued July 2016
+Issued March 2017

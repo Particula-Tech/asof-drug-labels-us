@@ -9,7 +9,7 @@ Quetiapine potentiated the cognitive and motor effects of alcohol in a clinical 
 Quetiapine exposure is increased by the prototype CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.) and decreased by the prototype CYP3A4 inducers (e.g, phenytoin, carbamazepine, rifampin, avasimibe, St. John’s wort etc.). Dose adjustment of quetiapine will be necessary if it is co-administered with potent CYP3A4 inducers or inhibitors.
 
 CYP3A4 inhibitors: Coadministration of ketoconazole, a potent inhibitor of cytochrome CYP3A4, resulted in significant increase in quetiapine exposure.
-The dose of quetiapine should be reduced to one sixth of the original dose if coadministered with a strong CYP3A4 inhibitor [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+The dose of quetiapine should be reduced to one sixth of the original dose if co-administered with a strong CYP3A4 inhibitor [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 CYP3A4 inducers: Coadministration of quetiapine and phenytoin, a CYP3A4 inducer increased the mean oral clearance of quetiapine by 5-fold.
 Increased doses of quetiapine up to 5-fold may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other known potent CYP3A4 inducers [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].

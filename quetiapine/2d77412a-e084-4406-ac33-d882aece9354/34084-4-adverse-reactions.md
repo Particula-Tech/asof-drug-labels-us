@@ -2,24 +2,25 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Increased mortality in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.1)]
-- Suicidal thoughts and behaviors in adolescents and young adults [see Warnings and Precautions (5.2)]
+- Increased mortality in elderly patients with dementia-related psychosis[see Warnings and Precautions (5.1)]
+- Suicidal thoughts and behaviors in adolescents and young adults[see Warnings and Precautions (5.2)]
 - Cerebrovascular adverse reactions, including stroke in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.3)]
-- Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions (5.4)]
-- Metabolic changes (hyperglycemia, dyslipidemia, weight gain) [see Warnings and Precautions (5.5)]
+- Neuroleptic Malignant Syndrome (NMS)[see Warnings and Precautions (5.4)]
+- Metabolic changes (hyperglycemia, dyslipidemia, weight gain)[see Warnings and Precautions (5.5)]
 - Tardive dyskinesia [see Warnings and Precautions (5.6)]
 - Hypotension [see Warnings and Precautions (5.7)]
-- Increases in blood pressure (children and adolescents) [see Warnings and Precautions (5.8)]
-- Leukopenia, neutropenia and agranulocytosis [see Warnings and Precautions (5.9)]
-- Cataracts [see Warnings and Precautions (5.10)]
-- QT Prolongation [see Warnings and Precautions (5.11)]
-- Seizures [see Warnings and Precautions (5.12)]
-- Hypothyroidism [see Warnings and Precautions (5.13)]
-- Hyperprolactinemia [see Warnings and Precautions (5.14)]
-- Potential for cognitive and motor impairment [see Warnings and Precautions (5.15)]
-- Body temperature regulation [see Warnings and Precautions (5.16)]
-- Dysphagia [see Warnings and Precautions (5.17)]
-- Discontinuation Syndrome [see Warnings and Precautions (5.18)]
+- Falls [see Warnings and Precautions (5.8)]
+- Increases in blood pressure (children and adolescents)[see Warnings and Precautions (5.9)]
+- Leukopenia, neutropenia and agranulocytosis[see Warnings and Precautions (5.10)]
+- Cataracts[see Warnings and Precautions (5.11)]
+- QT Prolongation[see Warnings and Precautions (5.12)]
+- Seizures[see Warnings and Precautions (5.13)]
+- Hypothyroidism[see Warnings and Precautions (5.14)]
+- Hyperprolactinemia [see Warnings and Precautions (5.15)]
+- Potential for cognitive and motor impairment[see Warnings and Precautions (5.16)]
+- Body temperature regulation[see Warnings and Precautions (5.17)]
+- Dysphagia[see Warnings and Precautions (5.18)]
+- Discontinuation Syndrome[see Warnings and Precautions (5.19)]
 
 ## 6.1 Clinical Study Experience
 
@@ -39,7 +40,7 @@ The stated frequencies of adverse reactions represent the proportion of individu
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
 
 Schizophrenia: Overall, there was little difference in the incidence of discontinuation due to adverse reactions (4% for quetiapine vs. 3% for placebo) in a pool of controlled trials.
-However, discontinuations due to somnolence (0.8% quetiapine vs. 0% placebo) and hypotension (0.4% quetiapine vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.7 and 5.18)].
+However, discontinuations due to somnolence (0.8% quetiapine vs. 0% placebo) and hypotension (0.4% quetiapine vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.7 and 5.19)].
 
 Bipolar Disorder:
 
@@ -142,7 +143,7 @@ Table 11: Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trial
 
 | Preferred Term | QUETIAPINE (n=698) | PLACEBO (n=347) |
 | --- | --- | --- |
-| Somnolence Somnolence combines adverse reaction terms somnolence and sedation | 57% | 15% |
+| Somnolence 1 | 57% | 15% |
 | Dry Mouth | 44% | 13% |
 | Dizziness | 18% | 7% |
 | Constipation | 10% | 4% |
@@ -171,9 +172,12 @@ Table 11: Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trial
 | Pain in Extremity | 2% | 1% |
 | Asthenia | 2% | 1% |
 | Balance Disorder | 2% | 1% |
-| Hypoaesthesia | 2% | 1% |
+| Hypoesthesia | 2% | 1% |
 | Dysphagia | 2% | 0% |
 | Restless Legs Syndrome | 2% | 0% |
+
+1.
+Somnolence combines adverse reaction terms somnolence and sedation
 
 Explorations for interactions on the basis of gender, age, and race did not reveal any clinically meaningful differences in the adverse reaction occurrence on the basis of these demographic factors.
 
@@ -211,7 +215,7 @@ Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Control
 | Parkinsonism | 2 | 3.8 | 0 | 0.0 | 1 | 1.9 | 1 | 2.0 | 1 | 1.9 | 4 | 7.8 |
 | Akathisia | 1 | 1.9 | 1 | 2.1 | 0 | 0.0 | 0 | 0.0 | 1 | 1.9 | 4 | 7.8 |
 | Dyskinetic event | 2 | 3.8 | 0 | 0.0 | 0 | 0.0 | 1 | 2.0 | 0 | 0.0 | 0 | 0.0 |
-| Other extraphyrmidal event | 2 | 3.8 | 0 | 0.0 | 3 | 5.8 | 3 | 5.9 | 1 | 1.9 | 4 | 7.8 |
+| Other extrapyramidal event | 2 | 3.8 | 0 | 0.0 | 3 | 5.8 | 3 | 5.9 | 1 | 1.9 | 4 | 7.8 |
 
 Parkinsonism incidence rates as measured by the Simpson-Angus total score for placebo and the five fixed doses (75, 150, 300, 600, 750 mg/day) were: -0.6; -1.0, -1.2; -1.6; -1.8 and -1.8.
 The rate of anticholinergic medication use to treat emergent EPS for placebo and the five fixed doses was: 14%; 11%; 10%; 8%; 12% and 11%.
@@ -245,7 +249,7 @@ In bipolar mania therapy (up to 3 weeks) the most commonly observed adverse reac
 
 In an acute (8-week) quetiapine extended release trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of quetiapine extended release (incidence of 5% or greater and at least twice that for placebo) were dizziness 7%, diarrhea 5%, fatigue 5% and nausea 5%.
 
-Adverse Reactions Occurring at an Incidence of ≥ 2% Among Quetiapine Treated Patients in Short-Term, Placebo-Controlled Trials Schizophrenia (Adolescents, 13 to 17 years old)
+Adverse Reactions Occurring at an Incidence of ≥ 2% among Quetiapine Treated Patients in Short-Term, Placebo-Controlled Trials Schizophrenia (Adolescents, 13 to 17 years old)
 
 The following findings were based on a 6-week placebo-controlled trial in which quetiapine was administered in either doses of 400 or 800 mg/day.
 
@@ -265,7 +269,7 @@ Table 13: Adverse Reaction Incidence in a 6-Week Placebo-Controlled Clinical Tri
 | Arthralgia | 1% | 3% | 0% |
 | Asthenia | 1% | 3% | 1% |
 | Back Pain | 1% | 3% | 0% |
-| Dyspnoea | 0% | 3% | 0% |
+| Dyspnea | 0% | 3% | 0% |
 | Abdominal Pain | 3% | 1% | 0% |
 | Anorexia | 3% | 1% | 0% |
 | Tooth Abscess | 3% | 1% | 0% |
@@ -336,7 +340,7 @@ Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Place
 | Parkinsonism | 4 | 5.5 | 4 | 5.4 | 8 | 5.4 | 2 | 2.7 |
 | Akathisia | 3 | 4.1 | 4 | 5.4 | 7 | 4.8 | 3 | 4.0 |
 | Dyskinetic event | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 | 0 | 0.0 |
-| Other Extrapyramidal Event | 2 | 2.7 | 2 | 2.7 | 4 | 2.7 | 0 | 0.0 |
+| Other Extrapyramidal event | 2 | 2.7 | 2 | 2.7 | 4 | 2.7 | 0 | 0.0 |
 
 Table 16 presents a listing of patients with adverse reactions associated with extrapyramidal symptoms in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration).
 
@@ -347,7 +351,7 @@ Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo
 |  | n | % | n | % | n | % | n | % |
 | Parkinsonism | 2 | 2.1 | 1 | 1.0 | 3 | 1.6 | 1 | 1.1 |
 | Akathisia | 1 | 1.0 | 1 | 1.0 | 2 | 1.0 | 0 | 0.0 |
-| OtherExtrapyramidal Event | 1 | 1.1 | 1 | 1.0 | 2 | 1.0 | 0 | 0.0 |
+| OtherExtrapyramidal event | 1 | 1.1 | 1 | 1.0 | 2 | 1.0 | 0 | 0.0 |
 
 Other Adverse Reactions Observed During the Pre-Marketing Evaluation of Quetiapine
 
@@ -357,7 +361,7 @@ It is important to emphasize that, although the reactions reported occurred duri
 
 Reactions are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing); infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
 
-Nervous System: Infrequent: abnormal dreams, dyskinesia, thinking abnormal, tardive dyskinesia, vertigo, involuntary movements, confusion, amnesia, psychosis, hallucinations, hyperkinesia, libido increased adjusted for gender, urinary retention, incoordination, paranoid reaction, abnormal gait, myoclonus, delusions, manic reaction, apathy, ataxia, depersonalization, stupor, bruxism, catatonic reaction, hemiplegia; Rare: aphasia, buccoglossal syndrome, choreoathetosis, delirium, emotional lability, euphoria, libido decreased*, neuralgia, stuttering, subdural hematoma.
+Nervous System: Infrequent: abnormal dreams, dyskinesia, thinking abnormal, tardive dyskinesia, vertigo, involuntary movements, confusion, amnesia, psychosis, hallucinations, hyperkinesia, libido increased adjusted for gender, urinary retention, incoordination, paranoid reaction, abnormal gait, myoclonus, delusions, manic reaction, apathy, ataxia, depersonalization, stupor, bruxism, catatonic reaction, hemiplegia; Rare: aphasia, buccoglossal syndrome, choreoathetosis, delirium, emotional lability, euphoria, libido decreased, neuralgia, stuttering, subdural hematoma.
 
 Body as a Whole: Frequent: flu syndrome; Infrequent: neck pain, pelvic pain, suicide attempt, malaise, photosensitivity reaction, chills, face edema, moniliasis; Rare: abdomen enlarged.
 
@@ -367,7 +371,7 @@ Cardiovascular System: Infrequent: vasodilatation, QT interval prolonged, migrai
 
 Respiratory System: Frequent: cough increased, dyspnea; Infrequent: pneumonia, epistaxis, asthma; Rare: hiccup, hyperventilation.
 
-Metabolic and Nutritional System: Infrequent: weight loss, alkaline phosphatase increased, hyperlipemia, alcohol intolerance, dehydration, hyperglycemia, creatinine increased, hypoglycemia; Rare: glycosuria, gout, hand edema, hypokalemia, water intoxication.
+Metabolic and Nutritional System: Infrequent: weight loss, alkaline phosphatase increased, hyperlipidemia, alcohol intolerance, dehydration, hyperglycemia, creatinine increased, hypoglycemia; Rare: glycosuria, gout, hand edema, hypokalemia, water intoxication.
 
 Skin and Appendages System: Infrequent: pruritus, acne, eczema, contact dermatitis, maculopapular rash, seborrhea, skin ulcer; Rare: exfoliative dermatitis, psoriasis, skin discoloration.
 
@@ -386,7 +390,7 @@ Laboratory, ECG and vital sign changes observed in clinical studies Laboratory C
 Neutrophil Counts
 
 Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 10 9/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo.
-[see Warnings and Precautions (5.9)].
+[see Warnings and Precautions (5.10)].
 
 Transaminase Elevations
 
@@ -427,7 +431,7 @@ Mean increases in heart rate were 12.8 bpm and 13.4 bpm for quetiapine 400 mg an
 In an acute (8-week) quetiapine extended release trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (> 110 bpm 10 to 12 years and 13 to 17 years) occurred in 0% of patients receiving quetiapine extended release and 1.2% of patients receiving placebo.
 Mean increases in heart rate were 3.4 bpm for quetiapine extended release, compared to 0.3 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions were identified during post approval of quetiapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
