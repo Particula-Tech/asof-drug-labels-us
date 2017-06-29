@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA207482"
+  ],
+  "inn": "doxepin",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1166-1",
+    "69238-1166-3",
+    "69238-1166-9",
+    "69238-1170-1",
+    "69238-1170-3",
+    "69238-1170-9",
+    "69238-1171-1",
+    "69238-1171-3",
+    "69238-1171-9",
+    "69238-1172-1",
+    "69238-1172-3",
+    "69238-1172-9",
+    "69238-1173-1",
+    "69238-1173-3",
+    "69238-1173-9"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "doxepin hydrochloride",
+      "name": "Doxepin Hydrochloride"
+    }
+  ],
+  "setid": "20bfb8af-7933-4e5c-a2b5-010659d9125b",
+  "source": "dailymed"
+}
