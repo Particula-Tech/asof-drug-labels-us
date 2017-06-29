@@ -69,7 +69,7 @@ Across the PsA and AS populations, no meaningful differences in clinical efficac
 The RA trial in MTX-experienced and TNF-blocker-naïve patients (Trial RA-2) did show evidence of a reduction in clinical efficacy with increasing body weight, but this effect was observed for both tested doses of SIMPONI (50 mg and 100 mg).
 There is no need to adjust the dosage of SIMPONI based on a patient's weight.
 
-Special Populations
+Specific Populations
 
 Population PK analyses suggested no PK differences between male and female patients after body-weight adjustment in the RA, PsA and UC trials.
 In the AS trial, female patients showed 13% higher apparent clearance than male patients after body-weight adjustment.

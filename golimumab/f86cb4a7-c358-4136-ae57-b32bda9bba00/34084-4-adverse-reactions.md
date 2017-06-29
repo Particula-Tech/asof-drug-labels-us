@@ -74,7 +74,7 @@ The small number of patients positive for antibodies to SIMPONI limits the abili
 
 The data above reflect the percentage of patients whose test results were considered positive for antibodies to SIMPONI in an ELISA assay, and are highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody positivity in an assay may be influenced by several factors including sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to SIMPONI with the incidence of antibodies to other products may be misleading.
+For these reasons, comparison of the incidence of antibodies to SIMPONI with the incidence of antibodies to other products or results from different assays may be misleading.
 
 Other Adverse Reactions
 
