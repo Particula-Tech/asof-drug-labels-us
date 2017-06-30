@@ -2,31 +2,31 @@ MEDICATION GUIDE SUBOXONE® (Sub‐OX‐own) (buprenorphine and naloxone)
 
 Sublingual Film for sublingual or buccal administration (CIII)
 
-| IMPORTANT: Keep SUBOXONE in a secure place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally uses SUBOXONE, get emergency help right away. |
+| IMPORTANT: Keep SUBOXONE in a secure place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally uses SUBOXONE sublingual film, get emergency help right away. |
 | --- |
 
-Read this Medication Guide that comes with SUBOXONE before you start taking it and each time you get a refill.
+Read this Medication Guide that comes with SUBOXONE (buprenorphine and naloxone) sublingual film before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor.
-Talk to your doctor or pharmacist if you have questions about SUBOXONE.
+Talk to your doctor or pharmacist if you have questions about SUBOXONE sublingual film.
 
 Share the important information in this Medication Guide with members of your household.
 
-What is the most important information I should know about SUBOXONE?
+What is the most important information I should know about SUBOXONE sublingual film?
 
 - SUBOXONE can cause serious and life‐threatening breathing problems.
   Call your doctor right away or get emergency help if:These can be signs of an overdose or other serious problems.
   - You feel faint, dizzy, or confused
   - Your breathing gets much slower than is normal for you
-- Do not switch from SUBOXONE to other medicines that contain buprenorphine without talking with your doctor.
-  The amount of buprenorphine in a dose of SUBOXONE is not the same as the amount of buprenorphine in other medicines that contain buprenorphine.
-  Your doctor will prescribe a starting dose of SUBOXONE that may be different than other buprenorphine containing medicines you may have been taking.
-- SUBOXONE contains an opioid that can cause physical dependence.
-  - Do not stop taking SUBOXONE without talking to your doctor.
+- Do not switch from SUBOXONE sublingual film to other medicines that contain buprenorphine without talking with your doctor.
+  The amount of buprenorphine in a dose of SUBOXONE sublingual film is not the same as the amount of buprenorphine in other medicines that contain buprenorphine.
+  Your doctor will prescribe a starting dose of SUBOXONE sublingual film that may be different than other buprenorphine containing medicines you may have been taking.
+- SUBOXONE sublingual film contains an opioid that can cause physical dependence.
+  - Do not stop taking SUBOXONE sublingual film without talking to your doctor.
     You could become sick with uncomfortable withdrawal signs and symptoms because your body has become used to this medicine.
   - Physical dependence is not the same as drug addiction.
-  - SUBOXONE is not for occasional or “as needed” use.
-- An overdose and even death can happen if you take benzodiazepines, sedatives, tranquilizers, antidepressants, or alcohol while using SUBOXONE.
+  - SUBOXONE sublingual film is not for occasional or “as needed” use.
+- An overdose and even death can happen if you take benzodiazepines, sedatives, tranquilizers, antidepressants, or alcohol while using SUBOXONE sublingual film.
   Ask your doctor what you should do if you are taking one of these.
 - Call a doctor or get emergency help right away if you:
   - Feel sleepy and uncoordinated
@@ -34,28 +34,28 @@ What is the most important information I should know about SUBOXONE?
   - Have slurred speech
   - Cannot think well or clearly
   - Have slowed reflexes and breathing
-- Do not inject (“shoot‐up”) SUBOXONE.
+- Do not inject (“shoot‐up”) SUBOXONE sublingual film.
   - Injecting SUBOXONE may cause life‐threatening infections and other serious health problems.
   - Injecting SUBOXONE may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems, and cravings.
-- In an emergency, have family members tell emergency department staff that you are physically dependent on an opioid and are being treated with SUBOXONE.
+- In an emergency, have family members tell emergency department staff that you are physically dependent on an opioid and are being treated with SUBOXONE sublingual film.
 
 What is SUBOXONE?
 
-- SUBOXONE is a prescription medicine used to treat adults who are addicted to (dependent on) opioid drugs (either prescription or illegal) as part of a complete treatment program that also includes counseling and behavioral therapy.
-  SUBOXONE is a controlled substance (CIII) because it contains buprenorphine, which can be a target for people who abuse prescription medicines or street drugs.
-  Keep your SUBOXONE in a safe place to protect it from theft.
-  Never give your SUBOXONE to anyone else; it can cause death or harm them.
+- SUBOXONE sublingual film is a prescription medicine used to treat adults who are addicted to (dependent on) opioid drugs (either prescription or illegal) as part of a complete treatment program that also includes counseling and behavioral therapy.
+  SUBOXONE sublingual film is a controlled substance (CIII) because it contains buprenorphine, which can be a target for people who abuse prescription medicines or street drugs.
+  Keep your SUBOXONE sublingual film in a safe place to protect it from theft.
+  Never give your SUBOXONE sublingual film to anyone else; it can cause death or harm them.
   Selling or giving away this medicine is against the law.
-- It is not known if SUBOXONE is safe or effective in children.
+- It is not known if SUBOXONE sublingual film is safe or effective in children.
 
-Who should not take SUBOXONE?
+Who should not take SUBOXONE sublingual film?
 
-Do not take SUBOXONE if you are allergic to buprenorphine or naloxone.
+Do not take SUBOXONE sublingual film if you are allergic to buprenorphine or naloxone.
 
-What should I tell my doctor before taking SUBOXONE?
+What should I tell my doctor before taking SUBOXONE sublingual film?
 
-SUBOXONE may not be right for you.
-Before taking SUBOXONE, tell your doctor if you:
+SUBOXONE sublingual film may not be right for you.
+Before taking SUBOXONE sublingual film, tell your doctor if you:
 
 - Have liver or kidney problems
 - Have trouble breathing or lung problems
@@ -71,38 +71,39 @@ Before taking SUBOXONE, tell your doctor if you:
 - Have mental problems such as hallucinations (seeing or hearing things that are not there)
 - Have any other medical condition
 - Are pregnant or plan to become pregnant.
-  If you take SUBOXONE while pregnant, your baby may have symptoms of opioid withdrawal or respiratory depression at birth.
+  If you take SUBOXONE sublingual film while pregnant, your baby may have signs of opioid withdrawal at birth.
+  Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy.
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - Are breastfeeding or plan to breastfeed.
-  SUBOXONE can pass into your milk and may harm your baby.
-  Talk to your doctor about the best way to feed your baby if you take SUBOXONE.
+  SUBOXONE sublingual film can pass into your milk and may harm your baby.
+  Talk to your doctor about the best way to feed your baby if you take SUBOXONE sublingual film.
   Monitor your baby for increased sleepiness and breathing problems.
 
 Tell your doctor about all the medicines you take, including prescription and over‐the‐ counter medicines, vitamins, and herbal supplements.
-SUBOXONE may affect the way other medicines work, and other medicines may affect how SUBOXONE works.
-Some medicines may cause serious or life‐threatening medical problems when taken with SUBOXONE.
+SUBOXONE sublingual film may affect the way other medicines work, and other medicines may affect how SUB`OXONE sublingual film works.
+Some medicines may cause serious or life?threatening medical problems when taken with SUBOXONE sublingual film.
 
-Sometimes the doses of certain medicines and SUBOXONE may need to be changed if used together.
+Sometimes the doses of certain medicines and SUBOXONE sublingual film may need to be changed if used together.
 Do not take any medicine while using SUBOXONE until you have talked with your doctor.
-Your doctor will tell you if it is safe to take other medicines while you are taking SUBOXONE.
+Your doctor will tell you if it is safe to take other medicines while you are taking SUBOXONE sublingual film.
 
 Be especially careful about taking other medicines that may make you sleepy, such as pain medicines, tranquilizers, antidepressant medicines, sleeping pills, anxiety medicines or antihistamines.
 
 Know the medicines you take.
 Keep a list of them to show your doctor or pharmacist each time you get a new medicine.
 
-How should I take SUBOXONE?
+How should I take SUBOXONE sublingual film?
 
-- Always take SUBOXONE exactly as your doctor tells you.
+- Always take SUBOXONE sublingual film exactly as your doctor tells you.
   Your doctor may change your dose after seeing how it affects you.
   Do not change your dose unless your doctor tells you to change it.
-- Do not take SUBOXONE more often than prescribed by your doctor.
-- Take SUBOXONE 1 time a day.
+- Do not take SUBOXONE sublingual film more often than prescribed by your doctor.
+- Take SUBOXONE sublingual film 1 time a day.
 - When you are beginning treatment, take SUBOXONE sublingual film only under the tongue (sublingual administration).
 - After a few days, you can choose whether you will take SUBOXONE film on the inside of your cheek (buccal administration) or by sublingual administration.
 - SUBOXONE sublingual film must be taken whole.
   Do not cut, chew, or swallow SUBOXONE sublingual film.
-- Your doctor should show you how to take SUBOXONE the right way.
+- Your doctor should show you how to take SUBOXONE sublingual film the right way.
 - Each SUBOXONE sublingual film comes in a sealed child‐resistant foil pouch.
   Do not open the foil pouch until you are ready to use it.
 
@@ -131,26 +132,26 @@ To take SUBOXONE sublingual film on the inside of your cheek (buccal administrat
   - If your doctor tells you to take a third film, place it on the inside of your right or left cheek after the first 2 films have dissolved.
 - While SUBOXONE sublingual film is dissolving, do not chew or swallow the film because the medicine will not work as well.
 - Talking while the film is dissolving can affect how well the medicine in SUBOXONE sublingual film is absorbed.
-- If you miss a dose of SUBOXONE, take your medicine when you remember.
+- If you miss a dose of SUBOXONE sublingual film, take your medicine when you remember.
   If it is almost time for your next dose, skip the missed dose and take the next dose at your regular time.
   Do not take 2 doses at the same time unless your doctor tells you to.
   If you are not sure about your dosing, call your doctor.
-- Do not stop taking SUBOXONE suddenly.
+- Do not stop taking SUBOXONE sublingual film suddenly.
   You could become sick and have withdrawal symptoms because your body has become used to the medicine.
   Physical dependence is not the same as drug addiction.
   Your doctor can tell you more about the differences between physical dependence and drug addiction.
   To have fewer withdrawal symptoms, ask your doctor how to stop using SUBOXONE the right way.
-- If you take too much SUBOXONE or overdose, call Poison Control or get emergency medical help right away.
+- If you take too much SUBOXONE sublingual film or overdose, call Poison Control or get emergency medical help right away.
 
-What should I avoid while taking SUBOXONE?
+What should I avoid while taking SUBOXONE sublingual film?
 
 - Do not drive, operate heavy machinery, or perform any other dangerous activities until you know how this medication affects you.
   Buprenorphine can cause drowsiness and slow reaction times.
-  This may happen more often in the first few weeks of treatment when your dose is being changed, but can also happen if you drink alcohol or take other sedative drugs when you take SUBOXONE.
-- You should not drink alcohol while using SUBOXONE, as this can lead to loss of consciousness or even death.
+  This may happen more often in the first few weeks of treatment when your dose is being changed, but can also happen if you drink alcohol or take other sedative drugs when you take SUBOXONE sublingual film.
+- You should not drink alcohol while using SUBOXONE sublingual film, as this can lead to loss of consciousness or even death.
 
-What are the possible side effects of SUBOXONE?
-SUBOXONE can cause serious side effects, including:
+What are the possible side effects of SUBOXONE sublingual film?
+SUBOXONE sublingual film can cause serious side effects, including:
 
 - See “What is the most important information I should know about SUBOXONE?”
 - Respiratory problems.
@@ -159,7 +160,7 @@ SUBOXONE can cause serious side effects, including:
 - Dependency or abuse
 - Liver problems.
   Call your doctor right away if you notice any of these signs of liver problems: Your skin or the white part of your eyes turning yellow (jaundice), urine turning dark, stools turning light in color, you have less of an appetite, or you have stomach (abdominal) pain or nausea.
-  Your doctor should do tests before you start taking and while you take SUBOXONE.
+  Your doctor should do tests before you start taking and while you take SUBOXONE sublingual film.
 - Allergic reaction.
   You may have a rash, hives, swelling of the face, wheezing, or a loss of blood pressure and consciousness.
   Call a doctor or get emergency help right away.
@@ -169,7 +170,7 @@ SUBOXONE can cause serious side effects, including:
 - Decrease in blood pressure.
   You may feel dizzy if you get up too fast from sitting or lying down.
 
-Common side effects of SUBOXONE include:
+Common side effects of SUBOXONE sublingual film include:
 
 - Nausea
 - Vomiting
@@ -192,7 +193,7 @@ Common side effects of SUBOXONE include:
 
 Tell your doctor about any side effect that bothers you or that does not go away.
 
-These are not all the possible side effects of SUBOXONE.
+These are not all the possible side effects of SUBOXONE sublingual film.
 For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
@@ -200,33 +201,33 @@ You may report side effects to FDA at 1‐
 
 800‐FDA‐1088.
 
-How should I store SUBOXONE?
+How should I store SUBOXONE sublingual film?
 
-- Store SUBOXONE at room temperature between 68°F to 77°F (20°C to 25°C).
-- Keep SUBOXONE in a safe place, out of the sight and reach of children.
+- Store SUBOXONE sublingual film sublingual film at room temperature between 68°F to 77°F (20°C to 25°C).
+- Keep SUBOXONE sublingual film in a safe place, out of the sight and reach of children.
 
-How should I dispose of unused SUBOXONE?
+How should I dispose of unused SUBOXONE sublingual film?
 
-- Dispose of unused SUBOXONE as soon as you no longer need them.
+- Dispose of unused SUBOXONE sublingual film as soon as you no longer need them.
 - Unused films should be removed from the foil pouch and flushed down the toilet.
-- Do not flush the SUBOXONE foil pouch down the toilet.
+- Do not flush the SUBOXONE sublingual film foil pouch down the toilet.
 
-If you need help with disposal of SUBOXONE, call 1‐877‐782‐6966.
+If you need help with disposal of SUBOXONE sublingual film, call 1‐877‐782‐6966.
 
-General information about the safe and effective use of SUBOXONE.
+General information about the safe and effective use of SUBOXONE sublingual film.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not take SUBOXONE for a condition for which it was not prescribed.
-Do not give SUBOXONE to other people, even if they have the same symptoms you have.
+Do not take SUBOXONE sublingual film for a condition for which it was not prescribed.
+Do not give SUBOXONE sublingual film to other people, even if they have the same symptoms you have.
 It may harm them and it is against the law.
 
-This Medication Guide summarizes the most important information about SUBOXONE.
+This Medication Guide summarizes the most important information about SUBOXONE sublingual film.
 If you would like more information, talk to your doctor or pharmacist.
 You can ask your doctor or pharmacist for information that is written for health professionals.
 
 For more information call 1‐877‐782‐6966.
 
-What are the ingredients in SUBOXONE?
+What are the ingredients in SUBOXONE sublingual film?
 
 Active ingredients: buprenorphine and naloxone.
 
@@ -239,6 +240,6 @@ Distributed by: Indivior Inc. Richmond, VA 23235
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 SUBOXONE® is a registered trademark of Indivior UK Limited
 
-Revised: December 2016
+Revised: 02 2017
 
 Copyright © 2016 Indivior Inc. Printed in USA
