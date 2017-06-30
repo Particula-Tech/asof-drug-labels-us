@@ -44,7 +44,7 @@ There were no effects in an in vivo mouse micronucleus assay at 600 mg/kg and in
 No effects on fertility were observed in rats receiving up to 320 mg/kg/day.
 The oligospermia and infertility in men associated with sulfasalazine has very rarely been reported among patients treated with mesalamine.
 
-## Pregnancy (Category B)
+## Pregnancy
 
 Teratologic studies have been performed in rats and rabbits at oral doses up to five and eight times respectively, the maximum recommended human dose, and have revealed no evidence of harm to the embryo or the fetus.
 There are, however, no adequate and well-controlled studies in pregnant women for either sulfasalazine or 5-ASA.

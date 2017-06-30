@@ -28,8 +28,8 @@ Take care in choosing a suitable location for administration of this product.
 
 Rx only
 
-IN-003606-01 Rev.
-6/2013
+IN-003606-02 Rev.
+6/2017
 
 Distributed by:
 
@@ -37,7 +37,7 @@ MEDA PHARMACEUTICALS®
 
 Somerset, New Jersey 08873-4120
 
-©2013 Meda Pharmaceuticals Inc.
+©2017 Meda Pharmaceuticals Inc.
 
 MEDA PHARMACEUTICALS and ROWASA are registered trademarks of Meda AB or a related entity.
 
