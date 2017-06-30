@@ -256,27 +256,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 # PRINCIPAL DISPLAY PANEL: 10 x 100 mg Syringe Carton
 
-ENOXAPARIN SODIUM INJECTION
-
-100 mg / mL
-
-NDC 0548-5605-00
-
-1 mL Syringe
-
-Rx ONLY
-
-FOR SUBCUTANEOUS INJECTION
-
-10 x 100 mg Single Dose Syringes with Automatic Safety Device
-
-AMPHASTAR PHARMACEUTICALS, INC.
-
-Rancho Cucamonga, CA 91730, U.S.A.
-
-Made in U.S.A.
-
-© 2008
+ENOXAPARIN SODIUM INJECTION 100 mg / mL NDC 0548-5605-00 1 mL Syringe Rx ONLY FOR SUBCUTANEOUS INJECTION 10 x 100 mg Single Dose Syringes with Automatic Safety Device AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A. Made in U.S.A. © 2008
 
 # PRINCIPLE DISPLAY PANEL: 100 mg/mL Peel Lid
 
