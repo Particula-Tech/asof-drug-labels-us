@@ -23,7 +23,7 @@ Advise protection from sun exposure and monitor for the development of secondary
 
 Based on the mechanism of action and findings in animals, HYDREA can cause fetal harm when administered to a pregnant woman.
 Hydroxyurea was embryotoxic and teratogenic in rats and rabbits at doses 0.8 times and 0.3 times, respectively, the maximum recommended human daily dose on a mg/m2 basis.
-Advise pregnant women of the potential risk to a fetus [see Use in Specific Populations (8.1)].
+Advise pregnant women of the potential risk to a fetus [see Use in Specific Populations(8.1)].
 
 Advise females of reproductive potential to use effective contraception during and after treatment with HYDREA for at least 6 months after therapy.
 Advise males of reproductive potential to use effective contraception during and after treatment with HYDREA for at least 1 year after therapy [see Use in Specific Populations (8.1, 8.3)].
@@ -48,7 +48,7 @@ Pancreatitis, hepatotoxicity, and peripheral neuropathy have occurred when hydro
 
 ## 5.7 Radiation Recall
 
-Patients who have received irradiation therapy in the past may have an exacerbation of postirradiation erythema.
+Patients who have received irradiation therapy in the past may have an exacerbation of post irradiation erythema.
 Monitor for skin erythema in patients who previously received radiation and manage symptomatically.
 
 ## 5.8 Macrocytosis
