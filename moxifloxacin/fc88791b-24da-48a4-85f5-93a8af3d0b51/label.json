@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021598"
+  ],
+  "inn": "moxifloxacin",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-7135-93"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "moxifloxacin hydrochloride",
+      "name": "Moxifloxacin Ophthalmic Solution"
+    }
+  ],
+  "setid": "fc88791b-24da-48a4-85f5-93a8af3d0b51",
+  "source": "dailymed"
+}
