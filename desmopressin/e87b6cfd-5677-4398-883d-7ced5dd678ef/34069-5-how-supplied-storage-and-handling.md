@@ -19,3 +19,13 @@ Avoid exposure to excessive heat or light.
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+
+Manufactured for:
+
+Heritage Pharmaceuticals Inc.
+
+Eatontown, NJ 07724
+
+1.866.901.DRUG (3784)
+
+Revised: 05/2014

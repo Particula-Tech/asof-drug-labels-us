@@ -73,10 +73,9 @@ Patients were evaluated over a two-week baseline period in which the average num
 Patients were then randomized to receive 0.2, 0.4, or 0.6 mg of desmopressin acetate or placebo.
 The pooled results after two weeks are shown in the following table:
 
-Response to Desmopressin Acetate and Placebo at Two Weeks of Treatment Mean (SE) Number of Wet Nights/2 Weeks
-
-|  | Placebo (n = 85) | 0.2 mg/day (n = 79) | 0.4 mg/day (n = 82) | 0.6 mg/day (n = 83) |
+| Response to Desmopressin Acetate and Placebo at Two Weeks of Treatment Mean (SE) Number of Wet Nights/2 Weeks |  |  |  |  |
 | --- | --- | --- | --- | --- |
+|  | Placebo (n = 85) | 0.2 mg/day (n = 79) | 0.4 mg/day (n = 82) | 0.6 mg/day (n = 83) |
 | Baseline | 10 (0.3) | 11 (0.3) | 10 (0.3) | 10 (0.3) |
 | Reduction from Baseline | 1 (0.3) | 3 (0.4) | 3 (0.4) | 4 (0.4) |
 | Percent Reduction from Baseline | 10% | 27% | 30% | 40% |
