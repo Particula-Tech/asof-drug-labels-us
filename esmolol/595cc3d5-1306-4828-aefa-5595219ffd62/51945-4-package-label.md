@@ -1,7 +1,5 @@
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL
 
-Container Label
-
 LOT EXP
 
 NDC 10019-075-87
@@ -28,9 +26,7 @@ Baxter DEERFIELD, IL 60015 USA MADE IN USA
 
 460-324-01 2J1413
 
-Carton Label
-
-10 x 100 mL Single Use IntraVia containers
+10 x 100 mL Single Use INTRAVIA containers
 
 NDC 10019-075-87
 
@@ -44,61 +40,21 @@ Excursions permitted to 15°-30°C (59°-86°F).
 PROTECT FROM FREEZING.
 Avoid excessive heat.
 
-Rx only
-
-Baxter Healthcare Corporation Deerfield, IL 60015 USA
-
-Made in USA
-
-475-345-00 07-06-35-706
-
-Code 2J1413
-
-LOT EXP
-
-For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
+2D DATA MATRIX BAR CODE PLACEMENT ONLY
 
 Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
 
-BARCODE PLACEMENT ONLY (01)50310019075872(30)0010
+(01)50310019075872 (21)NNNNNNNNN (17)YYMMDD (10)XXXXXXX
 
-10 x 100 mL Single Use IntraVia containers
+Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in USA 475-345-00 07-06-35-706
 
-NDC 10019-075-87
-
-Brevibloc DOUBLE STRENGTH Premixed Injection
-
-Esmolol Hydrochloride in Sodium Chloride 2,000 mg/100 mL (20 mg/mL)
-
-Store at 25°C (77°F).
-Excursions permitted to 15°-30°C (59°-86°F).
-[See USP Controlled Room Temperature.]
-PROTECT FROM FREEZING.
-Avoid excessive heat.
+EXP LOT
 
 Rx only
 
-Baxter Healthcare Corporation Deerfield, IL 60015 USA
+Code 2J1413 For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
 
-Made in USA
-
-475-345-00 07-06-35-706
-
-Code 2J1413
-
-LOT EXP
-
-For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
-
-Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
-
-BARCODE PLACEMENT ONLY * (17)YYMM00(10)XXXXXXX
-
-BARCODE PLACEMENT ONLY (01)50310019075872(30)0010
-
-07-06-35-706
-
-Container Label
+BARCODE PLACEMENT ONLY (01)50310019075872(21)NNNNNNNNNNNNNNNNNNNN(17)YYMMMDD(10) XXXXXXXXX
 
 LOT EXP
 
@@ -128,9 +84,7 @@ INTRAVIA CONTAINER 460-327-02 2J1415
 
 FOR PRODUCT INQUIRY 1 800 ANA DRUG (1-800-262-3784)
 
-Carton Label
-
-10 x 250 mL Single Use IntraVia containers
+10 x 250 mL Single Use INTRAVIA containers
 
 NDC 10019-055-61
 
@@ -144,59 +98,23 @@ Excursions permitted to 15°-30°C (59°-86°F).
 PROTECT FROM FREEZING.
 Avoid excessive heat.
 
-Rx only
-
-Baxter Healthcare Corporation Deerfield, IL 60015 USA
-
-Made in USA
-
-475-344-00 07-6-35-707
-
-Code 2J1415
-
-LOT EXP
-
-For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
+2D DATA MATRIX BAR CODE PLACEMENT ONLY
 
 Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
 
-BARCODE PLACEMENT ONLY (01)50310019055614(30)0010
+(01)50310019055614 (21)NNNNNNNNN (17)YYMMDD (10)XXXXXXX
 
-10 x 250 mL Single Use IntraVia containers
+Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in USA 475-344-00 07-06-75-367
 
-NDC 10019-055-61
-
-Brevibloc Premixed Injection
-
-Esmolol Hydrochloride in Sodium Chloride 2,500 mg/250 mL (10 mg/mL)
-
-Store at 25°C (77°F).
-Excursions permitted to 15°-30°C (59°-86°F).
-[See USP Controlled Room Temperature.]
-PROTECT FROM FREEZING.
-Avoid excessive heat.
+EXP LOT
 
 Rx only
 
-Baxter Healthcare Corporation Deerfield, IL 60015 USA
+Code 2J1415 For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
 
-Made in USA
+BAR CODE PLACEMENT ONLY
 
-475-344-00 07-6-35-707
-
-Code 2J1415
-
-LOT EXP
-
-For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
-
-Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
-
-BARCODE PLACEMENT ONLY (17)YYMM00(10)XXXXXXX
-
-BARCODE PLACEMENT ONLY (01)50310019055614(30)0010
-
-Container Label
+(01)50310019055614(21)NNNNNNNNNNNNNNNNNNNN(17)YYMMDD(10)XXXXXXXXX
 
 NDC 10019-115-39
 

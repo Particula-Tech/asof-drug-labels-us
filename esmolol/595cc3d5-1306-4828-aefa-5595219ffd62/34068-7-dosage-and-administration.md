@@ -68,6 +68,8 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 Figure 1: Two-Port INTRAVIA Bag
 
+Figure 1: Two-Port INTRAVIA Bag
+
 - • medications to the bag.
 
 Figure 1: Two-Port INTRAVIA Bag
