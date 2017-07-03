@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA021306"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "Rhodes Pharmaceuticals L.P.",
+  "package_ndcs": [
+    "42858-353-40",
+    "42858-493-40",
+    "42858-586-40",
+    "42858-750-40",
+    "42858-839-40"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "buprenorphine",
+      "name": "Buprenorphine"
+    }
+  ],
+  "setid": "2738feae-316e-426f-971c-5f142ac01b60",
+  "source": "dailymed"
+}
