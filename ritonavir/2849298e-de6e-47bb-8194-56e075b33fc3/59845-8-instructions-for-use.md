@@ -64,6 +64,8 @@ Prepare your dose
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: NORVIR Powder for Oral Suspension is manufactured for: AbbVie Inc., North Chicago, IL 60064 USA.
+Manufactured by: NORVIR Oral Powder is manufactured for: AbbVie Inc., North Chicago, IL 60064 USA.
 
 Issued: June 2017
+
+430135

@@ -10,6 +10,8 @@
 - NORVIR oral powder should be mixed with soft food such as apple sauce or vanilla pudding, or mixed with liquid such as water, chocolate milk, or infant formula [see Dosage and Administration (2.4) and Instructions for Use].
   The bitter aftertaste of NORVIR oral powder may be lessened if administered with food.
 
+Because NORVIR oral solution contains ethanol, it is not recommended for use with polyurethane feeding tubes due to potential incompatibility.
+
 General Dosing Guidelines
 
 Patients who take the 600 mg twice daily soft gel capsule NORVIR dose may experience more gastrointestinal side effects such as nausea, vomiting, abdominal pain or diarrhea when switching from the soft gel capsule to the tablet formulation because of greater maximum plasma concentration (Cmax) achieved with the tablet formulation relative to the soft gel capsule [see Clinical Pharmacology (12.3)].
@@ -26,8 +28,10 @@ The maximum dose of 600 mg twice daily should not be exceeded upon completion of
 
 Pregnant Women
 
-NORVIR oral solution is not recommended during pregnancy due to its alcohol content.
-NORVIR oral solution contains the excipients alcohol (43.2% v/v) and propylene glycol (26.57% w/v) [see Use in Specific Populations (8.1)].
+NORVIR oral solution is not recommended during pregnancy due to its ethanol content.
+NORVIR oral solution contains the excipients ethanol (approx.
+43% v/v) and propylene glycol (approx.
+27% w/v) [see Use in Specific Populations (8.1)].
 
 ## 2.3 Recommended Pediatric Dosage
 
@@ -40,10 +44,12 @@ Pediatric Dosage Guidelines for Oral Solution
 
 NORVIR oral solution should not be administered to neonates before a postmenstrual age (first day of the mother’s last menstrual period to birth plus the time elapsed after birth) of 44 weeks has been attained [see Warnings and Precautions (5.2)].
 
-NORVIR oral solution contains 43.2% (v/v) alcohol and 26.57% (w/v) propylene glycol.
+NORVIR oral solution contains the excipients ethanol (approx.
+43% v/v) and propylene glycol (approx.
+27% w/v).
 Special attention should be given to accurate calculation of the dose of NORVIR, transcription of the medication order, dispensing information and dosing instructions to minimize the risk for medication errors, and overdose.
 This is especially important for young children.
-Total amounts of alcohol and propylene glycol from all medicines that are to be given to pediatric patients 1 to 6 months of age should be taken into account in order to avoid toxicity from these excipients [see Warnings and Precautions (5.2) and Overdosage (10)].
+Total amounts of ethanol and propylene glycol from all medicines that are to be given to pediatric patients 1 to 6 months of age should be taken into account in order to avoid toxicity from these excipients [see Warnings and Precautions (5.2) and Overdosage (10)].
 When possible, dose should be administered using a calibrated dosing syringe.
 
 Table 1.
@@ -73,7 +79,7 @@ When NORVIR oral powder is used as the sole protease inhibitor in a regimen, ref
 
 ## 2.4 Preparation of Norvir Oral Powder
 
-For details on the preparation and administration of NORVIR oral powder, see Instructions for Use.
+For details on the preparation and administration of NORVIR oral powder (see Instructions for Use).
 NORVIR oral powder should only be used for dosing increments of 100 mg.
 
 Prepare the dose using the required number of packets.

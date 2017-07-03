@@ -66,7 +66,7 @@ Advise patients with hemophilia that they may experience increased bleeding when
 
 NORVIR Oral Solution Not Recommended During Pregnancy
 
-Advise pregnant women that use of NORVIR oral solution during pregnancy is not recommended due to its alcohol content [see Dosage and Administration (2.1) and Use in Specific Population (8.1)].
+Advise pregnant women that use of NORVIR oral solution during pregnancy is not recommended due to its ethanol content [see Dosage and Administration (2.1) and Use in Specific Population (8.1)].
 
 Pregnancy Exposure Registry
 
@@ -81,4 +81,4 @@ NORVIR tablets and oral solution are manufactured by: AbbVie Inc. North Chicago,
 NORVIR oral powder is manufactured for: AbbVie Inc. North Chicago, IL 60064 USA
 
 © 2017 AbbVie Inc. All rights reserved.
-03-B533
+03-B561

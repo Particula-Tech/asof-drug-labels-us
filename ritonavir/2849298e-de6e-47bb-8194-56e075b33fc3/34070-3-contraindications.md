@@ -11,6 +11,7 @@ Drugs that are Contraindicated with NORVIR
 | Drug Class | Drugs Within Class That Are Contraindicated With NORVIR** | Clinical Comments |
 | --- | --- | --- |
 | Alpha1-adrenoreceptor antagonist | Alfuzosin HCL | Potential for hypotension. |
+| Antianginal | Ranolazine | Potential for serious and/or life-threatening reactions. |
 | Antiarrhythmic | Amiodarone, dronedarone, flecainide, propafenone, quinidine | Potential for cardiac arrhythmias. |
 | Antifungal | Voriconazole | Voriconazole is contraindicated with ritonavir doses of 400 mg every 12 hours or greater due to the potential for loss of antifungal response. |
 | Anti-gout | Colchicinea | Potential for serious and/or life-threatening reactions in patients with renal and/or hepatic impairment. |

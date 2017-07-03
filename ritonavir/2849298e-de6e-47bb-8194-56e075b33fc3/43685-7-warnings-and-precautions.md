@@ -17,14 +17,16 @@ Consider the potential for drug interactions prior to and during NORVIR therapy;
 
 ## 5.2 Toxicity in Preterm Neonates
 
-NORVIR oral solution contains the excipients alcohol (43.2% v/v) and propylene glycol (26.57% w/v).
+NORVIR oral solution contains the excipients ethanol (approx.
+43% v/v) and propylene glycol (approx.
+27% w/v).
 When administered concomitantly with propylene glycol, ethanol competitively inhibits the metabolism of propylene glycol, which may lead to elevated concentrations.
 Preterm neonates may be at an increased risk of propylene glycol-associated adverse events due to diminished ability to metabolize propylene glycol, thereby leading to accumulation and potential adverse events.
-Postmarketing life-threatening cases of cardiac toxicity (including complete AV block, bradycardia, and cardiomyopathy), lactic acidosis, acute renal failure, CNS depression and respiratory complications leading to death have been reported, predominantly in preterm neonates receiving lopinavir/ritonavir oral solution which also contains the excipients alcohol and propylene glycol.
+Postmarketing life-threatening cases of cardiac toxicity (including complete AV block, bradycardia, and cardiomyopathy), lactic acidosis, acute renal failure, CNS depression and respiratory complications leading to death have been reported, predominantly in preterm neonates receiving lopinavir/ritonavir oral solution which also contains the excipients ethanol and propylene glycol.
 
 NORVIR oral solution should not be used in preterm neonates in the immediate postnatal period because of possible toxicities.
 However, if the benefit of using NORVIR oral solution to treat HIV infection in infants immediately after birth outweighs the potential risks, infants should be monitored closely for increases in serum osmolality and serum creatinine, and for toxicity related to NORVIR oral solution including: hyperosmolality, with or without lactic acidosis, renal toxicity, CNS depression (including stupor, coma, and apnea), seizures, hypotonia, cardiac arrhythmias and ECG changes, and hemolysis.
-Total amounts of alcohol and propylene glycol from all medicines that are to be given to infants should be taken into account in order to avoid toxicity from these excipients [see Dosage and Administration (2.2) and Overdosage (10)].
+Total amounts of ethanol and propylene glycol from all medicines that are to be given to infants should be taken into account in order to avoid toxicity from these excipients [see Dosage and Administration (2.2) and Overdosage (10)].
 
 ## 5.3 Hepatotoxicity
 
