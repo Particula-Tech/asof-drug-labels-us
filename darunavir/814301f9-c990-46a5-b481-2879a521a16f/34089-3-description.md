@@ -11,7 +11,7 @@ Darunavir ethanolate is a white to off-white powder with a solubility of approxi
 PREZISTA 100 mg per mL oral suspension is available as a white to off-white opaque suspension for oral administration.
 
 Each mL of the oral suspension contains darunavir ethanolate equivalent to 100 mg darunavir.
-In addition, each mL contains the inactive ingredients hydroxypropyl cellulose, microcrystalline cellulose, sodium carboxymethylcellulose, methylparaben sodium, citric acid monohydrate, sucralose, masking flavor, strawberry cream flavor, hydrochloric acid (for pH adjustment) and purified water.
+In addition, each mL contains the inactive ingredients citric acid monohydrate, hydrochloric acid (for pH adjustment), hydroxypropyl cellulose, masking flavor, methylparaben sodium, microcrystalline cellulose, purified water, sodium carboxymethylcellulose, strawberry cream flavor and sucralose.
 
 PREZISTA 75 mg tablets are available as white, caplet-shaped, film-coated tablets for oral administration.
 Each 75 mg tablet contains darunavir ethanolate equivalent to 75 mg of darunavir.

@@ -22,11 +22,10 @@ Table 20 compares the demographic and baseline characteristics between subjects 
 
 Table 20: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C211
 
-| PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC N=343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N=346 |  |
+|  | PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC N=343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N=346 |
 | --- | --- | --- |
-|  | Randomized trial TMC114-C211 |  |
 | Demographic characteristics |  |  |
-| Median Age (years) (range, years) | 34 (18–70) | 33 (19–68) |
+| Median age (years) (range, years) | 34 (18–70) | 33 (19–68) |
 | Sex |  |  |
 | Male | 70% | 70% |
 | Female | 30% | 30% |
@@ -36,10 +35,11 @@ Table 20: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C
 | Hispanic | 23% | 22% |
 | Asian | 13% | 11% |
 | Baseline characteristics |  |  |
-| Mean Baseline Plasma HIV-1 RNA (log10 copies/mL) | 4.86 | 4.84 |
-| Median Baseline CD4+ Cell Count (cells/mm3) (range, cells/mm3) | 228 (4–750) | 218 (2–714) |
-| Percentage of Patients with Baseline Viral Load ≥100,000 copies/mL | 34% | 35% |
-| Percentage of Patients with Baseline CD4+ Cell Count <200 cells/mm3 | 41% | 43% |
+| Mean baseline plasma HIV-1 RNA (log10 copies/mL) | 4.86 | 4.84 |
+| Median baseline CD4+ cell count (cells/mm3) (range, cells/mm3) | 228 (4–750) | 218 (2–714) |
+| Percentage of patients with baseline viral load ≥100,000 copies/mL | 34% | 35% |
+| Percentage of patients with baseline CD4+ cell count <200 cells/mm3 | 41% | 43% |
+| FTC=emtricitabine; TDF=tenofovir disoproxil fumarate |  |  |
 
 Week 192 outcomes for subjects on PREZISTA/ritonavir 800/100 mg once daily from trial TMC114-C211 are shown in Table 21.
 
@@ -48,13 +48,13 @@ Table 21: Virologic Outcome of Randomized Treatment of Trial TMC114-C211 at 192 
 |  | PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC N=343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N=346 |
 | --- | --- | --- |
 | Virologic success HIV-1 RNA <50 copies/mL | 70%95% CI: 1.9; 16.1 | 61% |
-| Virologic failureIncludes patients who discontinued prior to Week 192 for lack or loss of efficacy and patients who are ≥50 copies in the 192-week window and patients who had a change in their background regimen that was not permitted by the protocol | 12% | 15% |
-| No virologic data at Week 192 windowWindow 186–198 Weeks |  |  |
+| Virologic failureIncludes patients who discontinued prior to Week 192 for lack or loss of efficacy and patients who are ≥50 copies in the 192-week window and patients who had a change in their background regimen that was not permitted by the protocol. | 12% | 15% |
+| No virologic data at Week 192 windowWindow 186–198 Weeks. |  |  |
 | Reasons |  |  |
-| Discontinued trial due to adverse event or deathIncludes patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window | 5% | 13% |
+| Discontinued trial due to adverse event or deathIncludes patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 5% | 13% |
 | Discontinued trial for other reasonsOther includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was <50 copies/mL | 13% | 12% |
 | Missing data during window but on trial | <1% | 0% |
-| N = total number of subjects with data |  |  |
+| N = total number of subjects with data; FTC=emtricitabine; TDF=tenofovir disoproxil fumarate |  |  |
 
 In trial TMC114-C211 at 192 weeks of treatment, the median increase from baseline in CD4+ cell counts was 258 cells/mm3 in the PREZISTA/ritonavir 800/100 mg once daily arm and 263 cells/mm3 in the lopinavir/ritonavir 800/200 mg per day arm.
 Of the PREZISTA/ritonavir subjects with a confirmed virologic response of <50 copies/mL at Week 48, 81% remained undetectable at Week 192 versus 68% with lopinavir/ritonavir.
@@ -77,11 +77,10 @@ No imbalances between the 2 arms were noted.
 
 Table 22: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C229
 
-| PREZISTA/ritonavir 800/100 mg once daily + OBR N=294 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=296 |  |
+|  | PREZISTA/ritonavir 800/100 mg once daily + OBR N=294 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=296 |
 | --- | --- | --- |
-|  | Randomized trial TMC114-C229 |  |
 | Demographic characteristics |  |  |
-| Median Age (years) (range, years) | 40 (18–70) | 40 (18–77) |
+| Median age (years) (range, years) | 40 (18–70) | 40 (18–77) |
 | Sex |  |  |
 | Male | 61% | 67% |
 | Female | 39% | 33% |
@@ -91,33 +90,33 @@ Table 22: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C
 | Hispanic | 16% | 20% |
 | Asian | 16% | 14% |
 | Baseline characteristics |  |  |
-| Mean Baseline Plasma HIV-1 RNA (log10 copies/mL) | 4.19 | 4.13 |
-| Median Baseline CD4+ Cell Count (cells/mm3) (range, cells/mm3) | 219 (24–1306) | 236 (44–864) |
-| Percentage of Patients with Baseline Viral Load ≥100,000 copies/mL | 13% | 11% |
-| Percentage of Patients with Baseline CD4+ Cell Count <200 cells/mm3 | 43% | 39% |
-| Median Darunavir Fold Change (range)Based on phenotype (Antivirogram®) | 0.50 (0.1–1.8) | 0.50 (0.1–1.9) |
-| Median Number of Resistance-AssociatedJohnson VA, Brun-Vézinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: December 2008. Top HIV Med 2008; 16(5): 138–145: |  |  |
+| Mean baseline plasma HIV-1 RNA (log10 copies/mL) | 4.19 | 4.13 |
+| Median baseline CD4+ cell count (cells/mm3) (range, cells/mm3) | 219 (24–1306) | 236 (44–864) |
+| Percentage of patients with baseline viral load ≥100,000 copies/mL | 13% | 11% |
+| Percentage of patients with baseline CD4+ cell count <200 cells/mm3 | 43% | 39% |
+| Median darunavir fold change (range)Based on phenotype (Antivirogram®) | 0.50 (0.1–1.8) | 0.50 (0.1–1.9) |
+| Median number of resistance-associatedJohnson VA, Brun-Vézinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: December 2008. Top HIV Med 2008; 16(5): 138–145: |  |  |
 | PI mutations | 3 | 4 |
 | NNRTI mutations | 2 | 1 |
 | NRTI mutations | 1 | 1 |
-| Percentage of Subjects Susceptible to All Available PIs at Baseline | 88% | 86% |
-| Percentage of Subjects with Number of Baseline Primary Protease Inhibitor Mutations: |  |  |
+| Percentage of subjects susceptible to all available PIs at baseline | 88% | 86% |
+| Percentage of subjects with number of baseline primary protease inhibitor mutations: |  |  |
 | 0 | 84% | 84% |
 | 1 | 8% | 9% |
 | 2 | 5% | 4% |
 | ≥3 | 3% | 2% |
-| Median Number of ARVs Previously UsedOnly counting ARVs, excluding low-dose ritonavir: |  |  |
+| Median number of ARVs previously usedOnly counting ARVs, excluding low-dose ritonavir: |  |  |
 | NRTIs | 3 | 3 |
 | NNRTIs | 1 | 1 |
 | PIs (excluding low-dose ritonavir) | 1 | 1 |
+| OBR=optimized background regimen |  |  |
 
 Week 48 outcomes for subjects on PREZISTA/ritonavir 800/100 mg once daily from trial TMC114-C229 are shown in Table 23.
 
 Table 23: Virologic Outcome of Randomized Treatment of Trial TMC114-C229 at 48 Weeks
 
-| PREZISTA/ritonavir 800/100 mg once daily + OBR N=294 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=296 |  |
+|  | PREZISTA/ritonavir 800/100 mg once daily + OBR N=294 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=296 |
 | --- | --- | --- |
-|  | Randomized trial TMC114-C229 |  |
 | Virologic success HIV-1 RNA <50 copies/mL | 69% | 69% |
 | Virologic failureIncludes patients who discontinued prior to Week 48 for lack or loss of efficacy, patients who are ≥50 copies in the 48-week window, patients who had a change in their background regimen that was not permitted in the protocol (provided the switch occurred before the earliest onset of an AE leading to permanent stop of trial medication) and patients who discontinued for reasons other than AEs/death and lack or loss of efficacy (provided their last available viral load was detectable (HIV RNA ≥50 copies/mL). | 26% | 23% |
 | No virologic data at Week 48 windowWindow 42–54 Weeks |  |  |
@@ -125,14 +124,14 @@ Table 23: Virologic Outcome of Randomized Treatment of Trial TMC114-C229 at 48 W
 | Discontinued trial due to adverse event or deathPatients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 3% | 4% |
 | Discontinued trial for other reasonsOther includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was <50 copies/mL. | 2% | 3% |
 | Missing data during window but on trial | 0% | <1% |
-| N = total number of subjects with data |  |  |
+| N = total number of subjects with data; OBR=optimized background regimen |  |  |
 
 The mean increase from baseline in CD4+ cell counts was comparable for both treatment arms (108 cells/mm3 and 112 cells/mm3 in the PREZISTA/ritonavir 800/100 mg once daily arm and the PREZISTA/ritonavir 600/100 mg twice daily arm, respectively).
 
 TMC114-C214
 
 TMC114-C214 is a randomized, controlled, open-label Phase 3 trial comparing PREZISTA/ritonavir 600/100 mg twice daily versus lopinavir/ritonavir 400/100 mg twice daily in antiretroviral treatment-experienced, lopinavir/ritonavir-naïve HIV-1-infected adult subjects.
-Both arms used an optimized background regimen (OBR) consisting of at least 2 antiretrovirals (NRTIs with or without NNRTIs).
+Both arms used an optimized background regimen consisting of at least 2 antiretrovirals (NRTIs with or without NNRTIs).
 
 HIV-1-infected subjects who were eligible for this trial had plasma HIV-1 RNA greater than 1000 copies/mL and were on a highly active antiretroviral therapy regimen (HAART) for at least 12 weeks.
 Virologic response was defined as a confirmed plasma HIV-1 RNA viral load less than 400 copies/mL.
@@ -143,11 +142,10 @@ Table 24 compares the demographic and baseline characteristics between subjects 
 
 Table 24: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C214
 
-| PREZISTA/ritonavir 600/100 mg twice daily + OBR N=298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N=297 |  |
+|  | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N=297 |
 | --- | --- | --- |
-|  | Randomized trial TMC114-C214 |  |
 | Demographic characteristics |  |  |
-| Median Age (years) (range, years) | 40 (18–68) | 41 (22–76) |
+| Median age (years) (range, years) | 40 (18–68) | 41 (22–76) |
 | Sex |  |  |
 | Male | 77% | 81% |
 | Female | 23% | 19% |
@@ -157,25 +155,26 @@ Table 24: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C
 | Hispanic | 15% | 15% |
 | Asian | 9% | 9% |
 | Baseline characteristics |  |  |
-| Mean Baseline Plasma HIV-1 RNA (log10 copies/mL) | 4.33 | 4.28 |
-| Median Baseline CD4+ Cell Count (cells/mm3) (range, cells/mm3) | 235 (3–831) | 230 (2–1096) |
-| Percentage of Patients with Baseline Viral Load ≥100,000 copies/mL | 19% | 17% |
-| Percentage of Patients with Baseline CD4+ Cell Count <200 cells/mm3 | 40% | 40% |
-| Median Darunavir Fold Change (range) | 0.60 (0.10–37.40) | 0.60 (0.1–43.8) |
-| Median Lopinavir Fold Change (range) | 0.70 (0.40–74.40) | 0.80 (0.30–74.50) |
-| Median Number of Resistance-AssociatedJohnson VA, Brun-Vezinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: Fall 2006. Top HIV Med 2006; 14(3): 125–130: |  |  |
+| Mean baseline plasma HIV-1 RNA (log10 copies/mL) | 4.33 | 4.28 |
+| Median baseline CD4+ cell count (cells/mm3) (range, cells/mm3) | 235 (3–831) | 230 (2–1096) |
+| Percentage of patients with baseline viral load ≥100,000 copies/mL | 19% | 17% |
+| Percentage of patients with baseline CD4+ cell count <200 cells/mm3 | 40% | 40% |
+| Median darunavir fold change (range) | 0.60 (0.10–37.40) | 0.60 (0.1–43.8) |
+| Median lopinavir fold change (range) | 0.70 (0.40–74.40) | 0.80 (0.30–74.50) |
+| Median number of resistance-associatedJohnson VA, Brun-Vezinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: Fall 2006. Top HIV Med 2006; 14(3): 125–130: |  |  |
 | PI mutations | 4 | 4 |
 | NNRTI mutations | 1 | 1 |
 | NRTI mutations | 2 | 2 |
-| Percentage of Subjects with Number of Baseline Primary Protease Inhibitor Mutations: |  |  |
+| Percentage of subjects with number of baseline primary protease inhibitor mutations: |  |  |
 | ≤1 | 78% | 80% |
 | 2 | 8% | 9% |
 | ≥3 | 13% | 11% |
-| Median Number of ARVs Previously UsedOnly counting ARVs, excluding low-dose ritonavir: |  |  |
+| Median number of ARVs previously usedOnly counting ARVs, excluding low-dose ritonavir: |  |  |
 | NRTIs | 4 | 4 |
 | NNRTIs | 1 | 1 |
 | PIs (excluding low-dose ritonavir) | 1 | 1 |
-| Percentage of Subjects ResistantBased on phenotype (Antivirogram®) to All AvailableCommercially available PIs at the time of trial enrollment PIs at Baseline, excluding Darunavir | 2% | 3% |
+| Percentage of subjects resistantBased on phenotype (Antivirogram®) to all availableCommercially available PIs at the time of trial enrollment PIs at baseline, excluding darunavir | 2% | 3% |
+| OBR=optimized background regimen |  |  |
 
 Week 96 outcomes for subjects on PREZISTA/ritonavir 600/100 mg twice daily from trial TMC114-C214 are shown in Table 25.
 
@@ -190,7 +189,7 @@ Table 25: Virologic Outcome of Randomized Treatment of Trial TMC114-C214 at 96 W
 | Discontinued trial due to adverse event or deathIncludes patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 7% | 8% |
 | Discontinued trial for other reasonsOther includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was <50 copies/mL. | 8% | 7% |
 | Missing data during window but on trial | 1% | <1% |
-| N = total number of subjects with data |  |  |
+| N = total number of subjects with data; OBR=optimized background regimen |  |  |
 
 In trial TMC114-C214 at 96 weeks of treatment, the median increase from baseline in CD4+ cell counts was 81 cells/mm3 in the PREZISTA/ritonavir 600/100 mg twice daily arm and 93 cells/mm3 in the lopinavir/ritonavir 400/100 mg twice daily arm.
 
@@ -213,12 +212,11 @@ Table 26 compares the demographic and baseline characteristics between subjects 
 
 Table 26: Demographic and Baseline Characteristics of Subjects in the Trials TMC114-C213 and TMC114-C202 (Pooled Analysis)
 
-| N=131 | N=124 |  |
+|  | N=131 | N=124 |
 | --- | --- | --- |
-|  | Randomized trials TMC114-C213 and TMC114-C202 |  |
-| PREZISTA/ritonavir 600/100 mg twice daily + OBR | Comparator PI(s) + OBR |  |
+|  | PREZISTA/ritonavir 600/100 mg twice daily + OBR | Comparator PI(s) + OBR |
 | Demographic characteristics |  |  |
-| Median Age (years) (range, years) | 43 (27–73) | 44 (25–65) |
+| Median age (years) (range, years) | 43 (27–73) | 44 (25–65) |
 | Sex |  |  |
 | Male | 89% | 88% |
 | Female | 11% | 12% |
@@ -227,25 +225,26 @@ Table 26: Demographic and Baseline Characteristics of Subjects in the Trials TMC
 | Black | 10% | 15% |
 | Hispanic | 7% | 8% |
 | Baseline characteristics |  |  |
-| Mean Baseline Plasma HIV-1 RNA (log10 copies/mL) | 4.61 | 4.49 |
-| Median Baseline CD4+ Cell Count (cells/mm3) (range, cells/mm3) | 153 (3–776) | 163 (3–1274) |
-| Percentage of Patients with Baseline Viral Load >100,000 copies/mL | 24% | 29% |
-| Percentage of Patients with Baseline CD4+ Cell Count <200 cells/mm3 | 67% | 58% |
-| Median Darunavir Fold Change | 4.3 | 3.3 |
-| Median Number of Resistance-AssociatedJohnson VA, Brun-Vezinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: Fall 2006. Top HIV Med 2006; 14(3): 125–130: |  |  |
+| Mean baseline plasma HIV-1 RNA (log10 copies/mL) | 4.61 | 4.49 |
+| Median baseline CD4+ cell count (cells/mm3) (range, cells/mm3) | 153 (3–776) | 163 (3–1274) |
+| Percentage of patients with baseline viral load >100,000 copies/mL | 24% | 29% |
+| Percentage of patients with baseline CD4+ cell count <200 cells/mm3 | 67% | 58% |
+| Median darunavir fold change | 4.3 | 3.3 |
+| Median number of resistance-associatedJohnson VA, Brun-Vezinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: Fall 2006. Top HIV Med 2006; 14(3): 125–130: |  |  |
 | PI mutations | 12 | 12 |
 | NNRTI mutations | 1 | 1 |
 | NRTI mutations | 5 | 5 |
-| Percentage of Subjects with Number of Baseline Primary Protease Inhibitor Mutations: |  |  |
+| Percentage of subjects with number of baseline primary protease inhibitor mutations: |  |  |
 | ≤1 | 8% | 9% |
 | 2 | 22% | 21% |
 | ≥3 | 70% | 70% |
-| Median Number of ARVs Previously UsedBased on phenotype (Antivirogram®): |  |  |
+| Median number of ARVs previously usedBased on phenotype (Antivirogram®): |  |  |
 | NRTIs | 6 | 6 |
 | NNRTIs | 1 | 1 |
 | PIs (excluding low-dose ritonavir) | 5 | 5 |
-| Percentage of Subjects Resistant to All AvailableCommercially available PIs at the time of trial enrollment PIs at Baseline, excluding Tipranavir and Darunavir | 63% | 61% |
-| Percentage of Subjects with Prior Use of Enfuvirtide | 20% | 17% |
+| Percentage of subjects resistant to all availableCommercially available PIs at the time of trial enrollment PIs at baseline, excluding tipranavir and darunavir | 63% | 61% |
+| Percentage of subjects with prior use of enfuvirtide | 20% | 17% |
+| OBR=optimized background regimen |  |  |
 
 Week 96 outcomes for subjects on the recommended dose PREZISTA/ritonavir 600/100 mg twice daily from the pooled trials TMC114-C213 and TMC114-C202 are shown in Table 27.
 
@@ -255,13 +254,14 @@ Table 27: Outcomes of Randomized Treatment Through Week 96 of the Trials TMC114-
 | --- | --- | --- |
 |  | Randomized trials TMC114-C213 and TMC114-C202 |  |
 | PREZISTA/ritonavir 600/100 mg twice daily + OBR | Comparator PI(s) + OBR |  |
-| Virologic Responders confirmed at least 1 log10 HIV-1 RNA below baseline through Week 96 (<50 copies/mL at Week 96) | 57% (39%) | 10% (9%) |
+| Virologic responders confirmed at least 1 log10 HIV-1 RNA below baseline through Week 96 (<50 copies/mL at Week 96) | 57% (39%) | 10% (9%) |
 | Virologic failures | 29% | 80% |
 | Lack of initial responseSubjects who did not achieve at least a confirmed 0.5 log10 HIV-1 RNA drop from baseline at Week 12 | 8% | 53% |
 | RebounderSubjects with an initial response (confirmed 1 log10 drop in viral load), but without a confirmed 1 log10 drop in viral load at Week 96 | 17% | 19% |
-| Never SuppressedSubjects who never reached a confirmed 1 log10 drop in viral load before Week 96 | 4% | 8% |
+| Never suppressedSubjects who never reached a confirmed 1 log10 drop in viral load before Week 96 | 4% | 8% |
 | Death or discontinuation due to adverse events | 9% | 3% |
 | Discontinuation due to other reasons | 5% | 7% |
+| OBR=optimized background regimen |  |  |
 
 In the pooled trials TMC114-C213 and TMC114-C202 through 48 weeks of treatment, the proportion of subjects with HIV-1 RNA less than 400 copies/mL in the arm receiving PREZISTA/ritonavir 600/100 mg twice daily compared to the comparator PI arm was 55.0% and 14.5%, respectively.
 In addition, the mean changes in plasma HIV-1 RNA from baseline were –1.69 log10 copies/mL in the arm receiving PREZISTA/ritonavir 600/100 mg twice daily and –0.37 log10 copies/mL for the comparator PI arm.

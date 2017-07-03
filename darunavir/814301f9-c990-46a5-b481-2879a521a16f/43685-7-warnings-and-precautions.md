@@ -87,4 +87,4 @@ A causal relationship between PI therapy and these episodes has not been establi
 
 ## 5.10 Not Recommended in Pediatric Patients Below 3 Years of Age
 
-PREZISTA/ritonavir in pediatric patients below 3 years of age is not recommended in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4), and Clinical Pharmacology (12.3)].
+PREZISTA/ritonavir in pediatric patients below 3 years of age is not recommended in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4) and Clinical Pharmacology (12.3)].

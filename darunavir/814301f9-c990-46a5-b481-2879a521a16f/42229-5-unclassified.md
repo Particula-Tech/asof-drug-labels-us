@@ -1,7 +1,6 @@
 Product of Ireland
 
-Manufactured by: PREZISTA oral suspension Janssen Pharmaceutica, N.V.
-Beerse, Belgium
+Manufactured by: PREZISTA oral suspension Janssen Pharmaceutica, NV Beerse, Belgium
 
 PREZISTA tablets Janssen Ortho LLC, Gurabo, PR 00778
 
@@ -9,4 +8,4 @@ Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusv
 
 PREZISTA® is a registered trademark of Janssen Pharmaceuticals.
 
-© Janssen Pharmaceuticals, Inc. 2006
+© 2006 Janssen Pharmaceutical Companies
