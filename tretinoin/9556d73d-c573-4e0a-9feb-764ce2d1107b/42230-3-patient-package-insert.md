@@ -17,7 +17,7 @@ THIS PRODUCT IS TO BE USED ONLY ACCORDING TO YOUR DOCTOR'S INSTRUCTIONS, AND IT 
 THE LONG-TERM SAFETY AND EFFECTIVENESS OF THIS PRODUCT IN OTHER DISORDERS HAVE NOT BEEN EVALUATED.
 IF YOU HAVE ANY QUESTIONS, BE SURE TO ASK YOUR DOCTOR.
 
-WARNING AND PRECAUTIONS
+WARNINGS AND PRECAUTIONS
 
 The effects of the sun on your skin.
 As you know, overexposure to natural sunlight or the artificial sunlight of a sunlamp can cause sunburn.
@@ -78,7 +78,7 @@ Wash your skin gently with a mild, bland soap.
 Two or three times a day should be sufficient.
 Pat skin dry with a towel.
 Let the face dry 20 to 30 minutes before applying RETIN-A.
-Remember, excessive irritation such as rubbing, too much washing, use of other medications not suggested by your physician, etc., may worsen your acne
+Remember, excessive irritation such as rubbing, too much washing, use of other medications not suggested by your physician, etc., may worsen your acne.
 
 HOW TO USE RETIN-A (TRETINOIN)
 
@@ -144,13 +144,15 @@ Eastern Time, Monday through Friday.
 
 Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-By:
+By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
-Valeant Pharmaceuticals International Inc.
+Retin-A is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-Laval, Quebec H7L 4A8, Canada
+©Valeant Pharmaceuticals North America LLC
 
-Made in Canada
+9440901
 
-9400102 Rev.
-01/15
+50105658B
+
+Rev.
+11/16

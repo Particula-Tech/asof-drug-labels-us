@@ -4,15 +4,14 @@ NDC 0187-5160-20
 
 Retin-A® Cream (tretinoin) 0.025%
 
-Contains: Tretinoin 0.025%, stearic acid, isopropyl myristate, polyoxyl 40 stearate, stearyl alcohol, xanthan gum, sorbic acid, butylated hydroxytoluene, and purified water.
+Each gram contains: Tretinoin 0.025%, stearic acid, isopropyl myristate, polyoxyl 40 stearate, stearyl alcohol, xanthan gum, sorbic acid, butylated hydroxytoluene, and purified water.
 
-For Topical Use Only NET WT.
-20 g Rx only Dosage: See package insert.
-Store below 80° F. Warning: Keep out of reach of children.
+For Topical Use Only Rx only Usual Dosage: See package insert.
+Store below 80°F.
+WARNING: Keep out of reach of children.
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
-
-Made in Canada
+Net Wt.
+20 g
 
 # PRINCIPAL DISPLAY PANEL - 0.05% 20 g Cream Carton
 
@@ -20,15 +19,14 @@ NDC 0187-5162-20
 
 Retin-A® Cream (tretinoin) 0.05%
 
-Contains: Tretinoin 0.05%, stearic acid, isopropyl myristate, polyoxyl 40 stearate, stearyl alcohol, xan- than gum, sorbic acid, butylated hydroxytoluene, and purified water
+Each gram contains: Tretinoin 0.05%, stearic acid, isopropyl myristate, polyoxyl 40 stearate, stearyl alcohol, xanthan gum, sorbic acid, butylated hydroxytoluene, and purified water.
 
-For Topical Use Only NET WT.
-20 g Rx only Dosage: See package insert.
-Store below 80° F. Warning: Keep out of reach of children.
+For Topical Use Only Rx only Usual Dosage: See package insert.
+Store below 80°F.
+WARNING: Keep out of reach of children.
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
-
-Made in Canada
+Net Wt.
+20 g
 
 # PRINCIPAL DISPLAY PANEL - 0.1% 20 g Cream Carton
 
@@ -36,60 +34,41 @@ NDC 0187-5164-20
 
 Retin-A® Cream (tretinoin) 0.1%
 
-Contains: Tretinoin 0.1%, stearic acid, isopropyl myristate, polyoxyl 40 stearate, stearyl alcohol, xan- than gum, sorbic acid, butylated hydroxytoluene, and purified water
+Each gram contains: Tretinoin 0.1%, stearic acid, isopropyl myristate, polyoxyl 40 stearate, stearyl alcohol, xanthan gum, sorbic acid, butylated hydroxytoluene, and purified water.
 
-For Topical Use Only NET WT.
-20 g Rx only Dosage: See package insert.
-Store below 80° F. Warning: Keep out of reach of children.
+For Topical Use Only Rx only Usual Dosage: See package insert.
+Store below 80°F.
+WARNING: Keep out of reach of children.
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Net Wt.
+20 g
 
-Made in Canada
+# PRINCIPAL DISPLAY PANEL - 0.01% 45 g Gel Carton
 
-# PRINCIPAL DISPLAY PANEL - 0.01%15 g Gel Carton
-
-NDC 0187-5172-15
+NDC 0187-5172-45
 
 Retin-A® Gel (tretinoin) 0.01%
 
-Contains: Tretinoin 0.01%, hydroxypropyl cellulose, butylated hydroxytoluene, alcohol, (denatured with tert- butyl alcohol and brucine sulfate) 90% w/w.
+Each gram contains: Tretinoin 0.01%, butylated hydroxytoluene, hydroxypropyl cellulose and alcohol, (denatured with tert-butyl alcohol and brucine sulfate) 90% w/w.
 
-For Topical Use Only NET WT.
-15 g Rx only Dosage: See package insert.
-Store below 86° F. Warning: Keep out of reach of children.
+For Topical Use Only Rx only Usual Dosage: See package insert.
+Store below 86°F.
+WARNING: Keep out of reach of children.
 
-Manufactured for:
+Net Wt.
+45 g
 
-Valeant Pharmaceuticals North America LLC
+# PRINCIPAL DISPLAY PANEL - 0.025% 45 g Gel Carton
 
-Bridgewater, NJ 08807 USA
-
-By: Valeant Pharmaceuticals International Inc.
-
-Laval, Quebec H7L 4A8, Canada
-
-Made in Canada
-
-# PRINCIPAL DISPLAY PANEL - 0.025% 15 g Gel Carton
-
-NDC 0187-5170-15
+NDC 0187-5170-45
 
 Retin-A® Gel (tretinoin) 0.025%
 
-Contains: Tretinoin 0.01%, hydroxypropyl cellulose, butylated hydroxytoluene, alcohol, (denatured with tert- butyl alcohol and brucine sulfate) 90% w/w.
+Each gram contains: Tretinoin 0.025%, butylated hydroxytoluene, hydroxypropyl cellulose and alcohol (denatured with tert-butyl alcohol and brucine sulfate) 90% w/w.
 
-For Topical Use Only NET WT.
-15 g Rx only Dosage: See package insert.
-Store below 86° F. Warning: Keep out of reach of children.
+For Topical Use Only Rx only Usual Dosage: See package insert.
+Store below 86°F.
+WARNING: Keep out of reach of children.
 
-Manufactured for:
-
-Valeant Pharmaceuticals North America LLC
-
-Bridgewater, NJ 08807 USA
-
-By: Valeant Pharmaceuticals International Inc.
-
-Laval, Quebec H7L 4A8, Canada
-
-Made in Canada
+Net Wt.
+45 g

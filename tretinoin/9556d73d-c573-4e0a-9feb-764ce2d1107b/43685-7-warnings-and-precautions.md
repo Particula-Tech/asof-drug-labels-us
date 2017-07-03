@@ -1,6 +1,6 @@
-# Precautions
+# Precautions:
 
-## General
+## General:
 
 If a reaction suggesting sensitivity or chemical irritation occurs, use of the medication should be discontinued.
 Exposure to sunlight, including sunlamps, should be minimized during the use of RETIN-A, and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin.
@@ -13,13 +13,13 @@ Topical use may induce severe local erythema and peeling at the site of applicat
 If the degree of local irritation warrants, patients should be directed to use the medication less frequently, discontinue use temporarily, or discontinue use altogether.
 Tretinoin has been reported to cause severe irritation on eczematous skin and should be used with utmost caution in patients with this condition.
 
-## Drug Interactions
+## Drug Interactions:
 
 Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin.
 Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with RETIN-A.
 It also is advisable to "rest" a patient's skin until the effects of such preparations subside before use of RETIN-A is begun.
 
-## Carcinogenesis
+## Carcinogenesis:
 
 Long-term animal studies to determine the carcinogenic potential of tretinoin have not been performed.
 Studies in hairless albino mice suggest that tretinoin may accelerate the tumorigenic potential of weakly carcinogenic light from a solar simulator.
@@ -27,22 +27,20 @@ In other studies, when lightly pigmented hairless mice treated with tretinoin we
 Due to significantly different experimental conditions, no strict comparison of these disparate data is possible.
 Although the significance of these studies to man is not clear, patients should avoid or minimize exposure to sun.
 
-## Pregnancy
-
-### Teratogenic effects.
-
-#### Pregnancy Category C.
+## Pregnancy:
 
 Oral tretinoin has been shown to be teratogenic in rats when given in doses 1000 times the topical human dose.
 Oral tretinoin has been shown to be fetotoxic in rats when given in doses 500 times the topical human dose.
 
-Topical tretinoin has not been shown to be teratogenic in rats and rabbits when given in doses of 100 and 320 times the topical human dose, respectively (assuming a 50 kg adult applies 250 mg of 0.1% cream topically).
+Topical tretinoin has not been shown to be teratogenic in rats and rabbits when given in doses of 100 and 320 times the topical human dose, respectively (assuming a 50 kg adult applies 250 mg of 0.1% cream
+
+topically).
 However, at these topical doses, delayed ossification of a number of bones occurred in both species.
 These changes may be considered variants of normal development and are usually corrected after weaning.
 There are no adequate and well-controlled studies in pregnant women.
 Tretinoin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when RETIN-A is administered to a nursing woman.

@@ -1,16 +1,16 @@
 For Topical Use Only
 
-Rx Only
+Rx only
 
 Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-By:
+By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
-Valeant Pharmaceuticals International Inc.
+Retin-A is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-Laval, Quebec H7L 4A8, Canada
+©Valeant Pharmaceuticals North America LLC
 
-Made in Canada
+9440901
 
-9400102 Rev.
-01/15
+50105685B Rev.
+11/16
