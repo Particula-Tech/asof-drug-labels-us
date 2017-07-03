@@ -15,7 +15,7 @@ FDA-approved Patient Labeling Patient labeling is provided as a tear-off leaflet
 
 Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
 
-Manufactured by: Macleods Pharmaceuticals Ltd. Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA Revised: January 2017 PM02364001
+Manufactured by: Macleods Pharmaceuticals Ltd. Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA Revised: May 2017 PM02364002
 
 ## 17.2 FDA Approved Patient Labeling
 
