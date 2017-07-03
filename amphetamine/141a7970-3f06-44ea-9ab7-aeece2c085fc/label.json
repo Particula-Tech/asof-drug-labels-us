@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022063"
+  ],
+  "inn": "amphetamine",
+  "labeler": "Shire US Manufacturing Inc.",
+  "package_ndcs": [
+    "54092-468-01",
+    "54092-471-01",
+    "54092-474-01",
+    "54092-477-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "dextroamphetamine sulfate, dextroamphetamine saccharate, amphetamine aspartate monohydrate, and amphetamine sulfate",
+      "name": "MYDAYIS"
+    }
+  ],
+  "setid": "141a7970-3f06-44ea-9ab7-aeece2c085fc",
+  "source": "dailymed"
+}
