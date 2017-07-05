@@ -12,4 +12,5 @@ The vial stoppers are not made with natural rubber latex.
 These products are intended for single use and are free from preservatives.
 Any solution remaining from an opened container should be discarded promptly.
 In addition, continuous infusion bottles should not be left in place for more than 24 hours.
-Manufactured for: AuroMedics Pharma LLC 6 Wheeling Road Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited IDA, Pashamylaram - 502307 India Revised: August 2015
+Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500038 India Revised: March 2017
