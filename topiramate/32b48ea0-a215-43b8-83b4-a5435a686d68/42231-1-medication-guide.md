@@ -4,10 +4,6 @@ Topiramate Tablets USP
 
 (toe pir' a mate)
 
-Read this Medication Guide before you start taking topiramate tablets and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
-If you have any questions about topiramate tablets, talk to your healthcare provider or pharmacist.
 What is the most important information I should know about topiramate tablets?
 Topiramate tablets may cause eye problems.
 Serious eye problems include:
@@ -76,6 +72,8 @@ Topiramate tablets can harm your unborn baby.
   You should talk to your doctor about the best kind of birth control to use while you are taking topiramate tablets.
 - Tell your healthcare provider right away if you become pregnant while taking topiramate tablets.
   You and your healthcare provider should decide if you will continue to take topiramate tablets while you are pregnant.
+- If you take topiramate tablets during pregnancy, your baby may be smaller than expected at birth.
+  Talk to your healthcare provider if you have questions about this risk during pregnancy.
 - Metabolic acidosis may have harmful effects on your baby.
   Talk to your healthcare provider if topiramate tablets have caused metabolic acidosis during your pregnancy.
 - Pregnancy Registry: If you become pregnant while taking topiramate tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
@@ -92,7 +90,7 @@ Topiramate tablets are a prescription medicine used:
 
 What should I tell my healthcare provider before taking topiramate tablets?
 
-Before taking topiramate tablets, tell your healthcare provider about all your medical conditions, including if you:
+Before taking topiramate tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have or have had depression, mood problems, or suicidal thoughts or behavior
 - have kidney problems, have kidney stones, or are getting kidney dialysis
@@ -195,12 +193,11 @@ The most common side effects of topiramate tablets include:
 - pain in the abdomen
 - fever
 - abnormal vision
+- decreased feeling or sensitivity, especially in the skin
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
-
 These are not all the possible side effects of topiramate tablets.
 For more information, ask your healthcare provider or pharmacist.
-
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-­800-FDA-1088.
 
@@ -211,9 +208,10 @@ How should I store topiramate tablets?
 - Store topiramate tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 - Keep topiramate tablets in a tightly closed container.
 - Keep topiramate tablets dry and away from moisture.
-- Keep topiramate tablets and all medicines out of the reach of children.
 
-General information about topiramate tablets.
+Keep topiramate tablets and all medicines out of the reach of children.
+
+General information about the safe and effective use of topiramate tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use topiramate tablets for a condition for which it was not prescribed.
@@ -224,12 +222,11 @@ This Medication Guide summarizes the most important information about topiramate
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about topiramate tablets that is written for health professionals.
 
-For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
-
 What are the ingredients in topiramate tablets?
 
 Active ingredient: topiramate Inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, sodium starch glycolate, and titanium dioxide.
 In addition, the 50 mg and 100 mg tablets contain iron oxide yellow and 200 mg tablet contains iron oxide red.
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
+For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 04/2017
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 07/2017

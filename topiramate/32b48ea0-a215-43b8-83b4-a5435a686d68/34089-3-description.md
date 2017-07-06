@@ -2,6 +2,7 @@
 
 Topiramate is a sulfamate-substituted monosaccharide.
 Topiramate tablets are available as 25 mg, 50 mg, 100 mg, and 200 mg circular tablets for oral administration.
+
 Topiramate USP is a white crystalline powder with a bitter taste.
 Topiramate is most soluble in alkaline solutions containing sodium hydroxide or sodium phosphate and having a pH of 9 to 10.
 It is freely soluble in acetone, chloroform, dimethylsulfoxide, and ethanol.
