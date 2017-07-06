@@ -18,13 +18,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Single-Agent Use:
 
-The data described below reflect exposure to gemcitabine as a single-agent administered at doses between 800 mg/m2 to 1250 mg/m2 over 30 minutes intravenously, once weekly, in 979 patients with a variety of malignancies.
-The most common (≥20%) adverse reactions of single-agent Gemcitabine are nausea/vomiting, anemia, increased ALT, increased AST, neutropenia, increased alkaline phosphatase, proteinuria, fever, hematuria, rash, thrombocytopenia, dyspnea, and edema.
+The data described below reflect exposure to gemcitabine as a single-agent administered at doses between 800 mg/m2 to 1,250 mg/m2 over 30 minutes intravenously, once weekly, in 979 patients with a variety of malignancies.
+The most common (≥20%) adverse reactions of single-agent gemcitabine are nausea/vomiting, anemia, increased ALT, increased AST, neutropenia, increased alkaline phosphatase, proteinuria, fever, hematuria, rash, thrombocytopenia, dyspnea, and edema.
 The most common (≥5%) Grade 3 or 4 adverse reactions were neutropenia, nausea/vomiting; increased ALT, increase alkaline phosphatase, anemia, increased AST, and thrombocytopenia.
-Approximately 10% of the 979 patients discontinued Gemcitabine due to adverse reactions.
-Adverse reactions resulting in discontinuation of Gemcitabine in 2% of 979 patients were cardiovascular adverse events (myocardial infarction, cerebrovascular accident, arrhythmia, and hypertension) and adverse reactions resulting in discontinuation of Gemcitabine in less than 1% of the 979 patients were anemia, thrombocytopenia, hepatic dysfunction, renal dysfunction, nausea/vomiting, fever, rash, dyspnea, hemorrhage, infection, stomatitis, somnolence, flu-like syndrome, and edema.
+Approximately 10% of the 979 patients discontinued gemcitabine due to adverse reactions.
+Adverse reactions resulting in discontinuation of gemcitabine in 2% of 979 patients were cardiovascular adverse events (myocardial infarction, cerebrovascular accident, arrhythmia, and hypertension) and adverse reactions resulting in discontinuation of gemcitabine in less than 1% of the 979 patients were anemia, thrombocytopenia, hepatic dysfunction, renal dysfunction, nausea/vomiting, fever, rash, dyspnea, hemorrhage, infection, stomatitis, somnolence, flu-like syndrome, and edema.
 
-Table 5 presents the incidence of adverse reactions reported in 979 patients with various malignancies receiving single-agent Gemcitabine across 5 clinical trials.
+Table 5 presents the incidence of adverse reactions reported in 979 patients with various malignancies receiving single-agent gemcitabine across 5 clinical trials.
 Table 5 includes all clinical adverse reactions, reported in at least 10% of patients.
 A listing of clinically significant adverse reactions is provided following the table.
 
@@ -42,8 +42,8 @@ Table 5: Selected Per-Patient Incidence of Adverse Events in Patients Receiving 
 - •Transfusion requirements - Red blood cell transfusions (19%); platelet transfusions (<1%)
 - •Fever - Fever occurred in the absence of clinical infection and frequently in combination with other flu-like symptoms.
 - •Pulmonary - Dyspnea unrelated to underlying disease and sometimes accompanied by bronchospasm.
-- •Edema - Edema (13%), peripheral edema (20%), and generalized edema (<1%); <1% of patients discontinued Gemcitabine due to edema.
-- •Flu-like Symptoms - Characterized by fever, asthenia, anorexia, headache, cough, chills, myalgia, asthenia, insomnia, rhinitis, sweating, and/or malaise (19%); <1% of patients discontinued Gemcitabine due to flu-like symptoms.
+- •Edema - Edema (13%), peripheral edema (20%), and generalized edema (<1%); <1% of patients discontinued gemcitabine due to edema.
+- •Flu-like Symptoms - Characterized by fever, asthenia, anorexia, headache, cough, chills, myalgia, asthenia, insomnia, rhinitis, sweating, and/or malaise (19%); <1% of patients discontinued gemcitabine due to flu-like symptoms.
 - •Infection - Sepsis (<1%).
 - •Extravasation - Injection-site reactions (4%).
 - •Allergic - Bronchospasm (<2%); anaphylactoid reactions [see Contraindications (4)].
@@ -59,7 +59,7 @@ The incidence of febrile neutropenia (9/262 versus 2/260), sepsis (4% versus 1%)
 The two-drug combination was more myelosuppressive with 4 (1.5%) possibly treatment-related deaths, including 3 resulting from myelosuppression with infection and one case of renal failure associated with pancytopenia and infection.
 No deaths due to treatment were reported on the cisplatin arm.
 
-Table 6: Per-Patient Incidence of Selected Adverse Reactions from Randomized Trial of Gemcitabine Plus Cisplatin Versus Single-Agent Cisplatin in Patients with NSCLC Occurring at Higher Incidence in Gemcitabine-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]a
+Table 6: Per-Patient Incidence of Selected Adverse Reactions from Randomized Trial of Gemcitabine Plus Cisplatin versus Single-Agent Cisplatin in Patients with NSCLC Occurring at Higher Incidence in Gemcitabine-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]a
 
 |  | Gemcitabine plus Cisplatinb |  |  | Cisplatinc |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -69,19 +69,19 @@ Table 6: Per-Patient Incidence of Selected Adverse Reactions from Randomized Tri
 | Renal Proteinuria Hematuria Elevated creatinine | 231538 | 004 | 00<1 | 181331 | 002 | 00<1 |  |  |  |  |
 | Other Laboratory Hyperglycemia Hypomagnesemia Hypocalcemia | 303018 | 442 | 030 | 23177 | 320 | 00<1 |  |  |  |  |
 | Non-laboratoryf Nausea Vomiting Alopecia Neuro Motor Diarrhea Neuro Sensory Infection Fever Neuro Cortical Neuro Mood Local Neuro Headache Stomatitis Hemorrhage Hypotension Rash | 93785335242318161616151414141211 | 2511112213031001110 | 21200202010000000 | 877133151318125910675473 | 201003011011000010 | <1900000000000000 |  |  |  |  |
-| a National Cancer Institute Common Toxicity Criteria (CTC) for severity grading. b N=217-253; all Gemcitabine plus cisplatin patients with laboratory or non-laboratory data Gemcitabine at 1000 mg/m2 on Days 1, 8, and 15 and cisplatin at 100 mg/m2 on Day 1 every 28 days. c N=213-248; all cisplatin patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 every 28 days. d Regardless of causality. e Percent of patients receiving transfusions. Percent transfusions are not CTC-graded events. f Non-laboratory events were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |  |  |  |  |
+| a National Cancer Institute Common Toxicity Criteria (CTC) for severity grading. b N=217-253; all gemcitabine plus cisplatin patients with laboratory or non-laboratory data. Gemcitabine at 1,000 mg/m2 on Days 1, 8, and 15 and cisplatin at 100 mg/m2 on Day 1 every 28 days. c N=213-248; all cisplatin patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 every 28 days. d Regardless of causality. e Percent of patients receiving transfusions. Percent transfusions are not CTC-graded events. f Non-laboratory events were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |  |  |  |  |
 
-Table 7 presents the incidence of selected adverse reactions, occurring in ≥10% of Gemcitabine-treated patients and at a higher incidence in the Gemcitabine plus cisplatin arm, reported in a randomized trial of Gemcitabine plus cisplatin (n=69) administered in 21-day cycles as compared to etoposide plus cisplatin alone (n=66) in patients receiving first-line treatment for locally advanced or metastatic non-small cell lung cancer (NSCLC) [see Clinical Studies (14.3)].
+Table 7 presents the incidence of selected adverse reactions, occurring in ≥10% of gemcitabine-treated patients and at a higher incidence in the gemcitabine plus cisplatin arm, reported in a randomized trial of gemcitabine plus cisplatin (n=69) administered in 21-day cycles as compared to etoposide plus cisplatin alone (n=66) in patients receiving first-line treatment for locally advanced or metastatic non-small cell lung cancer (NSCLC) [see Clinical Studies (14.3)].
 A listing of clinically significant adverse reactions is provided following the table.
 
-Patients in the Gemcitabine cisplatin (GC) arm received a median of 5 cycles and those in the etoposide/cisplatin (EC) arm received a median of 4 cycles.
+Patients in the gemcitabine cisplatin (GC) arm received a median of 5 cycles and those in the etoposide/cisplatin (EC) arm received a median of 4 cycles.
 The majority of patients receiving more than one cycle of treatment required dose adjustments; 81% in the (GC) arm and 68% in the (EC) arm.
 The incidence of hospitalizations for treatment-related adverse events was 22% (GC) and 27% in the (EC) arm.
 The proportion of discontinuation of treatment for treatment-related adverse reactions was higher for patients in the (GC) arm (14% versus 8%).
 The proportion of patients hospitalized for febrile neutropenia was lower in the (GC) arm (7% versus 12%).
-There was one death attributed to treatment, a patient with febrile neutropenia and renal failure, which occurred in the Gemcitabine/cisplatin arm.
+There was one death attributed to treatment, a patient with febrile neutropenia and renal failure, which occurred in the gemcitabine/cisplatin arm.
 
-Table 7: Per-Patient Incidence of Selected Adverse Reactions in Randomized Trial of Gemcitabine Plus Cisplatin Versus Etoposide Plus Cisplatin in Patients with NSCLCa
+Table 7: Per-Patient Incidence of Selected Adverse Reactions in Randomized Trial of Gemcitabine Plus Cisplatin versus Etoposide Plus Cisplatin in patients with NSCLCa
 
 |  | Gemcitabine plus Cisplatinb |  |  | Etoposide plus Cisplatinc |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -90,16 +90,16 @@ Table 7: Per-Patient Incidence of Selected Adverse Reactions in Randomized Trial
 | Hepatic Increased ALT Increased AST Increased Alkaline Phosphatase Bilirubin | 6316 0 | 000 0 | 000 0 | 121111 0 | 000 0 | 000 0 |  |  |  |  |  |  |  |  |  |  |  |
 | Renal Proteinuria Hematuria BUN Creatinine | 122262 | 0000 | 0000 | 51042 | 0000 | 0000 |  |  |  |  |  |  |  |  |  |  |  |
 | Non-laboratoryf Nausea and Vomiting Fever Rash Dyspnea Diarrhea Hemorrhage Infection Alopecia Stomatitis Somnolence Paresthesias Flu-like syndromeg Edemag | 966101149287720338312 | 3500010313400-- | 40011310000-- | 8633313321921831602 | 1900000851222-- | 70002300000-- |  |  |  |  |  |  |  |  |  |  |  |
-| a Grade based on criteria from the World Health Organization (WHO). b N=67-69; all Gemcitabine plus cisplatin patients with laboratory or non-laboratory data. Gemcitabine at 1250 mg/m2 on Days 1 and 8 and cisplatin at 100 mg/m2 on Day 1 every 21 days. c N=57-63; all cisplatin plus etoposide patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 and intravenous etoposide at 100 mg/m2 on Days 1, 2, and 3 every 21 days. d Regardless of causality. e WHO grading scale not applicable to proportion of patients with transfusions. f Non-laboratory events were graded only if assessed to be possibly drug-related. Pain data were not collected. g Flu-like syndrome and edema were not graded. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a Grade based on criteria from the World Health Organization (WHO). b N=67-69; all gemcitabine plus cisplatin patients with laboratory or non-laboratory data. Gemcitabine at 1,250 mg/m2 on Days 1 and 8 and cisplatin at 100 mg/m2 on Day 1 every 21 days. c N=57-63; all cisplatin plus etoposide patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 and intravenous etoposide at 100 mg/m2 on Days 1, 2, and 3 every 21 days. d Regardless of causality. e WHO grading scale not applicable to proportion of patients with transfusions. f Non-laboratory events were graded only if assessed to be possibly drug-related. Pain data were not collected. g Flu-like syndrome and edema were not graded. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Breast Cancer
+Breast Cancer:
 
-Table 8 presents the incidence of selected adverse reactions, occurring in ≥10% of Gemcitabine-treated patients and at a higher incidence in the gemcitabine plus paclitaxel arm, reported in a randomized trial of gemcitabine plus paclitaxel (n=262) compared to paclitaxel alone (n=259) for the first-line treatment of metastatic breast cancer (MBC) in women who received anthracycline-containing chemotherapy in the adjuvant/neo-adjuvant setting or for whom anthracyclines were contraindicated [see Clinical Studies (14.2)].
+Table 8 presents the incidence of selected adverse reactions, occurring in ≥10% of gemcitabine-treated patients and at a higher incidence in the gemcitabine plus paclitaxel arm, reported in a randomized trial of gemcitabine plus paclitaxel (n=262) compared to paclitaxel alone (n=259) for the first-line treatment of metastatic breast cancer (MBC) in women who received anthracycline-containing chemotherapy in the adjuvant/neo-adjuvant setting or for whom anthracyclines were contraindicated [see Clinical Studies (14.2)].
 
-The requirement for dose reduction of paclitaxel were higher for patients in the Gemcitabine/paclitaxel arm (5% versus 2%).
+The requirement for dose reduction of paclitaxel were higher for patients in the gemcitabine/paclitaxel arm (5% versus 2%).
 The number of paclitaxel doses omitted (<1%), the proportion of patients discontinuing treatment for treatment-related adverse reactions (7% versus 5%), and the number of treatment-related deaths (1 patient in each arm) were similar between the two arms.
 
-Table 8: Per-Patient Incidence of Selected Adverse Reactions From Comparative Trial of Gemcitabine Plus Paclitaxel Versus Single-Agent Paclitaxel in Breast Cancera Occurring at Higher Incidence in Gemcitabine-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]
+Table 8: Per-Patient Incidence of Selected Adverse Reactions from Comparative Trial of Gemcitabine Plus Paclitaxel Versus Single-Agent Paclitaxel in Breast Cancera Occurring at Higher Incidence in Gemcitabine-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]
 
 |  | Gemcitabine plus Paclitaxel(N=262) |  |  | Paclitaxel(N=259) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -109,28 +109,28 @@ Table 8: Per-Patient Incidence of Selected Adverse Reactions From Comparative Tr
 | Non-laboratoryc Alopecia Neuropathy-sensory Nausea Fatigue Vomiting Diarrhea Anorexia Neuropathy-motor Stomatitis/pharyngitis Fever Rash/desquamation Febrile neutropenia | 90645040292017151313116 | 1451623021<1<15 | 4<10<1000<1<10<1<1 | 92583128151312108352 | 1932122<1<1<1001 | 300<100000000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | a Severity grade based on National Cancer Institute Common Toxicity Criteria (CTC) Version 2.0. b Regardless of causality. c Non-laboratory events were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Clinically relevant Grade 3 or 4 dyspnea occurred with a higher incidence in the Gemcitabine plus paclitaxel arm compared with the paclitaxel arm (1.9% versus 0).
+Clinically relevant Grade 3 or 4 dyspnea occurred with a higher incidence in the gemcitabine plus paclitaxel arm compared with the paclitaxel arm (1.9% versus 0).
 
 Ovarian Cancer:
 
-Table 9 presents the incidence of selected adverse reactions, occurring in ≥10% of gemcitabine-treated patients and at a higher incidence in the gemcitabine plus carboplatin arm, reported in a randomized trial of Gemcitabine plus carboplatin (n=175) compared to carboplatin alone (n=174) for the second-line treatment of ovarian cancer in women with disease that had relapsed more than 6 months following first-line platinum-based chemotherapy [see Clinical Studies (14.1)].
+Table 9 presents the incidence of selected adverse reactions, occurring in ≥10% of gemcitabine-treated patients and at a higher incidence in the gemcitabine plus carboplatin arm, reported in a randomized trial of gemcitabine plus carboplatin (n=175) compared to carboplatin alone (n=174) for the second-line treatment of ovarian cancer in women with disease that had relapsed more than 6 months following first-line platinum-based chemotherapy [see Clinical Studies (14.1)].
 Additional clinically significant adverse reactions, occurring in less than 10% of patients, are provided following Table 9.
 
 The proportion of patients with dose adjustments for carboplatin (1.8% versus 3.8%), doses of carboplatin omitted (0.2% versus 0), and discontinuing treatment for treatment-related adverse reactions (10.9% versus 9.8%), were similar between arms.
-Dose adjustment for Gemcitabine occurred in 10.4% of patients and Gemcitabine dose was omitted in 13.7% of patients in the Gemcitabine /carboplatin arm.
+Dose adjustment for gemcitabine occurred in 10.4% of patients and gemcitabine dose was omitted in 13.7% of patients in the gemcitabine/carboplatin arm.
 
 Table 9: Per-Patient Incidence of Adverse Reactions in Randomized Trial of Gemcitabine Plus Carboplatin Versus Carboplatin in Ovarian Cancera Occurring at Higher Incidence in Gemcitabine-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]
 
 |  | Gemcitabine plus Carboplatin(N=175) |  |  | Carboplatin(N=174) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| LaboratorybHematologic Neutropenia Anemia Thrombocytopenia RBC Transfusionsc Platelet Transfusionsc | 908678389 | 422230 | 2965 | 587557153 | 11910 | 121 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| LaboratorybHematologic Neutropenia Anemia Thrombocytopenia RBC Transfusionsc Platelet Transfusionsc | 908678389 | 422230-- | 2965-- | 587557153 | 11910-- | 121-- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Non-laboratoryb Nausea Alopecia Vomiting Constipation Fatigue Diarrhea Stomatitis/pharyngitis | 69494642402522 | 606633<1 | 0001<100 | 61173637321413 | 30235<10 | 00<10000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | a Grade based on Common Toxicity Criteria (CTC) Version 2.0. b Regardless of causality. c Percent of patients receiving transfusions. Transfusions are not CTC-graded events. Blood transfusions included both packed red blood cells and whole blood. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Hematopoietic growth factors were administered more frequently in the Gemcitabine-containing arm: granulocyte growth factors (23.6% and 10.1%) and erythropoietic agents (7.3% and 3.9%).
+Hematopoietic growth factors were administered more frequently in the gemcitabine-containing arm: granulocyte growth factors (23.6% and 10.1%) and erythropoietic agents (7.3% and 3.9%).
 
-The following clinically relevant, Grade 3 and 4 adverse reactions occurred more frequently in the Gemcitabine plus carboplatin arm: dyspnea (3.4% versus 2.9%), febrile neutropenia (1.1% versus 0), hemorrhagic event (2.3% versus 1.1%), motor neuropathy (1.1% versus 0.6%), and rash/desquamation (0.6% versus 0).
+The following clinically relevant, Grade 3 and 4 adverse reactions occurred more frequently in the gemcitabine plus carboplatin arm: dyspnea (3.4% versus 2.9%), febrile neutropenia (1.1% versus 0), hemorrhagic event (2.3% versus 1.1%), motor neuropathy (1.1% versus 0.6%), and rash/desquamation (0.6% versus 0).
 
 ## 6.2 Post-Marketing Experience
 

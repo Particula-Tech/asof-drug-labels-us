@@ -15,7 +15,7 @@ Absorption and Distribution
 
 The pharmacokinetics of gemcitabine were examined in 353 patients, with various solid tumors.
 Pharmacokinetic parameters were derived using data from patients treated for varying durations of therapy given weekly with periodic rest weeks and using both short infusions (<70 minutes) and long infusions (70 to 285 minutes).
-The total gemcitabine dose varied from 500 to 3600 mg/m2.
+The total gemcitabine dose varied from 500 to 3,600 mg/m2.
 
 The volume of distribution was increased with infusion length.
 Volume of distribution of gemcitabine was 50 L/m2 following infusions lasting <70 minutes.
@@ -27,7 +27,7 @@ Gemcitabine plasma protein binding is negligible.
 
 Metabolism
 
-Gemcitabine disposition was studied in 5 patients who received a single 1000 mg/m2/30 minute infusion of radiolabeled drug.
+Gemcitabine disposition was studied in 5 patients who received a single 1,000 mg/m2/30 minute infusion of radiolabeled drug.
 Within one (1) week, 92% to 98% of the dose was recovered, almost entirely in the urine.
 Gemcitabine (<10%) and the inactive uracil metabolite, 2´-deoxy-2´,2´-difluorouridine (dFdU), accounted for 99% of the excreted dose.
 The metabolite dFdU is also found in plasma.
@@ -56,7 +56,7 @@ Gemcitabine half-life for short infusions ranged from 42 to 94 minutes, and the 
 
 Drug Interactions
 
-When gemcitabine (1250 mg/m2 on Days 1 and 8) and cisplatin (75 mg/m2 on Day 1) were administered in NSCLC patients, the clearance of gemcitabine on Day 1 was 128 L/hr/m2 and on Day 8 was 107 L/hr/m2.
+When gemcitabine (1,250 mg/m2 on Days 1 and 8) and cisplatin (75 mg/m2 on Day 1) were administered in NSCLC patients, the clearance of gemcitabine on Day 1 was 128 L/hr/m2 and on Day 8 was 107 L/hr/m2.
 Analysis of data from metastatic breast cancer patients shows that, on average, gemcitabine has little or no effect on the pharmacokinetics (clearance and half-life) of paclitaxel and paclitaxel has little or no effect on the pharmacokinetics of gemcitabine.
-Data from NSCLC patients demonstrate that gemcitabine and carboplatin given in combination does not alter the pharmacokinetics of gemcitabine or carboplatin compared to administration of either single agent.
+Data from NSCLC patients demonstrate that gemcitabine and carboplatin given in combination does not alter the pharmacokinetics of gemcitabine or carboplatin compared to administration of either single-agent.
 However, due to wide confidence intervals and small sample size, interpatient variability may be observed.

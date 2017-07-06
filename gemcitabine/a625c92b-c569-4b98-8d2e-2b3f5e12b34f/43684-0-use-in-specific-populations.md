@@ -9,7 +9,7 @@ Risk Summary
 Gemcitabine can cause fetal harm when administered to a pregnant woman.
 Based on its mechanism of action, gemcitabine is expected to result in adverse reproductive effects.
 Gemcitabine was teratogenic, embryotoxic, and fetotoxic in mice and rabbits.
-If Gemcitabine is used during pregnancy, or if the patient becomes pregnant while taking Gemcitabine, the patient should be apprised of the potential hazard to a fetus.
+If gemcitabine is used during pregnancy, or if the patient becomes pregnant while taking gemcitabine, the patient should be apprised of the potential hazard to a fetus.
 
 Animal Data
 
@@ -33,12 +33,12 @@ No meaningful clinical activity was observed in this trial.
 
 ## 8.5 Geriatric Use
 
-In clinical studies of Gemcitabine, enrolling 979 patients with various cancers who received Gemcitabine as a single agent, no overall differences in safety were observed between patients aged 65 and older and younger patients, with the exception of a higher rate of Grade 3 - 4 thrombocytopenia in older patients as compared to younger patients.
+In clinical studies of gemcitabine, enrolling 979 patients with various cancers who received gemcitabine as a single agent, no overall differences in safety were observed between patients aged 65 and older and younger patients, with the exception of a higher rate of Grade 3 - 4 thrombocytopenia in older patients as compared to younger patients.
 In a randomized trial in women with ovarian cancer, 175 women received gemcitabine plus carboplatin, of which 29% were age 65 years or older.
 Similar effectiveness was observed between older and younger women.
 There was significantly higher Grade 3/4 neutropenia in women 65 years of age or older.
 
-Gemcitabine clearance is affected by age, however there are no recommended dose adjustments based on patients' on age [see Clinical Pharmacology (12.3)].
+Gemcitabine clearance is affected by age, however there are no recommended dose adjustments based on patients' age [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
@@ -46,7 +46,7 @@ No clinical studies have been conducted with gemcitabine in patients with decrea
 
 ## 8.7 Hepatic Impairment
 
-No clinical studies have been conducted with gemcitabine In patients with decreased hepatic function.
+No clinical studies have been conducted with gemcitabine in patients with decreased hepatic function.
 
 ## 8.8 Gender
 

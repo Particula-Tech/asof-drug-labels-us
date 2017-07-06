@@ -2,8 +2,8 @@
 
 ## 14.1 Ovarian Cancer
 
-The safety and efficacy of Gemcitabine was studied in a randomized trial of 356 women with advanced ovarian cancer that had relapsed at least 6 months after first-line platinum-based therapy.
-Patients were randomized to receive either gemcitabine 1000 mg/m2 on Days 1 and 8 of a 21-day cycle and carboplatin AUC 4 administered after gemcitabine infusion on Day 1 of each cycle (n=178) or to carboplatin AUC 5 administered on Day 1 of each 21-day cycle (n=178).
+The safety and efficacy of gemcitabine was studied in a randomized trial of 356 women with advanced ovarian cancer that had relapsed at least 6 months after first-line platinum-based therapy.
+Patients were randomized to receive either gemcitabine 1,000 mg/m2 on Days 1 and 8 of a 21-day cycle and carboplatin AUC 4 administered after gemcitabine infusion on Day 1 of each cycle (n=178) or to carboplatin AUC 5 administered on Day 1 of each 21-day cycle (n=178).
 The primary efficacy outcome measure was progression free survival (PFS).
 
 Patient characteristics are shown in Table 11.
@@ -21,7 +21,7 @@ Table 11: Randomized Trial of Gemcitabine Plus Carboplatin Versus Carboplatin in
 | Disease Status Evaluable Bidimensionally measurable | 8%92% | 3%96% |
 | Platinum-free intervalb 6-12 months >12 months | 40%59% | 40%60% |
 | First-line therapy Platinum-taxane combination Platinum-non-taxane combination Platinum monotherapy | 70%29%1% | 71%28%1% |
-| a 5 patients on Gemcitabine plus carboplatin arm and 4 patients on the carboplatin arm with no baseline Eastern Cooperative Oncology Group (ECOG) performance status. b 2 on Gemcitabine plus carboplatin arm and 1 on carboplatin arm had a platinum-free interval <6 months. |  |  |
+| a 5 patients on gemcitabine plus carboplatin arm and 4 patients on the carboplatin arm with no baseline Eastern Cooperative Oncology Group (ECOG) performance status. b 2 on gemcitabine plus carboplatin arm and 1 on carboplatin arm had a platinum-free interval <6 months. |  |  |
 
 Table 12: Randomized Trial of Gemcitabine Plus Carboplatin Versus Carboplatin in Ovarian Cancer - Efficacy Outcomes
 
@@ -31,7 +31,7 @@ Table 12: Randomized Trial of Gemcitabine Plus Carboplatin Versus Carboplatin in
 | Hazard Ratio (95% CI) | 0.72 (0.57, 0.90) |  |  |  |  |
 | p-valueb | p=0.0038 |  |  |  |  |
 | Overall Survival Median (95% CI) months | 18.0 (16.2, 20.3) | 17.3 (15.2, 19.3) |  |  |  |
-| Hazard Ratio (95%, CI) | 0.98 (0.78, 1.24) |  |  |  |  |
+| Hazard Ratio (95% CI) | 0.98 (0.78, 1.24) |  |  |  |  |
 | p-valueb | p=0.8977 |  |  |  |  |
 | Investigator Reviewed Overall Response Rate | 47.2% | 30.9% |  |  |  |
 | p-valuec | p=0.0016 |  |  |  |  |
@@ -39,20 +39,20 @@ Table 12: Randomized Trial of Gemcitabine Plus Carboplatin Versus Carboplatin in
 | Independently Reviewed Overall Response Ratef | 46.3% | 35.6% |  |  |  |
 | p-valuec | p=0.11 |  |  |  |  |
 | CRd PR plus PRNMe | 9.1%37.2% | 4.0%31.7% |  |  |  |
-| a CI=confidence interval. b Log Rank, unadjusted. c Chi Square. d CR=Complete response. e PR plus PRNM=Partial response plus partial response, non-measurable disease. f Independently reviewed cohort - Gemcitabine/carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam. |  |  |  |  |  |
+| a CI=confidence interval. b Log Rank, unadjusted. c Chi Square. d CR=Complete response. e PR plus PRNM=Partial response plus partial response, non-measurable disease. f Independently reviewed cohort - gemcitabine/carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam. |  |  |  |  |  |
 
 Figure 1: Kaplan-Meier Curve of Progression Free Survival in Gemcitabine Plus Carboplatin Versus Carboplatin in Ovarian Cancer (N=356)
 
 ## 14.2 Breast Cancer
 
-The safety and efficacy of Gemcitabine were evaluated in a multi-national, randomized, open-label trial conducted in women receiving initial treatment for metastatic breast cancer in women who have received prior adjuvant/neoadjuvant anthracycline chemotherapy unless clinically contraindicated.
-Patients were randomized to receive Gemcitabine 1250 mg/m2 was administered on Days 1 and 8 of a 21-day cycle and paclitaxel 175 mg/m2 administered prior to gemcitabine on Day 1 of each cycle (n=267) or to receive paclitaxel 175 mg/m2 was administered on Day 1 of each 21-day cycle (n=262).
+The safety and efficacy of gemcitabine were evaluated in a multi-national, randomized, open-label trial conducted in women receiving initial treatment for metastatic breast cancer in women who have received prior adjuvant/neoadjuvant anthracycline chemotherapy unless clinically contraindicated.
+Patients were randomized to receive gemcitabine 1,250 mg/m2 was administered on Days 1 and 8 of a 21-day cycle and paclitaxel 175 mg/m2 administered prior to gemcitabine on Day 1 of each cycle (n=267) or to receive paclitaxel 175 mg/m2 was administered on Day 1 of each 21-day cycle (n=262).
 The primary efficacy outcome measure was time to documented disease progression.
 
-A total of 529 patients were enrolled; 267 were randomized to Gemcitabine and paclitaxel and 262 to paclitaxel alone.
+A total of 529 patients were enrolled; 267 were randomized to gemcitabine and paclitaxel and 262 to paclitaxel alone.
 Demographic and baseline characteristics were similar between treatment arms (see Table 13).
 Efficacy results are presented in Table 13 and Figure 2.
-The addition of Gemcitabine to paclitaxel resulted in statistically significant improvement in time to documented disease progression and overall response rate compared to paclitaxel alone.
+The addition of gemcitabine to paclitaxel resulted in statistically significant improvement in time to documented disease progression and overall response rate compared to paclitaxel alone.
 There was no significant difference in overall survival.
 
 Table 13: Randomized Trial of Gemcitabine Plus Paclitaxel Versus Paclitaxel in Breast Cancer
@@ -85,8 +85,8 @@ The safety and efficacy of gemcitabine was evaluated in two randomized, multicen
 
 28-Day Schedule
 
-A multinational, randomized trial compared Gemcitabine plus cisplatin to cisplatin alone in the treatment of patients with inoperable Stage IIIA, IIIB, or IV NSCLC who had not received prior chemotherapy.
-Patients were randomized to receive Gemcitabine 1000 mg/m2 on Days 1, 8, and 15 of a 28-day cycle with cisplatin 100 mg/m2 administered on Day 1 of each cycle or to receive cisplatin 100 mg/m2 on Day 1 of each 28-day cycle.
+A multinational, randomized trial compared gemcitabine plus cisplatin to cisplatin alone in the treatment of patients with inoperable Stage IIIA, IIIB, or IV NSCLC who had not received prior chemotherapy.
+Patients were randomized to receive gemcitabine 1,000 mg/m2 on Days 1, 8, and 15 of a 28-day cycle with cisplatin 100 mg/m2 administered on Day 1 of each cycle or to receive cisplatin 100 mg/m2 on Day 1 of each 28-day cycle.
 The primary efficacy outcome measure was overall survival.
 A total of 522 patients were enrolled at clinical centers in Europe, the US, and Canada.
 Patient demographics and baseline characteristics (shown in Table 14) were similar between arms with the exception of histologic subtype of NSCLC, with 48% of patients on the cisplatin arm and 37% of patients on the gemcitabine plus cisplatin arm having adenocarcinoma.
@@ -95,7 +95,7 @@ Efficacy results are presented in Table 14 and Figure 3 for overall survival.
 21-Day Schedule
 
 A randomized (1:1), multicenter trial was conducted in 135 patients with Stage IIIB or IV NSCLC.
-Patients were randomized to receive gemcitabine 1250 mg/m2 on Days 1 and 8, and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle or to receive etoposide 100 mg/m2 intravenously on Days 1, 2, and 3 and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle.
+Patients were randomized to receive gemcitabine 1,250 mg/m2 on Days 1 and 8, and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle or to receive etoposide 100 mg/m2 intravenously on Days 1, 2, and 3 and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle.
 
 There was no significant difference in survival between the two treatment arms (Log rank p=0.18, two-sided, see Table 14).
 The median survival was 8.7 months for the gemcitabine plus cisplatin arm versus 7.0 months for the etoposide plus cisplatin arm.
@@ -106,9 +106,9 @@ Figure 3: Kaplan-Meier Survival Curve in Gemcitabine Plus Cisplatin Versus Cispl
 
 Table 14: Randomized Trials of Gemcitabine Plus Cisplatin in Patients with NSCLC
 
-| Trial | 28-day Schedulea |  | 28-day Scheduleb |  |
+| Trial | 28-day Schedulea |  | 21-day Scheduleb |  |
 | --- | --- | --- | --- | --- |
-| Treatment Arm | Gemcitabine plus cisplatin | Cisplatin | Gemcitabine plus cisplatin | Etoposide plus cisplatin |
+| Treatment Arm | Gemcitabine plus Cisplatin | Cisplatin | Gemcitabine plus Cisplatin | Etoposide plus Cisplatin |
 | Number of patients | 260 | 262 | 69 | 66 |
 | Demographic/Entry Characteristics MaleMedian age, years Range | 70%6236 to 88 | 71%6335 to 79 | 93%5833 to 76 | 92%6035 to 75 |
 | Stage IIIA | 7% | 7% | N/Ac | N/Ac |
@@ -123,13 +123,13 @@ Table 14: Randomized Trials of Gemcitabine Plus Cisplatin in Patients with NSCLC
 | p-valuef | p=0.009 |  | p=0.015 |  |
 | Tumor Response | 26% | 10% | 33% | 14% |
 | p-valuef | p<0.0001 |  | p=0.01 |  |
-| a 28-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days. b 21-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. c N/A - Not applicable. d Karnofsky Performance Status. e CI=confidence intervals. f p-value two-sided Fisher's Exact test for difference in binomial proportions; log rank test for time-to-event analyses. |  |  |  |  |
+| a 28-day schedule — Gemcitabine plus cisplatin: gemcitabine 1,000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days. b 21-day schedule — Gemcitabine plus cisplatin: gemcitabine 1,250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. c N/A - Not applicable. d Karnofsky Performance Status. e CI=confidence intervals. f p-value two-sided Fisher's Exact test for difference in binomial proportions; log rank test for time-to-event analyses. |  |  |  |  |
 
 ## 14.4 Pancreatic Cancer
 
-The safety and efficacy of Gemcitabine was evaluated in two trials, a randomized, single-blind, two-arm, active-controlled trial conducted in patients with locally advanced or metastatic pancreatic cancer who had received no prior chemotherapy and in a single-arm, open-label, multicenter trial conducted in patients with locally advanced or metastatic pancreatic cancer previously treated with 5-FU or a 5-FU-containing regimen.
-The first trial randomized patients to receive gemcitabine 1000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly dosing for 3 consecutive weeks every 28-days in subsequent cycles (n=63) or to 5-fluorouracil (5-FU) 600 mg/m2 intravenously over 30 minutes once weekly (n=63).
-In the second trial, all patients received Gemcitabine 1000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly dosing for 3 consecutive weeks every 28-days in subsequent cycles.
+The safety and efficacy of gemcitabine was evaluated in two trials, a randomized, single-blind, two-arm, active-controlled trial conducted in patients with locally advanced or metastatic pancreatic cancer who had received no prior chemotherapy and in a single-arm, open-label, multicenter trial conducted in patients with locally advanced or metastatic pancreatic cancer previously treated with 5-FU or a 5-FU-containing regimen.
+The first trial randomized patients to receive gemcitabine 1,000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly dosing for 3 consecutive weeks every 28-days in subsequent cycles (n=63) or to 5-fluorouracil (5-FU) 600 mg/m2 intravenously over 30 minutes once weekly (n=63).
+In the second trial, all patients received gemcitabine 1,000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly dosing for 3 consecutive weeks every 28-days in subsequent cycles.
 The primary efficacy outcome measure in both trials was "clinical benefit response".
 A patient was considered to have had a clinical benefit response if either of the following occurred:
 
@@ -143,7 +143,7 @@ OR:
 The randomized trial enrolled 126 patients across 17 sites in the US and Canada.
 The demographic and entry characteristics were similar between the arms (Table 15).
 The efficacy outcome results are shown in Table 15 and for overall survival in Figure 4.
-Patients treated with Gemcitabine had statistically significant increases in clinical benefit response, survival, and time to disease progression compared to those randomized to receive 5-FU.
+Patients treated with gemcitabine had statistically significant increases in clinical benefit response, survival, and time to disease progression compared to those randomized to receive 5-FU.
 No confirmed objective tumor responses were observed in either treatment arm.
 
 Table 15: Randomized Trial of Gemcitabine Versus 5-Fluorouracil in Pancreatic Cancer

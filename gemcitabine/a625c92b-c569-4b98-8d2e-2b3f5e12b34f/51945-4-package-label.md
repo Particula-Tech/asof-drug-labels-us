@@ -1,20 +1,18 @@
-# PRINCIPAL DISPLAY PANEL - 2 g Vial Label - Australia
+# PRINCIPAL DISPLAY PANEL - 2 g Vial Label
 
-2 g Single Use Vial NDC 0409-0187-01
+2 g Single-dose Vial NDC 0409-0187-01
 
 Sterile
 
 Gemcitabine for Injection, USP
 
-2 g
+2 g Rx only
 
 (lyophilized) For Intravenous Use Only
 
 Caution: Cytotoxic Agent
 
-Rx only
-
-# PRINCIPAL DISPLAY PANEL - 2 g Vial Carton - Australia
+# PRINCIPAL DISPLAY PANEL - 2 g Vial Carton
 
 VIAL
 
@@ -32,48 +30,6 @@ Gemcitabine for Injection, USP
 
 Rx only
 
-For Intravenous Use Only DO NOT REFRIGERATE
-
-Single Use Vial
-
-Caution: Cytotoxic Agent
-
-# PRINCIPAL DISPLAY PANEL - 2 g Vial Label - India
-
-2 g Single Use Vial NDC 0409-0187-01
-
-Sterile
-
-Gemcitabine for Injection, USP
-
-2 g
-
-(lyophilized) For Intravenous Use Only
-
-Caution: Cytotoxic Agent
-
-Rx only
-
-# PRINCIPAL DISPLAY PANEL - 2 g Vial Carton - India
-
-VIAL
-
-Hospira
-
-1 x 2 g Vial NDC 0409-0187-01
-
-Sterile
-
-Gemcitabine for Injection, USP
-
-2 g
-
-(lyophilized)
-
-Rx only
-
-For Intravenous Use Only DO NOT REFRIGERATE
-
-Single Use Vial
+For Intravenous Use Only DO NOT REFRIGERATE Single-dose Vial
 
 Caution: Cytotoxic Agent
