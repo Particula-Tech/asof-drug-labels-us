@@ -1,4 +1,6 @@
-MEDICATION GUIDE AMNESTEEM (AM-NES-TEAM) (Isotretinoin Capsules)
+# MEDICATION GUIDE
+
+AMNESTEEM (AM-NES-TEAM) (Isotretinoin Capsules)
 
 Read the Medication Guide that comes with Amnesteem before you start taking it and each time you get a prescription.
 There may be new information.

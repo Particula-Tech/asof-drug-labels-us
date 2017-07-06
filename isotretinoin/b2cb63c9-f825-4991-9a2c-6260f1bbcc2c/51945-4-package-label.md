@@ -18,16 +18,6 @@ Special Instructions to Pharmacists:
 - •Dispense Prescription Packs intact.
 - •Do not remove Prescription Packs from carton until dispensed.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-Made in France
-
-©2002-2014 Mylan Pharmaceuticals Inc.
-
-Mylan.com
-
-MCA6611:93:30C:R1
-
 Reminders for Pharmacists:
 
 - •Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
@@ -49,6 +39,16 @@ Store at 68° to 77°F (20° to 25°C).
 
 Protect from light.
 
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in France
+
+©2002-2012 Mylan Pharmaceuticals Inc.
+
+Mylan.com
+
+MCAT:6611:93:30C:R2
+
 PRINCIPAL DISPLAY PANEL - 20 mg
 
 NDC 0378-6612-93
@@ -68,16 +68,6 @@ Special Instructions to Pharmacists:
 - •An Amnesteem Medication Guide is included in each Prescription Pack.
 - •Dispense Prescription Packs intact.
 - •Do not remove Prescription Packs from carton until dispensed.
-
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-Made in France
-
-©2002-2014 Mylan Pharmaceuticals Inc.
-
-Mylan.com
-
-MCA6612:93:30C:R1
 
 Reminders for Pharmacists:
 
@@ -100,6 +90,16 @@ Store at 68° to 77°F (20° to 25°C).
 
 Protect from light.
 
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in France
+
+©2002-2012 Mylan Pharmaceuticals Inc.
+
+Mylan.com
+
+MCAT:6612:93:30C:R2
+
 PRINCIPAL DISPLAY PANEL - 40 mg
 
 NDC 0378-6614-93
@@ -119,16 +119,6 @@ Special Instructions to Pharmacists:
 - •An Amnesteem Medication Guide is included in each Prescription Pack.
 - •Dispense Prescription Packs intact.
 - •Do not remove Prescription Packs from carton until dispensed.
-
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-Made in France
-
-©2002-2014 Mylan Pharmaceuticals Inc.
-
-Mylan.com
-
-MCA6614:93:30C:R1
 
 Reminders for Pharmacists:
 
@@ -150,3 +140,13 @@ Store at 68° to 77°F (20° to 25°C).
 [See USP Controlled Room Temperature.]
 
 Protect from light.
+
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in France
+
+©2002-2012 Mylan Pharmaceuticals Inc.
+
+Mylan.com
+
+MCAT:6614:93:30C:R2
