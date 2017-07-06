@@ -3,7 +3,7 @@
 Each LIALDA delayed-release tablet for oral administration contains 1.2 g 5-aminosalicylic acid (5-ASA; mesalamine), an anti-inflammatory agent.
 Mesalamine also has the chemical name 5-amino-2-hydroxybenzoic acid and its structural formula is:
 
-Molecular formula: C 7H 7NO 3
+Molecular formula: C7H7NO3
 
 Molecular weight: 153.14
 

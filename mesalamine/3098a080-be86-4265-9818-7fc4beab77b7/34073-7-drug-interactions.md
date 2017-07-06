@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-No investigations of interaction between LIALDA and other drugs except for certain antibiotics have been performed [see Pharmacokinetics (12.3)].
+No investigations of interaction between LIALDA and other drugs except for certain antibiotics have been performed [see Clinical Pharmacology (12.3)].
 However, the following drug-drug interactions have been reported for products containing mesalamine:
 
 ## 7.1 Nephrotoxic Agents, Including Non-Steroidal Anti-Inflammatory Drugs

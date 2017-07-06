@@ -22,7 +22,7 @@ Pancreatitis occurred in less than 1% of patients during clinical trials and res
 Adverse reactions occurring in LIALDA or placebo groups at a frequency of at least 1% in two 8-week, double blind, placebo-controlled trials are listed in Table 1.
 The most common adverse reactions with LIALDA 2.4 g/day and 4.8 g/day were headache (5.6% and 3.4%, respectively) and flatulence (4% and 2.8%, respectively).
 
-Table 1: Adverse Reactions in Two Eight-Week Placebo-Controlled Trials Experienced by at Least 1% of the LIALDA Group and at a Rate Greater than Placebo a
+Table 1: Adverse Reactions in Two Eight-Week Placebo-Controlled Trials Experienced by at Least 1% of the LIALDA Group and at a Rate Greater than Placeboa
 
 | Adverse Reaction | LIALDA 2.4 g/day (n = 177) | LIALDA 4.8 g/day (n = 179) | Placebo (n = 179) |
 | --- | --- | --- | --- |
@@ -118,12 +118,24 @@ Immune System Disorders: anaphylactic reaction, angioedema, Stevens-Johnson synd
 
 Musculoskeletal and Connective Tissue Disorders: myalgia
 
-Neurological/Psychiatric: peripheral neuropathy, Guillain-Barre syndrome, transverse myelitis
+Neurological/Psychiatric: peripheral neuropathy, Guillain-Barre syndrome, transverse myelitis, intracranial hypertension
 
-Renal Disorders: interstitial nephritis
+Renal Disorders: interstitial nephritis, nephrogenic diabetes insipidus
 
 Respiratory, Thoracic and Mediastinal Disorders: hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis)
 
 Skin: psoriasis, pyoderma gangrenosum, erythema nodosum
 
 Urogenital: reversible oligospermia
+
+Descriptions of Selected Adverse Reactions:
+
+Intracranial hypertension:
+
+Cases of intracranial hypertension (increased intracranial pressure) with papilledema (pseudotumor cerebri or benign intracranial hypertension) have been reported with mesalamine use.
+If undetected, this condition may result in constriction of the visual field and permanent vision loss.
+Mesalamine should be discontinued, if clinically possible, if this syndrome occurs.
+
+Nephrogenic diabetes insipidus:
+
+Cases of nephrogenic diabetes insipidus have been reported with mesalamine use.

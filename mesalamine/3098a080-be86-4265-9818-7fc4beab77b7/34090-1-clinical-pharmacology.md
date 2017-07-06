@@ -28,22 +28,22 @@ In a single dose study, LIALDA 1.2 g, 2.4 g and 4.8 g were administered in the f
 Plasma concentrations of mesalamine were detectable after 2 hours and reached a maximum by 9-12 hours on average for the doses studied.
 The pharmacokinetic parameters are highly variable among subjects (Table 3).
 Mesalamine systemic exposure in terms of area under the plasma concentration-time curve (AUC) was slightly more than dose proportional between 1.2 g and 4.8 g LIALDA.
-Maximum plasma concentrations (C max) of mesalamine increased approximately dose proportionately between 1.2 g and 2.4 g and sub-proportionately between 2.4 g and 4.8 g LIALDA, with the dose normalized value at 4.8 g representing, on average, 74% of that at 2.4 g based on geometric means.
+Maximum plasma concentrations (Cmax) of mesalamine increased approximately dose proportionately between 1.2 g and 2.4 g and sub-proportionately between 2.4 g and 4.8 g LIALDA, with the dose normalized value at 4.8 g representing, on average, 74% of that at 2.4 g based on geometric means.
 
 Table 3: Mean (SD) PK Parameters for Mesalamine Following Single Dose Administration of LIALDA Under Fasting Conditions
 
-| Parameter 1 of Mesalamine | LIALDA 1.2 g (N=47) | LIALDA 2.4 g (N=48) | LIALDA 4.8 g (N=48) |
+| Parameter1 of Mesalamine | LIALDA 1.2 g (N=47) | LIALDA 2.4 g (N=48) | LIALDA 4.8 g (N=48) |
 | --- | --- | --- | --- |
-| AUC 0-t (ng.h/mL) | 9039 + (5054) | 20538 (12980) | 41434 (26640) |
-| AUC 0-∞ (ng.h/mL) | 9578 • (5214) | 21084 (13185) | 44775 # (30302) |
-| C max (ng/mL) | 857 (638) | 1595 (1484) | 2154 (1140) |
-| T max* (h) | 9.0** (4.0-32.1) | 12.0 (4.0-34.1) | 12.0 (4.0-34.0) |
-| T lag* (h) | 2.0** (0-8.0) | 2.0 (1.0-4.0) | 2.0 (1.0-4.0) |
-| T 1/2 (h) (Terminal Phase) | 8.56 • (6.38) | 7.05 § (5.54) | 7.25 # (8.32) |
-| 1 Arithmetic mean of parameter values are presented except for T max and T lag. *Median (min, max); +N=43, •N=27, §N=33, #N=36, **N=46 |  |  |  |
+| AUC0-t (ng.h/mL) | 9039+ (5054) | 20538 (12980) | 41434 (26640) |
+| AUC0-∞ (ng.h/mL) | 9578• (5214) | 21084 (13185) | 44775# (30302) |
+| Cmax (ng/mL) | 857 (638) | 1595 (1484) | 2154 (1140) |
+| Tmax* (h) | 9.0** (4.0-32.1) | 12.0 (4.0-34.1) | 12.0 (4.0-34.0) |
+| Tlag* (h) | 2.0** (0-8.0) | 2.0 (1.0-4.0) | 2.0 (1.0-4.0) |
+| T1/2 (h) (Terminal Phase) | 8.56• (6.38) | 7.05§ (5.54) | 7.25# (8.32) |
+| 1 Arithmetic mean of parameter values are presented except for Tmax and Tlag. *Median (min, max); +N=43, •N=27, §N=33, #N=36, **N=46 |  |  |  |
 
 Administration of a single dose of LIALDA 4.8 g with a high fat meal resulted in further delay in absorption, and plasma concentrations of mesalamine were detectable 4 hours following dosing.
-However, a high fat meal increased systemic exposure of mesalamine (mean C max: ↑ 91%; mean AUC: ↑ 16%) compared to results in the fasted state.
+However, a high fat meal increased systemic exposure of mesalamine (mean Cmax: ↑ 91%; mean AUC: ↑ 16%) compared to results in the fasted state.
 LIALDA was administered with food in the controlled clinical trials that supported its approval.
 
 In a single and multiple dose pharmacokinetic study of LIALDA, 2.4 g or 4.8 g was administered once daily with standard meals to 28 healthy volunteers per dose group.
@@ -52,7 +52,7 @@ Steady state was achieved generally by 2 days after dosing.
 Mean AUC at steady state was only modestly greater (1.1- to 1.4-fold) than predictable from single dose pharmacokinetics.
 
 In a single dose pharmacokinetic study of LIALDA, 4.8 g was administered in the fasted state to 71 healthy male and female volunteers (28 young (18-35yrs); 28 elderly (65-75yrs); 15 elderly (>75yrs)).
-Increased age resulted in increased systemic exposure (approximately 2-fold in C max), to mesalamine and its metabolite N-acetyl-5-aminosalicylic acid.
+Increased age resulted in increased systemic exposure (approximately 2-fold in Cmax), to mesalamine and its metabolite N-acetyl-5-aminosalicylic acid.
 Increased age resulted in a slower apparent elimination of mesalamine, though there was high between-subject variability.
 Systemic exposures in individual subjects were inversely correlated with renal function as assessed by estimated creatinine clearance.
 
@@ -60,12 +60,12 @@ Table 4: Mean (SD) PK Parameters for Mesalamine Following Single Dose Administra
 
 | Parameter of 5-ASA | Young Subjects (18-35 yrs) (N=28) | Elderly Subjects (65-75 yrs) (N=28) | Elderly Subjects (>75 yrs) (N=15) |
 | --- | --- | --- | --- |
-| AUC 0-t (ng.h/mL) | 51570 (23870) | 73001 (42608) | 65820 (25283) |
-| AUC 0-∞ (ng.h/mL) | 58057 b (22429) | 89612 c (40596) | 63067 d (22531) |
-| C max (ng/mL) | 2243 (1410) | 4999 (4381) | 4832 (4383) |
-| t maxa (h) | 22.0 (5.98 - 48.0) | 12.5 (4.00 - 36.0) | 16.0 (4.00 - 26.0) |
-| t laga (h) | 2.00 (1.00 - 6.00) | 2.00 (1.00 - 4.00) | 2.00 (2.00 - 4.00) |
-| t 1/2 (h), terminal phase | 5.68 b (2.83) | 9.68 c (7.47) | 8.67 d (5.84) |
+| AUC0-t (ng.h/mL) | 51570 (23870) | 73001 (42608) | 65820 (25283) |
+| AUC0-∞ (ng.h/mL) | 58057b (22429) | 89612c (40596) | 63067d (22531) |
+| Cmax (ng/mL) | 2243 (1410) | 4999 (4381) | 4832 (4383) |
+| tmaxa (h) | 22.0 (5.98 - 48.0) | 12.5 (4.00 - 36.0) | 16.0 (4.00 - 26.0) |
+| tlaga (h) | 2.00 (1.00 - 6.00) | 2.00 (1.00 - 4.00) | 2.00 (2.00 - 4.00) |
+| t1/2 (h), terminal phase | 5.68b (2.83) | 9.68c (7.47) | 8.67d (5.84) |
 | Renal clearance (L/h) | 2.05 (1.33) | 2.04 (1.16) | 2.13 (1.20) |
 | Arithmetic mean (SD) data are presented, N = Number of subjects a Median (min-max), bN=15, cN=16, dN=13 |  |  |  |
 
