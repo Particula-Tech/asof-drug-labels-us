@@ -4,7 +4,7 @@
 
 Adult
 
-The antihypertensive effects ofcandesartan cilexetil were examined in 14 placebo-controlled trials of 4-to 12-weeks duration, primarily at daily doses of 2 to 32 mg per day in patients with baseline diastolic blood pressures of 95 to 114 mm Hg.
+The antihypertensive effects of candesartan cilexetil were examined in 14 placebo-controlled trials of 4-to 12-weeks duration, primarily at daily doses of 2 to 32 mg per day in patients with baseline diastolic blood pressures of 95 to 114 mm Hg.
 Most of the trials were of candesartan cilexetil as a single agent, but it was also studied as add-on to hydrochlorothiazide and amlodipine.
 These studies included a total of 2350 patients randomized to one of several doses of candesartan cilexetil and 1027 to placebo.
 Except for a study in diabetics, all studies showed significant effects, generally dose related, of 2 to 32 mg on trough (24 hour) systolic and diastolic pressures compared to placebo, with doses of 8 to 32 mg giving effects of about 8-12/4-8 mm Hg.

@@ -9,6 +9,6 @@ INDIA
 
 Manufactured for: Macleods Pharma USA, Inc., Plainsboro, NJ 08536
 
-Revised: 12/2016 Ora-Plus®, Ora-Sweet SF®, and Ora-Blend SF® are registered trademarks of Paddock Laboratories, Inc.
+Revised: 06/2017 Ora-Plus®, Ora-Sweet SF®, and Ora-Blend SF® are registered trademarks of Paddock Laboratories, Inc.
 
 .

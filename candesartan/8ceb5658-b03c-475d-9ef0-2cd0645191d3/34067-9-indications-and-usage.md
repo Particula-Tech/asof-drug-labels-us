@@ -2,23 +2,24 @@
 
 ## 1.1 Hypertension
 
-Candesartan cilexetil tablets are indicatedfor the treatment of hypertension in adults and in children 1 to <17 years ofage, to lower blood pressure.
-Lowering blood pressure reduces the risk of fataland non-fatal cardiovascular events, primarily strokes and myocardial infarctions.These benefits have been seen in controlled trials of antihypertensive drugsfrom a wide variety of pharmacologic classes including the class to which thisdrug principally belongs.
+Candesartan cilexetil tablets are indicated for the treatment of hypertension in adults and in children 1 to <17 years of age, to lower blood pressure.
+Lowering blood pressure reduces the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions.
+These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which this drug principally belongs.
 
-Control of high blood pressure should be partof comprehensive cardiovascular risk management, including, as appropriate,lipid control, diabetes management, antithrombotic therapy, smoking cessation,exercise, and limited sodium intake.
-Many patients will require more than onedrug to achieve blood pressure goals.
-For specific advice on goals andmanagement, see published guidelines, such as those of the National High BloodPressure Education Program’s Joint National Committee on Prevention, Detection,Evaluation, and Treatment of High Blood Pressure (JNC).
+Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake.
+Many patients will require more than one drug to achieve blood pressure goals.
+For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program’s Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC).
 
-Numerous antihypertensive drugs, from avariety of pharmacologic classes and with different mechanisms of action, havebeen shown in randomized controlled trials to reduce cardiovascular morbidityand mortality, and it can be concluded that it is blood pressure reduction, andnot some other pharmacologic property of the drugs, that is largely responsiblefor those benefits.
-The largest and most consistent cardiovascular outcomebenefit has been a reduction in the risk of stroke, but reductions inmyocardial infarction and cardiovascular mortality also have been seenregularly.
+Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits.
+The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly.
 
-Elevated systolic or diastolic pressure causesincreased cardiovascular risk, and the absolute risk increase per mmHg isgreater at higher blood pressures, so that even modest reductions of severehypertension can provide substantial benefit.
-Relative risk reduction fromblood pressure reduction is similar across populations with varying absoluterisk, so the absolute benefit is greater in patients who are at higher riskindependent of their hypertension (for example, patients with diabetes orhyperlipidemia), and such patients would be expected to benefit from moreaggressive treatment to a lower blood pressure goal.
+Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit.
+Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal.
 
-Some antihypertensive drugs have smaller bloodpressure effects (as monotherapy) in black patients, and many antihypertensivedrugs have additional approved indications and effects (e.g., on angina, heartfailure, or diabetic kidney disease).
-These considerations may guide selectionof therapy.
+Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
+These considerations may guide selection of therapy.
 
-Candesartan cilexetil tablets may be used aloneor in combination with other antihypertensive agents.
+Candesartan cilexetil tablets may be used alone or in combination with other antihypertensive agents.
 
 ## 1.2 Heart Failure
 

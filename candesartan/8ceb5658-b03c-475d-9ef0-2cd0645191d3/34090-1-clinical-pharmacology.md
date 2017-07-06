@@ -5,7 +5,8 @@
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium.
 Candesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland.
-Its action is, therefore, independent of the pathways for angiotensin II synthesis.There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
+Its action is, therefore, independent of the pathways for angiotensin II synthesis.
+There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
 Candesartan has much greater affinity (>10,000-fold) for the AT1 receptor than for the AT2 receptor.Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is widely used in the treatment of hypertension.
 ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE.
 Because candesartan does not inhibit ACE (kininase II), it does not affect the response to bradykinin.

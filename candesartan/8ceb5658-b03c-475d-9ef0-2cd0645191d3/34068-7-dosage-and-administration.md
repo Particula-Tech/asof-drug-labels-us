@@ -42,7 +42,7 @@ An antihypertensive effect is usually present within 2 weeks, with full effect g
 
 Children < 1 year of age must not receive candesartan cilexetil tablets for hypertension.
 
-All pediatric patients with a glomerular filtration rate less than 30 ml/min/1.73m2should not receive candesartan cilexetil tablets since candesartan cilexetil tablets has not been studied in this population [see Use in Specific Populations (8.4)]
+All pediatric patients with a glomerular filtration rate less than 30 ml/min/1.73m2 should not receive candesartan cilexetil tablets since candesartan cilexetil tablets has not been studied in this population [see Use in Specific Populations (8.4)]
 
 For children who cannot swallow tablets, an oral suspension may be substituted as described below:
 
@@ -82,5 +82,5 @@ Shake well before each use.
 
 ## 2.3 Adult Heart Failure
 
-The recommended initial dose for treating heartfailure is 4 mg once daily.
-The target dose is 32 mg once daily, which isachieved by doubling the dose at approximately 2-week intervals, as toleratedby the patient.
+The recommended initial dose for treating heart failure is 4 mg once daily.
+The target dose is 32 mg once daily, which is achieved by doubling the dose at approximately 2-week intervals, as tolerated by the patient.

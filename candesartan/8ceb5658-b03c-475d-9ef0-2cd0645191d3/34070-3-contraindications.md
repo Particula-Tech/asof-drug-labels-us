@@ -1,5 +1,5 @@
 # 4 CONTRAINDICATIONS
 
-Candesartancilexetil tabletsare contraindicated in patients who are hypersensitiveto candesartan.
+Candesartan cilexetil tablets are contraindicated in patients who are hypersensitive to candesartan.
 
-Do not co-administer aliskiren with candesartancilexetil tablets inpatients with diabetes [see Drug Interactions (7.4)].
+Do not co-administer aliskiren with candesartan cilexetil tablets in patients with diabetes [see Drug Interactions (7.4)].

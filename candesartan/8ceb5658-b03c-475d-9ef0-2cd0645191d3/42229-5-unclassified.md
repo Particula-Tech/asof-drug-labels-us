@@ -39,7 +39,7 @@ Before you take candesartan cilexetil tablets, tell your doctor if you:
 · currently have vomiting or diarrhea
 
 · are scheduled for surgery or anesthesia.
-Low blood pressure can happen in people who take candesartan cilexetil tablets andhave major surgery and anesthesia.
+Low blood pressure can happen in people who take candesartan cilexetil tablets and have major surgery and anesthesia.
 
 · have any other medical conditions
 
@@ -183,4 +183,4 @@ This helps lower blood pressure.
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 Manufactured by: Macleods Pharmaceutical Limited Daman (U.T.)
-INDIA Manufactured for: Macleods Pharma USA, Inc., Plainsboro, NJ 08536 Ora-Plus®, Ora-Sweet SF®, and Ora-Blend SF® are registered trademarks of Paddock Laboratories, Inc. Revised: 12/2016 PM02415501
+INDIA Manufactured for: Macleods Pharma USA, Inc., Plainsboro, NJ 08536 Ora-Plus®, Ora-Sweet SF®, and Ora-Blend SF® are registered trademarks of Paddock Laboratories, Inc. Revised: 06/2017 PM02574701

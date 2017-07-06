@@ -54,4 +54,8 @@ In the CHARM program, comparing candesartan cilexetil in total daily doses up to
 The following adverse reactions were identified during post-approval use of candesartan cilexetil.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following have been very rarely reported in post-marketing experience:Digestive: Abnormal hepatic function and hepatitis.Hematologic: Neutropenia, leukopenia, and agranulocytosis.Immunologic: Angioedema.Metabolic and Nutritional Disorders: Hyperkalemia, hyponatremia.Respiratory system disorders: Cough.Skin and Appendages Disorders: Pruritus, rash and urticaria.Rare reports of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers
+The following have been very rarely reported in post-marketing experience: Digestive: Abnormal hepatic function and hepatitis.
+Hematologic: Neutropenia, leukopenia, and agranulocytosis.
+Immunologic: Angioedema.
+Metabolic and Nutritional Disorders: Hyperkalemia, hyponatremia.Respiratory system disorders: Cough.
+Skin and Appendages Disorders: Pruritus, rash and urticaria.Rare reports of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers
