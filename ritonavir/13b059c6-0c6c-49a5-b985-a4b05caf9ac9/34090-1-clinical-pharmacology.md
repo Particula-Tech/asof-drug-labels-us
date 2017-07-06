@@ -43,7 +43,7 @@ Upon multiple dosing, ritonavir accumulation is less than predicted from a singl
 | Percent Bound* |  | 98 to 99% |
 | † SS = steady state; patients taking ritonavir 600 mg q12h. ‡ Single ritonavir 600 mg dose. * Primarily bound to human serum albumin and alpha-1 acid glycoprotein over the ritonavir concentration range of 0.01 to 30 µg/mL. |  |  |
 
-Effects on Electrocardiogram
+Cardiac Electrophysiology
 
 QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg once-daily) controlled crossover study in 45 healthy adults, with 10 measurements over 12 hours on Day 3.
 The maximum mean (95% upper confidence bound) time-matched difference in QTcF from placebo after baseline correction was 5.5 (7.6) milliseconds (msec) for 400 mg twice-daily ritonavir.

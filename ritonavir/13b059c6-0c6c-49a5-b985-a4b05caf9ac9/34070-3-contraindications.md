@@ -9,10 +9,11 @@
 | --- | --- | --- |
 | Drug Class | Drugs Within Class That Are Contraindicated With NORVIR** | Clinical Comments |
 | Alpha1-adrenoreceptor antagonist | Alfuzosin HCL | Potential for hypotension. |
+| Antianginal | Ranolazine | Potential for serious and/or life-threatening reactions. |
 | Antiarrhythmics | Amiodarone, dronedarone, flecainide, propafenone, quinidine | Potential for cardiac arrhythmias. |
 | Antifungal | Voriconazole | Voriconazole is contraindicated with ritonavir doses of 400 mg every 12 hours or greater due to the potential for loss of antifungal response. |
 | Anti-gout | Colchicinea | Potential for serious and/or life-threatening reactions in patients with renal and/or hepatic impairment. |
-| Antipsychotics | Lurasidone Pimozide | Potential for serious and/or life - threatening reactions.Potential for serious and/or life‑threatening reactions such as cardiac arrhythmias. |
+| Antipsychotics | Lurasidone Pimozide | Potential for serious and/or life-threatening reactions. Potential for serious and/or life‑threatening reactions such as cardiac arrhythmias. |
 | Ergot Derivatives | Dihydroergotamine, ergotamine, methylergonovine | Potential for acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system. |
 | GI Motility Agent | Cisapride | Potential for cardiac arrhythmias. |
 | Herbal Products | St. John’s Wort (hypericum perforatum) | May lead to loss of virologic response and possible resistance to NORVIR or to the class of protease inhibitors. |

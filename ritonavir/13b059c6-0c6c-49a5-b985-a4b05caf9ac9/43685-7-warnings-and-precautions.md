@@ -15,7 +15,7 @@ When co-administering NORVIR with other protease inhibitors, see the full prescr
 See Table 4 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during NORVIR therapy; review concomitant medications during NORVIR therapy, and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4)and Drug Interactions (7)].
 
-## 5.2 Hepatic Reactions
+## 5.2 Hepatotoxicity
 
 Hepatic transaminase elevations exceeding 5 times the upper limit of normal, clinical hepatitis, and jaundice have occurred in patients receiving NORVIR alone or in combination with other antiretroviral drugs (see Table 3).
 There may be an increased risk for transaminase elevations in patients with underlying hepatitis B or C. Therefore, caution should be exercised when administering NORVIR to patients with pre-existing liver diseases, liver enzyme abnormalities, or hepatitis.

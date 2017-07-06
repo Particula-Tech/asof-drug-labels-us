@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-## 10.1 Acute Overdosage - Human Overdose Experience
+Acute Overdosage - Human Overdose Experience
 
 Human experience of acute overdose with NORVIR is limited.
 One patient in clinical trials took NORVIR 1500 mg per day for two days.
@@ -9,7 +9,7 @@ A post-marketing case of renal failure with eosinophilia has been reported with 
 
 The approximate lethal dose was found to be greater than 20 times the related human dose in rats and 10 times the related human dose in mice.
 
-## 10.2 Management of Overdosage
+Management of Overdosage
 
 Treatment of overdose with NORVIR consists of general supportive measures including monitoring of vital signs and observation of the clinical status of the patient.
 There is no specific antidote for overdose with NORVIR.

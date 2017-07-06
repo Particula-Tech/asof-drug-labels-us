@@ -22,7 +22,7 @@ During the double-blind phase of Study 247, CD4 cell counts increases from basel
 From Week 4 and through Week 24, mean CD4 cell counts for patients randomized to NORVIR appeared to plateau.
 In contrast, there was no apparent change in mean CD4 cell counts for patients randomized to placebo at any visit between baseline and Week 24 of the double-blind phase of Study 247.
 
-## 14.2 Patients Without Prior Antiretroviral Therapy
+## 14.2 Patients without Prior Antiretroviral Therapy
 
 In Study 245, 356 antiretroviral-naive HIV-1 infected patients (mean baseline CD4 = 364 cells/µL) were randomized to receive either NORVIR 600 mg twice-daily, zidovudine 200 mg three-times-daily, or a combination of these drugs.
 
