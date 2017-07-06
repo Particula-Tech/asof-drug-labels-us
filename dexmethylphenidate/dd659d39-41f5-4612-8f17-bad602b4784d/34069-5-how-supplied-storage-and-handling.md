@@ -14,8 +14,14 @@ Imprinted in black ink with “TEVA” on cap and “5552” on body in bottles 
 20 mg: Two-piece hard-gelatin capsule with white-opaque cap and white-opaque body, filled with white to off-white pellets.
 Imprinted in black ink with “TEVA” on cap and “5553” on body in bottles of 100 (NDC 0093-5553-01).
 
+25 mg: Two-piece hard-gelatin capsule with aqua blue opaque cap and white opaque body, filled with white to off-white pellets.
+Imprinted in black ink with “TEVA” on cap and “5045” on body in bottles of 100 (NDC 0093-5045-01).
+
 30 mg: Two-piece hard-gelatin capsule with ivory-opaque cap and white-opaque body, filled with white to off-white pellets.
 Imprinted in black ink with “TEVA” on cap and “5554” on body in bottles of 100 (NDC 0093-5554-01).
+
+35 mg: Two-piece hard-gelatin capsule with aqua blue opaque cap and ivory opaque body, filled with white to off-white pellets.
+Imprinted in black ink with “TEVA” on cap and “5046” on body in bottles of 100 (NDC 0093-5046-01).
 
 40 mg: Two-piece hard-gelatin capsule with blue-green cap and white-opaque body, filled with white to off-white pellets.
 Imprinted in black ink with “TEVA” on cap and “5562” on body in bottles of 100 (NDC 0093-5562-01).

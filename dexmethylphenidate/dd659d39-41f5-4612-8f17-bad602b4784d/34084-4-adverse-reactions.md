@@ -87,7 +87,7 @@ Occurring During Double-Blind Treatment–Adults
 | N = 57 | N = 54 | N = 54 | N = 53 |  |
 | No. of Patients with AEs |  |  |  |  |
 | Total | 84% | 94% | 85% | 68% |
-| Primary System Organ Class/Adverse Event Preferred Term |  |  |  |  |
+| Primary System Organ Class/ Adverse Event Preferred Term |  |  |  |  |
 | Gastrointestinal Disorders | 28% | 32% | 44% | 19% |
 | Dry Mouth | 7% | 20% | 20% | 4% |
 | Dyspepsia | 5% | 9% | 9% | 2% |
@@ -105,8 +105,9 @@ Table 4 summarizes changes in vital signs and weight that were recorded in the a
 Table 4.
 Changes (Mean ± SD) in Vital Signs and Weight by Randomized Dose During Double-Blind Treatment – Adults
 
-|  | Dexmethylphenidate Hydrochloride Extended-Release Capsule, 20 mg(N = 57) | Dexmethylphenidate Hydrochloride Extended-Release Capsule, 30 mg(N = 54) | Dexmethylphenidate Hydrochloride Extended-Release Capsule, 40 mg(N = 54) | Placebo(N = 53) |
+|  | Dexmethylphenidate Hydrochloride Extended-Release Capsule, 20 mg | Dexmethylphenidate Hydrochloride Extended-Release Capsule, 30 mg | Dexmethylphenidate Hydrochloride Extended-Release Capsule, 40 mg | Placebo |
 | --- | --- | --- | --- | --- |
+| (N = 57) | (N = 54) | (N = 54) | (N = 53) |  |
 | Pulse (bpm) | 3.1 ± 11.1 | 4.3 ± 11.7 | 6.0 ± 10.1 | -1.4 ± 9.3 |
 | Diastolic BP (mmHg) | -0.2 ± 8.2 | 1.2 ± 8.9 | 2.1 ± 8.0 | 0.3 ± 7.8 |
 | Weight (kg) | -1.4 ± 2.0 | -1.2 ± 1.9 | -1.7 ± 2.3 | -0.1 ± 3.9 |
@@ -135,7 +136,9 @@ Immune: hypersensitivity reactions including skin rash, urticaria, fever, arthra
 
 Metabolism/Nutrition: anorexia, weight loss during prolonged therapy
 
-Nervous System: dizziness, drowsiness, dyskinesia, headache, rare reports of Tourette’s syndrome, serotonin syndrome in combination with serotonergic drugs, toxic psychosis
+Nervous System: dizziness, drowsiness, dyskinesia, headache, rare reports of Tourette’s syndrome, serotonin syndrome
+
+in combination with serotonergic drugs, toxic psychosis
 
 Vascular: blood pressure increased or decreased, cerebral arteritis and/or occlusion
 
