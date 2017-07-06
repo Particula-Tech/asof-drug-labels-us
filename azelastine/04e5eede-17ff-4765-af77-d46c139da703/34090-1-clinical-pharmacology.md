@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
-Azelastine hydrochloride is a relatively selective histamine H 1 antagonist and an inhibitor of the release of histamine and other mediators from cells (e.g. mast cells) involved in the allergic response.
-Based on in-vitro studies using human cell lines, inhibition of other mediators involved in allergic reactions (e.g. leukotrienes and PAF) has been demonstrated with azelastine hydrochloride.
+Azelastine hydrochloride is a relatively selective histamine H1 antagonist and an inhibitor of the release of histamine and other mediators from cells (e.g., mast cells) involved in the allergic response.
+Based on in-vitro studies using human cell lines, inhibition of other mediators involved in allergic reactions (e.g., leukotrienes and PAF) has been demonstrated with azelastine hydrochloride.
 Decreased chemotaxis and activation of eosinophils has also been demonstrated.
 
 ## Pharmacokinetics and Metabolism
