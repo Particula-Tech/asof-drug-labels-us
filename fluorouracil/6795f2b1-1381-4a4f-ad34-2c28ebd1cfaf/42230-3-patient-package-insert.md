@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Carac® Cream, 0.5% (fluorouracil cream)
+Carac® (Care-ack) Cream, 0.5% (fluorouracil cream)
 
 Read this leaflet carefully before you start to use your medicine.
 Read the information you get every time you get more medicine.
@@ -10,11 +10,11 @@ If you have any questions or are not sure about something, ask your doctor or ph
 
 What is Carac?
 
-Carac (Care ack) is a cream used by adults to treat skin conditions on the face and front part of the scalp called solar keratosis or actinic keratosis.
+Carac is a cream used by adults to treat skin conditions on the face and front part of the scalp called solar keratosis or actinic keratosis.
 
 Who should not use Carac?
 
-Do not use Carac
+Do not use Carac:
 
 - •if you are pregnant or might become pregnant.
   Carac may harm your unborn child.
@@ -25,7 +25,7 @@ Do not use Carac
   If you have DPD enzyme deficiency and use medications containing fluorouracil, you may develop serious side effects such as stomach pain, bloody diarrhea, vomiting, fever, or chills.
 - •if you are allergic to the ingredients in Carac.
   Ask your doctor or pharmacist about the inactive ingredients.
-- •if under 18 years of age.
+- •if you are under 18 years of age.
   Carac should not be used in children.
 
 Tell your doctor if you are able to become pregnant.
@@ -44,7 +44,7 @@ You should use Carac for up to 4 weeks.
 3. 3.Avoid contact with your eyes, nostrils, and mouth.
 4. 4.Wash your hands as soon as you finish putting Carac on your skin.
 5. 5.A moisturizer/sunscreen may be applied 2 hours after Carac has been applied.
-   Do not use any other skin products, including creams, lotions, medications or cosmetics – unless instructed by your doctor.
+   Do not use any other skin products, including creams, lotions, medications, or cosmetics – unless instructed by your doctor.
 
 What should I avoid while using Carac?
 
@@ -61,7 +61,7 @@ What are the possible side effects of Carac?
 
 Most patients using Carac get skin reactions where the medicine is used.
 These reactions include redness, dryness, burning, pain, erosion (loss of the upper layer of skin), and swelling.
-Irritation may continue for two or more weeks after treatment is over.
+Irritation may continue for 2 or more weeks after treatment is over.
 The treated area may become unsightly during therapy.
 
 Some patients get eye irritation.
@@ -73,25 +73,29 @@ If you experience any of these symptoms, discontinue therapy immediately, and co
 
 Storage information
 
-Keep this medicine at room temperature 68 to 77° F (20 to 25° C). Throw away unused medicine.
+Keep this medicine at room temperature 68° to 77° F (20° to 25° C). Throw away unused medicine.
 
-Keep this medicine out of the reach of children.
+Keep this medicine out of reach of children.
 
 General advice about prescription medicines
 
 Medicines are sometimes prescribed for conditions that are not described in patient information leaflets.
-Do not use it for a condition for which it was not prescribed.
+Do not use Carac for a condition for which it was not prescribed.
 This medicine is for your use only.
 Never give it to other people.
 It may harm them even if their skin problem appears to be the same as yours.
 Do not use Carac after the expiration date on the tube.
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-©2016 Valeant Pharmaceuticals North America LLC
+By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
-Revised: 11/2015
+U.S. Patent Number 6,670,335
 
-9499601
+©Valeant Pharmaceuticals North America LLC
 
-50083783G
+Revised: 05/2017
+
+9499602
+
+50083783H

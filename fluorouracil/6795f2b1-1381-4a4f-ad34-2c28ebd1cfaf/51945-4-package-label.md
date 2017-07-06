@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 30 gram Tube Label
+# PRINCIPAL DISPLAY PANEL - 30 gram Carton Label
 
 NDC 0187-5200-30
 
@@ -10,6 +10,6 @@ CREAM, 0.5%
 
 FOR TOPICAL USE ONLY
 
-One 30 g Tube
+Net Wt.30 g
 
 VALEANT

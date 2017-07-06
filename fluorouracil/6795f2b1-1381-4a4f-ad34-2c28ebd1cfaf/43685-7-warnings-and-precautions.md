@@ -5,8 +5,8 @@ Patch testing to prove hypersensitivity may be inconclusive.
 
 Patients should discontinue therapy with Carac if symptoms of DPD enzyme deficiency develop.
 
-Rarely, unexpected, systemic toxicity (e.g. stomatitis, diarrhea, neutropenia, and neurotoxicity) associated with parenteral administration of fluorouracil has been attributed to deficiency of dihydropyrimidine dehydrogenase "DPD" activity.
-One case of life threatening systemic toxicity has been reported with the topical use of 5% fluorouracil in a patient with a complete absence of DPD enzyme activity.
+Rarely, unexpected systemic toxicity (e.g., stomatitis, diarrhea, neutropenia, neurotoxicity) associated with parenteral administration of fluorouracil has been attributed to deficiency of dihydropyrimidine dehydrogenase "DPD" activity.
+One case of life-threatening systemic toxicity has been reported with the topical use of 5% fluorouracil in a patient with a complete absence of DPD enzyme activity.
 Symptoms included severe abdominal pain, bloody diarrhea, vomiting, fever, and chills.
 Physical examination revealed stomatitis, erythematous skin rash, neutropenia, thrombocytopenia, inflammation of the esophagus, stomach, and small bowel.
 Although this case was observed with 5% fluorouracil cream, it is unknown whether patients with profound DPD enzyme deficiency would develop systemic toxicity with lower concentrations of topically applied fluorouracil.
@@ -15,17 +15,17 @@ Applications to mucous membranes should be avoided due to the possibility of loc
 
 # PRECAUTIONS
 
-## General
+## General:
 
 There is a possibility of increased absorption through ulcerated or inflamed skin.
 
-## Information for the Patient
+## Information for the Patient:
 
 Patients using Carac should receive the following information and instructions:
 
 1. 1.This medication is to be used as directed.
 2. 2.This medication should not be used for any disorder other than that for which it was prescribed.
-3. 3.It is for external use only.
+3. 3.It is for topical use only.
 4. 4.Avoid contact with the eyes, eyelids, nostrils, and mouth.
 5. 5.Cleanse affected area and wait 10 minutes before applying Carac.
 6. 6.Wash hands immediately after applying Carac.
@@ -37,11 +37,11 @@ Patients using Carac should receive the following information and instructions:
 9. 9.If you develop abdominal pain, bloody diarrhea, vomiting, fever, or chills while on Carac therapy, stop the medication and contact your physician and/or pharmacist.
 10. 10.Report any side effects to the physician and/or pharmacist.
 
-## Laboratory Tests
+## Laboratory Tests:
 
 To rule out the presence of a frank neoplasm, a biopsy may be considered for those areas failing to respond to treatment or recurring after treatment.
 
-## Carcinogenesis, Mutagenesis and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility:
 
 Adequate long-term studies in animals to evaluate carcinogenic potential have not been conducted with fluorouracil.
 Studies with the active ingredient of Carac, fluorouracil, have shown positive effects in in vitro and in vivo tests for mutagenicity and on impairment of fertility in in vivo animal studies.
@@ -56,21 +56,21 @@ Fluorouracil has been shown to impair fertility after parenteral administration 
 Fluorouracil administered at intraperitoneal doses of 125 and 250 mg/kg has been shown to induce chromosomal aberrations and changes in chromosome organization of spermatogonia in rats.
 In mice, single-dose intravenous and intraperitoneal injections of fluorouracil have been reported to kill differentiated spermatogonia and spermatocytes at a dose of 500 mg/kg and produce abnormalities in spermatids at 50 mg/kg.
 
-## Pediatric Use
+## Pediatric Use:
 
 Actinic keratosis is not a condition seen within the pediatric population, except in association with rare genetic diseases.
 Carac should not be used in children.
 The safety and effectiveness of Carac have not been established in patients less than 18 years old.
 
-## Geriatric Use
+## Geriatric Use:
 
 No significant differences in safety and efficacy measures were demonstrated in patients age 65 and older compared to all other patients.
 
-## Pregnancy
+## Pregnancy:
 
 See CONTRAINDICATIONS.
 
-## Nursing Women
+## Nursing Women:
 
 It is not known whether fluorouracil is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from fluorouracil, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.

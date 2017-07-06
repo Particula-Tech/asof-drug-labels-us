@@ -1,9 +1,9 @@
 # HOW SUPPLIED
 
-Cream - 30 gram tube NDC 0187-5200-30
+NDC 0187-5200-30 30 g tube
 
-Store at Controlled Room Temperature 20 to 25° C (68 to 77° F) [see USP].
+Store at 20° to 25° C (68° to 77° F) [see USP Controlled Room Temperature].
 
-Keep out of the reach of children.
+Keep out of reach of children.
 
 Rx only

@@ -1,13 +1,13 @@
 # ADVERSE REACTIONS
 
-The following were adverse events considered to be drug-related and occurring with a frequency of ≥1% with Carac: application site reaction (94.6%), and eye irritation (5.4%).
-The signs and symptoms of facial irritation (application site reaction) are presented below.
+The following were adverse events considered to be drug related and occurring with a frequency of ≥1% with Carac: application site reaction (94.6%), and eye irritation (5.4%).
+The signs and symptoms of facial irritation (i.e., application site reaction) are presented below.
 
 Summary of Facial Irritation Signs and Symptoms - Pooled Phase 3 Studies
 
 |  | n | (%) | n | (%) | n | (%) | n | (%) | n | (%) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Clinical Sign or Symptom | Active One Week N=85 |  | Active Two Week N=87 |  | Active Four Week N=85 |  | ALL Active Treatments N=257 |  | Vehicle Treatments N=127 |  |
+| Clinical Sign or Symptom | Active 1 Week N=85 |  | Active 2 Week N=87 |  | Active 4 Week N=85 |  | ALL Active Treatments N=257 |  | Vehicle Treatments N=127 |  |
 | Erythema | 76 | (89.4) | 82 | (94.3) | 82 | (96.5) | 240 | (93.4) | 76 | (59.8) |
 | Dryness | 59 | (69.4) | 76 | (87.4) | 79 | (92.9) | 214 | (83.3) | 60 | (47.2) |
 | Burning | 51 | (60.0) | 70 | (80.5) | 71 | (83.5) | 192 | (74.7) | 28 | (22.0) |
@@ -15,23 +15,23 @@ Summary of Facial Irritation Signs and Symptoms - Pooled Phase 3 Studies
 | Pain | 26 | (30.6) | 34 | (39.1) | 52 | (61.2) | 112 | (43.6) | 7 | (5.5) |
 | Edema | 12 | (14.1) | 28 | (32.2) | 51 | (60.0) | 91 | (35.4) | 6 | (4.7) |
 
-During clinical trials, irritation generally began on day 4 and persisted for the remainder of treatment.
-Severity of facial irritation at the last treatment visit was slightly below baseline for the vehicle group, mild to moderate for the 1 week active treatment group, and moderate for the 2 and 4 week active treatment groups.
-Mean severity declined rapidly for each active group after completion of treatment and was below baseline for each group at the week 2 post-treatment follow-up visit.
+During clinical trials, irritation generally began on Day 4 and persisted for the remainder of treatment.
+Severity of facial irritation at the last treatment visit was slightly below baseline for the vehicle group, mild to moderate for the 1-week active treatment group, and moderate for the 2- and 4-week active treatment groups.
+Mean severity declined rapidly for each active group after completion of treatment and was below baseline for each group at the Week 2 post-treatment follow-up visit.
 
 Thirty-one patients (12% of those treated with Carac in the Phase 3 clinical studies) discontinued study treatment early due to facial irritation.
-Except for three patients, discontinuation of treatment occurred on or after day 11 of treatment.
+Except for three patients, discontinuation of treatment occurred on or after Day 11 of treatment.
 
 Eye irritation adverse events, described as mild to moderate in intensity, were characterized as burning, watering, sensitivity, stinging, and itching.
 These adverse events occurred across all treatment arms in one of the two Phase 3 studies.
 
 Summary of All Adverse Events Reported in ≥1% of Patients in the Combined Active Treatment and Vehicle Groups - Pooled Phase 3 Studies
 
-|  | n (%) |  | n (%) |  | n (%) |  | n (%) |  | n (%) |  |
+| BODY AS A WHOLE | 7 | (8.2) | 6 | (6.9) | 12 | (14.1) | 25 | (9.7) | 15 | (11.8) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9721 and 9722 Combined |  |  |  |  |  |  |  |  |  |  |
-| Adverse Event | Active One Week N= 85 |  | Active Two Week N= 87 |  | Active Four Week N= 85 |  | ALL Active Treatments N=257 |  | Vehicle Treatments N=127 |  |
-| BODY AS A WHOLE | 7 | (8.2) | 6 | (6.9) | 12 | (14.1) | 25 | (9.7) | 15 | (11.8) |
+| Adverse Event | Active 1 Week N= 85 |  | Active 2Week N= 87 |  | Active 4Week N= 85 |  | ALL Active Treatments N=257 |  | Vehicle Treatments N=127 |  |
+|  | n (%) |  | n (%) |  | n (%) |  | n (%) |  | n (%) |  |
 | Headache | 3 | (3.5) | 2 | (2.3) | 3 | (3.5) | 8 | (3.1) | 3 | (2.4) |
 | Common Cold | 4 | (4.7) | 0 |  | 2 | (2.4) | 6 | (2.3) | 3 | (2.4) |
 | Allergy | 0 |  | 2 | (2.3) | 1 | (1.2) | 3 | (1.2) | 2 | (1.6) |
@@ -46,7 +46,7 @@ Summary of All Adverse Events Reported in ≥1% of Patients in the Combined Acti
 | SPECIAL SENSES | 6 | (7.1) | 4 | (4.6) | 6 | (7.1) | 16 | (6.2) | 6 | (4.7) |
 | Eye Irritation | 5 | (5.9) | 3 | (3.4) | 6 | (7.1) | 14 | (5.4) | 3 | (2.4) |
 
-## Adverse Experiences Reported by Body System
+## Adverse Experiences Reported by Body System:
 
 In the Phase 3 studies, no serious adverse event was considered related to study drug.
 A total of five patients, three in the active treatment groups and two in the vehicle group, experienced at least one serious adverse event.
