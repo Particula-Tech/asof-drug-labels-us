@@ -3,28 +3,7 @@
 ## 12.1 Mechanism of Action
 
 LIPITOR is a selective, competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A to mevalonate, a precursor of sterols, including cholesterol.
-Cholesterol and triglycerides circulate in the bloodstream as part of lipoprotein complexes.
-With ultracentrifugation, these complexes separate into HDL (high-density lipoprotein), IDL (intermediate-density lipoprotein), LDL (low-density lipoprotein), and VLDL (very-low-density lipoprotein) fractions.
-Triglycerides (TG) and cholesterol in the liver are incorporated into VLDL and released into the plasma for delivery to peripheral tissues.
-LDL is formed from VLDL and is catabolized primarily through the high-affinity LDL receptor.
-Clinical and pathologic studies show that elevated plasma levels of total cholesterol (total-C), LDL-cholesterol (LDL-C), and apolipoprotein B (apo B) promote human atherosclerosis and are risk factors for developing cardiovascular disease, while increased levels of HDL-C are associated with a decreased cardiovascular risk.
-
 In animal models, LIPITOR lowers plasma cholesterol and lipoprotein levels by inhibiting HMG-CoA reductase and cholesterol synthesis in the liver and by increasing the number of hepatic LDL receptors on the cell surface to enhance uptake and catabolism of LDL; LIPITOR also reduces LDL production and the number of LDL particles.
-LIPITOR reduces LDL-C in some patients with homozygous familial hypercholesterolemia (FH), a population that rarely responds to other lipid-lowering medication(s).
-
-A variety of clinical studies have demonstrated that elevated levels of total-C, LDL-C, and apo B (a membrane complex for LDL-C) promote human atherosclerosis.
-Similarly, decreased levels of HDL-C (and its transport complex, apo A) are associated with the development of atherosclerosis.
-Epidemiologic investigations have established that cardiovascular morbidity and mortality vary directly with the level of total-C and LDL-C, and inversely with the level of HDL-C.
-
-LIPITOR reduces total-C, LDL-C, and apo B in patients with homozygous and heterozygous FH, nonfamilial forms of hypercholesterolemia, and mixed dyslipidemia.
-LIPITOR also reduces VLDL-C and TG and produces variable increases in HDL-C and apolipoprotein A-1.
-LIPITOR reduces total-C, LDL-C, VLDL-C, apo B, TG, and non-HDL-C, and increases HDL-C in patients with isolated hypertriglyceridemia.
-LIPITOR reduces intermediate density lipoprotein cholesterol (IDL-C) in patients with dysbetalipoproteinemia.
-
-Like LDL, cholesterol-enriched triglyceride-rich lipoproteins, including VLDL, intermediate density lipoprotein (IDL), and remnants, can also promote atherosclerosis.
-Elevated plasma triglycerides are frequently found in a triad with low HDL-C levels and small LDL particles, as well as in association with non-lipid metabolic risk factors for coronary heart disease.
-As such, total plasma TG has not consistently been shown to be an independent risk factor for CHD.
-Furthermore, the independent effect of raising HDL or lowering TG on the risk of coronary and cardiovascular morbidity and mortality has not been determined.
 
 ## 12.2 Pharmacodynamics
 
@@ -46,7 +25,7 @@ However, LDL-C reduction is the same regardless of the time of day of drug admin
 Distribution: Mean volume of distribution of LIPITOR is approximately 381 liters.
 LIPITOR is ≥98% bound to plasma proteins.
 A blood/plasma ratio of approximately 0.25 indicates poor drug penetration into red blood cells.
-Based on observations in rats, LIPITOR is likely to be secreted in human milk [see Contraindications, Nursing Mothers (4.4) and Use in Specific Populations, Nursing Mothers (8.3)].
+Based on observations in rats, LIPITOR is likely to be secreted in human milk [see Contraindications (4) and Use in Specific Populations (8.2)].
 
 Metabolism: LIPITOR is extensively metabolized to ortho- and parahydroxylated derivatives and various beta-oxidation products.
 In vitro inhibition of HMG-CoA reductase by ortho- and parahydroxylated metabolites is equivalent to that of LIPITOR.
@@ -61,27 +40,27 @@ Less than 2% of a dose of LIPITOR is recovered in urine following oral administr
 Specific Populations
 
 Geriatric: Plasma concentrations of LIPITOR are higher (approximately 40% for Cmax and 30% for AUC) in healthy elderly subjects (age ≥65 years) than in young adults.
-Clinical data suggest a greater degree of LDL-lowering at any dose of drug in the elderly patient population compared to younger adults [see Use in Specific Populations, Geriatric Use (8.5)].
+Clinical data suggest a greater degree of LDL-lowering at any dose of drug in the elderly patient population compared to younger adults [see Use in Specific Populations (8.5)].
 
-Pediatric: Pharmacokinetic data in the pediatric population are not available.
+Pediatric: Apparent oral clearance of atorvastatin in pediatric subjects appeared similar to that of adults when scaled allometrically by body weight as the body weight was the only significant covariate in atorvastatin population PK model with data including pediatric HeFH patients (ages 10 years to 17 years of age, n=29) in an open-label, 8-week study.
 
 Gender: Plasma concentrations of LIPITOR in women differ from those in men (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with LIPITOR between men and women.
 
-Renal Impairment: Renal disease has no influence on the plasma concentrations or LDL-C reduction of LIPITOR; thus, dose adjustment in patients with renal dysfunction is not necessary [see Dosage and Administration, Dosage in Patients with Renal Impairment (2.5), Warnings and Precautions, Skeletal Muscle (5.1)].
+Renal Impairment: Renal disease has no influence on the plasma concentrations or LDL-C reduction of LIPITOR; thus, dose adjustment in patients with renal dysfunction is not necessary [see Dosage and Administration (2.5) and Warnings and Precautions (5.1)].
 
 Hemodialysis: While studies have not been conducted in patients with end-stage renal disease, hemodialysis is not expected to significantly enhance clearance of LIPITOR since the drug is extensively bound to plasma proteins.
 
 Hepatic Impairment: In patients with chronic alcoholic liver disease, plasma concentrations of LIPITOR are markedly increased.
 Cmax and AUC are each 4-fold greater in patients with Childs-Pugh A disease.
-Cmax and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Contraindications (4.1)].
+Cmax and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Contraindications (4)].
 
-TABLE 3.
+TABLE 4.
 Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
-|  | Dose (mg) | Change in AUC Data given as x-fold change represent a simple ratio between co-administration and atorvastatin alone (i.e., 1-fold = no change). Data given as % change represent % difference relative to atorvastatin alone (i.e., 0% = no change). | Change in Cmax |
+|  | Dose (mg) | Change in AUCData given as x-fold change represent a simple ratio between co-administration and atorvastatin alone (i.e., 1-fold = no change). Data given as % change represent % difference relative to atorvastatin alone (i.e., 0% = no change). | Change in Cmax |
 | --- | --- | --- | --- |
 | Co-administered drug and dosing regimen | Atorvastatin |  |  |
-| See Sections 5.1 and 7 for clinical significance.Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QD for 28 days | ↑ 8.7 fold | ↑ 10.7 fold |
+| See Sections 5.1 and 7 for clinical significance. Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QD for 28 days | ↑ 8.7 fold | ↑ 10.7 fold |
 | Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days | 10 mg, SD | ↑ 9.4 fold | ↑ 8.6 fold |
 | Telaprevir 750 mg q8h, 10 days | 20 mg, SD | ↑ 7.88 fold | ↑ 10.6 fold |
 | , The dose of saquinavir plus ritonavir in this study is not the clinically used dose. The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study. Therefore, caution should be applied and the lowest dose necessary should be used.Saquinavir 400 mg BID/ ritonavir 400mg BID, 15 days | 40 mg QD for 4 days | ↑ 3.9 fold | ↑ 4.3 fold |
@@ -105,7 +84,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | Fenofibrate 160mg QD, 7 days | 40mg SD | ↑ 3% | ↑ 2% |
 | Boceprevir 800 mg TID, 7 days | 40 mg SD | ↑2.30 fold | ↑2.66 fold |
 
-TABLE 4.
+TABLE 5.
 Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
 |  | Drug/Dose (mg) | Change in AUC | Change in Cmax |

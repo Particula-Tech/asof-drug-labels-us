@@ -2,7 +2,7 @@
 
 LIPITOR® atorvastatin calcium tablets
 
-(LIP-ih-tore)
+(LIP-ih-tore))
 
 Read the Patient Information that comes with LIPITOR before you start taking it and each time you get a refill.
 There may be new information.
@@ -40,7 +40,7 @@ Who Should Not Take LIPITOR?
 Do not take LIPITOR if you:
 
 - are pregnant or think you may be pregnant, or are planning to become pregnant.
-  Lipitor may harm your unborn baby.
+  LIPITOR may harm your unborn baby.
   If you get pregnant, stop taking LIPITOR and call your doctor right away.
 - are breast feeding.
   LIPITOR can pass into your breast milk and may harm your baby.
@@ -49,7 +49,7 @@ Do not take LIPITOR if you:
   The active ingredient is atorvastatin.
   See the end of this leaflet for a complete list of ingredients in LIPITOR.
 
-LIPITOR has not been studied in children under 10 years of age.
+LIPITOR dosing has not been established in children under 10 years of age.
 
 Before You Start LIPITOR
 
@@ -172,4 +172,4 @@ Active Ingredient: atorvastatin calcium
 
 Inactive Ingredients: calcium carbonate, USP; candelilla wax, FCC; croscarmellose sodium, NF; hydroxypropyl cellulose, NF; lactose monohydrate, NF; magnesium stearate, NF; microcrystalline cellulose, NF; Opadry White YS-1-7040 (hypromellose, polyethylene glycol, talc, titanium dioxide); polysorbate 80, NF; simethicone emulsion.
 
-LAB-0348-8.0 October 2012
+LAB-0348-9.0 June 2017
