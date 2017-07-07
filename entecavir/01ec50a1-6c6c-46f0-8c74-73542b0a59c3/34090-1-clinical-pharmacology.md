@@ -39,10 +39,10 @@ Results are shown in Table 5 [see Dosage and Administration (2.4)].
 |  |  |  | Renal Function Group |  |  |  |  |  |  |
 |  | Baseline Creatinine Clearance (mL/min) |  |  |  |  |  |  |  |  |
 |  | Unimpaired >80 n=6 | Mild >50–<80 n=6 |  | Moderate 30–50 n=6 | Severe <30 n=6 |  | Severe Managed with Hemodialysisa n=6 | Severe Managed with CAPD n=4 |  |
-| Cmax (ng/mL) (CV%) | 8.1 (30.7) | 10.4 (37.2) |  | 10.5 (22.7) | 15.3 (33.8) |  | 15.4 (56.4) | 16.6 (29.7) |  |
-| AUC(0 – T) (ng•h/mL) (CV) | 27.9 (25.6) | 51.5 (22.8) |  | 69.5 (22.7) | 145.7 (31.5) |  | 233.9 (28.4) | 221.8 (11.6) |  |
-| CLR (mL/min) (SD) | 383.2 (101.8) | 197.9 (78.1) |  | 135.6 (31.6) | 40.3 (10.1) |  | NA | NA |  |
-| CLT/F (mL/min) (SD) | 588.1 (153.7) | 309.2 (62.6) |  | 226.3 (60.1) | 100.6 (29.1) |  | 50.6 (16.5) | 35.7 (19.6) |  |
+| C max (ng/ m L) (CV %) | 8.1 (30.7) | 1 0.4 (37.2) |  | 1 0.5 (22.7) | 1 5.3 (33.8) |  | 1 5.4 (56.4) | 1 6.6 (29.7) |  |
+| AUC(0 – T) (ng•h/mL) (CV) | 2 7.9 (25.6) | 5 1.5 (22.8) |  | 6 9.5 (22.7) | 1 45.7 (31.5) |  | 2 33.9 (28.4) | 2 21.8 (11.6) |  |
+| CLR (mL/min) (SD) | 3 83.2 (101.8) | 1 97.9 (78.1) |  | 1 35.6 (31.6) | 4 0.3 (10.1) |  | NA | NA |  |
+| CLT/F (mL/min) (SD) | 5 88.1 (153.7) | 3 09.2 (62.6) |  | 2 26.3 (60.1) | 1 00.6 (29.1) |  | 5 0.6 (16.5) | 3 5.7 (19.6) |  |
 
 a Dosed immediately following hemodialysis.
 CLR = renal clearance; CLT/F = apparent oral clearance.

@@ -4,10 +4,14 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 ## 6.1 Clinical Trial Experience in Adults
 
-Becauseclinicaltrialsareconductedunderwidelyvaryingconditions,adversereactionratesobservedintheclinicaltrialsofadrugcannotbedirectlycomparedtoratesintheclinicaltrialsofanotherdrugandmaynotreflecttheratesobservedinpractice.
-Compensated Liver Disease Assessmentofadversereactionsisbasedonfourstudies(AI463014,AI463022,AI463026,andAI463027)inwhich1720subjectswithchronichepatitisBvirusinfectionandcompensatedliverdisease received double-blind treatment with entecavir tablets 0.5 mg/day (n=679), entecavir tablets1mg/day(n=183),orlamivudine(n=858)forupto2years.Mediandurationof therapywas69weeksforentecavir tablets-treatedsubjectsand63weeksforlamivudine-treatedsubjectsinStudiesAI463022andAI463027and73weeksforentecavir tablets-treatedsubjectsand51weeksforlamivudine-treatedsubjectsinStudiesAI463026andAI463014.Thesafetyprofilesofentecavir tabletsandlamivudinewerecomparableinthesestudies.
-Themostcommonadversereactionsofanyseverity(>3%)withatleastapossiblerelationtostudydrugforentecavir tablets-treatedsubjectswereheadache,fatigue,dizziness,andnausea.Themostcommonadversereactionsamonglamivudine-treatedsubjectswereheadache,fatigue,anddizziness.Onepercentofentecavir tablets-treatedsubjectsinthesefourstudiescomparedwith4%oflamivudine-treatedsubjectsdiscontinuedforadverseeventsorabnormallaboratorytestresults.
-Clinicaladversereactionsofmoderate-severeintensityandconsideredatleastpossiblyrelatedtotreatmentoccurringduringtherapyinfourclinicalstudiesinwhichentecavir tabletswere comparedwithlamivudinearepresentedinTable2.
+Because clinical trials are cond ucted under w idely varyi ng conditions, adverse reaction rates observed in the clinical trials of a drug cannot be d irectly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Compensated Liver Disease Assess ment of adverse reactions is b ased on four studies (AI463014, AI463022, AI463026, and AI463027) in which 1720 subjects with chronic hepatitis B virus infection and compensated liver disease received double-blind treatment with entecavir tablets 0.5 mg/day (n=679), entecavir tablets 1 mg/day (n=183), or lamivudine (n=858) for up to 2 years.
+Median duration of therapy was 69 weeks for entecavir tablets-treated subjects and 63 weeks for lamivudine-treated subjects in Studies AI463022 and AI463027 and 73 weeks for entecavir tablets-treated subjects and 51 weeks for lamivudine-treated subjects in Studies AI463026 and AI463014.
+The safety profiles of entecavir tablets and lamivudine were comparable in these studies.
+The most common adverse reactions of any severity (>3%) with at least a possible relation to study drug for entecavir tablets-treated subjects were headache, fatigue, dizziness, and nausea.
+The most common adverse reactions among lamivudine-treated subjects were headache, fatigue, and dizziness.
+One percent of entecavir tablets-treated subjects in these four studies compared with 4% of lamivudine-treated subjects discontinued for adverse events or abnormal laboratory test results.
+Clinical adverse reactions of moderate-severe intensity and considered at least possibly related to treatment occurring during therapy in four clinical studies in which entecavir tablets were compared with lamivudine are presented in Table 2.
 
 | Table 2: | Clinical Adverse Reactionsa of Moderate-Severe Intensity (Grades 2–4) Reported in Four Entecavir Clinical Trials Through 2 Years |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -95,9 +99,9 @@ However, due to Bristol-Myers Squibb Company's marketing exclusivity rights, thi
 
 ## 6.3 Postmarketing Experience
 
-Thefollowingadversereactionshavebeenreportedduring postmarketinguseofentecavir tablets.
-Becausethesereactionswerereportedvoluntarilyfromapopulationofunknownsize,itisnotpossibletoreliablyestimatetheirfrequencyorestablishacausalrelationshiptoentecavir tablets exposure.
-Immunesystemdisorders: Anaphylactoidreaction.
-Metabolismandnutritiondisorders: Lacticacidosis.
-Hepatobiliarydisorders: Increasedtransaminases.
-Skinandsubcutaneoustissuedisorders: Alopecia,rash.
+The following adverse reactions ha ve been r eported during p ost marketi ng use of entecavir tablets.
+Because t hese reactions were rep orted volunta rily from a population of unknown size, it is not possible to reliably esti mate their frequency or esta blish a causal rel ati onship to entecavir tablets exposure.
+Immune system disorders: Anaphylactoid reaction.
+Metabolism and nutrition disorders: Lactic aci dosis.
+Hepatobiliary disorders: Increased transa mina ses.
+Skin and subcutaneous tissue disorders: Alopecia, rash.
