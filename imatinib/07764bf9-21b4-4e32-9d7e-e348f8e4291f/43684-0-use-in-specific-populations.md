@@ -11,7 +11,7 @@ Reproductive studies in rats have demonstrated that imatinib mesylate induced te
 Advise women to avoid pregnancy when taking imatinib mesylate.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to the fetus.
 
-The background risk of major birth defects and miscarriage for the indicated population is not known; however, in the U.S. general population, the estimated background risk of major birth defects of clinically recognized pregnancies is 2 to 4% and of miscarriage is 15 to 20%.
+The background risk of major birth defects and miscarriage for the indicated population is not known; however, in the U.S. general population, the estimated background risk of major birth defects of clinically recognized pregnancies is 2 to 4% and of miscarriage is 15% to 20%.
 
 Data
 
@@ -56,7 +56,7 @@ Contraception
 
 Females
 
-Advise female patients of reproductive potential to use effective contraception (methods that result in less than 1 % pregnancy rates) when using imatinib mesylate during treatment and for fourteen days after stopping treatment with imatinib mesylate[see Use in Specific Populations (8.1)].
+Advise female patients of reproductive potential to use effective contraception (methods that result in less than 1 % pregnancy rates) when using imatinib mesylate during treatment and for fourteen days after stopping treatment with imatinib mesylate [see Use in Specific Populations (8.1)].
 
 Infertility
 
@@ -78,8 +78,9 @@ The efficacy of imatinib mesylate was similar in older and younger patients.
 ## 8.6 Hepatic Impairment
 
 The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 patients with cancer with varying degrees of hepatic impairment at imatinib doses ranging from 100 mg to 800 mg.
+
 Mild and moderate hepatic impairment do not influence exposure to imatinib and CGP74588.
-In patients with severe hepatic impairment, the imatinib Cmax and AUC increased by 63% and 45% and the CGP74588 Cmax and AUC increased by 56% and 55%, relative to patients with normal hepatic function [see Pharmacokinetics (12.3)].
+In patients with severe hepatic impairment, the imatinib Cmax and area under curve (AUC) increased by 63% and 45% and the CGP74588 Cmax and AUC increased by 56% and 55%, relative to patients with normal hepatic function [seeClinical Pharmacology (12.3)].
 Reduce the dose by 25% for patients with severe hepatic impairment [see Dosage and Administration (2.12)].
 
 Table 16: Liver Function Classification
@@ -94,9 +95,9 @@ ULN=upper limit of normal for the institution
 ## 8.7 Renal Impairment
 
 The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 patients with cancer and varying degrees of renal impairment at single and steady state imatinib doses ranging from 100 to 800 mg/day.
-The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2-fold compared to patients with normal renal function.
+The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2- fold compared to patients with normal renal function.
 There are not sufficient data in patients with severe renal impairment [see Clinical Pharmacology (12.3)].
-Dose reductions are necessary for patients with moderate and severe renal impairment [see Dosage and Administration (2.12)]
+Dose reductions are necessary for patients with moderate and severe renal impairment [see Dosage and Administration (2.12)].
 
 Table 17: Renal Function Classification
 

@@ -33,8 +33,6 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30
 Protect from moisture.
 
 Dispense in a tight container, USP.
-Imatinib mesylate is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.
 Do not crush imatinib mesylate tablets.
 Avoid direct contact of crushed tablets with the skin or mucous membranes.
 If such contact occurs, wash thoroughly as outlined in the references.

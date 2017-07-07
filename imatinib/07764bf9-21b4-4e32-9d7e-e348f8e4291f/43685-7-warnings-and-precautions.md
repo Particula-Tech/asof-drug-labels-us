@@ -8,8 +8,8 @@ Investigate unexpected rapid weight gain carefully and provide appropriate treat
 The probability of edema was increased with higher imatinib mesylate dose and age greater than 65 years in the CML studies.
 Severe superficial edema was reported in 1.5% of newly diagnosed CML patients taking imatinib mesylate tablets, and in 2% to 6% of other adult CML patients taking imatinib mesylate tablets.
 In addition, other severe fluid retention (e.g., pleural effusion, pericardial effusion, pulmonary edema, and ascites) reactions were reported in 1.3% of newly diagnosed CML patients taking imatinib mesylate tablets, and in 2% to 6% of other adult CML patients taking imatinib mesylate tablets.
-In a randomized trial in patients with newly diagnosed Ph+CML in chronic phase comparing imatinib mesylate and nilotinib, severe (Grade 3 or 4) fluid retention occurred in 2.5% of patients receiving imatinib mesylate and in 3.9% of patients receiving nilotinib 300 mg bid.
-Effusions (including pleural effusion, pericardial effusion, ascites) or pulmonary edema were observed in 2.1% (none were Grade 3 or 4) of patients in the imatinib mesylate arm and 2.2% (0.7% Grade 3 or 4) of patients in the nilotinib 300 mg bid arm.
+In a randomized trial in patients with newly diagnosed Ph+CML in chronic phase comparing imatinib mesylate and nilotinib, severe (Grade 3 or 4) fluid retention occurred in 2.5% of patients receiving imatinib mesylate and in 3.9% of patients receiving nilotinib 300 mg twice daily.
+Effusions (including pleural effusion, pericardial effusion, ascites) or pulmonary edema were observed in 2.1% (none were Grade 3 or 4) of patients in the imatinib mesylate arm and 2.2% (0.7% Grade 3 or 4) of patients in the nilotinib 300 mg twice daily arm.
 
 ## 5.2 Hematologic Toxicity
 
@@ -23,8 +23,8 @@ These generally occur within the first several months of therapy [see Dosage and
 
 Congestive heart failure and left ventricular dysfunction have been reported in patients taking imatinib mesylate tablets.
 Cardiac adverse reactions were more frequent in patients with advanced age or co-morbidities including previous medical history of cardiac disease.
-In an international randomized phase 3 study in 1,106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking imatinib mesylate tablets compared to 0.9% of patients taking IFN + Ara-C.
-In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared imatinib mesylate and nilotinib, cardiac failure was observed in 1.1% of patient in the imatinib mesylate arm and 2.2% of patients in the nilotinib 300 mg bid arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
+In an international randomized Phase 3 study in 1,106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking imatinib mesylate tablets compared to 0.9% of patients taking IFN + Ara-C.
+In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared imatinib mesylate and nilotinib, cardiac failure was observed in 1.1% of patient in the imatinib mesylate arm and 2.2% of patients in the nilotinib 300 mg twice daily arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
 Carefully monitor patients with cardiac disease or risk factors for cardiac or history of renal failure.
 Evaluate and treat any patient with signs or symptoms consistent with cardiac or renal failure.
 
@@ -41,8 +41,8 @@ Monitoring of hepatic function is recommended.
 ## 5.5 Hemorrhage
 
 In a trial of imatinib mesylate versus IFN+Ara-C in patients with the newly diagnosed CML, 1.8% of patients had Grade 3/4 hemorrhage.
-In a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase comparing imatinib mesylate and nilotinib, GI hemorrhage occurred in 1.4% of patients in the imatinib mesylate arm, and in 2.9% of patients in the nilotinib 300 mg bid arm.
-None of these events were Grade 3 or 4 in the imatinib mesylate arm; 0.7% were Grade 3 or 4 in the nilotinib 300 mg bid arm.
+In a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase comparing imatinib mesylate and nilotinib, GI hemorrhage occurred in 1.4% of patients in the imatinib mesylate arm, and in 2.9% of patients in the nilotinib 300 mg twice daily arm.
+None of these events were Grade 3 or 4 in the imatinib mesylate arm; 0.7% were Grade 3 or 4 in the nilotinib 300 mg twice daily arm.
 In addition, gastric antral vascular ectasia has been reported in postmarketing experience.
 
 ## 5.6 Gastrointestinal Disorders
@@ -84,7 +84,7 @@ If this drug is used during pregnancy or if the patient becomes pregnant while t
 
 Growth retardation has been reported in children and pre-adolescents receiving imatinib mesylate.
 The long term effects of prolonged treatment with imatinib mesylate on growth in children are unknown.
-Therefore, monitor growth in children under imatinib mesylate treatment [see Adverse Reactions (6.11)].
+Therefore, monitor growth in children under imatinib mesylate treatment [see Adverse Reactions (6.1)].
 
 ## 5.12 Tumor Lysis Syndrome
 

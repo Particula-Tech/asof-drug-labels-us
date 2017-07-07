@@ -21,7 +21,6 @@ Mean absolute bioavailability is 98%.
 Mean imatinib AUC increases proportionally with increasing doses ranging from 25 mg to 1,000 mg.
 There is no significant change in the pharmacokinetics of imatinib on repeated dosing, and accumulation is 1.5- to 2.5-fold at steady state when imatinib mesylate is dosed once-daily.
 At clinically relevant concentrations of imatinib, binding to plasma proteins in in vitro experiments is approximately 95%, mostly to albumin and α1-acid glycoprotein.
-
 Elimination
 
 Metabolism
@@ -33,7 +32,6 @@ It shows in vitro potency similar to the parent imatinib.
 The plasma AUC for this metabolite is about 15% of the AUC for imatinib.
 The plasma protein binding of N-demethylated metabolite CGP74588 is similar to that of the parent compound.
 Human liver microsome studies demonstrated that imatinib mesylate is a potent competitive inhibitor of CYP2C9, CYP2D6, and CYP3A4/5 with Ki values of 27, 7.5, and 8 µM, respectively.
-
 Excretion
 
 Imatinib elimination is predominately in the feces, mostly as metabolites.
@@ -44,10 +42,7 @@ Following oral administration in healthy volunteers, the elimination half-lives 
 
 Typically, clearance of imatinib in a 50-year-old patient weighing 50 kg is expected to be 8 L/h, while for a 50-year-old patient weighing 100 kg the clearance will increase to 14 L/h.
 The inter-patient variability of 40% in clearance does not warrant initial dose adjustment based on body weight and/or age but indicates the need for close monitoring for treatment-related toxicity.
-
-Specific Populations
-
-Hepatic Impairment
+Specific Populations Hepatic Impairment
 
 The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 patients with cancer and varying degrees of hepatic impairment [see Use in Specific Populations (8.6)] at imatinib doses ranging from 100 mg to 800 mg.
 Exposure to both imatinib and CGP74588 was comparable between each of the mildly and moderately hepatically-impaired groups and the normal group.
@@ -88,7 +83,8 @@ The mean dose normalized AUC for imatinib in the patients receiving EIAED’s de
 
 Concomitant administration of imatinib mesylate and St. John’s Wort led to a 30% reduction in the AUC of imatinib.
 
-Consider alternative therapeutic agents with less enzyme induction potential in patients when rifampin or other CYP3A4 inducers are indicated. imatinib mesylate doses up to 1,200 mg/day (600 mg BID) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.12)].
+Consider alternative therapeutic agents with less enzyme induction potential in patients when rifampin or other CYP3A4 inducers are indicated.
+Imatinib mesylate doses up to 1,200 mg/day (600 mg twice daily) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.12)].
 
 Agents Inhibiting CYP3A Metabolism
 
@@ -109,9 +105,9 @@ Interactions with Drugs Metabolized by CYP2D6
 
 Imatinib mesylate increased the mean Cmax and AUC of metoprolol by approximately 23% suggesting that imatinib mesylate has a weak inhibitory effect on CYP2D6-mediated metabolism.
 No dose adjustment is necessary, however, caution is recommended when administering imatinib mesylate with CYP2D6 substrates that have a narrow therapeutic window.
-
 Interactions with Acetaminophen
 
 In vitro, imatinib mesylate inhibits the acetaminophen O-glucuronidate pathway (Ki 58.5 μM).
-Coadministration of imatinib mesylate (400 mg/day for eight days) with acetaminophen (1,000 mg single dose on day eight) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen. imatinib mesylate pharmacokinetics were not altered in the presence of single-dose acetaminophen.
+Coadministration of imatinib mesylate (400 mg/day for eight days) with acetaminophen (1,000 mg single dose on day eight) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
+Imatinib mesylate pharmacokinetics were not altered in the presence of single-dose acetaminophen.
 There is no pharmacokinetic or safety data on the concomitant use of imatinib mesylate at doses greater than 400 mg/day or the chronic use of concomitant acetaminophen and imatinib mesylate.
