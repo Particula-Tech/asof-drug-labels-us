@@ -62,7 +62,11 @@ Hepatic: jaundice, cholestatic jaundice, hepatitis, liver necrosis, liver failur
 
 Hematologic: agranulocytosis, aplastic anemia
 
+Nervous System: intracranial hypertension
+
 Neurological/Psychiatric: peripheral neuropathy, Guillain-Barré syndrome, transverse myelitis
+
+Renal and Urinary: nephrogenic diabetes insipidus
 
 Respiratory/Pulmonary: eosinophilic pneumonia, interstitial pneumonitis
 
