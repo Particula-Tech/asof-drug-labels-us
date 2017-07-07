@@ -1,0 +1,177 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read theFDA-approved patient labeling (Patient Information).
+
+Dosing and Administration
+
+Instruct patients to swallow guanfacine extended-release tablets whole with water, milk or other liquid.
+Tablets should not be crushed, chewed or broken prior to administration because this may increase the rate of release of the active drug.
+Patients should not take guanfacine extended-release tablets together with a high-fat meal, since this can raise blood levels of guanfacine extended-release tablets.
+Instruct the parent or caregiver to supervise the child or adolescent taking guanfacine extended-release tablets and to keep the bottle of tablets out of reach of children.
+
+Instruct patients on how to properly taper the medication, if the health care provide decides to discontinue treatment [see Dosage and Administration (2.5)].
+
+Adverse Reactions
+
+Advise patients that sedation can occur, particularly early in treatment or with dose increases.
+Caution against operating heavy equipment or driving until they know how they respond to treatment with guanfacine extended-release tablets [see Warnings and Precautions (5.2)].
+Headache and abdominal pain can also occur.
+If any of these symptoms persist, or other symptoms occur, the patient should be advised to discuss the symptoms with the health care provider.
+
+Advise patients to avoid becoming dehydrated or overheated, which may potentially increase the risks of hypotension and syncope [see Warnings and Precautions (5.1)].
+Advise patients to avoid use with alcohol.
+
+## Patient Information
+
+Guanfacine Extended-Release Tablets
+
+Read the Patient Information that comes with guanfacine extended-release tablets before you start taking it and each time you get a refill.
+There may be new information.
+This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
+
+What are guanfacine extended-release tablets?
+
+Guanfacine extended-release tablets are prescription medicine used to treat the symptoms of attention deficit hyperactivity disorder (ADHD).
+Guanfacine extended-release tablets may be used alone or with ADHD stimulant medicines.
+
+Guanfacine extended-release tablets are not central nervous system (CNS) stimulant.
+
+It is not known if guanfacine extended-release tablets are safe and effective in children younger than 6 years of age.
+
+Who should not take guanfacine extended-release tablets?
+
+Do not take guanfacine extended-release tablets if you are allergic to guanfacine or any of the ingredients in guanfacine extended-release tablets.
+See the end of this leaflet for a complete list of ingredients in guanfacine extended-release tablets.
+
+What should I tell my doctor before taking guanfacine extended-release tablets?
+
+Before you take guanfacine extended-release tablets, tell your doctor if you:
+
+- have heart problems or a low heart rate
+- have fainted
+- have low blood pressure
+- have liver or kidney problems
+- have any other medical conditions
+- are pregnant or plan to become pregnant.
+  It is not known if guanfacine extended-release tablets will harm your unborn baby.
+  Talk to your doctor if you are pregnant or plan to become pregnant.
+- are breastfeeding or plan to breastfeed.
+  It is not known if guanfacine extended-release tablets pass into your breast milk.
+  Talk to your doctor about the best way to feed your baby while taking guanfacine extended-release tablets.
+
+Tell your doctor about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+
+Guanfacine extended-release tablets may affect the way other medicines work, and other medicines may affect how guanfacine extended-release tablets work.
+
+Especially tell your doctor if you take:
+
+- ketoconazole
+- medicines that can affect enzyme metabolism
+- high blood pressure medicine
+- sedatives
+- benzodiazepines
+- barbiturates
+- antipsychotics
+
+Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
+
+Know the medicines you take.
+Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
+
+How should I take guanfacine extended-release tablets?
+
+- Take guanfacine extended-release tablets exactly as your doctor tells you.
+- Your doctor may change your dose.
+  Do not change your dose of guanfacine extended-release tablets without talking to your doctor.
+- Do not stop taking guanfacine extended-release tablets without talking to your doctor.
+- Guanfacine extended-release tablets should be taken 1 time a day in the morning or in the evening, either alone or in combination with an ADHD stimulant medicine that your doctor may prescribe.
+  Your doctor will tell you when to take guanfacine extended-release tablets and when to take your ADHD stimulant medication.
+- Guanfacine extended-release tablets should be swallowed whole with a small amount of water, milk, or other liquid.
+- Do not crush, chew, or break guanfacine extended-release tablets.
+  Tell your doctor if you cannot swallow guanfacine extended-release tablets whole.
+- Do not take guanfacine extended-release tablets with a high-fat meal.
+- Your doctor will check your blood pressure and heart rate while you take guanfacine extended-release tablets.
+- If you take too much guanfacine extended-release tablets, call your local Poison Control Center at 1-800-222-1222 or go to the nearest emergency room right away.
+
+What should I avoid while taking guanfacine extended-release tablets?
+
+- Do not drive, operate heavy machinery, or do other dangerous activities until you know how guanfacine extended-release tablets affect you.
+  Guanfacine extended-release tablets can slow your thinking and motor skills.
+- Do not drink alcohol or take other medicines that make you sleepy or dizzy while taking guanfacine extended-release tablets until you talk with your doctor.
+  Guanfacine extended-release tablets taken with alcohol or medicines that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
+- Do not become dehydrated or overheated.
+  This may increase your chance of having low blood pressure or fainting while taking guanfacine extended-release tablets.
+
+What are the possible side effects of guanfacine extended-release tablets?
+
+Guanfacine extended-release tablets may cause serious side effects including:
+
+- low blood pressure
+- low heart rate
+- fainting
+- sleepiness
+
+Get medical help right away, if you have any of the symptoms listed above.
+
+The most common side effects of guanfacine extended-release tablets include:
+
+- sleepiness
+- tiredness
+- trouble sleeping
+- low blood pressure
+- nausea
+- stomach pain
+- dizziness
+- dry mouth
+- irritability
+- vomiting
+- slow heart rate
+
+Tell the doctor if you have any side effect that bothers you or that does not go away.
+
+These are not all the possible side effects of guanfacine extended-release tablets.
+For more information, ask your doctor or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to TWi Pharmaceuticals, inc. 1-844-518-2989 or FDA at 1-800-FDA-1088 or www. fda.gov/medwatch.
+
+How should I store guanfacine extended-release tablets?
+
+- Store guanfacine extended-release tablets at 20º to 25°C (68º to 77°F).
+  [see USP Controlled Room Temperature].
+
+Keep guanfacine extended-release tablets and all medicines out of the reach of children.
+
+General Information about the safe and effective use guanfacine extended-release tablets
+
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information Leaflet.
+Do not use guanfacine extended-release tablets for a condition for which it was not prescribed.
+Do not give guanfacine extended-release tablets to other people, even if they have the same symptoms that you have.
+It may harm them.
+
+This leaflet summarizes the most important information about guanfacine extended-release tablets.
+If you would like more information, talk with your doctor.
+You can ask your pharmacist or doctor for information about guanfacine extended-release tablets that is written for health professionals.
+
+What are the ingredients in guanfacine extended-release tablets?
+
+Active ingredient: guanfacine hydrochloride
+
+Inactive ingredients: microcrystalline cellulose, hypromellose, polyvinyl acetate, povidone, lactose monohydrate, magnesium stearate, sodium lauryl sulfate and silica.
+In addition, the 3 mg and 4 mg tablets also contain FD&C Blue #1.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+All other trademarks are the property of their respective owners.
+
+Manufactured for: TWi Pharmaceuticals USA, Inc. Paramus, NJ 07652
+
+Manufactured by:
+
+TWi Pharmaceuticals, Inc.
+
+Taoyuan City, 32063, Taiwan
+
+Revised: 04/17
+
+OS24979533

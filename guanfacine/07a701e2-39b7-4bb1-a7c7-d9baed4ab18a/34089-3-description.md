@@ -1,0 +1,12 @@
+# 11 DESCRIPTION
+
+Guanfacine extended-release tablets are once-daily, extended-release formulation of guanfacine hydrochloride (HCl) in a matrix tablet formulation for oral administration only.
+The chemical designation is N-amidino-2-(2,6-dichlorophenyl) acetamide monohydrochloride.
+The molecular formula is C 9 H 9 Cl 2 N 3 O·HCl corresponding to a molecular weight of 282.55.
+The chemical structure is:
+
+Guanfacine HCl is a white to off-white crystalline powder, sparingly soluble in water (approximately 1 mg/mL) and alcohol and slightly soluble in acetone.
+The only organic solvent in which it has relatively high solubility is methanol (>30 mg/mL).
+Each tablet contains guanfacine HCl equivalent to 1 mg, 2 mg, 3 mg, or 4 mg of guanfacine base.
+The tablets also contain microcrystalline cellulose, hypromellose, polyvinyl acetate, povidone, lactose monohydrate, magnesium stearate, sodium lauryl sulfate and silica.
+In addition, the 3-mg and 4-mg tablets also contain FD&C Blue #1.

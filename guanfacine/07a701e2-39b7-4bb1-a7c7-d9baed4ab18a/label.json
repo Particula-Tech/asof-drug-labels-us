@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA201408"
+  ],
+  "inn": "guanfacine",
+  "labeler": "TWi Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24979-533-01",
+    "24979-533-10",
+    "24979-534-01",
+    "24979-534-10",
+    "24979-536-01",
+    "24979-536-10",
+    "24979-538-01",
+    "24979-538-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "guanfacine",
+      "name": "Guanfacine"
+    }
+  ],
+  "setid": "07a701e2-39b7-4bb1-a7c7-d9baed4ab18a",
+  "source": "dailymed"
+}
