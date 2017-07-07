@@ -6,7 +6,9 @@
   "labeler": "Somerset Therapeutics, LLC",
   "package_ndcs": [
     "70069-005-01",
-    "70069-005-10"
+    "70069-005-10",
+    "70069-172-01",
+    "70069-172-25"
   ],
   "products": [
     {
