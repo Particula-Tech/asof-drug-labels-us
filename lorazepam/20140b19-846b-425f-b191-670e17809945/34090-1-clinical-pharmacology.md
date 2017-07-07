@@ -138,7 +138,7 @@ Of the 24 lorazepam responders, 23 received both 2 mg infusions.
 Non-responders to lorazepam 4 mg were given an additional 2 to 4 mg lorazepam; non-responders to diazepam 10 mg were given an additional 5 to 10 mg diazepam.
 After this additional dose administration, 28/30 (93%) of patients randomized to lorazepam and 24/28 (86%) of patients randomized to diazepam were deemed responders, a difference that was not statistically significant.
 
-Although this study provides support for the efficacy of lorazepam as the treatment for status epilepticus, it cannot speak reliably or meaningfully to the comparative performance of either diazepam or lorazepam under the conditions of actual use.
+Although this study provides support for the efficacy of lorazepam as the treatment for status epilepticus, it cannot speak reliably or meaningfully to the comparative performance of either diazepam (Valium) or lorazepam under the conditions of actual use.
 
 A second study (n=119) was a double-blind dose-comparison trial with 3 doses of Lorazepam Injection: 1 mg, 2 mg, and 4 mg.
 Patients were randomized to receive one of the three doses of lorazepam.
