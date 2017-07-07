@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA020075"
+  ],
+  "inn": "baclofen",
+  "labeler": "Saol Therapeutics Inc.",
+  "package_ndcs": [
+    "70257-560-01",
+    "70257-560-02",
+    "70257-560-20",
+    "70257-561-02",
+    "70257-561-05",
+    "70257-562-11",
+    "70257-562-55",
+    "70257-563-01",
+    "70257-563-02",
+    "70257-563-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "baclofen",
+      "name": "Lioresal (baclofen)"
+    }
+  ],
+  "setid": "4e478edb-e340-4976-ac24-4bb32c5e12e3",
+  "source": "dailymed"
+}
