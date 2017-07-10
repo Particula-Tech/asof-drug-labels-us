@@ -1,28 +1,23 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information).
+Ad vise the pati ent to r e ad the FDA-appro v ed pati ent lab eling (Pati ent Inf or mation).
 
-Advice for the Patient
+Lactic Acidosis and Severe Hepatomegaly
 
-- Advise patients to remain under the care of a physician while taking lamivudine tablets (HBV) and discuss any new symptoms or concurrent medications with their physician.
-- Advise patients that lamivudine tablets (HBV) is not a cure for hepatitis B, that the long-term treatment benefits of lamivudine tablets (HBV) are unknown at this time, and, in particular, that the relationship of initial treatment response to outcomes such as hepatocellular carcinoma and decompensated cirrhosis is unknown [see Dosage and Administration (2.6)].
-- Inform patients that deterioration of liver disease has occurred in some cases when treatment was discontinued.
-  Instruct patients to discuss any changes in regimen with their physician [see Warnings and Precautions (5.2)].
-- Inform patients that emergence of resistant hepatitis B virus and worsening of disease can occur during treatment, and they should promptly report any new symptoms to their physician [see Warnings and Precautions (5.5)].
-- Counsel patients on the importance of testing for HIV to avoid inappropriate therapy and development of resistant HIV.
-  HIV counseling and testing should be offered before starting lamivudine tablets (HBV) and periodically during therapy.
-- Advise patients that lamivudine tablets (HBV) contain a lower dose of the same active ingredient (lamivudine) as EPIVIR tablets, EPIVIR oral solution, COMBIVIR tablets, EPZICOM tablets, and TRIZIVIR tablets.
-  Lamivudine tablets (HBV) should not be taken concurrently with EPIVIR, COMBIVIR, EPZICOM, or TRIZIVIR [see Dosage and Administration (2.1), Warnings and Precautions (5.3, 5.4)].
-- Advise patients not to take lamivudine tablets (HBV) with emtricitabine-containing medicines, such as ATRIPLA, COMPLERA, EMTRIVA, STRIBILD, or TRUVADA [see Warnings and Precautions (5.4)].
-- Advise patients that treatment with lamivudine tablets (HBV) has not been shown to reduce the risk of transmission of HBV to others through sexual contact or blood contamination [see Use in Specific Populations (8.1)].
-- Instruct patients to avoid doing things that can spread HBV infection to others.
-  - Do not share needles or other injection equipment
-  - Do not share personal items that can have blood or body fluids on them, liketoothbrushes and razor blades.
-  - Do not have any kind of sex without protection.
-    Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
-
-EPIVIR, COMBIVIR, EPZICOM, and TRIZIVIR are registered trademarks of the ViiV Healthcare group of companies.
-
+Advise patients that lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with use of lamivudine tablets (HBV).
+Advise patients to contact their healthcare provider immediately and stop lamivudine tablets (HBV) if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.1)].
+Severe Acute Exacerbation of Hepatitis after Discontinuation of Treatment Inform patients that discontinuation of anti-hepatitis B therapy, including lamivudine tablets (HBV), may result in severe acute exacerbations of hepatitis B including decompensation of liver disease.
+Advise patients not to discontinue lamivudine tablets (HBV) without first informing their healthcare provider [see Warnings and Precautions (5.2)].
+Risk of Development of HIV-1 Resistance in Patients with HIV-1 Co-infection Counsel patients on the importance of testing for HIV to avoid inappropriate therapy and development of resistance to HIV.
+HIV counseling and testing should be offered before starting lamivudine tablets (HBV) and periodically during therapy.
+Inform patients that if they have or develop HIV infection and are not receiving effective HIV treatment, lamivudine tablets (HBV) may increase the risk of development of resistance to HIV medications.
+Advise patients that lamivudine tablets (HBV) contains a lower dose of the same active ingredient (lamivudine) as HIV drugs containing lamivudine [see Dosage and Administration (2.1), Warnings and Precautions (5.3)].
+Emergence of HBV Resistance Inform patients that emergence of resistant hepatitis B virus and worsening of disease can occur during treatment.
+Patients should promptly report any new or worsening symptoms to their physician [see Warnings and Precautions (5.4)].
+Hepatitis B Transmission Advise patients that treatment with lamivudine tablets (HBV) has not been shown to reduce the risk of transmission of HBV to others through sexual contact or blood contamination.
+Pregnancy Registry Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to lamivudine tablets (HBV) during pregnancy [see Use in Specific Populations (8.1)].
+Missed Dosage Instruct patients that if they miss a dose of lamivudine tablets (HBV), to take it as soon as they remember.
+Advise patients not to double their next dose or take more than the prescribed dose [see Dosage and Administration (2)].
 All brands listed are trademarks of their respective owners and are not trademarks of Hetero Labs Limited.
 The makers of these brands are not affiliated with and do not endorse Hetero Labs Limited or its products.
 
@@ -34,8 +29,8 @@ Piscataway, NJ 08854
 
 By:HETEROTM
 
-Hetero Labs Limited,Unit V, Polepally, 2023515
+Hetero Labs Limited,Unit V, Polepally,
 
 Jadcherla, Mahaboob Nagar-509 301, India.
 
-Revised: December 2013
+Revised: May 2017

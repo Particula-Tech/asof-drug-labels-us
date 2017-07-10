@@ -2,11 +2,12 @@
 
 ## 12.1 Mechanism of Action
 
-Lamivudine is an antiviral agent [see Microbiology (12.4)].
+L amivudine is an antivi ral a g ent [s ee Mi crobiology (12.
+4)].
 
 ## 12.3 Pharmacokinetics
 
-Pharmacokinetics in Adults: The pharmacokinetic properties of lamivudine have been studied as single and multiple oral doses ranging from 5 mg to 600 mg per day administered to HBV-infected subjects.
+Pharmacokinetics in Adults The pharmacokinetic properties of lamivudine have been studied as single and multiple oral doses ranging from 5 mg to 600 mg per day administered to HBV-infected subjects.
 Absorption and Bioavailability: Following single oral doses of 100 mg, the peak serum lamivudine concentration (Cmax) in HBV-infected patients (steady state) and healthy subjects (single dose) was 1.28 ± 0.56 mcg per mL and 1.05 ± 0.32 mcg per mL (mean ± SD), respectively, which occurred between 0.5 and 2 hours after administration.
 The area under the plasma concentration versus time curve (AUC[0 to 24h]) following 100-mg lamivudine oral single and repeated daily doses to steady state was 4.3 ± 1.4 (mean ± SD) and 4.7 ± 1.7 mcg•hour per mL, respectively.
 The relative bioavailability of the tablet and oral solution were demonstrated in healthy subjects.
@@ -30,7 +31,7 @@ In 20 HIV-1-infected subjects given a single IV dose, renal clearance was 280.4 
 In most single-dose trials in HIV-1-infected subjects, HBV-infected subjects, or healthy subjects with serum sampling for 24 hours after dosing, the observed mean elimination half-life (t1/2) ranged from 5 to 7 hours.
 In HIV-1-infected subjects, total clearance was 398.5 ± 69.1 mL per min (mean ± SD).
 Oral clearance and elimination half-life were independent of dose and body weight over an oral dosing range of 0.25 to 10 mg per kg.
-Special Populations:Adults With Renal Impairment: The pharmacokinetic properties of lamivudine have been determined in healthy subjects and in subjects with impaired renal function, with and without hemodialysis (Table 5).
+Special Populations Adults With Renal Impairment: The pharmacokinetic properties of lamivudine have been determined in healthy subjects and in subjects with impaired renal function, with and without hemodialysis (Table 5).
 Table 5.
 Pharmacokinetic Parameters (Mean ± SD) Dose-Normalized to a Single 100-mg Oral Dose of Lamivudine in Subjects With Varying Degrees of Renal Function
 
@@ -54,7 +55,7 @@ Pediatric Patients With Renal Impairment: The effect of renal impairment on lami
 Adults With Hepatic Impairment: The pharmacokinetic properties of lamivudine in adults with hepatic impairment are shown in Table 6).
 Subjects were stratified by severity of hepatic impairment.
 Table 6.
-Pharmacokinetic Parameters (Mean ± SD) Dose-Normalized to a Single 100-mg Dose of Lamivudine in Subjects With Normal or Impaired Hepatic Function a Hepatic impairment assessed by aminopyrine breath test.
+Pharmacokinetic Parameters (Mean ± SD) Dose-Normalized to a Single 100-mg Dose of Lamivudine in Subjects With Normal or Impaired Hepatic Function
 
 | Parameter | Normal (n = 8) | Impairmenta |  |  |
 | --- | --- | --- | --- | --- |
@@ -65,12 +66,17 @@ Pharmacokinetic Parameters (Mean ± SD) Dose-Normalized to a Single 100-mg Dose 
 | Cl/F (mL/min) | 424.7 ± 61.9 | 456.9 ± 129.8 |  | 395.2 ± 51.8 |
 | Clr (mL/min) | 279.2 ± 79.2 | 323.5 ± 100.9 |  | 216.1 ± 58.0 |
 
+a Hepatic impairment assessed by aminopyrine breath test.
 Pharmacokinetic parameters were not altered by diminishing hepatic impairment.
 Therefore, no dose adjustment for lamivudine is required for patients with impaired hepatic function.
 Safety and efficacy of lamivudine tablets (HBV) have not been established in the presence of decompensated liver disease [see Indications and Usage (1)].
 Adults Post-Hepatic Transplant: Fourteen HBV-infected subjects received liver transplant following lamivudine therapy and completed pharmacokinetic assessments at enrollment, 2 weeks after 100-mg once-daily dosing (pre-transplant), and 3 months following transplant; there were no significant differences in pharmacokinetic parameters.
 The overall exposure of lamivudine is primarily affected by renal impairment; consequently, transplant patients with renal impairment had generally higher exposure than patients with normal renal function.
 Safety and efficacy of lamivudine tablets (HBV) have not been established in this population [see Indications and Usage (1)].
+Pregnancy: The pharmacokinetics of lamivudine in patients with HBV or HIV-1 infection and in healthy volunteers were similar at similar doses.
+Lamivudine pharmacokinetics were studied in 36 pregnant women with HIV during 2 clinical trials conducted in South Africa (3 to 6 times the recommended daily dosage for HBV).
+Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
+Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 Pediatric Subjects: Lamivudine pharmacokinetics were evaluated in a 28-day dose-ranging trial in 53 pediatric subjects with chronic hepatitis B. Subjects aged 2 to 12 years were randomized to receive lamivudine 0.35 mg per kg twice daily, 3 mg per kg once daily, 1.5 mg per kg twice daily, or 4 mg per kg twice daily.
 Subjects aged 13 to 17 years received lamivudine 100 mg once daily.
 Lamivudine Tmax was 0.5 to 1 hour.
@@ -79,7 +85,7 @@ Weight-corrected oral clearance was highest at age 2 and declined from 2 to 12 y
 A dose of 3 mg per kg given once daily produced a steady-state lamivudine AUC (mean 5,953 ng•hour per mL ± 1,562 SD) similar to that associated with a dose of 100 mg per day in adults.
 Gender: There are no significant gender differences in lamivudine pharmacokinetics.
 Race: There are no significant racial differences in lamivudine pharmacokinetics.
-Drug Interactions:Interferon Alfa: Multiple doses of lamivudine and a single dose of interferon were coadministered to 19 healthy male subjects in a pharmacokinetics trial.
+Drug Interactions: Interferon Alfa: Multiple doses of lamivudine and a single dose of interferon were coadministered to 19 healthy male subjects in a pharmacokinetics trial.
 Results indicated a 10% reduction in lamivudine AUC, but no change in interferon pharmacokinetic parameters when the 2 drugs were given in combination.
 All other pharmacokinetic parameters (Cmax, Tmax, and t1/2) were unchanged.
 There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in this trial.
@@ -91,38 +97,34 @@ Coadministration of TMP/SMX with lamivudine resulted in an increase of 44% ± 23
 The pharmacokinetic properties of TMP and SMX were not altered by coadministration with lamivudine.
 Zidovudine: Lamivudine and zidovudine were coadministered to 12 asymptomatic HIV-positive adult subjects in a single-center, open-label, randomized, crossover trial.
 No significant differences were observed in AUC or total clearance for lamivudine or zidovudine when the 2 drugs were administered together.
-Coadministration of lamivudine with zidovudine resulted in an increase of 39% ± 62% (mean ± SD) in Cmax of zidovudine.
+Coadministration of lamivudine with zidovudine resulted in an increase of 39% ± 62% (mean ± SD) in Cmaxof zidovudine.
 
 ## 12.4 Microbiology
 
-Mechanism of Action:Lamivudine is a synthetic nucleoside analogue.
-Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate, 3TC-TP.
-The principal mode of action of 3TC-TP is the inhibition of the RNA- and DNA­ dependent polymerase activities of HBV reverse transcriptase (rt) via DNA chain termination after incorporation of the nucleotide analogue into viral DNA.
-3TC-TP is a weak inhibitor of mammalian α, β, and γ-DNA polymerases.
+Mechan i sm of Act i on L amivudine is a s ynth et ic nu cl eoside a n al o gu e. I nt racellul ar l y, l amivudine is phospho r y l at ed to its active 5′ -t riphosph ate m et abolit e, l amivudine t riphosph at e, 3 TC -TP.
+The p rin cip al mode of action of 3 TC - TP is the inhibition of the R NA- and D NA­ d ep end ent po l ym e r ase activiti es of H BV re v erse t r ans cript ase (rt) via D NA ch ain t ermin ation aft er in c o rpo ration of the nu cl eotide an al o g ue into vi ral DNA.
+3 TC -TP is a weak inhibitor of m amm ali an α, β, and γ -DNA po l y m era s es.
 
-Antiviral Activity:Activity of lamivudine against HBV in cell culture was assessed in HBV DNA-transfected 2.2.15 cells, HB611 cells, and infected human primary hepatocytes.
-EC50 values (the concentration of drug needed to reduce the level of extracellular HBV DNA by 50%) varied from 0.01 µM (2.3 ng per mL) to 5.6 µM (1.3 mcg per mL) depending upon the duration of exposure of cells to lamivudine, the cell model system, and the protocol used.
-See the EPIVIR prescribing information for information regarding activity of lamivudine against HIV.
+Ant i v iral Act i v i t y A ctivi ty of l amivudine ag ainst H BV in c ell cultu re w as ass ess ed in H BV D NA-t r ans f e ct ed 2.2.15 cells, H B611 cells, and in fect ed hu m an p ri m a ry h ep at o c y t es.
+EC 50 v alu es (the co n cent r ation of d r ug n ee d ed to red u ce the l ev el of e xt racellul ar H BV D NA by 50 %) v ari ed from 0.01 µM (2.3 ng p er m L) to 5.6 µM (1.3 m cg p er m L) d e p end ing upon the d u ration of e xposu re of cells to l amivudin e, the cell mod el s yst em, and the p roto col us ed.
+S ee the E P I V IR p res cribi ng in fo rm ation for in fo rm ation r eg ardi ng activi ty of l amivudine ag ainst H I V.
 
-Resistance:Lamivudine-resistant isolates were identified in subjects with virologic breakthrough, defined when using solution hybridization assay as the detection of HBV DNA in serum on 2 or more occasions after failing to detect HBV DNA on 2 or more occasions and defined when using PCR assay as a greater than 1 log10(10-fold) increase in serum HBV DNA from nadir during treatment in a subject who had an initial virologic response.
+Res istance L amivudin e-resist ant isol at es w ere id enti fi ed in subj ects with vi rolo gic b reakth ro u gh, d efin ed wh en using solution h y b ri di z ation ass ay as the d et e ction of H BV D NA in s erum on 2 or mo re o cc asions aft er faili ng to d et e ct H BV DNA on 2 or m o re o c c asions and d efin ed wh en using PCR ass ay as a g rea t er th an 1 lo g10 (10 -fold) in c r ease in s erum HBV DNA from n adir du ri ng t r e atm ent in a subj ect who h ad an initi al vi rolo gic resp ons e.
 
-Lamivudine-resistant HBV isolates develop rtM204V/I substitutions in the YMDD motif of the catalytic domain of the viral reverse transcriptase. rtM204V/I substitutions are frequently accompanied by other substitutions (rtV173L, rtL180M) which enhance the level of lamivudine resistance or act as compensatory substitutions improving replication efficiency.
-Other substitutions detected in lamivudine-resistant HBV isolates include rtL80I and rtA181T.
+L amivudin e -resist ant HBV isol at es d ev elop rtM2 04 V /I substitutions in the YM DD motif of the cat a l ytic dom ain of the vi ral re v erse t rans cript as e. rtM204 V /I substitutions are f r equ ent ly accomp an i ed by oth er s ubstitutions (rt V173 L, r t L180M) whi ch enh a n ce t he l ev el of l amivudine resist an ce or act as com p ens ato ry substitutions i mp roving r epli cation e f fi c i en c y. Oth er substitutions d et ect ed in l amivudin e-resist ant HBV isol at es in clude r t L8 0I and rt A181 T.
 
-In 4 controlled clinical trials in adults with HBeAg-positive chronic hepatitis B virus infection (CHB), YMDD-mutant HBV was detected in 81 of 335 subjects receiving lamivudine tablets (HBV) 100 mg once daily for 52 weeks.
-The prevalence of YMDD substitutions was less than 10% in each of these trials for subjects studied at 24 weeks and increased to an average of 24% (range in 4 trials: 16% to 32%) at 52 weeks.
-In limited data from a long-term follow-up trial in subjects who continued 100 mg per day lamivudine tablets (HBV) after one of these trials, YMDD substitutions further increased from 18% (10 of 57) at 1 year to 41% (20 of 49), 53% (27 of 51), and 69% (31 of 45) after 2, 3, and 4 years of treatment, respectively.
-Over the 5-year treatment period, the proportion of subjects who developed YMDD-mutant HBV at any time was 69% (40 of 58).
+In 4 cont roll ed clini cal t r i als in adults with H B e Ag -positive ch ronic h e p atitis B vi rus in fection (C HB), YM D D -mut ant H BV w as d et e ct ed in 81 of 335 subj ects r eceivi ng lamivudine tablets (HBV) 100 mg on ce d ai ly for 52 w e eks.
+The p r ev a l en ce of YM DD substitutions was l ess th an 10% in each of th ese t ri a ls for subj ects studi ed at 24 weeks and i n cr e as ed to an av e ra ge of 24% (ra n ge in 4 t ri als: 16% to 32 %) at 52 w e eks.
+In limit ed d ata from a lo n g - t e rm follo w-up t ri al in subj ects who continu ed 100 mg p er d ay lamivudine tablets (HBV) aft er o ne of th e se t ri als, YM DD substitutions fu rth er in creas ed f rom 18% (10 of 57) at 1 y ear to 41% (20 of 49), 53% (27 of 51), and 69% (31 of 4 5) af t er 2, 3, and 4 y ea rs of t r e atm ent, resp ectiv e l y. O v er the 5 - y ear t reatm ent p eriod, the p ropo rtion of subj ects who d ev elop ed YM DD-mut ant H BV at a ny time was 6 9% (40 of 58).
 
-In a controlled trial, treatment-naive subjects with HBeAg-positive CHB were treated with lamivudine tablets (HBV) or lamivudine tablets (HBV) plus adefovir dipivoxil combination therapy.
-Following 104 weeks of therapy, YMDD-mutant HBV was detected in 7 of 40 (18%) subjects receiving combination therapy compared with 15 of 35 (43%) subjects receiving therapy with only lamivudine tablets (HBV).
-In another controlled trial, combination therapy was evaluated in adult subjects with HBeAg-positive CHB who had YMDD-mutant HBV and diminished clinical and virologic response to lamivudine tablets (HBV).
-Following 52 weeks of lamivudine tablets (HBV) plus adefovir dipivoxil combination therapy (n = 46) or therapy with only lamivudine tablets (HBV) (n = 49), YMDD-mutant HBV was detected less frequently in subjects receiving combination therapy, 62% versus 96%.
+In a cont roll ed t ri al, t r ea tm ent -n aive subj ects with H B eA g -positive C HB w ere t r eat ed with lamivudine tablets (HBV) or lamivudine tablets (HBV) plus ad e fovir dipivoxil combin ation t h era p y. Follo wing 104 weeks of th e ra p y, YM DD-mut ant HBV was d et ect ed in 7 of 40 (18 %) subj ects re c eiving combin ation th era py co mp ared with 15 of 35 (4 3 %) subj ects r e ceivi ng th e ra py with on ly lamivudine tablets (HBV).
+In anoth er cont roll ed t ri al, combi n ation th era py was ev alu a t ed in adult subj ects with H B e Ag -positive C HB who h ad YM DD-mut ant H BV and diminish ed clini cal and vi rolo gic response to lamivudine tablets (HBV).
+Follo wing 52 weeks of lamivudine tablets (HBV) plus ad efovir dipivoxil combin ation th era py (n = 46) or th era py with on ly lamivudine tablets (HBV) (n = 49), YM DD-mut ant H BV was d et ec t ed l ess f r equ e nt ly in subj ects r e ceivi ng combin ation th era p y, 6 2% v ersus 96 %.
 
-A published trial suggested that the rates of lamivudine resistance in subjects treated for HBeAg-negative CHB appear to be more variable (0% to 27% at 1 year and 10% to 56% at 2 years).
+A publish ed t ri al sug g es t ed th at the rat es of l amivudine resist an ce in subj e cts t reat ed f or H B eA g -n eg ative C HB app ear to be mo re v ar i able (0% to 27% at 1 y e ar a nd 10% to 56% at 2 y e ars).
 
-Pediatric Subjects: In a controlled trial in pediatric subjects, YMDD-mutant HBV was detected in 31 of 166 (19%) subjects receiving lamivudine tablets (HBV) for 52 weeks.
-For a subgroup that remained on therapy with lamivudine tablets (HBV) in a follow-up trial, YMDD substitutions increased from 24% (29 of 121) at 12 months to 59% (68 of 115) at 24 months and 64% (66 of 103) at 36 months of treatment with lamivudine tablets (HBV).
+Ped iat ric Sub je cts: In a cont roll ed t ri al in p edi at ric subj ects, YM DD-mut ant H BV was d et ec t ed in 31 of 1 66 (19 %) subj ects r e c eiving lamivudine tablets (HBV) for 52 w eeks.
+F or a su b g roup th at rem ain ed on th e ra py with lamivudine tablets (HBV) in a follo w-up t ri al, YM DD s ubstitutions in creas ed from 24% (29 of 12 1) at 12 months to 59% (68 of 115) at 24 months and 64% (66 of 103) at 36 months of t reatm ent with lamivudine tablets (HBV).
 Cross-Resistance: HBV containing lamivudine resistance-associated substitutions (rtL180M, rtM204I, rtM204V, rtL180M and rtM204V, rtV173L and rtL180M and rtM204V) retain susceptibility to adefovir dipivoxil but have reduced susceptibility to entecavir (30 fold) and telbivudine (greater than 100 fold).
 The lamivudine resistance-associated substitution rtA181T results in diminished response to adefovir and telbivudine.
 Similarly, HBV with entecavir resistance-associated substitutions (I169T/M250V and T184G/S202I) have greater than 1,000-fold reductions in susceptibility to lamivudine.
