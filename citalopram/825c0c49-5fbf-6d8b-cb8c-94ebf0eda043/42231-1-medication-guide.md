@@ -12,13 +12,13 @@ What is the most important information I should know about citalopram tablets?
 Citalopram tablets and other antidepressant medicines may cause serious side effects, including:
 
 1. 1.Suicidal thoughts or actions:
-   1. •Citalopram tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
-   2. •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-   3. •Watch for these changes and call your healthcare provider right away if you notice:
-      - •New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-      - •Pay particular attention to such changes when citalopram tablets are started or when the dose is changed.
-2. Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
-3. Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
+2. •Citalopram tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
+3. •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
+4. •Watch for these changes and call your healthcare provider right away if you notice:
+   - •New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+   - •Pay particular attention to such changes when citalopram tablets are started or when the dose is changed.
+5. Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
+6. Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
    1. •attempts to commit suicide
    2. •acting on dangerous impulses
    3. •acting aggressive or violent
@@ -29,16 +29,16 @@ Citalopram tablets and other antidepressant medicines may cause serious side eff
    8. •trouble sleeping
    9. •an increase in activity or talking more than what is normal for you
    10. •other unusual changes in behavior or mood
-4. Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
+7. Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
    Citalopram tablets may be associated with these serious side effects:
-5. 2.Changes in the electrical activity of your heart (QT prolongation and Torsade de Pointes).
+8. 2.Changes in the electrical activity of your heart (QT prolongation and Torsade de Pointes).
    This condition can be life-threatening.
    The symptoms may include:
    1. •chest pain
    2. •fast or slow heartbeat
    3. •shortness of breath
    4. •dizziness or fainting
-6. 3.Serotonin Syndrome.
+9. 3.Serotonin Syndrome.
    This condition can be life-threatening and may include:
    1. •agitation, hallucinations, coma, or other changes in mental status
    2. •coordination problems or muscle twitching (overactive reflexes)
@@ -46,13 +46,13 @@ Citalopram tablets and other antidepressant medicines may cause serious side eff
    4. •sweating or fever
    5. •nausea, vomiting, or diarrhea
    6. •muscle rigidity
-7. 4.Severe allergic reactions:
-   1. •trouble breathing
-   2. •swelling of the face, tongue, eyes, or mouth
-   3. •rash, itchy welts (hives) or blisters, alone or with fever or joint pain
-8. 5.Abnormal bleeding: Citalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
-9. 6.Seizures or convulsions
-10. 7.Manic episodes:
+10. 4.Severe allergic reactions:
+    1. •trouble breathing
+    2. •swelling of the face, tongue, eyes, or mouth
+    3. •rash, itchy welts (hives) or blisters, alone or with fever or joint pain
+11. 5.Abnormal bleeding: Citalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+12. 6.Seizures or convulsions
+13. 7.Manic episodes:
     1. •greatly increased energy
     2. •severe trouble sleeping
     3. •racing thoughts
@@ -60,27 +60,28 @@ Citalopram tablets and other antidepressant medicines may cause serious side eff
     5. •unusually grand ideas
     6. •excessive happiness or irritability
     7. •talking more or faster than usual
-11. 8.Changes in appetite or weight.
+14. 8.Changes in appetite or weight.
     Children and adolescents should have height and weight monitored during treatment.
-12. 9.Low salt (sodium) levels in the blood.
+15. 9.Low salt (sodium) levels in the blood.
     Elderly people may be at greater risk for this.
     Symptoms may include:
     1. •headache
     2. •weakness or feeling unsteady
     3. •confusion, problems concentrating or thinking or memory problems
-13. 10.Visual problems
+16. 10.Visual problems
     1. •eye pain
     2. •changes in vision
     3. •swelling or redness in or around the eye
-14. Only some people are at risk for these problems.
+17. Only some people are at risk for these problems.
     You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 Do not stop citalopram tablets without first talking to your healthcare provider.
 Stopping citalopram tablets too quickly may cause serious symptoms including:
 
-- •anxiety, irritability, high or low mood, feeling restless, or changes in sleep habits
-- •headache, sweating, nausea, dizziness
-- •electric shock-like sensations, shaking, confusion
+- 
+  - •anxiety, irritability, high or low mood, feeling restless, or changes in sleep habits
+  - •headache, sweating, nausea, dizziness
+  - •electric shock-like sensations, shaking, confusion
 
 What are citalopram tablets?
 
