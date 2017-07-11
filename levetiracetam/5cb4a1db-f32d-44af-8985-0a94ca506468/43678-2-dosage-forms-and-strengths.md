@@ -1,3 +1,3 @@
-# 3 DOSAGE FORMS & STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
-Levetiracetam Oral Solution 100 mg/mL is a clear, colorless, grape-flavored liquid.
+Levetiracetam oral solution, USP 100 mg/mL is a clear, colorless, grape-flavored liquid.

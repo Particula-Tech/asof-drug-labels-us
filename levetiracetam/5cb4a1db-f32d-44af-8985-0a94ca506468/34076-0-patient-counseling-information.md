@@ -1,27 +1,38 @@
-# 17 INFORMATION FOR PATIENTS
+# 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Patient Labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Counsel patients on the benefits and risks of receiving levetiracetam.
-Provide the Medication Guide to patients and/or caregivers, and instruct them to read the Medication Guide prior to taking levetiracetam.
-Instruct patients to take levetiracetam only as prescribed.
+Psychiatric Reactions and Changes in Behavior
 
-Suicidal Behavior and Ideation Counsel patients, their caregivers, and/or families that antiepileptic drugs (AEDs), including levetiracetam, may increase the risk of suicidal thoughts and behavior and advise patients to be alert for the emergence or worsening of symptoms of depression; unusual changes in mood or behavior; or suicidal thoughts, behavior, or thoughts about self-harm.
-Advise patients, their caregivers, and/or families to immediately report behaviors of concern to a healthcare provider.
+Advise patients that levetiracetam may cause changes in behavior (e.g. aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and psychotic symptoms [see Warnings and Precautions (5.1)].
 
-Psychiatric Reactions and Changes in Behavior Advise patients that levetiracetam may cause changes in behavior (e.g. aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and in rare cases, psychotic symptoms have occurred.
+Suicidal Behavior and Ideation
 
-Effects on Driving or Operating Machinery Inform patients that levetiracetam may cause dizziness and somnolence.
-Inform patients not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their ability to drive or operate machinery.
+Counsel patients, their caregivers, and/or families that antiepileptic drugs (AEDs), including levetiracetam, may increase the risk of suicidal thoughts and behavior and advise patients to be alert for the emergence or worsening of symptoms of depression; unusual changes in mood or behavior; or suicidal thoughts, behavior, or thoughts about self-harm.
+Advise patients, their caregivers, and/or families to immediately report behaviors of concern to a healthcare provider [see Warnings and Precautions (5.2)].
 
-Dermatological Adverse Reactions Advise patients that serious dermatological adverse reactions have occurred in patients treated with levetiracetam and instruct them to call their physician immediately if a rash develops.
+Effects on Driving or Operating Machinery
 
-Pregnancy Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during levetiracetam therapy.
+Inform patients that levetiracetam may cause dizziness and somnolence.
+Inform patients not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their ability to drive or operate machinery [see Warnings and Precautions (5.3)].
+
+Anaphylaxis and Angioedema Advise patients to discontinue levetiracetam and seek medical care if they develop signs and symptoms of anaphylaxis or angioedema [see Warnings and Precautions (5.4)].
+
+Dermatological Adverse Reactions
+
+Advise patients that serious dermatological adverse reactions have occurred in patients treated with levetiracetam and instruct them to call their physician immediately if a rash develops [see Warnings and Precautions (5.5)].
+
+Pregnancy
+
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during levetiracetam therapy.
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see Use In Specific Populations (8.1)].
+To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
-Manufactured by: Actavis Mid Atlantic LLC 1877 Kawai Road Lincolnton, NC 28092 USA
+Manufactured by: G&W Laboratories, Inc. 111 Coolidge Street South Plainfield, NJ 07054 USA
 
-FORM NO. 0235 Rev.
-04/14 VC111595
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+
+Revised – April 2017
+
+I602-1130 GW7217
