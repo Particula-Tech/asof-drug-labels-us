@@ -11,18 +11,18 @@ What is the most important information I should know about PROGRAF?
 
 Prograf can cause serious side effects, including:
 
-- 1.Increased risk of cancer.
-  People who take Prograf have an increased risk of getting some kinds of cancer, including skin and lymph gland cancer (lymphoma).
-- 2.Increased risk of infection.
-  PROGRAF is a medicine that affects your immune system.
-  Prograf can lower the ability of your immune system to fight infections.
-  Serious infections can happen in people receiving Prograf that can cause death.
-  Call your doctor right away if you have symptoms of an infection such as:
-  1. •fever
-  2. •sweats or chills
-  3. •cough or flu-like symptoms
-  4. •muscle aches
-  5. •warm, red, or painful areas on your skin
+1. 1.Increased risk of cancer.
+   People who take Prograf have an increased risk of getting some kinds of cancer, including skin and lymph gland cancer (lymphoma).
+2. 2.Increased risk of infection.
+   PROGRAF is a medicine that affects your immune system.
+   Prograf can lower the ability of your immune system to fight infections.
+   Serious infections can happen in people receiving Prograf that can cause death.
+   Call your doctor right away if you have symptoms of an infection such as:
+   1. •fever
+   2. •sweats or chills
+   3. •cough or flu-like symptoms
+   4. •muscle aches
+   5. •warm, red, or painful areas on your skin
 
 What is PROGRAF?
 
