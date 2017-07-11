@@ -11,8 +11,9 @@ Post-marketing safety data from DYSPORT® and other approved botulinum toxins su
 The symptoms are consistent with the mechanism of action of botulinum toxin and may include asthenia, generalized muscle weakness, diplopia, blurred vision, ptosis, dysphagia, dysphonia, dysarthria, urinary incontinence and breathing difficulties.
 These symptoms have been reported hours to weeks after injection.
 Swallowing and breathing difficulties can be life threatening and there have been reports of death related to spread of toxin effects.
-The risk of the symptoms is probably greatest in children treated for spasticity but symptoms can also occur in adults treated for spasticity and other conditions, and particularly in those patients who have underlying conditions that would predispose them to these symptoms.
-In unapproved uses, including spasticity in children and in approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than the maximum recommended total dose.
+The risk of symptoms is probably greatest in children treated for spasticity but symptoms can also occur in adults treated for spasticity and other conditions, particularly in those patients who have underlying conditions that would predispose them to these symptoms.
+In unapproved uses, including upper limb spasticity in children and approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than the maximum recommended total dose.
+[see Use in Specific Populations (8.4)].
 
 ## 5.3 Dysphagia and Breathing Difficulties
 
