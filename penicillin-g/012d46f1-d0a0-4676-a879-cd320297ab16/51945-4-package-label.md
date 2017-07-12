@@ -36,15 +36,17 @@ Rx only
 
 NDC 60793-701-02
 
-BICILLIN® L-A (penicillin G benzathine injectable suspension) 1,200,000 units per 2 mL
+BICILLIN® L-A (penicillin G benzathine injectable suspension)
+
+1,200,000 units per 2 mL
 
 FOR DEEP IM INJECTION ONLY WARNING: NOT FOR INTRAVENOUS USE
 
-3000974-A 13968101
+3000974B
 
 Lot: Exp:
 
-MADE IN AUSTRIA Distributed by Pfizer Inc New York, NY 10017
+MADE IN AUSTRIA Distributed by Pfizer Inc New York, NY 10017 13968102
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Syringe Carton
 
