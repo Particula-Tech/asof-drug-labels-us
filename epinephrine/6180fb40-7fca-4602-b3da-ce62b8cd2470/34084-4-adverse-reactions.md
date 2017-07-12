@@ -12,6 +12,8 @@ Rapid rises in blood pressure have produced cerebral hemorrhage, particularly in
 
 Angina may occur in patients with coronary artery disease [see WARNINGS AND PRECAUTIONS (5.5)].
 
+Rare cases of stress cardiomyopathy have been reported in patients treated with epinephrine.
+
 Accidental injection into the digits, hands or feet may result in loss of blood flow to the affected area [see WARNINGS AND PRECAUTIONS (5.2)].
 
 Adverse events experienced as a result of accidental injections may include increased heart rate, local reactions including injection site pallor, coldness and hypoesthesia or injury at the injection site resulting in bruising, bleeding, discoloration, erythema or skeletal injury.
