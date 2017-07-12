@@ -13,7 +13,7 @@ The parts of the DUPIXENT Syringe are shown below:
 
 | Important Information |  |
 | --- | --- |
-| Read all of the instructions carefully before using the DUPIXENT Syringe.Ask your healthcare provider how often you will need to inject the medicine.Rotate the injection site each time you inject.Do not use the DUPIXENT Syringe if it has been damaged.Do not use the DUPIXENT Syringe if the Needle Cap is missing or not securely attached.Do not touch the Plunger Rod until you are ready to inject.Do not inject through clothes.Do not get rid of any air bubbles in the DUPIXENT Syringe. | To reduce the risk of accidental needle sticks, each pre-filled syringe has a Needle Shield that is automatically activated to cover the needle after you have given your injection.Do not pull back on the Plunger Rod at any time.Do not remove the Needle Cap until just before you give the injection.Throw away (dispose of) the used DUPIXENT Single-Dose Pre-filled Syringe right away after use. See "Step 13: Dispose" below.Do not re-use a DUPIXENT Single-Dose Pre-filled Syringe. |
+| Read all of the instructions carefully before using the DUPIXENT Syringe.Ask your healthcare provider how often you will need to inject the medicine.Rotate the injection site each time you inject.Do not use the DUPIXENT Syringe if it has been dropped on a hard surface or damaged.Do not use the DUPIXENT Syringe if the Needle Cap is missing or not securely attached.Do not touch the Plunger Rod until you are ready to inject.Do not inject through clothes.Do not get rid of any air bubbles in the DUPIXENT Syringe. | To reduce the risk of accidental needle sticks, each pre-filled syringe has a Needle Shield that is automatically activated to cover the needle after you have given your injection.Do not pull back on the Plunger Rod at any time.Do not remove the Needle Cap until just before you give the injection.Throw away (dispose of) the used DUPIXENT Single-Dose Pre-filled Syringe right away after use. See "Step 13: Dispose" below.Do not re-use a DUPIXENT Single-Dose Pre-filled Syringe. |
 | How should I store DUPIXENT? Store DUPIXENT Syringes in the refrigerator between 36°F and 46°F (2°C and 8°C). Store DUPIXENT Syringes in the original carton to protect them from light.DUPIXENT Syringes can be stored at room temperature up to 77°F (25°C) up to 14 days. Throw away (dispose of) any DUPIXENT Syringes that have been left at room temperature for longer than 14 days.Do not shake the DUPIXENT Syringe.Do not heat the DUPIXENT Syringe.Do not freeze the DUPIXENT Syringe.Do not put the DUPIXENT Syringe into direct sunlight.Keep DUPIXENT Syringes and all medicines out of the reach of children. |  |
 
 Step 1: Remove
@@ -26,14 +26,8 @@ Do not use the DUPIXENT Syringe if it has been damaged.
 
 Step 2: Prepare
 
-Ensure you have the following:
-
-- the DUPIXENT Pre-filled Syringe
-- 1 alcohol wipe*
-- 1 cotton ball or gauze*
-- a sharps disposal container* (See Step 13)
-
-*Items not included in the carton
+| Ensure you have the following: the DUPIXENT Pre-filled Syringe1 alcohol wipeItems not included in the carton1 cotton ball or gauzea sharps disposal container (See Step 13) |
+| --- |
 
 Step 3: Inspect
 
@@ -153,11 +147,9 @@ REGENERON SANOFI GENZYME
 
 Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760
 
-Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591)
-
-DUPIXENT® is a registered trademark of Sanofi Biotechnology
+Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology
 
 © 2017 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
 All rights reserved.
 
-Issue Date: March 2017
+Issue Date: July 2017
