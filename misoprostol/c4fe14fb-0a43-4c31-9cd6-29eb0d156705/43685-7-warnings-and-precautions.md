@@ -28,7 +28,7 @@ The patient should read the leaflet before taking misoprostol and each time the 
 
 Keep misoprostol out of the reach of children.
 
-SPECIAL NOTE FOR WOMEN: Misoprostol may cause birth defects, abortion (sometimes incomplete), or premature labor if given to pregnant women.
+SPECIAL NOTE FOR WOMEN: Misoprostol may cause birth defects, abortion (sometimes incomplete), premature labor or rupture of the uterus if given to pregnant women.
 
 Misoprostol is available only as a unit-of-use package that includes a leaflet containing patient information.
 See Patient Information at the end of this labeling.
@@ -60,7 +60,7 @@ The mutagenic potential of misoprostol was tested in several in vitro assays, al
 Misoprostol, when administered to breeding male and female rats at doses 6.25 times to 625 times the maximum recommended human therapeutic dose, produced dose-related pre- and post-implantation losses and a significant decrease in the number of live pups born at the highest dose.
 These findings suggest the possibility of a general adverse effect on fertility in males and females.
 
-## Pregnancy: Pregnancy Category X
+## Pregnancy
 
 ### Teratogenic effects
 
@@ -85,13 +85,14 @@ Vaginal administration of misoprostol, outside of its approved indication, has b
 A major adverse effect of the obstetrical use of misoprostol is uterine tachysystole which may progress to uterine tetany with marked impairment of uteroplacental blood flow, uterine rupture (requiring surgical repair, hysterectomy, and/or salpingo-oophorectomy), or amniotic fluid embolism and lead to adverse fetal heart changes.
 Uterine activity and fetal status should be monitored by trained obstetrical personnel in a hospital setting.
 
-The risk of uterine rupture increases with advancing gestational ages and prior uterine surgery, including Cesarean delivery.
+The risk of uterine rupture associated with misoprostol use in pregnancy increases with advancing gestational ages and prior uterine surgery, including Cesarean delivery.
 Grand multiparity also appears to be a risk factor for uterine rupture.
 
 The use of misoprostol outside of its approved indication may also be associated with meconium passage, meconium staining of amniotic fluid, and Cesarean delivery.
 Maternal shock, maternal death, fetal bradycardia, and fetal death have also been reported with the use of misoprostol.
 
 Misoprostol should not be used in the third trimester in women with a history of Cesarean section or major uterine surgery because of an increased risk of uterine rupture.
+
 Misoprostol should not be used in cases where uterotonic drugs are generally contraindicated or where hyperstimulation of the uterus is considered inappropriate, such as cephalopelvic disproportion, grand multiparity, hypertonic or hyperactive uterine patterns, or fetal distress where delivery is not imminent, or when surgical intervention is more appropriate.
 
 The effect of misoprostol on later growth, development, and functional maturation of the child when misoprostol is used for cervical ripening or induction of labor has not been established.

@@ -85,16 +85,22 @@ Reduction of Risk of Gastric Ulcers Induced by Ibuprofen, Piroxicam, or Naproxen
 | --- | --- | --- | --- | --- |
 |  | Therapy Duration |  |  |  |
 | Study No. 1 |  |  |  |  |
-| Misoprostol 200 mcg q.i.d. (n=74) | 1 (1.4) | 0 | 0 | 1 (1.4)Statistically significantly different from placebo at the 5% level. |
-| Misoprostol 100 mcg q.i.d. (n=77) | 3 (3.9) | 1 (1.3) | 1 (1.3) | 5 (6.5) |
+| Misoprostol |  |  |  |  |
+| 200 mcg q.i.d. (n=74) | 1 (1.4) | 0 | 0 | 1 (1.4)Statistically significantly different from placebo at the 5% level. |
+| Misoprostol |  |  |  |  |
+| 100 mcg q.i.d. (n=77) | 3 (3.9) | 1 (1.3) | 1 (1.3) | 5 (6.5) |
 | Placebo (n=76) | 11 (14.5) | 4 (5.3) | 4 (5.3) | 19 (25.0) |
 | Study No. 2 |  |  |  |  |
-| Misoprostol 200 mcg q.i.d. (n=65) | 1 (1.5) | 1 (1.5) | 0 | 2 (3.1) |
-| Misoprostol 100 mcg q.i.d. (n=66) | 2 (3.0) | 2 (3.0) | 1 (1.5) | 5 (7.6) |
+| Misoprostol |  |  |  |  |
+| 200 mcg q.i.d. (n=65) | 1 (1.5) | 1 (1.5) | 0 | 2 (3.1) |
+| Misoprostol |  |  |  |  |
+| 100 mcg q.i.d. (n=66) | 2 (3.0) | 2 (3.0) | 1 (1.5) | 5 (7.6) |
 | Placebo (n=62) | 6 (9.7) | 2 (3.2) | 3 (4.8) | 11 (17.7) |
 | Studies No. 1 & No. 2Combined data from Study No. 1 and Study No. 2. |  |  |  |  |
-| Misoprostol 200 mcg q.i.d. (n=139) | 2 (1.4) | 1 (0.7) | 0 | 3 (2.2) |
-| Misoprostol 100 mcg q.i.d. (n=143) | 5 (3.5) | 3 (2.1) | 2 (1.4) | 10 (7.0) |
+| Misoprostol |  |  |  |  |
+| 200 mcg q.i.d. (n=139) | 2 (1.4) | 1 (0.7) | 0 | 3 (2.2) |
+| Misoprostol |  |  |  |  |
+| 100 mcg q.i.d. (n=143) | 5 (3.5) | 3 (2.1) | 2 (1.4) | 10 (7.0) |
 | Placebo (n=138) | 17 (12.3) | 6 (4.3) | 7 (5.1) | 30 (21.7) |
 
 In these trials there were no significant differences between misoprostol and placebo in relief of day or night abdominal pain.
