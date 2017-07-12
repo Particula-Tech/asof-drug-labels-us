@@ -6,5 +6,4 @@ Benzodiazepines may be used in patients with open-angle glaucoma only if they ar
 Measurements of intraocular pressure in patients without eye disease show a moderate lowering following induction with midazolam; patients with glaucoma have not been studied.
 
 Midazolam is not intended for intrathecal or epidural administration due to the presence of the preservative benzyl alcohol in the dosage form.
-Midazolam injection is contraindicated for use in premature infants because the formulation contains benzyl alcohol.
-(See WARNINGS and PRECAUTIONS - Pediatric Use).
+Midazolam injection is contraindicated for use in premature infants because the formulation contains benzyl alcohol (See WARNINGS and PRECAUTIONS/Pediatric Use).
