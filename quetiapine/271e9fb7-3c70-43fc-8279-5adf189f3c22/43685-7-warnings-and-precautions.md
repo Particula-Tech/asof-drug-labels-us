@@ -18,16 +18,16 @@ There has been a long-standing concern, however, that antidepressants may have a
 Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 2.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 2.
 
-Table 2: Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated
+Table 2: Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
@@ -109,16 +109,16 @@ Table 3: Fasting Glucose — Proportion of Patients Shifting to ≥ 126 mg/dL in
 
 | Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Fasting Glucose | Normal to High (< 100 mg/dL to ≥ 126 mg/dL) | Quetiapine | 2907 | 71 (2.4%) |
-| Placebo | 1346 | 19 (1.4%) |  |  |
+| Fasting Glucose | Normal to High (< 100 mg/dL to ≥ 126 mg/dL) | Quetiapine | 2,907 | 71 (2.4%) |
+| Placebo | 1,346 | 19 (1.4%) |  |  |
 | Borderline to High (≥ 100 mg/dL and < 126 mg/dL to ≥ 126 mg/dL) | Quetiapine | 572 | 67 (11.7%) |  |
 | Placebo | 279 | 33 (11.8%) |  |  |
 
 In a 24-week trial (active-controlled, 115 patients treated with quetiapine) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a treatment-emergent post-glucose challenge glucose level ≥ 200 mg/dL was 1.7% and the incidence of a fasting treatment-emergent blood glucose level ≥ 126 mg/dL was 2.6%.
 The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2 hour glucose from baseline was -1.8 mg/dL for quetiapine.
 
-In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar I disorder maintenance, mean exposure of 213 days for quetiapine (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5 mg/dL for quetiapine and -0.05 mg/dL for placebo.
-The exposure-adjusted rate of any increased blood glucose level (≥ 126 mg/dL) for patients more than 8 hours since a meal (however, some patients may not have been precluded from calorie intake from fluids during fasting period) was 18 per 100 patient years for quetiapine (10.7% of patients; n=556) and 9.5 for placebo per 100 patient years (4.6% of patients; n=581).
+In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar I disorder maintenance, mean exposure of 213 days for quetiapine (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5.0 mg/dL for quetiapine and -0.05 mg/dL for placebo.
+The exposure-adjusted rate of any increased blood glucose level (≥ 126 mg/dL) for patients more than 8 hours since a meal (however, some patients may not have been precluded from calorie intake from fluids during fasting period) was 18.0 per 100 patient years for quetiapine (10.7% of patients; n=556) and 9.5 for placebo per 100 patient years (4.6% of patients; n=581).
 
 Children and Adolescents: In a placebo-controlled quetiapine monotherapy study of adolescent patients (13 to 17 years of age) with schizophrenia (6 weeks duration), the mean change in fasting glucose levels for quetiapine (n=138) compared to placebo (n=67) was -0.75 mg/dL versus -1.70 mg/dL.
 In a placebo-controlled quetiapine monotherapy study of children and adolescent patients (10 to 17 years of age) with bipolar mania (3 weeks duration), the mean change in fasting glucose level for quetiapine (n=170) compared to placebo (n=81) was 3.62 mg/dL versus -1.17 mg/dL.
@@ -203,7 +203,7 @@ Table 7: Proportion of Patients with Weight Gain ≥ 7% of Body Weight (Children
 | Bipolar Mania3 weeks duration | Quetiapine | 157 | 18 (12%) |  |
 | Placebo | 68 | 0 (0%) |  |  |
 
-The mean change in body weight in the schizophrenia trial was 2 kg in the quetiapine group and -0.4 kg in the placebo group and in the bipolar mania trial it was 1.7 kg in the quetiapine group and 0.4 kg in the placebo group.
+The mean change in body weight in the schizophrenia trial was 2.0 kg in the quetiapine group and -0.4 kg in the placebo group and in the bipolar mania trial it was 1.7 kg in the quetiapine group and 0.4 kg in the placebo group.
 
 In an open-label study that enrolled patients from the above two pediatric trials, 63% of patients (241/380) completed 26 weeks of therapy with quetiapine.
 After 26 weeks of treatment, the mean increase in body weight was 4.4 kg.
@@ -236,20 +236,25 @@ However, some patients may require treatment with quetiapine despite the presenc
 ## 5.7 Hypotension
 
 Quetiapine may induce orthostatic hypotension associated with dizziness, tachycardia and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α1-adrenergic antagonist properties.
-Syncope was reported in 1% (28/3265) of the patients treated with quetiapine, compared with 0.2% (2/954) on placebo and about 0.4% (2/527) on active control drugs.
+Syncope was reported in 1% (28/3,265) of the patients treated with quetiapine, compared with 0.2% (2/954) on placebo and about 0.4% (2/527) on active control drugs.
 Orthostatic hypotension, dizziness, and syncope may lead to falls.
 
 Quetiapine should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease or conditions which would predispose patients to hypotension (dehydration, hypovolemia and treatment with antihypertensive medications).
-The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 25 mg twice daily [see Dosage and Administration (2.1)].
+The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 25 mg twice daily [see Dosage and Administration (2.2)].
 If hypotension occurs during titration to the target dose, a return to the previous dose in the titration schedule is appropriate.
 
-## 5.8 Increases in Blood Pressure (Children and Adolescents)
+## 5.8 Falls
+
+Atypical antipsychotic drugs, including quetiapine, may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## 5.9 Increases in Blood Pressure (Children and Adolescents)
 
 In placebo-controlled trials in children and adolescents with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of increases at any time in systolic blood pressure (≥ 20 mmHg) was 15.2% (51/335) for quetiapine and 5.5% (9/163) for placebo; the incidence of increases at any time in diastolic blood pressure (≥ 10 mmHg) was 40.6% (136/335) for quetiapine and 24.5% (40/163) for placebo.
 In the 26-week open-label clinical trial, one child with a reported history of hypertension experienced a hypertensive crisis.
 Blood pressure in children and adolescents should be measured at the beginning of, and periodically during treatment.
 
-## 5.9 Leukopenia, Neutropenia and Agranulocytosis
+## 5.10 Leukopenia, Neutropenia and Agranulocytosis
 
 In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to atypical antipsychotic agents, including quetiapine.
 Agranulocytosis (including fatal cases) has also been reported.
@@ -258,16 +263,16 @@ Possible risk factors for leukopenia/neutropenia include pre-existing low white 
 Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue quetiapine at the first sign of a decline in WBC in absence of other causative factors.
 
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue quetiapine and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count < 1,000/mm3) should discontinue quetiapine and have their WBC followed until recovery.
 
-## 5.10 Cataracts
+## 5.11 Cataracts
 
 The development of cataracts was observed in association with quetiapine treatment in chronic dog studies [see Nonclinical Toxicology (13.2)].
 Lens changes have also been observed in adults, children and adolescents during long-term quetiapine treatment, but a causal relationship to quetiapine use has not been established.
 Nevertheless, the possibility of lenticular changes cannot be excluded at this time.
 Therefore, examination of the lens by methods adequate to detect cataract formation, such as slit lamp exam or other appropriately sensitive methods, is recommended at initiation of treatment or shortly thereafter, and at 6-month intervals during chronic treatment.
 
-## 5.11 QT Prolongation
+## 5.12 QT Prolongation
 
 In clinical trials quetiapine was not associated with a persistent increase in QT intervals.
 However, the QT effect was not systematically evaluated in a thorough QT study.
@@ -279,13 +284,13 @@ Quetiapine should also be avoided in circumstances that may increase the risk of
 
 Caution should also be exercised when quetiapine is prescribed in patients with increased risk of QT prolongation (e.g. cardiovascular disease, family history of QT prolongation, the elderly, congestive heart failure and heart hypertrophy).
 
-## 5.12 Seizures
+## 5.13 Seizures
 
-During clinical trials, seizures occurred in 0.5% (20/3490) of patients treated with quetiapine compared to 0.2% (2/954) on placebo and 0.7% (4/527) on active control drugs.
+During clinical trials, seizures occurred in 0.5% (20/3,490) of patients treated with quetiapine compared to 0.2% (2/954) on placebo and 0.7% (4/527) on active control drugs.
 As with other antipsychotics, quetiapine should be used cautiously in patients with a history of seizures or with conditions that potentially lower the seizure threshold, e.g., Alzheimer’s dementia.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
-## 5.13 Hypothyroidism
+## 5.14 Hypothyroidism
 
 Adults
 
@@ -299,10 +304,10 @@ Therefore, both TSH and free T4, in addition to clinical assessment, should be m
 In the mania adjunct studies, where quetiapine was added to lithium or divalproex, 12% (24/196) of quetiapine treated patients compared to 7% (15/203) of placebo-treated patients had elevated TSH levels.
 Of the quetiapine treated patients with elevated TSH levels, 3 had simultaneous low free T4 levels (free T4 < 0.8 LLN).
 
-About 0.7% (26/3489) of quetiapine patients did experience TSH increases in monotherapy studies.
+About 0.7% (26/3,489) of quetiapine patients did experience TSH increases in monotherapy studies.
 Some patients with TSH increases needed replacement thyroid treatment.
 
-In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH were1: decrease in free T4 (free T4 < 0.8 LLN), 2% (357/17513); decrease in total T4, 4% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2% (26/1312), and increase in TSH, 4.9% (956/19412).
+In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH were1: decrease in free T4 (free T4 < 0.8 LLN), 2% (357/17,513); decrease in total T4, 4% (75/1,861); decrease in free T3, 0.4% (53/13,766); decrease in total T3, 2% (26/1,312), and increase in TSH, 4.9% (956/19,412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
@@ -313,24 +318,24 @@ Shifts in Total T4, free T4, total T3, and free T3 are defined as <0.8 x LLN (pm
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo |
-| 3.4%(37/1097) | 0.6%(4/651) | 0.7% (52/7218) | 0.1% (4/3668) | 0.5% (2/369) | 0% (0/113) | 0.2% (11/5673) | 0% (1/2679) | 3.2% (240/7587) | 2.7% (105/3912) |
+| 3.4%(37/1,097) | 0.6%(4/651) | 0.7% (52/7,218) | 0.1% (4/3,668) | 0.5% (2/369) | 0.0% (0/113) | 0.2% (11/5,673) | 0.0% (1/2,679) | 3.2% (240/7,587) | 2.7% (105/3,912) |
 
-In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, shifts in T3 and TSH was 0% for both quetiapine (1/4800) and placebo (0/2190) and for T4 and TSH the shifts were 0.1% (7/6154) for quetiapine versus 0% (1/3007) for placebo.
+In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, shifts in T3 and TSH was 0.0% for both quetiapine (1/4,800) and placebo (0/2,190) and for T4 and TSH the shifts were 0.1% (7/6,154) for quetiapine versus 0.0% (1/3,007) for placebo.
 
 Children and Adolescents
 
-In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts for thyroid function values at any time for quetiapine treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145, respectively).
+In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts for thyroid function values at any time for quetiapine treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively and for decreased total thyroxine was 2.8% (8/289) vs. 0.0% (0/145, respectively).
 Of the quetiapine treated patients with elevated TSH levels, 1 had simultaneous low free T4 level at end of treatment.
 
-## 5.14 Hyperprolactinemia
+## 5.15 Hyperprolactinemia
 
 Adults
 
-During clinical trials with quetiapine, the incidence of shifts in prolactin levels to a clinically significant value occurred in 3.6% (158/4416) of patients treated with quetiapine compared to 2.6% (51/1968) on placebo.
+During clinical trials with quetiapine, the incidence of shifts in prolactin levels to a clinically significant value occurred in 3.6% (158/4,416) of patients treated with quetiapine compared to 2.6% (51/1,968) on placebo.
 
 Children and Adolescents
 
-In acute placebo-controlled trials in children and adolescent patients with bipolar mania (3-week duration) or schizophrenia (6-week duration), the incidence of shifts in prolactin levels to a value (> 20 mcg/L males; > 26 mcg/L females at any time) was 13.4% (18/134) for quetiapine compared to 4% (3/75) for placebo in males and 8.7% (9/104) for quetiapine compared to 0% (0/39) for placebo in females.
+In acute placebo-controlled trials in children and adolescent patients with bipolar mania (3-week duration) or schizophrenia (6-week duration), the incidence of shifts in prolactin levels to a value (> 20 mcg/L males; > 26 mcg/L females at any time) was 13.4% (18/134) for quetiapine compared to 4% (3/75) for placebo in males and 8.7% (9/104) for quetiapine compared to 0.0% (0/39) for placebo in females.
 
 Like other drugs that antagonize dopamine D2 receptors, quetiapine elevates prolactin levels in some patients and the elevation may persist during chronic administration.
 Hyperprolactinemia, regardless of etiology, may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotrophin secretion.
@@ -342,7 +347,7 @@ Tissue culture experiments indicate that approximately one-third of human breast
 As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive [see Nonclinical Toxicology (13.1)].
 
-## 5.15 Potential for Cognitive and Motor Impairment
+## 5.16 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse event reported in patients treated with quetiapine especially during the 3 to 5 day period of initial dose-titration.
 In schizophrenia trials, somnolence was reported in 18% (89/510) of patients on quetiapine compared to 11% (22/206) of placebo patients.
@@ -352,20 +357,20 @@ In bipolar depression trials, somnolence was reported in 57% (398/698) of patien
 Since quetiapine has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about performing activities requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating hazardous machinery until they are reasonably certain that quetiapine therapy does not affect them adversely.
 Somnolence may lead to falls.
 
-## 5.16 Body Temperature Regulation
+## 5.17 Body Temperature Regulation
 
 Although not reported with quetiapine, disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing quetiapine for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
 
-## 5.17 Dysphagia
+## 5.18 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer's dementia.
 Quetiapine and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 
-## 5.18 Discontinuation Syndrome
+## 5.19 Discontinuation Syndrome
 
 Acute withdrawal symptoms, such as insomnia, nausea, and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including quetiapine.
-In short-term placebo-controlled, monotherapy clinical trials with quetiapine that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1993) for quetiapine and 6.7% (71/1065) for placebo.
+In short-term placebo-controlled, monotherapy clinical trials with quetiapine that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1,993) for quetiapine and 6.7% (71/1,065) for placebo.
 The incidence of the individual adverse events (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1 week post-discontinuation.
 Gradual withdrawal is advised.

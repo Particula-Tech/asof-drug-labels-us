@@ -6,7 +6,7 @@ The risks of using quetiapine in combination with other drugs have not been exte
 Given the primary CNS effects of quetiapine, caution should be used when it is taken in combination with other centrally acting drugs.
 Quetiapine potentiated the cognitive and motor effects of alcohol in a clinical trial in subjects with selected psychotic disorders, and alcoholic beverages should be limited while taking quetiapine.
 
-Quetiapine exposure is increased by the prototype CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.) and decreased by the prototype CYP3A4 inducers (e.g, phenytoin, carbamazepine, rifampin, avasimibe, St. John’s wort etc.). Dose adjustment of quetiapine will be necessary if it is coadministered with potent CYP3A4 inducers or inhibitors.
+Quetiapine exposure is increased by the prototype CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.) and decreased by the prototype CYP3A4 inducers (e.g, phenytoin, carbamazepine, rifampin, avasimibe, St. John’s wort etc.). Dose adjustment of quetiapine will be necessary if it is co-administered with potent CYP3A4 inducers or inhibitors.
 
 CYP3A4 Inhibitors
 

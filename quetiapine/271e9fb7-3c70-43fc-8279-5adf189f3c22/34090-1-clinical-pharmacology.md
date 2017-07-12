@@ -12,8 +12,8 @@ Quetiapine’s antagonism of adrenergic α1 receptors may explain the orthostati
 
 ## 12.2 Pharmacodynamics
 
-Quetiapine is an antagonist at multiple neurotransmitter receptors in the brain: serotonin 5HT1A and 5HT2 (IC50s=717 & 148 nM respectively), dopamine D1 and D2 (IC50s=1268 & 329 nM respectively), histamine H1 (IC50=30 nM), and adrenergic α1 and α2 receptors (IC50s=94 & 271 nM, respectively).
-Quetiapine has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC50s>5000 nM).
+Quetiapine is an antagonist at multiple neurotransmitter receptors in the brain: serotonin 5HT1A and 5HT2 (IC50s=717 & 148 nM, respectively), dopamine D1 and D2 (IC50s=1,268 & 329 nM, respectively), histamine H1 (IC50=30 nM), and adrenergic α1 and α2 receptors (IC50s=94 & 271 nM, respectively).
+Quetiapine has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC50s>5,000 nM).
 
 Effect on QT Interval
 
@@ -25,7 +25,7 @@ In post marketing experience there were cases reported of QT prolongation in pat
 
 Adults
 
-Quetiapine activity is primarily due to the parent drug.
+Quetiapine fumarate activity is primarily due to the parent drug.
 The multiple-dose pharmacokinetics of quetiapine are dose-proportional within the proposed clinical dose range, and quetiapine accumulation is predictable upon multiple dosing.
 Elimination of quetiapine is mainly via hepatic metabolism with a mean terminal half-life of about 6 hours within the proposed clinical dose range.
 Steady-state concentrations are expected to be achieved within two days of dosing.
@@ -33,12 +33,12 @@ Quetiapine is unlikely to interfere with the metabolism of drugs metabolized by 
 
 Children and Adolescents
 
-At steady-state the pharmacokinetics of the parent compound, in children and adolescents (10 to 17 years of age), were similar to adults.
+At steady state the pharmacokinetics of the parent compound, in children and adolescents (10 to 17 years of age), were similar to adults.
 However, when adjusted for dose and weight, AUC and Cmax of the parent compound were 41% and 39% lower, respectively, in children and adolescents than in adults.
 For the active metabolite, norquetiapine, AUC and Cmax were 45% and 31% higher, respectively, in children and adolescents than in adults.
 When adjusted for dose and weight, the pharmacokinetics of the metabolite, norquetiapine, was similar between children and adolescents and adults [see Use in Specific Populations (8.4)].
 
-Absorption: Quetiapine is rapidly absorbed after oral administration, reaching peak plasma concentrations in 1.5 hours.
+Absorption: Quetiapine fumarate is rapidly absorbed after oral administration, reaching peak plasma concentrations in 1.5 hours.
 The tablet formulation is 100% bioavailable relative to solution.
 The bioavailability of quetiapine is marginally affected by administration with food, with Cmax and AUC values increased by 25% and 15%, respectively.
 
@@ -96,5 +96,5 @@ Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
 | Coadministered Drug | Quetiapine |  |  |
 | Lorazepam | 2 mg, single dose | 250 mg three times daily | Oral clearance of lorazepam reduced by 20% |
 | Divalproex | 500 mg twice daily | 150 mg twice daily | Cmax and AUC of free valproic acid at steady-state was decreased by 10 to 12% |
-| Lithium | Up to 2400 mg/day given in twice daily doses | 250 mg three times daily | No effect on steady-state pharmacokinetics of lithium |
+| Lithium | Up to 2,400 mg/day given in twice daily doses | 250 mg three times daily | No effect on steady-state pharmacokinetics of lithium |
 | Antipyrine | 1 g, single dose | 250 mg three times daily | No effect on clearance of antipyrine or urinary recovery of its metabolites |

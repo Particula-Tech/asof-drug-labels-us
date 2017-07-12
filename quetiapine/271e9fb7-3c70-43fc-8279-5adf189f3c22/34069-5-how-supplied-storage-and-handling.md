@@ -36,7 +36,7 @@ NDC 0054-0222-20: 10x10 Unit-Dose Tablets
 
 300 mg tablets are supplied as a white to off-white, oval, standard biconvex tablet debossed with product identification “54 531” on one side and plain on the other side.
 
-NDC 0054-0223-25: Bottle of 100 Tablets
+NDC 0054-0223-21: Bottle of 60 Tablets
 
 NDC 0054-0223-29: Bottle of 500 Tablets
 

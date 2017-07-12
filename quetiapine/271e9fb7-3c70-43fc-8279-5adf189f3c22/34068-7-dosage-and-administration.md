@@ -37,11 +37,11 @@ Elderly patients should be started on quetiapine 50 mg/day and the dose can be i
 Patients with hepatic impairment should be started on 25 mg/day.
 The dose should be increased daily in increments of 25 mg/day to 50 mg/day to an effective dose, depending on the clinical response and tolerability of the patient.
 
-## 2.5 Dose Modifications When Used with CYP3A4 Inhibitors
+## 2.5 Dose Modifications when used with CYP3A4 Inhibitors
 
-Quetiapine dose should be reduced to one sixth of original dose when co-medicated with a potent CYP3A4 inhibitor (e.g. ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.). When the CYP3A4 inhibitor is discontinued, the dose of quetiapine should be increased by 6 fold [see Clinical Pharmacology (12.3) and Drug Interactions 7.1)].
+Quetiapine dose should be reduced to one sixth of original dose when co-medicated with a potent CYP3A4 inhibitor (e.g. ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.). When the CYP3A4 inhibitor is discontinued, the dose of quetiapine should be increased by 6 fold [see Clinical Pharmacology (12.3) and DrugInteractions (7.1)].
 
-## 2.6 Dose Modifications When Used with CYP3A4 Inducers
+## 2.6 Dose Modifications when used with CYP3A4 Inducers
 
 Quetiapine dose should be increased up to 5 fold of the original dose when used in combination with a chronic treatment (e.g., greater than 7 to 14 days) of a potent CYP3A4 inducer (e.g. phenytoin, carbamazepine, rifampin, avasimibe, St. John’s wort, etc.). The dose should be titrated based on the clinical response and tolerability of the individual patient.
 When the CYP3A4 inducer is discontinued, the dose of quetiapine should be reduced to the original level within 7 to 14 days [see Clinical Pharmacology (12.3)andDrug Interactions (7.1)].

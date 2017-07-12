@@ -37,32 +37,30 @@ Table 19: Schizophrenia Short-Term Trials
 | Study Number | Treatment Group | Primary Efficacy Endpoint: BPRS Total |  |  |
 | --- | --- | --- | --- | --- |
 | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
-| Study 1 | Quetiapine (75 mg/day) | 45.7 (10.9) | -2.2 (2) | -4 (-11.2, 3.3) |
-| Quetiapine (150 mg/day)Doses that are statistically significant superior to placebo. | 47.2 (10.1) | -8.7 (2.1) | -10.4 (-17.8, -3) |  |
-| Quetiapine (300 mg/day) | 45.3 (10.9) | -8.6 (2.1) | -10.3 (-17.6, -3) |  |
+| Study 1 | Quetiapine (75 mg/day) | 45.7 (10.9) | -2.2 (2.0) | -4.0 (-11.2, 3.3) |
+| Quetiapine (150 mg/day)Doses that are statistically significant superior to placebo. | 47.2 (10.1) | -8.7 (2.1) | -10.4 (-17.8, -3.0) |  |
+| Quetiapine (300 mg/day) | 45.3 (10.9) | -8.6 (2.1) | -10.3 (-17.6, -3.0) |  |
 | Quetiapine (600 mg/day) | 43.5 (11.3) | -7.7 (2.1) | -9.4 (-16.7, -2.1) |  |
-| Quetiapine (750 mg/day) | 45.7 (11) | -6.3 (2) | -8 (-15.2, -0.8) |  |
+| Quetiapine (750 mg/day) | 45.7 (11.0) | -6.3 (2.0) | -8.0 (-15.2, -0.8) |  |
 | Placebo | 45.3 (9.2) | 1.7 (2.1) | -- |  |
 | Study 2 | Quetiapine (250 mg/day) | 38.9 (9.8) | -4.2 (1.6) | -3.2 (-7.6, 1.2) |
-| Quetiapine (750 mg/day) | 41 (9.6) | -8.7 (1.6) | -7.8 (-12.2, -3.4) |  |
-| Placebo | 38.4 (9.7) | -1 (1.6) | -- |  |
-| Study 3 | Quetiapine (450 mg/day BID) | 42.1 (10.7) | -10 (1.3) | -4.6 (-7.8, -1.4) |
-| Quetiapine (450 mg/day TID)Doses that are statistically significant superior to quetiapine 50 mg BID. | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0) |  |
-| Quetiapine (50 mg BID) | 41.7 (10) | -5.4 (1.3) | -- |  |
+| Quetiapine (750 mg/day) | 41.0 (9.6) | -8.7 (1.6) | -7.8 (-12.2, -3.4) |  |
+| Placebo | 38.4 (9.7) | -1.0 (1.6) | -- |  |
+| Study 3 | Quetiapine (450 mg/day BID) | 42.1 (10.7) | -10.0 (1.3) | -4.6 (-7.8, -1.4) |
+| Quetiapine (450 mg/day TID)Doses that are statistically significant superior to quetiapine 50 mg BID. | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0.0) |  |
+| Quetiapine (50 mg BID) | 41.7 (10.0) | -5.4 (1.3) | -- |  |
 |  |  | Primary Efficacy Endpoint: PANSS Total |  |  |
 | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-Subtracted Difference (95% CI) |  |  |
 | Study 4 | Quetiapine (400 mg/day) | 96.2 (17.7) | -27.3 (2.6) | -8.2 (-16.1, -0.3) |
 | Quetiapine (800 mg/day) | 96.9 (15.3) | -28.4 (1.8) | -9.3 (-16.2, -2.4) |  |
-| Placebo | 96.2 (17.7) | -19.2 (3) | -- |  |
+| Placebo | 96.2 (17.7) | -19.2 (3.0) | -- |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
 
 ## 14.2 Bipolar Disorder
 
 Bipolar I Disorder, Manic or Mixed Episodes
 
-Adults
-
-The efficacy of quetiapine in the acute treatment of manic episodes was established in 3 placebo-controlled trials in patients who met DSM-IV criteria for bipolar I disorder with manic episodes.
+Adults: The efficacy of quetiapine in the acute treatment of manic episodes was established in 3 placebo-controlled trials in patients who met DSM-IV criteria for bipolar I disorder with manic episodes.
 These trials included patients with or without psychotic features and excluded patients with rapid cycling and mixed episodes.
 Of these trials, 2 were monotherapy (12 weeks) and 1 was adjunct therapy (3 weeks) to either lithium or divalproex.
 Key outcomes in these trials were change from baseline in the Young Mania Rating Scale (YMRS) score at 3 and 12 weeks for monotherapy and at 3 weeks for adjunct therapy.
@@ -72,15 +70,11 @@ The primary rating instrument used for assessing manic symptoms in these trials 
 
 The results of the trials follow:
 
-Monotherapy
-
-The efficacy of quetiapine in the acute treatment of bipolar mania was established in 2 placebo-controlled trials.
+Monotherapy: The efficacy of quetiapine in the acute treatment of bipolar mania was established in 2 placebo-controlled trials.
 In two 12-week trials (n=300, n=299) comparing quetiapine to placebo, quetiapine was superior to placebo in the reduction of the YMRS total score at weeks 3 and 12.
 The majority of patients in these trials taking quetiapine were dosed in a range between 400 mg/day and 800 mg/day (studies 1 and 2 in Table 20).
 
-Adjunct Therapy
-
-In this 3-week placebo-controlled trial, 170 patients with bipolar mania (YMRS ≥ 20) were randomized to receive quetiapine or placebo as adjunct treatment to lithium or divalproex.
+Adjunct Therapy: In this 3-week placebo-controlled trial, 170 patients with bipolar mania (YMRS ≥ 20) were randomized to receive quetiapine or placebo as adjunct treatment to lithium or divalproex.
 Patients may or may not have received an adequate treatment course of lithium or divalproex prior to randomization.
 Quetiapine was superior to placebo when added to lithium or divalproex alone in the reduction of YMRS total score (study 3 in Table 20).
 
@@ -89,9 +83,7 @@ In a similarly designed trial (n=200), quetiapine was associated with an improve
 
 The primary efficacy results of these studies in the treatment of mania in adults is presented in Table 20.
 
-Children and Adolescents (ages 10 to 17)
-
-The efficacy of quetiapine in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 to 17 years of age) was demonstrated in a 3-week, double-blind, placebo-controlled, multicenter trial (study 4 in Table 20).
+Children and Adolescents (ages 10 to 17): The efficacy of quetiapine in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 to 17 years of age) was demonstrated in a 3-week, double-blind, placebo-controlled, multicenter trial (study 4 in Table 20).
 Patients who met DSM-IV diagnostic criteria for a manic episode were randomized into one of three treatment groups: quetiapine 400 mg/day (n=95), quetiapine 600 mg/day (n=98), or placebo (n=91).
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/day (divided doses given two or three times daily).
 Subsequently, the dose was titrated to a target dose of 400 mg/day or 600 mg/day using increments of 100 mg/day, given in divided doses two or three times daily.
@@ -104,22 +96,22 @@ Table 20: Mania Trials
 | Study Number | Treatment Group | Primary Efficacy Measure: YMRS Total |  |  |
 | --- | --- | --- | --- | --- |
 | Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population | LS Mean Change from Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
-| Study 1 | Quetiapine (200 to 800 mg/day)Doses that are statistically significantly superior to placebo.Included in the trial as an active comparator | 34 (6.1) | -12.3 (1.3) | -4 (-7, -1) |
-| Haloperidol | 32.3 (6) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
+| Study 1 | Quetiapine (200 to 800 mg/day)Doses that are statistically significantly superior to placebo.Included in the trial as an active comparator | 34.0 (6.1) | -12.3 (1.3) | -4.0 (-7.0, -1.0) |
+| Haloperidol | 32.3 (6.0) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
 | Placebo | 33.1 (6.6) | -8.3 (1.3) | -- |  |
-| Study 2 | Quetiapine (200 to 800 mg/day) | 32.7 (6.5) | -14.6 (1.5) | -7.9 (-10.9, -5) |
+| Study 2 | Quetiapine (200 to 800 mg/day) | 32.7 (6.5) | -14.6 (1.5) | -7.9 (-10.9, -5.0) |
 | Lithium | 33.3 (7.1) | -15.2 (1.6) | -8.5 (-11.5, -5.5) |  |
-| Placebo | 34 (6.9) | -6.7 (1.6) | -- |  |
+| Placebo | 34.0 (6.9) | -6.7 (1.6) | -- |  |
 | Study 3 | Quetiapine (200 to 800 mg/day) + Mood Stabilizer | 31.5 (5.8) | -13.8 (1.6) | -3.8 (-7.1, -0.6) |
-| Placebo + Mood Stabilizer | 31.1 (5.5) | -10 (1.5) | -- |  |
+| Placebo + Mood Stabilizer | 31.1 (5.5) | -10.0 (1.5) | -- |  |
 | Study 4 | Quetiapine (400 mg/day) | 29.4 (5.9) | -14.3 (0.96) | -5.2 (-8.1, -2.3) |
 | Quetiapine (600 mg/day) | 29.6 (6.4) | -15.6 (0.97) | -6.6 (-9.5, -3.7) |  |
-| Placebo | 30.7 (5.9) | -9 (1.1) | -- |  |
+| Placebo | 30.7 (5.9) | -9.0 (1.1) | -- |  |
 | Mood stabilizer: lithium or divalproex; SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
 
 Bipolar Disorder, Depressive Episodes
 
-Adults: The efficacy of quetiapine for the acute treatment of depressive episodes associated with bipolar disorder was established in 2 identically designed 8-week, randomized, double-blind, placebo-controlled studies (N=1045) (studies 5 and 6 in Table 21).
+Adults: The efficacy of quetiapine for the acute treatment of depressive episodes associated with bipolar disorder was established in 2 identically designed 8-week, randomized, double-blind, placebo-controlled studies (N=1,045) (studies 5 and 6 in Table 21).
 These studies included patients with either bipolar I or II disorder and those with or without a rapid cycling course.
 Patients randomized to quetiapine were administered fixed doses of either 300 mg or 600 mg once daily.
 
@@ -137,17 +129,17 @@ Table 21: Depressive Episodes Associated with Bipolar Disorder
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS Total |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |  |  |  |  |  |
-| Study 5 | Quetiapine (300 mg/day)Doses that are statistically significantly superior to placebo. | 30.3 (5) | -16.4 (0.9) | -6.1 (-8.3, -3.9) |  |  |  |  |  |
+| Study 5 | Quetiapine (300 mg/day)Doses that are statistically significantly superior to placebo. | 30.3 (5.0) | -16.4 (0.9) | -6.1 (-8.3, -3.9) |  |  |  |  |  |
 | Quetiapine (600 mg/day) | 30.3 (5.3) | -16.7 (0.9) | -6.5 (-8.7, -4.3) |  |  |  |  |  |  |
 | Placebo | 30.6 (5.3) | -10.3 (0.9) | -- |  |  |  |  |  |  |
-| Study 6 | Quetiapine (300 mg/day) | 31.1 (5.7) | -16.9 (1) | -5 (-7.3, -2.7) |  |  |  |  |  |
-| Quetiapine (600 mg/day) | 29.9 (5.6) | -16 (1) | -4.1 (-6.4, -1.8) |  |  |  |  |  |  |
-| Placebo | 29.6 (5.4) | -11.9 (1) | -- |  |  |  |  |  |  |
+| Study 6 | Quetiapine (300 mg/day) | 31.1 (5.7) | -16.9 (1.0) | -5.0 (-7.3, -2.7) |  |  |  |  |  |
+| Quetiapine (600 mg/day) | 29.9 (5.6) | -16.0 (1.0) | -4.1 (-6.4, -1.8) |  |  |  |  |  |  |
+| Placebo | 29.6 (5.4) | -11.9 (1.0) | -- |  |  |  |  |  |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |  |  |  |  |  |
 
 Maintenance Treatment as an Adjunct to Lithium or Divalproex
 
-The efficacy of quetiapine in the maintenance treatment of bipolar I disorder was established in 2 placebo-controlled trials in patients (n=1326) who met DSM-IV criteria for bipolar I disorder (studies 7 and 8 in Figures 1 and 2).
+The efficacy of quetiapine in the maintenance treatment of bipolar I disorder was established in 2 placebo-controlled trials in patients (n=1,326) who met DSM-IV criteria for bipolar I disorder (studies 7 and 8 in Figures 1 and 2).
 The trials included patients whose most recent episode was manic, depressed, or mixed, with or without psychotic features.
 In the open-label phase, patients were required to be stable on quetiapine plus lithium or divalproex for at least 12 weeks in order to be randomized.
 On average, patients were stabilized for 15 weeks.
