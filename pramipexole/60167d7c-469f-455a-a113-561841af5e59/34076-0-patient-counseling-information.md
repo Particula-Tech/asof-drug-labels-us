@@ -39,9 +39,9 @@ Pregnancy
 
 Because the teratogenic potential of pramipexole has not been completely established in laboratory animals, and because experience in humans is limited, advise women to notify their physicians if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
 
-Nursing Mothers
+Lactation
 
-Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.3)].
+Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.2)].
 
 Manufactured by:
 
@@ -56,7 +56,7 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8059290 Revised April 2016
+8061730 Revised September 2016
 
 PATIENT INFORMATION
 
@@ -155,9 +155,9 @@ Pramipexole dihydrochloride tablets may cause serious side effects, including:
 • falling asleep during normal daily activities.
 Pramipexole dihydrochloride tablets may cause you to fall asleep while you are doing daily activities such as driving, talking with other people, or eating.
 
-o Some people taking the medicine in pramipexole dihydrochloride tablets have had car accidents because they fell asleep while driving.
+• Some people taking the medicine in pramipexole dihydrochloride tablets have had car accidents because they fell asleep while driving.
 
-o Some patients did not feel sleepy before they fell asleep while driving.
+• Some patients did not feel sleepy before they fell asleep while driving.
 You could fall asleep without any warning.
 
 Tell your doctor right away if you fall asleep while you are doing activities such as talking, eating, driving, or if you feel sleepier than normal for you.
@@ -254,4 +254,4 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8059290 Revised April 2016
+8061730 Revised September 2016

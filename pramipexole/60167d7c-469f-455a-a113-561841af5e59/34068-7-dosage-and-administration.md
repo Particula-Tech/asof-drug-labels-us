@@ -19,7 +19,7 @@ Initial Treatment
 Doses should be increased gradually from a starting dose of 0.375 mg/day given in three divided doses and should not be increased more frequently than every 5 to 7 days.
 A suggested ascending dosage schedule that was used in clinical studies is shown in Table 1:
 
-Table 1 Ascending Dosage Schedule of Pramipexole Dihydrochloride Tablets for Parkinson’s Disease
+Table 1 Ascending Dosage Schedule of Pramipexole Dihydrochloride Tablets for Parkinson's Disease
 
 | Week | Dosage (mg) | Total Daily Dose (mg) |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ Dosing in Patients with Renal Impairment
 
 The recommended dosing of pramipexole dihydrochloride tablets in Parkinson's disease patients with renal impairment is provided in Table 2.
 
-Table 2 Dosing of Pramipexole Dihydrochloride Tablets in Parkinson’s Disease Patients with Renal Impairment
+Table 2 Dosing of Pramipexole Dihydrochloride Tablets in Parkinson's Disease Patients with Renal Impairment
 
 | Renal Status | Starting Dose (mg) | Maximum Dose (mg) |
 | --- | --- | --- |
@@ -59,4 +59,4 @@ Table 2 Dosing of Pramipexole Dihydrochloride Tablets in Parkinson’s Disease P
 Discontinuation of Treatment
 
 Pramipexole dihydrochloride tablets may be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
-Thereafter, the dose may be reduced by 0.375 mg per day.
+Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.9)].
