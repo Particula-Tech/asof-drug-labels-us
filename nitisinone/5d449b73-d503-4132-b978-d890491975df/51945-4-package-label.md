@@ -1,4 +1,4 @@
-Principal Display Panel - Carton Label
+Principal Display Panel - 2 mg Carton Label
 
 60 capsules NDC 66658-102-60
 
@@ -7,10 +7,6 @@ Orfadin® Capsules (Nitisinone) 2 mg
 For Oral Use
 
 sobi
-
-Expiration Date:
-
-Lot:
 
 Principal Display Panel - Bottle Label
 
@@ -42,7 +38,7 @@ Marketed by:
 
 Sobi, Inc 890 Winter Street Waltham, MA 02451
 
-Principal Display Panel - Carton Label
+Principal Display Panel - 5 mg Carton Label
 
 60 capsules NDC 66658-105-60
 
@@ -51,10 +47,6 @@ Orfadin® Capsules (Nitisinone) 5 mg
 For Oral Use
 
 sobi
-
-Expiration Date:
-
-Lot:
 
 Principal Display Panel - Bottle Label
 
@@ -86,7 +78,7 @@ Marketed by:
 
 Sobi, Inc 890 Winter Street Waltham, MA 02451
 
-Principal Display Panel - Carton Label
+Principal Display Panel - 10 mg Carton Label
 
 60 capsules NDC 66658-110-60
 
@@ -95,10 +87,6 @@ Orfadin® Capsules (Nitisinone) 10 mg
 For Oral Use
 
 sobi
-
-Expiration Date:
-
-Lot:
 
 Principal Display Panel - Bottle Label
 
@@ -130,19 +118,15 @@ Marketed by:
 
 Sobi, Inc 890 Winter Street Waltham, MA 02451
 
-Principal Display Panel - Carton Label
+Principal Display Panel - 20 mg Carton Label
 
 60 capsules NDC 66658-120-60
 
-Orfadin® Capsules (Nitisinone) 2 mg
+Orfadin® Capsules (Nitisinone) 20 mg
 
 For Oral Use
 
 sobi
-
-Expiration Date:
-
-Lot:
 
 Principal Display Panel - Bottle Label
 
