@@ -15,7 +15,7 @@ Cutaneous reactions, including Stevens-Johnson Syndrome, toxic epidermal necroly
 
 ## Cardiac Failure
 
-Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta-blockade may precipitate more severe failure.
+Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta blockade may precipitate more severe failure.
 Although beta-blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving additional therapies, including diuretics as needed.
 Beta-adrenergic blocking agents do not abolish the inotropic action of digitalis on heart muscle.
 
@@ -28,18 +28,14 @@ Propranolol should be administered with caution in this setting since it may pro
 
 ## Major Surgery
 
-The necessity or desirability of withdrawal of beta-blocking therapy prior to major surgery is controversial.
-It should be noted, however, that the impaired ability of the heart to respond to reflex adrenergic stimuli in propranolol-treated patients may augment the risks of general anesthesia and surgical procedures.
-
-Propranolol is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.
-However, such patients may be subject to protracted severe hypotension.
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 ## Diabetes and Hypoglycemia
 
 Beta-adrenergic blockade may prevent the appearance of certain premonitory signs and symptoms (pulse rate and pressure changes) of acute hypoglycemia, especially in labile insulin-dependent diabetics.
 In these patients, it may be more difficult to adjust the dosage of insulin.
 
-Propranolol therapy, particularly when given to infants and children, diabetic or not, has been associated with hypoglycemia especially during fasting as in preparation for surgery.
+Propranolol therapy, particularly when given to infants and children, diabetic or not, has been associated with hypoglycemia, especially during fasting as in preparation for surgery.
 Hypoglycemia has been reported in patients taking propranolol after prolonged physical exertion and in patients with renal insufficiency.
 
 ## Thyrotoxicosis
@@ -56,17 +52,17 @@ In one case, this result was reported after an initial dose of 5 mg propranolol.
 ## Pheochromocytoma
 
 Blocking only the peripheral dilator (beta) action of epinephrine with propranolol leaves its constrictor (alpha) action unopposed.
-In the event of hemorrhage or shock, there is a disadvantage in having both beta- and alpha-blockade since the combination prevents the increase in heart rate and peripheral vasoconstriction needed to maintain blood pressure.
+In the event of hemorrhage or shock, there is a disadvantage in having both beta and alpha blockade since the combination prevents the increase in heart rate and peripheral vasoconstriction needed to maintain blood pressure.
 
 # PRECAUTIONS
 
 ## General
 
 Propranolol should be used with caution in patients with impaired hepatic or renal function.
-Propranolol is not indicated for the treatment of hypertensive emergencies.
+Propranolol hydrochloride tablets are not indicated for the treatment of hypertensive emergencies.
 
 Beta-adrenergic receptor blockade can cause reduction of intraocular pressure.
-Patients should be told that propranolol may interfere with the glaucoma screening test.
+Patients should be told that propranolol hydrochloride tablets may interfere with the glaucoma screening test.
 Withdrawal may lead to a return of increased intraocular pressure.
 
 While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
@@ -74,13 +70,13 @@ Such patients may be unresponsive to the usual doses of epinephrine used to trea
 
 ## Clinical Laboratory Tests
 
-In patients with hypertension, use of propranolol has been associated with elevated levels of serum potassium, serum transaminases, and alkaline phosphatase.
+In patients with hypertension, use of propranolol has been associated with elevated levels of serum potassium, serum transaminases and alkaline phosphatase.
 In severe heart failure, the use of propranolol has been associated with increases in Blood Urea Nitrogen.
 
 ## Drug Interactions
 
-Caution should be exercised when propranolol is administered with drugs that have an effect on CYP2D6, 1A2, or 2C19 metabolic pathways.
-Coadministration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see CLINICAL PHARMACOLOGY: Drug Interactions).
+Caution should be exercised when propranolol hydrochloride tablets are administered with drugs that have an effect on CYP2D6, 1A2, or 2C19 metabolic pathways.
+Co-administration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see CLINICAL PHARMACOLOGY: Drug Interactions).
 
 ### Cardiovascular Drugs
 
@@ -90,12 +86,12 @@ Propafenone has negative inotropic and beta-blocking properties that can be addi
 
 Quinidine increases the concentration of propranolol and produces greater degrees of clinical beta-blockade and may cause postural hypotension.
 
-Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with beta-blockers such as propranolol.
+Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with β-blockers such as propranolol.
 
 The clearance of lidocaine is reduced with administration of propranolol.
-Lidocaine toxicity has been reported following coadministration with propranolol.
+Lidocaine toxicity has been reported following co-administration with propranolol.
 
-Caution should be exercised when administering propranolol with drugs that slow A-V nodal conduction, e.g. digitalis, lidocaine and calcium channel blockers.
+Caution should be exercised when administering propranolol hydrochloride tablets with drugs that slow A-V nodal conduction, e.g., digitalis, lidocaine and calcium channel blockers.
 
 #### Digitalis Glycosides
 
@@ -104,19 +100,19 @@ Concomitant use can increase the risk of bradycardia.
 
 #### Calcium Channel Blockers
 
-Caution should be exercised when patients receiving a beta-blocker are administered a calcium channel-blocking drug with negative inotropic and/or chronotropic effects.
+Caution should be exercised when patients receiving a beta blocker are administered a calcium-channel-blocking drug with negative inotropic and/or chronotropic effects.
 Both agents may depress myocardial contractility or atrioventricular conduction.
 
 There have been reports of significant bradycardia, heart failure, and cardiovascular collapse with concurrent use of verapamil and beta-blockers.
 
-Coadministration of propranolol and diltiazem in patients with cardiac disease has been associated with bradycardia, hypotension, high degree heart block, and heart failure.
+Co-administration of propranolol and diltiazem in patients with cardiac disease has been associated with bradycardia, hypotension, high-degree heart block, and heart failure.
 
 #### ACE Inhibitors
 
 When combined with beta-blockers, ACE inhibitors can cause hypotension, particularly in the setting of acute myocardial infarction.
 
 The antihypertensive effects of clonidine may be antagonized by beta-blockers.
-Propranolol should be administered cautiously to patients withdrawing from clonidine.
+Propranolol hydrochloride tablets should be administered cautiously to patients withdrawing from clonidine.
 
 #### Alpha Blockers
 
@@ -142,7 +138,7 @@ Also, propranolol may reduce sensitivity to dobutamine stress echocardiography i
 
 #### Nonsteroidal Anti-Inflammatory Drugs
 
-Nonsteroidal anti-inflammatory drugs (NSAIDs) have been reported to blunt the antihypertensive effect of beta-adrenoreceptor blocking agents.
+Nonsteroidal anti-inflammatory drugs (NSAIDS) have been reported to blunt the antihypertensive effect of beta-adrenoreceptor blocking agents.
 
 Administration of indomethacin with propranolol may reduce the efficacy of propranolol in reducing blood pressure and heart rate.
 
@@ -167,6 +163,10 @@ Hypotension and cardiac arrest have been reported with the concomitant use of pr
 
 Thyroxine may result in a lower than expected T3 concentration when used concomitantly with propranolol.
 
+#### Alcohol
+
+Alcohol, when used concomitantly with propranolol, may increase plasma levels of propranolol.
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In dietary administration studies in which mice and rats were treated with propranolol hydrochloride for up to 18 months at doses of up to 150 mg/kg/day, there was no evidence of drug-related tumorigenesis.
@@ -183,16 +183,16 @@ At doses of 150 mg/kg/day, but not at doses of 80 mg/kg/day (equivalent to the M
 Propranolol hydrochloride also was administered (in the feed) to rabbits (throughout pregnancy and lactation) at doses as high as 150 mg/kg/day (about 5 times the maximum recommended human oral daily dose).
 No evidence of embryo or neonatal toxicity was noted.
 
-There are no adequate and well controlled studies in pregnant women.
+There are no adequate and well-controlled studies in pregnant women.
 Intrauterine growth retardation, small placentas, and congenital abnormalities have been reported in neonates whose mothers received propranolol during pregnancy.
 Neonates whose mothers received propranolol at parturition have exhibited bradycardia, hypoglycemia, and/or respiratory depression.
 Adequate facilities for monitoring such infants at birth should be available.
-Propranolol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Propranolol hydrochloride tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
 
 Propranolol is excreted in human milk.
-Caution should be exercised when propranolol is administered to a nursing woman.
+Caution should be exercised when propranolol hydrochloride tablets are administered to a nursing woman.
 
 ## Pediatric Use
 
@@ -202,6 +202,6 @@ Bronchospasm and congestive heart failure have been reported coincident with the
 
 ## Geriatric Use
 
-Clinical studies of propranolol did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of propranolol hydrochloride tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

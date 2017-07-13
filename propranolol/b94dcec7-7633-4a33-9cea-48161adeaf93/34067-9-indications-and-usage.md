@@ -27,8 +27,8 @@ The efficacy of propranolol in the treatment of a migraine attack that has start
 
 Propranolol hydrochloride tablets are indicated in the management of familial or hereditary essential tremor.
 Familial or essential tremor consists of involuntary, rhythmic, oscillatory movements, usually limited to the upper limbs.
-It is absent at rest but occurs when the limb is held in a fixed posture or position against gravity and during active movement.
-Propranolol hydrochloride tablets cause a reduction in the tremor amplitude but not in the tremor frequency.
+It is absent at rest, but occurs when the limb is held in a fixed posture or position against gravity and during active movement.
+Propranolol hydrochloride tablets cause a reduction in the tremor amplitude, but not in the tremor frequency.
 Propranolol hydrochloride tablets are not indicated for the treatment of tremor associated with Parkinsonism.
 
 ## Hypertrophic Subaortic Stenosis

@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Propranolol hydrochloride tablets, USP are available containing 10 mg, 20 mg, 40 mg, 60 mg and 80 mg of propranolol hydrochloride, USP.
+Propranolol Hydrochloride Tablets, USP are available containing 10 mg, 20 mg, 40 mg, 60 mg or 80 mg of propranolol hydrochloride, USP.
 
 The 10 mg tablets are orange, round, scored tablets debossed with MYLAN above the score and 182 below the score on one side of the tablet and 10 on the other side.
 They are available as follows:
@@ -28,8 +28,6 @@ They are available as follows:
 
 NDC 0378-0187-01 bottles of 100 tablets
 
-NDC 0378-0187-05 bottles of 500 tablets
-
 The 80 mg tablets are yellow, round, scored tablets debossed with MYLAN above the score and 185 below the score on one side of the tablet and 80 on the other side.
 They are available as follows:
 
@@ -44,6 +42,6 @@ Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED OCTOBER 2009 PRAN:R26
+Revised: 6/2017 PRAN:R27
