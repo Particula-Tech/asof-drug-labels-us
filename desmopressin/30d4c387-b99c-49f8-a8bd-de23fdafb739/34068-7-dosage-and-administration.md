@@ -2,11 +2,11 @@
 
 ## Hemophilia A and von Willebrand's Disease (Type I)
 
-Stimate® Nasal Spray is administered by nasal insufflation, one spray per nostril, to provide a total dose of 300 mcg.
+Stimate Nasal Spray is administered by nasal insufflation, one spray per nostril, to provide a total dose of 300 mcg.
 In patients weighing less than 50 kg, 150 mcg administered as a single spray provided the expected effect on Factor VIII coagulant activity, Factor VIII ristocetin cofactor activity and skin bleeding time.
-If Stimate® Nasal Spray is used preoperatively, it should be administered 2 hours prior to the scheduled procedure.
+If Stimate Nasal Spray is used preoperatively, it should be administered 2 hours prior to the scheduled procedure.
 
-The necessity for repeat administration of Stimate® Nasal Spray or use of any blood products for hemostasis should be determined by laboratory response as well as the clinical condition of the patient.
+The necessity for repeat administration of Stimate Nasal Spray or use of any blood products for hemostasis should be determined by laboratory response as well as the clinical condition of the patient.
 Fluid restriction should be observed, and fluid intake should be limited to a minimum, from 1 hour before desmopressin administration, until at least 24 hours after administration.
 The tendency toward tachyphylaxis (lessening of response) with repeated administration given more frequently than once every 48 hours should be considered in treating each patient.
 

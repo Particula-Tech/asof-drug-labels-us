@@ -15,7 +15,7 @@ Particular attention should be paid to the possibility of the rare occurrence of
 
 Stimate should be used with caution in patients with habitual or psychogenic polydipsia, who may be more likely to drink excessive amounts of fluids, putting them at greater risk of hyponatremia.
 
-Stimate® Nasal Spray should not be used to treat patients with Type IIB von Willebrand's disease since platelet aggregation may be induced.
+Stimate Nasal Spray should not be used to treat patients with Type IIB von Willebrand's disease since platelet aggregation may be induced.
 
 # PRECAUTIONS
 
@@ -24,7 +24,7 @@ Stimate® Nasal Spray should not be used to treat patients with Type IIB von Wil
 Desmopressin acetate has infrequently produced changes in blood pressure causing either a slight elevation in blood pressure or a transient fall in blood pressure and a compensatory increase in heart rate.
 The drug should be used with caution in patients with coronary artery insufficiency and/or hypertensive cardiovascular disease.
 
-Stimate® Nasal Spray should be used with caution in patients with conditions associated with fluid and electrolyte imbalance, such as cystic fibrosis, heart failure and renal disorders because these patients are prone to hyponatremia.
+Stimate Nasal Spray should be used with caution in patients with conditions associated with fluid and electrolyte imbalance, such as cystic fibrosis, heart failure and renal disorders because these patients are prone to hyponatremia.
 
 There have been rare reports of thrombotic events (thrombosis, acute cerebrovascular thrombosis, acute myocardial infarction) following desmopressin acetate injection in patients predisposed to thrombus formation.
 No causality has been determined; however, the drug should be used with caution in these patients.
@@ -33,7 +33,7 @@ Severe allergic reactions have been reported rarely.
 Fatal anaphylaxis has been reported in one patient who received intravenous DDAVP® (desmopressin acetate).
 It is not known whether antibodies to desmopressin acetate are produced after repeated administration.
 
-Since Stimate® Nasal Spray is used intranasally, changes in the nasal mucosa such as scarring, edema, or other disease may cause erratic, unreliable absorption in which case Stimate® Nasal Spray should be discontinued until the nasal problems resolve.
+Since Stimate Nasal Spray is used intranasally, changes in the nasal mucosa such as scarring, edema, or other disease may cause erratic, unreliable absorption in which case Stimate Nasal Spray should be discontinued until the nasal problems resolve.
 For such situations, DDAVP® Injection should be considered.
 
 ## Information for Patients
@@ -48,8 +48,8 @@ Patients should also be advised that if bleeding is not controlled, the physicia
 ## Hemophilia A
 
 Laboratory tests for assessing patient status include levels of Factor VIII coagulant, Factor VIII antigen and Factor VIII ristocetin cofactor (von Willebrand factor) as well as activated partial thromboplastin time.
-Factor VIII coagulant activity should be determined before giving Stimate® Nasal Spray for hemostasis.
-If Factor VIII coagulant activity is present at less than 5% of normal, Stimate® Nasal Spray should not be relied on.
+Factor VIII coagulant activity should be determined before giving Stimate Nasal Spray for hemostasis.
+If Factor VIII coagulant activity is present at less than 5% of normal, Stimate Nasal Spray should not be relied on.
 
 ## von Willebrand's Disease
 
@@ -64,7 +64,7 @@ DDAVP® Injection has been used with epsilon aminocaproic acid without adverse e
 
 ## Carcinogenicity, Mutagenicity, Impairment of Fertility
 
-There have been no long-term studies in animals to assess the carcinogenic, mutagenic or impairment of fertility potential of Stimate® Nasal Spray.
+There have been no long-term studies in animals to assess the carcinogenic, mutagenic or impairment of fertility potential of Stimate Nasal Spray.
 
 ## Pregnancy Category B
 
@@ -82,18 +82,17 @@ As opposed to preparations containing natural hormones, desmopressin acetate in 
 There have been no controlled studies in nursing mothers.
 A single study in postpartum women demonstrated a marked change in plasma, but little if any change in assayable DDAVP® in breast milk following an intranasal dose of 10 mcg.
 It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Stimate® Nasal Spray is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when Stimate Nasal Spray is administered to a nursing woman.
 
 ## Pediatric Use
 
 Use in infants and children will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication.
-Stimate® Nasal Spray should not be used in infants younger than 11 months in the treatment of hemophilia A or von Willebrand's disease; safety and effectiveness in children between 11 months and 12 years of age has been demonstrated.
+Stimate Nasal Spray should not be used in infants younger than 11 months in the treatment of hemophilia A or von Willebrand's disease; safety and effectiveness in children between 11 months and 12 years of age has been demonstrated.
 
 ## Geriatric Use
 
-Clinical studies of Stimate® did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently than younger subjects.
-However, other post-marketing experience has indicated the occurrence of hyponatremia with the use of desmopressin acetate and fluid overload.
-
+Clinical studies of Stimate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently than younger subjects.
+However, other post marketing experience has indicated the occurrence of hyponatremia with the use of desmopressin acetate and fluid overload.
 Therefore, in elderly patients fluid intake should be adjusted downward in an effort to decrease the potential occurrence of water intoxication and hyponatremia.
 Particular attention should be paid to the possibility of the rare occurrence of an extreme decrease in plasma osmolality that may result in seizures, and that could lead to coma.
 

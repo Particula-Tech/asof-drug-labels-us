@@ -1,7 +1,7 @@
 Rx only
 
-Revised June 2013 IN-8155-09
+Revised June 2013 IN-8155-09 Manufactured for: CSL Behring LLC King of Prussia, PA 19406-0901 US License No. 1767
 
-Manufactured for: CSL Behring LLC King of Prussia, PA 19406-0901 US License No. 1767
+By:
 
-By: Ferring GmbH Kiel, Germany
+Ferring GmbH Kiel, Germany

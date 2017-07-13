@@ -8,7 +8,7 @@ Nasal congestion, rhinitis and flushing have also been reported occasionally alo
 These symptoms disappeared with reduction in dosage.
 Nosebleed, sore throat, cough and upper respiratory infections have also been reported.
 
-In addition to those listed above, the following have also been reported in clinical trials with Stimate® Nasal Spray: Somnolence, dizziness, itchy or light-sensitive eyes, insomnia, chills, warm feeling, pain, chest pain, palpitations, tachycardia, dyspepsia, edema, vomiting, agitation and balanitis.
+In addition to those listed above, the following have also been reported in clinical trials with Stimate Nasal Spray: Somnolence, dizziness, itchy or light-sensitive eyes, insomnia, chills, warm feeling, pain, chest pain, palpitations, tachycardia, dyspepsia, edema, vomiting, agitation and balanitis.
 
 DDAVP® Injection (desmopressin acetate) has infrequently produced changes in blood pressure causing either a slight elevation or a transient fall with a compensatory increase in heart rate.
 Severe allergic reactions including anaphylaxis have been reported rarely with DDAVP® Injection.
