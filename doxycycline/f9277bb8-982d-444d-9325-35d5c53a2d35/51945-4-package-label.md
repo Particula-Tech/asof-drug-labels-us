@@ -17,16 +17,17 @@ mayne pharma
 
 # PRINCIPAL DISPLAY PANEL - 120 mg Tablet Bottle Label
 
-N 51862-559-60
+NDC 51862-559-60
 
-Rx only
+Doryx® MPC
 
-Doryx®MPC (Doxycycline Hyclate Delayed-Release Tablets)
+(Doxycycline Hyclate Delayed-Release Tablets)
 
 120 mg
 
 Do not chew or crush tablets.
-Each tablet contains: doxycycline 120 mg (equivalent to doxycycline hyclate 138.8 mg)
+
+Rx Only
 
 60 Tablets
 

@@ -8,6 +8,7 @@
 - The recommended dosage, frequency of administration and weight-based dosage recommendations of DORYX MPC differ from that of the other tetracyclines [see Dosage and Administration (2.2, 2.3, 2.4)].
   Exceeding the recommended dosage may result in an increased incidence of adverse reactions.
 - Administer DORYX MPC with an adequate amount of fluid to wash down the drug and reduce the risk of esophageal irritation and ulceration [see Adverse Reactions (6.1)].
+- If gastric irritation occurs, DORYX MPC may be given with food or milk [see Clinical Pharmacology (12.3)].
 
 ## 2.2 Switching from DORYX to DORYX MPC
 

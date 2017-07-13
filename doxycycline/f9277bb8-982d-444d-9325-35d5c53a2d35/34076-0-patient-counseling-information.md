@@ -17,6 +17,7 @@ Advise all patients taking DORYX MPC:
 - to drink fluids liberally along with DORYX MPC to reduce the risk of esophageal irritation and ulceration [see Adverse Reactions (6.1)]
 - that the absorption of tetracyclines is reduced when taken with foods, especially those that contain calcium.
   [see Drug Interactions (7.3)]
+- that if gastric irritation occurs, DORYX MPC may be given with food or milk [see Clinical Pharmacology (12.3)]
 - that the absorption of tetracyclines is reduced when taken with antacids containing aluminum, calcium or magnesium, bismuth subsalicylate, and iron-containing preparations [see Drug Interactions (7.3)].
 - that the use of doxycycline might increase the incidence of vaginal candidiasis.
 

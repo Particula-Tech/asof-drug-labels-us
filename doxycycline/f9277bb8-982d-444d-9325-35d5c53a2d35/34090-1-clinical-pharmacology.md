@@ -11,6 +11,7 @@ Absorption
 Following administration of a single dose of DORYX MPC under fasting conditions, the AUCinf and Cmax were 26.7 mcg-h/mL and 1.6 mcg/mL, respectively.
 The Tmax was 2.8 hours.
 In a single-dose study to evaluate the relative bioavailability in healthy adult subjects under fasted conditions, DORYX MPC 120 mg Tablets were found to be bioequivalent to Doryx 100 mg Tablets.
+When a single dose of DORYX MPC 120 mg Tablet was administered with a standardized high-fat high-calorie meal, (937kcal consisting of approximately 55% fat, 30% carbohydrate and 15% protein), the Cmax was approximately 30% lower, but there was no significant difference in the AUCinf compared to administration under fasting conditions [see Dosage and Administration (2.1)].
 
 Excretion
 
@@ -50,23 +51,24 @@ Clostridium species Fusobacterium fusiforme Propionibacterium acnes
 
 Other Bacteria
 
-Borrelia recurrentis Chlamydophila psittaci Chlamydia trachomatis Mycoplasma pneumonia Norcardiae and other aerobic Actinomyces species Rickettsiae Treponema pallidum Treponema pallidum subspecies pertenue Ureaplasma urealyticum
+Norcardiae and other aerobic Actinomyces species Borrelia recurrentis Chlamydophila psittaci Chlamydia trachomatis Mycoplasma pneumonia Rickettsiae Treponema pallidum Treponema pallidum subspecies pertenue Ureaplasma urealyticum
 
 Parasites
 
 Balantidium coli Entamoeba species Plasmodium falciparumDoxycycline has been found to be active against the asexual erythrocytic forms of Plasmodium falciparum but not against the gametocytes of P. falciparum.
 The precise mechanism of action of the drug is not known.
 
-Susceptibility Test Methods
+Susceptibility Testing Methods
 
-When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antibacterial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antibacterial drugs used in local hospitals and practice areas as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug for treatment.
 
 Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method (broth and/or agar).5,6,8 The MIC values should be interpreted according to the criteria provided in Table 1.
+The MICs should be determined using a standardized test method5,6,8,10,11 (broth and/or agar).
+The MIC values should be interpreted according to the criteria provided in Table 1.
 
 Diffusion Techniques
 
@@ -83,20 +85,42 @@ Table 1: Susceptibility Test Interpretive Criteria for Doxycycline and Tetracycl
 |  | S | I | R | S | I | R | S | I | R |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BacteriaOrganisms susceptible to tetracycline are also considered susceptible to doxycycline, However, some organisms that are intermediate or resistant to tetracycline may be susceptible to doxycycline. | Minimal Inhibitory Concentration (mcg/mL) |  |  | Zone Diameter (mm) |  |  | Agar Dilution (mcg/mL) |  |  |
-| Acinetobacter spp, Doxycycline Tetracycline | ≤4 ≤4 | 8 8 | ≥16 ≥16 | ≥13 ≥15 | 10-12 12-14 | ≤9 ≤11 | - - | - - | - - |
-| Anaerobes Tetracycline | - | - | - | - | - | - | ≤4 | 8 | ≥16 |
-| Bacillus anthracisThe current absence of resistance isolates precludes defining any results other than "Susceptible". If isolates yielding MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. Doxycycline Tetracycline | ≤1 ≤1 | - - | - - | - - | - - | - - | - - | - - | - - |
-| Brucella species Doxycycline Tetracycline | ≤1 ≤1 | - - | - - | - - | - - | - - | - - | - - | - - |
-| Enterobacteriaceae Doxycycline Tetracycline | ≤4 ≤4 | 8 8 | ≥16 ≥16 | ≥14 ≥15 | 11-13 12-14 | ≤10 ≤11 | - - | - - | - - |
-| FrancisceIIa tularensis Doxycycline Tetracycline | ≤4 ≤4 | - - | - - | - - | - - | - - | - - | - - | - - |
-| Haemophilus influenzae Tetracycline | ≤2 | 4 | ≥8 | ≥29 | 26-28 | ≤25 | - | - | - |
-| Mycoplasma pneumoniae Tetracycline | - | - | - | - | - | - | ≤2 | - | - |
-| Nocardiae and other aerobic Actinomyces species Doxycycline | ≤1 | 2-4 | ≥8 |  |  |  |  |  |  |
-| Neisseria gonorrhoeaeGonococci with 30 mcg tetracycline disk zone diameters of less than 19 mm usually indicate a plasmid-mediated tetracycline resistant N. gonorrhoeae isolate. Resistance in these strains should be confirmed by a dilution test (MIC greater than or equal to 16 mcg/mL). Tetracycline | - | - | - | ≥38 | 31-37 | ≤30 | ≤0.25 | 0.5-1 | ≥2 |
-| Streptococcus pneumoniae Doxycycline Tetracycline | ≤0.25 ≤1 | 0.5 2 | ≥1 ≥4 | ≥28 ≥28 | 25-27 25-27 | ≤24 ≤24 | - - | - - | - - |
-| Vibrio cholerae Doxycycline Tetracycline | ≤4 ≤4 | 8 8 | ≥16 ≥16 | - - | - - | - - | - - | - - | - - |
-| Yersinia pestis Doxycycline Tetracycline | ≤4 ≤4 | 8 8 | ≥16 ≥16 | - - | - - | - - | - - | - - | - - |
-| UreapIasma urealyticum Tetracycline | - | - | - | - | - | - | ≤1 | - | ≥2 |
+| Acinetobacter spp, |  |  |  |  |  |  |  |  |  |
+| Doxycycline | ≤4 | 8 | ≥16 | ≥13 | 10-12 | ≤9 | - | - | - |
+| Tetracycline | ≤4 | 8 | ≥16 | ≥15 | 12-14 | ≤11 | - | - | - |
+| Anaerobes |  |  |  |  |  |  |  |  |  |
+| Tetracycline | - | - | - | - | - | - | ≤4 | 8 | ≥16 |
+| Bacillus anthracisThe current absence of resistance isolates precludes defining any results other than "Susceptible". If isolates yielding MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. |  |  |  |  |  |  |  |  |  |
+| Doxycycline | ≤1 | - | - | - | - | - | - | - | - |
+| Tetracycline | ≤1 | - | - | - | - | - | - | - | - |
+| Brucella species |  |  |  |  |  |  |  |  |  |
+| Doxycycline | ≤1 | - | - | - | - | - | - | - | - |
+| Tetracycline | ≤1 | - | - | - | - | - | - | - | - |
+| Enterobacteriaceae |  |  |  |  |  |  |  |  |  |
+| Doxycycline | ≤4 | 8 | ≥16 | ≥14 | 11-13 | ≤10 | - | - | - |
+| Tetracycline | ≤4 | 8 | ≥16 | ≥15 | 12-14 | ≤11 | - | - | - |
+| FrancisceIIa tularensis |  |  |  |  |  |  |  |  |  |
+| Doxycycline | ≤4 | - | - | - | - | - | - | - | - |
+| Tetracycline | ≤4 | - | - | - | - | - | - | - | - |
+| Haemophilus influenzae |  |  |  |  |  |  |  |  |  |
+| Tetracycline | ≤2 | 4 | ≥8 | ≥29 | 26-28 | ≤25 | - | - | - |
+| Mycoplasma pneumoniae |  |  |  |  |  |  |  |  |  |
+| Tetracycline | - | - | - | - | - | - | ≤2 | - | - |
+| Nocardiae and other aerobic Actinomyces species |  |  |  |  |  |  |  |  |  |
+| Doxycycline | ≤1 | 2-4 | ≥8 |  |  |  |  |  |  |
+| Neisseria gonorrhoeaeGonococci with 30 mcg tetracycline disk zone diameters of less than 19 mm usually indicate a plasmid-mediated tetracycline resistant N. gonorrhoeae isolate. Resistance in these strains should be confirmed by a dilution test (MIC greater than or equal to 16 mcg/mL). |  |  |  |  |  |  |  |  |  |
+| Tetracycline | - | - | - | ≥38 | 31-37 | ≤30 | ≤0.25 | 0.5-1 | ≥2 |
+| Streptococcus pneumoniae |  |  |  |  |  |  |  |  |  |
+| Doxycycline | ≤0.25 | 0.5 | ≥1 | ≥28 | 25-27 | ≤24 | - | - | - |
+| Tetracycline | ≤1 | 2 | ≥4 | ≥28 | 25-27 | ≤24 | - | - | - |
+| Vibrio cholerae |  |  |  |  |  |  |  |  |  |
+| Doxycycline | ≤4 | 8 | ≥16 | - | - | - | - | - | - |
+| Tetracycline | ≤4 | 8 | ≥16 | - | - | - | - | - | - |
+| Yersinia pestis |  |  |  |  |  |  |  |  |  |
+| Doxycycline | ≤4 | 8 | ≥16 | - | - | - | - | - | - |
+| Tetracycline | ≤4 | 8 | ≥16 | - | - | - | - | - | - |
+| UreapIasma urealyticum |  |  |  |  |  |  |  |  |  |
+| Tetracycline | - | - | - | - | - | - | ≤1 | - | ≥2 |
 
 A report of Susceptible (S) indicates that the antimicrobial is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
 A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -113,16 +137,33 @@ Table 2: Acceptable Quality Control Ranges for Susceptibility Testing for Doxycy
 
 | QC Strain | Minimal Inhibitory Concentration (mcg/mL) | Zone Diameter (mm) | Agar Dilution (mcg/mL) |
 | --- | --- | --- | --- |
-| Enterococcus faecalis ATCC 29212 Doxycycline Tetracycline | 2-8 8-32 | - - | - - |
-| Escherichia coli ATCC 25922 Doxycycline Tetracycline | 0.5-2 0.5-2 | 18-24 18-25 | - - |
-| Eubacterium lentum ATCC 43055 Doxycycline | 2 - 16 | - | - |
-| Haemophilus influenzae ATCC 49247 Tetracycline | 4-32 | 14-22 | - |
-| Neisseria gonorrhoeae ATCC 49226 Tetracycline | - | 30-42 | 0.25-1 |
-| Staphylococcus aureus ATCC 25923 Doxycycline Tetracycline | - - | 23-29 24-30 | - - |
-| Staphylococcus aureus ATCC 29213 Doxycycline | 0.12-0.5 |  | - |
+| Enterococcus faecalis ATCCATCC is the American Type Culture Collection 29212 |  |  |  |
+| Doxycycline | 2-8 | - | - |
+| Tetracycline | 8-32 | - | - |
+| Escherichia coli ATCC 25922 |  |  |  |
+| Doxycycline | 0.5-2 | 18-24 | - |
+| Tetracycline | 0.5-2 | 18-25 | - |
+| Eggerthella lenta ATCC 43055 |  |  |  |
+| Doxycycline | 2 - 16 | - | - |
+| Haemophilus influenzae ATCC 49247 |  |  |  |
+| Tetracycline | 4-32 | 14-22 | - |
+| Neisseria gonorrhoeae ATCC 49226 |  |  |  |
+| Tetracycline | - | 30-42 | 0.25-1 |
+| Staphylococcus aureus ATCC 25923 |  |  |  |
+| Doxycycline | - | 23-29 | - |
+| Tetracycline | - | 24-30 | - |
+| Staphylococcus aureus ATCC 29213 |  |  |  |
+| Doxycycline | 0.12-0.5 |  | - |
 | Tetracycline | 0.12-1 |  | - |
-| Staphylococcus pneumoniae ATCC 49619 Doxycycline Tetracycline | 0.015-0.12 0.06-0.5 | 25-34 27-31 | - - |
-| Bacteroides fragilis ATCC 25285 Tetracycline | - | - | 0.125-0.5 |
-| Bacteroides thetaiotaomicron ATCC 29741 Doxycycline Tetracycline | 2 - 8 - | - - | - 8-32 |
-| Mycoplasma pneumoniae ATCC 29342 Tetracycline | 0.06-0.5 | - | 0.06-0.5 |
-| Ureaplasma urealyticum ATCC 33175 Tetracycline | - | - | ≥8 |
+| StaphyIococcus pneumoniae ATCC 49619 |  |  |  |
+| Doxycycline | 0.015-0.12 | 25-34 | - |
+| Tetracycline | 0.06-0.5 | 27-31 | - |
+| Bacteroides fragiIis ATCC 25285 |  |  |  |
+| Tetracycline | - | - | 0.125-0.5 |
+| Bacteroides thetaiotaomicron ATCC 29741 |  |  |  |
+| Doxycycline | 2 - 8 | - | - |
+| Tetracycline | - | - | 8-32 |
+| Mycoplasma pneumoniae ATCC 29342 |  |  |  |
+| Tetracycline | 0.06-0.5 | - | 0.06-0.5 |
+| Ureaplasma urealyticum ATCC 33175 |  |  |  |
+| Tetracycline | - | - | ≥8 |
