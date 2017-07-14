@@ -1,32 +1,26 @@
-# Package Label - Principal Display Panel - 5 mg Tablets
+# PRINCIPAL DISPLAY PANEL 5 mg
 
-NDC 0406-0552-01
-
-100 TABLETS
-
-OXYCODONE HYDROCHLORIDE TABLETS USP
-
-5 mg CII
-
-Each tablet contains: Oxycodone Hydrochloride USP.......
-5 mg Rx only
+NDC 0406-0552-01 100 TABLETS Oxycodone HydrochlorideTablets USP CII 5 mg Rx only Each tablet contains: Oxycodone Hydrochloride USP...........
+5 mg Pharmacist: Dispense the Medication Guide provided separately to each patient.
 
 Mallinckrodt™
 
-L00O06 Rev 02/2016
+L00O06 Rev 04/2017
 
-# Package Label - Principal Display Panel - 15 mg Tablets
+# PRINCIPAL DISPLAY PANEL 15 mg
 
-NDC 0406-8515-01 100 TABLETS
+NDC 0406-8515-01 100 TABLETS Oxycodone HydrochlorideTablets USP CII 15 mg Rx only Each tablet contains: Oxycodone Hydrochloride USP...........
+15 mg Pharmacist: Dispense the Medication Guide provided separately to each patient.
 
-OXYCODONE HYDROCHLORIDE TABLETS USP 15 mg CII Each tablet contains: Oxycodone Hydrochloride USP.......
-15 mg Rx only Mallinckrodt™
+Mallinckrodt™
 
-L00O08 Rev 02/2016
+L00O08 Rev 04/2017
 
-# Package Label - Principal Display Panel - 30 mg Tablets
+# PRINCIPAL DISPLAY PANEL 30 mg
 
-NDC 0406-8530-01 100 TABLETS OXYCODONE HYDROCHLORIDE TABLETS USP 30 mg CII Each tablet contains: Oxycodone Hydrochloride USP.......
-30 mg Rx only Mallinckrodt™
+NDC 0406-8530-01 100 TABLETS Oxycodone HydrochlorideTablets USP CII 30 mg Rx only Each tablet contains: Oxycodone Hydrochloride USP...........
+30 mg Pharmacist: Dispense the Medication Guide provided separately to each patient.
 
-L00O09 Rev 02/2016
+Mallinckrodt™
+
+L00O09 Rev 04/2017
