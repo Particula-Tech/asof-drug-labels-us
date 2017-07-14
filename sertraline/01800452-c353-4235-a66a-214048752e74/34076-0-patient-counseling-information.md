@@ -30,7 +30,7 @@ Patients should contact their health care provider or report to the emergency ro
 Increased Risk of Bleeding
 
 Inform patients about the concomitant use of sertraline hydrochloride with aspirin, NSAIDs, other antiplatelet drugs, warfarin, or other anticoagulants because the combined use has been associated with an increased risk of bleeding.
-Advise patients to inform their health care providers if they are taking or planning to take any prescription or over-the­counter medications that increase the risk of bleeding [See Warnings and Precautions (5.3)].
+Advise patients to inform their health care providers if they are taking or planning to take any prescription or over-the­-counter medications that increase the risk of bleeding [See Warnings and Precautions (5.3)].
 
 Activation of Mania/Hypomania
 

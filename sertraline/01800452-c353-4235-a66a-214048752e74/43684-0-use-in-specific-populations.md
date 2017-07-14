@@ -97,7 +97,7 @@ Monitor weight and growth in pediatric patients treated with an SSRI such as ser
 
 Weight Loss in Studies in Pediatric Patients with MDD
 
-In a pooled analysis of two 10-week, double-blind, placebo-controlled, flexible dose (50-200 mg) outpatient trials for MDD (n=373), there was a difference in weight change between sertraline hydrochloride and placebo of roughly 1 kg, for both children (ages 6 to 11) and adolescents (ages 12 to 17), in both age groups representing a slight weight loss for the sertraline hydrochloride group compared to a slight gain for the placebo group.
+In a pooled analysis of two 10-week, double-blind, placebo-controlled, flexible dose (50 to 200 mg) outpatient trials for MDD (n=373), there was a difference in weight change between sertraline hydrochloride and placebo of roughly 1 kg, for both children (ages 6 to 11) and adolescents (ages 12 to 17), in both age groups representing a slight weight loss for the sertraline hydrochloride group compared to a slight gain for the placebo group.
 For children, about 7% of the sertraline hydrochloride-treated patients had a weight loss greater than 7% of body weight compared to 0% of the placebo-treated patients; for adolescents, about 2% of sertraline hydrochloride-treated patients had a weight loss > 7% of body weight compared to about 1% of placebo-treated patients.
 
 A subset of patients who completed the randomized controlled trials in patients with MDD (sertraline hydrochloride n=99, placebo n=122) were continued into a 24-week, flexible-dose, open-label, extension study.

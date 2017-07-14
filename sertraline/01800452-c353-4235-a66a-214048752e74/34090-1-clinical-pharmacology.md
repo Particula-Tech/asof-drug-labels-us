@@ -22,7 +22,7 @@ Absorption
 
 Following oral once-daily sertraline hydrochloride dosing over the range of 50 to 200 mg for 14 days, mean peak plasma concentrations (Cmax) of sertraline occurred between 4.5 to 8.4 hours post-dosing.
 The average terminal elimination half-life of plasma sertraline is about 26 hours.
-Consistent with the terminal elimination half-life, there is an approximately two-fold accumulation up to steady-state concentrations, which are achieved after one week of once- daily dosing.
+Consistent with the terminal elimination half-life, there is an approximately two-fold accumulation up to steady-state concentrations, which are achieved after one week of once-daily dosing.
 Linear dose-proportional pharmacokinetics were demonstrated in a single dose study in which the Cmax and area under the plasma concentration time curve (AUC) of sertraline were proportional to dose over a range of 50 to 200 mg.
 The single dose bioavailability of sertraline hydrochloride tablets is approximately equal to an equivalent dose of sertraline hydrochloride oral solution.
 Administration with food causes a small increase in Cmax and AUC.
@@ -39,7 +39,7 @@ About 40 to 45% of the administered radioactivity was recovered in urine in 9 da
 Unchanged sertraline was not detectable in the urine.
 For the same period, about 40 to 45% of the administered radioactivity was accounted for in feces, including 12 to 14% unchanged sertraline.
 
-Desmethylsertraline exhibits time-related, dose dependent increases in AUC (0-24-hour), Cmax and Cmin, with about a 5- to 9-fold increase in these pharmacokinetic parameters between day 1 and day 14.
+Desmethylsertraline exhibits time-related, dose dependent increases in AUC (0 to 24-hour), Cmax and Cmin, with about a 5- to 9-fold increase in these pharmacokinetic parameters between day 1 and day 14.
 
 Protein Binding
 
@@ -51,7 +51,7 @@ Studies in Specific Populations
 Pediatric Patients
 
 Sertraline pharmacokinetics were evaluated in a group of 61 pediatric patients (29 aged 6 to 12 years, 32 aged 13 to 17 years) including both males (N=28) and females (N=33).
-Relative to the adults, pediatric patients aged 6 to 12 years and 13 to 17 years showed about 22% lower AUC (0-24 hr) and Cmax values when plasma concentration was adjusted for weight.
+Relative to the adults, pediatric patients aged 6 to 12 years and 13 to 17 years showed about 22% lower AUC (0 to 24 hr) and Cmax values when plasma concentration was adjusted for weight.
 The half-life was similar to that in adults, and no gender-associated differences were observed [See Dosage and Administration (2.1), Use in Specific Populations (8.4)].
 
 Geriatric Patients

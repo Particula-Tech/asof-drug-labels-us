@@ -35,7 +35,7 @@ Table 5: Clinically-Significant Drug Interactions with Sertraline Hydrochloride
 | Intervention: | Monitor phenytoin levels when initiating or titrating sertraline hydrochloride. Reduce phenytoin dosage if needed. |
 | Examples: | phenytoin, fosphenytoin |
 
-## 7.2 Drugs Having No Clinically Important Interactions with sertraline hydrochloride
+## 7.2 Drugs Having No Clinically Important Interactions with Sertraline Hydrochloride
 
 Based on pharmacokinetic studies, no dosage adjustment of sertraline hydrochloride is necessary when used in combination with cimetidine.
 Additionally, no dosage adjustment is required for diazepam, lithium, atenolol, tolbutamide, digoxin, and drugs metabolized by CYP3A4, when sertraline hydrochloride is administered concomitantly [See Clinical Pharmacology (12.3)].

@@ -119,7 +119,7 @@ Ear and labyrinth disorders – tinnitus
 
 Endocrine disorders - hypothyroidism
 
-Eye disorders -mydriasis, blurred vision
+Eye disorders - mydriasis, blurred vision
 
 Gastrointestinal disorders - hematochezia, melena, rectal hemorrhage
 
@@ -156,7 +156,7 @@ Bleeding or clotting disorders - increased coagulation times (altered platelet f
 
 Cardiac disorders – AV block, bradycardia, atrial arrhythmias, QT-interval prolongation, ventricular tachycardia (including Torsade de Pointes)
 
-Endocrine disorders -gynecomastia, hyperprolactinemia, menstrual irregularities, SIADH
+Endocrine disorders - gynecomastia, hyperprolactinemia, menstrual irregularities, SIADH
 
 Eye disorders - blindness, optic neuritis, cataract
 
@@ -168,7 +168,9 @@ Immune system disorders - angioedema
 
 Metabolism and nutrition disorders – hyponatremia, hyperglycemia
 
-Nervous system disorders -serotonin syndrome, extrapyramidal symptoms (including akathisia and dystonia), oculogyric crisis
+Musculoskeletal and connective tissue disorders – trismus
+
+Nervous system disorders - serotonin syndrome, extrapyramidal symptoms (including akathisia and dystonia), oculogyric crisis
 
 Psychiatric disorders – psychosis, enuresis, paroniria
 

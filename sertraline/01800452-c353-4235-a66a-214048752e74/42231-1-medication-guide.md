@@ -71,7 +71,8 @@ You may want to undergo an eye examination to see if you are at risk and receive
 Changes in appetite or weight.
 Children and adolescents should have height and weight monitored during treatment.
 
-8.Low salt (sodium) levels in the blood.
+8.
+Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
 
@@ -135,16 +136,15 @@ What should I tell my healthcare provider before taking sertraline hydrochloride
 Before starting sertraline hydrochloride oral solution, tell your healthcare provider:
 
 - if you have:
-
-- liver problems
-- kidney problems
-- a history of a stroke
-- heart problems
-- or have had seizures or convulsions
-- high blood pressure
-- bipolar disorder or mania
-- low sodium levels in your blood
-- or have had bleeding problems
+  - liver problems
+  - kidney problems
+  - a history of a stroke
+  - heart problems
+  - or have had seizures or convulsions
+  - high blood pressure
+  - bipolar disorder or mania
+  - low sodium levels in your blood
+  - or have had bleeding problems
 
 - are pregnant or plan to become pregnant.
   Your baby may have withdrawal symptoms after birth or may be at increased risk for a serious lung problem at birth.
@@ -168,7 +168,6 @@ How should I take sertraline hydrochloride oral solution?
 - Sertraline hydrochloride oral solution must be diluted before use:
   - Do not mix sertraline hydrochloride oral solution until you are ready to take it.
   - When diluting sertraline hydrochloride oral solution, use only water, ginger ale, lemon/lime soda, lemonade, or orange juice.
-
 - If you miss a dose of sertraline hydrochloride oral solution, take the missed dose as soon as you remember.
   If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
   Do not take two doses of sertraline hydrochloride oral solution at the same time.
@@ -239,4 +238,18 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 02/2017
+All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
+
+Distributed by:
+
+Aurobindo Pharma USA, Inc.
+
+2400 Route 130 North
+
+Dayton, NJ 08810
+
+Manufactured by: Aurobindo Pharma Limited
+
+Hyderabad-500 038, India
+
+Revised: 07/2017

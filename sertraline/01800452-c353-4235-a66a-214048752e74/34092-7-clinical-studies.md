@@ -47,7 +47,7 @@ Patients in all three studies had moderate to severe OCD (DSM-III or DSM-III-R) 
 - Study OCD-3 was a 12-week randomized, placebo controlled study with flexible dosing of sertraline hydrochloride in a range of 50 to 200 mg/day; the mean dose for completers was 185 mg/day.
   Sertraline hydrochloride (N=241) was titrated to the assigned dose over two weeks in 50 mg increments every 4 days.
   Patients receiving sertraline hydrochloride experienced a mean reduction of approximately 7 points on the Y-BOCS total score which was statistically significantly greater than the mean reduction of approximately 4 points in placebo-treated patients (N=84).
-  The mean change in Y-BOCS from baseline to last visit (the primary efficacy endpoint) was - 6.5 (sertraline hydrochloride) and -3.6 (placebo).
+  The mean change in Y-BOCS from baseline to last visit (the primary efficacy endpoint) was -6.5 (sertraline hydrochloride) and -3.6 (placebo).
 
 Analyses for age and gender effects on outcome did not suggest any differential responsiveness on the basis of age or sex.
 
@@ -162,7 +162,6 @@ Study outcome was assessed by the:
 Sertraline hydrochloride was shown to be statistically significantly more effective than placebo as measured by the BSPS total score and fear, avoidance and physiologic factor scores, as well as the FQ-SPS total score, and to have statistically significantly more responders than placebo as defined by the CGI-I.
 Subgroup analyses did not suggest differences in treatment outcome on the basis of gender.
 There was insufficient information to determine the effect of race or age on outcome.
-
 In Study SAD-3, patients meeting DSM-IV criteria for SAD who had responded while assigned to sertraline hydrochloride (CGI-I of 1 or 2) during a 20-week placebo-controlled trial on sertraline hydrochloride 50 to 200 mg/day were randomized to continuation of sertraline hydrochloride or to substitution of placebo for up to 24 weeks of observation for relapse.
 Relapse was defined as ≥ 2 point increase in the Clinical Global Impression Severity of Illness (CGI-S) score compared to baseline or study discontinuation due to lack of efficacy.
 Patients receiving sertraline hydrochloride continuation treatment experienced a statistically significantly lower relapse rate during this 24-week period than patients randomized to placebo substitution.
