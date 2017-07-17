@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019157"
+  ],
+  "inn": "prednisolone",
+  "labeler": "Royal Pharmaceuticals",
+  "package_ndcs": [
+    "68791-104-04"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "prednisolone sodium phosphate",
+      "name": "PEDIAPRED"
+    }
+  ],
+  "setid": "1b996564-a777-4d37-ae00-b6a5ffc5e596",
+  "source": "dailymed"
+}
