@@ -1,6 +1,7 @@
 # DESCRIPTION
 
 Desoximetasone ointment USP, 0.25% contains the active synthetic corticosteroid desoximetasone.
+
 The topical corticosteroids constitute a class of primarily synthetic steroids used as anti-inflammatory and antipruritic agents.
 
 Each gram of desoximetasone ointment USP, 0.25% contains 2.5 mg of desoximetasone in an ointment base consisting of fractionated coconut oil and white petrolatum.

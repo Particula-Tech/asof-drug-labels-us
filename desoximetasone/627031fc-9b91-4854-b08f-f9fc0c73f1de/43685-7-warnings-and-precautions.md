@@ -11,6 +11,7 @@ This may occur during treatment or upon withdrawal of the topical corticosteroid
 
 Because of the potential for systemic absorption, use of topical corticosteroids may require that patients be periodically evaluated for HPA axis suppression.
 Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent steroids, use over large surface areas, use over prolonged periods, use under occlusion, use on an altered skin barrier, and use in patients with liver failure.
+
 An ACTH stimulation test may be helpful in evaluating patients for HPA axis suppression.
 If HPA axis suppression is documented, an attempt should be made to gradually withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid.
 Manifestations of adrenal insufficiency may require supplemental systemic corticosteroids.
@@ -36,6 +37,7 @@ Clinical diagnosis of allergic contact dermatitis can be confirmed by patch test
 ## Concomitant Skin Infections
 
 Concomitant skin infections should be treated with an appropriate antimicrobial agent.
+
 If the infection persists, desoximetasone ointment USP, 0.25% should be discontinued until the infection has been adequately treated.
 
 ## Information for the Patient
@@ -48,7 +50,7 @@ Patients using topical corticosteroids should receive the following information 
 2. Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
 3. The treated skin area should not be bandaged or otherwise covered or wrapped so as to be occlusive unless directed by the physician.
 4. Patients should report any signs of local adverse reactions, especially under occlusive dressings.
-5. Other corticosteroid-containing products should not be used withdesoximetasone ointment USP, 0.25% without first consulting with the physician.
+5. Other corticosteroid-containing products should not be used with desoximetasone ointment USP, 0.25% without first consulting with the physician.
 
 As with other corticosteroids, therapy should be discontinued when control is achieved.
 If no improvement is seen within 4 weeks, contact the physician.
@@ -57,8 +59,8 @@ If no improvement is seen within 4 weeks, contact the physician.
 
 The following tests may be helpful in evaluating the hypothalamic-pituitary-adrenal (HPA) axis suppression:
 
-- 
-  - Urinary free cortisol test ACTH stimulation test
+- Urinary free cortisol test
+- ACTH stimulation test
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
