@@ -12,7 +12,7 @@ Fetal/Neonatal Adverse Reactions: Neonatal opioid withdrawal syndrome may occur 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and/or failure to gain weight.
 Signs of neonatal withdrawal usually occur in the first days after birth.
 The duration and severity of neonatal opioid withdrawal syndrome may vary.
-Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see BOXED WARNING, Warnings and Precautions (5.4)].
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see BOXED WARNING, Warnings and Precautions (5.5)].
 
 1. Teratogenic Effects
 2. Pregnancy Category C: There are no adequate and well controlled studies in pregnant women.
@@ -31,7 +31,7 @@ Observe newborns for signs of neonatal opioid withdrawal syndrome and manage acc
    Monitor newborn for withdrawal signs and symptoms including: poor feeding, irritability, excessive crying, tremors, rigidity, hyper-active reflexes, increased respiratory rate, diarrhea, sneezing, yawning, vomiting, fever, and seizures.
    The intensity of the neonatal withdrawal syndrome does not always correlate with the maternal dose or the duration of maternal exposure.
    The duration of the withdrawal signs may vary from a few days to weeks or even months.
-   There is no consensus on the appropriate management of infant withdrawal [see Warnings and Precautions (5.4)].
+   There is no consensus on the appropriate management of infant withdrawal [see Warnings and Precautions (5.5)].
 7. Human Data: Reported studies have generally compared the benefit of methadone to the risk of untreated addiction to illicit drugs; the relevance of these findings to pain patients prescribed methadone during pregnancy is unclear.
    Pregnant women involved in methadone maintenance programs have been reported to have significantly improved prenatal care leading to significantly reduced incidence of obstetric and fetal complications and neonatal morbidity and mortality when compared to women using illicit drugs.
    Several factors, including maternal use of illicit drugs, nutrition, infection and psychosocial circumstances, complicate the interpretation of investigations of the children of women who take methadone during pregnancy.
@@ -50,20 +50,20 @@ Observe newborns for signs of neonatal opioid withdrawal syndrome and manage acc
     Methadone produced teratogenic effects following large doses, in the guinea pig, hamster and mouse.
     One published study in pregnant hamsters indicated that a single subcutaneous dose of methadone ranging from 31 to 185 mg/kg (the 31 mg/kg dose is approximately 2 times a human daily oral dose of 120 mg/day on a mg/m2 basis) on day 8 of gestation resulted in a decrease in the number of fetuses per litter and an increase in the percentage of fetuses exhibiting congenital malformations described as exencephaly, cranioschisis, and “various other lesions.”
     The majority of the doses tested also resulted in maternal death.
-11. In another study, a single subcutaneous dose of 22 to 24 mg/kg methadone (estimated exposure was approximately equivalent to a human daily oral dose of 120 mg/day on a mg/m2 basis) administered on day 9 of gestation in mice also produced exencephaly in 11% of the embryos.
+    In another study, a single subcutaneous dose of 22 to 24 mg/kg methadone (estimated exposure was approximately equivalent to a human daily oral dose of 120 mg/day on a mg/m2 basis) administered on day 9 of gestation in mice also produced exencephaly in 11% of the embryos.
     However, no effects were reported in rats and rabbits at oral doses up to 40 mg/kg (estimated exposure was approximately 3 and 6 times, respectively, a human daily oral dose of 120 mg/day on a mg/m2 basis) administered during days 6 to 15 and 6 to 18, respectively.
-12. Published animal data have reported increased neonatal mortality in the offspring of male rodents that were treated with methadone prior to mating.
-    In these studies, the female rodents were not treated with methadone, indicating paternallymediated developmental toxicity.
-    Specifically, methadone administered to the male rat prior to mating with methadonenaïve females resulted in decreased weight gain in progeny after weaning.
+11. Published animal data have reported increased neonatal mortality in the offspring of male rodents that were treated with methadone prior to mating.
+    In these studies, the female rodents were not treated with methadone, indicating paternally-mediated developmental toxicity.
+    Specifically, methadone administered to the male rat prior to mating with methadone-naïve females resulted in decreased weight gain in progeny after weaning.
     The male progeny demonstrated reduced thymus weights, whereas the female progeny demonstrated increased adrenal weights.
     Behavioral testing of these male and female progeny revealed significant differences in behavioral tests compared to control animals, suggesting that paternal methadone exposure can produce physiological and behavioral changes in progeny in this model.
     Other animal studies have reported that perinatal exposure to opioids including methadone alters neuronal development and behavior in the offspring.
     Perinatal methadone exposure in rats has been linked to alterations in learning ability, motor activity, thermal regulation, nociceptive responses and sensitivity to drugs.
-13. Additional animal data demonstrates evidence for neurochemical changes in the brains of methadone-treated offspring, including changes to the cholinergic, dopaminergic, noradrenergic and serotonergic systems.
+12. Additional animal data demonstrates evidence for neurochemical changes in the brains of methadone-treated offspring, including changes to the cholinergic, dopaminergic, noradrenergic and serotonergic systems.
     Studies demonstrated that methadone treatment of male rats for 21 to 32 days prior to mating with methadone-naïve females did not produce any adverse effects, suggesting that prolonged methadone treatment of the male rat resulted in tolerance to the developmental toxicities noted in the progeny.
     Mechanistic studies in this rat model suggest that the developmental effects of “paternal” methadone on the progeny appear to be due to decreased testosterone production.
     These animal data mirror the reported clinical findings of decreased testosterone levels in human males on methadone maintenance therapy for opioid addiction and in males receiving chronic intraspinal opioids.
-14. Additional data have been published indicating that methadone treatment of male rats (once a day for three consecutive days) increased embryolethality and neonatal mortality.
+13. Additional data have been published indicating that methadone treatment of male rats (once a day for three consecutive days) increased embryolethality and neonatal mortality.
     Examination of uterine contents of methadone-naïve female mice bred to methadone-treated mice indicated that methadone treatment produced an increase in the rate of preimplantation deaths in all post-meiotic states.
 
 ## 8.2 Labor and Delivery

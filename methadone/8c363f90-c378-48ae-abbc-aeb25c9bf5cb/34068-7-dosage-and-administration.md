@@ -2,6 +2,12 @@
 
 ## 2.1 Important General Information
 
+- •Ensure accuracy when prescribing, dispensing, and administering Methadone Hydrochloride Oral Solution to avoid dosing errors due to confusion between mg and mL, and with other methadone hydrochloride oral solutions of different concentrations, which could result in accidental overdose and death.
+  Ensure the proper dose is communicated and dispensed.
+  When writing prescriptions, include both the total dose in mg and the total dose in volume.
+- •Always use a calibrated measuring devise when administering Methadone Hydrochloride Oral Solution to ensure the dose is measured and administered accurately.
+  Health care providers should recommend a dropper that can measure and deliver the prescribed dose accurately, and instruct caregivers to use extreme caution in measuring the dosage.
+- •Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - •The peak respiratory depressant effect of methadone occurs later and persists longer than its peak therapeutic effect.
 - •A high degree of opioid tolerance does not eliminate the possibility of methadone overdose, iatrogenic or otherwise.
   Deaths have been reported during conversion to methadone from chronic, high-dose treatment with other opioid agonists and during initiation of methadone treatment of addiction in subjects previously abusing high doses of other agonists.
@@ -10,14 +16,14 @@
 
 ## 2.2 Initial Dosing for Management of Pain
 
-1. Methadone Hydrochloride Oral Solution USP should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
+1. Methadone should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 2. Consider the following important factors that differentiate methadone from other opioid analgesics:
 3. •There is high interpatient variability in absorption, metabolism, and relative analgesic potency.
    Population-based equianalgesic conversion ratios between methadone and other opioids are not accurate when applied to individuals.
 4. •The duration of analgesic action of methadone is 4 to 8 hours (based on single-dose studies) but the plasma elimination half-life is 8 to 59 hours.
 5. •Steady-state plasma concentrations, and full analgesic effects, are not attained until at least 3 to 5 days on a dose, and may take longer in some patients.
-6. Initiate the dosing regimen for each patient individually, taking into account the patient’s prior analgesic treatment experience and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-   Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy with methadone [see Warnings and Precautions (5.2)].
+6. Initiate the dosing regimen for each patient individually, taking into account the patient’s prior analgesic treatment experience and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
+   Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy with methadone [see Warnings and Precautions (5.3)].
 7. Use of Methadone as the First Opioid Analgesic
 8. Initiate treatment with methadone with 2.5 mg orally every 8 to 12 hours.
 9. Conversion from Other Oral Opioids to Methadone
@@ -105,7 +111,7 @@ Step 1: Sum the total daily dose of the opioid (in this case, Morphine Extended 
 6. Short-Term Detoxification
 7. For a brief course of stabilization followed by a period of medically supervised withdrawal, titrate the patient to a total daily dose of about 40 mg in divided doses to achieve an adequate stabilizing level.
    After 2 to 3 days of stabilization, gradually decrease the dose of methadone.
-   Decrease the dose of methadone on a daily basis or at 2day intervals, keeping the amount of methadone sufficient to keep withdrawal symptoms at a tolerable level.
+   Decrease the dose of methadone on a daily basis or at 2-day intervals, keeping the amount of methadone sufficient to keep withdrawal symptoms at a tolerable level.
    Hospitalized patients may tolerate a daily reduction of 20% of the total daily dose.
    Ambulatory patients may need a slower schedule.
 

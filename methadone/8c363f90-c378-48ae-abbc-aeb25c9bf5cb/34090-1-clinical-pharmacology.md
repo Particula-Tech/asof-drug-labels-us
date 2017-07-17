@@ -12,9 +12,9 @@
 ## 12.3 Pharmacokinetics
 
 1. Absorption
-2. Following oral administration the bioavailability of methadone ranges between 36 to 100% and peak plasma concentrations are achieved between 1 to 7.5 hours.
+2. Following oral administration the bioavailability of methadone ranges between 36% to 100% and peak plasma concentrations are achieved between 1 to 7.5 hours.
    Dose proportionality of methadone pharmacokinetics is not known.
-   However, after administration of daily oral doses ranging from 10 to 225 mg, the steady-state plasma concentrations ranged between 65 to 630 ng/mL and the peak concentrations ranged between 124 to 1255 ng/mL.
+   However, after administration of daily oral doses ranging from 10 to 225 mg, the steady-state plasma concentrations ranged between 65 to 630 ng/mL and the peak concentrations ranged between 124 to 1,255 ng/mL.
    Effect of food on the bioavailability of methadone has not been evaluated.
 3. Distribution
 4. Methadone is a lipophilic drug and the steady-state volume of distribution ranges between 1.0 to 8.0 L/kg.

@@ -1,16 +1,16 @@
 # 6 ADVERSE REACTIONS
 
 1. The following serious adverse reactions are discussed elsewhere in the labeling:
-2. •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-3. •Life Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-4. •QT Prolongation [see Warnings and Precautions (5.3)]
-5. •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-6. •Interactions with Other CNS Depressants [see Warnings and Precautions (5.5)]
-7. •Serotonin Syndrome [see Warnings and Precautions (5.8)]
-8. •Adrenal Insufficiency [see Warnings and Precautions (5.9)]
-9. •Hypotensive Effect [see Warnings and Precautions (5.10)]
-10. •Gastrointestinal Effects [see Warnings and Precautions (5.12)]
-11. •Seizures [see Warnings and Precautions (5.13)]
+2. •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.2)]
+3. •Life Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+4. •QT Prolongation [see Warnings and Precautions (5.4)]
+5. •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
+6. •Interactions with Other CNS Depressants [see Warnings and Precautions (5.6)]
+7. •Serotonin Syndrome [see Warnings and Precautions (5.9)]
+8. •Adrenal Insufficiency [see Warnings and Precautions (5.10)]
+9. •Hypotensive Effect [see Warnings and Precautions (5.11)]
+10. •Gastrointestinal Effects [see Warnings and Precautions (5.13)]
+11. •Seizures [see Warnings and Precautions (5.14)]
 12. The major hazards of methadone are respiratory depression and, to a lesser degree, systemic hypotension.
     Respiratory arrest, shock, cardiac arrest, and death have occurred.
 13. The most frequently observed adverse reactions include lightheadedness, dizziness, sedation, nausea, vomiting and sweating.
@@ -22,7 +22,7 @@
 17. Central Nervous System: agitation, confusion, disorientation, dysphoria, euphoria, insomnia, hallucinations, seizures, visual disturbances
 18. Endocrine: hypogonadism
 19. Gastrointestinal: abdominal pain, anorexia, biliary tract spasm, constipation, dry mouth, glossitis
-20. Hematologic: Reversible thrombocytopenia has been described in opioid addicts with chronic hepatitis
+20. Hematologic: Reversible thrombocytopenia has been described in opioid addicts with chronic hepatitis.
 21. Metabolic: hypokalemia, hypomagnesemia, weight gain
 22. Renal: antidiuretic effect, urinary retention or hesitancy
 23. Reproductive: amenorrhea, reduced libido and/or potency, reduced ejaculate volume, reduced seminal vesicle and prostate secretions, decreased sperm motility, abnormalities in sperm morphology

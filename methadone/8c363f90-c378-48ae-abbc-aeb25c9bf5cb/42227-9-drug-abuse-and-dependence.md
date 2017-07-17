@@ -3,7 +3,7 @@
 ## 9.1 Controlled Substance
 
 1. Methadone is a mu-agonist opioid with an abuse liability similar to other opioid agonists and is a Schedule II controlled substance.
-   Methadone can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+   Methadone can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.2)].
 
 ## 9.2 Abuse
 
@@ -41,4 +41,4 @@
    Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
    Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
-Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.4)].
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.5)].

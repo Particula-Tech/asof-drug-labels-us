@@ -5,7 +5,7 @@
 1. Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants such as alcohol, other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, and other opioids, can increase the risk of respiratory depression, profound sedation, coma, and death.
 2. Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
    Limit dosages and durations to the minimum required.
-   Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.5)].
+   Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.6)].
 3. 
 
 ## 7.2 Drugs Affecting Cytochrome P450 Isoenzymes
