@@ -13,8 +13,8 @@
    CLSI.
    Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria; Approved Standard – Eighth Edition.
    CLSI document M11-A8.
-   Wayne, PA: Clinical and Laboratory Standards Institute; 2012
+   Wayne, PA: Clinical and Laboratory Standards Institute; 2012.
 5. CLSI.
    Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – Twelfth Edition.
    CLSI document M02-A12.
-   Wayne, PA: Clinical and Laboratory Standards Institute; 2015..
+   Wayne, PA: Clinical and Laboratory Standards Institute; 2015.

@@ -5,6 +5,6 @@ Not for Injection
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0041-14.0
+LAB-0041-15.0
 
-February 2017
+June 2017

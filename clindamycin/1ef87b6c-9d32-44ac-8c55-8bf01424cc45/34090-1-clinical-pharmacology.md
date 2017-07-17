@@ -21,7 +21,7 @@ No significant levels of clindamycin are attained in the cerebrospinal fluid, ev
 
 ### Metabolism
 
-In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly oxidized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
+In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly metabolized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
 
 ### Excretion
 
@@ -131,12 +131,12 @@ Susceptibility Test Interpretive Criteria for Clindamycin
 | Anaerobic Bacteria | ≤2 | 4 | ≥8 | NA | NA | NA |
 | NA=not applicable |  |  |  |  |  |  |
 
-A report of Susceptible (S)indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
 A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone that prevents small, uncontrolled technical factors from causing major discrepancies in interpretation.
 
-A report of Resistant (R)indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected.
+A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected.
 
 ## Quality Control
 

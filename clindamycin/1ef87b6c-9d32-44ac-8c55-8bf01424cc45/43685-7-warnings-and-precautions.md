@@ -74,11 +74,11 @@ Clindamycin has been shown to have neuromuscular blocking properties that may en
 Therefore, it should be used with caution in patients receiving such agents.
 
 Clindamycin is metabolized predominantly by CYP3A4, and to a lesser extent by CYP3A5, to the major metabolite clindamycin sulfoxide and minor metabolite N-desmethylclindamycin.
-Therefore inhibitors of CYP3A4 and CYP3A5 may reduce clindamycin clearance and inducers of these isoenzymes may increase clindamycin clearance.
+Therefore inhibitors of CYP3A4 and CYP3A5 may increase plasma concentrations of clindamycin and inducers of these isoenzymes may reduce plasma concentrations of clindamycin.
+In the presence of strong CYP3A4 inhibitors, monitor for adverse reactions.
 In the presence of strong CYP3A4 inducers such as rifampicin, monitor for loss of effectiveness.
 
 In vitro studies indicate that clindamycin does not inhibit CYP1A2, CYP2C9, CYP2C19, CYP2E1 or CYP2D6 and only moderately inhibits CYP3A4.
-Therefore, clinically important interactions between clindamycin and co-administered drugs metabolized by these CYP enzymes are unlikely.
 
 Antagonism has been demonstrated between clindamycin and erythromycin in vitro.
 Because of possible clinical significance, these two drugs should not be administered concurrently.
@@ -93,8 +93,6 @@ Fertility studies in rats treated orally with up to 300 mg/kg/day (approximately
 
 ## Pregnancy: Teratogenic Effects
 
-### Pregnancy Category B
-
 Clindamycin should be used during the first trimester of pregnancy only if clearly needed.
 There are no adequate and well-controlled studies in pregnant women during the first trimester of pregnancy.
 Because animal reproduction studies are not always predictive of the human response, this drug should be used during pregnancy only if clearly needed.
@@ -104,7 +102,11 @@ Reproduction studies performed in rats and mice using oral doses of clindamycin 
 ## Nursing Mothers
 
 Clindamycin has been reported to appear in breast milk in the range of 0.7 to 3.8 mcg/mL.
-Because of the potential for serious adverse reactions in nursing infants, clindamycin should not be taken by nursing mothers.
+Clindamycin has the potential to cause adverse effects on the breastfed infant's gastrointestinal flora.
+If oral or intravenous clindamycin is required by a nursing mother, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred.
+Monitor the infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clindamycin and any potential adverse effects on the breastfed child from clindamycin or from the underlying maternal condition.
 
 ## Pediatric Use
 
