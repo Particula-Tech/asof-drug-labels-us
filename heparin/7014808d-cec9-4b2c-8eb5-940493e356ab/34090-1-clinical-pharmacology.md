@@ -1,20 +1,43 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Heparin inhibits reactions that lead to the clotting of blood and the formation of fibrin clots both in vitro and in vivo.
-Heparin acts at multiple sites in the normal coagulation system.
-Small amounts of heparin in combination with antithrombin III (heparin cofactor) can inhibit thrombosis by inactivating activated Factor X and inhibiting the conversion of prothrombin to thrombin.
-Once active thrombosis has developed, larger amounts of heparin can inhibit further coagulation by inactivating thrombin and preventing the conversion of fibrinogen to fibrin.
+## 12.1 Mechanism of Action
+
+Heparin interacts with the naturally occurring plasma protein, Antithrombin III, to induce a conformational change, which markedly enhances the serine protease activity of Antithrombin III, thereby inhibiting the activated coagulation factors involved in the clotting sequence, particularly Xa and IIa.
+Small amounts of heparin inhibit Factor Xa, and larger amounts inhibit thrombin (Factor IIa).
 Heparin also prevents the formation of a stable fibrin clot by inhibiting the activation of the fibrin stabilizing factor.
-
-Bleeding time is usually unaffected by heparin.
-Clotting time is prolonged by full therapeutic doses of heparin; in most cases, it is not measurably affected by low doses of heparin.
-
-Patients over 60 years of age, following similar doses of heparin, may have higher plasma levels of heparin and longer activated partial thromboplastin times (APTTs) compared with patients under 60 years of age.
-
-Peak plasma levels of heparin are achieved 2 to 4 hours following subcutaneous administration, although there are considerable individual variations.
-Loglinear plots of heparin plasma concentrations with time, for a wide range of dose levels, are linear, which suggests the absence of zero order processes.
-Liver and the reticuloendothelial system are the sites of biotransformation.
-The biphasic elimination curve, a rapidly declining alpha phase (t1/2=10 min.) and after the age of 40 a slower beta phase, indicates uptake in organs.
-The absence of a relationship between anticoagulant half-life and concentration half-life may reflect factors such as protein binding of heparin.
-
 Heparin does not have fibrinolytic activity; therefore, it will not lyse existing clots.
+
+## 12.2 Pharmacodynamics
+
+Various times (activated clotting time, activated partial thromboplastin time, prothrombin time, whole blood clotting time) are prolonged by full therapeutic doses of heparin; in most cases, they are not measurably affected by low doses of heparin.
+The bleeding time is usually unaffected by heparin.
+
+## 12.3 Pharmacokinetics
+
+Absorption
+
+Heparin is not absorbed through the gastrointestinal tract and therefore administered via parenteral route.
+Peak plasma concentration and the onset of action are achieved immediately after intravenous administration.
+
+Distribution
+
+Heparin is highly bound to antithrombin, fibrinogens, globulins, serum proteases and lipoproteins.
+The volume of distribution is 0.07 L/kg.
+
+Elimination
+
+Metabolism
+
+Heparin does not undergo enzymatic degradation.
+
+Excretion
+
+Heparin is mainly cleared from the circulation by liver and reticuloendothelial cells mediated uptake into extravascular space.
+Heparin undergoes biphasic clearance, a) rapid saturable clearance (zero order process due to binding to proteins, endothelial cells and macrophage) and b) slower first order elimination.
+The plasma half-life is dose-dependent and it ranges from 0.5 to 2 h.
+
+Specific Populations
+
+Geriatric patients
+
+Patients over 60 years of age, following similar doses of heparin, may have higher plasma levels of heparin and longer activated partial thromboplastin times (APTTs) compared with patients under 60 years of age [see Use in Specific Populations (8.5)].
