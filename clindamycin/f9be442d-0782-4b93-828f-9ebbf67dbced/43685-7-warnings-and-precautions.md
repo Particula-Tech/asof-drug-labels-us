@@ -54,8 +54,6 @@ Fertility studies in rats treated orally with up to 300 mg/kg/day (31 times the 
 
 ### Teratogenic effects
 
-#### Pregnancy Category B
-
 In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters, has not been associated with an increased frequency of congenital abnormalities.
 
 Clindamycin vaginal cream should be used during the first trimester of pregnancy only if clearly needed and the benefits outweigh the risks.
@@ -73,7 +71,11 @@ Since this effect was not observed in other mouse strains or in other species, t
 Clindamycin has been detected in human milk after oral or parenteral administration.
 It is not known if clindamycin is excreted in human milk following the use of vaginally administered clindamycin phosphate.
 
-Because of the potential for serious adverse reactions in nursing infants from clindamycin phosphate, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Clindamycin has the potential to cause adverse effects on the breastfed infant's gastrointestinal flora.
+If oral or intravenous clindamycin is required by a nursing mother, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred.
+Monitor the infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clindamycin and any potential adverse effects on the breastfed child from clindamycin or from the underlying maternal condition.
 
 ## Pediatric Use
 

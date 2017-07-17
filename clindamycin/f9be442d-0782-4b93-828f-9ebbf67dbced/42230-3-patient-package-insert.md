@@ -44,3 +44,5 @@ Empuje lentamente el émbolo hasta que se detenga.
 Saque el aplicador cuidadosamente de la vagina y descártelo.
 
 RECUERDE APLICARSE UN APLICADOR LLENO TODAS LAS NOCHES AL ACOSTARSE, O DE ACUERDO CON LAS INDICACIONES DE SU MEDICO.
+
+LAB-1058-1.0
