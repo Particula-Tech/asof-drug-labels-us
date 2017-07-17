@@ -37,7 +37,7 @@ Therefore it should be used with caution in patients receiving such agents.
 
 ## Pregnancy
 
-### Teratogenic effects—Pregnancy Categoty B
+### Teratogenic effects
 
 In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters, has not been associated with an increased frequency of congenital abnormalities.
 There are no adequate studies in pregnant women during the first trimester of pregnancy.
@@ -46,7 +46,11 @@ Clindamycin should be used during the first trimester of pregnancy only if clear
 ## Nursing Mothers
 
 It is not known whether clindamycin is excreted in human milk following use of CLEOCIN T. However, orally and parenterally administered clindamycin has been reported to appear in breast milk.
-Because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Clindamycin has the potential to cause adverse effects on the breastfed infant's gastrointestinal flora.
+If oral or intravenous clindamycin is required by a nursing mother, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred.
+Monitor the infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clindamycin and any potential adverse effects on the breastfed child from clindamycin or from the underlying maternal condition.
 
 ## Pediatric Use
 
