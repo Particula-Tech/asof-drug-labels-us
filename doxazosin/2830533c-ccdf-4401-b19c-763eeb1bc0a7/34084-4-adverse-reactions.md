@@ -82,7 +82,7 @@ Immune System Disorders: allergic reaction;
 
 Nervous System Disorders: hypoesthesia;
 
-Eye Disorders: Intraoperative Floppy Iris Syndrome [see Warnings and precautions (5.4)];
+Eye Disorders: Intraoperative Floppy Iris Syndrome [see Warnings and Precautions (5.2)].
 
 Cardiac Disorders: bradycardia;
 
