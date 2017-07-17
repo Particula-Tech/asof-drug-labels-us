@@ -147,7 +147,7 @@ Amlodipine has been used safely in patients with chronic obstructive pulmonary d
 
 Atorvastatin
 
-Adverse reactions associated with atorvastatin therapy reported since market introduction that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, myositis, fatigue, tendon rupture, fatal and non-fatal hepatic failure, dizziness, depression, peripheral neuropathy, and pancreatitis.
+Adverse reactions associated with atorvastatin therapy reported since market introduction that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, myositis, fatigue, tendon rupture, fatal and non-fatal hepatic failure, dizziness, depression, peripheral neuropathy, pancreatitis and interstitial lung disease.
 
 There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
 
