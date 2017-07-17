@@ -1,22 +1,10 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Epilepsy
+## 2.1 Dosing in Monotherapy Epilepsy
 
-It is not necessary to monitor topiramate plasma concentrations to optimize topiramate tablets therapy.
+Adults and Pediatric Patients 10 Years of Age and Older
 
-On occasion, the addition of topiramate tablets to phenytoin may require an adjustment of the dose of phenytoin to achieve optimal clinical outcome.
-Addition or withdrawal of phenytoin and/or carbamazepine during adjunctive therapy with topiramate may require adjustment of the dose of topiramate tablets.
-
-Because of the bitter taste, tablets should not be broken.
-
-Topiramate tablets can be taken without regard to meals.
-
-Monotherapy Use
-
-Adults and Pediatric Patients 10 Years and Older
-
-The recommended dose for topiramate monotherapy in adults and pediatric patients 10 years of age and older is 400 mg/day in two divided doses.
-Approximately 58% of patients randomized to 400 mg/day achieved this maximal dose in the monotherapy controlled trial; the mean dose achieved in the trial was 275 mg/day.
+The recommended dose for topiramate tablets monotherapy in adults and pediatric patients 10 years of age and older is 400 mg/day in two divided doses.
 The dose should be achieved by titration according to the following schedule (Table 1):
 
 Table 1: Monotherapy Titration Schedule for Adults and Pediatric Patients 10 years and older
@@ -30,21 +18,19 @@ Table 1: Monotherapy Titration Schedule for Adults and Pediatric Patients 10 yea
 | Week 5 | 150 mg | 150 mg |
 | Week 6 | 200 mg | 200 mg |
 
-Children Ages 2 to <10 Years
+Pediatric Patients 2 to 9 Years of Age
 
-Dosing of topiramate as initial monotherapy in children 2 to < 10 years of age with partial onset or primary generalized tonic-clonic seizures was based on a pharmacometric bridging approach [see Clinical Studies (14.1)].
-
-Dosing in patients 2 to <10 years is based on weight.
-During the titration period, the initial dose of topiramate should be 25 mg/day administered nightly for the first week.
+Dosing in patients 2 to 9 years of age is based on weight.
+During the titration period, the initial dose of topiramate tablets is 25 mg/day nightly for the first week.
 Based upon tolerability, the dosage can be increased to 50 mg/day (25 mg twice daily) in the second week.
 Dosage can be increased by 25 to 50 mg/day each subsequent week as tolerated.
 Titration to the minimum maintenance dose should be attempted over 5 to 7 weeks of the total titration period.
 Based upon tolerability and clinical response, additional titration to a higher dose (up to the maximum maintenance dose) can be attempted at 25 to 50 mg/day weekly increments.
 The total daily dose should not exceed the maximum maintenance dose for each range of body weight (Table 2).
 
-Table 2: Monotherapy Target Total Daily Maintenance Dosing for Patients 2 to <10 Years
+Table 2: Monotherapy Target Total Daily Maintenance Dosing for Patients 2 to 9 Years of Age
 
-| Weight (kg) | Total Daily Dose (mg/day)*Minimum Maintenance Dose | Total Daily Dose (mg/day)*Maximum Maintenance Dose |
+| Weight (kg) | Total Daily Dose (mg/day) Administered in two equally divided doses Minimum Maintenance Dose | Total Daily Dose (mg/day) Maximum Maintenance Dose |
 | --- | --- | --- |
 | Up to 11 | 150 | 250 |
 | 12 to 22 | 200 | 300 |
@@ -52,46 +38,51 @@ Table 2: Monotherapy Target Total Daily Maintenance Dosing for Patients 2 to <10
 | 32 to 38 | 250 | 350 |
 | Greater than 38 | 250 | 400 |
 
-*Administered in two equally divided doses
+## 2.2 Dosing in Adjunctive Therapy Epilepsy
 
-Adjunctive Therapy Use
+Adults (17 Years of Age and Over)
 
-Adults 17 Years of Age and Over - Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
-
-The recommended total daily dose of topiramate tablets as adjunctive therapy in adults with partial onset seizures is 200 to 400 mg/day in two divided doses, and 400 mg/day in two divided doses as adjunctive treatment in adults with primary generalized tonic-clonic seizures.
-It is recommended that therapy be initiated at 25 to 50 mg/day followed by titration to an effective dose in increments of 25 to 50 mg/day every week.
+The recommended total daily dose of topiramate tablets as adjunctive therapy in adults with partial onset seizures or Lennox-Gastaut Syndrome is 200 to 400 mg/day in two divided doses, and 400 mg/day in two divided doses as adjunctive treatment in adults with primary generalized tonic-clonic seizures.
+Topiramate tablets should be initiated at 25 to 50 mg/day, followed by titration to an effective dose in increments of 25 to 50 mg/day every week.
 Titrating in increments of 25 mg/day every week may delay the time to reach an effective dose.
-Doses above 400 mg/day (600, 800 or 1,000 mg/day) have not been shown to improve responses in dose-response studies in adults with partial onset seizures.
-Daily doses above 1,600 mg have not been studied.
+Doses above 400 mg/day have not been shown to improve responses in adults with partial onset seizures.
 
-In the study of primary generalized tonic-clonic seizures, the initial titration rate was slower than in previous studies; the assigned dose was reached at the end of 8 weeks [see Clinical Studies (14.1)].
+Pediatric Patients 2 to 16 Years of Age
 
-Pediatric Patients Ages 2 to 16 Years – Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
-
-The recommended total daily dose of topiramate tablets as adjunctive therapy for pediatric patients with partial onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome is approximately 5 to 9 mg/kg/day in two divided doses.
+The recommended total daily dose of topiramate tablets as adjunctive therapy for pediatric patients 2 to 16 years of age with partial onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome is approximately 5 to 9 mg/kg/day in two divided doses.
 Titration should begin at 25 mg/day (or less, based on a range of 1 to 3 mg/kg/day) nightly for the first week.
 The dosage should then be increased at 1- or 2-week intervals by increments of 1 to 3 mg/kg/day (administered in two divided doses), to achieve optimal clinical response.
 Dose titration should be guided by clinical outcome.
+The total daily dose should not exceed 400 mg/day.
 
-In the study of primary generalized tonic-clonic seizures, the initial titration rate was slower than in previous studies; the assigned dose of 6 mg/kg/day was reached at the end of 8 weeks [see Clinical Studies (14.1)].
+## 2.3 Dosing in Migraine Prophylaxis
 
-## 2.4 Patients with Renal Impairment
+The recommended total daily dose of topiramate tablets as treatment for patients 12 years of age and older for prophylaxis of migraine headache is 100 mg/day administered in two divided doses (Table 3).
+The recommended titration rate for topiramate tablets for migraine prophylaxis is as follows:
 
-In renally impaired subjects (creatinine clearance less than 70 mL/min/1.73 m2), one-half of the usual adult dose is recommended.
-Such patients will require a longer time to reach steady-state at each dose.
+Table 3: Migraine Prophylaxis Titration Schedule for Patients 12 Years of Age and Older
 
-## 2.5 Geriatric Patients (Ages 65 Years and Over)
+|  | Morning Dose | Evening Dose |
+| --- | --- | --- |
+| Week 1 | None | 25 mg |
+| Week 2 | 25 mg | 25 mg |
+| Week 3 | 25 mg | 50 mg |
+| Week 4 | 50 mg | 50 mg |
 
-Dosage adjustment may be indicated in the elderly patient when impaired renal function (creatinine clearance rate <70 mL/min/1.73 m2) is evident [see Clinical Pharmacology (12.3)].
+Dose and titration rate should be guided by clinical outcome.
+If required, longer intervals between dose adjustments can be used.
 
-## 2.6 Patients Undergoing Hemodialysis
+## 2.4 Administration Information
 
-Topiramate is cleared by hemodialysis at a rate that is 4 to 6 times greater than a normal individual.
-Accordingly, a prolonged period of dialysis may cause topiramate concentration to fall below that required to maintain an anti-seizure effect.
-To avoid rapid drops in topiramate plasma concentration during hemodialysis, a supplemental dose of topiramate may be required.
-The actual adjustment should take into account 1) the duration of dialysis period, 2) the clearance rate of the dialysis system being used, and 3) the effective renal clearance of topiramate in the patient being dialyzed.
+Topiramate tablets can be taken without regard to meals.
 
-## 2.7 Patients with Hepatic Disease
+Because of the bitter taste, tablets should not be broken.
 
-In hepatically impaired patients, topiramate plasma concentrations may be increased.
-The mechanism is not well understood.
+## 2.5 Dosing in Patients with Renal Impairment
+
+In patients with renal impairment (creatinine clearance less than 70 mL/min/1.73 m2), one-half of the usual adult dose of topiramate tablets are recommended [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
+
+## 2.6 Dosing in Patients Undergoing Hemodialysis
+
+To avoid rapid drops in topiramate plasma concentration during hemodialysis, a supplemental dose of topiramate tablets may be required.
+The actual adjustment should take into account 1) the duration of dialysis period, 2) the clearance rate of the dialysis system being used, and 3) the effective renal clearance of topiramate in the patient being dialyzed [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].

@@ -1,502 +1,403 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in more detail in other sections of the labeling:
+The following serious adverse reactions are discussed in more detail in other sections of the labeling:
 
-- •Acute Myopia and Secondary Angle Closure [see Warnings and Precautions (5.1)]
+- •Acute Myopia and Secondary Angle Closure Glaucoma [see Warnings and Precautions (5.1)]
 - •Visual Field Defects [see Warnings and Precautions (5.2)]
 - •Oligohidrosis and Hyperthermia [see Warnings and Precautions (5.3)]
 - •Metabolic Acidosis [see Warnings and Precautions (5.4)]
 - •Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
 - •Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
-- •Fetal Toxicity [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)]
-- •Withdrawal of Antiepileptic Drugs (AEDs) [see Warnings and Precautions (5.8)]
-- •Sudden Unexplained Death in Epilepsy (SUDEP) [see Warnings and Precautions (5.9)]
-- •Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use [see Warnings and Precautions (5.10)]
-- •Kidney Stones [see Warnings and Precautions (5.11)]
-- •Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.12)]
-- •Paresthesia [see Warnings and Precautions (5.13)]
+- •Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.9)]
+- •Kidney Stones [see Warnings and Precautions (5.10)]
+- •Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.11)]
+
+The data described in the following sections were obtained using topiramate tablets.
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, the incidence of adverse reactions observed in the clinical trials of a drug cannot be directly compared to the incidence of adverse reactions in the clinical trials of another drug, and may not reflect the incidence of adverse reactions observed in practice.
 
-Increased Risk for Bleeding
-
-Topiramate treatment is associated with an increased risk for bleeding.
-In a pooled analysis of placebo-controlled studies of approved and unapproved indications, bleeding was more frequently reported as an adverse event for topiramatethan for placebo (4.5% versus 3.0% in adult patients, and 4.4% versus 2.3% in pediatric patients).
-In this analysis, the incidence of serious bleeding events for topiramateand placebo was 0.3% versus 0.2% for adult patients, and 0.4% versus 0% for pediatric patients.
-
-Adverse bleeding reactions reported with topiramateranged from mild epistaxis, ecchymosis, and increased menstrual bleeding to life-threatening hemorrhages.
-In patients with serious bleeding events, conditions that increased the risk for bleeding were often present, or patients were often taking drugs that cause thrombocytopenia (other antiepileptic drugs) or affect platelet function or coagulation (e.g., aspirin, nonsteroidal anti-inflammatory drugs, selective serotonin reuptake inhibitors, or warfarin or other anticoagulants).
-
 Monotherapy Epilepsy
 
-Adults ≥16 Years
+Adults 16 Years of Age and Older
 
-The adverse reactions in the controlled trial that occurred most commonly in adults in the 400 mg/day topiramate group and at an incidence higher (>5 %) than in the 50 mg/day group were: paresthesia, weight decrease, anorexia, somnolence, and difficulty with memory (see Table 4).
+The most common adverse reactions in the controlled clinical trial that occurred in adults in the 400 mg/day topiramate group and at an incidence higher (≥ 10 %) than in the 50 mg/day group were: paresthesia, weight loss and anorexia (see Table 5).
 
 Approximately 21% of the 159 adult patients in the 400 mg/day group who received topiramate as monotherapy in the controlled clinical trial discontinued therapy due to adverse reactions.
-The most common (>2% more frequent than low-dose 50 mg/day topiramate) adverse reactions causing discontinuation in this trial were difficulty with memory, fatigue, asthenia, insomnia, somnolence, and paresthesia.
+The most common (≥ 2% more frequent than low-dose 50 mg/day topiramate adverse reactions causing discontinuation were difficulty with memory, fatigue, asthenia, insomnia, somnolence, and paresthesia.
 
-Pediatric Patients 6 to <16 Years of Age
+Pediatric Patients 6 to 15 Years of Age
 
-The adverse reactions in the controlled trial that occurred most commonly in pediatric patients in the 400 mg/day topiramate group and at an incidence higher (> 5%) than in the 50 mg/day group were fever, weight decrease, mood problems, cognitive problems, infection, flushing, and paresthesia (see Table 4).
-Table 4 also presents the incidence of adverse reactions occurring in at least 2% of adult and pediatric patients treated with 400 mg/day topiramate and occurring with greater incidence than 50 mg/day topiramate.
+The most common adverse reactions in the controlled clinical trial that occurred in pediatric patients in the 400 mg/day topiramate group and at an incidence higher (≥10%) than in the 50 mg/day group were fever and weight loss (see Table 5).
 
 Approximately 14% of the 77 pediatric patients in the 400 mg/day group who received topiramate as monotherapy in the controlled clinical trial discontinued therapy due to adverse reactions.
-The most common (> 2% more frequent than low-dose 50 mg/day topiramate) adverse reactions resulting in discontinuation in this trial were difficulty with concentration/attention, fever, flushing, and confusion.
+The most common (≥2% more frequent than low-dose 50 mg/day topiramate) adverse reactions resulting in discontinuation were difficulty with concentration/attention, fever, flushing, and confusion.
 
-Table 4: Incidence (%) of Treatment-Emergent Adverse Reactions in Monotherapy Epilepsy Where the Incidence Was at Least 2% in Any Topiramate Group and the Incidence in the 400 mg/day Topiramate Group Was Greater Than the Incidence in the 50 mg/day Topiramate Group for Adults (>16 Years) and Pediatric (6 to <16 Years) Patients in Study Topiramate –EPMN-106
+Table 5 presents the incidence of adverse reactions occurring in at least 3% of adult and pediatric patients treated with 400 mg/day topiramate and occurring with greater incidence than 50 mg/day topiramate.
 
-|  | Age Group |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Pediatric(6 to <16 Years) |  | Adult(Age >16 Years) |  |  |
-|  | Topiramate Daily Dosage Group (mg/day) |  |  |  |  |
-| Body System Adverse Reaction | 50 | 400 |  | 50 | 400 |
-| (N=74)%* | (N=77)%* |  | (N=160)%* | (N=159)%* |  |
-| Body as a whole-General Disorders |  |  |  |  |  |
-| Asthenia | 0 | 3 |  | 4 | 6 |
-| Chest pain |  |  |  | 1 | 2 |
-| Fever | 1 | 12 |  |  |  |
-| Leg pain |  |  |  | 2 | 3 |
-| Central & Peripheral Nervous System Disorders |  |  |  |  |  |
-| Ataxia |  |  |  | 3 | 4 |
-| Dizziness |  |  |  | 13 | 14 |
-| Hypertonia |  |  |  | 0 | 3 |
-| Hypoesthesia |  |  |  | 4 | 5 |
-| Muscle contractions involuntary | 0 | 3 |  |  |  |
-| Paresthesia | 3 | 12 |  | 21 | 40 |
-| Vertigo | 0 | 3 |  |  |  |
-| Gastro-Intestinal System Disorders |  |  |  |  |  |
-| Constipation |  |  |  | 1 | 4 |
-| Diarrhea | 8 | 9 |  |  |  |
-| Gastritis |  |  |  | 0 | 3 |
-| Gastroesophageal reflux |  |  |  | 1 | 2 |
-| Dry mouth |  |  |  | 1 | 3 |
-| Liver and Biliary System Disorders |  |  |  |  |  |
-| Gamma-GT increased |  |  |  | 1 | 3 |
-| Metabolic and Nutritional Disorders |  |  |  |  |  |
-| Weight decrease | 7 | 17 |  | 6 | 17 |
-| Platelet, Bleeding & Clotting Disorders |  |  |  |  |  |
-| Epistaxis | 0 | 4 |  |  |  |
-| Psychiatric disorders |  |  |  |  |  |
-| Anorexia |  |  |  | 4 | 14 |
-| Anxiety |  |  |  | 4 | 6 |
-| Cognitive problems | 1 | 6 |  | 1 | 4 |
-| Confusion | 0 | 3 |  |  |  |
-| Depression | 0 | 3 |  | 7 | 9 |
-| Difficulty with concentration/attention | 7 | 10 |  | 7 | 8 |
-| Difficulty with memory | 1 | 3 |  | 6 | 11 |
-| Insomnia |  |  |  | 8 | 9 |
-| Libido decreased |  |  |  | 0 | 3 |
-| Mood problems | 1 | 8 |  | 2 | 5 |
-| Personality disorder (behavior problems) | 0 | 3 |  |  |  |
-| Psychomotor slowing |  |  |  | 3 | 5 |
-| Somnolence |  |  |  | 10 | 15 |
-| Red Blood Cell Disorders |  |  |  |  |  |
-| Anemia | 1 | 3 |  |  |  |
-| Reproductive Disorders, Female† |  |  |  |  |  |
-| Intermenstrual Bleeding | 0 | 3 |  |  |  |
-| Vaginal Hemorrhage |  |  |  | 0 | 3 |
-| Resistance Mechanism Disorders |  |  |  |  |  |
-| Infection | 3 | 8 |  | 2 | 3 |
-| Infection viral | 3 | 6 |  | 6 | 8 |
-| Respiratory System Disorders |  |  |  |  |  |
-| Bronchitis | 1 | 5 |  | 3 | 4 |
-| Dyspnea |  |  |  | 1 | 2 |
-| Rhinitis | 5 | 6 |  | 2 | 4 |
-| Sinusitis | 1 | 4 |  |  |  |
-| Upper respiratory tract infection | 16 | 18 |  |  |  |
-| Skin and Appendages Disorders |  |  |  |  |  |
-| Acne |  |  |  | 2 | 3 |
-| Alopecia | 1 | 4 |  | 3 | 4 |
-| Pruritus |  |  |  | 1 | 4 |
-| Rash | 3 | 4 |  | 1 | 4 |
-| Special Senses Other, Disorders |  |  |  |  |  |
-| Taste perversion |  |  |  | 3 | 5 |
-| Urinary System Disorders |  |  |  |  |  |
-| Cystitis |  |  |  | 1 | 3 |
-| Dysuria |  |  |  | 0 | 2 |
-| Micturition frequency | 0 | 3 |  | 0 | 2 |
-| Renal calculus |  |  |  | 0 | 3 |
-| Urinary incontinence | 1 | 3 |  |  |  |
-| Urinary tract infection |  |  |  | 1 | 2 |
-| Vascular (Extracardiac) Disorders |  |  |  |  |  |
-| Flushing | 0 | 5 |  |  |  |
+Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Group, in Monotherapy Epilepsy Trials in Adult and Pediatric Patients
 
-*Percentages calculated with the number of subjects in each group as denominator
-
-†N with Female Reproductive Disorders – Incidence calculated relative to the number of females; Pediatric TPM 50 mg n=40; Pediatric TPM 400 mg n=33; Adult TPM 50 mg n=84; TPM 400 mg n=80
+|  | Age Group |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Pediatric (6 to 15 Years) |  | Adult (Age > 16 Years) |  |
+|  | Topiramate Daily Dosage Group (mg/day) |  |  |  |
+|  | 50 | 400 | 50 | 400 |
+|  | (N=74) % | (N=77) % | (N=160) % | (N=159) % |
+| Body SystemAdverse Reaction |  |  |  |  |
+| Body as a whole-General Disorders |  |  |  |  |
+| Asthenia | 0 | 3 | 4 | 6 |
+| Fever | 1 | 12 |  |  |
+| Leg pain |  |  | 2 | 3 |
+| Central & Peripheral Nervous System Disorders |  |  |  |  |
+| Paresthesia | 3 | 12 | 21 | 40 |
+| Dizziness |  |  | 13 | 14 |
+| Ataxia |  |  | 3 | 4 |
+| Hypoesthesia |  |  | 4 | 5 |
+| Hypertonia |  |  | 0 | 3 |
+| Involuntary muscle contractions | 0 | 3 |  |  |
+| Vertigo | 0 | 3 |  |  |
+| Gastro-Intestinal System Disorders |  |  |  |  |
+| Constipation |  |  | 1 | 4 |
+| Diarrhea | 8 | 9 |  |  |
+| Gastritis |  |  | 0 | 3 |
+| Dry mouth |  |  | 1 | 3 |
+| Liver and Biliary System Disorders |  |  |  |  |
+| Increase in Gamma-GT |  |  | 1 | 3 |
+| Metabolic and Nutritional Disorders |  |  |  |  |
+| Weight loss | 7 | 17 | 6 | 17 |
+| Platelet, Bleeding & Clotting Disorders |  |  |  |  |
+| Epistaxis | 0 | 4 |  |  |
+| Psychiatric disorders |  |  |  |  |
+| Anorexia |  |  | 4 | 14 |
+| Anxiety |  |  | 4 | 6 |
+| Cognitive problems | 1 | 6 | 1 | 4 |
+| Confusion | 0 | 3 |  |  |
+| Depression | 0 | 3 | 7 | 9 |
+| Difficulty with concentration or attention | 7 | 10 | 7 | 8 |
+| Difficulty with memory | 1 | 3 | 6 | 11 |
+| Insomnia |  |  | 8 | 9 |
+| Decreased in libido |  |  | 0 | 3 |
+| Mood problems | 1 | 8 | 2 | 5 |
+| Personality disorder (behavior problems) | 0 | 3 |  |  |
+| Psychomotor slowing |  |  | 3 | 5 |
+| Somnolence |  |  | 10 | 15 |
+| Red Blood Cell Disorders |  |  |  |  |
+| Anemia | 1 | 3 |  |  |
+| Reproductive Disorders, Female |  |  |  |  |
+| Intermenstrual bleeding | 0 | 3 |  |  |
+| Vaginal hemorrhage |  |  | 0 | 3 |
+| Resistance Mechanism Disorders |  |  |  |  |
+| Infection | 3 | 8 | 2 | 3 |
+| Viral infection | 3 | 6 | 6 | 8 |
+| Respiratory System Disorders |  |  |  |  |
+| Bronchitis | 1 | 5 | 3 | 4 |
+| Upper respiratory tract infection | 16 | 18 |  |  |
+| Rhinitis | 5 | 6 | 2 | 4 |
+| Sinusitis | 1 | 4 |  |  |
+| Skin and Appendages Disorders |  |  |  |  |
+| Alopecia | 1 | 4 | 3 | 4 |
+| Pruritus |  |  | 1 | 4 |
+| Rash | 3 | 4 | 1 | 4 |
+| Acne |  |  | 2 | 3 |
+| Special Senses Other, Disorders |  |  |  |  |
+| Taste perversion |  |  | 3 | 5 |
+| Urinary System Disorders |  |  |  |  |
+| Cystitis |  |  | 1 | 3 |
+| Dysuria |  |  | 0 | 2 |
+| Micturition frequency | 0 | 3 | 0 | 2 |
+| Renal calculus |  |  | 0 | 3 |
+| Urinary incontinence | 1 | 3 |  |  |
+| Vascular (Extracardiac) Disorders |  |  |  |  |
+| Flushing | 0 | 5 |  |  |
 
 Adjunctive Therapy Epilepsy
 
-The most commonly observed adverse reactions associated with the use of topiramate at dosages of 200 to 400 mg/day (recommended dose range) in controlled trials in adults with partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome, that were seen at an incidence higher (≥ 5%) than in the placebo group were: somnolence, weight decrease, anorexia, dizziness, ataxia, speech disorders and related speech problems, language problems, psychomotor slowing, confusion, abnormal vision, difficulty with memory, paresthesia, diplopia, nervousness, and asthenia (see Table 5).
+Adults 16 Years of Age and Older
 
-Dose-related adverse reactions at dosages of 200 to 1,000 mg/day are shown in Table 7.
+In pooled controlled clinical trials in adults with partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome, 183 patients received adjunctive therapy with topiramate at dosages of 200 to 400 mg/day (recommended dosage range) and 291 patients received placebo.
+Patients in these trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo.
 
-The most commonly observed adverse reactions associated with the use of topiramate at dosages of 5 to 9 mg/kg/day in controlled trials in pediatric patients with partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome, that were seen at an incidence higher (≥ 5%) than in the placebo group were: fatigue, somnolence, anorexia, nervousness, difficulty with concentration/attention, difficulty with memory, aggressive reaction, and weight decrease (see Table 8).
-Table 8 also presents the incidence of adverse reactions occurring in at least 1% of pediatric patients treated with topiramate and occurring with greater incidence than placebo.
+The most common adverse reactions in the controlled clinical trial that occurred in adult patients in the 200 to 400 mg/day topiramate group with an incidence higher (≥ 10 %) than in the placebo group were: dizziness, speech disorders/related speech problems, somnolence, nervousness, psychomotor slowing, and vision abnormal (Table 6).
+
+Table 6 presents the incidence of adverse reactions occurring in at least 3% of adult patients treated with 200 to 400 mg/day topiramate and was greater than placebo incidence.
+The incidence of some adverse reactions (e.g., fatigue, dizziness, paresthesia, language problems, psychomotor slowing, depression, difficulty with concentration/attention, mood problems) was dose-related and much greater at higher than recommended topiramate dosing (i.e., 600 mg to 1000 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (200 mg to 400 mg daily) range.
+
+| Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Add-On Epilepsy Trials in Adultsa |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Body System Adverse Reaction | Placebo (N=291) | Topiramate Dosage (mg/day) 200 to 400 (N=183) |  |  |  |  |  |
+| Body as a Whole-General Disorders |  |  |  |  |  |  |  |
+| Fatigue | 13 | 15 |  |  |  |  |  |
+| Asthenia | 1 | 6 |  |  |  |  |  |
+| Back pain | 4 | 5 |  |  |  |  |  |
+| Chest pain | 3 | 4 |  |  |  |  |  |
+| Influenza-like symptoms | 2 | 3 |  |  |  |  |  |
+| Central & Peripheral Nervous System Disorders |  |  |  |  |  |  |  |
+| Dizziness | 15 | 25 |  |  |  |  |  |
+| Ataxia | 7 | 16 |  |  |  |  |  |
+| Speech disorders/Related speech problems | 2 | 13 |  |  |  |  |  |
+| Paresthesia | 4 | 11 |  |  |  |  |  |
+| Nystagmus | 7 | 10 |  |  |  |  |  |
+| Tremor | 6 | 9 |  |  |  |  |  |
+| Language problems | 1 | 6 |  |  |  |  |  |
+| Coordination abnormal | 2 | 4 |  |  |  |  |  |
+| Gait abnormal | 1 | 3 |  |  |  |  |  |
+| Gastro-Intestinal System Disorders |  |  |  |  |  |  |  |
+| Nausea | 8 | 10 |  |  |  |  |  |
+| Dyspepsia | 6 | 7 |  |  |  |  |  |
+| Abdominal pain | 4 | 6 |  |  |  |  |  |
+| Constipation | 2 | 4 |  |  |  |  |  |
+| Metabolic and Nutritional Disorders |  |  |  |  |  |  |  |
+| Weight loss | 3 | 9 |  |  |  |  |  |
+| Psychiatric Disorders |  |  |  |  |  |  |  |
+| Somnolence | 12 | 29 |  |  |  |  |  |
+| Nervousness | 6 | 16 |  |  |  |  |  |
+| Psychomotor slowing | 2 | 13 |  |  |  |  |  |
+| Difficulty with memory | 3 | 12 |  |  |  |  |  |
+| Anorexia | 4 | 10 |  |  |  |  |  |
+| Confusion | 5 | 11 |  |  |  |  |  |
+| Difficulty with concentration/attention | 2 | 6 |  |  |  |  |  |
+| Mood problems | 2 | 4 |  |  |  |  |  |
+| Agitation | 2 | 3 |  |  |  |  |  |
+| Aggressive reaction | 2 | 3 |  |  |  |  |  |
+| Emotional lability | 1 | 3 |  |  |  |  |  |
+| Cognitive problems | 1 | 3 |  |  |  |  |  |
+| Breast pain | 2 | 4 |  |  |  |  |  |
+| Respiratory System Disorders |  |  |  |  |  |  |  |
+| Pharyngitis | 2 | 6 |  |  |  |  |  |
+| Rhinitis | 6 | 7 |  |  |  |  |  |
+| Sinusitis | 4 | 5 |  |  |  |  |  |
+| Vision Disorders |  |  |  |  |  |  |  |
+| Vision abnormal | 2 | 13 |  |  |  |  |  |
+| Diplopia | 5 | 10 |  |  |  |  |  |
+| a Patients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo. |  |  |  |  |  |  |  |
 
 In controlled clinical trials in adults, 11% of patients receiving topiramate 200 to 400 mg/day as adjunctive therapy discontinued due to adverse reactions.
 This rate appeared to increase at dosages above 400 mg/day.
-Adverse reactions associated with discontinuing therapy included somnolence, dizziness, anxiety, difficulty with concentration or attention, fatigue, and paresthesia and increased at dosages above 400 mg/day.
+Adverse reactions associated with discontinuing topiramate included somnolence, dizziness, anxiety, difficulty with concentration or attention, fatigue, and paresthesia and increased at dosages above 400 mg/day.
+
+Pediatric Patients 2 to 15 Years of Age
+
+In pooled, controlled clinical trials in pediatric patients (2 to 15 years of age) with partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome, 98 patients received adjunctive therapy with topiramate at dosages of 5 to 9 mg/kg/day (recommended dose range) and 101 patients received placebo.
+
+The most common adverse reactions in the controlled clinical trial that occurred in pediatric patients in the 5 mg to 9 mg/kg/day topiramate group with an incidence higher (≥ 10 %) than in the placebo group were: fatigue and somnolence (Table 7).
+
+Table 7 presents the incidence of adverse reactions that occurred in at least 3% of pediatric patients 2 to 15 years of age receiving 5 mg to 9 mg/kg/day (recommended dose range) of topiramate and was greater than placebo incidence.
+
+Table 7: Adverse Reactions in Pooled Placebo-Controlled, Add-On Epilepsy Trials in Pediatric Patients 2 to 15 Years of Agea,b
+
+|  | Placebo | Topiramate |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Body System / Adverse Reaction | (N=101) % | (N=98) % |  |  |  |  |  |  |  |  |
+| Body as a Whole-General Disorders |  |  |  |  |  |  |  |  |  |  |
+| Fatigue | 5 | 16 |  |  |  |  |  |  |  |  |
+| Injury | 13 | 14 |  |  |  |  |  |  |  |  |
+| Central & Peripheral Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |
+| Gait abnormal | 5 | 8 |  |  |  |  |  |  |  |  |
+| Ataxia | 2 | 6 |  |  |  |  |  |  |  |  |
+| Hyperkinesia | 4 | 5 |  |  |  |  |  |  |  |  |
+| Dizziness | 2 | 4 |  |  |  |  |  |  |  |  |
+| Speech disorders/Related speech problems | 2 | 4 |  |  |  |  |  |  |  |  |
+| Gastro-Intestinal System Disorders |  |  |  |  |  |  |  |  |  |  |
+| Nausea | 5 | 6 |  |  |  |  |  |  |  |  |
+| Saliva increased | 4 | 6 |  |  |  |  |  |  |  |  |
+| Constipation | 4 | 5 |  |  |  |  |  |  |  |  |
+| Gastroenteritis | 2 | 3 |  |  |  |  |  |  |  |  |
+| Metabolic and Nutritional Disorders |  |  |  |  |  |  |  |  |  |  |
+| Weight loss | 1 | 9 |  |  |  |  |  |  |  |  |
+| Platelet, Bleeding & Clotting Disorders |  |  |  |  |  |  |  |  |  |  |
+| Purpura | 4 | 8 |  |  |  |  |  |  |  |  |
+| Epistaxis | 1 | 4 |  |  |  |  |  |  |  |  |
+| Psychiatric Disorders |  |  |  |  |  |  |  |  |  |  |
+| Somnolence | 16 | 26 |  |  |  |  |  |  |  |  |
+| Anorexia | 15 | 24 |  |  |  |  |  |  |  |  |
+| Nervousness | 7 | 14 |  |  |  |  |  |  |  |  |
+| Personality disorder (behavior problems) | 9 | 11 |  |  |  |  |  |  |  |  |
+| Difficulty with concentration/attention | 2 | 10 |  |  |  |  |  |  |  |  |
+| Aggressive reaction | 4 | 9 |  |  |  |  |  |  |  |  |
+| Insomnia | 7 | 8 |  |  |  |  |  |  |  |  |
+| Difficulty with memory | 0 | 5 |  |  |  |  |  |  |  |  |
+| Confusion | 3 | 4 |  |  |  |  |  |  |  |  |
+| Psychomotor slowing | 2 | 3 |  |  |  |  |  |  |  |  |
+| Resistance Mechanism Disorders |  |  |  |  |  |  |  |  |  |  |
+| Infection viral | 3 | 7 |  |  |  |  |  |  |  |  |
+| Respiratory System Disorders |  |  |  |  |  |  |  |  |  |  |
+| Pneumonia | 1 | 5 |  |  |  |  |  |  |  |  |
+| Skin and Appendages Disorders |  |  |  |  |  |  |  |  |  |  |
+| Skin disorder | 2 | 3 |  |  |  |  |  |  |  |  |
+| Urinary System Disorders |  |  |  |  |  |  |  |  |  |  |
+| Urinary incontinence | 2 | 4 |  |  |  |  |  |  |  |  |
+| a Patients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo. |  |  |  |  |  |  |  |  |  |  |
+| b Values represent the percentage of patients reporting a given adverse reaction. Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category. |  |  |  |  |  |  |  |  |  |  |
+
 None of the pediatric patients who received topiramate adjunctive therapy at 5 to 9 mg/kg/day in controlled clinical trials discontinued due to adverse reactions.
 
-Approximately 28% of the 1757 adults with epilepsy who received topiramate at dosages of 200 to 1,600 mg/day in clinical studies discontinued treatment because of adverse reactions; an individual patient could have reported more than one adverse reaction.
-These adverse reactions were psychomotor slowing (4.0%), difficulty with memory (3.2%), fatigue (3.2%), confusion (3.1%), somnolence (3.2%), difficulty with concentration/attention (2.9%), anorexia (2.7%), depression (2.6%), dizziness (2.5%), weight decrease (2.5%), nervousness (2.3%), ataxia (2.1%), and paresthesia (2.0%).
-Approximately 11% of the 310 pediatric patients who received topiramate at dosages up to 30 mg/kg/day discontinued due to adverse reactions.
-Adverse reactions associated with discontinuing therapy included aggravated convulsions (2.3%), difficulty with concentration/attention (1.6%), language problems (1.3%), personality disorder (1.3%), and somnolence (1.3%).
+Migraine
 
-Incidence in Epilepsy Controlled Clinical Trials – Adjunctive Therapy – Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, and Lennox-Gastaut Syndrome
+Adults
 
-Table 5 lists the incidence of adverse reactions that occurred in at least 1% of adults treated with 200 to 400 mg/day topiramate (and also higher daily dosing of 600 mg to 1000 mg) in controlled trials and that was numerically greater with topiramate than with placebo.
-In general, most patients who experienced adverse reactions during the first eight weeks of these trials no longer experienced them by their last visit.
-Table 8 lists the incidence of treatment-emergent adverse reactions that occurred in at least 1% of pediatric patients treated with 5 to 9 mg/kg topiramate in controlled trials and that was numerically greater than the incidence in patients treated with placebo.
+In the four multicenter, randomized, double-blind, placebo-controlled, parallel group migraine prophylaxis clinical trials (which included 35 pediatric patients 12 to 15 years of age), most adverse reactions occurred more frequently during the titration period than during the maintenance period.
 
-The prescriber should be aware that these data were obtained when topiramate was added to concurrent antiepileptic drug therapy and cannot be used to predict the frequency of adverse reactions in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
-Similarly, the cited frequencies cannot be directly compared with data obtained from other clinical investigations involving different treatments, uses, or investigators.
-Inspection of these frequencies, however, does provide the prescribing physician with a basis to estimate the relative contribution of drug and non-drug factors to the adverse reaction incidences in the population studied.
+The most common adverse reactions with topiramate 100 mg in migraine prophylaxis clinical trials of predominantly adults that were seen at an incidence higher (≥ 5 %) than in the placebo group were: paresthesia, anorexia, weight loss, taste perversion, diarrhea, difficulty with memory, hypoesthesia, and nausea (see Table 8).
 
-Other Adverse Reactions Observed During Double-Blind Epilepsy Adjunctive Therapy Trials
+Table 8 includes those adverse reactions that occurred in the placebo-controlled trials where the incidence in any topiramate treatment group was at least 3% and was greater than that for placebo patients.
+The incidence of some adverse reactions (e.g., fatigue, dizziness, somnolence, difficulty with memory, difficulty with concentration/attention) was dose-related and greater at higher than recommended topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
 
-Other adverse reactions that occurred in more than 1% of adults treated with 200 to 400 mg of topiramate in placebo-controlled epilepsy trials but with equal or greater frequency in the placebo group were headache, injury, anxiety, rash, pain, convulsions aggravated, coughing, fever, diarrhea, vomiting, muscle weakness, insomnia, personality disorder, dysmenorrhea, upper respiratory tract infection, and eye pain.
+| Table 8: Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in Adultsa, b |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Topiramate Dosage (mg/day) |  |  |  |  |  |  |  |  |  |  |  |  |
+| Body System/ Adverse Reaction | Placebo (N=445) % | 50 (N=235) % | 100 (N=386) % |  |  |  |  |  |  |  |  |  |  |  |
+| Body as a Whole-General Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fatigue | 11 | 14 | 15 |  |  |  |  |  |  |  |  |  |  |  |
+| Injury | 7 | 9 | 6 |  |  |  |  |  |  |  |  |  |  |  |
+| Central & Peripheral Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Paresthesia | 6 | 35 | 51 |  |  |  |  |  |  |  |  |  |  |  |
+| Dizziness | 10 | 8 | 9 |  |  |  |  |  |  |  |  |  |  |  |
+| Hypoesthesia | 2 | 6 | 7 |  |  |  |  |  |  |  |  |  |  |  |
+| Language problems | 2 | 7 | 6 |  |  |  |  |  |  |  |  |  |  |  |
+| Gastro-Intestinal System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nausea | 8 | 9 | 13 |  |  |  |  |  |  |  |  |  |  |  |
+| Diarrhea | 4 | 9 | 11 |  |  |  |  |  |  |  |  |  |  |  |
+| Abdominal pain | 5 | 6 | 6 |  |  |  |  |  |  |  |  |  |  |  |
+| Dyspepsia | 3 | 4 | 5 |  |  |  |  |  |  |  |  |  |  |  |
+| Dry mouth | 2 | 2 | 3 |  |  |  |  |  |  |  |  |  |  |  |
+| Gastroenteritis | 1 | 3 | 3 |  |  |  |  |  |  |  |  |  |  |  |
+| Metabolic and Nutritional Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Weight loss | 1 | 6 | 9 |  |  |  |  |  |  |  |  |  |  |  |
+| Musculoskeletal System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Arthralgia | 2 | 7 | 3 |  |  |  |  |  |  |  |  |  |  |  |
+| Psychiatric Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Anorexia | 6 | 9 | 15 |  |  |  |  |  |  |  |  |  |  |  |
+| Somnolence | 5 | 8 | 7 |  |  |  |  |  |  |  |  |  |  |  |
+| Difficulty with memory | 2 | 7 | 7 |  |  |  |  |  |  |  |  |  |  |  |
+| Insomnia | 5 | 6 | 7 |  |  |  |  |  |  |  |  |  |  |  |
+| Difficulty with concentration/attention | 2 | 3 | 6 |  |  |  |  |  |  |  |  |  |  |  |
+| Mood problems | 2 | 3 | 6 |  |  |  |  |  |  |  |  |  |  |  |
+| Anxiety | 3 | 4 | 5 |  |  |  |  |  |  |  |  |  |  |  |
+| Depression | 4 | 3 | 4 |  |  |  |  |  |  |  |  |  |  |  |
+| Nervousness | 2 | 4 | 4 |  |  |  |  |  |  |  |  |  |  |  |
+| Confusion | 2 | 2 | 3 |  |  |  |  |  |  |  |  |  |  |  |
+| Psychomotor slowing | 1 | 3 | 2 |  |  |  |  |  |  |  |  |  |  |  |
+| Reproductive Disorders, Female |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Menstrual disorder | 2 | 3 | 2 |  |  |  |  |  |  |  |  |  |  |  |
+| Reproductive Disorders, Male |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ejaculation premature | 0 | 3 | 0 |  |  |  |  |  |  |  |  |  |  |  |
+| Resistance Mechanism Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Viral infection | 3 | 4 | 4 |  |  |  |  |  |  |  |  |  |  |  |
+| Respiratory System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Upper respiratory tract infection | 12 | 13 | 14 |  |  |  |  |  |  |  |  |  |  |  |
+| Sinusitis | 6 | 10 | 6 |  |  |  |  |  |  |  |  |  |  |  |
+| Pharyngitis | 4 | 5 | 6 |  |  |  |  |  |  |  |  |  |  |  |
+| Coughing | 2 | 2 | 4 |  |  |  |  |  |  |  |  |  |  |  |
+| Bronchitis | 2 | 3 | 3 |  |  |  |  |  |  |  |  |  |  |  |
+| Dyspnea | 2 | 1 | 3 |  |  |  |  |  |  |  |  |  |  |  |
+| Skin and Appendages Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pruritis | 2 | 4 | 2 |  |  |  |  |  |  |  |  |  |  |  |
+| Special Sense Other, Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Taste perversion | 1 | 15 | 8 |  |  |  |  |  |  |  |  |  |  |  |
+| Urinary System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Urinary tract infection | 2 | 4 | 2 |  |  |  |  |  |  |  |  |  |  |  |
+| Vision Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Blurred visionc | 2 | 4 | 2 |  |  |  |  |  |  |  |  |  |  |  |
+| a Includes 35 adolescent patients age 12 to 15 years. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| b Values represent the percentage of patients reporting a given adverse reaction. Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| c Blurred vision was the most common term considered as vision abnormal. Blurred vision was an included term that accounted for >50% of reactions coded as vision abnormal, a preferred term. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Table 5: Incidence of Treatment-Emergent Adverse Reactions in Placebo-Controlled, Add-On Epilepsy Trials in Adultsa,b Where Incidence Was >1% in Any Topiramate Group and Greater Than the Incidence in Placebo-Treated Patients
+Of the 1,135 patients exposed to topiramate in the adult placebo-controlled studies, 25% of topiramate-treated patients discontinued due to adverse reactions, compared to 10% of the 445 placebo-treated patients.
+The adverse reactions associated with discontinuing therapy in the topiramate-treated patients included paresthesia (7%), fatigue (4%), nausea (4%), difficulty with concentration/attention (3%), insomnia (3%), anorexia (2%), and dizziness (2%).
 
-|  | Topiramate Dosage (mg/day) |  |  |
-| --- | --- | --- | --- |
-| Body System Adverse Reactionc | Placebo | 200 to 400 | 600 to 1,000 |
-| (N=291) | (N=183) | (N=414) |  |
-| Body as a Whole-General Disorders |  |  |  |
-| Fatigue | 13 | 15 | 30 |
-| Asthenia | 1 | 6 | 3 |
-| Back pain | 4 | 5 | 3 |
-| Chest pain | 3 | 4 | 2 |
-| Influenza-like symptoms | 2 | 3 | 4 |
-| Leg pain | 2 | 2 | 4 |
-| Hot flushes | 1 | 2 | 1 |
-| Allergy | 1 | 2 | 3 |
-| Edema | 1 | 2 | 1 |
-| Body odor | 0 | 1 | 0 |
-| Rigors | 0 | 1 | <1 |
-| Central & Peripheral Nervous System Disorders |  |  |  |
-| Dizziness | 15 | 25 | 32 |
-| Ataxia | 7 | 16 | 14 |
-| Speech disorders/Related speech problems | 2 | 13 | 11 |
-| Paresthesia | 4 | 11 | 19 |
-| Nystagmus | 7 | 10 | 11 |
-| Tremor | 6 | 9 | 9 |
-| Language problems | 1 | 6 | 10 |
-| Coordination abnormal | 2 | 4 | 4 |
-| Hypoesthesia | 1 | 2 | 1 |
-| Gait abnormal | 1 | 3 | 2 |
-| Muscle contractions involuntary | 1 | 2 | 2 |
-| Stupor | 0 | 2 | 1 |
-| Vertigo | 1 | 1 | 2 |
-| Gastro-Intestinal System Disorders |  |  |  |
-| Nausea | 8 | 10 | 12 |
-| Dyspepsia | 6 | 7 | 6 |
-| Abdominal pain | 4 | 6 | 7 |
-| Constipation | 2 | 4 | 3 |
-| Gastroenteritis | 1 | 2 | 1 |
-| Dry mouth | 1 | 2 | 4 |
-| Gingivitis | <1 | 1 | 1 |
-| GI disorder | <1 | 1 | 0 |
-| Hearing and Vestibular Disorders |  |  |  |
-| Hearing decreased | 1 | 2 | 1 |
-| Metabolic and Nutritional Disorders |  |  |  |
-| Weight decrease | 3 | 9 | 13 |
-| Muscle-Skeletal System Disorders |  |  |  |
-| Myalgia | 1 | 2 | 2 |
-| Skeletal pain | 0 | 1 | 0 |
-| Platelet, Bleeding & Clotting Disorders |  |  |  |
-| Epistaxis | 1 | 2 | 1 |
-| Psychiatric disorders |  |  |  |
-| Somnolence | 12 | 29 | 28 |
-| Nervousness | 6 | 16 | 19 |
-| Psychomotor slowing | 2 | 13 | 21 |
-| Difficulty with memory | 3 | 12 | 14 |
-| Anorexia | 4 | 10 | 12 |
-| Confusion | 5 | 11 | 14 |
-| Depression | 5 | 5 | 13 |
-| Difficulty with concentration/attention | 2 | 6 | 14 |
-| Mood problems | 2 | 4 | 9 |
-| Agitation | 2 | 3 | 3 |
-| Aggressive reaction | 2 | 3 | 3 |
-| Emotional lability | 1 | 3 | 3 |
-| Cognitive problems | 1 | 3 | 3 |
-| Libido decreased | 1 | 2 | <1 |
-| Apathy | 1 | 1 | 3 |
-| Depersonalization | 1 | 1 | 2 |
-| Reproductive Disorders, Female |  |  |  |
-| Breast pain | 2 | 4 | 0 |
-| Amenorrhea | 1 | 2 | 2 |
-| Menorrhagia | 0 | 2 | 1 |
-| Menstrual disorder | 1 | 2 | 1 |
-| Reproductive Disorders, Male |  |  |  |
-| Prostatic disorder | <1 | 2 | 0 |
-| Resistance Mechanism Disorders |  |  |  |
-| Infection | 1 | 2 | 1 |
-| Infection viral | 1 | 2 | <1 |
-| Moniliasis | <1 | 1 | 0 |
-| Respiratory System Disorders |  |  |  |
-| Pharyngitis | 2 | 6 | 3 |
-| Rhinitis | 6 | 7 | 6 |
-| Sinusitis | 4 | 5 | 6 |
-| Dyspnea | 1 | 1 | 2 |
-| Skin and Appendages Disorders |  |  |  |
-| Skin disorder | <1 | 2 | 1 |
-| Sweating increased | <1 | 1 | <1 |
-| Rash erythematous | <1 | 1 | <1 |
-| Special Sense Other, Disorders |  |  |  |
-| Taste perversion | 0 | 2 | 4 |
-| Urinary System Disorders |  |  |  |
-| Hematuria | 1 | 2 | <1 |
-| Urinary tract infection | 1 | 2 | 3 |
-| Micturition frequency | 1 | 1 | 2 |
-| Urinary incontinence | <1 | 2 | 1 |
-| Urine abnormal | 0 | 1 | <1 |
-| Vision Disorders |  |  |  |
-| Vision abnormal | 2 | 13 | 10 |
-| Diplopia | 5 | 10 | 10 |
-| White Cell and RES Disorders |  |  |  |
-| Leukopenia | 1 | 2 | 1 |
+Patients treated with topiramate experienced mean percent reductions in body weight that were dose-dependent.
+This change was not seen in the placebo group.
+Mean changes of 0%, -2%, -3%, and -4% were seen for the placebo group, topiramate 50, 100, and 200 mg groups, respectively.
 
-aPatients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo. b Values represent the percentage of patients reporting a given adverse reaction.
-Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category. c Adverse reactions reported by at least 1% of patients in the topiramate 200 to 400 mg/day group and more common than in the placebo group are listed in this table.
+Pediatric Patients 12 to 17 Years of Age
 
-Incidence in Study 119 – Add-On Therapy– Adults with Partial Onset Seizures
+In five, randomized, double-blind, placebo-controlled, parallel group migraine prophylaxis clinical trials, most adverse reactions occurred more frequently during the titration period than during the maintenance period.
+Among adverse reactions with onset during titration, approximately half persisted into the maintenance period.
 
-Study 119 was a randomized, double-blind, add-on/adjunctive, placebo-controlled, parallel group study with 3 treatment arms: 1) placebo; 2) topiramate 200 mg/day with a 25 mg/day starting dose, increased by 25 mg/day each week for 8 weeks until the 200 mg/day maintenance dose was reached; and 3) topiramate 200 mg/day with a 50 mg/day starting dose, increased by 50 mg/day each week for 4 weeks until the 200 mg/day maintenance dose was reached.
-All patients were maintained on concomitant carbamazepine with or without another concomitant antiepileptic drug.
+In four, fixed-dose, double-blind migraine prophylaxis clinical trials in topiramate-treated pediatric patients 12 to 17 years of age, the most common adverse reactions with topiramate 100 mg that were seen at an incidence higher (≥5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain (see Table 9).
+Table 9 shows adverse reactions from the pediatric trial (Study 12 [see Clinical Studies (14.3)]) in which 103 pediatric patients were treated with placebo or 50 mg or 100 mg of topiramate, and three predominantly adult trials in which 49 pediatric patients (12 to 17 years of age) were treated with placebo or 50 mg, 100 mg or 200 mg of topiramate.
+Table 9 also shows adverse reactions in pediatric patients in the controlled migraine trials when the incidence in a topiramate dose group was at least 5 % or higher and greater than the incidence of placebo.
+Many adverse reactions shown in Table 9 indicate a dose-dependent relationship.
+The incidence of some adverse reactions (e.g., allergy, fatigue, headache, anorexia, insomnia, somnolence, and viral infection) was dose-related and greater at higher than recommended topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
 
-The most commonly observed adverse reactions associated with the use of topiramate that were seen at an incidence higher (≥ 5%) than in the placebo group were: paresthesia, nervousness, somnolence, difficulty with concentration/attention, and fatigue (see Table 6).
-Because these topiramate treatment difference incidence (topiramate % -Placebo %) of many adverse reactions reported in this study were markedly lower than those reported in the previous epilepsy studies, they cannot be directly compared with data obtained in other studies.
+Table 9: Adverse Reactions in Pooled Double-Blind Migraine Prophylaxis Studies in Pediatric Patients 12 to 17 Years of Agea,b,c
 
-Table 6: Incidence of Treatment-Emergent Adverse Reactions in Study 119a,b Where Incidence Was ≥ 2% in the Topiramate Group and Greater Than the Rate in Placebo-Treated Patients
+|  |  | Topiramate Dosage |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Body System/ Adverse Reaction | Placebo (N=45) % | 50 mg/day (N=46) % | 100 mg/day (N=48) % |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Body as a Whole-General Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fatigue | 7 | 7 | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fever | 2 | 4 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Central & Peripheral Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Paresthesia | 7 | 20 | 19 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dizziness | 4 | 4 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Gastrointestinal System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Abdominal pain | 9 | 7 | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nausea | 4 | 4 | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metabolic and Nutritional Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Weight loss | 2 | 7 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Psychiatric Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Anorexia | 4 | 9 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Insomnia | 2 | 9 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Somnolence | 2 | 2 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Resistance Mechanism Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Infection viral | 4 | 4 | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Respiratory System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Upper respiratory tract infection | 11 | 26 | 23 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rhinitis | 2 | 7 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Sinusitis | 2 | 9 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Coughing | 0 | 7 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Special Sense Other, Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Taste perversion | 2 | 2 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vision Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Conjunctivitis | 4 | 7 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a 35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults (Tables 10 and 11) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| b Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| c Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | Topiramate Dosage (mg/day) |
-| --- | --- | --- |
-| Body System/ | Placebo | 200 |
-| Adverse Reactionc | (N=92) | (N=171) |
-| Body as a Whole-General Disorders |  |  |
-| Fatigue | 4 | 9 |
-| Chest pain | 1 | 2 |
-| Cardiovascular Disorders, General |  |  |
-| Hypertension | 0 | 2 |
-| Central & Peripheral Nervous System Disorders |  |  |
-| Paresthesia | 2 | 9 |
-| Dizziness | 4 | 7 |
-| Tremor | 2 | 3 |
-| Hypoesthesia | 0 | 2 |
-| Leg cramps | 0 | 2 |
-| Language problems | 0 | 2 |
-| Gastro-Intestinal System Disorders |  |  |
-| Abdominal pain | 3 | 5 |
-| Constipation | 0 | 4 |
-| Diarrhea | 1 | 2 |
-| Dyspepsia | 0 | 2 |
-| Dry mouth | 0 | 2 |
-| Hearing and Vestibular Disorders |  |  |
-| Tinnitus | 0 | 2 |
-| Metabolic and Nutritional Disorders |  |  |
-| Weight decrease | 4 | 8 |
-| Psychiatric Disorders |  |  |
-| Somnolence | 9 | 15 |
-| Anorexia | 7 | 9 |
-| Nervousness | 2 | 9 |
-| Difficulty with concentration/attention | 0 | 5 |
-| Insomnia | 3 | 4 |
-| Difficulty with memory | 1 | 2 |
-| Aggressive reaction | 0 | 2 |
-| Respiratory System Disorders |  |  |
-| Rhinitis | 0 | 4 |
-| Urinary System Disorders |  |  |
-| Cystitis | 0 | 2 |
-| Vision Disorders |  |  |
-| Diplopia | 0 | 2 |
-| Vision Abnormal | 0 | 2 |
+In the double-blind placebo-controlled studies, adverse reactions led to discontinuation of treatment in 8% of placebo patients compared with 6% of topiramate-treated patients.
+Adverse reactions associated with discontinuing therapy that occurred in more than one topiramate-treated patient were fatigue (1%), headache (1%), and somnolence (1%).
 
-aPatients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo. b Values represent the percentage of patients reporting a given adverse reaction.
-Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category. c Adverse reactions reported by at least 2% of patients in the topiramate 200 mg/day group and more common than in the placebo group are listed in this table.
+Increased Risk for Bleeding
 
-Table 7: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled, Add-On Trials in Adults With Partial Onset Seizuresa
+Topiramate is associated with an increased risk for bleeding.
+In a pooled analysis of placebo-controlled studies of approved and unapproved indications, bleeding was more frequently reported as an adverse reaction for topiramate than for placebo (4.5% versus 3.0% in adult patients, and 4.4% versus 2.3% in pediatric patients).
+In this analysis, the incidence of serious bleeding events for topiramate and placebo was 0.3% versus 0.2% for adult patients, and 0.4% versus 0% for pediatric patients.
 
-|  | Topiramate Dosage (mg/day) |  |  |  |
-| --- | --- | --- | --- | --- |
-| Adverse Reaction | Placebo | 200 | 400 | 600 to 1,000 |
-| (N=216)% | (N=45)% | (N=68)% | (N=414)% |  |
-| Fatigue | 13 | 11 | 12 | 30 |
-| Nervousness | 7 | 13 | 18 | 19 |
-| Difficulty with concentration/attention | 1 | 7 | 9 | 14 |
-| Confusion | 4 | 9 | 10 | 14 |
-| Depression | 6 | 9 | 7 | 13 |
-| Anorexia | 4 | 4 | 6 | 12 |
-| Language problems | <1 | 2 | 9 | 10 |
-| Anxiety | 6 | 2 | 3 | 10 |
-| Mood problems | 2 | 0 | 6 | 9 |
-| Weight decrease | 3 | 4 | 9 | 13 |
+Adverse bleeding reactions reported with topiramate ranged from mild epistaxis, ecchymosis, and increased menstrual bleeding to life-threatening hemorrhages.
+In patients with serious bleeding events, conditions that increased the risk for bleeding were often present, or patients were often taking drugs that cause thrombocytopenia (other antiepileptic drugs) or affect platelet function or coagulation (e.g., aspirin, nonsteroidal anti-inflammatory drugs, selective serotonin reuptake inhibitors, or warfarin or other anticoagulants).
 
-aDose-response studies were not conducted for other adult indications or for pediatric indications.
+Other Adverse Reactions Observed During Clinical Trials
 
-Table 8: Incidence (%) of Treatment-Emergent Adverse Reactions in Placebo-Controlled, Add-On Epilepsy Trials in Pediatric Patients (Ages 2 to 16 Years)a,b (Reactions That Occurred in at Least 1% of Topiramate-Treated Patients and Occurred More Frequently in Topiramate-Treated Than Placebo-Treated Patients)
+Other adverse reactions seen during clinical trials were: abnormal coordination, eosinophilia, gingival bleeding, hematuria, hypotension, myalgia, myopia, postural hypotension, scotoma, suicide attempt, syncope, and visual field defect.
 
-|  | Placebo | Topiramate |
-| --- | --- | --- |
-| Body System/ Adverse Reaction | (N=101)% | (N=98)% |
-| Body as a Whole-General Disorders |  |  |
-| Fatigue | 5 | 16 |
-| Injury | 13 | 14 |
-| Allergic reaction | 1 | 2 |
-| Back pain | 0 | 1 |
-| Pallor | 0 | 1 |
-| Cardiovascular Disorders, General |  |  |
-| Hypertension | 0 | 1 |
-| Central & Peripheral Nervous System Disorders |  |  |
-| Gait abnormal | 5 | 8 |
-| Ataxia | 2 | 6 |
-| Hyperkinesia | 4 | 5 |
-| Dizziness | 2 | 4 |
-| Speech disorders/Related speech problems | 2 | 4 |
-| Hyporeflexia | 0 | 2 |
-| Convulsions grand mal | 0 | 1 |
-| Fecal incontinence | 0 | 1 |
-| Paresthesia | 0 | 1 |
-| Gastro-Intestinal System Disorders |  |  |
-| Nausea | 5 | 6 |
-| Saliva increased | 4 | 6 |
-| Constipation | 4 | 5 |
-| Gastroenteritis | 2 | 3 |
-| Dysphagia | 0 | 1 |
-| Flatulence | 0 | 1 |
-| Gastroesophageal reflux | 0 | 1 |
-| Glossitis | 0 | 1 |
-| Gum hyperplasia | 0 | 1 |
-| Heart Rate and Rhythm Disorders |  |  |
-| Bradycardia | 0 | 1 |
-| Metabolic and Nutritional Disorders |  |  |
-| Weight decrease | 1 | 9 |
-| Thirst | 1 | 2 |
-| Hypoglycemia | 0 | 1 |
-| Weight increase | 0 | 1 |
-| Platelet, Bleeding & Clotting Disorders |  |  |
-| Purpura | 4 | 8 |
-| Epistaxis | 1 | 4 |
-| Hematoma | 0 | 1 |
-| Prothrombin increased | 0 | 1 |
-| Thrombocytopenia | 0 | 1 |
-| Psychiatric Disorders |  |  |
-| Somnolence | 16 | 26 |
-| Anorexia | 15 | 24 |
-| Nervousness | 7 | 14 |
-| Personality disorder (behavior problems) | 9 | 11 |
-| Difficulty with concentration/attention | 2 | 10 |
-| Aggressive reaction | 4 | 9 |
-| Insomnia | 7 | 8 |
-| Difficulty with memory | 0 | 5 |
-| Confusion | 3 | 4 |
-| Psychomotor slowing | 2 | 3 |
-| Appetite increased | 0 | 1 |
-| Neurosis | 0 | 1 |
-| Reproductive Disorders, Female |  |  |
-| Leukorrhea | 0 | 2 |
-| Resistance Mechanism Disorders |  |  |
-| Infection viral | 3 | 7 |
-| Respiratory System Disorders |  |  |
-| Pneumonia | 1 | 5 |
-| Respiratory disorder | 0 | 1 |
-| Skin and Appendages Disorders |  |  |
-| Skin disorder | 2 | 3 |
-| Alopecia | 1 | 2 |
-| Dermatitis | 0 | 2 |
-| Hypertrichosis | 1 | 2 |
-| Rash erythematous | 0 | 2 |
-| Eczema | 0 | 1 |
-| Seborrhea | 0 | 1 |
-| Skin discoloration | 0 | 1 |
-| Urinary System Disorders |  |  |
-| Urinary incontinence | 2 | 4 |
-| Nocturia | 0 | 1 |
-| Vision Disorders |  |  |
-| Eye abnormality | 1 | 2 |
-| Vision Abnormal | 1 | 2 |
-| Diplopia | 0 | 1 |
-| Lacrimation abnormal | 0 | 1 |
-| Myopia | 0 | 1 |
-| White Cell and RES Disorders |  |  |
-| Leukopenia | 0 | 2 |
+Laboratory Test Abnormalities
 
-aPatients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo. b Values represent the percentage of patients reporting a given adverse reaction.
-Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
+Adult Patients
 
-Other Adverse Reactions Observed During All Epilepsy Clinical Trials
+In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.9)].
+Controlled trials of adjunctive topiramate treatment of adults for partial onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% topiramate versus 2% placebo), markedly increased serum alkaline phosphatase (3% topiramate versus 1% placebo), and decreased serum potassium (0.4 % topiramate versus 0.1 % placebo).
 
-Topiramate has been administered to 2246 adults and 427 pediatric patients with epilepsy during all clinical studies, only some of which were placebo-controlled.
-During these studies, all adverse reactions were recorded by the clinical investigators using terminology of their own choosing.
-To provide a meaningful estimate of the proportion of individuals having adverse reactions, similar types of reactions were grouped into a smaller number of standardized categories using modified WHOART dictionary terminology.
-The frequencies presented represent the proportion of patients who experienced a reaction of the type cited on at least one occasion while receiving topiramate.
-Reported reactions are included except those already listed in the previous tables or text, those too general to be informative, and those not reasonably associated with the use of the drug.
+Pediatric Patients
 
-Reactions are classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent occurring in at least 1/100 patients; infrequent occurring in 1/100 to 1/1000 patients; rare occurring in fewer than 1/1000 patients.
+In pediatric patients (1 to 24 months) receiving adjunctive topiramate for partial onset seizures, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, alkaline phosphatase, and total protein, The incidence was also increased for a decreased result for bicarbonate (i.e., metabolic acidosis), and potassium with topiramate (vs placebo) [see Use in Specific Populations (8.4)].
+Topiramate is not indicated for partial onset seizures in pediatric patients less than 2 years of age.
 
-Autonomic Nervous System Disorders: Infrequent: vasodilation.
+In pediatric patients (ranging from 6 to 17 years old) receiving topiramate for migraine prophylaxis, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, uric acid, chloride, ammonia, alkaline phosphatase, total protein, platelets, and eosinophils, The incidence was also increased for a decreased result for phosphorus, bicarbonate, total white blood count, and neutrophils [see Use in Specific Populations (8.4)].
+Topiramate is not indicated for prophylaxis of migraine headache in pediatric patients less than 12 years of age.
 
-Body as a Whole: Frequent: syncope.
-Infrequent: abdomen enlarged.
-Rare: alcohol intolerance.
+## 6.2 Postmarketing Experience
 
-Cardiovascular Disorders, General: Infrequent: hypotension, postural hypotension, angina pectoris.
+The following adverse reactions have been identified during post approval use of topiramate.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Central & Peripheral Nervous System Disorders: Infrequent: neuropathy, apraxia, hyperesthesia, dyskinesia, dysphonia, scotoma, ptosis, dystonia, visual field defect, encephalopathy, EEG abnormal.
-Rare: upper motor neuron lesion, cerebellar syndrome, tongue paralysis.
+Body as a Whole-General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.9)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.11)]
 
-Gastrointestinal System Disorders: Infrequent: hemorrhoids, stomatitis, melena, gastritis, esophagitis.
-Rare: tongue edema.
+Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis
 
-Heart Rate and Rhythm Disorders: Infrequent: AV block.
+Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), pemphigus
 
-Liver and Biliary System Disorders: Infrequent: SGPT increased, SGOT increased.
+Urinary System Disorders: kidney stones [see Warnings and Precautions (5.10)]
 
-Metabolic and Nutritional Disorders: Infrequent: dehydration, hypocalcemia, hyperlipemia, hyperglycemia, xerophthalmia, diabetes mellitus.
-Rare: hypernatremia, hyponatremia, hypocholesterolemia, creatinine increased.
-
-Musculoskeletal System Disorders: Frequent: arthralgia.
-Infrequent: arthrosis.
-
-Neoplasms: Infrequent: thrombocythemia.
-Rare: polycythemia.
-
-Platelet, Bleeding, and Clotting Disorders: Infrequent: gingival bleeding, pulmonary embolism.
-
-Psychiatric Disorders: Frequent: impotence, hallucination, psychosis, suicide attempt.
-Infrequent: euphoria, paranoid reaction, delusion, paranoia, delirium, abnormal dreaming.
-Rare: libido increased, manic reaction.
-
-Red Blood Cell Disorders: Frequent: anemia.
-Rare: marrow depression, pancytopenia.
-
-Reproductive Disorders, Male: Infrequent: ejaculation disorder, breast discharge.
-
-Skin and Appendages Disorders: Infrequent: urticaria, photosensitivity reaction, abnormal hair texture.
-Rare: chloasma.
-
-Special Senses Other, Disorders: Infrequent: taste loss, parosmia.
-
-Urinary System Disorders: Infrequent: urinary retention, face edema, renal pain, albuminuria, polyuria, oliguria.
-
-Vascular (Extracardiac) Disorders: Infrequent: flushing, deep vein thrombosis, phlebitis.
-Rare: vasospasm.
-
-Vision Disorders: Frequent: conjunctivitis.
-Infrequent: abnormal accommodation, photophobia, strabismus.
-Rare: mydriasis, iritis.
-
-White Cell and Reticuloendothelial System Disorders: Infrequent: lymphadenopathy, eosinophilia, lymphopenia, granulocytopenia.
-Rare: lymphocytosis.
-
-## 6.2 Postmarketing and Other Experience
-
-In addition to the adverse experiences reported during clinical testing of topiramate, the following adverse experiences have been reported worldwide in patients receiving topiramate post-approval.
-
-These adverse experiences have not been listed above and data are insufficient to support an estimate of their incidence or to establish causation.
-The listing is alphabetized: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), hepatic failure (including fatalities), hepatitis, maculopathy, pancreatitis, and pemphigus.
+Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
