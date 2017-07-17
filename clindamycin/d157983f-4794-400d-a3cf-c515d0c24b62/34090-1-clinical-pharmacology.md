@@ -16,7 +16,7 @@ No significant levels of clindamycin are attained in the cerebrospinal fluid eve
 
 ## Metabolism
 
-In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly oxidized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
+In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly metabolized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
 
 ## Excretion
 
