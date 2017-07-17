@@ -26,7 +26,7 @@ Patients and physicians should remain alert for signs and symptoms of GI ulcerat
 This should include discontinuation of ketorolac tromethamine until a serious GI adverse event is ruled out.
 For high risk patients, alternate therapies that do not involve NSAIDs should be considered.
 
-NSAIDs should be given with care to patients with a history of inflammatory bowel disease (ulcerative colitis, Crohn’s disease) as their condition may be exacerbated.
+NSAIDs should be given with care to patients with a history of inflammatory bowel disease (ulcerative colitis, Crohn's disease) as their condition may be exacerbated.
 
 Hemorrhage
 
@@ -105,7 +105,7 @@ Blood pressure (BP) should be monitored closely during the initiation of NSAID t
 
 Heart Failure and Edema
 
-The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
@@ -178,7 +178,7 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
   Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
   Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
 - 4.Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS).
-- 5.Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
+- 5.Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
 - 6.Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
@@ -311,7 +311,7 @@ After 1 day of dosing (10 mg every 6 hours), the maximum milk concentration was 
 Assuming a daily intake of 400-1,000 mL of human milk per day and a maternal body weight of 60 kg, the calculated maximum daily infant exposure was 0.00263 mg/kg/day, which is 0.4% of the maternal weight-adjusted dose.
 
 Exercise caution when ketorolac is administered to a nursing woman.
-Available information has not shown any specific adverse events in nursing infants; however, instruct patients to contact their infant’s healthcare provider if they note any adverse events.
+Available information has not shown any specific adverse events in nursing infants; however, instruct patients to contact their infant's healthcare provider if they note any adverse events.
 
 Pediatric Use
 

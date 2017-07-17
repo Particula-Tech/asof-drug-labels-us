@@ -49,9 +49,9 @@ Body as a Whole: angioedema, death, hypersensitivity reactions such as anaphylax
 
 Cardiovascular: arrhythmia, bradycardia, chest pain, flushing, hypotension, myocardial infarction, vasculitis
 
-Dermatologic: exfoliative dermatitis, erythema multiforme, Lyell’s syndrome, bullous reactions including Stevens-Johnson syndrome and toxic epidermal necrolysis
+Dermatologic: exfoliative dermatitis, erythema multiforme, Lyell's syndrome, bullous reactions including Stevens-Johnson syndrome and toxic epidermal necrolysis
 
-Gastrointestinal: acute pancreatitis, liver failure, ulcerative stomatitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease)
+Gastrointestinal: acute pancreatitis, liver failure, ulcerative stomatitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn's disease)
 
 Hemic and Lymphatic: agranulocytosis, aplastic anemia, hemolytic anemia, lymphadenopathy, pancytopenia, post operative wound hemorrhage (rarely requiring blood transfusion — see Boxed WARNING, WARNINGS, and PRECAUTIONS)
 

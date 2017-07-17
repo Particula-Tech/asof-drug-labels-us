@@ -14,7 +14,7 @@ Total duration of treatment in adult patients: the combined duration of use of i
 
 KETOROLAC TROMETHAMINE INJECTION
 
-Ketorolac tromethamine injection may be used as a single or multiple dose on a regular or “prn” schedule for the management of moderately severe, acute pain that requires analgesia at the opioid level, usually in a postoperative setting.
+Ketorolac tromethamine injection may be used as a single or multiple dose on a regular or "prn" schedule for the management of moderately severe, acute pain that requires analgesia at the opioid level, usually in a postoperative setting.
 Hypovolemia should be corrected prior to the administration of ketorolac tromethamine (see WARNINGS – Renal Effects).
 Patients should be switched to alternative analgesics as soon as possible, but ketorolac tromethamine therapy is not to exceed 5 days.
 
@@ -43,7 +43,7 @@ Multiple-Dose Treatment (Intravenous or Intramuscular)
   The maximum daily dose for these populations should not exceed 60 mg.
 
 For breakthrough pain, do not increase the dose or the frequency of ketorolac tromethamine.
-Consideration should be given to supplementing these regimens with low doses of opioids “prn” unless otherwise contraindicated.
+Consideration should be given to supplementing these regimens with low doses of opioids "prn" unless otherwise contraindicated.
 
 Pharmaceutical Information for Ketorolac Tromethamine Injection
 

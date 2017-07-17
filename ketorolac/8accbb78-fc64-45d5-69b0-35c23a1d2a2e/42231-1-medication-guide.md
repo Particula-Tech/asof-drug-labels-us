@@ -9,7 +9,7 @@ NSAIDs can cause serious side effects, including:
   - •with increasing doses of NSAIDs
   - •with longer use of NSAIDs
 
-Do not take NSAIDs right before or after a heart surgery called a “coronary artery bypass graft (CABG).”
+Do not take NSAIDs right before or after a heart surgery called a "coronary artery bypass graft (CABG)."
 
 Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider tells you to.
 You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack.
@@ -21,7 +21,7 @@ You may have an increased risk of another heart attack if you take NSAIDs after 
 
 The risk of getting an ulcer or bleeding increases with:
 
-• past history of stomach ulcers, • increasing doses of NSAIDs or stomach or intestinal • longer use of NSAIDS bleeding with the use of • smoking NSAIDs • drinking alcohol • taking medicines called • older age “corticosteroids”, • poor health “anticoagulants”, “SSRIs”, or • advanced liver disease “SNRIs” • bleeding problems
+• past history of stomach ulcers, • increasing doses of NSAIDs or stomach or intestinal • longer use of NSAIDS bleeding with the use of • smoking NSAIDs • drinking alcohol • taking medicines called • older age "corticosteroids", • poor health "anticoagulants", "SSRIs", or • advanced liver disease "SNRIs" • bleeding problems
 
 NSAIDs should only be used:
 
@@ -57,7 +57,7 @@ Do not start taking any new medicine without talking to your healthcare provider
 What are the possible side effects of NSAIDs?
 NSAIDs can cause serious side effects, including:
 
-See “What is the most important information I should know about medicines called NonSteroidal Anti-inflammatory Drugs (NSAIDs)?”
+See "What is the most important information I should know about medicines called NonSteroidal Anti-inflammatory Drugs (NSAIDs)?"
 
 - •new or worse high blood pressure
 - •heart failure
