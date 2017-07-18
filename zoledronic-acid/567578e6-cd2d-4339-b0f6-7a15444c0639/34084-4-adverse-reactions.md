@@ -22,7 +22,7 @@ The most frequently observed adverse reactions were fever, nausea, constipation,
 Table 4 provides adverse reactions that were reported by 10% or more of the 189 patients treated with Zoledronic Acid Injection 4 mg or pamidronate 90 mg from the two HCM trials.
 Adverse reactions are listed regardless of presumed causality to study drug.
 
-Table 4: Percentage of Patients with Adverse Reactions ≥10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
+Table 4: Percentage of Patients with Adverse Reactions greater than or equal to 10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
 
 |  | Zoledronic Acid Injection 4 mg n (%) |  | Pamidronate 90 mg n (%) |  |
 | --- | --- | --- | --- | --- |
@@ -126,7 +126,7 @@ The median duration of exposure for safety analysis for Zoledronic Acid Injectio
 Table 7 describes adverse reactions that were reported by 10% or more of patients.
 Adverse reactions are listed regardless of presumed causality to study drug.
 
-Table 7: Percentage of Patients with Adverse Reactions ≥10% Reported in Three Bone Metastases Clinical Trials by Body System
+Table 7: Percentage of Patients with Adverse Reactions greater than or equal to 10% Reported in Three Bone Metastases Clinical Trials by Body System
 
 |  | Zoledronic Acid Injection 4 mg |  | Pamidronate 90 mg |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -168,8 +168,7 @@ Table 8: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 
 |  | Grade 3 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Parameter | Zoledronic Acid Injection |  | Pamidronate |  | Placebo |  |
-|  | 4 mg |  | 90 mg |  |  |  |
+| Laboratory Parameter | Zoledronic Acid Injection 4 mg |  | Pamidronate 90 mg |  | Placebo |  |
 |  | n/N | (%) | n/N | (%) | n/N | (%) |
 | Serum Creatinine 1* | 7/529 | (1%) | 4/268 | (2%) | 4/241 | (2%) |
 | Hypocalcemia2 | 6/973 | (<1%) | 4/536 | (<1%) | 0/415 | — |
@@ -187,8 +186,7 @@ Table 9: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 
 |  | Grade 4 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Parameter | Zoledronic Acid Injection |  | Pamidronate |  | Placebo |  |
-|  | 4 mg |  | 90 mg |  |  |  |
+| Laboratory Parameter | Zoledronic Acid Injection 4 mg |  | Pamidronate 90 mg |  | Placebo |  |
 |  | n/N | (%) | n/N | (%) | n/N | (%) |
 | Serum Creatinine 1* | 2/529 | (<1%) | 1/268 | (<1%) | 0/241 | — |
 | Hypocalcemia2 | 7/973 | (<1%) | 3/536 | (<1%) | 2/415 | (<1%) |
@@ -278,4 +276,4 @@ Cases of Stevens-Johnson syndrome and toxic epidermal necrolysis have also been 
 
 Additional adverse reactions reported in postmarketing use include:
 
-CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; uveitis; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive rechallenge; Renal: hematuria, proteinuria; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue or malaise) persisting for greater than 30 days; Laboratory Abnormalities: hyperkalemia, hypernatremia, hypocalcemia (cardiac arrhythmias and neurologic adverse events including seizures, tetany and numbness have been reported due to severe hypocalcemia).
+CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; uveitis; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive rechallenge; Renal: hematuria, proteinuria, acquired Fanconi syndrome; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue or malaise) persisting for greater than 30 days; Laboratory Abnormalities: hyperkalemia, hypernatremia, hypocalcemia (cardiac arrhythmias and neurologic adverse events including seizures, tetany and numbness have been reported due to severe hypocalcemia).

@@ -13,8 +13,8 @@ Therefore, there is a theoretical risk of fetal harm (e.g., skeletal and other a
 The impact of variables such as time between cessation of bisphosphonate therapy to conception, the particular bisphosphonate used, and the route of administration (intravenous versus oral) on this risk has not been established.
 If this drug is used during pregnancy or if the patient becomes pregnant while taking or after taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
-In female rats given subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg/day beginning 15 days before mating and continuing through gestation, the number of stillbirths was increased and survival of neonates was decreased in the mid- and high-dose groups (≥0.2 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison).
-Adverse maternal reactions were observed in all dose groups (with a systemic exposure of ≥0.07 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison) and included dystocia and periparturient mortality in pregnant rats allowed to deliver.
+In female rats given subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg/day beginning 15 days before mating and continuing through gestation, the number of stillbirths was increased and survival of neonates was decreased in the mid- and high-dose groups (greater than or equal to 0.2 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison).
+Adverse maternal reactions were observed in all dose groups (with a systemic exposure of greater than or equal to 0.07 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison) and included dystocia and periparturient mortality in pregnant rats allowed to deliver.
 Maternal mortality may have been related to drug-induced inhibition of skeletal calcium mobilization, resulting in periparturient hypocalcemia.
 This appears to be a bisphosphonate-class effect.
 
@@ -25,11 +25,11 @@ Other adverse fetal reactions observed in the high-dose group included reduced l
 Skeletal variations were also observed in the low-dose group (with systemic exposure of 1.2 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison).
 Signs of maternal toxicity were observed in the high-dose group and included reduced body weights and food consumption, indicating that maximal exposure levels were achieved in this study.
 
-In pregnant rabbits given subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg/day during gestation (≤0.5 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas), no adverse fetal reactions were observed.
-Maternal mortality and abortion occurred in all treatment groups (at doses ≥0.05 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas).
+In pregnant rabbits given subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg/day during gestation (less than or equal to 0.5 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas), no adverse fetal reactions were observed.
+Maternal mortality and abortion occurred in all treatment groups (at doses greater than or equal to 0.05 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas).
 Adverse maternal reactions were associated with, and may have been caused by, drug-induced hypocalcemia.
 
-## 8.2 Nursing Mothers
+## 8.3 Nursing Mothers
 
 It is not known whether zoledronic acid is excreted in human milk.
 Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from Zoledronic Acid Injection, a decision should be made to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
@@ -48,7 +48,7 @@ However, adverse reactions seen more commonly in pediatric patients included pyr
 These reactions, excluding arthralgia, occurred most frequently within 3 days after the first infusion and became less common with repeat dosing.
 Because of long-term retention in bone, Zoledronic Acid Injection should only be used in children if the potential benefit outweighs the potential risk.
 
-Plasma zoledronic acid concentration data was obtained from 10 patients with severe osteogenesis imperfecta (4 in the age group of 3-8 years and 6 in the age group of 9-17 years) infused with 0.05 mg/kg dose over 30 min. Mean Cmax and AUC(0-last) was 167 ng/mL and 220 ng•h/mL, respectively.
+Plasma zoledronic acid concentration data was obtained from 10 patients with severe osteogenesis imperfecta (4 in the age group of 3-8 years and 6 in the age group of 9-17 years) infused with 0.05 mg/kg dose over 30 min. Mean Cmax and AUC(0-last) was 167 ng/mL and 220 ng∙h/mL, respectively.
 The plasma concentration time profile of zoledronic acid in pediatric patients represent a multi-exponential decline, as observed in adult cancer patients at an approximately equivalent mg/kg dose.
 
 ## 8.5 Geriatric Use
