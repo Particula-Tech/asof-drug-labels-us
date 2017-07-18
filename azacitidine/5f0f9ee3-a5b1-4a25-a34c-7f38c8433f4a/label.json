@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208216"
+  ],
+  "inn": "azacitidine",
+  "labeler": "BluePoint Laboratories",
+  "package_ndcs": [
+    "68001-313-56"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "azacitidine",
+      "name": "Azacitidine"
+    }
+  ],
+  "setid": "5f0f9ee3-a5b1-4a25-a34c-7f38c8433f4a",
+  "source": "dailymed"
+}
