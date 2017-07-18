@@ -17,9 +17,9 @@ RX only
 
 Mallinckrodt™
 
-2000006901
+2000009035
 
-Rev 01/2015
+Rev 04/2017
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 50 mg Bottle
 
@@ -40,9 +40,9 @@ RX only
 
 Mallinckrodt™
 
-2000006902
+2000009036
 
-Rev 01/2015
+Rev 04/2017
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 75 mg Bottle
 
@@ -63,6 +63,6 @@ RX only
 
 Mallinckrodt™
 
-2000006903
+2000009037
 
-Rev 01/2015
+Rev 04/2017
