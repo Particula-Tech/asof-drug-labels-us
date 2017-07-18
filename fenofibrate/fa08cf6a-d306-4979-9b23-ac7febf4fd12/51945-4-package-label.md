@@ -1,18 +1,16 @@
-# PRINCIPAL DISPLAY PANEL - 54 mg Tablet Bottle Label
-
-Impax Generics
+# PACKAGE LABEL. PRINCIPAL DISPLAY PANEL
 
 NDC 0115-5511-10
 
 Fenofibrate Tablets
 
-54 mg
+54 mg*
 
 Rx only 90 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 160 mg Tablet Bottle Label
+Impax
 
-Impax Generics
+# PACKAGE LABEL. PRINCIPAL DISPLAY PANEL
 
 NDC 0115-5522-10
 
@@ -20,4 +18,6 @@ Fenofibrate Tablets
 
 160 mg
 
-Rx only 90 Tablets
+Rx Only 90 Tablets
+
+Impax
