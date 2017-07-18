@@ -4,7 +4,7 @@ BRIDION (sugammadex) injection is a clear, colorless to slightly yellow-brown, n
 BRIDION is available in the following presentations:
 
 - BRIDION 2-mL single-dose vials containing 200 mg sugammadex (100 mg/mL) Box of 10 NDC 0006-5423-12
-- BRIDION 5-mL single-dose vials containing 500 mg sugammadex (100 mg/mL) Box of 10 NDC 0006-5423-15
+- BRIDION 5-mL single-dose vials containing 500 mg sugammadex (100 mg/mL) Box of 10 NDC 0006-5423-15, NDC 0006-5425-15
 
 The packaging of this product is not made with natural rubber latex.
 
