@@ -33,7 +33,7 @@ Cytotec® misoprostol tablets
 60 Tablets
 
 Distributed by G.D.
-Searle Division of Pfizer Inc, NY, NY 10017
+Searle LLC Division of Pfizer Inc, NY, NY 10017
 
 Rx only
 
@@ -72,6 +72,6 @@ Cytotec® misoprostol tablets
 60 Tablets
 
 Distributed by G.D.
-Searle Division of Pfizer Inc, NY, NY 10017
+Searle LLC Division of Pfizer Inc, NY, NY 10017
 
 Rx only
