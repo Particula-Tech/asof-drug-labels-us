@@ -192,7 +192,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store testosterone gel?
 
-- Store testosterone gel between 68°F to 77°F (20°C to 25°C).
+- Store testosterone gel between 68° to 77°F (20° to 25°C).
 - Safely throw away used testosterone gel containers in household trash.
   Be careful to prevent accidental exposure of children or pets.
 - Keep testosterone gel away from fire.
@@ -220,8 +220,10 @@ Inactive ingredients: carbomer copolymer Type B, carbomer homopolymer Type C, di
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+For Medication Guides, please visit www.upsher-smith.com or call 1-888-650-3789.
+
 Manufactured for USL PHARMA, INC. Denver, CO 80223
 
 MADE IN CANADA
 
-Revised 0515
+Revised 1016
