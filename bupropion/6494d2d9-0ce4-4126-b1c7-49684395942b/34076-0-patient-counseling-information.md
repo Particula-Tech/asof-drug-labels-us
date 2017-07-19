@@ -20,7 +20,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
-Although APLENZIN is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
+Although APLENZIN is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBANwhich is approved for this use.
 Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
 Instruct patients to discontinue APLENZIN and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2) and Adverse Reactions (6.2)].
 
@@ -72,19 +72,20 @@ Instruct patients if they miss a dose, not to take an extra tablet to make up fo
 Instruct patients that APLENZIN tablets should be swallowed whole and not crushed, divided, or chewed.
 APLENZIN can be taken with or without food.
 
-Manufactured for:
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
-
-By:
-
-Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
+By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7, Canada
 
 APLENZIN is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+
+Wellbutrin XL is a registered trademark of GlaxoSmithKline LLC used under license.
+
 All other product/brand names are the trademarks of their respective owners.
+
+U.S. Patents 7,241,805; 7,569,610; 7,572,935; 7,585,897; 7,645,802; 7,649,019; 7,662,407; 7,671,094
 
 ©Valeant Pharmaceuticals North America LLC
 
-Update p/n
+9386805
 
-Update p/n
+20001960

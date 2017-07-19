@@ -54,7 +54,7 @@ It is not known if APLENZIN is safe and effective in children under the age of 1
 Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions
 
 This section of the Medication Guide is only about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with drugs used to quit smoking.
-Although APLENZIN is not a treatment for quitting smoking, it contains the same active ingredient (bupropion) as ZYBAN® which is used to help patients quit smoking.
+Although APLENZIN is not a treatment for quitting smoking, it contains the same active ingredient (bupropion) as ZYBAN which is used to help patients quit smoking.
 
 Talk to your healthcare provider or your family member’s healthcare provider about:
 
@@ -81,7 +81,7 @@ Sometimes quitting smoking can lead to worsening of mental health problems that 
 
 Some people have had serious side effects while taking bupropion to help them quit smoking, including:
 
-New or worse mental health problems, such as changes in behavior or thinking, aggression, hostility,agitation, depression, or suicidal thoughts or actions.
+New or worse mental health problems, such as changes in behavior or thinking, aggression, hostility, agitation, depression, or suicidal thoughts or actions.
 Some people had these symptoms when they began taking bupropion, and others developed them after several weeks of treatment, or after stopping bupropion.
 These symptoms happened more often in people who had a history of mental health problems before taking bupropion than in people without a history of mental health problems.
 
@@ -95,7 +95,7 @@ You should also tell your healthcare provider about any symptoms you had during 
 What Other Important Information Should I Know About APLENZIN?
 
 - •Seizures: There is a chance of having a seizure (convulsion, fit) with APLENZIN, especially in people:
-  - •with certain medical problems.
+  - •with certain medical problems
   - •who take certain medicines.
 
 The chance of having seizures increases with higher doses of APLENZIN.
@@ -148,7 +148,7 @@ Do not take APLENZIN if you:
 
 - •have or had a seizure disorder or epilepsy.
 - •have or had an eating disorder such as anorexia nervosa or bulimia.
-- •are taking any other medicines that contain bupropion, including WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, ZYBAN, or FORFIVO XL®.
+- •are taking any other medicines that contain bupropion, including WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, ZYBAN, or FORFIVO XL.
   Bupropion is the same active ingredient that is in APLENZIN.
 - •drink a lot of alcohol and abruptly stop drinking, or take medicines called sedatives (these make you sleepy), benzodiazepines, or anti-seizure medicines, and you stop taking them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
@@ -203,9 +203,9 @@ How should I take APLENZIN?
 - •It is not dangerous to smoke and take APLENZIN at the same time.
   But, you will lower your chance of breaking your smoking habit if you smoke after the date you set to stop smoking.
 - •You may use APLENZIN and nicotine patches (a type of nicotine replacement therapy) at the same time, following the precautions below.
-  - oYou should only use APLENZIN and nicotine patches together under the care of your healthcare provider.
+  - •You should only use APLENZIN and nicotine patches together under the care of your healthcare provider.
     Using APLENZIN and nicotine patches together may raise your blood pressure, and sometimes this can be severe.
-  - oTell your healthcare provider if you plan to use nicotine patches.
+  - •Tell your healthcare provider if you plan to use nicotine patches.
     Your healthcare provider should check your blood pressure regularly if you use nicotine patches with APLENZIN to help you quit smoking.
 - •If you miss a dose, do not take an extra dose to make up for the dose you missed.
   Wait and take your next dose at the regular time.
@@ -253,7 +253,7 @@ You may also report side effects to Valeant Pharmaceuticals North America LLC at
 
 How should I store APLENZIN?
 
-Store APLENZIN at room temperature between 59°F and 86°F (15°C to 30°C).
+- •Store APLENZIN at room temperature between 59°F and 86°F (15°C to 30°C).
 
 Keep APLENZIN and all medicines out of the reach of children.
 
@@ -280,7 +280,7 @@ Inactive ingredients: ethylcellulose, glyceryl behenate, polyvinyl alcohol, poly
 Carnauba wax is included in the 174 mg and 348 mg strengths.
 The tablets are printed with edible black ink.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA By: Valeant Pharmaceuticals International, Inc., Steinbach, MB R5G 1Z7 Canada
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7, Canada
 
 APLENZIN is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 All other product/brand names are the trademarks of their respective owners.
@@ -289,8 +289,8 @@ All other product/brand names are the trademarks of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Update p/n
+9386805
 
-Update p/n
+20001960
 
 Revised: 05/2017

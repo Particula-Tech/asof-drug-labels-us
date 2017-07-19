@@ -125,7 +125,7 @@ These include reactions that occurred at an incidence of 2% or more and were mor
 
 Table 5: Adverse Reactions in Placebo-Controlled Trial in Patients with SAD
 
-| System Organ Class/Preferred Term | Placebo (n=511) | Bupropion HCl Extended-Release (n=537) |
+| System Organ Class/ Preferred Term | Placebo (n=511) | Bupropion HCl Extended-Release (n=537) |
 | --- | --- | --- |
 | Gastrointestinal Disorder |  |  |
 | Dry mouth | 15% | 26% |
