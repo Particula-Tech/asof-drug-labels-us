@@ -5,7 +5,7 @@
 | Do not use ANORO ELLIPTA if you: •have a severe allergy to milk proteins. Ask your healthcare provider if you are not sure.•are allergic to umeclidinium, vilanterol, or any of the ingredients in ANORO ELLIPTA. See “What are the ingredients in ANORO ELLIPTA?” below for a complete list of ingredients. |
 | Before using ANORO ELLIPTA, tell your healthcare provider about all of your medical conditions, including if you: •have heart problems.•have high blood pressure.•have seizures.•have thyroid problems.•have diabetes.•have liver problems.•have eye problems such as glaucoma. ANORO ELLIPTA may make your glaucoma worse.•have prostate or bladder problems, or problems passing urine. ANORO ELLIPTA may make these problems worse.•are allergic to any of the ingredients in ANORO ELLIPTA, any other medicines, or food products. See “What are the ingredients in ANORO ELLIPTA?” below for a complete list of ingredients.•are pregnant or planning to become pregnant. It is not known if ANORO ELLIPTA may harm your unborn baby.•are breastfeeding. It is not known if the medicines in ANORO ELLIPTA pass into your milk and if they can harm your baby. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. ANORO ELLIPTA and certain other medicines may interact with each other. This may cause serious side effects.Especially tell your healthcare provider if you take: •anticholinergics (including tiotropium, ipratropium, aclidinium)•atropine•antifungal or anti-HIV medicines Know the medicines you take. Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine. |
 | How should I use ANORO ELLIPTA?Read the step-by-step instructions for using ANORO ELLIPTA at the end of this Medication Guide. •Do not use ANORO ELLIPTA unless your healthcare provider has taught you how to use the inhaler and you understand how to use it correctly.•Use ANORO ELLIPTA exactly as your healthcare provider tells you to use it. Do not use ANORO ELLIPTA more often than prescribed.•Use 1 inhalation of ANORO ELLIPTA 1 time each day. Use ANORO ELLIPTA at the same time each day.•If you miss a dose of ANORO ELLIPTA, take it as soon as you remember. Do not take more than 1 inhalation per day. Take your next dose at your usual time. Do not take 2 doses at 1 time.•If you take too much ANORO ELLIPTA, call your healthcare provider or go to the nearest hospital emergency room right away if you have any unusual symptoms, such as worsening shortness of breath, chest pain, increased heart rate, or shakiness.•Do not use other medicines that contain a LABA or an anticholinergic for any reason. Ask your healthcare provider or pharmacist if any of your other medicines are LABA or anticholinergic medicines.•Do not stop using ANORO ELLIPTA unless told to do so by your healthcare provider because your symptoms might get worse. Your healthcare provider will change your medicines as needed.•ANORO ELLIPTA does not relieve sudden breathing problems. Always have a rescue inhaler with you to treat sudden symptoms. If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.•Call your healthcare provider or get medical care right away if: •your breathing problems get worse.•you need to use your rescue inhaler more often than usual.•your rescue inhaler does not work as well to relieve your symptoms. |
-| What are the possible side effects of ANORO ELLIPTA?ANORO ELLIPTA can cause serious side effects, including: •See “What is the most important information I should know about ANORO ELLIPTA?”•sudden breathing problems immediately after inhaling your medicine. If you have sudden breathing problems immediately after inhaling your medicine, stop using ANORO ELLIPTA and call your healthcare provider right away.•serious allergic reactions. Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction: • rash • hives • swelling of your face, mouth, and tongue • breathing problems •effects on heart •increased blood pressure•a fast or irregular heartbeat, awareness of heartbeat•chest pain •effects on nervous system •tremor•nervousness •new or worsened eye problems including acute narrow-angle glaucoma. Acute narrow-angle glaucoma can cause permanent loss of vision if not treated. Symptoms of acute narrow-angle glaucoma may include: • eye pain or discomfort • nausea or vomiting • blurred vision • seeing halos or bright colors around lights • red eyes If you have these symptoms, call your healthcare provider right away before taking another dose. •urinary retention. People who take ANORO ELLIPTA may develop new or worse urinary retention. Symptoms of urinary retention may include: • difficulty urinating • painful urination • urinating frequently • urination in a weak stream or drips If you have these symptoms of urinary retention, stop taking ANORO ELLIPTA and call your healthcare provider right away before taking another dose. •changes in laboratory blood levels, including high levels of blood sugar (hyperglycemia) and low levels of potassium (hypokalemia) Common side effects of ANORO ELLIPTA include: • sore throat • sinus infection • lower respiratory infection • common cold symptoms • constipation • diarrhea • pain in your arms or legs • muscle spasms • neck pain • chest painTell your healthcare provider about any side effect that bothers you or that does not go away.These are not all the side effects with ANORO ELLIPTA. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| What are the possible side effects of ANORO ELLIPTA?ANORO ELLIPTA can cause serious side effects, including: •See “What is the most important information I should know about ANORO ELLIPTA?”•sudden breathing problems immediately after inhaling your medicine. If you have sudden breathing problems immediately after inhaling your medicine, stop using ANORO ELLIPTA and call your healthcare provider right away.•serious allergic reactions. Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction: ο rash ο hives ο swelling of your face, mouth, and tongue ο breathing problems •effects on heart •increased blood pressure•a fast or irregular heartbeat, awareness of heartbeat•chest pain •effects on nervous system •tremor•nervousness •new or worsened eye problems including acute narrow-angle glaucoma. Acute narrow-angle glaucoma can cause permanent loss of vision if not treated. Symptoms of acute narrow-angle glaucoma may include: ο eye pain or discomfort ο nausea or vomiting ο blurred vision ο seeing halos or bright colors around lights ο red eyes If you have these symptoms, call your healthcare provider right away before taking another dose. •urinary retention. People who take ANORO ELLIPTA may develop new or worse urinary retention. Symptoms of urinary retention may include: ο difficulty urinating ο painful urination ο urinating frequently ο urination in a weak stream or drips If you have these symptoms of urinary retention, stop taking ANORO ELLIPTA and call your healthcare provider right away before taking another dose. •changes in laboratory blood levels, including high levels of blood sugar (hyperglycemia) and low levels of potassium (hypokalemia) Common side effects of ANORO ELLIPTA include: • sore throat • sinus infection • lower respiratory infection • common cold symptoms • constipation • diarrhea • pain in your arms or legs • muscle spasms • neck pain • chest painTell your healthcare provider about any side effect that bothers you or that does not go away.These are not all the side effects with ANORO ELLIPTA. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
 | How should I store ANORO ELLIPTA? •Store ANORO ELLIPTA at room temperature between 68°F and 77°F (20°C and 25°C). Keep in a dry place away from heat and sunlight.•Store ANORO ELLIPTA in the unopened foil tray and only open when ready for use.•Safely throw away ANORO ELLIPTA in the trash 6 weeks after you open the foil tray or when the counter reads “0”, whichever comes first. Write the date you open the tray on the label on the inhaler.•Keep ANORO ELLIPTA and all medicines out of the reach of children. |
 | General information about the safe and effective use of ANORO ELLIPTA.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use ANORO ELLIPTA for a condition for which it was not prescribed. Do not give ANORO ELLIPTA to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about ANORO ELLIPTA that is written for health professionals. |
 | What are the ingredients in ANORO ELLIPTA?Active ingredient: umeclidinium, vilanterolInactive ingredients: lactose monohydrate (contains milk proteins), magnesium stearateFor more information about ANORO ELLIPTA, call 1-888-825-5249 or visit our website at www.ANORO.com.ANORO and ELLIPTA are registered trademarks of the GSK group of companies.ANORO ELLIPTA was developed in collaboration with Innoviva.GlaxoSmithKlineResearch Triangle Park, NC 27709©2017 the GSK group of companies. All rights reserved.ANR:4MG |
@@ -70,12 +70,12 @@ Wait to open the cover until you are ready to take your dose.
 1. Step 1.
    Open the cover of the inhaler.
    See Figure D.
-2. 1.Slide the cover down to expose the mouthpiece.
+2. •Slide the cover down to expose the mouthpiece.
    You should hear a “click.”
    The counter will count down by 1 number.
    You do not need to shake this kind of inhaler.
    Your inhaler is now ready to use.
-3. 2.If the counter does not count down as you hear the click, the inhaler will not deliver the medicine.
+3. •If the counter does not count down as you hear the click, the inhaler will not deliver the medicine.
    Call your healthcare provider or pharmacist if this happens.
 
 Figure D
@@ -83,7 +83,7 @@ Figure D
 1. Step 2.
    Breathe out.
    See Figure E.
-2. 1.While holding the inhaler away from your mouth, breathe out (exhale) fully.
+2. •While holding the inhaler away from your mouth, breathe out (exhale) fully.
    Do not breathe out into the mouthpiece.
 
 Figure E
@@ -91,9 +91,9 @@ Figure E
 1. Step 3.
    Inhale your medicine.
    See Figure F.
-2. 1.Put the mouthpiece between your lips, and close your lips firmly around it.
+2. •Put the mouthpiece between your lips, and close your lips firmly around it.
    Your lips should fit over the curved shape of the mouthpiece.
-3. 2.Take 1 long, steady, deep breath in through your mouth.
+3. •Take 1 long, steady, deep breath in through your mouth.
    Do not breathe in through your nose.
 
 Figure F
@@ -111,17 +111,17 @@ Figure H
 1. Step 4.
    Breathe out slowly and gently.
    See Figure I.
-2. 1.You may not taste or feel the medicine, even when you are using the inhaler correctly.
-3. 2.Do not take another dose from the inhaler even if you do not feel or taste the medicine.
+2. •You may not taste or feel the medicine, even when you are using the inhaler correctly.
+3. •Do not take another dose from the inhaler even if you do not feel or taste the medicine.
 
 Figure I
 
 1. Step 5.
    Close the inhaler.
    See Figure J.
-2. 1.You can clean the mouthpiece if needed, using a dry tissue, before you close the cover.
+2. •You can clean the mouthpiece if needed, using a dry tissue, before you close the cover.
    Routine cleaning is not required.
-3. 2.Slide the cover up and over the mouthpiece as far as it will go.
+3. •Slide the cover up and over the mouthpiece as far as it will go.
 
 Figure J
 
@@ -138,7 +138,7 @@ If you have questions about ANORO ELLIPTA or how to use your inhaler, call Glaxo
 
 ANORO and ELLIPTA are registered trademarks of the GSK group of companies.
 
-ANORO ELLIPTA was developed in collaboration with Theravance.
+ANORO ELLIPTA was developed in collaboration with Innoviva.
 
 GlaxoSmithKline
 
