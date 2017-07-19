@@ -44,8 +44,8 @@ Signs and symptoms include: seizures, crying more than usual, and increased refl
 These are not all of the possible side effects of NARCAN Nasal Spray.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
-How should I store NARCAN Nasal Spray? • Store NARCAN Nasal Spray at room temperature between 59oF to 77oF (15oC to 25oC).
-NARCAN Nasal Spray may be stored for short periods up to 104°F (40°C). • Do not freeze NARCAN Nasal Spray. • Keep NARCAN Nasal Spray in its box until ready to use.
+How should I store NARCAN Nasal Spray? • Store NARCAN Nasal Spray at room temperature between 59°F to 77°F (15°C to 25°C).
+Excursions permitted up to 104°F (40°C). • Do not freeze NARCAN Nasal Spray. • Keep NARCAN Nasal Spray in its box until ready to use.
 Protect from light. • Replace NARCAN Nasal Spray before the expiration date on the box.
 
 Keep NARCAN Nasal Spray and all medicines out of the reach of children.

@@ -10,7 +10,7 @@ Additional supportive and/or resuscitative measures may be helpful while awaitin
 ## 5.2 Risk of Limited Efficacy with Partial Agonists or Mixed Agonist/Antagonists
 
 Reversal of respiratory depression by partial agonists or mixed agonist/antagonists such as buprenorphine and pentazocine, may be incomplete.
-Larger or repeat doses of naloxone hydrochloride may be required to antagonize buprenorphine because the latter has a long duration of action due to its slow rate of binding and subsequent slow dissociation from the opioid receptor [see Dosage and Administration (2.2)].
+Larger or repeat doses of naloxone hydrochloride may be required to antagonize buprenorphine because the latter has a long duration of action due to its slow rate of binding and subsequent slow dissociation from the opioid receptor [see Dosage and Administration (2.3)].
 Buprenorphine antagonism is characterized by a gradual onset of the reversal effects and a decreased duration of action of the normally prolonged respiratory depression.
 
 ## 5.3 Precipitation of Severe Opioid Withdrawal
