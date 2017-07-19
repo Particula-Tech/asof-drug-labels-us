@@ -20,7 +20,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
-Although WELLBUTRIN XL is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
+Although WELLBUTRIN XL is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBANwhich is approved for this use.
 Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
 Instruct patients to discontinue WELLBUTRIN XL and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2) and Adverse Reactions (6.2)].
 
@@ -74,13 +74,21 @@ WELLBUTRIN XL should be administered in the morning and may be taken with or wit
 
 Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
+By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7, Canada
 
-WELLBUTRIN XL® is a registered trademark of GlaxoSmithKline LLC used under license.
+Wellbutrin XL is a registered trademark of GlaxoSmithKline LLC used under license.
 
-©Valeant Pharmaceuticals North America LLC.
+Aplenzin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+
 All other product/brand names are the trademarks of their respective owners.
 
-Update p/n
+U.S. Patents 6,096,341; 7,537,784
 
-Update p/n
+©Valeant Pharmaceuticals North America LLC
+
+9395604
+
+20001958
+
+Rev.
+05/2017
