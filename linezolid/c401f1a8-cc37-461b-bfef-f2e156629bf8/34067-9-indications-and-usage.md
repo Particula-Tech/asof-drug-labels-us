@@ -6,8 +6,8 @@ It is critical that specific Gram-negative therapy be initiated immediately if a
 
 ## 1.1 Pneumonia
 
-- •Nosocomial pneumonia caused by Staphylococcus aureus (methicillin-susceptible and -resistant isolates) or Streptococcus pneumoniae [see Clinical Studies (14)].
-- •Community-acquired pneumonia caused by Streptococcus pneumoniae, including cases with concurrent bacteremia, or Staphylococcus aureus (methicillin-susceptible isolates only) [see Clinical Studies (14)].
+- Nosocomial pneumonia caused by Staphylococcus aureus (methicillin-susceptible and -resistant isolates) or Streptococcus pneumoniae [see Clinical Studies (14)].
+- Community-acquired pneumonia caused by Streptococcus pneumoniae, including cases with concurrent bacteremia, or Staphylococcus aureus (methicillin-susceptible isolates only) [see Clinical Studies (14)].
 
 ## 1.2 Skin and Skin Structure Infections
 

@@ -12,31 +12,27 @@ At both the 600 mg and 1200 mg linezolid doses, no significant effect on QTc int
 ## 12.3 Pharmacokinetics
 
 The mean pharmacokinetic parameters of linezolid in adults after single and multiple oral and intravenous doses are summarized in Table 8.
+Plasma concentrations of linezolid at steady-state after oral doses of 600 mg given every 12 hours are shown in Figure 1.
 
 Table 8.
 Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 
-| Dose of Linezolid | Cmaxmcg/mL | Cminmcg/mL | Tmaxhrs | AUC*mcg•h/mL | t1/2hrs | CLmL/min |
+| Dose of Linezolid | Cmax mcg/mL | Cmin mcg/mL | Tmax hrs | AUCAUC for single dose = AUC0–∞; for multiple dose = AUC0–τ mcg∙h/mL | t1/2 hrs | CL mL/min |
 | --- | --- | --- | --- | --- | --- | --- |
 | 400 mg tablet |  |  |  |  |  |  |
-| single dose† | 8.10 | --- | 1.52 | 55.10 | 5.20 | 146 |
-|  | (1.83) |  | (1.01) | (25.00) | (1.50) | (67) |
-| every 12 hours | 11.00 | 3.08 | 1.12 | 73.40 | 4.69 | 110 |
-|  | (4.37) | (2.25) | (0.47) | (33.50) | (1.70) | (49) |
+| single doseData dose-normalized from 375 mg | 8.10 (1.83) | --- | 1.52 (1.01) | 55.10 (25.00) | 5.20 (1.50) | 146 (67) |
+| every 12 hours | 11.00 (4.37) | 3.08 (2.25) | 1.12 (0.47) | 73.40 (33.50) | 4.69 (1.70) | 110 (49) |
 | 600 mg tablet |  |  |  |  |  |  |
-| single dose | 12.70 | --- | 1.28 | 91.40 | 4.26 | 127 |
-|  | (3.96) |  | (0.66) | (39.30) | (1.65) | (48) |
-| every 12 hours | 21.20 | 6.15 | 1.03 | 138.00 | 5.40 | 80 |
-|  | (5.78) | (2.94) | (0.62) | (42.10) | (2.06) | (29) |
-| 600 mg IV injection‡ |  |  |  |  |  |  |
-| single dose | 12.90 | --- | 0.50 | 80.20 | 4.40 | 138 |
-|  | (1.60) |  | (0.10) | (33.30) | (2.40) | (39) |
-| every 12 hours | 15.10 | 3.68 | 0.51 | 89.70 | 4.80 | 123 |
-|  | (2.52) | (2.36) | (0.03) | (31.00) | (1.70) | (40) |
+| single dose | 12.70 (3.96) | --- | 1.28 (0.66) | 91.40 (39.30) | 4.26 (1.65) | 127 (48) |
+| every 12 hours | 21.20 (5.78) | 6.15 (2.94) | 1.03 (0.62) | 138.00 (42.10) | 5.40 (2.06) | 80 (29) |
+| 600 mg IV injectionData dose-normalized from 625 mg, intravenous dose was given as 0.5-hour infusion. Cmax = Maximum plasma concentration; Cmin = Minimum plasma concentration; Tmax = Time to Cmax; AUC = Area under concentration-time curve; t1/2 = Elimination half-life; CL = Systemic clearance |  |  |  |  |  |  |
+| single dose | 12.90 (1.60) | --- | 0.50 (0.10) | 80.20 (33.30) | 4.40 (2.40) | 138 (39) |
+| every 12 hours | 15.10 (2.52) | 3.68 (2.36) | 0.51 (0.03) | 89.70 (31.00) | 4.80 (1.70) | 123 (40) |
 | 600 mg oral suspension |  |  |  |  |  |  |
-| single dose | 11.00 | --- | 0.97 | 80.80 | 4.60 | 141 |
-|  | (2.76) |  | (0.88) | (35.10) | (1.71) | (45) |
-| * AUC for single dose = AUC0-∞; for multiple dose = AUC0-τ † Data dose-normalized from 375 mg ‡ Data dose-normalized from 625 mg, intravenous dose was given as 0.5-hour infusion. Cmax = Maximum plasma concentration; Cmin = Minimum plasma concentration; Tmax = Time to Cmax; AUC = Area under concentration-time curve; t1/2 = Elimination half-life; CL = Systemic clearance |  |  |  |  |  |  |
+| single dose | 11.00 (2.76) | --- | 0.97 (0.88) | 80.80 (35.10) | 4.60 (1.71) | 141 (45) |
+
+Figure 1.
+Plasma Concentrations of Linezolid in Adults at Steady-State Following Oral Dosing Every 12 Hours (Mean ± Standard Deviation, n=16)
 
 Absorption
 
@@ -46,7 +42,7 @@ Therefore, linezolid may be given orally or intravenously without dose adjustmen
 
 Linezolid may be administered without regard to the timing of meals.
 The time to reach the maximum concentration is delayed from 1.5 hours to 2.2 hours and Cmax is decreased by about 17% when high fat food is given with linezolid.
-However, the total exposure measured as AUC0-∞ is similar under both conditions.
+However, the total exposure measured as AUC0–∞ is similar under both conditions.
 
 Distribution
 
@@ -98,27 +94,27 @@ Pediatric patients 12 years and older should receive 600 mg every 12 hours [see 
 Table 9.
 Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Single Intravenous Infusion of 10 mg/kg or 600 mg Linezolid (Mean: (%CV); [Min, Max Values])
 
-| Age Group | Cmaxmcg/mL | VssL/kg | AUC*mcg•h/mL | t1/2Hrs | CLmL/min/kg |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Neonatal Patients |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pre-term** | 12.7 (30%) | 0.81 (24%) | 108 (47%) | 5.6 (46%) | 2.0 (52%) |  |  |  |  |  |  |  |
-| <1 week (N = 9)† | [9.6, 22.2] | [0.43, 1.05] | [41, 191] | [2.4, 9.8] | [0.9, 4.0] |  |  |  |  |  |  |  |
-| Full-term*** | 11.5 (24%) | 0.78 (20%) | 55 (47%) | 3.0 (55%) | 3.8 (55%) |  |  |  |  |  |  |  |
-| <1 week (N = 10) | [8.0, 18.3] | [0.45, 0.96] | [19, 103] | [1.3, 6.1] | [1.5, 8.8] |  |  |  |  |  |  |  |
-| Full-term*** | 12.9 (28%) | 0.66 (29%) | 34 (21%) | 1.5 (17%) | 5.1 (22%) |  |  |  |  |  |  |  |
-| ≥1 week to ≤28 days (N = 10)† | [7.7, 21.6] | [0.35, 1.06] | [23, 50] | [1.2, 1.9] | [3.3, 7.2] |  |  |  |  |  |  |  |
-| Infant Patients |  |  |  |  |  |  |  |  |  |  |  |  |
-| >28 days to <3 Months | 11.0 (27%) | 0.79 (26%) | 33 (26%) | 1.8 (28%) | 5.4 (32%) |  |  |  |  |  |  |  |
-| (N = 12)† | [7.2, 18.0] | [0.42, 1.08] | [17, 48] | [1.2, 2.8] | [3.5, 9.9] |  |  |  |  |  |  |  |
-| Pediatric Patients |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3 months through 11 years† | 15.1 (30%) | 0.69 (28%) | 58 (54%) | 2.9 (53%) | 3.8 (53%) |  |  |  |  |  |  |  |
-| (N = 59) | [6.8, 36.7] | [0.31, 1.50] | [19, 153] | [0.9, 8.0] | [1.0, 8.5] |  |  |  |  |  |  |  |
-| Adolescent Subjects and Patients |  |  |  |  |  |  |  |  |  |  |  |  |
-| 12 through 17 years‡ | 16.7 (24%) | 0.61 (15%) | 95 (44%) | 4.1 (46%) | 2.1 (53%) |  |  |  |  |  |  |  |
-| (N = 36) | [9.9, 28.9] | [0.44, 0.79] | [32, 178] | [1.3, 8.1] | [0.9, 5.2] |  |  |  |  |  |  |  |
-| Adult Subjects§ | 12.5 (21%) | 0.65 (16%) | 91 (33%) | 4.9 (35%) | 1.7 (34%) |  |  |  |  |  |  |  |
-| (N = 29) | [8.2, 19.3] | [0.45, 0.84] | [53, 155] | [1.8, 8.3] | [0.9, 3.3] |  |  |  |  |  |  |  |
-| * AUC = Single dose AUC0-∞ ** In this data set, “pre-term” is defined as less than 34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days) *** In this data set, “full-term” is defined as greater than or equal to 34 weeks gestational age † Dose of 10 mg/kg ‡ Dose of 600 mg or 10 mg/kg up to a maximum of 600 mg § Dose normalized to 600 mg Cmax = Maximum plasma concentration; Vss = Volume of distribution; AUC = Area under concentration-time curve; t1/2 = Apparent elimination half-life; CL = Systemic clearance normalized for body weight |  |  |  |  |  |  |  |  |  |  |  |  |
+| Age Group | Cmax mcg/mL | Vss L/kg | AUCAUC = Single dose AUC0–∞ mcg∙h/mL | t1/2 Hrs | CL mL/min/kg |
+| --- | --- | --- | --- | --- | --- |
+| Neonatal Patients |  |  |  |  |  |
+| Pre-termIn this data set, "pre-term" is defined as less than 34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days) | 12.7 (30%) | 0.81 (24%) | 108 (47%) | 5.6 (46%) | 2.0 (52%) |
+| <1 week (N = 9)Dose of 10 mg/kg | [9.6, 22.2] | [0.43, 1.05] | [41, 191] | [2.4, 9.8] | [0.9, 4.0] |
+| Full-termIn this data set, "full-term" is defined as greater than or equal to 34 weeks gestational age | 11.5 (24%) | 0.78 (20%) | 55 (47%) | 3.0 (55%) | 3.8 (55%) |
+| <1 week (N = 10) | [8.0, 18.3] | [0.45, 0.96] | [19, 103] | [1.3, 6.1] | [1.5, 8.8] |
+| Full-term | 12.9 (28%) | 0.66 (29%) | 34 (21%) | 1.5 (17%) | 5.1 (22%) |
+| ≥1 week to ≤28 days (N = 10) | [7.7, 21.6] | [0.35, 1.06] | [23, 50] | [1.2, 1.9] | [3.3, 7.2] |
+| Infant Patients |  |  |  |  |  |
+| >28 days to <3 Months | 11.0 (27%) | 0.79 (26%) | 33 (26%) | 1.8 (28%) | 5.4 (32%) |
+| (N = 12) | [7.2, 18.0] | [0.42, 1.08] | [17, 48] | [1.2, 2.8] | [3.5, 9.9] |
+| Pediatric Patients |  |  |  |  |  |
+| 3 months through 11 years | 15.1 (30%) | 0.69 (28%) | 58 (54%) | 2.9 (53%) | 3.8 (53%) |
+| (N = 59) | [6.8, 36.7] | [0.31, 1.50] | [19, 153] | [0.9, 8.0] | [1.0, 8.5] |
+| Adolescent Subjects and Patients |  |  |  |  |  |
+| 12 through 17 yearsDose of 600 mg or 10 mg/kg up to a maximum of 600 mg | 16.7 (24%) | 0.61 (15%) | 95 (44%) | 4.1 (46%) | 2.1 (53%) |
+| (N = 36) | [9.9, 28.9] | [0.44, 0.79] | [32, 178] | [1.3, 8.1] | [0.9, 5.2] |
+| Adult SubjectsDose normalized to 600 mg | [8.2, 19.3] | [0.45, 0.84] | [53, 155] | [1.8, 8.3] | [0.9, 3.3] |
+| (N = 29) | 12.5 (21%) | 0.65 (16%) | 91 (33%) | 4.9 (35%) | 1.7 (34%) |
+| Cmax = Maximum plasma concentration; Vss = Volume of distribution; AUC = Area under concentration-time curve; t1/2 = Apparent elimination half-life; CL = Systemic clearance normalized for body weight |  |  |  |  |  |
 
 Gender
 
@@ -143,34 +139,32 @@ Approximately 30% of a dose was eliminated in a 3-hour hemodialysis session begi
 Table 10.
 Mean (Standard Deviation) AUCs and Elimination Half-lives of Linezolid and Metabolites A and B in Patients with Varying Degrees of Renal Impairment After a Single 600 mg Oral Dose of Linezolid
 
-| Parameter | Healthy Subjects CLCR >80 mL/min | Moderate Renal Impairment 30< CLCR <80 mL/min | Severe Renal Impairment 10< CLCR <30 mL/min |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LINEZOLID |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| AUC0-∞, mcg h/mL | 110 (22) | 128 (53) | 127 (66) |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| t1/2, hours | 6.4 (2.2) | 6.1 (1.7) | 7.1 (3.7) |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| METABOLITE A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| AUC0-48, mcg h/mL | 7.6 (1.9) | 11.7 (4.3) | 56.5 (30.6) |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| t1/2, hours | 6.3 (2.1) | 6.6 (2.3) | 9.0 (4.6) |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| METABOLITE B1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| AUC0-48, mcg h/mL | 30.5 (6.2) | 51.1 (38.5) | 203 (92) |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| t1/2, hours | 6.6 (2.7) | 9.9 (7.4) | 11.0 (3.9) |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1 Metabolite B is the major metabolite of linezolid. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Parameter | Healthy Subjects CLCR >80 mL/min | Moderate Renal Impairment 30< CLCR <80 mL/min | Severe Renal Impairment 10< CLCR <30 mL/min |
+| --- | --- | --- | --- |
+| LINEZOLID |  |  |  |
+| AUC0–∞, mcg h/mL | 110 (22) | 128 (53) | 127 (66) |
+| t1/2, hours | 6.4 (2.2) | 6.1 (1.7) | 7.1 (3.7) |
+| METABOLITE A |  |  |  |
+| AUC0–48, mcg h/mL | 7.6 (1.9) | 11.7 (4.3) | 56.5 (30.6) |
+| t1/2, hours | 6.3 (2.1) | 6.6 (2.3) | 9.0 (4.6) |
+| METABOLITE BMetabolite B is the major metabolite of linezolid. |  |  |  |
+| AUC0–48, mcg h/mL | 30.5 (6.2) | 51.1 (38.5) | 203 (92) |
+| t1/2, hours | 6.6 (2.7) | 9.9 (7.4) | 11.0 (3.9) |
 
 Table 11.
 Mean (Standard Deviation) AUCs and Elimination Half-lives of Linezolid and Metabolites A and B in Subjects with End-Stage Renal Disease (ESRD) After the Administration of 600 mg Linezolid Every 12 Hours for 14.5 Days
 
-| Parameter | ESRD Subjects1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LINEZOLID |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| AUC0-12, mcg h/mL (after last dose) | 181 (52.3) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| t1/2, h (after last dose) | 8.3 (2.4) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| METABOLITE A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| AUC0-12, mcg h/mL (after last dose) | 153 (40.6) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| t1/2, h (after last dose) | 15.9 (8.5) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| METABOLITE B2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| AUC0-12, mcg h/mL (after last dose) | 356 (99.7) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| t1/2, h (after last dose) | 34.8 (23.1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1 between hemodialysis sessions 2 Metabolite B is the major metabolite of linezolid. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Parameter | ESRD Subjectsbetween hemodialysis sessions |
+| --- | --- |
+| LINEZOLID |  |
+| AUC0–12, mcg h/mL (after last dose) | 181 (52.3) |
+| t1/2, h (after last dose) | 8.3 (2.4) |
+| METABOLITE A |  |
+| AUC0–12, mcg h/mL (after last dose) | 153 (40.6) |
+| t1/2, h (after last dose) | 15.9 (8.5) |
+| METABOLITE BMetabolite B is the major metabolite of linezolid. |  |
+| AUC0–12, mcg h/mL (after last dose) | 356 (99.7) |
+| t1/2, h (after last dose) | 34.8 (23.1) |
 
 Hepatic Impairment
 
@@ -187,7 +181,7 @@ Therefore, linezolid is not expected to affect the pharmacokinetics of other dru
 Concurrent administration of linezolid does not substantially alter the pharmacokinetic characteristics of (S)-warfarin, which is extensively metabolized by CYP2C9.
 Drugs such as warfarin and phenytoin, which are CYP2C9 substrates, may be given with linezolid without changes in dosage regimen.
 
-Antibacterial Drugs
+Antibiotics
 
 Aztreonam: The pharmacokinetics of linezolid or aztreonam are not altered when administered together.
 
@@ -197,14 +191,14 @@ Antioxidants
 
 The potential for drug-drug interactions with linezolid and the antioxidants Vitamin C and Vitamin E was studied in healthy volunteers.
 Subjects were administered a 600 mg oral dose of linezolid on Day 1, and another 600 mg dose of linezolid on Day 8.
-On Days 2-9, subjects were given either Vitamin C (1000 mg/day) or Vitamin E (800 IU/ day).
-The AUC0-∞ of linezolid increased 2.3% when co-administered with Vitamin C and 10.9% when co-administered with Vitamin E. No linezolid dose adjustment is recommended during co-administration with Vitamin C or Vitamin E.
+On Days 2–9, subjects were given either Vitamin C (1000 mg/day) or Vitamin E (800 IU/ day).
+The AUC0–∞ of linezolid increased 2.3% when co-administered with Vitamin C and 10.9% when co-administered with Vitamin E. No linezolid dose adjustment is recommended during co-administration with Vitamin C or Vitamin E.
 
 Strong CYP 3A4 Inducers
 
 Rifampin: The effect of rifampin on the pharmacokinetics of linezolid was evaluated in a study of 16 healthy adult males.
 Volunteers were administered oral linezolid 600 mg twice daily for 5 doses with and without rifampin 600 mg once daily for 8 days.
-Co-administration of rifampin with linezolid resulted in a 21% decrease in linezolid Cmax [90% CI, 15% - 27%] and a 32% decrease in linezolid AUC0-12 [90% CI, 27% - 37%].
+Co-administration of rifampin with linezolid resulted in a 21% decrease in linezolid Cmax [90% CI, 15% – 27%] and a 32% decrease in linezolid AUC0–12 [90% CI, 27% – 37%].
 The clinical significance of this interaction is unknown.
 The mechanism of this interaction is not fully understood and may be related to the induction of hepatic enzymes.
 Other strong inducers of hepatic enzymes (e.g. carbamazepine, phenytoin, phenobarbital) could cause a similar or smaller decrease in linezolid exposure.
@@ -231,7 +225,7 @@ Blood pressure was increased with both combination treatments.
 Maximum blood pressure levels were seen 2 to 3 hours after the second dose of PPA or PSE, and returned to baseline 2 to 3 hours after peak.
 The results of the PPA study follow, showing the mean (and range) maximum systolic blood pressure in mm Hg: placebo = 121 (103 to 158); linezolid alone = 120 (107 to 135); PPA alone = 125 (106 to 139); PPA with linezolid = 147 (129 to 176).
 The results from the PSE study were similar to those in the PPA study.
-The mean maximum increase in systolic blood pressure over baseline was 32 mm Hg (range: 20-52 mm Hg) and 38 mm Hg (range: 18-79 mm Hg) during co-administration of linezolid with pseudoephedrine or phenylpropanolamine, respectively.
+The mean maximum increase in systolic blood pressure over baseline was 32 mm Hg (range: 20–52 mm Hg) and 38 mm Hg (range: 18–79 mm Hg) during co-administration of linezolid with pseudoephedrine or phenylpropanolamine, respectively.
 
 Serotonergic Agents
 
@@ -305,21 +299,21 @@ The disk diffusion interpretive criteria are provided in Table 12.
 Table 12.
 Susceptibility Test Interpretive Criteria for Linezolid
 
-| Pathogen | Susceptibility Interpretive Criteria |  |  |  |  |  |
+| Pathogen | S | I | R | S | I | R |
 | --- | --- | --- | --- | --- | --- | --- |
-| Minimal Inhibitory Concentrations(MIC in mcg/mL) |  |  | Disk Diffusion(Zone Diameters in mm) |  |  |  |
-| S | I | R | S | I | R |  |
-| Enterococcus spp. | ≤2 | 4 | ≥8 | ≥23 | 21-22 | ≤20 |
-| Staphylococcus spp.a | ≤4 | --- | ≥8 | ≥21 | --- | ≤20 |
-| Streptococcus pneumoniaeb | ≤2 | --- | --- | ≥21 | --- | --- |
-| Streptococcus spp. other than S. pneumoniaeb | ≤2 | --- | --- | ≥21 | --- | --- |
-| S=susceptible, I=intermediate, R=resistant a For disk diffusion testing of staphylococcal species, petri plates should be held up to the light source and read with transmitted light. The zone margin should be considered the area showing no obvious, visible growth that can be detected with the unaided eye. Ignore faint growth of tiny colonies that can be detected only with a magnifying lens at the edge of the zone of inhibited growth. Any discernible growth within the zone of inhibition is indicative of resistance. Resistant results obtained by the disk diffusion method should be confirmed using an MIC method. b The current absence of data on resistant isolates precludes defining any categories other than “Susceptible.” Isolates yielding test results suggestive of a “nonsusceptible” category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing. |  |  |  |  |  |  |
+|  | Susceptibility Interpretive Criteria |  |  |  |  |  |
+|  | Minimal Inhibitory Concentrations (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameters in mm) |  |  |
+| Enterococcus spp. | ≤2 | 4 | ≥8 | ≥23 | 21–22 | ≤20 |
+| Staphylococcus spp.For disk diffusion testing of staphylococcal species, petri plates should be held up to the light source and read with transmitted light. The zone margin should be considered the area showing no obvious, visible growth that can be detected with the unaided eye. Ignore faint growth of tiny colonies that can be detected only with a magnifying lens at the edge of the zone of inhibited growth. Any discernible growth within the zone of inhibition is indicative of resistance. Resistant results obtained by the disk diffusion method should be confirmed using an MIC method. | ≤4 | --- | ≥8 | ≥21 | --- | ≤20 |
+| Streptococcus pneumoniaeThe current absence of data on resistant isolates precludes defining any categories other than "Susceptible." Isolates yielding test results suggestive of a "nonsusceptible" category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing. | ≤2 | --- | --- | ≥21 | --- | --- |
+| Streptococcus spp. other than S. pneumoniae | ≤2 | --- | --- | ≥21 | --- | --- |
+| S=susceptible, I=intermediate, R=resistant |  |  |  |  |  |  |
 
-A report of “Susceptible” indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of “Intermediate” indicates that the result should be considered equivocal, and, if the bacteria is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of "Susceptible" indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of "Intermediate" indicates that the result should be considered equivocal, and, if the bacteria is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug product is physiologically concentrated or in situations where a high dosage of the drug product can be used.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of “Resistant” indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection; other therapy should be selected.
+A report of "Resistant" indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection; other therapy should be selected.
 
 Quality Control
 
@@ -330,10 +324,9 @@ For the diffusion technique using the 30 mcg linezolid disk, the criteria in Tab
 Table 13.
 Acceptable Quality Control Ranges for Linezolid
 
-|  | Minimum Inhibitory Ranges(MIC in mcg/mL) | Disk Diffusion Ranges ZoneDiameters (mm) |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Enterococcus faecalisATCC 29212 | 1-4 | Not applicable |  |  |  |  |  |  |  |
-| Staphylococcus aureusATCC 29213 | 1-4 | Not applicable |  |  |  |  |  |  |  |
-| Staphylococcus aureusATCC 25923 | Not applicable | 25-32 |  |  |  |  |  |  |  |
-| Streptococcus pneumoniaeATCC 49619a | 0.25-2 | 25-34 |  |  |  |  |  |  |  |
-| a This organism may be used for validation of susceptibility test results when testing Streptococcus spp. other than S. pneumoniae. |  |  |  |  |  |  |  |  |  |
+|  | Minimum Inhibitory Ranges (MIC in mcg/mL) | Disk Diffusion Ranges Zone Diameters (mm) |
+| --- | --- | --- |
+| Enterococcus faecalis ATCC 29212 | 1–4 | Not applicable |
+| Staphylococcus aureus ATCC 29213 | 1–4 | Not applicable |
+| Staphylococcus aureus ATCC 25923 | Not applicable | 25–32 |
+| Streptococcus pneumoniae ATCC 49619This organism may be used for validation of susceptibility test results when testing Streptococcus spp. other than S. pneumoniae. | 0.25–2 | 25–34 |

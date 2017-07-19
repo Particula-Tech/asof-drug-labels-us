@@ -78,4 +78,4 @@ If hypoglycemia occurs, a decrease in the dose of insulin or oral hypoglycemic a
 
 ## 5.10 Development of Drug-Resistant Bacteria
 
-Prescribing linezolid in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing linezolid in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

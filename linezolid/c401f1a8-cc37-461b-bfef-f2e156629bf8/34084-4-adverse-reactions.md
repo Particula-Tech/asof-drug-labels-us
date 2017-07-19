@@ -7,13 +7,14 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adults
 
 The safety of linezolid formulations was evaluated in 2046 adult patients enrolled in seven Phase 3 comparator-controlled clinical trials, who were treated for up to 28 days.
+For all indications, 20.4% of linezolid-treated and 14.3% of comparator-treated patients experienced at least one drug-related adverse event.
 
-Table 2 shows the incidence of adverse reactions reported in at least 1% of adult patients in these trials by dose of linezolid.
+Table 2 shows the incidence of all-causality, treatment-emergent adverse reactions reported in at least 1% of adult patients in these trials by dose of linezolid.
 
 Table 2.
-Incidence (%) of Adverse Reactions Occurring in greater than 1% of Adult Patients Treated with Linezolid in Comparator-Controlled Clinical Trials
+Incidence (%) Treatment-Emergent Adverse Reactions Occurring in greater than 1% of Adult Patients Treated with Linezolid in Comparator-Controlled Clinical Trials
 
-|  | Linezolid 600 mg every 12 hours(n = 1498) | All Other ComparatorsComparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours.(n = 1464) |
+| ADVERSE REACTIONS | Linezolid 600 mg every 12 hours (n = 1498) | All Other ComparatorsComparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours. (n = 1464) |
 | --- | --- | --- |
 | Headache | 5.7 | 4.4 |
 | Diarrhea | 8.3 | 6.4 |
@@ -26,6 +27,8 @@ Incidence (%) of Adverse Reactions Occurring in greater than 1% of Adult Patient
 | Vaginal moniliasis | 1.1 | 0.5 |
 | Oral moniliasis | 1.7 | 1.0 |
 | Abnormal liver function tests | 1.6 | 0.8 |
+| Fungal infection | 0.3 | 0.2 |
+| Tongue discoloration | 0.3 | 0 |
 | Localized abdominal pain | 1.2 | 0.8 |
 | Generalized abdominal pain | 1.2 | 1.0 |
 
@@ -39,12 +42,14 @@ These patients were enrolled in two Phase 3 comparator-controlled clinical trial
 In the study of hospitalized pediatric patients (birth through 11 years) with Gram-positive infections, who were randomized 2 to 1 (linezolid: vancomycin), mortality was 6.0% (13/215) in the linezolid arm and 3.0% (3/101) in the vancomycin arm.
 However, given the severe underlying illness in the patient population, no causality could be established.
 
-Table 3 shows the incidence of adverse reactions reported in more than 1% of pediatric patients (and more than 1 patient) in either treatment group in the comparator-controlled Phase 3 trials.
+For all indications, 18.8% of linezolid-treated and 34.3% of comparator-treated patients experienced at least one drug-related adverse event.
+
+Table 3 shows the incidence of all-causality, treatment-emergent adverse reactions reported in more than 1% of pediatric patients (and more than 1 patient) in either treatment group in the comparator-controlled Phase 3 trials.
 
 Table 3.
-Incidence (%) of Adverse Reactions Occurring in greater than 1% of Pediatric Patients (and greater than 1 Patient) in Either Treatment Group in Comparator-Controlled Clinical TrialsPatients from birth through 11 years of age received linezolid 10 mg/kg intravenously and/or by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6-24 hours, depending on age and renal clearance.
+Incidence (%) of Treatment-Emergent Adverse Reactions Occurring in greater than 1% of Pediatric Patients (and greater than 1 Patient) in Either Treatment Group in Comparator-Controlled Clinical TrialsPatients from birth through 11 years of age received linezolid 10 mg/kg intravenously and/or by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6–24 hours, depending on age and renal clearance.
 
-|  | Linezolid(n = 215) | Vancomycin(n = 101) |
+| ADVERSE REACTIONS | Linezolid (n = 215) | Vancomycin (n = 101) |
 | --- | --- | --- |
 | Diarrhea | 10.8 | 12.1 |
 | Vomiting | 9.4 | 9.1 |
@@ -57,6 +62,9 @@ Incidence (%) of Adverse Reactions Occurring in greater than 1% of Pediatric Pat
 | Loose stools | 2.3 | 3.0 |
 | Eosinophilia | 1.9 | 1.0 |
 | Pruritus at non-application site | 1.4 | 2.0 |
+| Vertigo | 0 | 0 |
+
+For all indications, discontinuations due to drug-related adverse events occurred in 0.9% of linezolid-treated and 6.1% of comparator-treated patients.
 
 Laboratory Abnormalities
 
@@ -80,15 +88,15 @@ Hematology Laboratory Value in Comparator-Controlled Clinical Trials with Linezo
 | Laboratory Assay | Linezolid 600 mg every 12 hours | All Other ComparatorsComparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours. |
 | --- | --- | --- |
 | Hemoglobin (g/dL) | 7.1 | 6.6 |
-| Platelet count (x 103/mm3) | 3.0 | 1.8 |
-| WBC (x 103/mm3) | 2.2 | 1.3 |
-| Neutrophils (x 103/mm3) | 1.1 | 1.2 |
+| Platelet count (× 103/mm3) | 3.0 | 1.8 |
+| WBC (× 103/mm3) | 2.2 | 1.3 |
+| Neutrophils (× 103/mm3) | 1.1 | 1.2 |
 
 Table 5.
 Percent of Adult Patients who Experienced at Least One Substantially AbnormalGreater than 2× Upper Limit of Normal (ULN) for values normal at baseline; greater than 2× ULN and greater than 2× baseline for values abnormal at baseline.
 Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with Linezolid
 
-|  | Linezolid 600 mg every 12 hours | All Other ComparatorsComparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours. |
+| Laboratory Assay | Linezolid 600 mg every 12 hours | All Other ComparatorsComparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours. |
 | --- | --- | --- |
 | AST (U/L) | 5.0 | 6.8 |
 | ALT (U/L) | 9.6 | 9.3 |
@@ -102,22 +110,23 @@ Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with L
 
 Table 6.
 Percent of Pediatric Patients who Experienced at Least One Substantially AbnormalLess than 75% (less than 50% for neutrophils) of Lower Limit of Normal (LLN) for values normal at baseline; less than 75% (less than 50% for neutrophils) of LLN and less than 75% (less than 50% for neutrophils, less than 90% for hemoglobin if baseline less than LLN) of baseline for values abnormal at baseline.
-Hematology Laboratory Value in Comparator-Controlled Clinical Trials with LinezolidPatients from birth through 11 years of age received linezolid 10 mg/kg intravenously and/or by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6-24 hours, depending on age and renal clearance.
+Hematology Laboratory Value in Comparator-Controlled Clinical Trials with LinezolidPatients from birth through 11 years of age received linezolid 10 mg/kg intravenously and/or by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6–24 hours, depending on age and renal clearance.
 
-|  | Linezolid | Vancomycin |
+| Laboratory Assay | Linezolid | Vancomycin |
 | --- | --- | --- |
 | Hemoglobin (g/dL) | 15.7 | 12.4 |
-| Platelet count (x 103/mm3) | 12.9 | 13.4 |
-| WBC (x 103/mm3) | 12.4 | 10.3 |
-| Neutrophils (x 103/mm3) | 5.9 | 4.3 |
+| Platelet count (× 103/mm3) | 12.9 | 13.4 |
+| WBC (× 103/mm3) | 12.4 | 10.3 |
+| Neutrophils (× 103/mm3) | 5.9 | 4.3 |
 
 Table 7.
-Percent of Pediatric Patients who Experienced at Least One Substantially AbnormalGreater than 2 x Upper Limit of Normal (ULN) for values normal at baseline; greater than 2× ULN and greater than 2 (greater than 1.5 for total bilirubin) × baseline for values abnormal at baseline.
-Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with LinezolidPatients from birth through 11 years of age received linezolid 10 mg/kg intravenously and/or by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6-24 hours, depending on age and renal clearance.
+Percent of Pediatric Patients who Experienced at Least One Substantially AbnormalGreater than 2 × Upper Limit of Normal (ULN) for values normal at baseline; greater than 2× ULN and greater than 2 (greater than 1.5 for total bilirubin) × baseline for values abnormal at baseline.
+Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with LinezolidPatients from birth through 11 years of age received linezolid 10 mg/kg intravenously and/or by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6–24 hours, depending on age and renal clearance.
 
-|  | Linezolid | Vancomycin |
+| Laboratory Assay | Linezolid | Vancomycin |
 | --- | --- | --- |
 | ALT (U/L) | 10.1 | 12.5 |
+| Lipase (U/L) | --- | --- |
 | Amylase (U/L) | 0.6 | 1.3 |
 | Total bilirubin (mg/dL) | 6.3 | 5.2 |
 | Creatinine (mg/dL) | 2.4 | 1.0 |

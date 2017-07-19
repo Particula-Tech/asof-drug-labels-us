@@ -19,9 +19,9 @@ The cure rates by pathogen for microbiologically evaluable patients are presente
 Table 14.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patients with Nosocomial Pneumonia
 
-| Pathogen | Cured |  |
+| Pathogen | Linezolid n/N (%) | Vancomycin n/N (%) |
 | --- | --- | --- |
-| Linezolid n/N (%) | Vancomycin n/N (%) |  |
+|  | Cured |  |
 | Staphylococcus aureus | 23/38 (61) | 14/23 (61) |
 | Methicillin-resistant S. aureus | 13/22 (59) | 7/10 (70) |
 | Streptococcus pneumoniae | 9/9 (100) | 9/10 (90) |
@@ -41,9 +41,9 @@ The cure rates by pathogen for microbiologically evaluable patients are presente
 Table 15.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patients with Complicated Skin and Skin Structure Infections
 
-| Pathogen | Cured |  |
+| Pathogen | Linezolid n/N (%) | Oxacillin/Dicloxacillin n/N (%) |
 | --- | --- | --- |
-| Linezolidn/N (%) | Oxacillin/Dicloxacillinn/N (%) |  |
+|  | Cured |  |
 | Staphylococcus aureus | 73/83 (88) | 72/84 (86) |
 | Methicillin-resistant S. aureus | 2/3 (67) | 0/0 (-) |
 | Streptococcus agalactiae | 6/6 (100) | 3/6 (50) |
@@ -59,11 +59,11 @@ The cure rates in microbiologically evaluable patients with MRSA skin and skin s
 
 Diabetic Foot Infections
 
-Adult diabetic patients with clinically documented complicated skin and skin structure infections (“diabetic foot infections”) were enrolled in a randomized (2:1 ratio), multi-center, open-label trial comparing study medications administered intravenously or orally for a total of 14 to 28 days of treatment.
+Adult diabetic patients with clinically documented complicated skin and skin structure infections ("diabetic foot infections") were enrolled in a randomized (2:1 ratio), multi-center, open-label trial comparing study medications administered intravenously or orally for a total of 14 to 28 days of treatment.
 One group of patients received linezolid 600 mg every 12 hours intravenously or orally; the other group received ampicillin/sulbactam 1.5 to 3 g intravenously or amoxicillin/clavulanate 500 to 875 mg every 8 to 12 hours orally.
 In countries where ampicillin/sulbactam is not marketed, amoxicillin/clavulanate 500 mg to 2 g every 6 hours was used for the intravenous regimen.
 Patients in the comparator group could also be treated with vancomycin 1 g every 12 hours intravenously if MRSA was isolated from the foot infection.
-Patients in either treatment group who had Gram-negative bacilli isolated from the infection site could also receive aztreonam 1 to 2 g every 8-12 hours intravenously.
+Patients in either treatment group who had Gram-negative bacilli isolated from the infection site could also receive aztreonam 1 to 2 g every 8–12 hours intravenously.
 All patients were eligible to receive appropriate adjunctive treatment methods, such as debridement and off-loading, as typically required in the treatment of diabetic foot infections, and most patients received these treatments.
 There were 241 linezolid-treated and 120 comparator-treated patients in the intent-to-treat (ITT) study population.
 Two hundred twelve (86%) linezolid-treated patients and 105 (85%) comparator-treated patients were clinically evaluable.
@@ -77,9 +77,9 @@ The cure rates by pathogen for microbiologically evaluable patients are presente
 Table 16.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patients with Diabetic Foot Infections
 
-| Pathogen | Cured |  |
+| Pathogen | Linezolid n/N (%) | Comparator n/N (%) |
 | --- | --- | --- |
-| Linezolidn/N (%) | Comparatorn/N (%) |  |
+|  | Cured |  |
 | Staphylococcus aureus | 49/63 (78) | 20/29 (69) |
 | Methicillin-resistant S. aureus | 12/17 (71) | 2/3 (67) |
 | Streptococcus agalactiae | 25/29 (86) | 9/16 (56) |
@@ -98,9 +98,9 @@ The cure rate was higher in the high-dose arm than in the low-dose arm, although
 Table 17.
 Cure Rates at the Test-of-Cure Visit for ITT Adult Patients with Documented Vancomycin-Resistant Enterococcal Infections at Baseline
 
-| Source of Infection | Cured |  |
+| Source of Infection | Linezolid 600 mg every 12 hours n/N (%) | Linezolid 200 mg every 12 hours n/N (%) |
 | --- | --- | --- |
-| Linezolid600 mg every 12 hoursn/N (%) | Linezolid200 mg every 12 hoursn/N (%) |  |
+|  | Cured |  |
 | Any site | 39/58 (67) | 24/46 (52) |
 | Any site with associated bacteremia | 10/17 (59) | 4/14 (29) |
 | Bacteremia of unknown origin | 5/10 (50) | 2/7 (29) |
@@ -127,9 +127,9 @@ Table 19 provides clinical cure rates by pathogen for microbiologically evaluabl
 Table 18.
 Cure Rates at the Test-of-Cure Visit for Intent-to-Treat, Modified Intent-to-Treat, and Clinically Evaluable Pediatric Patients for the Overall Population and by Select Baseline Diagnosis
 
-| Population | ITT |  | MITTMITT = ITT patients with an isolated Gram-positive pathogen at baseline |  | Clinically Evaluable |  |
+| Population | Linezolid n/N (%) | Vancomycin n/N (%) | Linezolid n/N (%) | Vancomycin n/N (%) | Linezolid n/N (%) | Vancomycin n/N (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Linezolidn/N (%) | Vancomycinn/N (%) | Linezolidn/N (%) | Vancomycinn/N (%) | Linezolidn/N (%) | Vancomycinn/N (%) |  |
+|  | ITT |  | MITTMITT = ITT patients with an isolated Gram-positive pathogen at baseline |  | Clinically Evaluable |  |
 | Any diagnosis | 150/186 (81) | 69/83 (83) | 86/108 (80) | 44/49 (90) | 106/117 (91) | 49/54 (91) |
 | Complicated skin and skin structure infections | 61/72 (85) | 31/34 (91) | 37/43 (86) | 22/23 (96) | 46/49 (94) | 26/27 (96) |
 | Nosocomial pneumonia | 13/18 (72) | 11/12 (92) | 5/6 (83) | 4/4 (100) | 7/7 (100) | 5/5 (100) |
@@ -137,9 +137,9 @@ Cure Rates at the Test-of-Cure Visit for Intent-to-Treat, Modified Intent-to-Tre
 Table 19.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Pediatric Patients with Infections due to Gram-positive Pathogens
 
-| Pathogen | Microbiologically Evaluable |  |
+| Pathogen | Linezolid n/N (%) | Vancomycin n/N (%) |
 | --- | --- | --- |
-| Linezolidn/N (%) | Vancomycinn/N (%) |  |
+|  | Microbiologically Evaluable |  |
 | Vancomycin-resistant Enterococcus faecium | 6/8 (75)Includes data from 7 patients enrolled in the open-label extension of this study. | 0/0 (-) |
 | Staphylococcus aureus | 36/38 (95) | 23/24 (96) |
 | Methicillin-resistant S. aureus | 16/17 (94) | 9/9 (100) |

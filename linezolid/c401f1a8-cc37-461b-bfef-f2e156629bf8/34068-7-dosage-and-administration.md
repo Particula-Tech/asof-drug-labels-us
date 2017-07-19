@@ -8,9 +8,9 @@ No dose adjustment is necessary when switching from intravenous to oral administ
 Table 1.
 Dosage Guidelines for Linezolid Injection
 
-| InfectionDue to the designated pathogens [see Indications and Usage (1)] | Dosage, Route, and Frequency of Administration |  | Recommended Duration of Treatment(consecutive days) |
+| InfectionDue to the designated pathogens [see Indications and Usage (1)] | Pediatric PatientsNeonates less than 7 days: Most pre-term neonates less than 7 days of age (gestational age less than 34 weeks) have lower systemic linezolid clearance values and larger AUC values than many full-term neonates and older infants. These neonates should be initiated with a dosing regimen of 10 mg/kg every 12 hours. Consideration may be given to the use of 10 mg/kg every 8 hours regimen in neonates with a sub-optimal clinical response. All neonatal patients should receive 10 mg/kg every 8 hours by 7 days of life [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)] (Birth through 11 Years of Age) | Adults and Adolescents (12 Years and Older) |  |
 | --- | --- | --- | --- |
-| Pediatric Patients less than 12 Years of Age | Adults and Adolescents (12 Years and Older) |  |  |
+|  | Dosage, Route, and Frequency of Administration |  | Recommended Duration of Treatment (consecutive days) |
 | Nosocomial pneumonia | 10 mg/kg intravenously every 8 hours | 600 mg intravenously every 12 hours | 10 to 14 |
 | Community-acquired pneumonia, including concurrent bacteremia |  |  |  |
 | Complicated skin and skin structure infections |  |  |  |
@@ -40,7 +40,7 @@ If the same intravenous line is used for sequential infusion of several drugs, t
 
 ## 2.3 Compatibilities
 
-Compatible intravenous solutions include 0.9% Sodium Chloride Injection, USP, 5% Dextrose Injection, USP, and Lactated Ringer’s Injection, USP.
+Compatible intravenous solutions include 0.9% Sodium Chloride Injection, USP, 5% Dextrose Injection, USP, and Lactated Ringer's Injection, USP.
 
 ## 2.4 Incompatibilities
 
