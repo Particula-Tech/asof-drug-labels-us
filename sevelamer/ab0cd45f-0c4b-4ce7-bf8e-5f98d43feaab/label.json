@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA207179"
+  ],
+  "inn": "sevelamer",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-921-27",
+    "65862-921-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sevelamer carbonate",
+      "name": "Sevelamer Carbonate"
+    }
+  ],
+  "setid": "ab0cd45f-0c4b-4ce7-bf8e-5f98d43feaab",
+  "source": "dailymed"
+}
