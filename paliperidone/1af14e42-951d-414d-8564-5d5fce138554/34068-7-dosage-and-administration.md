@@ -2,7 +2,7 @@
 
 ## 2.1 Administration Instructions
 
-Each injection must be administered only by a health care professional.
+Each injection must be administered only by a healthcare professional.
 
 Parenteral drug products should be inspected visually for foreign matter and discoloration prior to administration, whenever product and container permit.
 
@@ -10,7 +10,9 @@ INVEGA SUSTENNA® is intended for intramuscular use only.
 Do not administer by any other route.
 Avoid inadvertent injection into a blood vessel.
 Administer the dose in a single injection; do not administer the dose in divided injections.
-Inject slowly, deep into the muscle.
+Inject slowly, deep into the deltoid or gluteal muscle.
+
+INVEGA SUSTENNA® must be administered using only the needles that are provided in the INVEGA SUSTENNA® kit.
 
 The recommended needle size for administration of INVEGA SUSTENNA® into the deltoid muscle is determined by the patient's weight:
 
@@ -32,8 +34,7 @@ The recommended dosing of INVEGA SUSTENNA® for each approved indication is disp
 The recommended initiation of INVEGA SUSTENNA® is with a dose of 234 mg on treatment day 1 and 156 mg one week later, both administered in the deltoid muscle.
 Following the second initiation dose, monthly maintenance doses can be administered in either the deltoid or gluteal muscle.
 
-Table 1.
-Recommended Dosing of INVEGA SUSTENNA® for Adults with Schizophrenia or Schizoaffective Disorder
+Table 1: Recommended Dosing of INVEGA SUSTENNA® for Adults with Schizophrenia or Schizoaffective Disorder
 
 | Day 1 | Day 8 |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -58,23 +59,19 @@ Management of a Missed Second Initiation Dose
 If the target date for the second INVEGA SUSTENNA® injection (one week ± 4 days) is missed, the recommended reinitiation depends on the length of time which has elapsed since the patient's first injection.
 In case of a missed second initiation dose follow the dosing instructions provided in Table 2.
 
-Table 2.
-Management of a Missed Second Initiation Dose
+Table 2: Management of a Missed Second Initiation Dose
 
 | TIMING OF MISSED SECOND INITIATION DOSE | DOSING |
 | --- | --- |
 | Less than 4 weeks since first injection | Administer the second initiation dose of 156 mg in the deltoid muscle as soon as possible. It is recommended to administer a third injection of 117 mg in either the deltoid or gluteal muscle 5 weeks after the first injection (regardless of the timing of the second injection).Thereafter, resume regular monthly dosing in either the deltoid or gluteal muscle. |
-| 4 to 7 weeks since first injection | Resume dosing with two injections of 156 mg in the following manner: |
-|  | Administer a deltoid injection as soon as possible.Administer a second deltoid injection 1 week later.Thereafter, resume regular monthly dosing in either the deltoid or gluteal muscle. |
-| More than 7 weeks since first injection | Restart dosing with recommended initiation (see Section 2.2, Table 1): |
-|  | Administer a 234 mg deltoid injection on Day 1.Administer a 156 mg deltoid injection 1 week later.Thereafter, resume regular monthly dosing in either the deltoid or gluteal muscle. |
+| 4 to 7 weeks since first injection | Resume dosing with two injections of 156 mg in the following manner: Administer a deltoid injection as soon as possible.Administer a second deltoid injection 1 week later.Thereafter, resume regular monthly dosing in either the deltoid or gluteal muscle. |
+| More than 7 weeks since first injection | Restart dosing with recommended initiation (see Section 2.2, Table 1): Administer a 234 mg deltoid injection on Day 1.Administer a 156 mg deltoid injection 1 week later.Thereafter, resume regular monthly dosing in either the deltoid or gluteal muscle. |
 
 Management of a Missed Maintenance Dose
 
 In case of a missed maintenance dose follow the dosing instructions provided in Table 3.
 
-Table 3.
-Management of a Missed Maintenance Dose
+Table 3: Management of a Missed Maintenance Dose
 
 | TIMING OF MISSED MAINTENANCE DOSE | DOSING |
 | --- | --- |
@@ -100,14 +97,14 @@ INVEGA SUSTENNA® is not recommended in patients with moderate or severe renal i
 
 Coadministration with Strong CYP3A4/P-glycoprotein (P-gp) Inducers
 
-It may be necessary to increase the dose of INVEGA SUSTENNA® when a strong inducer of both CYP3A4 and P-gp (e.g., carbamazepine, rifampin, St John's wort) is co-administered.
-Conversely, on discontinuation of the strong inducer, it may be necessary to decrease the dose of INVEGA SUSTENNA® [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+Avoid using a strong inducer of CYP3A4 and/or P-gp (e.g., carbamazepine, rifampin, St John's Wort) during the 1-month dosing interval for INVEGA SUSTENNA®, if possible.
+If administering a strong inducer is necessary, consider managing the patient using paliperidone extended release tablets [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 ## 2.6 Switching from Other Antipsychotics
 
 There are no systematically collected data to specifically address switching patients with schizophrenia or schizoaffective disorder from other antipsychotics to INVEGA SUSTENNA®, or concerning concomitant administration with other antipsychotics.
 
-2.6.1 Switching from Oral Antipsychotics
+Switching from Oral Antipsychotics
 
 For patients who have never taken oral paliperidone or oral or injectable risperidone, tolerability should be established with oral paliperidone or oral risperidone prior to initiating treatment with INVEGA SUSTENNA®.
 
@@ -115,15 +112,17 @@ Previous oral antipsychotics can be gradually discontinued at the time of initia
 Recommended initiation of INVEGA SUSTENNA® is with a dose of 234 mg on treatment day 1 and 156 mg one week later, both administered in the deltoid muscle [see Dosage and Administration (2.2)].
 Patients previously stabilized on different doses of INVEGA® Extended-Release tablets can attain similar paliperidone steady-state exposure during maintenance treatment with INVEGA SUSTENNA® monthly doses as depicted in Table 4.
 
-Table 4.
-Doses of INVEGA® and INVEGA SUSTENNA® needed to attain similar steady-state paliperidone exposure during maintenance treatment
+Table 4: Doses of INVEGA® and INVEGA SUSTENNA® Needed to Attain Similar Steady-State Paliperidone Exposure During Maintenance Treatment
 
 | Dosing Frequency | Once Daily | Once every 4 weeks |
 | --- | --- | --- |
 | Formulation | INVEGA® Extended-Release Tablet | INVEGA SUSTENNA® Injection |
-| Dose (mg) | 12 6 3 | 234 117 39–78 |
+| Dose (mg) | 12 | 234 |
+| 9 | 156 |  |
+| 6 | 117 |  |
+| 3 | 39–78 |  |
 
-2.6.2 Switching from Long-Acting Injectable Antipsychotics
+Switching from Long-Acting Injectable Antipsychotics
 
 For patients who have never taken oral paliperidone or oral or injectable risperidone, tolerability should be established with oral paliperidone or oral risperidone prior to initiating treatment with INVEGA SUSTENNA®.
 
@@ -140,33 +139,28 @@ As recommended with other antipsychotic medications, the need for continuing exi
 
 ## 2.7 Instructions for Use
 
-Each injection must be administered only by a health care professional.
+Each injection must be administered only by a healthcare professional.
 
 The kit contains a prefilled syringe and 2 safety needles (a 1 ½-inch 22 gauge needle and a 1-inch 23 gauge needle) for intramuscular injection.
 
 INVEGA SUSTENNA® is for single use only.
 
-- a. Shake the syringe vigorously for a minimum of 10 seconds to ensure a homogeneous suspension.
-
-- b. Select the appropriate needle.For DELTOID injection: For GLUTEAL injection:Use the 1 ½-inch 22 gauge needle (needle with gray colored hub) regardless of patient's weight.
+- a.Shake the syringe vigorously for a minimum of 10 seconds to ensure a homogeneous suspension.
+- b.Select the appropriate needle.
+  For DELTOID injection:For GLUTEAL injection:Use the 1 ½-inch 22 gauge needle (needle with gray colored hub) regardless of patient's weight.
   - If the patient weighs less than 90 kg, use the 1-inch 23 gauge needle (needle with blue colored hub).
   - If the patient weighs 90 kg or more, use the 1 ½-inch 22 gauge needle (needle with gray colored hub).
-
-- c. While holding the syringe upright, remove the rubber tip cap with an easy clockwise twisting motion.
-
-- d. Peel the safety needle pouch half way open.
+- c.While holding the syringe upright, remove the rubber tip cap with an easy clockwise twisting motion.
+- d.Peel the safety needle pouch half way open.
   Grasp the needle sheath using the plastic peel pouch.
   Attach the safety needle to the luer connection of the syringe with an easy clockwise twisting motion.
-
-- e. Pull the needle sheath away from the needle with a straight pull.
+- e.Pull the needle sheath away from the needle with a straight pull.
   Do not twist the sheath as the needle may be loosened from the syringe.
-
-- f. Bring the syringe with the attached needle in upright position to de-aerate.
+- f.Bring the syringe with the attached needle in upright position to de-aerate.
   De-aerate the syringe by moving the plunger rod carefully forward.
-
-- g. Inject the entire contents intramuscularly slowly, deep into the selected deltoid or gluteal muscle of the patient.
+- g.Inject the entire contents intramuscularly slowly, deep into the selected deltoid or gluteal muscle of the patient.
   Do not administer by any other route.
-- h. After the injection is complete, use either thumb or finger of one hand (h1, h2) or a flat surface (h3) to activate the needle protection system.
+- h.After the injection is complete, use either thumb or finger of one hand (h1, h2) or a flat surface (h3) to activate the needle protection system.
   The needle protection system is fully activated when a 'click' is heard.
   Discard the syringe with needle appropriately.
 

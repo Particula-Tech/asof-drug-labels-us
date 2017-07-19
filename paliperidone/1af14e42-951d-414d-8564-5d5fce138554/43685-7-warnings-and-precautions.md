@@ -8,16 +8,17 @@ Over the course of a typical 10-week controlled trial, the rate of death in drug
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
-INVEGA SUSTENNA® (paliperidone palmitate) is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
+INVEGA SUSTENNA® is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.2)].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
-Oral paliperidone and INVEGA SUSTENNA® were not marketed at the time these studies were performed and are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
+No studies have been conducted with oral paliperidone, INVEGA SUSTENNA®, or the 3-month paliperidone palmitate extended-release injectable suspension in elderly patients with dementia.
+These medicines are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
-A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs, including INVEGA SUSTENNA®.
+A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs, including paliperidone.
 
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
 Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
@@ -79,11 +80,11 @@ While all of the drugs in the class have been shown to produce some metabolic ch
 Hyperglycemia and Diabetes Mellitus
 
 Hyperglycemia and diabetes mellitus, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, have been reported in patients treated with all atypical antipsychotics.
-These cases were, for the most part, seen in post-marketing clinical use and epidemiologic studies, not in clinical trials, and there have been few reports of hyperglycemia or diabetes in trial subjects treated with INVEGA SUSTENNA®.
+These cases were, for the most part, seen in post-marketing clinical use and epidemiologic studies, not in clinical trials.
+Hyperglycemia and diabetes have been reported in trial subjects treated with INVEGA SUSTENNA®.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
-Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse reactions is not completely understood.
+Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
 However, epidemiological studies suggest an increased risk of hyperglycemia-related adverse reactions in patients treated with the atypical antipsychotics.
-Because INVEGA SUSTENNA® was not marketed at the time these studies were performed, it is not known if INVEGA SUSTENNA® is associated with this risk.
 
 Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
 Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
@@ -93,10 +94,9 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 
 Pooled data from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies in subjects with schizophrenia are presented in Table 5.
 
-Table 5.
-Change in Fasting Glucose from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
+Table 5: Change in Fasting Glucose from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
 
-|  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [See Clinical Studies (14.1)]. | 234/156 mg | 234/234 mg |
+|  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)]. | 234/156 mg | 234/234 mg |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | INVEGA SUSTENNA® |  |  |  |  |  |
 |  | Mean change from baseline (mg/dL) |  |  |  |  |  |  |
@@ -117,10 +117,9 @@ Undesirable alterations in lipids have been observed in patients treated with at
 
 Pooled data from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies in subjects with schizophrenia are presented in Table 6.
 
-Table 6.
-Change in Fasting Lipids from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
+Table 6: Change in Fasting Lipids from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
 
-|  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [See Clinical Studies (14.1)]. | 234/156 mg | 234/234 mg |
+|  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)]. | 234/156 mg | 234/234 mg |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | INVEGA SUSTENNA® |  |  |  |  |  |
 |  | Mean change from baseline (mg/dL) |  |  |  |  |  |  |
@@ -148,8 +147,7 @@ Change in Fasting Lipids from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose
 
 In a long-term open-label pharmacokinetic and safety study in subjects with schizophrenia in which the highest dose available (234 mg) was evaluated, the mean changes from baseline in lipid values are presented in Table 7.
 
-Table 7.
-Change in Fasting Lipids from Long-term Open-label Pharmacokinetic and Safety Study in Subjects with Schizophrenia
+Table 7: Change in Fasting Lipids from Long-term Open-label Pharmacokinetic and Safety Study in Subjects with Schizophrenia
 
 |  | Week 29 | Week 53 |
 | --- | --- | --- |
@@ -166,8 +164,7 @@ Change in Fasting Lipids from Long-term Open-label Pharmacokinetic and Safety St
 
 The mean changes from baseline in lipid values during the initial 25-week open-label period and at the endpoint of the subsequent 15-month double-blind period in a long-term study in subjects with schizoaffective disorder are presented in Table 8.
 
-Table 8.
-Change in Fasting Lipids from an Open-Label and Double-Blind Periods of a Long-Term Study in Subjects with Schizoaffective Disorder
+Table 8: Change in Fasting Lipids from an Open-Label and Double-Blind Periods of a Long-Term Study in Subjects with Schizoaffective Disorder
 
 |  | INVEGA SUSTENNA® | Placebo | INVEGA SUSTENNA® |
 | --- | --- | --- | --- |
@@ -189,10 +186,9 @@ Clinical monitoring of weight is recommended.
 
 Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of ≥ 7% of body weight from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies in subjects with schizophrenia are presented in Table 9.
 
-Table 9.
-Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
+Table 9: Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
 
-|  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [See Clinical Studies (14.1)]. | 234/156 mg | 234/234 mg |
+|  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)]. | 234/156 mg | 234/234 mg |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | INVEGA SUSTENNA® |  |  |  |  |  |
 |  | n=451 | n=116 | n=280 | n=267 | n=137 | n=144 | n=145 |
@@ -206,7 +202,7 @@ At the endpoint of the subsequent 15-month double-blind period of the study, INV
 
 ## 5.7 Orthostatic Hypotension and Syncope
 
-Paliperidone can induce orthostatic hypotension and syncope in some patients because of its alpha-blocking activity.
+Paliperidone can induce orthostatic hypotension and syncope in some patients because of its alpha-adrenergic blocking activity.
 Syncope was reported in < 1% (4/1293) of subjects treated with INVEGA SUSTENNA® in the recommended dose range of 39 mg to 234 mg in the four fixed-dose, double-blind, placebo-controlled trials compared with 0% (0/510) of subjects treated with placebo.
 In the four fixed-dose efficacy studies in subjects with schizophrenia, orthostatic hypotension was reported as an adverse event by < 1% (2/1293) of INVEGA SUSTENNA®-treated subjects compared to 0% (0/510) with placebo.
 Incidences of orthostatic hypotension and syncope in the long-term studies in subjects with schizophrenia and schizoaffective disorder were similar to those observed in the short-term studies.
@@ -221,14 +217,15 @@ For patients, particularly the elderly, with diseases, conditions, or medication
 
 ## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
-In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including INVEGA®, an oral form of paliperidone.
+In clinical trial and/or postmarketing experience, events of leukopenia and neutropenia have been reported temporally related to antipsychotic agents, including INVEGA SUSTENNA®.
 Agranulocytosis has also been reported.
 
-Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
-Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of INVEGA SUSTENNA® should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC)/absolute neutrophil count (ANC) and history of drug-induced leukopenia/neutropenia.
+In patients with a history of a clinically significant low WBC/ANC or a drug-induced leukopenia/neutropenia, perform a complete blood count (CBC) frequently during the first few months of therapy.
+In such patients, consider discontinuation of INVEGA SUSTENNA® at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
-Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue INVEGA SUSTENNA® and have their WBC followed until recovery.
+Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
+Discontinue INVEGA SUSTENNA® in patients with severe neutropenia (absolute neutrophil count < 1000/mm3) and follow their WBC until recovery.
 
 ## 5.10 Hyperprolactinemia
 
@@ -243,6 +240,30 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 An increase in the incidence of pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+
+Prolactin data from two long-term, double-blind, placebo-controlled studies with INVEGA SUSTENNA® are presented below; one study was in a population of patients with schizophrenia; the second study was in patients with schizoaffective disorder.
+
+Schizophrenia
+
+In a long-term maintenance trial of INVEGA SUSTENNA® in schizophrenia patients (Study PSY-3001), see Clinical Studies (14.1), elevations of prolactin to above the reference range (> 18 ng/mL in males and > 30 ng/mL in females) relative to open-label baseline at any time during the double-blind phase were noted in a higher percentage of the patients in the INVEGA SUSTENNA® group than those in the placebo group in males (51.9% vs. 29.0%) and in females (50.5% vs. 42.9%).
+During the double-blind phase, 4 females (4.2%) in the INVEGA SUSTENNA® group experienced potentially prolactin-related adverse reactions (amenorrhea N=2; galactorrhea N=1; menstruation irregular N=1), while 2 females (2.2%) in the placebo group experienced potentially prolactin-related adverse reactions (amenorrhea N=1; breast pain N=1).
+One male (0.9%) in the INVEGA SUSTENNA® group experienced erectile dysfunction and 1 male (0.9%) in placebo group experienced gynecomastia.
+
+Prior to the double-blind phase (during the 33-week open-label phase of the long-term maintenance trial), the mean (SD) serum prolactin values at baseline were 14.9 (22.3) ng/mL in males (N=490) and 35.2 (39.6) ng/mL in females (N=358).
+At the end of the open-label phase, mean (SD) prolactin values were 24.7 (22.5) ng/mL in males (N=470) and 59.5 (38.1) ng/mL in females (N=333).
+During the open-label phases 49.2% of females and 47.7% of males experienced elevations of prolactin above the reference range relative to baseline, and a higher proportion of females experienced potentially prolactin-related adverse reactions compared to males (5.3% vs. 1.8%).
+Amenorrhea (2.5%) in females and no single potentially prolactin-related adverse reaction in males were observed with a rate greater than 2%.
+
+Schizoaffective Disorder
+
+In a long-term maintenance trial of INVEGA SUSTENNA® in patients with schizoaffective disorder (Study SCA-3004) see Clinical Studies (14.2), elevations of prolactin to above the reference range (> 13.13 ng/mL in males and > 26.72 ng/mL in females) relative to open-label baseline at any time during the 15-month double-blind phase were noted in a higher percentage of patients in the INVEGA SUSTENNA® group than those in the placebo group in males (55.6% vs. 23.2%) and in females (44.3% vs. 25.0%).
+During the 15-month double-blind phase, 11 females (13.9%) in the INVEGA SUSTENNA® group had 14 potentially prolactin-related adverse reactions (hyperprolactinemia N=3; blood prolactin increased N=4; libido decreased N=1; amenorrhea N=3; galactorrhea N=3), while 5 females (5.8%) in the placebo group had 6 potentially prolactin-related adverse reactions (hyperprolactinemia N=2; blood prolactin increased N=1; amenorrhea N=2; galactorrhea N=1).
+Six males (7.1%) in the INVEGA SUSTENNA® group experienced 6 potentially prolactin-related adverse reactions (hyperprolactinemia N=4; libido decreased N=1; erectile dysfunction N=1), while 1 male (1.2%) in the placebo group experienced adverse reaction of blood prolactin increased.
+
+Prior to the 15-month double-blind phase (during the 25-week open-label phase of the long-term maintenance trial), the mean (SD) serum prolactin values at baseline were 14.6 (14.0) ng/mL in males (N=352) and 39.1 (44.6) ng/mL in females (N=302).
+At the end of the open-label phase, mean (SD) prolactin values were 32.8 (17.2) ng/mL in males (N=275) and 72.4 (46.5) ng/mL in females (N=239).
+During the open-label phase, 48.9% of females and 53.3% of males experienced elevations of prolactin above the reference range relative to baseline, and a higher proportion of females experienced potentially prolactin-related adverse reactions compared to males (10.0% vs. 9.0%).
+Amenorrhea (5.8%) and galactorrhea (2.9%) in females and libido decrease (2.8%) and erectile dysfunction (2.5%) in males were observed with a rate greater than 2%.
 
 ## 5.11 Potential for Cognitive and Motor Impairment
 
@@ -260,7 +281,6 @@ Conditions that lower the seizure threshold may be more prevalent in patients 65
 ## 5.13 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
-Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
 INVEGA SUSTENNA® and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 
 ## 5.14 Priapism

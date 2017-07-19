@@ -3,7 +3,7 @@
 ## 10.1 Human Experience
 
 No cases of overdose were reported in premarketing studies with INVEGA SUSTENNA®.
-Because INVEGA SUSTENNA® is to be administered by health care professionals, the potential for overdosage by patients is low.
+Because INVEGA SUSTENNA® is to be administered by healthcare professionals, the potential for overdosage by patients is low.
 
 While experience with paliperidone overdose is limited, among the few cases of overdose reported in premarketing trials with oral paliperidone, the highest estimated ingestion was 405 mg.
 Observed signs and symptoms included extrapyramidal symptoms and gait unsteadiness.

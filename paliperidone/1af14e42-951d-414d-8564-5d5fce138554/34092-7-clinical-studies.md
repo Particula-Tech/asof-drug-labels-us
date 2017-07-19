@@ -23,28 +23,27 @@ In Study 3 (PSY-3004), a third 13-week study (n=513) comparing three fixed doses
 
 In Study 4 (SCH-201), the 9-week study (n=197) comparing two fixed doses of INVEGA SUSTENNA® (78 mg/4 weeks and 156 mg/4 weeks) to placebo, both doses of INVEGA SUSTENNA® were superior to placebo in improving PANSS total score.
 
-A summary of the mean baseline PANSS scores along with the mean changes from baseline in the four short-term acute schizophrenia studies are provided in Table 13.
+A summary of the mean baseline PANSS scores along with the mean changes from baseline in the four short-term acute schizophrenia studies are provided in Table 14.
 
-Table 13.
-Schizophrenia Short-term Studies
+Table 14: Schizophrenia Short-term Studies
 
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: PANSS Total Score |  |  |
 | Study 1 | INVEGA SUSTENNA® (39 mg/4 weeks)p<0.05 (Doses statistically significantly superior to placebo). | 86.9 (11.99) | -11.2 (1.69) | -5.1 (-9.01, -1.10) |
-|  | INVEGA SUSTENNA® (156 mg/4 weeks) | 86.2 (10.77) | -14.8 (1.68) | -8.7 (-12.62, -4.78) |
-|  | INVEGA SUSTENNA® (234 mg/4 weeks) | 88.4 (11.70) | -15.9 (1.70) | -9.8 (-13.71, -5.85) |
-|  | Placebo | 86.8 (10.31) | -6.1 (1.69) | -- |
+| INVEGA SUSTENNA® (156 mg/4 weeks) | 86.2 (10.77) | -14.8 (1.68) | -8.7 (-12.62, -4.78) |  |
+| INVEGA SUSTENNA® (234 mg/4 weeks) | 88.4 (11.70) | -15.9 (1.70) | -9.8 (-13.71, -5.85) |  |
+| Placebo | 86.8 (10.31) | -6.1 (1.69) | -- |  |
 | Study 2Because an insufficient number of subjects received the 234 mg/4 weeks dose, results from this group are not included. | INVEGA SUSTENNA® (78 mg/4 weeks) | 89.9 (10.78) | -6.9 (2.50) | -3.5 (-8.73, 1.77) |
-|  | INVEGA SUSTENNA® (156 mg/4 weeks) | 90.1 (11.66) | -10.4 (2.47) | -6.9 (-12.12, -1.68) |
-|  | Placebo | 92.4 (12.55) | -3.5 (2.15) | -- |
+| INVEGA SUSTENNA® (156 mg/4 weeks) | 90.1 (11.66) | -10.4 (2.47) | -6.9 (-12.12, -1.68) |  |
+| Placebo | 92.4 (12.55) | -3.5 (2.15) | -- |  |
 | Study 3 | INVEGA SUSTENNA® (39 mg/4 weeks) | 90.7 (12.25) | -19.8 (2.19) | -6.6 (-11.40, -1.73) |
-|  | INVEGA SUSTENNA® (78 mg/4 weeks) | 91.2 (12.02) | -19.2 (2.19) | -5.9 (-10.76, -1.07) |
-|  | INVEGA SUSTENNA® (156 mg/4 weeks) | 90.8 (11.70) | -22.5 (2.18) | -9.2 (-14.07, -4.43) |
-|  | Placebo | 90.7 (12.22) | -13.3 (2.21) | -- |
+| INVEGA SUSTENNA® (78 mg/4 weeks) | 91.2 (12.02) | -19.2 (2.19) | -5.9 (-10.76, -1.07) |  |
+| INVEGA SUSTENNA® (156 mg/4 weeks) | 90.8 (11.70) | -22.5 (2.18) | -9.2 (-14.07, -4.43) |  |
+| Placebo | 90.7 (12.22) | -13.3 (2.21) | -- |  |
 | Study 4 | INVEGA SUSTENNA® (78 mg/4 weeks) | 88.0 (12.39) | -4.6 (2.43) | -11.2 (-16.85, -5.57) |
-|  | INVEGA SUSTENNA® (156 mg/4 weeks) | 85.2 (11.09) | -7.4 (2.45) | -14.0 (-19.51, -8.58) |
-|  | Placebo | 87.8 (13.90) | 6.6 (2.45) | -- |
+| INVEGA SUSTENNA® (156 mg/4 weeks) | 85.2 (11.09) | -7.4 (2.45) | -14.0 (-19.51, -8.58) |  |
+| Placebo | 87.8 (13.90) | 6.6 (2.45) | -- |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
 
 Maintenance Monotherapy Treatment (Study 5: PSY-3001)
@@ -58,12 +57,11 @@ The primary efficacy variable was time to relapse.
 A pre-planned interim analysis showed a statistically significantly longer time to relapse in patients treated with INVEGA SUSTENNA® compared to placebo, and the study was stopped early because maintenance of efficacy was demonstrated.
 Thirty-four percent (34%) of subjects in the placebo group and 10% of subjects in the INVEGA SUSTENNA® group experienced a relapse event.
 There was a statistically significant difference between the treatment groups in favor of INVEGA SUSTENNA®.
-A Kaplan-Meier plot of time to relapse by treatment group is shown in Figure 1.
+A Kaplan-Meier plot of time to relapse by treatment group is shown in Figure 3.
 The time to relapse for subjects in the placebo group was statistically significantly shorter than for the INVEGA SUSTENNA® group.
 An examination of population subgroups did not reveal any clinically significant differences in responsiveness on the basis of gender, age, or race.
 
-| Figure 1: Kaplan-Meier Plot of Cumulative Proportion of Subjects with Relapse Over Time (Schizophrenia Study 5) |
-| --- |
+Figure 3: Kaplan-Meier Plot of Cumulative Proportion of Subjects with Relapse Over Time (Schizophrenia Study 5)
 
 ## 14.2 Schizoaffective Disorder
 
@@ -85,15 +83,13 @@ The primary efficacy variable was time to relapse.
 Relapse was defined as the first occurrence of one or more of the following: 1) psychiatric hospitalization; 2) intervention employed to avert hospitalization; 3) clinically significant self-injury, suicidal or homicidal ideation or violent behavior; 4) a score of ≥6 (if the score was ≤4 at randomization) of any of the individual PANSS items: delusions, conceptual disorganization, hallucinatory behavior, excitement, suspiciousness/persecution, hostility, uncooperativeness, or poor impulse control; 5) on two consecutive assessments within 7 days: ≥25% increase (if the score at randomization was >45) or ≥10-point increase (if the score at randomization was ≤45) in total PANSS score; a score of ≥5 (if the score was ≤3 at randomization) of any of the individual PANSS items: delusions, conceptual disorganization, hallucinatory behavior, excitement, suspiciousness/persecution, hostility, uncooperativeness, or poor impulse control; an increase of ≥2 points (if the score was 1 [not ill] to 3 [mildly ill] at randomization) or increase of ≥1 point (if the score was ≥4 [moderately ill or worse] at randomization) in CGI-S-SCA overall score.
 
 There was a statistically significant difference in time to relapse between the treatment groups in favor of INVEGA SUSTENNA®.
-A Kaplan-Meier plot of time to relapse by treatment group is shown in Figure 2.
+A Kaplan-Meier plot of time to relapse by treatment group is shown in Figure 4.
 
-| Figure 2: Kaplan-Meier Plot of Cumulative Proportion of Subjects with Relapse Over Time (SAff Study 1) |
-| --- |
+Figure 4: Kaplan-Meier Plot of Cumulative Proportion of Subjects with Relapse Over Time (SAff Study 1)
 
-Table 14 summarizes the number of subjects with relapse in the overall population, by subgroup (monotherapy vs. adjunctive therapy), and by symptom type at the first occurrence of relapse.
+Table 15 summarizes the number of subjects with relapse in the overall population, by subgroup (monotherapy vs. adjunctive therapy), and by symptom type at the first occurrence of relapse.
 
-Table 14.
-Summary of Relapse Rates (SAff Study 1).
+Table 15: Summary of Relapse Rates (SAff Study 1).
 
 |  | Placebo N=170 | INVEGA SUSTENNA® N=164 |
 | --- | --- | --- |

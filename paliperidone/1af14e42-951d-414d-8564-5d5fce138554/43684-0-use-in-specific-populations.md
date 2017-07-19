@@ -72,7 +72,7 @@ Dose reduction is recommended for patients with mild renal impairment (creatinin
 
 INVEGA SUSTENNA® has not been studied in patients with hepatic impairment.
 Based on a study with oral paliperidone, no dose adjustment is required in patients with mild or moderate hepatic impairment.
-Paliperidone has not been studied in patients with severe hepatic impairment.
+Paliperidone has not been studied in patients with severe hepatic impairment [Clinical Pharmacology (12.3)].
 
 ## 8.8 Patients with Parkinson's Disease or Lewy Body Dementia
 

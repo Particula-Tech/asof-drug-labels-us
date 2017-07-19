@@ -18,8 +18,11 @@ The following are discussed in more detail in other sections of the labeling:
 - Priapism [see Warnings and Precautions (5.14)]
 - Disruption of body temperature regulation [see Warnings and Precautions (5.15)]
 
-The most common (at least 5% in any INVEGA SUSTENNA® group) and likely drug-related (adverse events for which the drug rate is at least twice the placebo rate) adverse reactions from the double-blind, placebo-controlled trials in subjects with schizophrenia were injection site reactions, somnolence/sedation, dizziness, akathisia, and extrapyramidal disorder.
-No occurrences of adverse events reached this threshold in the long-term double-blind, placebo-controlled study in subjects with schizoaffective disorder.
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+Patient Exposure
 
 The data described in this section are derived from a clinical trial database consisting of a total of 3817 subjects (approximately 1705 patient-years exposure) with schizophrenia who received at least one dose of INVEGA SUSTENNA® in the recommended dose range of 39 mg to 234 mg and a total of 510 subjects with schizophrenia who received placebo.
 Among the 3817 INVEGA SUSTENNA®-treated subjects, 1293 received INVEGA SUSTENNA® in four fixed-dose, double-blind, placebo-controlled trials (one 9-week and three 13-week studies), 849 received INVEGA SUSTENNA® in the maintenance trial (median exposure 229 days during the initial 33-week open-label phase of this study, of whom 205 continued to receive INVEGA SUSTENNA® during the double-blind placebo-controlled phase of this study [median exposure 171 days]), and 1675 received INVEGA SUSTENNA® in five non-placebo controlled trials (three noninferiority active-comparator trials, one long-term open-label pharmacokinetic and safety study, and an injection site [deltoid-gluteal] cross-over trial).
@@ -29,22 +32,28 @@ The safety of INVEGA SUSTENNA® was also evaluated in a long-term study in adult
 A total of 667 subjects received INVEGA SUSTENNA® during the initial 25-week open-label period of this study (median exposure 147 days); 164 subjects continued to receive INVEGA SUSTENNA® during the 15-month double-blind placebo-controlled period of this study (median exposure 446 days).
 Adverse reactions that occurred more frequently in the INVEGA SUSTENNA® than the placebo group (a 2% difference or more between groups) were weight increased, nasopharyngitis, headache, hyperprolactinemia, and pyrexia.
 
-## 6.1 Clinical Trials Experience
+Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Commonly Observed Adverse Reactions: The most common (at least 5% in any INVEGA SUSTENNA® group) and likely drug-related (adverse events for which the drug rate is at least twice the placebo rate) adverse reactions from the double-blind, placebo-controlled trials in subjects with schizophrenia were injection site reactions, somnolence/sedation, dizziness, akathisia, and extrapyramidal disorder.
+No occurrences of adverse events reached this threshold in the long-term double-blind, placebo-controlled study in subjects with schizoaffective disorder.
 
-Commonly Reported Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials
+Discontinuation of Treatment Due to Adverse Events: The percentage of subjects who discontinued due to adverse events in the four fixed-dose, double-blind, placebo-controlled schizophrenia trials were similar for INVEGA SUSTENNA®- and placebo-treated subjects.
 
-Table 10 lists the adverse reactions reported in 2% or more of INVEGA SUSTENNA®-treated subjects and at a greater proportion than in the placebo group with schizophrenia in the four fixed-dose, double-blind, placebo-controlled trials.
+The percentage of subjects who discontinued due to adverse events in the open-label period of the long-term study in subjects with schizoaffective disorder was 7.5%.
+During the double-blind, placebo-controlled period of that study, the percentages of subjects who discontinued due to adverse events were 5.5% and 1.8% in INVEGA SUSTENNA®- and placebo-treated subjects, respectively.
 
-Table 10.
-Incidence of Adverse Reactions in ≥ 2% of INVEGA SUSTENNA®-Treated Subjects (and greater than Placebo) with Schizophrenia in Four Fixed-Dose, Double-Blind, Placebo-Controlled Trials
+Dose-Related Adverse Reactions: Based on the pooled data from the four fixed-dose, double-blind, placebo-controlled trials in subjects with schizophrenia, among the adverse reactions that occurred with ≥ 2% incidence in the subjects treated with INVEGA SUSTENNA®, only akathisia increased with dose.
+Hyperprolactinemia also exhibited a dose relationship, but did not occur at ≥ 2% incidence in INVEGA SUSTENNA®-treated subjects from the four fixed-dose studies.
 
-| Adverse Event | (N=510) | (N=130) | (N=302) | (N=312) | (N=160) | (N=165) | (N=163) |
+Adverse Reactions Occurring at an Incidence of 2% or More in INVEGA SUSTENNA®-Treated Patients: Table 10 lists the adverse reactions reported in 2% or more of INVEGA SUSTENNA®-treated subjects and at a greater proportion than in the placebo group with schizophrenia in the four fixed-dose, double-blind, placebo-controlled trials.
+
+Table 10: Incidences of Adverse Reactions 2% or More of INVEGA SUSTENNA®-Treated Patients (and Greater than Placebo) with Schizophrenia in Four Fixed-Dose, Double-Blind, Placebo-Controlled Trials
+
+| Adverse Reactions | (N=510) | (N=130) | (N=302) | (N=312) | (N=160) | (N=165) | (N=163) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | INVEGA SUSTENNA® |  |  |  |  |  |
-| System Organ Class | PlaceboPlacebo group is pooled from all studies and included either deltoid or gluteal injection depending on study design. | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [See Clinical Studies (14.1)] | 234/156 mg | 234/234 mg |
-| Total percentage of subjects with adverse event | 70 | 75 | 68 | 69 | 63 | 60 | 63 |
+| System Organ Class | PlaceboPlacebo group is pooled from all studies and included either deltoid or gluteal injection depending on study design. | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)] | 234/156 mg | 234/234 mg |
+| Total percentage of subjects with adverse reactions | 70 | 75 | 68 | 69 | 63 | 60 | 63 |
 | Gastrointestinal disorders |  |  |  |  |  |  |  |
 | Abdominal discomfort/abdominal pain upper | 2 | 2 | 4 | 4 | 1 | 2 | 4 |
 | Diarrhea | 2 | 0 | 3 | 2 | 1 | 2 | 2 |
@@ -81,8 +90,7 @@ Incidence of Adverse Reactions in ≥ 2% of INVEGA SUSTENNA®-Treated Subjects (
 | Cough | 1 | 2 | 3 | 1 | 0 | 1 | 1 |
 | Vascular disorders |  |  |  |  |  |  |  |
 | Hypertension | 1 | 2 | 1 | 1 | 1 | 1 | 0 |
-| Percentages are rounded to whole numbers. Table includes adverse events that were reported in 2% or more of subjects in any of the INVEGA SUSTENNA® dose groups and which occurred at greater incidence than in the placebo group. |  |  |  |  |  |  |  |
-| Adverse events for which the INVEGA SUSTENNA® incidence was equal to or less than placebo are not listed in the table, but included the following: dyspepsia, psychotic disorder, schizophrenia, and tremor. The following terms were combined: somnolence/sedation, breast tenderness/breast pain, abdominal discomfort/abdominal pain upper/stomach discomfort, and tachycardia/sinus tachycardia/heart rate increased. All injection site reaction-related adverse events were collapsed and are grouped under "Injection site reactions". |  |  |  |  |  |  |  |
+| Percentages are rounded to whole numbers. Table includes adverse reactions that were reported in 2% or more of subjects in any of the INVEGA SUSTENNA® dose groups and which occurred at greater incidence than in the placebo group. Adverse reactions for which the INVEGA SUSTENNA® incidence was equal to or less than placebo are not listed in the table, but included the following: dyspepsia, psychotic disorder, schizophrenia, and tremor. The following terms were combined: somnolence/sedation, breast tenderness/breast pain, abdominal discomfort/abdominal pain upper/stomach discomfort, and tachycardia/sinus tachycardia/heart rate increased. All injection site reaction-related adverse reactions were collapsed and are grouped under "Injection site reactions". |  |  |  |  |  |  |  |
 
 Other Adverse Reactions Observed During the Clinical Trial Evaluation of INVEGA SUSTENNA®
 
@@ -114,48 +122,32 @@ Respiratory, thoracic and mediastinal disorders: nasal congestion
 
 Skin and subcutaneous tissue disorders: drug eruption, pruritus, pruritus generalized, rash, urticaria
 
-Discontinuations Due to Adverse Events
-
-The percentage of subjects who discontinued due to adverse events in the four fixed-dose, double-blind, placebo-controlled schizophrenia trials were similar for INVEGA SUSTENNA®- and placebo-treated subjects.
-
-The percentage of subjects who discontinued due to adverse events in the open-label period of the long-term study in subjects with schizoaffective disorder was 7.5%.
-During the double-blind, placebo-controlled period of that study, the percentages of subjects who discontinued due to adverse events were 5.5% and 1.8% in INVEGA SUSTENNA®- and placebo-treated subjects, respectively.
-
-Dose-Related Adverse Reactions
-
-Based on the pooled data from the four fixed-dose, double-blind, placebo-controlled trials in subjects with schizophrenia, among the adverse reactions that occurred at ≥ 2% incidence in the subjects treated with INVEGA SUSTENNA®, only akathisia increased with dose.
-Hyperprolactinemia also exhibited a dose relationship, but did not occur at ≥ 2% incidence in INVEGA SUSTENNA®-treated subjects from the four fixed-dose studies.
-
 Demographic Differences
 
-An examination of population subgroups in the double-blind placebo-controlled trials did not reveal any evidence of differences in safety on the basis of age, gender, or race alone; however, there were few subjects ≥ 65 years of age.
+An examination of population subgroups in the double-blind placebo-controlled trials did not reveal any evidence of differences in safety on the basis of age, gender, or race alone; however, there were few subjects 65 years of age and older.
 
 Extrapyramidal Symptoms (EPS)
 
 Pooled data from the two double-blind, placebo-controlled, 13-week, fixed-dose trials in adult subjects with schizophrenia provided information regarding EPS.
-Several methods were used to measure EPS: (1) the Simpson-Angus global score (mean change from baseline or score at the end of trial) which broadly evaluates Parkinsonism, (2) the Barnes Akathisia Rating Scale global clinical rating score (mean change from baseline or score at the end of trial) which evaluates akathisia, (3) use of anticholinergic medications to treat EPS, (4) the Abnormal Involuntary Movement Scale scores (mean change from baseline or scores at the end of trial) (Table 11), and (5) incidence of spontaneous reports of EPS (Table 12).
+Several methods were used to measure EPS: (1) the Simpson-Angus global score which broadly evaluates parkinsonism, (2) the Barnes Akathisia Rating Scale global clinical rating score which evaluates akathisia, (3) the Abnormal Involuntary Movement Scale scores which evaluates dyskinesia, and (4) use of anticholinergic medications to treat EPS (Table 11), and (5) incidence of spontaneous reports of EPS (Table 12).
 
-Table 11.
-Extrapyramidal Symptoms (EPS) Assessed by Incidence of Rating Scales and Use of Anticholinergic Medication – Schizophrenia Studies in Adults
+Table 11: Extrapyramidal Symptoms (EPS) Assessed by Incidence of Rating Scales and Use of Anticholinergic Medication – Schizophrenia Studies in Adults
 
-| Scale | (N=262) | (N=130) | (N=223) | (N=228) |
+| Scale | Placebo (N=262) | 39 mg (N=130) | 78 mg (N=223) | 156 mg (N=228) |
 | --- | --- | --- | --- | --- |
 |  | Percentage of Subjects |  |  |  |
 |  |  | INVEGA SUSTENNA® |  |  |
-|  | Placebo | 39 mg | 78 mg | 156 mg |
-| ParkinsonismFor Parkinsonism, percent of subjects with Simpson-Angus Total score > 0.3 at endpoint (Total score defined as total sum of items score divided by the number of items) | 9 | 12 | 10 | 6 |
+| ParkinsonismFor parkinsonism, percent of subjects with Simpson-Angus Total score > 0.3 at endpoint (Total score defined as total sum of items score divided by the number of items) | 9 | 12 | 10 | 6 |
 | AkathisiaFor Akathisia, percent of subjects with Barnes Akathisia Rating Scale global score ≥ 2 at endpoint | 5 | 5 | 6 | 5 |
 | DyskinesiaFor Dyskinesia, percent of subjects with a score ≥ 3 on any of the first 7 items or a score ≥ 2 on two or more of any of the first 7 items of the Abnormal Involuntary Movement Scale at endpoint | 3 | 4 | 6 | 4 |
 | Use of Anticholinergic MedicationsPercent of subjects who received anticholinergic medications to treat EPS | 12 | 10 | 12 | 11 |
 
-Table 12.
-Extrapyramidal Symptoms (EPS)-Related Events by MedDRA Preferred Term – Schizophrenia Studies in Adults
+Table 12: Extrapyramidal Symptoms (EPS)-Related Events by MedDRA Preferred Term – Schizophrenia Studies in Adults
 
-| EPS Group | (N=262) | (N=130) | (N=223) | (N=228) |
+| EPS Group | Placebo (N=262) | 39 mg (N=130) | 78 mg (N=223) | 156 mg (N=228) |
 | --- | --- | --- | --- | --- |
 |  | Percentage of Subjects |  |  |  |
 |  |  | INVEGA SUSTENNA® |  |  |
-|  | Placebo | 39 mg | 78 mg | 156 mg |
 | Overall percentage of subjects with EPS-related adverse events | 10 | 12 | 11 | 11 |
 | Parkinsonism | 5 | 6 | 6 | 4 |
 | Hyperkinesia | 2 | 2 | 2 | 4 |
@@ -165,14 +157,14 @@ Extrapyramidal Symptoms (EPS)-Related Events by MedDRA Preferred Term – Schizo
 | Parkinsonism group includes: Extrapyramidal disorder, hypertonia, musculoskeletal stiffness, parkinsonism, drooling, masked facies, muscle tightness, hypokinesia Hyperkinesia group includes: Akathisia, restless legs syndrome, restlessness Dyskinesia group includes: Dyskinesia, choreoathetosis, muscle twitching, myoclonus, tardive dyskinesia Dystonia group includes: Dystonia, muscle spasms |  |  |  |  |
 
 The results across all phases of the maintenance trial in subjects with schizophrenia exhibited comparable findings.
-In the 9-week, fixed-dose, double-blind, placebo-controlled trial, the proportions of Parkinsonism and akathisia assessed by incidence of rating scales were higher in the INVEGA SUSTENNA® 156 mg group (18% and 11%, respectively) than in the INVEGA SUSTENNA® 78 mg group (9% and 5%, respectively) and placebo group (7% and 4%, respectively).
+In the 9-week, fixed-dose, double-blind, placebo-controlled trial, the proportions of parkinsonism and akathisia assessed by incidence of rating scales were higher in the INVEGA SUSTENNA® 156 mg group (18% and 11%, respectively) than in the INVEGA SUSTENNA® 78 mg group (9% and 5%, respectively) and placebo group (7% and 4%, respectively).
 
 In the 13-week study in subjects with schizophrenia involving 234 mg initiation dosing, the incidence of any EPS was similar to that of the placebo group (8%), but exhibited a dose-related pattern with 6%, 10%, and 11% in the INVEGA SUSTENNA® 234/39 mg, 234/156 mg, and 234/234 mg groups, respectively.
 Hyperkinesia was the most frequent category of EPS-related adverse events in this study, and was reported at a similar rate between the placebo (4.9%) and INVEGA SUSTENNA® 234/156 mg (4.8%) and 234/234 mg (5.5%) groups, but at a lower rate in the 234/39 mg group (1.3%).
 
-In the long-term study in subjects with schizoaffective disorder, the EPS during the 25-week open-label INVEGA SUSTENNA® treatment were hyperkinesia (12.3%), parkinsonism (8.7%), tremor (3.4%), dyskinesia (2.5%), and dystonia (2.1%).
+In the long-term study in subjects with schizoaffective disorder, EPS reported during the 25-week open-label INVEGA SUSTENNA® treatment included hyperkinesia (12.3%), parkinsonism (8.7%), tremor (3.4%), dyskinesia (2.5%), and dystonia (2.1%).
 During the 15-month double-blind treatment, the incidence of any EPS was similar to that of the placebo group (8.5% and 7.1% respectively).
-The most commonly reported treatment-emergent EPS-related adverse events (>2%) in any treatment group in the double-blind phase of the study (INVEGA SUSTENNA® versus placebo) were hyperkinesia (3.7% vs. 2.9%), parkinsonism (3.0% vs. 1.8%), and tremor (1.2% vs. 2.4%).
+The most commonly reported treatment-emergent EPS-related adverse events (> 2%) in any treatment group in the double-blind phase of the study (INVEGA SUSTENNA® versus placebo) were hyperkinesia (3.7% vs. 2.9%), parkinsonism (3.0% vs. 1.8%), and tremor (1.2% vs. 2.4%).
 
 Dystonia
 
@@ -180,13 +172,6 @@ Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occu
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
-
-Laboratory Test Abnormalities
-
-In the pooled data from the two double-blind, placebo-controlled, 13-week, fixed-dose trials in subjects with schizophrenia, a between-group comparison revealed no medically important differences between INVEGA SUSTENNA® and placebo in the proportions of subjects experiencing potentially clinically significant changes in routine serum chemistry, hematology, or urinalysis parameters.
-Similarly, there were no differences between INVEGA SUSTENNA® and placebo in the incidence of discontinuations due to changes in hematology, urinalysis, or serum chemistry, including mean changes from baseline in fasting glucose, insulin, c-peptide, triglycerides, HDL, LDL, and total cholesterol measurements.
-However, INVEGA SUSTENNA® was associated with increases in serum prolactin [see Warnings and Precautions (5.10)].
-The results from the 13-week study involving 234 mg initiation dosing, the 9-week, fixed-dose, double-blind, placebo-controlled trial, and the double-blind phase of the maintenance trial in subjects with schizophrenia exhibited comparable findings.
 
 Pain Assessment and Local Injection Site Reactions
 
@@ -228,20 +213,9 @@ Vascular disorders: hypotension, ischemia
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of paliperidone; because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Reactions already listed in other parts of ADVERSE REACTIONS (6), or those considered in WARNINGS AND PRECAUTIONS (5) are not listed here.
-
-Blood disorders: thrombotic thrombocytopenic purpura
-
-Gastrointestinal disorders: ileus
-
-Genitourinary disorders: urinary incontinence, urinary retention
-
-Immune system disorders: angioedema, swollen tongue
+The following adverse reactions have been identified during postapproval use of paliperidone; because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: angioedema, ileus, swollen tongue, thrombotic thrombocytopenic purpura, urinary incontinence, and urinary retention.
 
 Cases of anaphylactic reaction after injection with INVEGA SUSTENNA® have been reported during postmarketing experience in patients who have previously tolerated oral risperidone or oral paliperidone.
 
-## 6.3 Adverse Reactions Reported With Risperidone
-
 Paliperidone is the major active metabolite of risperidone.
-Adverse reactions reported with oral risperidone and risperidone long-acting injection can be found in the ADVERSE REACTIONS sections of the package inserts for those products.
+Adverse reactions reported with oral risperidone and risperidone long-acting injection can be found in the Adverse Reactions (6) sections of the package inserts for those products.
