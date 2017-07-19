@@ -64,6 +64,11 @@ Seventeen of the patients treated with PROMACTA in the controlled trials with he
 Eight of these patients again experienced liver test abnormalities (less than or equal to Grade 3) resulting in discontinuation of PROMACTA in one patient.
 In the extension chronic ITP trial, six additional patients had PROMACTA discontinued due to liver test abnormalities (less than or equal to Grade 3).
 
+In the three controlled chronic ITP trials, cataracts developed or worsened in 7% of patients treated with PROMACTA and 7% of patients in the placebo group.
+All patients had documented, preexisting risk factors for cataractogenesis including corticosteroid use.
+In the extension trial, cataracts developed or worsened in 11% of patients who underwent ocular examination prior to therapy with PROMACTA.
+Seventy-two percent of patients had preexisting risk factors, including corticosteroid use.
+
 In clinical trials in patients with chronic ITP, one patient treated with PROMACTA (<1%) experienced drug-induced liver injury [see Warnings and Precautions (5.2)].
 
 In a placebo-controlled trial of PROMACTA in patients with chronic liver disease and thrombocytopenia not related to ITP, six patients treated with PROMACTA and one patient in the placebo group developed portal vein thromboses [see Warnings and Precautions (5.3)].
@@ -93,6 +98,9 @@ Adverse Reactions (≥3%) with a Higher Incidence for PROMACTA versus Placebo fr
 | AST increased | 4 | 0 |
 | Rhinorrhea | 4 | 0 |
 | a Includes adverse reactions or laboratory abnormalities >3 x ULN. |  |  |
+
+In the two controlled clinical chronic ITP trials, cataracts developed or worsened in 2 (1%) patients treated with PROMACTA.
+Both patients had received chronic oral corticosteroids, a risk factor for cataractogenesis.
 
 Chronic Hepatitis C-associated Thrombocytopenia: In the two placebo-controlled trials, 955 patients with chronic hepatitis C-associated thrombocytopenia received PROMACTA.
 Table 7 presents the most common adverse drug reactions (experienced by greater than or equal to 10% of patients receiving PROMACTA compared with placebo).
@@ -125,6 +133,8 @@ In the two controlled clinical trials in patients with chronic hepatitis C, hype
 Total bilirubin greater than or equal to 1.5 x ULN was reported in 76% and 50% of patients receiving PROMACTA and placebo, respectively.
 ALT or AST greater than or equal to 3 x ULN was reported in 34% and 38% of patients for PROMACTA and placebo, respectively.
 
+In the two controlled clinical trials in patients with chronic hepatitis C, cataracts developed or worsened in 8% of patients treated with PROMACTA and 5% of patients treated with placebo.
+
 In clinical trials in patients with chronic hepatitis C, 11 patients treated with PROMACTA (1%) experienced drug-induced liver injury [see Warnings and Precautions (5.2)].
 
 Severe Aplastic Anemia: In the single-arm, open-label trial, 43 patients with severe aplastic anemia received PROMACTA.
@@ -154,7 +164,7 @@ Adverse Reactions (≥10%) from One Open-label Trial in Adults with Severe Aplas
 | Arthralgia | 12 |
 | Rhinorrhea | 12 |
 
-Rash was reported in 7% of patients.
+Rash was reported in 7% of patients; cataract was reported in 2% of patients.
 
 In this trial, patients had bone marrow aspirates evaluated for cytogenetic abnormalities.
 Eight patients had a new cytogenetic abnormality reported on therapy, including 5 patients who had complex changes in chromosome 7.
