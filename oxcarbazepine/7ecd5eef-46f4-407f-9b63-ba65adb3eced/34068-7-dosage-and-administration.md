@@ -1,14 +1,9 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-All dosing should be given in a twice-a-day regimen.
-Oxcarbazepine oral suspension and oxcarbazepine film-coated tablets may be interchanged at equal doses.
-Oxcarbazepine tablets should be kept out of the reach and sight of children.
-Oxcarbazepine tablets can be taken with or without food [see Clinical Pharmacology (12.3)].
-
 ## 2.1 Adjunctive Therapy for Adults
 
-Treatment with oxcarbazepine should be initiated with a dose of 600 mg/day, given in a twice-a-day regimen.
-If clinically indicated, the dose may be increased by a maximum of 600 mg/day at approximately weekly intervals; the recommended daily dose is 1,200 mg/day.
+Initiate oxcarbazepine with a dose of 600 mg/day, given twice-a-day.
+If clinically indicated, the dose may be increased by a maximum of 600 mg/day at approximately weekly intervals; the maximum recommended daily dose is 1,200 mg/day.
 Daily doses above 1,200 mg/day show somewhat greater effectiveness in controlled trials, but most patients were not able to tolerate the 2,400 mg/day dose, primarily because of CNS effects.
 It is recommended that the patient be observed closely and plasma levels of the concomitant AEDs be monitored during the period of oxcarbazepine titration, as these plasma levels may be altered, especially at oxcarbazepine doses greater than 1,200 mg/day [see Drug Interactions (7.1)].
 
@@ -16,40 +11,40 @@ It is recommended that the patient be observed closely and plasma levels of the 
 
 Patients receiving concomitant AEDs may be converted to monotherapy by initiating treatment with oxcarbazepine at 600 mg/day (given in a twice-a-day regimen) while simultaneously initiating the reduction of the dose of the concomitant AEDs.
 The concomitant AEDs should be completely withdrawn over 3 to 6 weeks, while the maximum dose of oxcarbazepine should be reached in about 2 to 4 weeks.
-Oxcarbazepine may be increased as clinically indicated by a maximum increment of 600 mg/day at approximately weekly intervals to achieve the recommended daily dose of 2,400 mg/day.
+Oxcarbazepine may be increased as clinically indicated by a maximum increment of 600 mg/day at approximately weekly intervals to achieve the maximum recommended daily dose of 2,400 mg/day.
 A daily dose of 1,200 mg/day has been shown in one study to be effective in patients in whom monotherapy has been initiated with oxcarbazepine.
 Patients should be observed closely during this transition phase.
 
 ## 2.3 Initiation of Monotherapy for Adults
 
 Patients not currently being treated with AEDs may have monotherapy initiated with oxcarbazepine.
-In these patients, oxcarbazepine should be initiated at a dose of 600 mg/day (given in a twice-a-day regimen); the dose should be increased by 300 mg/day every third day to a dose of 1,200 mg/day.
+In these patients, initiate oxcarbazepine at a dose of 600 mg/day (given a twice-a-day); the dose should be increased by 300 mg/day every third day to a dose of 1,200 mg/day.
 Controlled trials in these patients examined the effectiveness of a 1,200 mg/day dose; a dose of 2,400 mg/day has been shown to be effective in patients converted from other AEDs to oxcarbazepine monotherapy (see above).
 
 ## 2.4 Adjunctive Therapy for Pediatric Patients (Aged 2 to 16 Years)
 
-In pediatric patients aged 4 to 16 years, treatment should be initiated at a daily dose of 8 to 10 mg/kg generally not to exceed 600 mg/day, given in a twice-a-day regimen.
-The target maintenance dose of oxcarbazepine should be achieved over two weeks, and is dependent upon patient weight, according to the following chart: 20 to 29 kg - 900 mg/day 29.1 to 39 kg - 1,200 mg/day >39 kg - 1,800 mg/day In the clinical trial, in which the intention was to reach these target doses, the median daily dose was 31 mg/kg with a range of 6 to 51 mg/kg.
-In pediatric patients aged 2 to <4 years, treatment should also be initiated at a daily dose of 8 to 10 mg/kg generally not to exceed 600 mg/day, given in a twice-a-day regimen.
-For patients under 20 kg, a starting dose of 16 to 20 mg/kg may be considered [see Clinical Pharmacology (12.3)].
-The maximum maintenance dose of oxcarbazepine should be achieved over 2 to ­4 weeks and should not exceed 60 mg/kg/day in a twice-a-day regimen.
+In pediatric patients aged 4 to 16 years, initiate oxcarbazepine at a daily dose of 8 to 10 mg/kg generally not to exceed 600 mg/day, given twice-a-day.
+The target maintenance dose of oxcarbazepine should be achieved over 2 weeks, and is dependent upon patient weight, according to the following chart: 20 to 29 kg - 900 mg/day 29.1 to 39 kg - 1,200 mg/day >39 kg – 1,800 mg/day In the clinical trial, in which the intention was to reach these target doses, the median daily dose was 31 mg/kg with a range of 6 to 51 mg/kg.
+In pediatric patients aged 2 to <4 years, initiate oxcarbazepine at a daily dose of 8 to 10 mg/kg generally not to exceed 600 mg/day, given twice-a-day.
+For patients less than 20 kg, a starting dose of 16 to 20 mg/kg may be considered [see Clinical Pharmacology (12.3)].
+The maximum maintenance dose of oxcarbazepine should be achieved over 2 to 4 weeks and should not exceed 60 mg/kg/day in a twice-a-day regimen.
 In the clinical trial in pediatric patients (2 to 4 years of age) in which the intention was to reach the target dose of 60 mg/kg/day, 50% of patients reached a final dose of at least 55 mg/kg/day.
 Under adjunctive therapy (with and without enzyme-inducing AEDs), when normalized by body weight, apparent clearance (L/hr/kg) decreased when age increased such that children 2 to <4 years of age may require up to twice the oxcarbazepine dose per body weight compared to adults; and children 4 to ≤12 years of age may require a 50% higher oxcarbazepine dose per body weight compared to adults.
 
 ## 2.5 Conversion to Monotherapy for Pediatric Patients (Aged 4 to 16 Years)
 
-Patients receiving concomitant antiepileptic drugs may be converted to monotherapy by initiating treatment with oxcarbazepine at approximately 8 to 10 mg/kg/day given in a twice-a-day regimen, while simultaneously initiating the reduction of the dose of the concomitant antiepileptic drugs.
+Patients receiving concomitant antiepileptic drugs may be converted to monotherapy by initiating treatment with oxcarbazepine at approximately 8 to 10 mg/kg/day given twice-a-day, while simultaneously initiating the reduction of the dose of the concomitant antiepileptic drugs.
 The concomitant antiepileptic drugs can be completely withdrawn over 3 to 6 weeks while oxcarbazepine may be increased as clinically indicated by a maximum increment of 10 mg/kg/day at approximately weekly intervals to achieve the recommended daily dose.
 Patients should be observed closely during this transition phase.
-The recommended total daily dose of oxcarbazepine is shown in the table below.
+The recommended total daily dose of oxcarbazepine is shown in Table 1.
 
 ## 2.6 Initiation of Monotherapy for Pediatric Patients (Aged 4 to 16 Years)
 
 Patients not currently being treated with antiepileptic drugs may have monotherapy initiated with oxcarbazepine.
-In these patients, oxcarbazepine should be initiated at a dose of 8 to 10 mg/kg/day given in a twice-a-day regimen.
+In these patients, initiate oxcarbazepine at a dose of 8 to 10 mg/kg/day given twice-a-day.
 The dose should be increased by 5 mg/kg/day every third day to the recommended daily dose shown in the table below.
 
-Table 1: Range of Maintenance Doses of Oxcarbazepine for Children by Weight During Monotherapy
+Table 1 Range of Maintenance Doses of Oxcarbazepine for Pediatrics by Weight During Monotherapy
 
 | Weight in kg | From | To |
 | --- | --- | --- |
@@ -66,10 +61,11 @@ Table 1: Range of Maintenance Doses of Oxcarbazepine for Children by Weight Duri
 | 65 | 1,200 | 2,100 |
 | 70 | 1,500 | 2,100 |
 
-## 2.7 Patients with Hepatic Impairment
+## 2.7 Dosage Modification for Patients with Renal Impairment
 
-In general, dose adjustments are not required in patients with mild-to-moderate hepatic impairment [see Clinical Pharmacology (12.3).]
+In patients with impaired renal function (creatinine clearance <30 ml/min) initiate oxcarbazepine at one-half the usual starting dose (300 mg/day, given twice-a-day) and increase slowly to achieve the desired clinical response [see Clinical Pharmacology (12.3)].
 
-## 2.8 Patients with Renal Impairment
+## 2.8 Administration Information
 
-In patients with impaired renal function (creatinine clearance <30 mL/min) oxcarbazepine therapy should be initiated at one-half the usual starting dose (300 mg/day) and increased slowly to achieve the desired clinical response [see Clinical Pharmacology (12.3)]
+Oxcarbazepine can be taken with or without food [see Clinical Pharmacology (12.3)].
+Oxcarbazepine oral suspension and oxcarbazepine film-coated tablets may be interchanged at equal doses.
