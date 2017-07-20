@@ -11,30 +11,32 @@ There was a positive correlation between the percent (%) reduction of AUC0-24 of
 
 Adults
 
-Plasma cortisol suppression was compared following five days' administration of ENTOCORT EC capsules and prednisolone in a crossover study in healthy volunteers.
+Plasma cortisol suppression was compared following five days’ administration of ENTOCORT EC capsules and prednisolone in a crossover study in healthy volunteers.
 The mean decrease in the area under the plasma cortisol concentration-time curve over 24 hour (AUC0-24) was greater (78%) with prednisolone 20 mg per day compared to 45% with ENTOCORT EC 9 mg per day.
 
 Pediatrics
 
-The effect of budesonide on endogenous cortisol concentrations was compared between pediatrics (n=8, aged 9 to 14 years) and adults (n=6) with active Crohn's disease following administration of ENTOCORT EC 9 mg once daily for 7 days.
+The effect of budesonide on endogenous cortisol concentrations was compared between pediatrics (n=8, aged 9 to 14 years) and adults (n=6) with active Crohn’s disease following administration of ENTOCORT EC 9 mg once daily for 7 days.
 Compared to baseline values before treatment, the mean decrease in the AUC0-24 of cortisol was 64% (±18%) in pediatrics and 50% (±27%) in adults after ENTOCORT EC treatment [see Warnings and Precautions (5.1), Adverse Reactions (6.1) and Use in Specific Populations (8.4)].
 
-The responses to adrenocorticotropin challenge (i.e., ACTH stimulation test) was studied in pediatric patients aged 8 to 17 years, with mild to moderate active Crohn's disease in randomized, double-blind, active control study [see Clinical Studies (14.1)].
+The responses to adrenocorticotropin challenge (i.e., ACTH stimulation test) was studied in pediatric patients aged 8 to 17 years, with mild to moderate active Crohn’s disease in randomized, double-blind, active control study [see Clinical Studies (14.1)].
 After 8 weeks of treatment with 9 mg once daily ENTOCORT EC or with prednisolone, administered at tapering doses starting from 1 mg/kg, the proportion of patients with normal response to the ACTH challenge was 6% in the budesonide group compared to none in the prednisolone group; the proportion of patients with morning p-cortisol of greater than 5 mcg/dL was 50% in the budesonide group compared to 22% in the prednisolone group.
 The mean morning p-cortisol was 6.3 mcg/dL in the budesonide group and 2.6 mcg/dL in the prednisolone group (Table 4).
 
 Table 4.
-Proportion of Pediatric Patients 8 to 17 years old with Peak Endogenous Cortisol Levels (above 18 mcg/dL) after ACTH Stimulation and Normal ResponseThe normal response to ACTH challenge included 3 criteria, as defined in the cosyntropin label: 1) morning cortisol level above 5 mcg/dL; 2) increase in cortisol level by at least 7 mcg/dL above the morning (pre-challenge) level following ACTH challenge; and cortisol level of above 18 mcg/dL following ACTH challenge.
-Cortisol concentration was measured at 30 min after intravenous or intramuscular injection of 0.25 mg cosyntropin at baseline and at week 8 after treatment. to ACTH Challenge Following Administration of ENTOCORT EC or Prednisolone for 8 weeks
+Proportion of Pediatric Patients 8 to 17 years old with Peak Endogenous Cortisol Levels (above 18 mcg/dL) after ACTH Stimulation and Normal Response* to ACTH Challenge Following Administration of ENTOCORT EC or Prednisolone for 8 weeks
 
 |  | Budesonide | Prednisolone |
 | --- | --- | --- |
 | Peak plasma cortisol above 18 mcg/dL |  |  |
 | At baseline | 91% (20/22) | 91% (21/23) |
 | At week 8 | 25% (4/16) | 0% (0/18) |
-| Normal response to ACTH challenge |  |  |
+| Normal response* to ACTH challenge |  |  |
 | At baseline | 73% (16/22) | 78% (18/23) |
 | At week 8 | 6% (1/16) | 0% (0/18) |
+
+*The normal response to ACTH challenge included 3 criteria, as defined in the cosyntropin label: 1) morning cortisol level above 5 mcg/dL; 2) increase in cortisol level by at least 7 mcg/dL above the morning (pre-challenge) level following ACTH challenge; and cortisol level of above 18 mcg/Dl following ACTH challenge.
+Cortisol concentration was measured at 30 min after intravenous or intramuscular injection of 0.25 mg cosyntropin at baseline and at week 8 after treatment.
 
 ## 12.3 Pharmacokinetics
 
@@ -48,7 +50,7 @@ No accumulation of budesonide was observed following repeated dosing.
 
 Following oral administration of 9 mg ENTOCORT EC for five days in healthy subjects, the mean peak plasma concentration and the steady state area under the plasma concentration time curve for budesonide were 5.3 ± 1.8 nmol/L and 37.0 ±14.6 nmol•hr/L, respectively.
 
-Following administration of 9 mg ENTOCORT EC once daily in patients with active Crohn's disease, the mean peak plasma concentration and AUC were 4.0 ±2.1 nmol/L and 35.0 ±19.8 nmol•h/L, respectively.
+Following administration of 9 mg ENTOCORT EC once daily in patients with active Crohn’s disease, the mean peak plasma concentration and AUC were 4.0 ±2.1 nmol/L and 35.0 ±19.8 nmol•h/L, respectively.
 
 Concomitant administration of a high-fat meal delayed the time to peak concentration of budesonide from ENTOCORT EC by 2.3 hours but did not significantly affect the AUC in healthy subjects.
 
@@ -61,16 +63,16 @@ The erythrocyte/plasma partition ratio at clinically relevant concentrations was
 Elimination
 
 Budesonide had a plasma clearance, 0.9 to 1.8 L/min in healthy adults.
-Mean plasma clearance after intravenous administration of budesonide in patients with Crohn's disease was 1.0 L/min.
+Mean plasma clearance after intravenous administration of budesonide in patients with Crohn’s disease was 1.0 L/min.
 These plasma clearance values approached the estimated liver blood flow, and, accordingly, suggest that budesonide is a high hepatic clearance drug.
-The plasma elimination half-life, after administration of intravenous doses ranged between 2 and 3.6 hours, and did not differ between healthy adults and patients with Crohn's disease.
+The plasma elimination half-life, after administration of intravenous doses ranged between 2 and 3.6 hours, and did not differ between healthy adults and patients with Crohn’s disease.
 
 Metabolism
 
 Following absorption, budesonide is subject to high first pass metabolism (80% to 90%).
-In vitro experiments in human liver microsomes demonstrated that budesonide is rapidly and extensively biotransformed, mainly by CYP3A4, to its 2 major metabolites, 6β-hydroxy budesonide and 16α-hydroxy prednisolone.
-The corticosteroid activity of these metabolites was negligible (less than 1/100) in relation to that of the parent compound.
-In vivo investigations with intravenous doses in healthy subjects were in agreement with the in vitro findings.
+In vitro experiments in human liver microsomes demonstrated that budesonide is rapidly and extensivelybiotransformed, mainly by CYP3A4, to its 2 major metabolites, 6β-hydroxy budesonide and 16α-hydroxy prednisolone.
+The corticosteroid activity of these metabolites was negligible (less than1/100) in relation to that of the parent compound.
+In vivo investigations with intravenous doses inhealthy subjects were in agreement with the in vitro findings.
 
 Excretion
 
@@ -85,7 +87,7 @@ Age: Pediatric Population (8 years and older)
 
 The pharmacokinetics of budesonide were investigated in pediatric patients aged 9 to 14 years (n=8) after oral administration of ENTOCORT EC and intravenous administration of budesonide.
 Following administration of 9 mg ENTOCORT EC once daily for 7 days, the median time to peak plasma concentration of budesonide was 5 hours and the mean peak plasma concentration was 6.0 ± 3.5 nmol/L.
-The mean AUC was 41.3 ±12.2 nmol•h/L and 17% higher than that in adult patients with Crohn's disease in the same study.
+The mean AUC was 41.3 ±12.2 nmol•h/L and 17% higher than that in adult patients with Crohn’s disease in the same study.
 The mean absolute oral availability was 9.2% (3 to 17%; n=4) in pediatric patients.
 
 After single dose administration of intravenous budesonide (n=4), the mean volume of distribution (Vss) was 2.2 ± 0.4 L/kg and mean clearance was 0.81 ± 0.2 L/min.
@@ -96,7 +98,7 @@ Hepatic Impairment
 
 In patients with mild (Child-Pugh Class A, n=4) or moderate (Child-Pugh Class B, n=4) hepatic impairment, budesonide 4 mg was administered orally as a single dose.
 The patients with moderate hepatic impairment had a 3.5-fold higher AUC compared to the healthy subjects with normal hepatic function while the patients with mild hepatic impairment had an approximately 1.4-fold higher AUC.
-The Cmax values demonstrated similar increases [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
+The Cmax values demonstrated similar increases [see Dosage and Administration (2.4),Warnings and Precautions (5.1)].
 The increased systemic exposure in patients with mild hepatic impairment was not considered to be clinically relevant.
 Patients with severe liver impairment (Child-Pugh Class C) were not studied.
 

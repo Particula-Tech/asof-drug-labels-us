@@ -10,6 +10,4 @@ Rx only
 
 Made in Sweden
 
-Manufactured for and Distributed by: Perrigo Allegan, MI 49010 8Z278 RC F1 Rev 12-15 A
-
-Perrigo®
+Manufactured for and Distributed by: Perrigo Allegan, MI 49010 8Z278 RC F2 Rev 07-16 B

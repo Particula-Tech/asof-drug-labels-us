@@ -20,7 +20,7 @@ Administration
 
 Advise patients to:
 
-- Take ENTOCORT EC capsules once daily in the morning.
-- Swallow ENTOCORT EC capsules whole.
+- •Take ENTOCORT EC capsules once daily in the morning.
+- •Swallow ENTOCORT EC capsules whole.
   Do not chew or crush.
-- Avoid consumption of grapefruit juice for the duration of their ENTOCORT EC therapy [see Drug Interactions (7.1)].
+- •Avoid consumption of grapefruit juice for the duration of their ENTOCORT EC therapy [see Drug Interactions (7.1)].

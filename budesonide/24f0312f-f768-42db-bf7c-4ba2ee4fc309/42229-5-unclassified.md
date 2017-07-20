@@ -1,11 +1,13 @@
-ENTOCORT is a registered trademark of the Elan Pharma International Limited, a Perrigo Company.
+ENTOCORT is a registered trademark of Perrigo Pharma International DAC.
 
-©Elan Pharma International Limited 2016
+©Perrigo Pharma International DAC 2016
 
-Manufactured and Distributed by:
+Manufactured for and Distributed by:
 
-Perrigo
+Perrigo®
 
 Allegan, MI 49010
 
-04-16 B
+Rev 02-17 C
+
+8Z200 RC J3

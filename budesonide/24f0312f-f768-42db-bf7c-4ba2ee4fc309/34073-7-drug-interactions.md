@@ -10,4 +10,4 @@ Inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir, indinavir, sa
 Grapefruit Juice
 
 Avoid ingestion of grapefruit juice with budesonide.
-Intake of grapefruit juice which inhibits CYP3A4 activity with budesonide can increase the systemic exposure for budesonide [see Clinical Pharmacology (12.3)].
+Intake of grapefruit juice which inhibits CYP3A4 activity with budesonide can increase the systemic exposure for budesonide [see ClinicalPharmacology (12.3)].

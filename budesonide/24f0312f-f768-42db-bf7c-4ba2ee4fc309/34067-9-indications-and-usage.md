@@ -6,4 +6,4 @@ ENTOCORT EC is indicated for the treatment of mild to moderate active Crohn's di
 
 ## 1.2 Maintenance of Clinical Remission of Mild to Moderate Crohn's Disease
 
-ENTOCORT EC is indicated for the maintenance of clinical remission of mild to moderate Crohn's disease involving the ileum and/or the ascending colon for up to 3 months in adults.
+ENTOCORT EC is indicated for the maintenance of clinical remission of mild to moderate Crohn’s disease involving the ileum and/or the ascending colon for up to 3 months in adults.
