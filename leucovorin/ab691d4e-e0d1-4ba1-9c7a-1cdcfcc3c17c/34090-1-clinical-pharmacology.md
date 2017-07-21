@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Leucovorin is a mixture of the diastereoisomers of the 5-formyl derivative of tetrahydrofolic acid (THF).
 The biologically active compound of the mixture is the (-)-I-isomer, known as Citrovorum factor or (-)-folinic acid.

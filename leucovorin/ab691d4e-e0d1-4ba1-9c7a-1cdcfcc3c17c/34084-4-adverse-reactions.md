@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 Allergic sensitization, including anaphylactoid reactions and urticaria, has been reported following the administration of both oral and parenteral leucovorin.
 No other adverse reactions have been attributed to the use of leucovorin per se.
@@ -10,9 +10,9 @@ PERCENTAGE OF PATIENTS TREATED WITH LEUCOVORIN/FLUOROURACIL FOR ADVANCED
 
 COLORECTAL CARCINOMA REPORTING ADVERSE EXPERIENCES OR HOSPITALIZED FOR TOXICITY
 
-|  | (High LV) /5-FU(N=155) |  | (Low LV) /5-FU(N=161) |  | 5-FU Alone (N=70) |  |
+|  | (High LV) /5-FU (N=155) |  | (Low LV) /5-FU (N=161) |  | 5-FU Alone (N=70) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Any(%) | Grade 3+(%) | Any(%) | Grade 3+(%) | Any(%) | Grade 3+(%) |
+|  | Any (%) | Grade 3+ (%) | Any (%) | Grade 3+ (%) | Any (%) | Grade 3+ (%) |
 | Leukopenia | 69 | 14 | 83 | 23 | 93 | 48 |
 | Thrombocytopenia | 8 | 2 | 8 | 1 | 18 | 3 |
 | Infection | 8 | 1 | 3 | 1 | 7 | 2 |

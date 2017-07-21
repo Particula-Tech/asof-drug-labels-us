@@ -1,14 +1,13 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
 Leucovorin Calcium for Injection is supplied as follows:
 
-| Product No. | NDCNo. | Strength |  |
+| Product No. | NDC No. | Strength |  |
 | --- | --- | --- | --- |
-| NP701050 | 63323-710-59 | 200 mg/vial | Packaged individually. |
+| NP701050 | 63323-710-59 | 200 mg per vial | Packaged individually. |
 
 Store at 20°C to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
-Protect from light.
-Retain in carton until time of use.
+Protect from light (keep in outer carton).
 
-This container closure is not made with natural rubber latex.
+The container closure is not made with natural rubber latex.

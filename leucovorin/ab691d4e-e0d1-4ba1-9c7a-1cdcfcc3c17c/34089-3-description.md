@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Leucovorin is one of several active, chemically reduced derivatives of folic acid.
 It is useful as an antidote to drugs which act as folic acid antagonists.

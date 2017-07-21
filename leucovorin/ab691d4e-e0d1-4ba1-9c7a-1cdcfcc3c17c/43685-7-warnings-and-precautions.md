@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 In the treatment of accidental overdosages of folic acid antagonists, intravenous leucovorin should be administered as promptly as possible.
 As the time interval between antifolate administration (e.g., methotrexate) and leucovorin rescue increases, leucovorin's effectiveness in counteracting toxicity decreases.
@@ -29,7 +29,7 @@ Seizures and/or syncope have been reported rarely in cancer patients receiving l
 
 The concomitant use of leucovorin with trimethoprim-sulfamethoxazole for the acute treatment of Pneumocystis carinii pneumonia in patients with HIV infection was associated with increased rates of treatment failure and morbidity in a placebo-controlled study.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 
@@ -46,9 +46,9 @@ During the first two courses a CBC with differential and platelets has to be rep
 Electrolytes and liver function tests should be performed prior to each treatment for the first three cycles then prior to every other cycle.
 Dosage modifications of fluorouracil should be instituted as follows, based on the most severe toxicities:
 
-| Diarrhea and/or Stomatitis | WBC/mm3Nadir | Platelets/mm3Nadir | 5-FU Dose |
+| Diarrhea and/or Stomatitis | WBC/mm3 Nadir | Platelets/mm3 Nadir | 5-FU Dose |
 | --- | --- | --- | --- |
-| Moderate Severe | 1,000 to 1,900<1,000 | 25 to 75,000<25,000 | decrease 20%decrease 30% |
+| Moderate Severe | 1,000 to 1,900 <1,000 | 25 to 75,000 <25,000 | decrease 20% decrease 30% |
 
 If no toxicity occurs, the 5-fluorouracil dose may increase 10%.
 Treatment should be deferred until WBCs are 4,000/mm3 and platelets 130,000/mm3.
@@ -67,7 +67,7 @@ Leucovorin may enhance the toxicity of 5-fluorouracil (see WARNINGS).
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category C.
+Teratogenic Effects:Pregnancy Category C.
 
 Adequate animal reproduction studies have not been conducted with leucovorin.
 It is also not known whether leucovorin can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
