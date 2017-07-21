@@ -1,6 +1,6 @@
 Manufactured by:
 
-Janssen Ortho, LLC
+Janssen Ortho LLC
 
 Gurabo, Puerto Rico 00778
 
@@ -10,4 +10,4 @@ Janssen Pharmaceuticals, Inc.
 
 Titusville, NJ 08560
 
-© Janssen Pharmaceuticals, Inc. 2009
+© 2009 Janssen Pharmaceutical Companies

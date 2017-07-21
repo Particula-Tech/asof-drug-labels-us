@@ -240,7 +240,7 @@ The most common adverse reactions with TOPAMAX® 100 mg in migraine prophylaxis 
 Table 8 includes those adverse reactions that occurred in the placebo-controlled trials where the incidence in any TOPAMAX® treatment group was at least 3% and was greater than that for placebo patients.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, somnolence, difficulty with memory, difficulty with concentration/attention) was dose-related and greater at higher than recommended TOPAMAX® dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
 
-Table 8: Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in AdultsIncludes 35 adolescent patients age 12 to 15 years.Values represent the percentage of patients reporting a given adverse reaction.
+Table 8: Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in AdultsIncludes 35 adolescent patients age 12 to 15 years.,Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
 
 | Body System/ Adverse Reaction | Placebo (N=445) % | 50 (N=235) % | 100 (N=386) % |
@@ -317,7 +317,7 @@ Table 9 also shows adverse reactions in pediatric patients in the controlled mig
 Many adverse reactions shown in Table 9 indicate a dose-dependent relationship.
 The incidence of some adverse reactions (e.g., allergy, fatigue, headache, anorexia, insomnia, somnolence, and viral infection) was dose-related and greater at higher than recommended TOPAMAX® dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
 
-Table 9: Adverse Reactions in Pooled Double-Blind Migraine Prophylaxis Studies in Pediatric Patients 12 to 17 Years of Age35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults (Tables 10 and 11)Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003
+Table 9: Adverse Reactions in Pooled Double-Blind Migraine Prophylaxis Studies in Pediatric Patients 12 to 17 Years of Age35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults (Tables 10 and 11),Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.,Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003
 
 | Body System/ Adverse Reaction | Placebo (N=45) % | 50 mg/day (N=46) % | 100 mg/day (N=48) % |
 | --- | --- | --- | --- |
