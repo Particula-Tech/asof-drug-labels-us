@@ -2,19 +2,19 @@
 
 ## 5.1 Drug Interactions
 
-See Table 6 for a listing of drugs that may significantly alter voriconazole concentrations.
-Also, see Table 7 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see Contraindications (4) and Drug Interactions (7)].
+See Table 7 for a listing of drugs that may significantly alter voriconazole concentrations.
+Also, see Table 8 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.2 Hepatic Toxicity
 
 In clinical trials, there have been uncommon cases of serious hepatic reactions during treatment with voriconazole (including clinical hepatitis, cholestasis and fulminant hepatic failure, including fatalities).
 Instances of hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly hematological malignancy).
 Hepatic reactions, including hepatitis and jaundice, have occurred among patients with no other identifiable risk factors.
-Liver dysfunction has usually been reversible on discontinuation of therapy [see Warnings and Precautions (5.9) Adverse Reactions (6.3)].
+Liver dysfunction has usually been reversible on discontinuation of therapy [see Warnings and Precautions (5.9) and Adverse Reactions (6.3)].
 
-Measure serum transaminase levels and bilirubin at the initiation of voriconazole tablets therapy and monitor at least weekly for the first month of treatment.
+Measure serum transaminase levels and bilirubin at the initiation of voriconazole therapy and monitor at least weekly for the first month of treatment.
 Monitoring frequency can be reduced to monthly during continued use if no clinically significant changes are noted.
-If liver function tests become markedly elevated compared to baseline, voriconazole tablets should be discontinued unless the medical judgment of the benefit-risk of the treatment for the patient justifies continued use [see Warnings and Precautions (5.9), Dosage and Administration (2.4, 2.7), and Adverse Reactions (6.3)].
+If liver function tests become markedly elevated compared to baseline, voriconazole tablets should be discontinued unless the medical judgment of the benefit-risk of the treatment for the patient justifies continued use [see Warnings and Precautions (5.9), Dosage and Administration (2.4,2.7) and Adverse Reactions (6.3)].
 
 ## 5.3 Visual Disturbances
 
@@ -22,14 +22,13 @@ The effect of voriconazole on visual function is not known if treatment continue
 There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
 If treatment continues beyond 28 days, visual function including visual acuity, visual field and color perception should be monitored [see Adverse Reactions (6.2)].
 
-## 5.4 Embryo Fetal Toxicity
+## 5.4 Embryo-Fetal Toxicity
 
 Voriconazole can cause fetal harm when administered to a pregnant woman.
 
-In animals, voriconazole administration was associated with teratogenicity, embryotoxicity, increased gestational length, dystocia and embryomortality.
-Please refer to section 8.1 (Use in Pregnancy) for additional details.
+In animals, voriconazole administration was associated with teratogenicity, embryotoxicity, increased gestational length, dystocia and embryomortality [see Use in Specific Populations (8.1)].
 
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be informed of the potential hazard to the fetus.
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, inform the patient of the potential hazard to the fetus.
 
 ## 5.5 Galactose Intolerance
 
@@ -41,7 +40,7 @@ Some azoles, including voriconazole, have been associated with prolongation of t
 During clinical development and post-marketing surveillance, there have been rare cases of arrhythmias, (including ventricular arrhythmias such as torsade de pointes), cardiac arrests and sudden deaths in patients taking voriconazole.
 These cases usually involved seriously ill patients with multiple confounding risk factors, such as history of cardiotoxic chemotherapy, cardiomyopathy, hypokalemia and concomitant medications that may have been contributory.
 
-Voriconazole should be administered with caution to patients with potentially proarrhythmic conditions, such as.
+Voriconazole should be administered with caution to patients with potentially proarrhythmic conditions, such as:
 
 - •Congenital or acquired QT-prolongation
 - •Cardiomyopathy, in particular when heart failure is present
@@ -49,7 +48,7 @@ Voriconazole should be administered with caution to patients with potentially pr
 - •Existing symptomatic arrhythmias
 - •Concomitant medicinal product that is known to prolong QT interval [see Contraindications (4), Drug Interactions (7), and Clinical Pharmacology (12.3)]
 
-Rigorous attempts to correct potassium, magnesium and calcium should be made before starting and during voriconazole therapy [seeClinical Pharmacology (12.3)].
+Rigorous attempts to correct potassium, magnesium and calcium should be made before starting and during voriconazole therapy [see Clinical Pharmacology (12.3)].
 
 ## 5.8 Laboratory Tests
 
@@ -57,14 +56,14 @@ Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia sh
 
 Patient management should include laboratory evaluation of renal (particularly serum creatinine) and hepatic function (particularly liver function tests and bilirubin).
 
-## 5.9 Patients With Hepatic Impairment
+## 5.9 Patients with Hepatic Impairment
 
-It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B) receiving voriconazole [see Clinical Pharmacology (12.3) and Dosage and Administration (2.7)].
+It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B) receiving voriconazole [see Clinical Pharmacology (12.3), and Dosage and Administration (2.7)].
 
-Voriconazole has not been studied in patients with severe cirrhosis (Child-Pugh Class C). Voriconazole has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic insufficiency if the benefit outweighs the potential risk.
-Patients with hepatic insufficiency must be carefully monitored for drug toxicity.
+Voriconazole has not been studied in patients with severe cirrhosis (Child-Pugh Class C). Voriconazole has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
+Patients with hepatic impairment must be carefully monitored for drug toxicity.
 
-## 5.10 Patients With Renal Impairment
+## 5.10 Patients with Renal Impairment
 
 In patients with moderate to severe renal dysfunction (creatinine clearance <50 mL/min), accumulation of the intravenous vehicle, SBECD, occurs.
 Oral voriconazole should be administered to these patients, unless an assessment of the benefit/risk to the patient justifies the use of intravenous voriconazole.
@@ -87,12 +86,12 @@ Patients with risk factors for acute pancreatitis (e.g., recent chemotherapy, he
 Serious exfoliative cutaneous reactions, such as Stevens-Johnson syndrome, have been reported during treatment with voriconazole.
 If a patient develops an exfoliative cutaneous reaction, voriconazole should be discontinued.
 
-Voriconazole tablets has been associated with photosensitivity skin reaction.
-Patients, including children, should avoid exposure to direct sunlight during voriconazole tablets treatment and should use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
-If phototoxic reactions occur, the patient should be referred to a dermatologist and voriconazole tablets discontinuation should be considered.
-If voriconazole tablets is continued despite the occurrence of phototoxicityrelated lesions, dermatologic evaluation should be performed on a systematic and regular basis to allow early detection and management of premalignant lesions.
-Squamous cell carcinoma of the skin and melanoma have been reported during long-term voriconazole tablets therapy in patients with photosensitivity skin reactions.
-If a patient develops a skin lesion consistent with premalignant skin lesions, squamous cell carcinoma or melanoma, voriconazole tablets should be discontinued.
+Voriconazole has been associated with photosensitivity skin reaction.
+Patients, including children, should avoid exposure to direct sunlight during voriconazole treatment and should use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
+If phototoxic reactions occur, the patient should be referred to a dermatologist and voriconazole discontinuation should be considered.
+If voriconazole is continued despite the occurrence of phototoxicity-related lesions, dermatologic evaluation should be performed on a systematic and regular basis to allow early detection and management of premalignant lesions.
+Squamous cell carcinoma of the skin and melanoma have been reported during long-term voriconazole therapy in patients with photosensitivity skin reactions.
+If a patient develops a skin lesion consistent with premalignant skin lesions, squamous cell carcinoma or melanoma, voriconazole should be discontinued.
 
 The frequency of phototoxicity reactions is higher in the pediatric population.
 Because squamous cell carcinoma has been reported in patients who experience photosensitivity reactions, stringent measures for photoprotection are warranted in children.

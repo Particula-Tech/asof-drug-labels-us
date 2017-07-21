@@ -147,11 +147,11 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store voriconazole tablets?
 
-- Store voriconazole tablets at room temperature, 68° to 77°F (20° to 25°C).
+- •Store voriconazole tablets at room temperature, 68° to 77°F (20° to 25°C).
   Do not refrigerate or freeze.
-- Keep voriconazole tablets in a tightly closed container.
-- Safely throw away medicine that is out of date or no longer needed.
-- Keep voriconazole tablets, as well as all other medicines, out of the reach of children.
+- •Keep voriconazole tablets in a tightly closed container.
+- •Safely throw away medicine that is out of date or no longer needed.
+- •Keep voriconazole tablets, as well as all other medicines, out of the reach of children.
 
 General information about the safe and effective use of voriconazole tablets
 
