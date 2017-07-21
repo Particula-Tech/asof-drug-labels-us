@@ -111,7 +111,7 @@ Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C1
 |  | 600 mg (24 h) | 32 (25) | 56 (22) | 49 (23) | 51 (28) |
 |  | 75 mg (Day 5) | 37 (23) | 60 (18) | 58 (19) | 56 (13) |
 |  | 150 mg (Day 5) | 61 (14) | 74 (14) | 73 (9) | 68 (18) |
-| VASP-PRI (%) Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition | 300 mg (24 h) | 91 (12) | 78 (12) | 68 (16) | 73 (12) |
+| VASP-PRI (%)Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition | 300 mg (24 h) | 91 (12) | 78 (12) | 68 (16) | 73 (12) |
 |  | 600 mg (24 h) | 85 (14) | 56 (26) | 48 (20) | 51 (20) |
 |  | 75 mg (Day 5) | 83 (13) | 50 (16) | 39 (14) | 40 (9) |
 |  | 150 mg (Day 5) | 61 (18) | 29 (11) | 24 (10) | 20 (10) |
