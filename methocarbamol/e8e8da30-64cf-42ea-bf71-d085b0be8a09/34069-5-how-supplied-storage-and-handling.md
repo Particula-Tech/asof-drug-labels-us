@@ -4,4 +4,5 @@ Methocarbamol injection, USP is a sterile, pyrogen-free, clear colorless solutio
 Discard unused portion.
 The vial stoppers are not made with natural rubber latex.
 For Product Inquiry, contact AuroMedics Pharma LLC at 1-866-850-2876.
-Manufactured for: AuroMedics Pharma LLC 6 Wheeling Road Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited IDA, Pashamylaram - 502307 India Revised: January 2016
+Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad – 500038 India Revised: March 2017
