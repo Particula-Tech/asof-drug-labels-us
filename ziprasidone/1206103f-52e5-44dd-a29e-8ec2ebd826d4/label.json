@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020919"
+  ],
+  "inn": "ziprasidone",
+  "labeler": "Roerig",
+  "package_ndcs": [
+    "0049-1203-01",
+    "0049-1203-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "ziprasidone mesylate",
+      "name": "Geodon"
+    }
+  ],
+  "setid": "1206103f-52e5-44dd-a29e-8ec2ebd826d4",
+  "source": "dailymed"
+}
