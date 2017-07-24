@@ -5,13 +5,13 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Serious Adverse Reactions
 
 Inform patients that VALCYTE may cause granulocytopenia (neutropenia), anemia, thrombocytopenia and elevated creatinine levels and that dose modification or discontinuation of dosing may be required.
-Complete blood counts, platelet counts, and creatinine levels should be performed frequently during treatment [see Warnings and Precautions (5.1)].
+Complete blood counts, platelet counts, and creatinine levels should be monitored frequently during treatment [see Warnings and Precautions (5.1)].
 
 Pregnancy and Contraception
 
 Inform females of reproductive potential that VALCYTE causes birth defects in animals.
 Advise them to use effective contraception during and for at least 30 days following treatment with VALCYTE.
-Similarly, advise males to practice barrier contraception during and for at least 90 days following treatment with VALCYTE [see Use in Specific Populations (8.1, 8.3)].
+Similarly, advise males to use condoms during and for at least 90 days following treatment with VALCYTE [see Use in Specific Populations (8.1, 8.3)].
 
 Carcinogenicity
 
@@ -23,11 +23,11 @@ Advise mothers not to breast-feed if they are receiving VALCYTE because of the p
 
 Infertility
 
-Advise patients that VALCYTE may cause temporary or permanent female and male infertility [see Warnings and Precautions (5.2), Use in Specific Populations (8.3)].
+Advise patients that VALCYTE may cause temporary or permanent female and male infertility [see Warnings and Precautions (5.3), Use in Specific Populations (8.3)].
 
 Impairment of Cognitive Ability
 
-Inform patients that tasks requiring alertness may be affected including the patient's ability to drive and operate machinery as convulsions, sedation, dizziness, ataxia and/or confusion have been reported with the use of VALCYTE [see Adverse Reactions (6.1)].
+Inform patients that tasks requiring alertness may be affected including the patient's ability to drive and operate machinery as seizures, sedation, dizziness, and/or confusion have been reported with the use of VALCYTE [see Adverse Reactions (6.1)].
 
 Use in Patients with CMV Retinitis
 

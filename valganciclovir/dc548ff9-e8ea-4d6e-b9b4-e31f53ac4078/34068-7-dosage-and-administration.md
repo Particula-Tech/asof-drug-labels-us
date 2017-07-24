@@ -22,9 +22,9 @@ Prevention of CMV Disease:
 
 ## 2.3 Recommended Dosage in Pediatric Patients
 
-Prevention of CMV Disease in Pediatric Kidney Transplant Patients: For pediatric kidney transplant patients 4 months to 16 years of age, the recommended once daily mg dose (7× BSA × CrCL) should start within 10 days of post-transplantation until 200 days post-transplantation.
+Prevention of CMV Disease in Pediatric Kidney Transplant Patients: For pediatric kidney transplant patients 4 months to 16 years of age, the recommended once daily mg dose (7 × BSA × CrCL) should start within 10 days of post-transplantation until 200 days post-transplantation.
 
-Prevention of CMV Disease in Pediatric Heart Transplant Patients: For pediatric heart transplant patients 1 month to 16 years of age, the recommended once daily mg dose (7× BSA × CrCL) should start within 10 days of transplantation until 100 days post-transplantation.
+Prevention of CMV Disease in Pediatric Heart Transplant Patients: For pediatric heart transplant patients 1 month to 16 years of age, the recommended once daily mg dose (7 × BSA × CrCL) should start within 10 days of transplantation until 100 days post-transplantation.
 
 The recommended once daily dosage of VALCYTE is based on body surface area (BSA) and creatinine clearance (CrCl) derived from a modified Schwartz formula, and is calculated using the equation below:
 
@@ -52,6 +52,7 @@ Before prescribing VALCYTE tablets, pediatric patients should be assessed for th
 
 ## 2.4 Preparation of VALCYTE for Oral Solution
 
+Wearing disposable gloves is recommended during reconstitution and when wiping the outer surface of the bottle/cap and the table after reconstitution.
 Prior to dispensing to the patient, VALCYTE for oral solution must be prepared by the pharmacist as follows [see How Supplied/Storage and Handling (16)]:
 
 - Measure 91 mL of purified water in a graduated cylinder.
@@ -70,13 +71,13 @@ The patient package insert, which includes the dosing instructions for patients,
 
 ## 2.5 Dosage Recommendation for Adult Patients with Renal Impairment
 
-Serum creatinine levels or creatinine clearance should be monitored regularly during treatment.
+Serum creatinine levels or estimated creatinine clearance should be monitored regularly during treatment.
 Dosage recommendations for adult patients with reduced renal function are provided in Table 2.
 For adult patients on hemodialysis (CrCl less than 10 mL/min), a dose recommendation for VALCYTE cannot be given [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
 
 Table 2 Dosage Recommendations for Adult Patients with Impaired Renal Function
 
-| CrClAn estimated creatinine clearance in adults is calculated from serum creatinine by the following formulas: (140 – age [years]) × (body weight [kg]) For males = ————————————————— (72) × (serum creatinine [mg/dL]) For females = 0.85 × male value (mL/min) | Induction Dose | Maintenance/Prevention Dose |
+| CrClAn estimated creatinine clearance in adults is calculated from serum creatinine by the following formulas: (mL/min) | Induction Dose | Maintenance/ Prevention Dose |
 | --- | --- | --- |
 | VALCYTE 450 mg Tablets |  |  |
 | ≥ 60 | 900 mg twice daily | 900 mg once daily |
@@ -85,14 +86,20 @@ Table 2 Dosage Recommendations for Adult Patients with Impaired Renal Function
 | 10 – 24 | 450 mg every 2 days | 450 mg twice weekly |
 | < 10 (on hemodialysis) | not recommended | not recommended |
 
+| For males = | (140 – age [years]) × (body weight [kg]) |  |
+| --- | --- | --- |
+| (72) × (serum creatinine [mg/dL]) |  |  |
+
+For females = 0.85 × male value
+
 Dosing in pediatric patients with renal impairment can be done using the recommended equations because CrCl is a component in the calculation [see Dosage and Administration (2.3)].
 
 ## 2.6 Handling and Disposal
 
 Caution should be exercised in the handling of VALCYTE tablets and VALCYTE for oral solution.
 Tablets should not be broken or crushed.
-Because valganciclovir is considered a potential teratogen and carcinogen in humans, caution should be observed in handling broken tablets, the powder for oral solution, and the constituted oral solution [see Warnings and Precautions (5.3, 5.4)].
+Because valganciclovir is considered a potential teratogen and carcinogen in humans, caution should be observed in handling broken tablets, the powder for oral solution, and the constituted oral solution [see Warnings and Precautions (5.4, 5.5)].
 Avoid direct contact with broken or crushed tablets, the powder for oral solution, and the constituted oral solution with skin or mucous membranes.
 If such contact occurs, wash thoroughly with soap and water, and rinse eyes thoroughly with plain water.
 
-Handle and dispose VALCYTE according to guidelines for antineoplastic drugs because ganciclovir shares some of the properties of antitumor agents (i.e., carcinogenicity and mutagenicity)2.
+Handle and dispose VALCYTE according to guidelines for antineoplastic drugs because ganciclovir shares some of the properties of antitumor agents (i.e., carcinogenicity and mutagenicity).2
