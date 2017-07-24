@@ -8,7 +8,7 @@ Both alpha1 and alpha2 activity is observed following slow intravenous infusion 
 
 ## 12.2 Pharmacodynamics
 
-In a study in healthy volunteers (N=10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when Dexmedetomidine hydrochloride was administered by intravenous infusion at doses within the recommended dose range (0.2 to 0.7 mcg/kg/hr).
+In a study in healthy volunteers (N=10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when dexmedetomidine hydrochloride was administered by intravenous infusion at doses within the recommended dose range (0.2 to 0.7 mcg/kg/hr).
 
 ## 12.3 Pharmacokinetics
 
@@ -17,16 +17,16 @@ Clearance is estimated to be approximately 39 L/h.
 The mean body weight associated with this clearance estimate was 72 kg.
 
 Dexmedetomidine exhibits linear pharmacokinetics in the dosage range of 0.2 to 0.7 mcg/kg/hr when administered by intravenous infusion for up to 24 hours.
-Table 4 shows the main pharmacokinetic parameters when dexmedetomidine hydrochloride was infused (after appropriate loading doses) at maintenance infusion rates of 0.17 mcg/kg/hr (target plasma concentration of 0.3 ng/mL) for 12 and 24 hours, 0.33 mcg/kg/hr (target plasma concentration of 0.6 ng/mL) for 24 hours, and 0.70 mcg/kg/hr (target plasma concentration of 1.25 ng/mL) for 24 hours.
+Table 8 shows the main pharmacokinetic parameters when dexmedetomidine hydrochloride was infused (after appropriate loading doses) at maintenance infusion rates of 0.17 mcg/kg/hr (target plasma concentration of 0.3 ng/mL) for 12 and 24 hours, 0.33 mcg/kg/hr (target plasma concentration of 0.6 ng/mL) for 24 hours, and 0.70 mcg/kg/hr (target plasma concentration of 1.25 ng/mL) for 24 hours.
 
-Table 4: Mean ± SD Pharmacokinetic Parameters
+Table 8: Mean ± SD Pharmacokinetic Parameters
 
 | Parameter | Loading Infusion (min)/Total Infusion Duration (hrs) |  |  |  |
 | --- | --- | --- | --- | --- |
 | 10 min/12 hrs | 10 min/24 hrs | 10 min/24 hrs | 35 min/24 hrs |  |
-| Dexmedetomidine Hydrochloride Injection Target Plasma Concentration (ng/mL) and Dose (mcg/kg/hr) |  |  |  |  |
-| 0.3/0.17 | 0.3/0.17 | 0.6/0.33 | 1.25/0.7 |  |
-| t1/2*, hour CL, liter/hour Vss, liter Avg Css#, ng/mL | 1.78 ± 0.3 46.3 ± 8.3 88.7 ± 22.9 0.27 ± 0.05 | 2.22 ± 0.59 43.1 ± 6.5 102.4 ± 20.3 0.27 ± 0.05 | 2.23 ± 0.21 35.3 ± 6.8 93.6 ± 17.0 0.67 ± 0.1 | 2.5 ± 0.61 36.5 ± 7.5 99.6 ± 17.8 1.37 ± 0.2 |
+| Dexmedetomidine Target Plasma Concentration (ng/mL) and Dose (mcg/kg/hr) |  |  |  |  |
+| 0.3/0.17 | 0.3/0.17 | 0.6/0.33 | 1.25/0.70 |  |
+| t1/2*, hour CL, liter/hour Vss, liter Avg Css#, ng/mL | 1.78 ± 0.30 46.3 ± 8.3 88.7 ± 22.9 0.27 ± 0.05 | 2.22 ± 0.59 43.1 ± 6.5 102.4 ± 20.3 0.27 ± 0.05 | 2.23 ± 0.21 35.3 ± 6.8 93.6 ± 17.0 0.67 ± 0.10 | 2.50 ± 0.61 36.5 ± 7.5 99.6 ± 17.8 1.37 ± 0.20 |
 
 * Presented as harmonic mean and pseudo standard deviation.
 
@@ -53,7 +53,7 @@ Metabolism
 
 Dexmedetomidine undergoes almost complete biotransformation with very little unchanged dexmedetomidine excreted in urine and feces.
 Biotransformation involves both direct glucuronidation as well as cytochrome P450 mediated metabolism.
-The major metabolic pathways of dexmedetomidine are: direct N-glucuronidation to inactive metabolites; aliphatic hydroxylation (mediated primarily by CYP2A6) of dexmedetomidine to generate 3-hydroxy-dexmedetomidine, the glucuronide of 3-hydroxy-dexmedetomidine, and 3-carboxy-dexmedetomidine; and N-methylation of dexmedetomidine to generate 3-hydroxy N-methyl-dexmedetomidine, 3-carboxy N-methyl-dexmedetomidine, and dexmedetomidine-N-methyl O-glucuronide.
+The major metabolic pathways of dexmedetomidine are: direct N-glucuronidation to inactive metabolites; aliphatic hydroxylation (mediated primarily by CYP2A6 with a minor role of CYP1A2, CYP2E1, CYP2D6 and CYP2C19) of dexmedetomidine to generate 3-hydroxy-dexmedetomidine, the glucuronide of 3-hydroxy-dexmedetomidine, and 3-carboxy-dexmedetomidine; and N-methylation of dexmedetomidine to generate 3-hydroxy N-methyl-dexmedetomidine, 3-carboxy N-methyl-dexmedetomidine, and dexmedetomidine-N-methyl O-glucuronide.
 
 Elimination
 
@@ -77,7 +77,7 @@ The pharmacokinetic profile of dexmedetomidine hydrochloride was not altered by 
 There were no differences in the pharmacokinetics of dexmedetomidine hydrochloride in young (18 to 40 years), middle age (41 to 65 years), and elderly (>65 years) subjects.
 Hepatic Impairment:
 
-In subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C), clearance values for dexmedetomidine hydrochloride were lower than in healthy subjects.
+In subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C), clearance values for dexmedetomidine were lower than in healthy subjects.
 The mean clearance values for patients with mild, moderate, and severe hepatic impairment were 74%, 64% and 53% of those observed in the normal healthy subjects, respectively.
 Mean clearances for free drug were 59%, 51% and 32% of those observed in the normal healthy subjects, respectively.
 
@@ -85,7 +85,7 @@ Although dexmedetomidine hydrochloride is dosed to effect, it may be necessary t
 
 Renal Impairment:
 
-Dexmedetomidine Hydrochloride pharmacokinetics (Cmax, Tmax, AUC, t1/2, CL, and Vss) were not significantly different in patients with severe renal impairment (creatinine clearance: <30 mL/min) compared to healthy subjects.
+Dexmedetomidine hydrochloride pharmacokinetics (Cmax, Tmax, AUC, t1/2, CL, and Vss) were not significantly different in patients with severe renal impairment (creatinine clearance: <30 mL/min) compared to healthy subjects.
 
 Drug Interactions:
 

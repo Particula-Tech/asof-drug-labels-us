@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Animal carcinogenicity studies have not been performed with dexmedetomidine hydrochloride.
+Animal carcinogenicity studies have not been performed with dexmedetomidine.
 
 Dexmedetomidine was not mutagenic in vitro, in either the bacterial reverse mutation assay (E. coli and Salmonella typhimurium) or the mammalian cell forward mutation assay (mouse lymphoma).
 Dexmedetomidine was clastogenic in the in vitro human lymphocyte chromosome aberration test with, but not without, rat S9 metabolic activation.

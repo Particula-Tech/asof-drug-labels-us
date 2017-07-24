@@ -13,7 +13,7 @@ Teratogenic effects were not observed in rats following subcutaneous administrat
 However, fetal toxicity, as evidenced by increased post-implantation losses and reduced live pups, was observed in rats at a subcutaneous dose of 200 mcg/kg.
 The no-effect dose in rats was 20 mcg/kg (representing a dose less than the maximum recommended human intravenous dose based on a body surface area comparison).
 In another reproductive toxicity study when dexmedetomidine was administered subcutaneously to pregnant rats at 8 and 32 mcg/kg (representing a dose less than the maximum recommended human intravenous dose based on a body surface area comparison) from gestation day 16 through weaning, lower offspring weights were observed.
-Additionally, when offspring of the 32 mcg/kg group were allowed to mate, elevated fetal and embryocidal toxicity and delayed motor development was observed in second generation offspring
+Additionally, when offspring of the 32 mcg/kg group were allowed to mate, elevated fetal and embryocidal toxicity and delayed motor development was observed in second generation offspring.
 
 ## 8.2 Labor and Delivery
 
@@ -22,14 +22,12 @@ The safety of dexmedetomidine hydrochloride during labor and delivery has not be
 ## 8.3 Nursing Mothers
 
 It is not known whether dexmedetomidine hydrochloride is excreted in human milk.
-Radio-labeled dexmedetomidine hydrochloride administered subcutaneously to lactating female rats was excreted in milk.
+Radio-labeled dexmedetomidine administered subcutaneously to lactating female rats was excreted in milk.
 Because many drugs are excreted in human milk, caution should be exercised when dexmedetomidine hydrochloride is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
 Safety and efficacy have not been established for Procedural Sedation in pediatric patients.
-Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Hospira's dexmedetomidine injection.
-However, due to Hospira's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 The use of dexmedetomidine for procedural sedation in pediatric patients has not been evaluated.
 
 ## 8.5 Geriatric Use

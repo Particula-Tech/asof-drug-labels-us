@@ -6,6 +6,6 @@ Dexmedetomidine hydrochloride injection has a molecular weight of 236.7 and the 
 
 Dexmedetomidine hydrochloride is a white or almost white powder that is freely soluble in water and has a pKa of 7.1.
 Its partition coefficient in-octanol: water at pH 7.4 is 2.89.
-Dexmedetomidine hydrochloride Injection is supplied as a clear, colorless, isotonic solution with a pH of 4.5 to 7.0.
+Dexmedetomidine hydrochloride injection is supplied as a clear, colorless, isotonic solution with a pH of 4.5 to 7.0.
 Each mL contains 118 mcg of dexmedetomidine hydrochloride equivalent to 100 mcg (0.1mg) of dexmedetomidine and 9 mg of sodium chloride in water and is to be used after dilution.
 The solution is preservative-free and contains no additives or chemical stabilizers.
