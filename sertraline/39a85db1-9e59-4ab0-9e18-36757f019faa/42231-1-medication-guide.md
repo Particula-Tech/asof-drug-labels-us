@@ -17,14 +17,14 @@ Suicidal thoughts or actions:
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
 
 - attempts to commit suicide
-- acting aggressive or violent
-- new or worse depression
-- feeling agitated, restless, angry or irritable
-- an increase in activity or talking more than what is normal for you
 - acting on dangerous impulses
+- acting aggressive or violent
 - thoughts about suicide or dying
+- new or worse depression
 - new or worse anxiety or panic attacks
+- feeling agitated, restless, angry or irritable
 - trouble sleeping
+- an increase in activity or talking more than what is normal for you
 - other unusual changes in behavior or mood
 
 2.
@@ -117,10 +117,10 @@ People who take sertraline hydrochloride tablets close in time to an MAOI may ha
 Get medical help right away if you have any of these symptoms:
 
 - high fever
-- rapid changes in heart rate or blood pressure
 - uncontrolled muscle spasms
-- confusion
 - stiff muscles
+- rapid changes in heart rate or blood pressure
+- confusion
 - loss of consciousness (pass out)
 
 What should I tell my healthcare provider before taking sertraline hydrochloride tablets?
@@ -209,4 +209,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 02/2017
+Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500 038, India Revised: 07/2017
