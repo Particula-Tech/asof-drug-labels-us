@@ -37,29 +37,29 @@ About 90% of a dose of testosterone given intramuscularly is excreted in the uri
 Inactivation of testosterone occurs primarily in the liver.
 
 Potential for testosterone transfer: The potential for testosterone transfer from males dosed with AXIRON to healthy females was evaluated in a clinical study conducted with a 2% testosterone formulation.
-10 males were treated with 60 mg (2 pump actuations) of testosterone in each axilla (the maximum testosterone dose of 120 mg).
+10 males were treated with 60 mg of testosterone in each axilla (the maximum testosterone dose of 120 mg).
 At 2 hours after the application of AXIRON to the males, the females rubbed their outer forearms for 15 minutes on the axilla of the males.
 The males had covered the application area with a T-shirt.
 Serum concentrations of testosterone were monitored in the female subjects for 72 hours after the transfer procedure.
 Study results show a 13% and 17% increase in testosterone exposure (AUC[0-24]) and maximum testosterone concentration (Cmax), respectively, compared to baseline in these females.
 In a prior clinical study conducted with a 1% testosterone formulation under similar study conditions, direct skin-to-skin transfer showed a 131% and 297% increase in testosterone exposure (AUC[0-72]) and maximum testosterone concentration (Cmax), respectively, compared to when men had covered the application area with a T-shirt.
 
-In a clinical study conducted with a 2% testosterone formulation to evaluate the effect of washing on the residual amount of testosterone at the axilla, 10 healthy male subjects received 60 mg (2 pump actuations) of testosterone to each axilla (the maximum testosterone dose of 120 mg).
+In a clinical study conducted with a 2% testosterone formulation to evaluate the effect of washing on the residual amount of testosterone at the axilla, 10 healthy male subjects received 60 mg of testosterone to each axilla (the maximum testosterone dose of 120 mg).
 Following 5 minutes of drying time, the left axilla was wiped with alcohol towelettes which were assayed for testosterone content.
 Subjects were required to shower with soap and water 30 minutes after application.
 The right axilla was then wiped with alcohol towelettes which were assayed for testosterone content.
 A mean (SD) of 3.1 (2.8) mg of residual testosterone (i.e., 92.6% reduction compared to when axilla was not washed) was recovered after washing this area with soap and water.
 [See Dosage and Administration (2.2) and Warnings and Precautions (5.2)].
 
-Use of deodorants and anti-perspirants: In a parallel designed clinical study evaluating the effect of deodorants and antiperspirants in healthy premenopausal females dosed with AXIRON, each subject applied either a combined deodorant/antiperspirant spray (6 subjects) or stick (6 subjects) or a deodorant spray (6 subjects) to a single axilla 2 minutes before the application of 30 mg (1 pump actuation) of testosterone to the same axilla.
-A control group of 6 subjects only applied 30 mg (1 pump actuation) of testosterone to a single axilla.
+Use of deodorants and anti-perspirants: In a parallel designed clinical study evaluating the effect of deodorants and antiperspirants in healthy premenopausal females dosed with AXIRON, each subject applied either a combined deodorant/antiperspirant spray (6 subjects) or stick (6 subjects) or a deodorant spray (6 subjects) to a single axilla 2 minutes before the application of 30 mg of testosterone to the same axilla.
+A control group of 6 subjects only applied 30 mg of testosterone to a single axilla.
 Blood samples were collected for 72 hours from all subjects following AXIRON administration.
 Although a decrease of up to 33% of testosterone exposure (AUC[0-72]) was observed when antiperspirants or deodorants are used 2 minutes prior to AXIRON application, underarm deodorant or antiperspirant spray or stick products may be used 2 minutes prior to AXIRON application as part of normal, consistent, and daily routine.
 [See Dosage and Administration (2.2), and Patient Counseling Information (17.4)].
 
-Effect of showering/washing: In a parallel designed clinical study to evaluate the effect of washing on the testosterone systemic exposure, two groups of 6 healthy premenopausal female subjects were each dosed with 30 mg (1 pump actuation) of testosterone to a single axilla.
+Effect of showering/washing: In a parallel designed clinical study to evaluate the effect of washing on the testosterone systemic exposure, two groups of 6 healthy premenopausal female subjects were each dosed with 30 mg of testosterone to a single axilla.
 The application sites of each group were washed with soap and water 2 hours or 6 hours after the application of AXIRON.
-A control group of 6 female subjects applied 30 mg (1 pump actuation) of testosterone to a single axilla and did not wash the application site.
+A control group of 6 female subjects applied 30 mg of testosterone to a single axilla and did not wash the application site.
 Blood samples were collected for 72 hours from all subjects following dosing with AXIRON.
 A decrease of up to 35% of testosterone exposure (AUC[0-72]) was observed when applications sites were washed 2 hours and 6 hours after AXIRON application.
 Patients should be advised to avoid swimming or washing the application site until 2 hours following application of AXIRON.

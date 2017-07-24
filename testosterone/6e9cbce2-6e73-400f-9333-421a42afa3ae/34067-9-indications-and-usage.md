@@ -9,5 +9,5 @@ AXIRON is indicated for replacement therapy in males for conditions associated w
 
 Limitations of use:
 
-- Safety and efficacy of AXIRON in men with "age-related hypogonadism" (also referred to as "late-onset hypogonadism") have not been established.
+- Safety and efficacy of AXIRON in men with “age-related hypogonadism” (also referred to as “late-onset hypogonadism”) have not been established.
 - Safety and efficacy of AXIRON in males <18 years old have not been established [see Use in Specific Populations (8.4)].

@@ -4,14 +4,14 @@ Prior to initiating AXIRON, confirm the diagnosis of hypogonadism by ensuring th
 
 ## 2.1 Dosing and Dose Adjustment
 
-The recommended starting dose of AXIRON (testosterone) topical solution is 60 mg of testosterone (2 pump actuations) applied once daily.
+The recommended starting dose of AXIRON (testosterone) topical solution is 60 mg of testosterone (2 pump or 2 twist actuations) applied once daily.
 
 To ensure proper dosing, serum testosterone concentrations should be measured after initiation of therapy to ensure that the desired concentrations (300 ng/dL-1050 ng/dL) are achieved.
 The AXIRON dose can be adjusted based on the serum testosterone concentration from a single blood draw 2 – 8 hours after applying AXIRON and at least 14 days after starting treatment or following dose adjustment.
 
-If the measured serum testosterone concentration is below 300 ng/dL, the daily testosterone dose may be increased from 60 mg (2 pump actuations) to 90 mg (3 pump actuations) or from 90 mg to 120 mg (4 pump actuations).
-If the serum testosterone concentration exceeds 1050 ng/dL, the daily testosterone dose should be decreased from 60 mg (2 pump actuations) to 30 mg (1 pump actuation) as instructed by a physician.
-If the serum testosterone concentration consistently exceeds 1050 ng/dL at the lowest daily dose of 30 mg (1 pump actuation), AXIRON therapy should be discontinued.
+If the measured serum testosterone concentration is below 300 ng/dL, the daily testosterone dose may be increased from 60 mg (2 pump or 2 twist actuations) to 90 mg (3 pump or 3 twist actuations) or from 90 mg to 120 mg (4 pump or 4 twist actuations).
+If the serum testosterone concentration exceeds 1050 ng/dL, the daily testosterone dose should be decreased from 60 mg (2 pump or 2 twist actuations) to 30 mg (1 pump or 1 twist actuation) as instructed by a physician.
+If the serum testosterone concentration consistently exceeds 1050 ng/dL at the lowest daily dose of 30 mg (1 pump or 1 twist actuation), AXIRON therapy should be discontinued.
 
 The application site and dose of AXIRON are not interchangeable with other topical testosterone products.
 
@@ -22,11 +22,22 @@ Do not apply AXIRON to other parts of the body including to the scrotum, penis, 
 After applying the solution, the application site should be allowed to dry completely prior to dressing.
 Avoid fire, flames or smoking until the solution has dried since alcohol based products, including AXIRON, are flammable.
 
+When deodorants or antiperspirants are used as part of a regular program for personal hygiene, they should not interfere with the efficacy of AXIRON in treating hypogonadism.
+If patients use an antiperspirant or deodorant (stick or roll-on) then it should be applied at least 2 minutes prior to the application of AXIRON to avoid contamination of the stick or roll-on product.
+
+Patients should be advised to avoid swimming or washing the application site until two hours following application of AXIRON [see Clinical Pharmacology (12.3)].
+
+To reduce the likelihood of interpersonal transfer of testosterone, the application site should always be washed prior to any skin-to-skin contact regardless of the length of time since application.
+[See Warnings and Precautions (5.2)].
+
+AXIRON is available in two presentations (i.e., pump actuated or twist actuated metered-dose pump).
+
+Pump Actuated Metered-Dose Pump
+
 AXIRON is applied to the axilla using an applicator.
-When using AXIRON for the first time, patients should be instructed to prime the pump by depressing the pump three (3) times, discard any product dispensed directly into a basin, sink, or toilet and then wash the liquid away thoroughly.
+When using AXIRON for the first time, patients should be instructed to prime the pump by depressing the pump three times, discard any product dispensed directly into a basin, sink, or toilet and then wash the liquid away thoroughly.
 This priming should be done only prior to the first use of each pump.
-After priming, patients should completely depress the pump one time (one pump actuation) to dispense 30 mg of testosterone.
-To dispense the solution, position the nozzle over the applicator cup and carefully depress the pump fully once.
+After priming, patients should completely depress the pump one time (1 pump actuation) to dispense 30 mg of testosterone.
 Ensure that the liquid is directed into the cup.
 The cup should be filled with no more than 30 mg (1 pump actuation) of testosterone.
 Dosing that requires greater than one pump actuation must be applied in increments of 30 mg as is shown in Table 1.
@@ -42,22 +53,35 @@ When repeat application to the same axilla is required, the axilla should be all
 After use, the applicator should be rinsed under room temperature, running water and then patted dry with a tissue.
 The applicator and cap are then replaced on the bottle for storage.
 
-When deodorants or antiperspirants are used as part of a regular program for personal hygiene, they should not interfere with the efficacy of AXIRON in treating hypogonadism.
-If patients use an antiperspirant or deodorant (stick or roll-on) then it should be applied prior to the application of AXIRON to avoid contamination of the stick or roll-on product.
+Twist Actuated Metered-Dose Pump
 
-Patients should be advised to avoid swimming or washing the application site until two hours following application of AXIRON [see Clinical Pharmacology (12.3)].
+AXIRON is applied to the axilla using an applicator.
+When using AXIRON for the first time, patients should be instructed to prime the pump by twisting the dose dial and discarding any product dispensed directly into a basin, sink, or toilet, and then washing the liquid away thoroughly.
+This should be repeated two additional times.
+This priming should be done only prior to the first use of each bottle.
+After priming, patients should completely twist (180° turn) the dose dial one time (1 twist actuation) to dispense 30 mg of testosterone.
+The applicator should be filled with no more than 30 mg (1 twist actuation) of testosterone.
+Dosing that requires greater than one twist actuation must be applied in increments of 30 mg as is shown in Table 1.
 
-To reduce the likelihood of interpersonal transfer of testosterone, the application site should always be washed prior to any skin-to-skin contact regardless of the length of time since application.
-[See Warnings and Precautions (5.2)].
+Keeping the applicator upright, patients should place it up into the axilla and wipe steadily down and up into the axilla.
+If the solution drips or runs, it can be wiped back up with the applicator.
+The solution should not be rubbed into the skin with fingers or hand.
+The process is then repeated with application of 30 mg of testosterone (1 twist actuation) to the other axilla to achieve a total of 60 mg of testosterone applied.
+For patients prescribed the 90 mg dose of testosterone, the procedure is the same, but three applications are required.
+To dose 120 mg of testosterone, four applications are required alternating left and right for each application as shown in Table 1.
+When repeat application to the same axilla is required, the axilla should be allowed to dry completely before more AXIRON is applied.
+
+After use, the applicator should be wiped with a disposable tissue.
+The lid is then replaced on the bottle for storage.
 
 Table 1: Application Technique
 
-| Daily Prescribed Dose of Testosterone | Number of Pump Actuations | Application |
-| --- | --- | --- |
-| 30 mg | 1 (once daily) | Apply once to one axilla only (left OR right) |
-| 60 mg | 2 (once daily) | Apply once to the left axilla and then apply once to the right axilla. |
-| 90 mg | 3 (once daily) | Apply once to the left and once to the right axilla, wait for the product to dry, and then apply once again to the left OR right axilla. |
-| 120 mg | 4 (once daily) | Apply once to the left and once to the right axilla, wait for the product to dry, and then apply once again to the left AND once to the right axilla. |
+| Daily Prescribed Dose of Testosterone |  | Number of Twist Actuations | Number of Pump Actuations | Application |
+| --- | --- | --- | --- | --- |
+|  | 30 mg (once daily) | 1 | 1 | Apply once to one axilla only (left OR right) |
+|  | 60 mg (once daily) | 2 | 2 | Apply once to the left axilla and then apply once to the right axilla. |
+|  | 90 mg (once daily) | 3 | 3 | Apply once to the left and once to the right axilla, wait for the product to dry, and then apply once again to the left OR right axilla. |
+|  | 120 mg (once daily) | 4 | 4 | Apply once to the left and once to the right axilla, wait for the product to dry, and then apply once again to the left AND once to the right axilla. |
 
 Hands should be washed thoroughly with soap and water after AXIRON has been applied [see Warnings and Precautions (5.2)].
 

@@ -23,7 +23,8 @@ Strict adherence to the following precautions is advised in order to minimize th
 - Patients should cover the axilla application site(s) with clothing (e.g., a shirt) after waiting 3 minutes for the solution to dry.
 - Prior to any situation in which direct skin-to-skin contact of the axilla is anticipated, patients should wash the axilla to which AXIRON has been applied thoroughly with soap and water to remove any testosterone residue.
 - In the event that unwashed or unclothed skin to which AXIRON has been applied comes in direct contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible.
-  [See Dosage and Administration (2.2), Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+
+[See Dosage and Administration (2.2), Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
 ## 17.3 Potential Adverse Reactions with Androgens
 
@@ -36,24 +37,24 @@ Patients should be informed that treatment with Androgens may lead to adverse re
 
 ## 17.4 Patients Should be Advised of these Application Instructions
 
-- The pump should be primed by depressing it 3 times prior to its first use.
+- Ensure that the patient understands how to administer the correct dose.
+- The pump should be primed by depressing or twisting it 3 times prior to its first use.
   No priming is needed with subsequent uses of that pump.
 - AXIRON should NOT be applied to the scrotum, penis, abdomen, shoulders or upper arms.
 - With testosterone doses greater than 60 mg, which require two applications of AXIRON to the same axilla, the product should be allowed to dry after the first application before the second is applied.
 - AXIRON should be applied once daily at approximately the same time each day.
   AXIRON should be applied to clean, dry skin.
 - Patients may use an antiperspirant or deodorant spray before applying AXIRON.
-  If patients use a stick or roll-on antiperspirant or deodorant, then it should be applied prior to application of AXIRON to avoid contamination of the stick or roll-on product.
+  If patients use a stick or roll-on antiperspirant or deodorant, then it should be applied at least 2 minutes prior to application of AXIRON to avoid contamination of the stick or roll-on product.
 - Avoid swimming or washing the application site until two hours following application of AXIRON [see Dosage and Administration (2) and Clinical Pharmacology (12.3)].
 - Avoid splashing in the eyes.
   In case of contact with eyes, flush thoroughly with water.
   If irritation persists, seek medical advice.
+- Do not drink AXIRON.
 
-Literature revised February 2017
+Literature revised: July 2017
 
-Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
-
-Copyright © 2010, 2017, Eli Lilly and Company.
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA Copyright © 2010, 2017, Eli Lilly and Company.
 All rights reserved.
 
-AXR-0006-USPI-20170203
+AXR-0007-USPI-20170713
