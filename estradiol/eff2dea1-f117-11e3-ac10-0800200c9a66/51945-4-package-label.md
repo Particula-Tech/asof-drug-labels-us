@@ -1,55 +1,53 @@
-PRINCIPAL DISPLAY PANEL – BOTTLE
+# PRINCIPAL DISPLAY PANEL – 0.06%
 
-NDC 0037-4801-35
+NDC 0037-4801-70
 
-Elestrin®
-
-(estradiol gel) 0.06%
-
-0.52 mg of estradiol per pump actuation*
+Elestrin® (estradiol gel) 0.06% 0.52 mg of estradiol per pump actuation*
 
 FOR TOPICAL USE ONLY
 
-Net weight 35 grams.
+Total Contents: 35g x 2
 
 Rx Only
 
-Metered dose pump
-
-container delivering
-
-26 grams gel as
-
-30 metered actuations.
+Metered dose pump container delivering 26 grams gel as 30 metered actuations.
 
 *Each actuation delivers 0.87g of gel
 
-MEDA PHARMACEUTICALS™
+Attention pharmacist: Dispense with enclosed Patient Information leaflet.
 
-PRINCIPAL DISPLAY PANEL – CARTON (DOUBLE)
+Important: Read accompanying directions carefully.
 
-NDC 0037-4802-35
+Contents: Each gram of Elestrin® contains 0.6 mg estradiol in a hydroalcoholic gel containing purified water, ethanol, propylene glycol, diethylene glycol monoethyl ether, carbomer 940, triethanolamine and edetate disodium.
 
-Elestrin®
+Usual Dose: Apply 1 or 2 actuations per day to upper arm/shoulder area as directed by your physician.
+See enclosed Prescribing Information.
 
-(estradiol gel) 0.06%
+The metered dose pump must be primed before first use.
+After initial priming, each actuation delivers 0.87 grams of gel which contains 0.52 mg of estradiol.
 
-0.52 mg of estradiol per pump actuation*
+Net weight 35 grams per pump container
 
-FOR TOPICAL USE ONLY
+WARNINGS
 
-Total Contents 35g x 2
+Keep out of the reach of children; this container is not child-resistant.
 
-Rx Only
+Gels are flammable.
+Avoid fire, flame, or smoking during application.
 
-Metered dose pump
+Store at 20º to 25ºC (68º to 77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF)
 
-container delivering
+Distributed by: Meda Pharmaceuticals™ Somerset, New Jersey 08873-4120
 
-26 grams gel as
+© 2017 Meda Pharmaceuticals Inc.
 
-30 metered actuations.
+www.meda.us www.elestrin.com
 
-*Each actuation delivers 0.87g of gel
+MEDA PHARMACEUTICALS and the MEDA PHARMACEUTICALS logo are trademarks and ELESTRIN is a registered trademark of Meda AB or a related entity.
 
-MEDA PHARMACEUTICALS™
+U.S. Pat.
+No. 7,198,801 and U.S. Pat.
+No. 7,470,433
+
+UC-048002-02 Rev.
+2/2017
