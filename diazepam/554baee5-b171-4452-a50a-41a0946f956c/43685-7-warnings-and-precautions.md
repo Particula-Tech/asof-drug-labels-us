@@ -1,6 +1,6 @@
 # WARNINGS
 
-Concomitant use of benzodiazepines, including Valium, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Concomitant use of benzodiazepiones, including Valium, and opioids may result in profound sedation, respiratory depression, coma, and death.
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.

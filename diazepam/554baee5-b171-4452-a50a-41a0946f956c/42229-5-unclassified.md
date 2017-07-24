@@ -26,16 +26,10 @@ VALIUM is a registered trademark of Hoffmann-La Roche, Inc.
 
 Distributed by:
 
-Genentech USA, Inc.
+Roche Laboratories Inc. on behalf of Roche Products Inc. 150 Clove Road Suite 8 Little Falls, NJ 07424
 
-A Member of the Roche Group
+Revised: June 2017
 
-1 DNA Way
-
-South San Francisco, CA 94080-4990
-
-Revised: December 2016
-
-© 2016 Genentech, Inc. All rights reserved.
+© 2017 Genentech, Inc. All rights reserved.
 
 Representative sample of labeling (see the HOW SUPPLIED section for complete listing):
