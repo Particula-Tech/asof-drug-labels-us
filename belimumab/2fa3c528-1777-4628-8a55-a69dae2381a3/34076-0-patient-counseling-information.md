@@ -1,9 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+It is important that the patient’s overall health be assessed at each visit and any questions resulting from the patient’s reading of the Medication Guide and Instructions for Use be discussed.
 
-Give patients the Medication Guide for BENLYSTA and provide them an opportunity to read it prior to each treatment session.
-It is important that the patient’s overall health be assessed at each infusion visit and any questions resulting from the patient’s reading of the Medication Guide be discussed.
+For patients receiving BENLYSTA, give patients the Medication Guide for BENLYSTA.
 
 Mortality
 
@@ -19,15 +19,15 @@ Progressive Multifocal Leukoencephalopathy
 
 Advise patients to contact their healthcare professional if they experience new or worsening neurological symptoms such as memory loss, confusion, dizziness or loss of balance, difficulty talking or walking, or vision problems [see Warnings and Precautions (5.2)].
 
-Hypersensitivity/Anaphylactic and Infusion Reactions
+Hypersensitivity Reactions/Anaphylaxis and Infusion Reactions
 
-Educate patients on the signs and symptoms of hypersensitivity and infusion reactions, including wheezing, difficulty breathing, angioedema, rash, hypotension, bradycardia, and headache.
+Educate patients on the signs and symptoms of hypersensitivity reactions and infusion reactions, including wheezing, difficulty breathing, angioedema, rash, hypotension, bradycardia, and headache.
 Instruct patients to immediately tell their healthcare provider if they experience symptoms of an allergic reaction during or after the administration of BENLYSTA.
-Inform patients to tell their healthcare provider about possible reactions that may include a combination of symptoms such as rash, nausea, fatigue, muscle aches, headache, and/or facial swelling and may occur after administration of BENLYSTA [see Warnings and Precautions (5.4, 5.5)].
+Inform patients to tell their healthcare provider about possible delayed reactions that may include a combination of symptoms such as rash, nausea, fatigue, muscle aches, headache, and/or facial swelling that may occur after administration of BENLYSTA [see Warnings and Precautions (5.3, 5.4)].
 
 Depression
 
-Instruct patients to contact their healthcare provider if they experience new or worsening depression, suicidal thoughts, or other mood changes [see Warnings and Precautions (5.6)].
+Instruct patients to contact their healthcare provider if they experience new or worsening depression, suicidal thoughts, or other mood changes [see Warnings and Precautions (5.5)].
 
 Immunizations
 

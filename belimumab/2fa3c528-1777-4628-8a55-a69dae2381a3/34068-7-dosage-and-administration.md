@@ -1,81 +1,91 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage Schedule
+BENLYSTA may be administered as an intravenous infusion or as a subcutaneous injection.
+Vials are intended for intravenous use only (not for subcutaneous use) and autoinjectors and prefilled syringes are intended for subcutaneous use only (not for intravenous use).
 
-BENLYSTA is for intravenous infusion only and must be reconstituted and diluted prior to administration [see Dosage and Administration (2.3)].
+## 2.1 Intravenous Preparation and Dosing Instructions
+
+Recommended Intravenous Dosage Regimen
+
+BENLYSTA for intravenous use must be reconstituted and diluted prior to administration.
 Do not administer as an intravenous push or bolus.
 
-The recommended dosage regimen is 10 mg/kg at 2-week intervals for the first 3 doses and at 4-week intervals thereafter.
-Reconstitute, dilute, and administer as an intravenous infusion only, over a period of 1 hour.
+The recommended intravenous dosage regimen is 10 mg/kg at 2-week intervals for the first 3 doses and at 4-week intervals thereafter.
+Reconstitute, dilute, and administer as an intravenous infusion over a period of 1 hour.
 The infusion rate may be slowed or interrupted if the patient develops an infusion reaction.
-The infusion must be discontinued immediately if the patient experiences a serious hypersensitivity reaction [see Contraindications (4), Warnings and Precautions (5.4)].
+The infusion must be discontinued immediately if the patient experiences a serious hypersensitivity reaction [see Contraindications (4), Warnings and Precautions (5.3)].
 
-## 2.2 Premedication Recommendations
+Premedication Recommendations prior to Intravenous Use
 
-Prior to dosing with BENLYSTA, consider administering premedication for prophylaxis against infusion reactions and hypersensitivity reactions [see Warnings and Precautions (5.4, 5.5), Adverse Reactions (6.1)].
+Prior to intravenous dosing with BENLYSTA, consider administering premedication for prophylaxis against infusion reactions and hypersensitivity reactions [see Warnings and Precautions (5.3, 5.4), Adverse Reactions (6.1)].
 
-## 2.3 Preparation of Solutions
+Preparation of Intravenous Solutions
 
-BENLYSTA is provided as a lyophilized powder in a single-dose vial for intravenous infusion only and should be reconstituted and diluted by a healthcare professional using aseptic technique as follows.
+BENLYSTA for intravenous use is provided as a lyophilized powder in a single‑dose vial and should be reconstituted and diluted by a healthcare professional using aseptic technique as follows.
 Use of a 21- to 25-gauge needle is recommended when piercing the vial stopper for reconstitution and dilution.
 
-Reconstitution Instructions
+Reconstitution Instructions for Intravenous Use:
 
-1.
-Remove BENLYSTA from the refrigerator and allow to stand 10 to 15 minutes for the vial to reach room temperature.
+1. 1.Remove the vial of BENLYSTA from the refrigerator and allow to stand for 10 to 15 minutes for the vial to reach room temperature.
+2. 2.Reconstitute the BENLYSTA powder with Sterile Water for Injection, USP, as follows.
+   The reconstituted solution will contain a concentration of 80 mg/mL belimumab.
+   1. •Reconstitute the 120-mg vial with 1.5 mL Sterile Water for Injection, USP.
+   2. •Reconstitute the 400-mg vial with 4.8 mL Sterile Water for Injection, USP.
+3. 3.The stream of sterile water should be directed toward the side of the vial to minimize foaming.
+   Gently swirl the vial for 60 seconds.
+   Allow the vial to sit at room temperature during reconstitution, gently swirling the vial for 60 seconds every 5 minutes until the powder is dissolved.
+   Do not shake.
+   Reconstitution is typically complete within 10 to 15 minutes after the sterile water has been added, but it may take up to 30 minutes.
+   Protect the reconstituted solution from sunlight.
+4. 4.If a mechanical reconstitution device (swirler) is used to reconstitute BENLYSTA, it should not exceed 500 rpm and the vial swirled for no longer than 30 minutes.
+5. 5.Once reconstitution is complete, the solution should be opalescent and colorless to pale yellow, and without particles.
+   Small air bubbles, however, are expected and acceptable.
 
-2.
-Reconstitute the BENLYSTA powder with Sterile Water for Injection, USP, as follows.
-The reconstituted solution will contain a concentration of 80 mg/mL belimumab.
+Dilution Instructions for Intravenous Use:
 
-- •Reconstitute the 120-mg vial with 1.5 mL Sterile Water for Injection, USP.
-- •Reconstitute the 400-mg vial with 4.8 mL Sterile Water for Injection, USP.
+1. 6.Dextrose intravenous solutions are incompatible with BENLYSTA.
+   BENLYSTA should only be diluted in 0.9% Sodium Chloride Injection, USP (normal saline), 0.45% Sodium Chloride Injection, USP (half-normal saline), or Lactated Ringer’s Injection, USP to a volume of 250 mL for intravenous infusion.
+   From a 250‑mL infusion bag or bottle of normal saline, half-normal saline, or Lactated Ringer’s Injection, withdraw and discard a volume equal to the volume of the reconstituted solution of BENLYSTA required for the patient’s dose.
+   Then add the required volume of the reconstituted solution of BENLYSTA into the infusion bag or bottle.
+   Gently invert the bag or bottle to mix the solution.
+   Any unused solution in the vials must be discarded.
+2. 7.Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+   Discard the solution if any particulate matter or discoloration is observed.
+3. 8.The reconstituted solution of BENLYSTA, if not used immediately, should be stored protected from direct sunlight and refrigerated at 2° to 8°C (36° to 46°F).
+   Solutions of BENLYSTA diluted in normal saline, half-normal saline, or Lactated Ringer’s Injection may be stored at 2° to 8°C (36° to 46°F) or room temperature.
+   The total time from reconstitution of BENLYSTA to completion of infusion should not exceed 8 hours.
+4. 9.No incompatibilities between BENLYSTA and polyvinylchloride or polyolefin bags have been observed.
 
-3.
-The stream of sterile water should be directed toward the side of the vial to minimize foaming.
-Gently swirl the vial for 60 seconds.
-Allow the vial to sit at room temperature during reconstitution, gently swirling the vial for 60 seconds every 5 minutes until the powder is dissolved.
-Do not shake.
-Reconstitution is typically complete within 10 to 15 minutes after the sterile water has been added, but it may take up to 30 minutes.
-Protect the reconstituted solution from sunlight.
+Administration Instructions for Intravenous Use
 
-4.
-If a mechanical reconstitution device (swirler) is used to reconstitute BENLYSTA, it should not exceed 500 rpm and the vial swirled for no longer than 30 minutes.
+1. 1.The diluted solution of BENLYSTA should be administered by intravenous infusion, over a period of 1 hour.
+2. 2.BENLYSTA should be administered by healthcare providers prepared to manage anaphylaxis [see Warnings and Precautions (5.3)].
+3. 3.BENLYSTA should not be infused concomitantly in the same intravenous line with other agents.
+   No physical or biochemical compatibility studies have been conducted to evaluate the coadministration of BENLYSTA with other agents.
 
-5.
-Once reconstitution is complete, the solution should be opalescent and colorless to pale yellow, and without particles.
-Small air bubbles, however, are expected and acceptable.
+## 2.2 Subcutaneous Dosing Instructions
 
-Dilution Instructions
+Recommended Subcutaneous Dosage Regimen
 
-6.
-Dextrose intravenous solutions are incompatible with BENLYSTA.
-BENLYSTA should only be diluted in 0.9% Sodium Chloride Injection, USP (normal saline), 0.45% Sodium Chloride Injection, USP (half-normal saline), or Lactated Ringer’s Injection, USP to a volume of 250 mL for intravenous infusion.
-From a 250‑mL infusion bag or bottle of normal saline, half-normal saline, or Lactated Ringer’s Injection, withdraw and discard a volume equal to the volume of the reconstituted solution of BENLYSTA required for the patient’s dose.
-Then add the required volume of the reconstituted solution of BENLYSTA into the infusion bag or bottle.
-Gently invert the bag or bottle to mix the solution.
-Any unused solution in the vials must be discarded.
+The recommended dosage is 200 mg once weekly given as a subcutaneous injection in the abdomen or thigh.
+Subcutaneous dosing is not based on weight.
 
-7.
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-Discard the solution if any particulate matter or discoloration is observed.
+If transitioning from intravenous therapy with BENLYSTA to subcutaneous administration, administer the first subcutaneous dose 1 to 4 weeks after the last intravenous dose.
 
-8.
-The reconstituted solution of BENLYSTA, if not used immediately, should be stored protected from direct sunlight and refrigerated at 2° to 8°C (36° to 46°F).
-Solutions of BENLYSTA diluted in normal saline, half-normal saline, or Lactated Ringer’s Injection may be stored at 2° to 8°C (36° to 46°F) or room temperature.
-The total time from reconstitution of BENLYSTA to completion of infusion should not exceed 8 hours.
+Administration Instructions for Subcutaneous Injection
 
-9.
-No incompatibilities between BENLYSTA and polyvinylchloride or polyolefin bags have been observed.
-
-## 2.4 Administration Instructions
-
-1.
-The diluted solution of BENLYSTA should be administered by intravenous infusion only, over a period of 1 hour.
-
-2.
-BENLYSTA should be administered by healthcare providers prepared to manage anaphylaxis [see Warnings and Precautions (5.4)].
-
-3.
-BENLYSTA should not be infused concomitantly in the same intravenous line with other agents.
-No physical or biochemical compatibility studies have been conducted to evaluate the coadministration of BENLYSTA with other agents.
+1. 1.It is recommended that the first subcutaneous injection of BENLYSTA should be under the supervision of a healthcare professional.
+   The healthcare provider should provide proper training in subcutaneous technique and education about signs and symptoms of hypersensitivity reactions [see Warning and Precautions (5.3)].
+   A patient may self-inject or the patient caregiver may administer BENLYSTA subcutaneously after the healthcare provider determines it is appropriate.
+2. 2.Instruct the patient or patient caregiver to follow the directions for administration provided in the Instructions for Use.
+3. 3.Instruct the patient to remove the autoinjector or prefilled syringe from the refrigerator and allow it to sit at room temperature for 30 minutes prior to the subcutaneous injection.
+   Do not warm BENLYSTA in any other way.
+4. 4.Prior to administration, instruct the patient or patient caregiver to visually inspect the window of the autoinjector or the prefilled syringe for particulate matter or discoloration.
+   BENLYSTA should be clear to opalescent and colorless to pale yellow.
+   Do not use BENLYSTA if the product exhibits discoloration or particulate matter.
+   Instruct the patient not to use the BENLYSTA autoinjector or prefilled syringe if dropped on a hard surface.
+5. 5.When injecting in the same body region, advise the patient to use a different injection site each week; never give injections into areas where the skin is tender, bruised, red, or hard.
+6. 6.Instruct the patient to administer BENLYSTA 200 mg once a week, preferably on the same day each week.
+7. 7.If a dose is missed, instruct the patient to administer a dose as soon as the patient remembers.
+   Thereafter, the patient can resume dosing on their usual day of administration or start a new weekly schedule from the day that the missed dose was administered.
+   It is not recommended to administer 2 doses on the same day.

@@ -5,18 +5,18 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to BENLYSTA during pregnancy.
-Healthcare professionals are encouraged to register patients by calling 1‑877‑681-6296.
+Healthcare professionals are encouraged to register patients by calling 1-877-681-6296.
 
 Risk Summary
 
 Limited data on use of BENLYSTA in pregnant women, from observational studies, published case reports, and postmarketing surveillance, are insufficient to determine whether there is a drug-associated risk for major birth defects or miscarriage.
 There are risks to the mother and fetus associated with SLE [see Clinical Considerations].
 Monoclonal antibodies, such as belimumab, are actively transported across the placenta during the third trimester of pregnancy and may affect immune response in the in utero-exposed infant [see Clinical Considerations].
-In an animal combined embryo-fetal and pre- and post-natal development study with monkeys that received belimumab by intravenous administration, there was no evidence of embryotoxicity or fetal malformations with exposures approximately 9 times the exposure at the maximum recommended human dose (MRHD).
+In an animal combined embryo-fetal and pre- and post-natal development study with monkeys that received belimumab by intravenous administration, there was no evidence of embryotoxicity or fetal malformations with exposures approximately 9 times (based on intravenous administration) and 20 times (based on subcutaneous administration) the exposure at the maximum recommended human dose (MRHD).
 Belimumab-related findings in monkey fetuses and/or infants included reductions of B-cell counts, reductions in the density of lymphoid tissue B-lymphocytes in the spleen and lymph nodes, and altered IgG and IgM titers.
 The no-adverse-effect-level (NOAEL) was not identified for these findings; however, they were reversible within 3 to 12 months after the drug was discontinued [see Data].
 Based on animal data and the mechanism of action of belimumab, the immune system in infants of treated mothers may be adversely affected.
-It is unknown, based on available data whether immune effects, if identified, are reversible [see Clinical Pharmacology (12.1)].
+It is unknown, based on available data, whether immune effects, if identified, are reversible [see Clinical Pharmacology (12.1)].
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -35,7 +35,7 @@ Monitor an infant of a treated mother for B-cell reduction and other immune dysf
 Data
 
 Animal Data: In a combined embryo-fetal and pre- and post-natal development study, pregnant cynomolgus monkeys received belimumab at intravenous doses of 0, 5, or 150 mg/kg every 2 weeks from confirmation of pregnancy at Gestation Days (GD) 20 to 22, throughout the period of organogenesis (up to approximately GD 50), and continuing to either the day of scheduled cesarean section (GD 150 [late third trimester]) or the day of parturition.
-There was no evidence of maternal toxicity, embryotoxicity, or teratogenicity at exposure approximately 9 times the exposure at the MRHD of 10 mg/kg intravenously (on an AUC basis with maternal intravenous doses up to 150 mg/kg).
+There was no evidence of maternal toxicity, embryotoxicity, or teratogenicity at exposure approximately 9 times the MRHD of 10 mg/kg intravenously or 20 times the MRHD of 200 mg subcutaneously (on an AUC basis with maternal animal intravenous doses up to 150 mg/kg).
 Belimumab-related findings in mothers included reductions of immature and mature B-cell counts and in fetuses and/or infants included reductions of immature and mature B-cell counts, reductions in the density of lymphoid tissue B-lymphocytes in the spleen and lymph nodes, reduced spleen weights, increased IgG titers, and reduced IgM titers.
 B-cell counts in infant monkeys exposed to belimumab in utero recovered by 3 months of age and in mothers after 1 year.
 IgG and IgM levels in infant monkeys recovered by 6 months of age and the reductions in B-lymphocytes in the lymph nodes and spleen were reversed by 1 year of age.
@@ -66,7 +66,18 @@ Safety and effectiveness of BENLYSTA have not been established in children.
 Clinical studies of BENLYSTA did not include sufficient numbers of subjects aged 65 or older to determine whether they respond differently from younger subjects.
 Use with caution in elderly patients.
 
-## 8.6 Race
+## 8.6 Renal Impairment
 
-In Trial 2 and Trial 3, response rates for the primary endpoint were lower for black subjects receiving BENLYSTA relative to black subjects receiving placebo [see Clinical Studies (14)].
-Use with caution in black/African-American patients.
+The safety and efficacy of BENLYSTA were evaluated in studies that included patients with SLE who had mild (creatinine clearance [CrCl] ≥60 and <90 mL/min), moderate (CrCl ≥30 and <60 mL/min), or severe (CrCl ≥15 and <30 mL/min) renal impairment.
+No dosage adjustment is recommended in patients with renal impairment.
+
+## 8.7 Hepatic Impairment
+
+No formal trials were conducted to examine the effects of hepatic impairment on the pharmacokinetics of belimumab.
+No dosage adjustment is recommended in patients with hepatic impairment.
+
+## 8.8 Racial Groups
+
+In Trial 2 and Trial 3 (intravenous dosing), SLE Responder Index-4 (SRI-4) response rates were lower for black patients receiving BENLYSTA plus standard therapy relative to black patients receiving placebo plus standard therapy [see Clinical Studies (14.1)].
+In Trial 4 (subcutaneous dosing), SRI-4 response was slightly higher for black patients receiving BENLYSTA plus standard therapy relative to black patients receiving placebo plus standard therapy, but the treatment difference was not as large as that observed in the overall population and no definitive conclusion can be drawn from this subgroup analysis [see Clinical Studies (14.2)].
+Caution should be used when considering treatment with BENLYSTA in black/African-American patients.

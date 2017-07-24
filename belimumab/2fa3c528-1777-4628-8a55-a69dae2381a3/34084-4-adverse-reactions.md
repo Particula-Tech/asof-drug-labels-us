@@ -4,36 +4,36 @@ The following have been observed with BENLYSTA and are discussed in detail in th
 
 - •Mortality [see Warnings and Precautions (5.1)]
 - •Serious Infections [see Warnings and Precautions (5.2)]
-- •Malignancy [see Warnings and Precautions (5.3)]
-- •Hypersensitivity Reactions, including Anaphylaxis [see Warnings and Precautions (5.4)]
-- •Infusion Reactions [see Warnings and Precautions (5.5)]
-- •Depression [see Warnings and Precautions (5.6)]
-
-## 6.1 Clinical Trials Experience
+- •Hypersensitivity Reactions, including Anaphylaxis [see Warnings and Precautions (5.3)]
+- •Infusion Reactions [see Warnings and Precautions (5.4)]
+- •Depression [see Warnings and Precautions (5.5)]
+- •Malignancy [see Warnings and Precautions (5.6)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure to BENLYSTA plus standard of care compared with placebo plus standard of care in 2,133 patients in 3 controlled trials.
-Patients received BENLYSTA at doses of 1 mg/kg (n = 673), 4 mg/kg (n = 111; Trial 1 only), or 10 mg/kg (n = 674) or placebo (n = 675) intravenously over a 1-hour period on Days 0, 14, 28, and then every 28 days.
-In 2 of the trials (Trial 1 and Trial 3), treatment was given for 48 weeks, while in the other trial (Trial 2) treatment was given for 72 weeks [see Clinical Studies (14)].
-Because there was no apparent dose-related increase in the majority of adverse events observed with BENLYSTA, the safety data summarized below are presented for the 3 doses pooled, unless otherwise indicated; the adverse reaction table displays the results for the recommended dose of 10 mg/kg compared with placebo.
+## 6.1 Clinical Trials Experience with Intravenous Administration
 
-The population had a mean age of 39 (range: 18 to 75), 94% were female, and 52% were Caucasian.
-In these trials, 93% of patients treated with BENLYSTA reported an adverse reaction compared with 92% treated with placebo.
+The data described below reflect exposure to BENLYSTA administered intravenously plus standard therapy compared with placebo plus standard therapy in 2,133 patients in 3 controlled trials.
+Patients received BENLYSTA plus standard therapy at doses of 1 mg/kg (n = 673), 4 mg/kg (n = 111; Trial 1 only), or 10 mg/kg (n = 674), or placebo plus standard therapy (n = 675) intravenously over a 1-hour period on Days 0, 14, 28, and then every 28 days.
+In 2 of the trials (Trial 1 and Trial 3), treatment was given for 48 weeks, while in the other trial (Trial 2) treatment was given for 72 weeks [see Clinical Studies (14.1)].
+Because there was no apparent dose-related increase in the majority of adverse events observed with BENLYSTA, the safety data summarized below are presented for the 3 intravenous doses pooled, unless otherwise indicated; the adverse reaction table displays the results for the recommended intravenous dose of 10 mg/kg compared with placebo.
 
-The most common serious adverse reactions were serious infections (6.0% and 5.2% in the groups receiving BENLYSTA and placebo, respectively), some of which were fatal [see Warnings and Precautions (5.2)].
+The population had a mean age of 39 years (range: 18 to 75), 94% were female, and 52% were white.
+In these trials, 93% of patients treated with BENLYSTA plus standard therapy reported an adverse event compared with 92% treated with placebo plus standard therapy.
 
-The most commonly reported adverse reactions, occurring in ≥5% of patients in clinical trials were nausea, diarrhea, pyrexia, nasopharyngitis, bronchitis, insomnia, pain in extremity, depression, migraine, and pharyngitis.
+The most common serious adverse events were serious infections (6.0% and 5.2% in the groups receiving BENLYSTA and placebo plus standard therapy, respectively), some of which were fatal [see Warnings and Precautions (5.2)].
 
-The proportion of patients who discontinued treatment due to any adverse reaction during the controlled clinical trials was 6.2% for patients receiving BENLYSTA and 7.1% for patients receiving placebo.
+The most commonly reported adverse events, occurring in ≥5% of patients in clinical trials were nausea, diarrhea, pyrexia, nasopharyngitis, bronchitis, insomnia, pain in extremity, depression, migraine, and pharyngitis.
+
+The proportion of patients who discontinued treatment due to any adverse reaction during the controlled clinical trials was 6.2% for patients receiving BENLYSTA plus standard therapy and 7.1% for patients receiving placebo plus standard therapy.
 The most common adverse reactions resulting in discontinuation of treatment (≥1% of patients receiving BENLYSTA or placebo) were infusion reactions (1.6% BENLYSTA and 0.9% placebo), lupus nephritis (0.7% BENLYSTA and 1.2% placebo), and infections (0.7% BENLYSTA and 1.0% placebo).
 
-Table 1 lists adverse reactions, regardless of causality, occurring in at least 3% of patients with SLE who received BENLYSTA 10 mg/kg and at an incidence at least 1% greater than that observed with placebo in the 3 controlled studies.
+Table 1 lists adverse reactions, regardless of causality, occurring in at least 3% of patients with SLE who received BENLYSTA 10 mg/kg plus standard therapy and at an incidence at least 1% greater than that observed with placebo plus standard therapy in the 3 controlled studies.
 
 Table 1.
-Incidence of Adverse Reactions Occurring in at Least 3% of Patients Treated with BENLYSTA 10 mg/kg plus Standard of Care and at Least 1% More Frequently than in Patients Receiving Placebo plus Standard of Care in 3 Controlled SLE Studies
+Incidence of Adverse Reactions Occurring in at Least 3% of Patients Treated with BENLYSTA 10 mg/kg plus Standard Therapy and at Least 1% More Frequently than in Patients Receiving Placebo plus Standard Therapy
 
-| Preferred Term | BENLYSTA 10 mg/kg + Standard of Care (n = 674) % | Placebo + Standard of Care (n = 675) % |
+| Preferred Term | BENLYSTA 10 mg/kg + Standard Therapy (n = 674) % | Placebo + Standard Therapy (n = 675) % |
 | --- | --- | --- |
 | Nausea | 15 | 12 |
 | Diarrhea | 12 | 9 |
@@ -49,21 +49,42 @@ Incidence of Adverse Reactions Occurring in at Least 3% of Patients Treated with
 | Leukopenia | 4 | 2 |
 | Gastroenteritis viral | 3 | 1 |
 
-## 6.2 Postmarketing Experience
+## 6.2 Clinical Trials Experience with Subcutaneous Administration
+
+The data described below reflect exposure to BENLYSTA administered subcutaneously plus standard therapy compared with placebo plus standard therapy in 836 patients in a controlled trial (Trial 4).
+In addition to standard therapy, patients received BENLYSTA 200 mg (n = 556) or placebo (n = 280) (2:1 randomization) once weekly for up to 52 weeks [see Clinical Studies (14.2)].
+
+The overall population had a mean age of 39 years (range: 18 to 77), 94% were female, and 60% were white.
+In the trial, 81% of patients treated with BENLYSTA plus standard therapy reported an adverse event compared with 84% treated with placebo plus standard therapy.
+The proportion of patients who discontinued treatment due to any adverse reaction during the controlled clinical trial was 7.2% of patients receiving BENLYSTA plus standard therapy and 8.9% of patients receiving placebo plus standard therapy.
+
+The safety profile observed for BENLYSTA administered subcutaneously plus standard therapy was consistent with the known safety profile of BENLYSTA administered intravenously plus standard therapy, with the exception of local injection site reactions.
+
+Injection Site Reactions
+
+In the clinical study for BENLYSTA administered subcutaneously, the frequency of injection site reactions was 6.1% (34/556) for patients receiving BENLYSTA plus standard therapy and 2.5% (7/280) for patients receiving placebo plus standard therapy.
+These injection site reactions (most commonly pain, erythema, hematoma, pruritus, and induration) were mild to moderate in severity.
+The majority (94%) did not necessitate discontinuation of treatment.
+
+## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of BENLYSTA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- •Fatal anaphylaxis [see Warnings and Precautions (5.4)].
+- •Fatal anaphylaxis [see Warnings and Precautions (5.3)].
 
-## 6.3 Immunogenicity
+## 6.4 Immunogenicity
 
-In Trials 2 and 3, anti-belimumab antibodies were detected in 4 of 563 (0.7%) patients receiving BENLYSTA 10 mg/kg and in 27 of 559 (4.8%) patients receiving BENLYSTA 1 mg/kg.
+As with all therapeutic proteins, there is potential for immunogenicity.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to belimumab with the incidence of antibodies in other studies or to other products may be misleading.
+
+In Trials 2 and 3 (intravenous dosing), anti-belimumab antibodies were detected in 4 of 563 (0.7%) patients receiving BENLYSTA 10 mg/kg and in 27 of 559 (4.8%) patients receiving BENLYSTA 1 mg/kg.
 The reported frequency for the group receiving 10 mg/kg may underestimate the actual frequency due to lower assay sensitivity in the presence of high drug concentrations.
 Neutralizing antibodies were detected in 3 patients receiving BENLYSTA 1 mg/kg.
 Three patients with anti-belimumab antibodies experienced mild infusion reactions of nausea, erythematous rash, pruritus, eyelid edema, headache, and dyspnea; none of the reactions was life-threatening.
+In Trial 4 (subcutaneous dosing), there was no formation of anti-belimumab antibodies in 556 patients receiving BENLYSTA 200 mg during the 52-week placebo-controlled period.
 The clinical relevance of the presence of anti-belimumab antibodies is not known.
 
 The data reflect the percentage of patients whose test results were positive for antibodies to belimumab in specific assays.
-The observed incidence of antibody positivity in an assay is highly dependent on several factors, including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to belimumab with the incidence of antibodies to other products may be misleading.

@@ -1,4 +1,4 @@
-BENLYSTA is a registered trademark of the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
 
 Manufactured by
 
@@ -16,11 +16,10 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 the GSK group of companies.
-All rights reserved.
+©2017 GSK group of companies or its licensor.
 
-BNL:7PI
+BNL:8PI
 
 DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

@@ -71,3 +71,37 @@ Rev.
 7/16
 
 10000000141890
+
+# Click here to enter text.
+
+PRINCIPAL DISPLAY PANEL
+
+NDC 49401-088-35
+
+Benlysta
+
+(belimumab)
+
+Injection
+
+200 mg/vial
+
+For Subcutaneous Use
+
+Rx only
+
+Contents:
+
+- •4 Single-Dose 1-mL Prefilled Autoinjectors
+- •Instructions for Use (Read carefully)
+- •Medication Guide
+- •Prescribing Information
+
+Federal Law requires dispensing of BENLYSTA with the Medication Guide provided with this package.
+
+2017 GSK group of companies or is licensor.
+
+Rev.
+6/17
+
+DEVCOMP-0004313

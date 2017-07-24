@@ -1,16 +1,28 @@
 {
   "application_numbers": [
-    "BLA125370"
+    "BLA125370",
+    "BLA761043"
   ],
   "inn": "belimumab",
   "labeler": "Human Genome Sciences, Inc.",
   "package_ndcs": [
+    "49401-088-01",
+    "49401-088-02",
+    "49401-088-35",
+    "49401-088-42",
+    "49401-088-47",
+    "49401-088-50",
     "49401-101-01",
     "49401-102-01"
   ],
   "products": [
     {
       "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "belimumab",
+      "name": "BENLYSTA"
+    },
+    {
+      "form": "SOLUTION",
       "generic": "belimumab",
       "name": "BENLYSTA"
     }
