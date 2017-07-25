@@ -15,13 +15,13 @@ In addition, the Positive and Negative Syndrome Scale (PANSS) and the Scale for 
 
 The results of the trials follow:
 
-- •In a 6 week, placebo-controlled trial (n=160) involving titration of risperidone in doses up to 10 mg/day (twice daily schedule), risperidone was generally superior to placebo on the BPRS total score, on the BPRS psychosis cluster, and marginally superior to placebo on the SANS.
-- •In an 8 week, placebo-controlled trial (n=513) involving 4 fixed doses of risperidone (2 mg/day, 6 mg/day, 10 mg/day, and 16 mg/day, on a twice daily schedule), all 4 risperidone groups were generally superior to placebo on the BPRS total score, BPRS psychosis cluster, and CGI severity score; the 3 highest risperidone dose groups were generally superior to placebo on the PANSS negative subscale.
+- In a 6-week, placebo-controlled trial (n=160) involving titration of risperidone in doses up to 10 mg/day (twice daily schedule), risperidone was generally superior to placebo on the BPRS total score, on the BPRS psychosis cluster, and marginally superior to placebo on the SANS.
+- In an 8-week, placebo-controlled trial (n=513) involving 4 fixed doses of risperidone (2 mg/day, 6 mg/day, 10 mg/day, and 16 mg/day, on a twice daily schedule), all 4 risperidone groups were generally superior to placebo on the BPRS total score, BPRS psychosis cluster, and CGI severity score; the 3 highest risperidone dose groups were generally superior to placebo on the PANSS negative subscale.
   The most consistently positive responses on all measures were seen for the 6 mg dose group, and there was no suggestion of increased benefit from larger doses.
-- •In an 8 week, dose comparison trial (n=1356) involving 5 fixed doses of risperidone (1 mg/day, 4 mg/day, 8 mg/day, 12 mg/day, and 16 mg/day, on a twice daily schedule), the four highest risperidone dose groups were generally superior to the 1 mg risperidone dose group on BPRS total score, BPRS psychosis cluster, and CGI severity score.
+- In an 8-week, dose comparison trial (n=1356) involving 5 fixed doses of risperidone (1 mg/day, 4 mg/day, 8 mg/day, 12 mg/day, and 16 mg/day, on a twice daily schedule), the four highest risperidone dose groups were generally superior to the 1 mg risperidone dose group on BPRS total score, BPRS psychosis cluster, and CGI severity score.
   None of the dose groups were superior to the 1 mg group on the PANSS negative subscale.
   The most consistently positive responses were seen for the 4 mg dose group.
-- •In a 4 week, placebo-controlled dose comparison trial (n=246) involving 2 fixed doses of risperidone (4 and 8 mg/day on a once daily schedule), both risperidone dose groups were generally superior to placebo on several PANSS measures, including a response measure (>20% reduction in PANSS total score), PANSS total score, and the BPRS psychosis cluster (derived from PANSS).
+- In a 4-week, placebo-controlled dose comparison trial (n=246) involving 2 fixed doses of risperidone (4 and 8 mg/day on a once daily schedule), both risperidone dose groups were generally superior to placebo on several PANSS measures, including a response measure (>20% reduction in PANSS total score), PANSS total score, and the BPRS psychosis cluster (derived from PANSS).
   The results were generally stronger for the 8 mg than for the 4 mg dose group.
 
 #### Long-Term Efficacy
@@ -56,8 +56,8 @@ The primary rating instrument used for assessing manic symptoms in these trials 
 The primary outcome in these trials was change from baseline in the YMRS total score.
 The results of the trials follow:
 
-- •In one 3 week placebo-controlled trial (n=246), limited to patients with manic episodes, which involved a dose range of risperidone 1 to 6 mg/day, once daily, starting at 3 mg/day (mean modal dose was 4.1 mg/day), risperidone was superior to placebo in the reduction of YMRS total score.
-- •In another 3 week placebo-controlled trial (n=286), which involved a dose range of 1 to 6 mg/day, once daily, starting at 3 mg/day (mean modal dose was 5.6 mg/day), risperidone was superior to placebo in the reduction of YMRS total score.
+- In one 3-week placebo-controlled trial (n=246), limited to patients with manic episodes, which involved a dose range of risperidone 1 to 6 mg/day, once daily, starting at 3 mg/day (mean modal dose was 4.1 mg/day), risperidone was superior to placebo in the reduction of YMRS total score.
+- In another 3-week placebo-controlled trial (n=286), which involved a dose range of 1 to 6 mg/day, once daily, starting at 3 mg/day (mean modal dose was 5.6 mg/day), risperidone was superior to placebo in the reduction of YMRS total score.
 
 ### Pediatrics
 
@@ -75,9 +75,9 @@ Doses higher than 2.5 mg/day did not reveal any trend towards greater efficacy.
 The efficacy of risperidone with concomitant lithium or valproate in the treatment of acute manic or mixed episodes was established in one controlled trial in adult patients who met the DSM-IV criteria for Bipolar I Disorder.
 This trial included patients with or without psychotic features and with or without a rapid-cycling course.
 
-- •In this 3 week placebo-controlled combination trial, 148 in- or outpatients on lithium or valproate therapy with inadequately controlled manic or mixed symptoms were randomized to receive risperidone, placebo, or an active comparator, in combination with their original therapy.
+- In this 3-week placebo-controlled combination trial, 148 in- or outpatients on lithium or valproate therapy with inadequately controlled manic or mixed symptoms were randomized to receive risperidone, placebo, or an active comparator, in combination with their original therapy.
   Risperidone, in a dose range of 1 to 6 mg/day, once daily, starting at 2 mg/day (mean modal dose of 3.8 mg/day), combined with lithium or valproate (in a therapeutic range of 0.6 mEq/L to 1.4 mEq/L or 50 mcg/mL to 120 mcg/mL, respectively) was superior to lithium or valproate alone in the reduction of YMRS total score.
-- •In a second 3 week placebo-controlled combination trial, 142 in- or outpatients on lithium, valproate, or carbamazepine therapy with inadequately controlled manic or mixed symptoms were randomized to receive risperidone or placebo, in combination with their original therapy.
+- In a second 3-week placebo-controlled combination trial, 142 in- or outpatients on lithium, valproate, or carbamazepine therapy with inadequately controlled manic or mixed symptoms were randomized to receive risperidone or placebo, in combination with their original therapy.
   Risperidone, in a dose range of 1 to 6 mg/day, once daily, starting at 2 mg/day (mean modal dose of 3.7 mg/day), combined with lithium, valproate, or carbamazepine (in therapeutic ranges of 0.6 mEq/L to 1.4 mEq/L for lithium, 50 mcg/mL to 125 mcg/mL for valproate, or 4 to 12 mcg/mL for carbamazepine, respectively) was not superior to lithium, valproate, or carbamazepine alone in the reduction of YMRS total score.
   A possible explanation for the failure of this trial was induction of risperidone and 9-hydroxyrisperidone clearance by carbamazepine, leading to subtherapeutic levels of risperidone and 9-hydroxyrisperidone.
 

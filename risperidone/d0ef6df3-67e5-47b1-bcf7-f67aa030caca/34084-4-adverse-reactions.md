@@ -2,24 +2,25 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- •Increased mortality in elderly patients with dementia-related psychosis [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
-- •Cerebrovascular adverse events, including stroke, in elderly patients with dementia-related psychosis [see WARNINGS AND PRECAUTIONS (5.2)]
-- •Neuroleptic malignant syndrome [see WARNINGS AND PRECAUTIONS (5.3)]
-- •Tardive dyskinesia [see WARNINGS AND PRECAUTIONS (5.4)]
-- •Metabolic Changes (Hyperglycemia and diabetes mellitus, Dyslipidemia, and Weight Gain) [seeWARNINGS AND PRECAUTIONS (5.5)]
-- •Hyperprolactinemia [see WARNINGS AND PRECAUTIONS (5.6)]
-- •Orthostatic hypotension [see WARNINGS AND PRECAUTIONS (5.7)]
-- •Leukopenia, neutropenia, and agranulocytosis [see WARNINGS AND PRECAUTIONS (5.8)]
-- •Potential for cognitive and motor impairment [see WARNINGS AND PRECAUTIONS (5.9)]
-- •Seizures [see WARNINGS AND PRECAUTIONS (5.10)]
-- •Dysphagia [see WARNINGS AND PRECAUTIONS (5.11)]
-- •Priapism [see WARNINGS AND PRECAUTIONS (5.12)]
-- •Disruption of body temperature regulation [see WARNINGS AND PRECAUTIONS (5.13)]
-- •Patients with phenylketonuria [see WARNINGS AND PRECAUTIONS (5.14)]
+- Increased mortality in elderly patients with dementia-related psychosis [see BOXED WARNING and Warnings and Precautions(5.1)]
+- Cerebrovascular adverse events, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
+- Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
+- Tardive dyskinesia [see Warnings and Precautions (5.4)]
+- Metabolic Changes (Hyperglycemia and diabetes mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.5)]
+- Hyperprolactinemia [see Warnings and Precautions(5.6)]
+- Orthostatic hypotension [see Warnings and Precautions (5.7)]
+- Falls [see Warnings and Precautions (5.8)]
+- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.9)]
+- Potential for cognitive and motor impairment [see Warnings and Precautions (5.10)]
+- Seizures [see Warnings and Precautions (5.11)]
+- Dysphagia [see Warnings and Precautions (5.12)]
+- Priapism [see Warnings and Precautions (5.13)]
+- Disruption of body temperature regulation [see Warnings and Precautions (5.14)]
+- Patients with Phenylketonuria [see Warnings and Precautions (5.15)]
 
 The most common adverse reactions in clinical trials (>5% and twice placebo) were parkinsonism, akathisia, dystonia, tremor, sedation,dizziness, anxiety, blurred vision, nausea, vomiting, upper abdominal pain, stomach discomfort, dyspepsia, diarrhea, salivary hypersecretion, constipation, dry mouth, increased appetite, increased weight, fatigue, rash, nasal congestion, upper respiratory tract infection, nasopharyngitis, and pharyngolaryngeal pain.
 
-The most common adverse reactions that were associated with discontinuation from clinical trials (causing discontinuation in >1% of adults and/or >2% of pediatrics) were nausea, somnolence, sedation, vomiting, dizziness, and akathisia [see ADVERSE REACTIONS, DISCONTINUATIONS DUE TO ADVERSE REACTIONS (6.1)].
+The most common adverse reactions that were associated with discontinuation from clinical trials (causing discontinuation in >1% of adults and/or >2% of pediatrics) were nausea, somnolence, sedation, vomiting, dizziness, and akathisia [see Adverse Reactions, Discontinuations Due to Adverse Reactions (6.1)].
 
 The data described in this section are derived from a clinical trial database consisting of 9803 adult and pediatric patients exposed to one or more doses of risperidone for the treatment of schizophrenia, bipolar mania, autistic disorder, and other psychiatric disorders in pediatrics and elderly patients with dementia.
 Of these 9803 patients, 2687 were patients who received risperidone while participating in double-blind, placebo-controlled trials.
@@ -28,13 +29,11 @@ Safety was assessed by collecting adverse events and performing physical examina
 
 ## 6.1 Clinical Trial Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
-
 ### Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials - Schizophrenia
 
 Adult Patients with Schizophrenia
 
-Table 8 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with schizophrenia in three 4 to 8 week, double-blind, placebo-controlled trials.
+Table 8 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with schizophrenia in three 4- to 8- week, double-blind, placebo-controlled trials.
 
 | Table 8. Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients (and greater than placebo) with Schizophrenia in Double-Blind, Placebo-Controlled Trials |  |  |  |
 | --- | --- | --- | --- |
@@ -245,7 +244,7 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greate
 | Upper respiratory tract infection | 8 | 3 |
 | Investigations |  |  |
 | Weight Increased | 8 | 2 |
-| Metabolic and Nutrition Disorders |  |  |
+| Metabolism and Nutrition Disorders |  |  |
 | Increased appetite | 44 | 15 |
 | Nervous System Disorders |  |  |
 | Sedation | 63 | 15 |
@@ -365,7 +364,7 @@ In the two 8-week, placebo-controlled trials in pediatric patients treated for i
 
 Data from two fixed-dose trials in adults with schizophrenia provided evidence of dose-relatedness for extrapyramidal symptoms associated with risperidone treatment.
 
-Two methods were used to measure extrapyramidal symptoms (EPS) in an 8 week trial comparing 4 fixed doses of risperidone (2, 6, 10, and 16 mg/day), including (1) a Parkinsonism score (mean change from baseline) from the Extrapyramidal Symptom Rating Scale, and (2) incidence of spontaneous complaints of EPS:
+Two methods were used to measure extrapyramidal symptoms (EPS) in an 8-week trial comparing 4 fixed doses of risperidone (2, 6, 10, and 16 mg/day), including (1) a Parkinsonism score (mean change from baseline) from the Extrapyramidal Symptom Rating Scale, and (2) incidence of spontaneous complaints of EPS:
 
 | Table 16. |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -396,7 +395,7 @@ A Cochran-Armitage Test for trend in these data revealed a positive trend (p<0.0
 Changes in Body Weight
 
 Weight gain was observed in short-term, controlled trials and longer-term uncontrolled studies in adult and pediatric patients.
-[see WARNINGS AND PRECAUTIONS (5.5), ADVERSE REACTIONS (6), AND USE IN SPECIFIC POPULATION (8.4)].
+[see Warnings and Precautions (5.5), Adverse Reactions (6), and Use in Specific Populations (8.4)].
 
 ### Changes in ECG Parameters
 

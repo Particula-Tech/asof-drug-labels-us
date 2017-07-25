@@ -2,4 +2,4 @@
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Risperidone is not approved for the treatment of patients with dementia-related psychosis.
-[See WARNINGS AND PRECAUTIONS (5.1).]
+[See Warnings and Precautions (5.1)]

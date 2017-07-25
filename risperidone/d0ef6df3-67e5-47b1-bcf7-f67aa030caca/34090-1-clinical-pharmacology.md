@@ -4,8 +4,8 @@
 
 The mechanism of action of risperidone, in schizophrenia, is unknown.
 However, it has been proposed that the drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D2) and serotonin Type 2 (5HT2) receptor antagonism.
-The clinical effect from risperidone results from the combined concentrations of risperidone and its major metabolite, 9-hydroxyrisperidone [see CLINICAL PHARMACOLOGY (12.3).
-Antagonism at receptors other than D2 and 5HT2 [see CLINICAL PHARMACOLOGY (12.1)] may explain some of the other effects of risperidone.
+The clinical effect from risperidone results from the combined concentrations of risperidone and its major metabolite, 9-hydroxyrisperidone [see Clinical Pharmacology (12.3)].
+Antagonism at receptors other than D2 and 5HT2 [see Clinical Pharmacology (12.1)] may explain some of the other effects of risperidone.
 
 ## 12.2 Pharmacodynamics
 
@@ -57,12 +57,12 @@ Extensive CYP 2D6 metabolizers convert risperidone rapidly into 9-hydroxyrisperi
 Although extensive metabolizers have lower risperidone and higher 9-hydroxyrisperidone concentrations than poor metabolizers, the pharmacokinetics of risperidone and 9-hydroxyrisperidone combined, after single and multiple doses, are similar in extensive and poor metabolizers.
 
 Risperidone could be subject to two kinds of drug-drug interactions.
-First, inhibitors of CYP 2D6 interfere with conversion of risperidone to 9-hydroxyrisperidone [see DRUG INTERACTIONS (7)].
+First, inhibitors of CYP 2D6 interfere with conversion of risperidone to 9-hydroxyrisperidone [see Drug Interactions (7)].
 This occurs with quinidine, giving essentially all recipients a risperidone pharmacokinetic profile typical of poor metabolizers.
 The therapeutic benefits and adverse effects of risperidone in patients receiving quinidine have not been evaluated, but observations in a modest number (n≅70) of poor metabolizers given risperidone do not suggest important differences between poor and extensive metabolizers.
-Second, co-administration of known enzyme inducers (e.g., carbamazepine, phenytoin, rifampin, and phenobarbital) with risperidone may cause a decrease in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone [see DRUG INTERACTIONS (7)].
+Second, co-administration of known enzyme inducers (e.g., carbamazepine, phenytoin, rifampin, and phenobarbital) with risperidone may cause a decrease in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone [see Drug Interactions (7)].
 It would also be possible for risperidone to interfere with metabolism of other drugs metabolized by CYP 2D6.
-Relatively weak binding of risperidone to the enzyme suggests this is unlikely [see DRUG INTERACTIONS (7)].
+Relatively weak binding of risperidone to the enzyme suggests this is unlikely [see Drug Interactions (7)].
 
 In vitro studies indicate that risperidone is a relatively weak inhibitor of CYP 2D6.
 Therefore, risperidone is not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.
@@ -81,18 +81,18 @@ The pharmacokinetics of risperidone and 9-hydroxyrisperidone combined, after sin
 
 ### Drug-Drug Interaction Studies
 
-[See DRUG INTERACTIONS (7)].
+[See Drug Interactions (7)].
 
 ### Specific Populations
 
 Renal and Hepatic Impairment
 
-[See USE IN SPECIFIC POPULATIONS (8.6 AND 8.7)].
+[See Use in Specific Populations (8.6 and 8.7)].
 
 #### Elderly
 
 In healthy elderly subjects, renal clearance of both risperidone and 9-hydroxyrisperidone was decreased, and elimination half-lives were prolonged compared to young healthy subjects.
-Dosing should be modified accordingly in the elderly patients [see USE IN SPECIFIC POPULATIONS (8.5)].
+Dosing should be modified accordingly in the elderly patients [see Use in Specific Populations (8.5)].
 
 #### Pediatric
 
