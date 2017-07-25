@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA090308"
+  ],
+  "inn": "clozapine",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-5417-01",
+    "0093-5417-19",
+    "0093-5417-84",
+    "0093-5419-01",
+    "0093-5419-19",
+    "0093-5419-84"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "clozapine",
+      "name": "Clozapine"
+    }
+  ],
+  "setid": "6fccf4f7-2e30-4272-9800-225aaef20584",
+  "source": "dailymed"
+}
