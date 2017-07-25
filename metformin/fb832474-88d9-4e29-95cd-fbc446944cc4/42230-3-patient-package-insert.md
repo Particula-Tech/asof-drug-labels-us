@@ -203,13 +203,13 @@ www.GlumetzaXR.com
 
 For prescription only
 
-U.S. Patent Numbers: 6,488,962; 7,780,987; and 8,323,692
+U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987; 8,323,692
 
 Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
 ©Valeant Pharmaceuticals North America LLC
 
-Rev.
-04/2017
+1. Rev.
+   04/2017 500 mg: 9599000 70012758
 
-9519001 (Patheon) 9519101 (Steinbach)
+1000 mg: 9519103 20001996
