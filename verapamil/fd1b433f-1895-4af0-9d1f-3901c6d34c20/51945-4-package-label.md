@@ -2,9 +2,7 @@
 
 NDC 62175-570-37 100 capsules
 
-Verelan® PM
-
-(verapamil hydrochloride extended-release capsules)
+Verelan® PM (verapamil hydrochloride extended-release capsules)
 
 100 mg
 
@@ -14,9 +12,7 @@ Rx only
 
 NDC 62175-571-37 100 capsules
 
-Verelan® PM
-
-(verapamil hydrochloride extended-release capsules)
+Verelan® PM (verapamil hydrochloride extended-release capsules)
 
 200 mg
 
@@ -26,9 +22,7 @@ Rx only
 
 NDC 62175-572-37 100 capsules
 
-Verelan® PM
-
-(verapamil hydrochloride extended-release capsules)
+Verelan® PM (verapamil hydrochloride extended-release capsules)
 
 300 mg
 
