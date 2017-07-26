@@ -18,38 +18,38 @@ Similar considerations may apply to patients with ischemic heart or cerebrovascu
 If hypotension occurs, the patient should be placed in the supine position and, if necessary, receive an intravenous infusion of normal saline.
 A transient hypotensive response is not a contraindication to further doses, which usually can be given without difficulty once the blood pressure has increased after volume expansion.
 
-Anaphylactoid and Possibly Related Reactions:
+Anaphylactoid and Possibly Related Reactions
 
 Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors (including VASERETIC) may be subject to a variety of adverse reactions, some of them serious.
 
-Head and Neck Angioedema: Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported in patients treated with angiotensin converting enzyme inhibitors, including enalapril.
+Head and Neck Angioedema Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported in patients treated with angiotensin converting enzyme inhibitors, including enalapril.
 This may occur at any time during treatment.
 In such cases VASERETIC should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms has occurred.
 In instances where swelling has been confined to the face and lips the condition has generally resolved without treatment, although antihistamines have been useful in relieving symptoms.
 Angioedema associated with laryngeal edema may be fatal.
 Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway, should be promptly provided (see ADVERSE REACTIONS).
 
-Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see PRECAUTIONS).
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema (see PRECAUTIONS).
 
-Intestinal Angioedema: Intestinal angioedema has been reported in patients treated with ACE inhibitors.
+Intestinal Angioedema Intestinal angioedema has been reported in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
 The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor.
 Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
 
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see also INDICATIONS AND USAGE and CONTRAINDICATIONS).
 
-Anaphylactoid reactions during desensitization: Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
+Anaphylactoid Reactions During Desensitization Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
 In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
 
-Anaphylactoid reactions during membrane exposure: Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor.
+Anaphylactoid Reactions During Membrane Exposure Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
 
-Neutropenia/Agranulocytosis: Another angiotensin converting enzyme inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in uncomplicated patients but more frequently in patients with renal impairment especially if they also have a collagen vascular disease.
+Neutropenia/Agranulocytosis Another angiotensin converting enzyme inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in uncomplicated patients but more frequently in patients with renal impairment especially if they also have a collagen vascular disease.
 Available data from clinical trials of enalapril are insufficient to show that enalapril does not cause agranulocytosis at similar rates.
 Marketing experience has revealed cases of neutropenia or agranulocytosis in which a causal relationship to enalapril cannot be excluded.
 Periodic monitoring of white blood cell counts in patients with collagen vascular disease and renal disease should be considered.
 
-Hepatic Failure: Rarely, ACE inhibitors have been associated with a syndrome that starts with cholestatic jaundice and progresses to fulminant hepatic necrosis, and (sometimes) death.
+Hepatic Failure Rarely, ACE inhibitors have been associated with a syndrome that starts with cholestatic jaundice and progresses to fulminant hepatic necrosis, and (sometimes) death.
 The mechanism of this syndrome is not understood.
 Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive appropriate medical follow-up.
 
@@ -77,8 +77,6 @@ Prompt medical or surgical treatments may need to be considered if the intraocul
 Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
 
 ### Fetal Toxicity
-
-Pregnancy Category D
 
 Enalapril Maleate
 
@@ -108,7 +106,7 @@ At these doses, fetotoxicity expressed as a decrease in average fetal weight occ
 No fetotoxicity occurred at lower doses; 30/10 mg/kg/day of enalapril-hydrochlorothiazide in rats and 10/10 mg/kg/day of enalapril-hydrochlorothiazide in mice.
 
 When used in pregnancy during the second and third trimesters, ACE inhibitors can cause injury and even death to the developing fetus.
-When pregnancy is detected, VASERETIC should be discontinued as soon as possible (see Enalapril Maleate, Fetal Toxicity).
+When pregnancy is detected, VASERETIC should be discontinued as soon as possible (see Fetal Toxicity, Enalapril Maleate).
 
 Hydrochlorothiazide
 
@@ -125,8 +123,8 @@ Enalapril Maleate
 
 Aortic Stenosis/Hypertrophic Cardiomyopathy: As with all vasodilators, enalapril should be given with caution to patients with obstruction in the outflow tract of the left ventricle.
 
-Impaired Renal Function: As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
-In patients with severe congestive heart failure whose renal function may depend on the activity of the renin-angiotensin-aldersterone system, treatment with angiotensin converting enzyme inhibitors, including enalapril, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death (see PRECAUTIONS, Drug Interactions).
+Impaired Renal Function As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
+In patients with severe congestive heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin converting enzyme inhibitors, including enalapril, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death (see PRECAUTIONS, Drug Interactions).
 
 In clinical studies in hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine were observed in 20 percent of patients.
 These increases were almost always reversible upon discontinuation of enalapril and/or diuretic therapy.
@@ -138,15 +136,15 @@ Dosage reduction of enalapril and/or discontinuation of the diuretic may be requ
 
 Evaluation of the hypertensive patient should always include assessment of renal function.
 
-Hyperkalemia: Elevated serum potassium (greater than 5.7 mEq/L) was observed in approximately one percent of hypertensive patients in clinical trials treated with enalapril alone.
+Hyperkalemia Elevated serum potassium (greater than 5.7 mEq/L) was observed in approximately one percent of hypertensive patients in clinical trials treated with enalapril alone.
 In most cases these were isolated values which resolved despite continued therapy, although hyperkalemia was a cause of discontinuation of therapy in 0.28 percent of hypertensive patients.
 Hyperkalemia was less frequent (approximately 0.1 percent) in patients treated with enalapril plus hydrochlorothiazide.
 Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with enalapril (see Drug Interactions).
 
-Cough: Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, always resolving after discontinuation of therapy.
+Cough Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, always resolving after discontinuation of therapy.
 ACE inhibitor-induced cough should be considered in the differential diagnosis of cough.
 
-Surgery/Anesthesia: In patients undergoing major surgery or during anesthesia with agents that produce hypotension, enalapril may block angiotensin II formation secondary to compensatory renin release.
+Surgery/Anesthesia In patients undergoing major surgery or during anesthesia with agents that produce hypotension, enalapril may block angiotensin II formation secondary to compensatory renin release.
 If hypotension occurs and is considered to be due to this mechanism, it can be corrected by volume expansion.
 
 ### Hydrochlorothiazide
@@ -172,7 +170,7 @@ In diabetic patients dosage adjustments of insulin or oral hypoglycemic agents m
 Hyperglycemia may occur with thiazide diuretics.
 Thus latent diabetes mellitus may become manifest during thiazide therapy.
 
-The antihypertensive effects of the drug may be enhanced in the postsympathectomy patient.
+The antihypertensive effects of the drug may be enhanced in the post-sympathectomy patient.
 
 If progressive renal impairment becomes evident consider withholding or discontinuing diuretic therapy.
 
@@ -187,20 +185,20 @@ Increases in cholesterol and triglyceride levels may be associated with thiazide
 
 Information for Patients
 
-Angioedema: Angioedema, including laryngeal edema, may occur at any time during treatment with angiotensin converting enzyme inhibitors, including enalapril.
+Angioedema Angioedema, including laryngeal edema, may occur at any time during treatment with angiotensin converting enzyme inhibitors, including enalapril.
 Patients should be so advised and told to report immediately any signs or symptoms suggesting angioedema (swelling of face, extremities, eyes, lips, tongue, difficulty in swallowing or breathing) and to take no more drug until they have consulted with the prescribing physician.
 
-Hypotension: Patients should be cautioned to report lightheadedness especially during the first few days of therapy.
+Hypotension Patients should be cautioned to report lightheadedness especially during the first few days of therapy.
 If actual syncope occurs, the patients should be told to discontinue the drug until they have consulted with the prescribing physician.
 
 All patients should be cautioned that excessive perspiration and dehydration may lead to an excessive fall in blood pressure because of reduction in fluid volume.
 Other causes of volume depletion such as vomiting or diarrhea may also lead to a fall in blood pressure; patients should be advised to consult with the physician.
 
-Hyperkalemia: Patients should be told not to use salt substitutes containing potassium without consulting their physician.
+Hyperkalemia Patients should be told not to use salt substitutes containing potassium without consulting their physician.
 
-Neutropenia: Patients should be told to report promptly any indication of infection (e.g., sore throat, fever) which may be a sign of neutropenia.
+Neutropenia Patients should be told to report promptly any indication of infection (e.g., sore throat, fever) which may be a sign of neutropenia.
 
-Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to VASERETIC during pregnancy.
+Pregnancy Female patients of childbearing age should be told about the consequences of exposure to VASERETIC during pregnancy.
 Discuss treatment options with women planning to become pregnant.
 Patients should be asked to report pregnancies to their physicians as soon as possible.
 
@@ -208,7 +206,10 @@ NOTE: As with many other drugs, certain advice to patients being treated with VA
 This information is intended to aid in the safe and effective use of this medication.
 It is not a disclosure of all possible adverse or intended effects.
 
-Drug Interactions
+Drug Interactions Neprilysin Inhibitors
+
+Patients taking concomitant neprilysin inhibitors may be at increased risk for angioedema.
+(see WARNINGS).
 
 ### Enalapril Maleate
 
@@ -222,15 +223,13 @@ Closely monitor blood pressure, renal function, and electrolytes in patients on 
 Do not coadminister aliskiren with VASERETIC in patients with diabetes.
 Avoid use of aliskiren with VASERETIC in patients with renal impairment (GFR <60 mL/min).
 
-Hypotension – Patients on Diuretic Therapy: Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with enalapril.
+Hypotension – Patients on Diuretic Therapy Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with enalapril.
 The possibility of hypotensive effects with enalapril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with enalapril.
 If it is necessary to continue the diuretic, provide medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
-Agents Causing Renin Release: The antihypertensive effect of enalapril is augmented by antihypertensive agents that cause renin release (e.g., diuretics).
+Agents Causing Renin Release The antihypertensive effect of enalapril is augmented by antihypertensive agents that cause renin release (e.g., diuretics).
 
-Non-steroidal Anti-inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors):
-
-In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including enalapril, may result in deterioration of renal function, including possible acute renal failure.
+Non-steroidal Anti-inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including enalapril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving enalapril and NSAID therapy.
 
@@ -238,46 +237,44 @@ In a clinical pharmacology study, indomethacin or sulindac was administered to h
 In this study there was no evidence of a blunting of the antihypertensive action of enalapril maleate.
 However, reports suggest that NSAIDs may diminish the antihypertensive effect of ACE inhibitors.
 
-Other Cardiovascular Agents: Enalapril has been used concomitantly with beta adrenergic-blocking agents, methyldopa, nitrates, calcium-blocking agents, hydralazine and prazosin without evidence of clinically significant adverse interactions.
+Other Cardiovascular Agents Enalapril has been used concomitantly with beta adrenergic-blocking agents, methyldopa, nitrates, calcium-blocking agents, hydralazine and prazosin without evidence of clinically significant adverse interactions.
 
-Agents Increasing Serum Potassium: Enalapril attenuates diuretic-induced potassium loss.
-Potassium-sparing diuretics (e.g., spironolactone, triameterene, or amiloride), potassium supplements, or potassium-containing salt substitutes may lead to significant increases in serum potassium.
+Agents Increasing Serum Potassium Enalapril attenuates diuretic-induced potassium loss.
+Potassium-sparing diuretics (e.g., spironolactone, triamterene, or amiloride), potassium supplements, or potassium-containing salt substitutes may lead to significant increases in serum potassium.
 Therefore, if concomitant use of these agents is indicated because of demonstrated hypokalemia they should be used with caution and with frequent monitoring of serum potassium.
 
-Lithium: Lithium toxicity has been reported in patients receiving lithium concomitantly with drugs which cause elimination of sodium, including ACE inhibitors.
+Lithium Lithium toxicity has been reported in patients receiving lithium concomitantly with drugs which cause elimination of sodium, including ACE inhibitors.
 A few cases of lithium toxicity have been reported in patients receiving concomitant enalapril and lithium and were reversible upon discontinuation of both drugs.
 It is recommended that serum lithium levels be monitored frequently if enalapril is administered concomitantly with lithium.
 
-Gold: Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including VASERETIC.
+Gold Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including VASERETIC.
 
-mTOR (mammalian target of rapamycin) inhibitors:
-
-Patients receiving coadministration of ACE inhibitor or mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see WARNINGS).
+mTOR (mammalian target of rapamycin) inhibitors: Patients receiving coadministration of ACE inhibitor or mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see WARNINGS).
 
 ### Hydrochlorothiazide
 
 When administered concurrently the following drugs may interact with thiazide diuretics:
 
-Alcohol, barbiturates, or narcotics – potentiation of orthostatic hypotension may occur.
+Alcohol, Barbiturates, or Narcotics Potentiation of orthostatic hypotension may occur.
 
-Antidiabetic drugs (oral agents and insulin) – dosage adjustment of the antidiabetic drug may be required.
+Anti-diabetic drugs(oral agents and insulin) Dosage adjustment of the anti-diabetic drug may be required.
 
-Other antihypertensive drugs – additive effect or potentiation.
+Other anti-hypertensive drugs Additive effect or potentiation.
 
-Cholestyramine and colestipol resins – Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
+Cholestyramine and colestipol resins Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
 Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85 and 43 percent, respectively.
 
-Corticosteroids, ACTH – intensified electrolyte depletion, particularly hypokalemia.
+Corticosteroids, ACTH Intensified electrolyte depletion, particularly hypokalemia.
 
-Pressor amines (e.g., norepinephrine) – possible decreased response to pressor amines but not sufficient to preclude their use.
+Pressor amines (e.g., norepinephrine) Possible decreased response to pressor amines but not sufficient to preclude their use.
 
-Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine) – possible increased responsiveness to the muscle relaxant.
+Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine) Possible increased responsiveness to the muscle relaxant.
 
-Lithium – should not generally be given with diuretics.
+Lithium Should not generally be given with diuretics.
 Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
 Refer to the package insert for lithium preparations before use of such preparations with VASERETIC.
 
-Non-steroidal Anti-inflammatory Drugs – In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
+Non-steroidal Anti-inflammatory Drugs In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
 Therefore, when VASERETIC and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -301,7 +298,7 @@ Two year feeding studies in mice and rats conducted under the auspices of the Na
 The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.
 
 Hydrochlorothiazide was not genotoxic in vitro in the Ames mutagenicity assay of Salmonella typhimurium strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene.
-Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 µg/mL, and in the Aspergillus nidulans non-disjunction assay at an unspecified concentration.
+Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 mcg/mL, and in the Aspergillus nidulans non-disjunction assay at an unspecified concentration.
 
 Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg, respectively, prior to mating and throughout gestation.
 In mice and rats these doses are 9 times and 0.7 times, respectively, the MRHDD when compared on a body surface area basis.

@@ -2,7 +2,7 @@
 
 VASERETIC has been evaluated for safety in more than 1500 patients, including over 300 patients treated for one year or more.
 In clinical trials with VASERETIC no adverse experiences peculiar to this combination drug have been observed.
-Adverse experiences that have occurred, have been limited to those that have been previously reported with enalapril or hydrochlorothiazide.
+Adverse experiences that have occurred have been limited to those that have been previously reported with enalapril or hydrochlorothiazide.
 
 The most frequent clinical adverse experiences in controlled trials were: dizziness (8.6 percent), headache (5.5 percent), fatigue (3.9 percent) and cough (3.5 percent).
 Generally, adverse experiences were mild and transient in nature.
@@ -22,7 +22,9 @@ Adverse experiences occurring in greater than two percent of patients treated wi
 | Impotence | 2.2 (0.5) | 0.5 |
 | Diarrhea | 2.1 (<0.1) | 1.7 |
 
-Clinical adverse experiences occurring in 0.5 to 2.0 percent of patients in controlled trials included: Body As A Whole: Syncope, chest pain, abdominal pain; Cardiovascular: Orthostatic hypotension, palpitation, tachycardia; Digestive: Vomiting, dyspepsia, constipation, flatulence, dry mouth; Nervous/Psychiatric: Insomnia, nervousness, paresthesia, somnolence, vertigo; Skin: Pruritus, rash; Other: Dyspnea, gout, back pain, arthralgia, diaphoresis, decreased libido, tinnitus, urinary tract infection.
+Clinical adverse experiences occurring in 0.5 to 2.0 percent of patients in controlled trials included:
+
+Body As A Whole: Syncope, chest pain, abdominal pain Cardiovascular: Orthostatic hypotension, palpitation, tachycardia Digestive: Vomiting, dyspepsia, constipation, flatulence, dry mouth Nervous/Psychiatric: Insomnia, nervousness, paresthesia, somnolence, vertigo Skin: Pruritus, rash Other: Dyspnea, gout, back pain, arthralgia, diaphoresis, decreased libido, tinnitus, urinary tract infection
 
 Angioedema: Angioedema has been reported in patients receiving VASERETIC, with an incidence higher in black than in non-black patients.
 Angioedema associated with laryngeal edema may be fatal.
@@ -52,8 +54,8 @@ Other adverse reactions that have been reported with the individual components a
 
 Enalapril Maleate – Enalapril has been evaluated for safety in more than 10,000 patients.
 In clinical trials adverse reactions which occurred with enalapril were also seen with VASERETIC.
-However, since enalapril has been marketed, the following adverse reactions have been reported: Body As A Whole: Anaphylactoid reactions (see WARNINGS, Anaphylactoid reactions during membrane exposure); Cardiovascular: Cardiac arrest; myocardial infarction or cerebrovascular accident, possibly secondary to excessive hypotension in high risk patients (see WARNINGS, Hypotension); pulmonary embolism and infarction; pulmonary edema; rhythm disturbances including atrial tachycardia and bradycardia; atrial fibrillation; hypotension; angina pectoris, Raynaud's phenomenon; Digestive: lleus, pancreatitis, hepatic failure, hepatitis (hepatocellular [proven on rechallenge] or cholestatic jaundice) (see WARNINGS, Hepatic Failure), melena, anorexia, glossitis, stomatitis, dry mouth; Hematologic: Rare cases of neutropenia, thrombocytopenia and bone marrow depression.
-Hemolytic anemia, including cases of hemolysis in patients with G-6-PD deficiency, has been reported; a causal relationship to enalapril cannot be excluded.
+However, since enalapril has been marketed, the following adverse reactions have been reported: Body As A Whole: Anaphylactoid reactions (see WARNINGS, Anaphylactoid Reactions During Membrane Exposure); Cardiovascular: Cardiac arrest; myocardial infarction or cerebrovascular accident, possibly secondary to excessive hypotension in high risk patients (see WARNINGS, Hypotension); pulmonary embolism and infarction; pulmonary edema; rhythm disturbances including atrial tachycardia and bradycardia; atrial fibrillation; hypotension; angina pectoris, Raynaud's phenomenon; Digestive: Ileus, pancreatitis, hepatic failure, hepatitis (hepatocellular [proven on rechallenge] or cholestatic jaundice) (see WARNINGS, Hepatic Failure), melena, anorexia, glossitis, stomatitis, dry mouth; Hematologic: Rare cases of neutropenia, thrombocytopenia and bone marrow depression.
+Hemolytic anemia, including cases of hemolysis in patients with G6PD deficiency, has been reported; a causal relationship to enalapril cannot be excluded.
 Nervous System/Psychiatric: Depression, confusion, ataxia, peripheral neuropathy (e.g., paresthesia, dysesthesia), dream abnormality; Urogenital: Renal failure, oliguria, renal dysfunction, (see PRECAUTIONS and DOSAGE AND ADMINISTRATION), flank pain, gynecomastia; Respiratory: Pulmonary infiltrates, eosinophilic pneumonitis, bronchospasm, pneumonia, bronchitis, rhinorrhea, sore throat and hoarseness, asthma, upper respiratory infection; Skin: Exfoliative dermatitis, toxic epidermal necrolysis, Stevens-Johnson syndrome, herpes zoster, erythema multiforme, urticaria, pemphigus, alopecia, flushing, photosensitivity; Special Senses: Blurred vision, taste alteration, anosmia, conjunctivitis, dry eyes, tearing.
 
 Miscellaneous: A symptom complex has been reported which may include some or all of the following: a positive ANA, an elevated erythrocyte sedimentation rate, arthralgia/arthritis, myalgia/myositis, fever, serositis, vasculitis, leukocytosis, eosinophilia, photosensitivity, rash and other dermatologic manifestations.

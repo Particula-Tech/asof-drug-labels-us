@@ -11,7 +11,7 @@ The combination tablet is bioequivalent to concomitant administration of the sep
 
 Enalapril Maleate
 
-Mechanism of Action: Enalapril, after hydrolysis to enalaprilat, inhibits angiotensin-converting enzyme (ACE) in human subjects and animals.
+Mechanism of Action Enalapril, after hydrolysis to enalaprilat, inhibits angiotensin-converting enzyme (ACE) in human subjects and animals.
 ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II.
 Angiotensin II also stimulates aldosterone secretion by the adrenal cortex.
 Inhibition of ACE results in decreased plasma angiotensin II, which leads to decreased vasopressor activity and to decreased aldosterone secretion.
@@ -28,7 +28,7 @@ Although enalapril was antihypertensive in all races studied, black hypertensive
 In contrast, hydrochlorothiazide was more effective in black patients than enalapril.
 Concomitant administration of enalapril maleate and hydrochlorothiazide was equally effective in black and non-black patients.
 
-Pharmacokinetics and Metabolism: Following oral administration of enalapril maleate, peak serum concentrations of enalapril occur within about one hour.
+Pharmacokinetics and Metabolism Following oral administration of enalapril maleate, peak serum concentrations of enalapril occur within about one hour.
 Based on urinary recovery, the extent of absorption of enalapril is approximately 60 percent.
 Enalapril absorption is not influenced by the presence of food in the gastrointestinal tract.
 Following absorption, enalapril is hydrolyzed to enalaprilat, which is a more potent angiotensin converting enzyme inhibitor than enalapril; enalaprilat is poorly absorbed when administered orally.
@@ -52,7 +52,7 @@ Multiple doses of enalapril maleate in rats do not result in accumulation in any
 Milk of lactating rats contains radioactivity following administration of 14C enalapril maleate.
 Radioactivity was found to cross the placenta following administration of labeled drug to pregnant hamsters.
 
-Pharmacodynamics: Administration of enalapril maleate to patients with hypertension of severity ranging from mild to severe results in a reduction of both supine and standing blood pressure usually with no orthostatic component.
+Pharmacodynamics Administration of enalapril maleate to patients with hypertension of severity ranging from mild to severe results in a reduction of both supine and standing blood pressure usually with no orthostatic component.
 Symptomatic postural hypotension is infrequent with enalapril alone but it can be anticipated in volume-depleted patients, such as patients treated with diuretics.
 In clinical trials with enalapril and hydrochlorothiazide administered concurrently, syncope occurred in 1.3 percent of patients (see WARNINGS and DOSAGE AND ADMINISTRATION).
 

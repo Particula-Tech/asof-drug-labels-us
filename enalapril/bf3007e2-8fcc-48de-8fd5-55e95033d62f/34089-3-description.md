@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-VASERETIC® (Enalapril Maleate-Hydrochlorothiazide) combines an angiotensin converting enzyme inhibitor, enalapril maleate, and a diuretic, hydrochlorothiazide.
+VASERETIC® (enalapril maleate and hydrochlorothiazide) combines an angiotensin converting enzyme inhibitor, enalapril maleate, and a diuretic, hydrochlorothiazide.
 
 Enalapril maleate is the maleate salt of enalapril, the ethyl ester of a long-acting angiotensin converting enzyme inhibitor, enalaprilat.
 Enalapril maleate is chemically described as (S)-1-[N-[1-(ethoxycarbonyl)-3-phenylpropyl]-L-alanyl]-L-proline, (Z)-2-butenedioate salt (1:1).
@@ -16,5 +16,5 @@ Its empirical formula is C7H8ClN3O4S2 and its structural formula is:
 
 It is a white, or practically white, crystalline powder with a molecular weight of 297.74, which is slightly soluble in water, but freely soluble in sodium hydroxide solution.
 
-VASERETIC is available in the tablet combination of enalapril maleate with hydrochlorothiazide: VASERETIC 10-25, containing 10 mg enalapril maleate and 25 mg hydrochlorothiazide.
+VASERETIC is available in the tablet combination of enalapril maleate with hydrochlorothiazide: VASERETIC 10-25 mg, containing 10 mg enalapril maleate and 25 mg hydrochlorothiazide.
 Inactive ingredients are: iron oxide, lactose, magnesium stearate, sodium bicarbonate, and starch.
