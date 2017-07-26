@@ -16,8 +16,8 @@ This is thought to be the mechanism whereby levodopa relieves symptoms of Parkin
 When levodopa is administered orally it is rapidly decarboxylated to dopamine in extracerebral tissues so that only a small portion of a given dose is transported unchanged to the central nervous system.
 For this reason, large doses of levodopa are required for adequate therapeutic effect and these may often be accompanied by nausea and other adverse reactions, some of which are attributable to dopamine formed in extracerebral tissues.
 
-The incidence of levodopa-induced nausea and vomiting is less when Carbidopa is used with levodopa than when levodopa is used without Carbidopa.
-In many patients, this reduction in nausea and vomiting will permit more rapid dosage titration.
+The incidence of levodopa-induced nausea and vomiting is less when carbidopa is used with levodopa than when levodopa is used without carbidopa.
+In many patients this reduction in nausea and vomiting will permit more rapid dosage titration.
 
 Carbidopa inhibits decarboxylation of peripheral levodopa.
 Carbidopa has not been demonstrated to have any overt pharmacodynamic actions in the recommended doses.
@@ -32,7 +32,7 @@ Carbidopa reduces the amount of levodopa required to produce a given response by
 
 In clinical pharmacologic studies, simultaneous administration of separate tablets of carbidopa and levodopa produced greater urinary excretion of levodopa in proportion to the excretion of dopamine when compared to the two drugs administered at separate times.
 
-Supplemental pyridoxine (vitamin B6) can be given to patients when they are receiving carbidopa and levodopa concomitantly or the fixed combination carbidopa-levodopa or carbidopa-levodopa extended- release.
+Supplemental pyridoxine (vitamin B6) can be given to patients when they are receiving carbidopa and levodopa concomitantly or the fixed combination carbidopa-levodopa or carbidopa-levodopa extended release.
 Previous reports in the medical literature cautioned that high doses of vitamin B6 should not be taken by patients on levodopa therapy alone because exogenously administered pyridoxine would enhance the metabolism of levodopa to dopamine.
 The introduction of carbidopa to levodopa therapy, which inhibits the peripheral decarboxylation of levodopa to dopamine, counteracts the metabolic-enhancing effect of pyridoxine.
 

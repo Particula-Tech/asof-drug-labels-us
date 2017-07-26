@@ -4,11 +4,9 @@ NDC 68682-200-25
 
 Rx only
 
-Carbidopa
+Carbidopa Tablets
 
-Tablets
-
-25 mg (Anhydrous equivalent)
+25 mg (anhydrous equivalent)
 
 100 Tablets
 

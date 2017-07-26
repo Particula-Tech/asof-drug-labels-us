@@ -8,4 +8,4 @@ NDC 68682-200-25 bottles of 100.
 
 ## Storage
 
-Store at 25°C (77°F), excursions permitted to 15–30°C (59–86°F).
+Store at 25°C (77°F), excursions permitted to 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
