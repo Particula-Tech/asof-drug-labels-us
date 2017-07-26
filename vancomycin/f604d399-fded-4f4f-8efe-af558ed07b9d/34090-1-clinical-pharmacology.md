@@ -2,7 +2,7 @@
 
 Vancomycin is poorly absorbed after oral administration.
 
-In subjects with normal kidney function, multiple intravenous dosing of 1 g of vancomycin (15 mg/kg) infused over 60 minutes produces mean plasma concentrations of approximately 63 mcg/mL immediately at the completion of infusion, mean plasma concentrations of approximately 23 mcg/mL two hours after infusion, and mean plasma concentrations of approximately 8 mcg/mL 11 hours after the end of the infusion.
+In subjects with normal kidney function, multiple intravenous dosing of 1 g of vancomycin (15 mg/kg) infused over 60 minutes produces mean plasma concentrations of approximately 63 mcg/mL immediately after the completion of infusion, mean plasma concentrations of approximately 23 mcg/mL two hours after infusion, and mean plasma concentrations of approximately 8 mcg/mL 11 hours after the end of the infusion.
 Multiple dosing of 500 mg infused over 30 minutes produces mean plasma concentrations of about 49 mcg/mL at the completion of infusion, mean plasma concentrations of about 19 mcg/mL two hours after infusion, and mean plasma concentrations of about 10 mcg/mL six hours after infusion.
 The plasma concentrations during multiple dosing are similar to those after a single dose.
 
@@ -18,9 +18,8 @@ Serum concentrations of about 10 mcg/mL are achieved by intraperitoneal injectio
 However, the safety and efficacy of the intraperitoneal use of vancomycin has not been established in adequate and well-controlled trials (see PRECAUTIONS).
 
 Total systemic and renal clearance of vancomycin may be reduced in the elderly.
-
 Vancomycin is approximately 55% serum protein bound as measured by ultrafiltration at vancomycin serum concentrations of 10 to 100 mcg/mL.
-After intravenous administration of vancomycin, inhibitory concentrations are present in pleural, pericardial, ascitic and synovial fluids; in urine; in peritoneal dialysis fluid; and in atrial appendage tissue.
+After intravenous administration of vancomycin, inhibitory concentrations are present in pleural, pericardial, ascetic, and synovial fluids; in urine; in peritoneal dialysis fluid; and in atrial appendage tissue.
 Vancomycin does not readily diffuse across normal meninges into the spinal fluid; but, when the meninges are inflamed, penetration into the spinal fluid occurs.
 
 Microbiology The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis.
@@ -66,26 +65,25 @@ Lactobacillus species
 
 Susceptibility Test Methods
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting the most effective antimicrobial.
 
 Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.
-Standardized procedures are based on dilution method1,2 (broth, agar or microdilution) or equivalent using standardized inoculum and concentrations of vancomycin powder.
+The MICs should be determined using a standardized test method1,2 (broth, agar or microdilution).
 The MIC values should be interpreted according to the criteria in Table 1.
 
 Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
+The zone size should be determined by using a standardized test method2,3.
 This procedure uses paper disks impregnated with 30 mcg of vancomycin to test the susceptibility of microorganisms to vancomycin.
-Interpretation involves correlation of the diameter obtained in the disk test with the MIC for vancomycin.
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30 mcg vancomycin disk should be interpreted according to the following criteria in Table 1.
+The disk diffusion breakpoints are provided in Table 1.
 
-Table 1: Susceptibility Test Interpretive Criteria for Vancomycin
+Table 1.
+Susceptibility Test Interpretive Criteria for Vancomycin
 
 |  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Diameters (mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -101,7 +99,7 @@ b Plates should be held for a full 24 hours and examined using transmitted light
 Measure the diameter of the zones of complete inhibition (as judged by the unaided eye), including the diameter of the disk.
 The zone margin should be considered the area showing no obvious, visible growth that can be detected with the unaided eye.
 Ignore faint growth of tiny colonies that can be detected only with a magnifying lens at the edge of the zone of inhibited growth.
-Any discernable growth within the zone of inhibition indicates vancomycin resistance.
+Any discernible growth within the zone of inhibition indicates vancomycin resistance.
 Organisms with intermediate zones should be tested by a standardized dilution method1,2.
 
 c Dilution testing should be performed to determine the susceptibility of all staphylococcal isolates.
@@ -118,18 +116,17 @@ If confirmed, isolates should be sent to a reference laboratory2.
 g Interpretative criteria applicable only to tests performed by broth microdilution method using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood1,2.
 
 h Interpretative criteria applicable only to tests performed by disk diffusion method using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO23.
-
-A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
-A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of “Susceptible”(S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the site of infection.
+A report of “Intermediate”(I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of “Resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
+A report of “Resistant”(R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.
-When tested against appropriate quality control strains, standard vancomycin powder should provide MIC values shown in Table 2.
-For the diffusion technique, the 30 mcg vancomycin disk should provide the zone diameters in Table 2 with the quality control strain.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test1,2,3.
+Standard vancomycin powder should provide the following MIC values noted in Table 2.
+For the diffusion technique using the 30 mcg vancomycin disk, the criteria in Table 2 should be achieved.
 
 Table 2.
 In Vitro Susceptibility Test Quality Control Ranges for Vancomycin

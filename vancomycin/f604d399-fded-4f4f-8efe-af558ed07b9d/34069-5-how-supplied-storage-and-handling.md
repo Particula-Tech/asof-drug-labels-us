@@ -1,4 +1,4 @@
-# HOW SUPPLIED:
+# HOW SUPPLIED/STORAGE AND HANDLING:
 
 | Product No. | NDC No. |  |
 | --- | --- | --- |
