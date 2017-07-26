@@ -57,14 +57,14 @@ Omeprazole delayed-release capsules are used in adults:
 - •for the long-term treatment of conditions where your stomach makes too much acid.
   This includes a rare condition called Zollinger-Ellison Syndrome.
 
-For children 1 to 16 years of age, omeprazole delayed-release capsules are used:
+For children 2 to 16 years of age, omeprazole delayed-release capsules are used:
 
 - •for up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
 - •for up to 8 weeks to treat gastroesophageal reflux disease (GERD) with acid-related damage to the lining of the esophagus [called erosive esophagitis (or EE) due to acid-mediated GERD].
 - •to maintain healing of the esophagus.
   It is not known if omeprazole delayed-release capsules are safe and effective when used longer than 12 months (1 year) for this purpose.
 
-For children 1 month to less than 12 months (1 year) of age, omeprazole delayed-release capsules are used:
+It is not known if Omeprazole Delayed-Release capsules is safe and effective in children less than 1 month of age:
 
 - •for up to 6 weeks to treat gastroesophageal reflux disease (GERD) with acid-related damage to the lining of the esophagus [called erosive esophagitis (or EE) due to acid-mediated GERD].
   It is not known if omeprazole delayed-release capsules are safe and effective for other uses in children 1 month to less than 12 months (1 year) of age, or in children less than 1 month of age.
@@ -236,4 +236,4 @@ Finished Drug Product Manufactured by Lek Pharmaceuticals d.d., SI-1526 Ljubljan
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-January 2017
+July 2017

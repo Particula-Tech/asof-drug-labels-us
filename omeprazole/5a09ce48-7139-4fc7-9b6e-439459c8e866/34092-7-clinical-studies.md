@@ -61,7 +61,7 @@ The combination of omeprazole plus clarithromycin plus amoxicillin was effective
 
 Table 9 Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patients Cured [95% Confidence Interval]
 
-|  | Per-Protocol* | Intent-to-Treat† | Per-Protoco* | Intent-to-Treat† |
+|  | Per-Protocol* | Intent-to-Treat† | Per-Protocol* | Intent-to-Treat† |
 | --- | --- | --- | --- | --- |
 |  | Omeprazole + clarithromycin +amoxicillin |  | Clarithromycin +amoxicillin |  |
 | Study 1 | 77‡ [64, 86](n = 64) | 69‡ [57, 79](n = 80) | 43 [31, 56](n = 67) | 37 [27, 48] (n = 84) |
@@ -241,13 +241,9 @@ These findings are believed to be a manifestation of the underlying condition, w
 
 Treatment ofSymptomatic GERD
 
-The effectiveness of omeprazole for the treatment of symptomatic GERD in pediatric patients 1 to 16 years of age is based in part on data obtained from 125 pediatric patients in two uncontrolled clinical studies.
+The effectiveness of omeprazole for the treatment of symptomatic GERD in pediatric patients 2 to 16 years of age is based in part on data obtained from pediatric patients in an uncontrolled clinical study.
 
-The first study enrolled 12 pediatric patients 1 to 2 years of age with a history of clinically diagnosed GERD.
-Patients were administered a single dose of omeprazole (0.5 mg/kg, 1 mg/kg, or 1.5 mg/kg) for 8 weeks as an open capsule in 8.4% sodium bicarbonate solution.
-Seventy-five percent (9/12) of the patients had vomiting/regurgitation episodes decreased from baseline by at least 50%.
-
-The second study enrolled 113 pediatric patients 2 to 16 years of age with a history of symptoms suggestive of symptomatic GERD.
+The study enrolled 113 pediatric patients 2 to 16 years of age with a history of symptoms suggestive of symptomatic GERD.
 Patients were administered a single dose of omeprazole (10 mg or 20 mg, based on body weight) for 4 weeks either as an intact capsule or as an open capsule in applesauce.
 Successful response was defined as no moderate or severe episodes of either pain-related symptoms or vomiting/regurgitation during the last 4 days of treatment.
 Results showed success rates of 60% (9/15; 10 mg omeprazole) and 59% (58/98; 20 mg omeprazole), respectively.

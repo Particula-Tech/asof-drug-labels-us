@@ -173,13 +173,6 @@ Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules.
 
 Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to 16 years of age or adults; AUCs of the latter two groups did not differ [see Dosage and Administration (2)].
 
-1 to 11 Months of Age
-
-A population pharmacokinetics model was used to determine appropriate doses of omeprazole in pediatric patients 1 month to less than 1 year of age for treatment (up to 6 weeks) of erosive esophagitis due to acid-mediated GERD.
-The model was based on data from 64 children 0.5 month to 16 year of age.
-Only limited data were available in children below the age of 1 year.
-Pediatric doses were simulated in the age group of 1 to 11 month, to achieve comparable omeprazole exposures with adults following treatment with 20 mg once daily [see Dosage and Administration (2.2)].
-
 Race/Ethnicity
 
 [See Clinical Pharmacology (12.5)].

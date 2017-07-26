@@ -34,17 +34,11 @@ Table 2 shows the recommended dosage of omeprazole delayed-release capsules in p
 | Indication | Omeprazole Delayed-Release Capsules Dosage Regimen and Duration |  |  |
 | --- | --- | --- | --- |
 | Patient Age | Weight-Based Dose (mg) | Regimen and Duration |  |
-| Treatment of Symptomatic GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg | Once daily for up to 4 weeks |
-| 10 to less than 20 kg: 10 mg |  |  |  |
+| Treatment of Symptomatic GERD | 2 to 16 years | 10 to less than 20 kg: 10 mg | Once daily for up to 4 weeks |
 | 20 kg and greater: 20 mg |  |  |  |
-| Treatment of EE due to Acid-Mediated GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg | Once daily for 4 to 8 weeks* |
-| 10 to less than 20 kg: 10 mg |  |  |  |
+| Treatment of EE due to Acid-Mediated GERD | 2 to 16 years | 10 to less than 20 kg: 10 mg | Once daily for 4 to 8 weeks* |
 | 20 kg and greater: 20 mg |  |  |  |
-| 1 month to less than 1 year | 3 to less than 5 kg: 2.5 mg | Once daily up to 6 weeks |  |
-| 5 to less than 10 kg: 5 mg |  |  |  |
-| 10 kg and greater: 10 mg |  |  |  |
-| Maintenance of Healing of EE due to Acid-Mediated GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg | Once daily. Controlled studies do not extend beyond 12 months |
-| 10 to less than 20 kg: 10 mg |  |  |  |
+| Maintenance of Healing of EE due to Acid-Mediated GERD | 2 to 16 years | 10 to less than 20 kg: 10 mg | Once daily. Controlled studies do not extend beyond 12 months |
 | 20 kg and greater: 20 mg |  |  |  |
 
 *The efficacy of omeprazole delayed-release capsules used for longer than 8 weeks in patients with EE has not been established.

@@ -77,13 +77,11 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of omeprazole have been established in pediatric patients 1 to 16 years for the treatment of symptomatic GERD, treatment of EE due to acid-mediated GERD, and maintenance of healing of EE due to acid-mediated GERD.
+The safety and effectiveness of omeprazole delayed-release capsules have been established in pediatric patients 2 to 16 years for the treatment of symptomatic GERD, treatment of EE due to acid-mediated GERD, and maintenance of healing of EE due to acid-mediated GERD.
 Use of omeprazole in this age group is supported by adequate and well-controlled studies in adults and uncontrolled safety, efficacy and pharmacokinetic studies performed in pediatric and adolescent patients [see Clinical Pharmacology (12.3), Clinical Studies (14.8)].
 
-The safety and effectiveness of omeprazole have been established in pediatric patients 1 month to less than 1 year of age for the treatment of EE due to acid-mediated GERD and is supported by adequate and well-controlled studies in adults and safety, pharmacokinetic, and pharmacodynamic studies performed in pediatric patients [see Clinical Pharmacology (12.3)].
-
-In the pediatric population, adverse reactions of the respiratory system were frequently reported in the entire (1 month to 16 year) age group.
-Otitis media was frequently reported in the 1 month to <1 year age group, fever was frequently reported in the 1 to <2 year age group, and accidental injuries were frequently reported in the 2 to 16 year age group [see Adverse Reactions (6.1)].
+In the pediatric population, adverse reactions of the respiratory system were frequently reported in the entire 2 to 16 year age group.
+Accidental injuries were frequently reported in the 2 to 16 year age group [see Adverse Reactions (6.1)].
 
 The safety and effectiveness of omeprazole have not been established in:
 

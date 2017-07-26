@@ -28,25 +28,19 @@ Omeprazole delayed-release capsules are indicated for short-term treatment (4 to
 
 ## 1.4 Treatment of Symptomatic Gastroesophageal Reflux Disease (GERD)
 
-Omeprazole delayed-release capsules are indicated for the treatment of heartburn and other symptoms associated with GERD for up to 4 weeks in patients 1 year of age and older.
+Omeprazole delayed-release capsules are indicated for the treatment of heartburn and other symptoms associated with GERD for up to 4 weeks in patients 2 years of age and older.
 
-## 1.5 Treatment of Erosive Esophagitis (EE) Due to Acid Mediated GERD
+## 1.5 Treatment of Erosive Esophagitis (EE) Due to Acid Mediated GERD Pediatric Patients 2 Years of Age to Adults
 
-Pediatric Patients 1 Year of Age to Adults
-
-Omeprazole delayed-release capsules are indicated for the short-term treatment (4 to 8 weeks) of EE due to acid-mediated GERD that has been diagnosed by endoscopy in patients 1 year of age and older.
+Omeprazole delayed-release capsules are indicated for the short-term treatment (4 to 8 weeks) of EE due to acid-mediated GERD that has been diagnosed by endoscopy in patients 2 years of age and older.
 
 The efficacy of omeprazole delayed-release capsules are used for longer than 8 weeks in patients with EE has not been established.
 If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given.
 If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of omeprazole delayed-release capsules may be considered.
 
-Pediatric Patients 1 Month to Less than 1 Year of Age
-
-Omeprazole delayed-release capsules are indicated for the short-term treatment (up to 6 weeks) of EE due to acid-mediated GERD in pediatric patients 1 month to less than 1 year of age.
-
 ## 1.6 Maintenance of Healing of EE Due to Acid-Mediated GERD
 
-Omeprazole delayed-release capsules are indicated for the maintenance healing of EE due to acid-mediated GERD in patients 1 year of age and older.
+Omeprazole delayed-release capsules are indicated for the maintenance healing of EE due to acid-mediated GERD in patients 2 years of age and older.
 
 Controlled studies do not extend beyond 12 months.
 
