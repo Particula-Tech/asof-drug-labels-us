@@ -20,6 +20,12 @@ NDC 70069-172-01
 
 Cyanocobalamin Injection, USP
 
-10 mL Carton Label
+10 mL Carton Label – Pack of 25's
 
 NDC 70069-172-25
+
+Cyanocobalamin Injection, USP
+
+10 mL Carton Label – Pack of 10's
+
+NDC 70069-172-10
