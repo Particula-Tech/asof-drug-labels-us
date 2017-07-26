@@ -23,9 +23,9 @@ C12H11ClN2O5S M.W.
 
 Furosemide Tablets USP are available for oral administration containing 20 mg, 40 mg or 80 mg of Furosemide USP.
 The tablets meet Dissolution Test 1.
-Each tablet contains the following inactive ingredients: colloidal silicon dioxide, corn starch, lactose monohydrate, microcrystalline cellulose, pregelatinized starch, sodium lauryl sulfate, sodium starch glycolate and stearic acid.
+Each tablet contains the following inactive ingredients: colloidal silicon dioxide, corn starch, lactose monohydrate, microcrystalline cellulose, pregelatinized starch, purified water, sodium lauryl sulfate, sodium starch glycolate and stearic acid.
 
 Furosemide Oral Solution USP is also available for oral administration containing either 10 mg per mL or 40 mg per 5 mL.
-The oral solution contains the following inactive ingredients: D and C Yellow No. 10, FD and C Yellow No. 6, flavors, potassium carbonate 1½ hydrate, propylene glycol, sorbitol solution and water.
-The 10 mg/mL solution is orange flavored and contains prosweet liquid and also saccharin sodium.
+The oral solution contains the following inactive ingredients: D and C Yellow No. 10, FD and C Yellow No. 6, flavors, potassium carbonate 1½ hydrate, propylene glycol, purified water and sorbitol solution.
+The 10 mg/mL solution is orange flavored and contains prosweet liquid and saccharin sodium.
 The 40 mg/5 mL solution is pineapple-peach flavored and contains sweet tone.
