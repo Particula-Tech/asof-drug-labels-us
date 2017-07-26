@@ -14,11 +14,11 @@ Other, less frequent gastrointestinal complaints consist of abdominal discomfort
 Bleeding hemorrhoids and blood in the stool have been infrequently reported.
 Peptic ulceration, cholecystitis, and cholelithiasis have been rarely reported in patients receiving colestipol hydrochloride granules, and are not necessarily drug related.
 
-Difficulty swallowing and transient esophageal obstruction have been rarely reported in patients taking micronized colestipol hydrochloride tablets.
+Difficulty swallowing and transient esophageal obstruction have been rarely reported in patients taking colestipol hydrochloride tablets.
 
 Transient and modest elevations of aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT) and alkaline phosphatase were observed on one or more occasions in various patients treated with colestipol hydrochloride.
 
-The following nongastrointestinal adverse reactions have been reported with generally equal frequency in patients receiving micronized colestipol hydrochloride tablets, colestipol granules, or placebo in clinical studies:
+The following nongastrointestinal adverse reactions have been reported with generally equal frequency in patients receiving colestipol hydrochloride tablets, colestipol granules, or placebo in clinical studies:
 
 ## Cardiovascular
 

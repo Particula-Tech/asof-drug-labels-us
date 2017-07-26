@@ -1,13 +1,13 @@
 # PRECAUTIONS
 
-Prior to initiating therapy with micronized colestipol hydrochloride tablets, secondary causes of hypercholesterolemia (e.g., poorly controlled diabetes mellitus, hypothyroidism, nephrotic syndrome, dysproteinemias, obstructive liver disease, other drug therapy, alcoholism), should be excluded, and a lipid profile performed to assess total cholesterol, HDL-C, and triglycerides (TG).
-For individuals with TG less than 400 mg/dL (<4.5 mmol/L), LDL-C can be estimated using the following equation:
+Prior to initiating therapy with colestipol hydrochloride tablets, secondary causes of hypercholesterolemia (e.g., poorly controlled diabetes mellitus, hypothyroidism, nephrotic syndrome, dysproteinemias, obstructive liver disease, other drug therapy, alcoholism), should be excluded, and a lipid profile performed to assess total cholesterol, HDL-C, and triglycerides (TG).
+For individuals with TG less than 400 mg/dL (<4.5-mmol/L), LDL-C can be estimated using the following equation:
 
 LDL-C = Total cholesterol − [(Triglycerides/5) + HDL-C]
 
 For TG levels >400 mg/dL, this equation is less accurate and LDL-C concentrations should be determined by ultracentrifugation.
 In hypertriglyceridemic patients, LDL-C may be low or normal despite elevated Total-C.
-In such cases micronized colestipol hydrochloride tablets may not be indicated.
+In such cases colestipol hydrochloride tablets may not be indicated.
 
 Because it sequesters bile acids, colestipol hydrochloride may interfere with normal fat absorption and, thus, may reduce absorption of folic acid and fat soluble vitamins such as A, D, and K.
 
@@ -16,14 +16,14 @@ This will usually respond promptly to parenteral vitamin K1 and recurrences can 
 
 Serum cholesterol and triglyceride levels should be determined periodically based on NCEP guidelines to confirm a favorable initial and adequate long-term response.
 
-Micronized colestipol hydrochloride tablets may produce or severely worsen pre-existing constipation.
+Colestipol hydrochloride tablets may produce or severely worsen pre-existing constipation.
 The dosage should be increased gradually in patients to minimize the risk of developing fecal impaction.
 In patients with pre-existing constipation, the starting dose should be 2 grams once or twice a day.
 Increased fluid and fiber intake should be encouraged to alleviate constipation and a stool softener may occasionally be indicated.
 If the initial dose is well tolerated, the dose may be increased as needed by a further 2 to 4 grams/day (at monthly intervals) with periodic monitoring of serum lipoproteins.
 If constipation worsens or the desired therapeutic response is not achieved at 2 to 16 grams/day, combination therapy or alternate therapy should be considered.
 Particular effort should be made to avoid constipation in patients with symptomatic coronary artery disease.
-Constipation associated with micronized colestipol hydrochloride tablets may aggravate hemorrhoids.
+Constipation associated with colestipol hydrochloride tablets may aggravate hemorrhoids.
 
 While there have been no reports of hypothyroidism induced in individuals with normal thyroid function, the theoretical possibility exists, particularly in patients with limited thyroid reserve.
 
@@ -45,11 +45,11 @@ In the Ames assay, colestipol hydrochloride was not mutagenic.
 
 Since colestipol hydrochloride is essentially not absorbed systemically (less than 0.17% of the dose), it is not expected to cause fetal harm when administered during pregnancy in recommended dosages.
 There are no adequate and well-controlled studies in pregnant women, and the known interference with absorption of fat-soluble vitamins may be detrimental even in the presence of supplementation.
-The use of micronized colestipol hydrochloride tablets in pregnancy or by women of childbearing potential requires that the potential benefits of drug therapy be weighed against possible hazards to the mother or child.
+The use of colestipol hydrochloride tablets in pregnancy or by women of childbearing potential requires that the potential benefits of drug therapy be weighed against possible hazards to the mother or child.
 
 ## Nursing Mothers
 
-Caution should be exercised when micronized colestipol hydrochloride tablets are administered to a nursing mother.
+Caution should be exercised when colestipol hydrochloride tablets are administered to a nursing mother.
 The possible lack of proper vitamin absorption described in the "Pregnancy" section may have an effect on nursing infants.
 
 ## Pediatric Use
@@ -58,36 +58,36 @@ Safety and effectiveness in the pediatric population have not been established.
 
 ## Information for Patients
 
-Micronized colestipol hydrochloride tablets may be larger than pills you have taken before.
-If you have had swallowing problems or choking with food, liquids or other tablets or capsules in the past, you should discuss this with your doctor before taking micronized colestipol hydrochloride tablets.
+Colestipol hydrochloride tablets may be larger than pills you have taken before.
+If you have had swallowing problems or choking with food, liquids or other tablets or capsules in the past, you should discuss this with your doctor before taking colestipol hydrochloride tablets.
 
-It is important that you take micronized colestipol hydrochloride tablets correctly:
+It is important that you take colestipol hydrochloride tablets correctly:
 
 1. Always take one tablet at a time and swallow promptly.
 2. Swallow each tablet whole.
    Do not cut, crush, or chew the tablets.
-3. Micronized colestipol hydrochloride tablets must be taken with water or another liquid that you prefer.
+3. Colestipol hydrochloride tablets must be taken with water or another liquid that you prefer.
    Swallowing the tablets will be easier if you drink plenty of liquid as you swallow each tablet.
 
-Difficulty swallowing and temporary obstruction of the esophagus (the tube between your mouth and stomach) have been rarely reported in patients taking micronized colestipol hydrochloride tablets.
+Difficulty swallowing and temporary obstruction of the esophagus (the tube between your mouth and stomach) have been rarely reported in patients taking colestipol hydrochloride tablets.
 If a tablet does get stuck after you swallow it, you may notice pressure or discomfort.
 If this happens to you, you should contact your doctor.
-Do not take micronized colestipol hydrochloride tablets again without your doctor's advice.
+Do not take colestipol hydrochloride tablets again without your doctor's advice.
 
-If you are taking other medications, you should take them at least one hour before or four hours after taking micronized colestipol hydrochloride tablets.
+If you are taking other medications, you should take them at least one hour before or four hours after taking colestipol hydrochloride tablets.
 
 ## DRUG INTERACTIONS
 
 Since colestipol hydrochloride is an anion exchange resin, it may have a strong affinity for anions other than the bile acids.
 In vitro studies have indicated that colestipol hydrochloride binds a number of drugs.
-Therefore, micronized colestipol hydrochloride tablets may delay or reduce the absorption of concomitant oral medication.
-The interval between the administration of micronized colestipol hydrochloride tablets and any other medication should be as long as possible.
-Patients should take other drugs at least one hour before or four hours after micronized colestipol hydrochloride tablets to avoid impeding their absorption.
+Therefore, colestipol hydrochloride tablets may delay or reduce the absorption of concomitant oral medication.
+The interval between the administration of colestipol hydrochloride tablets and any other medication should be as long as possible.
+Patients should take other drugs at least one hour before or four hours after colestipol hydrochloride tablets to avoid impeding their absorption.
 
 Repeated doses of colestipol hydrochloride given prior to a single dose of propranolol in human trials have been reported to decrease propranolol absorption.
 However, in a follow-up study in normal subjects, single-dose administration of colestipol hydrochloride and propranolol and twice-a-day administration for 5 days of both agents did not affect the extent of propranolol absorption, but had a small yet statistically significant effect on its rate of absorption; the time to reach maximum concentration was delayed approximately 30 minutes.
 Effects on the absorption of other beta-blockers have not been determined.
-Therefore, patients on propranolol should be observed when micronized colestipol hydrochloride tablets are either added or deleted from a therapeutic regimen.
+Therefore, patients on propranolol should be observed when colestipol hydrochloride tablets are either added or deleted from a therapeutic regimen.
 
 Studies in humans show that the absorption of chlorothiazide as reflected in urinary excretion is markedly decreased even when administered one hour before colestipol hydrochloride.
 The absorption of tetracycline, furosemide, penicillin G, hydrochlorothiazide, and gemfibrozil was significantly decreased when given simultaneously with colestipol hydrochloride; these drugs were not tested to determine the effect of administration one hour before colestipol hydrochloride.

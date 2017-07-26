@@ -2,8 +2,8 @@
 
 Since no drug is innocuous, strict attention should be paid to the indications and contraindications, particularly when selecting drugs for chronic long-term use.
 
-Micronized colestipol hydrochloride tablets are indicated as adjunctive therapy to diet for the reduction of elevated serum total and LDL-C in patients with primary hypercholesterolemia (elevated LDL-C) who do not respond adequately to diet.
-Generally, micronized colestipol hydrochloride tablets have no clinically significant effect on serum triglycerides, but with their use, triglyceride levels may be raised in some patients.
+Colestipol hydrochloride tablets are indicated as adjunctive therapy to diet for the reduction of elevated serum total and LDL-C in patients with primary hypercholesterolemia (elevated LDL-C) who do not respond adequately to diet.
+Generally, colestipol hydrochloride tablets have no clinically significant effect on serum triglycerides, but with their use, triglyceride levels may be raised in some patients.
 
 Therapy with lipid-altering agents should be a component of multiple risk factor intervention in those individuals at significantly increased risk for atherosclerotic vascular disease due to hypercholesterolemia.
 Treatment should begin and continue with dietary therapy (see NCEP guidelines).
