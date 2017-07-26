@@ -3,15 +3,15 @@
 ## Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-Haloperidol Injection is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
+Haloperidol injection is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
 
 ## Cardiovascular Effects
 
-Cases of sudden death, QT-prolongation, and Torsades de Pointes have been reported in patients receiving Haloperidol Injection.
-Higher than recommended doses of any formulation and intravenous administration of Haloperidol Injection appear to be associated with a higher risk of QT-prolongation and Torsades de Pointes.
+Cases of sudden death, QT-prolongation, and Torsades de Pointes have been reported in patients receiving haloperidol injection.
+Higher than recommended doses of any formulation and intravenous administration of haloperidol injection appear to be associated with a higher risk of QT-prolongation and Torsades de Pointes.
 Although cases have been reported even in the absence of predisposing factors, particular caution is advised in treating patients with other QT-prolonging conditions (including electrolyte imbalance [particularly hypokalemia and hypomagnesemia], drugs known to prolong QT, underlying cardiac abnormalities, hypothyroidism, and familial long QT-syndrome).
 HALOPERIDOL INJECTION IS NOT APPROVED FOR INTRAVENOUS ADMINISTRATION.
-If Haloperidol Injection is administered intravenously, the ECG should be monitored for QT-prolongation and arrhythmias.
+If haloperidol injection is administered intravenously, the ECG should be monitored for QT-prolongation and arrhythmias.
 
 ## Tardive Dyskinesia
 
@@ -54,13 +54,18 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 Hyperpyrexia and heat stroke, not associated with the above symptom complex, have also been reported with haloperidol.
 
+## Falls
+
+Motor instability, somnolence, and orthostatic hypotension have been reported with the use of antipsychotics, including haloperidol, which may lead to falls and, consequently, fractures or other fall-related injuries.
+For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently for patients receiving repeated doses.
+
 ## Usage in Pregnancy
 
 Rodents given 2 to 20 times the usual maximum human dose of haloperidol by oral or parenteral routes showed an increase in incidence of resorption, reduced fertility, delayed delivery and pup mortality.
 No teratogenic effect has been reported in rats, rabbits or dogs at dosages within this range, but cleft palate has been observed in mice given 15 times the usual maximum human dose.
 Cleft palate in mice appears to be a nonspecific response to stress or nutritional imbalance as well as to a variety of drugs, and there is no evidence to relate this phenomenon to predictable human risk for most of these agents.
 
-There are no well-controlled studies with haloperidol in pregnant women.
+There are no well-controlled studies with haloperidol injection in pregnant women.
 There are reports, however, of cases of limb malformations observed following maternal use of haloperidol along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy.
 Causal relationships were not established in these cases.
 Since such experience does not exclude the possibility of fetal damage due to haloperidol, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
@@ -102,7 +107,7 @@ Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should di
 
 ## Other
 
-Haloperidol should be administered cautiously to patients:
+Haloperidol injection should be administered cautiously to patients:
 
 - with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain.
   Should hypotension occur and a vasopressor be required, epinephrine should not be used since haloperidol may block its vasopressor activity and paradoxical further lowering of the blood pressure may occur.
@@ -192,7 +197,7 @@ Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impote
 An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs.
 Neither clinical studies nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is considered too limited to be conclusive at this time.
 
-There are no well-controlled studies with haloperidol in pregnant women.
+There are no well-controlled studies with haloperidol injection in pregnant women.
 There are reports, however, of cases of limb malformations observed following maternal use of haloperidol along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy.
 Causal relationships were not established in these cases.
 Since such experience does not exclude the possibility of fetal damage due to haloperidol, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
