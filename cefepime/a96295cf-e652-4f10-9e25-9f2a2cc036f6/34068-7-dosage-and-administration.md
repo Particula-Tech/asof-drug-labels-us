@@ -77,7 +77,7 @@ Vials
   - o5% Dextrose Injection
   - o0.5% or 1% Lidocaine Hydrochloride Injection
   - oSterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol
-- •Dilute reconstituted solution with one of the following compatible infusion solutions prior to intravenous infusion (Refer to Table 3 below for the amount of diluent to be added to each vial):
+- •Dilute the reconstituted solution with one of the following compatible infusion solutions prior to intravenous infusion (Refer to Table 3 below for the amount of diluent to be added to each vial and the amount of the reconstituted solution to be withdrawn):
   - o0.9% Sodium Chloride Injection
   - o5% and 10% Dextrose Injection
   - oM/6 Sodium Lactate Injection
@@ -97,22 +97,27 @@ Constitute only with 50 mL or 100 mL of 5% Dextrose Injection or 0.9% Sodium Chl
 ## 2.5 Preparation for Intramuscular Administration
 
 Constitute MAXIPIME vials 0.5 gram, 1 gram and 2 grams with one of the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride, 5% Dextrose Injection, 0.5% or 1% Lidocaine Hydrochloride, or Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol.
-Refer to Table 3 below for the amount of diluent to be added to each vial.
+Refer to Table 3 below for the amount of diluent to be added to each vial and the amount of reconstituted volume to be withdrawn.
 
 Parenteral drugs should be inspected visually for particulate matter before administration.
 If particulate matter is evident in reconstituted fluids, the drug solution should be discarded.
 
-Table 3: Preparation of Constituted Solutions of MAXIPIME for Injection
+Table 3: Preparation of Reconstituted Solutions of MAXIPIME for Injection
 
-| Single-Dose Vials for Intravenous (IV)/Intramuscular (IM)Administration | Amount of Diluentto be added (mL) | Approximate Available Volume (mL) | Approximate Cefepime Concentration(mg/mL) |
+| Single-Dose Vials for Intravenous (IV)/Intramuscular (IM)Administration | Amount of Diluent to be added (mL) | Approximate Cefepime Concentration (mg/mL) | Amount of Reconstituted Volume to be Withdrawn (mL) |
 | --- | --- | --- | --- |
 | Cefepime vial content |  |  |  |
-| 500 mg (IV) | 5 | 5.6 | 100 |
-| 500 mg (IM) | 1.3 | 1.8 | 280 |
-| 1 g (IV) | 10 | 11.3 | 100 |
-| 1 g (IM) | 2.4 | 3.6 | 280 |
-| 2 g (IV) | 10 | 12.5 | 160 |
-| ADD-Vantage1 g vial1 g vial2 g vial2 g vial | 5010050100 | 5010050100 | 20104020 |
+| 500 mg (IV) | 5 | 100 | 5 |
+| 500 mg (IM) | 1.3 | 280 | 1.8 |
+| 1 g (IV) | 10 | 100 | 10.5 |
+| 1 g (IM) | 2.4 | 280 | 3.6 |
+| 2 g (IV) | 10 | 160 | 12.5 |
+| ADD-Vantage Vials for Intravenous (IV) Administration | Amount of Diluent to be added (mL) | Approximate Cefepime Concentration (mg/mL) | Approximate Available Volume for Withdrawal (mL) |
+| ADD-Vantage |  |  |  |
+| 1 g vial | 50 | 20 | 50 |
+| 1 g vial | 100 | 10 | 100 |
+| 2 g vial | 50 | 40 | 50 |
+| 2 g vial | 100 | 20 | 100 |
 
 ## 2.6 Compatibility and Stability
 

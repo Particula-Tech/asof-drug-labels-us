@@ -14,6 +14,4 @@ Manufactured for: Hospira, Inc. Lake Forest, IL 60045 USA
 
 Made in India
 
-EN-4225
-
-948026410
+LAB-0888-2.0

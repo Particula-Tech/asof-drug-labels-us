@@ -32,7 +32,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 Prescribing MAXIPIME in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 As with other antimicrobials, prolonged use of MAXIPIME may result in overgrowth of nonsusceptible microorganisms.
-Repeated evaluation of the patient’s condition is essential.
+Repeated evaluation of the patient's condition is essential.
 Should superinfection occur during therapy, appropriate measures should be taken.
 
 ## 5.5 Drug/Laboratory Test Interactions
@@ -42,11 +42,11 @@ Urinary Glucose
 The administration of cefepime may result in a false-positive reaction for glucose in the urine when using some methods (e.g.
 Clinitest™ tablets) [see Drug Interactions (7.1)].
 
-Coombs’ Tests
+Coombs' Tests
 
-Positive direct Coombs’ tests have been reported during treatment with MAXIPIME.
+Positive direct Coombs' tests have been reported during treatment with MAXIPIME.
 In patients who develop hemolytic anemia, discontinue the drug and institute appropriate therapy.
-Positive Coombs’ test may be observed in newborns whose mothers have received cephalosporin antibiotics before parturition.
+Positive Coombs' test may be observed in newborns whose mothers have received cephalosporin antibiotics before parturition.
 
 Prothrombin Time
 

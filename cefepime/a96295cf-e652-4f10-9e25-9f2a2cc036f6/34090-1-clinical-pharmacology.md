@@ -94,7 +94,7 @@ Geriatric patients
 
 Cefepime pharmacokinetics have been investigated in elderly (65 years of age and older) men (n=12) and women (n=12) whose mean (SD) creatinine clearance was 74 (±15) mL/min.
 There appeared to be a decrease in cefepime total body clearance as a function of creatinine clearance.
-Therefore, dosage administration of cefepime in the elderly should be adjusted as appropriate if the patient’s creatinine clearance is 60 mL/min or less [see Dosage and Administration (2.3)].
+Therefore, dosage administration of cefepime in the elderly should be adjusted as appropriate if the patient's creatinine clearance is 60 mL/min or less [see Dosage and Administration (2.3)].
 
 Pediatric patients
 
