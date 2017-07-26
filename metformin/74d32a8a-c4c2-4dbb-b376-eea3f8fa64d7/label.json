@@ -5,6 +5,7 @@
   "inn": "metformin",
   "labeler": "Oceanside Pharmaceuticals",
   "package_ndcs": [
+    "68682-017-10",
     "68682-018-90"
   ],
   "products": [
