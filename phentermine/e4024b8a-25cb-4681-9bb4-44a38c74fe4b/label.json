@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA040377"
+  ],
+  "inn": "phentermine",
+  "labeler": "Solco Healthcare U.S., LLC",
+  "package_ndcs": [
+    "43547-404-03",
+    "43547-404-10",
+    "43547-404-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "phentermine hydrochloride",
+      "name": "Phentermine Hydrochloride"
+    }
+  ],
+  "setid": "e4024b8a-25cb-4681-9bb4-44a38c74fe4b",
+  "source": "dailymed"
+}
