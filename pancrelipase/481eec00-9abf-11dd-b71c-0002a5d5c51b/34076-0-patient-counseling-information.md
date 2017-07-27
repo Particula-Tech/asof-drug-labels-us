@@ -1,40 +1,43 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 ## 17.1 Dosing and Administration
 
-- Instruct patients and caregivers that PERTZYE should only be taken as directed by their healthcare professional.
-  Patients should be advised that the total daily dose should not exceed 10,000 lipase units/kg body weight/day unless clinically indicated.
-  This needs to be especially emphasized for patients eating multiple snacks and meals per day.
-  Patients should be informed that if a dose is missed, the next dose should be taken with the next meal or snack as directed.
-  Doses should not be doubled.
-  [see Dosage and Administration (2)]
-- Instruct patients and caregivers that PERTZYE should always be taken with food.
-  Patients should be advised that PERTZYE delayed-release capsules and the capsule contents must not be crushed or chewed as doing so could cause early release of enzymes and/or loss of enzymatic activity and irritation to the oral mucosa.
-  Patients should swallow the intact capsules with adequate amounts of liquid at mealtimes.
-  If necessary, the capsule contents can also be mixed with soft acidic foods.
-  [see Dosage and Administration (2)]
-- Any unused portion of capsule contents should be discarded, and not used for subsequent dosing.
-  The remaining exposed contents may lose potency and become less effective.
-  [see Dosage and Administration (2)]
-- Instruct patients to keep out of the reach of children.
+Instruct patients and caregivers:
+
+- Administer PERTZYE during meals or snacks, with sufficient fluid.
+- Swallow PERTZYE capsules whole.
+- Do not crush or chew the capsules or the capsule contents [see Warnings and Precautions (5.2)].
+- For patients who are unable to swallow intact capsules, follow the instructions in the Medication Guide for:
+
+oral administration with soft foods with a pH of 4.5 or less (e.g., applesauce); or
+
+administration via a gastrostomy tube with a diameter of 14 French or larger with soft foods with a pH of 4.0 or less (e.g., applesauce).
+Only perform gastrostomy tube administration with the contents of the 4,000 USP lipase unit capsule of PERTZYE.
+The contents of no more than two capsules may be administered at a time [see Dosage and Administration (2.2)].
+
+- If a dose is missed the next dose should be taken with the next or snack as directed.
+  Do not take two doses at one time [see Dosage and Administration (2)].
+- After opening the bottle containing PERTZYE, keep it tightly closed between uses.
+  Do not eat or throw away the desiccant packet.
 
 ## 17.2 Fibrosing Colonopathy
 
-Advise patients and caregivers to follow dosing instructions carefully, as doses of pancreatic enzyme products exceeding 6,000 lipase units/kg of body weight per meal (10,000 lipase units/kg body weight/day) have been associated with colonic strictures in children below the age of 12 years.
-[see Dosage and Administration (2) and Warnings and Precautions (5.1)]
+High doses of pancreatic enzyme products have been associated with colonic strictures in children below the age of 12 years.
+Advise patients and caregivers that if signs and symptoms of stricture formation occur (e.g., stomach area (abdominal) pain, bloating, trouble passing stool (constipation), nausea, vomiting, diarrhea) to immediately contact their healthcare provider [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
 
 ## 17.3 Allergic Reactions
 
-Advise patients and caregivers to contact their healthcare professional immediately if allergic reactions to PERTZYE develop.
+Allergic reactions, including anaphylaxis, asthma, hives and pruritus may occur.
+Advise patients and caregivers to immediately contact their healthcare provider if symptoms occur.
 [see Warnings and Precautions (5.5)]
 
 ## 17.4 Pregnancy and Breast Feeding
 
-- Instruct patients to notify their physician if they are pregnant or are thinking of becoming pregnant during treatment with PERTZYE.
+- To notify their healthcare provider if they are pregnant or are thinking of becoming pregnant during treatment with PERTZYE.
   [see Use in Specific Populations (8.1)]
-- Instruct patients to notify their physician if they are breast feeding or are thinking of breast feeding during treatment with PERTZYE.
+- To notify their healthcare provider if they are breast feeding or are thinking of breast feeding during treatment with PERTZYE.
   [see Use in Specific Populations (8.3)]
 
-Manufactured in the USA by: Digestive Care, Inc. Bethlehem, PA 18017 PERTZYE® is a registered trademark of Digestive Care, Inc. U.S. Patent Numbers: 5,260,074; 5,302,400; 5,324,514; 5,460,812; 5,578,304; 5,750,104
+Manufactured in the USA by: Digestive Care, Inc. Bethlehem, PA 18017 PERTZYE ® is a registered trademark of Digestive Care, Inc. U.S. Patent Numbers: 5,260,074; 5,302,400; 5,324,514; 5,460,812; 5,578,304; 5,750,104

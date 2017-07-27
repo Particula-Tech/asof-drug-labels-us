@@ -1,6 +1,7 @@
 # 14 CLINICAL STUDIES
 
-The short-term safety and efficacy of PERTZYE were evaluated in a randomized, double-blind, placebo-controlled crossover study conducted in 24 patients ages 8 to 43 years (mean age = 20 years) with exocrine pancreatic insufficiency due to cystic fibrosis.6 The efficacy analysis population included 21 patients who completed both double-blind treatment periods.
+The short-term safety and efficacy of PERTZYE were evaluated in a randomized, double-blind, placebo-controlled crossover study conducted in 24 patients ages 8 to 43 years (mean age = 20 years) with exocrine pancreatic insufficiency due to cystic fibrosis.
+6 The efficacy analysis population included 21 patients who completed both double-blind treatment periods.
 Patients were randomized to receive PERTZYE at individually titrated doses (not to exceed 2,500 lipase units per kilogram per meal) or matching placebo for 6 to 8 days of treatment, followed by crossover to the alternate treatment for an additional 6 to 8 days.
 
 The primary efficacy endpoint was the mean difference in coefficient of fat absorption (CFA) between PERTZYE and placebo treatment.

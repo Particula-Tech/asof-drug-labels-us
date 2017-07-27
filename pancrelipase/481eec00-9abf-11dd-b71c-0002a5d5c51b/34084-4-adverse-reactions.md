@@ -25,7 +25,7 @@ Adverse Reactions Occurring in at Least 2 Patients (≥ 10%)
 The following adverse reactions have been identified during post approval use of PERTZYE.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-This formulation of PERTZYE has been marketed since 2004 under the trademark PANCRECARB®.
+This formulation of PERTZYE has been marketed since 2004 under the trademark PANCRECARB ®.
 Two product complaints relating to an adverse drug reaction were reported.
 A mild allergic reaction (itching and red, blotchy rash on face) was reported by a patient with a known history of allergy to another pancrelipase product, and a dull headache was reported by another patient taking concomitant ursodeoxycholic acid.
 Both events resolved without sequelae after discontinuation of treatment.

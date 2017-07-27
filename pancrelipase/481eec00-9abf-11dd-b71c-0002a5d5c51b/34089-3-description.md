@@ -6,7 +6,7 @@ Pancrelipase contains multiple enzyme classes, including porcine-derived lipases
 Pancrelipase is a beige-white amorphous powder.
 It is miscible in water and practically insoluble or insoluble in alcohol and ether.
 
-Each PERTZYE delayed-release capsule for oral administration contains bicarbonate-buffered enteric-coated microspheres ranging in size from 0.8-1.4 mm in diameter for 4,000 USP units of lipase and 0.8-2.2 mm in diameter for 8,000 and 16,000 USP units of lipase.
+Each PERTZYE delayed-release capsule for oral administration contains bicarbonate-buffered enteric-coated microspheres ranging in size from 0.8 to 1.4 mm in diameter for 4,000 USP units of lipase and 0.8 to 2.2 mm in diameter for 8,000, 16,000, and 24,000 USP units of lipase.
 
 The active ingredient evaluated in clinical trials is lipase.
 PERTZYE is dosed by lipase units.
@@ -25,3 +25,7 @@ The imprinting ink on the capsule contains FD&C Blue #1, ethanol, methanol, n-bu
 16,000 USP units of lipase; 57,500 USP units of protease; 60,500 USP units of amylase.
 Delayed-Release Capsules have a clear body printed in red with "16" and a clear cap with a red circular stripe and “DCI”.
 The imprinting ink on the capsule contains FD&C Red #40, povidone, titanium dioxide, dehydrated alcohol, sodium hydroxide, butyl alcohol, propylene glycol, isopropyl alcohol, and shellac.
+
+24,000 USP units of lipase; 86,250 USP units of protease; 90,750 USP units of amylase.
+Delayed-Release Capsules have a clear body printed in purple with “24” and a clear cap printed with a purple circular stripe and “DCI”.
+The imprinting ink on the capsule contains FD&C Blue #2, D&C Red #7, titanium dioxide, strong ammonia solution, propylene glycol, butyl alcohol, isopropyl alcohol, dehydrated alcohol, and shellac.

@@ -14,3 +14,5 @@ Each PERTZYE delayed-release capsule strength contains the specified amounts of 
 
 - 16,000 USP units of lipase; 57,500 USP units of protease; 60,500 USP units of amylase.
   Delayed-release capsules have a clear body printed in red with "16" and a clear cap printed with a red circular stripe and "DCI"
+- 24,000 USP units of lipase; 86,250 USP units of protease; 90,750 USP units of amylase.
+  Delayed-release capsules have a clear body printed in purple with “24” and a clear cap printed with a purple circular stripe and “DCI”

@@ -15,6 +15,6 @@
 5. FitzSimmons SC, Burkhart GA, Borowitz DS, et al. High-dose pancreatic-enzyme supplements and fibrosing colonopathy in children with cystic fibrosis.
    New England Journal of Medicine.
    1997; 336: 1283-1289.
-6. Konstan MW, et al. A Randomized, Double-Blind, Placebo-Controlled, Multicenter, Cross-Over Study to Evaluate the Effectiveness and Safety of a Novel Pancrelipase (PANCRECARB® MS-16) in Reducing Steatorrhea in Children and Adults with Cystic Fibrosis.
+6. Konstan MW, et al. A Randomized, Double-Blind, Placebo-Controlled, Multicenter, Cross-Over Study to Evaluate the Effectiveness and Safety of a Novel Pancrelipase (PANCRECARB ® MS-16) in Reducing Steatorrhea in Children and Adults with Cystic Fibrosis.
    2008 North American Cystic Fibrosis Conference.
    Abstract #618.
