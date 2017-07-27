@@ -47,9 +47,9 @@ Tramadol hydrochloride extended-release tablet is administered as a racemate and
 The pharmacokinetics of tramadol hydrochloride extended-release tablets are approximately dose-proportional over a 100 to 400 mg dose range in healthy subjects.
 The observed tramadol AUC values for the 400 mg dose were 26% higher than predicted based on the AUC values for the 200 mg dose.
 The clinical significance of this finding has not been studied and is not known.
-Absorption In healthy subjects, the bioavailability of a tramadol hydrochloride extended-release tablet 200 mg administered once daily relative to a 50 mg immediate-release (IR) tablet administered every six hours was approximately 85to 90%.
+Absorption In healthy subjects, the bioavailability of a tramadol hydrochloride extended-release tablet 200 mg administered once daily relative to a 50 mg immediate-release (IR) tablet administered every six hours was approximately 85 to 90%.
 Consistent with the extended-release nature of the formulation, there is a lag time in drug absorption following tramadol hydrochloride extended-release tablets administration.
-The mean peak plasma concentrations of tramadol and M1 after administration of tramadol hydrochloride extended-release tablets to healthy volunteers are attained at about 12 h and 15 h, respectively, after dosing (see Table 2 and Figure 2).
+The mean peak plasma concentrations of tramadol and M1 after administration of tramadol hydrochloride extended-release tablets to healthy volunteers are attained at about 12 h and 15 h, respectively, after dosing (see Table 3 and Figure 1).
 Following administration of the tramadol hydrochloride extended-release tablets, steady-state plasma concentrations of both tramadol and M1 are achieved within four days with once daily dosing.
 The mean (%CV) pharmacokinetic parameter values for tramadol hydrochloride extended-release tablet 200 mg administered once daily and tramadol HCl IR 50 mg administered every six hours are provided in Table 3.
 Table 3.
@@ -65,7 +65,7 @@ Mean (%CV) Steady-State Pharmacokinetic Parameter Values (n=32)
 | Tmax (h) | 12 (27) | 1.5 (42) | 15 (27) | 1.9 (57) |
 | % Fluctuation | 61 (57) | 59 (35) | 34 (72) | 26 (47) |
 
-AUC0-24: Area Under the Curve in a 24-hour dosing interval; Cmax: Peak Concentration in a 24- hour dosing interval; Cmin: Trough Concentration in a 24-hour dosing interval; Tmax: Time to Peak Concentration Figure 2: Mean Steady-State Tramadol (a) and M1 (b) Plasma Concentrations on Day 8 Post Dose after Administration of 200 mg Tramadol Hydrochloride Extended-Release Tablets Once-Daily and 50 mg Tramadol IR Tablets Every 6 Hours.
+AUC0-24: Area Under the Curve in a 24-hour dosing interval; Cmax: Peak Concentration in a 24- hour dosing interval; Cmin: Trough Concentration in a 24-hour dosing interval; Tmax: Time to Peak Concentration Figure 1: Mean Steady-State Tramadol (a) and M1 (b) Plasma Concentrations on Day 8 Post Dose after Administration of 200 mg Tramadol Hydrochloride Extended-Release Tablets Once-Daily and 50 mg Tramadol IR Tablets Every 6 Hours.
 
 Food Effects
 
@@ -95,8 +95,8 @@ The total amount of tramadol and M1 removed during a 4-hour dialysis period is l
 Sex Based on pooled multiple-dose pharmacokinetics studies for tramadol hydrochloride extended-release tablets in 166 healthy subjects (111 males and 55 females), the dose-normalized AUC values for tramadol were somewhat higher in females than in males.
 There was a considerable degree of overlap in values between male and female groups.
 Dosage adjustment based on sex is not recommended.
-Age: Geriatric Population The effect of age on pharmacokinetics of tramadol hydrochloride extended-release has not been studied.
-Healthy elderly subjects aged 65 to 75 years administered an immediate-release formulation of tramadol, have plasma concentrations and elimination half-lives comparable to those observed in healthy subjects less than 65 years of age.
+Age: Geriatric Population The effect of age on pharmacokinetics of tramadol hydrochloride extended-release tablets has not been studied.
+Healthy elderly subjects aged 65 to 75 years administered an immediate-release formulation of tramadol, have plasma concentrations and elimination half-lives comparable to those observed in healthy subjects younger than 65 years of age.
 In subjects over 75 years, mean maximum plasma concentrations are elevated (208 vs. 162 ng/mL) and the mean elimination halflife is prolonged (7 vs. 6 hours) compared to subjects 65 to 75 years of age.
 Adjustment of the daily dose is recommended for patients older than 75 years [see Dosage and Administration (2.3)].
 Drug Interaction Studies Potential for Tramadol to Affect Other Drugs In vitro studies indicate that tramadol is unlikely to inhibit the CYP3A4-mediated metabolism of other drugs when tramadol is administered concomitantly at therapeutic doses.

@@ -19,8 +19,8 @@ Instruct patients to take steps to store tramadol hydrochloride extended-release
 
 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
-Advise patients that tramadol hydrochloride extended-release tablets should not be used in children younger than 12 years of age or in a child of any age for pain treatment after tonsillectomy and/or adenoidectomy.
-Advise caregivers of children ages 12-18 receiving tramadol hydrochloride extended-release tablets to monitor for signs of respiratory depression [see Warnings and Precautions (5.3)].
+Advise caregivers that tramadol hydrochloride extended-release tablets are contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
+Advise caregivers of children 12 to 18 years of age receiving tramadol hydrochloride extended-release tablets to monitor for signs of respiratory depression [see Warnings and Precautions (5.3)].
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
@@ -65,7 +65,7 @@ Instruct patients how to recognize symptoms of low blood pressure and how to red
 Anaphylaxis
 
 Inform patients that anaphylaxis has been reported with ingredients contained in tramadol hydrochloride extended-release tablets.
-Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4), Adverse Reactions (6)].
+Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4), Warnings and Precautions (5.15), Adverse Reactions (6)].
 
 Pregnancy
 
@@ -89,7 +89,7 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 Driving or Operating Heavy Machinery
 
 Inform patients that tramadol hydrochloride extended-release tablets may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.6)].
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.17)].
 
 Constipation
 

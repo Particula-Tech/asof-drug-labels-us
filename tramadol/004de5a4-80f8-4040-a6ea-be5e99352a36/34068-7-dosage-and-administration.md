@@ -4,7 +4,7 @@
 
 Tramadol hydrochloride extended-release tablets should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
-- Do not use tramadol hydrochloride extended-release tablets concomitantly with other tramadol products [see Warnings and Precautions (5.5), (5.12)].
+- Do not use tramadol hydrochloride extended-release tablets concomitantly with other tramadol products [see Warnings and Precautions (5.5), (5.13)].
 - Do not administer tramadol hydrochloride extended-release tablets at a dose exceeding 300 mg per day.
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.6)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)]
@@ -43,7 +43,7 @@ Patients who experience breakthrough pain may require a dosage adjustment of tra
 If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the tramadol hydrochloride extended-release tablets dosage.
 
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
-Adjust the dosage to obtain an appropriate balance between management of pain and opioid- related adverse reactions.
+Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
 ## 2.4 Discontinuation of Tramadol Hydrochloride Extended-Release Tablets
 

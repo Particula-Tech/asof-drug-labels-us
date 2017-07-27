@@ -33,27 +33,27 @@ Accidental ingestion of even one dose of tramadol hydrochloride extended-release
 
 Life-threatening respiratory depression and death have occurred in children who received tramadol.
 Tramadol and codeine are subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to increased exposure to an active metabolite.
-Based upon postmarketing reports with tramadol or with codeine, children less than 12 years old may be more susceptible to the respiratory depressant effects of tramadol.
+Based upon postmarketing reports with tramadol or with codeine, children younger than 12 years of age may be more susceptible to the respiratory depressant effects of tramadol.
 Furthermore, children with obstructive sleep apnea who are treated with opioids for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to their respiratory depressant effect.
 Because of the risk of life-threatening respiratory depression and death:
 
-- Tramadol hydrochloride extended-release tablets are contraindicated for all children younger than age 12 years of age [see CONTRAINDICATIONS (4)].
-- Tramadol hydrochloride extended-release tablets are contraindicated for post-operative pain management in pediatric patients of any age undergoing tonsillectomy and/or adenoidectomy [see CONTRAINDICATIONS (4)].
+- Tramadol hydrochloride extended-release tablets are contraindicated for all children younger than 12 years of age [see Contraindications (4)].
+- Tramadol hydrochloride extended-release tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
 - Avoid the use of Tramadol hydrochloride extended-release tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
-  Risk factors include postoperative status, obstructive sleep apnea, obesity and other conditions associated with hypoventilation syndromes (e.g. neuromuscular disease), concomitant use of other medications that cause respiratory depression, and severe pulmonary disease.
+  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
 - As with adults, when prescribing opioids for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of opioid overdose [see Use inSpecific Populations (8.4), Overdosage (10)].
 
 Nursing Mothers
 
 Tramadol is subject to the same polymorphic metabolism as codeine, with ultra-rapid metabolizers of CYP2D6 substrates being potentially exposed to life-threatening levels of O-desmethyltramadol (M1).
-A death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
+At least one death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
 A baby nursing from an ultra-rapid metabolizer mother taking Tramadol hydrochloride extended-release tablets could potentially be exposed to high levels of M1, and experience life-threatening respiratory depression.
 For this reason, breastfeeding is not recommended during treatment with Tramadol hydrochloride extended-release tablets [see Use in Specific Populations (8.2)].
 
 CYP2D6 Genetic Variability: Ultra-rapid metabolizer
 
 Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (e.g., gene duplications denoted as *1/*1xN or *1/*2xN).
-The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1 to 10% in Caucasians, 3 to 4% in African Americans, 1 to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
+The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1 to 10% for Whites (European, North American), 3 to 4% for Blacks (African Americans), 1 to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
 These individuals convert tramadol into its active metabolite, O-desmethyltramadol (M1), more rapidly and completely than other people.
 This rapid conversion results in higher than expected serum M1 levels.
 Even at labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) [see Overdosage (10)].
@@ -119,7 +119,7 @@ Concomitant use of tramadol increases the seizure risk in patients taking: [see 
 
 · Other opioids,
 
-· MAO inhibitors [see Warnings and Precautions (5.10), Drug Interactions (7)]
+· MAO inhibitors [see Warnings and Precautions (5.7), Drug Interactions (7)]
 
 · Neuroleptics, or
 

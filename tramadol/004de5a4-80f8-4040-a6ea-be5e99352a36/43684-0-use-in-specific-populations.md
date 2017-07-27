@@ -15,7 +15,7 @@ Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and 
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 Observe newborns for symptoms and signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
 Neonatal seizures, neonatal withdrawal syndrome, fetal death and stillbirth have been reported with tramadol during post-approval use of tramadol immediate-release products.
-Labor or Delivery Opioids cross the placenta and may produce respiratory depression and psychophysiologic effects in neonates.
+Labor or Delivery Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Tramadol hydrochloride extended-release tablets are not recommended for use in pregnant women during or immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
 Opioid analgesics, including tramadol hydrochloride extended-release tablets, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
@@ -52,6 +52,7 @@ Clinical Considerations
 
 IF infants are exposed to tramadol hydrochloride extended-release tablets through breast milk, they should be monitored for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
+Data Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours post dose was 100 mcg of tramadol (0.1% of the maternal dose) and 27 mcg of M1.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -60,18 +61,18 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of tramadol hydrochloride extended-release tablets in patients under 18 years of age have not been established.
+The safety and effectiveness of tramadol hydrochloride extended-release tablets in pediatric patients have not been established.
 
 Life-threatening respiratory depression and death have occurred in children who received tramadol [see Warnings and Precautions (5.3)].
 In some of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and one of the children had evidence of being an ultra-rapid metabolizer of tramadol (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
 Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of tramadol.
-
 Because of the risk of life-threatening respiratory depression and death:
 
 - Tramadol hydrochloride extended-release tablets are contraindicated for all children younger than age 12 years of age [see Contraindications (4)].
-- Tramadol hydrochloride extended-release tablets are contraindicated for post-operative pain management in pediatric patients of any age undergoing tonsillectomy and/or adenoidectomy [seeContraindications (4)].
+- Tramadol hydrochloride extended-release tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [seeContraindications (4)].
 - Avoid the use of tramadol hydrochloride extended-release tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
-  Risk factors include postoperative status, obstructive sleep apnea, obesity and other conditions associated with hypoventilation syndromes (e.g. neuromuscular disease), concomitant use of other medications that cause respiratory depression, and severe pulmonary disease [see Warnings and Precautions (5.3)].
+  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
+  [see Warnings and Precautions (5.3)].
 
 ## 8.5 Geriatric Use
 

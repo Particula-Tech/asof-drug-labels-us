@@ -25,10 +25,9 @@ Selling or giving away tramadol hydrochloride extended-release tablets is agains
 
 Important Information Guiding Use in Pediatric Patients:
 
-- Do not give tramadol hydrochloride extended-release tablets to a child younger than 12.
-- Do not give tramadol hydrochloride extended-release tablets to a child younger than 18 to treat pain after surgery to remove the tonsils and/or adenoids.
-
-Avoid giving tramadol hydrochloride extended-release tablets to children between 12 to 18 years of age who have risk factors for breathing problems such as obstructive sleep apnea, obesity, or underlying lung problems.
+- Do not give tramadol hydrochloride extended-release tablets to a child younger than 12 years of age.
+- Do not give tramadol hydrochloride extended-release tablets to a child younger than 18 years of age after surgery to remove the tonsils and/or adenoids.
+- Avoid giving tramadol hydrochloride extended-release tablets to children between 12 to 18 years of age who have risk factors for breathing problems such as obstructive sleep apnea, obesity, or underlying lung problems.
 
 Do not take tramadol hydrochloride extended-release tablets if you have:
 
@@ -112,6 +111,6 @@ Halol-Baroda Highway,
 
 Halol-389 350, Gujarat, India.
 
-ISS: 05/2017
+ISS: 07/2017
 
-PJPI0279D
+PJPI0279E
