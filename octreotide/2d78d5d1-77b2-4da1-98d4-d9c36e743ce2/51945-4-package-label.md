@@ -34,7 +34,7 @@ Made in Italy
 
 Mylan.com
 
-MI:239:10C:R4
+MI:239:10C:R5
 
 # PRINCIPAL DISPLAY PANEL - 100 mcg
 
@@ -72,7 +72,7 @@ Made in Italy
 
 Mylan.com
 
-MI:245:10C:R4
+MI:245:10C:R5
 
 # PRINCIPAL DISPLAY PANEL - 500 mcg
 
@@ -112,4 +112,4 @@ Made in Italy
 
 Mylan.com
 
-MI:246:10C:R4
+MI:246:10C:R5
