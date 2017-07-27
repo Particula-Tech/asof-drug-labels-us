@@ -19,4 +19,4 @@ Rx Only (USA)
 Manufactured for E-Z-EM, Inc. a subsidiary of Bracco Diagnostics Inc. Monroe Township, NJ 08831 Tel: 1-516-333-8230 1-800-544-4624 by Confab Laboratories Inc. Saint Hubert (Québec) Canada J3Y 3X3
 
 rev.
-04/14 300055-03
+12/16 301871-01
