@@ -20,7 +20,7 @@ Panic Disorder
 The successful treatment of many panic disorder patients has required the use of alprazolam at doses greater than 4 mg daily.
 In controlled trials conducted to establish the efficacy of alprazolam in panic disorder, doses in the range of 1 to 10 mg daily were used.
 The mean dosage employed was approximately 5 to 6 mg daily.
-Among the approximately 1700 patients participating in the panic disorder development program, about 300 received alprazolam in dosages of greater than 7 mg/day, including approximately 100 patients who received maximum dosages of greater than 9 mg/day.
+Among the approximately 1,700 patients participating in the panic disorder development program, about 300 received alprazolam in dosages of greater than 7 mg/day, including approximately 100 patients who received maximum dosages of greater than 9 mg/day.
 Occasional patients required as much as 10 mg a day to achieve a successful response.
 
 Dose Titration
@@ -31,7 +31,7 @@ Slower titration to the dose levels greater than 4 mg/day may be advisable to al
 To lessen the possibility of interdose symptoms, the times of administration should be distributed as evenly as possible throughout the waking hours, that is, on a three or four times per day schedule.
 
 Generally, therapy should be initiated at a low dose to minimize the risk of adverse responses in patients especially sensitive to the drug.
-Dose should be advanced until an acceptable therapeutic response (ie, a substantial reduction in or total elimination of panic attacks) is achieved, intolerance occurs, or the maximum recommended dose is attained.
+Dose should be advanced until an acceptable therapeutic response (i.e., a substantial reduction in or total elimination of panic attacks) is achieved, intolerance occurs, or the maximum recommended dose is attained.
 
 Dose Maintenance
 

@@ -23,14 +23,14 @@ Table 1: Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials
 | Number of Patients | 565 | 505 | 565 |
 | % of Patients Reporting: |  |  |  |
 | Central Nervous System |  |  |  |
-| Drowsiness | 41 | 21.6 | 15.1 |
+| Drowsiness | 41.0 | 21.6 | 15.1 |
 | Light-Headedness | 20.8 | 19.3 | 1.2 |
 | Depression | 13.9 | 18.1 | 2.4 |
 | Headache | 12.9 | 19.6 | 1.1 |
-| Confusion | 9.9 | 10 | 0.9 |
+| Confusion | 9.9 | 10.0 | 0.9 |
 | Insomnia | 8.9 | 18.4 | 1.3 |
 | Nervousness | 4.1 | 10.3 | 1.1 |
-| Syncope | 3.1 | 4 | None reported. |
+| Syncope | 3.1 | 4.0 | None reported. |
 | Dizziness | 1.8 | 0.8 | 2.5 |
 | Akathisia | 1.6 | 1.2 |  |
 | Tiredness/Sleepiness |  |  | 1.8 |
@@ -47,13 +47,13 @@ Table 1: Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials
 | Blurred Vision | 6.2 | 6.2 | 0.4 |
 | Musculoskeletal |  |  |  |
 | Rigidity | 4.2 | 5.3 |  |
-| Tremor | 4 | 8.8 | 0.4 |
+| Tremor | 4.0 | 8.8 | 0.4 |
 | Cutaneous |  |  |  |
 | Dermatitis/Allergy | 3.8 | 3.1 | 0.6 |
 | Other |  |  |  |
 | Nasal Congestion | 7.3 | 9.3 |  |
 | Weight Gain | 2.7 | 2.7 |  |
-| Weight Loss | 2.3 | 3 |  |
+| Weight Loss | 2.3 | 3.0 |  |
 
 In addition to the relatively common (i.e., greater than 1%) untoward events enumerated in the table above, the following adverse events have been reported in association with the use of benzodiazepines: dystonia, irritability, concentration difficulties, anorexia, transient amnesia or memory impairment, loss of coordination, fatigue, seizures, sedation, slurred speech, jaundice, musculoskeletal weakness, pruritus, diplopia, dysarthria, changes in libido, menstrual irregularities, incontinence and urinary retention.
 
@@ -63,7 +63,7 @@ Table 2: Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials
 | --- | --- | --- |
 |  | Treatment-Emergent Symptom IncidenceEvents reported by 1% or more of alprazolam patients are included. |  |
 |  | Alprazolam | Placebo |
-| Number of Patients | 1388 | 1231 |
+| Number of Patients | 1,388 | 1,231 |
 | % of Patients Reporting: |  |  |
 | Central Nervous System |  |  |
 | Drowsiness | 76.8 | 42.7 |
@@ -148,7 +148,7 @@ Table 3: Discontinuation-Emergent Symptom Incidence
 | Insomnia | 29.5 | Nausea/Vomiting | 16.5 |
 | Light-Headedness | 19.3 | Diarrhea | 13.6 |
 | Abnormal Involuntary Movement | 17.3 | Decreased Salivation | 10.6 |
-| Headache | 17 | Metabolic-Nutritional |  |
+| Headache | 17.0 | Metabolic-Nutritional |  |
 | Muscular Twitching | 6.9 | Weight Loss | 13.3 |
 | Impaired Coordination | 6.6 | Decreased Appetite | 12.8 |
 | Muscle Tone Disorders | 5.9 | Dermatological |  |
@@ -156,11 +156,11 @@ Table 3: Discontinuation-Emergent Symptom Incidence
 | Psychiatric |  | Cardiovascular |  |
 | Anxiety | 19.2 | Tachycardia | 12.2 |
 | Fatigue and Tiredness | 18.4 | Special Senses |  |
-| Irritability | 10.5 | Blurred Vision | 10 |
+| Irritability | 10.5 | Blurred Vision | 10.0 |
 | Cognitive Disorder | 10.3 |  |  |
 | Memory Impairment | 5.5 |  |  |
 | Depression | 5.1 |  |  |
-| Confusional State | 5 |  |  |
+| Confusional State | 5.0 |  |  |
 
 From the studies cited, it has not been determined whether these symptoms are clearly related to the dose and duration of therapy with alprazolam in patients with panic disorder.
 There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of alprazolam (see WARNINGS).
@@ -181,4 +181,4 @@ Post Introduction Reports
 Various adverse drug reactions have been reported in association with the use of alprazolam since market introduction.
 The majority of these reactions were reported through the medical event voluntary reporting system.
 Because of the spontaneous nature of the reporting of medical events and the lack of controls, a causal relationship to the use of alprazolam cannot be readily determined.
-Reported events include: liver enzyme elevations, hepatitis, hepatic failure, Stevens-Johnson syndrome, hyperprolactinemia, gynecomastia, and galactorrhea.
+Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations, hepatitis, hepatic failure, Stevens-Johnson syndrome, angioedema, peripheral edema, hyperprolactinemia, gynecomastia, and galactorrhea (see PRECAUTIONS).

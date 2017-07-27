@@ -12,3 +12,5 @@ Store at 20° to 25°C (68° to 77°F).
 PROTECT FROM LIGHT.
 
 Discard opened bottle after 90 days.
+
+Rx only

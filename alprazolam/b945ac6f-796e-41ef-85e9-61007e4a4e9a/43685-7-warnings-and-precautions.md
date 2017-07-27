@@ -1,10 +1,23 @@
 # WARNINGS
 
+Risks from Concomitant Use with Opioids
+
+Concomitant use of benzodiazepines, including alprazolam, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioids analgesics and benzodiazepines increases the risks of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe alprazolam concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of alprazolam than indicated in the absence of an opioid and titrate based on clinical response.
+If an opioid is initiated in a patient already taking alprazolam, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when alprazolam is used with opioids.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with opioids have been determined [see Drug Interactions].
+
 Dependence and Withdrawal Reactions, Including Seizures
 
 Certain adverse clinical events, some life-threatening, are a direct consequence of physical dependence to alprazolam.
 These include a spectrum of withdrawal symptoms; the most important is seizure (see DRUG ABUSE AND DEPENDENCE).
-Even after relatively short-term use at the doses recommended for the treatment of transient anxiety and anxiety disorder (i.e., 0.75 to 4 mg per day), there is some risk of dependence.
+Even after relatively short-term use at the doses recommended for the treatment of transient anxiety and anxiety disorder (i.e., 0.75 to 4.0 mg per day), there is some risk of dependence.
 Spontaneous reporting system data suggest that the risk of dependence and its severity appear to be greater in patients treated with doses greater than 4 mg/day and for long periods (more than 12 weeks).
 However, in a controlled postmarketing discontinuation study of panic disorder patients, the duration of treatment (3 months compared to 6 months) had no effect on the ability of patients to taper to zero dose.
 In contrast, patients treated with doses of alprazolam greater than 4 mg/day had more difficulty tapering to zero dose than those treated with less than 4 mg/day.
@@ -24,7 +37,7 @@ Other symptoms, such as anxiety and insomnia, were frequently seen during discon
 In two controlled trials of 6 to 8 weeks duration where the ability of patients to discontinue medication was measured, 71% to 93% of patients treated with alprazolam tapered completely off therapy compared to 89% to 96% of placebo-treated patients.
 In a controlled postmarketing discontinuation study of panic disorder patients, the duration of treatment (3 months compared to 6 months) had no effect on the ability of patients to taper to zero dose.
 
-Seizures attributable to alprazolam were seen after drug discontinuance or dose reduction in 8 of 1980 patients with panic disorder or in patients participating in clinical trials where doses of alprazolam greater than 4 mg/day for over 3 months were permitted.
+Seizures attributable to alprazolam were seen after drug discontinuance or dose reduction in 8 of 1,980 patients with panic disorder or in patients participating in clinical trials where doses of alprazolam greater than 4 mg/day for over 3 months were permitted.
 Five of these cases clearly occurred during abrupt dose reduction, or discontinuation from daily doses of 2 to 10 mg.
 Three cases occurred in situations where there was not a clear relationship to abrupt dose reduction or discontinuation.
 In one instance, seizure occurred after discontinuation from a single dose of 1 mg after tapering at a rate of 1 mg every 3 days from 6 mg daily.
@@ -77,7 +90,7 @@ The following are examples of drugs known to inhibit the metabolism of alprazola
 
 Potent CYP3A Inhibitors
 
-Azole Antifungal Agents: Ketoconazole and itraconazole are potent CYP3A inhibitors and have been shown in vivo to increase plasma alprazolam concentrations 3.98 fold and 2.7 fold, respectively.
+Azole Antifungal Agents: Ketoconazole and itraconazole are potent CYP3A inhibitors and have been shown in vivo to increase plasma alprazolam concentrations 3.98 fold and 2.70 fold, respectively.
 The coadministration of alprazolam with these agents is not recommended.
 Other azole-type antifungal agents should also be considered potent CYP3A inhibitors and the coadministration of alprazolam with them is not recommended (see CONTRAINDICATIONS).
 
@@ -124,15 +137,17 @@ For All Users of Alprazolam
 
 To assure safe and effective use of benzodiazepines, all patients prescribed alprazolam should be provided with the following guidance.
 
-1. 1.Inform your physician about any alcohol consumption and medicine you are taking now, including medication you may buy without a prescription.
+1. 1.Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when alprazolam is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
+2. 2.Advise patients not to drive or operate heavy machinery until the effects of concomitant use with opioids have been determined [see Drug Interactions].
+3. 3.Inform your physician about any alcohol consumption and medicine you are taking now, including medication you may buy without a prescription.
    Alcohol should generally not be used during treatment with benzodiazepines.
-2. 2.Not recommended for use in pregnancy.
+4. 4.Not recommended for use in pregnancy.
    Therefore, inform your physician if you are pregnant, if you are planning to have a child, or if you become pregnant while you are taking this medication.
-3. 3.Inform your physician if you are nursing.
-4. 4.Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery, etc.
-5. 5.Do not increase the dose even if you think the medication "does not work anymore" without consulting your physician.
+5. 5.Inform your physician if you are nursing.
+6. 6.Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery, etc.
+7. 7.Do not increase the dose even if you think the medication "does not work anymore" without consulting your physician.
    Benzodiazepines, even when used as recommended, may produce emotional and/or physical dependence.
-6. 6.Do not stop taking this medication abruptly or decrease the dose without consulting your physician, since withdrawal symptoms can occur.
+8. 8.Do not stop taking this medication abruptly or decrease the dose without consulting your physician, since withdrawal symptoms can occur.
 
 Additional Advice for Panic Disorder Patients
 
@@ -151,21 +166,28 @@ Laboratory Tests
 Laboratory tests are not ordinarily required in otherwise healthy patients.
 However, when treatment is protracted, periodic blood counts, urinalysis, and blood chemistry analyses are advisable in keeping with good medical practice.
 
-Drug Interactions
+DrugInteractions
+
+Use with Opioids
+
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
 
 Use with Other CNS Depressants
 
 If alprazolam is to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed, particularly with compounds which might potentiate the action of benzodiazepines.
-The benzodiazepines, including alprazolam, produce additive CNS depressant effects when co-administered with other psychotropic medications, anticonvulsants, antihistaminics, ethanol and other drugs which themselves produce CNS depression.
+The benzodiazepines, including alprazolam, produce additive CNS depressant effects when coadministered with other psychotropic medications, anticonvulsants, antihistaminics, ethanol and other drugs which themselves produce CNS depression.
 
 Use with Imipramine and Desipramine
 
 The steady state plasma concentrations of imipramine and desipramine have been reported to be increased an average of 31% and 20%, respectively, by the concomitant administration of alprazolam in doses up to 4 mg/day.
 The clinical significance of these changes is unknown.
 
-Drugs that Inhibit Alprazolam Metabolism via Cytochrome P4503A
+Drugs that Inhibit Alprazolam Metabolism via Cytochrome P450 3A
 
-The initial step in alprazolam metabolism is hydroxylation catalyzed by cytochrome P4503A (CYP3A).
+The initial step in alprazolam metabolism is hydroxylation catalyzed by cytochrome P450 3A (CYP3A).
 Drugs which inhibit this metabolic pathway may have a profound effect on the clearance of alprazolam (see CONTRAINDICATIONS and WARNINGS for additional drugs of this type).
 
 Drugs Demonstrated to be CYP3A Inhibitors of Possible Clinical Significance on the Basis of Clinical Studies Involving Alprazolam (Caution is Recommended During Coadministration with Alprazolam)
@@ -176,7 +198,7 @@ Propoxyphene: Coadministration of propoxyphene decreased the maximum plasma conc
 
 Oral Contraceptives: Coadministration of oral contraceptives increased the maximum plasma concentration of alprazolam by 18%, decreased clearance by 22%, and increased half-life by 29%.
 
-Drugs and Other Substances Demonstrated to be CYP3A Inhibitors on the Basis of Clinical Studies Involving Benzodiazepines Metabolized Similarly to Alprazolam or on the Basis of In Vitro Studies with Alprazolam or Other Benzodiazepines (Caution is Recommended During Coadministration with Alprazolam)
+Drugs and Other Substances Demonstrated to be CYP 3A Inhibitors on the Basis of Clinical Studies Involving Benzodiazepines Metabolized Similarly to Alprazolam or on the Basis of In Vitro Studies with Alprazolam or Other Benzodiazepines (Caution is Recommended During Coadministration with Alprazolam)
 
 Available data from clinical studies of benzodiazepines other than alprazolam suggest a possible drug interaction with alprazolam for the following: diltiazem, isoniazid, macrolide antibiotics such as erythromycin and clarithromycin, and grapefruit juice.
 Data from in vitro studies of alprazolam suggest a possible drug interaction with alprazolam for the following: sertraline and paroxetine.
