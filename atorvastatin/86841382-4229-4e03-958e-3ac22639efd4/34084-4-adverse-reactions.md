@@ -18,7 +18,7 @@ The most commonly reported adverse reactions (incidence ≥ 2% and greater than 
 Table 2 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n = 8755), from seventeen placebo-controlled trials.
 
 Table 2.
-Clinical Adverse Reactions Occurring in ≥ 2% in Patients Treated With any Dose of Atorvastatin and at an Incidence Greater Than Placebo Regardless of Causality (% of Patients).
+Clinical Adverse Reactions Occurring in ≥ 2% in Patients Treated With any Dose of Atorvastatin Calcium and at an Incidence Greater Than Placebo Regardless of Causality (% of Patients).
 
 | Adverse ReactionAdverse Reaction ≥ 2% in any dose greater than placebo | Any doseN = 8755 | 10 mg N = 3908 | 20 mg N = 188 | 40 mg N = 604 | 80 mg N = 4055 | Placebo N = 7311 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -78,7 +78,7 @@ The proportions of subjects who experienced non-cardiovascular death were numeri
 The following adverse reactions have been identified during postapproval use of atorvastatin calcium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions associated with atorvastatin calcium therapy reported since market introduction, that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, myositis, fatigue, tendon rupture, fatal and non-fatal hepatic failure, dizziness, depression, peripheral neuropathy, and pancreatitis.
+Adverse reactions associated with atorvastatin calcium therapy reported since market introduction, that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, myositis, fatigue, tendon rupture, fatal and non-fatal hepatic failure, dizziness, depression, peripheral neuropathy, pancreatitis and interstitial lung disease.
 
 There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
 

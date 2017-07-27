@@ -1,10 +1,10 @@
 # 4 CONTRAINDICATIONS
 
-## 4.1 Active Liver Disease, Which may Include Unexplained Persistent Elevations in Hepatic Transaminase Levels
+## 4.1 Active Liver Disease, Which May Include Unexplained Persistent Elevations in Hepatic Transaminase Levels
 
 .
 
-## 4.2 Hypersensitivity to any Component of This Medication
+## 4.2 Hypersensitivity to Any Component of This Medication
 
 .
 

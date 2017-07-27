@@ -122,9 +122,9 @@ Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomized, Acti
 | Treatment(Daily Dose) | N | Total-C | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study 1 |  |  |  |  |  |  |  |
-| Atorvastatin 10 mg Lovastatin 20 mg 95% CI for DiffA negative value for the 95% CI for the difference between treatments favors atorvastatin calcium for all except HDL-C, for which a positive value favors atorvastatin calcium. If the range does not include 0, this indicates a statistically significant difference. | 707191 | -27Significantly different from lovastatin, ANCOVA, p ≤ 0.05-19-9.2, -6.5 | -36-27-10.7, -7.1 | -28-20-10.0, -6.5 | -17 -6-15.2, -7.1 | +7+7-1.7, 2.0 | -37-28-11.1, -7.1 |
+| Atorvastatin 10 mg Lovastatin 20 mg 95% CI for DiffA negative value for the 95% CI for the difference between treatments favors atorvastatin calcium for all except HDL-C, for which a positive value favors atorvastatin calcium. If the range does not include 0, this indicates a statistically significant difference. | 707191 | -27Significantly different from lovastatin, ANCOVA, p ≤ 0.05-19-9.2, -6.5 | -36-27-10.7, -7.1 | -28-20-10.0, -6.5 | -17-6-15.2, -7.1 | +7+7-1.7, 2.0 | -37-28-11.1, -7.1 |
 | Study 2 |  |  |  |  |  |  |  |
-| Atorvastatin 10 mgPravastatin 20 mg95% CI for Diff | 22277 | -25Significantly different from pravastatin, ANCOVA, p ≤ 0.05-17-10.8, -6.1 | -35-23-14.5, -8.2 | -27-17-13.4, -7.4 | -17 -9-14.1, -0.7 | +6+8-4.9, 1.6 | -36-28-11.5, -4.1 |
+| Atorvastatin 10 mgPravastatin 20 mg95% CI for Diff | 22277 | -25Significantly different from pravastatin, ANCOVA, p ≤ 0.05-17-10.8, -6.1 | -35-23-14.5, -8.2 | -27-17-13.4, -7.4 | -17-9-14.1, -0.7 | +6+8-4.9, 1.6 | -36-28-11.5, -4.1 |
 | Study 3 |  |  |  |  |  |  |  |
 | Atorvastatin 10 mg Simvastatin 10 mg 95% CI for Diff | 13245 | -29Significantly different from simvastatin, ANCOVA, p ≤ 0.05-24-8.7, -2.7 | -37-30-10.1, -2.6 | -34-30-8.0, -1.1 | -23-15-15.1, -0.7 | +7+7-4.3, 3.9 | -39-33-9.6, -1.9 |
 
