@@ -1,4 +1,4 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -6,7 +6,7 @@ Carcinogenesis
 
 Carcinogenicity studies were conducted in Swiss albino mice and Wistar rats.
 Risperidone was administered in the diet at doses of 0.63 mg/kg, 2.5 mg/kg, and 10 mg/kg for 18 months to mice and for 25 months to rats.
-These doses are equivalent to approximately 2, 9, and 38 times the maximum recommended human dose (MRHD) for schizophrenia (16 mg/day) on a mg/kg basis or 0.2, 0.75, and 3 times the MRHD (mice) or 0.4, 1.5, and 6 times the MRHD (rats) on a mg/m2 body surface basis.
+These doses are equivalent to approximately 2, 9, and 38 times the maximum recommended human dose (MRHD) for schizophrenia of 16 mg/day on a mg/kg basis or 0.2, 0.75, and 3 times the MRHD (mice) or 0.4, 1.5, and 6 times the MRHD (rats) on a mg/m2 body surface basis.
 A maximum tolerated dose was not achieved in male mice.
 There were statistically significant increases in pituitary gland adenomas, endocrine pancreas adenomas, and mammary gland adenocarcinomas.
 The table below summarizes the multiples of the human dose on a mg/m2 (mg/kg) basis at which these tumors occurred.
@@ -22,7 +22,7 @@ The table below summarizes the multiples of the human dose on a mg/m2 (mg/kg) ba
 | Mammary gland neoplasm, Total | rat | male | 1.5 (9.4) | 0.4 (2.4) |
 
 Antipsychotic drugs have been shown to chronically elevate prolactin levels in rodents.
-Serum prolactin levels were not measured during the risperidone carcinogenicity studies; however, measurements during subchronic toxicity studies showed that risperidone elevated serum prolactin levels 5-6 fold in mice and rats at the same doses used in the carcinogenicity studies.
+Serum prolactin levels were not measured during the risperidone carcinogenicity studies; however, measurements during subchronic toxicity studies showed that risperidone elevated serum prolactin levels 5 to 6 fold in mice and rats at the same doses used in the carcinogenicity studies.
 An increase in mammary, pituitary, and endocrine pancreas neoplasms has been found in rodents after chronic administration of other antipsychotic drugs and is considered to be prolactin-mediated.
 The relevance for human risk of the findings of prolactin-mediated endocrine tumors in rodents is unknown [see Warnings and Precautions (5.6)].
 

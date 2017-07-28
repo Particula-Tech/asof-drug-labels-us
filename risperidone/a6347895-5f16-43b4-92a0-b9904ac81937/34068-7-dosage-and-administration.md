@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Table 1.
 Recommended Daily Dosage by Indication
@@ -20,7 +20,7 @@ Adults
 
 Usual Initial Dose
 
-Risperidone tablets can be administered once or twice daily.
+Risperidone Tablets can be administered once or twice daily.
 Initial dosing is 2 mg per day.
 May increase the dose at intervals of 24 hours or greater, in increments of 1 to 2 mg per day, as tolerated, to a recommended dose of 4 to 8 mg per day.
 In some patients, slower titration may be appropriate.
@@ -40,17 +40,17 @@ Patients experiencing persistent somnolence may benefit from administering half 
 
 Maintenance Therapy
 
-While it is unknown how long a patient with schizophrenia should remain on risperidone tablets, the effectiveness of risperidone tablets 2 mg per day to 8 mg per day at delaying relapse was demonstrated in a controlled trial in adult patients who had been clinically stable for at least 4 weeks and were then followed for a period of 1 to 2 years [see Clinical Studies (14.1)].
+While it is unknown how long a patient with schizophrenia should remain on Risperidone Tablets, the effectiveness of Risperidone Tablets 2 mg per day to 8 mg per day at delaying relapse was demonstrated in a controlled trial in adult patients who had been clinically stable for at least 4 weeks and were then followed for a period of 1 to 2 years [see Clinical Studies (14.1)].
 Both adult and adolescent patients who respond acutely should generally be maintained on their effective dose beyond the acute episode.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
 Reinitiation of Treatment in Patients Previously Discontinued
 
-Although there are no data to specifically address reinitiation of treatment, it is recommended that after an interval off risperidone tablets, the initial titration schedule should be followed.
+Although there are no data to specifically address reinitiation of treatment, it is recommended that after an interval off Risperidone Tablets, the initial titration schedule should be followed.
 
 Switching From Other Antipsychotics
 
-There are no systematically collected data to specifically address switching schizophrenic patients from other antipsychotics to risperidone tablets, or treating patients with concomitant antipsychotics.
+There are no systematically collected data to specifically address switching schizophrenic patients from other antipsychotics to Risperidone Tablets, or treating patients with concomitant antipsychotics.
 
 ## 2.2 Bipolar Mania
 
@@ -62,7 +62,7 @@ The initial dose range is 2 mg to 3 mg per day.
 The dose may be adjusted at intervals of 24 hours or greater, in increments of 1 mg per day.
 The effective dose range is 1 mg to 6 mg per day, as studied in the short-term, placebo-controlled trials.
 In these trials, short-term (3 week) anti-manic efficacy was demonstrated in a flexible dosage range of 1 mg to 6 mg per day [see Clinical Studies (14.2, 14.3)].
-Risperidone tablet doses higher than 6 mg per day were not studied.
+Risperidone Tablet doses higher than 6 mg per day were not studied.
 
 Pediatrics
 
@@ -75,14 +75,14 @@ Patients experiencing persistent somnolence may benefit from administering half 
 
 Maintenance Therapy
 
-There is no body of evidence available from controlled trials to guide a clinician in the longer-term management of a patient who improves during treatment of an acute manic episode with risperidone tablets.
-While it is generally agreed that pharmacological treatment beyond an acute response in mania is desirable, both for maintenance of the initial response and for prevention of new manic episodes, there are no systematically obtained data to support the use of risperidone tablets in such longer-term treatment (i.e., beyond 3 weeks).
-The physician who elects to use risperidone tablets for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
+There is no body of evidence available from controlled trials to guide a clinician in the longer-term management of a patient who improves during treatment of an acute manic episode with Risperidone Tablets.
+While it is generally agreed that pharmacological treatment beyond an acute response in mania is desirable, both for maintenance of the initial response and for prevention of new manic episodes, there are no systematically obtained data to support the use of Risperidone Tablets in such longer-term treatment (i.e., beyond 3 weeks).
+The physician who elects to use Risperidone Tablets for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
 
 ## 2.3 Irritability Associated with Autistic Disorder – Pediatrics (Children and Adolescents)
 
-The dosage of risperidone tablets should be individualized according to the response and tolerability of the patient.
-The total daily dose of risperidone tablets can be administered once daily, or half the total daily dose can be administered twice daily.
+The dosage of Risperidone Tablets should be individualized according to the response and tolerability of the patient.
+The total daily dose of Risperidone Tablets can be administered once daily, or half the total daily dose can be administered twice daily.
 
 For patients with body weight less than 20 kg, initiate dosing at 0.25 mg per day.
 For patients with body weight greater than or equal to 20 kg, initiate dosing at 0.5 mg per day.
@@ -93,23 +93,23 @@ The effective dose range is 0.5 mg to 3 mg per day.
 No dosing data are available for children who weigh less than 15 kg.
 
 Once sufficient clinical response has been achieved and maintained, consider gradually lowering the dose to achieve the optimal balance of efficacy and safety.
-The physician who elects to use risperidone tablets for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
+The physician who elects to use Risperidone Tablets for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
 
 Patients experiencing persistent somnolence may benefit from a once-daily dose administered at bedtime or administering half the daily dose twice daily, or a reduction of the dose.
 
 ## 2.4 Dosing in Patients with Severe Renal or Hepatic Impairment
 
-For patients with severe renal impairment (CLcr < 30 mL/min) or hepatic impairment (10-15 points on Child Pugh System), the initial starting dose is 0.5 mg twice daily.
+For patients with severe renal impairment (CLcr < 30 mL/min) or hepatic impairment (10 to 15 points on Child Pugh System), the initial starting dose is 0.5 mg twice daily.
 The dose may be increased in increments of 0.5 mg or less, administered twice daily.
-For doses above 1.5 mg twice daily, increase in intervals of one week or greater [see Use in Specific Populations (8.6 and8.7)].
+For doses above 1.5 mg twice daily, increase in intervals of one week or greater [see Use in Specific Populations (8.6 and 8.7)].
 
 ## 2.5 Dose Adjustments for Specific Drug Interactions
 
-When risperidone tablets are co-administered with enzyme inducers (e.g., carbamazepine), the dose of risperidone tablets should be increased up to double the patient's usual dose.
-It may be necessary to decrease the risperidone tablets dose when enzyme inducers such as carbamazepine are discontinued [see Drug Interactions (7.1)].
-Similar effect may be expected with co-administration of risperidone tablets with other enzyme inducers (e.g., phenytoin, rifampin, and phenobarbital).
+When Risperidone Tablets are co-administered with enzyme inducers (e.g., carbamazepine), the dose of Risperidone Tablets should be increased up to double the patient's usual dose.
+It may be necessary to decrease the Risperidone Tablets dose when enzyme inducers such as carbamazepine are discontinued [see Drug Interactions (7.1)].
+Similar effect may be expected with co-administration of Risperidone Tablets with other enzyme inducers (e.g., phenytoin, rifampin, and phenobarbital).
 
-When fluoxetine or paroxetine is co-administered with risperidone tablets, the dose of risperidone tablets should be reduced.
-The risperidone tablets dose should not exceed 8 mg per day in adults when co-administered with these drugs.
-When initiating therapy, risperidone tablets should be titrated slowly.
-It may be necessary to increase the risperidone tablets dose when enzyme inhibitors such as fluoxetine or paroxetine are discontinued [see Drug Interactions (7.1)].
+When fluoxetine or paroxetine is co-administered with Risperidone Tablets, the dose of Risperidone Tablets should be reduced.
+The Risperidone Tablets dose should not exceed 8 mg per day in adults when co-administered with these drugs.
+When initiating therapy, Risperidone Tablets should be titrated slowly.
+It may be necessary to increase the Risperidone Tablets dose when enzyme inhibitors such as fluoxetine or paroxetine are discontinued [see Drug Interactions (7.1)].

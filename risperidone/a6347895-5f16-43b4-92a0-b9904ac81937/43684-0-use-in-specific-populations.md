@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -6,10 +6,10 @@ Pregnancy Category C
 
 Risk Summary
 
-Adequate and well controlled studies with risperidone have not been conducted in pregnant women.
-Neonates exposed to antipsychotic drugs (including risperidone) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
-There was no increase in the incidence of malformations in embryo-fetal studies in rats and rabbits at 0.4–6 times MHRD.
-Increased pup mortality was noted at all doses in peripostnatal studies in rats.
+Adequate and well controlled studies with Risperidone have not been conducted in pregnant women.
+Neonates exposed to antipsychotic drugs (including Risperidone) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There was no increase in the incidence of malformations in embryo-fetal studies in rats and rabbits at 0.4 to 6 times MHRD.
+Increased pup mortality was noted at all doses in peri-postnatal studies in rats.
 Risperidone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Clinical Considerations
@@ -26,14 +26,14 @@ Human Data
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in neonates following in utero exposure to antipsychotics in the third trimester.
 These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
-There was one report of a case of agenesis of the corpus callosum in an infant exposed to risperidone in utero.
-The causal relationship to risperidone therapy is unknown
+There was one report of a case of agenesis of the corpus callosum in an infant exposed to Risperidone in utero.
+The causal relationship to Risperidone therapy is unknown
 
 Animal Data
 
-The teratogenic potential of risperidone was studied in three Segment II studies in Sprague- Dawley and Wistar rats (0.63-10 mg/kg or 0.4 to 6 times the maximum recommended human dose [MRHD] on a mg/m2 body surface area basis) and in one Segment II study in New Zealand rabbits (0.31-5 mg/kg or 0.4 to 6 times the MRHD on a mg/m2 body surface area basis).
+The teratogenic potential of risperidone was studied in three Segment II studies in Sprague- Dawley and Wistar rats (0.63 to 10 mg/kg or 0.4 to 6 times the maximum recommended human dose [MRHD] on a mg/m2 body surface area basis) and in one Segment II study in New Zealand rabbits (0.31 to 5 mg/kg or 0.4 to 6 times the MRHD on a mg/m2 body surface area basis).
 There were no teratogenic effects in offspring of rats or rabbits given 0.4 to 6 times the MRHD on a mg/m2 body surface area basis.
-In three reproductive studies in rats (two Segment III and a multigenerational study), there was an increase in pup deaths during the first 4 days of lactation at doses of 0.16-5 mg/kg or 0.1 to 3 times the MRHD on a mg/m2 body surface area basis.
+In three reproductive studies in rats (two Segment III and a multigenerational study), there was an increase in pup deaths during the first 4 days of lactation at doses of 0.16 to 5 mg/kg or 0.1 to 3 times the MRHD on a mg/m2 body surface area basis.
 It is not known whether these deaths were due to a direct effect on the fetuses or pups or to effects on the dams.
 
 There was no no-effect dose for increased rat pup mortality.
@@ -47,7 +47,7 @@ Placental transfer of risperidone occurs in rat pups.
 
 ## 8.2 Labor and Delivery
 
-The effect of risperidone on labor and delivery in humans is unknown.
+The effect of Risperidone on labor and delivery in humans is unknown.
 
 ## 8.3 Nursing Mothers
 
@@ -60,21 +60,21 @@ Approved Pediatric Indications
 
 Schizophrenia
 
-The efficacy and safety of risperidone in the treatment of schizophrenia were demonstrated in 417 adolescents, aged 13 – 17 years, in two short-term (6 and 8 weeks, respectively) double-blind controlled trials [see Indications and Usage (1.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].
+The efficacy and safety of Risperidone in the treatment of schizophrenia were demonstrated in 417 adolescents, aged 13 to 17 years, in two short-term (6 and 8 weeks, respectively) double-blind controlled trials [see Indications and Usage (1.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].
 Additional safety and efficacy information was also assessed in one long-term (6-month) open-label extension study in 284 of these adolescent patients with schizophrenia.
 
-Safety and effectiveness of risperidone in children less than 13 years of age with schizophrenia have not been established.
+Safety and effectiveness of Risperidone in children less than 13 years of age with schizophrenia have not been established.
 
 Bipolar I Disorder
 
-The efficacy and safety of risperidone in the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder in 169 children and adolescent patients, aged 10 – 17 years, were demonstrated in one double-blind, placebo-controlled, 3-week trial [see Indications and Usage (1.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+The efficacy and safety of Risperidone in the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder in 169 children and adolescent patients, aged 10 to 17 years, were demonstrated in one double-blind, placebo-controlled, 3-week trial [see Indications and Usage (1.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
-Safety and effectiveness of risperidone in children less than 10 years of age with bipolar disorder have not been established.
+Safety and effectiveness of Risperidone in children less than 10 years of age with bipolar disorder have not been established.
 
 Autistic Disorder
 
-The efficacy and safety of risperidone in the treatment of irritability associated with autistic disorder were established in two 8-week, double-blind, placebo-controlled trials in 156 children and adolescent patients, aged 5 to 16 years [see Indications and Usage (1.3), Adverse Reactions (6.1) and Clinical Studies (14.4)].
-Additional safety information was also assessed in a long-term study in patients with autistic disorder, or in short- and long-term studies in more than 1200 pediatric patients with psychiatric disorders other than autistic disorder, schizophrenia, or bipolar mania who were of similar age and weight, and who received similar dosages of risperidone as patients treated for irritability associated with autistic disorder.
+The efficacy and safety of Risperidone in the treatment of irritability associated with autistic disorder were established in two 8-week, double-blind, placebo-controlled trials in 156 children and adolescent patients, aged 5 to 16 years [see Indications and Usage (1.3), Adverse Reactions (6.1) and Clinical Studies (14.4)].
+Additional safety information was also assessed in a long-term study in patients with autistic disorder, or in short- and long-term studies in more than 1200 pediatric patients with psychiatric disorders other than autistic disorder, schizophrenia, or bipolar mania who were of similar age and weight, and who received similar dosages of Risperidone as patients treated for irritability associated with autistic disorder.
 
 A third study was a 6-week, multicenter, randomized, double-blind, placebo-controlled, fixed-dose study to evaluate the efficacy and safety of a lower than recommended dose of risperidone in subjects 5 to 17 years of age with autistic disorder and associated irritability, and related behavioral symptoms.
 There were two weight-based, fixed doses of risperidone (high-dose and low-dose).
@@ -86,16 +86,16 @@ Adverse Reactions in Pediatric Patients
 
 Tardive Dyskinesia
 
-In clinical trials in 1885 children and adolescents treated with risperidone, 2 (0.1%) patients were reported to have tardive dyskinesia, which resolved on discontinuation of risperidone treatment [see also Warnings and Precautions (5.4)].
+In clinical trials in 1885 children and adolescents treated with Risperidone, 2 (0.1%) patients were reported to have tardive dyskinesia, which resolved on discontinuation of Risperidone treatment [see also Warnings and Precautions (5.4)].
 
 Weight Gain
 
-Weight gain has been observed in children and adolescents during treatment with risperidone.
+Weight gain has been observed in children and adolescents during treatment with Risperidone.
 Clinical monitoring of weight is recommended during treatment.
 
 Data derive from short-term placebo-controlled trials and longer-term uncontrolled studies in pediatric patients (ages 5 to 17 years) with schizophrenia, bipolar disorder, autistic disorder, or other psychiatric disorders.
-In the short-term trials (3 to 8 weeks), the mean weight gain for risperidone-treated patients was 2 kg, compared to 0.6 kg for placebo-treated patients.
-In these trials, approximately 33% of the risperidone group had weight gain ≥7%, compared to 7% in the placebo group.
+In the short-term trials (3 to 8 weeks), the mean weight gain for Risperidone-treated patients was 2 kg, compared to 0.6 kg for placebo-treated patients.
+In these trials, approximately 33% of the Risperidone group had weight gain ≥7%, compared to 7% in the placebo group.
 In longer-term, uncontrolled, open-label pediatric studies, the mean weight gain was 5.5 kg at Week 24 and 8 kg at Week 48 [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
 
 Somnolence
@@ -111,15 +111,15 @@ Patients experiencing persistent somnolence may benefit from a change in dosing 
 Hyperprolactinemia
 
 Risperidone has been shown to elevate prolactin levels in children and adolescents as well as in adults [see Warnings and Precautions (5.6)].
-In double-blind, placebo-controlled studies of up to 8 weeks duration in children and adolescents (aged 5 to 17 years) with autistic disorder or psychiatric disorders other than autistic disorder, schizophrenia, or bipolar mania, 49% of patients who received risperidone had elevated prolactin levels compared to 2% of patients who received placebo.
-Similarly, in placebo-controlled trials in children and adolescents (aged 10 to 17 years) with bipolar disorder, or adolescents (aged 13 to 17 years) with schizophrenia, 82–87% of patients who received risperidone had elevated levels of prolactin compared to 3-7% of patients on placebo.
+In double-blind, placebo-controlled studies of up to 8 weeks duration in children and adolescents (aged 5 to 17 years) with autistic disorder or psychiatric disorders other than autistic disorder, schizophrenia, or bipolar mania, 49% of patients who received Risperidone had elevated prolactin levels compared to 2% of patients who received placebo.
+Similarly, in placebo-controlled trials in children and adolescents (aged 10 to 17 years) with bipolar disorder, or adolescents (aged 13 to 17 years) with schizophrenia, 82 to 87% of patients who received Risperidone had elevated levels of prolactin compared to 3 to 7% of patients on placebo.
 Increases were dose-dependent and generally greater in females than in males across indications.
 
-In clinical trials in 1885 children and adolescents, galactorrhea was reported in 0.8% of risperidone-treated patients and gynecomastia was reported in 2.3% of risperidone-treated patients.
+In clinical trials in 1885 children and adolescents, galactorrhea was reported in 0.8% of Risperidone-treated patients and gynecomastia was reported in 2.3% of Risperidone-treated patients.
 
 Growth and Sexual Maturation
 
-The long-term effects of risperidone on growth and sexual maturation have not been fully evaluated in children and adolescents.
+The long-term effects of Risperidone on growth and sexual maturation have not been fully evaluated in children and adolescents.
 
 Juvenile Animal Studies
 
@@ -136,7 +136,7 @@ This dose produced plasma levels (AUC) of risperidone plus paliperidone which we
 
 ## 8.5 Geriatric Use
 
-Clinical studies of risperidone in the treatment of schizophrenia did not include sufficient numbers of patients aged 65 and over to determine whether or not they respond differently than younger patients.
+Clinical studies of Risperidone in the treatment of schizophrenia did not include sufficient numbers of patients aged 65 and over to determine whether or not they respond differently than younger patients.
 Other reported clinical experience has not identified differences in responses between elderly and younger patients.
 In general, a lower starting dose is recommended for an elderly patient, reflecting a decreased pharmacokinetic clearance in the elderly, as well as a greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3) and Dosage and Administration (2.4, 2.5)].
 While elderly patients exhibit a greater tendency to orthostatic hypotension, its risk in the elderly may be minimized by limiting the initial dose to 0.5 mg twice daily followed by careful titration [see Warnings and Precautions (5.7)].
@@ -157,5 +157,5 @@ Risperidone doses should be reduced in patients with liver disease [see Dosage a
 
 ## 8.8 Patients with Parkinson’s Disease or Lewy Body Dementia
 
-Patients with Parkinson's Disease or Dementia with Lewy Bodies can experience increased sensitivity to risperidone.
+Patients with Parkinson's Disease or Dementia with Lewy Bodies can experience increased sensitivity to Risperidone.
 Manifestations can include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with neuroleptic malignant syndrome.

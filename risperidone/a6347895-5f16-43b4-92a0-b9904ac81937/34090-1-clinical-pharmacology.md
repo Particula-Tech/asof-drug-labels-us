@@ -1,11 +1,11 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of risperidone, in schizophrenia, is unknown.
+The mechanism of action of Risperidone, in schizophrenia, is unknown.
 However, it has been proposed that the drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D2) and serotonin Type 2 (5HT2) receptor antagonism.
-The clinical effect from risperidone results from the combined concentrations of risperidone and its major metabolite, 9-hydroxyrisperidone [see Clinical Pharmacology (12.3)].
-Antagonism at receptors other than D2 and 5HT2 [see Clinical Pharmacology (12.1)] may explain some of the other effects of risperidone.
+The clinical effect from Risperidone results from the combined concentrations of risperidone and its major metabolite, 9-hydroxyrisperidone [see Clinical Pharmacology (12.3)].
+Antagonism at receptors other than D2 and 5HT2 [see Clinical Pharmacology (12.1)] may explain some of the other effects of Risperidone.
 
 ## 12.2 Pharmacodynamics
 
@@ -27,17 +27,17 @@ Plasma concentrations of risperidone, its major metabolite, 9-hydroxyrisperidone
 Following oral administration of solution or tablet, mean peak plasma concentrations of risperidone occurred at about 1 hour.
 Peak concentrations of 9-hydroxyrisperidone occurred at about 3 hours in extensive metabolizers, and 17 hours in poor metabolizers.
 Steady-state concentrations of risperidone are reached in 1 day in extensive metabolizers and would be expected to reach steady-state in about 5 days in poor metabolizers.
-Steady-state concentrations of 9-hydroxyrisperidone are reached in 5-6 days (measured in extensive metabolizers).
+Steady-state concentrations of 9-hydroxyrisperidone are reached in 5 to 6 days (measured in extensive metabolizers).
 
 Food Effect
 
 Food does not affect either the rate or extent of absorption of risperidone.
-Thus, risperidone can be given with or without meals.
+Thus, Risperidone can be given with or without meals.
 
 Distribution
 
 Risperidone is rapidly distributed.
-The volume of distribution is 1-2 L/kg.
+The volume of distribution is 1 to 2 L/kg.
 In plasma, risperidone is bound to albumin and α1-acid glycoprotein.
 The plasma protein binding of risperidone is 90%, and that of its major metabolite, 9-hydroxyrisperidone, is 77%.
 Neither risperidone nor 9-hydroxyrisperidone displaces each other from plasma binding sites.
@@ -59,14 +59,14 @@ Although extensive metabolizers have lower risperidone and higher 9-hydroxyrispe
 Risperidone could be subject to two kinds of drug-drug interactions.
 First, inhibitors of CYP 2D6 interfere with conversion of risperidone to 9-hydroxyrisperidone [see Drug Interactions (7)].
 This occurs with quinidine, giving essentially all recipients a risperidone pharmacokinetic profile typical of poor metabolizers.
-The therapeutic benefits and adverse effects of risperidone in patients receiving quinidine have not been evaluated, but observations in a modest number (n≅70) of poor metabolizers given risperidone do not suggest important differences between poor and extensive metabolizers.
-Second, co-administration of known enzyme inducers (e.g., carbamazepine, phenytoin, rifampin, and phenobarbital) with risperidone may cause a decrease in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone [see Drug Interactions (7)].
+The therapeutic benefits and adverse effects of risperidone in patients receiving quinidine have not been evaluated, but observations in a modest number (n≅70) of poor metabolizers given Risperidone do not suggest important differences between poor and extensive metabolizers.
+Second, co-administration of known enzyme inducers (e.g., carbamazepine, phenytoin, rifampin, and phenobarbital) with Risperidone may cause a decrease in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone [see Drug Interactions (7)].
 It would also be possible for risperidone to interfere with metabolism of other drugs metabolized by CYP 2D6.
 Relatively weak binding of risperidone to the enzyme suggests this is unlikely [see Drug Interactions (7)].
 
 In vitro studies indicate that risperidone is a relatively weak inhibitor of CYP 2D6.
-Therefore, risperidone is not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.
-In drug interaction studies, risperidone did not significantly affect the pharmacokinetics of donepezil and galantamine, which are metabolized by CYP 2D6.
+Therefore, Risperidone is not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.
+In drug interaction studies, Risperidone did not significantly affect the pharmacokinetics of donepezil and galantamine, which are metabolized by CYP 2D6.
 
 In vitro studies demonstrated that drugs metabolized by other CYP isozymes, including 1A1, 1A2, 2C9, 2C19, and 3A4, are only weak inhibitors of risperidone metabolism.
 
