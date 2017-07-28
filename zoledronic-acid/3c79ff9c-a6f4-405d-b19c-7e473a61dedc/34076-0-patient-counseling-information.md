@@ -45,4 +45,4 @@ Consider withholding future Reclast treatment if severe symptoms develop.
 
 Atypical femur fractures in patients on bisphosphonate therapy have been reported; patients with thigh or groin pain should be evaluated to rule out a femoral fracture.
 
-T2016-34 April 2016
+T2017-76 July 2017

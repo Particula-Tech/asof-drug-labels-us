@@ -10,21 +10,21 @@ Pre-existing hypocalcemia and disturbances of mineral metabolism (e.g., hypopara
 Clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended for these patients [see Contraindications (4)].
 
 Hypocalcemia following Reclast administration is a significant risk in Paget’s disease.
-All patients should be instructed about the symptoms of hypocalcemia and the importance of calcium and vitamin D supplementation in maintaining serum calcium levels [see Dosage and Administration (2.8), Adverse Reactions (6.1), Information for Patients (17)].
+All patients should be instructed about the symptoms of hypocalcemia and the importance of calcium and vitamin D supplementation in maintaining serum calcium levels [see Dosage and Administration (2.8), Adverse Reactions (6.1), Patient Counseling Information (17)].
 
-All osteoporosis patients should be instructed on the importance of calcium and vitamin D supplementation in maintaining serum calcium levels [see Dosage and Administration (2.8), Adverse Reactions (6.1), Information for Patients (17)].
+All osteoporosis patients should be instructed on the importance of calcium and vitamin D supplementation in maintaining serum calcium levels [see Dosage and Administration (2.8), Adverse Reactions (6.1), Patient Counseling Information (17)].
 
 ## 5.3 Renal Impairment
 
 A single dose of Reclast should not exceed 5 mg and the duration of infusion should be no less than 15 minutes [see Dosage and Administration (2)].
 
 Reclast is contraindicated in patients with creatinine clearance less than 35 mL/min and in those with evidence of acute renal impairment [see Contraindications (4)].
-If history or physical signs suggest dehydration, Reclast therapy should be withheld until normovolemic status has been achieved [see Post-Marketing Experience (6.2)].
+If history or physical signs suggest dehydration, Reclast therapy should be withheld until normovolemic status has been achieved [see Adverse Reactions (6.2)].
 
 Reclast should be used with caution in patients with chronic renal impairment.
 Acute renal impairment, including renal failure, has been observed following the administration of zoledronic acid, especially in patients with pre-existing renal compromise, advanced age, concomitant nephrotoxic medications, concomitant diuretic therapy, or severe dehydration occurring before or after Reclast administration.
 Acute renal failure (ARF) has been observed in patients after a single administration.
-Rare reports of hospitalization and/or dialysis or fatal outcome occurred in patients with underlying moderate to severe renal impairment or with any of the risk factors described in this section [see Post-Marketing Experience (6.2)].
+Rare reports of hospitalization and/or dialysis or fatal outcome occurred in patients with underlying moderate to severe renal impairment or with any of the risk factors described in this section [see Adverse Reactions (6.2)].
 Renal impairment may lead to increased exposure of concomitant medications and/or their metabolites that are primarily renally excreted [see Drug Interactions (7.4)].
 
 Creatinine clearance should be calculated based on actual body weight using Cockcroft-Gault formula before each Reclast dose.
