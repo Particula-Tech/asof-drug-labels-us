@@ -127,15 +127,3 @@ Respiratory, Thoracic and Mediastinal Disorders: hypersensitivity pneumonitis (i
 Skin: psoriasis, pyoderma gangrenosum, erythema nodosum
 
 Urogenital: reversible oligospermia
-
-Descriptions of Selected Adverse Reactions:
-
-Intracranial hypertension:
-
-Cases of intracranial hypertension (increased intracranial pressure) with papilledema (pseudotumor cerebri or benign intracranial hypertension) have been reported with mesalamine use.
-If undetected, this condition may result in constriction of the visual field and permanent vision loss.
-Mesalamine should be discontinued, if clinically possible, if this syndrome occurs.
-
-Nephrogenic diabetes insipidus:
-
-Cases of nephrogenic diabetes insipidus have been reported with mesalamine use.
