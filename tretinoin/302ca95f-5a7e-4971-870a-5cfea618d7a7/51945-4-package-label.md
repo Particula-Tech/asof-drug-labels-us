@@ -17,9 +17,7 @@ Avoid freezing.
 
 See end flap for lot number and expiration date.
 
-545.5
-
-Patent #: 5,650,171
+545.6 M:6141:44:1C:R6
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
