@@ -25,6 +25,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-552.3
-
-Patent #'s: 5,650,171
+552.4 M:6140:03:1C:R4
