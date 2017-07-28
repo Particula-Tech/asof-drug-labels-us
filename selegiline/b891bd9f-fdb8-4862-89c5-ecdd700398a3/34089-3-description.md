@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-EMSAM® is a transdermally administered MAOI antidepressant.
-When applied to intact skin, EMSAM is designed to continuously deliver selegiline over a 24-hour period.
+EMSAM® contains selegiline, a MAOI antidepressant.
+When applied to intact skin, EMSAM is designed to transdermally deliver selegiline over a 24-hour period.
 
 Selegiline base is a colorless to yellow liquid, chemically described as (-)-(N)-Methyl-N-[(1R)-1-methyl-2-phenylethyl]prop-2-yn-1-amine.
 It has a molecular formula of C13H17N and a molecular weight of 187.30.
@@ -16,6 +16,3 @@ Layer 1 is the Backing Film that provides occlusivity, physical integrity and pr
 Layer 2 is the Adhesive/Drug Layer.
 Layer 3 consists of side-by-side release liners that are peeled off and discarded by the patient prior to applying EMSAM.
 The inactive ingredients are acrylic adhesive, ethylene vinyl acetate/polyethylene, polyester, polyurethane, and silicone coated polyester.
-
-Figure 1: Side view of EMSAM system.
-(Not to scale.)

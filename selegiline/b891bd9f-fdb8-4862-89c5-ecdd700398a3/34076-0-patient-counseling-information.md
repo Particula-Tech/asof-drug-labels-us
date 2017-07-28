@@ -24,9 +24,11 @@ Patients should be cautioned about operating hazardous machinery, including auto
 Alcohol: Patients should be told that, although EMSAM has not been shown to increase the impairment of mental and motor skills caused by alcohol, the concomitant use of EMSAM and alcohol in depressed patients is not recommended.
 
 Pediatrics: Advise patients that EMSAM must not be used in children less than 12 years of age because of an increased risk of severe increases in blood pressure.
-Also, patients should be advised that EMSAM is not recommended for use in pediatric patients ages 12 to 17 years.
+Also, patients should be advised that EMSAM is not recommended for use in pediatric patients ages 12 to 17 years [see Use in Specific Populations (8.4)].
 
-Breastfeeding: Advise nursing mothers to discontinue the use of EMSAM or discontinue nursing [see Use in Specific Populations (8.3)].
+Pregnancy: Advise the pregnant woman about the potential risk to the fetus [see Use in Specific Populations (8.1)].
+
+Lactation: Advise a woman that breastfeeding is not recommended during treatment with EMSAM treatment and for 5 days after the final dose [see Use in Specific Populations (8.2)].
 
 How to Use EMSAM
 
@@ -42,10 +44,10 @@ Prescribers should instruct patients on the following:
   Rinse until all soap is removed.
   Dry the area with a clean dry towel.
 - •Just before you apply the transdermal system, remove it from the pouch by tearing at the notches (do not use scissors).
-  Remove half of the protective backing and throw it away.
+  Remove half of the release liner and throw it away.
   Try not to touch the exposed side (sticky side) of the transdermal system, because the medicine could come off on your fingers.
 - •Press the sticky side of the transdermal system firmly against the skin site that was just washed and dried.
-  Remove the second half of the protective liner and press the remaining sticky side firmly against your skin.
+  Remove the second half of the release liner and press the remaining sticky side firmly against your skin.
   Make sure that the transdermal system is flat against the skin (there should be no bumps or folds in the transdermal system) and is sticking securely.
   Be sure the edges are stuck to the skin surface.
 - •After you have applied the transdermal system, wash your hands thoroughly with soap and water to remove any medicine that may have gotten on them.

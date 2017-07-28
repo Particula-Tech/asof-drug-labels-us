@@ -2,24 +2,30 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category C.
+### Risk Summary
 
-#### Risk Summary
-
-There are no adequate and well controlled studies of EMSAM in pregnant women.
-All human pregnancies, regardless of drug exposure, have a background rate of 2% to 4% for major malformations, and 15% to 20% for pregnancy loss.
+The available data on EMSAM use in pregnant women are not sufficient to inform a drug-associated risk of adverse pregnancy-related outcomes.
 In animal embryo-fetal development studies, transdermal administration of selegiline to rats and rabbits at doses up to 60 and 64 times the maximum recommended human dose (MRHD) respectively, produced slight increases in malformations in both rats and rabbits, and decreased fetal weight, delayed ossification, and embryo-fetal post-implantation loss in rats.
 Most of these effects were seen at the high dose in both rats and rabbits.
-In a pre-natal and post-natal development study, transdermal administration of selegiline in rats at doses 8, 24, and 60 times MRHD produced delayed neurobehavioral and sexual development in pups.
-EMSAM should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+These effects were not seen at 8 times and 16 times the MRHD in rats and rabbits, respectively.
+In a pre-natal and post-natal development study, transdermal administration of selegiline in rats at doses 8, 24, and 60 times MRHD produced a decrease in pup weight and survival at the medium and high doses, an increase in the number of stillborn pups at the high dose, and delayed neurobehavioral and sexual development in pups
 
-#### Clinical Considerations
+at all doses.
+A persistent effect on reproductive performance of pups born to mothers treated at the high dose was evident (see Data).
+When treating a pregnant woman with EMSAM, the physician should carefully consider both the potential risks of taking an MAOI, particularly the risk of hypertensive crisis during pregnancy, along with the established benefits of treating depression with an antidepressant.
 
-##### Disease-associated maternal and embryo/fetal risk
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+### Clinical Considerations
+
+#### Disease-associated maternal and embryo/fetal risk
 
 A prospective longitudinal study was conducted of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
 Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
-When treating a pregnant woman with EMSAM, the physician should carefully consider both the potential risks of taking an MAOI, along with the established benefits of treating depression with an antidepressant.
+
+### Data
 
 #### Animal Data
 
@@ -37,13 +43,19 @@ Delayed neurobehavioral and sexual development was seen at all doses.
 Adverse effects on pup reproductive performance, as evidenced by decreases in implantations and litter size, were seen at the high dose.
 These findings suggest persistent effects on the offspring of treated dams.
 A no-effect dose was not established in this study for developmental toxicity.
-In this study, concentrations of selegiline and its metabolites in milk were approximately 15 and 5 times, respectively, the concentrations in maternal plasma, indicating that the pups were directly dosed during the lactation period.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is unknown whether selegiline is present in human milk; however, selegiline and its metabolites are present in the milk of lactating rats [see Use in Specific Populations (8.1)].
+### Risk Summary
 
-Because many drugs are present in human milk and because of the potential for serious adverse reactions in nursing infants from EMSAM, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+There is no information regarding the presence of selegiline in human milk, or on its effects on milk production or the breastfed infant.
+Selegiline and its metabolites are present in the milk of lactating rats (see Data).
+
+Because of the potential for serious adverse reactions in breastfed infants from EMSAM, including the potential for hypertensive crisis, advise a woman that breastfeeding is not recommended during treatment with EMSAM and for 5 days after the final dose.
+
+#### Data
+
+In a prenatal and postnatal development study where rats were treated with transdermal selegiline at doses approximately 8, 24, and 60 times the MRHD on days 6 to 21 of gestation and days 1 to 21 of the lactation period, concentrations of selegiline and its metabolites in milk were approximately 15 and 5 times, respectively, the concentrations in maternal plasma.
 
 ## 8.4 Pediatric Use
 

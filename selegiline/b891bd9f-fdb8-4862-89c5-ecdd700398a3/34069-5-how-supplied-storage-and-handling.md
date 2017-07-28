@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+How Supplied
 
 EMSAM (selegiline transdermal system) is a transdermal system with the following strengths, sizes, color, backing film printing and presentation:
 
@@ -11,9 +11,9 @@ EMSAM (selegiline transdermal system) is a transdermal system with the following
 | Color | Translucent | Translucent | Translucent |
 | Backing Film Printing | EMSAM® 6mg/24h | EMSAM® 9mg/24h | EMSAM® 12mg/24h |
 | NDC number | NDC 49502-900-30 | NDC 49502-901-30 | NDC 49502-902-30 |
-| Presentation | box of 30 transdermal systems | box of 30 transdermal systems | box of 30 transdermal systems |
+| Presentation | Box of 30 transdermal systems | Box of 30 transdermal systems | Box of 30 transdermal systems |
 
-## 16.2 Storage and Handling
+Storage and Handling
 
 Store at 20° to 25° C (68° to 77° F). [See USP Controlled Room Temperature.]
 Do not store outside of the sealed pouch.

@@ -14,7 +14,7 @@ Patients should be informed that tyramine-rich foods and beverages should be avo
 ## 2.2 Maintenance Treatment
 
 It is generally agreed that episodes of depression require several months or longer of sustained pharmacologic therapy.
-Maintenance of efficacy in depressed patients on therapy with EMSAM at a dose of 6 mg per 24 hours after achieving a responder status for an average duration of about 25 days was demonstrated in a controlled trial [see Indications and Usage (1) and Clinical Studies (14.1)].
+Maintenance of efficacy in depressed patients on therapy with EMSAM at a dose of 6 mg per 24 hours after achieving a responder status for an average duration of about 25 days was demonstrated in a controlled trial [see Clinical Studies (14)].
 
 The physician who elects to use EMSAM for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
 
@@ -25,3 +25,7 @@ MAOIs including EMSAM combined with a high tyramine diet may cause a hypertensiv
 A hypertensive crisis can be a life-threatening condition [see Warnings and Precautions (5.3)].
 
 The foods and beverages listed in Table 5 should be avoided beginning on the first day of EMSAM 9 mg per 24 hours or 12 mg per 24 hours treatment, and should continue to be avoided for 2 weeks after a dose reduction to EMSAM 6 mg per 24 hours or following the discontinuation of EMSAM 9 mg per 24 hours or 12 mg per 24 hours [see Drug Interactions (7.2)].
+
+## 2.4 Screen for Bipolar Disorder Prior to Starting EMSAM
+
+Prior to initiating treatment with EMSAM or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.4)].

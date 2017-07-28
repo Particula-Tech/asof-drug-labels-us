@@ -2,10 +2,11 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the label.
 
-- •Clinical Worsening and Suicide Risk [see Warnings and Precautions (5.1)].
+- •Suicidal Thoughts and Behaviors [see Warnings and Precautions (5.1)].
 - •Serotonin Syndrome [see Contraindications (4) and Warnings and Precautions (5.2)].
 - •Blood Pressure Elevation [see Warnings and Precautions (5.3)].
 - •Activation of Mania/Hypomania [see Warnings and Precautions (5.4)].
+- •External Heat [see Warnings and Precautions (5.5)].
 
 ## 6.1 Clinical Trial Experience
 
@@ -61,7 +62,6 @@ Treatment-Emergent Adverse Reactions: Incidence in Placebo-Controlled Clinical T
 In the pool of short-term, placebo-controlled major depressive disorder studies, application site reactions (ASRs) were reported in 24% of EMSAM-treated patients and 12% of placebo-treated patients.
 Most ASRs were mild or moderate in severity.
 ASRs led to dropout in 2% of EMSAM-treated patients and no placebo-treated patients.
-
 In one such study which utilized higher mean doses of EMSAM, ASRs were reported in 40% of EMSAM-treated patients and 20% of placebo-treated patients.
 Most of the ASRs in this study were described as erythema and most resolved spontaneously, requiring no treatment.
 When treatment was administered, it most commonly consisted of dermatological preparations of corticosteroids.
