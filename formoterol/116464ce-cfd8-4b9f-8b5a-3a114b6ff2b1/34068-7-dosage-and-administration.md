@@ -1,8 +1,9 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General
+## 2.1 Administration Information
 
-DULERA should be administered only by the orally inhaled route (see Patient Instructions for Use in the Medication Guide).
+DULERA should be administered as two inhalations twice daily every day (morning and evening) by the orally inhaled route (see Patient Instructions for Use in the Medication Guide).
+Shake well prior to each inhalation.
 After each dose, the patient should be advised to rinse his/her mouth with water without swallowing.
 
 The cap from the mouthpiece of the actuator should be removed before using DULERA.
@@ -14,27 +15,20 @@ The DULERA canister should only be used with the DULERA actuator.
 The DULERA actuator should not be used with any other inhalation drug product.
 Actuators from other products should not be used with the DULERA canister.
 
-## 2.2 Dosing
+## 2.2 Recommended Dosage
 
-DULERA should be administered as two inhalations twice daily every day (morning and evening) by the orally inhaled route.
+Adults and Adolescents 12 Years of Age and Older
 
-Shake well prior to each inhalation.
+The dosage is either 2 inhalations twice daily of DULERA 100 mcg/5 mcg or DULERA 200 mcg/5 mcg.
+The maximum recommended dosage is two inhalations of DULERA 200 mcg/5 mcg twice daily (maximum daily dosage 800 mcg/20 mcg).
 
-The recommended starting dosages for DULERA treatment are based on prior asthma therapy.
+When choosing the starting dosage strength of DULERA, consider the patients' disease severity, based on their previous asthma therapy, including the inhaled corticosteroid dosage, as well as the patients' current control of asthma symptoms and risk of future exacerbation.
 
-Table 1: Recommended Dosages for DULERA
+The maximum benefit may not be achieved for 1 week or longer after beginning treatment.
+Individual patients may experience a variable time to onset and degree of symptom relief.
+For patients who do not respond adequately after 2 weeks of therapy with two inhalations of DULERA 100 mcg/5 mcg twice daily (morning and evening), increasing the dosage to two inhalations of DULERA 200 mcg/5 mcg twice daily (morning and evening) may provide additional asthma control.
 
-| Previous Therapy | Recommended Dose | Maximum Recommended Daily Dose |
-| --- | --- | --- |
-| Inhaled medium dose corticosteroids | DULERA 100 mcg/5 mcg, 2 inhalations twice daily | 400 mcg/20 mcg |
-| Inhaled high dose corticosteroids | DULERA 200 mcg/5 mcg, 2 inhalations twice daily | 800 mcg/20 mcg |
-
-The maximum daily recommended dose is two inhalations of DULERA 200 mcg/5 mcg twice daily.
 Do not use more than two inhalations twice daily of the prescribed strength of DULERA as some patients are more likely to experience adverse effects with higher doses of formoterol.
 If symptoms arise between doses, an inhaled short-acting beta2-agonist should be taken for immediate relief.
 
 If a previously effective dosage regimen of DULERA fails to provide adequate control of asthma, the therapeutic regimen should be re-evaluated and additional therapeutic options, e.g., replacing the current strength of DULERA with a higher strength, adding additional inhaled corticosteroid, or initiating oral corticosteroids, should be considered.
-
-The maximum benefit may not be achieved for 1 week or longer after beginning treatment.
-Individual patients may experience a variable time to onset and degree of symptom relief.
-For patients ≥12 years of age who do not respond adequately after 2 weeks of therapy, higher strength may provide additional asthma control.

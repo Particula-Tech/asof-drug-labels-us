@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-DULERA is available in two strengths and supplied in the following package sizes (Table 7):
+DULERA is available in two strengths and supplied in the following package sizes (Table 6):
 
-Table 7
+Table 6
 
 | Package | NDC |
 | --- | --- |

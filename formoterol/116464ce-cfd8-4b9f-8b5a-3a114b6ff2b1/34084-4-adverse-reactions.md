@@ -23,9 +23,9 @@ In the 12 to 26-week clinical trials, the population was 12 to 84 years of age, 
 Patients received two inhalations twice daily of DULERA (100 mcg/5 mcg or 200 mcg/5 mcg), mometasone furoate MDI (100 mcg or 200 mcg), formoterol MDI (5 mcg) or placebo.
 In the long-term 52-week active-comparator safety trial, the population was 12 years to 75 years of age with asthma, 37% male and 63% female, 47% Caucasians, 53% non-Caucasians and received two inhalations twice daily of DULERA 100 mcg/5 mcg or 200 mcg/5 mcg, or an active comparator.
 
-The incidence of treatment emergent adverse reactions associated with DULERA in Table 2 below is based upon pooled data from 2 clinical trials 12 to 26 weeks in duration in patients 12 years and older treated with two inhalations twice daily of DULERA (100 mcg/5 mcg or 200 mcg/5 mcg), mometasone furoate MDI (100 mcg or 200 mcg), formoterol MDI (5mcg) or placebo.
+The incidence of treatment emergent adverse reactions associated with DULERA in Table 1 below is based upon pooled data from 2 clinical trials 12 to 26 weeks in duration in patients 12 years and older treated with two inhalations twice daily of DULERA (100 mcg/5 mcg or 200 mcg/5 mcg), mometasone furoate MDI (100 mcg or 200 mcg), formoterol MDI (5mcg) or placebo.
 
-Table 2: Treatment-Emergent Adverse Reactions in DULERA Groups Occurring at an Incidence of ≥3% and More Commonly than Placebo
+Table 1: Treatment-Emergent Adverse Reactions in DULERA Groups Occurring at an Incidence of ≥3% and More Commonly than Placebo
 
 | 100 mcg/5 mcg n=424 n (%) | 200 mcg/5 mcg n=255 n (%) | 100 mcg n=192 n (%) | 200 mcg n=240 n (%) | 5 mcg n=202 n (%) | n=196 n (%) |  |
 | --- | --- | --- | --- | --- | --- | --- |

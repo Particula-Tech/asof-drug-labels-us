@@ -28,7 +28,6 @@ Patients should not use more than 2 inhalations twice daily (morning and evening
 
 DULERA is not indicated for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm.
 An inhaled, short-acting beta2-agonist, not DULERA, should be used to relieve acute symptoms such as shortness of breath.
-When prescribing DULERA, the physician must also provide the patient with an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of acute symptoms, despite regular twice-daily (morning and evening) use of DULERA.
 
 When beginning treatment with DULERA, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
 

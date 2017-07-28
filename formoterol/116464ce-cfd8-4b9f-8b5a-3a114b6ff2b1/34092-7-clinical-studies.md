@@ -30,7 +30,7 @@ Clinically judged deteriorations in asthma or reductions in lung function were a
 Deteriorations in asthma were defined as any of the following: a 20% decrease in FEV1; a 30% decrease in PEF on two or more consecutive days; emergency treatment, hospitalization, or treatment with systemic corticosteroids or other asthma medications not allowed per protocol.
 Fewer patients who received DULERA 100 mcg/5 mcg reported an event compared to patients who received formoterol 5 mcg (p<0.001).
 
-Table 3: Trial 1 - Clinically Judged Deterioration in Asthma or Reduction in Lung FunctionIncludes only the first event day for each patient.
+Table 2: Trial 1 - Clinically Judged Deterioration in Asthma or Reduction in Lung FunctionIncludes only the first event day for each patient.
 Patients could have experienced more than one event criterion.
 
 |  | DULERA 100 mcg/ 5 mcgTwo inhalations, twice daily. (n=191) | Mometasone Furoate 100 mcg (n=192) | Formoterol 5 mcg (n=202) | Placebo (n=196) |
@@ -43,9 +43,9 @@ Patients could have experienced more than one event criterion.
 | Treatment with excluded asthma medicationThirty patients received glucocorticosteroids; 1 patient received formoterol via dry powder inhaler in the Formoterol 5 mcg group. | 2 (1%) | 4 (2%) | 17 (8%) | 8 (4%) |
 
 The change in mean trough FEV1 from baseline to Week 12 was assessed as another endpoint to evaluate the contribution of mometasone furoate 100 mcg to DULERA 100 mcg/5 mcg.
-A significantly greater increase in mean trough FEV1 was observed for DULERA 100 mcg/5 mcg compared to formoterol 5 mcg (the primary treatment comparison) as well as to placebo (Table 4).
+A significantly greater increase in mean trough FEV1 was observed for DULERA 100 mcg/5 mcg compared to formoterol 5 mcg (the primary treatment comparison) as well as to placebo (Table 3).
 
-Table 4: Trial 1 – Change in Trough FEV1 from Baseline to Week 12
+Table 3: Trial 1 – Change in Trough FEV1 from Baseline to Week 12
 
 | Treatment Arm | N | Baseline (L) | Change From Baseline at Week 12 (L) | Treatment Difference from Placebo (L) | P-Value vs. Placebo | P-Value vs. Formoterol |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -76,10 +76,10 @@ The primary efficacy endpoint was the mean change in FEV1 AUC(0-12 hr) from base
 Patients receiving DULERA 100 mcg/5 mcg and DULERA 200 mcg/5 mcg had significantly greater increases from baseline at Day 1 in mean FEV1 AUC(0-12 hr) compared to mometasone furoate 200 mcg.
 The difference was maintained over 12 weeks of therapy.
 
-Mean change in trough FEV1 from baseline to Week 12 was also assessed to evaluate the relative contribution of mometasone furoate to DULERA 100 mcg/5 mcg and DULERA 200 mcg/5 mcg (Table 5).
+Mean change in trough FEV1 from baseline to Week 12 was also assessed to evaluate the relative contribution of mometasone furoate to DULERA 100 mcg/5 mcg and DULERA 200 mcg/5 mcg (Table 4).
 A greater numerical increase in the mean trough FEV1 was observed for DULERA 200 mcg/5 mcg compared to DULERA 100 mcg/5 mcg and mometasone furoate 200 mcg.
 
-Table 5: Trial 2 – Change in Trough FEV1 from Baseline to Week 12
+Table 4: Trial 2 – Change in Trough FEV1 from Baseline to Week 12
 
 | Treatment Arm | N | Baseline (L) | Change from Baseline at Week 12 (L) |
 | --- | --- | --- | --- |
@@ -90,7 +90,7 @@ Table 5: Trial 2 – Change in Trough FEV1 from Baseline to Week 12
 Clinically judged deterioration in asthma or reduction in lung function was assessed as an additional endpoint.
 Fewer patients who received DULERA 200 mcg/5 mcg or DULERA 100/5 mcg compared to mometasone furoate 200 mcg alone reported an event, defined as in Trial 1 by any of the following: a 20% decrease in FEV1; a 30% decrease in PEF on two or more consecutive days; emergency treatment, hospitalization, or treatment with systemic corticosteroids or other asthma medications not allowed per protocol.
 
-Table 6: Trial 2 - Clinically Judged Deterioration in Asthma or Reduction in Lung FunctionIncludes only the first event day for each patient.
+Table 5: Trial 2 - Clinically Judged Deterioration in Asthma or Reduction in Lung FunctionIncludes only the first event day for each patient.
 Patients could have experienced more than one event criterion.
 
 |  | DULERA 100 mcg/ 5 mcgTwo inhalations, twice daily. (n=233) | DULERA 200 mcg/ 5 mcg (n=255) | Mometasone Furoate 200 mcg (n=240) |
