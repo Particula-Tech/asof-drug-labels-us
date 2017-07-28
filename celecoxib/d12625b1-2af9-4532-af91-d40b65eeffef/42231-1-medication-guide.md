@@ -21,7 +21,7 @@ You may have an increased risk of another heart attack if you take NSAIDs after 
 
 The risk of getting an ulcer or bleeding increases with:
 
-| ○ past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs ○ taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs” or “SNRIs” ○ increasing doses of NSAIDs ○ longer use of NSAIDs ○ smoking ○ drinking alcohol | ○ older age ○ poor health ○ advanced liver diseases ○ bleeding problems |
+| ○ past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs ○ taking medicines called "corticosteroids", "anticoagulants", "SSRIs" or "SNRIs" ○ increasing doses of NSAIDs ○ longer use of NSAIDs ○ smoking ○ drinking alcohol | ○ older age ○ poor health ○ advanced liver diseases ○ bleeding problems |
 | --- | --- |
 
 NSAID medicines should only be used:
@@ -127,6 +127,8 @@ Manufactured for:
 
 Cipla USA, Inc.
 
-9100 S. Dadeland Blvd., Suite 1500 Miami, FL 33156
+1560 Sawgrass Corporate Parkway,
 
-Revised: 6/2016
+Suite 130, Sunrise, FL 33323
+
+Revised: 7/2017

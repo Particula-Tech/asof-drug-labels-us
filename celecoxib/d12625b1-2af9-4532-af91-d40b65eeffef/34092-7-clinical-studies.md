@@ -75,7 +75,7 @@ The estimated cumulative rates at 9 months of complicated and symptomatic ulcers
 Table 4 also displays results for patients less than or greater than 65 years of age.
 The difference in rates between celecoxib capsules alone and celecoxib capsules with ASA groups may be due to the higher risk for GI events in ASA users.
 
-Table 5: Complicated and Symptomatic Ulcer Rates in Patients Taking Celecoxib Capsules 400 mg Twice Daily (Kaplan-Meier Rates at 9 months [%]) Based on Risk Factors
+$ Table 5: Complicated and Symptomatic Ulcer Rates in Patients Taking Celecoxib Capsules 400 mg Twice Daily (Kaplan-Meier Rates at 9 months [%]) Based on Risk Factors
 
 | All Patients |  |
 | --- | --- |

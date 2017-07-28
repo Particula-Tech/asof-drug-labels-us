@@ -26,36 +26,36 @@ Pre-marketing Controlled Arthritis Trials
 Table 1 lists all adverse events, regardless of causality, occurring in ≥2% of patients receiving celecoxib capsules from 12 controlled studies conducted in patients with OA or RA that included a placebo and/or a positive control group.
 Since these 12 trials were of different durations, and patients in the trials may not have been exposed for the same duration of time, these percentages do not capture cumulative rates of occurrence.
 
-Table 1: Adverse Events Occurring in ≥2% of Celecoxib Patients from Pre-marketing Controlled Arthritis Trials
+$ Table 1: Adverse Events Occurring in ≥2% of Celecoxib Patients from Pre-marketing Controlled Arthritis Trials
 
-|  | Celecoxib (N=4146) | Placebo (N=1864) | NAP (N=1366) | DCF (N=387) | IBU (N=345) |
-| --- | --- | --- | --- | --- | --- |
-| Gastrointestinal |  |  |  |  |  |
-| Abdominal Pain | 4.1% | 2.8% | 7.7% | 9.0% | 9.0% |
-| Diarrhea | 5.6% | 3.8% | 5.3% | 9.3% | 5.8% |
-| Dyspepsia | 8.8% | 6.2% | 12.2% | 10.9% | 12.8% |
-| Flatulence | 2.2% | 1.0% | 3.6% | 4.1% | 3.5% |
-| Nausea | 3.5% | 4.2% | 6.0% | 3.4% | 6.7% |
-| Body as whole |  |  |  |  |  |
-| Back Pain | 2.8% | 3.6% | 2.2% | 2.6% | 0.9% |
-| Peripheral Edema | 2.1% | 1.1% | 2.1% | 1.0% | 3.5% |
-| Injury-Accidental | 2.9% | 2.3% | 3.0% | 2.6% | 3.2% |
-| Central, Peripheral Nervous System |  |  |  |  |  |
-| Dizziness | 2.0% | 1.7% | 2.6% | 1.3% | 2.3% |
-| Headache | 15.8% | 20.2% | 14.5% | 15.5% | 15.4% |
-| Psychatric |  |  |  |  |  |
-| Insomnia | 2.3% | 2.3% | 2.9% | 1.3% | 1.4% |
-| Respiratory |  |  |  |  |  |
-| Pharyngitis | 2.3% | 1.1% | 1.7% | 1.6% | 2.6% |
-| Rhinitis | 2.0% | 1.3% | 2.4% | 2.3% | 0.6% |
-| Sinusitis | 5.0% | 4.3% | 4.0% | 5.4% | 5.8% |
-| Upper Respiratory Infection | 8.1% | 6.7% | 9.9% | 9.8% | 9.9% |
-| Skin |  |  |  |  |  |
-| Rash | 2.2% | 2.1% | 2.1% | 1.3% | 1.2% |
-| Celecoxib = Celecoxib capsules 100 - 200 mg twice daily or 200 mg once daily; |  |  |  |  |  |
-| NAP = Naproxen 500 mg twice daily; |  |  |  |  |  |
-| DCF = Diclofenac 75 mg twice daily; |  |  |  |  |  |
-| IBU = Ibuprofen 800 mg three times daily. |  |  |  |  |  |
+|  | Celecoxib (N=4146) | Placebo (N=1864) | NAP (N=1366) | DCF (N=387) | IBU (N=345) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gastrointestinal |  |  |  |  |  |  |
+| Abdominal Pain | 4.1% | 2.8% | 7.7% | 9.0% | 9.0% |  |
+| Diarrhea | 5.6% | 3.8% | 5.3% | 9.3% | 5.8% |  |
+| Dyspepsia | 8.8% | 6.2% | 12.2% | 10.9% | 12.8% |  |
+| Flatulence | 2.2% | 1.0% | 3.6% | 4.1% | 3.5% |  |
+| Nausea | 3.5% | 4.2% | 6.0% | 3.4% | 6.7% |  |
+| Body as whole |  |  |  |  |  |  |
+| Back Pain | 2.8% | 3.6% | 2.2% | 2.6% | 0.9% |  |
+| Peripheral Edema | 2.1% | 1.1% | 2.1% | 1.0% | 3.5% |  |
+| Injury-Accidental | 2.9% | 2.3% | 3.0% | 2.6% | 3.2% |  |
+| Central, Peripheral Nervous System |  |  |  |  |  |  |
+| Dizziness | 2.0% | 1.7% | 2.6% | 1.3% | 2.3% |  |
+| Headache | 15.8% | 20.2% | 14.5% | 15.5% | 15.4% |  |
+| Psychatric |  |  |  |  |  |  |
+| Insomnia | 2.3% | 2.3% | 2.9% | 1.3% | 1.4% |  |
+| Respiratory |  |  |  |  |  |  |
+| Pharyngitis | 2.3% | 1.1% | 1.7% | 1.6% | 2.6% |  |
+| Rhinitis | 2.0% | 1.3% | 2.4% | 2.3% | 0.6% |  |
+| Sinusitis | 5.0% | 4.3% | 4.0% | 5.4% | 5.8% |  |
+| Upper Respiratory Infection | 8.1% | 6.7% | 9.9% | 9.8% | 9.9% |  |
+| Skin |  |  |  |  |  |  |
+| Rash | 2.2% | 2.1% | 2.1% | 1.3% | 1.2% |  |
+| Celecoxib = Celecoxib capsules 100 - 200 mg twice daily or 200 mg once daily; |  |  |  |  |  |  |
+| NAP = Naproxen 500 mg twice daily; |  |  |  |  |  |  |
+| DCF = Diclofenac 75 mg twice daily; |  |  |  |  |  |  |
+| IBU = Ibuprofen 800 mg three times daily. |  |  |  |  |  |  |
 
 In placebo- or active-controlled clinical trials, the discontinuation rate due to adverse events was 7.1% for patients receiving celecoxib capsules and 6.1% for patients receiving placebo.
 Among the most common reasons for discontinuation due to adverse events in the celecoxib capsules treatment groups were dyspepsia and abdominal pain (cited as reasons for discontinuation in 0.8% and 0.7% of celecoxib patients, respectively).
@@ -111,7 +111,7 @@ There was no substantial difference in the number of clinical exacerbations of u
 In a 12-week, open-label extension of the double-blind study described above, 202 JRA patients were treated with celecoxib 6 mg/kg twice daily.
 The incidence of adverse events was similar to that observed during the double-blind study; no unexpected adverse events of clinical importance emerged.
 
-Table 2: Adverse Events Occurring in ≥5% of JRA Patients in Any Treatment Group, by System Organ Class (% of patients with events)
+$ Table 2: Adverse Events Occurring in ≥5% of JRA Patients in Any Treatment Group, by System Organ Class (% of patients with events)
 
 |  |  | All Doses Twice Daily |  |
 | --- | --- | --- | --- |

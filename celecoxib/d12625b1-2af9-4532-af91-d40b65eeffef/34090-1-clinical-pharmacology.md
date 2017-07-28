@@ -39,13 +39,13 @@ Absolute bioavailability studies have not been conducted.
 With multiple dosing, steady-state conditions are reached on or before Day 5.
 The pharmacokinetic parameters of celecoxib in a group of healthy subjects are shown in Table 4.
 
-Table 4: Summary of Single Dose (200 mg) Disposition Kinetics of Celecoxib in Healthy Subjects1
+$ Table 4: Summary of Single Dose (200 mg) Disposition Kinetics of Celecoxib in Healthy Subjects1
 
 | Mean (%CV) PK Parameter Values |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Cmax, ng/mL | Tmax, hr | Effective t1/2, hr | Vss/F, L | CL/F, L/hr |
 | 705 (38) | 2.8 (37) | 11.2 (31) | 429 (34) | 27.7 (28) |
-| 1Subjects under fasting conditions (n=36, 19-52 yrs.) |  |  |  |  |
+| 1 Subjects under fasting conditions (n=36, 19-52 yrs.) |  |  |  |  |
 
 Food Effects
 

@@ -57,6 +57,8 @@ Manufactured for:
 
 Cipla USA, Inc.
 
-9100 S. Dadeland Blvd., Suite 1500 Miami, FL 33156
+1560 Sawgrass Corporate Parkway,
 
-Revised: 10/2016
+Suite 130, Sunrise, FL 33323
+
+Revised: 7/2017

@@ -2,7 +2,7 @@
 
 See Table 3 for clinically drug interactions with celecoxib.
 
-Table 3: Clinically Significant drug interactions with Celecoxib
+$ Table 3: Clinically Significant drug interactions with Celecoxib
 
 | Drugs That Interfere with Hemostasis |  |
 | --- | --- |
@@ -27,7 +27,7 @@ Table 3: Clinically Significant drug interactions with Celecoxib
 | Clinical Impact: | Concomitant use of NSAIDs and methotrexate may increase the risk for methotrexate toxicity (e.g., neutropenia, thrombocytopenia, renal dysfunction). Celecoxib has no effect on methotrexate pharmacokinetics. |
 | Intervention: | During concomitant use of celecoxib capsules and methotrexate, monitor patients for methotrexate toxicity. |
 | Cyclosporine |  |
-| Clinical Impact: | Concomitant use of celecoxib capsules and cyclosporine may increase cyclosporine’s nephrotoxicity. |
+| Clinical Impact: | Concomitant use of celecoxib capsules and cyclosporine may increase cyclosporine's nephrotoxicity. |
 | Intervention: | During concomitant use of celecoxib capsules and cyclosporine, monitor patients for signs of worsening renal function. |
 | NSAIDs and Salicylates |  |
 | Clinical Impact: | Concomitant use of Celecoxib with other NSAIDs or salicylates (e.g., diflunisal, salsalate) increases the risk of GI toxicity, with little or no increase in efficacy [see Warnings and Precautions (5.2)]. |
