@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209195"
+  ],
+  "inn": "sofosbuvir",
+  "labeler": "Gilead Sciences, Inc.",
+  "package_ndcs": [
+    "61958-2401-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sofosbuvir, velpatasvir, and voxilaprevir",
+      "name": "Vosevi"
+    }
+  ],
+  "setid": "17ffc094-8ca7-45d2-80d8-fd043bc9a221",
+  "source": "dailymed"
+}
