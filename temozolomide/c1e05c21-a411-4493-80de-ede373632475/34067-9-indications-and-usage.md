@@ -2,9 +2,7 @@
 
 ## 1.1 Newly Diagnosed Glioblastoma Multiforme
 
-Temozolomide capsules
-
-are indicated for the treatment of adult patients with newly diagnosed glioblastoma multiforme concomitantly with radiotherapy and then as maintenance treatment.
+Temozolomide capsules are indicated for the treatment of adult patients with newly diagnosed glioblastoma multiforme concomitantly with radiotherapy and then as maintenance treatment.
 
 ## 1.2 Refractory Anaplastic Astrocytoma
 
