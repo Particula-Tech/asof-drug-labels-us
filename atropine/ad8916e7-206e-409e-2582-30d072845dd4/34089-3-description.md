@@ -11,7 +11,7 @@ Sodium chloride added to render the solution isotonic for injection of the activ
 The solution contains no bacteriostat, antimicrobial agent or added buffer (except for pH adjustment) and is intended for use only as a single-dose injection.
 When smaller doses are required the unused portion should be discarded.
 
-Atropine Sulfate, USP is chemically designated 1α H, 5α H-Tropan-3-α-ol (±)-tropate (ester), sulfate (2:1) (salt) monohydrate, (C17H23NO3)2 · H2SO4 · H2O, colorless crystals or white crystalline powder very soluble in water.
+Atropine Sulfate, USP is chemically designated 1α H, 5α H-Tropan-3-α-ol (±)-tropate (ester), sulfate (2:1) (salt) monohydrate, (C17H23NO3)2 ∙ H2SO4 ∙ H2O, colorless crystals or white crystalline powder very soluble in water.
 It has the following structural formula:
 
 Atropine, a naturally occurring belladonna alkaloid, is a racemic mixture of equal parts of d- and 1-hyocyamine, whose activity is due almost entirely to the levo isomer of the drug.
