@@ -7,10 +7,10 @@ In clinical trials, discontinuation of therapy due to clinical adverse experienc
 The frequency of adverse experiences was not related to total daily dosage within the usual dosage ranges.
 In patients with hypertension the overall percentage of patients treated with VASOTEC reporting adverse experiences was comparable to placebo.
 
-HYPERTENSION
+Hypertension
 
 Adverse experiences occurring in greater than one percent of patients with hypertension treated with VASOTEC in controlled clinical trials are shown below.
-In patients treated with VASOTEC, the maximum duration of therapy was three years; in placebo treated patients the maximum duration of therapy was 12 weeks.
+In patients treated with VASOTEC, the maximum duration of therapy was three years; in placebo-treated patients the maximum duration of therapy was 12 weeks.
 
 |  | VASOTEC (n=2314) Incidence (discontinuation) | Placebo (n=230) Incidence |
 | --- | --- | --- |
@@ -29,7 +29,7 @@ In patients treated with VASOTEC, the maximum duration of therapy was three year
 | Skin |  |  |
 | Rash | 1.4 (0.4) | 0.4 |
 
-HEART FAILURE
+Heart Failure
 
 Adverse experiences occurring in greater than one percent of patients with heart failure treated with VASOTEC are shown below.
 The incidences represent the experiences from both controlled and uncontrolled clinical trials (maximum duration of therapy was approximately one year).
@@ -124,7 +124,7 @@ Hematology:
 
 Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.3 g percent and 1.0 vol percent, respectively) occur frequently in either hypertension or congestive heart failure patients treated with VASOTEC but are rarely of clinical importance unless another cause of anemia coexists.
 In clinical trials, less than 0.1 percent of patients discontinued therapy due to anemia.
-Hemolytic anemia, including cases of hemolysis in patients with G-6-PD deficiency, has been reported; a causal relationship to enalapril cannot be excluded.
+Hemolytic anemia, including cases of hemolysis in patients with G6PD deficiency, has been reported; a causal relationship to enalapril cannot be excluded.
 
 Liver Function Tests
 

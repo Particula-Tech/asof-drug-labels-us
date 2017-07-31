@@ -1,16 +1,14 @@
 Rx only
 
-VASOTEC® is a registered trademark of Valeant Pharmaceuticals International Inc. or its affiliates
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-© Valeant Pharmaceuticals North America LLC
+Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
 
-Manufactured in Canada by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
+Vasotec® is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-For: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
-
-20001216
+©Valeant Pharmaceuticals North America LLC
 
 Rev.
-08/15
+07/17
 
-9383002
+New Valeant p/n#

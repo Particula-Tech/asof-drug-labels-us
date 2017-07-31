@@ -4,7 +4,7 @@ Hypertension
 
 VASOTEC is indicated for the treatment of hypertension.
 
-VASOTEC is effective alone or in combination with other antihypertensive agents, especially thiazide-type diuretics.
+VASOTEC is effective alone or in combination with other antihypertensive agents, especially thiazide- type diuretics.
 The blood pressure lowering effects of VASOTEC and thiazides are approximately additive.
 
 Heart Failure
