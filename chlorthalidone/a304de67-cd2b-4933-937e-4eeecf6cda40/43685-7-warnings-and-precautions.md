@@ -15,7 +15,7 @@ erythematosus has not been reported following chlorthalidone administration.
 
 # PRECAUTIONS
 
-## GENERAL PRECAUTIONS
+## General
 
 Hypokalemia may develop with chlorthalidone as with any other diuretic, especially with brisk diuresis when severe cirrhosis is present or during concomitant use of corticosteroids or ACTH.
 
@@ -29,7 +29,7 @@ In actual salt depletion, appropriate replacement is the therapy of choice.
 Hyperuricemia may occur or frank gout may be precipitated in certain patients receiving chlorthalidone.
 Thiazide-like diuretics have been shown to increase the urinary excretion of magnesium; this may result in hypomagnesemia.
 
-The antihypertensive effects of the drug may be enhanced in the postsympathectomy patient.
+The antihypertensive effects of the drug may be enhanced in the post-sympathectomy patient.
 
 If progressive renal impairment becomes evident, as indicated by a rising nonprotein nitrogen or blood urea nitrogen, a careful reappraisal of therapy is necessary with consideration given to withholding or discontinuing diuretic therapy.
 
@@ -39,7 +39,7 @@ Pathological changes in the parathyroid gland with hypercalcemia and hypophospha
 therapy.
 The common complications of hyperparathyroidism such as renal lithiasis, bone resorption and peptic ulceration have not been seen.
 
-## INFORMATION FOR PATIENTS
+## Information for Patients
 
 Patients should inform their physician if they have: (1) had an allergic reaction to chlorthalidone or other diuretics or have asthma, (2) kidney disease, (3) liver disease, (4) gout, (5) systemic lupus erythematosus, or (6) been taking other drugs such as cortisone, digitalis, lithium carbonate, or drugs for diabetes.
 
@@ -47,7 +47,7 @@ Patients should be cautioned to contact their physician if they experience any o
 
 Patients should also be cautioned that taking alcohol can increase the chance of dizziness occurring.
 
-## LABORATORY TESTS
+## Laboratory Tests
 
 Periodic determination of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals.
 
@@ -56,10 +56,10 @@ Serum and urine
 
 electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids.
 
-## DRUG INTERACTIONS
+## Drug Interactions
 
 Chlorthalidone may add to or potentiate the action of other antihypertensive drugs.
-Potentiation occurs with ganglionic peripheraladrenergic blocking drugs.
+Potentiation occurs with ganglionic peripheral adrenergic blocking drugs.
 
 Medication such as digitalis may also influence serum electrolytes.
 Warning signs, irrespective of cause, are: dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
@@ -73,15 +73,15 @@ Chlorthalidone and related drugs may increase the responsiveness to tubocurarine
 Chlorthalidone and related drugs may decrease arterial responsiveness to norepinephrine.
 This diminution is not sufficient to preclude effectiveness of the pressor agent for therapeutic use.
 
-## DRUG & OR LABORATORY TEST INTERACTIONS
+## Drug/Laboratory Test Interactions
 
 Chlorthalidone and related drugs may decrease serum PBI levels without signs of thyroid disturbance.
 
-## CARCINOGENESIS & MUTAGENESIS & IMPAIRMENT OF FERTILITY
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No information is available.
 
-## PREGNANCY
+## Pregnancy
 
 Teratogenic Effects.
 Pregnancy Category B
@@ -96,11 +96,11 @@ Thiazides cross the placental barrier and appear in cord blood.
 The use of chlorthalidone and related drugs in pregnant women requires that the anticipated benefits of the drug be weighed against possible hazards to the fetus.
 These hazards include fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in the adult.
 
-## NURSING MOTHERS
+## Nursing Mothers
 
 Thiazides are excreted in human milk.
 Because of the potential for serious adverse reactions in nursing infants from chlorthalidone, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## PEDIATRIC USE
+## Pediatric Use
 
 Safety and effectiveness in children have not been established.

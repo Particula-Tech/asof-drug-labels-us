@@ -1,4 +1,4 @@
-# DOSAGE & ADMINISTRATION
+# DOSAGE AND ADMINISTRATION
 
 Therapy should be initiated with the lowest possible dose.
 This dose should be titrated according to individual patient response to gain maximal therapeutic benefit while maintaining lowest dosage possible.
