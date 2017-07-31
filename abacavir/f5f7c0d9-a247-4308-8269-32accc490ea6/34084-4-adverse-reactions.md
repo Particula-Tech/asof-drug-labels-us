@@ -1,13 +1,13 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in other sections of the labeling:
+The following adverse reactions are discussed in other sections of the labeling:
 
 - Serious and sometimes fatal hypersensitivity reactions [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1)].
 - Hematologic toxicity, including neutropenia and anemia [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.2)].
 - Symptomatic myopathy [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.3)].
 - Lactic acidosis and severe hepatomegaly with steatosis [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.4)].
-- Acute exacerbations of hepatitis B [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.5)].
-- Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [WARNINGS AND PRECAUTIONS (5.6)].
+- Exacerbations of hepatitis B [seeBOXED WARNING, WARNINGS AND PRECAUTIONS (5.5)].
+- Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see WARNINGS AND PRECAUTIONS (5.6)].
 - Exacerbation of anemia in HIV-1/HCV co-infected patients receiving ribavirin and zidovudine [see WARNINGS AND PRECAUTIONS (5.6)].
 - Immune reconstitution syndrome [see WARNINGS AND PRECAUTIONS (5.7)].
 - Fat redistribution [see WARNINGS AND PRECAUTIONS (5.8)].
@@ -17,10 +17,24 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
+Serious and Fatal Abacavir-Associated Hypersensitivity Reactions
+
+In clinical trials, serious and sometimes fatal hypersensitivity reactions have occurred with abacavir, a component of abacavir, lamivudine and zidovudine tablets [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1)].
+These reactions have been characterized by 2 or more of the following signs or symptoms: (1) fever; (2) rash; (3) gastrointestinal symptoms (including nausea, vomiting, diarrhea, or abdominal pain); (4) constitutional symptoms (including generalized malaise, fatigue, or achiness); (5) respiratory symptoms (including dyspnea, cough, or pharyngitis).
+Almost all abacavir hypersensitivity reactions include fever and/or rash as part of the syndrome.
+
+Other signs and symptoms have included lethargy, headache, myalgia, edema, arthralgia, and paresthesia.
+Anaphylaxis, liver failure, renal failure, hypotension, adult respiratory distress syndrome, respiratory failure, myolysis, and death have occurred in association with these hypersensitivity reactions.
+Physical findings have included lymphadenopathy, mucous membrane lesions (conjunctivitis and mouth ulcerations), and maculopapular or urticarial rash (although some patients had other types of rashes and others did not have a rash).
+There were reports of erythema multiforme.
+Laboratory abnormalities included elevated liver chemistries, elevated creatine phosphokinase, elevated creatinine, and lymphopenia, and abnormal chest x-ray findings (predominantly infiltrates, which were localized).
+
+Additional Adverse Reactions with Use of Abacavir, Lamivudine and Zidovudine Tablets
+
 Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a frequency greater than or equal to 5% during therapy with abacavir 300 mg twice daily, lamivudine 150 mg twice daily, and zidovudine 300 mg twice daily compared with indinavir 800 mg 3 times daily, lamivudine 150 mg twice daily, and zidovudine 300 mg twice daily from CNA3005 are listed in Table 1.
 
 Table 1.
-Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, ≥5% Frequency) in Therapy-Naive Adults (CNA3005) Through 48 Weeks of Treatment
+Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2 to 4, Greater than or Equal to 5% Frequency) in Therapy-Naive Adults (CNA3005) through 48 Weeks of Treatment
 
 | Adverse Reaction | ZIAGEN® plus Lamivudine/Zidovudine (n=262) | Indinavir plus Lamivudine/Zidovudine (n=264) |
 | --- | --- | --- |
@@ -50,9 +64,8 @@ Laboratory abnormalities in CNA3005 are listed in Table 2.
 Table 2.
 Treatment-Emergent Laboratory Abnormalities (Grades 3/4) in CNA3005
 
-| Grade 3/4 Laboratory Abnormalities | ZIAGEN® plus Lamivudine/Zidovudine (n = 262) | Indinavir plus Lamivudine/Zidovudine (n = 264) |
+| Laboratory Parameter | ZIAGEN® plus Lamivudine/Zidovudine (n = 262) | Indinavir plus Lamivudine/Zidovudine (n = 264) |
 | --- | --- | --- |
-|  | Number of Subjects by Treatment Group |  |
 | Elevated CPK (>4 x ULN) | 18 (7%) | 18 (7%) |
 | ALT (>5.0 x ULN) | 16 (6%) | 16 (6%) |
 | Neutropenia (<750/mm3) | 13 (5%) | 13 (5%) |
@@ -69,45 +82,75 @@ In addition to adverse reactions in Tables 1 and 2, other adverse events observe
 
 ## 6.2 Postmarketing Experience
 
-In addition to adverse reactions reported from clinical trials, the following reactions have been identified during postmarketing use of abacavir, lamivudine, and/or zidovudine.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to abacavir, lamivudine and/or zidovudine.
+The following adverse reactions have been identified during postmarketing use.
+Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Abacavir
 
-Cardiovascular: Myocardial infarction.
+Cardiovascular:
 
-Skin: Suspected Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in patients receiving abacavir primarily in combination with medications known to be associated with SJS and TEN, respectively.
+Myocardial infarction.
+
+Skin:
+
+Suspected Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in patients receiving abacavir primarily in combination with medications known to be associated with SJS and TEN, respectively.
 Because of the overlap of clinical signs and symptoms between hypersensitivity to abacavir and SJS and TEN, and the possibility of multiple drug sensitivities in some patients, abacavir should be discontinued and not restarted in such cases.
-
-There have also been reports of erythema multiforme with abacavir use.
+There have also been reports of erythema multiforme with abacavir use [see ADVERSE REACTIONS (6.1)].
 
 Abacavir, Lamivudine, and/or Zidovudine
 
-Body as a Whole: Redistribution/accumulation of body fat [see WARNINGS AND PRECAUTIONS (5.8)].
+Body as a Whole:
 
-Cardiovascular: Cardiomyopathy.
+Redistribution/accumulation of body fat [see WARNINGS AND PRECAUTIONS (5.8)].
 
-Digestive: Stomatitis.
+Cardiovascular:
 
-Endocrine and Metabolic: Gynecomastia, hyperglycemia.
+Cardiomyopathy.
 
-Gastrointestinal: Anorexia and/or decreased appetite, abdominal pain, dyspepsia, oral mucosal pigmentation.
+Digestive:
 
-General: Vasculitis, weakness.
+Stomatitis.
 
-Hemic and Lymphatic: Aplastic anemia, anemia (including pure red cell aplasia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly, thrombocytopenia.
+Endocrine and Metabolic:
 
-Hepatic: Lactic acidosis and hepatic steatosis [see WARNINGS AND PRECAUTIONS (5.4)], elevated bilirubin, elevated transaminases, posttreatment exacerbation of hepatitis B [see WARNINGS AND PRECAUTIONS (5.5)].
+Gynecomastia.
 
-Hypersensitivity: Sensitization reactions (including anaphylaxis), urticaria.
+Gastrointestinal:
 
-Musculoskeletal: Arthralgia, myalgia, muscle weakness, CPK elevation, rhabdomyolysis.
+Anorexia and/or decreased appetite, abdominal pain, dyspepsia, oral mucosal pigmentation.
 
-Nervous: Dizziness, paresthesia, peripheral neuropathy, seizures.
+General:
 
-Psychiatric: Insomnia and other sleep disorders.
+Vasculitis, weakness.
 
-Respiratory: Abnormal breath sounds/wheezing.
+Hemic and Lymphatic:
 
-Skin: Alopecia, erythema multiforme, Stevens-Johnson syndrome.
+Aplastic anemia, anemia (including pure red cell aplasia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly, thrombocytopenia.
+
+Hepatic:
+
+Lactic acidosis and hepatic steatosis [see WARNINGS AND PRECAUTIONS (5.4)], elevated bilirubin, elevated transaminases, posttreatment exacerbations of hepatitis B [see WARNINGS AND PRECAUTIONS (5.5)].
+
+Hypersensitivity:
+
+Sensitization reactions (including anaphylaxis), urticaria.
+
+Musculoskeletal:
+
+Arthralgia, myalgia, muscle weakness, rhabdomyolysis.
+
+Nervous:
+
+Dizziness, paresthesia, peripheral neuropathy, seizures.
+
+Psychiatric:
+
+Insomnia and other sleep disorders.
+
+Respiratory:
+
+Abnormal breath sounds/wheezing.
+
+Skin:
+
+Alopecia, erythema multiforme, Stevens-Johnson syndrome.

@@ -1,6 +1,6 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Abacavir sulfate, lamivudine and zidovudine is available as tablets.
+Abacavir, lamivudine and zidovudine is available as tablets.
 Each tablet contains 300 mg of abacavir as abacavir sulfate, 150 mg of lamivudine, and 300 mg of zidovudine.
 The tablets are blue-green colored, oval shaped, biconvex, film-coated, debossed with "LU" on one side and "N51" on the other side.
 They are packaged as follows:

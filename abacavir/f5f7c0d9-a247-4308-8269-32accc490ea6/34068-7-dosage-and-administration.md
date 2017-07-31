@@ -1,17 +1,18 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-- A Medication Guide and Warning Card that provide information about recognition of hypersensitivity reactions should be dispensed with each new prescription and refill.
-- Abacavir sulfate, lamivudine and zidovudine tablets can be taken with or without food.
+## 2.1 Screening for HLA-B*5701 Allele prior to Starting Abacavir, Lamivudine and Zidovudine Tablets
 
-## 2.1 Adults and Adolescent Patients
+Screen for the HLA-B*5701 allele prior to initiating therapy with abacavir, lamivudine and zidovudine tablets [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1)].
 
-The recommended oral dose of abacavir sulfate, lamivudine and zidovudine tablet is one tablet twice daily.
+## 2.2 Recommended Dosage for Adults and Pediatric Patients Weighing at Least 40 kg
 
-Abacavir sulfate, lamivudine and zidovudine tablet is not recommended in adolescents who weigh less than 40 kg because it is a fixed-dose tablet and cannot be dose adjusted.
+The recommended dosage of abacavir, lamivudine and zidovudine tablet is one tablet taken orally twice daily with or without food.
 
-## 2.2 Dosage Adjustment
+## 2.3 Not Recommended Due to Lack of Dosage Adjustment
 
-Because it is a fixed-dose combination, abacavir sulfate, lamivudine and zidovudine tablets should not be prescribed for:
+Because abacavir, lamivudine and zidovudine tablet is a fixed-dose tablet and cannot be dose adjusted, abacavir, lamivudine and zidovudine tablet is not recommended for:
 
-- patients requiring dosage adjustment such as those with creatinine clearance <50 mL/min,
-- patients with hepatic impairment.
+- pediatric patients who weigh less than 40 kg [see USE IN SPECIFIC POPULATIONS (8.4)].
+- patients with creatinine clearance less than 50 mL per minute [see USE IN SPECIFIC POPULATIONS (8.6)].
+- patients with mild hepatic impairment.
+  Abacavir, lamivudine and zidovudine tablet is contraindicated in patients with moderate or severe hepatic impairment [see CONTRAINDICATIONS (4), USE IN SPECIFIC POPULATIONS (8.7)].

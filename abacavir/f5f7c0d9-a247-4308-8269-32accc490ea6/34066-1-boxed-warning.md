@@ -1,29 +1,32 @@
-# WARNING:
+# WARNING: HYPERSENSITIVITY REACTIONS, HEMATOLOGIC TOXICITY, MYOPATHY, LACTIC ACIDOSIS AND SEVERE HEPATOMEGALY WITH STEATOSIS, and EXACERBATIONS OF HEPATITIS B
 
-RISK OF HYPERSENSITIVITY REACTIONS, HEMATOLOGIC TOXICITY, MYOPATHY, LACTIC ACIDOSIS AND SEVERE HEPATOMEGALY, EXACERBATIONS OF HEPATITIS B
+Hypersensitivity Reactions
 
-Hypersensitivity Reactions: Serious and sometimes fatal hypersensitivity reactions have been associated with abacavir sulfate, a component of abacavir sulfate, lamivudine and zidovudine tablets.
-Hypersensitivity to abacavir is a multi-organ clinical syndrome usually characterized by a sign or symptom in 2 or more of the following groups: (1) fever, (2) rash, (3) gastrointestinal (including nausea, vomiting, diarrhea, or abdominal pain), (4) constitutional (including generalized malaise, fatigue, or achiness), and (5) respiratory (including dyspnea, cough, or pharyngitis).
-Discontinue abacavir sulfate, lamivudine and zidovudine tablets as soon as a hypersensitivity reaction is suspected.
+Serious and sometimes fatal hypersensitivity reactions, with multiple organ involvement, have occurred with abacavir, a component of abacavir, lamivudine and zidovudine tablets.
+Patients who carry the HLA-B*5701 allele are at a higher risk of a hypersensitivity reaction to abacavir; although, hypersensitivity reactions have occurred in patients who do not carry the HLA-B*5701 allele [see WARNINGS AND PRECAUTIONS (5.1)].
 
-Patients who carry the HLA-B*5701 allele are at high risk for experiencing a hypersensitivity reaction to abacavir.
-Prior to initiating therapy with abacavir, screening for the HLA-B*5701 allele is recommended; this approach has been found to decrease the risk of hypersensitivity reaction.
-Screening is also recommended prior to reinitiation of abacavir in patients of unknown HLA-B*5701 status who have previously tolerated abacavir.
-HLA-B*5701-negative patients may develop a suspected hypersensitivity reaction to abacavir; however, this occurs significantly less frequently than in HLA-B*5701-positive patients.
+Abacavir, lamivudine and zidovudine tablets are contraindicated in patients with a prior hypersensitivity reaction to abacavir and in HLA-B*5701-positive patients [see CONTRAINDICATIONS (4), WARNINGS AND PRECAUTIONS (5.1)].
+All patients should be screened for the HLA-B*5701 allele prior to initiating therapy with abacavir, lamivudine and zidovudine tablets or reinitiation of therapy with abacavir, lamivudine and zidovudine tablets, unless patients have a previously documented HLA-B*5701 allele assessment.
+Discontinue abacavir, lamivudine and zidovudine tablets immediately if a hypersensitivity reaction is suspected, regardless of HLA-B*5701 status and even when other diagnoses are possible [see CONTRAINDICATIONS (4), WARNINGS AND PRECAUTIONS (5.1)].
 
-Regardless of HLA-B*5701 status, permanently discontinue abacavir sulfate, lamivudine and zidovudine tablets if hypersensitivity cannot be ruled out, even when other diagnoses are possible.
+Following a hypersensitivity reaction to abacavir, lamivudine and zidovudine tablets, NEVER restart abacavir, lamivudine and zidovudine tablets or any other abacavir-containing product because more severe symptoms, including death, can occur within hours.
+Similar severe reactions have also occurred rarely following the reintroduction of abacavir-containing products in patients who have no history of abacavir hypersensitivity [see WARNINGS AND PRECAUTIONS (5.1)].
 
-Following a hypersensitivity reaction to abacavir, NEVER restart abacavir sulfate, lamivudine and zidovudine tablets or any other abacavir-containing product because more severe symptoms can occur within hours and may include life-threatening hypotension and death.
+Hematologic Toxicity
 
-Reintroduction of abacavir sulfate, lamivudine and zidovudine tablets or any other abacavir-containing product, even in patients who have no identified history or unrecognized symptoms of hypersensitivity to abacavir therapy, can result in serious or fatal hypersensitivity reactions.
-Such reactions can occur within hours [see WARNINGS AND PRECAUTIONS (5.1)].
+Zidovudine, a component of abacavir, lamivudine and zidovudine tablets, has been associated with hematologic toxicity, including neutropenia and severe anemia, particularly in patients with advanced Human Immunodeficiency Virus (HIV-1) disease [see WARNINGS AND PRECAUTIONS (5.2)].
 
-Hematologic Toxicity: Zidovudine, a component of abacavir sulfate, lamivudine and zidovudine tablets, has been associated with hematologic toxicity, including neutropenia and severe anemia, particularly in patients with advanced Human Immunodeficiency Virus (HIV-1) disease [see WARNINGS AND PRECAUTIONS (5.2)].
+Myopathy
 
-Myopathy: Prolonged use of zidovudine has been associated with symptomatic myopathy [see WARNINGS AND PRECAUTIONS (5.3)].
+Prolonged use of zidovudine has been associated with symptomatic myopathy [see WARNINGS AND PRECAUTIONS (5.3)].
 
-Lactic Acidosis and Severe Hepatomegaly: Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including abacavir, lamivudine, zidovudine, and other antiretrovirals [see WARNINGS AND PRECAUTIONS (5.4)].
+Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
-Exacerbations of Hepatitis B: Severe acute exacerbations of hepatitis B have been reported in patients who are co-infected with hepatitis B virus (HBV) and HIV-1 and have discontinued lamivudine, which is one component of abacavir sulfate, lamivudine and zidovudine tablets.
-Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in patients who discontinue abacavir sulfate, lamivudine and zidovudine tablets and are co-infected with HIV-1 and HBV.
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues and other antiretrovirals.
+Discontinue abacavir, lamivudine and zidovudine tablets if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity occur [see WARNINGS AND PRECAUTIONS (5.4)].
+
+Exacerbations of Hepatitis B
+
+Severe acute exacerbations of hepatitis B have been reported in patients who are co-infected with hepatitis B virus (HBV) and HIV-1 and have discontinued lamivudine, a component of abacavir, lamivudine and zidovudine tablets.
+Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in patients who discontinue abacavir, lamivudine and zidovudine tablets and are co-infected with HIV-1 and HBV.
 If appropriate, initiation of anti-hepatitis B therapy may be warranted [see WARNINGS AND PRECAUTIONS (5.5)].

@@ -1,21 +1,20 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
+
+There is no known specific treatment for overdose with abacavir, lamivudine and zidovudine tablets.
+If overdose occurs, the patient should be monitored and standard supportive treatment applied as required.
 
 Abacavir
 
-There is no known antidote for abacavir.
 It is not known whether abacavir can be removed by peritoneal dialysis or hemodialysis.
 
 Lamivudine
 
-One case of an adult ingesting 6 grams of lamivudine was reported; there were no clinical signs or symptoms noted and hematologic tests remained normal.
-It is not known whether lamivudine can be removed by peritoneal dialysis or hemodialysis.
+Because a negligible amount of lamivudine was removed via (4-hour) hemodialysis, continuous ambulatory peritoneal dialysis, and automated peritoneal dialysis, it is not known if continuous hemodialysis would provide clinical benefit in a lamivudine overdose event.
 
 Zidovudine
 
 Acute overdoses of zidovudine have been reported in pediatric patients and adults.
 These involved exposures up to 50 grams.
-The only consistent findings were nausea and vomiting.
-Other reported occurrences included headache, dizziness, drowsiness, lethargy, and confusion.
-Hematologic changes were transient.
-All patients recovered.
-Hemodialysis and peritoneal dialysis appear to have a negligible effect on the removal of zidovudine, while elimination of its primary metabolite, 3’-azido-3’-deoxy-5’-O-β-D-glucopyranuronosylthymidine (GZDV), is enhanced.
+No specific symptoms or signs have been identified following acute overdosage with zidovudine apart from those listed as adverse events such as fatigue, headache, vomiting, and occasional reports of hematological disturbances.
+Patients recovered without permanent sequelae.
+Hemodialysis and peritoneal dialysis appear to have a negligible effect on the removal of zidovudine, while elimination of its primary metabolite, 3′- azido-3′-deoxy-5′-O-β-D-glucopyranuronosylthymidine (GZDV), is enhanced.
