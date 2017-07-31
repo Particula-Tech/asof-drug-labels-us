@@ -95,7 +95,16 @@ Eight (89%) of the 9 patients received systemic corticosteroids, with 7 of the 8
 Nephritis led to discontinuation of KEYTRUDA in 3 (0.1%) patients.
 Nephritis resolved in 5 (56%) of the 9 patients.
 
-## 5.6 Other Immune-Mediated Adverse Reactions
+## 5.6 Immune-Mediated Skin Adverse Reactions
+
+Immune-mediated rashes, including SJS, TEN (some cases with fatal outcome), exfoliative dermatitis, and bullous pemphigoid, can occur.
+Monitor patients for suspected severe skin reactions and exclude other causes.
+Based on the severity of the adverse reaction, withhold or permanently discontinue KEYTRUDA and administer corticosteroids.
+For signs or symptoms of SJS or TEN, withhold KEYTRUDA and refer the patient for specialized care for assessment and treatment.
+If SJS or TEN is confirmed, permanently discontinue KEYTRUDA.
+[See Dosage and Administration (2.8).]
+
+## 5.7 Other Immune-Mediated Adverse Reactions
 
 KEYTRUDA can cause other clinically important immune-mediated adverse reactions.
 These immune-mediated reactions may involve any organ system.
@@ -107,20 +116,20 @@ Based on limited data from clinical studies in patients whose immune-related adv
 Resume KEYTRUDA when the immune-mediated adverse reaction remains at Grade 1 or less following corticosteroid taper.
 Permanently discontinue KEYTRUDA for any Grade 3 immune-mediated adverse reaction that recurs and for any life-threatening immune-mediated adverse reaction [see Dosage and Administration (2.8) and Adverse Reactions (6.1)].
 
-The following clinically significant, immune-mediated adverse reactions occurred in less than 1% (unless otherwise indicated) of 2799 patients treated with KEYTRUDA: arthritis (1.5%), exfoliative dermatitis, bullous pemphigoid, rash (1.4%), uveitis, myositis, Guillain-Barré syndrome, myasthenia gravis, vasculitis, pancreatitis, hemolytic anemia, and partial seizures arising in a patient with inflammatory foci in brain parenchyma.
+The following clinically significant, immune-mediated adverse reactions occurred in less than 1% (unless otherwise indicated) of 2799 patients treated with KEYTRUDA: arthritis (1.5%), uveitis, myositis, Guillain-Barré syndrome, myasthenia gravis, vasculitis, pancreatitis, hemolytic anemia, and partial seizures arising in a patient with inflammatory foci in brain parenchyma.
 In addition, myelitis and myocarditis were reported in other clinical trials, including cHL, and post-marketing use.
 
 Solid organ transplant rejection has been reported in the post-marketing setting in patients treated with KEYTRUDA.
 Treatment with KEYTRUDA may increase the risk of rejection in solid organ transplant recipients.
 Consider the benefit of treatment with KEYTRUDA versus the risk of possible organ rejection in these patients.
 
-## 5.7 Infusion-Related Reactions
+## 5.8 Infusion-Related Reactions
 
 KEYTRUDA can cause severe or life-threatening infusion-related reactions, including hypersensitivity and anaphylaxis, which have been reported in 6 (0.2%) of 2799 patients receiving KEYTRUDA.
 Monitor patients for signs and symptoms of infusion-related reactions including rigors, chills, wheezing, pruritus, flushing, rash, hypotension, hypoxemia, and fever.
 For severe (Grade 3) or life-threatening (Grade 4) infusion-related reactions, stop infusion and permanently discontinue KEYTRUDA [see Dosage and Administration (2.8)].
 
-## 5.8 Complications of Allogeneic HSCT after KEYTRUDA
+## 5.9 Complications of Allogeneic HSCT after KEYTRUDA
 
 Immune-mediated complications, including fatal events, occurred in patients who underwent allogeneic hematopoietic stem cell transplantation (HSCT) after being treated with KEYTRUDA.
 Of 23 patients with cHL who proceeded to allogeneic HSCT after treatment with KEYTRUDA on any trial, 6 patients (26%) developed graft-versus-host-disease (GVHD), one of which was fatal, and 2 patients (9%) developed severe hepatic veno-occlusive disease (VOD) after reduced-intensity conditioning, one of which was fatal.
@@ -128,7 +137,7 @@ Cases of fatal hyperacute GVHD after allogeneic HSCT have also been reported in 
 These complications may occur despite intervening therapy between PD-1 blockade and allogeneic HSCT.
 Follow patients closely for early evidence of transplant-related complications such as hyperacute GVHD, severe (Grade 3 to 4) acute GVHD, steroid-requiring febrile syndrome, hepatic VOD, and other immune-mediated adverse reactions, and intervene promptly.
 
-## 5.9 Embryofetal Toxicity
+## 5.10 Embryofetal Toxicity
 
 Based on its mechanism of action, KEYTRUDA can cause fetal harm when administered to a pregnant woman.
 Animal models link the PD-1/PD-L1 signaling pathway with maintenance of pregnancy through induction of maternal immune tolerance to fetal tissue.

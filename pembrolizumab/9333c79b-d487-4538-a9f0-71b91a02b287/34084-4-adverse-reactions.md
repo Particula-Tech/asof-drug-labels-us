@@ -7,8 +7,9 @@ The following adverse reactions are discussed in greater detail in other section
 - Immune-mediated hepatitis [see Warnings and Precautions (5.3)].
 - Immune-mediated endocrinopathies [see Warnings and Precautions (5.4)].
 - Immune-mediated nephritis and renal dysfunction [see Warnings and Precautions (5.5)].
-- Other immune-mediated adverse reactions [see Warnings and Precautions (5.6)].
-- Infusion-related reactions [see Warnings and Precautions (5.7)].
+- Immune-mediated skin adverse reactions [see Warnings and Precautions (5.6)].
+- Other immune-mediated adverse reactions [see Warnings and Precautions (5.7)].
+- Infusion-related reactions [see Warnings and Precautions (5.8)].
 
 ## 6.1 Clinical Trials Experience
 

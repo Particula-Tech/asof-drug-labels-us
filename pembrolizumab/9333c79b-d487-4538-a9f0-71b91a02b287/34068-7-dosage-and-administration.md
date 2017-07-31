@@ -45,8 +45,9 @@ Withhold KEYTRUDA for any of the following:
 - Grade 3 or 4 endocrinopathies [see Warnings and Precautions (5.4)]
 - Grade 4 hematological toxicity in cHL patients
 - Grade 2 nephritis [see Warnings and Precautions (5.5)]
+- Grade 3 severe skin reactions or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) [see Warnings and Precautions (5.6)]
 - Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) greater than 3 and up to 5 times upper limit of normal (ULN) or total bilirubin greater than 1.5 and up to 3 times ULN
-- Any other severe or Grade 3 treatment-related adverse reaction [see Warnings and Precautions (5.6)]
+- Any other severe or Grade 3 treatment-related adverse reaction [see Warnings and Precautions (5.7)]
 
 Resume KEYTRUDA in patients whose adverse reactions recover to Grade 0-1.
 
@@ -55,12 +56,13 @@ Permanently discontinue KEYTRUDA for any of the following:
 - Any life-threatening adverse reaction (excluding endocrinopathies controlled with hormone replacement therapy, or hematological toxicity in patients with cHL)
 - Grade 3 or 4 pneumonitis or recurrent pneumonitis of Grade 2 severity [see Warnings and Precautions (5.1)]
 - Grade 3 or 4 nephritis [see Warnings and Precautions (5.5)]
+- Grade 4 severe skin reactions or confirmed SJS or TEN [see Warnings and Precautions (5.6)]
 - AST or ALT greater than 5 times ULN or total bilirubin greater than 3 times ULN
   - For patients with liver metastasis who begin treatment with Grade 2 AST or ALT, if AST or ALT increases by greater than or equal to 50% relative to baseline and lasts for at least 1 week
-- Grade 3 or 4 infusion-related reactions [see Warnings and Precautions (5.7)]
+- Grade 3 or 4 infusion-related reactions [see Warnings and Precautions (5.8)]
 - Inability to reduce corticosteroid dose to 10 mg or less of prednisone or equivalent per day within 12 weeks
 - Persistent Grade 2 or 3 adverse reactions (excluding endocrinopathies controlled with hormone replacement therapy) that do not recover to Grade 0-1 within 12 weeks after last dose of KEYTRUDA
-- Any severe or Grade 3 treatment-related adverse reaction that recurs [see Warnings and Precautions (5.6)]
+- Any severe or Grade 3 treatment-related adverse reaction that recurs [see Warnings and Precautions (5.7)]
 
 ## 2.9 Preparation and Administration
 
