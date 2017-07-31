@@ -10,7 +10,7 @@ Syrup Mestinon® (pyridostigmine bromide syrup)
 
 Alcohol 5%
 
-VALEANT Pharmaceuticals North America LLC
+VALEANT
 
 # PRINCIPAL DISPLAY PANEL - 60 mg Tablets Bottle Label
 

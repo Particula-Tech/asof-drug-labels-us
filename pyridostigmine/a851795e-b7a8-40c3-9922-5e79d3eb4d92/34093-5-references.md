@@ -1,4 +1,4 @@
-# REFERENCES
+# REFERENCES:
 
 1. 1.Osserman KE, Genkins G. Studies in myasthenia gravis: Reduction in mortality rate after crisis.
    JAMA.
@@ -22,14 +22,14 @@
    Pyridostigmine kinetics with and without renal function.
    Clin Pharmacol Ther.
    1980; 28:No.
-   1,78-81.
+   1, 78-81.
 7. 7.Miller RD.
    Pharmacodynamics and pharmacokinetics of anticholinesterase.
    In: Ruegheimer E, Zindler M, ed.
-   Anaesthesiology.
+   Anaesthesialagy.
    (Hamburg, Germany: Congress; Sep 14-21, 1980; 222-223.)
    (Int Congr.
    No. 538), Amsterdam, Netherlands: Excerpta Medica; 1981.
 8. 8.Breyer-Pfaff U, Maier U, Brinkmann AM, Schumm F. Pyridostigmine kinetics in healthy subjects and patients with myasthenia gravis.
    Clin Pharmacol Ther.
-   1985; 5:495-501.
+   1985;5:495-501.
