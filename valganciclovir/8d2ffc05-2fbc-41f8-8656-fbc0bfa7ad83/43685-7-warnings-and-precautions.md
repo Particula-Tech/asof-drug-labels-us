@@ -2,36 +2,17 @@
 
 ## 5.1 Hematologic Toxicity
 
-Severe leukopenia, neutropenia, anemia, thrombocytopenia, pancytopenia, bone marrow aplasia, and aplastic anemia have been reported in patients treated with valganciclovir hydrochloride or ganciclovir.
+Severe leukopenia, neutropenia, anemia, thrombocytopenia, pancytopenia, and bone marrow failure including aplastic anemia have been reported in patients treated with valganciclovir hydrochloride or ganciclovir.
 Valganciclovir hydrochloride should be avoided if the absolute neutrophil count is less than 500 cells/µL, the platelet count is less than 25,000/µL, or the hemoglobin is less than 8 g/dL.
-Valganciclovir hydrochloride should also be used with caution in patients with pre-existing cytopenias, or who have received or who are receiving myelosuppressive drugs or irradiation.
+Valganciclovir hydrochloride should also be used with caution in patients with pre-existing cytopenias and in patients receiving myelosuppressive drugs or irradiation.
 Cytopenia may occur at any time during treatment and may worsen with continued dosing.
 Cell counts usually begin to recover within 3 to 7 days after discontinuing drug.
+In patients with severe leukopenia, neutropenia, anemia and/or thrombocytopenia, treatment with hematopoietic growth factors may be considered.
 
-Due to the frequency of neutropenia, anemia, and thrombocytopenia in patients receiving valganciclovir hydrochloride [see Adverse Reactions (6.1)], complete blood counts with differential and platelet counts should be performed frequently, especially in patients in whom ganciclovir or other nucleoside analogues have previously resulted in leukopenia, or in whom neutrophil counts are less than 1000 cells/µL at the beginning of treatment.
+Due to the frequency of neutropenia, anemia, and thrombocytopenia in patients receiving valganciclovir hydrochloride [see Adverse Reactions (6.1)], complete blood counts with differential and platelet counts should be performed frequently, especially in patients with renal impairment and in patients in whom ganciclovir or other nucleoside analogues have previously resulted in leukopenia, or in whom neutrophil counts are less than 1000 cells/µL at the beginning of treatment.
 Increased monitoring for cytopenias may be warranted if therapy with oral ganciclovir is changed to valganciclovir hydrochloride, because of increased plasma concentrations of ganciclovir after valganciclovir hydrochloride administration [see Clinical Pharmacology (12.3)].
 
-## 5.2 Impairment of Fertility
-
-Based on animal data with ganciclovir, valganciclovir hydrochloride at the recommended human doses may cause temporary or permanent inhibition of spermatogenesis in males, and may cause suppression of fertility in females.
-Advise patients that fertility may be impaired with use of valganciclovir hydrochloride [see Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
-
-## 5.3 Fetal Toxicity
-
-Ganciclovir may cause fetal toxicity when administered to pregnant women based on findings in animal studies.
-When given to pregnant rabbits at dosages resulting in 2-times the human exposure (based on AUC), ganciclovir caused malformations in multiple organs of the fetuses.
-Maternal and fetal toxicity were also observed in pregnant mice and rabbits.
-Therefore, valganciclovir hydrochloride has the potential to cause birth defects.
-Pregnancy should be avoided in female patients taking valganciclovir hydrochloride and in females with male partners taking valganciclovir hydrochloride.
-Females of reproductive potential should be advised to use effective contraception during treatment and for at least 30 days following treatment with valganciclovir hydrochloride.
-Similarly, males should be advised to practice barrier contraception during and for at least 90 days following treatment with valganciclovir hydrochloride [see Dosage and Administration (2.6), Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
-
-## 5.4 Mutagenesis and Carcinogenesis
-
-Animal data indicate that ganciclovir is mutagenic and carcinogenic.
-Valganciclovir hydrochloride should therefore be considered a potential carcinogen in humans [see Dosage and Administration (2.6), Nonclinical Toxicology (13.1)].
-
-## 5.5 Acute Renal Failure
+## 5.2 Acute Renal Failure
 
 Acute renal failure may occur in:
 
@@ -41,3 +22,23 @@ Acute renal failure may occur in:
   Caution should be exercised when administering valganciclovir hydrochloride to patients receiving potential nephrotoxic drugs.
 - Patients without adequate hydration.
   Adequate hydration should be maintained for all patients.
+
+## 5.3 Impairment of Fertility
+
+Based on animal data with ganciclovir, valganciclovir hydrochloride at the recommended human doses may cause temporary or permanent inhibition of spermatogenesis in males, and may cause suppression of fertility in females.
+Advise patients that fertility may be impaired with use of valganciclovir hydrochloride [see Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
+
+## 5.4 Fetal Toxicity
+
+Ganciclovir may cause fetal toxicity when administered to pregnant women based on findings in animal studies.
+When given to pregnant rabbits at dosages resulting in 2-times the human exposure (based on AUC), ganciclovir caused malformations in multiple organs of the fetuses.
+Maternal and fetal toxicity were also observed in pregnant mice and rabbits.
+Therefore, valganciclovir hydrochloride has the potential to cause birth defects.
+Pregnancy should be avoided in female patients taking valganciclovir hydrochloride and in females with male partners taking valganciclovir hydrochloride.
+Females of reproductive potential should be advised to use effective contraception during treatment and for at least 30 days following treatment with valganciclovir hydrochloride because of the potential risk to the fetus.
+Similarly, males should be advised to use condoms during and for at least 90 days following treatment with valganciclovir hydrochloride [see Dosage and Administration (2.6), Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
+
+## 5.5 Mutagenesis and Carcinogenesis
+
+Animal data indicate that ganciclovir is mutagenic and carcinogenic.
+Valganciclovir hydrochloride should therefore be considered a potential carcinogen in humans [see Dosage and Administration (2.6), Nonclinical Toxicology (13.1)].

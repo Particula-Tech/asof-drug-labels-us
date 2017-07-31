@@ -21,7 +21,7 @@ Prevention of CMV Disease:
 
 ## 2.3 Recommended Dosage in Pediatric Patients
 
-Prevention of CMV Disease in Pediatric Heart Transplant Patients: For pediatric heart transplant patients 4 months to 16 years of age, the recommended once daily mg dose (7x BSA x CrCL) should start within 10 days of transplantation until 100 days post-transplantation.
+Prevention of CMV Disease in Pediatric Heart Transplant Patients: For pediatric heart transplant patients 4 months to 16 years of age, the recommended once daily mg dose (7 x BSA x CrCL) should start within 10 days of transplantation until 100 days post-transplantation.
 The recommended once daily dosage of valganciclovir tablets are based on body surface area (BSA) and creatinine clearance (CrCl) derived from a modified Schwartz formula, and is calculated using the equation below: Pediatric Dose (mg) = 7 x BSA x CrCl (calculated using a modified Schwartz formula).
 If the calculated Schwartz creatinine clearance exceeds 150 mL/min/1.73m2, then a maximum value of 150 mL/min/1.73m2 should be used in the equation.
 The k values used in the modified Schwartz formula are based on pediatric patient age, as shown in Table 1.
@@ -49,7 +49,7 @@ However, due to Roche Palo Alto LLC’s marketing exclusivity rights, this drug 
 
 ## 2.5 Dosage Recommendation for Adult Patients with Renal Impairment
 
-Serum creatinine levels or creatinine clearance should be monitored regularly during treatment.
+Serum creatinine levels or estimated creatinine clearance should be monitored regularly during treatment.
 Dosage recommendations for adult patients with reduced renal function are provided in Table 2.
 For adult patients on hemodialysis (CrCl less than 10 mL/min), a dose recommendation for valganciclovir tablets cannot be given [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
 
@@ -77,7 +77,7 @@ For females = 0.85 x male value Dosing in pediatric patients with renal impairme
 
 Caution should be exercised in the handling of valganciclovir tablets.
 Tablets should not be broken or crushed.
-Because valganciclovir is considered a potential teratogen and carcinogen in humans, caution should be observed in handling broken tablets [see Warnings and Precautions (5.3, 5.4)].
+Because valganciclovir is considered a potential teratogen and carcinogen in humans, caution should be observed in handling broken tablets [see Warnings and Precautions (5.4, 5.5)].
 Avoid direct contact with broken or crushed tablets with skin or mucous membranes.
 If such contact occurs, wash thoroughly with soap and water, and rinse eyes thoroughly with plain water.
 Handle and dispose valganciclovir tablets according to guidelines for antineoplastic drugs because ganciclovir shares some of the properties of antitumor agents (i.e., carcinogenicity and mutagenicity)2.
