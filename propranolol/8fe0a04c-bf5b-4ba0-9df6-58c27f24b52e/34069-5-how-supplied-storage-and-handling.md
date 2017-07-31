@@ -10,7 +10,7 @@ NDC 0054-3727-63: Bottle of 500 mL
 
 NDC 0054-3730-63: Bottle of 500 mL
 
-## Storage
+Storage
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
@@ -22,4 +22,4 @@ Pharmaceuticals Corp.
 
 Eatontown, NJ 07724
 
-4071708//07 Revised July 2016
+4071708//08 Revised May 2017

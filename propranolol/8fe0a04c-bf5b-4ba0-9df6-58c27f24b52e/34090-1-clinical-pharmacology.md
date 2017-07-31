@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## General
+General
 
 Propranolol is a nonselective beta-adrenergic receptor blocking agent possessing no other autonomic nervous system activity.
 It specifically competes with beta-adrenergic receptor agonist agents for available receptor sites.
@@ -8,7 +8,7 @@ When access to beta-receptor sites is blocked by propranolol, the chronotropic, 
 At dosages greater than required for beta-blockade, propranolol also exerts a quinidine-like or anesthetic-like membrane action, which affects the cardiac action potential.
 The significance of the membrane action in the treatment of arrhythmias is uncertain.
 
-## Mechanism of Action
+Mechanism of Action
 
 The mechanism of the antihypertensive effect of propranolol has not been established.
 Factors that may contribute to the antihypertensive action include: (1) decreased cardiac output, (2) inhibition of renin release by the kidneys, and (3) diminution of tonic sympathetic nerve outflow from vasomotor centers in the brain.

@@ -1,10 +1,10 @@
 # DOSAGE AND ADMINISTRATION
 
-## General
+General
 
 Because of the variable bioavailability of propranolol, the dose should be individualized based on response.
 
-## Hypertension
+Hypertension
 
 The usual initial dosage is 40 mg propranolol twice daily, whether used alone or added to a diuretic.
 Dosage may be increased gradually until adequate blood pressure control is achieved.
@@ -16,17 +16,17 @@ While twice-daily dosing is effective and can maintain a reduction in blood pres
 This can be evaluated by measuring blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day.
 If control is not adequate, a larger dose, or 3-times-daily therapy may achieve better control.
 
-## Angina Pectoris
+Angina Pectoris
 
 Total daily doses of 80 mg to 320 mg propranolol, when administered orally, twice a day, three times a day, or four times a day, have been shown to increase exercise tolerance and to reduce ischemic changes in the ECG.
 If treatment is to be discontinued, reduce dosage gradually over a period of several weeks.
 (See WARNINGS.)
 
-## Atrial Fibrillation
+Atrial Fibrillation
 
 The recommended dose is 10 mg to 30 mg propranolol three or four times daily before meals and at bedtime.
 
-## Myocardial Infarction
+Myocardial Infarction
 
 In the Beta-Blocker Heart Attack Trial (BHAT), the initial dose was 40 mg t.i.d., with titration after 1 month to 60 mg to 80 mg t.i.d. as tolerated.
 The recommended daily dosage is 180 mg to 240 mg propranolol per day in divided doses.
@@ -34,7 +34,7 @@ Although a t.i.d. regimen was used in the BHAT and a q.i.d. regimen in the Norwe
 The effectiveness and safety of daily dosages greater than 240 mg for prevention of cardiac mortality have not been established.
 However, higher dosages may be needed to effectively treat co-existing diseases such as angina or hypertension (see above).
 
-## Migraine
+Migraine
 
 The initial dose is 80 mg propranolol daily in divided doses.
 The usual effective dose range is 160 mg to 240 mg per day.
@@ -42,17 +42,17 @@ The dosage may be increased gradually to achieve optimum migraine prophylaxis.
 If a satisfactory response is not obtained within four to six weeks after reaching the maximum dose, propranolol therapy should be discontinued.
 It may be advisable to withdraw the drug gradually over a period of several weeks.
 
-## Essential Tremor
+Essential Tremor
 
 The initial dosage is 40 mg propranolol twice daily.
 Optimum reduction of essential tremor is usually achieved with a dose of 120 mg per day.
 Occasionally, it may be necessary to administer 240 mg to 320 mg per day.
 
-## Hypertrophic Subaortic Stenosis
+Hypertrophic Subaortic Stenosis
 
 The usual dosage is 20 mg to 40 mg propranolol three or four times daily before meals and at bedtime.
 
-## Pheochromocytoma
+Pheochromocytoma
 
 The usual dosage is 60 mg propranolol daily in divided doses for three days prior to surgery as adjunctive therapy to alpha-adrenergic blockade.
 For the management of inoperable tumors, the usual dosage is 30 mg daily in divided doses as adjunctive therapy to alpha-adrenergic blockade.
