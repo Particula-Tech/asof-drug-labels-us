@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203434"
+  ],
+  "inn": "acetazolamide",
+  "labeler": "Ingenus Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "50742-233-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "acetazolamide",
+      "name": "Acetazolamide"
+    }
+  ],
+  "setid": "a1f6ed35-9188-4115-8a3c-1ac91c07bf7d",
+  "source": "dailymed"
+}
