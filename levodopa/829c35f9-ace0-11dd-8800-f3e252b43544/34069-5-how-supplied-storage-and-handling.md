@@ -39,4 +39,5 @@ Bottle of 500's NDC 62756-519-13
 
 Bottle of 1000's NDC 62756-519-18 Storage Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Store in a tightly closed container, protected from light and moisture.
+
 Dispense in a tightly closed, light-resistant container.
