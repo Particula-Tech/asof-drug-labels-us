@@ -9,7 +9,7 @@ The clinical significance of these findings is unknown.
 
 Inflammation is an important component in the pathogenesis of asthma.
 Corticosteroids have been shown to have a wide range of actions on multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines) involved in inflammation.
-These anti‑inflammatory actions of corticosteroids contribute to their efficacy in asthma.
+These anti-inflammatory actions of corticosteroids contribute to their efficacy in asthma.
 
 Though effective for the treatment of asthma, corticosteroids do not affect asthma symptoms immediately.
 Individual patients will experience a variable time to onset and degree of symptom relief.
@@ -17,25 +17,25 @@ Maximum benefit may not be achieved for 1 to 2 weeks or longer after starting tr
 When corticosteroids are discontinued, asthma stability may persist for several days or longer.
 
 Trials in subjects with asthma have shown a favorable ratio between topical anti-inflammatory activity and systemic corticosteroid effects with recommended doses of orally inhaled fluticasone propionate.
-This is explained by a combination of a relatively high local anti-inflammatory effect, negligible oral systemic bioavailability (less than 1%), and the minimal pharmacological activity of the only metabolite detected in man.
+This is explained by a combination of a relatively high local anti-inflammatory effect, negligible oral systemic bioavailability (<1%), and the minimal pharmacological activity of the only metabolite detected in man.
 
 ## 12.2 Pharmacodynamics
 
-In clinical trials with fluticasone propionate inhalation powder using dosages up to and including 250 mcg twice daily, occasional abnormal short cosyntropin tests (peak serum cortisol less than 18 mcg/dL assessed by radioimmunoassay) were noted both in subjects receiving fluticasone propionate and in subjects receiving placebo.
+In clinical trials with fluticasone propionate inhalation powder using dosages up to and including 250 mcg twice daily, occasional abnormal short cosyntropin tests (peak serum cortisol <18 mcg/dL assessed by radioimmunoassay) were noted both in subjects receiving fluticasone propionate and in subjects receiving placebo.
 The incidence of abnormal tests at 500 mcg twice daily was greater than placebo.
-In a 2-year trial carried out with the DISKHALER® inhalation device in 64 subjects with mild, persistent asthma (mean FEV1 91% of predicted) randomized to fluticasone propionate 500 mcg twice daily or placebo, no subject receiving fluticasone propionate had an abnormal response to 6-hour cosyntropin infusion (peak serum cortisol less than 18 mcg/dL).
-With a peak cortisol threshold of less than 35 mcg/dL, 1 subject receiving fluticasone propionate (4%) had an abnormal response at 1 year; repeat testing at 18 months and 2 years was normal.
+In a 2-year trial carried out with the DISKHALER inhalation device in 64 subjects with mild, persistent asthma (mean FEV1 91% of predicted) randomized to fluticasone propionate 500 mcg twice daily or placebo, no subject receiving fluticasone propionate had an abnormal response to 6-hour cosyntropin infusion (peak serum cortisol <18 mcg/dL).
+With a peak cortisol threshold of <35 mcg/dL, 1 subject receiving fluticasone propionate (4%) had an abnormal response at 1 year; repeat testing at 18 months and 2 years was normal.
 Another subject receiving fluticasone propionate (5%) had an abnormal response at 2 years.
 No subject on placebo had an abnormal response at 1 or 2 years.
 
 In a placebo-controlled clinical trial conducted in subjects aged 4 to 11 years, a 30-minute cosyntropin stimulation test was performed in 41 subjects after 12 weeks of dosing with 50 or 100 mcg twice daily of fluticasone propionate via the DISKUS inhaler.
-One subject receiving fluticasone propionate via the DISKUS inhaler had a prestimulation plasma cortisol concentration less than 5 mcg/dL, and 2 subjects had a rise in cortisol of less than 7 mcg/dL.
-However, all poststimulation values were greater than 18 mcg/dL.
+One subject receiving fluticasone propionate via the DISKUS inhaler had a prestimulation plasma cortisol concentration <5 mcg/dL, and 2 subjects had a rise in cortisol of <7 mcg/dL.
+However, all poststimulation values were >18 mcg/dL.
 
 The potential systemic effects of inhaled fluticasone propionate on the HPA axis were also studied in subjects with asthma.
 Fluticasone propionate given by inhalation aerosol at dosages of 220, 440, 660, or 880 mcg twice daily was compared with placebo or oral prednisone 10 mg given once daily for 4 weeks.
 For most subjects, the ability to increase cortisol production in response to stress, as assessed by 6-hour cosyntropin stimulation, remained intact with inhaled fluticasone propionate treatment.
-No subject had an abnormal response (peak serum cortisol less than 18 mcg/dL) after dosing with placebo or fluticasone propionate 220 mcg twice daily.
+No subject had an abnormal response (peak serum cortisol <18 mcg/dL) after dosing with placebo or fluticasone propionate 220 mcg twice daily.
 For subjects treated with 440, 660, and 880 mcg twice daily, 10%, 16%, and 12%, respectively, had an abnormal response as compared with 29% of subjects treated with prednisone.
 
 ## 12.3 Pharmacokinetics
@@ -43,7 +43,7 @@ For subjects treated with 440, 660, and 880 mcg twice daily, 10%, 16%, and 12%, 
 Absorption
 
 Fluticasone propionate acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
-Trials using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (less than 1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
+Trials using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (<1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
 In contrast, the majority of the fluticasone propionate delivered to the lung is systemically absorbed.
 The absolute bioavailability of fluticasone propionate from the DISKUS inhaler in healthy volunteers averages 7.8%.
 
@@ -60,7 +60,7 @@ Fluticasone propionate is weakly and reversibly bound to erythrocytes and is not
 
 Metabolism
 
-The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
+The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for <0.02% of the total.
 The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
 This metabolite had less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
@@ -70,25 +70,25 @@ Elimination
 Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
 Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 
-Special Populations
+Specific Populations
 
-Gender: Full pharmacokinetic profiles were obtained from 9 female and 16 male subjects given 500 mcg twice daily.
+Male and Female Patients: Full pharmacokinetic profiles were obtained from 9 female and 16 male subjects given 500 mcg twice daily.
 No overall differences in fluticasone propionate pharmacokinetics were observed.
 
-Pediatrics: In a clinical trial conducted in subjects aged 4 to 11 years with mild to moderate asthma, fluticasone propionate concentrations were obtained in 61 subjects at 20 and 40 minutes after dosing with 50 and 100 mcg twice daily of fluticasone propionate inhalation powder using the DISKUS.
+Pediatric Patients: In a clinical trial conducted in subjects aged 4 to 11 years with mild to moderate asthma, fluticasone propionate concentrations were obtained in 61 subjects at 20 and 40 minutes after dosing with 50 and 100 mcg twice daily of fluticasone propionate inhalation powder using the DISKUS.
 Plasma concentrations were low and ranged from undetectable (about 80% of the plasma samples) to 88 pg/mL.
 Mean peak fluticasone propionate plasma concentrations at the 50- and 100-mcg dose levels were 5 and 8 pg/mL, respectively.
 
-Hepatic and Renal Impairment: Formal pharmacokinetic studies using FLOVENT DISKUS have not been conducted in patients with hepatic or renal impairment.
+Patients with Hepatic and Renal Impairment: Formal pharmacokinetic studies using FLOVENT DISKUS have not been conducted in patients with hepatic or renal impairment.
 However, since fluticasone propionate is predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of fluticasone propionate in plasma.
 Therefore, patients with hepatic disease should be closely monitored.
 
-Drug Interactions
+Drug Interaction Studies
 
 Inhibitors of Cytochrome P450 3A4: Ritonavir: Fluticasone propionate is a substrate of CYP3A4.
 Coadministration of fluticasone propionate and the strong CYP3A4 inhibitor ritonavir is not recommended based upon a multiple-dose, crossover drug interaction trial in 18 healthy subjects.
 Fluticasone propionate aqueous nasal spray (200 mcg once daily) was coadministered for 7 days with ritonavir (100 mg twice daily).
-Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (less than 10 pg/mL) in most subjects, and when concentrations were detectable, peak levels (Cmax) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC(0-τ) averaged 8.43 pg•h/mL (range: 4.2 to 18.8 pg•h/mL).
+Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (<10 pg/mL) in most subjects, and when concentrations were detectable, peak levels (Cmax) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC(0-τ) averaged 8.43 pg•h/mL (range: 4.2 to 18.8 pg•h/mL).
 Fluticasone propionate Cmax and AUC(0-τ) increased to 318 pg/mL (range: 110 to 648 pg/mL) and 3,102.6 pg•h/mL (range: 1,207.1 to 5,662.0 pg•h/mL), respectively, after coadministration of ritonavir with fluticasone propionate aqueous nasal spray.
 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in serum cortisol AUC.
 

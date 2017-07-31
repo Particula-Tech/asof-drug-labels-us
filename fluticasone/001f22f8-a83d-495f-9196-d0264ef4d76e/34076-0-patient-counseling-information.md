@@ -52,13 +52,12 @@ Patients should not increase the prescribed dosage but should contact their phys
 Instruct patients not to stop use of FLOVENT DISKUS abruptly.
 Patients should contact their physicians immediately if they discontinue use of FLOVENT DISKUS.
 
-DISKHALER, DISKUS, FLOVENT, and ROTADISK are registered trademarks of the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2016 the GSK group of companies.
-All rights reserved.
+©2017 GSK group of companies or its licensor.
 
-FLD:10PI
+FLD:11PI

@@ -1,35 +1,33 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Flovent DISKUS should be administered by the orally inhaled route only in patients aged 4 years and older.
+## 2.1 Administration Information
+
+FLOVENT DISKUS should be administered by the orally inhaled route in patients aged 4 years and older.
 After inhalation, the patient should rinse his/her mouth with water without swallowing to help reduce the risk of oropharyngeal candidiasis.
+
+## 2.2 Recommended Dosage
+
+Adult and Adolescent Patients Aged 12 Years and Older
+
+The starting dosage is based on previous asthma therapy and asthma severity, including consideration of patients’ current control of asthma symptoms and risk of future exacerbation.
+The recommended starting dosage for patients aged 12 years and older who are not on an inhaled corticosteroid is 100 mcg twice daily, approximately 12 hours apart.
+For other patients, and for patients who do not respond adequately to the starting dosage after 2 weeks of therapy, higher dosages may provide additional asthma control.
+The maximum recommended dosage for patients aged 12 years and older is 1,000 mcg twice daily.
+
+Pediatric Patients Aged 4 to 11 Years
+
+The starting dosage is based on previous asthma therapy and asthma severity, including consideration of patients’ current control of asthma symptoms and risk of future exacerbation.
+For patients aged 4 to 11 years not on an inhaled corticosteroid, the recommended starting dosage is 50 mcg twice daily, approximately 12 hours apart.
+For other patients, and for patients who do not respond adequately to the starting dosage after 2 weeks of therapy, increasing the dosage to 100 mcg twice daily may provide additional asthma control.
+The maximum recommended dosage for patients aged 4 to 11 years is 100 mcg twice daily.
+
+General Dosing Recommendations
+
+If symptoms arise between doses, an inhaled short-acting beta2-agonist should be used for immediate relief.
 
 Individual patients will experience a variable time to onset and degree of symptom relief.
 Maximum benefit may not be achieved for 1 to 2 weeks or longer after starting treatment.
 
-After asthma stability has been achieved, it is always desirable to titrate to the lowest effective dosage to reduce the possibility of side effects.
-For patients who do not respond adequately to the starting dosage after 2 weeks of therapy, higher dosages may provide additional asthma control.
-The safety and efficacy of FLOVENT DISKUS when administered in excess of recommended dosages have not been established.
+If a dosage regimen fails to provide adequate control of asthma, the therapeutic regimen should be re-evaluated and additional therapeutic options, e.g., replacing the current strength with a higher strength, initiating an inhaled corticosteroid and long-acting beta2-agonist (LABA) combination product, or initiating oral corticosteroids, should be considered.
 
-The recommended starting dosage and the highest recommended dosage of FLOVENT DISKUS, based on prior asthma therapy, are listed in Table 1.
-
-Table 1.
-Recommended Dosages of FLOVENT DISKUS
-
-NOTE: In all patients, it is desirable to titrate to the lowest effective dosage once asthma stability is achieved.
-
-| Previous Therapy | Recommended Starting Dosage | Highest Recommended Dosage |
-| --- | --- | --- |
-| Adult and adolescent patients (aged 12 years and older) |  |  |
-| Bronchodilators alone | 100 mcg twice daily | 500 mcg twice daily |
-| Inhaled corticosteroids | 100-250 mcg twice dailya | 500 mcg twice daily |
-| Oral corticosteroidsb | 500-1,000 mcg twice dailyc | 1,000 mcg twice daily |
-| Pediatric patients (aged 4-11 years)d | 50 mcg twice dailya | 100 mcg twice daily |
-
-1. a Starting dosages above 100 mcg twice daily for adult and adolescent patients and 50 mcg twice daily for pediatric patients aged 4 to 11 years may be considered for patients with poorer asthma control or those who have previously required doses of inhaled corticosteroids that are in the higher range for the specific agent.
-2. b For patients currently receiving chronic oral corticosteroid therapy, prednisone should be reduced no faster than 2.5 to 5 mg/day on a weekly basis beginning after at least 1 week of therapy with FLOVENT DISKUS.
-   Patients should be carefully monitored for signs of asthma instability, including serial objective measures of airflow, and for signs of adrenal insufficiency [see Warnings and Precautions (5.4)].
-   Once prednisone reduction is complete, the dosage of FLOVENT DISKUS should be reduced to the lowest effective dosage.
-3. c The choice of starting dosage should be made on the basis of individual patient assessment.
-   A controlled clinical trial of 111 oral corticosteroid-dependent subjects with asthma showed few significant differences between the 2 doses of FLOVENT DISKUS on safety and efficacy endpoints.
-   However, inability to decrease the dose of oral corticosteroids further during corticosteroid reduction may be indicative of the need to increase the dose of fluticasone propionate up to the maximum of 1,000 mcg twice daily.
-4. d Because individual responses may vary, pediatric patients previously maintained on other inhaled corticosteroids may require dosage adjustments upon transfer to FLOVENT DISKUS.
+After asthma stability has been achieved, titrate to the lowest effective dosage to reduce the possibility of side effects.

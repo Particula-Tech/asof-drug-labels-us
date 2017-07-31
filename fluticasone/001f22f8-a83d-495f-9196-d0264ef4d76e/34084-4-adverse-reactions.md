@@ -13,9 +13,9 @@ Systemic and local corticosteroid use may result in the following:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The incidence of common adverse reactions in Table 2 is based upon 7 placebo-controlled U.S. clinical trials in which 1,176 pediatric, adolescent, and adult subjects (466 females and 710 males) previously treated with as-needed bronchodilators and/or inhaled corticosteroids were treated twice daily for up to 12 weeks with FLOVENT DISKUS (doses of 50 to 500 mcg) or placebo.
+The incidence of common adverse reactions in Table 1 is based upon 7 placebo-controlled U.S. clinical trials in which 1,176 pediatric, adolescent, and adult subjects (466 females and 710 males) previously treated with as-needed bronchodilators and/or inhaled corticosteroids were treated twice daily for up to 12 weeks with FLOVENT DISKUS (doses of 50 to 500 mcg) or placebo.
 
-Table 2.
+Table 1.
 Adverse Reactions with FLOVENT DISKUS with >3% Incidence and More Common than Placebo in Subjects with Asthma
 
 | Adverse Event | FLOVENT DISKUS 50 mcgTwice Daily(n = 178)% | FLOVENT DISKUS 100 mcg Twice Daily(n = 305)% | FLOVENT DISKUS 250 mcgTwice Daily(n = 86)% | FLOVENT DISKUS 500 mcgTwice Daily(n = 64)% | Placebo(n = 543)% |
@@ -45,7 +45,7 @@ Adverse Reactions with FLOVENT DISKUS with >3% Incidence and More Common than Pl
 | Musculoskeletal pain | 4 | 3 | 2 | 5 | 2 |
 | Injury | 2 | <1 | 0 | 5 | <1 |
 
-Table 2 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of over 3% in any of the groups treated with FLOVENT DISKUS and were more common than in the placebo group.
+Table 1 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of over 3% in any of the groups treated with FLOVENT DISKUS and were more common than in the placebo group.
 Less than 2% of subjects discontinued from the trials because of adverse reactions.
 The average duration of exposure was 73 to 79 days in the active treatment groups compared with 56 days in the placebo group.
 
@@ -54,7 +54,7 @@ Additional Adverse Reactions
 Other adverse reactions not previously listed, whether considered drug-related or not by the investigators, that were reported more frequently by subjects with asthma treated with FLOVENT DISKUS compared with subjects treated with placebo include the following: palpitations; soft tissue injuries; contusions and hematomas; wounds and lacerations; burns; poisoning and toxicity; pressure-induced disorders; hoarseness/dysphonia; epistaxis; ear, nose, throat, and tonsil signs and symptoms; ear, nose, and throat polyps; allergic ear, nose, and throat disorders; throat constriction; fluid disturbances; weight gain; appetite disturbances; keratitis and conjunctivitis; blepharoconjunctivitis; gastrointestinal signs and symptoms; oral ulcerations; dental discomfort and pain; oral erythema and rashes; mouth and tongue disorders; oral discomfort and pain; tooth decay; cholecystitis; arthralgia and articular rheumatism; muscle cramps and spasms; musculoskeletal inflammation; dizziness; sleep disorders; migraines; paralysis of cranial nerves; edema and swelling; bacterial infections; fungal infections; mobility disorders; mood disorders; bacterial reproductive infections; photodermatitis; dermatitis and dermatosis; viral skin infections; eczema; pruritus; acne and folliculitis; urinary infections.
 
 Three (3) of the 7 placebo-controlled U.S. clinical trials were pediatric trials.
-A total of 592 subjects aged 4 to 11 years were treated with FLOVENT DISKUS (dosages of 50 or 100 mcg twice daily) or placebo; an additional 174 subjects aged 4 to 11 years received FLOVENT® ROTADISK® (fluticasone propionate inhalation powder) at the same doses.
+A total of 592 subjects aged 4 to 11 years were treated with FLOVENT DISKUS (dosages of 50 or 100 mcg twice daily) or placebo; an additional 174 subjects aged 4 to 11 years received FLOVENT ROTADISK (fluticasone propionate inhalation powder) at the same doses.
 There were no clinically relevant differences in the pattern or severity of adverse events in children compared with those reported in adults.
 
 In the first 16 weeks of a 52-week clinical trial in adult subjects with asthma who previously required oral corticosteroids (daily doses of 5 to 40 mg oral prednisone), the effects of FLOVENT DISKUS 500 mcg twice daily (n = 41) and 1,000 mcg twice daily (n = 36) were compared with placebo (n = 34) for the frequency of reported adverse events.
