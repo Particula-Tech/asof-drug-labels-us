@@ -13,9 +13,9 @@ Systemic and local corticosteroid use may result in the following:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The incidence of common adverse reactions in Table 2 is based upon 2 placebo-controlled U.S. clinical trials in which 812 adult and adolescent subjects (457 females and 355 males) previously treated with as-needed bronchodilators and/or inhaled corticosteroids were treated twice daily for up to 12 weeks with 2 inhalations of FLOVENT HFA 44 mcg Inhalation Aerosol, FLOVENT HFA 110 mcg Inhalation Aerosol, FLOVENT HFA 220 mcg Inhalation Aerosol (dosages of 88, 220, or 440 mcg twice daily), or placebo.
+The incidence of common adverse reactions in Table 1 is based upon 2 placebo-controlled U.S. clinical trials in which 812 adult and adolescent subjects (457 females and 355 males) previously treated with as-needed bronchodilators and/or inhaled corticosteroids were treated twice daily for up to 12 weeks with 2 inhalations of FLOVENT HFA 44 mcg Inhalation Aerosol, FLOVENT HFA 110 mcg Inhalation Aerosol, FLOVENT HFA 220 mcg Inhalation Aerosol (dosages of 88, 220, or 440 mcg twice daily), or placebo.
 
-Table 2.
+Table 1.
 Adverse Reactions with FLOVENT HFA with >3% Incidence and More Common than Placebo in Subjects Aged 12 Years and Older with Asthma
 
 | Adverse Event | FLOVENT HFA88 mcgTwice Daily(n = 203)% | FLOVENT HFA220 mcgTwice Daily(n = 204)% | FLOVENT HFA440 mcgTwice Daily(n = 202)% | Placebo(n = 203)% |
@@ -34,7 +34,7 @@ Adverse Reactions with FLOVENT HFA with >3% Incidence and More Common than Place
 | Neurological |  |  |  |  |
 | Headache | 11 | 7 | 5 | 6 |
 
-Table 2 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of over 3% in any of the groups treated with FLOVENT HFA and were more common than in the placebo group.
+Table 1 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of over 3% in any of the groups treated with FLOVENT HFA and were more common than in the placebo group.
 Less than 2% of subjects discontinued from the trials because of adverse reactions.
 The average duration of exposure was 73 to 76 days in the active treatment groups compared with 60 days in the placebo group.
 

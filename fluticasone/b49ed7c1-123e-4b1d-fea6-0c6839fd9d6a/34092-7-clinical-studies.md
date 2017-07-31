@@ -5,7 +5,7 @@
 Three randomized, double-blind, parallel-group, placebo-controlled, U.S. clinical trials were conducted in 980 adult and adolescent subjects (aged 12 years and older) with asthma to assess the efficacy and safety of Flovent HFA in the treatment of asthma.
 Fixed dosages of 88, 220, and 440 mcg twice daily (each dose administered as 2 inhalations of the 44-, 110-, and 220-mcg strengths, respectively) and 880 mcg twice daily (administered as 4 inhalations of the 220-mcg strength) were compared with placebo to provide information about appropriate dosing to cover a range of asthma severity.
 Subjects in these trials included those inadequately controlled with bronchodilators alone (Trial 1), those already receiving inhaled corticosteroids (Trial 2), and those requiring oral corticosteroid therapy (Trial 3).
-In all 3 trials, subjects were allowed to use VENTOLIN® (albuterol, USP) Inhalation Aerosol as needed for relief of acute asthma symptoms.
+In all 3 trials, subjects were allowed to use VENTOLIN (albuterol, USP) Inhalation Aerosol as needed for relief of acute asthma symptoms.
 In Trials 1 and 2, other maintenance asthma therapies were discontinued.
 
 Trial 1 enrolled 397 subjects with asthma inadequately controlled on bronchodilators alone.
@@ -52,7 +52,7 @@ Accompanying the reduction in oral corticosteroid use, subjects treated with eit
 Figure 3.
 A 16-Week Clinical Trial in Subjects Aged 12 Years and Older Requiring Chronic Oral Prednisone Therapy: Change in Maintenance Prednisone Dose
 
-Two long-term safety trials (Trial 4 and Trial 5) of greater than or equal to 6 months’ duration were conducted in 507 adult and adolescent subjects with asthma.
+Two long-term safety trials (Trial 4 and Trial 5) of ≥6 months’ duration were conducted in 507 adult and adolescent subjects with asthma.
 Trial 4 was designed to monitor the safety of 2 doses of FLOVENT HFA, while Trial 5 compared fluticasone propionate HFA with fluticasone propionate CFC.
 Trial 4 enrolled 182 subjects who were treated daily with low to high doses of inhaled corticosteroids, beta-agonists (short-acting [as needed or regularly scheduled] or long-acting), theophylline, inhaled cromolyn or nedocromil sodium, leukotriene receptor antagonists, or 5-lipoxygenase inhibitors at baseline.
 FLOVENT HFA at dosages of 220 and 440 mcg twice daily was evaluated over a 26-week treatment period in 89 and 93 subjects, respectively.

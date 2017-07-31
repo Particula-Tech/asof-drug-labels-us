@@ -1,5 +1,6 @@
 # 11 DESCRIPTION
 
+Flovent HFA Inhalation Aerosol is a pressurized metered dose inhaler for oral inhalation.
 The active component of FLOVENT HFA 44 mcg Inhalation Aerosol, FLOVENT HFA 110 mcg Inhalation Aerosol, and FLOVENT HFA 220 mcg Inhalation Aerosol is fluticasone propionate, a corticosteroid having the chemical name S-(fluoromethyl) 6α,9-difluoro-11β,17-dihydroxy-16α-methyl-3-oxoandrosta-1,4-diene-17β-carbothioate, 17-propionate and the following chemical structure:
 
 Fluticasone propionate is a white powder with a molecular weight of 500.6, and the empirical formula is C25H31F3O5S.

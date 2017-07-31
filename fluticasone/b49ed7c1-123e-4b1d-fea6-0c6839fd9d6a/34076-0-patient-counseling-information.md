@@ -51,15 +51,14 @@ Patients should not increase the prescribed dosage but should contact their phys
 Instruct patients not to stop use of FLOVENT HFA abruptly.
 Patients should contact their physicians immediately if they discontinue use of FLOVENT HFA.
 
-DISKUS, FLOVENT, ROTADISK, and VENTOLIN are registered trademarks of the GSK group of companies.
-The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
-The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
+Trademarks are owned by or licensed to the GSK group of companies.
+The other brands listed are trademarks owned by or licensed to their respective owners and are not owned by or licensed to the GSK group of companies.
+The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2016 the GSK group of companies.
-All rights reserved.
+©2017 GSK group of companies or its licensor.
 
-FLH:9PI
+FLH:10PI

@@ -76,7 +76,7 @@ A 2-year trial in 160 subjects (females aged 18 to 40 years, males 18 to 50) wit
 
 Orally inhaled corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
 Monitor the growth of pediatric patients receiving FLOVENT HFA routinely (e.g., via stadiometry).
-To minimize the systemic effects of orally inhaled corticosteroids, including FLOVENT HFA, titrate each patient’s dosage to the lowest dosage that effectively controls his/her symptoms [see Dosage and Administration (2), Use in Specific Populations (8.4)].
+To minimize the systemic effects of orally inhaled corticosteroids, including FLOVENT HFA, titrate each patient’s dosage to the lowest dosage that effectively controls his/her symptoms [see Dosage and Administration (2.2), Use in Specific Populations (8.4)].
 
 ## 5.9 Glaucoma and Cataracts
 

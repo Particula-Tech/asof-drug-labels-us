@@ -53,7 +53,7 @@ Animal Data: Subcutaneous administration of tritiated fluticasone propionate at 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of FLOVENT HFA in children aged 4 years and older have been established [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].The safety and effectiveness of FLOVENT HFA in children younger than 4 years have not been established.
-Use of FLOVENT HFA in patients aged 4 to 11 years is supported by evidence from adequate and well-controlled trials in adults and adolescents aged 12 years and older, pharmacokinetic trials in patients aged 4 to 11 years, established efficacy of fluticasone propionate formulated as FLOVENT® DISKUS® (fluticasone propionate inhalation powder) and FLOVENT® ROTADISK® (fluticasone propionate inhalation powder) in patients aged 4 to 11 years, and supportive findings with FLOVENT HFA in a trial conducted in subjects aged 4 to 11 years.
+Use of FLOVENT HFA in patients aged 4 to 11 years is supported by evidence from adequate and well-controlled trials in adults and adolescents aged 12 years and older, pharmacokinetic trials in patients aged 4 to 11 years, established efficacy of fluticasone propionate formulated as FLOVENT DISKUS (fluticasone propionate inhalation powder) and FLOVENT ROTADISK (fluticasone propionate inhalation powder) in patients aged 4 to 11 years, and supportive findings with FLOVENT HFA in a trial conducted in subjects aged 4 to 11 years.
 
 Effects on Growth
 
@@ -89,28 +89,28 @@ Twelve-hour overnight urinary cortisol excretion after a 12-week treatment perio
 The mean and median change from baseline in urine cortisol over 12 hours were -0.7 and 0.0 mcg for FLOVENT HFA and 0.3 and -0.2 mcg for placebo, respectively.
 
 In a 1-way crossover trial in children aged 6 to younger than 12 months with reactive airways disease (N = 21), serum cortisol was measured over a 12-hour dosing period.
-Subjects received placebo treatment for a 2-week period followed by a 4-week treatment period with 88 mcg of FLOVENT HFA twice daily with an AeroChamber Plus® Valved Holding Chamber (VHC) with mask.
+Subjects received placebo treatment for a 2-week period followed by a 4-week treatment period with 88 mcg of FLOVENT HFA twice daily with an AeroChamber Plus Valved Holding Chamber (VHC) with mask.
 The geometric mean ratio of serum cortisol over 12 hours (AUC0-12 h) following FLOVENT HFA (n = 16) versus placebo (n = 18) was 0.95 (95% CI: 0.72, 1.27).
 
 Safety: FLOVENT HFA administered as 88 mcg twice daily was evaluated for safety in 239 pediatric subjects aged 1 to younger than 4 years in a 12-week, double-blind, placebo-controlled trial.
 Treatments were administered with an AeroChamber Plus VHC with mask.
-The following events occurred with a frequency greater than 3% and more frequently in subjects receiving FLOVENT HFA than in subjects receiving placebo, regardless of causality assessment: pyrexia, nasopharyngitis, upper respiratory tract infection, vomiting, otitis media, diarrhea, bronchitis, pharyngitis, and viral infection.
+The following events occurred with a frequency >3% and more frequently in subjects receiving FLOVENT HFA than in subjects receiving placebo, regardless of causality assessment: pyrexia, nasopharyngitis, upper respiratory tract infection, vomiting, otitis media, diarrhea, bronchitis, pharyngitis, and viral infection.
 
 FLOVENT HFA administered as 88 mcg twice daily was evaluated for safety in 23 pediatric subjects aged 6 to 12 months in an open-label placebo-controlled trial.
 Treatments were administered with an AeroChamber Plus VHC with mask for 2 weeks with placebo followed by 4 weeks with active drug.
 There was no discernable difference in the types of adverse events reported between subjects receiving placebo compared with the active drug.
 
 In Vitro Testing of Dose Delivery with Holding Chambers: In vitro dose characterization studies were performed to evaluate the delivery of FLOVENT HFA via holding chambers with attached masks.
-The studies were conducted with 2 different holding chambers (AeroChamber Plus VHC and AeroChamber Z-STAT Plus™ VHC) with masks (small and medium size) at inspiratory flow rates of 4.9, 8.0, and 12.0 L/min in combination with holding times of 0, 2, 5, and 10 seconds.
+The studies were conducted with 2 different holding chambers (AeroChamber Plus VHC and AeroChamber Z-STAT Plus VHC) with masks (small and medium size) at inspiratory flow rates of 4.9, 8.0, and 12.0 L/min in combination with holding times of 0, 2, 5, and 10 seconds.
 The flow rates were selected to be representative of inspiratory flow rates of children aged 6 to 12 months, 2 to 5 years, and over 5 years, respectively.
 The mean delivered dose of fluticasone propionate through the holding chambers with masks was lower than the 44 mcg of fluticasone propionate delivered directly from the actuator mouthpiece.
-The results were similar through both holding chambers (see Table 3 for data for the AeroChamber Plus VHC).
+The results were similar through both holding chambers (see Table 2 for data for the AeroChamber Plus VHC).
 The fine particle fraction (approximately 1 to 5 μm) across the flow rates used in these studies was 70% to 84% of the delivered dose, consistent with the removal of the coarser fraction by the holding chamber.
 In contrast, the fine particle fraction for FLOVENT HFA delivered without a holding chamber typically represents 42% to 55% of the delivered dose measured at the standard flow rate of 28.3 L/min.
 These data suggest that, on a per kilogram basis, young children receive a comparable dose of fluticasone propionate when delivered via a holding chamber and mask as adults do without their use.
 
-Table 3.
-In Vitro Medication Delivery through AeroChamber Plus® Valved Holding Chamber with a Mask
+Table 2.
+In Vitro Medication Delivery through AeroChamber Plus Valved Holding Chamber with a Mask
 
 | Age | Mask | Flow Rate(L/min) | Holding Time(seconds) | Mean Medication Delivery through AeroChamber Plus VHC(mcg/actuation) | Body Weight 50th Percentile(kg)a | Medication Delivered per Actuation(mcg/kg)b |
 | --- | --- | --- | --- | --- | --- | --- |

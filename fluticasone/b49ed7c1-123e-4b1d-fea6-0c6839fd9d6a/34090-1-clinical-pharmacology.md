@@ -17,7 +17,7 @@ Maximum benefit may not be achieved for 1 to 2 weeks or longer after starting tr
 When corticosteroids are discontinued, asthma stability may persist for several days or longer.
 
 Trials in subjects with asthma have shown a favorable ratio between topical anti-inflammatory activity and systemic corticosteroid effects with recommended doses of orally inhaled fluticasone propionate.
-This is explained by a combination of a relatively high local anti-inflammatory effect, negligible oral systemic bioavailability (less than 1%), and the minimal pharmacological activity of the only metabolite detected in man.
+This is explained by a combination of a relatively high local anti-inflammatory effect, negligible oral systemic bioavailability (<1%), and the minimal pharmacological activity of the only metabolite detected in man.
 
 ## 12.2 Pharmacodynamics
 
@@ -30,15 +30,15 @@ The ratio (95% CI) of urinary excretion of cortisol over 24 hours following flut
 
 The potential systemic effects of fluticasone propionate HFA on the HPA axis were also studied in subjects with asthma.
 Fluticasone propionate given by inhalation aerosol at dosages of 440 or 880 mcg twice daily was compared with placebo in oral corticosteroid-dependent subjects with asthma (range of mean dose of prednisone at baseline: 13 to 14 mg/day) in a 16-week trial.
-Consistent with maintenance treatment with oral corticosteroids, abnormal plasma cortisol responses to short cosyntropin stimulation (peak plasma cortisol less than 18 mcg/dL) were present at baseline in the majority of subjects participating in this trial (69% of subjects later randomized to placebo and 72% to 78% of subjects later randomized to fluticasone propionate HFA).
-At week 16, 8 subjects (73%) on placebo compared with 14 (54%) and 13 (68%) subjects receiving fluticasone propionate HFA (440 and 880 mcg twice daily, respectively) had post-stimulation cortisol levels of less than 18 mcg/dL.
+Consistent with maintenance treatment with oral corticosteroids, abnormal plasma cortisol responses to short cosyntropin stimulation (peak plasma cortisol <18 mcg/dL) were present at baseline in the majority of subjects participating in this trial (69% of subjects later randomized to placebo and 72% to 78% of subjects later randomized to fluticasone propionate HFA).
+At week 16, 8 subjects (73%) on placebo compared with 14 (54%) and 13 (68%) subjects receiving fluticasone propionate HFA (440 and 880 mcg twice daily, respectively) had post-stimulation cortisol levels of <18 mcg/dL.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
 Fluticasone propionate acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
-Trials using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (less than 1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
+Trials using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (<1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
 In contrast, the majority of the fluticasone propionate delivered to the lung is systemically absorbed.
 
 Distribution
@@ -51,7 +51,7 @@ Fluticasone propionate is weakly and reversibly bound to erythrocytes and is not
 
 Metabolism
 
-The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
+The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for <0.02% of the total.
 The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
 This metabolite had less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
@@ -61,11 +61,11 @@ Elimination
 Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
 Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 
-Special Populations
+Specific Populations
 
-Gender: No significant difference in clearance (CL/F) of fluticasone propionate was observed.
+Male and Female Patients: No significant difference in clearance (CL/F) of fluticasone propionate was observed.
 
-Pediatrics: A population pharmacokinetic analysis was performed for FLOVENT HFA using steady-state data from 4 controlled clinical trials and single-dose data from 1 controlled clinical trial.
+Pediatric Patients: A population pharmacokinetic analysis was performed for FLOVENT HFA using steady-state data from 4 controlled clinical trials and single-dose data from 1 controlled clinical trial.
 The combined cohort for analysis included 269 subjects (161 males and 108 females) with asthma aged 6 months to 66 years who received treatment with FLOVENT HFA.
 Most of these subjects (n = 215) were treated with FLOVENT HFA 44 mcg given as 88 mcg twice daily.
 FLOVENT HFA was delivered using an AeroChamber Plus VHC with a mask to subjects aged younger than 4 years.
@@ -73,9 +73,9 @@ Data from adult subjects with asthma following FLOVENT HFA 110 mcg given as 220 
 Data for 22 subjects came from a single-dose crossover study of 264 mcg (6 doses of FLOVENT HFA 44 mcg) with and without AeroChamber Plus VHC in children with asthma aged 4 to 11 years.
 
 Stratification of exposure data following FLOVENT HFA 88 mcg by age and study indicated that systemic exposure to fluticasone propionate at steady state was similar in children aged 6 to younger than 12 months, children aged 1 to younger than 4 years, and adults and adolescents aged 12 years and older.
-Exposure was lower in children aged 4 to 11 years, who did not use a VHC, as shown in Table 4.
+Exposure was lower in children aged 4 to 11 years, who did not use a VHC, as shown in Table 3.
 
-Table 4.
+Table 3.
 Systemic Exposure to Fluticasone Propionate following FLOVENT HFA 88 mcg Twice Daily
 
 | Age | Valved Holding Chamber | N | AUC0-τ, pg•h/mL(95% CI) | Cmax, pg/mL(95% CI) |
@@ -87,9 +87,9 @@ Systemic Exposure to Fluticasone Propionate following FLOVENT HFA 88 mcg Twice D
 
 The lower exposure to fluticasone propionate in children aged 4 to 11 years who did not use a VHC may reflect the inability to coordinate actuation and inhalation of the metered-dose inhaler.
 The impact of the use of a VHC on exposure to fluticasone propionate in patients aged 4 to 11 years was evaluated in a single-dose crossover trial with FLOVENT HFA 44 mcg given as 264 mcg.
-In this trial, use of a VHC increased systemic exposure to fluticasone propionate (Table 5), possibly correcting for the inability to coordinate actuation and inhalation.
+In this trial, use of a VHC increased systemic exposure to fluticasone propionate (Table 4), possibly correcting for the inability to coordinate actuation and inhalation.
 
-Table 5.
+Table 4.
 Systemic Exposure to Fluticasone Propionate following a Single Dose of FLOVENT HFA 264 mcg
 
 | Age | Valved Holding Chamber | N | AUC(0-∞), pg•h/mL(95% CI) | Cmax, pg/mL(95% CI) |
@@ -100,18 +100,18 @@ Systemic Exposure to Fluticasone Propionate following a Single Dose of FLOVENT H
 There was a dose-related increase in systemic exposure in subjects aged 12 years and older receiving higher doses of fluticasone propionate (220 and 440 mcg twice daily).
 The AUC0-τ in pg•h/mL was 358 (95% CI: 272, 473) and 640 (95% CI: 477, 858), and Cmax in pg/mL was 47.3 (95% CI: 37, 61) and 87 (95% CI: 68, 112) following fluticasone propionate 220 and 440 mcg, respectively.
 
-Hepatic and Renal Impairment: Formal pharmacokinetic studies using FLOVENT HFA have not been conducted in patients with hepatic or renal impairment.
+Patients with Hepatic and Renal Impairment: Formal pharmacokinetic studies using FLOVENT HFA have not been conducted in patients with hepatic or renal impairment.
 However, since fluticasone propionate is predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of fluticasone propionate in plasma.
 Therefore, patients with hepatic disease should be closely monitored.
 
-Race: No significant difference in clearance (CL/F) of fluticasone propionate in Caucasian, African-American, Asian, or Hispanic populations was observed.
+Racial or Ethnic Groups: No significant difference in clearance (CL/F) of fluticasone propionate in Caucasian, African-American, Asian, or Hispanic populations was observed.
 
-Drug Interactions
+Drug Interaction Studies
 
 Inhibitors of Cytochrome P450 3A4: Ritonavir: Fluticasone propionate is a substrate of CYP3A4.
 Coadministration of fluticasone propionate and the strong CYP3A4 inhibitor ritonavir is not recommended based upon a multiple-dose, crossover drug interaction trial in 18 healthy subjects.
 Fluticasone propionate aqueous nasal spray (200 mcg once daily) was coadministered for 7 days with ritonavir (100 mg twice daily).
-Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (less than 10 pg/mL) in most subjects, and when concentrations were detectable, peak levels (Cmax) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC(0-τ) averaged 8.43 pg•h/mL (range: 4.2 to 18.8 pg•h/mL).
+Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (<10 pg/mL) in most subjects, and when concentrations were detectable, peak levels (Cmax) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC(0-τ) averaged 8.43 pg•h/mL (range: 4.2 to 18.8 pg•h/mL).
 Fluticasone propionate Cmax and AUC(0-τ) increased to 318 pg/mL (range: 110 to 648 pg/mL) and 3,102.6 pg•h/mL (range: 1,207.1 to 5,662.0 pg•h/mL), respectively, after coadministration of ritonavir with fluticasone propionate aqueous nasal spray.
 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in serum cortisol AUC.
 
