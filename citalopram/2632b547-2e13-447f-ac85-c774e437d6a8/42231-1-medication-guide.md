@@ -237,5 +237,4 @@ Iron oxides are used as coloring agents in the peach (10 mg) and light pink (20 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
-Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA LLC 279 Princeton-Hightstown Rd.
-East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 01/2017
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 06/2017

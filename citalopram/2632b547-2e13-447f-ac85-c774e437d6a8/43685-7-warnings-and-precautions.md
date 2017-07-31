@@ -77,7 +77,7 @@ Citalopram should also not be started in a patient who is being treated with MAO
 All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking citalopram.
-Citalopram should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
+Citalopram should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS andDOSAGE AND ADMINISTRATION).
 If concomitant use of citalopram with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome particularly during treatment initiation and dose increases.
 Treatment with citalopram and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 Angle Closure Glaucoma The pupillary dilation that occurs following use of many antidepressant drugs including citalopram may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
@@ -174,7 +174,7 @@ There are no specific laboratory tests recommended.
 
 ## Drug Interactions
 
-Serotonergic Drugs: See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.
+Serotonergic Drugs: See CONTRAINDICATIONS, WARNINGS,andDOSAGE AND ADMINISTRATION.
 Triptans There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of citalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS - Serotonin Syndrome).
 CNS Drugs - Given the primary CNS effects of citalopram, caution should be used when it is taken in combination with other centrally acting drugs.
@@ -205,9 +205,7 @@ Carbamazepine - Combined administration of citalopram (40 mg/day for 14 days) an
 Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of citalopram should be considered if the two drugs are coadministered.
 Triazolam - Combined administration of citalopram (titrated to 40 mg/day for 28 days) and the CYP3A4 substrate triazolam (single dose of 0.25 mg) did not significantly affect the pharmacokinetics of either citalopram or triazolam.
 Ketoconazole - Combined administration of citalopram (40 mg) and ketoconazole (200 mg) decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
-CYP2C19 Inhibitors - Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see WARNINGS, DOSAGE AND ADMINISTRATION, and
-
-CLINICAL PHARMACOLOGY).
+CYP2C19 Inhibitors - Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see WARNINGS, DOSAGE AND ADMINISTRATION, and CLINICAL PHARMACOLOGY).
 Metoprolol - Administration of 40 mg/day citalopram for 22 days resulted in a two-fold increase in the plasma levels of the beta-adrenergic blocker metoprolol.
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
 Coadministration of citalopram and metoprolol had no clinically significant effects on blood pressure or heart rate.
