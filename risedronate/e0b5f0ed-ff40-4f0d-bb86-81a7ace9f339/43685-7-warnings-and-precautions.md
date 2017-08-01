@@ -2,8 +2,8 @@
 
 ## 5.1 Drug Products with the Same Active Ingredient
 
-Risedronate sodium tablets contain the same active ingredientfound in risedronate sodiumdelayed-release tablets.
-A patient being treated with risedronate sodium delayed-release tabletsshould not receive risedronate sodiumtablets.
+Risedronate sodium tablets contain the same active ingredient found in risedronate sodium delayed-release tablets.
+A patient being treated with risedronate sodium delayed-release tablets should not receive risedronate sodium tablets.
 
 ## 5.2 Upper Gastrointestinal Adverse Reactions
 
@@ -51,27 +51,27 @@ Consider discontinuing use if severe symptoms develop.
 
 ## 5.6 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
 
-Atypical,low-energy, or low trauma fractures of the femoral shaft have been reported inbisphosphonate-treated patients.
-These fractures can occur anywhere in thefemoral shaft from just below the lesser trochanter to above the supracondylarflare and are traverse or short oblique in orientation without evidence ofcomminution.
-Causality has not been established as these fractures also occurin osteoporotic patients who have not been treated with bisphosphonates.
+Atypical, low-energy, or low trauma fractures of the femoral shaft have been reported in bisphosphonate-treated patients.
+These fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are traverse or short oblique in orientation without evidence of comminution.
+Causality has not been established as these fractures also occur in osteoporotic patients who have not been treated with bisphosphonates.
 
-Atypicalfemur fractures most commonly occur with minimal or no trauma to the affectedarea.
-They may be bilateral and many patients report prodromal pain in theaffected area, usually presenting as dull, aching thigh pain, weeks to monthsbefore a complete fracture occurs.
-A number of reports note that patients werealso receiving treatment with glucocorticoids (for example, prednisone) at thetime of fracture.
+Atypical femur fractures most commonly occur with minimal or no trauma to the affected area.
+They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
+A number of reports note that patients were also receiving treatment with glucocorticoids (for example, prednisone) at the time of fracture.
 
-Anypatient with a history of bisphosphonate exposure who presents with thigh orgroin pain should be suspected of having an atypical fracture and should beevaluated to rule out an incomplete femur fracture.
-Patients presenting with anatypical fracture should also be assessed for symptoms and signs of fracture inthe contralateral limb.
-Interruption of bisphosphonate therapy should beconsidered, pending a risk/benefit assessment, on an individual basis.
+Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
+Patients presenting with an atypical fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
+Interruption of bisphosphonate therapy should be considered, pending a risk/benefit assessment, on an individual basis.
 
 ## 5.7 Renal Impairment
 
-Risedronate sodium is not recommended for use in patients withsevere renal impairment (creatinine clearance less than 30 mL/min).
+Risedronate sodium is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min).
 
 ## 5.8 Glucocorticoid-Induced Osteoporosis
 
-Before initiating risedronate sodium treatment for thetreatment and prevention of glucocorticoid-induced osteoporosis, the sexsteroid hormonal status of both men and women should be ascertained andappropriate replacement considered.
+Before initiating risedronate sodium treatment for the treatment and prevention of glucocorticoid-induced osteoporosis, the sex steroid hormonal status of both men and women should be ascertained and appropriate replacement considered.
 
 ## 5.9 Laboratory Test Interactions
 
-Bisphosphonates are known tointerfere with the use of bone-imaging agents.
-Specific studies with risedronate sodium have not beenperformed.
+Bisphosphonates are known to interfere with the use of bone-imaging agents.
+Specific studies with risedronate sodium have not been performed.

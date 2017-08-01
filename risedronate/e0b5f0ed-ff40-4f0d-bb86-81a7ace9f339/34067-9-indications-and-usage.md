@@ -11,17 +11,17 @@ Risedronate sodium tablets are indicated for treatment to increase bone mass in 
 
 ## 1.3 Glucocorticoid-Induced Osteoporosis
 
-Risedronate sodium tablets are indicated for the treatment andprevention of glucocorticoid-induced osteoporosis in men and women who areeither initiating or continuing systemic glucocorticoid treatment (daily dosageof greater than or equal to 7.5 mg of prednisone or equivalent) for chronicdiseases.
-Patients treated with glucocorticoids should receive adequate amountsof calcium and vitamin D.
+Risedronate sodium tablets are indicated for the treatment and prevention of glucocorticoid-induced osteoporosis in men and women who are either initiating or continuing systemic glucocorticoid treatment (daily dosage of greater than or equal to 7.5 mg of prednisone or equivalent) for chronic diseases.
+Patients treated with glucocorticoids should receive adequate amounts of calcium and vitamin D.
 
 ## 1.4 Paget's Disease
 
-Risedronate sodium tablets are indicated for treatment of Paget'sdisease of bone in men and women.
+Risedronate sodium tablets are indicated for treatment of Paget's disease of bone in men and women.
 
 ## 1.5 Important Limitations of Use
 
-The optimal duration of use hasnot been determined.
-The safety and effectiveness of risedronate sodium tablets for the treatment of osteoporosis arebased on clinical data of three years duration.
-All patients on bisphosphonatetherapy should have the need for continued therapy re-evaluated on a periodicbasis.
-Patients at low-risk for fracture should be considered for drugdiscontinuation after 3 to 5 years of use.
-Patients who discontinue therapyshould have their risk for fracture re-evaluated periodically.
+The optimal duration of use has not been determined.
+The safety and effectiveness of risedronate sodium tablets for the treatment of osteoporosis are based on clinical data of three years duration.
+All patients on bisphosphonate therapy should have the need for continued therapy re-evaluated on a periodic basis.
+Patients at low-risk for fracture should be considered for drug discontinuation after 3 to 5 years of use.
+Patients who discontinue therapy should have their risk for fracture re-evaluated periodically.

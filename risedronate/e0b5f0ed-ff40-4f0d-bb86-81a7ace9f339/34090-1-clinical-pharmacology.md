@@ -2,10 +2,10 @@
 
 ## 12.1 Mechanism of Action
 
-Risedronate sodium has anaffinity for hydroxyapatite crystals in bone and acts as an antiresorptiveagent.
+Risedronate sodium has an affinity for hydroxyapatite crystals in bone and acts as an antiresorptive agent.
 At the cellular level, risedronate sodium inhibits osteoclasts.
-Theosteoclasts adhere normally to the bone surface, but show evidence of reducedactive resorption (for example,lack of ruffled border).
-Histomorphometry in rats, dogs, and minipigs showedthat risedronate sodium treatment reduces bone turnover (activation frequency, that is, the rate at which boneremodeling sites are activated) and bone resorption at remodeling sites.
+The osteoclasts adhere normally to the bone surface, but show evidence of reduced active resorption (for example, lack of ruffled border).
+Histomorphometry in rats, dogs, and minipigs showed that risedronate sodium treatment reduces bone turnover (activation frequency, that is, the rate at which bone remodeling sites are activated) and bone resorption at remodeling sites.
 
 ## 12.2 Pharmacodynamics
 

@@ -197,7 +197,7 @@ The overall safety and tolerability profile of risedronate sodium in men with os
 Treatment and Prevention of Glucocorticoid-Induced Osteoporosis
 
 The safety of risedronate sodium 5 mg daily in the treatment and prevention of glucocorticoid-induced osteoporosis was assessed in two randomized, double-blind, placebo-controlled multinational trials of 344 patients [male (123) and female (221)] aged 18 to 85 years who had recently initiated oral glucocorticoid therapy (less than or equal to 3 months, prevention study) or were on long-term oral glucocorticoid therapy (greater than or equal to 6 months, treatment study).
-The duration of the trials was one year, with 170 patients exposed to placebo and 174 patientsexposed to risedronate sodium 5 mg daily.
+The duration of the trials was one year, with 170 patients exposed to placebo and 174 patients exposed to risedronate sodium 5 mg daily.
 Patients in one study received 1,000 mg elemental calcium plus 400 international units of vitamin D supplementation per day; patients in the other study received 500 mg calcium supplementation per day.
 
 The incidence of all-cause mortality was 2.9% in the placebo group and 1.1% in the risedronate sodium 5 mg daily group.

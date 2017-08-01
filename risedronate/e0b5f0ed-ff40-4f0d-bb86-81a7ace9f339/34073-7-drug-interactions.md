@@ -1,17 +1,17 @@
 # 7 DRUG INTERACTIONS
 
-No specific drug-drug interactionstudies were performed.
-Risedronate is not metabolized and does not induce orinhibit hepatic microsomal drug-metabolizing enzymes (for example, CytochromeP450).
+No specific drug-drug interaction studies were performed.
+Risedronate is not metabolized and does not induce or inhibit hepatic microsomal drug-metabolizing enzymes (for example, Cytochrome P450).
 
 ## 7.1 Calcium Supplements/Antacids
 
-Coadministration of risedronate sodium and calcium,antacids, or oral medications containing divalent cations will interfere withthe absorption of risedronate sodium.
+Coadministration of risedronate sodium and calcium, antacids, or oral medications containing divalent cations will interfere with the absorption of risedronate sodium.
 
 ## 7.2 Hormone Replacement Therapy
 
-One study of about 500 earlypostmenopausal women has been conducted to date in which treatment with risedronate sodium 5 mg daily plusestrogen replacement therapy was compared to estrogen replacement therapyalone.
-Exposure to study drugs was approximately 12 to 18 months and theprimary endpoint was change in BMD.
-If considered appropriate, risedronate sodium may be usedconcomitantly with hormone replacement therapy.
+One study of about 500 early postmenopausal women has been conducted to date in which treatment with risedronate sodium 5 mg daily plus estrogen replacement therapy was compared to estrogen replacement therapy alone.
+Exposure to study drugs was approximately 12 to 18 months and the primary endpoint was change in BMD.
+If considered appropriate, risedronate sodium may be used concomitantly with hormone replacement therapy.
 
 ## 7.3 Aspirin/Nonsteroidal Anti-Inflammatory Drugs
 

@@ -30,15 +30,16 @@ Actual doses were 24 mg/kg/day in rats, 32 mg/kg/day in mice, and 8, 16 and 40 m
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Risedronate demonstrated potentanti-osteoclast, antiresorptive activity in ovariectomized rats and minipigs.Bone mass and biomechanical strength were increased dose-dependently at dailyoral doses up to 4 and 25 times the human recommended oral dose of 5 mg forrats and minipigs, respectively.
-Risedronate treatment maintained the positivecorrelation between BMD and bone strength and did not have a negative effect onbone structure or mineralization.
-In intact dogs, risedronate induced positivebone balance at the level of the bone remodeling unit at oral doses rangingfrom 0.5 to 1.5 times the 5 mg/day human daily dose.
+Risedronate demonstrated potent anti-osteoclast, antiresorptive activity in ovariectomized rats and minipigs.
+Bone mass and biomechanical strength were increased dose-dependently at daily oral doses up to 4 and 25 times the human recommended oral dose of 5 mg for rats and minipigs, respectively.
+Risedronate treatment maintained the positive correlation between BMD and bone strength and did not have a negative effect on bone structure or mineralization.
+In intact dogs, risedronate induced positive bone balance at the level of the bone remodeling unit at oral doses ranging from 0.5 to 1.5 times the 5 mg/day human daily dose.
 
-In dogs treated with an oral dose approximately 5 timesthe human daily dose, risedronate caused a delay in fracture healing of theradius.
-The observed delay in fracture healing is similar to otherbisphosphonates.
-This effect did not occur at a dose approximately 0.5 timesthe human daily dose.
+In dogs treated with an oral dose approximately 5 times the human daily dose, risedronate caused a delay in fracture healing of the radius.
+The observed delay in fracture healing is similar to other bisphosphonates.
+This effect did not occur at a dose approximately 0.5 times the human daily dose.
 
-The Schenk rat assay, based onhistologic examination of the epiphyses of growing rats after drug treatment,demonstrated that risedronate did not interfere with bone mineralization evenat the highest dose tested, which was approximately 3,500 times the lowestantiresorptive dose in this model (1.5 mcg/kg/day) and approximately 800 timesthe human daily dose of 5 mg.
-This indicates that risedronate sodium administeredat the therapeutic dose is unlikely to induce osteomalacia.
+The Schenk rat assay, based on histologic examination of the epiphyses of growing rats after drug treatment, demonstrated that risedronate did not interfere with bone mineralization even at the highest dose tested, which was approximately 3,500 times the lowest antiresorptive dose in this model (1.5 mcg/kg/day) and approximately 800 times the human daily dose of 5 mg.
+This indicates that risedronate sodium administered at the therapeutic dose is unlikely to induce osteomalacia.
 
-Dosing multiples provided above are based on therecommended human dose of 5 mg/day and normalized using body surface area (mg/m2).
+Dosing multiples provided above are based on the recommended human dose of 5 mg/day and normalized using body surface area (mg/m2).
