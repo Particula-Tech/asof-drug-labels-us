@@ -81,8 +81,8 @@ Bisphosphonates, such as Zoledronic Acid Injection, are incorporated into the bo
 There may be a risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy.
 
 Zoledronic Acid Injection may cause fetal harm when administered to a pregnant woman.
-In reproductive studies in pregnant rats, subcutaneous doses equivalent to 2.4 or 4.8 times the human systemic exposure resulted in pre- and postimplantation losses, decreases in viable fetuses and fetal skeletal, visceral, and external malformations.
-There are no adequate and well controlled studies in pregnant women.
+In reproductive studies in pregnant rats, subcutaneous doses equivalent to 2.4 or 4.8 times the human systemic exposure resulted in pre- and post-implantation losses, decreases in viable fetuses and fetal skeletal, visceral, and external malformations.
+There are no adequate and well-controlled studies in pregnant women.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
 ## 5.10 Hypocalcemia

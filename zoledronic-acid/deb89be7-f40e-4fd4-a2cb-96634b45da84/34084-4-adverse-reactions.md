@@ -22,45 +22,45 @@ The most frequently observed adverse reactions were fever, nausea, constipation,
 Table 4 provides adverse reactions that were reported by 10% or more of the 189 patients treated with Zoledronic Acid Injection 4 mg or pamidronate 90 mg from the two HCM trials.
 Adverse reactions are listed regardless of presumed causality to study drug.
 
-Table 4: Percentage of Patients with Adverse Reactions ≥10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
+Table 4: Percentage of Patients with Adverse Reactions greater than or equal to 10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
 
-|  | Zoledronic Acid Injection 4 mg n (%) |  | Pamidronate 90 mg n (%) |  |
-| --- | --- | --- | --- | --- |
-| Patients Studied |  |  |  |  |
-| Total No. of Patients Studied | 86 | (100) | 103 | (100) |
-| Total No. of Patients with any AE | 81 | (94) | 95 | (92) |
-| Body as a Whole |  |  |  |  |
-| Fever | 38 | (44) | 34 | (33) |
-| Progression of Cancer | 14 | (16) | 21 | (20) |
-| Cardiovascular |  |  |  |  |
-| Hypotension | 9 | (11) | 2 | (2) |
-| Digestive |  |  |  |  |
-| Nausea | 25 | (29) | 28 | (27) |
-| Constipation | 23 | (27) | 13 | (13) |
-| Diarrhea | 15 | (17) | 17 | (17) |
-| Abdominal Pain | 14 | (16) | 13 | (13) |
-| Vomiting | 12 | (14) | 17 | (17) |
-| Anorexia | 8 | (9) | 14 | (14) |
-| Hemic and Lymphatic System |  |  |  |  |
-| Anemia | 19 | (22) | 18 | (18) |
-| Infections |  |  |  |  |
-| Moniliasis | 10 | (12) | 4 | (4) |
-| Laboratory Abnormalities |  |  |  |  |
-| Hypophosphatemia | 11 | (13) | 2 | (2) |
-| Hypokalemia | 10 | (12) | 16 | (16) |
-| Hypomagnesemia | 9 | (11) | 5 | (5) |
-| Musculoskeletal |  |  |  |  |
-| Skeletal Pain | 10 | (12) | 10 | (10) |
-| Nervous |  |  |  |  |
-| Insomnia | 13 | (15) | 10 | (10) |
-| Anxiety | 12 | (14) | 8 | (8) |
-| Confusion | 11 | (13) | 13 | (13) |
-| Agitation | 11 | (13) | 8 | (8) |
-| Respiratory |  |  |  |  |
-| Dyspnea | 19 | (22) | 20 | (19) |
-| Coughing | 10 | (12) | 12 | (12) |
-| Urogenital |  |  |  |  |
-| Urinary Tract Infection | 12 | (14) | 15 | (15) |
+|  | Zoledronic Acid Injection 4 mg n (%) |  |  |  | Pamidronate 90 mg n (%) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Patients Studied |  |  |  |  |  |  |
+| Total No. of Patients Studied |  | 86 | (100) | 103 |  | (100) |
+| Total No. of Patients with any AE |  | 81 | (94) | 95 |  | (92) |
+| Body as a Whole |  |  |  |  |  |  |
+| Fever |  | 38 | (44) | 34 |  | (33) |
+| Progression of Cancer |  | 14 | (16) | 21 |  | (20) |
+| Cardiovascular |  |  |  |  |  |  |
+| Hypotension |  | 9 | (11) | 2 |  | (2) |
+| Digestive |  |  |  |  |  |  |
+| Nausea |  | 25 | (29) | 28 |  | (27) |
+| Constipation |  | 23 | (27) | 13 |  | (13) |
+| Diarrhea |  | 15 | (17) | 17 |  | (17) |
+| Abdominal Pain |  | 14 | (16) | 13 |  | (13) |
+| Vomiting |  | 12 | (14) | 17 |  | (17) |
+| Anorexia |  | 8 | (9) | 14 |  | (14) |
+| Hemic and Lymphatic System |  |  |  |  |  |  |
+| Anemia |  | 19 | (22) | 18 |  | (18) |
+| Infections |  |  |  |  |  |  |
+| Moniliasis |  | 10 | (12) | 4 |  | (4) |
+| Laboratory Abnormalities |  |  |  |  |  |  |
+| Hypophosphatemia |  | 11 | (13) | 2 |  | (2) |
+| Hypokalemia |  | 10 | (12) | 16 |  | (16) |
+| Hypomagnesemia |  | 9 | (11) | 5 |  | (5) |
+| Musculoskeletal |  |  |  |  |  |  |
+| Skeletal Pain |  | 10 | (12) | 10 |  | (10) |
+| Nervous |  |  |  |  |  |  |
+| Insomnia |  | 13 | (15) | 10 |  | (10) |
+| Anxiety |  | 12 | (14) | 8 |  | (8) |
+| Confusion |  | 11 | (13) | 13 |  | (13) |
+| Agitation |  | 11 | (13) | 8 |  | (8) |
+| Respiratory |  |  |  |  |  |  |
+| Dyspnea |  | 19 | (22) | 20 |  | (19) |
+| Coughing |  | 10 | (12) | 12 |  | (12) |
+| Urogenital |  |  |  |  |  |  |
+| Urinary Tract Infection |  | 12 | (14) | 15 |  | (15) |
 
 The following adverse reactions from the two controlled multicenter HCM trials (n=189) were reported by a greater percentage of patients treated with Zoledronic Acid Injection 4 mg than with pamidronate 90 mg and occurred with a frequency of greater than or equal to 5% but less than 10%.
 Adverse reactions are listed regardless of presumed causality to study drug: asthenia, chest pain, leg edema, mucositis, dysphagia, granulocytopenia, thrombocytopenia, pancytopenia, nonspecific infection, hypocalcemia, dehydration, arthralgias, headache and somnolence.
@@ -126,7 +126,7 @@ The median duration of exposure for safety analysis for Zoledronic Acid Injectio
 Table 7 describes adverse reactions that were reported by 10% or more of patients.
 Adverse reactions are listed regardless of presumed causality to study drug.
 
-Table 7: Percentage of Patients with Adverse Reactions ≥10% Reported in Three Bone Metastases Clinical Trials by Body System
+Table 7: Percentage of Patients with Adverse Reactions greater than or equal to 10% Reported in Three Bone Metastases Clinical Trials by Body System
 
 |  | Zoledronic Acid Injection 4 mg |  | Pamidronate 90 mg |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -174,8 +174,7 @@ Table 8: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 
 |  |  |  | Grade 3 |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Parameter | Zoledronic Acid Injection |  | Pamidronate |  | Placebo |  |
-|  | 4 mg |  | 90 mg |  |  |  |
+| Laboratory Parameter | Zoledronic Acid Injection 4 mg |  | Pamidronate 90 mg |  | Placebo |  |
 |  | n/N | (%) | n/N | (%) | n/N | (%) |
 | Serum Creatinine 1* | 7/529 | (1%) | 4/268 | (2%) | 4/241 | (2%) |
 | Hypocalcemia2 | 6/973 | (<1%) | 4/536 | (<1%) | 0/415 | — |
@@ -193,8 +192,7 @@ Table 9: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 
 |  |  |  | Grade 4 |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Parameter | Zoledronic Acid Injection |  | Pamidronate |  | Placebo |  |
-|  | 4 mg |  | 90 mg |  |  |  |
+| Laboratory Parameter | Zoledronic Acid Injection 4 mg |  | Pamidronate 90 mg |  | Placebo |  |
 |  | n/N | (%) | n/N | (%) | n/N | (%) |
 | Serum Creatinine 1* | 2/529 | (<1%) | 1/268 | (<1%) | 0/241 | — |
 | Hypocalcemia2 | 7/973 | (<1%) | 3/536 | (<1%) | 2/415 | (<1%) |
@@ -284,4 +282,4 @@ Cases of Stevens-Johnson syndrome and toxic epidermal necrolysis have also been 
 
 Additional adverse reactions reported in postmarketing use include:
 
-CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; uveitis; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive rechallenge; Renal: hematuria, proteinuria; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue or malaise) persisting for greater than 30 days; Laboratory Abnormalities: hyperkalemia, hypernatremia, hypocalcemia (cardiac arrhythmias and neurologic adverse events including seizures, tetany and numbness have been reported due to severe hypocalcemia).
+CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; uveitis; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive rechallenge; Renal: hematuria, proteinuria, acquired Fanconi syndrome; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue or malaise) persisting for greater than 30 days; Laboratory Abnormalities: hyperkalemia, hypernatremia, hypocalcemia (cardiac arrhythmias and neurologic adverse events including seizures, tetany and numbness have been reported due to severe hypocalcemia).
