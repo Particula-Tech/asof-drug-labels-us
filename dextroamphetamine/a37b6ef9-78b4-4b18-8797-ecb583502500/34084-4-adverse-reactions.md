@@ -25,3 +25,7 @@ Impotence, changes in libido, frequent or prolonged erections.
 ## Musculoskeletal
 
 Rhabdomyolysis.
+
+## Skin and Subcutaneous Tissue Disorders
+
+Alopecia.

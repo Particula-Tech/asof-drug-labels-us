@@ -14,7 +14,7 @@ Store at controlled room temperature between 20° and 25°C (68° and 77°F) [se
 
 Dispense in a tight, light-resistant container.
 
-Manufactured by: Catalent Pharma Solutions Winchester, KY 40391 For: Amedra Pharmaceuticals LLC Horsham, PA 19044 LB# 793-09 Rev.
-January, 2017
+Manufactured by: Catalent Pharma Solutions Winchester, KY 40391 For: Amedra Pharmaceuticals LLC Horsham, PA 19044 LB# 793-10 Rev.
+March, 2017
 
 For additional copies of the printed patient information/medication guide, please visit www.amedrapharma.com or contact us at 1-888-894-6528.
