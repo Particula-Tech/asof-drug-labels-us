@@ -84,7 +84,7 @@ The antiemetic efficacy of MARINOL capsules was greatest in patients receiving c
 MARINOL capsules dosages ranged from 2.5 mg/day to 40 mg/day, administered in equally divided doses every four to six hours (four times daily).
 As indicated in the following table, escalating the MARINOL capsules dose above 7 mg/m2 increased the frequency of adverse experiences, with no additional antiemetic benefit.
 
-MARINOL Capsules Dose: Response Frequency and Adverse Experiences*(N = 750 treatment courses)
+MARINOL Capsules Dose: Response Frequency and Adverse Experiences* (N = 750 treatment courses)
 
 | MARINOL Capsules Dose | Response Frequency (%) |  |  | Adverse Events Frequency (%) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

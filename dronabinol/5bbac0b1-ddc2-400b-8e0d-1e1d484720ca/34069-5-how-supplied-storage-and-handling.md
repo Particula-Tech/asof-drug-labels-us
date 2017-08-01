@@ -11,10 +11,10 @@ NDC 0051-0022-21 (Bottle of 60 capsules).
 10 mg orange capsules (Identified UM).
 NDC 0051-0023-21 (Bottle of 60 capsules).
 
-Manufactured by: Banner Pharmacaps, Inc. High Point, NC 27265
+Manufactured by: Patheon Softgels Inc. High Point, NC 27265
 
-For: AbbVie Inc. North Chicago, IL 60064, U.S.A.
+Manufactured for: AbbVie Inc. North Chicago, IL 60064, U.S.A.
 
-1248A00 06/16 June, 2016
+1248A00 05/17 May, 2017
 
-© 2016 AbbVie Inc.
+© 2017 AbbVie Inc.

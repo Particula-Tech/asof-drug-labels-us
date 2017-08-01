@@ -168,10 +168,10 @@ Your doctor may then reduce the dose to one capsule before supper, or later in t
 
 What to Do When Problems Occur IF YOU NOTICE ANY WORRISOME SYMPTOMS OR PROBLEMS, STOP THE MARINOL CAPSULES AND CALL YOUR DOCTOR AT ONCE.
 
-Manufactured by: Banner Pharmacaps, Inc. High Point, NC 27265
+Manufactured by: Patheon Softgels Inc. High Point, NC 27265
 
-For: AbbVie Inc. North Chicago, IL 60064, U.S.A.
+Manufactured for: AbbVie Inc. North Chicago, IL 60064, U.S.A.
 
-1248A00-P 06/16 June, 2016
+1248A99 05/17 May, 2017
 
-© 2016 AbbVie Inc.
+© 2017 AbbVie Inc.
