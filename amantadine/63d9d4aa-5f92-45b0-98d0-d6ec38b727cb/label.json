@@ -6,7 +6,9 @@
   "labeler": "Upsher-Smith Laboratories, Inc",
   "package_ndcs": [
     "0832-0111-00",
-    "0832-0111-50"
+    "0832-0111-03",
+    "0832-0111-50",
+    "0832-0111-89"
   ],
   "products": [
     {

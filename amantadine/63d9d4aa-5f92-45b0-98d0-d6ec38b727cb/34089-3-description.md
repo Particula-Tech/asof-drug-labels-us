@@ -2,7 +2,7 @@
 
 Amantadine hydrochloride is designated generically as amantadine hydrochloride and chemically as 1-adamantanamine hydrochloride.
 
-C10H17N•HCl
+C10H17N∙HCl
 
 Amantadine hydrochloride is a stable white or nearly white crystalline powder, freely soluble in water and soluble in alcohol and in chloroform.
 

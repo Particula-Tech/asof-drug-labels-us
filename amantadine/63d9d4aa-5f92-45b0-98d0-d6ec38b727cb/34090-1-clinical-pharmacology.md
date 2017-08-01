@@ -41,7 +41,7 @@ Maximum plasma concentrations are directly related to dose for doses up to 200 m
 Doses above 200 mg/day may result in a greater than proportional increase in maximum plasma concentrations.
 It is primarily excreted unchanged in the urine by glomerular filtration and tubular secretion.
 Eight metabolites of amantadine have been identified in human urine.
-One metabolite, an N-acetylated compound, was quantified in human urine and accounted for 5 to 15% of the administered dose.
+One metabolite, an N-acetylated compound, was quantified in human urine and accounted for 5% to 15% of the administered dose.
 Plasma acetylamantadine accounted for up to 80% of the concurrent amantadine plasma concentration in 5 of 12 healthy volunteers following the ingestion of a 200 mg dose of amantadine.
 Acetylamantadine was not detected in the plasma of the remaining seven volunteers.
 The contribution of this metabolite to efficacy or toxicity is not known.
@@ -67,18 +67,18 @@ In six healthy volunteers, the ratio of amantadine renal clearance to apparent o
 
 The volume of distribution determined after the intravenous administration of amantadine to 15 healthy subjects was 3 to 8 L/kg, suggesting tissue binding.
 Amantadine, after single oral 200 mg doses to 6 healthy young subjects and to 6 healthy elderly subjects has been found in nasal mucus at mean ± SD concentrations of 0.15 ± 0.16, 0.28 ± 0.26, and 0.39 ± 0.34 mcg/g at 1, 4, and 8 hours after dosing, respectively.
-These concentrations represented 31 ± 33%, 59 ± 61%, and 95 ± 86% of the corresponding plasma amantadine concentrations.
+These concentrations represented 31% ± 33%, 59% ± 61%, and 95% ± 86% of the corresponding plasma amantadine concentrations.
 Amantadine is approximately 67% bound to plasma proteins over a concentration range of 0.1 to 2 mcg/mL.
 Following the administration of amantadine 100 mg as a single dose, the mean ± SD red blood cell to plasma ratio ranged from 2.7 ± 0.5 in 6 healthy subjects to 1.4 ± 0.2 in 8 patients with renal insufficiency.
 
 The apparent oral plasma clearance of amantadine is reduced and the plasma half-life and plasma concentrations are increased in healthy elderly individuals age 60 and older.
-After single dose administration of 25 to 75 mg to 7 healthy, elderly male volunteers, the apparent plasma clearance of amantadine was 0.10 ± 0.04 L/hr/kg (range 0.06 to 0.17 L/hr/kg) and the half-life was 29 ± 7 hours (range 20 to 41 hours).
+After single dose administration of 25 mg to 75 mg to 7 healthy, elderly male volunteers, the apparent plasma clearance of amantadine was 0.10 ± 0.04 L/hr/kg (range 0.06 to 0.17 L/hr/kg) and the half-life was 29 ± 7 hours (range 20 to 41 hours).
 Whether these changes are due to decline in renal function or other age related factors is not known.
 
 In a study of young healthy subjects (n=20), mean renal clearance of amantadine, normalized for body mass index, was 1.5 fold higher in males compared to females (p<0.032).
 
 Compared with otherwise healthy adult individuals, the clearance of amantadine is significantly reduced in adult patients with renal insufficiency.
-The elimination half-life increases two to three fold or greater when creatinine clearance is less than 40 mL/min/1.73m2 and averages eight days in patients on chronic maintenance hemodialysis.
+The elimination half-life increases two to three fold or greater when creatinine clearance is less than 40 mL/min/1.73 m2 and averages eight days in patients on chronic maintenance hemodialysis.
 Amantadine is removed in negligible amounts by hemodialysis.
 
 The pH of the urine has been reported to influence the excretion rate of amantadine hydrochloride.

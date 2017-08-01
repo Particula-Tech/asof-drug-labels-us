@@ -8,7 +8,7 @@ Acute toxicity may be attributable to the anticholinergic effects of amantadine.
 Drug overdose has resulted in cardiac, respiratory, renal or central nervous system toxicity.
 Cardiac dysfunction includes arrhythmia, tachycardia and hypertension (see OVERDOSAGE).
 
-Deaths due to drug accumulation (overdosage) have been reported in patients with renal impairment, who were prescribed higher than recommended doses of Amantadine Hydrochloride Capsules, USP for their level of renal function (see DOSAGE AND ADMINISTRATION; Dosage of Impaired Renal Function and OVERDOSAGE).
+Deaths due to drug accumulation (overdosage) have been reported in patients with renal impairment, who were prescribed higher than recommended doses of amantadine hydrochloride for their level of renal function (see DOSAGE AND ADMINISTRATION: Dosage for Impaired Renal Function and OVERDOSAGE).
 
 ## Suicide Attempts
 
@@ -17,21 +17,21 @@ The incidence of suicide attempts is not known and the pathophysiologic mechanis
 Suicide attempts and suicidal ideation have been reported in patients with and without prior history of psychiatric illness.
 Amantadine hydrochloride can exacerbate mental problems in patients with a history of psychiatric disorders or substance abuse.
 Patients who attempt suicide may exhibit abnormal mental states which include disorientation, confusion, depression, personality changes, agitation, aggressive behavior, hallucinations, paranoia, other psychotic reactions, and somnolence or insomnia.
-Because of the possibility of serious adverse effects, caution should be observed when prescribing Amantadine Hydrochloride Tablets to patients being treated with drugs having CNS effects, or for whom the potential risks outweigh the benefit of treatment.
+Because of the possibility of serious adverse effects, caution should be observed when prescribing amantadine hydrochloride tablets to patients being treated with drugs having CNS effects, or for whom the potential risks outweigh the benefit of treatment.
 
 ## CNS Effects
 
 Patients with a history of epilepsy or other "seizures" should be observed closely for possible increased seizure activity.
 
-Patients receiving Amantadine Hydrochloride Tablets who note central nervous system effects or blurring of vision should be cautioned against driving or working in situations where alertness and adequate motor coordination are important.
+Patients receiving amantadine hydrochloride tablets who note central nervous system effects or blurring of vision should be cautioned against driving or working in situations where alertness and adequate motor coordination are important.
 
 ## Other
 
-Patients with a history of congestive heart failure or peripheral edema should be followed closely as there are patients who developed congestive heart failure while receiving Amantadine Hydrochloride Tablets.
+Patients with a history of congestive heart failure or peripheral edema should be followed closely as there are patients who developed congestive heart failure while receiving amantadine hydrochloride tablets.
 
-Patients with Parkinson's disease improving on Amantadine Hydrochloride Tablets should resume normal activities gradually and cautiously, consistent with other medical considerations, such as the presence of osteoporosis or phlebothrombosis.
+Patients with Parkinson's disease improving on amantadine hydrochloride tablets should resume normal activities gradually and cautiously, consistent with other medical considerations, such as the presence of osteoporosis or phlebothrombosis.
 
-Because Amantadine Hydrochloride Tablets have anticholinergic effects and may cause mydriasis, it should not be given to patients with untreated angle closure glaucoma.
+Because amantadine hydrochloride tablets have anticholinergic effects and may cause mydriasis, it should not be given to patients with untreated angle closure glaucoma.
 
 # PRECAUTIONS
 
@@ -77,7 +77,7 @@ Physicians should consider dose reduction or stopping the medication if a patien
 Epidemiological studies have shown that patients with Parkinson's disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
 Whether the increased risk observed was due to Parkinson's disease or other factors, such as drugs used to treat Parkinson's disease, is unclear.
 
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using Amantadine Hydrochloride Tablets for any indication.
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using amantadine hydrochloride tablets for any indication.
 Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
 
 ## Other
@@ -117,7 +117,7 @@ Careful observation is required when amantadine hydrochloride is administered co
 Agents with anticholinergic properties may potentiate the anticholinergic-like side effects of amantadine.
 
 Coadministration of thioridazine has been reported to worsen the tremor in elderly patients with Parkinson's disease, however, it is not known if other phenothiazines produce a similar response.
-Coadministration of Dyazide (triamterene/hydrochlorothiazide) resulted in a higher plasma amantadine concentration in a 61-year-old man receiving amantadine hydrochloride 100 mgTID. for Parkinson's disease.1 It is not known which of the components of Dyazide contributed to the observation or if related drugs produce a similar response.
+Coadministration of Dyazide (triamterene/hydrochlorothiazide) resulted in a higher plasma amantadine concentration in a 61-year-old man receiving amantadine hydrochloride 100 mgTID for Parkinson's disease.1 It is not known which of the components of Dyazide contributed to the observation or if related drugs produce a similar response.
 
 Coadministration of quinine or quinidine with amantadine was shown to reduce the renal clearance of amantadine by about 30%.
 
@@ -130,7 +130,7 @@ Trivalent inactivated influenza vaccine can be administered at any time relative
 
 Long-term in vivo animal studies designed to evaluate the carcinogenic potential of amantadine hydrochloride have not been performed.
 In several in vitro assays for gene mutation, amantadine hydrochloride did not increase the number of spontaneously observed mutations in four strains of Salmonella typhimurium (Ames Test) or in a mammalian cell line (Chinese Hamster Ovary cells) when incubations were performed either with or without a liver metabolic activation extract.
-Further, there was no evidence of chromosome damage observed in an in vitro test using freshly derived and stimulated human peripheral blood lymphocytes (with and without metabolic activation) or in an in vivo mouse bone marrow micronucleus test (140–550 mg/kg; estimated human equivalent doses of 11.7–45.8 mg/kg based on body surface area conversion).
+Further, there was no evidence of chromosome damage observed in an in vitro test using freshly derived and stimulated human peripheral blood lymphocytes (with and without metabolic activation) or in an in vivo mouse bone marrow micronucleus test (140 to 550 mg/kg; estimated human equivalent doses of 11.7 to 45.8 mg/kg based on body surface area conversion).
 
 ## Impairment of Fertility
 
@@ -170,4 +170,4 @@ The safety and efficacy of amantadine hydrochloride in newborn infants and infan
 
 Because amantadine hydrochloride is primarily excreted in the urine, it accumulates in the plasma and in the body when renal function declines.
 Thus, the dose of amantadine hydrochloride should be reduced in patients with renal impairment and in individuals who are 65 years of age or older.
-The dose of Amantadine Hydrochloride Tablets may need reduction in patients with congestive heart failure, peripheral edema, or orthostatic hypotension (see DOSAGE AND ADMINISTRATION).
+The dose of amantadine hydrochloride tablets may need reduction in patients with congestive heart failure, peripheral edema, or orthostatic hypotension (see DOSAGE AND ADMINISTRATION).

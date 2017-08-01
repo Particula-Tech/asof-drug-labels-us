@@ -1,13 +1,11 @@
-# PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
-NDC 0832-0111-50
+NDC 0832-0111-00
 
 Amantadine Hydrochloride Tablets
 
 100 mg
 
-500 Tablets
-
-Rx only
+100 Tablets Rx only
 
 UPSHER-SMITH
