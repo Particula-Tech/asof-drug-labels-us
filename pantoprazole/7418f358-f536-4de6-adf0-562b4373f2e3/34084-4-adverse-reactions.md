@@ -16,7 +16,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ### Adults
 
-Safety in nine randomized comparative U.S. clinical trials in patients with GERD included 1,473 patients on oral pantoprazole sodium delayed-release tablets (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another proton pump inhibitor, and 82 patients on placebo.
+Safety in nine randomized comparative U.S. clinical trials in patients with GERD included 1,473 patients on oral pantoprazole sodium delayed-release tablets (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 3.
 
 Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of > 2%
@@ -40,8 +40,24 @@ Safety of pantoprazole sodium delayed-release tablets in the treatment of Erosiv
 Safety trials involved pediatric patients with EE; however, as EE is uncommon in the pediatric population, 249 pediatric patients with endoscopically-proven or symptomatic GERD were also evaluated.
 All adult adverse reactions to pantoprazole sodium delayed-release tablets are considered relevant to pediatric patients.
 In patients ages 1 year through 16 years, the most commonly reported (> 4%) adverse reactions include: URI, headache, fever, diarrhea, vomiting, rash, and abdominal pain.
+
 For safety information in patients less than 1 year of age see Use in Specific Populations (8.4).
-Additional adverse reactions that were reported for pantoprazole sodium delayed-release tablets in pediatric patients in clinical trials with a frequency of ≤ 4% are listed below by body system: Body as a Whole: allergic reaction, facial edema Gastrointestinal: constipation, flatulence, nausea Metabolic/Nutritional: elevated triglycerides, elevated liver enzymes, elevated CK (creatine kinase) Musculoskeletal: arthralgia, myalgia Nervous: dizziness, vertigo Skin and Appendages: urticaria The following adverse reactions seen in adults in clinical trials were not reported in pediatric patients in clinical trials, but are considered relevant to pediatric patients: photosensitivity reaction, dry mouth, hepatitis, thrombocytopenia, generalized edema, depression, pruritus, leukopenia, and blurred vision.
+
+Additional adverse reactions that were reported for pantoprazole sodium delayed-release tablets in pediatric patients in clinical trials with a frequency of ≤ 4% are listed below by body system:
+
+Body as a Whole: allergic reaction, facial edema
+
+Gastrointestinal: constipation, flatulence, nausea
+
+Metabolic/Nutritional: elevated triglycerides, elevated liver enzymes, elevated CK (creatine kinase)
+
+Musculoskeletal: arthralgia, myalgia
+
+Nervous: dizziness, vertigo
+
+Skin and Appendages: urticaria
+
+The following adverse reactions seen in adults in clinical trials were not reported in pediatric patients in clinical trials, but are considered relevant to pediatric patients: photosensitivity reaction, dry mouth, hepatitis, thrombocytopenia, generalized edema, depression, pruritus, leukopenia, and blurred vision.
 
 ### Zollinger-Ellison Syndrome
 
@@ -51,4 +67,29 @@ In clinical studies of Zollinger-Ellison Syndrome, adverse reactions reported in
 
 The following adverse reactions have been identified during postapproval use of pantoprazole sodium delayed-release tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These adverse reactions are listed below by body system: General Disorders and Administration Conditions: asthenia, fatigue, malaise Hematologic: pancytopenia, agranulocytosis Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure Immune System Disorders: anaphylaxis (including anaphylactic shock), systemic lupus erythematosus Infections and Infestations: Clostridium difficile associated diarrhea Investigations: weight changes Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia Musculoskeletal Disorders: rhabdomyolysis, bone fracture Nervous: ageusia, dysgeusia Psychiatric Disorders: hallucination, confusion, insomnia, somnolence Renal and Urinary Disorders: interstitial nephritis Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), angioedema (Quincke’s edema) and cutaneous lupus erythematosus
+
+These adverse reactions are listed below by body system:
+
+General Disorders and Administration Conditions: asthenia, fatigue, malaise
+
+Hematologic: pancytopenia, agranulocytosis
+
+Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure
+
+Immune System Disorders: anaphylaxis (including anaphylactic shock), systemic lupus erythematosus
+
+Infections and Infestations: Clostridium difficile associated diarrhea
+
+Investigations: weight changes
+
+Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia
+
+Musculoskeletal Disorders: rhabdomyolysis, bone fracture
+
+Nervous: ageusia, dysgeusia
+
+Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
+
+Renal and Urinary Disorders: interstitial nephritis
+
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), angioedema (Quincke’s edema) and cutaneous lupus erythematosus
