@@ -6,7 +6,7 @@ See DOSAGE AND ADMINISTRATION section before initiating therapy.
 
 Carbidopa and levodopa extended-release tablets should be substituted at a dosage that will provide approximately 25% of the previous levodopa dosage (see DOSAGE AND ADMINISTRATION).
 Carbidopa does not decrease adverse reactions due to central effects of levodopa.
-By permitting more levodopa to reach the brain, particularly when nausea and vomiting is not a dose-limiting factor, certain adversecentral nervous system (CNS) effects, e.g., dyskinesias, will occur at lower dosages and sooner during therapy with carbidopa and levodopa extended-release tablets than with levodopa alone.
+By permitting more levodopa to reach the brain, particularly when nausea and vomiting is not a dose-limiting factor, certain adverse central nervous system (CNS) effects, e.g., dyskinesias, will occur at lower dosages and sooner during therapy with carbidopa and levodopa extended-release tablets than with levodopa alone.
 Patients receiving carbidopa and levodopa extended-release tablets may develop increased dyskinesias compared to carbidopa and levodopa tablets.
 Dyskinesias are a common side effect of carbidopa and levodopa treatment.
 The occurrence of dyskinesias may require dosage reduction.
