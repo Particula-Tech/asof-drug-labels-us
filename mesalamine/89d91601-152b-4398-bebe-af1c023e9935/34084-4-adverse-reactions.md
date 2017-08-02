@@ -37,11 +37,12 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Body as a Whole: drug fever, fatigue, lupus-like syndrome, medication residue
 - Cardiac Disorders: myocarditis, pericarditis, pericardial effusion [see Warnings and Precautions (5.3)]
+- Endocrine: Nephrogenic diabetes insipidus
 - Eye disorders: eye swelling
 - Gastrointestinal Disorders: abdominal cramps, abdominal distension, anal pruritus, anorectal discomfort, constipation, feces discolored, flatulence, frequent bowel movements, gastrointestinal bleeding, mucus stools, nausea, painful defecation, pancreatitis, proctalgia, rectal discharge, rectal tenesmus, stomach discomfort, vomiting
 - Hepatic Disorders: cholestatic jaundice, hepatitis, jaundice, Kawasaki-like syndrome including changes in liver enzymes, liver necrosis, liver failure
 - Hematologic Disorders: agranulocytosis, aplastic anemia, thrombocytopenia
-- Neurological/Psychiatric Disorders: Guillain-Barre syndrome, peripheral neuropathy, transverse myelitis
+- Neurological/Psychiatric Disorders: Guillain-Barre syndrome, peripheral neuropathy, transverse myelitis, intracranial hypertension
 - Renal Disorders: interstitial nephritis, renal failure, minimal change nephropathy [see Warnings and Precautions (5.1)]
 - Respiratory, Thoracic and Mediastinal Disorders: hypersensitivity pneumonitis (including allergic alveolitis, eosinophilic pneumonitis, interstitial pneumonitis)
 - Skin and Subcutaneous Tissue Disorder: alopecia, erythema, erythema nodosum, pruritus, psoriasis, pyoderma gangrenosum, urticaria

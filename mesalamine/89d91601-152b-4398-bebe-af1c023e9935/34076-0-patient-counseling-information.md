@@ -34,9 +34,11 @@ Advise patients to complete all blood tests ordered by their healthcare provider
 
 Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
-CANASA® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan affiliate.
-
-© 2016 Allergan.
+© 2017 Allergan.
 All rights reserved.
 
+Patented.
+See www.allergan.com/patents
+
+CANASA® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan affiliate.
 For more information, go to www.canasa.com or call 1-800-678-1605.
