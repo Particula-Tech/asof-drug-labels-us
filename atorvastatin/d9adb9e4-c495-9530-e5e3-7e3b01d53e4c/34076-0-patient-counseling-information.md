@@ -34,10 +34,10 @@ APOTEX INC. ATORVASTATIN CALCIUM TABLETS 10 mg, 20 mg, 40 mg, and 80 mg
 | Manufactured By | Manufactured For |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
-| Toronto, ON | Weston, Florida |
+| Toronto, Ontario | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: November 2015
+Revised: July 2017
 
 Rev.
-9
+10

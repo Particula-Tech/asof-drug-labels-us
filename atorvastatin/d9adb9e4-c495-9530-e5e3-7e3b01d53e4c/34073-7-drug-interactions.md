@@ -2,7 +2,7 @@
 
 The risk of myopathy during treatment with statins is increased with concurrent administration of fibric acid derivatives, lipid-modifying doses of niacin, cyclosporine, or strong CYP 3A4 inhibitors (e.g., clarithromycin, HIV protease inhibitors, and itraconazole) [see Warnings and Precautions, Skeletal Muscle (5.1) and Clinical Pharmacology (12.3)].
 
-## 7.1 Strong Inhibitors of CYP 3A4
+## 7.1 Strong Inhibitors of Cytochrome P450 3A4:Clarithromycin Combination of Protease Inhibitors Itraconazole
 
 Atorvastatin is metabolized by cytochrome P450 3A4.
 Concomitant administration of atorvastatin with strong inhibitors of CYP 3A4 can lead to increases in plasma concentrations of atorvastatin.

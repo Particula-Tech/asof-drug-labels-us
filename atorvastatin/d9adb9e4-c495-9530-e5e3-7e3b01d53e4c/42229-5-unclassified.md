@@ -147,7 +147,7 @@ Ask your doctor or pharmacist for a complete list.
 
 How do I store Atorvastatin Calcium Tablets
 
-- Store atorvastatin calcium tablets at room temperature, 68 to 77°F (20 to 25°C).
+- Store atorvastatin calcium tablets at room temperature, 68°F to 77°F (20°C to 25°C).
 - Do not keep medicine that is out of date or that you no longer need.
 - Keep atorvastatin calcium tablets and all medicines out of the reach of children.
   Be sure that if you throw medicine away, it is out of the reach of children.
@@ -164,21 +164,21 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about atorvastatin calcium tablets that is written for health professionals.
 Or for more information contact Apotex Corp., Drug Safety at 1-800-706-5575.
 
-What Are The Ingredients In Atorvastatin Calcium Tablets?
+What are the Ingredients In Atorvastatin Calcium Tablets?
 
 Active Ingredient: atorvastatin calcium
 
-Inactive Ingredients: calcium acetate, croscarmellose sodium, sodium carbonate, microcrystalline cellulose, magnesium stearate (vegetable source), colloidal silicon dioxide, hypromellose, hydroxypropyl cellulose, polyethylene glycol and titanium dioxide.
+Inactive Ingredients: calcium acetate, colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, magnesium stearate (vegetable source), microcrystalline cellulose, polyethylene glycol, sodium carbonate, and titanium dioxide.
 
 APOTEX INC. ATORVASTATIN CALCIUM TABLETS 10 mg, 20 mg, 40 mg, and 80 mg
 
 | Manufactured By | Manufactured For |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
-| Toronto, ON | Weston, Florida |
+| Toronto, Ontario | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: November 2015
+Revised: July 2017
 
 Rev.
-9
+10
