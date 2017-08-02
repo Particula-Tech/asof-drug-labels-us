@@ -14,6 +14,6 @@ Conversion of atrial flutter or fibrillation to sinus rhythm is uncommon (about 
 Slowing of the ventricular rate in patients with atrial fibrillation/flutter lasts 30 to 60 minutes after a single injection.
 
 Because a small fraction (<1%) of patients treated with verapamil hydrochloride respond with life-threatening adverse responses (rapid ventricular rate in atrial flutter/fibrillation, and an accessory bypass tract, marked hypotension, or extreme bradycardia/asystole − see CONTRAINDICATIONS and WARNINGS), the initial use of verapamil hydrochloride injection should, if possible, be in a treatment setting with monitoring and resuscitation facilities, including D.C.-cardioversion capability (see ADVERSE REACTIONS, Suggested Treatment of Acute Cardiovascular Adverse Reactions).
-As familiarity with the patient’s response is gained, use in an office setting may be acceptable.
+As familiarity with the patient's response is gained, use in an office setting may be acceptable.
 
 Cardioversion has been used safely and effectively after verapamil hydrochloride injection.

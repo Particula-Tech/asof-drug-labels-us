@@ -53,7 +53,7 @@ Premature Ventricular Contractions: During conversion to normal sinus rhythm, or
 Similar complexes are seen during spontaneous conversion of supraventricular tachycardias, after D.C.-cardioversion and other pharmacologic therapy.
 These complexes appear to have no clinical significance.
 
-Duchenne’s Muscular Dystrophy: Verapamil hydrochloride injection can precipitate respiratory muscle failure in these patients and should, therefore, be used with caution.
+Duchenne's Muscular Dystrophy: Verapamil hydrochloride injection can precipitate respiratory muscle failure in these patients and should, therefore, be used with caution.
 
 Increased Intracranial Pressure: Verapamil hydrochloride injection has been seen to increase intracranial pressure in patients with supratentorial tumors at the time of anesthesia induction.
 Caution should be taken and appropriate monitoring performed.

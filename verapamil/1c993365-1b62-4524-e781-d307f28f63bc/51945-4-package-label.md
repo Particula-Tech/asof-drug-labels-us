@@ -131,46 +131,41 @@ RL-1391 (6/05)
 
 # PRINCIPAL DISPLAY PANEL - 4 mL Syringe Label
 
-VERAPAMIL (2.5 mg/mL)
+Verapamil HCl 10 mg/4 mL (2.5 mg/mL)
 
-NDC 0409-9633-05
+4 mL Single-dose syringe NDC 0409-9633-05
 
-4 mL Single-dose Rx only
+Verapamil HCl Injection, USP 10 mg/4 mL (2.5 mg/mL)
 
-VERAPAMIL HCl Inj., USP 10 mg (2.5 mg/mL) Protect From Light.
+Rx only
 
-For I.V. use only.
-Usual dose: See insert.
-Sterile, nonpyrogenic.
+Protect From Light.
+
+For Intravenous use only.
+
+RL-6823
 
 Hospira
 
 Hospira, Inc. Lake Forest, IL 60045 USA
 
-RL-0133 (9/04)
-
 # PRINCIPAL DISPLAY PANEL - 4 mL Syringe Carton
+
+NDC 0409-9633-05 Rx only
 
 4 mL
 
-NDC 0409- 9633-05
+Verapamil Hydrochloride Injection, USP
 
-VERAPAMIL HYDROCHLORIDE Injection, USP
-
-10 mg (2.5 mg/mL)
+10 mg/4 mL (2.5 mg/mL)
 
 Ansyr®
 
-Unit of Use Syringe
-
-LifeShield®
-
-with male luer lock adapter
+Single-dose Syringe
 
 Protect from light.
-For I.V. use only.
 
-Rx only
+For intravenous use only.
 
 Hospira
 
