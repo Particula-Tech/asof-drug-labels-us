@@ -40,7 +40,7 @@ Adverse Reactions Reported in at Least 1% of Patients in the 84-Week Clinical St
 In the 84-week clinical trial, 7 patients (4.6%) discontinued treatment because of adverse reactions.
 Adverse reactions leading to discontinuation included: hematocrit increased, estradiol increased, prostatic specific antigen increased, prostate cancer, mood swings, prostatic dysplasia, acne, and deep vein thrombosis.
 
-During the 84-week clinical trial, the average serum PSA increased from 1.0 ± 0.8 ng/mL at baseline to 1.5 ±1.3 ng/mL at the end of study.
+During the 84-week clinical trial, the average serum PSA increased from 1.0 ± 0.8 ng/mL at baseline to 1.5 ± 1.3 ng/mL at the end of study.
 Fourteen patients (10.9%) in whom the baseline PSA was < 4 ng/mL had a post-baseline serum PSA of > 4 ng/mL during the 84-week treatment period.
 
 A total of 725 hypogonadal men received intramuscular testosterone undecanoate in a total of 7 controlled clinical trials.
@@ -72,7 +72,7 @@ Both serious POME reactions and anaphylaxis have been reported to occur after an
 
 Other Events
 
-The following treatment emergent adverse events or adverse reactions have been identified during post-marketing clinical trials and during post-approval use outside the United States of intramuscular testosterone undecanoate.
+The following treatment emergent adverse events or adverse reactions have been identified during post-marketing clinical trials and during post-approval use of intramuscular testosterone undecanoate.
 In most cases, the dose being used was 1000 mg.
 
 Blood and Lymphatic System Disorders: polycythemia, thrombocytopenia
@@ -105,7 +105,7 @@ Psychiatric Disorders: aggression, anxiety, depression, insomnia, irritability, 
 
 Renal and Urinary Disorders: calculus urinary, dysuria, hematuria, nephrolithiasis, pollakiuria, renal colic, renal pain, urinary tract disorder
 
-Reproductive System and Breast Disorders: benign prostatic hyperplasia, breast induration, breast pain, erectile dysfunction, gynecomastia, libido decreased, libido increased, prostate induration, prostatitis, spermatocele, testicular pain
+Reproductive System and Breast Disorders: azoospermia, benign prostatic hyperplasia, breast induration, breast pain, erectile dysfunction, gynecomastia, libido decreased, libido increased, prostate induration, prostatitis, spermatocele, testicular pain
 
 Respiratory, Thoracic and Mediastinal Disorders: asthma, chronic obstructive pulmonary disease, cough, dysphonia, dyspnea, hyperventilation, obstructive airway disorder, pharyngeal edema, pharyngolaryngeal pain, pulmonary microemboli, pulmonary embolism, respiratory distress, rhinitis, sleep apnea syndrome, snoring
 
