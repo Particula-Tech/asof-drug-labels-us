@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018615"
+  ],
   "inn": "sulfamethoxazole",
-  "labeler": "Actavis Mid Atlantic LLC",
+  "labeler": "Actavis Pharma, Inc.",
   "package_ndcs": [
     "0472-1284-16",
     "0472-1285-16",
     "0472-1285-33"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "sulfamethoxazole and trimethoprim",
+      "name": "Sulfatrim"
+    }
+  ],
   "setid": "a8df90d8-78b3-48c3-b42e-1e651d81454b",
   "source": "dailymed"
 }
