@@ -109,13 +109,15 @@ Body as a Whole: Neck pain, facial edema, edema, lupus-like syndrome, drug fever
 
 Cardiovascular: Pericarditis, myocarditis [see Warnings and Precautions (5.3)].
 
+Endocrine: Nephrogenic diabetes insipidus.
+
 Gastrointestinal: Anorexia, pancreatitis, gastritis, increased appetite, cholecystitis, dry mouth, oral ulcers, perforated peptic ulcer, bloody diarrhea.
 
 Hematologic: Agranulocytosis, aplastic anemia, thrombocytopenia, eosinophilia, leukopenia, anemia, lymphadenopathy.
 
 Musculoskeletal: Gout.
 
-Nervous: Depression, somnolence, emotional lability, hyperesthesia, vertigo, confusion, tremor, peripheral neuropathy, transverse myelitis, Guillain-Barré syndrome.
+Nervous: Depression, somnolence, emotional lability, hyperesthesia, vertigo, confusion, tremor, peripheral neuropathy, transverse myelitis, Guillain-Barré syndrome, intracranial hypertension.
 
 Renal: Renal failure, interstitial nephritis, minimal change nephropathy [see Warnings and Precautions (5.1)].
 

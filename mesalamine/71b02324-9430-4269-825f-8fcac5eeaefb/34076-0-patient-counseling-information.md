@@ -36,6 +36,12 @@ Blood Disorders
 - Inform elderly patients and those taking azathioprine or 6-mercaptopurine of the risk for blood disorders and the need for periodic monitoring of complete blood cell counts and platelet counts while on therapy.
   Advise patients to complete all blood tests ordered by their physician.
 
-Distributed By: Allergan USA, Inc. Irvine, CA 92612
+Distributed by: Allergan USA, Inc. Irvine, CA 92612
+
+© 2017 Allergan.
+All rights reserved.
+
+Patented.
+See www.allergan.com/patents
 
 Delzicol® is a registered trademark of Allergan Pharmaceuticals International Limited.
