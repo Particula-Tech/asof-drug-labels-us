@@ -17,7 +17,7 @@ Consideration should be given to the extended-release nature of the product when
 Multiple drug involvement should also be considered.
 
 In case of acute overdose, establish and maintain an airway and ensure adequate oxygenation and ventilation.
-Gastric lavage (after intubation if patient is unconscious) and administration of activated charcoal together with a laxative should be considered.
+Administration of activated charcoal together with a laxative should be considered.
 
 The possibility of obtundation, seizures, or dystonic reaction of the head and neck following overdose may create a risk of aspiration with induced emesis.
 
