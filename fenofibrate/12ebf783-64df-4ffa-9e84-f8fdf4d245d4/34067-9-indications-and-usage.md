@@ -2,11 +2,11 @@
 
 ## 1.1 Primary Hypercholesterolemia and Mixed Dyslipidemia
 
-Antara is indicated as adjunctive therapy to diet to reduce elevated low-density lipoprotein cholesterol (LDL-C), total cholesterol (Total-C), Triglycerides (TG), and apolipoprotein B (Apo B), and to increase high-density lipoprotein cholesterol (HDL-C) in adult patients with primary hyperlipidemia or mixed dyslipidemia.
+Antara is indicated as adjunctive therapy to diet to reduce elevated low-density lipoprotein cholesterol (LDL-C), total cholesterol (Total-C), Triglycerides (TG), and apolipoprotein B (Apo B), and to increase high-density lipoprotein cholesterol (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia.
 
 ## 1.2 Severe Hypertriglyceridemia
 
-Antara is also indicated as adjunctive therapy to diet for treatment of adult patients with hypertriglyceridemia.
+Antara is also indicated as adjunctive therapy to diet for treatment of adult patients with severe hypertriglyceridemia.
 Improving glycemic control in diabetic patients showing fasting chylomicronemia will usually reduce fasting triglycerides and eliminate chylomicronemia thereby obviating the need for pharmacologic intervention.
 
 Markedly elevated levels of serum triglycerides (e.g. > 2,000 mg/dL) may increase the risk of developing pancreatitis.
