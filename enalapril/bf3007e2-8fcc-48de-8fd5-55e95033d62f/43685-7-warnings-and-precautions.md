@@ -249,7 +249,7 @@ It is recommended that serum lithium levels be monitored frequently if enalapril
 
 Gold Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including VASERETIC.
 
-mTOR (mammalian target of rapamycin) inhibitors: Patients receiving coadministration of ACE inhibitor or mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see WARNINGS).
+mTOR (mammalian target of rapamycin) inhibitors: Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see WARNINGS).
 
 ### Hydrochlorothiazide
 
