@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019651"
+  ],
+  "inn": "mesalamine",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-0752-27"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "mesalamine",
+      "name": "Asacol"
+    }
+  ],
+  "setid": "82025f6c-471a-456b-ac8d-dd3ca89a004e",
+  "source": "dailymed"
+}
