@@ -77,7 +77,7 @@ Effect of Saxenda on Body Weight in a 160-week Trial (Study 1, Subset of Patient
 
 The numbers and percentages of patients known to have lost greater than or equal to 5% body weight at week 56 and/or week 160 in Study 1 (patients with abnormal glucose at randomization only) are summarized in Table 5 for descriptive purposes.
 
-1. Table 5.Changes in Weight at Week 56 and Week 160 for Study 1 (Subset of Patients with Abnormal Blood Glucose at Randomization)
+- Table 5.Changes in Weight at Week 56 and Week 160 for Study 1 (Subset of Patients with Abnormal Blood Glucose at Randomization)
 
 |  | SaxendaN=1505 | PlaceboN=749 |
 | --- | --- | --- |

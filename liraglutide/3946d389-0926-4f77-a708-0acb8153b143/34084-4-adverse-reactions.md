@@ -203,4 +203,4 @@ Immune System Disorders
 
 Hepatobiliary Disorders
 
-1. Elevations of liver enzymes, hyperbilirubinemia, cholestasis and hepatitis [see Adverse Reactions (6.1)]
+- Elevations of liver enzymes, hyperbilirubinemia, cholestasis and hepatitis [see Adverse Reactions (6.1)]
