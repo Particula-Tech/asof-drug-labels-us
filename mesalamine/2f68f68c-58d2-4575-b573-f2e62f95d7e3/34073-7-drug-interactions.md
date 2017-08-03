@@ -2,7 +2,7 @@
 
 ## 7.1 Nephrotoxic Agents, Including Non-Steroidal Anti-Inflammatory Drugs
 
-The concurrent use of mesalamine with known nephrotoxic agents, including nonsteroidal anti-inflammatory drugs (NSAIDs) may increase the risk of nephrotoxicity.
+The concurrent use of mesalamine with known nephrotoxic agents, including nonsteroidal anti- inflammatory drugs (NSAIDs) may increase the risk of nephrotoxicity.
 Monitor patients taking nephrotoxic drugs for changes in renal function and mesalamine-related adverse reactions [see Warnings and Precautions (5.1)].
 
 ## 7.2 Azathioprine or 6-Mercaptopurine

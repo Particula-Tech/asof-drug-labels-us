@@ -54,6 +54,8 @@ Body as a Whole: Facial edema, edema, peripheral edema, asthenia, chills, infect
 
 Cardiovascular: Pericarditis (rare) and myocarditis (rare) [see Warnings and Precautions (5.3)], pericardial effusion, vasodilation, migraine.
 
+Endocrine: Nephrogenic diabetes insipidus.
+
 Gastrointestinal: Dry mouth, stomatitis, oral ulcers, anorexia, increased appetite, eructation, pancreatitis, cholecystitis, gastritis, gastroenteritis, gastrointestinal bleeding, perforated peptic ulcer (rare), constipation, hemorrhoids, rectal hemorrhage, bloody diarrhea, tenesmus, stool abnormality.
 
 Hepatic: There have been rare reports of hepatotoxicity, including jaundice, cholestatic jaundice, hepatitis, and possible hepatocellular damage including liver necrosis and liver failure.
@@ -65,9 +67,7 @@ Hematologic: Agranulocytosis (rare), aplastic anemia (rare), anemia, thrombocyto
 
 Musculoskeletal: Gout, rheumatoid arthritis, arthritis, arthralgia, joint disorder, myalgia, hypertonia.
 
-Neurological/Psychiatric: Anxiety, depression, somnolence, insomnia, nervousness, confusion, emotional lability, dizziness, vertigo, tremor, paresthesia, hyperesthesia, peripheral neuropathy (rare),
-
-Guillain-Barré syndrome (rare), and transverse myelitis (rare).
+Neurological/Psychiatric: Anxiety, depression, somnolence, insomnia, nervousness, confusion, emotional lability, dizziness, vertigo, tremor, paresthesia, hyperesthesia, peripheral neuropathy (rare), Guillain-Barré syndrome (rare), and transverse myelitis (rare), intracranial hypertension.
 
 Respiratory/Pulmonary: Sinusitis, rhinitis, pharyngitis, asthma exacerbation, pleuritis, bronchitis, eosinophilic pneumonia, interstitial pneumonitis.
 

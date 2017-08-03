@@ -35,7 +35,10 @@ Blood Disorders
 
 Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
-© 2016 Allergan.
+© 2017 Allergan.
 All rights reserved.
+
+Patented.
+See www.allergan.com/patents
 
 Asacol® is a registered trademark of Medeva Pharma Suisse AG, licensed to Allergan Pharmaceuticals International Limited.
