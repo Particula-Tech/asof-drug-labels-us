@@ -19,7 +19,7 @@ Headache may be a symptom of hypertension due to overdosage.
 Site of Infusion: Whenever possible, infusions of LEVOPHED should be given into a large vein, particularly an antecubital vein because, when administered into this vein, the risk of necrosis of the overlying skin from prolonged vasoconstriction is apparently very slight.
 Some authors have indicated that the femoral vein is also an acceptable route of administration.
 A catheter tie-in technique should be avoided, if possible, since the obstruction to blood flow around the tubing may cause stasis and increased local concentration of the drug.
-Occlusive vascular diseases (for example, atherosclerosis, arteriosclerosis, diabetic endarteritis, Buerger’s disease) are more likely to occur in the lower than in the upper extremity.
+Occlusive vascular diseases (for example, atherosclerosis, arteriosclerosis, diabetic endarteritis, Buerger's disease) are more likely to occur in the lower than in the upper extremity.
 Therefore, one should avoid the veins of the leg in elderly patients or in those suffering from such disorders.
 Gangrene has been reported in a lower extremity when infusions of LEVOPHED were given in an ankle vein.
 
