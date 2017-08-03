@@ -86,17 +86,17 @@ Placebo-Controlled Study of Dapagliflozin in Add-On Combination with Metformin
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 7.9 | 8.2 | 8.1 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | −0.8 | −0.7 | −0.3 |
-| Difference from placebo(adjusted mean) (95% CI) | −0.5p-value <0.00001 versus placebo + metformin. (−0.7, −0.3) | −0.4 (−0.6, −0.2) |  |
+| Difference from placebo (adjusted mean) (95% CI) | −0.5p-value <0.00001 versus placebo + metformin. (−0.7, −0.3) | −0.4 (−0.6, −0.2) |  |
 | Percent of patients achieving HbA1c <7% adjusted for baseline | 40.6%p-value <0.05 versus placebo + metformin. | 37.5% | 25.9% |
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 156.0 | 169.2 | 165.6 |
-| Change from baseline at Week 24(adjusted mean) | −23.5 | −21.5 | −6.0 |
+| Change from baseline at Week 24 (adjusted mean) | −23.5 | −21.5 | −6.0 |
 | Difference from placebo(adjusted mean) (95% CI) | −17.5 (−25.0, −10.0) | −15.5 (−22.9, −8.1) |  |
 | Change from baseline at Week 1 (adjusted mean) | −16.5 (N=115) | −12.0 (N=121) | 1.2 (N=126) |
 | Body Weight (kg) |  |  |  |
 | Baseline (mean) | 86.3 | 84.7 | 87.7 |
-| Change from baseline(adjusted mean) | −2.9 | −3.0 | −0.9 |
-| Difference from placebo(adjusted mean) (95% CI) | −2.0 (−2.6, −1.3) | −2.2 (−2.8, −1.5) |  |
+| Change from baseline (adjusted mean) | −2.9 | −3.0 | −0.9 |
+| Difference from placebo (adjusted mean) (95% CI) | −2.0 (−2.6, −1.3) | −2.2 (−2.8, −1.5) |  |
 
 Figure 3: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24-Week Placebo-Controlled Study of Dapagliflozin in Combination with Metformin
 

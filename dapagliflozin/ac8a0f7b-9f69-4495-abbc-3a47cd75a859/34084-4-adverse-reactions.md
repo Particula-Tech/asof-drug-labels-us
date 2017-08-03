@@ -227,7 +227,7 @@ Dapagliflozin
 In the pool of 13 placebo-controlled studies, increases from baseline in mean serum phosphorus levels were reported at Week 24 in dapagliflozin 10 mg–treated patients compared with placebo-treated patients (mean increases of 0.13 mg/dL versus −0.04 mg/dL, respectively).
 Higher proportions of patients with marked laboratory abnormalities of hyperphosphatemia (≥5.6 mg/dL if age 17-65 or ≥5.1 mg/dL if age ≥66) were reported in the dapagliflozin 10 mg group versus the placebo group at Week 24 (1.7% versus 0.9%, respectively).
 
-### Increase in Low -Density Lipoprotein Cholesterol Dapagliflozin
+### Increase in Low-Density Lipoprotein Cholesterol Dapagliflozin
 
 Dapagliflozin
 

@@ -19,8 +19,7 @@ For each of the known and possible risk factors for metformin-associated lactic 
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
-Clinical recommendations based upon the patient’s renal function include.
-[see Dosage and Administration (2.2), and Clinical Pharmacology (12.3)]:
+Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2), and Clinical Pharmacology (12.3)]:
 
 - •Before initiating XIGDUO XR, obtain an estimated glomerular filtration rate (eGFR).
 - •XIGDUO XR is contraindicated in patients with an eGFR less than 60 mL/minute/1.73 m2 [see Contraindications (4)].

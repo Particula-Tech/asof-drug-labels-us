@@ -10,7 +10,7 @@ Inform patients of the potential risks and benefits of XIGDUO XR and of alternat
 Also inform patients about the importance of adherence to dietary instructions, regular physical activity, periodic blood glucose monitoring and HbA1c testing, recognition and management of hypoglycemia and hyperglycemia, and assessment of diabetes complications.
 Advise patients to seek medical advice promptly during periods of stress such as fever, trauma, infection, or surgery, as medication requirements may change.
 
-Inform patients that the incidence of hypoglycemia may be increased when XIGDUO XR is added to an insulin secretagogue (e.g., sulfonylurea) or insulin [seeWarnings and Precautions (5.6)].
+Inform patients that the incidence of hypoglycemia may be increased when XIGDUO XR is added to an insulin secretagogue (e.g., sulfonylurea) or insulin [see Warnings and Precautions (5.6)].
 
 Instruct patient to immediately inform her healthcare provider if she is pregnant or plans to become pregnant.
 Based on animal data, XIGDUO XR may cause fetal harm in the second and third trimesters of pregnancy.

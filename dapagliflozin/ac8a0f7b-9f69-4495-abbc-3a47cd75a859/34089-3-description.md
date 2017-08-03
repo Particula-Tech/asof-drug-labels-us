@@ -18,10 +18,10 @@ The structural formula is:
 
 XIGDUO XR
 
-XIGDUO XR is available for oral administration as tablets containing the equivalent of 5 mg dapagliflozin as dapagliflozin propanediol and 500 mg metformin hydrochloride (XIGDUO XR 5 mg/500 mg), the equivalent of 5 mg dapagliflozin as dapagliflozin propanediol and 1000 mg metformin hydrochloride (XIGDUO XR 5 mg/1000 mg), the equivalent of 10 mg dapagliflozin as dapagliflozin propanediol and 500 mg metformin hydrochloride (XIGDUO XR 10 mg/500 mg), or the equivalent of 10 mg dapagliflozin as dapagliflozin propanediol and 1000 mg metformin hydrochloride (XIGDUO XR 10 mg/1000 mg).
+XIGDUO XR is available for oral administration as tablets containing the equivalent of 2.5 mg dapagliflozin as dapagliflozin propanediol and 1000 mg metformin hydrochloride (XIGDUO XR 2.5mg/1000mg), 5 mg dapagliflozin as dapagliflozin propanediol and 500 mg metformin hydrochloride (XIGDUO XR 5 mg/500 mg), the equivalent of 5 mg dapagliflozin as dapagliflozin propanediol and 1000 mg metformin hydrochloride (XIGDUO XR 5 mg/1000 mg), the equivalent of 10 mg dapagliflozin as dapagliflozin propanediol and 500 mg metformin hydrochloride (XIGDUO XR 10 mg/500 mg), or the equivalent of 10 mg dapagliflozin as dapagliflozin propanediol and 1000 mg metformin hydrochloride (XIGDUO XR 10 mg/1000 mg).
 
-Each film-coated tablet of XIGDUO XR contains the following inactive ingredients: microcrystalline cellulose, lactose anhydrous, crospovidone, silicon dioxide, magnesium stearate, carboxymethylcellulose sodium, and hypromellose 2208.
-The 5 mg/500 mg and 5 mg/1000 mg strength tablets of XIGDUO XR also contain hypromellose 2910.
+Each film-coated tablet of XIGDUO XR contains the following inactive ingredients: microcrystalline cellulose, lactose anhydrous, crospovidone, silicon dioxide, magnesium stearate, carboxymethylcellulose sodium, and hypromellose.
 
 The film coatings contain the following inactive ingredients: polyvinyl alcohol, titanium dioxide, polyethylene glycol, and talc.
-Additionally, the film coating for the XIGDUO XR 5 mg/500 mg tablets contains FD&C Yellow No. 6/Sunset Yellow FCF aluminum lake and the film coating for the XIGDUO XR 5 mg/1000 mg, 10 mg/500 mg, and 10 mg/1000 mg tablets contains iron oxides.
+Additionally, the film coating for the XIGDUO XR 5 mg/500 mg tablets contains FD&C Yellow No. 6/Sunset Yellow FCF aluminum lake.
+The film coating for the XIGDUO XR 2.5 mg/1000 mg, 5 mg/1000 mg, 10 mg/500 mg, and 10 mg/1000 mg tablets contains iron oxides.

@@ -30,6 +30,8 @@ At higher doses in rats, malformations of blood vessels, ribs, vertebrae, manubr
 
 Metformin hydrochloride
 
+Metformin hydrochloride did not cause adverse developmental effect when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
+This represents an exposure of about 2- and 6-times a 2000 mg clinical dose based on body surface area (mg/m2) for rats and rabbits, respectively.
 Metformin was not teratogenic in rats and rabbits at doses up to 600 mg/kg/day.
 This represents an exposure of about 2 and 6 times the MRHD of 2000 mg based on body surface area comparisons for rats and rabbits, respectively.
 Determination of fetal concentrations demonstrated a partial placental barrier to metformin.

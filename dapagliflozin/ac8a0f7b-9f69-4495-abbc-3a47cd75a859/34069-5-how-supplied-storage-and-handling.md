@@ -6,8 +6,9 @@ XIGDUO® XR (dapagliflozin and metformin HCl extended-release) tablets have mark
 
 Table 15: XIGDUO XR Tablet Presentations
 
-| Tablet Strength | Film-Coated Tablet Color/Shape | Tablet Markings | Pack Size | NDC Code |
+| 2.5/1000 mg | Light brown to brown, biconvex, oval-shaped | "1074" and "2.5/1000" debossed on one side and plain on the reverse side. | Bottle of 60 | 0310-6225-60 |
 | --- | --- | --- | --- | --- |
+| Tablet Strength | Film-Coated Tablet Color/Shape | Tablet Markings | Pack Size | NDC Code |
 | 5/500 mg | orange, biconvex, capsule-shaped | "1070" and "5/500" debossed on one side and plain on the reverse side. | Bottle of 30 Bottle of 500 | 0310-6250-300310-6250-50 |
 | 5/1000 mg | pink to dark pink, biconvex, oval-shaped | "1071" and "5/1000" debossed on one side and plain on the reverse side. | Bottle of 30 Bottle of 60 Bottle of 90 Bottle of 400 | 0310-6260-300310-6260-600310-6260-900310-6260-40 |
 | 10/500 mg | pink, biconvex, capsule-shaped | "1072" and "10/500" debossed on one side and plain on the reverse side. | Bottle of 30 Bottle of 500 | 0310-6270-300310-6270-50 |

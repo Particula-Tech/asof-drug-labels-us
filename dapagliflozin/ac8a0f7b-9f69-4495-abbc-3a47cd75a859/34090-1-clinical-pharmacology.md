@@ -119,9 +119,7 @@ The impact of hemodialysis on dapagliflozin exposure is not known [see Dosage an
 
 Metformin hydrochloride
 
-In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease
-
-[see Contraindications (4) and Warnings and Precautions (5.1)].
+In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 #### Hepatic Impairment
 
@@ -143,7 +141,7 @@ Based on a population pharmacokinetic analysis, age does not have a clinically m
 
 Metformin hydrochloride
 
-Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggests that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
+Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
 
 #### Pediatric
