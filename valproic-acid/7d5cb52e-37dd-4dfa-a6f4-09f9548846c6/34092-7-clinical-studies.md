@@ -15,7 +15,7 @@ Adjunctive Therapy Study Median Incidence of CPS per 8 Weeks
 
 | Add-on Treatment | Number of Patients | Baseline Incidence | Experimental Incidence |
 | --- | --- | --- | --- |
-| Divalproex sodium | 75 | 16.0 | 8.9Reduction from baseline statistically significantly greater for divalproex sodium than placebo at p ≤ 0.05 level. |
+| Divalproex sodium | 75 | 16.0 | 8.9 Reduction from baseline statistically significantly greater for divalproex sodium than placebo at p ≤ 0.05 level. |
 | Placebo | 69 | 14.5 | 11.5 |
 
 Figure 1 presents the proportion of patients (X axis) whose percentage reduction from baseline in complex partial seizure rates was at least as great as that indicated on the Y axis in the adjunctive therapy study.
@@ -41,7 +41,7 @@ Monotherapy Study Median Incidence of CPS per 8 Weeks
 
 | Treatment | Number of Patients | Baseline Incidence | Randomized Phase Incidence |
 | --- | --- | --- | --- |
-| High dose divalproex sodium | 131 | 13.2 | 10.7Reduction from baseline statistically significantly greater for high dose than low dose at p ≥ 0.05 level. |
+| High dose divalproex sodium | 131 | 13.2 | 10.7 Reduction from baseline statistically significantly greater for high dose than low dose at p ≥ 0.05 level. |
 | Low dose divalproex sodium | 134 | 14.2 | 13.8 |
 
 Figure 2 presents the proportion of patients (X axis) whose percentage reduction from baseline in complex partial seizure rates was at least as great as that indicated on the Y axis in the monotherapy study.

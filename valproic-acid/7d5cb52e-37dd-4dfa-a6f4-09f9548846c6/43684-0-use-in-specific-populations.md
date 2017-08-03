@@ -13,13 +13,16 @@ Information on the registry can be found at the website, http://www.aedpregnancy
 Fetal Risk Summary
 
 All pregnancies have a background risk of birth defects (about 3%), pregnancy loss (about 15%), or other adverse outcomes regardless of drug exposure.
-Maternal valproate use during pregnancy for any indication increases the risk of congenital malformations, particularly neural tube defects, but also malformations involving other body systems (e.g., craniofacial defects, cardiovascular malformations).
+Maternal valproate use during pregnancy for any indication increases the risk of congenital malformations, particularly neural tube defects, but also malformations involving other body systems (e.g., craniofacial defects, cardiovascular malformations, hypospadias, limb malformations).
 The risk of major structural abnormalities is greatest during the first trimester; however, other serious developmental effects can occur with valproate use throughout pregnancy.
 The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other anti-seizure monotherapies [see Warnings and Precautions (5.3)].
 
-Exposure in utero to valproate products has been associated with cerebral atrophy [see Warnings and Precautions (5.7) and Adverse Reactions (6.4)].
-
 Several published epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores than children exposed to either another antiepileptic drug in utero or to no antiepileptic drugs in utero [see Warnings and Precautions (5.3)].
+
+An observational study has suggested that exposure to valproate products during pregnancy may increase the risk of autism spectrum disorders.
+In this study, children born to mothers who had used valproate products during pregnancy had 2.9 times the risk (95% confidence interval [CI]: 1.7-4.9) of developing autism spectrum disorders compared to children born to mothers not exposed to valproate products during pregnancy.
+The absolute risks for autism spectrum disorders were 4.4% (95% CI: 2.6%-7.5%) in valproate-exposed children and 1.5% (95% CI: 1.5%-1.6%) in children not exposed to valproate products.
+Because the study was observational in nature, conclusions regarding a causal association between in utero valproate exposure and an increased risk of autism spectrum disorder cannot be considered definitive.
 
 In animal studies, offspring with prenatal exposure to valproate had structural malformations similar to those seen in humans and demonstrated neurobehavioral deficits.
 
@@ -41,26 +44,24 @@ Clinical Considerations
 - Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
   It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
   Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate.
-- Patients taking valproate may develop clotting abnormalities [see Warnings and Precautions (5.9)].
-  A patient who had low fibrinogen when taking multiple anticonvulsants including valproate gave birth to an infant with afibrinogenemia who subsequently died of hemorrhage.
-  If valproate is used in pregnancy, the clotting parameters should be monitored carefully.
+- Pregnant women taking valproate may develop clotting abnormalities including thrombocytopenia, hypofibrinogenemia, and/or decrease in other coagulation factors, which may result in hemorrhagic complications in the neonate including death [see Warnings and Precautions (5.8)].
+  If valproate is used in pregnancy, the clotting parameters should be monitored carefully in the mother.
+  If abnormal in the mother, then these parameters should also be monitored in the neonate.
 - Patients taking valproate may develop hepatic failure [see Boxed Warning and Warnings and Precautions (5.1)].
   Fatal cases of hepatic failure in infants exposed to valproate in utero have also been reported following maternal use of valproate during pregnancy.
+- Hypoglycemia has been reported in neonates whose mothers have taken valproate during pregnancy.
 
 Data
 
 Human
 
 There is an extensive body of evidence demonstrating that exposure to valproate in utero increases the risk of neural tube defects and other structural abnormalities.
-Based on published data from the CDC's National Birth Defects Prevention Network, the risk of spina bifida in the general population is about 0.06 to 0.07%.
+Based on published data from the CDC’s National Birth Defects Prevention Network, the risk of spina bifida in the general population is about 0.06 to 0.07%.
 The risk of spina bifida following in utero valproate exposure has been estimated to be approximately 1 to 2%.
 
-In one study using NAAED Pregnancy Registry data, 16 cases of major malformations following prenatal valproate exposure were reported among offspring of 149 enrolled women who used valproate during pregnancy.
-Three of the 16 cases were neural tube defects; the remaining cases included craniofacial defects, cardiovascular malformations and malformations of varying severity involving other body systems.
-The NAAED Pregnancy Registry has reported a major malformation rate of 10.7% (95% C.I.
-6.3% – 16.9%) in the offspring of women exposed to an average of 1,000 mg/day of valproate monotherapy during pregnancy (dose range 500 – 2000 mg/day).
-The major malformation rate among the internal comparison group of 1,048 epileptic women who received any other antiepileptic drug monotherapy during pregnancy was 2.9% (95% CI 2.0% to 4.1%).
-These data show a four-fold increased risk for any major malformation (Odds Ratio 4.0; 95% CI 2.1 to 7.4) following valproate exposure in utero compared to the risk following exposure in utero to any other antiepileptic drug monotherapy.
+The NAAED Pregnancy Registry has reported a major malformation rate of 9-11% in the offspring of women exposed to an average of 1,000 mg/day of valproate monotherapy during pregnancy.
+These data show up to a five-fold increased risk for any major malformation following valproate exposure in utero compared to the risk following exposure in utero to other antiepileptic drugs taken in monotherapy.
+The major congenital malformations included cases of neural tube defects, cardiovascular malformations, craniofacial defects (e.g., oral clefts, craniosynostosis), hypospadias, limb malformations (e.g., clubfoot, polydactyly), and malformations of varying severity involving other body systems.
 
 Published epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores than children exposed to either another antiepileptic drug in utero or to no antiepileptic drugs in utero.
 The largest of these studies is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
@@ -89,7 +90,7 @@ Caution should be exercised when valproate is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Experience has indicated that pediatric patients under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions [see Boxed Warning].
+Experience has indicated that pediatric patients under the age of 2 years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions [see Boxed Warning].
 When valproic acid is used in this patient group, it should be used with extreme caution and as a sole agent.
 The benefits of therapy should be weighed against the risks.
 Above the age of 2 years, experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
@@ -105,21 +106,21 @@ Pediatric Clinical Trials
 
 Divalproex sodium was studied in seven pediatric clinical trials.
 
-Two of the pediatric studies were double-blinded placebo-controlled trials to evaluate the efficacy of divalproex sodium extended release for the indications of mania (150 patients aged 10 to 17 years, 76 of whom were on divalproex sodium extended release and migraine (304 patients aged 12 to 17 years, 231 of whom were on divalproex sodium extended release).
+Two of the pediatric studies were double-blinded placebo-controlled trials to evaluate the efficacy of divalproex sodium ER for the indications of mania (150 patients aged 10 to 17 years, 76 of whom were on divalproex sodium ER and migraine (304 patients aged 12 to 17 years, 231 of whom were on divalproex sodium ER).
 Efficacy was not established for either the treatment of migraine or the treatment of mania.
 The most common drug-related adverse reactions (reported >5% and twice the rate of placebo) reported in the controlled pediatric mania study were nausea, upper abdominal pain, somnolence, increased ammonia, gastritis and rash.
 
 The remaining five trials were long term safety studies.
-Two six-month pediatric studies were conducted to evaluate the long-term safety of divalproex sodium extended release for the indication of mania (292 patients aged 10 to 17 years).
-Two twelve-month pediatric studies were conducted to evaluate the long-term safety of divalproex sodium extended release for the indication of migraine (353 patients aged 12 to 17 years).
-One twelve-month study was conducted to evaluate the safety of divalproex sodium sprinkle capsules in the indication of partial seizures (169 patients aged 3 to 10 years).
+Two six-month pediatric studies were conducted to evaluate the long-term safety of divalproex sodium ER for the indication of mania (292 patients aged 10 to 17 years).
+Two twelve-month pediatric studies were conducted to evaluate the long-term safety of divalproex sodium ER for the indication of migraine (353 patients aged 12 to 17 years).
+One twelve-month study was conducted to evaluate the safety of divalproex sodium Sprinkle Capsules in the indication of partial seizures (169 patients aged 3 to 10 years).
 
 In these seven trials, the safety and tolerability of divalproex sodium in pediatric patients were shown to be comparable to those in adults [see Adverse Reactions (6)].
 
 Juvenile Animal Toxicology
 
 In studies of valproate in immature animals, toxic effects not observed in adult animals included retinal dysplasia in rats treated during the neonatal period (from postnatal day 4) and nephrotoxicity in rats treated during the neonatal and juvenile (from postnatal day 14) periods.
-The no-effect dose for these findings was less than the maximum recommended human dose on a mg/m2 basis.
+The no-effect dose for these findings was less than the maximum recommended human dose on a mg/m 2 basis.
 
 ## 8.5 Geriatric Use
 
@@ -130,5 +131,5 @@ A higher percentage of patients above 65 years of age reported accidental injury
 Discontinuation of valproate was occasionally associated with the latter two events.
 It is not clear whether these events indicate additional risk or whether they result from preexisting medical illness and concomitant medication use among these patients.
 
-A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.15)].
+A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.14)].
 The starting dose should be reduced in these patients, and dosage reductions or discontinuation should be considered in patients with excessive somnolence [see Dosage and Administration (2.2)].

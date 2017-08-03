@@ -2,7 +2,7 @@
 
 ## 7.1 Effects of Co-Administered Drugs on Valproate Clearance
 
-Drugs that affect the level of expression of hepatic enzymes, particularly those that elevate levels of glucuronosyltransferases, may increase the clearance of valproate.
+Drugs that affect the level of expression of hepatic enzymes, particularly those that elevate levels of glucuronosyltransferases (such as ritonavir), may increase the clearance of valproate.
 For example, phenytoin, carbamazepine, and phenobarbital (or primidone) can double the clearance of valproate.
 Thus, patients on monotherapy will generally have longer half-lives and higher concentrations than patients receiving polytherapy with antiepilepsy drugs.
 
@@ -27,7 +27,17 @@ Carbapenem Antibiotics
 A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics (for example, ertapenem, imipenem, meropenem; this is not a complete list) and may result in loss of seizure control.
 The mechanism of this interaction is not well understood.
 Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
-Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.14)].
+Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.13)].
+
+Cholestyramine
+
+Cholestyramine, when concurrently administered with valproic acid, led to, on average, a 14% decrease in plasma levels of valproic acid in a study conducted in 6 healthy subjects administered valproic acid and cholestyramine.
+Delaying the administration of cholestyramine relative to valproic acid administration by 3 hours may lessen the interaction.
+
+Estrogen-Containing Hormonal Contraceptives
+
+Estrogen-containing hormonal contraceptives may increase the clearance of valproate, which may result in decreased concentration of valproate and potentially increased seizure frequency.
+Prescribers should monitor serum valproate concentrations and clinical response when adding or discontinuing estrogen containing products.
 
 Felbamate
 
@@ -125,6 +135,19 @@ Both the clearance and apparent volume of distribution of free phenytoin were re
 In patients with epilepsy, there have been reports of breakthrough seizures occurring with the combination of valproate and phenytoin.
 The dosage of phenytoin should be adjusted as required by the clinical situation.
 
+Propofol
+
+The concomitant use of valproate and propofol may lead to increased blood levels of propofol.
+Reduce the dose of propofol when co-administering with valproate.
+Monitor patients closely for signs of increased sedation or cardiorespiratory depression.
+
+Rufinamide
+
+Based on a population pharmacokinetic analysis, rufinamide clearance was decreased by valproate.
+Rufinamide concentrations were increased by <16% to 70%, dependent on concentration of valproate (with the larger increases being seen in pediatric patients at high doses or concentrations of valproate).
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Dosage and Administration (2.3)].
+Similarly, patients on valproate should begin at a rufinamide dose lower than 10 mg/kg per day (pediatric patients) or 400 mg per day (adults).
+
 Tolbutamide
 
 From in vitro experiments, the unbound fraction of tolbutamide was increased from 20% to 50% when added to plasma samples taken from patients treated with valproate.
@@ -157,12 +180,17 @@ Lorazepam
 
 Concomitant administration of valproate (500 mg BID) and lorazepam (1 mg BID) in normal male volunteers (n = 9) was accompanied by a 17% decrease in the plasma clearance of lorazepam.
 
+Olanzapine
+
+No dose adjustment for olanzapine is necessary when olanzapine is administered concomitantly with valproate.
+Co-administration of valproate (500 mg BID) and olanzapine (5 mg) to healthy adults (n=10) caused 15% reduction in Cmax and 35% reduction in AUC of olanzapine.
+
 Oral Contraceptive Steroids
 
 Administration of a single-dose of ethinyloestradiol (50 mcg)/levonorgestrel (250 mcg) to 6 women on valproate (200 mg BID) therapy for 2 months did not reveal any pharmacokinetic interaction.
 
 ## 7.3 Topiramate
 
-Concomitant administration of valproate and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.10, 5.11)].
+Concomitant administration of valproate and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.6, 5.9, 5.10)].
 Concomitant administration of topiramate with valproate has also been associated with hypothermia in patients who have tolerated either drug alone.
-It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.10, 5.12)].
+It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.9, 5.11)].

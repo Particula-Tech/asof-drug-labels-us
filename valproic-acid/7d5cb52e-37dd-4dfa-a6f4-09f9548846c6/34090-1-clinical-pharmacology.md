@@ -61,8 +61,8 @@ The kinetics of unbound drug are linear.
 
 Elimination
 
-Mean plasma clearance and volume of distribution for total valproate are 0.56 L/hr/1.73 m2 and 11 L/1.73 m2, respectively.
-Mean plasma clearance and volume of distribution for free valproate are 4.6 L/hr/1.73 m2 and 92 L/1.73 m2.
+Mean plasma clearance and volume of distribution for total valproate are 0.56 L/hr/1.73 m 2 and 11 L/1.73 m 2, respectively.
+Mean plasma clearance and volume of distribution for free valproate are 4.6 L/hr/1.73 m 2 and 92 L/1.73 m 2.
 Mean terminal half-life for valproate monotherapy ranged from 9 to 16 hours following oral dosing regimens of 250 to 1000 mg.
 
 The estimates cited apply primarily to patients who are not taking drugs that affect hepatic metabolizing enzyme systems.
@@ -92,7 +92,7 @@ Accordingly, the initial dosage should be reduced in the elderly [see Dosage and
 
 Effect of Sex
 
-There are no differences in the body surface area adjusted unbound clearance between males and females (4.8 ± 0.17 and 4.7 ± 0.07 L/hr per 1.73 m2, respectively).
+There are no differences in the body surface area adjusted unbound clearance between males and females (4.8 ± 0.17 and 4.7 ± 0.07 L/hr per 1.73 m 2, respectively).
 
 Effect of Race
 
