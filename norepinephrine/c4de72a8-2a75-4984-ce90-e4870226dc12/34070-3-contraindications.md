@@ -1,7 +1,7 @@
 # CONTRAINDICATIONS
 
 LEVOPHED should not be given to patients who are hypotensive from blood volume deficits except as an emergency measure to maintain coronary and cerebral artery perfusion until blood volume replacement therapy can be completed.
-If LEVOPHED is continuously administered to maintain blood pressure in the absence of blood volume replacement, the following may occur: severe peripheral and visceral vasoconstriction, decreased renal perfusion and urine output, poor systemic blood flow despite “normal” blood pressure, tissue hypoxia, and lactate acidosis.
+If LEVOPHED is continuously administered to maintain blood pressure in the absence of blood volume replacement, the following may occur: severe peripheral and visceral vasoconstriction, decreased renal perfusion and urine output, poor systemic blood flow despite "normal" blood pressure, tissue hypoxia, and lactate acidosis.
 
 LEVOPHED should also not be given to patients with mesenteric or peripheral vascular thrombosis (because of the risk of increasing ischemia and extending the area of infarction) unless, in the opinion of the attending physician, the administration of LEVOPHED is necessary as a life-saving procedure.
 
