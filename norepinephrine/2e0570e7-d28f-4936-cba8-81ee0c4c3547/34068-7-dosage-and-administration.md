@@ -38,7 +38,7 @@ In some of the reported cases of vascular collapse due to acute myocardial infar
 Adjunctive Treatment in Cardiac Arrest
 
 Infusions of LEVOPHED are usually administered intravenously during cardiac resuscitation to restore and maintain an adequate blood pressure after an effective heartbeat and ventilation have been established by other means.
-[LEVOPHED’s powerful beta-adrenergic stimulating action is also thought to increase the strength and effectiveness of systolic contractions once they occur.]
+[LEVOPHED's powerful beta-adrenergic stimulating action is also thought to increase the strength and effectiveness of systolic contractions once they occur.]
 
 Average Dosage: To maintain systemic blood pressure during the management of cardiac arrest, LEVOPHED is used in the same manner as described under Restoration of Blood Pressure in Acute Hypotensive States.
 
