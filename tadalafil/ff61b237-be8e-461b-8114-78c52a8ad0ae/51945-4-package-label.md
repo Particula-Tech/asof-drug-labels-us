@@ -14,7 +14,7 @@ tadalafil tablets
 
 20 mg
 
-Lung Biotechnology
+United Therapeutics Corporation
 
 Lilly
 
