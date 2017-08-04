@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in other sections of the labeling
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - Known hypersensitivity to amphetamine products or other ingredients of VYVANSE [see Contraindications (4)]
 - Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
@@ -22,14 +22,19 @@ The safety data in this section is based on data from the 4-week parallel-group 
 
 Adverse Reactions Associated with Discontinuation of Treatment in ADHD Clinical Trials
 
-In the controlled trial in patients ages 6 to 12 years (Study 1), 9% (20/218) of VYVANSE-treated patients discontinued due to adverse reactions compared to 1% (1/72) of placebo-treated patients.
-The most frequent adverse reactions leading to discontinuation (i.e. leading to discontinuation in at least 1% of VYVANSE-treated patients and at a rate at least twice that of placebo) were ECG voltage criteria for ventricular hypertrophy, tic, vomiting, psychomotor hyperactivity, insomnia, and rash [2 instances for each adverse reaction, i.e., 2/218 (1%)].
+In the controlled trial in patients ages 6 to 12 years (Study 1), 8% (18/218) of VYVANSE-treated patients discontinued due to adverse reactions compared to 0% (0/72) of placebo-treated patients.
+The most frequently reported adverse reactions (1% or more and twice rate of placebo) were ECG voltage criteria for ventricular hypertrophy, tic, vomiting, psychomotor hyperactivity, insomnia, decreased appetite and rash [2 instances for each adverse reaction, i.e., 2/218 (1%)].
+Less frequently reported adverse reactions (less than 1% or less than twice rate of placebo) included abdominal pain upper, dry mouth, weight decreased, dizziness, somnolence, logorrhea, chest pain, anger and hypertension.
 
-In the controlled trial in patients ages 13 to 17 years (Study 4), 4% (10/233) of VYVANSE-treated patients discontinued due to adverse reactions compared to 1% (1/77) of placebo-treated patients.
-The most frequent adverse reactions leading to discontinuation were irritability (3/233; 1%), decreased appetite (2/233; 1%), and insomnia (2/233; 1%).
+In the controlled trial in patients ages 13 to 17 years (Study 4), 3% (7/233) of VYVANSE-treated patients discontinued due to adverse reactions compared to 1% (1/77) of placebo-treated patients.
+The most frequently reported adverse reactions (1% or more and twice rate of placebo) were decreased appetite (2/233; 1%) and insomnia (2/233; 1%).
+Less frequently reported adverse reactions (less than 1% or less than twice rate of placebo) included irritability, dermatillomania, mood swings, and dyspnea.
 
 In the controlled adult trial (Study 7), 6% (21/358) of VYVANSE-treated patients discontinued due to adverse reactions compared to 2% (1/62) of placebo-treated patients.
-The most frequent adverse reactions leading to discontinuation (i.e. leading to discontinuation in at least 1% of VYVANSE-treated patients and at a rate at least twice that of placebo) were insomnia (8/358; 2%), tachycardia (3/358; 1%), irritability (2/358; 1%), hypertension (4/358; 1%), headache (2/358; 1%), anxiety (2/358; 1%), and dyspnea (3/358; 1%).
+The most frequently reported adverse reactions (1% or more and twice rate of placebo) were insomnia (8/358; 2%), tachycardia (3/358; 1%), irritability (2/358; 1%), hypertension (4/358; 1%), headache (2/358; 1%), anxiety (2/358; 1%), and dyspnea (3/358; 1%).
+Less frequently reported adverse reactions (less than 1% or less than twice rate of placebo) included palpitations, diarrhea, nausea, decreased appetite, dizziness, agitation, depression, paranoia and restlessness.
+
+Adverse Reactions Occurring at an Incidence of ≥5% or More Among VYVANSE Treated Patients with ADHD in Clinical Trials
 
 The most common adverse reactions (incidence ≥5% and at a rate at least twice placebo) reported in children, adolescents, and/or adults were anorexia, anxiety, decreased appetite, decreased weight, diarrhea, dizziness, dry mouth, irritability, insomnia, nausea, upper abdominal pain, and vomiting.
 
@@ -42,7 +47,7 @@ Table 1 Adverse Reactions Reported by 2% or More of Children (Ages 6 to 12 Years
 |  | VYVANSE (n=218) | Placebo (n=72) |
 | --- | --- | --- |
 | Decreased Appetite | 39% | 4% |
-| Insomnia | 23% | 3% |
+| Insomnia | 22% | 3% |
 | Abdominal Pain Upper | 12% | 6% |
 | Irritability | 10% | 0% |
 | Vomiting | 9% | 4% |
@@ -55,6 +60,7 @@ Table 1 Adverse Reactions Reported by 2% or More of Children (Ages 6 to 12 Years
 | Pyrexia | 2% | 1% |
 | Somnolence | 2% | 1% |
 | Tic | 2% | 0% |
+| Anorexia | 2% | 0% |
 
 Table 2 Adverse Reactions Reported by 2% or More of Adolescent (Ages 13 to 17 Years) Patients with ADHD Taking VYVANSE and at least Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial (Study 4)
 
@@ -64,6 +70,9 @@ Table 2 Adverse Reactions Reported by 2% or More of Adolescent (Ages 13 to 17 Ye
 | Insomnia | 13% | 4% |
 | Weight Decreased | 9% | 0% |
 | Dry Mouth | 4% | 1% |
+| Palpitations | 2% | 1% |
+| Anorexia | 2% | 0% |
+| Tremor | 2% | 0% |
 
 Table 3 Adverse Reactions Reported by 2% or More of Adult Patients with ADHD Taking VYVANSE and at least Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial (Study 7)
 
@@ -85,6 +94,7 @@ Table 3 Adverse Reactions Reported by 2% or More of Adult Patients with ADHD Tak
 | Dyspnea | 2% | 0% |
 | Increased Heart Rate | 2% | 0% |
 | Tremor | 2% | 0% |
+| Palpitations | 2% | 0% |
 
 In addition, in the adult population erectile dysfunction was observed in 2.6% of males on VYVANSE and 0% on placebo; decreased libido was observed in 1.4% of subjects on VYVANSE and 0% on placebo.
 
@@ -112,6 +122,7 @@ Adverse Reactions Associated with Discontinuation of Treatment in BED Clinical T
 
 In controlled trials of patients ages 18 to 55 years, 5.1% (19/373) of VYVANSE-treated patients discontinued due to adverse reactions compared to 2.4% (9/372) of placebo-treated patients.
 No single adverse reaction led to discontinuation in 1% or more of VYVANSE-treated patients.
+Less commonly reported adverse reactions (less than 1% or less than twice rate of placebo) included increased heart rate, headache, abdominal pain upper, dyspnea, rash, insomnia, irritability, feeling jittery and anxiety.
 
 The most common adverse reactions (incidence ≥5% and at a rate at least twice placebo) reported in adults were dry mouth, insomnia, decreased appetite, increased heart rate, constipation, feeling jittery, and anxiety.
 
@@ -124,7 +135,7 @@ Table 4 Adverse Reactions Reported by 2% or More of Adult Patients with BED Taki
 | Dry Mouth | 36% | 7% |
 | InsomniaIncludes all preferred terms containing the word "insomnia." | 20% | 8% |
 | Decreased Appetite | 8% | 2% |
-| Increased Heart RateIncludes the preferred terms heart rate increased and tachycardia. | 7% | 1% |
+| Increased Heart RateIncludes the preferred terms "heart rate increased" and "tachycardia." | 7% | 1% |
 | Feeling Jittery | 6% | 1% |
 | Constipation | 6% | 1% |
 | Anxiety | 5% | 1% |
@@ -146,4 +157,4 @@ Table 4 Adverse Reactions Reported by 2% or More of Adult Patients with BED Taki
 
 The following adverse reactions have been identified during post approval use of VYVANSE.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These events are as follows: palpitations, cardiomyopathy, mydriasis, diplopia, difficulties with visual accommodation, blurred vision, eosinophilic hepatitis, anaphylactic reaction, hypersensitivity, dyskinesia, dysgeusia, tics, bruxism, depression, dermatillomania, alopecia, aggression, Stevens-Johnson Syndrome, angioedema, urticaria, seizures, libido changes, frequent or prolonged erections, constipation, and rhabdomyolysis.
+These events are as follows: cardiomyopathy, mydriasis, diplopia, difficulties with visual accommodation, blurred vision, eosinophilic hepatitis, anaphylactic reaction, hypersensitivity, dyskinesia, dysgeusia, tics, bruxism, depression, dermatillomania, alopecia, aggression, Stevens-Johnson Syndrome, chest pain, angioedema, urticaria, seizures, libido changes, frequent or prolonged erections, constipation, and rhabdomyolysis.

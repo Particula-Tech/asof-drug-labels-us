@@ -14,12 +14,12 @@ Information for VYVANSE capsules:
 
 Information for VYVANSE chewable tablets:
 
-- VYVANSE chewable tablets 10mg: White to off-white round shaped tablet debossed with '10' on one side and 'S489' on the other, bottles of 100, NDC 59417-115-01
-- VYVANSE chewable tablets 20mg: White to off-white hexagonal shaped tablet debossed with '20' on one side and 'S489' on the other, bottles of 100, NDC 59417-116-01
-- VYVANSE chewable tablets 30mg: White to off-white arc triangular shaped tablet debossed with '30' on one side and 'S489' on the other, bottles of 100, NDC 59417-117-01
-- VYVANSE chewable tablets 40mg: White to off-white capsule shaped tablet debossed with '40' on one side and 'S489' on the other, bottles of 100, NDC 59417-118-01
-- VYVANSE chewable tablets 50mg: White to off-white arc square shaped tablet debossed with '50' on one side and 'S489' on the other, bottles of 100, NDC 59417-119-01
-- VYVANSE chewable tablets 60mg: White to off-white arc diamond shaped tablet debossed with '60' on one side and 'S489' on the other, bottles of 100, NDC 59417-120-01
+- VYVANSE chewable tablets 10 mg: White to off-white round shaped tablet debossed with '10' on one side and 'S489' on the other, bottles of 100, NDC 59417-115-01
+- VYVANSE chewable tablets 20 mg: White to off-white hexagonal shaped tablet debossed with '20' on one side and 'S489' on the other, bottles of 100, NDC 59417-116-01
+- VYVANSE chewable tablets 30 mg: White to off-white arc triangular shaped tablet debossed with '30' on one side and 'S489' on the other, bottles of 100, NDC 59417-117-01
+- VYVANSE chewable tablets 40 mg: White to off-white capsule shaped tablet debossed with '40' on one side and 'S489' on the other, bottles of 100, NDC 59417-118-01
+- VYVANSE chewable tablets 50 mg: White to off-white arc square shaped tablet debossed with '50' on one side and 'S489' on the other, bottles of 100, NDC 59417-119-01
+- VYVANSE chewable tablets 60 mg: White to off-white arc diamond shaped tablet debossed with '60' on one side and 'S489' on the other, bottles of 100, NDC 59417-120-01
 
 ## 16.2 Storage and Handling
 
