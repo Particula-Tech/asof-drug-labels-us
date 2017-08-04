@@ -6,11 +6,11 @@ Risk Summary
 
 Based on data from animal reproduction studies, retinoid pharmacology, and the potential for systemic absorption, AVAGE Cream may cause fetal harm when administered to a pregnant female and is contraindicated during pregnancy.
 Safety in pregnant females has not been established.
-The potential risk to the fetus outweighs the potential benefit to the mother from AVAGE Cream during pregnancy; therefore, AVAGE Cream should be discontinued as soon as pregnancy is recognized [see Contraindications (4.1), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
+The potential risk to the fetus outweighs the potential benefit to the mother from AVAGE Cream during pregnancy; therefore, AVAGE Cream should be discontinued as soon as pregnancy is recognized [see Contraindications (4), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
 Limited case reports of pregnancy in females enrolled in clinical trials for AVAGE Cream have not established a clear association with tazarotene and major birth defects or miscarriage risk.
 Because the exact timing and extent of exposure in relation to the gestational age are not certain, the significance of these findings is unknown.
 
-In animal reproduction studies with pregnant rats, tazarotene dosed topically during organogenesis at 2times the maximum systemic exposure in subjects treated with the maximum recommended human dose (MRHD) of tazarotene cream, 0.1% resulted in reduced fetal body weights and reduced skeletal ossification.
+In animal reproduction studies with pregnant rats, tazarotene dosed topically during organogenesis at 2 times the maximum systemic exposure in subjects treated with the maximum recommended human dose (MRHD) of tazarotene cream, 0.1% resulted in reduced fetal body weights and reduced skeletal ossification.
 In animal reproduction studies with pregnant rabbits dosed topically with tazarotene gel at 26 times the maximum systemic exposure in subjects treated with the MRHD of tazarotene cream, 0.1%, there was a single incident of known retinoid malformations, including spina bifida, hydrocephaly, and heart anomalies.
 
 In animal reproduction studies with pregnant rats and rabbits, tazarotene dosed orally during organogenesis at 2 and 52 times, respectively, the maximum systemic exposure in subjects treated with the MRHD of tazarotene cream, 0.1% resulted in malformations, fetal toxicity, developmental delays, and/or behavioral delays.
@@ -58,7 +58,7 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of tazarotene cream have not been established in patients under the age of 17 years with facial fine wrinkling, facial mottled hyper- and hypopigmentation, and benign facial lentigines.
+The safety and efficacy of AVAGE Cream have not been established in patients under the age of 17 years with facial fine wrinkling, facial mottled hyper- and hypopigmentation, and benign facial lentigines.
 
 ## 8.5 Geriatric Use
 
