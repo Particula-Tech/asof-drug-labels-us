@@ -14,14 +14,14 @@ If unnecessary fluid expansion is of concern, use of a more concentrated solutio
 
 1. 1.When appropriate, increase blood volume with whole blood, plasma, or plasma expanders until central venous pressure is 10 to 15 cm H2O or pulmonary wedge pressure is 14 to 18 mm Hg.
 2. 2.Begin infusion of Dopamine Hydrochloride and 5% Dextrose Injection, USP at doses of 2 to 5 mcg/kg/min in patients who are likely to respond to modest increments of heart force and renal perfusion.
-3. In more seriously ill patients, begin administration of Dopamine Hydrochloride and 5% Dextrose Injection, USP at rates of 5 mcg/kg/min and increase gradually using 5 to 10 mcg/kg/min increments up to a rate of 20 to 50 mcg/kg/min as needed.
+   In more seriously ill patients, begin administration of Dopamine Hydrochloride and 5% Dextrose Injection, USP at rates of 5 mcg/kg/min and increase gradually using 5 to 10 mcg/kg/min increments up to a rate of 20 to 50 mcg/kg/min as needed.
    If rates in excess of 50 mcg/kg/min are required, it is suggested that urine output be checked frequently.
    Should urine flow begin to decrease in the absence of hypotension, reduction of dopamine hydrochloride dosage should be considered.
    Reports have shown that more than 50% of the patients were satisfactorily maintained on doses of dopamine hydrochloride administered at rates of less than 20 mcg/kg/min.
    In patients who do not respond to these doses with adequate arterial pressures or urine flow, additional increments of dopamine hydrochloride may be given in an effort to produce an appropriate arterial pressure and central perfusion.
-4. 3.Treatment of all patients requires constant evaluation of therapy in terms of blood volume, augmentation of myocardial contractility and distribution of peripheral perfusion.
+3. 3.Treatment of all patients requires constant evaluation of therapy in terms of blood volume, augmentation of myocardial contractility and distribution of peripheral perfusion.
    Dosage of dopamine hydrochloride should be adjusted according to the patient’s response, with particular attention to diminution of established urine flow rate, increasing tachycardia or development of new dysrhythmias as indices for decreasing or temporarily suspending the dosage.
-5. 4.As with all potent intravenously administered drugs, care should be taken to control the rate of administration so as to avoid inadvertent administration of a bolus of drug.
+4. 4.As with all potent intravenously administered drugs, care should be taken to control the rate of administration so as to avoid inadvertent administration of a bolus of drug.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 

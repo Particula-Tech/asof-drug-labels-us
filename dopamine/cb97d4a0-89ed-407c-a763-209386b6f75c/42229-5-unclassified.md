@@ -2,6 +2,8 @@
 
 The overwrap is a moisture and oxygen barrier.
 Do not remove unit from overwrap until ready for use.
+A sulfur dioxide odor may occur upon removal of the product from the overwrap container.
+The sulfur dioxide odor from Dopamine Injection does not pose risk to the clinician or patient using the product.
 
 ## To open
 
@@ -29,7 +31,7 @@ Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
 Baxter and Viaflex are trademarks of Baxter International Inc.
 
-07-19-72-994
+07-19-77-228
 
 Rev.
-April 2014
+July 2017

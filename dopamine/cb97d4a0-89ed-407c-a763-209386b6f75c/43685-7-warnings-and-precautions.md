@@ -1,7 +1,7 @@
 # WARNINGS
 
 Patients who have been treated with monoamine oxidase (MAO) inhibitors prior to the administration of dopamine hydrochloride will require substantially reduced dosage.
-See DRUG INTERACTIONS, below.
+See Drug Interactions, below.
 
 Evidence is inadequate for fully defining proper dosage and limitations for use in children.
 
@@ -22,7 +22,7 @@ Excess administration of potassium-free solutions may result in significant hypo
 ## General
 
 Avoid bolus administration of dopamine hydrochloride.
-See DOSAGE and ADMINISTRATION.
+See DOSAGE AND ADMINISTRATION.
 
 ## Avoid Hypovolemia
 
@@ -117,8 +117,6 @@ No clear evidence of clastogenic potential was reported in the in vivo mouse or 
 ## Pregnancy
 
 ### Teratogenic Effects
-
-#### Pregnancy Category C
 
 Teratogenicity studies in rats and rabbits at dopamine HCl dosages up to 6 mg/kg/day intravenously during organogenesis produced no detectable teratogenic or embryotoxic effects, although maternal toxicity consisting of mortalities, decreased body weight gain, and pharmacotoxic signs were observed in rats.
 In a published study, dopamine HCl administered at 10 mg/kg subcutaneously for 30 days, markedly prolonged metestrus and increased mean pituitary and ovary weights in female rats.
