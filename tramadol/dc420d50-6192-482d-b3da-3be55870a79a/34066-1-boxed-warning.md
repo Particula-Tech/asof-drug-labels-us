@@ -1,4 +1,4 @@
-# WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; ULTRA-RAPID METABOLISM OF TRAMADOL AND LIFE-THREATENING RESPIRATORY DEPRESSION IN CHILDREN; NEONATAL OPIOID WITHDRAWAL SYNDROME, INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
+# WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; ULTRA-RAPID METABOLISM OF TRAMADOL AND OTHER RISK FACTORS FOR LIFE-THREATENING RESPIRATORY DEPRESSION IN CHILDREN; NEONATAL OPIOID WITHDRAWAL SYNDROME, INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
 Addiction, Abuse, and Misuse
 
@@ -14,12 +14,12 @@ Accidental Ingestion
 
 Accidental ingestion of tramadol hydrochloride extended-release tablets, especially by children, can result in a fatal overdose of tramadol hydrochloride extended-release tablets [see WARNINGS].
 
-Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-Threatening Respiratory Depression in Children
+ULTRA-RAPID METABOLISM OF TRAMADOL AND OTHER RISK FACTORS FOR LIFE-THREATENING RESPIRATORY DEPRESSION IN CHILDREN
 
 Life-threatening respiratory depression and death have occurred in children who received tramadol.
-Some of the reported cases followed tonsillectomy and/or adenoidectomy; in one case, the child had evidence of being an ultra-rapid metabolizer of tramadol due to a CYP2D6 polymorphism.
-Tramadol hydrochloride extended-release tablets are contraindicated in children younger than twelve years of age and in children of any age who are undergoing tonsillectomy and/or adenoidectomy.
-Avoid the use of tramadol hydrochloride extended-release tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol [see WARNINGS and PRECAUTIONS].
+Some of the reported cases followed tonsillectomy and/or adenoidectomy; in at least one case, the child had evidence of being an ultra-rapid metabolizer of tramadol due to a CYP2D6 polymorphism [see WARNINGS].
+Tramadol hydrochloride extended-release tablets are contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see CONTRAINDICATIONS].
+Avoid the use of tramadol hydrochloride extended-release tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol [see WARNINGS].
 
 Neonatal Opioid Withdrawal Syndrome
 
@@ -28,7 +28,7 @@ If opioid use is required for a prolonged period in a pregnant woman, advise the
 
 Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
 
-The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with tramadol are complex.
+The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with tramadol hydrochloride are complex.
 Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with Tramadol Extended-Release Tablets requires careful consideration of the effects on the parent drug, tramadol, and the active metabolite, M1 [see WARNINGS, PRECAUTIONS; Drug Interactions].
 
 Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants

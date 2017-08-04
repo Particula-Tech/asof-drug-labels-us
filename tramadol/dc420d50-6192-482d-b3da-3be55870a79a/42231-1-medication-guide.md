@@ -23,8 +23,8 @@ Important information about tramadol hydrochloride extended-release tablets:
 
 Important Information Guiding Use in Pediatric Patients:
 
-- Do not give tramadol hydrochloride extended-release tablets to a child younger than 12.
-- Do not give tramadol hydrochloride extended-release tablets to a child younger than 18 to treat pain after surgery to remove the tonsils and/or adenoids.
+- Do not give tramadol hydrochloride extended-release tablets to a child younger than 12 years of age.
+- Do not give tramadol hydrochloride extended-release tablets to a child younger than 18 years of age after surgery to remove the tonsils and/or adenoids.
 - Avoid giving tramadol hydrochloride extended-release tablets to children between 12 to 18 years of age who have risk factors for breathing problems such as obstructive sleep apnea, obesity, or underlying lung problems.
 
 Do not take tramadol hydrochloride extended-release tablets if you have:
@@ -44,7 +44,8 @@ Tell your healthcare provider if you are:
 - pregnant or planning to become pregnant.
   Prolonged use of tramadol hydrochloride extended-release tablets during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
 - breastfeeding.
-  Not recommended; it may harm your baby.
+  Not recommended.
+  It may harm your baby.
 - taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
   Taking tramadol hydrochloride extended-release tablets with certain other medicines can cause serious side effects that could lead to death.
 
@@ -71,7 +72,7 @@ While taking tramadol hydrochloride extended-release tablets DO NOT:
 
 The possible side effects of tramadol hydrochloride extended-release tablets:
 
-- constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, abdominal pain.
+- constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, abdominal pain, seizure.
   Call your healthcare provider if you have any of these symptoms and they are severe.
 
 Get emergency medical help if you have:
@@ -100,6 +101,6 @@ Halol-Baroda Highway,
 Halol-389 350, Gujarat, India.
 
 ISS.
-05/2017
+08/2017
 
-PJPI0263E
+PJPI0263F

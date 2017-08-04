@@ -1,5 +1,21 @@
 # ADVERSE REACTIONS
 
+The following serious adverse reactions are described, or described in greater detail, in other sections:
+
+- Addiction, Abuse, and Misuse (see WARNINGS)
+- Life-Threatening Respiratory Depression (see WARNINGS)
+- Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-Threatening Respiratory Depression in Children (see WARNINGS)
+- Neonatal Opioid Withdrawal Syndrome (see WARNINGS)
+- Interactions with Benzodiazepines or Other CNS Depressants (see WARNINGS)
+- Serotonin Syndrome (see WARNINGS)
+- Seizures (see WARNINGS)
+- Suicide (see WARNINGS)
+- Adrenal Insufficiency (see WARNINGS)
+- Severe Hypotension (see WARNINGS)
+- Gastrointestinal Adverse Reactions (see WARNINGS)
+- Hypersensitivity Reactions (see WARNINGS)
+- Withdrawal (see WARNINGS)
+
 ## Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
