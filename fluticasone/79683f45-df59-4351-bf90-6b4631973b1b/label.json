@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA208798"
+  ],
+  "inn": "fluticasone",
+  "labeler": "Teva Respiratory, LLC",
+  "package_ndcs": [
+    "59310-705-06",
+    "59310-705-08",
+    "59310-711-06",
+    "59310-711-08",
+    "59310-722-06",
+    "59310-722-08"
+  ],
+  "products": [
+    {
+      "form": "POWDER, METERED",
+      "generic": "fluticasone propionate",
+      "name": "ArmonAir RespiClick"
+    }
+  ],
+  "setid": "79683f45-df59-4351-bf90-6b4631973b1b",
+  "source": "dailymed"
+}
