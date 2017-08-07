@@ -173,7 +173,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for: Vertex Pharmaceuticals Incorporated 50 Northern Avenue Boston, MA 02210
 
-Approved May 2017
+Approved July 2017
 
 KALYDECO, VERTEX, and the VERTEX triangle logo are registered trademarks of Vertex Pharmaceuticals Incorporated.
-All other trademarks referenced herein are the property of their respective owners. ©2017 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-09
+All other trademarks referenced herein are the property of their respective owners. ©2017 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-10

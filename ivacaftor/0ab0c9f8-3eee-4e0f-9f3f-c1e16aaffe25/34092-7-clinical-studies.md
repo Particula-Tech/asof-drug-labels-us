@@ -111,6 +111,7 @@ Other efficacy variables that were analyzed included absolute change in sweat ch
 The overall treatment difference for the absolute change from baseline in BMI at Week 24 was 0.3 kg/m2 and the calculated hazard ratio for time to first pulmonary exacerbation was 0.93, which were not statistically significant.
 
 Statistically significant improvements in clinical efficacy (FEV1, CFQ-R respiratory domain) were seen in several subgroup analyses, and decreases in sweat chloride were observed in all subgroups.
+The mean baseline sweat chloride for all patients was 70 mmol/L.
 Subgroups analyzed included those based on age, lung function, and poly-T status (Table 6).
 
 Table 6: Effect of KALYDECO on Overall Population (Percent Predicted FEV1, CFQ-R Respiratory Domain Score, and Sweat Chloride) and in Relevant Subgroups Through 24 Weeks
@@ -133,7 +134,54 @@ Table 6: Effect of KALYDECO on Overall Population (Percent Predicted FEV1, CFQ-R
 | 70-90% | Placebo Kalydeco | 14 14 | 0.2 2.8 | 2.6 (-2.3, 7.5) | 13 14 | -3.6 5.2 | 8.8 (-2.6, 20.2) | 14 14 | -3.1 -23.0 | -20.0 (-26.9, -12.9) |
 | >90% | Placebo Kalydeco | 6 7 | 2.2 -2.1 | -4.3 (-9.9, 1.3) | 6 6 | -2.5 -3.2 | -0.7 (-10.4, 9.0) | 6 6 | 1.0 -25.9 | -26.8 (-39.5, -14.1) |
 
-## 14.4 Trial in Patients Homozygous for the F508del Mutation in the CFTR Gene
+## 14.4 Trial in Patients with CF Heterozygous for the F508del Mutation and a Second Mutation Predicted to be Responsive to ivacaftor
+
+The efficacy and safety of KALYDECO and an ivacaftor-containing combination product in 246 patients with CF was evaluated in a randomized, double-blind, placebo-controlled, 2-period, 3-treatment, 8-week crossover design clinical trial (Trial 7).
+Mutations predicted to be responsive to ivacaftor were selected for the study based on the clinical phenotype (pancreatic sufficiency), biomarker data (sweat chloride), and in vitro responsiveness to ivacaftor.
+
+Eligible patients were heterozygous for the F508del mutation with a second mutation predicted to be responsive to ivacaftor.
+Of the 244 patients included in the efficacy analysis, who were randomized and dosed, 146 patients had a splice mutation and 98 patients had a missense mutation, as the second allele.
+156 patients received KALYDECO and 161 patients received placebo.
+Patients were aged 12 years and older (mean age 35 years [range 12-72]) and had a percent predicted FEV1 at screening between 40-90 [mean ppFEV1 at study baseline 62 (range: 35 to 94)].
+Patients with evidence of colonization with organisms associated with a more rapid decline in pulmonary status (e.g.
+Burkholderia cenocepacia, Burkholderia dolosa, or Mycobacterium abscessus) and those with abnormal liver function at screening were excluded.
+Abnormal liver function was defined as 2 or more liver function tests (ALT, AST, ALP, GGT) ≥3 times the upper limit of normal or total bilirubin ≥2 times the upper limit of normal, or a single increase in ALT/AST ≥5 times the upper limit of normal.
+
+The primary efficacy endpoint was the mean absolute change from study baseline in percent predicted FEV1 averaged at Weeks 4 and 8 of treatment.
+The key secondary efficacy endpoint was absolute change in CFQ-R respiratory domain score from study baseline averaged at Weeks 4 and 8 of treatment.
+For the overall population, treatment with KALYDECO compared to placebo resulted in significant improvement in ppFEV1 [4.7 percent points from study baseline to average of Week 4 and Week 8 (P<0.0001)] and CFQ-R respiratory domain score [9.7 points from study baseline to average of Week 4 and Week 8 (P<0.0001)].
+Statistically significant improvements compared to placebo were also observed in the subgroup of patients with splice mutations and missense mutations (Table 7).
+
+Table 7: Effect of KALYDECO for Efficacy Variables
+
+| Mutation (n) | Absolute Change in percent predicted FEV1Average of Week 4 and 8 valuesAbsolute change in ppFEV1 by individual mutations is an ad hoc analysis. | Absolute Change in CFQ-R Respiratory Domain Score (Points)Absolute change in CFQ-R respiratory domain score and absolute change in sweat chloride by mutation subgroups and by individual mutations are ad hoc analyses. | Absolute Change in Sweat Chloride (mmol/L) |
+| --- | --- | --- | --- |
+| Splice mutations (n=94 for IVA and n=97 for PBO) Results shown as difference in mean (95% CI) change from study baseline for KALYDECO vs. placebo-treated patients: |  |  |  |
+|  | 5.4 (4.1, 6.8) | 8.5 (5.3, 11.7) | -2.4 (-5.0, 0.3) |
+| By individual splice mutation (n). Results shown as mean (minimum, maximum) for change from study baseline for KALYDECO-treated patients |  |  |  |
+| 2789+5G→A (28) | 5.1 (-7.1, 17.0) | 8.6 (-5.6, 27.8) | 0.4 (-7.5, 8.8) |
+| 3272-26A→G (23) | 3.5 (-9.1, 16.0) | 8.0 (-11.1, 27.8) | -2.3 (-25.0, 11.8) |
+| 3849+10kBc→T (40) | 5.1 (-6.8, 16.2) | 7.5 (-30.6, 55.6) | -4.6 (-80.5, 23.0) |
+| 711+3A→G (2) | 9.2 (8.9, 9.6) | -8.3 (-13.9, -2.8) | -9.9 (-13.5, -6.3) |
+| E831X (1) | 7.1 (7.1, 7.1) | 0.0 (0.0, 0.0) | -7.8 (-7.8, -7.8) |
+| Missense mutations (n=62 for IVA and n=63 for PBO) Results shown as difference in mean (95% CI) change from study baseline for KALYDECO vs. placebo-treated patients: |  |  |  |
+|  | 3.6 (1.9, 5.2) | 11.5 (7.5, 15.4) | -7.8 (-11.2, -4.5) |
+| By individual missense mutation (n). Results shown as mean (minimum, maximum) for change from study baseline for KALYDECO-treated patients |  |  |  |
+| D579G (2) | 13.3 (12.4, 14.1) | 15.3 (-2.8, 33.3) | -30.8 (-36.0, -25.5) |
+| D1152H (15) | 2.4 (-5.0, 10.2) | 13.7 (-16.7, 50.0) | -4.8 (-22.0, 3.0) |
+| A455E (14) | 3.7 (-6.6, 19.7) | 6.8 (-13.9, 33.3) | 7.5 (-16.8, 16.0) |
+| L206W (2) | 4.2 (2.5, 5.9) | 12.5 (-5.6, 30.6) | 3.9 (-8.3, 16.0) |
+| P67L (12) | 4.3 (-2.5, 25.7) | 10.8 (-12.5, 36.1) | -10.5 (-34.8, 9.8) |
+| R1070W (1) | 2.9 (2.9, 2.9) | 44.4 (44.4, 44.4) | 0.3 (0.3, 0.3) |
+| R117C (1) | 3.5 (3.5, 3.5) | 22.2 (22.2, 22.2) | -36.0 (-36.0, -36.0) |
+| R347H (3) | 2.5 (-0.6, 6.9) | 6.5 (5.6, 8.3) | -19.2 (-25.8, -7.0) |
+| R352Q (2) | 4.4 (3.5, 5.3) | 9.7 (8.3, 11.1) | -21.9 (-45.5, 1.8) |
+| S945L (9) | 8.8 (-0.2, 20.5) | 10.6 (-25.0, 27.8) | -30.8 (-50.8, -17.3) |
+| S977F (1) | 4.3 (4.3, 4.3) | -2.8 (-2.8, -2.8) | -19.5 (-19.5, -19.5) |
+
+In an analysis of BMI at Week 8, an exploratory end-point, patients treated with KALYDECO had a mean improvement of 0.28 kg/m2 [95% CI (0.14, 0.43)], 0.24 kg/m2 [95% CI (0.06, 0.43)], and 0.35 kg/m2 [95% CI (0.12, 0.58)] versus placebo for the overall, splice, and missense mutation populations of patients, respectively.
+
+## 14.5 Trial in Patients Homozygous for the F508del Mutation in the CFTR Gene
 
 Trial 3 was a 16-week, randomized, double-blind, placebo-controlled, parallel-group trial in 140 patients with CF age 12 years and older who were homozygous for the F508del mutation in the CFTR gene and who had FEV1 ≥40% predicted.
 Patients were randomized 4:1 to receive KALYDECO 150 mg (n=112) every 12 hours or placebo (n=28) in addition to their prescribed CF therapies.
@@ -142,12 +190,12 @@ As in Trials 1 and 2, patients who had persistent Burkholderia cenocepacia, Burk
 The use of inhaled hypertonic saline was not permitted.
 
 The primary endpoint was improvement in lung function as determined by the mean absolute change from baseline through Week 16 in percent predicted FEV1.
-The treatment difference from placebo for the mean absolute change in percent predicted FEV1 through Week 16 in patients with CF homozygous for the F508del mutation in the CFTR gene was 1.72 percentage points (1.5% and -0.2% for patients in the KALYDECO and placebo-treated groups, respectively) and did not reach statistical significance (Table 7).
+The treatment difference from placebo for the mean absolute change in percent predicted FEV1 through Week 16 in patients with CF homozygous for the F508del mutation in the CFTR gene was 1.72 percentage points (1.5% and -0.2% for patients in the KALYDECO and placebo-treated groups, respectively) and did not reach statistical significance (Table 8).
 
-Other efficacy variables that were analyzed included absolute change in sweat chloride from baseline through Week 16, change in cystic fibrosis respiratory symptoms through Week 16 as assessed by the CFQ-R respiratory domain score (Table 7), change in weight through Week 16, and rate of pulmonary exacerbation.
+Other efficacy variables that were analyzed included absolute change in sweat chloride from baseline through Week 16, change in cystic fibrosis respiratory symptoms through Week 16 as assessed by the CFQ-R respiratory domain score (Table 8), change in weight through Week 16, and rate of pulmonary exacerbation.
 The overall treatment difference for change from baseline in weight through Week 16 was -0.16 kg (95% CI -1.06, 0.74); the rate ratio for pulmonary exacerbation was 0.677 (95% CI 0.33, 1.37).
 
-Table 7: Effect of KALYDECO on Overall Population (Percent Predicted FEV1, CFQ-R Respiratory Domain Score, and Sweat Chloride) Through 16 Weeks
+Table 8: Effect of KALYDECO on Overall Population (Percent Predicted FEV1, CFQ-R Respiratory Domain Score, and Sweat Chloride) Through 16 Weeks
 
 | Subgroup Parameter | Study Drug | n | Mean | Treatment Difference (95% CI) | n | Mean | Treatment Difference (95% CI) | n | Mean | Treatment Difference (95% CI) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -4,7 +4,7 @@
 
 Risk Summary
 
-There are limited and incomplete human data from clinical trials and postmarketing reports on use of KALYDECO in pregnant women.
+There are limited and incomplete human data from clinical trials and post marketing reports on use of KALYDECO in pregnant women.
 In animal reproduction studies, oral administration of ivacaftor to pregnant rats and rabbits during organogenesis demonstrated no teratogenicity or adverse effects on fetal development at doses that produced maternal exposures up to approximately 5 (rats) and 11 (rabbits) times the exposure at the maximum recommended human dose (MRHD).
 No adverse developmental effects were observed after oral administration of ivacaftor to pregnant rats from organogenesis through lactation at doses that produced maternal exposures approximately 3 times the exposures at the MRHD, respectively (see Data).
 
@@ -36,18 +36,17 @@ Exposure (AUC0-24h) values for ivacaftor in milk were approximately 1.5 times hi
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of KALYDECO in patients 6 to 17 years of age with CF who have a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene have been demonstrated [see Adverse Reactions (6) and Clinical Studies (14)].
+KALYDECO is indicated for the treatment CF in pediatric patients age 2-17 years of age who have one mutation in the CFTR gene that is responsive to ivacaftor potentiation based on clinical and/or in vitro assay data [see Clinical Pharmacology (12.1) and Clinical Studies (14)].
 
-The safety and efficacy of KALYDECO in patients 6 to 17 years of age with CF who have an R117H mutation in the CFTR gene have been demonstrated [see Adverse Reactions (6) and Clinical Studies (14)].
+Clinical trials included the following CF patients:
 
-The efficacy of KALYDECO in children 2 to less than 6 years of age is extrapolated from efficacy in patients 6 years of age and older with support from population pharmacokinetic analyses showing similar drug exposure levels in adults and children 2 to less than 6 years of age [see Clinical Pharmacology (12.3)].
+- 6 to 17 years of age with a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, S549R, or R117H mutation in the CFTR gene [see Adverse Reactions (6) and Clinical Studies (14)].
+- 12 to 17 years of age who are heterozygous for the F508del mutation and a second mutation predicted to be responsive to ivacaftor [see Adverse Reactions (6) and Clinical Studies (14)].
 
-The safety of KALYDECO in children 2 to less than 6 years of age (mean age 3 years) is derived from a 24-week, open-label, clinical trial in 34 patients ages 2 to less than 6 years administered either 50 mg or 75 mg of ivacaftor granules twice daily (Trial 6).
-Eligible patients were those with the G551D, G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene.
-Of 34 patients enrolled, 32 had the G551D mutation and 2 had the S549N mutation.
+The efficacy of KALYDECO in patients 2 to less than 6 years was extrapolated from patients 6 years of age and older with support from population pharmacokinetic analyses showing similar drug exposure levels in adults and children 2 to less than 6 years of age [see Clinical Pharmacology (12.3)].
+Safety of KALYDECO in this population was derived from a 24 week, open label, clinical trial in 34 patients ages 2 to less than 6 years (mean age 3 years) administered either 50 mg or 75 mg of ivacaftor granules twice daily (Trial 6).
 The type and frequency of adverse reactions in this trial were similar to those in patients 6 years and older.
-Transaminase elevations were more common in patients who had abnormal transaminases at baseline.
-For patients with a history of transaminase elevations, more frequent monitoring of liver function tests should be considered [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
+Transaminase elevations were more common in patients who had abnormal transaminases at baseline [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 
 The safety and efficacy of KALYDECO in patients with CF younger than 2 years of age have not been studied.
 The use of KALYDECO in children under the age of 2 years is not recommended.

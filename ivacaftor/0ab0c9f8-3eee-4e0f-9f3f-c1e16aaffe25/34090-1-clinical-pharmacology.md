@@ -24,6 +24,7 @@ Figure 1: Net Change Over Baseline (% of Normal) in CFTR-Mediated Chloride Trans
 *Clinical data exist for these mutations [see Clinical Studies (14)]. #A46D, G85E, E92K, P205S, R334W,R347P, T338I, S492F, I507del, V520F, A559T, R560S, R560T, A561E, L927P, H1054D, G1061R, L1065P, R1066C, R1066H, R1066M, L1077P, H1085R, M1101K, W1282X, N1303K mutations in the CFTR gene do not meet the threshold of change in CFTR mediated chloride transport of at least 10% of normal over baseline.
 
 Note that splice mutations cannot be studied in this FRT assay and are not included in Figure 1.
+Evidence of clinical efficacy exists for non-canonical splice mutations 2789+5G→A, 3272-26A→G, 3849+10kbC→T, 711+3A→G and E831X and these are listed in Table 3 below [see also Clinical Studies (14.4)].
 The G970R mutation causes a splicing defect resulting in little-to-no CFTR protein at the cell surface that can be potentiated by ivacaftor [see Clinical Studies (14.2)].
 
 Ivacaftor also increased chloride transport in cultured human bronchial epithelial (HBE) cells derived from CF patients who carried F508del on one CFTR allele and either G551D or R117H-5T on the second CFTR allele.
@@ -32,28 +33,24 @@ Table 3 lists mutations that are responsive to ivacaftor based on 1) a positive 
 
 Table 3: List of CFTR Gene Mutations that Produce CFTR Protein and are Responsive to KALYDECO
 
-| E56K | G178R | S549R | K1060T | G1244E |
-| --- | --- | --- | --- | --- |
-| P67L | E193K | G551D | A1067T | S1251N |
-| R74W | L206W | G551S | G1069R | S1255P |
-| D110E | R347H | D579G | R1070Q | D1270N |
-| D110H | R352Q | S945L | R1070W | G1349D |
-| R117C | A455E | S977F | F1074L |  |
-| R117H | S549N | F1052V | D1152H |  |
+| E56K | G178R | S549R | S977F | F1074L | 2789+5G→A |
+| --- | --- | --- | --- | --- | --- |
+| P67L | E193K | G551D | F1052V | D1152H | 3272-26A→G |
+| R74W | L206W | G551S | K1060T | G1244E | 3849+10kbC→T |
+| D110E | R347H | D579G | A1067T | S1251N |  |
+| D110H | R352Q | 711+3A→G | G1069R | S1255P |  |
+| R117C | A455E | E831X | R1070Q | D1270N |  |
+| R117H | S549N | S945L | R1070W | G1349D |  |
 
 ## 12.2 Pharmacodynamics
 
 Sweat Chloride Evaluation
 
-Changes in sweat chloride response to KALYDECO were evaluated in six clinical trials.
-In two randomized, double-blind, placebo-controlled clinical trials in patients with a G551D mutation in the CFTR gene, one in patients 12 and older (Trial 1) and the other in patients 6-11 years of age (Trial 2), the treatment difference (between KALYDECO and placebo) in mean change in sweat chloride from baseline through Week 24 was -48 mmol/L (95% CI -51, -45) and -54 mmol/L (95% CI -62, -47), respectively.
-These changes persisted through 48 weeks.
-In a 16-week, randomized, double-blind, placebo-controlled, parallel-group clinical trial in patients with CF age 12 years and older who were homozygous for the F508del mutation in the CFTR gene (Trial 3), the treatment difference in mean change in sweat chloride from baseline through 8 weeks of treatment was -3 mmol/L (95% CI -6, -0.2).
+Changes in sweat chloride (a biomarker) response to KALYDECO were evaluated in seven clinical trials [see Clinical Studies (14)].
 In a two-part, randomized, double-blind, placebo-controlled, crossover clinical trial in patients with CF who had a G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene (Trial 4), the treatment difference in mean change in sweat chloride from baseline through 8 weeks of treatment was -49 mmol/L (95% CI -57, -41).
-In Trial 4, mean changes in sweat chloride for the mutations for which KALYDECO is indicated ranged from -51 to -8, whereas the range for individual subjects with the G970R mutation was -1 to -11 mmol/L.
-In a randomized, double-blind, placebo-controlled clinical trial in patients with CF who had an R117H mutation in the CFTR gene (Trial 5), the mean baseline sweat chloride for all patients was 70 mmol/L.
-The treatment difference in mean change in sweat chloride from baseline through 24 weeks of treatment was -24 mmol/L (95% CI -28, -20) [see Clinical Studies (14)].
+The mean changes in sweat chloride for the mutations for which KALYDECO is indicated ranged from -51 to -8, whereas the range for individual subjects with the G970R mutation was -1 to -11 mmol/L.
 In an open-label clinical trial in 34 patients ages 2 to less than 6 years administered either 50 mg or 75 mg of ivacaftor twice daily (Trial 6), the mean absolute change from baseline in sweat chloride through 24 weeks of treatment was -45 mmol/L (95% CI -53, -38) [see Use in Specific Populations (8.4)].
+In a randomized, double-blind, placebo controlled, 2-period, 3-treatment, 8-week crossover study in patients with CF age 12 years and older who were heterozygous for the F508del mutation and with a second CFTR mutation predicted to be responsive to ivacaftor (Trial 7), the treatment difference in mean change in sweat chloride from study baseline to the average of week 4 and week 8 of treatment for KALYDECO treated patients was -4.5 mmol/L (95% CI -6.7, -2.3).
 
 There was no direct correlation between decrease in sweat chloride levels and improvement in lung function (FEV1).
 
