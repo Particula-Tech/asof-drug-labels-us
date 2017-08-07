@@ -19,7 +19,7 @@ See accompanying prescribing information.
 
 Manufactured for Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005 Made in Canada
 
-DYR_BL50_100 L0701E 1_06/15
+DYR_BL50_100 L0701F 2_01/17
 
 # PRINCIPAL DISPLAY PANEL
 
@@ -42,4 +42,4 @@ See accompanying prescribing information.
 
 Manufactured for Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005 Made in Canada
 
-DYR_BL100_100 L0702F 1_06/15
+DYR_BL100_100 L0702G 2_01/17
