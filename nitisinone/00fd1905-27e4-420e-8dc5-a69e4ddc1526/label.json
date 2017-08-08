@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA209449"
+  ],
+  "inn": "nitisinone",
+  "labeler": "Cycle Pharmaceuticals Ltd.",
+  "package_ndcs": [
+    "70709-000-60",
+    "70709-002-60",
+    "70709-005-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "nitisinone",
+      "name": "NITYR"
+    }
+  ],
+  "setid": "00fd1905-27e4-420e-8dc5-a69e4ddc1526",
+  "source": "dailymed"
+}
