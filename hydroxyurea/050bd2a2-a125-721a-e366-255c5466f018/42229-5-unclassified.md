@@ -1,5 +1,7 @@
 Manufactured for: Bristol-Myers Squibb Company Princeton, New Jersey 08543 USA
 
-[Print code]
+Product of Italy
 
-Revised: June 2017
+1357782A1
+
+Revised: March 2016
