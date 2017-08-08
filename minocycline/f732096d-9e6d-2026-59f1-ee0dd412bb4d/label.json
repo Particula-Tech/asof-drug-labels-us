@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209269"
+  ],
+  "inn": "minocycline",
+  "labeler": "Dr. Reddys Laboratories Inc",
+  "package_ndcs": [
+    "43598-539-30",
+    "43598-540-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "minolira",
+      "name": "Minolira"
+    }
+  ],
+  "setid": "f732096d-9e6d-2026-59f1-ee0dd412bb4d",
+  "source": "dailymed"
+}
