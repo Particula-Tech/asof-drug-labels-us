@@ -41,11 +41,7 @@ Cevimeline exhibited no evidence of mutagenicity or clastogenicity in a battery 
 Cevimeline did not adversely affect the reproductive performance or fertility of male Sprague- Dawley rats when administered for 63 days prior to mating and throughout the period of mating at dosages up to 45 mg/kg/day (approximately 5 times the maximum recommended dose for a 60 kg human following normalization of the data on the basis of body surface area estimates).
 Females that were treated with cevimeline at dosages up to 45 mg/kg/day from 14 days prior to mating through day seven of gestation exhibited a statistically significantly smaller number of implantations than did control animals.
 
-Pregnancy:
-
-Pregnancy Category C.
-
-Cevimeline was associated with a reduction in the mean number of implantations when given to pregnant Sprague-Dawley rats from 14 days prior to mating through day seven of gestation at a dosage of 45 mg/kg/day (approximately 5 times the maximum recommended dose for a 60 kg human when compared on the basis of body surface area estimates).
+Pregnancy: Pregnancy Category C. Cevimeline was associated with a reduction in the mean number of implantations when given to pregnant Sprague-Dawley rats from 14 days prior to mating through day seven of gestation at a dosage of 45 mg/kg/day (approximately 5 times the maximum recommended dose for a 60 kg human when compared on the basis of body surface area estimates).
 This effect may have been secondary to maternal toxicity.
 There are no adequate and well-controlled studies in pregnant women.
 Cevimeline should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

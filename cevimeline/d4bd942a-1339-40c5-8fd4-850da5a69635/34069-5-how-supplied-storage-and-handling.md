@@ -11,8 +11,8 @@ Store at 25°C (77°F) excursions permitted to 15°-30°C (59°-86°F) [See USP 
 
 Rx only
 
-Distributed and Marketed by: PACK Pharmaceuticals, LLC Buffalo Grove, IL 60089
+Manufactured for: Rising Pharmaceuticals, Inc Allendale, NJ 07401
 
-Manufactured by: Mirror Pharmaceuticals LLC Fairfield, NJ 07004
+Manufactured by: Ingenus Pharmaceuticals NJ, LLC Fairfield, NJ 07004
 
-5516 Revised 3/14
+Revised 01/16 5516
