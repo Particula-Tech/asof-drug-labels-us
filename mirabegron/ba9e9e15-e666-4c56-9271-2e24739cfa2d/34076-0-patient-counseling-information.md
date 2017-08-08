@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Inform patients that MYRBETRIQ® may increase blood pressure.
 Periodic blood pressure determinations are recommended, especially in patients with hypertension.
@@ -18,8 +18,8 @@ Marketed and Distributed by: Astellas Pharma US, Inc. Northbrook, Illinois 60062
 
 MYRBETRIQ® is a registered trademark of Astellas Pharma Inc. All other trademarks or registered trademarks are the property of their respective owners.
 
-© 2016 Astellas Pharma US, Inc.
+© 2012 – 2017 Astellas Pharma US, Inc.
 
-Revised: August 2016
+Revised: July 2017
 
-16A006-MIR
+17A004-MIR

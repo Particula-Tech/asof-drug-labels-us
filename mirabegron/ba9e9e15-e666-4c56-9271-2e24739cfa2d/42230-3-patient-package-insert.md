@@ -129,6 +129,6 @@ Marketed and Distributed by: Astellas Pharma US, Inc. Northbrook, Illinois 60062
 
 MYRBETRIQ® is a registered trademark of Astellas Pharma Inc. All other trademarks or registered trademarks are the property of their respective owners.
 
-© 2016 Astellas Pharma US, Inc.
+© 2012 – 2017 Astellas Pharma US, Inc.
 
-Revised: August 2016 16A006-MIR
+Revised: July 2017 17A004-MIR

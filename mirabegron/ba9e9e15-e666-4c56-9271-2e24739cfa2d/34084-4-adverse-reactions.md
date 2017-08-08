@@ -81,6 +81,10 @@ Gastrointestinal disorders: nausea, constipation, diarrhea
 
 Nervous system disorders: dizziness, headache
 
+There have been postmarketing reports of confusion, hallucinations, insomnia and anxiety in patients taking mirabegron.
+The majority of these patients had pre-existing medical conditions or concomitant medications that may cause confusion, hallucinations, insomnia and anxiety.
+A causal relationship between mirabegron and these disorders has not been established.
+
 Skin and subcutaneous tissue: angioedema of the face, lips, tongue, and larynx, with or without respiratory symptoms [see Warnings and Precautions (5.3)]; pruritus
 
 Urologic: urinary retention [see Warnings and Precautions (5.2)]
