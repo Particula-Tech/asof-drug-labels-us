@@ -7,7 +7,7 @@ Arthrotec® 50
 Distributed by G.D.
 Searle LLC Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg/200 mcg Tablet Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
@@ -22,6 +22,8 @@ Arthrotec® 50 (50 mg diclofenac sodium/ 200 mcg misoprostol) tablets
 DOSAGE AND USE See accompanying prescribing information.
 
 60 Tablets Rx only
+
+20686828
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Carton
 
@@ -44,7 +46,7 @@ Arthrotec® 75
 Distributed by G.D.
 Searle LLC Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 75 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 75 mg/200 mcg Tablet Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
@@ -59,6 +61,8 @@ Arthrotec® 75 (75 mg diclofenac sodium/ 200 mcg misoprostol) tablets
 DOSAGE AND USE See accompanying prescribing information.
 
 60 Tablets Rx only
+
+20686830
 
 # PRINCIPAL DISPLAY PANEL - 75 mg Carton
 
