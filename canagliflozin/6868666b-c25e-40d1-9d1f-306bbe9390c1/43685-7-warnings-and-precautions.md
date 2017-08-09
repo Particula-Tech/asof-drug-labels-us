@@ -48,16 +48,34 @@ Hepatic Impairment: Patients with hepatic impairment have developed metformin-as
 This may be due to impaired lactate clearance resulting in higher lactate blood levels.
 Therefore, avoid use of INVOKAMET in patients with clinical or laboratory evidence of hepatic disease.
 
-## 5.2 Hypotension
+## 5.2 Lower Limb Amputation
+
+An approximately 2-fold increased risk of lower limb amputations associated with canagliflozin, a component of INVOKAMET, was observed in CANVAS and CANVAS-R, two large, randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
+In CANVAS, canagliflozin-treated patients and placebo-treated patients had 5.9 and 2.8 amputations per 1000 patients per year, respectively.
+In CANVAS-R, canagliflozin-treated patients and placebo-treated patients had 7.5 and 4.2 amputations per 1000 patients per year, respectively.
+The risk of lower limb amputations was observed at both the 100 mg and 300 mg once daily dosage regimens.
+The amputation data for CANVAS and CANVAS-R are shown in Tables 2 and 3, respectively [see Adverse Reactions (6.1)].
+
+Amputations of the toe and midfoot (99 out of 140 patients with amputations receiving canagliflozin in the two trials) were the most frequent; however, amputations involving the leg, below and above the knee, were also observed (41 out of 140 patients with amputations receiving canagliflozin in the two trials).
+Some patients had multiple amputations, some involving both lower limbs.
+
+Lower limb infections, gangrene, and diabetic foot ulcers were the most common precipitating medical events leading to the need for an amputation.
+The risk of amputation was highest in patients with a baseline history of prior amputation, peripheral vascular disease, and neuropathy.
+
+Before initiating INVOKAMET, consider factors in the patient history that may predispose to the need for amputations, such as a history of prior amputation, peripheral vascular disease, neuropathy and diabetic foot ulcers.
+Counsel patients about the importance of routine preventative foot care.
+Monitor patients receiving INVOKAMET for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue INVOKAMET if these complications occur.
+
+## 5.3 Hypotension
 
 Canagliflozin causes intravascular volume contraction.
 Symptomatic hypotension can occur after initiating INVOKAMET [see Adverse Reactions (6.1)] particularly in patients with eGFR less than 60 mL/min/1.73 m2, elderly patients, patients on either diuretics or medications that interfere with the renin-angiotensin-aldosterone system (e.g., angiotensin-converting-enzyme [ACE] inhibitors, angiotensin receptor blockers [ARBs]), or patients with low systolic blood pressure.
 Before initiating INVOKAMET in patients with one or more of these characteristics who were not already on canagliflozin, volume status should be assessed and corrected.
 Monitor for signs and symptoms after initiating therapy.
 
-## 5.3 Ketoacidosis
+## 5.4 Ketoacidosis
 
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co transporter 2 (SGLT2) inhibitors, including canagliflozin.
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including canagliflozin.
 Fatal cases of ketoacidosis have been reported in patients taking canagliflozin.
 INVOKAMET is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
 
@@ -72,9 +90,9 @@ In some but not all cases, factors predisposing to ketoacidosis such as insulin 
 Before initiating INVOKAMET consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
 In patients treated with INVOKAMET consider monitoring for ketoacidosis and temporarily discontinuing INVOKAMET in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
 
-## 5.4 Acute Kidney Injury and Impairment in Renal Function
+## 5.5 Acute Kidney Injury and Impairment in Renal Function
 
-Canagliflozin causes intravascular volume contraction [see Warnings and Precautions (5.2)] and can cause renal impairment [see Adverse Reactions (6.1)].
+Canagliflozin causes intravascular volume contraction [see Warnings and Precautions (5.3)] and can cause renal impairment [see Adverse Reactions (6.1)].
 There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving canagliflozin; some reports involved patients younger than 65 years of age.
 
 Before initiating INVOKAMET, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure, and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
@@ -88,20 +106,20 @@ Renal function should be evaluated prior to initiation of INVOKAMET and monitore
 Dosage adjustment and more frequent renal function monitoring are recommended in patients with an eGFR below 60 mL/min/1.73 m2.
 INVOKAMET is contraindicated in patients with an eGFR below 45 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
 
-## 5.5 Hyperkalemia
+## 5.6 Hyperkalemia
 
 Canagliflozin can lead to hyperkalemia.
 Patients with moderate renal impairment who are taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, or medications that interfere with the renin-angiotensin-aldosterone system are at an increased risk of developing hyperkalemia [see Dosage and Administration (2.2) and Adverse Reactions (6.1)].
 
 Monitor serum potassium levels periodically after initiating INVOKAMET in patients with impaired renal function and in patients predisposed to hyperkalemia due to medications or other medical conditions.
 
-## 5.6 Urosepsis and Pyelonephritis
+## 5.7 Urosepsis and Pyelonephritis
 
 There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including canagliflozin.
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
-## 5.7 Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin
+## 5.8 Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin
 
 Canagliflozin
 
@@ -116,24 +134,24 @@ Elderly, debilitated, or malnourished patients, and those with adrenal or pituit
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking beta-adrenergic blocking drugs.
 Monitor for a need to lower the dose of INVOKAMET to minimize the risk of hypoglycemia in these patients.
 
-## 5.8 Genital Mycotic Infections
+## 5.9 Genital Mycotic Infections
 
 Canagliflozin increases the risk of genital mycotic infections.
 Patients with a history of genital mycotic infections and uncircumcised males were more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
 
-## 5.9 Hypersensitivity Reactions
+## 5.10 Hypersensitivity Reactions
 
 Hypersensitivity reactions, including angioedema and anaphylaxis, have been reported with canagliflozin.
 These reactions generally occurred within hours to days after initiating canagliflozin.
 If hypersensitivity reactions occur, discontinue use of INVOKAMET; treat and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1, 6.2)].
 
-## 5.10 Bone Fracture
+## 5.11 Bone Fracture
 
 An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in patients using canagliflozin.
 Consider factors that contribute to fracture risk prior to initiating INVOKAMET [see Adverse Reactions (6.1)].
 
-## 5.11 Vitamin B12 Levels
+## 5.12 Vitamin B12 Levels
 
 In controlled, 29-week clinical trials of metformin, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of metformin-treated patients.
 Such decreases, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia or neurologic manifestations due to the short duration (less than 1 year) of the clinical trials.
@@ -142,11 +160,11 @@ The decrease in vitamin B12 levels appears to be rapidly reversible with discont
 Measure hematologic parameters on an annual basis in patients on INVOKAMET and investigate and treat if abnormalities occur.
 Patients with inadequate vitamin B12 or calcium intake or absorption may be predisposed to developing subnormal vitamin B12 levels, and routine serum vitamin B12 measurement at 2- to 3-year intervals is recommended in these patients.
 
-## 5.12 Increases in Low-Density Lipoprotein (LDL-C)
+## 5.13 Increases in Low-Density Lipoprotein (LDL-C)
 
 Dose-related increases in LDL-C occur with canagliflozin [see Adverse Reactions (6.1)].
 Monitor LDL-C and treat if appropriate after initiating INVOKAMET.
 
-## 5.13 Macrovascular Outcomes
+## 5.14 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with INVOKAMET [see Adverse Reactions (6.1)].

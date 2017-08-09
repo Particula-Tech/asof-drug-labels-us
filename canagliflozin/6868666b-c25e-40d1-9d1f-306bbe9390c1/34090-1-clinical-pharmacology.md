@@ -16,7 +16,7 @@ Metformin
 
 Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in either patients with type 2 diabetes or normal patients except in special circumstances [see Warnings and Precautions (5.7)] and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in either patients with type 2 diabetes or normal patients except in special circumstances [see Warnings and Precautions (5.8)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -128,13 +128,13 @@ A single-dose, open-label study evaluated the pharmacokinetics of canagliflozin 
 Renal impairment did not affect the Cmax of canagliflozin.
 Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m2, respectively) but was similar for ESRD (N=8) subjects and healthy subjects.
 Increases in canagliflozin AUC of this magnitude are not considered clinically relevant.
-The pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.4)].
+The pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.5)].
 
 Canagliflozin was negligibly removed by hemodialysis.
 
 Metformin
 
-In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance [see Contraindications (4) and Warnings and Precautions (5.4)].
+In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance [see Contraindications (4) and Warnings and Precautions (5.5)].
 
 Hepatic Impairment
 
@@ -165,7 +165,7 @@ Geriatric
 
 INVOKAMET
 
-Studies characterizing the pharmacokinetics of canagliflozin and metformin after administration of INVOKAMET in geriatric patients have not been performed [see Warnings and Precautions (5.1, 5.4) and Use in Specific Populations (8.5)].
+Studies characterizing the pharmacokinetics of canagliflozin and metformin after administration of INVOKAMET in geriatric patients have not been performed [see Warnings and Precautions (5.1, 5.5) and Use in Specific Populations (8.5)].
 
 Canagliflozin
 
@@ -200,11 +200,11 @@ Canagliflozin is also a substrate of drug transporters P-glycoprotein (P-gp) and
 
 In Vivo Assessment of Drug Interactions
 
-Table 5: Effect of Co−Administered Drugs on Systemic Exposures of Canagliflozin
+Table 7: Effect of Co−Administered Drugs on Systemic Exposures of Canagliflozin
 
 | AUCAUCinf for drugs given as a single dose and AUC24h for drugs given as multiple doses (90% CI) | Cmax (90% CI) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Co-Administered Drug | Dose of Co-Administered Drug | Dose of CanagliflozinSingle dose unless otherwise noted | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.0 |  |
+| Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Canagliflozin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.0 |  |
 | See Drug Interactions (7.2) for the clinical relevance of the following: |  |  |  |  |
 | Rifampin | 600 mg QD for 8 days | 300 mg | 0.49 (0.44; 0.54) | 0.72 (0.61; 0.84) |
 | No dose adjustments of canagliflozin required for the following: |  |  |  |  |
@@ -215,7 +215,7 @@ Table 5: Effect of Co−Administered Drugs on Systemic Exposures of Canagliflozi
 | Probenecid | 500 mg BID for 3 days | 300 mg QD for 17 days | 1.21 (1.16; 1.25) | 1.13 (1.00; 1.28) |
 | QD = once daily; BID = twice daily |  |  |  |  |
 
-Table 6: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
+Table 8: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 
 |  | AUCAUCinf for drugs given as a single dose and AUC24h for drugs given as multiple doses (90% CI) | Cmax (90% CI) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -240,7 +240,7 @@ Table 6: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 
 Metformin
 
-Table 7: Effect of Co−Administered Drugs on Plasma Metformin Systemic Exposures
+Table 9: Effect of Co−Administered Drugs on Plasma Metformin Systemic Exposures
 
 | AUCAUC = AUC0–∞ | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -256,15 +256,15 @@ Table 7: Effect of Co−Administered Drugs on Plasma Metformin Systemic Exposure
 | Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
 | TopiramateHealthy volunteer study at steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours for 7 days. Study conducted to assess pharmacokinetics only | 100 mg | 500 mg | 1.25Steady state AUC0–12h. | 1.18 |
 
-Table 8: Effect of Metformin on Co−Administered Drug Systemic Exposures
+Table 10: Effect of Metformin on Co−Administered Drug Systemic Exposures
 
 | AUCAUC = AUC0–∞ | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
 | Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Metformin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.00 |  |
 | No dose adjustments required for the following: |  |  |  |  |
-| Glyburide | 5 mg | 500 mg | 0.78Ratio of arithmetic means, p-value of difference <0.05 | 0.63 |
+| Glyburide | 5 mg | 500 mgAUC0–24 hr reported | 0.78Ratio of arithmetic means, p-value of difference <0.05 | 0.63 |
 | Furosemide | 40 mg | 850 mg | 0.87 | 0.69 |
-| Nifedipine | 10 mg | 850 mg | 1.10AUC0–24 hr reported | 1.08 |
+| Nifedipine | 10 mg | 850 mg | 1.10 | 1.08 |
 | Propranolol | 40 mg | 850 mg | 1.01 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | 0.97Ratio of arithmetic means. | 1.01 |
 | Cimetidine | 400 mg | 850 mg | 0.95 | 1.01 |
