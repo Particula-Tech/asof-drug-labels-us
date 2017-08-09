@@ -78,7 +78,7 @@ Never take SPORANOX® if you:
   - solifenacin (such as Vesicare®) [if you also have pre-existing kidney or liver impairment]
   - telithromycin (such as Ketek®) [if you also have pre-existing kidney or liver impairment]
   - ticagrelor (such as Brilinta®)
-  - triazolam (such as Hacion®)
+  - triazolam (such as Halcion®)
 - have ever had an allergic reaction to itraconazole.
 
 Taking SPORANOX® with certain other medicines may lead to serious or life-threatening medical problems.
