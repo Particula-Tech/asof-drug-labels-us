@@ -11,7 +11,7 @@ There are risks to the mother and fetus associated with poorly controlled diabet
 
 In animal studies, adverse renal pelvic and tubule dilatations that were not reversible were observed in rats when canagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at an exposure 0.5-times the 300 mg clinical dose, based on AUC.
 
-The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20–25% in women with a HbA1c >10.
+The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with a HbA1C >7 and has been reported to be as high as 20–25% in women with a HbA1C >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
@@ -66,7 +66,7 @@ The efficacy and safety of INVOKANA were evaluated in a study that included pati
 These patients had less overall glycemic efficacy and had a higher occurrence of adverse reactions related to reduced intravascular volume, renal-related adverse reactions, and decreases in eGFR compared to patients with mild renal impairment or normal renal function (eGFR greater than or equal to 60 mL/min/1.73 m2).
 Dose-related, transient mean increases in serum potassium were observed early after initiation of INVOKANA (i.e., within 3 weeks) in this trial.
 Increases in serum potassium of greater than 5.4 mEq/L and 15% above baseline occurred in 16.1%, 12.4%, and 27.0% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
-Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 1.1%, 2.2%, and 2.2% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.3, and 5.4), and Adverse Reactions (6.1)].
+Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 1.1%, 2.2%, and 2.2% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively [see Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.4, and 5.5), and Adverse Reactions (6.1)].
 
 The efficacy and safety of INVOKANA have not been established in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), with ESRD, or receiving dialysis.
 INVOKANA is not expected to be effective in these patient populations [see Contraindications (4) and Clinical Pharmacology (12.3)].

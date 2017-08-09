@@ -25,9 +25,15 @@ Laboratory Tests
 
 Due to its mechanism of action, patients taking INVOKANA will test positive for glucose in their urine.
 
+Lower Limb Amputation
+
+Inform patients that INVOKANA is associated with an increased risk of amputations.
+Counsel patients about the importance of routine preventative foot care.
+Instruct patients to monitor for new pain or tenderness, sores or ulcers, or infections involving the leg or foot and to seek medical advice immediately if such signs or symptoms develop [see Boxed Warning and Warnings and Precautions (5.1)].
+
 Hypotension
 
-Inform patients that symptomatic hypotension may occur with INVOKANA and advise them to contact their doctor if they experience such symptoms [see Warnings and Precautions (5.1)].
+Inform patients that symptomatic hypotension may occur with INVOKANA and advise them to contact their doctor if they experience such symptoms [see Warnings and Precautions (5.2)].
 Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
 
 Ketoacidosis
@@ -35,29 +41,29 @@ Ketoacidosis
 Inform patients that ketoacidosis is a serious life-threatening condition.
 Cases of ketoacidosis have been reported during use of INVOKANA.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKANA and seek medical advice immediately [see Warnings and Precautions (5.2)].
+If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKANA and seek medical advice immediately [see Warnings and Precautions (5.3)].
 
 Acute Kidney Injury
 
 Inform patients that acute kidney injury has been reported during use of INVOKANA.
-Advise patients to seek medical advice immediately if they have reduced oral intake (such as due to acute illness or fasting) or increased fluid losses (such as due to vomiting, diarrhea, or excessive heat exposure), as it may be appropriate to temporarily discontinue INVOKANA use in those settings [see Warnings and Precautions (5.3)].
+Advise patients to seek medical advice immediately if they have reduced oral intake (such as due to acute illness or fasting) or increased fluid losses (such as due to vomiting, diarrhea, or excessive heat exposure), as it may be appropriate to temporarily discontinue INVOKANA use in those settings [see Warnings and Precautions (5.4)].
 
 Serious Urinary Tract Infections
 
 Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
-Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.5)].
+Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.6)].
 
 Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
 
 Inform female patients that vaginal yeast infection may occur and provide them with information on the signs and symptoms of vaginal yeast infection.
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.8)].
 
 Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis)
 
 Inform male patients that yeast infection of penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with prior history.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.8)].
 
 Hypersensitivity Reactions
 

@@ -70,7 +70,7 @@ Renal impairment did not affect the Cmax of canagliflozin.
 Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60 and 15 to less than 30 mL/min/1.73 m2, respectively), but was similar for ESRD (N=8) subjects and healthy subjects.
 
 Increases in canagliflozin AUC of this magnitude are not considered clinically relevant.
-The pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.3)].
+The pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.4)].
 
 Canagliflozin was negligibly removed by hemodialysis.
 
@@ -101,7 +101,7 @@ Canagliflozin is also a substrate of drug transporters P-glycoprotein (P-gp) and
 
 In Vivo Assessment of Drug Interactions
 
-Table 5: Effect of Co–Administered Drugs on Systemic Exposures of Canagliflozin
+Table 7: Effect of Co−Administered Drugs on Systemic Exposures of Canagliflozin
 
 | AUCAUCinf for drugs given as a single dose and AUC24h for drugs given as multiple doses (90% CI) | Cmax (90% CI) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -116,7 +116,7 @@ Table 5: Effect of Co–Administered Drugs on Systemic Exposures of Canagliflozi
 | Probenecid | 500 mg BID for 3 days | 300 mg QD for 17 days | 1.21 (1.16; 1.25) | 1.13 (1.00; 1.28) |
 | QD = once daily; BID = twice daily |  |  |  |  |
 
-Table 6: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
+Table 8: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 
 |  | AUCAUCinf for drugs given as a single dose and AUC24h for drugs given as multiple doses (90% CI) | Cmax (90% CI) |  |  |  |
 | --- | --- | --- | --- | --- | --- |

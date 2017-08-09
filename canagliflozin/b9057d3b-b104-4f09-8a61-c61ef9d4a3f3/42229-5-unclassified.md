@@ -2,7 +2,7 @@ Active ingredient made in Belgium
 
 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Finished product manufactured by: Janssen Ortho, LLC Gurabo, PR 00778
+Finished product manufactured by: Janssen Ortho LLC Gurabo, PR 00778
 
 Or
 
