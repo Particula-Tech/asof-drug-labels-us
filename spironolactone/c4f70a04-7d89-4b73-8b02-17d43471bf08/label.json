@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209478"
+  ],
+  "inn": "spironolactone",
+  "labeler": "CMP Pharma, Inc.",
+  "package_ndcs": [
+    "46287-020-01",
+    "46287-020-04"
+  ],
+  "products": [
+    {
+      "form": "Suspension",
+      "generic": "carospir",
+      "name": "CaroSpir"
+    }
+  ],
+  "setid": "c4f70a04-7d89-4b73-8b02-17d43471bf08",
+  "source": "dailymed"
+}
