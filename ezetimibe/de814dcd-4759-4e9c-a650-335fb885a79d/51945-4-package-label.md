@@ -1,0 +1,7 @@
+NDC 70771-1109-3 in bottle of 30 tablets
+
+Ezetimibe Tablets, 10 mg
+
+Rx only
+
+30 tablets

@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA204331"
+  ],
+  "inn": "ezetimibe",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "70771-1109-0",
+    "70771-1109-1",
+    "70771-1109-2",
+    "70771-1109-3",
+    "70771-1109-4",
+    "70771-1109-5",
+    "70771-1109-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ezetimibe",
+      "name": "ezetimibe"
+    }
+  ],
+  "setid": "de814dcd-4759-4e9c-a650-335fb885a79d",
+  "source": "dailymed"
+}
