@@ -1,4 +1,4 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
 Four multicenter, randomized, adequate and well-controlled clinical studies were performed in approximately 1,200 patients with moderate to severe keratoconjunctivitis sicca.
 RESTASIS® demonstrated statistically significant increases in Schirmer wetting of 10 mm versus vehicle at six months in patients whose tear production was presumed to be suppressed due to ocular inflammation.

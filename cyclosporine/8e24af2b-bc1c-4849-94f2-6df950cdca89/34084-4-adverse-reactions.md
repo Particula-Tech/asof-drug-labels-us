@@ -1,4 +1,8 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
+
+The following serious adverse reactions are described elsewhere in the labeling:
+
+- Potential for Eye Injury and Contamination [see Warnings and Precautions (5.1)]
 
 ## 6.1 Clinical Trials Experience
 

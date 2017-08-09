@@ -1,8 +1,8 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
-## 5.1 Potential for Eye Injury and Contamination
+## 5.1Potential for Eye Injury and Contamination
 
-To avoid the potential for eye injury and contamination, be careful not to touch the vial tip to your eye or other surfaces.
+Be careful not to touch the vial tip to your eye or other surfaces to avoid potential for eye injury and contamination.
 
 ## 5.2 Use with Contact Lenses
 
