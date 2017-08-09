@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described below and elsewhere in labeling:
 
-- Serious Symptomatic Bradycardia When Sofosbuvir Is Coadministered with Amiodarone and Another HCV Direct-Acting Antiviral [see Warnings and Precautions (5.2)].
+- Serious Symptomatic Bradycardia When Coadministered with Amiodarone [see Warnings and Precautions (5.2)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -26,11 +26,17 @@ With the exception of asthenia, each of these adverse reactions occurred at a si
 The adverse reactions observed in subjects treated with EPCLUSA in ASTRAL-2 and ASTRAL-3 were consistent with those observed in ASTRAL-1.
 Irritability was also observed in greater than or equal to 5% of subjects treated with EPCLUSA in ASTRAL-3.
 
+Adverse Reactions in Subjects Coinfected with HCV and HIV-1
+
+The safety assessment of EPCLUSA in subjects with HCV/HIV-1 coinfection was based on an open-label clinical trial (ASTRAL-5) in 106 subjects who were on stable antiretroviral therapy [see Clinical Studies (14.3)].
+The safety profile in HCV/HIV-1 coinfected subjects was similar to that observed in HCV mono-infected subjects.
+The most common adverse reactions occurring in at least 10% of subjects were fatigue (22%) and headache (10%).
+
 Adverse Reactions in Subjects with Decompensated Cirrhosis
 
 The safety assessment of EPCLUSA in subjects infected with genotype 1, 2, 3, 4, or 6 HCV with decompensated cirrhosis was based on one Phase 3 trial (ASTRAL-4) including 87 subjects who received EPCLUSA with ribavirin for 12 weeks.
 All 87 subjects had Child-Pugh B cirrhosis at screening.
-On the first day of treatment with EPCLUSA with ribavirin, 6 subjects and 4 subjects were assessed to have Child-Pugh A and Child-Pugh C cirrhosis, respectively [see Clinical Studies (14.3)].
+On the first day of treatment with EPCLUSA with ribavirin, 6 subjects and 4 subjects were assessed to have Child-Pugh A and Child-Pugh C cirrhosis, respectively [see Clinical Studies (14.4)].
 
 The most common adverse reactions (adverse events assessed as causally related by the investigator, all grades with frequency of 10% or greater) in the 87 subjects who received EPCLUSA with ribavirin for 12 weeks were fatigue (32%), anemia (26%), nausea (15%), headache (11%), insomnia (11%), and diarrhea (10%).
 Of subjects who experienced these adverse reactions, 98% had adverse reactions of mild to moderate severity.
@@ -76,4 +82,10 @@ Because postmarketing reactions are reported voluntarily from a population of un
 
 Cardiac Disorders
 
-Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiated treatment with sofosbuvir in combination with another HCV direct-acting antiviral [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
+Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with a sofosbuvir-containing regimen [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
+
+Skin and Subcutaneous Tissue Disorders
+
+Skin rashes, sometimes with blisters or angioedema-like swelling
+
+Angioedema

@@ -10,7 +10,8 @@ Sofosbuvir was not carcinogenic in a 2-year mouse study (up to 200 mg/kg/day in 
 
 Velpatasvir: Velpatasvir was not genotoxic in a battery of in vitro or in vivo assays, including bacterial mutagenicity, chromosome aberration using human peripheral blood lymphocytes, and in vivo rat micronucleus assays.
 
-Carcinogenicity studies of velpatasvir in mice and rats are ongoing.
+Velpatasvir was not carcinogenic in a 6-month rasH2 transgenic mouse study (up to 1000 mg/kg/day).
+A 2-year rat carcinogenicity study with velpatasvir is ongoing.
 
 Impairment of Fertility
 

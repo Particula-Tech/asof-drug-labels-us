@@ -7,7 +7,7 @@ Risk of Hepatitis B Virus Reactivation in Patients Coinfected with HCV and HBV
 Inform patients that HBV reactivation can occur in patients coinfected with HBV during or after treatment of HCV infection.
 Advise patients to tell their healthcare provider if they have a history of HBV infection [see Warnings and Precautions (5.1)].
 
-Serious Symptomatic Bradycardia When Sofosbuvir Is Coadministered with Amiodarone and Another HCV Direct-Acting Antiviral
+Serious Symptomatic Bradycardia When Coadministered with Amiodarone
 
 Advise patients to seek medical evaluation immediately for symptoms of bradycardia such as near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pain, confusion or memory problems [see Warnings and Precautions (5.2), Adverse Reactions (6.2), and Drug Interactions (7.3)].
 

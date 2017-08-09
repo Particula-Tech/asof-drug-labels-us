@@ -64,7 +64,7 @@ Specific Populations
 - Patients with Renal Impairment:
 - The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m2), moderate (eGFR between 30 to less than 50 mL/min/1.73 m2), severe renal impairment (eGFR less than 30 mL/min/1.73 m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
   Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in subjects with mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
-  In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
+- In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
   A 4 hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 - The pharmacokinetics of velpatasvir were studied with a single dose of 100 mg velpatasvir in HCV negative subjects with severe renal impairment (eGFR less than 30 mL/min by Cockcroft-Gault).
   No clinically relevant differences in velpatasvir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment.
@@ -115,13 +115,13 @@ Table 5 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir,
 | Darunavir/ritonavir + emtricitabine/tenofovir DF | 800/100 + 200/300 once daily | 400 once daily | 100 once daily | 29 | sofosbuvir | 0.62 (0.54, 0.71) | 0.72 (0.66, 0.80) | NA |
 | GS-331007 | 1.04 (0.99, 1.08) | 1.13 (1.08, 1.18) | 1.13 (1.06, 1.19) |  |  |  |  |  |
 | velpatasvir | 0.76 (0.65, 0.89) | 0.84 (0.72, 0.98) | 1.01 (0.87, 1.18) |  |  |  |  |  |
-| Efavirenz/emtricitabine/ tenofovir DFAdministered as ATRIPLA (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). | 600/200/300 once daily | 400 once daily | 100 once daily | 14 | sofosbuvir | 1.38 (1.14, 1.67) | 0.97 (0.83, 1.14) | NA |
+| Efavirenz/emtricitabine/ tenofovir DFAdministered as ATRIPLA® (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). | 600/200/300 once daily | 400 once daily | 100 once daily | 14 | sofosbuvir | 1.38 (1.14, 1.67) | 0.97 (0.83, 1.14) | NA |
 | GS-331007 | 0.86 (0.80, 0.93) | 0.90 (0.85, 0.96) | 1.01 (0.95, 1.07) |  |  |  |  |  |
 | velpatasvir | 0.53 (0.43, 0.64) | 0.47 (0.39, 0.57) | 0.43 (0.36, 0.52) |  |  |  |  |  |
-| Elvitegravir/cobicistat/ emtricitabine/tenofovir alafenamideAdministered as GENVOYA (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | 150/150/200/10 once daily | 400 once daily | 100 once daily | 23 | sofosbuvir | 1.23 (1.07, 1.42) | 1.37 (1.24, 1.52) | NA |
+| Elvitegravir/cobicistat/ emtricitabine/tenofovir alafenamideAdministered as GENVOYA® (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | 150/150/200/10 once daily | 400 once daily | 100 once daily | 23 | sofosbuvir | 1.23 (1.07, 1.42) | 1.37 (1.24, 1.52) | NA |
 | GS-331007 | 1.29 (1.25, 1.33) | 1.48 (1.43, 1.53) | 1.58 (1.52, 1.65) |  |  |  |  |  |
 | velpatasvir | 1.30 (1.17, 1.45) | 1.50 (1.35, 1.66) | 1.60 (1.44, 1.78) |  |  |  |  |  |
-| Elvitegravir/cobicistat/ emtricitabine/tenofovir DFAdministered as STRIBILD (elvitegravir, cobicistat, emtricitabine, and tenofovir DF fixed-dose combination). | 150/150/200/300 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.01 (0.85, 1.19) | 1.24 (1.13, 1.37) | NA |
+| Elvitegravir/cobicistat/ emtricitabine/tenofovir DFAdministered as STRIBILD® (elvitegravir, cobicistat, emtricitabine, and tenofovir DF fixed-dose combination). | 150/150/200/300 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.01 (0.85, 1.19) | 1.24 (1.13, 1.37) | NA |
 | GS-331007 | 1.13 (1.07, 1.18) | 1.35 (1.30, 1.40) | 1.45 (1.38, 1.52) |  |  |  |  |  |
 | velpatasvir | 1.05 (0.93, 1.19) | 1.19 (1.07, 1.34) | 1.37 (1.22, 1.54) |  |  |  |  |  |
 | Famotidine | 40 single dose simultaneously with EPCLUSA | 400 single dose | 100 single dose | 60 | sofosbuvir | 0.92 (0.82, 1.05) | 0.82 (0.74, 0.91) | NA |
@@ -186,7 +186,7 @@ Table 6 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Pre
 | cobicistat 150 once daily | 1.11 (1.06, 1.17) | 1.23 (1.17, 1.29) | 1.71 (1.54, 1.90) |  |  |  |  |
 | emtricitabine 200 once daily | 1.02 (0.97, 1.08) | 1.01 (0.98, 1.04) | 1.06 (1.01, 1.11) |  |  |  |  |
 | tenofovir DF 300 once daily | 1.36 (1.25, 1.47) | 1.35 (1.29, 1.42) | 1.45 (1.39, 1.51) |  |  |  |  |
-| Emtricitabine/rilpivirine/ tenofovir DFAdministered as COMPLERA (emtricitabine, rilpivirine, and tenofovir DF fixed-dose combination). | emtricitabine 200 once daily | 400 once daily | 100 once daily | 24 | 0.95 (0.90, 1.00) | 0.99 (0.97, 1.02) | 1.05 (0.99, 1.11) |
+| Emtricitabine/rilpivirine/ tenofovir DFAdministered as COMPLERA® (emtricitabine, rilpivirine, and tenofovir DF fixed-dose combination). | emtricitabine 200 once daily | 400 once daily | 100 once daily | 24 | 0.95 (0.90, 1.00) | 0.99 (0.97, 1.02) | 1.05 (0.99, 1.11) |
 | rilpivirine 25 once daily | 0.93 (0.88, 0.98) | 0.95 (0.90, 1.00) | 0.96 (0.90, 1.03) |  |  |  |  |
 | tenofovir DF 300 once daily | 1.44 (1.33, 1.55) | 1.40 (1.34, 1.46) | 1.84 (1.76, 1.92) |  |  |  |  |
 | Norelgestromin | norgestimate 0.180/0.215/0.25/ethinyl estradiol 0.025 once daily | ND | 100 once daily | 13 | 0.97 (0.88, 1.07) | 0.90 (0.82, 0.98) | 0.92 (0.83, 1.03) |
