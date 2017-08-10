@@ -7,12 +7,12 @@ In clinical trials, in patients with or without elevated IOP, LATISSE® lowered 
 
 In ocular hypertension studies with LUMIGAN®, it has been shown that exposure of the eye to more than one dose of bimatoprost daily may decrease the intraocular pressure lowering effect.
 In patients using LUMIGAN® or other prostaglandin analogs for the treatment of elevated intraocular pressure, the concomitant use of LATISSE® may interfere with the desired reduction in IOP.
-Patients using prostaglandin analogs including LUMIGAN® for IOP reduction should only use LATISSE® after consulting with their physician and should be monitored for changes to their intraocular pressure [see Patient Counseling Information (17.3)].
+Patients using prostaglandin analogs including LUMIGAN® for IOP reduction should only use LATISSE® after consulting with their physician and should be monitored for changes to their intraocular pressure [see Patient Counseling Information (17)].
 
 ## 5.2 Iris Pigmentation
 
 Increased iris pigmentation has occurred when bimatoprost solution was administered.
-Patients should be advised about the potential for increased brown iris pigmentation which is likely to be permanent [see Adverse Reactions (6.2) and Patient Counseling Information (17.5)].
+Patients should be advised about the potential for increased brown iris pigmentation which is likely to be permanent [see Adverse Reactions (6.2) and Patient Counseling Information (17)].
 
 The pigmentation change is due to increased melanin content in the melanocytes rather than to an increase in the number of melanocytes.
 The long term effects of increased pigmentation are not known.
@@ -24,12 +24,12 @@ Treatment with LATISSE® solution can be continued in patients who develop notic
 ## 5.3 Lid Pigmentation
 
 Bimatoprost has been reported to cause pigment changes (darkening) to periorbital pigmented tissues and eyelashes.
-The pigmentation is expected to increase as long as bimatoprost is administered, but has been reported to be reversible upon discontinuation of bimatoprost in most patients [see Patient Counseling Information (17.4)].
+The pigmentation is expected to increase as long as bimatoprost is administered, but has been reported to be reversible upon discontinuation of bimatoprost in most patients [see Patient Counseling Information (17)].
 
 ## 5.4 Hair Growth Outside the Treatment Area
 
 There is the potential for hair growth to occur in areas where LATISSE® solution comes in repeated contact with the skin surface.
-It is important to apply LATISSE® only to the skin of the upper eyelid margin at the base of the eyelashes using the accompanying sterile applicators, and to carefully blot any excess LATISSE® from the eyelid margin to avoid it running onto the cheek or other skin areas [see Patient Counseling Information (17.6)].
+It is important to apply LATISSE® only to the skin of the upper eyelid margin at the base of the eyelashes using the accompanying sterile applicators, and to carefully blot any excess LATISSE® from the eyelid margin to avoid it running onto the cheek or other skin areas [see Patient Counseling Information (17)].
 
 ## 5.5 Intraocular Inflammation
 
@@ -46,9 +46,9 @@ The LATISSE® bottle must be kept intact during use.
 It is important to use LATISSE® solution as instructed, by placing one drop on the single-use-per-eye applicator.
 The bottle tip should not be allowed to contact any other surface since it could become contaminated.
 The accompanying sterile applicators should only be used on one eye and then discarded since reuse of applicators increases the potential for contamination and infections.
-There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products [see Patient Counseling Information (17.2)].
+There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products [see Patient Counseling Information (17)].
 
 ## 5.8 Use with Contact Lenses
 
 LATISSE® contains benzalkonium chloride, which may be absorbed by and cause discoloration of soft contact lenses.
-Contact lenses should be removed prior to application of solution and may be reinserted 15 minutes following its administration [see Patient Counseling Information (17.8)].
+Contact lenses should be removed prior to application of solution and may be reinserted 15 minutes following its administration [see Patient Counseling Information (17)].
