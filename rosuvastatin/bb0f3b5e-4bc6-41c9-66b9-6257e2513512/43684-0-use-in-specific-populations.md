@@ -87,7 +87,7 @@ Exposure to rosuvastatin is increased to a clinically significant extent in pati
 ## 8.7 Hepatic Impairment
 
 CRESTOR is contraindicated in patients with active liver disease, which may include unexplained persistent elevations of hepatic transaminase levels.
-Chronic alcohol liver disease is known to increase rosuvastatin exposure; CRESTOR should be used with caution in these patients [see Contraindications (4), Warning and Precautions (5.2), and Clinical Pharmacology (12.3)].
+Chronic alcohol liver disease is known to increase rosuvastatin exposure; CRESTOR should be used with caution in these patients [see Contraindications (4), Warning and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Asian Patients
 

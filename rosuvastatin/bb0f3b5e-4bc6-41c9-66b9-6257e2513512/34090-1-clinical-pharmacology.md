@@ -79,7 +79,7 @@ Drug-Drug Interactions
 Rosuvastatin clearance is not dependent on metabolism by cytochrome P450 3A4 to a clinically significant extent.
 
 Rosuvastatin is a substrate for certain transporter proteins including the hepatic uptake transporter organic anion-transporting polyprotein 1B1 (OATP1B1) and efflux transporter breast cancer resistance protein (BCRP).
-Concomitant administration of CRESTOR with medications that are inhibitors of these transporter proteins (e.g. cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations and an increased risk of myopathy [see Dosage and Administration (2.4)].
+Concomitant administration of CRESTOR with medications that are inhibitors of these transporter proteins (e.g., cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations and an increased risk of myopathy [see Dosage and Administration (2.4)].
 It is recommended that prescribers consult the relevant product information when considering administration of such products together with CRESTOR.
 
 Table 4.

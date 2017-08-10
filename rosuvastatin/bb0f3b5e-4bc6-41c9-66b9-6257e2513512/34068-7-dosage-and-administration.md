@@ -30,18 +30,18 @@ The increased systemic exposure should be taken into consideration when treating
 
 Patients taking cyclosporine
 
-The dose of CRESTOR should not exceed 5 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.1), and Clinical Pharmacology (12.3)].
+The dose of CRESTOR should not exceed 5 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 Patients taking gemfibrozil
 
 Avoid concomitant use of CRESTOR with gemfibrozil.
 If concomitant use cannot be avoided, initiate CRESTOR at 5 mg once daily.
-The dose of CRESTOR should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.2), and Clinical Pharmacology (12.3)].
+The dose of CRESTOR should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
 Patients taking atazanavir and ritonavir, lopinavir and ritonavir, or simeprevir
 
 Initiate CRESTOR therapy with 5 mg once daily.
-The dose of CRESTOR should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.3), and Clinical Pharmacology (12.3)].
+The dose of CRESTOR should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
 
 ## 2.5 Dosing in Patients with Severe Renal Impairment
 
