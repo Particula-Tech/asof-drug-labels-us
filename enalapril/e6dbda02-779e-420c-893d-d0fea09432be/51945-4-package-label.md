@@ -14,7 +14,7 @@ READY TO USE
 
 150 mL
 
-Silvergate Pharmaceuticlas, Inc.
+Silvergate Pharmaceuticals, Inc.
 
 Rx Only
 
@@ -28,7 +28,7 @@ After dispensing, may be stored at room temperature 20° - 25°C (68° - 77°F) 
 
 Avoid freezing and excessive heat.
 
-Keep container tightly closed
+Keep container tightly closed.
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN
 
