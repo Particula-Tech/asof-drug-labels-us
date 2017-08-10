@@ -12,7 +12,7 @@ In murine syngeneic tumor models, dual blockade of PD-1 and CTLA-4 resulted in i
 
 ## 12.2 Pharmacodynamics
 
-Based on dose/exposure efficacy and safety relationships, there are no clinically significant differences in safety and efficacy between a nivolumab dose of 240 mg or 3 mg/kg every 2 weeks in patients with melanoma, NSCLC, RCC, and urothelial carcinoma.
+Based on dose/exposure efficacy and safety relationships, there are no clinically significant differences in safety and efficacy between a nivolumab dose of 240 mg or 3 mg/kg every 2 weeks in patients with melanoma, NSCLC, RCC, urothelial carcinoma, and MSI-H CRC.
 
 ## 12.3 Pharmacokinetics
 
