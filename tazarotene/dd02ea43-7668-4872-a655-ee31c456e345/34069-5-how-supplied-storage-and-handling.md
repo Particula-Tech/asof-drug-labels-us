@@ -1,9 +1,9 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-TAZORAC® Cream is a white cream available in concentrations of 0.05% and 0.1%.
+TAZORAC Cream is a white cream available in concentrations of 0.05% and 0.1%.
 It is supplied in a collapsible aluminum tube with a tamper-evident aluminum membrane over the opening and a white polypropylene screw cap, in 30 g and 60 g sizes.
 
-| TAZORAC® Cream, 0.05% TAZORAC® Cream, 0.1% |  |  |
+|  | TAZORAC Cream, 0.05% | TAZORAC Cream, 0.1% |
 | --- | --- | --- |
 | 30 g | NDC 0023-9155-30 | NDC 0023-9156-30 |
 | 60 g | NDC 0023-9155-60 | NDC 0023-9156-60 |

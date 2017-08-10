@@ -14,15 +14,16 @@ As the exact timing and extent of exposure in relation to the gestation times ar
 
 Females of Child-bearing Potential
 
-Females of child-bearing potential should be warned of the potential risk and use adequate birth-control measures when TAZORAC® Cream is used.
+Females of child-bearing potential should be warned of the potential risk and use adequate birth-control measures when TAZORAC Cream is used.
 The possibility that a female of child-bearing potential is pregnant at the time of institution of therapy should be considered.
 
-A negative result for pregnancy test should be obtained within 2 weeks prior to TAZORAC® Cream therapy.
-TAZORAC® Cream therapy should begin during a menstrual period [see Use in Specific Populations (8.1)].
+A negative result for pregnancy test should be obtained within 2 weeks prior to TAZORAC Cream therapy.
+TAZORAC Cream therapy should begin during a menstrual period [see Use in Specific Populations (8.1)].
 
-## 5.2 Local Irritation
+## 5.2 Local Irritation and Hypersensitivity Reactions
 
-Application of TAZORAC® Cream may cause excessive irritation in the skin of certain sensitive individuals.
+Local tolerability reactions (including blistering and skin desquamation) and hypersensitivity adverse reactions (including urticaria) have been observed with topical tazarotene.
+Application of TAZORAC Cream may cause excessive irritation in the skin of certain sensitive individuals.
 Some individuals may experience excessive pruritus, burning, skin redness or peeling.
 If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the dosing should be reduced to an interval the patient can tolerate.
 However, efficacy at reduced frequency of application has not been established.
@@ -31,17 +32,17 @@ Frequency of application should be closely monitored by careful observation of t
 Therapy can be resumed, or the drug concentration or frequency of application can be increased as the patient becomes able to tolerate treatment.
 
 Concomitant topical medications and cosmetics that have a strong drying effect should be avoided.
-It is also advisable to "rest" a patient's skin until the effects of such preparations subside before use of TAZORAC® Cream is begun.
+It is also advisable to "rest" a patient's skin until the effects of such preparations subside before use of TAZORAC Cream is begun.
 
-TAZORAC® Cream, should not be used on eczematous skin, as it may cause severe irritation.
+TAZORAC Cream, should not be used on eczematous skin, as it may cause severe irritation.
 
-Weather extremes, such as wind or cold, may be more irritating to patients using TAZORAC® Cream.
+Weather extremes, such as wind or cold, may be more irritating to patients using TAZORAC Cream.
 
 ## 5.3 Photosensitivity and Risk for Sunburn
 
-Because of heightened burning susceptibility, exposure to sunlight (including sunlamps) should be avoided unless deemed medically necessary, and in such cases, exposure should be minimized during the use of TAZORAC® Cream.
-Patients must be warned to use sunscreens (minimum SPF of 15) and protective clothing when using TAZORAC® Cream.
-Patients with sunburn should be advised not to use TAZORAC® Cream until fully recovered.
-Patients who may have considerable sun exposure due to their occupation and those patients with inherent sensitivity to sunlight should exercise particular caution when using TAZORAC® Cream.
+Because of heightened burning susceptibility, exposure to sunlight (including sunlamps) should be avoided unless deemed medically necessary, and in such cases, exposure should be minimized during the use of TAZORAC Cream.
+Patients must be warned to use sunscreens and protective clothing when using TAZORAC Cream.
+Patients with sunburn should be advised not to use TAZORAC Cream until fully recovered.
+Patients who may have considerable sun exposure due to their occupation and those patients with inherent sensitivity to sunlight should exercise particular caution when using TAZORAC Cream.
 
-TAZORAC® Cream should be administered with caution if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the increased possibility of augmented photosensitivity.
+TAZORAC Cream should be administered with caution if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the increased possibility of augmented photosensitivity.
