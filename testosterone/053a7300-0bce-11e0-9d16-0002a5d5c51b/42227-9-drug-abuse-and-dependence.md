@@ -13,7 +13,7 @@ There have been reports of misuse of men taking higher doses of legally obtained
 
 Abuse-Related Adverse Reactions
 
-Serious adverse reactions have been reported in individuals who abuse anabolic androgenic steroids, and include cardiac arrest, myocardial infarction, hypertrophic cardiomyopathy, congestive heart failure, cerebrovascular accident, hepatotoxicity, and serious psychiatric manifestations, including major depression, mania, paranoia, psychosis, delusions, hallucinations, hostility and aggression
+Serious adverse reactions have been reported in individuals who abuse anabolic androgenic steroids, and include cardiac arrest, myocardial infarction, hypertrophic cardiomyopathy, congestive heart failure, cerebrovascular accident, hepatotoxicity, and serious psychiatric manifestations, including major depression, mania, paranoia, psychosis, delusions, hallucinations, hostility and aggression.
 
 The following adverse reactions have also been reported in men: transient ischemic attacks, convulsions, hypomania, irritability, dyslipidemias, testicular atrophy, subfertility, and infertility.
 

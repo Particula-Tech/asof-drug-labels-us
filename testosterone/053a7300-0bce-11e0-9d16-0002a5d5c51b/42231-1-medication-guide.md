@@ -210,12 +210,12 @@ Inactive ingredients: propylene glycol, purified water, ethanol, 2-propanol, ole
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Manufactured by: Pharbil Waltrop GmbH, Im Wirrigen 25, 45731 Waltrop, Germany
+Manufactured by: Pharbil Waltrop GmbH Im Wirrigen 25, 45731 Waltrop, Germany
 
 Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
-© 2016 Endo Pharmaceuticals Inc. All rights reserved.
+© 2017 Endo Pharmaceuticals Inc. All rights reserved.
 
-Revised: 10/2016
+Revised: 07/2017
 
-LFT-TOS-US-006
+118310

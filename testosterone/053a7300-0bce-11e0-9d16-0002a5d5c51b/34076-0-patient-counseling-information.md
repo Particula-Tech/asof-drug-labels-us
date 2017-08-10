@@ -54,8 +54,8 @@ Manufactured by: Pharbil Waltrop GmbH, Im Wirrigen 25, 45731 Waltrop, Germany
 
 Distributed by: Endo Pharmaceuticals Inc., Malvern, PA 19355
 
-© 2016 Endo Pharmaceuticals Inc. All rights reserved.
+© 2017 Endo Pharmaceuticals Inc. All rights reserved.
 
 FORTESTA is a registered trademark of Endo Pharmaceuticals Inc.
 
-LFT-TOS-US-005
+118311
