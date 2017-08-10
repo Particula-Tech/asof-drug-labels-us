@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Trazodone hydrochloride tablets are available in the following strengths:
+Trazodone hydrochloride tablets, USP are available in the following strengths:
 
 50 mg: white, round, biconvex, tablets.
 Engraved “APO” bisect “T50” on one side, other side plain.

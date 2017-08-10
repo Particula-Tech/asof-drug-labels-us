@@ -1,13 +1,8 @@
 # MEDICATION GUIDE
 
-Trazodone hydrochloride tablets, USP
+Trazodone hydrochloride tablets, USP, for oral use
 
 (traz' oh done hye'' droe klor' ide)
-
-Read the Medication Guide that comes with trazodone hydrochloride tablets before you start taking it and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
-Talk to your healthcare provider or pharmacist if there is something you do not understand or you want to learn about trazodone hydrochloride tablets.
 
 What is the most important information I should know about trazodone hydrochloride tablets?
 
@@ -31,58 +26,52 @@ How can I watch for and try to prevent suicidal thoughts and actions?
   This is very important when an antidepressant medicine is started or when the dose is changed.
 - Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts or feelings.
 - Keep all follow-up visits with your healthcare provider as scheduled.
-  Call your healthcare provider between visits as needed, especially if you are worried about symptoms.Call a healthcare provider right away if you have any of the following symptoms, especially if they are new, worse, or worry you:
-  - Thoughts about suicide or dying
-  - Attempts to commit suicide
-  - New or worse depression
-  - New or worse anxiety
-  - Feeling very agitated or restless
-  - Panic attacks
-  - Trouble sleeping (insomnia)
-  - New or worse irritability
-  - Acting aggressive, being angry or violent
-  - Acting on dangerous impulses
-  - An extreme increase in activity and talking (mania)
-  - Other unusual changes in behavior or mood
+  Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
-4.Visual problems:eye painchanges in visionswelling or redness in or around the eye
+Call a healthcare provider right away if you have any of the following symptoms, especially if they are new, worse, or worry you:
 
-- eye pain
-- changes in vision
-- swelling or redness in or around the eye
+- Thoughts about suicide or dying
+- Attempts to commit suicide
+- New or worse depression
+- New or worse anxiety
+- Feeling very agitated or restless
+- Panic attacks
+- Trouble sleeping (insomnia)
+- New or worse irritability
+- Acting aggressive, being angry or violent
+- Acting on dangerous impulses
+- An extreme increase in activity and talking (mania)
+- Other unusual changes in behavior or mood
 
-Only some people are at risk for these problems.
-You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-
-5.
 What else do I need to know about antidepressant medicines?
 
-Never stop an antidepressant medicine without first talking to a healthcare provider.
-Stopping an antidepressant medicine suddenly can cause other symptoms.
+- Never stop an antidepressant medicine without first talking to a healthcare provider.
+  Stopping an antidepressant medicine suddenly can cause other symptoms.
+- Antidepressants are medicines used to treat depression and other illnesses.
+  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+  You should discuss all treatment choices with your healthcare provider, not just the use of antidepressants.
+- Antidepressant medicines have other side effects.
+  Talk to your healthcare provider about the side effects of your medicines.
+- Antidepressant medicines can interact with other medicines.
+  Know all of the medicines that you take.
+  Keep a list of all medicines to show your healthcare provider.
+  Do not start new medicines without first checking with your healthcare provider.
 
-Antidepressants are medicines used to treat depression and other illnesses.
-It is important to discuss all the risks of treating depression and also the risks of not treating it.
-You should discuss all treatment choices with your healthcare provider, not just the use of antidepressants.
-
-Antidepressant medicines have other side effects.
-Talk to your healthcare provider about the side effects of your medicines.
-
-Antidepressant medicines can interact with other medicines.
-Know all of the medicines that you take.
-Keep a list of all medicines to show your healthcare provider.
-Do not start new medicines without first checking with your healthcare provider.
-
-4.
-Trazodone hydrochloride tablets are not approved for use in children.
-Talk to your healthcare provider for more information.
+It is not known if trazodone is safe and effective in children.
 
 What are trazodone hydrochloride tablets?
 
-Trazodone hydrochloride tablets are a prescription medicine used to treat major depressive disorder in adults.
+Trazodone hydrochloride tablets are a prescription medicine used in adults to treat major depressive disorder (MDD).
+Trazodone belongs to a class of medicines known as SSRIs (or selective serotonin reuptake inhibitors).
 
-What should I tell my healthcare provider before taking trazodone hydrochloride tablets?
+Do not take trazodone hydrochloride tablets:
 
-Before you take trazodone hydrochloride tablets tell your healthcare provider if you:
+- If you take a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid, and intravenous methylene blue.
+- Do not take an MAOI within 2 weeks of stopping trazodone hydrochloride tablets unless directed to do so by your healthcare provider.
+- Do not start trazodone hydrochloride tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
+
+Before you take trazodone hydrochloride tablets tell your healthcare provider about all of your medical conditions, including if you:
 
 - have heart problems, including QT prolongation or a family history of it
 - have ever had a heart attack
@@ -93,13 +82,24 @@ Before you take trazodone hydrochloride tablets tell your healthcare provider if
   Trazodone hydrochloride tablets may harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - are breastfeeding or plan to breastfeed.
-  It is not known if trazodone hydrochloride tablets into your breast milk.
+  It is not known if trazodone hydrochloride passes into your breast milk.
   You and your healthcare provider should decide if you will take trazodone hydrochloride or breastfeed.
 - have taken a Monoamine Oxidase Inhibitor (MAOI) or if you have stopped taking an MAOI in the last 2 weeks.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Using trazodone hydrochloride tablets with certain other medicines can affect each other causing serious side effects.
+
+Especially tell your healthcare provider if you take:
+
+- triptans used to treat migraine headache
+- medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, buspirone, or antipsychotics
+- tramadol
+- over-the-counter supplements such as tryptophan or St. John’s Wort
+- nonsteroidal anti-inflammatory drugs (NSAIDS)
+- aspirin
+- warfarin (Coumadin, Jantoven)
+- phenytoin (Mesantoin)
+- diuretics
 
 Know the medicines you take.
 Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
@@ -114,7 +114,7 @@ How should I take trazodone hydrochloride tablets?
 - Trazodone hydrochloride tablets should be swallowed whole or broken in half along the score line.
   Do not chew or crush trazodone hydrochloride tablets.
   Tell your healthcare provider if you cannot swallow trazodone either whole or as a half tablet.
-- If you take too much trazodone hydrochloride, call your doctor or go to the nearest emergency room right away.
+- If you take too much trazodone hydrochloride, call your healthcare provider, your Poison Control Center at 1-800-222-1222, or go to the nearest emergency room right away.
 
 What should I avoid while taking trazodone hydrochloride tablets?
 
@@ -125,45 +125,49 @@ What should I avoid while taking trazodone hydrochloride tablets?
 
 What are the possible side effects of trazodone hydrochloride tablets?
 
-Trazodone hydrochloride tablets can cause serious side effects or death.
-See “What is the most important information I should know about trazodone hydrochloride tablets?”
+Trazodone hydrochloride tablets can cause serious side effects or death, including:
 
-Serious side effects include:
+- See “What is the most important information I should know about trazodone hydrochloride tablets?”
 
 - Serotonin syndrome.
-  Symptoms of serotonin syndrome include: agitation, hallucinations, problems with coordination, fast heartbeat, tight muscles, trouble walking, nausea, vomiting, diarrhea.
-- Feeling high or in a very good mood, then becoming irritable, or having too much energy, feeling like you have to keep talking or do not sleep (mania).
-- Irregular or fast heartbeat or faint (QT prolongation).
+  Symptoms of serotonin syndrome include: agitation, hallucinations, problems with coordination, fast heartbeat, tight muscles, trouble walking, sweating, fever, nausea, vomiting, and diarrhea.
+- Irregular or fast heartbeat or faint (QT prolongation)
 - Low blood pressure.
-  You feel dizzy or faint when you change positions (go from sitting to standing).
-- Unusual bruising or bleeding.
-- Erection lasting for more than 6 hours (priapism).
-- Low sodium in your blood (hyponatremia).
-  Symptoms of hyponatremia include: headache, feeling weak, feeling confused, trouble concentrating, memory problems and feeling unsteady when you walk.
+  You feel dizzy or faint when you change positions (go from sitting to standing)
+- Unusual bruising or bleeding
+- Erection lasting for more than 6 hours (priapism)
+- Feeling high or in a very good mood, then becoming irritable, or having too much energy, feeling like you have to keep talking or do not sleep (mania).
 - Withdrawal symptoms.
   Symptoms of withdrawal can include anxiety, agitation, and sleep problems.
   Do not stop taking trazodone hydrochloride tablets without talking to your healthcare provider.
+- Visual problems.
+  - eye pain
+  - changes in vision
+  - swelling or redness in or around the eye Only some people are at risk for these problems.
+    You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+- Low sodium in your blood (hyponatremia).
+  Symptoms of hyponatremia include: headache, feeling weak, feeling confused, trouble concentrating, memory problems and feeling unsteady when you walk.
 
 Get medical help right away, if you have any of the symptoms listed above.
 
 The most common side effects of trazodone hydrochloride tablets include:
 
-- Sleepiness
-- Dizziness
-- Constipation
-- Blurry vision
-
-Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+- swelling
+- blurred vision
+- dizziness
+- sleepiness
+- tiredness
+- diarrhea
+- stuffy nose
+- weight loss
 
 These are not all the possible side effects of trazodone hydrochloride tablets.
-For more information, ask your healthcare provider or pharmacist.
-
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store trazodone hydrochloride tablets?
 
-- Store trazodone hydrochloride tablets between 20° to 25°C (68° to 77°F).
+- Store trazodone hydrochloride tablets between 20°C to 25°C (68°F to 77°F).
 - Keep in tight container
 - Keep out of the light
 - Safely throw away medicine that is out of date or no longer needed.
@@ -176,9 +180,6 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use trazodone hydrochloride tablets for a condition for which it was not prescribed.
 Do not give trazodone hydrochloride tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
-
-This Medication Guide summarizes the most important information about trazodone hydrochloride tablets.
-If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about trazodone hydrochloride tablets that is written for health professionals.
 
 For more information contact Apotex Corp., Drug Safety at 1-800-706-5575.
@@ -193,6 +194,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 APOTEX INC. TRAZODONE HYDROCHLORIDE TABLETS, USP 50 mg, 100 mg, 150 mg and 300 mg
 
-Manufactured by: Manufactured For: Apotex Inc. Apotex Corp. Toronto, Ontario Weston Florida 33326 Canada M9L 1T9
+| Manufactured by | Manufactured For |
+| --- | --- |
+| Apotex Inc. | Apotex Corp. |
+| Toronto, Ontario | Weston Florida |
+| Canada M9L 1T9 | 33326 |
 
-Revised: August 2014
+Revised: July 2017
