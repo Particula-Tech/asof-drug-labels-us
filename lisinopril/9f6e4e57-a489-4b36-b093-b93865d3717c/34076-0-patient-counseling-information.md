@@ -21,6 +21,8 @@ Leukopenia/Neutropenia: Tell patients to report promptly any indication of infec
 
 Manufactured for: Silvergate Pharmaceuticals, Inc. 6251 Greenwood Plaza Blvd., Suite 101 Greenwood Village, CO 80111
 
-LI-1607
+U.S. Patents 9463183; 9616096
 
-07/2016
+LI-1706
+
+07/2017
