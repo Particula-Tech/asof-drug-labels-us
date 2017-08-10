@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA206745"
+  ],
+  "inn": "entecavir",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "70771-1019-1",
+    "70771-1019-2",
+    "70771-1019-3",
+    "70771-1019-4",
+    "70771-1019-9",
+    "70771-1020-1",
+    "70771-1020-2",
+    "70771-1020-3",
+    "70771-1020-4",
+    "70771-1020-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "entecavir",
+      "name": "Entecavir"
+    }
+  ],
+  "setid": "0e3b2a0a-9076-4907-bbaf-eb6a65bb9481",
+  "source": "dailymed"
+}
