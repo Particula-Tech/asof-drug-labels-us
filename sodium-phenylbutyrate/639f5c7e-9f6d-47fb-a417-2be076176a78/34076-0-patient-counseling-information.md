@@ -107,7 +107,7 @@ Mfg. by:
 
 Par Formulations Private Limited,
 
-1/58, Pudupakkam, Kelambakkam - 603 103.
+9/215, Pudupakkam, Kelambakkam - 603 103.
 
 Made in India
 
@@ -117,4 +117,4 @@ No.: TN00002121
 
 OS006-01-74-01
 
-I06/16
+Issued: 06/2017
