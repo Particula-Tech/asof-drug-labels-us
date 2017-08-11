@@ -13,17 +13,17 @@ Reductions in HbA1C were observed across subgroups including age, gender, race, 
 A total of 1186 patients with type 2 diabetes inadequately controlled with diet and exercise participated in a 26-week double-blind, active-controlled, parallel-group, 5-arm, multicenter study to evaluate the efficacy and safety of initial therapy with canagliflozin in combination with metformin XR.
 The median age was 56 years, 48% of patients were men, and the mean baseline eGFR was 87.6 mL/min/1.73 m2.
 The median duration of diabetes was 1.6 years, and 72% of patients were treatment naïve.
-After completing a 2-week single-blind placebo run-in period, patients were randomly assigned for a double-blind treatment period of 26 weeks to 1 of 5 treatment groups (Table 9).
+After completing a 2-week single-blind placebo run-in period, patients were randomly assigned for a double-blind treatment period of 26 weeks to 1 of 5 treatment groups (Table 11).
 The metformin XR dose was initiated at 500 mg/day for the first week of treatment and then increased to 1000 mg/day.
 Metformin XR or matching placebo was up-titrated every 2–3 weeks during the next 8 weeks of treatment to a maximum daily dose of 1500 to 2000 mg/day, as tolerated; about 90% of patients reached 2000 mg/day.
 
 At the end of treatment, canagliflozin 100 mg and canagliflozin 300 mg in combination with metformin XR resulted in a statistically significant greater improvement in HbA1C compared to their respective canagliflozin doses (100 mg and 300 mg) alone or metformin XR alone.
 
-Table 9: Results from 26-Week Active-Controlled Clinical Study of Canagliflozin Alone or Canagliflozin as Initial Combination Therapy with MetforminIntent-to-treat population
+Table 11: Results from 26-Week Active-Controlled Clinical Study of Canagliflozin Alone or Canagliflozin as Initial Combination Therapy with MetforminIntent-to-treat population
 
-| Efficacy Parameter | Metformin XR (N=237) | Canagliflozin 100 mg (N=237) | Canagliflozin 300 mg (N=238) | Canagliflozin 100 mg + Metformin XR (N=237) | Canagliflozin 300 mg + Metformin XR (N=237) |
-| --- | --- | --- | --- | --- | --- |
 | HbA1C (%) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Efficacy Parameter | Metformin XR (N=237) | Canagliflozin 100 mg (N=237) | Canagliflozin 300 mg (N=238) | Canagliflozin 100 mg + Metformin XR (N=237) | Canagliflozin 300 mg + Metformin XR (N=237) |
 | Baseline (mean) | 8.81 | 8.78 | 8.77 | 8.83 | 8.90 |
 | Change from baseline (adjusted mean)There were 121 patients without week 26 efficacy data. Analyses addressing missing data gave consistent results with the results provided in this table. | -1.30 | -1.37 | -1.42 | -1.77 | -1.78 |
 | Difference from canagliflozin 100 mg (adjusted mean) (95% CI) Least squares mean adjusted for covariates including baseline value and stratification factor |  |  |  | -0.40Adjusted p=0.001 (-0.59, -0.21) |  |
@@ -40,10 +40,10 @@ Patients taking less than the required metformin dose or patients on metformin i
 After the placebo run-in period, patients were randomized to canagliflozin 100 mg, canagliflozin 300 mg, sitagliptin 100 mg, or placebo, administered once daily as add-on therapy to metformin.
 
 At the end of treatment, canagliflozin 100 mg and 300 mg once daily resulted in a statistically significant improvement in HbA1C (p<0.001 for both doses) compared to placebo when added to metformin.
-Canagliflozin 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reduction in fasting plasma glucose (FPG), in improved postprandial glucose (PPG), and in percent body weight reduction compared to placebo when added to metformin (see Table 10).
+Canagliflozin 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reduction in fasting plasma glucose (FPG), in improved postprandial glucose (PPG), and in percent body weight reduction compared to placebo when added to metformin (see Table 12).
 Statistically significant (p<0.001 for both doses) mean changes from baseline in systolic blood pressure relative to placebo were -5.4 mmHg and -6.6 mmHg with canagliflozin 100 mg and 300 mg, respectively.
 
-Table 10: Results from 26-Week Placebo-Controlled Clinical Study of Canagliflozin in Combination with MetforminIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 12: Results from 26-Week Placebo-Controlled Clinical Study of Canagliflozin in Combination with MetforminIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | Placebo + Metformin (N=183) | Canagliflozin 100 mg + Metformin (N=368) | Canagliflozin 300 mg + Metformin (N=367) |
 | --- | --- | --- | --- |
@@ -74,11 +74,11 @@ Patients tolerating maximally required metformin dose (N=928) were randomized af
 Other patients (N=522) were switched to metformin monotherapy (at doses described above) for at least 10 weeks, then completed a 2-week single-blind run-in period.
 After the 2-week run-in period, patients were randomized to canagliflozin 100 mg, canagliflozin 300 mg, or glimepiride (titration allowed throughout the 52-week study to 6 or 8 mg), administered once daily as add-on therapy to metformin.
 
-As shown in Table 11 and Figure 1, at the end of treatment, canagliflozin 100 mg provided similar reductions in HbA1C from baseline compared to glimepiride when added to metformin therapy.
+As shown in Table 13 and Figure 1, at the end of treatment, canagliflozin 100 mg provided similar reductions in HbA1C from baseline compared to glimepiride when added to metformin therapy.
 Canagliflozin 300 mg provided a greater reduction from baseline in HbA1C compared to glimepiride, and the relative treatment difference was -0.12% (95% CI: −0.22; −0.02).
-As shown in Table 11, treatment with canagliflozin 100 mg and 300 mg daily provided greater improvements in percent body weight change, relative to glimepiride.
+As shown in Table 13, treatment with canagliflozin 100 mg and 300 mg daily provided greater improvements in percent body weight change, relative to glimepiride.
 
-Table 11: Results from 52−Week Clinical Study Comparing Canagliflozin to Glimepiride in Combination with MetforminIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 13: Results from 52−Week Clinical Study Comparing Canagliflozin to Glimepiride in Combination with MetforminIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | Canagliflozin 100 mg + Metformin (N=483) | Canagliflozin 300 mg + Metformin (N=485) | Glimepiride (titrated) + Metformin (N=482) |
 | --- | --- | --- | --- |
@@ -107,9 +107,9 @@ Other patients (N=97) were required to be on a stable protocol-specified dose of
 Following the run-in period, patients were randomized to canagliflozin 100 mg, canagliflozin 300 mg, or placebo administered once daily as add-on to metformin and sulfonylurea.
 
 At the end of treatment, canagliflozin 100 mg and 300 mg once daily resulted in a statistically significant improvement in HbA1C (p<0.001 for both doses) compared to placebo when added to metformin and sulfonylurea.
-Canagliflozin 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7.0%, in a significant reduction in fasting plasma glucose (FPG), and in percent body weight reduction compared to placebo when added to metformin and sulfonylurea (see Table 12).
+Canagliflozin 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7.0%, in a significant reduction in fasting plasma glucose (FPG), and in percent body weight reduction compared to placebo when added to metformin and sulfonylurea (see Table 14).
 
-Table 12: Results from 26–Week Placebo-Controlled Clinical Study of Canagliflozin in Combination with Metformin and SulfonylureaIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 14: Results from 26−Week Placebo-Controlled Clinical Study of Canagliflozin in Combination with Metformin and SulfonylureaIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | Placebo + Metformin and Sulfonylurea (N=156) | Canagliflozin 100 mg + Metformin and Sulfonylurea (N=157) | Canagliflozin 300 mg + Metformin and Sulfonylurea (N=156) |
 | --- | --- | --- | --- |
@@ -135,11 +135,11 @@ Patients already on protocol-specified doses of metformin and sulfonylurea (N=71
 Other patients (N=39) were required to be on a stable protocol-specified dose of metformin and sulfonylurea for at least 8 weeks before entering the 2-week run-in period.
 Following the run-in period, patients were randomized to canagliflozin 300 mg or sitagliptin 100 mg as add-on to metformin and sulfonylurea.
 
-As shown in Table 13 and Figure 2, at the end of treatment, canagliflozin 300 mg provided greater HbA1C reduction compared to sitagliptin 100 mg when added to metformin and sulfonylurea (p<0.05).
+As shown in Table 15 and Figure 2, at the end of treatment, canagliflozin 300 mg provided greater HbA1C reduction compared to sitagliptin 100 mg when added to metformin and sulfonylurea (p<0.05).
 Canagliflozin 300 mg resulted in a mean percent change in body weight from baseline of -2.5% compared to +0.3% with sitagliptin 100 mg.
 A mean change in systolic blood pressure from baseline of -5.06 mmHg was observed with canagliflozin 300 mg compared to +0.85 mmHg with sitagliptin 100 mg.
 
-Table 13: Results from 52–Week Clinical Study Comparing Canagliflozin to Sitagliptin in Combination with Metformin and SulfonylureaIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 15: Results from 52−Week Clinical Study Comparing Canagliflozin to Sitagliptin in Combination with Metformin and SulfonylureaIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | Canagliflozin 300 mg + Metformin and Sulfonylurea (N=377) | Sitagliptin 100 mg + Metformin and Sulfonylurea (N=378) |
 | --- | --- | --- |
@@ -168,10 +168,10 @@ Other patients (N=181) were required to be on stable protocol-specified doses of
 Following the run-in period, patients were randomized to canagliflozin 100 mg, canagliflozin 300 mg, or placebo, administered once daily as add-on to metformin and pioglitazone.
 
 At the of end of treatment, canagliflozin 100 mg and 300 mg once daily resulted in a statistically significant improvement in HbA1C (p<0.001 for both doses) compared to placebo when added to metformin and pioglitazone.
-Canagliflozin 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reduction in fasting plasma glucose (FPG), and in percent body weight reduction compared to placebo when added to metformin and pioglitazone (see Table 14).
+Canagliflozin 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reduction in fasting plasma glucose (FPG), and in percent body weight reduction compared to placebo when added to metformin and pioglitazone (see Table 16).
 Statistically significant (p<0.05 for both doses) mean changes from baseline in systolic blood pressure relative to placebo were -4.1 mmHg and -3.5 mmHg with canagliflozin 100 mg and 300 mg, respectively.
 
-Table 14: Results from 26−Week Placebo-Controlled Clinical Study of Canagliflozin in Combination with Metformin and PioglitazoneIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 16: Results from 26−Week Placebo-Controlled Clinical Study of Canagliflozin in Combination with Metformin and PioglitazoneIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | Placebo + Metformin and Pioglitazone (N=115) | Canagliflozin 100 mg + Metformin and Pioglitazone (N=113) | Canagliflozin 300 mg + Metformin and Pioglitazone (N=114) |
 | --- | --- | --- | --- |
@@ -201,12 +201,12 @@ After the run-in period, patients were randomized to canagliflozin 100 mg, canag
 The mean daily insulin dose at baseline was 93 units, which was similar across treatment groups.
 
 At the of end of treatment, canagliflozin 100 mg and 300 mg once daily resulted in a statistically significant improvement in HbA1C (p<0.001 for both doses) compared to placebo when added to metformin and insulin.
-Canagliflozin 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reductions in fasting plasma glucose (FPG), and in percent body weight reductions compared to placebo (see Table 15).
+Canagliflozin 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reductions in fasting plasma glucose (FPG), and in percent body weight reductions compared to placebo (see Table 17).
 Statistically significant (p=0.023 for the 100 mg and p<0.001 for the 300 mg dose) mean change from baseline in systolic blood pressure relative to placebo was –3.5 mmHg and –6 mmHg with canagliflozin 100 mg and 300 mg, respectively.
 Fewer patients on canagliflozin in combination with metformin and insulin required glycemic rescue therapy: 3.6% of patients receiving canagliflozin 100 mg, 2.7% of patients receiving canagliflozin 300 mg, and 6.2% of patients receiving placebo.
-An increased incidence of hypoglycemia was observed in this study, which is consistent with the expected increase of hypoglycemia when an agent not associated with hypoglycemia is added to insulin [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+An increased incidence of hypoglycemia was observed in this study, which is consistent with the expected increase of hypoglycemia when an agent not associated with hypoglycemia is added to insulin [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
 
-Table 15: Results from 18−Week Placebo-Controlled Clinical Study of Canagliflozin in Combination with Metformin and Insulin ≥ 30 Units/DayIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 17: Results from 18−Week Placebo-Controlled Clinical Study of Canagliflozin in Combination with Metformin and Insulin ≥ 30 Units/DayIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | Placebo + Metformin + Insulin (N=145) | Canagliflozin 100 mg + Metformin + Insulin (N=139) | Canagliflozin 300 mg + Metformin + Insulin (N=148) |
 | --- | --- | --- | --- |

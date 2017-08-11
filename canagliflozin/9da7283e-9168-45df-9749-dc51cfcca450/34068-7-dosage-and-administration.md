@@ -10,13 +10,13 @@
 - In patients that require additional glycemic control that are taking a total daily dose of canagliflozin 100 mg, the INVOKAMET XR dose can be increased to canagliflozin 300 mg once daily [see Dosage Forms and Strengths (3) and Clinical Studies (14.1)].
 - The dose of metformin should be gradually escalated to reduce the gastrointestinal side effects due to metformin [see Dosage Forms and Strengths (3) and Clinical Studies (14.1)].
 - Patients taking an evening dose of metformin XR should skip their last dose before starting INVOKAMET XR the following morning.
-- In patients with volume depletion not previously treated with canagliflozin, correct this condition before initiating INVOKAMET XR [see Warnings and Precautions (5.2), Use in Specific Populations (8.5, 8.6), and Patient Counseling Information (17)].
+- In patients with volume depletion not previously treated with canagliflozin, correct this condition before initiating INVOKAMET XR [see Warnings and Precautions (5.3), Use in Specific Populations (8.5, 8.6), and Patient Counseling Information (17)].
 - Adjust dosing based on effectiveness and tolerability while not exceeding the maximum recommended daily dose of metformin 2000 mg and canagliflozin 300 mg in patients with an eGFR of 60 mL/min/1.73 m2 or greater [see Dosage and Administration (2.2)].
 
 ## 2.2 Recommended Dosage for Patients with Renal Impairment
 
 - Assess renal function before initiating INVOKAMET XR and periodically thereafter.
-- INVOKAMET XR is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 45 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.1, 5.3)].
+- INVOKAMET XR is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 45 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.1, 5.4)].
 - Limit the dose of INVOKAMET XR to two tablets, each tablet containing canagliflozin 50 mg, in patients with moderate renal impairment with an eGFR of 45 to less than 60 mL/min/1.73 m2.
 
 ## 2.3 Concomitant Use with UDP-Glucuronosyl Transferase (UGT) Enzyme Inducers

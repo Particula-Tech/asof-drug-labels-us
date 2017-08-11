@@ -16,7 +16,7 @@ Metformin
 
 Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in either patients with type 2 diabetes or normal patients except in special circumstances [see Warnings and Precautions (5.7)] and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in either patients with type 2 diabetes or normal patients except in special circumstances [see Warnings and Precautions (5.8)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -99,7 +99,7 @@ Canagliflozin
 Following administration of a single oral [14C] canagliflozin dose to healthy subjects, 41.5%, 7.0%, and 3.2% of the administered radioactive dose was recovered in feces as canagliflozin, a hydroxylated metabolite, and an O-glucuronide metabolite, respectively.
 Enterohepatic circulation of canagliflozin was negligible.
 
-Approximately 33% of the administered radioactive dose was excreted in urine, mainly as O–glucuronide metabolites (30.5%).
+Approximately 33% of the administered radioactive dose was excreted in urine, mainly as O−glucuronide metabolites (30.5%).
 Less than 1% of the dose was excreted as unchanged canagliflozin in urine.
 Renal clearance of canagliflozin 100 mg and 300 mg doses ranged from 1.30 to 1.55 mL/min.
 
@@ -125,13 +125,13 @@ A single-dose, open-label study evaluated the pharmacokinetics of canagliflozin 
 Renal impairment did not affect the Cmax of canagliflozin.
 Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m2, respectively) but was similar for ESRD (N=8) subjects and healthy subjects.
 Increases in canagliflozin AUC of this magnitude are not considered clinically relevant.
-The pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.4)].
+The pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.5)].
 
 Canagliflozin was negligibly removed by hemodialysis.
 
 Metformin
 
-Following a single dose administration of metformin extended-release 500 mg in patients with mild and moderate renal failure (based on measured creatinine clearance), the oral and renal clearance of metformin were decreased by 33% and 50% and 16% and 53%, respectively [see Warnings and Precautions (5.4)].
+Following a single dose administration of metformin extended-release 500 mg in patients with mild and moderate renal failure (based on measured creatinine clearance), the oral and renal clearance of metformin were decreased by 33% and 50% and 16% and 53%, respectively [see Warnings and Precautions (5.5)].
 Metformin peak and systemic exposure was 27% and 61% greater, respectively in mild renal impaired and 74% and 2.36-fold greater in moderate renal impaired patients as compared to healthy subjects.
 
 Hepatic Impairment
@@ -163,7 +163,7 @@ Geriatric
 
 INVOKAMET XR
 
-Studies characterizing the pharmacokinetics of canagliflozin and metformin after administration of INVOKAMET XR in geriatric patients have not been performed [see Warnings and Precautions (5.1, 5.4) and Use in Specific Populations (8.5)].
+Studies characterizing the pharmacokinetics of canagliflozin and metformin after administration of INVOKAMET XR in geriatric patients have not been performed [see Warnings and Precautions (5.1, 5.5) and Use in Specific Populations (8.5)].
 
 Canagliflozin
 
@@ -198,7 +198,7 @@ Canagliflozin is also a substrate of drug transporters P-glycoprotein (P-gp) and
 
 In Vivo Assessment of Drug Interactions
 
-Table 5: Effect of Co−Administered Drugs on Systemic Exposures of Canagliflozin
+Table 7: Effect of Co−Administered Drugs on Systemic Exposures of Canagliflozin
 
 | AUCAUCinf for drugs given as a single dose and AUC24h for drugs given as multiple doses (90% CI) | Cmax (90% CI) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -213,7 +213,7 @@ Table 5: Effect of Co−Administered Drugs on Systemic Exposures of Canagliflozi
 | Probenecid | 500 mg BID for 3 days | 300 mg QD for 17 days | 1.21 (1.16, 1.25) | 1.13 (1.00, 1.28) |
 | QD = once daily; BID = twice daily |  |  |  |  |
 
-Table 6: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
+Table 8: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 
 |  | AUCAUCinf for drugs given as a single dose and AUC24h for drugs given as multiple doses (90% CI) | Cmax (90% CI) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -221,7 +221,7 @@ Table 6: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 | See Drug Interactions (7.2) for the clinical relevance of the following: |  |  |  |  |  |
 | Digoxin | 0.5 mg QD first day followed by 0.25 mg QD for 6 days | 300 mg QD for 7 days | digoxin | 1.20 (1.12, 1.28) | 1.36 (1.21, 1.53) |
 | No dose adjustments of co-administered drug required for the following: |  |  |  |  |  |
-| Acetaminophen | 1,000 mg | 300 mg BID for 25 days | acetaminophen | 1.06AUC0–12h (0.98, 1.14) | 1.00 (0.92, 1.09) |
+| Acetaminophen | 1,000 mg | 300 mg BID for 25 days | acetaminophen | 1.06AUC0-12h (0.98, 1.14) | 1.00 (0.92, 1.09) |
 | Ethinyl estradiol and levonorgestrel | 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel | 200 mg QD for 6 days | ethinyl estradiol | 1.07 (0.99, 1.15) | 1.22 (1.10, 1.35) |
 | levonorgestrel | 1.06 (1.00, 1.13) | 1.22 (1.11, 1.35) |  |  |  |
 | Glyburide | 1.25 mg | 200 mg QD for 6 days | glyburide | 1.02 (0.98, 1.07) | 0.93 (0.85, 1.01) |
@@ -238,7 +238,7 @@ Table 6: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 
 Metformin
 
-Table 7: Effect of Co−Administered Drugs on Plasma Metformin Systemic Exposures
+Table 9: Effect of Co−Administered Drugs on Plasma Metformin Systemic Exposures
 
 | AUCAUC = AUC0–∞ | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -252,9 +252,9 @@ Table 7: Effect of Co−Administered Drugs on Plasma Metformin Systemic Exposure
 | Drugs that are eliminated by renal tubular secretion increase the accumulation of metformin [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | 1.40 | 1.61 |
 | Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
-| TopiramateHealthy volunteer study at steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours for 7 days. Study conducted to assess pharmacokinetics only | 100 mg | 500 mg | 1.25Steady state AUC0–12h. | 1.18 |
+| TopiramateHealthy volunteer study at steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours for 7 days. Study conducted to assess pharmacokinetics only | 100 mg | 500 mg | 1.25Steady state AUC0-12h. | 1.18 |
 
-Table 8: Effect of Metformin on Co–Administered Drug Systemic Exposures
+Table 10: Effect of Metformin on Co−Administered Drug Systemic Exposures
 
 | AUCAUC = AUC0–∞ | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
