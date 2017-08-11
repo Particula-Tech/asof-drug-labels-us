@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020648"
+  ],
+  "inn": "diazepam",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-650-20",
+    "68682-652-20",
+    "68682-655-20"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "diazepam",
+      "name": "Diazepam"
+    }
+  ],
+  "setid": "b1b2848b-b265-4f6f-9141-bf106dec0726",
+  "source": "dailymed"
+}
