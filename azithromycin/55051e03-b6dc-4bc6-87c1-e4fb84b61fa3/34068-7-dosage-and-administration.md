@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-[see Indications and Usage (1) and Clinical Pharmacology (12.3)]
+[See Indications and Usage (1) and Clinical Pharmacology (12.3)]
 
 ## 2.1 Community-Acquired Pneumonia
 

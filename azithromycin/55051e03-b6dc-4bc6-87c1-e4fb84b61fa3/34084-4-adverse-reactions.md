@@ -45,14 +45,13 @@ Genitourinary:Interstitial nephritis and acute renal failure and vaginitis.
 
 Hematopoietic:Thrombocytopenia.
 
-Liver/biliary:Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure.
-[see Warnings and Precautions (5.2)]
+Liver/biliary:Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure [see Warnings and Precautions (5.2)].
 
 Nervous system:Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope.
 
 Psychiatric:Aggressive reaction and anxiety.
 
-Skin/appendages:Pruritus, serious skin reactions including, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
+Skin/appendages:Pruritus, serious skin reactions including, erythema multiforme, AGEP, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
 
 Special senses:
 

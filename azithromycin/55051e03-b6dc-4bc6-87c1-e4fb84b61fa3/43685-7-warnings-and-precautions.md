@@ -2,8 +2,7 @@
 
 ## 5.1 Hypersensitivity
 
-Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens-Johnson Syndrome, and toxic epidermal necrolysis have been reported in patients on azithromycin therapy.
-[see Contraindications (4.1)]
+Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Acute Generalized Exanthematous Pustulosis (AGEP), Stevens-Johnson Syndrome, and toxic epidermal necrolysis have been reported in patients on azithromycin therapy [see Contraindications (4.1)].
 
 Fatalities have been reported.
 Cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have also been reported.
@@ -19,14 +18,19 @@ Physicians should be aware that the allergic symptoms may reappear after symptom
 Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure have been reported, some of which have resulted in death.
 Discontinue azithromycin immediately if signs and symptoms of hepatitis occur.
 
-## 5.3 QT Prolongation
+## 5.3 Infantile Hypertrophic Pyloric Stenosis (IHPS)
+
+Following the use of azithromycin in neonates (treatment up to 42 days of life), IHPS has been reported.
+Direct parents and caregivers to contact their physician if vomiting or irritability with feeding occurs.
+
+## 5.4 QT Prolongation
 
 Prolonged cardiac repolarization and QT interval, imparting a risk of developing cardiac arrhythmia and torsades de pointes, have been seen with treatment with macrolides, including azithromycin.
 Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving azithromycin.
 Providers should consider the risk of QT prolongation, which can be fatal when weighing the risks and benefits of azithromycin for at-risk groups including: • patients with known prolongation of the QT interval, a history of torsades de pointes, congenital long QT syndrome, bradyarrhythmias or uncompensated heart failure • patients on drugs known to prolong the QT interval • patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
 
-## 5.4 Clostridiumdifficile-Associated Diarrhea
+## 5.5 Clostridiumdifficile-Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including azithromycin for injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -39,19 +43,18 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.5 Exacerbation of Myasthenia Gravis
+## 5.6 Exacerbation of Myasthenia Gravis
 
 Exacerbations of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azitrhromycin therapy.
 
-## 5.6 Infusion Site Reactions
+## 5.7 Infusion Site Reactions
 
-Azithromycin for injection should be reconstituted and diluted as directed and administered as an intravenous infusion over not less than 60 minutes.
-[see Dosage and Administration (2)]
+Azithromycin for injection should be reconstituted and diluted as directed and administered as an intravenous infusion over not less than 60 minutes [seeDosage and Administration(2)].
 
 Local IV site reactions have been reported with the intravenous administration of azithromycin.
-The incidence and severity of these reactions were the same when 500 mg azithromycin was given over 1 hour (2 mg/mL as 250 mL infusion) or over 3 hr (1 mg/mL as 500 mL infusion) [see Adverse Reactions (6)].
-All volunteers who received infusate concentrations above 2 mg/mL experienced local IV site reactions and, therefore, higher concentrations should be avoided.
+The incidence and severity of these reactions were the same when 500 mg azithromycin was given over 1 hour (2 mg/mL as 250 mL infusion) or over 3 hr (1 mg/mL as 500 mL infusion) [seeAdverse Reactions(6)].
+All volunteers who received infusate concentrations above 2.0 mg/mL experienced local IV site reactions and, therefore, higher concentrations should be avoided.
 
-## 5.7 Development of Drug-Resistant Bacteria
+## 5.8 Development of Drug-Resistant Bacteria
 
 Prescribing azithromycin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
