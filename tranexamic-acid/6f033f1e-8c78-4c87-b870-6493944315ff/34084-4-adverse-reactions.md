@@ -5,7 +5,7 @@ Allergic dermatitis, giddiness, and hypotension have been reported occasionally.
 Hypotension has been observed when intravenous injection is too rapid.
 To avoid this response, the solution should not be injected more rapidly than 1 mL per minute.
 
-## Worldwide Post-Marketing Reports
+## Worldwide Postmarketing Reports
 
 Thromboembolic events (e.g., deep vein thrombosis, pulmonary embolism, cerebral thrombosis, acute renal cortical necrosis, and central retinal artery and vein obstruction) have been rarely reported in patients receiving tranexamic acid for indications other than hemorrhage prevention in patients with hemophilia.
 Convulsion, chromatopsia, and visual impairment have also been reported.

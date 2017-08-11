@@ -1,14 +1,14 @@
 # WARNINGS
 
-Focal areas of retinal degeneration have developed in cats, dogs, and rats following oral or intravenous tranexamic acid at doses between 250 to 1600 mg/kg/day (6 to 40 times the recommended usual human dose) from 6 days to one year.
-The incidence of such lesions has varied from 25% to 100% of animals treated and was dose related.
+Focal areas of retinal degeneration have developed in cats, dogs, and rats following oral or intravenous tranexamic acid at doses between 250 to 1600 mg/kg/day (6 to 40 times the recommended usual human dose) from 6 days to 1 year.
+The incidence of such lesions has varied from 25% to 100% of animals treated and was dose-related.
 At lower doses, some lesions have appeared to be reversible.
 
-Limited data in cats and rabbits showed retinal changes in some animals with doses as low as 126 mg/kg/day (only about 3 times the recommended human dose) administered for several days to 2 weeks.
+Limited data in cats and rabbits showed retinal changes in some animals with doses as low as 126 mg/kg/day (only about 3 times the recommended human dose) administered for several days to two weeks.
 
 No retinal changes have been reported or noted in eye examinations in patients treated with tranexamic acid for weeks to months in clinical trials.
 
-However, visual abnormalities, often poorly characterized, represent the most frequently reported post-marketing adverse reaction in Sweden.
+However, visual abnormalities, often poorly characterized, represent the most frequently reported postmarketing adverse reaction in Sweden.
 For patients who are to be treated continually for longer than several days, an ophthalmological examination, including visual acuity, color vision, eye-ground, and visual fields, is advised, before commencing and at regular intervals during the course of treatment.
 Tranexamic acid should be discontinued if changes in examination results are found.
 
@@ -54,7 +54,7 @@ There are no clinical data to assess the effects of tranexamic acid on fertility
 
 Reproduction studies performed in mice, rats, and rabbits have not revealed any evidence of impaired fertility or adverse effects on the fetus due to tranexamic acid.
 
-There are no adequate and well controlled studies in pregnant women.
+There are no adequate and well-controlled studies in pregnant women.
 However, tranexamic acid is known to pass the placenta and appears in cord blood at concentrations approximately equal to maternal concentration.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
