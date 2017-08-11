@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA206961"
+  ],
+  "inn": "isoproterenol",
+  "labeler": "Nexus Pharmaceuticals Inc",
+  "package_ndcs": [
+    "14789-011-01",
+    "14789-011-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "isoproterenol hydrochloride",
+      "name": "Isoproterenol Hydrochloride"
+    }
+  ],
+  "setid": "dfb97590-dcbf-47e7-bbfe-f01580eb6ed0",
+  "source": "dailymed"
+}
