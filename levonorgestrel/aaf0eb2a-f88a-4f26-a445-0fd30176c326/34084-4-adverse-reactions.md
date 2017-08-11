@@ -15,11 +15,11 @@ The following serious or otherwise important adverse reactions are discussed els
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure of 1,751 generally healthy 16- to 45-year-old women to LILETTA in a large, multi-center contraceptive trial conducted in the US, including 1,412 exposed for 1 year and 383 subjects who completed 3 years of use; 58% were nulliparous (mean age 25.1 ± 4.3 years) and 42% were parous (mean age 30.3 ± 6.1 years).
+The data described below reflect exposure of 1,751 generally healthy 16- to 45-year-old women to LILETTA in a large, multi-center contraceptive trial conducted in the US, including 1,409 exposed for 1 year and 837 subjects who completed 4 years of use; 58% were nulliparous (mean age 25.1 ± 4.3 years) and 42% were parous (mean age 30.3 ± 6.1 years).
 Most women who received LILETTA were Caucasian (78.4%) or Black/African American (13.3%); 14.7% of women were of Hispanic ethnicity.
 The clinical trial had no upper or lower weight or BMI limit.
-Mean BMI of LILETTA subjects was 26.9 kg/m2 (range 15.8 – 61.6 kg/m2); 25.1% had a BMI ≥ 30 kg/m2, and 5.3% had a BMI ≥ 40 kg/m2.
-The data cover more than 22,000 28-day cycles of LILETTA exposure.
+Mean BMI of LILETTA subjects was 26.9 kg/m2 (range 15.8 – 61.6 kg/m2); 25.1% had a BMI ≥ 30 kg/m2 of which 5.3% had a BMI ≥ 40 kg/m2.
+The data cover more than 59,000 28-day cycles of LILETTA exposure.
 The frequencies of reported adverse drug reactions represent crude incidences.
 
 The most common adverse reactions during the LILETTA clinical trial (occurring in ≥ 5% of users) are shown in Table 3.
@@ -28,24 +28,29 @@ Table 3: Adverse Reactions in ≥ 5% of LILETTA Users in Phase 3 Clinical Study
 
 | System Organ Class/Preferred Term | % LILETTA Subjects (N = 1,751) |
 | --- | --- |
-| Vaginal infections | 13.6% |
-| Vulvovaginal infections | 13.3% |
-| Acne | 12.3% |
-| Headache or migraine | 9.8% |
-| Nausea or vomiting | 7.9% |
-| Dyspareunia | 7.0% |
-| Abdominal discomfort or pain | 6.8% |
-| Breast tenderness or pain | 6.7% |
-| Pelvic discomfort or pain | 6.1% |
-| Depression or depressed mood | 5.4% |
-| Mood changes | 5.2% |
+| Vaginal bacterial infections | 17.9% |
+| Vulvovaginal mycotic infections | 17.9% |
+| Acne | 14.5% |
+| Nausea or vomiting | 9.4% |
+| Dyspareunia | 8.8% |
+| Headache | 8.7% |
+| Breast tenderness or pain | 8.0% |
+| Pelvic discomfort or pain | 7.9% |
+| Anxiety | 7.6% |
+| Abdominal discomfort or pain | 7.4% |
+| Depression | 6.4% |
+| Weight increased | 5.6% |
+| Dysmenorrhea | 5.6% |
+| Mood changes | 5.5% |
+| Vaginal discharge | 5.3% |
+| Back pain | 5.2% |
 
-In the contraceptive trial, 12.3% of LILETTA users discontinued prematurely due to an adverse reaction.
-The most common adverse reaction leading to discontinuation was expulsion (3.5%), bleeding complaints (a total of 1.5%).
-The next most common adverse reactions causing discontinuation were acne (1.3%), mood swings (1.3%), dysmenorrhea (0.6%), and uterine spasm (0.6%).
-Two women discontinued the clinical study due to PID and one due to endometritis.
+In the contraceptive trial, 18.3% of LILETTA users discontinued prematurely due to an adverse reaction.
+The most common adverse reactions leading to discontinuation were expulsion (3.7%) and bleeding complaints (2.2%).
+The next most common adverse reactions causing discontinuation were acne (1.4%), dysmenorrhea (1.0%), weight increased (1.0%), mood swings (0.8%), uterine spasm (0.7%) and pelvic pain (0.6%).
+One woman discontinued the clinical study due to PID and one due to endometritis.
 
-In the clinical trial, serious adverse reactions included: suicidality and exacerbations of depression and bipolar disorder, ectopic pregnancy, ovarian cysts, and IUS perforation requiring a laparoscopic surgery.
+In the clinical trial, serious adverse reactions considered related or possibly related to LILETTA were ectopic pregnancies, ovarian cysts, and IUS perforation requiring a laparoscopic surgery.
 
 ## 6.2 Postmarketing Experience
 

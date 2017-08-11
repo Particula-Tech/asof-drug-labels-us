@@ -2,16 +2,4 @@
 
 The use of LILETTA is contraindicated when one or more of the following conditions exist:
 
-- Pregnancy or suspected pregnancy
-- For use as post-coital contraception (emergency contraception)
-- Congenital or acquired uterine anomaly, including fibroids, that distorts the uterine cavity
-- Acute pelvic inflammatory disease (PID) or a history of PID unless there has been a subsequent intrauterine pregnancy
-- Postpartum endometritis or infected abortion in the past 3 months
-- Known or suspected uterine or cervical neoplasia
-- Known or suspected breast cancer or other progestin-sensitive cancer, now or in the past
-- Uterine bleeding of unknown etiology
-- Untreated acute cervicitis or vaginitis, including bacterial vaginosis, known chlamydial or gonococcal cervical infection, or other lower genital tract infections until infection is controlled
-- Acute liver disease or liver tumor (benign or malignant)
-- Conditions associated with increased susceptibility to pelvic infections [see Warnings and Precautions (5.4)]
-- A previously inserted IUS that has not been removed
-- Hypersensitivity to any component of LILETTA [see Adverse Reactions (6.2)]
+• Pregnancy or suspected pregnancy • For use as post-coital contraception (emergency contraception) • Congenital or acquired uterine anomaly, including fibroids, that distorts the uterine cavity and would be incompatible with correct IUS placement • Acute pelvic inflammatory disease (PID) or endometritis or a history of PID unless there has been a subsequent intrauterine pregnancy • Infected abortion in the past 3 months • Known or suspected uterine or cervical neoplasia • Known or suspected breast cancer or other hormone-sensitive cancer, now or in the past • Uterine bleeding of unknown etiology • Untreated acute cervicitis or vaginitis, including bacterial vaginosis, known chlamydial or gonococcal cervical infection, or other lower genital tract infections until infection is controlled • Acute liver disease or liver tumor (benign or malignant) • Conditions associated with increased susceptibility to pelvic infections [see Warnings and Precautions (5.4)] • A previously inserted IUS that has not been removed • Hypersensitivity to any component of LILETTA [see Adverse Reactions (6.2)]

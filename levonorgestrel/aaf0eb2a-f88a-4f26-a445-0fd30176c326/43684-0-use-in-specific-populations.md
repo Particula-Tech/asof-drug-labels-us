@@ -8,6 +8,7 @@ LILETTA is contraindicated for use in pregnant women because there is no need fo
 If a woman becomes pregnant with LILETTA in place, there is an increased risk of miscarriage, sepsis, premature labor, and premature delivery.
 Published studies report no harmful effects on fetal development associated with long-term use of contraceptive doses of oral progestins in a pregnant woman.
 The background risk in the U.S. general population of major birth defects is 2-4% and of miscarriage is 15-20% of clinically recognized pregnancies.
+Animal reproduction studies have not been conducted with LILETTA.
 Advise a woman of the potential risks if pregnancy occurs with LILETTA in place.
 
 ## 8.2 Lactation

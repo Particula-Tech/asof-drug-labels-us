@@ -7,7 +7,7 @@ Studies of LNG-releasing IUSs suggest several mechanisms for pregnancy preventio
 
 ## 12.2 Pharmacodynamics
 
-LILETTA has mainly local progestogenic effects in the uterine cavity and cervix.
+LILETTA has mainly local progestogenic effects in the uterine cavity.
 High local concentrations of LNG lead to morphological changes including stromal pseudodecidualization, glandular atrophy, a leukocytic infiltration, and a decrease in glandular and stromal mitoses.
 Changes in the uterine endometrium may lead to alterations in the menstrual bleeding pattern [see Warnings and Precautions (5.8)].
 
@@ -18,16 +18,16 @@ In clinical trials with other LNG-releasing IUSs, ovulation was inhibited in som
 Absorption
 
 Low doses of LNG are administered into the uterine cavity with the LILETTA intrauterine delivery system.
-The initial in vivo release rate is 18.6 mcg/day and decreases to 16.3 mcg/day at 1 year, 14.3 mcg/day at 2 years, and 12.6 mcg/day after 3 years.
+The initial in vivo release rate is 19.5 mcg/day and decreases to 17.0 mcg/day at 1 year, 14.8 mcg/day at 2 years, 12.9 mcg/day at 3 years and 11.3 at 4 years.
 
-In the phase 3 study, systemic LNG concentrations were assessed in a subset of subjects through Month 30 and in all subjects at Month 36.
+In the phase 3 study, systemic LNG concentrations were assessed in a subset of subjects through Month 30 and in all subjects at Month 36 and after.
 Plasma LNG concentrations following insertion of LILETTA are shown in Table 4.
 
 Table 4: Plasma LNG Concentrations (mean ± SD, pg/mL) Following LILETTA Insertion
 
-| Initial (7 days) (N = 40) | 6 Months (N = 36) | 12 Months (N = 33) | 24 Months (N = 29) | 30 Months (N = 9) | 36 Months (N = 243) |
+| 7 Days (N = 40) | 6 Months (N = 36) | 12 Months (N = 33) | 24 Months (N = 30) | 36 Months (N = 787) | 48 Months (N = 302) |
 | --- | --- | --- | --- | --- | --- |
-| 252 ± 123 | 195 ± 69 | 170 ± 50 | 147 ± 46 | 133 ± 28 | 135 ± 51 |
+| 252 ± 123 | 195 ± 68 | 168 ± 51 | 150 ± 47 | 134 ± 55 | 134 ± 61 |
 
 Distribution
 
@@ -50,9 +50,9 @@ The elimination half-life of LNG after a single oral administration is approxima
 Specific Populations
 
 Pediatric: Safety and efficacy of LILETTA have been established in females of reproductive age.
-The LILETTA clinical trial included 11 subjects aged 16 to 17 years; no pregnancies occurred in these subjects.
+The LILETTA clinical trial included 11 subjects aged 16 to 17 years; no pregnancies occurred in these subjects through 4 years of use of LILETTA.
 
-Race: The LILETTA clinical trial included 199 (13%) Black/African American subjects and 226 (15%) subjects of Hispanic ethnicity.
+Race: The effect of race on plasma LNG concentrations after LILETTA insertion was assessed in 629 (80%) White subjects, 94 (12%) Black subjects, 34 (4%) Asian subjects, 8 (1%) American Indian/Alaska Native subjects, 17 (2%) multiple-race subjects.
 Race does not appear to affect LNG concentrations following LILETTA insertion.
 
 Obesity: The LILETTA clinical trial included overweight (24%), obese (24%), and morbidly obese (5%) women.
