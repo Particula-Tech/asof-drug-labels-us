@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA208605"
+  ],
+  "inn": "telmisartan",
+  "labeler": "Cadila Pharmaceuticals Limited",
+  "package_ndcs": [
+    "71209-049-16",
+    "71209-049-18",
+    "71209-050-16",
+    "71209-050-18",
+    "71209-051-16",
+    "71209-051-18"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "telmisartan",
+      "name": "Telmisartan"
+    }
+  ],
+  "setid": "353fcb30-2fa7-4ff1-8a18-26f3ec279d00",
+  "source": "dailymed"
+}
