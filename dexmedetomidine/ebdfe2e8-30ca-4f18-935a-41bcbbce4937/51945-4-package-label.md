@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL - 200 mcg*/2 mL
 
 NDC 67457-251-02
 
-Dexmedetomidine Hydrochloride Injection 200 mcg*/2 mL(100 mcg/mL)Dexmedetomidine
+Dexmedetomidine Hydrochloride Injection 200 mcg*/2 mL (100 mcg/mL)Dexmedetomidine
 
 For Intravenous Infusion Only
 
@@ -24,7 +24,7 @@ Store at 20° to 25°C (68° to 77°F).
 
 Discard unused portion.
 
-MI:251:25C:R3
+MI:251:25C:R4
 
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
