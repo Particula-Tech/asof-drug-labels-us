@@ -22,9 +22,7 @@ Table 4: Outcome Events in the CURE Primary Analysis
 | --- | --- | --- | --- |
 | Primary outcome (Cardiovascular death, MI, stroke) | 582 (9.3%) | 719 (11.4%) | 20% (10.3, 27.9) p < 0.001 |
 | All Individual Outcome Events: The individual components do not represent a breakdown of the primary and co-primary outcomes, but rather the total number of subjects experiencing an event during the course of the study. |  |  |  |
-| CV death | 318 (5.1%) | 345 (5.5%) | 7% (-7.7, 20.6) |
-| MI | 324 (5.2%) | 419 (6.6%) | 23% (11.0, 33.4) |
-| Stroke | 75 (1.2%) | 87 (1.4%) | 14% (-17.7, 36.6) |
+| CV death MI Stroke | 318 (5.1%)324 (5.2%)75 (1.2%) | 345 (5.5%)419 (6.6%)87 (1.4%) | 7% (-7.7, 20.6)23% (11.0, 33.4)14% (-17.7, 36.6) |
 
 Most of the benefit of clopidogrel occurred in the first two months, but the difference from placebo was maintained throughout the course of the trial (up to 12 months) (see Figure 2).
 
@@ -92,7 +90,7 @@ The overall relative risk reduction (9.8% vs. 10.6%) was 8.7%, p = 0.045.
 Similar results were obtained when all-cause mortality and all-cause strokes were counted instead of vascular mortality and ischemic strokes (risk reduction 6.9%).
 In patients who survived an on-study stroke or myocardial infarction, the incidence of subsequent events was lower in the clopidogrel group.
 
-The curves showing the overall event rate are shown in Figure 8.
+The curves showing the overall event rate are shown in Figure 7.
 The event curves separated early and continued to diverge over the 3-year follow-up period.
 
 The statistical significance favoring clopidogrel over aspirin was marginal (p = 0.045).

@@ -2,9 +2,7 @@
 
 Advise patients to read FDA approved patient labeling (Medication Guide).
 
-Discontinuation
-
-Advise patients not to discontinue clopidogrel without first discussing it with the health care provider who prescribed it [see Warnings and Precautions (5.3)].
+Discontinuation Advise patients not to discontinue clopidogrel without first discussing it with the healthcare provider who prescribed it [see Warnings and Precautions (5.3)].
 
 Bleeding
 
@@ -31,4 +29,4 @@ Manufactured In Israel By: Teva Pharmaceutical Ind.
 Ltd. Jerusalem, 9777402, Israel Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-H 9/2016
+I 7/2017
