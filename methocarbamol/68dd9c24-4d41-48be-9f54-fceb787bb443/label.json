@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA207522"
+  ],
+  "inn": "methocarbamol",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-101-01",
+    "70069-101-05",
+    "70069-101-10",
+    "70069-101-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "methocarbamol",
+      "name": "Methocarbamol"
+    }
+  ],
+  "setid": "68dd9c24-4d41-48be-9f54-fceb787bb443",
+  "source": "dailymed"
+}
