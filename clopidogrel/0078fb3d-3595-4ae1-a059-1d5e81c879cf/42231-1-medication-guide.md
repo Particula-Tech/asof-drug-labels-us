@@ -11,7 +11,7 @@ This Medication Guide does not take the place of talking with your doctor about 
 What is the most important information I should know about clopidogrel tablets?
 
 1.
-Clopidogrel tabletsmay not work as well in people who:
+Clopidogrel tablets may not work as well in people who:
 
 - have certain genetic factors that affect how the body breaks down clopidogrel tablets.
   Your doctor may do genetic tests to make sure clopidogrel tablets are right for you.
@@ -19,7 +19,7 @@ Clopidogrel tabletsmay not work as well in people who:
   Your doctor may change the medicine you take for stomach acid problems while you take clopidogrel tablets.
 
 2.
-Clopidogrel tabletscan cause bleeding which can be serious and can sometimes lead to death.
+Clopidogrel tablets can cause bleeding which can be serious and can sometimes lead to death.
 Clopidogrel tablets are a blood thinner medicine that lowers the chance of blood clots forming in your body.
 While you take clopidogrel tablets:
 
@@ -115,7 +115,7 @@ How should I take clopidogrel tablets?
 
 What are the possible side effects of clopidogrel tablets?
 
-Clopidogrel tabletscan cause serious side effects including:
+Clopidogrel tablets can cause serious side effects including:
 
 - See “What is the most important information I should know about clopidogrel tablets?”
 - A blood clotting problem called Thrombotic Thrombocytopenic Purpura (TTP).
@@ -152,14 +152,14 @@ How should I store clopidogrel tablets?
 
 - Store clopidogrel tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
-Keep clopidogrel tabletsand all medicines out of the reach of children.
+Keep clopidogrel tablets and all medicines out of the reach of children.
 
 General information about clopidogrel tablets
 
 Medicines are some times used for purposes other than those listed in a Medication Guide.
 Do not take clopidogrel tablets for a condition for which it was not prescribed.
 Do not give clopidogrel tablets to other people, even if they have the same symptoms that you have.
-They may harm them.
+It may harm them.
 
 This Medication Guide summarizes the most important information about clopidogrel tablets.
 If you would like more information, talk to your doctor.
@@ -179,5 +179,5 @@ Dispense with Medication Guide available at: www.aurobindousa.com/product-medica
 
 Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 Prilosec® and Nexium® are registered trademarks of AstraZeneca.
-Jantoven® is a registered trademark of USL Pharma.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 11/2016
+Prandin® is a registered trademark of Novo Nordisk Inc. Jantoven® is a registered trademark of USL Pharma.
+Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 08/2017

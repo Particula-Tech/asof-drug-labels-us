@@ -1,7 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise patients to read FDA approved patient labeling (Medication Guide).
-Discontinuation Advise patients not to discontinue clopidogrel bisulfate without first discussing it with the health care provider who prescribed it [see Warnings and Precautions (5.3)].
+Discontinuation Advise patients not to discontinue clopidogrel bisulfate without first discussing it with the healthcare provider who prescribed it [see Warnings and Precautions (5.3)].
 Bleeding Advise patients that they:
 
 - will bruise and bleed more easily
