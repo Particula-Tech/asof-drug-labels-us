@@ -6,7 +6,7 @@ These symptoms occur in some persons receiving therapeutic doses of epinephrine,
 Due to the lack of randomized, controlled clinical trials of epinephrine for the treatment of anaphylaxis, the true incidence of adverse reactions associated with the systemic use of epinephrine is difficult to determine.
 Adverse reactions reported in observational trials, case reports, and studies are listed below by body system:
 
-Cardiovascular: angina, arrhythmias, hypertension, pallor, palpitations, tachyarrhythmia, tachycardia, vasoconstriction, and ventricular ectopy.
+Cardiovascular: angina, arrhythmias, hypertension, pallor, palpitations, tachyarrhythmia, tachycardia, vasoconstriction, ventricular ectopy and stress cardiomyopathy.
 
 Angina may occur in patients with coronary artery disease [see Warnings and Precautions (5.3)].
 
@@ -37,4 +37,4 @@ Rare cases of serious skin and soft tissue infections, including necrotizing fas
 
 Skin: sweating.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Par Pharmaceutical, Inc. at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Par Pharmaceutical at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

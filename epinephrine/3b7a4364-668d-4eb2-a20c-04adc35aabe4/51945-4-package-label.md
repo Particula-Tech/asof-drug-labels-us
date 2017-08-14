@@ -6,9 +6,9 @@ Adrenalin® (epinephrine injection, USP)
 
 1 mg/mL
 
-1:1000
+NOT for Ophthalmic Use
 
-1 mL Solution in a 3 mL Single-Use Vial
+1 mL Single-Use Vial
 
 PRINCIPAL DISPLAY PANEL - 30 mL Vial Label
 
@@ -18,10 +18,10 @@ Adrenalin® (epinephrine injection, USP)
 
 1 mg/mL
 
-(30 mg/30 mL) 1:1000
+(30 mg/30 mL)
 
 For Intramuscular or Subcutaneous Use
 
-Not for Ophthalmic Use
+NOT for Ophthalmic Use
 
 30 mL Multiple Dose Vial
