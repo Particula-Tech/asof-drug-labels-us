@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA207793"
+  ],
+  "inn": "irinotecan",
+  "labeler": "Ipsen Biopharmaceuticals, Inc.",
+  "package_ndcs": [
+    "15054-0043-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "irinotecan hydrochloride",
+      "name": "Onivyde"
+    }
+  ],
+  "setid": "c8b58efa-1820-48a4-b70d-62918fc4abfc",
+  "source": "dailymed"
+}
