@@ -189,8 +189,6 @@ Medroxyprogesterone acetate at high doses is an antifertility drug and high dose
 
 ## E. Pregnancy
 
-### Pregnancy Category X
-
 PROVERA should not be used during pregnancy.
 (See CONTRAINDICATIONS.)
 
