@@ -26,7 +26,7 @@ During clinical investigations with oral and parenteral CIPRO, 49,038 patients r
 
 The most frequently reported adverse reactions, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1%), and rash (1%).
 
-Table 6: Medically Important Adverse Reactions That Occurred In less than 1% of Ciprofloxacin Patients
+Table 8: Medically Important Adverse Reactions That Occurred In less than 1% of Ciprofloxacin Patients
 
 | System Organ Class | Adverse Reactions |
 | --- | --- |
@@ -56,21 +56,21 @@ All musculoskeletal adverse reactions occurring by 6 weeks resolved (clinical re
 Radiological evaluations were not routinely used to confirm resolution of the adverse reactions.
 Ciprofloxacin-treated patients were more likely to report more than one adverse reaction and on more than one occasion compared to control patients.
 The rate of musculoskeletal adverse reactions was consistently higher in the ciprofloxacin group compared to the control group across all age subgroups.
-At the end of 1 year, the rate of these adverse reactions reported at any time during that period was 13.7% (46/335) in the ciprofloxacin-treated group versus 9.5% (33/349) in the comparator-treated patients (Table 7).
+At the end of 1 year, the rate of these adverse reactions reported at any time during that period was 13.7% (46/335) in the ciprofloxacin-treated group versus 9.5% (33/349) in the comparator-treated patients (Table 9).
 
-Table 7: Musculoskeletal Adverse Reactions1 as Assessed by the IPSC
+Table 9: Musculoskeletal Adverse Reactions1 as Assessed by the IPSC
 
-|  | CIPRO | Comparator |  |
-| --- | --- | --- | --- |
-| All Patients (within 6 weeks) | 31/335 (9.3%) | 21/349 (6%) |  |
-| 95% Confidence Interval2 | (-0.8%, +7.2%) |  |  |
-| Age Group |  |  |  |
-| 12 months < 24 months | 1/36 (2.8%) | 0/41 |  |
-| 2 years < 6 years | 5/124 (4%) | 3/118 (2.5%) |  |
-| 6 years < 12 years | 18/143 (12.6%) | 12/153 (7.8%) |  |
-| 12 years to 17 years | 7/32 (21.9%) | 6/37 (16.2 %) |  |
-| All Patients (within 1 year) | 46/335 (13.7%) | 33/349 (9.5%) |  |
-| 95% Confidence Interval1 | (-0.6%, + 9.1%) |  |  |
+|  | CIPRO | Comparator |
+| --- | --- | --- |
+| All Patients (within 6 weeks) | 31/335 (9.3%) | 21/349 (6%) |
+| 95% Confidence Interval2 | (-0.8%, +7.2%) |  |
+| Age Group |  |  |
+| 12 months < 24 months | 1/36 (2.8%) | 0/41 |
+| 2 years < 6 years | 5/124 (4%) | 3/118 (2.5%) |
+| 6 years < 12 years | 18/143 (12.6%) | 12/153 (7.8%) |
+| 12 years to 17 years | 7/32 (21.9%) | 6/37 (16.2 %) |
+| All Patients (within 1 year) | 46/335 (13.7%) | 33/349 (9.5%) |
+| 95% Confidence Interval1 | (-0.6%, + 9.1%) |  |
 
 The incidence rates of neurological adverse reactions within 6 weeks of treatment initiation were 3% (9/335) in the CIPRO group versus 2% (7/349) in the comparator group and included dizziness, nervousness, insomnia, and somnolence.
 
@@ -95,9 +95,9 @@ In addition to the adverse reactions reported in pediatric patients in clinical 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported from worldwide marketing experience with fluoroquinolones, including CIPRO.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 8).
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 10).
 
-Table 8: Postmarketing Reports of Adverse Drug Reactions
+Table 10: Postmarketing Reports of Adverse Drug Reactions
 
 | System Organ Class | Adverse Reactions |
 | --- | --- |

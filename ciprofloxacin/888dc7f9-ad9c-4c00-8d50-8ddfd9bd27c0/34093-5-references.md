@@ -16,10 +16,10 @@
    Clinical and Laboratory Standards Institute, 950 West Valley Rd., Suite 2500, Wayne, PA.
    19087- 1898.
 6. 6.Clinical and Laboratory Standards Institute (CLSI).
-   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-sixth Informational Supplement.
-   CLSI Document M100 S26 [2016].
+   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-seventh Informational Supplement.
+   CLSI Document M100 S27 [2017].
    Clinical and Laboratory Standards Institute, 950 West Valley Rd., Suite 2500, Wayne, PA.
-   19087- 1898.
+   19087- 1898
 7. 7.Clinical and Laboratory Standards Institute (CLSI).
    Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline–Third Edition.
    CLSI Document M45-A3 [2016].

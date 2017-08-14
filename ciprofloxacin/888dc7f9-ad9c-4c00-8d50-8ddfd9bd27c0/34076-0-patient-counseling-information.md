@@ -54,10 +54,10 @@ Administration Instructions
 
 Instruct the Patient
 
-- •Toshake CIPRO Oral Suspension vigorously each time before use for approximately 15 seconds.
-- •To always use the graduated measuring spoon to obtain the exact dose.
-- •Not to chew the microcapsules, but to swallow them.
-- •That water may be taken afterwards.
+- •To shake CIPRO Oral Suspension vigorously each time before use for approximately 15 seconds.
+- •To always use the co-packaged graduated measuring spoon with markings for 1/2 (2.5 mL) and 1/1 (5 mL), to obtain the exact dose.
+- •After use, the graduated measuring spoon should be cleaned under running water with dish detergent and dried thoroughly.
+- •Not to chew the microcapsules, but to swallow them whole.
 - •Reclose the bottle properly after each use according to instructions on the cap.
 - •After treatment has been completed, CIPRO Oral Suspension should not be reused.
 

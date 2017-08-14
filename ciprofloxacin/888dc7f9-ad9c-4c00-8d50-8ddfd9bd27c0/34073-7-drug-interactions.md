@@ -3,7 +3,7 @@
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
 Co-administration of CIPRO with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug.
 
-Table 9: Drugs That are Affected by and Affecting CIPRO
+Table 11: Drugs That are Affected by and Affecting CIPRO
 
 | Drugs That are Affected by CIPRO |  |  |
 | --- | --- | --- |
@@ -22,6 +22,7 @@ Table 9: Drugs That are Affected by and Affecting CIPRO
 | Sildenafil | Use with cautionTwo-fold increase in exposure | Monitor for sildenafil toxicity [see Clinical Pharmacology (12.3)]. |
 | Duloxetine | Avoid UseFive-fold increase in duloxetine exposure | If unavoidable, monitor for duloxetine toxicity |
 | Caffeine/Xanthine Derivatives | Use with cautionReduced clearance resulting in elevated levels and prolongation of serum half-life | CIPRO inhibits the formation of paraxanthine after caffeine administration (or pentoxifylline containing products). Monitor for xanthine toxicity and adjust dose as necessary. |
+| Zolpidem | Avoid Use | Co-administration with ciprofloxacin may increase blood levels of zolpidem, concurrent use is not recommended |
 | Drug(s) Affecting Pharmacokinetics of CIPRO |  |  |
 | Antacids, Sucralfate, Multivitamins and Other Products Containing Multivalent Cations (magnesium/aluminum antacids; polymeric phosphate binders (for example, sevelamer, lanthanum carbonate); sucralfate; Videx® (didanosine) chewable/buffered tablets or pediatric powder; other highly buffered drugs; or products containing calcium, iron, or zinc and dairy products) | CIPRO should be taken at least two hours before or six hours after Multivalent cation-containing products administration [see Dosage and Administration (2.4)]. | Decrease CIPRO absorption, resulting in lower serum and urine levels |
 | Probenecid | Use with caution(interferes with renal tubular secretion of CIPRO and increases CIPRO serum levels) | Potentiation of CIPRO toxicity may occur. |

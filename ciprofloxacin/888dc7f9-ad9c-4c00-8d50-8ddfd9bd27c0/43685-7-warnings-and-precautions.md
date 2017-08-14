@@ -131,7 +131,7 @@ Prescribing CIPRO Tablets and CIPRO Oral Suspension in the absence of a proven o
 ## 5.15 Potential Risks with Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
 
 CIPRO is an inhibitor of the hepatic CYP1A2 enzyme pathway.
-Co-administration of CIPRO and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine) results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Co-administration of CIPRO and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine and zolpidem) results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 ## 5.16 Interference with Timely Diagnosis of Syphilis
 

@@ -32,7 +32,7 @@ Because of the potential risk of serious adverse reactions (including articular 
 ## 8.4 Pediatric Use
 
 Although effective in clinical trials, CIPRO is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls.
-Quinolones, including CIPRO, cause arthropathy in juvenile animals [see Warnings and Precautions (5.12) and Nonclinical Toxicology (13.2)].
+Quinolones, including CIPRO, cause arthropathy (arthralgia, arthritis), in juvenile animals [see Warnings and Precautions (5.12) and Nonclinical Toxicology (13.2)].
 
 ### Complicated Urinary Tract Infection and Pyelonephritis
 
