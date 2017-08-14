@@ -60,10 +60,6 @@ Instruct patients to inform their health care provider if they will have or have
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Copyright 2015 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
+Copyright 2017 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-14 IT5060AGK202015
-
-308691-01 IT7075A
-
-308584-01 IT7074A
+IT5060AIG262017

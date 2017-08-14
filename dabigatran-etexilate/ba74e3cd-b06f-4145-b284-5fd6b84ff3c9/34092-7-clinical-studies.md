@@ -86,7 +86,7 @@ Concomitant medications included agents acting on renin-angiotensin system (24.2
 Patients randomized to warfarin had a mean percentage of time in the INR target range of 2.0 to 3.0 of 57% in RE-COVER II study.
 
 In studies RE-COVER and RE-COVER II, the protocol specified non-inferiority margin (2.75) for the hazard ratio was derived based on the upper limit of the 95% confidence interval of the historical warfarin effect.
-PRADAXA was demonstrated to be non-inferior to warfarin (dosed to target INR of 2 to 3) (Table 11) based on the primary composite endpoint (fatal PE or symptomatic non-fatal PE and/or DVT) and retains at least 66.9% (RE-COVER) and 63.9% (RE-COVER II) of the historical warfarin effect respectively.
+PRADAXA was demonstrated to be non-inferior to warfarin (dosed to target INR of 2 to 3) (Table 11) based on the primary composite endpoint (fatal PE or symptomatic non-fatal PE and/or DVT) and retains at least 66.9% (RE-COVER) and 63.9% (RE-COVER II) of the historical warfarin effect, respectively.
 
 Table 11 Primary Efficacy Endpoint for RE-COVER and RE-COVER II – Modified ITTa Population
 

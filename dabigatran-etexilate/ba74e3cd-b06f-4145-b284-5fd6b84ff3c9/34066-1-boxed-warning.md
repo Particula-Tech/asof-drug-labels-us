@@ -1,4 +1,4 @@
-# WARNING: (A) PREMATURE DISCONTINUATION OF PRADAXA INCREASES THE RISK OF THROMBOTIC EVENTS, (B) SPINAL/EPIDURAL HEMATOMA
+# WARNING: (A) PREMATURE DISCONTINUATION OF PRADAXA INCREASES THE RISK OF THROMBOTIC EVENTS, and (B) SPINAL/EPIDURAL HEMATOMA
 
 (A) PREMATURE DISCONTINUATION OF PRADAXA INCREASES THE RISK OF THROMBOTIC EVENTS Premature discontinuation of any oral anticoagulant, including PRADAXA, increases the risk of thrombotic events.
 If anticoagulation with PRADAXA is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.4, 2.5, 2.6) and Warnings and Precautions (5.1)].
