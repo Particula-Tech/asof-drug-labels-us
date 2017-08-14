@@ -17,6 +17,6 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-0788L102
+0941L100
 
-REVISED APRIL 2012 MI:THIAIJ:R2
+Revised: 1/2017 MI:THIAIJ:R3

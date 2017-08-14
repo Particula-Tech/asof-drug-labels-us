@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 200 mg/2 mL
+# PRINCIPAL DISPLAY PANEL - 200 mg/2 mL
 
 NDC 67457-196-02
 
@@ -26,10 +26,10 @@ Protect from light.
 
 Use only if solution is clear and seal intact.
 
-MI:196:25C:R2
-
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
 Mylan.com
+
+MI:196:25C:R3

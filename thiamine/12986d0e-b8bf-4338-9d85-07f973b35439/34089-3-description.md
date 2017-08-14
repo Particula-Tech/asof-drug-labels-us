@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Thiamine hydrochloride injection is a sterile solution of thiamine hydrochloride in Water for Injection for intramuscular (IM) or slow intravenous (IV) administration.
+Thiamine hydrochloride injection, USP is a sterile solution of thiamine hydrochloride in Water for Injection for intramuscular (IM) or slow intravenous (IV) administration.
 
 Each mL contains: Thiamine hydrochloride 100 mg; monothioglycerol 0.5%; Water for Injection q.s.
 Sodium hydroxide may have been added for pH adjustment (2.5 to 4.5).
