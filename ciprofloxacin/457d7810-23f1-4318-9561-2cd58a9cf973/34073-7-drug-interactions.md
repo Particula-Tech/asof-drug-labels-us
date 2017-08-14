@@ -22,5 +22,6 @@ Table 8: Drugs That are Affected by and Affecting CIPRO IV
 | Sildenafil | Use with cautionTwo-fold increase in exposure | Monitor for sildenafil toxicity [see Clinical Pharmacology (12.3)]. |
 | Duloxetine | Avoid UseFive-fold increase in duloxetine exposure | If unavoidable, monitor for duloxetine toxicity |
 | Caffeine/Xanthine Derivatives | Use with cautionReduced clearance resulting in elevated levels and prolongation of serum half-life | CIPRO IV inhibits the formation of paraxanthine after caffeine administration (or pentoxifylline containing products). Monitor for xanthine toxicity and adjust dose as necessary. |
+| Zolpidem | Avoid Use | Co-administration with ciprofloxacin may increase blood levels of zolpidem, concurrent use is not recommended |
 | Drug(s) Affecting Pharmacokinetics of CIPRO |  |  |
 | Probenecid | Use with caution(interferes with renal tubular secretion of CIPRO and increases CIPRO serum levels) | Potentiation of CIPRO IV toxicity may occur. |

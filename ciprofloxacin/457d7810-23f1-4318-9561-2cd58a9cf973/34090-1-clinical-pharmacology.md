@@ -12,6 +12,8 @@ Following 60-minute intravenous infusions of 200 mg and 400 mg CIPRO IV to norma
 
 Table 9: Steady-state Ciprofloxacin Serum Concentrations (mcg/mL) After 60-minute INTRAVENOUS Infusions every 12 hours.
 
+Table 9: Steady-state Ciprofloxacin Serum Concentrations (mcg/mL) After 60-minute INTRAVENOUS Infusions every 12 hours
+
 | Time after starting the infusion |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Dose | 30 minutes | 1 hour | 3 hour | 6 hour | 8 hour | 12 hour |
@@ -125,6 +127,11 @@ In clinical studies it was demonstrated that concomitant use of duloxetine with 
 
 In a study conducted in 9 healthy volunteers, concomitant use of 1.5 mg/kg IV lidocaine with 500 mg ciprofloxacin twice daily resulted in an increase of lidocaine Cmax and AUC by 12% and 26%, respectively.
 Although lidocaine treatment was well tolerated at this elevated exposure, a possible interaction with CIPRO IV and an increase in adverse reactions related to lidocaine may occur upon concomitant administration.
+
+#### Agomelatine
+
+In clinical studies, it was demonstrated that fluvoxamine, as a strong inhibitor of the CYP450 1A2 isoenzyme, markedly inhibits the metabolism of agomelatine resulting in a 60-fold increase of agomelatine exposure.
+Although no clinical data are available for a possible interaction with ciprofloxacin, a moderate inhibitor of CYP450 1A2, similar effects can be expected upon concomitant administration with CIPRO.
 
 ## 12.4 Microbiology
 
@@ -269,7 +276,7 @@ A report of “Resistant” indicates that the antimicrobial is not likely to in
 Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.5, 6, 7, 8 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 12.
 For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 12 should be achieved.
 
-Table 12: Acceptable Quality Control Ranges for Ciprofloxacin
+Table 12
 
 | Bacteria | MIC range (mcg/mL) | Zone Diameter (mm) |
 | --- | --- | --- |
