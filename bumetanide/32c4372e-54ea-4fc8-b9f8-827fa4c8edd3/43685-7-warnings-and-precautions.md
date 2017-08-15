@@ -1,7 +1,3 @@
-| WARNING |
-| --- |
-| Bumetanide is a potent diuretic which, if given in excessive amounts, can lead to a profound diuresis with water and electrolyte depletion. Therefore, careful medical supervision is required, and dose and dosage schedule have to be adjusted to the individual patient's needs (see DOSAGE AND ADMINISTRATION). |
-
 # WARNINGS
 
 ## Volume and Electrolyte Depletion
@@ -57,13 +53,13 @@ The relationship of these occurrences to bumetanide use is not certain.
 
 ## Drug Interactions
 
-### Drugs With Ototoxic Potential
+### Drugs with Ototoxic Potential
 
 (see WARNINGS)
 
 Especially in the presence of impaired renal function, the use of parenterally administered bumetanide in patients to whom aminoglycoside antibiotics are also being given should be avoided, except in life-threatening conditions.
 
-### Drugs With Nephrotoxic Potential
+### Drugs with Nephrotoxic Potential
 
 There has been no experience with the concurrent use of bumetanide with drugs known to have a nephrotoxic potential.
 Therefore, the simultaneous administration of these drugs should be avoided.
@@ -101,7 +97,7 @@ Bumetanide was devoid of mutagenic activity in various strains of Salmonella typ
 An 18-month study showed an increase in mammary adenomas of questionable significance in female rats receiving oral doses of 60 mg/kg/day (2000 times a 2-mg human dose).
 A repeat study at the same doses failed to duplicate this finding.
 
-Reproduction studies were performed to evaluate general reproductive performance and fertility in rats at oral dose levels of 10 mg/kg/day, 30 mg/kg/day, 60 mg/kg/day or 100 mg/kg/day.
+Reproduction studies were performed to evaluate general reproductive performance and fertility in rats at oral dose levels of 10, 30, 60 or 100 mg/kg/day.
 The pregnancy rate was slightly decreased in the treated animals; however, the differences were small and not statistically significant.
 
 ## Pregnancy
@@ -113,12 +109,12 @@ The pregnancy rate was slightly decreased in the treated animals; however, the d
 Bumetanide is neither teratogenic nor embryocidal in mice when given in doses up to 3400 times the maximum human therapeutic dose.
 
 Bumetanide has been shown to be nonteratogenic, but it has a slight embryocidal effect in rats when given in doses of 3400 times the maximum human therapeutic dose and in rabbits at doses of 3.4 times the maximum human therapeutic dose.
-In one study, moderate growth retardation and increased incidence of delayed ossification of sternebrae were observed in rats at oral doses of 100 mg/kg/day, 3400 times the maximum human therapeutic dose.
+In one study, moderate growth retardation and increased incidence of delayed ossification of sternebrae were observed in rats at oral doses of 100 mg/kg day, 3400 times the maximum human therapeutic dose.
 These effects were associated with maternal weight reductions noted during dosing.
 No such adverse effects were observed at 30 mg/kg/day (1000 times the maximum human therapeutic dose).
 No fetotoxicity was observed at 1000 to 2000 times the human therapeutic dose.
 
-In rabbits, a dose-related decrease in litter size and an increase in resorption rate were noted at oral doses of 0.1 mg/kg/day and 0.3 mg/kg/day (3.4 and 10 times the maximum human therapeutic dose).
+In rabbits, a dose-related decrease in litter size and an increase in resorption rate were noted at oral doses of 0.1 and 0.3 mg/kg/day (3.4 and 10 times the maximum human therapeutic dose).
 A slightly increased incidence of delayed ossification of sternebrae occurred at 0.3 mg/kg/day; however, no such adverse effects were observed at the dose of 0.03 mg/kg/day.
 The sensitivity of the rabbit to bumetanide parallels the marked pharmacologic and toxicologic effects of the drug in this species.
 

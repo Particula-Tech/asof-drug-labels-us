@@ -18,8 +18,6 @@ NDC 42799-121-01 bottles of 100
 
 NDC 42799-121-02 bottles of 500
 
-Store tablets at 59° to 86°F (15° to 30°C).
+Store at 68° to 77°F (20° to 25°C); excursions permitted between 59° to 86°F (15° to 30°C) (see USP Controlled Room Temperature).
 
-Dispense contents in a tight, light-resistant container as defined in the USP with a child-resistant closure, as required.
-
-To report SUSPECTED ADVERSE REACTIONS, call 1-866-982-5438 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Dispense contents in a tight, light-resistant container as defined in USP with a child-resistant closure, as required.

@@ -2,9 +2,9 @@ For oral use
 
 Rx Only
 
-Distributed by:
+Distributed by: Edenbridge Pharmaceuticals, LLC Parsippany, NJ 07054
 
-Edenbridge Pharmaceuticals, LLC Parsippany, NJ 07054
+Product of Italy
 
 Iss.
-03/15
+04/2017
