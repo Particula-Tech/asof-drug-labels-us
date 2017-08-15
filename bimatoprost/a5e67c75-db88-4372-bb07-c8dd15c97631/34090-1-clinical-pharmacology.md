@@ -11,8 +11,12 @@ The higher the level of IOP, the greater the likelihood of optic nerve damage an
 ## 12.3 Pharmacokinetics
 
 Absorption: After one drop of bimatoprost ophthalmic solution 0.03% was administered once daily to both eyes of 15 healthy subjects for two weeks, blood concentrations peaked within 10 minutes after dosing and were below the lower limit of detection (0.025 ng/mL) in most subjects within 1.5 hours after dosing.
-Mean Cmax and AUC0-24hr values were similar on days 7 and 14 at approximately 0.08 ng/mL and 0.09 ng•hr/mL, respectively, indicating that steady state was reached during the first week of ocular dosing.
-There was no significant systemic drug accumulation over time.
+Mean Cmax and AUC0-24hr values were similar on days 7 and 14 at approximately 0.08 ng/mL and 0.09 ng•hr/mL,
+
+respectively, indicating that steady state was reached during the first week of ocular dosing.
+There was no
+
+significant systemic drug accumulation over time.
 
 Distribution: Bimatoprost is moderately distributed into body tissues with a steady-state volume of distribution of 0.67 L/kg.
 In human blood, bimatoprost resides mainly in the plasma.
