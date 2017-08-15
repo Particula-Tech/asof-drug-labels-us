@@ -10,8 +10,8 @@
 - Do NOT transfer HUMALOG U-200 from the KwikPen to a syringe for administration [see Warnings and Precautions (5.4)].
 - Do NOT perform dose conversion when using any HUMALOG U-100 or U-200 KwikPens.
   The dose window shows the number of insulin units to be delivered and no conversion is needed.
-  - Humalog U-100 and U-200 KwikPens are designed to dial doses in increments of 1 unit.
-  - Humalog Junior KwikPen is designed to dial doses in 0.5 (1/2) unit increments.
+  - HUMALOG U-100 and U-200 KwikPens are designed to dial doses in increments of 1 unit.
+  - HUMALOG Junior KwikPen is designed to dial doses in 0.5 (1/2) unit increments.
 - Do NOT mix HUMALOG U-200 with any other insulins.
 - Do NOT administer HUMALOG U-200 using a continuous subcutaneous infusion pump (i.e., insulin pump).
 - Do NOT administer HUMALOG U-200 intravenously.

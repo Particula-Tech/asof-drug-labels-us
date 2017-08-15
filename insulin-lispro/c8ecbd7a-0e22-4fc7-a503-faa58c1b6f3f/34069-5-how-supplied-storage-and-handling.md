@@ -11,7 +11,7 @@ HUMALOG is available as:
 | U-100 cartridge1 | 3 mL | 100 units/mL | 300 units | 0002-7516-59 | n/a | n/a | 5 cartridges |
 | U-100 KwikPen | 3 mL | 100 units/mL | 300 units | 0002-8799-59 | 60 units | 1 unit | 5 pens |
 | U-100 Junior KwikPen | 3 mL | 100 units/mL | 300 units | 0002-7714-59 | 30 units | 0.5 units | 5 pens |
-| U-200 KwikPen | 3 mL | 200 units/mL | 600 units | 0002-7712-27 | 60 units | 1 unit | 5 pens |
+| U-200 KwikPen | 3 mL | 200 units/mL | 600 units | 0002-7712-27 | 60 units | 1 unit | 2 pens |
 
 Each prefilled KwikPen, cartridge, and reusable pen compatible with Lilly 3 mL cartridges is for use by a single patient.
 HUMALOG KwikPens, cartridges, and reusable pens compatible with Lilly 3 mL cartridges must never be shared between patients, even if the needle is changed.
