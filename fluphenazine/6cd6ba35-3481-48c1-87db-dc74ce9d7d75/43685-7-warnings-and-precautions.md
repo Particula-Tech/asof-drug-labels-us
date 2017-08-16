@@ -5,7 +5,7 @@
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Fluphenazine hydrochloride is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
 
-## Tardive Dyskinesia
+## Tardive Dyskinesia:
 
 Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with neuroleptic (antipsychotic) drugs.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of neuroleptic treatment, which patients are likely to develop the syndrome.
@@ -28,7 +28,7 @@ However, some patients may require treatment despite the presence of the syndrom
 
 (For further information about the description of tardive dyskinesia and its clinical detection, please refer to the sections on PRECAUTIONS, Information for Patients and ADVERSE REACTIONS, Tardive Dyskinesia.)
 
-## Neuroleptic Malignant Syndrome (NMS)
+## Neuroleptic Malignant Syndrome (NMS):
 
 A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs.
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).
@@ -49,21 +49,26 @@ Potentiation of the effects of alcohol may occur with the use of this drug.
 
 Since there is no adequate experience in children who have received this drug, safety and efficacy in children have not been established.
 
-## Usage in Pregnancy
+## Falls
+
+Fluphenazine hydrochloride tablets, USP may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## Usage in Pregnancy:
 
 The safety for the use of this drug during pregnancy has not been established; therefore, the possible hazards should be weighed against the potential benefits when administering this drug to pregnant patients.
 
-### Non-teratogenic Effects
+Non-teratogenic Effects
 
 Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
 These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
-Fluphenazine Hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Fluphenazine hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 # PRECAUTIONS
 
-## General
+## General:
 
 Because of the possibility of cross-sensitivity, fluphenazine hydrochloride should be used cautiously in patients who have developed cholestatic jaundice, dermatoses or other allergic reactions to phenothiazine derivatives.
 
@@ -82,12 +87,12 @@ Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impote
 An increase in mammary neoplasms has been found in rodents after chronic administration of neuroleptic drugs.
 Neither clinical studies nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is considered too limited to be conclusive at this time.
 
-## Information for Patients
+## Information for Patients:
 
 Given the likelihood that some patients exposed chronically to neuroleptics will develop tardive dyskinesia, it is advised that all patients in whom chronic use is contemplated be given, if possible, full information about this risk.
 The decision to inform patients and/or their guardians must obviously take into account the clinical circumstances and the competency of the patient to understand the information provided.
 
-## Abrupt Withdrawal
+## Abrupt Withdrawal:
 
 In general, phenothiazines do not produce psychic dependence; however, gastritis, nausea and vomiting, dizziness, and tremulousness have been reported following abrupt cessation of high dose therapy.
 Reports suggest that these symptoms can be reduced if concomitant antiparkinsonian agents are continued for several weeks after the phenothiazine is withdrawn.
@@ -97,7 +102,7 @@ Renal function of patients on long-term therapy should be monitored; if BUN (blo
 
 As with any phenothiazine, the physician should be alert to the possible development of "silent pneumonias" in patients under treatment with fluphenazine hydrochloride.
 
-## Leukopenia, Neutropenia and Agranulocytosis
+## Leukopenia, Neutropenia and Agranulocytosis:
 
 In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including fluphenazine hydrochloride USP.
 Agranulocytosis (including fatal cases) has also been reported.

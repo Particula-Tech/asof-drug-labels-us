@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-## Central Nervous System
+## Central Nervous System:
 
 The side effects most frequently reported with phenothiazine compounds are extrapyramidal symptoms including pseudoparkinsonism, dystonia, dyskinesia, akathisia, oculogyric crises, opisthotonos, and hyperreflexia.
 Most often these extrapyramidal symptoms are reversible; however, they may be persistent (see below).
@@ -9,18 +9,14 @@ With any given phenothiazine derivative, the incidence and severity of such reac
 Extrapyramidal reactions may be alarming, and the patient should be forewarned and reassured.
 These reactions can usually be controlled by administration of antiparkinsonian drugs such as benztropine mesylate or intravenous caffeine and sodium benzoate injection, and by subsequent reduction in dosage.
 
-## Extrapyramidal Symptoms
+## Extrapyramidal Symptoms:
 
-Dystonia
-
-Class Effect
-
-Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Dystonia: Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
-## Tardive Dyskinesia
+## Tardive Dyskinesia:
 
 See WARNINGS.
 The syndrome is characterized by involuntary choreoathetoid movements which variously involve the tongue, face, mouth, lips, or jaw (e.g., protrusion of the tongue, puffing of cheeks, puckering of the mouth, chewing movements), trunk and extremities.
@@ -31,7 +27,7 @@ Early detection of tardive dyskinesia is important.
 To increase the likelihood of detecting the syndrome at the earliest possible time, the dosage of neuroleptic drug should be reduced periodically (if clinically possible) and the patient observed for signs of the disorder.
 This maneuver is critical, since neuroleptic drugs may mask the signs of the syndrome.
 
-## Other CNS Effects
+## Other CNS Effects:
 
 Occurrences of neuroleptic malignant syndrome (NMS) have been reported in patients on neuroleptic therapy (see WARNINGS, Neuroleptic Malignant Syndrome); leukocytosis, elevated CPK, liver function abnormalities, and acute renal failure may also occur with NMS.
 
@@ -40,7 +36,7 @@ As with other phenothiazine compounds, reactivation or aggravation of psychotic 
 
 Phenothiazine derivatives have been known to cause, in some patients, restlessness, excitement, or bizarre dreams.
 
-## Autonomic Nervous System
+## Autonomic Nervous System:
 
 Hypertension and fluctuations in blood pressure have been reported with fluphenazine hydrochloride.
 
@@ -55,26 +51,26 @@ Autonomic effects can usually be controlled by reducing or temporarily discontin
 
 In some patients, phenothiazine derivatives have caused blurred vision, glaucoma, bladder paralysis, fecal impaction, paralytic ileus, tachycardia, or nasal congestion.
 
-## Metabolic and Endocrine
+## Metabolic and Endocrine:
 
 Weight change, peripheral edema, abnormal lactation, gynecomastia, menstrual irregularities, false results on pregnancy tests, impotency in men and increased libido in women have all been known to occur in some patients on phenothiazine therapy.
 
-## Allergic Reactions
+## Allergic Reactions:
 
 Skin disorders such as itching, erythema, urticaria, seborrhea, photosensitivity, eczema and even exfoliative dermatitis have been reported with phenothiazine derivatives.
 The possibility of anaphylactoid reactions occurring in some patients should be borne in mind.
 
-## Hematologic
+## Hematologic:
 
 Routine blood counts are advisable during therapy since blood dyscrasias including leukopenia, agranulocytosis, thrombocytopenic or nonthrombocytopenic purpura, eosinophilia, and pancytopenia have been observed with phenothiazine derivatives.
 Furthermore, if any soreness of the mouth, gums, or throat, or any symptoms of upper respiratory infection occur and confirmatory leukocyte count indicates cellular depression, therapy should be discontinued and other appropriate measures instituted immediately.
 
-## Hepatic
+## Hepatic:
 
 Liver damage as manifested by cholestatic jaundice may be encountered, particularly during the first months of therapy; treatment should be discontinued if this occurs.
 An increase in cephalin flocculation, sometimes accompanied by alterations in other liver function tests, has been reported in patients receiving fluphenazine hydrochloride who have had no clinical evidence of liver damage.
 
-## Others
+## Others:
 
 Sudden, unexpected and unexplained deaths have been reported in hospitalized psychotic patients receiving phenothiazines.
 Previous brain damage or seizures may be predisposing factors; high doses should be avoided in known seizure patients.
