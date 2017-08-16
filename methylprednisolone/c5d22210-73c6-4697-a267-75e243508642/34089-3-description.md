@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Methylprednisolone Sodium Succinate for Injection, USP sterile powder is an anti-inflammatory glucocorticoid, which contains methylprednisolone sodium succinate as the active ingredient.
 Methylprednisolone sodium succinate, USP, is the sodium succinate ester of methylprednisolone, and it occurs as a white, or nearly white, odorless hygroscopic, amorphous solid.

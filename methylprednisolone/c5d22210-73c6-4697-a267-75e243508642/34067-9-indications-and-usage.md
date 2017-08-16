@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
 When oral therapy is not feasible, and the strength, dosage form, and route of administration of the drug reasonably lend the preparation to the treatment of the condition, the intravenous or intramuscular use of Methylprednisolone Sodium Succinate for Injection, USP sterile powder is indicated as follows:
 

@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 The following adverse reactions have been reported with methylprednisolone or other corticosteroids:
 

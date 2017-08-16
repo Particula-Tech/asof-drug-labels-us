@@ -1,32 +1,18 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 40 mg Single Dose Vial Label
 
-NDC 63323-255-03
+methylPREDNISolone Sodium Succinate for Injection, USP
 
-275503
-
-Methylprednisolone Sodium Succinate for Injection, USP
-
-40 mg per vial
-
-Reconstitute with 1 mL Bacteriostatic Water for Injection with Benzyl Alcohol.
+40 mg per vial Reconstitute with 1 mL Bacteriostatic Water for Injection with Benzyl Alcohol.
 
 Use within 48 hours after mixing.
 
 For Intravenous or Intramuscular Use
 
-1 mL
+1 mL Single Dose Vial Rx only
 
-Single Dose Vial
+PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 40 mg Single Dose Vial Tray Label
 
-Rx only
-
-PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 40 mg∗ Single Dose Vial Tray Label
-
-NDC 63323-255-03
-
-275503
-
-Methylprednisolone Sodium Succinate for Injection, USP
+methylPREDNISolone Sodium Succinate for Injection, USP
 
 40 mg∗ per vial
 
@@ -38,11 +24,7 @@ Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 125 mg Single Dose Vial Label
 
-NDC 63323-258-03
-
-275803
-
-Methylprednisolone Sodium Succinate for Injection, USP
+methylPREDNISolone Sodium Succinate for Injection, USP
 
 125 mg per vial
 
@@ -51,37 +33,23 @@ Reconstitute with 2 mL Bacteriostatic Water for Injection with Benzyl Alcohol.
 Use within 48 hours after mixing.
 For Intravenous or Intramuscular Use
 
-2 mL
+2 mL Single Dose Vial Rx only
 
-Single Dose Vial
+PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 125 mgSingle Dose Vial Tray Label
 
-Rx only
-
-PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 125 mg∗ Single Dose Vial Tray Label
-
-NDC 63323-258-03
-
-275803
-
-Methylprednisolone Sodium Succinate for Injection, USP
+methylPREDNISolone Sodium Succinate for Injection, USP
 
 125 mg∗ per vial
 
 For Intravenous or Intramuscular Use
 
-2 mL
-
-Single Dose Vial
+2 mL Single Dose Vial
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 1 gram∗ Multiple Dose Vial Label
+PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 1 gram Multiple Dose Vial Label
 
-NDC 63323-265-30
-
-276530
-
-Methylprednisolone Sodium Succinate for Injection, USP
+methylPREDNISolone Sodium Succinate for Injection, USP
 
 1 gram∗ per vial
 
@@ -93,13 +61,9 @@ One Multiple dose Vial
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 1 gram∗ Multiple Dose Vial Carton Panel
+PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 1 gram Multiple Dose Vial Carton Panel
 
-NDC 63323-265-30
-
-276530
-
-Methylprednisolone Sodium Succinate for Injection, USP
+methylPREDNISolone Sodium Succinate for Injection, USP
 
 1 gram∗ per vial
 

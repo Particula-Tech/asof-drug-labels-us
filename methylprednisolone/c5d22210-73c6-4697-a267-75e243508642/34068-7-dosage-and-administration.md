@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 NOTE: After mixing as directed, methylprednisolone contains benzyl alcohol (see DESCRIPTION, WARNINGS and PRECAUTIONS, Pediatric Use).
 
@@ -14,7 +14,7 @@ Following the initial emergency period, consideration should be given to employi
 
 There are reports of cardiac arrhythmias and/or cardiac arrest following the rapid administration of large IV doses of methylprednisolone (greater than 0.5 gram administered over a period of less than 10 minutes).
 Bradycardia has been reported during or after the administration of large doses of methylprednisolone sodium succinate, and may be unrelated to the speed or duration of infusion.
-When high dose therapy is desired, the recommended dose of Methylprednisolone Sodium Succinate for Injection, USP sterile powder is 30 mg/kg administered intravenously over at least 30 minutes.
+When high dose therapy is desired, the recommended dose of methylprednisolone sodium succinate for injection, USP sterile powder is 30 mg/kg administered intravenously over at least 30 minutes.
 This dose may be repeated every 4 to 6 hours for 48 hours.
 
 In general, high dose corticosteroid therapy should be continued only until the patient’s condition has stabilized; usually not beyond 48 to 72 hours.

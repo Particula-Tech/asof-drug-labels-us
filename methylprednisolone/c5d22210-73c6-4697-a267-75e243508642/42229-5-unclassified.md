@@ -6,7 +6,7 @@ For Intravenous or Intramuscular Administration
 
 Rx only
 
-# STORAGE CONDITIONS
+# STORAGE CONDITIONS:
 
 Protect from light.
 
@@ -16,6 +16,6 @@ Store solution at 20° to 25°C (68° to 77°F) [see USP Controlled Room Tempera
 
 Use solution within 48 hours after mixing.
 
-451282A
+www.fresenius-kabi.us 451282B
 
-Revised: October 2014
+Revised: December 2016
