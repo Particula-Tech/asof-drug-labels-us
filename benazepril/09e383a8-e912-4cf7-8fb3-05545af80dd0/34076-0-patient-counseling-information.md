@@ -17,4 +17,4 @@ Hyperkalemia: Tell patients not to use potassium supplements or salt substitutes
 
 Hypoglycemia: Tell diabetic patients treated with oral antidiabetic agents or insulin starting an ACE inhibitor to monitor for hypoglycemia closely, especially during the first month of combined use.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 01/2016
+Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 08/2017
