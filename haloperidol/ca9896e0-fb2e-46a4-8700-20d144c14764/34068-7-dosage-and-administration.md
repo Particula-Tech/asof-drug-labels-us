@@ -1,13 +1,13 @@
 # DOSAGE AND ADMINISTRATION:
 
-Haloperidol Decanoate Injection should be administered by deep intramuscular injection.
+Haloperidol decanoate injection should be administered by deep intramuscular injection.
 A 21 gauge needle is recommended.
 The maximum volume per injection site should not exceed 3 mL.
 DO NOT ADMINISTER INTRAVENOUSLY.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-Haloperidol Decanoate Injection is intended for use in schizophrenic patients who require prolonged parenteral antipsychotic therapy.
+Haloperidol decanoate injection is intended for use in schizophrenic patients who require prolonged parenteral antipsychotic therapy.
 These patients should be previously stabilized on antipsychotic medication before considering a conversion to haloperidol decanoate.
 Furthermore, it is recommended that patients being considered for haloperidol decanoate therapy have been treated with, and tolerate well, short-acting haloperidol in order to reduce the possibility of an unexpected adverse sensitivity to haloperidol.
 Close clinical supervision is required during the initial period of dose adjustment in order to minimize the risk of overdosage or reappearance of psychotic symptoms before the next injection.

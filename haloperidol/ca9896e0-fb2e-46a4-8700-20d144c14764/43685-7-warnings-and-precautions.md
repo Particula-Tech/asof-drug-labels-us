@@ -3,7 +3,7 @@
 ## Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-Haloperidol Decanoate Injection is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
+Haloperidol decanoate injection is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
 
 ## Cardiovascular Effects
 
@@ -52,6 +52,11 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 Hyperpyrexia and heat stroke, not associated with the above symptom complex, have also been reported with haloperidol.
 
+## Falls
+
+Motor instability, somnolence, and orthostatic hypotension have been reported with the use of antipsychotics, including haloperidol decanoate, which may lead to falls and, consequently, fractures or other fall-related injuries.
+For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently during treatment.
+
 ## Combined Use of Haloperidol and Lithium
 
 An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and fasting blood sugar) followed by irreversible brain damage has occurred in a few patients treated with lithium plus haloperidol.
@@ -69,14 +74,14 @@ Although not reported with haloperidol, decreased serum cholesterol and/or cutan
 
 ## Leukopenia, Neutropenia, and Agranulocytosis
 
-Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including haloperidol.
+Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including haloperidol decanoate.
 Agranulocytosis has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
 Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of haloperidol decanoate should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue haloperidol decanoate and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1,000/mm3) should discontinue haloperidol decanoate and have their WBC followed until recovery.
 
 ## Other
 
@@ -85,9 +90,12 @@ Haloperidol decanoate should be administered cautiously to patients:
 - with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain.
   Should hypotension occur and a vasopressor be required, epinephrine should not be used since haloperidol may block its vasopressor activity, and paradoxical further lowering of the blood pressure may occur.
   Instead, metaraminol, phenylephrine or norepinephrine should be used.
+
 - receiving anticonvulsant medications, with a history of seizures, or with EEG abnormalities, because haloperidol may lower the convulsive threshold.
   If indicated, adequate anticonvulsant therapy should be concomitantly maintained.
+
 - with known allergies, or with a history of allergic reactions to drugs.
+
 - receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
 
 If concomitant antiparkinson medication is required, it may have to be continued after haloperidol decanoate is discontinued because of the prolonged action of haloperidol decanoate.
@@ -129,7 +137,7 @@ Inhibition of these routes of metabolism by another drug may result in increased
 
 Drugs Characterized as Substrates, Inhibitors or Inducers of CYP3A4, CYP2D6 or Glucuronidation
 
-In pharmacokinetic studies, mild to moderately increased haloperidol concentrations have been reported when haloperidol was given concomitantly with drugs characterized as substrates or inhibitors of CYP3A4 or CYP2D6 isoenzymes, such as, itraconazole, nefazodone, buspirone, venlafaxine, alprazolam, fluvoxamine, quinidine, fluoxetine, sertraline, chlorpromazine, and promethazine.
+In pharmacokinetic studies, mild to moderately increased haloperidol concentrations have been reported when haloperidol was given concomitantly with drugs characterized as substrates or inhibitors of CYP3A4 or CYP2D6 isoenzymes, such as itraconazole, nefazodone, buspirone, venlafaxine, alprazolam, fluvoxamine, quinidine, fluoxetine, sertraline, chlorpromazine, and promethazine.
 
 When prolonged treatment (1 to 2 weeks) with enzyme-inducing drugs such as rifampin or carbamazepine is added to haloperidol therapy, this results in a significant reduction of haloperidol plasma levels.
 
@@ -186,7 +194,7 @@ There are reports, however, of cases of limb malformations observed following ma
 Causal relationships were not established with these cases.
 Since such experience does not exclude the possibility of fetal damage due to haloperidol, haloperidol decanoate should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
 
-Non-teratogenic Effects
+Nonteratogenic Effects
 
 Neonates exposed to antipsychotic drugs (including haloperidol) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.

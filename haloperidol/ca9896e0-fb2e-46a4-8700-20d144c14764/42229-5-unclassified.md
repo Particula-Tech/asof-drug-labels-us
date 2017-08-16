@@ -1,7 +1,7 @@
-For IM Injection Only
+For Intramuscular Injection Only
 
 Rx only
 
-45803J
+www.fresenius-kabi.us 45803K
 
-Revised: February 2015
+Revised: March 2017

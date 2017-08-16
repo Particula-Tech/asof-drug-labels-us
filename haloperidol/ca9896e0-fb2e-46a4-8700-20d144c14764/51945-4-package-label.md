@@ -1,12 +1,8 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Decanoate 5 mL Multiple Dose Vial Label
-
-NDC 63323-469-05
-
-436905
+PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Decanoate Injection 5 mL Multiple Dose Vial Label
 
 Haloperidol Decanoate Injection
 
-250 mg*/5 mL (50 mg*/mL)
+250 mg* per 5 mL (50 mg* per mL)
 
 Intramuscular Use Only
 
@@ -14,15 +10,11 @@ Intramuscular Use Only
 
 Multiple Dose Vial
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Decanoate 5 mL Multiple Dose Vial Carton Panel
-
-NDC 63323-469-05
-
-436905
+PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Decanoate Injection 5 mL Multiple Dose Vial Carton Panel
 
 Haloperidol Decanoate Injection
 
-250 mg*/5 mL (50 mg*/mL)
+250 mg* per 5 mL (50 mg* per mL)
 
 Intramuscular Use Only
 
@@ -30,15 +22,11 @@ Intramuscular Use Only
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Decanoate 1 mL Vial Label
-
-NDC 63323-471-01
-
-437101
+PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Decanoate Injection 1 mL Vial Label
 
 Haloperidol Decanoate Injection
 
-100 mg*/mL
+100 mg* per mL
 
 *as haloperidol
 
@@ -50,15 +38,11 @@ Sterile
 
 Keep in carton until empty.
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Decanoate 1 mL Vial Carton Panel
-
-NDC 63323-471-01
-
-437101
+PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Decanoate Injection 1 mL Vial Carton Panel
 
 Haloperidol Decanoate Injection
 
-100 mg*/mL
+100 mg* per mL
 
 Intramuscular Use Only
 

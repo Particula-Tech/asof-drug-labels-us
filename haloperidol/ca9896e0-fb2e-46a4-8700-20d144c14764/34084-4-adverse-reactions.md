@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS:
 
-Adverse reactions following the administration of Haloperidol Decanoate Injection are those of haloperidol.
+Adverse reactions following the administration of haloperidol decanoate are those of haloperidol.
 Since vast experience has accumulated with haloperidol, the adverse reactions are reported for that compound as well as for haloperidol decanoate.
 As with all injectable medications, local tissue reactions have been reported with haloperidol decanoate.
 
@@ -9,9 +9,9 @@ As with all injectable medications, local tissue reactions have been reported wi
 Tachycardia, hypotension, and hypertension have been reported.
 QT-prolongation and/or ventricular arrhythmias have also been reported, in addition to ECG pattern changes compatible with the polymorphous configuration of Torsades de Pointes, and may occur more frequently with high doses and in predisposed patients (see WARNINGS and PRECAUTIONS).
 
-Cases of sudden and unexpected death have been reported in association with the administration of Haloperidol Decanoate Injection.
-The nature of the evidence makes it impossible to determine definitively what role, if any, Haloperidol Decanoate Injection played in the outcome of the reported cases.
-The possibility that Haloperidol Decanoate Injection caused death cannot, of course, be excluded, but it is to be kept in mind that sudden and unexpected death may occur in psychotic patients when they go untreated or when they are treated with other antipsychotic drugs.
+Cases of sudden and unexpected death have been reported in association with the administration of haloperidol decanoate.
+The nature of the evidence makes it impossible to determine definitively what role, if any, haloperidol decanoate played in the outcome of the reported cases.
+The possibility that haloperidol decanoate caused death cannot, of course, be excluded, but it is to be kept in mind that sudden and unexpected death may occur in psychotic patients when they go untreated or when they are treated with other antipsychotic drugs.
 
 ## CNS Effects
 
@@ -20,7 +20,7 @@ Extrapyramidal Symptoms (EPS)
 EPS during the administration of haloperidol have been reported frequently, often during the first few days of treatment.
 EPS can be categorized generally as Parkinson-like symptoms, akathisia, or dystonia (including opisthotonos and oculogyric crisis).
 While all can occur at relatively low doses, they occur more frequently and with greater severity at higher doses.
-The symptoms may be controlled with dose reductions or administration of antiparkinson drugs such as benztropine mesylate USP or trihexyphenidyl hydrochloride USP.
+The symptoms may be controlled with dose reductions or administration of antiparkinson drugs such as benztropine mesylate or trihexyphenidyl hydrochloride.
 It should be noted that persistent EPS have been reported; the drug may have to be discontinued in such cases.
 
 Dystonia
@@ -101,3 +101,4 @@ Cataracts, retinopathy and visual disturbances.
 Postmarketing Events
 
 Hyperammonemia has been reported in a 5½ year old child with citrullinemia, an inherited disorder of ammonia excretion, following treatment with haloperidol.
+Rhabdomyolysis has been reported.
