@@ -18,13 +18,13 @@ If a favorable response does not occur promptly, the corticosteroid should be di
 
 Information for Patients: Patients using topical corticosteroids should receive the following information and instructions:
 
-1. This medication is to be used as directed by the physician.
+1. 1.This medication is to be used as directed by the physician.
    It is for external use only.
    Avoid contact with the eyes.
-2. Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
-3. The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive.
-4. Patients should report any signs of local adverse reactions.
-5. Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings (See DOSAGE AND ADMINISTRATION).
+2. 2.Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
+3. 3.The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive.
+4. 4.Patients should report any signs of local adverse reactions.
+5. 5.Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings (See DOSAGE AND ADMINISTRATION).
 
 Laboratory tests: The following tests may be helpful in evaluating HPA axis suppression:
 
