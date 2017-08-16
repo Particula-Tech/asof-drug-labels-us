@@ -69,13 +69,8 @@ Tell your healthcare provider right away if you think that your baby is:
 - Even if your baby’s vision seems fine, it is important to get regular vision tests because damage can happen before your baby acts differently.
   Even these regular vision exams may not show the damage to your baby’s vision before it is serious and permanent.
 
-All people who take vigabatrin for oral solution:
-
-- You are at risk for permanent vision loss with any amount of vigabatrin for oral solution.
-- Your risk of vision loss may be higher the more vigabatrin for oral solution you take daily and the longer you take it.
-- It is not possible for your healthcare provider to know when vision loss will happen.
-  It could happen soon after starting vigabatrin for oral solution or any time during treatment.
-  It may even happen after treatment has stopped.
+| All people who take vigabatrin for oral solution: You are at risk for permanent vision loss with any amount of vigabatrin for oral solution.Your risk of vision loss may be higher the more vigabatrin for oral solution you take daily and the longer you take it.It is not possible for your healthcare provider to know when vision loss will happen. It could happen soon after starting vigabatrin for oral solution or any time during treatment. It may even happen after treatment has stopped. |
+| --- |
 
 - Because vigabatrin for oral solution might cause permanent vision loss, it is available to healthcare providers and patients only under a special program called the Vigabatrin Risk Evaluation and Mitigation Strategy (REMS) Program.
   Vigabatrin for oral solution can only be prescribed to people who are enrolled in this program.

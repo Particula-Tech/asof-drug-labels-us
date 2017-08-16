@@ -40,10 +40,12 @@ Treatment is based on body weight as shown in Table 1.
 Treatment should be initiated at a total daily dose of 500 mg/day (250 mg twice daily) and may be increased weekly in 500 mg/day increments to a total maintenance dose of 2000 mg/day (1000 mg twice daily).
 Patients weighing more than 60 kg should be dosed according to adult recommendations.
 
-| Table 1. Pediatric CPS Dosing Recommendations |  |  |
+Table 1.
+Pediatric CPS Dosing Recommendations
+
+| Body Weight[kg] | Total Daily*Starting Dose[mg/day] | Total Daily*Maintenance Dose†[mg/day] |
 | --- | --- | --- |
-| Body Weight [kg] | Total Daily* Starting Dose [mg/day] | Total Daily* Maintenance Dose† [mg/day] |
-| 25 to 60†† | 500 | 2,000 |
+| 25 to 60†† | 500 | 2000 |
 
 *Administered in two divided doses.
 
@@ -62,7 +64,7 @@ The initial daily dosing is 50 mg/kg/day given in two divided doses (25 mg/kg tw
 
 Table 2 provides the volume of the 50 mg/mL dosing solution that should be administered as individual doses in infants of various weights.
 
-Table 3.
+Table 2.
 Infant Dosing Table
 
 | Weight [kg] | Starting Dose 50 mg/kg/day | Maximum Dose 150 mg/kg/day |
@@ -99,8 +101,18 @@ Adult and pediatric patients 10 years and older
 
 - Mild renal impairment (CLcr >50 to 80 mL/min): dose should be decreased by 25%
 - Moderate renal impairment (CLcr >30 to 50 mL/min): dose should be decreased by 50%
-- Severe renal impairment (CLcr >10 to 30 mL/min): dose should be decreased by 75%CLcr in mL/min may be estimated from serum creatinine (mg/dL) using the following formulas:
-- Patients 10 to <12 years old: CLcr (mL/min/1.73 m2) = (K × Ht) / Scrheight (Ht) in cm; serum creatinine (Scr) in mg/dLK (proportionality constant): Female Child (<12 years): K=0.55;Male Child (<12 years): K=0.70
+- Severe renal impairment (CLcr >10 to 30 mL/min): dose should be decreased by 75%
+
+CLcr in mL/min may be estimated from serum creatinine (mg/dL) using the following formulas
+
+- Patients 10 to <12 years old: CLcr (mL/min/1.73 m2) = (K × Ht) / Scr
+
+height (Ht) in cm; serum creatinine (Scr) in mg/dL
+
+K (proportionality constant): Female Child (<12 years): K=0.55;
+
+Male Child (<12 years): K=0.70
+
 - Adult and pediatric patients 12 years or older: CLcr (mL/min) = [140-age (years)] × weight (kg) / [72 × serumcreatinine (mg/dL)] (×0.85 for female patients)
 
 The effect of dialysis on vigabatrin for oral solution clearance has not been adequately studied [see Clinical Pharmacology (12.3) and Use in Specific Populations (8.6)].

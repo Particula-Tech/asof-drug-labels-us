@@ -30,9 +30,7 @@ Adults
 Table 5 lists the adverse reactions that occurred in ≥2% and more than one patient per vigabatrin treated group and that occurred more frequently than in placebo patients from 2 U.S. add-on clinical studies of refractory CPS in adults.
 
 Table 5.
-Adverse Reactions in Pooled, Add-On Trials in
-
-Adults with Refractory Complex Partial Seizures
+Adverse Reactions in Pooled, Add-On Trials in Adults with Refractory Complex Partial Seizures
 
 | Body System Adverse Reaction | 3000 [N=134] % | 6000 [N=43] % | Placebo [N=135] % |
 | --- | --- | --- | --- |
