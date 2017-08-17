@@ -20,14 +20,13 @@ Antimicrobial Activity Minocycline has been shown to be active against most stra
 When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug for treatment.
 
-Dilution techniques:
+Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of tetracycline (class) or minocycline powder1,2.
-The MIC values should be interpreted according to the criteria provided in Table 1.
+The MICs should be determined using a standardized test method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of tetracycline (class) or minocycline powder.1,2 The MIC values should be interpreted according to the criteria provided in Table 1.
 
-Diffusion techniques:
+Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
@@ -59,9 +58,8 @@ A report of Resistant (R) indicates that the antimicrobial drug is not likely to
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test 1,2,3.
-Standard tetracycline (class compound) or minocycline powder should provide the following range of MIC values noted in Table 2.
-For the disc diffusion technique, using the 30 mcg tetracycline or 30 mcg minocycline disk the criteria in Table 2 should be achieved.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1-3 Standard tetracycline (class compound) or minocycline powder should provide the following range of MIC values noted in Table 2.
+For the disc diffusion technique, using the 30 mcg tetracycline or 30 mcg minocycline disk, the criteria in Table 2 should be achieved.
 
 Table 2: Acceptable Quality Control Ranges for Minocycline and Tetracycline
 
@@ -73,4 +71,4 @@ Table 2: Acceptable Quality Control Ranges for Minocycline and Tetracycline
 | Neisseria gonorrhoeae ATCC 49226 Tetracycline | -- | 30 to 42 | 0.25 to 1 |
 | Staphylococcus aureus ATCC 25923 Minocycline Tetracycline |  | 25 to 30 24 to 30 | -- -- |
 | Staphylococcus aureus ATCC 29213 Minocycline Tetracycline | 0.06 to 0.5 0.12 to 1 |  | -- -- |
-| Streptococcus pneumoniae ATCC 49619 Tetracycline | 0.06 to 0.5 | 27 to 31 | -- |
+| Streptococcus pneumoniaeATCC 49619 Tetracycline | 0.06 to 0.5 | 27 to 31 | -- |

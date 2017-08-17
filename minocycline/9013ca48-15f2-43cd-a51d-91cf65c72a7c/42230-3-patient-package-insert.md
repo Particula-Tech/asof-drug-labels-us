@@ -8,7 +8,7 @@ Minocycline hydrochloride capsules are a tetracycline-class antibiotic medicine.
 Minocycline hydrochloride capsules are used to treat certain infections caused by bacteria.
 These include infections of the skin, respiratory tract, urinary tract, some sexually transmitted diseases, and others.
 Minocycline hydrochloride capsules may be used along with other treatments for severe acne.
-Sometimes, other germs, called viruses cause infections.
+Sometimes other germs, called viruses, cause infections.
 The common cold is a virus.
 Minocycline hydrochloride capsules, like other antibiotics, do not treat viruses.
 Who should not use minocycline hydrochloride capsules?
@@ -42,9 +42,9 @@ Especially tell your doctor if you take:
   The dose of your blood thinner may have to be lowered.
 - a penicillin antibiotic medicine.
   Minocycline hydrochloride capsules and penicillins should not be used together.
-- Migraine medicines called ergot alkaloids.
-- An acne medicine called isotretinoin (Accutane, Amnesteem, Claravis, Sotret).
-- Antacids that contain aluminum, calcium, or magnesium, or iron-containing products.
+- migraine medicines called ergot alkaloids.
+- an acne medicine called isotretinoin (Accutane, Amnesteem, Claravis, Sotret).
+- antacids that contain aluminum, calcium, or magnesium, or iron-containing products.
 
 Know the medicines you take, keep a list of them to show your doctor and pharmacist each time you get a new medicine.
 How should I take minocycline hydrochloride capsules?
@@ -102,7 +102,7 @@ Do not give minocycline hydrochloride capsules to other people, even if they hav
 They may harm them.
 This Patient Information leaflet summarizes the most important information about minocycline hydrochloride capsules.
 If you would like more information, talk with your doctor.
-Your doctor or pharmacist can give you information about minocycline hydrochloride capsules that is written for health care professionals.
+Your doctor or pharmacist can give you information about minocycline hydrochloride capsules that is written for healthcare professionals.
 For more information, you can also call Aurobindo Pharma USA, Inc. at 1-866-850-2876 (toll–free).
 Monday through Friday from 9:00 a.m. to 3:00 p.m.
 Eastern Time.
@@ -111,4 +111,4 @@ Active ingredient: minocycline hydrochloride USP, 50 mg, 75 mg and 100 mg Inacti
 The empty hard gelatin capsule shells contain titanium dioxide, sodium lauryl sulfate, and gelatin.
 In addition, the 50 mg capsule shells contain FD&C Red #3, D&C Red #33, and FD&C Yellow #6; the 75 mg capsule shells contain black iron oxide; and the 100 mg capsule shells contain FD&C Blue #1, D&C Red #28, FD&C Red #40, and red iron oxide.
 The capsules are printed with edible ink containing shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, black iron oxide, and potassium hydroxide.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 01/2017
+Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 08/2017
