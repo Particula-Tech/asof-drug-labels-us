@@ -5,9 +5,11 @@
 Risk Summary
 
 IMBRUVICA, a kinase inhibitor, can cause fetal harm based on findings from animal studies.
-In animal reproduction studies, administration of ibrutinib to pregnant rats and rabbits during the period of organogenesis at exposures up to 2-20 times the clinical doses of 420-560 mg daily produced embryofetal toxicity including malformations [see Data].
+There are no available data on IMBRUVICA use in pregnant women to inform a drug-associated risk of major birth defects and miscarriage.
+In animal reproduction studies, administration of ibrutinib to pregnant rats and rabbits during the period of organogenesis at exposures up to 2-20 times the clinical doses of 420-560 mg daily produced embryofetal toxicity including structural abnormalities (see Animal Data).
 If IMBRUVICA is used during pregnancy or if the patient becomes pregnant while taking IMBRUVICA, the patient should be apprised of the potential hazard to the fetus.
 
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
@@ -15,7 +17,7 @@ Animal Data
 
 Ibrutinib was administered orally to pregnant rats during the period of organogenesis at doses of 10, 40 and 80 mg/kg/day.
 Ibrutinib at a dose of 80 mg/kg/day was associated with visceral malformations (heart and major vessels) and increased resorptions and post-implantation loss.
-The dose of 80 mg/kg/day in rats is approximately 14 times the exposure (AUC) in patients with MCL and 20 times the exposure in patients with CLL/SLL or WM administered the dose of 560 mg daily and 420 mg daily, respectively.
+The dose of 80 mg/kg/day in rats is approximately 14 times the exposure (AUC) in patients with MCL or MZL and 20 times the exposure in patients with CLL/SLL or WM administered the dose of 560 mg daily and 420 mg daily, respectively.
 Ibrutinib at doses of 40 mg/kg/day or greater was associated with decreased fetal weights.
 The dose of 40 mg/kg/day in rats is approximately 6 times the exposure (AUC) in patients with MCL administered the dose of 560 mg daily.
 
@@ -60,14 +62,9 @@ Anemia (all grades) and Grade 3 or higher pneumonia occurred more frequently amo
 
 ## 8.6 Hepatic Impairment
 
-Ibrutinib is metabolized in the liver.
-In a hepatic impairment study, data showed an increase in ibrutinib exposure.
-Following single dose administration, the AUC of ibrutinib increased 2.7-, 8.2- and 9.8-fold in subjects with mild (Child-Pugh class A), moderate (Child-Pugh class B), and severe (Child-Pugh class C) hepatic impairment compared to subjects with normal liver function.
+Avoid use of IMBRUVICA in patients with moderate or severe hepatic impairment (Child-Pugh class B and C). The safety of IMBRUVICA has not been evaluated in patients with mild to severe hepatic impairment by Child-Pugh criteria.
 
-The safety of IMBRUVICA has not been evaluated in cancer patients with mild to severe hepatic impairment by Child-Pugh criteria.
-
-Monitor patients for signs of IMBRUVICA toxicity and follow dose modification guidance as needed.
-It is not recommended to administer IMBRUVICA to patients with moderate or severe hepatic impairment (Child-Pugh class B and C) [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Monitor patients for adverse reactions of IMBRUVICA and follow dose modification guidance as needed [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Plasmapheresis
 

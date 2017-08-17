@@ -16,7 +16,7 @@ Because clinical trials are conducted under widely variable conditions, adverse 
 
 Mantle Cell Lymphoma
 
-The data described below reflect exposure to IMBRUVICA in a clinical trial that included 111 patients with previously treated MCL treated with 560 mg daily with a median treatment duration of 8.3 months.
+The data described below reflect exposure to IMBRUVICA in a clinical trial (Study 1104) that included 111 patients with previously treated MCL treated with 560 mg daily with a median treatment duration of 8.3 months.
 
 The most commonly occurring adverse reactions (≥ 20%) were thrombocytopenia, diarrhea, neutropenia, anemia, fatigue, musculoskeletal pain, peripheral edema, upper respiratory tract infection, nausea, bruising, dyspnea, constipation, rash, abdominal pain, vomiting and decreased appetite (see Tables 1 and 2).
 
@@ -61,7 +61,7 @@ Table 1: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with MCL (N=11
 | Nervous system disorders | Dizziness | 14 | 0 |
 | Headache | 13 | 0 |  |
 
-Table 2: Treatment-EmergentBased on laboratory measurements and adverse reactions Decrease of Hemoglobin, Platelets, or Neutrophils in Patients with MCL (N=111)
+Table 2: Treatment-EmergentBased on laboratory measurements and adverse reactions Hematologic Laboratory Abnormalities in Patients with MCL (N=111)
 
 |  | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- |
@@ -82,19 +82,19 @@ Adverse reaction of hyperuricemia was reported for 15% of patients.
 
 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
 
-The data described below reflect exposure in one single-arm, open-label clinical trial and three randomized controlled clinical trials in patients with CLL/SLL (n=1278 total and n=668 patients exposed to IMBRUVICA).
-Study 1 included 51 patients with previously treated CLL/SLL, Study 2 included 391 randomized patients with previously treated CLL or SLL who received single agent IMBRUVICA or ofatumumab, Study 3 included 269 randomized patients 65 years or older with treatment naïve-CLL or SLL who received single agent IMBRUVICA or chlorambucil and Study 4 included 578 randomized patients with previously treated CLL or SLL who received IMBRUVICA in combination with bendamustine and rituximab or placebo in combination with bendamustine and rituximab.
+The data described below reflect exposure in one single-arm, open-label clinical trial (Study 1102) and three randomized controlled clinical trials (RESONATE, RESONATE-2, and HELIOS) in patients with CLL/SLL (n=1278 total and n=668 patients exposed to IMBRUVICA).
+Study 1102 included 51 patients with previously treated CLL/SLL, RESONATE included 391 randomized patients with previously treated CLL or SLL who received single agent IMBRUVICA or ofatumumab, RESONATE-2 included 269 randomized patients 65 years or older with treatment naïve-CLL or SLL who received single agent IMBRUVICA or chlorambucil, and HELIOS included 578 randomized patients with previously treated CLL or SLL who received IMBRUVICA in combination with bendamustine and rituximab or placebo in combination with bendamustine and rituximab.
 
-The most commonly occurring adverse reactions in Studies 1, 2, 3 and 4 in patients with CLL/SLL receiving IMBRUVICA (≥ 20%) were neutropenia, thrombocytopenia, anemia, diarrhea, musculoskeletal pain, nausea, rash, bruising, fatigue, pyrexia and hemorrhage.
-Four to 10 percent of patients receiving IMBRUVICA in Studies 1, 2, 3 and 4 discontinued treatment due to adverse reactions.
+The most commonly occurring adverse reactions in Studies 1102, RESONATE, RESONATE-2, and HELIOS in patients with CLL/SLL receiving IMBRUVICA (≥ 20%) were neutropenia, thrombocytopenia, anemia, diarrhea, musculoskeletal pain, nausea, rash, bruising, fatigue, pyrexia and hemorrhage.
+Four to 10 percent of patients receiving IMBRUVICA in Studies 1102, RESONATE, RESONATE-2, and HELIOS discontinued treatment due to adverse reactions.
 These included pneumonia, hemorrhage, atrial fibrillation, rash and neutropenia (1% each).
 Adverse reactions leading to dose reduction occurred in approximately 6% of patients.
 
-Study 1
+Study 1102
 
 Adverse reactions and laboratory abnormalities from the CLL/SLL trial (N=51) using single agent IMBRUVICA 420 mg daily in patients with previously treated CLL/SLL occurring at a rate of ≥ 10% with a median duration of treatment of 15.6 months are presented in Tables 3 and 4.
 
-Table 3: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with CLL/SLL (N=51) in Study 1
+Table 3: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with CLL/SLL (N=51) in Study 1102
 
 | Body System | Adverse Reaction | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- | --- |
@@ -131,7 +131,7 @@ Table 3: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with CLL/SLL (
 | Vascular disorders | Hypertension | 16 | 8 |
 
 Table 4: Treatment-EmergentBased on laboratory measurements per IWCLL criteria and adverse reactions.
-Decrease of Hemoglobin, Platelets, or Neutrophils in Patients with CLL/SLL (N=51) in Study 1
+Hematologic Laboratory Abnormalities in Patients with CLL/SLL (N=51) in Study 1102
 
 |  | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- |
@@ -140,15 +140,15 @@ Decrease of Hemoglobin, Platelets, or Neutrophils in Patients with CLL/SLL (N=51
 | Neutrophils Decreased | 53 | 26 |
 | Hemoglobin Decreased | 43 | 0 |
 
-Study 2
+RESONATE
 
-Adverse reactions and laboratory abnormalities described below in Tables 5 and 6 reflect exposure to IMBRUVICA with a median duration of 8.6 months and exposure to ofatumumab with a median of 5.3 months in Study 2 in patients with previously treated CLL/SLL.
+Adverse reactions and laboratory abnormalities described below in Tables 5 and 6 reflect exposure to IMBRUVICA with a median duration of 8.6 months and exposure to ofatumumab with a median of 5.3 months in RESONATE in patients with previously treated CLL/SLL.
 
-Table 5: Adverse Reactions Reported in ≥ 10% of Patients and at Least 2% Greater in the IMBRUVICA Treated Arm in Patients with CLL/SLL in Study 2
+Table 5: Adverse Reactions Reported in ≥ 10% of Patients and at Least 2% Greater in the IMBRUVICA Treated Arm in Patients with CLL/SLL in RESONATE
 
-| Body System Adverse Reaction | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
+| All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
 | --- | --- | --- | --- | --- |
-|  | IMBRUVICA (N=195) |  | Ofatumumab (N=191) |  |
+| Body System Adverse Reaction | IMBRUVICA (N=195) |  | Ofatumumab (N=191) |  |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 48 | 4 | 18 | 2 |
 | Nausea | 26 | 2 | 18 | 0 |
@@ -176,11 +176,9 @@ Table 5: Adverse Reactions Reported in ≥ 10% of Patients and at Least 2% Great
 | Contusion | 11 | 0 | 3 | 0 |
 | Eye disorders |  |  |  |  |
 | Vision blurred | 10 | 0 | 3 | 0 |
-| Subjects with multiple events for a given ADR term are counted once only for each ADR term. |  |  |  |  |
-| The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. |  |  |  |  |
+| Subjects with multiple events for a given ADR term are counted once only for each ADR term. The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. |  |  |  |  |
 
-Table 6: Treatment-EmergentBased on laboratory measurements per IWCLL criteria.
-Decrease of Hemoglobin, Platelets, or Neutrophils in patients with CLL/SLL in Study 2
+Table 6: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with CLL/SLL in RESONATE
 
 |  | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- | --- | --- |
@@ -189,16 +187,16 @@ Decrease of Hemoglobin, Platelets, or Neutrophils in patients with CLL/SLL in St
 | Platelets Decreased | 52 | 5 | 45 | 10 |
 | Hemoglobin Decreased | 36 | 0 | 21 | 0 |
 
-Study 3
+RESONATE-2
 
 Adverse reactions described below in Table 7 reflect exposure to IMBRUVICA with a median duration of 17.4 months.
-The median exposure to chlorambucil was 7.1 months in Study 3.
+The median exposure to chlorambucil was 7.1 months in RESONATE-2.
 
-Table 7: Adverse Reactions Reported in ≥ 10% of Patients and at Least 2% Greater in the IMBRUVICA Treated Arm in Patients with CLL/SLL in Study 3
+Table 7: Adverse Reactions Reported in ≥ 10% of Patients and at Least 2% Greater in the IMBRUVICA Treated Arm in Patients with CLL/SLL in RESONATE-2
 
-| Body System Adverse Reaction | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
+| All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
 | --- | --- | --- | --- | --- |
-|  | IMBRUVICA (N=135) |  | Chlorambucil (N=132) |  |
+| Body System Adverse Reaction | IMBRUVICA (N=135) |  | Chlorambucil (N=132) |  |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 42 | 4 | 17 | 0 |
 | StomatitisIncludes multiple ADR terms | 14 | 1 | 4 | 1 |
@@ -227,18 +225,17 @@ Table 7: Adverse Reactions Reported in ≥ 10% of Patients and at Least 2% Great
 | Hypertension | 14 | 4 | 1 | 0 |
 | Nervous System Disorders |  |  |  |  |
 | Headache | 12 | 1 | 10 | 2 |
-| Subjects with multiple events for a given ADR term are counted once only for each ADR term. |  |  |  |  |
-| The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. |  |  |  |  |
+| Subjects with multiple events for a given ADR term are counted once only for each ADR term. The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. |  |  |  |  |
 
-Study 4
+HELIOS
 
-Adverse reactions described below in Table 8 reflect exposure to IMBRUVICA + BR with a median duration of 14.7 months and exposure to placebo + BR with a median of 12.8 months in Study 4 in patients with previously treated CLL/SLL.
+Adverse reactions described below in Table 8 reflect exposure to IMBRUVICA + BR with a median duration of 14.7 months and exposure to placebo + BR with a median of 12.8 months in HELIOS in patients with previously treated CLL/SLL.
 
-Table 8: Adverse Reactions Reported in at Least 10% of Patients and at Least 2% Greater in the IMBRUVICA Arm in Patients with CLL/SLL in Study 4
+Table 8: Adverse Reactions Reported in at Least 10% of Patients and at Least 2% Greater in the IMBRUVICA Arm in Patients with CLL/SLL in HELIOS
 
-| Body System Adverse Reaction | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
+| All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
 | --- | --- | --- | --- | --- |
-|  | Ibrutinib + BR (N=287) |  | Placebo + BR (N=287) |  |
+| Body System Adverse Reaction | Ibrutinib + BR (N=287) |  | Placebo + BR (N=287) |  |
 | Blood and lymphatic system disorders |  |  |  |  |
 | NeutropeniaIncludes multiple ADR terms | 66 | 61 | 60 | 55 |
 | Thrombocytopenia | 34 | 16 | 26 | 16 |
@@ -261,53 +258,51 @@ Table 8: Adverse Reactions Reported in at Least 10% of Patients and at Least 2% 
 | Skin infection | 10 | 3 | 6 | 2 |
 | Metabolism and nutrition disorders |  |  |  |  |
 | Hyperuricemia | 10 | 2 | 6 | 0 |
-| The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. |  |  |  |  |
-| <1 used for frequency above 0 and below 0.5% |  |  |  |  |
+| The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. <1 used for frequency above 0 and below 0.5% |  |  |  |  |
 
 Atrial fibrillation of any grade occurred in 7% of patients treated with IMBRUVICA + BR and 2% of patients treated with placebo + BR.
 The frequency of Grade 3 and 4 atrial fibrillation was 3% in patients treated with IMBRUVICA + BR and 1% in patients treated with placebo +BR.
 
 Waldenström's Macroglobulinemia and Marginal Zone Lymphoma
 
-The data described below reflect exposure to IMBRUVICA in open-label clinical trials that included 63 patients with previously treated WM (Study 5) and 63 patients with previously treated MZL (Study 6).
+The data described below reflect exposure to IMBRUVICA in open-label clinical trials that included 63 patients with previously treated WM (Study 1118) and 63 patients with previously treated MZL (Study 1121).
 
-The most commonly occurring adverse reactions in Studies 5 and 6 (≥ 20%) were thrombocytopenia, diarrhea, neutropenia, fatigue, bruising, hemorrhage, anemia, rash, musculoskeletal pain, and nausea.
+The most commonly occurring adverse reactions in Studies 1118 and 1121 (≥ 20%) were thrombocytopenia, diarrhea, neutropenia, fatigue, bruising, hemorrhage, anemia, rash, musculoskeletal pain, and nausea.
 
-Nine percent of patients receiving IMBRUVICA across Studies 5 and 6 discontinued treatment due to adverse reactions.
+Nine percent of patients receiving IMBRUVICA across Studies 1118 and 1121 discontinued treatment due to adverse reactions.
 The most common adverse reactions leading to discontinuation were interstitial lung disease, diarrhea and rash.
 Adverse reactions leading to dose reduction occurred in 10% of patients.
 
-Study 5
+Study 1118
 
-Adverse reactions and laboratory abnormalities described below in Tables 9 and 10 reflect exposure to IMBRUVICA with a median duration of 11.7 months in Study 5.
+Adverse reactions and laboratory abnormalities described below in Tables 9 and 10 reflect exposure to IMBRUVICA with a median duration of 11.7 months in Study 1118.
 
-Table 9: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with WM in Study 5 (N=63)
+Table 9: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with WM in Study 1118 (N=63)
 
-| Body System | Adverse Reaction | All Grades (%) | Grade 3 or 4 (%) |
-| --- | --- | --- | --- |
-| Gastrointestinal disorders | Diarrhea | 37 | 0 |
-| Nausea | 21 | 0 |  |
-| StomatitisIncludes multiple ADR terms. | 16 | 0 |  |
-| Gastroesophageal reflux disease | 13 | 0 |  |
-| Skin and subcutaneous tissue disorders | Rash | 22 | 0 |
-| Bruising | 16 | 0 |  |
-| Pruritus | 11 | 0 |  |
-| General disorders and administrative site conditions | Fatigue | 21 | 0 |
-| Musculoskeletal and connective tissue disorders | Muscle spasms | 21 | 0 |
-| Arthropathy | 13 | 0 |  |
-| Infections and infestations | Upper respiratory tract infection | 19 | 0 |
-| Sinusitis | 19 | 0 |  |
-| Pneumonia | 14 | 6 |  |
-| Skin infection | 14 | 2 |  |
-| Respiratory, thoracic and mediastinal disorders | Epistaxis | 19 | 0 |
-| Cough | 13 | 0 |  |
-| Nervous system disorders | Dizziness | 14 | 0 |
-| Headache | 13 | 0 |  |
-| Neoplasms benign, malignant, and unspecified (including cysts and polyps) | Skin cancer | 11 | 0 |
-| The body system and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |
+| Body System | Adverse Reaction | All Grades (%) | Grade 3 or 4 (%) |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Gastrointestinal disorders | Diarrhea | 37 | 0 |  |  |
+| Nausea | 21 | 0 |  |  |  |
+| StomatitisIncludes multiple ADR terms. | 16 | 0 |  |  |  |
+| Gastroesophageal reflux disease | 13 | 0 |  |  |  |
+| Skin and subcutaneous tissue disorders | Rash | 22 | 0 |  |  |
+| Bruising | 16 | 0 |  |  |  |
+| Pruritus | 11 | 0 |  |  |  |
+| General disorders and administrative site conditions | Fatigue | 21 | 0 |  |  |
+| Musculoskeletal and connective tissue disorders | Muscle spasms | 21 | 0 |  |  |
+| Arthropathy | 13 | 0 |  |  |  |
+| Infections and infestations | Upper respiratory tract infection | 19 | 0 |  |  |
+| Sinusitis | 19 | 0 |  |  |  |
+| Pneumonia | 14 | 6 |  |  |  |
+| Skin infection | 14 | 2 |  |  |  |
+| Respiratory, thoracic and mediastinal disorders | Epistaxis | 19 | 0 |  |  |
+| Cough | 13 | 0 |  |  |  |
+| Nervous system disorders | Dizziness | 14 | 0 |  |  |
+| Headache | 13 | 0 |  |  |  |
+| Neoplasms benign, malignant, and unspecified (including cysts and polyps) | Skin cancer | 11 | 0 |  |  |
+| The body system and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |  |  |
 
-Table 10: Treatment-EmergentBased on laboratory measurements.
-Decrease of Hemoglobin, Platelets, or Neutrophils in Patients with WM in Study 5 (N=63)
+Table 10: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with WM in Study 1118 (N=63)
 
 |  | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- |
@@ -316,49 +311,49 @@ Decrease of Hemoglobin, Platelets, or Neutrophils in Patients with WM in Study 5
 | Neutrophils Decreased | 44 | 19 |
 | Hemoglobin Decreased | 13 | 8 |
 
-Study 6
+Study 1121
 
-Adverse reactions and laboratory abnormalities described below in Tables 11 and 12 reflect exposure to IMBRUVICA with a median duration of 11.6 months in Study 6.
+Adverse reactions and laboratory abnormalities described below in Tables 11 and 12 reflect exposure to IMBRUVICA with a median duration of 11.6 months in Study 1121.
 
-Table 11: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with MZL in Study 6 (N=63)
+Table 11: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with MZL in Study 1121 (N=63)
 
-| Body System | Adverse Reaction | All Grades (%) | Grade 3 or 4 (%) |
-| --- | --- | --- | --- |
-| Gastrointestinal disorders | Diarrhea | 43 | 5 |
-| Nausea | 25 | 0 |  |
-| Dyspepsia | 19 | 0 |  |
-| Stomatitis* | 17 | 2 |  |
-| Abdominal pain | 16 | 2 |  |
-| Constipation | 14 | 0 |  |
-| Abdominal pain Upper | 13 | 0 |  |
-| Vomiting | 11 | 2 |  |
-| General disorders and administrative site conditions | Fatigue | 44 | 6 |
-| Peripheral edema | 24 | 2 |  |
-| Pyrexia | 17 | 2 |  |
-| Skin and subcutaneous tissue disorders | Bruising * | 41 | 0 |
-| Rash* | 29 | 5 |  |
-| Pruritus | 14 | 0 |  |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal pain* | 40 | 3 |
-| Arthralgia | 24 | 2 |  |
-| Muscle spasms | 19 | 3 |  |
-| Infections and infestations | Upper respiratory tract infection | 21 | 0 |
-| Sinusitis* | 19 | 0 |  |
-| Bronchitis | 11 | 0 |  |
-| Pneumonia* | 11 | 10 |  |
-| Metabolism and nutrition disorders | Decreased appetite | 16 | 2 |
-| Hyperuricemia | 16 | 0 |  |
-| Hypoalbuminemia | 14 | 0 |  |
-| Hypokalemia | 13 | 0 |  |
-| Vascular Disorders | Hemorrhage* | 30 | 0 |
-| Hypertension* | 14 | 5 |  |
-| Respiratory, thoracic and mediastinal disorders | Cough | 22 | 2 |
-| Dyspnea | 21 | 2 |  |
-| Nervous system disorders | Dizziness | 19 | 0 |
-| Headache | 13 | 0 |  |
-| Psychiatric disorders | Anxiety | 16 | 2 |
-| The body system and individual ADR preferred terms are sorted in descending frequency order. * Includes multiple ADR terms. |  |  |  |
+| Body System | Adverse Reaction | All Grades (%) | Grade 3 or 4 (%) |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Gastrointestinal disorders | Diarrhea | 43 | 5 |  |  |
+| Nausea | 25 | 0 |  |  |  |
+| Dyspepsia | 19 | 0 |  |  |  |
+| StomatitisIncludes multiple ADR terms. | 17 | 2 |  |  |  |
+| Abdominal pain | 16 | 2 |  |  |  |
+| Constipation | 14 | 0 |  |  |  |
+| Abdominal pain Upper | 13 | 0 |  |  |  |
+| Vomiting | 11 | 2 |  |  |  |
+| General disorders and administrative site conditions | Fatigue | 44 | 6 |  |  |
+| Peripheral edema | 24 | 2 |  |  |  |
+| Pyrexia | 17 | 2 |  |  |  |
+| Skin and subcutaneous tissue disorders | Bruising | 41 | 0 |  |  |
+| Rash | 29 | 5 |  |  |  |
+| Pruritus | 14 | 0 |  |  |  |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal pain | 40 | 3 |  |  |
+| Arthralgia | 24 | 2 |  |  |  |
+| Muscle spasms | 19 | 3 |  |  |  |
+| Infections and infestations | Upper respiratory tract infection | 21 | 0 |  |  |
+| Sinusitis | 19 | 0 |  |  |  |
+| Bronchitis | 11 | 0 |  |  |  |
+| Pneumonia | 11 | 10 |  |  |  |
+| Metabolism and nutrition disorders | Decreased appetite | 16 | 2 |  |  |
+| Hyperuricemia | 16 | 0 |  |  |  |
+| Hypoalbuminemia | 14 | 0 |  |  |  |
+| Hypokalemia | 13 | 0 |  |  |  |
+| Vascular Disorders | Hemorrhage | 30 | 0 |  |  |
+| Hypertension | 14 | 5 |  |  |  |
+| Respiratory, thoracic and mediastinal disorders | Cough | 22 | 2 |  |  |
+| Dyspnea | 21 | 2 |  |  |  |
+| Nervous system disorders | Dizziness | 19 | 0 |  |  |
+| Headache | 13 | 0 |  |  |  |
+| Psychiatric disorders | Anxiety | 16 | 2 |  |  |
+| The body system and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |  |  |
 
-Table 12: Treatment-Emergent* Decrease of Hemoglobin, Platelets, or Neutrophils in Patients with MZL in Study 6 (N=63)
+Table 12: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with MZL in Study 1121 (N=63)
 
 |  | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- |
@@ -366,7 +361,54 @@ Table 12: Treatment-Emergent* Decrease of Hemoglobin, Platelets, or Neutrophils 
 | Platelets Decreased | 49 | 6 |
 | Hemoglobin Decreased | 43 | 13 |
 | Neutrophils Decreased | 22 | 13 |
-| * Based on laboratory measurements. |  |  |
+
+Chronic Graft versus Host Disease
+
+The data described below reflect exposure to IMBRUVICA in an open-label clinical trial (Study 1129) that included 42 patients with cGVHD after failure of first line corticosteroid therapy and required additional therapy.
+
+The most commonly occurring adverse reactions in the cGVHD trial (≥ 20%) were fatigue, bruising, diarrhea, thrombocytopenia, stomatitis, muscle spasms, nausea, hemorrhage, anemia, and pneumonia.
+Atrial fibrillation occurred in one patient (2%) which was Grade 3.
+
+Twenty-four percent of patients receiving IMBRUVICA in the cGVHD trial discontinued treatment due to adverse reactions.
+The most common adverse reactions leading to discontinuation were fatigue and pneumonia.
+Adverse reactions leading to dose reduction occurred in 26% of patients.
+
+Adverse reactions and laboratory abnormalities described below in Tables 13 and 14 reflect exposure to IMBRUVICA with a median duration of 4.4 months in the cGVHD trial.
+
+Table 13: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with cGVHD (N=42)
+
+| Body System | Adverse Reaction | All Grades (%) | Grade 3 or 4 (%) |
+| --- | --- | --- | --- |
+| General disorders and administration site conditions | Fatigue | 57 | 12 |
+| Pyrexia | 17 | 5 |  |
+| Edema peripheral | 12 | 0 |  |
+| Skin and subcutaneous tissue disorders | BruisingIncludes multiple ADR terms. | 40 | 0 |
+| Rash | 12 | 0 |  |
+| Gastrointestinal disorders | Diarrhea | 36 | 10 |
+| Stomatitis | 29 | 2 |  |
+| Nausea | 26 | 0 |  |
+| Constipation | 12 | 0 |  |
+| Musculoskeletal and connective tissue disorders | Muscle spasms | 29 | 2 |
+| Musculoskeletal pain | 14 | 5 |  |
+| Vascular disorders | Hemorrhage | 26 | 0 |
+| Infections and infestations | Pneumonia | 21 | 10 |
+| Upper respiratory tract infection | 19 | 0 |  |
+| Sepsis | 10 | 10 |  |
+| Nervous system disorders | Headache | 17 | 5 |
+| Injury, poisoning and procedural complications | Fall | 17 | 0 |
+| Respiratory, thoracic and mediastinal disorders | Cough | 14 | 0 |
+| Dyspnea | 12 | 2 |  |
+| Metabolism and nutrition disorders | Hypokalemia | 12 | 7 |
+| The system organ class and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |
+
+Table 14: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with cGVHD (N=42)
+
+| All Grades (%) | Grade 3 or 4 (%) |  |
+| --- | --- | --- |
+|  | Percent of Patients (N=42) |  |
+| Platelets Decreased | 33 | 0 |
+| Neutrophils Decreased | 10 | 10 |
+| Hemoglobin Decreased | 24 | 2 |
 
 Additional Important Adverse Reactions
 
@@ -400,3 +442,5 @@ Metabolic and nutrition disorders: tumor lysis syndrome [see Warnings & Precauti
 Immune system disorders: anaphylactic shock, angioedema, urticaria
 
 Skin and subcutaneous tissue disorders: Stevens-Johnson Syndrome (SJS), onychoclasis
+
+Infections: hepatitis B reactivation

@@ -18,6 +18,11 @@ The recommended dose of IMBRUVICA for CLL/SLL and WM is 420 mg (three 140 mg cap
 
 The recommended dose of IMBRUVICA for CLL/SLL when used in combination with bendamustine and rituximab (administered every 28 days for up to 6 cycles) is 420 mg (three 140 mg capsules) orally once daily until disease progression or unacceptable toxicity.
 
+Chronic Graft versus Host Disease
+
+The recommended dose of IMBRUVICA for cGVHD is 420 mg (three 140 mg capsules) orally once daily until cGVHD progression, recurrence of an underlying malignancy, or unacceptable toxicity.
+When a patient no longer requires therapy for the treatment of cGVHD, IMBRUVICA should be discontinued considering the medical assessment of the individual patient.
+
 ## 2.3 Dose Modifications for Adverse Reactions
 
 Interrupt IMBRUVICA therapy for any Grade 3 or greater non-hematological toxicities, Grade 3 or greater neutropenia with infection or fever, or Grade 4 hematological toxicities.
@@ -28,7 +33,7 @@ If these toxicities persist or recur following two dose reductions, discontinue 
 
 Recommended dose modifications are described below:
 
-| Toxicity Occurrence | MCL and MZL Dose Modification After Recovery Starting Dose = 560 mg | CLL/SLL and WM Dose Modification After Recovery Starting Dose = 420 mg |
+| Toxicity Occurrence | Dose Modification for MCL and MZL After Recovery Starting Dose = 560 mg | Dose Modification for CLL/SLL, WM, and cGVHD After Recovery Starting Dose = 420 mg |
 | --- | --- | --- |
 | First | Restart at 560 mg daily | Restart at 420 mg daily |
 | Second | Restart at 420 mg daily | Restart at 280 mg daily |
@@ -37,19 +42,19 @@ Recommended dose modifications are described below:
 
 ## 2.4 Dose Modifications for Use with CYP3A Inhibitors
 
-Avoid co-administration with strong or moderate CYP3A inhibitors and consider alternative agents with less CYP3A inhibition.
+Recommended dose modifications are described below [see Drug Interactions (7.1)]:
 
-Concomitant use of strong CYP3A inhibitors which would be taken chronically (e.g., ritonavir, indinavir, nelfinavir, saquinavir, boceprevir, telaprevir, nefazodone) is not recommended.
-For short-term use (treatment for 7 days or less) of strong CYP3A inhibitors (e.g., antifungals and antibiotics) consider interrupting IMBRUVICA therapy until the CYP3A inhibitor is no longer needed [see Drug Interactions (7.1)].
-
-Reduce IMBRUVICA dose to 140 mg if a moderate CYP3A inhibitor must be used (e.g., fluconazole, darunavir, erythromycin, diltiazem, atazanavir, aprepitant, amprenavir, fosamprenavir, crizotinib, imatinib, verapamil, and ciprofloxacin) [see Drug Interactions (7.1)].
-
-Patients taking concomitant strong or moderate CYP3A inhibitors should be monitored more closely for signs of IMBRUVICA toxicity.
+| Patient Population | Coadministered Drug | Recommended IMBRUVICA Dose |
+| --- | --- | --- |
+| B-Cell Malignancies | Moderate CYP3A inhibitorPosaconazole at doses less than or equal to 200 mg BIDVoriconazole at any dose | 140 mg once daily Interrupt dose as recommended [see Dosage and Administration (2.3)]. |
+| Posaconazole at doses greater than 200 mg BIDOther strong CYP3A inhibitorsVoriconazole at any dose | Avoid concomitant use. If these inhibitors will be used short-term (such as anti-infectives for seven days or less), interrupt IMBRUVICA. |  |
+| Chronic Graft versus Host Disease | Moderate CYP3A inhibitor | 420 mg once daily Modify dose as recommended [see Dosage and Administration (2.3)]. |
+| Posaconazole immediate-release tablet 200 mg BID or delayed-release tablet 300 mg QD Voriconazole at any dose | 280 mg once daily Modify dose as recommended [see Dosage and Administration (2.3)]. |  |
+| Posaconazole at other higher dosesOther strong CYP3A inhibitors | Avoid concomitant use. If these inhibitors will be used short-term (such as anti-infectives for seven days or less), interrupt IMBRUVICA. |  |
 
 ## 2.5 Dose Modifications for Use in Hepatic Impairment
 
-For patients with mild liver impairment (Child-Pugh class A), the recommended dose is 140 mg daily (one capsule).
-Avoid the use of IMBRUVICA in patients with moderate or severe hepatic impairment (Child-Pugh classes B and C) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+The recommended dose is 140 mg daily for patients with mild hepatic impairment (Child-Pugh class A). Avoid the use of IMBRUVICA in patients with moderate or severe hepatic impairment (Child-Pugh classes B and C) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.6 Missed Dose
 

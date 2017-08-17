@@ -14,14 +14,15 @@ Consider the benefit-risk of withholding IMBRUVICA for at least 3 to 7 days pre 
 
 ## 5.2 Infections
 
-Fatal and non-fatal infections have occurred with IMBRUVICA therapy.
-Grade 3 or greater infections occurred in 14% to 29% of patients [see Adverse Reactions (6.1), (6.2)].
+Fatal and non-fatal infections (including bacterial, viral, or fungal) have occurred with IMBRUVICA therapy.
+Grade 3 or greater infections occurred in 14% to 29% of patients [see Adverse Reactions (6.1, 6.2)].
 Cases of progressive multifocal leukoencephalopathy (PML) and Pneumocystis jirovecii pneumonia (PJP) have occurred in patients treated with IMBRUVICA.
-Evaluate patients for fever and infections and treat appropriately.
+Consider prophylaxis according to standard of care in patients who are at increased risk for opportunistic infections.
+Monitor and evaluate patients for fever and infections and treat appropriately.
 
 ## 5.3 Cytopenias
 
-Treatment-emergent Grade 3 or 4 cytopenias including neutropenia (range, 13 to 29%), thrombocytopenia (range, 5 to 17%), and anemia (range, 0 to 13%) based on laboratory measurements occurred in patients treated with single agent IMBRUVICA.
+Treatment-emergent Grade 3 or 4 cytopenias including neutropenia (range, 13 to 29%), thrombocytopenia (range, 5 to 17%), and anemia (range, 0 to 13%) based on laboratory measurements occurred in patients with B-cell malignancies treated with single agent IMBRUVICA.
 
 Monitor complete blood counts monthly.
 
