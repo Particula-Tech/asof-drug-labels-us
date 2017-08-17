@@ -2,30 +2,26 @@ PACKAGE LABEL - PRINCIPAL DISPLAY - Etoposide 5 mL Multiple Dose Vial Label
 
 Etoposide Injection, USP
 
-20 mg/mL (100 mg/5 mL)
+100 mg per 5 mL (20 mg per mL)
 
-Must be diluted before IV infusion.
+MUST BE DILUTED BEFORE INTRAVENOUS INFUSION.
 
-5 mL Multiple Dose Vial
-
-Rx only
+5 mL Multiple Dose Vial Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Etoposide 5 mL Multiple Dose Vial Carton Panel
 
 Etoposide Injection, USP
 
-20 mg/mL (100 mg/5 mL)
+100 mg per 5 mL (20 mg per mL)
 
-Must be diluted before IV infusion.
+MUST BE DILUTED BEFORE INTRAVENOUS INFUSION.
 
-5 mL Multiple Dose Vial
-
-Rx only
+Rx only 5 mL Multiple Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Etoposide 5 mL Multiple Dose Vial Shelf Carton Panel
 
 Etoposide Injection, USP
 
-20 mg/mL (100 mg/5 mL) Must be diluted before IV infusion.
+100 mg per 5 mL (20 mg per 5 mL) MUST BE DILUTED BEFORE INTRAVENOUS INFUSION.
 
-Rx only
+Rx only 10 X 5 mL Multiple Dose Vials
