@@ -67,7 +67,7 @@ Table 2 provides the volume of the 50 mg/mL dosing solution that should be admin
 Table 2.
 Infant Dosing Table
 
-| Weight [kg] | Starting Dose 50 mg/kg/day | Maximum Dose 150 mg/kg/day |
+| Weight[kg] | Starting Dose50 mg/kg/day | Maximum Dose150 mg/kg/day |
 | --- | --- | --- |
 | 3 | 1.5 mL twice daily | 4.5 mL twice daily |
 | 4 | 2 mL twice daily | 6 mL twice daily |
@@ -132,7 +132,7 @@ The concentration after reconstitution is 50 mg/mL.
 Table 3.
 Number of Vigabatrin for Oral Solution Packets and mL of Water Needed for Each Individual Dose
 
-| Individual Dose [mg] [Given Twice Daily] | Total Number of Vigabatrin for Oral Solution Packets | Total mL of Water Required for Dissolving |
+| Individual Dose [mg][Given Twice Daily] | Total Number ofVigabatrin for Oral Solution Packets | Total mL of WaterRequired for Dissolving |
 | --- | --- | --- |
 | 0 to 500 | 1 Packet | 10 mL |
 | 501 to 1000 | 2 Packet | 20 mL |

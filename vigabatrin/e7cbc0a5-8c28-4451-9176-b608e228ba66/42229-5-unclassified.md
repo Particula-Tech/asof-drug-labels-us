@@ -16,9 +16,9 @@ Important Note:
 - Vigabatrin for oral solution powder must be mixed with water only.
   The water may be cold or at room temperature.
 - Your healthcare provider will tell you:
-- how many packets of vigabatrin for oral solution you will need for each dose
-- how many milliliters (mL) of water to use to mix one dose of vigabatrin for oral solution
-- how many milliliters (mL) of the powder and water mixture you will need for each dose of medicine.
+  - how many packets of vigabatrin for oral solution you will need for each dose
+  - how many milliliters (mL) of water to use to mix one dose of vigabatrin for oral solution
+  - how many milliliters (mL) of the powder and water mixture you will need for each dose of medicine.
 - Vigabatrin for oral solution should be given right away after it is mixed
 
 Supplies you will need to mix 1 dose of vigabatrin for oral solution:

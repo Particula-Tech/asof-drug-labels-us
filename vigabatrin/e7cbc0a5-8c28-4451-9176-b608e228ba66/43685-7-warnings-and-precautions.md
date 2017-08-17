@@ -121,9 +121,12 @@ Table 4 shows absolute and relative risk by indication for all evaluated AEDs.
 Table 4.
 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events per 1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Drug Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
+| Indication | Placebo Patients with Events per 1000 Patients | Drug Patientswith Events per 1000 Patients | Relative Risk:Incidence of Drug Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
 | --- | --- | --- | --- | --- |
-| Epilepsy Psychiatric Other Total | 1.0 5.7 1.0 2.4 | 3.4 8.5 1.8 4.3 | 3.5 1.5 1.9 1.8 | 2.4 2.9 0.9 1.9 |
+| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
+| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
 
